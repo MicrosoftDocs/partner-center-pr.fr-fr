@@ -1,6 +1,6 @@
 ---
 title: Facturation | Espace partenaires
-Description: "En tant que partenaire Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60jours suivant la facturation des abonnements basés sur les licences et sur l’utilisation de vos clients."
+Description: "En tant que partenaire Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60&nbsp;jours suivant la facturation des abonnements basés sur les licences et sur l’utilisation de vos clients."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 translationtype: Human Translation
@@ -12,7 +12,7 @@ ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
 # Facturation
 
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60jours suivant la facturation des abonnements basés sur les licences et sur l’utilisation de vos clients.
+En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60&nbsp;jours suivant la facturation des abonnements basés sur les licences et sur l’utilisation de vos clients.
 
 Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélectionnez **Facturation**. Cette page de facturation affiche votre historique de facturation et la tendance, le solde restant dû pour le mois en cours, les liens vers votre facture et vos fichiers de rapprochement et votre dernier paiement.
 
@@ -60,14 +60,14 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <td>Dates</td>
 <td><ul>
 <li>Votre date de facturation mensuelle correspond au jour du mois que vous avez sélectionné lors de l’inscription. Microsoft envoie un e-mail de confirmation qui indique votre date de facturation.</li>
-<li>Vous pouvez accéder aux listes de prix 1mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12 mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. Nous vous informerons 30 jours à l’avance de toute modification du prix par le biais de la publication de notre liste de prix du partenaire.</li>
+<li>Vous pouvez accéder aux listes de prix 1&nbsp;mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12 mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. Nous vous informerons 30 jours à l’avance de toute modification du prix par le biais de la publication de notre liste de prix du partenaire.</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Modalités de paiement</td>
 <td><ul>
-<li>Modalités de paiement - 60jours net</li>
-<li>Les paiements doivent être effectués à la date d’échéance de la facture (60jours après la date de la facturation), faute de quoi le compte sera en souffrance.</li>
+<li>Modalités de paiement - 60&nbsp;jours net</li>
+<li>Les paiements doivent être effectués à la date d’échéance de la facture (60&nbsp;jours après la date de la facturation), faute de quoi le compte sera en souffrance.</li>
 <li>Les comptes en souffrance sont passibles de suspension et/ou résiliation du programme Fournisseur de solutions Cloud. Les comptes suspendus ne peuvent pas créer de client ou de commande, demander une relation de revendeur, augmenter ou diminuer le nombre d’abonnements, commander des abonnements à des composants additionnels, ni convertir ou changer un abonnement. Ils sont limités à la gestion des clients, des abonnements et des ressources existants jusqu’à ce qu’ils soient de nouveau à jour. Les partenaires peuvent regagner l’intégralité des fonctionnalités de leurs comptes suspendus lorsqu’ils règlent leurs factures en retard de paiement.</li>
 </ul></td>
 </tr>
@@ -130,9 +130,9 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <td>Règles de facturation</td>
 <td><ul>
 <li>Les abonnements sont annuels et automatiquement renouvelés.</li>
-<li>La facturation se décompose en 12paiements mensuels pour un abonnement annuel.</li>
+<li>La facturation se décompose en 12&nbsp;paiements mensuels pour un abonnement annuel.</li>
 <li>Les services basés sur les licences sont facturés de manière anticipée pour la prochaine période de facturation, en fonction du nombre de licences à la fin de la période de facturation précédente.</li>
-<li>Vous êtes facturé/crédité à terme échu pour toute modification du nombre de licences (calcul au prorata en fonction des jours de licences). La formule suivante est utilisée pour le calcul au prorata: [ARRONDI((ARRONDI(Prix unitaire * Quantité / Prorata du nombre de jours du mois, 2) * Prorata du nombre de jours) / Quantité, 2) * Quantité]</li>
+<li>Vous êtes facturé/crédité à terme échu pour toute modification du nombre de licences (calcul au prorata en fonction des jours de licences). La formule suivante est utilisée pour le calcul au prorata&nbsp;: [ARRONDI((ARRONDI(Prix unitaire * Quantité / Prorata du nombre de jours du mois, 2) * Prorata du nombre de jours) / Quantité, 2) * Quantité]</li>
 <li>Les paiements sont facturés pour les sièges vendus (pas pour les sièges approvisionnés).</li>
 </ul></td>
 </tr>
@@ -162,12 +162,12 @@ Azure fonctionne sur le modèle du paiement à l’utilisation, dans lequel vous
 <tr class="odd">
 <td>Règles de facturation</td>
 <td><ul>
-<li>La facturation est déclenchée à la date de début de l’abonnement. Aucune «période gratuite» n’existe pour la facturation basée sur l’utilisation.</li>
+<li>La facturation est déclenchée à la date de début de l’abonnement. Aucune «&nbsp;période gratuite&nbsp;» n’existe pour la facturation basée sur l’utilisation.</li>
 <li>Les abonnements sont au mois et renouvelés automatiquement en fonction des barèmes des nouveaux services. La facturation basée sur l’utilisation est mensuelle, à terme échu.</li>
 <li>Les barèmes des services peuvent changer au cours du cycle de facturation.
 <ul>
-<li>Augmentation de prix: préavis de 30jours.</li>
-<li>Réduction de prix: jour d’application de la modification.</li>
+<li>Augmentation de prix&nbsp;: préavis de 30&nbsp;jours.</li>
+<li>Réduction de prix&nbsp;: jour d’application de la modification.</li>
 <li>Les abonnements existants utilisent le taux en vigueur au début du cycle de facturation.</li>
 <li>Les nouveaux abonnements (créés au cours du cycle de facturation) utilisent le taux en vigueur à la date de création.</li>
 </ul></li>
@@ -178,7 +178,7 @@ Azure fonctionne sur le modèle du paiement à l’utilisation, dans lequel vous
 <td><ul>
 <li>Vous verrez les paiements ajustés sur votre prochaine facture mensuelle.</li>
 <li>Aucun frais de résiliation anticipée n’est appliqué pour l’instant pour l’annulation de services basés sur l’utilisation.</li>
-<li>Vous verrez des crédits de tout type, y compris les créditsSLA, sur votre prochaine facture mensuelle.</li>
+<li>Vous verrez des crédits de tout type, y compris les crédits&nbsp;SLA, sur votre prochaine facture mensuelle.</li>
 </ul></td>
 </tr>
 </tbody>

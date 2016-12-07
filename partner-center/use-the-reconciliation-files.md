@@ -33,23 +33,23 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 </colgroup>
 <thead>
 <tr class="header">
-<th>IDMPN</th>
+<th>ID&nbsp;MPN</th>
 <th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>IDMPN</td>
-<td><p>IDMPN du partenaireCSP (direct ou indirect).</p></td>
+<td>ID&nbsp;MPN</td>
+<td><p>ID&nbsp;MPN du partenaire&nbsp;CSP (direct ou indirect).</p></td>
 </tr>
 <tr class="even">
-<td>IDMPN revendeur</td>
+<td>ID&nbsp;MPN revendeur</td>
 <td><p>Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect.</p>
-<p>IDMPN du revendeur de référence pour l’abonnement. CetID correspond à l’ID de revendeur indiqué pour l’abonnement dans l’Espace partenaires.</p>
-<p>Pour afficher ou mettre à jour le revendeur, dans le menu Espace partenaires, sélectionnez <strong>Clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (IDMPN)</strong>.</p>
-<p>Si un partenaireFournisseur de solutionsCloud a vendu l’abonnement directement au client, son IDMPN est indiqué deuxfois, en tant qu’IDMPN et IDMPN revendeur.</p>
-<p>Si un partenaireCSP a un revendeur dépourvu d’IDMPN, cette valeur est définie à la place sur l’IDMPN du partenaire.</p>
-<p>Si le partenaireCSP supprime unID revendeur, cette valeur est définie sur-1.</p></td>
+<p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Cet&nbsp;ID correspond à l’ID de revendeur indiqué pour l’abonnement dans l’Espace partenaires.</p>
+<p>Pour afficher ou mettre à jour le revendeur, dans le menu Espace partenaires, sélectionnez <strong>Clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
+<p>Si un partenaire&nbsp;Fournisseur de solutions&nbsp;Cloud a vendu l’abonnement directement au client, son ID&nbsp;MPN est indiqué deux&nbsp;fois, en tant qu’ID&nbsp;MPN et ID&nbsp;MPN revendeur.</p>
+<p>Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire.</p>
+<p>Si le partenaire&nbsp;CSP supprime un&nbsp;ID revendeur, cette valeur est définie sur&nbsp;-1.</p></td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +113,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 <tr class="odd">
 <td>OfferName</td>
 <td><p>Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix.</p></td>
-<td>Microsoft Office 365 (PlanE3)</td>
+<td>Microsoft Office 365 (Plan&nbsp;E3)</td>
 </tr>
 <tr class="even">
 <td>SubscriptionStartDate</td>
@@ -123,7 +123,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>Date de fin d’abonnement: 12mois + xjours après la date de début (pour s’aligner sur la date de facturation du partenaire) ou 12mois à partir de la date de renouvellement.</p>
+<td><p>Date de fin d’abonnement&nbsp;: 12&nbsp;mois + x&nbsp;jours après la date de début (pour s’aligner sur la date de facturation du partenaire) ou 12&nbsp;mois à partir de la date de renouvellement.</p>
 <p>Lors du renouvellement, les prix sont mis à jour selon la liste des prix en vigueur. La communication avec les clients peut être nécessaire avant le renouvellement automatique.</p>
 <p>L’heure indique toujours le début de la journée (0:00).</p></td>
 <td>2/1/2015 0:00</td>
@@ -152,56 +152,56 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Frais:</td>
+<td>Frais&nbsp;:</td>
 <td><ul>
-<li>PURCHASE_FEE: frais initiaux de l’abonnement</li>
-<li>CYCLE_FEE: frais périodiques de l’abonnement</li>
+<li>PURCHASE_FEE&nbsp;: frais initiaux de l’abonnement</li>
+<li>CYCLE_FEE&nbsp;: frais périodiques de l’abonnement</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>ConvertResources</td>
 <td><ul>
-<li>CANCEL_USAGEFEE: frais d’utilisation de l’accès lors de l’annulation pour une utilisation impayée pendant la période de facturation en cours</li>
-<li>CYCLE_USAGEFEE: frais d’utilisation de l’accès pour la période de facturation en cours</li>
+<li>CANCEL_USAGEFEE&nbsp;: frais d’utilisation de l’accès lors de l’annulation pour une utilisation impayée pendant la période de facturation en cours</li>
+<li>CYCLE_USAGEFEE&nbsp;: frais d’utilisation de l’accès pour la période de facturation en cours</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Ventilation:</td>
+<td>Ventilation&nbsp;:</td>
 <td><ul>
-<li>PURCHASE_PRORATE: frais au prorata à l’achat</li>
-<li>CANCEL_PRORATE: remboursement au prorata pour la partie inutilisée du service lors de l’annulation</li>
-<li>ACTIVATION_PRORATE: frais au prorata de l’activation à la fin de la période de facturation</li>
-<li>RENEW_PRORATE: frais au prorata lors du renouvellement de l’abonnement</li>
+<li>PURCHASE_PRORATE&nbsp;: frais au prorata à l’achat</li>
+<li>CANCEL_PRORATE&nbsp;: remboursement au prorata pour la partie inutilisée du service lors de l’annulation</li>
+<li>ACTIVATION_PRORATE&nbsp;: frais au prorata de l’activation à la fin de la période de facturation</li>
+<li>RENEW_PRORATE&nbsp;: frais au prorata lors du renouvellement de l’abonnement</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>InstanceProrate:</td>
+<td>InstanceProrate&nbsp;:</td>
 <td><ul>
-<li>CANCEL_INSTANCEPRORATE: frais au prorata remboursés au client lorsque des sièges associés sont modifiés</li>
-<li>CYCLE_INSTANCEPRORATE: frais au prorata évalués pour le client lorsque des sièges associés sont modifiés</li>
+<li>CANCEL_INSTANCEPRORATE&nbsp;: frais au prorata remboursés au client lorsque des sièges associés sont modifiés</li>
+<li>CYCLE_INSTANCEPRORATE&nbsp;: frais au prorata évalués pour le client lorsque des sièges associés sont modifiés</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Crédits:</td>
+<td>Crédits&nbsp;:</td>
 <td><ul>
-<li>CREDIT: crédit appliqué à un instrument de paiement</li>
+<li>CREDIT&nbsp;: crédit appliqué à un instrument de paiement</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Compensation:</td>
+<td>Compensation&nbsp;:</td>
 <td><ul>
-<li>OFFSET_LINEITEM: remboursement partiel ou complet sur un élément de ligne</li>
-<li>ONE_TIME_REFUND: remboursement ponctuel traité pour le client</li>
-<li>TAX_REFUND: remboursement dû à la validation du certificat d’exonération fiscale</li>
+<li>OFFSET_LINEITEM&nbsp;: remboursement partiel ou complet sur un élément de ligne</li>
+<li>ONE_TIME_REFUND&nbsp;: remboursement ponctuel traité pour le client</li>
+<li>TAX_REFUND&nbsp;: remboursement dû à la validation du certificat d’exonération fiscale</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Remise:</td>
+<td>Remise&nbsp;:</td>
 <td><ul>
-<li>ACTIVATION_DISCOUNT: remise appliquée lors de l’activation de l’abonnement</li>
-<li>CYCLE_DISCOUNT: remise appliquée sur les frais périodiques</li>
-<li>RENEW_DISCOUNT: remise appliquée lors du renouvellement de l’abonnement</li>
-<li>CANCEL_DISCOUNT: frais appliqués lors de l’annulation d’une remise</li>
+<li>ACTIVATION_DISCOUNT&nbsp;: remise appliquée lors de l’activation de l’abonnement</li>
+<li>CYCLE_DISCOUNT&nbsp;: remise appliquée sur les frais périodiques</li>
+<li>RENEW_DISCOUNT&nbsp;: remise appliquée lors du renouvellement de l’abonnement</li>
+<li>CANCEL_DISCOUNT&nbsp;: frais appliqués lors de l’annulation d’une remise</li>
 </ul></td>
 </tr>
 </tbody>
@@ -252,16 +252,16 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 <tr class="odd">
 <td>CustomerName</td>
 <td><p>Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
-<td>Client testA</td>
+<td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>IDMPN du partenaireCSP</p></td>
+<td><p>ID&nbsp;MPN du partenaire&nbsp;CSP</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>IDMPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
+<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
 <td>4390934</td>
 </tr>
 </tbody>
@@ -306,16 +306,16 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <tr class="odd">
 <td>CustomerName</td>
 <td><p>Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
-<td>Client testA</td>
+<td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>IDMPN du partenaireCSP.</p></td>
+<td><p>ID&nbsp;MPN du partenaire&nbsp;CSP.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>IDMPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
+<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -344,12 +344,12 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <tr class="even">
 <td>SubscriptionName</td>
 <td><p>Nom de l’offre de service.</p></td>
-<td>MicrosoftAzure</td>
+<td>Microsoft&nbsp;Azure</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionDescription</td>
 <td><p>Cœur de métier de l’offre de service</p></td>
-<td>MicrosoftAzure</td>
+<td>Microsoft&nbsp;Azure</td>
 </tr>
 <tr class="even">
 <td>OrderId</td>
@@ -363,7 +363,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="even">
 <td>ServiceType</td>
-<td><p>Type spécifique de service WindowsAzure.</p></td>
+<td><p>Type spécifique de service Windows&nbsp;Azure.</p></td>
 <td><ul>
 <li>Service Bus - Individuel ou Pack</li>
 <li>Base de données SQL Azure - Entreprise ou Web Edition</li>
@@ -476,7 +476,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>MeteredServiceType</td>
-<td><p>Sous-titre qui clarifie le service MicrosoftAzure individuel plus précisément que dans le champ MeteredService.</p></td>
+<td><p>Sous-titre qui clarifie le service Microsoft&nbsp;Azure individuel plus précisément que dans le champ MeteredService.</p></td>
 <td>EXTERNE</td>
 </tr>
 <tr class="even">

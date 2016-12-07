@@ -21,7 +21,7 @@ Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs
 1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis choisissez un client dans la liste.
 2.  Choisissez l’abonnement que vous souhaitez gérer.
 3.  Dans la section **État**, choisissez **Suspendu**. Puis, sélectionnez **Envoyer** pour valider vos modifications.
-4.  Si un abonnement n’est pas réactivé dans les 60jours, toutes ses données sont supprimées.
+4.  Si un abonnement n’est pas réactivé dans les 60&nbsp;jours, toutes ses données sont supprimées.
 
 
 

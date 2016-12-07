@@ -1,6 +1,6 @@
 ---
 title: Communication de Microsoft avec le client | Espace partenaires
-description: "En général, toutes les communications avec le client doivent émaner du partenaire Fournisseur de solutionsCloud."
+description: "En général, toutes les communications avec le client doivent émaner du partenaire Fournisseur de solutions&nbsp;Cloud."
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 translationtype: Human Translation

@@ -1,6 +1,6 @@
 ---
 title: Support du client | Espace partenaires
-description: "Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir des services techniques et une assistance: Aide concernant la facturation et l’abonnement Aide au déploiement, à l’approvisionnement et configuration logicielle Résolution de problèmes de performances, de disponibilité de service, de connectivité client et de bureau client dus à des paramètres manquants ou mal configurés, intégration logicielle incomplète, problèmes d’autorisations ou autres problèmes de déploiement. Gestion des mises à jour des services et logiciels Réponse aux questions sur l’utilisation Les fournisseurs de solutionsCloud doivent expliquer clairement aux clients comment ils bénéficieront du support. Si vous n’assurez pas un support téléphonique 24heures sur24, vous devez fournir un contrat de niveau de service pour expliquer les options à vos clients. Microsoft ne fournit pas un support aux clients Fournisseurs de solutionsCloud."
+description: "Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir des services techniques et une assistance&nbsp;: Aide concernant la facturation et l’abonnement Aide au déploiement, à l’approvisionnement et configuration logicielle Résolution de problèmes de performances, de disponibilité de service, de connectivité client et de bureau client dus à des paramètres manquants ou mal configurés, intégration logicielle incomplète, problèmes d’autorisations ou autres problèmes de déploiement. Gestion des mises à jour des services et logiciels Réponse aux questions sur l’utilisation Les fournisseurs de solutions&nbsp;Cloud doivent expliquer clairement aux clients comment ils bénéficieront du support. Si vous n’assurez pas un support téléphonique 24&nbsp;heures sur&nbsp;24, vous devez fournir un contrat de niveau de service pour expliquer les options à vos clients. Microsoft ne fournit pas un support aux clients Fournisseurs de solutions&nbsp;Cloud."
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 translationtype: Human Translation
@@ -12,7 +12,7 @@ ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
 # Service clientèle
 
 
-Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir les services de support technique ou de prise en charge des comptes suivants:
+Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir les services de support technique ou de prise en charge des comptes suivants&nbsp;:
 
 -   Prise en charge de l’abonnement et de la facturation
 

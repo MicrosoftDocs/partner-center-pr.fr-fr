@@ -20,7 +20,7 @@ Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace p
 
 [Signaler des problèmes au nom d’un client ](report-problems-on-behalf-of-a-customer.md)
 
-[Recevoir des notifications de service automatisées avec nosAPI](get-automated-service-notifications-with-our-apis.md)
+[Recevoir des notifications de service automatisées avec nos&nbsp;API](get-automated-service-notifications-with-our-apis.md)
 
  
 

@@ -24,8 +24,8 @@ Une fois que vous avez créé un enregistrement de votre client dans l’Espace 
 
 **Autoriser le client à gérer son abonnement Windows Azure**
 
-1.  En tant qu’administrateur de fournisseur de solutionsCloud, créez un abonnement Azure pour le client (consultez la section **Créer un abonnement** ci-dessus).
-2.  Administrateur de la part de (AOBO) sur le portail Azure du client à partir de la **Gestion des services** page ou de la liste des clients. (Dans le cadre de l’AOBO, l’URL contient un locataire cible. Ainsi, le portail Azure sait que l’utilisateur appartient au locataire Fournisseur de solutionsCloud, mais a accès au client.)
+1.  En tant qu’administrateur de fournisseur de solutions&nbsp;Cloud, créez un abonnement Azure pour le client (consultez la section **Créer un abonnement** ci-dessus).
+2.  Administrateur de la part de (AOBO) sur le portail Azure du client à partir de la **Gestion des services** page ou de la liste des clients. (Dans le cadre de l’AOBO, l’URL contient un locataire cible. Ainsi, le portail Azure sait que l’utilisateur appartient au locataire Fournisseur de solutions&nbsp;Cloud, mais a accès au client.)
 3.  Dans la liste des abonnements, sélectionnez l’abonnement Azure du client.
 4.  Attribuez un rôle à des utilisateurs du client afin qu’ils puissent créer et gérer les ressources de son abonnement. (Bien que les utilisateurs du client puissent gérer les ressources de leur abonnement, le partenaire reste financièrement responsable.)
 

@@ -9,7 +9,7 @@ ms.openlocfilehash: 739f93ca5b2752196247554d7a0b593e895a6f89
 
 ---
 
-# Contrats, listes de prix et offres pour fournisseurs de solutionsCloud
+# Contrats, listes de prix et offres pour fournisseurs de solutions&nbsp;Cloud
 
 
 Microsoft publie de nombreux documents à l’attention des partenaires fournisseurs de solutions Cloud, notamment sur l’adhésion au programme, l’inscription de nouveaux clients, la vente des produits et des services Microsoft à des clients, et la réconciliation de leur facturation.

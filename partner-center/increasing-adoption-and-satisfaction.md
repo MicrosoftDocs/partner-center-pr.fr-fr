@@ -12,7 +12,7 @@ ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
 # Augmenter l’adoption et la satisfaction client
 
 
-Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDriveEntreprise, compté conjointement avec SharePoint).
+Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
 
 Vous pouvez afficher les données de l’ensemble de vos clients via le programme Fournisseur de solutions Cloud. Notez que certains clients peuvent acheter des licences auprès d’autres partenaires ou directement auprès de Microsoft. Dans ce cas, vous voyez le nombre total de licences chez tous les partenaires. Pour afficher uniquement vos propres licences, accédez aux abonnements du client.
 
@@ -28,21 +28,21 @@ Vous pouvez afficher les données de l’ensemble de vos clients via le programm
 1.  Dans le **Tableau de bord** de l’Espace partenaires, faites défiler la page vers le bas jusqu’à la section **Analyse des licences Office**.
 2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
 
-Terminologie:
+Terminologie&nbsp;:
 
--   **Droit:** licence que l’utilisateur est autorisé à utiliser (non suspendue pour fraude ou défaut de paiement, non mise à niveau vers une autre licence, non annulée par l’utilisateur, etc.)
+-   **Droit&nbsp;:** licence que l’utilisateur est autorisé à utiliser (non suspendue pour fraude ou défaut de paiement, non mise à niveau vers une autre licence, non annulée par l’utilisateur, etc.)
 
--   **Actif:** si l’utilisateur abonné a utilisé le droit pour une tâche au cours des 28derniers jours.
+-   **Actif&nbsp;:** si l’utilisateur abonné a utilisé le droit pour une tâche au cours des 28&nbsp;derniers jours.
 
--   **% de déploiement**=licences attribuées/licences vendues
+-   **% de déploiement**&nbsp;=&nbsp;licences attribuées/licences vendues
 
--   **% d’utilisation**=droits actifs/total des droits
+-   **% d’utilisation**&nbsp;=&nbsp;droits actifs/total des droits
 
-    Il arrive que le pourcentage d’utilisation soit surestimé ou supérieur à 100%. Cela peut se produire pour plusieurs raisons:
+    Il arrive que le pourcentage d’utilisation soit surestimé ou supérieur à 100&nbsp;%. Cela peut se produire pour plusieurs raisons&nbsp;:
 
     -   Si le client connaissait une rotation d’employés, et que la licence a été transférée à un nouvel utilisateur.
 
-    -   Si le client possède deuxabonnements pour une référence, mais que l’un d’eux est en période de grâce, désactivé ou annulé, les droits des deuxabonnements peuvent inscrire l’utilisation active pendant la période de 28jours, mais un seul est compté au total.
+    -   Si le client possède deux&nbsp;abonnements pour une référence, mais que l’un d’eux est en période de grâce, désactivé ou annulé, les droits des deux&nbsp;abonnements peuvent inscrire l’utilisation active pendant la période de 28&nbsp;jours, mais un seul est compté au total.
 
     -   Si le client possède un abonnement d’évaluation, l’activité est comptée, mais l’abonnement n’est pas comptabilisé pour le nombre total de droits.
 
@@ -59,14 +59,14 @@ Si vous répondez à de nombreuses questions d’aide et de procédures, si les 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problème:</strong> le taux d’adoption par les utilisateurs est faible et de nombreuses licences ne sont pas utilisées.</p>
-<p><strong>Éléments à prendre en compte:</strong> les clients ne comprennent peut-être pas la valeur ajoutée que le logiciel peut leur apporter. Vous pouvez les aider à découvrir comment l’intégrer à leurs activités quotidiennes pour simplifier les tâches qu’ils effectuent déjà ou développer de nouveaux types de productivité.</p>
-<p><strong>Marche à suivre:</strong> études de cas, témoignage des utilisateurs concernant des scénarios spécifiques, blogs de didacticiel ou vidéos.</p></td>
+<td><p><strong>Problème&nbsp;:</strong> le taux d’adoption par les utilisateurs est faible et de nombreuses licences ne sont pas utilisées.</p>
+<p><strong>Éléments à prendre en compte&nbsp;:</strong> les clients ne comprennent peut-être pas la valeur ajoutée que le logiciel peut leur apporter. Vous pouvez les aider à découvrir comment l’intégrer à leurs activités quotidiennes pour simplifier les tâches qu’ils effectuent déjà ou développer de nouveaux types de productivité.</p>
+<p><strong>Marche à suivre&nbsp;:</strong> études de cas, témoignage des utilisateurs concernant des scénarios spécifiques, blogs de didacticiel ou vidéos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problème:</strong> le nombre d’appels pour des questions d’aide et de procédures est élevé.</p>
-<p><strong>Éléments à prendre en compte:</strong> les clients peuvent ne pas connaître le logiciel, la version du produit ou la tâche qu’ils doivent effectuer.</p>
-<p><strong>Marche à suivre:</strong> vous pouvez adopter une stratégie double avec une formation (en présentiel ou en ligne) pour améliorer l’expérience globale du client, et la promotion de certaines options de libre-service aux clients.</p>
+<td><p><strong>Problème&nbsp;:</strong> le nombre d’appels pour des questions d’aide et de procédures est élevé.</p>
+<p><strong>Éléments à prendre en compte&nbsp;:</strong> les clients peuvent ne pas connaître le logiciel, la version du produit ou la tâche qu’ils doivent effectuer.</p>
+<p><strong>Marche à suivre&nbsp;:</strong> vous pouvez adopter une stratégie double avec une formation (en présentiel ou en ligne) pour améliorer l’expérience globale du client, et la promotion de certaines options de libre-service aux clients.</p>
 <p>Vous pouvez également repenser votre site de support pour inclure les options de libre-service décrites dans la rubrique [Support autonome du client](customer-self-support.md), en plus des informations de contact du support.</p></td>
 </tr>
 </tbody>

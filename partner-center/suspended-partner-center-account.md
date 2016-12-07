@@ -17,9 +17,9 @@ Découvrez comment restaurer un compte Espace partenaires suspendu, pourquoi un 
 ## <a href="" id="suspendedpartnercenteraccounts"></a>Comment un compte Espace partenaires peut être suspendu
 
 
-Microsoft peut suspendre un compte Espace partenaires pour les raisons suivantes:
+Microsoft peut suspendre un compte Espace partenaires pour les raisons suivantes&nbsp;:
 
--   Facture non réglée à 60jours
+-   Facture non réglée à 60&nbsp;jours
 -   Utilisation abusive du compte
 -   Événements externes susceptibles d’affecter le fonctionnement du compte (par exemple, les catastrophes naturelles)
 

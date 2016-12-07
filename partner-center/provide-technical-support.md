@@ -1,6 +1,6 @@
 ---
 title: Proposer une assistance technique | Espace partenaires
-description: "En tant que partenaire Fournisseur de solutionsCloud, vous disposez de privilèges d’administration délégués qui vous permettent d’accéder aux environnements des clients."
+description: "En tant que partenaire Fournisseur de solutions&nbsp;Cloud, vous disposez de privilèges d’administration délégués qui vous permettent d’accéder aux environnements des clients."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 translationtype: Human Translation
@@ -14,11 +14,11 @@ ms.openlocfilehash: 07af266cb0433d57edc4dd0f2b757b8ed80f006e
 
 En tant que partenaire du programme Fournisseur de solutions Cloud, vous disposez de privilèges d’administration délégués qui vous permettent d’accéder aux environnements des clients. Ces privilèges vous donnent la possibilité de prendre en charge, de configurer et de gérer directement les abonnements de vos clients.
 
-Dans l’Espace partenaires, vous pouvez:
+Dans l’Espace partenaires, vous pouvez&nbsp;:
 
--   afficher l’état du service clientèle;
+-   afficher l’état du service clientèle&nbsp;;
 
--   afficher les incidents du service clientèle;
+-   afficher les incidents du service clientèle&nbsp;;
 
 -   effectuer des tâches d’administration pour le compte de clients afin de corriger des paramètres manquants ou mal configurés.
 

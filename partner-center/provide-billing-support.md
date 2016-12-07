@@ -19,7 +19,7 @@ Vous possédez la relation de facturation avec vos clients et gérez toute quest
 
 -   Obtenez des formations sur les produits et sur la résolution des problèmes via MPN, y compris l’accès à la formation pratique de l’expérience d’immersion client (CIE, Customer Immersion Experience).
 -   Accédez à la documentation via la base de connaissances virtuelle (vKB).
--   Recherchez des solutions techniques publiées sur TechNet et accédez à la prise en charge spécifique du partenaire dans le cadre de votre appartenanceMPN.
+-   Recherchez des solutions techniques publiées sur TechNet et accédez à la prise en charge spécifique du partenaire dans le cadre de votre appartenance&nbsp;MPN.
 -   Achetez un support Premier pour bénéficier d’avantages incrémentiels.
 
 ## <a href="" id="delinquentcustomeraccounts"></a>Comptes client en souffrance

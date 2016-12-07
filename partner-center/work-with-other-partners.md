@@ -1,6 +1,6 @@
 ---
 title: "Collaborer avec d’autres partenaires | Espace partenaires"
-description: "Un des avantages du programme Fournisseur de solutionsCloud est qu’il permet aux partenaires de gérer les relations avec les clients de bout en bout."
+description: "Un des avantages du programme Fournisseur de solutions&nbsp;Cloud est qu’il permet aux partenaires de gérer les relations avec les clients de bout en bout."
 ms.assetid: 28AA1E57-5A1E-445C-9D5D-762428CDC8E5
 author: MaggiePucciEvans
 translationtype: Human Translation

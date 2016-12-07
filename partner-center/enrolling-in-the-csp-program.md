@@ -1,6 +1,6 @@
 ---
-title: "S’inscrire au programme Fournisseur de solutionsCloud | Espace partenaires"
-description: "Avant de vous inscrire au programme Fournisseur de solutionsCloud, découvrez les conditions requises."
+title: "S’inscrire au programme Fournisseur de solutions&nbsp;Cloud | Espace partenaires"
+description: "Avant de vous inscrire au programme Fournisseur de solutions&nbsp;Cloud, découvrez les conditions requises."
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
 translationtype: Human Translation
@@ -9,19 +9,19 @@ ms.openlocfilehash: bc49a7d800839a02bee99c99d67068d6f7ceb403
 
 ---
 
-# S’inscrire au programme Fournisseur de solutionsCloud
+# S’inscrire au programme Fournisseur de solutions&nbsp;Cloud
 
 
-Avant de vous inscrire au programme Fournisseur de solutionsCloud, découvrez-en les [conditions requises]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+Avant de vous inscrire au programme Fournisseur de solutions&nbsp;Cloud, découvrez-en les [conditions requises]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
 
-Pour plus d’informations sur les spécifications du contrat de partenaire et d’autres programmes, consultez [Contrats, listes de prix et offres pour Fournisseur de solutionsCloud](csp-documents-and-learning-resources.md).
+Pour plus d’informations sur les spécifications du contrat de partenaire et d’autres programmes, consultez [Contrats, listes de prix et offres pour Fournisseur de solutions&nbsp;Cloud](csp-documents-and-learning-resources.md).
 
-Découvrez comment remplir les critères des primes du programme Fournisseur de solutionsCloud, accéder à la plateforme des primes et obtenir des financements. Consultez les [détails du programme](https://go.microsoft.com/fwlink/?linkid=831533).
+Découvrez comment remplir les critères des primes du programme Fournisseur de solutions&nbsp;Cloud, accéder à la plateforme des primes et obtenir des financements. Consultez les [détails du programme](https://go.microsoft.com/fwlink/?linkid=831533).
 
 ## <a href="" id="markets"></a>Disponibilité
 
 
-Le programme Fournisseur de solutions Cloud est proposé aux entreprises disposant de bureaux dans les pays/régions indiqués ci-après. Ces pays/régions sont regroupés par marché. Les partenaires du programmeFournisseur de solutions Cloud peuvent vendre dans d’autres pays du même marché même s’ils n’y disposent pas de bureau.
+Le programme Fournisseur de solutions Cloud est proposé aux entreprises disposant de bureaux dans les pays/régions indiqués ci-après. Ces pays/régions sont regroupés par marché. Les partenaires du programme&nbsp;Fournisseur de solutions Cloud peuvent vendre dans d’autres pays du même marché même s’ils n’y disposent pas de bureau.
 
 | Disponibilité par marché                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,9 +46,9 @@ Le programme Fournisseur de solutions Cloud est proposé aux entreprises disposa
 ## Compte Espace partenaires
 
 
-L’Espace partenaires requiert que l’administrateur de votre entreprise dispose d’une adresse électronique authentifiée par AzureAD. L’administrateur peut utiliser l’un de ses comptes de messagerie professionnels associés à un service cloud Microsoft, tel qu’Office365, AzureAD, MicrosoftIntune, Enterprise Mobility Services, etc. L’adresse électronique choisie deviendra celle du compte revendeur de l’administrateur.
+L’Espace partenaires requiert que l’administrateur de votre entreprise dispose d’une adresse électronique authentifiée par Azure&nbsp;AD. L’administrateur peut utiliser l’un de ses comptes de messagerie professionnels associés à un service cloud Microsoft, tel qu’Office&nbsp;365, Azure&nbsp;AD, Microsoft&nbsp;Intune, Enterprise Mobility Services, etc. L’adresse électronique choisie deviendra celle du compte revendeur de l’administrateur.
 
-Notez que votre adresse électronique existante authentifiée par AzureAD est déjà inscrite dans un certain marché. Si vous voulez vendre dans un ou plusieurs autres marchés, vous devez créer une adresse électronique distincte pour chaque marché et utiliser chacune d’elles pour l’inscription.
+Notez que votre adresse électronique existante authentifiée par Azure&nbsp;AD est déjà inscrite dans un certain marché. Si vous voulez vendre dans un ou plusieurs autres marchés, vous devez créer une adresse électronique distincte pour chaque marché et utiliser chacune d’elles pour l’inscription.
 
  
 

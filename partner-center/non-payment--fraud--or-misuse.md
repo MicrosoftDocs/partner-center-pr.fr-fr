@@ -30,7 +30,7 @@ Vous êtes financièrement responsable de tout achat frauduleux effectué par vo
 ## <a href="" id="fraudmisusemitigation"></a>Atténuation des fraudes ou de l’utilisation incorrecte
 
 
-Pour répondre à une activité frauduleuse ou à une mauvaise utilisation, vous disposez des options suivantes:
+Pour répondre à une activité frauduleuse ou à une mauvaise utilisation, vous disposez des options suivantes&nbsp;:
 
 <table>
 <colgroup>

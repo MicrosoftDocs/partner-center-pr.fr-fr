@@ -9,14 +9,14 @@ ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
 
 ---
 
-# Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutionsCloud
+# Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud
 
 
 \[Certaines informations concernent la version préliminaire de produits susceptibles d’être considérablement modifiés d’ici leur commercialisation. Microsoft ne donne aucune garantie, expresse ou implicite, concernant les informations fournies ici.\]
 
 Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 
-**Remarque** Vous devez connaître tous les abonnements et le nombre de sièges de vos clients approvisionnés à partir des comptes de transition. Les partenaires réapprovisionneront ces mêmes abonnements avec le même nombre de sièges sous le nouveau compte central Fournisseur de solutionsCloud dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. Notez qu’aucune action n’est requise de la part du client.
+**Remarque** Vous devez connaître tous les abonnements et le nombre de sièges de vos clients approvisionnés à partir des comptes de transition. Les partenaires réapprovisionneront ces mêmes abonnements avec le même nombre de sièges sous le nouveau compte central Fournisseur de solutions&nbsp;Cloud dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. Notez qu’aucune action n’est requise de la part du client.
 
  
 
@@ -36,13 +36,13 @@ Utilisez ces instructions pour consolider des locataires de différents pays/ré
 
 3.  Cliquez sur **Demander une relation de revendeur**. Un message électronique par défaut à présenter à vos clients s’affiche. Ce message contient une URL avec l’ID d’organisation propre à votre nouveau compte Espace partenaires.
 
-4.  **Action du client:** vérifiez que chaque client actif que vous souhaitez migrer visite cette URL. À l’ouverture de l’URL, le client est invité à se connecter au portail Office365. Il se connecte à l’aide du même ID d’organisation que celui utilisé pour accéder aux portails administration Windows Azure et Office365.
+4.  **Action du client&nbsp;:** vérifiez que chaque client actif que vous souhaitez migrer visite cette URL. À l’ouverture de l’URL, le client est invité à se connecter au portail Office&nbsp;365. Il se connecte à l’aide du même ID d’organisation que celui utilisé pour accéder aux portails administration Windows Azure et Office&nbsp;365.
 
 5.  Une fois connecté, l’administrateur global du compte client est invité à valider l’attribution de privilèges d’administration délégué pour le nouveau compte Fournisseur de solutions Cloud. S’il accepte, le client active la case à cocher et autorise la relation.
 
 Les clients s’affichent dans la liste des clients du partenaire, lorsqu’ils ont validé le présent contrat, un par un.
 
-## Migration d’abonnements Office365 et non Azure basés sur l’utilisation
+## Migration d’abonnements Office&nbsp;365 et non Azure basés sur l’utilisation
 
 
 1.  Lorsque votre client a signé le contrat, vous pouvez recréer ses abonnements sous votre locataire partenaire centralisé.
@@ -69,7 +69,7 @@ Avant de passer à la section suivante, vérifiez que tous les abonnements clien
 
  
 
-## Désactivation des abonnements Office365 sous le compte de partenaire Transition à partir de
+## Désactivation des abonnements Office&nbsp;365 sous le compte de partenaire Transition à partir de
 
 
 La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comptes de partenaire **Transition à partir de** interrompt toute facturation future. Il est inutile de désactiver manuellement les abonnements Azure, car le processus de migration les désactive automatiquement.
@@ -92,13 +92,13 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 ## Migration d’abonnements Azure basés sur l’utilisation
 
 
-Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de solutions Cloud Azure basés sur l’utilisation, contrairement aux abonnements Fournisseur de solutions Cloud Office365. Le support Microsoft Azure peut migrer les abonnements Azure ainsi que tous les services ou ressources déployés entre les comptes de revendeur Fournisseur de solutions Cloud **Transition à partir de** et le compte de revendeur Fournisseur de solutions Cloud **Transition vers**. Il n’y a aucune interruption de service pour le client pendant cette transition.
+Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de solutions Cloud Azure basés sur l’utilisation, contrairement aux abonnements Fournisseur de solutions Cloud Office&nbsp;365. Le support Microsoft Azure peut migrer les abonnements Azure ainsi que tous les services ou ressources déployés entre les comptes de revendeur Fournisseur de solutions Cloud **Transition à partir de** et le compte de revendeur Fournisseur de solutions Cloud **Transition vers**. Il n’y a aucune interruption de service pour le client pendant cette transition.
 
 1.  Vérifiez que les comptes client qui ont besoin d’abonnements Azure migrés ont accepté le contrat à associer au nouveau compte Fournisseur de solutions Cloud **Transition vers**.
 2.  Les partenaires signalent à Microsoft que les comptes client qui ont des abonnements Azure sont prêts à migrer, et fournissent les noms de société de ces clients.
 3.  Microsoft migre les abonnements Azure basés sur l’utilisation et avertit le partenaire lorsque la migration est terminée.
-4.  Le partenaire confirme que l’abonnement Azure sous les comptes de revendeur Fournisseur de solutionsCloud **Transition à partir de** affiche la mention Suspendu dans l’Espace partenaires sous la section des abonnements du client.
-5.  Le partenaire confirme que l’abonnement Azure sous le compte de revendeur Fournisseur de solutionsCloud **Transition à partir de** affiche la mention **Actif** dans l’Espace partenaires sous la section des abonnements du client.
+4.  Le partenaire confirme que l’abonnement Azure sous les comptes de revendeur Fournisseur de solutions&nbsp;Cloud **Transition à partir de** affiche la mention Suspendu dans l’Espace partenaires sous la section des abonnements du client.
+5.  Le partenaire confirme que l’abonnement Azure sous le compte de revendeur Fournisseur de solutions&nbsp;Cloud **Transition à partir de** affiche la mention **Actif** dans l’Espace partenaires sous la section des abonnements du client.
 
     **Remarque** La désactivation des abonnements sous le client ne modifie pas l’apparence du client dans la liste de clients. Il n’y a actuellement aucune possibilité de supprimer des clients de la liste. Les partenaires doivent éviter de rajouter des abonnements à ces clients à partir de leur compte **Transition à partir de** à l’avenir.
 
@@ -108,7 +108,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 ### Remarques
 
--   La désactivation de l’abonnement à partir du compte Fournisseur de solutionsCloud **Transition à partir de** n’affecte pas le service du client final, tant que le service est approvisionné à partir du compte Fournisseur de servicesCloud **Transition vers** avant la désactivation.
+-   La désactivation de l’abonnement à partir du compte Fournisseur de solutions&nbsp;Cloud **Transition à partir de** n’affecte pas le service du client final, tant que le service est approvisionné à partir du compte Fournisseur de services&nbsp;Cloud **Transition vers** avant la désactivation.
 
 -   Le client ne peut pas utiliser les abonnements et ces derniers ne génèrent pas de frais en cas de suspension ou d’annulation.
 
@@ -120,7 +120,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 ### Simplifier la migration avec l’exportation
 
-Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vous devez utiliser dans votre nouvelle structure consolidée:
+Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vous devez utiliser dans votre nouvelle structure consolidée&nbsp;:
 
 1.  Cliquez sur **Clients** dans votre tableau de bord pour afficher la liste des clients dans votre structure existante.
 
@@ -146,7 +146,7 @@ Avec le journal d’activité, les partenaires peuvent afficher un enregistremen
 
 **Exporter le journal d’activité**
 
--   Cliquez sur **Exporter le journal** pour exporter les données de votre journal d’activité dans un fichierCSV.
+-   Cliquez sur **Exporter le journal** pour exporter les données de votre journal d’activité dans un fichier&nbsp;CSV.
 
     Vous pouvez également exporter la liste des clients et la liste des abonnements d’un client (à partir de la page des abonnements du client).
 

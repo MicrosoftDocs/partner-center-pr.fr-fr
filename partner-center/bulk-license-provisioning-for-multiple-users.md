@@ -36,7 +36,7 @@ L’Espace partenaires gère et affiche tous les droits de licence appartenant �
 
     La page Gérer les licences affiche la liste des droits de licence des comptes client, ainsi que le nombre de **licences disponibles** pour chaque produit.
 
-    -   Les cases à cocher dans la colonne **Produit** indiquent l’état de tous les utilisateurs sélectionnés pour les produits auxquels le client a droit:
+    -   Les cases à cocher dans la colonne **Produit** indiquent l’état de tous les utilisateurs sélectionnés pour les produits auxquels le client a droit&nbsp;:
 
         -   Quand tous les utilisateurs sélectionnés ont déjà une licence, la case à cocher du produit est remplie.
         -   Si certains des utilisateurs sélectionnés ont une licence du produit, la case à cocher du produit est partiellement remplie.
@@ -47,7 +47,7 @@ L’Espace partenaires gère et affiche tous les droits de licence appartenant �
 
     -   Un produit sans licence disponible affiche un lien **Acheter davantage**. Vous pouvez acheter des licences supplémentaires lorsque les clients en ont besoin.
 
-6.  Sous **Attribuer et révoquer des licences**, sélectionnez les licences de produit pour les nouveaux utilisateurs. Par exemple, si aucun des utilisateurs sélectionnés n’a de licences Office365 Entreprise et que vous voulez en ajouter, activez la case à cocher. Vous avez besoin de suffisamment de licences pour chaque produit sélectionné.
+6.  Sous **Attribuer et révoquer des licences**, sélectionnez les licences de produit pour les nouveaux utilisateurs. Par exemple, si aucun des utilisateurs sélectionnés n’a de licences Office&nbsp;365 Entreprise et que vous voulez en ajouter, activez la case à cocher. Vous avez besoin de suffisamment de licences pour chaque produit sélectionné.
 7.  Sélectionnez plusieurs produits pour les utilisateurs en activant la case à cocher de chaque produit.
     -   Sélectionnez **Afficher les plans de services** pour un produit, afin d’afficher et de sélectionner les plans de services dont les utilisateurs ont besoin.
 
@@ -68,7 +68,7 @@ L’Espace partenaires gère et affiche tous les droits de licence appartenant �
 
 4.  Après avoir sélectionné les utilisateurs, cliquez sur le lien **Utilisateurs sélectionnés**. La liste ne répertorie que les utilisateurs sélectionnés.
 5.  Cliquez sur le lien **Gérer les licences**.
-6.  Sous **Attribuer et révoquer des licences**, désactivez les cases à cocher des produits attribués aux utilisateurs. Par exemple, si tous les utilisateurs sélectionnés ont des licences Office365 Entreprise et que vous voulez les révoquer, activez la case à cocher.
+6.  Sous **Attribuer et révoquer des licences**, désactivez les cases à cocher des produits attribués aux utilisateurs. Par exemple, si tous les utilisateurs sélectionnés ont des licences Office&nbsp;365 Entreprise et que vous voulez les révoquer, activez la case à cocher.
 7.  Sélectionnez **Enregistrer**.
 
 ## Rubriques connexes

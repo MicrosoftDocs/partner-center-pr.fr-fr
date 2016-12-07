@@ -12,7 +12,7 @@ ms.openlocfilehash: 71b89bc6ee19183cb311f2a4d434397e1e41ad5f
 # Tâche de gestion des utilisateurs pour des comptes client
 
 
-Cette rubrique fournit des instructions sur les tâches de gestion des comptes client:
+Cette rubrique fournit des instructions sur les tâches de gestion des comptes client&nbsp;:
 
 -   [Créer des comptes d’utilisateur pour un client](#createuseraccounts)
 -   [Ajouter ou supprimer des licences d’utilisateur pour un client](#userlicensing)
@@ -20,13 +20,13 @@ Cette rubrique fournit des instructions sur les tâches de gestion des comptes c
 -   [Supprimer les comptes d’utilisateur d’un client](#deleteuseraccounts)
 -   [Restaurer des comptes d’utilisateur supprimés](#restoreuseraccounts)
 
-Vous pouvez créer et supprimer des utilisateurs dans un compte client et, le cas échéant, restaurer un ou plusieurs comptes d’utilisateur auparavant supprimés. Vous pouvez restaurer des comptes d’utilisateur dans un délai de 30jours après leur suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
+Vous pouvez créer et supprimer des utilisateurs dans un compte client et, le cas échéant, restaurer un ou plusieurs comptes d’utilisateur auparavant supprimés. Vous pouvez restaurer des comptes d’utilisateur dans un délai de 30&nbsp;jours après leur suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
 
 Lorsque vous achetez un nouvel abonnement pour un client, vous pouvez attribuer des licences à certains utilisateurs. Pour ce faire, procurez-vous auprès du client la liste de tous les employés ou utilisateurs qui auront besoin de comptes, leurs autorisations d’utilisateur ainsi que les utilisateurs ou groupes qui auront besoin de licences pour différents services.
 
 Vous pouvez également [attribuer des abonnements à plusieurs utilisateurs](#pc-cloud-sltn-provider-bulk-license-provisioning-for-multiple-users) en même temps.
 
-Pour gagner du temps, vous pouvez créer un nombre d’utilisateurs plus important pour le compte client en [important un fichierCSV compatible avec Excel](#pc-cloud-sltn-provider-adding-multiple-users-to-a-customer-account).
+Pour gagner du temps, vous pouvez créer un nombre d’utilisateurs plus important pour le compte client en [important un fichier&nbsp;CSV compatible avec Excel](#pc-cloud-sltn-provider-adding-multiple-users-to-a-customer-account).
 
 <a href="" id="createuseraccounts"></a>
 **Créer des comptes d’utilisateur pour un client**
@@ -34,7 +34,7 @@ Pour gagner du temps, vous pouvez créer un nombre d’utilisateurs plus importa
 1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**. Dans la liste, choisissez le client.
 2.  Dans le menu client, sélectionnez **Utilisateurs et licences**.
 3.  Pour chaque utilisateur, sélectionnez **Ajouter un utilisateur**, puis renseignez les informations, y compris les autorisations et les licences. Cliquez sur **Enregistrer** pour enregistrer vos modifications.
-4.  Veillez à enregistrer le nom d’utilisateur et le mot de passe temporaire à envoyer à l’utilisateur. Si vous ajoutez plusieurs utilisateurs en même temps à l’aide de l’option **Ajouter un autre utilisateur** ou en [important un fichierCSV compatible avec Excel](#pc-cloud-sltn-provider-adding-multiple-users-to-a-customer-account), vous pouvez attendre d’avoir terminé l’ensemble de la procédure avant d’imprimer ces noms et mots de passe ou de les envoyer par courrier électronique à partir de l’écran de confirmation.
+4.  Veillez à enregistrer le nom d’utilisateur et le mot de passe temporaire à envoyer à l’utilisateur. Si vous ajoutez plusieurs utilisateurs en même temps à l’aide de l’option **Ajouter un autre utilisateur** ou en [important un fichier&nbsp;CSV compatible avec Excel](#pc-cloud-sltn-provider-adding-multiple-users-to-a-customer-account), vous pouvez attendre d’avoir terminé l’ensemble de la procédure avant d’imprimer ces noms et mots de passe ou de les envoyer par courrier électronique à partir de l’écran de confirmation.
 
 <a href="" id="userlicensing"></a>
 **Ajouter ou supprimer des licences d’utilisateur pour un client**
@@ -59,14 +59,14 @@ Pour gagner du temps, vous pouvez créer un nombre d’utilisateurs plus importa
 2.  Dans le menu client, sélectionnez **Utilisateurs et licences**. Choisissez l’utilisateur dans la liste.
 3.  En bas de l’écran, sélectionnez **Supprimer le compte d’utilisateur**.
 
-Si vous devez restaurer ce compte dans un délai de 30jours, vous le trouverez dans l’onglet **Utilisateurs supprimés** de la liste **Utilisateurs et licences** du client.
+Si vous devez restaurer ce compte dans un délai de 30&nbsp;jours, vous le trouverez dans l’onglet **Utilisateurs supprimés** de la liste **Utilisateurs et licences** du client.
 
 <a href="" id="restoreuseraccounts"></a>
 **Restaurer des comptes d’utilisateur supprimés**
 
 1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis choisissez le client dans la liste.
 2.  Sélectionnez **Utilisateurs et licences**.
-3.  Sélectionnez l’onglet **Utilisateurs supprimés ()**. (Vous devez lire **(1)** ou une valeur supérieure lorsque l’onglet est actif.)
+3.  Sélectionnez l’onglet **Utilisateurs supprimés (&nbsp;)**. (Vous devez lire **(1)** ou une valeur supérieure lorsque l’onglet est actif.)
 4.  Activez une ou plusieurs cases à cocher correspondant aux utilisateurs supprimés, puis sélectionnez **Restaurer**.
 
     Tous les comptes d’utilisateur sélectionnés réapparaissent dans la page **Utilisateurs et licences**.

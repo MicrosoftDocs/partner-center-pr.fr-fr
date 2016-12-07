@@ -28,8 +28,8 @@ Seuls les services utilisés dans la période de facturation précédente vous s
 
 -   La première facture indique la période initiale entre la date de début de l’abonnement et la date de la première facture.
 -   Les barèmes des services peuvent changer au cours du cycle de facturation.
-    -   Augmentation de prix: préavis de 30jours.
-    -   Réduction de prix: jour d’application de la modification.
+    -   Augmentation de prix&nbsp;: préavis de 30&nbsp;jours.
+    -   Réduction de prix&nbsp;: jour d’application de la modification.
     -   Les abonnements existants utilisent le taux en vigueur au début du cycle de facturation.
     -   Les nouveaux abonnements (créés au cours du cycle de facturation) utilisent le taux en vigueur à la date de création.
 -   Si vous annulez un abonnement avant la fin de sa première période de facturation ou à un moment donné pendant le cycle de facturation, les frais d’utilisation apparaissent dans le fichier de rapprochement de la période pendant laquelle l’abonnement était actif.
@@ -37,7 +37,7 @@ Seuls les services utilisés dans la période de facturation précédente vous s
 ## <a href="" id="licensebased"></a>Facturation basée sur la licence
 
 
-Pour les mois durant lesquels aucune modification n’a été apportée aux abonnements basés sur la licence, un seul élément par abonnement apparaît sur votre fichier de rapprochement et sur votre facture: l’avance de frais pour le mois suivant.
+Pour les mois durant lesquels aucune modification n’a été apportée aux abonnements basés sur la licence, un seul élément par abonnement apparaît sur votre fichier de rapprochement et sur votre facture&nbsp;: l’avance de frais pour le mois suivant.
 
 <table>
 <colgroup>

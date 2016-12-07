@@ -1,6 +1,6 @@
 ---
 title: "Gérer votre compte Espace partenaires | Espace partenaires"
-description: "Une fois intégré au programme Fournisseur de solutionsCloud, vous ou votre administrateur devez configurer le compte de votre entreprise dans l’Espace partenaires."
+description: "Une fois intégré au programme Fournisseur de solutions&nbsp;Cloud, vous ou votre administrateur devez configurer le compte de votre entreprise dans l’Espace partenaires."
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 translationtype: Human Translation
@@ -12,7 +12,7 @@ ms.openlocfilehash: 44690119696a1ad7a1daa899538c4f4fa6feca17
 # Gérer votre compte Espace partenaires
 
 
-Une fois intégré au programme Fournisseur de solutionsCloud, vous ou votre administrateur devez configurer le compte de votre entreprise dans l’Espace partenaires. L’administrateur doit également créer un compte d’utilisateur pour toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation et fournir du support.
+Une fois intégré au programme Fournisseur de solutions&nbsp;Cloud, vous ou votre administrateur devez configurer le compte de votre entreprise dans l’Espace partenaires. L’administrateur doit également créer un compte d’utilisateur pour toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation et fournir du support.
 
 [Mettre à jour votre profil de partenaire](update-your-partner-profile.md)
 

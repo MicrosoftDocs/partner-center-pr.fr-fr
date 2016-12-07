@@ -24,7 +24,7 @@ Les partenaires peuvent vendre des abonnements à des clients et les gérer via 
 
 [Ajouter des licences ou des services à un abonnement existant](add-licenses-or-services-to-an-existing-subscription.md)
 
-[Migrer des abonnements Dynamics AX vers Dynamics365](manual-subscription-migration.md)
+[Migrer des abonnements Dynamics AX vers Dynamics&nbsp;365](manual-subscription-migration.md)
 
 [Bénéficier du tarif spécial des offres](get-special-pricing-for-offers.md)
 
@@ -32,7 +32,7 @@ Les partenaires peuvent vendre des abonnements à des clients et les gérer via 
 
 [Présentation des autorisations régionales du fournisseur de solutions Cloud](regional-authorization-overview.md)
 
-[Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutionsCloud](csp-regional-authorization-tenant-consolidation.md)
+[Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud](csp-regional-authorization-tenant-consolidation.md)
 
  
 

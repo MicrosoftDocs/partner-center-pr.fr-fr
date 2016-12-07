@@ -39,15 +39,15 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="even">
 <td>Adresse de facturation</td>
-<td>Adresse d’expédition de votre facture. (Adresse officielle de la société; information non modifiable)</td>
+<td>Adresse d’expédition de votre facture. (Adresse officielle de la société&nbsp;; information non modifiable)</td>
 </tr>
 <tr class="odd">
 <td>Frais récurrents</td>
-<td>Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service. Ce nombre est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonneT).</td>
+<td>Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service. Ce nombre est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonne&nbsp;T).</td>
 </tr>
 <tr class="even">
 <td>Frais d’utilisation</td>
-<td>Utilisation d’Azure, y compris des nouveaux services ou des nouvelles applications activés et utilisés au cours du mois de facturation. Ce nombre est la somme de tous les frais indiqués dans la colonne &quot;PretaxCharges&quot; du fichier de rapprochement basé sur l’utilisation (colonneZ).</td>
+<td>Utilisation d’Azure, y compris des nouveaux services ou des nouvelles applications activés et utilisés au cours du mois de facturation. Ce nombre est la somme de tous les frais indiqués dans la colonne &quot;PretaxCharges&quot; du fichier de rapprochement basé sur l’utilisation (colonne&nbsp;Z).</td>
 </tr>
 <tr class="odd">
 <td>Crédits &amp; ajustements</td>
@@ -59,10 +59,10 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="odd">
 <td>Taxes</td>
-<td>Total des taxes des frais en cours correspond au total de la section des détails commençant à la page2 de la facture. Ce nombre est la somme de tous les frais indiqués dans:
+<td>Total des taxes des frais en cours correspond au total de la section des détails commençant à la page&nbsp;2 de la facture. Ce nombre est la somme de tous les frais indiqués dans&nbsp;:
 <ul>
-<li>la colonne &quot;TaxAmount&quot; du fichier de rapprochement basé sur l’utilisation (colonneAA), et</li>
-<li>la colonne &quot;Tax&quot; du fichier basé sur la licence (colonneU).</li>
+<li>la colonne &quot;TaxAmount&quot; du fichier de rapprochement basé sur l’utilisation (colonne&nbsp;AA), et</li>
+<li>la colonne &quot;Tax&quot; du fichier basé sur la licence (colonne&nbsp;U).</li>
 </ul></td>
 </tr>
 <tr class="even">

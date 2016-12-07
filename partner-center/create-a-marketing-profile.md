@@ -25,7 +25,7 @@ Si vous possédez un compte Pinpoint, [vous pouvez importer votre profil commerc
 ## Recommandations en matière de profils
 
 
--   Votre profil peut contenir jusqu'à 2500caractères, mais les profils succincts sont souvent plus efficaces.
+-   Votre profil peut contenir jusqu'à 2&nbsp;500&nbsp;caractères, mais les profils succincts sont souvent plus efficaces.
 
 -   Décrivez vos compétences et votre expertise, ou celles de votre entreprise.
 
@@ -39,12 +39,12 @@ Si vous possédez un compte Pinpoint, [vous pouvez importer votre profil commerc
 
 -   Les mots clés utilisés par les clients pour effectuer des recherches ont le plus d’importance. Insérez des mots clés qui décrivent avec précision vos offres commerciales, ainsi que la terminologie du secteur susceptible d’être utilisée par vos clients pour la recherche de solutions.
 
-## Dixconseils pour créer un profil réussi
+## Dix&nbsp;conseils pour créer un profil réussi
 
 
 1.  **Ciblez votre public** Écrivez comme si vous vous adressiez à votre client, et pas à votre équipe interne ou à Microsoft.
 
-2.  **Rédigez une première phrase percutante** Si un client ne voit pas que vous disposez des compétences et de l’expertise nécessaires pour répondre à ses besoins dans les deuxpremières phrases, il passera au partenaire suivant dans ses résultats de recherche.
+2.  **Rédigez une première phrase percutante** Si un client ne voit pas que vous disposez des compétences et de l’expertise nécessaires pour répondre à ses besoins dans les deux&nbsp;premières phrases, il passera au partenaire suivant dans ses résultats de recherche.
 
 3.  **Soyez concis** En ligne, on effectue plus un survol qu’une véritable lecture. Soyez clair et succinct en indiquant des informations concrètes sur vos compétences et votre expertise. La concision est un atout.
 
@@ -52,7 +52,7 @@ Si vous possédez un compte Pinpoint, [vous pouvez importer votre profil commerc
 
 5.  **Montrez que vous connaissez les besoins de vos clients** Concentrez-vous sur les conditions et avantages de votre offre pour le client, plutôt que sur les processus ou les fonctionnalités du logiciel.
 
-6.  **Utilisez un langage actif** Écrivez en utilisant des verbes et des énoncés d’action. Évitez un langage passif comme «nous avons apporté une expertise...».
+6.  **Utilisez un langage actif** Écrivez en utilisant des verbes et des énoncés d’action. Évitez un langage passif comme «&nbsp;nous avons apporté une expertise...&nbsp;».
 
 7.  **Utilisez les puces** Répartissez les informations (a, b, c, d, etc.) en listes à puces pour les rendre plus lisibles.
 

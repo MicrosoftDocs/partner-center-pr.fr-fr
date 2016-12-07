@@ -15,7 +15,7 @@ ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
 Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients. Les journaux de transaction fournissent des informations détaillées sur la transaction, y compris les abonnements achetés. Vous pouvez également exporter les journaux d’activité dans un fichier CSV (Comma-Separated Value) compatible avec Excel.
 
 <a href="" id="activitylogs"></a>
-Les journaux d’activité fournissent des enregistrements correspondant aux actions des partenaires sur les comptes client et les transactions de produit. Vous pouvez également exporter les journaux d’activité dans un fichierCSV.
+Les journaux d’activité fournissent des enregistrements correspondant aux actions des partenaires sur les comptes client et les transactions de produit. Vous pouvez également exporter les journaux d’activité dans un fichier&nbsp;CSV.
 
 **Afficher et exporter des journaux d’activité**
 
@@ -26,12 +26,12 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
     Cliquez sur la flèche vers le bas d’un journal d’activité pour afficher des détails sur une action journalisée. Un journal d’activité peut afficher une quantité importante de données, comme le classement de plusieurs produits.
 
-3.  Sélectionnez **Exporter le journal**. L’Espace partenaires convertit les données de l’abonnement du client en un fichierCSV et le télécharge dans le dossier de téléchargement par défaut de votre ordinateur. Les colonnes contiennent les données suivantes:
-    -   **Client affecté**: nom de la société du client
-    -   **Action**: nom du produit correspondant à l’abonnement
-    -   **Utilisateur partenaire**: partenaire associé à l’activité
-    -   **État**: fournit les données associées à l’activité, comme un ID de commande. Il varie selon le type d’action.
-    -   **Informations supplémentaires**: données de transaction du journal d’activité. Par exemple, si l’action est une commande de client, ce champ affiche le contenu de l’achat.
+3.  Sélectionnez **Exporter le journal**. L’Espace partenaires convertit les données de l’abonnement du client en un fichier&nbsp;CSV et le télécharge dans le dossier de téléchargement par défaut de votre ordinateur. Les colonnes contiennent les données suivantes&nbsp;:
+    -   **Client affecté**&nbsp;: nom de la société du client
+    -   **Action**&nbsp;: nom du produit correspondant à l’abonnement
+    -   **Utilisateur partenaire**&nbsp;: partenaire associé à l’activité
+    -   **État**&nbsp;: fournit les données associées à l’activité, comme un ID de commande. Il varie selon le type d’action.
+    -   **Informations supplémentaires**&nbsp;: données de transaction du journal d’activité. Par exemple, si l’action est une commande de client, ce champ affiche le contenu de l’achat.
 
  
 

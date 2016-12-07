@@ -1,6 +1,6 @@
 ---
 title: "Bénéficier du tarif spécial des offres | Espace partenaires"
-Description: "Microsoft consent des tarifs préférentiels à certains clients: établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients."
+Description: "Microsoft consent des tarifs préférentiels à certains clients&nbsp;: établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients."
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 translationtype: Human Translation
@@ -17,7 +17,7 @@ Microsoft propose des tarifs spéciaux, réduits pour certains groupes de client
 **Vérifier vos qualifications revendeur**
 
 1.  Dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte**.
-2.  Dans votre **Profil de partenaire**, dans la section **Informations sur le programmeCSP**, recherchez **Qualifications revendeur**.
+2.  Dans votre **Profil de partenaire**, dans la section **Informations sur le programme&nbsp;CSP**, recherchez **Qualifications revendeur**.
 3.  Si vous ne voyez pas la mention **Qualifications revendeur**, c’est que vous n’avez pas encore été autorisé à acheter des offres spéciales.
 
 **Vérifier les qualifications client**
@@ -34,7 +34,7 @@ Microsoft propose des tarifs spéciaux, réduits pour certains groupes de client
 <tbody>
 <tr class="odd">
 <td><p>Offres Éducation</p></td>
-<td><p>Pour accéder aux offres Éducation du programme Fournisseur de solutionsCloud, [devenez un partenaire Éducation autorisé](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).</p>
+<td><p>Pour accéder aux offres Éducation du programme Fournisseur de solutions&nbsp;Cloud, [devenez un partenaire Éducation autorisé](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).</p>
 <p>Offres d’achat aux tarifs Éducation</strong></p>
 <ol>
 <li>Vous devez être un [partenaire Éducation autorisé](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).</li>
