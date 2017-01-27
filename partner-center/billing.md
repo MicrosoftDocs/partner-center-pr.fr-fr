@@ -1,18 +1,22 @@
 ---
 title: Facturation | Espace partenaires
-Description: "En tant que partenaire Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60&nbsp;jours suivant la facturation des abonnements basés sur les licences et sur l’utilisation de vos clients."
+Description: "En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 ---
 
 # Facturation
 
+**S'applique à**
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60&nbsp;jours suivant la facturation des abonnements basés sur les licences et sur l’utilisation de vos clients.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients.
 
 Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélectionnez **Facturation**. Cette page de facturation affiche votre historique de facturation et la tendance, le solde restant dû pour le mois en cours, les liens vers votre facture et vos fichiers de rapprochement et votre dernier paiement.
 
@@ -195,6 +199,6 @@ Azure fonctionne sur le modèle du paiement à l’utilisation, dans lequel vous
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

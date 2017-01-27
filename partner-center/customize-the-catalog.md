@@ -4,15 +4,19 @@ description: "Le catalogue répertorie tous les produits Microsoft et les module
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 4484ae1e2c38f1e41aecde5e9e261b9f32997ae1
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
 
 ---
 
 # Personnaliser le catalogue
 
+**S'applique à**
 
-Le catalogue répertorie tous les produits Microsoft et les modules complémentaires disponibles à la vente pour les partenaires. Ces offres sont regroupées par segment de clientèle (comme les grandes entreprises, les&nbsp;PME ou les organismes publics). Pour permettre à vos commerciaux de sélectionner plus facilement les offres que votre organisation utilise le plus, un administrateur peut choisir les offres à mettre en évidence en haut de la liste. Cette fonctionnalité est également utile si vous souhaitez que les utilisateurs se tournent vers une offre spécifique ou que vous souhaitez présenter de nouvelles offres à vos agents.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Le catalogue répertorie les produits Microsoft et les modules complémentaires disponibles que vous pouvez proposer aux clients. Ces offres sont regroupées par segment de clientèle, comme les grandes entreprises, les PME ou les organismes publics. Pour faciliter l'accès aux offres que votre organisation utilise le plus ou la présentation des nouvelles offres à vos commerciaux, vous pouvez épingler jusqu'à cinq offres en haut de la liste du catalogue.
 
 **Personnaliser le catalogue**
 
@@ -28,6 +32,6 @@ Le catalogue répertorie tous les produits Microsoft et les modules complémenta
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

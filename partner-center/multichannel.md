@@ -1,18 +1,22 @@
 ---
 title: Multicanal | Espace partenaires
-description: "L’une des options du programme Fournisseur de solutions&nbsp;Cloud permet au partenaire de gérer l’intégralité du cycle de vie de l’abonnement d’un client&nbsp;: ventes, approvisionnement, support et renouvellement."
+description: "L’une des options du programme Fournisseur de solutions Cloud permet au partenaire de gérer l’intégralité du cycle de vie de l’abonnement d’un client : ventes, approvisionnement, support et renouvellement."
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 226e0e53f85528f1daa50639d22deb6be30f35c1
-ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
 
 ---
 
 # Multicanal
 
+**S'applique à**
 
-L’une des options du programme Fournisseur de solutions Cloud permet au partenaire de gérer l’intégralité du cycle de vie de l’abonnement d’un client&nbsp;: ventes, approvisionnement, support et renouvellement. Toutefois, dans de nombreux cas, les clients possèdent déjà des abonnements pour lesquels ils ont besoin que vous gériez l’approvisionnement ou le support et qu’ils ont précédemment achetés auprès d’un autre canal.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+L’une des options du programme Fournisseur de solutions Cloud permet au partenaire de gérer l’intégralité du cycle de vie de l’abonnement d’un client : ventes, approvisionnement, support et renouvellement. Toutefois, dans de nombreux cas, les clients possèdent déjà des abonnements pour lesquels ils ont besoin que vous gériez l’approvisionnement ou le support et qu’ils ont précédemment achetés auprès d’un autre canal.
 
 Le support multicanal s’applique lorsque le client&nbsp;:
 
@@ -61,6 +65,6 @@ Le support multicanal s’applique lorsque le client&nbsp;:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

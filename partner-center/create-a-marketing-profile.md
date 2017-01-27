@@ -1,20 +1,35 @@
 ---
 title: "Créer un profil commercial | Espace partenaires"
-description: "Chaque année, Microsoft suscite l’intérêt de millions de prospects qualifiés, pour nos solutions web."
+description: "Chaque année, Microsoft suscite l’intérêt de millions de prospects qualifiés pour ses solutions web."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1b1eb67c279511fa8cff391140e00145b186601d
+ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
+ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
 
 ---
 
 # Créer un profil commercial
 
+**S'applique à**
 
-Chaque année, nous suscitons l’intérêt de millions de prospects qualifiés pour nos solutions web. Nous pouvons vous aider à développer votre part de marché en syndiquant vos solutions auprès des clients. Les références Microsoft vous aideront à entrer en contact avec les clients qui recherchent vos solutions uniques pour répondre à leurs besoins professionnels. Pour participer, créez un profil commercial dans l’Espace partenaires.
+-  Espace partenaires
+
+Chaque année, Microsoft suscite l’intérêt de millions de prospects qualifiés pour ses solutions web. Nous pouvons vous aider à développer votre part de marché en syndiquant vos solutions auprès des clients. Les références Microsoft vous aideront à entrer en contact avec les clients qui recherchent vos solutions uniques pour répondre à leurs besoins professionnels. Pour participer, créez un profil commercial dans l’Espace partenaires.
 
 Si vous possédez un compte Pinpoint, [vous pouvez importer votre profil commercial Pinpoint dans l’Espace partenaires](importing-pinpoint-profiles-into-partner-center.md).
+
+**Informations importantes pour les partenaires en charge de la gestion des profils sur Pinpoint**
+
+Comme vous le savez peut-être, Microsoft travaille d'arrache-pied pour créer une nouvelle expérience améliorée destinée aux partenaires afin que ces derniers éditent et entretiennent leurs profils. Au final, tous les profils partenaires seront migrés vers cette nouvelle expérience, et Pinpoint sera disponible hors connexion un peu plus tard au cours de l'année 2017.
+
+Nous vous remercions pour votre patience pendant que nous terminons cette mise à jour passionnante. Nous vous fournirons des mises à jour et des instructions au cours du processus. En attendant, notez les points suivants :
+
+-   Si votre profil est répertorié sur [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) et que vous souhaitez le modifier, veuillez [vous connecter](https://go.microsoft.com/fwlink/?linkid=838394) à cet outil.
+-   Si vous êtes inscrit au programme CSP ([Cloud Service Provider](https://go.microsoft.com/fwlink/?linkid=838395)) de Microsoft, veuillez vous connecter à l'[Espace partenaires](https://go.microsoft.com/fwlink/?linkid=838396). Vous avez le choix entre créer un nouveau profil ou importer votre profil Pinpoint existant. Veillez à apporter les modifications nécessaires à votre profil avant de l'importer. Pour en savoir plus, consultez les informations ci-dessous.
+-   Si vous ne parvenez pas à modifier votre profil, veuillez contacter votre [Centre de service régional](https://go.microsoft.com/fwlink/?linkid=838398). 
+
+**Avis des clients :** dans le cadre de la transition prévue entre Pinpoint et l'Espace partenaires, la fonctionnalité permettant de répertorier les avis des clients a été supprimée et les partenaires ne peuvent plus y accéder. Une communication a été envoyée à l'ensemble des partenaires concernés via leur adresse mail avant la suppression de la fonctionnalité et des avis associés. Nous projetons de la remplacer par un système plus solide et plus fiable.
 
 **Créer un profil commercial**
 
@@ -76,6 +91,6 @@ Si vous possédez un compte Pinpoint, [vous pouvez importer votre profil commerc
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

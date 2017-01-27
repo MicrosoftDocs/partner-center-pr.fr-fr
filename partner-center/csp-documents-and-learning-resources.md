@@ -4,15 +4,19 @@ description: "Microsoft publie de nombreux documents qui permettent aux partenai
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 739f93ca5b2752196247554d7a0b593e895a6f89
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 ---
 
-# Contrats, listes de prix et offres pour fournisseurs de solutions&nbsp;Cloud
+# Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
 
+**S'applique à**
 
-Microsoft publie de nombreux documents à l’attention des partenaires fournisseurs de solutions Cloud, notamment sur l’adhésion au programme, l’inscription de nouveaux clients, la vente des produits et des services Microsoft à des clients, et la réconciliation de leur facturation.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Microsoft publie de nombreux documents qui permettent aux partenaires Fournisseurs de solutions Cloud de savoir s’ils doivent adhérer au programme, inscrire de nouveaux clients, vendre des produits et des services Microsoft à des clients, et rapprocher leur facturation.
 
 ## Dans cette section
 
@@ -39,7 +43,7 @@ Ce guide définit les conditions requises pour revendre des produits à des clie
 
 Microsoft requiert que les partenaires signent le présent contrat pour rejoindre le programme Fournisseur de solutions cloud. Vous devez sélectionner le guide adapté au marché dans lequel vous envisagez de vendre.
 
-[Contrat de revendeur cloud Microsoft : Amérique du Nord, Amérique Centrale, Amérique du Sud et Caraïbes](http://go.microsoft.com/fwlink/p/?LinkId=617094)
+[Contrat de revendeur cloud Microsoft : Amérique du Nord, Amérique Centrale, Amérique du Sud et Les Antilles](http://go.microsoft.com/fwlink/p/?LinkId=617094)
 
 [Contrat de revendeur cloud Microsoft : Asie, Australie et Pacifique](http://go.microsoft.com/fwlink/p/?LinkId=617095)
 
@@ -47,16 +51,18 @@ Microsoft requiert que les partenaires signent le présent contrat pour rejoindr
 
 [Contrat de revendeur cloud Microsoft : Japon](http://go.microsoft.com/fwlink/p/?LinkId=617097)
 
-[Contrat de revendeur cloud Microsoft : Corée](http://go.microsoft.com/fwlink/p/?LinkId=617098)
+[Contrat de revendeur Microsoft Cloud : Corée](http://go.microsoft.com/fwlink/p/?LinkId=617098)
 
-[Contrat de revendeur cloud Microsoft : Taïwan](http://go.microsoft.com/fwlink/p/?LinkId=617099)
+[Contrat de revendeur Microsoft Cloud : Taïwan](http://go.microsoft.com/fwlink/p/?LinkId=617099)
+
+[Contrat de revendeur Microsoft Cloud : Microsoft Cloud Germany](https://go.microsoft.com/fwlink/p/?linkid=831385)
 
 ## <a href="" id="customeragreementtemplate"></a>Modèle de contrat client
 
 
-Les partenaires sont chargés de s’assurer que les clients comprennent et acceptent les termes et conditions de Microsoft, y compris une utilisation acceptable des produits et services Microsoft. Nous fournissons aux partenaires un modèle pour les éléments qu’ils doivent garantir quand ils inscrivent un nouveau client.
+Les partenaires doivent s’assurer que les clients comprennent et acceptent les termes et conditions de Microsoft, y compris une utilisation acceptable des produits et services Microsoft. Nous fournissons aux partenaires un modèle pour les éléments qu'ils doivent garantir quand ils inscrivent un nouveau client.
 
-[Modèle de contrat client](http://go.microsoft.com/fwlink/p/?LinkId=617101)
+[Modèles de contrat client](agreements.md)
 
 ## Tarification
 
@@ -83,6 +89,6 @@ Pour les fournisseurs de solutions Cloud partenaires qui utilisent l’API d’e
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -1,18 +1,21 @@
 ---
 title: Migrer des abonnements Dynamics AX vers Dynamics&nbsp;365 | Espace partenaires
-description: "Microsoft propose Dynamics&nbsp;365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités."
+description: "Microsoft propose Dynamics 365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
 
 ---
 
-# Migrer des abonnements Dynamics AX vers Dynamics&nbsp;365
+# Migrer des abonnements Dynamics AX vers Dynamics 365
 
+**S'applique à**
 
-Microsoft propose Dynamics&nbsp;365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités. Dans le cadre du nouveau produit, Microsoft présente les nouvelles formules d’abonnement Microsoft Dynamics le 1er&nbsp;novembre&nbsp;2016, qui sont similaires, mais pas identiques à vos formules actuelles.
+-  Espace partenaires
+
+Microsoft propose Dynamics 365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités. Dans le cadre du nouveau produit, Microsoft présente les nouvelles formules d’abonnement Microsoft Dynamics le 1er&nbsp;novembre&nbsp;2016, qui sont similaires, mais pas identiques à vos formules actuelles.
 
 Les instructions fournies dans ce document décrivent comment les fournisseurs indirects peuvent transformer les abonnements Microsoft Dynamics&nbsp;AX des clients en nouveaux abonnements Microsoft Dynamics&nbsp;365. Elles s’appliquent également aux autres produits Microsoft qui connaissent des mises à jour, obligeant les fournisseurs à migrer les abonnements des clients vers une nouvelle référence (SKU).
 
@@ -118,6 +121,6 @@ Lorsque le client vous accepte comme fournisseur indirect, la procédure d’app
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,15 +4,18 @@ description: "Office&nbsp;365 Entreprise E5 Single SKU est disponible dans Fourn
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: fcf1f8e1b783291658ec6e0b43e6d3ced9dca63e
-ms.openlocfilehash: e29ac5ae1cb977b64f863b33f4cc67ff7b8ea2c2
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 ---
 
-# Conseil de partenaires Office&nbsp;365&nbsp;: disponibilité d’Office&nbsp;365&nbsp;E5 Single SKU dans Fournisseur de solutions&nbsp;Cloud
+# Conseil de partenaires Office 365 : disponibilité d’Office 365 E5 Single SKU dans Fournisseur de solutions Cloud
 
+**S'applique à**
 
-À compter du 5&nbsp;octobre&nbsp;2016, Office&nbsp;365 Entreprise&nbsp;E5 Single SKU est disponible dans Fournisseur des solutions&nbsp;Cloud. Dans le cadre de cette modification, la référence Office&nbsp;365 Entreprise&nbsp;E5 inclut Conférence RTC (lorsque ce service est disponible).
+-  Espace partenaires
+
+À compter du 5 octobre 2016, Office 365 Entreprise E5 Single SKU est disponible dans Fournisseur de solutions Cloud. Dans le cadre de cette modification, la référence Office&nbsp;365 Entreprise&nbsp;E5 inclut Conférence RTC (lorsque ce service est disponible).
 
 ## Résumé
 
@@ -213,6 +216,6 @@ Pour plus d’informations, consultez le site [Drumbeat](https://drumbeat.office
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

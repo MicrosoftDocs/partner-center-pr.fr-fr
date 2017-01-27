@@ -1,18 +1,22 @@
 ---
 title: "Gérer votre liste de clients | Espace partenaires"
-description: "Les enregistrements de client comptent parmi vos ressources information les plus importantes dans l’Espace partenaires."
+description: "Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a947ffb17f490a3ec195cb33000c84c1e1070459
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 ---
 
 # Gérer votre liste de clients
 
+**S'applique à**
 
-Les enregistrements de client comptent parmi vos ressources information les plus importantes dans l’Espace partenaires. Vous pouvez rechercher des comptes client dans votre base de données et exporter la base de données des clients totalement ou en partie dans un fichier&nbsp;CSV compatible avec Excel. Vous pouvez également exporter les informations sur les abonnements d’un client dans un fichier&nbsp;CSV.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires. Vous pouvez rechercher des comptes client dans votre base de données et exporter la base de données des clients totalement ou en partie dans un fichier&nbsp;CSV compatible avec Excel. Vous pouvez également exporter les informations sur les abonnements d’un client dans un fichier&nbsp;CSV.
 
 Les journaux d’activité fournissent des données exportables sur les transactions et les actions de gestion des clients. Pour plus d’informations, consultez [Afficher les journaux d’activité des clients](#pc-cloud-sltn-provider-activity-logs).
 
@@ -72,6 +76,6 @@ Pour plus d’informations, consultez les sections suivantes&nbsp;:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

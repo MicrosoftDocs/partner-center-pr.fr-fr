@@ -4,15 +4,20 @@ description: "Si un utilisateur oublie son mot de passe, vous pouvez lui attribu
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
 
 ---
 
 # Réinitialiser un mot de passe d’utilisateur
 
+**S'applique à**
 
-Si l’utilisateur oublie son mot de passe, vous pouvez lui attribuer un nouveau mot de passe temporaire. Il pourra l’utiliser à sa prochaine connexion à l’Espace partenaires.
+-  Espace partenaires
+   
+>**Remarque** Si vous êtes inscrit au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany, consultez [Gestion des utilisateurs dans l'Espace partenaires de Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md) pour plus d’informations sur la réinitialisation du mot de passe d’un utilisateur.
+
+Si l’utilisateur oublie son mot de passe, attribuez-lui un mot de passe temporaire. Il pourra l’utiliser à sa prochaine connexion à l’Espace partenaires.
 
 **Réinitialiser un mot de passe d’utilisateur en tant qu’administrateur**
 
@@ -26,7 +31,8 @@ Si l’utilisateur oublie son mot de passe, vous pouvez lui attribuer un nouveau
 **Réinitialiser votre propre mot de passe**
 
 1.  Connectez-vous à l’Espace partenaires. Sélectionnez votre nom en haut de l’écran, puis choisissez **Mon profil**.
-2.  Vous pouvez voir vos propres rôles ainsi que les instructions pour modifier votre mot de passe.
+
+2.  Vous pouvez voir vos propres rôles ainsi que les instructions permettant de modifier votre mot de passe.
 
  
 
@@ -37,6 +43,6 @@ Si l’utilisateur oublie son mot de passe, vous pouvez lui attribuer un nouveau
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

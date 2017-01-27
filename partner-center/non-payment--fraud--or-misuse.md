@@ -4,13 +4,17 @@ description: "Vous êtes financièrement responsable de tout achat frauduleux ef
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: f54d9f51b8aa61ebc2207d43857143eb42d54eb6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
 
 ---
 
 # Défaut de paiement, fraude ou mauvaise utilisation
 
+**S'applique à**
+
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
 
 Vous êtes financièrement responsable de tout achat frauduleux effectué par vos clients et/ou du non-paiement des services achetés. Par conséquent, nous vous recommandons de mettre en place des contrôles pour détecter les fraudes et limiter les risques. Il vous incombe d’étendre ou non le crédit à un client.
 
@@ -62,6 +66,6 @@ Si Microsoft détecte une activité de partenaire ou de client qui est convaincu
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

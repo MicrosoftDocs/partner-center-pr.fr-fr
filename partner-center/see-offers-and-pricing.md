@@ -1,18 +1,22 @@
 ---
 title: Voir les offres et leur tarification | Espace partenaires
-description: "Pour obtenir la liste des offres disponibles dans les programmes Fournisseur de solutions&nbsp;Cloud, ainsi que la tarification des partenaires, accédez au menu Tableau de bord et choisissez Tarification et offres."
+description: "Pour afficher la liste des offres disponibles dans le programme Fournisseur de solutions Cloud, ainsi que la tarification des partenaires, accédez au menu Tableau de bord et choisissez Tarification et offres."
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 442d93092accd4458f749eb91a006576913fb941
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
 
 ---
 
-# Voir les offres et leur tarification
+# Voir les offres et les prix
 
+**S'applique à**
 
-Pour obtenir la liste des offres disponibles dans les programmes Fournisseur de solutions Cloud, ainsi que la tarification des partenaires, accédez au menu Tableau de bord et choisissez **Tarification et offres**.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Pour afficher la liste des offres disponibles dans le programme Fournisseur de solutions Cloud, ainsi que la tarification des partenaires, accédez au menu Tableau de bord et choisissez **Tarification et offres**.
 
 ## Tarification
 
@@ -39,6 +43,6 @@ Pour les partenaires du programme Fournisseur de solutions Cloud qui utilisent l
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

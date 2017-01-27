@@ -1,18 +1,21 @@
 ---
 title: "Créer plusieurs utilisateurs pour un compte client | Espace partenaires"
-description: "Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en téléchargeant un fichier de données&nbsp;CSV dans l’Espace partenaires."
+description: "Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de données CSV dans l’Espace partenaires."
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
 ---
 
-# Créer plusieurs utilisateurs pour un compte client
+# Ajouter plusieurs utilisateurs à un compte client
 
+**S'applique à**
 
-Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en téléchargeant un fichier de données&nbsp;CSV dans l’Espace partenaires. Vous pouvez télécharger un exemple de fichier de données à partir de l’Espace partenaires, puis l’adapter à votre utilisation, ou créer un fichier de données à l’aide du modèle de données défini ci-dessous.
+-  Espace partenaires
+
+Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de données CSV dans l’Espace partenaires. Vous pouvez télécharger un exemple de fichier de données à partir de l’Espace partenaires, puis l’adapter à votre utilisation, ou créer un fichier de données à l’aide du modèle de données défini ci-dessous.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Conditions requises pour les fichiers de données
 
@@ -69,6 +72,6 @@ L’Espace partenaires attribue automatiquement les autorisations **Peut utilise
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

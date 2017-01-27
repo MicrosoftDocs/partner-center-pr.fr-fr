@@ -4,13 +4,16 @@ description: "Vous pouvez attribuer des licences et des services à un ou plusie
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 2803d5b64648fe3511e397dbbd347f88ce6b4231
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
 
 ---
 
 # Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
+**S'applique à**
+
+-  Espace partenaires
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
@@ -85,6 +88,6 @@ L’Espace partenaires gère et affiche tous les droits de licence appartenant �
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

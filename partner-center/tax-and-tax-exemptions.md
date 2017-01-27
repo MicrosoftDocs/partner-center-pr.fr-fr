@@ -1,18 +1,22 @@
 ---
 title: "Taxes et exonérations fiscales | Espace partenaires"
-description: "Comme le programme Fournisseur de solutions Cloud est un canal de revente de produits par des partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire."
+description: "Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire."
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
 ---
 
 # Taxes et exonérations fiscales
 
+**S'applique à**
 
-Comme le programme Fournisseur de solutions Cloud est un canal de vente orienté sur la revente de produits de partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire. Les règles varient en fonction des pays/régions. Les partenaires doivent collaborer avec leur conseiller fiscal pour déposer les exonérations fiscales appropriées en fonction de leur emplacement et de celui de leurs clients. Pour marquer son compte revendeur Microsoft comme n’étant pas soumis aux taxes, le partenaire doit envoyer ces certificats d’exonération à Microsoft.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire. Les règles varient en fonction des pays/régions. Les partenaires doivent collaborer avec leur conseiller fiscal pour déposer les exonérations fiscales appropriées en fonction de leur emplacement et de celui de leurs clients. Pour marquer son compte revendeur Microsoft comme n’étant pas soumis aux taxes, le partenaire doit envoyer ces certificats d’exonération à Microsoft.
 
 **Demander une exonération fiscale**
 
@@ -75,6 +79,6 @@ Comme le programme Fournisseur de solutions Cloud est un canal de vente orienté
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

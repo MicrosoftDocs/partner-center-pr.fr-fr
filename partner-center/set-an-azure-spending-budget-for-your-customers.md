@@ -1,30 +1,36 @@
 ---
 title: "Définir un budget Azure pour vos clients | Espace partenaires"
-description: "Dans l’Espace partenaires, vous pouvez définir un budget mensuel par client afin que leur facture Azure ne les surprenne pas à la fin du mois."
+description: "Dans l’Espace partenaires, vous pouvez définir un budget mensuel par client afin que sa facture Azure ne le surprenne pas à la fin du mois."
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8e4eac4ff8db03d1a47c4eef6c1d037a62e3a923
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
 
 ---
 
 # Définir un budget Azure pour vos clients
 
+**S'applique à**
 
-Dans l’Espace partenaires, vous pouvez définir un budget mensuel par client afin que leur facture Azure ne les surprenne pas à la fin du mois. Suivez les dépenses Azure de vos clients par rapport au budget. Si elles commencent à le dépasser, vous pouvez&nbsp;:
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
 
--   recevoir une notification par courrier électronique si vos clients sont proches de la limite de leur budget&nbsp;;
--   passer en revue les estimations de coûts Azure de vos clients pour ce mois, notamment les listes détaillées par service&nbsp;;
--   identifier un service mal configuré ou une tendance d’utilisation inappropriée pouvant indiquer une fraude&nbsp;;
+Pour aider les clients à gérer leurs dépenses Azure, vous pouvez définir un budget de dépenses mensuel afin que leur facture Azure ne dépasse pas le montant prévu. La définition d'un budget de dépenses Azure vous permet de comparer les dépenses Azure de vos clients par rapport au budget au cours du mois. Grâce à cette fonctionnalité, vous pouvez : 
+
+-   recevoir une notification par e-mail au cas où les dépenses d'un client approchent la limite de budget ;
+-   passer en revue les estimations de coûts Azure de vos clients par mois ;
+-   identifier un service mal configuré ou une tendance d’utilisation inappropriée pouvant indiquer une fraude ;
 -   collaborer avec le client afin d’identifier la cause du problème et de gérer les coûts&nbsp;;
 -   relever la limite budgétaire, si vous parvenez à une entente avec votre client.
 
-Notez que votre client continuera à utiliser les services et ressources&nbsp;Azure et à être facturé en conséquence, sauf si vous modifiez ses paramètres de compte dans le portail Azure.
+Cette option fournit une estimation des données de dépenses Azure. Les montants facturés réels peuvent varier et les valeurs ne prennent pas en compte les taxes, les crédits, les ajustements ou autres frais pouvant s’appliquer. Les données de dépenses sont actualisées une fois par jour. Les clients continueront d'utiliser les services et ressources Azure et à être facturé en conséquence, sauf si vous modifiez ses paramètres de compte dans le portail Azure. 
 
-**Recevoir des notifications par courrier électronique**
+>**Remarque** Cette fonctionnalité n'est pas disponible pour les comptes sandbox ou TIP (Test in Production).
 
-1.  Dans le menu Tableau de bord, sélectionnez **Dépenses Microsoft&nbsp;Azure**.
+**Activer les notifications par courrier électronique**
+
+1.  Dans le menu Tableau de bord, sélectionnez **Dépenses Microsoft Azure**.
 2.  Cliquez sur le bouton **Obtenir des e-mails** pour être averti si vos clients utilisent au moins 80&nbsp;% de leur budget. Cela vous aidera à surveiller votre facture&nbsp;Azure. Vous pouvez modifier l’adresse électronique par défaut et la remplacer par une adresse électronique personnelle ou autre pour recevoir les notifications.
 
 <a href="" id="setabudget"></a>
@@ -50,7 +56,6 @@ Notez que votre client continuera à utiliser les services et ressources&nbsp;Az
 2.  Dans la liste des clients, sélectionnez un client.
 3.  Sur la page de gestion des clients, sous **Abonnements basés sur l’utilisation**, choisissez un abonnement. Consultez l’utilisation estimée actuelle et une liste des coûts détaillés par service.
 
-Cette option fournit une estimation des données de dépenses Azure. Les montants facturés réels peuvent varier et les valeurs ne prennent pas en compte les taxes, les crédits, les ajustements ou autres frais pouvant s’appliquer. Les données de dépenses sont actualisées une fois par jour.
 
  
 
@@ -61,6 +66,6 @@ Cette option fournit une estimation des données de dépenses Azure. Les montant
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

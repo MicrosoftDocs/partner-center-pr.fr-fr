@@ -4,15 +4,19 @@ Description: "En tant que partenaire revendeur, vous devez créer un compte pour
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 738ecefeb1bbcc2b98157fdeba60b7bdaae85d51
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
 
 ---
 
 # Comptes client
 
+**S'applique à**
 
-Au titre de partenaire revendeur, vous devez créer un compte pour chacun de vos clients dans l’Espace partenaires. Le compte client constitue votre point de départ pour la vente d’abonnements, la facturation et le support.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+En tant que partenaire revendeur, vous devez créer un compte pour chacun de vos clients dans l’Espace partenaires. Le compte client constitue votre point de départ pour la vente d’abonnements, la facturation et le support.
 
 [Afficher la liste de vos clients](see-your-customer-list.md)
 
@@ -33,6 +37,6 @@ Au titre de partenaire revendeur, vous devez créer un compte pour chacun de vos
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

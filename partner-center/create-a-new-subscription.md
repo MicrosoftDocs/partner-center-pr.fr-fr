@@ -1,18 +1,22 @@
 ---
 title: "Créer un abonnement | Espace partenaires"
-description: "Après avoir créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue."
+description: "Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 57f9cd6572f656cd43594a606d39942b5fdc724e
-ms.openlocfilehash: 97e37370a2b9fa32121761a06e9aef1441334f2c
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
 
 ---
 
 # Créer un abonnement
 
+**S'applique à**
 
-Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits contenus dans le catalogue.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.
 
 **Créer un abonnement**
 
@@ -22,13 +26,15 @@ Une fois que vous avez créé un enregistrement de votre client dans l’Espace 
 4.  Une fois l’abonnement ajouté, ouvrez-le en cliquant sur son nom dans la liste des abonnements. Dans cette page de modification, vous pouvez sélectionner les licences des composants additionnels, le cas échéant.
 5.  Dans la page de modification, vous pouvez également changer le nombre de licences ou suspendre l’abonnement.
 
-**Autoriser le client à gérer son abonnement Windows Azure**
+**Autoriser les clients à gérer leurs abonnements Windows Azure**
 
-1.  En tant qu’administrateur de fournisseur de solutions&nbsp;Cloud, créez un abonnement Azure pour le client (consultez la section **Créer un abonnement** ci-dessus).
-2.  Administrateur de la part de (AOBO) sur le portail Azure du client à partir de la **Gestion des services** page ou de la liste des clients. (Dans le cadre de l’AOBO, l’URL contient un locataire cible. Ainsi, le portail Azure sait que l’utilisateur appartient au locataire Fournisseur de solutions&nbsp;Cloud, mais a accès au client.)
-3.  Dans la liste des abonnements, sélectionnez l’abonnement Azure du client.
-4.  Attribuez un rôle à des utilisateurs du client afin qu’ils puissent créer et gérer les ressources de son abonnement. (Bien que les utilisateurs du client puissent gérer les ressources de leur abonnement, le partenaire reste financièrement responsable.)
+Après avoir créé un abonnement Microsoft Azure pour un client, vous pouvez lui permettre de gérer son abonnement. Pour ce faire, vous devrez vous connecter sur le Portail de gestion Microsoft Azure du client. 
 
+1.  Pour ouvrir le Portail Azure, développez la page de description du client dans la liste de vos clients ou sélectionnez le nom du client, puis sélectionnez **Portail de gestion Microsoft Azure**.
+    
+    **Remarque** Si vous êtes invité à vous connecter au Portail Azure, vous n'avez peut-être pas délégué les privilèges d'administration. Sélectionnez **Demander une relation** pour inviter le client à vous identifier comme son partenaire de référence. Une fois que le client a accepté votre invitation, vous vous voyez automatiquement attribuer des privilèges d'administration délégués. 
+2.  Dans le portail Azure, ouvrez la liste des abonnements du client, puis sélectionnez l’abonnement Azure du client.
+3.  Attribuez un rôle à des utilisateurs du client afin qu'ils puissent créer et gérer les ressources de son abonnement.
 
  
 
@@ -37,6 +43,6 @@ Une fois que vous avez créé un enregistrement de votre client dans l’Espace 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "Les journaux d’activité fournissent des informations sur les tr
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 ---
 
-# Afficher les journaux d’activités des clients
+# Afficher les journaux d’activité des clients
 
+**S'applique à**
+
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
 
 Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients. Les journaux de transaction fournissent des informations détaillées sur la transaction, y compris les abonnements achetés. Vous pouvez également exporter les journaux d’activité dans un fichier CSV (Comma-Separated Value) compatible avec Excel.
 
@@ -42,6 +46,6 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
