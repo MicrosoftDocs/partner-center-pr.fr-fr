@@ -1,18 +1,22 @@
 ---
 title: Ajouter un nouveau client | Espace partenaires
-description: "Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure&nbsp;AD."
+description: "Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure AD."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bae4e34ebed7511c13848826a3059b308abe0388
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
 
 ---
 
 # Ajouter un client
 
+**S'applique à**
 
-Pour pouvoir vendre des abonnements, gérer la facturation ou fournir une assistance, vous devez d’abord créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend les coordonnées du client et un domaine Azure&nbsp;AD.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend les coordonnées du client et un domaine Azure&nbsp;AD.
 
 Pour les clients disposant déjà de comptes client et d’abonnements via un scénario de type [Multicanal](multichannel.md) ou [Multipartenaire](multipartner.md), vous pouvez [demander une relation avec un client](request-a-relationship-with-a-customer.md), au lieu de suivre les étapes décrites ici.
 
@@ -35,6 +39,6 @@ Pour vérifier ultérieurement les données client, notamment l’ajout de licen
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

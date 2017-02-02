@@ -4,13 +4,16 @@ description: "L’administrateur crée un compte d’utilisateur pour chaque emp
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 19faea7877a7501b8761b58e084e33f77cf95752
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
 
 ---
 
-# Créer des comptes d’utilisateur et définir des autorisations
+# Créer des comptes d’utilisateurs et définir des autorisations
 
+**S'applique à**
+
+-  Espace partenaires
 
 L’administrateur crée un compte d’utilisateur pour chaque employé du partenaire devant accéder à l’Espace partenaires. Ces tâches doivent être effectuées par un administrateur disposant de l’autorisation **Administrateur global** ou **Administrateur de la gestion des utilisateurs**. Dans **Paramètres du compte** &gt; **Gestion des utilisateurs**, vous pouvez ajouter des comptes et définir ou mettre à jour les autorisations.
 
@@ -21,19 +24,19 @@ L’administrateur crée un compte d’utilisateur pour chaque employé du parte
 
 3.  Tapez le nom complet de l’utilisateur et créez-lui une adresse électronique unique.
 
-4.  Sélectionnez le type d’agent et le type d’administrateur. L’Espace partenaires possède une interface utilisateur basée sur les rôles, pour que les sélections effectuées à cette étape personnalisent l’affichage afin de montrer uniquement les fonctionnalités nécessaires. Pour plus d’informations sur les actions de chaque rôle, voir la section [Définir les autorisations utilisateur](#setuserpermissions)
+4.  Sélectionnez le type d’agent et le type d’administrateur. L’accès à l'Espace partenaires dépendant des rôles, les sélections effectuées à cette étape personnalisent l’affichage en n'incluant que les fonctionnalités nécessaires. Pour plus d’informations sur les actions de chaque rôle, voir la section [Définir les autorisations utilisateur](#setuserpermissions)
 
 5.  Ajoutez l’utilisateur. Vous verrez un écran de confirmation avec un mot de passe temporaire pour la nouvelle connexion. Vous devez le copier et l’envoyer au nouvel utilisateur. Il n’est plus accessible une fois que vous quittez l’écran. Lors de sa première connexion, l’utilisateur devra mettre à jour le mot de passe.
 
 ### <a href="" id="setuserpermissions"></a>Définir les autorisations de l’utilisateur
 
-L’Espace partenaires possède une interface utilisateur basée sur les rôles, pour que vous puissiez personnaliser l’affichage afin de montrer uniquement les fonctionnalités nécessaires à l’utilisateur dans le cadre de son poste. Pour chaque utilisateur, vous devez sélectionner deux paramètres :
+Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez personnaliser l’affichage afin de n'inclure que les fonctionnalités nécessaires à l’utilisateur dans le cadre de son travail. Pour chaque utilisateur, vous devez sélectionner deux paramètres :
 
 -   Le paramètre **agent** détermine le type de données clients et le type d’informations Microsoft que l’utilisateur peut voir.
 
 -   Le paramètre **admin** détermine le contrôle de l’utilisateur sur l’environnement de l’Espace partenaires et sur tous les autres services Microsoft (comptes, profils et tickets de support). Ce paramètre a un impact en dehors de l’Espace partenaires : un administrateur de facturation peut accéder à toutes les factures pour tous les services Microsoft (même ceux non liés au fournisseur de solutions Cloud) et un administrateur global peut accéder aux comptes d’utilisateurs et aux comptes clients, indépendamment du fournisseur de solutions Cloud.
 
-    Le paramètre par défaut doit toujours être **Pas un administrateur**, sauf si l’utilisateur a réellement besoin d’un accès supplémentaire pour accomplir sa tâche.
+    Le paramètre par défaut doit toujours être **Pas un administrateur**, sauf si le rôle de l’utilisateur requiert un accès supplémentaire pour effectuer des tâches et prendre en charge des clients.
 
 Le tableau suivant détaille l’ensemble complet des activités que chaque rôle peut effectuer dans l’Espace partenaires.
 
@@ -91,8 +94,9 @@ Le tableau suivant détaille l’ensemble complet des activités que chaque rôl
 <td><ul>
 <li><p>Rechercher et afficher un client</p></li>
 <li><p>Modifier les détails du client</p></li>
-<li><p>État du service et demandes de service</p></li>
-<li><p>Administrateur pour le compte de</p></li>
+<li><p>Intégrité du service</p></li>
+<li><p>Créer des tickets de support pour les clients</p></li>
+<li><p>Administrer les services au nom des clients</p></li>
 </ul></td>
 <td><ul>
 <li><p>Afficher les profils de partenaire</p></li>
@@ -149,6 +153,6 @@ Le tableau suivant détaille l’ensemble complet des activités que chaque rôl
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

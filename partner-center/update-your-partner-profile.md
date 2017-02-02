@@ -1,18 +1,22 @@
 ---
 title: "Mettre à jour votre profil de partenaire | Espace partenaires"
-description: "La première fois que vous vous connectez à l’Espace partenaires en tant qu’administrateur, vérifiez que les détails de votre support sont corrects, demandez des exonérations fiscales le cas échéant, puis passez en revue les informations de contact dans votre profil."
+description: "Lors de votre première connexion à l’Espace partenaires en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d&quot;exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil."
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 87dcec53f175eb554cb69823a2c0056454ec808a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 ---
 
 # Mettre à jour votre profil de partenaire
 
+**S'applique à**
 
-La première fois que vous vous connectez à l’Espace partenaires en tant qu’administrateur, vérifiez que les détails de votre support sont corrects, déposez des exonérations fiscales le cas échéant, puis passez en revue les informations de contact dans votre profil.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Lors de votre première connexion à l’Espace partenaires en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil.
 
 **Mettre à jour les détails de votre support**
 
@@ -38,6 +42,6 @@ La première fois que vous vous connectez à l’Espace partenaires en tant qu�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

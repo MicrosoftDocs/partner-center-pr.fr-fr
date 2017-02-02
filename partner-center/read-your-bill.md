@@ -1,16 +1,20 @@
 ---
 title: Lire votre facture | Espace partenaires
 description: "Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires."
-ms.assetid: 
+ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 472bdfc06bc531d70c97e5192658fb6fd41990e3
-ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 ---
 
 # Lire votre facture
 
+**S'applique à**
+
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
 
 Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires.
 
@@ -39,7 +43,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="even">
 <td>Adresse de facturation</td>
-<td>Adresse d’expédition de votre facture. (Adresse officielle de la société&nbsp;; information non modifiable)</td>
+<td>Adresse d’expédition de votre facture. Pour changer cette adresse, modifiez votre profil de compte de l’Espace partenaires.</td>
 </tr>
 <tr class="odd">
 <td>Frais récurrents</td>
@@ -98,8 +102,8 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 <td>Adresse du site web pour accéder au service client.</td>
 </tr>
 <tr class="even">
-<td>Adresse du bénéficiaire du service</td>
-<td>Adresse où le service est utilisé. Pour changer cette adresse, modifiez votre profil de compte de l’Espace partenaires.</td>
+<td>Bénéficiaire du service</td>
+<td>Adresse où le service est utilisé. (Adresse officielle de la société, information non modifiable)</td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +119,6 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

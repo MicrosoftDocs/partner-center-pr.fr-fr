@@ -4,15 +4,19 @@ Description: "Si votre client rencontre un problème de service que vous ne pouv
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
 
 ---
 
 # Signaler des problèmes au nom d’un client
 
+**S'applique à**
 
-Si votre client rencontre un problème de service que vous ne pouvez pas résoudre, et qui répond aux critères décrits dans [Faire remonter des problèmes à Microsoft](escalate-problems-to-microsoft.md), déposez un ticket de support pour lui. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et qui répond aux critères décrits dans [Faire remonter des problèmes à Microsoft](escalate-problems-to-microsoft.md), déposez un ticket de support pour lui. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
 
 **Envoyer une demande de service pour un client**
 
@@ -88,6 +92,6 @@ Si vous vous connectez directement au Centre d’administration Office&nbsp;365,
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

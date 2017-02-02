@@ -1,18 +1,22 @@
 ---
 title: Demander une relation avec un client | Espace partenaires
-description: "La demande d’une relation est utilisée pour les scénarios Multipartenaire et Multicanal. Elle est également utile si un client supprime vos privilèges d’administration délégués et si vous devez les restaurer pour fournir des services d’approvisionnement ou de support."
+description: "La demande d’une relation est utilisée pour les scénarios Multipartenaire et Multicanal. Elle est également utile si un client supprime vos privilèges d’administration délégués et que vous devez les restaurer pour fournir des services d’approvisionnement ou de support."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: c438e5ba3589ce93e46f6bab688a9e2a634dcabe
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
 
 ---
 
 # Demander une relation avec un client
 
+**S'applique à**
 
-La demande d’une relation est utilisée pour les scénarios de type [Multipartenaire](multipartner.md) et [Multicanal](multichannel.md). Elle est également utile si un client supprime vos privilèges d’administration délégués et que vous devez les restaurer pour fournir des services d’approvisionnement ou de support.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+La demande de relation est utilisée pour les scénarios de type [Multipartenaire](multipartner.md) et [Multicanal](multichannel.md). Elle est également utile si un client supprime vos privilèges d’administration délégués et que vous devez les restaurer pour fournir des services d’approvisionnement ou de support.
 
 Notez que ce processus ajoute uniquement des privilèges d’administration délégués. À moins que le partenaire soit le revendeur fournisseur de solutions Cloud d’origine pour l’abonnement, il ne reçoit pas de facture pour ces abonnements. Il ne peut pas ajouter ni supprimer de sièges, commander des modules complémentaires, migrer les abonnements ou modifier le partenaire de référence.
 
@@ -41,6 +45,6 @@ Pour rétablir des privilèges d’administration délégués que le client a su
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

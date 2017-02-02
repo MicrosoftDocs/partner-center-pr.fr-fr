@@ -4,15 +4,18 @@ description: "Lorsque vous achetez un nouvel abonnement pour un client, vous pou
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 71b89bc6ee19183cb311f2a4d434397e1e41ad5f
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
 
 ---
 
 # Tâche de gestion des utilisateurs pour des comptes client
 
+**S'applique à**
 
-Cette rubrique fournit des instructions sur les tâches de gestion des comptes client&nbsp;:
+-  Espace partenaires
+
+Cette rubrique fournit des instructions sur les tâches de gestion des comptes client :
 
 -   [Créer des comptes d’utilisateur pour un client](#createuseraccounts)
 -   [Ajouter ou supprimer des licences d’utilisateur pour un client](#userlicensing)
@@ -87,6 +90,6 @@ Si vous devez restaurer ce compte dans un délai de 30&nbsp;jours, vous le trouv
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

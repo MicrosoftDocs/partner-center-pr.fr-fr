@@ -1,20 +1,26 @@
 ---
 title: "S’inscrire au programme Fournisseur de solutions&nbsp;Cloud | Espace partenaires"
-description: "Avant de vous inscrire au programme Fournisseur de solutions&nbsp;Cloud, découvrez les conditions requises."
+description: "Avant de vous inscrire au programme Fournisseur de solutions Cloud, prenez connaissance des conditions requises."
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bc49a7d800839a02bee99c99d67068d6f7ceb403
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
 ---
 
-# S’inscrire au programme Fournisseur de solutions&nbsp;Cloud
+# S’inscrire au programme Fournisseur de solutions Cloud
 
+**S'applique à**
 
-Avant de vous inscrire au programme Fournisseur de solutions&nbsp;Cloud, découvrez-en les [conditions requises]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+-  Espace partenaires
 
-Pour plus d’informations sur les spécifications du contrat de partenaire et d’autres programmes, consultez [Contrats, listes de prix et offres pour Fournisseur de solutions&nbsp;Cloud](csp-documents-and-learning-resources.md).
+>**Remarque**<br>
+Pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany, consultez [S'inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) et [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
+
+Avant de vous inscrire au programme Fournisseur de solutions Cloud, prenez connaissance des [conditions requises]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+
+Pour plus d’informations sur le contrat de partenaire et les autres conditions requises du programme, consultez [Contrats, listes de prix et offres pour Fournisseur de solutions Cloud](csp-documents-and-learning-resources.md).
 
 Découvrez comment remplir les critères des primes du programme Fournisseur de solutions&nbsp;Cloud, accéder à la plateforme des primes et obtenir des financements. Consultez les [détails du programme](https://go.microsoft.com/fwlink/?linkid=831533).
 
@@ -59,6 +65,6 @@ Notez que votre adresse électronique existante authentifiée par Azure&nbsp;AD 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

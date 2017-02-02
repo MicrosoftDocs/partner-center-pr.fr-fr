@@ -4,17 +4,20 @@ description: "Un client peut changer de partenaire dans le programme Fournisseur
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
 ---
 
 # Transférer un abonnement Azure vers un autre partenaire
 
+**S'applique à**
 
-Un client peut changer de partenaire dans le programme Fournisseur de solutions&nbsp;Cloud pour utiliser les services Microsoft&nbsp;Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
+-  Espace partenaires
 
-**Remarque** Pour l’instant, aucune procédure automatique ne permet aux clients Azure de basculer des programmes de licence EA, Open ou autre vers le programme Fournisseur de solutions&nbsp;Cloud. Ce processus manuel nécessite des actions de la part du partenaire et du client. De plus, il n’est pas possible de changer de fournisseur de solutions&nbsp;Cloud pour les abonnements Office&nbsp;365, Enterprise&nbsp;Mobility ou Microsoft&nbsp;Dynamics&nbsp;CRM.
+Un client peut changer de partenaire dans le programme Fournisseur de solutions Cloud pour utiliser les services Microsoft Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
+
+**Remarque** Pour l’instant, aucune procédure automatique ne permet aux clients Azure de basculer des programmes de licence EA, Open ou autre vers le programme Fournisseur de solutions Cloud. Ce processus manuel nécessite des actions de la part du partenaire et du client. De plus, il n’est pas possible de changer de fournisseur de solutions&nbsp;Cloud pour les abonnements Office&nbsp;365, Enterprise&nbsp;Mobility ou Microsoft&nbsp;Dynamics&nbsp;CRM.
 
  
 
@@ -79,6 +82,6 @@ Un client peut changer de partenaire dans le programme Fournisseur de solutions&
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

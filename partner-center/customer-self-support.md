@@ -4,15 +4,19 @@ description: Support autonome du client
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 2c55aac86943b9251e542b9032f76bb014bcfbdb
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: d32bba4fafb0f1b6dde3cc8d10b4312f0cb4b977
 
 ---
 
 # Support autonome du client
 
+**S'applique à**
 
-Les clients peuvent se connecter à leur propre Centre d’administration Microsoft Office&nbsp;365 ou au portail de gestion Azure et effectuer les actions suivantes&nbsp;:
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Les clients peuvent se connecter à leur propre Centre d’administration Microsoft Office 365 ou au portail de gestion Azure et effectuer les actions suivantes :
 
 -   Afficher les communications et les notifications sur les produits, telles que les informations d’état du service dans le Centre de messages.
 
@@ -20,7 +24,7 @@ Les clients peuvent se connecter à leur propre Centre d’administration Micros
 
 Pour acheter des abonnements supplémentaires ou annuler leur abonnement, les clients doivent contacter leur partenaire du programme Fournisseur de solutions Cloud. Les clients ne peuvent pas modifier leurs propres abonnements directement auprès de Microsoft.
 
-Les clients peuvent trouver des réponses en libre-service aux questions d’aide et de procédures via le Centre d’administration en ligne, TechNet ou les communautés Microsoft Office&nbsp;365. La liste des ressources de produit est disponible dans la page [Support](https://partnercenter.microsoft.com/en-us/partner/support) de l’Espace partenaires. Nous encourageons les partenaires à diriger leurs clients vers ces ressources dans un premier temps.
+Les clients peuvent trouver des réponses en libre-service aux questions d’aide et de procédures via le Centre d’administration en ligne, TechNet ou les communautés Microsoft Office&nbsp;365. La liste des ressources de produit est disponible dans la page [Support](https://partnercenter.microsoft.com/partner/support) de l’Espace partenaires. Nous encourageons les partenaires à diriger leurs clients vers ces ressources dans un premier temps.
 
  
 
@@ -31,6 +35,6 @@ Les clients peuvent trouver des réponses en libre-service aux questions d’aid
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -1,18 +1,22 @@
 ---
 title: Support de Microsoft | Espace Partenaires
-description: "Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace partenaires, vous pouvez demander de l’aide à Microsoft et suivre l’incident jusqu’à sa résolution."
+description: "Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace partenaires, vous pouvez demander de l&quot;aide à Microsoft et suivre l&quot;incident jusqu&quot;à sa résolution."
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d39eb07b6c26908a956b8db6c7e1e5da349fe445
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
 
 ---
 
 # Support de Microsoft
 
+**S'applique à**
 
-Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace partenaires, vous pouvez le remonter à Microsoft pour obtenir de l’aide et en effectuer le suivi jusqu'à ce qu’il soit résolu.
+-  Espace partenaires
+-  Espace partenaires de Microsoft Cloud Germany
+
+Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace partenaires, vous pouvez demander de l’aide à Microsoft et suivre l’incident jusqu’à sa résolution.
 
 [Vérifier l’état du service](check-service-health.md)
 
@@ -31,6 +35,6 @@ Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace p
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
