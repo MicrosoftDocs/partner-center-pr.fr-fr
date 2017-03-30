@@ -3,13 +3,11 @@ title: "Consolidation des locataires disposant de l’autorisation régionale Fo
 description: "Utilisez ces instructions pour consolider des locataires de différents pays/régions."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
 
 **S'applique à**
 
@@ -24,14 +22,14 @@ Utilisez ces instructions pour consolider des locataires de différents pays/ré
 
  
 
-## Préparer la migration
+## <a name="prepare-for-migration"></a>Préparer la migration
 
 
 -   Ouvrez une session sur <https://partnercenter.microsoft.com> avec le compte (existant) de transition et prenez note de tous les clients et de tous les services approvisionnés pour ces clients.
 
 ![liste de clients régionaux](images/regionalcustomer1.png)
 
-## Migrer des comptes client
+## <a name="migrate-customer-accounts"></a>Migrer des comptes client
 
 
 1.  Ouvrez une session sur <https://partnercenter.microsoft.com> avec le (nouveau) compte de transition et accédez à la liste de clients à partir du tableau de bord de l’Espace partenaires.
@@ -46,7 +44,7 @@ Utilisez ces instructions pour consolider des locataires de différents pays/ré
 
 Les clients s’affichent dans la liste des clients du partenaire, lorsqu’ils ont validé le présent contrat, un par un.
 
-## Migration d’abonnements Office&nbsp;365 et non Azure basés sur l’utilisation
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migration d’abonnements Office&nbsp;365 et non Azure basés sur l’utilisation
 
 
 1.  Lorsque votre client a signé le contrat, vous pouvez recréer ses abonnements sous votre locataire partenaire centralisé.
@@ -73,7 +71,7 @@ Avant de passer à la section suivante, vérifiez que tous les abonnements clien
 
  
 
-## Désactivation des abonnements Office&nbsp;365 sous le compte de partenaire Transition à partir de
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Désactivation des abonnements Office&nbsp;365 sous le compte de partenaire Transition à partir de
 
 
 La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comptes de partenaire **Transition à partir de** interrompt toute facturation future. Il est inutile de désactiver manuellement les abonnements Azure, car le processus de migration les désactive automatiquement.
@@ -93,7 +91,7 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 
 5.  Sélectionnez le client suivant sur la liste et répétez le processus de désactivation de tous les abonnements.
 
-## Migration d’abonnements Azure basés sur l’utilisation
+## <a name="migrating-azure-usage-based-subscriptions"></a>Migration d’abonnements Azure basés sur l’utilisation
 
 
 Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de solutions Cloud Azure basés sur l’utilisation, contrairement aux abonnements Fournisseur de solutions Cloud Office&nbsp;365. Le support Microsoft Azure peut migrer les abonnements Azure ainsi que tous les services ou ressources déployés entre les comptes de revendeur Fournisseur de solutions Cloud **Transition à partir de** et le compte de revendeur Fournisseur de solutions Cloud **Transition vers**. Il n’y a aucune interruption de service pour le client pendant cette transition.
@@ -110,7 +108,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 6.  Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. Le partenaire reçoit une facture finale avec un crédit pour le nombre de jours inutilisés entre le jour de l’annulation et le dernier jour de la période de facturation. Aucune facture n’est générée après cette période de facturation finale.
 
-### Remarques
+### <a name="notes"></a>Remarques
 
 -   La désactivation de l’abonnement à partir du compte Fournisseur de solutions&nbsp;Cloud **Transition à partir de** n’affecte pas le service du client final, tant que le service est approvisionné à partir du compte Fournisseur de services&nbsp;Cloud **Transition vers** avant la désactivation.
 
@@ -122,7 +120,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
      
 
-### Simplifier la migration avec l’exportation
+### <a name="simplify-migration-using-export"></a>Simplifier la migration avec l’exportation
 
 Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vous devez utiliser dans votre nouvelle structure consolidée&nbsp;:
 
@@ -134,11 +132,11 @@ Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vou
 
 4.  Utilisez cette liste pour recréer les abonnements dans votre nouveau locataire consolidé.
 
-### Inscription d’API
+### <a name="api-registration"></a>Inscription d’API
 
 Pour plus d’informations sur l’inscription d’API, [consultez cette page](https://msdn.microsoft.com/en-us/library/partnercenter/mt267552.aspx).
 
-## Journal d’activité de l’Espace partenaires
+## <a name="partner-center-activity-log"></a>Journal d’activité de l’Espace partenaires
 
 
 Avec le journal d’activité, les partenaires peuvent afficher un enregistrement de toutes les modifications apportées à leur locataire et qui affectent le client. Cela permet aux partenaires de suivre les modifications concernant un locataire du client.
@@ -158,11 +156,5 @@ Avec le journal d’activité, les partenaires peuvent afficher un enregistremen
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

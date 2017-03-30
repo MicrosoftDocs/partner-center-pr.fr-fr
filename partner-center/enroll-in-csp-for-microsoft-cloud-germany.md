@@ -1,77 +1,82 @@
 ---
-title: "S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany | Espace partenaires de Microsoft Cloud Germany"
-description: "Avant de vous inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany, prenez connaissance des conditions requises."
+title: "S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftCloud Germany | Espace partenaires de Microsoft Cloud Germany"
+description: Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud Germany, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: c17bf920fe54dab315be695baa3090f71c210e8e
-ms.openlocfilehash: d40f61a28c45be56c3dd28064f138b25560c4eb1
-
+ms.openlocfilehash: c804ca7136be7b34ef48e06ee36ef2899f3030f9
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany
 
 **S'applique à**
 
 -  Espace partenaires de Microsoft Cloud Germany
 
-## Avant de commencer
+## <a name="before-you-begin"></a>Avant de commencer
 
-Les partenaires de Microsoft qui font partie du programme Fournisseur de solutions Cloud peuvent utiliser l'Espace partenaires de Microsoft Cloud Germany pour vendre des solutions et des services Cloud aux clients situés dans les pays et régions de l’UE (Union européenne) ou de l'AELE (Association européenne de libre-échange).
+Les partenaires de Microsoft qui font partie du programme Fournisseur de solutions Cloud peuvent utiliser l'Espace partenaires de MicrosoftCloud Germany pour vendre des solutions et des servicesCloud aux clients situés dans les pays et régions de l’UE (Union européenne) ou de l'AELE (Association européenne de libre-échange).
 
-Pour plus d’informations, consultez [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
+Pour plus d’informations, consultez [Espace partenaires de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md).
 
-Si vous avez un compte dans l’Espace partenaires et que vous souhaitez vous inscrire au programme Fournisseur de services Cloud de Microsoft Cloud Germany, vous devez créer un compte distinct pour l'Espace partenaires de Microsoft Cloud Germany.
+Si vous avez un compte dans l’Espace partenaires et que vous souhaitez vous inscrire au programme Fournisseur de services Cloud de MicrosoftCloud Germany, vous devez créer un compte distinct pour l'Espace partenaires de MicrosoftCloud Germany.
 
 >**Important**<br>
-Si vous êtes déjà inscrit au programme Fournisseur de services Cloud et que vous souhaitez également vendre à des clients et des partenaires situés dans les pays et régions de Microsoft Cloud Germany, vous devrez créer un compte Espace partenaires pour ce marché spécifique.  
+Si vous êtes déjà inscrit au programme Fournisseur de servicesCloud et que vous souhaitez également vendre à des clients et des partenaires situés dans les pays et régions de MicrosoftCloud Germany, vous devrez créer un compte Espace partenaires pour ce marché spécifique.  
 
-Pour créer un compte Espace partenaires et vous inscrire au programme Fournisseur de services Cloud de Microsoft Cloud Germany, vous devrez fournir les informations suivantes (pensez à collecter ces informations avant de lancer le processus d’inscription) :
+Pour créer un compte Espace partenaires et vous inscrire au programme Fournisseur de servicesCloud de MicrosoftCloud Germany, vous devrez fournir les informations suivantes (pensez à collecter ces informations avant de lancer le processus d’inscription):
 
--  ID MPN (Microsoft Partner Network) de votre société 
--  Adresse professionnelle dans un des pays et régions desservis par Microsoft Cloud Germany (actuellement limité aux pays/régions de l’Union européenne et l’AELE) 
+-  ID MPN (MicrosoftPartner Network) de votre société 
+-  Adresse professionnelle dans un des pays et régions desservis par MicrosoftCloud Germany (actuellement limité aux pays/régions de l’Union européenne et l’AELE) 
 
-## Procédure d'inscription 
+## <a name="how-to-enroll"></a>Procédure d'inscription 
 
-### Étape 1 : créer un compte pour l'Espace partenaires de Microsoft Cloud Germany 
+### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Étape1: créer un compte pour l'Espace partenaires de MicrosoftCloud Germany 
 
 1.  Lancez le processus d’inscription. 
 
-2.  Ouvrez une session avec les informations d’identification d’administrateur général pour le compte Microsoft Cloud Germany de votre société pour Office 365, Microsoft Dynamics et Microsoft Azure. Si votre société n’a pas de compte pour ces portails, sélectionnez **Créer un**.
+2.  Ouvrez une session avec les informations d’identification d’administrateur général pour le compte MicrosoftCloud Germany de votre société pour Office365, MicrosoftDynamics et MicrosoftAzure. Si votre société n’a pas de compte pour ces portails, sélectionnez **Créer un**.
 
 3.  Renseignez le formulaire de création de compte Espace partenaires en suivant les instructions ci-dessous, puis sélectionnez **Continuer**.   
 
-    **Marché** | Sélectionnez le pays/la région où se trouve votre organisation. Seules les organisations disposant de bureaux dans un pays/une région membre de l’Union européenne ou de l’AELE peuvent participer au programme Microsoft Cloud Germany et vendre à des clients sur ce marché. Une fois le compte créé, vous ne pouvez pas changer de marchés. Pour vendre dans plusieurs marchés, créez un compte pour chaque marché concerné.
+    **Marché** | Sélectionnez le pays/la région où se trouve votre organisation. Seules les organisations disposant de bureaux dans un pays/une région membre de l’Union européenne ou de l’AELE peuvent participer au programme MicrosoftCloud Germany et vendre à des clients sur ce marché. Une fois le compte créé, vous ne pouvez pas changer de marchés. Pour vendre dans plusieurs marchés, créez un compte pour chaque marché concerné.
 
-    **Emplacement du bureau** | Entrez l’adresse et le numéro de téléphone du siège social de votre société dans les marchés desservis par Microsoft Cloud Germany.
+    **Emplacement du bureau** | Entrez l’adresse et le numéro de téléphone du siège social de votre société dans les marchés desservis par MicrosoftCloud Germany.
 
     **Administrateur de l'Espace partenaires** | Entrez les coordonnées de la personne qui, dans votre société, peut signer les contrats et être l’administrateur de compte principal pour Microsoft. 
 
 4.  Il se peut que vous deviez répondre à une question par téléphone/SMS pour prouver que vous n’êtes pas un robot. Entrez le numéro de téléphone que vous avez utilisé dans l’écran précédent. Après avoir répondu à la question, sélectionnez **Créer un compte**. L’écran de confirmation du compte s’affiche. Enregistrez ou notez les informations figurant sur cette page, car vous en aurez besoin plus tard dans le processus. Sélectionnez **Continuer**.
 
-### Étape 2 : demander à devenir un revendeur Fournisseur de solutions Cloud dans les marchés desservis par Microsoft Cloud Germany 
+### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-in-markets-served-by-microsoft-cloud-germany"></a>Étape2: demander à devenir un partenaire Fournisseur de solutions Cloud dans les marchés desservis par MicrosoftCloud Allemagne 
 
-1.  Renseignez les informations manquantes dans le formulaire d’inscription, y compris votre ID Microsoft Partner Network et les détails du support clientèle de votre entreprise. 
+1.  Renseignez les informations manquantes dans le formulaire d’inscription, y compris votre ID MicrosoftPartner Network et les détails du support clientèle de votre entreprise. 
 
 2.  Sélectionnez **Accepter et continuer**. L'examen de votre demande peut nous prendre plusieurs jours. Nous vous enverrons un e-mail lorsque nous en aurons terminé.
 
     >**Important**<br>
     En sélectionnant **Accepter et continuer**, vous confirmez que vous êtes autorisé à agir pour le compte de votre société, et que vous autorisez Microsoft à vérifier votre solvabilité avant l'examen de la demande d'inscription au programme Fournisseur de solutions Cloud de votre entreprise.
 
-### Étape 3 : signer le contrat de revendeur de Microsoft Cloud Germany 
+### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>Étape3: signer le contrat de revendeur de MicrosoftCloud Germany 
 
-1. Connectez-vous à l'Espace partenaires de Microsoft Cloud Germany utilisant le lien fourni dans l’e-mail de validation de votre demande. 
+1. Connectez-vous à l'Espace partenaires de MicrosoftCloud Germany utilisant le lien fourni dans l’e-mail de validation de votre demande. 
 
-2. Dans la page **Contrat**, lisez les termes et, si vous les acceptez, sélectionnez **Accepter et continuer** pour signer numériquement le [contrat de revendeur de Microsoft Cloud Germany](https://go.microsoft.com/fwlink/p/?linkid=831385). La création de votre compte peut prendre plusieurs heures. Déconnectez-vous de l'Espace partenaires de Microsoft Cloud Germany, puis reconnectez-vous ultérieurement.
+2. Dans la page **Contrat**, lisez les termes et, si vous les acceptez, sélectionnez **Accepter et continuer** pour signer numériquement le [contrat de revendeur de MicrosoftCloud Germany](https://go.microsoft.com/fwlink/p/?linkid=831385). La création de votre compte peut prendre plusieurs heures. Déconnectez-vous de l'Espace partenaires de MicrosoftCloud Allemagne, puis reconnectez-vous ultérieurement.
 
-## Rubriques connexes
+### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-azure-germany-portal"></a>Étape4: assigner des utilisateurs au rôle administrateur Agent dans le portail Azure Allemagne 
+
+MicrosoftCloud Allemagne fournit une instance distincte de MicrosoftAzure, assurée par les centres de données allemands dotés d'un réseau dédié opérant au sein de l’Allemagne. Pour autoriser les administrateurs à gérer les utilisateurs et les licences dans le portail Azure Allemagne, vous devrez leur attribuer manuellement le rôle d’agent d’administration.
+
+>**Remarque**<br>
+Une fois que vous aurez assigné des utilisateurs au rôle d'agent administrateur, le menu **Clients** apparaîtra dans le menu Tableau de bord et vous serez en mesure d’accéder à votre liste de clients et d'[ajouter de nouveaux clients](add-a-new-customer.md).   
+
+1.  Connectez-vous au portail Azure Allemagne à l'adresse https://portal.microsoftazure.de/.
+
+2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure ActiveDirectory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
+ 
+
+## <a name="related-topics"></a>Rubriques associées
 
 -  [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
 
--  [Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md)
-
-
-
-
-<!--HONumber=Jan17_HO2-->
+-  [Gestion des utilisateurs et des licences dans l'Espace partenaires de MicrosoftCloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
 

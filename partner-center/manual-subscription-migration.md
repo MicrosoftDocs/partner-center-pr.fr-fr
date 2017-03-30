@@ -1,21 +1,19 @@
 ---
 title: Migrer des abonnements Dynamics AX vers Dynamics&nbsp;365 | Espace partenaires
-description: "Microsoft propose Dynamics 365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités."
+description: "Microsoft propose Dynamics365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Migrer des abonnements Dynamics AX vers Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrer des abonnements DynamicsAX vers Dynamics365
 
 **S'applique à**
 
 -  Espace partenaires
 
-Microsoft propose Dynamics 365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités. Dans le cadre du nouveau produit, Microsoft présente les nouvelles formules d’abonnement Microsoft Dynamics le 1er&nbsp;novembre&nbsp;2016, qui sont similaires, mais pas identiques à vos formules actuelles.
+Microsoft propose Dynamics365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités. Dans le cadre du nouveau produit, Microsoft présente les nouvelles formules d’abonnement Microsoft Dynamics le 1er&nbsp;novembre&nbsp;2016, qui sont similaires, mais pas identiques à vos formules actuelles.
 
 Les instructions fournies dans ce document décrivent comment les fournisseurs indirects peuvent transformer les abonnements Microsoft Dynamics&nbsp;AX des clients en nouveaux abonnements Microsoft Dynamics&nbsp;365. Elles s’appliquent également aux autres produits Microsoft qui connaissent des mises à jour, obligeant les fournisseurs à migrer les abonnements des clients vers une nouvelle référence (SKU).
 
@@ -59,7 +57,7 @@ La gamme de produits Microsoft Dynamics&nbsp;AX n’est plus disponible à parti
 
 La formule Microsoft Dynamics CRM Online actuelle n’est plus disponible depuis le 1er&nbsp;novembre&nbsp;2016. Pour en savoir plus sur les nouvelles options de gestion de licences, consultez [Informations importantes pour les clients de CRM Online](https://go.microsoft.com/fwlink/?linkid=831667).
 
-## Accompagner les clients vers les nouvelles formules de produit
+## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers les nouvelles formules de produit
 
 
 Microsoft offre en permanence de nouveaux produits et services aux revendeurs et fournisseurs. Dans ces cas, un revendeur peut avoir besoin de mettre à niveau les services de ses clients ou de migrer leurs abonnements à partir de références (SKU) qui vont progressivement disparaître. La migration de clients depuis des références anciennes vers des références plus récentes doit respecter la séquence suivante&nbsp;:
@@ -70,8 +68,7 @@ Microsoft offre en permanence de nouveaux produits et services aux revendeurs et
 
 Dans les procédures suivantes, vous migrez un client de Dynamics AX7 Enterprise vers Dynamics 365 for Operations.
 
-<a href="" id="purchasenewsubsc"></a>
-Le revendeur doit migrer un client avec un abonnement Dynamics&nbsp;AX Enterprise vers un abonnement Dynamics 365 for Operations. La première étape consiste à acheter Dynamics&nbsp;365 for Operations.
+<a href="" id="purchasenewsubsc"></a>Le revendeur doit migrer un client avec un abonnement Dynamics&nbsp;AX Enterprise vers un abonnement Dynamics 365 for Operations. La première étape consiste à acheter Dynamics&nbsp;365 for Operations.
 
 **Acheter le nouvel abonnement**
 
@@ -80,8 +77,7 @@ Le revendeur doit migrer un client avec un abonnement Dynamics&nbsp;AX Enterpris
 
     Votre client doit maintenant avoir un ancien et un nouvel abonnement&nbsp;: dans cet exemple, l’ancien (Dynamics AX Enterprise) et le nouveau (Dynamics&nbsp;365 for Operations, Enterprise Edition).
 
-<a href="" id="reassignlicenses"></a>
-L’étape suivante consiste à réaffecter toutes les licences utilisateur au nouvel abonnement.
+<a href="" id="reassignlicenses"></a> L’étape suivante consiste à réaffecter toutes les licences utilisateur existantes au nouvel abonnement.
 
 **Réaffecter les licences utilisateur**
 
@@ -91,8 +87,7 @@ L’étape suivante consiste à réaffecter toutes les licences utilisateur au n
 4.  Sélectionnez **Envoyer**. Une page de confirmation indique les nouvelles licences attribuées.
 5.  Suivez la même procédure pour les autres utilisateurs du client qui ont besoin de la réaffectation de licences.
 
-<a href="" id="cancelsubscriptions"></a>
-Une fois les licences utilisateur attribuées au nouveau service, vous pouvez en toute sécurité annuler l’ancien abonnement au premier niveau du client.
+<a href="" id="cancelsubscriptions"></a> Une fois les licences utilisateur attribuées au nouveau service, vous pouvez en toute sécurité annuler l’ancien abonnement au premier niveau du client.
 
 **Annuler l’ancien abonnement**
 
@@ -102,7 +97,7 @@ Une fois les licences utilisateur attribuées au nouveau service, vous pouvez en
 
 L’ancien abonnement est suspendu et le nouveau est activé. L’abonnement suspendu est automatiquement désapprovisionné après 120&nbsp;jours. Aucun frais n’est facturé au client pour l’ancien abonnement.
 
-## Autres éléments à prendre en considération
+## <a name="additional-considerations"></a>Autres éléments à prendre en considération
 
 
 Si votre client passe du programme Open Channel au programme Cloud Services pour approvisionner davantage d’abonnements, vous devrez également migrer ses abonnements&nbsp;:
@@ -116,11 +111,5 @@ Lorsque le client vous accepte comme fournisseur indirect, la procédure d’app
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "Effectuer la transition de Pinpoint vers l’Espace partenaires | Espace
 Description: "Si vous voyez cette page, ces informations expliquent comment effectuer une transition de Pinpoint vers l’Espace partenaires."
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Effectuer la transition de Pinpoint vers l’Espace partenaires
+# <a name="transition-from-pinpoint-to-partner-center"></a>Effectuer la transition de Pinpoint vers l’Espace partenaires
 
 **S'applique à**
 
@@ -27,13 +25,13 @@ Quand vous importez votre profil Pinpoint, votre compte Pinpoint est clôturé e
 
 Comme vous le savez peut-être, Microsoft travaille d'arrache-pied pour créer une nouvelle expérience améliorée destinée aux partenaires afin que ces derniers éditent et entretiennent leurs profils. Au final, tous les profils partenaires seront migrés vers cette nouvelle expérience, et Pinpoint sera disponible hors connexion un peu plus tard au cours de l'année 2017.
 
-Nous vous remercions pour votre patience pendant que nous terminons cette mise à jour passionnante. Nous vous fournirons des mises à jour et des instructions au cours du processus. En attendant, notez les points suivants :
+Nous vous remercions pour votre patience pendant que nous terminons cette mise à jour passionnante. Nous vous fournirons des mises à jour et des instructions au cours du processus. En attendant, notez les points suivants:
 
 -   Si votre profil est répertorié sur [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) et que vous souhaitez le modifier, veuillez [vous connecter](https://go.microsoft.com/fwlink/?linkid=838394) à cet outil.
 -   Si vous êtes inscrit au programme CSP ([Cloud Service Provider](https://go.microsoft.com/fwlink/?linkid=838395)) de Microsoft, veuillez vous connecter à l'[Espace partenaires](https://go.microsoft.com/fwlink/?linkid=838396). Vous avez le choix entre créer un nouveau profil ou importer votre profil Pinpoint existant. Veillez à apporter les modifications nécessaires à votre profil avant de l'importer. Pour en savoir plus, consultez les informations ci-dessous.
 -   Si vous ne parvenez pas à modifier votre profil, veuillez contacter votre [Centre de service régional](https://go.microsoft.com/fwlink/?linkid=838398). 
 
-**Avis des clients :** dans le cadre de la transition prévue entre Pinpoint et l'Espace partenaires, la fonctionnalité permettant de répertorier les avis des clients a été supprimée et les partenaires ne peuvent plus y accéder. Une communication a été envoyée à l'ensemble des partenaires concernés via leur adresse mail avant la suppression de la fonctionnalité et des avis associés. Nous projetons de la remplacer par un système plus solide et plus fiable.
+**Avis des clients:** dans le cadre de la transition prévue entre Pinpoint et l'Espace partenaires, la fonctionnalité permettant de répertorier les avis des clients a été supprimée et les partenaires ne peuvent plus y accéder. Une communication a été envoyée à l'ensemble des partenaires concernés via leur adresse mail avant la suppression de la fonctionnalité et des avis associés. Nous projetons de la remplacer par un système plus solide et plus fiable.
 
 **Importation des informations du profil Pinpoint**
 
@@ -46,7 +44,7 @@ Vous pouvez seulement **modifier** ou **supprimer** les listes de **solutions** 
 
 Pour en savoir plus sur les profils commerciaux de l’Espace partenaires et afficher les résultats de l’importation de votre profil Pinpoint, [accédez à la page principale des profils de l’Espace partenaires](https://partnercenter.microsoft.com/pcv/publishing). Pour plus d’informations sur la création de profils commerciaux dans Pinpoint, consultez [Créer un profil commercial de société](create-a-marketing-profile.md).
 
-## Rubriques connexes
+## <a name="related-topics"></a>Rubriques connexes
 
 
 [Créer un profil commercial de société](create-a-marketing-profile.md)
@@ -57,11 +55,5 @@ Pour en savoir plus sur les profils commerciaux de l’Espace partenaires et aff
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

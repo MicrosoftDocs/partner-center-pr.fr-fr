@@ -3,20 +3,18 @@ title: Support du client | Espace partenaires
 description: "Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir des services techniques et une assistance&nbsp;: Aide concernant la facturation et l’abonnement Aide au déploiement, à l’approvisionnement et configuration logicielle Résolution de problèmes de performances, de disponibilité de service, de connectivité client et de bureau client dus à des paramètres manquants ou mal configurés, intégration logicielle incomplète, problèmes d’autorisations ou autres problèmes de déploiement. Gestion des mises à jour des services et logiciels Réponse aux questions sur l’utilisation Les fournisseurs de solutions&nbsp;Cloud doivent expliquer clairement aux clients comment ils bénéficieront du support. Si vous n’assurez pas un support téléphonique 24&nbsp;heures sur&nbsp;24, vous devez fournir un contrat de niveau de service pour expliquer les options à vos clients. Microsoft ne fournit pas de support aux clients du programme Fournisseur de solutions Cloud."
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Service clientèle
+# <a name="customer-support"></a>Service clientèle
 
 **S'applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud Germany
 
-Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir les services de support technique ou de prise en charge des comptes suivants :
+Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir les services de support technique ou de prise en charge des comptes suivants:
 
 -   Prise en charge de l’abonnement et de la facturation
 
@@ -35,7 +33,7 @@ Les fournisseurs de solutions cloud doivent fournir à leurs clients une descrip
 
 Si vous répondez à de nombreuses questions d’aide et de procédures, si les chiffres d’adoption de votre compte sont faibles ou si vous recherchez des opportunités de vente incitative, vous pouvez envisager des cours de formation. En apprenant à vos clients à mieux utiliser les logiciels de solution cloud qu’ils ont achetés, vous avez plus de chances de connaître une augmentation de la productivité et de la satisfaction, ainsi qu’une diminution des besoins en matière de support. Pour bénéficier de conseils et de suggestions, voir [Augmenter l’adoption et la satisfaction client](increasing-adoption-and-satisfaction.md).
 
-## Service clientèle
+## <a name="customer-support"></a>Service clientèle
 
 
 [Proposer une assistance à la facturation](provide-billing-support.md)
@@ -52,11 +50,5 @@ Si vous répondez à de nombreuses questions d’aide et de procédures, si les 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

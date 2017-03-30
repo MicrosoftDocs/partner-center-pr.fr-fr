@@ -3,13 +3,11 @@ title: Facturation | Espace partenaires
 Description: "En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Facturation
+# <a name="billing"></a>Facturation
 
 **S'applique à**
 
@@ -25,7 +23,7 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 -   Ajoutez vos propres frais pour les services et les produits que vous fournissez.
 -   Envoyez une facture unique correspondant à tous les frais à votre client.
 
-## Facturation
+## <a name="billing"></a>Facturation
 
 
 [Lire votre facture](read-your-bill.md)
@@ -42,7 +40,7 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 
 [Services RTC](o365-e5-in-csp-advisory.md)
 
-## Dans cette section
+## <a name="in-this-section"></a>Dans cette section
 
 
 -   [Notions de base de facturation](#billingbasics)
@@ -194,11 +192,5 @@ Azure fonctionne sur le modèle du paiement à l’utilisation, dans lequel vous
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

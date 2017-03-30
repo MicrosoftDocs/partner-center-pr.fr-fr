@@ -3,19 +3,17 @@ title: "Tâches de gestion des utilisateurs pour des comptes client | Espace par
 description: "Lorsque vous achetez un nouvel abonnement pour un client, vous pouvez attribuer des licences à certains utilisateurs."
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Tâche de gestion des utilisateurs pour des comptes client
+# <a name="user-management-tasks-for-customer-accounts"></a>Tâche de gestion des utilisateurs pour des comptes client
 
 **S'applique à**
 
--  Espace partenaires
+-  Espacepartenaires
 
-Cette rubrique fournit des instructions sur les tâches de gestion des comptes client :
+Cette rubrique fournit des instructions sur les tâches de gestion des comptes client:
 
 -   [Créer des comptes d’utilisateur pour un client](#createuseraccounts)
 -   [Ajouter ou supprimer des licences d’utilisateur pour un client](#userlicensing)
@@ -74,7 +72,7 @@ Si vous devez restaurer ce compte dans un délai de 30&nbsp;jours, vous le trouv
 
     Tous les comptes d’utilisateur sélectionnés réapparaissent dans la page **Utilisateurs et licences**.
 
-## Rubriques connexes
+## <a name="related-topics"></a>Rubriques connexes
 
 
 [Attribuer ou révoquer des licences pour plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md)
@@ -85,11 +83,5 @@ Si vous devez restaurer ce compte dans un délai de 30&nbsp;jours, vous le trouv
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

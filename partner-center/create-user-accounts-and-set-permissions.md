@@ -3,13 +3,11 @@ title: "Créer des comptes d’utilisateur et définir des autorisations | Espac
 description: "L’administrateur crée un compte d’utilisateur pour chaque employé du partenaire devant accéder à l’Espace partenaires."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Créer des comptes d’utilisateurs et définir des autorisations
+# <a name="create-user-accounts-and-set-permissions"></a>Créer des comptes d’utilisateurs et définir des autorisations
 
 **S'applique à**
 
@@ -148,11 +146,5 @@ Le tableau suivant détaille l’ensemble complet des activités que chaque rôl
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

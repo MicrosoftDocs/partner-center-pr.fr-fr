@@ -2,15 +2,14 @@
 title: "Modèles de contrat client de l&quot;Espace partenaires | Espace partenaires"
 description: "Télécharger les modèles de contrat client adaptés au marché à partir de l’Espace partenaires"
 author: John Miller
-translationtype: Human Translation
-ms.sourcegitcommit: fd3b8984043843932b2eff460e73b9a36acf87e2
-ms.openlocfilehash: 21e298d9ba368c98744418f2a745b2ec6773ab9d
-
+ms.openlocfilehash: 7b48417afec9a83edcb194fb9c53d112de882cf7
+ms.sourcegitcommit: 23c0c3f85ef98e810cd0b9d953d3215f87daedbb
+translationtype: HT
 ---
-#Modèles de contrat client de l'Espace partenaires
+#<a name="partner-center-customer-agreement-templates"></a>Modèles de contrat client de l'Espace partenaires
 Bienvenue dans le référentiel de modèles de contrat client de l'Espace partenaires.  Vous y trouverez tous les contrats client applicables.  Nous les avons répertoriés par région et par pays pour faciliter votre navigation.  Gardez à l'esprit qu’il est important de fournir au client le contrat correspondant à son emplacement.  Certains emplacements proposent des contrats dans plusieurs langues, selon les préférences linguistiques du client.
 
-##Amérique du Nord, Amérique centrale, Amérique du Sud et Les Antilles
+##<a name="north-america-central-america-south-america-and-the-caribbean"></a>Amérique du Nord, Amérique centrale, Amérique du Sud et Les Antilles
 
 - Argentine&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - Bahamas&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
@@ -19,12 +18,12 @@ Bienvenue dans le référentiel de modèles de contrat client de l'Espace parten
 - Bermudes&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
 - Bolivie&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - Brésil&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_ENG_Jul2016_CR_.pdf), [portugais (Brésil)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_PTB_Jul2016_CR.pdf)
-- Canada : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_ENG_Jul2016_CR_.pdf), [français](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_FRE_Jul2016_CR_.pdf)
-- Îles Caïmans : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_ENG_Jul2016_CR_.pdf)
-- Chili : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
-- Colombie : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
-- Costa Rica : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
-- République dominicaine : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
+- Canada: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_ENG_Jul2016_CR_.pdf), [français](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_FRE_Jul2016_CR_.pdf)
+- Îles Caïmans: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_BRA_ENG_Jul2016_CR_.pdf)
+- Chili: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
+- Colombie: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
+- Costa Rica: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
+- République dominicaine: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - Équateur&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - El Salvador&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - Guatemala&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
@@ -42,7 +41,7 @@ Bienvenue dans le référentiel de modèles de contrat client de l'Espace parten
 - Venezuela&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [espagnol](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - Îles Vierges américaines&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_ENG_Jul2016_CR_.pdf)
 
-##Europe
+##<a name="europe"></a>Europe
 - Albanie&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - Arménie&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - Autriche&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [allemand](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GER_Jul2016_CR_.pdf)
@@ -87,10 +86,11 @@ Bienvenue dans le référentiel de modèles de contrat client de l'Espace parten
 - Ukraine : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [ukrainien](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_UKR_Jul2016_CR_.pdf) 
 - Royaume-Uni : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 
-##Microsoft Cloud Germany
-- UE/AELE : [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_CFG_EMEA__ENG__Jul2016__CR_.pdf)
+##<a name="microsoft-cloud-germany"></a>Microsoft Cloud Germany
+- UE/AELE, tous: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_ENG_Mar2017_CR_for_German_Cloud.pdf)
+- UE/AELE, tous: [allemand](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_GER_Mar2017_CR_for_German_Cloud.pdf)
 
-##Moyen-Orient et Afrique
+##<a name="middle-east-and-africa"></a>Moyen-Orient et Afrique
 - Algérie&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [français](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf), [arabe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
 - Angola&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [portugais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_PTE_Jul2016_CR_.pdf)     
 - Bahreïn&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [arabe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
@@ -123,7 +123,7 @@ Bienvenue dans le référentiel de modèles de contrat client de l'Espace parten
 - Yémen&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [arabe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)
 - Zimbabwe&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 
-##Asie et Pacifique
+##<a name="asia-and-pacific"></a>Asie et Pacifique
 - Australie&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - Bangladesh&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - Brunei&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [malais bahasa](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf)  
@@ -147,11 +147,5 @@ Bienvenue dans le référentiel de modèles de contrat client de l'Espace parten
 - Ouzbékistan&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [russe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RUS_Jul2016_CR_.pdf) 
 - Vietnam&nbsp;: [anglais](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [vietnamien](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_VIT_Jul2016_CR_.pdf) 
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

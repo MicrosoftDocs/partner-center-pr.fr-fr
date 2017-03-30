@@ -1,15 +1,13 @@
 ---
 title: "Collaborer avec d’autres partenaires | Espace partenaires"
-description: "Un des avantages du programme Fournisseur de solutions Cloud est qu’il permet aux partenaires de gérer la relation avec le client de bout en bout."
+description: "Travaillez avec d’autres partenaires de fournisseur de solutions Cloud pour répondre aux besoins de vos clients communs."
 ms.assetid: 28AA1E57-5A1E-445C-9D5D-762428CDC8E5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: c98b3a723f0bb43607902c40b1af1ee2360202b6
-
+ms.openlocfilehash: 680698062b9b53ff02d1076f964236c8d319d58f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Collaborer avec d’autres partenaires
+# <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
 **S'applique à**
 
@@ -17,6 +15,9 @@ ms.openlocfilehash: c98b3a723f0bb43607902c40b1af1ee2360202b6
 -  Espace partenaires de Microsoft Cloud Germany
 
 Un des avantages du programme Fournisseur de solutions Cloud est qu’il permet aux partenaires de gérer la relation avec le client de bout en bout. Toutefois, de nombreux clients sont déjà abonnés à des produits Microsoft. D’autres travaillent avec divers partenaires spécialisés dans des services ou produits spécifiques. En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez travailler avec ces clients à l’aide de la prise en charge multipartenaire et multicanal dans l’Espace partenaires.
+
+>**Important**<br>
+Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris l'Espace partenaires. 
 
 [Multipartenaire](multipartner.md)
 
@@ -28,11 +29,5 @@ Un des avantages du programme Fournisseur de solutions Cloud est qu’il permet 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

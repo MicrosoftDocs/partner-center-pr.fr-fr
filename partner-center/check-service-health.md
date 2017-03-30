@@ -3,13 +3,11 @@ title: "Vérifier l’état du service | Espace partenaires"
 description: "L’une des premières choses que vous pouvez faire lorsqu’un client rencontre des problèmes avec un service est de vérifier l’état du service."
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Vérifier l’état du service
+# <a name="check-service-health"></a>Vérifier l’état du service
 
 **S'applique à**
 
@@ -33,11 +31,5 @@ Si le problème persiste à l’issue de l’interruption de service, envoyez un
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

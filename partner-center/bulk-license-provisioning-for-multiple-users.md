@@ -3,13 +3,11 @@ title: "Attribuer ou révoquer des licences pour plusieurs utilisateurs | Espace
 description: "Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs."
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Attribuer ou révoquer des licences pour plusieurs utilisateurs
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
 **S'applique à**
 
@@ -19,7 +17,7 @@ Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateu
 
 L’Espace partenaires gère et affiche tous les droits de licence appartenant à un client.
 
-## Dans cette section
+## <a name="in-this-section"></a>Dans cette section
 
 
 -   [Attribuer des licences à plusieurs utilisateurs](#assign-licenses-to-groups)
@@ -74,7 +72,7 @@ L’Espace partenaires gère et affiche tous les droits de licence appartenant �
 6.  Sous **Attribuer et révoquer des licences**, désactivez les cases à cocher des produits attribués aux utilisateurs. Par exemple, si tous les utilisateurs sélectionnés ont des licences Office&nbsp;365 Entreprise et que vous voulez les révoquer, activez la case à cocher.
 7.  Sélectionnez **Enregistrer**.
 
-## Rubriques connexes
+## <a name="related-topics"></a>Rubriques connexes
 
 
 [Attribuer des licences à un utilisateur](assign-licenses-to-users.md)
@@ -83,11 +81,5 @@ L’Espace partenaires gère et affiche tous les droits de licence appartenant �
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

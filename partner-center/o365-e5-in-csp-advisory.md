@@ -3,38 +3,36 @@ title: "Disponibilité d’Office&nbsp;365 E5 Single SKU dans Fournisseur de sol
 description: "Office&nbsp;365 Entreprise E5 Single SKU est disponible dans Fournisseur de solutions&nbsp;Cloud et inclut Conférence RTC."
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Conseil de partenaires Office 365 : disponibilité d’Office 365 E5 Single SKU dans Fournisseur de solutions Cloud
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Conseil de partenaires Office365: disponibilité d’Office365E5 Single SKU dans Fournisseur de solutionsCloud
 
 **S'applique à**
 
 -  Espace partenaires
 
-À compter du 5 octobre 2016, Office 365 Entreprise E5 Single SKU est disponible dans Fournisseur de solutions Cloud. Dans le cadre de cette modification, la référence Office&nbsp;365 Entreprise&nbsp;E5 inclut Conférence RTC (lorsque ce service est disponible).
+À compter du 5octobre2016, Office365 EntrepriseE5 Single SKU est disponible dans Fournisseur de solutionsCloud. Dans le cadre de cette modification, la référence Office&nbsp;365 Entreprise&nbsp;E5 inclut Conférence RTC (lorsque ce service est disponible).
 
-## Résumé
+## <a name="summary"></a>Résumé
 
 
 Cette offre Office&nbsp;365 Entreprise&nbsp;E5 simplifie l’achat de la suite cloud de productivité et de communication la plus complète et la plus sécurisée. Vous pouvez maintenant inclure les services de conférence Skype sans utiliser de modules complémentaires pour gérer les différents prix.
 
 Les modifications indiquées ci-dessus affectent le classement et la facturation des partenaires. Dans certains pays, les services&nbsp;RTC sont également soumis à des taxes spéciales et des impératifs réglementaires.
 
-## Recommandations pour les partenaires
+## <a name="partner-recommendations"></a>Recommandations pour les partenaires
 
 
 Incitez votre conseiller juridique et fiscal à analyser la responsabilité de votre entreprise concernant la réglementation, les taxes, les redevances et autres obligations potentielles liées aux services&nbsp;RTC.
 
-## Détails
+## <a name="details"></a>Détails
 
 
 Aux États-Unis et à Porto Rico, les services&nbsp;RTC de Skype Entreprise sont soumis à des taxes spéciales et à des obligations réglementaires. Microsoft facture les services&nbsp;RTC, toutes taxes comprises. Des taxes et réglementations&nbsp;RTC spécifiques s’appliqueront aux partenaires Office&nbsp;365 qui migrent vers la nouvelle offre Office&nbsp;365&nbsp;E5 unifiée. Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
 
-## Disponibilité du catalogue et de la liste de prix
+## <a name="price-list-and-catalog-availability"></a>Disponibilité du catalogue et de la liste de prix
 
 
 De nombreux partenaires Fournisseur de solutions&nbsp;Cloud ont besoin de délais importants pour intégrer leurs systèmes de gestion des commandes dans la plateforme Microsoft Commerce à l’aide d’API. Pour permettre aux partenaires de saisir des opportunités&nbsp;E5 avant que leurs systèmes soient prêts à vendre Office&nbsp;365 Entreprise&nbsp;E5 Single SKU, les références suivantes figureront sur la liste de prix Fournisseur de solutions&nbsp;Cloud jusqu’au 1er&nbsp;juillet&nbsp;2017&nbsp;:
@@ -46,7 +44,7 @@ Les partenaires verront plusieurs références Office&nbsp;365 Entreprise&nbsp;E
 
 Suite au lancement du 5&nbsp;octobre, certaines références indiquent le même nom d’offre, mais à différents prix, car la référence Single SKU sera proposée au même prix dans le monde entier, que le réseau&nbsp;RTC soit disponible ou non. Les partenaires doivent approvisionner la référence Single SKU sur la liste de prix (en gris dans le tableau ci-dessous et identifiée par l’ID d’offre) et par le nom d’offre indiqué sur la page du catalogue de l’Espace partenaires. Dans les prochaines semaines, le texte du nom de l’offre indiquera les références qui prendront fin au 1er&nbsp;juillet&nbsp;2017.
 
-### Références figurant sur la liste de prix Fournisseur de solutions&nbsp;Cloud par date et disponibilité du réseau&nbsp;RTC
+### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>Références figurant sur la liste de prix Fournisseur de solutions&nbsp;Cloud par date et disponibilité du réseau&nbsp;RTC
 
 **Avant le lancement d’Office 365 Ent. E5 Single SKU**
 
@@ -196,7 +194,7 @@ Exemple de rapprochement de partenaire&nbsp;:
 
  
 
-## Ressources supplémentaires
+## <a name="additional-resources"></a>Ressources supplémentaires
 
 
 Pour plus d’informations, consultez le site [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx). Les ressources d’Office&nbsp;365 Entreprise&nbsp;E5 sont disponibles sur la [page Office&nbsp;365 E5](https://drumbeat.office.com/partner/pages/e5.aspx) dans l’onglet **Commercialiser et vendre**&nbsp;:
@@ -211,11 +209,5 @@ Pour plus d’informations, consultez le site [Drumbeat](https://drumbeat.office
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

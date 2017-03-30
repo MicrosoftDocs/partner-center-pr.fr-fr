@@ -3,13 +3,11 @@ title: Proposer une assistance technique | Espace partenaires
 description: "En tant que partenaire du programme Fournisseur de solutions Cloud, vous disposez de privilèges d’administrateur délégué qui vous permettent d’accéder aux environnements de vos clients."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Proposer un support technique
+# <a name="provide-technical-support"></a>Proposer un support technique
 
 **S'applique à**
 
@@ -42,11 +40,5 @@ Dans l’Espace partenaires, vous pouvez&nbsp;:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

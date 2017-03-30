@@ -3,13 +3,11 @@ title: Utiliser les fichiers de rapprochement | Espace partenaires
 description: "Pour une vue détaillée de chaque élément facturé dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir du tableau de bord de l’Espace partenaires."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Utiliser les fichiers de rapprochement
+# <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
 **S'applique à**
 
@@ -18,17 +16,10 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 
 Pour une vue détaillée de chaque élément facturé dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir du tableau de bord de l’Espace partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
 
-## Dans cette section
-
-
--   [Détailler par partenaire](#itemizebypartner)
--   [Fichiers de rapprochement basés sur les licences](#licencebasedfiles)
--   [Fichiers de rapprochement basés sur l’utilisation](#usagebasedfiles)
-
 ## <a href="" id="itemizebypartner"></a>Détailler par partenaire
 
 
-Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémentaires dans les fichiers de rapprochement basés sur l’utilisation ou basés sur les licence pour détailler les informations par revendeur.
+Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémentaires dans les fichiers de rapprochement basés sur l’utilisation ou basés sur les licences pour détailler les informations par revendeur.
 
 <table>
 <colgroup>
@@ -43,11 +34,11 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 </thead>
 <tbody>
 <tr class="odd">
-<td>ID&nbsp;MPN</td>
-<td><p>ID&nbsp;MPN du partenaire&nbsp;CSP (direct ou indirect).</p></td>
+<td>ID MPN</td>
+<td><p>L’ID MicrosoftPartner Network (MPN) du partenaire fournisseur de solutions Cloud (direct ou indirect).</p></td>
 </tr>
 <tr class="even">
-<td>ID&nbsp;MPN revendeur</td>
+<td>ID MPN revendeur</td>
 <td><p>Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect.</p>
 <p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Cet&nbsp;ID correspond à l’ID de revendeur indiqué pour l’abonnement dans l’Espace partenaires.</p>
 <p>Pour afficher ou mettre à jour le revendeur, dans le menu Espace partenaires, sélectionnez <strong>Clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
@@ -83,12 +74,12 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Identificateur unique pour le client dans la plateforme de facturation Microsoft. Peut être utile pour identifier le client lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>ID unique de Microsoft, au format GUID, utilisé pour identifier le client.</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
-<td>OrderId</td>
+<td>OrderID</td>
 <td><p>Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la commande lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
 <td>566890604832738111</td>
 </tr>
@@ -106,12 +97,14 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>ID d’offre unique. ID d’offre standard conformément à la liste de prix.</p></td>
-<td>306855</td>
+<td><p>ID d’offre unique. ID d’offre standard conformément à la liste de prix.</p>
+<p><b>Remarque</b>: cette valeur ne correspond pas à l’ID d’offre indiquée dans la liste tarifaire. Voir DurableOfferID ci-dessous.</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>ID d’offre unique durable, comme défini dans la liste des prix.</p></td>
+<td><p>ID d’offre unique durable, comme défini dans la liste des prix.</p>
+<p><b>Remarque</b>: cette valeur correspond à l’ID d’offre de la liste de prix.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,70 +141,8 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Le type de frais ou d’ajustement.</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Frais&nbsp;:</td>
-<td><ul>
-<li>PURCHASE_FEE&nbsp;: frais initiaux de l’abonnement</li>
-<li>CYCLE_FEE&nbsp;: frais périodiques de l’abonnement</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE&nbsp;: frais d’utilisation de l’accès lors de l’annulation pour une utilisation impayée pendant la période de facturation en cours</li>
-<li>CYCLE_USAGEFEE&nbsp;: frais d’utilisation de l’accès pour la période de facturation en cours</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Ventilation&nbsp;:</td>
-<td><ul>
-<li>PURCHASE_PRORATE&nbsp;: frais au prorata à l’achat</li>
-<li>CANCEL_PRORATE&nbsp;: remboursement au prorata pour la partie inutilisée du service lors de l’annulation</li>
-<li>ACTIVATION_PRORATE&nbsp;: frais au prorata de l’activation à la fin de la période de facturation</li>
-<li>RENEW_PRORATE&nbsp;: frais au prorata lors du renouvellement de l’abonnement</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>InstanceProrate&nbsp;:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE&nbsp;: frais au prorata remboursés au client lorsque des sièges associés sont modifiés</li>
-<li>CYCLE_INSTANCEPRORATE&nbsp;: frais au prorata évalués pour le client lorsque des sièges associés sont modifiés</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Crédits&nbsp;:</td>
-<td><ul>
-<li>CREDIT&nbsp;: crédit appliqué à un instrument de paiement</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Compensation&nbsp;:</td>
-<td><ul>
-<li>OFFSET_LINEITEM&nbsp;: remboursement partiel ou complet sur un élément de ligne</li>
-<li>ONE_TIME_REFUND&nbsp;: remboursement ponctuel traité pour le client</li>
-<li>TAX_REFUND&nbsp;: remboursement dû à la validation du certificat d’exonération fiscale</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Remise&nbsp;:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT&nbsp;: remise appliquée lors de l’activation de l’abonnement</li>
-<li>CYCLE_DISCOUNT&nbsp;: remise appliquée sur les frais périodiques</li>
-<li>RENEW_DISCOUNT&nbsp;: remise appliquée lors du renouvellement de l’abonnement</li>
-<li>CANCEL_DISCOUNT&nbsp;: frais appliqués lors de l’annulation d’une remise</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
+<td><p>Le type de frais ou d’ajustement. Voir <a href="#charge_types">Frais de mappage entre une facture et le fichier de rapprochement</a></p></td>
+<td><p>Voir <a href="#charge_types">Frais de mappage entre une facture et le fichier de rapprochement</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
@@ -268,10 +199,24 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 <td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>Nom de domaine du client, afin d’identifier le client.</p></td>
+<td>example.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>Pseudo d'abonnement. Si aucun pseudo n’est spécifié, l'Espace partenaires utilise le OfferName.</p></td>
+<td>PROJET EN LIGNE</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>Le nom de l’offre de service achetée par le client, telle que définie dans la liste des prix. (Il s'agit d'un champ identique au nom Offre).</p></td>
+<td>PROJET EN LIGNE PREMIUM SANS CLIENT DE PROJET</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>Champs des fichiers basés sur l’utilisation
 
@@ -347,8 +292,8 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nom de l’offre de service.</p></td>
-<td>Microsoft&nbsp;Azure</td>
+<td><p>Pseudo de l’offre de service.</p></td>
+<td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionDescription</td>
@@ -455,8 +400,8 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Description du type d’élément de ligne.</p></td>
-<td>FRAIS D’UTILISATION DE L’ACCÈS POUR LE CYCLE ACTUEL</td>
+<td><p>Le type de frais ou d’ajustement. Voir <a href="#charge_types">Frais de mappage entre une facture et le fichier de rapprochement</a></p></td>
+<td><p>Voir <a href="#charge_types">Frais de mappage entre une facture et le fichier de rapprochement</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -493,20 +438,235 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <td><p>Nombre de connexions ServiceBus qui ont été configurées et utilisées sur un jour donné.</p></td>
 <td>Exemple : si vous avez utilisé une connexion configurée individuellement pendant un mois de 30 jours, Service Info 1 indique « 1 connexion/30 jours ». Si vous avez un pack de 25 connexions ServiceBus et que vous en avez utilisé 1 ce jour-là, votre relevé d’utilisation quotidienne indiquera « 25 connexions/30 jours - Utilisées : 1 ».</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>ID unique de Microsoft, au format GUID, utilisé pour identifier le client.</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>Nom de domaine du client, afin d’identifier le client.</p></td>
+<td>example.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types"></a>Frais de mappage entre une facture et le fichier de rapprochement
+
+Votre facture inclut un récapitulatif des frais, tandis que votre fichier de rapprochement fournit une description détaillée des transactions de chaque ligne d'élément, et indique également les types de frais.
+
+Afin de comparer les frais indiqués sur la facture et le fichier de rapprochement, vous pouvez utiliser les options de filtre de MicrosoftExcel pour trier les types de frais du fichier de rapprochement et les faire correspondre à un ensemble de frais détaillés sur ce même fichier.
+
+Le tableau ci-dessous indique les correspondances entre une section de la facture et les types de frais associés qui peuvent figurer sur les fichiers de rapprochement. 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Description des frais indiqués sur les factures</strong></p>
+</td>
+<td>
+<p><strong>Description des frais figurant sur le fichier de rapprochement (colonne ChargeType)</strong></p>
+</td>
+<td>
+<p><strong>À quoi correspondent ces frais?</strong></p>
+</td>
+<td>
+<p><strong>Comment faire correspondre ces types de frais ChargeType sur la facture?</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>Frais récurrents</strong></p>
+</td>
+<td>
+<p>Annuler l'instance au prorata</p>
+</td>
+<td>
+<p>Les frais au prorata remboursés au client lorsque des sièges associés sont modifiés</p>
+</td>
+<td rowspan="8">
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Montant</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frais de cycle</p>
+</td>
+<td>
+<p>Frais périodiques de l’abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instance de cycle au prorata</p>
+</td>
+<td>
+<p>Les frais au prorata évalués du client lorsque des sièges associés sont modifiés</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frais au prorata en cas d'annulation</p>
+</td>
+<td>
+<p>Remboursement au prorata pour la partie inutilisée du service lors de l’annulation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frais au prorata en cas d’achat</p>
+</td>
+<td>
+<p>Frais au prorata lors de l’achat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frais d’abonnement</p>
+</td>
+<td>
+<p>Frais initiaux de l’abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frais au prorata lors du renouvellement</p>
+</td>
+<td>
+<p>Frais au prorata lors du renouvellement de l’abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frais de renouvellement</p>
+</td>
+<td>
+<p>Frais de renouvellement d'un abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Autres produits et services</strong></p>
+</td>
+<td>
+<p>Frais au prorata lors de l'activation</p>
+</td>
+<td>
+<p>Frais au prorata de l’activation à la fin de la période de facturation</p>
+</td>
+<td>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Montant</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>Frais d’utilisation</strong></p>
+</td>
+<td>
+<p>Évaluer les frais d’utilisation lors de l'annulation</p>
+</td>
+<td>
+<p>Frais d’utilisation de l’accès lors de l’annulation pour une utilisation impayée pendant la période de facturation en cours</p>
+</td>
+<td rowspan="2">
+<p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>PretaxCharges</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Évaluer les frais d’utilisation pour le cycle actuel</p>
+</td>
+<td>
+<p>Frais d’utilisation de l’accès pour la période de facturation en cours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Crédits &amp; ajustements</strong></p>
+</td>
+<td>
+<p>Décalage d’un élément de ligne</p>
+</td>
+<td>
+<p>Remboursement partiel ou total d'un élément de ligne, taxes incluses</p>
+</td>
+<td>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>TotalForCustomer</strong></p>
+<p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>PostTaxTotal</strong></p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>Autres remises</strong></br>
+<em>(basées sur l’utilisation)</em></p>
+</td>
+<td>
+<p>Remise sur l’activation</p>
+</td>
+<td>
+<p>Remise appliquée lors de l’activation de l’abonnement</p>
+</td>
+<td rowspan="4">
+<p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>PretaxCharges</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Remise sur le cycle</p>
+</td>
+<td>
+<p>Remise appliquée sur les frais périodiques</p>
+</td>
+</tr><tr>
+<td>
+<p>Renouveler la remise</p>
+</td>
+<td>
+<p>Remise appliquée lors du renouvellement de l’abonnement</p>
+</td>
+</tr><tr>
+<td>
+<p>Annuler la remise</p>
+</td>
+<td>
+<p>Frais appliqués lors de l’annulation des remises</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Autres remises</strong></br>
+<em>(basées sur une licence)</em></p>
+</td>
+<td>
+<p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>TotalOtherDiscount</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong></strong>&nbsp;ou&nbsp;<strong>TVA</strong></p>
+</td>
+<td>
+<p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
+<p><em>Exception: les taxes sont déjà incluses dans «Décalage d'un élément de la ligne». Consultez les crédits &amp;ajustements ci-dessus.</em></p>
+</td>
+<td>
+<p>Taxes ou taxe sur la valeur ajoutée (TVA)</p>
+</td>
+<td>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Taxes</strong></p>
+<p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>TaxAmount</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

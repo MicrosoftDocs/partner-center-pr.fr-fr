@@ -3,13 +3,11 @@ title: "Défaut de paiement, fraude ou mauvaise utilisation | Espace partenaires
 description: "Vous êtes financièrement responsable de tout achat frauduleux effectué par vos clients et/ou du non-paiement des services achetés. Par conséquent, nous vous recommandons de mettre en place des contrôles pour détecter les fraudes et limiter les risques."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Défaut de paiement, fraude ou mauvaise utilisation
+# <a name="non-payment-fraud-or-misuse"></a>Défaut de paiement, fraude ou mauvaise utilisation
 
 **S'applique à**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
 
 Vous êtes financièrement responsable de tout achat frauduleux effectué par vos clients et/ou du non-paiement des services achetés. Par conséquent, nous vous recommandons de mettre en place des contrôles pour détecter les fraudes et limiter les risques. Il vous incombe d’étendre ou non le crédit à un client.
 
-## Dans cette section
+## <a name="in-this-section"></a>Dans cette section
 
 
 -   [Absence de paiement](#nonpayment)
@@ -61,11 +59,5 @@ Si Microsoft détecte une activité de partenaire ou de client qui est convaincu
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

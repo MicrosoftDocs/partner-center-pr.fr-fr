@@ -1,24 +1,22 @@
 ---
 title: Demander une relation avec un client | Espace partenaires
-description: "La demande d’une relation est utilisée pour les scénarios Multipartenaire et Multicanal. Elle est également utile si un client supprime vos privilèges d’administration délégués et que vous devez les restaurer pour fournir des services d’approvisionnement ou de support."
+description: "La demande de relation est utilisée pour les scénarios de type Multipartenaire et Multicanal. Elle est également utile si un client supprime vos privilèges d’administration délégués et si vous devez les restaurer pour fournir des services d’approvisionnement ou de support."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 11c855af950c58423aaf9155d4fe64ceacf1ce6e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Demander une relation avec un client
+# <a name="request-a-relationship-with-a-customer"></a>Demander une relation avec un client
 
 **S'applique à**
 
 -  Espace partenaires
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de Microsoft Cloud Allemagne
 
-La demande de relation est utilisée pour les scénarios de type [Multipartenaire](multipartner.md) et [Multicanal](multichannel.md). Elle est également utile si un client supprime vos privilèges d’administration délégués et que vous devez les restaurer pour fournir des services d’approvisionnement ou de support.
+La demande de relation est utilisée pour les scénarios de type [multipartenaire](multipartner.md) et [multicanal](multichannel.md). Elle est également utile si un client supprime vos privilèges d’administration délégués et si vous devez les restaurer pour fournir des services d’approvisionnement ou de support.
 
-Notez que ce processus ajoute uniquement des privilèges d’administration délégués. À moins que le partenaire soit le revendeur fournisseur de solutions Cloud d’origine pour l’abonnement, il ne reçoit pas de facture pour ces abonnements. Il ne peut pas ajouter ni supprimer de sièges, commander des modules complémentaires, migrer les abonnements ou modifier le partenaire de référence.
+Notez que ce processus ajoute uniquement des privilèges d’administration délégués. À moins que le partenaire soit le revendeur fournisseur de solutions Cloud d’origine pour l’abonnement, il ne reçoit pas de facture pour ces abonnements. Il ne peut pas ajouter ni supprimer des sièges, commander des modules complémentaires, migrer les abonnements ou modifier le partenaire de référence.
 
 <a href="" id="requestarelationship"></a>
 **Demander une relation**
@@ -40,11 +38,5 @@ Pour rétablir des privilèges d’administration délégués que le client a su
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

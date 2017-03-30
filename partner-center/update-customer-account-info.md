@@ -3,13 +3,11 @@ title: "Mettre à jour les informations d’un compte client | Espace partenaire
 description: "Dans l’Espace partenaires, vous pouvez mettre à jour les informations de facturation d’un client et d’autres détails de l’entreprise."
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Mettre à jour les informations d’un compte client
+# <a name="update-customer-account-info"></a>Mettre à jour les informations d’un compte client
 
 **S'applique à**
 
@@ -28,11 +26,5 @@ Dans l’Espace partenaires, vous pouvez mettre à jour les informations de fact
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "Gérer votre liste de clients | Espace partenaires"
 description: "Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
-
+ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Gérer votre liste de clients
+# <a name="manage-your-customer-list"></a>Gérer votre liste de clients
 
 **S'applique à**
 
@@ -18,23 +16,17 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires. Vous pouvez rechercher des comptes client dans votre base de données et exporter la base de données des clients totalement ou en partie dans un fichier&nbsp;CSV compatible avec Excel. Vous pouvez également exporter les informations sur les abonnements d’un client dans un fichier&nbsp;CSV.
 
-Les journaux d’activité fournissent des données exportables sur les transactions et les actions de gestion des clients. Pour plus d’informations, consultez [Afficher les journaux d’activité des clients](#pc-cloud-sltn-provider-activity-logs).
+Les journaux d’activité fournissent des données exportables sur les transactions et les actions de gestion des clients. Pour plus d’informations, consultez [Afficher les journaux d’activité des clients](activity-logs.md).
 
-Pour plus d’informations, consultez les sections suivantes&nbsp;:
 
--   [Rechercher un client](#see-your-customer-list-viewcustomerlist)
--   [Exporter votre liste de clients](#see-your-customer-list-exportcustomerlist)
--   [Exporter la liste des abonnements d’un client](#see-your-customer-list-exportsubscriptions)
-
-<a href="" id="viewcustomerlist"></a>
-**Rechercher un client**
+## <a name="search-for-a-customer"></a>Rechercher un client
 
 1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**.
 2.  Pour rechercher un client, entrez son nom ou son nom de domaine dans la zone de recherche.
 3.  Sélectionnez la **flèche vers le bas** à la fin de la ligne d’un client pour voir son ID&nbsp;Microsoft, ainsi que les liens rapides vers ses services et ses abonnements.
 
-<a href="" id="exportcustomerlist"></a>
-**Exporter votre liste de clients**
+
+## <a name="export-your-customer-list"></a>Exporter votre liste de clients
 
 1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**.
 2.  Sélectionnez **Exporter clients**.
@@ -50,8 +42,8 @@ Pour plus d’informations, consultez les sections suivantes&nbsp;:
 
 3.  Si vous êtes un fournisseur indirect, vous pouvez filtrer votre liste de clients par revendeur indirect. Sélectionnez le menu déroulant **Filtrer par revendeur indirect** et choisissez le revendeur dans la liste.
 
-<a href="" id="exportsubscriptions"></a>
-**Exporter les abonnements d’un client**
+
+## <a name="export-customer-subscription-information"></a>Exporter les informations d’abonnement client
 
 1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**.
 2.  Sélectionnez le **nom de société** d’un client. La page **Abonnements** d’un client affiche la liste complète de ses abonnements à des produits.
@@ -62,8 +54,8 @@ Pour plus d’informations, consultez les sections suivantes&nbsp;:
     -   **État**
     -   **Revendeur**&nbsp;: ID du revendeur qui possède et gère l’abonnement.
 
-    **Remarque**  
-    Pour plus d’informations sur la gestion des abonnements, consultez [Gérer les abonnements client](#pc-cloud-sltn-provider-adding-and-managing-customers--subscriptions).
+>**Remarque**<br>
+Pour plus d’informations sur la gestion des abonnements, consultez [Abonnements client](customer-subscriptions.md).
 
      
 
@@ -71,11 +63,5 @@ Pour plus d’informations, consultez les sections suivantes&nbsp;:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

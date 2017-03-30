@@ -3,13 +3,11 @@ title: "Créer un abonnement | Espace partenaires"
 description: "Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Créer un abonnement
+# <a name="create-a-new-subscription"></a>Créer un abonnement
 
 **S'applique à**
 
@@ -38,11 +36,5 @@ Après avoir créé un abonnement Microsoft Azure pour un client, vous pouvez lu
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

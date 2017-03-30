@@ -3,13 +3,11 @@ title: Abonnements client | Espace partenaires
 description: "Les partenaires peuvent vendre des abonnements à des clients et les gérer via l’Espace partenaires."
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 9048ae0f6c43e678cd1acb8829453ecb3e04d31c
 ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Abonnements client
+# <a name="customer-subscriptions"></a>Abonnements client
 
 **S'applique à**
 
@@ -41,11 +39,5 @@ Vous pouvez vendre des abonnements à des clients et les gérer via l’Espace p
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "Signaler des problèmes au nom d’un client | Espace partenaires"
 Description: "Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et qui répond aux critères décrits dans Faire remonter des problèmes à Microsoft, déposez un ticket de support pour lui."
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Signaler des problèmes au nom d’un client
+# <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d’un client
 
 **S'applique à**
 
@@ -45,7 +43,7 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 
     3.  Ensuite, passez en revue les demandes de service de votre client en accédant au Centre Office&nbsp;365 Admin et en sélectionnant **Voir tous les tickets de support**.
 
-## FAQ
+## <a name="faq"></a>FAQ
 
 
 **Qu’est-ce qui est inclus dans le droit au support&nbsp;?**
@@ -87,11 +85,5 @@ Si vous vous connectez directement au Centre d’administration Office&nbsp;365,
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

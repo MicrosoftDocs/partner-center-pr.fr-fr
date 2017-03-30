@@ -3,13 +3,11 @@ title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud |
 description: "Microsoft publie de nombreux documents qui permettent aux partenaires Fournisseurs de solutions Cloud de savoir s’ils doivent adhérer au programme, inscrire de nouveaux clients, vendre des produits et des services Microsoft à des clients, et rapprocher leur facturation."
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
+# <a name="csp-agreements-price-lists-and-offers"></a>Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
 
 **S'applique à**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 Microsoft publie de nombreux documents qui permettent aux partenaires Fournisseurs de solutions Cloud de savoir s’ils doivent adhérer au programme, inscrire de nouveaux clients, vendre des produits et des services Microsoft à des clients, et rapprocher leur facturation.
 
-## Dans cette section
+## <a name="in-this-section"></a>Dans cette section
 
 
 -   [Guide du programme](#programguide)
@@ -64,7 +62,7 @@ Les partenaires doivent s’assurer que les clients comprennent et acceptent les
 
 [Modèles de contrat client](agreements.md)
 
-## Tarification
+## <a name="pricing"></a>Tarification
 
 
 Vous pouvez télécharger les détails de tarification pour les partenaires à partir de la page **Ventes**. Il existe deux listes de prix distinctes : une pour les services basés sur des licences, notamment Office 365, Enterprise Mobility Suite et Microsoft Dynamics CRM, et une autre pour les services basés sur l’utilisation, comprenant Microsoft Azure.
@@ -73,7 +71,7 @@ La liste de prix basée sur des licences est mise à jour chaque mois. Microsoft
 
 La tarification basée sur l’utilisation est dynamique et change constamment.
 
-## Offres
+## <a name="offers"></a>Offres
 
 
 Les fournisseurs de solutions Cloud partenaires peuvent vendre Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM et Microsoft Azure. Pour plus d’informations sur les références (SKU) et les offres groupées de produits disponibles à la vente dans ces familles de produits, consultez la matrice des offres des revendeurs cloud publiée par Microsoft dans la page **Ventes**. Ce document est mis à jour chaque mois.
@@ -84,11 +82,5 @@ Pour les fournisseurs de solutions Cloud partenaires qui utilisent l’API d’e
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

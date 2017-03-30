@@ -3,13 +3,11 @@ title: Lire votre facture | Espace partenaires
 description: "Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Lire votre facture
+# <a name="read-your-bill"></a>Lire votre facture
 
 **S'applique à**
 
@@ -20,7 +18,7 @@ Votre facture récapitule tous les frais (sur le programme, les produits et les 
 
 Pour plus d’informations sur les frais par élément, utilisez les fichiers de rapprochement joints. Les fichiers de rapprochement comprennent les ID de clients et d’abonnements que vous utiliserez pour créer des factures client. Pour plus d’informations, voir [Utilisation des fichiers de rapprochement](use-the-reconciliation-files.md).
 
-## Définitions des fichiers de factures
+## <a name="invoice-file-definitions"></a>Définitions des fichiers de factures
 
 
 <table>
@@ -114,11 +112,5 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

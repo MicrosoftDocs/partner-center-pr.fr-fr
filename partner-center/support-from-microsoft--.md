@@ -3,13 +3,11 @@ title: Support de Microsoft | Espace Partenaires
 description: "Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace partenaires, vous pouvez demander de l&quot;aide à Microsoft et suivre l&quot;incident jusqu&quot;à sa résolution."
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Support de Microsoft
+# <a name="support-from-microsoft"></a>Support de Microsoft
 
 **S'applique à**
 
@@ -30,11 +28,5 @@ Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace p
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

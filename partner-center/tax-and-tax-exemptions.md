@@ -3,13 +3,11 @@ title: "Taxes et exonérations fiscales | Espace partenaires"
 description: "Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire."
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Taxes et exonérations fiscales
+# <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
 **S'applique à**
 
@@ -26,7 +24,7 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 4.  Remplissez le formulaire. Pour **Type de problème**, choisissez **Impossible de gérer mon profil**. Dans la description, indiquez votre ID&nbsp;MPN et votre ID&nbsp;Microsoft.
 5.  Une fois que vous avez envoyé le ticket, Microsoft vous adresse un e-mail pour obtenir plus d’informations. Lorsque vous répondez, joignez la documentation appropriée correspondant à vos certificats d’exonération fiscale.
 
-## Détails par pays/région
+## <a name="details-by-countryregion"></a>Détails par pays/région
 
 
 <table>
@@ -74,11 +72,5 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

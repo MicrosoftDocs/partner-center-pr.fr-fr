@@ -1,5 +1,5 @@
-# [S’inscrire au programme Fournisseur de solutions Cloud](enrolling-in-the-csp-program.md)
-## [Contrats, listes de prix et offres pour fournisseurs de solutions Cloud](csp-documents-and-learning-resources.md)
+# [S’inscrire au programme Fournisseur de solutionsCloud](enrolling-in-the-csp-program.md)
+## [Contrats, listes de prix et offres pour fournisseurs de solutionsCloud](csp-documents-and-learning-resources.md)
 # [Gérer votre compte Espace partenaires](partner-center-account-setup.md)
 ## [Mettre à jour votre profil de partenaire](update-your-partner-profile.md)
 ## [Effectuer la transition de Pinpoint vers l’Espace partenaires](importing-pinpoint-profiles-into-partner-center.md)
@@ -50,11 +50,6 @@
 ## [Faire remonter des problèmes à Microsoft](escalate-problems-to-microsoft.md)
 # [Modèles de contrat client](agreements.md)
 # [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
-## [S’inscrire dans l'Espace partenaires de Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md)
-## [Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
+## [S’inscrire dans l'Espace partenaires de MicrosoftCloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Gestion des utilisateurs et des licences dans l'Espace partenaires de MicrosoftCloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 

@@ -1,21 +1,19 @@
 ---
 title: "Bénéficier du tarif spécial des offres | Espace partenaires"
-Description: "Microsoft consent des tarifs préférentiels à certains clients : établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients."
+Description: "Microsoft consent des tarifs préférentiels à certains clients: établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients."
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
 ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Bénéficier du tarif spécial des offres
+# <a name="get-special-pricing-for-offers"></a>Bénéficier du tarif spécial des offres
 
 **S'applique à**
 
 -  Espace partenaires
 
-Microsoft consent des tarifs préférentiels à certains clients : établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients. Pour pouvoir accéder à cette tarification, les revendeurs doivent être certifiés. Le client doit également remplir les conditions requises pour pouvoir bénéficier du prix spécial.
+Microsoft consent des tarifs préférentiels à certains clients: établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients. Pour pouvoir accéder à cette tarification, les revendeurs doivent être certifiés. Le client doit également remplir les conditions requises pour pouvoir bénéficier du prix spécial.
 
 **Vérifier vos qualifications revendeur**
 
@@ -54,11 +52,5 @@ Microsoft consent des tarifs préférentiels à certains clients : établisseme
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

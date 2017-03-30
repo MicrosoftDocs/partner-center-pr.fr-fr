@@ -3,13 +3,11 @@ title: "Afficher les journaux d’activité des clients | Espace partenaires"
 description: "Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients."
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
-ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
-
+ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Afficher les journaux d’activité des clients
+# <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
 **S'applique à**
 
@@ -18,7 +16,6 @@ ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients. Les journaux de transaction fournissent des informations détaillées sur la transaction, y compris les abonnements achetés. Vous pouvez également exporter les journaux d’activité dans un fichier CSV (Comma-Separated Value) compatible avec Excel.
 
-<a href="" id="activitylogs"></a>
 Les journaux d’activité fournissent des enregistrements correspondant aux actions des partenaires sur les comptes client et les transactions de produit. Vous pouvez également exporter les journaux d’activité dans un fichier&nbsp;CSV.
 
 **Afficher et exporter des journaux d’activité**
@@ -41,11 +38,5 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,24 +3,22 @@ title: "Définir un budget Azure pour vos clients | Espace partenaires"
 description: "Dans l’Espace partenaires, vous pouvez définir un budget mensuel par client afin que sa facture Azure ne le surprenne pas à la fin du mois."
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Définir un budget Azure pour vos clients
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>Définir un budget Azure pour vos clients
 
 **S'applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud Germany
 
-Pour aider les clients à gérer leurs dépenses Azure, vous pouvez définir un budget de dépenses mensuel afin que leur facture Azure ne dépasse pas le montant prévu. La définition d'un budget de dépenses Azure vous permet de comparer les dépenses Azure de vos clients par rapport au budget au cours du mois. Grâce à cette fonctionnalité, vous pouvez : 
+Pour aider les clients à gérer leurs dépenses Azure, vous pouvez définir un budget de dépenses mensuel afin que leur facture Azure ne dépasse pas le montant prévu. La définition d'un budget de dépenses Azure vous permet de comparer les dépenses Azure de vos clients par rapport au budget au cours du mois. Grâce à cette fonctionnalité, vous pouvez: 
 
--   recevoir une notification par e-mail au cas où les dépenses d'un client approchent la limite de budget ;
--   passer en revue les estimations de coûts Azure de vos clients par mois ;
--   identifier un service mal configuré ou une tendance d’utilisation inappropriée pouvant indiquer une fraude ;
+-   recevoir une notification par e-mail au cas où les dépenses d'un client approchent la limite de budget;
+-   passer en revue les estimations de coûts Azure de vos clients par mois;
+-   identifier un service mal configuré ou une tendance d’utilisation inappropriée pouvant indiquer une fraude;
 -   collaborer avec le client afin d’identifier la cause du problème et de gérer les coûts&nbsp;;
 -   relever la limite budgétaire, si vous parvenez à une entente avec votre client.
 
@@ -30,7 +28,7 @@ Cette option fournit une estimation des données de dépenses Azure. Les montant
 
 **Activer les notifications par courrier électronique**
 
-1.  Dans le menu Tableau de bord, sélectionnez **Dépenses Microsoft Azure**.
+1.  Dans le menu Tableau de bord, sélectionnez **Dépenses MicrosoftAzure**.
 2.  Cliquez sur le bouton **Obtenir des e-mails** pour être averti si vos clients utilisent au moins 80&nbsp;% de leur budget. Cela vous aidera à surveiller votre facture&nbsp;Azure. Vous pouvez modifier l’adresse électronique par défaut et la remplacer par une adresse électronique personnelle ou autre pour recevoir les notifications.
 
 <a href="" id="setabudget"></a>
@@ -61,11 +59,5 @@ Cette option fournit une estimation des données de dépenses Azure. Les montant
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

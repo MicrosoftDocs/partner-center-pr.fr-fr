@@ -3,13 +3,11 @@ title: "Autorisation régionale de Fournisseur de solutions&nbsp;Cloud | Espace 
 description: "Avec l’autorisation régionale, les partenaires d’entreprises internationales peuvent maintenant gérer plus facilement les clients de différentes régions et pays du monde entier."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Autorisation régionale de Fournisseur de solutions&nbsp;Cloud
+# <a name="csp-regional-authorization"></a>Autorisation régionale de Fournisseur de solutions&nbsp;Cloud
 
 
 \[Certaines informations concernent la version préliminaire de produits susceptibles d’être considérablement modifiés d’ici leur commercialisation. Microsoft ne donne aucune garantie, expresse ou implicite, concernant les informations fournies ici.\]
@@ -18,13 +16,13 @@ Avec l’autorisation régionale, les partenaires d’entreprises internationale
 
 Avant, à l’exception de l’Union européenne et de l’AELE, les partenaires devaient avoir une entité physique dans chaque pays où ils voulaient effectuer des transactions commerciales. En d’autres termes, les partenaires devaient configurer plusieurs locataires dans l’Espace partenaires, avec plusieurs dates de facturation et d’autres paramètres. Dans les régions comme l'Amérique latine, les partenaires ne pouvaient pas travailler facilement avec des clients dans un pays voisin ou une région limitrophe. Parfois, les relations commerciales étaient totalement impossibles.
 
->**Remarque**<br> Si vous êtes inscrit au programme [Fournisseur de services Cloud de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) et que vous vendez à des clients situés dans des pays et régions de l’Union européenne et de l’AELE, vous ne pouvez pas consolider votre locataire de l'Espace partenaires de Microsoft Cloud Germany avec vos autres locataires.  
+>**Remarque**<br> Si vous êtes inscrit au programme [Fournisseur de services Cloud de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md) et que vous vendez à des clients situés dans des pays et régions de l’Union européenne et de l’AELE, vous ne pouvez pas consolider votre locataire de l'Espace partenaires de MicrosoftCloud Germany avec vos autres locataires.  
 
-## Planification
+## <a name="planning"></a>Planification
 
 Les partenaires ont plusieurs options pour consolider leurs locataires régionaux, comme indiqué ci-dessous.
 
-### Locataires distincts pour des régions et des pays
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Locataires distincts pour des régions et des pays
 
 La consolidation des locataires est facultative. Les partenaires peuvent continuer à gérer leurs clients internationaux avec des locataires distincts, comme indiqué dans le tableau suivant.
 
@@ -67,7 +65,7 @@ La consolidation des locataires est facultative. Les partenaires peuvent continu
 
  
 
-## Un locataire pour plusieurs régions ou pays
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>Un locataire pour plusieurs régions ou pays
 
 
 Les partenaires peuvent choisir de consolider leurs opérations de plusieurs locataires Fournisseur de solutions&nbsp;Cloud dans un seul locataire Fournisseur de solutions&nbsp;Cloud.
@@ -99,7 +97,7 @@ Les partenaires peuvent choisir de consolider leurs opérations de plusieurs loc
 
  
 
-## Certains locataires pour certaines régions et certains pays
+## <a name="some-tenants-for-some-regions-or-countries"></a>Certains locataires pour certaines régions et certains pays
 
 
 Les partenaires peuvent décider de consolider leurs opérations de plusieurs locataires Fournisseur de solutions&nbsp;Cloud dans un nombre moins important de locataires Fournisseur de solutions&nbsp;Cloud.
@@ -135,7 +133,7 @@ Les partenaires peuvent décider de consolider leurs opérations de plusieurs lo
 
  
 
-## Consolidation de locataires
+## <a name="consolidating-tenants"></a>Consolidation de locataires
 
 
 Si vous voulez consolider des locataires, nous vous recommandons de procéder comme suit&nbsp;:
@@ -145,10 +143,10 @@ Si vous voulez consolider des locataires, nous vous recommandons de procéder co
 -   **Plusieurs pays/région, mais une seule entité qui effectue les transactions.** Si vous effectuez des transactions dans plusieurs pays/régions, nous vous recommandons de tout centraliser sur le locataire avec le plus grand nombre de sièges. Vous devez annuler les abonnements dans les pays/régions où vous avez moins de sièges.
 
 
-## Informations sur le pays/la région
+## <a name="countryregion-information"></a>Informations sur le pays/la région
 
 
-Prenez en compte les éléments suivants avant de consolider des locataires :
+Prenez en compte les éléments suivants avant de consolider des locataires:
 
 -   **Si votre lieu de vente cible Microsoft est les États-Unis**, votre territoire inclut les clients situés aux États-Unis.
 
@@ -158,12 +156,12 @@ Prenez en compte les éléments suivants avant de consolider des locataires :
 
 -   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante&nbsp;: Argentine, Bahamas, Barbade, Belize, Bermudes, Bolivie, Chili, Colombie, Costa Rica, Curaçao, El Salvador, Équateur, Guatemala, Honduras, Îles Caïmans, Îles Vierges, Jamaïque, Mexique, Nicaragua, Panama, Paraguay, Pérou, Porto Rico, République dominicaine, Saint-Kitts-et-Nevis, Trinité-et-Tobago, Uruguay et Venezuela.
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante : Allemagne, Autriche, Belgique, Bulgarie, Croatie, Chypre, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Féroé (îles), Islande, Irlande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Monaco, Norvège, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède et Suisse.
+-   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Allemagne, Autriche, Belgique, Bulgarie, Croatie, Chypre, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Féroé (îles), Islande, Irlande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Monaco, Norvège, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède et Suisse.
 
-    >**Remarque**<br> Si vous êtes inscrit au programme [Fournisseur de services Cloud de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) et que vous vendez à des clients situés dans des pays et régions de l’Union européenne et de l’AELE, vous ne pouvez pas consolider votre locataire de l'Espace partenaires de Microsoft Cloud Germany avec vos autres locataires.  
+    >**Remarque**<br> Si vous êtes inscrit au programme [Fournisseur de services Cloud de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md) et que vous vendez à des clients situés dans des pays et régions de l’Union européenne et de l’AELE, vous ne pouvez pas consolider votre locataire de l'Espace partenaires de MicrosoftCloud Germany avec vos autres locataires.  
 
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante : Afghanistan, Afrique du Sud, Albanie, Algérie, Arabie Saoudite, Arménie, Autorité palestinienne, Azerbaïdjan, Bahreïn, Bélarus, Bosnie-Herzégovine, Égypte, Émirats arabes unis, Géorgie, Irak, Israël, Jordanie, Kazakhstan, Koweït, Kirghizistan, Liban, Libye, Macédoine (Ex-République yougoslave de), Moldova, Mongolie, Monténégro, Maroc, Oman, Ouzbékistan, Pakistan, Qatar, Serbie, Tadjikistan, Tunisie, Turkménistan, Turquie, Ukraine, Yémen et Zimbabwe.
+-   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Afghanistan, Afrique du Sud, Albanie, Algérie, Arabie Saoudite, Arménie, Autorité palestinienne, Azerbaïdjan, Bahreïn, Bélarus, Bosnie-Herzégovine, Égypte, Émirats arabes unis, Géorgie, Irak, Israël, Jordanie, Kazakhstan, Koweït, Kirghizistan, Liban, Libye, Macédoine (Ex-République yougoslave de), Moldova, Mongolie, Monténégro, Maroc, Oman, Ouzbékistan, Pakistan, Qatar, Serbie, Tadjikistan, Tunisie, Turkménistan, Turquie, Ukraine, Yémen et Zimbabwe.
 
 -   **Si votre lieu de vente cible Microsoft est un pays/une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante&nbsp;: Angola, Botswana, Cameroun, Cabo Verde, Côte d’Ivoire, Éthiopie, Ghana, Kenya, Maurice, Namibie, Nigeria, Ouganda, Rwanda, Sénégal, Tanzanie et Zambie.
 
@@ -187,11 +185,5 @@ Prenez en compte les éléments suivants avant de consolider des locataires :
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

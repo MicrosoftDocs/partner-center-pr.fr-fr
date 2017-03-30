@@ -3,13 +3,11 @@ title: "Scénarios de facturation courants | Espace partenaires"
 description: "Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous ajoutez de nouveaux abonnements, réglez le nombre de sièges dans un abonnement ou annulez un abonnement. Les abonnements basés sur l’utilisation et les abonnements basés sur la licence sont affectés différemment."
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Scénarios de facturation courants
+# <a name="common-billing-scenarios"></a>Scénarios de facturation courants
 
 **S'applique à**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous ajoutez de nouveaux abonnements, réglez le nombre de sièges dans un abonnement ou annulez un abonnement. Les abonnements basés sur l’utilisation et les abonnements basés sur la licence sont affectés différemment.
 
-## Dans cette section
+## <a name="in-this-section"></a>Dans cette section
 
 
 -   [Facturation basée sur l’utilisation](#usagebased)
@@ -138,11 +136,5 @@ Extourne de l’avance de frais pour l’intégralité du mois du 15 juillet au 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

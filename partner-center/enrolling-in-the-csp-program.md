@@ -1,28 +1,27 @@
 ---
 title: "S’inscrire au programme Fournisseur de solutions&nbsp;Cloud | Espace partenaires"
-description: "Avant de vous inscrire au programme Fournisseur de solutions Cloud, prenez connaissance des conditions requises."
+description: Avant de vous inscrire au programme Fournisseur de solutionsCloud, prenez connaissance des conditions requises.
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
-
+ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# S’inscrire au programme Fournisseur de solutions Cloud
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
 **S'applique à**
 
 -  Espace partenaires
 
 >**Remarque**<br>
-Pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany, consultez [S'inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) et [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
+Pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany, consultez [S'inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) et [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
 
-Avant de vous inscrire au programme Fournisseur de solutions Cloud, prenez connaissance des [conditions requises]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+Avant de vous inscrire au programme Fournisseur de solutionsCloud, prenez connaissance des [conditions requises]( http://go.microsoft.com/fwlink/p/?LinkId=617116). Pour plus d’informations sur le contrat de partenaire et les autres conditions requises du programme, consultez [Contrats, listes de prix et offres pour Fournisseur de solutionsCloud](csp-documents-and-learning-resources.md). 
 
-Pour plus d’informations sur le contrat de partenaire et les autres conditions requises du programme, consultez [Contrats, listes de prix et offres pour Fournisseur de solutions Cloud](csp-documents-and-learning-resources.md).
+>**Important**<br>
+Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris l'Espace partenaires.  
 
-Découvrez comment remplir les critères des primes du programme Fournisseur de solutions&nbsp;Cloud, accéder à la plateforme des primes et obtenir des financements. Consultez les [détails du programme](https://go.microsoft.com/fwlink/?linkid=831533).
+Découvrez comment remplir les critères des primes du programme Fournisseur de solutions Cloud, accéder à la plateforme des primes et obtenir des financements. Consultez les [détails du programme](https://go.microsoft.com/fwlink/?linkid=831533).
 
 ## <a href="" id="markets"></a>Disponibilité
 
@@ -49,7 +48,7 @@ Le programme Fournisseur de solutions Cloud est proposé aux entreprises disposa
 
  
 
-## Compte Espace partenaires
+## <a name="partner-center-account"></a>Compte Espace partenaires
 
 
 L’Espace partenaires requiert que l’administrateur de votre entreprise dispose d’une adresse électronique authentifiée par Azure&nbsp;AD. L’administrateur peut utiliser l’un de ses comptes de messagerie professionnels associés à un service cloud Microsoft, tel qu’Office&nbsp;365, Azure&nbsp;AD, Microsoft&nbsp;Intune, Enterprise Mobility Services, etc. L’adresse électronique choisie deviendra celle du compte revendeur de l’administrateur.
@@ -60,11 +59,5 @@ Notez que votre adresse électronique existante authentifiée par Azure&nbsp;AD 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

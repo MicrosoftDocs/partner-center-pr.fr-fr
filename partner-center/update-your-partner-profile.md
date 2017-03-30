@@ -3,13 +3,11 @@ title: "Mettre à jour votre profil de partenaire | Espace partenaires"
 description: "Lors de votre première connexion à l’Espace partenaires en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d&quot;exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil."
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Mettre à jour votre profil de partenaire
+# <a name="update-your-partner-profile"></a>Mettre à jour votre profil de partenaire
 
 **S'applique à**
 
@@ -37,11 +35,5 @@ Lors de votre première connexion à l’Espace partenaires en tant qu’adminis
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

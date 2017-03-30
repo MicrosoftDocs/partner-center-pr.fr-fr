@@ -3,21 +3,19 @@ title: "Transférer des abonnements Azure vers un autre partenaire | Espace part
 description: "Un client peut changer de partenaire dans le programme Fournisseur de solutions&nbsp;Cloud pour utiliser les services Microsoft&nbsp;Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Transférer un abonnement Azure vers un autre partenaire
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Transférer un abonnement Azure vers un autre partenaire
 
 **S'applique à**
 
 -  Espace partenaires
 
-Un client peut changer de partenaire dans le programme Fournisseur de solutions Cloud pour utiliser les services Microsoft Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
+Un client peut changer de partenaire dans le programme Fournisseur de solutionsCloud pour utiliser les services MicrosoftAzure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
 
-**Remarque** Pour l’instant, aucune procédure automatique ne permet aux clients Azure de basculer des programmes de licence EA, Open ou autre vers le programme Fournisseur de solutions Cloud. Ce processus manuel nécessite des actions de la part du partenaire et du client. De plus, il n’est pas possible de changer de fournisseur de solutions&nbsp;Cloud pour les abonnements Office&nbsp;365, Enterprise&nbsp;Mobility ou Microsoft&nbsp;Dynamics&nbsp;CRM.
+**Remarque** Pour l’instant, aucune procédure automatique ne permet aux clients Azure de basculer des programmes de licence EA, Open ou autre vers le programme Fournisseur de solutionsCloud. Ce processus manuel nécessite des actions de la part du partenaire et du client. De plus, il n’est pas possible de changer de fournisseur de solutions&nbsp;Cloud pour les abonnements Office&nbsp;365, Enterprise&nbsp;Mobility ou Microsoft&nbsp;Dynamics&nbsp;CRM.
 
  
 
@@ -77,11 +75,5 @@ Un client peut changer de partenaire dans le programme Fournisseur de solutions�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
