@@ -2,9 +2,11 @@
 title: "S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis"
 description: "Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises."
 author: MaggiePucciEvans
-ms.openlocfilehash: fec9ea2ddebda84d2110d34313cfdc8492727fee
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 152634d9aca087396c46d841b085b0231c5498c8
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -18,7 +20,7 @@ Les partenaires Microsoft participant au programme de fournisseur de solutions C
 
 Pour plus d’informations, consultez [Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis](partner-center-for-microsoft-us-govt-cloud.md).
 
-Avant de vous inscrire au programme de fournisseur de solutions Cloud (CSP), vous devez créer un nouveau compte MicrosoftAzure Government. Pour créer ce compte, complétez le [formulaire de validation de MicrosoftCloud pour le gouvernement](https://aka.ms/azgovcspreq) et envoyez-le par e-mail à l'adresse <azgovcsp@microsoft.com>.
+Avant de vous inscrire au programme de fournisseur de solutions Cloud (CSP), vous devez créer un nouveau compte MicrosoftAzure Government. Pour créer ce compte, complétez le [formulaire de validation de MicrosoftCloud pour le gouvernement](http://azuregov.microsoft.com/csp) et envoyez-le par e-mail à l'adresse <azgovcsp@microsoft.com>.
 
 >**Important**<br>
 Si vous avez un compte dans l’Espace partenaires et que vous souhaitez vous inscrire au programme Fournisseur de services Cloud de MicrosoftCloud pour le <Government></Government>gouvernement des États-Unis, vous devez créer un compte distinct pour l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis.
@@ -35,7 +37,7 @@ Pour créer un compte Espace partenaires et vous inscrire au programme Fournisse
 
 1.  Lancement du processus d’inscription. 
 
-2.  Connectez-vous à l'aide des informations d'identification administrateur générales pour le compte Microsoft Cloud pour le gouvernement des États-Unis de votre organisation pour Microsoft Azure. Si votre organisation ne dispose pas d'un compte pour ce portail, vous pouvez en créer un en complétant le [formulaire de validation de Cloud Microsoft pour le gouvernement](https://aka.ms/azgovcspreq) et en l'envoyant par courrier électronique à l'adresse <azgovcsp@microsoft.com>.
+2.  Connectez-vous à l'aide des informations d'identification administrateur générales pour le compte Microsoft Cloud pour le gouvernement des États-Unis de votre organisation pour Microsoft Azure. Si votre organisation ne dispose pas d'un compte pour ce portail, vous pouvez en créer un en complétant le [formulaire de validation de MicrosoftCloud pour le gouvernement](http://azuregov.microsoft.com/csp).
 
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-within-microsoft-cloud-for-us-government"></a>Étape2: soumettez votre demande pour devenir partenaire fournisseur de solutions Cloud au sein de MicrosoftCloud pour le gouvernement des États-Unis

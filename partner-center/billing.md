@@ -3,20 +3,22 @@ title: Facturation | Espace partenaires
 Description: "En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 85a187589eebf1724f98f16f15ae58e5ea105baf
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="billing"></a>Facturation
 
 **S'applique à**
 
 -  Espace partenaires
+-  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de Microsoft Cloud Germany
 
 En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients.
 
-Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélectionnez **Facturation**. Cette page de facturation affiche votre historique de facturation et la tendance, le solde restant dû pour le mois en cours, les liens vers votre facture et vos fichiers de rapprochement et votre dernier paiement.
+Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélectionnez **Facturation**. Cette page affiche votre historique et vos tendances de facturation, le solde du mois en cours (ou de l'année, si la facturation est annuelle), des liens vers votre facture et vos fichiers de rapprochement, ainsi que votre dernier paiement en date.
 
 -   Nous n’avons pas d’exigences particulières sur la façon dont vous gérez votre propre facturation.
 -   Pour établir la consommation des clients, utilisez le nom/ID du client et les autres champs pertinents des fichiers de rapprochement.
@@ -76,7 +78,7 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <tr class="odd">
 <td>Règles de facturation</td>
 <td><ul>
-<li>Vous recevez une facture chaque mois pour le programme Fournisseur de solutions Cloud.</li>
+<li>Vous recevez une facture chaque mois (ou année en cas de facturation annuelle) pour le programme Fournisseur de solutionsCloud.</li>
 <li>Les abonnements basés sur les licences sont facturés en fonction des licences achetées, et non des licences utilisées.</li>
 <li>Les abonnements Azure (basés sur l’utilisation) sont facturés en fonction de barèmes basés sur la consommation.</li>
 <li>Les prix sont garantis pour la durée de l’abonnement. Les prix peuvent changer lors du renouvellement de l’abonnement.</li>
@@ -92,7 +94,7 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <td>Ajustements/crédits/annulations</td>
 <td><ul>
 <li>Les crédits ne sont pas autorisés pour les comptes test et le test des intégrations. Pour éviter des frais d’abonnement ou des frais de résiliation anticipée lorsque vous effectuez le test, vous pouvez annuler l’abonnement lors de la « période gratuite ». Tous les frais d’utilisation des services Azure vous incombent.</li>
-<li>Vous verrez les ajustements et les crédits à terme échu sur votre prochaine facture mensuelle une fois qu’ils auront été appliqués.</li>
+<li>Vous verrez les ajustements et les crédits à terme échu sur votre prochaine facture mensuelle (ou annuelle) une fois qu’ils auront été appliqués.</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -103,6 +105,18 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <li>Pour la <strong>retenue à la source et l’exonération fiscale</strong>, vous devez envoyer la documentation fiscale via une demande de service. Les modifications et les remboursements appropriés seront visibles dans votre prochain cycle de facturation.</li>
 <li>Pour l’<strong>exonération de TVA</strong>, vous devez envoyer votre numéro de TVA (validé par Microsoft) via une demande de service. Les modifications et les remboursements appropriés seront visibles dans votre prochain cycle de facturation.</li>
 <li>Obtenez davantage d’informations fiscales auprès de votre bureau des impôts local ou de votre conseiller fiscal.</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Fréquence</td>
+<td>
+La facturation basée sur la licence peut être effectuée mensuellement ou annuellement. Pour en sélectionner une, procédez comme suit:
+<ol>
+<li>Sélectionnez votre client.</li>
+<li>Cliquez sur Ajouter un abonnement.</li>
+<li>Sous Fréquence de facturation, sélectionnez Mensuelle ou Annuelle. (Remarque: une fois cette sélection effectuée vous ne pouvez pas le modifier.)</li>
+<li>Sélectionnez l’abonnement à partir du catalogue.</li>
+</ol>
 </ul></td>
 </tr>
 </tbody>
@@ -132,9 +146,9 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <td>Règles de facturation</td>
 <td><ul>
 <li>Les abonnements sont annuels et automatiquement renouvelés.</li>
-<li>La facturation se décompose en 12&nbsp;paiements mensuels pour un abonnement annuel.</li>
+<li>La facturation se décompose en 12paiements mensuels ou un paiement annuel par abonnement annuel.</li>
 <li>Les services basés sur les licences sont facturés de manière anticipée pour la prochaine période de facturation, en fonction du nombre de licences à la fin de la période de facturation précédente.</li>
-<li>Vous êtes facturé/crédité à terme échu pour toute modification du nombre de licences (calcul au prorata en fonction des jours de licences). La formule suivante est utilisée pour le calcul au prorata&nbsp;: [ARRONDI((ARRONDI(Prix unitaire * Quantité / Prorata du nombre de jours du mois, 2) * Prorata du nombre de jours) / Quantité, 2) * Quantité]</li>
+<li>Vous êtes facturé/crédité à terme échu pour toute modification du nombre de licences (calcul au prorata en fonction des jours de licences). La formule suivante est utilisée pour le calcul au prorata: [ARRONDI((ARRONDI(Prix unitaire * Quantité / Prorata du nombre de jours du mois, 2) * Prorata du nombre de jours) / Quantité, 2) * Quantité]</li>
 <li>Les paiements sont facturés pour les sièges vendus (pas pour les sièges approvisionnés).</li>
 </ul></td>
 </tr>
@@ -143,6 +157,18 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <td><ul>
 <li>Les frais de résiliation anticipée ne s’appliquent pas pour l’instant à l’annulation des services basés sur les licences.</li>
 <li>Les crédits d’annulation pour les services basés sur les licences sont calculés au prorata du nombre de jours non utilisés pour les annulations en milieu de cycle (ainsi que pour la réduction du nombre de licences, conformément à la formule ci-dessus).</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Fréquence</td>
+<td>
+La facturation basée sur la licence peut être effectuée mensuellement ou annuellement. Pour en sélectionner une, procédez comme suit:
+<ol>
+<li>Sélectionnez votre client.</li>
+<li>Cliquez sur Ajouter un abonnement.</li>
+<li>Sous Fréquence de facturation, sélectionnez Mensuelle ou Annuelle. (Remarque: une fois cette sélection effectuée vous ne pouvez pas le modifier.)</li>
+<li>Sélectionnez l’abonnement à partir du catalogue.</li>
+</ol>
 </ul></td>
 </tr>
 </tbody>

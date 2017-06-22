@@ -3,15 +3,17 @@ title: Proposer une assistance technique | Espace partenaires
 description: "En tant que partenaire du programme Fournisseur de solutions Cloud, vous disposez de privilèges d’administrateur délégué qui vous permettent d’accéder aux environnements de vos clients."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f9252b0cde71b1265458f374eec1470f29ddb433
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="provide-technical-support"></a>Proposer un support technique
 
 **S'applique à**
 
 -  Espace partenaires
+-  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de Microsoft Cloud Germany
 
 En tant que partenaire du programme Fournisseur de solutions Cloud, vous disposez de privilèges d’administrateur délégué qui vous permettent d’accéder aux environnements de vos clients. Ces privilèges vous donnent la possibilité de prendre en charge, de configurer et de gérer directement les abonnements de vos clients.

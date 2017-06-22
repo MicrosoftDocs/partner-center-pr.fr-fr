@@ -3,15 +3,17 @@ title: "Créer un abonnement | Espace partenaires"
 description: "Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 7573af36bfe8c1c0a0840bee6840cd4e58610625
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="create-a-new-subscription"></a>Créer un abonnement
 
 **S'applique à**
 
 -  Espace partenaires
+-  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de Microsoft Cloud Germany
 
 Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.

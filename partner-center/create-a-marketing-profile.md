@@ -1,11 +1,13 @@
 ---
 title: "Créer un profil commercial | Espace partenaires"
-description: "Chaque année, Microsoft suscite l’intérêt de millions de prospects qualifiés pour ses solutions web."
+description: "Attirez davantage de clients potentiels en créant un profil commercial dans l’Espace partenaires."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: MaggiePucciEvans
-ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+author: KPacquer
+ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="create-a-marketing-profile"></a>Créer un profil commercial
 
@@ -13,76 +15,92 @@ translationtype: HT
 
 -  Espace partenaires
 
-Chaque année, Microsoft suscite l’intérêt de millions de prospects qualifiés pour ses solutions web. Nous pouvons vous aider à développer votre part de marché en syndiquant vos solutions auprès des clients. Les références Microsoft vous aideront à entrer en contact avec les clients qui recherchent vos solutions uniques pour répondre à leurs besoins professionnels. Pour participer, créez un profil commercial dans l’Espace partenaires.
+En tant que partenaire Microsoft qualifié, vous pouvez créer un profil commercial afin de présenter votre activité aux clients qui recherchent vos solutions et votre expertise uniques pour répondre aux besoins de leur entreprise.
 
-Si vous possédez un compte Pinpoint, [vous pouvez importer votre profil commercial Pinpoint dans l’Espace partenaires](importing-pinpoint-profiles-into-partner-center.md).
+Microsoft communique avec des millions de clients chaque année, par ses opérations de service, de ventes et de marketing. La plupart de ces relations nous donnent l'occasion de fournir à nos partenaires des indications sur les clients potentiels. 
 
-**Informations importantes pour les partenaires en charge de la gestion des profils sur Pinpoint**
+La première étape pour obtenir ces prospects consiste à créer un profil commercial. Nous présenterons votre profil aux clients qui recherchent des partenaires pour les aider à mettre en œuvre des produits et des solutions Microsoft, par le biais de:
 
-Comme vous le savez peut-être, Microsoft travaille d'arrache-pied pour créer une nouvelle expérience améliorée destinée aux partenaires afin que ces derniers éditent et entretiennent leurs profils. Au final, tous les profils partenaires seront migrés vers cette nouvelle expérience, et Pinpoint sera disponible hors connexion un peu plus tard au cours de l'année 2017.
+*  **la fonction de recherche [Rechercher un partenaire](https://partnercenter.microsoft.com/pcv/search)**. Les clients potentiels peuvent eux-mêmes effectuer des recherches dans les descriptions des partenaires afin de trouver ceux qui répondent à leurs critères. 
+*  **Références des employés des ventes et du service de Microsoft**. Les clients potentiels souhaitant déployer des solutions technologiques sur le cloud contactent Microsoft afin de trouver des professionnels qui puissent répondre aux besoins de leur entreprise. Ces professionnels de Microsoft peuvent ensuite transmettre ces références de clients potentiels à votre entreprise.
 
-Nous vous remercions pour votre patience pendant que nous terminons cette mise à jour passionnante. Nous vous fournirons des mises à jour et des instructions au cours du processus. En attendant, notez les points suivants:
+## <a name="create-a-profile"></a>Créer un profil
 
--   Si votre profil est répertorié sur [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) et que vous souhaitez le modifier, veuillez [vous connecter](https://go.microsoft.com/fwlink/?linkid=838394) à cet outil.
--   Si vous êtes inscrit au programme CSP ([Cloud Service Provider](https://go.microsoft.com/fwlink/?linkid=838395)) de Microsoft, veuillez vous connecter à l'[Espace partenaires](https://go.microsoft.com/fwlink/?linkid=838396). Vous avez le choix entre créer un nouveau profil ou importer votre profil Pinpoint existant. Veillez à apporter les modifications nécessaires à votre profil avant de l'importer. Pour en savoir plus, consultez les informations ci-dessous.
--   Si vous ne parvenez pas à modifier votre profil, veuillez contacter votre [Centre de service régional](https://go.microsoft.com/fwlink/?linkid=838398). 
+Créez un profil pour chaque pays dans lequel vous êtes autorisé à exercer vos activités.
 
-**Avis des clients:** dans le cadre de la transition prévue entre Pinpoint et l'Espace partenaires, la fonctionnalité permettant de répertorier les avis des clients a été supprimée et les partenaires ne peuvent plus y accéder. Une communication a été envoyée à l'ensemble des partenaires concernés via leur adresse mail avant la suppression de la fonctionnalité et des avis associés. Nous projetons de la remplacer par un système plus solide et plus fiable.
+1.  Dans [Espace partenaires](http://go.microsoft.com/fwlink/p/?LinkId=808956), à partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **Profils commerciaux** &gt; **[Ajouter un profil commercial](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-**Créer un profil commercial**
+2.    Dans la page **Créer un profil commercial**, sélectionnez une région, puis saisissez les informations de votre profil. Renseignez notamment les sections informations sur le partenaire et expertise du partenaire.
 
-1.  Dans l’[Espace partenaires](http://go.microsoft.com/fwlink/p/?LinkId=808956), dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte** &gt; **Profil commercial**.
-2.  Dans l’onglet **Profils**, sélectionnez **Ajouter un profil commercial**.
-3.  Mettez à jour les informations de votre entreprise, notamment les coordonnées, les attributs qui mettent en avant votre expertise commerciale, et une description qui satisfait aux *Recommandations en matière de profils* indiquées ci-dessous.
+    Une fois votre premier profil terminé, vous pourrez ensuite créer d'autres profils basés sur celui-ci en sélectionnant **Copier à partir d’un profil existant**.
 
-## <a name="profile-guidelines"></a>Recommandations en matière de profils
+### <a href="" id="partner_info"></a>Informations sur le partenaire
 
+Présentez votre société, en ajoutant un logo, une brève description et un lien vers votre site Web. 
 
--   Votre profil peut contenir jusqu'à 2&nbsp;500&nbsp;caractères, mais les profils succincts sont souvent plus efficaces.
+Le logo peut être un fichier GIF, JPG ou PNG, d'une largeur maximale de 300pixels. Nous recommandons d'utiliser un format carré ou rectangulaire. Les formats de grande hauteur ne sont pas conseillés.
 
--   Décrivez vos compétences et votre expertise, ou celles de votre entreprise.
+La description ne doit pas dépasser 1000caractères. Conseils pour créer une description réussie: 
 
--   Utilisez votre dénomination sociale.
+*  **Soyez bref**, en commençant par le plus important dès la première ou les deux premières phrases. Le titre est ce qui doit attirer l’attention des clients. Dans l'outil de recherche Rechercher un partenaire, nous affichons la première ou les deux premières lignes dans l’aperçu des résultats de recherche.
+*  **Concentrez-vous sur les expériences de votre entreprise liées aux offres de Microsoft**. Les clients qui parcourent les références recherchent généralement des partenaires avec une expérience spécifique de Microsoft.
+*  **Utilisez des puces**. Répartissez les informations en listes à puces pour faciliter la lecture.
+*  **Évitez le jargon**. Utilisez un langage simple de tous les jours, en nommant vos offres en fonction de ce qu’elles font: c’est-à-dire les besoins professionnels auxquels elles répondent ou bien la tâche ou l’objectif qu’elles permettent d’accomplir ou d’atteindre.
+*  **Ne vous souciez pas de remplir la description de mots clés**. Les outils de recherche du client utilisent les mots clés générés dans la section Expertise du partenaire, pas dans la description.
+*  **Maintenez votre profil à jour**. À chaque publication de logiciel ou de service, mettez à jour votre profil, de manière synchronisée avec le site Web de votre société.
+*  **Ne faites pas nommément référence à une autre société partenaire de Microsoft**, sauf s’il s’agit d’une filiale ou qu’elle est autrement affiliée à votre société, ou que vous avez conclu un accord avec cette société partenaire visant à établir un partenariat et/ou à vous promouvoir mutuellement dans le but de partager des opportunités commerciales.
 
--   Incluez un lien vers la page d’accueil de votre société dans l’espace consacré au site web.
+#### <a href="" id="linkedin"></a> Page de société LinkedIn: d'autres moyens de communiquer
 
--   Assurez-vous que toutes les informations sont à jour et correctes.
+Ajoutez votre page de société LinkedIn pour renforcer vos relations avec des clients potentiels. 
 
--   Ne faites pas nommément référence à une autre société partenaire de Microsoft, sauf s’il s’agit d’une filiale ou qu’elle est affiliée à votre société de quelque façon que ce soit, ou que vous avez conclu un accord avec cette société partenaire visant à établir un partenariat et/ou à vous promouvoir mutuellement dans le but de partager des opportunités commerciales.
+Lorsque vous incluez ce lien, les clients peuvent rapidement en savoir plus sur votre organisation par le biais de la plateforme LinkedIn.
 
--   Les mots clés utilisés par les clients pour effectuer des recherches ont le plus d’importance. Insérez des mots clés qui décrivent avec précision vos offres commerciales, ainsi que la terminologie du secteur susceptible d’être utilisée par vos clients pour la recherche de solutions.
+Si vous n’avez pas encore de page de société LinkedIn, vous pouvez en [créer une maintenant](https://www.linkedin.com/company-beta/setup/new/).
 
-## <a name="ten-tips-for-a-great-profile"></a>Dix&nbsp;conseils pour créer un profil réussi
+### <a name="partner-expertise"></a>Expertise du partenaire
 
+Les outils de recherche du client explorent des balises d'expertise. Lorsque vous peaufinez votre profil pour gagner en visibilité, il est important d'y consacrer du temps pour les optimiser.
 
-1.  **Ciblez votre public** Écrivez comme si vous vous adressiez à votre client, et pas à votre équipe interne ou à Microsoft.
+Commencez par ajouter vos propres balises dans la section Expertise du partenaire. Vous pouvez ajouter des balises de types suivants: 
 
-2.  **Rédigez une première phrase percutante** Si un client ne voit pas que vous disposez des compétences et de l’expertise nécessaires pour répondre à ses besoins dans les deux&nbsp;premières phrases, il passera au partenaire suivant dans ses résultats de recherche.
+*  **Balises axées sur le secteur**. Jusqu'à 5secteurs
+*  **Produits**. Limités aux produits Microsoft
+*  **Type de service** 
+*  **Solutions, compétences et capacités**. Ces balises sont de forme libre et vous permettent d’ajouter des mots clés propres à vos capacités.
 
-3.  **Soyez concis** En ligne, on effectue plus un survol qu’une véritable lecture. Soyez clair et succinct en indiquant des informations concrètes sur vos compétences et votre expertise. La concision est un atout.
+Autres balises utilisées dans la recherche:
+*  Les **[balises de compétence](https://partner.microsoft.com/membership/competencies)** sont des désignations obtenues qui présentent les capacités de votre entreprise.
+*  Les **balises d'approbation** sont gagnées lorsque Microsoft ou les clients qui ont travaillé avec vous recommandent votre travail.
 
-4.  **Incluez des mots clés pertinents** L’intégration de mots clés est essentielle à l’optimisation de votre profil pour la recherche sur notre site et dans les moteurs de recherche. Il peut s’agir de noms de produits Microsoft, de besoins métier, de tendances du secteur et de canaux propres au serveur.
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Autoriser Microsoft à recommander mes domaines d’expertise
 
-5.  **Montrez que vous connaissez les besoins de vos clients** Concentrez-vous sur les conditions et avantages de votre offre pour le client, plutôt que sur les processus ou les fonctionnalités du logiciel.
+À mesure que vous ferez preuve de réussite auprès des clients via l'Espace partenaires ou en participant à d’autres programmes ou certifications de Microsoft, nous ajouterons automatiquement des approbations de vos produits, services et secteurs spécifiques qui ont contribué à ce succès. Les approbations sont un facteur important dans les résultats de recherche.
 
-6.  **Utilisez un langage actif** Écrivez en utilisant des verbes et des énoncés d’action. Évitez un langage passif comme «&nbsp;nous avons apporté une expertise...&nbsp;».
+Nous vous recommandons de laisser ce paramètre coché. Toutefois, s’il existe des produits pour lesquels vous fournissez des services que vous ne préférez pas afficher sur votre profil, vous pouvez désactiver cette case et gérer votre profil manuellement. Ces approbations seront masquées dans l'affichage pour vos clients, mais vous pouvez les remettre sur votre profil à tout moment.
 
-7.  **Utilisez les puces** Répartissez les informations (a, b, c, d, etc.) en listes à puces pour les rendre plus lisibles.
+### <a name="customer-preferences"></a>Préférences de client
 
-8.  **Évitez le jargon** Utilisez une langue de tous les jours, simple, même si vous abordez un point très technique.
+#### <a href="" id="#target_size"></a>Taille des cibles
 
-9.  **Privilégiez la clarté** Évitez d’utiliser des noms compliqués ou inventés pour vos applications ou vos services. Nommez vos offres en fonction de ce qu’elles font, c’est-à-dire les besoins professionnels auxquels elles répondent ou bien la tâche ou l’objectif qu’elles permettent d’accomplir ou d’atteindre.
+Pour vous aider à affiner les types de références que vous recevez, vous pouvez ajouter une préférence afin de travailler uniquement avec des entreprises de certaines tailles. En ajoutant ces préférences, vous ne recevrez plus les références d'entreprises d'autres tailles.
 
-10. **Maintenez votre profil à jour** Maintenez votre profil en phase avec la présence de votre entreprise sur le web. À chaque publication de logiciel ou de service, mettez à jour votre profil et votre site afin de garantir une expérience utilisateur harmonieuse.
+Les résultats de recherche des clients utilisent la réactivité de votre entreprise en tant que facteur. Pour vous aider à améliorer votre visibilité pour les futures recherches, répondez rapidement aux demandes entrantes des clients.
 
-## <a name="related-topics"></a>Rubriques connexes
+Refuser les références d'entreprises qui ne répondent pas à votre taille de client cible peut vous aider à être réactif en général.
 
+### <a href="" id="#locations"></a> Emplacements
 
-[Effectuer la transition de Pinpoint vers l’Espace partenaires](importing-pinpoint-profiles-into-partner-center.md)
+Vous pouvez ajouter jusqu'à 5emplacements par région. Ces emplacements s’affichent lorsque les clients recherchent des partenaires à proximité. 
 
- 
+Indiquez des emplacements officiels de la société qui peuvent être vérifiés. Sélectionnez des emplacements qui se trouvent en position centrale dans les marchés que vous desservez et qui représentent le mieux les capacités de votre société.
 
- 
+## <a name="improve-the-visibility-of-your-profile"></a>Améliorez la visibilité de votre profil 
 
+*  **[Répondez rapidement aux demandes](responding-to-referrals.md)**. Lorsque vous recevez une référence de client, une réponse plus rapide peut entraîner de meilleurs résultats sur les pages de recherche des futurs clients.
+*  **Sélectionnez vos balises avec soin**.  Il est préférable d’avoir quelques balises qui représentent au mieux les offres, les solutions, les propositions de valeur et la position unique qui font le succès continu de votre entreprise.  Cette méthode s'avérera payante dans les futurs résultats de recherche.
+*  **Obtenez des [balises de compétences](https://partner.microsoft.com/membership/competencies)** de la part de Microsoft pour illustrer votre maîtrise de nos produits.
+*  **Obtenez des balises d'approbation** de la part de clients qui ont apprécié votre travail.
 
-
+## <a name="related-topics"></a>Rubriques associées
+[Réponse aux références](responding-to-referrals.md)

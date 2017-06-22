@@ -3,15 +3,17 @@ title: "Définir un budget Azure pour vos clients | Espace partenaires"
 description: "Dans l’Espace partenaires, vous pouvez définir un budget mensuel par client afin que sa facture Azure ne le surprenne pas à la fin du mois."
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 873190885d83f70f6ff68e277f288d58cc74ca00
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Définir un budget Azure pour vos clients
 
 **S'applique à**
 
 -  Espace partenaires
+-  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de Microsoft Cloud Germany
 
 Pour aider les clients à gérer leurs dépenses Azure, vous pouvez définir un budget de dépenses mensuel afin que leur facture Azure ne dépasse pas le montant prévu. La définition d'un budget de dépenses Azure vous permet de comparer les dépenses Azure de vos clients par rapport au budget au cours du mois. Grâce à cette fonctionnalité, vous pouvez: 

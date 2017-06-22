@@ -3,40 +3,51 @@ title: "Créer des comptes d’utilisateur et définir des autorisations | Espac
 description: "L’administrateur crée un compte d’utilisateur pour chaque employé du partenaire devant accéder à l’Espace partenaires."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
+ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 05/25/2017
 ---
-# <a name="create-user-accounts-and-set-permissions"></a>Créer des comptes d’utilisateurs et définir des autorisations
+# <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
 **S'applique à**
 
 -  Espace partenaires
 
-L’administrateur crée un compte d’utilisateur pour chaque employé du partenaire devant accéder à l’Espace partenaires. Ces tâches doivent être effectuées par un administrateur disposant de l’autorisation **Administrateur global** ou **Administrateur de la gestion des utilisateurs**. Dans **Paramètres du compte** &gt; **Gestion des utilisateurs**, vous pouvez ajouter des comptes et définir ou mettre à jour les autorisations.
+Créer des comptes d’utilisateur pour les employés qui doivent accéder à l'Espace partenaires. Ces tâches doivent être effectuées par un administrateur disposant de l’autorisation Administrateur de la gestion des utilisateurs. 
 
-**Ajouter un utilisateur**
+## <a name="add-a-new-user"></a>Ajouter un utilisateur
 
-1.  Dans l’Espace partenaires, accédez au menu Tableau de bord &gt; **Paramètres du compte** &gt; **Gestion des utilisateurs**.
-2.  Choisissez **Ajouter un utilisateur**.
+1. Dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte > Gestion des utilisateurs**.
 
-3.  Tapez le nom complet de l’utilisateur et créez-lui une adresse électronique unique.
+2.  Sélectionnez **Ajouter un utilisateur**.
 
-4.  Sélectionnez le type d’agent et le type d’administrateur. L’accès à l'Espace partenaires dépendant des rôles, les sélections effectuées à cette étape personnalisent l’affichage en n'incluant que les fonctionnalités nécessaires. Pour plus d’informations sur les actions de chaque rôle, voir la section [Définir les autorisations utilisateur](#setuserpermissions)
+3.  Entrez le nom complet et l’adresse de messagerie unique de l’utilisateur.
 
-5.  Ajoutez l’utilisateur. Vous verrez un écran de confirmation avec un mot de passe temporaire pour la nouvelle connexion. Vous devez le copier et l’envoyer au nouvel utilisateur. Il n’est plus accessible une fois que vous quittez l’écran. Lors de sa première connexion, l’utilisateur devra mettre à jour le mot de passe.
+4.  Sélectionnez le type d’agent et le type d’administrateur. Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour plus d’informations sur ce que chaque rôle peut faire, voir la section [Affecter des autorisations utilisateur](#assignuserpermissions)
 
-### <a href="" id="setuserpermissions"></a>Définir les autorisations de l’utilisateur
+5.  Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
 
-Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez personnaliser l’affichage afin de n'inclure que les fonctionnalités nécessaires à l’utilisateur dans le cadre de son travail. Pour chaque utilisateur, vous devez sélectionner deux paramètres :
+>**Important**<br>
+Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. <br>
 
--   Le paramètre **agent** détermine le type de données clients et le type d’informations Microsoft que l’utilisateur peut voir.
+>L’utilisateur devra se connecter à l'Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l'Espace partenaires pour la première fois, il est invité à modifier son mot de passe.    
 
--   Le paramètre **admin** détermine le contrôle de l’utilisateur sur l’environnement de l’Espace partenaires et sur tous les autres services Microsoft (comptes, profils et tickets de support). Ce paramètre a un impact en dehors de l’Espace partenaires : un administrateur de facturation peut accéder à toutes les factures pour tous les services Microsoft (même ceux non liés au fournisseur de solutions Cloud) et un administrateur global peut accéder aux comptes d’utilisateurs et aux comptes clients, indépendamment du fournisseur de solutions Cloud.
 
-    Le paramètre par défaut doit toujours être **Pas un administrateur**, sauf si le rôle de l’utilisateur requiert un accès supplémentaire pour effectuer des tâches et prendre en charge des clients.
+### <a href="" id="assignuserpermissions"></a>Affecter des autorisations utilisateur
 
-Le tableau suivant détaille l’ensemble complet des activités que chaque rôle peut effectuer dans l’Espace partenaires.
+Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. 
+
+Pour chaque utilisateur, vous devez sélectionner deux niveaux d'autorisation:
+
+-   Les autorisations d'agent contrôlent le type de données de client et d'informations de compte que l’utilisateur peut voir et modifier.
+
+-   Les autorisations d’administrateur contrôlent le niveau d’accès de l’utilisateur aux fonctionnalités de l'Espace partenaires. Ce paramètre a un impact en dehors de l’Espace partenaires : un administrateur de facturation peut accéder aux factures pour tous les services Microsoft (même ceux non liés au fournisseur de solutions Cloud) et un administrateur global peut accéder aux comptes d’utilisateurs et aux comptes clients, indépendamment du fournisseur de solutions Cloud.
+
+>**Important** Le paramètre par défaut doit toujours être **Pas un administrateur**, sauf si le rôle de l’utilisateur requiert un accès supplémentaire pour effectuer des tâches et prendre en charge des clients.
+
+Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partenaires.
 
 <table>
 <colgroup>
@@ -59,7 +70,7 @@ Le tableau suivant détaille l’ensemble complet des activités que chaque rôl
 <li><p>Demander des privilèges d’administrateur délégués</p></li>
 <li><p>Afficher les tarifs et les offres</p></li>
 <li><p>Facturation</p></li>
-<li><p>Administrateur pour le compte de</p></li>
+<li><p>Administrer au nom d’un client</p></li>
 <li><p>Inscrire un revendeur à valeur ajoutée</p></li>
 </ul></td>
 <td><ul>
@@ -73,18 +84,18 @@ Le tableau suivant détaille l’ensemble complet des activités que chaque rôl
 <li><p>Gestion des clients</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>Afficher les tickets de support</p></li>
-<li><p>Demander une relation</p></li>
+<li><p>Demander une relation avec un client</p></li>
 <li><p>Gérer les prospects</p></li>
 <li><p>Afficher le contrat client</p></li>
 <li><p>Inscrire un revendeur à valeur ajoutée</p></li>
 </ul></td>
 <td><ul>
-<li><p>Créer des tickets de support pour les services ou l’Espace partenaires</p></li>
+<li><p>Créer des demandes de service pour des problèmes avec l'Espace partenaires</p></li>
 <li><p>Résoudre les tickets de support</p></li>
 <li><p>Afficher l’état du service</p></li>
 <li><p>Afficher les tarifs et les offres</p></li>
 <li><p>Facturation</p></li>
-<li><p>Administrateur pour le compte de</p></li>
+<li><p>Administrer au nom d’un client</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -93,15 +104,15 @@ Le tableau suivant détaille l’ensemble complet des activités que chaque rôl
 <li><p>Rechercher et afficher un client</p></li>
 <li><p>Modifier les détails du client</p></li>
 <li><p>Intégrité du service</p></li>
-<li><p>Créer des tickets de support pour les clients</p></li>
-<li><p>Administrer les services au nom des clients</p></li>
+<li><p>Demander un support pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</p></li>
+<li><p>Gérer les abonnements et les services pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</p></li>
 </ul></td>
 <td><ul>
 <li><p>Afficher les profils de partenaire</p></li>
-<li><p>Créer une liste de clients</p></li>
+<li><p>Créer un compte client</p></li>
 <li><p>Modifier les informations de facturation du client</p></li>
-<li><p>Gestion des abonnements</p></li>
-<li><p>Demander une relation</p></li>
+<li><p>Gérer les abonnements</p></li>
+<li><p>Demander une relation avec un client</p></li>
 <li><p>Gérer les prospects</p></li>
 <li><p>Afficher les tarifs et les offres</p></li>
 <li><p>Afficher le contrat client</p></li>

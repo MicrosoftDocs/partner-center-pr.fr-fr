@@ -2,9 +2,10 @@
 title: "Gestion des utilisateurs et des licences dans l&quot;Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis"
 description: "Pour se conformer aux exigences nationales, régionales et sectorielles qui régissent la collecte et l’utilisation des données personnelles, les fonctionnalités de gestion des utilisateurs ne sont pas disponibles dans l&quot;Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis. Ajoutez et gérez plutôt les utilisateurs dans le portail Azure de MicrosoftCloud pour le gouvernement des États-Unis."
 author: MaggiePucciEvans
-ms.openlocfilehash: 656f670433207aefc0762db6fd968c4423bb56c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
+ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 
@@ -14,11 +15,12 @@ translationtype: HT
 
 Les tâches suivantes de l'Espace partenaires sont gérées à l’aide du portail d’administration Azure pour Microsoft Cloud pour le gouvernement des États-Unis:
 
-Gestion des utilisateurs partenaires
+- Gestion des utilisateurs partenaires
 
-Gestion des utilisateurs et des licences client
+- Gestion des utilisateurs et des licences client
 
-Réinitialiser le mot de passe utilisateur
+- Réinitialiser le mot de passe utilisateur
+
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Gérer les utilisateurs dans le portail Azure de MicrosoftCloud pour l'administration américaine
 

@@ -3,9 +3,11 @@ title: "Ajouter des licences ou des services à un abonnement existant | Espace 
 description: "Si votre client a besoin de davantage de sièges que dans son abonnement actuel, ou d’une autre version avec des services supplémentaires, vous pouvez mettre à jour l’abonnement."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
 
@@ -76,7 +78,7 @@ La mise à niveau des abonnements est possible si les conditions suivantes sont 
 
 -   Le client ne peut pas disposer des abonnements vers lesquels vous voulez effectuer la mise à niveau.
 
-Dans les deux&nbsp;derniers cas, il est possible que le client ait acheté ces abonnements ou services auprès d’un autre partenaire ou canal. Il ne peut alors pas les acheter auprès de vous, à moins d’annuler les abonnements en cours. Pour plus d’informations, voir [Multicanal](multichannel.md).
+Dans les deux&nbsp;derniers cas, il est possible que le client ait acheté ces abonnements ou services auprès d’un autre partenaire ou canal. Il ne peut alors pas les acheter auprès de vous, à moins d’annuler les abonnements en cours. Pour plus d’informations, voir [multicanal](multichannel.md).
 
 Pour plus d’informations sur l’impact sur la facturation, consultez les détails sur l’annulation ou l’ajout d’un abonnement dans les [scénarios de facturation courants](common-billing-scenarios.md).
 

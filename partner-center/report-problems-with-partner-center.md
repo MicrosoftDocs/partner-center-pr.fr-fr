@@ -3,15 +3,18 @@ title: "Signaler des problèmes relatifs à l’Espace partenaires | Espace part
 description: "Comment signaler des problèmes avec l&quot;Espace partenaires et collecter des informations de diagnostic pour notre équipe de Support."
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7f6bc00f7936560acbe92386e1cb587107f584d
+ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 05/26/2017
 ---
 # <a name="report-problems-with-partner-center"></a>Signaler des problèmes avec l’Espace partenaires
 
 **S'applique à**
 
 -  Espace partenaires
+-  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de Microsoft Cloud Germany
 
 Contactez le support de l'Espace partenaires si vous rencontrez des problèmes avec l’Espace partenaires, notamment des bogues ou des interruptions de service.
@@ -28,7 +31,8 @@ Contactez le support de l'Espace partenaires si vous rencontrez des problèmes a
 
 Si une erreur se produit lorsque vous êtes sur une page de l'Espace partenaires, vous pouvez être invité à collecter des informations du journal. Sélectionnez **Collect more information** dans le menu qui se déroule à partir du haut de la page pour ouvrir l’outil Client Diagnostic de l'Espace partenaires. Cet outil collecte les informations dont l'équipe de support de l'Espace partenaires a besoin pour déterminer la cause de l’erreur. 
 
->**Remarque**<br>
+**Remarque**
+
 Dans les pages de l'Espace partenaires qui incluent **/pcv/** dans l’URL, vous pouvez ouvrir l’outil manuellement pour collecter ces informations.
 
 1.    Accédez à la page présentant le problème.

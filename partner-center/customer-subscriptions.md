@@ -3,9 +3,10 @@ title: Abonnements client | Espace partenaires
 description: "Les partenaires peuvent vendre des abonnements à des clients et les gérer via l’Espace partenaires."
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 63a4b666447d3775d9e5943419e236201f097a22
+ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="customer-subscriptions"></a>Abonnements client
 
@@ -27,7 +28,9 @@ Vous pouvez vendre des abonnements à des clients et les gérer via l’Espace p
 
 [Migrer des abonnements Dynamics AX vers Dynamics&nbsp;365](manual-subscription-migration.md)
 
-[Bénéficier du tarif spécial des offres](get-special-pricing-for-offers.md)
+[Migrer des abonnements Office365 Entreprise E4 vers les nouvelles versions d’Office365](migrate-office365-e4-subscriptions-to-newer-versions.md)
+
+[Obtenir la tarification spéciale des offres](get-special-pricing-for-offers.md)
 
 [Augmenter l’adoption et la satisfaction client](increasing-adoption-and-satisfaction.md)
 

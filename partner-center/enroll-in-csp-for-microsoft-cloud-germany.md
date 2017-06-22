@@ -2,9 +2,10 @@
 title: "S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftCloud Germany | Espace partenaires de Microsoft Cloud Germany"
 description: Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud Germany, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
-ms.openlocfilehash: c804ca7136be7b34ef48e06ee36ef2899f3030f9
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
+ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany
 
@@ -32,7 +33,7 @@ Pour créer un compte Espace partenaires et vous inscrire au programme Fournisse
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Étape1: créer un compte pour l'Espace partenaires de MicrosoftCloud Germany 
 
-1.  Lancez le processus d’inscription. 
+1.  Pour s'inscrire au programme Fournisseur de solutions Cloud pour MicrosoftCloud Germany, accédez à [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) et sélectionnez **Se connecter**. 
 
 2.  Ouvrez une session avec les informations d’identification d’administrateur général pour le compte MicrosoftCloud Germany de votre société pour Office365, MicrosoftDynamics et MicrosoftAzure. Si votre société n’a pas de compte pour ces portails, sélectionnez **Créer un**.
 

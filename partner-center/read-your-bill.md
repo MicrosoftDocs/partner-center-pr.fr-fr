@@ -3,15 +3,17 @@ title: Lire votre facture | Espace partenaires
 description: "Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
 **S'applique à**
 
 -  Espace partenaires
+-  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de Microsoft Cloud Germany
 
 Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires.

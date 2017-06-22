@@ -3,15 +3,17 @@ title: "Gérer votre liste de clients | Espace partenaires"
 description: "Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: fr-FR
 ---
 # <a name="manage-your-customer-list"></a>Gérer votre liste de clients
 
 **S'applique à**
 
 -  Espace partenaires
+-  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de Microsoft Cloud Germany
 
 Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires. Vous pouvez rechercher des comptes client dans votre base de données et exporter la base de données des clients totalement ou en partie dans un fichier&nbsp;CSV compatible avec Excel. Vous pouvez également exporter les informations sur les abonnements d’un client dans un fichier&nbsp;CSV.
