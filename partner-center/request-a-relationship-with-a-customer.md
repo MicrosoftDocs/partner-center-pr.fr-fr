@@ -3,11 +3,11 @@ title: Demander une relation avec un client | Espace partenaires
 description: "La demande de relation est utilisée pour les scénarios de type Multipartenaire et Multicanal. Elle est également utile si un client supprime vos privilèges d’administration délégués et si vous devez les restaurer pour fournir des services d’approvisionnement ou de support."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 4497163d59cce019936ce054eb3e3911ea44ce96
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Se connecter à des clients dans l'Espace partenaires
 
@@ -40,13 +40,6 @@ Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit acc
 >**Important**<br>
 Les clients peuvent réattribuer ou supprimer des autorisations d’administrateur sur le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, vous pouvez appeler le support Microsoft pour ouvrir une demande de service de la part du client.
 
+## <a name="related-topics"></a>Rubriques associées
 
-
-
-
- 
-
- 
-
-
-
+[Supprimer une relation](remove-a-relationship.md)

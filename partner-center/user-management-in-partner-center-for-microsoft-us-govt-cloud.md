@@ -2,10 +2,11 @@
 title: "Gestion des utilisateurs et des licences dans l&quot;Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis"
 description: "Pour se conformer aux exigences nationales, régionales et sectorielles qui régissent la collecte et l’utilisation des données personnelles, les fonctionnalités de gestion des utilisateurs ne sont pas disponibles dans l&quot;Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis. Ajoutez et gérez plutôt les utilisateurs dans le portail Azure de MicrosoftCloud pour le gouvernement des États-Unis."
 author: MaggiePucciEvans
-ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
-ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.openlocfilehash: 96b6bc85a1b6d136814792a2cf138d51a263ef0a
+ms.sourcegitcommit: 22ec01fc379e4c98189f5e1ebf5437b5b16d05de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 06/15/2017
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 
@@ -13,18 +14,18 @@ ms.contentlocale: fr-FR
 
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 
-Les tâches suivantes de l'Espace partenaires sont gérées à l’aide du portail d’administration Azure pour Microsoft Cloud pour le gouvernement des États-Unis:
+Les tâches suivantes sont gérées dans le portail d’administration Azure pour Microsoft Cloud pour le gouvernement des États-Unis:
 
 - Gestion des utilisateurs partenaires
 
 - Gestion des utilisateurs et des licences client
 
-- Réinitialiser le mot de passe utilisateur
+- Réinitialisation des mots de passe utilisateurs
 
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Gérer les utilisateurs dans le portail Azure de MicrosoftCloud pour l'administration américaine
 
-Si vous êtes connecté à l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis, vous pouvez ouvrir le portail Azure de MicrosoftCloud pour le gouvernement des États-Unis sans avoir à vous reconnecter. Toutefois, si vous devez vous connecter directement au portail Azure de MicrosoftCloud pour le gouvernement des États-Unis, accédez à (https://portal.azure.us/). 
+Si vous êtes connecté à l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis, vous pouvez ouvrir le portail Azure de MicrosoftCloud pour le gouvernement des États-Unis sans avoir à vous reconnecter. Toutefois, si vous avez besoin de vous connecter directement au portail Azure pour Microsoft Cloud pour le gouvernement des États-Unis, accédez à (https://portal.azure.us/) et connectez-vous à l’aide des informations d'identification de l'administrateur général de votre client Azure AD pour Microsoft Cloud pour le gouvernement des États-Unis.
 
 Une fois que vous êtes connecté au portail Azure de MicrosoftCloud pour le gouvernement des États-Unis, ouvrez votre page de présentation d’Azure ActiveDirectory (AzureAD) et suivez les instructions de ces rubriques:
 

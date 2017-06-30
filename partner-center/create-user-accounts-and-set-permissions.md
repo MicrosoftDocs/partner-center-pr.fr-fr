@@ -3,11 +3,11 @@ title: "Créer des comptes d’utilisateur et définir des autorisations | Espac
 description: "L’administrateur crée un compte d’utilisateur pour chaque employé du partenaire devant accéder à l’Espace partenaires."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
-ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/25/2017
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
@@ -65,6 +65,8 @@ Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partena
 <td><p><strong>Agent d’administration</strong></p></td>
 <td><ul>
 <li><p>Gestion des clients</p></li>
+<li><p>Ajouter une liste d'appareils à l'Espace partenaires</p></li>
+<p><li>Créer des profils et les appliquer aux appareils</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>État du service et demandes de service pour les clients</p></li>
 <li><p>Demander des privilèges d’administrateur délégués</p></li>
@@ -82,6 +84,7 @@ Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partena
 <td><p><strong>Commercial</strong></p></td>
 <td><ul>
 <li><p>Gestion des clients</p></li>
+<li><p>Ajouter une liste d'appareils à l'Espace partenaires</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>Afficher les tickets de support</p></li>
 <li><p>Demander une relation avec un client</p></li>

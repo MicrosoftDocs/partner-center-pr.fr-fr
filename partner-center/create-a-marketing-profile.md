@@ -3,11 +3,11 @@ title: "Créer un profil commercial | Espace partenaires"
 description: "Attirez davantage de clients potentiels en créant un profil commercial dans l’Espace partenaires."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
-ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
+ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2017
+ms.lasthandoff: 06/12/2017
 ---
 # <a name="create-a-marketing-profile"></a>Créer un profil commercial
 
@@ -30,7 +30,7 @@ Créez un profil pour chaque pays dans lequel vous êtes autorisé à exercer vo
 
 1.  Dans [Espace partenaires](http://go.microsoft.com/fwlink/p/?LinkId=808956), à partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **Profils commerciaux** &gt; **[Ajouter un profil commercial](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.    Dans la page **Créer un profil commercial**, sélectionnez une région, puis saisissez les informations de votre profil. Renseignez notamment les sections informations sur le partenaire et expertise du partenaire.
+2.  Dans la page **Créer un profil commercial**, sélectionnez une région, puis saisissez les informations de votre profil. Renseignez notamment les sections informations sur le partenaire et expertise du partenaire.
 
     Une fois votre premier profil terminé, vous pourrez ensuite créer d'autres profils basés sur celui-ci en sélectionnant **Copier à partir d’un profil existant**.
 
@@ -83,11 +83,9 @@ Nous vous recommandons de laisser ce paramètre coché. Toutefois, s’il existe
 
 #### <a href="" id="#target_size"></a>Taille des cibles
 
-Pour vous aider à affiner les types de références que vous recevez, vous pouvez ajouter une préférence afin de travailler uniquement avec des entreprises de certaines tailles. En ajoutant ces préférences, vous ne recevrez plus les références d'entreprises d'autres tailles.
+Vous pouvez désactiver des références d'entreprises qui ne correspondent pas à votre taille de client cible.
 
-Les résultats de recherche des clients utilisent la réactivité de votre entreprise en tant que facteur. Pour vous aider à améliorer votre visibilité pour les futures recherches, répondez rapidement aux demandes entrantes des clients.
-
-Refuser les références d'entreprises qui ne répondent pas à votre taille de client cible peut vous aider à être réactif en général.
+En les refusant, vous aurez plus de temps à consacrer aux entreprises qui correspondent à vos critères.
 
 ### <a href="" id="#locations"></a> Emplacements
 
