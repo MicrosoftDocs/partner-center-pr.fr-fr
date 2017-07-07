@@ -3,11 +3,11 @@ title: "Autorisation régionale de Fournisseur de solutions&nbsp;Cloud | Espace 
 description: "Avec l’autorisation régionale, les partenaires d’entreprises internationales peuvent maintenant gérer plus facilement les clients de différentes régions et pays du monde entier."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: f79c2f0a56f88faf554543fa2bb0a0ab504e0614
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 71beef8899e292bec99fc803ad8aa2cd0ac4b4dc
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="csp-regional-authorization"></a>Autorisation régionale de Fournisseur de solutions&nbsp;Cloud
 
@@ -189,7 +189,7 @@ Votre emplacement géographique détermine la devise dans laquelle vous êtes fa
 
 | Symbole monétaire | Pays |
 | ---- | ---- |
-| USD | Afrique du Sud, Albanie, Anguilla, Antigua-et-Barbuda, Arabie saoudite, Argentine, Arménie, Aruba, Azerbaïdjan, Bahamas, Bahreïn, Bangladesh, Barbade (La), Bélarus, Belize, Bénin, Bermudes, Bolivie, Bonaire, Brésil, Brunei, Burundi, Cameroun, Caïmans (Îles), Chili, Colombie, Comores (Les), Costa Rica, Curaçao, Égypte, El Salvador, Émirats Arabes Unis, États-Unis, Équateur, Fidji, Géorgie, Ghana, Guatemala, Guyane française, Honduras, Hong Kong (R.A.S.), Îles Vierges (É.-U.), Indonésie, Irak, Israël, Jamaïque, Kazakhstan, Kenya, Kirghizistan, Koweït, Liban, Macao (R.A.S.), Madagascar, Malaisie, Malawi, Mali, Maroc, Maurice, Mayotte, Mexique, Namibie, Nicaragua, Nigeria, Nouvelle-Calédonie, Oman, Pakistan, Panama, Paraguay, Pérou, Philippines, Polynésie française, Porto Rico, Qatar, République dominicaine, Réunion (Île de la), Rwanda, Sainte-Lucie, Saint-Martin, Saint-Martin (Royaume des Pays-Bas), Saint-Vincent-et-les-Grenadines, Serbie, Seychelles, Singapour, Sri Lanka, Suriname, Tanzanie, Thaïlande, Timor-Leste, Togo, Trinité-et-Tobago, Turks et Caïcos (Îles), Tunisie, Turquie, Ukraine, Uruguay, Venezuela, Vietnam  | 
+| USD | Afrique du Sud, Albanie, Anguilla, Antigua-et-Barbuda, Arabie saoudite, Argentine, Arménie, Aruba, Azerbaïdjan, Bahamas, Bahreïn, Bangladesh, Barbade (La), Bélarus, Belize, Bénin, Bermudes, Bolivie, Bonaire, Brésil, Brunei, Burundi, Cameroun, Chili, Colombie, Comores (Les), Costa Rica, Curaçao, Égypte, El Salvador, Émirats Arabes Unis, États-Unis, Équateur, Géorgie, Ghana, Guatemala, Guyane française, Honduras, Hong Kong (R.A.S.), Îles Caïmans, Îles Turques-et-Caïques, Îles Vierges (É.-U.), Indonésie, Irak, Israël, Jamaïque, Kazakhstan, Kenya, Kirghizistan, Koweït, La Réunion, Liban, Macao (R.A.S.), Madagascar, Malaisie, Malawi, Mali, Maroc, Maurice, Mayotte, Mexique, Namibie, Nicaragua, Nigeria, Nouvelle-Calédonie, Oman, Pakistan, Panama, Paraguay, Pérou, Philippines, Polynésie française, Porto Rico, Qatar, République dominicaine, Rwanda, Sainte-Lucie, Saint-Martin, Saint-Martin (Royaume des Pays-Bas), Saint-Vincent-et-les-Grenadines, Serbie, Seychelles, Singapour, Sri Lanka, Suriname, Tanzanie, Thaïlande, Timor-Leste, Togo, Trinité-et-Tobago, Tunisie, Turquie, Ukraine, Uruguay, Venezuela, Vietnam  | 
 | TWD | Taïwan |
 | SEK | Suède |
 | INR | Inde |
@@ -203,7 +203,7 @@ Votre emplacement géographique détermine la devise dans laquelle vous êtes fa
 | DKK | Danemark |
 | CHF | Suisse |
 | CAD | Canada |
-| AUD | Australie, Marshall (Îles), Papouasie-Nouvelle-Guinée, Tonga |
+| AUD | Australie, Fidji, Marshall (Îles), Papouasie-Nouvelle-Guinée, Tonga |
 
 
  

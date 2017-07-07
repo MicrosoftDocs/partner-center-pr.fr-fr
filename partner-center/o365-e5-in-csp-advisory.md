@@ -3,9 +3,11 @@ title: "Disponibilité d’Office&nbsp;365 E5 Single SKU dans Fournisseur de sol
 description: "Office&nbsp;365 Entreprise E5 Single SKU est disponible dans Fournisseur de solutions&nbsp;Cloud et inclut Conférence RTC."
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 76ca9b8599862c0b17a1281aa3e420ecb3c26ea2
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Conseil de partenaires Office365: disponibilité d’Office365E5 Single SKU dans Fournisseur de solutionsCloud
 
@@ -30,12 +32,12 @@ Incitez votre conseiller juridique et fiscal à analyser la responsabilité de v
 ## <a name="details"></a>Détails
 
 
-Aux États-Unis et à Porto Rico, les services&nbsp;RTC de Skype Entreprise sont soumis à des taxes spéciales et à des obligations réglementaires. Microsoft facture les services&nbsp;RTC, toutes taxes comprises. Des taxes et réglementations&nbsp;RTC spécifiques s’appliqueront aux partenaires Office&nbsp;365 qui migrent vers la nouvelle offre Office&nbsp;365&nbsp;E5 unifiée. Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
+Aux États-Unis, à Porto Rico et au Canada, les servicesPSTN de Skype Entreprise sont soumis à des taxes spéciales et à des obligations réglementaires. Microsoft facture les services&nbsp;RTC, toutes taxes comprises. Des taxes et réglementations&nbsp;RTC spécifiques s’appliqueront aux partenaires Office&nbsp;365 qui migrent vers la nouvelle offre Office&nbsp;365&nbsp;E5 unifiée. Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
 
 ## <a name="price-list-and-catalog-availability"></a>Disponibilité du catalogue et de la liste de prix
 
 
-De nombreux partenaires Fournisseur de solutions&nbsp;Cloud ont besoin de délais importants pour intégrer leurs systèmes de gestion des commandes dans la plateforme Microsoft Commerce à l’aide d’API. Pour permettre aux partenaires de saisir des opportunités&nbsp;E5 avant que leurs systèmes soient prêts à vendre Office&nbsp;365 Entreprise&nbsp;E5 Single SKU, les références suivantes figureront sur la liste de prix Fournisseur de solutions&nbsp;Cloud jusqu’au 1er&nbsp;juillet&nbsp;2017&nbsp;:
+De nombreux partenaires Fournisseur de solutions&nbsp;Cloud ont besoin de délais importants pour intégrer leurs systèmes de gestion des commandes dans la plateforme Microsoft Commerce à l’aide d’API. Pour permettre aux partenaires de saisir des opportunités&nbsp;E5 avant que leurs systèmes soient prêts à vendre Office&nbsp;365 Entreprise&nbsp;E5 Single SKU, les références suivantes figureront sur la liste de prix Fournisseur de solutions&nbsp;Cloud jusqu’au 1er&nbsp;juillet&nbsp;2017&nbsp;: 
 
 -   Office&nbsp;365 Entreprise&nbsp;E5 sans Conférence&nbsp;RTC
 -   Références de module complémentaire Conférence&nbsp;RTC (sur les marchés&nbsp;RTC)
@@ -53,6 +55,7 @@ Suite au lancement du 5&nbsp;octobre, certaines références indiquent le même 
 **ID de l’offre**
 
 **Prix unitaire**
+
 
 **Prix moyen estimé**
 

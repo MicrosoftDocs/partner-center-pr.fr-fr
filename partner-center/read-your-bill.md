@@ -3,10 +3,11 @@ title: Lire votre facture | Espace partenaires
 description: "Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 07/01/2017
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -47,7 +48,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="odd">
 <td>Frais récurrents</td>
-<td>Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service. Ce nombre est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonne&nbsp;T).</td>
+<td>Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service. Ce montant est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonneT).</td>
 </tr>
 <tr class="even">
 <td>Frais d’utilisation</td>
@@ -83,7 +84,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="odd">
 <td>Période de facturation</td>
-<td>Les partenaires fournisseurs de solutions Cloud sont facturés chaque mois.</td>
+<td>Les partenaires fournisseurs de solutions Cloud sont facturés mensuellement ou annuellement.</td>
 </tr>
 <tr class="even">
 <td>Date de facturation</td>

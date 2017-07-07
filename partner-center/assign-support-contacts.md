@@ -3,11 +3,11 @@ title: Assigner des contacts de support | Espacepartenaires
 description: "En tant que partenaire revendeur, vous pouvez désigner un revendeur comme contact de support."
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
-ms.openlocfilehash: 6849e35c8891b2e8a33062576adf23a78e8b956f
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 18e030c7a8aafa2bbcd9537de71fdf8f37128690
+ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 06/27/2017
 ---
 # <a name="assign-support-contacts"></a>Assigner des contacts de support
 

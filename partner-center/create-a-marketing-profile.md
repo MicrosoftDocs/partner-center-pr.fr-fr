@@ -3,12 +3,21 @@ title: "Créer un profil commercial | Espace partenaires"
 description: "Attirez davantage de clients potentiels en créant un profil commercial dans l’Espace partenaires."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
-ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2017
+ms.lasthandoff: 07/01/2017
 ---
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
+
+
 # <a name="create-a-marketing-profile"></a>Créer un profil commercial
 
 **S'applique à**
@@ -24,15 +33,19 @@ La première étape pour obtenir ces prospects consiste à créer un profil comm
 *  **la fonction de recherche [Rechercher un partenaire](https://partnercenter.microsoft.com/pcv/search)**. Les clients potentiels peuvent eux-mêmes effectuer des recherches dans les descriptions des partenaires afin de trouver ceux qui répondent à leurs critères. 
 *  **Références des employés des ventes et du service de Microsoft**. Les clients potentiels souhaitant déployer des solutions technologiques sur le cloud contactent Microsoft afin de trouver des professionnels qui puissent répondre aux besoins de leur entreprise. Ces professionnels de Microsoft peuvent ensuite transmettre ces références de clients potentiels à votre entreprise.
 
+**Utilisateurs de Pinpoint, C2PC et Sales Connect**: nous fusionnons ces outils dans l’Espace partenaires. Si vous avez déjà utilisé ces outils, créez un nouveau profil commercial dans l’Espace partenaires pour continuer à générer et à gérer vos clients potentiels. Notez que l’importation de profils à partir d’anciens sites n’est pas prise en charge pour le moment. 
+
 ## <a name="create-a-profile"></a>Créer un profil
 
-Créez un profil pour chaque pays dans lequel vous êtes autorisé à exercer vos activités.
+Créez des profils pour chaque région dans laquelle vous êtes autorisé à exercer vos activités. 
 
-1.  Dans [Espace partenaires](http://go.microsoft.com/fwlink/p/?LinkId=808956), à partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **Profils commerciaux** &gt; **[Ajouter un profil commercial](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Connectez-vous à l’[Espace partenaires](http://go.microsoft.com/fwlink/p/?LinkId=808956) à l’aide d’un [compte d’administrateur global ou d’agent administratif](create-user-accounts-and-set-permissions.md).
 
-2.  Dans la page **Créer un profil commercial**, sélectionnez une région, puis saisissez les informations de votre profil. Renseignez notamment les sections informations sur le partenaire et expertise du partenaire.
+2.  À partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **Profils commerciaux** &gt; **[Ajouter un profil commercial](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-    Une fois votre premier profil terminé, vous pourrez ensuite créer d'autres profils basés sur celui-ci en sélectionnant **Copier à partir d’un profil existant**.
+3.  Dans la page **Créer un profil commercial**, sélectionnez une région, puis saisissez les informations de votre profil. Renseignez notamment les sections informations sur le partenaire et expertise du partenaire.
+    
+    Notez que si l’Espace partenaires prend en charge plusieurs langues, il est possible que certains éléments tels que la description et les balises de forme libre doivent inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
 
 ### <a href="" id="partner_info"></a>Informations sur le partenaire
 
@@ -49,8 +62,9 @@ La description ne doit pas dépasser 1000caractères. Conseils pour créer une d
 *  **Ne vous souciez pas de remplir la description de mots clés**. Les outils de recherche du client utilisent les mots clés générés dans la section Expertise du partenaire, pas dans la description.
 *  **Maintenez votre profil à jour**. À chaque publication de logiciel ou de service, mettez à jour votre profil, de manière synchronisée avec le site Web de votre société.
 *  **Ne faites pas nommément référence à une autre société partenaire de Microsoft**, sauf s’il s’agit d’une filiale ou qu’elle est autrement affiliée à votre société, ou que vous avez conclu un accord avec cette société partenaire visant à établir un partenariat et/ou à vous promouvoir mutuellement dans le but de partager des opportunités commerciales.
+*  **Pour les régions avec plusieurs langues**, envisagez d’inclure du texte en plusieurs langues dans la description.
 
-#### <a href="" id="linkedin"></a> Page de société LinkedIn: d'autres moyens de communiquer
+#### <a href="" id="linkedin"></a> Page de société LinkedIn: d’autres moyens de communiquer
 
 Ajoutez votre page de société LinkedIn pour renforcer vos relations avec des clients potentiels. 
 
@@ -70,7 +84,7 @@ Commencez par ajouter vos propres balises dans la section Expertise du partenair
 *  **Solutions, compétences et capacités**. Ces balises sont de forme libre et vous permettent d’ajouter des mots clés propres à vos capacités.
 
 Autres balises utilisées dans la recherche:
-*  Les **[balises de compétence](https://partner.microsoft.com/membership/competencies)** sont des désignations obtenues qui présentent les capacités de votre entreprise.
+*  Les **balises de compétence** sont des désignations obtenues qui présentent les capacités de votre entreprise.
 *  Les **balises d'approbation** sont gagnées lorsque Microsoft ou les clients qui ont travaillé avec vous recommandent votre travail.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Autoriser Microsoft à recommander mes domaines d’expertise
@@ -93,11 +107,17 @@ Vous pouvez ajouter jusqu'à 5emplacements par région. Ces emplacements s’aff
 
 Indiquez des emplacements officiels de la société qui peuvent être vérifiés. Sélectionnez des emplacements qui se trouvent en position centrale dans les marchés que vous desservez et qui représentent le mieux les capacités de votre société.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Améliorez la visibilité de votre profil 
+Chaque emplacement que vous ajoutez devient une page de profil séparée. Lors de la mise à jour des pages de profil, veillez à les mettre à jour pour chaque emplacement.
+
+## <a name="review-your-profile"></a>Vérifier votre profil
+
+Une fois que vous avez publié votre profil, les mises à jour apparaissent dans les recherches [Rechercher un partenaire](https://partnercenter.microsoft.com/pcv/search) dans un délai de 24heures. 
+
+## <a name="improve-the-visibility-of-your-profile"></a>Améliorer la visibilité de votre profil 
 
 *  **[Répondez rapidement aux demandes](responding-to-referrals.md)**. Lorsque vous recevez une référence de client, une réponse plus rapide peut entraîner de meilleurs résultats sur les pages de recherche des futurs clients.
 *  **Sélectionnez vos balises avec soin**.  Il est préférable d’avoir quelques balises qui représentent au mieux les offres, les solutions, les propositions de valeur et la position unique qui font le succès continu de votre entreprise.  Cette méthode s'avérera payante dans les futurs résultats de recherche.
-*  **Obtenez des [balises de compétences](https://partner.microsoft.com/membership/competencies)** de la part de Microsoft pour illustrer votre maîtrise de nos produits.
+*  Obtenez des **balises de compétence** de la part de Microsoft pour illustrer votre maîtrise de nos produits.
 *  **Obtenez des balises d'approbation** de la part de clients qui ont apprécié votre travail.
 
 ## <a name="related-topics"></a>Rubriques associées

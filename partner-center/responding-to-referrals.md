@@ -1,13 +1,13 @@
 ---
 title: "Réponse aux références | Espace partenaires"
-description: "Évaluer, négocier et répondre aux références par le biais de l&quot;Espace partenaires."
+description: "Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires."
 author: KPacquer
 keywords: "référence, RFI, rechercher un partenaire"
-ms.openlocfilehash: ec859a9cac94b3e4b3571ba95e2acc0de9a842b1
-ms.sourcegitcommit: 5216c9d8a5aa1cbe825cefe27d35e3f380fa90b4
+ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Réponse aux références dans l'Espace partenaires
 
@@ -23,7 +23,7 @@ Commencez par configurer un [profil commercial](create-a-marketing-profile.md) p
 
 *  Activités marketing de Microsoft
 *  Ventes internes de Microsoft et agents du service
-*  Recherches de clients, à l’aide de l'outil **Rechercher un partenaire**.
+*  Recherches de clients, à l’aide de l’outil **[Rechercher un partenaire](https://partnercenter.microsoft.com/pcv/search)**.
 
 Lorsqu’un client sera prêt à vous contacter, il enverra une demande d’informations (RFI). 
 
