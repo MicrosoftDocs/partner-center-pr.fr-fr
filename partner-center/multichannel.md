@@ -1,30 +1,28 @@
 ---
 title: Multicanal | Espace partenaires
-description: "L’une des options du programme Fournisseur de solutions Cloud permet au partenaire de gérer l’intégralité du cycle de vie de l’abonnement d’un client : ventes, approvisionnement, support et renouvellement."
+description: "Dans certains cas, des clients peuvent faire appel à vous pour configurer et prendre en charge un abonnement qu’ils ont acheté ailleurs."
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
-
+ms.openlocfilehash: 2f0354c8e8e0f80bd42af363dc86b829b96b9bbf
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 06/09/2017
 ---
+# <a name="multi-channel-support"></a><span data-ttu-id="f66a7-103">Prise en charge de plusieurs canaux</span><span class="sxs-lookup"><span data-stu-id="f66a7-103">Multi-channel support</span></span>
 
-# Multicanal
+**<span data-ttu-id="f66a7-104">S’applique à:</span><span class="sxs-lookup"><span data-stu-id="f66a7-104">Applies to</span></span>**
 
-**S'applique à**
+-  <span data-ttu-id="f66a7-105">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="f66a7-105">Partner Center</span></span>
+-  <span data-ttu-id="f66a7-106">Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis</span><span class="sxs-lookup"><span data-stu-id="f66a7-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="f66a7-107">Espace partenaires de Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="f66a7-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Espace partenaires
--  Espace partenaires de Microsoft Cloud Germany
+<span data-ttu-id="f66a7-108">La fonctionnalité de support de plusieurs canaux de l'Espace partenaires prend en charge les cas où un client souhaite engager un partenaire pour gérer et assurer le support d’un abonnement acheté ailleurs.</span><span class="sxs-lookup"><span data-stu-id="f66a7-108">Partner Center’s multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="f66a7-109">Le support multicanal s’applique lorsque le client:</span><span class="sxs-lookup"><span data-stu-id="f66a7-109">Multi-channel support applies when the customer:</span></span>
 
-L’une des options du programme Fournisseur de solutions Cloud permet au partenaire de gérer l’intégralité du cycle de vie de l’abonnement d’un client : ventes, approvisionnement, support et renouvellement. Toutefois, dans de nombreux cas, les clients possèdent déjà des abonnements pour lesquels ils ont besoin que vous gériez l’approvisionnement ou le support et qu’ils ont précédemment achetés auprès d’un autre canal.
+-   <span data-ttu-id="f66a7-110">a déjà acheté des abonnements auprès de Microsoft directement ou par l’intermédiaire des programmes Advisor, Open ou EA;</span><span class="sxs-lookup"><span data-stu-id="f66a7-110">Already puchased subscriptions directly from Microsoft or through the Advisor, Open, or EA programs.</span></span>
 
-Le support multicanal s’applique lorsque le client&nbsp;:
+-   <span data-ttu-id="f66a7-111">a acheté les abonnements auprès d’un tiers ne faisant pas partie du programme Fournisseur de solutions Cloud ni des partenaires MicrosoftSyndication.</span><span class="sxs-lookup"><span data-stu-id="f66a7-111">Purchased the subscriptions from a third party not in the Cloud Solution Provider program or not a Microsoft Syndication Partner.</span></span> <span data-ttu-id="f66a7-112">Les clients ne peuvent pas transférer un abonnement du programme Fournisseur de solutions Cloud basé sur une licence à un autre partenaire du programme Fournisseur de solutions Cloud. Ils doivent attendre la fin de leur période d’abonnement ou annuler leur abonnement.</span><span class="sxs-lookup"><span data-stu-id="f66a7-112">Customers can’t switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program–they must wait until the end of their subscription period or cancel before moving.</span></span>
 
--   a déjà acheté des abonnements auprès de Microsoft directement ou par l’intermédiaire des programmes Advisor, Open ou EA&nbsp;;
-
--   a acheté les abonnements auprès de vous lorsque vous participiez au programme Advisor, mais que vous faites maintenant partie du programme Fournisseur de solutions Cloud&nbsp;;
-
--   ont acheté les abonnements auprès d’un tiers ne faisant pas partie du programme Fournisseur de solutions Cloud, ou d’un partenaire Microsoft&nbsp;Syndication. Les clients ne peuvent pas transférer un abonnement du programme Fournisseur de solutions Cloud basé sur une licence vers un autre partenaire du programme Fournisseur de solutions Cloud. Ils doivent attendre la fin de leur période d’abonnement ou annuler leur abonnement.
 
 <table>
 <colgroup>
@@ -33,38 +31,33 @@ Le support multicanal s’applique lorsque le client&nbsp;:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Services basés sur des licences</strong></p></td>
-<td><p>Pour fournir un service de support pour les comptes multicanaux, vous devez demander au client l’autorisation de gérer ses abonnements. Voir [Demander une relation avec un client](request-a-relationship-with-a-customer.md).</p></td>
+<td><p><strong><span data-ttu-id="f66a7-113">Services basés sur la licence</span><span class="sxs-lookup"><span data-stu-id="f66a7-113">License-based services</span></span></strong></p></td>
+<td><p><span data-ttu-id="f66a7-114">Pour fournir un service de support pour les comptes multicanaux, vous devez demander au client l’autorisation de gérer ses abonnements.</span><span class="sxs-lookup"><span data-stu-id="f66a7-114">To provide support for multi-channel accounts, you must request permissions from the customer to manage their subscriptions.</span></span> <span data-ttu-id="f66a7-115">Voir [Demander une relation de revendeur avec un client](request-a-relationship-with-a-customer.md) pour plus d’informations sur la procédure à suivre.</span><span class="sxs-lookup"><span data-stu-id="f66a7-115">See [Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md) for information about how to do this.</span></span></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Services basés sur l’utilisation</strong></p></td>
-<td><ul>
-<li><p>Pour un client disposant d’un abonnement Azure obtenu à partir d’un autre canal (Advisor, Open ou EA par exemple), il n’existe pas de mode de migration pris en charge vers un fournisseur de solutions Cloud. Toutefois, vous pouvez lui créer un nouvel abonnement Azure dans le programme Fournisseur de solutions Cloud, puis transférer manuellement ses données et paramètres. Il doit ensuite annuler individuellement les anciens services ou l’intégralité de l’abonnement. Sachez que le programme Fournisseur de solutions&nbsp;Cloud peut ne pas fournir tous les services dont il a besoin. Pour plus d’informations, consultez la section <strong>Services Azure dans Fournisseur de solutions&nbsp;Cloud</strong> sur la page <strong>Ventes</strong> de l’Espace partenaires.</p></li>
-<li><p>Un client disposant déjà d’un abonnement Azure auprès d’un partenaire Fournisseur de solutions&nbsp;Cloud peut transférer les services Azure vers un autre partenaire Fournisseur de solutions&nbsp;Cloud. Pour plus d’informations, voir [Transférer un abonnement Azure vers un autre partenaire](switch-azure-subscriptions-to-a-different-partner.md).</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Partenaires indirects</strong></p></td>
-<td><ul>
-<li><p>Le partenaire indirect crée l’invitation au programme Fournisseur de solutions Cloud, basée sur le lien de l’Espace partenaires, puis il peut l’envoyer directement au client final ou à vos revendeurs qui peuvent alors l’envoyer à leurs clients finaux.</p></li>
-<li><p>Les revendeurs travaillant pour un partenaire indirect dans le programme Fournisseur de solutions Cloud ne peuvent pas créer leurs propres invitations au programme Fournisseur de solutions Cloud. Ils doivent utiliser celle fournie par leur partenaire indirect.</p></li>
-<li><p>Le partenaire indirect est propriétaire de la relation, mais peut permettre à un revendeur de disposer des privilèges d’administration délégués nécessaires pour gérer l’approvisionnement et/ou le support.</p></li>
-</ul></td>
+<td><p><strong><span data-ttu-id="f66a7-116">Services basés sur l’utilisation</span><span class="sxs-lookup"><span data-stu-id="f66a7-116">Usage-based services</span></span></strong></p></td>
+<td>
+<p><span data-ttu-id="f66a7-117">Pour un client qui possède déjà un abonnement à MicrosoftAzure à partir d’un autre canal, comme Advisor, Open ou EA, vous devrez créer un nouvel abonnement Azure dans l'Espace partenaires, entrer manuellement les détails de l’abonnement, puis annuler les services individuels ou l’intégralité de l’abonnement.</span><span class="sxs-lookup"><span data-stu-id="f66a7-117">For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you'll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription.</span></span></p>
+<p><span data-ttu-id="f66a7-118">Par exemple, pour un client qui possède déjà un abonnement à MicrosoftAzure à partir d’un autre partenaire, vous pouvez transférer des services Azure à l’autre partenaire.</span><span class="sxs-lookup"><span data-stu-id="f66a7-118">For a customer who already has a subscription to Microsoft Azure from another partner, for example, you can switch Azure services to the other partner.</span></span> <span data-ttu-id="f66a7-119">Pour plus d’informations, voir [Transférer un abonnement Azure à un autre partenaire](switch-azure-subscriptions-to-a-different-partner.md).</span><span class="sxs-lookup"><span data-stu-id="f66a7-119">For more information, see [Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md).</span></span></p>
+</td>
 </tr>
 </tbody>
 </table>
 
- 
+>**<span data-ttu-id="f66a7-120">Important</span><span class="sxs-lookup"><span data-stu-id="f66a7-120">Important</span></span>**<br>
+<span data-ttu-id="f66a7-121">Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud.</span><span class="sxs-lookup"><span data-stu-id="f66a7-121">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="f66a7-122">Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes.</span><span class="sxs-lookup"><span data-stu-id="f66a7-122">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="f66a7-123">Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris l'Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="f66a7-123">Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.</span></span> 
+
+## <a name="see-also"></a><span data-ttu-id="f66a7-124">Articles associés</span><span class="sxs-lookup"><span data-stu-id="f66a7-124">See also</span></span>
+
+[<span data-ttu-id="f66a7-125">Collaborer avec d’autres partenaires</span><span class="sxs-lookup"><span data-stu-id="f66a7-125">Work with other partners</span></span>](work-with-other-partners.md)
+
+<span data-ttu-id="f66a7-126">Si vous êtes revendeur indirect, voir [Devenez partenaire de fournisseurs indirects](indirect-reseller-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="f66a7-126">If you're an indirect reseller, see [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
+
+<span data-ttu-id="f66a7-127">Si vous êtes fournisseur indirect, voir [Devenez partenaire de revendeurs indirects](indirect-provider-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="f66a7-127">If you're an indirect provider, see [Partner with indirect resellers](indirect-provider-tasks-in-partner-center.md)</span></span> 
 
  
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
