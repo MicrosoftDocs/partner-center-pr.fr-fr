@@ -1,30 +1,35 @@
 ---
-title: Supprimer une relation avec un revendeur ou un client | Espace partenaires
-description: "La suppression d’une relation supprime toutes les relations commerciales clôturées de votre affichage dans l'Espace partenaires."
+title: Supprimer une relation de revendeur avec un client | Espace partenaires
+description: Removing a relationship removes any closed business relationships from your view in Partner Center.
 author: KPacquer
-robots: noindex,nofollow
-ms.openlocfilehash: 979491e1c2cf90d2e7ca5c02d2bc497675c53dba
-ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
+ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
+ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="remove-a-relationship-with-a-reseller-or-a-customer"></a><span data-ttu-id="07230-103">Supprimer une relation avec un revendeur ou un client</span><span class="sxs-lookup"><span data-stu-id="07230-103">Remove a relationship with a reseller or a customer</span></span>
+# <a name="remove-a-reseller-relationship-with-a-customer"></a><span data-ttu-id="f2e29-103">Supprimer une relation de revendeur avec un client</span><span class="sxs-lookup"><span data-stu-id="f2e29-103">Remove a reseller relationship with a customer</span></span>
 
-**<span data-ttu-id="07230-104">S’applique à</span><span class="sxs-lookup"><span data-stu-id="07230-104">Applies to</span></span>**
+**<span data-ttu-id="f2e29-104">Applies to</span><span class="sxs-lookup"><span data-stu-id="f2e29-104">Applies to</span></span>**
 
--   <span data-ttu-id="07230-105">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="07230-105">Partner Center</span></span>
+-   <span data-ttu-id="f2e29-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="f2e29-105">Partner Center</span></span>
 
-<span data-ttu-id="07230-106">Partenaires directs: vous pouvez supprimer toutes les relations commerciales clôturées de votre affichage dans l'Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="07230-106">Direct partners: you can remove any closed business relationships from your view in Partner Center.</span></span>
+<span data-ttu-id="f2e29-106">Partenaires directs: si vous n’effectuez plus de transactions avec un client, vous pouvez supprimer la relation dans l'Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="f2e29-106">Direct partners: if you're no longer transacting with a customer, you can remove the relationship in Partner Center.</span></span> 
 
-## <a name="remove-a-relationship-in-partner-center"></a><span data-ttu-id="07230-107">Supprimer une relation dans l'Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="07230-107">Remove a relationship in Partner Center</span></span>
+<span data-ttu-id="f2e29-107">Cette fonctionnalité:</span><span class="sxs-lookup"><span data-stu-id="f2e29-107">This feature:</span></span>
+*  <span data-ttu-id="f2e29-108">supprime le client de votre liste de clients dans l’Espace partenaires;</span><span class="sxs-lookup"><span data-stu-id="f2e29-108">Removes the customer from your list of customers in Partner Center</span></span>
+*  <span data-ttu-id="f2e29-109">vous supprime de la [liste des contacts de support disponibles](assign-support-contacts.md) de votre client;</span><span class="sxs-lookup"><span data-stu-id="f2e29-109">Removes you from the [list of available support contacts](assign-support-contacts.md) for your customer</span></span>
+*  <span data-ttu-id="f2e29-110">supprime vos privilèges d’administration de la délégation pour le client;</span><span class="sxs-lookup"><span data-stu-id="f2e29-110">Removes your delegation admin privileges for the customer</span></span>
+*  <span data-ttu-id="f2e29-111">supprime la possibilité d’effectuer des achats pour le compte du client.</span><span class="sxs-lookup"><span data-stu-id="f2e29-111">Removes the ability for you to make purchases on behalf of the customer</span></span>
 
-1.  <span data-ttu-id="07230-108">Suspendez les abonnements actifs.</span><span class="sxs-lookup"><span data-stu-id="07230-108">Suspend any active subscriptions.</span></span> <span data-ttu-id="07230-109">À partir du tableau de bord, accédez à **Clients** > sélectionnez un client > **Abonnements** > sélectionnez un abonnement > **Suspendu**.</span><span class="sxs-lookup"><span data-stu-id="07230-109">From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**.</span></span> 
+<span data-ttu-id="f2e29-112">Pour supprimer la relation, vous devez d’abord suspendre les abonnements actifs restants:</span><span class="sxs-lookup"><span data-stu-id="f2e29-112">To remove the relationship, you'll need to suspend any remaining active subscriptions first:</span></span>
 
-   <span data-ttu-id="07230-110">Répétez cette procédure pour chaque abonnement actif.</span><span class="sxs-lookup"><span data-stu-id="07230-110">Repeat this for each active subscription.</span></span>
+1.  <span data-ttu-id="f2e29-113">Suspendez les abonnements actifs.</span><span class="sxs-lookup"><span data-stu-id="f2e29-113">Suspend any active subscriptions.</span></span> <span data-ttu-id="f2e29-114">From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**.</span><span class="sxs-lookup"><span data-stu-id="f2e29-114">From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**.</span></span> 
 
-2.  <span data-ttu-id="07230-111">Supprimez la relation dans l'Espace partenaires: à partir du tableau de bord, accédez à **Clients** > sélectionnez un client > **Compte** > **Supprimer une relation de revendeur**.</span><span class="sxs-lookup"><span data-stu-id="07230-111">Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.</span></span>
+   <span data-ttu-id="f2e29-115">Repeat this for each active subscription.</span><span class="sxs-lookup"><span data-stu-id="f2e29-115">Repeat this for each active subscription.</span></span>
 
-    <span data-ttu-id="07230-112">Notez que si des abonnements sont toujours actifs, le lien **Supprimer une relation de revendeur** est inactif.</span><span class="sxs-lookup"><span data-stu-id="07230-112">Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span></span> 
+2.  <span data-ttu-id="f2e29-116">Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.</span><span class="sxs-lookup"><span data-stu-id="f2e29-116">Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.</span></span>
 
-<span data-ttu-id="07230-113">Pour rétablir la relation, répétez le processus de [Demande de relation ](request-a-relationship-with-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="07230-113">To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span>
+    <span data-ttu-id="f2e29-117">Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span><span class="sxs-lookup"><span data-stu-id="f2e29-117">Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive.</span></span> 
+
+<span data-ttu-id="f2e29-118">To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="f2e29-118">To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).</span></span>

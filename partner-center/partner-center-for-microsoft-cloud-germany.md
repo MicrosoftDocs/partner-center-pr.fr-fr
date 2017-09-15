@@ -1,60 +1,54 @@
 ---
-title: "Espace partenaires de Microsoft Cloud Germany | Espace partenaires de Microsoft Cloud Germany"
-description: "L&quot;Espace partenaires de Microsoft Cloud Germany est le portail professionnel des partenaires Microsoft qui souhaitent proposer des solutions Cloud Microsoft aux clients situés dans les pays de l’UE et de l’AELE. Microsoft Cloud Germany garantit que vos données client se trouvent en Allemagne et qu&quot;un tiers de confiance allemand désigné contrôle l’accès à celles-ci. Les clients commerciaux situés dans l&quot;Union européenne (UE) et l’Association européenne de libre-échange (AELE) peuvent stocker et gérer les données des clients conformément aux lois et réglementations allemandes ainsi qu&quot;aux principales normes internationales. Microsoft ne peut pas accéder aux données du client sans l&quot;autorisation et le contrôle de celui-ci ou du tiers de confiance allemand désigné."
+title: Partner Center for Microsoft Cloud Germany | Partner Center for Microsoft Cloud Germany
+description: Partner Center for Microsoft Cloud Germany is the business portal for Microsoft partners who want to offer Microsoft cloud solutions to customers in EU and EFTA countries. Microsoft Cloud Germany ensures that your customer data resides in Germany and a designated German data trustee controls access to it. Commercial customers in the European Union (EU) and European Free Trade Association (EFTA) can store and manage customer data in compliance with applicable German laws and regulations as well as key international standards. Microsoft cannot access customer data without approval from and supervision by the German data trustee or customer.
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: c17bf920fe54dab315be695baa3090f71c210e8e
-ms.openlocfilehash: fe907be4e313c0302707576417220c18557bfbf2
-
+ms.openlocfilehash: ffdc34a15896f63f838159eeb0328255e4ba810d
+ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 07/07/2017
 ---
+# <a name="partner-center-for-microsoft-cloud-germany"></a><span data-ttu-id="dd2ae-106">Partner Center for Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="dd2ae-106">Partner Center for Microsoft Cloud Germany</span></span>
 
-# Espace partenaires de Microsoft Cloud Germany
+**<span data-ttu-id="dd2ae-107">Applies to</span><span class="sxs-lookup"><span data-stu-id="dd2ae-107">Applies to</span></span>**
 
-**S'applique à**
+-  <span data-ttu-id="dd2ae-108">Partner Center for Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="dd2ae-108">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Espace partenaires de Microsoft Cloud Germany
+## <a name="microsoft-cloud-germany-meeting-german-data-protection-requirements"></a><span data-ttu-id="dd2ae-109">Microsoft Cloud Germany: Meeting German data protection requirements</span><span class="sxs-lookup"><span data-stu-id="dd2ae-109">Microsoft Cloud Germany: Meeting German data protection requirements</span></span> 
 
-## Microsoft Cloud Germany : répondre aux critères allemands de protection des données 
+<span data-ttu-id="dd2ae-110">Microsoft Cloud Germany is designed to meet strict German data protection requirements and includes a German data trustee, operating under German law, who controls physical and logical access to customer data.</span><span class="sxs-lookup"><span data-stu-id="dd2ae-110">Microsoft Cloud Germany is designed to meet strict German data protection requirements and includes a German data trustee, operating under German law, who controls physical and logical access to customer data.</span></span> <span data-ttu-id="dd2ae-111">All customer data, and the systems that process or control access to customer data, reside in German datacenters.</span><span class="sxs-lookup"><span data-stu-id="dd2ae-111">All customer data, and the systems that process or control access to customer data, reside in German datacenters.</span></span> <span data-ttu-id="dd2ae-112">The network between these datacenters is isolated and dedicated within Germany.</span><span class="sxs-lookup"><span data-stu-id="dd2ae-112">The network between these datacenters is isolated and dedicated within Germany.</span></span>
 
-Conçu pour répondre aux strictes exigences de protection des données en vigueur en Allemagne, Microsoft Cloud Germany inclut un tiers de confiance allemand qui contrôle l’accès physique et logique aux données des clients conformément à la législation allemande. Toutes les données des clients et les systèmes qui gèrent ou contrôlent l’accès aux données des clients se trouvent dans des centres de données allemands. Le réseau entre ces centres de données est isolé et dédié en Allemagne.
+<span data-ttu-id="dd2ae-113">MicrosoftCloud Germany fournit une instance distincte de [MicrosoftAzure](https://go.microsoft.com/fwlink/?linkid=847992), d'Office365 et de MicrosoftDynamics, issue des centres de données en Allemagne.</span><span class="sxs-lookup"><span data-stu-id="dd2ae-113">Microsoft Cloud Germany provides a separate instance of [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), Office 365, and Microsoft Dynamics, delivered from datacenters in Germany.</span></span> <span data-ttu-id="dd2ae-114">As a result, commercial customers in the European Union (EU) and European Free Trade Association (EFTA) can store and manage customer data in compliance with applicable German laws and regulations as well as key international standards.</span><span class="sxs-lookup"><span data-stu-id="dd2ae-114">As a result, commercial customers in the European Union (EU) and European Free Trade Association (EFTA) can store and manage customer data in compliance with applicable German laws and regulations as well as key international standards.</span></span> <span data-ttu-id="dd2ae-115">Microsoft personnel cannot access customer data without approval from and supervision by the German data trustee or customer.</span><span class="sxs-lookup"><span data-stu-id="dd2ae-115">Microsoft personnel cannot access customer data without approval from and supervision by the German data trustee or customer.</span></span>
 
-Microsoft Cloud Germany fournit une instance distincte de [Microsoft Azure](https://azure.microsoft.com/en-us/overview/clouds/germany/), d'Office 365 et de Microsoft Dynamics, issue des centres de données en Allemagne. Par conséquent, les clients commerciaux situés dans l'Union européenne (UE) et l’Association européenne de libre-échange (AELE) peuvent stocker et gérer les données des clients conformément aux lois et réglementations allemandes ainsi qu'aux principales normes internationales. Le personnel de Microsoft n'a pas accès aux données d'un client sans l'autorisation et le contrôle de celui-ci ou du tiers de confiance allemand désigné.
+<span data-ttu-id="dd2ae-116">Pour plus d'informations, consultez la [feuille de données MicrosoftCloud Germany](http://download.microsoft.com/download/6/1/3/613C9ECB-9167-4EF5-B131-3BAD8D8A126C/Microsoft_Cloud_Germany_Datasheet.pdf).</span><span class="sxs-lookup"><span data-stu-id="dd2ae-116">See the [Microsoft Cloud Germany datasheet](http://download.microsoft.com/download/6/1/3/613C9ECB-9167-4EF5-B131-3BAD8D8A126C/Microsoft_Cloud_Germany_Datasheet.pdf) for more information.</span></span>
 
-Pour plus d'informations, consultez la [feuille de données Microsoft Cloud Germany](http://download.microsoft.com/download/6/1/3/613C9ECB-9167-4EF5-B131-3BAD8D8A126C/Microsoft_Cloud_Germany_Datasheet.pdf).
+## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a><span data-ttu-id="dd2ae-117">Partner Center for Microsoft Cloud Germany: Selling German Cloud solutions in EU and EFTA</span><span class="sxs-lookup"><span data-stu-id="dd2ae-117">Partner Center for Microsoft Cloud Germany: Selling German Cloud solutions in EU and EFTA</span></span>
 
-## Espace partenaires de Microsoft Cloud Germany : vendre des solutions Cloud allemandes dans l’UE et l’AELE
+<span data-ttu-id="dd2ae-118">Once enrolled in the Cloud Solution Provider (CSP) for Microsoft Cloud Germany program, you'll use Partner Center to sell German Cloud-specific solutions and services to customers in EU and EFTA countries/regions.</span><span class="sxs-lookup"><span data-stu-id="dd2ae-118">Once enrolled in the Cloud Solution Provider (CSP) for Microsoft Cloud Germany program, you'll use Partner Center to sell German Cloud-specific solutions and services to customers in EU and EFTA countries/regions.</span></span> 
 
-Une fois inscrit au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany, vous allez utiliser l'Espace partenaires pour vendre des solutions et des services Cloud allemands à des clients situés dans des pays ou des régions de l'UE et de l’AELE. 
+>**<span data-ttu-id="dd2ae-119">Note</span><span class="sxs-lookup"><span data-stu-id="dd2ae-119">Note</span></span>**<br>
+<span data-ttu-id="dd2ae-120">At the time this article was published, the following Partner Center features were not yet available in Partner Center for Microsoft Cloud Germany (since publication, some of the features may have been added to Partner Center and this list may be out of date):</span><span class="sxs-lookup"><span data-stu-id="dd2ae-120">At the time this article was published, the following Partner Center features were not yet available in Partner Center for Microsoft Cloud Germany (since publication, some of the features may have been added to Partner Center and this list may be out of date):</span></span>
 
->**Remarque**<br>
-Lors de la publication de cet article, les fonctionnalités suivantes n’étaient pas encore disponibles dans l'Espace partenaires de Microsoft Cloud Germany (depuis la publication, certaines peuvent avoir été ajoutées et cette liste peut ne plus être à jour) :
+- <span data-ttu-id="dd2ae-121">Find a partner</span><span class="sxs-lookup"><span data-stu-id="dd2ae-121">Find a partner</span></span>
+- <span data-ttu-id="dd2ae-122">Marketing profiles</span><span class="sxs-lookup"><span data-stu-id="dd2ae-122">Marketing profiles</span></span>
+- <span data-ttu-id="dd2ae-123">Referrals</span><span class="sxs-lookup"><span data-stu-id="dd2ae-123">Referrals</span></span>
+- <span data-ttu-id="dd2ae-124">License analytics</span><span class="sxs-lookup"><span data-stu-id="dd2ae-124">License analytics</span></span>
+- <span data-ttu-id="dd2ae-125">Customer insights</span><span class="sxs-lookup"><span data-stu-id="dd2ae-125">Customer insights</span></span>
+- <span data-ttu-id="dd2ae-126">Notification center</span><span class="sxs-lookup"><span data-stu-id="dd2ae-126">Notification center</span></span>
+- <span data-ttu-id="dd2ae-127">Indirect reseller/provider model and settings</span><span class="sxs-lookup"><span data-stu-id="dd2ae-127">Indirect reseller/provider model and settings</span></span>
+- <span data-ttu-id="dd2ae-128">Check service health</span><span class="sxs-lookup"><span data-stu-id="dd2ae-128">Check service health</span></span>
+- <span data-ttu-id="dd2ae-129">Independent Software Vendor (ISV) enrollment</span><span class="sxs-lookup"><span data-stu-id="dd2ae-129">Independent Software Vendor (ISV) enrollment</span></span>
+- <span data-ttu-id="dd2ae-130">Customer special qualification</span><span class="sxs-lookup"><span data-stu-id="dd2ae-130">Customer special qualification</span></span>
 
-- Rechercher un partenaire
-- Profils commerciaux
-- Références
-- Analyse des licences
-- Informations sur le client
-- Centre de notifications
-- Paramètres et modèle de revendeur/fournisseur indirect
-- Vérifier l’état du service
-- Inscription d'éditeurs de logiciels indépendants
-- Qualification spéciale du client
+<span data-ttu-id="dd2ae-131">To comply with German laws and regulations that govern the collection and use of individuals' data as well as key international standards, the following Partner Center tasks are managed using specific service portals.</span><span class="sxs-lookup"><span data-stu-id="dd2ae-131">To comply with German laws and regulations that govern the collection and use of individuals' data as well as key international standards, the following Partner Center tasks are managed using specific service portals.</span></span> 
 
-Pour se conformer aux lois et réglementations allemandes qui régissent la collecte et l’utilisation des données personnelles ainsi qu'aux principales normes internationales, les tâches suivantes de l'Espace partenaires sont gérées à l’aide de portails de service spécifiques. 
-
-Fonction ou fonctionnalité | Effectuer des tâches dans
+<span data-ttu-id="dd2ae-132">Feature or capability</span><span class="sxs-lookup"><span data-stu-id="dd2ae-132">Feature or capability</span></span> | <span data-ttu-id="dd2ae-133">Complete tasks in</span><span class="sxs-lookup"><span data-stu-id="dd2ae-133">Complete tasks in</span></span>
 :--- | :---
-Gestion des utilisateurs partenaires | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
-Gestion des utilisateurs du client | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
-Réinitialiser le mot de passe de l’utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
-Gestion des licences | Centre d’administration Office 365 ou portail de gestion des licences Azure Active Directory de Microsoft Cloud Germany
+<span data-ttu-id="dd2ae-134">Partner user management</span><span class="sxs-lookup"><span data-stu-id="dd2ae-134">Partner user management</span></span> | <span data-ttu-id="dd2ae-135">Office 365 admin center or Azure for Microsoft Cloud Germany admin portal</span><span class="sxs-lookup"><span data-stu-id="dd2ae-135">Office 365 admin center or Azure for Microsoft Cloud Germany admin portal</span></span>
+<span data-ttu-id="dd2ae-136">Customer user management</span><span class="sxs-lookup"><span data-stu-id="dd2ae-136">Customer user management</span></span> | <span data-ttu-id="dd2ae-137">Office 365 admin center or Azure for Microsoft Cloud Germany admin portal</span><span class="sxs-lookup"><span data-stu-id="dd2ae-137">Office 365 admin center or Azure for Microsoft Cloud Germany admin portal</span></span>
+<span data-ttu-id="dd2ae-138">Reset user password</span><span class="sxs-lookup"><span data-stu-id="dd2ae-138">Reset user password</span></span> | <span data-ttu-id="dd2ae-139">Azure for Microsoft Cloud Germany admin portal</span><span class="sxs-lookup"><span data-stu-id="dd2ae-139">Azure for Microsoft Cloud Germany admin portal</span></span>
+<span data-ttu-id="dd2ae-140">License management</span><span class="sxs-lookup"><span data-stu-id="dd2ae-140">License management</span></span> | <span data-ttu-id="dd2ae-141">Office 365 admin center or Microsoft Cloud Germany Azure Active Directory Licensing portal</span><span class="sxs-lookup"><span data-stu-id="dd2ae-141">Office 365 admin center or Microsoft Cloud Germany Azure Active Directory Licensing portal</span></span>
 
-Pour plus d’informations sur la gestion des utilisateurs et des licences, consultez [Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md).
+<span data-ttu-id="dd2ae-142">Pour plus d’informations sur la gestion des utilisateurs et des licences, consultez [Gestion des utilisateurs et des licences dans l'Espace partenaires de MicrosoftCloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md).</span><span class="sxs-lookup"><span data-stu-id="dd2ae-142">For information about managing users and licenses, see [User and license management in Partner Center for Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md).</span></span>
 
-Pour plus d’informations sur l’inscription au programme Fournisseur de services Cloud de Microsoft Cloud Germany, consultez [S'inscrire au programme Fournisseur de services Cloud de Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md).
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<span data-ttu-id="dd2ae-143">Pour plus d’informations sur l’inscription au programme Fournisseur de services Cloud de MicrosoftCloud Germany, consultez [S'inscrire au programme Fournisseur de servicesCloud de MicrosoftCloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md).</span><span class="sxs-lookup"><span data-stu-id="dd2ae-143">For information about enrolling in CSP for Microsoft Cloud Germany, see [Enrolling in CSP for Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md).</span></span>
