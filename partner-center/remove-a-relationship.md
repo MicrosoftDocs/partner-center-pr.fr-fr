@@ -1,30 +1,35 @@
 ---
-title: Supprimer une relation avec un revendeur ou un client | Espace partenaires
-description: "La suppression d’une relation supprime toutes les relations commerciales clôturées de votre affichage dans l'Espace partenaires."
+title: Supprimer une relation de revendeur avec un client | Espace partenaires
+description: Removing a relationship removes any closed business relationships from your view in Partner Center.
 author: KPacquer
-robots: noindex,nofollow
-ms.openlocfilehash: 979491e1c2cf90d2e7ca5c02d2bc497675c53dba
-ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
+ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
+ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="remove-a-relationship-with-a-reseller-or-a-customer"></a>Supprimer une relation avec un revendeur ou un client
+# <a name="remove-a-reseller-relationship-with-a-customer"></a>Supprimer une relation de revendeur avec un client
 
-**S’applique à**
+**Applies to**
 
--   Espace partenaires
+-   Partner Center
 
-Partenaires directs: vous pouvez supprimer toutes les relations commerciales clôturées de votre affichage dans l'Espace partenaires.
+Partenaires directs: si vous n’effectuez plus de transactions avec un client, vous pouvez supprimer la relation dans l'Espace partenaires. 
 
-## <a name="remove-a-relationship-in-partner-center"></a>Supprimer une relation dans l'Espace partenaires
+Cette fonctionnalité:
+*  supprime le client de votre liste de clients dans l’Espace partenaires;
+*  vous supprime de la [liste des contacts de support disponibles](assign-support-contacts.md) de votre client;
+*  supprime vos privilèges d’administration de la délégation pour le client;
+*  supprime la possibilité d’effectuer des achats pour le compte du client.
 
-1.  Suspendez les abonnements actifs. À partir du tableau de bord, accédez à **Clients** > sélectionnez un client > **Abonnements** > sélectionnez un abonnement > **Suspendu**. 
+Pour supprimer la relation, vous devez d’abord suspendre les abonnements actifs restants:
 
-   Répétez cette procédure pour chaque abonnement actif.
+1.  Suspendez les abonnements actifs. From the Dashboard, go to **Customers** > select a customer > **Subscriptions** > select a subscription > **Suspended**. 
 
-2.  Supprimez la relation dans l'Espace partenaires: à partir du tableau de bord, accédez à **Clients** > sélectionnez un client > **Compte** > **Supprimer une relation de revendeur**.
+   Repeat this for each active subscription.
 
-    Notez que si des abonnements sont toujours actifs, le lien **Supprimer une relation de revendeur** est inactif. 
+2.  Remove the relationship in Partner Center: From the Dashboard, go to **Customers** > select a customer > **Account** > **Remove reseller relationship**.
 
-Pour rétablir la relation, répétez le processus de [Demande de relation ](request-a-relationship-with-a-customer.md).
+    Note, if any subscriptions are still active, the **Remove reseller relationship** link will be inactive. 
+
+To re-establish the relationship, repeat the process of [requesting a relationship](request-a-relationship-with-a-customer.md).

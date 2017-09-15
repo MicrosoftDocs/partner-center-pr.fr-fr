@@ -1,87 +1,98 @@
 ---
-title: "Acquérir des compétences Microsoft | Espaces partenaires"
-description: "Obtenez des compétences Microsoft Argent et Or pour démontrer votre expertise en solutions de qualité dans un domaine d’activités spécialisé"
+title: Earn Microsoft Competencies | Partner Center
+description: Earn Silver and Gold Microsoft competencies to demonstrate your proven expertise in delivering quality solutions in a specialized area of business
 author: KPacquer
-keywords: "compétences, adhésion argent, adhésion or, mpn, MAPS, aptitude"
+keywords: competencies, silver membership, gold membership, mpn, MAPS, proficiency
 robots: noindex,nofollow
-ms.openlocfilehash: 2220cbf88e0d519f6a75ae55878708bc94fc9353
-ms.sourcegitcommit: 59e3801fad3320569b8f8b8ae203b945737858e2
+ms.openlocfilehash: 849b6355c9e838ccf29c95c18e8720c496828738
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/29/2017
+ms.lasthandoff: 09/01/2017
 ---
-# <a name="competencies"></a>Compétences
+<!--
+•   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
+•   FWLink https://go.microsoft.com/fwlink/?linkid=851281: top of page (duplicate)
+•   FWLink https://go.microsoft.com/fwlink/?linkid=851079: Competencies (#attainment_paths)
+•   FWLink https://go.microsoft.com/fwlink/?linkid=851081: Maintain and renew membership (#maintain_membership)
+•   FWLink https://go.microsoft.com/fwlink/?linkid=851082: Get your employees connected to complete skill-based goals (#associating_achievements)
+•   FWLink https://go.microsoft.com/fwlink/?linkid=851083 : Achievement overrides (#achievement_override)
+•   FWLink: https://go.microsoft.com/fwlink/?linkid=851236: UI link, goes to the place where you import new users. Temporarily points to the Partner Center homepage.
+•   FWLink: https://go.microsoft.com/fwlink/?linkid=851607 :Will go to the docs page for Silver/Gold competency achievements. Currently goes to https://partnercenter.microsoft.com/partner/cloud-solution-provider 
 
-**S’applique à**
--  Espace partenaires
+ -->
 
-L’obtention de compétences Microsoft démontre votre expertise en solutions de qualité. Rejoignez l’élite des partenaires Microsoft et démarquez-vous de vos homologues. Utilisez-les pour: 
+# <a name="competencies"></a>Competencies
 
-*  **Profiter d’offres et d’avantages** tels que des remises sur le MicrosoftActionPack. Les avantages varient selon le niveau et les compétences. 
+**Applies to**
+-  Partner Center
 
-*  **Démontrer votre expertise**. [Obtenir davantage de références professionnelles](referrals.md) en démontrant à vos clients potentiels que vous êtes capable de répondre aux besoins spécifiques de leur entreprise.
+Microsoft competency achievements show your proven experience in delivering quality solutions. Join the elite tier of Microsoft Partners and stand out from your peers. Use them to: 
 
-## <a href="" id="attainment_paths"></a> Parcours de compétences
+*  **Earn offers and benefit packs** such as discounts to the Microsoft Action Pack. Benefits vary by competency and level. 
 
-- Productivité sur le cloud
-- Centre de données
-- DevOps
-- Solutions cloud pour PME
-- Développement d’applications
+*  **Demonstrate your proven expertise**. [Earn more business referrals](referrals.md) by showing prospective customers that you're able to meet their needs for a specific line of business.
+
+## <a href="" id="attainment_paths"></a> Competency paths
+
+[Compétences requises pour le niveau d'adhésion argent et or](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>Acquérir des compétences
 
-Après avoir [rejoint MicrosoftPartnerNetwork](manage-your-partner-network-membership.md), vous pouvez réaliser des objectifs basés sur les performances ou les compétences pour acquérir des compétences Microsoft. 
+After you [join the Microsoft Partner Network](mpn-overview.md), you can meet either performance-based or skill-based goals to earn Microsoft competencies. 
 
-Les **objectifs basés sur les performances** incluent: 
-* Objectifs de revenus
-* Utilisation active
-* Nombre de sièges déployés
-* Ajouts de nouveaux clients
+**Performance-based goals** include: 
+* Revenue goals
+* Active usage
+* Deployed seat count
+* New customer additions
 
-Les **objectifs basés sur les compétences** incluent: 
-* Certifications Microsoft
-* Évaluations en ligne 
+**Skill-based goals** include: 
+* Microsoft certifications
+* Online assessments 
 
-Pour certaines compétences, il existe plusieurs façons d’atteindre le niveau Argent ou Or.
+Some competencies have multiple ways to achieve the Silver or Gold level.
 
-Pour vérifier votre progression dans une compétence, accédez à **Partenariat > Compétences** à partir du tableau de bord de l’Espace partenaires. 
+To check your progress in a competency, from the Partner Center dashboard, go to the **Partnership > Competencies**. 
 
-### <a href="" id="associating_achievements"></a>Connexion de vos employés pour la réalisation d’objectifs basés sur les compétences
+### <a href="" id="associating_achievements"></a>Get your employees connected to complete skill-based goals
 
-1.  Ajoutez des comptes d’utilisateurs pour les employés de votre entreprise. À partir du tableau de bord de l’[Espace partenaires](http://partnercenter.microsoft.com), accédez à **Paramètres du compte > Ajouter un utilisateur**. (Les utilisateurs du PartnerMembershipCenter peuvent ajouter plusieurs utilisateurs à la fois en sélectionnant **Ajouter des utilisateurs à l’aide de données PMC**.)
+1.  Add user accounts for the employees in your organization. From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings > Add user**. (PMC users can add multiple users at a time by selecting **Add users using PMC data**.)
 
-    Une fois les comptes des utilisateurs créés, nous leur faisons parvenir un nouveau nom d’utilisateur et un mot de passe et nous vous invitons à télécharger un fichier journal qui contient des informations vous permettant de réinitialiser les noms d’utilisateurs et les mots de passe, comme requis. Vous pouvez également [configurer les comptes des utilisateurs de manière à leur permettre de réinitialiser eux-mêmes leur mot de passe](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
+    After the user accounts are created, we'll send them a new user name and password, and will prompt you to download a log file which contains info to help reset the user name and password as needed. You can also [set up the user accounts so they can reset the passwords by themselves](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Demandez aux employés de l’entreprise de se connecter et d’associer leur compte Microsoft (MSA) à leur compte d’utilisateur. (À partir du tableau de bord de l’[Espace partenaires](http://partnercenter.microsoft.com), accédez à **Paramètres du compte**.) Les employés peuvent utiliser le même compte MSA ou un compte différent pour associer leurs examens techniques et certifications Microsoft à leur compte par le biais de l’Université des partenaires Microsoft.
+2. Ask the employees in your organization to sign in and associate their Microsoft account (MSA) to their user account. (From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings**.) Employees can use the same or different MSAs to associate their Microsoft technical exams and certifications and their accounts through Microsoft Partner University.
 
-3.  **Attendez 24heures** une fois qu’un utilisateur a associé son compte ou réalisé un objectif basé sur les compétences. Passé ce délai, la progression s’affiche dans la section **Compétences**.
+3.  **Wait 24 hours** after an employee has associated their account or completed a skill-based goal. After this time, the progress displays in the **Competencies** section.
 
-Notez que les employés ne peuvent les associer qu’à une seule entreprise à la fois. Une fois qu’ils ont associé leurs succès à votre entreprise, toutes leurs associations au compte d’une entreprise précédente sont rompues.
+Note, employees can only associate these to one organization at a time. Once they associate achievements to your organization, they’ll sever any previous organization account associations.
 
-De même, lorsque des employés quittent votre entreprise, il sera peut-être nécessaire à d’autres employés de valider les objectifs basés sur les compétences pour [conserver votre adhésion](#maintaining_membership) au même niveau.
+Likewise, when employees leave your organization, you may need other employees to achieve the skill-based goals in order to [maintain your membership](#maintaining_membership) at the same level.
 
-## <a name="display-your-competency-awards"></a>Afficher les compétences acquises
+## <a name="display-your-competency-awards"></a>Display your competency awards
 
-Une fois que vous avez validé ces objectifs pour une compétence spécifique, vous pouvez mettre à niveau votre adhésion.
+Once you've met these goals for a single competency, you'll be able to upgrade your membership.
 
-### <a name="upgrade-your-membership"></a>Mettre à niveau votre adhésion
+### <a name="upgrade-your-membership"></a>Upgrade your membership
 
-Pour acheter le pack d’avantages Argent, il vous suffit de démontrer votre aptitude au niveau argent dans un parcours. Une fois que vous êtes passé au niveau Argent, nous affichons toutes vos compétences validées au niveau Argent dans votre profil commercial. 
+To buy the Silver benefit pack, you only need to demonstrate silver-level proficiency in one path. Once you upgrade to Silver, we display all of the Silver-level competencies you’ve achieved in your marketing profile. 
 
-Pour acheter le pack d’avantages Or, il vous suffit de démontrer votre aptitude au niveau or dans un parcours. Une fois que vous êtes passé au niveau Or, nous affichons les compétences que vous avez validées au niveau Argent et Or dans votre profil commercial. 
+To buy the Gold benefit pack, you only need to demonstrate gold-level proficiency in one path. Once you upgrade to Gold, we display both the Silver-level and Gold-level competencies you’ve achieved in your marketing profile. 
 
-### <a href="" id="#maintain_membership"></a> Conserver et renouveler l’adhésion
+### <a href="" id="maintain_membership"></a> Maintain and renew membership
 
-Pour renouveler votre adhésion, vous devrez continuer à prouver vos compétences dans les produits et services Microsoft. Le statut de votre adhésion est conservé jusqu’à la fin de l’année d’achat.
+To renew your membership, you’ll need to continue to demonstrate proficiency in Microsoft products and services. Your subscription status remains until the end of the year that you purchased it.
 
-Les validations expirées peuvent vous rendre inéligible pour la mise à niveau ou le renouvellement de votre compte partenaire au même niveau. 
+Expired achievements may make you ineligible for upgrading or renewing your partner memberships at the same level. 
 
-Si vous recevez le message: **«un changement récent dans la validation de vos compétences menace votre éligibilité au renouvellement de l’adhésion»**, cela signifie qu’une ou plusieurs validations de compétences risquent d’expirer. 
+If you receive the alert: **“A recent change to your competency achievement has put your membership renewal eligibility at risk”**, this means one or more of your competency achievements is at risk of expiring. 
 
-Cela se produit généralement lorsqu’un employé qui a permis à votre entreprise de passer l’examen ou de répondre aux exigences de certification pour une validation de compétence quitte l’organisation. 
+This often happens when an employee who helped your organization meet exam or certification requirements for a competency achievement leaves your organization. 
 
-Même si le renouvellement de votre adhésion est menacé, le statut des compétences de votre entreprise continue à s’afficher jusqu’à ce que l’abonnement d’un an soit écoulé.
+Even though your membership renewal is at risk, your organization’s proficiency status continues to display until the one-year subscription has elapsed.
 
 Pour mettre à niveau votre adhésion ou la renouveler au même niveau, votre entreprise doit à nouveau satisfaire aux exigences de compétence.
 
+## <a name="related-topics"></a>Rubriques associées
+
+[Compétences requises pour le niveau d'adhésion argent et or](learn-about-competencies.md)

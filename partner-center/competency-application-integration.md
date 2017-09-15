@@ -1,86 +1,85 @@
 ---
-title: "Compétence Intégration d’applications"
-description: "La compétence Intégration d’applications reconnaît les partenaires et les développeurs qui intègrent des applications et des solutions uniques dans différents produits de l’écosystème Microsoft."
+title: Application Integration Competency
+description: The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem.
 author: Daniel Simpson
-keywords: "compétence, compétences, intégration d’applications"
-robots: noindex,nofollow
-ms.openlocfilehash: 4b690cbf419f99ec9bf7f32dced87a59a93250ed
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies, applications integration
+ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="application-integration"></a>Intégration d’applications 
-La compétence Intégration d’applications reconnaît les partenaires et les développeurs qui intègrent des applications et des solutions uniques dans différents produits de l’écosystème Microsoft. 
+# <a name="application-integration"></a>Application Integration 
+The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
 
-## <a name="application-integrator-option"></a>Option Intégrateur d’applications
+## <a name="application-integrator-option"></a>Application Integrator option
 
-L’option Intégrateur d’applications est idéale si vous préférez prouver vos compétences en réussissant des examens ou des certifications. Choisissez des examens dans le domaine spécifique de votre choix. Effectuez toutes les étapes correspondantes pour acquérir la compétence Développement d’applications.
+The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. Effectuez toutes les étapes correspondantes pour acquérir la compétence Intégration d’applications.
 
-###<a name="silver"></a>Argent
+###<a name="silver"></a>Silver
+1. **2** personnes de l’entreprise doivent réussir à la fois des examens et des évaluations.
+
+    - **2** individuals must pass any one of the following exams:
+
+        - **Windows Server** focus area
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
+
+        - **SQL Server** focus area
+
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
+
+        - **C#** focus area 
+
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
+
+        - **Azure** focus area
+
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+
+        **AND**
+
+    - **2** personnes doivent réussir l’évaluation suivante:
+
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+
+###<a name="gold"></a>Gold
 1. **4** personnes de l’entreprise doivent réussir à la fois des examens et des évaluations.
 
-    - **2** personnes doivent réussir l’un des examens suivants:
+    - **4** individuals must pass any one of the following exams:
 
-        - Domaine stratégique **WindowsServer**
-            - [Examen70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuration de services WindowsServer2012 avancés
-            - [Examen70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, stockage et calcul avec WindowsServer2016
-            - [Examen70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Gestion de réseau avec WindowsServer2016
-            - [Examen70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identité avec WindowsServer2016
+        - **Windows Server** focus area
 
-        - Domaine stratégique **SQLServer**
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-            - [Examen70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administration de bases de données MicrosoftSQLServer2012
-            - [Examen70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Développement de bases de données MicrosoftSQLServer2012
-            - [Examen70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Développement de bases de données SQL
-            - [Examen70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administration d’une infrastructure de base de données SQL
+        - **SQL Server** focus area
 
-        - Domaine stratégique **C#** 
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-            - [Examen70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programmation enC#
+        - **C#** focus area 
 
-        - Domaine stratégique **Azure**
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-            - [Examen70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Développement de services WindowsAzure et Web
-            - [Examen70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Développement de solutions MicrosoftAzure
+        - **Azure** focus area
 
-        **ET**
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-    - **2** autres personnes doivent réussir l’évaluation suivante:
+        **AND**
 
-        - [Évaluation de la compétence technique BizTalk pour l’intégration d’applications (BizTalkServer2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
-
-###<a name="gold"></a>Or
-1. **8** personnes de l’entreprise doivent réussir à la fois des examens et des évaluations.
-
-    - **4** personnes doivent réussir l’un des examens suivants:
-
-        - Domaine stratégique **WindowsServer**
-
-            - [Examen70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuration de services WindowsServer2012 avancés
-            - [Examen70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, stockage et calcul avec WindowsServer2016
-            - [Examen70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Gestion de réseau avec WindowsServer2016
-            - [Examen70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identité avec WindowsServer2016
-
-        - Domaine stratégique **SQLServer**
-
-            - [Examen70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administration de bases de données MicrosoftSQLServer2012
-            - [Examen70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Développement de bases de données MicrosoftSQLServer2012
-            - [Examen70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Développement de bases de données SQL
-            - [Examen70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administration d’une infrastructure de base de données SQL
-
-        - Domaine stratégique **C#** 
-
-            - [Examen70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programmation enC#
-
-        - Domaine stratégique **Azure**
-
-            - [Examen70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Développement de services WindowsAzure et Web
-            - [Examen70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Développement de solutions MicrosoftAzure
-
-        **ET**
-
-    - **4** autres personnes doivent réussir l’évaluation suivante:
+    - **4** personnes doivent réussir l’évaluation suivante: Celle-ci peut être effectuée par les mêmes 4personnes qui ont réussi l’examen ci-dessus. :
 
         - [Évaluation de la compétence technique BizTalk pour l’intégration d’applications (BizTalkServer2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 

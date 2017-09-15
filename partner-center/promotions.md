@@ -1,53 +1,53 @@
 ---
-title: Promotions commerciales dans le programme Fournisseur de solutions Cloud | Espace partenaires
-description: "En tant que fournisseur indirect éligible, vous pouvez profiter d’offres d’abonnement à taux réduit et en faire bénéficier vos clients."
+title: Utilisez des promotions pour attirer de nouveaux clients | Espace partenaires
+description: "En tant que partenaireMicrosoft du programme Fournisseur de solutions Cloud, vous pouvez acheter des abonnements à un tarif promotionnel et en faire bénéficier vos clients."
 author: MaggiePucciEvans
-robots: noindex,nofollow
-ms.openlocfilehash: a78c93d9d6c25ea138bb9d18541c324fb44d22b6
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: ee86b07deee9fa62ce40d9926b98d7c80f48c7a6
+ms.sourcegitcommit: d4a055eb0a910911f6cf1618cf6f20ff3405a41c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/24/2017
 ---
-# <a name="subscription-sales-promotions-for-indirect-providers-in-csp"></a>Promotions commerciales sur les abonnements pour les fournisseurs indirects du programme Fournisseur de solutions Cloud
+# <a name="use-promotions-to-attract-new-customers"></a>Utilisez des promotions pour attirer de nouveaux clients  
 
-**S’applique à: Espaces partenaires**
+**Applies to: Partner Center**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Microsoft propose parfois des réductions sur les abonnements basés sur les licences pour les ***fournisseurs indirects*** éligibles, ce qui permet d’attirer de nouveaux clients et de développer votre activité de fournisseur de solutions Cloud. 
+Microsoft propose parfois des promotions sur les abonnements basés sur les licences, ce qui vous permet de faire bénéficier vos clients de cette baisse de prix et de développer votre activité. 
 
-Les remises sont automatiquement appliquées au prix net lorsque vous achetez de nouveaux abonnements au taux réduit. En outre, les licences que vous ajoutez à un abonnement réduit sont également ajoutées au taux réduit. 
+Microsoft propose deux types de promotions: celles qui sont proposées à tous les partenaires éligibles du programme Fournisseur de solutions Cloud (CSP) et celles qui sont réservées aux partenaires d’une zone géographique spécifique.
 
->**Remarque**<br>
-Microsoft propose deux types d’offres: celles qui sont proposées à tous les fournisseurs indirects éligibles et celles qui sont réservées aux fournisseurs indirects d’une zone géographique spécifique.
+Les tarifs promotionnels sont automatiquement appliqués au prix net lorsque vous achetez de nouveaux abonnements au prix promotionnel. En outre, les licences que vous ajoutez à un abonnement acheté à un tarif promotionnel sont également ajoutées au prix promotionnel. 
 
 Prenez le temps de passer en revue ces informations importantes relatives aux promotions:
 
--   Le taux réduit d’un abonnement s’applique uniquement à la durée de l’abonnement. Lorsqu’un abonnement à taux réduit expire, le coût du renouvellement de l’abonnement repasse au prix figurant dans la liste de prix. Cela signifie que les abonnements dont le renouvellement est automatique seront renouvelés au prix en vigueur. Vous trouverez la liste de prix sur la page **Tarification et offres**. 
+-   Le prix promotionnel d’un abonnement s’applique uniquement à la durée de l’abonnement. Lorsqu’un abonnement acheté à prix promotionnel expire, le coût du renouvellement de l’abonnement repasse au prix figurant dans la liste de prix. Cela signifie que les abonnements dont le renouvellement est automatique seront renouvelés au prix en vigueur. Vous trouverez la liste de prix sur la page **Tarification et offres**. 
 
--   Si un abonnement peut bénéficier de plusieurs remises, la remise la plus élevée est automatiquement appliquée
+-   Si un abonnement est éligible pour plusieurs promotions, la promotion offrant le pourcentage le plus élevé est automatiquement appliquée.
 
--   En cas d’annulation, la procédure et la stratégie sont les mêmes que celles applicables aux abonnements à prix régulier
+-   En cas d’annulation d'abonnements à prix promotionnel, la procédure et la stratégie sont les mêmes que celles applicables aux abonnements à prix régulier
 
 ## <a name="see-available-promotions"></a>Voir les promotions disponibles
 
-Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **Promotions** à partir du menu **Tableau de bord** pour afficher la liste des promotions en cours ainsi que la remise, le type de promotion et les dates de début et de fin de l’abonnement. 
+Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **Promotions** à partir du menu **Tableau de bord** pour afficher la liste des promotions en cours ainsi que la remise, le type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
 
->**Remarque**<br>
-Vous pouvez également afficher les promotions lorsque vous effectuez un achat. Lorsque vous sélectionnez un abonnement, le pourcentage de remise s’affiche sur la page **Révision**.
+>**Note**<br>
+You can also see promotions when making a purchase. Lorsque vous sélectionnez un abonnement, le tarif promotionnel s’affiche sur la page **Révision**.
 
-## <a name="purchase-subscriptions-at-discounted-prices"></a>Acheter des abonnements à prix réduit
+## <a name="purchase-subscriptions-at-promotion-prices"></a>Acheter des abonnements à prix promotionnel
 
-1. Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis sélectionnez le client qui achète l’abonnement. 
+1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
 
-2. Sélectionnez **Ajouter un abonnement**.
+2. Select **Add subscription**.
 
-3. Sur la page **Nouvel abonnement**, sélectionnez l’abonnement à taux réduit.
+3. Sur la page **Nouvel abonnement**, sélectionnez l’abonnement auquel la promotion s'applique.
 
-4. Entrez le nombre de licences requises par le client. 
+4. Enter the number of licenses the customer needs. 
 
-5. Vérifiez la commande, puis sélectionnez **Soumettre** pour acheter le nouvel abonnement à taux réduit. Le client verra le prix réduit sur sa prochaine facture.  
+5. Vérifiez la commande. Le tarif promotionnel doit être appliqué dans la colonne **Remise**.  
+
+6.  Sélectionnez **Soumettre** pour procéder à l'achat. Le client verra le prix promotionnel sur sa prochaine facture.  
 
 
 

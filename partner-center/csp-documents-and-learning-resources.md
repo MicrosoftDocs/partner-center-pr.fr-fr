@@ -1,75 +1,75 @@
 ---
-title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
-description: Cet article inclut des liens vers des guides du programme, des contrats de partenariat, des contrats client, des listes de prix et des offres pour fournisseurs de solutions Cloud.
+title: CSP agreements, price lists, and offers | Partner Center
+description: This article includes links to Cloud Solution Provider program guides, partner agreements, customer agreements, price lists, and offers.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-ms.openlocfilehash: 17e792f550f54a74e29c82f8eee4fbd58311d362
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 239d4834b1699336f73fdd67a1423cb826415cf6
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 09/01/2017
 ---
-# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
+# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Cloud Solution Provider agreements, price lists, and offers
 
-**S'applique à**
+**Applies to**
 
--  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
-
-
-Lisez attentivement les informations contenues dans cet article pour comprendre les conditions de participation au programme Fournisseur de solutions Cloud de Microsoft. 
-
-## <a href="" id="programguide"></a>Guide du programme Fournisseur de solutions Cloud
+-  Partner Center
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
 
-Examinez les conditions requises pour devenir un partenaire dans le programme Fournisseur de solutions Cloud.
+Review the information in this article to understand the requirements for participating in Microsoft's Cloud Solution Provider (CSP) program. 
 
-[Guide du programme pour les partenaires fournisseurs de solutions Cloud](http://go.microsoft.com/fwlink/p/?LinkId=617100)
-
-## <a href="" id="partneragreement"></a>Contrat de partenariat Fournisseur de solutions Cloud
+## <a href="" id="programguide"></a>Cloud Solution Provider program guide
 
 
-Microsoft exige que les partenaires signent le présent contrat pour rejoindre le programme Fournisseur de solutions Cloud. Lisez attentivement ce guide pour le marché ou le Cloud national dans lequel vous envisagez de vendre.
+Review requirements for becoming a partner in the Cloud Solution Provider program.
 
-[Contrat de revendeur Microsoft Cloud: Amérique du Nord, Amérique Centrale, Amérique du Sud et Les Antilles](http://go.microsoft.com/fwlink/p/?LinkId=617094)
+[Program guide for Cloud Solution Provider partners](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
-[Contrat de revendeur Microsoft Cloud: Asie, Australie et Pacifique](http://go.microsoft.com/fwlink/p/?LinkId=617095)
-
-[Contrat de revendeur Microsoft Cloud: Europe, Moyen-Orient et Afrique](http://go.microsoft.com/fwlink/p/?LinkId=617096)
-
-[Contrat de revendeur Microsoft Cloud: Japon](http://go.microsoft.com/fwlink/p/?LinkId=617097)
-
-[Contrat de revendeur Microsoft Cloud: Corée du Sud](http://go.microsoft.com/fwlink/p/?LinkId=617098)
-
-[Contrat de revendeur Microsoft Cloud: Taïwan](http://go.microsoft.com/fwlink/p/?LinkId=617099)
-
-[Contrat de revendeur Microsoft Cloud: Microsoft Cloud Germany](https://go.microsoft.com/fwlink/p/?linkid=831385)
-
-[Contrat de revendeur Microsoft Cloud: MicrosoftCloud pour le gouvernement des États-Unis](https://go.microsoft.com/fwlink/p/?linkid=843364)
-
-## <a href="" id="customeragreementtemplate"></a>Modèles de contrat client
+## <a href="" id="partneragreement"></a>Cloud Solution Provider partner agreement
 
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez examiner avec vos clients les conditions générales de Microsoft, y compris l'utilisation acceptable des produits et services Microsoft. Suivez le lien ci-dessous pour trouver le ou les contrats que vous devez examiner avec les nouveaux clients. 
+Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program. Review the guide for the market or national cloud in which you plan to sell.
 
-[Modèles de contrat client](agreements.md)
+[Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
 
-## <a name="pricing"></a>Tarification
+[Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
+
+[Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
+
+[Microsoft Cloud Reseller agreement – Japan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
+
+[Microsoft Cloud Reseller agreement – Korea](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
+
+[Microsoft Cloud Reseller agreement – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
+
+[Microsoft Cloud Reseller agreement - Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+
+[Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
+
+## <a href="" id="customeragreementtemplate"></a>Customer agreement templates
 
 
-Téléchargez les détails de la tarification des services basée sur les licences et basée sur l’utilisation à partir de la page **Tarification et offres** accessible à partir de votre menu **Tableau de bord**. 
+As a partner in CSP, you're responsible for reviewing Microsoft’s terms and conditions, including the acceptable use of Microsoft products and services, with your customers. Follow the link below to find the customer agreement(s) you'll need to review with new customers. 
 
-La liste de prix basée sur les licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30jours avant qu’elle n’entre en vigueur. Office365, Enterprise Mobility Suite et MicrosoftDynamics CRM sont des exemples de services basés sur les licences. 
+[Customer agreement templates](agreements.md)
 
-La tarification basée sur l’utilisation est dynamique et change fréquemment. MicrosoftAzure est un exemple de service basé sur l’utilisation.
-
-
-## <a name="offers"></a>Offres
+## <a name="pricing"></a>Pricing
 
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez vendre à vos clients Office365, Enterprise Mobility Suite, Microsoft DynamicsCRM et Microsoft Azure. Pour plus d’informations sur les offres et offres groupées de produits disponibles à la vente dans ces familles de produits, consultez le tableau des fournisseurs de solutions Cloud dans la page **Tarification et offres** accessible à partir de votre menu **Tableau de bord**. Ce document est mis à jour chaque mois.
+Download pricing details for both license-based and usage-based services from the **Pricing and offers** page, available from your **Dashboard** menu. 
 
-Pour les fournisseurs de solutions Cloud partenaires qui utilisent l’API d’enregistrement de l’utilisation Crest, Microsoft publie également une liste des services Azure pour les fournisseurs de solutions Cloud dans la page **Tarification et offres**.
+The license-based price list is updated monthly, and Microsoft releases new pricing 30 days before it takes effect. Examples of license-based services include Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM. 
+
+Usage-based pricing is dynamic and changes frequently. Examples of usage-based services include Microsoft Azure.
+
+
+## <a name="offers"></a>Offers
+
+
+As a partner in CSP, you can sell Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM, and Microsoft Azure to customers. For more information about which offers and product bundles are available to sell within these product families, see the CSP offer matrix on the **Pricing and offers** page, available from your **Dashboard** menu. This document is updated monthly.
+
+For CSP partners who use the Crest Usage Record API, Microsoft also publishes a list of the Azure Services in CSP on the **Pricing and offers** page.
 
 

@@ -1,45 +1,46 @@
 ---
-title: Demander une relation avec un client | Espace partenaires
-description: "La demande de relation est utilisée pour les scénarios de type Multipartenaire et Multicanal. Elle est également utile si un client supprime vos privilèges d’administration délégués et si vous devez les restaurer pour fournir des services d’approvisionnement ou de support."
+title: Request a relationship with a customer | Partner Center
+description: Requesting a relationship is used for multi-partner and multi-channel scenarios. It's also useful if a customer removes your delegated admin privileges and you need to restore them to provide provisioning or support.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
+ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 07/19/2017
 ---
-# <a name="connect-with-customers-in-partner-center"></a>Se connecter à des clients dans l'Espace partenaires
+# <a name="connect-with-customers-in-partner-center"></a>Connect with customers in Partner Center
 
-**S'applique à**
+**Applies to**
 
--  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+-  Partner Center
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
-Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit accorder des autorisations d’administrateur pour ce service. Pour obtenir des autorisations d’administrateur de la part d’un client, envoyez-lui une demande de relation de revendeur par courrier électronique. Lorsque le client aura approuvé votre demande, vous serez en mesure d’ouvrir une session sur le portail d’administration du service et de gérer le service pour le compte du client. 
+To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service. To get administrator permissions from a customer, email them a reseller relationship request. After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf. 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invite a customer to establish a reseller relationship with you
 
-1.  Sélectionnez **Clients** à partir de votre menu **Tableau de bord**, puis sélectionnez **Demander une relation de revendeur**.
+1.  Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.
 
-2.  Sur la page suivante, vérifiez le brouillon du message électronique. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie électronique par défaut ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
+2.  On the next page, review the draft email message. You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email. 
 
-    Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte. Sélectionnez **OK** lorsque vous avez terminé cette étape.
+    You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account. Select **Done** when you’ve completed this step.
 
-3.  Envoyez le message électronique au client.
+3.  Send the email to your customer.
 
-4.  Une fois qu'il a accepté l’invitation, le client s’affiche sur votre page **Clients** et vous pouvez approvisionner et gérer son service à partir de cet emplacement.
+4.  After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.
 
- >**Remarque**<br>
-    Dans un scénario multicanal, un seul partenaire peut avoir des autorisations d’administrateur pour gérer un service pour le compte du client. 
+ >**Note**<br>
+    In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf. 
 
-5.  Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
+5.  To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.
 
 
 >**Important**<br>
-Les clients peuvent réattribuer ou supprimer des autorisations d’administrateur sur le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, vous pouvez appeler le support Microsoft pour ouvrir une demande de service de la part du client.
+Customers can reassign or remove administrator permisions in a service's admin portal. However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions. In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.
 
-## <a name="related-topics"></a>Rubriques associées
+## <a name="related-topics"></a>Related topics
 
-[Supprimer une relation](remove-a-relationship.md)
+[Assigner des contacts de support](assign-support-contacts.md)
+[Supprimer une relation avec un client](remove-a-relationship.md)

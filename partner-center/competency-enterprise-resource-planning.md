@@ -1,86 +1,93 @@
 ---
-title: "Compétence Planification des ressources d’entreprise"
-description: "Devenez partenaire de Microsoft en démontrant la capacité de votre entreprise à développer et déployer des solutions MicrosoftDynamics répondant aux besoins de planification des ressources d’entreprise."
+title: Enterprise Resource Planning Competency
+description: "Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs."
 author: Daniel Simpson
-keywords: "compétence, compétences, Planification des ressources d’entreprise"
-robots: noindex,nofollow
-ms.openlocfilehash: d4bf2ab195776dfafea9f6e69db0667df28a5816
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Enterprise Resource Planning
+ms.openlocfilehash: 7608e8bb44134fde6ff05db360db9fd2ccb04d7d
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="enterprise-resource-planning"></a>Planification des ressources d’entreprise 
-Devenez partenaire de Microsoft en démontrant la capacité de votre entreprise à développer et déployer des solutions MicrosoftDynamics répondant aux besoins de planification des ressources d’entreprise.
+#<a name="enterprise-resource-planning"></a>Enterprise Resource Planning 
+Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
 
-##<a name="erp-reseller-option"></a>Option Revendeur ERP
-L’option Revendeur ERP est idéale pour les partenaires qui souhaitent démontrer leur capacité à se conformer aux seuils de chiffre d’affaires et aux exigences d’examens. Effectuez toutes les étapes correspondantes pour acquérir la compétence Planification de ressources d’entreprise.
+##<a name="erp-reseller-option"></a>ERP Reseller option
+The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
 
-###<a name="silver"></a>Argent
+###<a name="silver"></a>Silver
 
-1. Votre entreprise doit se conformer aux seuils de performance.
+1. Your organization must meet the performance thresholds.
 
-    **Marchés développés**
-    - Le partenaire doit avoir atteint un chiffre d’affaires brut annuel total de 75000USD pour les licences
-    - Réalisez le chiffre d’affaires exigé pour MicrosoftDynamicsAX On Premise et DynamicsAXOnline; DynamicsGP, DynamicsSL, DynamicsNAV et/ou Dynamics365Plan2.  
+    - **Developed Markets**
+        - Partner must have earned a total annual gross license revenue of US$75,000
+       
+    - **Marchés en développement**
+        - Le partenaire doit avoir atteint un chiffre d’affaires brut annuel total de 40000USD pour les licences
+ 
+    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
+
+2. Your organization must have **5** individuals pass the exam requirements.
+
+    - **1** individual must pass the following exam:
+        - Exam [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction
+
+    **AND**
+
+    - Another individual must pass the following exam:
+        - [Exam MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade
+
+    **AND**
+
+    - Another individual must pass the following exam:
+        - [Exam MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials
+
+    **AND**
+
+    - Another individual must pass the following exam:
+        - [Exam MB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration
+
+    **AND**
+
+    - Another individual must pass the following exam:
+        - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+
+###<a name="gold"></a>Gold
+
+1. Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+    -   Le partenaire doit avoir atteint un chiffre d’affaires brut annuel total de 175000USD pour les licences
   
-2. **5** personnes de votre entreprise doivent satisfaire aux exigences d’examens.
+    - **Marchés en développement**
+        - Le partenaire doit avoir atteint un chiffre d’affaires brut annuel total de 75000USD pour les licences 
 
-    - **1** personne doit réussir l’examen suivant:
-        - Examen[MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): MicrosoftDynamicsAX - Introduction au développement
+    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
 
-    **ET**
+2. Your organization must have **5** individuals pass the exam requirements.
 
-    - Une autre personne doit réussir l’examen suivant:
-        - [ExamenMB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): MicrosoftDynamicsAX - Distribution et commerce
+    - **1** individual must pass the following exam:
+        - [Exam MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction
 
-    **ET**
+    **AND**
 
-    - Une autre personne doit réussir l’examen suivant:
-        - [ExamenMB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): MicrosoftDynamicsAX - Finances
+    - Another individual must pass the following exam:
+        - [Exam MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade
 
-    **ET**
+    **AND**
 
-    - Une autre personne doit réussir l’examen suivant:
-        - [ExamenMB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): MicrosoftDynamicsAX2012R3CU8 - Installation et configuration
+    - Another individual must pass the following exam:
+        - [Exam MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials
 
-    **ET**
+    **AND**
 
-    - Une autre personne doit réussir l’examen suivant:
-        - [Examen70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administration de bases de données MicrosoftSQLServer2012
+    - Another individual must pass the following exam:
+        - [Exam MB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration
 
-###<a name="gold"></a>Or
+    **AND**
 
-1. Votre entreprise doit se conformer aux seuils de performance.
-
-    **Marchés développés**
-    - Le partenaire doit avoir atteint un chiffre d’affaires brut annuel total de 75000USD pour les licences
-    - Réalisez le chiffre d’affaires exigé pour MicrosoftDynamicsAX On Premise et DynamicsAXOnline; DynamicsGP, DynamicsSL, DynamicsNAV et/ou Dynamics365Plan2.  
-  
-2. **5** personnes de votre entreprise doivent satisfaire aux exigences d’examens.
-
-    - **1** personne doit réussir l’examen suivant:
-        - [ExamenMB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): MicrosoftDynamicsAX - Introduction au développement
-
-    **ET**
-
-    - Une autre personne doit réussir l’examen suivant:
-        - [ExamenMB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): MicrosoftDynamicsAX - Distribution et commerce
-
-    **ET**
-
-    - Une autre personne doit réussir l’examen suivant:
-        - [ExamenMB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): MicrosoftDynamicsAX - Finances
-
-    **ET**
-
-    - Une autre personne doit réussir l’examen suivant:
-        - [ExamenMB6-705](https://www.microsoft.com/en-us/learning/exam-mb6-705.aspx): MicrosoftDynamicsAX2012R3CU8 - Installation et configuration
-
-    **ET**
-
-    - Une autre personne doit réussir l’examen suivant:
-        - [Examen70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administration de bases de données MicrosoftSQLServer2012
+    - Another individual must pass the following exam:
+        - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
 
 
 

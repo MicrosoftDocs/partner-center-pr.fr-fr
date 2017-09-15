@@ -1,126 +1,131 @@
 ---
-title: Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
-description: "En tant que fournisseur indirect ou distributeur, vous pouvez travailler en partenariat avec des revendeurs indirects pour accroître votre rayonnement."
+title: Partner with indirect resellers in CSP | Partner Center
+description: As an indirect provider, or distributor, you can partner with indirect resellers to expand your reach.
 author: MaggiePucciEvans
-ms.openlocfilehash: c8f120ca8b063d233aa3b8e1cf1b5009e11eb010
-ms.sourcegitcommit: ae393b4e33e1fae17169057225f6cd522f158354
+ms.openlocfilehash: 85dd503529bda8ef5fa5d67ea04a7aafd85debe1
+ms.sourcegitcommit: e79f756c7203751b8fd6ad26883a0568c91a6c8b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2017
+ms.lasthandoff: 08/16/2017
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner with indirect resellers in the Cloud Solution Provider program
 
-Dans un marché des technologies aux évolutions aussi rapides et complexes, les clients veulent profiter de l'avantage concurrentiel que les solutions technologiques peuvent leur offrir. Dans ce contexte, il est judicieux que les partenaires s'investissent dans des relations avec d'autres partenaires afin d'étendre les offres et de permettre aux clients d'être encore plus productifs.
+With such a complex and rapidly changing technology marketplace, customers want the competitive edge that technology solutions can give them. In such a climate, it makes sense for partners to invest in partner-to-partner engagement to extend offerings and enable customers to do even more.
 
-Des nouveaux revendeurs entrent sur le marché et cherchent à proposer leurs solutions aux clients situés en dehors de leur zone d'activité et de leurs marchés. En tant que fournisseur de technologie reconnu, vous êtes bien placé pour leur servir de tremplin sur le marché. Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud pour établir des relations avec d’autres partenaires, lancer de nouvelles solutions sur le marché et faire progresser l’adoption des services Cloud par les clients.
+New resellers are entering the market and seeking ways to offer their solutions to customers outside of their markets and locales. As an established technology provider, you're well-positioned to be their route to market. Partner with indirect resellers in the Cloud Solution Provider (CSP) program to connect with other partners, bring new solutions to the market, and advance customers’ adoption of cloud services.
 
-Dans le modèle du fournisseur-revendeur indirect (deux niveaux), vous travaillez en partenariat avec des revendeurs indirects pour proposer des solutions Microsoft Could aux clients. Vous achetez des produits et des abonnements directement auprès de Microsoft, puis proposez ces solutions aux clients par le biais de vos revendeurs. 
+In the indirect provider-reseller (two-tier) model, you partner with indirect resellers to offer Microsoft cloud solutions to customers. You purchase products and subscriptions directly from Microsoft and then offer these solutions to customers through your resellers. 
 
-En tant que fournisseur indirect, vous utilisez l'Espace partenaires pour:
+As an indirect provider, you use Partner Center to:
 
--   entrer en contact avec des revendeurs indirects susceptibles de vous aider à accroître votre rayonnement et votre clientèle;
--   établir des partenariats avec des revendeurs indirects qui vous permettent de servir ensemble des clients communs;
--   désigner des revendeurs indirects pour gérer des abonnements et des clients spécifiques; 
--   gérer vos relations avec Microsoft, les clients et les revendeurs indirects, au même endroit.
+-   Connect with indirect resellers who can help expand your reach and customer base
+-   Establish partnerships with indirect resellers that allow you both to serve common customers
+-   Designate indirect resellers to manage specific customers and subscriptions 
+-   Manage your relationships with Microsoft, customers, and indirect resellers all in one place
+-   Figurer dans la [liste des fournisseurs indirects officiels de Microsoft](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) 
 
-Pour en savoir plus sur le modèle indirect dans le programme Fournisseur de solutions Cloud, voir [Découvrez le modèle indirect](https://partner.microsoft.com/cloud-solution-provider/indirect) sur le [site Web MicrosoftPartner Network]( https://partner.microsoft.com). 
 
-## <a name="indirect-provider-tasks-on-partner-center"></a>Tâches des fournisseurs indirects dans l'Espace partenaires
+Pour en savoir plus sur le modèle indirect dans le programme des fournisseurs de solutions Cloud (CSP), voir [Découvrez le modèle indirect](https://partner.microsoft.com/cloud-solution-provider/indirect) sur le [site Web MicrosoftPartner Network]( https://partner.microsoft.com). 
 
-Procédez comme suit pour établir et gérer votre partenariat avec des revendeurs indirects et des clients dans l'Espace partenaires. Chaque étape est décrite plus en détail ci-dessous.
+## <a name="indirect-provider-tasks-on-partner-center"></a>Indirect provider tasks on Partner Center
 
-1.    Entrer en contact avec des revendeurs indirects
+Procédez comme suit pour établir et gérer votre partenariat avec des revendeurs indirects et des clients dans l'Espace partenaires. Les étapes2 et 3 sont décrites plus en détail ci-dessous.
 
-    - Avant de pouvoir interagir et effectuer des transactions avec des revendeurs, vous devez établir des partenariats avec eux dans l’Espace partenaires. 
+1.  Vérifiez le profil de votre société dans la [liste des fournisseurs indirects officiels de Microsoft](https://partnercenter.microsoft.com/en-us/partner/find-a-provider). 
 
-2.    Entrer en contact avec les clients
+    -   Pour apporter des modifications au profil de fournisseur indirect de votre société, soumettez une demande de support de l'Espace partenaires avec le nom de votre société, son logo et l’URL cible pour chaque emplacement. Nous mettrons à jour votre profil dans les deux à trois semaines.<br>
 
-    - Associer de nouveaux clients et abonnements à des revendeurs
-    - Établir des relations de revendeur avec les clients existants
- 
+2.  Entrer en contact avec des revendeurs indirects
 
-Après avoir effectué ces étapes, vous pouvez gérer vos partenariats avec les revendeurs dans la page **Revendeurs indirects** à partir de votre menu **Tableau de bord**.
+    - Before you can interact and transact with resellers, you must establish partnerships with them in Partner Center. <br>
 
->**Important**<br> Pour pouvoir commencer à travailler avec des revendeurs dans l'Espace partenaires, il faut qu'ils soient d'abord inscrits comme revendeurs indirects dans le programme Fournisseur de solutions Cloud et qu'ils disposent de comptes Espace partenaires. Orientez vos revendeurs vers la page [Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center) pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud. 
+3.  Connect with customers
 
-## <a name="connect-with-indirect-resellers"></a>Entrer en contact avec des revendeurs indirects
+    - Associate new customers and subscriptions to resellers
+    - Establish reseller relationships with existing customers <br>
 
-Pour interagir et effectuer des transactions avec des revendeurs indirects dans l'Espace partenaires, vous devez établir un partenariat avec eux. Un partenariat avec un revendeur indirect vous permet de servir ensemble des clients communs.
+After you complete these steps, you can manage your reseller partnerships on the **Indirect resellers** page from your **Dashboard** menu.
 
-Pour établir un partenariat, envoyez une demande de partenariat par courrier électronique au revendeur. Veillez à vous munir de l'adresse de messagerie du revendeur avant de commencer. 
+>**Important**<br> Before you can start working with resellers on Partner Center, they must be enrolled as indirect resellers in the CSP program and have Partner Center accounts. Point your resellers to [Partner with indirect providers in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) for information about enrolling in CSP. 
 
-1. Sélectionnez **Revendeurs indirects** dans votre menu **Tableau de bord**. 
+## <a name="connect-with-indirect-resellers"></a>Connect with indirect resellers
 
-2. Dans la page **Revendeurs indirects**, sélectionnez **Demander un partenariat**. Un brouillon de message électronique s’affiche.
+To interact and transact with indirect resellers in Partner Center, you must establish a partnership with them. Having a partnership with an indirect reseller allows you and the reseller to both serve common customers.
 
-3. Sélectionnez **Ouvrir un courrier électronique** pour ouvrir le message dans votre application de messagerie par défaut, ou sélectionnez **Copier dans le Presse-papiers** pour copier et coller le message dans un message électronique. Sélectionnez **OK** lorsque vous avez terminé.
+To establish a partnership, email a partnership request to the reseller. Be sure to have the reseller’s email address on hand before you get started. 
 
-   >**Important** Vous pouvez modifier le texte dans le message électronique, mais veillez à inclure le lien, car il est personnalisé pour votre compte Espace partenaires.
+1. Select **Indirect resellers** from your **Dashboard** menu. 
 
-4. Une fois que le revendeur accepte votre demande de partenariat, il apparaît dans votre liste de revendeurs indirects et vous pouvez effectuer les opérations suivantes: 
+2. On the **Indirect resellers** page, select **Request a partnership**. A draft email message appears.
 
-    -   Ajouter de nouveaux clients en son nom
-    -   Envoyer des commandes pour le compte de ses clients 
-    -   L'associer à un abonnement de manière à pouvoir le gérer au nom du client qui l'a acheté
-    -   Le désigner comme contact de support du client pour les abonnements spécifiques
+3. Select **Open in email** to open the message in your default email application, or select **Copy to clipboard** to copy and then paste the message into an email. Select **Done** when finished.
 
-En fonction du niveau d’accès et de participation que vous souhaitez accorder au revendeur, vous pouvez souhaiter effectuer une ou plusieurs des actions décrites ci-dessous.
+   >**Important** You can edit the text in the email message, but be sure to include the link as it is personalized for your Partner Center account.
 
-| **Pour effectuer cette opération** | **Procéder comme suit** | **Où** |
+4. After the reseller accepts your partnership request, they’ll appear in your indirect resellers list, and you’ll be able to: 
+
+    -   Add new customers on their behalf
+    -   Submit orders on behalf of their customers 
+    -   Associate them with a subscription so they can manage it on behalf of the customer who purchased it
+    -   Designate them as the customer’s support contact for specific subscriptions
+
+Depending on the level of access and involvement you want the reseller to have, you may want to take one or more of the actions described below.
+
+| **To accomplish this** | **Do this** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| Permettre au revendeur de gérer le compte d’un client et de disposer d’autorisations d’administrateur pour gérer leurs abonnements | Associer un revendeur à un compte client lorsque vous ajoutez un nouveau client | Dans la page **Nouveau client** |
-| Donner au revendeur un crédit pour des primes | Associer le revendeur à l’abonnement (nouveau ou existant) | Dans la page **Nouvel abonnement** |
-| Déléguer le support client pour certains abonnements au revendeur | Sélectionnez le revendeur dans la liste **Contact de support désigné** | Dans la page des détails de l’abonnement: sélectionnez le client dans votre page **Clients**, puis sélectionnez l’abonnement dans la page **Abonnements** du client |
+| Enable the reseller to manage a customer’s account and have administrator permissions to manage their subscriptions | Associate a reseller to a customer account when adding a new customer | On the **New customer** page |
+| Give the reseller credit for incentives | Associate the reseller to the subscription (new or existing) | On the **New subscription** page |
+| Delegate customer support for specific subscriptions to the reseller | Select the reseller from the **Designated support contact** list | On the subscription’s detail page: Select the customer from your **Customers** page, then select the subscription from the customer’s **Subscriptions** page |
 
 
-## <a name="connect-with-customers"></a>Entrer en contact avec les clients
+## <a name="connect-with-customers"></a>Connect with customers
 
-Lorsque vous obtenez de nouveaux clients, vous devez créer des comptes pour eux dans l’Espace partenaires. Lorsque vous ajoutez un nouveau compte client, vous pouvez désigner un revendeur spécifique pour gérer le compte et administrer les abonnements et les services du client en son nom. 
+When you get new customers, you need to create accounts for them in Partner Center. When you add a new customer account, you can designate a specific reseller to manage the account and administer the customers’ subscriptions and services on their behalf. 
 
-Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez la gestion du compte et de l'abonnement au revendeur. Cela signifie que le revendeur dispose d’un accès administrateur aux abonnements et aux services du client et peut les gérer pour le compte du client.
+When you associate a reseller with a new customer account, you are delegating account and subscription management to the reseller. This means that the reseller has administrator access to the customer’s subscriptions and services and can manage them on behalf of the customer.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Ajouter de nouveaux clients et les associer aux revendeurs indirects
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Add new customers and associate them with indirect resellers
 
-1.    Sélectionnez **Revendeurs indirects** dans votre menu **Tableau de bord**. 
+1.  Select **Indirect resellers** from your **Dashboard** menu. 
 
-2.    Trouvez le revendeur indirect que vous souhaitez attribuer aux nouveaux clients, puis sélectionnez **Ajouter un nouveau client**. Notez que le revendeur indirect est déjà sélectionné dans l’écran des détails du client. Indiquez les détails du client, puis sélectionnez **Suivant: abonnements**. 
-3.    Dans la page **Nouvel abonnement**, sélectionnez le ou les abonnements que le client souhaite acheter, puis entrez le nombre de licences dont le client a besoin. 
+2.  Find the indirect reseller that you want to assign new customers to and then select **Add new customer**. Note that the indirect reseller is already selected for you on the customer detail form. Provide the customer’s details and then select **Next: Subscriptions** . 
+3.  On the **New subscription** page, select the subscription(s) the customer wants to buy and then enter the number of licenses the customer needs. 
 
-4.    Sélectionnez **Suivant: révision**.
+4.  Select **Next: Review**.
 
-5.    Si la commande est correcte, sélectionnez **Envoyer**. Si la commande est incorrecte, sélectionnez **Annuler** pour annuler toute l’opération, puis recommencez.
+5.  If the order is correct, select **Submit**. Si la commande est incorrecte, sélectionnez **Annuler** pour annuler toute l’opération, puis recommencez.
 
-6.    Une fois la commande envoyée, la page **Confirmation* s’affiche. Sous **Informations de configuration**, le nom du compte d'administrateur et le mot de passe temporaire s'affichent. Notez le nom du compte utilisateur et le mot de passe afin de pouvoir les envoyer au nouveau client. 
+6.  Une fois la commande envoyée, la page **Confirmation** s’affiche. Sous **Informations de configuration**, le nom du compte d'administrateur et le mot de passe temporaire s'affichent. Copy down the user account name and password information so you can send it on to the new customer. 
 
-    >**Important**  Veillez à bien noter le nom du compte utilisateur et le mot de passe car vous ne pourrez plus accéder à ces informations après la fermeture de cette page.
+    >**Important**  Be sure to make a note of the user account name and password as you won’t be able to access this information again after you close this page.
 
-7.  Sélectionnez **OK**. Le nouveau client s’affiche dans votre liste de clients, associé au revendeur indirect. À présent, le revendeur dispose d’un accès administrateur pour les informations de compte et les abonnements du client et peut gérer les abonnements pour le compte du client.
+7.  Select **Done**. The new customer appears in your customer list, associated with the indirect reseller. The reseller now has admin access to the customer’s account information and subscriptions and can manage the subscriptions on the customer’s behalf.
 
-### <a name="add-new-subscriptions-to-customer-accounts"></a>Ajouter de nouveaux abonnements à des comptes client
+### <a name="add-new-subscriptions-to-customer-accounts"></a>Add new subscriptions to customer accounts
 
-Lorsque les clients veulent acheter de nouveaux abonnements, mettre à niveau ceux existants ou acheter des licences supplémentaires, vous effectuez ces modifications dans le compte du client. 
+When customers want to buy new subscriptions, upgrade existing ones, or buy additional licenses, you make these changes in the customer’s account. 
 
-1.    Sélectionnez **Clients** dans votre menu **Tableau de bord**. 
+1.  Select **Customers** from your **Dashboard** menu. 
 
-2.    Recherchez le client dont vous souhaitez modifier le compte. Vous pouvez filtrer la liste par revendeur indirect pour affiner vos choix. Développez la fiche du client en sélectionnant la flèche vers le bas, puis sélectionnez **Ajouter un abonnement**.
+2.  Find the customer whose account you want to change. You can filter the list by indirect reseller to narrow your choices. Expand the customer’s record by selecting the down arrow, and then selecting **Add subscription**.
 
-3.    Dans la page **Nouvel abonnement**, sélectionnez le ou les abonnements et entrez le nombre de licences que le client souhaite acheter. 
+3.  On the **New subscription** page, select the subscription(s) and enter the number of licenses the customer wants to purchase. 
 
-4.    Pour associer l’abonnement à un revendeur, sélectionnez le nom du revendeur dans la liste, puis sélectionnez **Envoyer**. Le fait d'associer le revendeur à un abonnement lui permet de gagner des primes, le cas échéant.
+4.  To associate the subscription with a reseller, select the reseller’s name from the list and then select **Submit**. Associating the reseller with the subscription enables them to earn incentives, if applicable.
 
-5.    Le ou les nouveaux abonnements s’affichent dans la liste des abonnements du client. 
+5.  The new subscription(s) appears in the customer’s subscriptions list. 
 
-6.    Si vous souhaitez que le revendeur gère les demandes de support technique pour le nouvel abonnement, sélectionnez l’abonnement, puis le revendeur dans la liste **Contact de support désigné**.
+6.  If you want the reseller to handle customer support requests for the new subscription, select the subscription and then select the reseller from the **Designated support contact** list.
 
-7.    Sélectionnez **Envoyer** une fois terminé. 
+7.  Select **Submit** when finished. 
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>See also
 
-Pour en savoir plus sur la gestion des comptes client et des abonnements, voir:
+For more information about managing customer accounts and subscriptions, see:
 
-[Comptes client](customer-accounts.md)
+[Customer accounts](customer-accounts.md)
 
-[Abonnements client](customer-subscriptions.md)
+[Customer subscriptions](customer-subscriptions.md)
 
 
 

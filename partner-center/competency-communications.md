@@ -1,51 +1,50 @@
 ---
-title: "Compétence Communications"
-description: "La compétence Communications reconnaît les partenaires en tant que fournisseurs de solutions SkypeEntreprise novatrices et personnalisées."
+title: Communications Competency
+description: The Communications competency recognizes partners delivering innovative and customized Skype for Business solutions.
 author: Daniel Simpson
-keywords: "compétence, compétences, Communications"
-robots: noindex,nofollow
-ms.openlocfilehash: f32c22f0f5235556c48d19c67495cf160a35e6f7
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Communications
+ms.openlocfilehash: 2dda11fd8f6a83cabe26a49b3bc3da77f5435f7c
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 #<a name="communications"></a>Communications
-La compétence Communications reconnaît les partenaires en tant que fournisseurs de solutions SkypeEntreprise novatrices et personnalisées.
+The Communications competency recognizes partners delivering innovative and customized Skype for Business solutions.
 
-##<a name="systems-integrator-option"></a>Option Intégrateur de systèmes
-Mettez votre connaissance du produit à l’épreuve en vous soumettant à des examens ou des certifications.
+##<a name="systems-integrator-option"></a>Systems Integrator option
+Put your product knowledge to the test by passing exams or certifications.
   
-###<a name="silver"></a>Argent
+###<a name="silver"></a>Silver
 
-1. **2** personnes de votre entreprise doivent réussir des examens ou acquérir une certification.
+1. Your organization must have **2** individuals pass the exams or a certification.
 
-    - **1** des **2** personnes doit réussir l’évaluation suivante:
-        - [Évaluation technique pour SkypeOperationsFramework](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16802&scoId=g6fMfp80C_5406265419)
+    - **1** of the **2** individuals must pass the following assessment:
+        - [Technical Assessment for Skype Operations Framework](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16802&scoId=g6fMfp80C_5406265419)
 
-    - **Toutes** les personnes doivent réussir les examens suivants:
-        - [Examen70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Solutions de base de SkypeEntreprise2015
-        - [Examen70-333](https://www.microsoft.com/en-us/learning/exam-70-333.aspx): Voix Entreprise SkypeEntreprise2015
+    - **All** individuals must either pass all the following exams:
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015
+        - [Exam 70-333](https://www.microsoft.com/en-us/learning/exam-70-333.aspx): Enterprise Voice Skype for Business 2015
 
-    **OU**
+    **OR**
 
-    - La certification suivante:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivité
+    - The following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
-###<a name="gold"></a>Or
+###<a name="gold"></a>Gold
 
-1. **4** personnes de votre entreprise doivent réussir des examens ou acquérir une certification.
+1. Your organization must have **4** individuals pass the exams or a certification.
 
-    - **2** des **4** personnes doivent réussir l’évaluation suivante:
-        - [Évaluation technique pour SkypeOperationsFramework](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16802&scoId=g6fMfp80C_5406265419)
+    - **2** of the **4** individuals must pass the following assessment:
+        - [Technical Assessment for Skype Operations Framework](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16802&scoId=g6fMfp80C_5406265419)
 
-    - **Toutes** les personnes doivent réussir les examens suivants:
-        - [Examen70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Solutions de base de SkypeEntreprise2015
-        - [Examen70-333](https://www.microsoft.com/en-us/learning/exam-70-333.aspx): Voix Entreprise SkypeEntreprise2015
+    - **All** individuals must either pass all the following exams:
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015
+        - [Exam 70-333](https://www.microsoft.com/en-us/learning/exam-70-333.aspx): Enterprise Voice Skype for Business 2015
 
-    **OU**
+    **OR**
 
-    - La certification suivante:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivité
+    - The following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
 

@@ -1,86 +1,87 @@
 ---
-title: "Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud | Espace partenaires"
-description: "Utilisez ces instructions pour consolider des locataires de différents pays/régions."
+title: CSP regional authorization tenant consolidation | Partner Center
+description: Use these instructions to consolidate tenants for different country/regions.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-ms.openlocfilehash: fe08fcfbb555b4913fa747d538abf08a18658e09
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 06709900a4f98c44ef0ae8505928d7c901ee8473
+ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
+# <a name="csp-regional-authorization-tenant-consolidation"></a>CSP regional authorization tenant consolidation
 
-**S'applique à**
+**Applies to**
 
--  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+-  Partner Center
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
-\[Certaines informations concernent la version préliminaire de produits susceptibles d’être considérablement modifiés d’ici leur commercialisation. Microsoft ne donne aucune garantie, expresse ou implicite, concernant les informations fournies ici.\]
+\[Some information relates to pre-released product which may be substantially modified before it's commercially released. Microsoft makes no warranties, express or implied, with respect to the information provided here.\]
 
-Utilisez ces instructions pour consolider des locataires de différents pays/régions.
+Use these instructions to consolidate tenants for different country/regions.
 
-**Remarque** Vous devez connaître tous les abonnements et le nombre de sièges de vos clients approvisionnés à partir des comptes de transition. Les partenaires réapprovisionneront ces mêmes abonnements avec le même nombre de sièges sous le nouveau compte central Fournisseur de solutions&nbsp;Cloud dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. Notez qu’aucune action n’est requise de la part du client.
+**Remarque** Vous devez connaître tous les abonnements et le nombre de sièges de vos clients approvisionnés à partir des comptes de transition. Partners will be re-provisioning those same exact subscriptions with the same seat counts under the new Central CSP account as part of the migration process. Use the export list feature to help create a list of customers to move over to the centralized tenant. Partners choose to consolidate their tenants. Once consolidation is complete, Partners cannot revert to their previous state. Note that customer action is also be required.
 
  
 
-## <a name="prepare-for-migration"></a>Préparer la migration
+## <a name="prepare-for-migration"></a>Prepare for migration
 
 
--   Ouvrez une session sur <https://partnercenter.microsoft.com> avec le compte (existant) de transition et prenez note de tous les clients et de tous les services approvisionnés pour ces clients.
+-   Log on to <https://partnercenter.microsoft.com> with the Transitioning (existing) account and take note of all customers and all of the services provisioned for those customers.
 
-![liste de clients régionaux](images/regionalcustomer1.png)
+![regional customer list](images/regionalcustomer1.png)
 
-## <a name="migrate-customer-accounts"></a>Migrer des comptes client
+## <a name="migrate-customer-accounts"></a>Migrate customer accounts
 
 
 1.  Ouvrez une session sur <https://partnercenter.microsoft.com> avec le (nouveau) compte de transition et accédez à la liste de clients à partir du tableau de bord de l’Espace partenaires.
 
-2.  Sélectionnez le client.
+2.  Select Customer.
 
-3.  Cliquez sur **Demander une relation de revendeur**. Un message électronique par défaut à présenter à vos clients s’affiche. Ce message contient une URL avec l’ID d’organisation propre à votre nouveau compte Espace partenaires.
+3.  Cliquez sur **Demander une relation de revendeur**. You are presented with a default email message to present to your customers. This message contains a URL with the org ID unique to your new Partner Center account.
 
-4.  **Action du client&nbsp;:** vérifiez que chaque client actif que vous souhaitez migrer visite cette URL. À l’ouverture de l’URL, le client est invité à se connecter au portail Office&nbsp;365. Il se connecte à l’aide du même ID d’organisation que celui utilisé pour accéder aux portails administration Windows Azure et Office&nbsp;365.
+4.  **Action du client&nbsp;:** vérifiez que chaque client actif que vous souhaitez migrer visite cette URL. When opening the URL, the customer is prompted to sign in to the Office 365 portal. The customer signs in using the same Org ID that they use to access the Azure and Office 365 admin portals.
 
-5.  Une fois connecté, l’administrateur global du compte client est invité à valider l’attribution de privilèges d’administration délégué pour le nouveau compte Fournisseur de solutions Cloud. S’il accepte, le client active la case à cocher et autorise la relation.
+5.  After signing in, the Global Admin for the customer account is prompted to submit an agreement to give delegated admin privileges to the new CSP account. If they agree, the customer selects the checkbox and agrees to authorize the relationship.
 
-Les clients s’affichent dans la liste des clients du partenaire, lorsqu’ils ont validé le présent contrat, un par un.
+The customers will appear in the partner’s customer list after they have submitted the agreement, one by one.
 
-## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migration d’abonnements Office&nbsp;365 et non Azure basés sur l’utilisation
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrating Office 365 and non-Azure usage-based subscriptions
 
 
-1.  Lorsque votre client a signé le contrat, vous pouvez recréer ses abonnements sous votre locataire partenaire centralisé.
+1.  Once your customer has signed the agreement, you can recreate their subscriptions under your Centralized Partner Tenant.
 
 2.  Dans le tableau de bord de l’Espace partenaires, cliquez sur **Clients** dans le panneau de navigation de gauche.
 
-3.  Ouvrez le nom de la société du client que vous souhaitez migrer.
+3.  Open the company name for the customer you want to migrate.
 
 4.  Cliquez sur **Ajouter un abonnement**.
 
-5.  Ajoutez les abonnements et le nombre de sièges corrects à partir du catalogue. Vérifiez avec les informations fournies dans les comptes de partenaire **Transition à partir de**.
+5.  Add the correct subscriptions and seat counts from the catalog. Vérifiez avec les informations fournies dans les comptes de partenaire **Transition à partir de**.
 
-    ![capture d’écran de la liste des clients](images/regionalcustomer2.png)
+    ![screenshot of customer list](images/regionalcustomer2.png)
 
 6.  Cliquez sur **Envoyer**.
 
 Les services sont maintenant fournis au client à partir du compte de partenaire **Transition vers**.
 
-Répétez ces étapes pour migrer les abonnements de tous les clients supplémentaires.
+Repeat these steps to migrate subscriptions for all additional customers.
 
-Avant de passer à la section suivante, vérifiez que tous les abonnements client existant sous les comptes de partenaire **Transition à partir de** sont ré-approvisionnées sous le compte de partenaire **Transition vers**.
+Before proceeding to the next section, ensure all customer subscriptions existing under the **Transitioning From** partner accounts are re-provisioned under the **Transitioning To** partner account.
 
-**Remarque** Les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir de** dans l’Espace partenaires, le jour où ces abonnements sont transférés et configurés sous le compte de locataire partenaire **Transition vers** dans l’Espace partenaires pour éviter une double facturation. Les demandes de support seront refusées pour les crédits résultant d’un chevauchement dans la facturation à cause d’une désactivation incorrecte des abonnements **Transition à partir de**.
+**Note**  Partners must suspend subscriptions on the **Transitioning From** Partner Tenant account in Partner Center the same day that those subscriptions are transitioned and set up under the **Transitioning To** Partner Tenant account in the Partner Center to ensure double billing does not occur. Support requests will be denied for credits due to any overlap in billing that occurs from not correctly setting the **Transitioning From** subscriptions to disabled.
 
  
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Désactivation des abonnements Office&nbsp;365 sous le compte de partenaire Transition à partir de
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Disabling the Office 365 subscriptions under the Transitioning From partner account
 
 
-La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comptes de partenaire **Transition à partir de** interrompt toute facturation future. Il est inutile de désactiver manuellement les abonnements Azure, car le processus de migration les désactive automatiquement.
+La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comptes de partenaire **Transition à partir de** interrompt toute facturation future. You do not have to manually disable Azure subscriptions, because Azure subscriptions are automatically disabled during the migration process.
 
 1.  Connectez-vous à <https://partnercenter.microsoft.com> avec le compte de Fournisseur de solutions Cloud **Transition à partir de** et accédez à la liste de clients.
 
-2.  Ouvrez le client avec les abonnements à désactiver, et sélectionnez la première offre à désactiver.
+2.  Open the customer with subscriptions to disable, and then select the first offer to disable.
 3.  Réglez l’abonnement sur **suspendu**, puis cliquez sur **Envoyer**.
 
     **Remarque** La suspension de l’abonnement garantit l’absence de double facturation.
@@ -89,70 +90,70 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 
     L’abonnement affiche la mention **suspendu** dans la liste des abonnements.
 
-4.  Répétez ces étapes pour tous les abonnements sous le client. Vérifiez que tous les abonnements indiquent la mention **suspendu**.
+4.  Repeat these steps for all subscriptions under the customer. Vérifiez que tous les abonnements indiquent la mention **suspendu**.
 
-5.  Sélectionnez le client suivant sur la liste et répétez le processus de désactivation de tous les abonnements.
+5.  Select the next customer on the list and repeat the process of disabling all subscriptions.
 
-## <a name="migrating-azure-usage-based-subscriptions"></a>Migration d’abonnements Azure basés sur l’utilisation
+## <a name="migrating-azure-usage-based-subscriptions"></a>Migrating Azure usage-based subscriptions
 
 
-Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de solutions Cloud Azure basés sur l’utilisation, contrairement aux abonnements Fournisseur de solutions Cloud Office&nbsp;365. Le support Microsoft Azure peut migrer les abonnements Azure ainsi que tous les services ou ressources déployés entre les comptes de revendeur Fournisseur de solutions Cloud **Transition à partir de** et le compte de revendeur Fournisseur de solutions Cloud **Transition vers**. Il n’y a aucune interruption de service pour le client pendant cette transition.
+Note that Azure usage-based CSP subscriptions do not need to be migrated manually as in the case with Office 365 CSP subscriptions. Microsoft Azure Support can migrate the Azure subscriptions as well as all deployed services or resources from the **Transitioning From** CSP reseller accounts to the **Transitioning To** CSP reseller account. There will be no disruption of service to the customer during this transition.
 
-1.  Vérifiez que les comptes client qui ont besoin d’abonnements Azure migrés ont accepté le contrat à associer au nouveau compte Fournisseur de solutions Cloud **Transition vers**.
-2.  Les partenaires signalent à Microsoft que les comptes client qui ont des abonnements Azure sont prêts à migrer, et fournissent les noms de société de ces clients.
-3.  Microsoft migre les abonnements Azure basés sur l’utilisation et avertit le partenaire lorsque la migration est terminée.
-4.  Le partenaire confirme que l’abonnement Azure sous les comptes de revendeur Fournisseur de solutions&nbsp;Cloud **Transition à partir de** affiche la mention Suspendu dans l’Espace partenaires sous la section des abonnements du client.
-5.  Le partenaire confirme que l’abonnement Azure sous le compte de revendeur Fournisseur de solutions&nbsp;Cloud **Transition à partir de** affiche la mention **Actif** dans l’Espace partenaires sous la section des abonnements du client.
+1.  Ensure that the customer accounts that need Azure subscriptions migrated have accepted the agreement to be associated with the new **Transitioning To** CSP account.
+2.  Partners notify Microsoft which customer accounts that have Azure subscriptions are ready to migrate, and provides those customer’s company names.
+3.  Microsoft migrates the Azure usage-based subscriptions and notifies the partner when the migration is complete.
+4.  The partner confirms that the Azure subscription under the **Transitioning From** CSP reseller accounts now shows suspended in the Partner Center under the customer subscriptions section.
+5.  The partner confirms that the Azure subscription under the **Transitioning To** CSP reseller account now shows a status of **active** in the Partner Center under the customer subscriptions section.
 
-    **Remarque** La désactivation des abonnements sous le client ne modifie pas l’apparence du client dans la liste de clients. Il n’y a actuellement aucune possibilité de supprimer des clients de la liste. Les partenaires doivent éviter de rajouter des abonnements à ces clients à partir de leur compte **Transition à partir de** à l’avenir.
-
-     
-
-6.  Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. Le partenaire reçoit une facture finale avec un crédit pour le nombre de jours inutilisés entre le jour de l’annulation et le dernier jour de la période de facturation. Aucune facture n’est générée après cette période de facturation finale.
-
-### <a name="notes"></a>Remarques
-
--   La désactivation de l’abonnement à partir du compte Fournisseur de solutions&nbsp;Cloud **Transition à partir de** n’affecte pas le service du client final, tant que le service est approvisionné à partir du compte Fournisseur de services&nbsp;Cloud **Transition vers** avant la désactivation.
-
--   Le client ne peut pas utiliser les abonnements et ces derniers ne génèrent pas de frais en cas de suspension ou d’annulation.
-
--   Il est actuellement impossible de supprimer complètement un client de la liste de clients.
-
--   **Remarque** Les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir de** dans l’Espace partenaires, le jour où ces abonnements sont transférés et configurés sous le compte de locataire partenaire **Transition vers** dans l’Espace partenaires pour éviter une double facturation. Microsoft ne prend pas en charge les demandes de support pour les crédits résultant d’un chevauchement dans la facturation à cause d’une suspension incorrecte des abonnements **Transition à partir de**.
+    **Remarque** La désactivation des abonnements sous le client ne modifie pas l’apparence du client dans la liste de clients. There is currently no option to remove customers from the list. Les partenaires doivent éviter de rajouter des abonnements à ces clients à partir de leur compte **Transition à partir de** à l’avenir.
 
      
 
-### <a name="simplify-migration-using-export"></a>Simplifier la migration avec l’exportation
+6.  Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. The partner will receive one final invoice with a credit for the number of unused days between the day of cancellation and the last day of the billing period. No future invoices will generate after that final billing period.
+
+### <a name="notes"></a>Notes
+
+-   Disabling the subscription from the **Transitioning From** CSP account does not impact end customer’s service provided the service was provisioned from the **Transitioning To** CSP account prior to the disable.
+
+-   Subscriptions cannot be used by the customer and do not generate charges when suspended or cancelled.
+
+-   There is currently no way to remove a customer from the Customers list completely.
+
+-   **Note**  Partners must suspend subscriptions on the **Transitioning From** Partner Tenant account in Partner Center the same day that those subscriptions are transitioned to and set up under the **Transitioning To** Partner Tenant account in the Partner Center to ensure double billing does not occur. Microsoft will not support requests for credits due to any overlap in billing which occurs from not correctly setting the **Transitioning From** subscriptions to suspended.
+
+     
+
+### <a name="simplify-migration-using-export"></a>Simplify migration using Export
 
 Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vous devez utiliser dans votre nouvelle structure consolidée&nbsp;:
 
 1.  Cliquez sur **Clients** dans votre tableau de bord pour afficher la liste des clients dans votre structure existante.
 
-2.  Ouvrez le nom de client souhaité.
+2.  Open the desired customer name.
 
 3.  Dans la page **Abonnements**, cliquez sur **Exporter les abonnements** pour exporter les détails des abonnements dans un fichier Excel.
 
-4.  Utilisez cette liste pour recréer les abonnements dans votre nouveau locataire consolidé.
+4.  Use this list to recreate the subscriptions in your new consolidated tenant.
 
-### <a name="api-registration"></a>Inscription d’API
+### <a name="api-registration"></a>API registration
 
-Pour plus d’informations sur l’inscription d’API, [consultez cette page](https://msdn.microsoft.com/en-us/library/partnercenter/mt267552.aspx).
+Pour plus d’informations sur l’inscription d’API, [consultez cette page](https://go.microsoft.com/fwlink/?linkid=847990).
 
-## <a name="partner-center-activity-log"></a>Journal d’activité de l’Espace partenaires
+## <a name="partner-center-activity-log"></a>Partner Center Activity log
 
 
-Avec le journal d’activité, les partenaires peuvent afficher un enregistrement de toutes les modifications apportées à leur locataire et qui affectent le client. Cela permet aux partenaires de suivre les modifications concernant un locataire du client.
+With the Activity log, partners can view a record of all customer-affecting changes made on their tenant. This helps partners track changes on a customer tenant.
 
-**Afficher le journal d’activité**
+**View the Activity log**
 
 1.  Dans le tableau de bord de l’Espace partenaires, cliquez sur le lien **Journal d’activité**.
 2.  Dans la page **Journal d’activité**, affichez les modifications apportées aux comptes client. Pour filtrer le journal d’activité par date, renseignez les champs **de** et **à** afin de limiter le nombre d’enregistrements sélectionnés dans le journal. Pour effectuer un filtrage par client dans le **Journal d’activité**, utilisez la zone de recherche.
 
-**Exporter le journal d’activité**
+**Export the Activity log**
 
 -   Cliquez sur **Exporter le journal** pour exporter les données de votre journal d’activité dans un fichier&nbsp;CSV.
 
-    Vous pouvez également exporter la liste des clients et la liste des abonnements d’un client (à partir de la page des abonnements du client).
+    You can also export the customer list and the subscription list of a single customer (from the customer’s subscription page).
 
  
 
