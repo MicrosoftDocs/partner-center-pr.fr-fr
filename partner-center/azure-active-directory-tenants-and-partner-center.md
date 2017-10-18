@@ -1,52 +1,51 @@
 ---
-title: Azure Active Directory tenants and Partner Center | Partner Center
-description: "To create a Partner Center account, your company must have an Azure Active Directory (Azure AD) tenant. Azure AD is Microsoft’s cloud-based directory and identity management service."
+title: Comptes professionnels et Espace partenaires | Espace partenaires
+description: "Pour créer un compte Espace partenaires, votre société doit disposer d'un compte professionnel."
 author: labrenne
 robots: 
-ms.openlocfilehash: ab16d167fc978d76c96fc6ef7c1b8eabe26a1ad5
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/29/2017
 ---
-# <a name="azure-active-directory-tenants-and-partner-center"></a>Azure Active Directory tenants and Partner Center  
+# <a name="your-work-account-and-partner-center"></a>Votre compte professionnel et l'Espace partenaires  
 
-**Applies to**
+**S’applique à**
 
--  Partner Center
+-  Espace partenaires
 
-#<a name="why-you-need-an-azure-ad-tenant"></a>Why you need an Azure AD tenant
+# <a name="why-you-need-a-work-account"></a>Pourquoi un compte professionnel est-il nécessaire?
 
-We need to link your organization’s Azure AD tenant to your new Partner Center account, so your tenant users can sign in to Partner Center with their Azure AD (Microsoft account) user names and passwords.
+Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte Espace partenaires, afin que vos utilisateurs clients soient en mesure de se connecter à l’Espace partenaires à l’aide de leur nom d’utilisateur et mot de passe AzureAD (compte professionnel).
 
-If your company already has an Azure AD tenant, you can link it to your Partner Center account. 
+Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Espace partenaires. 
 
-**Remarque** Avant de décider d’utiliser un client AzureAD existant, tenez compte du nombre d’utilisateurs du client devant travailler dans l’Espace partenaires. If you have users in the tenant who won’t need to work in Partner Center, consider creating a new tenant for only those users who will need to work in Partner Center.
+**Remarque** Avant de décider d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans l’Espace partenaires. Si certains utilisateurs du compte n’ont pas besoin de travailler dans l’Espace partenaires, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans l’Espace partenaires.
 
-If your company doesn’t already have an Azure AD tenant, you can create one for free during the enrollment process. Select **Create new tenant** on the **Sign in to Azure Active Directory** page. 
+Si votre entreprise n’a pas encore de compte professionnel, vous pouvez en créer un gratuitement lors de l’inscription. Sélectionnez **Créer un nouveau client** sur la page **Se connecter à Azure ActiveDirectory**. Lorsque vous créez un client Azure ActiveDirectory, vous créez un compte professionnel. Azure ActiveDirectory est le service d’authentification unique de la solution de gestion des identités de Microsoft.
 
+## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>Vous ne savez pas si votre entreprise a déjà un compte professionnel Azure?
 
-## <a name="not-sure-if-your-company-already-has-an-azure-ad-tenant"></a>Not sure if your company already has an Azure AD tenant?
+Si vous ignorez si votre entreprise dispose d’un compte professionnel Azure, procédez comme suit pour le vérifier. Notez que si vous avez un abonnement actif à MicrosoftAzure ou Office365, vous disposez déjà d’un compte professionnel Azure.
+1.  Ouvrez une session depuis le portail d’administration Azure à l’adresse https://ms.portal.azure.com
+2.  Dans le menu, sélectionnez Azure ActiveDirectory, puis Noms de domaine.
+3.  Si vous disposez déjà d’un compte professionnel, votre nom de domaine est répertorié dans la liste.
 
-If you’re not sure whether your company has an Azure AD tenant, follow these steps to check. Note that If you have an active subscription to Microsoft Azure or Office 365, you already have an Azure AD tenant.
-1.  Sign in to the Azure admin portal at https://ms.portal.azure.com
-2.  Select Azure Active Directory from the menu and then select Domain Names.
-3.  Si vous disposez déjà d’un client, votre nom de domaine est répertorié dans la liste.
+## <a name="using-an-existing-work-account"></a>Utilisation d’un compte professionnel existant
 
-##<a name="using-an-existing-tenant"></a>Vous voulez utiliser un client existant?
+Si vous souhaitez utiliser un compte professionnel existant, mais que vous rencontrez des problèmes de connexion, recherchez le scénario correspondant le mieux à votre situation dans le diagramme ci-dessous et suivez les étapes recommandées. 
 
-If you want to use an existing Azure AD tenant but you’re having trouble signing in, find the scenario on the diagram below that best matches your situation and follow the recommended steps. 
+![Vous disposez d’un compte professionnel Azure ou vous devez en créer un?](images/onboardingAADFlow.png)
 
-![Do you have an Azure AD tenant or do you need to create one?](images/onboardingAADFlow.png)
+Pour plus d’informations sur l’ajout de domaines dans AzureAD, voir [Ajouter ou associer un domaine dans AzureAD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
-For more information about adding domains in Azure AD, see [Add or associate a domain in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
+# <a name="about-microsoft-azure"></a>À propos de MicrosoftAzure
 
-# <a name="about-microsoft-azure"></a>About Microsoft Azure
+MicrosoftAzure est une plateforme cloud publique que les entreprises peuvent utiliser pour créer, déployer et gérer des applications sur un réseau global de centres de données gérés par Microsoft. Les entreprises utilisent Azure pour créer une infrastructure informatique virtuelle dotée de fonctions ou de services virtuels, au lieu d’ordinateurs physiques. 
 
-Microsoft Azure is a public cloud platform that companies can use to build, deploy, and manage applications across a global network of Microsoft-managed datacenters. Companies use Azure to build a virtual IT infrastructure with virtual functions, or services, instead of physical machines. 
+Lorsque vous achetez un abonnement Azure, vous louez de fait un espace sécurisé dédié dans le cloud public Azure, comme vous pouvez louer des locaux dans un immeuble de bureaux pour y héberger physiquement votre entreprise. Votre entreprise est client du propriétaire de l’immeuble de bureaux. 
 
-When you purchase an Azure subscription, you’re essentially renting a dedicated, secure space in the Azure public cloud, not too different from renting a floor in an office building to house your company’s physical business. To the office building’s owner, your company is a tenant. 
+Un compte professionnel Azure est une représentation virtuelle dédiée et isolée de votre entreprise dans le cloud public Azure. Il est créé pour vous lorsque vous vous abonnez à un service de cloud computing Microsoft tel qu’Azure, MicrosoftIntune ou Office365. 
 
-An Azure AD tenant is a dedicated and isolated virtual representation of your company in the Azure public cloud, created for you when you subscribe to a Microsoft cloud service such as Azure, Microsoft Intune, or Office 365. 
-
-Votre client héberge vos utilisateurs AzureAD et les informations les concernant telles que leur mot de passe, les données de profil, les autorisations et autres informations. Le client contient également les groupes, les applications et toutes les informations relatives à une entreprise et à sa sécurité. 
+Votre compte professionnel héberge vos utilisateurs AzureAD et les informations les concernant telles que leur mot de passe, les données de profil, les autorisations et autres informations. Le compte professionnel contient également les groupes, les applications et toutes les informations relatives à une entreprise et à sa sécurité. 
