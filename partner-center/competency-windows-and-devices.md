@@ -4,11 +4,11 @@ description: "Partagez notre objectif de voir Windows10 installé sur 1milliard 
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: "compétence, compétences, Windows et appareils"
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows et appareils 
 Partagez notre objectif de voir Windows10 installé sur 1milliard d’appareils. L’opportunité s’étend aux services, applications et appareils. Cette compétence vous fournit des outils, du contenu et des ressources pour vous aider à créer et à développer une pratique Windows10 rentable.
@@ -87,7 +87,7 @@ L’option Partenaire d’appareil est idéale si vous préférez prouver vos co
 
         - Domaine stratégique **Créateur système**
 
-            - [Examen70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): Pré-installation OEM pour Windows10
+            - [Examen70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): Fabrication OEM et déploiement de Windows10
 
     **OU**
 

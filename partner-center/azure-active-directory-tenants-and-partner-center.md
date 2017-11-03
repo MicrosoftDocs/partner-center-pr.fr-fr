@@ -3,11 +3,11 @@ title: Comptes professionnels et Espace partenaires | Espace partenaires
 description: "Pour créer un compte Espace partenaires, votre société doit disposer d'un compte professionnel."
 author: labrenne
 robots: 
-ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 # <a name="your-work-account-and-partner-center"></a>Votre compte professionnel et l'Espace partenaires  
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 09/29/2017
 
 # <a name="why-you-need-a-work-account"></a>Pourquoi un compte professionnel est-il nécessaire?
 
-Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte Espace partenaires, afin que vos utilisateurs clients soient en mesure de se connecter à l’Espace partenaires à l’aide de leur nom d’utilisateur et mot de passe AzureAD (compte professionnel).
+Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte Espace partenaires, afin que les utilisateurs de ce compte puissent se connecter à l’Espace partenaires à l’aide de leur nom d’utilisateur et mot de passe.
 
 Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Espace partenaires. 
 
@@ -25,9 +25,9 @@ Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’
 
 Si votre entreprise n’a pas encore de compte professionnel, vous pouvez en créer un gratuitement lors de l’inscription. Sélectionnez **Créer un nouveau client** sur la page **Se connecter à Azure ActiveDirectory**. Lorsque vous créez un client Azure ActiveDirectory, vous créez un compte professionnel. Azure ActiveDirectory est le service d’authentification unique de la solution de gestion des identités de Microsoft.
 
-## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>Vous ne savez pas si votre entreprise a déjà un compte professionnel Azure?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Vous ne savez pas si votre entreprise a déjà un compte professionnel?
 
-Si vous ignorez si votre entreprise dispose d’un compte professionnel Azure, procédez comme suit pour le vérifier. Notez que si vous avez un abonnement actif à MicrosoftAzure ou Office365, vous disposez déjà d’un compte professionnel Azure.
+Si vous ignorez si votre entreprise dispose d’un compte professionnel, procédez comme suit pour le vérifier. Notez que si vous avez un abonnement actif à MicrosoftAzure ou Office365, vous disposez déjà d’un compte professionnel.
 1.  Ouvrez une session depuis le portail d’administration Azure à l’adresse https://ms.portal.azure.com
 2.  Dans le menu, sélectionnez Azure ActiveDirectory, puis Noms de domaine.
 3.  Si vous disposez déjà d’un compte professionnel, votre nom de domaine est répertorié dans la liste.
@@ -36,7 +36,7 @@ Si vous ignorez si votre entreprise dispose d’un compte professionnel Azure, p
 
 Si vous souhaitez utiliser un compte professionnel existant, mais que vous rencontrez des problèmes de connexion, recherchez le scénario correspondant le mieux à votre situation dans le diagramme ci-dessous et suivez les étapes recommandées. 
 
-![Vous disposez d’un compte professionnel Azure ou vous devez en créer un?](images/onboardingAADFlow.png)
+![Vous disposez d’un compte professionnel ou vous devez en créer un?](images/onboardingAADFlow.png)
 
 Pour plus d’informations sur l’ajout de domaines dans AzureAD, voir [Ajouter ou associer un domaine dans AzureAD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
