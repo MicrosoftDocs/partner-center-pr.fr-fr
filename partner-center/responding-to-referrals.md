@@ -1,72 +1,72 @@
 ---
-title: Responding to referrals | Partner Center
-description: Evaluate, negotiate, and respond to referrals through Partner Center.
+title: "Réponse aux références | Espace partenaires"
+description: "Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires."
 author: KPacquer
-keywords: referral, RFI, Find a Partner
+keywords: "référence, RFI, rechercher un partenaire"
 ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
+# <a name="responding-to-referrals-in-partner-center"></a>Réponse aux références dans l'Espace partenaires
 
-**Applies to**
+**S’applique à**
 
--  Partner Center
+-  Espace partenaires
 
-As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
+En tant que partenaire Microsoft qualifié, vous pouvez recevoir des prospects commerciaux par le biais de références de l'Espace partenaires. Gérer les prospects entrants, répondre rapidement à ceux qui offrent un potentiel encourageant et ignorer ou refuser les autres. Passer en revue les types de clients potentiels suggérés. 
 
-## <a name="referral-management"></a>Referral management
+## <a name="referral-management"></a>Gestion des références
 
-Start by setting up a [marketing profile](create-a-marketing-profile.md) for each region where you do business. Once your profile is active, we’ll be able to direct customers to your business, through:
+Commencez par configurer un [profil commercial](create-a-marketing-profile.md) pour chaque région où vous travaillez. Lorsque votre profil sera actif, nous serons en mesure d'orienter les clients vers votre entreprise, par le biais des éléments suivants:
 
-*  Microsoft marketing activities
-*  Internal Microsoft sales and service agents
-*  Customer searches, using the **[Find a partner](https://partnercenter.microsoft.com/pcv/search)** tool.
+*  Activités marketing de Microsoft
+*  Ventes internes de Microsoft et agents du service
+*  Recherches de clients, à l’aide de l’outil **[Rechercher un partenaire](https://partnercenter.microsoft.com/pcv/search)**.
 
-When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
+Lorsqu’un client sera prêt à vous contacter, il enverra une demande d’informations (RFI). 
 
-When that happens, we’ll send email to the contact listed in your [marketing profile](create-a-marketing-profile.md) specific to the region and location selected. You can also see incoming RFIs in Partner Center: go to **Dashboard > Referrals > Customer referrals**.
+Nous enverrons alors un courrier électronique au contact répertorié dans votre [profil commercial](create-a-marketing-profile.md) spécifique de la région et du site sélectionné. Vous pouvez également afficher les demandes entrantes dans l’Espace partenaires: accédez à **Tableau de bord > Références > Références clients**.
 
-Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
+Les clients choisissent souvent d’envoyer un même RFI à plusieurs sociétés en même temps. Pour augmenter vos chances de succès, nous vous recommandons de répondre aux nouvelles références et de les accepter ou de les refuser dans les 24heures au maximum.
 
-### <a name="new-referrals"></a>New referrals
+### <a name="new-referrals"></a>Nouvelles références
 
-We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
+Nous vous montrerons une vue d’ensemble de la RFI. Vous pourrez alors décider si vous souhaitez avoir plus d’informations sur la référence. 
 
-*  **I’m interested**: We’ll move the referral to **Evaluating**, and you’ll see the full details about the customer and the offer. 
-*  **No thanks**: We’ll archive it as **Skipped**. We’ll notify the customer to choose a different partner.
-*  If you don’t respond within 72 hours, we’ll archive it as **Missed**. We’ll notify the customer to choose a different partner.
+*  **Je suis intéressé**: nous déplacerons la référence vers **Évaluation** et vous pourrez voir tous les détails sur le client et l’offre. 
+*  **Non, merci**: nous l'archiverons en tant que **Ignorée**. Nous dirons au client de choisir un autre partenaire.
+*  Si vous ne répondez pas dans les 72heures, nous l'archiverons comme **Manquée**. Nous dirons au client de choisir un autre partenaire.
 
-### <a name="evaluating-referrals"></a>Evaluating referrals
+### <a name="evaluating-referrals"></a>Évaluation des références
 
-Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
+Passez en revue les détails et contactez le client. Parlez-lui des besoins de son entreprise et déterminez si vous disposez d’une offre qui peut l'aider. Accepter ou refuser la référence: 
 
-*  **Accept**: Enter the estimated deal value, the estimated closing date, and select **Accept**. We’ll use this information to help you find similar deals. We’ll move the referral to **Negotiating**. This tells us that you plan to actively engage with the customer to address their need.
-*  **Decline**: We’ll archive it as **Declined**. We’ll notify the customer to choose a different partner.
-*  If you don’t respond within 7 days, we’ll archive it as **Expired**. We’ll notify the customer to choose a different partner.
+*  **Accepter**: entrez la valeur estimative du contrat, la date de conclusion estimée, puis sélectionnez **Accepter**. Nous utiliserons ces informations pour vous aider à trouver des demandes similaires. Nous déplacerons la référence vers **Négociation**. Cela indique que vous envisagez d'entrer activement en contact avec le client de répondre à ses besoins.
+*  **Refuser**: nous l'archiverons comme **Refusée**. Nous dirons au client de choisir un autre partenaire.
+*  Si vous ne répondez pas dans les 7jours, nous l'archiverons comme **Expirée**. Nous dirons au client de choisir un autre partenaire.
 
-### <a name="negotiating-referrals"></a>Negotiating referrals
+### <a name="negotiating-referrals"></a>Négociation de références
 
-Work to close the deal with the customer. Let us know if you won or lost the deal, and archive it as **Won** or **Lost**. 
+Tentez de conclure la transaction avec le client. Faites-nous savoir si vous avez remporté la transaction ou si vous avez échoué, puis archivez-la comme **Gagnée** ou **Perdue**. 
 
-### <a name="archived-referrals"></a>Archived referrals
+### <a name="archived-referrals"></a>Références archivés
 
-Review your past referrals (**won, lost, skipped, missed, declined** or **expired**) at any time. 
+Passez en revue à tout moment vos dernières références (**gagnées, perdues, ignorées, manquées, refusées** ou **expirées**). 
 
-## <a name="getting-more-referrals"></a>Getting more referrals
+## <a name="getting-more-referrals"></a>Obtenir davantage de références
 
-Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
+Voici quelques conseils pour augmenter vos chances de recevoir plus de références appropriées à votre entreprise:
 
-*  **Review your contact information in your [marketing profile](create-a-marketing-profile.md)** for each location to make sure that your team gets incoming alerts.
+*  **Passez en revue les coordonnées de votre [profil commercial](create-a-marketing-profile.md)** pour chaque site pour garantir que votre équipe reçoit les alertes entrantes.
 
-*  **Choose keywords and preferences that represent your unique expertise and business model** in your [marketing profile](create-a-marketing-profile.md). Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
+*  **Choisissez des mots clés et des préférences qui représentent votre expertise spécifique et votre modèle commercial** dans votre [profil commercial](create-a-marketing-profile.md). Supprimez des mots clés qui génèrent des références qui ne vous n'intéressent pas. Si vous ne souhaitez pas travailler avec des entreprises d’une certaine taille, mettez cette préférence à jour.
 
-*  **Respond quickly to referrals**. When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
+*  **Répondez rapidement aux références**. Si vous répondez en temps voulu aux requêtes entrantes, nous augmenterons votre visibilité dans les résultats de recherche des clients. Assurez-vous que votre équipe répond rapidement et avec énergie.
 
-*  **Be choosy with the deals you accept**. We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
+*  **Choisissez soigneusement les transactions que vous acceptez**. Nous suivons les types de transactions que vous acceptez ou refusez et nous utilisons ces informations pour vous aider à trouver des demandes similaires. 
 
-   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
+   Accepter les demandes qui vous correspondent mal n’améliore pas vos résultats de recherche et peut avoir un impact sur la qualité des prospects que vous recevez.
 
-*  **Report back the estimated deal sizes, closing dates, and the final status of your deals** (won or lost). We’ll use this info to continue to provide you with quality referrals.
+*  **Indiquez les estimations de taille des transactions, leurs dates de conclusion et leur état final** (conclues ou perdues). Nous utiliserons ces informations pour continuer à vous fournir des références de qualité.
