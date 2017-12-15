@@ -1,10 +1,21 @@
 ---
-titre: Clients du Centre d’administration des partenaires Office365: préparez-vous à migrer les opérations de l’entreprise sur l'Espace partenaires | Espace partenaires Description: Points clés pour la migration des clients du Centre d’administration des partenaires Office365 vers l'Espace partenaires ms.prod: author: KPacquer
+title: "Clients du Centre d’administration des partenaires Office365: les opérations de l’entreprise vont migrer vers l’Espace partenaires| Espace partenaires"
+description: "Points clés pour la migration des clients du Centre d’administration des partenaires Office365 vers l’Espace partenaires"
+author: KPacquer
+ms.openlocfilehash: 2ef8450988027c480b60a51f2626bb94c95c1cb3
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 11/10/2017
 ---
+# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clients du Centre d’administration des partenaires Office365: préparez-vous à migrer les opérations de l’entreprise sur l’Espace partenaires
 
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clients du Centre d’administration des partenaires Office365: préparez-vous à migrer les opérations de l’entreprise sur l'Espace partenaires
+**S’applique à** 
 
-Nous ajoutons les fonctionnalités du Centre d’administration des partenaires Office365 à l'Espace partenaires pour vous aider à gérer vos clients tout au long du cycle de vie de l’entreprise. Outre les fonctionnalités auxquelles vous êtes habitué, vous aurez désormais accès aux fonctions suivantes: 
+- Espace partenaires
+- Centre d’administration des partenaires Office365
+
+Nous ajoutons les fonctionnalités du Centre d’administration des partenaires Office365 à l’Espace partenaires pour vous aider à gérer vos clients tout au long du cycle de vie de l’entreprise. Outre les fonctionnalités auxquelles vous êtes habitué, vous aurez désormais accès aux fonctions suivantes: 
 
 *  Développer votre activité au moyen de [références](referrals.md)et gérer vos nouveaux clients.
 *  Envoyer des invitations à établir des relations à des clients à la fois pour votre compte et celui de votre fournisseur

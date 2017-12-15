@@ -3,13 +3,13 @@ title: Comptes professionnels et Espace partenaires | Espace partenaires
 description: "Pour créer un compte Espace partenaires, votre société doit disposer d'un compte professionnel."
 author: labrenne
 robots: 
-ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="your-work-account-and-partner-center"></a>Votre compte professionnel et l'Espace partenaires  
+# <a name="your-company-work-account-and-partner-center"></a>Compte professionnel de votre entreprise et l’Espace partenaires  
 
 **S’applique à**
 

@@ -3,9 +3,11 @@ title: "Augmenter l’adoption et la satisfaction client | Espace partenaires"
 description: "Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 11/21/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
@@ -16,6 +18,8 @@ translationtype: HT
 Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
 
 Vous pouvez afficher les données de l’ensemble de vos clients via le programme Fournisseur de solutions Cloud. Notez que certains clients peuvent acheter des licences auprès d’autres partenaires ou directement auprès de Microsoft. Dans ce cas, vous voyez le nombre total de licences chez tous les partenaires. Pour afficher uniquement vos propres licences, accédez aux abonnements du client.
+
+>**Remarque**<br> Actuellement, nous affichons uniquement les données pour Office365 et Dynamics365. Nous activerons les données de produits supplémentaires par la suite.
 
 ## <a name="find-license-and-user-data"></a>Rechercher des données utilisateur et de licence
 

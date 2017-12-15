@@ -1,27 +1,27 @@
 ---
-title: Partner with indirect providers in CSP | Partner Center
-description: "As an indirect reseller in CSP, you work with indirect providers (also known as distributors) who have a direct relationship with Microsoft and can provide customer support and billing. This means you don’t have to begin on your own but can instead work with an experienced technology provider to help ensure your success. In the provider-reseller (two-tier) model, the provider buys cloud solutions and services from Microsoft that you resell to customers."
+title: Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
+description: "En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. Cela signifie que n'avez pas à démarrer seul, mais qu'à la place vous pouvez travailler avec un fournisseur de technologies expérimenté pour garantir votre succès. Dans le modèle fournisseur-revendeur (deux niveaux), le fournisseur achète auprès de Microsoft des services et des solutions Cloud que vous revendez aux clients."
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 2b2b8fc3a58a3ff67c1a96558df49a594fe8e74f
-ms.sourcegitcommit: e79f756c7203751b8fd6ad26883a0568c91a6c8b
+ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/16/2017
+ms.lasthandoff: 11/10/2017
 ---
-# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Partner with indirect providers in the Cloud Solution Provider program
+# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
-The rapidly growing demand for cloud-based solutions and services provides many opportunities for Microsoft partners of all sizes to build profitable cloud solution businesses. Les partenaires qui sont prêts à entrer sur le marché mais qui ne veulent pas avoir à gérer plusieurs fournisseurs ou n'ont pas mis en place d'infrastructure de gestion des relations clients de bout en bout, peuvent s’inscrire au programme des fournisseurs de solutions Microsoft Cloud (CSP) en tant que revendeurs indirects.
+La demande en croissance rapide de services et les solutions Cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions Cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne veulent pas avoir à gérer plusieurs fournisseurs ou n'ont pas mis en place d'infrastructure de gestion des relations clients de bout en bout, peuvent s’inscrire au programme des fournisseurs de solutions Microsoft Cloud (CSP) en tant que revendeurs indirects.
 
-En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. This means you don’t have to begin on your own but can instead work with an experienced technology provider to help ensure your success. In the provider-reseller (two-tier) model, the provider buys cloud solutions and services from Microsoft that you resell to customers.
+En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. Cela signifie que n'avez pas à démarrer seul, mais qu'à la place vous pouvez travailler avec un fournisseur de technologies expérimenté pour garantir votre succès. Dans le modèle fournisseur-revendeur (deux niveaux), le fournisseur achète auprès de Microsoft des services et des solutions Cloud que vous revendez aux clients.
 
-Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs. Generally, most providers will: 
+Les divers fournisseurs indirects proposent différents types de support et de services. Vous devez donc évaluer les fournisseurs de votre région pour déterminer ceux qui répondent le mieux à vos besoins. En règle générale, la plupart des fournisseurs proposent les services suivants: 
 
 -   Vous fournir une formation et une assistance techniques
 -   Vous aider à commercialiser vos produits et services 
 -   Vous aider à établir les conditions de crédit et de financement
 
-If you’re not already working with a provider (also known as a distributor), you can [search the list of official Microsoft providers](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) to find one.
+Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) pour en trouver un.
 
 
 Pour plus d’informations sur les conditions nécessaires pour vendre dans le cadre du programme Fournisseur de solutions Cloud en tant que revendeur indirect, voir [Commencer comme revendeur indirect](https://partner.microsoft.com/cloud-solution-provider/whats-required) sur le [site Web MicrosoftPartner Network](https://partner.microsoft.com/). 
@@ -29,27 +29,27 @@ Pour plus d’informations sur les conditions nécessaires pour vendre dans le c
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>S’inscrire en tant que revendeur indirect dans le programme Fournisseur de solutions Cloud
 
->**Note**  If you are already enrolled in CSP, you may need to provide only customer support contact information to create a reseller account on Partner Center. 
+>**Remarque**  Si vous êtes déjà inscrit au programme Fournisseur de solutions Cloud, il vous suffira peut-être de fournir les coordonnées du support client pour créer un compte revendeur dans l'Espace partenaires. 
 
-### <a name="before-you-begin"></a>Before you begin
+### <a name="before-you-begin"></a>Avant de commencer
 
-If you are new to CSP, you’ll need to enroll in the program as an indirect reseller and create an account on Partner Center. To do so, you’ll need to provide the following information during the enrollment process. You may want to take a few minutes to gather these items before you get started:
+Si vous êtes nouveau dans le programme Fournisseur de solutions Cloud, vous devez vous inscrire au programme en tant que revendeur indirect et créer un compte sur l’Espace partenaires. Pour ce faire, vous devez fournir les informations suivantes lors du processus d’inscription. Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer:
 
 -   **Informations d’identification d’administrateur général pour votre compte professionnel**<br>
 Vous devrez fournir le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter à Office365, MicrosoftAzure ou MicrosoftDynamics CRM. Si vous ne disposez pas encore d’un compte professionnel, vous pouvez en créer un lors de la procédure d'inscription. Si vous ne savez pas si vous disposez déjà d’un compte professionnel, voir [Comptes professionnels et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).
 
 
 -   **Le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter au site Partner Membership Center**<br>
-We use this information to link your organization's Microsoft Partner Network ID (MPN ID) with your new Partner Center account so that you can manage your membership benefits and data in Partner Center.
+Nous utilisons ces informations pour lier l'identifiant MicrosoftPartner Network (ID MPN) de votre entreprise à votre nouveau compte Espace partenaires afin que vous puissiez gérer les avantages et les données de votre abonnement dans l'espace partenaires.
 
--   **Your organization’s legal business name, address, primary contact, and support details**<br>
-We need this information to confirm that your organization has an established profile with Microsoft and that you are authorized to act on its behalf.
+-   **La dénomination légale, l'adresse, le contact principal de votre entreprise et les détails du support**<br>
+Nous avons besoin de ces informations pour vérifier que votre entreprise dispose d’un profil établi avec Microsoft et que vous êtes autorisé à agir en son nom.
  
-Please note that it can take us several days to review and verify the information you’ve provided. We’ll email your primary contact when we’ve completed our review.
+Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifier les informations que vous avez fournies. Nous enverrons un e-mail à votre contact principal lorsque nous en aurons terminé.
 
-### <a name="get-started"></a>Get started
+### <a name="get-started"></a>Prise en main
 
-1.  Kick off the enrollment process [here](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
+1.  Lancez le processus d’inscription [ici](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
 2.  Lisez la page **Bienvenue** pour être sûr d’avoir les informations nécessaires pour vous inscrire, puis sélectionnez **Suivant**.
 
@@ -57,47 +57,47 @@ Please note that it can take us several days to review and verify the informatio
 
     Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
 
-4.  Lisez les informations indiquant comment associer votre identifiant MicrosoftPartner Network (ID MPN) avec votre nouveau compte Espace partenaires. We need to link your organization's MPN ID with your new Partner Center account so that you can manage your membership benefits and incentives on Partner Center. Select **Sign in**.
+4.  Lisez les informations indiquant comment associer votre identifiant MicrosoftPartner Network (ID MPN) avec votre nouveau compte Espace partenaires. Nous devez lier l'ID MPN de votre entreprise à votre nouveau compte Espace partenaires pour pouvoir gérer les avantages et les primes sur l'Espace partenaires. Sélectionnez **Se connecter**.
 
-5.  Enter the user name you use to sign in to the Partner Membership Center (PMC) site. The Partner Membership Center site is where you currently manage your Microsoft partner account. Signing in to Partner Membership Center allows us to retrieve your MPN ID and associate it to your new Partner Center account. Select **Next**. 
+5.  Entrez le nom d’utilisateur que vous utilisez pour vous connecter au site Partner Membership Center (PMC). Le site Partner Membership Center est l'endroit où vous gérez actuellement votre compte de partenaire Microsoft. La connexion au Partner Membership Center nous permet de récupérer votre ID MPN et de l’associer à votre nouveau compte Espace partenaires. Sélectionnez **Suivant**. 
 
-6.  Enter the password for your Partner Membership Center account and then select **Sign in**.
+6.  Entrez le mot de passe de votre compte Partner Membership Center, puis sélectionnez **Se connecter**.
 
-7.  Select the organization profile with the MPN ID that’s linked to your incentives, membership benefits, and competencies so we can move this information to your Partner Center account. Select **Continue**.
+7.  Sélectionnez le profil de l’entreprise dont l’ID MPN est lié à vos primes, avantages d'adhésion et compétences, afin que nous puissions déplacer ces informations sur votre compte Espace partenaires. Sélectionnez **Continuer**.
 
-    If the MPN ID you want to use is not listed on this page, select **Cancel** and sign in again with the user name and password for the organization profile you want to use. 
+    Si l’ID MPN que vous voulez utiliser n’est pas répertorié sur cette page, sélectionnez **Annuler** et reconnectez-vous avec le nom d’utilisateur et le mot de passe du profil d’entreprise que vous souhaitez utiliser. 
 
-    >**Important**  Select the MPN ID associated with an active organization profile that’s located in the same country/region as your Azure AD tenant.
+    >**Important**  Sélectionnez l’ID MPN associé à un profil d’entreprise actif situé dans le même pays ou la même région que votre client Azure AD.
 
-8.  Provide or update your organization’s legal business profile, primary contact information, and customer support information. Select **Enroll now**.
+8.  Indiquez ou mettez à jour le profil commercial juridique, les coordonnées du contact principal et les coordonnées du support client de votre entreprise. Sélectionnez **S’inscrire maintenant**.
 
-    The primary contact should be the person in your organization we can contact about your application (this can be you or another person in your organization). Veuillez noter que nous n’acceptons pas les adresses e-mail provenant de services de messagerie Web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail. 
+    Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise). Veuillez noter que nous n’acceptons pas les adresses e-mail provenant de services de messagerie Web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail. 
 
-    >**Important** To help ensure your organization’s security and privacy, we’ll email your primary contact to verify that (1) he or she signed up for a Partner Center account, and (2) that this email address belongs to your organization. After the primary contact verifies his or her email address, we’ll continue our review of the information you provided. We’ll email enrollment status updates to the primary contact.
+    >**Important** Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d'information sur le statut d'inscription.
 
-9.  When your Partner Center account is ready to use, verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+9.  Lorsque votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d'agents administrateurs. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations:
 
-    a.  On the **Dashboard** menu, select **Account settings > User management** and select your name from the users list. 
+    a.  Dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte > Gestion des utilisateurs** et sélectionnez votre nom dans la liste des utilisateurs. 
 
     b.  Sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné, puis sélectionnez **Mettre à jour**.   
 
 ## <a name="add-a-new-user"></a>Ajouter un utilisateur
 
-1. On the **Dashboard** menu, select **Account settings > User management**.
+1. Dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte > Gestion des utilisateurs**.
 
-2. Select **Add user**.
+2. Sélectionnez **Ajouter un utilisateur**.
 
-3. Enter the user’s full name and unique email address.
+3. Entrez le nom complet et l’adresse de messagerie unique de l’utilisateur.
 
-4. Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
+4. Sélectionnez le type d’agent et le type d’administrateur. Comme l’accès à l’Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour plus d’informations sur ce que chaque rôle peut faire, voir la section [Affecter des autorisations utilisateur](#assignuserpermissions)
 
-5. Select **Add** to create the user account. Confirm the user's details on the next page.
+5. Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
 
 
 >**Important**<br>
-Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
+Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. <br>
 
->The user will need to sign in to Partner Center with their user name and temporary password. Lorsque l’utilisateur se connecte à l'Espace partenaires pour la première fois, il est invité à modifier son mot de passe.        
+>L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l'Espace partenaires pour la première fois, il est invité à modifier son mot de passe.        
 
 ## <a name="assign-user-permissions"></a>Affecter des autorisations utilisateur
 
@@ -119,9 +119,9 @@ Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partena
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Role in Partner Center</strong></p></td>
-<td><p><strong>What they can do</strong></p></td>
-<td><p><strong>What they can't do</strong></p></td>
+<td><p><strong>Rôle dans l’Espace Partenaires</strong></p></td>
+<td><p><strong>Ce qu’il peut faire</strong></p></td>
+<td><p><strong>Ce qu’il ne peut pas faire</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Agent d’administration</strong></p></td>
@@ -140,8 +140,8 @@ Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partena
 <td><ul>
 <li><p>Rechercher et afficher un client</p></li>
 <li><p>Intégrité du service</p></li>
-<li><p>Request support on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</p></li>
-<li><p>Manage subscriptions and services on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</p></li>
+<li><p>Demander un support pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</p></li>
+<li><p>Gérer les abonnements et les services pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</p></li>
 </ul></td>
 <td><ul>
 <li><p>Afficher les profils de partenaire</p></li>
@@ -152,7 +152,7 @@ Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partena
 <tr class="even">
 <td><p><strong>Administrateur général</strong></p></td>
 <td><ul>
-<li><p>Can access all Microsoft account/services with full privileges</p></li>
+<li><p>Peut accéder à tous les comptes/services Microsoft avec des privilèges complets</p></li>
 <li><p>Créer des tickets de support pour l’Espace partenaires</p></li>
 <li><p>Afficher, créer et gérer les utilisateurs partenaires</p></li>
 <li><p>Accepter une demande de partenariat à partir d’un fournisseur indirect</p></li>
@@ -162,7 +162,7 @@ Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partena
 <tr class="odd">
 <td><p><strong>Administrateur de la gestion des utilisateurs</strong></p></td>
 <td><ul>
-<li><p>View, create, and manage users</p></li>
+<li><p>Afficher, créer et gérer des utilisateurs</p></li>
 <li><p>Afficher tous les profils de partenaire</p></li>
 </ul></td>
 <td></td>
@@ -174,25 +174,25 @@ Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partena
 
 Collaborer avec un fournisseur indirect vous permet de proposer à vos clients un plus large choix de services basés sur le cloud de Microsoft et de solutions. Les fournisseurs indirects ont mis en place les systèmes et l'infrastructure nécessaires pour assurer un niveau solide de facturation et de support client. Vous pouvez ainsi vous concentrer sur vos solutions technologiques et sur vos contacts avec les clients. 
 
-If you’re not already working with a provider (also known as a distributor), you can [search the list of official Microsoft providers](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) to find one. When you find a provider you want to partner with, contact them directly to discuss their reseller programs, level of support, and terms. If both you and the provider want to work together, you’ll need to connect your accounts on Partner Center. 
+Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) pour en trouver un. Une fois que vous avez trouvé un fournisseur avec lequel vous souhaitez travailler en partenariat, contactez-le directement pour discuter de ses programmes de revendeur, de son niveau de support et des termes du contrat. Si vous et le fournisseur souhaitez travailler ensemble, vous devez associer vos comptes Espace partenaires. 
 
-If an indirect provider wants to connect with you on Partner Center, they’ll kick off the following workflow:
+Si un fournisseur indirect veut s'associer avec vous sur l'Espace partenaires, il lancera la procédure suivante:
 
-1.  The indirect provider emails you an invitation to authorize them to be your indirect provider. The email includes a link to Partner Center and will associate your account to the provider’s account.
+1.  Le fournisseur indirect vous envoie par e-mail une invitation pour l'autoriser à être votre fournisseur indirect. Le message électronique comprend un lien vers l'Espace partenaires et associe votre compte à celui du fournisseur.
 
-2.  To accept the invitation, follow the link in the provider’s email. You may need to sign in to Partner Center again.
+2.  Pour accepter l’invitation, suivez le lien figurant dans le courrier électronique du fournisseur. Vous devrez peut-être vous reconnecter à l'Espace partenaires.
 
-3.  To confirm the partnership with the provider, check the box and then select **Authorize indirect provider**. The provider is now listed on your **Indirect providers** page and your company is now listed on the provider's **Indirect resellers** page.
+3.  Pour confirmer le partenariat avec le fournisseur, activez la case à cocher, puis sélectionnez **Autoriser le fournisseur indirect**. Le fournisseur est désormais répertorié dans votre page **Fournisseurs indirects** et votre société figure désormais dans la page **Revendeurs indirects** du fournisseur.
 
-    >**Note**  When you establish a partnership with an indirect provider, you’re authorizing them to submit orders and add subscriptions on behalf of your customers, and you’re granting them administrator access to your Azure AD tenant.
+    >**Remarque**  Lorsque vous établissez un partenariat avec un fournisseur indirect, vous l'autorisez à envoyer des commandes et à ajouter des abonnements pour le compte de vos clients, et vous leur accordez un accès administrateur à votre client Azure AD.
 
-4.  Select **Indirect providers** from your **Dashboard** menu to see a list of the providers you have a partnership with. 
+4.  Sélectionnez **Fournisseurs indirects** dans votre menu **Tableau de bord** pour afficher la liste des fournisseurs dont vous êtes le partenaire. 
 
 5.  Sélectionnez **Afficher les clients** pour afficher la liste des clients que vous partagez avec le fournisseur.
 
 6.  Sélectionnez **Inviter de nouveaux clients** pour demander à un nouveau client d'autoriser les relations de revendeur avec vous et votre fournisseur indirect. Veillez à disposer de l'adresse de messagerie du client afin de pouvoir lui envoyer l’invitation.  
 
-    >**Important**  Your indirect provider needs to have a reseller relationship with your customers to submit orders on their behalf. 
+    >**Important**  Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients pour pouvoir envoyer des commandes en leur nom. 
  
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
@@ -206,11 +206,11 @@ Si un de vos clients existants ne figure pas dans votre liste de clients, vous d
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
 
-1.  Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.
+1.  Sélectionnez **Clients** à partir de votre menu **Tableau de bord**, puis sélectionnez **Demander une relation de revendeur**.
 
-2.  On the next page, review the draft email message. You can open the draft message in email or you can copy the message to your clipboard and paste it into an email. 
+2.  Sur la page suivante, vérifiez le brouillon du message électronique. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 
-    You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account. Select **Done** when you’ve completed this step.
+    Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte. Sélectionnez **OK** lorsque vous avez terminé cette étape.
 
 3.  Envoyez le message électronique au client.
 
@@ -221,13 +221,13 @@ Si un de vos clients existants ne figure pas dans votre liste de clients, vous d
 
 ### <a name="connect-with-new-customers"></a>Entrer en contact avec les clients
 
-Lorsque vous attirez de nouveaux clients, vous devez vous connecter avec eux sur l'Espace partenaires. You may get new customers through multiple channels, including:
+Lorsque vous attirez de nouveaux clients, vous devez vous connecter avec eux sur l'Espace partenaires. Vous pouvez trouver de nouveaux clients par le biais de plusieurs canaux, notamment les suivants:
 
--   Your own marketing activities
--   Microsoft referrals
--   Indirect providers
+-   Vos propres activités marketing
+-   Références de Microsoft
+-   Fournisseurs indirects
 
-To manage a customer’s subscriptions and services on their behalf, you need to have a reseller relationship with them. Pour autoriser votre fournisseur indirect à envoyer des commandes pour le compte de votre client, le fournisseur indirect doit également avoir une relation de revendeur avec celui-ci.
+Pour gérer les abonnements et les services d'un client en son nom, vous devez avoir une relation de revendeur avec eux. Pour autoriser votre fournisseur indirect à envoyer des commandes pour le compte de votre client, le fournisseur indirect doit également avoir une relation de revendeur avec celui-ci.
 
 Pour obtenir des autorisations d’administrateur pour gérer les abonnements et les services d’un nouveau client **et** autoriser votre fournisseur indirect à soumettre de nouvelles commandes en son nom, vous pouvez inviter le client à établir une relation de revendeur simultanément avec vous et votre fournisseur. 
 
@@ -241,20 +241,20 @@ Pour obtenir des autorisations d’administrateur pour gérer les abonnements et
 
     Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte et au compte de votre fournisseur. Sélectionnez **OK** lorsque vous avez terminé cette étape.
 
-4.  After the customer authorizes you and your provider to be their resellers of record, you’ll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.
+4.  Une fois que le client vous a autorisé, vous et votre fournisseur, à devenir ses revendeurs de référence, vous disposez des autorisations d’administrateur nécessaires pour gérer en son nom ses abonnements, ses licences et ses utilisateurs, et votre fournisseur indirect peut envoyer des commandes pour le compte du client.
 
-5.  To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.
+5.  Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
 
 
-## <a name="next-steps"></a>Next steps
+## <a name="next-steps"></a>Étapes suivantes
 
-[Manage your Partner Center account](partner-center-account-setup.md)
+[Gérer votre compte Espace partenaires](partner-center-account-setup.md)
 
 [Gérer les clients et leurs abonnements](customer-accounts.md)
 
 [Créer un profil commercial](create-a-marketing-profile.md)
 
-[Découvrir les primes incitatives des partenaires sur l'Espace partenaires](manage-your-incentives-in-partner-center.md)
+[Découvrir les primes incitatives des partenaires sur l’Espace partenaires](manage-your-incentives-in-partner-center.md)
 
 
 

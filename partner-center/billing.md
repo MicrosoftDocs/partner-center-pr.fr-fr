@@ -1,13 +1,13 @@
 ---
 title: Facturation | Espace partenaires
-Description: "En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients."
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
-ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
+ms.openlocfilehash: 1147875ebe6ed9a7cdb95c4d044833c2f9d1ece0
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="billing"></a>Facturation
 
@@ -15,14 +15,19 @@ ms.lasthandoff: 10/18/2017
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de MicrosoftCloud Germany
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients.
+Pour votre facture, accédez au menu **Tableau de bord** et sélectionnez **Facturation** pour afficher votre historique et vos tendances de facturation, des liens vers votre facture et votre fichier de rapprochement, ainsi que votre dernier paiement en date.
 
-Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélectionnez **Facturation**. Cette page de facturation affiche votre historique de facturation et la tendance, les liens vers votre facture et vos fichiers de rapprochement, ainsi que votre dernier paiement.
+Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 
--   Nous n’avons pas d’exigences particulières sur la façon dont vous gérez votre propre facturation.
--   Pour établir la consommation des clients, utilisez le nom/ID du client et les autres champs pertinents des fichiers de rapprochement.
+>**Remarque**<br>
+Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.
+
+Informations clés à connaître à propos de la facturation de vos clients:
+
+-   Microsoft n’a pas d’exigences particulières sur la façon dont vous gérez votre propre facturation.
+-   Pour établir la consommation d’un client, utilisez le nom/ID du client et les autres champs pertinents des fichiers de rapprochement.
 -   Ajoutez vos propres frais pour les services et les produits que vous fournissez.
 -   Envoyez une facture unique correspondant à tous les frais à votre client.
 
@@ -66,7 +71,7 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <td>Dates</td>
 <td><ul>
 <li>Votre date de facturation mensuelle correspond au jour du mois que vous avez sélectionné lors de l’inscription. Microsoft envoie un e-mail de confirmation qui indique votre date de facturation.</li>
-<li>Vous pouvez accéder aux listes de prix 1&nbsp;mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12 mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. Nous vous informerons 30 jours à l’avance de toute modification du prix par le biais de la publication de notre liste de prix du partenaire.</li>
+<li>Vous pouvez accéder aux listes de prix un (1)mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. Nous vous informerons 30 jours à l’avance de toute modification du prix par le biais de la publication de notre liste de prix du partenaire.</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -89,7 +94,7 @@ Pour consulter votre facture, accédez au menu **Tableau de bord**, puis sélect
 <tr class="even">
 <td>Disponibilité des factures</td>
 <td><ul>
-<li>Vous pouvez afficher et télécharger vos factures et vos fichiers de rapprochement à partir de la page Facturation de l’Espace partenaires.</li>
+<li>Vous pouvez afficher et télécharger vos factures et vos fichiers de rapprochement à partir de la page Facturation de l’Espace partenaires. Notez que les factures mensuelles sont disponibles sur l’Espace partenaires dans les quatre (4) jours suivant la date de facturation sélectionnée.</li>
 </ul></td>
 </tr>
 <tr class="odd">

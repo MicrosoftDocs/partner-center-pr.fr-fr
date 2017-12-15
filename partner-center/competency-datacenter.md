@@ -3,11 +3,11 @@ title: "Compétence Centre de données"
 description: "La compétence Centre de données reconnaît les partenaires capables de transformer des centres de données en solutions plus flexibles, évolutives et rentables."
 author: Daniel Simpson
 keywords: "compétence, compétences, Centre de données"
-ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
+ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 11/21/2017
 ---
 #<a name="datacenter"></a>Centre de données
 La compétence Centre de données reconnaît les partenaires capables de transformer des centres de données en solutions plus flexibles, évolutives et rentables.
@@ -18,14 +18,16 @@ L’option Solutions de centre de données est idéale si vous préférez prouve
 
     - Domaine stratégique **SystemCenter**2012
 
-        - [Examen70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Surveillance et exploitation d’un cloud privé à lֹ’aide de SystemCenter2012
-        - [Examen70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuration et déploiement d’un cloud privé à l’aide de SystemCenter2012
+        - [Examen70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Surveillance et exploitation d’un cloud privé à l’aide de SystemCenter2012*
+        - [Examen70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuration et déploiement d’un cloud privé à l’aide de SystemCenter2012*
 
-    - Domaine stratégique **Virtualisation**
+\ * Retrait le 31décembre2017. Cet examen continuera d’être accepté pour la qualification de compétence jusqu’au 31décembre2018. Vous pouvez vous inscrire à cet examen jusqu’au 30novembre2017.
+
+   - Domaine stratégique **Virtualisation**
 
         - [Examen74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Virtualisation de serveurs avec WindowsServerHyper-V et SystemCenter
 
-    - Domaine stratégique **WindowsServer2012**
+   - Domaine stratégique **WindowsServer2012**
 
         - [Examen70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installation et configuration de WindowsServer2012
         - [Examen70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administration de WindowsServer2012
@@ -34,7 +36,7 @@ L’option Solutions de centre de données est idéale si vous préférez prouve
         - [Examen70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implémentation d’une infrastructure serveur avancée
         - [Examen70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Mise à niveau de vos compétences vers MCSAWindowsServer2012
 
-    - Domaine stratégique **WindowsServer**2016
+   - Domaine stratégique **WindowsServer**2016
         - [Examen70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, stockage et calcul avec WindowsServer2016
         - [Examen70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Gestion de réseau avec WindowsServer2016
         - [Examen70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identité avec WindowsServer2016

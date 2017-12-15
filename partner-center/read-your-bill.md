@@ -3,11 +3,12 @@ title: Lire votre facture | Espace partenaires
 description: "Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+keywords: "facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?"
+ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -15,9 +16,15 @@ ms.lasthandoff: 07/01/2017
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de MicrosoftCloud Germany
 
-Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires.
+Pour votre facture, accédez au menu **Tableau de bord** et sélectionnez **Facturation** pour afficher votre historique et vos tendances de facturation, des liens vers votre facture et votre fichier de rapprochement, ainsi que votre dernier paiement en date.
+
+Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
+
+>**Remarque**<br>
+Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.
+
 
 Pour plus d’informations sur les frais par élément, utilisez les fichiers de rapprochement joints. Les fichiers de rapprochement comprennent les ID de clients et d’abonnements que vous utiliserez pour créer des factures client. Pour plus d’informations, voir [Utilisation des fichiers de rapprochement](use-the-reconciliation-files.md).
 
@@ -44,7 +51,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="even">
 <td>Adresse de facturation</td>
-<td>Adresse d’expédition de votre facture. Pour changer cette adresse, modifiez votre profil de compte de l’Espace partenaires.</td>
+<td>Adresse d’expédition de votre facture. Pour modifier cette adresse, accédez à Paramètres du compte > Profil de facturation du partenaire. </td>
 </tr>
 <tr class="odd">
 <td>Frais récurrents</td>

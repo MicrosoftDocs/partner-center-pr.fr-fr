@@ -3,10 +3,11 @@ title: "Effectuer la transition de Pinpoint vers l’Espace partenaires | Espace
 Description: "Si vous voyez cette page, ces informations expliquent comment effectuer une transition de Pinpoint vers l’Espace partenaires."
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-ms.openlocfilehash: 0e1b12ea8068c08711658d7748f84e1a14da3bfe
-ms.sourcegitcommit: 4db073829bc4143974f4551e1ea27ef35209bd9f
+ms.openlocfilehash: fce2dda35269a0071fd03317d111e769c26204fc
+ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 11/01/2017
 ---
 # <a name="transition-from-pinpoint-to-partner-center"></a>Effectuer la transition de Pinpoint vers l’Espace partenaires
 

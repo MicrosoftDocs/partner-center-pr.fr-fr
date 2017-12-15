@@ -1,28 +1,28 @@
 ---
-title: Use the reconciliation files | Partner Center
-description: For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard.
+title: Utiliser les fichiers de rapprochement | Espace partenaires
+description: "Pour une vue détaillée de chaque élément facturé dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir du tableau de bord de l’Espace partenaires."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 551afa2468e2bd79f1779a82e6ece3725b33237b
-ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
+ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
+ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2017
+ms.lasthandoff: 11/04/2017
 ---
-# <a name="use-the-reconciliation-files"></a>Use the reconciliation files
+# <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
-**Applies to**
+**S'applique à**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+-  Espace partenaires
+-  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud Germany
 
-For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard. The details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).
+Pour une vue détaillée de chaque élément facturé dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir du tableau de bord de l’Espace partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
 
-## <a href="" id="itemizebypartner"></a>Itemize by partner
+## <a href="" id="itemizebypartner"></a>Détailler par partenaire
 
 
-Partners in the indirect model can use these additional fields in both license-based and usage-based reconciliation files to itemize by reseller.
+Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémentaires dans les fichiers de rapprochement basés sur l’utilisation ou basés sur les licences pour détailler les informations par revendeur.
 
 <table>
 <colgroup>
@@ -31,33 +31,33 @@ Partners in the indirect model can use these additional fields in both license-b
 </colgroup>
 <thead>
 <tr class="header">
-<th>MPN ID</th>
+<th>ID&nbsp;MPN</th>
 <th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>MPN ID</td>
-<td><p>The Microsoft Partner Network (MPN) ID of the CSP partner (direct or indirect).</p></td>
+<td>ID MPN</td>
+<td><p>L’ID MicrosoftPartner Network (MPN) du partenaire fournisseur de solutions Cloud (direct ou indirect).</p></td>
 </tr>
 <tr class="even">
-<td>Reseller MPN ID</td>
-<td><p>Only appears on reconciliation files for partners in the indirect model.</p>
-<p>The MPN ID of the reseller of record for the subscription. This corresponds to the reseller ID listed for the specific subscription in Partner Center.</p>
-<p>eTo view or update the reseller, in the Partner Center menu, select <strong>Customers</strong>, then choose the customer from the list. In the customer menu, select <strong>Subscriptions</strong>, choose the subscription from the list. Select <strong>update</strong> to change the <strong>Reseller (MPN ID)</strong>.</p>
-<p>If a CSP partner sold the subscription directly to the customer, their MPN ID is listed twice, as both the MPN ID and the Reseller MPN ID.</p>
-<p>If a CSP partner has a reseller with no MPN ID, this value is set to the partner’s MPN ID instead.</p>
-<p>If the CSP partner removes a reseller ID, this value will be set to -1.</p></td>
+<td>ID MPN revendeur</td>
+<td><p>Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect.</p>
+<p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Cet&nbsp;ID correspond à l’ID de revendeur indiqué pour l’abonnement dans l’Espace partenaires.</p>
+<p>Pour afficher ou mettre à jour le revendeur, dans le menu Espace partenaires, sélectionnez <strong>Clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
+<p>Si un partenaire&nbsp;Fournisseur de solutions&nbsp;Cloud a vendu l’abonnement directement au client, son ID&nbsp;MPN est indiqué deux&nbsp;fois, en tant qu’ID&nbsp;MPN et ID&nbsp;MPN revendeur.</p>
+<p>Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire.</p>
+<p>Si le partenaire&nbsp;CSP supprime un&nbsp;ID revendeur, cette valeur est définie sur&nbsp;-1.</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a href="" id="licensebasedfiles"></a> License-based file fields
+## <a href="" id="licensebasedfiles"></a> Champs des fichiers basés sur les licences
 
 
-To reconcile your charges against your customer's orders, compare the Syndication\_Partner\_Subscription\_Number from the reconciliation file against the Subscription ID from Partner Center.
+Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abonnement du partenaire de syndication dans le fichier de rapprochement à l’ID d’abonnement dans l’Espace partenaires.
 
 <table>
 <colgroup>
@@ -67,166 +67,166 @@ To reconcile your charges against your customer's orders, compare the Syndicatio
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Colonne</strong></td>
 <td><strong>Description</strong></td>
-<td><strong>Sample Value</strong></td>
+<td><strong>Valeur échantillon</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerId</td>
-<td><p>Unique identifier for a specific billing entity, in GUID format. Not required for reconciliation, however may be useful information. Same in all rows.</p></td>
+<td><p>Identificateur unique de l’entité de facturation spécifique, au format GUID. Non requis pour le rapprochement, peut contenir des informations utiles. Identique dans toutes les lignes.</p></td>
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
 <td>CustomerID</td>
-<td><p>Unique Microsoft ID, in GUID format, used to identify the customer.</p></td>
+<td><p>ID unique de Microsoft, au format GUID, utilisé pour identifier le client.</p></td>
 <td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Unique identifier for an order in the Microsoft billing platform. May be useful to identify the order when contacting support but not for reconciliation.</p></td>
+<td><p>Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la commande lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionID</td>
-<td><p>Unique identifier for a subscription in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p>
-<p>This is not the same as the Subscription ID on the Partner Admin Console. Please see Syndication_Partner_Subscription_Number.</p></td>
+<td><p>Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement.</p>
+<p>Ce numéro est différent de l’ID d’abonnement sur la Console d’administration du partenaire. Voir Syndication_Partner_Subscription_Number.</p></td>
 <td>usCBMgAAAAAAAAIA</td>
 </tr>
 <tr class="even">
-<td>SyndicationPartnerSubscriptionNumber</td>
-<td><p>Unique identifier for subscriptions. A customer can have multiple subscriptions for the same plan, so this is important for reconciliation file analysis.</p>
-<p>This field maps to the Subscription ID in the Partner Admin Console.</p></td>
+<td>Syndication_Partner_Subscription_Number</td>
+<td><p>Identificateur unique des abonnements. Un client pouvant avoir plusieurs abonnements pour la même formule, cet élément est important pour l’analyse des fichiers de rapprochement.</p>
+<p>Ce champ correspond à l’ID d’abonnement dans la Console d’administration du partenaire.</p></td>
 <td>fb977ab5-test-test-test-24c8d9591708</td>
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>Unique offer ID. Standard offer ID as per price list.</p>
-<p><b>Note</b>: This value does not match Offer ID from the price list. See DurableOfferID below.</p></td>
+<td><p>ID d’offre unique. ID d’offre standard conformément à la liste de prix.</p>
+<p><b>Remarque</b>: cette valeur ne correspond pas à l’ID d’offre indiquée dans la liste tarifaire. Voir DurableOfferID ci-dessous.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>Unique durable offer ID, as defined in the price list.</p>
-<p><b>Note</b>: This value matches the Offer ID from the price list.</p></td>
+<td><p>ID d’offre unique durable, comme défini dans la liste des prix.</p>
+<p><b>Remarque</b>: cette valeur correspond à l’ID d’offre de la liste de prix.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
 <td>OfferName</td>
-<td><p>The name of the service offering purchased by the customer, as defined in the price list.</p></td>
-<td>Microsoft Office 365 (Plan E3)</td>
+<td><p>Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix.</p></td>
+<td>Microsoft Office 365 (Plan&nbsp;E3)</td>
 </tr>
 <tr class="even">
 <td>SubscriptionStartDate</td>
-<td><p>The subscription start date, set to the day after the order is submitted. By looking at the subscription start date in conjunction with the end date, you can determine if the customer is still within the first year of the subscription or if the subscription has been renewed for the following year.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>La date de début d’abonnement, définie sur le jour suivant la soumission de la commande. En fonction de la date de début et de la date de fin de l’abonnement, vous pouvez déterminer s’il s’agit toujours de la première année de l’abonnement ou si l’abonnement a été renouvelé pour l’année suivante.</p>
+<p>L’heure indique toujours le début de la journée, 0:00.</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>The subscription end date: 12 months + x days after start date (to align with partner billing date) or 12 months from renewal date.</p>
-<p>At renewal, prices are updated to the current price list. Customer communication may be required in advance of automated renewal.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>Date de fin d’abonnement&nbsp;: 12&nbsp;mois + x&nbsp;jours après la date de début (pour s’aligner sur la date de facturation du partenaire) ou 12&nbsp;mois à partir de la date de renouvellement.</p>
+<p>Lors du renouvellement, les prix sont mis à jour selon la liste des prix en vigueur. La communication avec les clients peut être nécessaire avant le renouvellement automatique.</p>
+<p>L’heure indique toujours le début de la journée (0:00).</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="even">
 <td>ChargeStartDate</td>
-<td><p>Start day of the charges.</p>
-<p>When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>Date de début des frais.</p>
+<p>Quand un client change le nombre de sièges, ce nombre est utilisé pour calculer les frais (prorata) par jour.</p>
+<p>L’heure indique toujours le début de la journée, 0:00.</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="odd">
 <td>ChargeEndDate</td>
-<td><p>End day of the charges.</p>
-<p>When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</p>
-<p>The time is always the end of the day, 23:59.</p></td>
+<td><p>Jour de fin des frais.</p>
+<p>Quand un client change le nombre de sièges, ce nombre est utilisé pour calculer les frais (prorata) par jour.</p>
+<p>L’heure indique toujours la fin de la journée, 23:59.</p></td>
 <td>2/28/2015 23:59</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>The type of charge or adjustment. See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
-<td><p>See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
+<td><p>Le type de frais ou d’ajustement. Voir <a href="#charge_types">Frais de mappage entre une facture et le fichier de rapprochement</a></p></td>
+<td><p>Voir <a href="#charge_types">Frais de mappage entre une facture et le fichier de rapprochement</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Price per seat. Ensure this matches the information stored in your billing system during reconciliation.</p></td>
+<td><p>Prix par siège. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>Quantity</td>
-<td><p>Number of seats. Ensure this matches the information stored in your billing system during reconciliation.</p></td>
+<td>Quantité</td>
+<td><p>Nombre de sièges. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>Amount</td>
-<td><p>Total of price for quantity. Useful to check that the amount calculation matches how you calculate this for your customers.</p></td>
+<td>Montant</td>
+<td><p>Prix total pour la quantité. Permet de vérifier que la méthode de calcul du montant est identique à celle utilisée pour les clients.</p></td>
 <td>13.32</td>
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>Amount of discount applied to these charges. IUR or new subscriptions eligible for an incentive will also contain a discount amount in this column.</p></td>
+<td><p>Montant de la remise appliquée à ces frais. Les nouveaux abonnements ou abonnements IUR pouvant bénéficier d’un incitatif comprennent également le montant de la remise dans cette colonne.</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
-<td>Subtotal</td>
-<td><p>Total before tax. Checks that your subtotal matches your expected total, in case of a discount.</p></td>
+<td>Sous-total</td>
+<td><p>Total avant impôt. Vérifiez que le sous-total correspond au total prévu, en cas de remise.</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Tax</td>
-<td><p>Tax amount charge, based on your market's tax rules and specific circumstances.</p></td>
+<td>Taxe</td>
+<td><p>Montant de la taxe sur les frais, selon les règles fiscales et les circonstances spécifiques de votre marché.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
 <td>TotalForCustomer</td>
-<td><p>Total after tax. Checks if you are charged tax in the invoice.</p></td>
+<td><p>Total après impôts. Vérifie si les impôts sont retenus sur la facture.</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Currency</td>
-<td><p>Currency type. Each billing entity has only one currency. Check that it matches your first invoice and then after any major billing platform update.</p></td>
+<td>Symbole monétaire</td>
+<td><p>Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’elle correspond à votre première facture, et revérifiez après toute mise à jour importante de la plateforme de facturation.</p></td>
 <td>EUR</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer's organization name as reported in Partner Center. This is very important for reconciling the invoice with your system information.</p></td>
-<td>Test Customer A</td>
+<td><p>Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+<td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>MPN ID of the CSP partner</p></td>
+<td><p>ID&nbsp;MPN du partenaire&nbsp;CSP</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN ID of the reseller of record for the subscription. See [Itemize by partner](#itemizebypartner).</p></td>
+<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Customer's domain name, used to help identify the customer.</p></td>
+<td><p>Nom de domaine du client, afin d’identifier le client.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionName</td>
-<td><p>Subscription nickname. If no nickname is specified, Partner Center uses the OfferName.</p></td>
-<td>PROJECT ONLINE</td>
+<td><p>Pseudo d'abonnement. Si aucun pseudo n’est spécifié, l'Espace partenaires utilise le OfferName.</p></td>
+<td>PROJET EN LIGNE</td>
 </tr>
 <tr class="even">
 <td>SubscriptionDescription</td>
-<td><p>The name of the service offering purchased by the customer, as defined in the price list. (This is an identical field to Offer name).</p></td>
-<td>PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</td>
+<td><p>Le nom de l’offre de service achetée par le client, telle que définie dans la liste des prix. (Il s'agit d'un champ identique au nom Offre).</p></td>
+<td>PROJET EN LIGNE PREMIUM SANS CLIENT DE PROJET</td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>Usage-based file fields
+## <a href="" id="usagebasedfiles"></a>Champs des fichiers basés sur l’utilisation
 
 
-To reconcile your charges against your customer's usage, compare the ResellerID/ResellerName/ResellerBillableAccount from the reconciliation file, the customer name, and the Subscription ID from Partner Center.
+Pour rapprocher vos frais de l’utilisation des clients, comparez le champ ResellerID/ResellerName/ResellerBillableAccount du fichier de rapprochement, le nom du client et l’ID d’abonnement de l’Espace partenaires.
 
-The following fields explain which services were used and the rate.
+Les champs suivants décrivent les services utilisés et leurs taux.
 
 <table>
 <colgroup>
@@ -236,219 +236,219 @@ The following fields explain which services were used and the rate.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Colonne</strong></td>
 <td><strong>Description</strong></td>
-<td><strong>Sample value</strong></td>
+<td><strong>Valeur échantillon</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
-<td><p>Partner ID, in GUID format.</p></td>
+<td><p>ID partenaire au format GUID.</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="odd">
 <td>PartnerName</td>
-<td><p>Partner Name.</p></td>
+<td><p>Nom du partenaire.</p></td>
 <td>Acme Incorporated</td>
 </tr>
 <tr class="even">
 <td>PartnerBillableAccountID</td>
-<td><p>Partner Account ID.</p></td>
+<td><p>ID de compte partenaire.</p></td>
 <td>1010578050</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer's organization name as reported in Partner Center. This is very important for reconciling the invoice with your system information.</p></td>
-<td>Test Customer A</td>
+<td><p>Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+<td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>MPN ID of the CSP partner.</p></td>
+<td><p>ID&nbsp;MPN du partenaire&nbsp;CSP.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN ID of the reseller of record for the subscription. See [Itemize by partner](#itemizebypartner).</p></td>
+<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>InvoiceNumber</td>
-<td><p>Invoice number where the specified transaction appears.</p></td>
+<td><p>Le numéro de la facture dans laquelle la transaction spécifiée apparaît.</p></td>
 <td>D020001IVK</td>
 </tr>
 <tr class="odd">
 <td>ChargeStartDate</td>
-<td><p>Start date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>Date de début du cycle de facturation, sauf pour les dates de données d’utilisation latentes jamais facturées (à partir du cycle de facturation précédent).</p>
+<p>L’heure indique toujours le début de la journée, 0:00.</p></td>
 <td>2/1/2014 0:00</td>
 </tr>
 <tr class="even">
 <td>ChargeEndDate</td>
-<td><p>End date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</p>
-<p>The time is always the end of the day, 23:59.</p></td>
+<td><p>Date de fin du cycle de facturation, sauf pour les dates de données d’utilisation latentes jamais facturées (à partir du cycle de facturation précédent).</p>
+<p>L’heure indique toujours la fin de la journée, 23:59.</p></td>
 <td>2/28/2014 23:59</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionID</td>
-<td><p>Unique identifier for a subscription in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p>
-<p>This is not the same as the Subscription ID on the Partner Admin Console.</p></td>
+<td><p>Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement.</p>
+<p>Ce numéro est différent de l’ID d’abonnement sur la Console d’administration du partenaire.</p></td>
 <td>usCBMgAAAAAAAAIA</td>
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nickname of the service offering.</p></td>
+<td><p>Pseudo de l’offre de service.</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionDescription</td>
-<td><p>Line of business of the service offering</p></td>
-<td>Microsoft Azure</td>
+<td><p>Cœur de métier de l’offre de service</p></td>
+<td>Microsoft&nbsp;Azure</td>
 </tr>
 <tr class="even">
-<td>OrderID</td>
-<td><p>Unique identifier for an order in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p></td>
+<td>OrderId</td>
+<td><p>Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
 <td>ServiceName</td>
-<td><p>The name of the Azure service in question.</p></td>
-<td>VIRTUAL MACHINES</td>
+<td><p>Nom du service Azure en question.</p></td>
+<td>MACHINES VIRTUELLES</td>
 </tr>
 <tr class="even">
 <td>ServiceType</td>
-<td><p>The specific type of Windows Azure service.</p></td>
+<td><p>Type spécifique de service Windows&nbsp;Azure.</p></td>
 <td><ul>
-<li>Service Bus – Individual or Pack</li>
-<li>SQL Azure database – Business or Web Edition</li>
+<li>Service Bus - Individuel ou Pack</li>
+<li>Base de données SQL Azure - Entreprise ou Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>ResourceGUID</td>
-<td><p>Specific unique identifier for all the service data and pricing structure.</p></td>
+<td><p>Identificateur unique spécifique pour toutes les données de service et la structure de tarification.</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
-<td>Resource Name</td>
-<td><p>The name of the Azure resource.</p></td>
+<td>Nom de la ressource</td>
+<td><p>Nom de la ressource Azure.</p></td>
 <td><ul>
-<li>Data Transfer In (GB)</li>
-<li>Data Transfer Out (GB)</li>
+<li>Transfert de données entrantes (Go)</li>
+<li>Transfert de données sortantes (Go)</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Region</td>
-<td><p>The region the usage applies to. Primarily used to assign rates to data transfers, as rates vary by region.</p></td>
-<td>Asia Pacific, Europe, Latin America, North America</td>
+<td>Région</td>
+<td><p>Région dans laquelle s’applique l’utilisation. Principalement utilisée pour affecter des taux aux transferts de données, car les taux varient selon la région.</p></td>
+<td>Asie-Pacifique, Europe, Amérique latine, Amérique du Nord</td>
 </tr>
 <tr class="even">
 <td>SKU</td>
-<td><p>MSFT unique identifier for offer</p></td>
+<td><p>Identificateur unique MSFT de l’offre</p></td>
 <td>7UD-00001</td>
 </tr>
 <tr class="odd">
 <td><p>DetailLineItemId</p></td>
-<td><p>An ID and quantity for itemizing the different rates for a service or resource in a given billing period. For Azure tiered rating, there may be one rate up to a certain quantity of billable units, then a different rate after that.</p></td>
+<td><p>ID et quantité permettant de détailler les différents taux pour un service ou une ressource sur une période de facturation donnée. Pour l’évaluation par niveau d’Azure, il peut y avoir un taux jusqu’à une certaine quantité d’unités facturées, puis un autre pour les quantités plus élevées.</p></td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>ConsumedQuantity</td>
-<td><p>The amount of service consumed (hours, GB, etc.) during the reporting period.</p>
-<p>Also includes any unbilled usage from previous reporting periods.</p></td>
+<td><p>Quantité de service utilisé (heures, Go, etc.) pendant la période en question.</p>
+<p>Inclut également toute utilisation non facturée pour les périodes précédentes.</p></td>
 <td>11</td>
 </tr>
 <tr class="odd">
 <td>IncludedQuantity</td>
-<td><p>Units included as part of the offer. Not typically present in CSP.</p></td>
+<td><p>Unités incluses dans le cadre de l’offre. Généralement non présent pour le programme Fournisseur de solutions Cloud.</p></td>
 <td>0</td>
 </tr>
 <tr class="even">
 <td><p>OverageQuantity</p></td>
-<td><p>Units not included as part of the offer, that must be paid for by the partner.</p>
-<p>Equal to the ConsumedQuantity - IncludedQuantity.</p></td>
+<td><p>Unités non incluses dans le cadre de l’offre, qui doivent être payées par le partenaire.</p>
+<p>Correspond à ConsumedQuantity - IncludedQuantity.</p></td>
 <td>11</td>
 </tr>
 <tr class="odd">
 <td>ListPrice</td>
-<td><p>Offer price in effect at subscription start date.</p></td>
+<td><p>Prix de l’offre en vigueur à la date de début de l’abonnement.</p></td>
 <td>$0.0808</td>
 </tr>
 <tr class="even">
 <td>PretaxCharges</td>
-<td><p>ListPrist times OverageQuantity, rounded to the nearest cent.</p></td>
+<td><p>ListPrist fois OverageQuantity, arrondi au centime près.</p></td>
 <td>$0.085</td>
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Tax amount charge, based on your market's tax rules and specific circumstances.</p></td>
+<td><p>Montant de la taxe sur les frais, selon les règles fiscales et les circonstances spécifiques de votre marché.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>PostTaxTotal</td>
-<td><p>Total after tax, when tax is applicable.</p></td>
+<td><p>Total après impôts, le cas échéant.</p></td>
 <td>$0.93</td>
 </tr>
 <tr class="odd">
-<td>Currency</td>
-<td><p>Currency type. Each billing entity has only one currency. Check that it matches your first invoice and then after any major billing platform update.</p></td>
+<td>Symbole monétaire</td>
+<td><p>Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’elle correspond à votre première facture, et revérifiez après toute mise à jour importante de la plateforme de facturation.</p></td>
 <td>EUR</td>
 </tr>
 <tr class="even">
 <td>PretaxEffectiveRate</td>
-<td><p>Pretax price per unit. Equal to PretaxCharges / OverageQuantity, rounded to the nearest cent.</p></td>
+<td><p>Prix avant impôts par unité. Correspond à PretaxCharges / OverageQuantity, arrondi au centime près.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
-<td><p>Post tax price per unit. Equal to PostTaxTotal / OverageQuantity, or PretaxEffectiveRate + tax rate per unit amoun, rounded to the nearest cent.</p></td>
+<td><p>Prix après impôts par unité. Correspond à PostTaxTotal / OverageQuantity, ou à PretaxEffectiveRate + taux d’imposition par unité, arrondi au centime près.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>The type of charge or adjustment. See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
-<td><p>See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
+<td><p>Le type de frais ou d’ajustement. Voir <a href="#charge_types">Frais de mappage entre une facture et le fichier de rapprochement</a></p></td>
+<td><p>Voir <a href="#charge_types">Frais de mappage entre une facture et le fichier de rapprochement</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
-<td><p>Unique account ID in the MSFT billing platform.</p></td>
+<td><p>ID de compte unique dans la plateforme de facturation MSFT.</p></td>
 <td>1280018095</td>
 </tr>
 <tr class="even">
 <td>UsageDate</td>
-<td><p>Date of service deployment.</p></td>
+<td><p>Date du déploiement du service.</p></td>
 <td>2/1/2014 0:00</td>
 </tr>
 <tr class="odd">
 <td>MeteredRegion</td>
-<td><p>This column identifies the location of a data center within the region for services where this is applicable and populated.</p></td>
-<td>East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</td>
+<td><p>Cette colonne identifie l’emplacement d’un centre de données dans la région (le cas échéant).</p></td>
+<td>Asie de l’Est, Asie du Sud-Est, Europe du Nord, Europe de l’Ouest, États-Unis Centre Nord, États-Unis Centre Sud</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
-<td><p>This column is utilized to track the individual Microsoft Azure service that may not be specifically identified in the Service Name column. For example, data transfers are reported as &quot;Microsoft Azure - All Services&quot; in the Service Name column. This MeteredService column will indicate to which specific service the usage pertains.</p></td>
+<td><p>Cette colonne permet de suivre le service Microsoft Azure qui peut ne pas être spécifiquement identifié dans la colonne ServiceName. Par exemple, les transferts de données sont signalés comme &quot;Microsoft Azure - Tous les services&quot; dans la colonne de ServiceName. Cette colonne MeteredService indiquera à quel service l’utilisation se rapporte.</p></td>
 <td>AccessControl, CDN, Compute, Database, ServiceBus, Storage</td>
 </tr>
 <tr class="odd">
 <td>MeteredServiceType</td>
-<td><p>A subheading that further clarifies the individual Microsoft Azure service beyond the level provided by the MeteredService field.</p></td>
-<td>EXTERNAL</td>
+<td><p>Sous-titre qui clarifie le service Microsoft&nbsp;Azure individuel plus précisément que dans le champ MeteredService.</p></td>
+<td>EXTERNE</td>
 </tr>
 <tr class="even">
-<td>Project</td>
-<td><p>Customer-defined name for their service instance</p></td>
+<td>Projet</td>
+<td><p>Nom défini par le client pour son instance de service</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
-<td><p>The number of ServiceBus connections that were provisioned and utilized on a given day.</p></td>
-<td>For example: if you had an individually provisioned connection during a 30 day month, Service Info 1 would read “1.000000 Connections / 30 days”. If you had a 25 pack of ServiceBus connections provisioned and you had utilized 1 during that day, your daily usage statement for that day would indicate “25 Connections / 30 Days – Used: 1.000000”.</td>
+<td><p>Nombre de connexions ServiceBus qui ont été configurées et utilisées sur un jour donné.</p></td>
+<td>Exemple : si vous avez utilisé une connexion configurée individuellement pendant un mois de 30 jours, Service Info 1 indique « 1 connexion/30 jours ». Si vous avez un pack de 25 connexions ServiceBus et que vous en avez utilisé 1 ce jour-là, votre relevé d’utilisation quotidienne indiquera « 25 connexions/30 jours - Utilisées : 1 ».</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
-<td><p>Unique Microsoft ID, in GUID format, used to identify the customer.</p></td>
+<td><p>ID unique de Microsoft, au format GUID, utilisé pour identifier le client.</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Customer's domain name, used to help identify the customer.</p></td>
+<td><p>Nom de domaine du client, afin d’identifier le client.</p></td>
 <td>exemple.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -463,217 +463,219 @@ The following fields explain which services were used and the rate.
 
 ## <a href="" id="charge_types"></a>Mise en correspondance des frais entre une facture et le fichier de rapprochement
 
-Your invoice provides a summary of charges, while your reconciliation file provides a detailed breakdown of line-item transactions, including charge types.
+Votre facture inclut un récapitulatif des frais, tandis que votre fichier de rapprochement fournit une description détaillée des transactions de chaque ligne d'élément, et indique également les types de frais.
 
-To cross-reference charge amounts between the invoice and reconciliation file, you can use Microsoft Excel's filter options to filter by charge types on the reconciliation file to map the invoice charges to a set of charge breakdowns on reconciliation file.
+Afin de comparer les frais indiqués sur la facture et le fichier de rapprochement, vous pouvez utiliser les options de filtre de MicrosoftExcel pour trier les types de frais du fichier de rapprochement et les faire correspondre à un ensemble de frais détaillés sur ce même fichier.
 
-The table below shows the mappings between an invoice section and associated charge types that might show up on the reconciliation files. 
+Les fichiers de rapprochement, à la fois basés sur les licences et sur l’utilisation, affichent uniquement les transactions et les frais basés sur l’utilisation (unités consommées et frais associés). Les crédits, remises ou remboursements ponctuels qui apparaissent sur la facture en tant qu’«ajustements» ne sont pas affichés dans le fichier de rapprochement.
+
+Le tableau ci-dessous indique les correspondances entre une section de la facture et les types de frais associés qui peuvent figurer sur les fichiers de rapprochement. 
 
 <table>
 <tbody>
 <tr>
 <td>
-<p><strong>Invoice charge description</strong></p>
+<p><strong>Description des frais indiqués sur les factures</strong></p>
 </td>
 <td>
-<p><strong>Reconciliation file charge description (ChargeType column)</strong></p>
+<p><strong>Description des frais figurant sur le fichier de rapprochement (colonne ChargeType)</strong></p>
 </td>
 <td>
-<p><strong>What is this charge?</strong></p>
+<p><strong>À quoi correspondent ces frais?</strong></p>
 </td>
 <td>
-<p><strong>How do I map these ChargeTypes to the invoice?</strong></p>
+<p><strong>Comment faire correspondre ces types de frais ChargeType sur la facture?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p><strong>Recurring Charges</strong></p>
+<p><strong>Frais récurrents</strong></p>
 </td>
 <td>
-<p>Cancel instance prorate</p>
+<p>Annuler l'instance au prorata</p>
 </td>
 <td>
-<p>Prorated charges refunded to the customer when associated seats are changed</p>
+<p>Les frais au prorata remboursés au client lorsque des sièges associés sont modifiés</p>
 </td>
 <td rowspan="8">
-<p>From license-based file, sum the <strong>Amount</strong> column</p>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Montant</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Cycle fee</p>
+<p>Frais de cycle</p>
 </td>
 <td>
-<p>Periodic charges for a subscription</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Cycle instance prorate</p>
-</td>
-<td>
-<p>Prorated charges assessed from the customer when associated seats are changed</p>
+<p>Frais périodiques de l’abonnement</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Prorate fees when cancel</p>
+<p>Instance de cycle au prorata</p>
 </td>
 <td>
-<p>Prorated refund for unused portion of service upon cancellation</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Prorate fees when purchase</p>
-</td>
-<td>
-<p>Prorated fees upon purchase</p>
+<p>Les frais au prorata évalués du client lorsque des sièges associés sont modifiés</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Purchase fee</p>
+<p>Frais au prorata en cas d'annulation</p>
 </td>
 <td>
-<p>Initial charge for a subscription</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Prorate fee when renew</p>
-</td>
-<td>
-<p>Prorated fees upon subscription renewal</p>
+<p>Remboursement au prorata pour la partie inutilisée du service lors de l’annulation</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Renew fee</p>
+<p>Frais au prorata en cas d’achat</p>
 </td>
 <td>
-<p>Charge for renewing a subscription</p>
+<p>Frais au prorata lors de l’achat</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Other Products and Services</strong></p>
+<p>Frais d’abonnement</p>
 </td>
 <td>
-<p>Prorate fees when activate</p>
+<p>Frais initiaux de l’abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frais au prorata lors du renouvellement</p>
 </td>
 <td>
-<p>Prorated fees from activation until end of billing period</p>
+<p>Frais au prorata lors du renouvellement de l’abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frais de renouvellement</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>Amount</strong> column</p>
+<p>Frais de renouvellement d'un abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Autres produits et services</strong></p>
+</td>
+<td>
+<p>Frais au prorata lors de l'activation</p>
+</td>
+<td>
+<p>Frais au prorata de l’activation à la fin de la période de facturation</p>
+</td>
+<td>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Montant</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p><strong>Usage Charges</strong></p>
+<p><strong>Frais d’utilisation</strong></p>
 </td>
 <td>
-<p>Assess usage fee when cancel</p>
+<p>Évaluer les frais d’utilisation lors de l'annulation</p>
 </td>
 <td>
-<p>Access usage fee upon cancellation for unpaid usage during the current billing period</p>
+<p>Frais d’utilisation de l’accès lors de l’annulation pour une utilisation impayée pendant la période de facturation en cours</p>
 </td>
 <td rowspan="2">
-<p>From usage-based file, sum the <strong>PretaxCharges</strong> column</p>
+<p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>PretaxCharges</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Assess usage fee for current cycle</p>
+<p>Évaluer les frais d’utilisation pour le cycle actuel</p>
 </td>
 <td>
-<p>Access usage fee for the current billing period</p>
+<p>Frais d’utilisation de l’accès pour la période de facturation en cours</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Credits &amp; Adjustments</strong></p>
+<p><strong>Crédits &amp; ajustements</strong></p>
 </td>
 <td>
-<p>Offset a line item</p>
+<p>Décalage d’un élément de ligne</p>
 </td>
 <td>
-<p>Partial or whole refund to a line item, including taxes</p>
+<p>Remboursement partiel ou total d'un élément de ligne, taxes incluses</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>TotalForCustomer</strong> column</p>
-<p>From usage-based file, sum the <strong>PostTaxTotal</strong> column</p>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>TotalForCustomer</strong></p>
+<p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>PostTaxTotal</strong></p>
 </td>
 </tr>
 
 
 <tr>
 <td rowspan="4">
-<p><strong>Other Discounts</strong></br>
-<em>(usage-based)</em></p>
+<p><strong>Autres remises</strong></br>
+<em>(basées sur l’utilisation)</em></p>
 </td>
 <td>
-<p>Activation discount</p>
+<p>Remise sur l’activation</p>
 </td>
 <td>
-<p>Discount applied when subscription activated</p>
+<p>Remise appliquée lors de l’activation de l’abonnement</p>
 </td>
 <td rowspan="4">
-<p>From usage-based file, sum the <strong>PretaxCharges</strong> column</p>
+<p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>PretaxCharges</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Cycle discount</p>
+<p>Remise sur le cycle</p>
 </td>
 <td>
-<p>Discount applied on periodic charges</p>
-</td>
-</tr><tr>
-<td>
-<p>Renew discount</p>
-</td>
-<td>
-<p>Discount applied when subscription renewed</p>
+<p>Remise appliquée sur les frais périodiques</p>
 </td>
 </tr><tr>
 <td>
-<p>Cancel discount</p>
+<p>Renouveler la remise</p>
 </td>
 <td>
-<p>Charges applied when discounts cancelled</p>
+<p>Remise appliquée lors du renouvellement de l’abonnement</p>
+</td>
+</tr><tr>
+<td>
+<p>Annuler la remise</p>
+</td>
+<td>
+<p>Frais appliqués lors de l’annulation des remises</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Other Discounts</strong></br>
-<em>(license-based)</em></p>
+<p><strong>Autres remises</strong></br>
+<em>(basées sur une licence)</em></p>
 </td>
 <td>
-<p><em>May be applied to multiple charge types</em></p>
+<p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
 </td>
 <td>
 <p>&nbsp;</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>TotalOtherDiscount</strong> column</p>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>TotalOtherDiscount</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Taxes</strong>&nbsp;or&nbsp;<strong>VAT</strong></p>
+<p><strong></strong>&nbsp;ou&nbsp;<strong>TVA</strong></p>
 </td>
 <td>
-<p><em>May be applied to multiple charge types</em></p>
-<p><em>Exception: "Offset a line item" already includes taxes. See Credits &amp; Adjustments, above.</em></p>
+<p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
+<p><em>Exception: les taxes sont déjà incluses dans «Décalage d'un élément de la ligne». Consultez les crédits &amp;ajustements ci-dessus.</em></p>
 </td>
 <td>
-<p>Taxes or value-added taxes (VAT)</p>
+<p>Taxes ou taxe sur la valeur ajoutée (TVA)</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>Tax</strong> column</p>
-<p>From usage-based file, sum the <strong>TaxAmount</strong> column</p>
+<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Taxes</strong></p>
+<p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>TaxAmount</strong></p>
 </td>
 </tr>
 </tbody>

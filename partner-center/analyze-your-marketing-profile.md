@@ -3,13 +3,13 @@ title: "Analyser l’efficacité de votre profil commercial | Espace partenaires
 description: "Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires."
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 1b39b36c0c2676bc58c545b01aa5ba78c70890a4
-ms.sourcegitcommit: 7a1f50804d68c36cd69afcd7e3f3bb19df882594
+ms.openlocfilehash: 508d1ec16a1b58a9bf98dd5bfba013d2d3e04c57
+ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/11/2017
+ms.lasthandoff: 11/01/2017
 ---
-# <a name="analyze-the-effectiveness-of-your-marketing-profile"></a>Analyser l’efficacité de votre profil commercial
+# <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analyser l’efficacité de votre profil commercial
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -26,7 +26,7 @@ Lorsque vous commencez à [répondre à ces références](responding-to-referral
 
 Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. À partir du tableau de bord de l’Espace partenaires, accédez à **Références > Pages marketing**.
 
-Ces rapports présentent les performances des profils de marketing pour toutes les régions. Les rapports affichent les données des 90derniers jours, regroupés par semaine.
+Ces rapports présentent les performances des profils commerciaux pour toutes les régions. Les rapports affichent les données des 90derniers jours, regroupés par semaine.
 
 *  **Tendances**: affiche les 90derniers jours, regroupés par semaine. données hebdomadaires pour les 90derniers jours et pourcentage de modification par rapport à la période précédente des mesures suivantes:
 

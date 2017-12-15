@@ -3,13 +3,14 @@ title: "Compétence Applications métier du cloud"
 description: "La compétence Applications métier du cloud est destinée aux partenaires spécialisés dans le déploiement et la gestion de MicrosoftDynamics365 pour leurs clients."
 author: Daniel Simpson
 keywords: "compétence, compétences, Applications métier du cloud"
-ms.openlocfilehash: d38847cf292c15334bc850e0782a1af9842f3d33
-ms.sourcegitcommit: 581682c6f2098dc4cf19ca82fcdec90bc6bfe975
+ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2017
+ms.lasthandoff: 11/16/2017
 ---
-#<a name="cloud-business-applications"></a>Applications métier du cloud 
+# <a name="cloud-business-applications"></a>Applications métier du cloud 
+
 La compétence Applications métier du cloud est destinée aux partenaires spécialisés dans le déploiement et la gestion de MicrosoftDynamics365 pour leurs clients.
 
 - [Option Engagement client](#enterprise-customer-engagement-option)
@@ -24,10 +25,10 @@ La compétence Applications métier du cloud aide les partenaires à présenter 
 Vous pouvez également marquer vos réalisations personnelles en tant qu'employé tout au long du processus grâce à un badge numérique qui reconnaît et souligne vos succès en temps réel. [En savoir plus](https://www.microsoft.com/en-us/learning/badges.aspx).  
 
 
-##<a name="enterprise-customer-engagement-option"></a>Option Engagement client
+## <a name="enterprise-customer-engagement-option"></a>Option Engagement client
 L’option Engagement client est idéale pour les partenaires qui interagissent avec les entreprises. Effectuez toutes les étapes correspondantes pour acquérir la compétence Applications métier du cloud.
 
-###<a name="silver"></a>Silver
+### <a name="silver"></a>Silver
 1. Votre entreprise doit atteindre les seuils de performances suivants.
 
     - **Marchés développés**
@@ -50,13 +51,12 @@ L’option Engagement client est idéale pour les partenaires qui interagissent 
     
     **ET**
     
-    - Ces mêmes **5**personnes, ou d'autres, doivent également réussir l’un des examens suivants:
+    - Les mêmes **5** personnes doivent réussir l’un des examens fonctionnels suivants:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): MicrosoftDynamics365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): MicrosoftDynamics365 for Customer Service
-        - MB2-877: MicrosoftDynamics365 for Field Service (disponible en décembre2017)
-        
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): MicrosoftDynamics365 for Field Service *Nouvel examen disponible à partir de décembre2017
 
-###<a name="gold"></a>Gold
+### <a name="gold"></a>Gold
 1. Votre entreprise doit atteindre les seuils de performances suivants.
 
     - **Marchés développés**
@@ -82,13 +82,13 @@ L’option Engagement client est idéale pour les partenaires qui interagissent 
     - Ces mêmes **15**personnes, ou d'autres, doivent également réussir l’un des examens suivants:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): MicrosoftDynamics365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): MicrosoftDynamics365 for Customer Service
-        - MB2-877: MicrosoftDynamics365 for Field Service (disponible en décembre2017)
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): MicrosoftDynamics365 for Field Service 
 
-##<a name="enterprise-operations-option"></a>Option Opérations client
+## <a name="enterprise-operations-option"></a>Option Opérations client
 
 L’option Opérations client est idéale pour les partenaires qui interagissent avec les entreprises, en particulier sur le Dynamics365 Unified Operations Plan. Effectuez toutes les étapes correspondantes pour acquérir la compétence Applications métier du cloud.
 
-###<a name="silver"></a>Silver
+### <a name="silver"></a>Silver
 1. Votre entreprise doit atteindre les seuils de performances suivants.
 
     - **Marchés développés**
@@ -107,35 +107,21 @@ L’option Opérations client est idéale pour les partenaires qui interagissent
     - [En savoir plus](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sur ces associations.  
 
 2. **5**personnes de votre entreprise doivent satisfaire aux exigences d’examens.
-
-    - Ces mêmes **5**personnes doivent réussir tous les examens techniques suivants: 
-
-        - MB6-894: Development, Extensions and Deployment for Dynamics 365 Finance and Operations, Enterprise edition (disponible en novembre2017)
-
-        - 70-534: Architecting Microsoft Azure Solutions (disponible en novembre2017)
-
-    **ET**
+ 
+    - Les **5**mêmes personnes doivent réussir tous les examens techniques suivants:
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Development, Extensions and Deployment for MicrosoftDynamics365 for Finance and Operations* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Construction de solutions MicrosoftAzure
     
-    - Ces mêmes **5**personnes, ou d'autres, doivent également réussir l’un des examens fonctionnels suivants: (disponibles en novembre2017)
+    **ET**
+
+    - Ces mêmes **5**personnes, ou d’autres, doivent également réussir l’un des examens fonctionnels suivants: 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Financial Management in MicrosoftDynamics365 for Finance and Operations
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Distribution and Trade in MicrosoftDynamics365 for Finance and Operations
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): MicrosoftDynamics365 for Retail 
         
-        - MB6-895: Financials Management in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (disponible en novembre2017)
-        
-        - MB6-896: Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (disponible en novembre2017)
-        
-        - MB6-897: Microsoft Dynamics 365 for Retail (disponible en novembre2017)
+*Nouvel examen disponible à partir de décembre2017
 
-    **OU**
-
-    - **5**personnes doivent réussir tous les examens fonctionnels et techniques suivants:
-        - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): MicrosoftDynamicsAX Finances*
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): MicrosoftDynamicsAX - Distribution et commerce*
-        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Introduction au développement MicrosoftDynamicsAX*
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administration d’une infrastructure de base de données MicrosoftSQL*
-
-\ * Mise hors service le 31décembre2017. Ces examens continueront d’être acceptés pour la qualification de compétence jusqu’au 31décembre2018.
-
-###<a name="gold"></a>Gold
+### <a name="gold"></a>Or
 
 1. Votre entreprise doit atteindre les seuils de performances suivants.
 
@@ -161,22 +147,15 @@ L’option Opérations client est idéale pour les partenaires qui interagissent
 
         - MB6-894: Development, Extensions and Deployment for Dynamics 365 Finance and Operations, Enterprise edition (disponible en novembre2017)
 
-        - 70-534: Architecting Microsoft Azure Solutions (disponible en novembre2017)
+    - **15** personnes doivent réussir tous les examens suivants:
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Development, Extensions and Deployment for MicrosoftDynamics365 for Finance and Operations* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Construction de solutions MicrosoftAzure 
 
-   **ET**
-    
-    - Ces mêmes **15**personnes, ou d'autres, doivent également réussir l’un des examens fonctionnels suivants:
-        
-        - MB6-895: Financials Management in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (disponible en novembre2017)
-        - MB6-896: Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (disponible en novembre2017)
-        - MB6-897: Microsoft Dynamics 365 for Retail (disponible en novembre2017)
+    **ET** 
 
-    **OU**
-    - **15**personnes doivent réussir tous les examens fonctionnels et techniques suivants:
-       - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-       - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): MicrosoftDynamicsAX Finances*
-       - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): MicrosoftDynamicsAX - Distribution et commerce*
-       - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Introduction au développement MicrosoftDynamicsAX*
-       - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administration d’une infrastructure de base de données MicrosoftSQL*
- 
-\ * Mise hors service le 31décembre2017. Ils continueront d’être acceptés pour la qualification de compétence jusqu’au 31décembre2018.
+    - Ces mêmes **15**personnes, ou d’autres, doivent également réussir l’un des examens fonctionnels suivants: 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Financial Management in MicrosoftDynamics365 for Finance and Operations
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Distribution and Trade in MicrosoftDynamics365 for Finance and Operations
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): MicrosoftDynamics365 for Retail
+
+*Nouvel examen disponible à partir de décembre2017

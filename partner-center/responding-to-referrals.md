@@ -3,11 +3,11 @@ title: "Réponse aux références | Espace partenaires"
 description: "Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires."
 author: KPacquer
 keywords: "référence, RFI, rechercher un partenaire"
-ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Réponse aux références dans l'Espace partenaires
 
@@ -27,7 +27,7 @@ Commencez par configurer un [profil commercial](create-a-marketing-profile.md) p
 
 Lorsqu’un client sera prêt à vous contacter, il enverra une demande d’informations (RFI). 
 
-Nous enverrons alors un courrier électronique au contact répertorié dans votre [profil commercial](create-a-marketing-profile.md) spécifique de la région et du site sélectionné. Vous pouvez également afficher les demandes entrantes dans l’Espace partenaires: accédez à **Tableau de bord > Références > Références clients**.
+Nous enverrons alors un e-mail au contact répertorié dans votre [profil commercial](create-a-marketing-profile.md) pour la région et le site sélectionné. Vous pouvez également afficher les demandes entrantes dans l’Espace partenaires: accédez à **Tableau de bord > Références > Références clients**.
 
 Les clients choisissent souvent d’envoyer un même RFI à plusieurs sociétés en même temps. Pour augmenter vos chances de succès, nous vous recommandons de répondre aux nouvelles références et de les accepter ou de les refuser dans les 24heures au maximum.
 

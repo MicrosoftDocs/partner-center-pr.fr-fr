@@ -3,11 +3,11 @@ title: "Créer un profil commercial | Espace partenaires"
 description: "Attirez davantage de clients potentiels en créant un profil commercial dans l’Espace partenaires."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/22/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,7 +18,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>Créer un profil commercial
+# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Créer un profil commercial pour obtenir des prospects de la part de Microsoft
 
 **S'applique à**
 
@@ -30,7 +30,8 @@ Microsoft communique avec des millions de clients chaque année, par ses opérat
 
 La première étape pour obtenir ces prospects consiste à créer un profil commercial. Nous présenterons votre profil aux clients qui recherchent des partenaires pour les aider à mettre en œuvre des produits et des solutions Microsoft, par le biais de:
 
-*  **la fonction de recherche [Rechercher un partenaire](https://partnercenter.microsoft.com/pcv/search)**. Les clients potentiels peuvent eux-mêmes effectuer des recherches dans les descriptions des partenaires afin de trouver ceux qui répondent à leurs critères. 
+*  **la fonction de recherche [Rechercher un partenaire](https://partnercenter.microsoft.com/pcv/search)**. Les clients potentiels peuvent eux-mêmes effectuer des recherches dans les descriptions des partenaires afin de trouver ceux qui répondent à leurs critères.
+
 *  **Références des employés des ventes et du service de Microsoft**. Les clients potentiels souhaitant déployer des solutions technologiques sur le cloud contactent Microsoft afin de trouver des professionnels qui puissent répondre aux besoins de leur entreprise. Ces professionnels de Microsoft peuvent ensuite transmettre ces références de clients potentiels à votre entreprise.
 
 **Pinpoint et C2PC**: nous fusionnons ces outils dans l’Espace partenaires. Si vous avez déjà utilisé ces outils, créez un nouveau profil commercial dans l’Espace partenaires pour continuer à générer et à gérer vos clients potentiels. Notez que l’importation de profils à partir d’anciens sites n’est pas prise en charge pour le moment. 
@@ -41,9 +42,9 @@ Créez des profils pour chaque région dans laquelle vous êtes autorisé à exe
 
 1.  Connectez-vous à l’[Espace partenaires](http://go.microsoft.com/fwlink/p/?LinkId=808956) à l’aide d’un [compte d’administrateur global ou d’agent administratif](create-user-accounts-and-set-permissions.md).
 
-2.  À partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **Afficher les profils commerciaux** &gt; sélectionnez un pays/une région > **[Créer un profil commercial](https://partnercenter.microsoft.com/pcv/publishing)**.
+2.  À partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **View business profiles** &gt; sélectionnez un pays/une région > **[Create a business profile](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-3.  Dans la page **Créer un profil commercial**, sélectionnez une région, puis saisissez les informations de votre profil. Renseignez notamment les sections informations sur le partenaire et expertise du partenaire.
+3.  Dans la page **Create a business profile**, sélectionnez une région, puis saisissez les informations de votre profil.
     
     Notez que si l’Espace partenaires prend en charge plusieurs langues, il est possible que certains éléments tels que la description et les balises de forme libre doivent inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
 

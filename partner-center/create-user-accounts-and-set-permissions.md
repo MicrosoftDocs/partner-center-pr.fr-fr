@@ -1,56 +1,53 @@
 ---
-title: Create user accounts and set permissions | Partner Center
-description: The admin creates a user account for each partner employee who needs access to Partner Center.
+title: "Créer des comptes d’utilisateur et définir des autorisations | Espace partenaires"
+description: "L’administrateur crée un compte d’utilisateur pour chaque employé du partenaire devant accéder à l’Espace partenaires."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 6a54dd2a221f38edb2439596ba2637907dad73de
-ms.sourcegitcommit: f62ea44fb20c2ada21154e254984413ee2a685f3
+ms.openlocfilehash: 337100db2ee89fcb92b040db52b62383cef37aeb
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/18/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>Create user accounts and assign permissions
+# <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
-**Applies to**
+**S'applique à**
 
--  Partner Center
+-  Espace partenaires
 
-Create user accounts for employees who need access to Partner Center. These tasks must be done by an admin with user management admin permissions. 
+Créer des comptes d’utilisateur pour les employés qui doivent accéder à l'Espace partenaires. Ces tâches doivent être effectuées par un administrateur disposant de l’autorisation Administrateur de la gestion des utilisateurs. 
 
-## <a name="add-a-new-user"></a>Add a new user
+## <a name="add-a-new-user"></a>Ajouter un utilisateur
 
-1. On the **Dashboard** menu, select **Account settings > User management**.
+1. Dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte > Gestion des utilisateurs**.
 
-2.  Select **Add user**.
+2.  Sélectionnez **Ajouter un utilisateur**.
 
-3.  Enter the user’s full name and unique email address.
+3.  Entrez le nom complet et l’adresse de messagerie unique de l’utilisateur.
 
-4.  Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
+4.  Sélectionnez le type d’agent et le type d’administrateur. Comme l’accès à l’Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour plus d’informations sur ce que chaque rôle peut faire, voir la section [Affecter des autorisations utilisateur](#assignuserpermissions)
 
-5.  Select **Add** to create the user account. Confirm the user's details on the next page.
+5.  Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
 
 >**Important**<br>
-Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
+Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. <br>
 
->The user will need to sign in to Partner Center with their user name and temporary password. When the user signs in to Partner Center for the first time, they are prompted to change their password.    
+>L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l'Espace partenaires pour la première fois, il est invité à modifier son mot de passe.    
 
 
-### <a href="" id="assignuserpermissions"></a>Assign user permissions
+### <a href="" id="assignuserpermissions"></a>Affecter des autorisations utilisateur
 
-Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. 
+Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. 
 
-For each user, you must select two permission levels:
+Pour chaque utilisateur, vous devez sélectionner deux niveaux d'autorisation:
 
--   Agent permissions control what kind of customer data and account information the user can see and change.
+-   Les autorisations d'agent contrôlent le type de données de client et d'informations de compte que l’utilisateur peut voir et modifier.
 
--   Admin permissions control the level of access the user has to Partner Center features. This setting has impact outside of Partner Center -- a billing admin can access bills for all Microsoft services (even those unrelated to CSP), and a global admin can access user accounts and customer accounts beyond CSP as well.
+-   Les autorisations d’administrateur contrôlent le niveau d’accès de l’utilisateur aux fonctionnalités de l'Espace partenaires. Ce paramètre a un impact en dehors de l’Espace partenaires : un administrateur de facturation peut accéder aux factures pour tous les services Microsoft (même ceux non liés au fournisseur de solutions Cloud) et un administrateur global peut accéder aux comptes d’utilisateurs et aux comptes clients, indépendamment du fournisseur de solutions Cloud.
 
-## <a name="assign-permissions-for-incentives-users"></a>Assign permissions for Incentives users
-When you set up your incentives users, you can give them either the incentive admin role or incentive user role.  L’administrateur de primes incitatives peut s’inscrire à des programmes de primes incitatives et migrer des inscriptions, modifier des profils bancaires et fiscaux et afficher tous les rapports. Les utilisateurs des programmes de primes incitatives peuvent passer en revue les inscriptions au programme et afficher des rapports. Incentives admins and users can have other roles in Partner Center for your organization but to work on Incentives programs a user must be either incentives admin or user.
+>**Important** Le paramètre par défaut doit toujours être **Pas un administrateur**, sauf si le rôle de l’utilisateur requiert un accès supplémentaire pour effectuer des tâches et prendre en charge des clients.
 
->**Important** The default setting should always be **No admin**, unless the user's role requires additional access to complete tasks and support customers.
-
-The following table explains what each role can do in Partner Center.
+Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partenaires.
 
 <table>
 <colgroup>
@@ -60,54 +57,54 @@ The following table explains what each role can do in Partner Center.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Role in Partner Center</strong></p></td>
-<td><p><strong>What they can do</strong></p></td>
-<td><p><strong>What they can't do</strong></p></td>
+<td><p><strong>Rôle dans l’Espace Partenaires</strong></p></td>
+<td><p><strong>Ce qu’il peut faire</strong></p></td>
+<td><p><strong>Ce qu’il ne peut pas faire</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Admin agent</strong></p></td>
+<td><p><strong>Agent d’administration</strong></p></td>
 <td><ul>
-<li><p>Customer management</p></li>
-<li><p>Add device list to Partner Center</p></li>
-<p><li>Create and apply profiles to devices</p></li>
-<li><p>Subscription management</p></li>
-<li><p>Service health and service requests for customers</p></li>
-<li><p>Request delegated administrator privileges</p></li>
-<li><p>View pricing and offers</p></li>
-<li><p>Billing</p></li>
-<li><p>Administer on behalf of a customer</p></li>
-<li><p>Register a value added reseller</p></li>
+<li><p>Gestion des clients</p></li>
+<li><p>Ajouter une liste d'appareils à l'Espace partenaires</p></li>
+<p><li>Créer des profils et les appliquer aux appareils</p></li>
+<li><p>Gestion des abonnements</p></li>
+<li><p>État du service et demandes de service pour les clients</p></li>
+<li><p>Demander des privilèges d’administrateur délégués</p></li>
+<li><p>Afficher les tarifs et les offres</p></li>
+<li><p>Facturation</p></li>
+<li><p>Administrer au nom d’un client</p></li>
+<li><p>Inscrire un revendeur à valeur ajoutée</p></li>
 </ul></td>
 <td><ul>
-<li><p>User management</p></li>
-<li><p>Service requests for Partner Center</p></li>
+<li><p>Gestion des utilisateurs</p></li>
+<li><p>Demandes de service pour l’Espace partenaires</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Sales agent</strong></p></td>
+<td><p><strong>Commercial</strong></p></td>
 <td><ul>
-<li><p>Customer management</p></li>
-<li><p>Add device list to Partner Center</p></li>
-<li><p>Subscription management</p></li>
-<li><p>View support tickets</p></li>
-<li><p>Request a relationship with a customer</p></li>
-<li><p>Manage customer leads</p></li>
-<li><p>View the customer agreement</p></li>
-<li><p>Register a value added reseller</p></li>
+<li><p>Gestion des clients</p></li>
+<li><p>Ajouter une liste d'appareils à l'Espace partenaires</p></li>
+<li><p>Gestion des abonnements</p></li>
+<li><p>Afficher les tickets de support</p></li>
+<li><p>Demander une relation avec un client</p></li>
+<li><p>Gérer les prospects</p></li>
+<li><p>Afficher le contrat client</p></li>
+<li><p>Inscrire un revendeur à valeur ajoutée</p></li>
 </ul></td>
 <td><ul>
-<li><p>Create service requests for problems with Partner Center</p></li>
-<li><p>Resolve support tickets</p></li>
-<li><p>View service health</p></li>
-<li><p>View pricing and offers</p></li>
-<li><p>Billing</p></li>
-<li><p>Administer on behalf of a customer</p></li>
+<li><p>Créer des demandes de service pour des problèmes avec l'Espace partenaires</p></li>
+<li><p>Résoudre les tickets de support</p></li>
+<li><p>Afficher l’état du service</p></li>
+<li><p>Afficher les tarifs et les offres</p></li>
+<li><p>Facturation</p></li>
+<li><p>Administrer au nom d’un client</p></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>Helpdesk agent</strong></p></td>
+<td><p><strong>Agent du support technique</strong></p></td>
 <td><ul>
-<li><p>Search for and view a customer</p></li>
+<li><p>Rechercher et afficher un client</p></li>
 <li><p>Modifier les détails du client</p></li>
 <li><p>Aider les clients à résoudre des problèmes de gestion de facturation ou d’abonnement</p></li>
 <li><p>Demander un support pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</p></li>
@@ -115,67 +112,47 @@ The following table explains what each role can do in Partner Center.
 </ul></td>
 <td><ul>
 <li><p>Afficher les profils de partenaire</p></li>
-<li><p>Create a new customer account</p></li>
+<li><p>Créer un compte client</p></li>
 <li><p>Modifier les informations de facturation du client</p></li>
 <li><p>Demander un support technique Azure.</p></li>
-<li><p>Manage subscriptions</p></li>
-<li><p>Request a relationship with a customer</p></li>
-<li><p>Manage customer leads</p></li>
-<li><p>View pricing and offers</p></li>
-<li><p>View the customer agreement</p></li>
-<li><p>Billing</p></li>
-<li><p>Register a value added reseller</p></li>
+<li><p>Gérer les abonnements</p></li>
+<li><p>Demander une relation avec un client</p></li>
+<li><p>Gérer les prospects</p></li>
+<li><p>Afficher les tarifs et les offres</p></li>
+<li><p>Afficher le contrat client</p></li>
+<li><p>Facturation</p></li>
+<li><p>Inscrire un revendeur à valeur ajoutée</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Global admin</strong></p></td>
+<td><p><strong>Administrateur global</strong></p></td>
 <td><ul>
-<li><p>Can access all Microsoft account/services with full privileges</p></li>
-<li><p>Create support tickets for Partner Center</p></li>
-<li><p>View agreements, price lists, and offers</p></li>
-<li><p>Billing</p></li>
-<li><p>View, create, and manage partner users</p></li>
+<li><p>Peut accéder à tous les comptes/services Microsoft avec des privilèges complets</p></li>
+<li><p>Créer des tickets de support pour l’Espace partenaires</p></li>
+<li><p>Afficher les contrats, les listes de prix et les offres</p></li>
+<li><p>Facturation</p></li>
+<li><p>Afficher, créer et gérer les utilisateurs partenaires</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>Billing admin</strong></p></td>
+<td><p><strong>Administration de facturation</strong></p></td>
 <td><ul>
-<li><p>Can access all bills from Microsoft with full privileges</p></li>
-<li><p>View agreements, price lists, and offers</p></li>
-<li><p>Billing</p></li>
+<li><p>Peut accéder à toutes les factures émises par Microsoft avec des privilèges complets</p></li>
+<li><p>Afficher les contrats, les listes de prix et les offres</p></li>
+<li><p>Facturation</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>User management admin</strong></p></td>
+<td><p><strong>Administrateur de la gestion des utilisateurs</strong></p></td>
 <td><ul>
-<li><p>View, create, and manage users</p></li>
-<li><p>View all partner profiles</p></li>
+<li><p>Afficher, créer et gérer des utilisateurs</p></li>
+<li><p>Afficher tous les profils de partenaire</p></li>
 </ul></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><strong>Administrateur de primes incitatives</strong></p></td>
-<td><ul>
-<li><p>S’inscrire aux programmes de primes incitatives</p></li>
-<li><p>Migrer des inscriptions aux programmes de primes incitatives vers l'Espace partenaires</p></li>
-<li><p>Afficher et gérer tous les programmes de primes incitatives</p></li>
-<li><p>Modifier les profils bancaires et fiscaux pour les programmes de primes incitatives</p></li>
-<li><p>Afficher tous les rapports de primes incitatives</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Utilisateur de primes incitatives</strong></p></td>
-<td><ul>
-<li><p>Afficher les inscriptions</p></li>
-<li><p>Afficher les rapports</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+
 
  
 
