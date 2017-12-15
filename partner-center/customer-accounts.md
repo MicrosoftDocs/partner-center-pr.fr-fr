@@ -1,33 +1,28 @@
 ---
 title: Comptes client | Espace partenaires
-Description: "En tant que partenaire revendeur, vous devez créer un compte pour chacun de vos clients dans l’Espace partenaires. Le compte client constitue votre point de départ pour la vente d’abonnements, la facturation et le support."
+Description: As a reseller partner, you should make an account for each of your customers in Partner Center. The customer account will be your starting point for selling subscriptions, billing, and providing support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
-author: MaggiePucciEvans
-ms.openlocfilehash: b2d2565031d0377bdeeca62e32910240e96b4b61
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+author: labrenne
+ms.openlocfilehash: 1eadf2749eeba07edd37c52660dd1f47e0de3fd0
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 11/10/2017
 ---
-# <a name="customer-accounts"></a><span data-ttu-id="a2197-104">Comptes client</span><span class="sxs-lookup"><span data-stu-id="a2197-104">Customer accounts</span></span>
+# <a name="customer-accounts"></a><span data-ttu-id="81431-102">Comptes client</span><span class="sxs-lookup"><span data-stu-id="81431-102">Customer accounts</span></span>
 
-**<span data-ttu-id="a2197-105">S'applique à</span><span class="sxs-lookup"><span data-stu-id="a2197-105">Applies to</span></span>**
+**<span data-ttu-id="81431-103">S'applique à</span><span class="sxs-lookup"><span data-stu-id="81431-103">Applies to</span></span>**
 
--  <span data-ttu-id="a2197-106">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="a2197-106">Partner Center</span></span>
--  <span data-ttu-id="a2197-107">Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis</span><span class="sxs-lookup"><span data-stu-id="a2197-107">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="a2197-108">Espace partenaires de Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="a2197-108">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="81431-104">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="81431-104">Partner Center</span></span>
+-  <span data-ttu-id="81431-105">Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis</span><span class="sxs-lookup"><span data-stu-id="81431-105">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="81431-106">Espace partenaires de Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="81431-106">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="a2197-109">En tant que partenaire revendeur, vous devez créer un compte pour chacun de vos clients dans l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="a2197-109">As a reseller partner, you should make an account for each of your customers in Partner Center.</span></span> <span data-ttu-id="a2197-110">Le compte client constitue votre point de départ pour la vente d’abonnements, la facturation et le support.</span><span class="sxs-lookup"><span data-stu-id="a2197-110">The customer account will be your starting point for selling subscriptions, billing, and providing support.</span></span>
+<span data-ttu-id="81431-107">En tant que partenaire revendeur, vous devez créer un compte pour chacun de vos clients dans l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="81431-107">As a reseller partner, you should make an account for each of your customers in Partner Center.</span></span> <span data-ttu-id="81431-108">Le compte client constitue votre point de départ pour la vente d’abonnements, la facturation et le support.</span><span class="sxs-lookup"><span data-stu-id="81431-108">The customer account will be your starting point for selling subscriptions, billing, and providing support.</span></span> <span data-ttu-id="81431-109">Vous devez créer un compte Espace partenaires pour chacun de vos clients, y compris les clients que vous aviez avant de rejoindre l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="81431-109">You need to make a Partner Center account for each of your customers including customers you had prior to moving onto Partner Center.</span></span>
 
-[<span data-ttu-id="a2197-111">Afficher la liste de vos clients</span><span class="sxs-lookup"><span data-stu-id="a2197-111">See your customer list</span></span>](see-your-customer-list.md)
+### <a name="resources-for-working-with-your-customers-on-partner-center"></a><span data-ttu-id="81431-110">Ressources pour travailler avec vos clients dans l’Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="81431-110">Resources for working with your customers on Partner Center</span></span>
 
-[<span data-ttu-id="a2197-112">Ajouter un client</span><span class="sxs-lookup"><span data-stu-id="a2197-112">Add a new customer</span></span>](add-a-new-customer.md)
-
-[<span data-ttu-id="a2197-113">Supprimer une relation</span><span class="sxs-lookup"><span data-stu-id="a2197-113">Remove a relationship</span></span>](remove-a-relationship.md)
-
-[<span data-ttu-id="a2197-114">Transférer un abonnement Azure vers un autre partenaire</span><span class="sxs-lookup"><span data-stu-id="a2197-114">Switch Azure subscriptions to a different partner</span></span>](switch-azure-subscriptions-to-a-different-partner.md)
-
-[<span data-ttu-id="a2197-115">Mettre à jour les informations d’un compte client</span><span class="sxs-lookup"><span data-stu-id="a2197-115">Update customer account info</span></span>](update-customer-account-info.md)
-
-[<span data-ttu-id="a2197-116">Ajouter plusieurs utilisateurs à un compte client</span><span class="sxs-lookup"><span data-stu-id="a2197-116">Add multiple users to a customer account</span></span>](adding-multiple-users-to-a-customer-account.md)
-
+|**<span data-ttu-id="81431-111">Pour effectuer cette opération</span><span class="sxs-lookup"><span data-stu-id="81431-111">To do this</span></span>**   |**<span data-ttu-id="81431-112">Lire ces informations pour découvrir comment</span><span class="sxs-lookup"><span data-stu-id="81431-112">Read this to learn how</span></span>**   |**<span data-ttu-id="81431-113">S’applique à</span><span class="sxs-lookup"><span data-stu-id="81431-113">Applies to</span></span>**|
+|-----------------|:----------------------------|:--------------|
+|<span data-ttu-id="81431-114">Obtenir de nouveaux clients</span><span class="sxs-lookup"><span data-stu-id="81431-114">Get new customers</span></span>|<span data-ttu-id="81431-115">Les revendeurs indirects se mettent en relation avec les [fournisseurs indirects](indirect-reseller-tasks-in-partner-center.md) qui vous dirigeront vers des clients.</span><span class="sxs-lookup"><span data-stu-id="81431-115">Indirect resellers connect with [indirect providers](indirect-reseller-tasks-in-partner-center.md) who will refer you to customers.</span></span> <span data-ttu-id="81431-116">Vous devez également vous assurer que votre [profil commercial](create-a-marketing-profile.md) est à jour.</span><span class="sxs-lookup"><span data-stu-id="81431-116">You should make sure your [business profile](create-a-marketing-profile.md) is up-to-date, too.</span></span> <span data-ttu-id="81431-117">Lorsqu’un client et vous convenez de [travailler ensemble](responding-to-referrals.md), [ajoutez-le](add-a-new-customer.md) à votre compte.</span><span class="sxs-lookup"><span data-stu-id="81431-117">When you and a customer have agreed to [work together](responding-to-referrals.md), [add](add-a-new-customer.md) them to your account.</span></span>|<span data-ttu-id="81431-118">Partenaires fournisseurs de solutions Cloud</span><span class="sxs-lookup"><span data-stu-id="81431-118">CSP partners</span></span>|
+|<span data-ttu-id="81431-119">Ajouter des clients existants à votre compte</span><span class="sxs-lookup"><span data-stu-id="81431-119">Add existing customers to your account</span></span>   | <span data-ttu-id="81431-120">Les clients avec lesquels vous effectuez des transactions sur d’autres portails tels qu’Office365 s’affichent dans votre [liste de clients](see-your-customer-list.md) dans l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="81431-120">Customers you transact with on other portals such as Office 365 will appear in your [customer list](see-your-customer-list.md) on Partner Center.</span></span> <span data-ttu-id="81431-121">Vous devrez [établir des relations de revendeur](indirect-reseller-tasks-in-partner-center.md) avec les autres clients existants.</span><span class="sxs-lookup"><span data-stu-id="81431-121">You will need to [establish reseller relationships](indirect-reseller-tasks-in-partner-center.md) with other existing customers.</span></span> <span data-ttu-id="81431-122">Pour ce faire, envoyez-leur un e-mail les [invitant à se mettre en relation](responding-to-referrals.md) avec vous dans l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="81431-122">To do so, you email them an [invitation to connect](responding-to-referrals.md) with you on Partner Center.</span></span>   | <span data-ttu-id="81431-123">Partenaires fournisseurs de solutions Cloud</span><span class="sxs-lookup"><span data-stu-id="81431-123">CSP partners</span></span>   |
+|<span data-ttu-id="81431-124">Gérer toutes vos informations client</span><span class="sxs-lookup"><span data-stu-id="81431-124">Manage all your customer information</span></span>   | <span data-ttu-id="81431-125">Ajouter ou supprimer des clients ou [mettre fin à une relation client](remove-a-relationship.md)</span><span class="sxs-lookup"><span data-stu-id="81431-125">Add or remove customers or [end a customer relationship](remove-a-relationship.md)</span></span>|   <span data-ttu-id="81431-126">Partenaires fournisseurs de solutions Cloud</span><span class="sxs-lookup"><span data-stu-id="81431-126">CSP partners</span></span> |
