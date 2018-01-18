@@ -3,9 +3,12 @@ title: "Vérifier l’état du service | Espace partenaires"
 description: "L’une des premières choses que vous pouvez faire lorsqu’un client rencontre des problèmes avec un service est de vérifier l’état du service."
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
-ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+Keywords: health, service health,service problems
+ms.openlocfilehash: e61b9bb40273dc1b8f8ef536b2e7e32afc4bfe89
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="check-service-health"></a>Vérifier l’état du service
 

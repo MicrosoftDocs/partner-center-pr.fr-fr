@@ -1,13 +1,14 @@
 ---
 title: Comptes professionnels et Espace partenaires | Espace partenaires
-description: "Pour créer un compte Espace partenaires, votre société doit disposer d'un compte professionnel."
+description: "Pour créer un compte de l'Espace partenaires, votre entreprise doit disposer d'un compte professionnel."
 author: labrenne
+Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: 
-ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Compte professionnel de votre entreprise et l’Espace partenaires  
 
@@ -15,15 +16,15 @@ ms.lasthandoff: 11/22/2017
 
 -  Espace partenaires
 
-# <a name="why-you-need-a-work-account"></a>Pourquoi un compte professionnel est-il nécessaire?
+## <a name="why-you-need-a-work-account"></a>Pourquoi un compte professionnel est-il nécessaire?
 
 Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte Espace partenaires, afin que les utilisateurs de ce compte puissent se connecter à l’Espace partenaires à l’aide de leur nom d’utilisateur et mot de passe.
 
 Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Espace partenaires. 
 
-**Remarque** Avant de décider d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans l’Espace partenaires. Si certains utilisateurs du compte n’ont pas besoin de travailler dans l’Espace partenaires, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans l’Espace partenaires.
+>**Remarque** Avant de décider d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans l’Espace partenaires. Si certains utilisateurs du compte n’ont pas besoin de travailler dans l’Espace partenaires, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans l’Espace partenaires.
 
-Si votre entreprise n’a pas encore de compte professionnel, vous pouvez en créer un gratuitement lors de l’inscription. Sélectionnez **Créer un nouveau client** sur la page **Se connecter à Azure ActiveDirectory**. Lorsque vous créez un client Azure ActiveDirectory, vous créez un compte professionnel. Azure ActiveDirectory est le service d’authentification unique de la solution de gestion des identités de Microsoft.
+Si votre entreprise ne possède pas de compte professionnel, vous pouvez en créer un au cours du processus d’inscription. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Vous ne savez pas si votre entreprise a déjà un compte professionnel?
 

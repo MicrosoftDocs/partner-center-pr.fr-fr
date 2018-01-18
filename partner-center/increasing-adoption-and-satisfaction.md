@@ -3,11 +3,11 @@ title: "Augmenter l’adoption et la satisfaction client | Espace partenaires"
 description: "Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
-ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
+ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 12/02/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
@@ -47,7 +47,7 @@ Terminologie&nbsp;:
 
     -   Si le client connaissait une rotation d’employés, et que la licence a été transférée à un nouvel utilisateur.
 
-    -   Si le client possède deux&nbsp;abonnements pour une référence, mais que l’un d’eux est en période de grâce, désactivé ou annulé, les droits des deux&nbsp;abonnements peuvent inscrire l’utilisation active pendant la période de 28&nbsp;jours, mais un seul est compté au total.
+    -   Si le client possède deuxabonnements pour une référence, mais que l’un d’eux est en période de grâce, désactivé ou annulé, les droits des deuxabonnements peuvent inscrire l’utilisation active pendant la période de 28jours, mais un seul est compté au total.
 
     -   Si le client possède un abonnement d’évaluation, l’activité est comptée, mais l’abonnement n’est pas comptabilisé pour le nombre total de droits.
 

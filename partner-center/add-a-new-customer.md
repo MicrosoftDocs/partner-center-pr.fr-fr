@@ -3,13 +3,14 @@ title: Ajouter un nouveau client | Espace partenaires
 description: "Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure AD."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client"
+ms.openlocfilehash: 222fe2acb5abd09061b83a8ee67540666413d04d
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
-# <a name="add-a-new-customer"></a>Ajouter un client
+# <a name="add-a-new-customer"></a>Ajouter un nouveau client
 
 **S'applique à**
 

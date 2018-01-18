@@ -3,11 +3,12 @@ title: "Créer un abonnement | Espace partenaires"
 description: "Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+Keywords: subscription, create new, add subscription,
+ms.openlocfilehash: 19bc20920cc2bfcdf3f39f8c1b8fcf207d51004d
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="create-a-new-subscription"></a>Créer un abonnement
 
@@ -19,7 +20,7 @@ ms.lasthandoff: 10/17/2017
 
 Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.
 
-Veuillez noter que certaines offres sont limitées à un abonnement par client. Pour voir la liste des offres restreintes, visitez la page d’offres et de tarification de l'Espace partenaires, ouvrez le tableau des offres et sélectionnez l’onglet Office_Dynamics_Windows_Intune, colonneI. 
+Veuillez noter que certaines offres sont limitées à un abonnement par client. Pour voir la liste des offres limitées, consultez la page Tarification et offres de l'Espace partenaires. 
 
 
 **Créer un abonnement**

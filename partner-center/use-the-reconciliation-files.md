@@ -3,11 +3,11 @@ title: Utiliser les fichiers de rapprochement | Espace partenaires
 description: "Pour une vue détaillée de chaque élément facturé dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir du tableau de bord de l’Espace partenaires."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -149,7 +149,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Prix par siège. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
+<td><p>Prix par siège, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p><strong>Frais récurrents</strong></p>
 </td>
 <td>
-<p>Annuler l'instance au prorata</p>
+<p>Frais d'activation</p>
 </td>
 <td>
-<p>Les frais au prorata remboursés au client lorsque des sièges associés sont modifiés</p>
+<p>Montant facturé au client lorsqu’il utilise l’abonnement après l'avoir acheté</p>
 </td>
 <td rowspan="8">
 <p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Montant</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instance d'annulation au prorata</p>
+</td>
+<td>
+<p>Frais au prorata remboursés au client lorsque des sièges associés sont modifiés</p>
 </td>
 </tr>
 <tr>

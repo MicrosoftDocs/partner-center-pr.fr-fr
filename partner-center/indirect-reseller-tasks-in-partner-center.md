@@ -3,11 +3,12 @@ title: Devenez partenaire de fournisseurs indirects dans le programme Fournisseu
 description: "En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. Cela signifie que n'avez pas à démarrer seul, mais qu'à la place vous pouvez travailler avec un fournisseur de technologies expérimenté pour garantir votre succès. Dans le modèle fournisseur-revendeur (deux niveaux), le fournisseur achète auprès de Microsoft des services et des solutions Cloud que vous revendez aux clients."
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau2, de niveau2
+ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -184,9 +185,9 @@ Si un fournisseur indirect veut s'associer avec vous sur l'Espace partenaires, i
 
 3.  Pour confirmer le partenariat avec le fournisseur, activez la case à cocher, puis sélectionnez **Autoriser le fournisseur indirect**. Le fournisseur est désormais répertorié dans votre page **Fournisseurs indirects** et votre société figure désormais dans la page **Revendeurs indirects** du fournisseur.
 
-    >**Remarque**  Lorsque vous établissez un partenariat avec un fournisseur indirect, vous l'autorisez à envoyer des commandes et à ajouter des abonnements pour le compte de vos clients, et vous leur accordez un accès administrateur à votre client Azure AD.
+    >**Remarque**  Lorsque vous établissez un partenariat avec un fournisseur indirect, vous autorisez celui-ci à envoyer des commandes et à ajouter des abonnements pour le compte de vos clients et vous lui accordez un accès administrateur au compte professionnel de votre entreprise. Une fois votre partenariat avec le fournisseur créé, vous pouvez supprimer l’accès administrateur du fournisseur à votre compte professionnel dans le portail Office365. 
 
-4.  Sélectionnez **Fournisseurs indirects** dans votre menu **Tableau de bord** pour afficher la liste des fournisseurs dont vous êtes le partenaire. 
+4.  Sélectionnez **Fournisseurs indirects** à partir de votre menu **Tableau de bord** pour afficher la liste des fournisseurs avec lesquels vous avez un partenariat. 
 
 5.  Sélectionnez **Afficher les clients** pour afficher la liste des clients que vous partagez avec le fournisseur.
 

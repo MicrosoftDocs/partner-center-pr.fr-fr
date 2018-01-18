@@ -2,11 +2,11 @@
 title: Rejoindre MicrosoftPartnerNetwork| Espace partenaires
 description: "Acheter le MicrosoftActionPack et acquérir des compétences dans l’Espace partenaires"
 author: labrenne
-ms.openlocfilehash: 7ac5c9fc7b66adf7796c23e97be994bffd751799
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
+ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/12/2017
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Rejoindre MicrosoftPartnerNetwork (MPN)
 
@@ -18,6 +18,8 @@ ms.lasthandoff: 11/22/2017
 ## <a name="new-to-partner-center"></a>Nouveau dans l’Espaces partenaires
 
  Un partenariat avec Microsoft vous permet d’accéder à de nouvelles opportunités pour transformer votre activité. Dans l’Espace partenaires, vous pouvez acheter et renouveler l’abonnement ActionPackMicrosoft et accéder facilement à des informations sur les compétences et sur la façon de les acquérir.
+
+ Nous invitons progressivement les partenaires à gérer leur adhésion à l'Espace partenaires à la date anniversaire de leur service MAPS ou de leur compétence, ainsi que lorsque des fonctionnalités importantes de l'Espace partenaires et qui s'avèrent adaptées aux besoins de leur entreprise sont mises à disposition.  Pour l’instant, prévoyez de renouveler et de gérer votre adhésion au Partner Membership Center (PMC) jusqu'à ce que vous receviez une invitation à migrer.
 
 ## <a name="get-your-mpn-id"></a>Obtenir votre ID MPN
 
