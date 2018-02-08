@@ -4,11 +4,11 @@ description: "En tant que revendeur indirect dans le programme Fournisseur de so
 ms.prod: 
 author: MaggiePucciEvans
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau2, de niveau2
-ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -102,74 +102,8 @@ Prenez note des informations de connexion du nouvel utilisateur affichées sur c
 
 ## <a name="assign-user-permissions"></a>Affecter des autorisations utilisateur
 
-Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. 
+Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour trouver la meilleure façon d’attribuer des rôles, voir [Créer des comptes d’utilisateur et définir des autorisations](Create-user-accounts-and-set-permissions.md)
 
-Pour chaque utilisateur, vous devez sélectionner deux niveaux d’autorisation ou sélectionner **Non administrateur** ou **Non agent**:
-
--   Les autorisations d'agent contrôlent le type de données de client et d'informations de compte que l’utilisateur peut voir et modifier.
-
--   Les autorisations d’administrateur contrôlent le niveau d’accès de l’utilisateur aux fonctionnalités de l'Espace partenaires. Ce paramètre a un impact en dehors de l’Espace partenaires : un administrateur global peut accéder aux comptes d’utilisateurs et aux comptes clients, indépendamment du fournisseur de solutions Cloud.
-
-Le tableau suivant explique ce que chaque rôle peut faire dans l'Espace partenaires.
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Rôle dans l’Espace Partenaires</strong></p></td>
-<td><p><strong>Ce qu’il peut faire</strong></p></td>
-<td><p><strong>Ce qu’il ne peut pas faire</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Agent d’administration</strong></p></td>
-<td><ul>
-<li><p>État du service et demandes de service pour les clients</p></li>
-<li><p>Demander des privilèges d’administrateur délégué</p></li>
-<li><p>Administrer au nom d’un client</p></li>
-</ul></td>
-<td><ul>
-<li><p>Gestion des utilisateurs</p></li>
-<li><p>Demandes de service pour l’Espace partenaires</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Agent du support technique</strong></p></td>
-<td><ul>
-<li><p>Rechercher et afficher un client</p></li>
-<li><p>Intégrité du service</p></li>
-<li><p>Demander un support pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</p></li>
-<li><p>Gérer les abonnements et les services pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</p></li>
-</ul></td>
-<td><ul>
-<li><p>Afficher les profils de partenaire</p></li>
-<li><p>Demander une relation avec un client</p></li>
-<li><p>Gérer les prospects</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Administrateur général</strong></p></td>
-<td><ul>
-<li><p>Peut accéder à tous les comptes/services Microsoft avec des privilèges complets</p></li>
-<li><p>Créer des tickets de support pour l’Espace partenaires</p></li>
-<li><p>Afficher, créer et gérer les utilisateurs partenaires</p></li>
-<li><p>Accepter une demande de partenariat à partir d’un fournisseur indirect</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrateur de la gestion des utilisateurs</strong></p></td>
-<td><ul>
-<li><p>Afficher, créer et gérer des utilisateurs</p></li>
-<li><p>Afficher tous les profils de partenaire</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## <a name="connect-with-an-indirect-provider"></a>Se connecter avec un fournisseur indirect
 
@@ -197,13 +131,13 @@ Si un fournisseur indirect veut s'associer avec vous sur l'Espace partenaires, i
  
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
-Pour effectuer des transactions avec les clients sur l'Espace partenaires, vos clients doivent disposer de comptes de l'Espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
+ Pour effectuer des transactions avec les clients sur l'Espace partenaires, vos clients doivent disposer de comptes de l'Espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
 
 ### <a name="connect-with-existing-customers"></a>Entrer en contact avec les clients
 
 Les clients avec lesquels vous effectuez déjà des transactions via d’autres portails (comme le Centre d’administration des partenaires Office365 ou le portail d’administration MicrosoftAzure) s’affichent dans votre liste de clients sur l'Espace partenaires une fois que vous vous êtes correctement inscrit comme revendeur indirect. Sélectionnez **Tableau de bord**, puis **Clients** pour voir votre liste de clients. 
 
-Si un de vos clients existants ne figure pas dans votre liste de clients, vous devrez peut-être établir des relations de revendeur avec lui. Pour ce faire, envoyez leur un e-mail les invitant à se connecter avec vous sur l'Espace partenaires, comme indiqué ci-dessous.
+Lorsque vous vous connectez avec un fournisseur indirect, vous n’obtenez pas automatiquement les clients du fournisseur indirect. De même, les clients avec lesquels vous travaillez en direct ou par le biais de votre fournisseur indirect, mais pas par le biais de l'Espace partenaires, n'apparaissent pas automatiquement dans votre liste de clients lorsque vous vous inscrivez dans l’Espace partenaires. Vous devez établir une relation de revendeur avec les clients pour effectuer des transactions dans l’Espace partenaires.  Pour ce faire, envoyez leur un e-mail les invitant à se connecter avec vous sur l'Espace partenaires, comme indiqué ci-dessous.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
 

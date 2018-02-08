@@ -3,12 +3,14 @@ title: Communication de Microsoft avec le client | Espace partenaires
 description: "En règle générale, toutes les communications avec le client doivent provenir du partenaire du programme Fournisseur de solutions Cloud."
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
-ms.openlocfilehash: 8861cd36c4e06618d1d98375627aa2ca2141d083
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+keywords: communication, communication avec le client, discuter avec Microsoft
+ms.openlocfilehash: 847c7a61ef13c39fb25c97d4c88568d067d1c465
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 01/17/2018
 ---
-# <a name="customer-communication-from-microsoft"></a>Communication client de Microsoft
+# <a name="customer-communication-from-microsoft"></a>Communication de Microsoft avec le client
 
 **S'applique à**
 

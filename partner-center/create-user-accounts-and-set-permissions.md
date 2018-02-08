@@ -4,11 +4,11 @@ description: "L’administrateur crée un compte d’utilisateur pour chaque emp
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
@@ -38,7 +38,7 @@ Prenez note des informations de connexion du nouvel utilisateur affichées sur c
 
 L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l'Espace partenaires pour la première fois, il est invité à modifier son mot de passe. 
 
-
+>**Remarque**<br> Si votre administrateur général a quitté votre organisation ou a été affecté à un autre rôle, et que vous devez ajouter un nouvel administrateur général, vous devez consigner une demande de service sur le [portail MPN](https://partner.microsoft.com/support). L’agent du support peut demander l’élévation d’un utilisateur au rôle d’administrateur général si votre demandeur est en mesure de fournir les informations d’identité personnelle nécessaires ainsi que des informations supplémentaires sur votre organisation.
 
 ## <a name="assign-user-permissions"></a>Attribuer des autorisations aux utilisateurs
 
@@ -61,7 +61,7 @@ Dans chacune de ces catégories générales, un utilisateur ne peut avoir qu'un 
 
 >**Important** Si un utilisateur n’a pas besoin de rôle spécifique, laissez la désignation sur le paramètre par défaut: **Manages your organization's account as**. Les utilisateurs doivent disposer d’au moins un rôle pour travailler dans l’Espace partenaires.
 
-Le tableau suivant explique ce que chaque rôle peut faire dans l’Espace partenaires. Lorsque vous réfléchissez à l'attribution des rôles, prenez en compte le travail qu'un utilisateur effectue dans votre organisation. Vous pouvez, par exemple, attribuer à l’administrateur général le rôle d’agent d’administration. La personne responsable du marketing peut également être chargée de gérer le profil de l’entreprise.
+Le tableau suivant explique ce que chaque rôle peut faire dans l’Espace partenaires. Lorsque vous réfléchissez à l'attribution des rôles, prenez en compte le travail qu'un utilisateur effectue dans votre organisation. Vous pouvez, par exemple, attribuer également à l’administrateur général le rôle d’agent d’administration. La personne responsable du marketing peut également être chargée de gérer le profil de l’entreprise.
 
 <table>
 <colgroup>
@@ -122,13 +122,6 @@ Le tableau suivant explique ce que chaque rôle peut faire dans l’Espace parte
 <li><p>Afficher et gérer les revenus</p></li>
 <li><p>Afficher et acheter les offres MPN</p></li>
 <li><p>Afficher les factures et l’historique des commandes des offres MPN</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrateur de la gestion des utilisateurs</strong></p></td>
-<td><ul>
-<li><p>Afficher, créer et gérer des utilisateurs</p></li>
-<li><p>Afficher tous les profils de partenaire</p></li>
 </ul></td>
 </tr>
 <tr class="even">

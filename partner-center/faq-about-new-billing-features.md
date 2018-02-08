@@ -3,11 +3,11 @@ title: "FAQ sur les nouvelles fonctionnalités de facturation| Espace partenaire
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: ddd10efe487effdd2571869f2a4231118f946b8b
-ms.sourcegitcommit: 4b697e2e18426edc95b9165f380b784bb10937ed
+ms.openlocfilehash: 0c468df2176160ca5a1fdf8b90ce5b6f9b669cc2
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/20/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="faq-about-new-billing-features"></a>FAQ sur les nouvelles fonctionnalités de facturation
 
@@ -312,7 +312,7 @@ Sections:
 
 **Q:** L'essai gratuit apparaîtra-t-il dans ma facture et dans le fichier de rapprochement?
 
--   **R:** Non, les essais gratuits n'apparaissent pas dans votre facture ou votre fichier de rapprochement basé sur la licence. Ils apparaîtront dans votre facture et votre fichier de rapprochement basé sur la licence une fois que vous les aurez convertis en abonnements payants. Un abonnement converti s’affiche sur votre facture et votre fichier de rapprochement basé sur la licence de la même manière qu'un nouvel abonnement. 
+-   **R:** Non, les essais gratuits n'apparaissent pas dans votre facture ou votre fichier de rapprochement basé sur la licence. Ils apparaîtront dans votre facture et votre fichier de rapprochement basé sur la licence une fois que vous les aurez convertis en abonnements payants. Un abonnement converti s’affiche à la fois sur votre facture et sur votre fichier de rapprochement basé sur la licence, de la même manière qu'un nouvel abonnement.
 
 **Q:** Les essais gratuits ont-ils un impact sur les primes incitatives?
 
@@ -328,7 +328,7 @@ Sections:
 
 **Q:** L'essai gratuit est-il limité?
 
--   **R:** Oui. L'essai est valable pour un maximum de 25licences. Le nombre de licences ne peut pas être modifié pendant la période d'essai. Une fois l'essai converti en abonnement payant, vous pouvez lui ajouter des licences supplémentaires.
+-   **R:** Oui. L'essai est valable pour un maximum de 25licences. Le nombre de licences ne peut pas être modifié pendant la période d'essai. Une fois l’essai converti en abonnement payant, vous pouvez lui ajouter des licences supplémentaires.
 
 **Q:** L'essai gratuit est-il automatiquement converti en abonnement payant?
 
@@ -526,7 +526,7 @@ Le partenaire suspend l’abonnement le 5juillet mais le réactive le 15juillet.
 |-----------------|:-------------|:----------------|:------------|:------|
 |01/07/2018   |31/07/2018   |30dollars  |1   |30dollars   |
 |05/07/2018   |31/07/2018   |   -26,19dollars   |1   |-26,19dollars|
-|10/07/2018   |31/07/2018   |-21,34dollars   |1   |21,34dollars|
+|10/07/2018   |31/07/2018   |-21,37dollars   |1   |21,37dollars|
 
 ### <a name="scenario-change-license-quantity"></a>Scénario: modifier le nombre de licences 
 
@@ -564,7 +564,7 @@ Le fichier de rapprochement du 15juin contient les indications suivantes:
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |
 |-----------------|:-------------|:----------------|:------------|:------|
 |01/06/2018   |30/06/2018   |30dollars   |1   |30dollars   |
-|10/06/2018   |30/06/2018   |5dollars   |1   |5dollars   |
+|10/06/2018   |30/06/2018   |3,50dollars   |1   |3,50dollars   |
 
 Le fichier de rapprochement du 15juillet contient les indications suivantes:
 
@@ -578,7 +578,7 @@ Le fichier de rapprochement du 15juillet contient les indications suivantes:
 
 ### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Scénario: nouvel achat le 29, le 30 ou le 31 
 
-La date de facturation du partenaire est le 15. Le 31mai, le partenaire achète un nouvel abonnement à 30dollars/mois. Les abonnements achetés le 29, le 30 ou le 31 bénéficieront d'une période gratuite jusqu’au début du mois suivant. Dans cet exemple, le client bénéficie d'une période gratuite d'une journée: la période payante de 12mois démarre le 1erjuin. 
+La date de facturation du partenaire est le15 du mois. Le 29mai, le partenaire achète un nouvel abonnement (1 licence à 30dollars/mois) avec une fréquence de facturation mensuelle. La date anniversaire pour les abonnements achetés le 29, 30 ou 31 est par défaut le 1er. Dans ce scénario, l’abonnement sera gratuit du 29mai au 31mai, et la ligne de facturation apparaîtra le 1erjuin affichant l’avance de frais pour un mois.
 
 Le fichier de rapprochement du 15juin contient les indications suivantes:
 

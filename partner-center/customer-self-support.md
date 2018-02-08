@@ -3,10 +3,12 @@ title: Support autonome du client | Espace partenaires
 description: Support autonome du client
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-ms.openlocfilehash: 87dfdd4e3a56c60282f5a386011a23d3445b3001
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+keywords: support autonome du client, support autonome
+ms.openlocfilehash: 0836ce7501dcbf1fadb7f675dab8fc0583a1d4cf
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="customer-self-support"></a>Support autonome du client
 

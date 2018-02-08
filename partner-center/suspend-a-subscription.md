@@ -3,10 +3,11 @@ title: Suspendre un abonnement | Espace partenaires
 description: "Les partenaires peuvent suspendre ou annuler un abonnement à la demande du client ou dans les cas de fraude ou de défaut de paiement."
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: 6252a494e69c2a2d2b33a0896092b064b52c1881
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: d5f0c3d4e424980a3e39ca0d798097b517e7c9f7
+ms.sourcegitcommit: d75170bb6b14aeee1a5d33dd8a36cc3cd7e9dfd2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 01/04/2018
 ---
 # <a name="suspend-a-subscription"></a>Suspendre un abonnement
 
@@ -26,3 +27,5 @@ Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs
 2.  Choisissez l’abonnement que vous souhaitez gérer.
 3.  Dans la section **État**, choisissez **Suspendu**. Puis, sélectionnez **Envoyer** pour valider vos modifications.
 4.  Toutes les données seront supprimées, sauf si l’abonnement est réactivé dans les 90jours, ou 90jours en plus du nombre de jours écoulés entre la date d'ouverture du compte et la première période de facturation (120jours maximum).
+
+Lorsque vous suspendez un abonnement, la date affichée sous le bouton **Suspendu** indique quand l’abonnement va automatiquement expirer si vous ne le réactivez pas. 
