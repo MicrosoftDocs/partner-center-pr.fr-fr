@@ -52,7 +52,7 @@
 
 # [Abonnements client](customer-subscriptions.md)
 ## [Créer un abonnement](create-a-new-subscription.md)
-## [Proposer à vos clients des versions d’évaluation de produits Microsoft](offer-your-customers-trials-of-microsoft-products.md)
+## [Proposer à vos clients des essais des produits Microsoft](offer-your-customers-trials-of-microsoft-products.md)
 ## [Attribuer des abonnements Azure dans l’Espace partenaires](assign-azure-subscriptions.md)
 ## [Attribuer des licences à des utilisateurs](assign-licenses-to-users.md)
 ## [Ajouter des licences ou des services à un abonnement existant](add-licenses-or-services-to-an-existing-subscription.md)
@@ -70,6 +70,7 @@
 ## [Simplifier l’installation d’appareils avec WindowsAutoPilot](autopilot.md)
 
 # Données et analyses de l’Espace partenaires
+## [Obtenir des données et analyser votre activité](data-analysis-lp.md)
 ## [Application Analyse de l’Espace partenaires pour MicrosoftPowerBI](power-bi-app-for-direct-partners.md)
 
 # [Collaborer avec d’autres partenaires](work-with-other-partners.md)
