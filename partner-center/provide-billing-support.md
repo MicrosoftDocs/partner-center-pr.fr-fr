@@ -3,10 +3,11 @@ title: "Proposer une assistance à la facturation | Espace partenaires"
 description: "Vous possédez la relation de facturation avec vos clients et gérez toutes leurs questions relatives à la facturation."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
+ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="provide-billing-support"></a>Proposer une assistance à la facturation
 
@@ -21,32 +22,30 @@ Vous possédez la relation de facturation avec vos clients et gérez toutes leur
 ## <a href="" id="microsoftresources"></a>Ressources Microsoft
 
 
--   Obtenez des formations sur les produits et sur la résolution des problèmes via MPN, y compris l’accès à la formation pratique de l’expérience d’immersion client (CIE, Customer Immersion Experience).
+-   Obtenez des formations sur les produits et sur la résolution des problèmes via MPN, y compris l'accès à la formation pratique de l'expérience d'immersion client (CIE, Customer Immersion Experience).
 -   Accédez à la documentation via la base de connaissances virtuelle (vKB).
 -   Recherchez des solutions techniques publiées sur TechNet et accédez à la prise en charge spécifique du partenaire dans le cadre de votre appartenance&nbsp;MPN.
--   Achetez un support Premier pour bénéficier d’avantages incrémentiels.
+-   Achetez un support Premier pour bénéficier d'avantages incrémentiels.
 
 ## <a href="" id="delinquentcustomeraccounts"></a>Comptes client en souffrance
 
 
 -   Vous êtes responsable du paiement à Microsoft.
--   Nous vous recommandons d’établir pour les clients une stratégie claire détaillant les processus de collection et en cas d’impact sur l’accès à l’abonnement.
--   Si nécessaire, vous pouvez désactiver l’accès de votre client à l’abonnement en l’absence de paiement.
+-   Nous vous recommandons d'établir pour les clients une stratégie claire détaillant les processus de collection et en cas d'impact sur l'accès à l'abonnement.
+-   Si nécessaire, vous pouvez désactiver l'accès de votre client à l'abonnement en l'absence de paiement.
 
 ## <a href="" id="billingdisputes"></a>Litiges de facturation
 
 
--   [Signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md) à propos de questions ou de litiges liés à la facturation.
+-   [Signaler des problèmes](report-problems-with-partner-center.md) à propos de questions ou de litiges liés à la facturation.
 
 ## <a href="" id="escalatingissues"></a>Remontée des problèmes
 
 
 -   [Faites remonter les problèmes à Microsoft](escalate-problems-to-microsoft.md) via le canal de support de partenaire si vous avez besoin de notre assistance.
--   Vous devez communiquer avec le client et fermer la boucle, une fois le problème résolu.
+-   Vous devez communiquer avec le client et fermer la boucle, une fois le problème résolu. 
 
  
-
- 
-
+Signaler des litiges de facturation (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center) à propos de questions ou de litiges liés à la facturation.
 
 

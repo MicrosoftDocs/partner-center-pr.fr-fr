@@ -1,25 +1,25 @@
 ---
 title: Attribuer des abonnements Azure dans l'Espace partenaires | Espace partenaires
-description: "Vous pouvez désormais attribuer des abonnements Azure à vos clients dans l’Espace partenaires."
+description: "Vous pouvez désormais attribuer des abonnements Azure à vos clients dans l'Espace partenaires."
 author: Labrenne
 keywords: Azure, abonnement Azure, abonnement, abonnements, attribuer un abonnement
-ms.openlocfilehash: bdd8973809f01de002f45dd33ade48be0b70ddb3
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 3843c3146eefe5c54c763a4b136b9c52367546c5
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Attribuer des abonnements Azure dans l'Espace partenaires
 
-**S’applique à:**
+**S'applique à:**
 
 -  Espace partenaires
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Attribuez des abonnements Azure à vos clients dans l’Espace partenaires
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Attribuez des abonnements Azure à vos clients dans l'Espace partenaires
 
-L'approvisionnement d'Azure est semblable à celui des abonnements sous licence. Son processus d’attribution est toutefois différent.
+L'approvisionnement d'Azure est semblable à celui des abonnements sous licence. Son processus d'attribution est toutefois différent.
  
-1. Connectez-vous à l’[Espace partenaires](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartnercenter.microsoft.com%2F&data=02%7C01%7Cv-keimag%40microsoft.com%7C6f107d2337fa483b078e08d4efba2d13%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636397030307982666&sdata=jViWaoT04hVO10MpiduZoNV95Iv%2B4RX3wpVd028RHSU%3D&reserved=0).
+1. Connectez-vous à l'[Espace partenaires](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartnercenter.microsoft.com%2F&data=02%7C01%7Cv-keimag%40microsoft.com%7C6f107d2337fa483b078e08d4efba2d13%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636397030307982666&sdata=jViWaoT04hVO10MpiduZoNV95Iv%2B4RX3wpVd028RHSU%3D&reserved=0).
 
 2. Accédez à votre **Tableau de bord > Clients**, puis sélectionnez le client à qui vous souhaitez attribuer un abonnement.
 
@@ -29,10 +29,10 @@ L'approvisionnement d'Azure est semblable à celui des abonnements sous licence.
 
 5. Depuis le portail Azure, sélectionnez **Abonnements**.
 
-6. Sélectionnez l’abonnement que vous souhaitez attribuer, puis sélectionnez **Contrôle d’accès**.
+6. Sélectionnez l'abonnement que vous souhaitez attribuer, puis sélectionnez **Contrôle d'accès**.
 
-7. Sélectionnez **Ajouter** pour ajouter un utilisateur à l’abonnement. 
+7. Sélectionnez **Ajouter** pour ajouter un utilisateur à l'abonnement. 
 
-8. Après avoir ajouté l’utilisateur à l’abonnement, vous pouvez attribuer un rôle à cet utilisateur, ainsi que le compte spécifique auquel il aura accès. 
+8. Après avoir ajouté l'utilisateur à l'abonnement, vous pouvez attribuer un rôle à cet utilisateur, ainsi que le compte spécifique auquel il aura accès. 
 
 
