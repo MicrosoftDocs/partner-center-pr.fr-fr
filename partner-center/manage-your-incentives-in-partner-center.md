@@ -10,43 +10,43 @@ ms.lasthandoff: 07/07/2017
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Gérer vos primes incitatives dans l’Espace partenaires 
 
-**Applies to**
+**S’applique à**
 
--  Partner Center
+-  Espace partenaires
 
-## <a name="partner-incentives"></a>Partner Incentives 
+## <a name="partner-incentives"></a>Primes incitatives des partenaires 
 
-Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.
+Que vous travailliez dans le cloud, de manière locale ou quelque part entre les deux, les primes incitatives destinés aux partenaires stimulent votre croissance et votre rentabilité.
 
-## <a name="qualify-for-the-partner-incentives-program"></a>Qualify for the Partner Incentives program
+## <a name="qualify-for-the-partner-incentives-program"></a>Rejoindre le programme de primes incitatives des partenaires
 
-You're eligible for the CSP Incentives Program when you meet the following criteria:
+Pour être éligible au programme de primes incitatives destiné aux partenaires fournisseurs de solutions Cloud, vous devez:
 
--   Have an active Microsoft Partner Network (MPN) agreement 
--   A valid Cloud Distributor agreement (indirect providers only)
--   A Reseller agreement (direct sellers only)
--   Meet the competency requirement
+-   Disposer d’un contrat MicrosoftPartnerNetwork (MPN) actif 
+-   Disposer d’un contrat de distributeur MicrosoftCloud valide (fournisseurs indirects uniquement)
+-   Disposer d’un contrat de revendeur (vendeurs directs uniquement)
+-   Répondre aux exigences en matière de compétences
 
-As soon as you become eligible, you will be invited to join the program.
+Dès que vous êtes éligible, vous êtes invité à rejoindre le programme.
 
-## <a name="one-site-one-sign-in"></a>One site, one sign in
+## <a name="one-site-one-sign-in"></a>Un site et une seule connexion
 
-Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center. 
+Maintenant que la gestion des primes incitatives des partenaires se fait à partir de l’Espace partenaires, vous pouvez vous inscrire aux programmes de primes incitatives, accéder à vos profils fiscaux et de paiement, vos relevés de revenus et de paiement et gérer les utilisateurs depuis un même emplacement, à savoir l’Espace partenaires. 
 
-Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July. Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center. 
+Les partenaires déjà inscrits vont pouvoir commencer à gérer les primes incitatives dans l’Espace partenaire en plusieurs phases, à compter du mois de juillet. Vous recevrez un e-mail de notre part vous invitant à inscrire votre entreprise aux programmes de primes incitatives dans l’Espace partenaires. 
 
-Admins, if you have received the email, follow these three easy steps today:
+Si, en tant qu’administrateur, vous avez déjà reçu cet e-mail, suivez ces trois étapes simples dès aujourd’hui:
 
 1.  Se connecter à l’Espace partenaires 
 2.  Suivre les instructions contenues dans l’e-mail pour configurer les utilisateurs des programmes de primes incitatives 
 3.  Fournir les informations de connexion à l’Espace partenaires requises aux nouveaux utilisateurs des programmes de primes incitatives
 
-When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.
+Lorsque l’administrateur de primes incitatives a reçu ses informations d’identification, il peut effectuer la migration de l’entreprise pour permettre à celle-ci de gérer vos primes incitatives à partir de l’Espace partenaires.
 
 
-[Create user accounts and assign permissions](create-user-accounts-and-set-permissions.md)
+[Créer des comptes d’utilisateur et attribuer des autorisations](create-user-accounts-and-set-permissions.md)
 
-[Reset a user password](reset-a-user-password.md)
+[Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)
 
-[Understand your Incentive payouts](understand-incentive-payouts.md)
+[Comprendre le paiement de vos primes incitatives](understand-incentive-payouts.md)
 

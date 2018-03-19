@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: Comprendre le paiement de vos primes incitatives | Espaces partenaires
 description: Affichez les revenus et les paiements se rapportant aux programmes de primes incitatives.
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>Comprendre le paiement de vos primes incitatives
 
-**Applies to**
+**S’applique à**
 
 -  Espace partenaires
 
 Les administrateurs et les utilisateurs des programmes de primes incitatives obtiennent une vue d’ensemble des revenus et paiements qu'ils ont reçus ou qu'ils vont recevoir dans le cadre de leurs programmes de primes incitatives.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>Informations récapitulatives sur les revenus et les paiements
 
 Les utilisateurs et administrateurs de primes incitatives peuvent vérifier leur situation financière dans le cadre des programmes de primes incitatives auxquels ils participent à partir de la page **Résumé du paiement**. Vous pouvez analyser chaque zone du récapitulatif en détail, si nécessaire. 
 
@@ -49,7 +49,7 @@ Le tableau des revenus et des paiements par produit/programme affiche une répar
 
 ## <a name="analyze-incentives-earnings"></a>Analyser les revenus des primes incitatives
 
-Identifiez les secteurs où votre entreprise peut encore générer davantage de revenus grâce aux programmes de primes incitatives et ceux où vous avez déjà perçu des revenus. This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. Chaque programme et type de revenu aura des exigences et des dates de début et de fin différentes. 
+Identifiez les secteurs où votre entreprise peut encore générer davantage de revenus grâce aux programmes de primes incitatives et ceux où vous avez déjà perçu des revenus. Ces données vous permettent de voir clairement les secteurs pour lesquels vous avez obtenu des primes mais n’avez pas encore été rémunéré.  Identifiez les programmes et les activités ayant connu le plus de succès ainsi que les sites de l’entreprise qui génèrent des revenus. En affichant les données par programme, vous pouvez voir le montant total des revenus, la durée de participation au programme et sa date d’expiration. Chaque programme et type de revenu aura des exigences et des dates de début et de fin différentes. 
 
 ## <a name="earning-trends"></a>Tendances des revenus 
 
@@ -96,12 +96,12 @@ Les tableaux suivants décrivent les champs qui figurent dans les fichiers de re
 
 ## <a name="downloading-earnings-transactions"></a>Téléchargement des transactions de revenus 
 
-|**Champ**        |**Definition**     |
+|**Champ**        |**Définition**     |
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |Identificateur unique créé pour chaque ligne de revenu |               
 |Nom du partenaire   | Nom du partenaire enregistré dans l’Espace partenaires                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Pays/région de MPN V du partenaire - ID Org|
+|MPN/PCN        |ID MPN (ID MicrosoftPartnerNetwork du partenaire) / Numéro de client public|
+|Emplacement       | Pays/région de MPN V du partenaire - ID Org|
 |Nom du programme   |Nom du programme de primes incitatives |
 |Nom du client  |   Nom du client |
 |Emplacement du client  | Pays dans lequel se trouve le client  |
@@ -113,11 +113,11 @@ Les tableaux suivants décrivent les champs qui figurent dans les fichiers de re
 |Date de fin de contrat |Date de fin du contrat de licence, y compris les renouvellements et les prolongations |
 |Date de début d’abonnement    |Date de début d’un abonnement|
 |Date de fin d’abonnement  |Date de fin d’un abonnement|
-|Product SKU    |Numéro de référence d’un produit|
+|Référence produit    |Numéro de référence d’un produit|
 |Nom du produit   |Nom du produit Microsoft|
 |Date de la transaction   |Date et heure d’exécution de la transaction (UTC).|
 |Nombre de licences  |Nombre de licences vendues |
-|Quantity   |Nombre d’unités vendues| 
+|Quantité   |Nombre d’unités vendues| 
 |Quantité précédente |Nombre d’unités à compter de la dernière période de rémunération |
 |Prix unitaire |Prix par unité vendue| 
 |Montant de la transaction |Le taux de calcul est multiplié par ce montant pour calculer les revenus des primes incitatives|
@@ -128,7 +128,7 @@ Les tableaux suivants décrivent les champs qui figurent dans les fichiers de re
 |Période de rémunération     |Période de rémunération basée sur le programme |
 |Début de la période de rémunération   |Début d’une période de rémunération pour un programme (UTC) |
 |Fin de la période de rémunération |Fin d’une période de rémunération pour un programme (UTC)|
-|Calculation Date   |Date à laquelle la rémunération est calculée (UTC)|
+|Date de calcul   |Date à laquelle la rémunération est calculée (UTC)|
 |Devise de rémunération   |Devise du montant de la rémunération |
 |Taux de change de la rémunération|Taux de change utilisé pour convertir la devise de transaction en devise de rémunération|
 |Devise de rapport|Devise utilisée pour les rapports|
@@ -145,8 +145,8 @@ Les tableaux suivants décrivent les champs qui figurent dans les fichiers de re
 |**Nom de la colonne**   |**Description**   |
 |-------------------|:--------------------|
 |Nom du partenaire|Nom du partenaire enregistré dans l’Espace partenaires|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|MPN/PCN        |ID MPN (ID MicrosoftPartnerNetwork du partenaire) / Numéro de client public|
+|Emplacement       | Pays/région de MPN V du partenaire - ID Org|
 |Nom du programme   |Nom du programme de primes incitatives |
 |Type de revenus   |Type des revenus (remise, ajustement) |
 |Devise du montant de paiement|   Type de devise utilisé pour le paiement|

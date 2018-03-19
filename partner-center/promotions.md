@@ -10,7 +10,7 @@ ms.lasthandoff: 08/24/2017
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilisez des promotions pour attirer de nouveaux clients  
 
-**Applies to: Partner Center**
+**S’applique à: Espaces partenaires**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -32,18 +32,18 @@ Prenez le temps de passer en revue ces informations importantes relatives aux pr
 
 Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **Promotions** à partir du menu **Tableau de bord** pour afficher la liste des promotions en cours ainsi que la remise, le type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
 
->**Note**<br>
-You can also see promotions when making a purchase. Lorsque vous sélectionnez un abonnement, le tarif promotionnel s’affiche sur la page **Révision**.
+>**Remarque**<br>
+Vous pouvez également afficher les promotions lorsque vous effectuez un achat. Lorsque vous sélectionnez un abonnement, le tarif promotionnel s’affiche sur la page **Révision**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acheter des abonnements à prix promotionnel
 
-1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
+1. Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis sélectionnez le client qui achète l’abonnement. 
 
-2. Select **Add subscription**.
+2. Sélectionnez **Ajouter un abonnement**.
 
 3. Sur la page **Nouvel abonnement**, sélectionnez l’abonnement auquel la promotion s'applique.
 
-4. Enter the number of licenses the customer needs. 
+4. Entrez le nombre de licences requises par le client. 
 
 5. Vérifiez la commande. Le tarif promotionnel doit être appliqué dans la colonne **Remise**.  
 
