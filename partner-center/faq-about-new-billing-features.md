@@ -1,13 +1,13 @@
 ---
-title: "FAQ sur les nouvelles fonctionnalités de facturation| Espace partenaires"
+title: FAQ sur les nouvelles fonctionnalités de facturation| Espace partenaires
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
-ms.assetid: 
+ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
-ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
+ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
+ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2018
+ms.lasthandoff: 03/15/2018
 ---
 # <a name="faq-about-new-billing-features"></a>FAQ sur les nouvelles fonctionnalités de facturation
 
@@ -87,11 +87,11 @@ Sections:
 
 -   **R:** Pour tirer parti de la facturation annuelle, certaines modifications de vos API sont nécessaires. Vous trouverez plus d’informations dans les articles suivants:
 
-    - https://partnercenter.microsoft.com/fr-fr/partner/developer
+    - https://partnercenter.microsoft.com/en-us/partner/developer
 
-    - https://msdn.microsoft.com/fr-fr/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
+    - https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
 
-    - Exemple de code: https://msdn.microsoft.com/fr-fr/library/partnercenter/mt634667.aspx 
+    - Exemple de code: https://msdn.microsoft.com/en-us/library/partnercenter/mt634667.aspx 
 
 <a href="" id="placingyourorder"></a>**Processus de commande et scénarios de facturation**
 
@@ -105,7 +105,7 @@ Sections:
 
 **Q:** Si j’opte pour la facturation annuelle, quand serai-je facturé?    
 
--   **R:** Vous serez facturé à la date de facturation suivante. Par exemple, si votre date de facturation est le 1erfévrier, vous serez toujours facturé le 1erfévrier. Par conséquent, si vous achetez un abonnement à facturation annuelle le 29octobre2017 ou le 15janvier2018, dans les deux cas, la date de facturation sera le 1erfévrier2018. 
+-   **R:** Vous serez facturé à la date de facturation suivante. Par exemple, si votre date de facturation est fixée au 1er du mois, et que vous achetez un abonnement facturé à l'année le 29octobre2017, vous serez facturé le 1er novembre2017. Si vous n’apportez aucune modification à la licence, vous serez facturé à nouveau le 1er novembre2018. Si vous modifiez une licence, vous serez crédité et refacturé à la date de facturation suivante. 
 
 **Q:** Puis-je diviser un abonnement pour qu’une partie soit facturée une fois par mois et l’autre une fois par an?  
 
@@ -270,136 +270,129 @@ Sections:
 
 ## <a href="" id="freetrialsfaq"></a>FAQ sur les essais gratuits
 
-**Q:** En quoi consiste les essais gratuits?
+**Q1:** En quoi consiste les essais gratuits?
 
 -   **R:** Vous pouvez proposer à vos clients un essai gratuit de certains produits pendant 30jours. Cela leur permet d'évaluer le produit avant de l'acheter. Des essais gratuits sont proposés pour les produits suivants: 
 
-    - Office365 Business Premium  
-    - Office365E3  
-    - Office365E5 avec PSTN  
-    - Office365E5 sans PSTN  
-    - EnterpriseMobility+ Security E5  
-    - Formule Dynamics365 Customer Engagement1  
-    - Dynamics365 for Financials  
+    - Office365Business Premium (depuis le 17octobre2017)
+    - Office 365 E3 (depuis le17octobre2017)
+    - Office 365 E5 avec PSTN (depuis le17octobre2017)
+    - Office 365 E5 sans PSTN (depuis le17octobre2017)
+    - EnterpriseMobility+ Security E5 (depuis le17octobre2017)
+    - Formule Dynamics365 Customer Engagement1 (depuis le17octobre2017)
+    - Dynamics 365 for Financials (depuis le17octobre2017)
+    - Microsoft 365Business (au 1ermars2018)
     
-**Q:** La période gratuite est-elle supprimée avec les essais gratuits?
-
--   **R:** Non, les abonnements à facturation mensuelle continueront de bénéficier d'une période gratuite. Toutefois, il n’y aura aucune période gratuite pour la facturation annuelle.
-
-**Q:** L'ajustement des dates de facturation a été reporté au 1ertrimestre de l’exercice fiscal2018. Quel est l'impact sur la période gratuite et la facturation en général?
-
--   **R:** Les nouveaux abonnements à facturation mensuelle continueront de bénéficier d'une période gratuite et de s’aligner sur la date de facturation du partenaire. Les abonnements à facturation annuelle ne proposeront pas de période gratuite et s'aligneront sur la date d’achat. Les partenaires continueront de recevoir leurs fichiers de facture et de rapprochement à la date de facturation mensuelle, ce qui leur permettra de consulter l'activité de facturation des abonnements mensuels et annuels.
-
-**Q:** À quel moment la période gratuite sera-t-elle supprimée pour les abonnements avec une fréquence de facturation mensuelle?
-
--   **R:** Au 1ertrimestre de l'année fiscale 2018.
-
-**Q:** La facturation annuelle et les essais gratuits sont-ils différents dans le cloud souverain et le cloud public?
+**Q2:** La facturation annuelle et les essais gratuits sont-ils différents dans le cloud souverain et le cloud public?
 
 -   **R:** Non. Ils sont identiques. La seule différence réside dans les références d’évaluation qui sont disponibles au moment du lancement.
 
-**Q:** Quand celles-ci seront-elles disponibles pour les références répertoriées ci-dessus?
+**Q3:** Qui peut participer?
 
--   **R:** 17octobre2017.
+-   **R:** Tous les partenaires peuvent participer. Toutefois, ce programme n’est actuellement pas disponible en Chine. 
 
-**Q:** Qui peut participer?
-
--   **R:** Tous les partenaires peuvent participer. Toutefois, ce n’est pas actuellement disponible en Chine. Les essais gratuits seront disponibles pour les clients et partenaires chinois avant la fin de 2017. 
-
-**Q:** Quelles mesures dois-je prendre pour pouvoir bénéficier de ces essais gratuits?
+**Q4:** Quelles mesures dois-je prendre pour pouvoir bénéficier de ces essais gratuits?
 
 -   **R:** Déterminez la manière dont l'essai gratuit peut être intégré à vos propositions de vente et l'impact sur vos processus internes. Vous devrez peut-être également modifier vos API pour prendre en charge la conversion d’un essai gratuit en abonnement payant. Des spécifications techniques détaillées pour les modifications apportées aux API sont présentées dans la vue Annonces de l'Espace partenaires.
 
-**Q:** L'essai gratuit apparaîtra-t-il dans ma facture et dans le fichier de rapprochement?
+**Q5:** L'essai gratuit apparaîtra-t-il dans ma facture et dans le fichier de rapprochement?
 
 -   **R:** Non, les essais gratuits n'apparaissent pas dans votre facture ou votre fichier de rapprochement basé sur la licence. Ils apparaîtront dans votre facture et votre fichier de rapprochement basé sur la licence une fois que vous les aurez convertis en abonnements payants. Un abonnement converti s’affiche à la fois sur votre facture et sur votre fichier de rapprochement basé sur la licence, de la même manière qu'un nouvel abonnement.
 
-**Q:** Les essais gratuits ont-ils un impact sur les primes incitatives?
+**Q6:** Les essais gratuits ont-ils un impact sur les primes incitatives?
 
 -   **R:** Non. L’essai gratuit n’aura aucun impact sur les primes.
 
-**Q:** Des essais gratuits seront-ils proposés ultérieurement pour d'autres produits Office et du programme Fournisseur de solutions Cloud?
+**Q7:** Des essais gratuits seront-ils proposés ultérieurement pour les autres produits Office?
 
--   **R:** Nous ne le savons pas encore. Nous fournissons des essais gratuits pour ces produits, parce qu'il s'agit des offres commerciales les plus complètes et les plus populaires. Il se peut que nous ajoutions d'autres offres d'essais gratuits à l’avenir.
+-   **R:** Nous fournissons des essais gratuits pour ces produits, parce qu'il s'agit des offres commerciales les plus complètes et les plus populaires. Il se peut que nous ajoutions d'autres offres d'essais gratuits à l’avenir.
 
-**Q:** Un client peut-il bénéficier de plusieurs essais gratuits?
+**Q8:** Un client peut-il bénéficier de plusieurs essais gratuits?
 
 -   **R:** Chaque client a droit à un essai gratuit par offre disponible.
 
-**Q:** L'essai gratuit est-il limité?
+**Q9:** L'essai gratuit est-il limité?
 
 -   **R:** Oui. L'essai est valable pour un maximum de 25licences. Le nombre de licences ne peut pas être modifié pendant la période d'essai. Une fois l’essai converti en abonnement payant, vous pouvez lui ajouter des licences supplémentaires.
 
-**Q:** L'essai gratuit est-il automatiquement converti en abonnement payant?
+**Q10:** L'essai gratuit est-il automatiquement converti en abonnement payant?
 
 -   **R:** Non. Vous devez convertir l’abonnement vous-même, dans l'Espace partenaires ou via l’API.
 
-**Q:** Les essais gratuits peuvent-ils être utilisés aussi bien pour des abonnements à facturation mensuelle qu'annuelle?
+**Q11:** Les essais gratuits peuvent-ils être utilisés aussi bien pour des abonnements à facturation mensuelle qu'annuelle?
 
 -   **R:** Oui. Vous choisissez la fréquence de facturation lorsque vous convertissez l'essai en abonnement payant.
 
-**Q:** La date de début de l’abonnement sera-t-elle basée sur la date de début de l'essai gratuit ou sur la date de sa conversion en abonnement payant? 
+**Q12:** La date de début de l’abonnement sera-t-elle basée sur la date de début de l'essai gratuit ou sur la date de sa conversion en abonnement payant? 
 
 -   **R:** La date de début est basée sur la date de conversion. Si l'essai gratuit est converti en offre payante à facturation annuelle, la date de renouvellement de l’abonnement sera 12mois à compter de la date de conversion. Si l'essai gratuit est converti en une offre payante avec facturation mensuelle, la date de renouvellement de l’abonnement sera 12mois à compter de la date de facturation suivant la date de conversion.
 
-**Q:** Pouvons-nous ajouter ou supprimer des licences pendant l'essai gratuit?
+**Q13:** Pouvons-nous ajouter ou supprimer des licences pendant l'essai gratuit?
 
 -   **R:** Non. Le nombre de licences par défaut pour les essais gratuits sera égal à 25 et ne pourra pas être modifié.
 
-**Q:** Existe-t-il des essais pour des offres de module complémentaire comme ATP et PSTN?
+**Q14:** Existe-t-il des essais pour des offres de module complémentaire comme ATP et PSTN?
 
--   **R:** Il n’existe aucun essai gratuit pour les offres de module complémentaire.
+-   **R:** Il n’existe aucun essai gratuit pour les offres de module complémentaire actuellement.
 
-**Q:** Puis-je proposer un essai gratuit pour une offre qu'un client possède déjà?
+**Q15:** Puis-je proposer un essai gratuit pour une offre qu'un client possède déjà?
 
 -   **R:** Non. Si le client possède déjà l’offre, elle ne peut pas être utilisée pour un essai gratuit.
 
-**Q:** Pourrai-je consulter toutes mes offres d’essai gratuit en attente?
+**Q16:** Pourrai-je consulter toutes mes offres d’essai gratuit en attente?
 
 -   **R:** Oui. La page du client répertorie tous les abonnements. Elle indique à la fois les abonnements d’essai gratuit et les abonnements payants.
 
-**Q:** Serai-je averti de l'arrivée à expiration des essais gratuits?
+**Q17:** Serai-je averti de l'arrivée à expiration des essais gratuits?
 
 -   **R:** Non. Vous pouvez suivre les dates d’expiration à venir soit à l’aide de la vue des clients dans l’Espace partenaires, soit en interrogeant l’API. Il est recommandé de contrôler fréquemment ces dates afin de pouvoir prendre les mesures de suivi appropriées auprès des clients à l’approche du moment où ils doivent prendre une décision.
 
-**Q:** Si un client bénéficie déjà d'un essai gratuit pour une offre, peut-il également utiliser un autre essai pour une autre offre? 
+**Q18:** Si un client bénéficie déjà d'un essai gratuit pour une offre, peut-il également utiliser un autre essai pour une autre offre? 
 
 -   **R:** Oui. Les clients peuvent souscrire un essai par offre. Par exemple, ils peuvent obtenir un essai gratuit pour Office365 Business Premium et un autre pour Office365E3.
 
-**Q:** Que se passe-t-il lorsque l'essai se termine? Mon client ou moi allons-nous recevoir une notification? Quelles notifications apparaissent-elles lors d'une tentative de connexion à un essai arrivé à expiration?
+**Q19:** Que se passe-t-il lorsque l'essai se termine? Mon client ou moi allons-nous recevoir une notification? Quelles notifications apparaissent-elles lors d'une tentative de connexion à un essai arrivé à expiration?
 
--   **R:** Une fois l’essai terminé, un message indiquant que l’essai est arrivé à expiration s’affiche quand le client tente de s’y connecter. Aucune notification ne sera mise en place pour indiquer qu’un essai arrive à expiration, mais en tant que partenaire, vous pouvez en assurer le suivi en consultant la vue des clients ou par l’intermédiaire de requêtes à l’API.
+-   **R:** Une fois l’essai terminé, un message indiquant que l’essai est arrivé à expiration s’affiche quand le client tente de s’y connecter. Aucune notification ne sera envoyée pour indiquer qu’un essai arrive à expiration, mais en tant que partenaire, vous pouvez en assurer le suivi en consultant la vue des clients ou par l’intermédiaire de requêtes à l’API.
 
-**Q:** Un essai peut-il être prolongé?
+**Q20:** Un essai peut-il être prolongé?
 
 -   **R:** Non. Au bout de 30jours, l'essai doit être converti, sinon, il expirera.
 
-**Q:** Lorsqu’un essai expire, les informations qu'il contient sont-elles accessibles?
+**Q21:** Lorsqu’un essai expire, les informations qu'il contient sont-elles accessibles?
 
--   **R:** Oui. Les données sont stockées conformément aux normes de conservation des données. Dès que vous achetez un nouvel abonnement avec les mêmes plans de service, les données sont accessibles à partir de l’abonnement qui vient d’être activé.
+-   **R:** Oui. Les données sont stockées conformément aux normes de conservation des données. Dès que vous achetez un nouvel abonnement avec les mêmes plans de service, les données de vos clients sont accessibles à partir de l’abonnement qui vient d’être activé.
 
-**Q:** Les essais gratuits sont-ils disponibles pour les offres Secteur Public et Éducation?
+**Q22:** Les essais gratuits sont-ils disponibles pour les offres Secteur Public et Éducation?
 
 -   **R:** Aucun essai gratuit n'est proposé pour les offres Secteur Public et Éducation pour l'instant.
 
-**Q:** Les essais gratuits d'un client pour le programme Fournisseur de solutions Cloud peuvent-ils être convertis en d'autres clients de programme comme EA, Open ou MOSP? 
+**Q23:** Les essais gratuits d'un client pour le programme de fournisseur de solutions Cloud peuvent-ils être convertis en d'autres clients de programme comme EA, Open ou MOSP? 
 
--   **R:** Non. Les abonnements ne peuvent pas être transférés du programme Fournisseur de solutions Cloud vers un autre programme.
+-   **R:** Non. Les abonnements ne peuvent pas être transférés du programme fournisseur de solutions Cloud vers un autre programme.
 
-**Q:** Comment puis-je obtenir un support sur les essais gratuits? 
+**Q24:** Comment puis-je obtenir un support sur les essais gratuits? 
 
 -   **R:** Veuillez soumettre une demande de service via l'Espace partenaires.
 
 ## <a href="" id="billingalignmentfaq"></a>Ajustement de la facturation - Fin de la période gratuite
 
-Le 20février, le programme Fournisseur de solutions Cloud mettra en œuvre l'«ajustement des dates de facturation» pour les nouveaux abonnements avec une fréquence de facturation mensuelle. Cet «ajustement des dates de facturation» donnera une plus grande flexibilité aux partenaires ainsi qu'une meilleure prévision de leurs ventes et de leur facturation. Il permettra en outre d'améliorer l'approvisionnement et la gestion des abonnements des clients. Les abonnements achetés avant le 20février bénéficieront d'une période gratuite allant de la date de l'achat à la date de facturation du partenaire. Les abonnements achetés après le 20février ne bénéficieront plus d'une période gratuite. La période payante de douze mois démarrera (s'ajustera) à la date d'achat au lieu de la date de facturation du partenaire. Les partenaires ne verront plus la ligne «Facturation 0» qui représente la période de gratuité sur le fichier de rapprochement. Aucune modification n'est apportée aux API de facturation ou aux primes incitatives.  Les partenaires doivent informer leurs équipes de vente et de gestion des comptes de cette nouvelle logique de facturation et veiller à ce que les opérations soient ajustées en fonction des besoins.  
+Dès le 21février2018, le programme de fournisseur de solutions Cloud débutera la mise en œuvre de «l'ajustement des dates de facturation» pour les nouveaux abonnements à fréquence de facturation mensuelle. Cet «ajustement des dates de facturation» donnera une plus grande flexibilité aux partenaires ainsi qu'une meilleure prévision de leurs ventes et de leur facturation. Il permettra en outre d'améliorer l'approvisionnement et la gestion des abonnements des clients. 
 
-Avant la mise en œuvre de l’ajustement des dates de facturation, la facture était basée sur la date anniversaire de facturation du partenaire, c'est-à-dire la date d'inscription du partenaire au programme Fournisseur de solutions Cloud, et non sur la date anniversaire de l'abonnement du client, c'est-à-dire la date d'achat de l'abonnement par le client. Après le 20février, les partenaires seront facturés à la date anniversaire de leur abonnement, ce qui élimine cette période de gratuité.  Les partenaires continueront de recevoir des factures à leur date anniversaire de facturation, mais la date d’effet de la facture correspondra à la date anniversaire d’abonnement du client. 
+**MISE À JOUR DU 23FÉVRIER:** nous avions précédemment annoncé la date de mise en œuvre du 20février, mais en réalité, notre implémentation a été légèrement différée et répartie par catégorie de produit.  Veuillez passer en revue le tableau ci-dessous pour connaître la date de mise en œuvre par catégorie de produit. 
 
-Les abonnements qui se trouvent dans la période gratuite au 20février ne seront pas facturés entre la date d’achat et la date de facturation du partenaire. En outre, le 1ermois de la période payante de 12mois ne sera pas facturé. Si vous utilisez un fichier de rapprochement pour vérification, n’oubliez pas que la facture de ce premier mois n'y sera plus visible.  
+|**Catégorie de produit**   |**Date de mise en œuvre**   |
+|-----------------|:-------------|
+|Office  |21février   |
+|Windows, Minecraft   |22février   |
+|Office365 Chine   |23février   |
+|Dynamics/Intune   |23février   |
 
-Cette nouvelle logique de facturation n'entraîne aucune modification de l’API, de la facturation ni des primes incitatives. Veuillez informer vos équipes de vente et de gestion des comptes de cette nouvelle logique de facturation et veiller à ce qu'elles ajustent les opérations en fonction des besoins. Consultez la FAQ ci-dessous et ses scénarios de facturation détaillés.  
+Les abonnements achetés avant la date de mise en œuvre (voir le tableau ci-dessus) bénéficient d'une période gratuite entre la date d’achat et la date de facturation du partenaire. Les abonnements achetés après la date de mise en œuvre ne bénéficieront plus de la période de gratuité. La période payante de douze mois démarrera (s'ajustera) à la date d'achat au lieu de la date de facturation du partenaire. Les partenaires ne verront plus la ligne «Facturation 0» qui représente la période de gratuité sur le fichier de rapprochement. Aucune modification n'est apportée aux API de facturation ou aux primes incitatives.  Les partenaires doivent informer leurs équipes de vente et de gestion des comptes de cette nouvelle logique de facturation et veiller à ce que les opérations soient ajustées en fonction des besoins.  
 
+Avant la mise en œuvre de l’ajustement des dates de facturation, la facture était basée sur la date anniversaire de facturation du partenaire, c'est-à-dire la date d'inscription du partenaire au programme Fournisseur de solutions Cloud, et non sur la date anniversaire de l'abonnement du client, c'est-à-dire la date d'achat de l'abonnement par le client. Après la date de mise en œuvre, les partenaires seront facturés à la date anniversaire de leur abonnement, ce qui élimine cette période de gratuité.  Les partenaires continueront de recevoir des factures à leur date anniversaire de facturation, mais la date d’effet de la facture correspondra à la date anniversaire d’abonnement du client. 
+
+Les abonnements qui se trouvent dans la période gratuite à la date de mise en œuvre ne seront pas facturés entre la date d’achat et la date de facturation du partenaire. En outre, le 1ermois de la période payante de 12mois ne sera pas facturé. Si vous utilisez un fichier de rapprochement pour vérification, n’oubliez pas que la facture de ce premier mois n'y sera plus visible.  
 
 **T1:** Quels sont les changements concernant la date de facturation?
 
@@ -407,19 +400,26 @@ Cette nouvelle logique de facturation n'entraîne aucune modification de l’API
 
 **Q2:** Quand la période gratuite sera-t-elle supprimée?
 
-- **R:** À compter du 20 février2018, les nouveaux abonnements n’auront pas de période gratuite.
+- **R:** Les nouveaux abonnements ne bénéficieront pas de période gratuite à compter de la date de mise en œuvre indiquée dans le tableau ci-dessous.
 
-**Q3:** Comment les abonnements qui se trouvent dans la période gratuite seront-ils affectés le 20février?
+|**Catégorie de produit**   |**Date de mise en œuvre**   |
+|-----------------|:-------------|
+|Office  |21février   |
+|Windows, Minecraft   |22février   |
+|Office365 Chine   |23février   |
+|Dynamics/Intune   |23février   |
 
-- **R:** Les abonnements qui se trouvent dans la période gratuite le 20 février2018 bénéficient toujours d’une période gratuite entre la date d’achat et la date de facturation du partenaire. Ces licences bénéficient également d'une «période gratuite étendue» et le 1ermois de la période payante de 12mois ne sera pas facturé. La «période gratuite étendue» ne s'appliquera pas aux licences ajoutées lors du 1ermois. Si vous augmentez la quantité de licences lors du 1ermois, vous serez facturé pour les licences ajoutées sur la facture/le rapprochement suivant. Si vous utilisez le fichier de rapprochement pour vérification, n’oubliez pas que la facture de ce premier mois peut ne pas y figurer. Consultez les scénarios ci-dessous pour des explications plus détaillées.
+**Q3:** Comment les abonnements qui se trouvent dans la période gratuite seront-ils affectés à la date de mise en œuvre?
+
+- **R:** Les abonnements qui se trouvent dans la période gratuite à la date de mise en œuvre bénéficient toujours d’une période gratuite entre la date d’achat et la date de facturation du partenaire. Ces licences bénéficient également d'une «période gratuite étendue» et le 1ermois de la période payante de 12mois ne sera pas facturé. La «période gratuite étendue» ne s'appliquera pas aux licences ajoutées lors du 1ermois. Si vous augmentez la quantité de licences lors du 1ermois, vous serez facturé pour les licences ajoutées sur la facture/le rapprochement suivant. Si vous utilisez le fichier de rapprochement pour vérification, n’oubliez pas que la facture de ce premier mois peut ne pas y figurer. Consultez les scénarios ci-dessous pour des explications plus détaillées.
 
 **Q4:** À quel moment la période payante de 12mois commencera-t-elle pour un nouvel abonnement?
 
-- **R:** Actuellement, la période payante commence à la date de facturation du partenaire qui suit la date d’achat. À partir du 20 février2018, la période payante des nouveaux abonnements commencera à la date d’achat.
+- **R:** Actuellement, la période payante commence à la date de facturation du partenaire qui suit la date d’achat. À partir de la date de mise en œuvre, la période payante des nouveaux abonnements commencera à la date d’achat.
 
 **Q5:** À quel moment les abonnements seront-ils automatiquement renouvelés?
 
-- **R:** Les abonnements seront automatiquement renouvelés 12mois après la première date de facturation. Actuellement, cela signifie que les abonnements sont automatiquement renouvelés 12mois après la première date de facturation du partenaire qui suit la date d’achat. À compter du 20février2018, les nouveaux abonnements seront renouvelés automatiquement 12mois après la date d’achat.
+- **R:** Les abonnements seront automatiquement renouvelés 12mois après la première date de facturation. Actuellement, cela signifie que les abonnements sont automatiquement renouvelés 12mois après la première date de facturation du partenaire qui suit la date d’achat. À compter de la date de mise en œuvre, les nouveaux abonnements seront renouvelés automatiquement 12mois après la date d’achat.
 
 **Q6:** Que se passe-t-il si j’achète l’abonnement le 29, le 30 ou le 31 du mois?
 
@@ -452,7 +452,7 @@ Cette nouvelle logique de facturation n'entraîne aucune modification de l’API
 ### <a name="common-scenarios"></a>Scénarios courants
 
 
-|**Scénarios**   |**Scénario1: la période gratuite de l'abonnement se termine avant le 20février2018**   |**Scénario2: l'abonnement se trouve dans la période gratuite au 20février2018**  | **Scénario3: abonnement acheté à partir du 20 février2018**   |
+|**Scénarios**   |**Scénario 1: La période gratuite de l'abonnement se termine avant la date de mise en œuvre**   |**Scénario 2: La période gratuite de l'abonnement est en cours à la date de mise en œuvre**  | **Scénario 3: Abonnements achetés à compter de la date de mise en œuvre**   |
 |----------|:------------|:--------------------|:------------|
 |Date d’achat |1erfévrier2018    | 1erfévrier2018    | 1erjuin2018     |
 |Date d'approvisionnement | 1erfévrier2018   |1erfévrier2018   |1erjuin2018   |
@@ -525,9 +525,8 @@ La date de facturation du partenaire est le15e jour du mois. Le 1erjuin2018, le 
 
 Le fichier de rapprochement du 15juillet contiendra les lignes de facturation suivantes:
 - Crédit d’annulation de -30$ pour la période de service du 20juin au 30juin. Le crédit n’est pas calculé au prorata car l’abonnement a été suspendu au cours des 30premiers jours.
-- Frais de 30$ pour la période de service du 25juin au 30juin. Les frais ne sont pas calculés au prorata car l’abonnement a été suspendu au cours des 30premiers jours.
-- Crédit de -30$ pour la période de service du 1juin au 30juin. Le partenaire a réactivé l’abonnement avec une quantité de licences différente, ce qui entraîne un crédit et des refacturations au prorata.
-- Refacturation au prorata de 24$ pour la période de service du 1erjuin au 24juin. Le partenaire a 1licence pendant cette période de service. Même si l’abonnement a été suspendu du 20juin au 24juin, le client est toujours facturé pour ces derniers jours. Le prix unitaire est calculé comme suit: (prix mensuel/nombre de jours dans la période de service totale)*nombre de jours dans la période de service au prorata*nombre de licences = (30/30)*24*1 = 24$.
+- Frais de 30$ pour la période de service du 25juin au 30juin. Les frais de réactivation ne sont pas calculés au prorata car l’abonnement a été réactivé au cours des 30premiers jours. Les frais sont également basés sur la quantité de licences d’origine (1).
+- Crédit de -6$ pour la période de service du 25juin au 30juin. Des frais de réactivation ne vous ont été facturés que pour 1 licence au cours de la période de service allant du 25 au 30 juin, où vous aviez 2 licences. Le crédit de -6$ annule les frais de service incorrects facturés pour la période du 25 au 30 juin.
 - Refacturation au prorata de 12$ pour la période de service du 25juin au 30juin. Le partenaire a 2licences pendant cette période de service. Le prix unitaire est calculé comme suit: (30/30)*6*2 = 12$.
 - Frais de 60$ pour la période de service du 1erjuillet au 31juillet.
 
@@ -535,8 +534,7 @@ Le fichier de rapprochement du 15juillet contiendra les lignes de facturation su
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |20/06/2018   |30/06/2018   |-30dollars   |1   |-30dollars   |Frais d'annulation |
 |25/06/2018   |30/06/2018   |30dollars   |1   |30dollars   |Frais d'activation |
-|01/06/2018   |30/06/2018   |-30dollars   |1   |-30dollars   |Instance de cycle au prorata |
-|01/06/2018   |24/06/2018   |24dollars   |1   |24dollars   |Instance de cycle au prorata |
+|25/06/2018   |30/06/2018   |- 6$   |1   |- 6$   |Instance de cycle au prorata |
 |25/06/2018   |30/06/2018   |6dollars   |2   |12dollars   |Instance de cycle au prorata |
 |01/07/2018   |31/07/2018   |30dollars   |2   |60dollars   |Frais de cycle |
 

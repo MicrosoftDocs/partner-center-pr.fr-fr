@@ -1,16 +1,16 @@
 ---
-title: "Créer un abonnement | Espace partenaires"
-description: "Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue."
+title: Créer, suspendre ou annuler des abonnements client | Espace partenaires
+description: Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
-Keywords: subscription, create new, add subscription,
-ms.openlocfilehash: 22c19d5f8530f4c79bda522e8087379b488f6474
-ms.sourcegitcommit: 86b5aa793bc453219246c667f82dbebc3a37c3eb
+Keywords: subscription, create new, add subscription, suspend, cancel,
+ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 03/01/2018
 ---
-# <a name="create-a-new-subscription"></a>Créer un abonnement
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler les abonnements client
 
 **S'applique à**
 
@@ -42,18 +42,23 @@ Veuillez noter que certaines offres sont limitées à un abonnement par client. 
 
 7.  Dans la page de modification, vous pouvez également changer le nombre de licences ou suspendre l’abonnement.
 
+## <a name="suspend-or-cancel-a-subscription"></a>Suspendre ou annuler un abonnement
 
-**Autoriser les clients à gérer leurs abonnements Windows Azure**
+Les partenaires peuvent suspendre ou annuler un abonnement à la demande du client ou dans les cas de fraude ou de défaut de paiement.
 
-Après avoir créé un abonnement Microsoft Azure pour un client, vous pouvez lui permettre de gérer son abonnement. Pour ce faire, vous devrez vous connecter sur le Portail de gestion Microsoft Azure du client. 
+Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs ne peuvent plus se connecter aux services ou y accéder. Toutefois, les administrateurs peuvent toujours se connecter aux données et y accéder.
 
-1.  Pour ouvrir le Portail Azure, développez la page de description du client dans la liste de vos clients ou sélectionnez le nom du client, puis sélectionnez **Portail de gestion Microsoft Azure**.
-    
- >**Remarque** <br> Si vous êtes invité à vous connecter au Portail Azure, vous n'avez peut-être pas délégué les privilèges d'administration. Sélectionnez **Demander une relation** pour inviter le client à vous identifier comme son partenaire de référence. Une fois que le client a accepté votre invitation, vous vous voyez automatiquement attribuer des privilèges d'administration délégués. 
+**Suspendre un abonnement**
 
-2.  Dans le portail Azure, ouvrez la liste des abonnements du client, puis sélectionnez l’abonnement Azure du client.
+1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis choisissez un client dans la liste.
+2.  Choisissez l’abonnement que vous souhaitez gérer.
+3.  Dans la section **État**, choisissez **Suspendu**. Puis, sélectionnez **Envoyer** pour valider vos modifications.
+4.  Toutes les données seront supprimées, sauf si l’abonnement est réactivé dans les 90jours, ou 90jours en plus du nombre de jours écoulés entre la date d'ouverture du compte et la première période de facturation (120jours maximum).
 
-3.  Attribuez un rôle à des utilisateurs du client afin qu'ils puissent créer et gérer les ressources de son abonnement.
+Lorsque vous suspendez un abonnement, la date affichée sous le bouton **Suspendu** indique quand l’abonnement va automatiquement expirer si vous ne le réactivez pas. 
+
+
+
 
  
 

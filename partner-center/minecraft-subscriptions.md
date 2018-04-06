@@ -1,13 +1,13 @@
 ---
-title: "Vendre des abonnements Minecraft Education Edition aux clients de l’éducation"
-description: "Vendre des abonnements Minecraft Education Edition aux clients de l’éducation"
+title: Vendre des abonnements Minecraft Education Edition aux clients de l’éducation
+description: Vendre des abonnements Minecraft Education Edition aux clients de l’éducation
 author: KPacquer
-keywords: "Partenaires d’éducation autorisés"
-ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+keywords: Partenaires d’éducation autorisés
+ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 02/21/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendre des abonnements Minecraft: EducationEdition aux clients de l’éducation
 
@@ -29,6 +29,37 @@ Vous achetez Minecraft: EducationEdition pour vos clients de l’éducation via 
       b. L’administrateur doit accéder à la [page des détails de Minecraft](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) pour télécharger l’application et la distribuer aux utilisateurs. Pour obtenir des instructions détaillées, voir [Pour les administrateurs informatiques-Obtenir Minecraft: EducationEdition: Distribuer Minecraft](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
     
   Si l’administrateur informatique de l’établissement scolaire n’est pas familiarisé avec le MicrosoftStore pour Entreprises, dirigez-le vers la [Présentation du MicrosoftStore pour Entreprises et du MicrosoftStore pour Éducation](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
+
+## <a name="special-pricing-for-education-offers"></a>Tarification spéciale des offres Éducation
+
+Microsoft consent des tarifs préférentiels à certains clients: établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients. Pour pouvoir accéder à cette tarification, les revendeurs doivent être certifiés. Le client doit également remplir les conditions requises pour pouvoir bénéficier du prix spécial.
+
+**Vérifier vos qualifications revendeur**
+
+1.  Dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte**.
+2.  Dans votre **Profil de partenaire**, dans la section **Informations sur le programme&nbsp;CSP**, recherchez **Qualifications revendeur**.
+3.  Si vous ne voyez pas la mention **Qualifications revendeur**, c’est que vous n’avez pas encore été autorisé à acheter des offres spéciales.
+
+**Vérifier les qualifications client**
+
+1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**. Dans la liste, choisissez le client.
+2.  Dans le menu client, sélectionnez **Compte**. Dans la section **Informations sur la société**, recherchez **Qualifications spéciales**.
+3.  Si le champ **Qualifications spéciales** affiche **Aucune**, mais que le client satisfait aux critères, vous pouvez **mettre à jour** ses informations pour les inclure.
+
+## <a name="access-education-offers"></a>Accéder aux offres Éducation 
+
+Pour accéder aux offres Éducation du programme de fournisseur de solutions Cloud, [devenez un partenaire Éducation autorisé](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).
+
+### <a name="purchase-offers-at-education-pricing"></a>Offres d’achat aux tarifs Éducation
+
+1. Vous devez être un [partenaire Éducation autorisé](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).
+Le client doit répondre à la définition de votre marché d’un [utilisateur Pédagogie éligible](http://go.microsoft.com/fwlink/p/?LinkId=808795).
+2. Suivez la procédure normale pour [créer un abonnement](create-a-new-subscription.md). Mais, lorsque vous sélectionnez l’offre dans le catalogue, choisissez-la dans l’onglet Éducation.
+
+
+
+
+
 
 <!-- ## Purchase through Partner Center API 
 

@@ -1,14 +1,14 @@
 ---
-title: "Scénarios de facturation courants | Espace partenaires"
-description: "Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous ajoutez de nouveaux abonnements, modifiez le nombre de licences dans un abonnement ou annulez un abonnement. Les abonnements basés sur l’utilisation et les abonnements basés sur la licence sont affectés différemment."
+title: Scénarios de facturation courants | Espace partenaires
+description: Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous ajoutez de nouveaux abonnements, modifiez le nombre de licences dans un abonnement ou annulez un abonnement. Les abonnements basés sur l’utilisation et les abonnements basés sur la licence sont affectés différemment.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, free period, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 0bfdf6e5f5a9617413981f0a0758f25e0a0eca54
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="common-billing-scenarios"></a>Scénarios de facturation courants
 
@@ -42,8 +42,6 @@ Seuls les services utilisés dans la période de facturation précédente vous s
 **Facturation:** les abonnements basés sur la licence sont facturés à l’avance sur le jour anniversaire d’abonnement.
 
 **Jour anniversaire:** les abonnements à facturation mensuelle sont alignés sur la date de facturation du partenaire et les abonnements à facturation annuelle sont alignés sur la date d'achat.
-
-**Période gratuite:** les abonnements à facturation mensuelle bénéficient d'une période gratuite à partir de la date d’achat jusqu'à la date de facturation suivante du partenaire.
 
 **Période d'abonnement:** tous les abonnements basés sur la licence sont souscrits pour une période de 12mois. La période d'abonnement commence à la date d’achat pour les abonnements à facturation annuelle et à la date de facturation suivant la date d’achat pour les abonnements à facturation mensuelle.
 

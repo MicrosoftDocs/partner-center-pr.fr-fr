@@ -1,12 +1,12 @@
 ---
 title: Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
-description: "En tant que fournisseur indirect ou distributeur, vous pouvez travailler en partenariat avec des revendeurs indirects pour accroître votre rayonnement."
+description: En tant que fournisseur indirect ou distributeur, vous pouvez travailler en partenariat avec des revendeurs indirects pour accroître votre rayonnement.
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -72,6 +72,7 @@ En fonction du niveau d’accès et de participation que vous souhaitez accorder
 | **Pour effectuer cette opération** | **Procéder comme suit** | **Où** |
 |   ------------------   |   -------   |   -----   |
 | Permettre au revendeur de gérer le compte d’un client et de disposer d’autorisations d’administrateur pour gérer leurs abonnements | Associer un revendeur à un compte client lorsque vous ajoutez un nouveau client | Dans la page **Nouveau client** |
+|Permettre au revendeur de gérer un compte client Azure|Associer un revendeur à un compte client Azure lorsque vous ajoutez un nouveau client|Sur le **Portail de service Azure**, sélectionnez [Paramètres utilisateur](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour attribuer au revendeur indirect des autorisations **propriétaire locataire**|
 | Donner au revendeur un crédit pour des primes | Associer le revendeur à l’abonnement (nouveau ou existant) | Dans la page **Nouvel abonnement** |
 | Déléguer le support client pour certains abonnements au revendeur | Sélectionnez le revendeur dans la liste **Contact de support désigné** | Dans la page des détails de l’abonnement: sélectionnez le client dans votre page **Clients**, puis sélectionnez l’abonnement dans la page **Abonnements** du client |
 

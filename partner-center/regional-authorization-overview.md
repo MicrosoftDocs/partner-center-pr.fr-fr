@@ -1,14 +1,14 @@
 ---
-title: "Autorisation régionale de Fournisseur de solutions&nbsp;Cloud | Espace partenaires"
-description: "Avec l’autorisation régionale, les partenaires d’entreprises internationales peuvent maintenant gérer plus facilement les clients de différentes régions et pays du monde entier."
+title: Autorisation régionale de Fournisseur de solutions&nbsp;Cloud | Espace partenaires
+description: Avec l’autorisation régionale, les partenaires d’entreprises internationales peuvent maintenant gérer plus facilement les clients de différentes régions et pays du monde entier.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-keywords: "locataire Azure AD, consolider les locataires, stratégie concernant les locataires, locataires dans le programme Fournisseur de solutions Cloud, comptes du programme Fournisseur de solutions Cloud, marchés et territoires du programme Fournisseur de solutions Cloud, où puis-je vendre par le biais du programme Fournisseur de solutions Cloud?"
-ms.openlocfilehash: 096f8421a9ccb95c00c79929124ed3c9adaf6933
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: locataire Azure AD, consolider les locataires, stratégie concernant les locataires, locataires dans le programme Fournisseur de solutions Cloud, comptes du programme Fournisseur de solutions Cloud, marchés et territoires du programme Fournisseur de solutions Cloud, où puis-je vendre par le biais du programme Fournisseur de solutions Cloud?
+ms.openlocfilehash: 45d9c6730cf3274d68915a453b1a33ed5239f68d
+ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 02/19/2018
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Stratégies de consolidation des locataires dans le programme Fournisseur de solutions Cloud
 
@@ -157,22 +157,22 @@ Prenez en compte les éléments suivants avant de consolider des locataires:
 
 -   **Si votre lieu de vente cible Microsoft est le Brésil**, votre territoire inclut les clients situés au Brésil.
 
--   **Si votre lieu de vente Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Anguilla, Antigua-et-Barbuda, Argentine, Aruba, Bahamas, Barbade (La), Belize, Bermudes, Bolivie, Bonaire, Saba et Saint-Eustache, Caïmans (Îles), Chili, Colombie, Costa Rica, Curaçao, El Salvador, Équateur, Guadeloupe, Guatemala, Guyane française, Honduras, Îles Vierges (É.-U.), Jamaïque, Martinique, Mexique, Nicaragua, Panama, Paraguay, Pérou, Porto Rico, République dominicaine, Sainte-Lucie, Saint-Kitts-et-Nevis, Saint-Martin, Saint-Martin (Royaume des Pays-Bas), Saint-Vincent-et-les-Grenadines, Suriname, Trinité-et-Tobago, Turks et Caïcos (Îles), Uruguay, Venezuela.
+-   **Si votre lieu de vente Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Anguilla, Antigua et Barbuda, Antarctique, Argentine, Aruba, Bahamas, Barbade, Belize, Bermudes, Bolivie, Bonaire, Îles Vierges britanniques, Îles Caïmans, Chili, Colombie, Costa Rica, Curaçao, Dominique, République dominicaine, Équateur, El Salvador, Malouines (îles), Guyane française, Grenade, Guadeloupe, Guatemala, Guyana, Haïti, Honduras, Jamaïque, Martinique, Mexique, Montserrat, Nicaragua, Panama, Paraguay, Pérou, Porto Rico, Saba, Saint Barthélemy, Saint-Christophe-et-Niévès, Sainte-Lucie, Saint-Martin, Saint-Vincent-et-les-Grenadines, Saint-Eustache, Saint-Martin, Géorgie du Sud et îles Sandwich du Sud, Suriname, Trinité-et-Tobago, Îles Turques-et-Caïques, Uruguay, Venezuela, Iles Vierges. 
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Allemagne, Andorre, Autriche, Belgique, Bulgarie, Croatie, Chypre, Cité du Vatican, Danemark, Espagne, Estonie, Féroé (Îles), Finlande, France, Grèce, Groenland, Hongrie, Île de Man, Islande, Irlande, Italie, Jersey, Lettonie, Liechtenstein, Lituanie, Luxembourg, Madagascar, Malawi, Mali, Malte, Mayotte, Monaco, Norvège, Nouvelle-Calédonie, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Saint-Marin, Slovaquie, Slovénie, Suède, Suisse.
+-   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Îles Åland, Andorre, Autriche, Belgique, Île Bouvet, Bulgarie, Croatie, Chypre, République tchèque, Danemark, Estonie, Féroé (îles), Finlande, France, Allemagne, Grèce, Gibraltar, Groenland, Guernesey, Hongrie, Islande, Irlande, Île de Man, Italie, Jersey, Jan Mayen, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Monaco, Pays-Bas, Norvège, Pologne, Portugal, Roumanie, Saint-Marin, Slovaquie, Slovénie, Espagne, Svalbard, Suède, Suisse, Royaume-Uni, État de la Cité du Vatican. 
 
     >**Remarque**<br> Si vous êtes inscrit au programme [Fournisseur de services Cloud de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md) et que vous vendez à des clients situés dans des pays et régions de l’Union européenne et de l’AELE, vous ne pouvez pas consolider votre locataire de l'Espace partenaires de MicrosoftCloud Germany avec vos autres locataires.  
 
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Afghanistan, Afrique du Sud, Albanie, Algérie, Arabie Saoudite, Arménie, Autorité palestinienne, Azerbaïdjan, Bahreïn, Bélarus, Bénin, Bosnie-Herzégovine, Burundi, Comores (Les), Égypte, Émirats arabes unis, Géorgie, Irak, Israël, Jordanie, Kazakhstan, Kirghizistan, Koweït, Liban, Libye, Macédoine (Ex-République yougoslave de), Maroc, Moldova, Mongolie, Monténégro, Mozambique, Oman, Ouzbékistan, Pakistan, Polynésie française, Qatar, Réunion (Île de la), Serbie, Seychelles, Tadjikistan, Togo, Tunisie, Turkménistan, Turquie, Ukraine, Yémen et Zimbabwe.
+-   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Afghanistan, Albanie, Algérie, Arménie, Azerbaïdjan, Bahreïn, Bélarus, Bénin, Bosnie-Herzégovine, Burkina Faso, Burundi, République centrafricaine, Tchad, Comores, Congo (RDC), Congo, Djibouti, Égypte, Guinée équatoriale, Érythrée, Polynésie française, Gabon, Gambie, Géorgie, Guinée, Guinée-Bissau, Irak, Israël, Jordanie, Kazakhstan, Koweït, Kirghizistan, Liban, Liberia, Libye, Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolie, Monténégro, Maroc, Nouvelle-Calédonie, Niger, Oman, Pakistan, Autorité palestinienne, Qatar, République de Macédoine, Réunion, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Somalie, Afrique du Sud, Tadjikistan, Togo, Tunisie, Turquie, Turkménistan, Ukraine, Émirats arabes unis, Ouzbékistan, Yémen, Zimbabwe. 
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Angola, Botswana, Cabo Verde, Cameroun, Côte d’Ivoire, Éthiopie, Ghana, Kenya, Maurice (Île), Namibie, Nigeria, Ouganda, Rwanda, Sénégal, Tanzanie et Zambie.
+-   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Angola, Botswana, Territoire britannique de l'océan Indien, Cabo Verde, Cameroun, Côte d'Ivoire, Éthiopie, Ghana, Kenya, Kosovo, Lesotho, Mauritanie, Île Maurice, Mozambique, Namibie, Nigeria, Rwanda, Sénégal, Swaziland, Tanzanie, Ouganda, Yémen , Zambie. 
 
 -   **Si votre lieu de vente cible Microsoft est la Russie**, votre territoire inclut les clients situés en Russie.
 
--   **Si votre lieu de vente Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région dans la liste suivante: Bangladesh, Bhoutan, Brunei Darussalam, Cambodge, Hong Kong (R.A.S.), Indonésie, Laos, Macao (R.A.S.), Malaisie, Maldives, Marshall (Îles), Myanmar, Népal, Papouasie-Nouvelle-Guinée, Philippines, Singapour, Sri Lanka, Thaïlande, Timor-Leste, Tonga et Vietnam.
+-   **Si votre lieu de vente Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région dans la liste suivante: Samoa américaines, Bangladesh, Bhoutan, Brunei, Darussalam, Cambodge, région administrative spéciale de Hong Kong, Indonésie, Laos, Macao R.A.S., Malaisie, Maldives, Myanmar, Népal, Philippines, Saint-Pierre-et-Miquelon, Samoa, Singapour, Sri Lanka, Thaïlande, Timor Leste, Vanuatu, Vietnam 
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Australie ou Fidji.
+-   **Si votre lieu de vente Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région dans la liste suivante: Australie, Îles Fidji, Îles Christmas, Îles Cocos (Keeling), Îles Cook, Guam, Îles Heard-et-McDonald, Kiribati, Îles Marshall, Micronésie, Nauru, Niue, Île Norfolk, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Îles Pitcairn, Îles Salomon, Tokelau, Tonga, Tuvalu, Wallis-et-Futuna. 
 
 -   **Si votre lieu de vente cible Microsoft est la Nouvelle-Zélande**, votre territoire inclut les clients situés en Nouvelle-Zélande.
 
@@ -190,21 +190,21 @@ Votre emplacement géographique détermine la devise dans laquelle vous êtes fa
 
 | Symbole monétaire | Pays |
 | ---- | ---- |
-| USD | Afrique du Sud, Albanie, Anguilla, Antigua-et-Barbuda, Arabie saoudite, Argentine, Arménie, Aruba, Azerbaïdjan, Bahamas, Bahreïn, Bangladesh, Barbade (La), Bélarus, Belize, Bénin, Bermudes, Bolivie, Bonaire, Saba et Saint-Eustache, Brésil, Brunei, Burundi, Cameroun, Chili, Colombie, Comores (Les), Costa Rica, Curaçao, Égypte, El Salvador, Émirats Arabes Unis, États-Unis, Équateur, Fidji, Géorgie, Ghana, Guatemala, Guyane française, Honduras, Hong Kong (R.A.S.), Îles Caïmans, Îles Turques-et-Caïques, Îles Vierges (É.-U.), Indonésie, Irak, Israël, Jamaïque, Kazakhstan, Kenya, Kirghizistan, Koweït, La Réunion, Liban, Macao (R.A.S.), Madagascar, Malaisie, Malawi, Mali, Maroc, Maurice, Mayotte, Mexique, Namibie, Nicaragua, Nigeria, Nouvelle-Calédonie, Oman, Pakistan, Panama, Paraguay, Pérou, Philippines, Polynésie française, Porto Rico, Qatar, République dominicaine, Rwanda, Sainte-Lucie, Saint-Martin, Saint-Martin (Royaume des Pays-Bas), Saint-Vincent-et-les-Grenadines, Serbie, Seychelles, Singapour, Sri Lanka, Suriname, Tanzanie, Thaïlande, Timor-Leste, Togo, Trinité-et-Tobago, Tunisie, Turquie, Ukraine, Uruguay, Venezuela, Vietnam  | 
+| USD | Albanie et Saint-Eustache, Anguilla, Antarctique, Antigua et Barbuda, Argentine, Arménie, Aruba, Azerbaïdjan, Bahamas, Bahreïn, Bangladesh, Barbade, Bélarus, Belize, Bénin, Bermudes, Bolivie, Bonaire, Brésil, Territoire britannique de l'océan Indien, Brunei, Burundi, Cameroun, Îles Caïmans, Comores, Costa Rica, Curaçao, République centrafricaine, Équateur, Égypte, El Salvador, Guinée équatoriale, Érythrée, Guyane française, Polynésie française, Géorgie, Ghana, Guatemala, Guinée-Bissau, Honduras, région administrative spéciale de Hong Kong, Indonésie, Iraq, Israël, Jamaïque, Kazakhstan, Kenya, Koweït, Kirghizistan, Liban, Lesotho, Macao R.A.S., Madagascar, Malawi, Malaisie, Mali, Mauritanie, Maurice, Mayotte, Mexique, Maroc, Namibie, Nouvelle-Calédonie, Nicaragua, Nigéria, Oman, Pakistan, Panama, Paraguay, Pérou, Philippines, Porto Rico, Qatar, Réunion, Rwanda, Saba, Sainte-Lucie, Saint(Martin, Saint-Vincent-et-les-Grenadines, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Singapour, Saint-Martin (Royaume des Pays-Bas), Somalie, Afrique du Sud, Soudan du Sud, Sri Lanka, Suriname, Swaziland, Tanzanie, Thaïlande, Timor-Leste, Togo, Trinité-et-Tobago, Tunisie, Turquie, Îles-Turques-et-Caïques, Îles Vierges américaines, Ukraine, Emirats arabes unis, États-Unis, Uruguay, Venezuela, Vietnam, Yémen.| 
 | TWD | Taïwan |
 | SEK | Suède |
 | INR | Inde |
 | RUB | Russie |
-| NZD | Nouvelle-Zélande |
-| NOK | Norvège |
+| NZD | Nouvelle-Zélande, Vanuatu |
+| NOK | Jan Mayen, Norvège, Svalbard |
 | KRW | Corée du Sud |
 | JPY | Japon |
 | GBP | Île de Man, Jersey, Royaume-Uni |
-| EUR | Allemagne, Andorre, Autriche, Belgique, Croatie, Espagne, Estonie, Féroé (Îles), Finlande, France, Grèce, Hongrie, Islande, Irlande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Saint-Marin, Slovaquie, Slovénie |
+| EUR | Allemagne, Andorre, Autriche, Belgique, Croatie, Espagne, Estonie, Féroé (Îles), Finlande, France, Grèce, Hongrie, Île Bouvet, Islande, Irlande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Saint-Marin, Slovaquie, Slovénie |
 | DKK | Danemark |
 | CHF | Suisse |
 | CAD | Canada |
-| AUD | Australie, Fidji, Marshall (Îles), Papouasie-Nouvelle-Guinée, Tonga |
+| AUD | Australie, Île Christmas, Îles Cocos (Keeling), Îles Cook, Fidji, Îles Heard-et-McDonald, Kiribati, Îles Marshall, Nauru, Niue, Île Norfolk, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Îles Pitcairn, Îles Salomon, Tokelau, Tonga, Tuvalu, Wallis-et-Futuna. |
 
 
  

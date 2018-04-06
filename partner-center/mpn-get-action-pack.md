@@ -1,12 +1,12 @@
 ---
 title: Acheter ou renouveler un abonnement Action Pack | Espace partenaires
-description: "Découvrez comment acheter ou renouveler un abonnement à Microsoft Action Pack"
+description: Découvrez comment acheter ou renouveler un abonnement à Microsoft Action Pack
 author: MaggiePucciEvans
-ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Acheter ou renouveler un abonnement à Microsoft Action Pack
 
@@ -96,6 +96,14 @@ Pour annuler votre abonnement au MicrosoftAction Pack, vous devez contacter le s
 
 Pour vérifier l’état de votre demande de service, sélectionnez **Demandes de Service > Demandes à l'Espace partenaires**, puis sélectionnez **Ouvrir**. Choisissez la demande de service appropriée sur la liste.  
 
+## <a name="how-to-get-your-maps-invoice"></a>Comment obtenir votre facture MAPS
+
+Pour télécharger une copie de votre facture d’abonnement à MicrosoftAction Pack, procédez comme suit.
+
+1. Connectez-vous à [partnercenter.microsoft.com](https://partnercenter.microsoft.com) 
+2. Cliquez sur Partenariat. 
+3. Sélectionnez Offres, puis cliquez sur Achats. 
+4. Cliquez sur Télécharger la facture
  
 ## <a name="next-steps"></a>Étapes suivantes
 

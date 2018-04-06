@@ -5,10 +5,10 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
 
@@ -59,18 +59,18 @@ En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez e
 ## <a name="pricing"></a>Tarification
 
 
-Téléchargez les détails de la tarification des services basée sur les licences et basée sur l’utilisation à partir de la page **Tarification et offres** accessible à partir de votre menu **Tableau de bord**. 
+Téléchargez les détails de la tarification des services basée sur les licences et basée sur l'utilisation à partir de la page **Tarification et offres** accessible à partir de votre menu **Tableau de bord**. 
 
-La liste de prix basée sur les licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30jours avant qu’elle n’entre en vigueur. Office365, Enterprise Mobility Suite et MicrosoftDynamics CRM sont des exemples de services basés sur les licences. 
+La liste de prix basée sur les licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30jours avant qu'elle n'entre en vigueur. Office365, Enterprise Mobility Suite et MicrosoftDynamics CRM sont des exemples de services basés sur les licences. 
 
-La tarification basée sur l’utilisation est dynamique et change fréquemment. MicrosoftAzure est un exemple de service basé sur l’utilisation.
+La tarification basée sur l'utilisation est dynamique et change fréquemment. MicrosoftAzure est un exemple de service basé sur l'utilisation.
 
 
 ## <a name="offers"></a>Offres
 
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez vendre à vos clients Office365, Enterprise Mobility Suite, Microsoft DynamicsCRM et Microsoft Azure. Pour plus d’informations sur les offres et offres groupées de produits disponibles à la vente dans ces familles de produits, consultez le tableau des fournisseurs de solutions Cloud dans la page **Tarification et offres** accessible à partir de votre menu **Tableau de bord**. Ce document est mis à jour chaque mois.
+En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez vendre à vos clients Office365, Enterprise Mobility Suite, Microsoft DynamicsCRM et Microsoft Azure. Pour plus d'informations sur les offres et offres groupées de produits disponibles à la vente dans ces familles de produits, consultez le tableau des fournisseurs de solutions Cloud dans la page **Tarification et offres** accessible à partir de votre menu **Tableau de bord**. Ce document est mis à jour chaque mois.
 
-Pour les fournisseurs de solutions Cloud partenaires qui utilisent l’API d’enregistrement de l’utilisation Crest, Microsoft publie également une liste des services Azure pour les fournisseurs de solutions Cloud dans la page **Tarification et offres**.
+Pour les fournisseurs de solutions Cloud partenaires qui utilisent l'API d'enregistrement de l'utilisation Crest, Microsoft publie également une liste des services Azure pour les fournisseurs de solutions Cloud dans la page **Tarification et offres**.
 
 

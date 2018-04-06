@@ -2,12 +2,12 @@
 title: Notions de base de facturation | Espace partenaires
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
-keywords: "facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement"
-ms.openlocfilehash: 59cdd6a3b0024356479ef0da87a87ac79148d316
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
+ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="billing-basics"></a>Notions de base de facturation
 
@@ -59,7 +59,6 @@ Vous disposez désormais d’une option de facturation annuelle en plus de l’o
 <tr class="odd">
 <td>Ajustements/crédits/annulations</td>
 <td><ul>
-<li>Les crédits ne sont pas autorisés pour les comptes test et le test des intégrations. Pour éviter des frais d’abonnement ou des frais de résiliation anticipée lorsque vous effectuez le test, vous pouvez annuler l’abonnement lors de la « période gratuite ». Tous les frais d’utilisation des services Azure vous incombent.</li>
 <li>Vous verrez les ajustements et les crédits à terme échu sur votre prochaine facture une fois qu’ils auront été appliqués.</li>
 </ul></td>
 </tr>
@@ -89,15 +88,6 @@ Vous disposez désormais d’une option de facturation annuelle en plus de l’o
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Programme incitatif (jusqu’à un mois gratuit)</td>
-<td><ul>
-<li>Les nouveaux abonnements à facturation mensuelle continueront de bénéficier d'une période gratuite et de s’aligner sur la date de facturation du partenaire.</li>
-<LI> Les abonnements à facturation annuelle ne proposeront pas de période gratuite et s'aligneront sur la date d’achat. Les partenaires continueront de recevoir leurs fichiers de facture et de rapprochement à la date de facturation mensuelle, ce qui leur permettra de consulter l'activité de facturation des abonnements mensuels et annuels.
-<li>Tous les abonnements sont renouvelés et réglés automatiquement pour une période de 12 mois si l’abonnement n’est pas annulé conformément au contrat.</li>
-<li>La période gratuite ne s’applique pas aux services basés sur l’utilisation.</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>Règles de facturation</td>
 <td><ul>
 <li>Les abonnements sont annuels et automatiquement renouvelés.</li>
@@ -107,7 +97,7 @@ Vous disposez désormais d’une option de facturation annuelle en plus de l’o
 <li>Les paiements sont facturés pour les sièges vendus (pas pour les sièges approvisionnés).</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Ajustements/crédits/annulations</td>
 <td><ul>
 <li>Les frais de résiliation anticipée ne s’appliquent pas pour l’instant à l’annulation des services basés sur les licences.</li>
@@ -133,7 +123,6 @@ Azure fonctionne sur le modèle du paiement à l’utilisation, dans lequel vous
 <tr class="odd">
 <td>Règles de facturation</td>
 <td><ul>
-<li>La facturation est déclenchée à la date de début de l’abonnement. Aucune «&nbsp;période gratuite&nbsp;» n’existe pour la facturation basée sur l’utilisation.</li>
 <li>Les abonnements sont au mois et renouvelés automatiquement en fonction des barèmes des nouveaux services. La facturation basée sur l’utilisation est mensuelle, à terme échu.</li>
 <li>Les barèmes des services peuvent changer au cours du cycle de facturation.
 <ul>

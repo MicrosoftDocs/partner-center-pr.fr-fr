@@ -1,19 +1,28 @@
 ---
-title: "Bénéficier du tarif spécial des offres | Espace partenaires"
-Description: "Microsoft consent des tarifs préférentiels à certains clients: établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients."
+title: Vendre aux secteurs spécialisés | Espace partenaires
+Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 03/09/2018
 ---
-# <a name="get-special-pricing-for-offers"></a>Bénéficier du tarif spécial des offres
+# <a name="sell-to-specialized-industries"></a>Vendre aux secteurs spécialisés
 
-**S'applique à**
+**S'applique à:**
 
 -  Espace partenaires
 
-Microsoft consent des tarifs préférentiels à certains clients: établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients. Pour pouvoir accéder à cette tarification, les revendeurs doivent être certifiés. Le client doit également remplir les conditions requises pour pouvoir bénéficier du prix spécial.
+Microsoft consent des tarifs préférentiels à certains clients: établissements d’enseignement, organisations à but non lucratif, organismes publics ou groupes très importants de clients. Pour pouvoir offrir cette tarification, les revendeurs doivent être certifiés. Le client doit également remplir les conditions requises pour pouvoir bénéficier du prix spécial.
+
+|**Tarification spéciale**   |**Qualifications revendeur requises**   |**Qualifications client requises**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Éducation   |Devenir un [Revendeur Éducation agréé](https://www.mepn.com/MEPN/AEPHome.aspx)   | Doit être un [Utilisateur Éducation qualifié](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)   |
+|Gouvernement   |S’inscrire via le [formulaire de validation de MicrosoftCloud pour le gouvernement](http://azuregov.microsoft.com/csp)|   aucun|
+|Activité à but non lucratif  |Aucun   |S’inscrire via le [Programme à but non lucratif Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible   |
+
 
 **Vérifier vos qualifications revendeur**
 
@@ -27,24 +36,10 @@ Microsoft consent des tarifs préférentiels à certains clients: établissement
 2.  Dans le menu client, sélectionnez **Compte**. Dans la section **Informations sur la société**, recherchez **Qualifications spéciales**.
 3.  Si le champ **Qualifications spéciales** affiche **Aucune**, mais que le client satisfait aux critères, vous pouvez **mettre à jour** ses informations pour les inclure.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Offres Éducation</p></td>
-<td><p>Pour accéder aux offres Éducation du programme Fournisseur de solutions&nbsp;Cloud, [devenez un partenaire Éducation autorisé](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).</p>
-<p>Offres d’achat aux tarifs Éducation</strong></p>
-<ol>
-<li>Vous devez être un [partenaire Éducation autorisé](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP).</li>
-<li>Le client doit répondre à la définition de votre marché d’un [utilisateur Pédagogie éligible](http://go.microsoft.com/fwlink/p/?LinkId=808795).</li>
-<li>Suivez la procédure normale pour [créer un abonnement](create-a-new-subscription.md). Mais, lorsque vous sélectionnez l’offre dans le catalogue, choisissez-la dans l’onglet <strong>Éducation</strong>.</li>
-</ol></td>
-</tr>
-</tbody>
-</table>
+**Où trouver des offres spéciales**
+
+Une fois que vous et vos clients serez qualifiés pour un programme d'offre spéciale, suivez la procédure standard pour [Créer un nouvel abonnement](create-a-new-subscription.md). Le catalogue comportera des onglets contenant les offres spéciales que vous pourrez proposer, par exemple **Éducation**. 
+
 
  
 
