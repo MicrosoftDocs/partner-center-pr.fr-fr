@@ -1,12 +1,13 @@
 ---
-title: "Mettre à jour votre profil de partenaire | Espace partenaires"
-description: "Lors de votre première connexion à l’Espace partenaires en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d&quot;exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil."
+title: Mettre à jour votre profil de partenaire | Espace partenaires
+description: Lors de votre première connexion en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: 007401c88d64c7201c23c0c64bb84a9c47dcdf92
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 4e6f1fb61d48c6fa73bfa5966c53a72fc2cfe38f
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="update-your-partner-profile"></a>Mettre à jour votre profil de partenaire
 
@@ -20,7 +21,7 @@ Lors de votre première connexion à l’Espace partenaires en tant qu’adminis
 
 **Mettre à jour les détails de votre support**
 
-1.  Dans l’Espace partenaires, accédez au menu Tableau de bord &gt; **Paramètres du compte** &gt; **Profil de facturation du partenaire**.
+1.  Accédez à **Paramètres** &gt; **Afficher tous les paramètres** &gt; **Profil de partenaire**.
 2.  Dans la section **Support**, sélectionnez **Mettre à jour**.
 3.  Si l’un de vos clients appelle Microsoft à la recherche d’assistance, Microsoft le renvoie au site web, à l’adresse électronique et aux coordonnées téléphoniques que vous avez indiqués dans votre profil de support.
 
@@ -30,7 +31,7 @@ Lors de votre première connexion à l’Espace partenaires en tant qu’adminis
 
 **Vérifier les informations de votre profil**
 
-1.  Dans l’Espace partenaires, accédez au menu Tableau de bord &gt; **Paramètres du compte**.
+1.  Accédez à **Paramètres** &gt;**Afficher tous les paramètres**. 
 2.  Vérifiez les informations dans **Profil de partenaire**, **Profil de facturation du partenaire** et **Profil d’organisation**.
 
  

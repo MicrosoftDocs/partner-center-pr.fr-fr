@@ -1,13 +1,13 @@
 ---
-title: "Analyser l’efficacité de votre profil commercial | Espace partenaires"
-description: "Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires."
+title: Analyser l’efficacité de votre profil commercial | Espace partenaires
+description: Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires.
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 508d1ec16a1b58a9bf98dd5bfba013d2d3e04c57
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 15050124e65f7740a4f76eb075ad7701ed918154
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analyser l’efficacité de votre profil commercial
 <!-- 
@@ -24,7 +24,7 @@ Une fois que vous publiez le [profil commercial](create-a-marketing-profile.md) 
 
 Lorsque vous commencez à [répondre à ces références](responding-to-referrals.md), vous obtenez des données sur le nombre de ces demandes d'informations qui se transforment en affaires fructueuses.
 
-Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. À partir du tableau de bord de l’Espace partenaires, accédez à **Références > Pages marketing**.
+Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. À partir du Tableau de bord du partenaire, accédez à **Références > Pages marketing**.
 
 Ces rapports présentent les performances des profils commerciaux pour toutes les régions. Les rapports affichent les données des 90derniers jours, regroupés par semaine.
 

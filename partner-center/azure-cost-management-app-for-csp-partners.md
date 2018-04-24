@@ -1,14 +1,14 @@
 ---
 title: Azure Cost Management par Cloudyn pour les partenaires fournisseurs de solutions Cloud | Espacepartenaires
-description: "Azure Cost Management par Cloudyn requiert un accès fourni à l'API de l'Espace partenaires."
+description: Azure Cost Management par Cloudyn requiert un accès fourni à l'API de l'Espace partenaires.
 author: Janet
 Keywords: Azure cost management app, manage costs, web apps
-robots: 
-ms.openlocfilehash: 3d122e0f88867d16df3713f79e735126b7f40dd4
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+robots: ''
+ms.openlocfilehash: 01553b850d5839d721de5406c3f1c63094f76bd6
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Application Azure Cost Management pour les partenaires fournisseurs de solutions Cloud  
 
@@ -21,15 +21,15 @@ ms.lasthandoff: 12/21/2017
 ## <a name="before-you-begin"></a>Avant de commencer
 Avant de pouvoir utiliser Azure Cost Management, veillez à ce que les conditions suivantes soient réunies:
 - Vous êtes un partenaire du programme Fournisseur de solutions Cloud.
-- Vous avez la possibilité de créer une application Web de l'API de l'Espace partenaires.
+- Vous avez la possibilité de créer une application Web de l'API du Tableau de bord du partenaire.
 
 ## <a name="overview"></a>Vue d'ensemble
 
-Azure Cost Management by Cloudyn est une application Web qui vous permet de suivre et de gérer le degré d'utilisation d'Azure par vos clients et les coûts de cette utilisation. Vous l'utilisez via l'API de l'Espace partenaires.
+Azure Cost Management by Cloudyn est une application Web qui vous permet de suivre et de gérer le degré d'utilisation d'Azure par vos clients et les coûts de cette utilisation. Vous l'utilisez via l'API du Tableau de bord du partenaire.
 
-## <a name="register-your-web-app-in-partner-center"></a>Enregistrez votre application Web dans l'Espace partenaires
-Lorsque vous enregistrez une application Web Azure ActiveDirectory dans l'Espace partenaires, vous permettez l'accès à l'API de l'Espace partenaires. 
-1.  Connectez-vous à l'[Espace partenaires](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) à l'aide d'un [compte d'administrateur global ou d'agent administratif](create-user-accounts-and-set-permissions.md).
+## <a name="register-your-web-app-in-the-partner-dashboard"></a>Enregistrez votre application Web dans le Tableau de bord du partenaire
+Lorsque vous enregistrez une application Web Azure ActiveDirectory dans le Tableau de bord du partenaire, vous permettez l'accès à l'API du Tableau de bord du partenaire. 
+1.  Connectez-vous au [Tableau de bord du partenaire](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) à l'aide d'un [compte d'administrateur global ou d'agent administratif](create-user-accounts-and-set-permissions.md).
 2.  Dans le **Tableau de bord**, sélectionnez **Paramètres du compte** &gt; **[Gestion des utilisateurs](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.
 3.  Dans la section **Web App**, cliquez sur **Ajouter une application Web**.
 <br> **Remarque**: si vous avez déjà créé une application Web, vous pouvez ignorer l'étape3.
@@ -44,7 +44,7 @@ Lorsque vous enregistrez une application Web Azure ActiveDirectory dans l'Espace
 ## <a name="next-steps"></a>Étapes suivantes
 Démarrez une [version d'évaluation gratuite de 30jours](https://go.microsoft.com/fwlink/?linkid=857895).
 Les informations suivantes sont nécessaires pour démarrer la version d'évaluation:
-- Identifiants de connexion à l'Espace partenaires
+- Identifiants de connexion au Tableau de bord du partenaire
 - GUID ID de commerce
 - GUID ID d'application
 - Valeur de la clé secrète de l'application

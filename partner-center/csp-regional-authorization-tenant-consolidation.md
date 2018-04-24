@@ -1,14 +1,14 @@
 ---
-title: "Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud | Espace partenaires"
-description: "Utilisez ces instructions pour consolider des locataires de différents pays/régions."
+title: Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud | Espace partenaires
+description: Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
-ms.openlocfilehash: e895fd049211a3dfcb4db930b75d94906563b700
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
 
@@ -29,14 +29,14 @@ Utilisez ces instructions pour consolider des locataires de différents pays/ré
 ## <a name="prepare-for-migration"></a>Préparer la migration
 
 
--   Ouvrez une session sur <https://partnercenter.microsoft.com> avec le compte (existant) de transition et prenez note de tous les clients et de tous les services approvisionnés pour ces clients.
+-   Connectez-vous à votre **Tableau de bord** à l'aide du compte (existant) de **transition** (celui que vous allez transférer) et prenez note de tous les clients et de tous les services approvisionnés pour ces clients.
 
 ![liste de clients régionaux](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migrer des comptes client
 
 
-1.  Ouvrez une session sur <https://partnercenter.microsoft.com> avec le (nouveau) compte de transition et accédez à la liste de clients à partir du tableau de bord de l’Espace partenaires.
+1.  Connectez-vous à votre **Tableau de bord** à l'aide du (nouveau) compte de **transition** (celui vers lequel vous effectuez la transition) et accédez à la liste des clients à partir de **Clients**.
 
 2.  Sélectionnez les clients.
 
@@ -53,7 +53,7 @@ Les clients s’affichent dans la liste des clients du partenaire, lorsqu’ils 
 
 1.  Lorsque votre client a signé le contrat, vous pouvez recréer ses abonnements sous votre locataire partenaire centralisé.
 
-2.  Dans le tableau de bord de l’Espace partenaires, cliquez sur **Clients** dans le panneau de navigation de gauche.
+2.  Dans le **Tableau de bord**, sélectionnez **Clients**.
 
 3.  Ouvrez le nom de la société du client que vous souhaitez migrer.
 
@@ -80,7 +80,7 @@ Avant de passer à la section suivante, vérifiez que tous les abonnements clien
 
 La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comptes de partenaire **Transition à partir de** interrompt toute facturation future. Il est inutile de désactiver manuellement les abonnements Azure, car le processus de migration les désactive automatiquement.
 
-1.  Connectez-vous à <https://partnercenter.microsoft.com> avec le compte de Fournisseur de solutions Cloud **Transition à partir de** et accédez à la liste de clients.
+1.  Connectez-vous au **Tableau de bord** à l'aide du compte de Fournisseur de solutions Cloud **Transition à partir de** et accédez à la liste des clients.
 
 2.  Ouvrez le client avec les abonnements à désactiver, et sélectionnez la première offre à désactiver.
 3.  Réglez l’abonnement sur **suspendu**, puis cliquez sur **Envoyer**.
@@ -140,21 +140,6 @@ Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vou
 
 Pour plus d’informations sur l’inscription d’API, [consultez cette page](https://go.microsoft.com/fwlink/?linkid=847990).
 
-## <a name="partner-center-activity-log"></a>Journal d’activité de l’Espace partenaires
-
-
-Avec le journal d’activité, les partenaires peuvent afficher un enregistrement de toutes les modifications apportées à leur locataire et qui affectent le client. Cela permet aux partenaires de suivre les modifications concernant un locataire du client.
-
-**Afficher le journal d’activité**
-
-1.  Dans le tableau de bord de l’Espace partenaires, cliquez sur le lien **Journal d’activité**.
-2.  Dans la page **Journal d’activité**, affichez les modifications apportées aux comptes client. Pour filtrer le journal d’activité par date, renseignez les champs **de** et **à** afin de limiter le nombre d’enregistrements sélectionnés dans le journal. Pour effectuer un filtrage par client dans le **Journal d’activité**, utilisez la zone de recherche.
-
-**Exporter le journal d’activité**
-
--   Cliquez sur **Exporter le journal** pour exporter les données de votre journal d’activité dans un fichier&nbsp;CSV.
-
-    Vous pouvez également exporter la liste des clients et la liste des abonnements d’un client (à partir de la page des abonnements du client).
 
  
 

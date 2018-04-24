@@ -1,13 +1,13 @@
 ---
-title: "Augmenter l’adoption et la satisfaction client | Espace partenaires"
-description: "Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées."
+title: Augmenter l’adoption et la satisfaction client | Espace partenaires
+description: Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
@@ -26,11 +26,11 @@ Vous pouvez afficher les données de l’ensemble de vos clients via le programm
 
 **Pour un seul client**
 
--   Sélectionnez **Clients** dans le menu Espace partenaires, choisissez un client, puis sélectionnez **Informations sur le client**.
+-   Sélectionnez **Clients** dans le menu **Tableau de bord**, choisissez un client, puis sélectionnez **Informations sur le client**.
 
 **Dans votre portefeuille**
 
-1.  Dans le **Tableau de bord** de l’Espace partenaires, faites défiler la page vers le bas jusqu’à la section **Analyse des licences Office**.
+1.  Sur le **Tableau de bord**, sélectionnez **Analyser**.
 2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
 
 Terminologie&nbsp;:

@@ -2,11 +2,11 @@
 title: Acheter ou renouveler un abonnement Action Pack | Espace partenaires
 description: Découvrez comment acheter ou renouveler un abonnement à Microsoft Action Pack
 author: MaggiePucciEvans
-ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: 07a5591b154d77542a97a93ea2e99741542f2ec6
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Acheter ou renouveler un abonnement à Microsoft Action Pack
 
@@ -25,54 +25,56 @@ Action Pack est un abonnement annuel abordable à des services, des logiciels et
 
 - Recevoir des crédits d'utilisation de MicrosoftAzure chaque mois
 
-Pour plus d’informations sur les avantages inclus avec MicrosoftAction Pack, voir [Avantages de l’abonnement MicrosoftAction Pack](mpn-action-pack-subscription-benefits.md). 
+Pour plus d’informations sur Action Pack, consultez ces pages sur le site MicrosoftPartner Network: 
+
+-   [Qu'est-ce que le MicrosoftAction Pack?](https://partner.microsoft.com/membership/action-pack)
+
+-   [Avantages inclus dans Action Pack](https://partner.microsoft.com/membership/core-benefits)
+
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Acheter un abonnement à Microsoft Action Pack
 
-1. Dans le menu **Tableau de bord**, sélectionnez **Partenariat > Offres**. MicrosoftAction Pack est répertorié sous **Offres disponibles**. Sélectionnez **S'abonner maintenant**. 
+1. Dans le menu **Tableau de bord**, sélectionnez **Offres d'abonnement**. MicrosoftAction Pack est répertorié sous **Offres disponibles**. 
 
-2. Sélectionnez **Suivant** pour accepter les [Conditions générales](https://go.microsoft.com/fwlink/?linkid=842232) des droits d’utilisation interne accordés par le MicrosoftPartner Network.  
+2. Sélectionnez **S'abonner maintenant**, puis sélectionnez votre mode de paiement. Vous pouvez payer à l’aide d’une carte de crédit ou d'un virement bancaire électronique. 
 
-3. Sélectionnez **Suivant** pour ajouter des informations de paiement. 
+    >**Important**<br> Quand vous envoyez votre paiement, vous acceptez également les [conditions générales](https://go.microsoft.com/fwlink/?linkid=842232) pour les droits d’utilisation interne accordés par Microsoft. 
 
-4. Sélectionnez **Commencer! Ajouter un mode de paiement** si vous avez besoin d’entrer des informations de paiement. 
+3. En cas de paiement par carte de crédit, suivez les instructions pour ajouter les informations de votre carte de crédit. 
 
-5. Entrez vos informations de paiement, puis sélectionnez **Suivant**.
+    En cas de paiement par virement bancaire électronique, indiquez un nom de contact, un numéro de téléphone, une adresse de messagerie, puis sélectionnez **Envoyer**.  
+4. Passez en revue les détails de votre commande, puis sélectionnez **Acheter** lorsque vous êtes prêt à acheter l'Action Pack. Votre carte de crédit sera débitée immédiatement.
 
-6. Passez en revue les détails de votre commande, puis sélectionnez **Acheter** lorsque vous êtes prêt à acheter l'Action Pack. Votre carte de crédit sera débitée immédiatement.
-
-7. Votre commande est confirmée. Sélectionnez **Fermer**.
+5. Votre commande est confirmée. Sélectionnez **Fermer**.
 
 Votre abonnement Action Pack sera renouvelé automatiquement chaque année à cette date. Vous pouvez désactiver le renouvellement automatique à tout moment à partir de votre liste d'offres achetées; toutefois, vous ne pourrez pas réactiver le renouvellement d’abonnement automatique avant d'avoir renouvelé votre abonnement. 
 
 
 ## <a name="renew-your-action-pack-subscription"></a>Renouveler votre abonnement Action Pack
 
-1. Dans le menu **Tableau de bord**, sélectionnez **Partenariat > Offres**.  
+1. Dans le menu **Tableau de bord**, sélectionnez **Offres d'abonnement**.  
 
-2. Sélectionnez **Acheté** et recherchez la vignette Action Pack. Sélectionnez **Renouveler des abonnements** sous **Actions**.  
+2. Sélectionnez **Acheté** et recherchez la vignette Action Pack.  
 
-3. Vérifiez les détails de votre commande, puis sélectionnez **Suivant**.
+3. Sélectionnez **Renouveler l’abonnement**, puis sélectionnez votre mode de paiement. Vous pouvez payer à l’aide d’une carte de crédit ou d'un virement bancaire électronique. 
 
-4. Sélectionnez **Suivant** pour accepter les Conditions générales des droits d’utilisation interne accordés par le MicrosoftPartner Network.  
+    >**Important**<br> Quand vous envoyez votre paiement, vous acceptez également les [conditions générales](https://go.microsoft.com/fwlink/?linkid=842232) pour les droits d’utilisation interne accordés par Microsoft. 
 
-5. Sélectionnez **Suivant** pour ajouter des informations de paiement. 
+3. En cas de paiement par carte de crédit, suivez les instructions pour ajouter les informations de votre carte de crédit. 
 
-6. Sélectionnez **Commencer! Ajouter un mode de paiement** si vous avez besoin d’entrer des informations de paiement. 
+    En cas de paiement par virement bancaire électronique, indiquez un nom de contact, un numéro de téléphone, une adresse de messagerie, puis sélectionnez **Envoyer**. 
 
-7. Entrez vos informations de paiement, puis sélectionnez **Suivant**.
+ 4. Passez en revue les détails de votre commande, puis sélectionnez **Acheter** lorsque vous êtes prêt à acheter l'Action Pack. Votre carte de crédit sera débitée immédiatement.
 
-8. Passez en revue les détails de votre commande, puis sélectionnez **Acheter** lorsque vous êtes prêt à acheter l'Action Pack. Votre carte de crédit sera débitée immédiatement.
-
-9. Votre commande est confirmée. Sélectionnez **Fermer**.
+5. Votre commande est confirmée. Sélectionnez **Fermer**.
 
 Votre abonnement Action Pack sera renouvelé automatiquement chaque année à cette date. Vous pouvez désactiver le renouvellement automatique à tout moment à partir de votre liste d'offres achetées; toutefois, vous ne pourrez pas réactiver le renouvellement d’abonnement automatique avant d'avoir renouvelé votre abonnement. 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Désactiver le renouvellement automatique de l’abonnement Action Pack
 
-1. Dans le menu **Tableau de bord**, sélectionnez **Partenariat > Offres**. 
+1. Dans le menu **Tableau de bord**, sélectionnez **Offres d'abonnement**. 
 
 2. Sélectionnez **Acheté**, puis **Abonnement au MicrosoftAction Pack** pour afficher les détails de l’abonnement. 
 
@@ -84,26 +86,31 @@ Votre abonnement Action Pack sera renouvelé automatiquement chaque année à ce
 
 ## <a name="cancel-your-action-pack-subscription"></a>Annuler votre abonnement Action Pack
 
-Pour annuler votre abonnement au MicrosoftAction Pack, vous devez contacter le support de l'Espace partenaires.
+Pour annuler votre abonnement au MicrosoftAction Pack, vous devrez peut-être contacter le support des partenaires.
 
-1. Rendez-vous sur https://partnercenter.microsoft.com/partner/support.
+1. Dans le menu **Tableau de bord**, sélectionnez **Offres d'abonnement**. 
 
-2. Sélectionnez **Signaler des problèmes avec L'Espace partenaires**, puis sélectionnez **Nouvelle demande** sur la page suivante.
+2. Sélectionnez **Acheté** et recherchez la vignette Action Pack.
 
-3. Développez la liste **Type de problème** et sélectionnez **Aide concernant une facture, un paiement ou un fichier de rapprochement de partenaire**. 
+3. Sélectionnez **Annuler l'abonnement**. Suivez les instructions pour la création d’une demande de support. 
 
-4. Finissez d'indiquer les informations requises, puis sélectionnez **Envoyer**. L’équipe de support de l'Espace partenaires vous contactera pour vous aider à annuler votre abonnement.
+4. Sur le formulaire de demande de support, sélectionnez les valeurs suivantes pour acheminer correctement votre demande:
 
-Pour vérifier l’état de votre demande de service, sélectionnez **Demandes de Service > Demandes à l'Espace partenaires**, puis sélectionnez **Ouvrir**. Choisissez la demande de service appropriée sur la liste.  
+    -  Sélectionnez **Signaler des problèmes avec le Tableau de bord du partenaire**, puis sélectionnez **Nouvelle demande** sur la page suivante.
 
-## <a name="how-to-get-your-maps-invoice"></a>Comment obtenir votre facture MAPS
+    -  Développez la liste **Type de problème** et sélectionnez **Aide concernant une facture, un paiement ou un fichier de rapprochement de partenaire**. 
 
-Pour télécharger une copie de votre facture d’abonnement à MicrosoftAction Pack, procédez comme suit.
+5. Finissez d'indiquer les informations requises, puis sélectionnez **Envoyer**. L’équipe de support du Tableau de bord partenaire vous contactera pour vous aider à annuler votre abonnement.
 
-1. Connectez-vous à [partnercenter.microsoft.com](https://partnercenter.microsoft.com) 
-2. Cliquez sur Partenariat. 
-3. Sélectionnez Offres, puis cliquez sur Achats. 
-4. Cliquez sur Télécharger la facture
+Pour vérifier l’état de votre demande de service, sélectionnez **Partner Center requests** à partir de votre menu **Paramètres de compte**, puis sélectionnez **Ouvrir**. Choisissez la demande de service appropriée sur la liste.  
+
+## <a name="download-your-action-pack-invoice"></a>Télécharger votre facture Action Pack
+
+1. Dans le menu **Tableau de bord**, sélectionnez **Offres d'abonnement**.  
+
+2. Sélectionnez **Acheté** et recherchez la vignette Action Pack. 
+
+3. Sélectionnez **Télécharger la facture**.
  
 ## <a name="next-steps"></a>Étapes suivantes
 

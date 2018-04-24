@@ -1,14 +1,14 @@
 ---
-title: "Créer un profil commercial | Espace partenaires"
-description: "Créez un profil d’entreprise dans l’Espace partenaires pour obtenir des prospects de Microsoft."
+title: Créer un profil commercial | Espace partenaires
+description: Créez un profil d’entreprise dans l’Espace partenaires pour obtenir des prospects de Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-keywords: "pinpoint, références, prospects, C2PC, profil de l’entreprise, promouvoir votre société, rechercher un partenaire, trouver un fournisseur de solutions, profil d’entreprise, profil commercial"
-ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+keywords: pinpoint, références, prospects, C2PC, profil de l’entreprise, promouvoir votre société, rechercher un partenaire, trouver un fournisseur de solutions, profil d’entreprise, profil commercial
+ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -38,21 +38,19 @@ La première étape pour obtenir ces prospects consiste à créer un profil comm
 *  **Références des employés des ventes et du service de Microsoft**. Les clients potentiels souhaitant déployer des solutions technologiques sur le cloud contactent Microsoft afin de trouver des professionnels qui puissent répondre aux besoins de leur entreprise. Ces professionnels Microsoft peuvent ensuite référer des clients potentiels à votre entreprise.
 
 >**Important**<br>
-Afin d'aider nos partenaires à simplifier les opérations commerciales, nous regroupons les fonctionnalités auparavant réparties sur plusieurs outils et sites Web dans le présent site, l'Espace partenaires. À cette fin, nous avons transféré toutes les fonctionnalités relatives aux références vers l'Espace partenaires et mis les sites Pinpoint et C2PC hors service. Si vous aviez l'habitude d'utiliser Pinpoint ou C2PC pour obtenir et gérer des références de Microsoft, vous devez créer un profil d’entreprise dans l’Espace partenaires afin de continuer à recevoir des références. Nous ne prenons plus en charge l’importation de profils à partir de ces sites. 
+Afin d'aider nos partenaires à simplifier les opérations commerciales, nous regroupons les fonctionnalités auparavant réparties sur plusieurs outils et sites Web dans le présent site, le Tableau de bord du partenaire. À cette fin, nous avons transféré toutes les fonctionnalités relatives aux références vers le Tableau de bord du partenaire et mis les sites Pinpoint et C2PC hors service. Si vous aviez l'habitude d'utiliser Pinpoint ou C2PC pour obtenir et gérer des références de Microsoft, vous devez créer un profil d’entreprise dans le Tableau de bord du partenaire afin de continuer à recevoir des références. Nous ne prenons plus en charge l’importation de profils à partir de ces sites. 
 
 ## <a name="create-a-profile"></a>Créer un profil
 
->**Remarque** Pour pouvoir créer un profil d’entreprise, vous devez disposer d’un compte Espace partenaires. Si vous n’avez pas encore de compte Espace partenaires, consultez [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md) pour en créer un. 
+>**Remarque** Pour pouvoir créer un profil d’entreprise, vous devez disposer d’un compte Tableau de bord du partenaire. Si vous n’avez pas encore de compte Tableau de bord du partenaire, consultez [Créer un compte Tableau de bord du partenaire](mpn-create-a-partner-center-account.md) pour en créer un. 
 
 Créez des profils pour chaque région dans laquelle vous êtes autorisé à exercer des activités commerciales. 
 
-1.  Connectez-vous à l’[Espace partenaires](http://go.microsoft.com/fwlink/p/?LinkId=808956) à l’aide d’un [compte d’administrateur global ou d’agent administratif](create-user-accounts-and-set-permissions.md).
+1.  À partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **Profils d'entreprise** &gt; sélectionnez un pays/une région > **[Créer un profil d'entreprise](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.  À partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **View business profiles** &gt; sélectionnez un pays/une région > **[Create a business profile](https://partnercenter.microsoft.com/pcv/publishing)**.
-
-3.  Dans la page **Créer un profil d'entreprise**, sélectionnez une région, puis renseignez votre profil.
+2.  Dans la page **Créer un profil d'entreprise**, sélectionnez une région, puis renseignez votre profil.
     
-    >**Remarque** Bien que l'Espace partenaires prennent en charge plusieurs langues, certains éléments, comme la description et les identifications de forme libre, peuvent nécessiter d'inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
+    >**Remarque** Bien que le Tableau de bord du partenaire prenne en charge plusieurs langues, certains éléments, comme la description et les identifications de forme libre, peuvent nécessiter d'inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
 
 ### <a href="" id="partner_info"></a>Informations sur le partenaire
 
@@ -98,7 +96,7 @@ Autres balises utilisées dans la recherche:
 
 Nous vous recommandons de laisser ce paramètre coché. 
 
-À mesure que vous ferez preuve de réussite auprès des clients via l'Espace partenaires ou en participant à d’autres programmes ou certifications de Microsoft, nous ajouterons automatiquement des approbations de vos produits, services et secteurs spécifiques qui ont contribué à ce succès. Les approbations sont un facteur important dans les résultats de recherche.
+À mesure que vous ferez preuve de réussite auprès des clients via le Tableau de bord du partenaire ou en participant à d’autres programmes ou certifications de Microsoft, nous ajouterons automatiquement des approbations de vos produits, services et secteurs spécifiques qui ont contribué à ce succès. Les approbations sont un facteur important dans les résultats de recherche.
 
 Toutefois, s’il existe des produits pour lesquels vous fournissez des services que vous ne préférez pas afficher sur votre profil, vous pouvez désactiver cette case et gérer votre profil manuellement. Ces approbations seront masquées dans l'affichage pour vos clients, mais vous pouvez les remettre sur votre profil à tout moment.
 

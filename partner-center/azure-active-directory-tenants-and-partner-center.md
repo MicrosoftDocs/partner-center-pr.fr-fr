@@ -1,16 +1,16 @@
 ---
 title: Comptes professionnels et Espace partenaires | Espace partenaires
-description: "Pour créer un compte de l'Espace partenaires, votre entreprise doit disposer d'un compte professionnel."
+description: Pour créer un compte de l'Espace partenaires, votre entreprise doit disposer d'un compte professionnel.
 author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
-robots: 
-ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+robots: ''
+ms.openlocfilehash: 347a884c1ea752b892c64d2c1bf9bb40629f8f6e
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Compte professionnel de votre entreprise et l’Espace partenaires  
+# <a name="your-company-work-account-and-the-partner-dashboard"></a>Compte professionnel de votre entreprise et Tableau de bord du partenaire  
 
 **S’applique à**
 
@@ -18,18 +18,18 @@ ms.lasthandoff: 12/21/2017
 
 ## <a name="why-you-need-a-work-account"></a>Pourquoi un compte professionnel est-il nécessaire?
 
-Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte Espace partenaires, afin que les utilisateurs de ce compte puissent se connecter à l’Espace partenaires à l’aide de leur nom d’utilisateur et mot de passe.
+Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte Tableau de bord du partenaire, afin que les utilisateurs de ce compte puissent se connecter au Tableau de bord du partenaire à l’aide de leur nom d’utilisateur et mot de passe.
 
-Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Espace partenaires. 
+Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Tableau de bord du partenaire. 
 
->**Remarque** Avant de décider d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans l’Espace partenaires. Si certains utilisateurs du compte n’ont pas besoin de travailler dans l’Espace partenaires, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans l’Espace partenaires.
+>**Remarque** Avant de décider d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans le Tableau de bord du partenaire. Si certains utilisateurs du compte n’ont pas besoin de travailler dans le Tableau de bord du partenaire, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans le Tableau de bord du partenaire.
 
 Si votre entreprise ne possède pas de compte professionnel, vous pouvez en créer un au cours du processus d’inscription. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Vous ne savez pas si votre entreprise a déjà un compte professionnel?
 
 Si vous ignorez si votre entreprise dispose d’un compte professionnel, procédez comme suit pour le vérifier. Notez que si vous avez un abonnement actif à MicrosoftAzure ou Office365, vous disposez déjà d’un compte professionnel.
-1.  Ouvrez une session depuis le portail d’administration Azure à l’adresse https://ms.portal.azure.com
+1.  Connectez-vous au portail Azure à l’adresse https://ms.portal.azure.com
 2.  Dans le menu, sélectionnez Azure ActiveDirectory, puis Noms de domaine.
 3.  Si vous disposez déjà d’un compte professionnel, votre nom de domaine est répertorié dans la liste.
 

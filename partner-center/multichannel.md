@@ -1,13 +1,13 @@
 ---
 title: Multicanal | Espace partenaires
-description: "Dans certains cas, des clients peuvent faire appel à vous pour configurer et prendre en charge un abonnement qu’ils ont acheté ailleurs."
+description: Dans certains cas, des clients peuvent faire appel à vous pour configurer et prendre en charge un abonnement qu’ils ont acheté ailleurs.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 2f0354c8e8e0f80bd42af363dc86b829b96b9bbf
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="multi-channel-support"></a>Prise en charge de plusieurs canaux
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 06/09/2017
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de Microsoft Cloud Germany
 
-La fonctionnalité de support de plusieurs canaux de l'Espace partenaires prend en charge les cas où un client souhaite engager un partenaire pour gérer et assurer le support d’un abonnement acheté ailleurs. Le support multicanal s’applique lorsque le client:
+La fonctionnalité de support de plusieurs canaux du Tableau de bord du partenaire prend en charge les cas où un client souhaite engager un partenaire pour gérer et assurer le support d’un abonnement acheté ailleurs. Le support multicanal s’applique lorsque le client:
 
 -   a déjà acheté des abonnements auprès de Microsoft directement ou par l’intermédiaire des programmes Advisor, Open ou EA;
 
@@ -45,7 +45,7 @@ La fonctionnalité de support de plusieurs canaux de l'Espace partenaires prend 
 </table>
 
 >**Important**<br>
-Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris l'Espace partenaires. 
+Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris le Tableau de bord du partenaire. 
 
 ## <a name="see-also"></a>Articles associés
 

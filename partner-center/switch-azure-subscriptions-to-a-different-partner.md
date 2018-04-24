@@ -4,11 +4,11 @@ description: Un client peut changer de partenaire dans le programme Fournisseur 
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
-ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
+ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 03/30/2018
 ---
 # <a name="transfer-azure-subscriptions"></a>Transférer des abonnements Azure 
 
@@ -32,7 +32,7 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
 
     Créez un ticket de service Azure dans l'Espace partenaires pour demander un transfert d'abonnement&nbsp;:
 
-    -   Dans le menu Tableau de bord de l'Espace partenaires, sélectionnez **Clients**, choisissez votre client dans la liste, puis cliquez sur **Gestion des services**. Dans la section **Tickets de support**, cliquez sur le menu déroulant **Nouveau ticket** et choisissez **Microsoft Azure**.
+    -   Dans le menu Tableau de bord, sélectionnez **Clients**, choisissez votre client dans la liste, puis cliquez sur **Gestion des services**. Dans la section **Tickets de support**, cliquez sur le menu déroulant **Nouveau ticket** et choisissez **Microsoft Azure**.
 
     -   Dans le portail Azure, sélectionnez **Nouvelle demande de support**.
 
@@ -57,7 +57,7 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
 
     Vérifient le formulaire, renseignent les informations sur le nouveau partenaire, puis le signent. Vérifiez que le nouveau client dispose d'un accord de contrat. Renvoyez le formulaire au partenaire de référence actuel.
 
-    *Important*&nbsp;: si le nouveau partenaire Fournisseur de solutions&nbsp;Cloud n'a pas de relation de revendeur avec le client, il doit en établir une avant le transfert de l'abonnement. [Pour plus d'informations sur la marche à suivre, cliquez ici](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
+    *Important*&nbsp;: si le nouveau partenaire Fournisseur de solutions&nbsp;Cloud n'a pas de relation de revendeur avec le client, il doit en établir une avant le transfert de l'abonnement. [Pour plus d'informations sur la marche à suivre, cliquez ici](request-a-relationship-with-a-customer.md).
 
 5.  Partenaire actuel:
 

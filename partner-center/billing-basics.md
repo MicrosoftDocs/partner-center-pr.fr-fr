@@ -3,11 +3,11 @@ title: Notions de base de facturation | Espace partenaires
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
-ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="billing-basics"></a>Notions de base de facturation
 
@@ -53,7 +53,7 @@ Vous disposez désormais d’une option de facturation annuelle en plus de l’o
 <tr class="even">
 <td>Disponibilité des factures</td>
 <td><ul>
-<li>Vous pouvez afficher et télécharger vos factures et vos fichiers de rapprochement à partir de la page Facturation de l’Espace partenaires. Notez que les factures mensuelles sont disponibles sur l’Espace partenaires dans les quatre (4) jours suivant la date de facturation sélectionnée.</li>
+<li>Vous pouvez afficher et télécharger vos factures et vos fichiers de rapprochement à partir de la page Facturation du Tableau de bord du partenaire. Notez que les factures mensuelles sont disponibles sur le Tableau de bord du partenaire dans les quatre (4) jours suivant la date de facturation sélectionnée.</li>
 </ul></td>
 </tr>
 <tr class="odd">

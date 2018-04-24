@@ -1,14 +1,14 @@
 ---
-title: "Afficher les journaux d’activité des clients | Espace partenaires"
-description: "Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients."
+title: Afficher les journaux d’activité des clients | Espace partenaires
+description: Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: b877143abdc07dc0f6e23ef33ee64cd72afda11e
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
@@ -32,7 +32,7 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
     Cliquez sur la flèche vers le bas d’un journal d’activité pour afficher des détails sur une action journalisée. Un journal d’activité peut afficher une quantité importante de données, comme le classement de plusieurs produits.
 
-3.  Sélectionnez **Exporter le journal**. L’Espace partenaires convertit les données de l’abonnement du client en un fichier&nbsp;CSV et le télécharge dans le dossier de téléchargement par défaut de votre ordinateur. Les colonnes contiennent les données suivantes&nbsp;:
+3.  Sélectionnez **Exporter le journal** pour copier les données de l’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur. Les colonnes contiennent les données suivantes:
     -   **Client affecté**&nbsp;: nom de la société du client
     -   **Action**&nbsp;: nom du produit correspondant à l’abonnement
     -   **Utilisateur partenaire**&nbsp;: partenaire associé à l’activité

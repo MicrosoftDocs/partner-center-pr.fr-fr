@@ -1,14 +1,14 @@
 ---
 title: Assigner des contacts de support | Espacepartenaires
-description: "En tant que partenaire revendeur, vous pouvez désigner un revendeur comme contact de support."
+description: En tant que partenaire revendeur, vous pouvez désigner un revendeur comme contact de support.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
-keywords: "agent d’aide, support, affecter un contact de support, contact chargé du support"
-ms.openlocfilehash: dd69715d77fc94f24e93c3ecfbd26f145e84c332
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+keywords: agent d’aide, support, affecter un contact de support, contact chargé du support
+ms.openlocfilehash: f67d314ca0e6fe70cdaba70395f1e80a7e049b88
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-support-contacts"></a>Assigner des contacts de support
 
@@ -16,9 +16,9 @@ ms.lasthandoff: 12/21/2017
 
 -  Espace partenaires
 
-Lorsque vous configurez des abonnements aux services Microsoft pour vos clients, vous pouvez souhaiter assigner le support technique de ces produits à un revendeur de produits désigné, plutôt que d'assurer vous-même ce service.
+Lorsque vous configurez des abonnements aux services Microsoft pour vos clients, vous pouvez souhaiter assigner le support technique de ces produits à un revendeur désigné, plutôt que d'assurer vous-même ce service.
 
-Une fois ces contacts de support configurés, les clients voient les coordonnées du contact de support assigné sur les pages de support technique. Par exemple, lorsque les clients d'Office ont besoin d'un support, ils peuvent accéder à la page Office.com, se connecter à l'aide de leurs informations d’identification d’administrateur, sélectionner la vignette **Administrateur** et dans la section **Support**, consulter les coordonnées du support assigné.
+Une fois ces contacts de support configurés, les clients voient les coordonnées du contact de support assigné sur les pages de support technique. Par exemple, lorsque les clients d'Office365 ont besoin d'un support, ils peuvent accéder à la page Office.com, se connecter à l'aide de leurs informations d’identification d’administrateur, sélectionner la vignette **Administrateur** et dans la section **Support**, consulter les coordonnées du support assigné.
 
 Cette fonction peut être utilisée pour des scénarios de type [multipartenaire](multipartner.md) et [multicanal](multichannel.md). 
 
@@ -27,7 +27,7 @@ Cette fonction peut être utilisée pour des scénarios de type [multipartenaire
 
 1.  Commencez par une [demande de relation](request-a-relationship-with-a-customer.md) avec votre revendeur produit désigné. Négociez un contrat de support avec lui pour la gestion du support technique.
 
-2.  Dans le tableau de bord du centre de partenaires, sélectionnez **Clients**. Choisissez un client, puis un abonnement, par exemple, Office 365Business Premium.
+2.  Dans le Tableau de bord du partenaire, sélectionnez **Clients**. Choisissez un client, puis un abonnement, par exemple, Office365 Business Premium.
 
 3.  Dans **Contact de support désigné**, sélectionnez le revendeur produit désigné, puis cliquez sur **Soumettre**. 
 

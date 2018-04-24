@@ -1,13 +1,13 @@
 ---
-title: "Développer votre activité avec des références de Microsoft | Espace partenaires"
-description: "Générer des prospects et entrer en contact avec des clients qui ont besoin d’aide pour mettre en œuvre des solutions et des produits Microsoft."
+title: Développer votre activité avec des références de Microsoft | Espace partenaires
+description: Générer des prospects et entrer en contact avec des clients qui ont besoin d’aide pour mettre en œuvre des solutions et des produits Microsoft.
 author: KPacquer
-keywords: "références, profil commercial, rechercher un partenaire"
-ms.openlocfilehash: a654991846cddb86d936b2f79fa1eccb9c6a3d38
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+keywords: références, profil commercial, rechercher un partenaire
+ms.openlocfilehash: b73feb1df95e7ed7cea4c8a39d9be6d986309f84
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -21,7 +21,7 @@ De nombreux clients recherchent des experts qualifiés capables de les aider à 
 
 Nous souhaitons vous mettre en contact avec les clients qui ont besoin de vos solutions et votre expertise. Pour commencer à obtenir des prospects de notre part, l’étape la plus importante consiste pour vous à [créer un profil commercial](create-a-marketing-profile.md) qui présente les offres, les solutions et les compétences de votre entreprise. Votre profil commercial s’affichera dans tous les emplacements où les clients et les agents commerciaux Microsoft en interne recherchent des partenaires qualifiés. 
 
- Une fois votre profil commercial publié, vous commencerez à recevoir des prospects via la fonctionnalité Références de l’Espace partenaires. Il est important de répondre aux références dans les délais fixés pour continuer à recevoir ces prospects et, plus important encore, pour conclure des marchés. Voir [Réponse aux références](responding-to-referrals.md) pour plus d’informations sur la gestion des prospects dans l’Espace partenaires.  
+ Une fois votre profil commercial publié, vous commencerez à recevoir des prospects via la fonctionnalité Références du Tableau de bord du partenaire. Il est important de répondre aux références dans les délais fixés pour continuer à recevoir ces prospects et, plus important encore, pour conclure des marchés. Voir [Réponse aux références](responding-to-referrals.md) pour plus d’informations sur la gestion des prospects dans le Tableau de bord du partenaire.  
 
 Bonne chance!
 

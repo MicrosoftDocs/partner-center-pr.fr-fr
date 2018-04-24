@@ -2,11 +2,11 @@
 title: Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
 description: En tant que fournisseur indirect ou distributeur, vous pouvez travailler en partenariat avec des revendeurs indirects pour accroître votre rayonnement.
 author: MaggiePucciEvans
-ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
-ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
+ms.openlocfilehash: 9b0d644698676a28236c37b3cef5f5fbd905b602
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -16,7 +16,7 @@ Des nouveaux revendeurs entrent sur le marché et cherchent à proposer leurs so
 
 Dans le modèle du fournisseur-revendeur indirect (deux niveaux), vous travaillez en partenariat avec des revendeurs indirects pour proposer des solutions Microsoft Could aux clients. Vous achetez des produits et des abonnements directement auprès de Microsoft, puis proposez ces solutions aux clients par le biais de vos revendeurs. 
 
-En tant que fournisseur indirect, vous utilisez l'Espace partenaires pour:
+En tant que fournisseur indirect, vous utilisez le Tableau de bord du partenaire pour:
 
 -   entrer en contact avec des revendeurs indirects susceptibles de vous aider à accroître votre rayonnement et votre clientèle;
 -   établir des partenariats avec des revendeurs indirects qui vous permettent de servir ensemble des clients communs;
@@ -25,17 +25,17 @@ En tant que fournisseur indirect, vous utilisez l'Espace partenaires pour:
 
 Pour en savoir plus sur le modèle indirect dans le programme Fournisseur de solutions Cloud, voir [Découvrez le modèle indirect](https://partner.microsoft.com/cloud-solution-provider/indirect) sur le [site Web MicrosoftPartner Network]( https://partner.microsoft.com). 
 
-## <a name="indirect-provider-tasks-on-partner-center"></a>Tâches des fournisseurs indirects dans l'Espace partenaires
+## <a name="indirect-provider-tasks-in-the-partner-dashboard"></a>Tâches des fournisseurs indirects dans le Tableau de bord du partenaire
 
-Procédez comme suit pour établir et gérer votre partenariat avec des revendeurs indirects et des clients dans l'Espace partenaires. Les étapes2 et 3 sont décrites plus en détail ci-dessous.
+Procédez comme suit pour établir et gérer votre partenariat avec des revendeurs indirects et des clients. Les étapes2 et 3 sont décrites plus en détail ci-dessous.
 
-1.  Vérifiez le profil de votre société dans la [liste des fournisseurs indirects officiels de Microsoft](https://partnercenter.microsoft.com/en-us/partner/find-a-provider). 
+1.  Vérifiez le profil de votre société dans la [liste des fournisseurs indirects officiels de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
 
-    -   Pour apporter des modifications au profil de fournisseur indirect de votre société, soumettez une demande de support de l'Espace partenaires avec le nom de votre société, son logo et l’URL cible pour chaque emplacement. Nous mettrons à jour votre profil dans les deux à trois semaines.<br>
+    -   Pour apporter des modifications au profil de fournisseur indirect de votre société, soumettez une demande de support du Tableau de bord du partenaire avec le nom de votre société, son logo et l’URL cible pour chaque emplacement. Nous mettrons à jour votre profil dans les deux à trois semaines.<br>
 
 2.  Entrer en contact avec des revendeurs indirects
 
-    - Avant de pouvoir interagir et effectuer des transactions avec des revendeurs, vous devez établir des partenariats avec eux dans l’Espace partenaires. <br>
+    - Avant de pouvoir interagir et effectuer des transactions avec des revendeurs, vous devez établir des partenariats avec eux dans le Tableau de bord du partenaire. <br>
 
 3.  Entrer en contact avec les clients
 
@@ -44,11 +44,11 @@ Procédez comme suit pour établir et gérer votre partenariat avec des revendeu
 
 Après avoir effectué ces étapes, vous pouvez gérer vos partenariats avec les revendeurs dans la page **Revendeurs indirects** à partir de votre menu **Tableau de bord**.
 
->**Important**<br> Pour pouvoir commencer à travailler avec des revendeurs dans l'Espace partenaires, il faut qu'ils soient d'abord inscrits comme revendeurs indirects dans le programme Fournisseur de solutions Cloud et qu'ils disposent de comptes Espace partenaires. Orientez vos revendeurs vers la page [Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud. 
+>**Important**<br> Pour pouvoir commencer à travailler avec des revendeurs, il faut qu'ils soient d'abord inscrits comme revendeurs indirects dans le programme Fournisseur de solutions Cloud et qu'ils disposent de comptes Tableau de bord du partenaire. Orientez vos revendeurs vers la page [Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud. 
 
 ## <a name="connect-with-indirect-resellers"></a>Entrer en contact avec des revendeurs indirects
 
-Pour interagir et effectuer des transactions avec des revendeurs indirects dans l'Espace partenaires, vous devez établir un partenariat avec eux. Un partenariat avec un revendeur indirect vous permet de servir ensemble des clients communs.
+Pour interagir et effectuer des transactions avec des revendeurs indirects dans le Tableau de bord du partenaire, vous devez établir un partenariat avec eux. Un partenariat avec un revendeur indirect vous permet de servir ensemble des clients communs.
 
 Pour établir un partenariat, envoyez une demande de partenariat par courrier électronique au revendeur. Veillez à vous munir de l'adresse de messagerie du revendeur avant de commencer. 
 
@@ -58,7 +58,7 @@ Pour établir un partenariat, envoyez une demande de partenariat par courrier é
 
 3. Sélectionnez **Ouvrir un courrier électronique** pour ouvrir le message dans votre application de messagerie par défaut, ou sélectionnez **Copier dans le Presse-papiers** pour copier et coller le message dans un message électronique. Sélectionnez **OK** lorsque vous avez terminé.
 
-   >**Important** Vous pouvez modifier le texte dans le message électronique, mais veillez à inclure le lien, car il est personnalisé pour votre compte Espace partenaires.
+   >**Important** Vous pouvez modifier le texte dans le message électronique, mais veillez à inclure le lien, car il est personnalisé pour votre compte Tableau de bord du partenaire.
 
 4. Une fois que le revendeur accepte votre demande de partenariat, il apparaît dans votre liste de revendeurs indirects et vous pouvez effectuer les opérations suivantes: 
 
@@ -79,7 +79,7 @@ En fonction du niveau d’accès et de participation que vous souhaitez accorder
 
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
-Lorsque vous obtenez de nouveaux clients, vous devez créer des comptes pour eux dans l’Espace partenaires. Lorsque vous ajoutez un nouveau compte client, vous pouvez désigner un revendeur spécifique pour gérer le compte et administrer les abonnements et les services du client en son nom. 
+Lorsque vous obtenez de nouveaux clients, vous devez créer des comptes pour eux dans votre Tableau de bord du partenaire. Lorsque vous ajoutez un nouveau compte client, vous pouvez désigner un revendeur spécifique pour gérer le compte et administrer les abonnements et les services du client en son nom. 
 
 Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez la gestion du compte et de l'abonnement au revendeur. Cela signifie que le revendeur dispose d’un accès administrateur aux abonnements et aux services du client et peut les gérer pour le compte du client.
 

@@ -1,13 +1,13 @@
 ---
-title: "Taxes et exonérations fiscales | Espace partenaires"
-description: "Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire."
+title: Taxes et exonérations fiscales | Espace partenaires
+description: Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: 91a25481aa3074166a2010ef3e309767183829f0
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: bc1bee6104c5eb7f540e9379305764d9b040fb6b
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
@@ -23,7 +23,7 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 
 1.  Recherchez votre **ID&nbsp;Microsoft** dans le menu Tableau de bord &gt; **Paramètres du compte** &gt; **Profil de la société**.
 2.  Recherchez votre **ID&nbsp;MPN** dans le menu Tableau de bord &gt; **Paramètres du compte** &gt; **Profil de partenaire**.
-3.  Créez un ticket de support. Dans le menu Tableau de bord, sélectionnez **Tickets de support** &gt; **Tickets de l’Espace partenaires** &gt; **Nouveau ticket**.
+3.  Créez un ticket de support. Dans le menu Tableau de bord, sélectionnez **Demandes de service** &gt; **Partner Center requests** &gt; **Nouvelle demande**.
 4.  Remplissez le formulaire. Pour **Type de problème**, choisissez **Impossible de gérer mon profil**. Dans la description, indiquez votre ID&nbsp;MPN et votre ID&nbsp;Microsoft.
 5.  Une fois que vous avez envoyé le ticket, Microsoft vous adresse un e-mail pour obtenir plus d’informations. Lorsque vous répondez, joignez la documentation appropriée correspondant à vos certificats d’exonération fiscale.
 

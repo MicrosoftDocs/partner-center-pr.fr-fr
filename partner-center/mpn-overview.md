@@ -1,13 +1,13 @@
 ---
-title: "Adhésion au MicrosoftPartner Network | Espace partenaires"
-description: "Découvrez les avantages de l'adhésion au MicrosoftPartner Network."
+title: Adhésion au MicrosoftPartner Network | Espace partenaires
+description: Découvrez les avantages de l'adhésion au MicrosoftPartner Network.
 author: MaggiePucciEvans
-keywords: "partenaire, partenariat, MPN, MicrosoftPartnerNetwork, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion"
-ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
+keywords: partenaire, partenariat, MPN, MicrosoftPartnerNetwork, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion
+ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-microsoft"></a>Devenir partenaire deMicrosoft
 
@@ -36,15 +36,15 @@ MicrosoftPartnerNetwork propose trois types d’adhésion. Chaque type offre un 
     [En savoir plus sur l’acquisition de compétences Argent et Or](https://partner.microsoft.com/membership/competencies)
 
    
-## <a name="get-started-with-partner-center"></a>Commencer à utiliser l’Espace partenaires
+## <a name="get-started-with-the-partner-dashboard"></a>Prise en main du Tableau de bord du partenaire
 
-Pour faciliter le partenariat avec Microsoft et vous aider à gagner du temps et de l’argent, nous travaillons en arrière-plan pour rassembler les fonctionnalités et les flux de travail qui sont actuellement disséminés sur plusieurs sites Web et dans divers outils au sein de l’Espace partenaires, c’est-à-dire ce site. 
+Pour faciliter le partenariat avec Microsoft et vous aider à gagner du temps et de l’argent, nous travaillons en arrière-plan pour rassembler les fonctionnalités et les flux de travail qui sont actuellement disséminés sur plusieurs sites Web et dans divers outils au sein du Tableau de bord du partenaire, c’est-à-dire ce site. 
 
-À mesure que nous déplaçons des fonctionnalités spécifiques vers l’Espace partenaires, nous mettons hors service les anciens sites qui les hébergeaient. Pour continuer à exploiter ces fonctionnalités, vous devez créer un compte sur ce site, l’Espace partenaires. 
+À mesure que nous déplaçons des fonctionnalités spécifiques vers le Tableau de bord du partenaire, nous mettons hors service les anciens sites qui les hébergeaient. Pour continuer à exploiter ces fonctionnalités, vous devez créer un compte sur ce site, le Tableau de bord du partenaire. 
 
-Par exemple, si vous obteniez et gériez des références dans Pinpoint, sachez que ce site a été mis hors service et que toutes les fonctionnalités liées aux références se trouvent désormais dans l’Espace partenaires. Suivez les étapes suivantes pour commencer à utiliser l’Espace partenaires:   
+Par exemple, si vous obteniez et gériez des références dans Pinpoint, sachez que ce site a été mis hors service et que toutes les fonctionnalités liées aux références se trouvent désormais dans le Tableau de bord du partenaire. Suivez les étapes suivantes pour commencer à utiliser le Tableau de bord du partenaire:   
 
--   [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
+-   [Créer un compte Tableau de bord du partenaire](mpn-create-a-partner-center-account.md)
 
 -   [Créer un profil commercial pour obtenir des références de client](create-a-marketing-profile.md)
 

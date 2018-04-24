@@ -1,14 +1,14 @@
 ---
-title: Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
-description: "En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. Cela signifie que n'avez pas à démarrer seul, mais qu'à la place vous pouvez travailler avec un fournisseur de technologies expérimenté pour garantir votre succès. Dans le modèle fournisseur-revendeur (deux niveaux), le fournisseur achète auprès de Microsoft des services et des solutions Cloud que vous revendez aux clients."
-ms.prod: 
+title: Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud | Tableau de bord du partenaire
+description: En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. Cela signifie que n'avez pas à démarrer seul, mais qu'à la place vous pouvez travailler avec un fournisseur de technologies expérimenté pour garantir votre succès. Dans le modèle fournisseur-revendeur (deux niveaux), le fournisseur achète auprès de Microsoft des services et des solutions Cloud que vous revendez aux clients.
+ms.prod: ''
 author: MaggiePucciEvans
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau2, de niveau2
-ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+ms.openlocfilehash: ff694f4cdb1b232812618f8b78ffc24238f0947e
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -22,7 +22,7 @@ Les divers fournisseurs indirects proposent différents types de support et de s
 -   Vous aider à commercialiser vos produits et services 
 -   Vous aider à établir les conditions de crédit et de financement
 
-Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) pour en trouver un.
+Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/partner/find-a-provider) pour en trouver un.
 
 
 Pour plus d’informations sur les conditions nécessaires pour vendre dans le cadre du programme Fournisseur de solutions Cloud en tant que revendeur indirect, voir [Commencer comme revendeur indirect](https://partner.microsoft.com/cloud-solution-provider/whats-required) sur le [site Web MicrosoftPartner Network](https://partner.microsoft.com/). 
@@ -30,18 +30,18 @@ Pour plus d’informations sur les conditions nécessaires pour vendre dans le c
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>S’inscrire en tant que revendeur indirect dans le programme Fournisseur de solutions Cloud
 
->**Remarque**  Si vous êtes déjà inscrit au programme Fournisseur de solutions Cloud, il vous suffira peut-être de fournir les coordonnées du support client pour créer un compte revendeur dans l'Espace partenaires. 
+>**Remarque**  Si vous êtes déjà inscrit au programme Fournisseur de solutions Cloud, il vous suffira peut-être de fournir les coordonnées du support client pour créer un compte revendeur dans le Tableau de bord du partenaire. 
 
 ### <a name="before-you-begin"></a>Avant de commencer
 
-Si vous êtes nouveau dans le programme Fournisseur de solutions Cloud, vous devez vous inscrire au programme en tant que revendeur indirect et créer un compte sur l’Espace partenaires. Pour ce faire, vous devez fournir les informations suivantes lors du processus d’inscription. Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer:
+Si vous êtes nouveau dans le programme Fournisseur de solutions Cloud, vous devez vous inscrire au programme en tant que revendeur indirect et créer un compte sur le Tableau de bord du partenaire. Pour ce faire, vous devez fournir les informations suivantes lors du processus d’inscription. Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer:
 
 -   **Informations d’identification d’administrateur général pour votre compte professionnel**<br>
-Vous devrez fournir le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter à Office365, MicrosoftAzure ou MicrosoftDynamics CRM. Si vous ne disposez pas encore d’un compte professionnel, vous pouvez en créer un lors de la procédure d'inscription. Si vous ne savez pas si vous disposez déjà d’un compte professionnel, voir [Comptes professionnels et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).
+Vous devrez fournir le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter à Office365, MicrosoftAzure ou MicrosoftDynamics CRM. Si vous ne disposez pas encore d’un compte professionnel, vous pouvez en créer un lors de la procédure d'inscription. Si vous ne savez pas si vous disposez déjà d’un compte professionnel, voir [Comptes professionnels et Tableau de bord du partenaire](azure-active-directory-tenants-and-partner-center.md).
 
 
 -   **Le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter au site Partner Membership Center**<br>
-Nous utilisons ces informations pour lier l'identifiant MicrosoftPartner Network (ID MPN) de votre entreprise à votre nouveau compte Espace partenaires afin que vous puissiez gérer les avantages et les données de votre abonnement dans l'espace partenaires.
+Nous utilisons ces informations pour lier l'identifiant MicrosoftPartner Network (ID MPN) de votre entreprise à votre nouveau compte Tableau de bord du partenaire afin que vous puissiez gérer les avantages et les données de votre abonnement dans le Tableau de bord du partenaire.
 
 -   **La dénomination légale, l'adresse, le contact principal de votre entreprise et les détails du support**<br>
 Nous avons besoin de ces informations pour vérifier que votre entreprise dispose d’un profil établi avec Microsoft et que vous êtes autorisé à agir en son nom.
@@ -58,13 +58,13 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 
     Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
 
-4.  Lisez les informations indiquant comment associer votre identifiant MicrosoftPartner Network (ID MPN) avec votre nouveau compte Espace partenaires. Nous devez lier l'ID MPN de votre entreprise à votre nouveau compte Espace partenaires pour pouvoir gérer les avantages et les primes sur l'Espace partenaires. Sélectionnez **Se connecter**.
+4.  Lisez les informations indiquant comment associer votre identifiant MicrosoftPartner Network (ID MPN) avec votre nouveau compte Tableau de bord du partenaire. Nous devez lier l'ID MPN de votre entreprise à votre nouveau compte Tableau de bord du partenaire pour pouvoir gérer les avantages et les primes sur le Tableau de bord du partenaire. Sélectionnez **Se connecter**.
 
-5.  Entrez le nom d’utilisateur que vous utilisez pour vous connecter au site Partner Membership Center (PMC). Le site Partner Membership Center est l'endroit où vous gérez actuellement votre compte de partenaire Microsoft. La connexion au Partner Membership Center nous permet de récupérer votre ID MPN et de l’associer à votre nouveau compte Espace partenaires. Sélectionnez **Suivant**. 
+5.  Entrez le nom d’utilisateur que vous utilisez pour vous connecter au site Partner Membership Center (PMC). Le site Partner Membership Center est l'endroit où vous gérez actuellement votre compte de partenaire Microsoft. La connexion au Partner Membership Center nous permet de récupérer votre ID MPN et de l’associer à votre nouveau compte Tableau de bord du partenaire. Sélectionnez **Suivant**. 
 
 6.  Entrez le mot de passe de votre compte Partner Membership Center, puis sélectionnez **Se connecter**.
 
-7.  Sélectionnez le profil de l’entreprise dont l’ID MPN est lié à vos primes, avantages d'adhésion et compétences, afin que nous puissions déplacer ces informations sur votre compte Espace partenaires. Sélectionnez **Continuer**.
+7.  Sélectionnez le profil de l’entreprise dont l’ID MPN est lié à vos primes, avantages d'adhésion et compétences, afin que nous puissions déplacer ces informations sur votre compte Tableau de bord du partenaire. Sélectionnez **Continuer**.
 
     Si l’ID MPN que vous voulez utiliser n’est pas répertorié sur cette page, sélectionnez **Annuler** et reconnectez-vous avec le nom d’utilisateur et le mot de passe du profil d’entreprise que vous souhaitez utiliser. 
 
@@ -74,23 +74,23 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 
     Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise). Veuillez noter que nous n’acceptons pas les adresses e-mail provenant de services de messagerie Web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail. 
 
-    >**Important** Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d'information sur le statut d'inscription.
+    >**Important** Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Tableau de bord du partenaire et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d'information sur le statut d'inscription.
 
-9.  Lorsque votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d'agents administrateurs. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations:
+9.  Lorsque votre compte Tableau de bord du partenaire est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d'agents administrateurs. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations:
 
-    a.  Dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte > Gestion des utilisateurs** et sélectionnez votre nom dans la liste des utilisateurs. 
+    a.  Dans votre **Tableau de bord**, sélectionnez l'icône **Paramètres**, puis sélectionnez **Gestion des utilisateurs**.  
 
-    b.  Sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné, puis sélectionnez **Mettre à jour**.   
+    b.  Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.   
 
 ## <a name="add-a-new-user"></a>Ajouter un utilisateur
 
-1. Dans le menu **Tableau de bord**, sélectionnez **Paramètres du compte > Gestion des utilisateurs**.
+1. Dans votre **Tableau de bord**, sélectionnez l'icône **Paramètres**, puis sélectionnez **Gestion des utilisateurs**.
 
 2. Sélectionnez **Ajouter un utilisateur**.
 
-3. Entrez le nom complet et l’adresse de messagerie unique de l’utilisateur.
+3. Saisissez le nom complet et l’adresse de messagerie unique de l’utilisateur.
 
-4. Sélectionnez le type d’agent et le type d’administrateur. Comme l’accès à l’Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour plus d’informations sur ce que chaque rôle peut faire, voir la section [Affecter des autorisations utilisateur](#assignuserpermissions)
+4. Sélectionnez le type d’agent et le type d’administrateur. Comme l’accès au Tableau de bord du partenaire dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour plus d’informations sur ce que chaque rôle peut faire, voir la section [Affecter des autorisations utilisateur](#assignuserpermissions)
 
 5. Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
 
@@ -98,24 +98,24 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 >**Important**<br>
 Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. <br>
 
->L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l'Espace partenaires pour la première fois, il est invité à modifier son mot de passe.        
+>L’utilisateur devra se connecter au Tableau de bord du partenaire avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte au Tableau de bord du partenaire pour la première fois, il est invité à modifier son mot de passe.        
 
-## <a name="assign-user-permissions"></a>Affecter des autorisations utilisateur
+## <a name="assign-user-permissions"></a>Attribuer des autorisations aux utilisateurs
 
-Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour trouver la meilleure façon d’attribuer des rôles, voir [Créer des comptes d’utilisateur et définir des autorisations](Create-user-accounts-and-set-permissions.md)
+Comme l’accès au Tableau de bord du partenaire dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour trouver la meilleure façon d’attribuer des rôles, voir [Créer des comptes d’utilisateur et définir des autorisations](Create-user-accounts-and-set-permissions.md)
 
 
 ## <a name="connect-with-an-indirect-provider"></a>Se connecter avec un fournisseur indirect
 
 Collaborer avec un fournisseur indirect vous permet de proposer à vos clients un plus large choix de services basés sur le cloud de Microsoft et de solutions. Les fournisseurs indirects ont mis en place les systèmes et l'infrastructure nécessaires pour assurer un niveau solide de facturation et de support client. Vous pouvez ainsi vous concentrer sur vos solutions technologiques et sur vos contacts avec les clients. 
 
-Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) pour en trouver un. Une fois que vous avez trouvé un fournisseur avec lequel vous souhaitez travailler en partenariat, contactez-le directement pour discuter de ses programmes de revendeur, de son niveau de support et des termes du contrat. Si vous et le fournisseur souhaitez travailler ensemble, vous devez associer vos comptes Espace partenaires. 
+Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) pour en trouver un. Une fois que vous avez trouvé un fournisseur avec lequel vous souhaitez travailler en partenariat, contactez-le directement pour discuter de ses programmes de revendeur, de son niveau de support et des termes du contrat. Si vous et le fournisseur souhaitez travailler ensemble, vous devez associer vos comptes sur le Tableau de bord du partenaire. 
 
-Si un fournisseur indirect veut s'associer avec vous sur l'Espace partenaires, il lancera la procédure suivante:
+Si un fournisseur indirect veut s'associer avec vous sur le Tableau de bord du partenaire, il lancera la procédure suivante:
 
-1.  Le fournisseur indirect vous envoie par e-mail une invitation pour l'autoriser à être votre fournisseur indirect. Le message électronique comprend un lien vers l'Espace partenaires et associe votre compte à celui du fournisseur.
+1.  Le fournisseur indirect vous envoie par e-mail une invitation pour l'autoriser à être votre fournisseur indirect. Le message électronique comprend un lien vers le Tableau de bord du partenaire et associe votre compte à celui du fournisseur.
 
-2.  Pour accepter l’invitation, suivez le lien figurant dans le courrier électronique du fournisseur. Vous devrez peut-être vous reconnecter à l'Espace partenaires.
+2.  Pour accepter l’invitation, suivez le lien figurant dans le courrier électronique du fournisseur. Vous devrez peut-être vous reconnecter au Tableau de bord du partenaire.
 
 3.  Pour confirmer le partenariat avec le fournisseur, activez la case à cocher, puis sélectionnez **Autoriser le fournisseur indirect**. Le fournisseur est désormais répertorié dans votre page **Fournisseurs indirects** et votre société figure désormais dans la page **Revendeurs indirects** du fournisseur.
 
@@ -131,13 +131,13 @@ Si un fournisseur indirect veut s'associer avec vous sur l'Espace partenaires, i
  
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
- Pour effectuer des transactions avec les clients sur l'Espace partenaires, vos clients doivent disposer de comptes de l'Espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
+ Pour effectuer des transactions avec les clients sur le Tableau de bord du partenaire, vos clients doivent disposer de comptes Tableau de bord du partenaire et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
 
 ### <a name="connect-with-existing-customers"></a>Entrer en contact avec les clients
 
-Les clients avec lesquels vous effectuez déjà des transactions via d’autres portails (comme le Centre d’administration des partenaires Office365 ou le portail d’administration MicrosoftAzure) s’affichent dans votre liste de clients sur l'Espace partenaires une fois que vous vous êtes correctement inscrit comme revendeur indirect. Sélectionnez **Tableau de bord**, puis **Clients** pour voir votre liste de clients. 
+Les clients avec lesquels vous effectuez déjà des transactions via d’autres portails (comme le Centre d’administration des partenaires Office365 ou le portail d’administration MicrosoftAzure) s’affichent dans votre liste de clients sur le Tableau de bord du partenaire une fois que vous vous êtes correctement inscrit comme revendeur indirect. Sélectionnez **Clients** dans votre menu ** Tableau de bord** pour voir votre liste de clients. 
 
-Lorsque vous vous connectez avec un fournisseur indirect, vous n’obtenez pas automatiquement les clients du fournisseur indirect. De même, les clients avec lesquels vous travaillez en direct ou par le biais de votre fournisseur indirect, mais pas par le biais de l'Espace partenaires, n'apparaissent pas automatiquement dans votre liste de clients lorsque vous vous inscrivez dans l’Espace partenaires. Vous devez établir une relation de revendeur avec les clients pour effectuer des transactions dans l’Espace partenaires.  Pour ce faire, envoyez leur un e-mail les invitant à se connecter avec vous sur l'Espace partenaires, comme indiqué ci-dessous.
+Lorsque vous vous connectez avec un fournisseur indirect, vous n’obtenez pas automatiquement les clients du fournisseur indirect. De même, les clients avec lesquels vous travaillez en direct ou par le biais de votre fournisseur indirect, mais pas par le biais du Tableau de bord du partenaire, n'apparaissent pas automatiquement dans votre liste de clients lorsque vous vous inscrivez dans le Tableau de bord du partenaire. Vous devez établir une relation de revendeur avec les clients pour effectuer des transactions dans le Tableau de bord du partenaire.  Pour ce faire, envoyez leur un e-mail les invitant à se connecter avec vous sur le Tableau de bord du partenaire, comme indiqué ci-dessous.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
 
@@ -156,7 +156,7 @@ Lorsque vous vous connectez avec un fournisseur indirect, vous n’obtenez pas a
 
 ### <a name="connect-with-new-customers"></a>Entrer en contact avec les clients
 
-Lorsque vous attirez de nouveaux clients, vous devez vous connecter avec eux sur l'Espace partenaires. Vous pouvez trouver de nouveaux clients par le biais de plusieurs canaux, notamment les suivants:
+Lorsque vous attirez de nouveaux clients, vous devez vous connecter avec eux sur le Tableau de bord du partenaire. Vous pouvez trouver de nouveaux clients par le biais de plusieurs canaux, notamment les suivants:
 
 -   Vos propres activités marketing
 -   Références de Microsoft
@@ -183,13 +183,13 @@ Pour obtenir des autorisations d’administrateur pour gérer les abonnements et
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Gérer votre compte Espace partenaires](partner-center-account-setup.md)
+[Gérer votre compte dans le Tableau de bord du partenaire](partner-center-account-setup.md)
 
 [Gérer les clients et leurs abonnements](customer-accounts.md)
 
 [Créer un profil commercial](create-a-marketing-profile.md)
 
-[Découvrir les primes incitatives des partenaires sur l’Espace partenaires](manage-your-incentives-in-partner-center.md)
+[Découvrir les primes incitatives des partenaires sur le Tableau de bord du partenaire](manage-your-incentives-in-partner-center.md)
 
 
 

@@ -1,11 +1,13 @@
 ---
-title: "Réinitialiser un mot de passe d’utilisateur | Espace partenaires"
-description: "Si un utilisateur oublie son mot de passe, vous pouvez lui attribuer un nouveau mot de passe temporaire. Il pourra l’utiliser à sa prochaine connexion à l’Espace partenaires."
+title: Réinitialiser un mot de passe d’utilisateur | Espace partenaires
+description: Si un utilisateur oublie son mot de passe, vous pouvez lui attribuer un nouveau mot de passe temporaire. Il pourra l’utiliser à sa prochaine connexion à l’Espace partenaires.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 5f0c1914bf1627f8175f2db9a31469a08159fce7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="reset-a-user-password"></a>Réinitialiser un mot de passe d’utilisateur
 
@@ -19,7 +21,7 @@ Si l’utilisateur oublie son mot de passe, attribuez-lui un mot de passe tempor
 
 **Réinitialiser un mot de passe d’utilisateur en tant qu’administrateur**
 
-1.  Dans l’Espace partenaires, accédez au menu Tableau de bord &gt; **Paramètres du compte** &gt; **Gestion des utilisateurs**.
+1.  Accédez à **Paramètres** &gt; **Gestion des utilisateurs**.
 2.  Sélectionnez l’utilisateur dans la liste.
 
 3.  Choisissez **Réinitialiser le mot de passe** en bas de la page.

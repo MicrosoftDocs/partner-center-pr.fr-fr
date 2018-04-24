@@ -1,14 +1,14 @@
 ---
 title: Offres tierces | Espace partenaires
-description: "À mesure que votre entreprise évolue, vous pouvez développer et enrichir votre portefeuille d’offres en incluant des offres tierces dans vos offres groupées de produits."
+description: À mesure que votre entreprise évolue, vous pouvez développer et enrichir votre portefeuille d’offres en incluant des offres tierces dans vos offres groupées de produits.
 author: labrenne
-ms.openlocfilehash: a61ed059ae31f34284eb18d1c1f8ad1782e5bc87
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+ms.openlocfilehash: 5ca1abee7b32a04ed098132a1505a8a0a6baeda7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/18/2018
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="add-third-party-offers-to-your-business"></a>Ajouter des offres tierces à votre activité
+# <a name="third-party-offers"></a>Offres tierces 
 
 **S’applique à**
 
@@ -18,10 +18,8 @@ ms.lasthandoff: 01/18/2018
 
 Actuellement, l’Espace partenaires propose des offres de logiciels tiers qui s’intègrent à Azure, Office365 ou Dynamics
 
-## <a name="watch-the-video-for-an-overview-to-this-new-program"></a>Regardez la vidéo pour découvrir une vue d’ensemble de ce nouveau programme
 
-
-## <a name="start-adding-third-party-offers-today"></a>Commencez dès aujourd’hui à ajouter des offres tierces
+## <a name="start-adding-third-party-offers-today"></a>Commencez dès aujourd'hui à ajouter des offres tierces
 
 |**Pour**   |**Lisez**   |
 |------------------|:--------------------|

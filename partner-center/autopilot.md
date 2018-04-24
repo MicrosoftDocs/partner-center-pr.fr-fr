@@ -1,13 +1,13 @@
 ---
-title: "Simplifier l’installation des appareils avec WindowsAutoPilot | Espace partenaires"
-description: "Ajouter un profil de déploiement WindowsAutoPilot dans l’Espace partenaires pour simplifier l’installation d’appareils avec WindowsAutoPilot"
+title: Simplifier l’installation des appareils avec WindowsAutoPilot | Espace partenaires
+description: Ajouter un profil de déploiement WindowsAutoPilot dans l’Espace partenaires pour simplifier l’installation d’appareils avec WindowsAutoPilot
 author: KPacquer
-keywords: "autopilot, windows autopilot, microsoft autopilot, déploiement zero touch, oobe, écrans d’ouverture de session"
-ms.openlocfilehash: 061ee1cedbd3bc849419044bad022ccb12ef9b9f
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+keywords: autopilot, windows autopilot, microsoft autopilot, déploiement zero touch, oobe, écrans d’ouverture de session
+ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplifier l’installation d’appareils avec WindowsAutoPilot 
 
@@ -23,7 +23,7 @@ WindowsAutoPilot simplifie et sécurise l’installation de nouveaux appareils W
 ## <a name="requirements"></a>Exigences
 
 *  Appareils préinstallés avec Windows10 Professionnel Creators Update (1703 ou version ultérieure) ou Windows10 Professionnel pour PC avancés
-*  Identificateur d'appareil appelé code de hachage matériel (128 HWH ou 4k HWH), généralement fourni par un fabricant d'ordinateurs OEM. Vous utiliserez des identificateurs pour affecter des profils d’organisation dans l’Espace partenaires. À compter de septembre2017, le code de hachage matériel ne sera plus nécessaire. 
+*  Identificateur d'appareil appelé code de hachage matériel (128 HWH ou 4k HWH), généralement fourni par un fabricant d'ordinateurs OEM. Vous utiliserez des identificateurs pour affecter des profils d’organisation dans le Tableau de bord du partenaire. 
 *  Les appareils doivent avoir accès à Internet. Lorsque l'appareil ne peut pas se connecter, il affiche les écrans Windows OOBE (Out-Of-Box Experience) par défaut.
 *  L’inscription de l’appareil dans une solution GPM nécessite Azure ActiveDirectory Premium.
 
@@ -34,7 +34,7 @@ Pour ajouter des pages spécifiques de l’organisation, ajoutez les appareils d
 
 ## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Supprimer des pages Windows de la phaseOOBE à l’aide d’un profil de déploiement WindowsAutoPilot
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Exemples de paramètres dans un profil de déploiement WindowsAutoPilot
+**Exemples de paramètres dans un profil de déploiement WindowsAutoPilot**
 *  Ignorer les paramètres de confidentialité dans l’installation
 *  Désactiver le compte d’administrateur local dans l'installation
 *  Ignorer automatiquement des pages dans l'installation
@@ -43,19 +43,19 @@ Pour ajouter des pages spécifiques de l’organisation, ajoutez les appareils d
 
 ### <a name="add-devices-and-apply-a-profile"></a>Ajouter des appareils et appliquer un profil
 
-Dans l’Espace partenaires, vous pouvez créer un profil de déploiement WindowsAutoPilot et l’appliquer à une liste d’appareils.
+À partir du Tableau de bord du partenaire, vous pouvez créer un profil de déploiement WindowsAutoPilot et l’appliquer à une liste d’appareils.
 
-Pour configurer des appareils, téléchargez une liste d’appareils dans l’Espace partenaires, créez un profil qui s’applique à ces appareils, puis appliquez-le.
+Pour configurer des appareils, chargez une liste d’appareils, créez un profil qui s’applique à ces appareils, puis appliquez-le.
 
-1.  Ajoutez la liste d'appareils dans l’Espace partenaires.
+1.  Ajoutez la liste des appareils.
 
-    Les agents commerciaux et administrateurs disposent d'un accès pour ajouter la liste des appareils dans l’Espace partenaires.
+    Les agents commerciaux et administrateurs disposent d'un accès pour ajouter la liste des appareils dans le Tableau de bord du partenaire.
     
     Les revendeurs indirects peuvent collaborer avec leur fournisseur indirect pour l’ajouter.
 
     a.  Créez un fichier.csv à l’aide du script PowerShell de la rubrique: [Présentation de WindowsAutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Ce fichier.csv contient des informations sur l’appareil, notamment le numéro de série, le nom OEM, le nom de modèle, l’ID produit et l’identificateur d’appareil. 
 
-    b.  À partir du tableau de bord de l'Espace partenaires, accédez à **Clients** > sélectionnez le client destinataire des appareils > **Appareils > Ajouter des appareils**.
+    b.  À partir du Tableau de bord du partenaire, accédez à **Clients** > sélectionnez le client destinataire des appareils > **Appareils > Ajouter des appareils**.
 
     c.  Nom du lot d’appareils, par exemple, «Ordinateurs du service des ventes de Contoso – commande d'avril2017.» 
 
@@ -63,7 +63,7 @@ Pour configurer des appareils, téléchargez une liste d’appareils dans l’Es
 
     **Remarque:** si vous obtenez un message d’erreur lorsque vous essayez de télécharger le fichier.csv, vérifiez le format du fichier. À compter du mois d’août, vous pouvez utiliser le code de hachage matériel uniquement, ou le nom OEM, le numéro de série et le modèle, dans cet ordre de colonnes, ou l’ID produit Windows. Vous pouvez également utiliser l’exemple de fichier.csv fourni à partir du lien en regard de **Ajouter des appareils**.
 
-2.  Créez un profil que vous pouvez appliquer aux appareils. (Seuls les agents administrateurs disposent d'un accès pour créer et appliquer des profils dans l’Espace partenaires.)
+2.  Créez un profil que vous pouvez appliquer aux appareils. (Seuls les agents administrateurs disposent d'un accès pour créer et appliquer des profils dans le Tableau de bord du partenaire.)
 
     a.  Dans **Appareils**, cliquez sur **Ajouter un nouveau profil**.
 

@@ -1,14 +1,14 @@
 ---
-title: "Créer plusieurs utilisateurs pour un compte client | Espace partenaires"
-description: "Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de donnéesCSV dans l’Espace partenaires."
+title: Créer plusieurs utilisateurs pour un compte client | Espace partenaires
+description: Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de donnéesCSV dans l’Espace partenaires.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-keywords: "chargement groupé, ajouter plusieurs utilisateurs à un compte client, ajouter des utilisateurs du client, chargement groupé des utilisateurs du client, compte client, utilisateurs du client, utilisateurs"
-ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: chargement groupé, ajouter plusieurs utilisateurs à un compte client, ajouter des utilisateurs du client, chargement groupé des utilisateurs du client, compte client, utilisateurs du client, utilisateurs
+ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Ajouter plusieurs utilisateurs à un compte client
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 12/08/2017
 
 -  Espace partenaires
 
-Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de donnéesCSV dans l’Espace partenaires. Vous pouvez télécharger un exemple de fichier de données à partir de l’Espace partenaires, puis l’adapter à votre utilisation, ou créer un fichier de données à l’aide du modèle de données défini ci-dessous.
+Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de valeurs séparées par des virgules (.csv) dans le Tableau de bord du partenaire. Vous pouvez télécharger un exemple de fichier de données à partir du Tableau de bord du partenaire, puis l’adapter à votre utilisation, ou créer un fichier de données à l’aide du modèle de données défini ci-dessous.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Conditions requises pour les fichiers de données
 
@@ -36,7 +36,7 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 | **Nom de la colonne** | **Description**                                                              | **Limitation**                             |
 | Prénom      | Prénom de l’utilisateur (champ facultatif)                                           | 50&nbsp;caractères maximum                         |
 | Nom       | Nom de l’utilisateur (champ facultatif)                                            | 50&nbsp;caractères maximum                         |
-| Nom d’affichage    | Nom affiché dans l’Espace partenaires (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
+| Nom d’affichage    | Nom affiché dans le Tableau de bord du partenaire (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
 | Email           | Adresse de messagerie professionnelle de l’utilisateur chez le client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse de messagerie unique. |
 | Mise à jour de l’état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé. | \*\*Laisser vide\* \ *                        |
 
@@ -56,13 +56,13 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 
      
 
-7.  Lorsque l’Espace partenaires a validé le fichier, sélectionnez l’**emplacement** géographique des nouveaux utilisateurs.
+7.  Lorsque le Tableau de bord du partenaire a validé le fichier, sélectionnez l’**emplacement** géographique des nouveaux utilisateurs.
 8.  Sélectionnez **Enregistrer**.
 9.  Téléchargez le mot de passe temporaire des utilisateurs.
 
 **IMPORTANT&nbsp;:** n’oubliez pas de télécharger le fichier avec les mots de passe temporaires maintenant, car cette opération ne sera plus possible après. Les nouveaux utilisateurs doivent se connecter à leur nouveau compte à l’aide du mot de passe temporaire correspondant.
 
-L’Espace partenaires attribue automatiquement les autorisations **Peut utiliser les licences et services** aux nouveaux utilisateurs.
+Le Tableau de bord du partenaire attribue automatiquement les autorisations **Peut utiliser les licences et services** aux nouveaux utilisateurs.
 
  
 

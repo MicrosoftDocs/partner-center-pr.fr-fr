@@ -1,14 +1,14 @@
 ---
-title: "Attribuer ou révoquer des licences pour plusieurs utilisateurs | Espace partenaires"
-description: "Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs."
+title: Attribuer ou révoquer des licences pour plusieurs utilisateurs | Espace partenaires
+description: Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
-ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: e8116e5955fee38b628d72740ffc3d376115aad8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 12/21/2017
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
-L’Espace partenaires gère et affiche tous les droits de licence appartenant à un client.
+Le Tableau de bord du partenaire gère et affiche tous les droits de licence appartenant à un client.
 
 ## <a name="in-this-section"></a>Dans cette section
 
@@ -55,7 +55,7 @@ L’Espace partenaires gère et affiche tous les droits de licence appartenant �
 7.  Sélectionnez plusieurs produits pour les utilisateurs en activant la case à cocher de chaque produit.
     -   Sélectionnez **Afficher les plans de services** pour un produit, afin d’afficher et de sélectionner les plans de services dont les utilisateurs ont besoin.
 
-8.  Sélectionnez **Enregistrer**. L’Espace partenaires ouvre une page de confirmation **Licences mises à jour** répertoriant les utilisateurs et leurs nouvelles licences.
+8.  Sélectionnez **Enregistrer**. Le Tableau de bord du partenaire ouvre une page de confirmation **Licences mises à jour** répertoriant les utilisateurs et leurs nouvelles licences.
 
 **Remarque** Certains produits Microsoft ne sont pas disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
 
