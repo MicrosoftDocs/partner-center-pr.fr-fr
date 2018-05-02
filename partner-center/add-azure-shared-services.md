@@ -1,8 +1,8 @@
 ---
 title: Ajouter AzurePartnerSharedServices | Espace partenaires
-description: "Les partenaires fournisseurs de solutions Cloud peuvent désormais acheter des abonnements Azure pour leur propre usage."
+description: Les partenaires fournisseurs de solutions Cloud peuvent désormais acheter des abonnements Azure pour leur propre usage.
 author: labrenne
-Keywords: "Azure, services partagés, client"
+Keywords: Azure, services partagés, client
 ms.openlocfilehash: 859e4a1b08e26f2370493ad611a6126b74aeaf64
 ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
