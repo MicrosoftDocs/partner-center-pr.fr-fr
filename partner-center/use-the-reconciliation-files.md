@@ -3,11 +3,11 @@ title: Utiliser les fichiers de rapprochement | Espace partenaires
 description: Pour une vue détaillée de chaque élément facturé dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir du tableau de bord de l’Espace partenaires.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -204,8 +204,8 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nom de domaine du client, afin d’identifier le client.</p></td>
-<td>example.onmicrosoft.com</td>
+<td><p>Nom de domaine du client, afin d’identifier le client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td>exemple.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionName</td>
@@ -448,7 +448,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Nom de domaine du client, afin d’identifier le client.</p></td>
+<td><p>Nom de domaine du client, afin d’identifier le client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 <td>exemple.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -458,6 +458,34 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 </tbody>
 </table>
+
+## <a href="" id="onetimefiles"></a>Champs du fichier d’achat ponctuel
+
+|**Champ** |**Définition**|
+|:----------------|:-----------------------------|
+|PartnerId |ID partenaire au format GUID. |
+|CustomerId |ID unique de Microsoft, au format GUID, utilisé pour identifier le client. |
+|CustomerName |Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système. |
+|CustomerDomainName |Le nom de domaine du client. |
+|CustomerCountry |Le pays dans lequel se trouve le client. |
+|InvoiceNumber |Le numéro de la facture dans laquelle la transaction spécifiée apparaît. |
+|MpnId |L'identifiant MPN du partenaire fournisseur de solutions Cloud (direct ou indirect). |
+|ID MPN revendeur |Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect. IDMPN du revendeur de référence pour la réservation. Cet ID correspond à l’ID de revendeur indiqué pour la réservation dans l’Espace partenaires. Si un partenaire fournisseur de solutions Cloud a vendu la réservation directement au client, son ID MPN est indiqué deux fois, en tant qu’ID MPN et ID MPN revendeur. Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire. Si le partenaire fournisseur de solutions Cloud supprime un D revendeur, cette valeur est définie sur -1. |
+|OrderId |Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la réservation Azure lors de tout contact avec le support technique, mais pas pour le rapprochement. |
+|OrderDate |La date à laquelle la commande a été passée. |
+|ProductId |ID du produit. |
+|SkuId  |L’ID d'une référence SKU spécifique. |
+|AvailabilityId |L’ID d'une disponibilité spécifique. La «Disponibilité» indique si une référence spécifique est disponible ou non à l'achat pour un pays, une devise, un secteur etc. |
+|SkuName  |Le titre d'une référence spécifique. |
+|ProductName |Le nom du produit. |
+|ChargeType |Le type de frais ou d’ajustement. |
+|UnitPrice |Prix par produit commandé. |
+|Quantité |Nombre de produits commandés. |
+|Sous-total |Total avant impôt. Vérifiez que le sous-total correspond au total prévu, en cas de remise. |
+|TaxTotal |La somme totale de toutes les taxes applicables. |
+|Total |Le montant total de cet achat. |
+|Devise |Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’elle correspond à votre première facture, et revérifiez après toute mise à jour importante de la plateforme de facturation. |
+|DiscountDetails |Liste détaillée des remises éventuelles pertinentes. |
 
 
 

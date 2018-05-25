@@ -4,11 +4,11 @@ description: Cette rubrique explique ce que vous pouvez voir sur votre facture l
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 3cb6ca72b9337d384e8537e155a455fba80eb6d6
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="common-billing-scenarios"></a>Scénarios de facturation courants
 
@@ -28,24 +28,23 @@ Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous a
 
 ## <a href="" id="usagebased"></a>Facturation basée sur l’utilisation
 
-Seuls les services utilisés dans la période de facturation précédente vous sont facturés. Les services et applications Azure qui sont activés et utilisés pendant la période de facturation apparaissent sur la facture.
+La facturation basée sur l’utilisation est mensuelle, à terme échu, sur le jour anniversaire d’abonnement. Par exemple, si la date anniversaire de l'abonnement est le 15 du mois, vous serez facturé le 15 janvier pour la période du service allant du 15 décembre au 14 janvier. Vous serez facturé à nouveau le 15 février pour la période de service allant du 15 janvier au 14 février, etc. Les frais générés le jour de la date anniversaire de l'abonnement apparaîtront sur la facture et le fichier de rapprochement du mois suivant.
 
--   Les barèmes des services peuvent changer au cours du cycle de facturation.
-    -   Augmentation de prix: préavis de 30jours.
-    -   Les réductions de prix s’appliquent à compter du jour où elles prennent effet.
-    -   Les abonnements existants sont facturés au taux en vigueur au début du cycle de facturation.
-    -   Les nouveaux abonnements (créés au cours du cycle de facturation) sont facturés au taux en vigueur lorsque vous les avez ajoutés.
--   Si vous annulez un abonnement au cours du premier cycle de facturation, les frais d’utilisation apparaissent dans le fichier de rapprochement de la période pendant laquelle l’abonnement était actif.
+Un abonnement basé sur l’utilisation peut être interrompu à tout moment. 
+
+La liste des prix des fournisseurs de solutions Cloud Azure est publiée chaque mois et est disponible sur la page Espace partenaires de vente-> Tarification et offres. Veuillez noter que les prix sont assujettis à des modifications quotidiennes, lesquelles seront indiquées dans l'onglet Historique des modifications de la liste tarifaire.
+
+Les frais d’utilisation sont basés sur les prix quotidiens. Si le prix change au cours de la période de service, vous verrez une ligne de facturation pour chaque période de service calculée au prorata, ainsi que le prix applicable.
 
 ## <a href="" id="licensebased"></a>Facturation basée sur la licence
 
 **Facturation:** les abonnements basés sur la licence sont facturés à l’avance sur le jour anniversaire d’abonnement.
 
-**Jour anniversaire:** les abonnements à facturation mensuelle sont alignés sur la date de facturation du partenaire et les abonnements à facturation annuelle sont alignés sur la date d'achat.
+**Date anniversaire:** la date anniversaire est le jour du mois où vous avez acheté l’abonnement. Par exemple, si vous avez acheté l’abonnement le 15 janvier, la date anniversaire sera le 15 de chaque mois.
 
-**Période d'abonnement:** tous les abonnements basés sur la licence sont souscrits pour une période de 12mois. La période d'abonnement commence à la date d’achat pour les abonnements à facturation annuelle et à la date de facturation suivant la date d’achat pour les abonnements à facturation mensuelle.
+**Période d'abonnement:** tous les abonnements basés sur la licence sont souscrits pour une période de 12mois, qui débute à la date d'achat.
 
-**Annulation:** les abonnements annulés dans les 30premiersjours de la période d'abonnement seront crédités à 100%. Les abonnements annulés après 30jours seront crédités au prorata.
+**Annulation:** les abonnements suspendus durant le mois 1 seront crédité à 100%. Les abonnements suspendus au cours des mois 2 à 12 seront crédités au prorata.
 
 **Renouvellement:** tous les abonnements basés sur la licence sont automatiquement renouvelés 12mois après le début de la période d'abonnement.
 
@@ -56,83 +55,78 @@ Seuls les services utilisés dans la période de facturation précédente vous s
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation mensuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13/01/2018         | 14/01/2018   |Frais d’abonnement   |0,00       |1       |0,00    
-|15/01/2018         |14/02/2018    |Frais de cycle   |4,00       |1        |4,00    
+|13/01/2018         |12/02/2018    |Frais de cycle   |4,00       |1        |4,00    
 
 Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|15/02/2018         |14/03/2018    |Frais de cycle   |4,00       |1        |4,00    
-Vous continuerez à être facturé le 15 de chaque mois jusqu'à ce que l’abonnement soit suspendu.
+|13/02/2018         |12/03/2018    |Frais de cycle   |4,00       |1        |4,00    
 
 **Scénario 2: Modification du nombre de licences**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation mensuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13/01/2018         |14/01/2018    |Frais d’abonnement   |0,00       |1        |0,00    
-|15/01/2018         |14/02/2018    |Frais de cycle   |4,00       |1        |4,00    
+|13/01/2018         |12/02/2018    |Frais de cycle   |4,00       |1        |4,00    
 
 Le 1erfévrier, vous ajoutez une licence supplémentaire. Le 15février, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 15/01/2018        |14/02/2018    |Instance de cycle au prorata   |-4,00       |1        |4,00    
-|15/01/2018         |31/01/2018    | Instance de cycle au prorata   |2,21       |1        |2,21    
-|01/02/2018         |14/02/2018    | Instance de cycle au prorata   |1,82       |2        |3,64    
-|15/02/2018         |14/03/2018    | Instance de cycle au prorata   |4,00       |2        |8,00    
+| 13/01/2018        |12/02/2018    |Instance de cycle au prorata   |-4,00       |1        |4,00    
+|13/01/2018         |31/01/2018    | Instance de cycle au prorata   |2,45       |1        |2.45    
+|01/02/2018         |12/02/2018    | Instance de cycle au prorata   |1,55       |2        |3,10    
+|13/02/2018         |12/03/2018    | Instance de cycle au prorata   |4,00       |2        |8,00    
 
 **Formules pour le prix unitaire:**
 
-Le prix mensuel est de 4,00dollars et il y a 31jours dans la période de service (du 15/01/2018 au 14/02/2018). Cela équivaut à un prix journalier de 0,13 (4/31).
+Le prix mensuel est de 4,00dollars et il y a 31jours dans la période de service (du 13/01/2018 au 12/02/2018). Cela équivaut à un prix journalier de 0,129 (4/31).
 
-Il y a 17jours dans la période de prorata (du 15/01/2018 au 31/01/2018).
+Il y a 19jours dans la période de prorata (du 13/01/2018 au 31/01/2018).
 
-Prix unitaire au prorata=2,21=17x0,13
+Prix unitaire au prorata=2,451=19x0,129
 
-Il y a 14jours dans la période de prorata (du 01/02/2018 au 14/02/2018).
+Il y a 12jours dans la période de prorata (du 1/02/2018 au 2/12/2018).
 
-Prix unitaire au prorata=1,82=14x0,13
+Prix unitaire au prorata=1,54=12x0,129
 
 **Scénario3:Suspension avant 30jours**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation mensuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13/01/2018         |14/01/2018    |Frais d’abonnement   |0,00       |1        |0,00    
-|15/01/2018         |14/02/2018    |Frais de cycle   |4,00       |1        |4,00    
+|13/01/2018         |12/02/2018    |Frais de cycle   |4,00       |1        |4,00    
 
 Le 1erfévrier vous suspendez l'abonnement. Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-15/01/2018|14/02/2018|Frais d'annulation|-4,00|1|4,00
+13/01/2018|12/02/2018|Frais d'annulation|-4,00|1|4,00
 
 **Scénario4:Suspension après 30jours**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation mensuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|14/01/2018|Frais d’abonnement|0,00|1|0,00
-15/01/2018|14/02/2018|Frais de cycle|4,00|1|4,00
+13/01/2018|12/02/2018|Frais de cycle|4,00|1|4,00
 
 Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-15/02/2018|14/03/2018|Frais de cycle|4,00|1|4,00
+13/02/2018|12/03/2018|Frais de cycle|4,00|1|4,00
 
 Le 1ermars vous suspendez l'abonnement. Le 15mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|14/03/2018|Frais d'annulation|-1,96|1|-1,96
+01/03/2018|12/03/2018|Frais d'annulation|-1,72|1|-1,72
 
 **Formules pour le prix unitaire:**
 
-Le prix mensuel est de 4,00dollars et il y a 28jours dans la période de service (du 15/02/2018 au 14/03/2018). Cela équivaut à un prix journalier de 0,14 (4/28).
+Le prix mensuel est de 4,00dollars et il y a 28jours dans la période de service (du 13/02/2018 au 12/03/2018). Cela équivaut à un prix journalier de 0,143 (4/28).
 
 Prix unitaire=jours dans la période de servicexprix journalier xnombre de licences.
 
-Il y a 14jours dans la période d'annulation (du 01/03/2018 au 14/03/2018). 
+Il y a 12jours dans la période d'annulation (du 01/03/2018 au 12/03/2018). 
 
-Par conséquent, le prix unitaire=-1,96 (14x0,14x(-1)).
+Par conséquent, le prix unitaire=-1,716 (14x0,14x(-1)).
 
 ## <a name="annual-billing-scenarios"></a>Scénarios de facturation annuelle
 

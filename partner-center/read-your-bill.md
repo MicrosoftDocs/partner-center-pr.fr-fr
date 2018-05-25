@@ -1,14 +1,14 @@
 ---
 title: Lire votre facture | Espace partenaires
-description: "Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires."
+description: Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-keywords: "facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?"
-ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
+ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -97,29 +97,44 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 <td>Date de facturation</td>
 <td>Date à laquelle vous recevez votre facture.</td>
 </tr>
+
 <tr class="odd">
+<td>Modalités de paiement</td>
+<td>Pour les achats ponctuel, le délai sera toujours de 60jours.</td>
+</tr>
+
+
+<tr class="even">
 <td>Date d’échéance du paiement</td>
 <td>Votre paiement doit être reçu au plus tard à cette date.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Numéro du bon de commande du client</td>
 <td>Numéro de votre bon de commande.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Service client</td>
 <td>Adresse du site web pour accéder au service client.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Bénéficiaire du service</td>
 <td>Adresse où le service est utilisé. (Adresse officielle de la société, information non modifiable)</td>
 </tr>
 </tbody>
 </table>
 
- 
+## <a name="itemized-list-of-one-time-charges"></a>Liste détaillée des frais ponctuels
 
- 
-
+|**Champ** |**Définition**|
+|:----------------|:-----------------------------|
+|Date |Date d’achat. |
+|Description |Nom du produit. |
+|Quantité |Le nombre de produits (réservations, par exemple) achetés. |
+|Prix unitaire |Prix par produit (par exemple, réservation). |
+|Remises |Toutes les remises applicables. |
+|Montant hors taxe |Sous-total des achats avant impôts. |
+|Taxe de vente |Montant des taxes. |
+|Total |Total à payer. |
  
 
 

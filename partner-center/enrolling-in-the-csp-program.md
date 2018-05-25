@@ -2,11 +2,11 @@
 title: S'inscrire au programme Fournisseur de solutions Cloud | Espace partenaires
 description: Comprendre les différents modèles de vente dans le programme Fournisseur de solutions Cloud et déterminer celui qui convient le mieux à votre entreprise.
 author: labrenne
-ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
+ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 04/26/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S'inscrire au programme Fournisseur de solutions Cloud
 
@@ -29,6 +29,7 @@ Il peut nous falloir plusieurs jours pour examiner et vérifier les informations
 
 ### <a name="enroll-as-an-indirect-reseller"></a>S'inscrire en tant que revendeur indirect
 
+
 1. Une fois que vous vous êtes inscrit en tant que revendeur indirect, vous devez [trouver un fournisseur indirect](https://partnercenter.microsoft.com/partner/find-a-provider) avec lequel collaborer. Le fournisseur avec qui vous collaborez dirigera les clients vers vous, gérera les achats de logiciels que vous pouvez vendre ainsi que la facturation et le support des clients, ce qui vous permettra de vous concentrer sur vos activités de revendeur.
 
 2. Votre administrateur global doit configurer votre compte dans le Tableau de bord du partenaire. L'administrateur global peut ajouter les employés de l'entreprise qui travailleront dans le Tableau de bord du partenaire, leur affecter des rôles et des autorisations en fonction de leurs tâches, ou encore configurer le profil de l'entreprise.
@@ -39,7 +40,7 @@ Il peut nous falloir plusieurs jours pour examiner et vérifier les informations
 
 ### <a name="enroll-as-a-direct-partner"></a>S'inscrire en tant que partenaire direct
 
->**Note**<br> Nous sommes en cours de mise à jour des conditions d'inscription de nos partenaires directs et n'acceptons actuellement pas de nouvelles candidatures. Nous prévoyons de rouvrir le processus de candidature au cours du deuxième trimestre calendaire de 2018. Envisagez de vous inscrire comme revendeur indirect.
+>**Note**<br> Nous sommes en cours de mise à jour des conditions d'inscription de nos partenaires directs et n'acceptons actuellement pas de nouvelles candidatures. Nous prévoyons de rouvrir le processus de candidature à compter du 31août. Envisagez de vous inscrire comme revendeur indirect. 
 
 En tant que partenaire direct, vous avez une relation de bout en bout avec votre client et Microsoft.
 

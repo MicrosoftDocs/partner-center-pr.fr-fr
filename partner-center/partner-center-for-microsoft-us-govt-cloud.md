@@ -1,12 +1,12 @@
 ---
-title: "Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis"
-description: "L'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis est le portail d’entreprise des partenaires Microsoft qui souhaitent proposer des solutions Microsoft Cloud aux clients travaillant avec des agences gouvernementales des États-Unis."
+title: Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+description: L'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis est le portail d’entreprise des partenaires Microsoft qui souhaitent proposer des solutions Microsoft Cloud aux clients travaillant avec des agences gouvernementales des États-Unis.
 author: MaggiePucciEvans
-ms.openlocfilehash: 829c1cdc6568c1bde2e2fff594632acd90a4ee16
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.openlocfilehash: 4f2fb444b3d0fe47b53b58429f5afb14bf00ed3b
+ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/18/2018
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 
@@ -51,3 +51,5 @@ Les tâches suivantes de l'Espace partenaires sont gérées à l’aide du porta
 Pour plus d’informations sur la gestion des utilisateurs et des licences, consultez [Gestion des utilisateurs et des licences dans l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis](user-management-in-partner-center-for-microsoft-us-govt-cloud.md).
 
 Pour plus d’informations sur l’inscription en tant que fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis, voir [Inscription en tant que fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis](enroll-in-csp-for-microsoft-us-govt-cloud.md).
+
+Consultez le [Forum aux questions concernant le programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis](faq-for-us-govt-cloud.md) pour obtenir des réponses aux questions les plus fréquemment posées.

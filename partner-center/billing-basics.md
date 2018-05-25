@@ -3,11 +3,11 @@ title: Notions de base de facturation | Espace partenaires
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="billing-basics"></a>Notions de base de facturation
 
@@ -144,3 +144,32 @@ Azure fonctionne sur le modèle du paiement à l’utilisation, dans lequel vous
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>Facturation ponctuelle
+
+Les partenaires du programme Fournisseur de solutions Cloud peuvent proposer à leurs clients des instances réservées sur des machines virtuelles Microsoft Azure. Les clients peuvent réserver des machines virtuelles à l’avance: pour une période d'un ou de trois ans, et réaliser des économies conséquentes sur l’utilisation d’Azure.   
+
+Vos clients paient à l’avance le service Azure Reserved VM Instances. Lorsque vous achetez Azure Reserved VM Instances pour le compte d’un client, vous recevrez des factures et des fichiers de rapprochement pour ces frais ponctuels. 
+
+>[!IMPORTANT]
+>Si vous achetez Azure Reserved VM Instances pour un client dans un marché dont la devise est différente de la vôtre, la devise de facturation par défaut sera celle du marché du client, et non pas la vôtre. Si vous avez des clients dans plusieurs pays, vous recevrez des factures et fichiers de rapprochement distincts pour chaque devise de facturation des clients, ce qui vous permettra de facturer vos clients dans la devise appropriée. 
+
+Pour accéder aux factures des frais ponctuels et aux fichiers de rapprochement associés, sélectionnez **Facturation** dans votre Tableau de bord des partenaires puis sélectionnez **Une fois**. 
+
+### <a name="manage-your-one-time-billing"></a>Gérer votre facturation de frais ponctuels
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Consultez le statut actuel de la facturation, des factures et des fichiers de rapprochement
+
+1.  Dans votre Tableau de bord des partenaires, sélectionnez **Facturation**, puis **Une fois** pour afficher votre statut de facturation. 
+2.  Sélectionnez une facture ou un fichier de rapprochement pour afficher des informations plus détaillées. 
+
+#### <a name="view-a-customers-order-history"></a>Afficher l’historique des commandes d’un client
+
+1.  Sélectionnez **Clients** dans votre menu Tableau de bord.
+2.  Sur votre page **Clients**, recherchez le client dont vous souhaitez afficher l’historique de commandes, puis sélectionnez la flèche allant vers le bas pour développer son dossier. 
+3.  Sélectionnez **Afficher les commandes** pour afficher l’historique des commandes.
+
+#### <a name="create-a-credit-or-void-note"></a>Créer un crédit ou annuler une facture
+
+Vous pouvez avoir besoin d'annuler une facture et d'en créer une nouvelle. Par exemple, un client peut modifier le nom de son entreprise, puis recevoir une facture sur laquelle figure l'ancien nom. 
+
+Pour annuler une facture et en créer une nouvelle, téléchargez le formulaire disponible sur la page Facturation, sous la section Ajustements.
