@@ -4,11 +4,12 @@ description: Notification relative à une activité de minage de cryptomonnaie e
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
-ms.openlocfilehash: 1e7e695ec19600fd1f32138982c8f609db168cc7
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
+ms.openlocfilehash: 5b96f3d5adf717eae6d4dc739e9678b69300a4b4
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936198"
 ---
 # <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Notification du Tableau de bord des partenaires concernant une activité de minage de cryptomonnaie
 
@@ -44,6 +45,16 @@ S'il s'agit d'une activité inattendue, procédez comme suit:
 
 La détection des activités de minage des cryptomonnaie est basée sur la méthode heuristique et peut ne pas être précise à 100%. Veillez à mettre en place des systèmes de gouvernance et de suivi pour vous protéger contre tout activité frauduleuse ou illicite. Pour plus d’informations, consultez [Défaut de paiement, fraude ou mauvaise utilisation](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
+Si vous avez des questions ou des inquiétudes à propos des notifications, vous pouvez procéder comme suit pour ouvrir une demande de support.
+
+1.  Dans le Tableau de bord, sélectionnez **Support**, puis **Demandes à l'Espace partenaires**.
+3.  Sélectionnez **Nouvelle demande**. 
+4.  Dans le menu déroulant **Type de problème**, sélectionnez **Ajout ou gestion de clients**.
+5.  Dans le menu déroulant **Impact**, sélectionnez **Modéré**.
+6.  Dans le champ **Titre**, saisissez **Notification de minage de cryptomonnaie**.
+7.  Dans le champ **Description**, entrez le nom de l’abonnement affecté, ainsi que vos autres questions ou problèmes. 
+8.  Entrez vos coordonnées.
+9.  Sélectionnez **Envoyer**.
 
 
 

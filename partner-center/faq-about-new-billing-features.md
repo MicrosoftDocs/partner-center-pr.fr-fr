@@ -3,15 +3,16 @@ title: FAQ sur les nouvelles fonctionnalités de facturation| Espace partenaires
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
-ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
+ms.openlocfilehash: 9cb79ba60c06d273bcf2d6435d9146c4920b3ace
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/15/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936228"
 ---
 # <a name="faq-about-new-billing-features"></a>FAQ sur les nouvelles fonctionnalités de facturation
 
-**S’applique à**
+**S'applique à**
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
@@ -661,6 +662,6 @@ Le fichier de rapprochement du 15juin contiendra les lignes de facturation suiva
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
-|01/06/2018   | 30/06/2018   |30dollars   |1   |30dollars  |Frais au prorata à l'achat |
+|29/05/2018   | 30/06/2018   |30dollars   |1   |30dollars  |Frais au prorata à l'achat |
 
 Notez que l’abonnement sera renouvelé automatiquement le 1er juin2019.
