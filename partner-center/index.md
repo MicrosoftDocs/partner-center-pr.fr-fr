@@ -1,74 +1,179 @@
 ---
-title: Bienvenue dans l’Espace Partenaires Microsoft
-description: Espace partenaires Microsoft
-author: labrenne
-ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+layout: LandingPage
+hide_bc: true
+title: Commencez par chercher de l'aide ici, dans le Tableau de bord du partenaire
+description: Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez toutes les réponses dans la Bibliothèque d’aide du Tableau de bord du partenaire.
+author: v-chmccl
+ms.topic: landing-page
+searchScope: []
+ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1919899"
 ---
-# <a name="welcome-to-your-partner-dashboard"></a><span data-ttu-id="01872-103">Bienvenue dans votre Tableau de bord du partenaire</span><span class="sxs-lookup"><span data-stu-id="01872-103">Welcome to your Partner Dashboard</span></span>
+# <a name="start-here-for-help-with-partner-center-dashboard"></a>Commencez par chercher de l'aide ici, dans le tableau de bord de l'Espace partenaires
 
-<span data-ttu-id="01872-104">Le Tableau de bord du partenaire Microsoft, c’est-à-dire le présent site, est l’emplacement à partir duquel les partenaires commerciaux de Microsoft créent, gèrent et développent leurs activités.</span><span class="sxs-lookup"><span data-stu-id="01872-104">The Microsoft Partner Dashboard - this site - is where Microsoft's commercial partners come to build, manage, and grow their businesses.</span></span> <span data-ttu-id="01872-105">(Notez que les informations données dans cette page s’appliquent à l’ensemble des partenaires.</span><span class="sxs-lookup"><span data-stu-id="01872-105">(Note that not everything discussed on this page will apply to every partner.</span></span> <span data-ttu-id="01872-106">Certaines fonctionnalités sont déployées en plusieurs étapes.)</span><span class="sxs-lookup"><span data-stu-id="01872-106">Some features are being rolled out in stages.)</span></span>
+Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez toutes les réponses dans la Bibliothèque d’aide du tableau de bord de l'Espace partenaires.
 
-## <a name="create-a-partner-dashboard-account-to"></a><span data-ttu-id="01872-107">Créez un compte Tableau de bord du partenaire pour:</span><span class="sxs-lookup"><span data-stu-id="01872-107">Create a Partner Dashboard account to:</span></span>
+Si vous connaissez déjà le tableau de bord, découvrez les [Nouveautés](/partner-center/whats-new-in-pc).
 
--   <span data-ttu-id="01872-108">Gérer votre partenariat avec Microsoft</span><span class="sxs-lookup"><span data-stu-id="01872-108">Manage your partnership with Microsoft</span></span>
-    -   <span data-ttu-id="01872-109">Acheter le MicrosoftActionPack et d’autres droits d’utilisation interne faisant partie des avantages de l’adhésion</span><span class="sxs-lookup"><span data-stu-id="01872-109">Purchase the Microsoft Action Pack and other internal-use rights membership benefits</span></span> 
-    -   <span data-ttu-id="01872-110">Développer les compétences de votre entreprise dans les produits et services Microsoft</span><span class="sxs-lookup"><span data-stu-id="01872-110">Build your company's expertise in Microsoft products and services</span></span>
-    -   <span data-ttu-id="01872-111">Acquérir le niveau d’adhésion Argent et Or</span><span class="sxs-lookup"><span data-stu-id="01872-111">Qualify for silver and gold membership status</span></span>
+<ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>S’inscrire</h3>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Créer un compte</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gérer les locataires et les emplacements</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Entrer en contact avec les clients</h3>
+                        <p><a href="/partner-center/customer-accounts">Comptes client</a><br /><a href="/partner-center/customer-subscriptions">Vendre des abonnements</a><br /><a href="/partner-center/assign-licenses-to-users">Gérer des licences</a><br /><a href="/partner-center/billing">Facturation</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Développer votre entreprise</h3>
+                        <p><a href="/partner-center/referrals">Profils commerciaux/références commerciales</a><br /><a href="/partner-center/promotions">Promotions</a><br /><a href="/partner-center/get-special-pricing-for-offers">Vendre aux secteurs spécialisés</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
--   <span data-ttu-id="01872-112">Ajouter vos employés à votre compte et leur affecter le niveau d’accès approprié</span><span class="sxs-lookup"><span data-stu-id="01872-112">Add your employees to your account and assign them the appropriate level of access</span></span>
+<ul id="products2" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_portal.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Explorer votre tableau de bord du partenaire</a> (connexion requise)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_vmm-cloud.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Nouveau! <a href="/partner-center/azure-ri-server-subscriptions">Vendre des réservations Azure par le biais du fournisseur de solutions Cloud</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_form.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="/partner-center/">Parcourir et effectuer des recherches dans tous les articles d’aide</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/mpn-get-action-pack">Obtenir MicrosoftAction Pack (MAPS)</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/partner-center-account-setup">Gérer votre compte</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/announcements">Annonces</a> (connexion requise)</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+<hr />
 
--   <span data-ttu-id="01872-113">Obtenir des prospects qualifiés de la part de Microsoft</span><span class="sxs-lookup"><span data-stu-id="01872-113">Get qualified sales leads from Microsoft</span></span> 
-    -   <span data-ttu-id="01872-114">Commercialiser les offres de votre entreprise auprès de milliers de clients potentiels</span><span class="sxs-lookup"><span data-stu-id="01872-114">Market your company's offerings to thousands of potential customers</span></span>
-    -   <span data-ttu-id="01872-115">Gérer vos clients potentiels du contact initial jusqu’à la transaction</span><span class="sxs-lookup"><span data-stu-id="01872-115">Manage your sales leads from initial contact to sealing the deal</span></span> 
-
--   <span data-ttu-id="01872-116">Rejoindre le programme Fournisseur de solutions Cloud</span><span class="sxs-lookup"><span data-stu-id="01872-116">Join the Cloud Solution Provider program</span></span>
-    -   <span data-ttu-id="01872-117">Vendre et gérer des abonnements aux solutions et services de cloud computing Microsoft</span><span class="sxs-lookup"><span data-stu-id="01872-117">Sell and manage subscriptions to Microsoft cloud services and solutions</span></span>       
-    -   <span data-ttu-id="01872-118">Entrer en contact et gérer vos clients</span><span class="sxs-lookup"><span data-stu-id="01872-118">Connect with and manage your customers</span></span>
-    -   <span data-ttu-id="01872-119">Fournisseurs indirects - prendre contact avec vos revendeurs et gérer ces derniers</span><span class="sxs-lookup"><span data-stu-id="01872-119">Indirect providers - connect with and manage your resellers</span></span>    
-    -   <span data-ttu-id="01872-120">Vendre à des clients dans des clouds nationaux Microsoft dédiés, privés</span><span class="sxs-lookup"><span data-stu-id="01872-120">Sell to customers in private, dedicated Microsoft national clouds</span></span> 
-    -   <span data-ttu-id="01872-121">Gérer les factures émises par Microsoft et leur règlement</span><span class="sxs-lookup"><span data-stu-id="01872-121">Manage your invoices from and payments to Microsoft</span></span>
-    -   <span data-ttu-id="01872-122">Rapprocher vos factures pour déterminer le montant de la facturation à vos clients</span><span class="sxs-lookup"><span data-stu-id="01872-122">Reconcile your invoices to determine how much to bill your customers</span></span>
-   
-
->**<span data-ttu-id="01872-123">Important</span><span class="sxs-lookup"><span data-stu-id="01872-123">Important</span></span>**<br>
-<span data-ttu-id="01872-124">Le Tableau de bord du partenaire est en constante évolution, avec l’ajout de nouvelles fonctionnalités.</span><span class="sxs-lookup"><span data-stu-id="01872-124">The Partner Dashboard is continuously evolving to include more features and capabilities.</span></span> <span data-ttu-id="01872-125">Découvrir les [Nouveautés](whats-new-in-pc.md).</span><span class="sxs-lookup"><span data-stu-id="01872-125">Find out [what's new](whats-new-in-pc.md).</span></span>
-
-
-## <a name="get-started"></a><span data-ttu-id="01872-126">Démarrer</span><span class="sxs-lookup"><span data-stu-id="01872-126">Get started</span></span>
-
-<span data-ttu-id="01872-127">Inscrivez-vous au programme partenaires qui correspond à vos objectifs, configurez votre compte et commencez à travailler avec vos clients:</span><span class="sxs-lookup"><span data-stu-id="01872-127">Enroll in the partner program that fits your goals, set up your account, and start working with your customers:</span></span>
-
-| **<span data-ttu-id="01872-128">Cliquez ici</span><span class="sxs-lookup"><span data-stu-id="01872-128">Go here</span></span>**  | **<span data-ttu-id="01872-129">Pour en savoir plus</span><span class="sxs-lookup"><span data-stu-id="01872-129">To learn about this</span></span>**  |
-|------------|:-------------|
-|[<span data-ttu-id="01872-130">Rejoindre MicrosoftPartnerNetwork</span><span class="sxs-lookup"><span data-stu-id="01872-130">Join the Microsoft Partner Network</span></span>](mpn-overview.md)|<span data-ttu-id="01872-131">Un partenariat avec Microsoft pour accéder à des logiciels et des services de droits d’utilisation interne, le MicrosoftActionPack et acquérir des compétences Argent et Or</span><span class="sxs-lookup"><span data-stu-id="01872-131">Partnering with Microsoft to get access to internal-use rights software and services, the Microsoft Action Pack, and earn Silver and Gold competencies</span></span> |
-|[<span data-ttu-id="01872-132">Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées</span><span class="sxs-lookup"><span data-stu-id="01872-132">Cloud Solution Provider program - selling in-demand cloud solutions</span></span>](csp-overview.md) | <span data-ttu-id="01872-133">Quel est le modèle Fournisseur de solutions Cloud approprié pour vous, où pouvez-vous vendre par le biais du programme Fournisseur de solutions Cloud et quelles sont les solutions que vous pouvez commercialiser via ce programme</span><span class="sxs-lookup"><span data-stu-id="01872-133">Which CSP model is right for you, where you can sell through CSP, what you can sell through CSP</span></span> |
-|[<span data-ttu-id="01872-134">Configurer votre compte Tableau de bord du partenaire</span><span class="sxs-lookup"><span data-stu-id="01872-134">Set up your Partner Dashboard account</span></span>](partner-center-account-setup.md)|<span data-ttu-id="01872-135">Créer des comptes d’utilisateurs, gérer vos profils, gérer les mots de passe et personnaliser le catalogue de produits</span><span class="sxs-lookup"><span data-stu-id="01872-135">Create user accounts, manage your profiles, manage passwords, and customize the product catalog</span></span> |
-|[<span data-ttu-id="01872-136">Configurer vos comptes clients</span><span class="sxs-lookup"><span data-stu-id="01872-136">Set up your customer accounts</span></span>](customer-accounts.md)|<span data-ttu-id="01872-137">Ajouter des utilisateurs, créer des comptes et afficher votre liste de clients</span><span class="sxs-lookup"><span data-stu-id="01872-137">Add users, create new accounts, and see your customer list</span></span> |
-|[<span data-ttu-id="01872-138">Collaborer avec d’autres partenaires</span><span class="sxs-lookup"><span data-stu-id="01872-138">Work with other partners</span></span>](work-with-other-partners.md)|<span data-ttu-id="01872-139">Rechercher des partenaires dont l’expertise complète la vôtre</span><span class="sxs-lookup"><span data-stu-id="01872-139">Find partners whose expertise complements yours</span></span> |
-
-## <a name="manage-your-reseller-business"></a><span data-ttu-id="01872-140">Gérer votre activité de revendeur</span><span class="sxs-lookup"><span data-stu-id="01872-140">Manage your reseller business</span></span>
-
-<span data-ttu-id="01872-141">Tirez parti de ces opportunités pour développer votre activité:</span><span class="sxs-lookup"><span data-stu-id="01872-141">Take advantage of these opportunities to grow your business:</span></span>
-
-| **<span data-ttu-id="01872-142">Cliquez ici</span><span class="sxs-lookup"><span data-stu-id="01872-142">Go here</span></span>**  |**<span data-ttu-id="01872-143">Pour en savoir plus</span><span class="sxs-lookup"><span data-stu-id="01872-143">To learn about this</span></span>**   |
-|------------|:-------------|
-|[<span data-ttu-id="01872-144">Développer votre activité avec des références de Microsoft</span><span class="sxs-lookup"><span data-stu-id="01872-144">Grow your business with referrals from Microsoft</span></span>](referrals.md)|<span data-ttu-id="01872-145">Créer un profil commercial pour les clients, puis recevoir des références et y répondre</span><span class="sxs-lookup"><span data-stu-id="01872-145">Create a business profile for customers, then receive and respond to referrals</span></span>|
-|[<span data-ttu-id="01872-146">Application Analyse du partenaire pour PowerBI</span><span class="sxs-lookup"><span data-stu-id="01872-146">Partner Analytics app for Power BI</span></span>](power-bi-app-for-direct-partners.md)| <span data-ttu-id="01872-147">Obtenir des informations sur les performances de votre entreprise à l’aide du tableau de bord MicrosoftPower BI familier</span><span class="sxs-lookup"><span data-stu-id="01872-147">Gain insights into your company's performance using the familiar Microsoft Power BI dashboard</span></span>|
-|[<span data-ttu-id="01872-148">Gérer les abonnements des clients</span><span class="sxs-lookup"><span data-stu-id="01872-148">Manage subscriptions for customers</span></span>](customer-subscriptions.md)|<span data-ttu-id="01872-149">Nouveaux abonnements, abonnements d’évaluation, attribuer des licences, promotions et remises</span><span class="sxs-lookup"><span data-stu-id="01872-149">New subscriptions, trial subscriptions, assign licenses, promotions and discounts</span></span>|
-|[<span data-ttu-id="01872-150">Ajouter des compétences à votre profil commercial</span><span class="sxs-lookup"><span data-stu-id="01872-150">Add competencies to your business profile</span></span>](learn-about-competencies.md)|<span data-ttu-id="01872-151">Prouver une expertise, en savoir plus sur les options de compétence</span><span class="sxs-lookup"><span data-stu-id="01872-151">Demonstrate expertise, learn about competency options</span></span>|
-|[<span data-ttu-id="01872-152">Facturation</span><span class="sxs-lookup"><span data-stu-id="01872-152">Billing</span></span>](billing.md)|<span data-ttu-id="01872-153">Passer en revue les scénarios de facturation, les taxes et la TVA et les budgets de dépenses Azure</span><span class="sxs-lookup"><span data-stu-id="01872-153">Review billing scenarios, taxes and VAT, and Azure spending budgets</span></span> |
-
-## <a name="understand-your-support-options"></a><span data-ttu-id="01872-154">Découvrir vos options de support</span><span class="sxs-lookup"><span data-stu-id="01872-154">Understand your support options</span></span>
-
-<span data-ttu-id="01872-155">Lorsque votre client a besoin de services de support technique ou de prise en charge de compte, vous êtes le premier point de contact.</span><span class="sxs-lookup"><span data-stu-id="01872-155">When your customer needs technical or account support services, you are the first point of contact.</span></span>
-
-<span data-ttu-id="01872-156">Lorsque vous avez besoin d’aide sur un service Microsoft ou l'Espace partenaires, nous sommes là pour vous.</span><span class="sxs-lookup"><span data-stu-id="01872-156">When you need help with a Microsoft service or with Partner Center, we’re here for you.</span></span> 
-
-| **<span data-ttu-id="01872-157">Cliquez ici</span><span class="sxs-lookup"><span data-stu-id="01872-157">Go here</span></span>**  | **<span data-ttu-id="01872-158">Pour en savoir plus</span><span class="sxs-lookup"><span data-stu-id="01872-158">To learn about this</span></span>**  |
-|------------|:-------------|
-|[<span data-ttu-id="01872-159">Service clientèle</span><span class="sxs-lookup"><span data-stu-id="01872-159">Customer support</span></span>](customer-support.md)|<span data-ttu-id="01872-160">Fournir un support technique, de l’aide sur la facturation, gérer la remontée des problèmes et aider les utilisateurs à se prendre en charge</span><span class="sxs-lookup"><span data-stu-id="01872-160">Provide technical support, billing support, handle escalations, and help customers support themselves</span></span>|
-|[<span data-ttu-id="01872-161">Support de Microsoft</span><span class="sxs-lookup"><span data-stu-id="01872-161">Support from Microsoft</span></span>](support-from-microsoft.md)|<span data-ttu-id="01872-162">Signaler des problèmes concernant l'Espace partenaires, signaler des problèmes pour le compte d’un client</span><span class="sxs-lookup"><span data-stu-id="01872-162">Report issues with Partner Center, report issues on behalf of a customer</span></span>|
+<ul id="products3" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img class="x-hidden-focus" alt="" src="https://docs.microsoft.com/media/common/i_support.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Assistance</h3>
+                        <p>Explorer les ressources de support telles que le support technique des produits, les conversations instantanées, les forums, les formations, les blogs et yammer.<br /><br /><a href="/partner-center/customer-support">Prendre en charge vos clients</a><br /><a href="/partner-center/support-from-microsoft">Bénéficier du support Microsoft</a><br /><a href="https://partnercenter.microsoft.com/partner/support">Ressources supplémentaires</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
