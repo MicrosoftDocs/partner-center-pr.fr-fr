@@ -3,12 +3,12 @@ title: Découvrir les offres tierces que vous pouvez vendre | Espace partenaires
 description: Recherchez et trouvez les types d’offres tierces qui sont adaptés à votre portefeuille.
 author: labrenne
 keywords: offres tierces, logiciel à acheter, rechercher des tiers
-ms.openlocfilehash: d328ec6594d7cd71b373f7cbec3620951c6858df
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991693"
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204953"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Découvrir les offres tierces que vous pouvez vendre
 
@@ -31,7 +31,7 @@ Recherchez et trouvez les types d’offres tierces qui sont adaptés à votre po
 
 Pour obtenir plus de détails, sélectionnez un produit. Cela vous amène à la page de détails qui fournit des informations détaillées sur le produit, y compris ce qu’il fait, comment il fonctionne avec les produits Microsoft, comment former votre force de vente, ainsi que des conseils sur la création de campagnes marketing efficaces. 
 
-Vous trouverez un lien vers le site web de l’éditeur de logiciels indépendant, ses coordonnées et bien souvent une vidéo de démonstration du produit. 
+Vous trouverez également un lien vers le site web de l’éditeur de logiciels indépendant, ses coordonnées et bien souvent une vidéo de démonstration du produit. 
 
 ## <a name="add-the-product-to-your-portfolio"></a>Ajoutez le produit à votre portefeuille
 

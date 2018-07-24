@@ -1,52 +1,52 @@
 ---
 title: Adhésion au MicrosoftPartner Network | Espace partenaires
-description: Découvrez les avantages de l'adhésion au MicrosoftPartner Network.
+description: Découvrez les avantages d'un partenariat avec Microsoft.
 author: MaggiePucciEvans
-keywords: partenaire, partenariat, MPN, MicrosoftPartnerNetwork, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion
-ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: partenaire, partenariat, MPN, MicrosoftPartnerNetwork, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion, argent, or, compétences
+ms.openlocfilehash: 23ae139d9f03b74c71f1c64cc298a0600a65f4da
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207219"
 ---
 # <a name="partner-with-microsoft"></a>Devenir partenaire deMicrosoft
 
-## <a name="join-the-microsoft-partner-network"></a>Rejoindre MicrosoftPartnerNetwork
+Lorsque vous rejoignez un programme partenaire de Microsoft, vous intégrez une communauté internationale qui vous connecte à des relations, des informations, des outils, des ressources et des programmes dont vous avez besoin pour épater vos clients et stimuler la croissance de votre entreprise. 
 
-MicrosoftPartnerNetwork propose trois types d’adhésion. Chaque type offre un ensemble d’avantages pour vous aider à développer vos activités. À mesure que vous atteignez vos objectifs, participez au programme au niveau adapté aux besoins uniques de votre entreprise pour accéder à d’autres avantages et développer votre relation avec nous et d’autres partenaires dans le réseau.
+Voir [Pourquoi Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) pour plus d’informations sur les avantages d’un partenariat avec Microsoft. 
 
--   **Membre du réseau** Lorsque vous rejoignez le réseau à ce niveau gratuit de base, vous recevez un ensemble d’[avantages de droits d’utilisation interne principaux](https://partner.microsoft.com/membership/core-benefits) qui vous permettent de gagner du temps et de l’argent, tout en contribuant à renforcer vos capacités, à mieux servir vos clients et à créer des connexions afin de réaliser au mieux le potentiel de votre entreprise.
 
-    -   [En savoir plus sur MicrosoftPartnerNetwork](https://partner.microsoft.com/membership/how-it-works)
+## <a name="the-microsoft-partner-program-works-for-you"></a>Le programme de partenaires Microsoft est fait pour vous
 
-    -   [Rejoindre MicrosoftPartnerNetwork maintenant](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+MicrosoftPartnerNetwork propose trois niveaux d’adhésion. Chaque niveau propose un ensemble d’avantages pour vous aider à développer vos activités. À mesure que vous atteignez vos objectifs, participez au programme au niveau qui est adapté à vos besoins uniques pour accéder à d’autres avantages et développer votre relation avec nous et d’autres partenaires dans le réseau. 
 
--   **ActionPack** Achetez ActionPack, un abonnement annuel abordable, pour bénéficier d’autres avantages réseau, notamment l’accès aux outils de développement, au support, à la formation et aux logiciels. À ce niveau, vous pouvez améliorer votre expertise et développer de nouvelles compétences.
+Pour plus d’informations sur le réseau partenaire, consultez la [présentation de l’adhésion](https://partner.microsoft.com/membership) sur le [site du réseau partenaire](https://partner.microsoft.com). 
 
-    -   [En savoir plus sur MicrosoftActionPack](https://partner.microsoft.com/membership/action-pack)
+En savoir plus sur les niveaux d’adhésion et [les avantages des logiciels à droits d’utilisation interne](https://partner.microsoft.com/membership/internal-use-software) sur le [site du réseau partenaire](https://partner.microsoft.com). 
 
-    -   [S’abonner à MicrosoftActionPack maintenant](mpn-get-action-pack.md)
+### <a name="level-1---get-started-with-the-action-pack"></a>Niveau1 - Prise en main de ActionPack 
 
--   **Compétences** Prouvez votre expertise en solutions de qualité dans un ou plusieurs domaines d’activités spécialisés. Les compétences Microsoft sont conçues pour vous préparer à répondre aux besoins de vos clients et être reconnu par les clients potentiels. Rejoignez l’élite des partenaires Microsoft et démarquez-vous de vos homologues.
+Lorsque vous achetez un abonnement annuel à MicrosoftActionPack, vous avez accès à des outils de développement, de prise en charge, de formation et de logiciels qui peuvent vous aider à développer votre pratique de Microsoft un monde axé en priorité sur le Cloud. À ce niveau d'adhésion, vous pouvez améliorer votre expertise et développer de nouvelles compétences.
 
-    -   Obtenez des compétences de niveau Argent pour illustrer vos capacités, vos compétences et votre engagement continus
+Consultez l'article [Obtenir Action Pack](mpn-get-action-pack.md) pour en savoir plus sur un premier achat ou un renouvellement de cet avantage réservé au membre.  
 
-    -   Obtenez des compétences de niveau Or pour illustrer vos capacités d’exception dans le domaine d’une solution Microsoft spécifique
+>[!IMPORTANT]
+>D'ici la fin de l'année civile, nous allons transférer la gestion des abonnements ActionPack du PartnerMembershipCenter (PMC) au Tableau de bord du partenaire. Le renouvellement de votre abonnement à ActionPack peut varier d'ici là, alors veuillez lire attentivement les informations contenues dans l'article [Obtenir PackAction](mpn-get-action-pack.md).  
 
-    [En savoir plus sur l’acquisition de compétences Argent et Or](https://partner.microsoft.com/membership/competencies)
 
-   
-## <a name="get-started-with-the-partner-dashboard"></a>Prise en main du Tableau de bord du partenaire
+### <a name="level-2---take-the-next-step"></a>Niveau2 - Passez au niveau supérieur
 
-Pour faciliter le partenariat avec Microsoft et vous aider à gagner du temps et de l’argent, nous travaillons en arrière-plan pour rassembler les fonctionnalités et les flux de travail qui sont actuellement disséminés sur plusieurs sites Web et dans divers outils au sein du Tableau de bord du partenaire, c’est-à-dire ce site. 
+Obtenez des **Compétences de niveau «argent»** pour présenter vos connaissances spécialisées, vos compétences et votre réflexion stratégique. 
+    
+Prouvez votre expertise en solutions de qualité dans un ou plusieurs domaines d’activités spécialisés. Les compétences Microsoft sont conçues pour vous préparer à répondre aux besoins de vos clients et être reconnu par les clients potentiels. 
 
-À mesure que nous déplaçons des fonctionnalités spécifiques vers le Tableau de bord du partenaire, nous mettons hors service les anciens sites qui les hébergeaient. Pour continuer à exploiter ces fonctionnalités, vous devez créer un compte sur ce site, le Tableau de bord du partenaire. 
+[En savoir plus sur l’acquisition de compétences Argent](https://partner.microsoft.com/membership/competencies)
 
-Par exemple, si vous obteniez et gériez des références dans Pinpoint, sachez que ce site a été mis hors service et que toutes les fonctionnalités liées aux références se trouvent désormais dans le Tableau de bord du partenaire. Suivez les étapes suivantes pour commencer à utiliser le Tableau de bord du partenaire:   
 
--   [Créer un compte Tableau de bord du partenaire](mpn-create-a-partner-center-account.md)
+### <a name="level-3---join-the-elite-tier"></a>Niveau3 - Rejoignez le niveau d'élite
 
--   [Créer un profil commercial pour obtenir des références de client](create-a-marketing-profile.md)
+Obtenez des **Compétences de niveau «or»** pour présenter la fonctionnalité la plus élevée et la plus spécialisée qui puisse répondre aux besoins des clients. 
 
--   [Gérer les avantages de votre adhésion à MicrosoftPartnerNetwork](manage-your-partner-network-benefits.md)
+[En savoir plus sur l’acquisition de compétences Or](https://partner.microsoft.com/membership/competencies)
 

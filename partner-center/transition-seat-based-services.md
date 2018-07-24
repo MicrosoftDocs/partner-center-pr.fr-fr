@@ -1,12 +1,13 @@
 ---
-title: "Transfert des clients des services basés sur les licences vers le programme Fournisseur de solutionsCloud sur l'Espace partenaires | Espace partenaires"
-description: "Vous ne pouvez pas transférer automatiquement des clients et leurs abonnements vers l'Espace partenaires, mais vous pouvez les déplacer manuellement."
+title: Transfert des clients des services basés sur les licences vers le programme Fournisseur de solutionsCloud sur l'Espace partenaires | Espace partenaires
+description: Vous ne pouvez pas transférer automatiquement des clients et leurs abonnements vers l'Espace partenaires, mais vous pouvez les déplacer manuellement.
 author: labrenne
-ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+ms.openlocfilehash: 1ba04bf90b03dd3b900caa1a3bf92a32c0dc8b54
+ms.sourcegitcommit: 8863a4d62d4523bcd16ab3c010b24e97656081e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "2093456"
 ---
 # <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>Transfert des clients des services basés sur les licences vers le programme Fournisseur de solutionsCloud sur l'Espace partenaires
 
@@ -14,7 +15,7 @@ ms.lasthandoff: 02/09/2018
 
 -  Espace partenaires
 
-Actuellement dans l'Espace partenaires, vous ne pouvez pas transférer automatiquement vos clients et leurs abonnements d'un programme de licences à un autre. Vous pouvez, toutefois, déplacer manuellement les clients un par un à l’aide des fonctionnalités multicanal et multipartenaire de l’Espace partenaires. En savoir plus sur les [fonctionnalités multicanal et multipartenaire du programme CSP](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871). 
+Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonnements à un autre partenaire ou gérer les abonnements qu'il a achetés ailleurs, vous pouvez les déplacer manuellement.
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Transfert des abonnements basés sur les licences de vos clients vers le programme Fournisseur de solutionsCloud
 
@@ -27,4 +28,6 @@ Actuellement dans l'Espace partenaires, vous ne pouvez pas transférer automatiq
 4. Le client continuera alors en utilisant les abonnements que vous avez configurés, sans interruption.
 
 Si vous configurez des offres identiques à celles que votre client utilisait jusqu'à présent, il est inutile de réaffecter les licences et il n’y aura aucune interruption pour les utilisateurs finaux. Si vous faites passer le client à une offre différente, vous devez mettre à jour son attribution des licences.
+
+## <a name="multi-channel-support"></a>Prise en charge de plusieurs canaux
 

@@ -4,11 +4,12 @@ description: Un client peut changer de partenaire dans le programme Fournisseur 
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
-ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
-ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
+ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2018
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088956"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transférer des abonnements Azure 
 
@@ -50,8 +51,8 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
 
     -   L'ID d'abonnement à transférer. Dans la page de description développée du client, sélectionnez **Afficher les abonnements**, puis développez l'abonnement choisi pour voir son **ID d'abonnement**.
 
-    >**Remarque**<br> Le transfert d’un abonnement entraîne la création de deux ID d'abonnement, visibles sur la page **Modifier un abonnement** de l’abonnement transféré: **1**- L’ID d’abonnement associé à l'Espace partenaires est utilisé pour la facturation. Cet ID apparaîtra dans votre fichier de rapprochement. 
-    **2**- L'ID d’abonnement Azure original est conservé et apparaîtra dans l'Espace partenaires, ainsi que dans le portail de gestion Azure. **Vous devez utiliser les deux ID pour toute soumission de ticket de support.**
+    >**Remarque**<br> Le transfert d’un abonnement entraîne la création de deux ID d'abonnement, visibles sur la page **Modifier un abonnement** de l’abonnement transféré: **1**- L’ID d’abonnement associé à l'Espace partenaires est utilisé pour la facturation. 
+    **2**- L'ID d’abonnement Azure original est conservé et apparaîtra dans l'Espace partenaires, ainsi que dans le portail de gestion Azure. Cet ID apparaîtra dans votre fichier de rapprochement.  **Vous devez utiliser les deux ID pour toute soumission de ticket de support.**
 
 4.  Le client et le nouveau partenaire de l'abonnement:
 

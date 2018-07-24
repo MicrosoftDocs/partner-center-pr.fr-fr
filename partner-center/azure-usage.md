@@ -3,11 +3,12 @@ title: Dimensionnement d’une machine virtuelle MicrosoftAzure pour l’utilisa
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, réservations, machines virtuelles, gérer, utilisation, dimensionnement
-ms.openlocfilehash: 4050780f9d3dc3ad7d3c4ece0d363845ec1efe9c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1883100"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement d’une machine virtuelle Microsoft Azure en vue d'une utilisation optimale de la réservation 
 
@@ -119,7 +120,7 @@ Vous pouvez obtenir les données d’utilisation de la réservation avec l’API
 -   consumptionMeter correspond à l'identifiant MeterId auquel la remise de réservation est appliquée.
 -   Le ReservationMeter affiche un coût de 0$ dans la mesure où la remise de réservation a été appliquée. 
 
-Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’un client pour Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) dans l'[API du tableau de bord des partenaires](https://docs.microsoft.com/partner-center/develop/).
+Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’un client pour Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) dans l'[API de l'Espace partenaires](https://docs.microsoft.com/partner-center/develop/).
 
 >[!IMPORTANT]
 >Les coûts associés aux logiciels, tels que MicrosoftWindows Server, ne sont pas actuellement inclus dans le prix d’une réservation de machine virtuelle et apparaîtront dans des postes distincts dans le dossier de commande et sur votre facture. Toutefois, si un client a souscrit au programme Azure Hybrid Use Benefit, les coûts de logiciel ne seront pas appliqués. Pour en savoir plus, consultez [Coûts des logiciels Windows non inclus avec les instances réservées](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  
@@ -127,7 +128,7 @@ Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’
 ## <a name="azure-reservations-resources"></a>Réservations de ressources Azure
 |**Pour plus d’informations sur**   |**Lisez**    |
 |:-----------------------------|:-----------------|
-|Les réservation Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre les MicrosoftAzure Reserved VM Instances](azure-reservations.md)
+|Les réservation Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Commercialiser les MicrosoftAzure Reserved VM Instances](azure-reservations.md)
 |Achat de réservations Azure pour vos clients dans votre Tableau de bord des partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md)
 |Facturation des réservations Azure   |[Facturation des réservations Azure](azure-reservations-billing.md)   |
 | Gestion des réservations Azure dans votre Tableau de bord des partenaires | [Gestion des réservations Azure dans votre Tableau de bord des partenaires](azure-reservations-manage.md)

@@ -1,12 +1,13 @@
 ---
 title: Supprimer une relation de revendeur avec un client | Espace partenaires
-description: "La suppression d’une relation supprime toutes les relations commerciales clôturées de votre affichage dans l'Espace partenaires."
+description: La suppression d’une relation supprime toutes les relations commerciales clôturées de votre affichage dans l'Espace partenaires.
 author: KPacquer
-ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
-ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
+ms.openlocfilehash: eb48bb660fbd6acac91426eff5c0b9f4c8c45729
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088966"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Supprimer une relation de revendeur avec un client
 
@@ -22,7 +23,7 @@ Cette fonctionnalité:
 *  supprime vos privilèges d’administration de la délégation pour le client;
 *  supprime la possibilité d’effectuer des achats pour le compte du client.
 
-Pour supprimer la relation, vous devez d’abord suspendre les abonnements actifs restants:
+Pour supprimer la relation, vous devez tout d'abord annuler les réservations RI Azure, annuler les achats de logiciels et suspendre les abonnements actifs restants:
 
 1.  Suspendez les abonnements actifs. À partir du tableau de bord, accédez à **Clients** > sélectionnez un client > **Abonnements** > sélectionnez un abonnement > **Suspendu**. 
 

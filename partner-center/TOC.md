@@ -4,7 +4,7 @@
 ## [Obtenir le MicrosoftAction Pack](mpn-get-action-pack.md)
 ## [Obtenir les niveaux d'adhésion Argent ou Or](learn-about-competencies.md)
 ## [Obtenir les avantages de votre adhésion](manage-your-partner-network-benefits.md)
-## [Renouveler vos offres MPN](renew-mpn-offers.md)
+
 
 
 # [Fournisseur de solutions Cloud](csp-overview.md)
@@ -71,14 +71,17 @@
 ### [Passer des clients des services basés sur les licences vers le programme Fournisseur de services Cloud](transition-seat-based-services.md)
 ### [Mettre à niveau des abonnements DynamicsAX vers Dynamics365](manual-subscription-migration.md)
 ### [Migrer des abonnements Office365 Entreprise E4 vers les nouvelles versions d’Office365](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [Migration de Skype Entreprise Online (Plan 1) vers des versions plus récentes de MicrosoftOffice365](skype-retiring.md)
 ### [Transférer des abonnements Azure](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Vendre des abonnements Minecraft: Education Edition](minecraft-subscriptions.md)
+### [Vendre aux secteurs spécialisés](Get-special-pricing-for-offers.md)
 ### [Augmenter l’adoption et la satisfaction client](increasing-adoption-and-satisfaction.md)
 ### [Simplifier l’installation d’appareils avec WindowsAutopilot](autopilot.md)
 
 # Données et analyses du Tableau de bord du partenaire
 ## [Obtenir et analyser vos données d'entreprise](data-analysis-lp.md)
 ## [Application Analyse du partenaire pour Microsoft PowerBI](power-bi-app-for-direct-partners.md)
+## [Comparer votre activité de fournisseur de solutions Cloud à celle d’autres partenaires](partner-contributions.md)
 
 # [Collaborer avec d’autres partenaires](work-with-other-partners.md)
 ## [Tâches des fournisseurs indirects dans le Tableau de bord du partenaire](indirect-provider-tasks-in-partner-center.md)

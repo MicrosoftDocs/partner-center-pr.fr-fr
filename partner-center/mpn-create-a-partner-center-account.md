@@ -2,11 +2,12 @@
 title: Créer un compte Espace partenaires | Espace partenaires
 description: Les membres du MicrosoftPartner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 27b0915cdd199e479371864dfba2879eadeaea0d
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207269"
 ---
 # <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 
@@ -76,6 +77,6 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 
 -   [Gérer les avantages de votre adhésion](manage-your-partner-network-benefits.md)
 
--   [En savoir plus sur les compétences requises pour le niveau d'adhésion Or ou Argent](learn-about-competencies.md)
+-   [En savoir plus sur les compétences requises pour le niveau d'adhésion Or ou Argent](https://partner.microsoft.com/membership/competencies)
 
 -   [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)

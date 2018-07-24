@@ -3,11 +3,12 @@ title: Préparation de la transition entre le Centre d'administration des parten
 description: Les fonctionnalités du Centre d'administration des partenaires Office365 sont transférées sur l'Espace partenaires.
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: 5167ed6c6f29cccc5d9bee41c7cd7b97e9d90257
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1911293"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>Le Centre d'administration des partenaires est transféré sur le Tableau de bord du partenaire
 
@@ -27,7 +28,7 @@ Au cours du mois d'avril2018, le Centre d'administration des partenaires sera mi
 
 **Partenaires du programme Fournisseur de solutions Cloud** Si vous êtes un partenaire fournisseur de solutions Cloud, vous serez automatiquement redirigé vers le Tableau de bord du partenaire à partir d'avril2018. 
 
-**Partenaires conseillers** Si vous êtes un partenaire conseiller, vous serez automatiquement redirigé vers le Tableau de bord du partenaire au cours du mois de mai2018.
+**Partenaires conseillers** (si vous n'effectuez pas de transactions par l'intermédiaire du fournisseur de solutions Cloud et que vous utilisez le Centre d'administration des partenaires (PAC) pour fournir des versions d'évaluation/devis à vos clients) Dès que nous aurons décidé de la chronologie de votre redirection automatique vers l'Espace partenaires, nous l'annoncerons ici. 
 
 
 ## <a name="start-using-the-microsoft-partner-dashboard-now"></a>Commencez à utiliser le Tableau de bord du partenaire Microsoft dès à présent!
