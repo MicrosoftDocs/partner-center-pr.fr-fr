@@ -1,38 +1,47 @@
 ---
-title: "Compétence Gestion de projets et de portefeuilles"
-description: "La compétence Gestion de projets et de portefeuilles reconnaît les partenaires capables de fournir à leurs clients des solutions de gestion de projets d’entreprise."
+title: Compétence Gestion de projets et de portefeuilles
+description: La compétence Gestion de projets et de portefeuilles reconnaît les partenaires capables de fournir à leurs clients des solutions de gestion de projets d’entreprise.
 author: Daniel Simpson
-keywords: "compétence, compétences"
-ms.openlocfilehash: 489825fd6d16c8fa275fdc89691bb9f5ebb4f83b
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: compétence, compétences
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 8006e86ce2c5b0e4b9c9c4383d14976efc2b46cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876029"
 ---
-# <a name="project-and-portfolio-management"></a><span data-ttu-id="453d2-104">Gestion de projets et de portefeuilles</span><span class="sxs-lookup"><span data-stu-id="453d2-104">Project and Portfolio Management</span></span> 
-<span data-ttu-id="453d2-105">La compétence Gestion de projets et de portefeuilles reconnaît les partenaires capables de fournir à leurs clients des solutions de gestion de projets d’entreprise.</span><span class="sxs-lookup"><span data-stu-id="453d2-105">The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="548d3-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="548d3-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-## <a name="project-and-portfolio-partner-option"></a><span data-ttu-id="453d2-106">Option Partenaire de projets et de portefeuilles</span><span class="sxs-lookup"><span data-stu-id="453d2-106">Project and Portfolio Partner option</span></span>
-<span data-ttu-id="453d2-107">L’option Partenaire de projets et de portefeuilles est idéale pour les partenaires qui fournissent des solutions de gestion de projets et de portefeuilles aux entreprises sur site et dans le cloud.</span><span class="sxs-lookup"><span data-stu-id="453d2-107">The Project and Portfolio Partner Option is ideal for partners that deliver enterprise-wide project and portfolio management in both on-premises and cloud environments.</span></span> <span data-ttu-id="453d2-108">Effectuez toutes les étapes correspondantes pour acquérir la compétence Gestion de projets et de portefeuilles.</span><span class="sxs-lookup"><span data-stu-id="453d2-108">Complete all the steps within the option to attain the Project and Portfolio Management competency.</span></span>
+<!--
 
-###<a name="silver"></a><span data-ttu-id="453d2-109">Argent</span><span class="sxs-lookup"><span data-stu-id="453d2-109">Silver</span></span>
-1. <span data-ttu-id="453d2-110">**2** personnes de votre entreprise doivent satisfaire aux exigences d’examens.</span><span class="sxs-lookup"><span data-stu-id="453d2-110">Your organization must have **2** individuals pass the exam requirements.</span></span>
+# Project and Portfolio Management 
+The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
 
-    - <span data-ttu-id="453d2-111">**2** personnes doivent chacune réussir tous les examens suivants:</span><span class="sxs-lookup"><span data-stu-id="453d2-111">**2** individuals must each pass all the following exams:</span></span>
+## Project and Portfolio Partner option
+The Project and Portfolio Partner Option is ideal for partners that deliver enterprise-wide project and portfolio management in both on-premises and cloud environments. Complete all the steps within the option to attain the Project and Portfolio Management competency.
 
-        * <span data-ttu-id="453d2-112">[74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Gestion de projets avec MicrosoftProject</span><span class="sxs-lookup"><span data-stu-id="453d2-112">[74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project</span></span>
-        * <span data-ttu-id="453d2-113">[70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Gestion de projets et de portefeuilles avec MicrosoftPPM</span><span class="sxs-lookup"><span data-stu-id="453d2-113">[70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM</span></span>
+###Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-###<a name="gold"></a><span data-ttu-id="453d2-114">Or</span><span class="sxs-lookup"><span data-stu-id="453d2-114">Gold</span></span>
-1. <span data-ttu-id="453d2-115">**4** personnes de votre entreprise doivent satisfaire aux exigences d’examens.</span><span class="sxs-lookup"><span data-stu-id="453d2-115">Your organization must have **4** individuals pass the exam requirements.</span></span>
+    - **2** individuals must each pass all the following exams:
 
-    - <span data-ttu-id="453d2-116">**4** personnes doivent chacune réussir tous les examens suivants:</span><span class="sxs-lookup"><span data-stu-id="453d2-116">**4** individuals must each pass all the following exams:</span></span>
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-        * <span data-ttu-id="453d2-117">[74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Gestion de projets avec MicrosoftProject</span><span class="sxs-lookup"><span data-stu-id="453d2-117">[74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project</span></span>
-        * <span data-ttu-id="453d2-118">[70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Gestion de projets et de portefeuilles avec MicrosoftPPM</span><span class="sxs-lookup"><span data-stu-id="453d2-118">[70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM</span></span>
+###Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    **<span data-ttu-id="453d2-119">ET</span><span class="sxs-lookup"><span data-stu-id="453d2-119">AND</span></span>** 
+    - **4** individuals must each pass all the following exams:
 
-    - <span data-ttu-id="453d2-120">**2** de ces mêmes **4** personnes doivent chacune réussir l’examen suivant:</span><span class="sxs-lookup"><span data-stu-id="453d2-120">**2** of the same **4** individuals must each pass the following exam:</span></span>
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-        *  <span data-ttu-id="453d2-121">[70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Gestion de MicrosoftSharePoint Server2016</span><span class="sxs-lookup"><span data-stu-id="453d2-121">[70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016</span></span>
+    **AND** 
+
+    - **2** of the same **4** individuals must each pass the following exam:
+
+        *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+-->

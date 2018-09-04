@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: Commencez par chercher de l'aide ici, dans le Tableau de bord du partenaire
-description: Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez toutes les réponses dans la Bibliothèque d’aide du Tableau de bord du partenaire.
+description: Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez toutes les réponses de cette bibliothèque d’aide du tableau de bord créée spécifiquement pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919899"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876369"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>Commencez par chercher de l'aide ici, dans le tableau de bord de l'Espace partenaires
+# <a name="start-here-for-help-with-partner-dashboard"></a>Commencez par chercher de l'aide ici, dans le Tableau de bord du partenaire
 
-Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez toutes les réponses dans la Bibliothèque d’aide du tableau de bord de l'Espace partenaires.
+Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez toutes les réponses de cette bibliothèque d’aide du tableau de bord créée spécifiquement pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN.
 
 Si vous connaissez déjà le tableau de bord, découvrez les [Nouveautés](/partner-center/whats-new-in-pc).
 
