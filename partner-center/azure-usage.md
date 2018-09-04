@@ -1,20 +1,21 @@
 ---
-title: Dimensionnement d’une machine virtuelle MicrosoftAzure pour l’utilisation maximale de réservation | Tableau de bord des partenaires
+title: Dimensionnement d’une machine virtuelle Microsoft Azure pour une utilisation maximale de réservation | Tableau de bord du partenaire
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, réservations, machines virtuelles, gérer, utilisation, dimensionnement
-ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bb7d022ba45462db313a9f4e16cc47e4550dbef6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1883100"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875779"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement d’une machine virtuelle Microsoft Azure en vue d'une utilisation optimale de la réservation 
 
 **S'applique à**
 
--  Tableau de bord des partenaires
+-  Tableau de bord du partenaire
 -  PortailAzure
 -  Partenaires fournisseurs de solutions Cloud
 
@@ -40,11 +41,11 @@ Les instructions propres à ces méthodes sont énoncées ci-dessous. Une fois q
 
 1.  Utilisez la valeur de l’attribut ServiceType indiquée dans additionalInfo dans la réponse de l’API pour identifier la taille de la machine virtuelle à acheter. 
 
-2.  Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’un client pour Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) dans l'[API du tableau de bord des partenaires](https://docs.microsoft.com/partner-center/develop/). 
+2.  Pour plus d’informations, consultez [obtenir les enregistrements de l’utilisation d’un client pour Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) dans le [tableau de bord du partenaire API](https://docs.microsoft.com/partner-center/develop/). 
 
 **Obtenir des informations sur le dimensionnement des machines virtuelles à l’aide du portail Microsoft Azure**
 
-1.  Dans votre tableau de bord des partenaires, accédez à votre page **Clients**.
+1.  Dans votre tableau de bord du partenaire, accédez à votre page **clients** .
 
 2.  Recherchez le client qui souhaite acheter des réservations de machines virtuelles Azure, puis sélectionnez la flèche allant vers le bas pour afficher les informations le concernant. Sélectionnez **Portail de gestion MicrosoftAzure** pour ouvrir le dossier du client dans le portail Azure. 
 
@@ -88,7 +89,7 @@ Les instructions propres à ces méthodes sont énoncées ci-dessous.
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Vérifier l’utilisation de la réservation du client dans le portail MicrosoftAzure
 
-1.  Dans votre tableau de bord des partenaires, accédez à votre page **Clients**.
+1.  Dans votre tableau de bord du partenaire, accédez à votre page **clients** .
 
 2.  Recherchez le client dont vous souhaitez vérifier la remise de réservation et l'utilisation, puis sélectionnez la flèche allant vers le bas pour afficher les informations le concernant. Sélectionnez **Portail de gestion MicrosoftAzure** pour ouvrir le dossier du client dans le portail Azure. 
 
@@ -129,12 +130,11 @@ Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’
 |**Pour plus d’informations sur**   |**Lisez**    |
 |:-----------------------------|:-----------------|
 |Les réservation Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Commercialiser les MicrosoftAzure Reserved VM Instances](azure-reservations.md)
-|Achat de réservations Azure pour vos clients dans votre Tableau de bord des partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md)
-|Facturation des réservations Azure   |[Facturation des réservations Azure](azure-reservations-billing.md)   |
-| Gestion des réservations Azure dans votre Tableau de bord des partenaires | [Gestion des réservations Azure dans votre Tableau de bord des partenaires](azure-reservations-manage.md)
+|Achat de réservations Azure pour vos clients dans votre tableau de bord du partenaire   |[Acheter des réservations Azure](azure-reservations-buying.md)
+| Gestion des réservations Azure dans votre tableau de bord du partenaire | [Gestion des réservations Azure dans votre tableau de bord du partenaire](azure-reservations-manage.md)
 |Achat de réservations Azure dans le portail Azure | [Prépaiement des machines virtuelles avec Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) dans l’aide d’Azure |
 |Gestion des réservations Azure dans le portail Azure   |[Gérer les instances de machines virtuelles réservées](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) dans l’aide d’Azure  |
-|Achat de réservations Azure à l’aide de l'API de l'Espace partenaires | [Acheter Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) dans la documentation pour développeurs Espace partenaires
+|Achat de réservations Azure à l’aide de l'API de l'Espace partenaires | [Acheter Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation pour développeurs Espace partenaires
 
 
 

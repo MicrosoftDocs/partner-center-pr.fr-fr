@@ -1,90 +1,98 @@
 ---
-title: "Compétence Gestion de la relation client dans le cloud"
-description: "Établissez votre réputation de fournisseur incontournable de MicrosoftDynamicsCRMOnline ou Dynamics365 en obtenant la compétence Gestion de la relation client dans le cloud."
+title: Compétence Gestion de la relation client dans le cloud
+description: Établissez votre réputation de fournisseur incontournable de MicrosoftDynamicsCRMOnline ou Dynamics365 en obtenant la compétence Gestion de la relation client dans le cloud.
 author: Daniel Simpson
-keywords: "compétence, compétences, Gestion de la relation client dans le cloud"
-ms.openlocfilehash: 42d2080f953d336687de355acd17f639fff23990
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: compétence, compétences, Gestion de la relation client dans le cloud
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 1621089b2baecbe8b850bf48c1940e7566078f6f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874819"
 ---
-#<a name="cloud-customer-relationship-management"></a>Gestion de la relation client dans le cloud
-Établissez votre réputation de fournisseur incontournable de MicrosoftDynamicsCRMOnline ou Dynamics365 en obtenant la compétence Gestion de la relation client dans le cloud.
+>[!IMPORTANT]
+>Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="cloud-crm-reseller-option"></a>Option Revendeur CRM pour le cloud
+<!--
+#Cloud Customer Relationship Management
+Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
 
-L’option Gestion de la relation client dans le cloud est idéale pour les partenaires qui souhaitent prouver leurs compétences en atteignant les seuils de chiffre d’affaires fixés et en satisfaisant aux exigences d’examens. 
+##Cloud CRM Reseller option
 
-###<a name="silver"></a>Argent
+The Cloud Customer Relationship Management option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. 
 
-1. Votre entreprise doit se conformer aux seuils de performance.
+###Silver
 
-    - **Marchés développés**
-        - Le partenaire doit avoir gagné au moins 100000USD de recettes sur le cloud avec CRMOnline ou Dynamics365 Customer Engagement (anciennement Plan1) - Nouvelles recettes nettes sur les douze derniers mois
+1. Your organization must meet the performance thresholds.
 
-    - **Marchés en développement**
-        - Le partenaire doit avoir gagné au moins 100000USD de recettes sur le cloud avec CRMOnline ou Dynamics365 Customer Engagement (anciennement Plan1) - Nouvelles recettes nettes sur les douze derniers mois
+    - **Developed Markets**
+        - Partner must have earned at least US$100,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period
 
-    - Pour ces clients, vous devez être associé en tant que Partenaire de référence numérique.
-    - [En savoir plus](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sur ces associations.  
+    - **Developing Markets**
+        - Partner must have earned at least US$50,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period
+
+    - For these customers, you must be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. Au moins **2**personnes de votre entreprise doivent satisfaire aux exigences d’examens.
+2. Your organization must have at least **2** individuals pass the exam requirements.
 
-    - **1** personne doit réussir l’un des examens suivants:
-        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Service clientèle DynamicsCRM
-        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Ventes MicrosoftDynamics CRM2016
+    - **1** individual must pass one of the following exams:
+        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
+        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
         - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
-        - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): MicrosoftDynamics365 for Sales
-        - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): MicrosoftDynamics365 for Customer Service
-        - MB2-877: MicrosoftDynamics365 for Field Service (disponible en janvier2018)
+        - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
+        - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
+        - MB2-877: Microsoft Dynamics 365 for Field Service (Available January 2018)
 
-    - Les mêmes personnes doivent également réussir l’un des examens suivants:
-        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Déploiement de MicrosoftDynamicsCRMOnline (2015)
-        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Déploiement de MicrosoftDynamicsCRMOnline
-        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Déploiement en ligne d’engagement client MicrosoftDynamics365
+    - The same individual also must pass one of the following exams:
+        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
         
-    - L’autre personne doit réussir l’un des examens suivants:
-        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Personnalisation et configuration de MicrosoftDynamicsCRM2016
-        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Personnalisation et configuration de MicrosoftDynamicsCRM
-        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Personnalisation et configuration de MicrosoftDynamics365
+    - The other individual must pass one of the following exams:
+        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
 
-\ * Retrait le 31décembre2017. Cet examen continuera d’être accepté pour la qualification de compétence jusqu’au 31décembre2018. 
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. 
 
-###<a name="gold"></a>Or
+###Gold
 
-1. Votre entreprise doit se conformer aux seuils de performance.
+1. Your organization must meet the performance thresholds.
 
-    - **Marchés développés**
+    - **Developed Markets**
     
-        - Le partenaire doit avoir gagné au moins 100000USD de recettes sur le cloud avec CRMOnline ou Dynamics365 Customer Engagement (anciennement Plan1) - Nouvelles recettes nettes sur les douze derniers mois
+        - Partner must have earned at least US$300,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period.
      
-    - **Marchés en développement**
+    - **Developing Markets**
 
-        - Le partenaire doit avoir gagné au moins 100000USD de recettes sur le cloud avec CRMOnline ou Dynamics365 Customer Engagement (anciennement Plan1) - Nouvelles recettes nettes sur les douze derniers mois
+        - Partner must have earned at least US$150,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period.
 
-    - Pour ces clients, vous devez être associé en tant que Partenaire de référence numérique.
-    - [En savoir plus](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sur ces associations.  
+    - For these customers, you must be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
 
 
-2. Au moins **4**personnes de votre entreprise doivent satisfaire aux exigences d’examens.
+2. Your organization must have at least **4** individuals pass the exam requirements.
 
-    - **2** personnes doivent chacune réussir l’un des examens suivants:
-        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Service clientèle DynamicsCRM
-        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Ventes MicrosoftDynamics CRM2016
+    - **2** individuals must each pass one of the following exams:
+        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
+        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
         - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
-        - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): MicrosoftDynamics365 for Sales
-        - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): MicrosoftDynamics365 for Customer Service
-        - MB2-877: MicrosoftDynamics365 for Field Service (disponible en janvier2018)
+        - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
+        - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
+        - MB2-877: Microsoft Dynamics 365 for Field Service (Available January 2018)
         
-        - Les mêmes **2** personnes doivent également réussir chacune l’un des examens suivants:
-        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Déploiement de MicrosoftDynamicsCRMOnline (2015)
-        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Déploiement de MicrosoftDynamicsCRMOnline
-        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Déploiement en ligne d’engagement client MicrosoftDynamics365
+        - The same **2** individuals also must each pass one of the following exams:
+        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
 
-    - Les **2** autres personnes doivent chacune réussir l’un des examens suivants:
-        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Personnalisation et configuration de MicrosoftDynamicsCRM2016
-        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Personnalisation et configuration de MicrosoftDynamicsCRM365
-        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Personnalisation et configuration de MicrosoftDynamics365
+    - The other **2** individuals must each pass one of the following exams:
+        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
 
-\ * Retrait le 31décembre2017. Cet examen continuera d’être accepté pour la qualification de compétence jusqu’au 31décembre2018. 
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. 
+-->

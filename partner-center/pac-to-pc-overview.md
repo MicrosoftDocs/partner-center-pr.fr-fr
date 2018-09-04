@@ -3,12 +3,13 @@ title: Préparation de la transition entre le Centre d'administration des parten
 description: Les fonctionnalités du Centre d'administration des partenaires Office365 sont transférées sur l'Espace partenaires.
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0d60be7349754a7200a0b8d9762a37a940e0eebb
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1911293"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875589"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>Le Centre d'administration des partenaires est transféré sur le Tableau de bord du partenaire
 

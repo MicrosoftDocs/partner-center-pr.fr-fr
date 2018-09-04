@@ -1,13 +1,15 @@
 ---
-title: "Compétences Microsoft requises pour le niveau d'adhésion Or ou Argent | Espace partenaires"
-description: "Découvrez les compétences requises pour obtenir les niveaux d'adhésion Or ou Argent."
+title: Compétences Microsoft requises pour le niveau d'adhésion Or ou Argent | Espace partenaires
+description: Découvrez les compétences requises pour obtenir les niveaux d'adhésion Or ou Argent.
 author: Maggiepuccievans
-keywords: "compétences, adhésion argent, adhésion or, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau"
-ms.openlocfilehash: a922e579706b1c859ee6e645f814feaa7dd0d2e3
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
-ms.translationtype: HT
+keywords: compétences, adhésion argent, adhésion or, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau
+ms.localizationpriority: medium
+ms.openlocfilehash: 705a9037282a77d33dd356e8d49fe855b5521a9a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875729"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Compétences Microsoft requises pour le niveau d'adhésion Or et Argent
 

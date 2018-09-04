@@ -1,14 +1,16 @@
 ---
-title: "Défaut de paiement, fraude ou mauvaise utilisation | Espace partenaires"
-description: "Stratégies de gestion des risques de transaction en ligne, y compris le défaut de paiement de biens et de services par des clients et les mauvaises utilisations ou activités frauduleuses"
+title: Défaut de paiement, fraude ou mauvaise utilisation | Espace partenaires
+description: Stratégies de gestion des risques de transaction en ligne, y compris le défaut de paiement de biens et de services par des clients et les mauvaises utilisations ou activités frauduleuses
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: "fraude, mauvaise utilisation, utilisation acceptable, règles de bon usage, défaut de paiement, le client ne pas paye pas la facture, risque en ligne, vol de service, abus du service, suspendre un abonnement,"
+keywords: fraude, mauvaise utilisation, utilisation acceptable, règles de bon usage, défaut de paiement, le client ne pas paye pas la facture, risque en ligne, vol de service, abus du service, suspendre un abonnement,
 author: MaggiePucciEvans
-ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876279"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Défaut de paiement, fraude ou mauvaise utilisation
 

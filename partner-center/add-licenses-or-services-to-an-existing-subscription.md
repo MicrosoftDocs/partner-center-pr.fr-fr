@@ -4,11 +4,13 @@ description: Si votre client a besoin de davantage de licences que dans son abon
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d'abonnement, acheter des licences supplémentaires pour un client
-ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874869"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
 

@@ -2,15 +2,17 @@
 title: S'inscrire au programme Fournisseur de solutions Cloud | Espace partenaires
 description: Comprendre les différents modèles de vente dans le programme Fournisseur de solutions Cloud et déterminer celui qui convient le mieux à votre entreprise.
 author: labrenne
-ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
-ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 609ef0bd1e280e41cd74088b8a42ffe7771d5ef9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/26/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876399"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>S'inscrire au programme Fournisseur de solutions Cloud
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
-**S'applique à**---
+**S'applique à**
 
 -  Espace partenaires
 
@@ -21,7 +23,7 @@ Pour vous inscrire au programme Fournisseur de solutions Cloud, vous devez tout 
 
 Lorsque vous complétez la demande d'inscription au programme Fournisseur de solutions Cloud, vous devez fournir votre ID MPN, votre adresse professionnelle complète, vos informations bancaires et l'adresse e-mail professionnelle de la personne qui aura le rôle d'administrateur pour le Tableau de bord du partenaire.
 
-Choisissez le [modèle Fournisseur de solutions Cloud qui convient](http://partner-l1.microsoft.com/cloud-solution-provider-direct-or-indirect.html?ocid=cx-pcprograms-cspprogram-tellusmorebusiness) à votre entreprise et terminez l'inscription. 
+Choisissez le [modèle Fournisseur de solutions Cloud qui convient](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) à votre entreprise et terminez l'inscription. 
 
 Il peut nous falloir plusieurs jours pour examiner et vérifier les informations que vous avez fournies. Nous vous enverrons un e-mail lorsque nous en aurons terminé.
 
@@ -38,9 +40,7 @@ Il peut nous falloir plusieurs jours pour examiner et vérifier les informations
 
 4. L'employé auquel est attribué le rôle d'administrateur de profil commercial doit configurer votre profil commercial pour vous permettre de recevoir des références des clients.
 
-### <a name="enroll-as-a-direct-partner"></a>S'inscrire en tant que partenaire direct
-
->**Note**<br> Nous sommes en cours de mise à jour des conditions d'inscription de nos partenaires directs et n'acceptons actuellement pas de nouvelles candidatures. Nous prévoyons de rouvrir le processus de candidature à compter du 31août. Envisagez de vous inscrire comme revendeur indirect. 
+### <a name="enroll-as-a-direct-partner"></a>S’inscrire en tant que partenaire direct
 
 En tant que partenaire direct, vous avez une relation de bout en bout avec votre client et Microsoft.
 
@@ -48,7 +48,23 @@ En tant que partenaire direct, vous avez une relation de bout en bout avec votre
 
 - Si vous collaboriez avec des clients qui souhaitent poursuivre la collaboration par le biais du Tableau de bord du partenaire, vous devez [les associer](request-a-relationship-with-a-customer.md) à votre compte dans le Tableau de bord du partenaire.  Microsoft peut ensuite associer votre facturation à ces derniers. 
 
-| Disponibilité par marché |
+>**Remarque**<br> Les conditions requises pour devenir un partenaire direct ont été modifiées récemment et prendront effet à compter du 31 août 2018. Les partenaires directs doit respecter les exigences de nouveau à compter de leur période d’inscription suivant après le 31 août 2018.
+
+#### <a name="new-expanded-requirements"></a>Nouvelles exigences développés:
+
+Support
+- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, PRIORISATION avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, avec élévation de privilèges 24/7/réparation prise en charge et la gestion de compte technique sur le cloud, hybrides et locaux. 
+
+Services
+
+- Montrez que vous indiquez au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout des services gérés
+
+- Respectez les fonctionnalités de l’infrastructure minimale, par exemple, la facturation et la mise en service.
+Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont montrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une efficacité de la barre à l’avenir. 
+
+- ID MicrosoftPartnerNetwork (MPN) pour le marché où seront effectuées les ventes
+
+|**Disponibilité par marché**|
 |----------------------------------------------------------------------------------------------|
 | Brésil  |
 | Canada  |
@@ -70,7 +86,7 @@ En tant que partenaire direct, vous avez une relation de bout en bout avec votre
 
 Votre emplacement géographique détermine la devise dans laquelle vous êtes facturé, comme indiqué dans le tableau suivant. Notez qu’en raison des implications fiscales et juridiques, si vous souhaitez utiliser une autre devise de facturation, vous devez créer un nouveau client et indiquer la devise. 
 
-| Symbole monétaire | Pays |
+| **Symbole monétaire** | **Pays** |
 | ---- | ---- |
 | USD | Albanie et Saint-Eustache, Anguilla, Antarctique, Antigua et Barbuda, Argentine, Arménie, Aruba, Azerbaïdjan, Bahamas, Bahreïn, Bangladesh, Barbade, Bélarus, Belize, Bénin, Bermudes, Bolivie, Bonaire, Brésil, Territoire britannique de l'océan Indien, Brunei, Burundi, Cameroun, Îles Caïmans, Comores, Costa Rica, Curaçao, République centrafricaine, Équateur, Égypte, El Salvador, Guinée équatoriale, Érythrée, Guyane française, Polynésie française, Géorgie, Ghana, Guatemala, Guinée-Bissau, Honduras, région administrative spéciale de Hong Kong, Indonésie, Iraq, Israël, Jamaïque, Kazakhstan, Kenya, Koweït, Kirghizistan, Liban, Lesotho, Macao R.A.S., Madagascar, Malawi, Malaisie, Mali, Mauritanie, Maurice, Mayotte, Mexique, Maroc, Namibie, Nouvelle-Calédonie, Nicaragua, Nigéria, Oman, Pakistan, Panama, Paraguay, Pérou, Philippines, Porto Rico, Qatar, Réunion, Rwanda, Saba, Sainte-Lucie, Saint-Martin, Saint-Vincent-et-les-Grenadines, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Singapour, Saint-Martin (Royaume des Pays-Bas), Somalie, Afrique du Sud, Sri Lanka, Suriname, Swaziland, Tanzanie, Thaïlande, Timor-Leste, Togo, Trinité-et-Tobago, Tunisie, Turquie, Îles-Turques-et-Caïques, Îles Vierges américaines, Ukraine, Emirats arabes unis, États-Unis, Uruguay, Venezuela, Vietnam, Yémen. | 
 | TWD | Taïwan |

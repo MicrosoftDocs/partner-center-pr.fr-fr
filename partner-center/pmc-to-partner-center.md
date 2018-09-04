@@ -1,16 +1,18 @@
 ---
-title: "Transférer votre abonnement MPN du PartnerMembershipCenter vers l’Espace partenaires"
-description: "Utilisateurs du PartnerMembershipCenter: les abonnementsMPN sont désormais gérés à partir de l’Espace partenaires. Voici ce que vous devez faire."
+title: Transférer votre abonnement MPN du PartnerMembershipCenter vers l’Espace partenaires
+description: 'Utilisateurs du PartnerMembershipCenter: les abonnementsMPN sont désormais gérés à partir de l’Espace partenaires. Voici ce que vous devez faire.'
 author: KPacquer
-keywords: "abonnement mpn, compétences, pmc vers espace partenaires"
+keywords: abonnement mpn, compétences, pmc vers espace partenaires
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
-ms.openlocfilehash: 2349ee30aa54a756e7fdc49c24917807a7443425
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875859"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Transférer votre abonnement MPN du PartnerMembershipCenter vers l’Espace partenaires
 
@@ -43,7 +45,7 @@ L’administrateur de l’entreprise ajoute les employés au compte de l’Espac
 
 ## <a href="" id="nonadmin_tasks"></a> Tâches des employés: mise à jour des comptes
 
-1.  Obtenez vos informations de connexion à partir de MicrosoftPartnerCenter ou auprès de votre administrateur. Si vous ne recevez pas ces informations, contactez l’administrateur de l’entreprise afin qu’il vous les retransmette directement. 
+1.  Obtenez vos informations de connexion, à partir de Microsoft Partner Center ou auprès de votre administrateur. Si vous ne recevez pas les informations de connexion, contactez l’administrateur de votre organisation pour leur demander de renvoyer directement pour vous. 
 
 2.  Connectez votre compte Université des partenaires Microsoft. À partir du tableau de bord de l’Espace partenaires, sélectionnez **Mettre à jour votre profil** > **Accès à l’Université des partenaires**.  Une fois que vous avez connecté ce compte, vous serez à nouveau en mesure d’accéder à l’Université des partenaires.
 

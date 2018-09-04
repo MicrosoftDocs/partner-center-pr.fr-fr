@@ -4,11 +4,13 @@ description: Avec l’autorisation régionale, les partenaires d’entreprises i
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: locataire Azure AD, consolider les locataires, stratégie concernant les locataires, locataires dans le programme Fournisseur de solutions Cloud, comptes du programme Fournisseur de solutions Cloud, marchés et territoires du programme Fournisseur de solutions Cloud, où puis-je vendre par le biais du programme Fournisseur de solutions Cloud?
-ms.openlocfilehash: 45d9c6730cf3274d68915a453b1a33ed5239f68d
-ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876379"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Stratégies de consolidation des locataires dans le programme Fournisseur de solutions Cloud
 

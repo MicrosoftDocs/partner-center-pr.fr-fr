@@ -4,11 +4,13 @@ description: Votre facture récapitule tous les frais (sur le programme, les pro
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
-ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875179"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -25,6 +27,7 @@ Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’�
 >**Remarque**<br>
 Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.
 
+Vous recevrez une facture pour basée sur la licence (Office 365) et sur l’utilisation des frais (Azure) et une facture distincte à usage unique (Azure reserved VM instances) frais.
 
 Pour plus d’informations sur les frais par élément, utilisez les fichiers de rapprochement joints. Les fichiers de rapprochement comprennent les ID de clients et d’abonnements que vous utiliserez pour créer des factures client. Pour plus d’informations, voir [Utilisation des fichiers de rapprochement](use-the-reconciliation-files.md).
 
@@ -54,28 +57,36 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 <td>Adresse d’expédition de votre facture. Pour modifier cette adresse, accédez à Paramètres du compte > Profil de facturation du partenaire. </td>
 </tr>
 <tr class="odd">
-<td>Frais récurrents</td>
+<td>Frais basé sur les licences</td>
 <td>Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service. Ce montant est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonneT).</td>
 </tr>
 <tr class="even">
-<td>Frais d’utilisation</td>
+<td>Frais basés sur l’utilisation</td>
 <td>Utilisation d’Azure, y compris des nouveaux services ou des nouvelles applications activés et utilisés au cours du mois de facturation. Ce nombre est la somme de tous les frais indiqués dans la colonne &quot;PretaxCharges&quot; du fichier de rapprochement basé sur l’utilisation (colonne&nbsp;Z).</td>
 </tr>
 <tr class="odd">
-<td>Crédits &amp; ajustements</td>
-<td>Crédits ou ajustements pour les modifications apportées aux abonnements (par exemple : augmentations ou baisses du nombre d’emplacements).</td>
-</tr>
-<tr class="even">
-<td>Autres remises</td>
+<td>Remises</td>
 <td>Par exemple, la remise que le client reçoit sur le prix normal de l’abonnement. Celle-ci apparaît comme un montant fixe, et non pas comme un prix par unité ou par licence.</td>
 </tr>
 <tr class="odd">
-<td>Taxes</td>
+<td>Crédits</td>
+<td>Crédits ou ajustements pour les modifications apportées aux abonnements (par exemple : augmentations ou baisses du nombre d’emplacements).</td>
+</tr>
+<tr class="even">
+<tr class="even">
+<td>Sous-total</td>
+<td>Total avant les taxes et frais de taxe et les crédits.</td>
+</tr>
+<td>Taxe</td>
 <td>Total des taxes des frais en cours correspond au total de la section des détails commençant à la page&nbsp;2 de la facture. Ce nombre est la somme de tous les frais indiqués dans&nbsp;:
 <ul>
 <li>la colonne &quot;TaxAmount&quot; du fichier de rapprochement basé sur l’utilisation (colonne&nbsp;AA), et</li>
 <li>la colonne &quot;Tax&quot; du fichier basé sur la licence (colonne&nbsp;U).</li>
 </ul></td>
+</tr>
+<tr class="odd">
+<td>Autres crédits</td>
+<td>Crédits de taxe.</td>
 </tr>
 <tr class="even">
 <td>Total des frais en cours</td>
@@ -97,13 +108,10 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 <td>Date de facturation</td>
 <td>Date à laquelle vous recevez votre facture.</td>
 </tr>
-
 <tr class="odd">
 <td>Modalités de paiement</td>
-<td>Pour les achats ponctuel, le délai sera toujours de 60jours.</td>
+<td>Pour les achats ponctuels, le délai sera toujours de 60jours.</td>
 </tr>
-
-
 <tr class="even">
 <td>Date d’échéance du paiement</td>
 <td>Votre paiement doit être reçu au plus tard à cette date.</td>

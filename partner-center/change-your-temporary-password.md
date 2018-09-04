@@ -3,15 +3,17 @@ title: Modifier votre mot de passe temporaire | Espace partenaires
 description: Dès que vous obtenez votre mot de passe temporaire, connectez-vous à l'Espace partenaires et modifiez-le.
 author: labrenne
 Keywords: temporary password, change password, reset password
-ms.openlocfilehash: df87be5dfa7a2b1680addb5b832ac2a17324d4e8
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 67cea6b454e5af42469a527076a3585e4fa7600d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874969"
 ---
 # <a name="change-your-temporary-password"></a>Modifier votre mot de passe temporaire
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 

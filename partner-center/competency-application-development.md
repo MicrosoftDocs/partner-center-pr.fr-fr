@@ -1,43 +1,53 @@
 ---
-title: "Compétence Développement d’applications"
-description: "Permet une livraison de logiciels plus rapide et une amélioration continue. Rejoignez nos 60000 partenaires développeurs d’applications pour démarquer votre entreprise et devenez un partenaire Microsoft en obtenant la compétence Développement d’applications."
+title: Compétence Développement d’applications
+description: Permet une livraison de logiciels plus rapide et une amélioration continue. Rejoignez nos 60000 partenaires développeurs d’applications pour démarquer votre entreprise et devenez un partenaire Microsoft en obtenant la compétence Développement d’applications.
 author: Daniel Simpson
-keywords: "compétence,compétences, Applications métier du cloud, développement d’applications"
-ms.openlocfilehash: 153a40815f99950fa379f9bf35e55151fb159c96
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: compétence,compétences, Applications métier du cloud, développement d’applications
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 3b23ced367061546cd0a48467d68e6a07db0d2c6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876679"
 ---
-# <a name="application-development"></a>Développement d’applications 
+>[!IMPORTANT]
+>Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-Permet une livraison de logiciels plus rapide et une amélioration continue. Rejoignez nos 60000 partenaires développeurs d’applications pour démarquer votre entreprise et devenez un partenaire Microsoft en obtenant la compétence Développement d’applications.
+<!--
 
-## <a name="application-builder-option"></a>Option Développeur d’applications
-L’option Intégrateur d’applications est idéale si vous préférez prouver vos compétences en réussissant des examens ou des certifications.  Choisissez des examens dans le domaine stratégique de votre choix pour acquérir la compétence Développement d’applications.
+# Application Development 
 
+Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
 
-### <a name="silver"></a>Argent
-1. **2** personnes de votre entreprise doivent réussir l’un des examens suivants ou satisfaire les exigences d’évaluations ci-après.
-
-    - Domaine stratégique **Développement d’applications Web**
-        - [Examen70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx): Programmation en HTML5 avec JavaScript et CSS3  
-        - [Examen 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programmation enC# 
-        - [Examen70-486](https://www.microsoft.com/en-us/learning/exam-70-486.aspx): Développement d’applications MVC ASP.NET  
-
-    - Domaine stratégique **Plateforme Windows universelle**
-        - [Examen70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Développement d’applications mobiles 
-        - [Examen70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Plateforme Windows universelle-: Architecture applicative et expérience utilisateur/interface utilisateur *  
-        - [Examen70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Plateforme Windows universelle: Données applicatives, services et modèles de codage *  
-
-    - Domaine stratégique **Développement d’applications Azure**
-        - [Examen70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Développement de solutions MicrosoftAzure 
-        - [Examen70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Développement de services WindowsAzure et Web
-        - [Examen70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Mise en œuvre de solutions d’infrastructure MicrosoftAzure   
+## Application Builder option
+The Application Builder option is ideal if you prefer to prove your skills by passing exams or certifications.  Choose exams from the focus area of your choice to attain the Application Development competency.
 
 
-### <a name="gold"></a>Or
-1. **4** personnes de votre entreprise doivent acquérir la certification requise.
+### Silver
+1. Your organization must have **2** individuals pass one of the following exams, or the assessment requirements.
+
+    - **Web App Dev** focus area
+        - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx): Programming in HTML5 with JavaScript and CSS3  
+        - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C# 
+        - [Exam 70-486](https://www.microsoft.com/en-us/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications  
+
+    - **Universal Windows Platform** focus area
+        - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps 
+        - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform – App Architecture and UX/UI *  
+        - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform – App Data, Services, and Coding Patterns *  
+
+    - **Azure App Dev** focus area
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions 
+        - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions   
+
+
+### Gold
+1. Your organization must have **4** individuals pass the required certification.
     - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder 
 
-*Retrait le 30septembre2017
+*Retiring September 30, 2017
+
+-->

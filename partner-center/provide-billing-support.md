@@ -1,13 +1,15 @@
 ---
-title: "Proposer une assistance à la facturation | Espace partenaires"
-description: "Vous possédez la relation de facturation avec vos clients et gérez toutes leurs questions relatives à la facturation."
+title: Proposer une assistance à la facturation | Espace partenaires
+description: Vous possédez la relation de facturation avec vos clients et gérez toutes leurs questions relatives à la facturation.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
-ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4108d46428c4b64c98ab87064e20b6d0c2626840
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/25/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874519"
 ---
 # <a name="provide-billing-support"></a>Proposer une assistance à la facturation
 
@@ -15,37 +17,36 @@ ms.lasthandoff: 01/25/2018
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de MicrosoftCloud Germany
 
-Vous possédez la relation de facturation avec vos clients et gérez toutes leurs questions relatives à la facturation.
+Vous possédez la relation de facturation avec vos clients et vous êtes responsable des réponses aux questions relatives à la facturation de vos clients.
 
-## <a href="" id="microsoftresources"></a>Ressources Microsoft
+-   Vous êtes responsable du paiement dans les délais à Microsoft.
+-   Nous vous recommandons d’établir une stratégie avec les clients que vos collections processus et lorsque l’accès à des abonnements du client, des services ou des logiciels sont affectés.
+-   Si nécessaire, vous pouvez désactiver l’accès à un produit de votre client pour défaut de paiement.
 
+## <a name="microsoft-partner-support-guidance"></a>Guide de prise en charge de partenaire Microsoft
 
--   Obtenez des formations sur les produits et sur la résolution des problèmes via MPN, y compris l'accès à la formation pratique de l'expérience d'immersion client (CIE, Customer Immersion Experience).
--   Accédez à la documentation via la base de connaissances virtuelle (vKB).
--   Recherchez des solutions techniques publiées sur TechNet et accédez à la prise en charge spécifique du partenaire dans le cadre de votre appartenance&nbsp;MPN.
--   Achetez un support Premier pour bénéficier d'avantages incrémentiels.
+Les partenaires des transactions dans le modèle de fournisseur de solutions cloud sont le Conseiller de confiance à leurs clients et possèdent la relation de bout en bout, notamment la prise en charge lors de leur client possède une question ou un problème. Par le biais de prise en charge tactile points partenaires peuvent en savoir plus sur le client et leur activité, pour identifier les nouveaux services et des solutions qui pilotent valeur.
 
-## <a href="" id="delinquentcustomeraccounts"></a>Comptes client en souffrance
+Pour répondre à la demande de prise en charge, le partenaire peut revendre prise en charge à partir d’une autre entité, ils peuvent sous-traiter tout ou partie de leur structure de prise en charge et/ou qu’ils peuvent définir une structure pour prendre en charge directement.  Le partenaire peut facturer pour tout ou partie de la prise en charge fourni aux clients. Le partenaire doit articuler à leurs clients la prise en charge, ils fournissent, les heures de service et la méthode, ainsi que la tarification (si le chargement de la prise en charge) du contact. 
 
+Les partenaires sont requises pour recevoir des demandes entrantes de prise en charge des clients, diagnostiquer les problèmes du partenaire mieux et puis résoudre les problèmes qui se trouvent dans la portée des limites de prise en charge de base de référence. Si le partenaire est impossible de résoudre un problème, ils peuvent transmettre les problèmes à Microsoft via des voitures suivantes:
 
--   Vous êtes responsable du paiement à Microsoft.
--   Nous vous recommandons d'établir pour les clients une stratégie claire détaillant les processus de collection et en cas d'impact sur l'accès à l'abonnement.
--   Si nécessaire, vous pouvez désactiver l'accès de votre client à l'abonnement en l'absence de paiement.
+- Prise en charge de problème **commercial** est disponible pour tous les partenaires du programme fournisseur de solutions cloud
+-   Support **technique** de problème est disponible par le biais de:
+    -   premier Support pour les partenaires (frais de base)
+    -   Prise en charge avancée pour les partenaires (frais de base)
+    -   Prise en charge du Cloud signature (inclus avec les compétences or/argent)
 
-## <a href="" id="billingdisputes"></a>Litiges de facturation
+### <a name="providing-billing-subscription-management-and-technical-support"></a>En fournissant la facturation, la gestion de l’abonnement et support technique 
 
+Chaque service en ligne a des exigences spécifiques et détaillées permettant de facturation, gestion des abonnements et support technique pour les clients. Consultez les documents suivants pour plus d’informations.
 
--   [Signaler des problèmes](report-problems-with-partner-center.md) à propos de questions ou de litiges liés à la facturation.
+-   [Abonnements Dynamics 365 vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-## <a href="" id="escalatingissues"></a>Remontée des problèmes
+-   [Abonnements Azure vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-
--   [Faites remonter les problèmes à Microsoft](escalate-problems-to-microsoft.md) via le canal de support de partenaire si vous avez besoin de notre assistance.
--   Vous devez communiquer avec le client et fermer la boucle, une fois le problème résolu. 
-
+-   [Abonnements Office 365 vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-Signaler des litiges de facturation (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center) à propos de questions ou de litiges liés à la facturation.
-
 

@@ -1,13 +1,15 @@
 ---
-title: "Développer votre activité de partenaire Microsoft | Espace partenaires"
-description: "Ressources pour développer votre activité de partenaire Microsoft. Explique notamment comment obtenir des prospects (références) de Microsoft."
-keywords: "références, répondre à des références, prospect, prospects, profil commercial, profil d’entreprise, développer votre activité, opportunités commerciales, compétences, niveau d'adhésion argent, niveau d'adhésion or, offres d’essai, extension de marché, clouds nationaux"
+title: Développer votre activité de partenaire Microsoft | Espace partenaires
+description: Ressources pour développer votre activité de partenaire Microsoft. Explique notamment comment obtenir des prospects (références) de Microsoft.
+keywords: références, répondre à des références, prospect, prospects, profil commercial, profil d’entreprise, développer votre activité, opportunités commerciales, compétences, niveau d'adhésion argent, niveau d'adhésion or, offres d’essai, extension de marché, clouds nationaux
 author: MaggiePucciEvans
-ms.openlocfilehash: f12f529765ce0b6c6d9b5c69ee84be2fddf0525e
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cf1244e7671b53c3aa813f493cd7b9bdf90c24d5
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876449"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Développer votre activité de partenaire Microsoft 
 
@@ -32,6 +34,9 @@ Utilisez l'Espace partenaires pour:
 | Proposer à vos clients des abonnements d’essai aux produits Microsoft | Lisez [Proposer à vos clients des essais des produits Microsoft](offer-your-customers-trials-of-microsoft-products.md) pour savoir comment utiliser les abonnements d’essai pour augmenter les ventes auprès de votre base de clients.| Partenaires fournisseurs de solutions Cloud |
 | Proposer à vos clients des tarifs promotionnels sur les abonnements Microsoft | Microsoft propose occasionnellement des promotions sur les abonnements basés sur les licences, qui vous permettent de répercuter les économies sur les clients et de développer votre activité. Lisez [Proposer à vos clients des tarifs promotionnels sur les abonnements Microsoft](promotions.md) pour savoir comment faire. | Partenaires fournisseurs de solutions Cloud |
 | Vendre dans d’autres marchés | Le canal de vente du programme Fournisseur de solutions Cloud est disponible dans plusieurs pays et régions. Voir [marchés du programme Fournisseur de solutions Cloud](agreements.md) pour en consulter la liste. Pour une introduction au canal du programme Fournisseur de solutions Cloud, consultez [Présentation du programme Fournisseur de solutions Cloud](csp-overview.md).  | Partenaires fournisseurs de solutions Cloud |
+Vendre aux secteurs spécialisés comme s’à but non lucratif et éducation|[Vendre aux secteurs spécialisés](get-special-pricing-for-offers.md)|Partenaires fournisseurs de solutions Cloud|
+|Développer votre activité par le biais de nombreuses activités disponibles dans le programme du mode coopération primes. Revendications de fichier pour les activités par le biais du tableau de bord.| [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)|Partenaires fournisseurs de solutions Cloud|
+|Créer de nouveaux ensembles de logiciels en incluant les offres tierces qui fonctionnent avec le logiciel Microsoft que vous vendez déjà|[Découvrir les offres tierces](third-party-offers.md)|Partenaires fournisseurs de solutions Cloud|
 
 ## <a name="see-also"></a>Voir également
 

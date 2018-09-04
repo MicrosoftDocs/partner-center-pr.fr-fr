@@ -1,13 +1,15 @@
 ---
 title: Migrer des abonnements Dynamics AX vers Dynamics&nbsp;365 | Espace partenaires
-description: "Microsoft propose Dynamics365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités."
+description: Microsoft propose Dynamics365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
-ms.sourcegitcommit: 2c948321945d0e61153f7d766a1a669782df4a54
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/24/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876299"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrer des abonnements DynamicsAX vers Dynamics365
 

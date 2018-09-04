@@ -2,11 +2,13 @@
 title: Espace partenaires de MicrosoftCloud Germany | Espace partenaires de MicrosoftCloud Germany
 description: L'Espace partenaires de MicrosoftCloud Germany est le portail professionnel des partenaires Microsoft qui souhaitent proposer des solutions Cloud Microsoft aux clients situés dans les pays de l’UE et de l’AELE. MicrosoftCloud Germany garantit que vos données client se trouvent en Allemagne et qu'un tiers de confiance allemand désigné contrôle l’accès à celles-ci. Les clients commerciaux situés dans l'Union européenne (UE) et l’Association européenne de libre-échange (AELE) peuvent stocker et gérer les données des clients conformément aux lois et réglementations allemandes ainsi qu'aux principales normes internationales. Microsoft ne peut pas accéder aux données du client sans l'autorisation et le contrôle de celui-ci ou du tiers de confiance allemand désigné.
 author: MaggiePucciEvans
-ms.openlocfilehash: 6d659b325ed205642398499bd882c510d482e25c
-ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876339"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Espace partenaires de Microsoft Cloud Germany
 

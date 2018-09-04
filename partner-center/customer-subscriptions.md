@@ -3,11 +3,13 @@ title: Abonnements client | Espace partenaires
 description: Les partenaires peuvent vendre des abonnements à des clients et les gérer via l’Espace partenaires.
 author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
-ms.openlocfilehash: 95210c91a49c54eb28984ce74b2685af7d164131
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3c051f0fbf627c7e7478e18c0b685eb7a45cf879
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876489"
 ---
 # <a name="customer-subscriptions"></a>Abonnements client
 

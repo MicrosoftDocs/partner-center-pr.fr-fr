@@ -4,11 +4,13 @@ description: Une fois que vous avez créé un enregistrement de votre client dan
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874849"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler les abonnements client
 
@@ -16,7 +18,8 @@ ms.lasthandoff: 04/08/2018
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de MicrosoftCloud Germany
+-  Partenaires fournisseurs de solutions Cloud
 
 Une fois que vous avez créé un enregistrement de votre client dans le Tableau de bord du partenaire, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.
 
@@ -31,10 +34,11 @@ Veuillez noter que certaines offres sont limitées à un abonnement par client. 
 
 3.  Sélectionnez le type de facturation d’abonnement que vous souhaitez.  Voir [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md) pour obtenir des informations qui vous aideront à décider entre la fréquence de facturation mensuelle et annuelle.
  
- >**Remarque**<br> Vous avez désormais la possibilité d’offrir à votre client un essai gratuit pour certains produits. Les produits disponibles pour l’essai sont affichés sous l’onglet d’essai dans le catalogue. Voir [Proposer à vos clients des essais des produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+ >[!Note]
+ >Vous pouvez offrir aux clients des abonnements d’essai. Produits disponibles pour l’essai se trouvent sous l’onglet d’essai dans le catalogue. Voir [Proposer à vos clients des essais des produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
  
-4. Après avoir sélectionné la fréquence de facturation, sélectionnez dans le catalogue les produits pour lesquels vous souhaitez un abonnement. La disponibilité des produits varie selon le type de client (éducation, secteur public, etc.) et la fréquence de facturation sélectionnée. Si un produit n’est pas disponible, le client a peut-être déjà un abonnement à ce produit et n’est autorisé à en avoir qu’un seul. Ou vous pouvez avoir suspendu l’abonnement, auquel cas vous pouvez le réactiver plutôt que d’en acheter un nouveau.
+4. Après avoir sélectionné la fréquence de facturation, sélectionnez les produits que vous souhaitez que les abonnements pour dans le catalogue. La disponibilité des produits varie selon le type de client (éducation, secteur public, etc.) et la fréquence de facturation sélectionnée. Si un produit n’est pas disponible, le client a peut-être déjà un abonnement à ce produit et n’est autorisé à en avoir qu’un seul. Ou vous pouvez avoir suspendu l’abonnement, auquel cas vous pouvez le réactiver plutôt que d’en acheter un nouveau.
 
 5. Vérifiez l’abonnement que vous souhaitez ajouter et entrez le nombre de licences. Cliquez ensuite sur **Envoyer** pour soumettre la commande.
 

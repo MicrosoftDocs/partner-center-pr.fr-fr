@@ -1,13 +1,15 @@
 ---
 title: Gérer votre compte Espace partenaires | Espace partenaires
-description: Une fois intégré au programme Fournisseur de solutionsCloud, vous ou votre administrateur devez configurer le compte de votre entreprise dans l’Espace partenaires.
+description: Gérer votre profil de l’organisation, les informations bancaires et fiscaux et vos utilisateurs.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-ms.openlocfilehash: eee73df917d894fa780e15eedb61b7180b511047
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 225e2e6ea5bb9d0f5527974edc488707aa46989a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875959"
 ---
 # <a name="manage-your-partner-dashboard-account"></a>Gérer votre compte dans le Tableau de bord du partenaire
 
@@ -15,9 +17,12 @@ ms.lasthandoff: 04/08/2018
 
 -  Espace partenaires
 
-Le compte que vous créez dans le Tableau de bord du partenaire lors de votre inscription inclut votre adresse e-mail professionnelle et vos données d’entreprise. Après avoir créé un compte dans le Tableau de bord du partenaire, vous ou votre administrateur devez terminer la configuration du profil complet de votre entreprise, y compris les détails de votre support, les demandes d'exonération fiscale le cas échéant, ainsi que les coordonnées du contact principal. 
+Le compte que vous créez dans le Tableau de bord du partenaire lors de votre inscription inclut votre adresse e-mail professionnelle et vos données d’entreprise. Après avoir créé un compte sur le tableau de bord du partenaire, vous ou votre administrateur devez terminer la configuration de profil complet de votre entreprise, y compris les détails de la prise en charge, d’exonération fiscale le cas échéant et coordonnées du contact principal. 
 
-L’administrateur doit également créer un compte d’utilisateur pour toute personne devant utiliser le Tableau de bord du partenaire pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils commerciaux, gérer des références et fournir du support.
+Vous ou votre administrateur crée également les comptes d’utilisateurs pour toute personne devant utiliser le tableau de bord du partenaire pour ajouter ou gérer des clients, vendre des abonnements, travailler avec facturation et la facturation, créer des profils commerciaux, gérer des références, utilisation des primes incitatives les programmes et fournir de prise en charge.
+
+>[!NOTE]
+>Paramètres du compte est situé dans le coin supérieur droit du tableau de bord. Lorsque vous sélectionnez l’icône, vous serez en mesure de sélectionner ce que vous souhaitez gérer. Par exemple, sélectionnez l' **icône du compte**et puis sélectionnez la **Gestion des utilisateurs**. Cela vous amène à votre page de gestion d’utilisateur et ouvre également un volet supplémentaire qui inclut toutes les options de **paramètres de compte** .
 
 
 ## <a name="resources-to-help-you-manage-your-partner-dashboard-account"></a>Ressources pour vous aider à gérer votre compte le Tableau de bord du partenaire

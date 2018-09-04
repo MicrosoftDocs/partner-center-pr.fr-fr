@@ -4,11 +4,13 @@ description: Cet article inclut des liens vers des guides du programme, des cont
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
-ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876429"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
 
@@ -33,21 +35,21 @@ Examinez les conditions requises pour devenir un partenaire dans le programme Fo
 
 Microsoft exige que les partenaires signent le présent contrat pour rejoindre le programme Fournisseur de solutions Cloud. Lisez attentivement ce guide pour le marché ou le Cloud national dans lequel vous envisagez de vendre.
 
-[Contrat de revendeur Microsoft Cloud: Amérique du Nord, Amérique Centrale, Amérique du Sud et Les Antilles](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
+[Contrat de revendeur Microsoft Cloud: Amérique du Nord, Amérique Centrale, Amérique du Sud et Les Antilles](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Contrat de revendeur Microsoft Cloud: Asie, Australie et Pacifique](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
+[Contrat de revendeur Microsoft Cloud: Asie, Australie et Pacifique](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
 
-[Contrat de revendeur Microsoft Cloud: Europe, Moyen-Orient et Afrique](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
+[Contrat de revendeur Microsoft Cloud: Europe, Moyen-Orient et Afrique](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Contrat de revendeur Microsoft Cloud: Japon](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
+[Contrat de revendeur Microsoft Cloud: Japon](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Contrat de revendeur Microsoft Cloud: Corée du Sud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
+[Contrat de revendeur Microsoft Cloud: Corée du Sud](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Contrat de revendeur Microsoft Cloud: Taïwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
+[Contrat de revendeur Microsoft Cloud: Taïwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Contrat de revendeur Microsoft Cloud: Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+[Contrat de revendeur Microsoft Cloud: Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
 
-[Contrat de revendeur Microsoft Cloud: MicrosoftCloud pour le gouvernement des États-Unis](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
+[Contrat de revendeur Microsoft Cloud: MicrosoftCloud pour le gouvernement des États-Unis](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 ## <a href="" id="customeragreementtemplate"></a>Modèles de contrat client
 
@@ -59,11 +61,13 @@ En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez e
 ## <a name="pricing"></a>Tarification
 
 
-Téléchargez les détails de la tarification des services basée sur les licences et basée sur l'utilisation à partir de la page **Tarification et offres** accessible à partir de votre menu **Tableau de bord**. 
+Télécharger les détails pour les achats de licence, basés sur l’utilisation et à usage unique à partir de la page **tarification et offres** , accessible à partir de votre menu **tableau de bord** de la tarification. 
 
 La liste de prix basée sur les licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30jours avant qu'elle n'entre en vigueur. Office365, Enterprise Mobility Suite et MicrosoftDynamics CRM sont des exemples de services basés sur les licences. 
 
 La tarification basée sur l'utilisation est dynamique et change fréquemment. MicrosoftAzure est un exemple de service basé sur l'utilisation.
+
+Achat ponctuel tarification est également dynamique. Exemples d’achats ponctuels Microsoft Azure reserved VM instances. 
 
 
 ## <a name="offers"></a>Offres

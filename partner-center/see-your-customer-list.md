@@ -1,12 +1,15 @@
 ---
-title: "Gérer votre liste de clients | Espace partenaires"
-description: "Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires."
+title: Gérer votre liste de clients | Espace partenaires
+description: Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876819"
 ---
 # <a name="manage-your-customer-list"></a>Gérer votre liste de clients
 
@@ -27,6 +30,12 @@ Les journaux d’activité fournissent des données exportables sur les transact
 2.  Pour rechercher un client, entrez son nom ou son nom de domaine dans la zone de recherche.
 3.  Sélectionnez la **flèche vers le bas** à la fin de la ligne d’un client pour voir son ID&nbsp;Microsoft, ainsi que les liens rapides vers ses services et ses abonnements.
 
+## <a name="update-a-customers-company-name"></a>Mettre à jour le nom de la société du client
+
+Dans le menu **Tableau de bord**, sélectionnez **Clients**.
+2.  Pour rechercher un client, entrez son nom ou son nom de domaine dans la zone de recherche.
+3.  Sélectionnez la **flèche vers le bas** à la fin de la ligne d’un client pour voir son ID&nbsp;Microsoft, ainsi que les liens rapides vers ses services et ses abonnements.
+4.  Sous les informations du client **facturé** , mettre à jour le nom de la société. Lorsque vous enregistrez la nouvelle valeur, elle est répercutée dans la liste des clients. Cela modifiera uniquement le nom de société à facturer et la valeur de liste de clients. Il se reflètera pas n’importe où ailleurs.
 
 ## <a name="export-your-customer-list"></a>Exporter votre liste de clients
 

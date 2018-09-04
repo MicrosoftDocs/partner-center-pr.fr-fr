@@ -3,11 +3,13 @@ title: Transition du Centre d'administration des partenaires vers l'Espace parte
 description: Découvrez dans l'Espace partenaires les fonctionnalités que vous utilisiez d'habitude dans le Centre d'administration des partenaires
 author: labrenne
 keywords: Centre d'administration des partenaires, administrateur Office365, fonctionnalités du Centre d'administration des partenaires
-ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f2982e1e517c02a78d01b68f21122eebcabf3bf9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876249"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Transition du Centre d'administration des partenaires vers le Tableau de bord du partenaire
 

@@ -3,12 +3,13 @@ title: Ajouter des logiciels tiers à votre portefeuille | Espace partenaires
 description: Acheter des logiciel tiers compatibles avec les produits Microsoft
 author: labrenne
 keywords: offres tierces, logiciels à acheter
-ms.openlocfilehash: 5b2e06b026f1ab9c9e1dfbe14d22aef9af83fa7d
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991696"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875519"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Ajouter des logiciels tiers à votre portefeuille
 

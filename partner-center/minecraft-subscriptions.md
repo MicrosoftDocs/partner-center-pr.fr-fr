@@ -3,12 +3,13 @@ title: Vendre des abonnements Minecraft Education Edition aux clients de l’éd
 description: Vendre des abonnements MinecraftEducationEdition aux clients qualifiés dans le domaine de l’éducation.
 author: KPacquer
 keywords: Partenaires d’éducation autorisés
-ms.openlocfilehash: 7e2375ace139f8166659812c00cb05c713d39bf4
-ms.sourcegitcommit: 665f7e1363368ae6f986a252a3aa6e3f0997425e
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2d7c108471290194a4f96d9e0608d4951c4785f3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2087619"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875809"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendre des abonnements Minecraft: EducationEdition aux clients de l’éducation
 

@@ -4,11 +4,13 @@ description: Utilisez ces instructions pour consolider des locataires de différ
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
-ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875979"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
 

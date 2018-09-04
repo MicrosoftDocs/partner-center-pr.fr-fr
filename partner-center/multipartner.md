@@ -3,11 +3,13 @@ title: Prise en charge multipartenaire | Espace partenaires
 description: Un client peut vouloir travailler avec plusieurs partenaires du programme Fournisseur de solutionsCloud, spécialisés dans différents services.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
-ms.openlocfilehash: e6d6b8d6c2c65738fb1fa5a1c84b523fb28257fe
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 60a925536bd377c010aeca2b8f2f8bbeb6b7f0a6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874829"
 ---
 # <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 

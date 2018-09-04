@@ -1,13 +1,15 @@
 ---
 title: Application Analyse de l'Espace partenaires pour Power BI | Espace partenaires
-description: "Utilisez l’application Analyse de l'Espace partenaires pour Power BI (pour les partenaires directs du programme Fournisseur de services cloud)."
+description: Utilisez l’application Analyse de l'Espace partenaires pour Power BI (pour les partenaires directs du programme Fournisseur de services cloud).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: labrenne
-ms.openlocfilehash: 3eadf41093f6d3d2ad42fecae856384800676b1a
-ms.sourcegitcommit: 9183f596e81595496ae49375c116ea0f772babac
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3e356b860b0975960939838203981c054a89289e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876160"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Afficher les données de votre entreprise avec l’application Analyse de l’Espace partenaires pour MicrosoftPowerBI
 

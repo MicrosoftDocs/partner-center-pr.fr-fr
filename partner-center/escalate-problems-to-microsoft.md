@@ -1,12 +1,15 @@
 ---
-title: "Faire remonter des problèmes à Microsoft | Espace partenaires"
-description: "Vous devez normalement résoudre les problèmes pour le compte de vos clients."
+title: Faire remonter des problèmes à Microsoft | Espace partenaires
+description: Vous devez normalement résoudre les problèmes pour le compte de vos clients.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2ffb4a63384a4ee51b485d832ba847315573b633
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876459"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Faire remonter des problèmes à Microsoft
 
@@ -30,7 +33,21 @@ Toutefois, il existe plusieurs catégories de problèmes que vous devez transmet
 
 -   Problèmes régionaux avec un impact sur plusieurs clients.
 
-Pour obtenir de l’aide de Microsoft, envoyez une demande de support dans l’Espace partenaires. Vous devrez communiquer avec le client lorsque le problème aura été résolu. Voir [Signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md).
+## <a name="submit-a-support-request"></a>Soumettre une demande de support
+
+1. Dans le tableau de bord, sélectionnez **clients**.
+2. Sélectionnez le client qui ont besoin de la prise en charge.
+3. Sélectionnez la **gestion du Service** et **demandes de Service**.
+4. Sélectionnez **une nouvelle demande** , puis sélectionnez **Microsoft Office 365**.
+5. Vous êtes redirigé vers le portail Office 365 où vous devez vous connecter à l’aide de vos informations d’identification du tableau de bord du partenaire.
+6. Sélectionnez la **prise en charge**, la **nouvelle demande de service** à partir du menu de gauche.
+7. Sélectionnez la rubrique prise en charge.
+
+>[!NOTE]
+>Il est important démarrer à partir du tableau de bord afin que la relation entre le partenaire et du client est préservée. 
+
+
+Pour plus d’informations sur la déclaration des problèmes au nom du client, voir [signaler des problèmes au nom du client](report-problems-on-behalf-of-a-customer.md).
 
  
 

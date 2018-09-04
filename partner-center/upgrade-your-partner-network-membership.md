@@ -1,13 +1,15 @@
 ---
-title: "Mise à niveau de votre adhésion au MicrosoftPartner Network | Espace partenaires"
-description: "Lorsque vous mettez à niveau votre abonnement au MicrosoftPartner Network, vous avez droit à de nombreux avantages exclusifs. Découvrez comment trouver et acheter des offres disponibles."
+title: Mise à niveau de votre adhésion au MicrosoftPartner Network | Espace partenaires
+description: Lorsque vous mettez à niveau votre abonnement au MicrosoftPartner Network, vous avez droit à de nombreux avantages exclusifs. Découvrez comment trouver et acheter des offres disponibles.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875709"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Mise à niveau de votre abonnement au MicrosoftPartner Network
 
@@ -27,7 +29,7 @@ Le programme de partenariat de Microsoft propose les trois options d'adhésion s
 
   - Compétence Or: capacité d’exception dans le domaine d'une solution Microsoft spécifique
 
-Lorsque vous avez rejoint MicrosoftPartner Network, vous devenez éligible à une mise à niveau de votre abonnement et à des offres d’achat avantageuses réservées aux membres. Pour plus d’informations sur l’adhésion au MicrosoftPartner Network, accédez à [https://partner.microsoft.com](https://partner.microsoft.com).
+Lorsque vous avez rejoint MicrosoftPartner Network, vous devenez éligible à une mise à niveau de votre abonnement et à des offres d’achat avantageuses réservées aux membres. Pour plus d’informations sur l’adhésion au Microsoft Partner Network, accédez à [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Acheter un abonnement à Microsoft Action Pack
@@ -42,7 +44,7 @@ Action Pack est un abonnement annuel abordable à des services, des logiciels et
 
 - recevoir 100USD de crédits MicrosoftAzure chaque mois.
 
-Pour en savoir plus sur Microsoft Action Pack, accédez à [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Pour plus d’informations sur Microsoft Action Pack, accédez à [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 >**Remarque** En suivant ce lien, vous serez dirigé vers un autre site Web. Revenez sur ce site, l'Espace partenaires, pour vous abonner à Action Pack.
 
@@ -63,7 +65,7 @@ Pour en savoir plus sur Microsoft Action Pack, accédez à [https://partner.micr
 
 7. Votre commande est confirmée. Sélectionnez **Fermer**.
 
-Votre abonnement à l'Action Pack sera renouvelé automatiquement chaque année à cette date. Vous pouvez désactiver le renouvellement automatique à tout moment à partir de votre liste d'offres achetées; toutefois, vous ne pourrez pas réactiver le renouvellement d’abonnement automatique avant d'avoir renouvelé votre abonnement. 
+Votre abonnement Action Pack sera renouvelé automatiquement chaque année à cette date. Vous pouvez désactiver le renouvellement automatique à tout moment à partir de votre liste d'offres achetées; toutefois, vous ne pourrez pas réactiver le renouvellement d’abonnement automatique avant d'avoir renouvelé votre abonnement. 
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Désactiver le renouvellement automatique de l’abonnement Action Pack
 
@@ -104,9 +106,9 @@ Si vous désactivez le renouvellement automatique de l’abonnement, vous ne pou
 
 Pour annuler votre abonnement au MicrosoftAction Pack, vous devez contacter le support de l'Espace partenaires.
 
-1. Rendez-vous sur https://partnercenter.microsoft.com/partner/support.
+1. Accédez à https://partnercenter.microsoft.com/partner/support.
 
-2. Sélectionnez **Signaler des problèmes avec L'Espace partenaires**, puis sélectionnez **Nouvelle demande** sur la page suivante.
+2. Sélectionnez **Signaler des problèmes avec l'Espace partenaires**, puis sélectionnez **Nouvelle demande** sur la page suivante.
 
 3. Développez la liste **Type de problème** et sélectionnez **Aide concernant une facture, un paiement ou un fichier de rapprochement de partenaire**. 
 

@@ -3,15 +3,17 @@ title: Programme Fournisseur de solutions Cloud - vente de solutions Cloud reche
 description: Le programme Fournisseur de solutions Cloud peut aider votre entreprise à croître avec de nouveaux clients et de nouvelles compétences.
 author: labrenne
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutionsCloud direct, revendeur fournisseur de solutionsCloud indirect, fournisseur de solutionsCloud direct, fournisseur de solutionsCloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
-ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875749"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées 
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 
@@ -26,11 +28,22 @@ Le programme Fournisseur de solutions Cloud vous permet de faire bien plus que l
 
 ### <a name="direct-bill-model"></a>Modèle de facture direct
 
- Dans le modèle de facture direct, les partenaires achètent les produits et abonnements Microsoft directement auprès de Microsoft, puis les vendent directement à leurs clients par le biais de leurs commerciaux en interne. Les partenaires qui travaillent déjà avec, ou sont prêts à développer, l'infrastructure de support, de facturation et de vente appropriée, peuvent choisir le modèle direct Fournisseur de solutions Cloud. Les partenaires pour lesquels le modèle direct Fournisseur de solutions Cloud convient le mieux doivent respecter ces conditions préalables:
+ Dans le modèle de facture direct, les partenaires achètent les produits et abonnements Microsoft directement auprès de Microsoft, puis les vendent directement à leurs clients par le biais de leurs commerciaux en interne. Les partenaires qui travaillent déjà avec, ou sont prêts à développer, l'infrastructure de support, de facturation et de vente appropriée, peuvent choisir le modèle direct Fournisseur de solutions Cloud. Les conditions requises pour devenir un partenaire direct ont été modifiées récemment et prendront effet à compter du 31 août 2018. Les partenaires directs doit respecter les exigences de nouveau à compter de leur période d’inscription suivant après le 31 août 2018.
+
+
+#### <a name="new-expanded-requirements"></a>Nouvelles exigences développés:
+
+Support
+- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, PRIORISATION avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, avec élévation de privilèges 24/7/réparation prise en charge et la gestion de compte technique sur le cloud, hybrides et locaux. 
+
+Services
+
+- Montrez que vous indiquez au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout des services gérés
+
+- Respectez les fonctionnalités de l’infrastructure minimale, par exemple, la facturation et la mise en service.
+Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont montrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une efficacité de la barre à l’avenir. 
+
 - ID MicrosoftPartnerNetwork (MPN) pour le marché où seront effectuées les ventes
-- Infrastructure de support client existante
-- Infrastructure de facturation client existante
-- Fonds à investir pour la préparation pour l'intégration technique et le support
 
 
 ### <a name="indirect-model"></a>Modèle indirect

@@ -1,12 +1,14 @@
 ---
-title: "Gérer vos primes incitatives dans l'Espace partenaires | Espace partenaires"
-description: "Les programmes de primes incitatives destinés aux partenaires Microsoft stimulent leur rentabilité et leur croissance"
+title: Gérer vos primes incitatives dans l'Espace partenaires | Espace partenaires
+description: Les programmes de primes incitatives destinés aux partenaires Microsoft stimulent leur rentabilité et leur croissance
 author: labrenne
-ms.openlocfilehash: 7a924526d90843b44aeb192fed3c2c994be89133
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8141d3cf0796885ff911b75c3898af7065612f06
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875879"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Gérer vos primes incitatives dans l’Espace partenaires 
 
@@ -50,3 +52,4 @@ Lorsque l’administrateur de primes incitatives a reçu ses informations d’id
 
 [Comprendre le paiement de vos primes incitatives](understand-incentive-payouts.md)
 
+Pour plus d’informations, voir [L’espace primes le mode coopération Guide](https://assets.microsoft.com/coop-guidebook.pdf)

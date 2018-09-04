@@ -1,137 +1,144 @@
 ---
-title: "Compétence Windows et appareils"
-description: "Partagez notre objectif de voir Windows10 installé sur 1milliard d’appareils. L’opportunité s’étend aux services, applications et appareils. Cette compétence vous fournit des outils, du contenu et des ressources pour vous aider à créer et à développer une pratique Windows10 rentable."
+title: Compétence Windows et appareils
+description: Partagez notre objectif de voir Windows10 installé sur 1milliard d’appareils. L’opportunité s’étend aux services, applications et appareils. Cette compétence vous fournit des outils, du contenu et des ressources pour vous aider à créer et à développer une pratique Windows10 rentable.
 author: Daniel Simpson
 robots: noindex,nofollow
-keywords: "compétence, compétences, Windows et appareils"
-ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
-ms.translationtype: HT
+keywords: compétence, compétences, Windows et appareils
+ms.localizationpriority: medium
+ms.openlocfilehash: eee91d5908726893cf8b5f4a0d01d99b5ac442c1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875739"
 ---
-#<a name="windows-and-devices"></a>Windows et appareils 
-Partagez notre objectif de voir Windows10 installé sur 1milliard d’appareils. L’opportunité s’étend aux services, applications et appareils. Cette compétence vous fournit des outils, du contenu et des ressources pour vous aider à créer et à développer une pratique Windows10 rentable.
+>[!IMPORTANT]
+>Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-- [Option Partenaire de service](#service-partner-option)
-- [Option Partenaire d’appareil](#device-partner-option)
-- [Option SurfaceHub](#surface-hub-option)
+<!--
 
-##<a name="service-partner-option"></a>Option Partenaire de service
-L’option Partenaire de service est idéale si vous préférez prouver vos compétences en vous soumettant à des évaluations ou des examens en rapport avec vos activités/votre domaine. Effectuez toutes les étapes correspondantes pour acquérir la compétence Windows et appareils.
+#Windows and Devices 
+Share our goal of having Windows 10 on 1 billion devices. The opportunity spans services, applications, and devices. This competency provides you with tools, content and resources to help you build and grow your profitable Windows 10 practice.
 
-###<a name="silver"></a>Argent
-1. **2** personnes de votre entreprise doivent satisfaire aux exigences d’examens ou d’évaluations.
+- [Service Partner option](#service-partner-option)
+- [Device Partner option](#device-partner-option)
+- [Surface Hub option](#surface-hub-option)
 
-    - **2** personnes doivent chacune réussir l’un des examens suivants:
+##Service Partner option
+The Service Partner option is ideal if you prefer to prove your skills by passing assessments or exams related to your practice/line of business. Complete all the steps within the option to attain the Windows and Devices competency.
 
-        - Domaine stratégique **Créateurs d’applications**
+###Silver
+1. Your organization must have **2** individuals pass the required exams or assessments.
 
-            - [Examen70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Plateforme Windows universelle - Architecture applicative et expérience utilisateur/interface utilisateur*
-            - [Examen70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Plateforme Windows universelle - Données applicatives, services et modèles de codage*
-            - [Examen70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Développement d’applications mobiles
+    - **2** individuals must each pass one of the following exams:
 
-    **OU**
+        - **Application Builders** focus area
 
-    - **2** personnes doivent chacune réussir l’évaluation suivante:
+            - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform - App Architecture and UX/UI*
+            - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform - App Data, Services, and Coding Patterns*
+            - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps
 
-        - Domaine stratégique **Partenaire de déploiement**
+    **OR**
 
-            - [Évaluation de la gestion, de la sécurité et du déploiement de Windows10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
+    - **2** individuals must each pass the following assessment:
 
-*Retrait le 30septembre2017
+        - **Deployment Partner** focus area
 
-###<a name="gold"></a>Or
-1. **4** personnes de votre entreprise doivent satisfaire aux exigences d’examens ou d’évaluations.
-    - **4** personnes doivent chacune réussir l’un des examens suivants:
-        - Domaine stratégique **Créateurs d’applications**
+            - [Windows 10 Deployment, Security and Management Assessment](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
 
-            - [Examen70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Plateforme Windows universelle - Architecture applicative et expérience utilisateur/interface utilisateur*
-            - [Examen70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Plateforme Windows universelle - Données applicatives, services et modèles de codage*
-            - [Examen70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Développement d’applications mobiles
+*Retiring September 30, 2017
 
-    **OU**
+###Gold
+1. Your organization must have **4** individuals pass the required exams or assessments.
+    - **4** individuals must each pass one of the following exams:
+        - **Application Builders** focus area
 
-    - **4** personnes doivent chacune réussir l’évaluation suivante:
+            - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform - App Architecture and UX/UI*
+            - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform - App Data, Services, and Coding Patterns*
+            - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps
 
-        - Domaine stratégique **Partenaire de déploiement**
+    **OR**
 
-            - [Évaluation de la gestion, de la sécurité et du déploiement de Windows10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
+    - **4** individuals must each pass the following assessment:
 
-*Retrait le 30septembre2017
+        - **Deployment Partner** focus area
 
-##<a name="device-partner-option"></a>Option Partenaire d’appareil
-L’option Partenaire d’appareil est idéale si vous préférez prouver vos compétences en vous soumettant à un examen ou une évaluation en rapport avec vos activités/votre domaine. Effectuez toutes les étapes correspondantes pour acquérir la compétence Windows et appareils.
+            - [Windows 10 Deployment, Security and Management Assessment](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
 
-###<a name="silver"></a>Argent
-1. **2** personnes de votre entreprise doivent satisfaire aux exigences d’examens ou d’évaluations.
+*Retiring September 30, 2017
 
-    - **2** personnes doivent chacune réussir l’examen suivant:
+##Device Partner option
+The Device Partner option is ideal if you prefer to prove your skills by passing exam/assessment related to your practice/line of business. Complete all the steps within the option to attain the Windows and Devices competency.
 
-        - Domaine stratégique **Créateur système**
+###Silver
+1. Your organization must have **2** individuals pass the required exams or assessments.
 
-            - [Examen70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): Fabrication OEM et déploiement de Windows10
+    - **2** individuals must each pass the following exam:
 
-    **OU**
+        - **System Builder** focus area
 
-    - **2** personnes doivent chacune réussir l’évaluation suivante:
+            - [Exam 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): OEM Manufacturing and Deployment for Windows 10
 
-        - Domaine stratégique **Créateur d’appareils IoT**
+    **OR**
 
-            - [Évaluation de créateur d’appareils IoT pour Windows10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
+    - **2** individuals must each pass the following assessment:
 
-###<a name="gold"></a>Or
-1. **4** personnes de votre entreprise doivent satisfaire aux exigences d’examens ou d’évaluations.
+        - **IoT Device Builder** focus area
 
-    - **4** personnes doivent chacune réussir l’examen suivant:
+            - [IoT Device Builder Assessment for Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
 
-        - Domaine stratégique **Créateur système**
+###Gold
+1. Your organization must have **4** individuals pass the required exams or assessments.
 
-            - [Examen70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): Fabrication OEM et déploiement de Windows10
+    - **4** individuals must each pass the following exam:
 
-    **OU**
+        - **System Builder** focus area
 
-    - **4** personnes doivent chacune réussir l’évaluation suivante:
+            - [Exam 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): OEM Manufacturing and Deployment for Windows 10
 
-        - Domaine stratégique **Créateur d’appareils IoT**
+    **OR**
+
+    - **4** individuals must each pass the following assessment:
+
+        - **IoT Device Builder** focus area
         
-            - [Évaluation de créateur d’appareils IoT pour Windows10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
+            - [IoT Device Builder Assessment for Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
 
-##<a name="surface-hub-option"></a>Option SurfaceHub
-L’option de Surface Hub est idéale si vous êtes un ADR autorisé de Surface Hub et que vous préférez acquérir la compétence par les ventes de Surface Hub. Effectuez toutes les étapes correspondantes pour acquérir la compétence Windows et appareils.
+##Surface Hub option
+The Surface Hub option is ideal if you are an authorized Surface Hub ADR and prefer to attain competency through Surface Hub sales. Complete all the steps within the option to attain the Windows and Devices competency.
 
-###<a name="silver"></a>Argent
-1. Votre entreprise doit se conformer aux seuils de performance.
+###Silver
+1. Your organization must meet the performance thresholds.
 
-    - Le partenaire doit avoir expédié 12appareils sur les douze derniers mois avec en moyenne 1unité par mois.
-    - Le partenaire doit être également un ADR autorisé de Surface Hub.
+    - Partner must have shipped 12 devices in the TTM period with an average of 1 unit a month.
+    - Partner must also be an authorized Surface Hub ADR.
 
-2. **2** personnes de votre entreprise doivent réussir l’évaluation requise.
+2. Your organization must have **2** individuals pass an assessment.
 
-    - [Évaluation pour le Surface Hub](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
+    - [Surface Hub Assessment](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
 
 
-###<a name="gold"></a>Or
-1. Votre entreprise doit se conformer aux seuils de performance.
+###Gold
+1. Your organization must meet the performance thresholds.
 
-    - Le partenaire doit avoir expédié 52appareils sur les douze derniers mois avec en moyenne 4unités par mois.
-    - Le partenaire doit être également un ADR autorisé de Surface Hub.
+    - Partner must have shipped 52 devices in the TTM period with an average of 4 units a month.
+    - Partner must also be an authorized Surface Hub ADR.
 
-2. **4** personnes de votre entreprise doivent satisfaire aux exigences d’examens ou d’évaluations.
+2. Your organization must have **4** individuals pass the required exams and assessment.
 
-    - **4** personnes doivent réussir l’évaluation suivante:
+    - **All** individuals must pass the following assessment:
     
-        - [Évaluation pour le Surface Hub](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
+        - [Surface Hub Assessment](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
     
-    **ET**
+    **AND**
 
-    - **Toutes** les personnes doivent chacune réussir l’un des examens suivants:
+    - **All** individuals must each pass one of the following exams:
 
-        - [Examen70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Activation des services Office365
-        - [Examen70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Solutions de base de SkypeEntreprise2015 
-        - [Examen70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planification et gestion des appareils dans l'entreprise
-        - [Examen70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuration des appareils Windows 
-
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
+        - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
+        - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
+-->
 
 
       
