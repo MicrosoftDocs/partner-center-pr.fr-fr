@@ -3,12 +3,13 @@ title: Gérez vos avantages MicrosoftPartner Network | Espace partenaires
 description: En tant que membre de MicrosoftPartner Network, vous avez le droit d'acheter certains avantages. Explique comment activer et gérer vos avantages en tant que membre dans votre Tableau de bord du partenaire.
 author: MaggiePucciEvans
 keywords: MPN, avantages d'adhésion, adhésion
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207279"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876909"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer les avantages de votre adhésion à MicrosoftPartnerNetwork
 
@@ -25,6 +26,9 @@ Lorsque vous rejoignez le MicrosoftPartner Network (MPN), vous avez accès à to
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Gérer vos avantages d'adhésion dans le tableau de bord
 
 Une fois que vous avez acheté un package d'avantages d'adhésion, vous devez obtenir les clés logicielles et attribuer des licences, des abonnements et d'autres avantages aux employés pour commencer à les utiliser. 
+
+>[!IMPORTANT]
+>Alors que vous n’êtes pas obligé d’être un administrateur global dans votre organisation pour acheter des avantages, vous n’avez pas besoin d’être l’administrateur global pour attribuer des avantages aux employés.  Si vous le souhaitez, vous pouvez devenir un administrateur global en suivant les instructions sur votre [page **avantages** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). En outre, votre organisation peut-être déjà un administrateur global par conséquent, veillez à vérifier avec votre équipe.
 
 Vos packages d'avantages incluent les allocations de licences logicielles de droits d’utilisation interne, les services cloud, les abonnements Visual Studio et le support. Vous pouvez obtenir plus de détails sur l'abonnement ActionPack sur le site [MicrosoftPartnerNetwork](https://partner.microsoft.com/membership/internal-use-software).  
 

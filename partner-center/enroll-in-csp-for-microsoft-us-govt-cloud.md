@@ -1,12 +1,14 @@
 ---
-title: "S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis"
-description: "Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises."
+title: S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
+description: Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877199"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -64,7 +66,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
 >**Remarque**<br>
 Une fois que des utilisateurs sont affectés au rôle Agent administrateur, ils peuvent accéder à votre liste de clients sur la page **Clients** et [ajouter de nouveaux clients](add-a-new-customer.md).   
 
-1.  Ouvrez une session depuis le portail d’administration MicrosoftAzure à l'adresse https://portal.azure.us/.
+1.  Connectez-vous au portail Microsoft Azure administrateur à https://portal.azure.us/.
 
 2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure ActiveDirectory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
  

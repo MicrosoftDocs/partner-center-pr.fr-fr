@@ -1,52 +1,49 @@
 ---
-title: Support du client | Espace partenaires
-description: "Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir des services techniques et une assistance&nbsp;: Aide concernant la facturation et l’abonnement Aide au déploiement, à l’approvisionnement et configuration logicielle Résolution de problèmes de performances, de disponibilité de service, de connectivité client et de bureau client dus à des paramètres manquants ou mal configurés, intégration logicielle incomplète, problèmes d’autorisations ou autres problèmes de déploiement. Gestion des mises à jour des services et logiciels Réponse aux questions sur l’utilisation Les fournisseurs de solutions&nbsp;Cloud doivent expliquer clairement aux clients comment ils bénéficieront du support. Si vous n’assurez pas un support téléphonique 24&nbsp;heures sur&nbsp;24, vous devez fournir un contrat de niveau de service pour expliquer les options à vos clients. Microsoft ne fournit pas de support aux clients du programme Fournisseur de solutions Cloud."
+title: Fournir du support à vos clients | L’espace partenaires
+description: Les partenaires sont requises pour recevoir des demandes entrantes de prise en charge des clients, diagnostiquer les problèmes du partenaire mieux et puis résoudre les problèmes qui se trouvent dans la portée des limites de prise en charge de base de référence.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 62a3a469180b084123f409e97f093056d36bfdd9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877269"
 ---
-# <a name="customer-support"></a>Service clientèle
+# <a name="providing-support-to-your-customers"></a>Fournir du support à vos clients
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de MicrosoftCloud Germany
 
-Vous êtes le premier point de contact pour vos clients et vous êtes censé leur fournir les services de support technique ou de prise en charge des comptes suivants:
+## <a name="microsoft-partner-support-guidance"></a>Guide de prise en charge de partenaire Microsoft
 
--   Prise en charge de l’abonnement et de la facturation
+Les partenaires des transactions dans le modèle de fournisseur de solutions cloud sont le Conseiller de confiance à leurs clients et possèdent la relation de bout en bout, notamment la prise en charge lors de leur client possède une question ou un problème. Par le biais de prise en charge tactile points partenaires peuvent en savoir plus sur le client et leur activité, pour identifier les nouveaux services et des solutions qui pilotent valeur.
 
--   Aide pour l’approvisionnement/le déploiement et configuration logicielle
+Pour répondre à la demande de prise en charge, le partenaire peut revendre prise en charge à partir d’une autre entité, ils peuvent sous-traiter tout ou partie de leur structure de prise en charge et/ou qu’ils peuvent définir une structure pour prendre en charge directement.  Le partenaire peut facturer pour tout ou partie de la prise en charge fourni aux clients. Le partenaire doit articuler à leurs clients la prise en charge, ils fournissent, les heures de service et la méthode, ainsi que la tarification (si le chargement de la prise en charge) du contact. 
 
--   Résolution des problèmes de performances, des problèmes de disponibilité de service, des problèmes de connectivité client et des problèmes de bureau client en raison de paramètres manquants ou mal configurés, des problèmes d’intégration logicielle incomplète, des problèmes d’autorisations ou de tout autre problème de déploiement.
+Les partenaires sont requises pour recevoir des demandes entrantes de prise en charge des clients, diagnostiquer les problèmes du partenaire mieux et puis résoudre les problèmes qui se trouvent dans la portée des limites de prise en charge de base de référence. Si le partenaire est impossible de résoudre un problème, ils peuvent transmettre les problèmes à Microsoft via des voitures suivantes:
 
--   Gestion des mises à jour pour les services et les logiciels
+- Prise en charge de problème **commercial** est disponible pour tous les partenaires du programme fournisseur de solutions cloud
+-   Support **technique** de problème est disponible par le biais de:
+    -   premier Support pour les partenaires (frais de base)
+    -   Prise en charge avancée pour les partenaires (frais de base)
+    -   Prise en charge du Cloud signature (inclus avec les compétences or/argent)
 
--   Réponses aux questions sur l’utilisation
+## <a name="providing-billing-subscription-management-and-technical-support"></a>En fournissant la facturation, la gestion de l’abonnement et support technique 
 
-Les fournisseurs de solutions cloud doivent fournir à leurs clients une description claire de la façon dont ils recevront du support. Si vous ne fournissez pas de support téléphonique 24 heures sur 24, vous devez fournir un contrat de niveau de service pour expliquer les options à vos clients. Microsoft ne fournit pas de support aux clients du programme Fournisseur de solutions Cloud.
+Chaque service en ligne a des exigences spécifiques et détaillées permettant de facturation, gestion des abonnements et support technique pour les clients. Consultez les documents suivants pour plus d’informations.
 
-## <a href="" id="supportingtrainingcustomers"></a>Prise en charge et formation de vos clients
+-   [Abonnements Dynamics 365 vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [Abonnements Azure vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [Abonnements Office 365 vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
-Si vous répondez à de nombreuses questions d’aide et de procédures, si les chiffres d’adoption de votre compte sont faibles ou si vous recherchez des opportunités de vente incitative, vous pouvez envisager des cours de formation. En apprenant à vos clients à mieux utiliser les logiciels de solution cloud qu’ils ont achetés, vous avez plus de chances de connaître une augmentation de la productivité et de la satisfaction, ainsi qu’une diminution des besoins en matière de support. Pour bénéficier de conseils et de suggestions, voir [Augmenter l’adoption et la satisfaction client](increasing-adoption-and-satisfaction.md).
-
-## <a name="customer-support"></a>Service clientèle
-
-
-[Proposer une assistance à la facturation](provide-billing-support.md)
-
-[Proposer un support technique](provide-technical-support.md)
-
-[Communication client de Microsoft](customer-communication-from-microsoft.md)
-
-[Support autonome du client](customer-self-support.md)
-
-[Faire remonter des problèmes à Microsoft](escalate-problems-to-microsoft.md)
 
  
 

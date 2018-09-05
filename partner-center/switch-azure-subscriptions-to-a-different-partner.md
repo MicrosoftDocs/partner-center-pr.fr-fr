@@ -4,12 +4,13 @@ description: Un client peut changer de partenaire dans le programme Fournisseur 
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
-ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088956"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877559"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transférer des abonnements Azure 
 
@@ -18,6 +19,8 @@ ms.locfileid: "2088956"
 -  Espace partenaires
 
 Un client peut décider de faire appel à un partenaire fournisseur de solutions Cloud ou à un autre partenaire pour utiliser les services Microsoft Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
+
+**Remarque**  À ce stade uniquement Direct ou des fournisseurs indirects sont en mesure de transférer des abonnements.
 
 **Remarque** il n'est pas possible de changer de fournisseur de solutions Cloud pour les abonnements Office365, EnterpriseMobility ou MicrosoftDynamicsCRM.
 

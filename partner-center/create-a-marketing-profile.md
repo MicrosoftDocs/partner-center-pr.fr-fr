@@ -4,11 +4,13 @@ description: Créez un profil d’entreprise dans l’Espace partenaires pour ob
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, références, prospects, C2PC, profil de l’entreprise, promouvoir votre société, rechercher un partenaire, trouver un fournisseur de solutions, profil d’entreprise, profil commercial
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877624"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Créer un profil d’entreprise pour obtenir des prospects de Microsoft
@@ -58,7 +60,7 @@ Présentez votre société, en ajoutant un logo, une brève description et un li
 
 Le logo peut être un fichier GIF, JPG ou PNG, d'une largeur maximale de 300pixels. Nous recommandons d'utiliser un format carré ou rectangulaire. Les formats de grande hauteur ne sont pas conseillés.
 
-La description ne doit pas dépasser 1000caractères. Conseils pour créer une description réussie: 
+Votre description peut contenir jusqu'à 2 500 caractères. Conseils pour créer une description réussie: 
 
 *  **Soyez bref**, en commençant par le plus important dès la première ou les deux premières phrases. Le titre est ce qui doit attirer l’attention des clients. Dans l'outil de recherche Rechercher un partenaire, nous affichons la première ou les deux premières lignes dans l’aperçu des résultats de recherche.
 *  **Concentrez-vous sur les expériences de votre entreprise liées aux offres de Microsoft**. Les clients qui parcourent les références recherchent généralement des partenaires avec une expérience spécifique de Microsoft.

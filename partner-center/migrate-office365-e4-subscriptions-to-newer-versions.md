@@ -1,11 +1,14 @@
 ---
-title: "Migrer des abonnements Office365E4 vers les nouvelles versions d’Office365 | Espace partenaires"
-description: "L&quot;édition MicrosoftOffice365 EntrepriseE4 n’est plus disponible depuis le 7 avril2017. Découvrez comment migrer vos abonnements client vers des versions plus récentes d’Office365."
+title: Migrer des abonnements Office365E4 vers les nouvelles versions d’Office365 | Espace partenaires
+description: L'édition MicrosoftOffice365 EntrepriseE4 n’est plus disponible depuis le 7 avril2017. Découvrez comment migrer vos abonnements client vers des versions plus récentes d’Office365.
 author: MaggiePucciEvans
-ms.openlocfilehash: aa8bc051b85f60242b1cc08e05b8c2b2d22ac413
-ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 545cfa5c635c9093cd0261bf35e01ba2823571ef
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876929"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office365E4 vers les nouvelles versions d’Office365
 

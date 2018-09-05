@@ -3,12 +3,13 @@ title: Acheter ou renouveler un abonnement MicrosoftActionPack | Espace partenai
 description: Découvrez comment obtenir MicrosoftActionPack, qu'il s'agisse d'un premier achat ou d'un renouvellement.
 author: MaggiePucciEvans
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
-ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207259"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876709"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Premier achat ou renouvellement d'un abonnement MicrosoftActionPack
 
@@ -55,7 +56,7 @@ Une fois membre du réseau de partenaires, suivez les [instructions sur le site 
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>Pour renouveler un abonnement MicrosoftActionPack dans le Tableau de bord du partenaire
 
-1. Accédez à votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers), puis sélectionnez **Acheté**. Recherchez la vignette **Abonnement au MicrosoftActionPack**.  
+1. Accédez à votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers), puis sélectionnez **Acheté**. Recherchez la vignette de **l’Abonnement Microsoft Action Pack** .  
 
 2. Sélectionnez **Renouveler l’abonnement**, puis sélectionnez votre mode de paiement. Vous pouvez payer à l’aide d’une carte de crédit ou d'un virement bancaire électronique.
 

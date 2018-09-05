@@ -1,11 +1,14 @@
 ---
-title: "S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftCloud Germany | Espace partenaires de Microsoft Cloud Germany"
+title: S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftCloud Germany | Espace partenaires de Microsoft Cloud Germany
 description: Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud Germany, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
-ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
-ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877499"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany
 
@@ -33,7 +36,7 @@ Pour créer un compte Espace partenaires et vous inscrire au programme Fournisse
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Étape1: créer un compte pour l'Espace partenaires de MicrosoftCloud Germany 
 
-1.  Pour s'inscrire au programme Fournisseur de solutions Cloud pour MicrosoftCloud Germany, accédez à [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) et sélectionnez **Se connecter**. 
+1.  Pour inscrire dans le programme CSP de Microsoft Cloud Germany, accédez à [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) , puis sélectionnez **se connecter**. 
 
 2.  Ouvrez une session avec les informations d’identification d’administrateur général pour le compte MicrosoftCloud Germany de votre société pour Office365, MicrosoftDynamics et MicrosoftAzure. Si votre société n’a pas de compte pour ces portails, sélectionnez **Créer un**.
 
@@ -69,7 +72,7 @@ MicrosoftCloud Allemagne fournit une instance distincte de MicrosoftAzure, assur
 >**Remarque**<br>
 Une fois que vous aurez assigné des utilisateurs au rôle d'agent administrateur, le menu **Clients** apparaîtra dans le menu Tableau de bord et vous serez en mesure d’accéder à votre liste de clients et d'[ajouter de nouveaux clients](add-a-new-customer.md).   
 
-1.  Connectez-vous au portail Azure Allemagne à l'adresse https://portal.microsoftazure.de/.
+1.  Connectez-vous au portail Azure Allemagne à https://portal.microsoftazure.de/.
 
 2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure ActiveDirectory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
  

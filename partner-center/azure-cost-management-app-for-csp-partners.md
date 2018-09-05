@@ -4,11 +4,13 @@ description: Azure Cost Management par Cloudyn requiert un accès fourni à l'AP
 author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
-ms.openlocfilehash: 1b778dee20e449f778b9a67ea681a9ee9a430c8c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877449"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Application Azure Cost Management pour les partenaires fournisseurs de solutions Cloud  
 

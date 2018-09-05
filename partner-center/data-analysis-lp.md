@@ -1,13 +1,15 @@
 ---
-title: "Données et analyse dans l’Espace partenaires | Espace partenaires"
-description: "Utilisez les fonctionnalités de données dans l'Espace partenaires pour mieux comprendre votre activité."
+title: Données et analyse dans l’Espace partenaires | Espace partenaires
+description: Utilisez les fonctionnalités de données dans l'Espace partenaires pour mieux comprendre votre activité.
 author: labrenne
-keywords: "données, analyse, analyse des données, powerbi"
-ms.openlocfilehash: 81e10c649fa3ab0f7662db915b7f891671b48bbe
-ms.sourcegitcommit: dcaa831710115ac0852131605115b9b6cc67c5d5
-ms.translationtype: HT
+keywords: données, analyse, analyse des données, powerbi
+ms.localizationpriority: medium
+ms.openlocfilehash: e76fc54712628808599d63a799d009821c81343b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877159"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Obtenir des données et analyser votre activité 
 

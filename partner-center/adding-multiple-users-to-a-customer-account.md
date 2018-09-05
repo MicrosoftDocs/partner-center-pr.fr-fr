@@ -4,11 +4,13 @@ description: Vous pouvez ajouter plusieurs utilisateurs en même temps au compte
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: chargement groupé, ajouter plusieurs utilisateurs à un compte client, ajouter des utilisateurs du client, chargement groupé des utilisateurs du client, compte client, utilisateurs du client, utilisateurs
-ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876969"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Ajouter plusieurs utilisateurs à un compte client
 
@@ -54,15 +56,13 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 
     **Remarque** La plupart des erreurs de création de compte sont provoquées par des problèmes de fichier de données, comme des informations manquantes, des adresses de messagerie incorrectes ou dupliquées, un trop grand nombre d’enregistrements dans le fichier.
 
-     
-
 7.  Lorsque le Tableau de bord du partenaire a validé le fichier, sélectionnez l’**emplacement** géographique des nouveaux utilisateurs.
 8.  Sélectionnez **Enregistrer**.
 9.  Téléchargez le mot de passe temporaire des utilisateurs.
 
 **IMPORTANT&nbsp;:** n’oubliez pas de télécharger le fichier avec les mots de passe temporaires maintenant, car cette opération ne sera plus possible après. Les nouveaux utilisateurs doivent se connecter à leur nouveau compte à l’aide du mot de passe temporaire correspondant.
 
-Le Tableau de bord du partenaire attribue automatiquement les autorisations **Peut utiliser les licences et services** aux nouveaux utilisateurs.
+10. Nouveaux utilisateurs reçoivent automatiquement les autorisations de **peut utiliser les licences et services** . 
 
  
 

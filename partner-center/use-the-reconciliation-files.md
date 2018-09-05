@@ -3,11 +3,13 @@ title: Utiliser les fichiers de rapprochement | Espace partenaires
 description: Pour une vue détaillée de chaque élément facturé dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir du tableau de bord de l’Espace partenaires.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877549"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -470,8 +472,8 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 |CustomerCountry |Le pays dans lequel se trouve le client. |
 |InvoiceNumber |Le numéro de la facture dans laquelle la transaction spécifiée apparaît. |
 |MpnId |L'identifiant MPN du partenaire fournisseur de solutions Cloud (direct ou indirect). |
-|ID MPN revendeur |Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect. IDMPN du revendeur de référence pour la réservation. Cet ID correspond à l’ID de revendeur indiqué pour la réservation dans l’Espace partenaires. Si un partenaire fournisseur de solutions Cloud a vendu la réservation directement au client, son ID MPN est indiqué deux fois, en tant qu’ID MPN et ID MPN revendeur. Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire. Si le partenaire fournisseur de solutions Cloud supprime un D revendeur, cette valeur est définie sur -1. |
-|OrderId |Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la réservation Azure lors de tout contact avec le support technique, mais pas pour le rapprochement. |
+|ID MPN revendeur |Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect. IDMPN du revendeur de référence pour la réservation. Cet ID correspond à l’ID de revendeur indiqué pour la réservation dans l’Espace partenaires. Si un partenaire Fournisseur de solutions Cloud a vendu la réservation directement au client, son ID MPN est indiqué deux fois, en tant qu’ID MPN et ID MPN revendeur. Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire. Si le partenaire fournisseur de solutions Cloud supprime un ID revendeur, cette valeur est définie sur-1. |
+|OrderId |Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la réservation Azure lors du contact avec le support technique, mais pas pour le rapprochement. |
 |OrderDate |La date à laquelle la commande a été passée. |
 |ProductId |ID du produit. |
 |SkuId  |L’ID d'une référence SKU spécifique. |
@@ -516,8 +518,8 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>Frais récurrents</strong></p>
+<td rowspan="10">
+<p><strong>Frais basé sur les licences</strong></p>
 </td>
 <td>
 <p>Frais d'activation</p>
@@ -525,7 +527,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <td>
 <p>Montant facturé au client lorsqu’il utilise l’abonnement après l'avoir acheté</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Montant</strong></p>
 </td>
 </tr>
@@ -586,6 +588,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </td>
 </tr>
 <tr>
+
 <td>
 <p>Frais de renouvellement</p>
 </td>
@@ -595,16 +598,10 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td>
-<p><strong>Autres produits et services</strong></p>
-</td>
-<td>
 <p>Frais au prorata lors de l'activation</p>
 </td>
 <td>
 <p>Frais au prorata de l’activation à la fin de la période de facturation</p>
-</td>
-<td>
-<p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>Montant</strong></p>
 </td>
 </tr>
 <tr>
@@ -631,7 +628,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td>
-<p><strong>Crédits &amp; ajustements</strong></p>
+<p><strong>Crédits</strong></p>
 </td>
 <td>
 <p>Décalage d’un élément de ligne</p>
@@ -644,12 +641,9 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>PostTaxTotal</strong></p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>Autres remises</strong></br>
-<em>(basées sur l’utilisation)</em></p>
+<p><strong>Sur l’utilisation des remises</strong></p>
 </td>
 <td>
 <p>Remise sur l’activation</p>
@@ -657,6 +651,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <td>
 <p>Remise appliquée lors de l’activation de l’abonnement</p>
 </td>
+
 <td rowspan="4">
 <p>À partir d'un fichier basé sur l’utilisation, faites la somme des montants indiqués dans la colonne <strong>PretaxCharges</strong></p>
 </td>
@@ -668,14 +663,16 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <td>
 <p>Remise appliquée sur les frais périodiques</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Renouveler la remise</p>
 </td>
 <td>
 <p>Remise appliquée lors du renouvellement de l’abonnement</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Annuler la remise</p>
 </td>
@@ -683,16 +680,17 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>Frais appliqués lors de l’annulation des remises</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>Autres remises</strong></br>
-<em>(basées sur une licence)</em></p>
+<p><strong>Basé sur les licences des remises</strong></p>
 </td>
 <td>
 <p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
 <p>Reportez-vous au fichier basé sur les licences pour faire la somme des montants de la colonne <strong>TotalOtherDiscount</strong></p>
@@ -704,7 +702,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </td>
 <td>
 <p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
-<p><em>Exception: les taxes sont déjà incluses dans «Décalage d'un élément de la ligne». Consultez les crédits &amp;ajustements ci-dessus.</em></p>
+<p><em>Exception: les taxes sont déjà incluses dans «Décalage d'un élément de la ligne». Consultez les crédits, ci-dessus.</em></p>
 </td>
 <td>
 <p>Taxes ou taxe sur la valeur ajoutée (TVA)</p>

@@ -1,11 +1,15 @@
 ---
-title: "Recevoir des notifications de service automatisées avec nos&nbsp;API | Espace partenaires"
-description: "Office365 et Microsoft Azure fournissent chacun uneAPI que les partenaires peuvent utiliser pour récupérer des informations en temps réel sur l’état du service, consulter les messages reçus et connaître les événements de maintenance planifiés."
+title: Recevoir des notifications de service automatisées avec nos&nbsp;API | Espace partenaires
+description: Office365 et Microsoft Azure fournissent chacun uneAPI que les partenaires peuvent utiliser pour récupérer des informations en temps réel sur l’état du service, consulter les messages reçus et connaître les événements de maintenance planifiés.
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
-ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 02a478aa0822eb0709424623a9fa2822e6cbe935
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877309"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Recevoir des notifications de service automatisées avec nosAPI
 

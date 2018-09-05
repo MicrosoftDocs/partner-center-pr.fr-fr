@@ -1,12 +1,15 @@
 ---
 title: Restaurer un compte Espace partenaires suspendu | Espace partenaires
-description: "Découvrez comment restaurer un compte Espace partenaires suspendu, pourquoi un compte peut être suspendu et comment utiliser votre compte pendant la suspension."
+description: Découvrez comment restaurer un compte Espace partenaires suspendu, pourquoi un compte peut être suspendu et comment utiliser votre compte pendant la suspension.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: fr-FR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877029"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurer un compte Espace partenaires suspendu
 
@@ -39,9 +42,9 @@ Si votre compte est débiteur, suivez les instructions sur votre facture pour r�
 
 **Pour envoyer une demande de support**
 
-1.    Dans le menu **Tableau de bord**, sélectionnez **Requêtes de support > Partner Center requests**.
-2.    Sélectionnez **Nouvelle demande**. 
-3.    Complétez le formulaire, puis sélectionnez **Envoyer**. Un représentant du support de l'Espace partenaires vous contactera pour vous expliquer pourquoi votre compte a été suspendu et comment le réactiver.
+1.  Dans le menu **Tableau de bord**, sélectionnez **Requêtes de support > Partner Center requests**.
+2.  Sélectionnez **Nouvelle demande**. 
+3.  Complétez le formulaire, puis sélectionnez **Envoyer**. Un représentant du support de l'Espace partenaires vous contactera pour vous expliquer pourquoi votre compte a été suspendu et comment le réactiver.
 
 
 
