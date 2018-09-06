@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874569"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405431"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
@@ -61,6 +61,12 @@ Dans chacune de ces catégories générales, un utilisateur ne peut avoir qu'un 
 
 >[!Important]
 >Les utilisateurs doivent disposer d’au moins un rôle pour travailler dans le Tableau de bord du partenaire.
+
+
+### <a name="find-your-global-admin"></a>Recherchez votre administrateur global
+
+Parfois, un utilisateur peut avoir besoin de disposer de leur rôle modifié ou un nouvel utilisateur préférerez peut-être une attribution de rôle spécifique.  
+Pour rechercher un administrateur global qui peut appliquer les modifications de rôle ou d’affecter des rôles à un nouvel utilisateur, à partir de l' **icône Paramètres** dans la partie supérieure droite du tableau de bord, sélectionnez la **Gestion des utilisateurs** et le filtrage administrateur général. 
 
 Pour obtenir des informations spécifiques sur les rôles et de ce que chaque rôle peut faire, voir [affecter des autorisations utilisateur](permissions-overview.md).
 
