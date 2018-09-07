@@ -4,12 +4,12 @@ description: Tous les employés qui ont besoin de travailler dans le tableau de 
 author: labrenne
 keywords: rôles, autorisations, administrateur, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875989"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630610"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles aux utilisateurs et des autorisations
 
@@ -62,6 +62,7 @@ Le tableau suivant explique ce que chaque rôle peut faire dans le Tableau de bo
 <td><ul>
 <li><p>Afficher, créer et gérer des utilisateurs</p></li>
 <li><p>Afficher tous les profils de partenaire</p></li>
+<li><p>Afficher, créer et gérer les utilisateurs partenaires</p></li>
 </ul></td>
 </tr>
 <tr class="even">
