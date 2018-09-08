@@ -1,37 +1,56 @@
 ---
 title: Les clients délèguent les privilèges d'administration à des partenaires | Espace partenaires
-description: En tant que partenaire revendeur, votre client peut vous autoriser à être son administrateur délégué et il peut également supprimer des privilèges.
+description: Comme un partenaire revendeur, votre client peut vous autoriser à être leur administrateur. Ils peuvent également supprimer des privilèges.
 author: labrenne
-keywords: privilèges d’administrateur délégués, administrateur pour le compte de, supprimer des privilèges
+keywords: privilèges d’administrateur délégués, administrateur pour le compte de, supprimer des privilèges, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 7209917a92eb2cd9ae86c31f3126bdbac402a04e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8a6d14398bdd9a439bc001ecb3d03bc9d7774937
+ms.sourcegitcommit: 3478fc6fe1a061e5973307fffd039b4bee5d8e1c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877169"
+ms.lasthandoff: 09/08/2018
+ms.locfileid: "3806677"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Les clients délèguent les privilèges d'administration à des partenaires
 
 **S'applique à:**
 
--  Espace partenaires
+-  Tableau de bord du partenaire
 
-En tant que partenaire fournisseur de solutions Cloud et conseiller de confiance pour vos clients, ils peuvent vous autoriser à être leur administrateur délégué Office365 et de leur locataire AzureAD. Vous pouvez initialiser cette relation par le biais du Tableau de bord du partenaire en leur envoyant une invitation. 
+Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit accorder des autorisations d’administrateur pour ce service. Pour obtenir des autorisations d’administrateur de la part d’un client, envoyez-lui une demande de relation de revendeur par courrier électronique. Lorsque le client aura approuvé votre demande, vous serez en mesure d’ouvrir une session sur le portail d’administration du service et de gérer le service pour le compte du client. 
 
-1. Sélectionnez **Clients** à partir de votre menu **Tableau de bord**, puis sélectionnez **Demander une relation avec un client**.
-2. Un e-mail avec formulaire contenant votre URL s'affiche. Vous pouvez copier et coller le formulaire dans un e-mail à envoyer à votre client. N’hésitez pas à ajouter des informations supplémentaires, mais veillez à bien inclure l’URL. Le client utilisera cette URL pour répondre à votre demande.  
-3. Lorsque votre client accepte l’invitation, vous devenez l’administrateur de ses services.
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
 
-En accédant au portail de service Office365, vos clients peuvent savoir qui de leurs partenaires disposent des privilèges d’administrateur pour leur locataire. Pour cela, procédez comme suit:
+1.  Sélectionnez **clients** , puis **demander une relation de revendeur**.
 
-1. Connectez-vous au [Portail d'administration d'Office365Admin](https://portal.office.com/adminportal) en tant qu’administrateur général.
+2.  Sur la page suivante, vérifiez le brouillon du message électronique. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie électronique par défaut ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
+
+    >! IMPORTANT<br>
+    >Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte. 
+    
+3.  Sélectionnez **OK** lorsque vous avez terminé cette étape.
+
+4.  Envoyez le message électronique au client.
+
+5.  Une fois qu'il a accepté l’invitation, le client s’affiche sur votre page **Clients** et vous pouvez approvisionner et gérer son service à partir de cet emplacement.
+
+6.  Pour gérer le compte du client, les services, les utilisateurs et les licences, développez la fiche du client en sélectionnant la flèche vers le bas côté de son nom, puis sélectionnez le portail d’administration pour le service que vous souhaitez gérer.
+
+
+>**Important**<br>
+Les clients peuvent réattribuer ou supprimer des autorisations d’administrateur sur le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, contactez le support Microsoft pour ouvrir une demande de service au nom du client.
+
+Vos clients peuvent savoir qui de leurs partenaires disposent des privilèges d’administrateur pour leur locataire dans le portail d’administration Office 365. Pour cela, procédez comme suit:
+
+1. Le client a besoin de se connecter au portail d’administration Office 365 en tant qu’un administrateur général.
+
 2. Sélectionnez **Paramètres** → **Relations de partenariat**.
-3. Sur la page **Relations de partenariat**, ils verront une liste des partenaires avec lesquels ils travaillent et ceux qui disposent de privilèges d'administrateur délégués sur leur locataire.
+
+3. Sur la page **relations de partenariat** , le client verra une liste des partenaires avec lesquels ils travaillent et ceux qui ont été délégués sur leur locataire.
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Les clients peuvent gérer les privilèges d'administrateur délégués d'un partenaire 
 
-Votre client peut décider de supprimer les privilèges d'administrateur dont vous disposez sur leur locataire, mais conserver la relation avec vous à des fins d'abonnement et de renouvellement des licences. Les clients gèrent les droits et autorisations pour leurs comptes Office365 sur la page **Relations de partenariat** du Centre d’administration Office365. Sur cette page, les clients peuvent:
+Votre client peut décider de supprimer vos privilèges d’administrateur délégués à partir de leur client, mais conserver la relation avec votre abonnement et à des fins de renouvellement de licence. Les clients gèrent les droits et autorisations pour leurs comptes Office365 sur la page **Relations de partenariat** du Centre d’administration Office365. Sur cette page, les clients peuvent:
 
 - Voir avec quels partenaires ils ont établi une relation et quels partenaires ont des privilèges d'administrateur délégués
 
@@ -68,13 +87,13 @@ Chaque abonnement Azure a son propre ensemble de rôles de gestion de ressources
 
 - Lorsqu’un client supprime des privilèges d'administrateur délégués d’un partenaire à l’aide du portail Office365, le partenaire peut toujours gérer l'abonnement Azure du client tant que le partenaire dispose toujours d'un ou plusieurs rôles dans le cadre de l’abonnement. Pour empêcher le partenaire de gérer l'abonnement Azure, le client doit supprimer l'attribution de tous les rôles.
 
-## <a name="windows-autopilot"></a>WindowsAutoPilot 
+## <a name="windows-autopilot"></a>Windows Autopilot 
 
-À partir du Tableau de bord du partenaire, les partenaires fournisseurs de solutions Cloud peuvent gérer la configuration AutoPilot pour leurs clients même sans privilèges d'administrateur délégués. Découvrez comment [simplifier l’installation d'appareils avec WindowsAutoPilot](https://docs.microsoft.com/partner-center/autopilot).
+À partir du tableau de bord du partenaire, les partenaires de fournisseur de solutions cloud peuvent gérer des profils Autopilot pour leurs clients sans privilèges d’administrateur délégués. Découvrez comment [simplifier l’installation d'appareils avec WindowsAutoPilot](https://docs.microsoft.com/partner-center/autopilot).
 
-Les possibilités offertes dépendent de votre statut de revendeur (direct ou indirect).
+Ce que vous pouvez faire varie sur quel modèle fournisseur de solutions cloud vous êtes inscrit.
 
-|**Opération**   |**Revendeur direct ou revendeur indirect**   |**Revendeur indirect**   |
+|**Opération**   |**L’espace de facture direct et le fournisseur Indirect**   |**Revendeur indirect**   |
 |-----------------|-----------------------------------| -----------------------------|
 |Ajouter des appareils (à l’aide d'un fichier CSV)  |Oui      |Non|
 |Supprimer des appareils   |Oui   |Non|
@@ -84,14 +103,14 @@ Les possibilités offertes dépendent de votre statut de revendeur (direct ou in
 |Appliquer le profil aux appareils   |Oui   |Oui   |
 |Supprimer le profil des appareils   |Oui   |Oui   | 
 
-- Les partenaires fournisseurs de solutions Cloud peuvent continuer à gérer la configuration AutoPilot pour les clients existants dans le cas d'une relation de revendeur, même si les clients ont supprimé les privilèges d'administrateur délégués de leurs partenaires.
+- Si un client supprime des privilèges d’administration délégués, mais conserve une relation de revendeur avec vous, vous pouvez continuer à gérer les profils Autopilot pour eux.
 
-- Vous pouvez gérer pour vos clients les appareils existants que vous ou un autre partenaire fournisseur de solutions Cloud avez ajoutés.
+- Vous pouvez gérer les appareils clients que vous ou un autre partenaire avez ajoutés. 
 
-- Vous ne pouvez pas gérer les appareils que votre client a téléchargés (via MicrosoftStore pour Entreprises ou le portail MicrosoftIntune).
+- Vous ne pouvez pas gérer les appareils de que votre client a ajouté via le Microsoft Store pour entreprises, Microsoft Store pour éducation ou Microsoft Intune Portal.
 
->**Important** L’expérience de gestion AutoPilot actuelle dans l'Espace partenaires Microsoft n’est pas définitive et peut être modifiée à tout moment. Au moment de la rédaction de cet article, les modifications suivantes sont à l'étude:
+>**Important** L’expérience de gestion Autopilot actuelle dans le tableau de bord peut continuer à modifier. Au moment de la que date de publication de cet article, les modifications suivantes sont envisagées:
 
   - Avant de pouvoir ajouter/mettre à jour/supprimer des profils et appliquer/supprimer des profils pour l'ensemble des appareils dans le locataire du client, le partenaire doit se voir attribuer par le client des privilèges d'administrateur délégués.
 
-- Avant de pouvoir supprimer des appareils chargés par d'autres partenaires ou par le client dans le locataire du client, le partenaire doit se voir attribuer par le client des privilèges d'administrateur délégués. Dans le cas contraire, le partenaire ne pourra supprimer que les appareils qu'il a lui-même ajoutés.
+- Partenaire doit se voir délégués par le client avant de pouvoir supprimer le périphériques ajoutés par d’autres partenaires ou par le client dans le locataire du client. Dans le cas contraire, le partenaire peut supprimer uniquement les périphériques ajoutés précédemment par le même partenaire.
