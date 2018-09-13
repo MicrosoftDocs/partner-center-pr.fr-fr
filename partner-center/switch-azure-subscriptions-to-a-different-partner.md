@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
+ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877559"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "3966156"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transférer des abonnements Azure 
 
@@ -20,9 +20,11 @@ ms.locfileid: "2877559"
 
 Un client peut décider de faire appel à un partenaire fournisseur de solutions Cloud ou à un autre partenaire pour utiliser les services Microsoft Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
 
-**Remarque**  À ce stade uniquement Direct ou des fournisseurs indirects sont en mesure de transférer des abonnements.
+>[!Note]  
+>À ce stade uniquement Direct ou des fournisseurs indirects peuvent transférer des abonnements.
 
-**Remarque** il n'est pas possible de changer de fournisseur de solutions Cloud pour les abonnements Office365, EnterpriseMobility ou MicrosoftDynamicsCRM.
+>[!Note] 
+>Il n’est pas possible de changer pour les abonnements fournisseur de solutions Cloud pour les abonnements Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
 
 
 
@@ -30,7 +32,8 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
 
 1.  Pour transférer un abonnement Azure vers un nouveau partenaire, le client doit lancer le processus et contacter son partenaire de référence actuel par écrit. 
 
-    >**Remarque**<br> Il incombe au partenaire actuel de créer le ticket de service qui lance le processus de transfert. Microsoft ne peut pas intervenir pour le compte du client ou du nouveau partenaire. Le client doit prévoir de collaborer étroitement avec le partenaire actuel pour que la transition se passe sans heurt.
+    >[!Note]
+    >Il incombe au partenaire actuel de créer le ticket de service qui lance le processus de transfert. Microsoft ne peut pas intervenir pour le compte du client ou du nouveau partenaire. Le client doit prévoir de collaborer étroitement avec le partenaire actuel pour que la transition se passe sans heurt.
 
 2.  Le partenaire de l'abonnement doit effectuer les tâches suivantes:
 
@@ -54,7 +57,8 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
 
     -   L'ID d'abonnement à transférer. Dans la page de description développée du client, sélectionnez **Afficher les abonnements**, puis développez l'abonnement choisi pour voir son **ID d'abonnement**.
 
-    >**Remarque**<br> Le transfert d’un abonnement entraîne la création de deux ID d'abonnement, visibles sur la page **Modifier un abonnement** de l’abonnement transféré: **1**- L’ID d’abonnement associé à l'Espace partenaires est utilisé pour la facturation. 
+     >[!Note]
+     >Le transfert d’un abonnement entraîne la création de deux ID d'abonnement, visibles sur la page **Modifier un abonnement** de l’abonnement transféré: **1**- L’ID d’abonnement associé à l'Espace partenaires est utilisé pour la facturation. 
     **2**- L'ID d’abonnement Azure original est conservé et apparaîtra dans l'Espace partenaires, ainsi que dans le portail de gestion Azure. Cet ID apparaîtra dans votre fichier de rapprochement.  **Vous devez utiliser les deux ID pour toute soumission de ticket de support.**
 
 4.  Le client et le nouveau partenaire de l'abonnement:
@@ -62,6 +66,9 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
     Vérifient le formulaire, renseignent les informations sur le nouveau partenaire, puis le signent. Vérifiez que le nouveau client dispose d'un accord de contrat. Renvoyez le formulaire au partenaire de référence actuel.
 
     *Important*&nbsp;: si le nouveau partenaire Fournisseur de solutions&nbsp;Cloud n'a pas de relation de revendeur avec le client, il doit en établir une avant le transfert de l'abonnement. [Pour plus d'informations sur la marche à suivre, cliquez ici](request-a-relationship-with-a-customer.md).
+
+    >[!Note]
+    >Le nouveau partenaire fournisseur de solutions cloud et le locataire du client doivent être dans la même région. 
 
 5.  Partenaire actuel:
 
