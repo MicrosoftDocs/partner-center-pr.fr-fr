@@ -4,12 +4,12 @@ description: Acheter des logiciel tiers compatibles avec les produits Microsoft
 author: labrenne
 keywords: offres tierces, logiciels à acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
+ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875519"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "4062161"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Ajouter des logiciels tiers à votre portefeuille
 
@@ -21,7 +21,7 @@ Vous pouvez désormais acheter dans l’Espace partenaires des offres de logicie
 
 Actuellement, l’Espace partenaires propose des offres de logiciels tiers qui s’intègrent à Azure, Office365 et Dynamics 
 
-## <a name="connecting-with-third-party-partners"></a>Se connecter avec des partenaires tiers
+## <a name="connect-with-third-party-partners"></a>Entrer en contact avec des partenaires tiers
  
 En tant que partenaire fournisseur de solutions cloud, vous pourrez effectuer des recherches dans les offres de logiciels tiers. Vous pouvez vous connecter avec des partenaires éditeurs de logiciels indépendants et créer votre catalogue de produits. Les partenaires éditeurs de logiciels indépendants peuvent également rechercher des partenaires fournisseurs de solutions cloud avec lesquels travailler. Ils peuvent faire des recherches en fonction des types de produits Microsoft que vous vendez, mais aussi consulter le profil de votre entreprise. Il est important de maintenir à jour le profil de votre entreprise. Vous avisez un partenaire éditeur de logiciels indépendant de votre intérêt pour son produit en cliquant sur le bouton Je suis intéressé qui se trouve sur l’identificateur de produit et en remplissant le formulaire qui s’affiche. Microsoft l'envoie au partenaire éditeur de logiciels indépendant La réponse de celui-ci est conservée dans l’Espace partenaires. De même, lorsqu’un partenaire éditeur de logiciels indépendant exprime son souhait de travailler avec vous, vous recevez une notification par l'intermédiaire de l'espace partenaires. Essayez de répondre dans les 48heures.
 
