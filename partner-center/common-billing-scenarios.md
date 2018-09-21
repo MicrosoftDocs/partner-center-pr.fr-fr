@@ -5,20 +5,18 @@ ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: ff329480cec68e45c809016da64f6604c9837bb6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
+ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876589"
+ms.lasthandoff: 09/21/2018
+ms.locfileid: "4121114"
 ---
 # <a name="common-billing-scenarios"></a>Scénarios de facturation courants
 
 **S'applique à**
 
--  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de MicrosoftCloud Allemagne
+-   Facturation de programme de fournisseur de solutions cloud
 
 Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous ajoutez de nouveaux abonnements, modifiez le nombre de licences dans un abonnement ou annulez un abonnement. Les abonnements basés sur l’utilisation et ceux basés sur la licence sont affectés différemment.
 
@@ -74,7 +72,7 @@ Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un
 Le 1erfévrier, vous ajoutez une licence supplémentaire. Le 15février, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 13/01/2018        |12/02/2018    |Instance de cycle au prorata   |-4,00       |1        |4,00    
+| 13/01/2018        |12/02/2018    |Instance de cycle au prorata   |-4,00       |1        |-4,00    
 |13/01/2018         |31/01/2018    | Instance de cycle au prorata   |2,45       |1        |2.45    
 |01/02/2018         |12/02/2018    | Instance de cycle au prorata   |1,55       |2        |3,10    
 |13/02/2018         |12/03/2018    | Instance de cycle au prorata   |4,00       |2        |8,00    
@@ -98,10 +96,10 @@ Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         |12/02/2018    |Frais de cycle   |4,00       |1        |4,00    
 
-Le 1erfévrier vous suspendez l'abonnement. Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+Le 1er février vous suspendez un abonnement. Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/02/2018|Frais d'annulation|-4,00|1|4,00
+13/01/2018|12/02/2018|Frais d'annulation|-4,00|1|-4,00
 
 **Scénario4:Suspension après 30jours**
 
@@ -128,7 +126,7 @@ Prix unitaire=jours dans la période de servicexprix journalier xnombre de licen
 
 Il y a 12jours dans la période d'annulation (du 01/03/2018 au 12/03/2018). 
 
-Par conséquent, le prix unitaire=-1,716 (14x0,14x(-1)).
+Par conséquent, le prix unitaire = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="annual-billing-scenarios"></a>Scénarios de facturation annuelle
 
