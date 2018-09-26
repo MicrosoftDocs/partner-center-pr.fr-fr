@@ -2,14 +2,14 @@
 title: Attribuer des rôles d’utilisateurs et des autorisations | L’espace partenaires
 description: Tous les employés qui ont besoin de travailler dans le tableau de bord du partenaire doivent disposer d’un rôle.
 author: labrenne
-keywords: rôles, autorisations, administrateur, agent
+keywords: rôles, autorisations, administrateur, l’agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
-ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
+ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
+ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/07/2018
-ms.locfileid: "3630610"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "4227443"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles aux utilisateurs et des autorisations
 
@@ -21,13 +21,15 @@ Chaque rôle dans le tableau de bord est fourni avec certaines autorisations per
 
 En fonction de la taille de votre organisation, certains utilisateurs peuvent fonctionner sur plusieurs sites, ou uniquement pour un seul endroit. 
 
-Exemple:
+Exemple :
 
-- L’administrateur global peut être l’administrateur de l’entreprise juridique et un lieu spécifique; ou l’administrateur global peut être l’administrateur pour un seul des emplacements d’une entreprise. 
-- Les administrateurs de primes incitatives peuvent administrer pour un ou plusieurs emplacements, mais ces emplacements doivent être spécifiés.
+- L’administrateur global peut être l’administrateur pour les entreprises juridique et un lieu spécifique; ou l’administrateur global peut être administrateur pour un seul des emplacements de l’entreprise. 
+- Administrateurs de primes incitatives peuvent administrer pour un ou plusieurs emplacements, mais ces emplacements doivent être spécifiés.
 
 
 Le tableau suivant explique ce que chaque rôle peut faire dans le Tableau de bord du partenaire. Lorsque vous réfléchissez à l'attribution des rôles, prenez en compte le travail qu'un utilisateur effectue dans votre organisation. Vous pouvez, par exemple, attribuer également à l’administrateur général le rôle d’agent d’administration. La personne responsable du marketing peut également être chargée de gérer le profil de l’entreprise.
+
+Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes d’utilisateur et définir des autorisations](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
@@ -104,7 +106,7 @@ Le tableau suivant explique ce que chaque rôle peut faire dans le Tableau de bo
 <td><p><strong>Administrateur de primes incitatives</strong></p></td>
 <td><ul>
 <li><p>Peut attribuer des rôles de primes incitatives</p></li>
-<li><p>Lance et gère les revendications de primes incitatives</p></li>
+<li><p>Initie et gère les revendications de primes incitatives</p></li>
 <li><p>Peut afficher et modifier tous les aspects de programmes de primes incitatives</p></li>
 <li><p>Peut afficher les informations bancaires et fiscaux</p></li>
 <LI><p>Affichage des revenus remise et le mode coopération</p></li>
