@@ -1,23 +1,23 @@
 ---
-title: Vendre des abonnements logiciels par le biais du fournisseur de solutions cloud | L’espace partenaires
-description: Vendre des abonnements des logiciels via le programme CSP.
+title: Vendre des abonnements logiciels par le biais de fournisseur de solutions cloud | L’espace partenaires
+description: Vendre des abonnements logiciels via le programme CSP.
 author: maggiepuccievans
 keywords: Fournisseur de solutions, fournisseur de solutions cloud, les services basés sur le Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels le cloud
 ms.localizationpriority: medium
-ms.openlocfilehash: e3333183729b3d04cb3258aa8ae32e23547495a9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1bce2288f21398483719dab27e2f91040bc3abd2
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875319"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197677"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements des logiciels via le programme CSP
+# <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels via le programme CSP
 
 En plaçant des instances réservées Azure et Windows Server et abonnements SQL Server dans le programme CSP de Microsoft, Microsoft est préférable de l’activation de ses partenaires de répondre plus rapidement pour les solutions plus rentables prendre en charge hautement prévisible charges de travail et cloud persistantes. 
 
-Vous pouvez maintenant acquérir, approvisionner et gérer des instances réservées Azure et les abonnements de serveur pour le compte de clients commerciaux via Microsoft Partner Center et le portail Azure en tirant parti d’Azure Hybrid Benefit. 
+Vous pouvez maintenant acquérir approvisionner et gérer les instances réservées Azure et les abonnements de serveur pour le compte de clients commerciaux via Microsoft Partner Center et le portail Azure en tirant parti d’Azure Hybrid Benefit. 
 
-Azure Hybrid Benefit vous permet de tirer parti de plusieurs de vos licences Windows Server et enregistrer jusqu'à 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le WindowsServerDatacenter et les licences Standard prises en charge avec Software Assurance. En fonction de l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un faible taux de calcul de base (taux de machine virtuelle Linux).
+Azure Hybrid Benefit vous permet de tirer parti de plusieurs de vos licences Windows Server et d’économiser jusqu'à 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le WindowsServerDatacenter et les licences Standard prises en charge avec Software Assurance. En fonction de l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un faible taux de calcul de base (taux de machine virtuelle Linux).
 
 > [!NOTE]  
 > Les Instances réservées Azure ne sont pas disponibles dans les marchés suivants:  
@@ -42,7 +42,8 @@ Azure Hybrid Benefit vous permet de tirer parti de plusieurs de vos licences Win
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acheter des abonnements logiciels pour le compte de clients
 
-Pour acheter des abonnements logiciels pour le compte d’un client, accédez à la page des détails du client, sélectionnez Ajoutez des produits et suivez l’à l’écran instructions pour créer et payer à votre commande.
+Pour acheter des abonnements logiciels pour le compte d’un client, accédez à la page des détails du client, sélectionnez **Ajoutez des produits**et suivez l’à l’écran des instructions pour créer et régler votre commande. Tarification pour toutes les entreprises exclut fiscales à l’exception de l’Australie et Brésil. Pour l’Australie et Brésil, le prix inclut la taxe.
+
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer les abonnements des logiciels
 
@@ -58,7 +59,7 @@ Une fois que vous avez acheté votre logiciel, vos clients et vous devront la t�
 5.  Sélectionnez les **Télécharger** pour démarrer le téléchargement, ou sélectionnez **Copier le lien** pour copier le lien et les envoyer au client. 
 
 >[!NOTE]
->Ce lien expire au bout de deux semaines ou 50 téléchargements, selon ce qui apparaît en premier. Une fois que le lien arrive à expiration, revenez à cette page et sélectionnez **obtenir des clés et les téléchargements** à nouveau pour activer un autre deux semaines ou 50 téléchargements. Vous pouvez le faire aussi souvent que vous devez. 
+>Ce lien expire au bout de deux semaines ou 50 téléchargements, selon ce qui apparaît en premier. Une fois que le lien arrive à expiration, revenez à cette page et sélectionnez **obtenir des clés et des téléchargements** à nouveau pour activer un autre deux semaines ou 50 téléchargements. Vous pouvez le faire aussi souvent que vous devez. 
 
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
@@ -78,20 +79,20 @@ Utilisez la procédure suivante pour annuler un achat. Une fois que l’annulati
 
 2.  Sur la page de détails du client, sélectionnez le **logiciel**. Vous verrez une liste de tous les logiciels que vous avez acheté. 
 
-3.  Recherchez le logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. La page de **signaler un problème avec l’espace partenaires** s’ouvre. 
+3.  Recherchez le logiciel à annuler, puis sélectionnez **Annuler**. La page de **signaler un problème avec l’espace partenaires** s’ouvre. 
 
 4.  Sous **Détails**, dans la liste de **Type de problème** , sélectionnez **CSP achat/remboursement pour le compte de clients**.
 
-5.  Renseignez les champs de **l’Impact** et **titre** . 
+5.  Renseignez les champs **Impact** et **titre** . 
 
-6.  Dans le champ de **Description** , vous devez fournir les éléments suivants: 
+6.  Dans le champ de **Description** , fournissent les éléments suivants: 
     -   Le nom de domaine ou le GUID du client client
     -   ID de commande ou l’ID d’abonnement
     -   Raison de remboursement
     -   Montant demandé
 
-7.  Dans le champ de **Contact** , entrez votre nom, adresse de messagerie et numéro de téléphone. 
+7.  Dans le champ **Contact** , entrez votre nom, adresse de messagerie et numéro de téléphone. 
 
-8.  Si vous avez besoin joindre un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative. 
+8.  Si vous avez besoin joindre un fichier pour une raison quelconque, sélectionnez **Ajouter les fichiers**. Cette étape est facultative. 
 
-9.  Lorsque vous avez terminé, sélectionnez la **Soumettre**.
+9.  Lorsque vous avez terminé, sélectionnez **Soumettre**.

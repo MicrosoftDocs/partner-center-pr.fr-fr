@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 25f57a2ddc16ebb1f98d6f2f083fca870b74fdff
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876269"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197687"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d'un client
 
@@ -32,7 +32,11 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 
 **MicrosoftAzure**
 
-**Remarque** Pour que vous puissiez créer des demandes de service pour le compte de votre client dans Azure, votre fournisseur indirect doit vous accorder l'accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office365.   
+**Remarque** Lorsque vous avez besoin créer une demande de service pour votre client dans Azure, tenez compte des éléments suivants:
+
+- Afin que vous pouvez créer des demandes de service pour votre client dans Azure, votre fournisseur indirect doit vous accorder le qu'accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office365. 
+
+- Bien que l’administrateur du support technique dans l’espace partenaires ne peuvent pas créer des demandes de service dans le portail de service Azure, ce qu’ils peuvent faire est de créer un groupe de prise en charge dans le portail de service Azure et accorder des autorisations de ce groupe pour vous connecter des demandes de support.
 
 1.  Sélectionnez **Nouvelle demande de support**.
 2.  Remplissez la demande de support à l'aide des informations appropriées, puis sélectionnez **Créer**&nbsp;:
@@ -88,9 +92,9 @@ Votre droit au support du programme Fournisseur de solutions Cloud ne comprend p
 
 Si vous vous connectez directement au Centre d'administration Office&nbsp;365, vous l'affichez dans votre propre contexte, pas dans celui du client. Par conséquent, vous devez vous connecter directement au Centre d'administration Office&nbsp;365 lorsque vous créez une demande de service pour vos propres abonnements.
 
-**Comment obtenir une assistance supplémentaire de Dynamics 365?**
+**Comment obtenir un support supplémentaire Dynamics 365?**
 
- Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou si vous voulez davantage le support technique:
+ Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou vous demander davantage de support technique:
  
 Contactez le [Support Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
