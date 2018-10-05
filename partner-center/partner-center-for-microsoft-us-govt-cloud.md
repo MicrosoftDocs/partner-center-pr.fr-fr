@@ -3,12 +3,12 @@ title: Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 description: L'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis est le portail d’entreprise des partenaires Microsoft qui souhaitent proposer des solutions Microsoft Cloud aux clients travaillant avec des agences gouvernementales des États-Unis.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e17f2211e72501fdc72fe077b53d855fc2119759
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: efbcf0ee2c6a7f60d50c07320894c908168a10f2
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875639"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377521"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 
@@ -30,8 +30,8 @@ Pour plus d’informations, consultez la [Fiche technique de MicrosoftCloud pour
 
 Une fois que vous serez inscrit au programme de fournisseur de solutions Cloud (CSP) pour Microsoft Cloud pour le gouvernement des États-Unis, vous utiliserez l'Espace partenaires pour vendre des solutions et des services dans le cloud spécifiques à vos clients appartenant à des agences gouvernementales des États-Unis. 
 
->**Remarque**<br>
-Lors de la publication de cet article, les fonctionnalités suivantes n’étaient pas encore disponibles dans l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis (depuis la publication, certaines peuvent avoir été ajoutées et cette liste peut ne plus être à jour):
+> [!NOTE]  
+> Lors de la publication de cet article, les fonctionnalités suivantes n’étaient pas encore disponibles dans l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis (depuis la publication, certaines peuvent avoir été ajoutées et cette liste peut ne plus être à jour):
 
 - Rechercher un partenaire
 - Profils commerciaux

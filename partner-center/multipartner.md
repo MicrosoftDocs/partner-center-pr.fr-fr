@@ -4,12 +4,12 @@ description: Un client peut vouloir travailler avec plusieurs partenaires du pro
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 60a925536bd377c010aeca2b8f2f8bbeb6b7f0a6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f145d4334a2b83c3e0939dc3d9d0acfe77d8edba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874829"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377451"
 ---
 # <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 
@@ -33,8 +33,8 @@ La fonctionnalité multipartenaire n’effectue pas les opérations suivantes:
 
 -   Modification du partenaire de référence pour un abonnement
 
->**Important**<br>
-Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris le Tableau de bord du partenaire.  
+> [!IMPORTANT]  
+> Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris le Tableau de bord du partenaire.  
 
  
 

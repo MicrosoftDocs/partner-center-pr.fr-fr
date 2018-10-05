@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, références, prospects, C2PC, profil de l’entreprise, promouvoir votre société, rechercher un partenaire, trouver un fournisseur de solutions, profil d’entreprise, profil commercial
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877624"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377621"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -39,20 +39,21 @@ La première étape pour obtenir ces prospects consiste à créer un profil comm
 
 *  **Références des employés des ventes et du service de Microsoft**. Les clients potentiels souhaitant déployer des solutions technologiques sur le cloud contactent Microsoft afin de trouver des professionnels qui puissent répondre aux besoins de leur entreprise. Ces professionnels Microsoft peuvent ensuite référer des clients potentiels à votre entreprise.
 
->**Important**<br>
-Afin d'aider nos partenaires à simplifier les opérations commerciales, nous regroupons les fonctionnalités auparavant réparties sur plusieurs outils et sites Web dans le présent site, le Tableau de bord du partenaire. À cette fin, nous avons transféré toutes les fonctionnalités relatives aux références vers le Tableau de bord du partenaire et mis les sites Pinpoint et C2PC hors service. Si vous aviez l'habitude d'utiliser Pinpoint ou C2PC pour obtenir et gérer des références de Microsoft, vous devez créer un profil d’entreprise dans le Tableau de bord du partenaire afin de continuer à recevoir des références. Nous ne prenons plus en charge l’importation de profils à partir de ces sites. 
+> [!IMPORTANT]  
+> Afin d'aider nos partenaires à simplifier les opérations commerciales, nous regroupons les fonctionnalités auparavant réparties sur plusieurs outils et sites Web dans le présent site, le Tableau de bord du partenaire. À cette fin, nous avons transféré toutes les fonctionnalités relatives aux références vers le Tableau de bord du partenaire et mis les sites Pinpoint et C2PC hors service. Si vous aviez l'habitude d'utiliser Pinpoint ou C2PC pour obtenir et gérer des références de Microsoft, vous devez créer un profil d’entreprise dans le Tableau de bord du partenaire afin de continuer à recevoir des références. Nous ne prenons plus en charge l’importation de profils à partir de ces sites. 
 
 ## <a name="create-a-profile"></a>Créer un profil
 
->**Remarque** Pour pouvoir créer un profil d’entreprise, vous devez disposer d’un compte Tableau de bord du partenaire. Si vous n’avez pas encore de compte Tableau de bord du partenaire, consultez [Créer un compte Tableau de bord du partenaire](mpn-create-a-partner-center-account.md) pour en créer un. 
+> [!NOTE]  
+>  Avant de pouvoir créer un profil d’entreprise, vous devez disposer d’un compte tableau de bord du partenaire. Si vous n’avez pas encore de compte Tableau de bord du partenaire, consultez [Créer un compte Tableau de bord du partenaire](mpn-create-a-partner-center-account.md) pour en créer un. 
 
 Créez des profils pour chaque région dans laquelle vous êtes autorisé à exercer des activités commerciales. 
 
 1.  À partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **Profils d'entreprise** &gt; sélectionnez un pays/une région > **[Créer un profil d'entreprise](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Dans la page **Créer un profil d'entreprise**, sélectionnez une région, puis renseignez votre profil.
-    
-    >**Remarque** Bien que le Tableau de bord du partenaire prenne en charge plusieurs langues, certains éléments, comme la description et les identifications de forme libre, peuvent nécessiter d'inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
+    > [!NOTE]  
+    >  Le tableau de bord du partenaire prend en charge plusieurs langues, certains éléments, tels que la description et les balises de forme libre, devrez peut-être inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
 
 ### <a href="" id="partner_info"></a>Informations sur le partenaire
 

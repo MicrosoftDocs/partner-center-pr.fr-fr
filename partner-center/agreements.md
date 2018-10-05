@@ -4,12 +4,12 @@ description: Télécharger les modèles de contrat client adaptés au marché à
 author: Maggie Evans
 keywords: contrats Microsoft Cloud, modèles de contrat client, contrats client Fournisseur de solutions Cloud, MCA, MCA, fournisseur de solutions Cloud, où puis-je vendre par le biais du programme Fournisseur solutions Cloud?, pays et régions du programme Fournisseur de solutions Cloud, MCA de CSP dans plusieurs langues, CSP Amérique du Nord, CSP Amérique centrale, CSP Amérique du Sud, CSP Antilles, CSP Microsoft Cloud for US Government, CSP MicrosoftCloud Allemagne, CSP Moyen-Orient, CSP Afrique, CSP Europe, CSP Asie, CSP Pacifique, MCA CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877509"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377811"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Marchés et contrats client Fournisseur de solutions Microsoft Cloud
 
@@ -17,8 +17,8 @@ Cet article répertorie les marchés actuellement disponibles dans le canal de v
 
 Certains emplacements proposent des contrats dans plusieurs langues, pour répondre aux préférences linguistiques du client. Veuillez à lui fournir la version rédigée dans sa langue par défaut.
 
->**Remarque**<br>
-Les modèles de client du contrat MicrosoftCloud répertoriés ci-dessous sont valides à partir du 1er septembre2017 pour toutes les régions et toutes les langues.
+> [!NOTE]  
+> Les modèles de client du contrat MicrosoftCloud répertoriés ci-dessous sont valides à partir du 1er septembre2017 pour toutes les régions et toutes les langues.
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>Amérique du Nord, Amérique centrale, Amérique du Sud et Les Antilles

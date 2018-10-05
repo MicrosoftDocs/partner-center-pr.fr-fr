@@ -4,12 +4,12 @@ description: Vous pouvez désormais attribuer des abonnements Azure à vos clien
 author: Labrenne
 keywords: Azure, abonnement Azure, abonnement, abonnements, attribuer un abonnement, gérer un abonnement Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875009"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377561"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Attribuer des abonnements Azure dans le Tableau de bord du partenaire
 
@@ -37,7 +37,8 @@ Après avoir créé un abonnement Microsoft Azure pour un client, vous pouvez lu
 
 1.  Pour ouvrir le portail Azure du client, développez la page de description du client dans la liste de vos clients ou sélectionnez le nom du client, puis sélectionnez **Portail de gestion Microsoft Azure**.
     
- >**Remarque** <br> Si vous êtes invité à vous connecter au portail Azure, vous n'avez peut-être pas délégué les privilèges d'administration. Sélectionnez **Demander une relation** pour inviter le client à vous identifier comme son partenaire de référence. Une fois que le client a accepté votre invitation, vous vous voyez automatiquement attribuer des privilèges d'administration délégués. 
+> [!NOTE]  
+> Si vous êtes invité à vous connecter au portail Azure, vous n'avez peut-être pas délégué les privilèges d'administration. Sélectionnez **Demander une relation** pour inviter le client à vous identifier comme son partenaire de référence. Une fois que le client a accepté votre invitation, vous vous voyez automatiquement attribuer des privilèges d'administration délégués. 
 
 2.  Dans le portail Azure, ouvrez la liste des abonnements du client, puis sélectionnez l’abonnement Azure du client.
 

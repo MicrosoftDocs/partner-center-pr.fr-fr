@@ -3,12 +3,12 @@ title: Utilisez des promotions pour attirer de nouveaux clients | Espace partena
 description: En tant que partenaireMicrosoft du programme Fournisseur de solutions Cloud, vous pouvez acheter des abonnements à un tarif promotionnel et en faire bénéficier vos clients.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875379"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377681"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilisez des promotions pour attirer de nouveaux clients  
 
@@ -34,8 +34,8 @@ Prenez le temps de passer en revue ces informations importantes relatives aux pr
 
 Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **Promotions** à partir du menu **Tableau de bord** pour afficher la liste des promotions en cours ainsi que la remise, le type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
 
->**Remarque**<br>
-Vous pouvez également afficher les promotions lorsque vous effectuez un achat. Lorsque vous sélectionnez un abonnement, le tarif promotionnel s’affiche sur la page **Révision**.
+> [!NOTE]  
+> Vous pouvez également afficher les promotions lorsque vous effectuez un achat. Lorsque vous sélectionnez un abonnement, le tarif promotionnel s’affiche sur la page **Révision**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acheter des abonnements à prix promotionnel
 

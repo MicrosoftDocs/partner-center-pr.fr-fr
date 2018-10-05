@@ -4,12 +4,12 @@ description: Les fonctionnalités du Centre d'administration des partenaires Off
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d60be7349754a7200a0b8d9762a37a940e0eebb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dd0b3e73939f9992e32aa64571ef3fd99a61ef37
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875589"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377591"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>Le Centre d'administration des partenaires est transféré sur le Tableau de bord du partenaire
 
@@ -17,7 +17,8 @@ ms.locfileid: "2875589"
 
 -  Espace partenaires
 
->**Remarque** Toutes les dates ont été mises à jour depuis la publication initiale de cet article.
+> [!NOTE]  
+>  Toutes les dates ont été mis à jour depuis la publication initiale de cet article.
 
 Le Centre d'administration des partenaires Office365 est transféré sur le Tableau de bord du partenaire Microsoft.
 
@@ -36,7 +37,8 @@ Au cours du mois d'avril2018, le Centre d'administration des partenaires sera mi
 
 Commencez à utiliser [le Tableau de bord du partenaire Microsoft](https://partnercenter.microsoft.com/) dès maintenant pour vous préparer au transfert du Centre d'administration des partenaires.  Vous utiliserez les mêmes informations d'identification pour le Tableau de bord du partenaire que pour le Centre d'administration des partenaires. 
 
->**IMPORTANT** Certaines fonctionnalités et fonctions disponibles dans le Centre d'administration des partenaires ne seront pas disponibles dans le Tableau de bord du partenaire.
+> [!IMPORTANT]  
+> Certaines fonctionnalités et fonctions qui étaient disponibles dans PAC ne seront pas disponibles dans le tableau de bord du partenaire.
 
  Consultez le [tableau de comparaison](moving-from-pac-to-pc.md) pour comprendre et vous familiariser avec ces modifications.  Vous trouverez dans l'[Aide du Tableau de bord du partenaire Microsoft](https://partnercenter.microsoft.com/partner/help) des informations supplémentaires sur la gestion des comptes, la gestion des clients, les licences et les abonnements, la tarification et les offres, etc.
 

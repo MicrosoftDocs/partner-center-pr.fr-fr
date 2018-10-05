@@ -4,12 +4,12 @@ description: Suivez les étapes ci-dessous pour obtenir un aperçu de l’applic
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874759"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377511"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installer et prévisualiser l’application Analyse de l’Espace partenaires pour MicrosoftPowerBI
 
@@ -39,7 +39,8 @@ Avant d’installer la version préliminaire de l'application Analyse de l’Esp
 
 4.  Sur la fenêtre contextuelle **Se connecter à Analyse de l’Espace partenaires**, vérifiez que la **méthode d’authentification** est définie sur **oAuth2**, sinon, sélectionnez **oAuth2** dans la liste. 
 
-    >**Remarque**<br> L’affichage de cette fenêtre peut prendre quelques minutes.
+    > [!NOTE]  
+>  L’affichage de cette fenêtre peut prendre quelques minutes.
 
 5.  Sur la page **Connecteur d'Analyse de l’Espace partenaires**, connectez-vous en utilisant les informations d’identification d'administrateur général, d’agent administrateur ou d'administrateur de facturation pour le client Azure AD de votre société, puis sélectionnez **Se connecter**.
  

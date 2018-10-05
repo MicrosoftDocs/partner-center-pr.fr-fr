@@ -5,12 +5,12 @@ ms.prod: ''
 author: MaggiePucciEvans
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau2, de niveau2
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f148d04b9e65624332bba8a2e687209856aa676
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9d2c9953244eda43be5af02f5324087df571047a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877209"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377751"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -32,7 +32,8 @@ Pour plus d’informations sur les conditions nécessaires pour vendre dans le c
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>S’inscrire en tant que revendeur indirect dans le programme Fournisseur de solutions Cloud
 
->**Remarque**  Si vous êtes déjà inscrit au programme Fournisseur de solutions Cloud, il vous suffira peut-être de fournir les coordonnées du support client pour créer un compte revendeur dans le Tableau de bord du partenaire. 
+> [!NOTE]  
+> Si vous êtes déjà inscrit dans le programme CSP, vous devrez peut-être fournir un support client uniquement les coordonnées à créer un compte revendeur dans le tableau de bord du partenaire. 
 
 ### <a name="before-you-begin"></a>Avant de commencer
 
@@ -69,14 +70,14 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 7.  Sélectionnez le profil de l’entreprise dont l’ID MPN est lié à vos primes, avantages d'adhésion et compétences, afin que nous puissions déplacer ces informations sur votre compte Tableau de bord du partenaire. Sélectionnez **Continuer**.
 
     Si l’ID MPN que vous voulez utiliser n’est pas répertorié sur cette page, sélectionnez **Annuler** et reconnectez-vous avec le nom d’utilisateur et le mot de passe du profil d’entreprise que vous souhaitez utiliser. 
-
-    >**Important**  Sélectionnez l’ID MPN associé à un profil d’entreprise actif situé dans le même pays ou la même région que votre client Azure AD.
+    > [!IMPORTANT]  
+    > Sélectionnez l’ID MPN associé à un profil d’entreprise actif situé dans le même pays/région que votre client Azure AD.
 
 8.  Indiquez ou mettez à jour le profil commercial juridique, les coordonnées du contact principal et les coordonnées du support client de votre entreprise. Sélectionnez **S’inscrire maintenant**.
 
     Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise). Veuillez noter que nous n’acceptons pas les adresses e-mail provenant de services de messagerie Web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail. 
-
-    >**Important** Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Tableau de bord du partenaire et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d'information sur le statut d'inscription.
+    > [!IMPORTANT]  
+    > Pour garantir la sécurité et la confidentialité de votre organisation, nous enverrons un e-mail à votre contact principal pour vérifier que (1) qu’il ou elle est inscrit pour un compte tableau de bord du partenaire et (2) que cette adresse de messagerie appartient à votre organisation. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d'information sur le statut d'inscription.
 
 9.  Lorsque votre compte Tableau de bord du partenaire est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d'agents administrateurs. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations:
 
@@ -97,8 +98,8 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 5. Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
 
 
->**Important**<br>
-Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. <br>
+> [!IMPORTANT]  
+> Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. <br>
 
 >L’utilisateur devra se connecter au Tableau de bord du partenaire avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte au Tableau de bord du partenaire pour la première fois, il est invité à modifier son mot de passe.        
 
@@ -121,15 +122,16 @@ Si un fournisseur indirect veut s'associer avec vous sur le Tableau de bord du p
 
 3.  Pour confirmer le partenariat avec le fournisseur, activez la case à cocher, puis sélectionnez **Autoriser le fournisseur indirect**. Le fournisseur est désormais répertorié dans votre page **Fournisseurs indirects** et votre société figure désormais dans la page **Revendeurs indirects** du fournisseur.
 
-    >**Remarque**  Lorsque vous établissez un partenariat avec un fournisseur indirect, vous autorisez celui-ci à envoyer des commandes et à ajouter des abonnements pour le compte de vos clients et vous lui accordez un accès administrateur au compte professionnel de votre entreprise. Une fois votre partenariat avec le fournisseur créé, vous pouvez supprimer l’accès administrateur du fournisseur à votre compte professionnel dans le portail Office365. 
+    > [!NOTE]  
+    > Lorsque vous établissez un partenariat avec un fournisseur indirect, vous autorisez à envoyer des commandes et ajouter des abonnements pour vos clients et vous lui accordez un accès administrateur au compte professionnel de votre entreprise. Une fois votre partenariat avec le fournisseur créé, vous pouvez supprimer l’accès administrateur du fournisseur à votre compte professionnel dans le portail Office365. 
 
 4.  Sélectionnez **Fournisseurs indirects** à partir de votre menu **Tableau de bord** pour afficher la liste des fournisseurs avec lesquels vous avez un partenariat. 
 
 5.  Sélectionnez **Afficher les clients** pour afficher la liste des clients que vous partagez avec le fournisseur.
 
 6.  Sélectionnez **Inviter de nouveaux clients** pour demander à un nouveau client d'autoriser les relations de revendeur avec vous et votre fournisseur indirect. Veillez à disposer de l'adresse de messagerie du client afin de pouvoir lui envoyer l’invitation.  
-
-    >**Important**  Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients pour pouvoir envoyer des commandes en leur nom. 
+    > [!IMPORTANT]  
+    > Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients à envoyer des commandes en son nom. 
  
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 

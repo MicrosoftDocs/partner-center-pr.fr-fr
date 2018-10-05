@@ -4,12 +4,12 @@ description: Dans l'Espace partenaires, vous pouvez définir un budget mensuel p
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875369"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377471"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Définir un budget Azure pour vos clients
 
@@ -29,7 +29,8 @@ Pour aider les clients à gérer leurs dépenses Azure, vous pouvez définir un 
 
 Cette option fournit une estimation des données de dépenses Azure. Les montants facturés réels peuvent varier et les valeurs ne prennent pas en compte les taxes, les crédits, les ajustements ou autres frais pouvant s'appliquer. Les données de dépenses sont actualisées une fois par jour. Les clients continueront d'utiliser les services et ressources Azure et à être facturé en conséquence, sauf si vous modifiez ses paramètres de compte dans le portail Azure. 
 
->**Remarque** Cette fonctionnalité n'est pas disponible pour les comptes sandbox ou TIP (Test in Production).
+> [!NOTE]  
+> Cette fonctionnalité n’est pas disponible dans un bac à sable ou de Test dans les comptes de Production TIP ().
 
 **Activer les notifications par courrier électronique**
 1.  Dans le menu Tableau de bord, sélectionnez **DépensesAzure**.

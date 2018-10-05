@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 2bf56f90a6a49184ea2992adf534fde3d2043e7b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876359"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377741"
 ---
 # <a name="billing"></a>Facturation
 
@@ -24,8 +24,8 @@ Pour votre facture, accédez au menu **Tableau de bord** et sélectionnez **Fact
 
 Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 
->**Remarque**<br>
-Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.
+> [!NOTE]  
+> Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.
 
 Informations clés à connaître à propos de la facturation de vos clients:
 

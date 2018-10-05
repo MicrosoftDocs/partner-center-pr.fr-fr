@@ -3,12 +3,12 @@ title: Migrer des abonnements Office365E4 vers les nouvelles versions d’Office
 description: L'édition MicrosoftOffice365 EntrepriseE4 n’est plus disponible depuis le 7 avril2017. Découvrez comment migrer vos abonnements client vers des versions plus récentes d’Office365.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 545cfa5c635c9093cd0261bf35e01ba2823571ef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876929"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377711"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office365E4 vers les nouvelles versions d’Office365
 
@@ -20,7 +20,8 @@ La formule Office365 Entreprise E4 n’est plus disponible depuis le 7avril2017.
 
 Lorsque les abonnements E4 prendront fin, ils seront annulés. Pour garantir la continuité des activités pour les clients, vous devez passer les clients ayant des abonnements E4 arrivant à expiration à une option de référence (SKU) prise en charge, répertoriée ci-dessous. Nous recommandons de passer les clients à de nouveaux abonnements avant la date de fin d'abonnement annuelle afin de leur éviter toute interruption de service. 
 
->**Remarque** Les références (SKU) Office365 EntrepriseE4 commercial et secteur public ne sont plus disponibles.
+> [!NOTE]  
+>  À la fois Office 365 entreprise E4 commercial et les références (SKU) du gouvernement des États-Unis est mis hors service.
  
 Sur la page des détails de l’abonnement, le statut de l'abonnement E4 «Renouvellements automatiques le [date]» est remplacé par «Expire le [date]». 
 

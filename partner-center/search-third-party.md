@@ -4,12 +4,12 @@ description: Recherchez et trouvez les types d’offres tierces qui sont adapté
 author: labrenne
 keywords: offres tierces, logiciel à acheter, rechercher des tiers
 ms.localizationpriority: medium
-ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876719"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377501"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Découvrir les offres tierces que vous pouvez vendre
 
@@ -51,7 +51,8 @@ L’achat des logiciels tiers s’effectue de la même façon que vous achetez d
 7.  Une fois l’abonnement ajouté, ouvrez-le en cliquant sur son nom dans la liste des abonnements. 
 8.  Dans la page **Modifier l'abonnement**, vous pouvez également changer le nombre de licences ou suspendre l’abonnement.
 
->**Remarque**<br> Vous attribuez la licence à votre client sur le site d’administration tiers.
+> [!NOTE]  
+>  Vous attribuez la licence à votre client sur le site d’administration tiers.
 
     
 

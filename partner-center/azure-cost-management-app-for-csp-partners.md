@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877449"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377801"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Application Azure Cost Management pour les partenaires fournisseurs de solutions Cloud  
 
@@ -41,8 +41,9 @@ Lorsque vous enregistrez une application Web Azure ActiveDirectory dans l'Espace
 ## <a name="add-a-secret-key-to-your-app"></a>Ajoutez une clé secrète à votre application
 1.  Dans la liste déroulante en regard du bouton **Ajouter clé**, sélectionnez une durée de 1 ou 2ans.
 2.  Cliquez sur **Ajouter une clé**. 
-3.  Copiez et enregistrez la valeur de la clé secrète. Elle vous sera demandée pour la version d'évaluation gratuite de 30jours.
-<br>**Remarque**: les clés secrètes d'application sont semblables à des mots de passe avec des dates d'expiration plus longues. Enregistrez la valeur de la clé à un emplacement sûr pour une utilisation ultérieure.
+3.  Copiez et enregistrez la valeur de la clé secrète. Elle vous sera demandée pour la version d'évaluation gratuite de 30jours.<br>
+> [!NOTE]  
+> Les clés secrètes d’application sont comme les mots de passe avec des dates d’expiration plus. Enregistrez la valeur de la clé à un emplacement sûr pour une utilisation ultérieure.
 
 ## <a name="next-steps"></a>Étapes suivantes
 Démarrez une [version d'évaluation gratuite de 30jours](https://go.microsoft.com/fwlink/?linkid=857895).

@@ -4,12 +4,12 @@ description: La demande de relation est utilisée pour les scénarios de type Mu
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 49e24f50fef7715634f749f7f95c066c37e55976
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877219"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377531"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Se connecter à des clients dans l'Espace partenaires
 
@@ -37,8 +37,8 @@ Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit acc
 5.  Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
 
 
->**Important**<br>
-Les clients peuvent réattribuer ou supprimer des autorisations d’administrateur sur le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, vous pouvez appeler le support Microsoft pour ouvrir une demande de service de la part du client.
+> [!IMPORTANT]  
+> Les clients peuvent réattribuer ou supprimer des autorisations d’administrateur sur le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, vous pouvez appeler le support Microsoft pour ouvrir une demande de service de la part du client.
 
 ## <a name="related-topics"></a>Rubriques associées
 

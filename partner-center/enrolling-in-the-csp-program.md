@@ -3,12 +3,12 @@ title: S'inscrire au programme Fournisseur de solutions Cloud | Espace partenair
 description: Comprendre les différents modèles de vente dans le programme Fournisseur de solutions Cloud et déterminer celui qui convient le mieux à votre entreprise.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 609ef0bd1e280e41cd74088b8a42ffe7771d5ef9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dac0ea001011ad4a3b3ee11bb465e793ca6ef323
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876399"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377671"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
@@ -27,7 +27,8 @@ Choisissez le [modèle Fournisseur de solutions Cloud qui convient](https://part
 
 Il peut nous falloir plusieurs jours pour examiner et vérifier les informations que vous avez fournies. Nous vous enverrons un e-mail lorsque nous en aurons terminé.
 
->**Important**<br> Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Cette restriction s'applique uniquement au client utilisé pour effectuer les transactions de Fournisseur de solutions Cloud. Les partenaires fournisseurs de solutions Cloud qui se servent d'un client non fournisseur de solutions Cloud pour leur usage professionnel peuvent acheter les services en ligne d'un autre fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute information concernant les publications de fonctionnalités sera diffusée via les canaux de communication habituels, y compris le Tableau de bord du partenaire.
+> [!IMPORTANT]  
+> Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Cette restriction s'applique uniquement au client utilisé pour effectuer les transactions de Fournisseur de solutions Cloud. Les partenaires fournisseurs de solutions Cloud qui se servent d'un client non fournisseur de solutions Cloud pour leur usage professionnel peuvent acheter les services en ligne d'un autre fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute information concernant les publications de fonctionnalités sera diffusée via les canaux de communication habituels, y compris le Tableau de bord du partenaire.
 
 ### <a name="enroll-as-an-indirect-reseller"></a>S'inscrire en tant que revendeur indirect
 
@@ -48,19 +49,20 @@ En tant que partenaire direct, vous avez une relation de bout en bout avec votre
 
 - Si vous collaboriez avec des clients qui souhaitent poursuivre la collaboration par le biais du Tableau de bord du partenaire, vous devez [les associer](request-a-relationship-with-a-customer.md) à votre compte dans le Tableau de bord du partenaire.  Microsoft peut ensuite associer votre facturation à ces derniers. 
 
->**Remarque**<br> Les conditions requises pour devenir un partenaire direct ont été modifiées récemment et prendront effet à compter du 31 août 2018. Les partenaires directs doit respecter les exigences de nouveau à compter de leur période d’inscription suivant après le 31 août 2018.
+> [!NOTE]  
+>  Les conditions requises pour devenir un partenaire direct ont été modifiées récemment et prendront effet à compter du 31 août 2018. Les partenaires directs doit respecter les exigences de nouveau à compter de leur période d’inscription suivant après le 31 août 2018.
 
-#### <a name="new-expanded-requirements"></a>Nouvelles exigences développés:
+#### <a name="new-expanded-requirements"></a>Nouvelles exigences étendues:
 
 Support
-- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, PRIORISATION avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, avec élévation de privilèges 24/7/réparation prise en charge et la gestion de compte technique sur le cloud, hybrides et locaux. 
+- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, hiérarchisée avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, avec élévation de privilèges 24/7/réparation prise en charge et la gestion de compte technique sur cloud, hybrides et locaux. 
 
 Services
 
 - Montrez que vous indiquez au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout des services gérés
 
-- Respectez les fonctionnalités de l’infrastructure minimale, par exemple, la facturation et la mise en service.
-Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont montrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une efficacité de la barre à l’avenir. 
+- Respectez les fonctionnalités de l’infrastructure minimale, telles que la facturation et la mise en service.
+Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont montrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une performance de la barre à l’avenir. 
 
 - ID MicrosoftPartnerNetwork (MPN) pour le marché où seront effectuées les ventes
 

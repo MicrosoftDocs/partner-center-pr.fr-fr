@@ -4,12 +4,12 @@ description: Dans certains cas, des clients peuvent faire appel à vous pour con
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875839"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377481"
 ---
 # <a name="multi-channel-support"></a>Prise en charge de plusieurs canaux
 
@@ -46,8 +46,8 @@ La fonctionnalité de support de plusieurs canaux du Tableau de bord du partenai
 </tbody>
 </table>
 
->**Important**<br>
-Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris le Tableau de bord du partenaire. 
+> [!IMPORTANT]  
+> Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris le Tableau de bord du partenaire. 
 
 ## <a name="see-also"></a>Articles associés
 

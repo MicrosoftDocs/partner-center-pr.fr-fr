@@ -4,12 +4,12 @@ description: Si un utilisateur oublie son mot de passe, vous pouvez lui attribue
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: d8b69ed976b8ee24edc9060a7d0d5fd252ea02bd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876839"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377421"
 ---
 # <a name="reset-a-user-password"></a>Réinitialiser un mot de passe d’utilisateur
 
@@ -17,7 +17,8 @@ ms.locfileid: "2876839"
 
 -  Espace partenaires
    
->**Remarque** Si vous êtes inscrit au programme Fournisseur de solutions Cloud de MicrosoftCloud Germany, consultez [Gestion des utilisateurs dans l'Espace partenaires de MicrosoftCloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md) pour plus d’informations sur la réinitialisation du mot de passe d’un utilisateur.
+> [!NOTE]  
+>  Si vous êtes inscrit au programme fournisseur de solutions Cloud (CSP) de Microsoft Cloud Germany, voir [Gestion des utilisateurs dans l’espace partenaires de Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md) pour plus d’informations sur la réinitialisation de mot de passe de l’utilisateur.
 
 Si l’utilisateur oublie son mot de passe, attribuez-lui un mot de passe temporaire. Il pourra l’utiliser à sa prochaine connexion à l’Espace partenaires.
 

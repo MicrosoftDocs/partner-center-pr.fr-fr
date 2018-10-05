@@ -3,12 +3,12 @@ title: Créer un compte Espace partenaires | Espace partenaires
 description: Les membres du MicrosoftPartner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876779"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377771"
 ---
 # <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 
@@ -60,7 +60,8 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 
     Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise). Nous allons également utiliser ces informations pour vérifier que cette personne travaille dans votre entreprise et qu'elle s'est inscrite à un compte Espace partenaires.
 
-    >**Important**<br> Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies.
+    > [!IMPORTANT]  
+    > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies.
 
 4.  Lisez et acceptez les conditions générales du contrat MicrosoftPartner Network. 
 

@@ -3,12 +3,12 @@ title: Collaborer avec d’autres partenaires | Espace partenaires
 description: Travaillez avec d’autres partenaires de fournisseur de solutions Cloud pour répondre aux besoins de vos clients communs.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877099"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377691"
 ---
 # <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
@@ -48,6 +48,6 @@ La fonctionnalité de support de plusieurs canaux de l'Espace partenaires prend 
 
 La prise en charge de plusieurs canaux est également disponible dans les offres de cloud Microsoft nationales.
 
->**Important**<br>
-Un partenaire dans CSP n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire dans CSP. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris l'Espace partenaires. 
+> [!IMPORTANT]  
+> Un partenaire dans CSP n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire dans CSP. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les versions de la fonctionnalité sera diffusée via les canaux de communication habituels, y compris l'Espace partenaires. 
 

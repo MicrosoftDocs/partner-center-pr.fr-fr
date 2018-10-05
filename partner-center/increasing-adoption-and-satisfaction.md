@@ -4,12 +4,12 @@ description: Nos partenaires utilisent de nombreux indicateurs pour déterminer 
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875609"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377611"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
@@ -21,7 +21,8 @@ Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer l
 
 Vous pouvez afficher les données de l’ensemble de vos clients via le programme Fournisseur de solutions Cloud. Notez que certains clients peuvent acheter des licences auprès d’autres partenaires ou directement auprès de Microsoft. Dans ce cas, vous voyez le nombre total de licences chez tous les partenaires. Pour afficher uniquement vos propres licences, accédez aux abonnements du client.
 
->**Remarque**<br> Actuellement, nous affichons uniquement les données pour Office365 et Dynamics365. Nous activerons les données de produits supplémentaires par la suite.
+> [!NOTE]  
+>  Actuellement, nous affichons uniquement les données pour Office365 et Dynamics365. Nous activerons les données de produits supplémentaires par la suite.
 
 ## <a name="find-license-and-user-data"></a>Rechercher des données utilisateur et de licence
 

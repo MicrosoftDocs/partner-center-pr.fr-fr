@@ -4,12 +4,12 @@ description: En tant que membre de MicrosoftPartner Network, vous avez le droit 
 author: MaggiePucciEvans
 keywords: MPN, avantages d'adhésion, adhésion
 ms.localizationpriority: medium
-ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876909"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377721"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer les avantages de votre adhésion à MicrosoftPartnerNetwork
 
@@ -28,7 +28,7 @@ Lorsque vous rejoignez le MicrosoftPartner Network (MPN), vous avez accès à to
 Une fois que vous avez acheté un package d'avantages d'adhésion, vous devez obtenir les clés logicielles et attribuer des licences, des abonnements et d'autres avantages aux employés pour commencer à les utiliser. 
 
 >[!IMPORTANT]
->Alors que vous n’êtes pas obligé d’être un administrateur global dans votre organisation pour acheter des avantages, vous n’avez pas besoin d’être l’administrateur global pour attribuer des avantages aux employés.  Si vous le souhaitez, vous pouvez devenir un administrateur global en suivant les instructions sur votre [page **avantages** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). En outre, votre organisation peut-être déjà un administrateur global par conséquent, veillez à vérifier avec votre équipe.
+>Alors que vous n’avez pas à être un administrateur global dans votre organisation pour acheter des avantages, vous n’avez pas besoin d’être l’administrateur global pour attribuer des avantages aux employés.  Si vous le souhaitez, vous pouvez devenir un administrateur global en suivant les instructions sur votre [page **avantages** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). En outre, votre organisation peut-être déjà un administrateur général. par conséquent, veillez à examiner avec votre équipe.
 
 Vos packages d'avantages incluent les allocations de licences logicielles de droits d’utilisation interne, les services cloud, les abonnements Visual Studio et le support. Vous pouvez obtenir plus de détails sur l'abonnement ActionPack sur le site [MicrosoftPartnerNetwork](https://partner.microsoft.com/membership/internal-use-software).  
 
@@ -70,8 +70,8 @@ Pour afficher et gérer vos avantages réservés aux membres, accédez à votre 
 
 3. Pour activer un abonnement Visual Studio, sélectionnez un utilisateur dans la liste, puis **Assigner un utilisateur**. 
 
-    >**Important**<br>
-Si l’utilisateur que vous souhaitez assigner n’est pas dans la liste, vous pouvez [Ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
+> [!IMPORTANT]  
+> Si l’utilisateur que vous souhaitez assigner n’est pas dans la liste, vous pouvez [Ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
 
 3. Répétez ce processus pour chaque abonnement à assigner. Les utilisateurs peuvent gérer leurs abonnements dans le portail Visual Studio. 
 

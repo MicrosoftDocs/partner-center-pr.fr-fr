@@ -3,12 +3,12 @@ title: S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftClou
 description: Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877199"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377661"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -30,8 +30,8 @@ Pour créer un compte Espace partenaires et vous inscrire au programme Fournisse
 -  ID MPN (MicrosoftPartner Network) de votre organisation 
 -  Adresse professionnelle aux États-Unis
 
->**Important**<br>
-Si vous avez un compte dans l’Espace partenaires et que vous souhaitez vous inscrire au programme Fournisseur de services Cloud de MicrosoftCloud pour le gouvernement des États-Unis, vous devez créer un compte distinct spécialement pour le marché du gouvernement des États-Unis.
+> [!IMPORTANT]  
+> Si vous avez un compte dans l’Espace partenaires et que vous souhaitez vous inscrire au programme Fournisseur de services Cloud de MicrosoftCloud pour le gouvernement des États-Unis, vous devez créer un compte distinct spécialement pour le marché du gouvernement des États-Unis.
 
 ## <a name="how-to-enroll"></a>Procédure d'inscription 
 
@@ -48,8 +48,8 @@ Si vous avez un compte dans l’Espace partenaires et que vous souhaitez vous in
 
 2.  Sélectionnez **Accepter et continuer**. L'examen de votre demande peut nous prendre plusieurs jours. Nous vous enverrons un e-mail lorsque nous en aurons terminé.
 
-    >**Important**<br>
-    En sélectionnant **Accepter et continuer**, vous confirmez que vous êtes autorisé à agir pour le compte de votre organisation, et que vous autorisez Microsoft à vérifier votre solvabilité avant l'examen de la demande d'inscription au programme Fournisseur de solutions Cloud de votre organisation.
+    > [!IMPORTANT]  
+    > En sélectionnant **Accepter et continuer**, vous confirmez que vous êtes autorisé à agir pour le compte de votre organisation, et que vous autorisez Microsoft à vérifier votre solvabilité avant l'examen de la demande d'inscription au programme Fournisseur de solutions Cloud de votre organisation.
 
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Étape3: signer le contrat de revendeur de MicrosoftCloud pour le gouvernement des États-Unis
@@ -63,10 +63,10 @@ Si vous avez un compte dans l’Espace partenaires et que vous souhaitez vous in
 
 Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distincte de MicrosoftAzure qui répond aux normes de conformité, de sécurité et de confidentialité des administrations publiques. Pour autoriser les administrateurs à gérer les utilisateurs et les licences dans le portail Microsoft Azure, vous devrez leur attribuer manuellement le rôle d’agent administrateur.
 
->**Remarque**<br>
-Une fois que des utilisateurs sont affectés au rôle Agent administrateur, ils peuvent accéder à votre liste de clients sur la page **Clients** et [ajouter de nouveaux clients](add-a-new-customer.md).   
+> [!NOTE]  
+> Une fois que des utilisateurs sont affectés au rôle Agent administrateur, ils peuvent accéder à votre liste de clients sur la page **Clients** et [ajouter de nouveaux clients](add-a-new-customer.md).   
 
-1.  Connectez-vous au portail Microsoft Azure administrateur à https://portal.azure.us/.
+1.  Connectez-vous au portail Microsoft Azure à l’administrateur https://portal.azure.us/.
 
 2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure ActiveDirectory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
  

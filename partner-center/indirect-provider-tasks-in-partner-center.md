@@ -3,12 +3,12 @@ title: Devenez partenaire de revendeurs indirects dans le programme Fournisseur 
 description: En tant que fournisseur indirect ou distributeur, vous pouvez travailler en partenariat avec des revendeurs indirects pour accroître votre rayonnement.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876769"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377761"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -46,7 +46,8 @@ Procédez comme suit pour établir et gérer votre partenariat avec des revendeu
 
 Après avoir effectué ces étapes, vous pouvez gérer vos partenariats avec les revendeurs dans la page **Revendeurs indirects** à partir de votre menu **Tableau de bord**.
 
->**Important**<br> Pour pouvoir commencer à travailler avec des revendeurs, il faut qu'ils soient d'abord inscrits comme revendeurs indirects dans le programme Fournisseur de solutions Cloud et qu'ils disposent de comptes Tableau de bord du partenaire. Orientez vos revendeurs vers la page [Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud. 
+> [!IMPORTANT]   
+> Pour pouvoir commencer à travailler avec des revendeurs, il faut qu'ils soient d'abord inscrits comme revendeurs indirects dans le programme Fournisseur de solutions Cloud et qu'ils disposent de comptes Tableau de bord du partenaire. Orientez vos revendeurs vers la page [Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud. 
 
 ## <a name="connect-with-indirect-resellers"></a>Entrer en contact avec des revendeurs indirects
 
@@ -59,8 +60,8 @@ Pour établir un partenariat, envoyez une demande de partenariat par courrier é
 2. Dans la page **Revendeurs indirects**, sélectionnez **Demander un partenariat**. Un brouillon de message électronique s’affiche.
 
 3. Sélectionnez **Ouvrir un courrier électronique** pour ouvrir le message dans votre application de messagerie par défaut, ou sélectionnez **Copier dans le Presse-papiers** pour copier et coller le message dans un message électronique. Sélectionnez **OK** lorsque vous avez terminé.
-
-   >**Important** Vous pouvez modifier le texte dans le message électronique, mais veillez à inclure le lien, car il est personnalisé pour votre compte Tableau de bord du partenaire.
+    > [!IMPORTANT]  
+    >  Vous pouvez modifier le texte dans le message électronique, mais veillez à inclure le lien car il est personnalisé pour votre compte du tableau de bord du partenaire.
 
 4. Une fois que le revendeur accepte votre demande de partenariat, il apparaît dans votre liste de revendeurs indirects et vous pouvez effectuer les opérations suivantes: 
 
@@ -97,8 +98,8 @@ Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez 
 5.  Si la commande est correcte, sélectionnez **Envoyer**. Si la commande est incorrecte, sélectionnez **Annuler** pour annuler toute l’opération, puis recommencez.
 
 6.  Une fois la commande envoyée, la page **Confirmation** s’affiche. Sous **Informations de configuration**, le nom du compte d'administrateur et le mot de passe temporaire s'affichent. Notez le nom du compte utilisateur et le mot de passe afin de pouvoir les envoyer au nouveau client. 
-
-    >**Important**  Veillez à bien noter le nom du compte utilisateur et le mot de passe car vous ne pourrez plus accéder à ces informations après la fermeture de cette page.
+    > [!IMPORTANT]  
+    > Veillez à bien noter le nom du compte d’utilisateur et mot de passe car vous ne serez pas en mesure d’accéder à ces informations à nouveau après la fermeture de cette page.
 
 7.  Sélectionnez **OK**. Le nouveau client s’affiche dans votre liste de clients, associé au revendeur indirect. À présent, le revendeur dispose d’un accès administrateur pour les informations de compte et les abonnements du client et peut gérer les abonnements pour le compte du client.
 

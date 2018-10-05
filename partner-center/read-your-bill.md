@@ -5,12 +5,12 @@ ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
 ms.localizationpriority: medium
-ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875179"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377541"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -24,8 +24,8 @@ Pour votre facture, accédez au menu **Tableau de bord** et sélectionnez **Fact
 
 Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 
->**Remarque**<br>
-Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.
+> [!NOTE]  
+> Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.
 
 Vous recevrez une facture pour basée sur la licence (Office 365) et sur l’utilisation des frais (Azure) et une facture distincte à usage unique (Azure reserved VM instances) frais.
 
@@ -75,7 +75,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 <tr class="even">
 <tr class="even">
 <td>Sous-total</td>
-<td>Total avant les taxes et frais de taxe et les crédits.</td>
+<td>Total avant taxes et frais de taxe et les crédits.</td>
 </tr>
 <td>Taxe</td>
 <td>Total des taxes des frais en cours correspond au total de la section des détails commençant à la page&nbsp;2 de la facture. Ce nombre est la somme de tous les frais indiqués dans&nbsp;:

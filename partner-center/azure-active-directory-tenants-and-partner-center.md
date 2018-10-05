@@ -5,12 +5,12 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ebc5490d724b49836b0051802038c4ba4c86e20
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876079"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377491"
 ---
 # <a name="your-company-work-account-and-the-partner-dashboard"></a>Compte professionnel de votre entreprise et Tableau de bord du partenaire  
 
@@ -24,7 +24,8 @@ Nous devons associer le compte professionnel de votre entreprise à votre nouvea
 
 Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Tableau de bord du partenaire. 
 
->**Remarque** Avant de décider d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans le Tableau de bord du partenaire. Si certains utilisateurs du compte n’ont pas besoin de travailler dans le Tableau de bord du partenaire, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans le Tableau de bord du partenaire.
+> [!NOTE]  
+>  Avant de vous décidez d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans le tableau de bord du partenaire. Si certains utilisateurs du compte n’ont pas besoin de travailler dans le Tableau de bord du partenaire, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans le Tableau de bord du partenaire.
 
 Si votre entreprise ne possède pas de compte professionnel, vous pouvez en créer un au cours du processus d’inscription. 
 

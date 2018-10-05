@@ -4,12 +4,12 @@ description: Lorsque vous mettez à niveau votre abonnement au MicrosoftPartner 
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875709"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377781"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Mise à niveau de votre abonnement au MicrosoftPartner Network
 
@@ -46,7 +46,8 @@ Action Pack est un abonnement annuel abordable à des services, des logiciels et
 
 Pour plus d’informations sur Microsoft Action Pack, accédez à [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
->**Remarque** En suivant ce lien, vous serez dirigé vers un autre site Web. Revenez sur ce site, l'Espace partenaires, pour vous abonner à Action Pack.
+> [!NOTE]  
+> Ce lien vous dirigeront vers un autre site Web. Revenez sur ce site, l'Espace partenaires, pour vous abonner à Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>S’abonner à MicrosoftAction Pack
@@ -73,10 +74,10 @@ Votre abonnement Action Pack sera renouvelé automatiquement chaque année à ce
 
 2. Sélectionnez **Abonnement au MicrosoftAction Pack** pour afficher les détails de l’abonnement. 
 
-3. Sélectionnez **Désactiver le renouvellement automatique** si vous ne voulez pas que votre abonnement Action Pack soit renouvelé automatiquement chaque année. 
+3. Sélectionnez **Désactiver le renouvellement automatique** si vous ne voulez pas que votre abonnement ActionPack soit renouvelé automatiquement chaque année. 
 
-    >**Remarque**<br>
-Si vous désactivez le renouvellement automatique de l’abonnement, vous ne pourrez pas le réactiver avant d'avoir renouvelé l’abonnement. Nous vous rappellerons de renouveler votre abonnement avant qu'il n'arrive à expiration.
+   > [!NOTE]  
+> Si vous désactivez le renouvellement automatique de l’abonnement, vous ne pourrez pas le réactiver avant d'avoir renouvelé l’abonnement. Nous vous rappellerons de renouveler votre abonnement avant qu'il n'arrive à expiration.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Renouveler votre abonnement Action Pack
