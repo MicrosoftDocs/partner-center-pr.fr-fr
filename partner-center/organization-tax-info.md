@@ -3,12 +3,12 @@ title: Informations fiscales de l’organisation | Espace partenaires
 description: Le cas échéant, le numéro de TVA doit être ajouté aux informations de votre organisation
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 050ea8fc4cdbbddf601114714ff45b312318b196
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 20fef48dcd72de52abe6917c363e5d96f1213072
+ms.sourcegitcommit: a4ac47d85af00696d3b625ecaf448d8ecaf8275d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874639"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4381759"
 ---
 # <a name="organization-tax-information"></a>Informations fiscales de l’organisation
 
@@ -20,9 +20,9 @@ Les taxes associées aux achats de l'Espace partenaires sont déterminées par v
 
 ### <a name="add-your-vat-id"></a>Ajouter votre numéro de TVA
 
-1.  À partir du **Tableau de bord** accédez à **Partenariat**-> **Offres**
-2.  Cliquez sur **Ajouter votre numéro de TVA**
-3.  Entrez un numéro de TVA pour votre entreprise, puis cliquez sur **Suivant**.
+1.  À partir du **tableau de bord** , accédez à **offres d’abonnement**-> **disponible**
+2.  Sélectionnez **Ajouter votre numéro de TVA**
+3.  Entrez le numéro de TVA pour votre organisation, sélectionnez **Ajouter** , puis sélectionnez **suivant**.
 
 
 
