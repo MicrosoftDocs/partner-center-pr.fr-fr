@@ -3,12 +3,12 @@ title: Devenez partenaire de revendeurs indirects dans le programme Fournisseur 
 description: En tant que fournisseur indirect ou distributeur, vous pouvez travailler en partenariat avec des revendeurs indirects pour accroître votre rayonnement.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
+ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377761"
+ms.lasthandoff: 10/08/2018
+ms.locfileid: "4445461"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -33,7 +33,7 @@ Procédez comme suit pour établir et gérer votre partenariat avec des revendeu
 
 1.  Vérifiez le profil de votre société dans la [liste des fournisseurs indirects officiels de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
 
-    -   Pour apporter des modifications au profil de fournisseur indirect de votre société, soumettez une demande de support du Tableau de bord du partenaire avec le nom de votre société, son logo et l’URL cible pour chaque emplacement. Nous mettrons à jour votre profil dans les deux à trois semaines.<br>
+    -   Pour apporter des modifications au profil de fournisseur indirect de votre société, contactez votre représentant Microsoft.<br>
 
 2.  Entrer en contact avec des revendeurs indirects
 
