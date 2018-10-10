@@ -1,24 +1,24 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: Commencez par chercher de l'aide ici, dans le Tableau de bord du partenaire
-description: Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez toutes les réponses de cette bibliothèque d’aide du tableau de bord créée spécifiquement pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN.
+title: Commencez ici pour vous aider à l’espace partenaires
+description: Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez les réponses dans cet espace partenaires vous aider à la bibliothèque créé spécifiquement pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876369"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489675"
 ---
-# <a name="start-here-for-help-with-partner-dashboard"></a>Commencez par chercher de l'aide ici, dans le Tableau de bord du partenaire
+# <a name="start-here-for-help-with-partner-center"></a>Commencez ici pour vous aider à l’espace partenaires
 
-Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez toutes les réponses de cette bibliothèque d’aide du tableau de bord créée spécifiquement pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN.
+Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez les réponses dans cet espace partenaires vous aider à la bibliothèque créé spécifiquement pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN.
 
-Si vous connaissez déjà le tableau de bord, découvrez les [Nouveautés](/partner-center/whats-new-in-pc).
+Si vous êtes déjà familiarisé avec l’espace partenaires, voir [Quelles sont les nouveautés](/partner-center/whats-new-in-pc).
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -85,7 +85,7 @@ Si vous connaissez déjà le tableau de bord, découvrez les [Nouveautés](/part
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Explorer votre tableau de bord du partenaire</a> (connexion requise)</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Suivez une visite guidée de l’espace partenaires</a> (connexion requise)</h3>
                     </div>
                 </div>
             </div>

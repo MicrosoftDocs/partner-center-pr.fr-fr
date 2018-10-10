@@ -1,37 +1,37 @@
 ---
 title: Lire votre facture | Espace partenaires
-description: Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Elle est disponible sur le tableau de bord de l’Espace partenaires.
+description: Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Il est disponible sur l’espace partenaires.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377541"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489405"
 ---
-# <a name="read-your-bill"></a><span data-ttu-id="e7cc0-105">Lire votre facture</span><span class="sxs-lookup"><span data-stu-id="e7cc0-105">Read your bill</span></span>
+# <a name="read-your-bill"></a><span data-ttu-id="ff631-105">Lire votre facture</span><span class="sxs-lookup"><span data-stu-id="ff631-105">Read your bill</span></span>
 
-**<span data-ttu-id="e7cc0-106">S'applique à</span><span class="sxs-lookup"><span data-stu-id="e7cc0-106">Applies to</span></span>**
+**<span data-ttu-id="ff631-106">S'applique à</span><span class="sxs-lookup"><span data-stu-id="ff631-106">Applies to</span></span>**
 
--  <span data-ttu-id="e7cc0-107">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="e7cc0-107">Partner Center</span></span>
--  <span data-ttu-id="e7cc0-108">Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis</span><span class="sxs-lookup"><span data-stu-id="e7cc0-108">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="e7cc0-109">Espace partenaires de MicrosoftCloud Germany</span><span class="sxs-lookup"><span data-stu-id="e7cc0-109">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="ff631-107">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="ff631-107">Partner Center</span></span>
+-  <span data-ttu-id="ff631-108">Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis</span><span class="sxs-lookup"><span data-stu-id="ff631-108">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="ff631-109">Espace partenaires de MicrosoftCloud Germany</span><span class="sxs-lookup"><span data-stu-id="ff631-109">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="e7cc0-110">Pour votre facture, accédez au menu **Tableau de bord** et sélectionnez **Facturation** pour afficher votre historique et vos tendances de facturation, des liens vers votre facture et votre fichier de rapprochement, ainsi que votre dernier paiement en date.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-110">For your bill, go to the **Dashboard** menu and then select **Billing** to see your billing history and trends, links to your invoice and reconciliation file, and your most recent payment.</span></span>
+<span data-ttu-id="ff631-110">Pour consulter votre facture, accédez au menu **Espace partenaires** , puis sélectionnez la **facturation** pour afficher votre historique de facturation et les tendances, des liens vers votre facture et le fichier de rapprochement et votre dernier paiement.</span><span class="sxs-lookup"><span data-stu-id="ff631-110">For your bill, go to the **Partner Center** menu and then select **Billing** to see your billing history and trends, links to your invoice and reconciliation file, and your most recent payment.</span></span>
 
-<span data-ttu-id="e7cc0-111">Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).</span><span class="sxs-lookup"><span data-stu-id="e7cc0-111">Partners in the Cloud Solution Provider program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).</span></span>
+<span data-ttu-id="ff631-111">Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).</span><span class="sxs-lookup"><span data-stu-id="ff631-111">Partners in the Cloud Solution Provider program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).</span></span>
 
 > [!NOTE]  
-> <span data-ttu-id="e7cc0-112">Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-112">Your invoice is a summary of all charges -- across the program, products, and customers -- for the current billing period and is available within four (4) days of your selected billing date.</span></span>
+> <span data-ttu-id="ff631-112">Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.</span><span class="sxs-lookup"><span data-stu-id="ff631-112">Your invoice is a summary of all charges -- across the program, products, and customers -- for the current billing period and is available within four (4) days of your selected billing date.</span></span>
 
-<span data-ttu-id="e7cc0-113">Vous recevrez une facture pour basée sur la licence (Office 365) et sur l’utilisation des frais (Azure) et une facture distincte à usage unique (Azure reserved VM instances) frais.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-113">You will receive one invoice for license-based (Office365) and usage-based (Azure) charges, and a separate invoice for one-time (Azure reserved VM instances) charges.</span></span>
+<span data-ttu-id="ff631-113">Vous recevrez une facture pour basée sur la licence (Office 365) et sur l’utilisation des frais (Azure) et une facture distincte à usage unique (Azure reserved VM instances) frais.</span><span class="sxs-lookup"><span data-stu-id="ff631-113">You will receive one invoice for license-based (Office365) and usage-based (Azure) charges, and a separate invoice for one-time (Azure reserved VM instances) charges.</span></span>
 
-<span data-ttu-id="e7cc0-114">Pour plus d’informations sur les frais par élément, utilisez les fichiers de rapprochement joints.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-114">For itemized details about the charges, use the accompanying reconciliation files.</span></span> <span data-ttu-id="e7cc0-115">Les fichiers de rapprochement comprennent les ID de clients et d’abonnements que vous utiliserez pour créer des factures client.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-115">The reconciliation files include the customer IDs and subscription IDs that you will use to create customer invoices.</span></span> <span data-ttu-id="e7cc0-116">Pour plus d’informations, voir [Utilisation des fichiers de rapprochement](use-the-reconciliation-files.md).</span><span class="sxs-lookup"><span data-stu-id="e7cc0-116">For more information, see [How to use the reconciliation files](use-the-reconciliation-files.md).</span></span>
+<span data-ttu-id="ff631-114">Pour plus d’informations sur les frais par élément, utilisez les fichiers de rapprochement joints.</span><span class="sxs-lookup"><span data-stu-id="ff631-114">For itemized details about the charges, use the accompanying reconciliation files.</span></span> <span data-ttu-id="ff631-115">Les fichiers de rapprochement comprennent les ID de clients et d’abonnements que vous utiliserez pour créer des factures client.</span><span class="sxs-lookup"><span data-stu-id="ff631-115">The reconciliation files include the customer IDs and subscription IDs that you will use to create customer invoices.</span></span> <span data-ttu-id="ff631-116">Pour plus d’informations, voir [Utilisation des fichiers de rapprochement](use-the-reconciliation-files.md).</span><span class="sxs-lookup"><span data-stu-id="ff631-116">For more information, see [How to use the reconciliation files](use-the-reconciliation-files.md).</span></span>
 
-## <a name="invoice-file-definitions"></a><span data-ttu-id="e7cc0-117">Définitions des fichiers de factures</span><span class="sxs-lookup"><span data-stu-id="e7cc0-117">Invoice file definitions</span></span>
+## <a name="invoice-file-definitions"></a><span data-ttu-id="ff631-117">Définitions des fichiers de factures</span><span class="sxs-lookup"><span data-stu-id="ff631-117">Invoice file definitions</span></span>
 
 
 <table>
@@ -41,108 +41,108 @@ ms.locfileid: "4377541"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong><span data-ttu-id="e7cc0-118">Champ</span><span class="sxs-lookup"><span data-stu-id="e7cc0-118">Field</span></span></strong></td>
-<td><strong><span data-ttu-id="e7cc0-119">Description</span><span class="sxs-lookup"><span data-stu-id="e7cc0-119">Description</span></span></strong></td>
+<td><strong><span data-ttu-id="ff631-118">Champ</span><span class="sxs-lookup"><span data-stu-id="ff631-118">Field</span></span></strong></td>
+<td><strong><span data-ttu-id="ff631-119">Description</span><span class="sxs-lookup"><span data-stu-id="ff631-119">Description</span></span></strong></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="e7cc0-120">Numéro d’identification américain FEIN</span><span class="sxs-lookup"><span data-stu-id="e7cc0-120">US FEIN</span></span></td>
-<td><span data-ttu-id="e7cc0-121">Votre numéro fiscal fédéral.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-121">Your Federal Tax ID Number.</span></span></td>
+<td><span data-ttu-id="ff631-120">Numéro d’identification américain FEIN</span><span class="sxs-lookup"><span data-stu-id="ff631-120">US FEIN</span></span></td>
+<td><span data-ttu-id="ff631-121">Votre numéro fiscal fédéral.</span><span class="sxs-lookup"><span data-stu-id="ff631-121">Your Federal Tax ID Number.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-122">Numéro de client</span><span class="sxs-lookup"><span data-stu-id="e7cc0-122">Customer number</span></span></td>
-<td><span data-ttu-id="e7cc0-123">Votre numéro de client.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-123">Your customer number.</span></span></td>
+<td><span data-ttu-id="ff631-122">Numéro de client</span><span class="sxs-lookup"><span data-stu-id="ff631-122">Customer number</span></span></td>
+<td><span data-ttu-id="ff631-123">Votre numéro de client.</span><span class="sxs-lookup"><span data-stu-id="ff631-123">Your customer number.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="e7cc0-124">Adresse de facturation</span><span class="sxs-lookup"><span data-stu-id="e7cc0-124">Bill to</span></span></td>
-<td><span data-ttu-id="e7cc0-125">Adresse d’expédition de votre facture.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-125">The address where we send your invoice.</span></span> <span data-ttu-id="e7cc0-126">Pour modifier cette adresse, accédez à Paramètres du compte > Profil de facturation du partenaire.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-126">To change this address, go to Account settings > Partner billing profile.</span></span> </td>
+<td><span data-ttu-id="ff631-124">Adresse de facturation</span><span class="sxs-lookup"><span data-stu-id="ff631-124">Bill to</span></span></td>
+<td><span data-ttu-id="ff631-125">Adresse d’expédition de votre facture.</span><span class="sxs-lookup"><span data-stu-id="ff631-125">The address where we send your invoice.</span></span> <span data-ttu-id="ff631-126">Pour modifier cette adresse, accédez à Paramètres du compte > Profil de facturation du partenaire.</span><span class="sxs-lookup"><span data-stu-id="ff631-126">To change this address, go to Account settings > Partner billing profile.</span></span> </td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-127">Frais basé sur les licences</span><span class="sxs-lookup"><span data-stu-id="e7cc0-127">License-based charges</span></span></td>
-<td><span data-ttu-id="e7cc0-128">Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-128">The flat monthly (or annual) charges for the purchased usage-based licenses, billed in advance of the service.</span></span> <span data-ttu-id="e7cc0-129">Ce montant est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonneT).</span><span class="sxs-lookup"><span data-stu-id="e7cc0-129">This number is the sum of all charges in the &quot;Subtotal&quot; column in the License-based reconciliation file (column T).</span></span></td>
+<td><span data-ttu-id="ff631-127">Frais basé sur les licences</span><span class="sxs-lookup"><span data-stu-id="ff631-127">License-based charges</span></span></td>
+<td><span data-ttu-id="ff631-128">Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service.</span><span class="sxs-lookup"><span data-stu-id="ff631-128">The flat monthly (or annual) charges for the purchased usage-based licenses, billed in advance of the service.</span></span> <span data-ttu-id="ff631-129">Ce montant est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonneT).</span><span class="sxs-lookup"><span data-stu-id="ff631-129">This number is the sum of all charges in the &quot;Subtotal&quot; column in the License-based reconciliation file (column T).</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="e7cc0-130">Frais basés sur l’utilisation</span><span class="sxs-lookup"><span data-stu-id="e7cc0-130">Usage-based charges</span></span></td>
-<td><span data-ttu-id="e7cc0-131">Utilisation d’Azure, y compris des nouveaux services ou des nouvelles applications activés et utilisés au cours du mois de facturation.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-131">Azure usage, including new services or applications enabled and used during the billing month.</span></span> <span data-ttu-id="e7cc0-132">Ce nombre est la somme de tous les frais indiqués dans la colonne &quot;PretaxCharges&quot; du fichier de rapprochement basé sur l’utilisation (colonne&nbsp;Z).</span><span class="sxs-lookup"><span data-stu-id="e7cc0-132">This number is the sum of all charges in the &quot;PretaxCharges&quot; column in the Usage-based reconciliation file (column Z).</span></span></td>
+<td><span data-ttu-id="ff631-130">Frais basés sur l’utilisation</span><span class="sxs-lookup"><span data-stu-id="ff631-130">Usage-based charges</span></span></td>
+<td><span data-ttu-id="ff631-131">Utilisation d’Azure, y compris des nouveaux services ou des nouvelles applications activés et utilisés au cours du mois de facturation.</span><span class="sxs-lookup"><span data-stu-id="ff631-131">Azure usage, including new services or applications enabled and used during the billing month.</span></span> <span data-ttu-id="ff631-132">Ce nombre est la somme de tous les frais indiqués dans la colonne &quot;PretaxCharges&quot; du fichier de rapprochement basé sur l’utilisation (colonne&nbsp;Z).</span><span class="sxs-lookup"><span data-stu-id="ff631-132">This number is the sum of all charges in the &quot;PretaxCharges&quot; column in the Usage-based reconciliation file (column Z).</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-133">Remises</span><span class="sxs-lookup"><span data-stu-id="e7cc0-133">Discounts</span></span></td>
-<td><span data-ttu-id="e7cc0-134">Par exemple, la remise que le client reçoit sur le prix normal de l’abonnement.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-134">For example, the discount that the customer receives from the normal price of the subscription.</span></span> <span data-ttu-id="e7cc0-135">Celle-ci apparaît comme un montant fixe, et non pas comme un prix par unité ou par licence.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-135">This is shown as a flat amount, not as a price per unit or license.</span></span></td>
+<td><span data-ttu-id="ff631-133">Remises</span><span class="sxs-lookup"><span data-stu-id="ff631-133">Discounts</span></span></td>
+<td><span data-ttu-id="ff631-134">Par exemple, la remise que le client reçoit sur le prix normal de l’abonnement.</span><span class="sxs-lookup"><span data-stu-id="ff631-134">For example, the discount that the customer receives from the normal price of the subscription.</span></span> <span data-ttu-id="ff631-135">Celle-ci apparaît comme un montant fixe, et non pas comme un prix par unité ou par licence.</span><span class="sxs-lookup"><span data-stu-id="ff631-135">This is shown as a flat amount, not as a price per unit or license.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-136">Crédits</span><span class="sxs-lookup"><span data-stu-id="e7cc0-136">Credits</span></span></td>
-<td><span data-ttu-id="e7cc0-137">Crédits ou ajustements pour les modifications apportées aux abonnements (par exemple : augmentations ou baisses du nombre d’emplacements).</span><span class="sxs-lookup"><span data-stu-id="e7cc0-137">Credits or adjustments for changes made to subscriptions (example: seat increases or decreases).</span></span></td>
+<td><span data-ttu-id="ff631-136">Crédits</span><span class="sxs-lookup"><span data-stu-id="ff631-136">Credits</span></span></td>
+<td><span data-ttu-id="ff631-137">Crédits ou ajustements pour les modifications apportées aux abonnements (par exemple : augmentations ou baisses du nombre d’emplacements).</span><span class="sxs-lookup"><span data-stu-id="ff631-137">Credits or adjustments for changes made to subscriptions (example: seat increases or decreases).</span></span></td>
 </tr>
 <tr class="even">
 <tr class="even">
-<td><span data-ttu-id="e7cc0-138">Sous-total</span><span class="sxs-lookup"><span data-stu-id="e7cc0-138">Subtotal</span></span></td>
-<td><span data-ttu-id="e7cc0-139">Total avant taxes et frais de taxe et les crédits.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-139">Total before taxes and tax-exclusive charges and credits.</span></span></td>
+<td><span data-ttu-id="ff631-138">Sous-total</span><span class="sxs-lookup"><span data-stu-id="ff631-138">Subtotal</span></span></td>
+<td><span data-ttu-id="ff631-139">Total avant taxes et frais de taxe et les crédits.</span><span class="sxs-lookup"><span data-stu-id="ff631-139">Total before taxes and tax-exclusive charges and credits.</span></span></td>
 </tr>
-<td><span data-ttu-id="e7cc0-140">Taxe</span><span class="sxs-lookup"><span data-stu-id="e7cc0-140">Tax</span></span></td>
-<td><span data-ttu-id="e7cc0-141">Total des taxes des frais en cours correspond au total de la section des détails commençant à la page&nbsp;2 de la facture.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-141">The total tax for the current charges as totaled in the details section beginning on page 2 of the invoice.</span></span> <span data-ttu-id="e7cc0-142">Ce nombre est la somme de tous les frais indiqués dans&nbsp;:</span><span class="sxs-lookup"><span data-stu-id="e7cc0-142">This number is the sum of all the charges in:</span></span>
+<td><span data-ttu-id="ff631-140">Taxe</span><span class="sxs-lookup"><span data-stu-id="ff631-140">Tax</span></span></td>
+<td><span data-ttu-id="ff631-141">Total des taxes des frais en cours correspond au total de la section des détails commençant à la page&nbsp;2 de la facture.</span><span class="sxs-lookup"><span data-stu-id="ff631-141">The total tax for the current charges as totaled in the details section beginning on page 2 of the invoice.</span></span> <span data-ttu-id="ff631-142">Ce nombre est la somme de tous les frais indiqués dans&nbsp;:</span><span class="sxs-lookup"><span data-stu-id="ff631-142">This number is the sum of all the charges in:</span></span>
 <ul>
-<li><span data-ttu-id="e7cc0-143">la colonne &quot;TaxAmount&quot; du fichier de rapprochement basé sur l’utilisation (colonne&nbsp;AA), et</span><span class="sxs-lookup"><span data-stu-id="e7cc0-143">the &quot;TaxAmount&quot; column of the Usage-based reconciliation file (column AA), and</span></span></li>
-<li><span data-ttu-id="e7cc0-144">la colonne &quot;Tax&quot; du fichier basé sur la licence (colonne&nbsp;U).</span><span class="sxs-lookup"><span data-stu-id="e7cc0-144">the &quot;Tax&quot; column of the License-based file (column U).</span></span></li>
+<li><span data-ttu-id="ff631-143">la colonne &quot;TaxAmount&quot; du fichier de rapprochement basé sur l’utilisation (colonne&nbsp;AA), et</span><span class="sxs-lookup"><span data-stu-id="ff631-143">the &quot;TaxAmount&quot; column of the Usage-based reconciliation file (column AA), and</span></span></li>
+<li><span data-ttu-id="ff631-144">la colonne &quot;Tax&quot; du fichier basé sur la licence (colonne&nbsp;U).</span><span class="sxs-lookup"><span data-stu-id="ff631-144">the &quot;Tax&quot; column of the License-based file (column U).</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-145">Autres crédits</span><span class="sxs-lookup"><span data-stu-id="e7cc0-145">Other credits</span></span></td>
-<td><span data-ttu-id="e7cc0-146">Crédits de taxe.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-146">Tax-exclusive credits.</span></span></td>
+<td><span data-ttu-id="ff631-145">Autres crédits</span><span class="sxs-lookup"><span data-stu-id="ff631-145">Other credits</span></span></td>
+<td><span data-ttu-id="ff631-146">Crédits de taxe.</span><span class="sxs-lookup"><span data-stu-id="ff631-146">Tax-exclusive credits.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="e7cc0-147">Total des frais en cours</span><span class="sxs-lookup"><span data-stu-id="e7cc0-147">Total current charges</span></span></td>
-<td><span data-ttu-id="e7cc0-148">Montant dû dans votre devise de facturation pour la période de facturation, à payer à la date d’échéance.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-148">The amount due in your billing currency for the billing period, due by the payment due date.</span></span></td>
+<td><span data-ttu-id="ff631-147">Total des frais en cours</span><span class="sxs-lookup"><span data-stu-id="ff631-147">Total current charges</span></span></td>
+<td><span data-ttu-id="ff631-148">Montant dû dans votre devise de facturation pour la période de facturation, à payer à la date d’échéance.</span><span class="sxs-lookup"><span data-stu-id="ff631-148">The amount due in your billing currency for the billing period, due by the payment due date.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-149">Instructions pour le paiement</span><span class="sxs-lookup"><span data-stu-id="e7cc0-149">Payment instructions</span></span></td>
-<td><span data-ttu-id="e7cc0-150">Explique comment payer votre facture en fonction de votre région.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-150">Describes how to pay your invoice, based on your region.</span></span> <span data-ttu-id="e7cc0-151">Indiquez toujours votre numéro de facture lors du paiement.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-151">Always include your invoice number when making a payment.</span></span></td>
+<td><span data-ttu-id="ff631-149">Instructions pour le paiement</span><span class="sxs-lookup"><span data-stu-id="ff631-149">Payment instructions</span></span></td>
+<td><span data-ttu-id="ff631-150">Explique comment payer votre facture en fonction de votre région.</span><span class="sxs-lookup"><span data-stu-id="ff631-150">Describes how to pay your invoice, based on your region.</span></span> <span data-ttu-id="ff631-151">Indiquez toujours votre numéro de facture lors du paiement.</span><span class="sxs-lookup"><span data-stu-id="ff631-151">Always include your invoice number when making a payment.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="e7cc0-152">Numéro de facture</span><span class="sxs-lookup"><span data-stu-id="e7cc0-152">Invoice no</span></span></td>
-<td><span data-ttu-id="e7cc0-153">Numéro de votre facture.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-153">The number of your invoice.</span></span></td>
+<td><span data-ttu-id="ff631-152">Numéro de facture</span><span class="sxs-lookup"><span data-stu-id="ff631-152">Invoice no</span></span></td>
+<td><span data-ttu-id="ff631-153">Numéro de votre facture.</span><span class="sxs-lookup"><span data-stu-id="ff631-153">The number of your invoice.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-154">Période de facturation</span><span class="sxs-lookup"><span data-stu-id="e7cc0-154">Billing period</span></span></td>
-<td><span data-ttu-id="e7cc0-155">Les partenaires fournisseurs de solutions Cloud sont facturés mensuellement ou annuellement.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-155">CSP partners are billed either monthly or annually.</span></span></td>
+<td><span data-ttu-id="ff631-154">Période de facturation</span><span class="sxs-lookup"><span data-stu-id="ff631-154">Billing period</span></span></td>
+<td><span data-ttu-id="ff631-155">Les partenaires fournisseurs de solutions Cloud sont facturés mensuellement ou annuellement.</span><span class="sxs-lookup"><span data-stu-id="ff631-155">CSP partners are billed either monthly or annually.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="e7cc0-156">Date de facturation</span><span class="sxs-lookup"><span data-stu-id="e7cc0-156">Invoice date</span></span></td>
-<td><span data-ttu-id="e7cc0-157">Date à laquelle vous recevez votre facture.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-157">The date you receive your invoice.</span></span></td>
+<td><span data-ttu-id="ff631-156">Date de facturation</span><span class="sxs-lookup"><span data-stu-id="ff631-156">Invoice date</span></span></td>
+<td><span data-ttu-id="ff631-157">Date à laquelle vous recevez votre facture.</span><span class="sxs-lookup"><span data-stu-id="ff631-157">The date you receive your invoice.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-158">Modalités de paiement</span><span class="sxs-lookup"><span data-stu-id="e7cc0-158">Payment terms</span></span></td>
-<td><span data-ttu-id="e7cc0-159">Pour les achats ponctuels, le délai sera toujours de 60jours.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-159">For one-time purchases this will always be 60 days.</span></span></td>
+<td><span data-ttu-id="ff631-158">Modalités de paiement</span><span class="sxs-lookup"><span data-stu-id="ff631-158">Payment terms</span></span></td>
+<td><span data-ttu-id="ff631-159">Pour les achats ponctuels, le délai sera toujours de 60jours.</span><span class="sxs-lookup"><span data-stu-id="ff631-159">For one-time purchases this will always be 60 days.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="e7cc0-160">Date d’échéance du paiement</span><span class="sxs-lookup"><span data-stu-id="e7cc0-160">Payment due date</span></span></td>
-<td><span data-ttu-id="e7cc0-161">Votre paiement doit être reçu au plus tard à cette date.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-161">Your payment must be received by this date.</span></span></td>
+<td><span data-ttu-id="ff631-160">Date d’échéance du paiement</span><span class="sxs-lookup"><span data-stu-id="ff631-160">Payment due date</span></span></td>
+<td><span data-ttu-id="ff631-161">Votre paiement doit être reçu au plus tard à cette date.</span><span class="sxs-lookup"><span data-stu-id="ff631-161">Your payment must be received by this date.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-162">Numéro du bon de commande du client</span><span class="sxs-lookup"><span data-stu-id="e7cc0-162">Customer PO</span></span></td>
-<td><span data-ttu-id="e7cc0-163">Numéro de votre bon de commande.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-163">Your purchase order number.</span></span></td>
+<td><span data-ttu-id="ff631-162">Numéro du bon de commande du client</span><span class="sxs-lookup"><span data-stu-id="ff631-162">Customer PO</span></span></td>
+<td><span data-ttu-id="ff631-163">Numéro de votre bon de commande.</span><span class="sxs-lookup"><span data-stu-id="ff631-163">Your purchase order number.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="e7cc0-164">Service client</span><span class="sxs-lookup"><span data-stu-id="e7cc0-164">Customer service</span></span></td>
-<td><span data-ttu-id="e7cc0-165">Adresse du site web pour accéder au service client.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-165">The website address to access customer service.</span></span></td>
+<td><span data-ttu-id="ff631-164">Service client</span><span class="sxs-lookup"><span data-stu-id="ff631-164">Customer service</span></span></td>
+<td><span data-ttu-id="ff631-165">Adresse du site web pour accéder au service client.</span><span class="sxs-lookup"><span data-stu-id="ff631-165">The website address to access customer service.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="e7cc0-166">Bénéficiaire du service</span><span class="sxs-lookup"><span data-stu-id="e7cc0-166">Service recipient</span></span></td>
-<td><span data-ttu-id="e7cc0-167">Adresse où le service est utilisé.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-167">The address where the service is used.</span></span> <span data-ttu-id="e7cc0-168">(Adresse officielle de la société, information non modifiable)</span><span class="sxs-lookup"><span data-stu-id="e7cc0-168">(This is the legal company address associated with company vetting and cannot be changed.)</span></span></td>
+<td><span data-ttu-id="ff631-166">Bénéficiaire du service</span><span class="sxs-lookup"><span data-stu-id="ff631-166">Service recipient</span></span></td>
+<td><span data-ttu-id="ff631-167">Adresse où le service est utilisé.</span><span class="sxs-lookup"><span data-stu-id="ff631-167">The address where the service is used.</span></span> <span data-ttu-id="ff631-168">(Adresse officielle de la société, information non modifiable)</span><span class="sxs-lookup"><span data-stu-id="ff631-168">(This is the legal company address associated with company vetting and cannot be changed.)</span></span></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="itemized-list-of-one-time-charges"></a><span data-ttu-id="e7cc0-169">Liste détaillée des frais ponctuels</span><span class="sxs-lookup"><span data-stu-id="e7cc0-169">Itemized list of one-time charges</span></span>
+## <a name="itemized-list-of-one-time-charges"></a><span data-ttu-id="ff631-169">Liste détaillée des frais ponctuels</span><span class="sxs-lookup"><span data-stu-id="ff631-169">Itemized list of one-time charges</span></span>
 
-|**<span data-ttu-id="e7cc0-170">Champ</span><span class="sxs-lookup"><span data-stu-id="e7cc0-170">Field</span></span>** |**<span data-ttu-id="e7cc0-171">Définition</span><span class="sxs-lookup"><span data-stu-id="e7cc0-171">Definition</span></span>**|
+|**<span data-ttu-id="ff631-170">Champ</span><span class="sxs-lookup"><span data-stu-id="ff631-170">Field</span></span>** |**<span data-ttu-id="ff631-171">Définition</span><span class="sxs-lookup"><span data-stu-id="ff631-171">Definition</span></span>**|
 |:----------------|:-----------------------------|
-|<span data-ttu-id="e7cc0-172">Date</span><span class="sxs-lookup"><span data-stu-id="e7cc0-172">Date</span></span> |<span data-ttu-id="e7cc0-173">Date d’achat.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-173">Date of purchase.</span></span> |
-|<span data-ttu-id="e7cc0-174">Description</span><span class="sxs-lookup"><span data-stu-id="e7cc0-174">Description</span></span> |<span data-ttu-id="e7cc0-175">Nom du produit.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-175">Product name.</span></span> |
-|<span data-ttu-id="e7cc0-176">Quantité</span><span class="sxs-lookup"><span data-stu-id="e7cc0-176">Quantity</span></span> |<span data-ttu-id="e7cc0-177">Le nombre de produits (réservations, par exemple) achetés.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-177">The number of products (reservations, e.g.) purchased.</span></span> |
-|<span data-ttu-id="e7cc0-178">Prix unitaire</span><span class="sxs-lookup"><span data-stu-id="e7cc0-178">Unit price</span></span> |<span data-ttu-id="e7cc0-179">Prix par produit (par exemple, réservation).</span><span class="sxs-lookup"><span data-stu-id="e7cc0-179">Price per product (reservation, e.g.).</span></span> |
-|<span data-ttu-id="e7cc0-180">Remises</span><span class="sxs-lookup"><span data-stu-id="e7cc0-180">Discounts</span></span> |<span data-ttu-id="e7cc0-181">Toutes les remises applicables.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-181">Any applicable discounts.</span></span> |
-|<span data-ttu-id="e7cc0-182">Montant hors taxe</span><span class="sxs-lookup"><span data-stu-id="e7cc0-182">Pre-tax amount</span></span> |<span data-ttu-id="e7cc0-183">Sous-total des achats avant impôts.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-183">Sub-total of the purchases before taxes.</span></span> |
-|<span data-ttu-id="e7cc0-184">Taxe de vente</span><span class="sxs-lookup"><span data-stu-id="e7cc0-184">Sales tax</span></span> |<span data-ttu-id="e7cc0-185">Montant des taxes.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-185">Tax amount.</span></span> |
-|<span data-ttu-id="e7cc0-186">Total</span><span class="sxs-lookup"><span data-stu-id="e7cc0-186">Total</span></span> |<span data-ttu-id="e7cc0-187">Total à payer.</span><span class="sxs-lookup"><span data-stu-id="e7cc0-187">Total to be paid.</span></span> |
+|<span data-ttu-id="ff631-172">Date</span><span class="sxs-lookup"><span data-stu-id="ff631-172">Date</span></span> |<span data-ttu-id="ff631-173">Date d’achat.</span><span class="sxs-lookup"><span data-stu-id="ff631-173">Date of purchase.</span></span> |
+|<span data-ttu-id="ff631-174">Description</span><span class="sxs-lookup"><span data-stu-id="ff631-174">Description</span></span> |<span data-ttu-id="ff631-175">Nom du produit.</span><span class="sxs-lookup"><span data-stu-id="ff631-175">Product name.</span></span> |
+|<span data-ttu-id="ff631-176">Quantité</span><span class="sxs-lookup"><span data-stu-id="ff631-176">Quantity</span></span> |<span data-ttu-id="ff631-177">Le nombre de produits (réservations, par exemple) achetés.</span><span class="sxs-lookup"><span data-stu-id="ff631-177">The number of products (reservations, e.g.) purchased.</span></span> |
+|<span data-ttu-id="ff631-178">Prix unitaire</span><span class="sxs-lookup"><span data-stu-id="ff631-178">Unit price</span></span> |<span data-ttu-id="ff631-179">Prix par produit (par exemple, réservation).</span><span class="sxs-lookup"><span data-stu-id="ff631-179">Price per product (reservation, e.g.).</span></span> |
+|<span data-ttu-id="ff631-180">Remises</span><span class="sxs-lookup"><span data-stu-id="ff631-180">Discounts</span></span> |<span data-ttu-id="ff631-181">Toutes les remises applicables.</span><span class="sxs-lookup"><span data-stu-id="ff631-181">Any applicable discounts.</span></span> |
+|<span data-ttu-id="ff631-182">Montant hors taxe</span><span class="sxs-lookup"><span data-stu-id="ff631-182">Pre-tax amount</span></span> |<span data-ttu-id="ff631-183">Sous-total des achats avant impôts.</span><span class="sxs-lookup"><span data-stu-id="ff631-183">Sub-total of the purchases before taxes.</span></span> |
+|<span data-ttu-id="ff631-184">Taxe de vente</span><span class="sxs-lookup"><span data-stu-id="ff631-184">Sales tax</span></span> |<span data-ttu-id="ff631-185">Montant des taxes.</span><span class="sxs-lookup"><span data-stu-id="ff631-185">Tax amount.</span></span> |
+|<span data-ttu-id="ff631-186">Total</span><span class="sxs-lookup"><span data-stu-id="ff631-186">Total</span></span> |<span data-ttu-id="ff631-187">Total à payer.</span><span class="sxs-lookup"><span data-stu-id="ff631-187">Total to be paid.</span></span> |
  
 
 
