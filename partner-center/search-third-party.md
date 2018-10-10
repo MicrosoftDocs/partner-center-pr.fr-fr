@@ -4,12 +4,12 @@ description: Recherchez et trouvez les types d’offres tierces qui sont adapté
 author: labrenne
 keywords: offres tierces, logiciel à acheter, rechercher des tiers
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377501"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488585"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Découvrir les offres tierces que vous pouvez vendre
 
@@ -42,7 +42,7 @@ Si vous intéressé par un achat du logiciel, mais que vous avez des questions s
 
 L’achat des logiciels tiers s’effectue de la même façon que vous achetez des logiciels internes. 
 
-1. Dans le **Tableau de bord**, sélectionnez **Clients**.
+1. À partir du **Centre de partenaires**, sélectionnez les **clients**
 2. Sélectionnez **Nouvel abonnement**.
 3. Pour obtenir des instructions détaillées, voir [Créer, suspendre ou annuler des abonnements client](create-a-new-subscription.md).
 4.  Sélectionnez la facturation mensuelle pour les logiciels tiers. La facturation annuelle et les essais ne sont actuellement pas disponibles pour les logiciels tiers.

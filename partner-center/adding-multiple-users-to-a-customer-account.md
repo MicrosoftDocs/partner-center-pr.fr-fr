@@ -5,12 +5,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: chargement groupé, ajouter plusieurs utilisateurs à un compte client, ajouter des utilisateurs du client, chargement groupé des utilisateurs du client, compte client, utilisateurs du client, utilisateurs
 ms.localizationpriority: medium
-ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 123c2c7b80398a860aa894449052502d41409c85
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876969"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488815"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Ajouter plusieurs utilisateurs à un compte client
 
@@ -18,7 +18,7 @@ ms.locfileid: "2876969"
 
 -  Espace partenaires
 
-Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de valeurs séparées par des virgules (.csv) dans le Tableau de bord du partenaire. Vous pouvez télécharger un exemple de fichier de données à partir du Tableau de bord du partenaire, puis l’adapter à votre utilisation, ou créer un fichier de données à l’aide du modèle de données défini ci-dessous.
+Vous pouvez ajouter plusieurs utilisateurs à un compte client tous à la fois, en chargeant un fichier de données dans le format de fichier de valeurs séparées par des virgules (.csv) dans l’espace partenaires. Vous pouvez télécharger un exemple de fichier de données à partir de l’espace partenaires, puis l’adapter à votre utilisation, ou vous pouvez créer un fichier de données à l’aide du modèle de données défini ci-dessous.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Conditions requises pour les fichiers de données
 
@@ -38,7 +38,7 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 | **Nom de la colonne** | **Description**                                                              | **Limitation**                             |
 | Prénom      | Prénom de l’utilisateur (champ facultatif)                                           | 50&nbsp;caractères maximum                         |
 | Nom       | Nom de l’utilisateur (champ facultatif)                                            | 50&nbsp;caractères maximum                         |
-| Nom d’affichage    | Nom affiché dans le Tableau de bord du partenaire (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
+| Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
 | Email           | Adresse de messagerie professionnelle de l’utilisateur chez le client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse de messagerie unique. |
 | Mise à jour de l’état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé. | \*\*Laisser vide\* \ *                        |
 
@@ -48,7 +48,7 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 
 <a href="" id="creatingtheaccounts"></a>
 1.  Créez un fichier de données&nbsp;CSV avec les données décrites ci-dessus. Enregistrez le fichier pour pouvoir le retrouver ultérieurement.
-2.  Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis choisissez un client dans la liste.
+2.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, puis choisissez un client dans la liste.
 3.  Sélectionnez **Charger des utilisateurs**.
 4.  Sous **Charger des informations d’utilisateur**, sélectionnez **Parcourir**.
 5.  Dans le sélecteur de fichiers, sélectionnez votre fichier de données, puis **Ouvrir**.
@@ -56,7 +56,7 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 
     **Remarque** La plupart des erreurs de création de compte sont provoquées par des problèmes de fichier de données, comme des informations manquantes, des adresses de messagerie incorrectes ou dupliquées, un trop grand nombre d’enregistrements dans le fichier.
 
-7.  Lorsque le Tableau de bord du partenaire a validé le fichier, sélectionnez l’**emplacement** géographique des nouveaux utilisateurs.
+7.  Lorsque l’espace partenaires a validé le fichier, sélectionnez **l’emplacement** géographique des nouveaux utilisateurs.
 8.  Sélectionnez **Enregistrer**.
 9.  Téléchargez le mot de passe temporaire des utilisateurs.
 

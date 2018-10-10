@@ -5,12 +5,12 @@ ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: 483d0d13415c204106c2269d9cdcd80298e59bc2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877089"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490005"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
@@ -20,7 +20,7 @@ ms.locfileid: "2877089"
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
-Le Tableau de bord du partenaire gère et affiche tous les droits de licence appartenant à un client.
+l’espace partenaires gère et affiche tous les droits de licence appartenant à client.
 
 ## <a name="in-this-section"></a>Dans cette section
 
@@ -31,7 +31,7 @@ Le Tableau de bord du partenaire gère et affiche tous les droits de licence app
 <a href="" id="assign-licenses-to-groups"></a>
 **Attribuer des licences à plusieurs utilisateurs**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis choisissez un client dans la liste.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**et puis choisissez un client dans la liste.
 2.  Sélectionnez **Utilisateurs et licences**.
 3.  Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 
@@ -57,7 +57,7 @@ Le Tableau de bord du partenaire gère et affiche tous les droits de licence app
 7.  Sélectionnez plusieurs produits pour les utilisateurs en activant la case à cocher de chaque produit.
     -   Sélectionnez **Afficher les plans de services** pour un produit, afin d’afficher et de sélectionner les plans de services dont les utilisateurs ont besoin.
 
-8.  Sélectionnez **Enregistrer**. Le Tableau de bord du partenaire ouvre une page de confirmation **Licences mises à jour** répertoriant les utilisateurs et leurs nouvelles licences.
+8.  Sélectionnez **Enregistrer**. L’espace partenaires ouvre une page de confirmation de **mise à jour de licences** répertoriant les utilisateurs et leurs nouvelles licences.
 
 **Remarque** Certains produits Microsoft ne sont pas disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
 
@@ -66,7 +66,7 @@ Le Tableau de bord du partenaire gère et affiche tous les droits de licence app
 <a href="" id="revoking-licenses"></a>
 **Révocation de licences attribuées à des utilisateurs**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis choisissez un client dans la liste.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**et puis choisissez un client dans la liste.
 2.  Sélectionnez **Utilisateurs et licences**.
 3.  Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 

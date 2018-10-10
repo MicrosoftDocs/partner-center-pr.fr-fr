@@ -3,12 +3,12 @@ title: Offres tierces | Espace partenaires
 description: À mesure que votre entreprise évolue, vous pouvez développer et enrichir votre portefeuille d’offres en incluant des offres tierces dans vos offres groupées de produits.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8972c59781276e9c1c839e02f3dd0d196bed7f71
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 087154d9e1729eb80273094edba285ce83cc4b4c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874589"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490115"
 ---
 # <a name="third-party-offers"></a>Offres tierces 
 
@@ -16,18 +16,18 @@ ms.locfileid: "2874589"
 
 - Espace partenaires
 
-Les offres tierces constituent une nouvelle fonctionnalité commerciale de l'Espace partenaires. Ces offres permettent aux partenaires revendeurs directs et indirects qui vendent par l'intermédiaire du Programme Fournisseur de solutions Cloud (CSP) de traiter, gérer et prendre en charge les solutions SaaS tierces.  
+Les offres tierces est une fonctionnalité dans l’espace partenaires qui fournit direct et aux partenaires revendeurs indirects qui vendent par l’intermédiaire du programme fournisseur de solutions Cloud (CSP) la possibilité d’effectuer des transactions, gérer et prendre en charge les solutions SaaS tierces.  
 
 Grâce aux offres tierces, les partenaires fournisseurs de solutions Cloud peuvent non seulement acheter des solutions Microsoft internes, mais également des solutions tierces ou des solutions de partenaires éditeurs de logiciels indépendants… Le tout sur une seule plateforme commerciale et avec une seule facture.  À mesure que votre entreprise évolue, vous pouvez développer et enrichir votre portefeuille d’offres en incluant des offres tierces dans vos offres groupées de produits. 
 
-Vous trouverez désormais différents types d’offres tierces dans l’Espace partenaires, qui sont compatibles avec les produits Microsoft. Vos clients bénéficient, au sein d’un emplacement unique, d’un plus grand choix de solutions différenciées qui sont découvertes, vendues et gérées facilement par vous, leur partenaire Microsoft approuvé. L’Espace partenaires facilite la découverte, la transaction et la gestion de ces services, afin que vous puissiez proposer des solutions et leurs avantages plus rapidement.
+Vous pouvez trouver les différents types d’offres tierces dans l’espace partenaires qui fonctionnent avec les produits Microsoft. Vos clients bénéficient d’avoir un plus grand choix de solutions différenciées qui sont découvertes, vendues et gérées facilement dans un emplacement unique par vous, leur partenaire Microsoft approuvé. L’espace partenaires facilite la découverte, effectuer des transactions et la gestion de ces services afin que vous pouvez fournir des solutions et leurs avantages plus rapidement.
 
-## <a name="microsoft-partners-that-sell-through-our-cloud-solutions-program"></a>Les partenaires Microsoft qui vendent par l'intermédiaire de notre programme de solutions Cloud
+## <a name="microsoft-partners-in-the-cloud-solution-provider-program"></a>Partenaires de Microsoft dans le programme fournisseur de solutions Cloud
 
-Les offres tierces sont conçues pour faciliter la gestion et les transactions.  Pour garantir votre réussite et la meilleure expérience pour vous et vos clients, nous vous recommandons la liste de vérification ci-dessous pour prendre en main les offres tierces d'aujourd'hui:
+Les offres tierces sont conçues pour faciliter la gestion et les transactions. Pour garantir la meilleure expérience pour vous et vos clients, nous recommandons l’utilisation de la liste de vérification ci-dessous pour vous familiariser avec les offres tierces:
 
-1. Examinez tous les documents ci-dessous, en commençant par le webinaire sur l'intégration et le FAQ
-2. Familiarisez-vous avec le catalogue de l’Espace partenaires regroupant les offres tierces
+1. Examinez tous les documents ci-dessous, à partir de l’intégration webinaire sur et le Forum aux questions
+2. Familiarisez-vous avec les offres tierces dans le catalogue de l’espace partenaires
 3. Contactez l’éditeur de logiciels au sujet des offres tierces qui vous intéressent
 4. Définissez des quotas et des cibles pour vos vendeurs
 5. Formez vos vendeurs

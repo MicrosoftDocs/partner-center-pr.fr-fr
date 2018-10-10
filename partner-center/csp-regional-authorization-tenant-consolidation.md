@@ -5,12 +5,12 @@ ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
 ms.localizationpriority: medium
-ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b5506927a8786665c55e6e68b2f81bdc6cdf73c1
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875979"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489665"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
 
@@ -31,14 +31,14 @@ Utilisez ces instructions pour consolider des locataires de différents pays/ré
 ## <a name="prepare-for-migration"></a>Préparer la migration
 
 
--   Connectez-vous à votre **Tableau de bord** à l'aide du compte (existant) de **transition** (celui que vous allez transférer) et prenez note de tous les clients et de tous les services approvisionnés pour ces clients.
+-   Se connecter à votre **Espace partenaires** avec le compte (existant) de **transition** (celui que vous allez transférer) et prenez note de tous les clients et tous les services approvisionnés pour ces clients.
 
 ![liste de clients régionaux](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migrer des comptes client
 
 
-1.  Connectez-vous à votre **Tableau de bord** à l'aide du (nouveau) compte de **transition** (celui vers lequel vous effectuez la transition) et accédez à la liste des clients à partir de **Clients**.
+1.  Se connecter à votre **Espace partenaires** avec le compte de **transition** (nouveau) (celui vous effectuez la transition) et accédez à la liste de clients à partir de **clients**.
 
 2.  Sélectionnez les clients.
 
@@ -55,7 +55,7 @@ Les clients s’affichent dans la liste des clients du partenaire, lorsqu’ils 
 
 1.  Lorsque votre client a signé le contrat, vous pouvez recréer ses abonnements sous votre locataire partenaire centralisé.
 
-2.  Dans le **Tableau de bord**, sélectionnez **Clients**.
+2.  Sélectionnez les **clients**à partir du **Centre de partenaires** .
 
 3.  Ouvrez le nom de la société du client que vous souhaitez migrer.
 
@@ -82,7 +82,7 @@ Avant de passer à la section suivante, vérifiez que tous les abonnements clien
 
 La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comptes de partenaire **Transition à partir de** interrompt toute facturation future. Il est inutile de désactiver manuellement les abonnements Azure, car le processus de migration les désactive automatiquement.
 
-1.  Connectez-vous au **Tableau de bord** à l'aide du compte de Fournisseur de solutions Cloud **Transition à partir de** et accédez à la liste des clients.
+1.  Se connecter à l' **Espace partenaires** avec le compte de fournisseur de solutions cloud **Transition à partir** de commandes et accédez à la liste des clients.
 
 2.  Ouvrez le client avec les abonnements à désactiver, et sélectionnez la première offre à désactiver.
 3.  Réglez l’abonnement sur **suspendu**, puis cliquez sur **Envoyer**.
@@ -130,7 +130,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vous devez utiliser dans votre nouvelle structure consolidée&nbsp;:
 
-1.  Cliquez sur **Clients** dans votre tableau de bord pour afficher la liste des clients dans votre structure existante.
+1.  Cliquez sur **les clients** sur l’espace partenaires pour afficher la liste des clients dans votre structure existante.
 
 2.  Ouvrez le nom de client souhaité.
 

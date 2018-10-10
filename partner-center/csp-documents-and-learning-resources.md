@@ -5,12 +5,12 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 06fa6178b5d0c1f655ba412c75ec8b950430b812
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876429"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489635"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
 
@@ -61,7 +61,7 @@ En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez e
 ## <a name="pricing"></a>Tarification
 
 
-Télécharger les détails pour les achats de licence, basés sur l’utilisation et à usage unique à partir de la page **tarification et offres** , accessible à partir de votre menu **tableau de bord** de la tarification. 
+Télécharger les détails pour les achats de licence, basés sur l’utilisation et à usage unique à partir de la page **tarification et offres** , accessible à partir de votre menu **Espace partenaires** de tarification. 
 
 La liste de prix basée sur les licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30jours avant qu'elle n'entre en vigueur. Office365, Enterprise Mobility Suite et MicrosoftDynamics CRM sont des exemples de services basés sur les licences. 
 
@@ -73,7 +73,7 @@ Achat ponctuel tarification est également dynamique. Exemples d’achats ponctu
 ## <a name="offers"></a>Offres
 
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez vendre à vos clients Office365, Enterprise Mobility Suite, Microsoft DynamicsCRM et Microsoft Azure. Pour plus d'informations sur les offres et offres groupées de produits disponibles à la vente dans ces familles de produits, consultez le tableau des fournisseurs de solutions Cloud dans la page **Tarification et offres** accessible à partir de votre menu **Tableau de bord**. Ce document est mis à jour chaque mois.
+En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez vendre à vos clients Office365, Enterprise Mobility Suite, Microsoft DynamicsCRM et Microsoft Azure. Pour plus d’informations sur les offres et produit ensembles d’applications sont disponibles à la vente dans ces familles de produits, consultez le tableau des offres fournisseur de solutions cloud sur la page **tarification et offres** , disponible à partir de votre menu **Espace partenaires** . Ce document est mis à jour chaque mois.
 
 Pour les fournisseurs de solutions Cloud partenaires qui utilisent l'API d'enregistrement de l'utilisation Crest, Microsoft publie également une liste des services Azure pour les fournisseurs de solutions Cloud dans la page **Tarification et offres**.
 

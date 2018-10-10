@@ -4,12 +4,12 @@ Description: Skype for Business Online Plan 1 subscriptions is retiring.
 Author: labrenne
 keywords: Plans Skype Entreprise, retrait de Skype, Office365
 ms.localizationpriority: medium
-ms.openlocfilehash: 82bafe918ba56fd834b1b468d6b787d52d2b90cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875459"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489805"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migration des abonnements Skype Entreprise Online Plan1 vers les nouvelles versions de MicrosoftOffice365
 
@@ -51,13 +51,13 @@ Microsoft offre en permanence de nouveaux produits et services à nos partenaire
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrer vos clients vers de nouvelles formules
 
-1. Pour acheter un nouvel abonnement, dans le menu **Tableau de bord**, sélectionnez **Clients** et le client que vous souhaitez déplacer, puis sélectionnez **Ajouter des abonnements**.
+1. Pour acheter le nouvel abonnement, dans le **menu espace partenaires**, sélectionnez des **clients**, sélectionnez le client dont vous voulez déplacer, puis sélectionnez **Ajouter les abonnements**.
 
 2. Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, l'une des options ci-dessus), indiquez le nombre de licences, puis sélectionnez **Envoyer**. 
 
 Votre client doit maintenant avoir un ancien et un nouvel abonnement: l'ancien abonnement Skype Entreprise Online Plan1 et le nouvel abonnement «cible», par exemple, Option1: Office365 Entreprise F1.
 
-3. Pour réattribuer les licences des utilisateurs du client, dans le menu du **Tableau de bord**, sélectionnez **Clients**, puis le client que vous déplacez, puis **Utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
+3. Pour réaffecter les licences des utilisateurs du client, dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client que vous déplacez, puis sélectionnez **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
 
 4. Pour réaffecter la licence utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
 
@@ -67,7 +67,7 @@ Votre client doit maintenant avoir un ancien et un nouvel abonnement: l'ancien a
 
 Une fois la licence utilisateur attribuée au nouveau service, vous pouvez en toute sécurité annuler l'abonnement retiré au niveau du client.
 
-7. Dans le menu **Tableau de bord**, sélectionnez **Clients**. Sélectionnez le client dont vous annulez l’abonnement.
+7. Dans le menu **Espace partenaires** , sélectionnez les **clients**. Sélectionnez le client dont vous annulez l’abonnement.
 
 8. Dans la page des détails de l’abonnement, définissez l'état d'abonnement sur **Suspendu**.
 

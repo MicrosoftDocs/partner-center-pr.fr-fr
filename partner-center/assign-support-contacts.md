@@ -5,12 +5,12 @@ ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 keywords: agent d’aide, support, affecter un contact de support, contact chargé du support
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a1ae3f22193f2d59266c289c4c2a924c323b86a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 323906a5554fa081496fc94e4396dee8681d59eb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877539"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489445"
 ---
 # <a name="assign-support-contacts"></a>Assigner des contacts de support
 
@@ -29,7 +29,7 @@ Cette fonction peut être utilisée pour des scénarios de type [multipartenaire
 
 1.  Commencez par une [demande de relation](request-a-relationship-with-a-customer.md) avec votre revendeur produit désigné. Négociez un contrat de support avec lui pour la gestion du support technique.
 
-2.  Dans le Tableau de bord du partenaire, sélectionnez **Clients**. Choisissez un client, puis un abonnement, par exemple, Office365 Business Premium.
+2.  Dans le menu **Espace partenaires** , sélectionnez des **clients**, puis sélectionnez un client, puis sélectionnez un abonnement, par exemple, Office 365 Business Premium.
 
 3.  Dans **Contact de support désigné**, sélectionnez le revendeur produit désigné, puis cliquez sur **Soumettre**. 
 

@@ -3,12 +3,12 @@ title: S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftClou
 description: Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud Germany, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377651"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489625"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud Germany
 
@@ -70,7 +70,7 @@ Pour créer un compte Espace partenaires et vous inscrire au programme Fournisse
 MicrosoftCloud Allemagne fournit une instance distincte de MicrosoftAzure, assurée par les centres de données allemands dotés d'un réseau dédié opérant au sein de l’Allemagne. Pour autoriser les administrateurs à gérer les utilisateurs et les licences dans le portail Azure Allemagne, vous devrez leur attribuer manuellement le rôle d’agent d’administration.
 
 > [!NOTE]  
-> Une fois que vous aurez assigné des utilisateurs au rôle d'agent administrateur, le menu **Clients** apparaîtra dans le menu Tableau de bord et vous serez en mesure d’accéder à votre liste de clients et d'[ajouter de nouveaux clients](add-a-new-customer.md).   
+> Une fois que vous affectez des utilisateurs au rôle d’Agent administrateur, le menu de **clients** s’affichent dans le le menu espace partenaires et vous serez en mesure d’accéder à votre liste de clients et [Ajouter de nouveaux clients](add-a-new-customer.md).   
 
 1.  Connectez-vous au portail Azure Allemagne à https://portal.microsoftazure.de/.
 

@@ -5,12 +5,12 @@ ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ae156f50adf64ebb18b7cddb79ff6415e9c2714
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876999"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489815"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tâche de gestion des utilisateurs pour des comptes client
 
@@ -29,7 +29,7 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 <a href="" id="createuseraccounts"></a>
 **Créer des comptes d’utilisateur pour un client**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**. Dans la liste, choisissez un client.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**. Dans la liste, choisissez un client.
 
 2.  Dans le menu client, sélectionnez **Utilisateurs et licences**.
 
@@ -44,7 +44,7 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 <a href="" id="userlicensing"></a>
 **Ajouter ou supprimer des licences d’utilisateur pour un client**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**. Dans la liste, choisissez le client.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**. Dans la liste, choisissez le client.
 
 2.  Dans le menu client, sélectionnez **Utilisateurs et licences**.
 
@@ -55,7 +55,7 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 <a href="" id="resetpassword"></a>
 **Réinitialiser le mot de passe d’un utilisateur pour un client**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**. Dans la liste, choisissez le client.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**. Dans la liste, choisissez le client.
 
 2.  Dans le menu client, sélectionnez **Utilisateurs et licences**. Choisissez l’utilisateur dans la liste.
 
@@ -66,7 +66,7 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 <a href="" id="deleteuseraccounts"></a>
 **Supprimer les comptes d’utilisateurs d’un client**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**. Dans la liste, choisissez le client.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**. Dans la liste, choisissez le client.
 
 2.  Dans le menu client, sélectionnez **Utilisateurs et licences**. Choisissez l’utilisateur dans la liste.
 
@@ -77,7 +77,7 @@ Si vous devez restaurer ce compte, vous le trouverez dans l’onglet **Utilisate
 <a href="" id="restoreuseraccounts"></a>
 **Restaurer des comptes d’utilisateur supprimés**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis choisissez le client dans la liste.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, puis choisissez le client dans la liste.
 
 2.  Sélectionnez **Utilisateurs et licences**.
 

@@ -4,18 +4,18 @@ description: En tant qu’un partenaire revendeur, votre client peut vous autori
 author: labrenne
 keywords: privilèges d’administrateur délégués, administrateur pour le compte de, supprimer des privilèges, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377431"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489875"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Les clients délèguent les privilèges d'administration à des partenaires
 
 **S'applique à:**
 
--  Tableau de bord du partenaire
+-  Espace partenaires
 
 Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit accorder des autorisations d’administrateur pour ce service. Pour obtenir des autorisations d’administrateur de la part d’un client, envoyez-lui une demande de relation de revendeur par courrier électronique. Lorsque le client aura approuvé votre demande, vous serez en mesure d’ouvrir une session sur le portail d’administration du service et de gérer le service pour le compte du client. 
 
@@ -89,7 +89,7 @@ Chaque abonnement Azure a son propre ensemble de rôles de gestion de ressources
 
 ## <a name="windows-autopilot"></a>Windows Autopilot 
 
-À partir du tableau de bord du partenaire, les partenaires fournisseurs de solutions cloud peuvent gérer les profils Autopilot pour leurs clients sans privilèges d’administrateur délégués. Découvrez comment [simplifier l’installation d'appareils avec WindowsAutoPilot](https://docs.microsoft.com/partner-center/autopilot).
+À partir de l’espace partenaires, les partenaires fournisseurs de solutions cloud peuvent gérer les profils Autopilot pour leurs clients sans privilèges d’administrateur délégués. Découvrez comment [simplifier l’installation d'appareils avec WindowsAutoPilot](https://docs.microsoft.com/partner-center/autopilot).
 
 Ce que vous pouvez faire varie sur quel modèle fournisseur de solutions cloud vous êtes inscrit.
 
@@ -110,7 +110,7 @@ Ce que vous pouvez faire varie sur quel modèle fournisseur de solutions cloud v
 - Vous ne pouvez pas gérer les appareils que votre client a ajouté via le Microsoft Store pour entreprises, Microsoft Store pour éducation ou Microsoft Intune Portal.
 
 > [!IMPORTANT]  
-> L’expérience de gestion Autopilot actuelle dans le tableau de bord peut continuer à le modifier. Au moment de la que date de publication de cet article, les modifications suivantes sont envisagées:
+> L’expérience de gestion Autopilot actuelle dans l’espace partenaires peut continuer à le modifier. Au moment de la que date de publication de cet article, les modifications suivantes sont envisagées:
 
   - Avant de pouvoir ajouter/mettre à jour/supprimer des profils et appliquer/supprimer des profils pour l'ensemble des appareils dans le locataire du client, le partenaire doit se voir attribuer par le client des privilèges d'administrateur délégués.
 

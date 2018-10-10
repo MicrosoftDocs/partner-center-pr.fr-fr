@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966156"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488965"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transférer des abonnements Azure 
 
@@ -21,7 +21,7 @@ ms.locfileid: "3966156"
 Un client peut décider de faire appel à un partenaire fournisseur de solutions Cloud ou à un autre partenaire pour utiliser les services Microsoft Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
 
 >[!Note]  
->À ce stade uniquement Direct ou des fournisseurs indirects peuvent transférer des abonnements.
+>À ce stade uniquement Direct ou des fournisseurs indirects sont en mesure de transférer des abonnements.
 
 >[!Note] 
 >Il n’est pas possible de changer pour les abonnements fournisseur de solutions Cloud pour les abonnements Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
@@ -39,7 +39,7 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
 
     Créez un ticket de service Azure dans l'Espace partenaires pour demander un transfert d'abonnement&nbsp;:
 
-    -   Dans le menu Tableau de bord, sélectionnez **Clients**, choisissez votre client dans la liste, puis cliquez sur **Gestion des services**. Dans la section **Tickets de support**, cliquez sur le menu déroulant **Nouveau ticket** et choisissez **Microsoft Azure**.
+    -   Dans le menu espace partenaires, sélectionnez les **clients**, sélectionnez votre client dans la liste et sélectionnez **Gestion des services**. Dans la section **Tickets de support**, cliquez sur le menu déroulant **Nouveau ticket** et choisissez **Microsoft Azure**.
 
     -   Dans le portail Azure, sélectionnez **Nouvelle demande de support**.
 

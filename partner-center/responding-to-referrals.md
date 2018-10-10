@@ -4,12 +4,12 @@ description: Évaluer, négocier et répondre aux références par le biais de l
 author: KPacquer
 keywords: référence, RFI, rechercher un partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875419"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489455"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Réponse aux références dans l'Espace partenaires
 
@@ -29,7 +29,7 @@ Commencez par configurer un [profil commercial](create-a-marketing-profile.md) p
 
 Lorsqu’un client sera prêt à vous contacter, il enverra une demande d’informations (RFI). 
 
-Nous enverrons alors un e-mail au contact répertorié dans votre [profil commercial](create-a-marketing-profile.md) pour la région et le site sélectionné. Vous pouvez également afficher les demandes entrantes dans l’Espace partenaires: accédez à **Tableau de bord > Références > Références clients**.
+Nous enverrons alors un e-mail au contact répertorié dans votre [profil commercial](create-a-marketing-profile.md) pour la région et le site sélectionné. Vous pouvez également afficher les demandes entrantes dans l’espace partenaires: accédez à **l’espace partenaires > Références > références de clients**.
 
 Les clients choisissent souvent d’envoyer un même RFI à plusieurs sociétés en même temps. Pour augmenter vos chances de succès, nous vous recommandons de répondre aux nouvelles références et de les accepter ou de les refuser dans les 24heures au maximum.
 

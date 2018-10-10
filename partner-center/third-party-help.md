@@ -4,12 +4,12 @@ description: Vous pouvez désormais découvrir et acheter des logiciels tiers qu
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877439"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489995"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Ajouter des logiciels tiers à votre portefeuille
 
@@ -48,7 +48,7 @@ Si vous intéressé par un achat éventuel, mais que vous avez des questions sup
 
 L’achat des logiciels tiers s’effectue de la même façon que vous achetez des logiciels internes. 
 
-1.  Dans le **Tableau de bord**, sélectionnez **Clients**.
+1.  À partir du **Centre de partenaires**, sélectionnez les **clients**.
 2.  Sélectionnez **Nouvel abonnement**.
 3.  Sélectionnez la facturation mensuelle pour les logiciels tiers. La facturation annuelle et les essais ne sont actuellement pas disponibles pour les logiciels tiers.
 4.  Dans l’onglet **Tiers**, sélectionnez le produit que vous souhaitez acheter.

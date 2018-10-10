@@ -3,12 +3,12 @@ title: Forum aux questions pour l'Espace partenaires de Microsoft Cloud for US G
 description: Reportez-vous à ce forum aux questions pour en savoir plus sur le programme Fournisseur de solutions Cloud de Microsoft Cloud for US Government. Vous pouvez également contacter votre responsable de compte pour plus d’informations.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e2a90125a294959f927b39aa694e8a148deec3f7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876349"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490215"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Forum aux questions pour l’espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -23,11 +23,11 @@ Reportez-vous à ce forum aux questions pour en savoir plus sur le programme Fou
 ### <a name="common"></a>Common
 **Qu’est-ce que MicrosoftCloud pour le gouvernement des États-Unis?**
 
-Conçu pour le gouvernement des États-Unis de Mairies, Microsoft Cloud pour le gouvernement des États-Unis permet aux clients du secteur public aux États-Unis, d’agences fédérales aux gouvernements de petites villes — pour sélectionner à partir d’une plage de services cloud computing. Pour mieux répondre aux besoins spécifiques de ses clients, Microsoft a lourdement investi dans les centres de données et s’efforce de répondre aux exigences de conformité des politiques, des mandats et des normes étatiques et fédérales des États-Unis. 
+Conçu pour le gouvernement des États-Unis de Mairies, Microsoft Cloud pour le gouvernement des États-Unis permet des clients du secteur public aux États-Unis, d’agences fédérales aux gouvernements petit village — pour sélectionner à partir d’une plage de services cloud computing. Pour mieux répondre aux besoins spécifiques de ses clients, Microsoft a lourdement investi dans les centres de données et s’efforce de répondre aux exigences de conformité des politiques, des mandats et des normes étatiques et fédérales des États-Unis. 
 
 **Qui est éligible au programmeFournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis?**
 
-Les partenaires aux États-Unis qui servent fédérales, nationales, locales et gouvernementales américaines dans le cadre de leurs activités gouvernementales sont éligibles pour le programme CSP de cloud Microsoft Government. Microsoft a mis en place un programme de validation strict pour établir l’éligibilité des partenaires avant de les autoriser à accéder au cloud Microsoft du gouvernement. Pour être éligible, vous devez prouver que vous collaborez avec des clients gouvernementaux. Le processus d’inscription au programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis a été élargi afin d’inclure les données supplémentaires requises pour la validation. Les preuves peuvent notamment inclure, sans s’y limiter, des numéros de contrats signés avec des entités gouvernementales et des lettres de prise en charge de votre client gouvernemental.
+Les partenaires aux États-Unis qui servent fédérales, nationales, locales et gouvernementales américaines dans le cadre de leurs activités gouvernementales sont éligibles pour le programme fournisseur de solutions cloud de cloud Microsoft Government. Microsoft a mis en place un programme de validation strict pour établir l’éligibilité des partenaires avant de les autoriser à accéder au cloud Microsoft du gouvernement. Pour être éligible, vous devez prouver que vous collaborez avec des clients gouvernementaux. Le processus d’inscription au programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis a été élargi afin d’inclure les données supplémentaires requises pour la validation. Les preuves peuvent notamment inclure, sans s’y limiter, des numéros de contrats signés avec des entités gouvernementales et des lettres de prise en charge de votre client gouvernemental.
 
 **La tarification client est-elle la même que celle de CSPCommercial?**
 
@@ -105,7 +105,7 @@ Non. Les critères et les exigences de facturation du programme Fournisseur de s
 
 **Est-il possible de passer à MicrosoftCloud pour le gouvernement des États-Unis pour les données hébergées dans des centres de données commerciaux?**
 
-Afin de faciliter et de maintenir l’intégrité de l’isolation de Microsoft Cloud pour le gouvernement des États-Unis, il n’existe aucun mécanisme permettant de déplacer des services existant d’un client vers Microsoft Cloud pour le gouvernement des États-Unis. Si un client ou partenaire dispose d’Azure, il est responsable de tout déplacement de données vers un nouvel environnement de MicrosoftCloud pour le gouvernement des États-Unis.
+Afin de faciliter et de maintenir l’intégrité de l’isolation de Microsoft Cloud pour le gouvernement des États-Unis, il n’existe aucun mécanisme permettant de déplacer des services existants d’un client vers Microsoft Cloud pour le gouvernement des États-Unis. Si un client ou partenaire dispose d’Azure, il est responsable de tout déplacement de données vers un nouvel environnement de MicrosoftCloud pour le gouvernement des États-Unis.
 
 
 ### <a name="microsoft-cloud-for-us-government-for-azure"></a>Microsoft Cloud pour le gouvernement des États-Unis pour Azure
@@ -116,7 +116,7 @@ Le cloud AzureGovernment offre une plateforme cloud basée sur les principes fon
 
 **Le programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis offre-t-il tous les services Azure?**
 
-L’infrastructure en tant que service (IaaS), ainsi que des offres essentielles en matière de plateformes et de données sont désormais disponibles. La feuille de route est régulièrement mise à jour, et nous fournissons une documentation similaire à celle du programmeCSPCommercial dans le tableau de bord de l’Espace partenaires (authentification requise). Vous pouvez passer en revue les services AzureGovernment actuellement disponibles ici, mais notez que certains services, tels que les services de calcul, de mise en réseau, de stockage et de cloud classiques ne sont pas conçus pour le programme Fournisseur de solutions Cloud et ne fonctionnent pas avec celui-ci.
+L’infrastructure en tant que service (IaaS), ainsi que des offres essentielles en matière de plateformes et de données sont désormais disponibles. La feuille de route est mis à jour de manière régulière et nous fournissons une documentation similaire à la documentation de CSP Commercial dans l’espace partenaires (authentification requise). Vous pouvez passer en revue les services AzureGovernment actuellement disponibles ici, mais notez que certains services, tels que les services de calcul, de mise en réseau, de stockage et de cloud classiques ne sont pas conçus pour le programme Fournisseur de solutions Cloud et ne fonctionnent pas avec celui-ci.
 
 **Que dois-je faire pour développer avec le programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis?**
 

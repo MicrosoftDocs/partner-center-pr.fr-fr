@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875899"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488645"
 ---
 # <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
@@ -27,7 +27,7 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
 **Afficher et exporter des journaux d’activité**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Journal d’activité**.
+1.  Dans le menu **Espace partenaires** , sélectionnez le **Journal d’activité**.
 2.  Sélectionnez la période du journal d’activité avec les champs **De** et **À**. Par défaut, le journal d’activité exporte le mois le plus récent.
 
     Chaque journal d’activité fournit un lien vers la page **Abonnements** du client répertorié.

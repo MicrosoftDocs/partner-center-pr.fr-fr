@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0407d176dcf7b7cc7f33403c4575a8a59b15b02d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377741"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489295"
 ---
 # <a name="billing"></a>Facturation
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377741"
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de MicrosoftCloud Germany
 
-Pour votre facture, accédez au menu **Tableau de bord** et sélectionnez **Facturation** pour afficher votre historique et vos tendances de facturation, des liens vers votre facture et votre fichier de rapprochement, ainsi que votre dernier paiement en date.
+Pour consulter votre facture, accédez au menu **Espace partenaires** , puis sélectionnez la **facturation** pour afficher votre historique de facturation et les tendances, des liens vers votre facture et le fichier de rapprochement et votre dernier paiement.
 
 Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 

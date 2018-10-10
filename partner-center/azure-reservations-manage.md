@@ -4,24 +4,24 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: Azure, réservations, gérer, facturer, acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877399"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489775"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations MicrosoftAzure pour vos clients
 
 **S'applique à**
 
--  Tableau de bord du partenaire
+-  Espace partenaires
 -  Portail Microsoft Azure
 -  Partenaires fournisseurs de solutions Cloud
 
-Pour gérer des réservations Azure après l’achat vos clients, vous allez sélectionner le client et la réservation que vous souhaitez gérer dans votre tableau de bord du partenaire et apportez des modifications à la réservation dans le portail Azure. 
+Pour gérer les réservations Azure après l’achat vos clients, vous allez sélectionner le client et la réservation à gérer dans l’espace partenaires et apportez des modifications à la réservation dans le portail Azure. 
 
-1. Pour commencer, sélectionnez **Clients** dans votre menu Tableau de bord puis choisissez le client dont vous souhaitez gérer les réservations. 
+1. Pour commencer, sélectionnez les **clients** à partir de votre menu espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les réservations. 
 
 2. Dans le menu de page de détails du client, sélectionnez les **réservations Azure** , puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
 
@@ -48,12 +48,12 @@ Un échange permet à un client de recevoir un remboursement au prorata en fonct
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Demander un remboursement ou un échange pour le compte d’un client 
 
-Pour soumettre une demande de support en vue d'un remboursement ou d'un échange pour le compte de vos clients, sélectionnez le client et la réservation dans votre tableau de bord des partenaires, puis créez la demande de support dans le portail Azure. 
+Pour soumettre une demande de support pour un remboursement ou un échange pour vos clients, vous devez sélectionner le client et la réservation dans l’espace partenaires et puis créez la demande de support dans le portail Azure. 
 
 >[!NOTE]
 >Les agents du support Microsoft peuvent vous demander de fournir l’identifiant de réservation et l’identifiant de commande de la réservation. Vous pouvez trouver ces informations sur la page **Propriétés** de la réservation, dans le portail Azure. 
 
-1. Pour commencer, sélectionnez **Clients** dans votre menu Tableau de bord puis choisissez le client qui souhaite obtenir un remboursement. 
+1. Pour commencer, sélectionnez **clients** à partir de la la la le menu espace partenaires et activez le client qui souhaite un remboursement. 
 
 2. Sur la page des détails du client, sélectionnez **Réservations Azure**, puis sélectionnez la réservation pour laquelle le client souhaite se faire rembourser.  
 
@@ -71,7 +71,7 @@ Pour soumettre une demande de support en vue d'un remboursement ou d'un échange
 |**Pour plus d’informations sur**   |**Lisez**    |
 |:-----------------------------|:-----------------|
 |Les réservation Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre des Instances réservées de Microsoft Azure](azure-reservations.md) |
-|Achat de réservations Azure pour vos clients dans votre Tableau de bord des partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md) |
+|Achat de réservations Azure pour vos clients dans l’espace partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md) |
 |Déterminer la taille appropriée de la machine virtuelle et vérifier l’utilisation des machines virtuelles par le client   |[Dimensionnement d’une machine virtuelle en vue d'une utilisation optimale de la réservation Azure](azure-usage.md)   |
 |Achat de réservations Azure à l’aide de l'API de l'Espace partenaires | [Acheter Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation pour développeurs Espace partenaires
 

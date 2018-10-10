@@ -4,12 +4,12 @@ Description: Microsoft provides special, reduced pricing for select groups of cu
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877489"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489585"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendre aux secteurs spécialisés
 
@@ -36,7 +36,7 @@ Microsoft consent des tarifs préférentiels à certains clients, parmi lesquels
 
 ## <a name="check-the-customer-qualifications"></a>Vérifier les qualifications client
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**. Dans la liste, choisissez le client.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**. Dans la liste, choisissez le client.
 2.  Dans le menu client, sélectionnez **Compte**. Dans la section **Informations sur la société**, recherchez **Qualifications spéciales**.
 3.  Si le champ **Qualifications spéciales** affiche **Aucune**, mais que le client satisfait aux critères, vous pouvez **mettre à jour** ses informations pour les inclure.
 

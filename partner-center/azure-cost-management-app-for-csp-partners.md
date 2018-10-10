@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377801"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489385"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Application Azure Cost Management pour les partenaires fournisseurs de solutions Cloud  
 
@@ -33,7 +33,7 @@ Azure Cost Management by Cloudyn est une application Web qui vous permet de suiv
 ## <a name="register-your-web-app-in-the-partner-center"></a>Enregistrez votre application Web dans l'Espace partenaires
 Lorsque vous enregistrez une application Web Azure ActiveDirectory dans l'Espace partenaires, vous permettez l'accès à l'API de l'Espace partenaires. 
 1.  Connectez-vous à l'[Espace partenaires](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) à l'aide d'un [compte d'administrateur global ou d'agent administratif](create-user-accounts-and-set-permissions.md).
-2.  Dans le **Tableau de bord**, sélectionnez **Paramètres du compte** &gt; **[Gestion des utilisateurs](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.
+2.  À partir du **Centre de partenaires**, sélectionnez les **paramètres du compte** &gt; **[Gestion des applications](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.
 3.  Dans la section **Web App**, cliquez sur **Ajouter une application Web**.
 <br> **Remarque**: si vous avez déjà créé une application Web, vous pouvez ignorer l'étape3.
 4.  Copiez et enregistrez le GUID **ID de commerce** et le GUID **ID d'application** de votre application Web. Vous aurez besoin des deux ID pour utiliser la version d'évaluation gratuite de 30jours de l'application Azure Cost Management.

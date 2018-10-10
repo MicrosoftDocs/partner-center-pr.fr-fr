@@ -4,12 +4,12 @@ description: Découvrez les avantages d'un partenariat avec Microsoft.
 author: MaggiePucciEvans
 keywords: partenaire, partenariat, MPN, MicrosoftPartnerNetwork, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion, argent, or, compétences
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ca936849762aca54787481a68acb79fda4025dc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 43302afc456f810a310ed0751eccb44fcb9a64b5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875629"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489645"
 ---
 # <a name="partner-with-microsoft"></a>Devenir partenaire deMicrosoft
 
@@ -22,7 +22,7 @@ Pour plus d’informations sur le réseau partenaire, consultez la [présentatio
 En savoir plus sur les niveaux d’adhésion et [les avantages des logiciels à droits d’utilisation interne](https://partner.microsoft.com/membership/internal-use-software) sur le [site du réseau partenaire](https://partner.microsoft.com). 
 
 >[!IMPORTANT]
->Nous allons transférer la gestion des abonnements Action Pack à partir de Partner Membership Center (PMC) au tableau de bord du partenaire. Ce déplacement aura lieu dans les prochains mois plusieurs. Veuillez lire attentivement les informations contenues dans [obtenir Action Pack](mpn-get-action-pack.md) afin que vous savez comment et où au renouvellement.  
+>Nous allons transférer la gestion des abonnements Action Pack à partir de Partner Membership Center (PMC) à l’espace partenaires. Ce déplacement aura lieu dans les prochains mois plusieurs. Veuillez lire attentivement les informations contenues dans [obtenir Action Pack](mpn-get-action-pack.md) afin que vous savez comment et où de renouveler.  
 
 |**Pour**   |**Lisez**   |
 |-----------------|:---------------------------|

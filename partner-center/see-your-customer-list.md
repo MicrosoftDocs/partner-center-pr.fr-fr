@@ -4,12 +4,12 @@ description: Les enregistrements de client comptent parmi vos actifs information
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377461"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490165"
 ---
 # <a name="manage-your-customer-list"></a>Gérer votre liste de clients
 
@@ -26,20 +26,20 @@ Les journaux d’activité fournissent des données exportables sur les transact
 
 ## <a name="search-for-a-customer"></a>Rechercher un client
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**.
 2.  Pour rechercher un client, entrez son nom ou son nom de domaine dans la zone de recherche.
 3.  Sélectionnez la **flèche vers le bas** à la fin de la ligne d’un client pour voir son ID&nbsp;Microsoft, ainsi que les liens rapides vers ses services et ses abonnements.
 
 ## <a name="update-a-customers-company-name"></a>Mettre à jour le nom de la société du client
 
-Dans le menu **Tableau de bord**, sélectionnez **Clients**.
+Dans le menu **Espace partenaires** , sélectionnez les **clients**.
 2.  Pour rechercher un client, entrez son nom ou son nom de domaine dans la zone de recherche.
 3.  Sélectionnez la **flèche vers le bas** à la fin de la ligne d’un client pour voir son ID&nbsp;Microsoft, ainsi que les liens rapides vers ses services et ses abonnements.
 4.  Sous les informations du client **facturé** , mettre à jour le nom de la société. Lorsque vous enregistrez la nouvelle valeur, elle est répercutée dans la liste des clients. Cela modifiera uniquement le nom de société à facturer et la valeur de liste de clients. Il se reflètera pas n’importe où ailleurs.
 
 ## <a name="export-your-customer-list"></a>Exporter votre liste de clients
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**.
 2.  Sélectionnez **Exporter clients**.
 
     L’Espace partenaires convertit votre liste de clients en un fichier&nbsp;CSV et le télécharge dans le dossier de téléchargement par défaut de votre ordinateur. Vous pouvez également exporter des sous-ensembles de données client. Les colonnes contiennent les données suivantes&nbsp;:
@@ -56,7 +56,7 @@ Dans le menu **Tableau de bord**, sélectionnez **Clients**.
 
 ## <a name="export-customer-subscription-information"></a>Exporter les informations d’abonnement client
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients**.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**.
 2.  Sélectionnez le **nom de société** d’un client. La page **Abonnements** d’un client affiche la liste complète de ses abonnements à des produits.
 3.  Sélectionnez **Exporter des abonnements**. L’Espace partenaires convertit les données de l’abonnement du client en un fichier&nbsp;CSV et le télécharge dans le dossier de téléchargement par défaut de votre ordinateur. Les colonnes contiennent les données suivantes&nbsp;:
     -   **ID d’abonnement**

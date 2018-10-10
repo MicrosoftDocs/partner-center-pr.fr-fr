@@ -5,27 +5,27 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377491"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489745"
 ---
-# <a name="your-company-work-account-and-the-partner-dashboard"></a>Compte professionnel de votre entreprise et Tableau de bord du partenaire  
+# <a name="your-company-work-account-and-the-partner-center"></a>Votre compte professionnel entreprise et l’espace partenaires  
 
-**S’applique à**
+**S'applique à**
 
 -  Espace partenaires
 
 ## <a name="why-you-need-a-work-account"></a>Pourquoi un compte professionnel est-il nécessaire?
 
-Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte Tableau de bord du partenaire, afin que les utilisateurs de ce compte puissent se connecter au Tableau de bord du partenaire à l’aide de leur nom d’utilisateur et mot de passe.
+Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte espace partenaires, afin que vos utilisateurs de compte puissent se connecter à l’espace partenaires avec leur nom d’utilisateur et mots de passe.
 
-Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Tableau de bord du partenaire. 
+Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Espace partenaires. 
 
 > [!NOTE]  
->  Avant de vous décidez d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans le tableau de bord du partenaire. Si certains utilisateurs du compte n’ont pas besoin de travailler dans le Tableau de bord du partenaire, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans le Tableau de bord du partenaire.
+>  Avant de vous décidez d’utiliser un compte professionnel existant, tenez compte du nombre d’utilisateurs du compte devant travailler dans l’espace partenaires. Si certains utilisateurs du compte n’ont pas besoin de travailler dans l’espace partenaires, envisagez de créer un nouveau compte dédié aux utilisateurs appelés à travailler dans l’espace partenaires.
 
 Si votre entreprise ne possède pas de compte professionnel, vous pouvez en créer un au cours du processus d’inscription. 
 

@@ -4,12 +4,12 @@ Description: Information on basic billing scenarios and the differences between 
 author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876389"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490065"
 ---
 # <a name="billing-basics"></a>Notions de base de facturation
 
@@ -55,7 +55,7 @@ Vous disposez désormais d’une option de facturation annuelle en plus de l’o
 <tr class="even">
 <td>Disponibilité des factures</td>
 <td><ul>
-<li>Vous pouvez afficher et télécharger vos factures et vos fichiers de rapprochement à partir de la page Facturation du Tableau de bord du partenaire. Notez que les factures mensuelles sont disponibles sur le Tableau de bord du partenaire dans les quatre (4) jours suivant la date de facturation sélectionnée.</li>
+<li>Vous pouvez afficher et télécharger vos factures et vos fichiers de rapprochement à partir de la page Facturation de l’Espace partenaires. Notez que les factures mensuelles sont disponibles sur l’Espace partenaires dans les quatre (4) jours suivant la date de facturation sélectionnée.</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -155,18 +155,18 @@ Vos clients paient à l’avance le service Azure Reserved VM Instances. Lorsque
 >[!IMPORTANT]
 >Si vous achetez Azure Reserved VM Instances pour un client dans un marché dont la devise est différente de la vôtre, la devise de facturation par défaut sera celle du marché du client, et non pas la vôtre. Si vous avez des clients dans plusieurs pays, vous recevrez des factures et fichiers de rapprochement distincts pour chaque devise de facturation des clients, ce qui vous permettra de facturer vos clients dans la devise appropriée. 
 
-Pour accéder aux factures des frais ponctuels et aux fichiers de rapprochement associés, sélectionnez **Facturation** dans votre Tableau de bord des partenaires puis sélectionnez **Une fois**. 
+Pour accéder aux factures des frais ponctuels et fichiers de rapprochement, sélectionnez la **facturation** à partir de l’espace partenaires, puis sélectionnez **une seule fois**. 
 
 ### <a name="manage-your-one-time-billing"></a>Gérer votre facturation de frais ponctuels
 
 #### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Consultez le statut actuel de la facturation, des factures et des fichiers de rapprochement
 
-1.  Dans votre Tableau de bord des partenaires, sélectionnez **Facturation**, puis **Une fois** pour afficher votre statut de facturation. 
+1.  Dans l’espace partenaires, sélectionnez **la facturation** , puis **qu’une seule fois** pour afficher votre statut de la facturation. 
 2.  Sélectionnez une facture ou un fichier de rapprochement pour afficher des informations plus détaillées. 
 
 #### <a name="view-a-customers-order-history"></a>Afficher l’historique des commandes d’un client
 
-1.  Sélectionnez **Clients** dans votre menu Tableau de bord.
+1.  Sélectionnez **clients** dans le menu espace partenaires.
 2.  Sur votre page **Clients**, recherchez le client dont vous souhaitez afficher l’historique de commandes, puis sélectionnez la flèche allant vers le bas pour développer son dossier. 
 3.  Sélectionnez **Afficher les commandes** pour afficher l’historique des commandes.
 
@@ -174,4 +174,4 @@ Pour accéder aux factures des frais ponctuels et aux fichiers de rapprochement 
 
 Dans le cas où vous exercer un crédit complet (facture Void) et une refacturation, nous vous donnerons une note de crédit pour annuler la facture d’origine et également un document complet. Vous pouvez demander une crédit/refacturation pour les raisons suivantes:
 -   Corrections d’ordre adresse ou d’achat
--   Facture générée et ensuite un crédit d’impôt a été appliqué. Vous pouvez demander une crédit/refacturation pour obtenir le crédit d’impôt extrait revenir à la facture d’origine. Cela est également vrai pour les remboursements, comme vous pouvez demander une crédit/refacturation de la facture d’origine, puis tirer dans un remboursement.
+-   Facture générée et ensuite un crédit d’impôt a été appliqué. Vous pouvez demander une crédit/refacturation pour obtenir le crédit d’impôt extrait précédent dans la facture d’origine. Cela est également vrai pour les remboursements, comme vous pouvez demander une crédit/refacturation de la facture d’origine, puis tirer dans un remboursement.

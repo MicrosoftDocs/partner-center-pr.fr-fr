@@ -3,12 +3,12 @@ title: Les primes incitatives des partenaires sont désormais dans l’Espace pa
 description: Les programmes de primes incitatives encouragent les partenaires à développer de nouvelles techniques de marketing, proposer des formations, etc.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 086f81a07aa4f12f40c7f7d1ca47dc6051cd4e59
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ef254f1630cdfb90d16971d31e4688b50c82b614
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875669"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488735"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Les primes incitatives des partenaires sont désormais dans l'Espace partenaires 
 
@@ -32,11 +32,11 @@ Lorsque vous rejoignez le programme, vous pouvez accéder à des remises et des 
 
 ## <a name="one-site-one-log-on"></a>Un seul site, une seule ouverture de session
 
-Maintenant que le programme de primes incitatives destiné aux partenaires Microsoft a été déplacé vers l’Espace partenaires, vous pouvez effectuer tout votre travail d’administration, notamment gérer les utilisateurs, effectuer des tâches pour le compte de vos clients, vous inscrire à des certifications et à des primes incitatives, consigner les revenus des primes incitatives et obtenir les paiements. Toutes vos données concernant les primes incitatives sont disponibles sur votre **Tableau de bord** de primes incitatives. Les données sur les primes incitatives sont actualisées tous les jours.
+Maintenant que le programme de primes incitatives destiné aux partenaires Microsoft a été déplacé vers l’Espace partenaires, vous pouvez effectuer tout votre travail d’administration, notamment gérer les utilisateurs, effectuer des tâches pour le compte de vos clients, vous inscrire à des certifications et à des primes incitatives, consigner les revenus des primes incitatives et obtenir les paiements. Toutes les données de vos primes incitatives est disponibles sur vos primes incitatives des **Partenaires**. Les données sur les primes incitatives sont actualisées tous les jours.
  
 ## <a name="set-your-users-up-in-partner-center"></a>Configurez vos utilisateurs dans l’Espace partenaires
  
-La première étape consiste à compléter votre compte de primes incitatives de l'Espace partenaires en y configurant vos utilisateurs de primes incitatives. Vous avez reçu un e-mail contenant une liste des utilisateurs des primes incitatives de votre organisation. Une fois que l’administrateur des primes incitatives de votre organisation a configuré les utilisateurs, toutes vos données concernant les primes incitatives apparaissent dans le **Tableau de bord** de primes incitatives.
+La première étape consiste à compléter votre compte de primes incitatives de l'Espace partenaires en y configurant vos utilisateurs de primes incitatives. Vous avez reçu un e-mail contenant une liste des utilisateurs des primes incitatives de votre organisation. Lorsque l’administrateur de primes incitatives pour votre organisation a terminé l’installation de l’utilisateur, toutes les données de vos primes incitatives apparaîtront sur les primes incitatives des **Partenaires**.
 
 **Articles associés**
 

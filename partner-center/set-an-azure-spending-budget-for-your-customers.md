@@ -4,12 +4,12 @@ description: Dans l'Espace partenaires, vous pouvez définir un budget mensuel p
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377471"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488955"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Définir un budget Azure pour vos clients
 
@@ -33,23 +33,23 @@ Cette option fournit une estimation des données de dépenses Azure. Les montant
 > Cette fonctionnalité n’est pas disponible dans un bac à sable ou de Test dans les comptes de Production TIP ().
 
 **Activer les notifications par courrier électronique**
-1.  Dans le menu Tableau de bord, sélectionnez **DépensesAzure**.
+1.  Dans le menu espace partenaires, sélectionnez **les dépenses Azure**.
 2.  Basculez l'option **Obtenir des e-mails** pour être averti quand vos clients ont utilisé au moins 80% de leur budget. Cela vous aidera à surveiller votre facture&nbsp;Azure. Vous pouvez modifier l'adresse électronique par défaut et la remplacer par une adresse électronique personnelle ou autre pour recevoir les notifications.
 
 **Définir un budget**
-1.  Dans le menu Tableau de bord, sélectionnez **DépensesAzure**.
+1.  Dans le menu espace partenaires, sélectionnez **les dépenses Azure**.
 2.  Sélectionnez le ou les clients pour lesquels vous souhaitez définir un budget. 
 3. Entrez une valeur dans la zone **Budget mensuel**, puis sélectionnez **Appliquer**.
 4.  Pour consulter le niveau de dépenses actuel, revenez à cette page.
 5.  Vous pouvez également définir des budgets individuels sous **Abonnements basés sur l'utilisation** sur une page de gestion des clients.
 
 **Supprimer un budget**
-1.  Dans le menu Tableau de bord, sélectionnez **DépensesAzure**.
+1.  Dans le menu espace partenaires, sélectionnez **les dépenses Azure**.
 2.  Sélectionnez des clients dans la liste.
 3.  Sélectionnez **Supprimer le budget**.
 
 **Voir les coûts détaillés**
-1.  Dans le menu Tableau de bord, sélectionnez **Clients**.
+1.  Dans le menu espace partenaires, sélectionnez les **clients**.
 2.  Dans la liste des clients, sélectionnez un client.
 3.  Sur la page de gestion des clients, sous **Abonnements basés sur l'utilisation**, choisissez un abonnement. Consultez l'utilisation estimée actuelle et une liste des coûts détaillés par service.
 

@@ -1,27 +1,27 @@
 ---
 title: Acheter des réservations MicrosoftAzure pour vos clients | Espace partenaires
-Description: Buy Azure reservations on behalf of customers in your Partner Dashboard.
+Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
 keywords: Azure, réservations, gérer, facturer, acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a557bdea13e69b9d02a2a6039625d43c8483751
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e318331f779052dedb9fe7ee25351dc66b14b463
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877139"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488765"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-dashboard"></a>Acheter des réservations Microsoft Azure pour vos clients dans le tableau de bord du partenaire 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-center"></a>Acheter des réservations Microsoft Azure pour vos clients dans l’espace partenaires 
 
-**S’applique à**
+**S'applique à**
 
--  Tableau de bord du partenaire
+-  Espace partenaires
 -  Portail Microsoft Azure
 -  Partenaires fournisseurs de solutions Cloud
 
-Suivez les étapes ci-dessous pour acheter des réservations Microsoft Azure pour vos clients dans votre tableau de bord du partenaire.
+Suivez les étapes ci-dessous pour acheter des réservations Microsoft Azure pour vos clients dans l’espace partenaires.
 
-1. Sélectionnez **Clients** dans votre menu Tableau de bord.  
+1. Sélectionnez **clients** dans le menu espace partenaires.  
 
 2. Sur votre page **Clients**, recherchez le client qui souhaite acheter des réservations Azure, puis sélectionnez la flèche allant vers le bas pour développer sa rangée.  
 
@@ -57,7 +57,7 @@ Suivez les étapes ci-dessous pour acheter des réservations Microsoft Azure pou
 |**Pour plus d’informations sur**   |**Lisez**    |
 |:-----------------------------|:-----------------|
 |Les réservation Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre des Instances réservées de Microsoft Azure](azure-reservations.md) |
-|Gestion des réservations Azure dans votre Tableau de bord des partenaires | [Gestion des réservations Azure dans votre Tableau de bord des partenaires](azure-reservations-manage.md)
+|Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)
 |Déterminer la taille appropriée de la machine virtuelle et vérifier l’utilisation des machines virtuelles par le client   |[Dimensionnement d’une machine virtuelle en vue d'une utilisation optimale de la réservation Azure](azure-usage.md)   |
 |Achat de réservations Azure à l’aide de l'API de l'Espace partenaires | [Acheter Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation pour développeurs Espace partenaires
 

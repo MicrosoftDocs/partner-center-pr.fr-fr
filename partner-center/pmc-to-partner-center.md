@@ -7,12 +7,12 @@ robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875859"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490075"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Transférer votre abonnement MPN du PartnerMembershipCenter vers l’Espace partenaires
 
@@ -31,7 +31,7 @@ Commencez immédiatement à configurer les utilisateurs pour qu’ils puissent c
 
 L’administrateur de l’entreprise ajoute les employés au compte de l’Espace partenaires, soit en les ajoutant individuellement soit en utilisant les données PMC pour créer plusieurs utilisateurs à la fois:
 
-1.  À partir du tableau de bord de l’Espace partenaires, sélectionnez **Ajouter un nouvel utilisateur** pour ajouter une personne, ou **Configurer votre équipe** (ou Ajouter des utilisateurs à l’aide de données PMC) pour ajouter plusieurs utilisateurs à la fois.
+1.  À partir de l’espace partenaires, sélectionnez **Ajouter un nouvel utilisateur** à ajouter une personne, ou **configuration de votre équipe** (ou ajouter des utilisateurs à l’aide de données PMC) pour ajouter plusieurs utilisateurs à la fois.
     
     Suivez les instructions affichées à l’écran pour terminer la configuration.
 
@@ -45,16 +45,16 @@ L’administrateur de l’entreprise ajoute les employés au compte de l’Espac
 
 ## <a href="" id="nonadmin_tasks"></a> Tâches des employés: mise à jour des comptes
 
-1.  Obtenez vos informations de connexion, à partir de Microsoft Partner Center ou auprès de votre administrateur. Si vous ne recevez pas les informations de connexion, contactez l’administrateur de votre organisation pour leur demander de renvoyer directement pour vous. 
+1.  Obtenez vos informations de connexion, à partir de Microsoft Partner Center ou auprès de votre administrateur. Si vous ne recevez pas les informations de connexion, contactez l’administrateur de votre organisation pour leur demander de renvoyer directement à vous. 
 
-2.  Connectez votre compte Université des partenaires Microsoft. À partir du tableau de bord de l’Espace partenaires, sélectionnez **Mettre à jour votre profil** > **Accès à l’Université des partenaires**.  Une fois que vous avez connecté ce compte, vous serez à nouveau en mesure d’accéder à l’Université des partenaires.
+2.  Connectez votre compte Université des partenaires Microsoft. Dans l’espace partenaires, sélectionnez **mettre à jour votre profil** > **accès Université des partenaires**.  Une fois que vous avez connecté ce compte, vous serez à nouveau en mesure d’accéder à l’Université des partenaires.
 
-3.  Associez des examens techniques et des certifications Microsoft. À partir du tableau de bord de l’Espace partenaires, sélectionnez **Mettre à jour votre profil** > **Associer des examens et certifications**. 
+3.  Associez des examens techniques et des certifications Microsoft. Dans l’espace partenaires, sélectionnez **mettre à jour votre profil** > **associer des examens et certifications**. 
 
 4.  Facultatif: [configurez la réinitialisation de mot de passe en libre-service](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>Vérification du statut de l’équipe et réception de validations de compétences
 
-1.  Pour vérifier quels employés de l’entreprise ont connecté leur compte Université des partenaires Microsoft et associé leurs examens et certifications: à partir du tableau de bord de l’Espace partenaires, sélectionnez **Vérifier le statut de votre équipe**.
+1.  Vérifier quels employés de votre entreprise ont connecté leur compte Microsoft Partner University et associé leurs examens et certifications: à partir de l’espace partenaires, sélectionnez **vérifier le statut de votre équipe**.
 
 2.  **Attendez 24heures** une fois qu’un utilisateur a associé son compte ou réalisé un objectif basé sur les compétences. Passé ce délai, la progression s’affiche dans la section **Partenariat > Compétences**.

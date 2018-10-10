@@ -4,12 +4,12 @@ description: Évaluer, négocier et répondre aux références par le biais de l
 author: KPacquer
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2eae340cdd0b2418b8498f69ea4fd17d76a30b58
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875359"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489335"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analyser l’efficacité de votre profil commercial
 <!-- 
@@ -26,7 +26,7 @@ Une fois que vous publiez le [profil commercial](create-a-marketing-profile.md) 
 
 Lorsque vous commencez à [répondre à ces références](responding-to-referrals.md), vous obtenez des données sur le nombre de ces demandes d'informations qui se transforment en affaires fructueuses.
 
-Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. À partir du Tableau de bord du partenaire, accédez à **Références > Pages marketing**.
+Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. Dans le menu espace partenaires, accédez à **références > pages Marketing**.
 
 Ces rapports présentent les performances des profils commerciaux pour toutes les régions. Les rapports affichent les données des 90derniers jours, regroupés par semaine.
 

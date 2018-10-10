@@ -4,12 +4,12 @@ description: Lors de votre première connexion en tant qu’administrateur, vér
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 34372626af495800abba254b06a161243a991e6f
-ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
+ms.openlocfilehash: 9e76754e1783f818c43019a62fced69ed75904fd
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "4197667"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489005"
 ---
 # <a name="update-your-partner-profile"></a>Mettre à jour votre profil de partenaire
 
@@ -17,28 +17,28 @@ ms.locfileid: "4197667"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de MicrosoftCloud Germany
 
-Lors de votre première connexion à l’Espace partenaires en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil.
+La première fois que vous vous connectez à l’espace partenaires en tant qu’administrateur, vérifiez que votre support détails sont corrects, fichier demandes d’exonération fiscale le cas échéant, puis passez en revue les informations de contact dans votre profil.
 
 
-**Associer votre ID MPN dans votre compte du tableau de bord du partenaire**
+**Associer votre ID MPN à votre compte espace partenaires**
 
-Pour être en mesure de gérer vos primes, avantages et les compétences et de gérer les utilisateurs, votre emplacement MPN doit être associé à votre compte du tableau de bord du partenaire.
+Pour être en mesure de gérer vos primes, avantages d’adhésion et compétences et gérer des utilisateurs, votre emplacement MPN doit être associé à votre compte espace partenaires.
 
-Comme vous vous inscrivez dans le tableau de bord du partenaire, sur l’écran d' **associer votre ID MPN dans votre compte du tableau de bord du partenaire**, entrez un ID MPN dans la zone de recherche. Cela permettra nous connecter cet ID MPN à votre emplacement.
+Comme vous vous inscrivez dans l’espace partenaires, sur l’écran d' **associer votre ID MPN à votre compte espace partenaires**, entrez un ID MPN dans la zone de recherche. Cela permettra nous connecter cet ID MPN à votre emplacement.
 
-1. Vous pouvez également vous connecter au tableau de bord du partenaire, accédez à l' **icône Paramètres** et sélectionner les **paramètres de l’espace**.
+1. Vous pouvez également vous connecter à l’espace partenaires, accédez à l' **icône Paramètres** et sélectionnez **les paramètres de l’espace**.
 
 2. Dans la liste des emplacements sur votre profil de partenaire, sélectionnez les emplacements que vous souhaitez associer à cet ID MPN ou entrez l’ID MPN dans la zone de recherche.
 
 >[!Note]
->L’emplacement de MPN doit se trouver dans le même pays ou région que votre client Azure AD. 
+>L’emplacement MPN doit se trouver dans le même pays ou région en tant que votre client Azure AD. 
 
 
 **Mettre à jour les détails de votre support** 
 
-1.  Accédez à l' **icône Paramètres** et sélectionner les **paramètres de l’espace**.
+1.  Accédez à l' **icône Paramètres** et sélectionnez **les paramètres de l’espace**.
 2.  Dans la section de **prise en charge** de la page, sélectionnez **mise à jour**.
 3.  Si l’un de vos clients appelle Microsoft à la recherche d’assistance, Microsoft le renvoie au site web, à l’adresse électronique et aux coordonnées téléphoniques que vous avez indiqués dans votre profil de support.
 
@@ -48,9 +48,9 @@ Comme vous vous inscrivez dans le tableau de bord du partenaire, sur l’écran 
 
 **Vérifier et mettre à jour les informations de votre profil**
 
-1.  Accédez à l' **icône Paramètres** et sélectionner les **paramètres de l’espace**. 
+1.  Accédez à l' **icône Paramètres** et sélectionnez **les paramètres de l’espace**. 
 2.  Vérifiez les informations dans **Profil de partenaire**, **Profil de facturation du partenaire** et **Profil d’organisation**.
-3.  Si vous avez besoin de modifier les détails de votre adresse légale, votre entreprise peut être contacté pour vérification. Lorsque vous apportez des modifications à vos informations légales, il peut affecter vos informations fiscales. Assurez-vous que vos informations fiscales restent précises. Contactez poser des questions de [prendre en charge](https://partner.microsoft.com/support/contact-support) .
+3.  Si vous avez besoin de modifier les détails de votre adresse légale, votre entreprise peut être contacté pour vérification. Lorsque vous apportez des modifications à vos informations légales, il peut affecter vos informations fiscales. Assurez-vous que vos informations fiscales restent précises. Contacter le [prend en charge](https://partner.microsoft.com/support/contact-support) des questions.
 
  
 

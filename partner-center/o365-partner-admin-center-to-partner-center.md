@@ -3,12 +3,12 @@ title: 'Clients du Centre d’administration des partenaires Office365: les opé
 description: Points clés pour la migration des clients du Centre d’administration des partenaires Office365 vers l’Espace partenaires
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: ebed2c963a85edad05440a4d5adb61eb25ceb097
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c482565f51ae42b0735832f0c305fc55150032b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876889"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489325"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clients du Centre d’administration des partenaires Office365: préparez-vous à migrer les opérations de l’entreprise sur l’Espace partenaires
 
@@ -36,10 +36,10 @@ Les tâches dans l'Espace partenaires s’effectue différemment par rapport à 
 | Fonctionnalité du Centre d’administration des partenaires Office365                       | Où la trouver dans l’Espace partenaires? | 
 |   -----------------------------------------------  | -------------- |
 | Développer mon entreprise: créer des offres d’achat | Collaborer avec votre fournisseur pour vendre des offres à vos clients |
-| Développer mon entreprise: demander des autorisations d'administrateur délégué | Tableau de bord: Clients > Demander une relation de revendeur |
+| Développer mon entreprise: demander des autorisations d'administrateur délégué | L’espace partenaires: Clients > demander une relation de revendeur |
 | Développer mon entreprise: créer des invitations à participer à la version d'évaluation | Non disponible. Vous pouvez toujours utiliser le Centre d’administration des partenaires Office365 pour cela |
-| Demandes de service: liste des clients: Centre d’administration Office365 | Tableau de bord: Clients > Administrer les services |
-| Demandes de service: liste des clients: demandes de service | Tableau de bord: Demande de Service > Demandes de clients |
+| Demandes de service: liste des clients: Centre d’administration Office365 | L’espace partenaires: Clients > administrer les services |
+| Demandes de service: liste des clients: demandes de service | L’espace partenaires: Demande de Service > demandes de clients |
 | Demandes de service: avec indicateur | Tableau de bord: Clients: sélectionner l’étoile en regard du nom de l’entreprise |
-| Demande de service > Administration des clients > Administration pour le compte de (AOBO) | Tableau de bord: Clients > sélectionner un client > sélectionner un abonnement > sélectionner le revendeur du produit désigné |
+| Demande de service > Administration des clients > Administration pour le compte de (AOBO) | L’espace partenaires: Clients > Sélectionner un client > sélectionnez un abonnement > sélectionnez le revendeur produit désigné |
 

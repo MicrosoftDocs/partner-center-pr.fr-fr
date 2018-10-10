@@ -5,18 +5,18 @@ author: v-petand
 keywords: Azure RI, azure, instances réservées, réservations, machines virtuelles, gérer, facturation, acheter
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877409"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489435"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Facturation de MicrosoftAzure Reserved VM Instances
 
 **S'applique à**
 
--  Tableau de bord des partenaires
+-  Espace partenaires
 -  Portail Microsoft Azure
 -  Partenaires fournisseurs de solutions Cloud
 
@@ -27,7 +27,7 @@ Vos clients paient à l’avance le service Azure Reserved VM Instances. Lorsque
 >[!IMPORTANT]
 >Si vous achetez Azure Reserved VM Instances pour un client dans un marché dont la devise est différente de la vôtre, la devise de facturation par défaut sera celle du marché du client, et non pas la vôtre. Si vous avez des clients dans plusieurs pays, vous recevrez des factures et fichiers de rapprochement distincts pour chaque devise de facturation des clients, ce qui vous permettra de facturer vos clients dans la devise appropriée. 
 
-Pour accéder aux factures des frais ponctuels et aux fichiers de rapprochement associés, sélectionnez **Facturation** dans votre Tableau de bord des partenaires puis sélectionnez **Une fois**. 
+Pour accéder aux factures des frais ponctuels et fichiers de rapprochement, sélectionnez la **facturation** à partir de l’espace partenaires, puis sélectionnez **une seule fois**. 
 
 Pour plus d’informations sur la facturation dans le cadre du programme Fournisseur de solutions Cloud, voir [Notions de base de facturation](billing-basics.md).
 
@@ -98,12 +98,12 @@ Pour plus d’informations sur la facturation dans le cadre du programme Fournis
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Consultez le statut actuel de la facturation, des factures et des fichiers de rapprochement
 
-1.  Dans votre Tableau de bord des partenaires, sélectionnez **Facturation**, puis **Une fois** pour afficher votre statut de facturation. 
+1.  Dans l’espace partenaires, sélectionnez **la facturation** , puis **qu’une seule fois** pour afficher votre statut de la facturation. 
 2.  Sélectionnez une facture ou un fichier de rapprochement pour afficher des informations plus détaillées. 
 
 ### <a name="view-a-customers-order-history"></a>Afficher l’historique des commandes d’un client
 
-1.  Sélectionnez **Clients** dans votre menu Tableau de bord.
+1.  Sélectionnez **clients** dans le menu espace partenaires.
 2.  Sur votre page **Clients**, recherchez le client dont vous souhaitez afficher l’historique de commandes, puis sélectionnez la flèche allant vers le bas pour développer son dossier. 
 3.  Sélectionnez **Afficher les commandes** pour afficher l’historique des commandes.
 
@@ -117,8 +117,8 @@ Pour annuler une facture et en créer une nouvelle, téléchargez le formulaire 
 |**Pour plus d’informations sur**   |**Lisez**    |
 |:-----------------------------|:-----------------|
 |Les réservation Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Commercialiser les MicrosoftAzure Reserved VM Instances](azure-reservations.md)
-|Achat de réservations Azure pour vos clients dans votre Tableau de bord des partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md)
-| Gestion des réservations Azure dans votre Tableau de bord des partenaires | [Gestion des réservations Azure dans votre Tableau de bord des partenaires](azure-reservations-manage.md)
+|Achat de réservations Azure pour vos clients dans l’espace partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md)
+| Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)
 |Achat de réservations Azure dans le portail Azure | [Prépaiement des machines virtuelles avec Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) dans l’aide d’Azure |
 |Gestion des réservations Azure dans le portail Azure   |[Gérer les instances de machines virtuelles réservées](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) dans l’aide d’Azure  |
 |Achat de réservations Azure à l’aide de l'API de l'Espace partenaires | [Acheter Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation pour développeurs Espace partenaires

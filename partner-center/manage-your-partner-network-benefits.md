@@ -1,15 +1,15 @@
 ---
 title: Gérez vos avantages MicrosoftPartner Network | Espace partenaires
-description: En tant que membre de MicrosoftPartner Network, vous avez le droit d'acheter certains avantages. Explique comment activer et gérer vos avantages en tant que membre dans votre Tableau de bord du partenaire.
+description: En tant que membre de MicrosoftPartner Network, vous avez le droit d'acheter certains avantages. Explique comment activer et gérer vos avantages d’adhésion dans l’espace partenaires.
 author: MaggiePucciEvans
 keywords: MPN, avantages d'adhésion, adhésion
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377721"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489795"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer les avantages de votre adhésion à MicrosoftPartnerNetwork
 
@@ -18,12 +18,12 @@ ms.locfileid: "4377721"
 -  Espace partenaires
 
 >[!IMPORTANT]
->Cet article explique comment commencer à bénéficier des avantages de votre adhésion à MicrosoftPartner Network (MPN) dans le Tableau de bord du partenaire (précédemment appelé Espace partenaires) (ce site). Si vous n'avez pas encore reçu d'invitation à transférer les informations de votre entreprise du Partner Membership Center (PMC) au Tableau de bord du partenaire, vous devez continuer à gérer vos avantages d'adhésion au MPN dans le PMC. [Se connecter](https://partner.microsoft.com/_login?authType=OpenIdConnect) au Partner Membership Center maintenant.   
+>Cet article explique comment commencer à utiliser votre Microsoft Partner Network (MPN) adhésion avantages dans l’espace partenaires (précédemment appelé espace partenaires) - ce site. Si vous n’avez pas encore reçu d’invitation à transférer les informations de votre entreprise à partir de Partner Membership Center (PMC) à l’espace partenaires, vous devez continuer à gérer vos avantages d’adhésion au MPN dans PMC. [Se connecter](https://partner.microsoft.com/_login?authType=OpenIdConnect) au Partner Membership Center maintenant.   
 
 Lorsque vous rejoignez le MicrosoftPartner Network (MPN), vous avez accès à tous les avantages d’adhésion qui peuvent vous aider à gérer et à développer votre activité. Si vous n’êtes pas membre de MPN, vous pouvez adhérer sur [le site MPN](https://partner.microsoft.com/membership).
 
 
-## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Gérer vos avantages d'adhésion dans le tableau de bord
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Gérer vos avantages d’adhésion dans l’espace partenaires
 
 Une fois que vous avez acheté un package d'avantages d'adhésion, vous devez obtenir les clés logicielles et attribuer des licences, des abonnements et d'autres avantages aux employés pour commencer à les utiliser. 
 
@@ -89,9 +89,9 @@ Pour afficher et gérer vos avantages réservés aux membres, accédez à votre 
    
     a.  Sélectionnez un utilisateur dans la liste. Si l’utilisateur que vous souhaitez assigner n’est pas dans la liste, vous pouvez [Ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
 
-    b.  Indiquez une adresse e-mail utilisateur différente de celle associée au compte de tableau de bord de votre entreprise. 
+    b.  Indiquez une adresse de messagerie de l’utilisateur différente de celle associée au compte Espace partenaires de votre entreprise. 
     
-    Par précaution, nous enverrons un e-mail d'instructions pour accéder au Support technique Microsoft à cette adresse de messagerie, ainsi qu'à l'adresse du compte de tableau de bord de l’utilisateur. Notez qu'il faut compter plusieurs jours pour activer cet avantage et envoyer des instructions à l’utilisateur assigné.    
+    Par précaution, nous enverrons un e-mail d'instructions pour accéder au Support technique Microsoft à cette adresse de messagerie, ainsi qu'à l'adresse du compte Espace partenaires de l’utilisateur. Notez qu'il faut compter plusieurs jours pour activer cet avantage et envoyer des instructions à l’utilisateur assigné.    
     
     c.  Une fois que vous avez saisi l'autre adresse de messagerie, sélectionnez **Assigner un utilisateur**. 
 

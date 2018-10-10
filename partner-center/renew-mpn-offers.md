@@ -1,15 +1,15 @@
 ---
 title: Renouveler vos offres MPN | Espace partenaires
-description: Renouveler vos offres MPN à partir de votre tableau de bord Partenaire
+description: Renouveler vos offres MPN à partir de l’espace partenaires
 author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, renouvellement de compétence, date de renouvellement
 ms.localizationpriority: medium
-ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875479"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489345"
 ---
 # <a name="renew-your-mpn-offers"></a>Renouveler vos offres MPN
 
@@ -17,9 +17,9 @@ ms.locfileid: "2875479"
 
 - Espace partenaires
 
-La fenêtre de renouvellement de vos abonnements aux offres MPN commence à la date anniversaire de votre achat, plus un jour. Par exemple, si vous avez acheté le Microsoft Action Pack le 1er septembre2018, la fenêtre de renouvellement commence le 2septembre2019. Vous pouvez renouveler votre abonnement dans le tableau de bord Partenaire.
+La fenêtre de renouvellement de vos abonnements aux offres MPN commence à la date anniversaire de votre achat, plus un jour. Par exemple, si vous avez acheté le Microsoft Action Pack le 1er septembre2018, la fenêtre de renouvellement commence le 2septembre2019. Vous pouvez renouveler votre abonnement dans l’espace partenaires.
 
-Dans le **Tableau de bord**, sélectionnez **Offres d'abonnement**.
+À partir du **Centre de partenaires**, sélectionnez **offres d’abonnement**.
 Sous l'onglet **Acheté**, pour chacune de vos offres achetées, vous pouvez voir:
 
 - Votre date d’expiration

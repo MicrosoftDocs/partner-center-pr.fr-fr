@@ -4,12 +4,12 @@ description: Découvrez comment obtenir MicrosoftActionPack, qu'il s'agisse d'un
 author: MaggiePucciEvans
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876709"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490125"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Premier achat ou renouvellement d'un abonnement MicrosoftActionPack
 
@@ -36,7 +36,7 @@ Une fois membre du réseau de partenaires, suivez les [instructions sur le site 
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Renouveler un abonnement MicrosoftActionPack
 
 >[!IMPORTANT]
->D'ici la fin de l'année civile, nous allons transférer la gestion des abonnements ActionPack du PartnerMembershipCenter (PMC) au Tableau de bord du partenaire (ce site). Le renouvellement de votre abonnement ActionPack peut varier d'ici là, veuillez donc lire attentivement les informations ci-après.  
+>Entre aujourd'hui et la fin de l’année civile, nous allons transférer la gestion des abonnements Action Pack à partir de Partner Membership Center (PMC) à l’espace partenaires - ce site. Le renouvellement de votre abonnement ActionPack peut varier d'ici là, veuillez donc lire attentivement les informations ci-après.  
 
 ### <a name="check-your-renewal-eligibility"></a>Vérifier votre éligibilité au renouvellement
 
@@ -46,15 +46,15 @@ Une fois membre du réseau de partenaires, suivez les [instructions sur le site 
 
     - Suivre les étapes pour renouveler votre abonnement dans PMC, ou
 
-    - Recevoir un message vous invitant à renouveler votre abonnement dans le Tableau de bord du partenaire (ce site)
+    - Obtenir un message vous invitant à renouveler votre abonnement dans l’espace partenaires - ce site
 
 >[!IMPORTANT]
->Si vous êtes invité à renouveler votre abonnement dans le Tableau de bord du partenaire, veuillez noter que nous avons modifié notre politique relative à la fenêtre de renouvellement et que vous ne pouvez renouveler votre abonnement qu'après son expiration. Par exemple, si votre abonnement arrive à expiration le 22juin, vous pouvez le renouveler à partir du 23juin et pendant les 30jours suivants.       
->Vous pouvez trouver la date d’expiration de votre abonnement sur votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers) (connexion requise). Si vous êtes éligible au renouvellement dans le Tableau de bord du partenaire, ou que vous le devenez, suivez les étapes ci-après.  
+>Si vous êtes invité à renouveler votre abonnement dans l’espace partenaires, veuillez noter que nous avons modifié notre politique de fenêtre de renouvellement et vous pouvez renouveler votre abonnement qu’après son expiration. Par exemple, si votre abonnement arrive à expiration le 22juin, vous pouvez le renouveler à partir du 23juin et pendant les 30jours suivants.       
+>Vous pouvez trouver la date d’expiration de votre abonnement sur votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers) (connexion requise). Si ou lorsque vous êtes éligible au renouvellement dans l’espace partenaires, suivez les étapes ci-dessous.  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>Pour renouveler un abonnement MicrosoftActionPack dans le Tableau de bord du partenaire
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Pour renouveler un abonnement Microsoft Action Pack dans l’espace partenaires
 
 1. Accédez à votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers), puis sélectionnez **Acheté**. Recherchez la vignette de **l’Abonnement Microsoft Action Pack** .  
 

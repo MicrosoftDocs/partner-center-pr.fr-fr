@@ -1,25 +1,25 @@
 ---
-title: Notification du Tableau de bord des partenaires concernant une activité de minage de cryptomonnaie | Tableau de bord des partenaires
+title: Notification de l’espace partenaires pour l’activité de MINAGE de cryptomonnaie | L’espace partenaires
 description: Notification relative à une activité de minage de cryptomonnaie en cours.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876229"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488925"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Notification du Tableau de bord des partenaires concernant une activité de minage de cryptomonnaie
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notification de l’espace partenaires pour l’activité de MINAGE de cryptomonnaie
 
 **S'applique à**
 
--  Tableau de bord des partenaires
+-  Espace partenaires
 -  Partenaires fournisseurs de solutions Cloud
 
-Vous avez peut-être déjà reçu la notification du Tableau de bord des partenaires suivante concernant le minage des cryptomonnaies:
+Vous avez peut-être déjà reçu la notification de l’espace partenaires suivante concernant le MINAGE de cryptomonnaie:
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ S'il s'agit d'une activité inattendue, procédez comme suit:
 
 2.  Comprendre comment les ressources ont été créées en premier lieu. Vous devrez peut-être passer en revue les fichiers journaux de gestion des ressources Azure pour vérifier les activités d'approvisionnement des ressources.
 
-3.  Si vous avez besoin de savoir qui a créé l’abonnement, examinez les journaux d’activité du tableau de bord des partenaires.
+3.  Si vous avez besoin de savoir qui a créé l’abonnement, examinez les journaux d’activité de l’espace partenaires.
 
 La détection des activités de minage des cryptomonnaie est basée sur la méthode heuristique et peut ne pas être précise à 100%. Veillez à mettre en place des systèmes de gouvernance et de suivi pour vous protéger contre tout activité frauduleuse ou illicite. Pour plus d’informations, consultez [Défaut de paiement, fraude ou mauvaise utilisation](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
 Si vous avez des questions ou des inquiétudes à propos des notifications, vous pouvez procéder comme suit pour ouvrir une demande de support.
 
-1.  Dans le Tableau de bord, sélectionnez **Support**, puis **Demandes à l'Espace partenaires**.
+1.  Dans l’espace partenaires, sélectionnez **prise en charge** , puis sélectionnez **les demandes de l’espace partenaires**.
 3.  Sélectionnez **Nouvelle demande**. 
 4.  Dans le menu déroulant **Type de problème**, sélectionnez **Ajout ou gestion de clients**.
 5.  Dans le menu déroulant **Impact**, sélectionnez **Modéré**.

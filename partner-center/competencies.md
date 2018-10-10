@@ -5,12 +5,12 @@ author: KPacquer
 keywords: compétences, niveau d'adhésion argent, niveau d'adhésion or, mpn, MAPS, compétences, avantages, objectifs de performance, objectifs de compétence
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1702a5ebca4ee33a32d2a30bb55c9a4b6520b8e2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876649"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490155"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -55,15 +55,15 @@ Les **objectifs basés sur les compétences** incluent:
 
 Pour certaines compétences, il existe plusieurs façons d’atteindre le niveau Argent ou Or.
 
-Pour vérifier votre progression dans une compétence, accédez à **Partenariat > Compétences** à partir du tableau de bord de l’Espace partenaires. 
+Pour vérifier votre progression dans une compétence, à partir du centre de l’espace partenaires, accédez à la **partenariat > compétences**. 
 
 ### <a href="" id="associating_achievements"></a>Connexion de vos employés pour la réalisation d’objectifs basés sur les compétences
 
-1.  Ajoutez des comptes d’utilisateurs pour les employés de votre entreprise. À partir du [Tableau de bord du partenaire](http://partnercenter.microsoft.com), accédez à **Paramètres du compte > Ajouter un utilisateur**. (Les utilisateurs du PartnerMembershipCenter peuvent ajouter plusieurs utilisateurs à la fois en sélectionnant **Ajouter des utilisateurs à l’aide de données PMC**.)
+1.  Ajoutez des comptes d’utilisateurs pour les employés de votre entreprise. À partir du [Centre de partenaires](http://partnercenter.microsoft.com), accédez à **paramètres du compte > Ajouter un utilisateur**. (Les utilisateurs du PartnerMembershipCenter peuvent ajouter plusieurs utilisateurs à la fois en sélectionnant **Ajouter des utilisateurs à l’aide de données PMC**.)
 
     Une fois les comptes des utilisateurs créés, nous leur faisons parvenir un nouveau nom d’utilisateur et un mot de passe et nous vous invitons à télécharger un fichier journal qui contient des informations vous permettant de réinitialiser les noms d’utilisateurs et les mots de passe, comme requis. Vous pouvez également [configurer les comptes des utilisateurs de manière à leur permettre de réinitialiser eux-mêmes leur mot de passe](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Demandez aux employés de l’entreprise de se connecter et d’associer leur compte Microsoft (MSA) à leur compte d’utilisateur. (À partir du [Tableau de bord du partenaire](http://partnercenter.microsoft.com), accédez à **Paramètres du compte**.) Les employés peuvent utiliser le même compte MSA ou un compte différent pour associer leurs examens techniques et certifications Microsoft à leur compte par le biais de l’Université des partenaires Microsoft.
+2. Demandez aux employés de l’entreprise de se connecter et d’associer leur compte Microsoft (MSA) à leur compte d’utilisateur. (À partir du [Centre de partenaires](http://partnercenter.microsoft.com), accédez à **paramètres du compte**). Les employés peuvent utiliser les comptes MSA identiques ou différents pour associer leurs examens techniques de Microsoft et des certifications de leur compte par le biais de Microsoft Partner University.
 
 3.  **Attendez 24heures** une fois qu’un utilisateur a associé son compte ou réalisé un objectif basé sur les compétences. Passé ce délai, la progression s’affiche dans la section **Compétences**.
 

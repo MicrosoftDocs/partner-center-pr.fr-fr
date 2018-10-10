@@ -4,12 +4,12 @@ description: Nos partenaires utilisent de nombreux indicateurs pour déterminer 
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377611"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489595"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
@@ -29,11 +29,11 @@ Vous pouvez afficher les données de l’ensemble de vos clients via le programm
 
 **Pour un seul client**
 
--   Sélectionnez **Clients** dans le menu **Tableau de bord**, choisissez un client, puis sélectionnez **Informations sur le client**.
+-   Sélectionnez les **clients** à partir du **Centre de partenaires**, choisissez un client, puis sélectionnez les **informations sur le client**.
 
 **Dans votre portefeuille**
 
-1.  Sur le **Tableau de bord**, sélectionnez **Analyser**.
+1.  Sur l' **Espace partenaires**, sélectionnez **analyser**.
 2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
 
 Terminologie&nbsp;:

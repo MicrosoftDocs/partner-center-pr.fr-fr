@@ -1,28 +1,28 @@
 ---
-title: Les demandes de remboursement de primes incitatives | Tableau de bord du partenaire
-description: Soumettez vos déclarations de primes incitatives sans avoir à planifier votre activité passé en revue tout d’abord.
+title: Demandes de remboursement primes incitatives | L’espace partenaires
+description: Soumettez vos déclarations de primes incitatives sans avoir à planifier votre activité tout d’abord passé en revue.
 author: labrenne
-keywords: revendications de primes incitatives, le mode coopération revendications, les fonds
+keywords: revendications primes, le mode coopération revendications, les fonds
 ms.localizationpriority: medium
-ms.openlocfilehash: 195556a849b755d2d274b4a4edc12a455c6f3da6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 65e65c412d38f6386aefb43681cac7bd1febaa34
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874799"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489315"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Vue d’ensemble de primes incitatives le mode coopération revendications
 
 **S'applique à**
 
-- Tableau de bord des partenaires
+- Espace partenaires
 
-Lorsque vous participez au programme de fonds Marketing Partner Incentives coopérative (le mode coopération) vous revendiquer remboursements des fonds obtenues pour que vous avez terminé les activités qui prennent en charge la reconnaissance des produits Microsoft. Vous soumettez une réclamation directement à partir du tableau de bord. Vous n’avez plus besoin de disposer de votre plan d’activité passé en revue par Microsoft avant de soumettre une réclamation. Envoyez votre réclamation et la documentation requise pas plus de la date d’échéance période revendication qui est 45 jours après la fin de la période d’utilisation. 
+Lorsque vous participez au programme de fonds Marketing Partner Incentives coopérative (le mode coopération) vous demander des remboursements d’audit des fonds pour les activités, vous avez terminé qui prennent en charge la reconnaissance des produits Microsoft. Vous soumettre une réclamation directement à partir de l’espace partenaires. Vous n’avez plus besoin d’avoir passé en revue par Microsoft avant de soumettre une réclamation votre plan d’activité. Envoyez votre réclamation et la documentation requise pas plus de la date d’échéance période revendication qui est 45 jours après la fin de la période d’utilisation. 
 
-Une revendication réussite comprend:
+Une revendication réussie comprend:
 
 - Documentation qui montre que vous avez rempli les exigences principales pour l’activité
-- Les fournisseurs tiers que vous travaillez avec des factures
+- Factures émises par les fournisseurs tiers avec que vous travaillez
 - Déclaration de certification et de rapport (conseillers) pour tout travail en interne terminé
 - La documentation appropriée (preuve d’exécution) qui prouve que vous terminé l’activité 
 

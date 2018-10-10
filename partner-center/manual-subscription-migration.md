@@ -4,12 +4,12 @@ description: Microsoft propose Dynamics365, la nouvelle génération d’applica
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876299"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489785"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrer des abonnements DynamicsAX vers Dynamics365
 
@@ -78,7 +78,7 @@ Le revendeur doit migrer un client avec un abonnement DynamicsAX Enterprise vers
 
 **Acheter le nouvel abonnement**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients** et le client à déplacer, puis choisissez **Ajouter des abonnements**.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et choisissez **d’Ajouter des abonnements**.
 2.  Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, Dynamics&nbsp;365 for Operations, Enterprise Edition), indiquez le nombre de licences et choisissez **Envoyer**.
 
     Votre client doit maintenant avoir un ancien et un nouvel abonnement&nbsp;: dans cet exemple, l’ancien (Dynamics AX Enterprise) et le nouveau (Dynamics&nbsp;365 for Operations, Enterprise Edition).
@@ -87,7 +87,7 @@ Le revendeur doit migrer un client avec un abonnement DynamicsAX Enterprise vers
 
 **Réaffecter les licences utilisateur**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients** et le client à déplacer, puis choisissez **Utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et choisissez les **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
 2.  Pour réaffecter les licences utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
 3.  Dans la page **Gérer les licences**, désactivez la case à cocher de la licence **Dynamics AX Enterprise**, puis sélectionnez la licence **Dynamics 365 for Operations**.
 4.  Sélectionnez **Envoyer**. Une page de confirmation indique les nouvelles licences attribuées.
@@ -97,7 +97,7 @@ Le revendeur doit migrer un client avec un abonnement DynamicsAX Enterprise vers
 
 **Annuler l’ancien abonnement**
 
-1.  Dans le menu **Tableau de bord**, sélectionnez **Clients** et le client à déplacer, puis choisissez l’abonnement à annuler.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et sélectionnez l’abonnement à annuler.
 2.  Dans la page de détails de l’abonnement, sélectionnez **Suspendu** dans **État**.
 3.  Sélectionnez **Envoyer**.
 

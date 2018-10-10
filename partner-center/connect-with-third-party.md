@@ -4,12 +4,12 @@ description: Acheter des logiciel tiers compatibles avec les produits Microsoft
 author: labrenne
 keywords: offres tierces, logiciels à acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
-ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
+ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "4062161"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489845"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Ajouter des logiciels tiers à votre portefeuille
 
@@ -53,7 +53,7 @@ Dans la page de détails, vous trouverez un lien vers le site web de l’éditeu
 
 L’achat des logiciels tiers s’effectue de la même façon que l'achat de logiciels internes. 
 
-1. Dans le **Tableau de bord**, sélectionnez **Clients**.
+1. À partir du **Centre de partenaires**, sélectionnez les **clients**
 2. Sélectionnez **Nouvel abonnement**.
 3. Sélectionnez la facturation mensuelle pour les logiciels tiers. La facturation annuelle et les essais ne sont actuellement pas disponibles pour les logiciels tiers.
 4. Dans l’onglet Tiers, sélectionnez le produit que vous souhaitez acheter.

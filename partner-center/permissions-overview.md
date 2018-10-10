@@ -1,33 +1,33 @@
 ---
 title: Attribuer des rôles d’utilisateurs et des autorisations | L’espace partenaires
-description: Tous les employés qui ont besoin de travailler dans le tableau de bord du partenaire doivent disposer d’un rôle.
+description: Tous les employés qui ont besoin de travailler dans l’espace partenaires doivent disposer d’un rôle.
 author: labrenne
 keywords: rôles, autorisations, administrateur, l’agent
 ms.localizationpriority: medium
-ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
-ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
+ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "4227443"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489485"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles aux utilisateurs et des autorisations
 
 **S'applique à:**
 
-- Tableau de bord des partenaires
+- Espace partenaires
 
-Chaque rôle dans le tableau de bord est fourni avec certaines autorisations permettant à un utilisateur d’effectuer des tâches spécifiques. Toutes les personnes qui fonctionne dans le tableau de bord doivent disposer d’un rôle.
+Chaque rôle dans l’espace partenaires est fourni avec certaines autorisations permettant à un utilisateur d’effectuer des tâches spécifiques. Toutes les personnes qui fonctionne dans l’espace partenaires doivent disposer d’un rôle.
 
 En fonction de la taille de votre organisation, certains utilisateurs peuvent fonctionner sur plusieurs sites, ou uniquement pour un seul endroit. 
 
 Exemple :
 
-- L’administrateur global peut être l’administrateur pour les entreprises juridique et un lieu spécifique; ou l’administrateur global peut être administrateur pour un seul des emplacements de l’entreprise. 
+- L’administrateur global peut être l’administrateur pour les entreprises juridique et un lieu spécifique; ou l’administrateur global peut être l’administrateur pour un seul des emplacements d’une entreprise. 
 - Administrateurs de primes incitatives peuvent administrer pour un ou plusieurs emplacements, mais ces emplacements doivent être spécifiés.
 
 
-Le tableau suivant explique ce que chaque rôle peut faire dans le Tableau de bord du partenaire. Lorsque vous réfléchissez à l'attribution des rôles, prenez en compte le travail qu'un utilisateur effectue dans votre organisation. Vous pouvez, par exemple, attribuer également à l’administrateur général le rôle d’agent d’administration. La personne responsable du marketing peut également être chargée de gérer le profil de l’entreprise.
+Le tableau suivant explique ce que chaque rôle peut faire dans l’espace partenaires. Lorsque vous réfléchissez à l'attribution des rôles, prenez en compte le travail qu'un utilisateur effectue dans votre organisation. Vous pouvez, par exemple, attribuer également à l’administrateur général le rôle d’agent d’administration. La personne responsable du marketing peut également être chargée de gérer le profil de l’entreprise.
 
 Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes d’utilisateur et définir des autorisations](create-user-accounts-and-set-permissions.md).
 
@@ -38,14 +38,14 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Rôle dans le Tableau de bord du partenaire</strong></p></td>
+<td><p><strong>Rôle dans l’espace partenaires</strong></p></td>
 <td><p><strong>Ce qu’il peut faire</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administrateur général</strong></p></td>
 <td><ul>
 <li><p>Peut accéder à tous les comptes/services Microsoft avec des privilèges complets</p></li>
-<li><p>Créer des tickets de support pour le Tableau de bord du partenaire</p></li>
+<li><p>Créer des tickets de support pour l’espace partenaires</p></li>
 <li><p>Afficher les contrats, les listes de prix et les offres</p></li>
 <li><p>Facturation</p></li>
 <li><p>Afficher, créer et gérer les utilisateurs partenaires</p></li>
@@ -106,7 +106,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <td><p><strong>Administrateur de primes incitatives</strong></p></td>
 <td><ul>
 <li><p>Peut attribuer des rôles de primes incitatives</p></li>
-<li><p>Initie et gère les revendications de primes incitatives</p></li>
+<li><p>Lance et gère les demandes de primes incitatives</p></li>
 <li><p>Peut afficher et modifier tous les aspects de programmes de primes incitatives</p></li>
 <li><p>Peut afficher les informations bancaires et fiscaux</p></li>
 <LI><p>Affichage des revenus remise et le mode coopération</p></li>
@@ -130,7 +130,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <td><p><strong>Agent d’administration</strong></p></td>
 <td><ul>
 <li><p>Gestion des clients</p></li>
-<li><p>Ajouter une liste d’appareil pour le tableau de bord du partenaire <</p></li>
+<li><p>Ajouter une liste de l’appareil à l’espace partenaires <</p></li>
 <p><li>Créer des profils et les appliquer aux appareils</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>État du service et demandes de service pour les clients</p></li>
@@ -145,7 +145,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <td><p><strong>Commercial</strong></p></td>
 <td><ul>
 <li><p>Gestion des clients</p></li>
-<li><p>Ajouter une liste d'appareils au Tableau de bord du partenaire</p></li>
+<li><p>Ajouter une liste de l’appareil à l’espace partenaires</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>Afficher les tickets de support</p></li>
 <li><p>Demander une relation avec un client</p></li>

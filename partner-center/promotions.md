@@ -3,12 +3,12 @@ title: Utilisez des promotions pour attirer de nouveaux clients | Espace partena
 description: En tant que partenaireMicrosoft du programme Fournisseur de solutions Cloud, vous pouvez acheter des abonnements à un tarif promotionnel et en faire bénéficier vos clients.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377681"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488985"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilisez des promotions pour attirer de nouveaux clients  
 
@@ -32,14 +32,14 @@ Prenez le temps de passer en revue ces informations importantes relatives aux pr
 
 ## <a name="see-available-promotions"></a>Voir les promotions disponibles
 
-Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **Promotions** à partir du menu **Tableau de bord** pour afficher la liste des promotions en cours ainsi que la remise, le type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
+Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **des Promotions** dans votre menu de **L’espace partenaires** pour afficher la liste des promotions en cours, ainsi que la remise, type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
 
 > [!NOTE]  
 > Vous pouvez également afficher les promotions lorsque vous effectuez un achat. Lorsque vous sélectionnez un abonnement, le tarif promotionnel s’affiche sur la page **Révision**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acheter des abonnements à prix promotionnel
 
-1. Dans le menu **Tableau de bord**, sélectionnez **Clients**, puis sélectionnez le client qui achète l’abonnement. 
+1. Dans le menu **Espace partenaires** , sélectionnez les **clients** , puis sélectionnez le client qui achète l’abonnement. 
 
 2. Sélectionnez **Ajouter un abonnement**.
 

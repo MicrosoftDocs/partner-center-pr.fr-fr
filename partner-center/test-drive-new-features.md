@@ -3,12 +3,12 @@ title: Tester les nouvelles fonctionnalités de l'Espace partenaires
 description: Testez les nouvelles fonctionnalités de l'Espace partenaires avant leur lancement et dites-nous ce que vous en pensez. Aidez-nous à façonner l’avenir de l'Espace partenaires!
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377571"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489465"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Tester les nouvelles fonctionnalités de l'Espace partenaires
 
@@ -49,7 +49,7 @@ Nous vous encourageons à faire part de vos idées et suggestions au sujet d'une
 
 -   Utiliser le formulaire sur les retours d'expérience dans le coin inférieur droit de la fenêtre de l'Espace partenaires afin de nous faire parvenir directement vos commentaires. 
 
--   Demander de l'aide si vous rencontrez des problèmes avec la version préliminaire d'une fonctionnalité. Pour créer une demande de support, sélectionnez **Requêtes de support > Demandes Espace partenaires** depuis le menu **Tableau de bord**, puis sélectionnez **Nouvelle demande** sur la page **Demandes de l'Espace partenaires**.
+-   Demander de l'aide si vous rencontrez des problèmes avec la version préliminaire d'une fonctionnalité. Pour créer une demande de support, sélectionnez **requêtes de Support > Partner Center requests** à partir du menu de **L’espace partenaires** et puis sélectionnez **demander de nouveau** sur la page **Partner Center requests** .
 
 Aidez-nous à vous aider!
 

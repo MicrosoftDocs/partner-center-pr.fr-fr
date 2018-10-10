@@ -5,12 +5,12 @@ ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d'abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: medium
-ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874869"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489725"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
 
@@ -90,7 +90,7 @@ Pour plus d’informations sur l’impact sur la facturation, consultez les dét
 1.  Pour voir si un abonnement peut être mis à niveau, choisissez votre client, puis ouvrez la liste de ses abonnements.
 2.  Si l’abonnement peut être mis à niveau, vous verrez une icône d’information juste à côté de son nom. Pointez sur cette icône, puis sélectionnez **Mettre à niveau maintenant**.
 3.  Sélectionnez la nouvelle offre, puis choisissez **Envoyer**.
-4.  Vous aurez peut-être des tâches supplémentaires à effectuer pour migrer certains comptes utilisateur pour certains services. Si c’est le cas, le Tableau de bord du partenaire fournit une liste des comptes et services concernés. Pour obtenir de l’aide, consultez l’article [Problèmes de réaffectation des licences lorsque vous changez de plan dans Office&nbsp;365](http://go.microsoft.com/fwlink/p/?LinkId=723576) de la base de connaissances.
+4.  Vous aurez peut-être des tâches supplémentaires à effectuer pour migrer certains comptes utilisateur pour certains services. Si tel est le cas, l’espace partenaires fournit une liste des comptes et services concernés. Pour obtenir de l’aide, consultez l’article [Problèmes de réaffectation des licences lorsque vous changez de plan dans Office&nbsp;365](http://go.microsoft.com/fwlink/p/?LinkId=723576) de la base de connaissances.
 
  
 

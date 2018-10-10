@@ -4,22 +4,22 @@ description: Vous pouvez désormais attribuer des abonnements Azure à vos clien
 author: Labrenne
 keywords: Azure, abonnement Azure, abonnement, abonnements, attribuer un abonnement, gérer un abonnement Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377561"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489025"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Attribuer des abonnements Azure dans le Tableau de bord du partenaire
+# <a name="assign-azure-subscriptions-in-partner-center"></a>Attribuer des abonnements Azure dans l'Espace partenaires
 
 **S'applique à:**
 
 -  Espace partenaires
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a>Attribuer des abonnements Azure à vos clients dans le Tableau de bord du partenaire
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Attribuez des abonnements Azure à vos clients dans l'Espace partenaires
 
-1. Sélectionnez **Clients** dans votre menu **Tableau de bord** et recherchez le client que vous souhaitez gérer.
+1. Sélectionnez des **clients** dans votre menu de **L’espace partenaires** et recherchez le client que vous souhaitez gérer.
 
 2.  Sélectionnez la flèche vers le bas située au bout de la ligne pour développer la fiche du client, puis sélectionnez **Portail de gestion MicrosoftAzure**. Vous serez redirigé vers le portail Azure, dans lequel vous pourrez gérer les abonnements du client. 
 

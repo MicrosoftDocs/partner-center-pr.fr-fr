@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, références, prospects, C2PC, profil de l’entreprise, promouvoir votre société, rechercher un partenaire, trouver un fournisseur de solutions, profil d’entreprise, profil commercial
 ms.localizationpriority: medium
-ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377621"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489765"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -40,20 +40,20 @@ La première étape pour obtenir ces prospects consiste à créer un profil comm
 *  **Références des employés des ventes et du service de Microsoft**. Les clients potentiels souhaitant déployer des solutions technologiques sur le cloud contactent Microsoft afin de trouver des professionnels qui puissent répondre aux besoins de leur entreprise. Ces professionnels Microsoft peuvent ensuite référer des clients potentiels à votre entreprise.
 
 > [!IMPORTANT]  
-> Afin d'aider nos partenaires à simplifier les opérations commerciales, nous regroupons les fonctionnalités auparavant réparties sur plusieurs outils et sites Web dans le présent site, le Tableau de bord du partenaire. À cette fin, nous avons transféré toutes les fonctionnalités relatives aux références vers le Tableau de bord du partenaire et mis les sites Pinpoint et C2PC hors service. Si vous aviez l'habitude d'utiliser Pinpoint ou C2PC pour obtenir et gérer des références de Microsoft, vous devez créer un profil d’entreprise dans le Tableau de bord du partenaire afin de continuer à recevoir des références. Nous ne prenons plus en charge l’importation de profils à partir de ces sites. 
+> Pour aider nos partenaires à simplifier les opérations commerciales, nous regroupons les fonctionnalités auparavant réparties sur plusieurs outils et sites Web dans l’espace partenaires, ce site. Dans le cadre de ce processus, nous avons transféré toutes les fonctionnalités relatives aux références vers l’espace partenaires et mis les sites Pinpoint et C2PC. Si vous avez utilisé Pinpoint ou C2PC dans le passé pour obtenir et gérer des références de Microsoft, vous devez créer un nouveau profil commercial dans l’espace partenaires pour continuer à recevoir des références. Nous ne prenons plus en charge l’importation de profils à partir de ces sites. 
 
 ## <a name="create-a-profile"></a>Créer un profil
 
 > [!NOTE]  
->  Avant de pouvoir créer un profil d’entreprise, vous devez disposer d’un compte tableau de bord du partenaire. Si vous n’avez pas encore de compte Tableau de bord du partenaire, consultez [Créer un compte Tableau de bord du partenaire](mpn-create-a-partner-center-account.md) pour en créer un. 
+>  Avant de pouvoir créer un profil d’entreprise, vous devez disposer d’un compte espace partenaires. Si vous n’avez pas encore de compte Espace partenaires, consultez [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md) pour en créer un. 
 
 Créez des profils pour chaque région dans laquelle vous êtes autorisé à exercer des activités commerciales. 
 
-1.  À partir du menu **Tableau de bord**, sélectionnez **Références** &gt; **Profils d'entreprise** &gt; sélectionnez un pays/une région > **[Créer un profil d'entreprise](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Dans le menu **Espace partenaires** , sélectionnez **des références** &gt; **profils commerciaux** &gt; sélectionnez un pays/une région > **[créer un profil d’entreprise](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Dans la page **Créer un profil d'entreprise**, sélectionnez une région, puis renseignez votre profil.
     > [!NOTE]  
-    >  Le tableau de bord du partenaire prend en charge plusieurs langues, certains éléments, tels que la description et les balises de forme libre, devrez peut-être inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
+    >  L’espace partenaires prend en charge plusieurs langues, certains éléments, tels que la description et les balises de forme libre, devrez peut-être inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
 
 ### <a href="" id="partner_info"></a>Informations sur le partenaire
 
@@ -99,7 +99,7 @@ Autres balises utilisées dans la recherche:
 
 Nous vous recommandons de laisser ce paramètre coché. 
 
-À mesure que vous ferez preuve de réussite auprès des clients via le Tableau de bord du partenaire ou en participant à d’autres programmes ou certifications de Microsoft, nous ajouterons automatiquement des approbations de vos produits, services et secteurs spécifiques qui ont contribué à ce succès. Les approbations sont un facteur important dans les résultats de recherche.
+Comme vous montrez de réussite auprès des clients via l’espace partenaires ou en Participez à d’autres programmes ou certifications de Microsoft, nous ajouterons automatiquement des approbations de vos produits, services et secteurs spécifiques contribué à ce succès. Les approbations sont un facteur important dans les résultats de recherche.
 
 Toutefois, s’il existe des produits pour lesquels vous fournissez des services que vous ne préférez pas afficher sur votre profil, vous pouvez désactiver cette case et gérer votre profil manuellement. Ces approbations seront masquées dans l'affichage pour vos clients, mais vous pouvez les remettre sur votre profil à tout moment.
 

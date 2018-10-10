@@ -3,12 +3,12 @@ title: Créer un compte Espace partenaires | Espace partenaires
 description: Les membres du MicrosoftPartner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377771"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488945"
 ---
 # <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 
@@ -67,7 +67,7 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 
 5.  Vérifiez que vous avez été ajouté au groupe agent administrateur. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations:
 
-    a. Dans votre **Tableau de bord**, sélectionnez l'icône **Paramètres**, puis sélectionnez **Gestion des utilisateurs**.  
+    a. Dans votre **Espace partenaires**, sélectionnez l’icône **paramètres** , puis sélectionnez **Gestion des utilisateurs**.  
 
     b. Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.  
 

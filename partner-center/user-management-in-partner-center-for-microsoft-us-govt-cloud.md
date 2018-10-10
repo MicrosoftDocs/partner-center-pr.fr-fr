@@ -3,12 +3,12 @@ title: Gestion des utilisateurs et des licences dans l'Espace partenaires de Mic
 description: Pour se conformer aux exigences nationales, régionales et sectorielles qui régissent la collecte et l’utilisation des données personnelles, les fonctionnalités de gestion des utilisateurs ne sont pas disponibles dans l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis. Ajoutez et gérez plutôt les utilisateurs dans le portail Azure de MicrosoftCloud pour le gouvernement des États-Unis.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fc99106d522fc8b7c36a36267873a65826b9f68
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 02cd7b05cfd4e977f2bc8d9b8c83bf72b54d9aa3
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377731"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489935"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 
@@ -16,7 +16,7 @@ ms.locfileid: "4377731"
 
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 
-Les tâches suivantes sont gérées dans le portail d’administration Azure pour Microsoft Cloud pour le gouvernement des États-Unis:
+Les tâches suivantes sont gérées dans le portail d’administration Microsoft Azure pour Microsoft Cloud pour le gouvernement des États-Unis:
 
 - Gestion des utilisateurs partenaires
 

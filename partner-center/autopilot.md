@@ -4,12 +4,12 @@ description: Ajouter un profil de déploiement WindowsAutoPilot dans l’Espace 
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, déploiement zero touch, oobe, écrans d’ouverture de session
 ms.localizationpriority: medium
-ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877579"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489395"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplifier l’installation d’appareils avec WindowsAutoPilot 
 
@@ -25,7 +25,7 @@ WindowsAutoPilot simplifie et sécurise l’installation de nouveaux appareils W
 ## <a name="requirements"></a>Exigences
 
 *  Appareils préinstallés avec Windows10 Professionnel Creators Update (1703 ou version ultérieure) ou Windows10 Professionnel pour PC avancés
-*  Identificateur d'appareil appelé code de hachage matériel (128 HWH ou 4k HWH), généralement fourni par un fabricant d'ordinateurs OEM. Vous utiliserez des identificateurs pour affecter des profils d’organisation dans le Tableau de bord du partenaire. 
+*  Identificateur d'appareil appelé code de hachage matériel (128 HWH ou 4k HWH), généralement fourni par un fabricant d'ordinateurs OEM. Vous utiliserez des identificateurs pour affecter des profils d’organisation dans l’espace partenaires. 
 *  Les appareils doivent avoir accès à Internet. Lorsque l'appareil ne peut pas se connecter, il affiche les écrans Windows OOBE (Out-Of-Box Experience) par défaut.
 *  L’inscription de l’appareil dans une solution GPM nécessite Azure ActiveDirectory Premium.
 
@@ -45,19 +45,19 @@ Pour ajouter des pages spécifiques de l’organisation, ajoutez les appareils d
 
 ### <a name="add-devices-and-apply-a-profile"></a>Ajouter des appareils et appliquer un profil
 
-À partir du Tableau de bord du partenaire, vous pouvez créer un profil de déploiement WindowsAutoPilot et l’appliquer à une liste d’appareils.
+À partir de l’espace partenaires, vous pouvez créer un profil de déploiement Windows AutoPilot et l’appliquer à une liste d’appareils.
 
 Pour configurer des appareils, chargez une liste d’appareils, créez un profil qui s’applique à ces appareils, puis appliquez-le.
 
 1.  Ajoutez la liste des appareils.
 
-    Les agents commerciaux et administrateurs disposent d'un accès pour ajouter la liste des appareils dans le Tableau de bord du partenaire.
+    Les agents commerciaux et administrateurs disposent d'un accès pour ajouter la liste des appareils dans l’Espace partenaires.
     
     Les revendeurs indirects peuvent collaborer avec leur fournisseur indirect pour l’ajouter.
 
     a.  Créez un fichier.csv à l’aide du script PowerShell de la rubrique: [Présentation de WindowsAutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Ce fichier.csv contient des informations sur l’appareil, notamment le numéro de série, le nom OEM, le nom de modèle, l’ID produit et l’identificateur d’appareil. 
 
-    b.  À partir du Tableau de bord du partenaire, accédez à **Clients** > sélectionnez le client destinataire des appareils > **Appareils > Ajouter des appareils**.
+    b.  À partir de l’espace partenaires, accédez aux **clients** > sélectionnez le client destinataire des appareils > **appareils > ajouter des appareils**.
 
     c.  Nom du lot d’appareils, par exemple, «Ordinateurs du service des ventes de Contoso – commande d'avril2017.» 
 
@@ -65,7 +65,7 @@ Pour configurer des appareils, chargez une liste d’appareils, créez un profil
 
     **Remarque:** si vous obtenez un message d’erreur lorsque vous essayez de télécharger le fichier.csv, vérifiez le format du fichier. À compter du mois d’août, vous pouvez utiliser le code de hachage matériel uniquement, ou le nom OEM, le numéro de série et le modèle, dans cet ordre de colonnes, ou l’ID produit Windows. Vous pouvez également utiliser l’exemple de fichier.csv fourni à partir du lien en regard de **Ajouter des appareils**.
 
-2.  Créez un profil que vous pouvez appliquer aux appareils. (Seuls les agents administrateurs disposent d'un accès pour créer et appliquer des profils dans le Tableau de bord du partenaire.)
+2.  Créez un profil que vous pouvez appliquer aux appareils. (Seuls les agents ont accès pour créer et appliquer des profils dans l’espace partenaires.)
 
     a.  Dans **Appareils**, cliquez sur **Ajouter un nouveau profil**.
 
