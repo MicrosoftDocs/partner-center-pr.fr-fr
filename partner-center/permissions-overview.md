@@ -2,14 +2,14 @@
 title: Attribuer des rôles d’utilisateurs et des autorisations | L’espace partenaires
 description: Tous les employés qui ont besoin de travailler dans l’espace partenaires doivent disposer d’un rôle.
 author: labrenne
-keywords: rôles, autorisations, administrateur, l’agent
+keywords: rôles, autorisations, administrateur, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
+ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489485"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "4528366"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles aux utilisateurs et des autorisations
 
@@ -23,7 +23,7 @@ En fonction de la taille de votre organisation, certains utilisateurs peuvent fo
 
 Exemple :
 
-- L’administrateur global peut être l’administrateur pour les entreprises juridique et un lieu spécifique; ou l’administrateur global peut être l’administrateur pour un seul des emplacements d’une entreprise. 
+- L’administrateur global peut être l’administrateur de l’entreprise juridique et un lieu spécifique; ou l’administrateur global peut être l’administrateur pour un seul des emplacements d’une entreprise. 
 - Administrateurs de primes incitatives peuvent administrer pour un ou plusieurs emplacements, mais ces emplacements doivent être spécifiés.
 
 
@@ -108,7 +108,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <li><p>Peut attribuer des rôles de primes incitatives</p></li>
 <li><p>Lance et gère les demandes de primes incitatives</p></li>
 <li><p>Peut afficher et modifier tous les aspects de programmes de primes incitatives</p></li>
-<li><p>Peut afficher les informations bancaires et fiscaux</p></li>
+<li><p>Peut afficher et modifier les informations bancaires et fiscaux</p></li>
 <LI><p>Affichage des revenus remise et le mode coopération</p></li>
 <LI><p>Prise en charge de l’accès</p></li>
 <LI><p>Paiements de primes incitatives litige</p></li>
