@@ -4,12 +4,12 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: Azure, réservations, gérer, facturer, acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
+ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489775"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "4562271"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations MicrosoftAzure pour vos clients
 
@@ -21,9 +21,9 @@ ms.locfileid: "4489775"
 
 Pour gérer les réservations Azure après l’achat vos clients, vous allez sélectionner le client et la réservation à gérer dans l’espace partenaires et apportez des modifications à la réservation dans le portail Azure. 
 
-1. Pour commencer, sélectionnez les **clients** à partir de votre menu espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les réservations. 
+1. Pour commencer, sélectionnez les **clients** à partir de votre menu de l’espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les réservations. 
 
-2. Dans le menu de page de détails du client, sélectionnez les **réservations Azure** , puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
+2. Dans le menu de page de détails du client, sélectionnez des **réservations Azure** , puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
 
 3. Sous **Actions**, sélectionnez **Gérer** pour accéder au dossier de réservation du client dans le portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
 
@@ -42,6 +42,16 @@ Si les besoins professionnels de vos clients évoluent, il est possible que ces 
 
 Les clients peuvent annuler une réservation à tout moment (jusqu'à 50000$ par an). L'annulation permet au client de retourner les mois restants d’une réservation Azure à Microsoft moyennant des frais de résiliation anticipés. Le solde restant au prorata, déduit des frais, constituera le remboursement de l’achat d’origine du client. 
 
+Voir ci-dessous pour les frais et les détails de l’annulation.
+
+|**Date d'annulation**<br> (en jours)   |**Utilisation**    |**Crédit**  |**Résiliation anticipée**<br> frais    |**Limite de remboursement** | 
+|:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
+|Moins de 5                       | Non          | 100%       | Non                              | 50 000 USD   |
+|Moins de 5                       | Oui         | Calculés au prorata  | Non                              | 50 000 USD   |
+|Plus de 5                        | Non          | Calculés au prorata  | 12 %                             | 50 000 USD   |
+|Plus de 5                        | Oui         | Calculés au prorata  | 12 %                             | 50 000 USD   |
+
+
 **Fonctionnement des échanges** 
 
 Un échange permet à un client de recevoir un remboursement au prorata en fonction de la durée restante de la réservation et d'appliquer le montant du remboursement à une nouvelle réservation.   
@@ -53,7 +63,7 @@ Pour soumettre une demande de support pour un remboursement ou un échange pour 
 >[!NOTE]
 >Les agents du support Microsoft peuvent vous demander de fournir l’identifiant de réservation et l’identifiant de commande de la réservation. Vous pouvez trouver ces informations sur la page **Propriétés** de la réservation, dans le portail Azure. 
 
-1. Pour commencer, sélectionnez **clients** à partir de la la la le menu espace partenaires et activez le client qui souhaite un remboursement. 
+1. Pour commencer, sélectionnez les **clients** à partir du menu de l’espace partenaires, puis sélectionnez le client qui souhaite un remboursement. 
 
 2. Sur la page des détails du client, sélectionnez **Réservations Azure**, puis sélectionnez la réservation pour laquelle le client souhaite se faire rembourser.  
 
