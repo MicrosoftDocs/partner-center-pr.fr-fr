@@ -5,14 +5,14 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: 06fa6178b5d0c1f655ba412c75ec8b950430b812
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e4a60b05a1f7c3341e51e83c6f34bf2081c72de5
+ms.sourcegitcommit: 011fb13f8b595f16d8be4a2948da60a8f3971e0a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489635"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4657309"
 ---
-# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
+# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme fournisseur de solutions cloud, contrats, listes de prix et offres
 
 **S'applique à**
 
@@ -23,15 +23,14 @@ ms.locfileid: "4489635"
 
 Lisez attentivement les informations contenues dans cet article pour comprendre les conditions de participation au programme Fournisseur de solutions Cloud de Microsoft. 
 
-## <a href="" id="programguide"></a>Guide du programme Fournisseur de solutions Cloud
+## <a name="cloud-solution-provider-program-guide"></a>Guide du programme Fournisseur de solutions Cloud
 
 
 Examinez les conditions requises pour devenir un partenaire dans le programme Fournisseur de solutions Cloud.
 
 [Guide du programme pour les partenaires fournisseurs de solutions Cloud](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
-## <a href="" id="partneragreement"></a>Contrat de partenariat Fournisseur de solutions Cloud
-
+## <a name="cloud-solution-provider-partner-agreement"></a>Contrat de partenariat Fournisseur de solutions Cloud
 
 Microsoft exige que les partenaires signent le présent contrat pour rejoindre le programme Fournisseur de solutions Cloud. Lisez attentivement ce guide pour le marché ou le Cloud national dans lequel vous envisagez de vendre.
 
@@ -51,29 +50,40 @@ Microsoft exige que les partenaires signent le présent contrat pour rejoindre l
 
 [Contrat de revendeur Microsoft Cloud: MicrosoftCloud pour le gouvernement des États-Unis](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
-## <a href="" id="customeragreementtemplate"></a>Modèles de contrat client
 
+## <a name="microsoft-cloud-agreement-templates"></a>Modèles Microsoft Cloud
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez examiner avec vos clients les conditions générales de Microsoft, y compris l'utilisation acceptable des produits et services Microsoft. Suivez le lien ci-dessous pour trouver le ou les contrats que vous devez examiner avec les nouveaux clients. 
+En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez examiner avec vos clients les conditions générales de Microsoft, y compris l'utilisation acceptable des produits et services Microsoft. Suivez le lien ci-dessous pour trouver le contrat de Cloud Microsoft que vous devez examiner avec les nouveaux clients. 
 
-[Modèles de contrat client](agreements.md)
+[Modèles de client](agreements.md) du contrat Microsoft Cloud
+
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Modification de secret professionnel de l’accord de Microsoft Cloud (Allemagne)
+
+En Allemagne, le Code de criminel (Section 203) et les codes de conduite professionnels nécessitent que certaines relations client sont tenues de rester confidentielles, par exemple, la relation entre les patients et leurs médecins et la relation entre les avocats et leurs clients. Ces groupes professionnelles ont garantir le secret professionnel. Pour ces et autres professionnels pour acheter des services basés sur le cloud des fournisseurs de solutions cloud, le fournisseur de services de cloud doit conclure un accord écrit avec le client qui garantit le secret professionnel. 
+
+Si vous travaillez en Allemagne, vous devrez peut-être fournir cette modification secret professionnel à vos clients, il en plus du contrat Microsoft Cloud.
+
+[Modification de secret professionnel contrat Microsoft Cloud pour l’Allemagne (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+
+[Modification de secret professionnel contrat Microsoft Cloud pour Allemagne (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+
 
 ## <a name="pricing"></a>Tarification
 
 
-Télécharger les détails pour les achats de licence, basés sur l’utilisation et à usage unique à partir de la page **tarification et offres** , accessible à partir de votre menu **Espace partenaires** de tarification. 
+Télécharger les détails pour les achats de licence, basés sur l’utilisation et à usage unique à partir de la page **tarification et offres** , accessible à partir de votre menu de **L’espace partenaires** de tarification. 
 
 La liste de prix basée sur les licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30jours avant qu'elle n'entre en vigueur. Office365, Enterprise Mobility Suite et MicrosoftDynamics CRM sont des exemples de services basés sur les licences. 
 
 La tarification basée sur l'utilisation est dynamique et change fréquemment. MicrosoftAzure est un exemple de service basé sur l'utilisation.
 
-Achat ponctuel tarification est également dynamique. Exemples d’achats ponctuels Microsoft Azure reserved VM instances. 
+Achat ponctuel tarification est également dynamique. Des réservations Microsoft Azure et des abonnements correspondants à Windows Server et les logiciels SQL peut s’agir d’achats ponctuels. 
 
 
 ## <a name="offers"></a>Offres
 
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez vendre à vos clients Office365, Enterprise Mobility Suite, Microsoft DynamicsCRM et Microsoft Azure. Pour plus d’informations sur les offres et produit ensembles d’applications sont disponibles à la vente dans ces familles de produits, consultez le tableau des offres fournisseur de solutions cloud sur la page **tarification et offres** , disponible à partir de votre menu **Espace partenaires** . Ce document est mis à jour chaque mois.
+En tant que partenaire fournisseur de solutions cloud, vous pouvez vendre un large éventail de produits Microsoft, des services et des solutions, notamment Office 365, Enterprise Mobility Suite, Microsoft Dynamics et Microsoft Azure. Pour plus d’informations sur les offres sont disponibles à la vente dans ces familles de produits, consultez le tableau des offres CSP sur la page **tarification et offres** , disponible à partir de votre menu de **L’espace partenaires** . Ce document est mis à jour chaque mois.
 
 Pour les fournisseurs de solutions Cloud partenaires qui utilisent l'API d'enregistrement de l'utilisation Crest, Microsoft publie également une liste des services Azure pour les fournisseurs de solutions Cloud dans la page **Tarification et offres**.
 
