@@ -4,12 +4,12 @@ Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
 keywords: Azure, réservations, gérer, facturer, acheter, Azure RI, Instances réservées Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489755"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658115"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>Vendre des Instances réservées de Microsoft Azure 
 
@@ -19,15 +19,16 @@ ms.locfileid: "4489755"
 -  Portail Microsoft Azure
 -  Partenaires fournisseurs de solutions Cloud
 
-Les partenaires du programme fournisseur de solutions Cloud (CSP) peuvent proposer à leurs clients réservés des instances de Microsoft Azure. Les clients bénéficient de réaliser des économies importantes lorsqu’ils réservent à l’avance. Les Instances réservées Azure confèrent une simplicité et une flexibilité manières suivantes:
+Les partenaires du programme fournisseur de solutions Cloud (CSP) peuvent proposer à leurs clients réservés des instances de Microsoft Azure. Les clients bénéficient de réaliser des économies importantes lorsqu’ils réservent à l’avance. Les Instances réservées Azure confèrent une simplicité et une flexibilité sur les points suivants:
 
 -   Durée de réservation d'un ou trois ans 
--   Facile de commencer; installation est terminée en quelques secondes 
+-   Facile de commencer; programme d’installation terminé en quelques secondes 
 -   Annulez ou échangez des instances réservées à tout moment pour procéder à un remboursement ajusté 
 -   Gérer l’utilisation des instances réservées au niveau de l'organisation ou au niveau de chaque département 
 
 > [!NOTE]  
-> Les Instances réservées Azure ne sont pas disponibles dans les marchés suivants:  
+> Réservations Azure ne sont pas actuellement disponibles dans les marchés suivants:
+  
 > * Argentine
 > * Azerbaïdjan
 > * Biélorussie
