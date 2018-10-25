@@ -4,14 +4,14 @@ description: Tous les employés qui ont besoin de travailler dans l’espace par
 author: labrenne
 keywords: rôles, autorisations, administrateur, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
-ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
+ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/11/2018
-ms.locfileid: "4528366"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541470"
 ---
-# <a name="assign-users-roles-and-permissions"></a>Affecter des rôles aux utilisateurs et des autorisations
+# <a name="assign-users-roles-and-permissions"></a>Affecter des rôles et des autorisations aux utilisateurs
 
 **S'applique à:**
 
@@ -21,9 +21,9 @@ Chaque rôle dans l’espace partenaires est fourni avec certaines autorisations
 
 En fonction de la taille de votre organisation, certains utilisateurs peuvent fonctionner sur plusieurs sites, ou uniquement pour un seul endroit. 
 
-Exemple :
+Exemple:
 
-- L’administrateur global peut être l’administrateur de l’entreprise juridique et un lieu spécifique; ou l’administrateur global peut être l’administrateur pour un seul des emplacements d’une entreprise. 
+- L’administrateur global peut être l’administrateur de l’entreprise juridique et un lieu spécifique; ou l’administrateur global peut être administrateur pour un seul des emplacements d’une entreprise. 
 - Administrateurs de primes incitatives peuvent administrer pour un ou plusieurs emplacements, mais ces emplacements doivent être spécifiés.
 
 
@@ -99,14 +99,13 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <li><p>Création de nouveaux emplacements</p></li>
 <li><p>Inscrire des emplacements dans des programmes (exceptions sont CSP et les programmes de revendeur indirect)</p></li>
 <li><p>Gérer les profils liés aux comptes d’emplacement qu’ils administrer</p></li>
-<li><p>Attribue: administrateur MPN, administrateur de profil d’entreprise, administrateur des références, administrateur de primes incitatives, rôles d’utilisateur de primes incitatives aux utilisateurs</p></li>
+<li><p>Attribuer des autres administrateurs de compte, administrateur MPN, administrateur de profil d’entreprise, administrateur des références, administrateur de primes incitatives et rôles d’utilisateur Incentive aux utilisateurs</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administrateur de primes incitatives</strong></p></td>
 <td><ul>
-<li><p>Peut attribuer des rôles de primes incitatives</p></li>
-<li><p>Lance et gère les demandes de primes incitatives</p></li>
+<li><p>Initie et gère les revendications de primes incitatives</p></li>
 <li><p>Peut afficher et modifier tous les aspects de programmes de primes incitatives</p></li>
 <li><p>Peut afficher et modifier les informations bancaires et fiscaux</p></li>
 <LI><p>Affichage des revenus remise et le mode coopération</p></li>
@@ -130,7 +129,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <td><p><strong>Agent d’administration</strong></p></td>
 <td><ul>
 <li><p>Gestion des clients</p></li>
-<li><p>Ajouter une liste de l’appareil à l’espace partenaires <</p></li>
+<li><p>Ajouter une liste d’appareil à l’espace partenaires <</p></li>
 <p><li>Créer des profils et les appliquer aux appareils</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>État du service et demandes de service pour les clients</p></li>
@@ -145,7 +144,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <td><p><strong>Commercial</strong></p></td>
 <td><ul>
 <li><p>Gestion des clients</p></li>
-<li><p>Ajouter une liste de l’appareil à l’espace partenaires</p></li>
+<li><p>Ajouter une liste d’appareil à l’espace partenaires</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>Afficher les tickets de support</p></li>
 <li><p>Demander une relation avec un client</p></li>

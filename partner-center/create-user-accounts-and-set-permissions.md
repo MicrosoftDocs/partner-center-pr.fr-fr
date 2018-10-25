@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b05a46f7dd9cb4cd2c5621610d55264c4ff3701
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6308391b632ea61679a23fb56be2e351681e6e59
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489835"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541469"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
@@ -45,7 +45,7 @@ L’utilisateur devra se connecter à l’espace partenaires avec leur nom d’u
 
 L'accès à l'Espace partenaires est basé sur les rôles. Les autorisations attribuées à l'utilisateur personnalisent la vue accessible afin d'afficher uniquement les fonctionnalités dont l’utilisateur a besoin pour effectuer ses tâches spécifiques. 
 
-Pour travailler dans l’espace partenaires, vous devez disposer d’un rôle.  Il existe deux types générales des rôles: les administrateurs et les agents.
+Pour travailler dans l’espace partenaires, vous devez disposer d’un rôle attribué.  Il existe deux types généraux de rôles: les administrateurs et les agents.
 
 - Autorisations d’administrateur contrôlent le niveau d’accès de l’utilisateur aux fonctionnalités de l’espace partenaires. Ce paramètre a un impact en dehors de l’espace partenaires: un administrateur de facturation peut accéder aux factures pour tous les services Microsoft (même ceux non liés au fournisseur de solutions cloud) et un administrateur global peut accéder aux comptes d’utilisateurs et des comptes client indépendamment du fournisseur de solutions cloud, ainsi.
 
@@ -61,15 +61,15 @@ Les catégories générales des rôles sont:
 Dans chacune de ces catégories générales, un utilisateur ne peut avoir qu'un seul rôle, mais il peut avoir également des rôles dans les autres catégories générales. 
 
 >[!Important]
->Les utilisateurs doivent disposer d’au moins un rôle pour travailler dans l’espace partenaires.
+>Personnes doivent être référencés dans votre client à accéder à l’espace partenaires. L’attribution des rôles offrent un accès supplémentaire.
 
 
-### <a name="find-your-global-admin"></a>Rechercher votre administrateur global
+### <a name="find-your-global-admin"></a>Recherchez votre administrateur global
 
-Parfois, un utilisateur peut avoir besoin de disposer de leur rôle changé ou un nouvel utilisateur peut-être souhaiter une attribution de rôle spécifique.  
-Pour rechercher un administrateur global qui peut appliquer les modifications de rôle ou affecter des rôles à un nouvel utilisateur, à partir de l' **icône Paramètres** dans la partie supérieure droite de l’espace partenaires, sélectionnez **Gestion des utilisateurs** et le filtrage administrateur général. 
+Parfois, un utilisateur peut avoir besoin de disposer de leur rôle modifié ou un nouvel utilisateur peut-être souhaiter une attribution de rôle spécifique.  
+Pour rechercher un administrateur global qui peut appliquer des modifications de rôle ou affecter des rôles à un nouvel utilisateur, à partir de l' **icône Paramètres** dans la partie supérieure droite de l’espace partenaires, sélectionnez **Gestion des utilisateurs** et le filtrage administrateur général. 
 
-Pour obtenir des informations spécifiques sur les rôles et de ce que chaque rôle peut faire, voir [affecter des autorisations utilisateur](permissions-overview.md).
+Pour obtenir des informations spécifiques sur les rôles et ce que chaque rôle peut faire, voir [affecter des autorisations utilisateur](permissions-overview.md).
 
 
 
