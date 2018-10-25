@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
+ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488965"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5511390"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transférer des abonnements Azure 
 
@@ -21,10 +21,9 @@ ms.locfileid: "4488965"
 Un client peut décider de faire appel à un partenaire fournisseur de solutions Cloud ou à un autre partenaire pour utiliser les services Microsoft Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
 
 >[!Note]  
->À ce stade uniquement Direct ou des fournisseurs indirects sont en mesure de transférer des abonnements.
+>À ce stade uniquement Direct ou des fournisseurs indirects peuvent transférer des abonnements.
 
->[!Note] 
->Il n’est pas possible de changer pour les abonnements fournisseur de solutions Cloud pour les abonnements Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
+>[!Note]Il n’est pas possible de changer pour les abonnements fournisseur de solutions Cloud pour les abonnements Office 365, Enterprise Mobility Suite ou Microsoft Dynamics CRM.
 
 
 
@@ -68,7 +67,7 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
     *Important*&nbsp;: si le nouveau partenaire Fournisseur de solutions&nbsp;Cloud n'a pas de relation de revendeur avec le client, il doit en établir une avant le transfert de l'abonnement. [Pour plus d'informations sur la marche à suivre, cliquez ici](request-a-relationship-with-a-customer.md).
 
     >[!Note]
-    >Le nouveau partenaire fournisseur de solutions cloud et le locataire du client doivent être dans la même région. 
+    >Le nouveau partenaire fournisseur de solutions cloud et le locataire du client doivent être dans le même pays. 
 
 5.  Partenaire actuel:
 
@@ -95,9 +94,9 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
     -  Dans le menu client, sélectionnez **Gestion des services**. 
     -  Sous **Microsoft&nbsp;Azure**, cliquez sur le lien pour accéder au **portail de gestion Microsoft&nbsp;Azure**.
 
- 
+ 
 
- 
+ 
 
 
 
