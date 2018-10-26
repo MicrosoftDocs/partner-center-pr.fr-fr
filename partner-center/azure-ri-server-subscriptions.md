@@ -4,12 +4,12 @@ description: L'intégration d'Azure RI et des abonnements de serveur au programm
 author: v-petand
 keywords: Azure, abonnements, machine virtuelle, réservation, réservé instance
 ms.localizationpriority: medium
-ms.openlocfilehash: a29e9b5b6de186f44a9e4c79baf8bfab4e47018a
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
+ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460084"
+ms.lasthandoff: 10/26/2018
+ms.locfileid: "5591915"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -65,12 +65,10 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 
 **Préparation des ventes**
 
-- [Vue d’ensemble de Azure Hybrid Benefit, les abonnements de serveur](https://www.yammer.com/cloudpartnercommunity/#/files/141644181) Mise à jour
-- [Fiche de vente](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure VM RI + FAQ sur les abonnements serveur (mis à jour)](https://www.yammer.com/cloudpartnercommunity/)
-- [Espace FAQ pour les réservations Azure et la base de données SQL](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Azure réservations et les abonnements de serveur avec une vue d’ensemble de Azure Hybrid Benefit (mis à jour)](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Fiche de vente](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [Espace Forum aux questions des réservations Azure (mis à jour)](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Espace FAQ pour les réservations Azure et la base de données SQL](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Base de données SQL en vue d’ensemble de Azure (nouveau)](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Vue d’ensemble de la tarification de Azure](https://azure.microsoft.com/pricing/#explore-cost)
 - [Calculateur de prix Azure](https://azure.microsoft.com/pricing/calculator/)
