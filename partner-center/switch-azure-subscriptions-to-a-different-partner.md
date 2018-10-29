@@ -1,16 +1,19 @@
 ---
 title: Transférer des abonnements Azure | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Un client peut changer de partenaire dans le programme Fournisseur de solutions&nbsp;Cloud pour utiliser les services Microsoft&nbsp;Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
-ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
+ms.openlocfilehash: f91716aa6ebf2c2b8f2867f1bad61947ad3776e0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5511390"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796692"
 ---
 # <a name="transfer-azure-subscriptions"></a><span data-ttu-id="10c79-105">Transférer des abonnements Azure</span><span class="sxs-lookup"><span data-stu-id="10c79-105">Transfer Azure subscriptions</span></span> 
 

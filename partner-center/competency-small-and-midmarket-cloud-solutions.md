@@ -1,19 +1,22 @@
 ---
 title: Compétence Solutions cloud pour PME
+ms.topic: article
+ms.date: 10/29/2018
 description: La compétence Solutions cloud pour les PME vous aide à développer votre réputation en tant que partenaire spécialisé dans la vente et le déploiement de solutions Office365 pour les petites et moyennes entreprises.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: compétence, compétences, Solutions cloud pour PME
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8034f7d779d2dae13b916f01efa8c10be224bb2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876189"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796852"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="324e0-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="324e0-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="16bd6-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="16bd6-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Small and Midmarket Cloud Solutions 

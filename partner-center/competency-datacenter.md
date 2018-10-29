@@ -1,19 +1,22 @@
 ---
 title: Compétence Centre de données
+ms.topic: article
+ms.date: 10/29/2018
 description: La compétence Centre de données reconnaît les partenaires capables de transformer des centres de données en solutions plus flexibles, évolutives et rentables.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: compétence, compétences, Centre de données
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 28dc7d87b4ce203c423b9f23a006d75d3de638c0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876239"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795562"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="fc103-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="fc103-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="38059-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="38059-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Datacenter
