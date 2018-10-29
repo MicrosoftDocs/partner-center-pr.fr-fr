@@ -1,15 +1,18 @@
 ---
 title: Prise en charge multipartenaire | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Un client peut vouloir travailler avec plusieurs partenaires du programme Fournisseur de solutionsCloud, spécialisés dans différents services.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ba0d69eb1e46d4aa75f57514fe5626ae522c5eb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09b915d7cb2cd36ffabc5f4336cb78f37e9b262c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489425"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795172"
 ---
 # <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489425"
 
 Fonction multipartenaire de l’espace partenaires prend en charge les scénarios où un client veut travailler avec plusieurs partenaires. Par exemple, un client peut vouloir engager un partenaire pour son expertise d'Office365, mais passer par un autre partenaire spécialisé dans MicrosoftAzure.
 
-Pour utiliser la fonctionnalité multipartenaire dans l’espace partenaires, invitez le client à vous déléguée proposer des privilèges. Voir [Demander une relation avec un client](request-a-relationship-with-a-customer.md) pour en savoir plus sur la manière d’établir une relation avec un client qui travaille déjà avec un partenaire.
+Pour utiliser la fonctionnalité multipartenaire dans l’espace partenaires, invitez le client à vous délégués proposer des privilèges. Voir [Demander une relation avec un client](request-a-relationship-with-a-customer.md) pour en savoir plus sur la manière d’établir une relation avec un client qui travaille déjà avec un partenaire.
 
 La fonctionnalité multipartenaire n’effectue pas les opérations suivantes:
 
@@ -34,9 +37,9 @@ La fonctionnalité multipartenaire n’effectue pas les opérations suivantes:
 -   Modification du partenaire de référence pour un abonnement
 
 > [!IMPORTANT]  
-> Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les publications de fonctionnalités sera diffusée via les canaux de communication habituels, y compris l’espace partenaires.  
+> Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute annonce concernant les publications de fonctionnalités sera diffusée via les canaux de communication habituels, y compris l’espace partenaires.  
 
- 
+ 
 
 
 

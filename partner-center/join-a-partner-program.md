@@ -1,14 +1,17 @@
 ---
 title: Rejoindre MicrosoftPartnerNetwork| Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Acheter le MicrosoftActionPack et acquérir des compétences dans l’Espace partenaires
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489715"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796992"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Rejoindre MicrosoftPartnerNetwork (MPN)
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489715"
 
  Un partenariat avec Microsoft vous permet d’accéder à de nouvelles opportunités pour transformer votre activité. Sur l’espace partenaires, vous pouvez acheter et renouveler l’abonnement Microsoft Action Pack et accéder facilement aux informations sur les compétences et comment acquérir.
 
- Nous invitons progressivement les partenaires à gérer leur adhésion à l’espace partenaires à MAPS ou de leur compétence la date anniversaire, ainsi que lorsque les principales fonctionnalités de l’espace partenaires sont disponibles et qui s’avèrent pour répondre aux besoins de leur entreprise.  Pour l’instant, prévoyez de renouveler et de gérer votre adhésion au Partner Membership Center (PMC) jusqu'à ce que vous receviez une invitation à migrer.
+ Nous invitons progressivement les partenaires à gérer leur adhésion à l’espace partenaires à MAPS ou de leur compétence la date anniversaire, ainsi que lorsque des fonctionnalités importantes de l’espace partenaires sont disponibles et qui s’avèrent adaptées aux besoins de leur entreprise.  Pour l’instant, prévoyez de renouveler et de gérer votre adhésion au Partner Membership Center (PMC) jusqu'à ce que vous receviez une invitation à migrer.
 
 ## <a name="get-your-mpn-id"></a>Obtenir votre ID MPN
 

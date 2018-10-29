@@ -1,16 +1,19 @@
 ---
 title: Ajouter un nouveau client | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure AD.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
-ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490205"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794842"
 ---
 # <a name="add-a-new-customer"></a>Ajouter un nouveau client
 
@@ -21,7 +24,7 @@ ms.locfileid: "4490205"
 -  Espace partenaires de MicrosoftCloud Germany
 
 
-Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un compte pour votre client dans votre espace partenaires. Cet enregistrement comprend les coordonnées du client et un domaine Azure&nbsp;AD.
+Avant que vous pouvez vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un compte pour votre client dans votre espace partenaires. Cet enregistrement comprend les coordonnées du client et un domaine Azure&nbsp;AD.
 
 Pour les clients disposant déjà de comptes client et d’abonnements via un scénario de type [multicanal](multichannel.md) ou [Multipartenaire](multipartner.md), vous pouvez [demander une relation avec un client](request-a-relationship-with-a-customer.md), au lieu de suivre les étapes décrites ici.
 
@@ -39,9 +42,9 @@ Pour les clients disposant déjà de comptes client et d’abonnements via un sc
 
 Pour vérifier ultérieurement les données client, notamment l’ajout de licences de composants additionnels aux abonnements, voir les détails dans [Créer un abonnement](create-a-new-subscription.md).
 
- 
+ 
 
- 
+ 
 
 
 

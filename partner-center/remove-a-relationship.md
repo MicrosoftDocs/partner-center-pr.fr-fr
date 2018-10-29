@@ -1,14 +1,17 @@
 ---
 title: Supprimer une relation de revendeur avec un client | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: La suppression d’une relation supprime toutes les relations commerciales clôturées de votre affichage dans l'Espace partenaires.
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: a647178ae75b52930cc8eab5258179ed27696912
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489735"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797072"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Supprimer une relation de revendeur avec un client
 

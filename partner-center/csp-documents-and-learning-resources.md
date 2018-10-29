@@ -1,16 +1,19 @@
 ---
 title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Cet article inclut des liens vers des guides du programme, des contrats de partenariat, des contrats client, des listes de prix et des offres pour fournisseurs de solutions Cloud.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: e4a60b05a1f7c3341e51e83c6f34bf2081c72de5
-ms.sourcegitcommit: 011fb13f8b595f16d8be4a2948da60a8f3971e0a
+ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4657309"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796062"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme fournisseur de solutions cloud, contrats, listes de prix et offres
 
@@ -59,7 +62,7 @@ En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez e
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Modification de secret professionnel de l’accord de Microsoft Cloud (Allemagne)
 
-En Allemagne, le Code de criminel (Section 203) et les codes de conduite professionnels nécessitent que certaines relations client sont tenues de rester confidentielles, par exemple, la relation entre les patients et leurs médecins et la relation entre les avocats et leurs clients. Ces groupes professionnelles ont garantir le secret professionnel. Pour ces et autres professionnels pour acheter des services basés sur le cloud des fournisseurs de solutions cloud, le fournisseur de services de cloud doit conclure un accord écrit avec le client qui garantit le secret professionnel. 
+En Allemagne, le Code criminel (Section 203) et les codes de conduite professionnelles nécessitent que certaines relations client sont tenues de rester confidentielles, par exemple, la relation entre les patients et leurs médecins et la relation entre les avocats et leurs clients. Ces groupes professionnelles s’assurent le secret professionnel. Pour ces et autres professionnels pour acheter des services basés sur le cloud des fournisseurs de solutions cloud, le fournisseur de services de cloud doit conclure un accord écrit avec le client qui garantit le secret professionnel. 
 
 Si vous travaillez en Allemagne, vous devrez peut-être fournir cette modification secret professionnel à vos clients, il en plus du contrat Microsoft Cloud.
 

@@ -1,14 +1,17 @@
 ---
 title: Comprendre le paiement de vos primes incitatives | Espaces partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Affichez les revenus et les paiements se rapportant aux programmes de primes incitatives.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 962d7d518d6d6842aee512bd48a50b6e4695d849
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489865"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795942"
 ---
 #<a name="incentive-payouts-overview"></a>Vue d’ensemble des paiements de primes incitatives
 

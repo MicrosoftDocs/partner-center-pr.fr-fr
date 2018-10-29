@@ -1,15 +1,18 @@
 ---
 title: Taxes et exonérations fiscales | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489605"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796004"
 ---
 # <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
@@ -23,9 +26,9 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 
 **Demander une exonération fiscale**
 
-1.  Rechercher votre **ID Microsoft** dans l’espace partenaires &gt; **paramètres du compte** &gt; **profil de l’entreprise**.
+1.  Rechercher votre **ID Microsoft** dans l’espace partenaires &gt; **paramètres du compte** &gt; **profil d’organisation**.
 2.  Rechercher votre **ID MPN** dans l’espace partenaires &gt; **paramètres du compte** &gt; **profil de partenaire**.
-3.  Créez un ticket de support. Dans le menu espace partenaires, sélectionnez les **demandes de Service** &gt; **demandes de l’espace partenaires** &gt; **nouvelle demande**.
+3.  Créez un ticket de support. Dans le menu espace partenaires, sélectionnez **les demandes de Service** &gt; **demandes de l’espace partenaires** &gt; **nouvelle demande**.
 4.  Remplissez le formulaire. Pour **Type de problème**, choisissez **Impossible de gérer mon profil**. Dans la description, indiquez votre ID&nbsp;MPN et votre ID&nbsp;Microsoft.
 5.  Une fois que vous avez envoyé le ticket, Microsoft vous adresse un e-mail pour obtenir plus d’informations. Lorsque vous répondez, joignez la documentation appropriée correspondant à vos certificats d’exonération fiscale.
 
@@ -71,11 +74,11 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

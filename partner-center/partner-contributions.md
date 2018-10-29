@@ -1,17 +1,20 @@
 ---
 title: Contribution partenaire - rester au-dessus des indicateurs de performance | L’espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: Use partner contributions data to understand how your business is growing and succeeding
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: données d'entreprise
 ms.localizationpriority: medium
-ms.openlocfilehash: 4aafc30e4fed9dbaefff818f1c6a4a2affeb0af2
-ms.sourcegitcommit: 6dc4be68a77b5068dc0c7cb171d017200db76ede
+ms.openlocfilehash: be46ca6cb4efa54bcb29874465e79ca89f7799e8
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "4242802"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796862"
 ---
-# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribution de partenaire: rester par-dessus vos indicateurs de performances
+# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribution partenaire: optimisez vos indicateurs de performances
 
 **S'applique à:**
 - Espace partenaires
@@ -59,17 +62,17 @@ Nous Bienvenue commentaires de votre part sur contribution partenaire. Veuillez 
 1. Pourquoi ne puis-je pas voir la page de contribution partenaire?
     - Contribution partenaire n’est actuellement disponible que pour les partenaires qui vendent Dynamics 365 avec les comptes MPN ou fournisseur de solutions cloud. Cette fonctionnalité n’est pas encore activée pour la Chine et Allemagne.
 2. Je suis un partenaire Dynamics 365, pourquoi ne puis-je pas voir les données de contribution partenaire?
-      - Vous ne pouvez pas avoir un rôle de compte MPN ou fournisseur de solutions cloud. Par exemple: Conseiller et DAP ne sont pas encore activés.  
-    - Vous ne pouvez pas avoir rôle de l’utilisateur dans votre organisation à afficher cette page. Veuillez contacter votre administrateur général.
+      - Vous ne pouvez pas avoir un rôle de compte MPN ou fournisseur de solutions cloud. Par exemple: Advisor et DAP ne sont pas encore activés.  
+    - Vous ne pouvez pas avoir rôle de l’utilisateur dans votre organisation à afficher cette page. Contactez votre administrateur général.
 
-    - Votre organisation se trouve en Chine ou en Allemagne.
+    - Votre organisation se trouve dans Chine ou en Allemagne.
 
 3. Mon nouvelles recettes > 0, il n’existe aucune donnée pour tous les mois Active les utilisateurs (MAU)?
     - Pour la plupart des licences en volume ou programme Open channel clients, de facturation s’affiche avant de configurer les sièges afin que nous ne pouvons pas voir MAU encore.
 
 4.  Pourquoi est-il mon MAU > 0, il n’existe aucune donnée de nouvelles recettes?
-    - Pour les Web Direct ou revendeur, les sièges sont mis en service avant le début du cycle de facturation. La facturation peut se produire un mois, trimestre ou année ultérieurement selon les termes du contrat de l’abonnement. Cela se produit également avec les abonnements d’essai, des droits d’utilisation interne et les clients du gouvernement des États-Unis.
+    - Pour les Web Direct ou revendeur, les licences sont mis en service avant le début du cycle de facturation. La facturation peut se produire un mois, trimestre ou année ultérieurement selon les termes du contrat de l’abonnement. Cela se produit également avec les abonnements d’essai, des droits d’utilisation interne et gouvernementales américaines.
 5.  Mes données revenus ne correspond pas à?
-    - C’est très probablement en raison de performance n’association, les différences de minutage ou données non cloud.
+    - C’est très probablement en raison de performance n’association, les différences de minutage ou données non-nuage.
 6.  Pourquoi les mes données individuelles certifiées est faible?
     - Nous affichons uniquement celles qui se trouvent dans une zone de client client donné et qui ont réussi 1 ou plusieurs des 5 examens nécessaires pour la compétence applications métier du Cloud, Customer Engagement ou chemin d’accès Finance and Operations.   

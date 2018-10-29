@@ -1,15 +1,18 @@
 ---
 title: Mise à niveau de votre adhésion au MicrosoftPartner Network | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Lorsque vous mettez à niveau votre abonnement au MicrosoftPartner Network, vous avez droit à de nombreux avantages exclusifs. Découvrez comment trouver et acheter des offres disponibles.
 author: MaggiePucciEvans
+ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489705"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795712"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Mise à niveau de votre abonnement au MicrosoftPartner Network
 
@@ -47,7 +50,7 @@ Action Pack est un abonnement annuel abordable à des services, des logiciels et
 Pour plus d’informations sur Microsoft Action Pack, accédez à [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Ce lien vous dirigeront vers un autre site Web. Revenez sur ce site, le site de l’espace partenaires, pour vous abonner à Action Pack.
+> Ce lien vous dirigeront vers un autre site Web. Revenez sur ce site, l’espace partenaires, pour vous abonner à Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>S’abonner à MicrosoftAction Pack

@@ -1,15 +1,18 @@
 ---
 title: Disponibilité d’Office&nbsp;365 E5 Single SKU dans Fournisseur de solutions&nbsp;Cloud | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Office&nbsp;365 Entreprise E5 Single SKU est disponible dans Fournisseur de solutions&nbsp;Cloud et inclut Conférence RTC.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cce364069f6710d81435f8d973cd187c98543f96
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876289"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795652"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Conseil de partenaires Office365: disponibilité d’Office365E5 Single SKU dans Fournisseur de solutionsCloud
 
@@ -89,7 +92,7 @@ Conférence pour les clients de E5
 
 Module complémentaire RTC
 
- 
+ 
 
 **Après la publication d’Office 365 Ent. E5 Single SKU**
 
@@ -143,7 +146,7 @@ Clients de Skype Entreprise Conférence RTC pour E5 sans Conférence&nbsp;RTC
 
 Module complémentaire RTC
 
- 
+ 
 
 ## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Factures et fichiers de rapprochement de partenaires
 
@@ -197,7 +200,7 @@ Exemple de rapprochement de partenaire&nbsp;:
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 
@@ -210,9 +213,9 @@ Pour plus d’informations, consultez le site [Drumbeat](https://drumbeat.office
 
 -   **Forum aux questions sur Office&nbsp;365&nbsp;E5 et Skype Entreprise**
 
- 
+ 
 
- 
+ 
 
 
 

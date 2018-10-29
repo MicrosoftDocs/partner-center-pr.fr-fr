@@ -1,16 +1,19 @@
 ---
 title: Lire votre facture | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Il est disponible sur l’espace partenaires.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
 ms.localizationpriority: medium
-ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489405"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795692"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -20,7 +23,7 @@ ms.locfileid: "4489405"
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de MicrosoftCloud Germany
 
-Pour consulter votre facture, accédez au menu **Espace partenaires** , puis sélectionnez la **facturation** pour afficher votre historique de facturation et les tendances, des liens vers votre facture et le fichier de rapprochement et votre dernier paiement.
+Pour consulter votre facture, accédez au menu **Espace partenaires** , puis sélectionnez **la facturation** pour afficher votre historique de facturation et les tendances, des liens vers votre facture et fichier de rapprochement et votre dernier paiement.
 
 Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 
@@ -57,7 +60,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 <td>Adresse d’expédition de votre facture. Pour modifier cette adresse, accédez à Paramètres du compte > Profil de facturation du partenaire. </td>
 </tr>
 <tr class="odd">
-<td>Frais basé sur les licences</td>
+<td>Ceux basés sur les frais</td>
 <td>Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service. Ce montant est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonneT).</td>
 </tr>
 <tr class="even">
@@ -143,7 +146,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 |Montant hors taxe |Sous-total des achats avant impôts. |
 |Taxe de vente |Montant des taxes. |
 |Total |Total à payer. |
- 
+ 
 
 
 

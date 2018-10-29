@@ -1,16 +1,19 @@
 ---
 title: Compétence Gestion de la mobilité d’entreprise
+ms.topic: article
+ms.date: 10/29/2018
 description: La compétence Gestion de la mobilité d’entreprise est destinée aux partenaires qui se démarquent en tant qu’experts de solutions puissantes et sûres de gestion de mobilité pour les grandes entreprises.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: compétence, compétences, Gestion de la mobilité d’entreprise
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e6c5fd30a82992d41a22b4892d27ec4709b4b931
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876069"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796242"
 ---
 >[!IMPORTANT]
 >Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).

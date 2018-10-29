@@ -1,18 +1,21 @@
 ---
 title: Transférer votre abonnement MPN du PartnerMembershipCenter vers l’Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: 'Utilisateurs du PartnerMembershipCenter: les abonnementsMPN sont désormais gérés à partir de l’Espace partenaires. Voici ce que vous devez faire.'
 author: KPacquer
+ms.author: kenpacq
 keywords: abonnement mpn, compétences, pmc vers espace partenaires
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490075"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794952"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Transférer votre abonnement MPN du PartnerMembershipCenter vers l’Espace partenaires
 
@@ -31,7 +34,7 @@ Commencez immédiatement à configurer les utilisateurs pour qu’ils puissent c
 
 L’administrateur de l’entreprise ajoute les employés au compte de l’Espace partenaires, soit en les ajoutant individuellement soit en utilisant les données PMC pour créer plusieurs utilisateurs à la fois:
 
-1.  À partir de l’espace partenaires, sélectionnez **Ajouter un nouvel utilisateur** à ajouter une personne, ou **configuration de votre équipe** (ou ajouter des utilisateurs à l’aide de données PMC) pour ajouter plusieurs utilisateurs à la fois.
+1.  Dans l’espace partenaires, sélectionnez **Ajouter un nouvel utilisateur** d’ajouter une personne, ou **configuration de votre équipe** (ou ajouter des utilisateurs à l’aide de données PMC) pour ajouter plusieurs utilisateurs en même temps.
     
     Suivez les instructions affichées à l’écran pour terminer la configuration.
 

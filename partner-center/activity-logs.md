@@ -1,16 +1,19 @@
 ---
 title: Afficher les journaux d’activité des clients | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488645"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794852"
 ---
 # <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
@@ -27,7 +30,7 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
 **Afficher et exporter des journaux d’activité**
 
-1.  Dans le menu **Espace partenaires** , sélectionnez le **Journal d’activité**.
+1.  Dans le menu **Espace partenaires** , sélectionnez **Le journal d’activité**.
 2.  Sélectionnez la période du journal d’activité avec les champs **De** et **À**. Par défaut, le journal d’activité exporte le mois le plus récent.
 
     Chaque journal d’activité fournit un lien vers la page **Abonnements** du client répertorié.
@@ -41,9 +44,9 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
     -   **État**&nbsp;: fournit les données associées à l’activité, comme un ID de commande. Il varie selon le type d’action.
     -   **Informations supplémentaires**&nbsp;: données de transaction du journal d’activité. Par exemple, si l’action est une commande de client, ce champ affiche le contenu de l’achat.
 
- 
+ 
 
- 
+ 
 
 
 

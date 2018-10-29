@@ -1,15 +1,18 @@
 ---
 title: Utiliser les fichiers de rapprochement | Espace partenaires
-description: Pour une vue détaillée de la ligne de chacun des frais dans un cycle de facturation, télécharger les fichiers de rapprochement à partir de l’espace partenaires.
+ms.topic: article
+ms.date: 10/29/2018
+description: Pour une vue détaillée de la ligne de chacun des frais dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir de l’espace partenaires.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489955"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797292"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -19,7 +22,7 @@ ms.locfileid: "4489955"
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de MicrosoftCloud Germany
 
-Pour une vue détaillée de la ligne de chacun des frais dans un cycle de facturation, télécharger les fichiers de rapprochement à partir de l’espace partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
+Pour une vue détaillée de la ligne de chacun des frais dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir de l’espace partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
 
 ## <a href="" id="itemizebypartner"></a>Détailler par partenaire
 
@@ -46,7 +49,7 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 <td>ID MPN revendeur</td>
 <td><p>Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect.</p>
 <p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Cet&nbsp;ID correspond à l’ID de revendeur indiqué pour l’abonnement dans l’Espace partenaires.</p>
-<p>Pour afficher ou mettre à jour le revendeur, dans le menu espace partenaires, sélectionnez les <strong>clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
+<p>Pour afficher ou mettre à jour le revendeur, dans le menu espace partenaires, sélectionnez <strong>clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
 <p>Si un partenaire&nbsp;Fournisseur de solutions&nbsp;Cloud a vendu l’abonnement directement au client, son ID&nbsp;MPN est indiqué deux&nbsp;fois, en tant qu’ID&nbsp;MPN et ID&nbsp;MPN revendeur.</p>
 <p>Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire.</p>
 <p>Si le partenaire&nbsp;CSP supprime un&nbsp;ID revendeur, cette valeur est définie sur&nbsp;-1.</p></td>
@@ -54,7 +57,7 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> Champs des fichiers basés sur les licences
 
@@ -519,7 +522,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Frais basé sur les licences</strong></p>
+<p><strong>Ceux basés sur les frais</strong></p>
 </td>
 <td>
 <p>Frais d'activation</p>

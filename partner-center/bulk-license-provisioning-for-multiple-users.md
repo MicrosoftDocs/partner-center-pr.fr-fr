@@ -1,16 +1,19 @@
 ---
 title: Attribuer ou révoquer des licences pour plusieurs utilisateurs | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490005"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795352"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
@@ -59,9 +62,9 @@ l’espace partenaires gère et affiche tous les droits de licence appartenant �
 
 8.  Sélectionnez **Enregistrer**. L’espace partenaires ouvre une page de confirmation de **mise à jour de licences** répertoriant les utilisateurs et leurs nouvelles licences.
 
-**Remarque** Certains produits Microsoft ne sont pas disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
+**Remarque**certains produits Microsoft ne peuvent pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **Révocation de licences attribuées à des utilisateurs**
@@ -82,9 +85,9 @@ l’espace partenaires gère et affiche tous les droits de licence appartenant �
 
 [Attribuer des licences à un utilisateur](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

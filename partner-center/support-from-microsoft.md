@@ -1,15 +1,18 @@
 ---
 title: Support de Microsoft | Espace Partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace partenaires, vous pouvez demander de l'aide à Microsoft et suivre l'incident jusqu'à sa résolution.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ec944f86dc8011ca753d475d66096b093610d4c3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3b69825b95009ea2eaada2b59dc2f59869771191
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876469"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796132"
 ---
 # <a name="support-from-microsoft"></a>Support de Microsoft
 
@@ -31,9 +34,9 @@ Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace p
 
 [Prise en charge des avantages de Microsoft](https://partner.microsoft.com/support/contact-support)
 
- 
+ 
 
- 
+ 
 
 
 

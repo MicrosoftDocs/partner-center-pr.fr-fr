@@ -1,14 +1,17 @@
 ---
 title: Migrer des abonnements Office365E4 vers les nouvelles versions d’Office365 | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: L'édition MicrosoftOffice365 EntrepriseE4 n’est plus disponible depuis le 7 avril2017. Découvrez comment migrer vos abonnements client vers des versions plus récentes d’Office365.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490175"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796102"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office365E4 vers les nouvelles versions d’Office365
 
@@ -65,7 +68,7 @@ Suivez ces étapes pour migrer l’abonnement Office365 Entreprise E4 d’un cli
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Étape1: acheter le nouvel abonnement
 
-1. Dans le menu **Espace partenaires** , sélectionnez des **clients**, sélectionnez le client à déplacer, puis sélectionnez **Ajouter les abonnements**.
+1. Dans le menu **Espace partenaires** , sélectionnez **clients**, sélectionnez le client à déplacer, puis sélectionnez **Ajouter les abonnements**.
 
 2. Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, l'une des options ci-dessus), indiquez le nombre de licences, puis sélectionnez **Envoyer**.
 
@@ -73,7 +76,7 @@ Suivez ces étapes pour migrer l’abonnement Office365 Entreprise E4 d’un cli
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Étape2: réaffecter les licences des utilisateurs du client
 
-1. Dans le menu **Espace partenaires** , sélectionnez des **clients**, sélectionnez le client à déplacer, puis sélectionnez **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
+1. Dans le menu **Espace partenaires** , sélectionnez **clients**, sélectionnez le client à déplacer, puis sélectionnez **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
 
 2. Pour réaffecter les licences utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
 
@@ -97,7 +100,7 @@ L’ancien abonnement est suspendu et le nouveau est activé. L’abonnement sus
 
 
 
- 
+ 
 
 
 

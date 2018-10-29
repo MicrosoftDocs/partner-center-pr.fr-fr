@@ -1,16 +1,19 @@
 ---
 title: Ajouter des licences ou des services à un abonnement existant | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Si votre client a besoin de davantage de licences que dans son abonnement actuel, ou d’une autre version avec des services supplémentaires, vous pouvez mettre à jour l’abonnement.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d'abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: medium
-ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489725"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795972"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
 
@@ -38,7 +41,7 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office&nbsp;365 Business</td>
+<td>Office365Business</td>
 <td><ul>
 <li>Office&nbsp;365 Business&nbsp;Premium¹</li>
 <li>Office&nbsp;365&nbsp;ProPlus</li>
@@ -47,14 +50,14 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office&nbsp;365 Business&nbsp;Premium</td>
+<td>Office365BusinessPremium</td>
 <td><ul>
 <li>Office&nbsp;365 Entreprise&nbsp;E3</li>
 <li>Office&nbsp;365 Enterprise&nbsp;E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office&nbsp;365 Business Essentials</td>
+<td>Office365BusinessEssentials</td>
 <td><ul>
 <li>Office&nbsp;365 Business&nbsp;Premium¹</li>
 <li>Office&nbsp;365 Entreprise&nbsp;E1</li>
@@ -64,12 +67,12 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office&nbsp;365 Business India et Office&nbsp;365 Business Essentials India peuvent être mis à niveau vers Office&nbsp;365 Business Premium India, mais pas vers Office&nbsp;365 Business Premium.</p></td>
+<td><p>¹ Office365BusinessIndia et Office365BusinessEssentialsIndia peuvent être mis à niveau vers Office365BusinessPremiumIndia, pas à Office365BusinessPremium.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
 La mise à niveau des abonnements est possible si les conditions suivantes sont remplies&nbsp;:
 
@@ -92,9 +95,9 @@ Pour plus d’informations sur l’impact sur la facturation, consultez les dét
 3.  Sélectionnez la nouvelle offre, puis choisissez **Envoyer**.
 4.  Vous aurez peut-être des tâches supplémentaires à effectuer pour migrer certains comptes utilisateur pour certains services. Si tel est le cas, l’espace partenaires fournit une liste des comptes et services concernés. Pour obtenir de l’aide, consultez l’article [Problèmes de réaffectation des licences lorsque vous changez de plan dans Office&nbsp;365](http://go.microsoft.com/fwlink/p/?LinkId=723576) de la base de connaissances.
 
- 
+ 
 
- 
+ 
 
 
 

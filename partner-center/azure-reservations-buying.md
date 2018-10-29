@@ -1,15 +1,18 @@
 ---
 title: Acheter des réservations MicrosoftAzure pour vos clients | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, réservations, gérer, facturer, acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: 79c6fcfea47787165e958096f23bc14a97b9b85c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: 0cc6c3632b16af99c3becb9d00a81a283ab2ab5c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658105"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797192"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour vos clients dans l’espace partenaires 
 
@@ -40,7 +43,7 @@ Suivez les étapes ci-dessous pour acheter des réservations Microsoft Azure pou
 
 5. Utiliser les filtres pour rechercher des instances réservées qui répondent aux besoins de votre client.  
 
-6. Une fois que vous trouvez les réservations que vous souhaitez acheter, entrez le nombre d’instances réservées au client sera ont besoin de **quantité** , puis sélectionnez **Ajouter au panier**.  
+6. Après avoir trouvé les réservations que vous souhaitez acheter, entrez le nombre d’instances réservées au client sera ont besoin de **quantité** , puis sélectionnez **Ajouter au panier**.  
 
 7. Répétez les étapes5 et 6 jusqu'à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Révision** pour vérifier que la commande est correcte.  
 

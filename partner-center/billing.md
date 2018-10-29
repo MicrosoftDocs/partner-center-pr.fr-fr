@@ -1,16 +1,19 @@
 ---
 title: Facturation | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 0407d176dcf7b7cc7f33403c4575a8a59b15b02d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 21946e6c3504dae35dc96585878e7714b976ad3a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489295"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796362"
 ---
 # <a name="billing"></a>Facturation
 
@@ -20,7 +23,7 @@ ms.locfileid: "4489295"
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de MicrosoftCloud Germany
 
-Pour consulter votre facture, accédez au menu **Espace partenaires** , puis sélectionnez la **facturation** pour afficher votre historique de facturation et les tendances, des liens vers votre facture et le fichier de rapprochement et votre dernier paiement.
+Pour consulter votre facture, accédez au menu **Espace partenaires** , puis sélectionnez **la facturation** pour afficher votre historique de facturation et les tendances, des liens vers votre facture et fichier de rapprochement et votre dernier paiement.
 
 Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 

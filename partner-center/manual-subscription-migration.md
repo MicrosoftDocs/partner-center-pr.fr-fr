@@ -1,15 +1,18 @@
 ---
 title: Migrer des abonnements Dynamics AX vers Dynamics&nbsp;365 | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft propose Dynamics365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489785"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797132"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrer des abonnements DynamicsAX vers Dynamics365
 
@@ -42,7 +45,7 @@ La gamme de produits Microsoft DynamicsAX n’est plus disponible à partir du 1
 |Tâche/libre-service|Microsoft Dynamics365 for Team Members|
 |Appareil|Appareil Microsoft Dynamics365 for Operations|
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Modifications des licences Microsoft Dynamics CRM Online 
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Modifications des licences Microsoft Dynamics CRM Online 
 
 **Microsoft Dynamics CRM Online**
 
@@ -113,9 +116,9 @@ Si votre client passe du programme Open Channel au programme Cloud Services pour
 
 Lorsque le client vous accepte comme fournisseur indirect, la procédure d’approvisionnement reste essentiellement la même&nbsp;: vous achetez le nouvel abonnement, puis vous affectez les licences utilisateur. La seule différence concerne l’annulation du ou des anciens abonnements. Un nouveau fournisseur ne peut pas annuler ou suspendre des abonnements souscrits par le biais d’autres canaux. Si le client a souscrit des abonnements via un autre canal de vente, comme le programme Open Channel, il doit les annuler lui-même dans ce canal.
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: Vendre des abonnements Minecraft Education Edition aux clients de l’éducation
+ms.topic: article
+ms.date: 10/29/2018
 description: Vendre des abonnements MinecraftEducationEdition aux clients qualifiés dans le domaine de l’éducation.
 author: KPacquer
+ms.author: kenpacq
 keywords: Partenaires d’éducation autorisés
 ms.localizationpriority: medium
-ms.openlocfilehash: cb968300a2254aac6c56b3ecdfc8ac32eb7345a8
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489685"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796582"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendre des abonnements Minecraft: EducationEdition aux clients de l’éducation
 
@@ -37,7 +40,7 @@ Suivez les étapes ci-dessous pour acheter un **Minecraft: Education Edition** a
   4.  Sélectionnez l’abonnement Minecraft que vous souhaitez acheter pour le compte de votre client et entrez le nombre de licences. Sélectionnez **Suivant: révision**.
 
       >[!NOTE]
-      >Vous serez en mesure de consulter et de gérer ces licences dans l’espace partenaires. Votre client peut consulter et gérer ces licences dans son inventaire sur la [Page des détails de Minecraft: EducationEdition](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (pour voir cette page, vous devez être connecté au Store pour Éducation). 
+      >Vous serez en mesure de voir et gérer ces licences dans l’espace partenaires. Votre client peut consulter et gérer ces licences dans son inventaire sur la [Page des détails de Minecraft: EducationEdition](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (pour voir cette page, vous devez être connecté au Store pour Éducation). 
 
   5.  Si la commande est correcte, sélectionnez **Envoyer**. Si vous avez besoin de modifier la commande, sélectionnez **Annuler** et apportez les modifications souhaitées.   
 

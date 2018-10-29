@@ -1,16 +1,19 @@
 ---
 title: Support autonome du client | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Support autonome du client
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: support autonome du client, support autonome
 ms.localizationpriority: medium
-ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874579"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794772"
 ---
 # <a name="customer-self-support"></a>Support autonome du client
 
@@ -30,9 +33,9 @@ Pour acheter des abonnements supplémentaires ou annuler leur abonnement, les cl
 
 Lorsque les clients ont besoin d’aide sur les produits, ils peuvent trouver les ressources de produit sur la [prise en charge](https://partnercenter.microsoft.com/partner/support). Nous encourageons les partenaires à diriger leurs clients vers ces ressources dans un premier temps.
 
- 
+ 
 
- 
+ 
 
 
 

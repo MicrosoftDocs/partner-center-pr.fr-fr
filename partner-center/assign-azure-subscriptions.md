@@ -1,22 +1,25 @@
 ---
 title: Attribuer des abonnements Azure dans l'Espace partenaires | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Vous pouvez désormais attribuer des abonnements Azure à vos clients dans l'Espace partenaires. Vous pouvez leur permettre de gérer leurs propres abonnements.
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Azure, abonnement Azure, abonnement, abonnements, attribuer un abonnement, gérer un abonnement Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5438803bf25fb40267cbecbdcbe25ed6e6a44cfa
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489025"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796042"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Attribuer des abonnements Azure dans l'Espace partenaires
 
 **S'applique à:**
 
 -  Espace partenaires
- 
+ 
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Attribuez des abonnements Azure à vos clients dans l'Espace partenaires
 
 1. Sélectionnez des **clients** dans votre menu de **L’espace partenaires** et recherchez le client que vous souhaitez gérer.

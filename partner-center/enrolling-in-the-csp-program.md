@@ -1,14 +1,17 @@
 ---
 title: S'inscrire au programme Fournisseur de solutions Cloud | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Comprendre les différents modèles de vente dans le programme Fournisseur de solutions Cloud et déterminer celui qui convient le mieux à votre entreprise.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dee2136344959b3a22816f9db7ee26d9743eb54a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 35a23762cb187eb9277a88c8ac54abf694a823b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489925"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796592"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
@@ -35,7 +38,7 @@ Il peut nous falloir plusieurs jours pour examiner et vérifier les informations
 
 1. Une fois que vous vous êtes inscrit en tant que revendeur indirect, vous devez [trouver un fournisseur indirect](https://partnercenter.microsoft.com/partner/find-a-provider) avec lequel collaborer. Le fournisseur avec qui vous collaborez dirigera les clients vers vous, gérera les achats de logiciels que vous pouvez vendre ainsi que la facturation et le support des clients, ce qui vous permettra de vous concentrer sur vos activités de revendeur.
 
-2. Votre administrateur global doit configurer de votre compte dans l’espace partenaires. L’administrateur global peut ajouter de votre organisation les employés qui travailleront dans l’espace partenaires, leur affecter des rôles et autorisations en fonction de leur leurs tâches ou encore configurer le profil de l’organisation.
+2. Votre administrateur global doit configurer votre compte dans l’espace partenaires. L’administrateur global peut ajouter de votre organisation les employés qui travailleront dans l’espace partenaires, leur affecter des rôles et autorisations en fonction de leur leurs tâches ou encore configurer le profil de l’organisation.
 
 3. Vos employés recevront un e-mail avec leur mot de passe temporaire. Ils doivent se connecter à l’espace partenaires et modifier leur mot de passe. Ils peuvent ensuite commencer à travailler.
 
@@ -52,17 +55,17 @@ En tant que partenaire direct, vous avez une relation de bout en bout avec votre
 > [!NOTE]  
 >  Les conditions requises pour devenir un partenaire direct ont été modifiées récemment et prendront effet à compter du 31 août 2018. Les partenaires directs doit respecter les exigences de nouveau à compter de leur période d’inscription suivant après le 31 août 2018.
 
-#### <a name="new-expanded-requirements"></a>Nouvelles exigences étendues:
+#### <a name="new-expanded-requirements"></a>Nouvelles exigences développés:
 
 Support
-- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, hiérarchisée avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, avec élévation de privilèges 24/7/réparation prise en charge et la gestion de compte technique sur cloud, hybrides et locaux. 
+- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, PRIORISATION avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, 24/7 avec élévation de privilèges et de réparation prise en charge et la gestion de compte technique sur cloud, hybrides et locaux. 
 
 Services
 
-- Montrez que vous indiquez au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout des services gérés
+- Montrez que vous indiquez au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout de services gérés
 
-- Respectez les fonctionnalités de l’infrastructure minimale, telles que la facturation et la mise en service.
-Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont montrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une performance de la barre à l’avenir. 
+- Respectez les fonctionnalités de l’infrastructure minimale, telles que la facturation et de mise en service.
+Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont illustrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une performance de la barre à l’avenir. 
 
 - ID MicrosoftPartnerNetwork (MPN) pour le marché où seront effectuées les ventes
 

@@ -1,15 +1,18 @@
 ---
 title: Gérer votre liste de clients | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490165"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796112"
 ---
 # <a name="manage-your-customer-list"></a>Gérer votre liste de clients
 
@@ -68,11 +71,11 @@ Dans le menu **Espace partenaires** , sélectionnez les **clients**.
 > [!NOTE]  
 > Pour plus d’informations sur la gestion des abonnements, consultez [Abonnements client](customer-subscriptions.md).
 
-     
+     
 
- 
+ 
 
- 
+ 
 
 
 

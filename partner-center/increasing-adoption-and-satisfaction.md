@@ -1,15 +1,18 @@
 ---
 title: Augmenter l’adoption et la satisfaction client | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489595"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795252"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
@@ -33,7 +36,7 @@ Vous pouvez afficher les données de l’ensemble de vos clients via le programm
 
 **Dans votre portefeuille**
 
-1.  Sur l' **Espace partenaires**, sélectionnez **analyser**.
+1.  Dans l' **Espace partenaires**, sélectionnez **analyser**.
 2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
 
 Terminologie&nbsp;:
@@ -80,11 +83,11 @@ Si vous répondez à de nombreuses questions d’aide et de procédures, si les 
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

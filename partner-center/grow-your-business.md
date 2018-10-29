@@ -1,15 +1,18 @@
 ---
 title: Développer votre activité de partenaire Microsoft | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Ressources pour développer votre activité de partenaire Microsoft. Explique notamment comment obtenir des prospects (références) de Microsoft.
 keywords: références, répondre à des références, prospect, prospects, profil commercial, profil d’entreprise, développer votre activité, opportunités commerciales, compétences, niveau d'adhésion argent, niveau d'adhésion or, offres d’essai, extension de marché, clouds nationaux
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19a518e32ed352adf4363fc6a7ae84fb5a00e5ca
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1fa537dbb170412385080b17cf3a52e8a7a784ea
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489655"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796422"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Développer votre activité de partenaire Microsoft 
 
@@ -24,7 +27,7 @@ Utilisez l'Espace partenaires pour:
 -   Vendre dans d’autres marchés (partenaires du programme Fournisseur de solutions Cloud)
 
 > [!NOTE]  
->  Votre société doit être inscrit dans le Microsoft Partner Network et disposer d’un compte espace partenaires pour tirer parti de ces fonctionnalités. Voir [Rejoindre Microsoft Partner Network](mpn-overview.md) pour en savoir plus sur l'adhésion au réseau. Pour certaines fonctionnalités, vous devez également être revendeur du programme Fournisseur de solutions Cloud (CSP). Voir [Présentation du programme Fournisseur de solutions Cloud](csp-overview.md) pour en savoir plus sur la vente par le biais de ce programme.
+>  Votre société doit être inscrit dans le Microsoft Partner Network et disposer d’un compte de l’espace partenaires pour tirer parti de ces fonctionnalités. Voir [Rejoindre Microsoft Partner Network](mpn-overview.md) pour en savoir plus sur l'adhésion au réseau. Pour certaines fonctionnalités, vous devez également être revendeur du programme Fournisseur de solutions Cloud (CSP). Voir [Présentation du programme Fournisseur de solutions Cloud](csp-overview.md) pour en savoir plus sur la vente par le biais de ce programme.
 
 ## <a name="resources-to-help-your-business-grow"></a>Ressources pour vous aider à développer votre activité
 
@@ -36,8 +39,8 @@ Utilisez l'Espace partenaires pour:
 | Proposer à vos clients des tarifs promotionnels sur les abonnements Microsoft | Microsoft propose occasionnellement des promotions sur les abonnements basés sur les licences, qui vous permettent de répercuter les économies sur les clients et de développer votre activité. Lisez [Proposer à vos clients des tarifs promotionnels sur les abonnements Microsoft](promotions.md) pour savoir comment faire. | Partenaires fournisseurs de solutions Cloud |
 | Vendre dans d’autres marchés | Le canal de vente du programme Fournisseur de solutions Cloud est disponible dans plusieurs pays et régions. Voir [marchés du programme Fournisseur de solutions Cloud](agreements.md) pour en consulter la liste. Pour une introduction au canal du programme Fournisseur de solutions Cloud, consultez [Présentation du programme Fournisseur de solutions Cloud](csp-overview.md).  | Partenaires fournisseurs de solutions Cloud |
 Vendre aux secteurs spécialisés comme s’à but non lucratif et éducation|[Vendre aux secteurs spécialisés](get-special-pricing-for-offers.md)|Partenaires fournisseurs de solutions Cloud|
-|Développer votre activité par le biais de nombreuses activités disponibles dans le programme le mode coopération de primes incitatives. Revendications de fichier pour les activités par le biais de l’espace partenaires.| [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)|Partenaires fournisseurs de solutions Cloud|
-|Créer de nouveaux ensembles de logiciels en incluant les offres tierces qui fonctionnent avec le logiciel Microsoft que vous vendez déjà|[Découvrir les offres tierces](third-party-offers.md)|Partenaires fournisseurs de solutions Cloud|
+|Développer votre activité par le biais de nombreuses activités disponibles dans le programme du mode coopération primes. Revendications de fichier pour les activités par le biais de l’espace partenaires.| [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)|Partenaires fournisseurs de solutions Cloud|
+|Créer de nouveaux ensembles de logiciels en incluant des offres tierces qui fonctionnent avec le logiciel Microsoft que vous vendez déjà|[Découvrir les offres tierces](third-party-offers.md)|Partenaires fournisseurs de solutions Cloud|
 
 ## <a name="see-also"></a>Voir également
 

@@ -1,15 +1,17 @@
 ---
 title: Marchés disponibles et contrats client du programme Fournisseur de solutions Microsoft Cloud | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Télécharger les modèles de contrat client adaptés au marché à partir de l'Espace partenaires
 author: Maggie Evans
 keywords: contrats Microsoft Cloud, modèles de contrat client, contrats client Fournisseur de solutions Cloud, MCA, MCA, fournisseur de solutions Cloud, où puis-je vendre par le biais du programme Fournisseur solutions Cloud?, pays et régions du programme Fournisseur de solutions Cloud, MCA de CSP dans plusieurs langues, CSP Amérique du Nord, CSP Amérique centrale, CSP Amérique du Sud, CSP Antilles, CSP Microsoft Cloud for US Government, CSP MicrosoftCloud Allemagne, CSP Moyen-Orient, CSP Afrique, CSP Europe, CSP Asie, CSP Pacifique, MCA CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 629d15b8a233168420147b8324d85bbee385b170
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377811"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797322"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Marchés et contrats client Fournisseur de solutions Microsoft Cloud
 

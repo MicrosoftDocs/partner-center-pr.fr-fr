@@ -1,14 +1,17 @@
 ---
 title: Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: En tant que fournisseur indirect ou distributeur, vous pouvez travailler en partenariat avec des revendeurs indirects pour accroître votre rayonnement.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490135"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795192"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -44,7 +47,7 @@ Procédez comme suit pour établir et gérer votre partenariat avec des revendeu
     - Associer de nouveaux clients et abonnements à des revendeurs
     - Établir des relations de revendeur avec les clients existants <br>
 
-Après avoir effectué ces étapes, vous pouvez gérer vos partenariats avec les revendeurs sur la page de **revendeurs indirects** dans votre menu de **L’espace partenaires** .
+Après avoir effectué ces étapes, vous pouvez gérer vos partenariats avec les revendeurs dans la page de **revendeurs indirects** dans votre menu de **L’espace partenaires** .
 
 > [!IMPORTANT]   
 > Avant de pouvoir commencer à travailler avec des revendeurs, ils doivent être inscrits comme revendeurs indirects dans le programme fournisseur de solutions cloud et disposent de comptes espace partenaires. Orientez vos revendeurs vers la page [Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud. 
@@ -55,7 +58,7 @@ Pour interagir et effectuer des transactions avec des revendeurs indirects dans 
 
 Pour établir un partenariat, envoyez une demande de partenariat par courrier électronique au revendeur. Veillez à vous munir de l'adresse de messagerie du revendeur avant de commencer. 
 
-1. Sélectionnez **des revendeurs indirects** dans le menu de **L’espace partenaires** . 
+1. Sélectionnez **des revendeurs indirects** dans votre menu de **L’espace partenaires** . 
 
 2. Dans la page **Revendeurs indirects**, sélectionnez **Demander un partenariat**. Un brouillon de message électronique s’affiche.
 
@@ -88,7 +91,7 @@ Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez 
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Ajouter de nouveaux clients et les associer aux revendeurs indirects
 
-1.  Sélectionnez **des revendeurs indirects** dans le menu de **L’espace partenaires** . 
+1.  Sélectionnez **des revendeurs indirects** dans votre menu de **L’espace partenaires** . 
 
 2.  Trouvez le revendeur indirect que vous souhaitez attribuer aux nouveaux clients, puis sélectionnez **Ajouter un nouveau client**. Notez que le revendeur indirect est déjà sélectionné dans l’écran des détails du client. Indiquez les détails du client, puis sélectionnez **Suivant: abonnements**. 
 3.  Dans la page **Nouvel abonnement**, sélectionnez le ou les abonnements que le client souhaite acheter, puis entrez le nombre de licences dont le client a besoin. 

@@ -1,16 +1,19 @@
 ---
 title: Signaler des problèmes au nom d'un client | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490045"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795612"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d'un client
 
@@ -34,7 +37,7 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 
 **Remarque** Lorsque vous avez besoin créer une demande de service pour votre client dans Azure, tenez compte des éléments suivants:
 
-- Afin que vous pouvez créer des demandes de service pour votre client dans Azure, votre fournisseur indirect doit vous accorder le qu'accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office365. 
+- Afin que vous puissiez créer des demandes de service pour votre client dans Azure, votre fournisseur indirect doit vous accorder le qu'accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office365. 
 
 - Bien que l’administrateur du support technique dans l’espace partenaires ne peuvent pas créer des demandes de service dans le portail de service Azure, ce qu’ils peuvent faire est de créer un groupe de prise en charge dans le portail de service Azure et accorder des autorisations de ce groupe pour consigner les demandes de prise en charge.
 
@@ -94,7 +97,7 @@ Si vous vous connectez directement au Centre d'administration Office&nbsp;365, v
 
 **Comment obtenir un support supplémentaire Dynamics 365?**
 
- Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou si vous voulez plu de support technique:
+ Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou si vous voulez davantage les support technique:
  
 Contactez le [Support Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

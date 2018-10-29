@@ -1,14 +1,17 @@
 ---
 title: Tester les nouvelles fonctionnalités de l'Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Testez les nouvelles fonctionnalités de l'Espace partenaires avant leur lancement et dites-nous ce que vous en pensez. Aidez-nous à façonner l’avenir de l'Espace partenaires!
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 96fe21302e2d4e5a06f7b6c970b95b8739673ac7
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489465"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797122"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Tester les nouvelles fonctionnalités de l'Espace partenaires
 

@@ -1,16 +1,19 @@
 ---
 title: Facturation des réservations Azure | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information about billing for Azure reservations.
 author: v-petand
+ms.author: v-petand
 keywords: Azure RI, azure, instances réservées, réservations, machines virtuelles, gérer, facturation, acheter
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7aec5102d2ff76d321474e6e580acde6a854a9b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489435"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796722"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Facturation de MicrosoftAzure Reserved VM Instances
 
@@ -27,7 +30,7 @@ Vos clients paient à l’avance le service Azure Reserved VM Instances. Lorsque
 >[!IMPORTANT]
 >Si vous achetez Azure Reserved VM Instances pour un client dans un marché dont la devise est différente de la vôtre, la devise de facturation par défaut sera celle du marché du client, et non pas la vôtre. Si vous avez des clients dans plusieurs pays, vous recevrez des factures et fichiers de rapprochement distincts pour chaque devise de facturation des clients, ce qui vous permettra de facturer vos clients dans la devise appropriée. 
 
-Pour accéder aux factures des frais ponctuels et fichiers de rapprochement, sélectionnez la **facturation** à partir de l’espace partenaires, puis sélectionnez **une seule fois**. 
+Pour accéder aux factures des frais ponctuels et fichiers de rapprochement, sélectionnez **la facturation** à partir de l’espace partenaires, puis sélectionnez **une seule fois**. 
 
 Pour plus d’informations sur la facturation dans le cadre du programme Fournisseur de solutions Cloud, voir [Notions de base de facturation](billing-basics.md).
 

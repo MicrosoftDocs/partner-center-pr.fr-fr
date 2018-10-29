@@ -1,14 +1,17 @@
 ---
 title: Proposer à vos clients des versions d’évaluation de produits Microsoft | Espaces partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Vos clients peuvent tester des produits d’abonnement Microsoft pendant 30jours.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fb7c8752ee6c7ce322ec735a1b3c41a00f92c75
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5455d32d1ccd51da1bd1a9537fbead5fbc34a8eb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488575"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795272"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Proposer à vos clients des versions d’évaluation de produits Microsoft
 

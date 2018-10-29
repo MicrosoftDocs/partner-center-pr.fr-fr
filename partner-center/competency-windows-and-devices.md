@@ -1,16 +1,19 @@
 ---
 title: Compétence Windows et appareils
+ms.topic: article
+ms.date: 10/29/2018
 description: Partagez notre objectif de voir Windows10 installé sur 1milliard d’appareils. L’opportunité s’étend aux services, applications et appareils. Cette compétence vous fournit des outils, du contenu et des ressources pour vous aider à créer et à développer une pratique Windows10 rentable.
 author: Daniel Simpson
+ms.author: dansimp
 robots: noindex,nofollow
 keywords: compétence, compétences, Windows et appareils
 ms.localizationpriority: medium
-ms.openlocfilehash: eee91d5908726893cf8b5f4a0d01d99b5ac442c1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875739"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795582"
 ---
 >[!IMPORTANT]
 >Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
@@ -135,7 +138,7 @@ The Surface Hub option is ideal if you are an authorized Surface Hub ADR and pre
     - **All** individuals must each pass one of the following exams:
 
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
-        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
         - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
         - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
 -->

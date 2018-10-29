@@ -1,16 +1,19 @@
 ---
 title: Créer, suspendre ou annuler des abonnements client | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489105"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796402"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler les abonnements client
 
@@ -28,14 +31,14 @@ Veuillez noter que certaines offres sont limitées à un abonnement par client. 
 
 **Créer un abonnement**
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, puis choisissez un client dans la liste.
+1.  Dans le menu **Espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 
 2.  Sélectionnez **Nouvel abonnement**.
 
 3.  Sélectionnez le type de facturation d’abonnement que vous souhaitez.  Voir [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md) pour obtenir des informations qui vous aideront à décider entre la fréquence de facturation mensuelle et annuelle.
  
  >[!Note]
- >Vous pouvez proposer aux clients des abonnements d’essai. Produits disponibles pour l’essai se trouvent sous l’onglet d’essai dans le catalogue. Voir [Proposer à vos clients des essais des produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+ >Vous pouvez offrir aux clients des abonnements d’essai. Produits disponibles pour l’essai se trouvent sous l’onglet d’essai dans le catalogue. Voir [Proposer à vos clients des essais des produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
  
 4. Après avoir sélectionné la fréquence de facturation, sélectionnez les produits que vous souhaitez que les abonnements pour dans le catalogue. La disponibilité des produits varie selon le type de client (éducation, secteur public, etc.) et la fréquence de facturation sélectionnée. Si un produit n’est pas disponible, le client a peut-être déjà un abonnement à ce produit et n’est autorisé à en avoir qu’un seul. Ou vous pouvez avoir suspendu l’abonnement, auquel cas vous pouvez le réactiver plutôt que d’en acheter un nouveau.
@@ -54,7 +57,7 @@ Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs
 
 **Suspendre un abonnement**
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, puis choisissez un client dans la liste.
+1.  Dans le menu **Espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 2.  Choisissez l’abonnement que vous souhaitez gérer.
 3.  Dans la section **État**, choisissez **Suspendu**. Puis, sélectionnez **Envoyer** pour valider vos modifications.
 4.  Toutes les données seront supprimées, sauf si l’abonnement est réactivé dans les 90jours, ou 90jours en plus du nombre de jours écoulés entre la date d'ouverture du compte et la première période de facturation (120jours maximum).
@@ -64,7 +67,7 @@ Lorsque vous suspendez un abonnement, la date affichée sous le bouton **Suspend
 
 
 
- 
+ 
 
 
 

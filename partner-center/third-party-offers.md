@@ -1,14 +1,17 @@
 ---
 title: Offres tierces | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: À mesure que votre entreprise évolue, vous pouvez développer et enrichir votre portefeuille d’offres en incluant des offres tierces dans vos offres groupées de produits.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 087154d9e1729eb80273094edba285ce83cc4b4c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9cc92120866502244f73efd8de6874b5d3d8428a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490115"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796942"
 ---
 # <a name="third-party-offers"></a>Offres tierces 
 
@@ -16,7 +19,7 @@ ms.locfileid: "4490115"
 
 - Espace partenaires
 
-Les offres tierces est une fonctionnalité dans l’espace partenaires qui fournit direct et aux partenaires revendeurs indirects qui vendent par l’intermédiaire du programme fournisseur de solutions Cloud (CSP) la possibilité d’effectuer des transactions, gérer et prendre en charge les solutions SaaS tierces.  
+Les offres tierces est une fonctionnalité dans l’espace partenaires qui fournit direct et les partenaires revendeurs indirects qui vendent par l’intermédiaire du programme fournisseur de solutions Cloud (CSP) la possibilité d’effectuer des transactions, gérer et prendre en charge les solutions SaaS tierces.  
 
 Grâce aux offres tierces, les partenaires fournisseurs de solutions Cloud peuvent non seulement acheter des solutions Microsoft internes, mais également des solutions tierces ou des solutions de partenaires éditeurs de logiciels indépendants… Le tout sur une seule plateforme commerciale et avec une seule facture.  À mesure que votre entreprise évolue, vous pouvez développer et enrichir votre portefeuille d’offres en incluant des offres tierces dans vos offres groupées de produits. 
 
@@ -26,7 +29,7 @@ Vous pouvez trouver les différents types d’offres tierces dans l’espace par
 
 Les offres tierces sont conçues pour faciliter la gestion et les transactions. Pour garantir la meilleure expérience pour vous et vos clients, nous recommandons l’utilisation de la liste de vérification ci-dessous pour vous familiariser avec les offres tierces:
 
-1. Examinez tous les documents ci-dessous, à partir de l’intégration webinaire sur et le Forum aux questions
+1. Examinez tous les documents ci-dessous, à partir de l’intégration webinaire et le Forum aux questions
 2. Familiarisez-vous avec les offres tierces dans le catalogue de l’espace partenaires
 3. Contactez l’éditeur de logiciels au sujet des offres tierces qui vous intéressent
 4. Définissez des quotas et des cibles pour vos vendeurs

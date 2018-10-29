@@ -1,15 +1,18 @@
 ---
 title: Abonnements client | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Les partenaires peuvent vendre des abonnements à des clients et les gérer via l’Espace partenaires.
 author: labrenne
+ms.author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f39ea37669839f26dbd72894544fddce61e6462
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b6f8d22a620fee619d864cc13cc5d110ddfc5c47
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489825"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795462"
 ---
 # <a name="customer-subscriptions"></a>Abonnements client
 
@@ -17,7 +20,7 @@ ms.locfileid: "4489825"
 
 -  Espace partenaires
 
-En tant que partenaire Fournisseur de solutionsCloud, l’une de vos activités principales consiste à proposer à vos clients des abonnements aux produits Microsoft. Dans l’espace partenaires, vous pouvez gérer tous vos abonnements pour chaque client. Vous pouvez ajouter des abonnements, ajouter des licences à des abonnements existants, et même proposer des abonnements d’essai aux clients qui souhaitent tester le logiciel. En outre, à l’aide de l’analytique l’espace partenaires fournit pour comprendre la façon dont vos clients utilisent le logiciel, vous serez en mesure de les prendre en charge.
+En tant que partenaire Fournisseur de solutionsCloud, l’une de vos activités principales consiste à proposer à vos clients des abonnements aux produits Microsoft. Dans l’espace partenaires, vous pouvez gérer tous vos abonnements pour chaque client. Vous pouvez ajouter des abonnements, ajouter des licences à des abonnements existants, et même proposer des abonnements d’essai aux clients qui souhaitent tester le logiciel. En outre, à l’aide de l’analytique du centre de partenaires fournit pour comprendre la façon dont vos clients utilisent le logiciel, vous serez en mesure de les prendre en charge.
 
 |**Pour**   |**Lisez**   |
 |----------------------|:----------------------|
@@ -62,9 +65,9 @@ En tant que partenaire Fournisseur de solutionsCloud, l’une de vos activités 
 
 
 
- 
+ 
 
- 
+ 
 
 
 

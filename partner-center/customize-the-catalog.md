@@ -1,15 +1,18 @@
 ---
 title: Personnaliser le catalogue | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Le catalogue répertorie tous les produits Microsoft et les modules complémentaires disponibles à la vente pour les partenaires.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 626f25e3f56949d658c6ab7ff1fdf1fb1ffdd2ad
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488545"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797052"
 ---
 # <a name="customize-the-catalog"></a>Personnaliser le catalogue
 
@@ -26,9 +29,9 @@ Le catalogue répertorie les produits Microsoft et les modules complémentaires 
 1.  Accédez au menu espace partenaires &gt; **vendre** &gt; **catalogue**.
 2.  Choisissez jusqu’à cinq&nbsp;offres à afficher en haut du catalogue.
 
- 
+ 
 
- 
+ 
 
 
 

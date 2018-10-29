@@ -1,15 +1,18 @@
 ---
 title: Confirmation de l’acceptation du contrat Microsoft Cloud client Forum aux Questions | L’espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: FAQ for customer acceptance confirmation
 author: v-petand
+ms.author: v-petand
 keywords: client, clients, son consentement, Forum aux questions
 ms.localizationpriority: medium
-ms.openlocfilehash: af521520b8650a8c585a3644eaf7a5263e17ba78
-ms.sourcegitcommit: bbb8bf661c73b260abc6565e287cfef3eb4cfa01
+ms.openlocfilehash: be40b55354c1b307ae29ac8db86e397c2886f682
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "5425216"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796642"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Confirmation de l’acceptation du contrat Microsoft Cloud client Forum aux Questions 
 
@@ -26,9 +29,9 @@ Pour plus d’informations, voir [l’acceptation du contrat Microsoft Cloud cli
 
 ## <a href="" id="processfaq"></a>Process
 
-**Quel est le processus de nouveau pour confirmer l’acceptation du client de l’accord de Microsoft Cloud (MCA)?**
+**Quel est le processus de nouveau pour confirmer l’acceptation du client du contrat Microsoft Cloud (MCA)?**
 
-Microsoft s’engage à aider nos clients et partenaires restent en conformité. En tant que partenaire au programme de fournisseur de solutions Cloud (CSP) de Microsoft, vous êtes responsable de la révision de conditions générales Microsoft, notamment l’utilisation acceptable des produits et services auprès des clients Microsoft. Pour mieux aider les partenaires pour répondre aux exigences de conformité et pour assurer la transparence, nous mettons actuellement en place un nouveau processus qui requiert que les partenaires CSP confirmer que leurs clients ont accepté les termes du contrat MCA. À compter de 7 août 2018, nous avons introduit un nouveau champ dans le tableau de bord du partenaire centre interface utilisateur également une API espace partenaires pour les partenaires pour fournir ces informations. Initialement il sera facultatif fournir cette confirmation, cependant, il sera requis à partir de 7 novembre 2018. 
+Microsoft s’engage à aider nos clients et partenaires restent en conformité. En tant que partenaire au programme de fournisseur de solutions Cloud (CSP) de Microsoft, vous êtes responsable de la révision de conditions générales Microsoft, notamment l’utilisation acceptable des produits et services auprès des clients Microsoft. Pour mieux aider les partenaires pour répondre aux exigences de conformité et pour assurer la transparence, nous mettons actuellement en place un nouveau processus qui requiert que les partenaires CSP confirmer que leurs clients ont accepté les termes du contrat MCA. À compter de 7 août 2018, nous avons introduit un nouveau champ dans le tableau de bord du partenaire centre interface utilisateur également une API espace partenaires pour les partenaires pour fournir ces informations. Initialement il sera facultatif fournir cette confirmation, mais il sera requis à partir de 7 novembre 2018. 
 
 **Lorsque cette exigence ne bascule pas en effet?**
 
@@ -40,11 +43,11 @@ Microsoft vérifie que l’adresse de messagerie du client fourni est de format 
 
 **NOUVEAU | Comment pouvez un partenaire prouver acceptation du client de le MCA, si elle est connectée, documentée, numérisées, ou sur papier?**
 
-Le partenaire est responsable de s’assurer que le client a accepté les conditions de la MCA et pour la gestion de leurs propres processus et les enregistrements. À l’aide du processus de tableau de bord du partenaire Center ou API espace partenaires, le partenaire confirme que le client a accepté les conditions de la MCA.
+Le partenaire est responsable de veiller à ce que le client a accepté les conditions de la MCA et pour la gestion de leurs propres processus et les enregistrements. À l’aide du processus de tableau de bord du partenaire Center ou API espace partenaires, le partenaire confirme que le client a accepté les conditions de la MCA.
 
 **NOUVEAU | Comment Microsoft vérifie que le processus de confirmation est terminé pour un client?**
 
-Depuis le 7 novembre 2018, lorsqu’un partenaire fournisseur initie une transaction à l’aide du tableau de bord du centre de l’espace pour un client nouveaux ou existant, systèmes de Microsoft vérifie automatiquement si les informations de confirmation client sont présentes dans l’espace partenaires Tableau de bord. Si elle n’est pas présente, la transaction ne sera pas en mesure de se terminer. 
+Depuis le 7 novembre 2018, lorsqu’un partenaire fournisseur initie une transaction en utilisant le tableau de bord du centre de l’espace pour un client nouveaux ou existant, systèmes de Microsoft vérifie automatiquement si les informations de confirmation client sont présentes dans l’espace partenaires Tableau de bord. Si elle n’est pas présente, la transaction ne sera pas en mesure de se terminer. 
 
 Depuis le 22 mars 2019, lorsqu’un partenaire fournisseur initie une transaction d’un client de nouveau ou existant à l’aide de l’API de l’espace partenaires, systèmes de Microsoft vérifie automatiquement si les informations de confirmation client sont présentes. Si elle n’est pas présente, la transaction ne sera pas en mesure de se terminer. 
 
@@ -54,11 +57,11 @@ Il n’existe aucun processus de notification.
 
 ## <a href="" id="policyfaq"></a>Stratégie
 
-**Pourquoi Microsoft requiert les partenaires confirmer que les clients ont accepté le MCA?** 
+**Pourquoi Microsoft est nécessiter de partenaires confirmer que les clients ont accepté le MCA?** 
 
 Le contrat de Cloud de Microsoft (MCA) protège les partenaires, clients et Microsoft en fournissant des droits d’utilisation du client et les conditions accordées pour les commandes de produits et services Microsoft Cloud. 
 
-Bonne exécution de la MCA protège nos partenaires et clients Microsoft en vous assurant mutuelle alignement sur de nombreuses rubriques importantes, y compris mais pas limité à la protection de sécurité, de confidentialité et de données. Le processus de confirmation permet de garantir une transparence et l’alignement et permet à Microsoft de mieux aider les clients qui ont besoin de répondre rapidement à des enquêtes réglementaires.
+L’exécution correcte de le MCA protège nos partenaires, les clients et Microsoft en vous assurant mutuelle alignement sur de nombreuses rubriques importantes, y compris mais pas limité à la protection de sécurité, de confidentialité et de données. Le processus de confirmation permet de garantir une transparence et l’alignement et permet à Microsoft de mieux aider les clients qui ont besoin de répondre rapidement à des enquêtes réglementaires.
 
 **Les informations de client sont nécessaires pour terminer le processus de confirmation?**
 Les informations suivantes sont nécessaires en ce qui concerne la personne qui l’a accepté le contrat:
@@ -71,7 +74,7 @@ Les informations suivantes sont nécessaires en ce qui concerne la personne qui 
 
 Les partenaires peuvent commencer la confirmation d’acceptation dès que la fonctionnalité est disponible 7 août 2018. À partir de 7 novembre 2018, les utilisateurs du tableau de bord de l’espace partenaires sont requis pour confirmer l’acceptation du client de le MCA sur toutes les transactions de nouveau. 22 mars 2019 API espace partenaires les utilisateurs doivent se faire de même.
 
-Au moment de la mise en œuvre, les nouveaux achats d’un client existant ou modifications au nombre de sièges décompte sur les abonnements existants ne seront pas autorisés jusqu'à ce que l’acceptation du client est confirmée. Pour un nouveau client, les transactions ne seront pas autorisées jusqu'à ce que l’acceptation est confirmée. Le renouvellement automatique n’est pas concerné par cette exigence.
+Au moment de la mise en œuvre, les nouveaux achats d’un client existant ou modifications au nombre de sièges décompte sur les abonnements existants ne seront pas autorisés jusqu'à ce que l’acceptation du client est confirmée. Pour un nouveau client, transactions n’autorise pas jusqu'à ce que l’acceptation est confirmée. Le renouvellement automatique n’est pas concerné par cette exigence.
 
 **Les régions de cette exigence s’appliquent-elles à?**
 
@@ -90,7 +93,7 @@ L’acceptation du contrat Microsoft Cloud doit être confirmée lorsque les par
 
 **Puis-je confirmer l’acceptation pour les clients existants distincts à partir de leurs nouveaux achats ou le nombre de sièges ajouts?**
 
-Oui. Acceptation du client peut être confirmée pour tous les clients couverts par la MCA.
+Oui. Acceptation du client peut être confirmée pour tous les clients couverts par le MCA.
 
 **Quelles sont les exigences pour les clients qui disposent de plusieurs partenaires de fournisseur de solutions cloud?**
 
@@ -98,9 +101,9 @@ Confirmation d’acceptation est confirmée par le partenaire. Si un client fait
 
 **Je suis un revendeur Indirect fournisseur de solutions cloud fonctionne avec des fournisseurs indirects CSP. Quelle est mon responsabilité?**
 
-Il est par contrat, le fournisseur Indirect disposant d’une liaison avec Microsoft pour vous assurer que le client final a accepté le MCA de contrat. Toutefois, les fournisseurs indirects peuvent avoir des dispositions distinctes avec des revendeurs indirects pour collecter d’acceptation du client. Dans ce cas, les fournisseurs indirects devez tout d’abord collecter les informations d’acceptation client requis à partir de ses revendeurs indirects et puis rendre disponible à Microsoft via l’API de l’espace ou le tableau de bord du partenaire centre. Vous pouvez prend en charge ce processus en fournissant rapidement les informations requises pour vos fournisseurs indirects à leur demande.
+Il est par contrat, le fournisseur Indirect disposant d’une liaison avec Microsoft pour vous assurer que le client final a accepté le MCA de contrat. Toutefois, les fournisseurs indirects peuvent avoir des dispositions distinctes avec des revendeurs indirects pour collecter d’acceptation du client. Dans ce cas, les fournisseurs indirects devez tout d’abord collecter les informations d’acceptation client requis à partir de ses revendeurs indirects et puis rendre disponible à Microsoft via l’API de l’espace ou le tableau de bord du partenaire centre. Vous pouvez prendre en charge ce processus par rapidement en fournissant les informations requises pour vos fournisseurs indirects à leur demande.
 
-**Je suis un fournisseur Indirect fournisseur de solutions cloud. Ai-je besoin de coordonner avec mon revendeur Indirect fournisseur de solutions cloud pour être prêt?**
+**Je suis un fournisseur Indirect fournisseur de solutions cloud. Ai-je besoin pour la coordination avec mon revendeur Indirect fournisseur de solutions cloud à préparer?**
 
 Les fournisseurs indirects qui ont besoin pour collecter les informations d’acceptation client requis à partir de ses revendeurs indirects, il est conseillés de communiquer cette exigence à ses revendeurs indirects immédiatement à la distribution et réception de ces informations de coordonnées.
 
@@ -108,19 +111,19 @@ Les fournisseurs indirects qui ont besoin pour collecter les informations d’ac
 
 L’exécution correcte de le MCA protège Microsoft, ses partenaires et des clients en assurant l’alignement mutuelle sur de nombreuses rubriques importantes, y compris mais non limité à la sécurité, de confidentialité et de protection des données. Le processus de confirmation permet de garantir une transparence et l’alignement et permet à Microsoft de mieux aider les clients qui ont besoin de répondre rapidement à des enquêtes réglementaires.
 
-**NOUVEAU | Si un client fonctionne avec un fournisseur Indirect fournisseur de solutions cloud unique, mais les transactions sont effectuées avec des revendeurs indirects plusieurs fournisseurs de solutions cloud, chaque revendeur Indirect fournisseur de solutions cloud a-t-il besoin de fournir le fournisseur Indirect fournisseur de solutions cloud avec les informations de confirmation?**
+**NOUVEAU | Si un client fonctionne avec un fournisseur Indirect fournisseur de solutions cloud unique, mais les transactions sont effectuées avec des revendeurs indirects plusieurs fournisseurs de solutions cloud, chaque revendeur Indirect fournisseur de solutions cloud doit fournir le fournisseur Indirect fournisseur de solutions cloud avec les informations de confirmation?**
 
 Le fournisseur Indirect fournisseur de solutions cloud est responsable de fournir la confirmation d’acceptation du client MCA à Microsoft. Pour chaque compte client, confirmation qu’un seul peut être enregistrée dans le tableau de bord du centre de l’espace en même temps. 
 
-Le fournisseur Indirect fournisseur de solutions cloud est responsable de confirmer qu’une personne de contact client responsable d’acceptez la MCA a fait, quel que soit le nombre de fournisseur de solutions cloud des revendeurs indirects qu’ils effectuer des transactions avec.
+Le fournisseur Indirect fournisseur de solutions cloud est responsable de confirmer qu’un client contact responsable de J’accepte le MCA a fait, quel que soit le nombre de fournisseur de solutions cloud des revendeurs indirects ils effectuer des transactions avec.
 
-**NOUVEAU | Qui doit être la personne autorisée à confirmer l’acceptation de la MCA à l’intérieur de l’organisation du client?**
+**NOUVEAU | Qui doit être la personne habilitée à confirmer l’acceptation de la MCA à l’intérieur de l’organisation du client?**
 
-Il incombe du partenaire pour obtenir l’acceptation du client de le MCA provenant d’une personne à l’intérieur de l’organisation du client. Il incombe du client afin de déterminer qui est autorisé à fournir acceptation. 
+Il incombe du partenaire pour obtenir l’acceptation du client de le MCA provenant d’une personne à l’intérieur de l’organisation du client. Il incombe du client afin de déterminer qui est autorisé à fournir l’acceptation. 
 
 **NOUVEAU | Quelle version de la MCA sont responsable de la confirmation d’acceptation du client pour les partenaires? Les partenaires doivent-ils indiquer quelle version de la MCA a été acceptée par le client?**
 
-Les partenaires sont chargés sur l’utilisation la plus récente MCA lors de la création de transactions de fournisseur de solutions cloud avec un nouveau client. Les partenaires doivent confirmer l’acceptation de la plus récente MCA lorsque le renouvellement, la modification ou la fin de nouvelles transactions avec un client existant. 
+Les partenaires sont responsables de l’utilisation la plus récente MCA lors de la création de transactions de fournisseur de solutions cloud avec un nouveau client. Les partenaires doivent confirmer l’acceptation de la plus récente MCA lorsque le renouvellement, la modification ou la fin de nouvelles transactions avec un client existant. 
 
 Dans le cas que le MCA est mis à jour avant le renouvellement, les partenaires ne sont pas nécessaires aux clients de nouveau obtenir immédiatement acceptation du client de le MCA, mais doivent confirmer à nouveau son consentement pour le MCA avant le renouvellement. Toutefois, vous pouvez souhaiter demandez au client d’accepter les termes du contrat nouvel avant le renouvellement pour tirer parti des termes du contrat de nouvel et amélioré de la MCA.
 
@@ -142,16 +145,16 @@ Une fois, vous avez confirmé que le client a accepté le MCA, ces informations 
 
 Dans le cas que le MCA est mis à jour avant le renouvellement, les partenaires ne sont pas nécessaires aux clients de nouveau obtenir immédiatement acceptation du client de le MCA, mais doivent confirmer à nouveau son consentement pour le MCA avant le renouvellement. Toutefois, vous pouvez souhaiter demandez au client d’accepter les termes du contrat nouvel avant le renouvellement pour tirer parti des termes du contrat de nouvel et amélioré de la MCA.
 
-**NOUVEAU | Je ne suis pas à l’aise en indiquant les informations de contact direct du mon client final à Microsoft. Comment Microsoft utilise ces informations?**
+**NOUVEAU | Je ne suis pas à l’aise en indiquant les informations de contact direct de mon client final à Microsoft. Comment Microsoft utilise ces informations?**
 
-Lorsqu’un partenaire crée un locataire du client, il est tenu de proposer une coordonnées du contact principal pour le client. Par les termes du contrat de Services en ligne, «Microsoft traite les données personnelles uniquement sur les instructions documentées à partir du client.»
+Lorsqu’un partenaire crée un locataire du client, il est tenu de proposer une coordonnées du contact principal pour le client. Par les termes du contrat de Services en ligne, «Microsoft traite les données personnelles uniquement sur les instructions relatives à partir du client.»
 
 ## <a href="" id="technicalfaq"></a>Informations techniques
 
 **Comment les partenaires confirmer l’acceptation du client et fournir à Microsoft? Quels outils sont disponibles pour prendre en charge ce processus?**
 
 Il existe deux méthodes qui sont disponibles à partir de 7 août 2018, pour aider les partenaires: 
-1.  Les partenaires peuvent utiliser l’API de l’espace pour vérifier par programme acceptation du client. 
+1.  Les partenaires peuvent utiliser l’API de l’espace pour vérifier par programmation acceptation du client. 
 2.  Les partenaires peuvent utiliser le tableau de bord du centre de l’espace pour confirmer l’acceptation du client.
 
 **NOUVEAU | Je suis un partenaire fournisseur de solutions cloud qui utilise l’API de l’espace. Les modifications apportées aux API ai-je besoin de prendre en compte?** 
@@ -174,11 +177,11 @@ Acceptation peut être confirmée manuellement via le tableau de bord du centre 
 
 **NOUVEAU | Je suis un partenaire à l’aide d’une plateforme de tiers, ou «middleware», qui effectue la fonctionnalité pour connecter des systèmes de mon entreprise avec l’espace partenaires. Que dois-je faire?**
 
-Les partenaires à l’aide de plateformes qui s’intègrent à l’API de l’espace partenaires sont invités à parler directement avec les fournisseurs concernant leurs plans et les montages pour l’intégration de la fonctionnalité de l’API de l’espace qui automatise le processus de confirmation de client.
+Les partenaires à l’aide de plateformes qui s’intègrent à l’API de l’espace partenaires sont invités à parlez directement avec les fournisseurs concernant leurs plans et les montages pour l’intégration de la fonctionnalité de l’API de l’espace qui automatise le processus de confirmation du client.
 
 **NOUVEAU | Vous fournissez un exemple de flux d’API pour importer le nom complet du client, une adresse de messagerie et une date d’acceptation MCA?**
 
-Les partenaires sont invités à consulter la documentation de l’API de l’espace pour plus d’informations et des exemples.
+Partenaires sont invités à consulter la documentation de l’API de l’espace pour plus d’informations et des exemples.
 
 **NOUVEAU | Comment obtenir le plus récente MCA à afficher pour le client et à utiliser dans l’enregistrement de confirmation dans le cadre du processus de mon API?**
 
@@ -194,6 +197,6 @@ Le client achète à partir du partenaire fournisseur de solutions cloud, pas di
 
 **NOUVEAU | J’utilise l’interface utilisateur web à la fois API et tableau de bord du partenaire Center pour confirmer l’acceptation du client MCA. Après 7 novembre 2018, quelles sont mes options de confirmer l’acceptation du client?**
 
-Les deux options sont disponibles et acceptable pour la confirmation d’acceptation du client MCA. Transactions à l’aide du tableau de bord du centre de partenaires nécessite confirmation est présente à partir de 7 novembre 2018. Transactions à l’aide de l’API de l’espace nécessite confirmation est présente à partir de 22 mars 2019.
+Les deux options sont disponibles et acceptable pour la confirmation d’acceptation du client MCA. Transactions à l’aide du tableau de bord du centre de partenaires nécessite confirmation est présente à partir de 7 novembre 2018. Transactions à l’aide de l’API de l’espace nécessite confirmation est présente depuis le 22 mars 2019.
 
 

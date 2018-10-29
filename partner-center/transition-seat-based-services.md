@@ -1,14 +1,17 @@
 ---
 title: Transfert des clients des services basés sur les licences vers le programme Fournisseur de solutionsCloud sur l'Espace partenaires | Espace partenaires
-description: Passer des clients et leurs abonnements vers le programme de fournisseur de solutions cloud à partir d’un autre canal ou d’un autre partenaire.
+ms.topic: article
+ms.date: 10/29/2018
+description: Déplacer des clients et leurs abonnements vers le programme CSP à partir d’un autre canal ou d’un autre partenaire.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1fd2b98de57be3ddbc56c1e96d7a37fa81d5f7b0
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62c85a7ff33e9dd11fa867074c53cd19b4015139
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488605"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795312"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>Transférer des clients des services basés sur les licences vers le programme fournisseur de solutions Cloud à partir d’un autre canal ou d’un partenaire à un autre
 
@@ -20,7 +23,7 @@ Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonne
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Transfert des abonnements basés sur les licences de vos clients vers le programme Fournisseur de solutionsCloud
 
-1. Sélectionnez **clients** à partir du menu de l’espace partenaires, puis sélectionnez **demander une relation de revendeur**. Pour fournir la prise en charge pour les comptes multicanaux, vous faites de même.
+1. Sélectionnez des **clients** dans le menu espace partenaires, puis sélectionnez **demander une relation de revendeur**. Pour prendre en charge pour les comptes multicanaux, vous faites de même.
 
 2.  Une fois que le client accepte votre invitation, vous serez en mesure de configurer les abonnements de votre choix et les licences pour le client (par exemple, l’offre Office 365 même que le client a achetée précédemment).
 

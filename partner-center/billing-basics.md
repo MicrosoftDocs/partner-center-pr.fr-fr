@@ -1,15 +1,18 @@
 ---
 title: Notions de base de facturation | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490065"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797102"
 ---
 # <a name="billing-basics"></a>Notions de base de facturation
 
@@ -77,7 +80,7 @@ Vous disposez désormais d’une option de facturation annuelle en plus de l’o
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>Facturation basée sur la licence
 
@@ -109,7 +112,7 @@ Vous disposez désormais d’une option de facturation annuelle en plus de l’o
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>Facturation basée sur l’utilisation
 
@@ -155,7 +158,7 @@ Vos clients paient à l’avance le service Azure Reserved VM Instances. Lorsque
 >[!IMPORTANT]
 >Si vous achetez Azure Reserved VM Instances pour un client dans un marché dont la devise est différente de la vôtre, la devise de facturation par défaut sera celle du marché du client, et non pas la vôtre. Si vous avez des clients dans plusieurs pays, vous recevrez des factures et fichiers de rapprochement distincts pour chaque devise de facturation des clients, ce qui vous permettra de facturer vos clients dans la devise appropriée. 
 
-Pour accéder aux factures des frais ponctuels et fichiers de rapprochement, sélectionnez la **facturation** à partir de l’espace partenaires, puis sélectionnez **une seule fois**. 
+Pour accéder aux factures des frais ponctuels et fichiers de rapprochement, sélectionnez **la facturation** à partir de l’espace partenaires, puis sélectionnez **une seule fois**. 
 
 ### <a name="manage-your-one-time-billing"></a>Gérer votre facturation de frais ponctuels
 

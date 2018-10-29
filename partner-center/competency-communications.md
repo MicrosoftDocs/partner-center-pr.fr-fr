@@ -1,16 +1,19 @@
 ---
 title: Compétence Communications
+ms.topic: article
+ms.date: 10/29/2018
 description: La compétence Communications reconnaît les partenaires en tant que fournisseurs de solutions SkypeEntreprise novatrices et personnalisées.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: compétence, compétences, Communications
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b202d8a1f134748f18b66edae1bae4b44e00aaef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877229"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794632"
 ---
 >[!IMPORTANT]
 >Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).

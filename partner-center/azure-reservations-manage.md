@@ -1,15 +1,18 @@
 ---
 title: Gérer des réservations MicrosoftAzure pour vos clients | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, réservations, gérer, facturer, acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
-ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
+ms.openlocfilehash: 20286d269a3074f89ca1368c26992feb03f9d182
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "4562271"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795452"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations MicrosoftAzure pour vos clients
 
@@ -19,11 +22,11 @@ ms.locfileid: "4562271"
 -  Portail Microsoft Azure
 -  Partenaires fournisseurs de solutions Cloud
 
-Pour gérer les réservations Azure après l’achat vos clients, vous allez sélectionner le client et la réservation à gérer dans l’espace partenaires et apportez des modifications à la réservation dans le portail Azure. 
+Pour gérer des réservations Azure après l’achat vos clients, vous allez sélectionner le client et la réservation à gérer dans l’espace partenaires et apportez des modifications à la réservation dans le portail Azure. 
 
 1. Pour commencer, sélectionnez les **clients** à partir de votre menu de l’espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les réservations. 
 
-2. Dans le menu de page de détails du client, sélectionnez des **réservations Azure** , puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
+2. Dans le menu de page de détails du client, sélectionnez les **réservations Azure** , puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
 
 3. Sous **Actions**, sélectionnez **Gérer** pour accéder au dossier de réservation du client dans le portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
 
@@ -44,7 +47,7 @@ Les clients peuvent annuler une réservation à tout moment (jusqu'à 50000$ par
 
 Voir ci-dessous pour les frais et les détails de l’annulation.
 
-|**Date d'annulation**<br> (en jours)   |**Utilisation**    |**Crédit**  |**Résiliation anticipée**<br> frais    |**Limite de remboursement** | 
+|**Date d’annulation**<br> (jours)   |**Utilisation**    |**Crédit**  |**Résiliation anticipée**<br> frais    |**Limite de remboursement** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |Moins de 5                       | Non          | 100%       | Non                              | 50 000 USD   |
 |Moins de 5                       | Oui         | Calculés au prorata  | Non                              | 50 000 USD   |

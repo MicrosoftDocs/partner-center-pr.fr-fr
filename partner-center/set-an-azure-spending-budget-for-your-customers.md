@@ -1,15 +1,18 @@
 ---
 title: Définir un budget Azure pour vos clients | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Dans l'Espace partenaires, vous pouvez définir un budget mensuel par client afin que sa facture Azure ne le surprenne pas à la fin du mois.
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 98b6a4839b599a43ba6c10506468be7dbd064d43
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488955"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794982"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Définir un budget Azure pour vos clients
 
@@ -30,7 +33,7 @@ Pour aider les clients à gérer leurs dépenses Azure, vous pouvez définir un 
 Cette option fournit une estimation des données de dépenses Azure. Les montants facturés réels peuvent varier et les valeurs ne prennent pas en compte les taxes, les crédits, les ajustements ou autres frais pouvant s'appliquer. Les données de dépenses sont actualisées une fois par jour. Les clients continueront d'utiliser les services et ressources Azure et à être facturé en conséquence, sauf si vous modifiez ses paramètres de compte dans le portail Azure. 
 
 > [!NOTE]  
-> Cette fonctionnalité n’est pas disponible dans un bac à sable ou de Test dans les comptes de Production TIP ().
+> Cette fonctionnalité n’est pas disponible dans le bac à sable ou de Test dans les comptes de Production TIP ().
 
 **Activer les notifications par courrier électronique**
 1.  Dans le menu espace partenaires, sélectionnez **les dépenses Azure**.
@@ -54,9 +57,9 @@ Cette option fournit une estimation des données de dépenses Azure. Les montant
 3.  Sur la page de gestion des clients, sous **Abonnements basés sur l'utilisation**, choisissez un abonnement. Consultez l'utilisation estimée actuelle et une liste des coûts détaillés par service.
 
 
- 
+ 
 
- 
+ 
 
 
 

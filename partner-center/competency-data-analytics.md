@@ -1,16 +1,19 @@
 ---
 title: Compétence Analyse de données
+ms.topic: article
+ms.date: 10/29/2018
 description: Si votre entreprise est spécialisée dans l’analyse des données qui permettent aux clients d’approfondir leurs connaissances, d’établir des prévisions ou de formuler des recommandations, la compétence Analyse de données vous offre une plateforme pour développer et prouver vos capacités.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: compétence, compétences, Analyse de données
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875299"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796222"
 ---
 >[!IMPORTANT]
 >Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).

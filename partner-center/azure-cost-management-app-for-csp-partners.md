@@ -1,16 +1,19 @@
 ---
 title: Azure Cost Management par Cloudyn pour les partenaires fournisseurs de solutions Cloud | Espacepartenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Azure Cost Management par Cloudyn requiert un accès fourni à l'API de l'Espace partenaires.
 author: Janet
+ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489385"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796092"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Application Azure Cost Management pour les partenaires fournisseurs de solutions Cloud  
 

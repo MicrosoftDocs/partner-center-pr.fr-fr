@@ -1,16 +1,19 @@
 ---
 title: Vérifier l’état du service | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: L’une des premières choses que vous pouvez faire lorsqu’un client rencontre des problèmes avec un service est de vérifier l’état du service.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: health, service health,service problems
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ae671016e6d8d8b77c85b56e268b413cee5c28f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 81e4cb9ed1d866f52767a4fe2a5065d0e595d79d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489305"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797112"
 ---
 # <a name="check-service-health"></a>Vérifier l’état du service
 
@@ -30,9 +33,9 @@ Pendant une indisponibilité de service, Microsoft fournit des mises à jour ré
 
 Si le problème persiste à l’issue de l’interruption de service, envoyez une demande de service. Voir [Signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md).
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,14 +1,17 @@
 ---
 title: Informations fiscales de l’organisation | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Le cas échéant, le numéro de TVA doit être ajouté aux informations de votre organisation
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 84e85e54f9098c7cae57e1bd7f5415b0389b409d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 94cee559de16e10c23cc1d85aff7f661859373be
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488655"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797142"
 ---
 # <a name="organization-tax-information"></a>Informations fiscales de l’organisation
 
@@ -28,7 +31,7 @@ Les taxes associées aux achats de l'Espace partenaires sont déterminées par v
 
 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: Gérez vos avantages MicrosoftPartner Network | Espace partenaires
-description: En tant que membre de MicrosoftPartner Network, vous avez le droit d'acheter certains avantages. Explique comment activer et gérer vos avantages d’adhésion dans l’espace partenaires.
+ms.topic: article
+ms.date: 10/29/2018
+description: En tant que membre de MicrosoftPartner Network, vous avez le droit d'acheter certains avantages. Explique comment activer et gérer vos avantages réservés aux membres dans l’espace partenaires.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: MPN, avantages d'adhésion, adhésion
 ms.localizationpriority: medium
-ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489795"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796382"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer les avantages de votre adhésion à MicrosoftPartnerNetwork
 
@@ -18,7 +21,7 @@ ms.locfileid: "4489795"
 -  Espace partenaires
 
 >[!IMPORTANT]
->Cet article explique comment commencer à utiliser votre Microsoft Partner Network (MPN) adhésion avantages dans l’espace partenaires (précédemment appelé espace partenaires) - ce site. Si vous n’avez pas encore reçu d’invitation à transférer les informations de votre entreprise à partir de Partner Membership Center (PMC) à l’espace partenaires, vous devez continuer à gérer vos avantages d’adhésion au MPN dans PMC. [Se connecter](https://partner.microsoft.com/_login?authType=OpenIdConnect) au Partner Membership Center maintenant.   
+>Cet article explique comment commencer à utiliser votre Microsoft Partner Network (MPN) adhésion avantages dans l’espace partenaires (précédemment appelé espace partenaires) - ce site. Si vous n’avez pas encore reçu d’invitation à transférer les informations de votre entreprise à partir de Partner Membership Center (PMC) dans l’espace partenaires, vous devez continuer à gérer vos avantages d’adhésion au MPN dans PMC. [Se connecter](https://partner.microsoft.com/_login?authType=OpenIdConnect) au Partner Membership Center maintenant.   
 
 Lorsque vous rejoignez le MicrosoftPartner Network (MPN), vous avez accès à tous les avantages d’adhésion qui peuvent vous aider à gérer et à développer votre activité. Si vous n’êtes pas membre de MPN, vous pouvez adhérer sur [le site MPN](https://partner.microsoft.com/membership).
 
@@ -28,7 +31,7 @@ Lorsque vous rejoignez le MicrosoftPartner Network (MPN), vous avez accès à to
 Une fois que vous avez acheté un package d'avantages d'adhésion, vous devez obtenir les clés logicielles et attribuer des licences, des abonnements et d'autres avantages aux employés pour commencer à les utiliser. 
 
 >[!IMPORTANT]
->Alors que vous n’avez pas à être un administrateur global dans votre organisation pour acheter des avantages, vous n’avez pas besoin d’être l’administrateur global pour attribuer des avantages aux employés.  Si vous le souhaitez, vous pouvez devenir un administrateur global en suivant les instructions sur votre [page **avantages** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). En outre, votre organisation peut-être déjà un administrateur général. par conséquent, veillez à examiner avec votre équipe.
+>Alors que vous n’êtes pas obligé d’être un administrateur global dans votre organisation pour acheter des avantages, vous n’avez pas besoin d’être l’administrateur global pour attribuer des avantages aux employés.  Si vous le souhaitez, vous pouvez devenir un administrateur global en suivant les instructions sur votre [page **avantages** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). En outre, votre organisation peut-être déjà un administrateur général. par conséquent, veillez à examiner avec votre équipe.
 
 Vos packages d'avantages incluent les allocations de licences logicielles de droits d’utilisation interne, les services cloud, les abonnements Visual Studio et le support. Vous pouvez obtenir plus de détails sur l'abonnement ActionPack sur le site [MicrosoftPartnerNetwork](https://partner.microsoft.com/membership/internal-use-software).  
 

@@ -1,14 +1,17 @@
 ---
 title: 'Clients du Centre d’administration des partenaires Office365: les opérations de l’entreprise vont migrer vers l’Espace partenaires| Espace partenaires'
+ms.topic: article
+ms.date: 10/29/2018
 description: Points clés pour la migration des clients du Centre d’administration des partenaires Office365 vers l’Espace partenaires
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c482565f51ae42b0735832f0c305fc55150032b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: d863fcf84006eed6b22b2160f611a26877efd0c7
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489325"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797012"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clients du Centre d’administration des partenaires Office365: préparez-vous à migrer les opérations de l’entreprise sur l’Espace partenaires
 
@@ -41,5 +44,5 @@ Les tâches dans l'Espace partenaires s’effectue différemment par rapport à 
 | Demandes de service: liste des clients: Centre d’administration Office365 | L’espace partenaires: Clients > administrer les services |
 | Demandes de service: liste des clients: demandes de service | L’espace partenaires: Demande de Service > demandes de clients |
 | Demandes de service: avec indicateur | Tableau de bord: Clients: sélectionner l’étoile en regard du nom de l’entreprise |
-| Demande de service > Administration des clients > Administration pour le compte de (AOBO) | L’espace partenaires: Clients > Sélectionner un client > sélectionnez un abonnement > sélectionnez le revendeur produit désigné |
+| Demande de service > Administration des clients > Administration pour le compte de (AOBO) | L’espace partenaires: Clients > Sélectionner un client > sélectionnez un abonnement > Sélectionner le revendeur produit désigné |
 

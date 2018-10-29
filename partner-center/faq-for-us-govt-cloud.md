@@ -1,14 +1,17 @@
 ---
 title: Forum aux questions pour l'Espace partenaires de Microsoft Cloud for US Government | Forum aux questions pour l'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+ms.topic: article
+ms.date: 10/29/2018
 description: Reportez-vous à ce forum aux questions pour en savoir plus sur le programme Fournisseur de solutions Cloud de Microsoft Cloud for US Government. Vous pouvez également contacter votre responsable de compte pour plus d’informations.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490215"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797182"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Forum aux questions pour l’espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -23,11 +26,11 @@ Reportez-vous à ce forum aux questions pour en savoir plus sur le programme Fou
 ### <a name="common"></a>Common
 **Qu’est-ce que MicrosoftCloud pour le gouvernement des États-Unis?**
 
-Conçu pour le gouvernement des États-Unis de Mairies, Microsoft Cloud pour le gouvernement des États-Unis permet des clients du secteur public aux États-Unis, d’agences fédérales aux gouvernements petit village — pour sélectionner à partir d’une plage de services cloud computing. Pour mieux répondre aux besoins spécifiques de ses clients, Microsoft a lourdement investi dans les centres de données et s’efforce de répondre aux exigences de conformité des politiques, des mandats et des normes étatiques et fédérales des États-Unis. 
+Conçu pour le gouvernement des États-Unis de Mairies, Microsoft Cloud pour le gouvernement des États-Unis permet clients du secteur public aux États-Unis, d’agences fédérales aux gouvernements petit village — pour sélectionner à partir d’une plage de services cloud computing. Pour mieux répondre aux besoins spécifiques de ses clients, Microsoft a lourdement investi dans les centres de données et s’efforce de répondre aux exigences de conformité des politiques, des mandats et des normes étatiques et fédérales des États-Unis. 
 
 **Qui est éligible au programmeFournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis?**
 
-Les partenaires aux États-Unis qui servent fédérales, nationales, locales et gouvernementales américaines dans le cadre de leurs activités gouvernementales sont éligibles pour le programme fournisseur de solutions cloud de cloud Microsoft Government. Microsoft a mis en place un programme de validation strict pour établir l’éligibilité des partenaires avant de les autoriser à accéder au cloud Microsoft du gouvernement. Pour être éligible, vous devez prouver que vous collaborez avec des clients gouvernementaux. Le processus d’inscription au programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis a été élargi afin d’inclure les données supplémentaires requises pour la validation. Les preuves peuvent notamment inclure, sans s’y limiter, des numéros de contrats signés avec des entités gouvernementales et des lettres de prise en charge de votre client gouvernemental.
+Les partenaires aux États-Unis qui servent fédérales, nationales, locales et gouvernementales américaines dans le cadre de leurs activités gouvernementales sont éligibles pour le programme CSP de cloud Microsoft Government. Microsoft a mis en place un programme de validation strict pour établir l’éligibilité des partenaires avant de les autoriser à accéder au cloud Microsoft du gouvernement. Pour être éligible, vous devez prouver que vous collaborez avec des clients gouvernementaux. Le processus d’inscription au programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis a été élargi afin d’inclure les données supplémentaires requises pour la validation. Les preuves peuvent notamment inclure, sans s’y limiter, des numéros de contrats signés avec des entités gouvernementales et des lettres de prise en charge de votre client gouvernemental.
 
 **La tarification client est-elle la même que celle de CSPCommercial?**
 
@@ -41,11 +44,11 @@ Oui. Le modèle de remise des partenaires du programme Fournisseur de solutions 
 
 Le programmeFournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement diffère de CSPCommercial sur les points suivants:
 
--   Éligibilité: Le programme CSP de cloud Microsoft Government est disponible uniquement pour les partenaires États-Unis qui servent fédérales, nationales, locales et gouvernementales américaines dans le cadre de leurs activités gouvernementales. Microsoft a mis en place un programme de validation strict pour établir l’éligibilité des partenaires avant de les autoriser à accéder au cloud du gouvernement des États-Unis.
+-   Éligibilité: Le programme CSP de cloud Microsoft Government est disponible uniquement pour les partenaires États-Unis qui servent des entités fédérales, nationales, locales et gouvernementales américaines dans le cadre de leurs activités gouvernementales. Microsoft a mis en place un programme de validation strict pour établir l’éligibilité des partenaires avant de les autoriser à accéder au cloud du gouvernement des États-Unis.
 
 -   Intégration: les partenaires doivent intégrer le programmeFournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis séparément de CSPCommercial.
 
--   Disponibilité du produit: à la fois Azure Government et des services basés sur les sièges comme Office 365, Enterprise Mobility + Security et Dynamics 365 sont disponibles dans le programme fournisseur de solutions cloud pour le gouvernement des États-Unis de Microsoft Cloud. 
+-   Disponibilité du produit: à la fois Azure Government et des services basés sur les sièges comme Office 365, Enterprise Mobility + Security et Dynamics 365 sont disponibles dans le programme fournisseur de solutions cloud Microsoft Cloud pour le gouvernement. 
 
 -   Signataires: le contrat de revendeur MicrosoftCloud (MCRA) a été mis à jour pour refléter les conditions spécifiques au gouvernement.
 

@@ -1,15 +1,18 @@
 ---
-title: Dimensionnement d’une machine virtuelle Microsoft Azure pour l’utilisation maximale de réservation | L’espace partenaires
+title: Dimensionnement d’une machine virtuelle Microsoft Azure pour utilisation maximale de réservation | L’espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
+ms.author: v-petand
 keywords: azure, réservations, machines virtuelles, gérer, utilisation, dimensionnement
 ms.localizationpriority: medium
-ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489615"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795922"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement d’une machine virtuelle Microsoft Azure en vue d'une utilisation optimale de la réservation 
 

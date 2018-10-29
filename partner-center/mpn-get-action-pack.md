@@ -1,15 +1,18 @@
 ---
 title: Acheter ou renouveler un abonnement MicrosoftActionPack | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Découvrez comment obtenir MicrosoftActionPack, qu'il s'agisse d'un premier achat ou d'un renouvellement.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490125"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795042"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Premier achat ou renouvellement d'un abonnement MicrosoftActionPack
 
@@ -46,7 +49,7 @@ Une fois membre du réseau de partenaires, suivez les [instructions sur le site 
 
     - Suivre les étapes pour renouveler votre abonnement dans PMC, ou
 
-    - Obtenir un message vous invitant à renouveler votre abonnement dans l’espace partenaires - ce site
+    - Recevoir un message vous invitant à renouveler votre abonnement dans l’espace partenaires - ce site
 
 >[!IMPORTANT]
 >Si vous êtes invité à renouveler votre abonnement dans l’espace partenaires, veuillez noter que nous avons modifié notre politique de fenêtre de renouvellement et vous pouvez renouveler votre abonnement qu’après son expiration. Par exemple, si votre abonnement arrive à expiration le 22juin, vous pouvez le renouveler à partir du 23juin et pendant les 30jours suivants.       

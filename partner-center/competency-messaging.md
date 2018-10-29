@@ -1,16 +1,19 @@
 ---
 title: Compétence Messagerie
+ms.topic: article
+ms.date: 10/29/2018
 description: La compétence Messagerie reconnaît les partenaires qui savent gagner un avantage compétitif, raccourcir les cycles de ventes et développer leur activité en mettant en valeurs leurs compétences en tant que fournisseur qualifié de solutions MicrosoftExchange.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: compétence, compétences, Messagerie
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0675b73fa5fa6fb6967734645ad298d500bb1f87
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 04aa26af89dc183ce9e07b9020a50d6d4dfa87d1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875679"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796932"
 ---
 >[!IMPORTANT]
 >Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).

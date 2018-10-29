@@ -1,16 +1,19 @@
 ---
 title: Assigner des contacts de support | Espacepartenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: En tant que partenaire revendeur, vous pouvez désigner un revendeur comme contact de support.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
+ms.author: kenpacq
 keywords: agent d’aide, support, affecter un contact de support, contact chargé du support
 ms.localizationpriority: medium
-ms.openlocfilehash: 323906a5554fa081496fc94e4396dee8681d59eb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489445"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795292"
 ---
 # <a name="assign-support-contacts"></a>Assigner des contacts de support
 

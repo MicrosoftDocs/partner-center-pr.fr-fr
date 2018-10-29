@@ -1,15 +1,18 @@
 ---
 title: Faire remonter des problèmes à Microsoft | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Vous devez normalement résoudre les problèmes pour le compte de vos clients.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489375"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797222"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Faire remonter des problèmes à Microsoft
 
@@ -35,23 +38,23 @@ Toutefois, il existe plusieurs catégories de problèmes que vous devez transmet
 
 ## <a name="submit-a-support-request"></a>Soumettre une demande de support
 
-1. À partir de l’espace partenaires, sélectionnez les **clients**.
+1. Dans l’espace partenaires, sélectionnez **clients**.
 2. Sélectionnez le client qui ont besoin de la prise en charge.
 3. Sélectionnez la **gestion du Service** et **demandes de Service**.
 4. Sélectionnez **une nouvelle demande** , puis sélectionnez **Microsoft Office 365**.
 5. Vous êtes redirigé vers le portail Office 365 où vous devez vous connecter à l’aide de vos informations d’identification de l’espace partenaires.
-6. Sélectionnez la **prise en charge**, la **nouvelle demande de service** à partir du menu de gauche.
+6. Sélectionnez **prise en charge**, **nouvelle demande de service** à partir du menu de gauche.
 7. Sélectionnez la rubrique prise en charge.
 
 >[!NOTE]
->Il est important de démarrer à partir de l’espace partenaires afin que la relation entre le partenaire et du client est maintenue. 
+>Il est important de démarrer à partir de l’espace partenaires afin que la relation entre le partenaire et du client est préservée. 
 
 
-Pour plus d’informations sur les rapports de problèmes au nom du client, voir [signaler des problèmes au nom du client](report-problems-on-behalf-of-a-customer.md).
+Pour plus d’informations sur les rapports de problèmes au nom du client, consultez [signaler des problèmes au nom du client](report-problems-on-behalf-of-a-customer.md).
 
- 
+ 
 
- 
+ 
 
 
 

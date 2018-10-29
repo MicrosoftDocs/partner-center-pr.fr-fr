@@ -1,15 +1,18 @@
 ---
 title: Migration des abonnements Skype Entreprise Online Plan1 vers les nouvelles versions d’Office365 | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Plans Skype Entreprise, retrait de Skype, Office365
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489805"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797162"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migration des abonnements Skype Entreprise Online Plan1 vers les nouvelles versions de MicrosoftOffice365
 
@@ -51,13 +54,13 @@ Microsoft offre en permanence de nouveaux produits et services à nos partenaire
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrer vos clients vers de nouvelles formules
 
-1. Pour acheter le nouvel abonnement, dans le **menu espace partenaires**, sélectionnez des **clients**, sélectionnez le client dont vous voulez déplacer, puis sélectionnez **Ajouter les abonnements**.
+1. Pour acheter le nouvel abonnement, dans le **menu espace partenaires**, sélectionnez **clients**, sélectionnez le client dont vous voulez déplacer, puis sélectionnez **Ajouter les abonnements**.
 
 2. Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, l'une des options ci-dessus), indiquez le nombre de licences, puis sélectionnez **Envoyer**. 
 
 Votre client doit maintenant avoir un ancien et un nouvel abonnement: l'ancien abonnement Skype Entreprise Online Plan1 et le nouvel abonnement «cible», par exemple, Option1: Office365 Entreprise F1.
 
-3. Pour réaffecter les licences des utilisateurs du client, dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client que vous déplacez, puis sélectionnez **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
+3. Pour réaffecter les licences des utilisateurs du client, dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client que vous déplacez, puis **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
 
 4. Pour réaffecter la licence utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
 

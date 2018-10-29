@@ -1,14 +1,17 @@
 ---
 title: S’inscrire au programme Fournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
+ms.topic: article
+ms.date: 10/29/2018
 description: Avant de vous inscrire au programme Fournisseur de solutionsCloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377661"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796332"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -66,7 +69,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
 > [!NOTE]  
 > Une fois que des utilisateurs sont affectés au rôle Agent administrateur, ils peuvent accéder à votre liste de clients sur la page **Clients** et [ajouter de nouveaux clients](add-a-new-customer.md).   
 
-1.  Connectez-vous au portail Microsoft Azure à l’administrateur https://portal.azure.us/.
+1.  Se connecter au portail d’administration Microsoft Azure à https://portal.azure.us/.
 
 2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure ActiveDirectory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
  

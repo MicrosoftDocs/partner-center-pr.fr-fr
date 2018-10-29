@@ -1,15 +1,18 @@
 ---
 title: Signaler des problèmes relatifs à l’Espace partenaires | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Comment signaler des problèmes avec l'Espace partenaires et collecter des informations de diagnostic pour notre équipe de Support.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7010f70ae6af549aab1a8f1affb926cf261d534
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489275"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795322"
 ---
 # <a name="report-problems-with-partner-center"></a>Signaler des problèmes avec l’Espace partenaires
 
@@ -19,11 +22,11 @@ ms.locfileid: "4489275"
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 -  Espace partenaires de MicrosoftCloud Germany
 
-Prise en charge de contact de l’espace partenaires si vous rencontrez des problèmes avec l’espace partenaires, notamment des bogues ou des interruptions de service.
+Prise en charge de contact l’espace partenaires si vous rencontrez des problèmes avec l’espace partenaires, notamment des bogues ou des interruptions de service.
 
 **Signaler un problème avec l’espace partenaires**
 
-1.  Dans votre **Espace partenaires**, sélectionnez l’icône de **prise en charge** , puis sélectionnez **les demandes de l’espace partenaires**.
+1.  Dans votre **Centre de partenaires**, sélectionnez l’icône de **prise en charge** , puis sélectionnez **les demandes de l’espace partenaires**.
 
 2.  Sélectionnez **Nouvelle demande**.
 

@@ -1,14 +1,17 @@
 ---
 title: Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis | Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+ms.topic: article
+ms.date: 10/29/2018
 description: L'Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis est le portail d’entreprise des partenaires Microsoft qui souhaitent proposer des solutions Microsoft Cloud aux clients travaillant avec des agences gouvernementales des États-Unis.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: efbcf0ee2c6a7f60d50c07320894c908168a10f2
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 245390fdea46f891f3cc75830bd11952d56dbcdc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377521"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796712"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
 

@@ -1,16 +1,19 @@
 ---
 title: Autorisation régionale de Fournisseur de solutions&nbsp;Cloud | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Avec l’autorisation régionale, les partenaires d’entreprises internationales peuvent maintenant gérer plus facilement les clients de différentes régions et pays du monde entier.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: locataire Azure AD, consolider les locataires, stratégie concernant les locataires, locataires dans le programme Fournisseur de solutions Cloud, comptes du programme Fournisseur de solutions Cloud, marchés et territoires du programme Fournisseur de solutions Cloud, où puis-je vendre par le biais du programme Fournisseur de solutions Cloud?
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377631"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796632"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Stratégies de consolidation des locataires dans le programme Fournisseur de solutions Cloud
 
@@ -69,7 +72,7 @@ La consolidation des locataires est facultative. Les partenaires peuvent continu
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>Un locataire pour plusieurs régions ou pays
 
@@ -101,7 +104,7 @@ Les partenaires peuvent choisir de consolider leurs opérations de plusieurs loc
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>Certains locataires pour certaines régions et certains pays
 
@@ -137,7 +140,7 @@ Les partenaires peuvent décider de consolider leurs opérations de plusieurs lo
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>Consolidation de locataires
 
@@ -211,7 +214,7 @@ Votre emplacement géographique détermine la devise dans laquelle vous êtes fa
 | AUD | Australie, Île Christmas, Îles Cocos (Keeling), Îles Cook, Fidji, Îles Heard-et-McDonald, Kiribati, Îles Marshall, Nauru, Niue, Île Norfolk, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Îles Pitcairn, Îles Salomon, Tokelau, Tonga, Tuvalu, Wallis-et-Futuna. |
 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées | Espace partenaires
+ms.topic: article
+ms.date: 10/29/2018
 description: Le programme Fournisseur de solutions Cloud peut aider votre entreprise à croître avec de nouveaux clients et de nouvelles compétences.
 author: labrenne
+ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutionsCloud direct, revendeur fournisseur de solutionsCloud indirect, fournisseur de solutionsCloud direct, fournisseur de solutionsCloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 ms.localizationpriority: medium
-ms.openlocfilehash: 62cfa7e131f22ed5d7c3ac0e26ff14f71ac047f3
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488745"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795212"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées 
 
@@ -18,7 +21,7 @@ ms.locfileid: "4488745"
 -  Espace partenaires
 
 Le programme Fournisseur de solutions Cloud vous permet de faire bien plus que la revente de licences, en vous impliquant dans l'entreprise de votre client.
- 
+ 
 - Meilleur engagement auprès de vos clients – En rencontrant régulièrement vos clients, vous serez à même de mieux comprendre leurs activités et leurs besoins.
 - Augmenter vos bénéfices – Une offre plus importante de services de support et de facturation, seul ou par le biais d'un fournisseur indirect, génère de nouveaux flux de revenus.  
 - Ajouter de la valeur - Vous serez en mesure de proposer à vos clients des solutions propres au secteur d'activité fournies avec les produits Microsoft.
@@ -31,17 +34,17 @@ Le programme Fournisseur de solutions Cloud vous permet de faire bien plus que l
  Dans le modèle de facture direct, les partenaires achètent les produits et abonnements Microsoft directement auprès de Microsoft, puis les vendent directement à leurs clients par le biais de leurs commerciaux en interne. Les partenaires qui travaillent déjà avec, ou sont prêts à développer, l'infrastructure de support, de facturation et de vente appropriée, peuvent choisir le modèle direct Fournisseur de solutions Cloud. Les conditions requises pour devenir un partenaire direct ont été modifiées récemment et prendront effet à compter du 31 août 2018. Les partenaires directs doit respecter les exigences de nouveau à compter de leur période d’inscription suivant après le 31 août 2018.
 
 
-#### <a name="new-expanded-requirements"></a>Nouvelles exigences étendues:
+#### <a name="new-expanded-requirements"></a>Nouvelles exigences développés:
 
 Support
-- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, hiérarchisée avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, avec élévation de privilèges 24/7/réparation prise en charge et la gestion de compte technique sur cloud, hybrides et locaux. 
+- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, PRIORISATION avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, 24/7 avec élévation de privilèges et de réparation prise en charge et la gestion de compte technique sur cloud, hybrides et locaux. 
 
 Services
 
-- Montrez que vous indiquez au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout des services gérés
+- Montrez que vous indiquez au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout de services gérés
 
-- Respectez les fonctionnalités de l’infrastructure minimale, telles que la facturation et la mise en service.
-Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont montrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une performance de la barre à l’avenir. 
+- Respectez les fonctionnalités de l’infrastructure minimale, telles que la facturation et de mise en service.
+Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont illustrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une performance de la barre à l’avenir. 
 
 - ID MicrosoftPartnerNetwork (MPN) pour le marché où seront effectuées les ventes
 
