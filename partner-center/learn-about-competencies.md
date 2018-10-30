@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: compétences, adhésion argent, adhésion or, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau
 ms.localizationpriority: medium
-ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
+ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796822"
+ms.locfileid: "5797387"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Compétences Microsoft requises pour le niveau d'adhésion Or et Argent
 
@@ -45,6 +45,7 @@ Découvrez les conditions requises pour bénéficier d'un niveau d'adhésion Arg
 | [Compétence DevOps](https://partner.microsoft.com/membership/devops-competency)| MicrosoftVisual Studio, Visual Studio Team Foundation Server (TFS)2012, cycle de vie des logiciels, certifications scrum |
 | [Compétence Gestion de la mobilité d’entreprise](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS), MicrosoftIntune, Azure Information Protection, Azure ActiveDirectory Premium (AADP), gestion des périphériques mobiles, gestion d'identité et d'accès, protection des informations, sécurité des applications cloud |
 | [Compétence Planification des ressources d’entreprise](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Bases de données Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), SQLServer2012  |
+|[Compétence des éditeurs de logiciels indépendants](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016, Dynamics 365, Office 365, Windows Server 2019, System Center 2016| 
 | [Compétence Messagerie](https://partner.microsoft.com/membership/messaging-competency)| Office365, Exchange Server2016 |
 | [Compétence Gestion de projets et de portefeuilles](https://partner.microsoft.com/membership/project-portfolio-management-competency)| MicrosoftProject, Project & Portfolio Management (PPM), SharePoint Server2016|
 | [Compétence Solutions cloud pour PME](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office365 |
