@@ -1,8 +1,8 @@
-# [À propos du Tableau de bord du partenaire Microsoft](index.md)
+# [À propos de l’Espace partenairesMicrosoft](index.md)
 
 # [Adhésion au réseau des partenaires](mpn-overview.md)
-## [Créer un compte Tableau de bord du partenaire](mpn-create-a-partner-center-account.md)
-## Offres d'abonnement
+## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
+## Offres d’abonnement
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renouveler vos offres](renew-mpn-offers.md)
 ## [Compétences](learn-about-competencies.md)
@@ -18,13 +18,13 @@
 ## [Modèles de contrat client](agreements.md)
 
 ## [Appliquer pour vendre sur des clouds nationaux](csp-national-clouds-overview.md)
-### [Tableau de bord du partenaire de MicrosoftCloud for USGovernment](partner-center-for-microsoft-us-govt-cloud.md)
-### [Tableau de bord du partenaire de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md)
+### [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+### [Espace partenaires de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md)
 
-# [Gérer votre compte dans le Tableau de bord du partenaire](partner-center-account-setup.md)
-## [Comptes professionnels et Tableau de bord du partenaire](azure-active-directory-tenants-and-partner-center.md)
+# [Gérer votre compte Espace partenaires](partner-center-account-setup.md)
+## [Comptes professionnels et l’Espace partenaires](azure-active-directory-tenants-and-partner-center.md)
 ## [Mettre à jour votre profil de partenaire](update-your-partner-profile.md)
-## [Restaurer un compte Tableau de bord du partenaire suspendu](suspended-partner-center-account.md)
+## [Restaurer un compte Espace partenaires suspendu](suspended-partner-center-account.md)
 ## [Créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md)
 ## [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
 ## [Vérifier la propriété de votre domaine](become-global-admin.md)
@@ -73,7 +73,7 @@
 ## [Services en ligne (abonnements)](customer-subscriptions.md)
 ### [Créer, suspendre ou annuler les abonnements client](create-a-new-subscription.md)
 ### [Proposer à vos clients des offres d'essai de produits Microsoft](offer-your-customers-trials-of-microsoft-products.md)
-### [Attribuer des abonnements Azure dans le Tableau de bord du partenaire](assign-azure-subscriptions.md)
+### [Attribuer des abonnements Azure dans l’Espace partenaires](assign-azure-subscriptions.md)
 ### [Attribuer des licences à des utilisateurs](assign-licenses-to-users.md)
 ### [Ajouter des licences ou des services à un abonnement existant](add-licenses-or-services-to-an-existing-subscription.md)
 ### [Attribuer ou révoquer des licences pour plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md)
@@ -88,8 +88,8 @@
 ### [Migration de Skype Entreprise Online (Plan 1) vers des versions plus récentes de MicrosoftOffice365](skype-retiring.md)
 ### [Transférer des abonnements Azure](switch-azure-subscriptions-to-a-different-partner.md)
 
-# Données et analyses du Tableau de bord du partenaire
-## [Obtenir et analyser vos données d'entreprise](data-analysis-lp.md)
+# Données et analyses de l’Espace partenaires
+## [Obtenir et analyser vos données d’entreprise](data-analysis-lp.md)
 ## [Application Analyse du partenaire pour Microsoft PowerBI](power-bi-app-for-direct-partners.md)
 ## [Contribution partenaire: optimisez vos indicateurs de performances](partner-contributions.md)
 ## [Obtenir des données sur l’utilisation des abonnements Azure de vos clients](analyze-azure-usage.md)
@@ -97,12 +97,12 @@
 ## [Analyser les abonnements et les licences](analyze-subscriptions-licenses.md)
 
 # [Collaborer avec d’autres partenaires](work-with-other-partners.md)
-## [Tâches des fournisseurs indirects dans le Tableau de bord du partenaire](indirect-provider-tasks-in-partner-center.md)
-## [Tâches des revendeurs indirects dans le Tableau de bord du partenaire](indirect-reseller-tasks-in-partner-center.md)
+## [Tâches des fournisseurs indirects dans l'Espace partenaires](indirect-provider-tasks-in-partner-center.md)
+## [Tâches des revendeurs indirects de l’Espace partenaires](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [Bénéficier du support Microsoft](support-from-microsoft.md)
-## [Signaler des problèmes avec le Tableau de bord du partenaire](report-problems-with-partner-center.md)
+## [Signaler des problèmes relatifs à l’Espace partenaires](report-problems-with-partner-center.md)
 ## [Signaler des problèmes au nom d’un client ](report-problems-on-behalf-of-a-customer.md)
 ## [Recevoir des notifications de service automatisées avec nos API](get-automated-service-notifications-with-our-apis.md)
 
