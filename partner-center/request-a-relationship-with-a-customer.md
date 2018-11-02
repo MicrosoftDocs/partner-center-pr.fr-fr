@@ -7,20 +7,18 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 118094c56549306b6ec659c6827362c07d6bd750
-ms.sourcegitcommit: 917e4b1ff2f8ae0d12e581dc2d098151eda7b8c0
+ms.openlocfilehash: 5211d68b79a1a67cd17c8974edd360999c10fb8d
+ms.sourcegitcommit: 6b781672d91f7ede942a9044a41e785dcf63f807
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 11/01/2018
-ms.locfileid: "5917979"
+ms.locfileid: "5962392"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Se connecter à des clients dans l'Espace partenaires
 
 **S'applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de MicrosoftCloud Germany
 
 Si vous souhaitez gérer le service ou l’abonnement au nom d’un client, le client doit vous accorder des autorisations d’administrateur pour ce service ou l’abonnement. La procédure ci-dessous montre comment demander cette autorisation par e-mail. Une fois que le client aura approuvé votre demande, vous serez en mesure d’ouvrir une session sur le portail d’administration du service et gérer le service sur le compte du client. 
 
