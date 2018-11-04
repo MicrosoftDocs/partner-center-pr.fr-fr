@@ -1,220 +1,394 @@
 ---
-title: Autorisation régionale de Fournisseur de solutions&nbsp;Cloud | Espace partenaires
+title: Les marchés internationaux de fournisseur de solutions cloud | L’espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
-description: Avec l’autorisation régionale, les partenaires d’entreprises internationales peuvent maintenant gérer plus facilement les clients de différentes régions et pays du monde entier.
+ms.date: 11/03/2018
+description: Voir où vous pouvez vendre des offres de fournisseur de solutions cloud, basées sur l’emplacement de votre société.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: locataire Azure AD, consolider les locataires, stratégie concernant les locataires, locataires dans le programme Fournisseur de solutions Cloud, comptes du programme Fournisseur de solutions Cloud, marchés et territoires du programme Fournisseur de solutions Cloud, où puis-je vendre par le biais du programme Fournisseur de solutions Cloud?
+keywords: Fournisseur de solutions cloud, marchés, territoires, où peut i commercialiser via ce programme, fournisseur de solutions cloud offre, régions, vendent des solutions cloud, CSP global
 ms.localizationpriority: medium
-ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1e561b68a083d7a5839aaebe6aa9f03f4f7e9c93
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796632"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022232"
 ---
-# <a name="tenant-consolidation-strategies-in-csp"></a>Stratégies de consolidation des locataires dans le programme Fournisseur de solutions Cloud
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Marchés régionaux du programme fournisseur de solutions cloud et les devises
 
+Emplacement de votre société détermine votre marché. Votre marché inclut les régions et/ou les pays où vous pouvez vendre des offres de fournisseur de solutions cloud.
 
-\[Certaines informations concernent la version préliminaire de produits susceptibles d’être considérablement modifiés d’ici leur commercialisation. Microsoft ne donne aucune garantie, expresse ou implicite, concernant les informations fournies ici.\]
+Par exemple, si votre société se trouve aux États-Unis, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients aux États-Unis et dans les îles éloignées des États-Unis. Si votre entreprise se trouve au Brésil, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients uniquement au Brésil. Si votre société se trouve dans la région Afrique, vous pouvez vendre offres de fournisseur de solutions cloud pour les clients dans tous les 18 pays dans la région d’Afrique.
 
-Avec l’autorisation régionale, les partenaires d’entreprises internationales peuvent maintenant gérer plus facilement les clients de différentes régions et pays du monde entier. Cela diminue le nombre de locataires que les partenaires doivent gérer, réduit les dates de facturation que les partenaires doivent traiter et offre aux partenaires une vue plus consolidée de leurs ventes.
+Avant de pouvoir commander que CSP offre au nom du client, le client doit signer le contrat de Cloud de Microsoft. Vous trouverez du contrat Microsoft Cloud applicables pour votre pays/région [ici](agreements.md).
 
-Avant, à l’exception de l’Union européenne et de l’AELE, les partenaires devaient avoir une entité physique dans chaque pays où ils voulaient effectuer des transactions commerciales. En d’autres termes, les partenaires devaient configurer plusieurs locataires dans l’Espace partenaires, avec plusieurs dates de facturation et d’autres paramètres. Dans les régions comme l'Amérique latine, les partenaires ne pouvaient pas travailler facilement avec des clients dans un pays voisin ou une région limitrophe. Parfois, les relations commerciales étaient totalement impossibles.
+>[!IMPORTANT]
+> À compter du 7 novembre 2018, vous devrez confirmer qu’un client a accepté le contrat de Cloud de Microsoft en fournissant des informations relatives à la personne qui l’a signé. Pour plus d’informations, voir [Confirmer l’acceptation d’un client du contrat Microsoft Cloud](confirm-consent.md) .
 
-> [!NOTE]  
->  Si vous êtes inscrit au programme [Fournisseur de services Cloud de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md) et que vous vendez à des clients situés dans des pays et régions de l’Union européenne et de l’AELE, vous ne pouvez pas consolider votre locataire de l'Espace partenaires de MicrosoftCloud Germany avec vos autres locataires.  
+Pour déterminer où vous pouvez vendre des offres de fournisseur de solutions cloud, rechercher l’emplacement de votre société dans un des listes ci-dessous.
 
-## <a name="planning"></a>Planification
+## <a name="africa-region-and-market"></a>Marché et Afrique
 
-Les partenaires ont plusieurs options pour consolider leurs locataires régionaux, comme indiqué ci-dessous.
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
-### <a name="separate-tenants-for-single-regions-or-countries"></a>Locataires distincts pour des régions et des pays
+| Pays/région           | Devise |
+| ------------------------ |:--------:|
+| Angola                   |          |
+| Bénin                    |   USD    |
+| Botswana                 |          |
+| Burkina Faso             |   USD    |
+| Burundi                  |   USD    |
+| Cameroun                 |   USD    |
+| Cap Vert               |          |
+| République centrafricaine |   USD    |
+| Tchad                     |   USD    |
+| Comores                  |   USD    |
+| République démocratique du Congo                    |   USD    |
+| Congo (RDC)              |   USD    |
+| Côte d’Ivoire            |          |
+| Djibouti                 |   USD    |
+| Guinée équatoriale        |   USD    |
+| Érythrée                  |   USD    |
+| Éthiopie                 |          |
+| Polynésie française         |   USD    |
+| Gabon                    |   USD    |
+| Gambie                   |   USD    |
+| Ghana                    |   USD    |
+| Guinée                   |   USD    |
+| Guinée-Bissau            |   USD    |
+| Kenya                    |   USD    |
+| Libéria                  |   USD    |
+| Madagascar               |   USD    |
+| Malawi                   |   USD    |
+| Mali                     |   USD    |
+| Maurice                |   USD    |
+| Mayotte                  |   USD    |
+| Namibie                  |   USD    |
+| Nouvelle-Calédonie            |   USD    |
+| Niger                    |   USD    |
+| Nigeria                  |   USD    |
+| Réunion (île)                  |   USD    |
+| Rwanda                   |   USD    |
+| São Tomé-et-Príncipe    |   USD    |
+| Sénégal                  |          |
+| Seychelles               |   USD    |
+| Sierra Leone             |   USD    |
+| Somalie                  |   USD    |
+| Soudan du Sud              |   USD    |
+| Sainte-Hélène, Ascension et Tristan da Cunha|    USD   |
+| Tanzanie                 |   USD    |
+| Togo                     |   USD    |
+| Ouganda                   |          |
+| Zambie                   |          |
+|
 
-La consolidation des locataires est facultative. Les partenaires peuvent continuer à gérer leurs clients internationaux avec des locataires distincts, comme indiqué dans le tableau suivant.
+## <a name="asia-and-pacific-region-and-market"></a>Marché et région Asie et Pacifique
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Emplacement(s) du partenaire</th>
-<th>Date(s) de facturation</th>
-<th>Emplacement(s) du client</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Colombie</p></td>
-<td><p>Date de facturation&nbsp;: le 10</p></td>
-<td><p>Colombie</p></td>
-</tr>
-<tr class="even">
-<td><p>Chili</p></td>
-<td><p>Date de facturation&nbsp;: le 15</p></td>
-<td><p>Chili</p></td>
-</tr>
-<tr class="odd">
-<td><p>Paraguay</p></td>
-<td><p>Date de facturation&nbsp;: le 5</p></td>
-<td><p>Paraguay</p></td>
-</tr>
-<tr class="even">
-<td><p>Pérou</p></td>
-<td><p>Date de facturation&nbsp;: le 2</p></td>
-<td><p>Pérou</p></td>
-</tr>
-</tbody>
-</table>
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
- 
+| Pays/région     | Devise |
+| --------------     |:--------:|
+|  Bangladesh        |   USD    |
+|  Bhoutan            |          |
+|  Brunei Darussalam |   USD    |
+|  Cambodge          |          |
+|  Hong Kong         |   USD    |
+|  Indonésie         |   USD    |
+|  Laos              |          |
+|  Macao             |   USD    |
+|  Malaisie          |   USD    |
+|  Maldives          |          |
+|  Myanmar           |          |
+|  Népal             |          |
+|  Philippines       |   USD    |
+|  Singapour         |   USD    |
+|  Sri Lanka         |   USD    |
+|  Thaïlande          |   USD    |
+|  Timor-Leste       |   USD    |
+|  Vietnam           |   USD    |
+|
 
-## <a name="one-tenant-for-multiple-regions-or-countries"></a>Un locataire pour plusieurs régions ou pays
+## <a name="australia-region-and-market"></a>Marché et région Australie
 
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
-Les partenaires peuvent choisir de consolider leurs opérations de plusieurs locataires Fournisseur de solutionsCloud dans un seul locataire Fournisseur de solutionsCloud.
+|  Pays/région        | Devise |
+|  --------------        |:--------:|
+|  Australie             |   AUD    |
+|  Christmas (île)      |   AUD    |
+|  Cocos-Keeling (îles)|   AUD   |
+|  Cook (îles)          |   AUD    |
+|  Fidji                  |   AUD    |
+|  Terres australes françaises| AUD |
+|  Guam                  |  AUD     |
+|  Heard et McDonald (Îles)| AUD |
+|  Kiribati              |   AUD    |
+|  Marshall (îles)      |   AUD    |
+|  Micronésie            |   AUD    |
+|  Nauru                 |   AUD    |
+|  Niue                  |   AUD    |
+|  Norfolk (île)        |   AUD    |
+|  Mariannes du Nord (îles)| AUD    |
+|  Palau                 |   AUD    |
+|  Papouasie-Nouvelle-Guinée      |   AUD    |
+|  Pitcairn (îles)      |   AUD    |
+|  Salomon (îles)       |   AUD    |
+|  Tokelau               |   AUD    |
+|  Tonga                 |   AUD    |
+|  Tuvalu                |   AUD    |
+|  Wallis-et-Futuna     |   AUD    |
+|
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Emplacement du partenaire</th>
-<th>Date de facturation</th>
-<th>Emplacement(s) du client</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Colombie</p></td>
-<td><p>Date de facturation&nbsp;: le 10</p></td>
-<td><p>Colombie</p>
-<p>Chili</p>
-<p>Paraguay</p>
-<p>Pérou</p></td>
-</tr>
-</tbody>
-</table>
+## <a name="brazil-region-and-market"></a>Marché et région Brésil
 
- 
+Si votre société est le Brésil, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients au Brésil.
 
-## <a name="some-tenants-for-some-regions-or-countries"></a>Certains locataires pour certaines régions et certains pays
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Brésil         |   USD    |
+|
 
+## <a name="canada-region-and-market"></a>Marché et région Canada
 
-Les partenaires peuvent décider de consolider leurs opérations de plusieurs locataires Fournisseur de solutions&nbsp;Cloud dans un nombre moins important de locataires Fournisseur de solutions&nbsp;Cloud.
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Emplacement(s) du partenaire</th>
-<th>Date(s) de facturation</th>
-<th>Emplacement(s) du client</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Colombie</p></td>
-<td><p>Date de facturation&nbsp;: le 10</p></td>
-<td><p>Colombie</p>
-<p>Chili</p></td>
-</tr>
-<tr class="even">
-<td><p>Paraguay</p></td>
-<td><p>Date de facturation&nbsp;: le 5</p></td>
-<td><p>Paraguay</p>
-<p>Pérou</p></td>
-</tr>
-</tbody>
-</table>
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Canada         |   CAD    |
+|  Saint-Pierre-et-Miquelon|  CAD   |
+|
 
- 
+## <a name="europe-region-and-market"></a>Marché et région Europe
 
-## <a name="consolidating-tenants"></a>Consolidation de locataires
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
+|  Pays/région | Devise  |
+|  -------------- |:--------:|
+|  Åland (îles d’)  |   EUR    |
+|  Andorre        |   EUR    |
+|  Autriche        |   EUR    |
+|  Belgique        |   EUR    |
+|  Bouvet (Île)  |   EUR    |
+|  Bulgarie       |          |
+|  Croatie        |   EUR    |
+|  Chypre         |          |
+|  République tchèque |   EUR    |
+|  Danemark        |   DKK    |
+|  Estonie        |   EUR    |
+|  Féroé (îles)  |   EUR    |
+|  Finlande        |   EUR    |
+|  France         |   EUR    |
+|  Allemagne        |   EUR    |
+|  Gibraltar      |   GBP    |
+|  Grèce         |   EUR    |
+|  Groenland      |          |
+|  Guernesey       |   GBP    |
+|  Hongrie        |   EUR    |
+|  Islande        |   EUR    |
+|  Irlande        |   EUR    |
+|  Île de Man    |   GBP    |
+|  Italie          |   EUR    |
+|  Jersey         |   GBP    |
+|  Lettonie         |   EUR    |
+|  Liechtenstein  |   EUR    |
+|  Lituanie      |   EUR    |
+|  Luxembourg     |   EUR    |
+|  Malte          |          |
+|  Monaco         |          |
+|  Pays-Bas    |   EUR    |
+|  Norvège         |   NOK    |
+|  Pologne         |   EUR    |
+|  Portugal       |   EUR    |
+|  Roumanie        |   EUR    |
+|  Saint-Marin     |   EUR    |
+|  Slovaquie       |   EUR    |
+|  Slovénie       |   EUR    |
+|  Espagne          |   EUR    |
+|  Svalbard et Jan Mayen|NOK|
+|  Suède         |   SEK    |
+|  Suisse    |   CHF    |
+|  ROYAUME-UNI             |   GBP    |
+|  Cité du Vatican   |          |
+|
 
-Si vous voulez consolider des locataires, nous vous recommandons de procéder comme suit&nbsp;:
+## <a name="india-region-and-market"></a>Marché et à la région de l’Inde
 
--   **Plusieurs pays/régions, mais une seule entité qui effectue les transactions**. Si vous n’effectuez des transactions que dans un pays ou une région, mais que vous avez configuré d’autres locataires, utilisez le locataire en charge de la transaction comme nouveau locataire centralisé pour cette région et annulez vos autres locataires.
+Si votre société est l’Inde, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients en Inde.
 
--   **Plusieurs pays/région, mais une seule entité qui effectue les transactions.** Si vous effectuez des transactions dans plusieurs pays/régions, nous vous recommandons de tout centraliser sur le locataire avec le plus grand nombre de sièges. Vous devez annuler les abonnements dans les pays/régions où vous avez moins de sièges.
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Inde          |   INR    |
+|
 
+## <a name="japan-region-and-market"></a>Marché et région Japon
 
-## <a name="countryregion-information"></a>Informations sur le pays/la région
+Si votre société est le Japon, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients au Japon.
 
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Japon          |   JPY    |
+|
 
-Prenez en compte les éléments suivants avant de consolider des locataires:
+## <a name="korea-republic-of-region-and-market"></a>Corée du Sud, République de région et par marché
 
--   **Si votre lieu de vente cible Microsoft est les États-Unis**, votre territoire inclut les clients situés aux États-Unis.
+Si votre société est la Corée, République de, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients de Corée du Sud, République de.
 
--   **Si votre lieu de vente cible Microsoft est le Canada**, votre territoire inclut les clients situés au Canada.
+|  Pays/région    | Devise |
+|  --------------    |:--------:|
+|  Corée du Sud, République de|   KRW    |
+|
 
--   **Si votre lieu de vente cible Microsoft est le Brésil**, votre territoire inclut les clients situés au Brésil.
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>Amérique latine et le marché et la région des Caraïbes
 
--   **Si votre lieu de vente Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Anguilla, Antigua et Barbuda, Antarctique, Argentine, Aruba, Bahamas, Barbade, Belize, Bermudes, Bolivie, Bonaire, Îles Vierges britanniques, Îles Caïmans, Chili, Colombie, Costa Rica, Curaçao, Dominique, République dominicaine, Équateur, El Salvador, Malouines (îles), Guyane française, Grenade, Guadeloupe, Guatemala, Guyana, Haïti, Honduras, Jamaïque, Martinique, Mexique, Montserrat, Nicaragua, Panama, Paraguay, Pérou, Porto Rico, Saba, Saint Barthélemy, Saint-Christophe-et-Niévès, Sainte-Lucie, Saint-Martin, Saint-Vincent-et-les-Grenadines, Saint-Eustache, Saint-Martin, Géorgie du Sud et îles Sandwich du Sud, Suriname, Trinité-et-Tobago, Îles Turques-et-Caïques, Uruguay, Venezuela, Iles Vierges. 
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Îles Åland, Andorre, Autriche, Belgique, Île Bouvet, Bulgarie, Croatie, Chypre, République tchèque, Danemark, Estonie, Féroé (îles), Finlande, France, Allemagne, Grèce, Gibraltar, Groenland, Guernesey, Hongrie, Islande, Irlande, Île de Man, Italie, Jersey, Jan Mayen, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Monaco, Pays-Bas, Norvège, Pologne, Portugal, Roumanie, Saint-Marin, Slovaquie, Slovénie, Espagne, Svalbard, Suède, Suisse, Royaume-Uni, État de la Cité du Vatican. 
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Anguilla       |   USD    |
+|  Antarctique     |   USD    |
+|  Antigua-et-Barbuda| USD  |
+|  Argentine      |   USD    |
+|  Aruba          |   USD    |
+|  Bahamas        |   USD    |
+|  Barbade       |   USD    |
+|  Belize         |   USD    |
+|  Bermudes        |   USD    |
+|  Bolivie        |   USD    |
+|  Bonaire        |   USD    |
+|  Îles Vierges britanniques|USD|
+|  Caïmans (îles) |   USD    |
+|  Chili          |   USD    |
+|  Colombie       |   USD    |
+|  Costa Rica     |   USD    |
+|  Curaçao        |   USD    |
+|  Dominique       |  USD     |
+|  République dominicaine| USD   |
+|  Équateur        |   USD    |
+|  Salvador    |   USD    |
+|  Malouines (îles)|  USD    |
+|  Guyane française  |   USD    |
+|  Grenade        |   USD    |
+|  Guadeloupe     |          |
+|  Guatemala      |   USD    |
+|  Guyana         |   USD    |
+|  Haïti          |   USD    |
+|  Honduras       |   USD    |
+|  Jamaïque        |   USD    |
+|  Martinique     |          |
+|  Mexique         |   USD    |
+|  Montserrat     |   USD    |
+|  Nicaragua      |   USD    |
+|  Panama         |   USD    |
+|  Paraguay       |   USD    |
+|  Pérou           |   USD    |
+|  Porto Rico    |   USD    |
+|  Saba           |   USD    |
+|  Saint-Barthélemy|  USD    |
+|  Saint Kitts et Nevis|    |
+|  Sainte-Lucie    |   USD    |
+|  Saint-Martin   |   USD    |
+|  Saint-Vincent-et-les Grenadines| USD |
+|  Saint-Eustache |   USD    |
+|  Saint-Martin (Royaume des Pays-Bas)   |   USD    |
+|  Géorgie du Sud et îles Sandwich du Sud| USD|
+|  Suriname       |   USD    |
+|  Trinité-et-Tobago|USD   |
+|  Turks et Caïcos (îles)| USD|
+|  Uruguay        |   USD    |
+|  Venezuela      |   USD    |
+|  Îles Vierges américaines| USD |
+|
 
-    > [!NOTE]  
->  Si vous êtes inscrit au programme [Fournisseur de services Cloud de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md) et que vous vendez à des clients situés dans des pays et régions de l’Union européenne et de l’AELE, vous ne pouvez pas consolider votre locataire de l'Espace partenaires de MicrosoftCloud Germany avec vos autres locataires.  
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Marché et du Moyen-Orient, Europe centrale et l’Europe de région
 
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Afghanistan, Albanie, Algérie, Arménie, Azerbaïdjan, Bahreïn, Bélarus, Bénin, Bosnie-Herzégovine, Burkina Faso, Burundi, République centrafricaine, Tchad, Comores, Congo (RDC), Congo, Djibouti, Égypte, Guinée équatoriale, Érythrée, Polynésie française, Gabon, Gambie, Géorgie, Guinée, Guinée-Bissau, Irak, Israël, Jordanie, Kazakhstan, Koweït, Kirghizistan, Liban, Liberia, Libye, Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolie, Monténégro, Maroc, Nouvelle-Calédonie, Niger, Oman, Pakistan, Autorité palestinienne, Qatar, République de Macédoine, Réunion, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Somalie, Afrique du Sud, Tadjikistan, Togo, Tunisie, Turquie, Turkménistan, Ukraine, Émirats arabes unis, Ouzbékistan, Yémen, Zimbabwe. 
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Afghanistan    |          |
+|  Albanie        |   USD    |
+|  Algérie        |          |
+|  Arménie        |   USD    |
+|  Azerbaïdjan     |   USD    |
+|  Bahreïn        |   USD    |
+|  Bélarus        |   USD    |
+|  Bosnie-Herzégovine|    |
+|  Territoires britanniques de l’océan Indien|   USD   |
+|  Égypte          |   USD    |
+|  Géorgie        |   USD    |
+|  Irak           |   USD    |
+|  Israël         |   USD    |
+|  Jordanie         |          |
+|  Kazakhstan     |   USD    |
+|  Kosovo         |   USD    |
+|  Koweït         |   USD    |
+|  Kirghizistan     |   USD    |
+|  Liban        |   USD    |
+|  Lesotho        |   USD    |
+|  Libye          |          |
+|  Macédoine, République de|   |
+|  Mauritanie     |   USD    |
+|  République de Moldavie        |          |
+|  Mongolie       |          |
+|  Monténégro     |          |
+|  Maroc        |   USD    |
+|  Mozambique     |          |
+|  Oman           |   USD    |
+|  Pakistan       |   USD    |
+|  Territoire palestinien occupé |        |
+|  Qatar          |   USD    |
+|  Arabie saoudite   |   USD    |
+|  Serbie         |   USD    |
+|  Afrique du Sud   |   USD    |
+|  Swaziland      |   USD    |
+|  Tadjikistan     |          |
+|  Tunisie        |   USD    |
+|  Turquie         |   USD    |
+|  Turkménistan   |          |
+|  Ukraine        |   USD    |
+|  Émirats arabes unis| USD |
+|  Ouzbékistan     |          |
+|  Yémen          |   USD    |
+|  Zimbabwe       |          |
+|
 
--   **Si votre lieu de vente cible Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région de la liste suivante: Angola, Botswana, Territoire britannique de l'océan Indien, Cabo Verde, Cameroun, Côte d'Ivoire, Éthiopie, Ghana, Kenya, Kosovo, Lesotho, Mauritanie, Île Maurice, Mozambique, Namibie, Nigeria, Rwanda, Sénégal, Swaziland, Tanzanie, Ouganda, Yémen , Zambie. 
+## <a name="new-zealand-region-and-market"></a>Marché et la région Nouvelle-Zélande
 
--   **Si votre lieu de vente cible Microsoft est la Russie**, votre territoire inclut les clients situés en Russie.
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
--   **Si votre lieu de vente Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région dans la liste suivante: Samoa américaines, Bangladesh, Bhoutan, Brunei, Darussalam, Cambodge, région administrative spéciale de Hong Kong, Indonésie, Laos, Macao R.A.S., Malaisie, Maldives, Myanmar, Népal, Philippines, Saint-Pierre-et-Miquelon, Samoa, Singapour, Sri Lanka, Thaïlande, Timor Leste, Vanuatu, Vietnam 
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Samoa américaines |   NZD    |
+|  Nouvelle-Zélande    |   NZD    |
+|  État indépendant des Samoa          |   NZD    |
+|  Vanuatu        |   NZD    |
+|
 
--   **Si votre lieu de vente Microsoft est un pays ou une région de la liste suivante**, votre territoire inclut les clients situés dans un pays ou une région dans la liste suivante: Australie, Îles Fidji, Îles Christmas, Îles Cocos (Keeling), Îles Cook, Guam, Îles Heard-et-McDonald, Kiribati, Îles Marshall, Micronésie, Nauru, Niue, Île Norfolk, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Îles Pitcairn, Îles Salomon, Tokelau, Tonga, Tuvalu, Wallis-et-Futuna. 
+## <a name="russia-region-and-market"></a>Marché et à la région de la Russie
 
--   **Si votre lieu de vente cible Microsoft est la Nouvelle-Zélande**, votre territoire inclut les clients situés en Nouvelle-Zélande.
+Si votre société est la Russie, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients en Russie.
 
--   **Si votre lieu de vente cible Microsoft est l’Inde**, votre territoire inclut les clients situés en Inde.
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Russie         |    RUB   |
+|
 
--   **Si votre lieu de vente cible Microsoft est le Japon**, votre territoire inclut les clients situés au Japon.
+## <a name="taiwan-region-and-market"></a>Marché et région Taïwan
 
--   **Si votre lieu de vente cible Microsoft est la Corée**, votre territoire inclut les clients situés en Corée.
+Si l’emplacement de votre entreprise est Taïwan, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients à Taïwan.
 
--   **Si votre lieu de vente cible Microsoft est Taïwan**, votre territoire inclut les clients situés à Taïwan.
+|  Pays/région | Devise |
+|  -------------- |:--------:|
+|  Taiwan         |   TWD    |
+|
 
-## <a name="billing-currencies-by-country"></a>Devises de facturation par pays
+## <a name="united-states-region-and-market"></a>Marché et région des États-Unis
 
-Votre emplacement géographique détermine la devise dans laquelle vous êtes facturé, comme indiqué dans le tableau suivant. Notez qu’en raison des implications fiscales et juridiques, si vous souhaitez utiliser une autre devise de facturation, vous devez créer un nouveau client et indiquer la devise. 
+Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
-| Symbole monétaire | Pays |
-| ---- | ---- |
-| USD | Albanie et Saint-Eustache, Anguilla, Antarctique, Antigua et Barbuda, Argentine, Arménie, Aruba, Azerbaïdjan, Bahamas, Bahreïn, Bangladesh, Barbade, Bélarus, Belize, Bénin, Bermudes, Bolivie, Bonaire, Brésil, Territoire britannique de l'océan Indien, Brunei, Burundi, Cameroun, Îles Caïmans, Comores, Costa Rica, Curaçao, République centrafricaine, Équateur, Égypte, El Salvador, Guinée équatoriale, Érythrée, Guyane française, Polynésie française, Géorgie, Ghana, Guatemala, Guinée-Bissau, Honduras, région administrative spéciale de Hong Kong, Indonésie, Iraq, Israël, Jamaïque, Kazakhstan, Kenya, Koweït, Kirghizistan, Liban, Lesotho, Macao R.A.S., Madagascar, Malawi, Malaisie, Mali, Mauritanie, Maurice, Mayotte, Mexique, Maroc, Namibie, Nouvelle-Calédonie, Nicaragua, Nigéria, Oman, Pakistan, Panama, Paraguay, Pérou, Philippines, Porto Rico, Qatar, Réunion, Rwanda, Saba, Sainte-Lucie, Saint(Martin, Saint-Vincent-et-les-Grenadines, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Singapour, Saint-Martin (Royaume des Pays-Bas), Somalie, Afrique du Sud, Soudan du Sud, Sri Lanka, Suriname, Swaziland, Tanzanie, Thaïlande, Timor-Leste, Togo, Trinité-et-Tobago, Tunisie, Turquie, Îles-Turques-et-Caïques, Îles Vierges américaines, Ukraine, Emirats arabes unis, États-Unis, Uruguay, Venezuela, Vietnam, Yémen.| 
-| TWD | Taïwan |
-| SEK | Suède |
-| INR | Inde |
-| RUB | Russie |
-| NZD | Nouvelle-Zélande, Vanuatu |
-| NOK | Jan Mayen, Norvège, Svalbard |
-| KRW | Corée du Sud |
-| JPY | Japon |
-| GBP | Île de Man, Jersey, Royaume-Uni |
-| EUR | Allemagne, Andorre, Autriche, Belgique, Croatie, Espagne, Estonie, Féroé (Îles), Finlande, France, Grèce, Hongrie, Île Bouvet, Islande, Irlande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Saint-Marin, Slovaquie, Slovénie |
-| DKK | Danemark |
-| CHF | Suisse |
-| CAD | Canada |
-| AUD | Australie, Île Christmas, Îles Cocos (Keeling), Îles Cook, Fidji, Îles Heard-et-McDonald, Kiribati, Îles Marshall, Nauru, Niue, Île Norfolk, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Îles Pitcairn, Îles Salomon, Tokelau, Tonga, Tuvalu, Wallis-et-Futuna. |
-
-
- 
-
-
-
+|  Pays/région       | Devise |
+|  -------------        |:--------:|
+|  États-Unis        |   USD    |
+|  Îles mineures éloignées des États-Unis|   USD    |
+|
