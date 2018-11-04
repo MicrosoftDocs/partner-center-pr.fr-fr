@@ -336,7 +336,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Mozambique     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Territoire palestinien occupé |        |
+|  Palestinian Territory, Occupied |        |
 |  Qatar          |   USD    |
 |  Arabie saoudite   |   USD    |
 |  Serbie         |   USD    |
@@ -374,9 +374,9 @@ Si votre société est la Russie, vous pouvez vendre des offres de fournisseur d
 |  Russie         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Marché et région Taïwan
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-Si l’emplacement de votre entreprise est Taïwan, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients à Taïwan.
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  Pays/région | Devise |
 |  -------------- |:--------:|
