@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutionsCloud direct, revendeur fournisseur de solutionsCloud indirect, fournisseur de solutionsCloud direct, fournisseur de solutionsCloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ddeaecdca6fe918d6b3d581befa295c66b80a705
+ms.sourcegitcommit: 0c7018284e589f3ab9cf97c741b07f1947f30e65
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795212"
+ms.lasthandoff: 11/05/2018
+ms.locfileid: "6066691"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées 
 
@@ -60,7 +60,9 @@ Dans le modèle indirect, les fournisseurs indirects (également appelés distri
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Où puis-je vendre via le programme Fournisseur de solutions Cloud?
 
-Le programme Fournisseur de solutions Cloud est disponible dans les régions et les pays répertoriés dans la page [Marchés disponibles et contrats client du programme Fournisseur de solutions Microsoft Cloud](agreements.md).  
+Emplacement de votre société détermine votre marché. Votre marché inclut les régions et/ou les pays où vous pouvez vendre des offres de fournisseur de solutions cloud. Pour la liste complète des marchés de fournisseur de solutions cloud et les devises, consultez [les marchés régionaux du programme fournisseur de solutions Cloud et les devises](regional-authorization-overview.md) .
+
+Avant de pouvoir commander que CSP offre au nom du client, le client doit signer le contrat de Cloud de Microsoft. Vous pouvez trouver du contrat Microsoft Cloud applicables pour l’emplacement de votre client [ici](agreements.md).  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Que puis-je vendre via le programme Fournisseur de solutions Cloud?
 
@@ -73,7 +75,6 @@ Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft]
 |:---------------------------|:--------------------|
 |Conditions requises pour chaque modèle Fournisseur de solutions Cloud   | [Programme Fournisseur de solutions Cloud](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Ventes dans les clouds nationaux Microsoft   | [S'inscrire pour vendre dans les clouds nationaux Microsoft](csp-national-clouds-overview.md)|
-|Les solutions que vous pouvez vendre et où les vendre   |[Marchés et contrats client Fournisseur de solutions Microsoft Cloud](agreements.md)|
-|  | [Stratégies de locataires dans le programme Fournisseur de solutions Cloud](regional-authorization-overview.md)
+|Modèles de client du contrat Microsoft Cloud   |[Contrats de Cloud Microsoft par région et langue](agreements.md)|
 |Tâches des fournisseurs indirects dans l’espace partenaires  |[Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud](indirect-provider-tasks-in-partner-center.md)|
 |Tâches des revendeurs indirects dans l’espace partenaires   |[Devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud](indirect-reseller-tasks-in-partner-center.md)|
