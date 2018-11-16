@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
+ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795592"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "7012602"
 ---
 # <a name="faq-about-new-billing-features"></a>FAQ sur les nouvelles fonctionnalités de facturation
 
@@ -144,7 +144,7 @@ Sections:
 
 **Q:** Puis-je passer la fréquence de facturation d'un abonnement de mensuelle à annuelle et vice versa? 
 
--   **R:** Non. Une fois que vous avez sélectionné la fréquence de facturation, vous ne pouvez pas la modifier. 
+-   **R:** Oui. Consultez **pour modifier la fréquence de facturation d’un service en ligne** dans la [base de facturation](https://docs.microsoft.com/en-us/partner-center/billing-basics).
 
 **Q:** La facturation annuelle est-elle disponible pour les offres de module complémentaire?   
 

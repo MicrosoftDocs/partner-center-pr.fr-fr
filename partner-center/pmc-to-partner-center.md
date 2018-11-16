@@ -1,63 +1,76 @@
 ---
-title: Transférer votre abonnement MPN du PartnerMembershipCenter vers l’Espace partenaires
+title: Transition de votre adhésion au réseau du Partner Membership Center vers l’espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
-description: 'Utilisateurs du PartnerMembershipCenter: les abonnementsMPN sont désormais gérés à partir de l’Espace partenaires. Voici ce que vous devez faire.'
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: Comment faire passer votre compte de l’appartenance du Partner Membership Center vers l’espace partenaires.
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: abonnement mpn, compétences, pmc vers espace partenaires
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794952"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011399"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Transférer votre abonnement MPN du PartnerMembershipCenter vers l’Espace partenaires
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Transition de votre compte de l’appartenance de l’espace du Partner Membership Center vers l’espace partenaires
 
-**S’applique à**
--  Espace partenaires
+**S'applique à**
 
-Utilisateurs du PartnerMembershipCenter: les nouveaux abonnements et les renouvellements d’abonnements MicrosoftPartnerNetwork (MPN) sont désormais gérés à partir de l’Espace partenaires.  
+- Espace partenaires
+- Partenaires MPN
 
-Si vous vous êtes abonné à MPN par le biais du PartnerMembershipCenter, vous serez en mesure de consulter vos avantages actuels dans PMC jusqu’à la fin de l’abonnement de l’année en cours et ce, même si vous l’avez déjà renouvelé. 
+## <a name="partner-membership-center-being-retired"></a>Partner Membership Center est en cours mis hors service
 
-Lorsque vous vous réabonnez dans MPN, votre nouvel abonnement commence immédiatement, mais la date d’expiration de votre abonnement MPN est repoussée à un an après la date d’expiration de votre abonnement MPN actuel. Cela vous permettra d’accéder à ces deux systèmes durant cette période.
+Au cours des mois plusieurs suivantes, nous demanderons des partenaires pour atteindre leurs comptes d’appartenance de l’espace à partir de Partner Membership Center (PMC) une nouvelle plateforme, l’espace partenaires. L’espace partenaires est la destination unique pour gérer vos relations commerciales avec Microsoft. Sur le [site Web de l’espace](https://partner.microsoft.com/commercial) pour plus d’informations, consultez la [Préparation de gestion de l’appartenance](https://partner.microsoft.com/support/partner-center-help) .
 
-Commencez immédiatement à configurer les utilisateurs pour qu’ils puissent continuer à accéder à l’Université des partenaires, et pour que votre entreprise soit en mesure de recevoir des crédits pour les examens et certifications techniques en vue de lֹ’[obtention de compétences Microsoft](competencies.md). 
+Une fois que votre compte de l’adhésion est basculé avec succès, vous allez gérer les détails de votre compte, y compris (le cas échéant) avantages, les compétences, les primes, les offres et les programmes dans l’espace partenaires. Vous pourrez également obtenir et gérer des prospects de Microsoft et l’inscrire dans le programme fournisseur de solutions Cloud dans l’espace partenaires.
 
-## <a name="admin-tasks-add-employee-accounts"></a>Tâches de l’administrateur: ajouter les comptes des employés
+## <a name="prepare-now-for-a-smooth-transition"></a>Préparer une transition harmonieuse maintenant
 
-L’administrateur de l’entreprise ajoute les employés au compte de l’Espace partenaires, soit en les ajoutant individuellement soit en utilisant les données PMC pour créer plusieurs utilisateurs à la fois:
+Les partenaires seront invités à déplacer vers l’espace partenaires lorsque nous avons les fonctionnalités nécessaires et de fonctionnalités à votre disposition pour garantir une transition harmonieuse. Nous vous invitons à suivre les maintenant le temps pour passer en revue les informations de votre société dans PMC et suivez notre étapes recommandées pour garantir une transition fluide de compte.
 
-1.  Dans l’espace partenaires, sélectionnez **Ajouter un nouvel utilisateur** d’ajouter une personne, ou **configuration de votre équipe** (ou ajouter des utilisateurs à l’aide de données PMC) pour ajouter plusieurs utilisateurs en même temps.
-    
-    Suivez les instructions affichées à l’écran pour terminer la configuration.
+### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC au guide pas à pas de l’espace partenaires
 
-2.  Si vous créez un compte individuel, envoyez les informations d’authentification (nom d’utilisateur et mot de passe temporaire) directement à l’utilisateur.
+Nous avons préparé globale et détaillée [PMC au guide de transition de l’espace partenaires](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) pour vous guider tout au long de chaque étape de la façon d’une transition de compte réussie.
 
-    Si vous configurez plusieurs comptes basés sur des données PMC, nous enverrons automatiquement à chaque utilisateur un e-mail contenant ses informations de connexion. Vous pourrez également télécharger un fichier contenant ces mêmes informations, ce qui vous permettra de les communiquer de nouveau aux employés, le cas échéant.
+>[!IMPORTANT]
+>Il existe plusieurs les conditions préalables clés inclus dans ce guide, qui sera prendre un temps. Nous vous encourageons à les passer en revue et démarrer le travail pour terminer leur dès que possible.
 
-    Le mot de passe temporaire est valide pendant 90jours. Si l’utilisateur ne se connecte pas pendant ce délai, supprimez le compte et ajoutez-le de nouveau.
+### <a name="video-resources"></a>Ressources vidéo
 
-3.  Facultatif: configurez les comptes individuels pour [activer les mots de passe en libre-service](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started), y compris le choix des questions de sécurité auxquelles les utilisateurs doivent répondre. 
+Outre le [PMC au guide de transition de l’espace partenaires](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), nous avons créé ces courtes vidéos sur les différentes phases de transition de votre compte. 
 
-## <a href="" id="nonadmin_tasks"></a> Tâches des employés: mise à jour des comptes
+- [Découvrir votre tableau de bord de l’espace partenaires](https://partner.microsoft.com/support/partner-center-help)
+ 
+  En savoir plus sur les ressources et les outils disponibles dans l’espace partenaires pour tirer le meilleur parti de votre partenariat.
 
-1.  Obtenez vos informations de connexion, à partir de Microsoft Partner Center ou auprès de votre administrateur. Si vous ne recevez pas les informations de connexion, contactez l’administrateur de votre organisation pour leur demander de renvoyer directement à vous. 
+- [Comptes de multiples emplacements facilitées](https://partner.microsoft.com/support/partner-center-help)
+ 
+  Si vous gérez des bureaux sur plusieurs zones géographiques, voici comment configurer votre compte de différents emplacement et de contrôler tous les éléments d’un site facile à utiliser.
 
-2.  Connectez votre compte Université des partenaires Microsoft. Dans l’espace partenaires, sélectionnez **mettre à jour votre profil** > **accès Université des partenaires**.  Une fois que vous avez connecté ce compte, vous serez à nouveau en mesure d’accéder à l’Université des partenaires.
+- [Vérifiez votre nombre de formation et l’examen](https://partner.microsoft.com/support/partner-center-help)
 
-3.  Associez des examens techniques et des certifications Microsoft. Dans l’espace partenaires, sélectionnez **mettre à jour votre profil** > **associer des examens et certifications**. 
+  Connecter des informations d’identification de formation de vos employés à votre profil commercial pour garantir un accès permanent à l’Université des partenaires et pour bénéficier de compétences.
 
-4.  Facultatif: [configurez la réinitialisation de mot de passe en libre-service](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).
+## <a name="see-also"></a>Voir aussi
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a>Vérification du statut de l’équipe et réception de validations de compétences
+Une fois que vous avez basculé avec succès de votre compte PMC, passez en revue les articles suivants pour obtenir plus familiarisé avec l’espace partenaires.
 
-1.  Vérifier quels employés de votre entreprise ont connecté leur compte Microsoft Partner University et associé leurs examens et certifications: à partir de l’espace partenaires, sélectionnez **vérifier le statut de votre équipe**.
+-   [Créer un profil commercial pour obtenir des prospects de la part de Microsoft](create-a-marketing-profile.md)
 
-2.  **Attendez 24heures** une fois qu’un utilisateur a associé son compte ou réalisé un objectif basé sur les compétences. Passé ce délai, la progression s’affiche dans la section **Partenariat > Compétences**.
+-   [Ajouter de nouveaux utilisateurs de compte et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
+
+-   [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
+
+-   [Gérer les avantages de votre adhésion](manage-your-partner-network-benefits.md)
+
+-   [En savoir plus sur les compétences requises pour le niveau d'adhésion Or ou Argent](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+
