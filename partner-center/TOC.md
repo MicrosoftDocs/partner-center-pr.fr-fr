@@ -1,4 +1,4 @@
-# [À propos de l’Espace partenairesMicrosoft](index.md)
+# [En savoir plus sur l’Espace partenaires Microsoft](index.md)
 
 # [Adhésion au réseau des partenaires](mpn-overview.md)
 ## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
@@ -13,11 +13,10 @@
 ## [S'inscrire au programme Fournisseur de solutions Cloud](enrolling-in-the-csp-program.md)
 ## [Nouvelles conditions requises pour le partenaire direct du programme fournisseur de solutions Cloud](direct-partner-new-requirements.md) 
 ## [Contrats, listes de prix et offres pour fournisseurs de solutionsCloud](csp-documents-and-learning-resources.md)
-## [Vue d’ensemble de l’autorisation régionale Fournisseur de solutions Cloud](regional-authorization-overview.md)
-## [Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud](csp-regional-authorization-tenant-consolidation.md)
-## [Modèles de contrat client](agreements.md)
+## [Marchés régionaux de fournisseurs de solutions cloud et devises](regional-authorization-overview.md)
+## [Contrats Microsoft Cloud par région et langue](agreements.md)
 
-## [Appliquer pour vendre sur des clouds nationaux](csp-national-clouds-overview.md)
+## [Clouds nationaux](csp-national-clouds-overview.md)
 ### [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Espace partenaires de MicrosoftCloud Germany](partner-center-for-microsoft-cloud-germany.md)
 
@@ -44,6 +43,7 @@
 
 
 # [Facturation et taxes](billing.md)
+## [Vue d’ensemble de la facturation fournisseur de solutions cloud](billing-basics.md)
 ## [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md)
 ## [Lire votre facture](read-your-bill.md)
 ## [Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)
@@ -80,6 +80,7 @@
 ### [Passer des clients des services basés sur les licences vers le programme Fournisseur de services Cloud](transition-seat-based-services.md)
 ### [Vendre des abonnements Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [Vendre aux secteurs spécialisés](Get-special-pricing-for-offers.md)
+### [Vendre le cloud de la communauté du secteur public Office365 Secteur Public aux clients du gouvernement des États-Unis qualifiés](csp-gcc-overview.md)
 ### [Augmenter l’adoption et la satisfaction client](increasing-adoption-and-satisfaction.md)
 ### [Simplifier l’installation d’appareils avec WindowsAutopilot](autopilot.md)
 ##  Offres de mise à jour ou de transfert vers des versions plus récentes
