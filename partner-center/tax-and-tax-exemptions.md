@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796004"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683738"
 ---
 # <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
@@ -20,15 +20,15 @@ ms.locfileid: "5796004"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+
 
 Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire. Les règles varient en fonction des pays/régions. Les partenaires doivent collaborer avec leur conseiller fiscal pour déposer les exonérations fiscales appropriées en fonction de leur emplacement et de celui de leurs clients. Pour marquer son compte revendeur Microsoft comme n’étant pas soumis aux taxes, le partenaire doit envoyer ces certificats d’exonération à Microsoft.
 
 **Demander une exonération fiscale**
 
-1.  Rechercher votre **ID Microsoft** dans l’espace partenaires &gt; **paramètres du compte** &gt; **profil d’organisation**.
+1.  Rechercher votre **ID Microsoft** dans l’espace partenaires &gt; **paramètres du compte** &gt; **profil de l’entreprise**.
 2.  Rechercher votre **ID MPN** dans l’espace partenaires &gt; **paramètres du compte** &gt; **profil de partenaire**.
-3.  Créez un ticket de support. Dans le menu espace partenaires, sélectionnez **les demandes de Service** &gt; **demandes de l’espace partenaires** &gt; **nouvelle demande**.
+3.  Créez un ticket de support. Dans le menu espace partenaires, sélectionnez les **demandes de Service** &gt; **demandes de l’espace partenaires** &gt; **nouvelle demande**.
 4.  Remplissez le formulaire. Pour **Type de problème**, choisissez **Impossible de gérer mon profil**. Dans la description, indiquez votre ID&nbsp;MPN et votre ID&nbsp;Microsoft.
 5.  Une fois que vous avez envoyé le ticket, Microsoft vous adresse un e-mail pour obtenir plus d’informations. Lorsque vous répondez, joignez la documentation appropriée correspondant à vos certificats d’exonération fiscale.
 

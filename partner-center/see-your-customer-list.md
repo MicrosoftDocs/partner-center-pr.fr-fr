@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796112"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683698"
 ---
 # <a name="manage-your-customer-list"></a>Gérer votre liste de clients
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796112"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+
 
 Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires. Vous pouvez rechercher des comptes client dans votre base de données et exporter la base de données des clients totalement ou en partie dans un fichier&nbsp;CSV compatible avec Excel. Vous pouvez également exporter les informations sur les abonnements d’un client dans un fichier&nbsp;CSV.
 
@@ -38,7 +38,7 @@ Les journaux d’activité fournissent des données exportables sur les transact
 Dans le menu **Espace partenaires** , sélectionnez les **clients**.
 2.  Pour rechercher un client, entrez son nom ou son nom de domaine dans la zone de recherche.
 3.  Sélectionnez la **flèche vers le bas** à la fin de la ligne d’un client pour voir son ID&nbsp;Microsoft, ainsi que les liens rapides vers ses services et ses abonnements.
-4.  Sous les informations du client **facturé** , mettre à jour le nom de la société. Lorsque vous enregistrez la nouvelle valeur, elle est répercutée dans la liste des clients. Cela modifiera uniquement le nom de société à facturer et la valeur de liste de clients. Il se reflètera pas n’importe où ailleurs.
+4.  Sous les informations du client **facturé** , mettez à jour le nom de la société. Lorsque vous enregistrez la nouvelle valeur, elle est répercutée dans la liste des clients. Cela modifiera uniquement le nom de société à facturer et la valeur de liste de clients. Il se reflètera pas n’importe où ailleurs.
 
 ## <a name="export-your-customer-list"></a>Exporter votre liste de clients
 

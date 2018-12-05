@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796402"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683718"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler les abonnements client
 
@@ -21,7 +21,6 @@ ms.locfileid: "5796402"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de MicrosoftCloud Germany
 -  Partenaires fournisseurs de solutions Cloud
 
 Une fois que vous avez créé un enregistrement de votre client dans l’espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.
@@ -31,7 +30,7 @@ Veuillez noter que certaines offres sont limitées à un abonnement par client. 
 
 **Créer un abonnement**
 
-1.  Dans le menu **Espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, puis choisissez un client dans la liste.
 
 2.  Sélectionnez **Nouvel abonnement**.
 
@@ -57,7 +56,7 @@ Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs
 
 **Suspendre un abonnement**
 
-1.  Dans le menu **Espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
+1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, puis choisissez un client dans la liste.
 2.  Choisissez l’abonnement que vous souhaitez gérer.
 3.  Dans la section **État**, choisissez **Suspendu**. Puis, sélectionnez **Envoyer** pour valider vos modifications.
 4.  Toutes les données seront supprimées, sauf si l’abonnement est réactivé dans les 90jours, ou 90jours en plus du nombre de jours écoulés entre la date d'ouverture du compte et la première période de facturation (120jours maximum).

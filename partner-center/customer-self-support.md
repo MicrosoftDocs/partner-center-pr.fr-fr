@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: support autonome du client, support autonome
 ms.localizationpriority: medium
-ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794772"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683478"
 ---
 # <a name="customer-self-support"></a>Support autonome du client
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794772"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+
 
 Les clients peuvent se connecter à leur propre Centre d’administration Microsoft Office365 ou au portail de gestion Azure et effectuer les actions suivantes:
 

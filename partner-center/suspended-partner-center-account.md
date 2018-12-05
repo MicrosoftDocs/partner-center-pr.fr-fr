@@ -7,12 +7,12 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796192"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683468"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurer un compte Espace partenaires suspendu
 
@@ -22,7 +22,7 @@ Cet article explique quoi faire si votre compte Espace partenaires est suspendu.
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de MicrosoftCloud Germany
+
 
 > [!IMPORTANT]  
 > Lorsque votre compte Espace partenaires est suspendu, vous pouvez continuer à gérer vos déploiements, licences et services. Toutefois, vous ne pourrez pas autoriser ou revendre de nouvelles licences ou de nouveaux services avant que votre compte soit à nouveau en règle.

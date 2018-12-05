@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
 ms.localizationpriority: medium
-ms.openlocfilehash: 6285b9dfe88052939a50d6675a190f3e5419cdbb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 83b5040f1562ef44c5cb17b5a2676387237b2794
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797282"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683798"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
 
@@ -21,7 +21,7 @@ ms.locfileid: "5797282"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+
 
 \[Certaines informations concernent la version préliminaire de produits susceptibles d’être considérablement modifiés d’ici leur commercialisation. Microsoft ne donne aucune garantie, expresse ou implicite, concernant les informations fournies ici.\]
 
@@ -90,7 +90,7 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 2.  Ouvrez le client avec les abonnements à désactiver, et sélectionnez la première offre à désactiver.
 3.  Réglez l’abonnement sur **suspendu**, puis cliquez sur **Envoyer**.
 
-    **Remarque**suspension de l’abonnement garantit une double facturation ne se produit pas.
+    **Remarque**suspension de l’abonnement garantit l’absence de double facturation.
 
      
 

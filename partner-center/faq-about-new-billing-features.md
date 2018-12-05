@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
-ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
+ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/16/2018
-ms.locfileid: "7012602"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683808"
 ---
 # <a name="faq-about-new-billing-features"></a>FAQ sur les nouvelles fonctionnalités de facturation
 
@@ -20,7 +20,7 @@ ms.locfileid: "7012602"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de MicrosoftCloud Germany
+
 
 Vous trouverez ci-dessous les réponses aux questions fréquemment posées à propos de la facturation annuelle et des essais gratuits de l’Espace partenaires. 
 
@@ -144,7 +144,7 @@ Sections:
 
 **Q:** Puis-je passer la fréquence de facturation d'un abonnement de mensuelle à annuelle et vice versa? 
 
--   **R:** Oui. Consultez **pour modifier la fréquence de facturation d’un service en ligne** dans la [base de facturation](https://docs.microsoft.com/en-us/partner-center/billing-basics).
+-   **R:** Oui. Consultez **pour modifier la fréquence de facturation d’un service en ligne** dans [Notions de base de facturation](https://docs.microsoft.com/en-us/partner-center/billing-basics).
 
 **Q:** La facturation annuelle est-elle disponible pour les offres de module complémentaire?   
 

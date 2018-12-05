@@ -7,12 +7,12 @@ ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b6a4839b599a43ba6c10506468be7dbd064d43
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794982"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683438"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Définir un budget Azure pour vos clients
 
@@ -20,7 +20,6 @@ ms.locfileid: "5794982"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
 
 Pour aider les clients à gérer leurs dépenses Azure, vous pouvez définir un budget de dépenses mensuel afin que leur facture Azure ne dépasse pas le montant prévu. La définition d'un budget de dépenses Azure vous permet de comparer les dépenses Azure de vos clients par rapport au budget au cours du mois. Grâce à cette fonctionnalité, vous pouvez: 
 
@@ -33,7 +32,7 @@ Pour aider les clients à gérer leurs dépenses Azure, vous pouvez définir un 
 Cette option fournit une estimation des données de dépenses Azure. Les montants facturés réels peuvent varier et les valeurs ne prennent pas en compte les taxes, les crédits, les ajustements ou autres frais pouvant s'appliquer. Les données de dépenses sont actualisées une fois par jour. Les clients continueront d'utiliser les services et ressources Azure et à être facturé en conséquence, sauf si vous modifiez ses paramètres de compte dans le portail Azure. 
 
 > [!NOTE]  
-> Cette fonctionnalité n’est pas disponible dans le bac à sable ou de Test dans les comptes de Production TIP ().
+> Cette fonctionnalité n’est pas disponible dans un bac à sable ou de Test dans les comptes de Production TIP ().
 
 **Activer les notifications par courrier électronique**
 1.  Dans le menu espace partenaires, sélectionnez **les dépenses Azure**.

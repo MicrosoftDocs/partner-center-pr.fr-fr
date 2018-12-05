@@ -7,12 +7,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 09b915d7cb2cd36ffabc5f4336cb78f37e9b262c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 0094b7f8b6314e776d5d4db6a19c49eb2ff0f4e1
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795172"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683488"
 ---
 # <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795172"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de MicrosoftCloud Germany
+
 
 Fonction multipartenaire de l’espace partenaires prend en charge les scénarios où un client veut travailler avec plusieurs partenaires. Par exemple, un client peut vouloir engager un partenaire pour son expertise d'Office365, mais passer par un autre partenaire spécialisé dans MicrosoftAzure.
 

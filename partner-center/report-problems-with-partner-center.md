@@ -7,12 +7,12 @@ ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795322"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683678"
 ---
 # <a name="report-problems-with-partner-center"></a>Signaler des problèmes avec l’Espace partenaires
 
@@ -20,13 +20,13 @@ ms.locfileid: "5795322"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de MicrosoftCloud Germany
+
 
 Prise en charge de contact l’espace partenaires si vous rencontrez des problèmes avec l’espace partenaires, notamment des bogues ou des interruptions de service.
 
 **Signaler un problème avec l’espace partenaires**
 
-1.  Dans votre **Centre de partenaires**, sélectionnez l’icône de **prise en charge** , puis sélectionnez **les demandes de l’espace partenaires**.
+1.  Dans votre **Espace partenaires**, sélectionnez l’icône de **prise en charge** , puis sélectionnez **les demandes de l’espace partenaires**.
 
 2.  Sélectionnez **Nouvelle demande**.
 

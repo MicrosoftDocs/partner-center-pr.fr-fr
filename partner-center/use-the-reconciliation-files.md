@@ -2,17 +2,17 @@
 title: Utiliser les fichiers de rapprochement | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Pour une vue détaillée de la ligne de chacun des frais dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir de l’espace partenaires.
+description: Pour une vue détaillée de l’article de chacun des frais dans un cycle de facturation, télécharger les fichiers de rapprochement à partir de l’espace partenaires.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022243"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683818"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -20,9 +20,9 @@ ms.locfileid: "6022243"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de MicrosoftCloud Germany
 
-Pour une vue détaillée de la ligne de chacun des frais dans un cycle de facturation, téléchargez les fichiers de rapprochement à partir de l’espace partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
+
+Pour une vue détaillée de l’article de chacun des frais dans un cycle de facturation, télécharger les fichiers de rapprochement à partir de l’espace partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
 
 ## <a href="" id="itemizebypartner"></a>Détailler par partenaire
 
@@ -49,7 +49,7 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 <td>ID MPN revendeur</td>
 <td><p>Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect.</p>
 <p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Cet&nbsp;ID correspond à l’ID de revendeur indiqué pour l’abonnement dans l’Espace partenaires.</p>
-<p>Pour afficher ou mettre à jour le revendeur, dans le menu espace partenaires, sélectionnez <strong>clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
+<p>Pour afficher ou mettre à jour le revendeur, dans le menu espace partenaires, sélectionnez les <strong>clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
 <p>Si un partenaire&nbsp;Fournisseur de solutions&nbsp;Cloud a vendu l’abonnement directement au client, son ID&nbsp;MPN est indiqué deux&nbsp;fois, en tant qu’ID&nbsp;MPN et ID&nbsp;MPN revendeur.</p>
 <p>Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire.</p>
 <p>Si le partenaire&nbsp;CSP supprime un&nbsp;ID revendeur, cette valeur est définie sur&nbsp;-1.</p></td>
@@ -209,7 +209,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nom de domaine du client, afin d’identifier le client. Cela ne doit pas être utilisé pour identifier le client que le client/partenaire peut mettre à jour le domaine de redirection vers un microsite/par défaut via le portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td><p>Nom de domaine du client, afin d’identifier le client. Cela ne doit pas être utilisée pour identifier de manière unique le client que le client/partenaire peut mettre à jour le domaine de redirection vers un microsite/par défaut via le portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 <td>exemple.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -522,7 +522,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Ceux basés sur les frais</strong></p>
+<p><strong>Frais basé sur les licences</strong></p>
 </td>
 <td>
 <p>Frais d'activation</p>

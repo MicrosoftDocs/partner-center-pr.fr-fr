@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795612"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683768"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d'un client
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795612"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+
 
 Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et qui répond aux critères décrits dans [Faire remonter des problèmes à Microsoft](escalate-problems-to-microsoft.md), déposez un ticket de support pour lui. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
 
@@ -39,7 +39,7 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 
 - Afin que vous puissiez créer des demandes de service pour votre client dans Azure, votre fournisseur indirect doit vous accorder le qu'accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office365. 
 
-- Bien que l’administrateur du support technique dans l’espace partenaires ne peuvent pas créer des demandes de service dans le portail de service Azure, ce qu’ils peuvent faire est de créer un groupe de prise en charge dans le portail de service Azure et accorder des autorisations de ce groupe pour consigner les demandes de prise en charge.
+- Bien que l’administrateur du support technique dans l’espace partenaires ne peuvent pas créer des demandes de service dans le portail de service Azure, ce qu’ils peuvent faire est de créer un groupe de prise en charge dans le portail de service Azure et accorder des autorisations de ce groupe pour vous connecter des demandes de support.
 
 1.  Sélectionnez **Nouvelle demande de support**.
 2.  Remplissez la demande de support à l'aide des informations appropriées, puis sélectionnez **Créer**&nbsp;:
@@ -97,7 +97,7 @@ Si vous vous connectez directement au Centre d'administration Office&nbsp;365, v
 
 **Comment obtenir un support supplémentaire Dynamics 365?**
 
- Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou si vous voulez davantage les support technique:
+ Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou si vous voulez davantage le support technique:
  
 Contactez le [Support Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
