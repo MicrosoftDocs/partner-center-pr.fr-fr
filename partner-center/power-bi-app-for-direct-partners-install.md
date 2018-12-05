@@ -7,30 +7,37 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
+ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795532"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "6131698"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installer et prévisualiser l’application Analyse de l’Espace partenaires pour MicrosoftPowerBI
 
 **S’applique à**
 
--   Espace partenaires
+- Espace partenaires
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
+Sélectionnez l’application qui correspond le mieux à votre entreprise à partir de la liste des applications de Power BI disponibles à la suivante:
+- [Partenaire direct](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+
+- [Partenaire indirect](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+
+- [Revendeur indirect](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+
 Avant d’installer la version préliminaire de l'application Analyse de l’Espace partenaires pour MicrosoftPowerBI, veillez à satisfaire les conditions suivantes.
 
--   Vous êtes un partenaire direct dans le programme Fournisseur de solutions Cloud et sur l'Espace partenaires. Vous êtes un partenaire direct si vous travaillez directement avec Microsoft et des clients.
+- Vous choisissez l’application de Power BI appropriée pour votre entreprise.
 
--   Vous avez un abonnement actif à MicrosoftPower BI Professionnel ou MicrosoftPower BI Premium.
+- Vous avez un abonnement actif à MicrosoftPower BI Professionnel ou MicrosoftPower BI Premium.
 
--   Vous pouvez vous connecter à Power BI.
+- Vous pouvez vous connecter à Power BI.
 
--   Vous pouvez vous connecter en tant qu’administrateur général, agent administrateur ou administrateur de facturation au [client Azure ActiveDirectory (AD Azure) de votre société](azure-active-directory-tenants-and-partner-center.md).
+- Vous pouvez vous connecter en tant qu’administrateur général, agent administrateur ou administrateur de facturation au [client Azure ActiveDirectory (AD Azure) de votre société](azure-active-directory-tenants-and-partner-center.md).
 
 ## <a name="to-install-the-app"></a>Pour installer l'application
 
