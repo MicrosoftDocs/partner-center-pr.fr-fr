@@ -24,9 +24,9 @@ La première fois que vous vous connectez à l’espace partenaires en tant qu�
 
 ## <a name="associate-your-mpn-id-to-your-partner-center-account"></a>Associer votre ID MPN à votre compte espace partenaires
 
-Pour être en mesure de gérer vos primes, avantages et les compétences et gérer des utilisateurs, votre emplacement MPN doit être associé à votre compte espace partenaires.
+Pour être en mesure de gérer vos primes, avantages d’adhésion et compétences et gérer des utilisateurs, votre emplacement MPN doit être associé à votre compte espace partenaires.
 
-Comme vous vous inscrivez dans l’espace partenaires, sur l’écran d' **associer votre ID MPN à votre compte espace partenaires**, entrez un ID MPN dans la zone de recherche. Cela nous permettra à se connecter cet ID MPN de votre emplacement.
+Comme vous vous inscrivez dans l’espace partenaires, sur l’écran d' **associer votre ID MPN à votre compte espace partenaires**, entrez un ID MPN dans la zone de recherche. Cela permettra nous connecter cet ID MPN à votre emplacement.
 
 1. Vous pouvez également vous connecter à l’espace partenaires, accédez à l' **icône Paramètres** et sélectionnez **les paramètres de l’espace**.
 
@@ -43,7 +43,7 @@ Comme vous vous inscrivez dans l’espace partenaires, sur l’écran d' **assoc
 
 ## <a name="file-tax-exemptions"></a>Déposer des exonérations fiscales
 
-- Décidez si exonérations fiscales vous être applicable et, si tel est le cas, déposez-les avant d’ajouter des clients ou des abonnements. Pour plus d’informations, voir [taxes et exonérations fiscales](tax-and-tax-exemptions.md) .
+- Déterminez si exonérations fiscales vous être applicable et, si tel est le cas, déposez-les avant d’ajouter des clients ou des abonnements. Pour plus d’informations, voir [taxes et exonérations fiscales](tax-and-tax-exemptions.md) .
 
 ## <a name="verify-and-update-your-profile-information"></a>Vérifier et mettre à jour les informations de votre profil
 

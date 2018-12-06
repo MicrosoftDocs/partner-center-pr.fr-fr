@@ -30,7 +30,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
   
 -   Les coûts des logiciels abonnement tels que des logiciels de base de données SQL ou SUSE Linux ne sont pas incluses dans les prix des réservations Azure
 
--   Tarification pour entreprises de Microsoft pour vous n’inclut pas les taxes, sauf si votre est le Brésil. Si votre est le Brésil, le prix commercial pour vous inclut les taxes appropriés 
+-   Tarification pour entreprises de Microsoft vous n’inclut pas les taxes, à moins que votre est le Brésil. Si votre est le Brésil, le prix commercial pour vous inclut les taxes appropriés 
  
 -   Les agents commerciaux et du bureau d'assistance ont besoin d'un accès explicite à l'abonnement Azure afin de pouvoir l'acheter ou le gérer dans le portail Azure et soumettre des demandes de support, y compris en vue d'échanges et de remboursements, au nom du client.  
 
@@ -59,7 +59,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | Bénin                          | Heard et McDonald (Îles) | Saint-Pierre-et-Miquelon                |
 > | Bhoutan                         | Inde                             | Saint-Vincent-et-les Grenadines         |
 > | Bonaire                        | Île de Man                       | État indépendant des Samoa                                    |
-> | Bouvet (Île)                  | Île Jan Mayen                         | Saint-Marin                               |
+> | Bouvet (Île)                  | Jan Mayen                         | Saint-Marin                               |
 > | Brésil                         | Jersey                            | São Tomé-et-Príncipe                    |
 > | Territoires britanniques de l’océan Indien | Kazakhstan                        | Seychelles                               |
 > | Îles Vierges britanniques         | Kiribati                          | Sierra Leone                             |
@@ -104,14 +104,14 @@ Suivez les étapes ci-dessous pour acheter des réservations Microsoft Azure pou
 
     c. Choisissez le type de réservation que le client souhaite dans la liste de **type réservations** .
 
-4. Les réservations Azure doivent être associées à un abonnement Azure actif. Choisissez l’abonnement du client à ajouter des réservations Azure pour à partir de la liste des **abonnements du client** . 
+4. Les réservations Azure doivent être associées à un abonnement Azure actif. Choisissez l’abonnement du client à ajouter des réservations Azure à partir de la liste des **abonnements du client** . 
 
    >[!IMPORTANT]
    >Si le client ne dispose déjà d’un abonnement Azure actif, sélectionnez les **services en ligne** pour en ajouter un. 
 
 5. Utiliser les filtres pour rechercher des réservations Azure sur des machines virtuelles qui répondent aux besoins de votre client.  
 
-6. Une fois que vous trouvez les réservations que vous souhaitez acheter, entrez le nombre d’instances réservées au client sera ont besoin de **quantité** , puis sélectionnez **Ajouter au panier**.  
+6. Après avoir trouvé les réservations que vous souhaitez acheter, entrez le nombre d’instances réservées au client sera ont besoin de **quantité** , puis sélectionnez **Ajouter au panier**.  
 
 7. Répétez les étapes5 et 6 jusqu'à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Révision** pour vérifier que la commande est correcte.  
 
@@ -122,7 +122,7 @@ Suivez les étapes ci-dessous pour acheter des réservations Microsoft Azure pou
     - Sélectionnez l’étendue de la réservation. L'étendue de la réservation peut couvrir un ou plusieurs abonnements (portée partagée). Si vous définissez l’étendue de la réservation à un seul abonnement, la remise de réservation est appliquée à cet abonnement uniquement. Si vous sélectionnez partagé, la remise de réservation est appliquée à tous les abonnements au sein du contexte de facturation du client. 
 
       >[!NOTE] 
-      >Si vous choisissez de limiter la portée de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le portail Azure. Suivez les instructions [de cette rubrique](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande.    
+      >Si vous optez pour limiter l’étendue de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le portail Azure. Suivez les instructions [de cette rubrique](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande.    
 
     - Si vous êtes un partenaire fournisseur, sélectionnez le revendeur que vous voulez associer avec le produit.
 
