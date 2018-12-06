@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795712"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776473"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Mise à niveau de votre abonnement au MicrosoftPartner Network
 
@@ -50,7 +50,7 @@ Action Pack est un abonnement annuel abordable à des services, des logiciels et
 Pour plus d’informations sur Microsoft Action Pack, accédez à [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Ce lien vous dirigeront vers un autre site Web. Revenez sur ce site, l’espace partenaires, pour vous abonner à Action Pack.
+> Ce lien vous dirigeront vers un autre site Web. Revenez sur ce site, le site de l’espace partenaires, pour vous abonner à Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>S’abonner à MicrosoftAction Pack
@@ -79,7 +79,7 @@ Votre abonnement Action Pack sera renouvelé automatiquement chaque année à ce
 
 3. Sélectionnez **Désactiver le renouvellement automatique** si vous ne voulez pas que votre abonnement ActionPack soit renouvelé automatiquement chaque année. 
 
-   > [!NOTE]  
+> [!NOTE]  
 > Si vous désactivez le renouvellement automatique de l’abonnement, vous ne pourrez pas le réactiver avant d'avoir renouvelé l’abonnement. Nous vous rappellerons de renouveler votre abonnement avant qu'il n'arrive à expiration.
 
 

@@ -7,27 +7,27 @@ keywords: références, répondre à des références, prospect, prospects, prof
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1fa537dbb170412385080b17cf3a52e8a7a784ea
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796422"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776483"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Développer votre activité de partenaire Microsoft 
 
-Microsoft propose de nombreuses ressources pour vous aider à développer votre activité de partenaire. Découvrez comment les fonctionnalités de ce site, l'Espace partenaires Microsoft, peuvent vous aider à attirer de nouveaux clients et à accroître votre rentabilité. 
+Microsoft propose de nombreuses ressources pour vous aider à développer votre activité de partenaire. Découvrez comment les fonctionnalités de ce site, le Microsoft Partner Center, peuvent vous aider à attirer de nouveaux clients et à rentabilité plus.
 
 Utilisez l'Espace partenaires pour:
 
--   Obtenir des prospects (tous les partenaires)
--   Démarquer votre société avec le statut de partenaire Argent ou Or (tous les partenaires)
--   Proposer des abonnements d’essai aux produits Microsoft (partenaires du programme Fournisseur de solutions Cloud)
--   Proposer des prix promotionnels sur les produits Microsoft (partenaires du programme Fournisseur de solutions Cloud)
--   Vendre dans d’autres marchés (partenaires du programme Fournisseur de solutions Cloud)
+- Obtenir des prospects (tous les partenaires)
+- Démarquer votre société avec le statut de partenaire Argent ou Or (tous les partenaires)
+- Proposer des abonnements d’essai aux produits Microsoft (partenaires du programme Fournisseur de solutions Cloud)
+- Proposer des prix promotionnels sur les produits Microsoft (partenaires du programme Fournisseur de solutions Cloud)
+- Vendre dans d’autres marchés (partenaires du programme Fournisseur de solutions Cloud)
 
 > [!NOTE]  
->  Votre société doit être inscrit dans le Microsoft Partner Network et disposer d’un compte de l’espace partenaires pour tirer parti de ces fonctionnalités. Voir [Rejoindre Microsoft Partner Network](mpn-overview.md) pour en savoir plus sur l'adhésion au réseau. Pour certaines fonctionnalités, vous devez également être revendeur du programme Fournisseur de solutions Cloud (CSP). Voir [Présentation du programme Fournisseur de solutions Cloud](csp-overview.md) pour en savoir plus sur la vente par le biais de ce programme.
+> Votre société doit être inscrit dans le Microsoft Partner Network et disposer d’un compte de l’espace partenaires pour tirer parti de ces fonctionnalités. Voir [Rejoindre Microsoft Partner Network](mpn-overview.md) pour en savoir plus sur l'adhésion au réseau. Pour certaines fonctionnalités, vous devez également être revendeur du programme Fournisseur de solutions Cloud (CSP). Voir [Présentation du programme Fournisseur de solutions Cloud](csp-overview.md) pour en savoir plus sur la vente par le biais de ce programme.
 
 ## <a name="resources-to-help-your-business-grow"></a>Ressources pour vous aider à développer votre activité
 
@@ -41,8 +41,4 @@ Utilisez l'Espace partenaires pour:
 Vendre aux secteurs spécialisés comme s’à but non lucratif et éducation|[Vendre aux secteurs spécialisés](get-special-pricing-for-offers.md)|Partenaires fournisseurs de solutions Cloud|
 |Développer votre activité par le biais de nombreuses activités disponibles dans le programme du mode coopération primes. Revendications de fichier pour les activités par le biais de l’espace partenaires.| [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)|Partenaires fournisseurs de solutions Cloud|
 |Créer de nouveaux ensembles de logiciels en incluant des offres tierces qui fonctionnent avec le logiciel Microsoft que vous vendez déjà|[Découvrir les offres tierces](third-party-offers.md)|Partenaires fournisseurs de solutions Cloud|
-
-## <a name="see-also"></a>Voir également
-
-Le site [MicrosoftPartner Network](https://partner.microsoft.com) et la [page d’accueil de l'Espace partenaires](https://partnercenter.microsoft.com/partner/home) si vous êtes un nouveau partenaire Microsoft ou si vous n’êtes pas familiarisé avec les dispositions de cet article.
-
+|
