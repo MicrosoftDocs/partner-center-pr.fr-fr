@@ -5,15 +5,16 @@ title: Commencez ici pour vous aider à l’espace partenaires
 ms.topic: landing-page
 ms.date: 10/29/2018
 description: Vous avez besoin d'aide pour configurer votre compte, entrer en contact avec les clients ou acheter un abonnement Action Pack? Trouvez les réponses dans cet espace partenaires vous aider à la bibliothèque créé spécifiquement pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN. 
-author: v-chmccl
+author: labrenne
+ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795912"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776523"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>Commencez ici pour vous aider à l’espace partenaires
 
