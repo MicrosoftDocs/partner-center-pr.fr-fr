@@ -8,12 +8,13 @@ keywords: fraude, mauvaise utilisation, utilisation acceptable, règles de bon u
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795422"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917591"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Défaut de paiement, fraude ou mauvaise utilisation
 
@@ -21,7 +22,8 @@ ms.locfileid: "5795422"
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
--  Espace partenaires de Microsoft Cloud Germany
+
+
 
 Vous êtes financièrement responsable des achats frauduleux effectués par vos clients et/ou du défaut de paiement des services achetés par des clients. Par conséquent, nous vous recommandons vivement de mettre en œuvre des contrôles d'atténuation des risques par la détection et la prévention des fraudes.
 
@@ -65,7 +67,7 @@ Ces recommandations peuvent vous aider à élaborer des stratégies et des prati
 #### <a name="post-purchase-customer-account-management"></a>Gestion des comptes client après achat
 - Collaborez avec les clients pour comprendre leurs besoins professionnels d'utilisation du Cloud tout en définissant des seuils de contrôle adaptés
     > [!NOTE]  
-    >  Vous pouvez [définir un budget de dépenses mensuel Azure](set-an-azure-spending-budget-for-your-customers.md) dans l’espace partenaires pour surveiller l’utilisation du client durant le mois et être averti lorsque les clients approchent de leur budget.
+    >  Vous pouvez [définir un budget de dépense mensuel Azure](set-an-azure-spending-budget-for-your-customers.md) dans l’espace partenaires pour surveiller l’utilisation de client durant le mois et être averti lorsque les clients approchent de leur budget.
 - Surveillez régulièrement [les journaux d'activité des client](activity-logs.md) pour détecter rapidement les fraudes
 - Prenez rapidement des mesures dès la détection d'activités suspectes
 - Évitez de donner aux clients un accès administratif complet à leurs abonnements sans au préalable mettre en œuvre des contrôles de réduction des risques

@@ -2,17 +2,18 @@
 title: Migration des abonnements Skype Entreprise Online Plan1 vers les nouvelles versions d’Office365 | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-Description: Skype for Business Online Plan 1 subscriptions is retiring.
+Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
 author: labrenne
 ms.author: labrenne
 keywords: Plans Skype Entreprise, retrait de Skype, Office365
 ms.localizationpriority: medium
-ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797162"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917621"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migration des abonnements Skype Entreprise Online Plan1 vers les nouvelles versions de MicrosoftOffice365
 
@@ -54,13 +55,13 @@ Microsoft offre en permanence de nouveaux produits et services à nos partenaire
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrer vos clients vers de nouvelles formules
 
-1. Pour acheter le nouvel abonnement, dans le **menu espace partenaires**, sélectionnez **clients**, sélectionnez le client dont vous voulez déplacer, puis sélectionnez **Ajouter les abonnements**.
+1. Pour acheter le nouvel abonnement, dans le **menu espace partenaires**, sélectionnez des **clients**, sélectionnez le client dont vous voulez déplacer, puis sélectionnez **Ajouter les abonnements**.
 
 2. Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, l'une des options ci-dessus), indiquez le nombre de licences, puis sélectionnez **Envoyer**. 
 
 Votre client doit maintenant avoir un ancien et un nouvel abonnement: l'ancien abonnement Skype Entreprise Online Plan1 et le nouvel abonnement «cible», par exemple, Option1: Office365 Entreprise F1.
 
-3. Pour réaffecter les licences des utilisateurs du client, dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client que vous déplacez, puis **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
+3. Pour réaffecter les licences des utilisateurs du client, dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client que vous déplacez, puis sélectionnez **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
 
 4. Pour réaffecter la licence utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
 

@@ -2,17 +2,18 @@
 title: Adhésion au MicrosoftPartner Network | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Découvrez les avantages d'un partenariat avec Microsoft.
+description: Découvrez les avantages d'un partenariat avec Microsoft. L’offre de Microsoft Partner Network vous options le plus large éventail de produits dans le secteur ainsi que le programme de différencier votre entreprise, pour commercialiser et vendre vos solutions.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partenaire, partenariat, MPN, MicrosoftPartnerNetwork, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion, argent, or, compétences
 ms.localizationpriority: medium
-ms.openlocfilehash: 06a8460e2703bffccd4a214fdd3256e859c31937
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.custom: seodec18
+ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776463"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917571"
 ---
 # <a name="partner-with-microsoft"></a>Devenir partenaire deMicrosoft
 

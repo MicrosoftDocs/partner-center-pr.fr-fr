@@ -2,18 +2,19 @@
 title: Assigner des contacts de support | Espacepartenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: En tant que partenaire revendeur, vous pouvez désigner un revendeur comme contact de support.
+description: Lorsque vous configurez des abonnements aux services Microsoft pour vos clients, vous pouvez souhaiter assigner le support technique de ces produits à un revendeur désigné, plutôt que d'assurer vous-même ce service.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 ms.author: kenpacq
 keywords: agent d’aide, support, affecter un contact de support, contact chargé du support
 ms.localizationpriority: medium
-ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795292"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917251"
 ---
 # <a name="assign-support-contacts"></a>Assigner des contacts de support
 

@@ -2,18 +2,19 @@
 title: Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. Cela signifie que n'avez pas à démarrer seul, mais qu'à la place vous pouvez travailler avec un fournisseur de technologies expérimenté pour garantir votre succès. Dans le modèle fournisseur-revendeur (deux niveaux), le fournisseur achète auprès de Microsoft des services et des solutions Cloud que vous revendez aux clients.
+description: En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation.
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau2, de niveau2
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c17ab635ac95cc53d8900c12335823fcabd75eb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795492"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917491"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -36,7 +37,7 @@ Pour plus d’informations sur les conditions nécessaires pour vendre dans le c
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>S’inscrire en tant que revendeur indirect dans le programme Fournisseur de solutions Cloud
 
 > [!NOTE]  
-> Si vous êtes déjà inscrit dans le programme CSP, vous devrez peut-être fournir un support client uniquement les coordonnées à créer un compte revendeur dans l’espace partenaires. 
+> Si vous êtes déjà inscrit dans le programme CSP, vous devrez peut-être fournir un support client uniquement les informations pour créer un compte revendeur dans l’espace partenaires de contact. 
 
 ### <a name="before-you-begin"></a>Avant de commencer
 
@@ -84,19 +85,19 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 
 9.  Lorsque votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d'agents administrateurs. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations:
 
-    a.  Dans votre **Centre de partenaires**, sélectionnez l’icône **paramètres** , puis sélectionnez **Gestion des utilisateurs**.  
+    a.  Dans votre **Espace partenaires**, sélectionnez l’icône **paramètres** , puis sélectionnez **Gestion des utilisateurs**.  
 
     b.  Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.   
 
 ## <a name="add-a-new-user"></a>Ajouter un utilisateur
 
-1. Dans votre **Centre de partenaires**, sélectionnez l’icône **paramètres** , puis sélectionnez **Gestion des utilisateurs**.
+1. Dans votre **Espace partenaires**, sélectionnez l’icône **paramètres** , puis sélectionnez **Gestion des utilisateurs**.
 
 2. Sélectionnez **Ajouter un utilisateur**.
 
 3. Entrez le nom complet et l’adresse de messagerie unique de l’utilisateur.
 
-4. Sélectionnez le type d’agent et le type d’administrateur. Comme l’accès à l’Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour plus d’informations sur ce que chaque rôle peut faire, voir la section [Affecter des autorisations utilisateur](#assignuserpermissions)
+4. Sélectionnez le type d’agent et le type d’administrateur. Comme l’accès à l’Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour plus d’informations sur ce que chaque rôle peut faire, voir la section [Affecter des autorisations utilisateur](#assign-user-permissions)
 
 5. Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
 
@@ -128,7 +129,7 @@ Si un fournisseur indirect veut s’associer avec vous sur l’espace partenaire
     > [!NOTE]  
     > Lorsque vous établissez un partenariat avec un fournisseur indirect, vous autorisez à envoyer des commandes et ajouter des abonnements pour vos clients et vous lui accordez un accès administrateur au compte professionnel de votre entreprise. Une fois votre partenariat avec le fournisseur créé, vous pouvez supprimer l’accès administrateur du fournisseur à votre compte professionnel dans le portail Office365. 
 
-4.  Sélectionnez **les fournisseurs indirects** dans votre menu de **L’espace partenaires** pour afficher la liste des fournisseurs dont vous disposez d’un partenariat avec. 
+4.  Sélectionnez **les fournisseurs indirects** dans le menu de **L’espace partenaires** pour afficher la liste des fournisseurs dont vous disposez d’un partenariat avec. 
 
 5.  Sélectionnez **Afficher les clients** pour afficher la liste des clients que vous partagez avec le fournisseur.
 
@@ -138,7 +139,7 @@ Si un fournisseur indirect veut s’associer avec vous sur l’espace partenaire
  
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
- Pour effectuer des transactions avec les clients sur l’espace partenaires, vos clients doivent disposer de comptes de l’espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
+ Pour effectuer des transactions avec les clients qui utilisent l’espace partenaires, vos clients doivent disposer de comptes de l’espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
 
 ### <a name="connect-with-existing-customers"></a>Entrer en contact avec les clients
 
@@ -148,7 +149,7 @@ Lorsque vous vous connectez avec un fournisseur indirect, vous n’obtenez pas a
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
 
-1.  Sélectionnez **clients** à partir de votre menu de **L’espace partenaires** , puis sélectionnez **demander une relation de revendeur**.
+1.  Sélectionnez des **clients** dans votre menu de **L’espace partenaires** , puis **demander une relation de revendeur**.
 
 2.  Sur la page suivante, vérifiez le brouillon du message électronique. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 

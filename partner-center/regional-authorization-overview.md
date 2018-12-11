@@ -2,31 +2,32 @@
 title: Les marchés internationaux de fournisseur de solutions cloud | L’espace partenaires
 ms.topic: article
 ms.date: 11/03/2018
-description: Voir où vous pouvez vendre des offres de fournisseur de solutions cloud, basées sur l’emplacement de votre société.
+description: Consultez les pays et régions dans lesquels vous pouvez vendre des offres de fournisseur de solutions cloud, basées sur l’emplacement de votre société.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Fournisseur de solutions cloud, marchés, territoires, où peut i commercialiser via ce programme, fournisseur de solutions cloud offre, régions, vendent des solutions cloud, CSP global
+keywords: Fournisseur de solutions cloud, marchés, territoires, où peut i commercialiser via ce programme, fournisseur de solutions cloud offre, régions, vendent des solutions de cloud, CSP global
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e561b68a083d7a5839aaebe6aa9f03f4f7e9c93
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.custom: seodec18
+ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022232"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917671"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Marchés régionaux du programme fournisseur de solutions cloud et les devises
 
-Emplacement de votre société détermine votre marché. Votre marché inclut les régions et/ou les pays où vous pouvez vendre des offres de fournisseur de solutions cloud.
+Emplacement de votre société détermine votre marché. Votre marché inclut les régions et/ou dans les pays où vous pouvez vendre des offres de fournisseur de solutions cloud.
 
-Par exemple, si votre société se trouve aux États-Unis, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients aux États-Unis et dans les îles éloignées des États-Unis. Si votre entreprise se trouve au Brésil, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients uniquement au Brésil. Si votre société se trouve dans la région Afrique, vous pouvez vendre offres de fournisseur de solutions cloud pour les clients dans tous les 18 pays dans la région d’Afrique.
+Par exemple, si votre entreprise se trouve aux États-Unis, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients aux États-Unis et dans les îles éloignées des États-Unis. Si votre entreprise se trouve au Brésil, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients uniquement au Brésil. Si votre entreprise se trouve dans la région d’Afrique, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les 18 pays dans la région Afrique.
 
 Avant de pouvoir commander que CSP offre au nom du client, le client doit signer le contrat de Cloud de Microsoft. Vous trouverez du contrat Microsoft Cloud applicables pour votre pays/région [ici](agreements.md).
 
 >[!IMPORTANT]
-> À compter du 7 novembre 2018, vous devrez confirmer qu’un client a accepté le contrat de Cloud de Microsoft en fournissant des informations relatives à la personne qui l’a signé. Pour plus d’informations, voir [Confirmer l’acceptation d’un client du contrat Microsoft Cloud](confirm-consent.md) .
+> À partir de 7 novembre 2018, vous aurez besoin vérifier qu’un client a accepté le contrat de Cloud de Microsoft en fournissant des informations relatives à la personne qui l’a signé. Pour plus d’informations, voir [Confirmer l’acceptation d’un client du contrat Microsoft Cloud](confirm-consent.md) .
 
-Pour déterminer où vous pouvez vendre des offres de fournisseur de solutions cloud, rechercher l’emplacement de votre société dans un des listes ci-dessous.
+Pour déterminer où vous pouvez vendre des offres de fournisseur de solutions cloud, trouver l’emplacement de votre société dans l’une des listes ci-dessous.
 
 ## <a name="africa-region-and-market"></a>Marché et Afrique
 
@@ -142,7 +143,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 
 ## <a name="brazil-region-and-market"></a>Marché et région Brésil
 
-Si votre société est le Brésil, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients au Brésil.
+Si votre société est le Brésil, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients au Brésil.
 
 |  Pays/région | Devise |
 |  -------------- |:--------:|
@@ -223,7 +224,7 @@ Si votre société est l’Inde, vous pouvez vendre des offres de fournisseur de
 
 ## <a name="japan-region-and-market"></a>Marché et région Japon
 
-Si votre société est le Japon, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients au Japon.
+Si votre société est le Japon, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients au Japon.
 
 |  Pays/région | Devise |
 |  -------------- |:--------:|
@@ -327,7 +328,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Liban        |   USD    |
 |  Lesotho        |   USD    |
 |  Libye          |          |
-|  Macédoine, République de|   |
+|  République de Macédoine|   |
 |  Mauritanie     |   USD    |
 |  République de Moldavie        |          |
 |  Mongolie       |          |
@@ -336,7 +337,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Mozambique     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Territoire palestinien occupé |        |
 |  Qatar          |   USD    |
 |  Arabie saoudite   |   USD    |
 |  Serbie         |   USD    |
@@ -353,7 +354,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Zimbabwe       |          |
 |
 
-## <a name="new-zealand-region-and-market"></a>Marché et la région Nouvelle-Zélande
+## <a name="new-zealand-region-and-market"></a>Marché et à la région Nouvelle-Zélande
 
 Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
 
@@ -374,9 +375,9 @@ Si votre société est la Russie, vous pouvez vendre des offres de fournisseur d
 |  Russie         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Marché et région Taïwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Si l’emplacement de votre entreprise est Taïwan, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients à Taïwan.
 
 |  Pays/région | Devise |
 |  -------------- |:--------:|

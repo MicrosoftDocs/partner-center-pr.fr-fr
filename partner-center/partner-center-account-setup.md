@@ -2,17 +2,18 @@
 title: Gérer votre compte Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Gérer votre profil de l’organisation, les informations bancaires et fiscaux et vos utilisateurs.
+description: Gérer le profil de votre organisation, bancaire et informations fiscales et les utilisateurs dans l’espace partenaires.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 18fc2545032c05ea93fa28ba212557165ff68a45
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 01594dab5515d2373cffef581dcdd6a786afea14
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796613"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917281"
 ---
 # <a name="manage-your-partner-center-account"></a>Gérer votre compte Espace partenaires
 
@@ -20,12 +21,12 @@ ms.locfileid: "5796613"
 
 -  Espace partenaires
 
-Le compte que vous créez dans le centre de l’espace lorsque vous vous inscrivez est votre adresse e-mail professionnelle et vos données métier. Une fois que vous créez un compte sur l’espace partenaires, vous ou votre administrateur devez terminer la configuration de profil complet de votre société, y compris les détails de la prise en charge, d’exonération fiscale le cas échéant et coordonnées du contact principal. 
+Le compte que vous créez dans le centre de l’espace lorsque vous vous inscrivez correspond à votre adresse e-mail avec vos informations de l’entreprise. Après avoir créé un compte sur l’espace partenaires, vous ou votre administrateur devez terminer la configuration de profil complet de votre société, y compris les détails du support, d’exonération fiscale le cas échéant et coordonnées du contact principal. 
 
-Vous ou votre administrateur crée également les comptes d’utilisateurs pour toute personne devant utiliser l’espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler avec facturation et la facturation, créer des profils commerciaux, gérer des références, utilisation des primes les programmes et en fournissant prise en charge.
+Vous ou votre administrateur crée également les comptes d’utilisateurs pour toute personne devant utiliser l’espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler avec la facturation et la facturation, créer des profils commerciaux, gérer des références, utilisation des primes les programmes et fournir de prise en charge.
 
 >[!NOTE]
->Paramètres du compte est situé dans le coin supérieur droit de l’espace partenaires. Lorsque vous sélectionnez l’icône, vous serez en mesure de sélectionner ce que vous souhaitez gérer. Par exemple, sélectionnez l' **icône du compte**et puis sélectionnez **Gestion des utilisateurs**. Cela vous amène à votre page de gestion d’utilisateur et ouvre également un volet supplémentaire qui inclut toutes les options de **paramètres de compte** .
+>Paramètres du compte est situé dans le coin supérieur droit de l’espace partenaires. Lorsque vous sélectionnez l’icône, vous serez en mesure de sélectionner ce que vous souhaitez gérer. Par exemple, sélectionnez l' **icône du compte**et puis sélectionnez la **Gestion des utilisateurs**. Cela vous amène à votre page de gestion d’utilisateur et s’ouvre également un volet supplémentaire qui inclut toutes les options de **paramètres de compte** .
 
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Ressources pour vous aider à gérer votre compte Espace partenaires

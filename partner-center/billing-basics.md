@@ -1,5 +1,5 @@
 ---
-title: Notions de base de facturation | Espace partenaires
+title: Vue d’ensemble de facturation | L’espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
@@ -7,21 +7,21 @@ author: labrenne
 ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c79f3f8eff26aec3af313711e9e83de2a4eace9
-ms.sourcegitcommit: d4e03062ba7ab9f23b0242086cf73a9fdd217ff6
+ms.custom: seodec18
+ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/09/2018
-ms.locfileid: "6224657"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917601"
 ---
-# <a name="billing-basics"></a>Notions de base de facturation
+# <a name="billing-overview"></a>Vue d’ensemble de la facturation
 
 **S’applique à**
 
 -  Espace partenaires
 -  Partenaires du programme fournisseur de solutions cloud
 
-# <a name="billing-overview"></a>Vue d’ensemble de la facturation
 Selon les produits, les solutions et services qu'acheter pour vos clients, vous serez facturé pour ces achats dans un ou plusieurs des manières suivantes:
 -   [Facturation basée sur la licence](#licensebasedbilling)
 

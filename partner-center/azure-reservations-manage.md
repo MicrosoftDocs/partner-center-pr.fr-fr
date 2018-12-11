@@ -2,17 +2,18 @@
 title: Gérer des réservations MicrosoftAzure pour vos clients | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-Description: Managing Azure reservations on behalf of your customers.
+Description: To manage your customers’ Azure reservations post-purchase, you’ll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal.
 author: v-petand
 ms.author: v-petand
-keywords: Azure, réservations, gérer, facturation, acheter, Annuler, exchange, des frais de résiliation anticipée
+keywords: Azure, réservations, gérer, facturation, acheter, Annuler, exchange, résiliation anticipés
 ms.localizationpriority: medium
-ms.openlocfilehash: fde21951dacab70a9f9b03d853647aabcc40d9af
-ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
+ms.custom: seodec18
+ms.openlocfilehash: 7096efb34f8c72d3c8dc724332dd031a180d0636
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "7011409"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917711"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations MicrosoftAzure pour vos clients
 
@@ -22,7 +23,7 @@ ms.locfileid: "7011409"
 -  Portail Microsoft Azure
 -  Partenaires fournisseurs de solutions Cloud
 
-Pour gérer des réservations Azure après l’achat vos clients, vous allez sélectionner le client et la réservation à gérer dans l’espace partenaires et puis apportez des modifications à la réservation dans le portail Azure. 
+Pour gérer les réservations Azure après l’achat vos clients, vous allez sélectionner le client et la réservation à gérer dans l’espace partenaires et apportez des modifications à la réservation dans le portail Azure. 
 
 1. Pour commencer, sélectionnez les **clients** à partir du menu de l’espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les réservations. 
 
@@ -40,7 +41,7 @@ Pour gérer des réservations Azure après l’achat vos clients, vous allez sé
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Annuler ou échanger une réservation 
 
-Si à tout moment de l’entreprise a besoin de modification, ils peuvent souhaitez annuler une réservation et obtenir un remboursement ou utiliser le montant du remboursement au prorata d’une réservation à utiliser vers le prix d’une nouvelle réservation.
+Si les activités du client a besoin de modifier à tout moment, ils voudrez annuler une réservation et obtenir un remboursement ou utiliser le montant du remboursement au prorata d’une réservation à utiliser vers le prix d’une nouvelle réservation.
 
 Dans ces deux scénarios, Microsoft rembourse le montant vous afin que vous pouvez ensuite gérer les transactions financières qui en résulte avec vos clients. Microsoft ne contacte pas les clients directement sur la facturation, les annulations ou remboursements.   
  
@@ -49,20 +50,20 @@ Dans ces deux scénarios, Microsoft rembourse le montant vous afin que vous pouv
 
 Les clients peuvent demander d’annuler une réservation à tout moment (montant du remboursement limitée à 50 000 $ par an). Annulation d’une réservation permet au client de retourner la quantité des mois restants d’une réservation Azure une résiliation anticipés. Le solde restant au prorata, moins les frais de résiliation anticipée, est remboursé à votre compte afin que vous pouvez solliciter le remboursement le compte du client. 
 
-Voir ci-dessous pour les frais et les détails de l’annulation.
+Des frais et des informations d’annulation, voir ci-dessous.
 
 
-|**Date d’annulation**<br> (en jours)   |**Utilisation**    |**Crédit**  |**Résiliation anticipée**<br> frais    |**Limite de remboursement** | 
+|**Date d’annulation**<br> (jours)   |**Utilisation**    |**Crédit**  |**Résiliation anticipée**<br> frais    |**Limite de remboursement** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |au maximum 5                         | Non          | 100%       | Non                              | 50 000 USD   |
-|au maximum 5                         | Oui         | Au prorata  | Non                              | 50 000 USD   |
-|Plus de 5                        | Non          | Au prorata  | 12 %                             | 50 000 USD   |
-|Plus de 5                        | Oui         | Au prorata  | 12 %                             | 50 000 USD   |
+|au maximum 5                         | Oui         | Calculés au prorata  | Non                              | 50 000 USD   |
+|Plus de 5                        | Non          | Calculés au prorata  | 12 %                             | 50 000 USD   |
+|Plus de 5                        | Oui         | Calculés au prorata  | 12 %                             | 50 000 USD   |
 
 
 **Fonctionnement des échanges** 
 
-Si un client souhaite acheter une réservation différente de celui qu’ils initialement achetés chez vous, ils peuvent demander un échange. Échanger une réservation peut être une alternative intéressante pour l’annulation d’une réservation, car elle permet au client d’utiliser le montant du remboursement au prorata vers le prix de la nouvelle réservation. 
+Si un client souhaite acheter une réservation différente de celui qu’ils initialement achetés chez vous, ils peuvent demander un échange. Échanger une réservation peut être une alternative intéressante pour annuler une réservation, car elle permet au client d’utiliser le montant du remboursement au prorata vers le prix de la nouvelle réservation. 
 
 Le montant du remboursement au prorata est crédité sur votre compte afin que vous pouvez proposer au client un échange.
 

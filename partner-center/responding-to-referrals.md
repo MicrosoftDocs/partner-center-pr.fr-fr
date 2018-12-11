@@ -2,17 +2,18 @@
 title: Réponse aux références | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires.
+description: En tant que partenaire Microsoft qualifié, vous pouvez évaluer, négocier et répondre aux références par le biais de l’espace partenaires.
 author: KPacquer
 ms.author: kenpacq
 keywords: référence, RFI, rechercher un partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: d8305212477fab01e96cc966d404d5fa427e1faa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: cc209f965f4a18d41baedaa993aeb3e21fcfc41e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796172"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917611"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Réponse aux références dans l'Espace partenaires
 

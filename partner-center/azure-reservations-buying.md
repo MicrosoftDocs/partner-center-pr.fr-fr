@@ -2,17 +2,18 @@
 title: Acheter des réservations MicrosoftAzure pour vos clients | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-Description: Buy Azure reservations on behalf of customers in Partner Center.
+Description: You can buy Azure reservations on behalf of your customers in Partner Center.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, réservations, gérer, facturer, acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.custom: seodec18
+ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382945"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917551"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour vos clients dans l’espace partenaires 
 

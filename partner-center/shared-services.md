@@ -2,17 +2,18 @@
 title: Ajouter AzurePartnerSharedServices | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Les partenaires fournisseurs de solutions Cloud peuvent désormais acheter des abonnements Azure pour leur propre usage.
+description: AzurePartnerSharedServices est un nouveau type d’offre proposé aux partenaires dans le cadre du programme Fournisseur de solutions Cloud. Il leur permet d’acheter des abonnements Azure pour leur propre usage.
 author: labrenne
 ms.author: labrenne
 Keywords: Azure, shared services, tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: c663ffe58575acc02663492bf14f5ae3a3c8b43e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795722"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917631"
 ---
 # <a name="add-azure-partner-shared-services"></a>Ajouter AzurePartnerSharedServices
 

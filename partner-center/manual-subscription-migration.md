@@ -7,12 +7,13 @@ ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797132"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917291"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrer des abonnements DynamicsAX vers Dynamics365
 
@@ -69,9 +70,9 @@ Pour plus d’informations sur le mappage de licences, consultez le tableau suiv
 
 Microsoft offre en permanence de nouveaux produits et services aux revendeurs et fournisseurs. Dans ces cas, un revendeur peut avoir besoin de mettre à niveau les services de ses clients ou de migrer leurs abonnements à partir de références (SKU) qui vont progressivement disparaître. La migration de clients depuis des références anciennes vers des références plus récentes doit respecter la séquence suivante&nbsp;:
 
--   [Acheter le nouvel abonnement](#manual-subscription-migration-purchasenewsubsc)
--   [Réaffecter les licences utilisateur actuelles](#manual-subscription-migration-reassignlicenses)
--   [Annuler l’ancien abonnement](#manual-subscription-migration-cancelsubscriptions)
+-   [Acheter le nouvel abonnement](#purchase-the-new-subscription)
+-   [Réaffecter les licences utilisateur actuelles](#reassign-user-license)
+-   [Annuler l’ancien abonnement](#cancel-the-old-subscription)
 
 Dans les procédures suivantes, vous migrez un client de Microsoft Dynamics AX ou CRM Online vers Dynamics365.
 
@@ -79,7 +80,7 @@ Le revendeur doit migrer un client avec un abonnement DynamicsAX Enterprise vers
 
 <a href="" id="purchasenewsubsc"></a>
 
-**Acheter le nouvel abonnement**
+### <a name="purchase-the-new-subscription"></a>Acheter le nouvel abonnement
 
 1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et choisissez **d’Ajouter des abonnements**.
 2.  Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, Dynamics&nbsp;365 for Operations, Enterprise Edition), indiquez le nombre de licences et choisissez **Envoyer**.
@@ -88,7 +89,7 @@ Le revendeur doit migrer un client avec un abonnement DynamicsAX Enterprise vers
 
 <a href="" id="reassignlicenses"></a> L’étape suivante consiste à réaffecter toutes les licences utilisateur existantes au nouvel abonnement.
 
-**Réaffecter les licences utilisateur**
+### <a name="reassign-user-licenses"></a>Réaffecter les licences utilisateur
 
 1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et choisissez les **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
 2.  Pour réaffecter les licences utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
@@ -98,7 +99,7 @@ Le revendeur doit migrer un client avec un abonnement DynamicsAX Enterprise vers
 
 <a href="" id="cancelsubscriptions"></a> Une fois les licences utilisateur attribuées au nouveau service, vous pouvez en toute sécurité annuler l’ancien abonnement au premier niveau du client.
 
-**Annuler l’ancien abonnement**
+### <a name="cancel-the-old-subscription"></a>Annuler l’ancien abonnement
 
 1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et sélectionnez l’abonnement à annuler.
 2.  Dans la page de détails de l’abonnement, sélectionnez **Suspendu** dans **État**.
