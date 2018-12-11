@@ -6,12 +6,12 @@ description: Pour se conformer aux exigences nationales, régionales et sectorie
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 63c6def58f32dbac2d7b997ae9b165a9fe16cdd4
-ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
+ms.openlocfilehash: e371869ec5fcf6ffbd9d1b078a9e7658aa480a61
+ms.sourcegitcommit: 13a9a1cb7c810479998353d969bc15e0654d8ff1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2018
-ms.locfileid: "7460946"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8962361"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de MicrosoftCloud Germany
 
@@ -19,9 +19,10 @@ ms.locfileid: "7460946"
 
 -  Espace partenaires de Microsoft Cloud Germany
 
->[!IMPORTANT] En fonction de l’évolution dans les besoins des clients, notre stratégie cloud pour l’Allemagne allons nous concentrer sur la distribution des nouvelles cloud régions en Allemagne cohérentes avec notre nuage global offre. Dans cette optique, nous seront n’est plus accepter de nouveaux clients ou déployer de nouveaux services à partir du Microsoft Cloud Germany actuellement disponible. Les clients existants peuvent continuer à utiliser les actuel services cloud disponibles aujourd'hui, nous allons mettre à jour avec les mises à jour de sécurité requises.
-
->Aller plus loin, les nouveaux clients ont la possibilité d’utiliser les régions d’européens actuellement disponibles ou les régions de nouveau en Allemagne lorsqu’ils deviennent disponibles. Pour plus d’informations, voir [Microsoft à fournir des services cloud à partir de nouveaux centres de données en Allemagne](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
+> [!IMPORTANT]
+> En fonction de l’évolution des besoins des clients, notre stratégie cloud pour l’Allemagne allons nous concentrer sur la distribution des nouvelles cloud régions en Allemagne cohérentes avec notre nuage global offre. Dans cette optique, nous seront n’est plus accepter de nouveaux clients ou déployer de nouveaux services à partir du Microsoft Cloud Germany actuellement disponible. Les clients existants peuvent continuer à utiliser les actuel services cloud disponibles aujourd'hui, ce qui nous allons mettre à jour avec les mises à jour de sécurité requises.
+>  
+> Dorénavant, les nouveaux clients ont la possibilité d’utiliser les régions d’européens actuellement disponibles ou les régions de nouveau en Allemagne lorsqu’ils deviennent disponibles. Pour plus d’informations, voir [Microsoft à fournir des services de cloud des nouveaux centres de données en Allemagne](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
 Pour se conformer aux lois et réglementations allemandes qui régissent la collecte et l’utilisation des individus personnelles ainsi qu'aux principales normes internationales, les fonctionnalités suivantes de gestion des utilisateurs et des licences ne sont pas disponibles dans l'Espace partenaires de MicrosoftCloud Germany. Ajoutez et gérez plutôt les utilisateurs et les licences dans le portail Azure de MicrosoftCloud Germany ou le centre d’administration Office365.
 
