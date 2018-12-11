@@ -1,6 +1,7 @@
 # [En savoir plus sur l’Espace partenaires Microsoft](index.md)
 
 # [Adhésion au réseau des partenaires](mpn-overview.md)
+## [Effectuer la transition du PMC vers l’Espace partenaires](pmc-to-partner-center.md)
 ## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
 ## Offres d’abonnement
 ### [Action Pack](mpn-get-action-pack.md)
