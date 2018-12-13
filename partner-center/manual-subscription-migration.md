@@ -1,122 +1,107 @@
 ---
-title: Migrer des abonnements Dynamics AX vers Dynamics&nbsp;365 | Espace partenaires
+title: Migrer de Dynamics 365 et du Plan Engagement client à partir de Basic (offres qualifiés) vers les nouvelles versions | L’espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
-description: Microsoft propose Dynamics365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités.
+ms.date: 12/12/2018
+description: Dynamics 365 for Sales / du Plan Engagement client à partir des abonnements Basic (offre qualifiés) n’est plus peut être renouvelé.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
-author: MaggiePucciEvans
-ms.author: evansma
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+Keywords: Dynamics 365 offers, renew offers, new Dynamics 365 SKUs
+ms.openlocfilehash: b4b25dd80a684c9060b28461a9e6f594651ae224
+ms.sourcegitcommit: 23adf424dd43ed0281473f97d535d73c59c92b01
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917291"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "8968269"
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrer des abonnements DynamicsAX vers Dynamics365
+# <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrer de Dynamics 365 et du Plan Engagement client à partir de Basic (offres qualifiés) vers les nouvelles versions
 
 **S'applique à**
 
 -  Espace partenaires
 
-Microsoft propose Dynamics365, la nouvelle génération d’applications métier intelligentes permettant à votre entreprise de se développer, croître et se transformer pour répondre aux besoins de vos clients et saisir de nouvelles opportunités. Dans le cadre du nouveau produit, Microsoft présente les nouvelles formules d’abonnement Microsoft Dynamics pour les clients le 1ernovembre2016, qui sont similaires, mais pas identiques à vos formules actuelles.
+Les clients le 1er janvier 2019 efficaces avec Dynamics 365 for Sales / du Plan Engagement client à partir des abonnements Basic (offre qualifiés) pouvez renouveler n’est plus ces offres hérités; les abonnements existants ne seront pas renouvelés automatiquement lorsqu’ils arriveront à expiration. Sur la page des détails de l’abonnement, l’état d’abonnement changera par «Expire le [date]» «Renouvellements le [date]». 
 
-Les instructions fournies dans ce document décrivent comment les fournisseurs indirects peuvent transformer les abonnements Microsoft DynamicsAX et Microsoft Dymanics CRM Online des clients en nouveaux abonnements Microsoft Dynamics365. Elles s’appliquent également aux autres produits Microsoft qui connaissent des mises à jour, obligeant les fournisseurs à migrer les abonnements des clients vers une nouvelle référence (SKU).
 
-Les formules MicrosoftDynamics CRM Online et AX sont retirées.  À partir du 1erjuillet2017, vous ne pouvez plus renouveler d'abonnement dans les formules anciennes, et les abonnements E4 existants ne seront pas renouvelés automatiquement lorsqu’ils arriveront à expiration.
+Pour garantir la continuité des activités pour les clients, vous devez passer les ceux dont les abonnements arrivant à expiration à une option pris en charge, répertoriée ci-dessous. Nous recommandons de passer les clients à de nouveaux abonnements avant la date de fin d'abonnement annuelle afin de leur éviter toute interruption de service.
 
-Lorsque les abonnements CRM Online et AX prendront fin, ils seront annulés. Pour garantir la continuité des activités pour les clients, vous devez passer les clients ayant des abonnements arrivant à expiration à une option de référence (SKU) prise en charge, répertoriée ci-dessous. Nous recommandons de passer les clients à de nouveaux abonnements avant la date de fin d’abonnement annuelle afin de leur éviter toute interruption de service. 
+Si vous utilisez l’API (CREST ou espace partenaires), vous pouvez trouver renouvellement des abonnements arrivant à expiration en évaluant la date de fin de l’abonnement avec l’automatique = False propriété. Les abonnements en question seront définies automatiquement renouvelé = False le 1er janvier 2019. Vous pouvez passer les clients vers une nouvelle formule à tout moment. 
 
-Sur la page des détails de ces abonnements qui arrivent à expiration, le statut de l'abonnement «Renouvellements automatiques le [date]» est remplacé par «Expire le [date]». 
+### <a name="the-dynamics-365-offers-being-retired"></a>Le Dynamics 365 propose en cours mis hors service
 
-Si vous utilisez l’API (CREST ou Espace partenaires), vous pouvez découvrir les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement avec la propriété de renouvellement automatique = False. Les abonnements ont été définis sur renouvellement automatique = False le 1er juillet2017. Vous pouvez passer les clients vers une nouvelle formule à tout moment. 
-
-**Modifications des licences Microsoft DynamicsAX**
-
-La gamme de produits Microsoft DynamicsAX n’est plus disponible à partir du 1ernovembre2016. Pour en savoir plus sur les nouvelles options de licence de Dynamics365, consultez le [Guide des licences](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).
-
- Pour plus d’informations sur le mappage de licences, consultez le tableau suivant:
-
-|**SKU retirée**   |**SKU Dynamics365**   |
-|-------------------|:----------------------|
-|SKU Entreprise|Formule MicrosoftDynamics365 for Unified Operations ou Microsoft Dynamics365 |
-|Tâche|MicrosoftDynamics365 for Activity
-|Tâche/libre-service|Microsoft Dynamics365 for Team Members|
-|Appareil|Appareil Microsoft Dynamics365 for Operations|
-
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Modifications des licences Microsoft Dynamics CRM Online 
-
-**Microsoft Dynamics CRM Online**
-
-La formule Microsoft Dynamics CRM Online actuelle n’est plus disponible depuis le 1ernovembre2016. Pour en savoir plus sur les nouvelles options de licence de Microsoft Dynamics365, consultez le [Guide des licences](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf). Pour en savoir plus sur les nouvelles options de gestion de licences, consultez [Informations importantes pour les clients de CRM Online](https://go.microsoft.com/fwlink/?linkid=831667).
-
-Pour plus d’informations sur le mappage de licences, consultez le tableau suivant:
-
-|**SKU retirée**   |**SKU Dynamics365**   |
-|-------------------|:----------------------|
-|Entreprise|Formule Dynamics365 Enterprise Customer Engagement |
-|Professionnel|Formule Dynamics365 Enterprise Customer Engagement, Dynamics365 for Sales ou Dynamics365 for Customer Service|
-|De base|Dynamics365 for Team Members, Dynamics365 for Sales, Dynamics365 for Customer Service ou formule Dynamics365 Enterprise Customer Engagement|
-|Essentiel|Dynamics365 for Team Members|
-|Extension Field service|Formule Dynamics 365 Enterprise Customer Engagement ou Dynamics365 for Field Service|
-|Extension Project Service Automation|Formule Dynamics365 Customer Engagement ou Dynamics365 for Project Service Automation|
+- Dynamics 365 pour vente Enterprise Edition CRMOL Basic (qualifiée offre)
+- Dynamics 365 pour vente Enterprise Edition CRMOL Basic (offre qualifiée) pour les enseignants
+- Dynamics 365 pour vente Enterprise Edition CRMOL Basic (offre qualifiée) pour les étudiants
+- Dynamics 365 pour vente Enterprise Edition (tarification du gouvernement des États-Unis) CRMOL Basic (qualifiée offre)
+- Dynamics 365 Édition entreprise de vente à partir de SA pour CRM Basic (qualifiée offre)
+- Dynamics 365 Édition entreprise de vente à partir de SA pour CRM Basic (offre qualifiée) pour les enseignants
+- Dynamics 365 Édition entreprise de vente à partir de SA CRM Basic (offre qualifiée) pour les étudiants
+- Dynamics 365 pour vente Enterprise Edition (tarification du gouvernement des États-Unis) à partir de SA pour CRM Basic (qualifiée offre)
+- Dynamics 365 de vente Enterprise Edition extension pour CRM Basic (qualifiée offre)
+- Dynamics 365 de vente Enterprise Edition extension pour CRM Basic (offre qualifiée) pour les enseignants
+- Dynamics 365 de vente Enterprise Edition extension CRM Basic (offre qualifiée) pour les étudiants
+- Dynamics 365 de vente Enterprise Edition (tarification du gouvernement des États-Unis) extension pour CRM Basic (qualifiée offre)
+- Dynamics 365 client Engagement Plan Enterprise Edition CRMOL Basic (qualifiée offre)
+- Dynamics 365 client Engagement Plan Enterprise Edition (tarification du gouvernement des États-Unis) CRMOL Basic (qualifiée offre)
+- Dynamics 365 client Engagement Plan Enterprise Edition CRMOL Basic (offre qualifiée) pour les étudiants
+- Dynamics 365 client Engagement Plan Enterprise Edition CRMOL Basic (offre qualifiée) pour les enseignants
+- Édition entreprise de Plan d’Engagement client Dynamics 365 à partir de SA pour CRM Basic (qualifiée offre)
+- Dynamics 365 client Engagement Plan Enterprise Edition (tarification du gouvernement des États-Unis) à partir de SA pour CRM Basic (qualifiée offre)
+- Édition entreprise de Plan d’Engagement client Dynamics 365 à partir de SA CRM Basic (offre qualifiée) pour les étudiants
+- Édition entreprise de Plan d’Engagement client Dynamics 365 à partir de SA pour CRM Basic (offre qualifiée) pour les enseignants
+- Dynamics 365 client Engagement Plan Enterprise Edition extension pour CRM Basic (qualifiée offre)
+- Dynamics 365 client Engagement Plan Enterprise Edition (tarification du gouvernement des États-Unis) module complémentaire pour CRM Basic (qualifiée offre)
+- Dynamics 365 client Engagement Plan Enterprise Edition module complémentaire CRM Basic (offre qualifiée) pour les étudiants
+- Dynamics 365 client Engagement Plan Enterprise Edition module complémentaire pour CRM Basic (offre qualifiée) pour les enseignants
 
 
 
-## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers les nouvelles formules de produit
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 for Sales / plans du Plan Engagement client à partir de remplacement Basic (offre qualifiés)
+
+**Offres retirés**   
+
+- Dynamics 365 for Sales à partir de CRM Basic ou CRMOL Basic (qualifiée offre)
+- Plan d’Engagement client Dynamics 365 à partir de CRM Basic ou CRMOL Basic (qualifiée offre)
+
+**Options de remplacement**
+- Dynamics 365 destinée aux professionnels de vente (nouveau)
+- Dynamics 365 destinée aux professionnels de vente (nouveau)
+- Dynamics 365 for Customer Service
+- Plan d’Engagement client Dynamics 365 ou
+- Membres de l’équipe Dynamics 365
 
 
-Microsoft offre en permanence de nouveaux produits et services aux revendeurs et fournisseurs. Dans ces cas, un revendeur peut avoir besoin de mettre à niveau les services de ses clients ou de migrer leurs abonnements à partir de références (SKU) qui vont progressivement disparaître. La migration de clients depuis des références anciennes vers des références plus récentes doit respecter la séquence suivante&nbsp;:
 
--   [Acheter le nouvel abonnement](#purchase-the-new-subscription)
--   [Réaffecter les licences utilisateur actuelles](#reassign-user-license)
--   [Annuler l’ancien abonnement](#cancel-the-old-subscription)
+## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers des nouvelles formules de produit
 
-Dans les procédures suivantes, vous migrez un client de Microsoft Dynamics AX ou CRM Online vers Dynamics365.
+Transfert des clients à partir de références (SKU) retiré vers les plus récentes doit respecter les étapes suivantes dans l’ordre suivant:
 
-Le revendeur doit migrer un client avec un abonnement DynamicsAX Enterprise vers un abonnement Dynamics365 for Operations. La première étape consiste à acheter Dynamics365 for Operations.  Répétez ces étapes pour un client CRM Online migrant vers MicrosoftDynamics365.
+- Acheter le nouvel abonnement
+- Réaffecter les licences utilisateur actuelles
+- Annuler l’ancien abonnement
 
-<a href="" id="purchasenewsubsc"></a>
+## <a name="purchase-the-new-plan-for-your-customer"></a>Acheter le nouveau plan pour votre client
 
-### <a name="purchase-the-new-subscription"></a>Acheter le nouvel abonnement
+1. Sélectionnez **clients** à partir de la navigation de gauche, puis sélectionnez le client que vous voulez déplacer vers le nouvel abonnement.
+2. Sélectionnez **Ajouter un abonnement**.
+3. Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, l'une des options ci-dessus), indiquez le nombre de licences, puis sélectionnez **Envoyer**. 
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et choisissez **d’Ajouter des abonnements**.
-2.  Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, Dynamics&nbsp;365 for Operations, Enterprise Edition), indiquez le nombre de licences et choisissez **Envoyer**.
+Votre client possède alors à la fois l’ancien abonnement et une nouvelle. L’étape suivante consiste à réaffecter les licences aux utilisateurs du client.
 
-    Votre client doit maintenant avoir un ancien et un nouvel abonnement&nbsp;: dans cet exemple, l’ancien (Dynamics AX Enterprise) et le nouveau (Dynamics&nbsp;365 for Operations, Enterprise Edition).
+1. Sélectionnez **clients** à partir de la navigation de gauche, puis sélectionnez le client que vous déplacez.
+2. Sélectionnez **Utilisateurs et licences**.
+3. Pour réaffecter une licence à un utilisateur, sélectionnez l’utilisateur, puis sélectionnez **Gérer les licences**. 
+4. Sur la page **Gérer les licences** , désactivez le Dynamics 365 for Sales / Plan d’Engagement client à partir de Basic (offre qualifiés) licence case à cocher et sélectionnez une nouvelle formule de service de l’abonnement du client est transféré sur. 
+5. Sélectionnez **Envoyer**. Vous ferez cela pour chaque utilisateur qui ont besoin de la nouvelle licence. 
 
-<a href="" id="reassignlicenses"></a> L’étape suivante consiste à réaffecter toutes les licences utilisateur existantes au nouvel abonnement.
+Une fois que vous avez déplacé les licences vers le nouvel abonnement, vous pouvez annuler l’ancien abonnement. 
 
-### <a name="reassign-user-licenses"></a>Réaffecter les licences utilisateur
+1. Sélectionnez **clients** à partir de la navigation de gauche, puis sélectionnez le client que vous déplacez.
+2. Sur la page des détails abonnement, définissez l’ancien abonnement sur **suspendu** et sélectionnez **Soumettre**.
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et choisissez les **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
-2.  Pour réaffecter les licences utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
-3.  Dans la page **Gérer les licences**, désactivez la case à cocher de la licence **Dynamics AX Enterprise**, puis sélectionnez la licence **Dynamics 365 for Operations**.
-4.  Sélectionnez **Envoyer**. Une page de confirmation indique les nouvelles licences attribuées.
-5.  Suivez la même procédure pour les autres utilisateurs du client qui ont besoin de la réaffectation de licences.
-
-<a href="" id="cancelsubscriptions"></a> Une fois les licences utilisateur attribuées au nouveau service, vous pouvez en toute sécurité annuler l’ancien abonnement au premier niveau du client.
-
-### <a name="cancel-the-old-subscription"></a>Annuler l’ancien abonnement
-
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**, sélectionnez le client à déplacer et sélectionnez l’abonnement à annuler.
-2.  Dans la page de détails de l’abonnement, sélectionnez **Suspendu** dans **État**.
-3.  Sélectionnez **Envoyer**.
-
-L’ancien abonnement est suspendu et le nouveau est activé. L’abonnement suspendu est automatiquement désapprovisionné après 120&nbsp;jours. Aucun frais n’est facturé au client pour l’ancien abonnement.
-
-## <a name="additional-considerations"></a>Autres éléments à prendre en considération
-
-
-Si votre client passe du programme Open Channel au programme Cloud Services pour approvisionner davantage d’abonnements, vous devrez également migrer ses abonnements&nbsp;:
-
--   Si le client a reçu son ancien abonnement via le programme Open Channel, la transition vers le programme Fournisseur de services Cloud sur la nouvelle référence (SKU) est simple.
--   Si le client n’est pas encore votre client, vous pouvez l’inviter. Pour plus d’informations, consultez la rubrique d’aide [Demander une relation avec un client](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
-
-Lorsque le client vous accepte comme fournisseur indirect, la procédure d’approvisionnement reste essentiellement la même&nbsp;: vous achetez le nouvel abonnement, puis vous affectez les licences utilisateur. La seule différence concerne l’annulation du ou des anciens abonnements. Un nouveau fournisseur ne peut pas annuler ou suspendre des abonnements souscrits par le biais d’autres canaux. Si le client a souscrit des abonnements via un autre canal de vente, comme le programme Open Channel, il doit les annuler lui-même dans ce canal.
-
+L’ancien abonnement est désormais suspendu et le nouvel abonnement est actif. L’abonnement suspendu est automatiquement désapprovisionné après 120jours. Votre client n’induit aucun coût supplémentaire pour l’ancien abonnement.
  
 
  
