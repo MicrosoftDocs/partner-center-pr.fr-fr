@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
+ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683768"
+ms.lasthandoff: 12/18/2018
+ms.locfileid: "8973899"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d'un client
 
@@ -48,8 +48,22 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 
 3.  Pour passer en revue ultérieurement les demandes de service de votre client dans le portail Microsoft Azure, sélectionnez **Gérer les demandes de support**.
 
+Vous devrez peut-être créer une demande de support pour un client lorsque vous ne disposez pas des autorisations d’administrateur pour ce client. Cela peut se produire dans l’un des deux scénarios: 
+ 
+-   Vous n’avez pas demandé des privilèges d’administrateur lorsque vous établissez tout d’abord la relation.
+-   Gérer les abonnements Azure et non d’un client tiers, ce qui ne nécessite pas de vous permettent de disposer d’autorisations administratives.
+ 
+Dans ces cas, vous pouvez utiliser la procédure suivante pour créer une demande de support. 
 
+1.  Copiez le nom de domaine du client à partir de leur page de compte dans l’espace partenaires.
 
+2.  Accédez à https://portal.azure.com/[customerdomainname]. 
+
+3.  Sélectionnez l’abonnement Azure nécessitant une prise en charge.
+
+4.  Sélectionnez la **nouvelle demande de support**et suivez les invites pour créer la demande. 
+
+ 
 **Office&nbsp;365, Microsoft Dynamics&nbsp;CRM Online, Enterprise Mobility Suite**
 
 1. Dans la section **Créer une demande de service**, choisissez la catégorie de rubriques de support appropriée. Vous devrez peut-être sélectionner **Plus...** pour afficher des rubriques supplémentaires.    
