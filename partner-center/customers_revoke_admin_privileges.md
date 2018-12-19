@@ -1,18 +1,18 @@
 ---
 title: Les clients délèguent les privilèges d'administration à des partenaires | Espace partenaires
 ms.topic: article
-ms.date: 12/7/2018
+ms.date: 12/18/2018
 description: En tant qu’un partenaire revendeur, votre client peut vous autoriser à être leur administrateur. Ils peuvent également supprimer des privilèges.
 author: labrenne
 ms.author: labrenne
 keywords: privilèges d’administrateur délégués, administrateur pour le compte de, supprimer des privilèges, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917501"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976816"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Les clients délèguent les privilèges d'administration à des partenaires
 
