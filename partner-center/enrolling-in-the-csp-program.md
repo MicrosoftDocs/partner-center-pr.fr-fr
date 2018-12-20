@@ -6,12 +6,12 @@ description: Comprendre les différents modèles de vente dans le programme Four
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 35a23762cb187eb9277a88c8ac54abf694a823b5
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: dddd94e08dd4f79050a48e50659c4e716522153e
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796592"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980613"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
@@ -31,83 +31,46 @@ Choisissez le [modèle Fournisseur de solutions Cloud qui convient](https://part
 Il peut nous falloir plusieurs jours pour examiner et vérifier les informations que vous avez fournies. Nous vous enverrons un e-mail lorsque nous en aurons terminé.
 
 > [!IMPORTANT]  
-> Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Cette restriction s'applique uniquement au client utilisé pour effectuer les transactions de Fournisseur de solutions Cloud. Les partenaires fournisseurs de solutions Cloud qui se servent d'un client non fournisseur de solutions Cloud pour leur usage professionnel peuvent acheter les services en ligne d'un autre fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute information concernant les publications de fonctionnalités sera diffusée via les canaux de communication habituels, y compris l’espace partenaires.
+> Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Cette restriction s’applique uniquement au client utilisé pour effectuer les transactions du fournisseur de solutions Cloud. Les partenaires fournisseurs de solutions cloud qui servent d’un client non fournisseur de solutions cloud pour leur activité d’entreprise peuvent acheter les services en ligne à partir d’un autre partenaire fournisseur de solutions cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Toute information concernant les publications de fonctionnalités sera diffusée via les canaux de communication habituels, y compris [L’espace partenaires](https://partner.microsoft.com/en-us/pcv/announcements).
 
 ### <a name="enroll-as-an-indirect-reseller"></a>S'inscrire en tant que revendeur indirect
 
+La demande en croissance rapide de services et les solutions Cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions Cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne veulent pas avoir à gérer plusieurs fournisseurs ou n'ont pas mis en place d'infrastructure de gestion des relations clients de bout en bout, peuvent s’inscrire au programme des fournisseurs de solutions Microsoft Cloud (CSP) en tant que revendeurs indirects.
 
-1. Une fois que vous vous êtes inscrit en tant que revendeur indirect, vous devez [trouver un fournisseur indirect](https://partnercenter.microsoft.com/partner/find-a-provider) avec lequel collaborer. Le fournisseur avec qui vous collaborez dirigera les clients vers vous, gérera les achats de logiciels que vous pouvez vendre ainsi que la facturation et le support des clients, ce qui vous permettra de vous concentrer sur vos activités de revendeur.
+En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. Cela signifie que n'avez pas à démarrer seul, mais qu'à la place vous pouvez travailler avec un fournisseur de technologies expérimenté pour garantir votre succès. Dans le modèle fournisseur-revendeur (deux niveaux), le fournisseur achète auprès de Microsoft des services et des solutions Cloud que vous revendez aux clients.
 
-2. Votre administrateur global doit configurer votre compte dans l’espace partenaires. L’administrateur global peut ajouter de votre organisation les employés qui travailleront dans l’espace partenaires, leur affecter des rôles et autorisations en fonction de leur leurs tâches ou encore configurer le profil de l’organisation.
+Les divers fournisseurs indirects proposent différents types de support et de services. Vous devez donc évaluer les fournisseurs de votre région pour déterminer ceux qui répondent le mieux à vos besoins. En règle générale, la plupart des fournisseurs proposent les services suivants: 
 
-3. Vos employés recevront un e-mail avec leur mot de passe temporaire. Ils doivent se connecter à l’espace partenaires et modifier leur mot de passe. Ils peuvent ensuite commencer à travailler.
+• Vous fournir une assistance et des formations techniques
 
-4. L'employé auquel est attribué le rôle d'administrateur de profil commercial doit configurer votre profil commercial pour vous permettre de recevoir des références des clients.
+• Aide vous commercialiser vos produits et services 
+
+• Aide vous établissez crédit et de financement
+
+Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/partner/find-a-provider) pour en trouver un.
+
+Pour plus d’informations sur les conditions nécessaires pour vendre dans le cadre du programme Fournisseur de solutions Cloud en tant que revendeur indirect, voir [Commencer comme revendeur indirect](https://partner.microsoft.com/cloud-solution-provider/whats-required) sur le [site Web MicrosoftPartner Network](https://partner.microsoft.com/). 
+
 
 ### <a name="enroll-as-a-direct-partner"></a>S’inscrire en tant que partenaire direct
 
-En tant que partenaire direct, vous avez une relation de bout en bout avec votre client et Microsoft.
+En tant que partenaire direct, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour des conditions d’inscription pour les partenaires de facture direct à compter du 31 août 2018. Ces nouvelles exigences vous aideront à accélérer la croissance de votre entreprise avec le modèle d’inscription CSP approprié et renforcer vos relations avec les clients avec des services à valeur ajoutée et prise en charge. 
 
-- Une fois que vous vous êtes inscrit et que vous avez rempli les critères d'acceptation requis pour un partenaire direct, votre administrateur général peut configurer votre compte, ajouter des employés, leur affecter des rôles et des autorisations en fonction de leurs tâches et configurer le profil de l'entreprise. 
+### <a name="minimum-requirements"></a>Conditions minimales requises
 
-- Si vous avez travaillé avec les clients qui souhaitent poursuivre la collaboration par le biais de l’espace partenaires, vous devez [les](request-a-relationship-with-a-customer.md) associer à votre compte dans l’espace partenaires.  Microsoft peut ensuite associer votre facturation à ces derniers. 
+|**Exigence**|                             |
+|--------------------------------|--------------------------------------------------------------|
+|**ID MPN**   |ID Microsoft Partner Network (MPN) actif emplacement de votre entreprise.   |
+|**Type EK**   |L’autorité d’accepter et de signer des contrats au nom de votre organisation.|
+|**Support**   |La possibilité de fournir le premier niveau du produit cloud prend en charge à vos clients.|
+|**Service géré**   |Au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout de [services gérés](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
+|**Comptes clients** |L’infrastructure d’organisation en place pour gérer les clients de facturation et de mise en service. 
 
-> [!NOTE]  
->  Les conditions requises pour devenir un partenaire direct ont été modifiées récemment et prendront effet à compter du 31 août 2018. Les partenaires directs doit respecter les exigences de nouveau à compter de leur période d’inscription suivant après le 31 août 2018.
 
-#### <a name="new-expanded-requirements"></a>Nouvelles exigences développés:
 
-Support
-- Développez vos capacités de prise en charge en achetant prise en charge de cloud individuelle, PRIORISATION avec un Microsoft Advanced prend en charge pour le package de partenaires. Ou, choisissez un Support Microsoft Premier pour le package de partenaires pour accéder au catalogue complète des services proactifs, 24/7 avec élévation de privilèges et de réparation prise en charge et la gestion de compte technique sur cloud, hybrides et locaux. 
+## <a name="csp-regional-markets-and-currencies"></a>Marchés régionaux de fournisseurs de solutions cloud et devises
 
-Services
-
-- Montrez que vous indiquez au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout de services gérés
-
-- Respectez les fonctionnalités de l’infrastructure minimale, telles que la facturation et de mise en service.
-Nous sommes surveillance des performances annuel pour confirmer que les partenaires de facture direct qui répondent à ces exigences sont illustrant la croissance de votre entreprise stable. Il n’existe aucune objectifs de performances spécifiques en place pour l’instant, mais Microsoft peut-être implémenter une performance de la barre à l’avenir. 
-
-- ID MicrosoftPartnerNetwork (MPN) pour le marché où seront effectuées les ventes
-
-|**Disponibilité par marché**|
-|----------------------------------------------------------------------------------------------|
-| Brésil  |
-| Canada  |
-| Inde   |
-| Japon   |
-| Corée   |
-| Nouvelle-Zélande |
-| Russie  |
-| Taïwan  |
-| États-Unis |
-| Australie, Fidji  |
-| Anguilla, Antarctique, Antigua-et-Barbuda, Argentine, Aruba, Bahamas, Barbade, Belize, Bermudes, Bolivie, Bonaire, Saba et Saint-Eustache, Îles Vierges britanniques, Îles Caïmans, Chili, Colombie, Costa Rica, Curaçao, Dominique, République dominicaine , Equateur, El Salvador, Guyane, Grenade, Guadeloupe, Guatemala, Guyana, Haïti, Honduras, Jamaïque, Martinique, Mexique, Montserrat, Nicaragua, Panama, Paraguay, Pérou, Porto Rico, Saint-Barthélemy, Saint-Christophe-et-Niévès, Sainte-Lucie, Saint-Martin, Saint-Vincent-et-les-Grenadines, Saint-Eustache, Saint-Martin, Géorgie du Sud et îles Sandwich du Sud, Suriname, Trinité-et-Tobago, Îles Turques-et-Caïques, Îles Vierges américaines, Uruguay, Venezuela |
-| Îles Åland, Andorre, Autriche, Belgique, Île Bouvet, Bulgarie, Croatie, Chypre, République tchèque, Danemark, Estonie, Finlande, France, Allemagne, Gibraltar, Grèce, Groenland, Guernesey, Hongrie, Islande, Irlande, Île de Man, Italie, Jan Mayen, Jersey, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Monaco, Pays-Bas, Norvège, Pologne, Portugal, Roumanie, Saint-Marin, Slovaquie, Slovénie, Espagne, Svalbard, Suède, Suisse, Royaume-Uni, Cité du Vatican, Féroé (îles).  |
-| Afghanistan, Albanie, Algérie, Arménie, Azerbaïdjan, Bahreïn, Bélarus, Bénin, Bosnie-Herzégovine, Territoire britannique de l'océan Indien, Burkina Faso, Burundi, République centrafricaine, Tchad, Comores, Congo, Congo (RDC), Djibouti, Égypte, Guinée équatoriale, Erythrée, Polynésie française, Gabon, Gambie, Géorgie, Guinée, Guinée-Bissau, Iraq, Israël, Jordanie, Kazakhstan, Kosovo, Koweït, Kirghizistan, Liban, Lesotho, Liberia, Libye, République de Macédoine, Madagascar, Malawi, Mali, Mauritanie, Mayotte, Moldova, Mongolie, Monténégro, Maroc, Mozambique, Nouvelle-Calédonie, Niger, Oman, Pakistan, Autorité Palestinienne, Qatar, Réunion, Arabie Saoudite, Serbie, Seychelles, Sierra Leone, Somalie, Afrique du Sud, Swaziland, Tadjikistan, Togo, Tunisie, Turquie, Turkménistan, Ukraine, Emirats Arabes Unis, Ouzbékistan, Yémen, Zimbabwe |
-| Angola, Botswana, Cameroun, Cabo Verde, Côte d’Ivoire, Éthiopie, Ghana, Kenya, Maurice, Namibie, Nigéria, Ouganda, Rwanda, Sénégal, Tanzanie, Zambie |
-| Samoa américaines, Bangladesh, Bhoutan, Brunei Darussalam, Cambodge, Île Christmas, Îles Cocos (Keeling), Îles Cook, Guam, Île Heard-et-McDonald, région administrative spéciale de Hong Kong, Indonésie, Kiribati, Laos, Macao R.A.S., Malaisie, Maldives, Îles Marshall, Micronésie, Myanmar, Nauru, Népal, Niue, Îles Norfolk, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Philippines, Îles Pitcairn, Samoa, Singapour, Îles Salomon, Sri Lanka, Thaïlande, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Wallis-et-Futuna |
-
-## <a name="billing-currencies-by-country"></a>Devises de facturation par pays
-
-Votre emplacement géographique détermine la devise dans laquelle vous êtes facturé, comme indiqué dans le tableau suivant. Notez qu’en raison des implications fiscales et juridiques, si vous souhaitez utiliser une autre devise de facturation, vous devez créer un nouveau client et indiquer la devise. 
-
-| **Symbole monétaire** | **Pays** |
-| ---- | ---- |
-| USD | Albanie et Saint-Eustache, Anguilla, Antarctique, Antigua et Barbuda, Argentine, Arménie, Aruba, Azerbaïdjan, Bahamas, Bahreïn, Bangladesh, Barbade, Bélarus, Belize, Bénin, Bermudes, Bolivie, Bonaire, Brésil, Territoire britannique de l'océan Indien, Brunei, Burundi, Cameroun, Îles Caïmans, Comores, Costa Rica, Curaçao, République centrafricaine, Équateur, Égypte, El Salvador, Guinée équatoriale, Érythrée, Guyane française, Polynésie française, Géorgie, Ghana, Guatemala, Guinée-Bissau, Honduras, région administrative spéciale de Hong Kong, Indonésie, Iraq, Israël, Jamaïque, Kazakhstan, Kenya, Koweït, Kirghizistan, Liban, Lesotho, Macao R.A.S., Madagascar, Malawi, Malaisie, Mali, Mauritanie, Maurice, Mayotte, Mexique, Maroc, Namibie, Nouvelle-Calédonie, Nicaragua, Nigéria, Oman, Pakistan, Panama, Paraguay, Pérou, Philippines, Porto Rico, Qatar, Réunion, Rwanda, Saba, Sainte-Lucie, Saint-Martin, Saint-Vincent-et-les-Grenadines, Arabie saoudite, Serbie, Seychelles, Sierra Leone, Singapour, Saint-Martin (Royaume des Pays-Bas), Somalie, Afrique du Sud, Sri Lanka, Suriname, Swaziland, Tanzanie, Thaïlande, Timor-Leste, Togo, Trinité-et-Tobago, Tunisie, Turquie, Îles-Turques-et-Caïques, Îles Vierges américaines, Ukraine, Emirats arabes unis, États-Unis, Uruguay, Venezuela, Vietnam, Yémen. | 
-| TWD | Taïwan |
-| SEK | Suède |
-| INR | Inde |
-| RUB | Russie |
-| NZD | Nouvelle-Zélande, Vanuatu |
-| NOK | Jan Mayen, Norvège, Svalbard |
-| KRW | Corée du Sud |
-| JPY | Japon |
-| GBP | Île de Man, Jersey, Royaume-Uni |
-| EUR | Allemagne, Andorre, Autriche, Belgique, Croatie, Espagne, Estonie, Féroé (Îles), Finlande, France, Grèce, Hongrie, Île Bouvet, Islande, Irlande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Saint-Marin, Slovaquie, Slovénie |
-| DKK | Danemark |
-| CHF | Suisse |
-| CAD | Canada |
-| AUD | Australie, Île Christmas, Îles Cocos (Keeling), Îles Cook, Fidji, Îles Heard-et-McDonald, Kiribati, Îles Marshall, Nauru, Niue, Île Norfolk, Îles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Îles Pitcairn, Îles Salomon, Tokelau, Tonga, Tuvalu, Wallis-et-Futuna. |
+Emplacement de votre société détermine votre marché. Votre marché inclut les régions et/ou dans les pays où vous pouvez vendre des offres de fournisseur de solutions cloud. Voir les emplacements de marché et les devises utilisées sur [les marchés régionaux du programme fournisseur de solutions Cloud et les devises](regional-authorization-overview)
 
 
 

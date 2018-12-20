@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: Fournisseur de solutions cloud, marchés, territoires, où peut i commercialiser via ce programme, fournisseur de solutions cloud offre, régions, vendent des solutions de cloud, CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917671"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980623"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Marchés régionaux du programme fournisseur de solutions cloud et les devises
 
@@ -27,7 +27,7 @@ Avant de pouvoir commander que CSP offre au nom du client, le client doit signer
 >[!IMPORTANT]
 > À partir de 7 novembre 2018, vous aurez besoin vérifier qu’un client a accepté le contrat de Cloud de Microsoft en fournissant des informations relatives à la personne qui l’a signé. Pour plus d’informations, voir [Confirmer l’acceptation d’un client du contrat Microsoft Cloud](confirm-consent.md) .
 
-Pour déterminer où vous pouvez vendre des offres de fournisseur de solutions cloud, trouver l’emplacement de votre société dans l’une des listes ci-dessous.
+Pour déterminer où vous pouvez vendre des offres de fournisseur de solutions cloud, trouver l’emplacement de votre société dans l’une des listes ci-dessous. Vous devez disposer d’un ID Microsoft Partner Network (MPN) actif pour l’emplacement que vous souhaitez vendre dans.  
 
 ## <a name="africa-region-and-market"></a>Marché et Afrique
 
@@ -337,7 +337,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Mozambique     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Territoire palestinien occupé |        |
 |  Qatar          |   USD    |
 |  Arabie saoudite   |   USD    |
 |  Serbie         |   USD    |
@@ -375,9 +375,9 @@ Si votre société est la Russie, vous pouvez vendre des offres de fournisseur d
 |  Russie         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Marché et région Taïwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Si l’emplacement de votre entreprise est Taïwan, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients à Taïwan.
 
 |  Pays/région | Devise |
 |  -------------- |:--------:|
