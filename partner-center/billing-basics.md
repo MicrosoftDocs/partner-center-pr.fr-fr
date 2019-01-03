@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: eebf3573cdb6724497bb7933d7edc08879dc8e5e
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917601"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990941"
 ---
 # <a name="billing-overview"></a>Vue d’ensemble de la facturation
 
@@ -37,7 +37,7 @@ Selon les produits, les solutions et services qu'acheter pour vos clients, vous 
 
     Lorsque vous achetez des réservations Azure ou autres abonnements logiciels, vous payer à l’avance pour une période prédéfinie. Étant donné que vous payez à l’avance, vous êtes facturé dans un seul forfait. 
     
-Si vous avez choisi d’être facturés chaque mois ou si vous avez acheté des produits basés sur l’utilisation qui sont facturés chaque mois, votre date de facturation mensuelle est le jour du mois que vous avez sélectionné lorsque vous avez créé votre compte de fournisseur de solutions cloud sur l’espace partenaires. Une fois que vous avez créé votre compte de fournisseur de solutions cloud, Microsoft envoie un e-mail de confirmation qui indique votre date de facturation.
+Si vous avez choisi d’être facturés chaque mois ou si vous avez acheté des produits basés sur l’utilisation qui sont facturés chaque mois, votre date de facturation mensuelle est le jour du mois que vous avez sélectionné lorsque vous avez créé votre compte de fournisseur de solutions cloud sur l’espace partenaires. Une fois que vous avez créé votre compte de fournisseur de solutions cloud, Microsoft envoie un e-mail de confirmation qui indique votre date de facturation. Une fois créée, cette date ne peuvent pas être modifiée. 
 
 ## <a name="pricing-and-invoicing"></a>Tarification et facturation
 Vous pouvez accéder aux listes de prix un (1)mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. 

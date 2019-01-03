@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683818"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990991"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -571,7 +571,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>Frais au prorata en cas d’achat</p>
 </td>
 <td>
-<p>Frais au prorata lors de l’achat</p>
+<p>Le type de frais pour un abonnement lors de l’utilisation de la facturation annuelle</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +579,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>Frais d’abonnement</p>
 </td>
 <td>
-<p>Frais initiaux de l’abonnement</p>
+<p>Le type de frais pour un abonnement lorsque vous utilisez une facturation mensuelle</p>
 </td>
 </tr>
 <tr>

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683788"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990931"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -57,7 +57,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="even">
 <td>Adresse de facturation</td>
-<td>Adresse d’expédition de votre facture. Pour modifier cette adresse, accédez à Paramètres du compte > Profil de facturation du partenaire. </td>
+<td>Adresse d’expédition de votre facture. Pour modifier le nom de la société ou l’adresse, modifiez votre profil de facturation de l’espace partenaires. </td>
 </tr>
 <tr class="odd">
 <td>Frais basé sur les licences</td>
@@ -105,11 +105,11 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="odd">
 <td>Période de facturation</td>
-<td>Les partenaires fournisseurs de solutions Cloud sont facturés mensuellement ou annuellement.</td>
+<td>Du mois en conduisant à la date de facturation. Il s’agit de la période pendant laquelle basés sur l’utilisation des services sont utilisés et les services basés sur la licence sont rapprochées pour des ajustements de crédit ou des modifications dans le nombre de licences.</td>
 </tr>
 <tr class="even">
 <td>Date de facturation</td>
-<td>Date à laquelle vous recevez votre facture.</td>
+<td>Votre date de facturation ou la date anniversaire sur lequel votre facture est généré chaque mois.</td>
 </tr>
 <tr class="odd">
 <td>Modalités de paiement</td>
@@ -129,7 +129,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="odd">
 <td>Bénéficiaire du service</td>
-<td>Adresse où le service est utilisé. (Adresse officielle de la société, information non modifiable)</td>
+<td>Adresse où le service est utilisé. (C’est l’adresse officielle de société).</td>
 </tr>
 </tbody>
 </table>

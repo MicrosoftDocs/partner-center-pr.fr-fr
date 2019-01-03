@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795632"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990961"
 ---
 # <a name="common-billing-scenarios"></a>Scénarios de facturation courants
 
@@ -33,7 +33,9 @@ Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous a
 
 La facturation basée sur l’utilisation est mensuelle, à terme échu, sur le jour anniversaire d’abonnement. Par exemple, si la date anniversaire de l'abonnement est le 15 du mois, vous serez facturé le 15 janvier pour la période du service allant du 15 décembre au 14 janvier. Vous serez facturé à nouveau le 15 février pour la période de service allant du 15 janvier au 14 février, etc. Les frais générés le jour de la date anniversaire de l'abonnement apparaîtront sur la facture et le fichier de rapprochement du mois suivant.
 
-Un abonnement basé sur l’utilisation peut être interrompu à tout moment. 
+Vous pouvez parfois remarquer que certains frais d’utilisation ne figurent pas dans votre facture, ou que l’utilisation à partir d’un mois précédent est facturée dans la facture du mois en cours. Il ne s’agit pas d’une erreur; Cela signifie simplement que le service a été horodatées une fois que les services s’est produite. Utilisation signalée dans les 24 heures de la fin du cycle de facturation s’affiche sur la facture du mois suivant. 
+
+Abonnements basés sur l’utilisation peuvent être suspendus à tout moment. 
 
 La liste des prix des fournisseurs de solutions Cloud Azure est publiée chaque mois et est disponible sur la page Espace partenaires de vente-> Tarification et offres. Veuillez noter que les prix sont assujettis à des modifications quotidiennes, lesquelles seront indiquées dans l'onglet Historique des modifications de la liste tarifaire.
 
