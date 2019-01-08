@@ -8,23 +8,22 @@ author: labrenne
 ms.author: labrenne
 Keywords: health, service health,service problems
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f309cb7aecd9dc9acb09b9fe9f2eaead05f2fea
-ms.sourcegitcommit: 62145037d37cc5e55b3af9c348f4ec41b7c82d48
+ms.openlocfilehash: 2789e333655d27b7009aaa020b461d70086c8ef2
+ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2018
-ms.locfileid: "8981608"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995020"
 ---
 # <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a>Vous devez activer l’authentification multifacteur (MFA) sur votre client pour accéder à l’espace partenaires
 
-**S’applique à**
+**S'applique à**
 
 - Espace partenaires
-- CPVs
+
 
 Microsoft Partner Center maintenant, vous devez activer l’authentification multifacteur (MFA) pour accéder à l’espace partenaires.  
 Les partenaires peuvent permettre une authentification multifacteur à l’aide de [solutions Microsoft Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks) ou adopter des solutions MFA un fournisseurs tiers. Notez que votre solution tierce sélectionnée doit être pris en charge par Microsoft Azure Active Directory. Reportez-vous à la documentation de votre fournisseur de solutions MFA pour confirmer. 
 
 En savoir plus sur le [déploiement d’Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted). 
  
-Adopter et activer MFA de réactiver votre accès au Microsoft Partner Center. 
