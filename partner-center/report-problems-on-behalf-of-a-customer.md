@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
-ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
+ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2018
-ms.locfileid: "8973899"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995963"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d'un client
 
@@ -41,12 +41,12 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 
 - Bien que l’administrateur du support technique dans l’espace partenaires ne peuvent pas créer des demandes de service dans le portail de service Azure, ce qu’ils peuvent faire est de créer un groupe de prise en charge dans le portail de service Azure et accorder des autorisations de ce groupe pour vous connecter des demandes de support.
 
-1.  Sélectionnez **Nouvelle demande de support**.
-2.  Remplissez la demande de support à l'aide des informations appropriées, puis sélectionnez **Créer**&nbsp;:
-        -   Dans la section **Notions de base** de la demande de support, veillez à sélectionner **Fournisseur de solutions Cloud** dans le champ **Formule d'assistance**.
-        -   Dans la section **Coordonnées** de la demande de support, entrez vos coordonnées, pas celles de votre client.
+1. Sélectionnez **Nouvelle demande de support**.
+2. Remplissez la demande de support à l'aide des informations appropriées, puis sélectionnez **Créer**&nbsp;:
+-   Dans la section **Notions de base** de la demande de support, veillez à sélectionner **Fournisseur de solutions Cloud** dans le champ **Formule d'assistance**.
+-   Dans la section **Coordonnées** de la demande de support, entrez vos coordonnées, pas celles de votre client.
 
-3.  Pour passer en revue ultérieurement les demandes de service de votre client dans le portail Microsoft Azure, sélectionnez **Gérer les demandes de support**.
+3. Pour passer en revue ultérieurement les demandes de service de votre client dans le portail Microsoft Azure, sélectionnez **Gérer les demandes de support**.
 
 Vous devrez peut-être créer une demande de support pour un client lorsque vous ne disposez pas des autorisations d’administrateur pour ce client. Cela peut se produire dans l’un des deux scénarios: 
  
@@ -55,20 +55,22 @@ Vous devrez peut-être créer une demande de support pour un client lorsque vous
  
 Dans ces cas, vous pouvez utiliser la procédure suivante pour créer une demande de support. 
 
-1.  Copiez le nom de domaine du client à partir de leur page de compte dans l’espace partenaires.
+1. Copiez le nom de domaine du client à partir de leur page de compte dans l’espace partenaires.
 
-2.  Accédez à https://portal.azure.com/[customerdomainname]. 
+2. Accédez à https://portal.azure.com/[customerdomainname]. 
 
-3.  Sélectionnez l’abonnement Azure nécessitant une prise en charge.
+3. Sélectionnez l’abonnement Azure nécessitant une prise en charge.
 
-4.  Sélectionnez la **nouvelle demande de support**et suivez les invites pour créer la demande. 
+4. Sélectionnez la **nouvelle demande de support**et suivez les invites pour créer la demande. 
 
  
 **Office&nbsp;365, Microsoft Dynamics&nbsp;CRM Online, Enterprise Mobility Suite**
 
 1. Dans la section **Créer une demande de service**, choisissez la catégorie de rubriques de support appropriée. Vous devrez peut-être sélectionner **Plus...** pour afficher des rubriques supplémentaires.    
 2. Complétez le formulaire de demande de service, puis sélectionnez **Envoyer**.
-    **Remarque** Veillez à inclure vos coordonnées, et pas celles de votre client.
+
+>[**Remarque**]  Prenez soin d’inclure vos coordonnées, pas votre client de.
+
 3. Ensuite, passez en revue les demandes de service de votre client en accédant au Centre Office&nbsp;365 Admin et en sélectionnant **Voir tous les tickets de support**.
 
 ## <a name="faq"></a>FAQ
@@ -111,7 +113,7 @@ Si vous vous connectez directement au Centre d'administration Office&nbsp;365, v
 
 **Comment obtenir un support supplémentaire Dynamics 365?**
 
- Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou si vous voulez davantage le support technique:
+Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou si vous voulez davantage le support technique:
  
 Contactez le [Support Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

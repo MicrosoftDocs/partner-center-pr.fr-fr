@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau2, de niveau2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917491"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995993"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -63,7 +63,7 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 
 3.  Connectez-vous avec votre compte professionnel. Sélectionnez **Se connecter**, puis entrez le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter en tant qu’administrateur général à Office365, MicrosoftAzure ou MicrosoftDynamics CRM. 
 
-    Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
+Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
 
 4.  Lisez les informations indiquant comment associer votre identifiant MicrosoftPartner Network (ID MPN) avec votre nouveau compte Espace partenaires. Nous devons associer des ID MPN de votre entreprise à votre nouveau compte espace partenaires afin que vous puissiez gérer les avantages et les primes sur l’espace partenaires. Sélectionnez **Se connecter**.
 
@@ -73,21 +73,21 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 
 7.  Sélectionnez le profil de l’entreprise dont l’ID MPN est lié à vos primes, avantages d'adhésion et compétences, afin que nous puissions déplacer ces informations sur votre compte Espace partenaires. Sélectionnez **Continuer**.
 
-    Si l’ID MPN que vous voulez utiliser n’est pas répertorié sur cette page, sélectionnez **Annuler** et reconnectez-vous avec le nom d’utilisateur et le mot de passe du profil d’entreprise que vous souhaitez utiliser. 
-    > [!IMPORTANT]  
-    > Sélectionnez l’ID MPN associé à un profil d’entreprise actif situé dans le même pays/région que votre client Azure AD.
+Si l’ID MPN que vous voulez utiliser n’est pas répertorié sur cette page, sélectionnez **Annuler** et reconnectez-vous avec le nom d’utilisateur et le mot de passe du profil d’entreprise que vous souhaitez utiliser. 
+> [!IMPORTANT]  
+> Sélectionnez l’ID MPN associé à un profil d’entreprise actif situé dans le même pays/région que votre client Azure AD.
 
 8.  Indiquez ou mettez à jour le profil commercial juridique, les coordonnées du contact principal et les coordonnées du support client de votre entreprise. Sélectionnez **S’inscrire maintenant**.
 
-    Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise). Veuillez noter que nous n’acceptons pas les adresses e-mail provenant de services de messagerie Web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail. 
-    > [!IMPORTANT]  
-    > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d'information sur le statut d'inscription.
+Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise). Veuillez noter que nous n’acceptons pas les adresses e-mail provenant de services de messagerie Web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail. 
+> [!IMPORTANT]  
+> Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d'information sur le statut d'inscription.
 
 9.  Lorsque votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d'agents administrateurs. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations:
 
-    a.  Dans votre **Espace partenaires**, sélectionnez l’icône **paramètres** , puis sélectionnez **Gestion des utilisateurs**.  
+a.  Dans votre **Espace partenaires**, sélectionnez l’icône **paramètres** , puis sélectionnez **Gestion des utilisateurs**.  
 
-    b.  Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.   
+b.  Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.   
 
 ## <a name="add-a-new-user"></a>Ajouter un utilisateur
 
@@ -102,10 +102,10 @@ Veuillez noter qu'il peut nous falloir plusieurs jours pour examiner et vérifie
 5. Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
 
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. <br>
-
->L’utilisateur devra se connecter à l’espace partenaires avec leur nom d’utilisateur et mot de passe temporaire. Lorsque l’utilisateur se connecte à l’espace partenaires pour la première fois, ils sont invités à modifier leur mot de passe.        
+> 
+> L’utilisateur devra se connecter à l’espace partenaires avec leur nom d’utilisateur et mot de passe temporaire. Lorsque l’utilisateur se connecte à l’espace partenaires pour la première fois, ils sont invités à modifier leur mot de passe.        
 
 ## <a name="assign-user-permissions"></a>Affecter des autorisations utilisateur
 
@@ -126,20 +126,20 @@ Si un fournisseur indirect veut s’associer avec vous sur l’espace partenaire
 
 3.  Pour confirmer le partenariat avec le fournisseur, activez la case à cocher, puis sélectionnez **Autoriser le fournisseur indirect**. Le fournisseur est désormais répertorié dans votre page **Fournisseurs indirects** et votre société figure désormais dans la page **Revendeurs indirects** du fournisseur.
 
-    > [!NOTE]  
-    > Lorsque vous établissez un partenariat avec un fournisseur indirect, vous autorisez à envoyer des commandes et ajouter des abonnements pour vos clients et vous lui accordez un accès administrateur au compte professionnel de votre entreprise. Une fois votre partenariat avec le fournisseur créé, vous pouvez supprimer l’accès administrateur du fournisseur à votre compte professionnel dans le portail Office365. 
+> [!NOTE]  
+> Lorsque vous établissez un partenariat avec un fournisseur indirect, vous autorisez à envoyer des commandes et ajouter des abonnements pour vos clients et vous lui accordez un accès administrateur au compte professionnel de votre entreprise. Une fois votre partenariat avec le fournisseur créé, vous pouvez supprimer l’accès administrateur du fournisseur à votre compte professionnel dans le portail Office365. 
 
 4.  Sélectionnez **les fournisseurs indirects** dans le menu de **L’espace partenaires** pour afficher la liste des fournisseurs dont vous disposez d’un partenariat avec. 
 
 5.  Sélectionnez **Afficher les clients** pour afficher la liste des clients que vous partagez avec le fournisseur.
 
 6.  Sélectionnez **Inviter de nouveaux clients** pour demander à un nouveau client d'autoriser les relations de revendeur avec vous et votre fournisseur indirect. Veillez à disposer de l'adresse de messagerie du client afin de pouvoir lui envoyer l’invitation.  
-    > [!IMPORTANT]  
-    > Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients à envoyer des commandes en son nom. 
+> [!IMPORTANT]  
+> Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients à envoyer des commandes en son nom. 
  
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
- Pour effectuer des transactions avec les clients qui utilisent l’espace partenaires, vos clients doivent disposer de comptes de l’espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
+Pour effectuer des transactions avec les clients qui utilisent l’espace partenaires, vos clients doivent disposer de comptes de l’espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
 
 ### <a name="connect-with-existing-customers"></a>Entrer en contact avec les clients
 
@@ -153,7 +153,7 @@ Lorsque vous vous connectez avec un fournisseur indirect, vous n’obtenez pas a
 
 2.  Sur la page suivante, vérifiez le brouillon du message électronique. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 
-    Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte. Sélectionnez **OK** lorsque vous avez terminé cette étape.
+Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte. Sélectionnez **OK** lorsque vous avez terminé cette étape.
 
 3.  Envoyez le message électronique au client.
 
@@ -182,7 +182,7 @@ Pour obtenir des autorisations d’administrateur pour gérer les abonnements et
 
 3.  Sur la page suivante, vérifiez le brouillon du message électronique. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 
-    Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte et au compte de votre fournisseur. Sélectionnez **OK** lorsque vous avez terminé cette étape.
+Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte et au compte de votre fournisseur. Sélectionnez **OK** lorsque vous avez terminé cette étape.
 
 4.  Une fois que le client vous a autorisé, vous et votre fournisseur, à devenir ses revendeurs de référence, vous disposez des autorisations d’administrateur nécessaires pour gérer en son nom ses abonnements, ses licences et ses utilisateurs, et votre fournisseur indirect peut envoyer des commandes pour le compte du client.
 

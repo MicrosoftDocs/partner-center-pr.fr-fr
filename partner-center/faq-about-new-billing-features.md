@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683808"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996013"
 ---
 # <a name="faq-about-new-billing-features"></a>FAQ sur les nouvelles fonctionnalités de facturation
 
@@ -138,7 +138,7 @@ Sections:
 
 -   **R:** Oui. Vous pouvez modifier le nombre de licences de vos abonnements à tout moment. L'ajout de licences supplémentaires n’aura aucune incidence sur la fréquence de facturation. 
 
-**Q:** Puis-je ajouter des licences donnant lieu à une facturation mensuelle à un abonnement existant faisant l'objet d'une facturation annuelle? 
+**Q:** Puis-je ajouter des licences donnant une facturation mensuelle à un abonnement existant faisant l’objet d’une facturation annuelle? 
 
 -   **R:** Une fois que vous achetez un abonnement à facturation annuelle, toutes les licences supplémentaires respecteront la même fréquence de facturation. Si par la suite vous devez acheter des licences à facturation mensuelle, vous devrez acheter un nouvel abonnement.
 
@@ -242,17 +242,17 @@ Sections:
 
 **Q:** Qui contacter pour répondre aux questions sur les primes incitatives?
 
--   **R:** Contactez l’équipe de support régionale appropriée pour les primes incitatives:
+- **R:** Contactez l’équipe de support régionale appropriée pour les primes incitatives:
 
-    - Amérique du Nord: ocina@microsoft.com
+  - Amérique du Nord: ocina@microsoft.com
 
-    - Amérique latine et Brésil: ocilatam@microsoft.com
+  - Amérique latine et Brésil: ocilatam@microsoft.com
 
-    - EMEA: ociemea@microsoft.com
+  - EMEA: ociemea@microsoft.com
 
-    - APOAC (à l'exception du Japon): ociapgc@microsoft.com
+  - APOAC (à l'exception du Japon): ociapgc@microsoft.com
 
-    - Japon: ocijp@microsoft.com
+  - Japon: ocijp@microsoft.com
 
 
 **Q:** Que se passe-t-il si je suspends mon abonnement? 

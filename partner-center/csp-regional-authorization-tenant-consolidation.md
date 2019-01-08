@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
 ms.localizationpriority: medium
-ms.openlocfilehash: 83b5040f1562ef44c5cb17b5a2676387237b2794
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 695f8298e13680532b63ec24a27d56984bd59c89
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683798"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995883"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
 
@@ -27,9 +27,9 @@ ms.locfileid: "8683798"
 
 Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 
-**Remarque**vous devez connaître tous les abonnements et sièges de vos clients approvisionnés à partir des comptes de transition. Vous réapprovisionnerez ces mêmes abonnements avec le même nombre de sièges sous le nouveau compte central Fournisseur de solutions Cloud dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. Notez qu’une action peut également être requise de la part du client.
+**Remarque** Vous devez connaître tous les abonnements et le nombre de sièges de vos clients approvisionnés à partir des comptes de transition. Vous réapprovisionnerez ces mêmes abonnements avec le même nombre de sièges sous le nouveau compte central Fournisseur de solutions Cloud dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. Notez qu’une action peut également être requise de la part du client.
 
- 
+
 
 ## <a name="prepare-for-migration"></a>Préparer la migration
 
@@ -66,7 +66,7 @@ Les clients s’affichent dans la liste des clients du partenaire, lorsqu’ils 
 
 5.  Ajoutez les abonnements et le nombre de sièges corrects à partir du catalogue. Vérifiez avec les informations fournies dans les comptes de partenaire **Transition à partir de**.
 
-    ![capture d’écran de la liste des clients](images/regionalcustomer2.png)
+![liste de clients](images/regionalcustomer2.png)
 
 6.  Cliquez sur **Envoyer**.
 
@@ -76,9 +76,9 @@ Répétez ces étapes pour migrer les abonnements de tous les clients supplémen
 
 Avant de passer à la section suivante, vérifiez que tous les abonnements client existant sous les comptes de partenaire **Transition à partir de** sont ré-approvisionnées sous le compte de partenaire **Transition vers**.
 
-**Remarque**les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir** de l’espace partenaires le jour où ces abonnements sont transférés et configurés sous le compte de locataire partenaire **Transition vers** dans l’espace partenaires pour éviter une double facturation n’a pas lieu. Les demandes de support seront refusées pour les crédits résultant d’un chevauchement dans la facturation à cause d’une désactivation incorrecte des abonnements **Transition à partir de**.
+**Remarque** Les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir de** dans l’Espace partenaires, le jour où ces abonnements sont transférés et configurés sous le compte de locataire partenaire **Transition vers** dans l’Espace partenaires pour éviter une double facturation. Les demandes de support seront refusées pour les crédits résultant d’un chevauchement dans la facturation à cause d’une désactivation incorrecte des abonnements **Transition à partir de**.
 
- 
+
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Désactivation des abonnements Office&nbsp;365 sous le compte de partenaire Transition à partir de
 
@@ -90,11 +90,13 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 2.  Ouvrez le client avec les abonnements à désactiver, et sélectionnez la première offre à désactiver.
 3.  Réglez l’abonnement sur **suspendu**, puis cliquez sur **Envoyer**.
 
-    **Remarque**suspension de l’abonnement garantit l’absence de double facturation.
+ >[! **Remarque**] Suspension de l’abonnement garantit l’absence de double facturation.
 
-     
 
-    L’abonnement affiche la mention **suspendu** dans la liste des abonnements.
+
+~~~
+The Subscription shows **suspended** on the subscriptions list.
+~~~
 
 4.  Répétez ces étapes pour tous les abonnements sous le client. Vérifiez que tous les abonnements indiquent la mention **suspendu**.
 
@@ -111,9 +113,9 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 4.  Le partenaire confirme que l’abonnement Azure sous les comptes de revendeur Fournisseur de solutions&nbsp;Cloud **Transition à partir de** affiche la mention Suspendu dans l’Espace partenaires sous la section des abonnements du client.
 5.  Le partenaire confirme que l’abonnement Azure sous le compte de revendeur Fournisseur de solutions&nbsp;Cloud **Transition à partir de** affiche la mention **Actif** dans l’Espace partenaires sous la section des abonnements du client.
 
-    **Remarque**la désactivation des abonnements sous le client ne modifie pas l’apparence du client dans la liste de clients. Il n’y a actuellement aucune possibilité de supprimer des clients de la liste. Les partenaires doivent éviter de rajouter des abonnements à ces clients à partir de leur compte **Transition à partir de** à l’avenir.
+>[! **Remarque**] La désactivation des abonnements sous le client ne modifie pas l’apparence du client dans la liste de clients. Il n’y a actuellement aucune possibilité de supprimer des clients de la liste. Les partenaires doivent éviter de rajouter des abonnements à ces clients à partir de leur compte **Transition à partir de** à l’avenir.
 
-     
+
 
 6.  Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. Le partenaire reçoit une facture finale avec un crédit pour le nombre de jours inutilisés entre le jour de l’annulation et le dernier jour de la période de facturation. Aucune facture n’est générée après cette période de facturation finale.
 
@@ -125,9 +127,9 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 -   Il est actuellement impossible de supprimer complètement un client de la liste de clients.
 
--   **Remarque**les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir** de l’espace partenaires le jour où ces abonnements sont transférés et configurés sous le compte de **Transition vers** le client de l’espace dans l’espace partenaires pour éviter une double facturation n’a pas lieu. Microsoft ne prend pas en charge les demandes de support pour les crédits résultant d’un chevauchement dans la facturation à cause d’une suspension incorrecte des abonnements **Transition à partir de**.
+-   **Remarque** Les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir de** dans l’Espace partenaires, le jour où ces abonnements sont transférés et configurés sous le compte de locataire partenaire **Transition vers** dans l’Espace partenaires pour éviter une double facturation. Microsoft ne prend pas en charge les demandes de support pour les crédits résultant d’un chevauchement dans la facturation à cause d’une suspension incorrecte des abonnements **Transition à partir de**.
 
-     
+
 
 ### <a name="simplify-migration-using-export"></a>Simplifier la migration avec l’exportation
 
@@ -146,9 +148,9 @@ Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vou
 Pour plus d’informations sur l’inscription d’API, [consultez cette page](https://go.microsoft.com/fwlink/?linkid=847990).
 
 
- 
 
- 
+
+
 
 
 

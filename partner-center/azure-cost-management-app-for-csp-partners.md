@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796092"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995793"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Application Azure Cost Management pour les partenaires fournisseurs de solutions Cloud  
 
@@ -42,11 +42,11 @@ Lorsque vous enregistrez une application Web Azure ActiveDirectory dans l'Espace
 4.  Copiez et enregistrez le GUID **ID de commerce** et le GUID **ID d'application** de votre application Web. Vous aurez besoin des deux ID pour utiliser la version d'évaluation gratuite de 30jours de l'application Azure Cost Management.
 
 ## <a name="add-a-secret-key-to-your-app"></a>Ajoutez une clé secrète à votre application
-1.  Dans la liste déroulante en regard du bouton **Ajouter clé**, sélectionnez une durée de 1 ou 2ans.
-2.  Cliquez sur **Ajouter une clé**. 
-3.  Copiez et enregistrez la valeur de la clé secrète. Elle vous sera demandée pour la version d'évaluation gratuite de 30jours.<br>
-> [!NOTE]  
-> Les clés secrètes d’application sont comme les mots de passe avec des dates d’expiration plus. Enregistrez la valeur de la clé à un emplacement sûr pour une utilisation ultérieure.
+1. Dans la liste déroulante en regard du bouton **Ajouter clé**, sélectionnez une durée de 1 ou 2ans.
+2. Cliquez sur **Ajouter une clé**. 
+3. Copiez et enregistrez la valeur de la clé secrète. Elle vous sera demandée pour la version d'évaluation gratuite de 30jours.<br>
+   > [!NOTE]  
+   > Les clés secrètes d’application sont telles que des mots de passe avec des dates d’expiration plus. Enregistrez la valeur de la clé à un emplacement sûr pour une utilisation ultérieure.
 
 ## <a name="next-steps"></a>Étapes suivantes
 Démarrez une [version d'évaluation gratuite de 30jours](https://go.microsoft.com/fwlink/?linkid=857895).

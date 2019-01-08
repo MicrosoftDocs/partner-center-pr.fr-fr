@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683668"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995603"
 ---
 # <a name="multi-channel-support"></a>Prise en charge de plusieurs canaux
 
@@ -37,13 +37,13 @@ Fonctionnalité de plusieurs canaux de l’espace partenaires prend en charge le
 <tbody>
 <tr class="odd">
 <td><p><strong>Services basés sur la licence</strong></p></td>
-<td><p>Pour fournir un service de support pour les comptes multicanaux, vous devez demander au client l’autorisation de gérer ses abonnements. Voir [Demander une relation de revendeur avec un client](request-a-relationship-with-a-customer.md) pour plus d’informations sur la procédure à suivre.</p></td>
+<td><p>Pour fournir un service de support pour les comptes multicanaux, vous devez demander au client l’autorisation de gérer ses abonnements. Voir <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Demander une relation de revendeur avec un client</a> pour plus d’informations sur la procédure à suivre.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Services basés sur l’utilisation</strong></p></td>
 <td>
-<p>Pour un client qui possède déjà un abonnement à MicrosoftAzure à partir d’un autre canal, comme Advisor, Open ou EA, vous devrez créer un nouvel abonnement Azure dans l'Espace partenaires, entrer manuellement les détails de l’abonnement, puis annuler les services individuels ou l’intégralité de l’abonnement.</p>
-<p>Par exemple, pour un client qui possède déjà un abonnement à MicrosoftAzure à partir d’un autre partenaire, vous pouvez transférer des services Azure à l’autre partenaire. Pour plus d’informations, voir [Transférer un abonnement Azure à un autre partenaire](switch-azure-subscriptions-to-a-different-partner.md).</p>
+<p>Pour un client qui possède déjà un abonnement à Microsoft Azure à partir d’un autre canal, comme Advisor, Open, ou EA, vous & #39; tout requises pour créer un nouvel abonnement Azure dans l’espace partenaires, entrer manuellement les détails de l’abonnement et ensuite annuler la personne services ou l’intégralité de l’abonnement.</p>
+<p>Par exemple, pour un client qui possède déjà un abonnement à MicrosoftAzure à partir d’un autre partenaire, vous pouvez transférer des services Azure à l’autre partenaire. Pour plus d’informations, voir <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Transférer un abonnement Azure à un autre partenaire</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -60,9 +60,9 @@ Si vous êtes revendeur indirect, voir [Devenez partenaire de fournisseurs indir
 
 Si vous êtes fournisseur indirect, voir [Devenez partenaire de revendeurs indirects](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

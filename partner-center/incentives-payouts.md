@@ -1,19 +1,19 @@
 ---
-title: Comprendre le paiement de vos primes incitatives | Espaces partenaires
+title: Comprendre le paiement de vos primes incitatives | L’espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Les revenus et le calendrier de paiement de vos primes incitatives facilitent la planification ultérieure.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 74811348b14ecad7afc214337fae760c43e4de63
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 535181676cc03c8e696c613e8a907705c40a8fd5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796352"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995699"
 ---
-#<a name="understand-your-incentives-payouts"></a>Comprendre le paiement de vos primes incitatives
+# <a name="understand-your-incentive-payouts"></a>Comprendre le paiement de vos primes incitatives
 
 **S’applique à**
 
@@ -28,10 +28,8 @@ Les données des primes incitatives seront actualisées tous les jours. Les tabl
 
 Vous pouvez explorer les revenus et les paiements pour chaque programme de primes incitatives. Le suivi de la chronologie entre les revenus et les paiements vous permettra de mieux planifier vos besoins en ressources et bien plus encore. Vous pouvez également identifier les emplacements où les programmes de primes incitatives sont les plus actifs ou les plus efficaces. 
 
-##<a name="drill-down-on-incentives-earnings"></a>Explorer les revenus de primes incitatives
+## <a name="drill-down-on-incentives-earnings"></a>Explorer les revenus de primes incitatives
+Identifiez les secteurs où votre entreprise peut encore générer davantage de revenus grâce aux programmes de primes incitatives et ceux où vous avez déjà perçu des revenus. Ces données vous permettent de voir clairement les secteurs pour lesquels vous avez obtenu des primes mais n’avez pas encore été rémunéré.  Identifiez les programmes et les activités ayant connu le plus de succès ainsi que les sites de l’entreprise qui génèrent des revenus. En affichant les données par programme, vous pouvez voir le montant total des revenus, la durée de participation au programme et sa date d’expiration. Chaque programme et type de revenu aura des exigences différentes, les dates et les seuils de revenus maximum. 
 
-Identifiez les secteurs où votre entreprise peut encore générer davantage de revenus grâce aux programmes de primes incitatives et ceux où vous avez déjà perçu des revenus. Ces données vous permettent de voir clairement les secteurs pour lesquels vous avez obtenu des primes mais n’avez pas encore été rémunéré.  Identifiez les programmes et les activités ayant connu le plus de succès ainsi que les sites de l’entreprise qui génèrent des revenus. En affichant les données par programme, vous pouvez voir le montant total des revenus, la durée de participation au programme et sa date d’expiration. Chaque programme et type de revenu aura des exigences, des dates et des seuils de revenus maximum différents. 
-
-##<a name="drill-down-on-incentive-payouts"></a>Explorer les paiements de primes incitatives
-
+## <a name="drill-down-on-incentive-payouts"></a>Explorer les paiements de primes incitatives
 Pour avoir une autre perspective des revenus générés grâces aux primes incitatives, la page Paiements détaille les montants perçus et les paiements à venir. Vous pouvez obtenir les relevés de chaque programme pour lequel vous avez été payé pour y regarder les détails des transactions, notamment les taxes déduites. Vous pouvez examiner plus en détails les paiements mensuels et annuels par transaction.

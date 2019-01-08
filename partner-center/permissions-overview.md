@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: rôles, autorisations, administrateur, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d05656a219cda8a68ded396a7f19b7bb4e5f9cdc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795102"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995913"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles et des autorisations aux utilisateurs
 
@@ -24,9 +24,9 @@ Chaque rôle dans l’espace partenaires est fourni avec certaines autorisations
 
 En fonction de la taille de votre organisation, certains utilisateurs peuvent fonctionner sur plusieurs sites, ou uniquement pour un seul endroit. 
 
-Exemple:
+Exemple :
 
-- L’administrateur global peut être l’administrateur de l’entreprise juridique et un lieu spécifique; ou l’administrateur global peut être administrateur pour un seul des emplacements d’une entreprise. 
+- L’administrateur global peut être l’administrateur pour les entreprises juridique et un lieu spécifique; ou l’administrateur global peut être l’administrateur pour un seul des emplacements d’une entreprise. 
 - Administrateurs de primes incitatives peuvent administrer pour un ou plusieurs emplacements, mais ces emplacements doivent être spécifiés.
 
 
@@ -108,7 +108,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <tr class="odd">
 <td><p><strong>Administrateur de primes incitatives</strong></p></td>
 <td><ul>
-<li><p>Initie et gère les revendications de primes incitatives</p></li>
+<li><p>Lance et gère les demandes de primes incitatives</p></li>
 <li><p>Peut afficher et modifier tous les aspects de programmes de primes incitatives</p></li>
 <li><p>Peut afficher et modifier les informations bancaires et fiscaux</p></li>
 <LI><p>Affichage des revenus remise et le mode coopération</p></li>
@@ -132,7 +132,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <td><p><strong>Agent d’administration</strong></p></td>
 <td><ul>
 <li><p>Gestion des clients</p></li>
-<li><p>Ajouter une liste d’appareil à l’espace partenaires <</p></li>
+<li><p>Ajouter une liste de l’appareil à l’espace partenaires&lt;</p></li>
 <p><li>Créer des profils et les appliquer aux appareils</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>État du service et demandes de service pour les clients</p></li>
@@ -147,7 +147,7 @@ Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes 
 <td><p><strong>Commercial</strong></p></td>
 <td><ul>
 <li><p>Gestion des clients</p></li>
-<li><p>Ajouter une liste d’appareil à l’espace partenaires</p></li>
+<li><p>Ajouter une liste de l’appareil à l’espace partenaires</p></li>
 <li><p>Gestion des abonnements</p></li>
 <li><p>Afficher les tickets de support</p></li>
 <li><p>Demander une relation avec un client</p></li>

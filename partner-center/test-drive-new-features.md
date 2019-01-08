@@ -6,12 +6,12 @@ description: Testez les nouvelles fonctionnalités de l'Espace partenaires avant
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 96fe21302e2d4e5a06f7b6c970b95b8739673ac7
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797122"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995733"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Tester les nouvelles fonctionnalités de l'Espace partenaires
 
@@ -30,16 +30,16 @@ Nous sommes heureux de vous inviter à tester de nouvelles fonctionnalités pré
 
 Pour chaque fonctionnalité future, vous pouvez:
 
--   En apprendre davantage sur cette fonctionnalité et décider si vous souhaitez la tester en sélectionnant **En savoir plus** dans sa description 
+- En apprendre davantage sur cette fonctionnalité et décider si vous souhaitez la tester en sélectionnant **En savoir plus** dans sa description 
 
--   Trouver des instructions pour tester la fonctionnalité
+- Trouver des instructions pour tester la fonctionnalité
 
--   Vérifier la date prévue de lancement d'une version d’évaluation d'une fonctionnalité et la date de mise en service cible pour son lancement dans la communauté de l'Espace partenaires dans le monde entier 
+- Vérifier la date cible pour rendre une fonctionnalité disponibles pour une version d’évaluation et notre cible retours la date d’où nous allons libérer la fonctionnalité de la Communauté mondiale de l’espace partenaires.
 
-    > [!NOTE]  
+> [!NOTE]  
 >  La *date de mise en service cible* désigne la date à laquelle nous envisageons de rendre la fonctionnalité disponible dans le monde entier pour tous les utilisateurs de l'Espace partenaires. Toutefois, plusieurs éléments peuvent avoir un impact sur la date de mise en service, y compris la décision de tenir compte de certains retours d'expérience susceptibles d'améliorer la fonctionnalité, par conséquent nous pouvons décider de reporter la date de mise en service ou de ne pas lancer de version commerciale de cette fonctionnalité.  
 
--   Activer l’aperçu de la fonctionnalité en faisant glisser le commutateur sur **Activé**
+- Activer l’aperçu de la fonctionnalité en faisant glisser le commutateur sur **Activé**
 
 > [!NOTE]  
 >  Seuls les administrateurs mondiaux et les agents administrateurs peuvent activer les versions préliminaires des fonctionnalités. Toutefois, certains de vos utilisateurs de l'Espace partenaires peuvent voir et utiliser les fonctionnalités d’aperçu s'ils disposent des autorisations applicables.

@@ -7,12 +7,12 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
-ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
+ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "6131698"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995553"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installer et prévisualiser l’application Analyse de l’Espace partenaires pour MicrosoftPowerBI
 
@@ -45,16 +45,16 @@ Avant d’installer la version préliminaire de l'application Analyse de l’Esp
 
 2. Sous **Vous disposez déjà d'un compte?**, sélectionnez **Se connecter**. 
 
-3.  Sur la page suivante, entrez le nom d'utilisateur et le mot de passe pour votre Power BI, puis sélectionnez **Se connecter**. 
+3. Sur la page suivante, entrez le nom d'utilisateur et le mot de passe pour votre Power BI, puis sélectionnez **Se connecter**. 
 
-4.  Sur la fenêtre contextuelle **Se connecter à Analyse de l’Espace partenaires**, vérifiez que la **méthode d’authentification** est définie sur **oAuth2**, sinon, sélectionnez **oAuth2** dans la liste. 
+4. Sur la fenêtre contextuelle **Se connecter à Analyse de l’Espace partenaires**, vérifiez que la **méthode d’authentification** est définie sur **oAuth2**, sinon, sélectionnez **oAuth2** dans la liste. 
 
-    > [!NOTE]  
+> [!NOTE]  
 >  L’affichage de cette fenêtre peut prendre quelques minutes.
 
-5.  Sur la page **Connecteur d'Analyse de l’Espace partenaires**, connectez-vous en utilisant les informations d’identification d'administrateur général, d’agent administrateur ou d'administrateur de facturation pour le client Azure AD de votre société, puis sélectionnez **Se connecter**.
+5. Sur la page **Connecteur d'Analyse de l’Espace partenaires**, connectez-vous en utilisant les informations d’identification d'administrateur général, d’agent administrateur ou d'administrateur de facturation pour le client Azure AD de votre société, puis sélectionnez **Se connecter**.
  
-6.  Lorsque vous êtes invité à accéder, sélectionnez **Accepter**. 
+6. Lorsque vous êtes invité à accéder, sélectionnez **Accepter**. 
 
 Une fois que le service Analyse de l’Espace partenaires est connecté à Power BI, les données commencent à se charger. Selon la quantité de données, cela peut prendre jusqu'à 10minutes. 
 

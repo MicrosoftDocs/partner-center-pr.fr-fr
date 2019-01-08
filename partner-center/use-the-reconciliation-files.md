@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990991"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995943"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -57,7 +57,7 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> Champs des fichiers basés sur les licences
 
@@ -179,7 +179,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="even">
 <td>Taxe</td>
-<td><p>Montant de la taxe sur les frais, selon les règles fiscales et les circonstances spécifiques de votre marché.</p></td>
+<td><p>Taxe sur les frais de quantité, en fonction de votre marché & #39; s règles fiscales et les circonstances spécifiques.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+<td><p>Client & #39; nom de l’organisation s comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
 <td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
@@ -204,12 +204,12 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
+<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Détailler par partenaire</a>.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nom de domaine du client, afin d’identifier le client. Cela ne doit pas être utilisée pour identifier de manière unique le client que le client/partenaire peut mettre à jour le domaine de redirection vers un microsite/par défaut via le portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td><p>Client & #39; nom de domaine s, utilisé pour aider à identifier le client. Cela ne doit pas être utilisée pour identifier de manière unique le client que le client/partenaire peut mettre à jour le domaine de redirection vers un microsite/par défaut via le portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 <td>exemple.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+<td><p>Client & #39; nom de l’organisation s comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
 <td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir [Détailler par partenaire](#itemizebypartner).</p></td>
+<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Voir <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Détailler par partenaire</a>.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Montant de la taxe sur les frais, selon les règles fiscales et les circonstances spécifiques de votre marché.</p></td>
+<td><p>Taxe sur les frais de quantité, en fonction de votre marché & #39; s règles fiscales et les circonstances spécifiques.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Nom de domaine du client, afin d’identifier le client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td><p>Client & #39; nom de domaine s, utilisé pour aider à identifier le client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 <td>exemple.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </td>
 <td>
 <p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
-<p><em>Exception: les taxes sont déjà incluses dans «Décalage d'un élément de la ligne». Consultez les crédits, ci-dessus.</em></p>
+<p><em>Exception: &quot;décalage d’un élément de ligne&quot; taxes sont déjà incluses. Consultez les crédits, ci-dessus.</em></p>
 </td>
 <td>
 <p>Taxes ou taxe sur la valeur ajoutée (TVA)</p>

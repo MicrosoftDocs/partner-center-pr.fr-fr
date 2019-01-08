@@ -6,12 +6,12 @@ description: Les programmes de primes incitatives encouragent les partenaires à
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6427f035c7cb4107073ab7039a3b1823025968
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 61138645f20a24ba7eacd17546983715a0045669
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797302"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995633"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Les primes incitatives des partenaires sont désormais dans l'Espace partenaires 
 
@@ -27,19 +27,19 @@ Les primes incitatives destinées aux partenaires Microsoft stimulent la croissa
 
 Vous êtes éligible au programme de primes incitatives destiné aux partenaires Microsoft si vous êtes un partenaire Fournisseur de solutionsCloud (CSP) participant activement en tant que revendeur.
 Lorsque vous rejoignez le programme, vous pouvez accéder à des remises et des revenus en coopération. Pour vous inscrire au programme de primes incitatives, vous devez remplir les conditions suivantes: 
--   Disposer d’un contrat MicrosoftPartnerNetwork (MPN) actif.  
--   Les fournisseurs indirects doivent disposer d’un contrat de distributeur Cloud valide.
--   Les vendeurs directs doivent disposer d’un contrat de revendeur.
--   Si vous êtes un partenaire Revendeur indirect, vous devez figurer dans MPN. Les revendeurs indirects recevront une invitation au programme de primes incitatives après avoir terminé leur première transaction. 
--   Disposer d'au moins une des compétences Microsoft. Voir la liste des [compétences Microsoft] actuelles (competencies.md).
+- Disposer d’un contrat MicrosoftPartnerNetwork (MPN) actif.  
+- Les fournisseurs indirects doivent disposer d’un contrat de distributeur Cloud valide.
+- Les vendeurs directs doivent disposer d’un contrat de revendeur.
+- Si vous êtes un partenaire Revendeur indirect, vous devez figurer dans MPN. Les revendeurs indirects recevront une invitation au programme de primes incitatives après avoir terminé leur première transaction. 
+- Disposer d'au moins une des compétences Microsoft. Afficher la liste des [compétences Microsoft](competencies.md)en cours.
 
 ## <a name="one-site-one-log-on"></a>Un seul site, une seule ouverture de session
 
-Maintenant que le programme de primes incitatives destiné aux partenaires Microsoft a été déplacé vers l’Espace partenaires, vous pouvez effectuer tout votre travail d’administration, notamment gérer les utilisateurs, effectuer des tâches pour le compte de vos clients, vous inscrire à des certifications et à des primes incitatives, consigner les revenus des primes incitatives et obtenir les paiements. Toutes les données de vos primes incitatives est disponibles sur vos primes incitatives des **Partenaires**. Les données sur les primes incitatives sont actualisées tous les jours.
- 
+Maintenant que le programme de primes incitatives des partenaires Microsoft a été déplacé vers l’espace partenaires, vous serez en mesure d’effectuer tout votre travail d’administration, notamment gérer les utilisateurs, fonctionner pour le compte de clients, s’inscrire des certifications et des primes incitatives, consigner les revenus des primes et obtenir les paiements. Toutes les données de vos primes incitatives est disponibles sur vos primes incitatives des **Partenaires**. Les données sur les primes incitatives sont actualisées tous les jours.
+ 
 ## <a name="set-your-users-up-in-partner-center"></a>Configurez vos utilisateurs dans l’Espace partenaires
- 
-La première étape consiste à compléter votre compte de primes incitatives de l'Espace partenaires en y configurant vos utilisateurs de primes incitatives. Vous avez reçu un e-mail contenant une liste des utilisateurs des primes incitatives de votre organisation. Lorsque l’administrateur de primes incitatives pour votre organisation a configuré les utilisateurs, toutes les données de vos primes apparaîtront sur les primes incitatives des **Partenaires**.
+ 
+La première étape consiste à compléter votre compte de primes incitatives de l'Espace partenaires en y configurant vos utilisateurs de primes incitatives. Vous avez reçu un e-mail contenant une liste des utilisateurs des primes incitatives de votre organisation. Lorsque l’administrateur de primes incitatives de votre organisation a configuré les utilisateurs, toutes les données de vos primes incitatives apparaîtront sur les primes incitatives des **Partenaires**.
 
 **Articles associés**
 

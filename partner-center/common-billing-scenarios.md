@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: 8493464ce0855d8a267e6953162dbc35a2792d05
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990961"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995973"
 ---
 # <a name="common-billing-scenarios"></a>Scénarios de facturation courants
 
@@ -58,11 +58,13 @@ Les frais d’utilisation sont basés sur les prix quotidiens. Si le prix change
 **Scénario1: Nouvel abonnement**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation mensuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         |12/02/2018    |Frais de cycle   |4,00       |1        |4,00    
 
 Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/02/2018         |12/03/2018    |Frais de cycle   |4,00       |1        |4,00    
@@ -70,11 +72,13 @@ Le 15février, le fichier de rapprochement basé sur les licences contiendra la 
 **Scénario 2: Modification du nombre de licences**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation mensuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         |12/02/2018    |Frais de cycle   |4,00       |1        |4,00    
 
 Le 1erfévrier, vous ajoutez une licence supplémentaire. Le 15février, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 13/01/2018        |12/02/2018    |Instance de cycle au prorata   |-4,00       |1        |-4,00    
@@ -97,11 +101,13 @@ Prix unitaire au prorata=1,54=12x0,129
 **Scénario3:Suspension avant 30jours**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation mensuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/01/2018         |12/02/2018    |Frais de cycle   |4,00       |1        |4,00    
 
 Le 1er février vous suspendez un abonnement. Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/02/2018|Frais d'annulation|-4,00|1|-4,00
@@ -109,16 +115,19 @@ Le 1er février vous suspendez un abonnement. Le 15février, le fichier de rappr
 **Scénario4:Suspension après 30jours**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation mensuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/02/2018|Frais de cycle|4,00|1|4,00
 
 Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/02/2018|12/03/2018|Frais de cycle|4,00|1|4,00
 
 Le 1ermars vous suspendez l'abonnement. Le 15mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 01/03/2018|12/03/2018|Frais d'annulation|-1,72|1|-1,72
@@ -138,6 +147,7 @@ Par conséquent, le prix unitaire = -1,716 (12 x 0,143 x (-1)).
 **Scénario1: Nouvel abonnement**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation annuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Frais au prorata en cas d’achat|48,00|1|48,00
@@ -149,37 +159,41 @@ Vous achetez un nouvel abonnement le 11/02/2017 avec unelicence pour 211,20USD p
 -   Frais de 211,20USD pour la période du 11/02/17 au 10/02/18. 
 
 Le 12/02/17, vous achetez une deuxième licence. Votre date de facturation est le 14/02/17. Une facture et un fichier de rapprochement sont générés. Le fichier de rapprochement contient les lignes de facturation suivantes: 
+
 |Date de début de facturation  |Date de fin de facturation  |Type de facturation  |Prix unitaire |Quantité | Montant |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
 |11/02/2017 |10/02/2018 |Frais au prorata à l'achat |211,20 |1 | 211,20 |
- 
+
 À l'anniversaire de votre abonnement, le 11/03/17, le système de facturation Microsoft crée les lignes de facturation suivantes pour l'augmentation du nombre de licences le 12/02/17: 
 -   Crédit de -211,20USD pour la période du 11/02/17 au 10/02/18. 
 -   Frais de 0,58USD calculés au prorata par licence pour 1licence pour la période du 11/02/17 au 11/02/17. 
 -   Frais de 15,62USD calculés au prorata par licence pour 2licences pour la période du 12/02/17 au 10/03/17. 
 -   Frais de 195,00USD calculés au prorata par licence pour 2licences pour la période du 11/03/2017 au 10/02/2018. 
- 
+
 Le 11/02/17, vous achetez un abonnement. Le 12/02/17, vous ajoutez une licence. Votre date de facturation est le 14/02/17. Le 11/02/18, votre abonnement est renouvelé.
 
 Votre prochaine date de facturation est le 14/03/17, et une facture et un fichier de rapprochement sont générés. Le fichier de rapprochement contient les lignes de facturation suivantes: 
+
 |Date de début de facturation  |Date de fin de facturation  |Type de facturation  |Prix unitaire |Quantité | Montant |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
 |11/02/2017 |10/02/2018 |Instance de cycle au prorata |-211,20 |1 |-211,20 |
 |11/02/2017 |11/02/2017 |Instance de cycle au prorata |0,58 |1 |0,58 |
 |12/02/2017 |10/03/2017 |Instance de cycle au prorata |15,62 |2 |31,25 |
 |11/03/2017 |10/02/2018 |Instance de cycle au prorata |195,00 |2 |390,00 |
- 
+
 Le 11/02/18, l'abonnement est renouvelé pour une autre période de 12mois.
 
 
 **Scénario 3: Modification du nombre de licences**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation annuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Frais au prorata en cas d’achat|48,00|1|48,00
 
 Le 1erfévrier, vous ajoutez une licence supplémentaire. Le 15février, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  | 
 13/01/2018|12/01/2019|Instance de cycle au prorata|-48,00|1|-48,00
@@ -203,11 +217,13 @@ Par conséquent, le prix unitaire=44,98(346x0,13x2)
 **Scénario4:Suspension avant 30jours**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation annuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Frais au prorata en cas d’achat|48,00|1|48,00
 
 Le 1erfévrier vous suspendez votre abonnement. Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Frais d'annulation|-48,00|1|-48,00
@@ -215,12 +231,14 @@ Le 1erfévrier vous suspendez votre abonnement. Le 15février, le fichier de rap
 **Scénario5:Suspension après 30jours**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation annuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Frais au prorata en cas d’achat|48,00|1|48,00
 
 Le 15février, le fichier de rapprochement basé sur les licences ne contiendra aucune ligne de facturation pour cet abonnement.
 Le 1ermars vous suspendez votre abonnement. Le 15mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 01/03/2018|12/01/2019|Frais d'annulation|-41,34|1|-41,34
@@ -238,16 +256,19 @@ Par conséquent, le prix unitaire=41,34(318x0,13x1) Dans la mesure où il s'agit
 **Scénario 6: Suspension et réactivation**
 
 Votre date de facturation est le 15 de chaque mois. Vous achetez le 13janvier un nouvel abonnement avec une licence pour 4$/mois et sélectionnez une facturation annuelle. Le 15janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Frais au prorata en cas d’achat|48,00|1|48,00
 
 Le 1erfévrier vous suspendez votre abonnement. Le 15février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/01/2018|12/01/2019|Frais d'annulation|-48,00|1|-48,00
 
 Le 1ermars vous réactivez votre abonnement. Le 15mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante:
+
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 01/03/2018|12/01/2019|Frais au prorata en cas d’achat|41,34|1|41,34

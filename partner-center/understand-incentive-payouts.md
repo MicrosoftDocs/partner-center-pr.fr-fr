@@ -6,14 +6,14 @@ description: Affichez les revenus et les paiements se rapportant aux programmes 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795942"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995953"
 ---
-#<a name="incentive-payouts-overview"></a>Vue d’ensemble des paiements de primes incitatives
+# <a name="incentive-payouts-overview"></a>Vue d’ensemble des paiements de primes incitatives
 
 **S'applique à**
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795942"
 
 Les administrateurs et les utilisateurs des programmes de primes incitatives obtiennent une vue d’ensemble des revenus et paiements qu'ils ont reçus ou qu'ils vont recevoir dans le cadre de leurs programmes de primes incitatives.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Informations récapitulatives sur les revenus et les paiements
+## <a name="summary-information-on-earnings-and-payout"></a>Informations récapitulatives sur les revenus et les paiements
 
 Les utilisateurs et administrateurs de primes incitatives peuvent vérifier leur situation financière dans le cadre des programmes de primes incitatives auxquels ils participent à partir de la page **Résumé du paiement**. Vous pouvez analyser chaque zone du récapitulatif en détail, si nécessaire. 
 

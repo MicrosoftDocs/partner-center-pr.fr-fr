@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990931"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995873"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -146,7 +146,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 |Montant hors taxe |Sous-total des achats avant impôts. |
 |Taxe de vente |Montant des taxes. |
 |Total |Total à payer. |
- 
+ 
 
 
 

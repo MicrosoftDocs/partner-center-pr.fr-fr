@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683738"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995803"
 ---
 # <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
@@ -48,7 +48,7 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 </tr>
 <tr class="even">
 <td>Union européenne</td>
-<td><p>Dans les États membre de l’Union européenne, les partenaires doivent fournir leur numéro de&nbsp;TVA valide pour la taxe au preneur et pour une facturation appropriée. Le numéro de&nbsp;TVA doit être [accepté comme valide](http://go.microsoft.com/fwlink/p/?LinkId=808160).</p>
+<td><p>Dans les États membre de l’Union européenne, les partenaires doivent fournir leur numéro de&nbsp;TVA valide pour la taxe au preneur et pour une facturation appropriée. Le numéro de&nbsp;TVA doit être <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">accepté comme valide</a>.</p>
 <p>Étant donné que Microsoft ne gère ni crédit ni refacturation, vous devez inscrire votre numéro de&nbsp;TVA dans l’Espace partenaires avant de vendre des abonnements.</p>
 <p>Envoyer votre numéro de&nbsp;TVA à Microsoft</strong></p>
 <ol>
@@ -74,11 +74,11 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

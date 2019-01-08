@@ -7,12 +7,12 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795252"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995833"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
@@ -36,7 +36,7 @@ Vous pouvez afficher les données de l’ensemble de vos clients via le programm
 
 **Dans votre portefeuille**
 
-1.  Dans l' **Espace partenaires**, sélectionnez **analyser**.
+1.  Sur l' **Espace partenaires**, sélectionnez **analyser**.
 2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
 
 Terminologie&nbsp;:
@@ -70,24 +70,24 @@ Si vous répondez à de nombreuses questions d’aide et de procédures, si les 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problème:</strong> le taux d’adoption par les utilisateurs est faible et de nombreuses licences ne sont pas utilisées.</p>
+<td><p><strong>Problème:</strong> Le taux d’adoption par est faible et de nombreuses licences ne & #39; t utilisé.</p>
 <p><strong>Éléments à prendre en compte:</strong> les clients ne comprennent peut-être pas la valeur ajoutée que le logiciel peut leur apporter. Vous pouvez les aider à découvrir comment l’intégrer à leurs activités quotidiennes pour simplifier les tâches qu’ils effectuent déjà ou développer de nouveaux types de productivité.</p>
 <p><strong>Marche à suivre:</strong> études de cas, témoignage des utilisateurs concernant des scénarios spécifiques, blogs de didacticiel ou vidéos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problème:</strong> le nombre d’appels pour des questions d’aide et de procédures est élevé.</p>
 <p><strong>Éléments à prendre en compte:</strong> les clients peuvent ne pas connaître le logiciel, la version du produit ou la tâche qu’ils doivent effectuer.</p>
-<p><strong>Marche à suivre:</strong> vous pouvez adopter une stratégie double avec une formation (en présentiel ou en ligne) pour améliorer l’expérience globale du client, et la promotion de certaines options de libre-service aux clients.</p>
-<p>Vous pouvez également repenser votre site de support pour inclure les options de libre-service décrites dans la rubrique [Support autonome du client](customer-self-support.md), en plus des informations de contact du support.</p></td>
+<p><strong>Marche à suivre:</strong> Vous pouvez utiliser une stratégie double avec formation (en présentiel ou en ligne) pour augmenter le client & #39; s expérience globale, et la promotion de certaines de ces options de libre-service auxquels clients.</p>
+<p>Vous pouvez également repenser votre site de support pour inclure les options de libre-service décrites dans la rubrique <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Support autonome du client</a>, en plus des informations de contact du support.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

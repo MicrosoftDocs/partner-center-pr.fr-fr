@@ -1,113 +1,161 @@
 ---
-title: Simplifier l’installation des appareils avec WindowsAutoPilot | Espace partenaires
-ms.topic: article
-ms.date: 10/29/2018
-description: Ajouter un profil de déploiement WindowsAutoPilot dans l’Espace partenaires pour simplifier l’installation d’appareils avec WindowsAutoPilot
-author: KPacquer
-ms.author: kenpacq
-keywords: autopilot, windows autopilot, microsoft autopilot, déploiement zero touch, oobe, écrans d’ouverture de session
+title: Personnaliser les out-of-box d’un appareil avec des profils Windows Autopilot | L’espace partenaires
+description: Préconfigurer expérience d’out-of-box d’un appareil avec des profils Autopilot.
+author: maggiepuccievans
+keywords: AutoPilot, autopilot windows, autopilot de microsoft, déploiement zero touch, oobe, écrans d’ouverture de session, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d6e6e015424eb8be83bae21b2e15bdc072e480b
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 70740212f433ad6eb4f2f04d63708fff436024ad
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917561"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995933"
 ---
-<!--Maggie, 12/7/18 - removed line telling indirect resellers to go through their indirect providers for autopilot stuff as per Bhavya Chopra in bug 19841770.-->
+# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personnaliser les out-of-box d’un appareil avec des profils Windows Autopilot
 
-# <a name="simplify-device-setup-with-windows-autopilot"></a>Simplifier l’installation d’appareils avec WindowsAutoPilot 
+**S'applique à**
 
-WindowsAutoPilot simplifie et sécurise l’installation de nouveaux appareils Windows10Professionnel dès le premier démarrage, en quelques étapes seulement. Pour plus d’informations, voir [Présentation de WindowsAutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).
+- Les partenaires de facture direct de fournisseur de solutions cloud, les fournisseurs indirects et les revendeurs indirects
 
-## <a name="features"></a>Fonctionnalités
+Si vous gérez les appareils clients, vous devrez peut-être personnaliser l’expérience out-of-box (OOBE) pour les utilisateurs du client. Vous pouvez préconfigurer de nouveaux appareils avec des profils Windows Autopilot avant de distribuer les appareils à des clients et appliquer des profils à nouveau sur les appareils clients ont déjà acheté. Cet article explique comment créer et appliquer des profils Autopilot aux appareils dans l’espace partenaires.
 
-- **Désactiver les autorisations d’administrateur local** pour les utilisateurs finaux qui configurent des appareils
-- **Afficher la page de connexion d’une organisation**. L’organisation peut prédéfinir une page de connexion qui ajoute l’appareil en tant qu’un appareil professionnel et le joint à Azure Active Directory.
-- **Inscrire l’appareil dans un gestionnaire de périphériques mobiles (GPM)** tel que MicrosoftIntune, une fois la phaseOOBE terminée.
-- **Simplifier la phaseOOBE (Out-Of-Box Experience)** pour utiliser uniquement les étapes et les décisions nécessaires, à l’aide d’un profil de déploiement WindowsAutoPilot.
+Si vous n’êtes pas déjà familiarisé avec Autopilot, passez en revue les informations contenues dans les articles suivants:
 
-## <a name="requirements"></a>Exigences
+- [Vue d’ensemble de Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Guide de référence de déploiement AutoPilot](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-- Appareils préinstallés avec Windows10 Professionnel Creators Update (1703 ou version ultérieure) ou Windows10 Professionnel pour PC avancés
-- Identificateur d'appareil appelé code de hachage matériel (128 HWH ou 4k HWH), généralement fourni par un fabricant d'ordinateurs OEM. Vous utiliserez des identificateurs pour affecter des profils d’organisation dans l’espace partenaires.
-- Les appareils doivent avoir accès à Internet. Lorsque l'appareil ne peut pas se connecter, il affiche les écrans Windows OOBE (Out-Of-Box Experience) par défaut.
-- L’inscription de l’appareil dans une solution GPM nécessite Azure ActiveDirectory Premium.
+## <a name="overview"></a>Présentation
 
-## <a name="add-company-branded-sign-in-pages-to-oobe"></a>Ajouter la marque de société des pages de connexion à la phase OOBE
+Avec la fonctionnalité Windows Autopilot dans l’espace partenaires, vous pouvez créer des profils personnalisés à appliquer aux appareils du client. Les paramètres de profil suivants étaient disponibles lors de la publication de cet article:
 
-Pour ajouter des pages spécifiques de l’entreprise, ajoutez les appareils dans votre société [répertoire Azure Active directory](https://go.microsoft.com/fwlink/?linkid=848958) et créer des pages de connexion.
+- Ignorer les paramètres de confidentialité. Ce paramètre de profil Autopilot facultatif permet aux organisations de ne demander pas sur les paramètres de confidentialité au cours du processus OOBE.
 
-## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Supprimer des pages Windows de la phaseOOBE à l’aide d’un profil de déploiement WindowsAutoPilot
+- Désactiver la création du compte administrateur local sur l’appareil. Les organisations peuvent décider si l’utilisateur de configurer l’appareil doit avoir un accès administrateur une fois que le processus est terminé.
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Exemples de paramètres dans un profil de déploiement WindowsAutoPilot
+- Configurer automatiquement l’appareil professionnel ou scolaire. Tous les appareils enregistrés avec Autopilot seront automatiquement être considérée comme professionnelle ou à l’établissement d’appareils, afin que cette question ne sera pas demandée au cours du processus OOBE.
 
-- Ignorer les paramètres de confidentialité dans l’installation
-- Désactiver le compte d’administrateur local dans l'installation
-- Ignorer automatiquement des pages dans l'installation
-  - Sélectionner automatiquement le programme d’installation professionnel ou scolaire
-  - Ignorer les pages de configuration de Cortana, de OneDrive et d'inscription OEM
+- Ignorez les pages de paramètres d’inscription Cortana, OneDrive et OEM. Tous les appareils enregistrés avec Autopilot ignore automatiquement ces pages au cours du processus d’out-of-box experience (OOBE).
 
-### <a name="add-devices-and-apply-a-profile"></a>Ajouter des appareils et appliquer un profil
+- Ignorer le contrat de licence utilisateur final (CLUF). À compter de Windows 10 version 1709, les organisations peuvent décider d’ignorer la page CLUF présentée au cours du processus OOBE. Voir [abandon du CLUF de Windows Autopilot](#windows-autopilot-eula-dismissal) ci-dessous pour obtenir des informations importantes à prendre en compte sur le fait d’ignorer la page CLUF lors de l’installation de Windows.
 
-À partir de l’espace partenaires, vous pouvez créer un profil de déploiement Windows AutoPilot et l’appliquer à une liste d’appareils.
+Les autorisations de gestion de profil et le périphérique et les limitations suivantes s’appliquent:
 
-Pour configurer des appareils, chargez une liste d’appareils, créez un profil qui s’applique à ces appareils, puis appliquez-le.
+- Les partenaires fournisseurs de solutions cloud peuvent continuer à gérer les profils Autopilot pour les clients existants avec lesquels ils ont des relations de revendeur, même si les clients ont supprimé les privilèges d’administration déléguées du partenaire.
 
-1.  Ajoutez la liste des appareils.
+- Vous pouvez gérer des appareils existants pour vos clients qui ont été ajoutés par vous ou par un autre partenaire fournisseur de solutions cloud.
 
-    Les agents commerciaux et administrateurs disposent d'un accès pour ajouter la liste des appareils dans l’Espace partenaires.
+- Vous ne pouvez pas gérer les appareils que votre client a téléchargés à Microsoft Store pour entreprises ou Microsoft Intune Portal.
 
-    a. Créez un fichier .csv à l’aide du script PowerShell de la rubrique [Vue d’ensemble de Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Ce fichier.csv contient des informations sur l’appareil, notamment le numéro de série, le nom OEM, le nom de modèle, l’ID produit et l’identificateur d’appareil. 
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Créer et gérer les profils Autopilot dans l’espace partenaires
 
-    b. À partir de l’espace partenaires, accédez aux **clients** > sélectionnez le client destinataire des appareils > **appareils > ajouter des appareils**.
+Dans l’espace partenaires, vous pouvez créer des profils Windows Autopilot deployment et les appliquer aux appareils.
 
-    c. Nom du lot d’appareils, par exemple, «Ordinateurs du service des ventes de Contoso – commande d'avril2017.» 
+>[!NOTE]
+>Seuls les agents peuvent créer et appliquer des profils.
 
-    d. Sélectionnez **Parcourir** > sélectionnez le fichier d’informations de périphérique > **Valider**.
+### <a name="create-a-new-autopilot-profile"></a>Créez un nouveau profil Autopilot
 
-    **Remarque:** si vous obtenez un message d’erreur lorsque vous essayez de télécharger le fichier.csv, vérifiez le format du fichier. À compter du mois d’août, vous pouvez utiliser le code de hachage matériel uniquement, ou le nom OEM, le numéro de série et le modèle, dans cet ordre de colonnes, ou l’ID produit Windows. Vous pouvez également utiliser l’exemple de fichier.csv fourni à partir du lien en regard de **Ajouter des appareils**.
+1. Sélectionnez **clients** à partir du menu de l’espace partenaires, puis sélectionnez le client que vous créez le profil Autopilot pour.
 
-2.  Créez un profil que vous pouvez appliquer aux appareils. (Seuls les agents ont accès pour créer et appliquer des profils dans l’espace partenaires.)
+2. Sur la page des détails du client, sélectionnez **les appareils**.
 
-    a.  À partir d' **appareils**, sélectionnez **Ajouter un nouveau profil**.
+3. Sous **profils Windows Autopilot** sélectionnez **Ajouter un nouveau profil**.
 
-    b.  Nommez le profil, par exemple, «Profil Bureau Contoso – Ignorer toutes les phases OOBE».
+4. Entrez le nom et une description du profil, puis configurez les paramètres de la phase OOBE. Choisir parmi:  
 
-    c.  Configurez les paramètres de la phase OOBE. Par exemple, cochez **Ignorer la configuration rapide dans l'installation**.
+   - Ignorer les paramètres de confidentialité dans le programme d’installation
 
-    d.  Sélectionnez **Envoyer**.
+   - Désactiver le compte d’administrateur local dans l'installation
+  
+   - Ignorer automatiquement des pages dans l'installation<br>
+        (Inclut *Ignorer Cortana, OneDrive et OEM pages de paramètres d’inscription*et de *Sélectionner automatiquement le programme d’installation Professionnel ou scolaire* )
+  
+   - Ignorer le contrat de licence utilisateur final (CLUF)<br> 
+       >[!IMPORTANT] 
+       >Voir [abandon du CLUF de Windows Autopilot](#windows-autopilot-eula-dismissal) ci-dessous pour obtenir des informations importantes à prendre en compte sur le fait d’ignorer la page CLUF lors de l’installation de Windows.
 
-3.  Appliquez le profil.
+5. Sélectionnez **Envoyer** une fois terminé.
 
-    a.  Dans **Appareils**, dans le volet **Affecter et supprimer des appareils**, sélectionnez les appareils à configurer. Pour sélectionner un lot entier, cliquez sur la case à cocher en regard du nom de lot (par exemple, «Ordinateurs du service des ventes de Contoso – commande de mars2017»).
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Appliquer un profil Autopilot aux appareils du client
 
-    b.  **Profil de l’appliquer**, puis choisissez le profil (par exemple, «Contoso Bureau profil – ignorer toutes les phases OOBE»). Les appareils affichent le profil dans la colonne Profil.
+>[!NOTE]
+>Les instructions ci-dessous supposent que vous avez déjà ajouté les appareils du client vers l’espace partenaires et que vous pouvez accéder à leur liste d’appareils. Si vous n’avez pas déjà ajouté les appareils du client, suivez les instructions de [périphériques d’ajouter à un compte client](#add-devices-to-a-customers-account) , puis suivez les étapes ci-dessous.
 
-4.  Facultatif: testez pour vérifier que votre profil fonctionne.
+Après avoir créé un profil Autopilot pour un client, vous pouvez l’appliquer aux appareils du client.
 
-    a.  Connectez un appareil au réseau et puis mettez-le sous tension.
+1. Sélectionnez **clients** à partir du menu de l’espace partenaires, puis sélectionnez le client que vous avez créé le profil Autopilot pour.
+
+2. Sur la page des détails du client, sélectionnez **les appareils**.
+
+3. Sous **profils appliquer aux appareils** sélectionner les périphériques ou les groupes de périphériques que vous souhaitez ajouter des profils, puis sélectionnez **Appliquer profil**. Le profil que vous venez d’appliquer s’affiche dans la colonne **profil** .
+
+4. Suivez les étapes ci-dessous pour vérifier que le profil est appliqué correctement à l’appareil.
+
+    a.  Connectez un appareil au réseau et mettez-le sous tension.
 
     b.  Vérifiez que les écrans OOBE appropriés (le cas échéant) s’affichent.
 
-    c.  Pour préparer l'appareil à un nouvel utilisateur, effectuez la phase OOBE, puis rétablissez les paramètres par défaut de l’appareil.
+    c.  Lorsque le processus OOBE s’arrête, réinitialiser l’appareil ses paramètres d’usine par défaut pour préparer à un nouvel utilisateur.
 
-## <a name="to-update-or-delete-a-profile"></a>Pour mettre à jour ou supprimer un profil 
+### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Supprimer un profil Autopilot à partir de l’appareil d’un client
 
-Une fois que vous avez affecté à un profil à un appareil, vous pouvez mettre à jour, même si vous avez déjà donné l’appareil à votre client. Lorsque l’appareil se connecte à Internet, il télécharge la dernière version de votre profil lors du processus OOBE. Si votre client rétablit les paramètres par défaut de l'appareil, celui-ci télécharge à nouveau les dernières mises à jour de votre profil. 
+1. Sélectionnez **clients** à partir du menu de l’espace partenaires, puis sélectionnez le client que vous avez créé le profil Autopilot pour.
 
-### <a name="remove-a-profile-from-a-device"></a>Supprimer un profil d’un appareil
+2. Sur la page des détails du client, sélectionnez **les appareils**.
 
-1. Sélectionnez l'appareil (ou un lot d'appareils) dont vous voulez supprimer le profil. 
+3. Sous **profils appliquer aux appareils** sélectionnez les périphériques que vous souhaitez supprimer le profil, puis sélectionnez **Supprimer le profil**.
 
-2. Dans le volet **Affecter et supprimer des appareils**, sélectionnez **Supprimer un profil**.
+   >[!NOTE]
+   >Supprimer un profil à partir d’un appareil ne supprime pas le profil de votre liste. Si vous souhaitez supprimer un profil, suivez les instructions de [mise à jour ou supprimer un profil Autopilot](#update-or-delete-an-autopilot-profile).
 
-3. Accédez au profil à supprimer et supprimez-le. Le profil sera supprimé de l'ensemble des appareils.
+### <a name="update-or-delete-an-autopilot-profile"></a>Mettre à jour ou supprimer un profil Autopilot
 
-Dans **Appareils**, sélectionnez le profil. À ce stade, vous pouvez modifier les paramètres existants.
+Si un client souhaite modifier l’expérience out-of-box après avoir expédié les appareils sur ces derniers, vous pouvez modifier le profil dans l’espace partenaires.
 
-## <a name="windows-autopilot-eula-dismissal--important-information"></a>Abandon du CLUF de Windows Autopilot – informations importantes
+Lorsque l’appareil du client se connecte à internet, il télécharge la dernière version de profil au cours du processus OOBE. En outre, n’importe quel moment qu'un client rétablit un appareil ses paramètres d’usine par défaut, l’appareil télécharge à nouveau la dernière version de profil au cours du processus OOBE.
 
-L'utilisation de cet outil vous permet de configurer des installations individuelles de Windows sur des appareils que vous gérez pour vos clients. Si vous y êtes autorisé par le client, vous pouvez choisir de supprimer ou de masquer certains écrans d'installation qui sont normalement présentés aux utilisateurs lors de la configuration de Windows, y compris l'écran d'acceptation du CLUF. 
+1. Sélectionnez **clients** à partir du menu de l’espace partenaires, puis sélectionnez le client qui souhaite vous permettent de modifier un profil Autopilot.
 
-En utilisant cette fonction, vous acceptez que la suppression ou le masquage des écrans conçus pour fournir aux utilisateurs l'avis ou l'acceptation des termes, signifie que vous avez obtenu les consentement et autorisation nécessaires de votre client pour masquer les termes, et que pour le compte de votre client (qu'il s'agisse d'une organisation ou d'un utilisateur individuel), vous consentez aux avis et acceptez les conditions applicables à votre client. Cela inclut votre acceptation des termes et conditions de la licence ou de l'avis qui serait présenté à l'utilisateur si vous ne l'aviez pas supprimé(e) ni masqué(e) à l'aide de cet outil. Votre client ne peut pas utiliser le logiciel Windows sur ces appareils s'il n'a pas légitimement acquis une licence pour le logiciel auprès de Microsoft ou de ses revendeurs.
+2. Sur la page des détails du client, sélectionnez **les appareils**.
+
+3. Sous **profils Windows Autopilot** , sélectionnez le profil, que vous devez mettre à jour. Apportez les modifications requises, puis sélectionnez **Envoyer**.
+
+Pour supprimer ce profil, sélectionnez **Supprimer le profil** à partir de l’angle supérieur droit de la page.
+
+### <a name="add-devices-to-a-customers-account"></a>Ajouter des appareils au compte d’un client
+
+>[!NOTE]
+>Les agents commerciaux et administrateurs peuvent ajouter des appareils au compte d’un client.
+
+Avant d’appliquer des profils Autopilot personnalisés pour les appareils clients, vous devez être en mesure d’accéder à la liste d’appareil du client.
+
+Si vous prévoyez d’utiliser le nom OEM, le numéro de série et combinaison de modèle, n’oubliez pas de ces limitations:
+
+- Cela convient tuple uniquement pour les appareils plus récents (4 k hachages, par exemple) et n’est pas prise en charge des hachages de 128 b (RS2 et périphériques préalables).
+
+- L’inscription tuple respecte la casse, afin que les données dans le fichier doivent correspondre le modèle et le fabricant noms ***exactement*** comme fournie par le fournisseur OEM (fournisseur matériel).
+
+Suivez les instructions ci-dessous pour ajouter des appareils au compte d’un client dans l’espace partenaires.
+
+1. Sélectionnez des **clients** dans le menu espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les appareils.
+
+2. Sur la page des détails du client, sélectionnez **les appareils**.
+
+3. Sous **profils appliquer aux appareils** sélectionnez **Ajouter les appareils**.
+
+4. Entrez un nom pour la liste des périphériques, puis **accédez** à charger la liste du client (au format de fichier .csv) dans l’espace partenaires.
+
+    >[!NOTE]
+    >Vous devez avoir reçu ce fichier .csv avec votre achat d’appareil. Si vous n’avez pas recevoir un fichier .csv, vous pouvez créer une vous-même en suivant les étapes décrites dans les [périphériques d’ajout de Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+
+5. Télécharger le fichier .csv, puis sélectionnez **Enregistrer**.
+
+Si vous obtenez un message d’erreur en essayant de charger le fichier .csv, vérifiez le format du fichier. Vous pouvez utiliser le code de hachage matériel uniquement, ou le nom OEM, le numéro de série et modèle (dans cet ordre de colonnes) ou l’ID de produit Windows. Vous pouvez également utiliser l’exemple de fichier .csv fourni à partir du lien en regard de **périphériques ajouter** pour créer une liste d’appareils.
+
+## <a name="windows-autopilot-eula-dismissal"></a>Abandon du CLUF de Windows Autopilot
+
+### <a name="important-information"></a>INFORMATIONS IMPORTANTES
+
+Windows Autopilot vous permet de configurer des installations personnalisées de Windows sur les appareils que vous gérez pour vos clients. Si vous êtes autorisé à le faire par le client, vous pouvez supprimer ou de masquer certains écrans d’installation qui sont normalement présentés aux utilisateurs lors de la configuration de Windows, y compris l’écran d’acceptation du CLUF (contrat de licence utilisateur final).
+
+À l’aide de cette fonction, vous convenez qu’en supprimant ou en masquant les écrans sont conçus pour fournir aux utilisateurs des avis ou l’acceptation des moyens de termes que vous avez obtenu les consentement suffisant et autorisation à partir de votre client pour masquer les termes du contrat et que vous avez, pour le compte de votre client (indique si une organisation ou un utilisateur individuel en tant que celle-ci peut être), consentez à n’importe quel avis et acceptez les conditions applicables à votre client. Cela inclut votre acceptation des termes et conditions de la licence ou de l'avis qui serait présenté à l'utilisateur si vous ne l'aviez pas supprimé(e) ni masqué(e) à l'aide de cet outil. Votre client ne peut pas utiliser le logiciel Windows sur ces appareils s'il n'a pas légitimement acquis une licence pour le logiciel auprès de Microsoft ou de ses revendeurs.
