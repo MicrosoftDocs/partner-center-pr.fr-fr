@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995873"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997338"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
@@ -28,7 +28,7 @@ Pour consulter votre facture, accédez au menu **Espace partenaires** , puis sé
 Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 
 > [!NOTE]  
-> Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les quatre (4) jours suivant la date de facturation sélectionnée.
+> Votre facture est une synthèse de tous les frais--sur le programme, les produits et clients--pour la période de facturation en cours et est disponible dans les deux (2) jours suivant la date de facturation sélectionnée dans l’heure UTC. Par exemple, si vous avez un 12 septembre date de facturation, le processus de génération de facture commence à 12 h 00 UTC sur le 13e et terminer par UTC 12 h 00 sur le 14. Si vous ne voyez pas votre facture par UTC 23:59 h 00 sur le 15, vous êtes en dehors de votre contrat de niveau de Service et devez soumettre une demande de service. 
 
 Vous recevrez une facture pour basée sur la licence (Office 365) et sur l’utilisation des frais (Azure) et une facture distincte à usage unique (Azure reserved VM instances) frais.
 
