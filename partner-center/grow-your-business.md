@@ -7,12 +7,12 @@ keywords: références, répondre à des références, prospect, prospects, prof
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776483"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000039"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Développer votre activité de partenaire Microsoft 
 
@@ -41,4 +41,4 @@ Utilisez l'Espace partenaires pour:
 Vendre aux secteurs spécialisés comme s’à but non lucratif et éducation|[Vendre aux secteurs spécialisés](get-special-pricing-for-offers.md)|Partenaires fournisseurs de solutions Cloud|
 |Développer votre activité par le biais de nombreuses activités disponibles dans le programme du mode coopération primes. Revendications de fichier pour les activités par le biais de l’espace partenaires.| [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)|Partenaires fournisseurs de solutions Cloud|
 |Créer de nouveaux ensembles de logiciels en incluant des offres tierces qui fonctionnent avec le logiciel Microsoft que vous vendez déjà|[Découvrir les offres tierces](third-party-offers.md)|Partenaires fournisseurs de solutions Cloud|
-|
+|Votre entreprise est-elle un Star à la vente et la gestion d’Azure? S’inscrire pour s’inscrire au programme fournisseur de services Microsoft Azure Expert|[Programme de fournisseur de Services Expert Microsoft Azure](azure-expert-msp.md)|Partenaires fournisseurs de solutions Cloud|

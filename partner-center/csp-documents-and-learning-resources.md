@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: 9318834c508629285265a4c2267e8ada10896db8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683778"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000049"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme fournisseur de solutions cloud, contrats, listes de prix et offres
 
-**S’applique à**
+**S'applique à**
 
 -  Espace partenaires
 -  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
@@ -31,6 +31,9 @@ Lisez attentivement les informations contenues dans cet article pour comprendre 
 Examinez les conditions requises pour devenir un partenaire dans le programme Fournisseur de solutions Cloud.
 
 [Guide du programme pour les partenaires fournisseurs de solutions Cloud](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+
+>[!Note]
+>Si vous avez besoin d’une lettre état de certification ou de confirmation, vous pouvez le demander en [contactant le support](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>Contrat de partenariat Fournisseur de solutions Cloud
 
