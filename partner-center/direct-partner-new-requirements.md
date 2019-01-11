@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: Fournisseur de solutions cloud, partenaire direct, facture direct, configuration requise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3282e925c9364d443fca52036dd8ae673a8350c3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
+ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980603"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "9001679"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Nouvelles conditions requises pour le partenaire direct du programme fournisseur de solutions Cloud
 
@@ -23,7 +23,7 @@ ms.locfileid: "8980603"
 
 ## <a name="enroll-as-a-direct-partner"></a>S’inscrire en tant que partenaire direct
 
-En tant que partenaire direct, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour des conditions d’inscription pour les partenaires de facture direct à compter du 31 août 2018. Ces nouvelles exigences vous aideront à accélérer la croissance de votre entreprise avec le modèle d’inscription CSP approprié et renforcer vos relations avec les clients avec des services à valeur ajoutée et prise en charge. 
+En tant que partenaire direct, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour des conditions d’inscription pour les partenaires de facture direct à compter d’août 31,2018. Ces nouvelles exigences vous aideront à accélérer la croissance de votre entreprise avec le modèle d’inscription CSP approprié et renforcer vos relations avec les clients avec des services à valeur ajoutée et prise en charge. 
 
 ### <a name="minimum-requirements"></a>Conditions minimales requises
 
@@ -37,6 +37,7 @@ En tant que partenaire direct, vous avez une relation de bout en bout avec votre
 
 En savoir plus sur devenir un [revendeur fournisseur de solutions cloud](https://partner.microsoft.com/cloud-solution-provider)
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Transition à partir de revendeur direct de manière à indirect
+<!-- for Jan 14 live date
+## Transition from direct to indirect reseller
 
-Si vous décidez de passer d’une entreprise de facture direct à activités de revendeur indirect, il existe plusieurs étapes, que vous devez prendre. Pour en savoir plus sur la transition, lire la [Transition à partir de partenaire direct de fournisseur de solutions Cloud (CSP) par revendeur indirect fournisseur de solutions cloud](transition-direct-to-indirect) 
+If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
