@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 21f94c78227c75124a1835b463aac3ad8fc38eb5
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776543"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011096"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Se connecter à des clients dans l'Espace partenaires
 
@@ -28,6 +28,8 @@ Notez que l’option pour ne pas demander des autorisations n’est pas disponib
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
+
+Notez que vous pouvez demander une relation de revendeur avec un client à partir d’au sein de votre pays ou votre région même.
 
 1.  Sélectionnez des **clients** dans votre menu de **L’espace partenaires** , puis **demander une relation de revendeur**.
 

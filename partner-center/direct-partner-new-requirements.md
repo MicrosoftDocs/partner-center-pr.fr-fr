@@ -1,19 +1,19 @@
 ---
 title: Fournisseur de solutions cloud direct nouvelles exigences en matière de partenaire | L’espace partenaires
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 1/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: Fournisseur de solutions cloud, partenaire direct, facture direct, configuration requise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001679"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011086"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Nouvelles conditions requises pour le partenaire direct du programme fournisseur de solutions Cloud
 
@@ -37,7 +37,8 @@ En tant que partenaire direct, vous avez une relation de bout en bout avec votre
 
 En savoir plus sur devenir un [revendeur fournisseur de solutions cloud](https://partner.microsoft.com/cloud-solution-provider)
 
-<!-- for Jan 14 live date
-## Transition from direct to indirect reseller
+## <a name="transition-from-direct-to-indirect-reseller"></a>Transition à partir de revendeur direct de manière à indirect
 
-If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
+Si vous décidez de passer d’une entreprise de facture direct à activités de revendeur indirect, il existe plusieurs étapes, que vous devez prendre. Pour en savoir plus sur la transition, lisez la [Transition à partir de partenaire direct de fournisseur de solutions Cloud (CSP) par revendeur indirect fournisseur de solutions cloud](transition-direct-to-indirect.md). 
+
+Voir également [des informations supplémentaires sur devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) et [facture Direct par revendeur indirect fAQ](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

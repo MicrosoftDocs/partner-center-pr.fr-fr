@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture direct, transition, revendeur indirect
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004625"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011106"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Transition à partir d’un partenaire direct fournisseur de solutions Cloud (CSP) par revendeur indirect fournisseur de solutions cloud 
 
@@ -153,6 +153,8 @@ Vous gérez vos clients de facture direct et vos clients revendeur indirect diff
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>S’inscrire pour les primes d’encouragement revendeur indirect 
 
-Une fois que vous êtes correctement inscrit en tant que revendeur indirect sur votre client de l’espace de facture direct existant, vous recevez une invitation à s’inscrire pour primes revendeur indirect dans les 30 jours. L’invitation est basée sur le partenaire de compte MPN actuellement associé à votre client de partenaire fournisseur de solutions cloud. L’invitation sera envoyée à l’adresse de messagerie associé au compte MPN du partenaire. 
+Une fois que vous vous êtes correctement inscrit comme revendeur indirect sur votre client de l’espace de facture direct existant, vous recevez une invitation à s’inscrire pour primes revendeur indirect dans les 30 jours. L’invitation est basée sur le partenaire de compte MPN actuellement associé à votre client de partenaire fournisseur de solutions cloud. L’invitation sera envoyée à l’adresse de messagerie associé au compte MPN du partenaire. 
 
 Vous sont également autorisés à s’inscrire pour les programmes de primes incitatives de facture direct avec ce même client de l’espace. Vous devez gérer les programmes séparément.
+
+Voir également [des informations supplémentaires sur devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) et [facture Direct par revendeur indirect fAQ](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
