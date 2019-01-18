@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, réservations, machines virtuelles, gérer, utilisation, dimensionnement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917541"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014816"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement d’une machine virtuelle Microsoft Azure en vue d'une utilisation optimale de la réservation 
 
@@ -119,7 +119,7 @@ Les instructions propres à ces méthodes sont énoncées ci-dessous.
 
 Vous pouvez obtenir les données d’utilisation de la réservation avec l’API d'utilisation Azure pour vérifier que le client bénéficie de la remise de réservation et pour déterminer sur quelles machines virtuelles celle-ci est appliquée. Comparez l’exemple A à l'exemple B pour voir comment vérifier l’utilisation de la réservation d’un client. 
 
-![Exemples d’utilisation de la réservation](images\usage5.png)
+![Exemples d’utilisation de la réservation](images/usage5.png)
 
 -   L'identifiant reservationId identifie la réservation Azure qui a été utilisée pour appliquer la remise à la machine virtuelle.
 -   consumptionMeter correspond à l'identifiant MeterId auquel la remise de réservation est appliquée.
