@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture direct, transition, revendeur indirect
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011106"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015725"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Transition à partir d’un partenaire direct fournisseur de solutions Cloud (CSP) par revendeur indirect fournisseur de solutions cloud 
 
@@ -39,7 +39,7 @@ Vous serez en mesure de s’inscrire au programme revendeur indirect à l’aide
 4. Sélectionnez S’inscrire maintenant. Votre activité de revendeur indirect utilisera le même client AAD que vous utilisez pour votre entreprise direct.
 
 >[!Note]
->La possibilité de s’inscrire en tant que revendeur indirect à l’aide de votre facture direct client AAD est disponible uniquement pour les partenaires de facture qui sont identifiés de facture direct DÉSINTÉGRATION directs. 
+>Initialement, cette nouvelle fonctionnalité de transition sera disponible pour les partenaires avec septembre à la date anniversaire de décembre. Si vous n’avez pas «t ont une date anniversaire entre septembre et décembre, vous ne verrez pas la fonctionnalité pour l’instant. Les partenaires avec des dates d’anniversaire après décembre 2018 seront notifiés ultérieurement une fois que la fonctionnalité est activée pour les partenaires.
 
 
 5. Lorsque votre inscription est approuvée, connectez-vous à l’espace partenaires à nouveau.
@@ -54,7 +54,7 @@ Lorsque vous avez accepté le contrat de revendeur indirect, notez que votre pro
 ![Contrat de revendeur indirect](images/direct/direct3.png)
 
 >[!Important] 
->Une fois que vous êtes correctement inscrit en tant que revendeur indirect à l’aide de votre client de l’espace de facture direct existant, il n’existe aucune possibilité de restauration de supprimer les fonctionnalités de revendeur indirect. Avant de poursuivre l’inscription, assurez-vous que vous souhaitez effectuer la transition vers un revendeur indirect.
+>Une fois que vous inscrire en tant que revendeur indirect à l’aide de la nouvelle fonctionnalité, il n’existe aucune option permettant de revenir à un client direct facture - uniquement. Assurez-vous que vous évaluez entièrement les besoins de votre entreprise avant d’inscrire en tant que revendeur indirect.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Lorsque vous passez de direct au revendeur indirect
 
