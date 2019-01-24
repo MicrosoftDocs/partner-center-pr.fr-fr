@@ -12,7 +12,8 @@
 
 # [Fournisseur de solutions Cloud](csp-overview.md)
 ## [S'inscrire au programme Fournisseur de solutions Cloud](enrolling-in-the-csp-program.md)
-## [Nouvelles conditions requises pour le partenaire direct du programme fournisseur de solutions Cloud](direct-partner-new-requirements.md) 
+## [Nouvelles conditions requises pour le partenaire direct du programme Fournisseur de solutions cloud](direct-partner-new-requirements.md) 
+## [Transition entre le statut de partenaire direct Fournisseur de solutions cloud et le statut de revendeur indirect Fournisseur de solutions cloud](transition-direct-to-indirect.md)
 ## [S’inscrire en tant que fournisseur de panneau de configuration](enroll-as-cpv.md)
 ###[Vous devez activer Multi-Factor Authentication (MFA) sur votre client pour accéder à cette page](enable-mfa.md)
 ## [Contrats, listes de prix et offres pour fournisseurs de solutionsCloud](csp-documents-and-learning-resources.md)
@@ -43,7 +44,7 @@
 ### [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)
 ### [Conditions requises pour les revendications de primes incitatives](core-requirements.md)
 ### [Présentation du paiement des revendications de primes incitatives](incentives-payouts.md)
-
+## [Programme Fournisseur de services Expert Microsoft Azure](azure-expert-msp.md)
 
 # [Facturation et taxes](billing.md)
 ## [Vue d’ensemble de la facturation fournisseur de solutions cloud](billing-basics.md)
@@ -108,7 +109,7 @@
 
 # [Bénéficier du support Microsoft](support-from-microsoft.md)
 ## [Signaler des problèmes relatifs à l’Espace partenaires](report-problems-with-partner-center.md)
-## [Signaler des problèmes au nom d’un client ](report-problems-on-behalf-of-a-customer.md)
+## [Signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md)
 ## [Recevoir des notifications de service automatisées avec nos API](get-automated-service-notifications-with-our-apis.md)
 
 # [Fournir un support à vos clients](customer-support.md)
