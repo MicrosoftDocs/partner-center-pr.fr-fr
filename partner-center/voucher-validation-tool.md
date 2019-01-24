@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: e1c8f12b2e3683aff69383d58e265d5ed895c2ed
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
+ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015347"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "9025333"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Utiliser l’outil de Validation de document et de remboursement dans l’espace partenaires pour valider, réserver et échanger des documents 
 
@@ -47,11 +47,13 @@ Lorsque vous avez réservé un document à partir de votre liste de document, vo
 ## <a name="redeem-a-voucher"></a>Échanger un bon
 
 Une fois que vous avez réservé un document, vous pouvez l’utiliser. 
+
 1. Dans votre liste de bons réservés, sélectionnez les numéros de documents que vous souhaitez utiliser. 
-2. Mettre à jour la liste des participants si nécessaire, puis sélectionnez la **mise à jour**.
-3. Vous verrez maintenant une liste de bons de **remboursement** .
+2. Vous verrez maintenant une liste de bons de **remboursement** .
+
 4. Pour créer une demande de remboursement, sélectionnez **créer une réclamation**ou, dans la page de détails de document, sélectionnez **créer une demande de remboursement**.
-5. Sélection de **créer une demande de remboursement** , vous accédez à l’outil de paiement en ligne de Software Assurance document avantage (SAVB) afin de facturation Microsoft.
+
+5. Sélection de **créer une demande de remboursement** , vous accédez à l' [Outil de paiement en ligne Software Assurance document avantage (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) afin de facturation Microsoft.
 
 
 ### <a name="cancel-a-voucher"></a>Annuler un document
