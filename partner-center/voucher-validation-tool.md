@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
+ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025333"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "9030069"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Utiliser l’outil de Validation de document et de remboursement dans l’espace partenaires pour valider, réserver et échanger des documents 
 
@@ -60,7 +60,7 @@ Une fois que vous avez réservé un document, vous pouvez l’utiliser.
 
 Il existe plusieurs raisons, que vous devrez peut-être annuler la réservation de document:
 
-- La proposition ou un programme est passée de lorsque le boucher a été initialement réservé.
+- La proposition ou un programme a changé à partir du moment où le document a été initialement réservé.
 
 - L’engagement se déroule n’est plus.
 
