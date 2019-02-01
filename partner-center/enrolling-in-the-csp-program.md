@@ -6,12 +6,12 @@ description: Comprendre les différents modèles de vente dans le programme Four
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001699"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042583"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
@@ -71,6 +71,15 @@ En tant que partenaire direct, vous avez une relation de bout en bout avec votre
 |**Comptes clients** |L’infrastructure d’organisation en place pour gérer les clients de facturation et de mise en service. 
 
 
+Une fois que vous passez en revue la configuration minimale requise, vous devez effectuer un questionnaire de validation rapide pour confirmer votre éligibilité. 
+
+[Évaluation de fournisseur de solutions cloud](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- Une fois que vous vous êtes inscrit et que vous avez rempli les critères d'acceptation requis pour un partenaire direct, votre administrateur général peut configurer votre compte, ajouter des employés, leur affecter des rôles et des autorisations en fonction de leurs tâches et configurer le profil de l'entreprise.
+
+- Si vous avez travaillé avec les clients qui souhaitent poursuivre la collaboration par le biais de l’espace partenaires, vous devez [les](request-a-relationship-with-a-customer.md) associer à votre compte dans l’espace partenaires. Microsoft peut ensuite associer votre facturation à ces derniers. 
+
+Pour plus d’informations sur la transition à partir d’un partenaire de facture direct par un revendeur indirect, lire la [Transition à partir de l’espace de facture direct de fournisseur de solutions Cloud (CSP) par revendeur indirect fournisseur de solutions cloud](transition-direct-to-indirect.md)
 
 ## <a name="csp-regional-markets-and-currencies"></a>Marchés régionaux de fournisseurs de solutions cloud et devises
 
