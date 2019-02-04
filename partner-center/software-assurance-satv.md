@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 keywords: bons de formation, programme software assurance, de formation, s’inscrire dans SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015343"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043586"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Logiciel de document de formation Assurance (SATV) dans l’espace partenaires
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) dans l’Espace partenaires
 
 Développer votre activité de l’inscription des programmes de l’espace de Software Assurance. Pour fournir des services de formation, planification et les autres pour les organisations qui disposent de Software Assurance, Microsoft opère partenaires. 
 
@@ -72,7 +72,7 @@ Il faut jusqu'à 24 heures pour nos systèmes afin de refléter que vous êtes i
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>Réserver et d’échanger des bons de formation
 
-Vous pouvez désormais en mesure de réserver et d’échanger des documents et de commencer la formation de vos clients. : Administrateur MPN de votre entreprise dispose d’un accès à l’outil de Validation de document et de remboursement (VVR) dans l’espace partenaires et peut ajouter des utilisateurs ont besoin de travailler dans l’outil. Pour plus d’informations sur VVR, lire [les documents de gérer dans l’outil de remboursement et de Validation de document](voucher-validation-tool).
+Vous pouvez désormais en mesure de réserver et d’échanger des documents et de commencer la formation de vos clients. : Administrateur MPN de votre entreprise dispose d’un accès à l’outil de Validation de document et de remboursement (VVR) dans l’espace partenaires et peut ajouter des utilisateurs ont besoin de travailler dans l’outil. Pour plus d’informations sur VVR, lire [les documents de gérer dans l’outil de remboursement et de Validation de document](voucher-validation-tool.md).
 
 >[!Note]
 >L’outil VVR a déplacé vers l’espace partenaires. À compter de mars 2019, l’ancien site d’outil VVR sera retiré.
