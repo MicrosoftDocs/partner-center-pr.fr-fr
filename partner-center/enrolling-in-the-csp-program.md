@@ -6,12 +6,12 @@ description: Comprendre les différents modèles de vente dans le programme Four
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
-ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
+ms.openlocfilehash: 56a67d5843394e05007f54683ad4baec93033eb7
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "9042583"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043508"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
@@ -56,28 +56,26 @@ Pour plus d’informations sur les conditions nécessaires pour vendre dans le c
 
 
 
-### <a name="enroll-as-a-direct-partner"></a>S’inscrire en tant que partenaire direct
+### <a name="enroll-as-a-direct-bill-partner"></a>S’inscrire en tant qu’un partenaire de facture direct
 
-En tant que partenaire direct, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour des conditions d’inscription pour les partenaires de facture direct à compter du 31 août 2018. Ces nouvelles exigences vous aideront à accélérer la croissance de votre entreprise avec le modèle d’inscription CSP approprié et renforcer vos relations avec les clients avec des services à valeur ajoutée et prise en charge. 
+En tant que facture direct partenaire, vous possédez la relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour des conditions d’inscription pour les partenaires de facture direct à compter du 31 août 2018. Ces nouvelles exigences vous aideront à accélérer la croissance de votre entreprise avec le modèle d’inscription CSP approprié et renforcer vos relations avec les clients avec des services à valeur ajoutée et prise en charge. 
 
 ### <a name="minimum-requirements"></a>Conditions minimales requises
 
 |**Exigence**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**ID MPN**   |ID Microsoft Partner Network (MPN) actif emplacement de votre entreprise.   |
+|**ID MPN**   |ID Microsoft Partner Network (MPN) actif emplacement de votre entreprise.    |
 |**Type EK**   |L’autorité d’accepter et de signer des contrats au nom de votre organisation.|
-|**Support**   |La possibilité de fournir le premier niveau du produit cloud prend en charge à vos clients.|
+|**Support**   |La possibilité de fournir le premier niveau du produit cloud prend en charge à vos clients. Un plan de support de Microsoft, soit avancée prend en charge pour les partenaires (ASfP) ou un Premier Support pour les partenaires (PSfP), selon vos besoins. [Comparaison des plans de prise en charge](https://partner.microsoft.com/en-US/support/partnersupport). |
 |**Service géré**   |Au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout de [services gérés](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Comptes clients** |L’infrastructure d’organisation en place pour gérer les clients de facturation et de mise en service. 
 
 
-Une fois que vous passez en revue la configuration minimale requise, vous devez effectuer un questionnaire de validation rapide pour confirmer votre éligibilité. 
+Une fois que vous passez en revue la configuration minimale requise ci-dessus, vous devez effectuer un questionnaire de validation rapide pour confirmer votre éligibilité. 
 
-[Évaluation de fournisseur de solutions cloud](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[Questionnaire de fournisseur de solutions cloud](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-- Une fois que vous vous êtes inscrit et que vous avez rempli les critères d'acceptation requis pour un partenaire direct, votre administrateur général peut configurer votre compte, ajouter des employés, leur affecter des rôles et des autorisations en fonction de leurs tâches et configurer le profil de l'entreprise.
-
-- Si vous avez travaillé avec les clients qui souhaitent poursuivre la collaboration par le biais de l’espace partenaires, vous devez [les](request-a-relationship-with-a-customer.md) associer à votre compte dans l’espace partenaires. Microsoft peut ensuite associer votre facturation à ces derniers. 
+Évaluation au questionnaire détermine votre éligibilité à s’inscrire dans le programme de facture direct de fournisseur de solutions cloud. Une fois que vous avez confirmé par le biais du questionnaire que vous satisfont les critères de facture direct et soumis le formulaire d’inscription, nous effectue un avis d’entreprise de votre société, notamment une vérification de crédit. Si vous êtes crédit approuvé, vous devrez confirmer l’achat d’un ASfP ou PSfP plan et, enfin, acceptez le contrat de termes du contrat de facture direct pour commencer en tant que facture direct partenaire de transactions avec les clients.
 
 Pour plus d’informations sur la transition à partir d’un partenaire de facture direct par un revendeur indirect, lire la [Transition à partir de l’espace de facture direct de fournisseur de solutions Cloud (CSP) par revendeur indirect fournisseur de solutions cloud](transition-direct-to-indirect.md)
 

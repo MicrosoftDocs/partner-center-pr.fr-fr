@@ -1,52 +1,50 @@
 ---
 title: Mettre à jour votre profil de partenaire | Espace partenaires
-ms.topic: article
-ms.date: 10/29/2018
 description: Lors de votre première connexion en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.author: evansma
-ms.localizationpriority: medium
-ms.openlocfilehash: da548343254a5b4b4bbf3a8226fc50c9c545756d
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.openlocfilehash: 5fb7852cfb393793dee00127d5397bd1dc55ef11
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382925"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043498"
 ---
 # <a name="update-your-partner-profile"></a>Mettre à jour votre profil de partenaire
 
-**S'applique à**
 
-- Espace partenaires
+Lors de votre première connexion à l’Espace partenaires en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil. Si votre organisation dispose de plusieurs emplacements, passez en revue vos données d’emplacement pour une précision.
 
-La première fois que vous vous connectez à l’espace partenaires en tant qu’administrateur, vérifiez que votre support détails sont corrects, fichier demandes d’exonération fiscale le cas échéant, puis passez en revue les informations de contact dans votre profil.
+**Mettre à jour les détails de votre support**
 
-## <a name="associate-your-mpn-id-to-your-partner-center-account"></a>Associer votre ID MPN à votre compte espace partenaires
+1.  Accédez à **Paramètres** &gt; **Afficher tous les paramètres** &gt; **Profil de partenaire**.
+2.  Dans la section **Support**, sélectionnez **Mettre à jour**.
+3.  Si l’un de vos clients appelle Microsoft à la recherche d’assistance, Microsoft le renvoie au site web, à l’adresse électronique et aux coordonnées téléphoniques que vous avez indiqués dans votre profil de support.
 
-Pour être en mesure de gérer vos primes, avantages d’adhésion et compétences et gérer des utilisateurs, votre emplacement MPN doit être associé à votre compte espace partenaires.
+**Déposer des exonérations fiscales**
 
-Comme vous vous inscrivez dans l’espace partenaires, sur l’écran d' **associer votre ID MPN à votre compte espace partenaires**, entrez un ID MPN dans la zone de recherche. Cela permettra nous connecter cet ID MPN à votre emplacement.
+-   Voyez si les exonérations fiscales vous concernent, et le cas échéant, déposez-les avant d’ajouter des clients ou des abonnements. Voir [Taxes et exonérations fiscales](tax-and-tax-exemptions.md).
 
-1. Vous pouvez également vous connecter à l’espace partenaires, accédez à l' **icône Paramètres** et sélectionnez **les paramètres de l’espace**.
+**Vérifier les informations de votre profil**
 
-2. Dans la liste des emplacements sur votre profil de partenaire, sélectionnez l’emplacement que vous souhaitez associer à cet ID MPN ou entrez l’ID MPN dans la zone de recherche.
+1.  Accédez à **Paramètres** &gt;**Afficher tous les paramètres**. 
+2.  Vérifiez les informations dans **Profil de partenaire**, **Profil de facturation du partenaire** et **Profil d’organisation**.
 
->[!IMPORTANT]
->L’emplacement de MPN doit se trouver dans le même pays que votre client Azure AD.
+## <a name="manage-your-partner-profile"></a>Gérer votre profil de partenaire 
 
-## <a name="update-your-support-details"></a>Mettre à jour les détails de votre support
+Vous pouvez maintenant mettre à jour votre adresse légale sur l’espace partenaires.
 
-1. Accédez à l' **icône Paramètres** et sélectionnez **les paramètres de l’espace**.
-2. Dans la section de **prise en charge** de la page, sélectionnez **mise à jour**.
-3. Si un de vos clients appelle Microsoft pour la prise en charge, Microsoft leur pointe vers le site Web, courrier électronique et coordonnées téléphoniques que vous avez indiqués dans votre profil de prise en charge.
+1. Accédez à **Paramètres** &gt; **Afficher tous les paramètres** &gt; **Profil de partenaire**.
+2. En regard de l’adresse légale, sélectionnez **mise à jour** . 
 
-## <a name="file-tax-exemptions"></a>Déposer des exonérations fiscales
+>[!Important]
+>Vous ne pouvez pas modifier le pays associé à votre adresse légale. Votre pays de l’adresse légale est liée à votre client et les services. Pour plus d’informations, lisez [modifier votre adresse légale](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).
 
-- Déterminez si exonérations fiscales vous être applicable et, si tel est le cas, déposez-les avant d’ajouter des clients ou des abonnements. Pour plus d’informations, voir [taxes et exonérations fiscales](tax-and-tax-exemptions.md) .
+3. Lorsque vous sélectionnez **Envoyer**, votre identité juridique sera nouvelle évaluation, et vous recevrez un autre message électronique dont vous aurez besoin pour accepter.
 
-## <a name="verify-and-update-your-profile-information"></a>Vérifier et mettre à jour les informations de votre profil
 
-1. Accédez à l' **icône Paramètres** et sélectionnez **les paramètres de l’espace**.
-1. Vérifiez les informations dans **Profil de partenaire**, **Profil de facturation du partenaire** et **Profil d’organisation**.
-1. Si vous avez besoin de modifier les détails de votre adresse légale, votre entreprise peut être contacté pour vérification. Modification des détails de votre juridiques peut affecter vos informations fiscales. Assurez-vous que vos informations fiscales restent précises. Contacter le [prend en charge](https://partner.microsoft.com/support/contact-support) des questions.
+
+ 
+
+
+
