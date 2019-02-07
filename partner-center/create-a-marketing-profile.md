@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Créez un profil d’entreprise dans l’Espace partenaires pour obtenir des prospects de Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: pinpoint, références, prospects, C2PC, profil de l’entreprise, promouvoir votre société, rechercher un partenaire, trouver un fournisseur de solutions, profil d’entreprise, profil commercial
 ms.localizationpriority: medium
-ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797252"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062357"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -43,7 +43,7 @@ La première étape pour obtenir ces prospects consiste à créer un profil comm
 *  **Références des employés des ventes et du service de Microsoft**. Les clients potentiels souhaitant déployer des solutions technologiques sur le cloud contactent Microsoft afin de trouver des professionnels qui puissent répondre aux besoins de leur entreprise. Ces professionnels Microsoft peuvent ensuite référer des clients potentiels à votre entreprise.
 
 > [!IMPORTANT]  
-> Pour aider nos partenaires à simplifier les opérations commerciales, nous regroupons les fonctionnalités auparavant réparties sur plusieurs outils et sites Web dans l’espace partenaires, ce site. Dans le cadre de ce processus, nous avons transféré toutes les fonctionnalités relatives aux références vers l’espace partenaires et mis les sites Pinpoint et C2PC. Si vous avez utilisé Pinpoint ou C2PC dans le passé pour obtenir et gérer des références de Microsoft, vous devez créer un profil d’entreprise dans l’espace partenaires pour continuer à recevoir des références. Nous ne prenons plus en charge l’importation de profils à partir de ces sites. 
+> Pour aider nos partenaires à simplifier les opérations commerciales, nous regroupons les fonctionnalités auparavant réparties sur plusieurs outils et sites Web dans l’espace partenaires, ce site. Dans le cadre de ce processus, nous avons transféré toutes les fonctionnalités relatives aux références vers l’espace partenaires et mis les sites Pinpoint et C2PC. Si vous avez utilisé Pinpoint ou C2PC par le passé pour obtenir et gérer des références de Microsoft, vous devez créer un profil d’entreprise dans l’espace partenaires pour continuer à recevoir des références. Nous ne prenons plus en charge l’importation de profils à partir de ces sites. 
 
 ## <a name="create-a-profile"></a>Créer un profil
 
@@ -52,11 +52,11 @@ La première étape pour obtenir ces prospects consiste à créer un profil comm
 
 Créez des profils pour chaque région dans laquelle vous êtes autorisé à exercer des activités commerciales. 
 
-1.  Dans le menu **Espace partenaires** , sélectionnez **des références** &gt; **profils commerciaux** &gt; sélectionnez une pays/une région > **[créer un profil d’entreprise](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Dans le menu **Espace partenaires** , sélectionnez **des références** &gt; **profils commerciaux** &gt; sélectionnez un pays/région de > **[créer un profil d’entreprise](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Dans la page **Créer un profil d'entreprise**, sélectionnez une région, puis renseignez votre profil.
     > [!NOTE]  
-    >  L’espace partenaires prend en charge plusieurs langues, certains éléments, tels que la description et les balises de forme libre, devrez peut-être inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
+    >  L’espace partenaires prend en charge plusieurs langues, certains éléments, tels que la description et les identifications de forme libre, devrez peut-être inclure du texte dans différentes langues, comme indiqué dans cette rubrique.
 
 ### <a href="" id="partner_info"></a>Informations sur le partenaire
 

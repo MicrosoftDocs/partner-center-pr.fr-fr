@@ -3,17 +3,17 @@ title: Acquérir des compétences Microsoft | Espaces partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Obtenez des compétences Microsoft Argent et Or pour démontrer votre expertise en solutions de qualité dans un domaine d’activités spécialisé
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: compétences, niveau d'adhésion argent, niveau d'adhésion or, mpn, MAPS, compétences, avantages, objectifs de performance, objectifs de compétence
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796892"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062337"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -62,7 +62,7 @@ Pour vérifier votre progression dans une compétence, à partir du centre de l�
 
 ### <a href="" id="associating_achievements"></a>Connexion de vos employés pour la réalisation d’objectifs basés sur les compétences
 
-1.  Ajoutez des comptes d’utilisateurs pour les employés de votre entreprise. À partir du [Centre de partenaires](http://partnercenter.microsoft.com), accédez à **paramètres du compte > Ajouter un utilisateur**. (Les utilisateurs du PartnerMembershipCenter peuvent ajouter plusieurs utilisateurs à la fois en sélectionnant **Ajouter des utilisateurs à l’aide de données PMC**.)
+1.  Ajoutez des comptes d’utilisateurs pour les employés de votre entreprise. À partir du [Centre de partenaires](http://partnercenter.microsoft.com), accédez à **Ajouter un utilisateur compte paramètres >**. (Les utilisateurs du PartnerMembershipCenter peuvent ajouter plusieurs utilisateurs à la fois en sélectionnant **Ajouter des utilisateurs à l’aide de données PMC**.)
 
     Une fois les comptes des utilisateurs créés, nous leur faisons parvenir un nouveau nom d’utilisateur et un mot de passe et nous vous invitons à télécharger un fichier journal qui contient des informations vous permettant de réinitialiser les noms d’utilisateurs et les mots de passe, comme requis. Vous pouvez également [configurer les comptes des utilisateurs de manière à leur permettre de réinitialiser eux-mêmes leur mot de passe](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 

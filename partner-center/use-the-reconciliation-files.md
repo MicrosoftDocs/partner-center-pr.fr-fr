@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Pour une vue détaillée de l’article de chacun des frais dans un cycle de facturation, télécharger les fichiers de rapprochement à partir de l’espace partenaires.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995943"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062377"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -179,7 +179,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="even">
 <td>Taxe</td>
-<td><p>Taxe sur les frais de quantité, en fonction de votre marché & #39; s règles fiscales et les circonstances spécifiques.</p></td>
+<td><p>Taxe sur les frais de quantité, selon votre market& #39; les règles de taxe s et les circonstances spécifiques.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Client & #39; nom de l’organisation s comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+<td><p>Customer& #39; nom de l’organisation s comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
 <td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le numéro d’abo
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Client & #39; nom de domaine s, utilisé pour aider à identifier le client. Cela ne doit pas être utilisée pour identifier de manière unique le client que le client/partenaire peut mettre à jour le domaine de redirection vers un microsite/par défaut via le portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td><p>Customer& #39; nom de domaine s, utilisé pour aider à identifier le client. Cela ne doit pas être utilisée pour identifier de manière unique le client que le client/partenaire peut mettre à jour le domaine de redirection vers un microsite/par défaut via le portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 <td>exemple.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Client & #39; nom de l’organisation s comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+<td><p>Customer& #39; nom de l’organisation s comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
 <td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Taxe sur les frais de quantité, en fonction de votre marché & #39; s règles fiscales et les circonstances spécifiques.</p></td>
+<td><p>Taxe sur les frais de quantité, selon votre market& #39; les règles de taxe s et les circonstances spécifiques.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Client & #39; nom de domaine s, utilisé pour aider à identifier le client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td><p>Customer& #39; nom de domaine s, utilisé pour aider à identifier le client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 <td>exemple.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">

@@ -3,16 +3,16 @@ title: Vendre des abonnements Minecraft Education Edition aux clients de l’éd
 ms.topic: article
 ms.date: 10/29/2018
 description: Vendre des abonnements MinecraftEducationEdition aux clients qualifiés dans le domaine de l’éducation.
-author: KPacquer
-ms.author: kenpacq
-keywords: Partenaires d’éducation autorisés
+author: labrenne
+ms.author: labrenne
+keywords: Vendre des partenaires éducation autorisés, éducation, à l’éducation, les établissements scolaires
 ms.localizationpriority: medium
-ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796582"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062327"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendre des abonnements Minecraft: EducationEdition aux clients de l’éducation
 
@@ -40,7 +40,7 @@ Suivez les étapes ci-dessous pour acheter un **Minecraft: Education Edition** a
   4.  Sélectionnez l’abonnement Minecraft que vous souhaitez acheter pour le compte de votre client et entrez le nombre de licences. Sélectionnez **Suivant: révision**.
 
       >[!NOTE]
-      >Vous serez en mesure de voir et gérer ces licences dans l’espace partenaires. Votre client peut consulter et gérer ces licences dans son inventaire sur la [Page des détails de Minecraft: EducationEdition](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (pour voir cette page, vous devez être connecté au Store pour Éducation). 
+      >Vous serez en mesure de consulter et de gérer ces licences dans l’espace partenaires. Votre client peut consulter et gérer ces licences dans son inventaire sur la [Page des détails de Minecraft: EducationEdition](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (pour voir cette page, vous devez être connecté au Store pour Éducation). 
 
   5.  Si la commande est correcte, sélectionnez **Envoyer**. Si vous avez besoin de modifier la commande, sélectionnez **Annuler** et apportez les modifications souhaitées.   
 

@@ -3,16 +3,16 @@ title: Analyser l’efficacité de votre profil commercial | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: afd718f98cdd7f54b7a2ea0731ece90c7e338f30
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e621ecb2c57b150b35aa363a19a35747a88a3931
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796772"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062257"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analyser l’efficacité de votre profil commercial
 <!-- 
@@ -29,7 +29,7 @@ Une fois que vous publiez le [profil commercial](create-a-marketing-profile.md) 
 
 Lorsque vous commencez à [répondre à ces références](responding-to-referrals.md), vous obtenez des données sur le nombre de ces demandes d'informations qui se transforment en affaires fructueuses.
 
-Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. Dans le menu espace partenaires, accédez à **références > pages Marketing**.
+Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. Dans le menu espace partenaires, accédez aux **pages de références > Marketing**.
 
 Ces rapports présentent les performances des profils commerciaux pour toutes les régions. Les rapports affichent les données des 90derniers jours, regroupés par semaine.
 

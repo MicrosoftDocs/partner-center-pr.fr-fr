@@ -3,15 +3,15 @@ title: Supprimer une relation de revendeur avec un client | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: La suppression d’une relation supprime toutes les relations commerciales clôturées de votre affichage dans l'Espace partenaires.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995673"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062267"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Supprimer une relation de revendeur avec un client
 
@@ -28,11 +28,11 @@ Cette fonctionnalité:
 *  supprime la possibilité d’effectuer des achats pour le compte du client.
 
 Pour supprimer la relation, vous devez tout d'abord annuler les réservations RI Azure, annuler les achats de logiciels et suspendre les abonnements actifs restants:
-1. Suspendez les abonnements actifs. À partir de l’espace partenaires, accédez aux **clients** > Sélectionner un client > **abonnements** > sélectionnez un abonnement > **suspendu**. 
+1. Suspendez les abonnements actifs. À partir de l’espace partenaires, accédez à **clients** > sélectionner un > client **abonnements** > sélectionner un > abonnement **suspendu**. 
 
    Répétez cette procédure pour chaque abonnement actif.
 
-2. Supprimer la relation dans l’espace partenaires: à partir de l’espace partenaires, l’emploi pour les **clients** > Sélectionner un client > **compte** > **Supprimer une relation de revendeur**.
+2. Supprimer la relation dans l’espace partenaires: à partir de l’espace partenaires, accédez aux **clients** > sélectionner un **compte**de > client > **Supprimer une relation de revendeur**.
 
    Notez que si des abonnements sont toujours actifs, le lien **Supprimer une relation de revendeur** est inactif. 
 
