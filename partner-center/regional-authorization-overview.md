@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: Fournisseur de solutions cloud, marchés, territoires, où peut i commercialiser via ce programme, fournisseur de solutions cloud offre, régions, vendent des solutions de cloud, CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
+ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980623"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9065606"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Marchés régionaux du programme fournisseur de solutions cloud et les devises
 
@@ -28,6 +28,14 @@ Avant de pouvoir commander que CSP offre au nom du client, le client doit signer
 > À partir de 7 novembre 2018, vous aurez besoin vérifier qu’un client a accepté le contrat de Cloud de Microsoft en fournissant des informations relatives à la personne qui l’a signé. Pour plus d’informations, voir [Confirmer l’acceptation d’un client du contrat Microsoft Cloud](confirm-consent.md) .
 
 Pour déterminer où vous pouvez vendre des offres de fournisseur de solutions cloud, trouver l’emplacement de votre société dans l’une des listes ci-dessous. Vous devez disposer d’un ID Microsoft Partner Network (MPN) actif pour l’emplacement que vous souhaitez vendre dans.  
+
+## <a name="for-unsupported-countries"></a>Pour les pays non pris en charge
+
+Si votre pays n’est pas pris en charge, établissez la relation de fournisseur de solutions cloud à l’aide de l’URL d’administration Office de client. 
+
+- Les partenaires de facture direct utilisent l’url suivante: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Remplacez **partnertenantguid** par votre ID de client. 
+
+- L’URL de revendeurs indirects est: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Vous allez remplacer **IRtenantguid** par votre ID de client. Remplacez **IRMPNID** par votre ID MPN et remplacez **IPtenantguid** par votre id de locataire fournisseur indirect.
 
 ## <a name="africa-region-and-market"></a>Marché et Afrique
 
@@ -337,7 +345,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Mozambique     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Territoire palestinien occupé |        |
 |  Qatar          |   USD    |
 |  Arabie saoudite   |   USD    |
 |  Serbie         |   USD    |
@@ -375,9 +383,9 @@ Si votre société est la Russie, vous pouvez vendre des offres de fournisseur d
 |  Russie         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Marché et région Taïwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Si l’emplacement de votre entreprise est Taïwan, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients à Taïwan.
 
 |  Pays/région | Devise |
 |  -------------- |:--------:|
