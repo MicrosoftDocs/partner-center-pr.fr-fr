@@ -1,31 +1,31 @@
 ---
-title: Software Assurance planification des services dans l’espace partenaires | L’espace partenaires
+title: Software Assurance planification des Services dans l’espace partenaires | L’espace partenaires
 ms.topic: article
 ms.date: 1/21/19
-description: S’inscrire dans la planification des services pour fournir la planification du pre-déploiement pour les clients d’entreprise
+description: S’inscrire dans les Services de planification pour fournir la planification du pre-déploiement pour les clients d’entreprise
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 98527a89422ff30638c4d6ecc44efac5c147a7f6
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
+ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9028498"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066016"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Planification des services dans l’espace partenaires de Software Assurance
+# <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 
-Développer votre activité de l’inscription des programmes de l’espace de Software Assurance. Pour fournir des services de formation, planification et les autres pour les organisations qui disposent de Software Assurance, Microsoft opère partenaires.
+Développer votre activité de l’inscription des programmes de Services de planification de Software Assurance. Pour fournir des services de formation, planification et les autres pour les organisations qui disposent de Software Assurance, Microsoft opère partenaires.
 
 Comme une planification approuvés services partenaire, Microsoft vous permet de compenser pour concevoir des contrats de planification préalables au déploiement pour les clients d’entreprise. Participer à ce programme peut vous aider à attirer davantage de clients, devenir leur partenaire planification approuvé et entraîner d’engagements clients supplémentaires.
 
-Si vous n’êtes pas familiarisé avec les services de planification de Software Assurance, reportez-vous à [développer votre activité avec des Services de planification](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
+Si vous n’êtes pas familiarisé avec les Services de planification de la Software Assurance, reportez-vous à [développer votre activité avec des Services de planification](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
 
 
 ## <a name="get-started"></a>Commencer
 
-Si vous débutez dans les services de planification de Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans un ou plusieurs programmes services planification et vos informations de compte partenaire a été déplacées vers l’espace partenaires, commencez à l’étape quatre (4) ci-dessous. 
+Si vous débutez avec Software Assurance planification des Services, suivez les étapes ci-dessous. Si vous êtes déjà actif dans les programmes de Services de planification et vos informations de compte partenaire a été déplacées vers l’espace partenaires, commencez à l’étape quatre (4) ci-dessous. 
 
 1. Vérifier l’éligibilité de programme 
 2. S’inscrire dans un programme de services de planification
@@ -39,7 +39,7 @@ Cet article explique comment réaliser chaque étape.
 
 ## <a name="confirm-eligibility"></a>Vérifier l’éligibilité
 
-Pour pouvoir vous inscrire à un programme de services de planification, votre entreprise doit répondre aux exigences de conformité de formation et les compétences, et le consultant précédant l’engagement client doit respecter des formations techniques et aux exigences d’examens. 
+Pour pouvoir vous inscrire au programme de Services de planification, votre entreprise doit répondre aux exigences de conformité de formation et les compétences, et le consultant précédant l’engagement client doit respecter des formations techniques et aux exigences d’examens. 
 
 Chaque programme de services de planification a des exigences d’éligibilité unique. Voir les [conditions de vérification](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) pour plus d’informations sur la planification des exigences d’éligibilité services.
 
@@ -59,9 +59,9 @@ Suivez ces étapes pour afficher le statut d’éligibilité de votre société.
 
 5. Une fois les participants au programme de votre société suivent le cours de formation requis, revenir à la [page d’inscription](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) et signer le contrat de fournisseur de Service de planification Microsoft programme. 
 
-## <a name="enroll-in-a-planning-service-program"></a>S’inscrire dans un programme de services de planification
+## <a name="enroll-in-the-planning-services-program"></a>S’inscrire au programme de Services de planification
 
-Une fois que votre société remplit les conditions préalables pour un programme de services de planification et vos participants au programme ont réussi la formation de conformité, vous êtes prêt à s’inscrire. 
+Une fois que votre société remplit les conditions préalables pour le programme de Services de planification et vos participants au programme ont réussi la formation de conformité, vous êtes prêt à s’inscrire. 
 
 Suivez ces étapes pour s’inscrire dans un programme de services de planification.
 
@@ -69,7 +69,7 @@ Suivez ces étapes pour s’inscrire dans un programme de services de planificat
 2. Sélectionnez les services de planification pour ouvrir l’onglet services de planification.
 3. Sélectionnez le programme que vous souhaitez inscrire dans et sélectionnez **s’inscrire.**
 
-Lorsque vous avez terminé ce processus, votre loations société sera approuvées pour offrir les offres que vous avez inscrit. Les employés de votre organisation indiqués en tant qu’un rôle de Contact pour n’importe quel emplacement approuvé dans MPN sera autorisés à accéder à l’outil VVR pour gérer les documents de planification des Services pour le compte de cet emplacement. 
+Lorsque vous avez terminé ce processus, les emplacements de votre société seront approuvées pour offrir les offres que vous avez inscrit. Les employés de votre société répertoriés en tant qu’administrateur Partenaire MPN sera autorisés à accéder à l’outil VVR pour gérer les documents de planification des Services pour le compte de n’importe quel emplacement.
 >[!Note]
 > Vous devez renouveler vos besoins et réabonnez dans des programmes de Services de planification chaque année.
 
@@ -92,7 +92,6 @@ Une fois que votre entreprise a terminé l’engagement et condition finale ache
 >[!NOTE]
 > Vous devez également télécharger une copie de l’engagement client livrables dans cette étape. 
 
-Après avoir terminé et envoyer le rapport d’achèvement, enregistrez le fichier de réception de soumission qui en résulte (au format .xml) sur votre appareil que vous en aurez besoin pour échanger le document.
 
 Suivez les étapes décrites dans les [documents de gérer dans l’outil de remboursement (VVR) et de Validation du document](voucher-validation-tool.md).
 
@@ -102,7 +101,12 @@ Une fois que vous avez réservé un document, vous pouvez l’utiliser.
 
 1. Dans votre liste de bons réservés, sélectionnez les numéros de documents que vous souhaitez utiliser. 
 2. Vous verrez maintenant une liste de bons de **remboursement** .
+3. Sélectionnez l’ou les cases en regard des numéros de documents de votre choix, puis cliquez sur **remboursement sélectionné ici**.
+4. À partir de la page de remboursement confirmer document, passez en revue les informations de document pour une précision, puis sélectionnez **Oui** pour échanger le document.
 
-4. Pour créer une demande de remboursement, sélectionnez **créer une réclamation**ou, dans la page de détails de document, sélectionnez **créer une demande de remboursement**.
+5. Pour créer une demande de remboursement, sélectionnez **créer une réclamation**ou, dans la page de détails de document, sélectionnez **créer une demande de remboursement**.
 
-5. Sélection de **créer une demande de remboursement** , vous accédez à l' [Outil de paiement en ligne Software Assurance document avantage (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) afin de facturation Microsoft.
+6. Sélection de **créer une demande de remboursement** , vous accédez à l' [Outil de paiement en ligne Software Assurance document avantage (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) afin de facturation Microsoft.
+
+
+
