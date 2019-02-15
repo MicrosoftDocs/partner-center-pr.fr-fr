@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
+ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075182"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079257"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme fournisseur de solutions cloud, contrats, listes de prix et offres
 
@@ -56,9 +56,9 @@ Microsoft exige que les partenaires signent le présent contrat pour rejoindre l
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Modèles Microsoft Cloud
 
-En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez examiner avec vos clients les conditions générales de Microsoft, y compris l'utilisation acceptable des produits et services Microsoft. Suivez le lien ci-dessous pour trouver du contrat Microsoft Cloud, vous devez examiner avec les clients. 
+En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez examiner avec vos clients les conditions générales de Microsoft, y compris l'utilisation acceptable des produits et services Microsoft. Accédez à Microsoft Cloud [modèles de client](agreements.md) du contrat Microsoft Cloud, vous devez examiner avec les clients de trouver. 
 
-[Modèles de client](agreements.md) du contrat Microsoft Cloud
+
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Modification de secret professionnel de l’accord de Microsoft Cloud (Allemagne)
 
