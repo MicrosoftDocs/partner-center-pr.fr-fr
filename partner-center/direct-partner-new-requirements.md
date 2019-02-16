@@ -8,22 +8,22 @@ ms.author: labrenne
 keywords: Fournisseur de solutions cloud, partenaire direct, facture direct, configuration requise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: 44410ba70f12e995fa5975bb60e443fd9fb154c0
+ms.sourcegitcommit: c74dad6d7c4775980ed8ca8f0ad3800a2cd07fd7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011086"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079750"
 ---
-# <a name="csp-direct-partner-new-requirements"></a>Nouvelles conditions requises pour le partenaire direct du programme fournisseur de solutions Cloud
+# <a name="csp-direct-partner-new-requirements"></a>Nouvelles conditions requises pour les partenaires directs du programme Fournisseur de solutions cloud
 
-**S'applique à**
+**S'applique à:**
 
 - Espace partenaires
 
-## <a name="enroll-as-a-direct-partner"></a>S’inscrire en tant que partenaire direct
+## <a name="enroll-as-a-direct-partner"></a>S'inscrire en tant que partenaire direct
 
-En tant que partenaire direct, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour des conditions d’inscription pour les partenaires de facture direct à compter d’août 31,2018. Ces nouvelles exigences vous aideront à accélérer la croissance de votre entreprise avec le modèle d’inscription CSP approprié et renforcer vos relations avec les clients avec des services à valeur ajoutée et prise en charge. 
+En tant que facture direct partenaire, vous possédez la relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour des conditions d’inscription pour les partenaires de facture direct à compter du 31 août 2018. Ces nouvelles exigences vous aideront à accélérer la croissance de votre entreprise avec le modèle d’inscription CSP approprié et renforcer vos relations avec les clients avec des services à valeur ajoutée et prise en charge. 
 
 ### <a name="minimum-requirements"></a>Conditions minimales requises
 
@@ -31,11 +31,15 @@ En tant que partenaire direct, vous avez une relation de bout en bout avec votre
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |ID Microsoft Partner Network (MPN) actif emplacement de votre entreprise.   |
 |**Type EK**   |L’autorité d’accepter et de signer des contrats au nom de votre organisation.|
-|**Support**   |La possibilité de fournir le premier niveau du produit cloud prend en charge à vos clients.|
+|**Support**  |La possibilité de fournir le premier niveau du produit cloud prend en charge à vos clients. Un plan de support de Microsoft, soit avancée prend en charge pour les partenaires (ASfP) ou un Premier Support pour les partenaires (PSfP), selon vos besoins. [Comparaison des plans de prise en charge](https://partner.microsoft.com/en-US/support/partnersupport). |
 |**Service géré**   |Au moins un service géré, IP service ou application de solution de client. En savoir plus sur l’ajout de [services gérés](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Comptes clients** |L’infrastructure d’organisation en place pour gérer les clients de facturation et de mise en service. 
 
-En savoir plus sur devenir un [revendeur fournisseur de solutions cloud](https://partner.microsoft.com/cloud-solution-provider)
+Une fois que vous passez en revue la configuration minimale requise ci-dessus, vous devez effectuer un questionnaire de validation rapide pour confirmer votre éligibilité. 
+
+[Questionnaire de fournisseur de solutions cloud](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+Évaluation au questionnaire détermine votre éligibilité à s’inscrire dans le programme de facture direct de fournisseur de solutions cloud. Une fois que vous avez confirmé par le biais du questionnaire que vous satisfont les critères de facture direct et soumis le formulaire d’inscription, nous effectue un avis d’entreprise de votre société, notamment une vérification de crédit. Si vous êtes crédit approuvé, vous devrez confirmer l’achat d’un ASfP ou PSfP plan et, enfin, acceptez le contrat de termes du contrat de facture direct pour commencer en tant que facture direct partenaire de transactions avec les clients.
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Transition à partir de revendeur direct de manière à indirect
 
