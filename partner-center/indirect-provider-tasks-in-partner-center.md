@@ -6,12 +6,12 @@ description: En tant que fournisseur indirect ou distributeur, vous pouvez trava
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
+ms.sourcegitcommit: 48684194c75e5ca9df225745b2263a18f2c18943
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795192"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "9081353"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -47,7 +47,7 @@ Procédez comme suit pour établir et gérer votre partenariat avec des revendeu
     - Associer de nouveaux clients et abonnements à des revendeurs
     - Établir des relations de revendeur avec les clients existants <br>
 
-Après avoir effectué ces étapes, vous pouvez gérer vos partenariats avec les revendeurs dans la page de **revendeurs indirects** dans votre menu de **L’espace partenaires** .
+Après avoir effectué ces étapes, vous pouvez gérer vos partenariats avec les revendeurs sur la page de **revendeurs indirects** dans votre menu de **L’espace partenaires** .
 
 > [!IMPORTANT]   
 > Avant de pouvoir commencer à travailler avec des revendeurs, ils doivent être inscrits comme revendeurs indirects dans le programme fournisseur de solutions cloud et disposent de comptes espace partenaires. Orientez vos revendeurs vers la page [Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) pour plus d’informations sur l’inscription au programme Fournisseur de solutions Cloud. 
@@ -58,7 +58,7 @@ Pour interagir et effectuer des transactions avec des revendeurs indirects dans 
 
 Pour établir un partenariat, envoyez une demande de partenariat par courrier électronique au revendeur. Veillez à vous munir de l'adresse de messagerie du revendeur avant de commencer. 
 
-1. Sélectionnez **des revendeurs indirects** dans votre menu de **L’espace partenaires** . 
+1. Sélectionnez **des revendeurs indirects** dans le menu de **L’espace partenaires** . 
 
 2. Dans la page **Revendeurs indirects**, sélectionnez **Demander un partenariat**. Un brouillon de message électronique s’affiche.
 
@@ -75,12 +75,65 @@ Pour établir un partenariat, envoyez une demande de partenariat par courrier é
 
 En fonction du niveau d’accès et de participation que vous souhaitez accorder au revendeur, vous pouvez souhaiter effectuer une ou plusieurs des actions décrites ci-dessous.
 
+Pour les abonnements existants, si vous décidez de travailler avec un revendeur indirect, vous pouvez mettre à jour les détails de l’abonnement à inclure le revendeur indirect.
+
+- Sur la page de détails de l’abonnement, dans le champ de **revendeur (ID MPN)** , ajoutez le revendeur que vous souhaitez utiliser. Cela garantit que le revendeur reçoivent les primes appropriés.
+
 | **Pour effectuer cette opération** | **Procéder comme suit** | **Où** |
 |   ------------------   |   -------   |   -----   |
 | Permettre au revendeur de gérer le compte d’un client et de disposer d’autorisations d’administrateur pour gérer leurs abonnements | Associer un revendeur à un compte client lorsque vous ajoutez un nouveau client | Dans la page **Nouveau client** |
 |Permettre au revendeur de gérer un compte client Azure|Associer un revendeur à un compte client Azure lorsque vous ajoutez un nouveau client|Sur le **Portail de service Azure**, sélectionnez [Paramètres utilisateur](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour attribuer au revendeur indirect des autorisations **propriétaire locataire**|
 | Donner au revendeur un crédit pour des primes | Associer le revendeur à l’abonnement (nouveau ou existant) | Dans la page **Nouvel abonnement** |
 | Déléguer le support client pour certains abonnements au revendeur | Sélectionnez le revendeur dans la liste **Contact de support désigné** | Dans la page des détails de l’abonnement: sélectionnez le client dans votre page **Clients**, puis sélectionnez l’abonnement dans la page **Abonnements** du client |
+
+Aujourd'hui, les fournisseurs indirects utilisables tableau de bord de l’espace partenaires pour commander et éventuellement sélectionner un revendeur indirect en tant que le PartnerOnRecord. Si elles ne choisissez un revendeur indirect, nous le traiter comme une transaction de niveau 1 et inciter par conséquent le fournisseur indirect. Si elles relever un, nous considérons l’ordre comme transaction de couche 2 et nous inciter à la fois le fournisseur indirect et un revendeur indirect en conséquence:
+
+ 
+
+Il existe également une expérience où un fournisseur indirect peut également mettre à jour le PartnerOnRecord pour les abonnements existants:
+
+ 
+
+Vous savez si nous avons documentation existante sur comment indirect fournisseurs doivent gérer le PartnerOnRecord définissant Veuillez?
+La raison pour laquelle que cela poser est dans la mesure où il doit s’agir de tout à fait un ensemble significatif de transactions de couche 2 qui n’étaient pas correctement configurés par les fournisseurs indirects, ce qui entraîne des paiements de primes incitatives incorrect. Au fil du temps, les partenaires réalisés cela et commencer un public plus large à Microsoft pour obtenir un backpay sur les primes. Si vous n’avez couverture de documentation dans cette zone, je souhaiterais obtenir votre aide pour placer un ensemble.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
@@ -91,7 +144,7 @@ Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez 
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Ajouter de nouveaux clients et les associer aux revendeurs indirects
 
-1.  Sélectionnez **des revendeurs indirects** dans votre menu de **L’espace partenaires** . 
+1.  Sélectionnez **des revendeurs indirects** dans le menu de **L’espace partenaires** . 
 
 2.  Trouvez le revendeur indirect que vous souhaitez attribuer aux nouveaux clients, puis sélectionnez **Ajouter un nouveau client**. Notez que le revendeur indirect est déjà sélectionné dans l’écran des détails du client. Indiquez les détails du client, puis sélectionnez **Suivant: abonnements**. 
 3.  Dans la page **Nouvel abonnement**, sélectionnez le ou les abonnements que le client souhaite acheter, puis entrez le nombre de licences dont le client a besoin. 
