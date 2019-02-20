@@ -1,18 +1,18 @@
 ---
 title: Software Assurance planification des Services dans l’espace partenaires | L’espace partenaires
 ms.topic: article
-ms.date: 1/21/19
+ms.date: 01/21/19
 description: S’inscrire dans les Services de planification pour fournir la planification du pre-déploiement pour les clients d’entreprise
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
-ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
+ms.openlocfilehash: 52a9c71444042cc5de7064ab56f1afd13e3d1338
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066016"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083412"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 
@@ -23,7 +23,7 @@ Comme une planification approuvés services partenaire, Microsoft vous permet de
 Si vous n’êtes pas familiarisé avec les Services de planification de la Software Assurance, reportez-vous à [développer votre activité avec des Services de planification](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
 
 
-## <a name="get-started"></a>Commencer
+## <a name="get-started"></a>Prise en main
 
 Si vous débutez avec Software Assurance planification des Services, suivez les étapes ci-dessous. Si vous êtes déjà actif dans les programmes de Services de planification et vos informations de compte partenaire a été déplacées vers l’espace partenaires, commencez à l’étape quatre (4) ci-dessous. 
 

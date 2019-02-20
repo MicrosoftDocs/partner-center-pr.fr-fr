@@ -1,19 +1,19 @@
 ---
 title: Programme de fournisseur de Services gérés Expert Azure | L’espace partenaires
 ms.topic: article
-ms.date: 12/3/2018
+ms.date: 12/03/2018
 description: Experts dans la vente et la prise en charge Azure peuvent s’inscrire pour être dans le MSP Expert Azure
 author: labrenne
 ms.author: labrenne
 Keywords: Azure sales, expert programs, partner programs
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: cbad9db99833a3f05dbc732e4c2b1bf6cd1f0dba
-ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
+ms.openlocfilehash: 07ef1925313599981f69e7885bc4515243dd2af9
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "9014796"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083356"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programme de fournisseur de Services gérés Expert Azure
 

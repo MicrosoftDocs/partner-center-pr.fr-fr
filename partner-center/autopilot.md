@@ -2,21 +2,21 @@
 title: Personnaliser les out-of-box d’un appareil avec des profils Windows Autopilot | L’espace partenaires
 description: Préconfigurer expérience d’out-of-box d’un appareil avec des profils Autopilot.
 ms.topic: article
-ms.date: 2/6/19
+ms.date: 02/06/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot windows, autopilot de microsoft, déploiement zero touch, oobe, écrans d’ouverture de session, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 62e83c63bb10c041549f5a09bc32bdae979d462d
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062277"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083402"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personnaliser les out-of-box d’un appareil avec des profils Windows Autopilot
 
-**S’applique à**
+**S'applique à:**
 
 - Les partenaires de facture direct de fournisseur de solutions cloud, les fournisseurs indirects et les revendeurs indirects
 

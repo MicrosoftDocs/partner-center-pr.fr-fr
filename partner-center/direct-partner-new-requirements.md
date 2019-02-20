@@ -1,19 +1,19 @@
 ---
 title: Fournisseur de solutions cloud direct nouvelles exigences en matière de partenaire | L’espace partenaires
 ms.topic: article
-ms.date: 1/14/2018
+ms.date: 01/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: Fournisseur de solutions cloud, partenaire direct, facture direct, configuration requise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 44410ba70f12e995fa5975bb60e443fd9fb154c0
-ms.sourcegitcommit: c74dad6d7c4775980ed8ca8f0ad3800a2cd07fd7
+ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079750"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083355"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Nouvelles conditions requises pour les partenaires directs du programme Fournisseur de solutions cloud
 

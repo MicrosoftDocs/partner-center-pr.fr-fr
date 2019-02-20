@@ -7,30 +7,30 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture direct, transition, revendeur indirect
-ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024911"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083372"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transition à partir de fournisseur de solutions Cloud (CSP) direct partenaire de facturation par revendeur indirect fournisseur de solutions cloud 
-
 **S'applique à:**
  - Partenaires fournisseurs de solutions Cloud
+
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transition de partenaire de facturation directe fournisseur de solutions Cloud à revendeur indirect fournisseur de solutions Cloud 
 
 >[!Note] 
 >Cet article est destiné aux partenaires de facture direct qui ont décidé de passer à des revendeurs indirects. 
 
 Vous serez en mesure de s’inscrire au programme revendeur indirect à l’aide de votre client de facture direct existant. 
 
-## <a name="get-started"></a>Commencer
+## <a name="get-started"></a>Prise en main
 
 1. Assurez-vous que votre profil de partenaire dans l’espace partenaires et ID MPN sont en cours.
 
 2. Connectez-vous à l’espace partenaires en tant que l’administrateur général pour le client de facture direct que vous sont en cours de transition revendeur indirect.
 
-![Présentation](images/direct/direct1.png) 
+![Vue d'ensemble](images/direct/direct1.png) 
 
 3. Passez en revue les détails de votre partenaire dans le formulaire d’inscription.
 
