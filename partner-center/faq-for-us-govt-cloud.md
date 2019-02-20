@@ -6,12 +6,12 @@ description: Reportez-vous à ce forum aux questions pour en savoir plus sur le 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 8da6afb92a42f04463a34ecb3506fcf9146e15cd
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797182"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083212"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Forum aux questions pour l’espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -24,9 +24,10 @@ ms.locfileid: "5797182"
 Reportez-vous à ce forum aux questions pour en savoir plus sur le programme Fournisseur de solutions Cloud de Microsoft Cloud for US Government. Vous pouvez également contacter votre responsable de compte pour plus d’informations. 
 
 ### <a name="common"></a>Common
+
 **Qu’est-ce que MicrosoftCloud pour le gouvernement des États-Unis?**
 
-Conçu pour le gouvernement des États-Unis de Mairies, Microsoft Cloud pour le gouvernement des États-Unis permet clients du secteur public aux États-Unis, d’agences fédérales aux gouvernements petit village — pour sélectionner à partir d’une plage de services cloud computing. Pour mieux répondre aux besoins spécifiques de ses clients, Microsoft a lourdement investi dans les centres de données et s’efforce de répondre aux exigences de conformité des politiques, des mandats et des normes étatiques et fédérales des États-Unis. 
+Entièrement conçu pour le gouvernement des États-Unis de Mairies, Microsoft Cloud pour le gouvernement des États-Unis permet clients du secteur public aux États-Unis, d’agences fédérales aux gouvernements village petite — pour sélectionner parmi une plage de services cloud computing. Pour mieux répondre aux besoins spécifiques de ses clients, Microsoft a lourdement investi dans les centres de données et s’efforce de répondre aux exigences de conformité des politiques, des mandats et des normes étatiques et fédérales des États-Unis. 
 
 **Qui est éligible au programmeFournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis?**
 
@@ -48,7 +49,7 @@ Le programmeFournisseur de solutions Cloud de MicrosoftCloud pour le gouvernemen
 
 -   Intégration: les partenaires doivent intégrer le programmeFournisseur de solutions Cloud de MicrosoftCloud pour le gouvernement des États-Unis séparément de CSPCommercial.
 
--   Disponibilité du produit: à la fois Azure Government et des services basés sur les sièges comme Office 365, Enterprise Mobility + Security et Dynamics 365 sont disponibles dans le programme fournisseur de solutions cloud Microsoft Cloud pour le gouvernement. 
+-   Disponibilité du produit: à la fois Azure Government et des services basés sur les sièges comme Office 365, Enterprise Mobility + Security et Dynamics 365 sont disponibles dans le programme CSP de Microsoft Cloud pour le gouvernement. 
 
 -   Signataires: le contrat de revendeur MicrosoftCloud (MCRA) a été mis à jour pour refléter les conditions spécifiques au gouvernement.
 
@@ -68,9 +69,9 @@ Le contrat de revendeur MicrosoftCloud pour le gouvernement des États-Unis diff
 
 -   L’Addendum de MicrosoftCloud pour le gouvernement des États-Unis inclut une responsabilité supplémentaire pour les partenaires lors de la vente de services MicrosoftCloud pour le gouvernement des États-Unis.
 
--   L’ExposéA contient le contrat MicrosoftCloud (MCA) qui doit être intégré à chaque contrat conclu entre le Fournisseur de solutions Cloud et son client pour la vente de services MicrosoftCloud pour le gouvernement des États-Unis.
+-   L’exposé A contient le contrat de Cloud de Microsoft (du contrat Microsoft Cloud) qui doit être intégré à chaque contrat pour le gouvernement services conclu entre le fournisseur de solutions cloud et son client.
 
-*Contrat MicrosoftCloud (MCA) présenté en tant qu’ExposéA dans le contrat de revendeur MicrosoftCloud (MCRA)*
+*Contrat Microsoft Cloud (du contrat Microsoft Cloud) en tant qu’exposé A dans MCRA*
 
 Les fournisseurs de solutions Cloud doivent incorporer l’ExposéA dans le contrat gouvernemental conclu entre les fournisseurs de solutions Cloud et les clients qui achètent MicrosoftCloud pour le gouvernement des États-Unis. Le contrat est publié sur l’Espace partenaires et est disponible en anglais.
 
@@ -88,7 +89,7 @@ Le contrat de distributeur MicrosoftCloud de MicrosoftCloud pour le gouvernement
 
 -   L’Addendum de MicrosoftCloud pour le gouvernement des États-Unis inclut une responsabilité supplémentaire pour les partenaires lors de la vente de services MicrosoftCloud pour le gouvernement des États-Unis.
 
--   L’ExposéA contient le contrat MicrosoftCloud qui doit être intégré à chaque contrat conclu entre le Fournisseur de solutions Cloud et ses clients pour les services MicrosoftCloud pour le gouvernement des États-Unis.
+-   L’exposé A contient le contrat Microsoft Cloud (du contrat Microsoft Cloud) qui doit être intégré à chaque contrat pour le gouvernement services conclu entre le fournisseur de solutions cloud et ses clients.
 
 **Quelles sont les qualifications requises pour vendre MicrosoftCloud pour le gouvernement des États-Unis?**
 

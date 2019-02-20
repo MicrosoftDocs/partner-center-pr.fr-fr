@@ -5,18 +5,18 @@ ms.date: 10/29/2018
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
-keywords: client, clients, consentement
+keywords: client, clients, consentement, MCA, du contrat Microsoft Cloud, modèles de contrat client
 ms.localizationpriority: medium
-ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000029"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083192"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmer l’acceptation du client du contrat Microsoft Cloud
 
-**S'applique à**
+**S'applique à:**
 -  Espace partenaires
 
 En tant que partenaire, vous devez obtenir l’acceptation de votre client du contrat Microsoft Cloud pour commander des produits et services pour que le client Microsoft. Pour faciliter les partenaires répondre aux exigences de conformité, Microsoft invite les partenaires pour confirmer l’acceptation en fournissant les informations suivantes concernant la personne qui l’a accepté le contrat: 
@@ -31,7 +31,7 @@ En tant que partenaire, vous devez obtenir l’acceptation de votre client du co
 
 -   Date d’acceptation
 
-Pour plus d’informations, voir la [confirmation de l’acceptation du contrat Microsoft Cloud client Forum aux Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
+Pour plus d’informations, voir la confirmation d’acceptation du contrat Microsoft Cloud client [Forum aux Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
 ## <a name="schedule"></a>Planification
 
@@ -63,7 +63,8 @@ Pour plus d’informations, voir la [confirmation de l’acceptation du contrat 
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Confirmer l’acceptation du client pour un nouveau client
 
-Utilisez la procédure suivante pour confirmer l’acceptation du client lorsque vous créez un nouveau locataire du client dans l’espace partenaires. Notez que vous devez être un agent administrateur ou l’agent commercial pour effectuer cette opération. 
+Utilisez la procédure suivante pour confirmer l’acceptation du client lorsque vous créez un nouveau locataire du client dans l’espace partenaires. Notez que vous devez être un agent administrateur ou l’agent commercial pour effectuer cette opération.
+ 
 1.  Sélectionnez **clients**, puis de **nouveau client** , puis sélectionnez les **informations de compte**.
 
 2.  Entrez les informations sur la **société** et le **contact principal**.
@@ -79,7 +80,6 @@ Utilisez la procédure suivante pour confirmer l’acceptation du client lorsque
 ![Ajouter la date d’acceptation](images/mca/MCA3.png)
 
 Par défaut, les informations utilisateur contact principal s’affiche. Si ce n’est pas correct, sélectionnez **mise à jour** , puis entrez le **prénom**, le **nom**, l' **adresse de messagerie**, et **numéro de téléphone* (facultatif) de la personne qui l’a accepté le contrat.
-
 
 6.  Sélectionnez **suivant** pour continuer avec les étapes restantes pour créer le locataire du client.
 
