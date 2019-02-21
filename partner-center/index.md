@@ -4,18 +4,13 @@ hide_bc: true
 title: Commencez ici pour vous aider à l’espace partenaires
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: L’espace partenaires peuvent vous aider à développer votre activité dans le programme fournisseur de solutions Microsoft Cloud (CSP). Configurer votre compte, entrer en contact avec les clients, acheter un abonnement Microsoft Action Pack et trouver plus d’informations pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN. 
+description: "L’espace partenaires peuvent vous aider à développer votre activité dans le programme fournisseur de solutions Microsoft Cloud (CSP). Configurer votre compte, entrer en contact avec les clients, acheter un abonnement Microsoft Action Pack et trouver plus d’informations pour les partenaires dans les programmes de fournisseur de solutions cloud et MPN.\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066049"
 ---
+
 # <a name="welcome-to-partner-center"></a>Bienvenue dans l’espace partenaires
 
 Microsoft Partner Center est l’emplacement unique pour la gestion de votre relation de bout en bout avec Microsoft. Il offre des outils et des ressources pour vous aider à effectuer des transactions et développer votre activité, y compris les options d’adhésion, les références de clients et le programme fournisseur de solutions Cloud (CSP). Découvrez les meilleures pratiques pour la gestion de votre compte, la connexion avec les clients, ou acheter un abonnement Microsoft Action Pack et s’inscrire à un programme de primes incitatives dans la bibliothèque d’aide de l’espace partenaires.
@@ -28,7 +23,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft Partner Center est l’emplacement unique pour la gestion de votre rel
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">

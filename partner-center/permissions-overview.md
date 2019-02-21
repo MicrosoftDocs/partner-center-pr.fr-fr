@@ -7,162 +7,123 @@ author: labrenne
 ms.author: labrenne
 keywords: rôles, autorisations, administrateur, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: d05656a219cda8a68ded396a7f19b7bb4e5f9cdc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995913"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086727"
 ---
-# <a name="assign-users-roles-and-permissions"></a><span data-ttu-id="0fd34-104">Affecter des rôles et des autorisations aux utilisateurs</span><span class="sxs-lookup"><span data-stu-id="0fd34-104">Assign users roles and permissions</span></span>
-
-**<span data-ttu-id="0fd34-105">S'applique à:</span><span class="sxs-lookup"><span data-stu-id="0fd34-105">Applies to:</span></span>**
-
-- <span data-ttu-id="0fd34-106">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-106">Partner Center</span></span>
-
-<span data-ttu-id="0fd34-107">Chaque rôle dans l’espace partenaires est fourni avec certaines autorisations permettant à un utilisateur d’effectuer des tâches spécifiques.</span><span class="sxs-lookup"><span data-stu-id="0fd34-107">Each role in the Partner Center comes with certain permissions allowing a user to do specific tasks.</span></span> <span data-ttu-id="0fd34-108">Toutes les personnes qui fonctionne dans l’espace partenaires doivent disposer d’un rôle.</span><span class="sxs-lookup"><span data-stu-id="0fd34-108">Everyone who works in the Partner Center must be assigned a role.</span></span>
-
-<span data-ttu-id="0fd34-109">En fonction de la taille de votre organisation, certains utilisateurs peuvent fonctionner sur plusieurs sites, ou uniquement pour un seul endroit.</span><span class="sxs-lookup"><span data-stu-id="0fd34-109">Depending on the size of your organization some users may work across locations or only for one location.</span></span> 
-
-<span data-ttu-id="0fd34-110">Exemple :</span><span class="sxs-lookup"><span data-stu-id="0fd34-110">For example:</span></span>
-
-- <span data-ttu-id="0fd34-111">L’administrateur global peut être l’administrateur pour les entreprises juridique et un lieu spécifique; ou l’administrateur global peut être l’administrateur pour un seul des emplacements d’une entreprise.</span><span class="sxs-lookup"><span data-stu-id="0fd34-111">The global admin can be the admin for the legal business and a specific location; or the global admin can be admin for only one of the locations of a business.</span></span> 
-- <span data-ttu-id="0fd34-112">Administrateurs de primes incitatives peuvent administrer pour un ou plusieurs emplacements, mais ces emplacements doivent être spécifiés.</span><span class="sxs-lookup"><span data-stu-id="0fd34-112">Incentives admins can administer for one or more locations, but those locations need to be specified.</span></span>
+# <a name="assign-users-roles-and-permissions"></a><span data-ttu-id="acd26-104">Affecter des rôles et des autorisations aux utilisateurs</span><span class="sxs-lookup"><span data-stu-id="acd26-104">Assign users roles and permissions</span></span>
 
 
-<span data-ttu-id="0fd34-113">Le tableau suivant explique ce que chaque rôle peut faire dans l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="0fd34-113">The following table explains what each role can do in the Partner Center.</span></span> <span data-ttu-id="0fd34-114">Lorsque vous réfléchissez à l'attribution des rôles, prenez en compte le travail qu'un utilisateur effectue dans votre organisation.</span><span class="sxs-lookup"><span data-stu-id="0fd34-114">When thinking about how you want to assign roles, consider the work a user does in your organization.</span></span> <span data-ttu-id="0fd34-115">Vous pouvez, par exemple, attribuer également à l’administrateur général le rôle d’agent d’administration.</span><span class="sxs-lookup"><span data-stu-id="0fd34-115">You may for example, want the global admin to also be the admin agent.</span></span> <span data-ttu-id="0fd34-116">La personne responsable du marketing peut également être chargée de gérer le profil de l’entreprise.</span><span class="sxs-lookup"><span data-stu-id="0fd34-116">The person who handles your marketing may also be the one who should manage the business profile.</span></span>
+<span data-ttu-id="acd26-105">Vous avez configuré votre profil de partenaire, y compris le nom légal et adresse, détails du support, d’exonération fiscale, informations bancaires et le contact principal pour votre entreprise.</span><span class="sxs-lookup"><span data-stu-id="acd26-105">You've set up your partner profile including legal name and address, support details, file tax exemptions, bank info, and the primary contact for your company.</span></span> <span data-ttu-id="acd26-106">Étape suivante: demandez à vos utilisateurs configuré avec les rôles et les mots de passe afin qu’ils peuvent commencer à travailler dans l’espace partenaires avec vous.</span><span class="sxs-lookup"><span data-stu-id="acd26-106">Next step: get your users set up with passwords and roles so they can begin working in Partner Center with you.</span></span>
 
-<span data-ttu-id="0fd34-117">Pour une vue d’ensemble de rôles et autorisations, lisez [créer des comptes d’utilisateur et définir des autorisations](create-user-accounts-and-set-permissions.md).</span><span class="sxs-lookup"><span data-stu-id="0fd34-117">For an overview of roles and permissions, read [Create user accounts and set permissions](create-user-accounts-and-set-permissions.md).</span></span>
+## <a name="set-up-your-employees-to-work-in-partner-center"></a><span data-ttu-id="acd26-107">Configurer vos employés à travailler dans l’espace partenaires</span><span class="sxs-lookup"><span data-stu-id="acd26-107">Set up your employees to work in Partner Center</span></span>
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong><span data-ttu-id="0fd34-118">Rôle dans l’espace partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-118">Role in the Partner Center</span></span></strong></p></td>
-<td><p><strong><span data-ttu-id="0fd34-119">Ce qu’il peut faire</span><span class="sxs-lookup"><span data-stu-id="0fd34-119">What they can do</span></span></strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong><span data-ttu-id="0fd34-120">Administrateur général</span><span class="sxs-lookup"><span data-stu-id="0fd34-120">Global admin</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-121">Peut accéder à tous les comptes/services Microsoft avec des privilèges complets</span><span class="sxs-lookup"><span data-stu-id="0fd34-121">Can access all Microsoft account/services with full privileges</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-122">Créer des tickets de support pour l’espace partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-122">Create support tickets for the Partner Center</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-123">Afficher les contrats, les listes de prix et les offres</span><span class="sxs-lookup"><span data-stu-id="0fd34-123">View agreements, price lists, and offers</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-124">Facturation</span><span class="sxs-lookup"><span data-stu-id="0fd34-124">Billing</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-125">Afficher, créer et gérer les utilisateurs partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-125">View, create, and manage partner users</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong><span data-ttu-id="0fd34-126">Administration de facturation</span><span class="sxs-lookup"><span data-stu-id="0fd34-126">Billing admin</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-127">Peut accéder à toutes les factures émises par Microsoft avec des privilèges complets</span><span class="sxs-lookup"><span data-stu-id="0fd34-127">Can access all bills from Microsoft with full privileges</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-128">Afficher les contrats, les listes de prix et les offres</span><span class="sxs-lookup"><span data-stu-id="0fd34-128">View agreements, price lists, and offers</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-129">Facturation</span><span class="sxs-lookup"><span data-stu-id="0fd34-129">Billing</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong><span data-ttu-id="0fd34-130">Administrateur de la gestion des utilisateurs</span><span class="sxs-lookup"><span data-stu-id="0fd34-130">User management admin</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-131">Afficher, créer et gérer des utilisateurs</span><span class="sxs-lookup"><span data-stu-id="0fd34-131">View, create, and manage users</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-132">Afficher tous les profils de partenaire</span><span class="sxs-lookup"><span data-stu-id="0fd34-132">View all partner profiles</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-133">Afficher, créer et gérer les utilisateurs partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-133">View, create, and manage partner users</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong><span data-ttu-id="0fd34-134">Administrateur de profil d'entreprise</span><span class="sxs-lookup"><span data-stu-id="0fd34-134">Business profile admin</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-135">Affiche, crée et gère le profil de l'entreprise</span><span class="sxs-lookup"><span data-stu-id="0fd34-135">View, create, and manage business profile</span></span> </p></li>
-<li><p><span data-ttu-id="0fd34-136">Afficher, créer et gérer les demandes de service des partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-136">View, create, and manage partner service requests</span></span></p></li>
-</ul></td>
-<tr class="odd">
-<td><p><strong><span data-ttu-id="0fd34-137">Administrateur des références</span><span class="sxs-lookup"><span data-stu-id="0fd34-137">Referral admin</span></span> </strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-138">Afficher, créer et gérer les profils commerciaux</span><span class="sxs-lookup"><span data-stu-id="0fd34-138">View, create, and manage business profiles</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-139">Recevoir et gérer les références</span><span class="sxs-lookup"><span data-stu-id="0fd34-139">Receive and manage referrals</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-140">Afficher, créer et gérer les demandes de service des partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-140">View, create, and manage partner service requests</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong><span data-ttu-id="0fd34-141">Administrateur partenaire MPN</span><span class="sxs-lookup"><span data-stu-id="0fd34-141">MPN partner admin</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-142">Afficher, créer et gérer les demandes de service des partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-142">View, create, and manage partner service requests</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-143">Afficher les profils juridiques, d'entreprise, commerciaux et MPN</span><span class="sxs-lookup"><span data-stu-id="0fd34-143">View legal, organization, business, and MPN profiles</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-144">Afficher les détails des utilisateurs et les données sur leurs compétences</span><span class="sxs-lookup"><span data-stu-id="0fd34-144">View user details and their skills data</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-145">Afficher les compétences</span><span class="sxs-lookup"><span data-stu-id="0fd34-145">View competencies</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-146">Afficher et gérer les revenus</span><span class="sxs-lookup"><span data-stu-id="0fd34-146">View and manage benefits</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-147">Afficher et acheter les offres MPN</span><span class="sxs-lookup"><span data-stu-id="0fd34-147">View and purchase MPN offers</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-148">Afficher les factures et l’historique des commandes des offres MPN</span><span class="sxs-lookup"><span data-stu-id="0fd34-148">View MPN offers order history and invoices</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong><span data-ttu-id="0fd34-149">Administrateur de compte</span><span class="sxs-lookup"><span data-stu-id="0fd34-149">Account admin</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-150">Création de nouveaux emplacements</span><span class="sxs-lookup"><span data-stu-id="0fd34-150">Create new locations</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-151">Inscrire des emplacements dans des programmes (exceptions sont CSP et les programmes de revendeur indirect)</span><span class="sxs-lookup"><span data-stu-id="0fd34-151">Enroll locations into programs (exceptions are CSP and indirect reseller programs)</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-152">Gérer les profils liés aux comptes d’emplacement qu’ils administrer</span><span class="sxs-lookup"><span data-stu-id="0fd34-152">Manage profiles related to the location accounts they administer</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-153">Attribuer des autres administrateurs de compte, administrateur MPN, administrateur de profil d’entreprise, administrateur des références, administrateur de primes incitatives et rôles d’utilisateur Incentive aux utilisateurs</span><span class="sxs-lookup"><span data-stu-id="0fd34-153">Assign other Account admins, MPN admin, Business profile admin, Referral admin, Incentive admin, and Incentive user roles to users</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong><span data-ttu-id="0fd34-154">Administrateur de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="0fd34-154">Incentives admin</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-155">Lance et gère les demandes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="0fd34-155">Initiates and manages Incentives claims</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-156">Peut afficher et modifier tous les aspects de programmes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="0fd34-156">Can view and edit all aspects of Incentives programs</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-157">Peut afficher et modifier les informations bancaires et fiscaux</span><span class="sxs-lookup"><span data-stu-id="0fd34-157">Can view and edit bank and tax details</span></span></p></li>
-<LI><p><span data-ttu-id="0fd34-158">Affichage des revenus remise et le mode coopération</span><span class="sxs-lookup"><span data-stu-id="0fd34-158">View rebate and co-op earnings</span></span></p></li>
-<LI><p><span data-ttu-id="0fd34-159">Prise en charge de l’accès</span><span class="sxs-lookup"><span data-stu-id="0fd34-159">Access support</span></span></p></li>
-<LI><p><span data-ttu-id="0fd34-160">Paiements de primes incitatives litige</span><span class="sxs-lookup"><span data-stu-id="0fd34-160">Dispute incentives payments</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong><span data-ttu-id="0fd34-161">Utilisateur de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="0fd34-161">Incentives user</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-162">Peut afficher les programmes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="0fd34-162">Can view incentives programs</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-163">Peut afficher et lancer des revendications de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="0fd34-163">Can view and initiate incentives claims</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-164">Peut afficher les informations bancaires et fiscaux</span><span class="sxs-lookup"><span data-stu-id="0fd34-164">Can view bank and tax details</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-165">Affichage des revenus remise et le mode coopération</span><span class="sxs-lookup"><span data-stu-id="0fd34-165">View rebate and co-op earnings</span></span></p></li>
-<LI><p><span data-ttu-id="0fd34-166">Affichage des revenus remise et le mode coopération</span><span class="sxs-lookup"><span data-stu-id="0fd34-166">View rebate and co-op earnings</span></span></p></li>
-<LI><p><span data-ttu-id="0fd34-167">Prise en charge de l’accès</span><span class="sxs-lookup"><span data-stu-id="0fd34-167">Access support</span></span></p></li>
-<LI><p><span data-ttu-id="0fd34-168">Paiements de primes incitatives litige</span><span class="sxs-lookup"><span data-stu-id="0fd34-168">Dispute incentives payments</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong><span data-ttu-id="0fd34-169">Agent d’administration</span><span class="sxs-lookup"><span data-stu-id="0fd34-169">Admin agent</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-170">Gestion des clients</span><span class="sxs-lookup"><span data-stu-id="0fd34-170">Customer management</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-171">Ajouter une liste de l’appareil à l’espace partenaires&lt;</span><span class="sxs-lookup"><span data-stu-id="0fd34-171">Add device list to the Partner Center&lt;</span></span></p></li>
-<p><li><span data-ttu-id="0fd34-172">Créer des profils et les appliquer aux appareils</span><span class="sxs-lookup"><span data-stu-id="0fd34-172">Create and apply profiles to devices</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-173">Gestion des abonnements</span><span class="sxs-lookup"><span data-stu-id="0fd34-173">Subscription management</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-174">État du service et demandes de service pour les clients</span><span class="sxs-lookup"><span data-stu-id="0fd34-174">Service health and service requests for customers</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-175">Demander des privilèges d’administrateur délégués</span><span class="sxs-lookup"><span data-stu-id="0fd34-175">Request delegated administrator privileges</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-176">Afficher les tarifs et les offres</span><span class="sxs-lookup"><span data-stu-id="0fd34-176">View pricing and offers</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-177">Facturation</span><span class="sxs-lookup"><span data-stu-id="0fd34-177">Billing</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-178">Administrer au nom d’un client</span><span class="sxs-lookup"><span data-stu-id="0fd34-178">Administer on behalf of a customer</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-179">Inscrire un revendeur à valeur ajoutée</span><span class="sxs-lookup"><span data-stu-id="0fd34-179">Register a value added reseller</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong><span data-ttu-id="0fd34-180">Commercial</span><span class="sxs-lookup"><span data-stu-id="0fd34-180">Sales agent</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-181">Gestion des clients</span><span class="sxs-lookup"><span data-stu-id="0fd34-181">Customer management</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-182">Ajouter une liste de l’appareil à l’espace partenaires</span><span class="sxs-lookup"><span data-stu-id="0fd34-182">Add device list to the Partner Center</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-183">Gestion des abonnements</span><span class="sxs-lookup"><span data-stu-id="0fd34-183">Subscription management</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-184">Afficher les tickets de support</span><span class="sxs-lookup"><span data-stu-id="0fd34-184">View support tickets</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-185">Demander une relation avec un client</span><span class="sxs-lookup"><span data-stu-id="0fd34-185">Request a relationship with a customer</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-186">Gérer les prospects</span><span class="sxs-lookup"><span data-stu-id="0fd34-186">Manage customer leads</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-187">Afficher le contrat client</span><span class="sxs-lookup"><span data-stu-id="0fd34-187">View the customer agreement</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-188">Inscrire un revendeur à valeur ajoutée</span><span class="sxs-lookup"><span data-stu-id="0fd34-188">Register a value added reseller</span></span></p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong><span data-ttu-id="0fd34-189">Agent du support technique</span><span class="sxs-lookup"><span data-stu-id="0fd34-189">Helpdesk agent</span></span></strong></p></td>
-<td><ul>
-<li><p><span data-ttu-id="0fd34-190">Rechercher et afficher un client</span><span class="sxs-lookup"><span data-stu-id="0fd34-190">Search for and view a customer</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-191">Modifier les détails du client</span><span class="sxs-lookup"><span data-stu-id="0fd34-191">Edit customer details</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-192">Aider les clients à résoudre des problèmes de gestion de facturation ou d’abonnement</span><span class="sxs-lookup"><span data-stu-id="0fd34-192">Help resolve customer issues with billing or subscription management</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-193">Demander un support pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</span><span class="sxs-lookup"><span data-stu-id="0fd34-193">Request support on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</span></span></p></li>
-<li><p><span data-ttu-id="0fd34-194">Gérer les problèmes d'abonnements et de facturation pour le compte de clients (remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office365)</span><span class="sxs-lookup"><span data-stu-id="0fd34-194">Manage subscriptions and billing issues on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</span></span></p></li>
-</ul></td>
-</tr>
+<span data-ttu-id="acd26-108">Vous déterminez les types de vos utilisateurs ont vers l’espace partenaires par les rôles et autorisations que vous leur accordez un accès.</span><span class="sxs-lookup"><span data-stu-id="acd26-108">You determine the types of access your users have to Partner Center by the roles and permissions you give them.</span></span> <span data-ttu-id="acd26-109">Rôles sont liés aux répartis impliqué dans votre entreprise.</span><span class="sxs-lookup"><span data-stu-id="acd26-109">Roles are related to the program(s) your business is involved in.</span></span> <span data-ttu-id="acd26-110">Par exemple, si votre entreprise est une activité de fournisseur de solutions Cloud (CSP), pas seulement avoir Azure AD standard des rôles de gestion, tels qu’Administrateur général de client, mais devront rôles spécifiques au programme fournisseur de solutions cloud.</span><span class="sxs-lookup"><span data-stu-id="acd26-110">For example,if your business is a Cloud Solution Provider (CSP) business, you will not only have the standard Azure AD tenant management roles such as global admin, but will need roles specific to the CSP program.</span></span> <span data-ttu-id="acd26-111">Chaque programme possède des rôles spécifiques à celui-ci.</span><span class="sxs-lookup"><span data-stu-id="acd26-111">Each program has roles specific to it.</span></span>
+
+>[!Note]
+> <span data-ttu-id="acd26-112">Rôles de client Azure Active Directory (AAD) incluent l’administrateur général, administrateur d’utilisateurs et les rôles de fournisseur de solutions cloud.</span><span class="sxs-lookup"><span data-stu-id="acd26-112">Azure Active Directory (AAD) tenant roles include global admin, user admin, and CSP roles.</span></span> <span data-ttu-id="acd26-113">Les rôles de non-AAD incluent administrateur MPN, administrateur de profil d’entreprise, administrateur des références, administrateur de primes incitatives et utilisateur de primes incitatives.</span><span class="sxs-lookup"><span data-stu-id="acd26-113">Non-AAD roles include MPN admin, business profile admin, referral admin, incentive admin, and incentive user.</span></span> 
+
+### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a><span data-ttu-id="acd26-114">Gérer les transactions commerciales dans l’espace partenaires (Azure AD et les rôles de fournisseur de solutions cloud)</span><span class="sxs-lookup"><span data-stu-id="acd26-114">Manage commercial transactions in Partner Center (Azure AD and CSP roles)</span></span>
+
+|**<span data-ttu-id="acd26-115">Rôle</span><span class="sxs-lookup"><span data-stu-id="acd26-115">Role</span></span>**|**<span data-ttu-id="acd26-116">Ce qu’il peut faire</span><span class="sxs-lookup"><span data-stu-id="acd26-116">What they can do</span></span>**|
+|----------------------------------|:---------------------------------|
+|<span data-ttu-id="acd26-117">Administrateur général</span><span class="sxs-lookup"><span data-stu-id="acd26-117">Global admin</span></span>|<span data-ttu-id="acd26-118">• Peuvent accéder à tous les comptes/services Microsoft avec des privilèges complets</span><span class="sxs-lookup"><span data-stu-id="acd26-118">• Can access all Microsoft account/services with full privileges</span></span>
+|      |<span data-ttu-id="acd26-119">• Créer des tickets de support pour l’espace partenaires</span><span class="sxs-lookup"><span data-stu-id="acd26-119">•   Create support tickets for the Partner Center</span></span>
+||<span data-ttu-id="acd26-120">• Afficher les contrats, listes de prix et offres</span><span class="sxs-lookup"><span data-stu-id="acd26-120">• View agreements, price lists, and offers</span></span>
+||<span data-ttu-id="acd26-121">• Afficher, créer et gérer les utilisateurs partenaires</span><span class="sxs-lookup"><span data-stu-id="acd26-121">• View, create, and manage partner users</span></span>|
+|<span data-ttu-id="acd26-122">Administrateur utilisateur</span><span class="sxs-lookup"><span data-stu-id="acd26-122">User Admin</span></span>   | <span data-ttu-id="acd26-123">• Afficher, créer et gérer des utilisateurs</span><span class="sxs-lookup"><span data-stu-id="acd26-123">•   View, create, and manage users</span></span>
+||<span data-ttu-id="acd26-124">• Afficher tous les profils de partenaire</span><span class="sxs-lookup"><span data-stu-id="acd26-124">• View all partner profiles</span></span>
+||<span data-ttu-id="acd26-125">• Afficher, créer et gérer les utilisateurs partenaires</span><span class="sxs-lookup"><span data-stu-id="acd26-125">• View, create, and manage partner users</span></span>  |
+|<span data-ttu-id="acd26-126">Utilisateur par défaut</span><span class="sxs-lookup"><span data-stu-id="acd26-126">Default user</span></span>|  <span data-ttu-id="acd26-127">Afficher mon profil</span><span class="sxs-lookup"><span data-stu-id="acd26-127">View My profile</span></span>   |
+|<span data-ttu-id="acd26-128">Agent d’administration</span><span class="sxs-lookup"><span data-stu-id="acd26-128">Admin agent</span></span> | <span data-ttu-id="acd26-129">• Gestion des clients</span><span class="sxs-lookup"><span data-stu-id="acd26-129">•    Customer management</span></span>
+||<span data-ttu-id="acd26-130">• Ajouter une liste d’appareil pour le Center< partenaire</span><span class="sxs-lookup"><span data-stu-id="acd26-130">• Add device list to the Partner Center<</span></span>
+||<span data-ttu-id="acd26-131">• Créer et appliquer des profils sur des appareils</span><span class="sxs-lookup"><span data-stu-id="acd26-131">• Create and apply profiles to devices</span></span>
+||<span data-ttu-id="acd26-132">• Gestion des abonnements</span><span class="sxs-lookup"><span data-stu-id="acd26-132">• Subscription management</span></span>
+||<span data-ttu-id="acd26-133">• Service health et demandes de service pour les clients</span><span class="sxs-lookup"><span data-stu-id="acd26-133">• Service health and service requests for customers</span></span>
+||<span data-ttu-id="acd26-134">• Demande des privilèges d’administrateur délégués</span><span class="sxs-lookup"><span data-stu-id="acd26-134">• Request delegated administrator privileges</span></span>
+||<span data-ttu-id="acd26-135">• Vue tarification et offres</span><span class="sxs-lookup"><span data-stu-id="acd26-135">• View pricing and offers</span></span>
+||<span data-ttu-id="acd26-136">• Facturation</span><span class="sxs-lookup"><span data-stu-id="acd26-136">• Billing</span></span>
+||<span data-ttu-id="acd26-137">• Administrer au nom d’un client</span><span class="sxs-lookup"><span data-stu-id="acd26-137">• Administer on behalf of a customer</span></span>
+||<span data-ttu-id="acd26-138">• Inscrire une valeur ajoutée revendeur</span><span class="sxs-lookup"><span data-stu-id="acd26-138">• Register a value added reseller</span></span>|
+|<span data-ttu-id="acd26-139">Commercial</span><span class="sxs-lookup"><span data-stu-id="acd26-139">Sales agent</span></span> | <span data-ttu-id="acd26-140">• Gestion des clients</span><span class="sxs-lookup"><span data-stu-id="acd26-140">•    Customer management</span></span>
+||<span data-ttu-id="acd26-141">• Ajouter une liste de l’appareil à l’espace partenaires</span><span class="sxs-lookup"><span data-stu-id="acd26-141">• Add device list to the Partner Center</span></span>
+||<span data-ttu-id="acd26-142">• Gestion des abonnements</span><span class="sxs-lookup"><span data-stu-id="acd26-142">• Subscription management</span></span>
+||<span data-ttu-id="acd26-143">• Afficher les tickets de support</span><span class="sxs-lookup"><span data-stu-id="acd26-143">• View support tickets</span></span>
+||<span data-ttu-id="acd26-144">• Demander une relation avec un client</span><span class="sxs-lookup"><span data-stu-id="acd26-144">• Request a relationship with a customer</span></span>
+||<span data-ttu-id="acd26-145">• Gérer les prospects</span><span class="sxs-lookup"><span data-stu-id="acd26-145">• Manage customer leads</span></span>
+||<span data-ttu-id="acd26-146">• Vue le contrat client</span><span class="sxs-lookup"><span data-stu-id="acd26-146">• View the customer agreement</span></span>
+||<span data-ttu-id="acd26-147">• Inscrire un revendeur à valeur ajoutée</span><span class="sxs-lookup"><span data-stu-id="acd26-147">• Register a value-added reseller</span></span>|
+|<span data-ttu-id="acd26-148">Agent du support technique</span><span class="sxs-lookup"><span data-stu-id="acd26-148">Helpdesk agent</span></span>| <span data-ttu-id="acd26-149">• Rechercher et afficher un client</span><span class="sxs-lookup"><span data-stu-id="acd26-149">•  Search for and view a customer</span></span>
+||<span data-ttu-id="acd26-150">• Modifier les détails de client</span><span class="sxs-lookup"><span data-stu-id="acd26-150">• Edit customer details</span></span>
+||<span data-ttu-id="acd26-151">• Aide résoudre les problèmes client avec la gestion de facturation ou d’abonnement</span><span class="sxs-lookup"><span data-stu-id="acd26-151">• Help resolve customer issues with billing or subscription management</span></span>
+||<span data-ttu-id="acd26-152">• Demande de prise en charge pour le compte de clients (Remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office 365)</span><span class="sxs-lookup"><span data-stu-id="acd26-152">• Request support on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</span></span>
+||<span data-ttu-id="acd26-153">• Gérer les abonnements et de facturation des problèmes pour le compte de clients (Remarque: vous devez être un agent administrateur pour effectuer cette tâche pour les abonnements Office 365)</span><span class="sxs-lookup"><span data-stu-id="acd26-153">• Manage subscriptions and billing issues on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</span></span>|
+|
+### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a><span data-ttu-id="acd26-154">Fournisseur du panneau contrôle (CPV).</span><span class="sxs-lookup"><span data-stu-id="acd26-154">Control Panel Vendor (CPV).</span></span> <span data-ttu-id="acd26-155">(Rôle de fournisseur de solutions cloud et non AAD)</span><span class="sxs-lookup"><span data-stu-id="acd26-155">(CSP role and non-AAD role)</span></span>
+<span data-ttu-id="acd26-156">CPVs développer des applications pour une utilisation par les partenaires de fournisseur de solutions Cloud (CSP) pour accroître leur intégrer leurs systèmes avec les API de l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="acd26-156">CPVs develop apps for use by Cloud Solution Provider (CSP) partners to enable them to integrate their systems with Partner Center APIs.</span></span> 
+
+|**<span data-ttu-id="acd26-157">Rôle</span><span class="sxs-lookup"><span data-stu-id="acd26-157">Role</span></span>**   |**<span data-ttu-id="acd26-158">Ce que vous pouvez faire</span><span class="sxs-lookup"><span data-stu-id="acd26-158">What you can do</span></span>**|
+|------------------------------|:----------------------------|
+|<span data-ttu-id="acd26-159">Administrateur général</span><span class="sxs-lookup"><span data-stu-id="acd26-159">Global admin</span></span>| <span data-ttu-id="acd26-160">Afficher et gérer votre profil CPV</span><span class="sxs-lookup"><span data-stu-id="acd26-160">View and manage your CPV profile</span></span>|
+||<span data-ttu-id="acd26-161">Afficher et gérer une de vos utilisateurs ont besoin d’accéder aux fonctionnalités CPV</span><span class="sxs-lookup"><span data-stu-id="acd26-161">View and manage any of your users who need access to CPV capabilities</span></span>|
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a><span data-ttu-id="acd26-162">Gérer l’adhésion au MPN et votre société (rôles non AAD)</span><span class="sxs-lookup"><span data-stu-id="acd26-162">Manage MPN membership and your company (non-AAD roles)</span></span>
+
+|**<span data-ttu-id="acd26-163">Rôle</span><span class="sxs-lookup"><span data-stu-id="acd26-163">Role</span></span>** | **<span data-ttu-id="acd26-164">Ce que vous pouvez faire</span><span class="sxs-lookup"><span data-stu-id="acd26-164">What you can do</span></span>**|
+|----------------------------|:----------------------------|
+|<span data-ttu-id="acd26-165">Administrateur MPN</span><span class="sxs-lookup"><span data-stu-id="acd26-165">MPN admin</span></span>|<span data-ttu-id="acd26-166">•CAN ajouter des utilisateurs non clients</span><span class="sxs-lookup"><span data-stu-id="acd26-166">•Can add non-tenant users</span></span>
+||<span data-ttu-id="acd26-167">• Afficher, créer et gérer les demandes de service de l’espace</span><span class="sxs-lookup"><span data-stu-id="acd26-167">• View, create, and manage partner service requests</span></span>
+||<span data-ttu-id="acd26-168">• Vue juridiques, organisation, entreprise et des profils MPN</span><span class="sxs-lookup"><span data-stu-id="acd26-168">• View legal, organization, business, and MPN profiles</span></span>
+||<span data-ttu-id="acd26-169">• Afficher les détails utilisateur et les données sur leurs compétences</span><span class="sxs-lookup"><span data-stu-id="acd26-169">• View user details and their skills data</span></span>
+||<span data-ttu-id="acd26-170">• Afficher les compétences</span><span class="sxs-lookup"><span data-stu-id="acd26-170">• View competencies</span></span>
+||<span data-ttu-id="acd26-171">• Afficher et gérer les avantages</span><span class="sxs-lookup"><span data-stu-id="acd26-171">• View and manage benefits</span></span>
+||<span data-ttu-id="acd26-172">Achat et • vue aux offres MPN</span><span class="sxs-lookup"><span data-stu-id="acd26-172">• View and purchase MPN offers</span></span>
+||<span data-ttu-id="acd26-173">• Vue MPN offre les factures et l’historique des commandes</span><span class="sxs-lookup"><span data-stu-id="acd26-173">• View MPN offers order history and invoices</span></span>
+||<span data-ttu-id="acd26-174">• Peut afficher des données de contribution partenaire</span><span class="sxs-lookup"><span data-stu-id="acd26-174">• Can view partner contribution data</span></span>
+||<span data-ttu-id="acd26-175">• Utilisable dans l’outil de Validation de document</span><span class="sxs-lookup"><span data-stu-id="acd26-175">• Can work in the Voucher Validation tool</span></span>|
+|<span data-ttu-id="acd26-176">Administrateur de compte</span><span class="sxs-lookup"><span data-stu-id="acd26-176">Account admin</span></span>| <span data-ttu-id="acd26-177">• Peut ajouter des utilisateurs non clients</span><span class="sxs-lookup"><span data-stu-id="acd26-177">•   Can add non-tenant users</span></span>
+||<span data-ttu-id="acd26-178">• Ajouter ou supprimer des emplacements</span><span class="sxs-lookup"><span data-stu-id="acd26-178">• Add or delete locations</span></span>
+||<span data-ttu-id="acd26-179">-Gérer les profils liés aux comptes de que vous êtes l’administrateur</span><span class="sxs-lookup"><span data-stu-id="acd26-179">- Manage profiles related to the accounts you are admin for</span></span> 
+||<span data-ttu-id="acd26-180">• Affecter des rôles pour les utilisateurs de client aux rôles non AAD</span><span class="sxs-lookup"><span data-stu-id="acd26-180">• Assign roles for users in tenant to non AAD roles</span></span> 
+||<span data-ttu-id="acd26-181">• Inscrire des emplacements dans des programmes</span><span class="sxs-lookup"><span data-stu-id="acd26-181">• Enroll locations into programs</span></span>
+
+## <a name="manage-referrals-non-aad-roles"></a><span data-ttu-id="acd26-182">Gérer des références (rôles non AAD)</span><span class="sxs-lookup"><span data-stu-id="acd26-182">Manage referrals (non-AAD roles)</span></span>
+
+|**<span data-ttu-id="acd26-183">Rôle</span><span class="sxs-lookup"><span data-stu-id="acd26-183">Role</span></span>**|**<span data-ttu-id="acd26-184">Ce que vous pouvez faire</span><span class="sxs-lookup"><span data-stu-id="acd26-184">What you can do</span></span>**|
+|-----------------------------|:------------------------|
+|<span data-ttu-id="acd26-185">Administrateur des références</span><span class="sxs-lookup"><span data-stu-id="acd26-185">Referrals admin</span></span>       |<span data-ttu-id="acd26-186">• Afficher, créer et gérer les profils commerciaux</span><span class="sxs-lookup"><span data-stu-id="acd26-186">•   View, create, and manage business profiles</span></span>
+||<span data-ttu-id="acd26-187">• Recevoir et gérer des références</span><span class="sxs-lookup"><span data-stu-id="acd26-187">• Receive and manage referrals</span></span>
+||<span data-ttu-id="acd26-188">• Afficher, créer et gérer les demandes de service de l’espace</span><span class="sxs-lookup"><span data-stu-id="acd26-188">• View, create, and manage partner service requests</span></span>|
+|<span data-ttu-id="acd26-189">Administrateur de profil d'entreprise</span><span class="sxs-lookup"><span data-stu-id="acd26-189">Business profile admin</span></span>   |<span data-ttu-id="acd26-190">•View, créer et gérer le profil d’entreprise</span><span class="sxs-lookup"><span data-stu-id="acd26-190">•View, create, and manage business profile</span></span> 
+||<span data-ttu-id="acd26-191">• Afficher, créer et gérer les demandes de service de l’espace</span><span class="sxs-lookup"><span data-stu-id="acd26-191">• View, create, and manage partner service requests</span></span>|
+
+## <a name="manage-incentives--non-aad-roles"></a><span data-ttu-id="acd26-192">Gérer les primes (rôles non AAD)</span><span class="sxs-lookup"><span data-stu-id="acd26-192">Manage Incentives  (non-AAD roles)</span></span>
+
+|**<span data-ttu-id="acd26-193">Rôle</span><span class="sxs-lookup"><span data-stu-id="acd26-193">Role</span></span>** | **<span data-ttu-id="acd26-194">Ce que vous pouvez faire</span><span class="sxs-lookup"><span data-stu-id="acd26-194">What you can do</span></span>**|
+|------------------------------|:-------------------------|
+|<span data-ttu-id="acd26-195">Administrateur de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="acd26-195">Incentives admin</span></span>|<span data-ttu-id="acd26-196">• Initie et gère les primes incitatives</span><span class="sxs-lookup"><span data-stu-id="acd26-196">• Initiates and manages incentives</span></span> 
+||<span data-ttu-id="acd26-197">• Peut afficher et modifier tous les aspects de programmes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="acd26-197">• Can view and edit all aspects of incentives programs</span></span>
+||<span data-ttu-id="acd26-198">• Peut afficher et modifier les informations bancaires et fiscaux</span><span class="sxs-lookup"><span data-stu-id="acd26-198">• Can view and edit bank and tax details</span></span>
+||<span data-ttu-id="acd26-199">• Vue remise et le mode coopération bénéfices</span><span class="sxs-lookup"><span data-stu-id="acd26-199">• View rebate and co-op earnings</span></span>
+||<span data-ttu-id="acd26-200">• Accès prise en charge</span><span class="sxs-lookup"><span data-stu-id="acd26-200">• Access support</span></span>
+||<span data-ttu-id="acd26-201">• Les paiements de primes incitatives litige</span><span class="sxs-lookup"><span data-stu-id="acd26-201">• Dispute incentives payments</span></span>|
+|<span data-ttu-id="acd26-202">Utilisateur de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="acd26-202">Incentives user</span></span>|<span data-ttu-id="acd26-203">• Peut afficher les programmes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="acd26-203">•  Can view incentives programs</span></span>
+||<span data-ttu-id="acd26-204">• Peut afficher et lancer des revendications de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="acd26-204">• Can view and initiate incentives claims</span></span>
+||<span data-ttu-id="acd26-205">• Vue remise et le mode coopération bénéfices</span><span class="sxs-lookup"><span data-stu-id="acd26-205">• View rebate and co-op earnings</span></span>
+||<span data-ttu-id="acd26-206">• Vue remise et le mode coopération bénéfices</span><span class="sxs-lookup"><span data-stu-id="acd26-206">• View rebate and co-op earnings</span></span>
+||<span data-ttu-id="acd26-207">• Accès prise en charge</span><span class="sxs-lookup"><span data-stu-id="acd26-207">• Access support</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
