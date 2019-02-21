@@ -9,16 +9,16 @@ ms.author: evansma
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau2, de niveau2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995993"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086747"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
-La demande en croissance rapide de services et les solutions Cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions Cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne veulent pas avoir à gérer plusieurs fournisseurs ou n'ont pas mis en place d'infrastructure de gestion des relations clients de bout en bout, peuvent s’inscrire au programme des fournisseurs de solutions Microsoft Cloud (CSP) en tant que revendeurs indirects.
+La demande en croissance rapide de services et les solutions Cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions Cloud rentables. Les partenaires qui sont prêts à entrer il marché, mais qui ne souhaitent pas obligé de gérer plusieurs fournisseurs, ou qui ne disposent pas d’une infrastructure de gestion de relation client de bout en bout placer, peuvent s’inscrire au programme de fournisseur de solutions Cloud (CSP) de Microsoft en tant qu’indirect revendeurs.
 
 En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation. Cela signifie que n'avez pas à démarrer seul, mais qu'à la place vous pouvez travailler avec un fournisseur de technologies expérimenté pour garantir votre succès. Dans le modèle fournisseur-revendeur (deux niveaux), le fournisseur achète auprès de Microsoft des services et des solutions Cloud que vous revendez aux clients.
 
