@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot windows, autopilot de microsoft, déploiement zero touch, oobe, écrans d’ouverture de session, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083402"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098826"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a><span data-ttu-id="0f968-104">Personnaliser les out-of-box d’un appareil avec des profils Windows Autopilot</span><span class="sxs-lookup"><span data-stu-id="0f968-104">Customize a device's out-of-box experience with Windows Autopilot profiles</span></span>
 
@@ -25,7 +25,7 @@ ms.locfileid: "9083402"
 <span data-ttu-id="0f968-110">Si vous n’êtes pas déjà familiarisé avec Autopilot, passez en revue les informations contenues dans les articles suivants:</span><span class="sxs-lookup"><span data-stu-id="0f968-110">If you're not already familiar with Autopilot, review the information in these articles:</span></span>
 
 - [<span data-ttu-id="0f968-111">Vue d’ensemble de Windows Autopilot</span><span class="sxs-lookup"><span data-stu-id="0f968-111">Overview of Windows Autopilot</span></span>](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [<span data-ttu-id="0f968-112">Guide de référence de déploiement AutoPilot</span><span class="sxs-lookup"><span data-stu-id="0f968-112">Autopilot deployment reference guide</span></span>](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [<span data-ttu-id="0f968-112">Guide de référence de déploiement AutoPilot</span><span class="sxs-lookup"><span data-stu-id="0f968-112">Autopilot deployment reference guide</span></span>](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a><span data-ttu-id="0f968-113">Vue d'ensemble</span><span class="sxs-lookup"><span data-stu-id="0f968-113">Overview</span></span>
 

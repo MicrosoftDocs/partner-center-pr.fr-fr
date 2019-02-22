@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083142"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098766"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a><span data-ttu-id="86858-104">Guide du programme fournisseur de solutions cloud, contrats, listes de prix et offres</span><span class="sxs-lookup"><span data-stu-id="86858-104">Cloud Solution Provider program guide, agreements, price lists, and offers</span></span>
 
@@ -29,7 +29,7 @@ ms.locfileid: "9083142"
 
 <span data-ttu-id="86858-110">Examinez les conditions requises pour devenir un partenaire dans le programme Fournisseur de solutions Cloud.</span><span class="sxs-lookup"><span data-stu-id="86858-110">Review requirements for becoming a partner in the Cloud Solution Provider program.</span></span>
 
-[<span data-ttu-id="86858-111">Guide du programme pour les partenaires fournisseurs de solutions Cloud</span><span class="sxs-lookup"><span data-stu-id="86858-111">Program guide for Cloud Solution Provider partners</span></span>](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[<span data-ttu-id="86858-111">Guide du programme pour les partenaires fournisseurs de solutions Cloud</span><span class="sxs-lookup"><span data-stu-id="86858-111">Program guide for Cloud Solution Provider partners</span></span>](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 ><span data-ttu-id="86858-112">Si vous avez besoin d’une lettre commerciale confirmant ou certifier votre statut en tant que partenaire Microsoft approuvé dans le programme fournisseur de solutions Cloud, [contactez le support](https://partner.microsoft.com/pcv/servicerequests/create) pour le demander.</span><span class="sxs-lookup"><span data-stu-id="86858-112">If you require a business letter confirming or certifying your status as an approved Microsoft partner in the Cloud Solution Provider program, [contact support](https://partner.microsoft.com/pcv/servicerequests/create) to request one.</span></span>
@@ -38,19 +38,19 @@ ms.locfileid: "9083142"
 
 <span data-ttu-id="86858-114">Microsoft exige que les partenaires signent le présent contrat pour rejoindre le programme Fournisseur de solutions Cloud.</span><span class="sxs-lookup"><span data-stu-id="86858-114">Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program.</span></span> <span data-ttu-id="86858-115">Lisez attentivement ce guide pour le marché ou le Cloud national dans lequel vous envisagez de vendre.</span><span class="sxs-lookup"><span data-stu-id="86858-115">Review the guide for the market or national cloud in which you plan to sell.</span></span>
 
-[<span data-ttu-id="86858-116">Contrat de revendeur Microsoft Cloud: Amérique du Nord, Amérique Centrale, Amérique du Sud et Les Antilles</span><span class="sxs-lookup"><span data-stu-id="86858-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="86858-116">Contrat de revendeur Microsoft Cloud: Amérique du Nord, Amérique Centrale, Amérique du Sud et Les Antilles</span><span class="sxs-lookup"><span data-stu-id="86858-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="86858-117">Contrat de revendeur Microsoft Cloud: Asie, Australie et Pacifique</span><span class="sxs-lookup"><span data-stu-id="86858-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[<span data-ttu-id="86858-117">Contrat de revendeur Microsoft Cloud: Asie, Australie et Pacifique</span><span class="sxs-lookup"><span data-stu-id="86858-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[<span data-ttu-id="86858-118">Contrat de revendeur Microsoft Cloud: Europe, Moyen-Orient et Afrique</span><span class="sxs-lookup"><span data-stu-id="86858-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="86858-118">Contrat de revendeur Microsoft Cloud: Europe, Moyen-Orient et Afrique</span><span class="sxs-lookup"><span data-stu-id="86858-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="86858-119">Contrat de revendeur Microsoft Cloud: Japon</span><span class="sxs-lookup"><span data-stu-id="86858-119">Microsoft Cloud Reseller agreement – Japan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="86858-119">Contrat de revendeur Microsoft Cloud: Japon</span><span class="sxs-lookup"><span data-stu-id="86858-119">Microsoft Cloud Reseller agreement – Japan</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="86858-120">Contrat de revendeur Microsoft Cloud: Corée du Sud</span><span class="sxs-lookup"><span data-stu-id="86858-120">Microsoft Cloud Reseller agreement – Korea</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="86858-120">Contrat de revendeur Microsoft Cloud: Corée du Sud</span><span class="sxs-lookup"><span data-stu-id="86858-120">Microsoft Cloud Reseller agreement – Korea</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="86858-121">Contrat de revendeur Microsoft Cloud: Taïwan</span><span class="sxs-lookup"><span data-stu-id="86858-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="86858-121">Contrat de revendeur Microsoft Cloud: Taïwan</span><span class="sxs-lookup"><span data-stu-id="86858-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="86858-122">Contrat de revendeur Microsoft Cloud: MicrosoftCloud pour le gouvernement des États-Unis</span><span class="sxs-lookup"><span data-stu-id="86858-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[<span data-ttu-id="86858-122">Contrat de revendeur Microsoft Cloud: MicrosoftCloud pour le gouvernement des États-Unis</span><span class="sxs-lookup"><span data-stu-id="86858-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a><span data-ttu-id="86858-123">Modèles de client du contrat Microsoft Cloud</span><span class="sxs-lookup"><span data-stu-id="86858-123">Microsoft Cloud Agreement customer templates</span></span>
 
