@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995963"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098846"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d'un client
 
@@ -105,7 +105,7 @@ Non, le support téléphonique n'est pas proposé pour ce programme.
 
 Si vous vous connectez directement au portail Microsoft&nbsp;Azure, vous l'affichez dans votre propre contexte, pas dans celui du client. Par conséquent, vous devez vous connecter directement au portail Microsoft&nbsp;Azure uniquement lorsque vous créez une demande de service pour vos propres abonnements.
 
-Votre droit au support du programme Fournisseur de solutions Cloud ne comprend pas de support pour votre propre abonnement partenaire. Ainsi, lorsque vous créez une demande de service concernant votre propre abonnement partenaire, vous devez fournir un justificatif de droit au support. Il peut s'agir par exemple d'un ID contrat MPN, Premier ou d'une formule d'assistance Azure. Reportez-vous au [FAQ du support Azure](http://go.microsoft.com/fwlink/?LinkId=717532).
+Votre droit au support du programme Fournisseur de solutions Cloud ne comprend pas de support pour votre propre abonnement partenaire. Ainsi, lorsque vous créez une demande de service concernant votre propre abonnement partenaire, vous devez fournir un justificatif de droit au support. Il peut s'agir par exemple d'un ID contrat MPN, Premier ou d'une formule d'assistance Azure. Reportez-vous au [FAQ du support Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
 **Que se passe-t-il si je me connecte au portail du Centre d'administration Office&nbsp;365 sans passer par l'Espace partenaires&nbsp;?**
 
@@ -113,7 +113,7 @@ Si vous vous connectez directement au Centre d'administration Office&nbsp;365, v
 
 **Comment obtenir un support supplémentaire Dynamics 365?**
 
-Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou si vous voulez davantage le support technique:
+Si vous rencontrez des problèmes liés à: Dynamics 365 Plan abonnements, gestion des licences, facturation, Finance & opérations, IURs ou que vous avez besoin d’un support technique supplémentaire:
  
 Contactez le [Support Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

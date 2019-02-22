@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot windows, autopilot de microsoft, déploiement zero touch, oobe, écrans d’ouverture de session, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083402"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098826"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personnaliser les out-of-box d’un appareil avec des profils Windows Autopilot
 
@@ -25,7 +25,7 @@ Si vous gérez les appareils clients, vous devrez peut-être personnaliser l’e
 Si vous n’êtes pas déjà familiarisé avec Autopilot, passez en revue les informations contenues dans les articles suivants:
 
 - [Vue d’ensemble de Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [Guide de référence de déploiement AutoPilot](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Guide de référence de déploiement AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Vue d'ensemble
 

@@ -6,18 +6,18 @@ description: Avant de vous inscrire au programme Fournisseur de solutionsCloud d
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796332"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098816"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
 
 **S’applique à:**
 
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 
 Les partenaires Microsoft peuvent désormais vendre les solutions cloud de Microsoft aux entités fédérales, étatiques, locales et tribales des États-Unis via le programme Fournisseur de solutions Cloud concernant MicrosoftCloud pour le gouvernement des États-Unis. 
 
@@ -25,7 +25,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance privé
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
-Pour pouvoir vous inscrire au programme Fournisseur de solutions Cloud concernant MicrosoftCloud pour le gouvernement des États-Unis, nous devons vérifier que votre société remplit les conditions de vente aux entités du gouvernement américain. Avant de lancer le processus d’inscription, complétez le [formulaire de validation de MicrosoftCloud pour le gouvernement](http://azuregov.microsoft.com/csp) pour que nous puissions vérifier l'éligibilité de votre entreprise. Une fois que nous aurons vérifié l’éligibilité de votre entreprise, nous vous enverrons un client Azure ActiveDirectory (Azure AD) spécifique de MicrosoftCloud pour le gouvernement des États-Unis.  
+Pour pouvoir vous inscrire au programme Fournisseur de solutions Cloud concernant MicrosoftCloud pour le gouvernement des États-Unis, nous devons vérifier que votre société remplit les conditions de vente aux entités du gouvernement américain. Avant de lancer le processus d’inscription, complétez le [formulaire de validation de MicrosoftCloud pour le gouvernement](https://azuregov.microsoft.com/csp) pour que nous puissions vérifier l'éligibilité de votre entreprise. Une fois que nous aurons vérifié l’éligibilité de votre entreprise, nous vous enverrons un client Azure ActiveDirectory (Azure AD) spécifique de MicrosoftCloud pour le gouvernement des États-Unis.  
 
 Pour créer un compte Espace partenaires et vous inscrire au programme Fournisseur de servicesCloud de MicrosoftCloud pour le gouvernement des États-Unis, vous devrez fournir les informations suivantes (pensez à collecter ces informations avant de lancer le processus d’inscription):
 
@@ -42,7 +42,7 @@ Pour créer un compte Espace partenaires et vous inscrire au programme Fournisse
 
 1.  Lancez le processus d’inscription [ici](https://partnercenter.microsoft.com/register/resellerusgjoinnow). 
 
-2.  Connectez-vous à l'aide des informations d'identification de l'administrateur général du client Azure AD de votre organisation pour Microsoft Cloud pour le gouvernement des États-Unis. Si votre organisation ne dispose pas d'un compte pour ce portail, vous pouvez en demander un en complétant le [formulaire de validation de MicrosoftCloud pour le gouvernement](http://azuregov.microsoft.com/csp).
+2.  Connectez-vous à l'aide des informations d'identification de l'administrateur général du client Azure AD de votre organisation pour Microsoft Cloud pour le gouvernement des États-Unis. Si votre organisation ne dispose pas d'un compte pour ce portail, vous pouvez en demander un en complétant le [formulaire de validation de MicrosoftCloud pour le gouvernement](https://azuregov.microsoft.com/csp).
 
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Étape2: s'inscrire pour participer au programme Fournisseur de solutions Cloud concernant MicrosoftCloud pour le gouvernement des États-Unis

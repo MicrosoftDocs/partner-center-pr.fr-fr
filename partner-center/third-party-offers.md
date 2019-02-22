@@ -6,12 +6,12 @@ description: À mesure que votre entreprise évolue, vous pouvez développer et 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cc92120866502244f73efd8de6874b5d3d8428a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 69a94d5c4bfbfd704bad3189dd72410e5466eb70
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796942"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098706"
 ---
 # <a name="third-party-offers"></a>Offres tierces 
 
@@ -42,9 +42,9 @@ Les offres tierces sont conçues pour faciliter la gestion et les transactions. 
 
 |**Pour**   |**Lisez**   |
 |------------------|:--------------------|
-|Obtenir une vue d’ensemble du programme tiers pour fournisseurs de solutions Cloud  |[Vue d’ensemble des ressources tierces]( http://assetsprod.microsoft.com/mpn/third-party-offers-overview.pptx)|
+|Obtenir une vue d’ensemble du programme tiers pour fournisseurs de solutions Cloud  |[Vue d’ensemble des ressources tierces](https://assetsprod.microsoft.com/mpn/third-party-offers-overview.pptx)|
 |Rechercher des produits tiers, se connecter avec des éditeurs de logiciels indépendants, comprendre les transactions et la facturation, etc.| [En savoir plus sur les offres tierces dans l'Espace partenaires](third-party-help.md) |
-|Obtenir des réponses à vos questions| [FAQ sur les offres tierces](http://assetsprod.microsoft.com/mpn/third-party-offers-faq.docx) |
-|Regarder une vidéo sur les offres tierces (10minutes et 16secondes)   |[Démonstration d'offres tierces](http://assetsprod.microsoft.com/mpn/third-party-offers-demo.wma)|
+|Obtenir des réponses à vos questions| [FAQ sur les offres tierces](https://assetsprod.microsoft.com/mpn/third-party-offers-faq.docx) |
+|Regarder une vidéo sur les offres tierces (10minutes et 16secondes)   |[Démonstration d'offres tierces](https://assetsprod.microsoft.com/mpn/third-party-offers-demo.wma)|
 
 

@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: Fournisseur de solutions cloud, partenaire direct, facture direct, configuration requise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 9eaa4eae326bda4ed37fa750d588df961b573822
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083355"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098696"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Nouvelles conditions requises pour les partenaires directs du programme Fournisseur de solutions cloud
 
@@ -45,4 +45,4 @@ Une fois que vous passez en revue la configuration minimale requise ci-dessus, v
 
 Si vous décidez de passer d’une entreprise de facture direct à activités de revendeur indirect, il existe plusieurs étapes, que vous devez prendre. Pour en savoir plus sur la transition, lisez la [Transition à partir de partenaire direct de fournisseur de solutions Cloud (CSP) par revendeur indirect fournisseur de solutions cloud](transition-direct-to-indirect.md). 
 
-Voir également [des informations supplémentaires sur devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) et [facture Direct par revendeur indirect fAQ](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+Voir également [des informations supplémentaires sur devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) et [facture Direct par revendeur indirect fAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

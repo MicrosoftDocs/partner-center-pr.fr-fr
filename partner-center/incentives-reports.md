@@ -6,12 +6,12 @@ description: Les programmes de primes incitatives Ventes OSA et Utilisation des 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796182"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098716"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Les rapports de données dynamiques remplacent les rapports mensuels pour certains programmes de primes incitatives
 
@@ -35,7 +35,7 @@ Actuellement, cela affecte les programmes de primes incitatives Ventes OSA et Ut
  
 ## <a name="start-using-the-new-reporting-functionality"></a>Commencer à utiliser la nouvelle fonctionnalité de création de rapports: 
 
-1. Téléchargez et lisez les ressources de préparation sur MPN [Création de rapports sur les primes incitatives des partenaires sur Partner Incentives Experience](http://aka.ms/osareadiness ).
+1. Téléchargez et lisez les ressources de préparation sur MPN [Création de rapports sur les primes incitatives des partenaires sur Partner Incentives Experience](https://aka.ms/osareadiness ).
 
 2. Accédez à [PIE](https://partnerincentives.microsoft.com/)
 

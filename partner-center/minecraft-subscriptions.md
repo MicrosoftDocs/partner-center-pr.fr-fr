@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Vendre des partenaires éducation autorisés, éducation, à l’éducation, les établissements scolaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: e71c28f1fcf9b47fffea21eddfa2ab6a2e4313ab
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062327"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098756"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendre des abonnements Minecraft: EducationEdition aux clients de l’éducation
 
@@ -23,7 +23,7 @@ ms.locfileid: "9062327"
 Les partenaires qui travaillent avec des établissements scolaires peuvent leur proposer des abonnements **Minecraft: EducationEdition**. Vous achetez l’abonnement pour le compte du client dans l’espace partenaires, puis le client télécharge le logiciel à partir du [Microsoft Store pour éducation](https://educationstore.microsoft.com). 
 
 >[!IMPORTANT]
->Pour vendre des offres Éducation aux clients de l’éducation, vous devez être inscrit dans le programme fournisseur de solutions Cloud (CSP) et être un [Revendeur Éducation agréé (AEP)](https://www.mepn.com). En outre, votre client doit être un [Utilisateur Éducation qualifié](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
+>Pour vendre des offres Éducation aux clients de l’éducation, vous devez être inscrit dans le programme fournisseur de solutions Cloud (CSP) et être un [Revendeur Éducation agréé (AEP)](https://www.mepn.com). En outre, votre client doit être un [Utilisateur Éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
 
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Acheter **Minecraft: Education Edition** pour le compte de votre client

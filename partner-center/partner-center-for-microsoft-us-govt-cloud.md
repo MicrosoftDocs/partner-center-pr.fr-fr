@@ -6,14 +6,14 @@ description: L'Espace partenaires de MicrosoftCloud pour le gouvernement des Ét
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 245390fdea46f891f3cc75830bd11952d56dbcdc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9c5d6ed400b416324546ef90ef04a18ecf5dbcf6
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796712"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098746"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Espace partenaires de Microsoft Cloud for US Government
 
 **S’applique à:**
 
@@ -27,7 +27,7 @@ Certaines fonctionnalités disponibles dans l'Espace partenaires peuvent ne pas 
 
 Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distincte de [MicrosoftAzure](https://azure.microsoft.com/en-us/overview/clouds/government/) qui répond aux exigences de protection des données des règles de sécurité, de confidentialité et de conformité du gouvernement. 
 
-Pour plus d’informations, consultez la [Fiche technique de MicrosoftCloud pour le gouvernement des États-Unis](http://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF).
+Pour plus d’informations, consultez la [Fiche technique de MicrosoftCloud pour le gouvernement des États-Unis](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF).
 
 ## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis: vendre des solutions Cloud aux entités gouvernementales des États-Unis.
 

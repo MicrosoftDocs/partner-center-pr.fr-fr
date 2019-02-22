@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d'abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795972"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098776"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795972"
 
 -  Espace partenaires
 
-Si votre client a besoin de davantage de sièges que dans son abonnement actuel, ou d’une autre version avec des services supplémentaires, vous pouvez mettre à jour l’abonnement. Pour plus d’informations, voir [Basculer vers une autre offre Office&nbsp;365 pour les entreprises](http://go.microsoft.com/fwlink/p/?LinkId=723577).
+Si votre client a besoin de davantage de sièges que dans son abonnement actuel, ou d’une autre version avec des services supplémentaires, vous pouvez mettre à jour l’abonnement. Pour plus d’informations, voir [Basculer vers une autre offre Office&nbsp;365 pour les entreprises](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -93,7 +93,7 @@ Pour plus d’informations sur l’impact sur la facturation, consultez les dét
 1.  Pour voir si un abonnement peut être mis à niveau, choisissez votre client, puis ouvrez la liste de ses abonnements.
 2.  Si l’abonnement peut être mis à niveau, vous verrez une icône d’information juste à côté de son nom. Pointez sur cette icône, puis sélectionnez **Mettre à niveau maintenant**.
 3.  Sélectionnez la nouvelle offre, puis choisissez **Envoyer**.
-4.  Vous aurez peut-être des tâches supplémentaires à effectuer pour migrer certains comptes utilisateur pour certains services. Si tel est le cas, l’espace partenaires fournit une liste des comptes et services concernés. Pour obtenir de l’aide, consultez l’article [Problèmes de réaffectation des licences lorsque vous changez de plan dans Office&nbsp;365](http://go.microsoft.com/fwlink/p/?LinkId=723576) de la base de connaissances.
+4.  Vous aurez peut-être des tâches supplémentaires à effectuer pour migrer certains comptes utilisateur pour certains services. Si tel est le cas, l’espace partenaires fournit une liste des comptes et services concernés. Pour obtenir de l’aide, consultez l’article [Problèmes de réaffectation des licences lorsque vous changez de plan dans Office&nbsp;365](https://go.microsoft.com/fwlink/p/?LinkId=723576) de la base de connaissances.
 
  
 

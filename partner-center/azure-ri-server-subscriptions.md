@@ -7,12 +7,12 @@ author: v-petand
 ms.author: v-petand
 keywords: Azure, abonnements, machine virtuelle, réservation, réservé instance
 ms.localizationpriority: medium
-ms.openlocfilehash: e17fc04ad5428229af7c2b61368cf03890612822
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.openlocfilehash: 697dd035682da4743e79cab3f0f222e4791dc636
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382935"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098836"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -65,28 +65,28 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 
 **Préparation des ventes**
 
-- [Azure réservations et les abonnements de serveur avec une vue d’ensemble de Azure Hybrid Benefit (mis à jour)](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [Fiche de vente](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Espace Forum aux questions des réservations Azure (mis à jour)](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Espace FAQ pour les réservations Azure et de la base de données SQL](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Base de données SQL en vue d’ensemble de Azure (nouveau)](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Azure réservations et les abonnements de serveur avec une vue d’ensemble de Azure Hybrid Benefit (mis à jour)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Fiche de vente](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+- [Espace Forum aux questions des réservations Azure (mis à jour)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Espace FAQ pour les réservations Azure et de la base de données SQL](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Base de données SQL en vue d’ensemble de Azure (nouveau)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Vue d’ensemble de la tarification de Azure](https://azure.microsoft.com/pricing/#explore-cost)
 - [Calculateur de prix Azure](https://azure.microsoft.com/pricing/calculator/)
-- Réservations Azure tarifs – afficher la liste de prix Microsoft Azure Reserved Instances dans la page de l’espace partenaires de [tarification et offres](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
-- Abonnements de serveur tarifs – voir la liste de prix d’abonnements logiciels dans la page de l’espace partenaires de [tarification et offres](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
+- Réservations Azure tarifs – afficher la liste de prix Microsoft Azure Reserved Instances dans la page de l’espace partenaires [propose de tarification &](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
+- Abonnements de serveur tarifs – voir la liste de prix d’abonnements logiciels dans la page de l’espace partenaires [propose de tarification &](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
 
 **Formation**
 
 - [Novembre 2018 Commercial séminaires en ligne de la préparation de la gestion des licences](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) portant sur les Services en ligne du fournisseur de solutions cloud, fournisseur de solutions cloud Azure et une mise à jour de licence en général (y compris Azure)
-- [La base de données SQL août réservé capacité et flexibilité de taille Instance - licence webinaire sur](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
+- [La base de données SQL août réservé & capacité Instance taille flexibilité - licence webinaire sur](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
 - [Abonnements de serveur juillet 2018 dans webinaire sur le fournisseur de solutions cloud](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
 - [Webinaire mois de mai 2018 réservations Azure](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 - [Mode de licence Azure dans l'Université des partenaires](https://aka.ms/azure_partner_licensing)
 
 **Opérations**
 
-- [Guide des opérations de Commerce moderne](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (mise à jour): un guide complet portant sur clé la stratégie et les aspects opérationnels, tels que les contrats, les commandes par le biais de l’espace partenaires, facturation, prix des détails de la liste, primes, fichier de rapprochement, API/SDK, Sandbox et Azure Partner Shared Services.
-- [Tableau des disponibilités et des devises client par pays/région pour les offres modernes](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [Guide des opérations de Commerce moderne](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (mise à jour): un guide complet portant sur clé la stratégie et les aspects opérationnels, tels que les contrats, les commandes par le biais de l’espace partenaires, facturation, prix des détails de la liste, primes, fichier de rapprochement, API/SDK, Sandbox et Azure Partner Shared Services.
+- [Tableau des disponibilités et des devises client par pays/région pour les offres modernes](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vendre des Instances réservées de Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Acheter des réservations MicrosoftAzure pour vos clients](https://go.microsoft.com/fwlink/?linkid=872807)
 - [Gérer des réservations pour vos clients](https://go.microsoft.com/fwlink/?linkid=872808)
