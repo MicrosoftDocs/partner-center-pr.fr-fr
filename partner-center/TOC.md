@@ -15,12 +15,12 @@
 
 # [Fournisseur de solutions Cloud](csp-overview.md)
 ## [S'inscrire au programme Fournisseur de solutions Cloud](enrolling-in-the-csp-program.md)
-## [Nouvelles conditions requises pour les partenaires directs du programme Fournisseur de solutions cloud](direct-partner-new-requirements.md) 
+## [Nouvelles conditions requises pour les partenaires directs du programme Fournisseur de solutions cloud](direct-partner-new-requirements.md)
+## [Contrats Microsoft Cloud par région et langue](agreements.md)
 ##[Transition de partenaire de facturation directe fournisseur de solutions Cloud à revendeur indirect fournisseur de solutions Cloud](transition-direct-to-indirect.md)
 ## [Contrats, listes de prix et offres pour fournisseurs de solutionsCloud](csp-documents-and-learning-resources.md)
 ## [Vue d’ensemble de l’autorisation régionale Fournisseur de solutions Cloud](regional-authorization-overview.md)
 ## [Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud](csp-regional-authorization-tenant-consolidation.md)
-## [Modèles de contrat client](agreements.md)
 
 ## [Appliquer pour vendre sur des clouds nationaux](csp-national-clouds-overview.md)
 ### [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
