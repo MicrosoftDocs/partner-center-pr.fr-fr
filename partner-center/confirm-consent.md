@@ -1,18 +1,18 @@
 ---
 title: Confirmer l’acceptation du client du contrat Microsoft Cloud | L’espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 02/22/2019
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
 keywords: client, clients, consentement, MCA, du contrat Microsoft Cloud, modèles de contrat client
 ms.localizationpriority: medium
-ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
+ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083192"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "9099437"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmer l’acceptation du client du contrat Microsoft Cloud
 
@@ -46,7 +46,7 @@ Pour plus d’informations, voir la confirmation d’acceptation du contrat Micr
 
 **7 novembre 2018**
 
--   Les partenaires de facture direct et les fournisseurs indirects **doit** confirment l’acceptation du client du contrat de Microsoft Cloud. Confirmation est *obligatoire*.
+-   Les partenaires de facture direct et les fournisseurs indirects **doit** confirment acceptation du client du contrat Microsoft Cloud lors de transactions par le biais du tableau de bord de l’espace partenaires. Confirmation est *obligatoire*.
 
 -   Si la confirmation n’est pas fournie pour un client donné:
 
@@ -57,6 +57,33 @@ Pour plus d’informations, voir la confirmation d’acceptation du contrat Micr
 -   Confirmation de l’acceptation du client peut être effectuée via l’espace partenaires ou les API de l’espace.
 
 -   Confirmation de l’acceptation du client est uniquement pris en charge avec Microsoft Cloud Public.
+
+-   Cela s’applique à des environnements de production et bac à sable.
+
+**11 mars 2018**
+
+- Les partenaires de facture direct et Indirect Providersmust confirment acceptation du client du contrat Microsoft Cloud dans l’environnement de bac à sable CSP lors de transactions par le biais des API de l’espace.
+- Si la confirmation n’est pas fournie pour un client donné:
+
+    - Il se peut que vous ne pourrez pas créer de nouvelles commandes pour ce client à l’aide des API de l’espace.
+ 
+    - Vous ne serez en mesure de modifier le nombre de sièges des abonnements basés sur les sièges existants pour ce client à l’aide des API de l’espace.
+- Confirmation de l’acceptation du client est uniquement pris en charge avec Microsoft Cloud Public. 
+
+**Le 22 mars, 12018**
+
+- Les partenaires de facture direct et Indirect Providersmust confirment acceptation du client du contrat Microsoft Cloud dans l’environnement de production CSP lors de transactions par le biais des API de l’espace.
+
+- Si la confirmation n’est pas fournie pour un client donné:
+  - Il se peut que vous ne pourrez pas créer de nouvelles commandes pour ce client à l’aide des API de l’espace.
+
+  - Vous ne serez en mesure de modifier le nombre de sièges des abonnements basés sur les sièges existants pour ce client à l’aide des API de l’espace.
+-  Confirmation de l’acceptation du client est uniquement pris en charge avec Microsoft Cloud Public.
+
+
+
+
+
 
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>Confirmation d’acceptation du client dans l’espace partenaires
