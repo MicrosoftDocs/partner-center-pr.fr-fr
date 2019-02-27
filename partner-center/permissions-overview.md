@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: rôles, autorisations, administrateur, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086727"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117212"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles et des autorisations aux utilisateurs
 
@@ -74,7 +74,7 @@ CPVs développer des applications pour une utilisation par les partenaires de fo
 
 |**Rôle** | **Ce que vous pouvez faire**|
 |----------------------------|:----------------------------|
-|Administrateur MPN|•CAN ajouter des utilisateurs non clients
+|Administrateur partenaire MPN|•CAN ajouter des utilisateurs non clients
 ||• Afficher, créer et gérer les demandes de service de l’espace
 ||• Vue juridiques, organisation, entreprise et des profils MPN
 ||• Afficher les détails utilisateur et les données sur leurs compétences
@@ -82,8 +82,9 @@ CPVs développer des applications pour une utilisation par les partenaires de fo
 ||• Afficher et gérer les avantages
 ||Achat et • vue aux offres MPN
 ||• Vue MPN offre les factures et l’historique des commandes
-||• Peut afficher des données de contribution partenaire
+||• Afficher les données contribution partenaire
 ||• Utilisable dans l’outil de Validation de document|
+||-Permet d’afficher analytique des données client
 |Administrateur de compte| • Peut ajouter des utilisateurs non clients
 ||• Ajouter ou supprimer des emplacements
 ||-Gérer les profils liés aux comptes de que vous êtes l’administrateur 
