@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062377"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122276"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -464,34 +464,428 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tbody>
 </table>
 
-## <a href="" id="onetimefiles"></a>Champs du fichier d’achat ponctuel
+## <a href="" id="marketplacefilefields"></a>Champs des fichiers à usage unique et périodique
 
-|**Champ** |**Définition**|
-|:----------------|:-----------------------------|
-|PartnerId |ID partenaire au format GUID. |
-|CustomerId |ID unique de Microsoft, au format GUID, utilisé pour identifier le client. |
-|CustomerName |Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système. |
-|CustomerDomainName |Le nom de domaine du client. |
-|CustomerCountry |Le pays dans lequel se trouve le client. |
-|InvoiceNumber |Le numéro de la facture dans laquelle la transaction spécifiée apparaît. |
-|MpnId |L'identifiant MPN du partenaire fournisseur de solutions Cloud (direct ou indirect). |
-|ID MPN revendeur |Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect. IDMPN du revendeur de référence pour la réservation. Cet ID correspond à l’ID de revendeur indiqué pour la réservation dans l’Espace partenaires. Si un partenaire Fournisseur de solutions Cloud a vendu la réservation directement au client, son ID MPN est indiqué deux fois, en tant qu’ID MPN et ID MPN revendeur. Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire. Si le partenaire fournisseur de solutions Cloud supprime un ID revendeur, cette valeur est définie sur-1. |
-|OrderId |Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la réservation Azure lors du contact avec le support technique, mais pas pour le rapprochement. |
-|OrderDate |La date à laquelle la commande a été passée. |
-|ProductId |ID du produit. |
-|SkuId  |L’ID d'une référence SKU spécifique. |
-|AvailabilityId |L’ID d'une disponibilité spécifique. La «Disponibilité» indique si une référence spécifique est disponible ou non à l'achat pour un pays, une devise, un secteur etc. |
-|SkuName  |Le titre d'une référence spécifique. |
-|ProductName |Le nom du produit. |
-|ChargeType |Le type de frais ou d’ajustement. |
-|UnitPrice |Prix par produit commandé. |
-|Quantité |Nombre de produits commandés. |
-|Sous-total |Total avant impôt. Vérifiez que le sous-total correspond au total prévu, en cas de remise. |
-|TaxTotal |La somme totale de toutes les taxes applicables. |
-|Total |Le montant total de cet achat. |
-|Devise |Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’elle correspond à votre première facture, et revérifiez après toute mise à jour importante de la plateforme de facturation. |
-|DiscountDetails |Liste détaillée des remises éventuelles pertinentes. |
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Colonne</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
 
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>Identificateur unique de client Microsoft Azure Active Directory pour une entité de facturation spécifique, au format GUID. Non requis pour le rapprochement, peut contenir des informations utiles. Identique dans toutes les lignes.</p></td>
+</tr>
+
+<tr class="even">
+<td>Id de client</td>
+<td><p>Microsoft Azure Active Directory client ID unique, au format GUID, utilisé pour identifier le client.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nom du client</td>
+<td><p>Nom de l’entreprise du client comme indiqué dans l’Espace partenaires.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerDomainName</td>
+<td><p>Nom de domaine du client, afin d’identifier le client. Cela ne doit pas être utilisée pour identifier de manière unique le client que le client/partenaire peut mettre à jour le domaine de redirection vers un microsite/par défaut via le portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Pays client</td>
+<td><p>Le pays dans lequel se trouve le client.</p></td>
+</tr>
+
+<tr class="even">
+<td>Numéro de facture</td>
+<td><p>Le numéro de la facture dans laquelle la transaction spécifiée apparaît.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MpnId</td>
+<td><p>ID&nbsp;MPN du partenaire&nbsp;CSP.</p></td>
+</tr>
+
+<tr class="even">
+<td>MpnId revendeur</td>
+<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ID de commande</td>
+<td><p>Identificateur unique pour une commande dans la plateforme Microsoft commerce. Peut être utile pour identifier la commande lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
+</tr>
+
+<tr class="even">
+<td>Date de la commande</td>
+<td><p>La date à laquelle la commande a été passée.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ProductId</td>
+<td><p>ID du produit.</p></td>
+</tr>
+
+<tr class="even">
+<td>SkuId</td>
+<td><p>L’ID d'une référence SKU spécifique.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AvailabilityId</td>
+<td><p>L’ID d'une disponibilité spécifique. La «Disponibilité» indique si une référence spécifique est disponible ou non à l'achat pour un pays, une devise, un secteur etc.</p></td>
+</tr>
+
+<tr class="even">
+<td>Nom de la référence (SKU)</td>
+<td><p>Le titre d'une référence spécifique.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nom du produit</td>
+<td><p>Le nom du produit.</p></td>
+</tr>
+
+<tr class="even">
+<td>Nom de l’éditeur</td>
+<td><p>Le nom de l’Éditeur du produit.</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>ID unique pour cet éditeur.</p></td>
+</tr>
+
+<tr class="even">
+<td>Description de l’abonnement</td>
+<td><p>Nom convivial de l’abonnement.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ID d’abonnement</td>
+<td><p>Identificateur unique pour un abonnement dans la plateforme Microsoft commerce. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement. Ce numéro est différent de l’ID d’abonnement sur la Console d’administration du partenaire.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>Date de début des frais. L’heure indique toujours le début de la journée, 0:00.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>Jour de fin des frais. L’heure indique toujours la fin de la journée, 23:59.</p></td>
+</tr>
+
+<tr class="even">
+<td>Terme et Billingcycle</td>
+<td><p>La durée et le cycle de facturation de l’achat. Par exemple, «1 an, chaque mois.»</p></td>
+</tr>
+
+<tr class="odd">
+<td>Type de facturation</td>
+<td><p>Le type de frais ou d’ajustement.</p></td>
+</tr>
+
+<tr class="even">
+<td>Prix unitaire</td>
+<td><p>Le prix tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Prix unitaire effectifs</td>
+<td><p>Le prix unitaire une fois les ajustements.</p></td>
+</tr>
+
+<tr class="even">
+<td>Quantité</td>
+<td><p>Nombre d’unités. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Type d’unité</td>
+<td><p>Le type d’unité achetée.</p></td>
+</tr>
+
+<tr class="even">
+<td>DiscountDetails</td>
+<td><p>Explication les remises applicables.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Sous-total</td>
+<td><p>Total avant impôt. Vérifiez que le sous-total correspond au total prévu, en cas de remise.</p></td>
+</tr>
+
+<tr class="even">
+<td>Total des taxes</td>
+<td><p>Montant de la taxe sur les frais, selon les règles fiscales et les circonstances spécifiques de votre marché.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Total</td>
+<td><p>Total après impôts. Vérifie si les impôts sont retenus sur la facture.</p></td>
+</tr>
+
+<tr class="even">
+<td>Devise</td>
+<td><p>Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’elle correspond à votre première facture, et revérifiez après toute mise à jour importante de la plateforme de facturation.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AlternateID</td>
+<td><p>Un identificateur de remplacement pour un ID.</p></td>
+</tr>
+</tbody>
+</table>
+
+
+## <a href="" id="dailyratedusagefields"></a>Champs des fichiers utilisation quotidienne-évalués
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Colonne</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>ID partenaire au format GUID.</p></td>
+</tr>
+
+<tr class="even">
+<td>PartnerName</td>
+<td><p>Nom du partenaire.</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerId</td>
+<td><p>ID unique de Microsoft, au format GUID, utilisé pour identifier le client.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerCompanyName</td>
+<td><p>Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerDomainName</td>
+<td><p>Le nom de domaine du client. Non disponible pour l’activité en cours.</p></td>
+</tr>
+
+<tr class="even">
+<td>Pays client</td>
+<td><p>Le pays dans lequel se trouve le client.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>ID&nbsp;MPN du partenaire&nbsp;CSP.</p></td>
+</tr>
+
+<tr class="even">
+<td>Revendeur MPNID</td>
+<td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Non disponible pour l’activité en cours.</p></td>
+</tr>
+
+<tr class="odd">
+<td>InvoiceNumber</td>
+<td><p>Le numéro de la facture dans laquelle la transaction spécifiée apparaît. Non disponible pour l’activité en cours.</p></td>
+</tr>
+
+<tr class="even">
+<td>ProductId</td>
+<td><p>ID du produit.</p></td>
+</tr>
+
+<tr class="odd">
+<td>SkuId</td>
+<td><p>L’ID d'une référence SKU spécifique.</p></td>
+</tr>
+
+<tr class="even">
+<td>AvailabilityId</td>
+<td><p>L’ID d'une disponibilité spécifique. La «Disponibilité» indique si une référence spécifique est disponible ou non à l'achat pour un pays, une devise, un secteur etc.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nom de la référence (SKU)</td>
+<td><p>Le titre d'une référence spécifique.</p></td>
+</tr>
+
+<tr class="even">
+<td>Nom de l’éditeur</td>
+<td><p>Le nom de l’éditeur.</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>L’ID de l’éditeur, au format GUID. Non disponible pour l’activité en cours.</p></td>
+</tr>
+
+<tr class=”even">
+<td>Description de l’abonnement</td>
+<td><p>Le nom de l’offre de service achetée par le client, telle que définie dans la liste des prix. (Il s'agit d'un champ identique au nom Offre).</p></td>
+</tr>
+
+<tr class="odd">
+<td>ID d’abonnement</td>
+<td><p>Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement. Ce numéro est différent de l’ID d’abonnement sur la Console d’administration du partenaire.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>Date de début du cycle de facturation, sauf pour les dates de données d’utilisation latentes jamais facturées (à partir du cycle de facturation précédent). L’heure indique toujours le début de la journée, 0:00.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>Date de fin du cycle de facturation, sauf pour les dates de données d’utilisation latentes jamais facturées (à partir du cycle de facturation précédent). L’heure indique toujours la fin de la journée, 23:59.</p></td>
+</tr>
+
+<tr class="even">
+<td>Date d’utilisation</td>
+<td><p>Date de l’utilisation du service.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Type d’indicateur</td>
+<td><p>Le type de mètres.</p></td>
+</tr>
+
+<tr class="even">
+<td>Catégorie de compteur</td>
+<td><p>Le service de niveau supérieur pour l’utilisation.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Id compteur</td>
+<td><p>L’ID de la jauge utilisée.</p></td>
+</tr>
+
+<tr class="even">
+<td>Jauge sous-catégorie</td>
+<td><p>Le type de service Azure qui affecte le taux.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nom de la jauge</td>
+<td><p>L’unité de mesure relative à la jauge consommée.</p></td>
+</tr>
+
+<tr class="even">
+<td>Région de la jauge</td>
+<td><p>Cette colonne identifie l’emplacement d’un centre de données dans la région (le cas échéant).</p></td>
+</tr>
+
+<tr class="odd">
+<td>Unit</td>
+<td><p>Unité de la ressource nom.</p></td>
+</tr>
+
+<tr class="even">
+<td>Quantité consommée</td>
+<td><p>Quantité de service utilisé (heures, Go, etc.) pendant la période en question. Inclut également toute utilisation non facturée pour les périodes précédentes.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Emplacement de la ressource</td>
+<td><p>Le centre de données dans laquelle la jauge est en cours d’exécution.</p></td>
+</tr>
+
+<tr class="even">
+<td>Service consommé</td>
+<td><p>Le service de plateforme Azure que vous avez utilisé.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Groupe de ressources</td>
+<td><p>Le groupe de ressources dans lequel la jauge déployée est en cours d’exécution.</p></td>
+</tr>
+
+<tr class="even">
+<td>URI de ressource</td>
+<td><p>L’URI de la ressource utilisée.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Type de frais</td>
+<td><p>Le type de frais ou d’ajustement. Non disponible pour l’activité en cours.</p></td>
+</tr>
+
+<tr class="even">
+<td>Prix unitaire</td>
+<td><p>Prix par licence, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Quantité</td>
+<td><p>Nombre de licences. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
+</tr>
+
+<tr class="even">
+<td>Type d’unité</td>
+<td><p>Le type d’unité la jauge est facturé dans. Non disponible pour l’activité en cours.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Facturation avant impôts</td>
+<td><p>Montant total avant impôt.</p></td>
+</tr>
+
+<tr class="even">
+<td>Devise de facturation</td>
+<td><p>La devise dans une région géographique du client</p></td>
+</tr>
+
+<tr class="odd">
+<td>Prix total avant impôt</td>
+<td><p>La tarification avant les taxes sont ajoutées.</p></td>
+</tr>
+
+<tr class="even">
+<td>Devise de tarification</td>
+<td><p>La devise dans la liste de prix.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Service Info 1</td>
+<td><p>Nombre de connexions ServiceBus qui ont été configurées et utilisées sur un jour donné.</p></td>
+</tr>
+
+<tr class="even">
+<td>Informations relatives au service 2</td>
+<td><p>Un champ hérité qui capture les métadonnées spécifiques au service facultatives.</p></td>
+</tr>
+
+<tr class="odd">
+<td>étiquettes</td>
+<td><p>Balises que vous affectez à la jauge dans l’ordre pour regrouper les enregistrements de facturation. Par exemple, vous pouvez utiliser des balises pour distribuer des coûts par le département informatique qui utilise la jauge.</p></td>
+</tr>
+
+<tr class="even">
+<td>Informations supplémentaires</td>
+<td><p>Toute information supplémentaire non couverte dans d’autres colonnes.</p></td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## <a href="" id="charge_types"></a>Mise en correspondance des frais entre une facture et le fichier de rapprochement

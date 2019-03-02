@@ -1,21 +1,21 @@
 ---
-title: Signaler des problèmes au nom d'un client | Espace partenaires
+title: Signaler des problèmes au nom d’un client | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
-Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
+ms.date: 03/01/2019
+Description: Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et qui répond aux critères décrits dans Faire remonter des problèmes à Microsoft, déposez un ticket de support pour lui.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+Keywords: demande de service, ticket de service, prend en charge, droit, aobo, aobo Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098846"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122196"
 ---
-# <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d'un client
+# <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d’un client
 
 **S'applique à**
 
@@ -25,7 +25,7 @@ ms.locfileid: "9098846"
 
 Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et qui répond aux critères décrits dans [Faire remonter des problèmes à Microsoft](escalate-problems-to-microsoft.md), déposez un ticket de support pour lui. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
 
-**Envoyer une demande de service pour un client**
+## <a name="submit-a-service-request-for-a-customer"></a>Envoyer une demande de service pour un client
 
 1.  Dans le menu **Espace partenaires** , sélectionnez les **demandes de Service** , puis sur **demande du client**. 
 
@@ -33,13 +33,14 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 
 3.  À partir du menu déroulant **Nouvelle demande**, sélectionnez **Azure** ou **Office365, Dynamics365, Enterprise Mobility Suite**. Vous êtes alors redirigé vers le portail Microsoft Azure ou vers le Centre d'administration Office&nbsp;365.
 
-**MicrosoftAzure**
+### <a name="microsoft-azure"></a>MicrosoftAzure
 
-**Remarque** Lorsque vous avez besoin créer une demande de service pour votre client dans Azure, tenez compte des éléments suivants:
-
-- Afin que vous puissiez créer des demandes de service pour votre client dans Azure, votre fournisseur indirect doit vous accorder le qu'accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office365. 
-
-- Bien que l’administrateur du support technique dans l’espace partenaires ne peuvent pas créer des demandes de service dans le portail de service Azure, ce qu’ils peuvent faire est de créer un groupe de prise en charge dans le portail de service Azure et accorder des autorisations de ce groupe pour vous connecter des demandes de support.
+> [!IMPORTANT]
+> Lorsque vous avez besoin créer une demande de service pour votre client dans Azure, tenez compte des éléments suivants:
+>
+>- Afin que vous puissiez créer des demandes de service pour votre client dans Azure, votre fournisseur indirect doit vous accorder le qu'accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office365. 
+>
+>- Bien que l’administrateur du support technique dans l’espace partenaires ne peuvent pas créer des demandes de service dans le portail de service Azure, ce qu’ils peuvent faire est de créer un groupe de prise en charge dans le portail de service Azure et accorder des autorisations de ce groupe pour vous connecter des demandes de support.
 
 1. Sélectionnez **Nouvelle demande de support**.
 2. Remplissez la demande de support à l'aide des informations appropriées, puis sélectionnez **Créer**&nbsp;:
@@ -64,17 +65,29 @@ Dans ces cas, vous pouvez utiliser la procédure suivante pour créer une demand
 4. Sélectionnez la **nouvelle demande de support**et suivez les invites pour créer la demande. 
 
  
-**Office&nbsp;365, Microsoft Dynamics&nbsp;CRM Online, Enterprise Mobility Suite**
+### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office&nbsp;365, Microsoft Dynamics&nbsp;CRM Online, Enterprise Mobility Suite
 
 1. Dans la section **Créer une demande de service**, choisissez la catégorie de rubriques de support appropriée. Vous devrez peut-être sélectionner **Plus...** pour afficher des rubriques supplémentaires.    
 2. Complétez le formulaire de demande de service, puis sélectionnez **Envoyer**.
 
->[**Remarque**]  Prenez soin d’inclure vos coordonnées, pas votre client de.
+   > [!TIP]
+   > Prenez soin d’inclure vos coordonnées, pas votre client de.
 
 3. Ensuite, passez en revue les demandes de service de votre client en accédant au Centre Office&nbsp;365 Admin et en sélectionnant **Voir tous les tickets de support**.
 
-## <a name="faq"></a>FAQ
+### <a name="support-for-azure-marketplace-products"></a>Prise en charge pour les produits Azure Marketplace
 
+Microsoft ne fournit pas de support technique pour les produits Azure Marketplace. Vous devez contacter le fournisseur de logiciels indépendants (ISV) qui a publié le produit pour obtenir un support.
+
+Pour trouver les informations de contact de l’éditeur de logiciels indépendant:
+
+1.  Sur la page Marketplace, sélectionnez le produit que vous avez besoin d’aide.
+2.  Sur la page du produit, vous trouverez des coordonnées du support technique. Cela peut être une ou plusieurs des éléments suivants:
+    - Un lien vers un point d’entrée prise en charge sur le site Web de l’éditeur de logiciels
+    - Un adresse e-mail de support 
+    - Un numéro de téléphone du contact de support
+
+## <a name="faq"></a>FAQ
 
 **Qu'est-ce qui est inclus dans le droit au support&nbsp;?**
 

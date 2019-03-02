@@ -1,19 +1,19 @@
 ---
 title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/01/2019
 description: Cet article inclut des liens vers des guides du programme, des contrats de partenariat, des contrats client, des listes de prix et des offres pour fournisseurs de solutions Cloud.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutionscloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098766"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122236"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme fournisseur de solutions cloud, contrats, listes de prix et offres
 
@@ -81,6 +81,7 @@ La tarification basée sur l'utilisation est dynamique et change fréquemment. M
 
 Achat ponctuel tarification est également dynamique. Des réservations Microsoft Azure et des abonnements correspondants à Windows Server et les logiciels SQL peut s’agir d’achats ponctuels. 
 
+Pour obtenir un tarif d’informations sur les offres Azure Marketplace, accédez à la **place de marché** dans le menu de navigation de gauche de l’espace partenaires. Sélectionnez un produit pour afficher des informations sur l’éditeur, références (SKU) et la tarification. Prix de ces produits Azure Marketplace peuvent changer fréquemment. Sera disponible très prochainement, nous vous fournissons une option pour exporter une liste de toutes les données de tarification, mise à jour quotidiennement. Nous allons également être accès actuel aux données de prix via les API. Une fois que ces options sont disponibles, nous mettrons à jour cette page avec plus d’informations sur la façon de les utiliser.
 
 ## <a name="offers"></a>Offres
 
@@ -88,5 +89,7 @@ Achat ponctuel tarification est également dynamique. Des réservations Microsof
 En tant que partenaire fournisseur de solutions cloud, vous pouvez vendre un large éventail de produits Microsoft, des services et des solutions, notamment Office 365, Enterprise Mobility Suite, Microsoft Dynamics et Microsoft Azure. Pour plus d’informations sur les offres sont disponibles à la vente dans ces familles de produits, consultez le tableau des offres CSP sur la page **tarification et offres** , disponible à partir de votre menu **Espace partenaires** . Ce document est mis à jour chaque mois.
 
 Pour les fournisseurs de solutions Cloud partenaires qui utilisent l'API d'enregistrement de l'utilisation Crest, Microsoft publie également une liste des services Azure pour les fournisseurs de solutions Cloud dans la page **Tarification et offres**.
+
+Pour en savoir plus sur les offres Azure Marketplace publiées par les éditeurs de logiciels indépendants (ISV), visitez la page **Marketplace** dans le menu de navigation de gauche. Actuellement, seuls les types de produit de SaaS (logiciels en tant que service) peuvent être achetés dans l’espace partenaires. Vous aurez besoin de visiter le portail Azure pour l’acquisition d’autres types d’offres d’Azure Marketplace.
 
 

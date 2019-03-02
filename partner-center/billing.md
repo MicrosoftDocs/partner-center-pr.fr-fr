@@ -2,18 +2,18 @@
 title: Facturation | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683448"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122176"
 ---
 # <a name="billing"></a>Facturation
 
@@ -42,6 +42,7 @@ Informations clés à connaître à propos de la facturation de vos clients:
 |:-----------------------------|:-----------------|
 |Notions de base sur la facturation, les paiements, les factures et plus encore   |[Notions de base de facturation](billing-basics.md)
 |Nouvelles fonctionnalités de facturation comme la facturation annuelle   |[FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md)|
+|Types de la facturation   |[Présentation des types de la facturation dans l’espace partenaires](billing-different-types.md)   |
 |Clé pour lire votre facture   |[Lire votre facture](read-your-bill.md)   |
 |Comment lire et utiliser votre fichier de rapprochement   |[Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)|
 |Scénarios de facturation courants (recherchez d’autres scénarios de facturation dans [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md))|[Scénarios de facturation courants](common-billing-scenarios.md)|
