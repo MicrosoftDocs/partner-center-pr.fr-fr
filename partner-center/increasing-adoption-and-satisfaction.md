@@ -2,21 +2,21 @@
 title: Augmenter l’adoption et la satisfaction client | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées.
+description: Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995833"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586722"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 
@@ -25,18 +25,18 @@ Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer l
 Vous pouvez afficher les données de l’ensemble de vos clients via le programme Fournisseur de solutions Cloud. Notez que certains clients peuvent acheter des licences auprès d’autres partenaires ou directement auprès de Microsoft. Dans ce cas, vous voyez le nombre total de licences chez tous les partenaires. Pour afficher uniquement vos propres licences, accédez aux abonnements du client.
 
 > [!NOTE]  
->  Actuellement, nous affichons uniquement les données pour Office365 et Dynamics365. Nous activerons les données de produits supplémentaires par la suite.
+>  Actuellement, nous affichons uniquement les données pour Office 365 et Dynamics 365. Nous activerons les données de produits supplémentaires par la suite.
 
 ## <a name="find-license-and-user-data"></a>Rechercher des données utilisateur et de licence
 
 
 **Pour un seul client**
 
--   Sélectionnez les **clients** à partir du **Centre de partenaires**, choisissez un client, puis sélectionnez les **informations sur le client**.
+-   Sélectionnez **clients** à partir de la **partenaires**, choisissez un client, puis sélectionnez **insights client**.
 
-**Dans votre portefeuille**
+**Sur votre portefeuille**
 
-1.  Sur l' **Espace partenaires**, sélectionnez **analyser**.
+1.  Sur le **partenaires**, sélectionnez **analyser**.
 2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
 
 Terminologie&nbsp;:
@@ -53,7 +53,7 @@ Terminologie&nbsp;:
 
     -   Si le client connaissait une rotation d’employés, et que la licence a été transférée à un nouvel utilisateur.
 
-    -   Si le client possède deuxabonnements pour une référence, mais que l’un d’eux est en période de grâce, désactivé ou annulé, les droits des deuxabonnements peuvent inscrire l’utilisation active pendant la période de 28jours, mais un seul est compté au total.
+    -   Si le client possède deux abonnements pour une référence, mais que l’un d’eux est en période de grâce, désactivé ou annulé, les droits des deux abonnements peuvent inscrire l’utilisation active pendant la période de 28 jours, mais un seul est compté au total.
 
     -   Si le client possède un abonnement d’évaluation, l’activité est comptée, mais l’abonnement n’est pas comptabilisé pour le nombre total de droits.
 
@@ -70,14 +70,14 @@ Si vous répondez à de nombreuses questions d’aide et de procédures, si les 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problème:</strong> Le taux d’adoption par est faible et de nombreuses licences ne & #39; t utilisé.</p>
-<p><strong>Éléments à prendre en compte:</strong> les clients ne comprennent peut-être pas la valeur ajoutée que le logiciel peut leur apporter. Vous pouvez les aider à découvrir comment l’intégrer à leurs activités quotidiennes pour simplifier les tâches qu’ils effectuent déjà ou développer de nouveaux types de productivité.</p>
-<p><strong>Marche à suivre:</strong> études de cas, témoignage des utilisateurs concernant des scénarios spécifiques, blogs de didacticiel ou vidéos.</p></td>
+<td><p><strong>Problème :</strong> Le taux d’adoption de l’utilisateur est faible et plusieurs licences ne&#39;t utilisé.</p>
+<p><strong>Éléments à prendre en compte :</strong> Les clients ne peuvent pas comprendre la valeur capable de fournir le logiciel. Vous pouvez les aider à découvrir comment l’intégrer à leurs activités quotidiennes pour simplifier les tâches qu’ils effectuent déjà ou développer de nouveaux types de productivité.</p>
+<p><strong>Ce qu’il faut essayer :</strong> Études de cas, des témoignages d’utilisateurs sur des scénarios spécifiques, des blogs didacticiel ou des vidéos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problème:</strong> le nombre d’appels pour des questions d’aide et de procédures est élevé.</p>
-<p><strong>Éléments à prendre en compte:</strong> les clients peuvent ne pas connaître le logiciel, la version du produit ou la tâche qu’ils doivent effectuer.</p>
-<p><strong>Marche à suivre:</strong> Vous pouvez utiliser une stratégie double avec formation (en présentiel ou en ligne) pour augmenter le client & #39; s expérience globale, et la promotion de certaines de ces options de libre-service auxquels clients.</p>
+<td><p><strong>Problème :</strong> Il existe un volume élevé d’appels au support technique pour les questions aide et procédures.</p>
+<p><strong>Éléments à prendre en compte :</strong> Les clients peuvent avoir à nouveau au logiciel, à la version du produit ou à leur tâche.</p>
+<p><strong>Ce qu’il faut essayer :</strong> Vous pouvez utiliser une stratégie de double de l’offre de formation (en personne ou en ligne) pour augmenter le client&#39;s expertise globale, que de promouvoir certaines des options libre-service disponibles pour les clients.</p>
 <p>Vous pouvez également repenser votre site de support pour inclure les options de libre-service décrites dans la rubrique <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Support autonome du client</a>, en plus des informations de contact du support.</p></td>
 </tr>
 </tbody>

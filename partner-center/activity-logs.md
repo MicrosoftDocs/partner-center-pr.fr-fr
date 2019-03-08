@@ -6,21 +6,21 @@ description: Les journaux d’activité fournissent des informations sur les tra
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
+Keywords: journaux d’activité, l’abonnement, abonnements, paiements, facturation, transactions
 ms.localizationpriority: medium
 ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683758"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586062"
 ---
 # <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 -  
 
 
@@ -30,14 +30,14 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
 **Afficher et exporter des journaux d’activité**
 
-1.  Dans le menu de **L’espace partenaires** , sélectionnez le **Journal d’activité**.
+1.  À partir de la **partenaires** menu, sélectionnez **journal d’activité**.
 2.  Sélectionnez la période du journal d’activité avec les champs **De** et **À**. Par défaut, le journal d’activité exporte le mois le plus récent.
 
     Chaque journal d’activité fournit un lien vers la page **Abonnements** du client répertorié.
 
     Cliquez sur la flèche vers le bas d’un journal d’activité pour afficher des détails sur une action journalisée. Un journal d’activité peut afficher une quantité importante de données, comme le classement de plusieurs produits.
 
-3.  Sélectionnez **Exporter le journal** pour copier les données de l’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur. Les colonnes contiennent les données suivantes:
+3.  Sélectionnez **Exporter le journal** pour copier les données de l’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur. Les colonnes contiennent les données suivantes&nbsp;:
     -   **Client affecté**&nbsp;: nom de la société du client
     -   **Action**&nbsp;: nom du produit correspondant à l’abonnement
     -   **Utilisateur partenaire**&nbsp;: partenaire associé à l’activité

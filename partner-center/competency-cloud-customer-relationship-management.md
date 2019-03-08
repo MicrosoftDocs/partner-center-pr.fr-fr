@@ -2,21 +2,21 @@
 title: Compétence Gestion de la relation client dans le cloud
 ms.topic: article
 ms.date: 10/29/2018
-description: Établissez votre réputation de fournisseur incontournable de MicrosoftDynamicsCRMOnline ou Dynamics365 en obtenant la compétence Gestion de la relation client dans le cloud.
-author: Daniel Simpson
+description: Établissez votre réputation de fournisseur incontournable de Microsoft Dynamics CRM Online ou Dynamics 365 en obtenant la compétence Gestion de la relation client dans le cloud.
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence, compétences, Gestion de la relation client dans le cloud
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eec85b1be8b16ec161733d956b90d6c11e9531e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 97213ea35a0188819c7d4d1132a98582b9e18fc7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796282"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586352"
 ---
 >[!IMPORTANT]
->Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Cloud Customer Relationship Management

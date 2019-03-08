@@ -3,16 +3,16 @@ title: Analyser l’efficacité de votre profil commercial | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e621ecb2c57b150b35aa363a19a35747a88a3931
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 1bc4282bb4864a7b3a009ab367d384ced519a5b8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062257"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584512"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analyser l’efficacité de votre profil commercial
 <!-- 
@@ -29,25 +29,25 @@ Une fois que vous publiez le [profil commercial](create-a-marketing-profile.md) 
 
 Lorsque vous commencez à [répondre à ces références](responding-to-referrals.md), vous obtenez des données sur le nombre de ces demandes d'informations qui se transforment en affaires fructueuses.
 
-Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. Dans le menu espace partenaires, accédez aux **pages de références > Marketing**.
+Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. Dans le menu espace partenaires, accédez à **références > Marketing pages**.
 
-Ces rapports présentent les performances des profils commerciaux pour toutes les régions. Les rapports affichent les données des 90derniers jours, regroupés par semaine.
+Ces rapports présentent les performances des profils commerciaux pour toutes les régions. Les rapports affichent les données des 90 derniers jours, regroupés par semaine.
 
-*  **Tendances**: affiche les 90derniers jours, regroupés par semaine. données hebdomadaires pour les 90derniers jours et pourcentage de modification par rapport à la période précédente des mesures suivantes:
+*  **Les tendances**: Montre les 90 derniers jours, regroupés en semaines. données hebdomadaires pour les 90 derniers jours et pourcentage de modification par rapport à la période précédente des mesures suivantes :
 
-   * **Vues de la page commerciale**: nombre de consultations de votre profil commercial
-   * **Clics sur le bouton Contact**: nombre de fois où des personnes ont sélectionné votre profil commercial à partir de la page **Rechercher un partenaire**. Cela peut ne pas refléter le nombre de fois où des personnes sont allées jusqu'à créer une demande d’informations (RFI).
-   * **RFI acceptée**: nombre de fois où vous avez [accepté des références client](responding-to-referrals.md) une fois qu’ils ont envoyé une demande d’informations (RFI).
+   * **Vues de page marketing**: Combien de fois visualisées par votre profil d’entreprise
+   * **Contactez les clics de bouton**: Nombre de personnes sélectionné votre profil d’entreprise à partir de la **trouver un partenaire** page. Cela peut ne pas refléter le nombre de fois où des personnes sont allées jusqu'à créer une demande d’informations (RFI).
+   * **RFI est accepté**: Nombre de fois où vous [accepté de nouveaux clients](responding-to-referrals.md) après l’envoi d’une demande d’informations (RFI).
 
 
-*  **Vues de page**: affiche des données de tendances hebdomadaires pour les 90derniers jours.
-   *  **Vues de la page commerciale par les clients**
-   *  **RFI envoyées par les clients**
+*  **Affichages de page**: Affiche les données de tendance hebdomadaire pour les 90 derniers jours.
+   *  **Vues de page marketing par les clients**
+   *  **Demandes soumises par les clients**
 
-Consultez les termes de recherche utilisés par les clients pour rechercher votre profil. Ces rapports affichent des données hebdomadaires pour les 90derniers jours.
+Consultez les termes de recherche utilisés par les clients pour rechercher votre profil. Ces rapports affichent des données hebdomadaires pour les 90 derniers jours.
 
 *  **Mots clés** (principaux mots clés de recherche globale) 
-*  **Secteur**
+*  **Industry**
 *  **Produit**
 *  **Type de service**
 

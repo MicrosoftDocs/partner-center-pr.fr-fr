@@ -2,21 +2,21 @@
 title: Compétence Productivité cloud
 ms.topic: article
 ms.date: 10/29/2018
-description: La compétence Productivité cloud est destinée aux partenaires spécialisés dans les déploiements d’Office365 dans les entreprises. À l’aide de cette compétence, démarquez votre entreprise en tant que fournisseur de solutions cloud reconnu auprès des clients recherchant des partenaires qualifiés capables d’offrir des solutions pour le cloud.
-author: Daniel Simpson
+description: La compétence Productivité cloud est destinée aux partenaires spécialisés dans les déploiements d’Office 365 dans les entreprises. À l’aide de cette compétence, démarquez votre entreprise en tant que fournisseur de solutions cloud reconnu auprès des clients recherchant des partenaires qualifiés capables d’offrir des solutions pour le cloud.
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence compétences, Productivité cloud
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794642"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585492"
 ---
 >[!IMPORTANT]
->Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 # Cloud Productivity competency

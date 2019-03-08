@@ -2,39 +2,39 @@
 title: Tester les nouvelles fonctionnalités de l'Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Testez les nouvelles fonctionnalités de l'Espace partenaires avant leur lancement et dites-nous ce que vous en pensez. Aidez-nous à façonner l’avenir de l'Espace partenaires!
+description: Testez les nouvelles fonctionnalités de l'Espace partenaires avant leur lancement et dites-nous ce que vous en pensez. Aidez-nous à façonner l’avenir de l'Espace partenaires !
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 9bcf606a18d93acd532a9a3225ab01f1ba2f23ef
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995733"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585882"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Tester les nouvelles fonctionnalités de l'Espace partenaires
 
-**S’applique à:**
+**S’applique à**
 
 - Espace partenaires
 
-## <a name="help-shape-the-future-of-partner-center"></a>Aidez-nous à façonner l’avenir de l'Espace partenaires!
+## <a name="help-shape-the-future-of-partner-center"></a>Aidez-nous à façonner l’avenir de l'Espace partenaires !
 
-Nous lançons continuellement de nouvelles fonctionnalités et options sur l'Espace partenaires et nous souhaitons connaître votre avis! 
+Nous lançons continuellement de nouvelles fonctionnalités et options sur l'Espace partenaires et nous souhaitons connaître votre avis ! 
 
 Nous sommes heureux de vous inviter à tester de nouvelles fonctionnalités préalablement à leur lancement dans la communauté mondiale Espace partenaires et à nous faire part de votre avis à leur sujet. Découvrez la [page Annonces de l'Espace partenaires](https://partnercenter.microsoft.com/pcv/announcements) pour en savoir plus sur les fonctionnalités à venir et entamer la planification de leur utilisation afin de développer votre activité. Plusieurs fonctionnalités peuvent être disponibles au test sur une période donnée.
 
 > [!IMPORTANT]  
-> Nous nous servons de la phase préliminaire pour corriger les erreurs et améliorer les performances des fonctionnalités à chaque version. Ces opérations peuvent donner lieu à des différences d'utilisation lors de la version finale. Pour toutes ces raisons et d'autres, les versions préliminaires peuvent se comporter de façon imprévue, et ne font l'objet d'aucune garantie réelle ou implicite de Microsoft.
+> Nous nous servons de la phase préliminaire pour corriger les erreurs et améliorer les performances des fonctionnalités à chaque version. Ces opérations peuvent donner lieu à des différences d’utilisation lors de la version finale. Pour toutes ces raisons et d'autres, les versions préliminaires peuvent se comporter de façon imprévue, et ne font l'objet d'aucune garantie réelle ou implicite de Microsoft.
 
-Pour chaque fonctionnalité future, vous pouvez:
+Pour chaque fonctionnalité future, vous pouvez :
 
 - En apprendre davantage sur cette fonctionnalité et décider si vous souhaitez la tester en sélectionnant **En savoir plus** dans sa description 
 
 - Trouver des instructions pour tester la fonctionnalité
 
-- Vérifier la date cible pour rendre une fonctionnalité disponibles pour une version d’évaluation et notre cible retours la date d’où nous allons libérer la fonctionnalité de la Communauté mondiale de l’espace partenaires.
+- Consultez notre date cible pour effectuer une fonctionnalité disponible pour la version préliminaire et notre cible prêts à l’emploi pour lorsque nous allons publier la fonctionnalité à la Communauté de partenaires dans le monde entier.
 
 > [!NOTE]  
 >  La *date de mise en service cible* désigne la date à laquelle nous envisageons de rendre la fonctionnalité disponible dans le monde entier pour tous les utilisateurs de l'Espace partenaires. Toutefois, plusieurs éléments peuvent avoir un impact sur la date de mise en service, y compris la décision de tenir compte de certains retours d'expérience susceptibles d'améliorer la fonctionnalité, par conséquent nous pouvons décider de reporter la date de mise en service ou de ne pas lancer de version commerciale de cette fonctionnalité.  
@@ -48,13 +48,13 @@ Pour chaque fonctionnalité future, vous pouvez:
 
 Notre mission globale consiste à développer des solutions pour l'Espace partenaires destinées à accroître votre productivité. Nous souhaitons concentrer nos efforts sur les fonctionnalités et les options qui vous aident à développer votre activité, par conséquent nous vous invitons à essayer de nouvelles fonctionnalités et à faire part de vos commentaires à leur sujet avant qu’elles ne soient disponibles dans la communauté mondiale de l'Espace partenaire. 
 
-Nous vous encourageons à faire part de vos idées et suggestions au sujet d'une version préliminaire spécifique, de l'Espace partenaires dans son ensemble, ou de nouvelles fonctionnalités que vous aimeriez voir ajoutées au site. Pour nous faire part de vos commentaires, vous pouvez:  
+Nous vous encourageons à faire part de vos idées et suggestions au sujet d'une version préliminaire spécifique, de l'Espace partenaires dans son ensemble, ou de nouvelles fonctionnalités que vous aimeriez voir ajoutées au site. Pour nous faire part de vos commentaires, vous pouvez :  
 
 -   Utiliser le formulaire sur les retours d'expérience dans le coin inférieur droit de la fenêtre de l'Espace partenaires afin de nous faire parvenir directement vos commentaires. 
 
--   Demander de l'aide si vous rencontrez des problèmes avec la version préliminaire d'une fonctionnalité. Pour créer une demande de support, sélectionnez **requêtes de Support > Partner Center requests** à partir du menu de **L’espace partenaires** et puis sélectionnez **demander de nouveau** sur la page **Partner Center requests** .
+-   Demander de l'aide si vous rencontrez des problèmes avec la version préliminaire d'une fonctionnalité. Pour créer une demande de support, sélectionnez **demandes de Support > partenaires demande** à partir de la **partenaires** menu, puis sélectionnez **nouvelle demande** sur le **Partenaires demande** page.
 
-Aidez-nous à vous aider!
+Aidez-nous à vous aider !
 
 -- Votre équipe de l’Espace partenaires
 

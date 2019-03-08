@@ -1,101 +1,101 @@
 ---
-title: Gérer des réservations MicrosoftAzure pour vos clients | Espace partenaires
+title: Gérer des réservations Microsoft Azure pour vos clients | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-Description: To manage your customers’ Azure reservations post-purchase, you’ll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal.
-author: v-petand
+Description: Pour gérer Azure réservations après l’achat vos clients, vous sélectionnez la réservation que vous souhaitez gérer dans le centre partenaires et le client et puis apporter des modifications à la réservation dans le portail Azure.
+author: LauraBrenner
 ms.author: v-petand
-keywords: Azure, réservations, gérer, facturation, acheter, Annuler, exchange, résiliation anticipés
+keywords: Azure, les réservations, gérer, la facturation, achat, Annuler, exchange, les frais de résiliation anticipée
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7096efb34f8c72d3c8dc724332dd031a180d0636
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917711"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584502"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations MicrosoftAzure pour vos clients
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 -  Portail Microsoft Azure
 -  Partenaires fournisseurs de solutions Cloud
 
-Pour gérer les réservations Azure après l’achat vos clients, vous allez sélectionner le client et la réservation à gérer dans l’espace partenaires et apportez des modifications à la réservation dans le portail Azure. 
+Pour gérer Azure réservations après l’achat vos clients, vous sélectionnez la réservation que vous souhaitez gérer dans le centre partenaires et le client et puis apporter des modifications à la réservation dans le portail Azure. 
 
-1. Pour commencer, sélectionnez les **clients** à partir du menu de l’espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les réservations. 
+1. Pour commencer, sélectionnez **clients** dans le menu espace partenaires puis sélectionnez le client dont vous souhaitez gérer les réservations. 
 
-2. Dans le menu de page de détails du client, sélectionnez les **réservations Azure** , puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
+2. Sur le menu de la page des détails du client, sélectionnez **Réservations Azure**, puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
 
 3. Sous **Actions**, sélectionnez **Gérer** pour accéder au dossier de réservation du client dans le portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
 
-    | **Sélectionnez**   | **Pour**    |
+    | **Select**   | **À**    |
     |:-----------------------------|:-----------------|
-    | **Avoir une vue d'ensemble**   | Afficher les détails de la réservation d’un client, y compris la date d'expiration, la portée et les données d'utilisation. **REMARQUE** Sélectionnez **Remboursement** pour créer une demande de support en vue d'un remboursement calculé au prorata. Sélectionnez **Échange** pour créer une demande de support en vue de l'échange de la période de réservation non utilisée.  
-    | **Contrôle d'accès(IAM)**   | Gérer l’accès aux informations sur la réservation du client.|
+    | **Vue d’ensemble**   | Afficher les détails de la réservation d’un client, y compris la date d'expiration, la portée et les données d'utilisation. **REMARQUE** Sélectionnez **Remboursement** pour créer une demande de support en vue d'un remboursement calculé au prorata. Sélectionnez **Échange** pour créer une demande de support en vue de l'échange de la période de réservation non utilisée.  
+    | **Contrôle d’accès (IAM)**   | Gérer l’accès aux informations sur la réservation du client.|
     | **Configuration**   | Modifier l’étendue de la réservation et/ou l’abonnement Azure à laquelle la réservation est associée.    |
     | **Propriétés**   | Afficher les propriétés de la réservation et copier dans le presse-papiers l'identifiant de la réservation et l'identifiant de commande. **REMARQUE** Le service d'assistance peut vous demander de communiquer l'identifiant de la réservation et l'identifiant de commande si vous demandez une assistance au nom d'un client.    |
     | **Nouvelle demande de support**    | Demander de l’aide au support Microsoft.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Annuler ou échanger une réservation 
 
-Si les activités du client a besoin de modifier à tout moment, ils voudrez annuler une réservation et obtenir un remboursement ou utiliser le montant du remboursement au prorata d’une réservation à utiliser vers le prix d’une nouvelle réservation.
+Si à tout moment d’un client à l’évolution des besoins métier, ils peuvent souhaitent annuler une réservation et obtenir un remboursement ou échanger le montant du remboursement calculé au prorata d’une réservation pour être utilisés pour le prix d’une nouvelle réservation.
 
-Dans ces deux scénarios, Microsoft rembourse le montant vous afin que vous pouvez ensuite gérer les transactions financières qui en résulte avec vos clients. Microsoft ne contacte pas les clients directement sur la facturation, les annulations ou remboursements.   
+Dans ces deux scénarios, Microsoft remboursements la quantité pour vous afin que vous pouvez gérer les transactions financières résultant avec vos clients. Microsoft ne contacte pas les clients directement sur la facturation, annulations ou les remboursements.   
  
 
 **Fonctionnement des annulations**
 
-Les clients peuvent demander d’annuler une réservation à tout moment (montant du remboursement limitée à 50 000 $ par an). Annulation d’une réservation permet au client de retourner la quantité des mois restants d’une réservation Azure une résiliation anticipés. Le solde restant au prorata, moins les frais de résiliation anticipée, est remboursé à votre compte afin que vous pouvez solliciter le remboursement le compte du client. 
+Les clients peuvent demander à annuler une réservation à tout moment (montant du remboursement limitée à 50 000 $ par an). L’annulation d’une réservation permet au client de retourner la quantité des mois restants d’une réservation d’Azure pour un frais de résiliation anticipée. Le solde restant calculé au prorata, moins les frais de résiliation anticipée, est crédité sur votre compte afin que vous pouvez rembourser le compte du client. 
 
-Des frais et des informations d’annulation, voir ci-dessous.
+Consultez ci-dessous les frais et les détails de l’annulation.
 
 
 |**Date d’annulation**<br> (jours)   |**Utilisation**    |**Crédit**  |**Résiliation anticipée**<br> frais    |**Limite de remboursement** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|au maximum 5                         | Non          | 100%       | Non                              | 50 000 USD   |
-|au maximum 5                         | Oui         | Calculés au prorata  | Non                              | 50 000 USD   |
-|Plus de 5                        | Non          | Calculés au prorata  | 12 %                             | 50 000 USD   |
-|Plus de 5                        | Oui         | Calculés au prorata  | 12 %                             | 50 000 USD   |
+|5 ou moins                         | Non          | 100%       | Non                              | 50 000 USD   |
+|5 ou moins                         | Oui         | Au prorata  | Non                              | 50 000 USD   |
+|Plus de 5                        | Non          | Au prorata  | 12%                             | 50 000 USD   |
+|Plus de 5                        | Oui         | Au prorata  | 12%                             | 50 000 USD   |
 
 
 **Fonctionnement des échanges** 
 
-Si un client souhaite acheter une réservation différente de celui qu’ils initialement achetés chez vous, ils peuvent demander un échange. Échanger une réservation peut être une alternative intéressante pour annuler une réservation, car elle permet au client d’utiliser le montant du remboursement au prorata vers le prix de la nouvelle réservation. 
+Si un client souhaite acheter une réservation différente que celui qu’ils achetés à l’origine de votre part, ils peuvent demander un échange. Échanger une réservation peut constituer une alternative intéressante à l’annulation d’une réservation, car elle permet au client d’utiliser la quantité de remboursement calculé au prorata vers le prix de la nouvelle réservation. 
 
-Le montant du remboursement au prorata est crédité sur votre compte afin que vous pouvez proposer au client un échange.
+Le montant du remboursement calculé au prorata est crédité sur votre compte afin que vous pouvez proposer au client un échange.
 
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Demander un remboursement ou un échange pour le compte d’un client 
 
-Pour soumettre une demande de support pour un remboursement ou un échange pour vos clients, vous devez sélectionner le client et la réservation dans l’espace partenaires et puis créez la demande de support dans le portail Azure. 
+Pour créer une demande de prise en charge pour un exchange ou un remboursement pour le compte de vos clients, vous sélectionnez le client et la réservation dans le centre de partenaires et ensuite créer la demande de support dans le portail Azure. 
 
 >[!NOTE]
 >Les agents du support Microsoft peuvent vous demander de fournir l’identifiant de réservation et l’identifiant de commande de la réservation. Vous pouvez trouver ces informations sur la page **Propriétés** de la réservation, dans le portail Azure. 
 
-1. Pour commencer, sélectionnez les **clients** à partir du menu de l’espace partenaires, puis sélectionnez le client qui souhaite un remboursement. 
+1. Pour commencer, sélectionnez **clients** dans le menu espace partenaires puis sélectionnez le client qui souhaite un remboursement. 
 
 2. Sur la page des détails du client, sélectionnez **Réservations Azure**, puis sélectionnez la réservation pour laquelle le client souhaite se faire rembourser.  
 
-3. Sous **Actions**, sélectionnez le **remboursement** pour accéder au dossier de réservation du client dans le portail Azure et lancez une demande de support.  
+3. Sous **Actions**, sélectionnez **Remboursement** pour accéder au dossier de la réservation du client dans le portail Azure et lancez une demande de support.  
 
 4. Sur la page **Nouvelle demande de support**, suivez les étapes ci-dessous pour demander un remboursement. Sélectionnez **Suivant** après chaque étape. 
 
     |**Étape**                    |**Sélections**    |
     |:---------------------------|:-----------------|
-    |**1 Notions de base**                |Type de problème: facturation  |
-    |**2 Problème**               |Type de problème: gestion de la réservation. Catégorie: Échanges et remboursements. |
-    |**3 Coordonnées**   |Sélectionnez vos préférences et entrez les informations requises. 
+    |**Principes de base 1**                |Type de problème : La facturation.  |
+    |**Problème 2**               |Type de problème : Gestion de la réservation. Catégorie : Les échanges et les remboursements. |
+    |**Informations de contact 3**   |Sélectionnez vos préférences et entrez les informations requises. 
 
 5.  Sélectionnez **Créer** lorsque vous avez terminé.
 
 ## <a name="azure-reservations-resources"></a>Ressources des réservations Azure
-|**Pour plus d’informations sur**   |**Lisez**    |
+|**Pour plus d’informations sur**   |**Lisez ce**    |
 |:-----------------------------|:-----------------|
-|Les réservation Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre des Instances réservées de Microsoft Azure](azure-reservations.md) |
+|Réservations Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre des Instances réservées de Microsoft Azure](azure-reservations.md) |
 |Achat de réservations Azure pour vos clients dans l’espace partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md) |
-|Déterminer la taille appropriée de la machine virtuelle et vérifier l’utilisation des machines virtuelles par le client   |[Dimensionnement d’une machine virtuelle en vue d'une utilisation optimale de la réservation Azure](azure-usage.md)   |
+|Déterminer la taille appropriée de la machine virtuelle et vérifier l’utilisation des machines virtuelles par le client   |[Redimensionnement de machine virtuelle pour l’utilisation maximale de réservation Azure](azure-usage.md)   |
 |Achat de réservations Azure à l’aide de l'API de l'Espace partenaires | [Acheter Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation pour développeurs Espace partenaires
 

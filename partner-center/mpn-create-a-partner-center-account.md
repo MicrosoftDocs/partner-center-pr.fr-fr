@@ -2,16 +2,16 @@
 title: Créer un compte Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Les membres du MicrosoftPartner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
+description: Les membres du Microsoft Partner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796202"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587592"
 ---
 # <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 
@@ -23,19 +23,19 @@ ms.locfileid: "5796202"
 
 Cet article explique comment créer un compte Espace partenaires. Il est destiné aux partenaires qui souhaitent passer leurs informations d’adhésion au réseau de partenaires du Partner Membership Center à l'Espace partenaires. 
 
-Avant de pouvoir créer un compte sur l'Espace partenaires ou vous inscrire à un programme de partenaires, votre entreprise doit être membre du MicrosoftPartner Network. Si vous n’êtes pas membre du réseau, vous pouvez le [rejoindre maintenant](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [En savoir plus](https://partner.microsoft.com/membership) sur l'adhésion au Microsoft Partner Network.  
+Avant de pouvoir créer un compte sur l'Espace partenaires ou vous inscrire à un programme de partenaires, votre entreprise doit être membre du Microsoft Partner Network. Si vous n’êtes pas membre du réseau, vous pouvez le [rejoindre maintenant](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [En savoir plus](https://partner.microsoft.com/membership) sur l'adhésion au Microsoft Partner Network.  
 
-Une fois que vous avez créé un compte Espace partenaires, vous pouvez:
+Une fois que vous avez créé un compte Espace partenaires, vous pouvez :
 
--   [Acheter ou renouveler un abonnement MicrosoftAction Pack](mpn-get-action-pack.md)
+-   [Acheter ou renouveler un abonnement Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)
+-   [Créer un profil d’entreprise pour obtenir des prospects à partir de Microsoft](create-a-marketing-profile.md)
 
--   [Obtenir et gérer des prospects de Microsoft](responding-to-referrals.md)
+-   [Obtenir et de gérer les prospects à partir de Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
-Pour créer un compte sur l'Espace partenaires, vous devez avoir les informations suivantes à portée de main. Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer:
+Pour créer un compte sur l'Espace partenaires, vous devez avoir les informations suivantes à portée de main. Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer :
 
 -   E-mail professionnel de l'administrateur général. Si vous ne connaissez pas le compte professionnel de votre entreprise, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).
 
@@ -66,11 +66,11 @@ Nous vérifierons ces informations au cours du processus de création du compte.
     > [!IMPORTANT]  
     > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies.
 
-4.  Lisez et acceptez les conditions générales du contrat MicrosoftPartner Network. 
+4.  Lisez et acceptez les conditions générales du contrat Microsoft Partner Network. 
 
-5.  Vérifiez que vous avez été ajouté au groupe agent administrateur. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations:
+5.  Vérifiez que vous avez été ajouté au groupe agent administrateur. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
-    a. Dans votre **Centre de partenaires**, sélectionnez l’icône **paramètres** , puis sélectionnez **Gestion des utilisateurs**.  
+    a. Dans votre **partenaires**, sélectionnez le **paramètres** icône, puis sélectionnez **gestion des utilisateurs**.  
 
     b. Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.  
 
@@ -80,8 +80,8 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 
 -   [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Gérer les avantages de votre adhésion](manage-your-partner-network-benefits.md)
+-   [Gérer vos avantages de l’appartenance](manage-your-partner-network-benefits.md)
 
--   [En savoir plus sur les compétences requises pour le niveau d'adhésion Or ou Argent](https://partner.microsoft.com/membership/competencies)
+-   [En savoir plus sur les exigences de compétence Gold et Silver de l’appartenance](https://partner.microsoft.com/membership/competencies)
 
--   [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)
+-   [Créer un profil d’entreprise pour obtenir des prospects à partir de Microsoft](create-a-marketing-profile.md)

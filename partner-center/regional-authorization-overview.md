@@ -1,59 +1,59 @@
 ---
-title: Les marchés internationaux de fournisseur de solutions cloud | L’espace partenaires
+title: Marchés CSP | Partenaires
 ms.topic: article
 ms.date: 11/03/2018
-description: Consultez les pays et régions dans lesquels vous pouvez vendre des offres de fournisseur de solutions cloud, basées sur l’emplacement de votre société.
+description: Consultez les pays et régions dans lesquels vous pouvez vendre des offres CSP, selon l’emplacement de votre société.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Fournisseur de solutions cloud, marchés, territoires, où peut i commercialiser via ce programme, fournisseur de solutions cloud offre, régions, vendent des solutions de cloud, CSP global
+keywords: Fournisseur de services cryptographiques marchés, territoires, où i vendrez via CSP, offre de CSP, régions, vendent des solutions de cloud, environnement CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
-ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9065606"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588072"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Marchés régionaux du programme fournisseur de solutions cloud et les devises
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Marchés régionaux du programme fournisseur de solutions cloud et des devises
 
-Emplacement de votre société détermine votre marché. Votre marché inclut les régions et/ou dans les pays où vous pouvez vendre des offres de fournisseur de solutions cloud.
+Emplacement de votre entreprise détermine votre marché. Votre marché inclut les régions et/ou le pays où vous pouvez vendre les offres CSP.
 
-Par exemple, si votre entreprise se trouve aux États-Unis, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients aux États-Unis et dans les îles éloignées des États-Unis. Si votre entreprise se trouve au Brésil, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients uniquement au Brésil. Si votre entreprise se trouve dans la région d’Afrique, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les 18 pays dans la région Afrique.
+Par exemple, si votre société se trouve aux États-Unis, vous pouvez vendre CSP offre aux clients aux États-Unis et dans des États-Unis Îles mineures éloignées. Si votre entreprise se trouve au Brésil, vous pouvez vendre CSP offre aux clients uniquement au Brésil. Si votre entreprise se trouve dans la région en Afrique, vous pouvez vendre CSP offre aux clients dans tous les 18 pays dans la région en Afrique.
 
-Avant de pouvoir commander que CSP offre au nom du client, le client doit signer le contrat de Cloud de Microsoft. Vous trouverez du contrat Microsoft Cloud applicables pour votre pays/région [ici](agreements.md).
+Avant de commander que CSP offre pour le compte d’un client, le client doit signer l’accord de Cloud de Microsoft. Vous pouvez trouver le contrat de Cloud Microsoft applicables pour votre pays/une région [ici](agreements.md).
 
 >[!IMPORTANT]
-> À partir de 7 novembre 2018, vous aurez besoin vérifier qu’un client a accepté le contrat de Cloud de Microsoft en fournissant des informations relatives à la personne qui l’a signé. Pour plus d’informations, voir [Confirmer l’acceptation d’un client du contrat Microsoft Cloud](confirm-consent.md) .
+> À compter du 7 novembre 2018, vous devrez confirmer qu’un client a accepté le contrat de Cloud de Microsoft en fournissant des informations sur la personne qui l’a signé. Consultez [confirmer l’acceptation d’un client de l’accord de Cloud Microsoft](confirm-consent.md) pour plus d’informations.
 
-Pour déterminer où vous pouvez vendre des offres de fournisseur de solutions cloud, trouver l’emplacement de votre société dans l’une des listes ci-dessous. Vous devez disposer d’un ID Microsoft Partner Network (MPN) actif pour l’emplacement que vous souhaitez vendre dans.  
+Pour déterminer où vous pouvez vendre des offres CSP, rechercher l’emplacement de votre entreprise dans une des listes ci-dessous. Vous devez disposer d’un ID Microsoft Partner Network (MPN) active pour l’emplacement que vous souhaitez vendre dans.  
 
 ## <a name="for-unsupported-countries"></a>Pour les pays non pris en charge
 
-Si votre pays n’est pas pris en charge, établissez la relation de fournisseur de solutions cloud à l’aide de l’URL d’administration Office de client. 
+Si votre pays n’est pas pris en charge, établir la relation CSP à l’aide de l’URL d’administration Office de client. 
 
-- Les partenaires de facture direct utilisent l’url suivante: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Remplacez **partnertenantguid** par votre ID de client. 
+- Les partenaires directs facture utilisent l’url suivante : https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Remplacez **partnertenantguid** avec votre ID de locataire. 
 
-- L’URL de revendeurs indirects est: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Vous allez remplacer **IRtenantguid** par votre ID de client. Remplacez **IRMPNID** par votre ID MPN et remplacez **IPtenantguid** par votre id de locataire fournisseur indirect.
+- L’URL pour les revendeurs indirects est : https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Vous allez remplacer **IRtenantguid** avec votre ID de locataire. Remplacez **IRMPNID** avec votre ID MPN, puis remplacez **IPtenantguid** avec votre id de locataire du fournisseur indirect.
 
-## <a name="africa-region-and-market"></a>Marché et Afrique
+## <a name="africa-region-and-market"></a>Sur le marché et Afrique
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-| Pays/région           | Devise |
+| Pays/région           | Symbole monétaire |
 | ------------------------ |:--------:|
 | Angola                   |          |
 | Bénin                    |   USD    |
 | Botswana                 |          |
-| Burkina Faso             |   USD    |
+| Burkina-Faso             |   USD    |
 | Burundi                  |   USD    |
 | Cameroun                 |   USD    |
-| Cap Vert               |          |
+| Cabo Verde               |          |
 | République centrafricaine |   USD    |
 | Tchad                     |   USD    |
-| Comores                  |   USD    |
-| République démocratique du Congo                    |   USD    |
+| Comores (Les)                  |   USD    |
+| Congo                    |   USD    |
 | Congo (RDC)              |   USD    |
 | Côte d’Ivoire            |          |
 | Djibouti                 |   USD    |
@@ -67,7 +67,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 | Guinée                   |   USD    |
 | Guinée-Bissau            |   USD    |
 | Kenya                    |   USD    |
-| Libéria                  |   USD    |
+| Liberia                  |   USD    |
 | Madagascar               |   USD    |
 | Malawi                   |   USD    |
 | Mali                     |   USD    |
@@ -79,7 +79,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 | Nigeria                  |   USD    |
 | Réunion (île)                  |   USD    |
 | Rwanda                   |   USD    |
-| São Tomé-et-Príncipe    |   USD    |
+| São Tomé et Príncipe    |   USD    |
 | Sénégal                  |          |
 | Seychelles               |   USD    |
 | Sierra Leone             |   USD    |
@@ -92,11 +92,11 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 | Zambie                   |          |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>Marché et région Asie et Pacifique
+## <a name="asia-and-pacific-region-and-market"></a>Sur le marché et la région Asie et Pacifique
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-| Pays/région     | Devise |
+| Pays/région     | Symbole monétaire |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
 |  Bhoutan            |          |
@@ -118,11 +118,11 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Vietnam           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>Marché et région Australie
+## <a name="australia-region-and-market"></a>Sur le marché et la région Australie
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-|  Pays/région        | Devise |
+|  Pays/région        | Symbole monétaire |
 |  --------------        |:--------:|
 |  Australie             |   AUD    |
 |  Christmas (île)      |   AUD    |
@@ -149,30 +149,30 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Wallis-et-Futuna     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>Marché et région Brésil
+## <a name="brazil-region-and-market"></a>Sur le marché et région Brésil
 
-Si votre société est le Brésil, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients au Brésil.
+Si l’emplacement de votre entreprise est Brésil, vous pouvez vendre CSP offre aux clients au Brésil.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
 |  Brésil         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>Marché et région Canada
+## <a name="canada-region-and-market"></a>Sur le marché et la région du Canada
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
 |  Saint-Pierre-et-Miquelon|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>Marché et région Europe
+## <a name="europe-region-and-market"></a>Sur le marché et la région Europe
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-|  Pays/région | Devise  |
+|  Pays/région | Symbole monétaire  |
 |  -------------- |:--------:|
 |  Åland (îles d’)  |   EUR    |
 |  Andorre        |   EUR    |
@@ -218,41 +218,41 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Suède         |   SEK    |
 |  Suisse    |   CHF    |
 |  ROYAUME-UNI             |   GBP    |
-|  Cité du Vatican   |          |
+|  Vatican (État de la Cité du)   |          |
 |
 
-## <a name="india-region-and-market"></a>Marché et à la région de l’Inde
+## <a name="india-region-and-market"></a>Sur le marché et Inde
 
-Si votre société est l’Inde, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients en Inde.
+Si votre société se trouve l’Inde, vous pouvez vendre CSP offre aux clients en Inde.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
 |  Inde          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>Marché et région Japon
+## <a name="japan-region-and-market"></a>Sur le marché et la région Japon
 
-Si votre société est le Japon, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients au Japon.
+Si votre société se trouve au Japon, vous pouvez vendre CSP offre aux clients au Japon.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
 |  Japon          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Corée du Sud, République de région et par marché
+## <a name="korea-republic-of-region-and-market"></a>Corée, République de région et du marché
 
-Si votre société est la Corée, République de, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients de Corée du Sud, République de.
+Si l’emplacement de votre entreprise est la Corée, République de, vous pouvez vendre CSP offre aux clients en Corée, République de.
 
-|  Pays/région    | Devise |
+|  Pays/région    | Symbole monétaire |
 |  --------------    |:--------:|
-|  Corée du Sud, République de|   KRW    |
+|  Corée, République de|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>Amérique latine et le marché et la région des Caraïbes
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>Amérique latine et Caraïbes et sur le marché
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
 |  Anguilla       |   USD    |
 |  Antarctique     |   USD    |
@@ -260,7 +260,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Argentine      |   USD    |
 |  Aruba          |   USD    |
 |  Bahamas        |   USD    |
-|  Barbade       |   USD    |
+|  Barbade (La)       |   USD    |
 |  Belize         |   USD    |
 |  Bermudes        |   USD    |
 |  Bolivie        |   USD    |
@@ -273,7 +273,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Curaçao        |   USD    |
 |  Dominique       |  USD     |
 |  République dominicaine| USD   |
-|  Équateur        |   USD    |
+|  Équateur (République de)        |   USD    |
 |  Salvador    |   USD    |
 |  Malouines (îles)|  USD    |
 |  Guyane française  |   USD    |
@@ -297,11 +297,11 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Saint Kitts et Nevis|    |
 |  Sainte-Lucie    |   USD    |
 |  Saint-Martin   |   USD    |
-|  Saint-Vincent-et-les Grenadines| USD |
+|  Saint-Vincent-et-les-Grenadines| USD |
 |  Saint-Eustache |   USD    |
 |  Saint-Martin (Royaume des Pays-Bas)   |   USD    |
 |  Géorgie du Sud et îles Sandwich du Sud| USD|
-|  Suriname       |   USD    |
+|  Surinam       |   USD    |
 |  Trinité-et-Tobago|USD   |
 |  Turks et Caïcos (îles)| USD|
 |  Uruguay        |   USD    |
@@ -309,11 +309,11 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Îles Vierges américaines| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Marché et du Moyen-Orient, Europe centrale et l’Europe de région
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Sur le marché et la région Europe centrale, au Moyen-Orient et en Europe de l’est
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
 |  Afghanistan    |          |
 |  Albanie        |   USD    |
@@ -336,7 +336,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Liban        |   USD    |
 |  Lesotho        |   USD    |
 |  Libye          |          |
-|  République de Macédoine|   |
+|  Macédoine, République de|   |
 |  Mauritanie     |   USD    |
 |  République de Moldavie        |          |
 |  Mongolie       |          |
@@ -345,7 +345,7 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Mozambique     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  Autorité palestinienne |        |
 |  Qatar          |   USD    |
 |  Arabie saoudite   |   USD    |
 |  Serbie         |   USD    |
@@ -362,42 +362,42 @@ Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des of
 |  Zimbabwe       |          |
 |
 
-## <a name="new-zealand-region-and-market"></a>Marché et à la région Nouvelle-Zélande
+## <a name="new-zealand-region-and-market"></a>Sur le marché et la région de la Nouvelle Zélande
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
 |  Samoa américaines |   NZD    |
 |  Nouvelle-Zélande    |   NZD    |
-|  État indépendant des Samoa          |   NZD    |
+|  Samoa          |   NZD    |
 |  Vanuatu        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>Marché et à la région de la Russie
+## <a name="russia-region-and-market"></a>Sur le marché et la région de Russie
 
-Si votre société est la Russie, vous pouvez vendre des offres de fournisseur de solutions cloud aux clients en Russie.
+Si l’emplacement de votre entreprise est Russie, vous pouvez vendre CSP offre aux clients en Russie.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
 |  Russie         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Sur le marché et la région de Taïwan
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Si l’emplacement de votre entreprise est Taïwan, vous pouvez vendre CSP offre aux clients à Taïwan.
 
-|  Pays/région | Devise |
+|  Pays/région | Symbole monétaire |
 |  -------------- |:--------:|
-|  Taiwan         |   TWD    |
+|  Taïwan         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>Marché et région des États-Unis
+## <a name="united-states-region-and-market"></a>Sur le marché et la région des États-Unis
 
-Si votre société se trouve dans la liste ci-dessous, vous pouvez vendre des offres de fournisseur de solutions cloud pour les clients dans tous les emplacements dans la liste.
+Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pouvez vendre CSP offre aux clients dans tous les emplacements dans la liste.
 
-|  Pays/région       | Devise |
+|  Pays/région       | Symbole monétaire |
 |  -------------        |:--------:|
 |  États-Unis        |   USD    |
-|  Îles mineures éloignées des États-Unis|   USD    |
+|  ÉTATS-UNIS Îles mineures éloignées|   USD    |
 |

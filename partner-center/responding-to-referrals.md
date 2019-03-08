@@ -2,18 +2,18 @@
 title: Réponse aux références | Espace partenaires
 ms.topic: article
 ms.date: 01/17/2019
-description: En tant que partenaire Microsoft qualifié, vous pouvez évaluer, négocier et répondre aux références par le biais de l’espace partenaires.
-author: labrenne
+description: En tant que partenaire Microsoft qualifié, vous pouvez évaluer, negotiate et répondre aux références via des partenaires.
+author: LauraBrenner
 ms.author: labrenne
 keywords: référence, RFI, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9f2a1e9451d64dd51b469b62c7a0bb07f955631
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062297"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585852"
 ---
 # <a name="responding-to-referrals"></a>Réponse aux références
 
@@ -21,48 +21,48 @@ ms.locfileid: "9062297"
 
 -  Espace partenaires
 
-En tant que partenaire Microsoft qualifié, vous pouvez recevoir des prospects commerciaux par le biais de références. Dans l’espace partenaires, vous pouvez gérer les prospects entrants, répondre rapidement à ceux qui sont adaptés à, et ignorer ou refuser les autres qui ne sont pas. 
+En tant que partenaire Microsoft qualifié, vous pouvez recevoir des responsables commerciaux potentiels via les références. Dans espace partenaires, vous pouvez gérer les prospects entrants, répondre rapidement à ceux qui sont adaptées, ignorer ou ceux qui ne sont pas refuser. 
 
 > [!IMPORTANT]
-> Nous lui avons apportées à certaines mises à jour à l’expérience de la gestion des références et êtes en train de les déployer sur tous les partenaires. Jusqu'à ce que votre compte est configuré pour utiliser la nouvelle expérience, certaines opérations que peut fonctionner un peu différemment. Ces différences sont mentionnées ci-dessous. 
+> Nous avons apporté quelques modifications à l’expérience de la gestion de la référence et sont en train de les déployer sur tous les partenaires. Jusqu'à ce que votre compte est configuré pour utiliser la nouvelle expérience, il se peut que certaines choses peuvent fonctionner un peu différemment. Ces différences sont indiquées ci-dessous. 
 
 ## <a name="referral-management"></a>Gestion des références
 
-Commencez par configurer un [profil commercial](create-a-marketing-profile.md) pour chaque région où vous travaillez. Lorsque votre profil sera actif, nous serons en mesure d'orienter les clients vers votre entreprise, par le biais des éléments suivants:
+Commencez par configurer un [profil commercial](create-a-marketing-profile.md) pour chaque région où vous travaillez. Lorsque votre profil sera actif, nous serons en mesure d'orienter les clients vers votre entreprise, par le biais des éléments suivants :
 
 *  Activités marketing de Microsoft
 *  Ventes internes de Microsoft et agents du service
-*  Recherche du client, à l’aide de l’outil de recherche de **[fournisseur de solutions](https://www.microsoft.com/solution-providers/home)** .
+*  Client à l’aide de la recherche le **[fournisseur de solutions](https://www.microsoft.com/solution-providers/home)** outil de recherche.
 
-Lorsqu’un client en savoir plus sur vos solutions et services, ils allez vous contacter en envoyant une demande d’informations (RFI). Au contact répertorié dans votre [profil commercial](create-a-marketing-profile.md) pour la région et l’emplacement sélectionné recevront un e-mail générées par le système. Vous pouvez également afficher les demandes entrantes dans l’espace partenaires en accédant aux **références de client > des références**.
+Lorsqu’un client est en savoir plus sur vos solutions et des services, ils vous contacterons en soumettant une demande d’informations (RFI). Le contact figurant dans votre [profil d’entreprise](create-a-marketing-profile.md) spécifique à la région et l’emplacement sélectionné recevront un e-mail généré par le système. Vous pouvez également voir les demandes entrantes de partenaires en accédant à **références > nouveaux clients**.
 
-Les clients choisissent souvent d’envoyer un même RFI à plusieurs sociétés en même temps. Pour augmenter vos chances de succès, nous vous recommandons d’accepter ou refuser les nouvelles références dans les 24 heures maximum.
+Les clients choisissent souvent d’envoyer un même RFI à plusieurs sociétés en même temps. Pour augmenter vos chances de réussite, nous vous recommandons d’accepter ou de décliner les redirections de nouveau dans les 24 heures ou moins.
 
 ### <a name="new-referrals"></a>Nouvelles références
 
-Dans votre **boîte de réception**, nous vous montrerons une vue d’ensemble de la RFI. À ce stade, vous pouvez décider si vous êtes intéressé par la référence. 
+Dans votre **boîte de réception**, nous allons vous montrer une vue d’ensemble de la RFI. À ce stade, vous pouvez décider si vous êtes intéressé par la référence. 
 
-Passez en revue les détails et vous êtes libre de contacter le client si vous souhaitez en savoir plus sur les besoins de leur entreprise. Puis accepter ou refuser la référence: 
+Passez en revue les détails et n’hésitez pas à contacter le client si vous souhaitez en savoir plus sur leurs besoins professionnels. Puis accepter ou refuser la référence : 
 
-*  **Accepter**: entrez la valeur estimative du contrat, la date de conclusion estimée, puis sélectionnez **Accepter**. Nous déplacerons la référence à l’état **actif**, ce qui signifie que vous envisagez d’entrer activement en contact avec le client de répondre à leurs besoins. Nous allons également utiliser ces informations pour vous aider à trouver traite similaire à l’avenir.
-*  **Refuser**: nous allons archivez-la comme **refusée** et avertir le client de choisir un autre partenaire.
+*  **Accepter**: Entrez la valeur de la quantité estimée, la date de fin prévue, puis sélectionnez **Accept**. Nous allons passer la référence à **Active**, ce qui signifie que vous envisagez d’engager activement avec le client pour résoudre leurs besoins. Nous allons également utiliser ces informations pour vous aider à trouver les traite similaire à l’avenir.
+*  **Refuser**: Nous allons l’archiver, en tant que **refusé** et informe le client pour choisir un autre partenaire.
 
-Si vous ne répondez pas dans la période de temps imparti (actuellement 14 jours), nous allons archivez-la comme **expiré** et avertir le client de choisir un autre partenaire.
+Si vous ne répondez pas dans le délai imparti (actuellement 14 jours), nous allons effectuer l’opération en tant que **expiré** et informe le client pour choisir un autre partenaire.
 
 > [!NOTE]
-> La procédure décrite ci-dessus reflète la nouvelle expérience. Si votre compte n’utilise pas encore cette expérience, vous verrez une section de **Nouveau** au lieu de la **boîte de réception**. Pour les nouvelles références, vous devez faire 72 heures de choisir **je suis intéressé** (qui se déplace la référence vers une autre section **d’évaluation** et affiche des détails supplémentaires) ou **non, Merci** (qui la référence d’archive). Si vous sélectionnez **je suis intéressé**, vous avez 7 jours pour accepter la référence.
+> Le processus décrit ci-dessus reflète la nouvelle expérience. Si votre compte n’est pas à l’aide de cette expérience, vous verrez un **New** section au lieu de **boîte de réception**. Pour les redirections de nouveau, vous devrez 72 heures choisissez **m’intéressent** (ce qui la déplace la référence à un distinct **évaluation** section et vous montre plus de détails) ou **non Merci**(qui archive la référence). Si vous sélectionnez **m’intéressent**, vous disposez de 7 jours pour accepter la référence.
 
 ### <a name="active-referrals"></a>Références actives
 
-Tentez de conclure la transaction avec le client. Lorsque vous avez terminé, sélectionnez **remporté** ou **perdu** pour signaler le résultat afin que nous pouvons l’archive en conséquence.
+Tentez de conclure la transaction avec le client. Lorsque vous avez terminé, sélectionnez **a gagné** ou **perdus** pour signaler le résultat, donc nous pouvons l’archive en conséquence.
 
 ### <a name="archived-referrals"></a>Références archivés
 
-Passez en revue vos dernières références (**conclues, perdues, refusées** ou **expiré**) à tout moment. 
+Passez en revue vos dernières références (**a gagné, perdu, refusé** ou **expiré**) à tout moment. 
 
 ## <a name="getting-more-referrals"></a>Obtenir davantage de références
 
-Voici quelques conseils pour vous aider à obtenir davantage de références qui sont adaptés à votre entreprise:
+Voici quelques conseils pour vous aider à obtenir des références plus adaptées à votre entreprise :
 
 *  **Choisissez des mots clés et des préférences qui représentent votre expertise spécifique et votre modèle commercial** dans votre [profil commercial](create-a-marketing-profile.md). Supprimez des mots clés qui génèrent des références qui ne vous n'intéressent pas. Si vous ne souhaitez pas travailler avec des entreprises d’une certaine taille, mettez cette préférence à jour.
 

@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794882"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583962"
 ---
 # <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 
@@ -37,11 +37,11 @@ Les revendeurs indirects travaillent avec des fournisseurs indirects, lesquels o
 
 Si vous êtes revendeur indirect ou si vous souhaitez vous inscrire au CSP comme revendeur indirect, consultez [Partenariat avec des fournisseurs indirects dans CSP](indirect-reseller-tasks-in-partner-center.md) pour en savoir plus sur la mise en relation avec des fournisseurs indirects et des clients.
 
-Vous hésitez entre vous inscrire dans CSP comme revendeur indirect ou comme partenaire direct? Consultez [Explorer le modèle indirect](https://partner.microsoft.com/cloud-solution-provider/indirect) sur le [site Web MicrosoftPartner Network](https://partner.microsoft.com).   
+Vous hésitez entre vous inscrire dans CSP comme revendeur indirect ou comme partenaire direct ? Consultez [Explorer le modèle indirect](https://partner.microsoft.com/cloud-solution-provider/indirect) sur le [site Web Microsoft Partner Network](https://partner.microsoft.com).   
 
 ## <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 
-La fonction multipartenaire de l’Espace partenaires prend en charge les cas où un client a besoin de travailler avec plusieurs partenaires. Par exemple, il peut vouloir engager un partenaire pour son expertise d'Office 365, mais également passer par un autre partenaire spécialisé dans MicrosoftAzure. Voir [Prise en charge de plusieurs partenaires](multipartner.md) pour plus d’informations.
+La fonction multipartenaire de l’Espace partenaires prend en charge les cas où un client a besoin de travailler avec plusieurs partenaires. Par exemple, il peut vouloir engager un partenaire pour son expertise d'Office 365, mais également passer par un autre partenaire spécialisé dans Microsoft Azure. Voir [Prise en charge de plusieurs partenaires](multipartner.md) pour plus d’informations.
 
 La prise en charge de plusieurs partenaires est également disponible dans les offres de cloud Microsoft nationales. 
 

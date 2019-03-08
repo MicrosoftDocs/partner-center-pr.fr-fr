@@ -2,16 +2,16 @@
 title: Nouveautés de l’Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Les nouvelles fonctionnalités seront répertoriées ici.
-author: labrenne
+description: Les nouvelles fonctionnalités sont répertoriées ici.
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fd90f05631176c956708eca9638352fe2c24275
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1d943721894ba66da90897f6ff67cacbf7551cd3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796542"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583982"
 ---
 # <a name="whats-new-in-partner-center"></a>Nouveautés de l’Espace partenaires
 
@@ -21,16 +21,16 @@ ms.locfileid: "5796542"
 
 ## <a name="check-out-new-features-and-capabilities"></a>Découvrez les nouvelles fonctionnalités 
 
-Votre équipe de l’espace partenaires ajoute régulièrement de nouvelles fonctionnalités pour vous aider à gérer et développer votre activité.
+Votre équipe partenaires ajoute régulièrement de nouvelles fonctionnalités pour vous aider à gérer et développer votre activité.
 
 
-|**Nouveautés**   |**En savoir plus**   |
+|**Quelles sont les nouveautés**   |**En savoir plus**   |
 |----------------------|:-----------------|
-|Proposer à vos clients des produits de logiciels tiers qui fonctionnent avec les produits Microsoft que vous vendez déjà   | [Offres tierces](third-party-offers.md)|
-|Le programme fournisseur de solutions cloud permet aux partenaires d’acquérir, approvisionner et gérer Azure RI et les abonnements de serveur pour le compte de clients commerciaux à l’aide de l’espace partenaires et le portail Microsoft Azure.|[Azure Reserved VM Instances (RI) + abonnements de serveur pour Azure](azure-ri-server-subscriptions.md)|
-|Suivez une visite guidée de l’espace partenaires (connexion requise)|[Visite guidée de l’espace partenaires](https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview)|
-|Les partenaires CSP participe au programme le mode coopération primes peuvent maintenant créer et gérer des revendications dans l’espace partenaires|[Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)|
-|Répondre plus rapidement les solutions plus rentables prendre en charge des charges de travail cloud hautement prévisible et persistantes lors de la vente des instances réservées Azure et Windows Server et abonnements SQL Server par le biais du programme CSP de Microsoft. Vous pouvez maintenant acquérir, approvisionner et gérer les instances réservées Azure et les abonnements de serveur pour le compte de clients commerciaux à l’aide de l’espace partenaires et le portail Microsoft Azure en tirant parti d’Azure Hybrid Benefit.|[Vendre des abonnements de logiciel via le programme CSP](csp-software-subscriptions.md)|
-|Découvrir l’analyse des données nouveaux outils afin de mieux suivre vos besoins et la croissance de votre entreprise| [Contribution partenaire - rester au-dessus des indicateurs de performance](partner-contributions.md)|
-|Les partenaires CSP peuvent désormais analyser l’utilisation d’Azure, revendeur indirect des efforts et taux d’adoption et d’utilisation licence et d’abonnement|[Utilisation de Azure analyser](analyze-azure-usage.md) [Performances de revendeurs indirects analyser](Analyze-indirect-resellers.md) [Licences et les abonnements d’analyser](analyze-subscriptions-licenses.md)      |
+|Utilisez le centre de partenaires pour vendre vos abonnements de clients aux logiciels, produits de Service (SaaS) publié à la place de marché Azure  | [Vendre des abonnements aux produits de la place de marché Azure](sell-marketplace-products.md)|
+|Le programme CSP permet aux partenaires acquérir, de configurer et de gérer des instances réservées Azure et les abonnements serveur pour le compte de clients commerciaux à l’aide de partenaires et le portail Microsoft Azure.|[Instances de machine virtuelle réservées Azure (RI) + abonnements de serveur pour Azure](azure-ri-server-subscriptions.md)|
+|Visite guidée des partenaires (connexion requise)|[Visite guidée de partenaires](https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview)|
+|Partenaires CSP participer au programme de co-op incitations peuvent maintenant créer et gérer les revendications dans le centre de partenaires|[Créer et gérer des revendications de primes](create-incentives-claims.md)|
+|Répondre plus rapidement aux besoins croissants de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail dans le Cloud prévisibles et durables en vendant des instances réservées Azure et des abonnements Windows Server et SQL Server via le programme Microsoft Fournisseur de solutions Cloud. Maintenant, vous pouvez acquérir, configurer et gérer des instances réservées Azure et les abonnements de serveur pour le compte de clients commerciaux à l’aide de partenaires et le portail Microsoft Azure en tirant parti de l’offre Azure Hybrid Benefit.|[Vendre des abonnements de logiciels via CSP](csp-software-subscriptions.md)|
+|Découvrir les nouveaux outils d'analyse des données pour mieux suivre les besoins et la croissance de votre entreprise| [Contribution de partenaire - Restez informé des indicateurs de performance](partner-contributions.md)|
+|Les partenaires de fournisseur de solutions Cloud peuvent désormais analyser l'utilisation d’Azure, les efforts du revendeur indirect et les taux d’adoption et d’utilisation des licences et des abonnements|[Analyser l’utilisation Azure](analyze-azure-usage.md)[analyser les performances des revendeurs indirects](Analyze-indirect-resellers.md)[analyser les abonnements et licences      ](analyze-subscriptions-licenses.md)|
 

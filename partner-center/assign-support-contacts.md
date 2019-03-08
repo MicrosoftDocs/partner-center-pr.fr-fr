@@ -1,20 +1,20 @@
 ---
-title: Assigner des contacts de support | Espacepartenaires
+title: Assigner des contacts de support | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Lorsque vous configurez des abonnements aux services Microsoft pour vos clients, vous pouvez souhaiter assigner le support technique de ces produits à un revendeur désigné, plutôt que d'assurer vous-même ce service.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: agent d’aide, support, affecter un contact de support, contact chargé du support
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89b5d6bc493e1de970425bb35bbabb90cc963510
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 5dbfe3ef49840983b037a6716fad0674e28df4e9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062347"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584392"
 ---
 # <a name="assign-support-contacts"></a>Assigner des contacts de support
 
@@ -24,7 +24,7 @@ ms.locfileid: "9062347"
 
 Lorsque vous configurez des abonnements aux services Microsoft pour vos clients, vous pouvez souhaiter assigner le support technique de ces produits à un revendeur désigné, plutôt que d'assurer vous-même ce service.
 
-Une fois ces contacts de support configurés, les clients voient les coordonnées du contact de support assigné sur les pages de support technique. Par exemple, lorsque les clients d'Office365 ont besoin d'un support, ils peuvent accéder à la page Office.com, se connecter à l'aide de leurs informations d’identification d’administrateur, sélectionner la vignette **Administrateur** et dans la section **Support**, consulter les coordonnées du support assigné.
+Une fois ces contacts de support configurés, les clients voient les coordonnées du contact de support assigné sur les pages de support technique. Par exemple, lorsque les clients d'Office 365 ont besoin d'un support, ils peuvent accéder à la page Office.com, se connecter à l'aide de leurs informations d’identification d’administrateur, sélectionner la vignette **Administrateur** et dans la section **Support**, consulter les coordonnées du support assigné.
 
 Cette fonction peut être utilisée pour des scénarios de type [multipartenaire](multipartner.md) et [multicanal](multichannel.md). 
 
@@ -33,11 +33,11 @@ Cette fonction peut être utilisée pour des scénarios de type [multipartenaire
 
 1.  Commencez par une [demande de relation](request-a-relationship-with-a-customer.md) avec votre revendeur produit désigné. Négociez un contrat de support avec lui pour la gestion du support technique.
 
-2.  Dans le menu **Espace partenaires** , sélectionnez des **clients**, puis sélectionnez un client, puis sélectionnez un abonnement, par exemple, Office 365 Business Premium.
+2.  À partir de la **partenaires** menu, sélectionnez **clients**, puis sélectionnez un client, puis sélectionnez un abonnement, par exemple, Office 365 Business Premium.
 
 3.  Dans **Contact de support désigné**, sélectionnez le revendeur produit désigné, puis cliquez sur **Soumettre**. 
 
-    Remarques: 
+    Remarques : 
     
     *  Pour les nouveaux abonnements, le contact de support désigné est par défaut le fournisseur indirect. Vous pouvez également le remplacer par un revendeur indirect disposant de privilèges d’administration de délégation.
     
@@ -45,6 +45,6 @@ Cette fonction peut être utilisée pour des scénarios de type [multipartenaire
 
 4.  Vérifiez que les modifications sont correctes, puis sélectionnez **Fermer**.
 
-## <a name="related-topics"></a>Rubriques associées
+## <a name="related-topics"></a>Rubriques connexes
 
 [Supprimer une relation avec un client](remove-a-relationship.md)

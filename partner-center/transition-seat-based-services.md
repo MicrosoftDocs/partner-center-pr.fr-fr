@@ -1,43 +1,43 @@
 ---
-title: Transfert des clients des services basés sur les licences vers le programme Fournisseur de solutionsCloud sur l'Espace partenaires | Espace partenaires
+title: Transfert des clients des services basés sur les licences vers le programme Fournisseur de solutions Cloud sur l'Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Déplacer des clients et leurs abonnements vers le programme CSP à partir d’un autre canal ou d’un autre partenaire.
-author: labrenne
+description: Déplacer les clients et leurs abonnements vers le programme fournisseur de solutions Cloud à partir d’un autre canal ou d’un autre partenaire.
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 62c85a7ff33e9dd11fa867074c53cd19b4015139
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 7277802d5e2aec6118a8334520be89602f15632a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795312"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587772"
 ---
-# <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>Transférer des clients des services basés sur les licences vers le programme fournisseur de solutions Cloud à partir d’un autre canal ou d’un partenaire à un autre
+# <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>Transférer des clients des services basés sur les licences vers le programme Fournisseur de solutions Cloud à partir d’un autre canal ou d’un autre partenaire
 
 **S’applique à**
 
 -  Espace partenaires
 
-Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonnements à un autre partenaire ou gérer les abonnements qu'il a achetés ailleurs, vous pouvez les déplacer manuellement. Vous pouvez également déplacer des clients dans l’espace partenaires à partir d’un autre canal.
+Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonnements à un autre partenaire ou gérer les abonnements qu'il a achetés ailleurs, vous pouvez les déplacer manuellement. Vous pouvez également déplacer les clients au Partner Center à partir d’un autre canal.
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Transfert des abonnements basés sur les licences de vos clients vers le programme Fournisseur de solutionsCloud
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Transfert des abonnements basés sur les licences de vos clients vers le programme Fournisseur de solutions Cloud
 
-1. Sélectionnez des **clients** dans le menu espace partenaires, puis sélectionnez **demander une relation de revendeur**. Pour prendre en charge pour les comptes multicanaux, vous faites de même.
+1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez **demander une relation de revendeur**. Pour fournir un support à des comptes multicanaux, vous devez faire la même chose.
 
-2.  Une fois que le client accepte votre invitation, vous serez en mesure de configurer les abonnements de votre choix et les licences pour le client (par exemple, l’offre Office 365 même que le client a achetée précédemment).
+2.  Une fois que le client accepte votre invitation, vous pouvez configurer les abonnements et les licences de votre choix pour le client (par exemple, une offre Office 365 identique à celle que le client a achetée précédemment).
 
 3. Le client peut soit autoriser ses abonnements d’origine à expirer ou les annuler. Toutefois, dans la mesure où les abonnements annulés ne donnent droit à aucun remboursement, il est préférable d’attendre que les abonnements du client arrivent près de la date d’expiration naturelle.
 
 4. Le client continuera alors en utilisant les abonnements que vous avez configurés, sans interruption.
 
 
-Si vous configurez des offres identiques à celles que votre client utilisait jusqu'à présent, il est inutile de réaffecter les licences et il n’y aura aucune interruption pour les utilisateurs finaux. Les offres doivent être le même pour vous assurer sans perte de données. Tant que le nombre total de licences reste le même et l’offre n’est équivalent vos clients ne paraîtra aucun impact.
+Si vous configurez des offres identiques à celles que votre client utilisait jusqu'à présent, il est inutile de réaffecter les licences et il n’y aura aucune interruption pour les utilisateurs finaux. Les offres doivent être identiques pour éviter toute perte de données. Tant que le nombre total de licences reste le même et que l’offre est équivalente, vos clients ne sentiront aucun changement.
 
-Si vous transférez des clients qui se trouvent sur les offres qui ont été abandonnés, vous devez trouver une équivalente offre afin d’empêcher la perte de données. Si vous faites passer le client à une offre différente, vous devez mettre à jour son attribution des licences.
+Si vous transférez les clients qui sont sur des offres qui ont été abandonnées, vous devez trouver une offre équivalente afin d’éviter toute perte de données. Si vous faites passer le client à une offre différente, vous devez mettre à jour son attribution des licences.
 
 >[!NOTE]
->Vous, le partenaire fournisseur de solutions cloud, doit être dans la même région que le locataire du client pour effectuer la transition ce client à vous. 
+>Vous, le partenaire CSP, doit être dans la même région que le client à ce client pour vous une transition. 
 
 
 

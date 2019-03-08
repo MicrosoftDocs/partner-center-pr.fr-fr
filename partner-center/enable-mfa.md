@@ -1,29 +1,29 @@
 ---
-title: Vous devez activer l’authentification multifacteur (MFA) sur votre client pour accéder à cette page | L’espace partenaires
+title: Vous devez activer l’authentification multifacteur (MFA) sur votre client pour accéder à cette page | Partenaires
 ms.topic: article
 ms.date: 12/21/2018
 description: ''
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: health, service health,service problems
+Keywords: contrôle d’intégrité, l’intégrité du service, les problèmes de service
 ms.localizationpriority: medium
-ms.openlocfilehash: 2789e333655d27b7009aaa020b461d70086c8ef2
-ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
+ms.openlocfilehash: b04440e11f3f04ca68e56e440585bb9da55f8a27
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995020"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586582"
 ---
-# <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a>Vous devez activer l’authentification multifacteur (MFA) sur votre client pour accéder à l’espace partenaires
+# <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a>Vous devez activer l’authentification multifacteur (MFA) sur votre client pour accéder aux partenaires
 
-**S'applique à**
+**S’applique à**
 
 - Espace partenaires
 
 
-Microsoft Partner Center maintenant, vous devez activer l’authentification multifacteur (MFA) pour accéder à l’espace partenaires.  
-Les partenaires peuvent permettre une authentification multifacteur à l’aide de [solutions Microsoft Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks) ou adopter des solutions MFA un fournisseurs tiers. Notez que votre solution tierce sélectionnée doit être pris en charge par Microsoft Azure Active Directory. Reportez-vous à la documentation de votre fournisseur de solutions MFA pour confirmer. 
+Microsoft Partner Center requiert désormais vous permet d’activer l’authentification multifacteur (MFA) pour accéder aux partenaires.  
+Les partenaires peuvent activer à l’aide de l’authentification multifacteur [solution Microsoft Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks) ou à adopter des solutions d’authentification Multifacteur un fournisseurs tiers. Notez que votre solution de tiers sélectionnée doit être pris en charge par Microsoft Azure Active Directory. Reportez-vous à la documentation de votre fournisseur de solution MFA pour confirmer. 
 
-En savoir plus sur le [déploiement d’Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted). 
+En savoir plus sur [déploiement d’Azure MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted). 
  

@@ -3,30 +3,30 @@ title: Ajouter des logiciels tiers à votre portefeuille | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Acheter des logiciel tiers compatibles avec les produits Microsoft
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: offres tierces, logiciels à acheter
 ms.localizationpriority: medium
-ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb378c5fded17bd7f8f7c35d375278097fc32098
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795762"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586812"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Ajouter des logiciels tiers à votre portefeuille
 
-S'applique à:
+S’applique à :
 
 - Espace partenaires
 
 Vous pouvez désormais acheter dans l’Espace partenaires des offres de logiciels tiers que vous pouvez proposer aux clients. Il s’agit d’un excellent moyen de différencier votre entreprise et de fournir à vos clients des offres groupées de logiciels qui répondent à leurs besoins spécifiques. Ils pourront également continuer à travailler avec vous, dans une relation de confiance.
 
-Actuellement, l’Espace partenaires propose des offres de logiciels tiers qui s’intègrent à Azure, Office365 et Dynamics 
+Actuellement, l’Espace partenaires propose des offres de logiciels tiers qui s’intègrent à Azure, Office 365 et Dynamics 
 
-## <a name="connect-with-third-party-partners"></a>Entrer en contact avec des partenaires tiers
+## <a name="connect-with-third-party-partners"></a>Se connecter avec les partenaires tiers
  
-En tant que partenaire fournisseur de solutions cloud, vous pourrez effectuer des recherches dans les offres de logiciels tiers. Vous pouvez vous connecter avec des partenaires éditeurs de logiciels indépendants et créer votre catalogue de produits. Les partenaires éditeurs de logiciels indépendants peuvent également rechercher des partenaires fournisseurs de solutions cloud avec lesquels travailler. Ils peuvent faire des recherches en fonction des types de produits Microsoft que vous vendez, mais aussi consulter le profil de votre entreprise. Il est important de maintenir à jour le profil de votre entreprise. Vous avisez un partenaire éditeur de logiciels indépendant de votre intérêt pour son produit en cliquant sur le bouton Je suis intéressé qui se trouve sur l’identificateur de produit et en remplissant le formulaire qui s’affiche. Microsoft l'envoie au partenaire éditeur de logiciels indépendant La réponse de celui-ci est conservée dans l’Espace partenaires. De même, lorsqu’un partenaire éditeur de logiciels indépendant exprime son souhait de travailler avec vous, vous recevez une notification par l'intermédiaire de l'espace partenaires. Essayez de répondre dans les 48heures.
+En tant que partenaire fournisseur de solutions cloud, vous pourrez effectuer des recherches dans les offres de logiciels tiers. Vous pouvez vous connecter avec des partenaires éditeurs de logiciels indépendants et créer votre catalogue de produits. Les partenaires éditeurs de logiciels indépendants peuvent également rechercher des partenaires fournisseurs de solutions cloud avec lesquels travailler. Ils peuvent faire des recherches en fonction des types de produits Microsoft que vous vendez, mais aussi consulter le profil de votre entreprise. Il est important de maintenir à jour le profil de votre entreprise. Vous avisez un partenaire éditeur de logiciels indépendant de votre intérêt pour son produit en cliquant sur le bouton Je suis intéressé qui se trouve sur l’identificateur de produit et en remplissant le formulaire qui s’affiche. Microsoft l'envoie au partenaire éditeur de logiciels indépendant La réponse de celui-ci est conservée dans l’Espace partenaires. De même, lorsqu’un partenaire éditeur de logiciels indépendant exprime son souhait de travailler avec vous, vous recevez une notification par l'intermédiaire de l'espace partenaires. Essayez de répondre dans les 48 heures.
 
 ## <a name="access-to-third-party-offers"></a>Accès aux offres tierces
 
@@ -40,7 +40,7 @@ Recherchez et trouvez les types d’offres qui sont adaptés à votre portefeuil
 
 1. Sélectionnez **Offres tierces** dans le volet de navigation gauche.
 2. L’affichage par défaut affiche toutes les offres disponibles.
-3. Filtrez sur:
+3. Filtrez sur :
     - disponibilité par marché (région)
     - les produits Microsoft avec lesquels les produits tiers sont compatibles
     - le type d'activité
@@ -56,7 +56,7 @@ Dans la page de détails, vous trouverez un lien vers le site web de l’éditeu
 
 L’achat des logiciels tiers s’effectue de la même façon que l'achat de logiciels internes. 
 
-1. À partir du **Centre de partenaires**, sélectionnez les **clients**
+1. À partir de la **partenaires**, sélectionnez **clients**
 2. Sélectionnez **Nouvel abonnement**.
 3. Sélectionnez la facturation mensuelle pour les logiciels tiers. La facturation annuelle et les essais ne sont actuellement pas disponibles pour les logiciels tiers.
 4. Dans l’onglet Tiers, sélectionnez le produit que vous souhaitez acheter.

@@ -2,21 +2,21 @@
 title: Compétence Développement d’applications
 ms.topic: article
 ms.date: 10/29/2018
-description: Permet une livraison de logiciels plus rapide et une amélioration continue. Rejoignez nos 60000 partenaires développeurs d’applications pour démarquer votre entreprise et devenez un partenaire Microsoft en obtenant la compétence Développement d’applications.
-author: Daniel Simpson
+description: Permet une livraison de logiciels plus rapide et une amélioration continue. Rejoignez nos 60 000 partenaires développeurs d’applications pour démarquer votre entreprise et devenez un partenaire Microsoft en obtenant la compétence Développement d’applications.
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence,compétences, Applications métier du cloud, développement d’applications
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c367960a24cdf278991cc74cd5354c8886d67694
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5a0123f1ec9052f409ad9964cf9c1761f9df7bb2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795032"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583892"
 ---
 >[!IMPORTANT]
->Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

@@ -7,43 +7,43 @@ ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 MS.Author: evansma
 ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083382"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587462"
 ---
 # <a name="update-your-partner-profile"></a>Mettre à jour votre profil de partenaire
 
 
-Lors de votre première connexion à l’Espace partenaires en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil. Si votre organisation dispose de plusieurs emplacements, passez en revue vos données d’emplacement pour une précision.
+Lors de votre première connexion à l’Espace partenaires en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil. Si votre organisation a plusieurs emplacements, passez en revue vos données de localisation pour la précision.
 
-**Mettre à jour les détails de votre support**
+**Mettre à jour vos informations de prise en charge**
 
-1.  Accédez à **Paramètres** &gt; **Afficher tous les paramètres** &gt; **Profil de partenaire**.
+1.  Accédez à **paramètres** &gt; **afficher tous les paramètres** &gt; **profil de partenaire**.
 2.  Dans la section **Support**, sélectionnez **Mettre à jour**.
 3.  Si l’un de vos clients appelle Microsoft à la recherche d’assistance, Microsoft le renvoie au site web, à l’adresse électronique et aux coordonnées téléphoniques que vous avez indiqués dans votre profil de support.
 
-**Déposer des exonérations fiscales**
+**Fichier exonérations**
 
 -   Voyez si les exonérations fiscales vous concernent, et le cas échéant, déposez-les avant d’ajouter des clients ou des abonnements. Voir [Taxes et exonérations fiscales](tax-and-tax-exemptions.md).
 
-**Vérifier les informations de votre profil**
+**Vérifiez vos informations de profil**
 
-1.  Accédez à **Paramètres** &gt;**Afficher tous les paramètres**. 
+1.  Accédez à **paramètres** &gt; **afficher tous les paramètres** . 
 2.  Vérifiez les informations dans **Profil de partenaire**, **Profil de facturation du partenaire** et **Profil d’organisation**.
 
 ## <a name="manage-your-partner-profile"></a>Gérer votre profil de partenaire 
 
-Vous pouvez maintenant mettre à jour votre adresse légale sur l’espace partenaires.
+Vous pouvez maintenant mettre à jour votre adresse légale sur Partner Center.
 
-1. Accédez à **Paramètres** &gt; **Afficher tous les paramètres** &gt; **Profil de partenaire**.
-2. En regard de l’adresse légale, sélectionnez **mise à jour** . 
+1. Accédez à **paramètres** &gt; **afficher tous les paramètres** &gt; **profil de partenaire**.
+2. Sélectionnez **mise à jour** en regard de l’adresse légale. 
 
 >[!Important]
->Vous ne pouvez pas modifier le pays associé à votre adresse légale. Votre pays de l’adresse légale est liée à votre client et les services. Pour plus d’informations, lisez [modifier votre adresse légale](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).
+>Vous ne pouvez pas modifier le pays associé à votre adresse légale. Votre pays de l’adresse légale est lié à votre client et les services. Pour plus d’informations, consultez [modifier votre adresse légale](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).
 
-3. Lorsque vous sélectionnez **Envoyer**, votre identité juridique sera nouvelle évaluation, et vous recevrez un autre message électronique dont vous aurez besoin pour accepter.
+3. Lorsque vous sélectionnez **envoyer**, votre identité juridique sera ré-évaluée, et vous recevrez un autre message électronique que vous devez accepter.
 
 
 

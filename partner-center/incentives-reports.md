@@ -1,17 +1,17 @@
 ---
-title: Les rapports de données dynamiques remplacent les rapports mensuels pour certains programmes de primes incitatives | Espacepartenaires
+title: Les rapports de données dynamiques remplacent les rapports mensuels pour certains programmes de primes incitatives | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Les programmes de primes incitatives Ventes OSA et Utilisation des services en ligne peuvent désormais obtenir des rapports de données dynamiques.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098716"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583842"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Les rapports de données dynamiques remplacent les rapports mensuels pour certains programmes de primes incitatives
 
@@ -23,7 +23,7 @@ Microsoft a retiré le site Partner Incentive Reporting and Analytics (PIRA) et 
 
 Actuellement, cela affecte les programmes de primes incitatives Ventes OSA et Utilisation des services en ligne.
 
-## <a name="things-to-remember"></a>Points à retenir: 
+## <a name="things-to-remember"></a>Points à retenir : 
 
 - L'ajustement, les gains et les données de paiement peuvent être rapprochées en exportant les données vers Excel à l’aide de la nouvelle fonctionnalité sur PIE.
 
@@ -31,9 +31,9 @@ Actuellement, cela affecte les programmes de primes incitatives Ventes OSA et Ut
 
 - Les données dynamiques qui peuvent être exportées vers Excel ont remplacé les relevés du programme mensuels.
 
-- La page Relevés de PIRA n’affiche pas les données au-delà de mars2017.
+- La page Relevés de PIRA n’affiche pas les données au-delà de mars 2017.
  
-## <a name="start-using-the-new-reporting-functionality"></a>Commencer à utiliser la nouvelle fonctionnalité de création de rapports: 
+## <a name="start-using-the-new-reporting-functionality"></a>Commencer à utiliser la nouvelle fonctionnalité de création de rapports : 
 
 1. Téléchargez et lisez les ressources de préparation sur MPN [Création de rapports sur les primes incitatives des partenaires sur Partner Incentives Experience](https://aka.ms/osareadiness ).
 

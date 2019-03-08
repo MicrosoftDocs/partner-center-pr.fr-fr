@@ -2,39 +2,39 @@
 title: Ajouter un nouveau client | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure AD.
+description: Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure&nbsp;AD.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
 ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683688"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586242"
 ---
-# <a name="add-a-new-customer"></a>Ajouter un nouveau client
+# <a name="add-a-new-customer"></a>Ajouter un client
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 
 
 
-Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un compte pour votre client dans votre espace partenaires. Cet enregistrement comprend les coordonnées du client et un domaine Azure&nbsp;AD.
+Avant de pouvoir vendre des abonnements, gérer la facturation ou prennent en charge, vous devez créer un compte pour votre client dans votre centre de partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure&nbsp;AD.
 
 Pour les clients disposant déjà de comptes client et d’abonnements via un scénario de type [multicanal](multichannel.md) ou [Multipartenaire](multipartner.md), vous pouvez [demander une relation avec un client](request-a-relationship-with-a-customer.md), au lieu de suivre les étapes décrites ici.
 
 **Ajouter un client**
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**. Sélectionnez ensuite **Ajouter un client**.
+1.  À partir de la **partenaires** menu, sélectionnez **clients**. Sélectionnez ensuite **Ajouter un client**.
 
-2.  Dans la page **Informations sur le compte**, renseignez les informations sur la société et le contact principal, puis sélectionnez **Suivant&nbsp;: Abonnements**.
+2.  Sur le **informations sur le compte** page, réaliser les détails de l’entreprise et les informations de contact principales, puis sélectionnez **suivant : Abonnements**.
 
-3.  Dans la page **Abonnements**, choisissez la ou les offres appropriées, entrez le nombre de licences, puis sélectionnez **Suivant&nbsp;: Passer en revue**.
+3.  Sur le **abonnements** page, choisissez les offres corrects, entrez le nombre de licences, puis sélectionnez **suivant : Révision**.
 
 4.  Dans la page **Passer en revue**, vérifiez les informations saisies, cliquez sur **Modifier** si vous devez apporter des modifications au compte ou aux offres, puis cliquez sur **Envoyer**.
 

@@ -2,35 +2,35 @@
 title: Lire votre facture | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Il est disponible dans l’espace partenaires.
+description: Votre facture récapitule tous les frais (sur le programme, les produits et les clients) du mois en cours. Il est disponible sur les partenaires.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture?
+keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture ?
 ms.localizationpriority: medium
 ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
-ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "8997338"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584542"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 
 
-Pour consulter votre facture, accédez au menu **Espace partenaires** , puis sélectionnez la **facturation** pour afficher votre historique de facturation et les tendances, des liens vers votre facture et fichier de rapprochement et votre dernier paiement.
+Pour votre facture, accédez à la **partenaires** , puis sélectionnez **facturation** pour afficher votre historique de facturation et les tendances, établit un lien vers votre fichier de rapprochement de facture et votre paiement le plus récent.
 
-Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
+Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60 jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 
 > [!NOTE]  
-> Votre facture est une synthèse de tous les frais--sur le programme, les produits et clients--pour la période de facturation en cours et est disponible dans les deux (2) jours suivant la date de facturation sélectionnée dans l’heure UTC. Par exemple, si vous avez un 12 septembre date de facturation, le processus de génération de facture commence à 12 h 00 UTC sur le 13e et terminer par UTC 12 h 00 sur le 14. Si vous ne voyez pas votre facture par UTC 23:59 h 00 sur le 15, vous êtes en dehors de votre contrat de niveau de Service et devez soumettre une demande de service. 
+> Votre facture est un résumé de tous les frais--sur le programme, les produits et les clients--pour la période de facturation actuelle et est disponible dans les deux (2) jours suivant votre date de facturation sélectionnée au format UTC. Par exemple, si vous avez un le 12 septembre, date de facturation, le processus de génération de facture commencent à 12 h 00 UTC, le 13e jour et terminez en 12 h 00 UTC sur le 14. Si vous ne voyez pas votre facture en heure UTC 11:59 PM le 15, vous êtes en dehors de votre contrat de niveau de Service et soumettez une demande de service. 
 
-Vous recevrez une facture pour basée sur la licence (Office 365) et sur l’utilisation des frais (Azure) et une facture distincte à usage unique (Azure reserved VM instances) frais.
+Vous recevrez une facture pour les frais basés sur une licence (Office 365) et basés sur l’utilisation (Azure) et une facture distincte pour les frais ponctuels (Azure reserved VM instances).
 
 Pour plus d’informations sur les frais par élément, utilisez les fichiers de rapprochement joints. Les fichiers de rapprochement comprennent les ID de clients et d’abonnements que vous utiliserez pour créer des factures client. Pour plus d’informations, voir [Utilisation des fichiers de rapprochement](use-the-reconciliation-files.md).
 
@@ -57,11 +57,11 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="even">
 <td>Adresse de facturation</td>
-<td>Adresse d’expédition de votre facture. Pour modifier le nom de la société ou l’adresse, modifiez votre profil de facturation de l’espace partenaires. </td>
+<td>Adresse d’expédition de votre facture. Pour modifier le nom de la société ou l’adresse, modifiez votre profil de facturation de Partner Center. </td>
 </tr>
 <tr class="odd">
-<td>Frais basé sur les licences</td>
-<td>Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service. Ce montant est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonneT).</td>
+<td>Frais basés sur la licence</td>
+<td>Frais mensuels (ou annuels) fixes des licences basées sur l’utilisation que vous avez achetées, facturés avant le service. Ce montant est la somme de tous les frais indiqués dans la colonne &quot;Subtotal&quot; du fichier de rapprochement basé sur la licence (colonne T).</td>
 </tr>
 <tr class="even">
 <td>Frais basés sur l’utilisation</td>
@@ -78,7 +78,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 <tr class="even">
 <tr class="even">
 <td>Sous-total</td>
-<td>Total avant taxes et frais de taxe et les crédits.</td>
+<td>Total avant les taxes et frais et crédits hors taxes.</td>
 </tr>
 <td>Taxe</td>
 <td>Total des taxes des frais en cours correspond au total de la section des détails commençant à la page&nbsp;2 de la facture. Ce nombre est la somme de tous les frais indiqués dans&nbsp;:
@@ -89,7 +89,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="odd">
 <td>Autres crédits</td>
-<td>Crédits de taxe.</td>
+<td>Crédits hors taxes.</td>
 </tr>
 <tr class="even">
 <td>Total des frais en cours</td>
@@ -105,15 +105,15 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="odd">
 <td>Période de facturation</td>
-<td>Du mois en conduisant à la date de facturation. Il s’agit de la période pendant laquelle basés sur l’utilisation des services sont utilisés et les services basés sur la licence sont rapprochées pour des ajustements de crédit ou des modifications dans le nombre de licences.</td>
+<td>La période d’un mois mènent à la date de facture. Il s’agit de la période pendant laquelle basée sur l’utilisation des services sont consommées et services basés sur les licences sont rapprochées pour des ajustements de crédit ou des modifications dans le nombre de licences.</td>
 </tr>
 <tr class="even">
 <td>Date de facturation</td>
-<td>Votre date de facturation ou la date anniversaire sur lequel votre facture est généré chaque mois.</td>
+<td>Votre date de facturation ou de la date d’anniversaire sur lequel votre facture est générée chaque mois.</td>
 </tr>
 <tr class="odd">
 <td>Modalités de paiement</td>
-<td>Pour les achats ponctuels, le délai sera toujours de 60jours.</td>
+<td>Pour les achats ponctuels, le délai sera toujours de 60 jours.</td>
 </tr>
 <tr class="even">
 <td>Date d’échéance du paiement</td>
@@ -129,7 +129,7 @@ Pour plus d’informations sur les frais par élément, utilisez les fichiers de
 </tr>
 <tr class="odd">
 <td>Bénéficiaire du service</td>
-<td>Adresse où le service est utilisé. (C’est l’adresse officielle de société).</td>
+<td>Adresse où le service est utilisé. (Ceci est l’adresse légale de la société associée d’instruction de la société).</td>
 </tr>
 </tbody>
 </table>

@@ -2,17 +2,17 @@
 title: Tarification et offres | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: La liste des offres inclut les différentes familles de produits qui peuvent être achetés par le biais de l’espace partenaires et les informations de tarification.
-author: labrenne
+description: La liste des offres inclut les familles de produits différents qui peuvent être achetés via l’espace partenaires et leurs informations de tarification.
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ea3fefc6888c14060360a98bbd2373ff905d7a
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995753"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586732"
 ---
 # <a name="pricing-and-offers"></a>Tarification et offres
 
@@ -20,17 +20,17 @@ ms.locfileid: "8995753"
 
 -  Espace partenaires
 
-Pour afficher les dernières listes de prix et offres du programme Fournisseur de solutions Cloud, accédez à **Vendre > Tarification et offres**. Vous trouverez des listes de prix distinctes pour les services basés sur les licences, notamment Office365, MicrosoftDynamicsCRM, et Enterprise Mobility Suite et pour les services basés sur l’utilisation, comprenant MicrosoftAzure. 
+Pour afficher les dernières listes de prix et offres du programme Fournisseur de solutions Cloud, accédez à **Vendre > Tarification et offres**. Vous trouverez des listes de prix distinctes pour les services basés sur les licences, notamment Office 365, Microsoft Dynamics CRM, et Enterprise Mobility Suite et pour les services basés sur l’utilisation, comprenant Microsoft Azure. 
 
-La liste des offres inclut les différentes familles de produits qui peuvent être achetés par le biais de l’espace partenaires. Il s’agit actuellement d’Office365, EnterpriseMobilitySuite, MicrosoftDynamicsCRM et MicrosoftAzure. D’autres produits seront ajoutés à cette liste.
+La liste des offres inclut les familles de produits différents qui peuvent être achetés via l’espace partenaires. Il s’agit actuellement d’Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM et Microsoft Azure. D’autres produits seront ajoutés à cette liste.
 
 Pour chaque famille de produits, il existe plusieurs références et offres groupées disponibles à la vente, selon votre activité. Vous pouvez toujours accéder aux détails les plus récents pour chaque produit à partir du tableau des offres des revendeurs cloud de la page Tarification et offres.
 
 ## <a name="pricelist-preview-and-change-frequency"></a>Aperçu de liste de prix et fréquence de modification 
 
-Les services basés sur les licences incluent un aperçu de la liste de prix, fourni 30jours avant toute modification. Pour afficher l’aperçu de la liste de prix, accédez à **Vendre > Tarification et offres**. Aucun aperçu de prix n’est fourni pour les services basés sur l’utilisation, car ces services sont dynamiques. Le tableau suivant explique comment interpréter le tableau de liste de prix.
+Les services basés sur les licences incluent un aperçu de la liste de prix, fourni 30 jours avant toute modification. Pour afficher l’aperçu de la liste de prix, accédez à **Vendre > Tarification et offres**. Aucun aperçu de prix n’est fourni pour les services basés sur l’utilisation, car ces services sont dynamiques. Le tableau suivant explique comment interpréter le tableau de liste de prix.
 
-|**Élément**        |**Définition**      |
+|**Item**        |**Définition**      |
 |:-----------   |:-----------   |
 |ADD   |Nouvel élément dans la liste de prix|
 |CHG   |Modifications apportées à la liste de prix, modification de la description de la référence|
@@ -43,7 +43,7 @@ Les services basés sur les licences incluent un aperçu de la liste de prix, fo
 |Type de contrat de licence   |Le type de contrat peut être professionnel, gouvernemental ou académique et il détermine à quels types de clients l’offre peut être vendue.|
 |Unité d’achat   |Il s’agit de la durée de l’offre achetée. Elle est généralement d’un mois.   |
 |Type de licence secondaire   |Il s’agit soit d’une offre non spécifique, d’une extension ou d’une version d’évaluation. Extension indique que le client doit acheter des logiciels requis avant d’acheter l’extension.|
-|Type de client final   |Se rapporte au type de contrat de licence: licence d’entreprise - entreprise du revendeur cloud, licence gouvernementale - gouvernement du revendeur cloud ou licence pour établissements scolaires - corps enseignant du revendeur cloud ou étudiant du revendeur cloud   |
+|Type de client final   |Se rapporte au type de contrat de licence : licence d’entreprise - entreprise du revendeur cloud, licence gouvernementale - gouvernement du revendeur cloud ou licence pour établissements scolaires - corps enseignant du revendeur cloud ou étudiant du revendeur cloud   |
 |Liste de prix   |Prix payé par le partenaire   |
 |Prix moyen estimé   |Prix de vente au détail estimé ou recommandé pour le client   |
 
@@ -51,8 +51,8 @@ Les services basés sur les licences incluent un aperçu de la liste de prix, fo
 
 Pour plus d’informations sur les références et les offres groupées de produits disponibles à la vente, consultez le tableau des offres des revendeurs cloud de la page Tarification et offres. Le tableau des offres inclut les offres disponibles par région. Si un élément figure dans la liste de prix, mais n’est pas encore répertorié dans le tableau des offres, cela signifie que les produits ne peuvent pas encore être commandés. Dès qu’ils seront disponibles à la commande, le tableau des offres sera mis à jour.
 
-Pour les partenaires fournisseurs de solutions cloud qui utilisent le les Kits de développement partenaire centre logiciel (SDK). Microsoft publie également une liste des services Azure dans le programme Fournisseur de solutions Cloud dans la page Tarification et offres.
+Pour les partenaires CSP qui utilisent les Kits de développement de logiciel Partner Center (SDK). Microsoft publie également une liste des services Azure dans le programme Fournisseur de solutions Cloud dans la page Tarification et offres.
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>Questions sur le tableau des offres et la liste de prix
 
-Si vous avez des questions sur le tableaux des offres ou, envoyez une demande de service par le biais de l’espace partenaires.
+Si vous avez des questions concernant la matrice pricelist ou de l’offre, soumettre une demande de service via l’espace partenaires.

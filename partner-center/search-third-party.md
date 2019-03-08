@@ -3,20 +3,20 @@ title: Découvrir les offres tierces que vous pouvez vendre | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Recherchez et trouvez les types d’offres tierces qui sont adaptés à votre portefeuille.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: offres tierces, logiciel à acheter, rechercher des tiers
 ms.localizationpriority: medium
-ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cde02b44d728e7c5d32295ce730ee71bfc41d1e4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796962"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585452"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Découvrir les offres tierces que vous pouvez vendre
 
-**S'applique à:**
+**S’applique à**
 
 -  Espace partenaires
 
@@ -24,7 +24,7 @@ Recherchez et trouvez les types d’offres tierces qui sont adaptés à votre po
 
 1.  Sélectionnez Offres tierces dans le volet de navigation gauche. 
 2.  L’affichage par défaut affiche toutes les offres disponibles. 
-3.  Filtrez sur:
+3.  Filtrez sur :
 
 - Disponibilité par marché (région)
 - Les produits Microsoft avec lesquels les produits tiers sont compatibles
@@ -39,13 +39,13 @@ Vous trouverez également un lien vers le site web de l’éditeur de logiciels 
 
 ## <a name="add-the-product-to-your-portfolio"></a>Ajoutez le produit à votre portefeuille
 
-Si vous intéressé par un achat du logiciel, mais que vous avez des questions supplémentaires ou souhaitez discuter avec l’éditeur de logiciels indépendant, sélectionnez **Je suis intéressé**. Remplissez le formulaire et envoyez-le. Microsoft avertira l’éditeur de logiciels. Ce dernier devrait vous recontacter dans les 24 à 48heures. Dans le cas contraire, vous pouvez accéder directement à votre catalogue pour rechercher le produit que vous souhaitez vendre.
+Si vous intéressé par un achat du logiciel, mais que vous avez des questions supplémentaires ou souhaitez discuter avec l’éditeur de logiciels indépendant, sélectionnez **Je suis intéressé**. Remplissez le formulaire et envoyez-le. Microsoft avertira l’éditeur de logiciels. Ce dernier devrait vous recontacter dans les 24 à 48 heures. Dans le cas contraire, vous pouvez accéder directement à votre catalogue pour rechercher le produit que vous souhaitez vendre.
 
 ## <a name="purchase-the-third-party-software"></a>Acheter les logiciels tiers
 
 L’achat des logiciels tiers s’effectue de la même façon que vous achetez des logiciels internes. 
 
-1. À partir du **Centre de partenaires**, sélectionnez les **clients**
+1. À partir de la **partenaires**, sélectionnez **clients**
 2. Sélectionnez **Nouvel abonnement**.
 3. Pour obtenir des instructions détaillées, voir [Créer, suspendre ou annuler des abonnements client](create-a-new-subscription.md).
 4.  Sélectionnez la facturation mensuelle pour les logiciels tiers. La facturation annuelle et les essais ne sont actuellement pas disponibles pour les logiciels tiers.

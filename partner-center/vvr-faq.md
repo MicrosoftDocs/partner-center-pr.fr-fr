@@ -1,53 +1,53 @@
 ---
-title: Forum aux questions sur outil de Validation de document | L’espace partenaires
+title: Forum aux questions sur outil de Validation de document | Partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Valider et réserver des documents dans l’espace partenaires
-author: labrenne
+description: Valider et réserver les bons partenaires
+author: LauraBrenner
 ms.author: labrenne
-keywords: valider les bons de formation, programme software assurance, de formation, documents, document de réserve
+keywords: bons de formation, programme software assurance, formation, valider les bons, chèque-cadeau de réserve
 ms.localizationpriority: medium
-ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024871"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584452"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Forum aux questions: À l’aide de l’outil de remboursement et de Validation de document 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : À l’aide de l’outil de Validation de document et d’échange 
 
-**S'applique à**
+**S’applique à**
 
 - Espace partenaires
 
-L’outil de Validation de document et de remboursement a déplacé vers [L’espace partenaires](https://partner.microsoft.com/en-us/pcv/dashboard/overview). Voici que quelques-uns des partenaires questions plus courants ont. 
+L’outil de Validation de document et d’échange a été déplacé vers [partenaires](https://partner.microsoft.com/en-us/pcv/dashboard/overview). Voici que quelques-uns des partenaires de questions courantes ont. 
 
-**Pour les partenaires qui ont migrés vers l’espace partenaires**
+**Pour les partenaires qui ont migré vers le centre de partenaires**
 
- À compter du 31 mars 2019, tous les partenaires doivent gérer leurs documents dans l’espace partenaires. Uniquement l’administrateur MPN peut accéder VVR. Pour utiliser la fonctionnalité VVR, l’administrateur Partenaire MPN peut se connecter à l’espace partenaires à l’aide de son adresse de messagerie du compte professionnel. Si vous ne savez pas: administrateur MPN de votre société, demandez contact de programme VVR principal de votre entreprise.  Si vous avez accès à l’espace partenaires, accédez à la **gestion de l’accès**, sélectionnez **les utilisateurs**et filtrer des **: administrateur MPN** . Cela vous donne une liste des administrateurs MPN de votre société.  
+ À partir du 31 mars 2019, tous les partenaires doivent gérer leurs bons dans Partner Center. Seul l’administrateur MPN permettre accéder VVR. Pour utiliser VVR, l’administrateur de partenaire MPN connectez-vous au centre de partenaires à l’aide de leur adresse de messagerie professionnelle compte. Si vous ne connaissez pas administrateur MPN de votre entreprise, demandez à principal VVR programme contact votre société.  Si vous avez accès à des partenaires, accédez à **gestion des accès**, sélectionnez **utilisateurs**et filtrez sur **MPN admin** . Cela vous donnera une liste des administrateurs MPN de votre entreprise.  
 
-**Pour les partenaires toujours en [Partner Membership Center](https://partner.microsoft.com/)**
+**Pour les partenaires toujours dans [Partner Membership Center](https://partner.microsoft.com/)**
 
-À compter du 31 mars 2019, tous les partenaires va gérer leurs documents dans l’espace partenaires. Uniquement l’administrateur MPN peut accéder VVR. Pour utiliser l’outil VVR dans l’espace partenaires, votre société devez effectuer la migration à partir de Partner Membership Center vers l’espace partenaires. Une fois que la migration est terminée, pour utiliser la fonctionnalité VVR, l’administrateur Partenaire MPN peut se connecter à l’espace partenaires, à l’aide de son adresse de messagerie du compte professionnel. Si vous ne savez pas administrateur de votre entreprise, contactez le contact de programme VVR principal pour votre entreprise.  
-
-
-**Mon entreprise a migré PMC, mais nous n’avons pas utilisé les programmes STD/SATV au cours des 18 derniers mois.**
-
-- Contactez l' [équipe de support PMC](mailto:proghelp@microsoft.com). 
+À partir du 31 mars 2019, tous les partenaires géreront leurs bons dans Partner Center. Seul l’administrateur MPN permettre accéder VVR. Pour utiliser l’outil VVR dans Partner Center, votre entreprise devrez effectuer la migration à partir de PMC pour partenaires. Une fois la migration terminée, pour utiliser la fonctionnalité VVR, l’administrateur de partenaire MPN connectez-vous à Partner Center, à l’aide de leur adresse de messagerie du compte professionnelle. Si vous ne connaissez pas administrateur de votre société, contactez le contact de programme VVR principal pour votre entreprise.  
 
 
-**Mon entreprise a migré PMC vers l’espace partenaires. Ai-je besoin spécifique pour fonctionner en VVR rien à faire?** 
+**Mon entreprise a migré à partir de PMC, mais nous n’avons pas utilisé les programmes DPS/SATV au cours des 18 derniers mois.**
 
-- Vous serez en mesure d’utiliser la fonctionnalité VVR dans l’espace partenaires.  Pour utiliser la fonctionnalité VVR, l’administrateur Partenaire MPN peut se connecter à l’espace partenaires à l’aide de son adresse de messagerie du compte professionnel. Si vous souhaitez ajouter de nouveaux utilisateurs, l’administrateur global peut le faire. Si vous avez accès à l’espace partenaires, accédez à la **gestion de l’accès**, sélectionnez **utilisateurs**, puis filtrez sur **: administrateur MPN** **d’administrateur général**. Cela vous donne une liste des MPN et les administrateurs généraux de votre société.  
+- Contactez le [équipe de support technique PMC](mailto:proghelp@microsoft.com). 
 
-**Je ne veux que quelques utilisateurs pour être en mesure d’accéder VVR**
 
-- Uniquement l’administrateur MPN peut accéder VVR. Accès au centre de l’espace est déterminée par les rôles et autorisations. Votre administrateur MPN ou un administrateur global peut déterminer qui utilise VVR en donnant à ces autorisations aux utilisateurs qui ont besoin de travailler dans l’outil.
+**Mon entreprise a migré à partir de PMC pour partenaires. Dois-je faire quelque chose de spécifique à travailler dans VVR ?** 
 
-**Je souhaite accéder à puce portal à partir de VVR**
+- Vous serez en mesure d’utiliser VVR dans Partner Center.  Pour utiliser VVR, l’administrateur de partenaire MPN connectez-vous au centre de partenaires à l’aide de leur adresse de messagerie professionnelle compte. Si vous souhaitez ajouter de nouveaux utilisateurs, l’administrateur général peut le faire. Si vous avez accès à des partenaires, accédez à **gestion des accès**, sélectionnez **utilisateurs**et filtrez sur **MPN admin** de **administrateur général**. Cela vous donnera une liste de MPN et les administrateurs généraux de votre société.  
 
-- L’espace partenaires vous nécessite pour vous connecter avec un compte professionnel (AAD).  PUCE utilise actuellement le compte personnel pour la connexion (MSA ou Live ID).  Lors de la navigation à partir de VVR dans l’espace partenaires sur le processeur, vous devrez vous connecter à puce à l’aide de votre compte Microsoft ou l’ID Live inscrite avec puce.
+**Je souhaite uniquement quelques utilisateurs à être en mesure d’accéder VVR**
 
-Pour plus d’informations sur l’inscription au SATV, [programme Software Assurance formation document (SATV) dans l’espace partenaires](software-assurance-satv.md)de lecture.
+- Seul l’administrateur MPN permettre accéder VVR. Accès des partenaires est déterminée par les rôles et autorisations. Votre administrateur MPN ou un administrateur général peut déterminer qui utilise VVR en donnant des autorisations aux utilisateurs qui doivent travailler dans l’outil.
+
+**Je souhaite accéder portail de puce à partir de VVR**
+
+- Partenaires vous oblige à se connecter avec un compte professionnel (AAD).  PUCE utilise actuellement le compte personnel pour la connexion (compte de service administré ou Live ID).  Lors de la navigation à partir de VVR dans partenaires à puce, vous devrez vous connecter à puce à l’aide de votre MSA ou un Live ID qui est inscrit avec la puce.
+
+Pour plus d’informations sur la façon de s’inscrire à SATV, lire [programme Software Assurance formation chèque-cadeau (SATV) dans le centre partenaires](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

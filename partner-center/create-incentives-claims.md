@@ -1,41 +1,41 @@
 ---
-title: Créer et gérer une revendication de primes incitatives | L’espace partenaires
+title: Créer et gérer une revendication incitations | Partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Le mode coopération primes initier les revendications à partir de l’espace partenaires. Vous pouvez voir toutes les activités qui sont placées dans la génération de votre réclamation dans l’historique.
-author: labrenne
+description: Incitations à initier les demandes de remboursement des partenaires. Vous pouvez voir toutes les activités contenues dans la création de votre revendication dans l’historique.
+author: LauraBrenner
 ms.author: labrenne
-keywords: revendications primes, le mode coopération revendications, les fonds
+keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2af4ac084f10639aee4d627ff4d9fc0ad3208569
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: c48761825888e646b689328772de400181d9a362
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025319"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586412"
 ---
-# <a name="create-and-manage-an-incentives-claim"></a>Créer et gérer une revendication de primes incitatives
+# <a name="create-and-manage-an-incentives-claim"></a>Créer et gérer une demande de primes incitatives
 
-**S'applique à**
+**S’applique à**
 - Espace partenaires
 
-Vous pouvez lancer une revendication de primes incitatives à partir d’au sein de l’espace partenaires. 
+Vous pouvez lancer une revendication incitations à partir de partenaires. 
 
-1. À partir de **primes** sur le tableau de bord de l’espace partenaires, sélectionnez **revendications**.
+1. À partir de **incitations** dans le tableau de bord de partenaires, sélectionnez **revendications**.
 
-2.  Si vous avez déjà une réclamation dans le processus, la page de vue d’ensemble de revendications affiche des informations sur l’état des déclarations existantes et fonds approuvé, revendiqués et totaux.
+2.  Si vous disposez déjà d’une revendication en cours, la page de présentation des Revendications affiche des informations sur l’état des revendications et des fonds existants approuvés, revendiqués et les totaux.
 
-3.  Pour créer une nouvelle revendication, sélectionnez **créer une demande de remboursement**.
+3.  Pour créer une nouvelle revendication, sélectionnez **Créer une revendication**.
 
-4.  Lorsque vous avez rempli le formulaire initial et sélectionné **Revendication créer**, vous sera disponible à la page de détails de revendication où vous serez en mesure d’ajouter des factures, de conseiller, documents preuve et les mesures. Vous pouvez également ajouter des informations supplémentaires si nécessaire.
+4.  Lorsque vous avez rempli le formulaire initial et sélectionné **créer une revendication**, vous accéderez à la page de détails de revendication où vous serez en mesure d’ajouter des factures, conseiller du service clientèle, documents de preuve et de mesures. Vous pouvez également ajouter des informations supplémentaires si nécessaire.
 
-La page de détails de revendications vous permet de demander d’autres personnes dans votre organisation pour charger la documentation à l’écran. Pour chacun de ces documents chargés, vous pouvez fournir explication plus d’informations. 
+La page de détails des revendications vous permet de demander à d’autres personnes de votre organisation de charger de la documentation sur le formulaire. Pour chacun des documents que vous chargez, vous pouvez fournir des détails explicatifs. 
 
-### <a name="manage-your-claims"></a>Gérer vos déclarations
+### <a name="manage-your-claims"></a>Gérer vos revendications
 
-Vous pouvez voir toutes les activités qui sont placées dans la génération de votre réclamation dans **l’historique**. Chaque fois qu’un collègue ajoute un document de support ou des commentaires sur un élément, l’action est stockée dans **l’historique**. Jusqu'à ce que vous avez soumis la demande, l’état est **d’édition**. Le statut de votre demande change quand il se déplace dans le processus d’approbation. Parfois, pendant l’examen de la demande, vous pouvez recevoir des commentaires sur un élément spécifique dans la documentation (documentation POE). Commentaires et les demandes d’informations supplémentaires s’affichent également dans l’historique de revendication. 
+Vous pouvez voir toutes les activités qui sont placées dans la création de votre revendication dans **historique**. Chaque fois qu’un collègue ajoute un document de support ou des commentaires sur quelque chose, l’action est stockée dans **historique**. Le statut de la demande est **édition** jusqu'à ce que la demande soit envoyée. Le statut de votre demande change lorsqu’elle transite via le processus d’approbation. Parfois pendant l’examen d’une revendication, vous pouvez recevoir des commentaires sur un élément spécifique dans votre documentation (documents de POE). Les commentaires et les demandes d'informations supplémentaires apparaissent également dans l’historique de la revendication. 
 
-Vous ne pouvez pas modifier votre réclamation soumettre, sauf si un réviseur demande des informations supplémentaires.
+Vous ne pouvez pas modifier votre demande une fois que vous l’avez envoyée à moins qu’un réviseur demande des informations supplémentaires.
 
-Pour plus d’informations, voir [L’espace primes le mode coopération Guide](https://assets.microsoft.com/coop-guidebook.pdf)
+Pour plus d’informations, voir [Guide de coopération aux primes incitatives des partenaires](https://assets.microsoft.com/coop-guidebook.pdf)

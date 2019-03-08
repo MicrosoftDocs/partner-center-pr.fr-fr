@@ -3,19 +3,19 @@ title: Comprendre le paiement de vos primes incitatives | Espaces partenaires
 ms.topic: article
 ms.date: 10/29/2018
 description: Affichez les revenus et les paiements se rapportant aux programmes de primes incitatives.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995953"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585382"
 ---
-# <a name="incentive-payouts-overview"></a>Vue d’ensemble des paiements de primes incitatives
+# <a name="incentive-payouts-overview"></a>Vue d’ensemble de l’offre incitative paiements
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 
@@ -25,9 +25,9 @@ Les administrateurs et les utilisateurs des programmes de primes incitatives obt
 
 Les utilisateurs et administrateurs de primes incitatives peuvent vérifier leur situation financière dans le cadre des programmes de primes incitatives auxquels ils participent à partir de la page **Résumé du paiement**. Vous pouvez analyser chaque zone du récapitulatif en détail, si nécessaire. 
 
-Sur la page Résumé, vous pouvez suivre les tendances analysant les mois au cours desquels vous percevez des revenus ainsi que le type de programme concerné. Vous pouvez également voir ce que vous avez gagné par programme et par emplacement. Cela vous permet d’identifier où vous avez réussi et, à l’inverse, où vous devez consacrer plus d’énergie au marketing et aux ventes. La page récapitulative Paiements montre vos revenus et vos paiements. Les données sur les primes incitatives sont actualisées toutes les 48heures. Les tableaux et les graphiques reflètent les dernières informations. 
+Sur la page Résumé, vous pouvez suivre les tendances analysant les mois au cours desquels vous percevez des revenus ainsi que le type de programme concerné. Vous pouvez également voir ce que vous avez gagné par programme et par emplacement. Cela vous permet d’identifier où vous avez réussi et, à l’inverse, où vous devez consacrer plus d’énergie au marketing et aux ventes. La page récapitulative Paiements montre vos revenus et vos paiements. Les données sur les primes incitatives sont actualisées toutes les 48 heures. Les tableaux et les graphiques reflètent les dernières informations. 
 
-La page Résumé utilise trois indicateurs clés:
+La page Résumé utilise trois indicateurs clés :
 
 |**Indicateurs clés**   |**Définition**   |
 |---------------------|:-----------------|
@@ -69,7 +69,7 @@ Le graphique de tendances des revenus indique la direction générale à laquell
 
 ### <a name="earning-types"></a>Types de revenus
 
-Il existe deux types de revenus:
+Il existe deux types de revenus :
 
 - Remise
 - Ajustement
@@ -84,7 +84,7 @@ La carte figurant sur la page des Paiements et relevés vous montre les paiement
 
 ## <a name="payments"></a>Paiements
 
-Le tableau des paiements présente tous les paiements qui ont été effectués au cours des 12derniers mois. Il est réparti par programme et type de revenus. Vous pouvez voir le début et la fin de la période de rémunération. Lorsque le paiement est envoyé à la banque, la date de paiement et l'identifiant de paiement sont indiqués.
+Le tableau des paiements présente tous les paiements qui ont été effectués au cours des 12 derniers mois. Il est réparti par programme et type de revenus. Vous pouvez voir le début et la fin de la période de rémunération. Lorsque le paiement est envoyé à la banque, la date de paiement et l'identifiant de paiement sont indiqués.
 
 ## <a name="statements"></a>Relevés
 
@@ -105,7 +105,7 @@ Les tableaux suivants décrivent les champs qui figurent dans les fichiers de re
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |Identificateur unique créé pour chaque ligne de revenu |               
 |Nom du partenaire   | Nom du partenaire enregistré dans l’Espace partenaires                    |
-|MPN/PCN        |ID MPN (ID MicrosoftPartnerNetwork du partenaire) / Numéro de client public|
+|MPN/PCN        |ID MPN (ID Microsoft Partner Network du partenaire) / Numéro de client public|
 |Emplacement       | Pays/région de MPN V du partenaire - ID Org|
 |Nom du programme   |Nom du programme de primes incitatives |
 |Nom du client  |   Nom du client |
@@ -147,10 +147,10 @@ Les tableaux suivants décrivent les champs qui figurent dans les fichiers de re
 
 ## <a name="downloading-payment-details"></a>Téléchargement des détails de paiement 
 
-|**Nom de la colonne**   |**Description**   |
+|**Nom de colonne**   |**Description**   |
 |-------------------|:--------------------|
 |Nom du partenaire|Nom du partenaire enregistré dans l’Espace partenaires|
-|MPN/PCN        |ID MPN (ID MicrosoftPartnerNetwork du partenaire) / Numéro de client public|
+|MPN/PCN        |ID MPN (ID Microsoft Partner Network du partenaire) / Numéro de client public|
 |Emplacement       | Pays/région de MPN V du partenaire - ID Org|
 |Nom du programme   |Nom du programme de primes incitatives |
 |Type de revenus   |Type des revenus (remise, ajustement) |

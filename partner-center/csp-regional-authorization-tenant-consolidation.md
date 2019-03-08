@@ -8,22 +8,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
 ms.localizationpriority: medium
-ms.openlocfilehash: 695f8298e13680532b63ec24a27d56984bd59c89
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 183b5f518a57fdaf27badce5927a2ea09a5ec89c
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995883"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587552"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 
 
-\[Certaines informations concernent la version préliminaire de produits susceptibles d’être considérablement modifiés d’ici leur commercialisation. Microsoft ne donne aucune garantie, expresse ou implicite, concernant les informations fournies ici.\]
+\[Certaines informations sont relatives à la version préliminaire du produit qui peut être substantiellement modifié avant sa commercialisation. Microsoft exclut toute garantie, expresse ou implicite, concernant les informations fournies ici.\]
 
 Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 
@@ -34,20 +34,20 @@ Utilisez ces instructions pour consolider des locataires de différents pays/ré
 ## <a name="prepare-for-migration"></a>Préparer la migration
 
 
--   Se connecter à votre **Espace partenaires** avec le compte (existant) de **transition** (celui que vous allez transférer) et prenez note de tous les clients et tous les services approvisionnés pour ces clients.
+-   Connectez-vous à votre **partenaires** avec la **transition** (existant) compte (celui qui vous passera) et prenez note de tous les clients et tous les services configurés pour les clients.
 
 ![liste de clients régionaux](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migrer des comptes client
 
 
-1.  Se connecter à votre **Espace partenaires** avec le compte de **transition** (nouveau) (celui vous effectuez la transition) et accédez à la liste de clients à partir de **clients**.
+1.  Connectez-vous à votre **partenaires** avec la **transition** (nouveau) compte (vous effectuez la transition dans) et accédez à la liste de clients à partir de **clients**.
 
 2.  Sélectionnez les clients.
 
 3.  Cliquez sur **Demander une relation de revendeur**. Un message électronique par défaut à présenter à vos clients s’affiche. Ce message contient une URL avec l’ID d’organisation propre à votre nouveau compte Espace partenaires.
 
-4.  **Action du client&nbsp;:** vérifiez que chaque client actif que vous souhaitez migrer visite cette URL. À l’ouverture de l’URL, le client est invité à se connecter au portail Office&nbsp;365. Il se connecte à l’aide du même ID d’organisation que celui utilisé pour accéder aux portails administration Windows Azure et Office&nbsp;365.
+4.  **Action du client :** Assurez-vous que chacun des clients actives que vous souhaitez migrer visite cette URL. À l’ouverture de l’URL, le client est invité à se connecter au portail Office&nbsp;365. Il se connecte à l’aide du même ID d’organisation que celui utilisé pour accéder aux portails administration Windows Azure et Office&nbsp;365.
 
 5.  Une fois connecté, l’administrateur global du compte client est invité à valider l’attribution de privilèges d’administration délégué pour le nouveau compte Fournisseur de solutions Cloud. S’il accepte, le client active la case à cocher et autorise la relation.
 
@@ -58,7 +58,7 @@ Les clients s’affichent dans la liste des clients du partenaire, lorsqu’ils 
 
 1.  Lorsque votre client a signé le contrat, vous pouvez recréer ses abonnements sous votre locataire partenaire centralisé.
 
-2.  Sélectionnez les **clients**à partir du **Centre de partenaires** .
+2.  À partir de la **partenaires** sélectionnez **clients**.
 
 3.  Ouvrez le nom de la société du client que vous souhaitez migrer.
 
@@ -85,12 +85,12 @@ Avant de passer à la section suivante, vérifiez que tous les abonnements clien
 
 La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comptes de partenaire **Transition à partir de** interrompt toute facturation future. Il est inutile de désactiver manuellement les abonnements Azure, car le processus de migration les désactive automatiquement.
 
-1.  Se connecter à l' **Espace partenaires** avec le compte de fournisseur de solutions cloud **Transition à partir** de commandes et accédez à la liste des clients.
+1.  Se connecter à la **partenaires** avec la **transition à partir de** CSP de compte et accédez à la liste des clients.
 
 2.  Ouvrez le client avec les abonnements à désactiver, et sélectionnez la première offre à désactiver.
 3.  Réglez l’abonnement sur **suspendu**, puis cliquez sur **Envoyer**.
 
- >[! **Remarque**] Suspension de l’abonnement garantit l’absence de double facturation.
+ >[! **Remarque**] suspension de l’abonnement garantit une double facturation ne se produit pas.
 
 
 
@@ -113,7 +113,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 4.  Le partenaire confirme que l’abonnement Azure sous les comptes de revendeur Fournisseur de solutions&nbsp;Cloud **Transition à partir de** affiche la mention Suspendu dans l’Espace partenaires sous la section des abonnements du client.
 5.  Le partenaire confirme que l’abonnement Azure sous le compte de revendeur Fournisseur de solutions&nbsp;Cloud **Transition à partir de** affiche la mention **Actif** dans l’Espace partenaires sous la section des abonnements du client.
 
->[! **Remarque**] La désactivation des abonnements sous le client ne modifie pas l’apparence du client dans la liste de clients. Il n’y a actuellement aucune possibilité de supprimer des clients de la liste. Les partenaires doivent éviter de rajouter des abonnements à ces clients à partir de leur compte **Transition à partir de** à l’avenir.
+>[! **Remarque**] désactiver les abonnements sous le client ne modifie pas l’apparence du client dans la liste de clients. Il n’y a actuellement aucune possibilité de supprimer des clients de la liste. Les partenaires doivent éviter de rajouter des abonnements à ces clients à partir de leur compte **Transition à partir de** à l’avenir.
 
 
 
@@ -135,7 +135,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vous devez utiliser dans votre nouvelle structure consolidée&nbsp;:
 
-1.  Cliquez sur **les clients** dans l’espace partenaires pour afficher la liste des clients dans votre structure existante.
+1.  Cliquez sur **clients** sur Partner Center pour afficher la liste de clients dans votre structure existante.
 
 2.  Ouvrez le nom de client souhaité.
 

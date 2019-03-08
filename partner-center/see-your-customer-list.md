@@ -2,47 +2,47 @@
 title: Gérer votre liste de clients | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires.
+description: Les enregistrements de client comptent parmi vos ressources information les plus importantes dans l’Espace partenaires.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a7f334b95f148ca13659a5101293c1e5e9bd9622
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995773"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584322"
 ---
 # <a name="manage-your-customer-list"></a>Gérer votre liste de clients
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 
 
-Les enregistrements de client comptent parmi vos actifs informationnels les plus importants dans l’Espace partenaires. Vous pouvez rechercher des comptes client dans votre base de données et exporter la base de données des clients totalement ou en partie dans un fichier&nbsp;CSV compatible avec Excel. Vous pouvez également exporter les informations sur les abonnements d’un client dans un fichier&nbsp;CSV.
+Les enregistrements de client comptent parmi vos ressources information les plus importantes dans l’Espace partenaires. Vous pouvez rechercher des comptes client dans votre base de données et exporter la base de données des clients totalement ou en partie dans un fichier&nbsp;CSV compatible avec Excel. Vous pouvez également exporter les informations sur les abonnements d’un client dans un fichier&nbsp;CSV.
 
 Les journaux d’activité fournissent des données exportables sur les transactions et les actions de gestion des clients. Pour plus d’informations, consultez [Afficher les journaux d’activité des clients](activity-logs.md).
 
 
 ## <a name="search-for-a-customer"></a>Rechercher un client
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**.
+1.  À partir de la **partenaires** menu, sélectionnez **clients**.
 2.  Pour rechercher un client, entrez son nom ou son nom de domaine dans la zone de recherche.
 3.  Sélectionnez la **flèche vers le bas** à la fin de la ligne d’un client pour voir son ID&nbsp;Microsoft, ainsi que les liens rapides vers ses services et ses abonnements.
 
 ## <a name="update-a-customers-company-name"></a>Mettre à jour le nom de la société du client
 
-Dans le menu **Espace partenaires** , sélectionnez les **clients**.
+À partir de la **partenaires** menu, sélectionnez **clients**.
 2.  Pour rechercher un client, entrez son nom ou son nom de domaine dans la zone de recherche.
 3.  Sélectionnez la **flèche vers le bas** à la fin de la ligne d’un client pour voir son ID&nbsp;Microsoft, ainsi que les liens rapides vers ses services et ses abonnements.
-4.  Sous les informations du client **facturé** , mettez à jour le nom de la société. Lorsque vous enregistrez la nouvelle valeur, elle est répercutée dans la liste des clients. Cela modifiera uniquement le nom de société à facturer et la valeur de liste de clients. Il se reflètera pas n’importe où ailleurs.
+4.  Sous les informations **Adresse de facturation** du client, mettez à jour le nom de la société. Lorsque vous enregistrez la nouvelle valeur, elle apparaîtra dans la liste des clients. Cela modifiera uniquement le nom de la société à facturer et la valeur de liste de clients. Cette opération ne modifiera aucune autre entrée.
 
 ## <a name="export-your-customer-list"></a>Exporter votre liste de clients
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**.
+1.  À partir de la **partenaires** menu, sélectionnez **clients**.
 2.  Sélectionnez **Exporter clients**.
 
     L’Espace partenaires convertit votre liste de clients en un fichier&nbsp;CSV et le télécharge dans le dossier de téléchargement par défaut de votre ordinateur. Vous pouvez également exporter des sous-ensembles de données client. Les colonnes contiennent les données suivantes&nbsp;:
@@ -59,7 +59,7 @@ Dans le menu **Espace partenaires** , sélectionnez les **clients**.
 
 ## <a name="export-customer-subscription-information"></a>Exporter les informations d’abonnement client
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**.
+1.  À partir de la **partenaires** menu, sélectionnez **clients**.
 2.  Sélectionnez le **nom de société** d’un client. La page **Abonnements** d’un client affiche la liste complète de ses abonnements à des produits.
 3.  Sélectionnez **Exporter des abonnements**. L’Espace partenaires convertit les données de l’abonnement du client en un fichier&nbsp;CSV et le télécharge dans le dossier de téléchargement par défaut de votre ordinateur. Les colonnes contiennent les données suivantes&nbsp;:
     -   **ID d’abonnement**

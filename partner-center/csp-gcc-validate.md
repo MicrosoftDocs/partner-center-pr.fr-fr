@@ -1,61 +1,61 @@
 ---
-title: Office 365 gouvernement GCC partenaire et du client admissibilité | L’espace partenaires
+title: Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Procédures de validation de partenaires et clients pour Office 365 gouvernement GCC de fournisseur CSP.
+description: Procédures de validation des partenaires et des clients pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794832"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586952"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 gouvernement GCC pour fournisseur de solutions cloud et aux critères d’éligibilité client
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
--  Partenaires CSP
+-  Partenaires fournisseurs de solutions Cloud
 
 >[!NOTE]
->Le processus de validation et les critères indiqués ci-dessous sont spécifiques aux partenaires de facture direct. Les partenaires de facture direct incluent les vendeurs directs et indirects.  Si vous êtes revendeur Indirect Veuillez fonctionne avec votre fournisseur Indirect. 
+>Le processus de validation et les critères indiqués ci-dessous sont spécifiques aux partenaires associés à une facturation directe. Les partenaires associés à une facturation directe comprennent les revendeurs directs et les fournisseurs indirects.  Si vous êtes revendeur indirect, travaillez en collaboration avec votre fournisseur indirect. 
 
-Si vous êtes intéressé par la fourniture de votre organisation ou de votre organisation de clients l’approbation pour Office 365 gouvernement GCC de fournisseur CSP, passez en revue la configuration requise ci-dessous.
+Si vous souhaitez que votre organisation ou l'organisation de vos clients soit autorisée pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud, consultez les conditions ci-dessous.
 
-Vous pouvez être approuvées si vous êtes un partenaire desservant US entités fédérales, nationales, locales ou tribales gouvernement des États-Unis. Pour que votre éligibilité organisations validée, complétez le formulaire qui se trouve [ici](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Vous pouvez être agréé si vous êtes un partenaire desservant une entité gouvernementale fédérale, nationale, locale ou communautaire des États-Unis. Pour que l'éligibilité de votre organisation soit validée, remplissez le court formulaire situé [ici](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
-Votre client peut être approuvé s’ils sont une organisation qui traite les données contrôlées ou une entité de fédérales, nationales, locales ou tribales gouvernement américain. Pour que vos clients éligibilité organisations validée, complétez le formulaire qui se trouve [ici](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Votre client peut être agréé s’il s'agit d'une organisation qui gère des données contrôlées par le gouvernement ou d'une entité gouvernementale fédérale, nationale, locale ou communautaire des États-Unis. Pour que l'éligibilité des organisations de vos clients soit validée, remplissez le court formulaire situé [ici](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
--   Votre organisation doit être [inscrit](https://partnercenter.microsoft.com/partner/cloud-solution-provider) au programme fournisseur de solutions Cloud qu’elle est une condition préalable pour approbation pour Office 365 gouvernement GCC de fournisseur CSP.
--   Un guide de processus de validation pas à pas pour Office 365 gouvernement GCC de fournisseur CSP se trouve [ici](https://go.microsoft.com/fwlink/?linkid=2007323).
--   Pour des questions de validation supplémentaire ou des inquiétudes, contactez [RSC prise en charge remontée](mailto:usgcce@microsoft.com) .
+-   Votre organisation doit être [inscrite](https://partnercenter.microsoft.com/partner/cloud-solution-provider) au programme Fournisseur de solutions Cloud, car c'est une condition préalable à l’approbation pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud.
+-   Un guide de procédure de validation pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud se trouve [ici](https://go.microsoft.com/fwlink/?linkid=2007323).
+-   Contactez [Remontée d'informations de support RSC](mailto:usgcce@microsoft.com) si vous avez d'autres questions ou problèmes concernant la validation.
 
-Sont validée à Office 365 gouvernement GCC pour les clients et les partenaires CSP d’éligibilité en fonction de critères spécifiques décrites ci-dessous.
+L'éligibilité des partenaires et des clients pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud sera validée en fonction du respect des critères spécifiques présentés ci-dessous.
 
-**Critères du partenaire**
-1.  Fournit des services ou des solutions nous gouvernementales américaines par le biais de contrats directs ou indirects
-2.  Sert US gouvernementales américaines par le biais d’autres véhicule Contrat ou un GSA
+**Critères de partenaire**
+1.  Fournit des services ou des solutions à des clients des organisations gouvernementales des États-Unis par le biais de contrats directs ou indirects
+2.  Fournit les organisations gouvernementales des États-Unis via la GSA ou d'autres modes de gestion de contrat
 
-**Critères de client**
-1.  Entité de gouvernement américain dans sa capacité gouvernementale. Exemple:
+**Critères du client**
+1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Exemple :
  
-    -  Agence fédérale (par exemple, bureau, agence, département ou autre entité du gouvernement américain)
-    -   État/local entité 
-    -   Entité tribale
-    -   Entités du gouvernement régional ou interstate (mais aucune entités internationales)
-    -   Recherche fédéral financement et des centres de développement (FERDCs)
+    -  Agence fédérale (par exemple, bureau, agence, service ou autres entités du gouvernement américain)
+    -   Entité nationale/locale 
+    -   Entité communautaire
+    -   Entités du gouvernement régionales ou interétatiques (mais aucune entité internationale)
+    -   Federally Funded Research and Development Centers (FERDC)
 
-2.  Entité commerciale privée avec des données qui sont soumis à des réglementations en vigueur. Types de données acceptées gouvernement des États-Unis sont les suivantes: 
-    -   Trafic international d’armes (ITAR)
-    -   Informations non classifiées contrôlées (CUI)
-    -   Département de la défense (DoD) non classifié contrôlé d’informations nucléaires (UCNI)
-    -   Service de l’énergie (DoE) UCNI
-    -   Informations judiciaire (CJI)
-    -   Données au niveau d’Impact département de la défense
+2.  Entité privée commerciale avec des données qui sont soumises aux réglementations. Les types de données acceptées par le gouvernement sont les suivantes : 
+    -   International Traffic in Arms (ITAR)
+    -   Controlled Unclassified Information (CUI)
+    -   Department of Defense (DoD) Unclassified Controlled Nuclear Information (UCNI)
+    -   Department of Energy (DoE) UCNI
+    -   Criminal Justice Information (CJI)
+    -   Données au niveau d'impact sur le Ministère de la défense
     -   Autres types de données qui nécessitent Azure Government
 
-Une entité commerciale internationale peut-être bénéficier s’ils respecter les exigences ci-dessus et assuré présence US (par exemple, adresse, emplacement physique, etc.).
+Une entité commerciale internationale peut être qualifiée si elle répond aux exigences mentionnées ci-dessus et si sa présence aux États-Unis est attestée (par exemple, adresse postale, emplacement physique, etc.).
 

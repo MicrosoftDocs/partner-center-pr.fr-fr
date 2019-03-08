@@ -1,50 +1,50 @@
 ---
-title: Fournir du support à vos clients | L’espace partenaires
+title: Fourniture d'un support à vos clients | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: Les partenaires sont requises pour recevoir des demandes entrantes de prise en charge des clients, diagnostiquer les problèmes au mieux de la capacité du partenaire et puis résoudre les problèmes qui se trouvent dans la portée des limites de prise en charge de ligne de base.
+description: Les partenaires sont tenus de recevoir les demandes entrantes de support des clients, de diagnostiquer les problèmes au mieux de leur capacité et de résoudre les problèmes qui se trouvent dans l’étendue des limites de la ligne de base du support.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 5050e4269de15d1f0fabe37e297e440fcfbd73d8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683648"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586112"
 ---
-# <a name="providing-support-to-your-customers"></a>Fournir du support à vos clients
+# <a name="providing-support-to-your-customers"></a>Fourniture d'un support à vos clients
 
 **S’applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 
 
-## <a name="microsoft-partner-support-guidance"></a>Guide de prise en charge de partenaire Microsoft
+## <a name="microsoft-partner-support-guidance"></a>Conseils pour le support des partenaires Microsoft
 
-Les partenaires des transactions dans le modèle de fournisseur de solutions cloud sont le Conseiller de confiance à leurs clients et possèdent la relation de bout en bout, notamment la prise en charge lors de leur client possède une question ou un problème. Par le biais de prise en charge tactile points partenaires peuvent en savoir plus sur le client et ses activités, pour identifier les nouveaux services et des solutions qui dirigent valeur.
+Les partenaires effectuant des transactions dans le modèle de fournisseur de solutions Cloud sont les conseillers de confiance de leurs clients et gèrent la relation de bout en bout, y compris le support lorsque leur client a une question ou un problème. Par le biais des points de contact du support, les partenaires peuvent en savoir plus sur le client et leur activité, afin d'identifier de nouveaux services et solutions susceptibles d'apporter une valeur ajoutée.
 
-Pour répondre à la demande de prise en charge, le partenaire peut revendre prise en charge d’une autre entité, ils peuvent sous-traiter tout ou partie de leur structure de prise en charge et/ou qu’ils peuvent définir une structure pour prendre en charge directement.  Le partenaire peut facturer pour tout ou partie de la prise en charge fourni aux clients. Le partenaire doit articuler à leurs clients la prise en charge, ils fournissent, les heures de service et la méthode, ainsi que la tarification (en cas de chargement de la prise en charge) du contact. 
+Pour répondre à la demande de support, le partenaire peut revendre le support fourni par une autre entité, sous-traiter tout ou partie de sa structure de support et/ou configurer une structure pour fournir le support directement.  Le partenaire peut facturer tout ou partie du support fourni aux clients. Le partenaire doit expliquer clairement à ses clients le support qu’il fournit, les horaires de service et la méthode de contact, ainsi que la tarification (s'il facture le support). 
 
-Les partenaires sont requises pour recevoir des demandes entrantes de prise en charge des clients, diagnostiquer les problèmes au mieux de la capacité du partenaire et puis résoudre les problèmes qui se trouvent dans la portée des limites de prise en charge de ligne de base. Si le partenaire est impossible de résoudre un problème, ils peuvent transmettre les problèmes à Microsoft via des voitures suivantes:
+Les partenaires sont tenus de recevoir les demandes entrantes de support des clients, de diagnostiquer les problèmes au mieux de leur capacité et de résoudre les problèmes qui se trouvent dans l’étendue des limites de la ligne de base du support. Si le partenaire est incapable de résoudre un problème, il peut transmettre les problèmes à Microsoft via les canaux de support suivants :
 
-- Prise en charge de problème **commercial** est disponible pour tous les partenaires du programme fournisseur de solutions cloud
--   Support **technique** de problème est disponible par le biais de:
-    -   premier Support pour les partenaires (frais de base)
-    -   Prise en charge avancée pour les partenaires (frais de base)
-    -   Prise en charge du Cloud signature (inclus avec compétence or/argent)
+- Le support**Commercial** est disponible pour tous les partenaires du programme Fournisseur de solutions Cloud
+-   Le support **Technique** est disponible par le biais de :
+    -   Support Premier pour les partenaires (tarification)
+    -   Support Avancé pour les partenaires (tarification)
+    -   Signature Cloud Support (inclus avec les compétences Gold/Silver)
 
-## <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture d’une facturation, gestion des abonnements et support technique 
+## <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
-Chaque service en ligne a des exigences spécifiques et détaillées permettant de facturation, gestion des abonnements et support technique pour les clients. Consultez les documents suivants pour plus d’informations.
+Chaque service en ligne a des exigences spécifiques et détaillées pour la fourniture de la facturation, de la gestion des abonnements et du support technique pour les clients. Reportez-vous aux documents suivants pour en savoir plus.
 
--   [Abonnements Dynamics 365 vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Les abonnements de Dynamics 365 vendus via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Abonnements Azure vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Abonnements Azure vendus via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Abonnements Office 365 vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Les abonnements Office 365 vendus via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
 

@@ -2,30 +2,30 @@
 title: Utilisez des promotions pour attirer de nouveaux clients | Espace partenaires
 ms.topic: article
 ms.date: 10/29/2018
-description: En tant que partenaireMicrosoft du programme Fournisseur de solutions Cloud, vous pouvez acheter des abonnements à un tarif promotionnel et en faire bénéficier vos clients.
+description: En tant que partenaire Microsoft du programme Fournisseur de solutions Cloud, vous pouvez acheter des abonnements à un tarif promotionnel et en faire bénéficier vos clients.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795052"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587432"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilisez des promotions pour attirer de nouveaux clients  
 
-**S’applique à: Espaces partenaires**
+**S’applique à : Partenaires**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Microsoft propose parfois des promotions sur les abonnements basés sur les licences, ce qui vous permet de faire bénéficier vos clients de cette baisse de prix et de développer votre activité. 
+Microsoft propose occasionnellement des promotions sur les abonnements basés sur les licences, qui vous permettent de répercuter les économies sur les clients et de développer votre activité. 
 
-Microsoft propose deux types de promotions: celles qui sont proposées à tous les partenaires éligibles du programme Fournisseur de solutions Cloud (CSP) et celles qui sont réservées aux partenaires d’une zone géographique spécifique.
+Microsoft propose deux types de promotions : celles qui sont proposées à tous les partenaires éligibles du programme Fournisseur de solutions Cloud (CSP) et celles qui sont réservées aux partenaires d’une zone géographique spécifique.
 
 Les tarifs promotionnels sont automatiquement appliqués au prix net lorsque vous achetez de nouveaux abonnements au prix promotionnel. En outre, les licences que vous ajoutez à un abonnement acheté à un tarif promotionnel sont également ajoutées au prix promotionnel. 
 
-Prenez le temps de passer en revue ces informations importantes relatives aux promotions:
+Prenez le temps de passer en revue ces informations importantes relatives aux promotions :
 
 -   Le prix promotionnel d’un abonnement s’applique uniquement à la durée de l’abonnement. Lorsqu’un abonnement acheté à prix promotionnel expire, le coût du renouvellement de l’abonnement repasse au prix figurant dans la liste de prix. Cela signifie que les abonnements dont le renouvellement est automatique seront renouvelés au prix en vigueur. Vous trouverez la liste de prix sur la page **Tarification et offres**. 
 
@@ -35,14 +35,14 @@ Prenez le temps de passer en revue ces informations importantes relatives aux pr
 
 ## <a name="see-available-promotions"></a>Voir les promotions disponibles
 
-Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **des Promotions** dans votre menu de **L’espace partenaires** pour afficher la liste des promotions en cours, ainsi que la remise, type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
+Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **Promotions** à partir de votre **partenaires** menu pour afficher la liste des dernières promotions, ainsi que la remise, type de promotion et les dates de début et de fin pour l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
 
 > [!NOTE]  
 > Vous pouvez également afficher les promotions lorsque vous effectuez un achat. Lorsque vous sélectionnez un abonnement, le tarif promotionnel s’affiche sur la page **Révision**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acheter des abonnements à prix promotionnel
 
-1. Dans votre menu de **L’espace partenaires** , sélectionnez **clients** , puis sélectionnez le client qui achète l’abonnement. 
+1. Sur votre **partenaires** menu, sélectionnez **clients** , puis sélectionnez le client qui achète l’abonnement. 
 
 2. Sélectionnez **Ajouter un abonnement**.
 

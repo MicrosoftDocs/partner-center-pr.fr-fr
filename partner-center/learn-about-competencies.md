@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: compétences, adhésion argent, adhésion or, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau
 ms.localizationpriority: medium
 ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776453"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585872"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Compétences Microsoft requises pour le niveau d'adhésion Or et Argent
 
@@ -26,7 +26,7 @@ Prouvez votre expertise en solutions de qualité dans un ou plusieurs domaines d
 
 - Obtenez un **niveau d'adhésion Or** pour démontrer vos capacités d’excellence dans le domaine d'une solution Microsoft spécifique
 
-En savoir plus sur les conditions nécessaires pour générer des adhésion argent et OR dans les domaines de compétences suivants:
+En savoir plus sur les éléments requis pour décrocher Silver et Gold appartenance dans les domaines d’expertise suivants :
 
 <!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
 
@@ -36,22 +36,22 @@ En savoir plus sur les conditions nécessaires pour générer des adhésion arge
 
 | Compétences  | Technologies |
 |   ------------------   |   -------   |
-| [Compétence Développement d’applications](https://partner.microsoft.com/membership/application-development-competency) | Applications HTML5, C#, ASP.NET, UWP, MicrosoftAzure |
-| [Compétence Intégration d’applications](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server, SQL Server/base de données, C#, Azure, BizTalk Server2013|
-| [Compétence Applications métier du cloud](https://partner.microsoft.com/membership/cloud-business-applications-competency)| MicrosoftDynamics365/Entreprise/Operations/AX, base de données SQL |
-| [Compétence Gestion de la relation client dans le cloud](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics365/Dynamics CRM |
-| [Compétence Plateforme cloud](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure, Linux sur Azure |
-| [Compétence Productivité cloud](https://partner.microsoft.com/membership/cloud-productivity-competency)| MicrosoftOffice365 (ExchangeOnline, SharePointOnline, Skype Entreprise ou Yammer)|
-| [Compétence Collaboration et contenu](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office365, SharePoint Server2016, App Builder |
-| [Compétence Communications](https://partner.microsoft.com/membership/communications-competency)| Skype Entreprise, Voix Entreprise Skype Entreprise2015 |
-| [Compétence Analyse de données](https://partner.microsoft.com/membership/data-analytics-competency)| Bases de données SQL, Azure, Microsoft R Server, MicrosoftHD Insight, Power BI |
-| [Compétence Plateforme de données](https://partner.microsoft.com/membership/data-platform-competency)| Bases de données SQL, SQLServer2016, Azure Data Warehouse, Azure Data Services, Transact-SQL |
-| [Compétence Centre de données](https://partner.microsoft.com/membership/datacenter-competency)| System Center2012, Windows Server Virtualization et Hyper-V, Windows Server2012/2016 |
-| [Compétence DevOps](https://partner.microsoft.com/membership/devops-competency)| MicrosoftVisual Studio, Visual Studio Team Foundation Server (TFS)2012, cycle de vie des logiciels, certifications scrum |
-| [Compétence Gestion de la mobilité d’entreprise](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS), MicrosoftIntune, Azure Information Protection, Azure ActiveDirectory Premium (AADP), gestion des périphériques mobiles, gestion d'identité et d'accès, protection des informations, sécurité des applications cloud |
-| [Compétence Planification des ressources d’entreprise](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Bases de données Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), SQLServer2012  |
-| [Compétence Messagerie](https://partner.microsoft.com/membership/messaging-competency)| Office365, Exchange Server2016 |
-| [Compétence Gestion de projets et de portefeuilles](https://partner.microsoft.com/membership/project-portfolio-management-competency)| MicrosoftProject, Project & Portfolio Management (PPM), SharePoint Server2016|
-| [Compétence Solutions cloud pour PME](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office365 |
-| [Compétence Windows et appareils](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows10, Windows10 IoT, plateforme Windows universelle, Surface Hub, Office365, Skype Entreprise2015, déploiement en entreprise |
+| [Compétences de développement d’application](https://partner.microsoft.com/membership/application-development-competency) | Applications HTML5, C#, ASP.NET, UWP, Microsoft Azure |
+| [Compétence de l’intégration d’application](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server, SQL Server/base de données, C#, Azure, BizTalk Server 2013|
+| [Compétence des Applications métier de cloud](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Entreprise/Operations/AX, base de données SQL |
+| [Compétence cloud Customer Relationship Management niveau](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
+| [Compétence cloud Platform](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure, Linux sur Azure |
+| [Compétence de productivité cloud](https://partner.microsoft.com/membership/cloud-productivity-competency)| Microsoft Office 365 (Exchange Online, SharePoint Online, Skype Entreprise ou Yammer)|
+| [Compétences de collaboration et de contenu](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365, SharePoint Server 2016, App Builder |
+| [Compétence de communications](https://partner.microsoft.com/membership/communications-competency)| Skype Entreprise, Voix Entreprise Skype Entreprise 2015 |
+| [Compétence Analytique de données](https://partner.microsoft.com/membership/data-analytics-competency)| Bases de données SQL, Azure, Microsoft R Server, Microsoft HD Insight, Power BI |
+| [Compétences de plateforme de données](https://partner.microsoft.com/membership/data-platform-competency)| Bases de données SQL, SQL Server 2016, Azure Data Warehouse, Azure Data Services, Transact-SQL |
+| [Compétence de centre de données](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012, Windows Server Virtualization et Hyper-V, Windows Server 2012/2016 |
+| [Compétence de DevOps](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, cycle de vie des logiciels, certifications scrum |
+| [Compétences de gestion de mobilité d’entreprise](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), gestion des périphériques mobiles, gestion d'identité et d'accès, protection des informations, sécurité des applications cloud |
+| [Planification des ressources d’entreprise de compétence](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Bases de données Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), SQL Server 2012  |
+| [Messagerie de compétence](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
+| [Compétence de projet et de gestion de portefeuille](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, Project & Portfolio Management (PPM), SharePoint Server 2016|
+| [Petites et compétence de Solutions de Cloud de PME](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
+| [Compétence de Windows et appareils](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10, Windows 10 IoT, plateforme Windows universelle, Surface Hub, Office 365, Skype Entreprise 2015, déploiement en entreprise |
 |

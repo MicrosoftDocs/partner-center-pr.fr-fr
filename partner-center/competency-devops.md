@@ -3,20 +3,20 @@ title: Compétence DevOps
 ms.topic: article
 ms.date: 10/29/2018
 description: Si vous avez déjà les capacités requises pour aider les entreprises à gérer les cycles de vie des logiciels en exploitant les fonctionnalités DevOps de la plateforme de développement de Microsoft, la compétence DevOps représente le bon choix pour établir votre entreprise en tant que partenaire de Microsoft.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence, compétences, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4258beccb8f6e0d876e60ec6f5fcb16a6e265089
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 6c617358b097517258ed9f83aef9a3a9e9ab6d77
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098886"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585732"
 ---
 >[!IMPORTANT]
->Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

@@ -10,18 +10,18 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995903"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584382"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Défaut de paiement, fraude ou mauvaise utilisation
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 
 
 
@@ -46,7 +46,7 @@ Pour éviter et/ou pallier le problème des activités frauduleuses ou de la mau
 - Revente d'abonnements piratés 
 
 #### <a name="examples-of-online-transaction-risk"></a>Exemples de risques liés aux transactions en ligne
-- Transactions «en absence de carte de crédit», c'est-à-dire les transactions qui ne sont pas effectuées en personne
+- Transactions « en absence de carte de crédit », c'est-à-dire les transactions qui ne sont pas effectuées en personne
 - Identités usurpées
 - Services configurés et utilisés avant réception du premier paiement
 - Marchés émergent/régions à haut risque de fraude en ligne
@@ -67,7 +67,7 @@ Ces recommandations peuvent vous aider à élaborer des stratégies et des prati
 #### <a name="post-purchase-customer-account-management"></a>Gestion des comptes client après achat
 - Collaborez avec les clients pour comprendre leurs besoins professionnels d'utilisation du Cloud tout en définissant des seuils de contrôle adaptés
     > [!NOTE]  
-    >  Vous pouvez [définir un budget de dépense mensuel Azure](set-an-azure-spending-budget-for-your-customers.md) dans l’espace partenaires pour surveiller l’utilisation de client durant le mois et être averti lorsque les clients approchent de leur budget.
+    >  Vous pouvez [définir un budget de dépenses du Azure mensuel](set-an-azure-spending-budget-for-your-customers.md) dans Partner Center pour surveiller l’utilisation du client au cours du mois et être averti lorsque les clients sont proches de leur budget.
 - Surveillez régulièrement [les journaux d'activité des client](activity-logs.md) pour détecter rapidement les fraudes
 - Prenez rapidement des mesures dès la détection d'activités suspectes
 - Évitez de donner aux clients un accès administratif complet à leurs abonnements sans au préalable mettre en œuvre des contrôles de réduction des risques
@@ -81,7 +81,7 @@ Ces recommandations peuvent vous aider à élaborer des stratégies et des prati
 Pour découvrir plus en détail les stratégies de réduction des risques en ligne, consultez le [guide de gestion des risques des transactions en ligne.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
 
 > [!IMPORTANT]  
-> Si Microsoft détecte une activité de partenaire ou de client qui est convaincu ou suspecté d'une violation des règles de bon usage, nous prenons les mesures correctives qui s'imposent. Le client peut être suspendu immédiatement, et vous serez informé des actions d'application ou de l'avancement de vos demandes par Microsoft.
+> Si Microsoft détecte une activité de partenaire ou de client qui est convaincu ou suspecté d'une violation des règles de bon usage, nous prenons les mesures correctives qui s'imposent. Le client peut être suspendu immédiatement, et vous serez informé des actions d’application ou de l’avancement de vos demandes par Microsoft.
 
  
 

@@ -2,21 +2,21 @@
 title: Compétence Plateforme cloud
 ms.topic: article
 ms.date: 10/29/2018
-description: La compétence Plateforme cloud est conçue pour aider les partenaires à tirer parti de la demande croissante de solutions d’infrastructure et de SaaS (logiciels en tant que services) qui s’appuient sur MicrosoftAzure.
-author: Daniel Simpson
+description: La compétence Plateforme cloud est conçue pour aider les partenaires à tirer parti de la demande croissante de solutions d’infrastructure et de SaaS (logiciels en tant que services) qui s’appuient sur Microsoft Azure.
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence, compétences, plateforme cloud
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: ae31be9420e3fdc0c09e6747bd73c38a955e79d3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 362e829a1d408d7bc63c1e776077d28442eb75c2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795752"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586232"
 ---
 >[!IMPORTANT]
->Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Cloud Platform

@@ -8,59 +8,59 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: ef966df6b7bce7d3dcb2334c8fcaf1d0499b16d1
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683598"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587052"
 ---
 # <a name="provide-technical-support"></a>Proposer un support technique
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
--  Espace partenaires de MicrosoftCloud pour le gouvernement des États-Unis
+-  Espace partenaires de Microsoft Cloud for US Government
 
 
 En tant que partenaire du programme Fournisseur de solutions Cloud, vous disposez de privilèges d’administrateur délégué qui vous permettent d’accéder aux environnements de vos clients. Ces privilèges vous donnent la possibilité de prendre en charge, de configurer et de gérer directement les abonnements de vos clients.
 
 Dans l’Espace partenaires, vous pouvez&nbsp;:
 
--   Afficher l’état du service de client
--   Affichage des incidents de service client
+-   afficher l’état du service clientèle ;
+-   afficher les incidents du service clientèle ;
 
 **Effectuer des tâches d’administration pour vos clients**
 
-1.  Dans le menu **Espace partenaires** , sélectionnez les **clients**. Dans la liste, choisissez votre client.
+1.  À partir de la **partenaires** menu, sélectionnez **clients**. Dans la liste, choisissez votre client.
 2.  Dans le menu client, sélectionnez **Gestion des services**.
-3.  Dans la section **administrer des services** , choisissez le service que vous avez besoin de travailler dans pour ouvrir le portail de gestion pour le service.
-4.  Si vous rencontrez un problème avec le compte d’un client telles que les services qui sont vers le bas, ou une expérience de dégradé, vous devez commencer par vérifier l’état du service. Voir [Vérifier l’état du service](check-service-health.md).
+3.  Dans la section **Administrer des services**, choisissez le service dont vous avez besoin pour ouvrir le portail de gestion du service.
+4.  Si vous rencontrez un problème avec le compte d’un client, comme une interruption de service ou une expérience dégradée, vous devez commencer par vérifier l’état du service. Voir [Vérifier l’état du service](check-service-health.md).
 5.  Pour faire remonter un problème en cours à Microsoft, déposez une demande de service. Voir [Signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md).
 
  
-## <a name="microsoft-partner-support-guidance"></a>Guide de prise en charge de partenaire Microsoft
+## <a name="microsoft-partner-support-guidance"></a>Conseils pour le support des partenaires Microsoft
 
-Les partenaires des transactions dans le modèle de fournisseur de solutions cloud sont le Conseiller de confiance à leurs clients et possèdent la relation de bout en bout, notamment la prise en charge lors de leur client possède une question ou un problème. Par le biais de prise en charge tactile points partenaires peuvent en savoir plus sur le client et ses activités, pour identifier les nouveaux services et des solutions qui dirigent valeur.
+Les partenaires effectuant des transactions dans le modèle de fournisseur de solutions Cloud sont les conseillers de confiance de leurs clients et gèrent la relation de bout en bout, y compris le support lorsque leur client a une question ou un problème. Par le biais des points de contact du support, les partenaires peuvent en savoir plus sur le client et leur activité, afin d'identifier de nouveaux services et solutions susceptibles d'apporter une valeur ajoutée.
 
-Pour répondre à la demande de prise en charge, le partenaire peut revendre prise en charge d’une autre entité, ils peuvent sous-traiter tout ou partie de leur structure de prise en charge et/ou qu’ils peuvent définir une structure pour prendre en charge directement.  Le partenaire peut facturer pour tout ou partie de la prise en charge fourni aux clients. Le partenaire doit articuler à leurs clients la prise en charge, ils fournissent, les heures de service et la méthode, ainsi que la tarification (en cas de chargement de la prise en charge) du contact. 
+Pour répondre à la demande de support, le partenaire peut revendre le support fourni par une autre entité, sous-traiter tout ou partie de sa structure de support et/ou configurer une structure pour fournir le support directement.  Le partenaire peut facturer tout ou partie du support fourni aux clients. Le partenaire doit expliquer clairement à ses clients le support qu’il fournit, les horaires de service et la méthode de contact, ainsi que la tarification (s'il facture le support). 
 
-Les partenaires sont requises pour recevoir des demandes entrantes de prise en charge des clients, diagnostiquer les problèmes au mieux de la capacité du partenaire et puis résoudre les problèmes qui se trouvent dans la portée des limites de prise en charge de ligne de base. Si le partenaire est impossible de résoudre un problème, ils peuvent transmettre les problèmes à Microsoft via des voitures suivantes:
+Les partenaires sont tenus de recevoir les demandes entrantes de support des clients, de diagnostiquer les problèmes au mieux de leur capacité et de résoudre les problèmes qui se trouvent dans l’étendue des limites de la ligne de base du support. Si le partenaire est incapable de résoudre un problème, il peut transmettre les problèmes à Microsoft via les canaux de support suivants :
 
-- Prise en charge de problème **commercial** est disponible pour tous les partenaires du programme fournisseur de solutions cloud
--   Support **technique** de problème est disponible par le biais de:
-    -   premier Support pour les partenaires (frais de base)
-    -   Prise en charge avancée pour les partenaires (frais de base)
-    -   Prise en charge du Cloud signature (inclus avec compétence or/argent)
+- Le support**Commercial** est disponible pour tous les partenaires du programme Fournisseur de solutions Cloud
+-   Le support **Technique** est disponible par le biais de :
+    -   Support Premier pour les partenaires (tarification)
+    -   Support Avancé pour les partenaires (tarification)
+    -   Signature Cloud Support (inclus avec les compétences Gold/Silver)
 
-### <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture d’une facturation, gestion des abonnements et support technique 
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
-Chaque service en ligne a des exigences spécifiques et détaillées permettant de facturation, gestion des abonnements et support technique pour les clients. Consultez les documents suivants pour plus d’informations.
+Chaque service en ligne a des exigences spécifiques et détaillées pour la fourniture de la facturation, de la gestion des abonnements et du support technique pour les clients. Reportez-vous aux documents suivants pour en savoir plus.
 
--   [Abonnements Dynamics 365 vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Les abonnements de Dynamics 365 vendus via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Abonnements Azure vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Abonnements Azure vendus via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Abonnements Office 365 vendus par le biais du fournisseur de solutions cloud](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Les abonnements Office 365 vendus via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 
 

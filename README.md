@@ -1,37 +1,37 @@
-# You've added your first ReadMe file!
-A README.md file is intended to quickly orient readers to what your project can do.  New to Markdown? [Learn more](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
+# <a name="youve-added-your-first-readme-file"></a>Vous avez ajouté votre premier fichier Lisez-moi !
+Un fichier README.md vise à orienter rapidement les lecteurs à ce que votre projet peut faire.  Vous débutez avec Markdown ? [En savoir plus](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
-## Edit this ReadMe and commit your change to a topic branch
-In Git, branches are cheap.  You should use them whenever you're making changes to your repository.  Edit this file by clicking on the edit icon.
+## <a name="edit-this-readme-and-commit-your-change-to-a-topic-branch"></a>Modifier ce fichier Lisez-moi et valider vos modifications dans une branche de rubrique
+Dans Git, les branches sont peu coûteuses.  Vous devez les utiliser à chaque fois que vous apportez des modifications à votre référentiel.  Modifiez ce fichier en cliquant sur l’icône de modification.
 
-Then make some changes to this ReadMe file.
+Puis apporter des modifications à ce fichier Lisez-moi.
 
-> Make some **edits** to _this_ blockquote
+> Rendre certains **modifications** à _cela_ blockquote
 
-When you are done, click the dropdown arrow next to the save button - that will allow you to commit your changes to a new branch.
+Lorsque vous avez terminé, cliquez sur la flèche déroulante en regard de l’enregistrement bouton - ce qui vous permet de valider vos modifications dans une nouvelle branche.
 
-## Create a pull request to contribute your changes back into master
-Pull requests are the way to move changes from a topic branch back into the master branch.
+## <a name="create-a-pull-request-to-contribute-your-changes-back-into-master"></a>Créer une demande de tirage à fournir vos modifications dans la branche maître
+Demandes de tirage sont le moyen pour vous déplacer dans des modifications à partir d’une branche de rubrique dans la branche principale.
 
-Click on the **Pull Requests** page in the **CODE** hub, then click "New Pull Request" to create a new pull request from your topic branch to the master branch.
+Cliquez sur le **demandes de tirage** page dans le **CODE** hub, puis cliquez sur « Nouvelle demande de tirage » pour créer une nouvelle demande de tirage à partir de votre branche de rubrique à la branche principale.
 
-When you are done adding details, click "Create Pull request". Once a pull request is sent, reviewers can see your changes, recommend modifications, or even push follow-up commits.
+Lorsque vous avez terminé l’ajout de détails, cliquez sur « Requête de tirage de créer ». Une fois qu’une demande de tirage est envoyée, réviseurs peuvent voir vos modifications, recommandent de modifier ou même les validations suivi.
 
-First time creating a pull request?  [Learn more](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
+La première fois la création d’une demande de tirage ?  [En savoir plus](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### Congratulations! You've completed the grand tour of the CODE hub!
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>Félicitations ! Vous avez terminé la tour d’horizon du hub CODE.
 
-# Next steps
+# <a name="next-steps"></a>Étapes suivantes
 
-If you haven't already done so, [install Git](https://git-scm.com/downloads) (as well as [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) for Linux or Mac OS)
+Si vous n’avez pas déjà fait, [installer Git](https://git-scm.com/downloads) (ainsi que [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) pour Linux ou Mac OS)
 
-Choose and install one of these supported IDEs:
+Choisissez et installez un de ces IDE pris en charge :
 * [Visual Studio](https://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x409&slcid=0x409)
-* [Android Studio](https://developer.android.com/studio) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Eclipse](https://www.eclipse.org/downloads) (with [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Visual Studio Code](https://code.visualstudio.com/Download) (with [Team Services Extension](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
+* [Android Studio](https://developer.android.com/studio) (avec [Team Services plug-in](https://java.visualstudio.com/Downloads/intellijplugin/Index))
+* [Eclipse](https://www.eclipse.org/downloads) (avec [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (avec [Team Services plug-in](https://java.visualstudio.com/Downloads/intellijplugin/Index))
+* [Visual Studio Code](https://code.visualstudio.com/Download) (avec [Team Services Extension](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
 
-Then clone this repo to your local machine to get started with your own project.
+Puis le cloner ce référentiel sur votre ordinateur local pour la prise en main votre propre projet.
   
-Happy coding!
+Amusez-vous bien !
