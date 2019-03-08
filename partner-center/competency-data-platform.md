@@ -3,20 +3,20 @@ title: Compétence Plateforme de données
 ms.topic: article
 ms.date: 10/29/2018
 description: La compétence Plateforme de données reconnaît les partenaires dont l’objectif est de concevoir et développer des plateformes de base de données puissantes et polyvalentes pour soutenir leur activité.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence, compétences, plateforme de données
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b2c85185910c859ed69706fb7ab2778ab0e47cbb
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797272"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586442"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="ef66e-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="ef66e-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="966d1-104">Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="966d1-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

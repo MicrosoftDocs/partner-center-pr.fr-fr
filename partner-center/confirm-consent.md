@@ -1,151 +1,151 @@
 ---
-title: Confirmer l’acceptation du client du contrat Microsoft Cloud | L’espace partenaires
+title: Confirmer l'acceptation du contrat Microsoft Cloud par le client | Espace partenaires
 ms.topic: article
 ms.date: 02/22/2019
-Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
-author: v-petand
+Description: En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft Cloud par le client pour pouvoir lui commander des produits et des services Microsoft. Pour mieux partenaires répondent aux exigences de conformité, Microsoft vous demande de partenaires pour confirmer l’acceptation en fournissant certains détails concernant la personne qui a accepté le contrat.
+author: LauraBrenner
 ms.author: v-petand
-keywords: client, clients, consentement, MCA, du contrat Microsoft Cloud, modèles de contrat client
+keywords: client, les clients, donner son consentement, MCA, accord du Cloud Microsoft, modèles de contrat de client
 ms.localizationpriority: medium
-ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
-ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
+ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "9099437"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587562"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a><span data-ttu-id="5f3a7-103">Confirmer l’acceptation du client du contrat Microsoft Cloud</span><span class="sxs-lookup"><span data-stu-id="5f3a7-103">Confirm customer acceptance of the Microsoft Cloud Agreement</span></span>
+# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a><span data-ttu-id="9c18a-105">Confirmer l'acceptation du contrat Microsoft Cloud par le client</span><span class="sxs-lookup"><span data-stu-id="9c18a-105">Confirm customer acceptance of the Microsoft Cloud Agreement</span></span>
 
-**<span data-ttu-id="5f3a7-104">S'applique à:</span><span class="sxs-lookup"><span data-stu-id="5f3a7-104">Applies to</span></span>**
--  <span data-ttu-id="5f3a7-105">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="5f3a7-105">Partner Center</span></span>
+<span data-ttu-id="9c18a-106">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="9c18a-106">**Applies to**</span></span>
+-  <span data-ttu-id="9c18a-107">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="9c18a-107">Partner Center</span></span>
 
-<span data-ttu-id="5f3a7-106">En tant que partenaire, vous devez obtenir l’acceptation de votre client du contrat Microsoft Cloud pour commander des produits et services pour que le client Microsoft.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-106">As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer.</span></span> <span data-ttu-id="5f3a7-107">Pour faciliter les partenaires répondre aux exigences de conformité, Microsoft invite les partenaires pour confirmer l’acceptation en fournissant les informations suivantes concernant la personne qui l’a accepté le contrat:</span><span class="sxs-lookup"><span data-stu-id="5f3a7-107">To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing the following details regarding the person who accepted the agreement:</span></span> 
+<span data-ttu-id="9c18a-108">En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft Cloud par le client pour pouvoir lui commander des produits et des services Microsoft.</span><span class="sxs-lookup"><span data-stu-id="9c18a-108">As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer.</span></span> <span data-ttu-id="9c18a-109">Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant les informations suivantes sur la personne qui a accepté le contrat :</span><span class="sxs-lookup"><span data-stu-id="9c18a-109">To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing the following details regarding the person who accepted the agreement:</span></span> 
 
--   <span data-ttu-id="5f3a7-108">Prénom</span><span class="sxs-lookup"><span data-stu-id="5f3a7-108">First name</span></span>
+-   <span data-ttu-id="9c18a-110">Prénom</span><span class="sxs-lookup"><span data-stu-id="9c18a-110">First name</span></span>
 
--   <span data-ttu-id="5f3a7-109">Nom</span><span class="sxs-lookup"><span data-stu-id="5f3a7-109">Last name</span></span>
+-   <span data-ttu-id="9c18a-111">Nom</span><span class="sxs-lookup"><span data-stu-id="9c18a-111">Last name</span></span>
 
--   <span data-ttu-id="5f3a7-110">Adresse e-mail</span><span class="sxs-lookup"><span data-stu-id="5f3a7-110">Email address</span></span>
+-   <span data-ttu-id="9c18a-112">Adresse électronique</span><span class="sxs-lookup"><span data-stu-id="9c18a-112">Email address</span></span>
 
--   <span data-ttu-id="5f3a7-111">Numéro de téléphone mobile</span><span class="sxs-lookup"><span data-stu-id="5f3a7-111">Phone number</span></span>
+-   <span data-ttu-id="9c18a-113">Numéro de téléphone </span><span class="sxs-lookup"><span data-stu-id="9c18a-113">Phone number</span></span>
 
--   <span data-ttu-id="5f3a7-112">Date d’acceptation</span><span class="sxs-lookup"><span data-stu-id="5f3a7-112">Date of acceptance</span></span>
+-   <span data-ttu-id="9c18a-114">Date d’acceptation</span><span class="sxs-lookup"><span data-stu-id="9c18a-114">Date of acceptance</span></span>
 
-<span data-ttu-id="5f3a7-113">Pour plus d’informations, voir la confirmation d’acceptation du contrat Microsoft Cloud client [Forum aux Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).</span><span class="sxs-lookup"><span data-stu-id="5f3a7-113">To learn more, see the Microsoft Cloud Agreement customer acceptance confirmation [Frequently Asked Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).</span></span>
+<span data-ttu-id="9c18a-115">Pour plus d’informations, consultez la confirmation de l’acceptation de client accord du Cloud Microsoft [Forum aux Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).</span><span class="sxs-lookup"><span data-stu-id="9c18a-115">To learn more, see the Microsoft Cloud Agreement customer acceptance confirmation [Frequently Asked Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).</span></span>
 
-## <a name="schedule"></a><span data-ttu-id="5f3a7-114">Planification</span><span class="sxs-lookup"><span data-stu-id="5f3a7-114">Schedule</span></span>
+## <a name="schedule"></a><span data-ttu-id="9c18a-116">Planification</span><span class="sxs-lookup"><span data-stu-id="9c18a-116">Schedule</span></span>
 
-**<span data-ttu-id="5f3a7-115">7 août 2018</span><span class="sxs-lookup"><span data-stu-id="5f3a7-115">August 7, 2018</span></span>**
+<span data-ttu-id="9c18a-117">**7 août 2018**</span><span class="sxs-lookup"><span data-stu-id="9c18a-117">**August 7, 2018**</span></span>
 
--   <span data-ttu-id="5f3a7-116">Les partenaires de facture direct et les fournisseurs indirects peuvent confirmer acceptation du client du contrat Microsoft Cloud.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-116">Direct bill partners and Indirect Providers can confirm customer acceptance of the Microsoft Cloud Agreement.</span></span> <span data-ttu-id="5f3a7-117">Confirmation est *facultatif*.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-117">Confirmation is *optional*.</span></span>
+-   <span data-ttu-id="9c18a-118">Les partenaires associés à une facturation directe et les fournisseurs indirects peuvent confirmer l’acceptation du contrat Microsoft Cloud par le client.</span><span class="sxs-lookup"><span data-stu-id="9c18a-118">Direct bill partners and Indirect Providers can confirm customer acceptance of the Microsoft Cloud Agreement.</span></span> <span data-ttu-id="9c18a-119">La confirmation est *facultative*.</span><span class="sxs-lookup"><span data-stu-id="9c18a-119">Confirmation is *optional*.</span></span>
 
--   <span data-ttu-id="5f3a7-118">Confirmation de l’acceptation du client peut être effectuée via l’espace partenaires ou les API de l’espace.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-118">Confirmation of customer acceptance can be done via Partner Center or Partner Center API.</span></span>
+-   <span data-ttu-id="9c18a-120">Confirmation d’acceptation du client peut être effectuée par le biais de partenaires ou des API espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-120">Confirmation of customer acceptance can be done via Partner Center or Partner Center API.</span></span>
 
--   <span data-ttu-id="5f3a7-119">Confirmation de l’acceptation du client est uniquement pris en charge avec Microsoft Cloud Public.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-119">Confirmation of customer acceptance is supported with Microsoft Public Cloud only.</span></span>
+-   <span data-ttu-id="9c18a-121">La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.</span><span class="sxs-lookup"><span data-stu-id="9c18a-121">Confirmation of customer acceptance is supported with Microsoft Public Cloud only.</span></span>
 
 
-**<span data-ttu-id="5f3a7-120">7 novembre 2018</span><span class="sxs-lookup"><span data-stu-id="5f3a7-120">November 7, 2018</span></span>**
+<span data-ttu-id="9c18a-122">**7 novembre 2018**</span><span class="sxs-lookup"><span data-stu-id="9c18a-122">**November 7, 2018**</span></span>
 
--   <span data-ttu-id="5f3a7-121">Les partenaires de facture direct et les fournisseurs indirects **doit** confirment acceptation du client du contrat Microsoft Cloud lors de transactions par le biais du tableau de bord de l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-121">Direct bill partners and Indirect Providers **must** confirm customer acceptance of the Microsoft Cloud Agreement when transacting through Partner Center dashboard.</span></span> <span data-ttu-id="5f3a7-122">Confirmation est *obligatoire*.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-122">Confirmation is *mandatory*.</span></span>
+-   <span data-ttu-id="9c18a-123">Diriger des partenaires de facture et les fournisseurs indirects **doit** confirmer l’acceptation du client de l’accord de Cloud de Microsoft lors des transactions via le tableau de bord de partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-123">Direct bill partners and Indirect Providers **must** confirm customer acceptance of the Microsoft Cloud Agreement when transacting through Partner Center dashboard.</span></span> <span data-ttu-id="9c18a-124">La confirmation est *obligatoire*.</span><span class="sxs-lookup"><span data-stu-id="9c18a-124">Confirmation is *mandatory*.</span></span>
 
--   <span data-ttu-id="5f3a7-123">Si la confirmation n’est pas fournie pour un client donné:</span><span class="sxs-lookup"><span data-stu-id="5f3a7-123">If confirmation is not provided for a given customer:</span></span>
+-   <span data-ttu-id="9c18a-125">Si la confirmation n’est pas fournie pour un client donné :</span><span class="sxs-lookup"><span data-stu-id="9c18a-125">If confirmation is not provided for a given customer:</span></span>
 
-    -   <span data-ttu-id="5f3a7-124">Il se peut que vous ne pourrez pas créer de nouvelles commandes pour ce client.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-124">You won’t be able to create new orders for this customer.</span></span>
+    -   <span data-ttu-id="9c18a-126">Vous ne pourrez pas créer de commandes pour ce client.</span><span class="sxs-lookup"><span data-stu-id="9c18a-126">You won’t be able to create new orders for this customer.</span></span>
 
-    -   <span data-ttu-id="5f3a7-125">Vous ne serez en mesure de modifier le nombre de sièges des abonnements basés sur les sièges existants pour ce client.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-125">You won’t be able to change the seat count of existing seat-based subscriptions for this customer.</span></span>
+    -   <span data-ttu-id="9c18a-127">Vous ne pourrez pas modifier le nombre de sièges des abonnements existants basés sur les utilisateurs pour ce client.</span><span class="sxs-lookup"><span data-stu-id="9c18a-127">You won’t be able to change the seat count of existing seat-based subscriptions for this customer.</span></span>
 
--   <span data-ttu-id="5f3a7-126">Confirmation de l’acceptation du client peut être effectuée via l’espace partenaires ou les API de l’espace.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-126">Confirmation of customer acceptance can be done via Partner Center or Partner Center API.</span></span>
+-   <span data-ttu-id="9c18a-128">Confirmation d’acceptation du client peut être effectuée par le biais de partenaires ou des API espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-128">Confirmation of customer acceptance can be done via Partner Center or Partner Center API.</span></span>
 
--   <span data-ttu-id="5f3a7-127">Confirmation de l’acceptation du client est uniquement pris en charge avec Microsoft Cloud Public.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-127">Confirmation of customer acceptance is supported with Microsoft Public Cloud only.</span></span>
+-   <span data-ttu-id="9c18a-129">La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.</span><span class="sxs-lookup"><span data-stu-id="9c18a-129">Confirmation of customer acceptance is supported with Microsoft Public Cloud only.</span></span>
 
--   <span data-ttu-id="5f3a7-128">Cela s’applique à des environnements de production et bac à sable.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-128">This applies to both production and sandbox environments.</span></span>
+-   <span data-ttu-id="9c18a-130">Cela vaut pour les environnements de bac à sable et de production.</span><span class="sxs-lookup"><span data-stu-id="9c18a-130">This applies to both production and sandbox environments.</span></span>
 
-**<span data-ttu-id="5f3a7-129">11 mars 2018</span><span class="sxs-lookup"><span data-stu-id="5f3a7-129">March 11, 2018</span></span>**
+<span data-ttu-id="9c18a-131">**11 mars 2018**</span><span class="sxs-lookup"><span data-stu-id="9c18a-131">**March 11, 2018**</span></span>
 
-- <span data-ttu-id="5f3a7-130">Les partenaires de facture direct et Indirect Providersmust confirment acceptation du client du contrat Microsoft Cloud dans l’environnement de bac à sable CSP lors de transactions par le biais des API de l’espace.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-130">Direct bill partners and Indirect Providersmust confirm customer acceptance of the Microsoft Cloud Agreement in CSP sandbox environment when transacting through Partner Center API.</span></span>
-- <span data-ttu-id="5f3a7-131">Si la confirmation n’est pas fournie pour un client donné:</span><span class="sxs-lookup"><span data-stu-id="5f3a7-131">If confirmation is not provided for a given customer:</span></span>
+- <span data-ttu-id="9c18a-132">Partenaires de facture directe et indirecte Providersmust confirment acceptation du client de l’accord de Cloud de Microsoft dans un environnement de bac à sable CSP lors des transactions via l’API espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-132">Direct bill partners and Indirect Providersmust confirm customer acceptance of the Microsoft Cloud Agreement in CSP sandbox environment when transacting through Partner Center API.</span></span>
+- <span data-ttu-id="9c18a-133">Si la confirmation n’est pas fournie pour un client donné :</span><span class="sxs-lookup"><span data-stu-id="9c18a-133">If confirmation is not provided for a given customer:</span></span>
 
-    - <span data-ttu-id="5f3a7-132">Il se peut que vous ne pourrez pas créer de nouvelles commandes pour ce client à l’aide des API de l’espace.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-132">You won’t be able to create new orders for this customer using Partner Center API.</span></span>
+    - <span data-ttu-id="9c18a-134">Vous ne pourrez pas créer de nouvelles commandes pour ce client à l’aide des API espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-134">You won’t be able to create new orders for this customer using Partner Center API.</span></span>
  
-    - <span data-ttu-id="5f3a7-133">Vous ne serez en mesure de modifier le nombre de sièges des abonnements basés sur les sièges existants pour ce client à l’aide des API de l’espace.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-133">You won’t be able to change the seat count of existing seat-based subscriptions for this customer using Partner Center API.</span></span>
-- <span data-ttu-id="5f3a7-134">Confirmation de l’acceptation du client est uniquement pris en charge avec Microsoft Cloud Public.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-134">Confirmation of customer acceptance is supported with Microsoft Public Cloud only.</span></span> 
+    - <span data-ttu-id="9c18a-135">Vous ne pourrez pas modifier le nombre de sièges des abonnements existants des sièges pour ce client à l’aide des API espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-135">You won’t be able to change the seat count of existing seat-based subscriptions for this customer using Partner Center API.</span></span>
+- <span data-ttu-id="9c18a-136">La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.</span><span class="sxs-lookup"><span data-stu-id="9c18a-136">Confirmation of customer acceptance is supported with Microsoft Public Cloud only.</span></span> 
 
-**<span data-ttu-id="5f3a7-135">Le 22 mars, 12018</span><span class="sxs-lookup"><span data-stu-id="5f3a7-135">March 22, 12018</span></span>**
+<span data-ttu-id="9c18a-137">**Le 22 mars, 12018**</span><span class="sxs-lookup"><span data-stu-id="9c18a-137">**March 22, 12018**</span></span>
 
-- <span data-ttu-id="5f3a7-136">Les partenaires de facture direct et Indirect Providersmust confirment acceptation du client du contrat Microsoft Cloud dans l’environnement de production CSP lors de transactions par le biais des API de l’espace.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-136">Direct bill partners and Indirect Providersmust confirm customer acceptance of the Microsoft Cloud Agreement in CSP production environment when transacting through Partner Center API.</span></span>
+- <span data-ttu-id="9c18a-138">Partenaires de facture directe et indirecte Providersmust confirment acceptation du client de l’accord de Cloud de Microsoft dans un environnement de production CSP lors des transactions via l’API espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-138">Direct bill partners and Indirect Providersmust confirm customer acceptance of the Microsoft Cloud Agreement in CSP production environment when transacting through Partner Center API.</span></span>
 
-- <span data-ttu-id="5f3a7-137">Si la confirmation n’est pas fournie pour un client donné:</span><span class="sxs-lookup"><span data-stu-id="5f3a7-137">If confirmation is not provided for a given customer:</span></span>
-  - <span data-ttu-id="5f3a7-138">Il se peut que vous ne pourrez pas créer de nouvelles commandes pour ce client à l’aide des API de l’espace.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-138">You won’t be able to create new orders for this customer using Partner Center API.</span></span>
+- <span data-ttu-id="9c18a-139">Si la confirmation n’est pas fournie pour un client donné :</span><span class="sxs-lookup"><span data-stu-id="9c18a-139">If confirmation is not provided for a given customer:</span></span>
+  - <span data-ttu-id="9c18a-140">Vous ne pourrez pas créer de nouvelles commandes pour ce client à l’aide des API espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-140">You won’t be able to create new orders for this customer using Partner Center API.</span></span>
 
-  - <span data-ttu-id="5f3a7-139">Vous ne serez en mesure de modifier le nombre de sièges des abonnements basés sur les sièges existants pour ce client à l’aide des API de l’espace.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-139">You won’t be able to change the seat count of existing seat-based subscriptions for this customer using Partner Center API.</span></span>
--  <span data-ttu-id="5f3a7-140">Confirmation de l’acceptation du client est uniquement pris en charge avec Microsoft Cloud Public.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-140">Confirmation of customer acceptance is supported with Microsoft Public Cloud only.</span></span>
-
-
+  - <span data-ttu-id="9c18a-141">Vous ne pourrez pas modifier le nombre de sièges des abonnements existants des sièges pour ce client à l’aide des API espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-141">You won’t be able to change the seat count of existing seat-based subscriptions for this customer using Partner Center API.</span></span>
+-  <span data-ttu-id="9c18a-142">La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.</span><span class="sxs-lookup"><span data-stu-id="9c18a-142">Confirmation of customer acceptance is supported with Microsoft Public Cloud only.</span></span>
 
 
 
 
 
-## <a name="confirming-customer-acceptance-in-partner-center"></a><span data-ttu-id="5f3a7-141">Confirmation d’acceptation du client dans l’espace partenaires</span><span class="sxs-lookup"><span data-stu-id="5f3a7-141">Confirming customer acceptance in Partner Center</span></span>
 
-### <a name="confirm-customer-acceptance-for-a-new-customer"></a><span data-ttu-id="5f3a7-142">Confirmer l’acceptation du client pour un nouveau client</span><span class="sxs-lookup"><span data-stu-id="5f3a7-142">Confirm customer acceptance for a new customer</span></span>
 
-<span data-ttu-id="5f3a7-143">Utilisez la procédure suivante pour confirmer l’acceptation du client lorsque vous créez un nouveau locataire du client dans l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-143">Use the following procedure to confirm customer acceptance while you create a new customer tenant in Partner Center.</span></span> <span data-ttu-id="5f3a7-144">Notez que vous devez être un agent administrateur ou l’agent commercial pour effectuer cette opération.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-144">Note that you must be an Admin agent or Sales agent to do this.</span></span>
+## <a name="confirming-customer-acceptance-in-partner-center"></a><span data-ttu-id="9c18a-143">Confirmation d’acceptation du client dans l’espace partenaires</span><span class="sxs-lookup"><span data-stu-id="9c18a-143">Confirming customer acceptance in Partner Center</span></span>
+
+### <a name="confirm-customer-acceptance-for-a-new-customer"></a><span data-ttu-id="9c18a-144">Confirmer l’acceptation par un nouveau client</span><span class="sxs-lookup"><span data-stu-id="9c18a-144">Confirm customer acceptance for a new customer</span></span>
+
+<span data-ttu-id="9c18a-145">Utilisez la procédure suivante pour confirmer l’acceptation du client lorsque vous créez un nouveau client dans l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="9c18a-145">Use the following procedure to confirm customer acceptance while you create a new customer tenant in Partner Center.</span></span> <span data-ttu-id="9c18a-146">Notez que vous devez être Agent administrateur ou Commercial pour effectuer cette opération.</span><span class="sxs-lookup"><span data-stu-id="9c18a-146">Note that you must be an Admin agent or Sales agent to do this.</span></span>
  
-1.  <span data-ttu-id="5f3a7-145">Sélectionnez **clients**, puis de **nouveau client** , puis sélectionnez les **informations de compte**.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-145">Select **Customers**, and then **New customer** and then select **Account info**.</span></span>
+1.  <span data-ttu-id="9c18a-147">Sélectionnez **clients**, puis **nouveau client** , puis sélectionnez **informations sur le compte**.</span><span class="sxs-lookup"><span data-stu-id="9c18a-147">Select **Customers**, and then **New customer** and then select **Account info**.</span></span>
 
-2.  <span data-ttu-id="5f3a7-146">Entrez les informations sur la **société** et le **contact principal**.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-146">Enter the information about the **Company** and **Primary contact**.</span></span>
+2.  <span data-ttu-id="9c18a-148">Entrez les informations sur la **Société** et le **Contact principal**.</span><span class="sxs-lookup"><span data-stu-id="9c18a-148">Enter the information about the **Company** and **Primary contact**.</span></span>
 
-![Informations sur la société](images/mca/mca1.png)
+![Informations de l’entreprise](images/mca/mca1.png)
 
-3.  <span data-ttu-id="5f3a7-148">Dans le cadre **du contrat Microsoft cloud**, sélectionnez **le client a accepté l’accord de cloud Microsoft dernière**.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-148">Under **Microsoft cloud agreement**, select **The customer has accepted the latest Microsoft cloud agreement**.</span></span> 
+3.  <span data-ttu-id="9c18a-150">Sous **Contrat Microsoft Cloud**, sélectionnez **Le client a accepté le dernier contrat Microsoft Cloud**.</span><span class="sxs-lookup"><span data-stu-id="9c18a-150">Under **Microsoft cloud agreement**, select **The customer has accepted the latest Microsoft cloud agreement**.</span></span> 
 
-4.  <span data-ttu-id="5f3a7-149">Sous l' **acceptation du contrat**, entrez la date appropriée.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-149">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="5f3a7-150">Vous ne pouvez pas le définissez sur une date ultérieure.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-150">You cannot set this to a future date.</span></span>
+4.  <span data-ttu-id="9c18a-151">Sous **Date d'acceptation du contrat**, entrez la date appropriée.</span><span class="sxs-lookup"><span data-stu-id="9c18a-151">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="9c18a-152">Vous ne pouvez pas la définir sur une date ultérieure.</span><span class="sxs-lookup"><span data-stu-id="9c18a-152">You cannot set this to a future date.</span></span>
 
-5.  <span data-ttu-id="5f3a7-151">Entrez les détails de l’utilisateur ayant fourni l’acceptation.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-151">Enter the details of the user who provided the acceptance.</span></span> 
+5.  <span data-ttu-id="9c18a-153">Entrez les détails de l’utilisateur qui a fourni l’acceptation.</span><span class="sxs-lookup"><span data-stu-id="9c18a-153">Enter the details of the user who provided the acceptance.</span></span> 
 
 ![Ajouter la date d’acceptation](images/mca/MCA3.png)
 
-<span data-ttu-id="5f3a7-153">Par défaut, les informations utilisateur contact principal s’affiche.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-153">By default, the primary contact user information is displayed.</span></span> <span data-ttu-id="5f3a7-154">Si ce n’est pas correct, sélectionnez **mise à jour** , puis entrez le **prénom**, le **nom**, l' **adresse de messagerie**, et \**numéro de téléphone* (facultatif) de la personne qui l’a accepté le contrat.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-154">If this isn’t correct, select **Update** and then enter the **First name**, **Last name**, **Email address**, and \**Phone number* (optional) of the person who accepted the agreement.</span></span>
+<span data-ttu-id="9c18a-155">Par défaut, les informations d’utilisateur du contact principal sont affichées.</span><span class="sxs-lookup"><span data-stu-id="9c18a-155">By default, the primary contact user information is displayed.</span></span> <span data-ttu-id="9c18a-156">Si elles ne sont pas correctes, sélectionnez **Mettre à jour**, puis saisissez les **Prénom**, **Nom**, **Adresse e-mail** et \**Numéro de téléphone* (facultatif) de la personne qui a accepté le contrat.</span><span class="sxs-lookup"><span data-stu-id="9c18a-156">If this isn’t correct, select **Update** and then enter the **First name**, **Last name**, **Email address**, and \**Phone number* (optional) of the person who accepted the agreement.</span></span>
 
-6.  <span data-ttu-id="5f3a7-155">Sélectionnez **suivant** pour continuer avec les étapes restantes pour créer le locataire du client.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-155">Select **Next** to continue with the remaining steps to create the customer tenant.</span></span>
+6.  <span data-ttu-id="9c18a-157">Sélectionnez **Suivant** pour effectuer le reste des étapes afin de créer le locataire du client.</span><span class="sxs-lookup"><span data-stu-id="9c18a-157">Select **Next** to continue with the remaining steps to create the customer tenant.</span></span>
 
-### <a name="confirm-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="5f3a7-156">Confirmer l’acceptation du client pour un client existant</span><span class="sxs-lookup"><span data-stu-id="5f3a7-156">Confirm customer acceptance for an existing customer</span></span>
+### <a name="confirm-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="9c18a-158">Confirmer l’acceptation par un client existant</span><span class="sxs-lookup"><span data-stu-id="9c18a-158">Confirm customer acceptance for an existing customer</span></span>
 
-<span data-ttu-id="5f3a7-157">Vous devez être un agent administrateur ou l’agent commercial pour effectuer cette opération.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-157">You must be an Admin agent or Sales agent to do this.</span></span> 
+<span data-ttu-id="9c18a-159">Vous devez être Agent administrateur ou Commercial pour effectuer cette opération.</span><span class="sxs-lookup"><span data-stu-id="9c18a-159">You must be an Admin agent or Sales agent to do this.</span></span> 
 
-1.  <span data-ttu-id="5f3a7-158">Sélectionnez **clients**, puis recherchez et sélectionnez le client dont vous souhaitez afficher.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-158">Select **Customers**, and then find and select the customer you want to see.</span></span> 
+1.  <span data-ttu-id="9c18a-160">Sélectionnez **Clients**, puis recherchez et sélectionnez le client que vous souhaitez afficher.</span><span class="sxs-lookup"><span data-stu-id="9c18a-160">Select **Customers**, and then find and select the customer you want to see.</span></span> 
 
-2.  <span data-ttu-id="5f3a7-159">Sélectionnez les **informations de compte**.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-159">Select **Account info**.</span></span>
+2.  <span data-ttu-id="9c18a-161">Sélectionnez **informations sur le compte**.</span><span class="sxs-lookup"><span data-stu-id="9c18a-161">Select **Account info**.</span></span>
 
-3.  <span data-ttu-id="5f3a7-160">Dans le cadre **du contrat Microsoft cloud**, sélectionnez **mise à jour**.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-160">Under **Microsoft cloud agreement**, select **Update**.</span></span>
+3.  <span data-ttu-id="9c18a-162">Sous **Contrat Microsoft Cloud**, sélectionnez **Mettre à jour**.</span><span class="sxs-lookup"><span data-stu-id="9c18a-162">Under **Microsoft cloud agreement**, select **Update**.</span></span>
 
-![Mettre à jour](images/mca/mca4.png)
+![Mettre à jour/Mise à jour](images/mca/mca4.png)
 
-4.  <span data-ttu-id="5f3a7-162">Entrez le **prénom**, **nom**, **adresse de messagerie**et **numéro de téléphone** (facultatif) de l’utilisateur qui a accepté le contrat.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-162">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
+4.  <span data-ttu-id="9c18a-164">Saisissez les **Prénom**, **Nom**, **Adresse e-mail** et **Numéro de téléphone** (facultatif) de l’utilisateur qui a accepté le contrat.</span><span class="sxs-lookup"><span data-stu-id="9c18a-164">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
 
-5.  <span data-ttu-id="5f3a7-163">Sous l' **acceptation du contrat**, entrez la date appropriée.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-163">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="5f3a7-164">Vous ne pouvez pas le définissez sur une date ultérieure.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-164">You cannot set this to a future date.</span></span>
+5.  <span data-ttu-id="9c18a-165">Sous **Date d'acceptation du contrat**, entrez la date appropriée.</span><span class="sxs-lookup"><span data-stu-id="9c18a-165">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="9c18a-166">Vous ne pouvez pas la définir sur une date ultérieure.</span><span class="sxs-lookup"><span data-stu-id="9c18a-166">You cannot set this to a future date.</span></span>
 
-6.  <span data-ttu-id="5f3a7-165">Sélectionnez **Enregistrer et continuer**.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-165">Select **Save and continue**.</span></span>
+6.  <span data-ttu-id="9c18a-167">Sélectionnez **Enregistrer et continuer**.</span><span class="sxs-lookup"><span data-stu-id="9c18a-167">Select **Save and continue**.</span></span>
 
-### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a><span data-ttu-id="5f3a7-166">Confirmer l’acceptation du client lors de la création de nouvelle commande pour un client existant</span><span class="sxs-lookup"><span data-stu-id="5f3a7-166">Confirm customer acceptance while creating new order for an existing customer</span></span>
+### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a><span data-ttu-id="9c18a-168">Confirmer l’acceptation du client lors de la création d'une nouvelle commande pour un client existant</span><span class="sxs-lookup"><span data-stu-id="9c18a-168">Confirm customer acceptance while creating new order for an existing customer</span></span>
 
-<span data-ttu-id="5f3a7-167">Si vous essayez de créer une nouvelle commande pour un client existant que vous n’avez pas confirmé, vous recevrez une invite de commandes pour terminer la confirmation.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-167">If you try to create a new order for an existing customer which you have not confirmed before, you’ll receive a prompt to complete the confirmation.</span></span> <span data-ttu-id="5f3a7-168">Pour ce faire, utilisez la procédure suivante.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-168">Use the following procedure to do this.</span></span> 
+<span data-ttu-id="9c18a-169">Si vous essayez de créer une nouvelle commande pour un client existant que vous n’avez pas encore confirmée, vous recevrez une invite pour terminer la confirmation.</span><span class="sxs-lookup"><span data-stu-id="9c18a-169">If you try to create a new order for an existing customer which you have not confirmed before, you’ll receive a prompt to complete the confirmation.</span></span> <span data-ttu-id="9c18a-170">Utilisez la procédure suivante pour ce faire.</span><span class="sxs-lookup"><span data-stu-id="9c18a-170">Use the following procedure to do this.</span></span> 
 
-1.  <span data-ttu-id="5f3a7-169">Entrez le **prénom**, **nom**, **adresse de messagerie**et **numéro de téléphone** (facultatif) de l’utilisateur qui a accepté le contrat.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-169">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
+1.  <span data-ttu-id="9c18a-171">Saisissez les **Prénom**, **Nom**, **Adresse e-mail** et **Numéro de téléphone** (facultatif) de l’utilisateur qui a accepté le contrat.</span><span class="sxs-lookup"><span data-stu-id="9c18a-171">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
 
-2.  <span data-ttu-id="5f3a7-170">Sous l' **acceptation du contrat**, entrez la date appropriée.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-170">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="5f3a7-171">Vous ne pouvez pas le définissez sur une date ultérieure.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-171">You cannot set this to a future date.</span></span>
+2.  <span data-ttu-id="9c18a-172">Sous **Date d'acceptation du contrat**, entrez la date appropriée.</span><span class="sxs-lookup"><span data-stu-id="9c18a-172">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="9c18a-173">Vous ne pouvez pas la définir sur une date ultérieure.</span><span class="sxs-lookup"><span data-stu-id="9c18a-173">You cannot set this to a future date.</span></span>
 
-3.  <span data-ttu-id="5f3a7-172">Sélectionnez **Enregistrer et continuer**.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-172">Select **Save and continue**.</span></span>
+3.  <span data-ttu-id="9c18a-174">Sélectionnez **Enregistrer et continuer**.</span><span class="sxs-lookup"><span data-stu-id="9c18a-174">Select **Save and continue**.</span></span>
 
 
-### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="5f3a7-173">Récupérer la confirmation d’acceptation du client pour un client existant</span><span class="sxs-lookup"><span data-stu-id="5f3a7-173">Retrieve confirmation of customer acceptance for an existing customer</span></span>
+### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="9c18a-175">Récupérer la confirmation de l’acceptation d'un client existant</span><span class="sxs-lookup"><span data-stu-id="9c18a-175">Retrieve confirmation of customer acceptance for an existing customer</span></span>
 
-<span data-ttu-id="5f3a7-174">Vous pouvez récupérer la confirmation d’acceptation du client pour un client existant que vous avez fournies précédemment à l’aide de la procédure ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-174">You can retrieve confirmation of customer acceptance for an existing customer that you have provided previously using the procedure below.</span></span> <span data-ttu-id="5f3a7-175">Vous devez être un agent administrateur ou l’agent commercial pour effectuer cette opération.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-175">You must be an Admin agent or Sales agent to do this.</span></span> 
+<span data-ttu-id="9c18a-176">Vous pouvez récupérer la confirmation de l’acceptation d'un client existant que vous avez fournie précédemment à l’aide de la procédure ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="9c18a-176">You can retrieve confirmation of customer acceptance for an existing customer that you have provided previously using the procedure below.</span></span> <span data-ttu-id="9c18a-177">Vous devez être Agent administrateur ou Commercial pour effectuer cette opération.</span><span class="sxs-lookup"><span data-stu-id="9c18a-177">You must be an Admin agent or Sales agent to do this.</span></span> 
 
-1.  <span data-ttu-id="5f3a7-176">Sélectionnez **clients**, puis recherchez et sélectionnez le client dont vous souhaitez afficher.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-176">Select **Customers**, and then find and select the customer you want to see.</span></span> 
+1.  <span data-ttu-id="9c18a-178">Sélectionnez **Clients**, puis recherchez et sélectionnez le client que vous souhaitez afficher.</span><span class="sxs-lookup"><span data-stu-id="9c18a-178">Select **Customers**, and then find and select the customer you want to see.</span></span> 
 
-2.  <span data-ttu-id="5f3a7-177">Sélectionnez les **informations de compte**.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-177">Select **Account info**.</span></span>
+2.  <span data-ttu-id="9c18a-179">Sélectionnez **informations sur le compte**.</span><span class="sxs-lookup"><span data-stu-id="9c18a-179">Select **Account info**.</span></span>
 
-3.  <span data-ttu-id="5f3a7-178">Dans le cadre **du contrat Microsoft cloud**, vous verrez qu’ou non la confirmation a été fournie pour ce client.</span><span class="sxs-lookup"><span data-stu-id="5f3a7-178">Under **Microsoft cloud agreement**, you’ll see whether or not confirmation has been provided for this customer.</span></span>
+3.  <span data-ttu-id="9c18a-180">Sous **Contrat Microsoft Cloud**, vous verrez si la confirmation a été fournie ou non pour ce client.</span><span class="sxs-lookup"><span data-stu-id="9c18a-180">Under **Microsoft cloud agreement**, you’ll see whether or not confirmation has been provided for this customer.</span></span>
 

@@ -2,21 +2,21 @@
 title: Compétence Planification des ressources d’entreprise
 ms.topic: article
 ms.date: 10/29/2018
-description: Devenez partenaire de Microsoft en démontrant la capacité de votre entreprise à développer et déployer des solutions MicrosoftDynamics répondant aux besoins de planification des ressources d’entreprise.
-author: Daniel Simpson
+description: Devenez partenaire de Microsoft en démontrant la capacité de votre entreprise à développer et déployer des solutions Microsoft Dynamics répondant aux besoins de planification des ressources d’entreprise.
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence, compétences, Planification des ressources d’entreprise
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf3150bca54770453da4dc3b56302a30f348aca7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795542"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584332"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="52369-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="52369-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="c0851-104">Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="c0851-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Enterprise Resource Planning 

@@ -2,21 +2,21 @@
 title: Compétence Solutions cloud pour PME
 ms.topic: article
 ms.date: 10/29/2018
-description: La compétence Solutions cloud pour les PME vous aide à développer votre réputation en tant que partenaire spécialisé dans la vente et le déploiement de solutions Office365 pour les petites et moyennes entreprises.
-author: Daniel Simpson
+description: La compétence Solutions cloud pour les PME vous aide à développer votre réputation en tant que partenaire spécialisé dans la vente et le déploiement de solutions Office 365 pour les petites et moyennes entreprises.
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence, compétences, Solutions cloud pour PME
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1d273e9011871edc9f65c41ae234264a28360c42
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796852"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583922"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="16bd6-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="16bd6-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="44a4d-104">Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="44a4d-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Small and Midmarket Cloud Solutions 

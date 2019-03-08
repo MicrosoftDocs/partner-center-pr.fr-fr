@@ -3,20 +3,20 @@ title: Compétence Gestion de la mobilité d’entreprise
 ms.topic: article
 ms.date: 10/29/2018
 description: La compétence Gestion de la mobilité d’entreprise est destinée aux partenaires qui se démarquent en tant qu’experts de solutions puissantes et sûres de gestion de mobilité pour les grandes entreprises.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence, compétences, Gestion de la mobilité d’entreprise
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9ef0fbf3531916c081a495c140f550c0428d2462
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796242"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584042"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="ebb61-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="ebb61-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="8abf6-104">Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="8abf6-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

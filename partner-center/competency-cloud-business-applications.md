@@ -2,21 +2,21 @@
 title: Compétence Applications métier du cloud
 ms.topic: article
 ms.date: 10/29/2018
-description: La compétence Applications métier du cloud est destinée aux partenaires spécialisés dans le déploiement et la gestion de MicrosoftDynamics365 pour leurs clients.
-author: Daniel Simpson
+description: La compétence Applications métier du cloud est destinée aux partenaires spécialisés dans le déploiement et la gestion de Microsoft Dynamics 365 pour leurs clients.
+author: LauraBrenner
 ms.author: dansimp
 keywords: compétence, compétences, Applications métier du cloud
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6b962539a106f2b18d116bf3ca2f4b30084076a1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794572"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583942"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="111fa-104">Pour en savoir plus sur la configuration requise pour atteindre cette compétence, visitez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="111fa-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="bf8e5-104">Pour en savoir plus sur les conditions requises pour atteindre cette compétence, consultez le [portail Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="bf8e5-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

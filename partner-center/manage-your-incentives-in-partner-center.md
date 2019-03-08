@@ -3,56 +3,56 @@ title: Gérer vos primes incitatives dans l'Espace partenaires | Espace partenai
 ms.topic: article
 ms.date: 10/29/2018
 description: Les programmes de primes incitatives destinés aux partenaires Microsoft stimulent leur rentabilité et leur croissance
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995643"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586992"
 ---
-# <a name="manage-your-incentives-in-partner-center"></a><span data-ttu-id="4f371-103">Gérer vos primes incitatives dans l’Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="4f371-103">Manage your Incentives in Partner Center</span></span> 
+# <a name="manage-your-incentives-in-partner-center"></a><span data-ttu-id="33c9f-103">Gérer vos primes incitatives dans l’Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="33c9f-103">Manage your Incentives in Partner Center</span></span> 
 
-**<span data-ttu-id="4f371-104">S’applique à</span><span class="sxs-lookup"><span data-stu-id="4f371-104">Applies to</span></span>**
+<span data-ttu-id="33c9f-104">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="33c9f-104">**Applies to**</span></span>
 
--  <span data-ttu-id="4f371-105">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="4f371-105">Partner Center</span></span>
+-  <span data-ttu-id="33c9f-105">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="33c9f-105">Partner Center</span></span>
 
-## <a name="partner-incentives"></a><span data-ttu-id="4f371-106">Primes incitatives des partenaires</span><span class="sxs-lookup"><span data-stu-id="4f371-106">Partner Incentives</span></span> 
+## <a name="partner-incentives"></a><span data-ttu-id="33c9f-106">Primes incitatives des partenaires</span><span class="sxs-lookup"><span data-stu-id="33c9f-106">Partner Incentives</span></span> 
 
-<span data-ttu-id="4f371-107">Que vous travailliez dans le cloud, de manière locale ou quelque part entre les deux, les primes incitatives destinés aux partenaires stimulent votre croissance et votre rentabilité.</span><span class="sxs-lookup"><span data-stu-id="4f371-107">Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.</span></span>
+<span data-ttu-id="33c9f-107">Que vous travailliez dans le cloud, de manière locale ou quelque part entre les deux, les primes incitatives destinés aux partenaires stimulent votre croissance et votre rentabilité.</span><span class="sxs-lookup"><span data-stu-id="33c9f-107">Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.</span></span>
 
-## <a name="qualify-for-the-partner-incentives-program"></a><span data-ttu-id="4f371-108">Rejoindre le programme de primes incitatives des partenaires</span><span class="sxs-lookup"><span data-stu-id="4f371-108">Qualify for the Partner Incentives program</span></span>
+## <a name="qualify-for-the-partner-incentives-program"></a><span data-ttu-id="33c9f-108">Rejoindre le programme de primes incitatives des partenaires</span><span class="sxs-lookup"><span data-stu-id="33c9f-108">Qualify for the Partner Incentives program</span></span>
 
-<span data-ttu-id="4f371-109">Pour être éligible au programme de primes incitatives destiné aux partenaires fournisseurs de solutions Cloud, vous devez:</span><span class="sxs-lookup"><span data-stu-id="4f371-109">You're eligible for the CSP Incentives Program when you meet the following criteria:</span></span>
+<span data-ttu-id="33c9f-109">Pour être éligible au programme de primes incitatives destiné aux partenaires fournisseurs de solutions Cloud, vous devez :</span><span class="sxs-lookup"><span data-stu-id="33c9f-109">You're eligible for the CSP Incentives Program when you meet the following criteria:</span></span>
 
--   <span data-ttu-id="4f371-110">Disposer d’un contrat MicrosoftPartnerNetwork (MPN) actif</span><span class="sxs-lookup"><span data-stu-id="4f371-110">Have an active Microsoft Partner Network (MPN) agreement</span></span> 
--   <span data-ttu-id="4f371-111">Disposer d’un contrat de distributeur MicrosoftCloud valide (fournisseurs indirects uniquement)</span><span class="sxs-lookup"><span data-stu-id="4f371-111">A valid Cloud Distributor agreement (indirect providers only)</span></span>
--   <span data-ttu-id="4f371-112">Disposer d’un contrat de revendeur (vendeurs directs uniquement)</span><span class="sxs-lookup"><span data-stu-id="4f371-112">A Reseller agreement (direct sellers only)</span></span>
--   <span data-ttu-id="4f371-113">Répondre aux exigences en matière de compétences</span><span class="sxs-lookup"><span data-stu-id="4f371-113">Meet the competency requirement</span></span>
+-   <span data-ttu-id="33c9f-110">Disposer d’un contrat Microsoft Partner Network (MPN) actif</span><span class="sxs-lookup"><span data-stu-id="33c9f-110">Have an active Microsoft Partner Network (MPN) agreement</span></span> 
+-   <span data-ttu-id="33c9f-111">Disposer d’un contrat de distributeur Microsoft Cloud valide (fournisseurs indirects uniquement)</span><span class="sxs-lookup"><span data-stu-id="33c9f-111">A valid Cloud Distributor agreement (indirect providers only)</span></span>
+-   <span data-ttu-id="33c9f-112">Disposer d’un contrat de revendeur (vendeurs directs uniquement)</span><span class="sxs-lookup"><span data-stu-id="33c9f-112">A Reseller agreement (direct sellers only)</span></span>
+-   <span data-ttu-id="33c9f-113">Répondre aux exigences en matière de compétences</span><span class="sxs-lookup"><span data-stu-id="33c9f-113">Meet the competency requirement</span></span>
 
-<span data-ttu-id="4f371-114">Dès que vous êtes éligible, vous êtes invité à rejoindre le programme.</span><span class="sxs-lookup"><span data-stu-id="4f371-114">As soon as you become eligible, you will be invited to join the program.</span></span>
+<span data-ttu-id="33c9f-114">Dès que vous êtes éligible, vous êtes invité à rejoindre le programme.</span><span class="sxs-lookup"><span data-stu-id="33c9f-114">As soon as you become eligible, you will be invited to join the program.</span></span>
 
-## <a name="one-site-one-sign-in"></a><span data-ttu-id="4f371-115">Un site et une seule connexion</span><span class="sxs-lookup"><span data-stu-id="4f371-115">One site, one sign in</span></span>
+## <a name="one-site-one-sign-in"></a><span data-ttu-id="33c9f-115">Un site et une seule connexion</span><span class="sxs-lookup"><span data-stu-id="33c9f-115">One site, one sign in</span></span>
 
-<span data-ttu-id="4f371-116">Maintenant que la gestion des primes incitatives des partenaires se fait à partir de l’Espace partenaires, vous pouvez vous inscrire aux programmes de primes incitatives, accéder à vos profils fiscaux et de paiement, vos relevés de revenus et de paiement et gérer les utilisateurs depuis un même emplacement, à savoir l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="4f371-116">Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center.</span></span> 
+<span data-ttu-id="33c9f-116">Maintenant que la gestion des primes incitatives des partenaires se fait à partir de l’Espace partenaires, vous pouvez vous inscrire aux programmes de primes incitatives, accéder à vos profils fiscaux et de paiement, vos relevés de revenus et de paiement et gérer les utilisateurs depuis un même emplacement, à savoir l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="33c9f-116">Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center.</span></span> 
 
-<span data-ttu-id="4f371-117">Les partenaires déjà inscrits vont pouvoir commencer à gérer les primes incitatives dans l’Espace partenaire en plusieurs phases, à compter du mois de juillet.</span><span class="sxs-lookup"><span data-stu-id="4f371-117">Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July.</span></span> <span data-ttu-id="4f371-118">Vous recevrez un e-mail de notre part vous invitant à inscrire votre entreprise aux programmes de primes incitatives dans l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="4f371-118">Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center.</span></span> 
+<span data-ttu-id="33c9f-117">Les partenaires déjà inscrits vont pouvoir commencer à gérer les primes incitatives dans l’Espace partenaire en plusieurs phases, à compter du mois de juillet.</span><span class="sxs-lookup"><span data-stu-id="33c9f-117">Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July.</span></span> <span data-ttu-id="33c9f-118">Vous recevrez un e-mail de notre part vous invitant à inscrire votre entreprise aux programmes de primes incitatives dans l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="33c9f-118">Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center.</span></span> 
 
-<span data-ttu-id="4f371-119">Si, en tant qu’administrateur, vous avez déjà reçu cet e-mail, suivez ces trois étapes simples dès aujourd’hui:</span><span class="sxs-lookup"><span data-stu-id="4f371-119">Admins, if you have received the email, follow these three easy steps today:</span></span>
+<span data-ttu-id="33c9f-119">Si, en tant qu’administrateur, vous avez déjà reçu cet e-mail, suivez ces trois étapes simples dès aujourd’hui :</span><span class="sxs-lookup"><span data-stu-id="33c9f-119">Admins, if you have received the email, follow these three easy steps today:</span></span>
 
-1.  <span data-ttu-id="4f371-120">Se connecter à l’Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="4f371-120">Sign in to Partner Center</span></span> 
-2.  <span data-ttu-id="4f371-121">Suivre les instructions contenues dans l’e-mail pour configurer les utilisateurs des programmes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="4f371-121">Following the directions in the email, set up your incentive users</span></span> 
-3.  <span data-ttu-id="4f371-122">Fournir les informations de connexion à l’Espace partenaires requises aux nouveaux utilisateurs des programmes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="4f371-122">Give Partner Center login credentials to your newly set up incentive users</span></span>
+1.  <span data-ttu-id="33c9f-120">Se connecter à l’Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="33c9f-120">Sign in to Partner Center</span></span> 
+2.  <span data-ttu-id="33c9f-121">Suivre les instructions contenues dans l’e-mail pour configurer les utilisateurs des programmes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="33c9f-121">Following the directions in the email, set up your incentive users</span></span> 
+3.  <span data-ttu-id="33c9f-122">Fournir les informations de connexion à l’Espace partenaires requises aux nouveaux utilisateurs des programmes de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="33c9f-122">Give Partner Center login credentials to your newly set up incentive users</span></span>
 
-<span data-ttu-id="4f371-123">Lorsque l’administrateur de primes incitatives a reçu ses informations d’identification, il peut effectuer la migration de l’entreprise pour permettre à celle-ci de gérer vos primes incitatives à partir de l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="4f371-123">When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.</span></span>
+<span data-ttu-id="33c9f-123">Lorsque l’administrateur de primes incitatives a reçu ses informations d’identification, il peut effectuer la migration de l’entreprise pour permettre à celle-ci de gérer vos primes incitatives à partir de l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="33c9f-123">When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.</span></span>
 
 
-[<span data-ttu-id="4f371-124">Créer des comptes d’utilisateur et attribuer des autorisations</span><span class="sxs-lookup"><span data-stu-id="4f371-124">Create user accounts and assign permissions</span></span>](create-user-accounts-and-set-permissions.md)
+[<span data-ttu-id="33c9f-124">Créer des comptes d’utilisateur et affecter des autorisations</span><span class="sxs-lookup"><span data-stu-id="33c9f-124">Create user accounts and assign permissions</span></span>](create-user-accounts-and-set-permissions.md)
 
-[<span data-ttu-id="4f371-125">Réinitialiser un mot de passe d’utilisateur</span><span class="sxs-lookup"><span data-stu-id="4f371-125">Reset a user password</span></span>](reset-a-user-password.md)
+[<span data-ttu-id="33c9f-125">Réinitialiser un mot de passe utilisateur</span><span class="sxs-lookup"><span data-stu-id="33c9f-125">Reset a user password</span></span>](reset-a-user-password.md)
 
-[<span data-ttu-id="4f371-126">Comprendre le paiement de vos primes incitatives</span><span class="sxs-lookup"><span data-stu-id="4f371-126">Understand your Incentive payouts</span></span>](understand-incentive-payouts.md)
+[<span data-ttu-id="33c9f-126">Comprendre vos paiements Incentive</span><span class="sxs-lookup"><span data-stu-id="33c9f-126">Understand your Incentive payouts</span></span>](understand-incentive-payouts.md)
 
-<span data-ttu-id="4f371-127">Pour plus d’informations, voir [L’espace primes le mode coopération Guide](https://assets.microsoft.com/coop-guidebook.pdf)</span><span class="sxs-lookup"><span data-stu-id="4f371-127">For more information see [Partner Incentives Co-op Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)</span></span>
+<span data-ttu-id="33c9f-127">Pour plus d’informations, voir [Guide de coopération aux primes incitatives des partenaires](https://assets.microsoft.com/coop-guidebook.pdf)</span><span class="sxs-lookup"><span data-stu-id="33c9f-127">For more information see [Partner Incentives Co-op Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)</span></span>
