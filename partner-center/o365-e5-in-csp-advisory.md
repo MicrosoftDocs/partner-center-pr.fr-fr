@@ -8,19 +8,19 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795652"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585332"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Conseil de partenaires Office365: disponibilité d’Office365E5 Single SKU dans Fournisseur de solutionsCloud
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Avis de partenaire Office 365 : Disponibilité de référence (SKU) unique Office 365 E5 dans CSP
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 
-À compter du 5octobre2016, Office365 EntrepriseE5 Single SKU est disponible dans Fournisseur de solutionsCloud. Dans le cadre de cette modification, la référence Office&nbsp;365 Entreprise&nbsp;E5 inclut Conférence RTC (lorsque ce service est disponible).
+À compter du 5 octobre 2016, Office 365 Entreprise E5 Single SKU est disponible dans Fournisseur de solutions Cloud. Dans le cadre de cette modification, la référence Office&nbsp;365 Entreprise&nbsp;E5 inclut Conférence RTC (lorsque ce service est disponible).
 
 ## <a name="summary"></a>Résumé
 
@@ -37,7 +37,7 @@ Incitez votre conseiller juridique et fiscal à analyser la responsabilité de v
 ## <a name="details"></a>Détails
 
 
-Aux États-Unis, à Porto Rico et au Canada, les servicesPSTN de Skype Entreprise sont soumis à des taxes spéciales et à des obligations réglementaires. Microsoft facture les services&nbsp;RTC, toutes taxes comprises. Des taxes et réglementations&nbsp;RTC spécifiques s’appliqueront aux partenaires Office&nbsp;365 qui migrent vers la nouvelle offre Office&nbsp;365&nbsp;E5 unifiée. Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
+Aux États-Unis, à Porto Rico et au Canada, les services PSTN de Skype Entreprise sont soumis à des taxes spéciales et à des obligations réglementaires. Microsoft facture les services&nbsp;RTC, toutes taxes comprises. Des taxes et réglementations&nbsp;RTC spécifiques s’appliqueront aux partenaires Office&nbsp;365 qui migrent vers la nouvelle offre Office&nbsp;365&nbsp;E5 unifiée. Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
 
 ## <a name="price-list-and-catalog-availability"></a>Disponibilité du catalogue et de la liste de prix
 
@@ -53,16 +53,16 @@ Suite au lancement du 5&nbsp;octobre, certaines références indiquent le même 
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>Références figurant sur la liste de prix Fournisseur de solutions&nbsp;Cloud par date et disponibilité du réseau&nbsp;RTC
 
-**Avant le lancement d’Office 365 Ent. E5 Single SKU**
+**Avant Ent d’unique Office 365. E5 Lancement de référence (SKU) unique**
 
-**Nom de l’offre**
+**Nom d’affichage de l’offre**
 
 **ID de l’offre**
 
 **Prix unitaire**
 
 
-**Prix moyen estimé**
+**ERP**
 
 **Commentaire**
 
@@ -94,37 +94,37 @@ Module complémentaire RTC
 
  
 
-**Après la publication d’Office 365 Ent. E5 Single SKU**
+**Après la publication de Ent d’unique Office 365. E5 Lancement de référence (SKU) unique**
 
-**Nom de l’offre**
+**Nom d’affichage de l’offre**
 
 **ID de l’offre**
 
 **Prix unitaire**
 
-**Prix moyen estimé**
+**ERP**
 
 **Commentaire**
 
-**Office&nbsp;365 Enterprise&nbsp;E5**
+**Office 365 entreprise E5**
 
 **a044b16a-1861-4308-8086-a3a3b506fac2**
 
-**28,40**
+**28.40**
 
-**35,00**
+**35.00**
 
-**Nouvelle SKU**
+**Nouvelle référence SKU unique**
 
-**Office&nbsp;365 Entreprise&nbsp;E5 sans Conférence&nbsp;RTC**
+**Office 365 Enterprise E5 sans PSTN Conferencing**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
-**28,40**
+**28.40**
 
-**35,00**
+**35.00**
 
-**Nouvelle référence pour les membres non RTC**
+**Nouvelle référence (SKU) unique pour les membres non RTC**
 
 Office&nbsp;365 Entreprise&nbsp;E5 sans Conférence&nbsp;RTC
 
@@ -148,7 +148,7 @@ Module complémentaire RTC
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Factures et fichiers de rapprochement de partenaires
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Factures et les fichiers de réconciliation de partenaire
 
 
 Le fichier de rapprochement Fournisseur de solutions&nbsp;Cloud et les facteurs Fournisseurs de solutions&nbsp;Cloud indiquent des postes distincts pour les composants&nbsp;RTC et non RTC d’Office&nbsp;365 Entreprise&nbsp;E5 Single SKU. Les deux postes ont des noms et des ID identiques, mais un prix unitaire différent (exemple&nbsp;: 28,40 et 2,00). Cette séparation du composant Skype Entreprise Conférence&nbsp;RTC de l’offre Office&nbsp;365 vous permet d’appliquer correctement les taxes.
@@ -202,16 +202,16 @@ Exemple de rapprochement de partenaire&nbsp;:
 
  
 
-## <a name="additional-resources"></a>Ressources supplémentaires
+## <a name="additional-resources"></a>Ressources complémentaires
 
 
 Pour plus d’informations, consultez le site [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx). Les ressources d’Office&nbsp;365 Entreprise&nbsp;E5 sont disponibles sur la [page Office&nbsp;365 E5](https://drumbeat.office.com/partner/pages/e5.aspx) dans l’onglet **Commercialiser et vendre**&nbsp;:
 
--   **Obtention de la licence d’Office&nbsp;365 Entreprise&nbsp;E5**
+-   **Office 365 entreprise E5 Gestionnaire de licences**
 
--   **Vue d’ensemble des licences des services&nbsp;RTC de Skype Entreprise**
+-   **Vue d’ensemble des licences des Services Skype for Business RTC**
 
--   **Forum aux questions sur Office&nbsp;365&nbsp;E5 et Skype Entreprise**
+-   **Office 365 E5 et Skype pour entreprises FAQ sur les licences**
 
  
 
