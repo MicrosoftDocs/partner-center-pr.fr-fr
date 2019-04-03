@@ -17,10 +17,10 @@
 ## [S’inscrire au programme Fournisseur de solutions cloud](enrolling-in-the-csp-program.md)
 ## [Nouvelles conditions requises pour les partenaires directs CSP](direct-partner-new-requirements.md)
 ## [Contrats Microsoft Cloud par région et langue](agreements.md)
-##[Passer de partenaire de facturation direct CSP à revendeur indirect CSP](transition-direct-to-indirect.md)
+## [Passer de partenaire de facturation direct CSP à revendeur indirect CSP](transition-direct-to-indirect.md)
 ## [Contrats, listes de prix et offres CSP](csp-documents-and-learning-resources.md)
-## [Vue d’ensemble de l’autorisation régionale Fournisseur de solutions Cloud](regional-authorization-overview.md)
-## [Regroupement des locataires disposant de l’autorisation régionale CSP](csp-regional-authorization-tenant-consolidation.md)
+## [Marchés et monnaies régionaux des fournisseurs de solutions cloud](regional-authorization-overview.md)
+
 
 ## [Appliquer pour vendre sur des clouds nationaux](csp-national-clouds-overview.md)
 ### [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -29,6 +29,7 @@
 # [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
 ## [Comptes professionnels et l’Espace partenaires](azure-active-directory-tenants-and-partner-center.md)
 ## [Mettre à jour votre profil de partenaire](update-your-partner-profile.md)
+## [Emplacements](manage-locations.md)
 ## [Restaurer un compte Espace partenaires suspendu](suspended-partner-center-account.md)
 ## [Créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md)
 ## [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
@@ -89,7 +90,7 @@
 ### [Vendre des abonnements Minecraft: Education Edition](minecraft-subscriptions.md)
 ### [Vendre aux secteurs spécialisés](Get-special-pricing-for-offers.md)
 ### [Augmenter l’adoption et la satisfaction](increasing-adoption-and-satisfaction.md)
-### [Simplifier l’installation des appareils avec Windows AutoPilot](autopilot.md)
+### [Simplifiez l’installation des appareils avec Windows AutoPilot](autopilot.md)
 ##  Offres de mise à jour ou de transfert vers des versions plus récentes
 ### [Mettre à niveau des abonnements Dynamics AX vers Dynamics 365](manual-subscription-migration.md)
 ### [Migrer des abonnements Office 365 Entreprise E4 vers des versions plus récentes d’Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
