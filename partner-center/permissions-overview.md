@@ -1,18 +1,18 @@
 ---
 title: Attribuer des rôles et des autorisations aux utilisateurs | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 3/5/19
 description: Tous les employés doivent fonctionner dans l’espace partenaires doivent avoir un rôle.
 author: LauraBrenner
 ms.author: labrenne
 keywords: rôles, autorisations, administration, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 038a2d6f4d58bbd9a71a2b241ee68982e0e7ef0a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587742"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682487"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles et des autorisations aux utilisateurs
 
@@ -37,6 +37,7 @@ Vous déterminez les types d’accès à que vos utilisateurs disposent de parte
 |Utilisateur Admin   | • Afficher, créer et gérer les utilisateurs
 ||• Afficher tous les profils de partenaires
 ||• Afficher, créer et gérer des utilisateurs partenaires  |
+|Administration de facturation | -Permet d’afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|
 |Utilisateur par défaut|  Afficher mon profil   |
 |Agent d’administration | • Gestion de client
 ||• Ajoutez la liste des appareils à l’espace partenaires <
@@ -61,7 +62,7 @@ Vous déterminez les types d’accès à que vos utilisateurs disposent de parte
 ||• Problèmes des clients aide résolution avec la gestion de facturation ou d’abonnement
 ||• Une demande de support pour le compte de clients (Remarque : Vous devez être un agent d’administration pour effectuer cette tâche pour les abonnements Office 365)
 ||• Gérer les abonnements et la facturation des problèmes pour le compte de clients (Remarque : Vous devez être un agent d’administration pour effectuer cette tâche pour les abonnements Office 365)|
-|
+
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fournisseur de panneau de contrôle (CPV). (Rôle de fournisseur de services cryptographiques et rôle de non-AAD)
 CPVs développer des applications pour une utilisation par les partenaires de fournisseur de solutions Cloud (CSP) pour leur permettre d’intégrer leurs systèmes avec les API Partner Center. 
 
@@ -90,6 +91,17 @@ CPVs développer des applications pour une utilisation par les partenaires de fo
 ||-Gérer les profils associés aux comptes que vous êtes administrateur de 
 ||• Attribuer des rôles pour les utilisateurs du client de rôles non AAD 
 ||• Inscrire les emplacements dans des programmes
+
+## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utilisateur invité (doit être ajouté au locataire AAD)
+
+|**Utilisateur invité**   | **Rôles**|
+|---------------------------|:--------------------|
+||Administrateur partenaire MPN|
+||Comptes administrateur|
+||Administrateur de primes incitatives|
+||Administrateur de profil d'entreprise|
+||Administrateur de références|
+
 
 ## <a name="manage-referrals-non-aad-roles"></a>Gérer les références (rôles non AAD)
 

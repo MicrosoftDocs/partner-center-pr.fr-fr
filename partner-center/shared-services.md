@@ -8,12 +8,12 @@ ms.author: labrenne
 Keywords: Azure, services partagés, client
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586982"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682467"
 ---
 # <a name="add-azure-partner-shared-services"></a>Ajouter Azure Partner Shared Services
 
@@ -57,4 +57,19 @@ Vous trouverez la consommation d'Azure sur votre facture de Fournisseur de solut
 
 Pour voir le nouveau fichier de tarification d’Azure Partner Shared Services, rendez-vous sur **Vendre** >  **Tarification et offres** et sélectionnez la liste de prix du mois en cours. Dans les prochaines semaines, une api de carte de tarifs spécifique sera également publiée.
 
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Offres place de marché et Azure Partner Shared Services
+
+À compter du 1er mars 2019, Azure Partner Shared Services (APSS) n’est plus prend en charge que des offres place de marché.   
+
+|**Prise en charge de la place de marché**   |**APSS pris en charge avant le 1 mars 2019**|**Après le 1 mars 2019**|
+|---------------------------|:----------------------------|:-------------------|
+|Apportez votre propre licence (BYOL) et les services gratuits   | Oui   | Non|
+|Autres offres de la place de marché tierce   | Non   |Non|
+
+
+Les partenaires qui BYOL ou libre services déployés à l’aide de APSS ne seront pas affectées ; Toutefois après le 1 mars 2019 ils pas sera en mesure d’acheter de nouveaux BYOL ou des services gratuits. 
+
+Pour tirer parti du catalogue complet des offres de la place de marché disponibles (pas seulement les BYOL et les services gratuits), nous vous recommandons de déploient des services partagés à l’aide d’abonnements Azure directs web Partenaires CSP.  Les partenaires CSP qui ont déployé 3ème partie BYOL et libèrent service précédemment des ressources à partir de la place de marché pour continuer à utiliser les et déployer plus 3ème partie offres sont encouragés à migrer l’abonnement APSS sur le web direct [migration Abonnements Azure existants](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+
+Les partenaires qui prévoient de continuer à utiliser abonnement APSS après le 1er mars 2019 et souhaitez déployer le nouveau tiers 3e [des services BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) ou services gratuits, suivez les instructions des éditeurs de logiciels pour déployer ces à leurs abonnements APSS.
 

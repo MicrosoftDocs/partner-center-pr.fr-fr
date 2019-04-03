@@ -1,18 +1,18 @@
 ---
 title: Suspendre un abonnement | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: Les partenaires peuvent suspendre ou annuler un abonnement à la demande du client ou dans les cas de fraude ou de défaut de paiement.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585312"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756886"
 ---
 # <a name="suspend-a-subscription"></a>Suspendre un abonnement
 
@@ -24,7 +24,7 @@ ms.locfileid: "57585312"
 
 Les partenaires peuvent suspendre ou annuler un abonnement à la demande du client ou dans les cas de fraude ou de défaut de paiement.
 
-Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs ne peuvent plus se connecter aux services ou y accéder. Toutefois, les administrateurs peuvent toujours se connecter aux données et y accéder.
+Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs ne peuvent plus se connecter aux services ou y accéder.
 
 **Suspendre un abonnement**
 

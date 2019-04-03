@@ -1,17 +1,17 @@
 ---
 title: Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: En tant que fournisseur indirect ou distributeur, vous pouvez travailler en partenariat avec des revendeurs indirects pour accroître votre rayonnement.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584372"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656390"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -86,16 +86,7 @@ Pour les abonnements existants, si vous décidez de travailler avec un revendeur
 | Donner au revendeur un crédit pour des primes | Associer le revendeur à l’abonnement (nouveau ou existant) | Dans la page **Nouvel abonnement** |
 | Déléguer le support client pour certains abonnements au revendeur | Sélectionnez le revendeur dans la liste **Contact de support désigné** | Sur la page d’abonnement en détail : Sélectionnez le client à partir de votre **clients** page, puis sélectionnez l’abonnement à partir du client **abonnements** page |
 
-Aujourd'hui, fournisseurs indirects permettent tableau de bord de partenaires passer commande et éventuellement choisir un revendeur indirect en tant que le PartnerOnRecord. Si elles ne récupèrent pas un revendeur indirect, nous le traiter comme une transaction de niveau 1 et incentivize fournisseur indirect en tant que tel. Si elles ne choisissez pas un, nous utilisons la commande en tant que transaction de niveau 2 et nous incentivize le fournisseur indirect et le revendeur indirect en conséquence :
 
- 
-
-Il existe également une expérience où un fournisseur indirect permettre également mettre à jour le PartnerOnRecord pour les abonnements existants :
-
- 
-
-Vous savez si nous avons documentation existante sur comment indirect fournisseurs doivent gérer le PartnerOnRecord définissant Veuillez ?
-La raison pour laquelle que cela poser est, car il doit s’agir d’un ensemble significatif de transactions de couche 2 qui n’étaient pas correctement configurés par les fournisseurs indirects, aboutissant à un paiement offre incitative incorrect. Au fil du temps, les partenaires réalisé cela et démarré contacter Microsoft pour obtenir un backpay sur incentive. Si nous n’avons pas la couverture de documentation dans cette zone, j’aimerais obtenir votre aide pour mettre un ensemble.
 
 
 
@@ -177,7 +168,7 @@ Lorsque les clients veulent acheter de nouveaux abonnements, mettre à niveau ce
 
 7.  Sélectionnez **Envoyer** une fois terminé. 
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
 Pour en savoir plus sur la gestion des comptes client et des abonnements, voir :
 

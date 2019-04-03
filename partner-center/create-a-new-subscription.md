@@ -1,19 +1,19 @@
 ---
 title: Créer, suspendre ou annuler des abonnements client | Espace partenaires
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/11/2019
 description: Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: abonnement, créer, ajouter un abonnement, suspendre, Annuler,
+Keywords: abonnement, créer, ajouter un abonnement, suspendre, Annuler, suspension
 ms.localizationpriority: medium
-ms.openlocfilehash: e264ddca2c3b6452493dda0beff80a5637db0455
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584402"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756916"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler les abonnements client
 
@@ -56,7 +56,7 @@ Les partenaires peuvent suspendre ou annuler un abonnement à la demande du clie
 
 ### <a name="suspend-a-subscription"></a>Suspendre un abonnement
 
-Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs ne peuvent plus se connecter aux services ou y accéder. Toutefois, les administrateurs peuvent toujours se connecter aux données et y accéder.
+Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs ne peuvent plus se connecter aux services ou y accéder.
 
 1.  Dans le menu espace partenaires, sélectionnez **clients**, puis choisissez un client dans la liste.
 2.  Choisissez l’abonnement que vous souhaitez gérer.

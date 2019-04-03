@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture directe, transition, revendeur indirect
-ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587682"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682477"
 ---
 **S’applique à :**
  - Partenaires fournisseurs de solutions Cloud
@@ -30,7 +30,7 @@ Vous serez en mesure de s’inscrire au programme de revendeur indirect à l’a
 
 2. Connectez-vous au centre partenaires en tant que l’administrateur général pour le locataire électronique que vous effectuez la transition vers revendeur indirect.
 
-![Vue d’ensemble](images/direct/direct1.png) 
+![Vue d'ensemble](images/direct/direct1.png) 
 
 3. Passez en revue les détails de votre partenaire sur le formulaire d’inscription.
 
@@ -120,8 +120,6 @@ Votre fournisseur indirect ne peut pas envoyer des commandes pour vos clients ex
 
 6. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
 
->[!Note]
->Actuellement, Microsoft Store pour entreprises n’autorise pas un client d’accepter une invitation de revendeur indirect à partir d’un partenaire de facture direct existant. Microsoft Store pour entreprises prend en charge cela dans un avenir proche. En attendant, continuer et envoyer des commandes pour vos clients électronique existants à l’aide de votre capacité de facture directe.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gestion de vos clients électronique et vos clients de revendeur indirect
 
@@ -173,20 +171,24 @@ En plus de nouveaux achats, vous ne peut pas accéder aux fonctionnalités élec
 
 - Impossible de générer des invitations aux clients ayant besoin d’une relation de revendeur direct. Le **demander une relation de revendeur** sous **clients** dans partenaires seront pas disponibles. 
 
-Abonnements électronique existants ne sont pas affectés. Ils restent valides et sont automatiquement renouvelé. Vous continuerez à être facturés directement par Microsoft, jusqu'à ce qu’elles sont annulées. Vous pouvez toujours gérer les abonnements existants comme suit : 
+>[!Note] 
+>Si vous avez déjà inscrit votre client de partenaire direct facture en tant que revendeur indirect, vous êtes en mesure d’envoyer des invitations aux clients ayant besoin d’une relation de revendeur indirect au lieu de facture directe. 
+
+- Vous ne pouvez pas créer un nouveau client de bac à sable. Chaque client de partenaire direct facture peut créer un locataire de bac à sable pour les besoins de facture direct intégration de l’API. Si vous n’avez pas créé un précédemment, vous ne serez pas autorisé à le faire une fois que vous dirigez la fonctionnalité de partenaire de facture a été restreinte. 
+
+## <a name="whats-not-affected"></a>Ce qui n’est pas affecté
+
+Abonnements électronique existants ne sont pas affectés. Ils restent valides et sont automatiquement renouvelé. Vous continuerez à être facturés directement par Microsoft, jusqu'à ce que vous les annulez. 
+
+Continuer à gérer les abonnements existants comme suit : 
 
 - Suspendre les abonnements existants 
 
 - Ajuster le nombre de sièges des abonnements basés sur licence existants 
 
-- Ajuster le nombre de sièges chaque module complémentaire existant à un abonnement. Remarque: Vous ccan't ajouter les nouveaux modules complémentaires pour les abonnements existants comme ils sont traités en tant que nouveaux achats. 
+- Ajuster le nombre de sièges chaque module complémentaire existant à un abonnement. Remarque: Impossible d’ajouter des nouveaux modules complémentaires pour les abonnements existants, car les modules complémentaires sont traités en tant que nouveaux achats. 
 
 - Nouvelles ressources Azure de déployer et gérer des ressources Azure existantes sous les abonnements Azure existants. Cela comprend les produits qui sont disponibles via la place de marché Azure et les abonnements Visual Studio. 
-
->[!Note] 
->Si vous avez déjà inscrit votre client de partenaire direct facture en tant que revendeur indirect, vous êtes en mesure d’envoyer des invitations aux clients ayant besoin d’une relation de revendeur indirect au lieu de facture directe. 
-
-- Vous ne pouvez pas créer un nouveau client de bac à sable. Chaque client de partenaire direct facture peut créer un locataire de bac à sable pour les besoins de facture direct intégration de l’API. Si vous n’avez pas créé un précédemment, vous ne serez pas autorisé à le faire une fois que vous dirigez la fonctionnalité de partenaire de facture a été restreinte. 
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inscrire des incitations de revendeur indirect 
 

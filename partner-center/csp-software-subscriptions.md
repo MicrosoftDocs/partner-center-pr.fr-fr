@@ -1,60 +1,55 @@
 ---
 title: Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/20/2019
 description: Vous pouvez maintenant acquérir, approvisionner et gérer des instances réservées Azure et des abonnements de serveur pour le compte de clients commerciaux via Microsoft Espace partenaires et le portail Azure en tirant parti de l'Azure Hybrid Benefit.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Fournisseur de solutions Cloud, CSP, services basés sur le Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 508a442b9a4e33e0ce5941733141164add306a1c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
+ms.sourcegitcommit: d7dbf7169864141b1cd5e3a75f0759c7da03a01e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586212"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58307030"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
 
-Grâce à l'intégration des instances réservées Azure et des abonnements Windows Server et SQL Server au programme Microsoft Fournisseur de solutions Cloud, Microsoft permet à ses partenaires de répondre plus rapidement aux besoins croissants de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail dans le Cloud prévisibles et durables. 
+En plaçant les réservations d’Azure et Windows Server et SQL Server d’abonnements dans le programme CSP de Microsoft, Microsoft permet mieux ses partenaires afin de répondre à la demande client croissante des solutions moins coûteuses prendre en charge devient très prévisible et charges de travail cloud persistants. 
 
-Vous pouvez maintenant acquérir, approvisionner et gérer des instances réservées Azure et des abonnements de serveur pour le compte de clients commerciaux via Microsoft Espace partenaires et le portail Azure en tirant parti de l'Azure Hybrid Benefit. 
+Maintenant, vous pouvez acquérir, configurer et gérer des réservations d’Azure et les abonnements de serveur pour le compte de clients commerciaux via Microsoft Partner Center et le portail Azure en tirant parti de l’offre Azure Hybrid Benefit. 
 
-Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le Windows Server Datacenter et les licences Standard prises en charge avec Software Assurance. En fonction de l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un faible taux de calcul de base (taux de machine virtuelle Linux).
+Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le Windows Server Datacenter et les licences Standard prises en charge avec Software Assurance. Selon l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un taux de calcul de base inférieure, (par exemple, le taux de machine virtuelle Linux).
 
 > [!NOTE]  
-> Les instances Azure Reserved Instances ne sont pas disponibles dans les marchés suivants :  
+> Réservations d’Azure ne sont pas disponibles dans les marchés suivants :  
 > * Argentine
-> * Azerbaïdjan
-> * Bélarus
 > * Brésil
 > * Chine
-> * Inde
 > * Indonésie
-> * Kazakhstan
 > * Liechtenstein
 > * Malaisie
 > * Mexique
 > * Russie
 > * Arabie saoudite
 > * Afrique du Sud
-> * Corée du Sud
-> * Taïwan
 > * Turquie
-> * Ukraine
+
+<!--March 20, 2019 - this list of countries was correct as of today. Maggie last updated the list according to FAREAST\v-pubobb in bug 20907186.
+-->
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acheter des abonnements logiciels pour le compte de clients
 
 Pour acheter des abonnements de logiciels pour le compte d’un client, accédez à la page de détails du client, sélectionnez **ajouter des produits**, puis suivez l’à l’écran des instructions pour créer et payez votre commande. Tous les tarifs commerciaux exclut les taxes à l’exception de l’Australie et le Brésil. Pour l’Australie et le Brésil, le prix inclut la taxe.
 
-
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
-Une fois que vous avez acheté votre logiciel, vous et vos clients devez le télécharger. Utilisez la procédure suivante pour ce faire. 
+Après avoir acheté l’abonnement logiciel, suivez les étapes ci-dessous pour le télécharger.
 
 >[!NOTE]
->Vous devez être Agent d'administration pour pouvoir obtenir les clés et les téléchargements. 
+>Vous devez être un agent d’administration pour télécharger le logiciel et obtenir les clés d’activation.
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. Vous verrez une liste de tous les logiciels que vous avez achetés pour le compte du client. 
 2.  Développez le produit que vous souhaitez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous souhaitez. 
@@ -65,23 +60,24 @@ Une fois que vous avez acheté votre logiciel, vous et vos clients devez le tél
 >[!NOTE]
 >Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se termine en premier. Une fois que le lien arrive à expiration, revenez à cette page, puis sélectionnez **Obtenir les clés et les téléchargements** à nouveau pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
 
-
 ## <a name="cancel-a-purchase"></a>Annuler un achat
-Utilisez la procédure suivante pour annuler un achat. Une fois que l’annulation est effectuée, la clé du logiciel est révoquée. 
+
+Vous pouvez annuler un achat de logiciel de 60 jours après la date d’achat. Microsoft ne facture pas un frais de résiliation anticipée, toutefois, vous ne pouvez pas annuler un achat après 60 jours à partir de la date d’achat.
+
+Après l’annulation de l’achat, la clé du logiciel sera révoquée. 
+
+Suivez les étapes ci-dessous pour annuler un achat :
 
 >[!NOTE]
 >Vous devez être Agent d'administration pour pouvoir annuler un achat. 
 
->[!NOTE]
->Vous pouvez annuler un achat dans les 60 jours qui suivent l'achat. Il n’existe aucun frais de résiliation. Vous ne pouvez pas annuler après 60 jours. 
-
-1.  Avant de commencer le processus, assurez-vous de disposer des éléments suivants : 
+1.  Avant de commencer le processus, assurez-vous de disposer des éléments suivants :
     -   GUID du locataire ou nom de domaine du client
     -   ID de commande ou ID d’abonnement
     -   Raison du remboursement
     -   Montant demandé
 
-2.  Sur la page des détails du client, sélectionnez **Logiciels**. Vous verrez une liste de tous les logiciels que vous avez achetés. 
+2.  Sur la page des détails du client, sélectionnez **logiciel** pour afficher la liste de tous les logiciels que vous avez achetées pour le client. 
 
 3.  Recherchez le logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. La page **Signaler un problème avec l'Espace partenaires** s'ouvre. 
 

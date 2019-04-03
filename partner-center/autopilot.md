@@ -2,17 +2,17 @@
 title: Personnaliser l’expérience d’out-of-box d’un appareil avec des profils Windows Autopilot | Partenaires
 description: Préconfigurer l’expérience d’out-of-box d’un appareil avec des profils Autopilot.
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot autopilot de windows, autopilot de microsoft, zero touch, oobe, écrans de connexion, de déploiement out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586912"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162219"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personnaliser l’expérience d’out-of-box d’un appareil avec des profils Windows Autopilot
 
@@ -27,7 +27,7 @@ Si vous n’êtes pas déjà familiarisé avec Autopilot, passez en revue les in
 - [Vue d’ensemble de Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guide de référence de déploiement AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Vue d'ensemble
 
 Avec la fonctionnalité Windows Autopilot dans Partner Center, vous pouvez créer des profils personnalisés à appliquer à des appareils clients. Les paramètres de profil suivants étaient disponibles au moment de la que publication de cet article :
 
@@ -45,7 +45,7 @@ Les autorisations de gestion de profil et le périphérique et les limitations s
 
 - Les partenaires CSP peuvent continuer à gérer des profils Autopilot pour les clients existants avec lesquels ils ont des relations de revendeur, même si les clients ont supprimé des privilèges d’administration déléguée du partenaire.
 
-- Vous pouvez gérer des appareils existants pour vos clients qui ont été ajoutés par vous ou par un autre partenaire CSP.
+- Vous pouvez gérer des appareils existants à vos clients que vous avez ajoutés.
 
 - Vous ne pouvez pas gérer les appareils de que votre client a téléchargé vers le Microsoft Store pour entreprises ou Microsoft Intune Portal.
 

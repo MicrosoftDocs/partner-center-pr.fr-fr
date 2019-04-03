@@ -1,19 +1,19 @@
 ---
 title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: Cet article inclut des liens vers des guides du programme, des contrats de partenariat, des contrats client, des listes de prix et des offres pour fournisseurs de solutions Cloud.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutions cloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585812"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508966"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme fournisseur de solutions cloud, des contrats, des listes de prix et des offres
 
@@ -23,7 +23,7 @@ ms.locfileid: "57585812"
 -  Espace partenaires de Microsoft Cloud for US Government
 
 
-Lisez attentivement les informations contenues dans cet article pour comprendre les conditions de participation au programme Fournisseur de solutions Cloud de Microsoft. 
+Lisez attentivement les informations contenues dans cet article pour comprendre les conditions de participation au programme Fournisseur de solutions Cloud de Microsoft.
 
 ## <a name="cloud-solution-provider-program-guide"></a>Guide du programme fournisseur de solutions cloud
 
@@ -61,7 +61,7 @@ Avant de pouvoir placer une commande pour le compte d’un client, le client doi
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Modification du secret professionnel de l’accord de Cloud de Microsoft (Allemagne)
 
-En Allemagne, le Code Criminal (Section 203) et les codes de professionnels de conduite nécessitent que certaines relations client doivent rester confidentielles, par exemple, la relation entre les patients et leurs médecins et la relation entre avocats et leurs clients. Ces groupes professionnelles ont garantir le secret professionnel. Pour celles-ci et d’autres professions d’acheter des services en nuage à partir de fournisseurs de solutions cloud, le fournisseur de services de cloud doit conclure un accord écrit avec le client qui garantit que le secret professionnel. 
+En Allemagne, le Code Criminal (Section 203) et les codes de professionnels de conduite nécessitent que certaines relations client doivent rester confidentielles, par exemple, la relation entre les patients et leurs médecins et la relation entre avocats et leurs clients. Ces groupes professionnelles ont garantir le secret professionnel. Pour celles-ci et d’autres professions d’acheter des services en nuage à partir de fournisseurs de solutions cloud, le fournisseur de services de cloud doit conclure un accord écrit avec le client qui garantit que le secret professionnel.
 
 Si vous travaillez en Allemagne, vous devrez peut-être fournir cet amendement secret professionnel à vos clients, il en plus de l’accord de Cloud de Microsoft.
 
@@ -69,27 +69,22 @@ Si vous travaillez en Allemagne, vous devrez peut-être fournir cet amendement s
 
 [Modification de secret professionnel accord Microsoft Cloud Germany (Allemagne)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-
 ## <a name="pricing"></a>Tarification
 
-
-Télécharger la tarification pour les achats basé sur licence basée sur l’utilisation et à usage unique à partir de la **tarification et offres** page, disponible à partir de votre **partenaires** menu. 
+Télécharger la tarification pour les achats basé sur licence basée sur l’utilisation et à usage unique à partir de la **tarification et offres** page, disponible à partir de votre **partenaires** menu.
 
 La liste de prix basée sur des licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30 jours avant qu’elle n’entre en vigueur. Office 365, Enterprise Mobility Suite et Microsoft Dynamics CRM sont des exemples de services basés sur les licences. 
 
 La tarification basée sur l’utilisation est dynamique et change fréquemment. Microsoft Azure est un exemple de service basé sur l'utilisation.
 
-Le tarif d’achat ponctuel est également dynamique. Les réservations de Microsoft Azure et les abonnements correspondants à Windows Server et le logiciel SQL sont des exemples d’achats à usage unique. 
+Le tarif d’achat ponctuel est également dynamique. Les réservations de Microsoft Azure et les abonnements correspondants à Windows Server et le logiciel SQL sont des exemples d’achats à usage unique.
 
-Pour des informations de tarification sur les offres de la place de marché Azure, accédez à **place de marché** dans le menu de navigation gauche de partenaires. Sélectionner un produit pour afficher des informations sur le serveur de publication, références (SKU) et la tarification. Prix de ces produits de la place de marché Azure peuvent changer fréquemment. Arrive très prochainement, nous vous fournirons une option pour exporter une liste de toutes les données de tarification, mises à jour quotidiennement. Nous allons également être activer l’accès actuel aux données de prix via les API. Une fois que ces options sont disponibles, nous mettrons à jour cette page avec plus d’informations sur la façon de les utiliser.
+Pour des informations de tarification sur les offres de la place de marché Azure, accédez à **place de marché** dans le menu de navigation gauche de partenaires. Sélectionner un produit pour afficher des informations sur le serveur de publication, références (SKU) et la tarification. Prix de ces produits de la place de marché Azure peuvent changer fréquemment. Pour obtenir des informations de tarification actuelle pour tous les produits de la place de marché, sélectionnez **exportation tarifs** pour générer une feuille de calcul avec toutes les données de tarification. Ces informations sont mis à jour quotidiennement, afin de vérifier aussi souvent que vous le souhaitez.
 
 ## <a name="offers"></a>Offres
-
 
 En tant que partenaire dans CSP, vous pouvez vendre une large gamme de produits Microsoft, des services et des solutions, notamment Office 365, Enterprise Mobility Suite, Microsoft Dynamics et Microsoft Azure. Pour plus d’informations sur les offres sont disponibles pour vous aider à vendre au sein de ces familles de produits, consultez la matrice d’offre CSP sur la **tarification et offres** page, disponible à partir de votre **partenaires** menu. Ce document est mis à jour chaque mois.
 
 Pour les fournisseurs de solutions Cloud partenaires qui utilisent l'API d'enregistrement de l'utilisation Crest, Microsoft publie également une liste des services Azure pour les fournisseurs de solutions Cloud dans la page **Tarification et offres**.
 
 Pour en savoir plus sur les offres de la place de marché Azure publiées par les éditeurs de logiciels indépendants (ISV), visitez le **place de marché** page dans le menu de navigation de gauche. Actuellement, seuls les types de produits SaaS (logiciel en tant que service) peuvent être achetées en Partner Center. Vous devez visiter le portail Azure pour acquérir d’autres types d’offres de la place de marché Azure.
-
-

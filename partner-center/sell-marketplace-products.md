@@ -1,18 +1,18 @@
 ---
 title: Vendre des abonnements aux produits de la place de marché Azure | Partenaires
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: Vous pouvez utiliser les partenaires pour vendre des abonnements aux logiciels de vos clients en tant que Service (SaaS) produits publiés sur la place de marché Azure par les éditeurs de logiciels indépendants (ISV).
 author: JnHs
 ms.author: jenhayes
 keywords: abonnements, la place de marché tierce partie, éditeurs de logiciels indépendants
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587712"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508956"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Vendre des abonnements aux produits de la place de marché Azure
 
@@ -32,5 +32,4 @@ Pour afficher toutes les offres disponibles, sélectionnez **place de marché** 
 
 Achat d’abonnements pour les produits SaaS de la place de marché Azure suit le même processus que l’achat d’abonnements pour les produits Microsoft. Pour plus d’informations, consultez [créer un nouvel abonnement](create-a-new-subscription.md). Notez que certaines offres ne peuvent pas être disponibles à certains clients selon si l’éditeur de logiciels prend en charge pays/une région du client, ou en raison d’autres facteurs.
 
-Bientôt, nous vous permettrons à utiliser les API de partenaire pour gérer les abonnements place de marché Azure pour vos clients. 
-
+Vous pouvez également utiliser [Partner Center API](https://docs.microsoft.com/en-us/partner-center/develop/) pour gérer les abonnements de la place de marché Azure pour vos clients.

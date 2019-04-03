@@ -1,30 +1,27 @@
 ---
-title: Réponse aux références | Espace partenaires
+title: Répondre aux références | Partenaires
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: En tant que partenaire Microsoft qualifié, vous pouvez évaluer, negotiate et répondre aux références via des partenaires.
 author: LauraBrenner
 ms.author: labrenne
 keywords: référence, RFI, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585852"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756896"
 ---
-# <a name="responding-to-referrals"></a>Réponse aux références
+# <a name="respond-to-referrals"></a>Répondre à des références
 
 **S’applique à**
 
 -  Espace partenaires
 
 En tant que partenaire Microsoft qualifié, vous pouvez recevoir des responsables commerciaux potentiels via les références. Dans espace partenaires, vous pouvez gérer les prospects entrants, répondre rapidement à ceux qui sont adaptées, ignorer ou ceux qui ne sont pas refuser. 
-
-> [!IMPORTANT]
-> Nous avons apporté quelques modifications à l’expérience de la gestion de la référence et sont en train de les déployer sur tous les partenaires. Jusqu'à ce que votre compte est configuré pour utiliser la nouvelle expérience, il se peut que certaines choses peuvent fonctionner un peu différemment. Ces différences sont indiquées ci-dessous. 
 
 ## <a name="referral-management"></a>Gestion des références
 
@@ -48,9 +45,6 @@ Passez en revue les détails et n’hésitez pas à contacter le client si vous 
 *  **Refuser**: Nous allons l’archiver, en tant que **refusé** et informe le client pour choisir un autre partenaire.
 
 Si vous ne répondez pas dans le délai imparti (actuellement 14 jours), nous allons effectuer l’opération en tant que **expiré** et informe le client pour choisir un autre partenaire.
-
-> [!NOTE]
-> Le processus décrit ci-dessus reflète la nouvelle expérience. Si votre compte n’est pas à l’aide de cette expérience, vous verrez un **New** section au lieu de **boîte de réception**. Pour les redirections de nouveau, vous devrez 72 heures choisissez **m’intéressent** (ce qui la déplace la référence à un distinct **évaluation** section et vous montre plus de détails) ou **non Merci**(qui archive la référence). Si vous sélectionnez **m’intéressent**, vous disposez de 7 jours pour accepter la référence.
 
 ### <a name="active-referrals"></a>Références actives
 

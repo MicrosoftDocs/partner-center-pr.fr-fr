@@ -1,19 +1,19 @@
 ---
 title: Ajouter un nouveau client | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
-description: Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure&nbsp;AD.
+ms.date: 03/21/2019
+description: Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
-ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
+ms.sourcegitcommit: 3441bb8085f14f4242d5c640d45eab00f751bf23
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586242"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "58343400"
 ---
 # <a name="add-a-new-customer"></a>Ajouter un client
 
@@ -22,29 +22,35 @@ ms.locfileid: "57586242"
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
+Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir une assistance à un client, vous devez les ajouter à votre liste de clients dans le centre de partenaires.
 
+>[!NOTE]
+>Pour les clients existants, y compris celles qui ont déjà client enregistre dans le centre de partenaires via une [multicanaux](multichannel.md) ou [Multipartner](multipartner.md) scénario, vous pouvez [demander une relation avec les](request-a-relationship-with-a-customer.md), au lieu de suivre les étapes décrites ici.
 
-Avant de pouvoir vendre des abonnements, gérer la facturation ou prennent en charge, vous devez créer un compte pour votre client dans votre centre de partenaires. Cet enregistrement comprend ses coordonnées et un domaine Azure&nbsp;AD.
+### <a name="to-add-a-new-customer-in-partner-center"></a>Pour ajouter un nouveau client dans l’espace partenaires
 
-Pour les clients disposant déjà de comptes client et d’abonnements via un scénario de type [multicanal](multichannel.md) ou [Multipartenaire](multipartner.md), vous pouvez [demander une relation avec un client](request-a-relationship-with-a-customer.md), au lieu de suivre les étapes décrites ici.
+1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez **ajouter un client**.
 
-**Ajouter un client**
+2. Sur le **informations sur le compte** page, entrez les détails et les informations de contact principales du client et vérifiez que le client a accepté et signé la dernière version [accord du Cloud Microsoft](agreements.md).
 
-1.  À partir de la **partenaires** menu, sélectionnez **clients**. Sélectionnez ensuite **Ajouter un client**.
+    >[!IMPORTANT]
+      > À partir du 7 novembre 2018, vous devrez confirmer qu’un client a accepté le contrat de Cloud de Microsoft en fournissant des informations sur la personne qui l’a signé. Consultez [confirmer l’acceptation d’un client de l’accord de Cloud Microsoft](confirm-consent.md) pour plus d’informations.
 
-2.  Sur le **informations sur le compte** page, réaliser les détails de l’entreprise et les informations de contact principales, puis sélectionnez **suivant : Abonnements**.
+3. Si vous êtes un fournisseur indirect, sélectionnez le revendeur indirect à associer avec les abonnements de ce client dans la liste.
 
-3.  Sur le **abonnements** page, choisissez les offres corrects, entrez le nombre de licences, puis sélectionnez **suivant : Révision**.
+4. Sélectionnez **suivant : Abonnements** lorsque vous avez terminé d’entrer toutes les informations requises.
 
-4.  Dans la page **Passer en revue**, vérifiez les informations saisies, cliquez sur **Modifier** si vous devez apporter des modifications au compte ou aux offres, puis cliquez sur **Envoyer**.
+5. Sur le **abonnements** , sélectionnez votre client souhaite acheter chez vous, entrez le nombre de licences, puis sélectionnez les ou les offres **suivant : Révision**.
 
-5.  Après avoir passé en revue la confirmation, puis copié le compte d’utilisateur et le mot de passe d’administrateur, sélectionnez **Terminé**.
+6. Sur le **révision** page, vérifiez les entrées pour la précision, puis sélectionnez **envoyer** si les informations sont correctes.
 
-Pour vérifier ultérieurement les données client, notamment l’ajout de licences de composants additionnels aux abonnements, voir les détails dans [Créer un abonnement](create-a-new-subscription.md).
+    >[!NOTE]
+    >Si vous avez besoin modifier les détails de n’importe quel client, sélectionnez **mise à jour** dans le **informations sur le compte** section. Si vous devez modifier les offres que vous avez sélectionné, sélectionnez **mise à jour** dans le **abonnements** section.
 
- 
+7. Sélectionnez **fait** lorsque vous avez terminé d’ajouter des informations sur les client et acheté les abonnements requis.
 
- 
+## <a name="see-also"></a>Voir aussi
 
+- Consultez [offres spéciales des partenaires dans le programme fournisseur de solutions Cloud](csp-offers.md) pour plus d’informations sur ce que vous pouvez vendre aux clients via le programme fournisseur de solutions Cloud.
 
-
+- Consultez [Connect avec les clients](customer-accounts.md) pour plus d’informations sur l’association d’un nouveau client à votre compte de partenaire dans le centre de partenaires.

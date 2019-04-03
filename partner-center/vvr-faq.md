@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: bons de formation, programme software assurance, formation, valider les bons, chèque-cadeau de réserve
 ms.localizationpriority: medium
-ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
+ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584452"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "58863987"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : À l’aide de l’outil de Validation de document et d’échange 
 
-**S’applique à**
+**S'applique à**
 
 - Espace partenaires
 
@@ -48,6 +48,9 @@ L’outil de Validation de document et d’échange a été déplacé vers [part
 
 - Partenaires vous oblige à se connecter avec un compte professionnel (AAD).  PUCE utilise actuellement le compte personnel pour la connexion (compte de service administré ou Live ID).  Lors de la navigation à partir de VVR dans partenaires à puce, vous devrez vous connecter à puce à l’aide de votre MSA ou un Live ID qui est inscrit avec la puce.
 
+**Comment ma société peut accéder à l’outil VVR ?**
+
+- Pour accéder à l’outil VVR, votre entreprise doit s’inscrire dans le programme SATV ou le programme SA DPS.
 Pour plus d’informations sur la façon de s’inscrire à SATV, lire [programme Software Assurance formation chèque-cadeau (SATV) dans le centre partenaires](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

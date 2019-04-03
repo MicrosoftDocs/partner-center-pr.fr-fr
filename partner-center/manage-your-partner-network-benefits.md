@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, avantages d'adhésion, adhésion
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584702"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988213"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer les avantages de votre adhésion à Microsoft Partner Network
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584702"
 -  Espace partenaires
 
 >[!IMPORTANT]
->Cet article explique comment commencer à utiliser votre Microsoft Partner Network (MPN) bénéficie de l’appartenance dans l’espace partenaires (précédemment appelée Partner Center) - ce site. Si vous n’avez pas reçu une invitation pour déplacer des informations de votre société à partir de partenaire Membership Center (PMC) vers l’espace partenaires, vous devez continuer à gérer vos avantages de l’appartenance au MPN dans PMC. [Se connecter](https://partner.microsoft.com/_login?authType=OpenIdConnect) au Partner Membership Center maintenant.   
+>Cet article explique comment commencer à utiliser vos avantages d’adhésion Microsoft Partner Network (MPN) dans l’espace partenaires - ce site. Si vous n’avez pas reçu une invitation pour déplacer des informations de votre société à partir de partenaire Membership Center (PMC) vers l’espace partenaires, vous devez continuer à gérer vos avantages de l’appartenance au MPN dans PMC. [Se connecter](https://partner.microsoft.com/_login?authType=OpenIdConnect) au Partner Membership Center maintenant.   
 
 Lorsque vous rejoignez le Microsoft Partner Network (MPN), vous avez accès à tous les avantages d’adhésion qui peuvent vous aider à gérer et à développer votre activité. Si vous n’êtes pas membre de MPN, vous pouvez adhérer sur [le site MPN](https://partner.microsoft.com/membership).
 
@@ -102,7 +102,7 @@ Pour afficher et gérer vos avantages réservés aux membres, accédez à votre 
 ), puis sélectionnez **Envoyer une demande**.
 
 
-#### <a name="see-also"></a>Voir également
+#### <a name="see-also"></a>Voir aussi
 
 [Ajouter des utilisateurs et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
 

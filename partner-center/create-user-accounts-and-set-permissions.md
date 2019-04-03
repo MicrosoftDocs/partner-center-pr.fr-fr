@@ -8,18 +8,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: rôles, autorisations, ajoutent un utilisateur, rôle d’affecter, administrateur, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: dcdf7d11d90acffd4a9302ce37bd56de3a242d60
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a314a3c551b360eb777bd0db180388aa85f2e7f8
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583812"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682457"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
-
-**S’applique à**
-
--  Espace partenaires
 
 Créer des comptes d’utilisateur pour les employés qui ont besoin d’accéder à l’espace partenaires. Ces tâches doivent être effectuées par l'administrateur de la gestion des utilisateurs, l'administrateur des comptes ou l'administrateur général. 
 
@@ -44,27 +40,38 @@ L’utilisateur devra se connecter à l’espace partenaires avec leur nom d’u
 > [!NOTE]  
 >  Si votre administrateur général a quitté votre organisation ou a été affecté à un autre rôle, et que vous devez ajouter un nouvel administrateur général, vous devez consigner une demande de service sur le [portail MPN](https://partner.microsoft.com/support). L’agent du support peut demander l’élévation d’un utilisateur au rôle d’administrateur général si votre demandeur est en mesure de fournir les informations d’identité personnelle nécessaires ainsi que des informations supplémentaires sur votre organisation.
 
-## <a name="assign-user-permissions"></a>Attribuer des autorisations aux utilisateurs
+## <a name="assign-user-roles"></a>Attribuer des rôles d’utilisateur
 
-L'accès à l'Espace partenaires est basé sur les rôles. Les autorisations attribuées à l'utilisateur personnalisent la vue accessible afin d'afficher uniquement les fonctionnalités dont l’utilisateur a besoin pour effectuer ses tâches spécifiques. 
-
-Pour travailler dans l’espace partenaires, vous devez disposer d’un rôle assigné.  Il existe deux types généraux de rôles : Les administrateurs et les agents.
-
-- Autorisations d’administrateur contrôlent le niveau d’accès de l’utilisateur pour les fonctionnalités de partenaires. Ce paramètre a un impact en dehors de l’espace partenaires : un administrateur de facturation peut accéder aux factures pour tous les services Microsoft (même ceux non liés à CSP) et un administrateur global peut accéder aux comptes d’utilisateur et aux comptes client au-delà de CSP également.
-
-- Les autorisations d'agent contrôlent le type de données client et d’informations de compte que l’utilisateur peut voir et modifier.
-    
-Les catégories générales des rôles sont : 
-- Rôles d’administrateur
-- Rôles d’agent
-- Rôles pour primes incitatives
-- Rôles pour les références et le marketing
-
-
-Dans chacune de ces catégories générales, un utilisateur ne peut avoir qu'un seul rôle, mais il peut avoir également des rôles dans les autres catégories générales. 
+Pour travailler dans l’espace partenaires, vous devez disposer d’un rôle assigné.  Actuellement, les rôles incluent les rôles de locataire Azure Active Directory, les rôles de fournisseur de solutions Cloud (CSP) et les rôles d’une entreprise non AAD. Une société peut avoir besoin de tous ces rôles.
 
 >[!Important]
 >Personnes doivent figurer dans votre client pour accéder aux partenaires. Attributions de rôles fournissent un accès supplémentaire.
+
+
+**Incluent des rôles de locataire AAD**:
+- Administrateur global
+- Utilisateur admin
+
+**Incluent des rôles CSP**:
+- Agent d’administration
+- Administration de facturation
+- Commercial
+- Agent du support technique
+
+**Rôles qui gèrent l’appartenance MPN et l’entreprise (Non-AAD)**
+- Administrateur partenaire MPN
+- Administration de compte
+- Administrateur des références
+- Administrateur de profil d'entreprise
+- Utilisateur et administrateur de primes
+
+**Fournisseur de panneau de contrôle est un rôle de fournisseur de services cryptographiques et non-AAD**.
+- Administrateur global
+
+**Utilisateur invité** doit faire partie du locataire AAD et peut avoir n’importe quel rôle non AAD.
+
+Pour des informations spécifiques sur les rôles et ce qu'ils peuvent faire, voir la section [Affecter des autorisations utilisateur](permissions-overview.md)
+
 
 
 ### <a name="find-your-global-admin"></a>Rechercher votre administrateur général
@@ -72,7 +79,7 @@ Dans chacune de ces catégories générales, un utilisateur ne peut avoir qu'un 
 Parfois, un utilisateur peut avoir besoin d’avoir leur rôle a changé ou un nouvel utilisateur pouvez une attribution de rôle spécifique.  
 Pour trouver un administrateur global qui peut apporter des modifications de rôle ou attribuer des rôles à un nouvel utilisateur, à partir de la **icône des paramètres** en haut à droite de l’espace partenaires, sélectionnez **gestion des utilisateurs** et la filtre sur l’administrateur général. 
 
-Pour des informations spécifiques sur les rôles et ce qu'ils peuvent faire, voir la section [Affecter des autorisations utilisateur](permissions-overview.md)
+
 
 
 
