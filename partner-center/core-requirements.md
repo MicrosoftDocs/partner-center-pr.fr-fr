@@ -1,22 +1,22 @@
 ---
 title: Co-op primes destinées aux principales exigences de revendications | Partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 4/3/19
 description: Chaque type d’activité du programme de coopération aux primes incitatives a ses propres conditions requises
 author: LauraBrenner
 ms.author: labrenne
 keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération, conditions requises
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ee679c4bb590ef85223f2ff8f5781fe0c61d0cb
-ms.sourcegitcommit: 5386f0ee9705ec8a0b5796745bf96c5bf54a803c
+ms.openlocfilehash: f3fb1a30f08d4d27c766ec4f922b0434c89367ea
+ms.sourcegitcommit: 272b2448180294b36bee4dea38b94559bbcde26c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "58641492"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "58897975"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Conditions requises pour les demandes de coopération aux primes incitatives
 
-**S’applique à**
+**S'applique à**
 
 - Espace partenaires
 
@@ -24,18 +24,25 @@ Chaque type d’activité pour laquelle vous envoyez une demande de primes incit
 
 Les tableaux suivants décrivent les conditions requises et les exigences de communication pour chacune des activités acceptées. 
 
-|**Activité**   |**Exigences fondamentales**   |**Configuration requise des communications**|**Métriques**  |**Dépenses éligibles** |
+## <a name="demand-generation"></a>Génération de la demande
+ Les activités incluent publicité traditionnelle et numérique avec une large portée qui améliore la commercialisation et la promotion des offres de Microsoft. Résultats et la taille de l’audience doivent être mesurées.
+
+
+|**Activité**   |**Conditions requises**   |**Exigences de communication**|**Mesures**  |**Dépenses éligibles** |
 |--------------------------------------|:---------------------------------|---------|--------|----------|
-|**Génération de la demande**      |Nom et coordonnées de l'entreprise, contenu Microsoft    |         |
-|Publicité imprimée |                 |Copie de l'élément de communication final (basé sur la publicité) répondant aux conditions requises spécifiques du programme|Estimation (ou partenaires) atteindre|Sélection élective multimédias tiers ; documents imprimés ; Services marketing et de création agence de frais, y compris les frais d’agence|
+        |
+|Publicité imprimée |Nom et coordonnées de l'entreprise, contenu Microsoft |Copie de l'élément de communication final (basé sur la publicité) répondant aux conditions requises spécifiques du programme|Estimation (ou partenaires) atteindre|Sélection élective multimédias tiers ; documents imprimés ; Services marketing et de création agence de frais, y compris les frais d’agence|
 |Publicité numérique|            |Capture d’écran de la publication numérique ET URL de la page d’accueil, répondant aux conditions requises spécifiques du programme|Résumé des résultats (par exemple, le rapport par clic)|Positionnement du support de tiers ; Frais – agence : Services marketing et de création, y compris les frais d’agence|  
 |Publipostage, e-mails et sms|             |1) Copie de l’élément final de communication conforme aux conditions requises spécifiques du programme 2) La preuve de distribution peut inclure une enveloppe d'expédition oblitérée ou d'autres preuves de distribution (courrier direct), un e-mail final avec un en-tête daté ou d'autres preuves d'envoi par e-mail (courrier électronique) ou une photo d'un message téléphonique (SMS)|   Estimation (ou partenaires) atteindre   |•Database acquisition • imprimés material affranchissement ; Frais – agence : Services marketing et de création, y compris les frais d’agence|
 |Site Web et moteur de recherche du partenaire||URL et/ou les captures d’écran de la page (s) site montrant l’URL ; instruction du contrat de travail ou service de projet SEO (activité SEO uniquement)|Résumé des résultats (par exemple, cliquez sur rapport)|Frais – agence : Services marketing, y compris les frais d’agence ; Programmation/développement : Programmation et des frais de développement ; Frais – SEO : Frais de l’optimisation et maintenance|
 |Contenu syndiqué de Microsoft||URL et/ou les captures d’écran de pages de site montrant l’URL|Résumé des résultats (par exemple, le rapport par clic)|Les coûts réels jusqu'à USD18, 750 par période d’utilisation pour :-frais - agence de marketing servicews, y compris les frais d’agence ; programmation et des frais de développement ; placement de média|
 |Campagne numérique tactile multipoint|     |Tous les preuves d’exécution indiquées dans la page d'activité applicable sont requises.  - Publicité numérique - E-mail direct - Site Web du partenaire et optimisation du moteur de recherche - Télémarketing||• De sélection élective media tiers frais – agence : Services marketing et de création, y compris les frais d’agence ; Acquisition de la base de données ; •Programming/développement : Programmation et des frais de développement ; Frais – SEO : L’optimisation et les frais de maintenance ; Frais - frais de centre d’appel tiers
 
+## <a name="market-development"></a>Développement de marché
 
-|**Activité**           | **Exigences fondamentales**    | **Configuration requise des communications**|**Métriques** |**Dépenses éligibles**| 
+ Les activités incluent de recrutement du client et l’éducation, ainsi que les activités de développement sur le marché et business davantage la sensibilisation, préférence et vente des offres de Microsoft. En règle générale, ces activités de marketing sont conçues pour un public de client spécifique.
+
+|**Activité**           | **Conditions requises**    | **Exigences de communication**|**Mesures** |**Dépenses éligibles**| 
                                                 |----------------------------------|:----------------------------|:-----------|:-----------|:--------------------|   
 |Télémarketing et expositions|Les informations sur le nom de société/marque doivent être incluses dans le script de télévente, contenu Microsoft|Copie du script|Résumé des résultats (nombre d’appels) et le nombre de contacts réussites|Frais – agence : Services marketing, y compris les frais d’agence ; Frais – centre d’appels de tiers : facture ; Acquisition de la base de données|
 |Séminaires et camps d'entraînement pour les clients|Nom et coordonnées de l'entreprise, contenu Microsoft|Invitation d’événement et l’ordre du jour ou le programme. Photos de l’événement. Supports de présentation si agenda et invitation de l’événement ne répondent pas aux exigences fondamentales|Nombre de clients inscrits|Signalisation / afficher / imprimer des documents ; Cadeaux ; Frais – agence : Services marketing, y compris les frais d’agence ; Frais - enregistrement ; Frais – l’orateur externe ; Frais – installation et location de matériel, y compris les appareils Surface détenue et gérée par un tiers ; Restauration (à l’exclusion d’alcool)|
@@ -45,17 +52,18 @@ Les tableaux suivants décrivent les conditions requises et les exigences de com
 |Champ sur site|Services axés 100 % sur les produits Microsoft| Exemples de livrables (selon ce qui est décrit sous la forme d’un Champ sur site)||Réel coûte jusqu'à 100 % pour l’aire de conception et de 50 % pour tous les autres programmes de fonds des coûts par période d’utilisation pour : Frais – services : Services fournis par ressource (s) Champ sur site|
 |Preuve de concept|Contenu Microsoft|Copie de matériaux développé pour les données d’explication ou d’études de marché concept : Livre blanc, au développement de l’étude de cas, des études de marché, expérience d’Immersion - expérience d’Immersion de Microsoft client (CIE) est une dépense research éligibles. Les frais de service éligibles peuvent inclure l’installation d’un centre de démonstration technologique et les services de déploiement, y compris l’installation, la configuration, la migration des données, les tests ou l’installation du système utilisé pour les clients. Les dépenses de programmation/développement peuvent inclure le développement d'API.|Documents imprimés : Recherche : Livre blanc, au développement de l’étude de cas, des études de marché, expérience d’Immersion client ; Programmation / développement ; Frais – agence : Services marketing, y compris les frais d’agence ; Frais – service :  Main-d'œuvre services fournis par un fournisseur partenaire ou tiers pour prendre en charge de la preuve de concept|
 |Le programme d’installation web d’achats employés pour les clients||URL d’accueil de capture d’écran ou page de pages du site Web. Non éligible pour ajouter de la Surface|Frais – agence : Services marketing, y compris les frais d’agence ; Programmation/développement : Programmation et des frais de développement ; Frais – service :  Main-d'œuvre services fournis par un fournisseur partenaire ou tiers pour prendre en charge le programme d’installation web|
-                                                                                 
-                                                                                                                                                                                                     
-                                                                                                                                                            
 
-|           **Activité**           | **Exigences fondamentales**                                                                  |                    **Configuration requise des communications**                   |**Métriques**|**Dépenses éligibles**|
+##  <a name="partner-readiness"></a>Préparation des partenaires
+
+Activités pour le partenaire de vente internes et du personnel technique et inclut des coûts spécifiques associés à la formation qui vous permet de développer l’expertise du partenaire commercial et technique sur Microsoft.
+
+|           **Activité**           | **Conditions requises**                                                                  |                    **Exigences de communication**                   |**Mesures**|**Dépenses éligibles**|
 |----------------------------------|:---------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------|--------------|
-|      **Préparation des partenaires**       |  Activités pour le partenaire de vente internes et du personnel technique et inclut des coûts spécifiques associés à la formation qui vous permet de développer l’expertise du partenaire commercial et technique sur Microsoft.|                                                                                      |                                                                        |
+|
 |        Participation à MPN         |Facture de Microsoft d’origine|                                                                                        |                                                                        |Frais – annuel d’inscription : L’inscription annuelle MPN frais • Plaque et DVD (tout d’abord défini) : Plaque d’appartenance MPN et le premier ensemble de DVD • boîte à outils des avantages supplémentaires|
-|   Examens et enseignement de Microsoft    | Code de formation/code d'examen sur [Microsoft Learning](https://partner.microsoft.com/training) | Facture par des tiers avec le code de cours et de la date d’achèvement ou de la facture avec le code de l’examen et la date de fin|Liste de Atendee et par coût en personne|Frais – examen : Frais d’examen de Microsoft pour les certifications et les compétences ; Frais – formation / scolarité : Droits Microsoft pour les certifications et les compétences, y compris les frais de formation de la demande ; formation de solution tierce ISV – scolarité pour l’apprentissage sur des solutions tierces qui peuvent être illustrées à exploiter ou résider sur les applications Microsoft et plates-formes. Frais – renouvellement MCT : Frais de renouvellement de Microsoft Certified Trainer (aucune métrique n’est requis)|
+|   Examens et enseignement de Microsoft    | Code de formation/code d'examen sur [Microsoft Learning](https://partner.microsoft.com/training) | Facture par des tiers avec le code de cours et de la date d’achèvement ou de la facture avec le code de l’examen et la date de fin|Liste des participants et par coût en personne|Frais – examen : Frais d’examen de Microsoft pour les certifications et les compétences ; Frais – formation / scolarité : Droits Microsoft pour les certifications et les compétences, y compris les frais de formation de la demande ; formation de solution tierce ISV – scolarité pour l’apprentissage sur des solutions tierces qui peuvent être illustrées à exploiter ou résider sur les applications Microsoft et plates-formes. Frais – renouvellement MCT : Frais de renouvellement de Microsoft Certified Trainer (aucune métrique n’est requis)|
                                                                        |
-| Jours de formation et d'atelier internes | 100 % du contenu Microsoft pour la durée ou l'espace de l'événement demandé               | 1) Ordre du jour de formation ou programme d’événement 2) Contenu de présentation Microsoft |Nombre d’atendees|Frais – formation / scolarité / inscription / digital formation plateforme ou la mise en forme de formation numérique ; Signalisation / afficher / imprimer des documents ; Cadeaux ; Frais – agence : marketing de services, y compris les frais d’agence ; Frais – l’orateur externe ; Frais – installation et location de matériel ; Restauration (à l’exclusion d’alcool)|
+| Jours de formation et d'atelier internes | 100 % du contenu Microsoft pour la durée ou l'espace de l'événement demandé               | 1) Ordre du jour de formation ou programme d’événement 2) Contenu de présentation Microsoft |Nombre de participants|Frais – formation / scolarité / inscription / digital formation plateforme ou la mise en forme de formation numérique ; Signalisation / afficher / imprimer des documents ; Cadeaux ; Frais – agence : marketing de services, y compris les frais d’agence ; Frais – l’orateur externe ; Frais – installation et location de matériel ; Restauration (à l’exclusion d’alcool)|
 | Conférences hébergées par Microsoft   | Conférences hébergé par Microsoft. Frais d’avion/hôtel sont limités jusqu'à 5 000 USD par personne et par la conférence, limité aux 3 participants, avec une limite totale de 45 000 USD pour les dépenses de prix/hôtel terrestre/train par période par programme. * Hébergement peut avoir différentes tolérances.|Copie de la conférence/invitation ou inscription de confirmation d’événement montrant les preuves cette conférence est hébergée par Microsoft ; Itinéraire de transport avec des dates travel (déplacement – dépenses terrestre uniquement)| | Frais – l’inscription : pour les participants jusqu'à 3 par conférence ; voyage – billets d’avion/hôtel : Transport (prix terrestre ou former et taxes applicables) et l’hôtel (salle taux uniquement taxes applicables et) ; Remarque : Voyage – frais d’avion/hôtel sont limités jusqu'à 5 000 USD par personne et par la conférence, limité à 3 participants, avec une limite totale de 45 000 USD pour les dépenses de prix/hôtel terrestre/train par période par programme. Hébergement peut avoir différentes tolérances.|                                           
 |Essaimage de produits/unités de démonstration| Vous pouvez demander jusqu'à 10 % du total de fonds à recevoir ou de 3 000 USD selon ce qui est supérieure ou par période de programme. Surfaces partenaires PC & Hub n’ont aucune revendication limiter.|Spécifications de systèmes de démonstration créés en interne. Preuve de remise pour l’unité de démonstration de tiers. Preuve de l’unité de démonstration tierce|
 
