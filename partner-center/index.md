@@ -4,13 +4,18 @@ hide_bc: true
 title: Commencer ici pour obtenir de l’aide sur l’Espace partenaires
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "L’Espace partenaires peut vous aider à développer votre activité avec le programme CSP (Cloud Solution Provider) de Microsoft. Configurez votre compte, entrez en relation avec des clients, achetez un abonnement Action Pack et trouvez plus d’informations sur les partenaires des programmes CSP et MPN.\_"
+description: L’Espace partenaires peut vous aider à développer votre activité avec le programme CSP (Cloud Solution Provider) de Microsoft. Configurez votre compte, entrez en relation avec des clients, achetez un abonnement Action Pack et trouvez plus d’informations sur les partenaires des programmes CSP et MPN. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
+ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588322"
 ---
-
 # <a name="welcome-to-partner-center"></a>Bienvenue dans l’Espace partenaires
 
 L’Espace partenaires de Microsoft est l’endroit incontournable qui vous permet de gérer de bout en bout votre relation avec Microsoft. Il propose des outils et des ressources qui vous aident dans les transactions et le développement de votre activité, notamment les options d’adhésion, les références client et le programme CSP (Cloud Solution Provider). Découvrez les bonnes pratiques pour gérer votre compte, entrer en relation avec des clients, acheter un abonnement Action Pack et vous inscrire à un programme de primes incitatives dans la bibliothèque d’aide de l’Espace partenaires.
