@@ -3,13 +3,18 @@ layout: HubPage
 hide_bc: true
 title: Documentation pour les services de l’Espace partenaires et développeurs
 ms.date: 10/29/2018
-description: 'Si vous vous connectez à l’Espace partenaires pour publier des applications, obtenir des données sur vos applications de bureau, obtenir une certification de matériel, publier des pilotes dans Windows Update ou effectuer une transaction en tant que revendeur, cette documentation est pour vous.'
+description: Si vous vous connectez à l’Espace partenaires pour publier des applications, obtenir des données sur vos applications de bureau, obtenir une certification de matériel, publier des pilotes dans Windows Update ou effectuer une transaction en tant que revendeur, cette documentation est pour vous.
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
+ms.openlocfilehash: 47e8208ec2609e6591d617f2431a635e81112767
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588292"
 ---
-
 <div id="main" class="v2">
     <div class="container">
         <h1>Documentation pour les services de l’Espace partenaires</h1>
