@@ -1,18 +1,18 @@
 ---
 title: Co-op primes destinées aux principales exigences de revendications | Partenaires
 ms.topic: article
-ms.date: 4/3/19
+ms.date: 4/4/2019
 description: Chaque type d’activité du programme de coopération aux primes incitatives a ses propres conditions requises
 author: LauraBrenner
 ms.author: labrenne
 keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération, conditions requises
 ms.localizationpriority: medium
-ms.openlocfilehash: f3fb1a30f08d4d27c766ec4f922b0434c89367ea
-ms.sourcegitcommit: 272b2448180294b36bee4dea38b94559bbcde26c
+ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
+ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "58897975"
+ms.lasthandoff: 04/04/2019
+ms.locfileid: "59019432"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Conditions requises pour les demandes de coopération aux primes incitatives
 
@@ -20,9 +20,9 @@ ms.locfileid: "58897975"
 
 - Espace partenaires
 
-Chaque type d’activité pour laquelle vous envoyez une demande de primes incitatives a des conditions requises que vous devez satisfaire et démontrer dans vos documents de preuve d'exécution. Dans certains cas, certains types de communication définis sont également requis.
+Chaque type d’activité pour laquelle vous envoyez une demande de primes incitatives a des conditions requises que vous devez satisfaire et démontrer dans vos documents de preuve d'exécution. Dans certains cas, il existe des types de communications définis et les métriques qui sont également requis.
 
-Les tableaux suivants décrivent les conditions requises et les exigences de communication pour chacune des activités acceptées. 
+Les tableaux suivants décrivent les exigences principales pour chacune des activités acceptées. 
 
 ## <a name="demand-generation"></a>Génération de la demande
  Les activités incluent publicité traditionnelle et numérique avec une large portée qui améliore la commercialisation et la promotion des offres de Microsoft. Résultats et la taille de l’audience doivent être mesurées.
@@ -33,7 +33,7 @@ Les tableaux suivants décrivent les conditions requises et les exigences de com
         |
 |Publicité imprimée |Nom et coordonnées de l'entreprise, contenu Microsoft |Copie de l'élément de communication final (basé sur la publicité) répondant aux conditions requises spécifiques du programme|Estimation (ou partenaires) atteindre|Sélection élective multimédias tiers ; documents imprimés ; Services marketing et de création agence de frais, y compris les frais d’agence|
 |Publicité numérique|            |Capture d’écran de la publication numérique ET URL de la page d’accueil, répondant aux conditions requises spécifiques du programme|Résumé des résultats (par exemple, le rapport par clic)|Positionnement du support de tiers ; Frais – agence : Services marketing et de création, y compris les frais d’agence|  
-|Publipostage, e-mails et sms|             |1) Copie de l’élément final de communication conforme aux conditions requises spécifiques du programme 2) La preuve de distribution peut inclure une enveloppe d'expédition oblitérée ou d'autres preuves de distribution (courrier direct), un e-mail final avec un en-tête daté ou d'autres preuves d'envoi par e-mail (courrier électronique) ou une photo d'un message téléphonique (SMS)|   Estimation (ou partenaires) atteindre   |•Database acquisition • imprimés material affranchissement ; Frais – agence : Services marketing et de création, y compris les frais d’agence|
+|Publipostage, e-mails et sms|             |Preuve de 1) copie de pièce finale de communication montrant des exigences spécifiques au programme core 2) de distribution peut inclure expédition estampillé enveloppe ou autres preuve de mailing (publipostage), le dernier e-mail montrant en-tête ayant une date ou autre preuve de l’envoi d’e-mail (e-mail), ou photo de message de téléphone (SMS)|   Estimation (ou partenaires) atteindre   |•Database acquisition • imprimés material affranchissement ; Frais – agence : Services marketing et de création, y compris les frais d’agence|
 |Site Web et moteur de recherche du partenaire||URL et/ou les captures d’écran de la page (s) site montrant l’URL ; instruction du contrat de travail ou service de projet SEO (activité SEO uniquement)|Résumé des résultats (par exemple, cliquez sur rapport)|Frais – agence : Services marketing, y compris les frais d’agence ; Programmation/développement : Programmation et des frais de développement ; Frais – SEO : Frais de l’optimisation et maintenance|
 |Contenu syndiqué de Microsoft||URL et/ou les captures d’écran de pages de site montrant l’URL|Résumé des résultats (par exemple, le rapport par clic)|Les coûts réels jusqu'à USD18, 750 par période d’utilisation pour :-frais - agence de marketing servicews, y compris les frais d’agence ; programmation et des frais de développement ; placement de média|
 |Campagne numérique tactile multipoint|     |Tous les preuves d’exécution indiquées dans la page d'activité applicable sont requises.  - Publicité numérique - E-mail direct - Site Web du partenaire et optimisation du moteur de recherche - Télémarketing||• De sélection élective media tiers frais – agence : Services marketing et de création, y compris les frais d’agence ; Acquisition de la base de données ; •Programming/développement : Programmation et des frais de développement ; Frais – SEO : L’optimisation et les frais de maintenance ; Frais - frais de centre d’appel tiers
