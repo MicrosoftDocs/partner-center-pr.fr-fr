@@ -1,5 +1,5 @@
 ---
-title: Espace partenaires opéré par 21Vianet
+title: Espace partenaires géré par 21Vianet
 ms.topic: article
 ms.date: 10/29/2018
 description: Utilisez l’Espace partenaires opéré par 21Vianet pour la vente de services CSP en Chine.
@@ -10,7 +10,7 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 03/05/2019
 ms.locfileid: "57588262"
 ---
-# <a name="partner-center-operated-by-21vianet"></a>Espace partenaires opéré par 21Vianet
+# <a name="partner-center-operated-by-21vianet"></a>Espace partenaires géré par 21Vianet
 
 Bienvenue dans l’Espace partenaires opéré par 21Vianet, portail d’entreprise pour les revendeurs de services CSP (Cloud Solution Provider) de 21Vianet en Chine. 
 
