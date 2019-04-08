@@ -1,4 +1,4 @@
-# [Espace partenaires opéré par 21Vianet](index.md)
+# [Espace partenaires géré par 21Vianet](index.md)
 ## [Guide des programmes CSP et contrat de revendeur en Chine](csp-program-guide-and-agreements.md)
 ## [S’inscrire au programme CSP Chine de 21Vianet](enrolling-in-the-csp-program.md)
 ## [Tarifs et offres pour les revendeurs CSP Chine](see-offers-and-pricing.md)
