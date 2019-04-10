@@ -1,22 +1,22 @@
 ---
 title: Confirmer l'acceptation du contrat Microsoft Cloud par le client | Espace partenaires
 ms.topic: article
-ms.date: 02/22/2019
+ms.date: 04/5/2019
 Description: En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft Cloud par le client pour pouvoir lui commander des produits et des services Microsoft. Pour mieux partenaires répondent aux exigences de conformité, Microsoft vous demande de partenaires pour confirmer l’acceptation en fournissant certains détails concernant la personne qui a accepté le contrat.
 author: LauraBrenner
 ms.author: v-petand
 keywords: client, les clients, donner son consentement, MCA, accord du Cloud Microsoft, modèles de contrat de client
 ms.localizationpriority: medium
-ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587562"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430128"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmer l'acceptation du contrat Microsoft Cloud par le client
 
-**S’applique à**
+**S'applique à**
 -  Espace partenaires
 
 En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft Cloud par le client pour pouvoir lui commander des produits et des services Microsoft. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant les informations suivantes sur la personne qui a accepté le contrat : 
@@ -33,58 +33,26 @@ En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft�
 
 Pour plus d’informations, consultez la confirmation de l’acceptation de client accord du Cloud Microsoft [Forum aux Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
-## <a name="schedule"></a>Planification
+Partenaires de l’électronique et les fournisseurs indirects doivent confirmer l’acceptation du client de l’accord de Cloud de Microsoft lors des transactions via des partenaires ou des API espace partenaires. La confirmation est *obligatoire*.
 
-**7 août 2018**
+Si la confirmation n’est pas fournie pour un client donné :
 
--   Les partenaires associés à une facturation directe et les fournisseurs indirects peuvent confirmer l’acceptation du contrat Microsoft Cloud par le client. La confirmation est *facultative*.
+-   Vous ne pourrez pas créer de commandes pour ce client.
 
--   Confirmation d’acceptation du client peut être effectuée par le biais de partenaires ou des API espace partenaires.
+-   Vous ne pourrez pas modifier le nombre de sièges des abonnements existants basés sur les utilisateurs pour ce client.
 
--   La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.
+Confirmation d’acceptation du client peut être effectuée par le biais de partenaires ou de l’API espace partenaires. Pour ce faire, via l’API espace partenaires, consultez les rubriques suivantes : 
 
+-   [Obtenir la confirmation de consentement du client](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
 
-**7 novembre 2018**
+-   [Obtenir les métadonnées de l’accord](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
 
--   Diriger des partenaires de facture et les fournisseurs indirects **doit** confirmer l’acceptation du client de l’accord de Cloud de Microsoft lors des transactions via le tableau de bord de partenaires. La confirmation est *obligatoire*.
-
--   Si la confirmation n’est pas fournie pour un client donné :
-
-    -   Vous ne pourrez pas créer de commandes pour ce client.
-
-    -   Vous ne pourrez pas modifier le nombre de sièges des abonnements existants basés sur les utilisateurs pour ce client.
-
--   Confirmation d’acceptation du client peut être effectuée par le biais de partenaires ou des API espace partenaires.
-
--   La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.
-
--   Cela vaut pour les environnements de bac à sable et de production.
-
-**11 mars 2018**
-
-- Partenaires de facture directe et indirecte Providersmust confirment acceptation du client de l’accord de Cloud de Microsoft dans un environnement de bac à sable CSP lors des transactions via l’API espace partenaires.
-- Si la confirmation n’est pas fournie pour un client donné :
-
-    - Vous ne pourrez pas créer de nouvelles commandes pour ce client à l’aide des API espace partenaires.
- 
-    - Vous ne pourrez pas modifier le nombre de sièges des abonnements existants des sièges pour ce client à l’aide des API espace partenaires.
-- La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud. 
-
-**Le 22 mars, 12018**
-
-- Partenaires de facture directe et indirecte Providersmust confirment acceptation du client de l’accord de Cloud de Microsoft dans un environnement de production CSP lors des transactions via l’API espace partenaires.
-
-- Si la confirmation n’est pas fournie pour un client donné :
-  - Vous ne pourrez pas créer de nouvelles commandes pour ce client à l’aide des API espace partenaires.
-
-  - Vous ne pourrez pas modifier le nombre de sièges des abonnements existants des sièges pour ce client à l’aide des API espace partenaires.
--  La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.
+-   [Confirmer le consentement du client](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
 
+La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.
 
-
-
-
+Cela vaut pour les environnements de bac à sable et de production.
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>Confirmation d’acceptation du client dans l’espace partenaires
 

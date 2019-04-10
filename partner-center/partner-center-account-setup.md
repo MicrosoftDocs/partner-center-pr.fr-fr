@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 01594dab5515d2373cffef581dcdd6a786afea14
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585342"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430178"
 ---
 # <a name="manage-your-partner-center-account"></a>Gérer votre compte Espace partenaires
 
-**S’applique à**
+**S'applique à**
 
 -  Espace partenaires
 
@@ -31,11 +31,13 @@ Vous ou votre administrateur crée également des comptes d’utilisateur pour t
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Ressources pour vous aider à gérer votre compte Espace partenaires
 
-|**Pour ce faire**   |**Lisez ce**   |
+|**Pour effectuer cette opération**   |**Lisez**   |
 |-----------------------|:-----------------------|
 |Vérifier que votre profil d’entreprise est à jour   |[Mettre à jour votre profil de partenaire](update-your-partner-profile.md)|
-|Tous les membres de votre entreprise qui doit fonctionner dans l’espace partenaires doivent être affectés à des rôles. Chaque rôle est associé à des autorisations spécifiques et des tâches disponibles.|[Créer des comptes d’utilisateur et définir des autorisations](create-user-accounts-and-set-permissions.md)|
-|Si un employé oublie son mot de passe et que vous devez le réinitialiser  |[Réinitialiser un mot de passe utilisateur](reset-a-user-password.md)|
+|Tous les membres de votre entreprise qui doit fonctionner dans l’espace partenaires doivent être affectés à des rôles. Chaque rôle est associé à des autorisations spécifiques et des tâches disponibles.|[Créer des comptes d’utilisateurs et définir des autorisations](create-user-accounts-and-set-permissions.md)|
+|Passez en revue les autorisations qu'implique de chaque rôle|[Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
+|Gérer des emplacements de votre société|[Gérer votre compte partenaire : Emplacements](manage-locations.md)
+|Si un employé oublie son mot de passe et que vous devez le réinitialiser  |[Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)|
 |Veiller à promouvoir votre entreprise afin que les clients puissent vous trouver   |[Créer un profil commercial](create-a-marketing-profile.md)|
 |Organiser votre catalogue de sorte que les produits les plus importants se trouvent en haut de la liste   |[Personnaliser le catalogue](customize-the-catalog.md)|
 |Rester informé des tarifications et offres en cours   |[Tarification et offres](pricing-and-offers.md)|

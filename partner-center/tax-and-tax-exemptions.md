@@ -7,16 +7,16 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585302"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430168"
 ---
 # <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
-**S’applique à**
+**S'applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
@@ -24,7 +24,7 @@ ms.locfileid: "57585302"
 
 Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire. Les règles varient en fonction des pays/régions. Les partenaires doivent collaborer avec leur conseiller fiscal pour déposer les exonérations fiscales appropriées en fonction de leur emplacement et de celui de leurs clients. Pour marquer son compte revendeur Microsoft comme n’étant pas soumis aux taxes, le partenaire doit envoyer ces certificats d’exonération à Microsoft.
 
-**Fichier une exemption de taxe**
+**Demander une exonération fiscale**
 
 1.  Rechercher votre **ID Microsoft** dans partenaires &gt; **paramètres du compte** &gt; **profil organisation**.
 2.  Rechercher votre **ID MPN** dans partenaires &gt; **paramètres du compte** &gt; **profil du partenaire**.
@@ -46,6 +46,7 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 <td><p>La plupart des revendeurs ne sont pas exonérés des taxes&nbsp;GST/HST/QST. Pour déterminer si vous remplissez les conditions requises pour l’exonération, et le cas échéant, les documents à fournir à Microsoft, consultez votre conseiller fiscal.</p>
 <p>Pour ne pas payer la taxe BC&nbsp;PST, demandez une exonération fiscale comme décrit ci-dessus. Indiquez votre numéro BC&nbsp;PST ou remplissez et signez un <em>certificat d’exonération générale</em>.</p></td>
 </tr>
+
 <tr class="even">
 <td>Union européenne</td>
 <td><p>Dans les États membre de l’Union européenne, les partenaires doivent fournir leur numéro de&nbsp;TVA valide pour la taxe au preneur et pour une facturation appropriée. Le numéro de&nbsp;TVA doit être <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">accepté comme valide</a>.</p>
@@ -57,20 +58,37 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 <li>Dans <strong>ID taxe entreprise</strong>, indiquez votre numéro de&nbsp;TVA.</li>
 </ol></td>
 </tr>
+
 <tr class="odd">
+<td>Turquie</td>
+<td><p>Microsoft s’applique désormais le standard sur la valeur ajoutée (TVA) sur le contenu numérique et de services achetés par les partenaires en Turquie.  Cette commande affiche sur toutes les factures effective à partir du 1er octobre 2018. Pour exclure la TVA turque de vos factures et gérer vous-même, utilisez la procédure suivante pour mettre à jour votre profil de facturation du partenaire.</p>
+<p>Envoyer votre numéro de&nbsp;TVA à Microsoft</strong></p>
+<ol>
+<li>Dans le centre de partenaires, accédez au menu partenaires &gt; <strong>paramètres du compte</strong> &gt; <strong>profil de facturation du partenaire</strong>.</li>
+<li>Dans la section <strong>Données financières</strong>, sélectionnez <strong>Mettre à jour</strong>.</li>
+<li>Dans <strong>ID taxe entreprise</strong>, indiquez votre numéro de&nbsp;TVA.</li>
+</ol></td>
+</tr>
+
+
+<tr class="even">
 <td>États-Unis</td>
 <td><p>Tous les revendeurs aux États-Unis doivent fournir des documents d’exonération fiscale dans les 30&nbsp;jours suivant l’acceptation du contrat de revendeur Microsoft. Les certificats d’exonération pour la revente sont différents pour chaque État. Demandez à votre conseiller fiscal de déterminer les éléments pertinents pour votre adresse légale et vos États d’inscription.</p>
 <p>Cela peut inclure les certificats d’exonération à la revente autorisés dans plusieurs États, tels que <em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> ou le <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em>.</p></td>
 </tr>
-<tr class="even">
+
+
+<tr class="odd">
 <td>Autres pays/régions facturant une taxe</td>
 <td><p>Pour toute autre question sur l’exonération fiscale ou la prise en charge de remboursement, demandez une assistance dans l’Espace partenaires. Laissez deux&nbsp;semaines s’écouler pour que Microsoft vous contacte et résolve le problème.</p></td>
 </tr>
-<tr class="odd">
+
+<tr class="even">
 <td>Autre documentation fiscale</td>
 <td><p>Les recettes fiscales (pour Taïwan ou la Corée du Sud) ou le rendu à la frontière (DAF) requièrent généralement un délai de deux&nbsp;semaines après la génération de la facture.</p>
 <p>Pour tout autre besoin de documentation associée aux taxes, procédez à une demande de service à partir de l’Espace partenaires.</p></td>
 </tr>
+
 </tbody>
 </table>
 

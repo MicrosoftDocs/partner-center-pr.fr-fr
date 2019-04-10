@@ -7,22 +7,38 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682507"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430198"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
-**S’applique à**
+**S'applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
 
 Pour une vue détaillée de la ligne de chaque charge dans un cycle de facturation, téléchargez les fichiers de réconciliation de partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
+
+## <a name="formatting-issues"></a>Problèmes de mise en forme
+
+Il peut arriver que votre fichier de rapprochement peut-être des problèmes de mise en forme. (Cela peut se produire, par exemple, si les paramètres régionaux EN-US ne sont pas utilisé.) Suivez les étapes ci-dessous pour résoudre ces problèmes. 
+
+<ol>
+<li>Ouvrez le fichier .csv dans Excel, puis sélectionnez la première colonne. Dans le ruban, sélectionnez <strong>données</strong>, puis sélectionnez <strong>texte aux colonnes</strong>.</li>
+
+<li>Dans le texte de conversion Assistant, sélectionnez <strong>délimités de type de fichier</strong>, puis sélectionnez <strong>suivant</strong>.</li> 
+
+<li>Dans le champ de séparateurs, sélectionnez <strong>virgules</strong>. Si <strong>onglet</strong> est déjà sélectionné, vous pouvez la laisser. Sélectionnez <strong>Suivant</strong>.</li>
+
+<li>Dans le champ de format de données de colonne, sélectionnez <strong>Date : MDY</strong>, puis sélectionnez <strong>suivant</strong>.</li> 
+
+<li>Dans le champ de format de données de colonne, sélectionnez <strong>texte</strong> pour tout montant de colonnes, puis sélectionnez <strong>Terminer</strong>.</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>Détailler par partenaire
 
@@ -72,9 +88,9 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Colonne</strong></td>
+<td><strong>colonne</strong></td>
 <td><strong>Description</strong></td>
-<td><strong>Exemple de valeur</strong></td>
+<td><strong>Valeur échantillon</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerId</td>
@@ -241,9 +257,9 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Colonne</strong></td>
+<td><strong>colonne</strong></td>
 <td><strong>Description</strong></td>
-<td><strong>Exemple de valeur</strong></td>
+<td><strong>Valeur échantillon</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
@@ -902,21 +918,21 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <tbody>
 <tr>
 <td>
-<p><strong>Description des frais de facture</strong></p>
+<p><strong>Description des frais indiqués sur les factures</strong></p>
 </td>
 <td>
-<p><strong>Description des frais fichier de réconciliation (colonne ChargeType)</strong></p>
+<p><strong>Description des frais figurant sur le fichier de rapprochement (colonne ChargeType)</strong></p>
 </td>
 <td>
-<p><strong>Qu’est ce coût ?</strong></p>
+<p><strong>À quoi correspondent ces frais ?</strong></p>
 </td>
 <td>
-<p><strong>Comment pour mapper ces ChargeTypes à la facture ?</strong></p>
+<p><strong>Comment faire correspondre ces types de frais ChargeType sur la facture ?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Frais sous licence</strong></p>
+<p><strong>Frais basés sur la licence</strong></p>
 </td>
 <td>
 <p>Frais d'activation</p>
@@ -1040,7 +1056,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Basée sur l’utilisation des remises</strong></p>
+<p><strong>Remises basées sur l’utilisation</strong></p>
 </td>
 <td>
 <p>Remise sur l’activation</p>
@@ -1081,10 +1097,10 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 
 <tr>
 <td>
-<p><strong>Remises sous licence</strong></p>
+<p><strong>Remises basées sur la licence</strong></p>
 </td>
 <td>
-<p><em>Peut être appliqué à plusieurs types de frais</em></p>
+<p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p><strong>Taxes</strong>  &nbsp;ou&nbsp;<strong>TVA</strong></p>
 </td>
 <td>
-<p><em>Peut être appliqué à plusieurs types de frais</em></p>
-<p><em>Exception : &quot;Compense un élément de ligne&quot; inclut déjà des taxes. Consultez des crédits, ci-dessus.</em></p>
+<p><em>Peuvent être appliquées à plusieurs types de frais</em></p>
+<p><em>Exception : &quot;Compense un élément de ligne&quot; inclut déjà des taxes. Voir Crédits ci-dessus.</em></p>
 </td>
 <td>
 <p>Taxes ou taxe sur la valeur ajoutée (TVA)</p>
