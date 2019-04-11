@@ -102,10 +102,10 @@ Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pou
 |  Bhoutan            |          |
 |  Brunei Darussalam |   USD    |
 |  Cambodge          |          |
-|  Hong Kong         |   USD    |
+|  Hong Kong (R.A.S.)         |   USD    |
 |  Indonésie         |   USD    |
 |  Laos              |          |
-|  Macao             |   USD    |
+|  Macao R.A.S.             |   USD    |
 |  Malaisie          |   USD    |
 |  Maldives          |          |
 |  Myanmar           |          |
@@ -338,7 +338,7 @@ Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pou
 |  Libye          |          |
 |  Macédoine, République de|   |
 |  Mauritanie     |   USD    |
-|  République de Moldavie        |          |
+|  République de Moldova        |          |
 |  Mongolie       |          |
 |  Monténégro     |          |
 |  Maroc        |   USD    |
