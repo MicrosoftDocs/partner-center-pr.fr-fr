@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: revendications des primes, des demandes de remboursement, les fonds OSA, ISV, association de chiffre d’affaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430635"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619305"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>Envoyez vos revendications OSA dans Partner Center
+# <a name="submit-your-osa-claims-in-partner-center"></a>Envoyer vos demandes OSA dans l’Espace partenaires
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 
@@ -28,17 +28,17 @@ Avant de pouvoir créer et soumettre une réclamation, vous devez remplir les co
 -   **Vos informations fiscales et bancaires** entré dans le centre de partenaires. 
 -   **Répondre aux conditions de certification et de chiffre d’affaires d’éligibilité OSA Sell**. (Pour plus d’informations, consultez le guide de donneur d’ordre OSA, situé sous la section OSA sur aka.ms/partnerincentives.) Cela ne s’applique pas pour les FIL recherchant uniquement les associations de chiffre d’affaires. 
 
-##<a name="submitting-your-claim"></a>Enregistrez votre demande
+## <a name="submitting-your-claim"></a>Enregistrez votre demande
 
 Vous aurez 90 jours à partir de la date de la transaction pour soumettre une demande. Si vous envoyez votre demande plus de 90 jours après une transaction, vous ne sont pas gagner de l’offre incitative donneur d’ordre à partir de cette vente. 
 
 Si vous êtes un partenaire ISV et vos solutions aidé à influencer le client de choisir une solution Microsoft Dynamics 365, vous pouvez également bénéficier à revendiquer l’association de chiffre d’affaires.   
 
-##<a name="payment-schedule"></a>Échéancier de paiement
+## <a name="payment-schedule"></a>Échéancier de paiement
 
 Vous recevrez le paiement des incitations approuvées revendications dans les 45 jours après la fin de la période d’abandonner. Vous avez 90 jours après la fin de la période recevant dans l’éventualité d’un paiement. Pour plus d’informations sur les calculs de paiement et de méthodes, consultez le guide de donneur d’ordre OSA, situé sous la section OSA sur aka.ms/partnerincentives.
 
-##<a name="maintaining-your-program-eligibility"></a>Maintien de l’éligibilité de votre programme
+## <a name="maintaining-your-program-eligibility"></a>Maintien de l’éligibilité de votre programme
 
 Microsoft évalue tous les mois éligibilité le Online Services de conseiller vendre pour l’obtention, de calcul et de paiement. Vous devez respecter les critères d’éligibilité spécifiques avant que Microsoft peut approuver et primes. Pour plus d’informations, consultez le guide de donneur d’ordre OSA, situé sous la section OSA sur aka.ms/partnerincentives.
 
@@ -60,7 +60,9 @@ Procédez comme suit pour soumettre une réclamation offre incitative dans Partn
 
 5.  Sélectionnez l’abonnement que vous souhaitez associer à cette revendication, puis sélectionnez **continuer**.
 
->[! Notes de publication] Vérifiez que le nom et la région géographique sont corrects avant de sélectionner un abonnement. 
+>[!NOTES]
+
+>Vérifiez que le nom et la région géographique sont corrects avant de sélectionner un abonnement. 
 
 >Les abonnements sont associés avec les autres conseillers du service en ligne sont marquées avec un triangle jaune. Vous pouvez toujours choisir à associer avec eux. 
 
@@ -76,7 +78,7 @@ Vous pouvez voir l’état de votre revendication dans la zone d’état de la p
 
 Pour afficher vos données de revenus et les paiements, consultez paiements et création de rapports. 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>Soumettre une réclamation d’association de chiffre d’affaires ISV
+# <a name="submit-an-isv-revenue-association-claim"></a>Soumettre une réclamation d’association de chiffre d’affaires ISV
 
 1.  Dans la page Vue d’ensemble, sous **tous les programmes d’encouragement**, sélectionnez **OSA**.
 
@@ -86,7 +88,9 @@ Pour afficher vos données de revenus et les paiements, consultez paiements et c
 
 4.  Sélectionnez les abonnements que vous souhaitez associer à cette revendication, puis sélectionnez **continuer**.
 
->[! Notes de publication] Vérifiez que le nom et la région géographique sont corrects avant de sélectionner un abonnement. 
+>[!NOTES]
+
+>Vérifiez que le nom et la région géographique sont corrects avant de sélectionner un abonnement. 
 
 >Abonnements déjà associés à votre entreprise ne peut pas être associés à nouveau.  
 
