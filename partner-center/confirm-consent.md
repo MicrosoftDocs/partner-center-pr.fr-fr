@@ -1,23 +1,29 @@
 ---
 title: Confirmer l'acceptation du contrat Microsoft Cloud par le client | Espace partenaires
 ms.topic: article
-ms.date: 04/5/2019
+ms.date: 04/16/2019
 Description: En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft Cloud par le client pour pouvoir lui commander des produits et des services Microsoft. Pour mieux partenaires répondent aux exigences de conformité, Microsoft vous demande de partenaires pour confirmer l’acceptation en fournissant certains détails concernant la personne qui a accepté le contrat.
 author: LauraBrenner
 ms.author: v-petand
 keywords: client, les clients, donner son consentement, MCA, accord du Cloud Microsoft, modèles de contrat de client
 ms.localizationpriority: medium
-ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430128"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59652251"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmer l'acceptation du contrat Microsoft Cloud par le client
 
-**S'applique à**
+**S’applique à**
 -  Espace partenaires
+
+> [!NOTE]
+> La ressource de l’accord est pris en charge par les partenaires dans le cloud public Microsoft uniquement. Il n’est pas applicable à :
+> * Espace partenaires géré par 21Vianet
+> * Espace partenaires de Microsoft Cloud Germany
+> * Espace partenaires de Microsoft Cloud for US Government
 
 En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft Cloud par le client pour pouvoir lui commander des produits et des services Microsoft. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant les informations suivantes sur la personne qui a accepté le contrat : 
 
@@ -27,7 +33,7 @@ En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft�
 
 -   Adresse électronique
 
--   Numéro de téléphone 
+-   Numéro de téléphone (facultatif)
 
 -   Date d’acceptation
 
@@ -49,8 +55,6 @@ Confirmation d’acceptation du client peut être effectuée par le biais de par
 
 -   [Confirmer le consentement du client](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-
-La confirmation de l’acceptation par le client est prise en charge uniquement par Microsoft Public Cloud.
 
 Cela vaut pour les environnements de bac à sable et de production.
 
