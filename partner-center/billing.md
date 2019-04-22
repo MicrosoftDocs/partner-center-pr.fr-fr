@@ -9,15 +9,15 @@ ms.author: evansma
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430118"
 ---
 # <a name="billing"></a>Facturation
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
@@ -38,11 +38,11 @@ Informations clés à connaître à propos de la facturation de vos clients :
 -   Envoyez une facture unique correspondant à tous les frais à votre client.
 
 ## <a name="billing-resources"></a>Ressources sur la facturation
-|**Pour obtenir des informations sur**   |**Lisez**    |
+|**Pour plus d’informations sur**   |**Lisez ce**    |
 |:-----------------------------|:-----------------|
 |Notions de base sur la facturation, les paiements, les factures et plus encore   |[Notions de base de facturation](billing-basics.md)
-|Nouvelles fonctionnalités de facturation comme la facturation annuelle   |[FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md)|
-|Types de facturation   |[Présentation des types de facturation dans l’espace partenaires](billing-different-types.md)   |
+|Nouvelles fonctionnalités de facturation comme la facturation annuelle   |[Forum aux questions sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md)|
+|Types de facturation   |[Présentation des types de facturation dans l’Espace partenaires](billing-different-types.md)   |
 |Clé pour lire votre facture   |[Lire votre facture](read-your-bill.md)   |
 |Comment lire et utiliser votre fichier de rapprochement   |[Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)|
 |Scénarios de facturation courants (recherchez d’autres scénarios de facturation dans [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md))|[Exemples de facturation courants](common-billing-scenarios.md)|

@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: bons de formation, programme software assurance, formation, valider les bons, chèque-cadeau de réserve
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863987"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : À l’aide de l’outil de Validation de document et d’échange 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : utilisation de l’outil de validation et d’échange de bons 
 
-**S'applique à**
+**S’applique à**
 
 - Espace partenaires
 

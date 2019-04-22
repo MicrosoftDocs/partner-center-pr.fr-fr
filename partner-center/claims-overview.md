@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération
 ms.localizationpriority: medium
 ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430108"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Présentation de demandes de coopération aux primes incitatives
 
-**S'applique à**
+**S’applique à**
 
 - Espace partenaires
 
@@ -32,12 +32,12 @@ Une demande réussie comprend :
 >[!NOTE]
 >Microsoft se réserve le droit de demander des documents originaux de preuve d’exécution (POE). Conservez tous vos documents originaux pendant une période de 24 mois à compter de la date d’activité. 
 
-|**Pour effectuer cette opération**   |**Lisez**   |
+|**Pour ce faire**   |**Lisez ce**   |
 |-----------------|:--------------------------------------|
-|Soumettre une réclamation et inclure la documentation correcte|[Créer et gérer une demande d'activité de programme de primes incitatives](create-incentives-claims.md)|
-|Une fois que vous avez soumis la demande, gérez les demandes de documentation supplémentaires|[Créer et gérer une demande d'activité de programme de primes incitatives](create-incentives-claims.md)  |
-|Assurez-vous que vous connaissez les conditions requises pour la demande d'activité|[Connaître les conditions requises pour les demandes de primes incitatives](core-requirements.md)   |
-|Découvrir les détails complets du programme de primes incitatives|[Guide de coopération aux primes incitatives des partenaires](https://assets.microsoft.com/coop-guidebook.pdf)
+|Soumettre une réclamation et inclure la documentation correcte|[Créer et gérer une revendication d’activité de programme primes](create-incentives-claims.md)|
+|Une fois que vous avez soumis la demande, gérez les demandes de documentation supplémentaires|[Créer et gérer une revendication d’activité de programme primes](create-incentives-claims.md)  |
+|Assurez-vous que vous connaissez les conditions requises pour la demande d'activité|[Connaître les exigences principales primes destinées aux revendications](core-requirements.md)   |
+|Découvrir les détails complets du programme de primes incitatives|[Guide de co-op primes destinées aux partenaires](https://assets.microsoft.com/coop-guidebook.pdf)
 |Envoyer une revendication de frais OSA vente ou la revendication d’association ISV chiffre d’affaires |[Envoyez vos revendications OSA dans Partner Center](submit-osa-claim.md)|
                                                                                  
                                    

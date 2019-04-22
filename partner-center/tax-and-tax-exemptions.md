@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430168"
 ---
 # <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
@@ -24,7 +24,7 @@ ms.locfileid: "59430168"
 
 Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire. Les règles varient en fonction des pays/régions. Les partenaires doivent collaborer avec leur conseiller fiscal pour déposer les exonérations fiscales appropriées en fonction de leur emplacement et de celui de leurs clients. Pour marquer son compte revendeur Microsoft comme n’étant pas soumis aux taxes, le partenaire doit envoyer ces certificats d’exonération à Microsoft.
 
-**Demander une exonération fiscale**
+**Fichier une exemption de taxe**
 
 1.  Rechercher votre **ID Microsoft** dans partenaires &gt; **paramètres du compte** &gt; **profil organisation**.
 2.  Rechercher votre **ID MPN** dans partenaires &gt; **paramètres du compte** &gt; **profil du partenaire**.

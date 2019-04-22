@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération, conditions requises
 ms.localizationpriority: medium
 ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
-ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/04/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59019432"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Conditions requises pour les demandes de coopération aux primes incitatives
 
-**S'applique à**
+**S’applique à**
 
 - Espace partenaires
 
@@ -28,7 +28,7 @@ Les tableaux suivants décrivent les exigences principales pour chacune des acti
  Les activités incluent publicité traditionnelle et numérique avec une large portée qui améliore la commercialisation et la promotion des offres de Microsoft. Résultats et la taille de l’audience doivent être mesurées.
 
 
-|**Activité**   |**Conditions requises**   |**Exigences de communication**|**Mesures**  |**Dépenses éligibles** |
+|**Activité**   |**Exigences fondamentales**   |**Configuration requise des communications**|**Métriques**  |**Dépenses éligibles** |
 |--------------------------------------|:---------------------------------|---------|--------|----------|
         |
 |Publicité imprimée |Nom et coordonnées de l'entreprise, contenu Microsoft |Copie de l'élément de communication final (basé sur la publicité) répondant aux conditions requises spécifiques du programme|Estimation (ou partenaires) atteindre|Sélection élective multimédias tiers ; documents imprimés ; Services marketing et de création agence de frais, y compris les frais d’agence|
@@ -42,7 +42,7 @@ Les tableaux suivants décrivent les exigences principales pour chacune des acti
 
  Les activités incluent de recrutement du client et l’éducation, ainsi que les activités de développement sur le marché et business davantage la sensibilisation, préférence et vente des offres de Microsoft. En règle générale, ces activités de marketing sont conçues pour un public de client spécifique.
 
-|**Activité**           | **Conditions requises**    | **Exigences de communication**|**Mesures** |**Dépenses éligibles**| 
+|**Activité**           | **Exigences fondamentales**    | **Configuration requise des communications**|**Métriques** |**Dépenses éligibles**| 
                                                 |----------------------------------|:----------------------------|:-----------|:-----------|:--------------------|   
 |Télémarketing et expositions|Les informations sur le nom de société/marque doivent être incluses dans le script de télévente, contenu Microsoft|Copie du script|Résumé des résultats (nombre d’appels) et le nombre de contacts réussites|Frais – agence : Services marketing, y compris les frais d’agence ; Frais – centre d’appels de tiers : facture ; Acquisition de la base de données|
 |Séminaires et camps d'entraînement pour les clients|Nom et coordonnées de l'entreprise, contenu Microsoft|Invitation d’événement et l’ordre du jour ou le programme. Photos de l’événement. Supports de présentation si agenda et invitation de l’événement ne répondent pas aux exigences fondamentales|Nombre de clients inscrits|Signalisation / afficher / imprimer des documents ; Cadeaux ; Frais – agence : Services marketing, y compris les frais d’agence ; Frais - enregistrement ; Frais – l’orateur externe ; Frais – installation et location de matériel, y compris les appareils Surface détenue et gérée par un tiers ; Restauration (à l’exclusion d’alcool)|
@@ -57,7 +57,7 @@ Les tableaux suivants décrivent les exigences principales pour chacune des acti
 
 Activités pour le partenaire de vente internes et du personnel technique et inclut des coûts spécifiques associés à la formation qui vous permet de développer l’expertise du partenaire commercial et technique sur Microsoft.
 
-|           **Activité**           | **Conditions requises**                                                                  |                    **Exigences de communication**                   |**Mesures**|**Dépenses éligibles**|
+|           **Activité**           | **Exigences fondamentales**                                                                  |                    **Configuration requise des communications**                   |**Métriques**|**Dépenses éligibles**|
 |----------------------------------|:---------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------|--------------|
 |
 |        Participation à MPN         |Facture de Microsoft d’origine|                                                                                        |                                                                        |Frais – annuel d’inscription : L’inscription annuelle MPN frais • Plaque et DVD (tout d’abord défini) : Plaque d’appartenance MPN et le premier ensemble de DVD • boîte à outils des avantages supplémentaires|

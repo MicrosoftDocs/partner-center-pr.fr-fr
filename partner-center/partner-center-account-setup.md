@@ -9,15 +9,15 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430178"
 ---
 # <a name="manage-your-partner-center-account"></a>Gérer votre compte Espace partenaires
 
-**S'applique à**
+**S’applique à**
 
 -  Espace partenaires
 
@@ -31,7 +31,7 @@ Vous ou votre administrateur crée également des comptes d’utilisateur pour t
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Ressources pour vous aider à gérer votre compte Espace partenaires
 
-|**Pour effectuer cette opération**   |**Lisez**   |
+|**Pour ce faire**   |**Lisez ce**   |
 |-----------------------|:-----------------------|
 |Vérifier que votre profil d’entreprise est à jour   |[Mettre à jour votre profil de partenaire](update-your-partner-profile.md)|
 |Tous les membres de votre entreprise qui doit fonctionner dans l’espace partenaires doivent être affectés à des rôles. Chaque rôle est associé à des autorisations spécifiques et des tâches disponibles.|[Créer des comptes d’utilisateurs et définir des autorisations](create-user-accounts-and-set-permissions.md)|
