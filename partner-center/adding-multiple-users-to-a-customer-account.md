@@ -1,19 +1,19 @@
 ---
 title: Créer plusieurs utilisateurs pour un compte client | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de données CSV dans l’Espace partenaires.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: chargement groupé, ajouter plusieurs utilisateurs à un compte client, ajouter des utilisateurs du client, chargement groupé des utilisateurs du client, compte client, utilisateurs du client, utilisateurs
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b113736330b201ed6a4d1c6b8915e844b80fe5d5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584242"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134529"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Ajouter plusieurs utilisateurs à un compte client
 

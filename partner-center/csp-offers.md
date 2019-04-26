@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: Fournisseur de solutions cloud, programme fournisseur de solutions cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions Cloud, services basés sur le Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vendre dans le programme fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements du client
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586712"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134809"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offres pour les partenaires du programme Fournisseur de solutions Cloud 
 
@@ -28,7 +28,7 @@ Vous n'êtes pas encore inscrit au programme Fournisseur de solutions Cloud ? C
 
 Actuellement, vous pouvez vendre les types de produits et de services suivants à vos clients du programme Fournisseur de solutions Cloud :
 
-- Réservations Azure<br> 
+- Abonnements réservations Azure<br> 
 
     Les clients peuvent réserver de l’espace à l’avance sur les machines virtuelles Azure pour une durée de 1 ou 3 ans.<br>
     

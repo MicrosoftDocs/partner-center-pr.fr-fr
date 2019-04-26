@@ -6,11 +6,11 @@ description: Contactez 21Vianet si vous recherchez les problèmes avec les parte
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 5725767af49c4cdba6bad7fba3d0da3328a8e94a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584912"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132639"
 ---
 # <a name="report-a-problem-with-partner-center"></a>Signaler un problème avec l’Espace partenaires 
 
@@ -33,7 +33,7 @@ Si vous rencontrez des problèmes avec les partenaires géré par 21Vianet, y co
 **Voir aussi**
 
 -   [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
--   [Le support technique](customer-support.md)
+-   [Service clientèle](customer-support.md)
 
  
 

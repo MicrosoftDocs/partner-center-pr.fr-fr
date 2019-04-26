@@ -6,11 +6,11 @@ description: Les partenaires peuvent vendre des abonnements à des clients et le
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 3f4a346d38e9823b46c48ec900f34473434e2be9
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586662"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132430"
 ---
 # <a name="customer-subscriptions"></a>Abonnements client
 
@@ -24,14 +24,14 @@ Ajouter, mettre à niveau, suspendre et gérer les abonnements de vos clients da
 -   [Créer un abonnement](create-a-new-subscription.md)
 -   [Attribuer des licences à des utilisateurs](assign-licenses-to-users.md)
 -   [Suspendre un abonnement](suspend-a-subscription.md)
--   [Mise à niveau un abonnement existant](add-licenses-or-services-to-an-existing-subscription.md)
+-   [Mettre à niveau un abonnement existant](add-licenses-or-services-to-an-existing-subscription.md)
 
 >**Important**<br>Utiliser le centre de partenaire géré par 21Vianet pour gérer vos clients *abonnements*. Utiliser le centre d’administration pour Office 365 est géré par 21Vianet pour gérer vos clients *utilisateurs*. 
  
  **Voir aussi**
 
 -   [Comptes client](customer-accounts.md)
--   [Le support technique](customer-support.md)
+-   [Service clientèle](customer-support.md)
 
 
 

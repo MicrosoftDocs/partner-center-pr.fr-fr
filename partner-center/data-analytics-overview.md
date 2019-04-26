@@ -1,18 +1,18 @@
 ---
 title: Données et analyses dans l'Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: L'utilisation des fonctionnalités de données dans l'Espace partenaires vous permet de mieux comprendre les besoins des clients
 author: LauraBrenner
 ms.author: labrenne
 Keywords: données, d’analytique, de l’utilisation, de compétences
 ms.localizationpriority: medium
-ms.openlocfilehash: 946a7e0e7fcbc4133e53f985508049a65ada0e45
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: d2efeb8125077de10acb891908fe81a0fb0f00f9
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585792"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135609"
 ---
 # <a name="data-and-analytics-in-partner-center"></a>Données et analyses dans l'Espace partenaires
 

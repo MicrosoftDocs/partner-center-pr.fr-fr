@@ -1,17 +1,17 @@
 ---
 title: Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany | Espace partenaires de Microsoft Cloud Germany
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Pour se conformer aux exigences nationales, régionales et sectorielles qui régissent la collecte et l’utilisation des données personnelles, les fonctionnalités de gestion des utilisateurs ne sont pas disponibles dans l'Espace partenaires de Microsoft Cloud Germany. Ajoutez et gérez plutôt les utilisateurs dans le portail Azure de Microsoft Cloud Germany.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e408345f1d2169d84dcb206fa276166512829c3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587032"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132689"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany
 
@@ -52,6 +52,6 @@ Une fois que vous êtes connecté au portail Azure de Microsoft Cloud Germany, 
 
 -  [Microsoft Azure Allemagne](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [Partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
+-  [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
 
 

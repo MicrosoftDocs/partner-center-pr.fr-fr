@@ -1,17 +1,17 @@
 ---
 title: Comprendre le paiement de vos primes incitatives | Espaces partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Affichez les revenus et les paiements se rapportant aux programmes de primes incitatives.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 01e5cc1ba04d17313a9d0693807661ad654cf2a6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585382"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132899"
 ---
 # <a name="incentive-payouts-overview"></a>Vue d’ensemble de l’offre incitative paiements
 
@@ -106,7 +106,7 @@ Les tableaux suivants décrivent les champs qui figurent dans les fichiers de re
 |EarningID      |Identificateur unique créé pour chaque ligne de revenu |               
 |Nom du partenaire   | Nom du partenaire enregistré dans l’Espace partenaires                    |
 |MPN/PCN        |ID MPN (ID Microsoft Partner Network du partenaire) / Numéro de client public|
-|Emplacement       | Pays/région de MPN V du partenaire - ID Org|
+|Location       | Pays/région de MPN V du partenaire - ID Org|
 |Nom du programme   |Nom du programme de primes incitatives |
 |Nom du client  |   Nom du client |
 |Emplacement du client  | Pays dans lequel se trouve le client  |
@@ -151,7 +151,7 @@ Les tableaux suivants décrivent les champs qui figurent dans les fichiers de re
 |-------------------|:--------------------|
 |Nom du partenaire|Nom du partenaire enregistré dans l’Espace partenaires|
 |MPN/PCN        |ID MPN (ID Microsoft Partner Network du partenaire) / Numéro de client public|
-|Emplacement       | Pays/région de MPN V du partenaire - ID Org|
+|Location       | Pays/région de MPN V du partenaire - ID Org|
 |Nom du programme   |Nom du programme de primes incitatives |
 |Type de revenus   |Type des revenus (remise, ajustement) |
 |Devise du montant de paiement|   Type de devise utilisé pour le paiement|

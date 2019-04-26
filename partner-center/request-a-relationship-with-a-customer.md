@@ -1,18 +1,18 @@
 ---
 title: Demander une relation avec un client | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: La demande de relation est utilisée pour les scénarios de type Multipartenaire et Multicanal. Elle est également utile si un client supprime vos privilèges d’administration délégués et que vous devez les restaurer pour fournir des services d’approvisionnement ou de support.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585192"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133979"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Se connecter à des clients dans l'Espace partenaires
 
@@ -61,7 +61,7 @@ L’expérience du client d’accepter une invitation de relation de revendeur d
 | Clients de partenaires de Microsoft Cloud pour gouvernement des États-Unis | Portail d’administration de Microsoft Office | Portail d’administration de Microsoft Office |
 |
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
-- [Affecter des contacts de la prise en charge](assign-support-contacts.md)
+- [Assigner des contacts de support](assign-support-contacts.md)
 - [Supprimer une relation avec un client](remove-a-relationship.md)

@@ -6,11 +6,11 @@ description: Cette rubrique explique ce que vous pouvez voir sur votre facture l
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 0da5bbf6a5c3259589973e25f592457da7e3e42e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586332"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132339"
 ---
 # <a name="common-billing-scenarios"></a>Exemples de facturation courants
 

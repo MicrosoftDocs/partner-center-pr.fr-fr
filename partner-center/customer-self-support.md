@@ -1,7 +1,7 @@
 ---
 title: Support autonome du client | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Les clients peuvent se connecter à leur propre centre d’administration Microsoft Office 365 ou le portail de gestion Azure et gèrent leurs propres comptes. Pour acheter des abonnements supplémentaires ou annuler leur abonnement, les clients doivent contacter leur partenaire du programme Fournisseur de solutions Cloud.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: support autonome du client, support autonome
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 62a4486419183544ba6720c6e23a096fe4dd3841
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 8efada04916b77f19219ca1ebaa3f8789cd8f889
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584052"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135469"
 ---
 # <a name="customer-self-support"></a>Support autonome du client
 

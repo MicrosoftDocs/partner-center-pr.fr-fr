@@ -1,18 +1,18 @@
 ---
 title: 'Contribution partenaire : optimisez vos indicateurs de performances | Espace partenaires'
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Utiliser des données contributions des partenaires pour comprendre comment votre entreprise est croissant et finalement réussir
 author: LauraBrenner
 ms.author: labrenne
 keywords: données d'entreprise
 ms.localizationpriority: medium
-ms.openlocfilehash: 765f37a031098d65460e2cc603eb3d4efb8e4ea3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e6281e31e0049cb865e212485b6f5cf030516135
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587362"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134175"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribution partenaire : optimisez vos indicateurs de performances
 

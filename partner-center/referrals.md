@@ -1,18 +1,18 @@
 ---
 title: Développer votre activité avec des références de Microsoft | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Générer des prospects et entrer en contact avec des clients qui ont besoin d’aide pour mettre en œuvre des solutions et des produits Microsoft.
 author: LauraBrenner
 ms.author: labrenne
 keywords: références, profil commercial, rechercher un partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a5e75959597effb281347a42af5fd93a9c5e72d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: d0dd23eaadc5a27a6818aeac2529288b639c6b36
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586932"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134014"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

@@ -1,18 +1,18 @@
 ---
 title: Comptes client | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Au titre de partenaire revendeur, vous devez créer un compte pour chacun de vos clients dans l’Espace partenaires. Le compte client constitue votre point de départ pour la vente d’abonnements, la facturation et le support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c426f55ac22a1ea497ce6f886874587dcbfcdc6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 41cedac945f71ab0b381f4aa5b22a86a07e97173
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585772"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134689"
 ---
 # <a name="customer-accounts"></a>Comptes client
 

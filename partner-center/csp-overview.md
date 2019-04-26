@@ -1,18 +1,18 @@
 ---
 title: Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Le programme Fournisseur de solutions Cloud peut aider votre entreprise à croître avec de nouveaux clients et de nouvelles compétences.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 ms.localizationpriority: medium
-ms.openlocfilehash: 1840d87626bef935347218b44d44c3d44607722d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584192"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134749"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées 
 
@@ -68,13 +68,13 @@ Avant de commander que CSP offre pour le compte d’un client, le client doit si
 
 Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), ainsi que diverses autres offres qui changent fréquemment. Pour afficher le CSP offre pour le mois actuel, connectez-vous à l’espace partenaires et passez à la [ **tarification et offres** ](https://partnercenter.microsoft.com/pcv/sales) page.
 
-## <a name="see-also"></a>Voir également 
+## <a name="see-also"></a>Voir aussi 
 
 
 |**Pour savoir à ce sujet**   |**Lisez ce**   |
 |:---------------------------|:--------------------|
 |Conditions requises pour chaque modèle Fournisseur de solutions Cloud   | [Programme de fournisseur de solutions de cloud](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Ventes dans les clouds nationaux Microsoft   | [Appliquer pour vendre dans des clouds nationaux Microsoft](csp-national-clouds-overview.md)|
-|Modèles de client de contrat de Cloud de Microsoft   |[Contrats de Cloud Microsoft par région et langue](agreements.md)|
+|Modèles de client de contrat de Cloud de Microsoft   |[Contrats Microsoft Cloud par région et langue](agreements.md)|
 |Tâches de fournisseur indirect sur l’espace partenaires  |[En partenariat avec les revendeurs indirects dans le programme fournisseur de solutions de Cloud](indirect-provider-tasks-in-partner-center.md)|
 |Tâches de revendeur indirect sur l’espace partenaires   |[En partenariat avec des fournisseurs indirects dans le programme fournisseur de solutions de Cloud](indirect-reseller-tasks-in-partner-center.md)|

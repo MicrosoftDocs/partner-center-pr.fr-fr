@@ -1,18 +1,18 @@
 ---
 title: Acheter ou renouveler un abonnement Microsoft Action Pack | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Découvrez comment obtenir Microsoft Action Pack, qu'il s'agisse d'un premier achat ou d'un renouvellement.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 552e288bb983b940d8211328553e6b33be242cb8
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587882"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134299"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Premier achat ou renouvellement d'un abonnement Microsoft Action Pack
 

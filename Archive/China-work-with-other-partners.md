@@ -6,11 +6,11 @@ description: Collabore avec d’autres revendeurs CSP pour fournir des services 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 751dee92243e5956849cf07dcdc680566660c5f3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583862"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132043"
 ---
 # <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
@@ -23,6 +23,6 @@ Revendeurs de fournisseur de solutions de Cloud différents peuvent offrir diff�
 
 Vous pouvez toujours vendre vos services et les solutions à ce client à l’aide de la prise en charge multicanal et multipartner dans Partner Center.
 
--   [Multipartner](multipartner.md)
--   [Multichannel](multichannel.md)
+-   [Multipartenaire](multipartner.md)
+-   [Multicanal](multichannel.md)
 -   [Demander une relation de revendeur avec un client](request-a-relationship-with-a-customer.md)

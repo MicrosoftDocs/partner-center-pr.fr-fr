@@ -1,18 +1,18 @@
 ---
 title: Forum aux questions sur la confirmation de l’acceptation du contrat Microsoft Cloud par le client | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Forum aux questions sur la confirmation d’acceptation de client
 author: LauraBrenner
 ms.author: v-petand
 keywords: client, les clients, consentement, FAQ, MCA, accord du Cloud Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587402"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135009"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Forum aux questions sur la confirmation de l’acceptation du contrat Microsoft Cloud par le client
 
@@ -57,7 +57,7 @@ Il n’existe aucun processus de notification.
 
 **Pourquoi est-ce que Microsoft nécessitant partenaires confirmer que les clients ont accepté le contrat de Cloud de Microsoft ?** 
 
-L’accord de Cloud de Microsoft protège les partenaires, clients et Microsoft en fournissant des droits d’utilisation du client, termes et conditions accordées pour les commandes de produits et des services de Cloud Microsoft. 
+Le contrat Microsoft Cloud protège les partenaires, les clients et Microsoft en indiquant au client ses droits d’utilisation et les conditions générales concernant les commandes de produits et services Microsoft Cloud. 
 
 Une exécution correcte de l’accord de Cloud de Microsoft protège de nos partenaires, les clients et les Microsoft en vous assurant d’alignement mutuelle sur nombreux sujets importants, y compris mais pas limité à la sécurité, confidentialité et protection des données. Le processus de confirmation garantit la transparence et l’alignement et permet à Microsoft de mieux aider les clients doivent pouvoir répondre rapidement aux enquêtes réglementaires.
 

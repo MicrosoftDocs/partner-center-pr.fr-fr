@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: formation, outil de document, valider le document, l’assurance logiciel des revendications, DPS, SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587832"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132649"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Utilisez l’outil de validation et d’échange de bons de l’Espace partenaires pour valider, réserver et échanger des bons 
 

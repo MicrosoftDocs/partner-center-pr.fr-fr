@@ -6,11 +6,11 @@ description: Explique comment les revendeurs de Chine sont facturés pour les se
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: dc47dbe46be30b2306e242f14b98b19435264863
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584312"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131379"
 ---
 # <a name="billing"></a>Facturation
 
@@ -67,7 +67,7 @@ Pour accéder à votre facture, accédez à la **tableau de bord** menu et séle
 
 **Voir aussi** 
 -   [Lire votre facture](read-your-bill.md)
--   [Utiliser les fichiers de réconciliation](use-the-reconciliation-files.md)
--   [Non-paiement, de fraudes ou de mauvaise utilisation](non-payment-fraud-or-misuse.md)
+-   [Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)
+-   [Défaut de paiement, fraude ou mauvaise utilisation](non-payment-fraud-or-misuse.md)
 -   [Tarification du CSP de Chine et offres](see-offers-and-pricing.md)
 

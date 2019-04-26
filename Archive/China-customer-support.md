@@ -6,11 +6,11 @@ description: Meilleures pratiques en matière de permettant la prise en charge d
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585782"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132539"
 ---
 # <a name="customer-support"></a>Service clientèle
 
@@ -48,9 +48,9 @@ Les plus récentes prennent en charge de configuration requise, consultez le [gu
 
 **Voir aussi**
 
--   [Fournir un support technique](provide-technical-support.md)
--   [Fournir le support de facturation](provide-billing-support.md)
--   [Auto-assistance de client](customer-self-support.md)
+-   [Proposer un support technique](provide-technical-support.md)
+-   [Proposer une assistance à la facturation](provide-billing-support.md)
+-   [Support autonome du client](customer-self-support.md)
 
  
 ### <a name="escalate-a-customer-issue-to-21vianet"></a>Faire remonter un problème de client à 21Vianet 

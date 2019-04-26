@@ -1,18 +1,18 @@
 ---
 title: Vendre aux secteurs spécialisés | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Microsoft fournit une tarification spéciale, réduit pour sélectionner des groupes de clients, notamment les clients de l’éducation, à but non lucratif et les utilisateurs du gouvernement.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585752"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135659"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendre aux secteurs spécialisés
 
@@ -47,9 +47,9 @@ Microsoft consent des tarifs préférentiels à certains clients, parmi lesquels
 
 Une fois que vous et vos clients serez qualifiés pour un programme d'offre spéciale, suivez la procédure standard pour [Ajouter un abonnement](create-a-new-subscription.md). Dans la section **Catalogue** de la page **Nouvel abonnement**, sélectionnez un secteur spécialisé pour consulter les offres spéciales que vous pouvez vendre.
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
-[Vendre Minecraft : Abonnements d’édition éducation aux clients de l’enseignement](minecraft-subscriptions.md)
+[Vendre des abonnements Minecraft: Abonnements d’édition éducation aux clients de l’enseignement](minecraft-subscriptions.md)
 
 
  

@@ -6,11 +6,11 @@ description: Revendeurs de fournisseur de solutions de Cloud de Chine fournir un
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d3e32af7f96f2261e3e03550dd5519258a58dec6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584292"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132629"
 ---
 # <a name="provide-technical-support"></a>Proposer un support technique
 
@@ -51,9 +51,9 @@ Vous pouvez effectuer certaines tâches d’administration pour le compte de vos
  
 **Voir aussi**
 
--   [Fournir le support de facturation](provide-billing-support.md)
--   [Auto-assistance de client](customer-self-support.md)
--   [Le support technique](customer-support.md)
+-   [Proposer une assistance à la facturation](provide-billing-support.md)
+-   [Support autonome du client](customer-self-support.md)
+-   [Service clientèle](customer-support.md)
 
 
  

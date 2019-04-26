@@ -1,19 +1,19 @@
 ---
 title: Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
 ms.localizationpriority: medium
-ms.openlocfilehash: 183b5f518a57fdaf27badce5927a2ea09a5ec89c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c2226fea4523b5f34a2cb1b5fcfcde88048dda82
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587552"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134769"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud
 
@@ -119,7 +119,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 6.  Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. Le partenaire reçoit une facture finale avec un crédit pour le nombre de jours inutilisés entre le jour de l’annulation et le dernier jour de la période de facturation. Aucune facture n’est générée après cette période de facturation finale.
 
-### <a name="notes"></a>Remarques
+### <a name="notes"></a>Notes
 
 -   La désactivation de l’abonnement à partir du compte Fournisseur de solutions&nbsp;Cloud **Transition à partir de** n’affecte pas le service du client final, tant que le service est approvisionné à partir du compte Fournisseur de services&nbsp;Cloud **Transition vers** avant la désactivation.
 

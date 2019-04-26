@@ -1,19 +1,19 @@
 ---
 title: Faire remonter des problèmes à Microsoft | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Vous devez normalement résoudre les problèmes pour le compte de vos clients. Toutefois, il existe plusieurs catégories de problèmes que vous devez transmettre à Microsoft à résoudre.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586432"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135669"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Faire remonter les problèmes à Microsoft
 

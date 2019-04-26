@@ -6,11 +6,11 @@ description: Vous pouvez suspendre ou annuler un abonnement si demandé par le c
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 389d92017aaca0e6cf4cce73e6a71e9aa90ac6bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584342"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132109"
 ---
 # <a name="suspend-a-subscription"></a>Suspendre un abonnement
 
@@ -31,6 +31,6 @@ Lorsque vous interrompez l’abonnement du client, les utilisateurs du client ne
 
 **Voir aussi**
 
--   [Non-paiement, de fraudes ou de mauvaise utilisation](non-payment-fraud-or-misuse.md)
--   [Fournir le support de facturation](provide-billing-support.md)
--   [Le support technique](customer-support.md)
+-   [Défaut de paiement, fraude ou mauvaise utilisation](non-payment-fraud-or-misuse.md)
+-   [Proposer une assistance à la facturation](provide-billing-support.md)
+-   [Service clientèle](customer-support.md)

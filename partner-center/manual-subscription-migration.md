@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Offres Dynamics 365, renouveler les offres, les nouvelles références SKU de Dynamics 365
 ms.openlocfilehash: e5128abe71cfab4e2cdabb0cafcd5fd7df56b116
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586942"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134399"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrer de Dynamics 365 et du Plan Engagement client à partir de Basic (offres qualifiés) vers les nouvelles versions
 

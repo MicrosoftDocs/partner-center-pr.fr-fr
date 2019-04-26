@@ -1,19 +1,19 @@
 ---
 title: Scénarios de facturation courants | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous ajoutez de nouveaux abonnements, modifiez le nombre de licences dans un abonnement ou annulez un abonnement. Les abonnements basés sur l’utilisation et ceux basés sur la licence sont attribués différemment.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: facturation, paiements, orders, l’utilisation, facturation basée sur les licences, la date anniversaire, terme, d’annulation, renouvellement, formule prix, fichier de réconciliation, fichier rapprocher
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f7820219110bfdbe153d8467da91e1d66d82341
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585702"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135319"
 ---
 # <a name="common-billing-scenarios"></a>Exemples de facturation courants
 

@@ -1,18 +1,18 @@
 ---
 title: Forum aux questions sur outil de Validation de document | Partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Valider et réserver les bons partenaires
 author: LauraBrenner
 ms.author: labrenne
 keywords: bons de formation, programme software assurance, formation, valider les bons, chèque-cadeau de réserve
 ms.localizationpriority: medium
-ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "58863987"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132582"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : utilisation de l’outil de validation et d’échange de bons 
 

@@ -1,17 +1,17 @@
 ---
 title: Les primes incitatives des partenaires sont désormais dans l’Espace partenaires| Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Les programmes de primes incitatives encouragent les partenaires à développer de nouvelles techniques de marketing, proposer des formations, etc.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb1e6dcfb32970a634a393d8ce33c1a6128458e5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587512"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134171"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Les primes incitatives des partenaires sont désormais dans l'Espace partenaires 
 
@@ -43,7 +43,7 @@ La première étape consiste à compléter votre compte de primes incitatives de
 
 **Voir aussi**
 
-[Créer des comptes d’utilisateur et définir des autorisations](create-user-accounts-and-set-permissions.md)
+[Créer des comptes d’utilisateurs et définir des autorisations](create-user-accounts-and-set-permissions.md)
 
 [Modifier votre mot de passe temporaire](change-your-temporary-password.md)
 

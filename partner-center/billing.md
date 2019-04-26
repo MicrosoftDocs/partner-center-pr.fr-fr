@@ -1,19 +1,19 @@
 ---
 title: Facturation | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 59fafd8f2e12f073dd55e6275d1cb65919476e50
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430118"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135369"
 ---
 # <a name="billing"></a>Facturation
 

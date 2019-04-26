@@ -1,19 +1,19 @@
 ---
 title: Gérer des réservations Microsoft Azure pour vos clients | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Pour gérer Azure réservations après l’achat vos clients, vous sélectionnez la réservation que vous souhaitez gérer dans le centre partenaires et le client et puis apporter des modifications à la réservation dans le portail Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, les réservations, gérer, la facturation, achat, Annuler, exchange, les frais de résiliation anticipée
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584502"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134789"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients
 
@@ -31,7 +31,7 @@ Pour gérer Azure réservations après l’achat vos clients, vous sélectionnez
 
 3. Sous **Actions**, sélectionnez **Gérer** pour accéder au dossier de réservation du client dans le portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
 
-    | **Select**   | **À**    |
+    | **Select**   | **Pour**    |
     |:-----------------------------|:-----------------|
     | **Vue d’ensemble**   | Afficher les détails de la réservation d’un client, y compris la date d'expiration, la portée et les données d'utilisation. **REMARQUE** Sélectionnez **Remboursement** pour créer une demande de support en vue d'un remboursement calculé au prorata. Sélectionnez **Échange** pour créer une demande de support en vue de l'échange de la période de réservation non utilisée.  
     | **Contrôle d’accès (IAM)**   | Gérer l’accès aux informations sur la réservation du client.|

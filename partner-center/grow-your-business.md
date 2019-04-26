@@ -1,18 +1,18 @@
 ---
 title: Développer votre activité de partenaire Microsoft | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Ressources pour développer votre activité de partenaire Microsoft. Explique notamment comment obtenir des prospects (références) de Microsoft.
 keywords: références, répondre à des références, prospect, prospects, profil commercial, profil d’entreprise, développer votre activité, opportunités commerciales, compétences, niveau d'adhésion argent, niveau d'adhésion or, offres d’essai, extension de marché, clouds nationaux
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 896d2214f9d036919298a847ce3f31f53f7a21ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586802"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135629"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Développer votre activité de partenaire Microsoft 
 
@@ -38,7 +38,7 @@ Utilisez l'Espace partenaires pour :
 | Proposer à vos clients des abonnements d’essai aux produits Microsoft | Lisez [Proposer à vos clients des essais des produits Microsoft](offer-your-customers-trials-of-microsoft-products.md) pour savoir comment utiliser les abonnements d’essai pour augmenter les ventes auprès de votre base de clients.| Partenaires fournisseurs de solutions Cloud |
 | Proposer à vos clients des tarifs promotionnels sur les abonnements Microsoft | Microsoft propose occasionnellement des promotions sur les abonnements basés sur les licences, qui vous permettent de répercuter les économies sur les clients et de développer votre activité. Lisez [Proposer à vos clients des tarifs promotionnels sur les abonnements Microsoft](promotions.md) pour savoir comment faire. | Partenaires fournisseurs de solutions Cloud |
 | Vendre dans d’autres marchés | Le canal de vente du programme Fournisseur de solutions Cloud est disponible dans plusieurs pays et régions. Voir [marchés du programme Fournisseur de solutions Cloud](agreements.md) pour en consulter la liste. Pour une introduction au canal du programme Fournisseur de solutions Cloud, consultez [Présentation du programme Fournisseur de solutions Cloud](csp-overview.md).  | Partenaires fournisseurs de solutions Cloud |
-Vendre à des secteurs spécialisés comme les organisations à but non lucratif et l'éducation|[Vendre aux branches spécialisés](get-special-pricing-for-offers.md)|Partenaires fournisseurs de solutions Cloud|
-|Développez votre activité par le biais de nombreuses activités disponibles dans le programme de coopération aux primes incitatives. Revendications de fichier pour les activités via l’espace partenaires.| [Créer et gérer des revendications de primes](create-incentives-claims.md)|Partenaires fournisseurs de solutions Cloud|
-|Vendre des abonnements aux produits de la place de marché Azure|[Vendre des abonnements aux produits de la place de marché Azure](sell-marketplace-products.md)|Partenaires fournisseurs de solutions Cloud|
+Vendre à des secteurs spécialisés comme les organisations à but non lucratif et l'éducation|[Vendre aux secteurs spécialisés](get-special-pricing-for-offers.md)|Partenaires fournisseurs de solutions Cloud|
+|Développez votre activité par le biais de nombreuses activités disponibles dans le programme de coopération aux primes incitatives. Revendications de fichier pour les activités via l’espace partenaires.| [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)|Partenaires fournisseurs de solutions Cloud|
+|Vendre des abonnements à des produits de la Place de marché Azure|[Vendre des abonnements à des produits de la Place de marché Azure](sell-marketplace-products.md)|Partenaires fournisseurs de solutions Cloud|
 |Votre entreprise est-elle une vedette à la vente et la gestion d’Azure ? Appliquer pour s’inscrire au programme fournisseur de services Microsoft Azure Expert|[Programme de fournisseur de Services Expert Microsoft Azure](azure-expert-msp.md)|Partenaires fournisseurs de solutions Cloud|

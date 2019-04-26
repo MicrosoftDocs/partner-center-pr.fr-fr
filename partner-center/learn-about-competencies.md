@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: compétences, adhésion argent, adhésion or, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau
 ms.localizationpriority: medium
 ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585872"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134409"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Compétences Microsoft requises pour le niveau d'adhésion Or et Argent
 

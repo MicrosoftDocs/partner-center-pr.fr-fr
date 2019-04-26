@@ -1,17 +1,17 @@
 ---
 title: Migrer des abonnements Office 365 E4 vers les nouvelles versions d’Office 365 | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: L'édition Microsoft Office 365 Entreprise E4 n’est plus disponible depuis le 7 avril 2017. Découvrez comment migrer vos abonnements client vers des versions plus récentes d’Office 365.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 381b4c5dda7486737ef010d7fa22e65710b5e5bf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587792"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134379"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office 365 E4 vers les nouvelles versions d’Office 365
 

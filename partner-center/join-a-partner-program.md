@@ -7,11 +7,11 @@ author: maggiepuccievans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a6989957b3c4e3cf0c0c63d5297a9c04371c0a81
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587872"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134419"
 ---
 <!-- Note from Maggie on Dec 5, 2018: I can no longer tell what purpose this article serves. I'm going to redirect it to the mpn-overview.md topic and move the relevant information there. In the interim, I've copied and pasted the content from the MPN overview topic into this one in case anyone out there has it bookmarked.
 -->
@@ -74,5 +74,5 @@ Passez en revue les ressources ci-dessous pour en savoir plus sur la configurati
 - [Gérer vos avantages MPN sur Partner Center](manage-your-partner-network-benefits.md)
 - [Exigences fondamentales](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 - [Développez votre activité de partenaire Microsoft](grow-your-business.md)

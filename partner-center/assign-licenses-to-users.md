@@ -1,19 +1,19 @@
 ---
 title: Tâches de gestion des utilisateurs pour des comptes client | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Lorsque vous achetez un nouvel abonnement pour un client, vous pouvez attribuer des licences à certains utilisateurs.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gestion de client, compte, créer le compte, licences, affecter une licence, gestion de l’utilisateur, mot de passe, réinitialiser le mot de passe, modifier le mot de passe
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586752"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134869"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tâche de gestion des utilisateurs pour des comptes client
 
@@ -93,7 +93,7 @@ Si vous devez restaurer ce compte, vous le trouverez dans l’onglet **Utilisate
 ## <a name="related-topics"></a>Rubriques connexes
 
 
-[Attribuer ou révoquer les licences pour plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md)
+[Attribuer ou révoquer des licences pour plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md)
 
 [Créer des utilisateurs multiples pour un compte client](adding-multiple-users-to-a-customer-account.md)
 

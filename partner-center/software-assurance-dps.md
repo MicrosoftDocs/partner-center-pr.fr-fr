@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: avant le déploiement, planification, le programme software assurance
 ms.localizationpriority: medium
 ms.openlocfilehash: 222ba9b7fe526021bf06f4fda7f72b4703ba73c8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587922"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133839"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 

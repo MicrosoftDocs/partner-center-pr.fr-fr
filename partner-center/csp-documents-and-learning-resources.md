@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: guides du programme fournisseur de solutions cloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
 ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
-ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "58508966"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134989"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme fournisseur de solutions cloud, des contrats, des listes de prix et des offres
 

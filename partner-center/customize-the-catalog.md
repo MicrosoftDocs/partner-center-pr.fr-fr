@@ -1,18 +1,18 @@
 ---
 title: Personnaliser le catalogue | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Le catalogue répertorie tous les produits Microsoft et les modules complémentaires disponibles à la vente pour les partenaires.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4eafca2c4d9273157d920197758488d399b9018d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 1617383b3cca62b30d4bb6825649f44985078118
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584172"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135549"
 ---
 # <a name="customize-the-catalog"></a>Personnaliser le catalogue
 

@@ -7,11 +7,11 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.openlocfilehash: 30e3b7a7933678c4af079bb86aa1439559387f2b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584982"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132079"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -85,7 +85,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 <td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
-<td>OrderId</td>
+<td>OrderID</td>
 <td><p>Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la commande lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
 <td>566890604832738111</td>
 </tr>
@@ -104,13 +104,13 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 <tr class="odd">
 <td>OfferID</td>
 <td><p>ID d’offre unique. ID d’offre standard conformément à la liste de prix.</p>
-<p><b>Remarque</b> : Cette valeur ne correspond pas d’ID de l’offre à partir de la liste de prix. Voir DurableOfferID ci-dessous.</p></td>
+<p><b>Remarque</b>: Cette valeur ne correspond pas d’ID de l’offre à partir de la liste de prix. Voir DurableOfferID ci-dessous.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>ID d’offre unique durable, comme défini dans la liste des prix.</p>
-<p><b>Remarque</b> : Cette valeur correspond à l’ID de l’offre à partir de la liste de prix.</p></td>
+<p><b>Remarque</b>: Cette valeur correspond à l’ID de l’offre à partir de la liste de prix.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -307,7 +307,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <td>Microsoft Azure</td>
 </tr>
 <tr class="even">
-<td>OrderId</td>
+<td>OrderID</td>
 <td><p>Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
 <td>566890604832738111</td>
 </tr>
@@ -343,7 +343,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <td>Asie-Pacifique, Europe, Amérique latine, Amérique du Nord</td>
 </tr>
 <tr class="even">
-<td>SKU</td>
+<td>référence SKU</td>
 <td><p>Identificateur unique MSFT de l’offre</p></td>
 <td>7UD-00001</td>
 </tr>

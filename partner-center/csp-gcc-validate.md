@@ -1,17 +1,17 @@
 ---
 title: Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Procédures de validation des partenaires et des clients pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586952"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134849"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud
 

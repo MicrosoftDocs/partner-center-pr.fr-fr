@@ -1,19 +1,19 @@
 ---
 title: Renouveler vos offres MPN | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: La fenêtre de renouvellement de vos abonnements aux offres MPN commence à la date anniversaire de votre achat, plus un jour.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, renouvellement de compétence, date de renouvellement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e3008352b141625a974c78c11615161b29334eb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: f84493a8394188d56bc19ccd7e67af75f6fdd090
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586892"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134109"
 ---
 # <a name="renew-your-mpn-offers"></a>Renouveler vos offres MPN
 

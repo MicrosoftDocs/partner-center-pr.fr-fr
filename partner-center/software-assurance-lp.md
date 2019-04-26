@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587612"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133852"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Participer aux programmes de Software Assurance
 
@@ -20,7 +20,7 @@ Participation aux programmes Software Assurance, y compris les bons de formation
 |**Pour en savoir plus sur**   |**Lisez ce**   |
 |--------------------------|:------------------|
 |L’inscription dans le programme Software Assurance formation bons (SATV)|[Logiciel de bons de formation d’Assurance (SATV) dans l’espace partenaires](software-assurance-satv.md)|
-|À l’aide de l’outil de Validation de document et d’échange|[Utiliser l’outil de Validation de document et d’échange de partenaires à valider, de réserver et d’échanger des bons d’achat](voucher-validation-tool.md)|
+|utilisation de l’outil de validation et d’échange de bons|[Utilisez l’outil de validation et d’échange de bons de l’Espace partenaires pour valider, réserver et échanger des bons](voucher-validation-tool.md)|
 |S’inscrire à la planification des Services de la Software Assurance|[Services de planification Software Assurance dans partenaires](software-assurance-dps.md) 
 
 

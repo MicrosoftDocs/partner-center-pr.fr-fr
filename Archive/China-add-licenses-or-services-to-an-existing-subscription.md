@@ -6,11 +6,11 @@ description: Si votre client a besoin des sièges plus à leur abonnement actuel
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 32e22bd82cdff8ec785943723718a5cd271698a8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583802"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131709"
 ---
 # <a name="upgrade-an-existing-customer-subscription"></a>Mettre à niveau un abonnement client existant
 

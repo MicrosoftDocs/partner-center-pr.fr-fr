@@ -1,18 +1,18 @@
 ---
 title: Commercialiser Office 365 Secteur Public GCC pour fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Les partenaires Microsoft du programme Fournisseur de solutions Cloud peuvent vendre des abonnements Office 365 Secteur Public GCC pour fournisseur de solutions Cloud à des clients qualifiés. Office 365 GCC Government pour CSP est une suite de services de productivité cloud conçu pour le gouvernement des États-Unis et les sous-traitants du gouvernement.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f604fc898646ae18e081f4d13443d7835ebce28e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: f7187b0a35bae927dc991b4bd92506f902c53b95
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586092"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134839"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vendre des abonnements Office 365 Secteur Public GCC pour fournisseur de solutions Cloud à des clients qualifiés
 
@@ -22,7 +22,7 @@ ms.locfileid: "57586092"
 -  Partenaires fournisseurs de solutions Cloud
 
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Vue d'ensemble
 
 Les partenaires Microsoft du programme Fournisseur de solutions Cloud peuvent vendre des abonnements [Office 365 Secteur Public GCC pour fournisseur de solutions Cloud](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) à des clients qualifiés. Office 365 Secteur Public GCC pour fournisseur de solutions Cloud est conçu pour les besoins uniques des organisations gouvernementales américaines et fournit toutes les fonctionnalités des services Office 365 dans une communauté cloud gouvernementale segmentée qui permet aux organisations de respecter les normes de conformité et de sécurité du gouvernement américain. 
 

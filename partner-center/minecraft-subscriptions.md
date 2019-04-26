@@ -1,20 +1,20 @@
 ---
 title: Vendre des abonnements Minecraft Education Edition aux clients de l’éducation
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Vendre des abonnements Minecraft Education Edition aux clients qualifiés dans le domaine de l’éducation.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Vendre des partenaires de formation autorisés, l’éducation, pour l’éducation, les établissements scolaires
 ms.localizationpriority: medium
-ms.openlocfilehash: ad5ebefb3ca745e81790af5cfb60de2df91887e5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4c5b221bae98e203159afd8926bbdd3d3bbd0421
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584892"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134359"
 ---
-# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendre Minecraft : Abonnements d’édition éducation aux clients de l’enseignement
+# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendre des abonnements Minecraft: Abonnements d’édition éducation aux clients de l’enseignement
 
 **S’applique à**
 

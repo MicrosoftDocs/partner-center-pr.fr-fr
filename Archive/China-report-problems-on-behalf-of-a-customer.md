@@ -6,11 +6,11 @@ description: Si votre client rencontre un problème de service que vous ne pouve
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d5c4703423360d228a810ee739dc1916ca056a58
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585802"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132619"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d’un client
 
@@ -33,8 +33,8 @@ Si un client rencontre des problèmes de service que vous ne pouvez pas résoudr
 
 **Voir aussi**
 
--   [Auto-assistance de client](customer-self-support.md)
--   [Fournir un support technique](provide-technical-support.md)
--   [Vérifier l’intégrité du service](check-service-health.md)
--   [Fournir le support de facturation](provide-billing-support.md)
--   [Le support technique](customer-support.md)
+-   [Support autonome du client](customer-self-support.md)
+-   [Proposer un support technique](provide-technical-support.md)
+-   [Vérifier l’état du service](check-service-health.md)
+-   [Proposer une assistance à la facturation](provide-billing-support.md)
+-   [Service clientèle](customer-support.md)

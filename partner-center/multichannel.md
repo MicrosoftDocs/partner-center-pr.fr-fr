@@ -1,18 +1,18 @@
 ---
 title: Multicanal | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Dans certains cas, des clients peuvent faire appel à vous pour configurer et prendre en charge un abonnement qu’ils ont acheté ailleurs.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587082"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134279"
 ---
 # <a name="multi-channel-support"></a>Prise en charge de plusieurs canaux
 
@@ -52,7 +52,7 @@ Fonctionnalité de plusieurs canaux de l’espace partenaires prend en charge le
 > [!IMPORTANT]  
 > Un partenaire fournisseur de solutions Cloud n'est actuellement pas autorisé à revendre des services en ligne à un autre partenaire fournisseur de solutions Cloud. Microsoft examine en permanence les stratégies et les fonctionnalités de tous les programmes. Les annonces sur les versions de la fonctionnalité seront annoncés via les canaux de communication habituelle, y compris l’espace partenaires. 
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
 [Collaborer avec d’autres partenaires](work-with-other-partners.md)
 

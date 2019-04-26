@@ -1,19 +1,19 @@
 ---
 title: Vue d’ensemble de la facturation | Partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Pour plus d’informations sur les scénarios de facturation de base et les différences entre basé sur licence et basée sur l’utilisation de facturation
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 917b04e9aba40aaf8dbfa27960e7baed7f39819d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: cd1488fbe107363ca924823cdd526005f5a3f21c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584672"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135389"
 ---
 # <a name="billing-overview"></a>Vue d’ensemble de la facturation
 

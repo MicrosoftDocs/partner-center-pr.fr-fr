@@ -1,18 +1,18 @@
 ---
 title: Transition du Centre d'administration des partenaires vers l'Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Découvrez dans l'Espace partenaires les fonctionnalités que vous utilisiez d'habitude dans le Centre d'administration des partenaires
 author: LauraBrenner
 ms.author: labrenne
 keywords: Centre d'administration des partenaires, administrateur Office 365, fonctionnalités du Centre d'administration des partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 7200f93a25f74903805d095bbd821e07758873ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2c6131dec100f438895cfa7d4f8fea5f6d66dacb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584132"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134311"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Déplacement à partir du centre d’administration partenaires (PAC) vers l’espace partenaires
 
@@ -23,7 +23,7 @@ S’applique à :
 Bienvenue dans l’espace partenaires ! l’espace partenaires est en constante évolution dans le seul emplacement où vous allez gérer votre partenariat avec Microsoft et avec vos clients. Dans l’espace partenaires, vous pouvez gérer l’appartenance, les nouveaux clients, les incitations et tous les autres aspects du programme fournisseur de solutions Cloud (CSP). Vous serez en mesure d’effectuer la plupart du travail que vous l’avez fait dans PAC dans l’espace partenaires bien que certaines des fonctionnalités ou des actions seront comporteront différemment. 
 
 
-|**Action**   |**PAC**   |**Partenaires**   |
+|**Action**   |**PAC**   |**Espace partenaires**   |
 |--------------|:--------------|:---------------|
 |Vue d'ensemble de l'activité de votre compte et de vos clients|Écran d'accueil|Espace partenaires|
 |Acquérir de nouveaux clients et fournir des devis pour des services payants ou d'essai|Créer votre activité -> Envoyer un devis|Les devis de services payants ne sont pas disponibles. Les essais de fournisseur de solutions Cloud sont disponibles si le partenaire conseiller convertit un revendeur indirect fournisseur de solutions Cloud et ses associés en un fournisseur indirect fournisseur de solutions Cloud prenant en charge les essais. |

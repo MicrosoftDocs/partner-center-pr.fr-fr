@@ -1,17 +1,17 @@
 ---
 title: Devenir un administrateur général pour votre entreprise | Partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Pour faire un grand nombre des tâches dans l’espace partenaires, vous devez d’abord vérifier la propriété de votre domaine. De nombreuses tâches dans l’espace partenaires nécessitent un administrateur général. Si votre entreprise ne dispose pas encore un, vous pouvez devenir un.
 author: LauraBrenner
 ms.author: labrenne
 keywords: domaine, la vérification du domaine, vérifiez le domaine, les administrateur général, les rôles d’utilisateur, les autorisations
-ms.openlocfilehash: bfce394c6ea098bb55a698efb3a2ac33816bd1e0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584112"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135409"
 ---
 # <a name="verify-your-domain-ownership"></a>Vérifier la propriété de votre domaine
 

@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: Azure, les abonnements, instance de machine virtuelle, la réservation, réservée
 ms.localizationpriority: medium
 ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586402"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135399"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,7 +24,7 @@ ms.locfileid: "57586402"
  
 ## <a name="what-are-azure-reservations"></a>Quelles sont les réservations de Azure ?
 
-Réservations d’Azure vous aider à réaliser des économies en prépayant pour un an ou trois ans de machine virtuelle, SQL Database capacité de calcul, le débit d’Azure Cosmos DB ou autres ressources Azure. Prépayant permet d’obtenir une remise sur les ressources que vous utilisez. Réservations peuvent réduire considérablement votre machine virtuelle, calcul de base de données SQL, Azure Cosmos DB, et autres ressources coûte jusqu'à 72 % par rapport aux tarifs du paiement à l’utilisation. Réservations fournissent une remise pour la facturation et n’affectent pas l’état d’exécution de vos ressources. Pour plus d’informations, consultez [quelles sont les réservations de Azure ?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Réservations d’Azure vous aider à réaliser des économies en prépayant pour un an ou trois ans de machine virtuelle, SQL Database capacité de calcul, le débit d’Azure Cosmos DB ou autres ressources Azure. Le paiement préalable vous permet d’obtenir une remise sur les ressources que vous utilisez. Les réservations peuvent réduire considérablement les coûts liés à votre machine virtuelle, au calcul de base de données SQL, à Azure Cosmos DB et autres ressources jusqu’à 72 % par rapport aux prix à la demande. Réservations fournissent une remise pour la facturation et n’affectent pas l’état d’exécution de vos ressources. Pour plus d’informations, consultez [quelles sont les réservations de Azure ?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Pourquoi les clients doivent acheter une réservation ?
 
@@ -65,12 +65,12 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 
 **Préparation des ventes**
 
-- [Azure des réservations et des abonnements serveur avec une vue d’ensemble de Azure Hybrid Benefit (mis à jour)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [Feuille de ventes](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Forum aux questions de partenaire pour les réservations d’Azure (mis à jour)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Partenaire FAQ pour les réservations d’Azure et base de données SQL](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Base de données SQL dans la vue d’ensemble de Azure (nouveau)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Vue d’ensemble de la tarification Azure](https://azure.microsoft.com/pricing/#explore-cost)
+- [Présentation générale des abonnements Azure Reservations and Server et serveur avec Azure Hybrid Benefit (mise à jour)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Fiche de vente](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+- [FAQ Partenaires pour Azure Reservations (mise à jour)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [FAQ Partenaires pour Azure Reservations et les bases de données SQL](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Présentation des bases de données SQL dans Azure (nouveauté)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Présentation de la tarification d’Azure](https://azure.microsoft.com/pricing/#explore-cost)
 - [Calculatrice de prix Azure](https://azure.microsoft.com/pricing/calculator/)
 - Les réservations Azure price list – consultez la liste de prix des Instances réservées de Microsoft Azure dans l’espace partenaires [tarification et offres](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) page.
 - Tarifs des abonnements de serveur – consultez la liste de prix des abonnements de logiciels dans l’espace partenaires [tarification et offres](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) page.
@@ -86,12 +86,12 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 **Opérations**
 
 - [Guide des opérations modernes Commerce](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (mis à jour) :  Un guide complet couvrant la stratégie de clé et les aspects opérationnels, tels que les accords, classement via des partenaires, facture, détails de liste de prix, primes, fichier de réconciliation, API/SDK, bac à sable et Azure Partner Shared Services.
-- [Disponibilité de pays offres modernes et matrice de devise des clients](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [Tableau des disponibilités par pays et devises clients des offres modernes](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vendre des Instances réservées de Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=872806)
-- [Acheter des réservations de Microsoft Azure pour le compte de vos clients](https://go.microsoft.com/fwlink/?linkid=872807)
+- [Acheter des réservations Microsoft Azure pour vos clients](https://go.microsoft.com/fwlink/?linkid=872807)
 - [Gérer les réservations Azure pour le compte de vos clients](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Facturation pour les réservations d’Azure](https://go.microsoft.com/fwlink/?linkid=872809)
-- [Redimensionnement de machine virtuelle pour l’utilisation de réservation maximale](https://go.microsoft.com/fwlink/?linkid=872810)
+- [Dimensionnement d’une machine virtuelle en vue d’une utilisation optimale de la réservation](https://go.microsoft.com/fwlink/?linkid=872810)
 - [Partenaires API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="azure-hybrid-benefit"></a>Azure Hybrid Benefit

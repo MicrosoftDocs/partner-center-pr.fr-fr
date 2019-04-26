@@ -10,11 +10,11 @@ fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
 ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587102"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134621"
 ---
 # <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Transition de votre compte de l’appartenance au partenaire à partir du centre de l’appartenance au partenaire pour partenaires
 
@@ -56,7 +56,7 @@ Outre le [PMC au guide de transition de partenaires](https://assetsprod.microsof
 
   Connecter les informations d’identification de la formation des employés à votre profil d’entreprise pour garantir un accès permanent à l’Université de partenaire et pour bénéficier de compétences.
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
 Une fois que vous avez basculé avec succès votre compte à partir de PMC, passez en revue les articles suivants pour vous familiariser avec les partenaires.
 

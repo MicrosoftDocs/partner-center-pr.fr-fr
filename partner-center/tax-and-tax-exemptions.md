@@ -1,18 +1,18 @@
 ---
 title: Taxes et exonérations fiscales | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 1f6822568301576d1643346c21c56798bdb7c225
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430168"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134069"
 ---
 # <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 

@@ -1,19 +1,19 @@
 ---
 title: Migration des abonnements Skype Entreprise Online Plan 1 vers les nouvelles versions d’Office 365 | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Clients de transition avec Skype arrivant à expiration pour les abonnements en ligne Business Plan 1 à une option de référence (SKU) prises en charge. Nous vous recommandons de passer des clients aux nouveaux abonnements avant la date de fin de l’abonnement annuel.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Plans Skype Entreprise, retrait de Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586102"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133915"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migration des abonnements Skype Entreprise Online Plan 1 vers les nouvelles versions de Microsoft Office 365
 

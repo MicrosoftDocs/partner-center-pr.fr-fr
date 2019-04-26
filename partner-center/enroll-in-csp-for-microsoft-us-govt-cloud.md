@@ -1,17 +1,17 @@
 ---
 title: S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis | Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Avant de vous inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585642"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135579"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -73,7 +73,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
 
 2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
  
-## <a name="connect-with-us"></a>Communiquez avec nous
+## <a name="connect-with-us"></a>Nous contacter
 
 - Des questions ? Envoyez-nous un e-mail à l’adresse azgovcsp@microsoft.com
 
@@ -81,7 +81,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
 
 ## <a name="related-topics"></a>Rubriques connexes
 
--  [Partenaires de Microsoft Cloud pour gouvernement des États-Unis](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [Gestion des utilisateurs et de licence du centre de partenaires de Microsoft Cloud US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 

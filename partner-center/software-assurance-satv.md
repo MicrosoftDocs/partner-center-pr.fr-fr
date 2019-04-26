@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: inscrire des bons de formation, programme software assurance, formation, dans SATV, SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: c5da9989403ca2c984d73224709d14198f657a9e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584262"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134079"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) dans l’Espace partenaires
 

@@ -1,18 +1,18 @@
 ---
 title: Demandes de remboursement des incitations | Partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Envoyez vos demandes de primes incitatives sans avoir à faire vérifier votre plan d'activité auparavant.
 author: LauraBrenner
 ms.author: labrenne
 keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération
 ms.localizationpriority: medium
-ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430108"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135349"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Présentation de demandes de coopération aux primes incitatives
 
@@ -38,6 +38,6 @@ Une demande réussie comprend :
 |Une fois que vous avez soumis la demande, gérez les demandes de documentation supplémentaires|[Créer et gérer une revendication d’activité de programme primes](create-incentives-claims.md)  |
 |Assurez-vous que vous connaissez les conditions requises pour la demande d'activité|[Connaître les exigences principales primes destinées aux revendications](core-requirements.md)   |
 |Découvrir les détails complets du programme de primes incitatives|[Guide de co-op primes destinées aux partenaires](https://assets.microsoft.com/coop-guidebook.pdf)
-|Envoyer une revendication de frais OSA vente ou la revendication d’association ISV chiffre d’affaires |[Envoyez vos revendications OSA dans Partner Center](submit-osa-claim.md)|
+|Envoyer une revendication de frais OSA vente ou la revendication d’association ISV chiffre d’affaires |[Envoyer vos demandes OSA dans l’Espace partenaires](submit-osa-claim.md)|
                                                                                  
                                    

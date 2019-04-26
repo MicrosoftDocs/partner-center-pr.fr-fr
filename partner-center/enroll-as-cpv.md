@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: Fournisseur de panneau de contrôle, register CPV applications, gérer les applications CPV
 ms.localizationpriority: medium
 ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586052"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135559"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Inscrire dans le centre de partenaires en tant qu’un fournisseur de panneau de contrôle
 
@@ -27,7 +27,7 @@ Si vous êtes un fournisseur de panneau de contrôle en cours (CPV) ou un nouvea
 Examinez le [accord entre fournisseurs de panneau de contrôle de Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>Utilisation de partenaires
+## <a name="working-in-partner-center"></a>Travailler dans l’Espace partenaires
 Une fois que vous avez inscrits dans l’expérience de Partner Center CPV et accepté le contrat CPV que vous pouvez :
 
 - Gérer les applications mutualisées (ajouter des applications au portail Azure, inscrire et annuler l’inscription des applications dans le centre de partenaires).

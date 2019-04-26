@@ -1,7 +1,7 @@
 ---
 title: Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud, vous travaillez avec des fournisseurs indirects (également appelés distributeurs) qui ont une relation directe avec Microsoft et qui peuvent proposer le support client et la facturation.
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau 2, de niveau 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587782"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134441"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 

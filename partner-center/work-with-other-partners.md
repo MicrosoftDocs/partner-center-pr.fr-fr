@@ -1,17 +1,17 @@
 ---
 title: Collaborer avec d’autres partenaires | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Travaillez avec d’autres partenaires de fournisseur de solutions Cloud pour répondre aux besoins de vos clients communs.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a1fcf2a9121a53b6c2b299ac7ad484cd9f552c9e
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
-ms.translationtype: MT
+ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320722"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132959"
 ---
 # <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
