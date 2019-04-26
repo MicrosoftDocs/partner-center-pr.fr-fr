@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533847"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135089"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolider vos comptes de société
 
@@ -35,4 +35,4 @@ Dans PMC, il était possible pour chaque emplacement possède ses propres compé
 
 Dans le centre de partenaires, étant donné que tous les comptes d’emplacement seront consolidées dans un seul compte, les avantages et les compétences sont consolidés ainsi. 
 
-Pour plus d’informations sur les différences entre les partenaires et PMC, lisez [quitte PMC pour partenaires](pmc-pc-map.md)
+Pour plus d’informations sur les différences entre les partenaires et PMC, lisez [quitte PMC pour partenaires](pmc-to-partner-center.md)
