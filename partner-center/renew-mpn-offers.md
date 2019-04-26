@@ -1,43 +1,43 @@
 ---
 title: Renouveler vos offres MPN | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: La fenêtre de renouvellement de vos abonnements aux offres MPN commence à la date anniversaire de votre achat, plus un jour.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, renouvellement de compétence, date de renouvellement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e3008352b141625a974c78c11615161b29334eb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: f84493a8394188d56bc19ccd7e67af75f6fdd090
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586892"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134109"
 ---
-# <a name="renew-your-mpn-offers"></a><span data-ttu-id="2e027-104">Renouveler vos offres MPN</span><span class="sxs-lookup"><span data-stu-id="2e027-104">Renew your MPN offers</span></span>
+# <a name="renew-your-mpn-offers"></a><span data-ttu-id="ac25b-104">Renouveler vos offres MPN</span><span class="sxs-lookup"><span data-stu-id="ac25b-104">Renew your MPN offers</span></span>
 
-<span data-ttu-id="2e027-105">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="2e027-105">**Applies to**</span></span>
+<span data-ttu-id="ac25b-105">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="ac25b-105">**Applies to**</span></span>
 
-- <span data-ttu-id="2e027-106">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="2e027-106">Partner Center</span></span>
+- <span data-ttu-id="ac25b-106">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="ac25b-106">Partner Center</span></span>
 
-<span data-ttu-id="2e027-107">La fenêtre de renouvellement de vos abonnements aux offres MPN commence à la date anniversaire de votre achat, plus un jour.</span><span class="sxs-lookup"><span data-stu-id="2e027-107">Your MPN offers subscription renewal window begins on the anniversary of your purchase date plus one day.</span></span> <span data-ttu-id="2e027-108">Par exemple, si vous avez acheté le Microsoft Action Pack le 1er septembre 2018, la fenêtre de renouvellement commence le 2 septembre 2019.</span><span class="sxs-lookup"><span data-stu-id="2e027-108">For example, if you purchased the Microsoft Action Pack on September 1, 2018, your renewal window begins on September 2, 2019.</span></span> <span data-ttu-id="2e027-109">Vous pouvez renouveler votre abonnement dans le centre de partenaires.</span><span class="sxs-lookup"><span data-stu-id="2e027-109">You can renew your subscription in Partner Center.</span></span>
+<span data-ttu-id="ac25b-107">La fenêtre de renouvellement de vos abonnements aux offres MPN commence à la date anniversaire de votre achat, plus un jour.</span><span class="sxs-lookup"><span data-stu-id="ac25b-107">Your MPN offers subscription renewal window begins on the anniversary of your purchase date plus one day.</span></span> <span data-ttu-id="ac25b-108">Par exemple, si vous avez acheté le Microsoft Action Pack le 1er septembre 2018, la fenêtre de renouvellement commence le 2 septembre 2019.</span><span class="sxs-lookup"><span data-stu-id="ac25b-108">For example, if you purchased the Microsoft Action Pack on September 1, 2018, your renewal window begins on September 2, 2019.</span></span> <span data-ttu-id="ac25b-109">Vous pouvez renouveler votre abonnement dans le centre de partenaires.</span><span class="sxs-lookup"><span data-stu-id="ac25b-109">You can renew your subscription in Partner Center.</span></span>
 
-<span data-ttu-id="2e027-110">À partir de **partenaires**, sélectionnez **appartenance offre**.</span><span class="sxs-lookup"><span data-stu-id="2e027-110">From **Partner Center**, select **Membership offers**.</span></span>
-<span data-ttu-id="2e027-111">Sous l'onglet **Acheté**, pour chacune de vos offres achetées, vous pouvez voir :</span><span class="sxs-lookup"><span data-stu-id="2e027-111">On the **Purchased** tab, for each of your purchased offers, you can see:</span></span>
+<span data-ttu-id="ac25b-110">À partir de **partenaires**, sélectionnez **appartenance offre**.</span><span class="sxs-lookup"><span data-stu-id="ac25b-110">From **Partner Center**, select **Membership offers**.</span></span>
+<span data-ttu-id="ac25b-111">Sous l'onglet **Acheté**, pour chacune de vos offres achetées, vous pouvez voir :</span><span class="sxs-lookup"><span data-stu-id="ac25b-111">On the **Purchased** tab, for each of your purchased offers, you can see:</span></span>
 
-- <span data-ttu-id="2e027-112">Votre date d’expiration</span><span class="sxs-lookup"><span data-stu-id="2e027-112">Your expiration date</span></span>
-- <span data-ttu-id="2e027-113">État</span><span class="sxs-lookup"><span data-stu-id="2e027-113">Status</span></span>
-- <span data-ttu-id="2e027-114">les informations de renouvellement automatique</span><span class="sxs-lookup"><span data-stu-id="2e027-114">Auto-renewal information</span></span>
-- <span data-ttu-id="2e027-115">Vous pouvez désactiver le renouvellement automatique.</span><span class="sxs-lookup"><span data-stu-id="2e027-115">You can turn-off auto-renewal</span></span>
-- <span data-ttu-id="2e027-116">Vous pouvez gérer vos moyens de paiement</span><span class="sxs-lookup"><span data-stu-id="2e027-116">You can manage your payment options</span></span>
+- <span data-ttu-id="ac25b-112">Votre date d’expiration</span><span class="sxs-lookup"><span data-stu-id="ac25b-112">Your expiration date</span></span>
+- <span data-ttu-id="ac25b-113">État</span><span class="sxs-lookup"><span data-stu-id="ac25b-113">Status</span></span>
+- <span data-ttu-id="ac25b-114">les informations de renouvellement automatique</span><span class="sxs-lookup"><span data-stu-id="ac25b-114">Auto-renewal information</span></span>
+- <span data-ttu-id="ac25b-115">Vous pouvez désactiver le renouvellement automatique.</span><span class="sxs-lookup"><span data-stu-id="ac25b-115">You can turn-off auto-renewal</span></span>
+- <span data-ttu-id="ac25b-116">Vous pouvez gérer vos moyens de paiement</span><span class="sxs-lookup"><span data-stu-id="ac25b-116">You can manage your payment options</span></span>
 
-## <a name="renewal-reminders"></a><span data-ttu-id="2e027-117">Rappels de renouvellement</span><span class="sxs-lookup"><span data-stu-id="2e027-117">Renewal reminders</span></span>
+## <a name="renewal-reminders"></a><span data-ttu-id="ac25b-117">Rappels de renouvellement</span><span class="sxs-lookup"><span data-stu-id="ac25b-117">Renewal reminders</span></span>
 
-<span data-ttu-id="2e027-118">Vous disposez de 30 jours après la date anniversaire pour effectuer le renouvellement.</span><span class="sxs-lookup"><span data-stu-id="2e027-118">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="2e027-119">Vos avantages persistent pendant cette période.</span><span class="sxs-lookup"><span data-stu-id="2e027-119">Your benefits continue during that time.</span></span> <span data-ttu-id="2e027-120">Quinze jours avant la date anniversaire, Microsoft vous rappelle votre anniversaire à venir.</span><span class="sxs-lookup"><span data-stu-id="2e027-120">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="2e027-121">Vous recevrez un autre rappel 23 jours après la date anniversaire.</span><span class="sxs-lookup"><span data-stu-id="2e027-121">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="2e027-122">Lorsque vous effectuez le renouvellement dans la fenêtre Date anniversaire + 30 jours, vos avantages sont inchangés.</span><span class="sxs-lookup"><span data-stu-id="2e027-122">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="2e027-123">Si vous n'effectuez pas le renouvellement dans la fenêtre, vous perdrez vos avantages et vos compétences.</span><span class="sxs-lookup"><span data-stu-id="2e027-123">If you don’t renew within your renewal window, you’ll lose your benefits and competencies.</span></span>
+<span data-ttu-id="ac25b-118">Vous disposez de 30 jours après la date anniversaire pour effectuer le renouvellement.</span><span class="sxs-lookup"><span data-stu-id="ac25b-118">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="ac25b-119">Vos avantages persistent pendant cette période.</span><span class="sxs-lookup"><span data-stu-id="ac25b-119">Your benefits continue during that time.</span></span> <span data-ttu-id="ac25b-120">Quinze jours avant la date anniversaire, Microsoft vous rappelle votre anniversaire à venir.</span><span class="sxs-lookup"><span data-stu-id="ac25b-120">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="ac25b-121">Vous recevrez un autre rappel 23 jours après la date anniversaire.</span><span class="sxs-lookup"><span data-stu-id="ac25b-121">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="ac25b-122">Lorsque vous effectuez le renouvellement dans la fenêtre Date anniversaire + 30 jours, vos avantages sont inchangés.</span><span class="sxs-lookup"><span data-stu-id="ac25b-122">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="ac25b-123">Si vous n'effectuez pas le renouvellement dans la fenêtre, vous perdrez vos avantages et vos compétences.</span><span class="sxs-lookup"><span data-stu-id="ac25b-123">If you don’t renew within your renewal window, you’ll lose your benefits and competencies.</span></span>
 
-<span data-ttu-id="2e027-124">Lorsque vous effectuez le renouvellement pendant la fenêtre indiquée, votre nouvelle date anniversaire sera fixée à 365 jours après la date anniversaire actuelle.</span><span class="sxs-lookup"><span data-stu-id="2e027-124">When you renew during the renewal window, your new anniversary date will be 365 days post your current anniversary.</span></span>
+<span data-ttu-id="ac25b-124">Lorsque vous effectuez le renouvellement pendant la fenêtre indiquée, votre nouvelle date anniversaire sera fixée à 365 jours après la date anniversaire actuelle.</span><span class="sxs-lookup"><span data-stu-id="ac25b-124">When you renew during the renewal window, your new anniversary date will be 365 days post your current anniversary.</span></span>
 
-## <a name="manage-auto-renewal"></a><span data-ttu-id="2e027-125">Gérer le renouvellement automatique</span><span class="sxs-lookup"><span data-stu-id="2e027-125">Manage auto-renewal</span></span>
+## <a name="manage-auto-renewal"></a><span data-ttu-id="ac25b-125">Gérer le renouvellement automatique</span><span class="sxs-lookup"><span data-stu-id="ac25b-125">Manage auto-renewal</span></span>
 
-<span data-ttu-id="2e027-126">Lorsque le renouvellement automatique est activé, votre carte de crédit est débitée un jour après la date anniversaire.</span><span class="sxs-lookup"><span data-stu-id="2e027-126">When you have auto-renewal turned on, your credit card will be charged one day past your anniversary date.</span></span> <span data-ttu-id="2e027-127">Vous pouvez désactiver le renouvellement automatique à tout moment avant la date anniversaire.</span><span class="sxs-lookup"><span data-stu-id="2e027-127">You can turn off auto-renewal at any time before your anniversary date.</span></span>
+<span data-ttu-id="ac25b-126">Lorsque le renouvellement automatique est activé, votre carte de crédit est débitée un jour après la date anniversaire.</span><span class="sxs-lookup"><span data-stu-id="ac25b-126">When you have auto-renewal turned on, your credit card will be charged one day past your anniversary date.</span></span> <span data-ttu-id="ac25b-127">Vous pouvez désactiver le renouvellement automatique à tout moment avant la date anniversaire.</span><span class="sxs-lookup"><span data-stu-id="ac25b-127">You can turn off auto-renewal at any time before your anniversary date.</span></span>
