@@ -2,6 +2,11 @@
 
 # [Adhésion au réseau des partenaires](mpn-overview.md)
 ## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
+## Passer de PMC à l’Espace partenaires
+### [Guide de transition de PMC à l’Espace partenaires](guide-to-migration.md)
+### [Aperçu rapide des différences entre PMC et l’Espace partenaires](move-pmc-pc-map.md)
+### [Guide de migration de plusieurs entreprises vers l’Espace partenaires](move-multiple-companies.md)
+### [Regroupement de vos entreprises](consolidate-accounts.md)
 ## Offres d’adhésion
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renouveler vos offres](renew-mpn-offers.md)
@@ -46,7 +51,7 @@
 ## [Revendications de primes incitatives](claims-overview.md)
 ### [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)
 ### [Conditions requises pour les revendications de primes incitatives](core-requirements.md)
-### [Présentation du paiement des revendications de primes incitatives](incentives-payouts.md)
+### [Comprendre le paiement de vos primes incitatives](understand-incentive-payouts.md)
 ### [Envoyer vos demandes OSA dans l’Espace partenaires](submit-osa-claim.md)
 
 
@@ -58,7 +63,6 @@
 ## [Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)
 ## [Taxes et exonérations fiscales](tax-and-tax-exemptions.md)
 ## [Informations relatives à la TVA de votre organisation](organization-tax-info.md)
-## [Limites de crédit des comptes de fournisseur de solutions cloud](account-credit-limit.md)
 ## [Définir un budget Azure pour vos clients](set-an-azure-spending-budget-for-your-customers.md)
 ## [Exemples de facturation courants](common-billing-scenarios.md)
 ## [Défaut de paiement, fraude ou mauvaise utilisation](non-payment--fraud--or-misuse.md)

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134602"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035524"
 ---
 # <a name="welcome-to-partner-center"></a>Bienvenue dans l’Espace partenaires
 
@@ -85,9 +85,9 @@ L’Espace partenaires de Microsoft est l’endroit incontournable qui vous perm
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Programmes Software Assurance</h3>
-                        <p>Vous pouvez maintenant vous inscrire à la formation Software Assurance et aux services de déploiement de l’Espace partenaires.</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>Passer de PMC à l’Espace partenaires</h3>
+                        <p>Découvrez comment préparer votre entreprise à la migration vers l’Espace partenaires</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ L’Espace partenaires de Microsoft est l’endroit incontournable qui vous perm
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Outil de validation et d’échange de bons</h3>
-                        <p>Demandez et échangez des bons pour en faire bénéficier les entreprises de vos clients et vos besoins de développement.</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Programme Fournisseur de services managés Azure Expert</h3>
+                        <p>Votre entreprise est-elle championne dans la vente et le support d’Azure ? Voir les modalités d’inscription au programme Azure Expert MSP</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ L’Espace partenaires de Microsoft est l’endroit incontournable qui vous perm
                     </div>
                     <div class="cardText">
                         <h3>S’inscrire</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Créer un compte</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gérer votre locataire et vos emplacements</a></p>
+                        <p><a href="/partner-center/manage-locations">Gérer vos emplacements</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Gérer votre locataire</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ L’Espace partenaires de Microsoft est l’endroit incontournable qui vous perm
                     </div>
                     <div class="cardText">
                         <h3>Entrer en contact avec les clients</h3>
-                        <p><a href="/partner-center/customer-accounts">Comptes client</a><br /><a href="/partner-center/customer-subscriptions">Vendre des abonnements</a><br /><a href="/partner-center/assign-licenses-to-users">Gérer les licences</a><br /><a href="/partner-center/billing">Facturation</a></p>
+                        <p><a href="/partner-center/csp-offers">Acheter des produits pour les clients</a><br /><a href="/partner-center/customer-subscriptions">Vendre des abonnements</a><br /><a href="/partner-center/assign-licenses-to-users">Gérer les licences</a><br /><a href="/partner-center/billing">Facturation</a></p>
                     </div>
                 </div>
             </div>
