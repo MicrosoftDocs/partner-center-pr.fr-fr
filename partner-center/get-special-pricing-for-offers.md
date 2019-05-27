@@ -1,18 +1,18 @@
 ---
 title: Vendre aux secteurs spécialisés | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/14/2019
 Description: Microsoft fournit une tarification spéciale, réduit pour sélectionner des groupes de clients, notamment les clients de l’éducation, à but non lucratif et les utilisateurs du gouvernement.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
+ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135659"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "65623804"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendre aux secteurs spécialisés
 
@@ -32,6 +32,8 @@ Microsoft consent des tarifs préférentiels à certains clients, parmi lesquels
 
 
 ## <a name="check-your-reseller-qualifications"></a>Vérifier vos qualifications revendeur
+
+Les étapes suivantes sont appliquent uniquement aux fournisseurs indirects et directs partenaires de facture. Revendeurs indirects doivent se connecter avec un fournisseur indirect pour fournir des offres à prix réduit l’éducation aux utilisateurs de l’éducation qualifié. 
 
 1.  Dans votre Tableau de bord du partenaire, sélectionnez l’icône d’engrenage dans le coin supérieur droit de la fenêtre pour ouvrir les **Paramètres du compte**.
 2.  Dans votre **Profil de partenaire**, dans la section **Informations sur le programme**, recherchez **Qualifications revendeur**.

@@ -1,25 +1,25 @@
 ---
 title: Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/13/2019
 description: Vous pouvez maintenant acquérir, approvisionner et gérer des instances réservées Azure et des abonnements de serveur pour le compte de clients commerciaux via Microsoft Espace partenaires et le portail Azure en tirant parti de l'Azure Hybrid Benefit.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Fournisseur de solutions Cloud, CSP, services basés sur le Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134739"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176187"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
 
-En plaçant les réservations d’Azure et Windows Server et SQL Server d’abonnements dans le programme CSP de Microsoft, Microsoft permet mieux ses partenaires afin de répondre à la demande client croissante des solutions moins coûteuses prendre en charge devient très prévisible et charges de travail cloud persistants. 
+Avec les réservations Azure et des abonnements serveur (Windows Server et les abonnements SQL Server), partenaires dans le programme peut CSP, une meilleure adresse la demande client croissante des solutions moins coûteuses prendre en charge très prévisible et persistant charges de travail de cloud. 
 
-Maintenant, vous pouvez acquérir, configurer et gérer des réservations d’Azure et les abonnements de serveur pour le compte de clients commerciaux via Microsoft Partner Center et le portail Azure en tirant parti de l’offre Azure Hybrid Benefit. 
+Maintenant, vous pouvez acquérir, configurer et gérer des réservations d’Azure et les abonnements de serveur pour le compte de clients commerciaux via des partenaires et le portail Azure en tirant parti de l’offre Azure Hybrid Benefit. 
 
 Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le Windows Server Datacenter et les licences Standard prises en charge avec Software Assurance. Selon l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un taux de calcul de base inférieure, (par exemple, le taux de machine virtuelle Linux).
 
@@ -59,6 +59,16 @@ Après avoir acheté l’abonnement logiciel, suivez les étapes ci-dessous pour
 
 >[!NOTE]
 >Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se termine en premier. Une fois que le lien arrive à expiration, revenez à cette page, puis sélectionnez **Obtenir les clés et les téléchargements** à nouveau pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
+
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité pour l’accès aux clés de logiciels et des téléchargements de logiciels
+À des fins d’audit ou de conformité, vous devrez peut-être vérifier la liste des utilisateurs qui ont accès les clés de logiciels d’abonnement serveur ou téléchargé le logiciel d’abonnement serveur. Utilisez la procédure ci-dessous pour accéder à ces informations. 
+
+>[!NOTE]
+>Vous devez être un administrateur général, administrateur de compte, administrateur de référence ou administrateur contenu Marketing pour afficher ces journaux d’activité. 
+
+1.  Dans espace partenaires, sélectionnez l’icône d’engrenage dans le coin supérieur droit. 
+2.  Dans le menu, sélectionnez **journal d’activité**.
+3.  Entrez la plage de dates pour l’activité que vous souhaitez afficher. Le journal d’activité affiche une liste d’utilisateurs qui ont accès des clés logicielles ou téléchargé le logiciel pendant la période spécifiée. 
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 

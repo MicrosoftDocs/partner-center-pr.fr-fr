@@ -1,18 +1,18 @@
 ---
 title: Développer votre activité de partenaire Microsoft | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/23/2019
 description: Ressources pour développer votre activité de partenaire Microsoft. Explique notamment comment obtenir des prospects (références) de Microsoft.
 keywords: références, répondre à des références, prospect, prospects, profil commercial, profil d’entreprise, développer votre activité, opportunités commerciales, compétences, niveau d'adhésion argent, niveau d'adhésion or, offres d’essai, extension de marché, clouds nationaux
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 9117b1ba43d809eb1e1c51b6ba28ac52a73ddd18
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135629"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176179"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Développer votre activité de partenaire Microsoft 
 
@@ -33,7 +33,7 @@ Utilisez l'Espace partenaires pour :
 
 |  **Pour ce faire**  |  **Lire ce fichier pour découvrir comment**  |  **S’applique à**  |
 |--------------|-----------|--------------
-| Obtenir et gérer des prospects | Commencez par la [création d’un profil d’entreprise](create-a-marketing-profile.md) pour que les clients puissent vous trouver quand ils recherchent des fournisseurs de solutions, puis lisez la rubrique [Gestion des prospects dans l'Espace partenaires](responding-to-referrals.md). | Tous les partenaires du réseau |
+| Obtenir et gérer des prospects | Commencez par [création d’un profil d’entreprise](create-a-marketing-profile.md) afin que les clients puissent vous trouver lorsqu’ils rechercher des fournisseurs de solutions, puis en savoir plus sur [répond aux références](responding-to-referrals.md). | Tous les partenaires du réseau |
 | Obtenir le statut de partenaire Argent ou Or | Lisez [Partenaires de compétence](https://partner.microsoft.com/membership/competencies) sur le site Microsoft Partner Network pour savoir quels sont les critères d'accès aux niveaux d’adhésion Argent et Or. Lorsque vous êtes prêt à transmettre les informations sur vos compétences à l'Espace partenaires, lisez [Gestion de vos compétences dans l'Espace partenaires](competencies.md). | Tous les partenaires du réseau |
 | Proposer à vos clients des abonnements d’essai aux produits Microsoft | Lisez [Proposer à vos clients des essais des produits Microsoft](offer-your-customers-trials-of-microsoft-products.md) pour savoir comment utiliser les abonnements d’essai pour augmenter les ventes auprès de votre base de clients.| Partenaires fournisseurs de solutions Cloud |
 | Proposer à vos clients des tarifs promotionnels sur les abonnements Microsoft | Microsoft propose occasionnellement des promotions sur les abonnements basés sur les licences, qui vous permettent de répercuter les économies sur les clients et de développer votre activité. Lisez [Proposer à vos clients des tarifs promotionnels sur les abonnements Microsoft](promotions.md) pour savoir comment faire. | Partenaires fournisseurs de solutions Cloud |
