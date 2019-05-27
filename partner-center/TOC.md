@@ -17,6 +17,9 @@
 ### [Utilisez l’outil de validation et d’échange de bons de l’Espace partenaires pour valider, réserver et échanger des bons](voucher-validation-tool.md)
 ### [Questions fréquentes (FAQ) : utilisation de l’outil de validation et d’échange de bons](vvr-faq.md)
 ### [Services de planification Software Assurance dans l’Espace partenaires](software-assurance-dps.md)
+## Factures et taxes
+### [Factures et taxes dans le Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+
 
 # [Fournisseur de solutions cloud](csp-overview.md)
 ## [S’inscrire au programme Fournisseur de solutions cloud](enrolling-in-the-csp-program.md)
