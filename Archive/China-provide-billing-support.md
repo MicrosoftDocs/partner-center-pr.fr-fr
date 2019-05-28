@@ -6,11 +6,11 @@ description: Vous possédez la relation de facturation avec vos clients et gére
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a345a5594fd0f8cc58910863a7162b96eec37f17
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585762"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132449"
 ---
 # <a name="provide-billing-support"></a>Proposer une assistance à la facturation
 
@@ -31,7 +31,7 @@ Pour la facturation de litiges ou d’autres problèmes de facturation que vous 
 
 **Voir aussi**
 
--   [Non-paiement, de fraudes ou de mauvaise utilisation](non-payment-fraud-or-misuse.md)
--   [Fournir un support technique](provide-technical-support.md)
--   [Le support technique](customer-support.md)
+-   [Défaut de paiement, fraude ou mauvaise utilisation](non-payment-fraud-or-misuse.md)
+-   [Proposer un support technique](provide-technical-support.md)
+-   [Service clientèle](customer-support.md)
 
