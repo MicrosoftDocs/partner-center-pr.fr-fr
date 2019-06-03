@@ -7,6 +7,7 @@
 ### [Aperçu rapide des différences entre PMC et l’Espace partenaires](move-pmc-pc-map.md)
 ### [Guide de migration de plusieurs entreprises vers l’Espace partenaires](move-multiple-companies.md)
 ### [Regroupement de vos entreprises](consolidate-accounts.md)
+
 ## Offres d’adhésion
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renouveler vos offres](renew-mpn-offers.md)
@@ -36,6 +37,7 @@
 
 # [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
 ## [Comptes professionnels et l’Espace partenaires](azure-active-directory-tenants-and-partner-center.md)
+## [Structure des comptes dans l'Espace partenaires](account-structure.md)
 ## [Mettre à jour votre profil de partenaire](update-your-partner-profile.md)
 ## [Emplacements](manage-locations.md)
 ## [Restaurer un compte Espace partenaires suspendu](suspended-partner-center-account.md)
