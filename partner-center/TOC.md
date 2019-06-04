@@ -2,6 +2,7 @@
 
 # [Adhésion au réseau des partenaires](mpn-overview.md)
 ## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
+## [Structure des comptes dans l’Espace partenaires](account-structure.md)
 ## Passer de PMC à l’Espace partenaires
 ### [Guide de transition de PMC à l’Espace partenaires](guide-to-migration.md)
 ### [Aperçu rapide des différences entre PMC et l’Espace partenaires](move-pmc-pc-map.md)
@@ -67,6 +68,7 @@
 ## [Lire votre facture](read-your-bill.md)
 ## [Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)
 ## [Taxes et exonérations fiscales](tax-and-tax-exemptions.md)
+## [Vérifier que vous êtes crédité pour la retenue à la source](withholding-tax-credit-form.md)
 ## [Informations relatives à la TVA de votre organisation](organization-tax-info.md)
 ## [Définir un budget Azure pour vos clients](set-an-azure-spending-budget-for-your-customers.md)
 ## [Exemples de facturation courants](common-billing-scenarios.md)
