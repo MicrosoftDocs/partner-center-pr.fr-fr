@@ -6,12 +6,12 @@ description: Éléments à considérer avant de passer votre entreprise de PMC p
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 68761169088d8590b3330d72927d38ba2ab77a77
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131989"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145355"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre déplacement à partir de partenaire Membership Center (PMC) pour les partenaires
 
@@ -113,6 +113,14 @@ Oui, compentencies ne seront pas affectés par le passage à des partenaires. Si
  **Mes avantages (y compris les avantages du cloud, support technique, avantages des logiciels, Visual Studio) changera une fois que nous passons ?**
 
  Vos avantages éligibles ne changera pas. Si vous remarquez des écarts, contactez [prise en charge](https://partner.microsoft.com/support).
+
+ **Seront honorées nos comptes Microsoft qui ont des allocations des avantages de Visual Studio ?**
+
+ Oui. Avantages Wisual Studio allouées aux comptes de service administrés seront honorées et conservées. Elles sont également conservées après le renouvellement de partenaires. Toutefois, si vous supprimez une allocation MSA une fois migrés dans Partner Center, il ne peut pas être rajoutée à Partner Center.
+
+Seul l’administrateur MPN pouvez ajouter des allocations d’avantage de Visual Studio pour les comptes professionnels dans le locataire Azure AD d’entreprise.
+
+L’administrateur général pour plusieurs locataires AAD lorsque tous les locataires sont associés au même compte de partenaires, peut ajouter des utilisateurs sur tous les locataires de ces avantages de Visual Studio et Azure allocations basée sur l’utilisation. 
 
  **Comment dois-je gérer notre associations MCP et notre accès Partner University ?**
 
