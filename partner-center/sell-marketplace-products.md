@@ -1,18 +1,18 @@
 ---
 title: Vendre des abonnements aux produits de la place de marché Azure | Partenaires
 ms.topic: article
-ms.date: 04/04/2019
+ms.date: 06/10/2019
 description: Vous pouvez utiliser les partenaires pour vendre des abonnements aux logiciels de vos clients en tant que Service (SaaS) produits publiés sur la place de marché Azure par les éditeurs de logiciels indépendants (ISV).
 author: JnHs
 ms.author: jenhayes
 keywords: abonnements, la place de marché tierce partie, éditeurs de logiciels indépendants
 ms.localizationpriority: medium
-ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133829"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67045071"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Vendre des abonnements à des produits de la Place de marché Azure
 
@@ -46,6 +46,9 @@ Notez que j’avais offre que vous voyez dans le **place de marché** page n’e
 > Vous pouvez également utiliser [Partner Center API](https://docs.microsoft.com/partner-center/develop/) pour créer des abonnements place de marché Azure pour vos clients. Pour plus d’informations, consultez [créer un abonnement pour les produits de la place de marché Azure](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
 Avec les abonnements aux produits de la place de marché Azure, vous avez la possibilité à [annuler l’abonnement](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription) pendant la période d’annulation (24 heures pour les abonnements mensuels ou 14 jours pour les abonnements annuels). Vous pouvez également [choisissez s’il faut renouveler automatiquement l’abonnement](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription).
+
+> [!NOTE]
+> Pour [produits de la place de marché Azure](sell-marketplace-products.md), attribution de licence et l’activation est géré via le logiciel éditeur indépendant (ISV) qui a publié le produit.
 
 ## <a name="access-billing-info-for-marketplace-products"></a>Accéder aux informations de facturation pour les produits de la place de marché
 

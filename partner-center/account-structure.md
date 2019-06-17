@@ -1,18 +1,18 @@
 ---
 title: La structure de compte dans l’espace partenaires | Partenaires
 ms.topic: article
-ms.date: 05/31/2019
+ms.date: 06/13/2019
 description: Votre entreprise possède deux niveaux de comptes de partenaires.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
-ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
+ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "66458879"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131716"
 ---
 # <a name="the-account-structure-in-partner-center"></a>La structure de compte Centre de partenaires
 
@@ -28,7 +28,7 @@ Votre entreprise possède deux niveaux de comptes de partenaires.
 
 ### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>Le deuxième compte de niveau est le compte de l’emplacement appelé emplacement de partenaire de compte (PLA).
 
-Votre service PGA peut avoir des sites supplémentaires dans cette section. Chaque emplacement possède son propre ID MPN.  Vous utiliser l’emplacement ID MPN pour métiers transactionnelles telles que le programme fournisseur de solutions Cloud, pour inscrire dans les programmes d’encouragement, ajouter une référence et être payé. 
+Votre service PGA peut avoir des sites supplémentaires dans cette section. Chaque emplacement possède son propre ID MPN ou l’emplacement de partenaire de compte (PLA). Vous utilisez l’emplacement ID MPN pour métiers transactionnelles et d’inscription dans les programmes d’encouragement.
 
 - Chaque compte de Location de partenaire peut avoir sa propre adresse légale et le contact principal. Emplacements peuvent également partager l’adresse légale avec le compte global ou avec d’autres emplacements.
 - Afficher la liste des comptes d’emplacement de partenaire à partir des paramètres de partenaire -> emplacements.

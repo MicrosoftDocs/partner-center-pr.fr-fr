@@ -1,19 +1,19 @@
 ---
 title: Tâches de gestion des utilisateurs pour des comptes client | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/10/2019
 description: Lorsque vous achetez un nouvel abonnement pour un client, vous pouvez attribuer des licences à certains utilisateurs.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gestion de client, compte, créer le compte, licences, affecter une licence, gestion de l’utilisateur, mot de passe, réinitialiser le mot de passe, modifier le mot de passe
 ms.localizationpriority: medium
-ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fa8aabcc668630906fa2c9b3a88abbaee8a89693
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134869"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67044991"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tâche de gestion des utilisateurs pour des comptes client
 
@@ -21,16 +21,15 @@ ms.locfileid: "62134869"
 
 -  Espace partenaires
 
-
-
 Vous pouvez créer et supprimer de nouveaux utilisateurs dans un compte client. Vous pouvez également restaurer un ou plusieurs comptes d’utilisateur auparavant supprimés dans les 30 jours qui suivent la suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
 
-Lorsque vous achetez de nouveaux abonnements pour un client, le client doit vous fournir une liste indiquant tous les utilisateurs qui ont besoin d'un compte, leurs autorisations d’utilisateur et les services dont chaque utilisateur a besoin.  
+Lorsque vous achetez de nouveaux abonnements pour un client, le client devrait vous donner une liste de tous les utilisateurs qui aura besoin de comptes, leurs autorisations utilisateur, et les services qui, chaque utilisateur a besoin.  
 
 Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md) à la fois en important les noms à l'aide d'un [fichier .csv compatible avec Excel](adding-multiple-users-to-a-customer-account.md).
 
 <a href="" id="createuseraccounts"></a>
-**Créer des comptes d’utilisateur pour un client**
+
+## <a name="create-user-accounts-for-a-customer"></a>Créer des comptes d’utilisateur pour un client
 
 1.  À partir de la **partenaires** menu, sélectionnez **clients**. Dans la liste, choisissez un client.
 
@@ -38,14 +37,15 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 
 3.  Pour chaque utilisateur, sélectionnez **Ajouter un utilisateur**, puis renseignez les informations, y compris les autorisations et les licences. Cliquez sur **Enregistrer** pour enregistrer vos modifications.
 
-4.  Veillez à enregistrer le nom d’utilisateur et le mot de passe temporaire à envoyer à l’utilisateur. 
+4.  Veillez à enregistrer le nom d’utilisateur et le mot de passe temporaire à envoyer à l’utilisateur.
 
-5.  Si vous ajoutez plusieurs utilisateurs un par un, utilisez **Ajouter un autre utilisateur**. 
+5.  Si vous ajoutez plusieurs utilisateurs un par un, utilisez **Ajouter un autre utilisateur**.
 
 6. Vous pouvez également ajouter plusieurs utilisateurs à la fois en [important un fichier .csv compatible avec Excel](adding-multiple-users-to-a-customer-account.md). Si vous ajoutez plusieurs utilisateurs en même temps à l’aide de l’option Ajouter un autre utilisateur ou en important un fichier .csv compatible avec Excel, vous pouvez attendre d’avoir terminé l’ensemble de la procédure avant d’imprimer ces noms et mots de passe ou de les envoyer par courrier électronique à partir de l’écran de confirmation.
 
 <a href="" id="userlicensing"></a>
-**Ajouter ou supprimer des licences utilisateur pour un client**
+
+## <a name="add-or-remove-user-licenses-for-a-customer"></a>Ajouter ou supprimer des licences d’utilisateur pour un client
 
 1.  À partir de la **partenaires** menu, sélectionnez **clients**. Dans la liste, choisissez le client.
 
@@ -55,8 +55,12 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 
 4.  Sélectionnez **Gérer les licences**. Apportez vos modifications, puis sélectionnez **Enregistrer**.
 
+> [!NOTE]
+> Pour [produits de la place de marché Azure](sell-marketplace-products.md), attribution de licence et l’activation est géré via le logiciel éditeur indépendant (ISV) qui a publié le produit.
+
 <a href="" id="resetpassword"></a>
-**Réinitialiser un mot de passe utilisateur pour un client**
+
+## <a name="reset-a-users-password-for-a-customer"></a>Réinitialiser le mot de passe d’un utilisateur pour un client
 
 1.  À partir de la **partenaires** menu, sélectionnez **clients**. Dans la liste, choisissez le client.
 
@@ -67,7 +71,8 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 4.  Envoyez le nouveau mot de passe temporaire à l’utilisateur.
 
 <a href="" id="deleteuseraccounts"></a>
-**Supprimer des comptes d’utilisateur pour un client**
+
+## <a name="delete-user-accounts-for-a-customer"></a>Supprimer les comptes d’utilisateur d’un client
 
 1.  À partir de la **partenaires** menu, sélectionnez **clients**. Dans la liste, choisissez le client.
 
@@ -78,13 +83,14 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 Si vous devez restaurer ce compte, vous le trouverez dans l’onglet **Utilisateurs supprimés** de la liste **Utilisateurs et licences** du client. Vous avez 30 jours pour restaurer un utilisateur supprimé.
 
 <a href="" id="restoreuseraccounts"></a>
-**Restaurer les comptes d’utilisateur supprimé**
+
+## <a name="restore-deleted-user-accounts"></a>Restaurer des comptes d’utilisateur supprimés
 
 1.  À partir de la **partenaires** menu, sélectionnez **clients**, puis sélectionnez le client dans la liste.
 
 2.  Sélectionnez **Utilisateurs et licences**.
 
-3.  Sélectionnez l’onglet **Utilisateurs supprimés (&nbsp;)**. Vous devez lire **(1)** ou une valeur supérieure lorsqu’il existe des utilisateurs supprimés qui peuvent être restaurés.
+3.  Sélectionnez l’onglet **Utilisateurs supprimés (&nbsp;)** . Vous devez lire **(1)** ou une valeur supérieure lorsqu’il existe des utilisateurs supprimés qui peuvent être restaurés.
 
 4.  Activez une ou plusieurs cases à cocher correspondant aux utilisateurs supprimés, puis sélectionnez **Restaurer**.
 
@@ -96,10 +102,3 @@ Si vous devez restaurer ce compte, vous le trouverez dans l’onglet **Utilisate
 [Attribuer ou révoquer des licences pour plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md)
 
 [Créer des utilisateurs multiples pour un compte client](adding-multiple-users-to-a-customer-account.md)
-
- 
-
- 
-
-
-

@@ -6,12 +6,12 @@ description: Affichez les revenus et les paiements se rapportant aux programmes 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ee731d2d137eef4ecf97dcbc77d36c121090d9a
-ms.sourcegitcommit: 5e67a2540b0ff9eb248e5dc41b9d9ad1fc900b36
+ms.openlocfilehash: 15afa996f96d53e35a08806a6c1c6a0e67613c4b
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "66819948"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145380"
 ---
 # <a name="view-your-incentives-payments-information"></a>Afficher vos informations de paiements de primes
 
@@ -33,9 +33,7 @@ Pour ouvrir une des pages incitations :
 ## <a name="payments-page"></a>Page de paiements
 Les totaux sur cette page représentent tous les ID MPN que vous utilisez. Vous pouvez filtrer par ID de Participant, programme, ID de paiement et Earning type. Reçoivent des montants en dollars américains. La valeur payante s’affiche également dans pay pour devise. 
 
-Pour exporter les données sur cette page, sélectionnez **exporter** puis suivez les instructions sur la page de données d’exportation. 
-
-|**Champ**  |**Description**    |
+|**Zone**   |**Description**    |
 |------------------|:-------------------------------------|
 |Total payé cette année        |Le total combiné payées à vous cette année, en dollars américains, pour l’ensemble de votre ID MPN.                                      |
 |Prochain paiement estimé      |Le seul paiement suivant chez vous (même s’il existe d’autres sera bientôt disponible), en dollars américains.                                     |
@@ -43,21 +41,14 @@ Pour exporter les données sur cette page, sélectionnez **exporter** puis suive
 |Paiements par source       |Montant des paiements, en dollars américains, représenté par programme au cours des 12 derniers mois.                                      |
 |Paiements                       |Sélectionnez **payant** ou **en attente** et trier puis que vous le souhaitez. Pour plus d’informations d’un paiement spécifique, sélectionnez **vue**. Pour télécharger une copie de l’instruction de remise de paiement, sélectionnez **télécharger**. Notez que les données d’historique de transaction peuvent prendre jusqu'à 24 heures pour apparaître, donc vous ne voyiez pas les bénéfices associés tout de suite.  |
 
+Pour exporter les données sur cette page, sélectionnez **exporter** puis suivez les instructions sur la page de données d’exportation. 
+
 ## <a name="transaction-history-page"></a>Page Historique de transactions
 Cette page affiche toutes vos revenus individuelles, y compris la date, type et l’obtention pour chacune. Vous pouvez sélectionner une période à afficher, et vous pouvez également filtrer par ID d’inscription, programme, ID de paiement, type Earning, levier et état. Données sont disponibles pour l’année fiscale en cours (1er juillet-30 juin) et les deux exercices fiscaux précédents. 
 
 Pour plus d’informations sur : un bénéfice, sélectionnez la flèche bas à droite de la page. Ceci affichera la manette, le montant du chiffre d’affaires, le produit et le client. Si pour une raison quelconque, un de ces données ne sont pas disponibles, mais vous devez avoir accès à ce dernier, contactez le support technique. Si le gagnant est le résultat d’un ajustement et pas une transaction, les champs de produit et client ne seront pas affichés. 
 
 Pour exporter les données de transaction sur cette page, sélectionnez **exporter** puis suivez les instructions sur la page de données d’exportation. Fichiers exportés à partir de la page de l’historique des transactions affichent les données dans la devise de transaction, dans la devise de la transaction et le dollar américain, les bénéfices et la valeur payante dans payer une devise. 
-
-## <a name="export-data-page"></a>Page de données d’exportation
-Suivez les instructions de cette page pour exporter les données souhaitées. 
-
-**Remarques :**
--   Vous voyez uniquement les données pour les ID MPN et les programmes que vous êtes associé. Si vous souhaitez accéder aux données supplémentaires, contactez votre administrateur de primes. 
--   Lorsque vous accédez à cette page à partir de deux paiements ou la page Historique de transactions, vos filtres ne mènent pas. Vous devez à nouveau la configuration de la page de données d’exportation. 
--   La page de données d’exportation n’actualise pas sur son propre. Vous devrez peut-être actualiser la page manuellement pour afficher des données les plus récentes. 
--   Votre filtre peut entraîner un **aucune donnée disponible** erreur. Cela signifie probablement vous avez laissé la valeur par défaut période sélectionnée à trois mois et ensuite sélectionné un ID paiement gagne qui se trouve en dehors de cette période. Développez votre période de temps et réessayez. 
 
 ## <a name="payment-status"></a>Statut du paiement
 
@@ -77,6 +68,14 @@ Suivez les instructions de cette page pour exporter les données souhaitées.
 |Facture de taxe en cours de validation        |Votre facture de taxe est en cours de révision. Votre paiement sera disponible une fois que la facture a été approuvée.           |Non        |
 |Rejeté        |Le paiement a été rejeté par votre banque.           |Pour plus d’informations, contactez votre banque.  |
 
+## <a name="export-data-page"></a>Page de données d’exportation
+Suivez les instructions de cette page pour exporter les données souhaitées. 
+
+**Remarques :**
+-   Vous voyez uniquement les données pour les ID MPN et les programmes que vous êtes associé. Si vous souhaitez accéder aux données supplémentaires, contactez votre administrateur de primes. 
+-   Lorsque vous accédez à cette page à partir de deux paiements ou la page Historique de transactions, vos filtres ne mènent pas. Vous devez à nouveau la configuration de la page de données d’exportation. 
+-   La page de données d’exportation n’actualise pas sur son propre. Vous devrez peut-être actualiser la page manuellement pour afficher des données les plus récentes. 
+-   Votre filtre peut entraîner un **aucune donnée disponible** erreur. Cela signifie probablement vous avez laissé la valeur par défaut période sélectionnée à trois mois et ensuite sélectionné un ID paiement gagne qui se trouve en dehors de cette période. Développez votre période de temps et réessayez. 
 
 ## <a name="payment-download-export"></a>Exportation de téléchargement de paiement
 Cette option fournit un téléchargement de paiements vous avez reçu dans votre banque pour un programme donné, la taxe associée et agrégées recevant quantité.
@@ -117,7 +116,7 @@ Cette option fournit un téléchargement de chaque élément de ligne recevant, 
 |transactionAmountUSD   |Montant de la transaction en dollars américains   |
 |Levier   |Indique la règle d’entreprise pour l’obtention   |
 |earningRate   |Encouragement taux appliqué sur le montant de la transaction pour générer une obtention   |
-|Quantité |Ce champ varie en fonction du programme. Pour les programmes transactionnels il indique la quantité à payer. |
+|quantity |Ce champ varie en fonction du programme. Pour les programmes transactionnels il indique la quantité à payer. |
 |earningType   |Indique s’il s’agit d’un tarif rebate, coop, vente, etc.   |
 |earningAmount   |L’obtention de quantité dans la devise de transaction d’origine   |
 |earningAmountUSD   |L’obtention de montant en dollars américains   |

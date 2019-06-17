@@ -9,12 +9,12 @@ Keywords: compte, e-mail, locataire, client Azure, créez le compte, le nom de d
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f668ea5ebdb97d2cf02febb94584b6cf707e3bca
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134729"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131704"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Compte professionnel de votre entreprise et l’Espace partenaires  
 
@@ -26,23 +26,32 @@ ms.locfileid: "62134729"
 
 Nous devons associer le compte professionnel de votre entreprise à votre nouveau compte Espace partenaires, afin que les utilisateurs de ce compte puissent se connecter à l’Espace partenaires à l’aide de leur nom d’utilisateur et mot de passe.
 
-Si votre entreprise dispose déjà d’un compte professionnel, vous pouvez l’associer à votre compte Espace partenaires. 
+## <a name="the-work-account-email-address"></a>L’adresse de messagerie de compte de travail
+
+Votre compte professionnel ou une adresse de messagerie professionnelle est l’adresse de messagerie fournie par votre entreprise. Une adresse de messagerie professionnelle compte se trouve généralement dans le format you@yourcompany.com. Les adresses e-mail personnelles tel que Hotmail, Gmail etc. ne sont pas adresse de messagerie professionnelle et ne peut pas être utilisé pour votre compte espace partenaires. 
+
+Si vous avez plusieurs adresses de messagerie de travail valide, utilisez celui qui est associé à votre siège de l’entreprise plutôt que les services régionaux, par exemple, utiliser votre adresse de messagerie contoso.com plutôt que l’adresse contoso.uk.
 
 > [!NOTE]  
 >  Avant de décider d’utiliser un compte de travail existant, pense que sur le nombre d’utilisateurs dans le compte devra travailler dans l’espace partenaires. Si vous avez des utilisateurs dans le compte qui ne doivent travailler dans l’espace partenaires, envisagez de créer un nouveau compte pour seulement ces utilisateurs ont besoin de travailler dans l’espace partenaires.
 
-Si votre entreprise ne possède pas de compte professionnel, vous pouvez en créer un au cours du processus d’inscription. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Vous ne savez pas si votre entreprise a déjà un compte professionnel ?
 
 Si vous ignorez si votre entreprise dispose d’un compte professionnel, procédez comme suit pour le vérifier. Notez que si vous avez un abonnement actif à Microsoft Azure ou Office 365, vous disposez déjà d’un compte professionnel.
+
 1.  Connectez-vous au portail Azure à l’adresse https://ms.portal.azure.com
 2.  Dans le menu, sélectionnez Azure Active Directory, puis Noms de domaine.
 3.  Si vous disposez déjà d’un compte professionnel, votre nom de domaine est répertorié dans la liste.
 
-## <a name="using-an-existing-work-account"></a>Utilisation d’un compte professionnel existant
+Si votre entreprise ne possède pas de compte professionnel, vous pouvez en créer un au cours du processus d’inscription.
 
-Si vous souhaitez utiliser un compte professionnel existant, mais que vous rencontrez des problèmes de connexion, recherchez le scénario correspondant le mieux à votre situation dans le diagramme ci-dessous et suivez les étapes recommandées. 
+Le diagramme ci-dessous décrit les étapes pour plusieurs scénarios classiques :
+
+- déterminer si vous disposez d’un compte professionnel 
+- déterminer comment vous connecter à votre compte professionnel 
+- déterminer si vous devez créer un compte professionnel.
+
 
 ![Vous disposez d’un compte professionnel ou vous devez en créer un ?](images/onboardingAADFlow.png)
 
