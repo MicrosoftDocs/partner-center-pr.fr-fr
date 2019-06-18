@@ -6,12 +6,12 @@ description: Éléments à considérer avant de passer votre entreprise de PMC p
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145355"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157329"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre déplacement à partir de partenaire Membership Center (PMC) pour les partenaires
 
@@ -116,11 +116,13 @@ Oui, compentencies ne seront pas affectés par le passage à des partenaires. Si
 
  **Seront honorées nos comptes Microsoft qui ont des allocations des avantages de Visual Studio ?**
 
- Oui. Avantages Wisual Studio allouées aux comptes de service administrés seront honorées et conservées. Elles sont également conservées après le renouvellement de partenaires. Toutefois, si vous supprimez une allocation MSA une fois migrés dans Partner Center, il ne peut pas être rajoutée à Partner Center.
 
-Seul l’administrateur MPN pouvez ajouter des allocations d’avantage de Visual Studio pour les comptes professionnels dans le locataire Azure AD d’entreprise.
+ Oui. Les avantages de Visual Studio allouées aux comptes de service administrés seront honorées et conservées. Elles sont également conservées après le renouvellement de partenaires. Toutefois, si vous supprimez une allocation MSA une fois migrés dans Partner Center, il ne peut pas être rajoutée à Partner Center.
 
-L’administrateur général pour plusieurs locataires AAD lorsque tous les locataires sont associés au même compte de partenaires, peut ajouter des utilisateurs sur tous les locataires de ces avantages de Visual Studio et Azure allocations basée sur l’utilisation. 
+Dans Partner Center, un partenaire peut ajouter des comptes professionnels et les comptes d’utilisateur invité qui sont MSA provenant du même locataire où le partenaire est administrateur MPN dans le locataire Azure AD. Si le partenaire est un administrateur global dans plusieurs locataires Azure AD et que tous les clients de ces soient associés au même compte de partenaires, le partenaire est autorisé pour ajouter des utilisateurs sur tous les locataires ces dans les avantages de Visual Studio et les allocations basée sur l’utilisation de Azure.
+
+Bien que les utilisateurs invités peuvent recevoir basée sur l’utilisation des abonnements de Visual Studio par l’administrateur MPN ou l’administrateur global, les utilisateurs invités connexion impossible à l’espace partenaires à l’aide de leur compte de service administré. Les utilisateurs invités peuvent, toutefois, la connexion à Azure et Visual Studio pour valider et utiliser leurs avantages attribués.
+
 
  **Comment dois-je gérer notre associations MCP et notre accès Partner University ?**
 
