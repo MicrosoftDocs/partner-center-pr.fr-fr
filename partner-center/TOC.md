@@ -2,8 +2,9 @@
 
 # [Adhésion au réseau des partenaires](mpn-overview.md)
 ## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
-## [Structure des comptes dans l’Espace partenaires](account-structure.md)
+## [Guide pratique pour obtenir une adresse e-mail professionnelle](buy-email-domain.md)
 ## Passer de PMC à l’Espace partenaires
+### [Préparer votre transition du Partner Membership Center vers l’Espace partenaires](prepare-pmc-pc-migration.md)
 ### [Guide de transition de PMC à l’Espace partenaires](guide-to-migration.md)
 ### [Aperçu rapide des différences entre PMC et l’Espace partenaires](move-pmc-pc-map.md)
 ### [Guide de migration de plusieurs entreprises vers l’Espace partenaires](move-multiple-companies.md)
@@ -39,6 +40,7 @@
 # [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
 ## [Comptes professionnels et l’Espace partenaires](azure-active-directory-tenants-and-partner-center.md)
 ## [Structure des comptes dans l'Espace partenaires](account-structure.md)
+## [Vérifier vos informations de compte](verification-responses.md)
 ## [Mettre à jour votre profil de partenaire](update-your-partner-profile.md)
 ## [Emplacements](manage-locations.md)
 ## [Restaurer un compte Espace partenaires suspendu](suspended-partner-center-account.md)
