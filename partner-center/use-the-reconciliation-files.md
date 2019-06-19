@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132779"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193424"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -39,6 +39,10 @@ Il peut arriver que votre fichier de rapprochement peut-être des problèmes de 
 
 <li>Dans le champ de format de données de colonne, sélectionnez <strong>texte</strong> pour tout montant de colonnes, puis sélectionnez <strong>Terminer</strong>.</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>Téléchargement d’un fichier de rapprochement volumineux
+
+Fichiers de rapprochement peuvent devenir très volumineux et sont parfois difficiles à télécharger. Pour un script PowerShell aider à télécharger de gros fichiers de rapprochement, consultez [Get facturation](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
 
 ## <a href="" id="itemizebypartner"></a>Détailler par partenaire
 
@@ -204,7 +208,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Symbole monétaire</td>
+<td>Currency</td>
 <td><p>Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’elle correspond à votre première facture, et revérifiez après toute mise à jour importante de la plateforme de facturation.</p></td>
 <td>EUR</td>
 </tr>
@@ -408,7 +412,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <td>$0.93</td>
 </tr>
 <tr class="odd">
-<td>Symbole monétaire</td>
+<td>Currency</td>
 <td><p>Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’elle correspond à votre première facture, et revérifiez après toute mise à jour importante de la plateforme de facturation.</p></td>
 <td>EUR</td>
 </tr>
@@ -652,7 +656,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="even">
-<td>Symbole monétaire</td>
+<td>Currency</td>
 <td><p>Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’elle correspond à votre première facture, et revérifiez après toute mise à jour importante de la plateforme de facturation.</p></td>
 </tr>
 
@@ -891,7 +895,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="odd">
-<td>Balises</td>
+<td>Tags</td>
 <td><p>Balises que vous affectez au compteur dans l’ordre pour regrouper les enregistrements de facturation. Par exemple, vous pouvez utiliser des balises pour répartir les coûts par département qui utilise le compteur.</p></td>
 </tr>
 
@@ -1017,6 +1021,8 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>Frais au prorata de l’activation à la fin de la période de facturation</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>Frais d’utilisation</strong></p>
@@ -1039,6 +1045,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>Frais d’utilisation de l’accès pour la période de facturation en cours</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>Crédits</strong></p>

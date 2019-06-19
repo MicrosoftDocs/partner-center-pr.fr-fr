@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: crédit de retenue, des crédits d’impôt, formulaire de crédit allemande taxe, crédit d’impôt de formulaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410971"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207577"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assurez-vous que vous sont crédité de retenue
 
@@ -49,7 +49,8 @@ Remplir ce [formulaire](https://query.prod.cms.rt.microsoft.com/cms/api/am/binar
 2. Sélectionnez **les demandes de support partenaire**.
 3. Sélectionnez **nouvelle demande** puis, sous **détails**, sélectionnez **faciliter le fichier de facture, de paiement ou de rapprochement de partenaire.**
 4. Lorsque vous envoyez la demande de service, veillez à attacher le crédit formulaire fiscal et des copies numériques des certificats de taxe.
-5. Nous vous contacterons directement par courrier électronique ou par téléphone.
+5. Si vous soumettez un certificat non anglaises taxe via une demande de service en anglais, une traduction du certificat de taxe est requise.
+6. Nous vous contacterons directement par courrier électronique ou par téléphone.
 
 À l’aide de la **-paiement par facture paiement** (méthode), une fois que les certificats de taxe sont reçus et validés avec succès, le solde restant sur votre facture effacera dans environ une semaine. 
 

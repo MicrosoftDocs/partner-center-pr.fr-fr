@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, avantages d'adhésion, adhésion
 ms.localizationpriority: medium
-ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
+ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134389"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67198319"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer les avantages de votre adhésion à Microsoft Partner Network
 
@@ -100,6 +100,10 @@ Pour afficher et gérer vos avantages réservés aux membres, accédez à votre 
 
 4. Vous pouvez utiliser votre avantage en matière d'assistance technique de prévente ou d'heures de conseil partenaire pour demander une assistance technique pendant les phases de prévente, de conception, de déploiement et de développement d'applications de vos solutions Cloud et hybrides. Pour demander une assistance, renseignez le [formulaire de demande](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 ), puis sélectionnez **Envoyer une demande**.
+
+## <a name="cancel-a-membership-benefit"></a>Annuler un avantage de l’appartenance
+
+Pour annuler un avantage et recevoir un remboursement, vous devez effectuer la demande dans les 30 jours suivant votre achat et n’avez pas activé les avantages du logiciel. Demander l’annulation via une demande de service.
 
 
 #### <a name="see-also"></a>Voir aussi
