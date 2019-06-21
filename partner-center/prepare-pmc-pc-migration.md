@@ -6,12 +6,12 @@ description: Éléments à considérer avant de passer votre entreprise de PMC p
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
+ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157329"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67279887"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre déplacement à partir de partenaire Membership Center (PMC) pour les partenaires
 
@@ -136,17 +136,22 @@ Bien que les utilisateurs invités peuvent recevoir basée sur l’utilisation d
 
  Oui, il n’existe aucune modification Partner of Record. Apprenez-en davantage sur [liant votre ID partenaire à vos clients](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
 
-**Y a-t-il un impact sur les primes ?**
+**Y a-t-il un impact sur les primes en raison du déplacement pour partenaires ?**
 
-N’a aucun impact sur les primes. En outre, si votre entreprise comporte plusieurs comptes dans PMC et, lorsque vous déplacez vers le centre partenaires ces comptes sont consolidés en un compte global, il n’a aucun impact sur le serveur partenaire de basée sur l’enregistrement de primes.
+Non, il n’est aucun impact sur les primes si vous avez déplacé votre compte sans consolidant des emplacements. Si votre entreprise comporte plusieurs comptes dans PMC et, lorsque vous déplacez vers le centre de partenaires que vous décidez de consolider dans un compte global, il n’y aura aucune perte de primes, mais offre incitative paiement peut prendre un certain. Si vous ne déplacez pas tous vos comptes PMC qui ont été impliquées dans des programmes de primes, vous pouvez arrêter l’obtention de primes qui sont liées à ces comptes.
+
 
 **Quelles sont les rôles d’utilisateur offre incitative dans partenaires ?** 
 
 Rôles offre incitatives dans partenaires sont basés sur l’emplacement et incluent des primes destinées aux utilisateurs admin et incitations. Pour plus d’informations sur ce que peuvent faire ces rôles, consultez [attribuer des rôles d’utilisateurs et les autorisations](permissions-overview.md).
 
-**Primes peuvent être gérés au niveau global et l’emplacement ?**
+**Les utilisateurs des incitations affectables au niveau global et l’emplacement ?**
 
  Oui. Vous pouvez affecter un administrateur de primes pour être l’administrateur de primes pour tous les emplacements ou chaque emplacement peut avoir son propre administrateur de primes.
+
+ **Primes peuvent être payés au niveau global ou emplacement ?**
+
+ Primes sont payés uniquement au niveau du magasin.
 
 **Concernant les références, les profils d’entreprise combien pouvons-nous créer ?**
 
