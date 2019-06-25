@@ -1,0 +1,118 @@
+### YamlMime:Tutorial
+title: Implémentation des spécifications de sécurité de partenaire
+metadata:
+  title: Implémentation des spécifications de sécurité de partenaire
+  description: Dans ce didacticiel, vous allez découvrir les exigences de sécurité de partenaire et comment les exécuter.
+  audience: Partners
+  level: Beginner
+  ms.date: 06/24/2019
+  displayType: two-column
+  ms.custom: mvc
+  ms.openlocfilehash: 08a558f53c5f2f2c58141cdb66912e93b76fb21b
+  ms.sourcegitcommit: ca7f000a58575fa9a089693256c095120dde3c5d
+  ms.translationtype: MT
+  ms.contentlocale: fr-FR
+  ms.lasthandoff: 06/24/2019
+  ms.locfileid: "67347008"
+items:
+- title: Introduction
+  durationInMinutes: 5
+  content: >
+    Sécurité et confidentialité des clients et partenaires sont deux priorités de Microsoft. Nous continuons à voir un nombre croissant d’attaques de sécurité plus sophistiquées, principalement liées aux identités compromises. Comme les contrôles préventifs jouent un rôle clé dans une stratégie de défense globale pour contrer les attaques de sécurité, nous allons commencer en appliquant un ensemble d’exigences de sécurité obligatoire pour aider à protéger leurs clients et partenaires.
+
+
+    Ce didacticiel vous apprendrez davantage sur les exigences de sécurité de partenaire, comment exécuter, ainsi que l’impact sur les utilisateurs dans votre annuaire des partenaires.
+- title: Quelles sont les exigences de sécurité de partenaire ?
+  durationInMinutes: 1
+  content: >
+    Tous les partenaires qui participent dans le programme fournisseur de solutions de Cloud, les fournisseurs de panneau de contrôle et les partenaires d’Advisor sont nécessaire pour appliquer l’authentification multifacteur (MFA) pour chaque utilisateur dans leur locataire partenaire. Cela est possible en activant deux [stratégies de base d’Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). Stratégies de base sont un ensemble de stratégies prédéfinies qui aident à protéger les organisations contre de nombreuses attaques courantes. Ces attaques courantes peuvent inclure anti-hameçonnage, relecture et pulvérisation de mot de passe. Stratégies de base sont disponibles dans toutes les éditions d’Azure Active Directory. Microsoft propose ces stratégies de protection de base pour tout le monde, car les attaques basées sur l’identité ont été à la hausse au cours des quelques dernières années.
+
+
+    Les stratégies de deux base qui doivent être activés sont décrits dans le tableau ci-dessous.
+
+
+    |**Règlement**| |
+
+    |-----|-----|
+
+    |**Exiger l’authentification Multifacteur pour les administrateurs**|L’activation de la MFA nécessitent de stratégie des administrateurs, oblige les utilisateurs dans les rôles d’administrateur à s’inscrire à MFA à l’aide de l’application d’authentification. Une fois l’inscription de l’authentification Multifacteur est terminée, les administrateurs doivent utiliser l’authentification Multifacteur chaque fois qu’ils connectez-vous.|
+
+    |**Protection de l’utilisateur final**|Protection de l’utilisateur final est une stratégie de base de l’authentification Multifacteur en fonction des risques qui protège tous les utilisateurs dans un répertoire. L’activation de cette stratégie nécessite tous les utilisateurs à s’inscrire à MFA à l’aide de l’application d’authentification. Les utilisateurs peuvent ignorer l’invite d’inscription MFA pendant 14 jours, après laquelle ils seront bloqués de se connecter jusqu'à ce qu’ils s’inscrivent pour l’authentification Multifacteur. Une fois inscrit pour l’authentification Multifacteur, les utilisateurs seront invités pour l’authentification Multifacteur uniquement pendant les tentatives de connexion à risque. Comptes d’utilisateur compromis sont bloquées jusqu'à ce que son mot de passe est réinitialisé et événements à risque ont été ignorées.|
+
+
+    Lorsque ces stratégies sont activées, chaque utilisateur sera en mesure d’utiliser l’authentification Multifacteur Azure sans coût supplémentaire. Si vous utilisez une solution tierce, vous devez appliquer l’authentification Multifacteur pour chaque utilisateur lors de l’accès aux services de cloud Commercial Microsoft.
+
+
+    > [!IMPORTANT]
+
+    > Étant donné que l’authentification Multifacteur sera appliquée pour chaque utilisateur dans l’annuaire des partenaires, il y aura un impact sur n’importe quel automation ou l’intégration qui utilise les informations d’identification de l’utilisateur. Pour résoudre cet impact, que vous devrez modifier la façon dont votre automatisation ou l’intégration se connecte aux services de cloud commercial de Microsoft. Si le service que vous vous connectez à prend en charge l’authentification par jeton, il est recommandé d’implémenter le [framework du modèle d’Application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
+- title: Comment activer la MFA requièrent pour la stratégie de base des administrateurs ?
+  durationInMinutes: 5
+  content: >
+    Le *requièrent une authentification Multifacteur pour l’administration* stratégie de base exige l’authentification Multifacteur pour les rôles d’annuaire suivantes, considérées comme les rôles d’Azure AD plus privilégiés :
+
+
+    - Administrateur général
+
+    - Administrateur SharePoint
+
+    - Administrateur Exchange
+
+    - Administrateur de l’accès conditionnel
+
+    - Administrateur de sécurité
+
+    - Administrateur du support technique / mots de passe administrateur
+
+    - Administrateur de facturation
+
+    - Administrateur de l’utilisateur
+
+
+    Lors de l’activation de la MFA nécessitent de stratégie des administrateurs, les rôles de neuf administrateur ci-dessus devront s’inscrire à MFA à l’aide de l’application d’authentification. Une fois l’inscription de l’authentification Multifacteur est terminée, les administrateurs doivent utiliser l’authentification Multifacteur chaque fois qu’ils connectez-vous.
+
+
+    Si votre organisation dispose de ces comptes en cours d’utilisation dans des scripts ou du code, envisagez d’en les remplaçant par [gérés identités](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+
+
+    Pour activer cette stratégie et protéger vos administrateurs :
+
+
+    1. Se connecter à la **Azure portal** comme administrateur général, administrateur de sécurité ou administrateur de l’accès conditionnel.
+
+    2. Accédez à **Azure Active Directory** > **accès conditionnel**.
+
+    3. Dans la liste des stratégies, sélectionnez **stratégie de référence : Exiger l’authentification Multifacteur pour les administrateurs**.
+
+    4. Définissez **activer la stratégie** à **utiliser immédiatement la stratégie**.
+
+    5. Cliquez sur **enregistrer**.
+
+      ![Exiger l’authentification Multifacteur pour les administrateurs](../images/security/baseline-policy-require-mfa-for-admins.png)
+
+    > [!WARNING]
+
+    > Avant d’activer cette stratégie, assurez-vous que vos utilisateurs n’utilisent pas de protocoles d’authentification hérités. Consultez l’article [Comment : L’authentification héritée de bloc à Azure AD avec l’accès conditionnel](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) pour plus d’informations.
+
+
+    > [!IMPORTANT]
+
+    > Il existe un problème connu, ce qui a un impact sur votre capacité à tirer parti des privilèges d’administrateur délégués pour se connecter à Exchange Online PowerShell lors de l’authentification Multifacteur est appliquée. Consultez [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) pour plus d’informations.
+
+
+    Une fois que vous devez activer le *requièrent une authentification Multifacteur pour les administrateurs* stratégie de référence, les utilisateurs qui sont membres des rôles administrateur ci-dessus rencontrera une nouvelle expérience quand ils connectez-vous. Les figures suivantes sont ce que feront les utilisateurs affectés par cette stratégie
+
+      ![Invite pour plus d’informations](../images/security/baseline-require-more-info.png)
+
+      ![Validation de la sécurité supplémentaires](../images/security/baseline-security-verification-setup.png)
+
+      ![Configurer l’application Mobile](../images/security/baseline-configure-mobile-app.png)
+
+      ![Programme d’installation de sécurité supplémentaire validation terminée](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Validation de la sécurité supplémentaire vérifiée](../images/security/baseline-security-verification-confirmed.png)
+
+    Une fois que l’utilisateur a suivi les étapes ci-dessus, ils seront en mesure de se connecter au service cloud Microsoft qu’ils ont été tente d’accéder.
+- title: Comment activer la stratégie de base de protection utilisateur final ?
+  durationInMinutes: 5
+  content: "La stratégie de base utilisateur final protection protège tous les utilisateurs dans un répertoire. L’activation de cette stratégie nécessite tous les utilisateurs à s’inscrire pour Azure MFA dans les 14 jours. Une fois inscrit, les utilisateurs seront invités pour l’authentification Multifacteur uniquement pendant les tentatives de connexion à risque, ce comportement changera pour les clients partenaires à l’avenir. Comptes d’utilisateur compromis sont bloquées jusqu'à ce que la réinitialisation de mot de passe et risque de licenciement.\n\nLa stratégie **stratégie de référence : Protection de l’utilisateur final** est préconfigurée et s’affichera en haut lorsque vous accédez au panneau d’accès conditionnel dans le portail Azure.\n\nPour activer cette stratégie et protéger vos utilisateurs :\n\n1. Se connecter à la **Azure portal** comme administrateur général, administrateur de sécurité ou administrateur de l’accès conditionnel.\n2. Accédez à **Azure Active Directory** > **accès conditionnel**.\n3. Dans la liste des stratégies, sélectionnez **stratégie de référence : Protection de l’utilisateur final (version préliminaire)**.\n4. Définissez **activer la stratégie** à **utiliser immédiatement la stratégie**.\n5. Cliquez sur **enregistrer**.\n\n  ![Protection de l’utilisateur final](../images/security/baseline-policy-end-user-protection.png)\n\n> [!WARNING]\n> Avant d’activer cette stratégie, assurez-vous que vos utilisateurs n’utilisent pas de protocoles d’authentification hérités. Consultez l’article [Comment : L’authentification héritée de bloc à Azure AD avec l’accès conditionnel](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) pour plus d’informations.\n\n> [!IMPORTANT]\n> Il existe un problème connu, ce qui a un impact sur votre capacité à tirer parti des privilèges d’administrateur délégués pour se connecter à Exchange Online PowerShell lors de l’authentification Multifacteur est appliquée. Consultez [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) pour plus d’informations.\n\nUne fois que vous avez activé le *protection de l’utilisateur final* stratégie de référence, tous les utilisateurs rencontrent une nouvelle expérience lorsqu’ils connectez-vous. Les figures suivantes sont ce que feront les utilisateurs\n\n  ![Invite pour plus d’informations](../images/security/baseline-require-more-info.png)\n\n  ![Validation de la sécurité supplémentaires](../images/security/baseline-security-verification-setup.png)\n\n  ![Configurer l’application Mobile](../images/security/baseline-configure-mobile-app.png)\n\n  ![Programme d’installation de sécurité supplémentaire validation terminée](../images/security/baseline-security-verification-setup-completed.png)\n\n  ![Validation de la sécurité supplémentaire vérifiée](../images/security/baseline-security-verification-confirmed.png)\n\nUne fois que l’utilisateur a suivi les étapes ci-dessus, ils seront en mesure de se connecter au service cloud Microsoft qu’ils ont été tente d’accéder. Remarque jusqu'à ce que les exigences de sécurité de partenaire sont appliquées, les utilisateurs qui ne sont pas couverts par la *requièrent une authentification Multifacteur pour les administrateurs* serez invité stratégie de référence pour l’authentification Multifacteur en fonction du risque. \n"

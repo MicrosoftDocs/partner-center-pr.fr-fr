@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193424"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343466"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -1022,6 +1022,61 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>Frais à usage unique</strong></p>
+
+</td>
+<td>
+<p>Nouveau</p>
+</td>
+<td>
+<p>Utilisé lors de l’achat d’un nouveau est créé.</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>Utilisé dans les deux la restitution de l’achat d’origine et la quantité de nouveau après augmentation</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>Utilisé dans les deux la restitution de l’achat d’origine et la quantité de nouveau après réduction</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Cancel</p>
+</td>
+<td>
+<p>Utilisé quand un abonnement est annulé.</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Convertir</p>
+</td>
+<td>
+<p>Utilisé lors de la mise à niveau d’une licence, mais le nombre de sièges reste inchangé</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">

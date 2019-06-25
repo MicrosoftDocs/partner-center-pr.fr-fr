@@ -8,12 +8,12 @@ ms.author: evansma
 keywords: facturation, paiements, orders, fichiers de réconciliation, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4b2b42c0d9bbb2654bbd486f987e3d5da9c562a2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3e664a8a539125bce21d256c6e6d88d1ab22d14d
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135379"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343457"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>Présentation des types de facturation dans l’Espace partenaires
 
@@ -46,3 +46,64 @@ Vous accéderez à vos factures la même façon que vous faire maintenant, dans 
 |:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
 |Frais récurrents pour les abonnements basés sur licence et basée sur l’utilisation |Tous les produits à partir de la [catalogue de services en ligne](https://partner.microsoft.com/commerce/preferredoffers/list). Exemples : Office 365, Microsoft 365, Azure Active Directory, Azure (paiement à l’utilisation), Dynamics 365, Power BI Pro |La date que vous avez sélectionné lorsque vous avez créé votre compte espace partenaires |Le mois avant la date de facturation. |La devise du pays/région, vous êtes situé dans. Par exemple, si votre entreprise se trouve au Royaume-Uni, nous débiterons vous en livres sterling (GBP). Si votre société se trouve en Inde, nous débiterons vous en Inde Roupie (INR).  |Non |
 |Frais récurrents et à usage unique pour les produits Microsoft et tiers les éditeurs de logiciels |Tous les SaaS abonnements, des réservations Azure et produits logiciels (perpétuels et basées sur abonnement) offertes par Microsoft et les éditeurs de logiciels tiers. Consultez les produits disponibles dans le [place de marché](https://partner.microsoft.com/commerce/sales?type=Any&category=Any). Exemples logiciel SUSE Linux (abonnement logiciel), Windows Server Essentials 2019 (logicielle perpétuelle), abonnement de produit Azure ISV SaaS. |La 8ème jour de chaque mois |À partir du premier jour au dernier jour de chaque mois du calendrier |La devise du pays/région, votre client se trouve dans. Cela signifie que vous recevez des factures distinctes et fichiers de réconciliation dans la devise du pays/région chaque client que vous avez vendu à dans la période de facturation. |Oui |
+
+## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>Scénarios de facturation pour les achats uniques et récurrentes
+### <a name="scenario-1--purchase-a-subscription-and-then-add-a-seat-on-the-same-day"></a>Scénario 1 : souscrire un abonnement, puis ajoutez un siège sur le même jour
+
+Dans le scénario 1, vous achetez un abonnement sur le 11 juin au prix unitaire de $4. Plus tard ce même jour que vous achetez et une autre du même abonnement au même prix. 
+
+Le fichier de rapprochement inclura les éléments suivants : 
+-   facture de $4 pour la période de service au 10 juin – 9 juillet. 
+-   $-4.00 rebill calculé au prorata pour la période de service du 11 juin – 11 juin. Il s’agit de la période où vous aviez 1 licence. Calcul = (tous les mois prix/total de jours dans la période de service) x jours dans le service au prorata période x nombre de licences = (30/4) x 30 x 1 = 4.00.
+-   $8.00 calculé au prorata rebill pour la période de service au 10 juin – 9 juillet. Il s’agit de la période où vous aviez 2 licences. Calcul = (30/4) x 30 x 2 = 8.00.
+
+|**Date d’achat**   |**Début de frais**  |**Fin de frais**  |**Prix unitaire**  |**Quantité**  |**Quantité** |**Type de frais** |
+|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
+|6/11/2019      |6/10/2019   |7/09/2019         |$4                |1                 |$4            |Nouveau         |
+|6/11/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$4       |addQuantity           |
+|6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$8         |addQuantity           |
+
+### <a name="scenario-2--purchase-a-subscription-and-then-add-more-later"></a>Scénario 2 : acheter un abonnement, puis ajoutez plus ultérieurement
+
+Dans le scénario 2, vous achetez un abonnement sur le 11 juin au prix unitaire de $4 et 12 juin, vous achetez un autre abonnement pour le même produit au même prix. 
+
+Le fichier de rapprochement inclura les éléments suivants : 
+-   facture de $4 pour la période de service au 10 juin – 9 juillet. 
+-   $-3,87 rebill calculé au prorata pour la période de service du 11 juin – 12 juin. Il s’agit de la période où vous aviez 1 licence. Calcul = (tous les mois prix/total de jours dans la période de service) x jours dans le service au prorata période x nombre de licences = (30/4) x 29 x 1 = 3,87.
+-   $7.74 calculé au prorata rebill pour la période de service du 12 juin – 9 juillet. Il s’agit de la période où vous aviez 2 licences. Calcul = (30/4) x 29 x 2 = 7.74.
+
+|**Date d’achat**   |**Début de frais**  |**Fin de frais**  |**Prix unitaire**  |**Quantité**  |**Quantité** |**Type de frais** |
+|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
+|6/11/2019 (vous avez une licence)     |6/10/2019   |7/09/2019         |$4         |1        |$4            |Nouveau         |
+|6/12/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$3.87       |addQuantity           |
+|6/12/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$7.74       |addQuantity           |
+
+### <a name="scenario-3--purchase-a-subscription-and-then-remove-a-seat-on-the-same-day"></a>Scénario 3 : acheter un abonnement, puis supprimez un siège sur le même jour
+
+Dans le scénario 3, vous achetez les deux abonnements pour le même produit le 11 juin au prix unitaire de $4. Plus tard ce même jour vous supprimez l’une des sièges.  
+
+Le fichier de rapprochement inclura les éléments suivants : 
+-   facture de 8 $ pour les deux licences pour la période de service au 10 juin – 9 juillet. 
+-   $-8.00 rebill calculé au prorata pour la période de service du 11 juin – 11 juin. Il s’agit de la période où vous aviez 2 licences. Calcul = (tous les mois prix/total de jours dans la période de service) x jours dans le service au prorata période x nombre de licences = (30/4) x 30 x 2 = 8.00.
+-   $4.00 calculé au prorata rebill pour la période de service du 11 juin – 9 juillet. Il s’agit de la période où vous aviez 1 licence. Calcul = (30/4) x 30 x 1 = 4.00.
+
+|**Date d’achat**   |**Début de frais**  |**Fin de frais**  |**Prix unitaire**  |**Quantité**  |**Quantité** |**Type de frais** |
+|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
+|6/11/2019      |6/10/2019   |7/09/2019         |$4                |2                 |$8            |Nouveau         |
+|6/11/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$8       |removeQuantity           |
+|6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 1      |$4         |removeQuantity           |
+
+### <a name="scenario-4--purchase-a-subscription-and-then-remove-seats-later"></a>Scénario 4 : acheter un abonnement et ensuite supprimer ultérieurement des sièges
+
+Dans le scénario 4, vous achetez des 2 abonnements sur 11 juin au prix unitaire de $4 et 12 juin, vous supprimez l’une des sièges. 
+
+Le fichier de rapprochement inclura les éléments suivants : 
+-   facture de 8 $ pour la période de service au 10 juin – 9 juillet. 
+-   $-7.74 rebill au prorata pour la période de service du 11 juin – 12 juin. Il s’agit de la période où vous aviez 2 licences. Calcul = (tous les mois prix/total de jours dans la période de service) x jours dans le service au prorata période x nombre de licences = (30/4) x 29 x 2 = 7.74.
+-   $3,87 calculé au prorata rebill pour la période de service du 12 juin – 9 juillet. Il s’agit de la période où vous aviez 1 licence. Calcul = (30/4) x 29 x 1 = 3,87.
+
+|**Date d’achat**   |**Début de frais**  |**Fin de frais**  |**Prix unitaire**  |**Quantité**  |**Quantité** |**Type de frais** |
+|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
+|6/11/2019 (vous avez 2 licences)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |Nouveau       |
+|6/12/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$7.74       |removeQuantity           |
+|6/12/2019 (vous avez 1 licence)    | 6/10/2019    |7/09/2019   |$4    |1      |$3.87    |removeQuantity |
