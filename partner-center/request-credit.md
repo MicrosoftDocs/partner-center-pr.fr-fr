@@ -7,12 +7,12 @@ ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 97b8120be91bbeb058597854a7114e98d2e3d0ae
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333989"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407870"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Demander un crédit de contrat SLA de Microsoft 
 
@@ -34,7 +34,7 @@ Pour demander un crédit de contrat SLA, vous devez fournir les informations sui
 
 - Les abonnements concernés ont été achetés via CSP ? Oui/Non
 
-L’ID d’Incident de panne (par exemple, EX25194) se trouve dans la page de l’intégrité du Service dans le centre d’administration Microsoft 365. Numéros d’incident sont précédés d’une abréviation de 2 lettres qui indique le service concerné, tel que :
+L’ID d’Incident de panne (par exemple, EX25194) se trouve sur la page de l’intégrité du Service dans le centre d’administration Microsoft 365. Numéros d’incident sont précédés d’une abréviation de 2 lettres qui indique le service concerné, tel que :
 
 EX - Exchange Online
 
@@ -51,6 +51,17 @@ SP - SharePoint Online
 YA - Yammer Enterprise
 
 MOIS - erreur du portail
+
+## <a name="submit-a-request"></a>Envoyer une demande
+
+Envoyer votre demande de crédit sur Partner Center.
+
+1. À partir de votre tableau de bord de partenaires, sélectionnez **prise en charge** à partir de la barre de navigation gauche.
+
+2. Sélectionnez **les demandes de support partenaire** , puis sélectionnez **CSP, les clients, les commandes et les demandes de crédit abonnements/client services**.
+
+3. Envoyer votre demande de crédit de contrat SLA.
+
 
 
 

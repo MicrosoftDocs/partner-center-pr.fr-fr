@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: rôles, autorisations, administration, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
+ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133899"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67396730"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles et des autorisations aux utilisateurs
 
@@ -24,7 +24,7 @@ Vous avez configuré votre profil de partenaire, y compris juridique nom et adre
 Vous déterminez les types d’accès à que vos utilisateurs disposent de partenaires par les rôles et autorisations que vous leur donnez. Rôles associés à votre entreprise est impliqué dans l’ou les programmes. Par exemple, si votre entreprise est une entreprise de fournisseur de solutions Cloud (CSP), pas uniquement avoir l’Azure AD standard des rôles de gestion telles qu’Administrateur général du client, mais devez rôles spécifiques au programme CSP. Chaque programme possède des rôles spécifiques à celui-ci.
 
 >[!Note]
-> Rôles de locataire Azure Active Directory (AAD) incluent l’administrateur général, administrateur d’utilisateurs et rôles CSP. Rôles non-AAD incluent MPN admin, administrateur de profil d’entreprise, référence administrateur, administrateur offre incitative et offre incitative utilisateur. 
+> Rôles de locataire Azure Active Directory (AAD) incluent l’administrateur général, administrateur d’utilisateurs et rôles CSP. Rôles non-AAD sont les rôles que vous ne gérez pas le locataire et elles incluent MPN admin, administrateur de profil d’entreprise, référence administrateur, administrateur offre incitative et offre incitative utilisateur. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gérer les transactions commerciales dans partenaires (Azure AD et les rôles CSP)
 
@@ -52,6 +52,7 @@ Vous déterminez les types d’accès à que vos utilisateurs disposent de parte
 |Commercial | • Gestion de client
 ||• Ajoutez la liste des appareils à l’espace partenaires
 ||• Gestion des abonnements
+||• Afficher le prix de répertorie et offre
 ||• Les tickets de support de vue
 ||• Demande une relation avec un client
 ||• Gestion des prospects
@@ -71,7 +72,18 @@ CPVs développer des applications pour une utilisation par les partenaires de fo
 |Administrateur global| Afficher et gérer votre profil CPV|
 ||Afficher et gérer des utilisateurs qui ont besoin d’accéder aux fonctionnalités CPV|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>Gérer l’appartenance au MPN et votre entreprise (rôles non AAD)
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utilisateur invité (doit être ajouté au locataire AAD)
+
+|**Utilisateur invité**   | **Rôles**|
+|---------------------------|:--------------------|
+||Administrateur partenaire MPN|
+||Comptes administrateur|
+||Administrateur de primes incitatives|
+||Administrateur de profil d'entreprise|
+||Administrateur de références|
+
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gérer l’appartenance au MPN et votre société (rôles non AAD : ces rôles de gérer l’activité de l’entreprise plutôt que le client)
 
 |**Role** | **Ce que vous pouvez faire**|
 |----------------------------|:----------------------------|
@@ -92,28 +104,19 @@ CPVs développer des applications pour une utilisation par les partenaires de fo
 ||• Attribuer des rôles pour les utilisateurs du client de rôles non AAD 
 ||• Inscrire les emplacements dans des programmes
 
-## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utilisateur invité (doit être ajouté au locataire AAD)
 
-|**Utilisateur invité**   | **Rôles**|
-|---------------------------|:--------------------|
-||Administrateur partenaire MPN|
-||Comptes administrateur|
-||Administrateur de primes incitatives|
-||Administrateur de profil d'entreprise|
-||Administrateur de références|
-
-
-## <a name="manage-referrals-non-aad-roles"></a>Gérer les références (rôles non AAD)
+## <a name="manage-referrals"></a>Gérer les références 
 
 |**Role**|**Ce que vous pouvez faire**|
 |-----------------------------|:------------------------|
 |Administrateur de références       |• Afficher, créer et gérer des profils d’entreprise
 ||• Recevoir et gérer les références
-||• Afficher, créer et gérer des demandes de service de partenaire|
-|Administrateur de profil d'entreprise   |•Afficher, créer et gérer le profil d’entreprise 
+||• Afficher, créer et gérer les redirections de vente conjointe|
+||• Afficher, créer et gérer des demandes de service de partenaire
+|Administrateur de profil d'entreprise   |• Afficher, créer et gérer le profil d’entreprise 
 ||• Afficher, créer et gérer des demandes de service de partenaire|
 
-## <a name="manage-incentives--non-aad-roles"></a>Gérer des incitations (rôles non AAD)
+## <a name="manage-incentives"></a>Gérer les primes 
 
 |**Role** | **Ce que vous pouvez faire**|
 |------------------------------|:-------------------------|

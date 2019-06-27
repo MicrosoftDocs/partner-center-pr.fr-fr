@@ -1,25 +1,27 @@
 ---
-title: Acheter ou renouveler un abonnement Microsoft Action Pack | Espace partenaires
+title: Acheter ou renouveler vos offres avantage | Partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/25/2019
 description: Découvrez comment obtenir Microsoft Action Pack, qu'il s'agisse d'un premier achat ou d'un renouvellement.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 552e288bb983b940d8211328553e6b33be242cb8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: cb30847f6ce5697bfd545c6b13cd0641aab66fba
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134299"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407878"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Premier achat ou renouvellement d'un abonnement Microsoft Action Pack
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Acheter pour la première fois ou renouveler un abonnement Microsoft Action Pack ou les compétences silver ou gold
 
 **S’applique à**
 
 -  Espace partenaires
 -  Partner Membership Center
+
+À présent, à partir du tableau de bord de partenaires, vous pouvez acheter ou renouveler vos offres proposant des avantages, notamment les compétences d’abonnement et silver et gold Microsoft Action Pack. 
 
 Action Pack comprend des logiciels, un support et des avantages pour les entreprises qui souhaitent créer et développer leur pratique de Microsoft dans un monde axé en priorité sur les mobiles et le cloud. Lorsque vous achetez Action Pack, vous obtenez un solide ensemble de logiciels qui propose : 
 
@@ -30,6 +32,8 @@ Action Pack comprend des logiciels, un support et des avantages pour les entrep
 
 Vous pouvez obtenir plus de détails sur Action Pack sur le site [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3).
 
+Devenir un [partenaire de compétence](https://partner.microsoft.com/membership/competencies). 
+
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Acheter Microsoft Action Pack pour la première fois
 
 Si vous débutez dans le partenariat avec Microsoft, la première étape consiste à rejoindre Microsoft Partner Network. Si vous n’êtes pas encore membre du réseau de partenaires, accédez à [la page d’adhésion](https://partner.microsoft.com/membership) sur le site du réseau de partenaires et sélectionnez **S’inscrire maintenant** lorsque vous êtes prêt à vous inscrire. 
@@ -39,7 +43,7 @@ Une fois membre du réseau de partenaires, suivez les [instructions sur le site 
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Renouveler un abonnement Microsoft Action Pack
 
 >[!IMPORTANT]
->Entre maintenant et la fin de l’année civile, nous voit passer de la gestion des abonnements Microsoft Action Pack à partir de partenaire Membership Center (PMC) à l’espace partenaires - ce site. Le renouvellement de votre abonnement Action Pack peut varier d'ici là, veuillez donc lire attentivement les informations ci-après.  
+>Désormais, vous gérez votre abonnement Microsoft Action Pack sur des partenaires - ce site. 
 
 ### <a name="check-your-renewal-eligibility"></a>Vérifier votre éligibilité au renouvellement
 
@@ -59,7 +63,7 @@ Une fois membre du réseau de partenaires, suivez les [instructions sur le site 
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Pour renouveler un abonnement Microsoft Action Pack dans l’espace partenaires
 
-1. Accédez à votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers), puis sélectionnez **Acheté**. Recherchez la vignette **Abonnement au Microsoft Action Pack**.  
+1. Accédez à votre [ **appartenance offre** ](https://partnercenter.microsoft.com/pcv/partnership/offers) page. Recherchez la vignette **Abonnement au Microsoft Action Pack**.  
 
 2. Sélectionnez **Renouveler l’abonnement**, puis sélectionnez votre mode de paiement. Vous pouvez payer à l’aide d’une carte de crédit ou d'un virement bancaire électronique.
 
@@ -77,7 +81,7 @@ Votre abonnement Action Pack sera renouvelé automatiquement chaque année à c
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Désactiver le renouvellement automatique de l’abonnement Action Pack
 
-1. Accédez à votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers), puis sélectionnez **Acheté**. Sélectionnez **Abonnement au Microsoft Action Pack** pour afficher les détails de votre abonnement. 
+1. Accédez à votre [ **appartenance offre** ](https://partnercenter.microsoft.com/pcv/partnership/offers) page.  Sélectionnez **Abonnement au Microsoft Action Pack** pour afficher les détails de votre abonnement. 
 
 2. Sélectionnez **Désactiver le renouvellement automatique** si vous ne voulez pas que votre abonnement Action Pack soit renouvelé automatiquement chaque année. 
 
@@ -89,7 +93,7 @@ Votre abonnement Action Pack sera renouvelé automatiquement chaque année à c
 
 Pour annuler votre abonnement Microsoft Action Pack, vous devrez peut-être contacter le support des partenaires.
 
-1. Accédez à votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers), puis sélectionnez **Acheté**. Sélectionnez **Abonnement au Microsoft Action Pack** pour afficher les détails de votre abonnement. 
+1. Accédez à votre [ **appartenance offre** ](https://partnercenter.microsoft.com/pcv/partnership/offers) page. Sélectionnez **Abonnement au Microsoft Action Pack** pour afficher les détails de votre abonnement. 
 
 3. Sélectionnez **Annuler l'abonnement**. Suivez les instructions pour la création d’une demande de support. 
 
@@ -105,7 +109,7 @@ Pour vérifier l’état de votre demande de service, depuis **Support**, sélec
 
 ## <a name="download-your-action-pack-invoice"></a>Télécharger votre facture Action Pack
 
-1. Accédez à votre page [**Offres d'abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers), puis sélectionnez **Acheté**. Sélectionnez **Abonnement au Microsoft Action Pack** pour afficher les détails de votre abonnement. 
+1. Accédez à votre [ **appartenance offre** ](https://partnercenter.microsoft.com/pcv/partnership/offers) page. Sélectionnez **Abonnement au Microsoft Action Pack** pour afficher les détails de votre abonnement. 
 
 3. Sélectionnez **Télécharger la facture**.
  
