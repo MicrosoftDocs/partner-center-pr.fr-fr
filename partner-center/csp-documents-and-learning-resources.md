@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutions cloud, guide du programme, contrats de partenariat, contrat client, listes de prix, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b5c9349ba5b4770eec9b4b8923907dd8377b20e3
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134989"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468019"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme fournisseur de solutions cloud, des contrats, des listes de prix et des offres
 
@@ -38,19 +38,19 @@ Examinez les conditions requises pour devenir un partenaire dans le programme Fo
 
 Microsoft requiert que les partenaires signent le présent contrat pour rejoindre le programme Fournisseur de solutions cloud. Lisez attentivement ce guide pour le marché ou le Cloud national dans lequel vous envisagez de vendre.
 
-[Contrat de revendeur Cloud de Microsoft : Amérique du Nord, Amérique centrale, en Amérique du Sud et Caraïbes](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Contrat de revendeur Cloud de Microsoft : Amérique du Nord, Amérique centrale, en Amérique du Sud et Caraïbes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
 
-[Contrat de revendeur Cloud de Microsoft – Asie, Australie et Pacifique](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Contrat de revendeur Cloud de Microsoft – Asie, Australie et Pacifique](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Contrat de revendeur Cloud de Microsoft – Europe, Moyen-Orient et Afrique](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Contrat de revendeur Cloud de Microsoft – Europe, Moyen-Orient et Afrique](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Contrat de revendeur Cloud de Microsoft – Japon](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Contrat de revendeur Cloud de Microsoft – Japon](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
 
-[Contrat de revendeur Cloud de Microsoft – Corée](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Contrat de revendeur Cloud de Microsoft – Corée](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
 
-[Contrat de revendeur Cloud de Microsoft – Taïwan](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Contrat de revendeur Cloud de Microsoft – Taïwan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
 
-[Contrat de revendeur Cloud de Microsoft - Microsoft Cloud for US Government](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Contrat de revendeur Cloud de Microsoft - Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Modèles de client de contrat de Cloud de Microsoft
 

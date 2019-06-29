@@ -6,12 +6,12 @@ description: Éléments à considérer avant de passer votre entreprise de PMC p
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279887"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468027"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre déplacement à partir de partenaire Membership Center (PMC) pour les partenaires
 
@@ -58,9 +58,11 @@ Le rôle d’administrateur général de MPN dans PMC pourrait les opérations s
 
 Lorsque l’administrateur général MPN se déplace au centre de partenaires le rôle est appelé Administrateur partenaire MPN possède des autorisations différentes et des tâches que l’administrateur général de partenaires. Pour plus d’informations sur les rôles et autorisations dans l’espace partenaires, consultez [attribuer des rôles d’utilisateurs et les autorisations](permissions-overview.md)
 
-**Rôles d’utilisateur dans l’espace partenaires**
+**Rôles d’utilisateur, y compris les rôles d’utilisateur invité dans l’espace partenaires**
 
 Partenaires a différents types de rôles en fonction des types de travail à effectuer. Il existe des rôles, tels qu’Administrateur général qui sont des rôles Azure AD. Certains des rôles sont spécifiques à des programmes tels que le programme de fournisseur de services Cloud ou les primes, et il existe des rôles qui sont spécifiques à MPN. Pour découvrir tous les rôles de partenaires, lire [attribuer des rôles d’utilisateurs et les autorisations](permissions-overview.md).
+
+
 
 **Que se passe-t-il pour les rôles de mes utilisateurs lorsqu’ils passent de PMC pour partenaires ?**
 
@@ -84,6 +86,9 @@ Vous pouvez toujours décider de migrer vers les partenaires à l’aide de loca
 Oui, dans l’espace partenaires, vous pouvez lier plusieurs locataires Azure AD à un seul compte espace partenaires.
 En savoir plus ici. 
 
+**Existe-t-il des restrictions à l’ajout de plusieurs locataires Azure AD à un seul compte espace partenaires ?**
+
+Si le client Azure AD est déjà associé à un compte espace partenaires existant, il ne peut pas être associée aux nouveaux comptes de partenaires à l’aide de la fonctionnalité d’une architecture mutualisée. Une autre façon de penser qu’il est, un locataire Azure AD peut uniquement être associé à un compte espace partenaires, mais un compte espace partenaires peut avoir plusieurs locataires qui lui sont associées.
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Migration de l’appartenance au Microsoft Partner Network (MPN) 
 
