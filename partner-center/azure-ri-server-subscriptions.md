@@ -1,18 +1,18 @@
 ---
 title: Azure Reserved VM Instances (RI) + abonnements de serveur pour Azure | Espace partenaires
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: L'intégration d'Azure RI et des abonnements de serveur au programme de fournisseur de solutions Cloud permet à nos partenaires de répondre plus rapidement aux nouveaux besoins de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour prendre en charge des charges de travail dans le Cloud prévisibles et durables. Le programme de fournisseur de solutions Cloud permet aux partenaires d’acquérir, de configurer et de gérer Azure RI et les abonnements de serveur pour le compte de clients commerciaux via l'Espace partenaires Microsoft et le portail Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, les abonnements, instance de machine virtuelle, la réservation, réservée
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736060"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509959"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ Avec une combinaison non appariée de tarification attrayants et une flexibilit�
 -   SQL Database Managed Instance
 -   Azure Cosmos DB
 -   Azure SQL Data Warehouse
+-   Services d’application
 
 #### <a name="server-subscriptions"></a>et serveur
 -   Windows Server
@@ -54,6 +55,10 @@ Avec une combinaison non appariée de tarification attrayants et une flexibilit�
 #### <a name="linux-isv-annual-subscriptions"></a>Abonnements annuels ISV de Linux
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>Abonnements annuels ISV
+-   Solution VMware Azure par CloudSimple
 
 ## <a name="getting-started"></a>Prise en main
 
@@ -119,4 +124,4 @@ Le programme [Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-b
 
 Voir aussi [Forum aux questions de la solution Azure Hybrid Benefit](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-* Les économies réelles peuvent varier en fonction l’utilisation, de type d’instance ou de région.
+\* Les économies réelles peuvent varier en fonction l’utilisation, de type d’instance ou de région.
