@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133969"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549508"
 ---
 # <a name="provide-billing-support"></a>Proposer une assistance à la facturation
 
@@ -33,6 +33,9 @@ Vous possédez la relation de facturation avec vos clients et vous êtes tenu de
 Les partenaires effectuant des transactions dans le modèle de fournisseur de solutions Cloud sont les conseillers de confiance de leurs clients et gèrent la relation de bout en bout, y compris le support lorsque leur client a une question ou un problème. Par le biais des points de contact du support, les partenaires peuvent en savoir plus sur le client et leur activité, afin d'identifier de nouveaux services et solutions susceptibles d'apporter une valeur ajoutée.
 
 Pour répondre à la demande de support, le partenaire peut revendre le support fourni par une autre entité, sous-traiter tout ou partie de sa structure de support et/ou configurer une structure pour fournir le support directement.  Le partenaire peut facturer tout ou partie du support fourni aux clients. Le partenaire doit expliquer clairement à ses clients le support qu’il fournit, les horaires de service et la méthode de contact, ainsi que la tarification (s'il facture le support). 
+
+>[!Note]
+>Si vous êtes pas un CSP et que vous avez des questions sur la facturation du client, consultez le portail spécifique pour les produits appropriés ou les services.
 
 Les partenaires sont tenus de recevoir les demandes entrantes de support des clients, de diagnostiquer les problèmes au mieux de leur capacité et de résoudre les problèmes qui se trouvent dans l’étendue des limites de la ligne de base du support. Si le partenaire est incapable de résoudre un problème, il peut transmettre les problèmes à Microsoft via les canaux de support suivants :
 
