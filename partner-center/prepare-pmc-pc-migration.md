@@ -6,12 +6,12 @@ description: Éléments à considérer avant de passer votre entreprise de PMC p
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468027"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563039"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre déplacement à partir de partenaire Membership Center (PMC) pour les partenaires
 
@@ -132,6 +132,11 @@ Bien que les utilisateurs invités peuvent recevoir basée sur l’utilisation d
  **Comment dois-je gérer notre associations MCP et notre accès Partner University ?**
 
  Il n’y a aucune modification aux associations MCP qui déplacent de PMC. Toutefois, les nouveaux employés nouveau après avoir déplacé les partenaires devrez être associées aux partenaires. Toutes les autorisations de votre université de partenaire pour les utilisateurs existants resteront mais les nouveaux employés doivent atteindre [le centre de formation](https://partner.microsoft.com/training) pour plus d’informations sur la façon d’accéder à l’Université de partenaire.
+
+ **Comment afficher des informations de MCP une fois que les déplacer vers le centre partenaires ?**
+
+Sélectionnez **compétences** à partir de la barre de navigation gauche du tableau de bord. À partir de la **compétences** page que vous êtes en mesure de télécharger le rapport de compétences. Le rapport de compétences répertorie les utilisateurs qui ont acquis des compétences pertinents pour les compétences et les programmes de partenaires. Si vos utilisateurs ont acquis des compétences, mais ces compétences ne sont pas pertinentes pour les compétences qui vous travaillez vers, ils ne seront pas répertoriés dans le rapport.
+
 
  **Les références client sont utilisés dans l’espace partenaires ?**
 
