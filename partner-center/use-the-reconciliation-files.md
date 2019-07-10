@@ -1,18 +1,18 @@
 ---
 title: Utiliser les fichiers de rapprochement | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: Pour une vue détaillée de la ligne de chaque charge dans un cycle de facturation, téléchargez les fichiers de réconciliation de partenaires.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343466"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694925"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -834,10 +834,6 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <td><p>Le service de plateforme Azure que vous avez utilisé.</p></td>
 </tr>
 
-<tr class="odd">
-<td>Groupe de ressources</td>
-<td><p>Le groupe de ressources dans lequel le compteur déployé s’exécute.</p></td>
-</tr>
 
 <tr class="even">
 <td>URI de ressource</td>
@@ -892,11 +888,6 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <tr class="even">
 <td>Informations sur le service 2</td>
 <td><p>Champ hérité capturant les métadonnées facultatives propres au service.</p></td>
-</tr>
-
-<tr class="odd">
-<td>Tags</td>
-<td><p>Balises que vous affectez au compteur dans l’ordre pour regrouper les enregistrements de facturation. Par exemple, vous pouvez utiliser des balises pour répartir les coûts par département qui utilise le compteur.</p></td>
 </tr>
 
 <tr class="even">

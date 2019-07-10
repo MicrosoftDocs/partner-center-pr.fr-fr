@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6064b31744ff432dc97887eec22dce142c223f7
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622557"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674276"
 ---
 ## <a name="partner-contribution-indicators"></a>Indicateurs de contribution de partenaire
 
@@ -56,9 +56,9 @@ Les partenaires peuvent gagner le nombre maximal de points pour une mesure donn�
 |Nouvelle deploments volumineux|20|Pour **Customer Engagement**, si un abonnement payant dépasse les 250 seuil utilisateur actif mensuel au cours des 12 derniers mois, le partenaire associé obtient crédit pour toutes les instances de production d’Engagement des clients (organisations) sous ce client. Pour **Finance and Operations**, le cas échéant abonnement payant dépasse le seuil d’utilisateur active de mensuel 100 au cours des 12 derniers mois, le partenaire associé obtient crédit pour tous les finances et production d’opérations instances (organisations) sous ce client. Utilisateurs actifs mensuels sont comptées au niveau de l’abonnement, et uniquement les abonnements payants sont considérés. Utilisateurs actifs mensuels sont calculés à la fin de chaque mois. Un abonnement est considéré comme ont dépassé le seuil d’utilisateurs actifs mensuels si elle a été au-dessous du seuil spécifié, il y a 13 mois et a dépassé le seuil au moins une fois dans les 12 derniers mois. Lorsqu’un client possède plusieurs abonnements, chacun étant associé à des partenaires différents, tous les partenaires crédité pour toutes les instances de production sous le locataire, dans la catégorie de produits applicables, tant que leur sont associées abonnements payants cross requis Seuil d’utilisateur actif mensuel.|Fin des 12 mois|
 |Croissance d’utilisateurs actifs mensuels|25|Comparaison entre actuel nombre de vs d’utilisateurs actifs mensuels le nombre d’utilisateurs actifs mensuels 13 mois auparavant. Utilisateurs actifs mensuels sont comptées au niveau de l’abonnement, et uniquement les abonnements payants sont considérés. Utilisateurs actifs mensuels sont calculés à la fin de chaque mois. Pour **Customer Engagement**, un partenaire de mise sur le marché développées doit avoir une ligne de base d’au moins 250 utilisateurs actifs mensuels en production et émergentes sur le marché de partenaire au moins 150 utilisateurs actifs mensuels, dans leur intégralité clientèle 13 mois Il y a pour être éligible à tous les points. Pour **Finance and Operations**, un partenaire de mise sur le marché développées doit avoir une ligne de base d’au moins 100 utilisateurs actifs mensuels en production et émergentes sur le marché de partenaire au moins 50 utilisateurs actifs mensuels dans leur intégralité clientèle 13 mois Il y a pour être éligible à tous les points.|Fin des 12 mois|
 
-## <a name="customer-to-partner-association"></a>Client de l’association de partenaire
+## <a name="customer-to-partner-association"></a>Association de Customer-partner
 
-Vous recevez de crédit pour des recettes nettes de nouveau, Net client ajoute, nouveaux déploiements à grandes échelle et à la croissance d’utilisateur actif mensuel pour un client donné, dans les limites de la définition de métrique, si et seulement si vous êtes le demandées partenaire d’enregistrement (CPOR) ou Digital Partner of Record ( DPOR) pour un abonnement payant appartenant au locataire du client.
+Vous recevez de crédit pour des recettes nettes de nouveau, Net client ajoute, nouveaux déploiements à grandes échelle et à la croissance d’utilisateur actif mensuel pour un client donné, dans les limites de la définition de métrique, uniquement si vous êtes le demandées partenaire d’enregistrement (CPOR) ou numérique partenaire de référence (POR) pour un abonnement payant appartenant au locataire du client.
 
 Un partenaire devient le CPOR si elles ont établies association avec un client au niveau de l’abonnement par le biais de l’offre incitative Dynamics 365 Online Solution Advisor (OSA).
 

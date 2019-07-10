@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: rôles, autorisations, administration, agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
-ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.openlocfilehash: 658106548596a5fa7d02d29c0065a23caeacb83d
+ms.sourcegitcommit: 59825cb626e12dfe5eb2d28e836b4573368d705e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "67396730"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67690839"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles et des autorisations aux utilisateurs
 
@@ -24,7 +24,7 @@ Vous avez configuré votre profil de partenaire, y compris juridique nom et adre
 Vous déterminez les types d’accès à que vos utilisateurs disposent de partenaires par les rôles et autorisations que vous leur donnez. Rôles associés à votre entreprise est impliqué dans l’ou les programmes. Par exemple, si votre entreprise est une entreprise de fournisseur de solutions Cloud (CSP), pas uniquement avoir l’Azure AD standard des rôles de gestion telles qu’Administrateur général du client, mais devez rôles spécifiques au programme CSP. Chaque programme possède des rôles spécifiques à celui-ci.
 
 >[!Note]
-> Rôles de locataire Azure Active Directory (AAD) incluent l’administrateur général, administrateur d’utilisateurs et rôles CSP. Rôles non-AAD sont les rôles que vous ne gérez pas le locataire et elles incluent MPN admin, administrateur de profil d’entreprise, référence administrateur, administrateur offre incitative et offre incitative utilisateur. 
+> Rôles de locataire Azure Active Directory (AAD) incluent l’administrateur général, administrateur d’utilisateurs et rôles CSP. Rôles non-AAD sont les rôles que vous ne gérez pas le client, et elles incluent MPN admin, administrateur de profil d’entreprise, référence administrateur, administrateur offre incitative et offre incitative utilisateur. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gérer les transactions commerciales dans partenaires (Azure AD et les rôles CSP)
 
@@ -34,13 +34,14 @@ Vous déterminez les types d’accès à que vos utilisateurs disposent de parte
 |      |• Créer des tickets de support pour l’espace partenaires
 ||• Afficher les contrats, des listes de prix et des offres
 ||• Afficher, créer et gérer des utilisateurs partenaires|
-|Utilisateur Admin   | • Afficher, créer et gérer les utilisateurs
+||  Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement
+|Administrateur de la gestion des utilisateurs   | • Afficher, créer et gérer les utilisateurs
 ||• Afficher tous les profils de partenaires
 ||• Afficher, créer et gérer des utilisateurs partenaires  |
 |Administration de facturation | -Permet d’afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|
 |Utilisateur par défaut|  Afficher mon profil   |
 |Agent d’administration | • Gestion de client
-||• Ajoutez la liste des appareils à l’espace partenaires <
+||• Ajoutez la liste des appareils à l’espace partenaires
 ||• Créer et appliquer des profils sur des appareils
 ||• Gestion des abonnements
 ||Demandes de service et l’intégrité de Service pour les clients •
@@ -87,20 +88,19 @@ CPVs développer des applications pour une utilisation par les partenaires de fo
 
 |**Role** | **Ce que vous pouvez faire**|
 |----------------------------|:----------------------------|
-|Administrateur partenaire MPN|•CAN ajouter les utilisateurs non client
-||• Afficher, créer et gérer des demandes de service de partenaire
-||• Vue juridique, organisation, entreprise et les profils MPN
+|Administrateur partenaire MPN|• Afficher, créer et gérer des demandes de service de partenaire||
+||• Vue juridique, entreprise, entreprise et les profils MPN
 ||• Afficher les détails utilisateur et leurs données de compétences
 ||• Afficher les compétences
 ||• Afficher et gérer les avantages
 ||Achat et • vue Microsoft Partner Network
 ||• Affichage MPN offre des factures et l’historique des commandes
-||• Afficher les données contribution partenaire
+||• Affichage partenaire contribution indicateur des données
 ||• Peuvent fonctionner dans l’outil de Validation de document|
 ||-Afficher l’analytique des données client
-|Administration de compte| • Peuvent ajouter des utilisateurs de non-client
-||• Ajouter ou supprimer des emplacements
-||-Gérer les profils associés aux comptes que vous êtes administrateur de 
+|| Afficher d’autres rôles d’utilisateur au sein de l’entreprise, mais ne peut pas attribuer des rôles
+|Administration de compte| Ajouter des emplacements
+|| Gérer les profils associés aux comptes que vous êtes administrateur de 
 ||• Attribuer des rôles pour les utilisateurs du client de rôles non AAD 
 ||• Inscrire les emplacements dans des programmes
 
@@ -128,7 +128,6 @@ CPVs développer des applications pour une utilisation par les partenaires de fo
 ||Paiements de primes litige •|
 |Utilisateur de primes incitatives|• Peuvent afficher les programmes de primes
 ||• Peuvent afficher et lancer des revendications de primes
-||• Affichage rebate et co-op bénéfices
 ||• Affichage rebate et co-op bénéfices
 ||• Accès prise en charge
 

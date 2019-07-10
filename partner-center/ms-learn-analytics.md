@@ -6,12 +6,12 @@ description: Pour plus d’informations sur la façon de comprendre votre analyt
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09d4ca14c1b407e9010ab26bccaf612f9caad732
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: e59be88d1e599bbd9d26827ec6a588a23a2f77a4
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622527"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674252"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Rapport d’analytique Microsoft Learn
 
@@ -20,6 +20,9 @@ Le rapport Microsoft Learn vous fournit des informations sur les apprenants dans
 ## <a name="how-to-read-the-report"></a>Guide pratique pour lire le rapport
 
 ### <a name="summary-charts"></a>Graphiques de résumé
+
+Ces graphiques résument count et mensuelle tendances cumulatives aux individus formés, les saisies semi-automatiques de module et les parcours d’apprentissage.
+
 
 **Formé le nombre de personnes**: Nombre de tous les apprenants distincts qui ont effectué au moins un module au cours de la plage de dates sélectionnée 
 
@@ -37,11 +40,15 @@ Par exemple, si le parcours d’apprentissage « Chemin d’accès 1 » est ef
 
 ### <a name="trained-individuals-monthly-trend"></a>Tendance des individus formé mensuels
 
+Ces données sont la tendance des utilisateurs de votre entreprise qui ont effectué un module pour la première fois dans le mois en question. 
+
 **Axe des abscisses** est mois pour le filtre de temps sélectionné. 
 
 **L’axe des y** est le nombre d’apprenants actives qui se sont inscrits (la première saisie semi-automatique d’un module) au cours du mois. Cela n’est pas cumulatif.
 
 ### <a name="module-completions-monthly-trend"></a>Tendance mensuelle des saisies semi-automatiques de module
+
+Ces données sont la tendance des modules terminée par les utilisateurs de votre entreprise au cours du mois. (non cumulé) 
 
 **Axe des abscisses** est mois pour le filtre de temps sélectionné. 
 
@@ -49,41 +56,75 @@ Par exemple, si le parcours d’apprentissage « Chemin d’accès 1 » est ef
 
 ### <a name="learning-path-completions-monthly-trend"></a>Tendance mensuelle des saisies semi-automatiques chemin Learning
 
+Ces données sont la tendance des chemins d’accès effectuées par les utilisateurs de votre société au cours du mois d’apprentissage. (non cumulé) 
+
 **Axe des abscisses** est mois pour le filtre de temps sélectionné. 
 
 **L’axe des y** est le nombre de saisies semi-automatiques de module dans ce mois. Cela n’est pas cumulatif.
 
 ### <a name="learning-path-completion-tabs"></a>Onglets de saisie semi-automatique de chemin d’accès d’apprentissage 
 
-- Onglet de module
+**Onglet de module**
 
-**Graphique en anneau de saisies semi-automatiques module**: répartition de la saisie semi-automatique de module (nombre affiché dans la section résumée) par les noms de module.
+Cet onglet inclut la répartition des modules terminée dans votre entreprise par les noms de module 5 principaux ; le produit auquel le module est associé ; et le rôle d’utilisateur pertinent pour le module.  
+
+- Graphique en anneau de saisies semi-automatiques module : répartition de la saisie semi-automatique de module (nombre affiché dans la section résumée) par les noms de module.
 
 Nombre affiché dans le centre du graphique est les total modules terminées
 
-**Les saisies semi-automatiques par rôle**: répartition des saisies semi-automatiques module par le rôle du module. Si un module est associé à plusieurs rôles, chacun des rôles est ajouté au nombre de saisies semi-automatiques de module.
+- Les saisies semi-automatiques par rôle : répartition des saisies semi-automatiques module par le rôle du module. Si un module est associé à plusieurs rôles, chacun des rôles est ajouté au nombre de saisies semi-automatiques de module.
 
-Nombre affiché dans le centre du graphique en anneau est le nombre de rôles distincts pour les saisies semi-automatiques de module. 
+Nombre affiché dans le centre du graphique est le nombre de rôles distincts pour les saisies semi-automatiques de module. 
 
-**Les saisies semi-automatiques par produit**: répartition de la saisie semi-automatique de module par le produit, le module est mappé à. Si un module est associé à plusieurs produits, chaque produit est ajoutée au nombre de saisies semi-automatiques de module.    
+- Les saisies semi-automatiques par produit : répartition de la saisie semi-automatique de module par le produit, le module est mappé à. Si un module est associé à plusieurs produits, chaque produit est ajoutée au nombre de saisies semi-automatiques de module.    
 
-Nombre affiché au milieu du graphique en anneau est le nombre de produits distincts pour les saisies semi-automatiques de module.  
+Nombre affiché dans le centre du graphique est le nombre de produits distincts pour les saisies semi-automatiques de module.  
 
-- Onglet chemin d’accès de formation    
+**Onglet chemin d’accès de formation**   
 
-**Graphique en anneau de saisies semi-automatiques chemins d’apprentissage**: répartition des saisies semi-automatiques de chemins d’accès d’apprentissage (nombre affiché dans la section résumée) par nom.
+Cet onglet inclut une répartition des formations terminées dans votre entreprise par les noms de module 5 principaux ; le produit que le parcours d’apprentissage est mappé à ; et le rôle pertinent pour ce parcours d’apprentissage.  
 
-**Les saisies semi-automatiques par rôle**: répartition de l’apprentissage saisies semi-automatiques de chemins d’accès par le rôle. Si un module est associé à plusieurs rôles, chacun des rôles est ajouté au nombre de saisies semi-automatiques de module.
+- Graphique en anneau de saisies semi-automatiques chemins d’apprentissage : répartition des saisies semi-automatiques de chemin d’accès d’apprentissage (nombre affiché dans la section résumée) par nom.
 
-**Les saisies semi-automatiques par produit**: répartition de l’apprentissage saisies semi-automatiques de chemins d’accès par le produit à laquelle le parcours d’apprentissage est mappée. Si un module est associé à plusieurs produits, chaque produit est ajoutée au nombre de saisies semi-automatiques de module.
+- Les saisies semi-automatiques par rôle * : répartition de l’apprentissage saisies semi-automatiques de chemins d’accès par le rôle. Si un module est associé à plusieurs rôles, chacun des rôles est ajouté au nombre de saisies semi-automatiques de module.
+
+- Les saisies semi-automatiques par produit : répartition de l’apprentissage saisies semi-automatiques de chemins d’accès par le produit à laquelle le parcours d’apprentissage est mappée. Si un module est associé à plusieurs produits, chaque produit est ajoutée au nombre de saisies semi-automatiques de module.
 
 ### <a name="completions-by-learning-individuals"></a>Les saisies semi-automatiques en apprenant les individus
 
-Microsoft Learn identifie les apprenants avec un ID d’objet utilisateur. Sous le **onglet Modules**, tous les apprenants sont triés par les modules terminées. Ils sont affichés avec leur nom d’utilisateur Microsoft Learn, ID d’objet et le nombre de modules. Vous pouvez rechercher à l’aide du nom d’utilisateur.
+Ce rapport répertorie les utilisateurs formés dans votre entreprise et les détails des modules terminées et les parcours d’apprentissage.
+
+Microsoft Learn identifie les apprenants avec un ID d’objet utilisateur. Sous le **onglet Modules**, tous les apprenants sont triés par les modules terminées. Ils sont affichés avec leur nom d’utilisateur Microsoft Learn, ID d’objet et le nombre de modules. Vous pouvez rechercher à l’aide du nom d’utilisateur. 
+
+Sous le **onglet chemins d’accès d’apprentissage** tous les apprenants triés par terminé, des voies de formation sont affichées avec le nom d’affichage apprenant, ID d’objet et nombre de modules.
 
 Pour obtenir des détails d’un apprenant à l’aide de l’ID d’objet utilisateur : 
 
 1. Connectez-vous à [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer ). (Vous devez être administrateur général du locataire Azure AD de votre société.)
 
 2. Copiez l’ID d’objet utilisateur pour le [mis en surbrillance de zone](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) dans l’Explorateur graphique. 
+
+## <a name="faq"></a>Forum Aux Questions
+
+1. Je n’arrive pas à afficher les détails de formation de ma société.
+
+Ce rapport est disponible pour les partenaires qui disposent d’un compte Centre de partenaires. Si vous êtes toujours en Partner Membership Center, vous ne serez pas en mesure de voir ce rapport.
+
+2.  Qui dans notre entreprise peut afficher ce rapport ? 
+
+L’administrateur général et l’administrateur MPN peuvent afficher le rapport.
+
+3. Comment puis-je m’assurer que tous nos utilisateurs associent leurs comptes Microsoft Learn avec leur compte espace partenaires ?
+
+Une fois que l’administrateur général ajoute un nouvel utilisateur, cet utilisateur a besoin accéder à leurs **mon profil** à associer son compte Microsoft Learn.
+
+- Sélectionnez le **votre compte** icône dans le coin droit de tableau de bord, puis sélectionnez **mon profil**. 
+
+-  Sous **votre apprentissage** un utilisateur sera en mesure d’associer son compte Microsoft Learning et connecter leur compte Microsoft Partner University.
+
+3. Puis-je voir les utilisateurs de la société qui vous connecter à Microsoft Learn avec un compte MSA dans ce rapport ?
+
+Actuellement, la meilleure façon de procéder consiste à ajouter ces utilisateurs à Azure AD client et les ajouter à des partenaires afin qu’ils peuvent associer son compte Microsoft Learn via **mon profil** dans Partner Center. 
+
+Pour les utilisateurs qui utilisent uniquement leur compte MSA pour l’apprentissage, dans un avenir proche, l’équipe Microsoft Learn activera la possibilité pour les associer leur adresse de messagerie professionnelle à leur profil Microsoft Learn. 
 

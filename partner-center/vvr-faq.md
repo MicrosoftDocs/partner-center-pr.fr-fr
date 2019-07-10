@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: bons de formation, programme software assurance, formation, valider les bons, chèque-cadeau de réserve
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132582"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674217"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : utilisation de l’outil de validation et d’échange de bons 
 
@@ -51,6 +51,9 @@ L’outil de Validation de document et d’échange a été déplacé vers [part
 **Comment ma société peut accéder à l’outil VVR ?**
 
 - Pour accéder à l’outil VVR, votre entreprise doit s’inscrire dans le programme SATV ou le programme SA DPS.
+
+Lire un forum aux questions plus détaillée sur la [workflow d’outil de validation de document](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
+
 Pour plus d’informations sur la façon de s’inscrire à SATV, lire [programme Software Assurance formation chèque-cadeau (SATV) dans le centre partenaires](software-assurance-satv.md).
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+Pour plus d’informations sur la façon de s’inscrire à des programmes de Software Assurance DPS, lire [programmes Software Assurance dans partenaires](software-assurance-dps.md).
