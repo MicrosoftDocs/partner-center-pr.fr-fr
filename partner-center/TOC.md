@@ -46,6 +46,7 @@
 ## [Restaurer un compte Espace partenaires suspendu](suspended-partner-center-account.md)
 ## [Créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md)
 ## [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
+## [Associer votre compte Microsoft Learn à l'Espace Partenaires](ms-learn-associate.md)
 ## [Vérifier la propriété de votre domaine](become-global-admin.md)
 ## [Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)
 ## [Réinitialiser mon mot de passe](reset-my-pasword.md)
@@ -116,7 +117,7 @@
 # Données et analytique de l’Espace partenaires
 ## [Obtenir et analyser vos données métier](data-analysis-lp.md)
 ## [Application d’analytique partenaire pour Microsoft Power BI](power-bi-app-for-direct-partners.md)
-## [Contribution partenaire : optimiser vos indicateurs de performances](partner-contributions.md)
+## [Indicateurs de contributions des partenaires](partner-contribution-indicators.md)
 ## [Obtenir des données sur l’utilisation des abonnements Azure de vos clients](analyze-azure-usage.md)
 ## [Analyser les performances des revendeurs indirects](analyze-indirect-resellers.md)
 ## [Analyser les abonnements et les licences](analyze-subscriptions-licenses.md)
