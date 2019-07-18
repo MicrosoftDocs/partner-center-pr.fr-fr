@@ -1,175 +1,175 @@
 ---
-title: Préparer votre déplacement à partir de l’appartenance de partenaires pour les partenaires | Partenaires
+title: Préparez-vous à passer du centre d’appartenance au partenaire à l’espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 06/13/2019
-description: Éléments à considérer avant de passer votre entreprise de PMC pour partenaires
+description: Points à prendre en compte avant de déplacer votre activité de PMC vers l’espace partenaires
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
-ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
+ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "67563039"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854516"
 ---
-# <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre déplacement à partir de partenaire Membership Center (PMC) pour les partenaires
+# <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparez-vous à passer du centre d’appartenance partenaire (PMC) à l’espace partenaires
 
-Nous déplaçons gestion des appartenances à partir de partenaire Membership Center (PMC) vers l’espace partenaires – la destination unique pour gérer votre relation commerciale avec Microsoft. Nous voulons votre passage au centre de partenaires pour être aussi efficace et facile que possible. Nous avons identifié certains domaines où PMC diffère de l’espace partenaires, et nous pensons que vous souhaitez comprendre et à préparer avant du déplacer.
+Nous transférons la gestion des appartenances du Partner Membership Center (PMC) vers l’espace partenaires, la seule destination pour gérer votre relation commerciale avec Microsoft. Nous souhaitons que votre migration vers le centre partenaires soit aussi efficace et facile que possible. Nous avons identifié certains domaines dans lesquels l’espace partenaires diffère du PMC, et nous pensons que vous souhaiterez les comprendre et les préparer avant d’effectuer le déplacement.
 
-## <a name="account-and-identity-setup"></a>Programme d’installation de compte et d’identité
+## <a name="account-and-identity-setup"></a>Configuration du compte et de l’identité
 
-**Qu’est un compte de travail Azure Active Directory (Azure AD) ?**
+**Qu’est-ce qu’un compte professionnel Azure Active Directory (Azure AD)?**
 
 Un compte professionnel Azure est une représentation virtuelle dédiée et isolée de votre entreprise dans le cloud public Azure. Il est créé pour vous lorsque vous vous abonnez à un service de cloud computing Microsoft tel qu’Azure, Microsoft Intune ou Office 365.
 
-Votre compte professionnel héberge vos utilisateurs Azure AD et les informations les concernant - leur e-mail les mots de passe, les données de profil, autorisations et ainsi de suite. Le compte de travail contient également des groupes, applications et autres informations se rapportant à une société et sa sécurité. Pour plus d’informations, consultez...
+Votre compte professionnel héberge vos utilisateurs Azure AD et les informations les concernant (par e-mail, mots de passe, données de profil, autorisations, etc.). Le compte professionnel contient également des groupes, des applications et d’autres informations concernant une société et sa sécurité. Pour plus d’informations, consultez...
 
-Dans l’espace partenaires, vous allez utiliser votre adresse de messagerie professionnelle pour se connecter à votre compte pas votre adresse e-mail personnelle.
-- Votre compte professionnel : john@contoso.com
-- Votre compte personnel : John@outlook.com
+Dans l’espace partenaires, vous allez utiliser votre adresse de messagerie professionnelle pour vous connecter à votre compte et non à votre adresse e-mail personnelle.
+- Votre compte professionnel:john@contoso.com
+- Votre compte personnel:John@outlook.com
 
-Votre adresse de messagerie professionnelle fait partie de votre client Azure active directory. Pour qu’un compte Centre de partenaires, vous devez disposer d’un locataire AAD. Pour plus d’informations sur Azure Active Directory, consultez [créer votre annuaire dans Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Votre adresse de messagerie professionnelle fait partie de votre locataire Azure Active Directory. Pour disposer d’un compte dans l’espace partenaires, vous devez disposer d’un locataire AAD. Pour plus d’informations sur Azure Active Directory, consultez [création de votre répertoire dans Azure ad](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
-**Lorsque vous déplacer vers partenaires de PMC, quel compte vous devez vous être connecté au Partner Center avec if ont un locataire AAD avec Microsoft (pour Office 365 par exemple) et que vous avez également un locataire pour votre entreprise CSP ?**
+**Lorsque vous accédez au centre des partenaires à partir de PMC, quel compte devez-vous vous connecter à l’espace partenaires avec si vous disposez d’un locataire AAD avec Microsoft (pour Office 365, par exemple) et que vous avez également un locataire pour votre activité CSP?**
 
-Vous pouvez accéder à des partenaires avec le compte CSP ou votre compte de messagerie professionnel MPN. Si vous choisissez de vous connecter à l’aide de votre adresse de messagerie professionnelle CSP, le volet de navigation gauche sur votre tableau de bord affiche les informations de programme MPN et CSP. Si vous vous connectez avec votre adresse de messagerie professionnelle de locataire MPN Azure AD, vous verrez uniquement vos informations de programme MPN. Rôles d’utilisateur diffèrent entre MPN et CSP si vous utilisez le même compte pour les entreprises MPN et CSP, veillez à affecter des rôles d’utilisateur en conséquence. Pour plus d’informations sur les rôles d’utilisateur, consultez [attribuer des rôles d’utilisateur et autorisations](permissions-overview.md).
+Vous pouvez vous connecter à l’espace partenaires à l’aide du compte CSP ou de votre compte de messagerie de travail MPN. Si vous choisissez de vous connecter à l’aide de votre adresse de messagerie de fournisseur de services de chiffrement, le volet de navigation gauche de votre tableau de bord affiche les informations des programmes MPN et CSP. Si vous vous connectez avec votre adresse de messagerie MPN Azure AD client, vous ne verrez que les informations de votre programme MPN. Les rôles d’utilisateur diffèrent entre MPN et CSP. ainsi, si vous utilisez le même compte pour les entreprises MPN et CSP, veillez à affecter des rôles d’utilisateur en conséquence. Pour plus d’informations sur les rôles d’utilisateur, consultez [affecter des rôles d’utilisateur et des autorisations](permissions-overview.md).
 
-**Quelle est la différence entre le rôle d’administrateur général AAD et le rôle d’administrateur général PMC MPN ?**
+**Quelle est la différence entre le rôle d’administrateur global AAD et le rôle d’administrateur global PMC MPN?**
 
-Il s’agit de deux rôles complètement différentes avec des autorisations différentes. L’administrateur général du locataire AAD dans partenaires administre le locataire : ajoute ou supprime les utilisateurs, fournit et gère les mots de passe, les rôles et les autorisations et a accès aux programmes de tous les leur société de partenaires. 
+Il s’agit de deux rôles complètement différents avec des autorisations différentes. L’administrateur global de locataire AAD dans l’espace partenaires administre le locataire: ajoute ou supprime des utilisateurs, fournit et gère les mots de passe, les rôles et les autorisations, et a accès à tous les programmes de leur entreprise dans l’espace partenaires. 
 
-Le rôle d’administrateur général de MPN dans PMC pourrait les opérations suivantes :
+Le rôle d’administrateur général MPN dans PMC peut effectuer les opérations suivantes:
 
-- Afficher et modifier toutes les données associées à l’entreprise et tous les emplacements de la société
+- Afficher et modifier toutes les données associées à la société et à tous les emplacements de l’entreprise
 
--  Ajouter des administrateurs au niveau global ou local.  En outre, les administrateurs généraux peuvent affecter toute personne à n’importe quel emplacement les accès administrateur Global qui leur accorde l’accès global, quel que soit l’endroit où ils sont associés.
--  Effectuer un partenaire quelconque accessible sur la fonction de l’interface utilisateur, y compris : 
+-  Ajoutez des administrateurs au niveau global ou local.  En outre, les administrateurs généraux peuvent attribuer à n’importe quel utilisateur à n’importe quel emplacement un accès administrateur général qui leur accorde un accès global, quel que soit l’emplacement auquel ils sont associés.
+-  Exécuter toute fonction d’interface utilisateur partenaire, y compris: 
 
 -  Ajouter/supprimer des utilisateurs
 
- - Attribuer/supprimer des rôles 
+ - Affecter/supprimer des rôles 
 
- - Emplacements d’Ajout/Suppression/mise à jour 
+ - Ajouter/supprimer/mettre à jour des emplacements 
 
- - Achat compétence/mappages 
+ - Acheter des compétences/cartes 
 
 -  Afficher les avantages
 
-Lorsque l’administrateur général MPN se déplace au centre de partenaires le rôle est appelé Administrateur partenaire MPN possède des autorisations différentes et des tâches que l’administrateur général de partenaires. Pour plus d’informations sur les rôles et autorisations dans l’espace partenaires, consultez [attribuer des rôles d’utilisateurs et les autorisations](permissions-overview.md)
+Lorsque l’administrateur général MPN se déplace vers l’espace partenaires, le rôle est appelé administrateur du partenaire MPN qui a des autorisations et des tâches différentes de celles de l’administrateur général de l’espace partenaires. Pour plus d’informations sur les rôles et les autorisations dans l’espace partenaires, consultez [affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md).
 
 **Rôles d’utilisateur, y compris les rôles d’utilisateur invité dans l’espace partenaires**
 
-Partenaires a différents types de rôles en fonction des types de travail à effectuer. Il existe des rôles, tels qu’Administrateur général qui sont des rôles Azure AD. Certains des rôles sont spécifiques à des programmes tels que le programme de fournisseur de services Cloud ou les primes, et il existe des rôles qui sont spécifiques à MPN. Pour découvrir tous les rôles de partenaires, lire [attribuer des rôles d’utilisateurs et les autorisations](permissions-overview.md).
+L’espace partenaires offre différents types de rôles en fonction des types de travail à effectuer. Certains rôles, tels que l’administrateur général, sont des rôles Azure AD. Certains des rôles sont spécifiques aux programmes tels que le programme ou les incentives du fournisseur de services Cloud, et certains rôles sont spécifiques à MPN. Pour savoir ce que sont tous les rôles de l’espace partenaires, consultez [affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md).
 
 
 
-**Que se passe-t-il pour les rôles de mes utilisateurs lorsqu’ils passent de PMC pour partenaires ?**
+**Qu’advient-il des rôles des utilisateurs lorsqu’ils passent de PMC à l’espace partenaires?**
 
-À l’exception de l’administrateur général de MPN ou un contact de programme principal qui effectue la migration, tous les utilisateurs dans PMC perdrez leurs rôles d’administrateur. La personne qui termine la migration devez attribuer des rôles dans l’espace partenaires. Les rôles de partenaires diffèrent de ceux dans PMC. Lecture [attribuer des rôles d’utilisateurs et les autorisations](permissions-overview) et [déplacement PMC vers partenaires](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) pour plusieurs rôles d’utilisateur sur Centre partenaires.
-
-
-**Quelle est la différence entre mon profil d’entreprise et mon profil d’entreprise ?**
-
-Profil de votre société est les informations sur votre entreprise qui inclut l’adresse, emplacements, contact principal, les informations fiscales et bancaires.
-
-Votre profil d’entreprise est la façon dont vous vous présentez aux clients et est une page marketing qui affiche votre logo, plus d’informations sur le focus de votre entreprise, de votre expertise, etc.
-
-**Ce qui ne tient compte moyenne de consolidation pour mon compte ?**
-
-Si vous utilisez le même locataire Azure AD pour migrer plusieurs comptes MPN au Partner Center, le système sera automatiquement qui reconnaît et vous demander de consolider vos comptes. Cela est vrai même si vous avez plusieurs domaines associés au même locataire Azure AD. 
-
-Vous pouvez toujours décider de migrer vers les partenaires à l’aide de locataires AAD séparés, mais Veuillez noter que cette évaluation isolée de vos compétences et supplémentaire entraîne des coûts d’achat. 
-
-**Si j’ai plusieurs locataires AAD et un seul compte MPN, est-il possible de les lier dans partenaires ?**
-
-Oui, dans l’espace partenaires, vous pouvez lier plusieurs locataires Azure AD à un seul compte espace partenaires.
-En savoir plus ici. 
-
-**Existe-t-il des restrictions à l’ajout de plusieurs locataires Azure AD à un seul compte espace partenaires ?**
-
-Si le client Azure AD est déjà associé à un compte espace partenaires existant, il ne peut pas être associée aux nouveaux comptes de partenaires à l’aide de la fonctionnalité d’une architecture mutualisée. Une autre façon de penser qu’il est, un locataire Azure AD peut uniquement être associé à un compte espace partenaires, mais un compte espace partenaires peut avoir plusieurs locataires qui lui sont associées.
-
-## <a name="microsoft-partner-network-mpn-membership-migration"></a>Migration de l’appartenance au Microsoft Partner Network (MPN) 
-
-**Qui peut effectuer le déplacement à partir de PMC pour partenaires ?**
-
-Votre administrateur général de MPN de société ou le contact principal de programme (ces deux rôles sont souvent détenus par la même personne) peut lancer et effectuer le déplacement.
-
-**La personne à la fin de la migration deviendra le contact principal sur le profil d’entreprise juridique dans partenaires ?**
-
-Pas nécessairement, toutefois, le contact principal doit être une personne qui a l’autorisation pour signer des contrats.
-
-**Microsoft pour migrer mon adhésion à MPN pour moi ?**
-
-Non. Microsoft ne peut pas vous aider à déplacer votre compte de l’appartenance à des partenaires. Vous devrez déplacer votre compte en vous connectant PMC avec votre compte professionnel (informations d’identification de connexion) commencer le processus de migration. Une fois que vous avez terminé les étapes pour déplacer votre compte, vous pouvez commencer à gérer votre abonnement et attribuer des rôles d’utilisateur et des autorisations à votre équipe afin de pouvoir accéder aux avantages et aider à gérer l’appartenance. Microsoft migre automatiquement les compétences actuelles, des avantages, des informations d’emplacement, bank/taxes relatives primes et des associations MCP y compris l’accès de l’Université de partenaire.
-
-Microsoft migre automatiquement les compétences actuelles, des avantages, des informations d’emplacement, bank/taxes relatives primes et des associations MCP y compris l’accès de l’Université de partenaire.
-
-**Comment va changer la stratégie de renouvellement ?**
-
- Dans le centre de partenaires, la fenêtre de renouvellement est à partir de votre date d’anniversaire via les 30 jours suivants.
-
-**Nos compétences reste inchangés après que nous passons à des partenaires ?**
-
-Oui, compentencies ne seront pas affectés par le passage à des partenaires. Si vous remarquez des écarts, contactez [prise en charge](https://partner.microsoft.com/support).
+À l’exception de l’administrateur général MPN ou du contact de programme principal qui effectue la migration, tous les utilisateurs de PMC perdront leurs rôles d’administrateur. La personne qui effectue la migration doit attribuer des rôles dans l’espace partenaires. Les rôles de l’espace partenaires diffèrent de ceux de PMC. Lisez [affecter des rôles et des autorisations d’utilisateurs] (autorisations-overview.md et [passage de PMC à l’espace partenaires](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) pour plus d’informations sur les rôles d’utilisateur dans l’espace partenaires.
 
 
- **Mes avantages (y compris les avantages du cloud, support technique, avantages des logiciels, Visual Studio) changera une fois que nous passons ?**
+**Quelle est la différence entre mon profil d’entreprise et mon profil d’entreprise?**
 
- Vos avantages éligibles ne changera pas. Si vous remarquez des écarts, contactez [prise en charge](https://partner.microsoft.com/support).
+Votre profil d’entreprise contient les informations relatives à votre société qui incluent l’adresse, les emplacements, le contact principal, les informations bancaires et fiscales.
 
- **Seront honorées nos comptes Microsoft qui ont des allocations des avantages de Visual Studio ?**
+Votre profil d’entreprise vous permet de vous présenter à vos clients et constitue une page marketing qui affiche votre logo, les détails de votre entreprise, votre expertise, etc.
+
+**Quelle est la moyenne de la consolidation des comptes pour mon compte?**
+
+Si vous utilisez le même Azure AD locataire pour migrer plusieurs comptes MPN dans l’espace partenaires, le système reconnaît automatiquement et vous demande de consolider vos comptes. Cela est vrai même si vous avez plusieurs domaines associés au même Azure AD locataire. 
+
+Vous pouvez toujours décider de migrer vers l’espace partenaires à l’aide de locataires AAD distincts, mais notez que cela entraîne une évaluation isolée de vos compétences et des coûts d’achat supplémentaires. 
+
+**Si j’ai plusieurs locataires AAD et un seul compte MPN, est-il possible de les lier dans l’espace partenaires?**
+
+Oui, dans l’espace partenaires, vous pouvez lier plusieurs locataires Azure AD à un seul compte Center de partenaire.
+Pour en savoir plus, cliquez ici. 
+
+**Existe-t-il des restrictions relatives à l’ajout de plusieurs locataires Azure AD à un seul compte de l’espace partenaires?**
+
+Si le client Azure AD est déjà associé à un compte espace partenaires existant, il ne peut pas être associé à de nouveaux comptes de l’espace partenaires à l’aide de la fonctionnalité d’architecture mutualisée. Une autre façon de penser qu’il s’agit d’un locataire Azure AD ne peut être associé qu’à un seul compte d’espace partenaires, mais un compte espace partenaires peut être associé à plusieurs locataires.
+
+## <a name="microsoft-partner-network-mpn-membership-migration"></a>Migration de l’appartenance Microsoft Partner Network (MPN) 
+
+**Qui peut effectuer le passage de PMC à l’espace partenaires?**
+
+L’administrateur général MPN de votre entreprise ou le contact principal du programme (ces deux rôles sont souvent détenus par la même personne) peuvent initier et effectuer le déplacement.
+
+**La personne qui termine la migration deviendra-t-elle le contact principal dans le profil juridique de l’entreprise dans l’espace partenaires?**
+
+Toutefois, ce n’est pas nécessairement le contact principal qui doit être une personne disposant de l’autorisation de signature des accords.
+
+**Microsoft peut-il migrer mon abonnement MPN pour moi?**
+
+Non. Microsoft ne peut pas vous aider à déplacer votre compte d’appartenance vers l’espace partenaires. Vous devrez déplacer votre compte en vous connectant à PMC avec votre compte professionnel (informations d’identification de connexion) pour commencer le processus de migration. Une fois que vous avez terminé les étapes pour déplacer votre compte, vous pouvez commencer à gérer votre appartenance et affecter des rôles d’utilisateur et des autorisations à votre équipe afin qu’ils puissent accéder aux avantages et aider à gérer l’appartenance. Microsoft migrera automatiquement les compétences, les avantages, les informations d’emplacement, les informations bancaires/fiscales en cours pour les incentives et les associations MCP, y compris l’accès à l’Université partenaire.
+
+Microsoft migrera automatiquement les compétences, les avantages, les informations d’emplacement, les informations bancaires/fiscales en cours pour les incentives et les associations MCP, y compris l’accès à l’Université partenaire.
+
+**Quelles sont les modifications apportées à la stratégie de renouvellement?**
+
+ Dans l’espace partenaires, la fenêtre de renouvellement est comprise entre votre date anniversaire et les 30 jours suivants.
+
+**Nos compétences restent-elles inchangées après le passage à l’espace partenaires?**
+
+Oui, compentencies ne sera pas affecté par le déplacement vers l’espace partenaires. Si vous remarquez des différences, contactez le [support technique](https://partner.microsoft.com/support).
 
 
- Oui. Les avantages de Visual Studio allouées aux comptes de service administrés seront honorées et conservées. Elles sont également conservées après le renouvellement de partenaires. Toutefois, si vous supprimez une allocation MSA une fois migrés dans Partner Center, il ne peut pas être rajoutée à Partner Center.
+ **Mes avantages (y compris les avantages Cloud, le support technique, les avantages logiciels, Visual Studio) évoluent après le déplacement?**
 
-Dans Partner Center, un partenaire peut ajouter des comptes professionnels et les comptes d’utilisateur invité qui sont MSA provenant du même locataire où le partenaire est administrateur MPN dans le locataire Azure AD. Si le partenaire est un administrateur global dans plusieurs locataires Azure AD et que tous les clients de ces soient associés au même compte de partenaires, le partenaire est autorisé pour ajouter des utilisateurs sur tous les locataires ces dans les avantages de Visual Studio et les allocations basée sur l’utilisation de Azure.
+ Vos avantages éligibles ne seront pas modifiés. Si vous remarquez des différences, contactez le [support technique](https://partner.microsoft.com/support).
 
-Bien que les utilisateurs invités peuvent recevoir basée sur l’utilisation des abonnements de Visual Studio par l’administrateur MPN ou l’administrateur global, les utilisateurs invités connexion impossible à l’espace partenaires à l’aide de leur compte de service administré. Les utilisateurs invités peuvent, toutefois, la connexion à Azure et Visual Studio pour valider et utiliser leurs avantages attribués.
-
-
- **Comment dois-je gérer notre associations MCP et notre accès Partner University ?**
-
- Il n’y a aucune modification aux associations MCP qui déplacent de PMC. Toutefois, les nouveaux employés nouveau après avoir déplacé les partenaires devrez être associées aux partenaires. Toutes les autorisations de votre université de partenaire pour les utilisateurs existants resteront mais les nouveaux employés doivent atteindre [le centre de formation](https://partner.microsoft.com/training) pour plus d’informations sur la façon d’accéder à l’Université de partenaire.
-
- **Comment afficher des informations de MCP une fois que les déplacer vers le centre partenaires ?**
-
-Sélectionnez **compétences** à partir de la barre de navigation gauche du tableau de bord. À partir de la **compétences** page que vous êtes en mesure de télécharger le rapport de compétences. Le rapport de compétences répertorie les utilisateurs qui ont acquis des compétences pertinents pour les compétences et les programmes de partenaires. Si vos utilisateurs ont acquis des compétences, mais ces compétences ne sont pas pertinentes pour les compétences qui vous travaillez vers, ils ne seront pas répertoriés dans le rapport.
+ **Nos comptes Microsoft avec les avantages de Visual Studio sont-ils honorés?**
 
 
- **Les références client sont utilisés dans l’espace partenaires ?**
+ Oui. Les avantages de Visual Studio alloués à MSAs seront honorés et conservés. Elles seront également conservées après le renouvellement de l’espace partenaires. Toutefois, si vous supprimez une allocation de MSA une fois migrée dans l’espace partenaires, elle ne peut pas être rajoutée dans l’espace partenaires.
 
- Non, vous n’avez pas besoin des références de client pour répondre aux exigences de compétence dans partenaires.
+Dans l’espace partenaires, un partenaire peut ajouter des comptes professionnels et des comptes d’utilisateurs invités qui sont MSA du même locataire que le partenaire MPN admin dans le locataire Azure AD. Si le partenaire est un administrateur global dans plusieurs locataires Azure AD et que tous ces locataires sont associés au même compte d’espace partenaires, le partenaire est autorisé à ajouter des utilisateurs à l’ensemble de ces locataires dans les avantages de Visual Studio et les allocations basées sur l’utilisation d’Azure.
 
- **Associations de partenaire de référence se déplacera vers partenaires ?**
-
- Oui, il n’existe aucune modification Partner of Record. Apprenez-en davantage sur [liant votre ID partenaire à vos clients](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
-
-**Y a-t-il un impact sur les primes en raison du déplacement pour partenaires ?**
-
-Non, il n’est aucun impact sur les primes si vous avez déplacé votre compte sans consolidant des emplacements. Si votre entreprise comporte plusieurs comptes dans PMC et, lorsque vous déplacez vers le centre de partenaires que vous décidez de consolider dans un compte global, il n’y aura aucune perte de primes, mais offre incitative paiement peut prendre un certain. Si vous ne déplacez pas tous vos comptes PMC qui ont été impliquées dans des programmes de primes, vous pouvez arrêter l’obtention de primes qui sont liées à ces comptes.
+Bien que les utilisateurs invités puissent se voir assigner des abonnements basés sur l’utilisation de Visual Studio par l’administrateur MPN ou l’administrateur général, les utilisateurs invités ne peuvent pas se connecter à l’espace partenaires à l’aide de leur MSA. Toutefois, les utilisateurs invités peuvent se connecter à Azure et à Visual Studio pour valider et utiliser leurs avantages affectés.
 
 
-**Quelles sont les rôles d’utilisateur offre incitative dans partenaires ?** 
+ **Comment gérer nos associations MCP et notre accès à l’Université des partenaires?**
 
-Rôles offre incitatives dans partenaires sont basés sur l’emplacement et incluent des primes destinées aux utilisateurs admin et incitations. Pour plus d’informations sur ce que peuvent faire ces rôles, consultez [attribuer des rôles d’utilisateurs et les autorisations](permissions-overview.md).
+ Aucune modification n’a été apportée aux associations MCP qui se déplacent de PMC. Toutefois, les nouveaux nouveaux employés après avoir été déplacés vers l’espace partenaires devront être associés dans l’espace partenaires. Toutes les autorisations de votre Université partenaire pour les utilisateurs existants seront conservées, mais tous les nouveaux employés devront accéder au [Centre de formation](https://partner.microsoft.com/training) pour obtenir des informations sur l’accès à l’Université partenaire.
 
-**Les utilisateurs des incitations affectables au niveau global et l’emplacement ?**
+ **Comment faire afficher les informations du MCP une fois que je passe à l’espace partenaires?**
 
- Oui. Vous pouvez affecter un administrateur de primes pour être l’administrateur de primes pour tous les emplacements ou chaque emplacement peut avoir son propre administrateur de primes.
+Dans le tableau de bord, sélectionnez **compétences** dans le panneau de navigation de gauche. À partir de la page **compétences** , vous pouvez télécharger le rapport compétences. Le rapport compétences répertorie les utilisateurs qui ont acquis des compétences en rapport avec les compétences et les programmes de l’espace partenaires. Si vos utilisateurs ont acquis des compétences, mais que ces compétences ne sont pas pertinentes pour les compétences que vous travaillez, elles ne sont pas répertoriées dans le rapport.
 
- **Primes peuvent être payés au niveau global ou emplacement ?**
 
- Primes sont payés uniquement au niveau du magasin.
+ **Les références client sont-elles utilisées dans l’espace partenaires?**
 
-**Concernant les références, les profils d’entreprise combien pouvons-nous créer ?**
+ Non, vous n’avez pas besoin de références client pour répondre aux exigences de compétence dans l’espace partenaires.
 
-Votre entreprise pouvez créer plusieurs profils d’entreprise en tant que vos besoins pour représentent entièrement les intérêts de votre entreprise. Dans chaque profil d’entreprise, vous pouvez répertorier jusqu'à cinq sites, un emplacement par pays. Chacun des profils d’entreprise peut recevoir des références pour chacun de ses emplacements.
+ **Les associations d’enregistrements seront-elles déplacées vers l’espace partenaires?**
 
-**Comment sont les redirections affectés, quelles modifications puis-je attendre ? Par exemple, si j’ai une entreprise globale dans un marché et les emplacements dans les autres marchés, comment les références recevront ?**
+ Oui, aucune modification n’est apportée au partenaire d’enregistrement. En savoir plus sur [la liaison de votre ID de partenaire à vos clients](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
 
-Les références sont affectés selon les paramètres de recherche définie par l’utilisateur. Ce que vous ayez un emplacement ou plusieurs, si les clients spécifie un emplacement souhaité et que vous avez un il répond à d’autres paramètres, puis la référence accédaient à cet emplacement.
+**Y a-t-il un impact sur les incentives en raison de la migration vers l’espace partenaires?**
+
+Non, il n’y a aucun impact sur les incentives si vous avez déplacé votre compte sans consolider les emplacements. Si votre entreprise possède plusieurs comptes dans PMC et que, lorsque vous passez à l’espace partenaires, vous décidez de consolider un compte global, il n’y aura aucune perte aux incentives, mais il peut y avoir un retard dans le paiement de l’incentive. Si vous ne déplacez pas tous les comptes PMC qui ont été impliqués dans des programmes d’incentives, vous pouvez cesser d’accumuler des incentives liés à ces comptes.
+
+
+**Quels sont les rôles d’utilisateur d’incentives dans l’espace partenaires?** 
+
+Les rôles d’incentives de l’espace partenaires sont basés sur l’emplacement et incluent un utilisateur administrateur et incentives incitants. Pour plus d’informations sur ce que ces rôles peuvent faire, consultez [affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md).
+
+**Les utilisateurs peuvent-ils être affectés au niveau global et au niveau de l’emplacement?**
+
+ Oui. Vous pouvez affecter un administrateur d’incentives à l’administrateur des Incentives pour tous les emplacements, ou chaque emplacement peut avoir son propre administrateur d’incentives.
+
+ **Les incentives peuvent-ils être payés au niveau global ou de l’emplacement?**
+
+ Les incentives sont payés uniquement au niveau de l’emplacement.
+
+**En ce qui concerne les références, combien de profils d’entreprise pouvez-vous créer?**
+
+Votre entreprise peut créer autant de profils d’entreprise que nécessaire pour représenter pleinement les intérêts de votre entreprise. Dans chaque profil d’entreprise, vous pouvez répertorier jusqu’à cinq emplacements, un emplacement par pays. Chacun des profils d’entreprise peut recevoir des références pour chacun de ses emplacements.
+
+**Comment les références seront-elles affectées, quelles modifications puis-je attendre? Par exemple, si j’ai une société internationale sur un marché et des lieux sur d’autres marchés, comment les références seront-elles affectées?**
+
+Les références sont attribuées en fonction des paramètres de recherche définis par le client. Ainsi, que vous ayez un ou plusieurs emplacements, si les clients spécifient un emplacement souhaité et que vous avez une entreprise qui répond aux autres paramètres, la référence est alors ajoutée à cet emplacement.
 
 
 

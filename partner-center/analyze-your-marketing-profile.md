@@ -1,53 +1,41 @@
 ---
-title: Analyser l’efficacité de votre profil commercial | Espace partenaires
+title: Analyser votre profil d’entreprise | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
-description: Évaluer, négocier et répondre aux références par le biais de l'Espace partenaires.
-author: LauraBrenner
-ms.author: labrenne
-robots: noindex,nofollow
+ms.date: 07/12/2019
+description: Voyez en quoi vous capturez l’attention de vos clients cibles et générez des références.
+author: JnHs
+ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134909"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854496"
 ---
-# <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analyser l’efficacité de votre profil commercial
+# <a name="analyze-your-business-profile"></a>Analyser votre profil d’entreprise
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
-Obtenir des rapports pour savoir à quel point vous captez l'attention de vos clients cible et générez des références.
+La page **Insights Business Profile** de l’espace partenaires vous permet de voir à quel degré vous souhaitez attirer l’attention de vos clients cibles et générer des références.
 
-Une fois que vous publiez le [profil commercial](create-a-marketing-profile.md) de votre société, vous commencez à obtenir des données sur le nombre de clients qui trouvent votre profil, la fréquence à laquelle ils cliquent dessus pour en savoir plus et la fréquence à laquelle ils vous envoient des demandes d’informations (RFI). 
+Pour afficher vos données d’informations de référence, dans le menu de l’espace partenaires, accédez à **références > Business profil Insights**. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action.
 
-Lorsque vous commencez à [répondre à ces références](responding-to-referrals.md), vous obtenez des données sur le nombre de ces demandes d'informations qui se transforment en affaires fructueuses.
+En haut de la page **Insights Business Profile** , vous pouvez sélectionner la période pour laquelle vous souhaitez afficher les données. La sélection par défaut est **30D** (30 jours), mais vous pouvez choisir d’afficher les données pour une période de 3 ou 6 mois à la place. Les données de toutes les régions sont incluses.
 
-Lorsque vous ajustez vos profils commerciaux, utilisez ces rapports pour générer des prospects plus nombreux et plus pertinents. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action. Dans le menu espace partenaires, accédez à **références > Marketing pages**.
+Après avoir publié le profil d' [entreprise](create-a-marketing-profile.md)de votre société, vous commencerez à voir les données sur le nombre de clients qui recherchent votre profil, la fréquence à laquelle ils cliquent pour en savoir plus, ainsi que la fréquence à laquelle ils vous envoient des demandes d’informations (RFIs). Utilisez ces données lorsque vous Affinez vos profils d’entreprise afin de générer plus de clients et des responsables plus pertinents.
 
-Ces rapports présentent les performances des profils commerciaux pour toutes les régions. Les rapports affichent les données des 90 derniers jours, regroupés par semaine.
+Le graphique **Récapitulatif des performances du profil** contient les informations suivantes pour la période sélectionnée:
 
-*  **Les tendances**: Montre les 90 derniers jours, regroupés en semaines. données hebdomadaires pour les 90 derniers jours et pourcentage de modification par rapport à la période précédente des mesures suivantes :
+- **Résultats**de la recherche: Informations sur les termes de recherche que les clients utilisent pour rechercher votre profil d’entreprise.
+- **Pages**consultées: Nombre total de fois où les clients ont affiché votre profil d’entreprise.
+- **Clics de contact**: Nombre total de fois où les clients ont sélectionné votre profil d’entreprise à partir de la page [Rechercher un fournisseur de solutions](https://www.microsoft.com/solution-providers/home) .
+- **Références générées**: Nombre total de références qui vous ont été envoyées après qu’un client a sélectionné votre profil d’entreprise.
 
-   * **Vues de page marketing**: Combien de fois visualisées par votre profil d’entreprise
-   * **Contactez les clics de bouton**: Nombre de personnes sélectionné votre profil d’entreprise à partir de la **trouver un partenaire** page. Cela peut ne pas refléter le nombre de fois où des personnes sont allées jusqu'à créer une demande d’informations (RFI).
-   * **RFI est accepté**: Nombre de fois où vous [accepté de nouveaux clients](responding-to-referrals.md) après l’envoi d’une demande d’informations (RFI).
-
-
-*  **Affichages de page**: Affiche les données de tendance hebdomadaire pour les 90 derniers jours.
-   *  **Vues de page marketing par les clients**
-   *  **Demandes soumises par les clients**
-
-Consultez les termes de recherche utilisés par les clients pour rechercher votre profil. Ces rapports affichent des données hebdomadaires pour les 90 derniers jours.
-
-*  **Mots clés** (principaux mots clés de recherche globale) 
-*  **Industry**
-*  **Produit**
-*  **Type de service**
-
+> [!TIP]
+> Lorsque vous commencez à [répondre à ces références](responding-to-referrals.md), veillez à consulter la page informations de [référence](referral-insights.md) pour en savoir plus sur les performances de vos références.

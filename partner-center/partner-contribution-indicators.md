@@ -1,74 +1,78 @@
 ---
-title: Indicateurs de contribution de partenaire | Partenaires
+title: Indicateurs de contribution partenaire | Espace partenaires
 ms.topic: article
 ms.date: 07/05/2019
-description: Données qui vous montre à quel est l’état de votre entreprise avec Dynamics 365 Customer Engagement ou Dynamics 365 Finances et opérations
+description: Données qui vous montrent comment votre entreprise fait l’engagement client Dynamics 365 ou le financement et les opérations Dynamics 365
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: Norme PCI, performances, le succès des clients, les mesures, Dynamics 365
+keywords: PCI, performances, succès des clients, mesures, Dynamics 365
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: MT
+ms.openlocfilehash: bc79d52af6a799d28b2ac6a0ba2fd12a92676215
+ms.sourcegitcommit: 70841fe3b239deb0901495166e3c027ac1385ac2
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674276"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "68272905"
 ---
-## <a name="partner-contribution-indicators"></a>Indicateurs de contribution de partenaire
+## <a name="partner-contribution-indicators"></a>Indicateurs de contribution partenaire
 
-Les indicateurs de contribution de partenaire (PCI) sont un ensemble de mesures holistiques de vos performances, la fonctionnalité et la réussite des clients avec Dynamics 365.
+Les indicateurs de contribution partenaires (PCI) sont un ensemble de mesures holistiques de vos performances, de vos capacités et de la réussite de vos clients grâce à Dynamics 365.
 
-## <a name="scoring"></a>Calcul de score
+## <a name="scoring"></a>Soulign
 
-La norme PCI utilise une échelle 100 pour fournir une indication de 12 mois de fin de votre réussite grâce à l’engagement client Dynamics 365 ou Dynamics 365 Finances et opérations. Voici le nombre maximal de points, vous pouvez gagner pour chacune des sept mesures dans la norme PCI.
+PCI utilise une échelle de 100 points pour fournir une indication de 12 mois à la fin de votre réussite avec Dynamics 365 Customer engagement ou Dynamics 365 Finance and Operations. Vous trouverez ci-dessous les points maximaux que vous pouvez remporter pour chacune des sept mesures dans PCI.
 
-![Calcul de score](images/pci1.png)
+![Soulign](images/pci1.png)
 
 ### <a name="thresholds"></a>Seuils
 
-Chaque mesure de la norme PCI présente Microsoft-définir les seuils qui peuvent gagner votre entreprise nombre maximal de points. Ces seuils diffèrent pour Engagement des clients et finances et opérations. Les seuils diffèrent également pour les partenaires d’exploitation dans les marchés développés vs opérant exclusivement dans des pays émergents.
+Chaque métrique PCI a des seuils définis par Microsoft qui peuvent accumuler les points maximaux de votre entreprise. Ces seuils diffèrent pour l’engagement du client et les opérations de & financier. Les seuils diffèrent également pour les partenaires qui opèrent sur des marchés développés par rapport à ceux qui fonctionnent exclusivement sur les marchés émergents. Si un partenaire possède un ou plusieurs clients sur un marché développé, les seuils de marché développés s’appliquent. Pour les seuils de marché émergents à appliquer, le partenaire doit avoir tous ses clients sur les marchés émergents. (La catégorisation de marché développée ou émergente d’un pays est basée sur les définitions de Microsoft Partner Network ici).
 
-Les partenaires peuvent gagner le nombre maximal de points pour une mesure donnée si elles sont atteints ou dépassent les seuils indiquées ci-dessous. Les points partielles peuvent être obtenus pour toutes les mesures à l’exception de croissance de consultant fonctionnel, par exemple, un partenaire de mise sur le marché développées avec 150 000 $ de revenu Net gagnez la moitié ($ 150 000/300 000 dollars) de la pts de 10 maximum.
+Les partenaires peuvent obtenir les points maximaux d’une mesure donnée s’ils remplissent ou dépassent les seuils indiqués ci-dessous. Les points partiels peuvent être gagnés pour toutes les métriques, à l’exception de la croissance du consultant fonctionnel, par exemple, un partenaire de marché développé avec $150 000 dans net New revenu gagnera la moitié ($ 150000/$ 300000) de la valeur maximale de 10 pts.
 
-### <a name="customer-engagement-thresholds"></a>Seuils d’engagement client
+### <a name="customer-engagement-thresholds"></a>Seuils d’engagement du client
 
 ![seuils d’engagement](images/pci3.png)
 
-### <a name="finance-and-operations-thresholds"></a>Seuils de Finance et opérations
+### <a name="finance-and-operations-thresholds"></a>Seuils financiers et opérationnels
 
 ![Finance et opérations](images/pci4.png)
 
-### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Développé et emerging markets croissance de consultant fonctionnel 
+### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Croissance du consultant fonctionnel sur les marchés développés et émergents 
 
-![Marchés développés et émergentes](images/pci5.png)
+![](images/pci6.png)
+Marchés![développés et émergents développés et émergents](images/pci7.png)
 
-## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>Définitions détaillées pour chacune des mesures de la norme PCI
+## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>Définitions détaillées de chacune des métriques PCI
 
-|**Métrique**   |**Points**   |**Définition**   |**Période d’évaluation**|
+
+|**Mesure**   |**Moments**   |**Définition**   |**Période d’évaluation**|
 |---------------|:--------------------------|:-------------------|:----------|
-|Recettes nettes de nouveau|10|NET nouveau facturé chiffre d’affaires sur tous les canaux de ventes des produits spécifiés. Calculé comme étant de moins de crédits et agrégée des 12 derniers mois de facturation. **Engagement des clients** produits incluent des ventes, le Service clientèle, Service après-vente, Project Service Automation, Marketing, ventes de relation de Microsoft, Talent et membre de l’équipe Enterprise. **Finance et opérations** produits inclut Finance et opérations de vente au détail, Talent et entreprise équipe Member.Sales canaux incluent par exemple, contrat entreprise (EA), fournisseur de solutions Cloud (CSP) et Web Direct. Chiffre d’affaires contrat entreprise inclut uniquement le chiffre d’affaires à partir de la première année de l’accord. Revenus réguliers à partir de la deuxième et troisième année n’est pas inclus.|Fin des 12 mois|
-|Ajoute du client NET|10|Nets, les clients ajoutés sur tous les canaux de vente. En tant que clients ajoutés moins de clients perdus et agrégée des 12 derniers mois, calculé tous les mois. Ajout d’un client est quand un client n’a aucune unité initiée payante dans un mois précédent, mais dans le mois en cours. Un client perdu est lorsqu’un client a payé unités initiées dans un mois précédent, mais pas dans le mois en cours. Canaux de vente incluent par exemple, contrat entreprise (EA), fournisseur de solutions Cloud (CSP) et Web Direct. Lorsqu’un autre partenaire est associé à un client dans un activité out et cas d’acquisition de nouveau, le partenaire actuel plus recevront crédit.|Fin des 12 mois|
-|Consultants fonctionnels|15 |Nombre de personnes qui détiennent une certification de Consultant fonctionnel actuellement active. **Customer Engagement** la certification de Consultant fonctionnel nécessite un individu à passer MB200 et MB210 ou MB220 ou MB230 ou MB240 ou MB6-898. **Finance et opérations** la certification de Consultant fonctionnel nécessite un individu à passer MB300 et MB310 ou MB320 ou MB330 ou MB6897 ou MB6-898.|Instantané actuel|
-|Croissance de consultant fonctionnel|15|Comparaison entre le nombre de personnes qui détiennent une actuellement actif ou de certification fonctionnel Consultant le nombre de personnes qui détiennent une certification de Consultant fonctionnel active **le 31 décembre 2019**. **Aucun partielles points attribués**. Croissance doit respecter ou dépasser les seuils indiquées dans le tableau 3 pour les partenaires de mise sur le marché développée et tableau 4 pour les partenaires de marchés émergents.|Instantané du 31 décembre 2019 vs d’instantané Active|
-|Développeurs|5|Pour **Customer Engagement**, ceci est le nombre de personnes qui détiennent une certification actuellement active pour MB2-716. Pour **Finance and Operations**, ceci est le nombre de personnes qui détiennent une certification actuellement active pour MB6-894.|Instantané actuel|
-|Nouvelle deploments volumineux|20|Pour **Customer Engagement**, si un abonnement payant dépasse les 250 seuil utilisateur actif mensuel au cours des 12 derniers mois, le partenaire associé obtient crédit pour toutes les instances de production d’Engagement des clients (organisations) sous ce client. Pour **Finance and Operations**, le cas échéant abonnement payant dépasse le seuil d’utilisateur active de mensuel 100 au cours des 12 derniers mois, le partenaire associé obtient crédit pour tous les finances et production d’opérations instances (organisations) sous ce client. Utilisateurs actifs mensuels sont comptées au niveau de l’abonnement, et uniquement les abonnements payants sont considérés. Utilisateurs actifs mensuels sont calculés à la fin de chaque mois. Un abonnement est considéré comme ont dépassé le seuil d’utilisateurs actifs mensuels si elle a été au-dessous du seuil spécifié, il y a 13 mois et a dépassé le seuil au moins une fois dans les 12 derniers mois. Lorsqu’un client possède plusieurs abonnements, chacun étant associé à des partenaires différents, tous les partenaires crédité pour toutes les instances de production sous le locataire, dans la catégorie de produits applicables, tant que leur sont associées abonnements payants cross requis Seuil d’utilisateur actif mensuel.|Fin des 12 mois|
-|Croissance d’utilisateurs actifs mensuels|25|Comparaison entre actuel nombre de vs d’utilisateurs actifs mensuels le nombre d’utilisateurs actifs mensuels 13 mois auparavant. Utilisateurs actifs mensuels sont comptées au niveau de l’abonnement, et uniquement les abonnements payants sont considérés. Utilisateurs actifs mensuels sont calculés à la fin de chaque mois. Pour **Customer Engagement**, un partenaire de mise sur le marché développées doit avoir une ligne de base d’au moins 250 utilisateurs actifs mensuels en production et émergentes sur le marché de partenaire au moins 150 utilisateurs actifs mensuels, dans leur intégralité clientèle 13 mois Il y a pour être éligible à tous les points. Pour **Finance and Operations**, un partenaire de mise sur le marché développées doit avoir une ligne de base d’au moins 100 utilisateurs actifs mensuels en production et émergentes sur le marché de partenaire au moins 50 utilisateurs actifs mensuels dans leur intégralité clientèle 13 mois Il y a pour être éligible à tous les points.|Fin des 12 mois|
+|Nouveau revenu net|10|Nouveau revenu facturé sur tous les canaux de vente pour les produits spécifiés. Calculés comme des facturations moins des crédits et agrégés sur 12 mois.
+||| - Les produits d' **engagement client** incluent les ventes, le service clientèle, le service de champ, l’automatisation de service de projet, le marketing, les ventes de relations Microsoft, les talents et les membres de l’équipe d’entreprise. -
+||| Les produits **financiers et opérationnels** incluent la finance et les opérations, la vente au détail, les talents et les membres de l’équipe d’entreprise. les canaux de vente incluent, par exemple, accord entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct. Accord Entreprise chiffre d’affaires comprend uniquement le chiffre d’affaires de la première année de l’accord. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.|12 mois de fin|
+|Ajouts au client net|10|Clients nets ajoutés sur tous les canaux de vente. Calculé mensuellement à mesure que les clients ont ajouté moins de clients perdus et agrégés sur 12 mois. Un client ajouté est lorsqu’un client n’a pas d’unités initiées payantes dans un mois antérieur, mais au cours du mois en cours. Un client perdu est lorsqu’un client a payé des unités initiées dans un mois antérieur, mais pas dans le mois en cours. Les canaux de vente incluent, par exemple, Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct. Lorsqu’un partenaire différent est associé à un client dans un cas de résiliation et de réacquisition, le partenaire le plus récent recevra un crédit.|12 mois de fin|
+|Consultants fonctionnels|15 |Nombre d’individus titulaires d’une certification de consultant fonctionnel actuellement active. **Engagement client** La certification du consultant fonctionnel exige qu’un individu passe MB200 et MB210 ou MB220 ou MB230 ou MB240 ou MB6-898. **Finance et opérations** La certification du consultant fonctionnel exige qu’un individu passe MB300 et MB310 ou MB320 ou MB330 ou MB6897 ou MB6-898.|Instantané actuel|
+|Croissance du consultant fonctionnel|15|Comparaison entre le nombre d’individus titulaires d’une certification de consultant fonctionnel actuellement active et le nombre d’individus titulaires d’une certification de consultant fonctionnel actif le **31 décembre 2019**. **Aucun point partiel accordé**. La croissance doit respecter ou dépasser les seuils indiqués dans le tableau 3 pour les partenaires commerciaux développés et le tableau 4 pour les partenaires du marché émergents.|Instantané actuel vs 31 décembre 2019 instantané|
+|Développeurs|5\.|Pour l' **engagement des clients**, il s’agit du nombre de personnes qui possèdent une certification actuellement active pour MB2-716/96. Pour la **finance et les opérations**, il s’agit du nombre de personnes qui possèdent une certification actuellement active pour MB6-894.|Instantané actuel|
+|Nouveaux déploiements à grande échelle|20|Pour l' **engagement client**, si un abonnement payant franchit le seuil d’utilisateur actif mensuel de 250 au cours des 12 derniers mois, le partenaire associé obtient un crédit pour toutes les instances de production engagement client (organisations) sous ce locataire. Pour les **Finances et les opérations**, si un abonnement payant franchit le seuil d’utilisateur actif mensuel de 100 au cours des 12 derniers mois, le partenaire associé obtient un crédit pour toutes les instances de production finance et Operations (projets CS) sous ce locataire. Les utilisateurs actifs mensuels sont comptabilisés au niveau de l’abonnement et seuls les abonnements payants sont pris en compte. Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois. Un abonnement est considéré comme ayant dépassé le seuil mensuel actif de l’utilisateur s’il se trouvait au-dessous du seuil spécifié il y a 13 mois et a dépassé le seuil au moins une fois au cours des 12 mois à la fin. Lorsqu’un locataire a plusieurs abonnements, chacun étant associé à des partenaires différents, tous les partenaires obtiennent un crédit pour toutes les instances de production sous le locataire, dans la catégorie de produit applicable, tant que leurs abonnements payants associés franchissent le Seuil mensuel actif de l’utilisateur.|12 mois de fin|
+|Croissance mensuelle des utilisateurs actifs|25|Comparaison entre le nombre actuel d’utilisateurs actifs mensuels et le nombre d’utilisateurs actifs mensuels il y a 13 mois. Les utilisateurs actifs mensuels sont comptabilisés au niveau de l’abonnement et seuls les abonnements payants sont pris en compte. Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois. Pour l' **engagement client**, un partenaire de marché développé doit avoir une ligne de base d’au moins 250 utilisateurs actifs mensuels en production, et un partenaire de marché émergeant au moins 150 utilisateurs actifs mensuels, dans la base de l’ensemble de ses clients, il y a 13 mois pour être éligibles moments. Pour les **Finances et les opérations**, un partenaire de marché développé doit avoir une ligne de base d’au moins 100 utilisateurs actifs mensuels en production, et un partenaire de marché émergeant au moins 50 utilisateurs actifs mensuels sur l’ensemble de ses clients, 13 mois auparavant, pour être éligibles moments.|12 mois de fin|
 
-## <a name="customer-to-partner-association"></a>Association de Customer-partner
+## <a name="customer-to-partner-association"></a>Association client à partenaire
 
-Vous recevez de crédit pour des recettes nettes de nouveau, Net client ajoute, nouveaux déploiements à grandes échelle et à la croissance d’utilisateur actif mensuel pour un client donné, dans les limites de la définition de métrique, uniquement si vous êtes le demandées partenaire d’enregistrement (CPOR) ou numérique partenaire de référence (POR) pour un abonnement payant appartenant au locataire du client.
+Vous recevez un crédit pour les nouveaux revenus nets, les ajouts de clients nets, de nouveaux déploiements à grande échelle et la croissance mensuelle des utilisateurs actifs pour un client donné, dans les limites de la définition de la métrique, uniquement si vous êtes fournisseur de solutions Cloud (CSP), le partenaire de revendication d’enregistrement (CPOR), ou partenaire numérique de l’enregistrement (DPOR (DPOR) pour un abonnement payant appartenant au locataire du client.
 
-Un partenaire devient le CPOR si elles ont établies association avec un client au niveau de l’abonnement par le biais de l’offre incitative Dynamics 365 Online Solution Advisor (OSA).
+Un partenaire devient le CPOR s’il a établi une association avec un client au niveau de l’abonnement via l’incentive Dynamics 365 Online solution Advisor (OSA).
 
-Un partenaire devient partenaire DPOR si elles ont établies association avec un client au niveau de l’abonnement au sein du produit.
+Un partenaire devient le DPOR s’il a établi une association avec un client au niveau de l’abonnement au sein du produit.
 
-Lorsque CPOR et DPOR existent pour un abonnement donné, le CPOR reçoit tous les crédit pour les mesures de la norme PCI associés à l’abonnement.
+Quand CPOR et DPOR existent tous les deux pour un abonnement donné, le CPOR reçoit tout le crédit pour les métriques PCI associées à l’abonnement.
 
-## <a name="how-to-read-the-chart"></a>Guide pratique pour lire le graphique
+## <a name="how-to-read-the-charts"></a>Comment lire les graphiques
 
-![Guide pratique pour lire le graphique](images/pci2.png)
+![Comment lire le graphique](images/pci2.png)
 
 
 
