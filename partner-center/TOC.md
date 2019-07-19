@@ -146,6 +146,7 @@
 
 # Sécurité
 ## [Exigences de sécurité du partenaire](partner-security-requirements.md)
+## [Questions fréquentes (FAQ) sur les exigences de sécurité du partenaire](partner-security-requirements-faq.md)
 
 # Didacticiels
 ## [Implémentation des exigences de sécurité du partenaire](tutorials/partner-security-requirements.yml)
