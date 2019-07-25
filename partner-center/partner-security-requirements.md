@@ -1,138 +1,161 @@
 ---
-title: Exigences de sécurité de partenaire | Partenaires
+title: Conditions de sécurité pour les partenaires | Espace partenaires
 ms.topic: article
-ms.date: 06/25/2019
-description: En savoir plus sur les exigences de sécurité pour les conseillers et les partenaires participant au programme fournisseur de solutions Cloud.
+ms.date: 07/18/2019
+description: En savoir plus sur les exigences de sécurité pour les conseillers et les partenaires participant au programme du fournisseur de solutions Cloud.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, fournisseur de solutions Cloud, fournisseur de solutions Cloud programme CSP, le fournisseur de panneau de contrôle, CPV, multi-factor authentication, MFA, sécuriser le modèle d’application, le modèle d’application sécurisée, sécurité
+keywords: Azure Active Directory, fournisseur de solutions Cloud, programme fournisseur de solutions Cloud, CSP, fournisseur du panneau de configuration, CPV, Multi-Factor Authentication, MFA, modèle d’application sécurisée, modèle d’application sécurisée, sécurité
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f513b96619819cd6ba892625e47731170d22130
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
+ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549535"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "68313934"
 ---
-# <a name="partner-security-requirements"></a>Exigences de sécurité de partenaire
+# <a name="partner-security-requirements"></a>Conditions de sécurité pour les partenaires
 
 **S’applique à**
 
-- Tous les partenaires dans le programme fournisseur de solutions de Cloud
-  - Bill direct
+- Tous les partenaires du programme fournisseur de solutions Cloud
+  - Facture directe
   - Fournisseur indirect
   - Revendeur indirect
-- Tous les fournisseurs de panneau de contrôle
+- Tous les fournisseurs du panneau de configuration
 - Tous les conseillers
 
-Sécurité et confidentialité des clients et partenaires sont deux priorités de Microsoft. Nous continuons à voir un nombre croissant d’attaques de sécurité plus sophistiquées, principalement liées aux identités compromises. Comme les contrôles préventifs jouent un rôle clé dans une stratégie de défense globale pour contrer les attaques de sécurité, nous allons commencer en appliquant un ensemble d’exigences de sécurité obligatoire pour aider à protéger leurs clients et partenaires.
+Les meilleures priorités et la sécurité sont de plus en plus sécurisées. Nous savons que la meilleure défense est la prévention et que nous sommes uniquement aussi forts que notre lien le plus faible. C’est pourquoi nous avons besoin que tous les membres de notre écosystème puissent agir et s’assurer qu’ils disposent des protections de sécurité appropriées. Pour aider à protéger les partenaires et les clients, nous proposons un ensemble d’exigences de sécurité obligatoires pour les conseillers, les fournisseurs du panneau de configuration et les partenaires participant au programme du fournisseur de solutions Cloud.
+
+À partir du 1er août 2019, tous les partenaires sont requis pour mettre en œuvre l’authentification multifacteur pour tous les utilisateurs, y compris les comptes de service, dans leur locataire partenaire.
 
 > [!NOTE]
-> Nous recommandons que tous les partenaires définitif via un cloud souverain (21Vianet, US Government et Allemagne) agissent et adoptent ces nouvelles exigences de sécurité immédiatement. Toutefois, ces partenaires ne sont pas requis pour répondre aux nouvelles exigences de sécurité effectives le 1 août 2019. Microsoft fournira des détails supplémentaires concernant la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
+> Nous vous recommandons vivement de faire en sorte que tous les partenaires passent par un Cloud souverain (21Vianet, gouvernement des États-Unis et Allemagne) et adoptent immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas tenus de satisfaire aux nouvelles exigences de sécurité à compter du 1er août 2019. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
 
-## <a name="overview-of-the-requirements"></a>Vue d’ensemble de la configuration requise
+Les termes associés aux conditions de sécurité du partenaire ont été ajoutés au [Guide du programme fournisseur de solutions Cloud](https://go.microsoft.com/fwlink/p/?LinkId=617100). À partir du 1er août 2019, tous les partenaires qui participent au programme fournisseur de solutions Cloud doivent être conformes aux termes du présent contrat. En ce qui concerne les conseillers, les mêmes exigences contractuelles sont en place.
 
-Tous les partenaires qui participent dans le programme fournisseur de solutions de Cloud, les fournisseurs de panneau de contrôle et les partenaires d’Advisor sont nécessaire pour appliquer l’authentification multifacteur (MFA) pour chaque utilisateur, y compris les comptes de service, dans leur locataire partenaire. Cela est possible en activant deux [stratégies de base d’Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). Stratégies de base sont un ensemble de stratégies prédéfinies qui aident à protéger les organisations contre de nombreuses attaques courantes. Ces attaques courantes peuvent inclure anti-hameçonnage, relecture et pulvérisation de mot de passe. Stratégies de base sont disponibles dans toutes les éditions d’Azure Active Directory. Microsoft propose ces stratégies de protection de base à tous les utilisateurs à activer davantage de clients et partenaires d’implémenter les pratiques de sécurité de haute qualité.
+Les partenaires qui n’implémentent pas les exigences de sécurité obligatoires ne seront pas en mesure d’effectuer des transactions dans le programme du fournisseur de solutions Cloud ou de gérer les locataires clients en tirant parti des droits d’administrateur délégué, une fois ces exigences appliquées. Nous sommes en train de mettre en place une date de mise en œuvre technique pour les exigences et notifieront les partenaires de la date avec des informations détaillées.
 
-Les stratégies de deux base qui doivent être activés sont décrits dans le tableau ci-dessous.
+## <a name="what-actions-do-i-need-to-take"></a>Quelles actions dois-je effectuer?
 
-|**Règlement**| |
-|-----|-----|
-|**Exiger l’authentification Multifacteur pour les administrateurs**|L’activation de la MFA nécessitent de stratégie des administrateurs, oblige les utilisateurs dans les rôles d’administrateur à s’inscrire à MFA à l’aide de l’application d’authentification. Une fois l’inscription de l’authentification Multifacteur est terminée, les administrateurs doivent utiliser l’authentification Multifacteur chaque fois qu’ils connectez-vous.|
-|**Protection de l’utilisateur final**|Protection de l’utilisateur final est une stratégie de base de l’authentification Multifacteur en fonction des risques qui protège tous les utilisateurs dans un répertoire. L’activation de cette stratégie nécessite tous les utilisateurs à s’inscrire à MFA à l’aide de l’application d’authentification. Les utilisateurs peuvent ignorer l’invite d’inscription MFA pendant 14 jours, après laquelle ils seront bloqués de se connecter jusqu'à ce qu’ils s’inscrivent pour l’authentification Multifacteur. Une fois inscrit pour l’authentification Multifacteur, les utilisateurs seront invités pour l’authentification Multifacteur uniquement pendant les tentatives de connexion à risque. Comptes d’utilisateur compromis sont bloquées jusqu'à ce que son mot de passe est réinitialisé et événements à risque ont été ignorées.|
+Étant donné la nature hautement privilégiée d’un partenaire, nous devons nous assurer que chaque utilisateur a un défi MFA pour chaque authentification unique. Pour ce faire, vous pouvez procéder de l’une des façons suivantes:
 
-Lorsque ces stratégies sont activées, chaque utilisateur sera en mesure d’utiliser l’authentification Multifacteur Azure sans coût supplémentaire. Si vous utilisez une solution tierce, vous devez appliquer l’authentification Multifacteur pour chaque utilisateur lors de l’accès aux services de cloud Commercial Microsoft.
+- Implémentation de Azure AD Premium et vérification de l’application de l’authentification multifacteur pour chaque utilisateur
+- Implémentation des [stratégies de protection de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)
+- Implémentation d’une solution tierce et vérification de l’application de l’authentification MFA pour chaque utilisateur
 
 > [!IMPORTANT]
-> Étant donné que l’authentification Multifacteur sera appliquée pour chaque utilisateur dans l’annuaire des partenaires, il y aura un impact sur n’importe quel automation ou l’intégration qui utilise les informations d’identification de l’utilisateur. Pour résoudre cet impact, vous devrez modifier la façon dont votre automatisation ou l’intégration se connecte aux services de cloud commercial de Microsoft. Si le service que vous vous connectez à prend en charge l’authentification par jeton, il est recommandé d’implémenter le [framework du modèle d’Application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
-
-## <a name="what-actions-do-i-need-to-take"></a>Quelles actions dois-je prendre ? 
-
-Pour garantir la protection des utilisateurs dans le client partenaire, vous devez appliquer l’authentification Multifacteur pour chaque utilisateur (y compris les comptes de service). Cela est possible en activant le [requièrent une authentification Multifacteur pour les administrateurs](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) et [protection de l’utilisateur final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) stratégies de base. Avant d’activer ces stratégies, il est important de comprendre ce qu’ils font et comment elles affectent toute automation ou l’intégration et vos utilisateurs.
-
-> [!NOTE]
-> [Stratégies de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) continuera à évoluer au fil du temps. Il est recommandé de revoir périodiquement la documentation pour en savoir plus sur l’évolution des stratégies.
+> Une fois ces exigences techniquement appliquées, chaque authentification unique doit avoir une stimulation MFA. Vous ne pouvez pas utiliser les fonctionnalités de l’accès conditionnel pour éviter l’authentification à l’aide de l’authentification multifacteur lors de l’accès aux services Cloud commerciaux Microsoft.
 
 ### <a name="considerations"></a>Observations
 
-Étant donné que les exigences de sécurité s’appliquent à tous les utilisateurs dans un annuaire des partenaires, plusieurs considérations doivent être apportées pour garantir un déploiement sans heurts. Ces considérations incluent l’identification des utilisateurs dans Azure Active Directory qui ne peuvent pas ou ne devez pas effectuer d’authentification Multifacteur, ainsi que les applications et les clients utilisés par votre organisation qui ne prennent pas en charge l’authentification moderne.
+Étant donné que ces exigences s’appliquent à tous les utilisateurs, y compris les comptes de service, de votre locataire partenaire, plusieurs éléments doivent être pris en compte pour garantir un déploiement sans heurts. Ces considérations incluent l’identification des utilisateurs dans Azure AD qui ne peuvent pas effectuer l’authentification MFA, ainsi que les applications et appareils utilisés par votre organisation qui ne prennent pas en charge l’authentification moderne.
 
-#### <a name="self-service-password-reset"></a>Réinitialisation du mot de passe libre-service
+Avant d’effectuer une action, il est recommandé d’identifier les éléments suivants:
 
-Réinitialisation de mot de passe libre-service (SSPR) est une fonctionnalité d’Azure Active Directory qui permet aux employés de réinitialiser leurs mots de passe sans devoir contacter le personnel informatique. Employés doivent s’inscrire aux ou être inscrits pour le mot de passe libre-service, réinitialisation avant d’utiliser le service. Pendant l’inscription, l’employé choisit une ou plusieurs méthodes d’authentification activées par leur organisation.
+#### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-mfa-when-authenticating"></a>Disposez-vous d’une application ou d’un appareil qui ne prend pas en charge l’utilisation de l’authentification multifacteur lors de l’authentification?
 
-SSPR permet aux employés de rapidement débloqué et continuer à travailler, quel que soit leur ou l’heure du jour. En permettant aux utilisateurs de se débloquer, votre organisation peut réduire le temps non productif et les coûts de prise en charge élevée pour des problèmes les plus courants liés au mot de passe.
+Lorsque vous appliquez l’authentification MFA héritée, les protocoles tels que IMAP, POP3, SMTP, etc. sont bloqués, car ces protocoles ne prennent pas en charge MFA. Pour résoudre ce problème, une fonctionnalité appelée [mots de passe d’application](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) peut être utilisée pour s’assurer que l’application ou l’appareil peut toujours s’authentifier. Vous devez examiner les considérations relatives à l’utilisation des mots de passe d’application documentés [ici](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) pour déterminer s’ils peuvent être utilisés dans votre environnement.
 
-Lorsque le [protection de l’utilisateur final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) activé de stratégie de base des comptes d’utilisateur compromis seront bloqués jusqu'à ce que son mot de passe est réinitialisé et événements à risque ont été ignorées. Compte tenu de cela, il est recommandé que chaque utilisateur, ce qui est un administrateur global, procédez comme suit pour s’inscrire au SSPR
+#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Existe-t-il une stratégie qui empêche les utilisateurs d’utiliser leurs appareils mobiles quand ils travaillent?
 
-1. Accédez à la [page de configuration SSPR](https://aka.ms/ssprsetup)
-2. Entrez votre nom d’utilisateur et le mot de passe
-3. Configurer au moins une des options de vérifications qui seront utilisées pour vérifier qui vous êtes lors de la réinitialisation de votre mot de passe.  
+Il est important d’identifier toute stratégie d’entreprise qui empêche les employés d’utiliser des appareils mobiles en cours de travail, car elle influencera la solution MFA que vous implémentez. Il existe des solutions MFA, telles que celles fournies par l’implémentation des [stratégies de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), qui autorisent uniquement l’utilisation d’une application authentificateur pour la vérification. Si votre organisation a une stratégie qui empêche l’utilisation d’appareils mobiles, vous devez vous intéresser à l’achat de [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) pour les utilisateurs concernés ou vous pouvez implémenter une solution tierce qui offre la vérification la plus appropriée. option.
 
-Lorsqu’un compte a été compromis, un administrateur devra prendre des mesures pour rétablir l’accès pour l’utilisateur concerné. Consultez le [étapes pour débloquer un utilisateur](#recovering-compromised-accounts) pour plus d’informations sur le processus pour débloquer l’utilisateur.
+#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>Quelles sont les fonctionnalités d’automatisation ou d’intégration qui tirent parti des informations d’identification de l’utilisateur pour l’authentification?
 
-#### <a name="legacy-protocols"></a>Protocoles hérités
+Dans la mesure où il est nécessaire d’appliquer l’authentification MFA pour chaque utilisateur, y compris les comptes de service, dans le répertoire de votre partenaire, toute automatisation ou intégration qui tire parti des informations d’identification de l’utilisateur pour l’authentification sera affectée. C’est pourquoi il est important d’identifier les comptes qui sont utilisés dans ces situations. Voici une liste d’exemples d’applications ou de services qui doivent être pris en compte
 
-Protocoles d’authentification hérités (IMAP, SMTP, POP3, etc.) sont utilisés par les clients de messagerie pour effectuer des demandes d’authentification. Ces protocoles ne prennent pas en charge MFA. La plupart de la compromission de compte est dues à des mauvais acteurs, effectuer des attaques contre des protocoles hérités de contourner MFA. Pour garantir l’authentification Multifacteur est requise lors de la connexion à un compte dans un annuaire des partenaires et mauvais acteurs ne sont pas capables de contourner MFA, ces exigences de sécurité bloque toutes les demandes d’authentification à partir de protocoles hérités.
+- Panneau de configuration utilisé pour approvisionner les ressources pour le compte de vos clients
+- Intégration à toute plateforme utilisée pour la facturation (par rapport au programme CSP) et prise en charge de vos clients
+- Scripts PowerShell qui utilisent les modules AZ, AzureRM, Azure AD, MS Online, etc.
 
-### <a name="enabling-the-baseline-policies"></a>Activer les stratégies de base
+La liste ci-dessus n’est pas exhaustive. Il est donc important d’effectuer une évaluation complète des applications ou services de votre environnement qui tire parti des informations d’identification de l’utilisateur pour l’authentification. Pour être en concurrence avec l’exigence de l’authentification multifacteur, vous devez implémenter les conseils dans l' [infrastructure de modèle d’application sécurisée](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) , dans la mesure du possible. Vous trouverez ci-dessous des ressources supplémentaires qui vous aideront à comprendre comment l’infrastructure de modèle d’application sécurisée peut être implémentée
 
-Consultez le [implémentant le didacticiel d’exigences de sécurité partenaire](tutorials/partner-security-requirements.yml) pour une expérience interactive concernant l’implémentation des stratégies de base.  
+- [Exemples .net de l’espace partenaires](https://github.com/microsoft/partner-center-dotnet-samples) : ce dépôt github contient des exemples, développés à l’aide de .net, qui illustrent la façon dont vous pouvez implémenter l’infrastructure de modèle d’application sécurisée.
+- [Exemples Java de l’espace partenaires](https://github.com/microsoft/partner-center-java-samples) : ce dépôt github contient des exemples, développés à l’aide de Java, qui illustrent la façon dont vous pouvez implémenter l’infrastructure de modèle d’application sécurisée.
+- [Partner Center PowerShell-modèle d’application sécurisée](https://docs.microsoft.com/powershell/partnercenter/secure-app-model) : cet article fournit des détails sur la façon d’implémenter l’infrastructure de modèle d’application sécurisée à l’aide de PowerShell.
+- [Groupe de conseils de sécurité de l’espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) : communauté en ligne qui vous permet de découvrir les événements à venir et de poser des questions.
 
-#### <a name="require-mfa-for-admins"></a>Exiger l’authentification Multifacteur pour les administrateurs
+### <a name="enforcing-mfa-for-all-users"></a>Application de l’authentification MFA pour tous les utilisateurs
 
-Le *requièrent une authentification Multifacteur pour l’administration* stratégie de base exige l’authentification Multifacteur pour les rôles d’annuaire suivantes, considérées comme les rôles d’Azure Active Directory plus privilégiés :
+Cette section explique comment vous pouvez utiliser les [stratégies de protection de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) pour appliquer l’authentification multifacteur pour chaque utilisateur, y compris les comptes de service, dans votre locataire partenaire. Si vous envisagez d’utiliser Azure AD Premium, suivez les étapes décrites [ici](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted).
+
+> [!NOTE]
+> Une solution tierce, compatible avec Azure AD, peut être utilisée pour appliquer l’authentification MFA pour tous les utilisateurs, y compris les comptes de service. Pour plus d’informations sur la façon dont la solution doit être implémentée, reportez-vous à la documentation du fournisseur.
+
+Les stratégies de protection de base sont un ensemble de stratégies prédéfinies qui contribuent à protéger les entreprises contre de nombreuses attaques courantes. Ces attaques courantes peuvent inclure la pulvérisation de mot de passe, la relecture et le hameçonnage. Les stratégies de protection de base sont disponibles dans toutes les éditions de Azure Active Directory. Microsoft met ces stratégies de protection de base à la disposition de tous afin de permettre aux clients et partenaires de mettre en œuvre les meilleures pratiques de sécurité.
+
+Les deux stratégies de protection de base qui doivent être activées sont décrites dans le tableau ci-dessous.
+
+|**Règlement**| |
+|-----|-----|
+|**Exiger l’authentification MFA pour les administrateurs**|L’activation de la stratégie exiger l’authentification MFA pour les administrateurs requiert que les utilisateurs des rôles d’administrateur s’inscrivent à l’authentification MFA à l’aide de l’application Authenticator. Une fois l’inscription MFA terminée, les administrateurs doivent effectuer une authentification MFA chaque fois qu’ils se connectent.|
+|**Protection de l’utilisateur final**|La protection de l’utilisateur final est une stratégie de protection MFA basée sur les risques qui protège tous les utilisateurs dans un annuaire. L’activation de cette stratégie nécessite que tous les utilisateurs s’inscrivent pour MFA à l’aide de l’application Authenticator. Les utilisateurs peuvent ignorer l’invite d’inscription MFA pendant 14 jours, après quoi ils seront bloqués de se connecter jusqu’à ce qu’ils s’inscrivent pour l’authentification MFA. Une fois inscrit pour l’authentification multifacteur, les utilisateurs sont invités à utiliser l’authentification multifacteur uniquement pendant les tentatives de connexion risquée. Les comptes d’utilisateurs compromis sont bloqués jusqu’à ce que leur mot de passe soit réinitialisé et que les événements à risque soient ignorés.|
+
+Lorsque ces stratégies sont activées, chaque utilisateur peut utiliser l’authentification multifacteur Azure à l’aide de l’application de l’authentificateur à des fins de vérification sans coût supplémentaire.
+
+#### <a name="configure-self-service-password-reset"></a>Configurer la réinitialisation du mot de passe libre-service
+
+La réinitialisation de mot de passe libre-service (SSPR) est une fonctionnalité Azure Active Directory qui permet aux utilisateurs de réinitialiser leur mot de passe sans avoir à contacter leur équipe de support. Les utilisateurs doivent s’inscrire à la réinitialisation de mot de passe en libre-service ou être inscrits avant d’utiliser le service. Pendant l’inscription, l’utilisateur choisit une ou plusieurs méthodes d’authentification activées par son organisation.
+
+Lorsque la stratégie de protection de base protection de l' [utilisateur final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) est activée, tous les comptes d’utilisateur compromis sont bloqués jusqu’à ce que leur mot de passe soit réinitialisé et que les événements à risque soient ignorés. En tenant compte de cela, il est recommandé que chaque utilisateur, qui est un administrateur général, effectue les opérations suivantes pour s’inscrire à SSPR afin qu’il ne soit pas verrouillé.
+
+1. Accédez à la [page de configuration de SSPR](https://aka.ms/ssprsetup)
+2. Entrez votre nom d’utilisateur et votre mot de passe
+3. Configurez au moins l’une des options de vérification qui seront utilisées pour vérifier qui vous êtes lors de la réinitialisation de votre mot de passe.  
+
+Lorsqu’un compte a été compromis, un administrateur doit prendre des mesures pour restaurer l’accès pour l’utilisateur concerné. Pour plus d’informations sur le processus de déblocage de l’utilisateur, consultez les [étapes pour débloquer un utilisateur](#recovering-compromised-accounts) .
+
+#### <a name="require-mfa-for-admins"></a>Exiger l’authentification MFA pour les administrateurs
+
+La stratégie *de ligne de base exiger l’authentification MFA pour l’administration* requiert l’authentification MFA pour les rôles d’annuaire suivants, considérée comme les rôles Azure Active Directory les plus privilégiés:
 
 - Administrateur général
 - Administrateur SharePoint
 - Administrateur Exchange
 - Administrateur de l’accès conditionnel
 - Administrateur de sécurité
-- Administrateur du support technique / mots de passe administrateur
+- Administrateur du support technique/administrateur de mots de passe
 - Administrateur de facturation
-- Administrateur de l’utilisateur
+- Administrateur d’utilisateurs
 
-Lors de l’activation de la MFA nécessitent de stratégie des administrateurs, les rôles de neuf administrateur ci-dessus devront s’inscrire à MFA à l’aide de l’application d’authentification. Une fois l’inscription de l’authentification Multifacteur est terminée, les administrateurs doivent utiliser l’authentification Multifacteur chaque fois qu’ils connectez-vous.
+Lors de l’activation de la stratégie exiger l’authentification MFA pour les administrateurs, les neuf rôles d’administrateur ci-dessus doivent être inscrits pour l’authentification MFA à l’aide de l’application de l’authentificateur. Une fois l’inscription MFA terminée, les administrateurs doivent effectuer une authentification MFA chaque fois qu’ils se connectent.
 
-Si votre organisation dispose de ces comptes en cours d’utilisation dans des scripts ou du code, envisagez d’en les remplaçant par [gérés identités](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+Si votre organisation dispose de ces comptes en cours d’utilisation dans des scripts ou du code [](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview), envisagez de les remplacer par des identités gérées.
 
-Pour activer cette stratégie et protéger vos administrateurs :
+Pour activer cette stratégie et protéger vos administrateurs:
 
-1. Se connecter à la **Azure portal** comme administrateur général, administrateur de sécurité ou administrateur de l’accès conditionnel.
+1. Connectez-vous au **portail Azure** en tant qu’administrateur général, administrateur de la sécurité ou administrateur de l’accès conditionnel.
 2. Accédez à **Azure Active Directory** > **accès conditionnel**.
-3. Dans la liste des stratégies, sélectionnez **stratégie de référence : Exiger l’authentification Multifacteur pour les administrateurs**.
-4. Définissez **activer la stratégie** à **utiliser immédiatement la stratégie**.
-5. Cliquez sur **enregistrer**.
-
-    ![Exiger l’authentification Multifacteur pour les administrateurs](images/security/baseline-policy-require-mfa-for-admins.png)
+3. Dans la liste des stratégies, sélectionnez **stratégie de référence: Exiger l’authentification MFA**pour les administrateurs.
+4. Définissez **activer la stratégie** pour **utiliser la stratégie immédiatement**.
+5. Cliquez sur **Enregistrer**.
 
 > [!WARNING]
-> Avant d’activer cette stratégie, assurez-vous que vos utilisateurs n’utilisent pas de protocoles d’authentification hérités. Consultez l’article [Comment : L’authentification héritée de bloc à Azure Active Directory avec l’accès conditionnel](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) pour plus d’informations.
+> Avant d’activer cette stratégie, assurez-vous que vos utilisateurs n’utilisent pas les protocoles d’authentification hérités. Par le biais de l’implémentation de cette stratégie, l’authentification héritée est bloquée.
 
 > [!IMPORTANT]
-> Il existe un problème connu, ce qui a un impact sur votre capacité à se connecter à Exchange Online PowerShell à l’aide des privilèges d’administrateur délégués. Consultez le [Exchange Online PowerShell](#exchange-online-powershell) problème avant d’activer cette stratégie si vous utilisez ce module PowerShell.
+> Il existe un problème connu qui a un impact sur votre capacité à se connecter à Exchange Online PowerShell à l’aide de privilèges d’administrateur délégués. Consultez le problème connu [Exchange Online PowerShell](#exchange-online-powershell) avant d’activer cette stratégie si vous utilisez ce module PowerShell.
 
 #### <a name="end-user-protection"></a>Protection de l’utilisateur final
 
-La stratégie de base utilisateur final protection protège tous les utilisateurs dans un répertoire. L’activation de cette stratégie nécessite tous les utilisateurs à s’inscrire pour Azure MFA dans les 14 jours. Une fois inscrit, les utilisateurs seront invités pour l’authentification Multifacteur uniquement pendant les tentatives de connexion à risque. Comptes d’utilisateur compromis sont bloquées jusqu'à ce que la réinitialisation de mot de passe et risque de licenciement.
+La stratégie de ligne de base de protection de l’utilisateur final protège tous les utilisateurs dans un annuaire. L’activation de cette stratégie nécessite que tous les utilisateurs s’inscrivent à Azure MFA dans un délai de 14 jours. Une fois inscrite, les utilisateurs sont invités à utiliser l’authentification multifacteur uniquement pendant les tentatives de connexion risquée. Les comptes d’utilisateurs compromis sont bloqués jusqu’à ce que la réinitialisation du mot de passe et le risque d’échec.
 
-La stratégie **stratégie de référence : Protection de l’utilisateur final** est préconfigurée et s’affichera en haut lorsque vous accédez au panneau d’accès conditionnel dans le portail Azure.
+Stratégie de **ligne de base de stratégie: La protection** des utilisateurs finaux est préconfigurée et s’affiche en haut de l’affichage lorsque vous accédez au panneau accès conditionnel dans portail Azure.
 
-Pour activer cette stratégie et protéger vos utilisateurs :
+Pour activer cette stratégie et protéger vos utilisateurs:
 
-1. Se connecter à la **Azure portal** comme administrateur général, administrateur de sécurité ou administrateur de l’accès conditionnel.
+1. Connectez-vous au **portail Azure** en tant qu’administrateur général, administrateur de la sécurité ou administrateur de l’accès conditionnel.
 2. Accédez à **Azure Active Directory** > **accès conditionnel**.
-3. Dans la liste des stratégies, sélectionnez **stratégie de référence : Protection de l’utilisateur final (version préliminaire)** .
-4. Définissez **activer la stratégie** à **utiliser immédiatement la stratégie**.
-5. Cliquez sur **enregistrer**.
-
-    ![Protection de l’utilisateur final](images/security/baseline-policy-end-user-protection.png)
+3. Dans la liste des stratégies, sélectionnez **stratégie de référence: Protection de l’utilisateur final (** version préliminaire).
+4. Définissez **activer la stratégie** pour **utiliser la stratégie immédiatement**.
+5. Cliquez sur **Enregistrer**.
 
 > [!WARNING]
-> Avant d’activer cette stratégie, assurez-vous que vos utilisateurs n’utilisent pas de protocoles d’authentification hérités. Consultez l’article [Comment : L’authentification héritée de bloc à Azure Active Directory avec l’accès conditionnel](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) pour plus d’informations.
+> Avant d’activer cette stratégie, assurez-vous que vos utilisateurs n’utilisent pas les protocoles d’authentification hérités. Par le biais de l’implémentation de cette stratégie, l’authentification héritée est bloquée.
 
 > [!IMPORTANT]
-> Il existe un problèmes connus, ce qui a un impact sur votre capacité à se connecter à Exchange Online PowerShell à l’aide des privilèges d’administrateur délégués. Consultez le [Exchange Online PowerShell](#exchange-online-powershell) problème avant d’activer cette stratégie si vous utilisez ce module PowerShell.
+> Il existe un problème connu qui a un impact sur votre capacité à se connecter à Exchange Online PowerShell à l’aide de privilèges d’administrateur délégués. Consultez le problème connu [Exchange Online PowerShell](#exchange-online-powershell) avant d’activer cette stratégie si vous utilisez ce module PowerShell.
 
 ## <a name="common-issues"></a>Problèmes courants
 
@@ -140,56 +163,49 @@ Pour activer cette stratégie et protéger vos utilisateurs :
 
 #### <a name="aadsts50076"></a>AADSTS50076
 
-Après avoir activé les stratégies de base, vous constaterez peut-être que votre automatisation ou une intégration rencontre une exception semblable à ce qui suit
+Après avoir activé les stratégies de base, vous constaterez peut-être que votre Automation ou votre intégration rencontre une exception semblable à la suivante:
 
     AADSTS50076: Due to a configuration change made by your administrator, or because you moved to a new location, you must use multi-factor authentication to access 'MyApp'.
 
-La raison de cette exception est que vous vous authentifiez à l’aide des informations d’identification utilisateur et MFA est désormais obligatoire. Pour résoudre cette exception, vous devez utiliser un jeton d’accès pour l’authentification. Consultez le [guide du modèle d’Application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) pour plus d’informations.
+Cette exception est due au fait que vous vous authentifiez à l’aide des informations d’identification de l’utilisateur et que l’authentification multifacteur est maintenant requise. Pour résoudre cette exception, vous devrez utiliser un jeton d’accès pour l’authentification. Pour plus d’informations, consultez le [Guide du modèle d’application sécurisée](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) .
 
 >[!IMPORTANT]
->La plupart des modules PowerShell et API prend en charge la possibilité d’utiliser un jeton d’accès pour l’authentification. Toutefois, il existe certaines qui ne prennent actuellement pas en charge cette fonctionnalité. Si vous avez besoin d’aide pour déterminer si le module PowerShell ou d’API que vous voulez tirer parti de prend en charge l’utilisation d’un jeton d’accès pour l’authentification, puis poster un message sur le [Partner Center Security Guidance Group](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) Communauté.
+>La plupart des API modernes et des modules PowerShell prennent en charge la possibilité d’utiliser un jeton d’accès pour l’authentification. Toutefois, certaines d’entre elles ne prennent pas en charge cette fonctionnalité actuellement. Si vous avez besoin d’aide pour déterminer si l’API ou le module PowerShell que vous essayez d’utiliser prend en charge l’utilisation d’un jeton d’accès pour l’authentification, publiez un message sur la communauté du groupe de conseils de sécurité de l' [espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) .
 
 #### <a name="aadsts700082"></a>AADSTS700082
 
-Une fois que vous avez implémenté l’infrastructure de modèle d’Application sécurisée, il est probable que vous recevrez l’exception suivante 90 jours après la génération du jeton d’actualisation initiale
+Une fois que vous avez implémenté l’infrastructure de modèle d’application sécurisée, il y a un risque que vous receviez l’exception suivante 90 jours après la génération du jeton d’actualisation initial
 
     The refresh token has expired due to inactivity. The token was issued on 2019-01-02T09:19:53.5422744Z and was inactive for 90.00:00:00
 
-En ce qui concerne Azure Active Directory la durée de vie maximale pour une actualisation de jeton est de 90 jours. Pour résoudre cette erreur, vous devrez générer et stocker en toute sécurité un nouveau jeton d’actualisation. Notez qu’il est possible de mettre à jour par programme le jeton d’actualisation, car avec chaque demande à Azure Active Directory pour un jeton d’accès, un nouveau jeton d’actualisation est retourné. Vous pouvez implémenter la logique appropriée pour mettre à jour le jeton d’actualisation stocké de façon sécurisée avant son expiration.
+En ce qui concerne Azure Active Directory la durée de vie maximale d’un jeton d’actualisation est de 90 jours. Pour résoudre cette erreur, vous devez générer et stocker en toute sécurité un nouveau jeton d’actualisation. Notez qu’il est possible de mettre à jour le jeton d’actualisation par programme, car chaque requête adressée à Azure Active Directory pour un jeton d’accès un nouveau jeton d’actualisation est retourné. Vous pouvez implémenter la logique appropriée pour mettre à jour le jeton d’actualisation stocké en toute sécurité avant qu’il n’expire.
 
-Consultez [des durées de vie de jeton configurables dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) pour plus d’informations.
+Pour plus d’informations [, consultez durées de vie des jetons configurables dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) .
 
-### <a name="recovering-compromised-accounts"></a>La récupération de compte compromis
+### <a name="recovering-compromised-accounts"></a>Récupération de comptes compromis
 
-Pour protéger nos clients, le service informations d’identification de Microsoft recherche des paires nom d’utilisateur/mot de passe disponible publiquement. Si elles correspondent à une de nos utilisateurs, nous aider à sécuriser ce compte immédiatement. Utilisateurs identifiés comme ayant des informations d’identification volées sont confirmées compromis. Ces utilisateurs ne pourra se connecter jusqu'à ce que son mot de passe est réinitialisé.
+Pour protéger nos clients, le service d’informations d’identification divulgué de Microsoft recherche les paires nom d’utilisateur/mot de passe disponibles publiquement. S’ils correspondent à l’un de nos utilisateurs, nous vous aidons à sécuriser immédiatement ce compte. Les utilisateurs identifiés comme ayant une fuite d’informations d’identification sont considérés comme compromis. La connexion de ces utilisateurs est bloquée jusqu’à ce que leur mot de passe soit réinitialisé.
 
-Les utilisateurs reçoivent une licence Azure AD Premium peuvent restaurer l’accès via la réinitialisation de mot de passe libre-service (SSPR) si la fonctionnalité est activée dans son annuaire. Les utilisateurs sans licence premium qui sont bloquent doivent contacter un administrateur pour effectuer une réinitialisation de mot de passe manuelle et d’ignorer l’événement à risque utilisateur avec indicateur.
+Les utilisateurs disposant d’une licence Azure AD Premium peuvent restaurer l’accès via la réinitialisation de mot de passe en libre-service (SSPR) si la fonctionnalité est activée dans leur annuaire. Les utilisateurs sans licence Premium qui sont bloqués doivent contacter un administrateur pour effectuer une réinitialisation manuelle du mot de passe et ignorer l’événement à risque pour l’utilisateur.
 
 #### <a name="steps-to-unblock-a-user"></a>Étapes pour débloquer un utilisateur
 
-Vérifiez que l’utilisateur a été bloqué par la stratégie en examinant les journaux de connexion de l’utilisateur.
+Confirmez que l’utilisateur a été bloqué par la stratégie en examinant les journaux de connexion de l’utilisateur.
 
-1. Un administrateur doit se connecter à la **Azure portal** et accédez à **Azure Active Directory** > **utilisateurs** > cliquez sur le nom de l’utilisateur et accédez à des connexions.
-2. Pour lancer le mot de passe réinitialisé sur un utilisateur bloqué, un administrateur doit accéder à **Azure Active Directory** > **utilisateurs avec indicateur de risque**
+1. Un administrateur doit se connecter au **portail Azure** et accéder à **Azure Active Directory** > **utilisateurs** > cliquez sur le nom de l’utilisateur et accédez à connexions.
+2. Pour initier la réinitialisation du mot de passe sur un utilisateur bloqué, un administrateur doit accéder à **Azure Active Directory** > **utilisateurs avec indicateur de risque**
 3. Cliquez sur l’utilisateur dont le compte est bloqué pour afficher des informations sur l’activité de connexion récente de l’utilisateur.
 4. Cliquez sur Réinitialiser le mot de passe pour affecter un mot de passe temporaire qui doit être modifié lors de la prochaine connexion.
-5. Cliquez sur Ignorer tous les événements pour réinitialiser le score de risque de l’utilisateur.
+5. Cliquez sur faire disparaître tous les événements pour réinitialiser le score de risque de l’utilisateur.
 
-L’utilisateur peut désormais se connecter, de réinitialiser leur mot de passe et d’accéder à l’application.
+L’utilisateur peut désormais se connecter, réinitialiser son mot de passe et accéder à l’application.
 
 ## <a name="known-issues"></a>Problèmes connus
 
 ### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-Lors de l’authentification Multifacteur est activée partenaires ne sera pas en mesure d’utiliser leurs privilèges d’administration déléguées avec Exchange Online PowerShell pour effectuer des actions par rapport à leurs clients. Consultez [se connecter à Exchange Online PowerShell à l’aide de l’authentification multifacteur](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) pour plus d’informations concernant cette limitation.
+Lorsque l’authentification MFA est activée, les partenaires ne peuvent pas utiliser leurs privilèges d’administrateur délégués avec Exchange Online PowerShell pour effectuer des actions sur leurs clients. Pour plus d’informations sur cette limitation, consultez [se connecter à Exchange Online PowerShell à l’aide de Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) .
 
-## <a name="resources-and-support"></a>Prise en charge et ressources
+## <a name="resources-and-support"></a>Ressources et support
 
-Via le [Communauté de partenaires Center Security Guidance Group](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) vous pouvez trouver des ressources supplémentaires et en savoir plus sur les événements à venir telles que des heures de bureau technique. Consultez le [Forum aux questions](http://assetsprod.microsoft.com/security-requirements-faq.pdf) document pour en savoir plus sur la configuration requise.
-
-### <a name="developers"></a>Développeurs
-
-- [L’activation du modèle d’Application sécurisée](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Exemples .NET de partenaires](https://github.com/microsoft/partner-center-dotnet-samples)
-- [Exemples Java de partenaires](https://github.com/microsoft/partner-center-java-samples)
-- [PowerShell partenaires implémentant le modèle d’Application sécurisée](https://docs.microsoft.com/powershell/partnercenter/secure-app-model)
+Par le biais de la communauté du groupe de conseils de sécurité de l' [espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) , vous trouverez des ressources supplémentaires et des informations sur les événements à venir, tels que les horaires des bureaux techniques. Consultez le document Forum [aux questions](http://assetsprod.microsoft.com/security-requirements-faq.pdf) pour en savoir plus sur la configuration requise.

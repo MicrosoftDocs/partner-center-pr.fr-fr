@@ -8,28 +8,29 @@ ms.author: evansma
 keywords: Fournisseur de solutions Cloud, CSP, services basés sur le Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
-ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
+ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "66176187"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "68376426"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
 
-Avec les réservations Azure et des abonnements serveur (Windows Server et les abonnements SQL Server), partenaires dans le programme peut CSP, une meilleure adresse la demande client croissante des solutions moins coûteuses prendre en charge très prévisible et persistant charges de travail de cloud. 
+Avec les réservations Azure et les abonnements au serveur (abonnements Windows Server et SQL Server), les partenaires du programme CSP peuvent mieux répondre à la demande des clients en constante évolution, afin d’obtenir des solutions plus rentables pour la prise en charge de solutions hautement prévisibles et persistantes. charges de travail Cloud. 
 
-Maintenant, vous pouvez acquérir, configurer et gérer des réservations d’Azure et les abonnements de serveur pour le compte de clients commerciaux via des partenaires et le portail Azure en tirant parti de l’offre Azure Hybrid Benefit. 
+Vous pouvez désormais acquérir, approvisionner et gérer des réservations Azure et des abonnements de serveur pour le compte de clients commerciaux via l’espace partenaires et le portail Azure en tirant parti de la Azure Hybrid Benefit. 
 
-Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le Windows Server Datacenter et les licences Standard prises en charge avec Software Assurance. Selon l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un taux de calcul de base inférieure, (par exemple, le taux de machine virtuelle Linux).
+Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le Windows Server Datacenter et les licences Standard prises en charge avec Software Assurance. Selon l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un taux de calcul de base inférieur (taux de machines virtuelles Linux, par exemple).
 
 > [!NOTE]  
-> Réservations d’Azure ne sont pas disponibles dans les marchés suivants :  
+> Les réservations Azure ne sont pas disponibles sur les marchés suivants:  
 > * Argentine
 > * Brésil
 > * Chine
 > * Indonésie
 > * Liechtenstein
+> * Jersey
 > * Malaisie
 > * Mexique
 > * Russie
@@ -42,14 +43,14 @@ Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos lice
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acheter des abonnements logiciels pour le compte de clients
 
-Pour acheter des abonnements de logiciels pour le compte d’un client, accédez à la page de détails du client, sélectionnez **ajouter des produits**, puis suivez l’à l’écran des instructions pour créer et payez votre commande. Tous les tarifs commerciaux exclut les taxes à l’exception de l’Australie et le Brésil. Pour l’Australie et le Brésil, le prix inclut la taxe.
+Pour acheter des abonnements logiciels au nom d’un client, accédez à la page de détails du client, sélectionnez **Ajouter des produits**, puis suivez les instructions à l’écran pour créer et payer votre commande. Toutes les tarifs commerciaux excluent les taxes, à l’exception de l’Australie et du Brésil. Pour l’Australie et le Brésil, le prix comprend des taxes.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
-Après avoir acheté l’abonnement logiciel, suivez les étapes ci-dessous pour le télécharger.
+Une fois l’abonnement logiciel acheté, suivez les étapes ci-dessous pour le télécharger.
 
 >[!NOTE]
->Vous devez être un agent d’administration pour télécharger le logiciel et obtenir les clés d’activation.
+>Vous devez être un agent d’administration pour télécharger le logiciel et récupérer les clés d’activation.
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. Vous verrez une liste de tous les logiciels que vous avez achetés pour le compte du client. 
 2.  Développez le produit que vous souhaitez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous souhaitez. 
@@ -60,23 +61,23 @@ Après avoir acheté l’abonnement logiciel, suivez les étapes ci-dessous pour
 >[!NOTE]
 >Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se termine en premier. Une fois que le lien arrive à expiration, revenez à cette page, puis sélectionnez **Obtenir les clés et les téléchargements** à nouveau pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
 
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité pour l’accès aux clés de logiciels et des téléchargements de logiciels
-À des fins d’audit ou de conformité, vous devrez peut-être vérifier la liste des utilisateurs qui ont accès les clés de logiciels d’abonnement serveur ou téléchargé le logiciel d’abonnement serveur. Utilisez la procédure ci-dessous pour accéder à ces informations. 
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité pour l’accès aux clés logicielles et les Téléchargements logiciels
+À des fins d’audit ou de conformité, vous devrez peut-être vérifier la liste des utilisateurs ayant accès aux clés logicielles de l’abonnement serveur ou au logiciel d’abonnement au serveur téléchargé. Utilisez la procédure ci-dessous pour accéder à ces informations. 
 
 >[!NOTE]
->Vous devez être un administrateur général, administrateur de compte, administrateur de référence ou administrateur contenu Marketing pour afficher ces journaux d’activité. 
+>Vous devez être administrateur général, administrateur de compte, administrateur de référence ou administrateur du contenu marketing pour voir ces journaux d’activité. 
 
-1.  Dans espace partenaires, sélectionnez l’icône d’engrenage dans le coin supérieur droit. 
-2.  Dans le menu, sélectionnez **journal d’activité**.
-3.  Entrez la plage de dates pour l’activité que vous souhaitez afficher. Le journal d’activité affiche une liste d’utilisateurs qui ont accès des clés logicielles ou téléchargé le logiciel pendant la période spécifiée. 
+1.  Dans l’espace partenaires, sélectionnez l’icône d’engrenage dans l’angle supérieur droit. 
+2.  Dans le menu, sélectionnez **Journal d’activité**.
+3.  Entrez la plage de dates de l’activité que vous souhaitez afficher. Le journal d’activité affiche une liste des utilisateurs ayant accédé à des clés logicielles ou téléchargés au moment où vous avez spécifié. 
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 
-Vous pouvez annuler un achat de logiciel de 60 jours après la date d’achat. Microsoft ne facture pas un frais de résiliation anticipée, toutefois, vous ne pouvez pas annuler un achat après 60 jours à partir de la date d’achat.
+Vous pouvez annuler un achat de logiciel dans un délai de 60 jours à compter de la date d’achat. Microsoft ne procède à aucun frais de résiliation précoce. Toutefois, vous ne pouvez pas annuler un achat après 60 jours à compter de la date d’achat.
 
-Après l’annulation de l’achat, la clé du logiciel sera révoquée. 
+Une fois l’achat annulé, la clé du logiciel est révoquée. 
 
-Suivez les étapes ci-dessous pour annuler un achat :
+Suivez les étapes ci-dessous pour annuler un achat:
 
 >[!NOTE]
 >Vous devez être Agent d'administration pour pouvoir annuler un achat. 
@@ -87,9 +88,9 @@ Suivez les étapes ci-dessous pour annuler un achat :
     -   Raison du remboursement
     -   Montant demandé
 
-2.  Sur la page des détails du client, sélectionnez **logiciel** pour afficher la liste de tous les logiciels que vous avez achetées pour le client. 
+2.  Sur la page des détails du client, sélectionnez **logiciel** pour afficher la liste de tous les logiciels que vous avez achetés pour le client. 
 
-3.  Recherchez le logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. La page **Signaler un problème avec l'Espace partenaires** s'ouvre. 
+3.  Localisez le logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. La page **Signaler un problème avec l'Espace partenaires** s'ouvre. 
 
 4.  Sous **Détails**, dans la liste **Type de problème**, sélectionnez **Achat/remboursement fournisseur de solutions Cloud pour le compte de clients**.
 

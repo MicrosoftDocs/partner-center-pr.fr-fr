@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 7777b281948f560666be154e4618b788782a474f
+ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133979"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "68376428"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Se connecter à des clients dans l'Espace partenaires
 
@@ -20,20 +20,20 @@ ms.locfileid: "62133979"
 
 -  Espace partenaires
 
-Si vous souhaitez gérer le service ou abonnement en leur nom d’un client, le client doit accorder des autorisations d’administrateur pour ce service ou d’un abonnement. La procédure ci-dessous montre comment demander cette autorisation par courrier électronique. Lorsque le client aura approuvé votre demande, vous serez en mesure d’ouvrir une session sur le portail d’administration du service et de gérer le service pour le compte du client.
+Si vous souhaitez gérer le service ou l’abonnement d’un client en son nom, le client doit vous accorder des autorisations d’administrateur pour ce service ou cet abonnement. La procédure suivante montre comment demander cette autorisation par courrier électronique. Lorsque le client aura approuvé votre demande, vous serez en mesure d’ouvrir une session sur le portail d’administration du service et de gérer le service pour le compte du client.
 
-Si vous souhaitez établir une relation de revendeur avec un client et de gérer uniquement les abonnements Azure que vous devez configurer, il n’est pas nécessaire obtenir des autorisations d’administrateur.
+Si vous souhaitez établir une relation de revendeur avec un client et gérer uniquement les abonnements Azure que vous approvisionnez, il n’est pas nécessaire d’obtenir des autorisations d’administrateur.
 
-Notez que l’option pour ne pas demander les autorisations n’est pas disponible pour les partenaires d’exploitation dans Microsoft Cloud pour gouvernement ou Microsoft Cloud Germany. Pour plus d’informations, consultez [clients déléguer des privilèges d’administration aux partenaires](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
+Notez que l’option permettant de ne pas demander d’autorisations n’est pas disponible pour les partenaires qui fonctionnent dans Microsoft Cloud pour le gouvernement des États-Unis ou Microsoft Cloud Allemagne. Pour plus d’informations, consultez [clients déléguer des privilèges d’administration à des partenaires](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
 
-Notez que vous pouvez demander une relation de revendeur avec un client à partir de dans votre pays ou votre région même.
+Notez que vous pouvez demander une relation de revendeur avec un client dans votre pays ou dans la même région.
 
-1.  Sélectionnez **clients** à partir de votre **partenaires** , puis sélectionnez **demander une relation de revendeur**.
+1.  Sélectionnez **clients** dans votre menu **espace partenaires** , puis sélectionnez **demander une relation de revendeur**.
 
-2.  Pour demander des autorisations administrateur à partir de ce client, sélectionnez **Include délégué des privilèges d’administration pour Azure Active Directory et Office 365**. Pour établir la relation sans demander d’autorisations d’administrateur, désactivez cette option. 
+2.  Pour demander des autorisations d’administrateur à ce client, sélectionnez **inclure des privilèges d’administration déléguée pour Azure Active Directory et Office 365**. Pour établir la relation sans demander d’autorisations d’administrateur, désactivez cette option. 
 
 3.  Sur la page suivante, vérifiez le brouillon du message électronique. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie électronique par défaut ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 
@@ -50,15 +50,15 @@ Notez que vous pouvez demander une relation de revendeur avec un client à parti
 > [!IMPORTANT]  
 > Les clients peuvent réaffecter ou supprimer des autorisations d’administrateur dans le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, vous pouvez appeler le support Microsoft pour ouvrir une demande de service de la part du client.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Modifications apportées à l’expérience d’invitation
+## <a name="changes-to-the-customer-invitation-experience"></a>Modifications apportées à l’expérience d’invitation du client
 
-L’expérience du client d’accepter une invitation de relation de revendeur d’un partenaire fournisseur de solutions Cloud change le 1er novembre 2018. Pour plus d’informations sur les modifications, consultez le tableau ci-dessous. Pour plus d’informations sur la nouvelle expérience dans Microsoft Store pour entreprises, consultez [utilisation des fournisseurs de solutions dans Microsoft Store pour entreprises](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).
+L’expérience client pour l’acceptation d’une invitation de revendeur revendeur d’un partenaire de fournisseur de solutions Cloud est hébergée par différents portails côté client. L’emplacement du portail varie selon qu’un client se trouve dans un cloud public Microsoft ou dans un Cloud national: 
 
-|  | Où un client accepte une invitation de revendeur envoyée avant le 1er novembre 2018 ? | Où un client accepte une invitation de revendeur envoyée après le 1er novembre 2018 ? |
-|---------|---------|---------
-| Clients dans le Cloud Public | Portail d’administration de Microsoft Office | Microsoft Store pour Entreprises |
-| Les clients de partenaires de Microsoft Cloud Allemagne | Portail d’administration de Microsoft Office | Portail d’administration de Microsoft Office |
-| Clients de partenaires de Microsoft Cloud pour gouvernement des États-Unis | Portail d’administration de Microsoft Office | Portail d’administration de Microsoft Office |
+|  | Où un client accepte-t-il une invitation de relation de revendeur? |
+|---------|---------
+| Clients dans le cloud public | Microsoft Store pour Entreprises |
+| Clients dans l’espace partenaires pour Microsoft Cloud Allemagne | Microsoft Office le portail d’administration |
+| Clients dans l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis | Microsoft Office le portail d’administration |
 |
 
 ## <a name="see-also"></a>Voir aussi
