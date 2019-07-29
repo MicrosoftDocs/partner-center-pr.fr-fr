@@ -3,7 +3,8 @@
 # [Adhésion au réseau des partenaires](mpn-overview.md)
 ## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
 ## [Guide pratique pour obtenir une adresse e-mail professionnelle](buy-email-domain.md)
-## Passer de PMC à l’Espace partenaires
+## [Le Centre d’administration des partenaires est transféré à l’Espace partenaires](pac-to-pc-overview.md)
+## Passer du Partner Membership Center à l’Espace partenaires
 ### [Préparer votre transition du Partner Membership Center vers l’Espace partenaires](prepare-pmc-pc-migration.md)
 ### [Guide de transition de PMC à l’Espace partenaires](guide-to-migration.md)
 ### [Aperçu rapide des différences entre PMC et l’Espace partenaires](move-pmc-pc-map.md)
@@ -123,6 +124,7 @@
 ### [Simplifiez l’installation des appareils avec Windows AutoPilot](autopilot.md)
 ##  Offres de mise à jour ou de transfert vers des versions plus récentes
 ### [Mettre à niveau des abonnements Dynamics AX vers Dynamics 365](manual-subscription-migration.md)
+### [Migrer les offres Dynamics 365 Business Edition vers des versions plus récentes](migrate-dynamics-365-to-new.md)
 ### [Migrer des abonnements Office 365 Entreprise E4 vers des versions plus récentes d’Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Migrer Skype Entreprise Online (Plan 1) vers des versions plus récentes d’Office 365](skype-retiring.md)
 ### [Transférer des abonnements Azure](switch-azure-subscriptions-to-a-different-partner.md)
