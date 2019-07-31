@@ -107,6 +107,7 @@
 ### [Dimensionnement d’une machine virtuelle en vue d’une utilisation optimale de la réservation](azure-usage.md)
 ### [Acheter des réservations Microsoft Azure pour vos clients](azure-reservations-buying.md)
 ### [Gérer des réservations Microsoft Azure pour vos clients](azure-reservations-manage.md)
+### [Abonnements Instances de machine virtuelle réservées Azure + Serveur](azure-ri-server-subscriptions.md)
 ## [Abonnements aux logiciels](csp-software-subscriptions.md)
 ## [Services en ligne (abonnements)](customer-subscriptions.md)
 ### [Créer, suspendre ou annuler les abonnements client](create-a-new-subscription.md)
