@@ -1,36 +1,36 @@
 ---
-title: Redimensionnement de machine virtuelle Microsoft Azure pour l’utilisation de réservation maximale | Partenaires
+title: Microsoft Azure le dimensionnement de la machine virtuelle pour une utilisation maximale de la réservation | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 08/05/2019
 Description: Lorsque vous achetez des réservations Microsoft Azure pour vos clients, vous devez choisir une machine virtuelle (VM) dimensionnée en fonction des besoins informatiques du client.
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: azure, réservations, machines virtuelles, gérer, utilisation, dimensionnement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9a398b73cf00bd71130d25f0ec94a33b457e216b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 1c1c0170c5efd8abf2e1afb7bb6ef1dfac2b7e5b
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135515"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820193"
 ---
-# <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement d’une machine virtuelle Microsoft Azure en vue d'une utilisation optimale de la réservation 
+# <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement d’une machine virtuelle Microsoft Azure en vue d'une utilisation optimale de la réservation
 
 **S’applique à**
 
--  Espace partenaires
--  Portail Azure
--  Partenaires fournisseurs de solutions Cloud
+- Espace partenaires
+- Portail Azure
+- Partenaires fournisseurs de solutions Cloud
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Déterminer la taille de la machine virtuelle pour la réservation Azure du client 
 
 Lorsque vous achetez des réservations Microsoft Azure pour vos clients, vous devez choisir une machine virtuelle (VM) dimensionnée en fonction des besoins informatiques du client. Vous pouvez trouver ces informations grâce à l'une des méthodes suivantes :
 
--   API d'utilisation d'Azure
--   Le portail Azure
--   Azure PowerShell
--   L’API Azure Resource Manager (ARM)
+- API d'utilisation d'Azure
+- Le portail Azure
+- Azure PowerShell
+- L’API Azure Resource Manager (ARM)
 
 Les instructions propres à ces méthodes sont énoncées ci-dessous. Une fois que vous achetez une réservation, la remise de réservation est automatiquement appliquée aux machines virtuelles dont les attributs et la quantité correspondent à la réservation. Il n'est pas nécessaire d'attribuer la réservation à une machine virtuelle.
 
@@ -40,51 +40,44 @@ Les instructions propres à ces méthodes sont énoncées ci-dessous. Une fois q
 >[!IMPORTANT]
 >Afin d'identifier le type et la taille corrects de la machine virtuelle à acheter pour votre client, vous devez utiliser l'une des méthodes décrites ci-dessous car le type de série de machine virtuelle ne s’affiche pas correctement dans les fichiers de rapprochement de l’Espace partenaires.
 
+**Récupération des informations de dimensionnement de machine virtuelle à l’aide de l’API d’utilisation Azure**
 
-**Obtenir des informations à l’aide de l’utilisation de l’API Azure de dimensionnement de machine virtuelle**
+1. Utilisez la valeur de l’attribut ServiceType indiquée dans additionalInfo dans la réponse de l’API pour identifier la taille de la machine virtuelle à acheter.
+2. Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’un client pour Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) dans l'[API de l'Espace partenaires](https://docs.microsoft.com/partner-center/develop/).
 
-1.  Utilisez la valeur de l’attribut ServiceType indiquée dans additionalInfo dans la réponse de l’API pour identifier la taille de la machine virtuelle à acheter. 
+**Obtient les informations de dimensionnement de machine virtuelle à l’aide du Portail Microsoft Azure**
 
-2.  Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’un client pour Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) dans l'[API de l'Espace partenaires](https://docs.microsoft.com/partner-center/develop/). 
+1. Dans l’espace partenaires, accédez à la page de vos **clients** .
+2. Recherchez le client qui souhaite acheter des réservations de machines virtuelles Azure, puis sélectionnez la flèche allant vers le bas pour afficher les informations le concernant. Sélectionnez **Portail de gestion Microsoft Azure** pour ouvrir le dossier du client dans le portail Azure.
+3. Sélectionnez **Machines virtuelles** à partir du menu du portail, puis sélectionnez la machine virtuelle pour laquelle vous souhaitez acheter une réservation.
+4. Sur la page des détails de la machine virtuelle, recherchez les informations relatives à la dimension et à la région, comme illustré ci-dessous, et utilisez-les pour acheter la réservation dans l’Espace partenaires.  
 
-**Obtenir des informations sur l’aide du portail Microsoft Azure la taille de machine virtuelle**
+    ![Informations sur la taille et la région sur la page de détails](images/usage1.png)
 
-1.  Dans le centre de partenaires, accédez à votre **clients** page.
-
-2.  Recherchez le client qui souhaite acheter des réservations de machines virtuelles Azure, puis sélectionnez la flèche allant vers le bas pour afficher les informations le concernant. Sélectionnez **Portail de gestion Microsoft Azure** pour ouvrir le dossier du client dans le portail Azure. 
-
-3.  Sélectionnez **Machines virtuelles** à partir du menu du portail, puis sélectionnez la machine virtuelle pour laquelle vous souhaitez acheter une réservation. 
-
-4.  Sur la page des détails de la machine virtuelle, recherchez les informations relatives à la dimension et à la région, comme illustré ci-dessous, et utilisez-les pour acheter la réservation dans l’Espace partenaires.  
-
-    ![Informations de taille et de la région sur la page de détails](images/usage1.png)
-
-**Obtenir des informations sur Microsoft Azure PowerShell à l’aide de la taille de machine virtuelle**
+**Récupération d’informations de dimensionnement de machine virtuelle à l’aide de Microsoft Azure PowerShell**
 
 Utilisez les informations indiquées dans l’image ci-dessous pour obtenir l’emplacement et la taille de la machine virtuelle pour laquelle vous souhaitez acheter une réservation. 
 
-![Taille et l’emplacement de la machine virtuelle](images/usage2.png)
+![Emplacement et taille de la machine virtuelle](images/usage2.png)
 
-**Obtenir des informations sur l’aide de l’API Azure Resource Manager (ARM) la taille de machine virtuelle**
+**Récupération des informations de dimensionnement de machine virtuelle à l’aide de l’API Azure Resource Manager (ARM)**
 
-1.  À l’aide des API ARMClient ou ARM, appelez le client ARM pour la machine virtuelle pour laquelle vous souhaitez acheter une réservation.
+1. À l’aide des API ARMClient ou ARM, appelez le client ARM pour la machine virtuelle pour laquelle vous souhaitez acheter une réservation.
 
-2.  /subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01
+2. /subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01
 
-3.  L’appel retourne les valeurs pour **vmSize** et **location**, comme illustré ci-dessous.
+3. L’appel retourne les valeurs pour **vmSize** et **location**, comme illustré ci-dessous.
 
-    ![valeur de vmSize](images/usage3.png)
-    ![valeur de l’emplacement](images/usage4.png)
- 
+    ![valeur de](images/usage3.png) l’emplacement de la valeur ![vmSize](images/usage4.png)
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Vérifiez l'utilisation de la machine virtuelle Azure et la remise de réservation
 
-Une fois que vous aurez acheté une Azure Reserved VM Instance au nom du client, la remise pour le paiement anticipé de l'espace de machine virtuelle est automatiquement appliquée aux machines virtuelles dont les attributs et la quantité correspondent à la réservation du client. 
+Une fois que vous aurez acheté une Azure Reserved VM Instance au nom du client, la remise pour le paiement anticipé de l'espace de machine virtuelle est automatiquement appliquée aux machines virtuelles dont les attributs et la quantité correspondent à la réservation du client.
 
-Vous pouvez vérifier l’utilisation de la réservation du client et afficher les machines virtuelles sur lesquelles une remise de réservation a été appliquée à l'aide de l'une des méthodes suivantes :   
+Vous pouvez vérifier l’utilisation de la réservation du client et afficher les machines virtuelles sur lesquelles une remise de réservation a été appliquée à l'aide de l'une des méthodes suivantes :
 
--   Le portail Azure
--   API d'utilisation d'Azure
+- Le portail Azure
+- API d'utilisation d'Azure
 
 Les instructions propres à ces méthodes sont énoncées ci-dessous.
 
@@ -93,37 +86,33 @@ Les instructions propres à ces méthodes sont énoncées ci-dessous.
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Vérifier l’utilisation de la réservation du client dans le portail Microsoft Azure
 
-1.  Dans le centre de partenaires, accédez à votre **clients** page.
+1. Dans l’espace partenaires, accédez à la page de vos **clients** .
 
-2.  Recherchez le client dont vous souhaitez vérifier la remise de réservation et l'utilisation, puis sélectionnez la flèche allant vers le bas pour afficher les informations le concernant. Sélectionnez **Portail de gestion Microsoft Azure** pour ouvrir le dossier du client dans le portail Azure. 
-
-3.  Sélectionnez **Réservations** à partir du menu du portail, puis sélectionnez la réservation pour laquelle vous souhaitez vérifier l'utilisation. 
-
-4.  Sur la page **Vue d’ensemble** consultez le graphique d’utilisation de la réservation, qui indique la quantité de la réservation appliquée aux machines virtuelles. 
+2. Recherchez le client dont vous souhaitez vérifier la remise de réservation et l'utilisation, puis sélectionnez la flèche allant vers le bas pour afficher les informations le concernant. Sélectionnez **Portail de gestion Microsoft Azure** pour ouvrir le dossier du client dans le portail Azure.
+3. Sélectionnez **Réservations** à partir du menu du portail, puis sélectionnez la réservation pour laquelle vous souhaitez vérifier l'utilisation.
+4. Sur la page **Vue d’ensemble** consultez le graphique d’utilisation de la réservation, qui indique la quantité de la réservation appliquée aux machines virtuelles.
 
     >[!NOTE]
     >Les données d’utilisation sont actualisées dans un délai de 8 heures maximum.
-    
-    a.  Si la réservation est utilisée à 100 %, votre client bénéficie de tous les gains possibles découlant d'un achat de réservation. 
-    
-    b.  Si la réservation est utilisée à 0 %, la remise n'est appliquée à aucune machine virtuelle. 
-    
-    c.  Si l'utilisation de la réservation se situe entre 1 et 99 %, celle-ci n'est pas exploitée au maximum. 
 
-5.  Pour éviter une telle situation, déterminez la taille appropriée de la machine virtuelle qui répondra aux besoins informatiques du client avant de procéder à l'achat.
+    a. Si la réservation est utilisée à 100 %, votre client bénéficie de tous les gains possibles découlant d'un achat de réservation.
+    b. Si la réservation est utilisée à 0 %, la remise n'est appliquée à aucune machine virtuelle.
+    c. Si l'utilisation de la réservation se situe entre 1 et 99 %, celle-ci n'est pas exploitée au maximum.
+
+5. Pour éviter une telle situation, déterminez la taille appropriée de la machine virtuelle qui répondra aux besoins informatiques du client avant de procéder à l'achat.
 
 ### <a name="verify-the-customers-reservation-usage-with-the-azure-utilization-api"></a>Vérifier l’utilisation de la réservation du client avec l'API d'utilisation Azure
 
 >[!NOTE]
 >Seule l'API d’utilisation Azure indique les machines virtuelles sur lesquelles la remise est appliquée.  
 
-Vous pouvez obtenir les données d’utilisation de la réservation avec l’API d'utilisation Azure pour vérifier que le client bénéficie de la remise de réservation et pour déterminer sur quelles machines virtuelles celle-ci est appliquée. Comparez l’exemple A à l'exemple B pour voir comment vérifier l’utilisation de la réservation d’un client. 
+Vous pouvez obtenir les données d’utilisation de la réservation avec l’API d'utilisation Azure pour vérifier que le client bénéficie de la remise de réservation et pour déterminer sur quelles machines virtuelles celle-ci est appliquée. Comparez l’exemple A à l'exemple B pour voir comment vérifier l’utilisation de la réservation d’un client.
 
-![Exemples d’utilisation de réservation](images/usage5.png)
+![Exemples d’utilisation de la réservation](images/usage5.png)
 
--   L'identifiant reservationId identifie la réservation Azure qui a été utilisée pour appliquer la remise à la machine virtuelle.
--   consumptionMeter correspond à l'identifiant MeterId auquel la remise de réservation est appliquée.
--   Le ReservationMeter affiche un coût de 0 $ dans la mesure où la remise de réservation a été appliquée. 
+- L'identifiant reservationId identifie la réservation Azure qui a été utilisée pour appliquer la remise à la machine virtuelle.
+- consumptionMeter correspond à l'identifiant MeterId auquel la remise de réservation est appliquée.
+- Le ReservationMeter affiche un coût de 0 $ dans la mesure où la remise de réservation a été appliquée.
 
 Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’un client pour Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) dans l'[API de l'Espace partenaires](https://docs.microsoft.com/partner-center/develop/).
 
@@ -131,14 +120,12 @@ Pour plus d’informations, consultez [Obtenir les dossiers d’utilisation d’
 >Les coûts associés aux logiciels, tels que Microsoft Windows Server, ne sont pas actuellement inclus dans le prix d’une réservation de machine virtuelle et apparaîtront dans des postes distincts dans le dossier de commande et sur votre facture. Toutefois, si un client a souscrit au programme Azure Hybrid Use Benefit, les coûts de logiciel ne seront pas appliqués. Pour en savoir plus, consultez [Coûts des logiciels Windows non inclus avec les instances réservées](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  
 
 ## <a name="azure-reservations-resources"></a>Ressources des réservations Azure
-|**Pour plus d’informations sur**   |**Lisez ce**    |
+
+|**Pour plus d’informations sur**   |**Lire**    |
 |:-----------------------------|:-----------------|
-|Réservations Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendez des Instances de machine virtuelle réservée Azure de Microsoft](azure-reservations.md)
+|Réservations Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre Microsoft Azure des instances de machines virtuelles réservées](azure-reservations.md)
 |Achat de réservations Azure pour vos clients dans l’espace partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md)
-|Gestion des réservations d’Azure dans l’espace partenaires | [Gestion des réservations d’Azure dans l’espace partenaires](azure-reservations-manage.md)
+|Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)
 |Achat de réservations Azure dans le portail Azure | [Prépaiement des machines virtuelles avec Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) dans l’aide d’Azure |
 |Gestion des réservations Azure dans le portail Azure   |[Gérer les instances de machines virtuelles réservées](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) dans l’aide d’Azure  |
 |Achat de réservations Azure à l’aide de l'API de l'Espace partenaires | [Acheter Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation pour développeurs Espace partenaires
-
-
-

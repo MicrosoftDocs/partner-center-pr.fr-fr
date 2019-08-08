@@ -6,12 +6,12 @@ description: Points à prendre en compte avant de déplacer votre activité de P
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854516"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820573"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparez-vous à passer du centre d’appartenance partenaire (PMC) à l’espace partenaires
 
@@ -29,7 +29,7 @@ Dans l’espace partenaires, vous allez utiliser votre adresse de messagerie pro
 - Votre compte professionnel:john@contoso.com
 - Votre compte personnel:John@outlook.com
 
-Votre adresse de messagerie professionnelle fait partie de votre locataire Azure Active Directory. Pour disposer d’un compte dans l’espace partenaires, vous devez disposer d’un locataire AAD. Pour plus d’informations sur Azure Active Directory, consultez [création de votre répertoire dans Azure ad](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Votre adresse de messagerie professionnelle fait partie de votre locataire Azure Active Directory. Pour disposer d’un compte dans l’espace partenaires, vous devez disposer d’un locataire AAD. Pour plus d’informations sur Azure Active Directory, consultez [création de votre répertoire dans Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Lorsque vous accédez au centre des partenaires à partir de PMC, quel compte devez-vous vous connecter à l’espace partenaires avec si vous disposez d’un locataire AAD avec Microsoft (pour Office 365, par exemple) et que vous avez également un locataire pour votre activité CSP?**
 
@@ -66,7 +66,7 @@ L’espace partenaires offre différents types de rôles en fonction des types d
 
 **Qu’advient-il des rôles des utilisateurs lorsqu’ils passent de PMC à l’espace partenaires?**
 
-À l’exception de l’administrateur général MPN ou du contact de programme principal qui effectue la migration, tous les utilisateurs de PMC perdront leurs rôles d’administrateur. La personne qui effectue la migration doit attribuer des rôles dans l’espace partenaires. Les rôles de l’espace partenaires diffèrent de ceux de PMC. Lisez [affecter des rôles et des autorisations d’utilisateurs] (autorisations-overview.md et [passage de PMC à l’espace partenaires](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) pour plus d’informations sur les rôles d’utilisateur dans l’espace partenaires.
+À l’exception de l’administrateur général MPN ou du contact de programme principal qui effectue la migration, tous les utilisateurs de PMC perdront leurs rôles d’administrateur. La personne qui effectue la migration doit attribuer des rôles dans l’espace partenaires. Les rôles de l’espace partenaires diffèrent de ceux de PMC. Lisez [affecter des rôles et des autorisations d’utilisateurs] (autorisations-overview.md et [passage de PMC à l’espace partenaires](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) pour plus d’informations sur les rôles d’utilisateur dans l’espace partenaires.
 
 
 **Quelle est la différence entre mon profil d’entreprise et mon profil d’entreprise?**

@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fd95787a87a1b70a0b2f31114b22dde7ca0f837c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d595c05adac5ffc57a52d8635abf80cb0b3f375d
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135689"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820311"
 ---
 # <a name="faq-about-new-billing-features"></a>FAQ sur les nouvelles fonctionnalités de facturation
 
@@ -26,51 +26,51 @@ Vous trouverez ci-dessous les réponses aux questions fréquemment posées à pr
 
 ## <a name="in-this-section"></a>Dans cette section
 
--   [Forum aux questions de facturation annuelle](#annualbillingfaq)
+-   [FAQ sur la facturation annuelle](#annualbillingfaq)
 
--   [Forum aux questions sur les essais gratuits](#freetrialsfaq)
+-   [FAQ sur les essais gratuits](#freetrialsfaq)
 
--   [Alignement de facturation FAQ](#billingalignmentfaq)
+-   [FAQ sur l’alignement de la facturation](#billingalignmentfaq)
 
 
-## <a href="" id="annualbillingfaq"></a>Forum aux questions de facturation annuelle
+## <a href="" id="annualbillingfaq"></a>FAQ sur la facturation annuelle
 
 Sections :
 
-[Vue d’ensemble et les avantages de facturation annuelle](#overviewandbenefits)
+[Vue d’ensemble et avantages de la facturation annuelle](#overviewandbenefits)
 
-[Votre commande et scénarios de facturation](#placingyourorder)
+[Placement de vos scénarios de commande et de facturation](#placingyourorder)
 
 [Modification de votre abonnement](#changingyoursubscription)
 
 [Calcul de la tarification](#pricingcalculation)
 
-[Création de rapports](#reporting)
+[Comptes](#reporting)
 
-[Primes](#incentives)
+[Visant](#incentives)
 
 
-<a href="" id="overviewandbenefits"></a>**Vue d’ensemble et les avantages de facturation annuelle**
+<a href="" id="overviewandbenefits"></a>**Vue d’ensemble et avantages de la facturation annuelle**
 
-**Q :** Ce qui a changé ?
+**Q :** Qu’est-ce qui a changé?
 
--   **R :** En réponse à vos demandes, nous avons introduit la possibilité de payer pour certains abonnements CSP sur annuel ou une base mensuelle. Cette nouvelle option sera disponible le 17 octobre 2017.
+-   **R :** En réponse à vos demandes, nous avons introduit l’option de paiement de certains abonnements CSP sur une base annuelle ou mensuelle. Cette nouvelle option sera disponible le 17 octobre 2017.
 
-**Q :** Qui peut participer ?
+**Q :** Qui peut participer?
 
--   **R :** Tous les partenaires et les types de partenaires peuvent faire usage de facturation annuelle. La facturation annuelle est disponible dans tous les marchés où le programme Fournisseur de solutions Cloud est actuellement disponible. 
+-   **R :** Tous les partenaires et types de partenaires peuvent bénéficier de la facturation annuelle. La facturation annuelle est disponible dans tous les marchés où le programme Fournisseur de solutions Cloud est actuellement disponible. 
 
-**Q :** Que dois-je prendre en considération en matière de facturation annuelle ?    
+**Q :** Que dois-je prendre en considération pour réfléchir à la facturation annuelle?    
 
--   **R :** Vous devez envisager comment vos mouvements de ventes seront affectées. Voici quelques conseils pour vous aider à utiliser efficacement la facturation annuelle. 
+-   **R :** Vous devez réfléchir à la façon dont votre mouvement de vente sera affecté. Voici quelques conseils pour vous aider à utiliser efficacement la facturation annuelle. 
     - Mettez à jour les API pour prendre en compte la fonctionnalité de facturation annuelle, le cas échéant. 
     - Examinez les modifications apportées à la facture et au fichier de rapprochement basé sur les licences.
     - Assurez-vous que votre équipe est informée.
     - Mettez à jour vos processus internes si nécessaire.
 
-**Q :** Quels sont les avantages de facturation annuelle ? 
+**Q :** Quels sont les avantages de la facturation annuelle? 
 
--   **R :** Facturation annuelle présente les avantages suivants :
+-   **R :** La facturation annuelle offre les avantages suivants:
 
     - Flexibilité accrue en matière d'options de paiement.
 
@@ -80,169 +80,169 @@ Sections :
 
     - Réduction des coûts d’exploitation en matière de facturation.
 
-**Q :** Les offres aura la possibilité de la facturation annuelle ?
+**Q :** Quelles offres peuvent être facturées annuellement?
 
--   **R :** Plus une licence abonnements ont la possibilité pour l’option de facturation mensuelle ou annuelle. Les abonnements basés sur l’utilisation proposent uniquement une facturation mensuelle. Vous pouvez consulter les fréquences de facturation disponibles pour chaque offre dans la colonne J du tableau des offres. Vous trouverez le tableau des offres dans la section « Voir les offres et leur tarification » de l'Espace partenaires. .
+-   **R :** La plupart des abonnements basés sur une licence ont la possibilité d’utiliser l’option de facturation mensuelle ou annuelle. Les abonnements basés sur l’utilisation proposent uniquement une facturation mensuelle. Vous pouvez consulter les fréquences de facturation disponibles pour chaque offre dans la colonne J du tableau des offres. Vous trouverez le tableau des offres dans la section « Voir les offres et leur tarification » de l'Espace partenaires. .
 
-**Q :** Annuels, facturation par abonnement ou de licence ?       
+**Q :** La facturation annuelle est-elle par abonnement ou par licence?       
 
--   **R :** Facturation annuelle et mensuelle sont par abonnement.
+-   **R :** La facturation annuelle et mensuelle sont par abonnement.
 
-**Q :** Y a-t-il des changements requis pour les API pour prendre en charge de facturation annuelle ?    
+**Q :** Y a-t-il des modifications nécessaires aux API pour prendre en charge la facturation annuelle?    
 
--   **R :** Afin de tirer parti de facturation annuelle il certaines modifications est nécessaires à votre API. Vous trouverez plus d’informations dans les articles suivants :
+-   **R :** Pour tirer parti de la facturation annuelle, vous devez modifier vos API. Vous trouverez plus d’informations dans les articles suivants :
 
-    - https://partnercenter.microsoft.com/en-us/partner/developer
+    - https://partnercenter.microsoft.com/partner/developer
 
-    - https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
+    - https://msdn.microsoft.com/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
 
-    - Exemple de code : https://msdn.microsoft.com/en-us/library/partnercenter/mt634667.aspx 
+    - Exemple de code : https://msdn.microsoft.com/library/partnercenter/mt634667.aspx 
 
-<a href="" id="placingyourorder"></a>**Votre commande et scénarios de facturation**
+<a href="" id="placingyourorder"></a>**Placement de vos scénarios de commande et de facturation**
 
-**Q :** Y aura-t-il une offre unique en particulier pour les commandes avec la facturation annuelle ?   
+**Q :** Existe-t-il une offre unique spécifique pour les commandes avec facturation annuelle?   
 
 -   **R :** Non. Toutes les fréquences de facturation, y compris l'option de facturation annuelle, sont affectées à l’offre sous forme d'attribut. Toutefois, vous pouvez donner à une offre un nom plus explicite pour aider les clients à faire facilement la distinction.
 
-**Q :** Comment sélectionner les facturation annuelle ?
+**Q :** Comment faire sélectionnez la facturation annuelle?
 
--   **R :** Lorsque vous ajoutez un nouvel abonnement, que vous êtes invité à choisir la fréquence de facturation. Vous pouvez choisir l’option de facturation annuelle à ce stade. Une fois la facturation annuelle sélectionnée, toutes les offres disponibles s'affichent.
+-   **R :** Lorsque vous ajoutez un nouvel abonnement, vous êtes invité à choisir la fréquence de facturation. Vous pouvez choisir l’option de facturation annuelle à ce stade. Une fois la facturation annuelle sélectionnée, toutes les offres disponibles s'affichent.
 
-**Q :** Si je choisis de facturation annuelle quand suis-je facturé ?    
+**Q :** Si je choisis la facturation annuelle quand est-ce que je suis facturé?    
 
--   **R :** Vous serez facturé sur la date de facturation suivante. Par exemple, si votre date de facturation est fixée au 1er du mois, et que vous achetez un abonnement facturé à l'année le 29 octobre 2017, vous serez facturé le 1er novembre 2017. Si vous n’apportez aucune modification à la licence, vous serez facturé à nouveau le 1er novembre 2018. Si vous modifiez une licence, vous serez crédité et refacturé à la date de facturation suivante. 
+-   **R :** Vous serez facturé à la prochaine date de facturation. Par exemple, si votre date de facturation est fixée au 1er du mois, et que vous achetez un abonnement facturé à l'année le 29 octobre 2017, vous serez facturé le 1er novembre 2017. Si vous n’apportez aucune modification à la licence, vous serez facturé à nouveau le 1er novembre 2018. Si vous modifiez une licence, vous serez crédité et refacturé à la date de facturation suivante. 
 
-**Q :** Est-il possible de fractionner un abonnement afin qu’une partie est facturée par mois et l’autre est facturée chaque année ?  
+**Q :** Puis-je fractionner un abonnement de sorte qu’une partie soit facturée mensuellement et que l’autre soit facturée annuellement?  
 
 -   **R :** Non. L’intégralité de l’abonnement doit avoir la même fréquence de facturation. L’intégralité de l’abonnement doit donner lieu à une facturation mensuelle ou annuelle.
 
-**Q :** Est le renouvellement d’abonnement d’al avec la facturation annuelle ?     
+**Q :** Quand le renouvellement de l’abonnement à Al est-il associé à la facturation annuelle?     
 
--   **R :** La date de renouvellement sera douze mois après la date de début du service. La période de service commence à la date de création de l’abonnement.  Par exemple, un abonnement créé le 10 janvier 2018 sera renouvelé le 10 janvier 2019.
+-   **R :** La date de renouvellement sera de douze mois après la date de début du service. La période de service commence à la date de création de l’abonnement.  Par exemple, un abonnement créé le 10 janvier 2018 sera renouvelé le 10 janvier 2019.
 
-**Q :** Quand suis-je facturé pour le renouvellement d’un abonnement avec facturation annuelle ? 
+**Q :** Quand suis-je facturé pour le renouvellement d’un abonnement avec une facturation annuelle? 
 
--   **R :** Vous serez facturé sur la prochaine date de facturation après la date de renouvellement d’abonnement. Par exemple, si vous achetez un abonnement à facturation annuelle le 15 janvier 2018 et que votre date de facturation est le 20 janvier, votre abonnement sera renouvelé le 15 janvier 2019. Vous serez facturé pour le renouvellement le 20 janvier 2019.
+-   **R :** Vous serez facturé à la prochaine date de facturation suivant la date de renouvellement de l’abonnement. Par exemple, si vous achetez un abonnement à facturation annuelle le 15 janvier 2018 et que votre date de facturation est le 20 janvier, votre abonnement sera renouvelé le 15 janvier 2019. Vous serez facturé pour le renouvellement le 20 janvier 2019.
 
-**Q :** Abonnements avec la facturation annuelle reçoivent-ils une période gratuite ?
+**Q :** Les abonnements avec facturation annuelle reçoivent-ils une période gratuite?
 
--   **R :** Non, les abonnements avec une fréquence de facturation annuelle ne reçoivent pas d’une période gratuite. La période d'abonnement de 12 mois commence à la date d’achat. Ces conditions diffèrent de celles des abonnements à fréquence de facturation mensuelle qui bénéficient d'une période gratuite entre la date d’achat et la date de facturation qui suit.
+-   **R :** Non, les abonnements avec une fréquence de facturation annuelle ne bénéficient pas d’une période gratuite. La période d'abonnement de 12 mois commence à la date d’achat. Ces conditions diffèrent de celles des abonnements à fréquence de facturation mensuelle qui bénéficient d'une période gratuite entre la date d’achat et la date de facturation qui suit.
 
-**Q :** Un client peut-il avoir plusieurs abonnements à la même offre chaque avec des fréquences différentes de facturation ?    
+**Q :** Un client peut-il avoir plusieurs abonnements de la même offre, chacun avec des fréquences de facturation différentes?    
 
 -   **R :** Cela dépend de l’offre. Certaines offres sont limitées à un abonnement par client. Si l’offre n’est pas limitée, un client peut avoir plusieurs abonnements d'une même offre avec des fréquences de facturation différentes. Vous trouverez les détails des limites et restrictions de chaque offre dans la colonne I du tableau des offres. Vous trouverez le tableau des offres dans la section « Voir les offres et leur tarification » de l'Espace partenaires.
 
 <a href="" id="changingyoursubscription"></a>**Modification de votre abonnement**
 
-**Q :** Puis-je ajouter une nouvelle licence à un abonnement existant qui possède la facturation annuelle ?    
+**Q :** Puis-je ajouter une nouvelle licence à un abonnement existant qui a une facturation annuelle?    
 
 -   **R :** Oui. Vous pouvez modifier le nombre de licences de vos abonnements à tout moment. L'ajout de licences supplémentaires n’aura aucune incidence sur la fréquence de facturation. 
 
-**Q :** Puis-je ajouter des licences qui ont tous les mois de facturation à un abonnement existant qui possède la facturation annuelle ? 
+**Q :** Puis-je ajouter des licences qui ont une facturation mensuelle à un abonnement existant qui a une facturation annuelle? 
 
--   **R :** Une fois que vous achetez un abonnement avec facturation annuelle, des licences supplémentaires suit la même fréquence de facturation. Si par la suite vous devez acheter des licences à facturation mensuelle, vous devrez acheter un nouvel abonnement.
+-   **R :** Une fois que vous avez acheté un abonnement avec la facturation annuelle, toutes les licences supplémentaires suivent la même fréquence de facturation. Si par la suite vous devez acheter des licences à facturation mensuelle, vous devrez acheter un nouvel abonnement.
 
-**Q :** Puis-je changer la fréquence de facturation pour un abonnement à partir de mensuelle, annuelle et vice versa ? 
+**Q :** Puis-je basculer la fréquence de facturation d’un abonnement de mensuelle à annuelle et vice versa? 
 
--   **R :** Oui. Consultez **pour modifier la fréquence de facturation d’un service en ligne** dans [principes de base de facturation](https://docs.microsoft.com/en-us/partner-center/billing-basics).
+-   **R :** Oui. **Pour modifier la fréquence de facturation d’un service en ligne** , consultez la page de base sur la [facturation](https://docs.microsoft.com/partner-center/billing-basics).
 
-**Q :** Facturation annuelle n’est disponible pour les offres de module complémentaire ?   
+**Q :** La facturation annuelle est-elle disponible pour les offres complémentaires?   
 
 -   **R :** Oui. L'abonnement au module complémentaire aura automatiquement la même fréquence de facturation que l’abonnement parent.
 
-**Q :** Facturation annuelle fonctionnement quand ajouter ou supprimer des licences ? 
+**Q :** Comment le travail de facturation annuel sera-t-il possible lorsque j’ajoute ou supprime des licences? 
 
 -   **R :** Vous pouvez ajouter ou supprimer des licences à tout moment. Vous recevrez un crédit et une refacturation au prorata lors de la prochaine date de facturation qui suit la modification du nombre de licences. 
 
-**Q :** Que se passe-t-il si j’annule un abonnement avec un travail de facturation annuelle ?    
+**Q :** Que se passe-t-il si j’annule un abonnement avec un travail de facturation annuelle?    
 
--   **R :** La politique d’annulation est le même pour toutes les fréquences de facturation. Si l'abonnement est supprimé dans les 30 premiers jours de la période payante de 12 mois, vous recevrez un crédit de 100 % à la date de facturation suivante. Si l’abonnement est annulé 30 jours après le début de la période d'abonnement de 12 mois, vous serez crédité au prorata à la date de facturation suivante.
+-   **R :** La stratégie d’annulation est la même pour toutes les fréquences de facturation. Si l'abonnement est supprimé dans les 30 premiers jours de la période payante de 12 mois, vous recevrez un crédit de 100 % à la date de facturation suivante. Si l’abonnement est annulé 30 jours après le début de la période d'abonnement de 12 mois, vous serez crédité au prorata à la date de facturation suivante.
 
-**Q :** Pouvez un client déplacer un abonnement avec facturation annuelle d’un partenaire à un autre partenaire ?  
+**Q :** Un client peut-il déplacer un abonnement avec une facturation annuelle d’un partenaire à un autre?  
 
 -   **R :** Non. Les abonnements ne peuvent pas être transférés entre des partenaires. Le nouveau partenaire doit acheter un nouvel abonnement pour le compte du client. Cela s’applique aussi bien aux abonnements à facturation mensuelle qu'annuelle.
 
-**Q :** Puis-je réactiver un abonnement avec facturation annuelle ?
+**Q :** Puis-je réactiver un abonnement avec la facturation annuelle?
 
--   **R :** Oui, vous pouvez réactiver l’abonnement pendant jusqu'à 90 jours à partir de la date de la suspension. Les frais calculés au prorata seront facturés à la date de facturation suivante. La date de renouvellement de l’abonnement reste identique.
+-   **R :** Oui, vous pouvez réactiver l’abonnement pendant jusqu’à 90 jours à partir de la date de la suspension. Les frais calculés au prorata seront facturés à la date de facturation suivante. La date de renouvellement de l’abonnement reste identique.
 
 <a href="" id="pricingcalculation"></a>**Calcul de la tarification**
 
-**Q :** Que se passe-t-il si le montant de l’offre est modifié au cours de la période de 12 mois d’un abonnement facturé une fois par an de le ?    
+**Q :** Que se passe-t-il si le prix d’une offre est modifié dans le cadre de la période de 12 mois d’un abonnement facturé annuellement?    
 
--   **R :** Le prix de l’offre au moment de l’achat est garanti pendant la période d’abonnement de 12 mois. 
+-   **R :** Le tarif de l’offre au moment de l’achat est garanti pour la durée d’abonnement complète de 12 mois. 
 
-**Q :** Le prix est disposer d’un abonnement à lorsqu’il renouvelle automatique après une période d’abonnement de 12 mois ?    
+**Q :** Sur quel prix un abonnement sera-t-il effectué après une période d’abonnement de 12 mois?    
 
--   **R :** Lors de renouvelle d’un abonnement, le prix est basé sur les tarifs à la date du renouvellement. Le nouveau prix est garanti pour la période des 12 mois suivants de l’abonnement.
+-   **R :** Lorsqu’un abonnement renouvelle, le prix est basé sur la liste de prix actuelle à la date du renouvellement. Le nouveau prix est garanti pour la période des 12 mois suivants de l’abonnement.
 
-**Q :** Comment est calculé le crédit pour une licence annulé ou un abonnement ? Est-il calculé à la journée ou au mois ?   
+**Q :** Comment le crédit d’une licence ou d’un abonnement annulé (e) est-il calculé? Est-il calculé à la journée ou au mois ?   
 
--   **R :** Crédit d’annulation est calculé comme suit :
+-   **R :** Le crédit d’annulation est calculé comme suit:
 
     - Crédit d’annulation = ((prix mensuel*12)/365) * nombre de jours restants dans la période de 12 mois * nombre de licences annulées.
 
-**Q :** Que se passe-t-il si une partie de diminution de prix offre en cours de la période de 12 mois d’un abonnement une fois par an facturé ? 
+**Q :** Que se passe-t-il si le prix d’une offre diminue d’une partie de la période de 12 mois d’un abonnement facturé annuellement? 
 
--   **R :** Il n’existe aucune modification. Le prix est défini pour toute la période de 12 mois. Il en va de même pour une facturation mensuelle.
+-   **R :** Aucune modification n’est apportée. Le prix est défini pour toute la période de 12 mois. Il en va de même pour une facturation mensuelle.
 
 
-<a href="" id="reporting"></a>**Création de rapports**
+<a href="" id="reporting"></a>**Comptes**
 
-**Q :** Où puis-je savoir si un abonnement est facturé chaque année ou tous les mois ?   
+**Q :** Où puis-je savoir si un abonnement est facturé annuellement ou mensuellement?   
 
--   **R :** Le fichier de réconciliation basé sur licence inclura les informations sur la fréquence de facturation. Vous les trouverez dans la colonne AA
+-   **R :** Le fichier de réconciliation basé sur les licences inclut les informations sur la fréquence de facturation. Vous les trouverez dans la colonne AA
 
-**Q :** Quelles modifications dois-je m’attendre dans le fichier de réconciliation basé sur licence lors de l’abonnement avec facturation annuelle est acheté ou renouvelé ?  
+**Q :** Quelles sont les modifications que je vois dans le fichier de réconciliation basé sur les licences lorsque l’abonnement avec facturation annuelle est acheté ou renouvelé?  
 
--   **R :** La première modification sera une nouvelle ligne sur le fichier de rapprochement de licence basée sur la première date de facturation suivant l’achat ou un nouvel abonnement. . Si aucune modification n'est apportée à l’abonnement, aucune ligne n'apparaît sur les fichiers de rapprochement pour les mois 2 à 12 de la période d'abonnement. La prochaine modification apportée au fichier de rapprochement s’affiche lors du renouvellement de l’abonnement. Elle s’affiche à la première date de facturation qui suit le renouvellement. Si une modification est apportée à l’abonnement au cours de la période de 12 mois, un crédit et une refacturation au prorata apparaîtront sur le prochain fichier de rapprochement qui suit la modification.
+-   **R :** La première modification sera une nouvelle ligne dans le fichier de rapprochement basé sur licence à la première date de facturation suivant l’achat ou un nouvel abonnement. . Si aucune modification n'est apportée à l’abonnement, aucune ligne n'apparaît sur les fichiers de rapprochement pour les mois 2 à 12 de la période d'abonnement. La prochaine modification apportée au fichier de rapprochement s’affiche lors du renouvellement de l’abonnement. Elle s’affiche à la première date de facturation qui suit le renouvellement. Si une modification est apportée à l’abonnement au cours de la période de 12 mois, un crédit et une refacturation au prorata apparaîtront sur le prochain fichier de rapprochement qui suit la modification.
 
-**Q :** Comment l’achat de, de modification ou de l’annulation d’un abonnement annuel apparaît-elle dans P de colonne sur les fichiers d’utilisation ?
+**Q :** Comment l’achat de, le changement ou l’annulation d’un abonnement annuel apparaissent-ils dans la colonne P des fichiers d’utilisation?
 
--   **R :** Les frais d’achat initial apparaît sous la forme « prorata au paramètre frais lorsque achetez. » Les modifications de licence qui font l'objet d'un crédit et d'une refacturation s’affichent sous forme d'« Instance de cycle au prorata ». Les crédits d’annulation apparaissent sous forme de « Frais d'annulation ».
+-   **R :** Les frais d’achat initiaux s’affichent sous la forme «frais de prorata lors de l’achat». Les modifications de licence qui font l'objet d'un crédit et d'une refacturation s’affichent sous forme d'« Instance de cycle au prorata ». Les crédits d’annulation apparaissent sous forme de « Frais d'annulation ».
 
-**Q :** Lors de l’annulation d’un abonnement annuel, comment cela semble-t-il sur le fichier de réconciliation ?   
+**Q :** Lorsqu’un abonnement annuel est annulé, comment cela apparaît-il sur le fichier de réconciliation?   
 
--   **R :** Le fichier de réconciliation contiendra un élément de ligne pour un crédit de l’annulation. Si l’annulation se produit dans les 30 premiers jours de la période de 12 mois, l’abonnement sera crédité à 100 %. Si l’annulation se produit après les 30 premiers jours, l’abonnement sera crédité au prorata.
+-   **R :** Le fichier de réconciliation contient un élément de ligne pour un crédit d’annulation. Si l’annulation se produit dans les 30 premiers jours de la période de 12 mois, l’abonnement sera crédité à 100 %. Si l’annulation se produit après les 30 premiers jours, l’abonnement sera crédité au prorata.
 
-**Q :** Comment n’apparaît pas sur le fichier de réconciliation si les licences sont ajoutées à un abonnement qui a la facturation annuelle ?  
+**Q :** Comment s’affiche-t-il dans le fichier de rapprochement si des licences sont ajoutées à un abonnement qui a une facturation annuelle?  
 
--   **R :** Le fichier de réconciliation contiendra un crédit et un rebill au prorata. C'est également le cas pour un abonnement à facturation mensuelle.
+-   **R :** Le fichier de réconciliation contient un crédit et une facture au prorata. C'est également le cas pour un abonnement à facturation mensuelle.
 
-**Q :** Comment n’apparaît pas le fichier de réconciliation de lion si les licences sont supprimées à partir d’un abonnement avec facturation annuelle ? 
+**Q :** Comment apparaît-t-il le fichier de rapprochement si les licences sont supprimées d’un abonnement avec facturation annuelle? 
 
--   **R :** Le fichier de réconciliation contiendra un crédit et un rebill au prorata.  C'est également le cas pour un abonnement à facturation mensuelle.
+-   **R :** Le fichier de réconciliation contient un crédit et une facture au prorata.  C'est également le cas pour un abonnement à facturation mensuelle.
 
-**Q :** Le tarif annuel est indiqué sur la liste de prix ? 
+**Q :** Le prix annuel est-il indiqué sur la liste de prix? 
 
 -   **R :** Non. La liste de prix indique le prix mensuel. Vous pouvez calculer le prix annuel en multipliant le prix mensuel par douze.
 
-**Q :** La matrice offre possède des entrées différentes pour les offres qui peuvent être facturés une fois par an. ?   
+**Q :** La matrice d’offre a-t-elle des entrées différentes pour les offres qui peuvent être facturées annuellement?   
 
 -   **R :**  Non. Les identifiants des offres sont les mêmes pour toutes les fréquences de facturation. Il n'existe pas d'identifiant unique pour les offres à facturation annuelle.
 
 
-<a href="" id="incentives"></a>**Primes**
+<a href="" id="incentives"></a>**Visant**
 
-**Q :** La fréquence à laquelle les primes sont calculées sur les abonnements annuels ? 
+**Q :** À quelle fréquence les incentives sont-ils calculés sur des abonnements annuels? 
 
--   **R :** Nous calculons sur le chiffre d’affaires facturé. Les paiements des primes obtenues seront versés conformément à notre stratégie présentée dans nos guides des primes du programme Fournisseur de solutions Cloud. 
+-   **R :** Nous calculons le chiffre d’affaires facturé. Les paiements des primes obtenues seront versés conformément à notre stratégie présentée dans nos guides des primes du programme Fournisseur de solutions Cloud. 
 
-**Q :** Comment sont payées incitations sur abonnements facturés une fois par an ?  
+**Q :** Comment les incentives sur les abonnements facturés annuel sont-ils payés?  
 
--   **R :** Actuellement, toutes les primes sont effectuées deux fois par an. Ces paiements sont versés 45 jours après la fin du semestre.
+-   **R :** Actuellement, tous les paiements d’incentives sont effectués deux fois par an. Ces paiements sont versés 45 jours après la fin du semestre.
 
-**Q :** Lorsqu’un abonnement une fois par an facturé est vendu, comment est chiffre d’affaires de l’abonnement reconnue pour le calcul des primes. Le calcul est-il basé sur les revenus payés ou ajustés ? 
+**Q :** Lorsqu’un abonnement facturé annuellement est vendu, comment les revenus de cet abonnement seront-ils reconnus pour le calcul des incentives. Le calcul est-il basé sur les revenus payés ou ajustés ? 
 
--   **R :** Encouragement calculs sont basés sur le chiffre d’affaires facturé.
+-   **R :** Les calculs d’incentives sont basés sur le chiffre d’affaires facturé.
 
 **Q :** Comment les bénéfices des primes incitatives sur les abonnements à facturation annuelle éligibles sont-ils calculés parmi les différents taux de primes du programme Fournisseur de solutions Cloud (taux de primes mondiaux, taux accélérateurs locaux et campagnes locales) ?
 
--   **R :** Quelle que soit la façon dont un abonnement est facturé, si mensuelle ou une fois par an, partenaires prime gagnée sur toutes les transactions éligibles. Cela inclut le taux de prime mondial, appliqué au revenu facturé pour la période, l’accélérateur local pour toutes les régions où il existe des accélérateurs locaux et les campagnes mondiales, le cas échéant.
+-   **R :** Quelle que soit la façon dont un abonnement est facturé, mensuel ou annuellement, les partenaires peuvent gagner des incentives sur toutes les transactions éligibles. Cela inclut le taux de prime mondial, appliqué au revenu facturé pour la période, l’accélérateur local pour toutes les régions où il existe des accélérateurs locaux et les campagnes mondiales, le cas échéant.
 
-**Q :** Qui pourrez vous contacter si vous avez des questions sur les primes ?
+**Q :** Qui peut vous contacter si vous avez des questions sur les incentives?
 
-- **R :** Veuillez contacter l’équipe de support des incitations régionaux appropriées :
+- **R :** Veuillez contacter l’équipe de support technique régional appropriée:
 
   - Amérique du Nord : ocina@microsoft.com
 
@@ -255,9 +255,9 @@ Sections :
   - Japon : ocijp@microsoft.com
 
 
-**Q :** Que se passe-t-il si j’ai suspendre mon abonnement ? 
+**Q :** Que se passe-t-il si je suspend mon abonnement? 
 
--   **R :** Si vous suspendez un abonnement, dans l’espace partenaires ou via l’API, dans les 30 jours suivant votre achat, vous recevrez un crédit de 100 %, quelle que soit la fréquence de facturation. 
+-   **R :** Si vous suspendez un abonnement, que ce soit dans l’espace partenaires ou via l’API, dans les 30 jours suivant votre achat, vous recevrez un crédit de 100%, quelle que soit la fréquence de facturation. 
 
     Avec une facturation annuelle, cela se présenterait comme suit :
 
@@ -273,9 +273,9 @@ Sections :
 
 
 
-## <a href="" id="freetrialsfaq"></a>Forum aux questions sur les essais gratuits
+## <a href="" id="freetrialsfaq"></a>FAQ sur les essais gratuits
 
-**Q1 :** Quelles sont les versions d’évaluation gratuites ?
+**1ER** Que sont les versions d’évaluation gratuites?
 
 -   **R :** Vous pouvez proposer à vos clients une version d’évaluation gratuite de 30 jours de certains produits. Cela leur permet d’évaluer le produit avant de l’acheter. Des essais gratuits sont proposés pour les produits suivants : 
 
@@ -288,105 +288,105 @@ Sections :
     - Dynamics 365 for Financials (depuis le 17 octobre 2017)
     - Microsoft 365 Business (au 1er mars 2018)
     
-**Q2 :** Sont facturation annuelle et versions d’évaluation différentes dans des clouds souverains et le cloud public ?
+**Q2** La facturation annuelle et les versions d’évaluation gratuites diffèrent-elles dans le cloud Souverain et le cloud public?
 
 -   **R :** Non. Ils sont identiques. La seule différence réside dans les références d’évaluation qui sont disponibles au moment du lancement.
 
-**Q3 :** Qui peut participer ?
+**Q3** Qui peut participer?
 
 -   **R :** Tous les partenaires peuvent participer. Toutefois, ce programme n’est actuellement pas disponible en Chine. 
 
-**Q4 :** Quelles mesures dois-je prendre pour me permettre de tirer parti de ces versions d’essai gratuites ??
+**4ÈME** Quelles actions dois-je entreprendre pour me permettre de bénéficier de ces versions d’évaluation gratuites?
 
--   **R :** Prendre en compte comment la version d’évaluation gratuite peut être incorporée dans vos mouvements de vente et l’impact sur les processus internes. Vous devrez peut-être également modifier vos API pour prendre en charge la conversion d’un essai gratuit en abonnement payant. Des spécifications techniques détaillées pour les modifications apportées aux API sont présentées dans la vue Annonces de l'Espace partenaires.
+-   **R :** Réfléchissez à la façon dont l’essai gratuit peut être intégré à votre mouvement de vente et à l’impact sur vos processus internes. Vous devrez peut-être également modifier vos API pour prendre en charge la conversion d’un essai gratuit en abonnement payant. Des spécifications techniques détaillées pour les modifications apportées aux API sont présentées dans la vue Annonces de l'Espace partenaires.
 
-**Q5 :** S’affiche la version d’évaluation gratuite sur mon fichier de rapprochement de facture ?
+**Q5** L’essai gratuit s’affiche-t-il sur mon fichier de facture et de rapprochement?
 
--   **R :** Non, les essais gratuits n’apparaîtra pas sur votre facture ou d’un fichier de réconciliation basé sur licence. Ils apparaîtront dans votre facture et votre fichier de rapprochement basé sur la licence une fois que vous les aurez convertis en abonnements payants. Un abonnement converti s’affiche à la fois sur votre facture et sur votre fichier de rapprochement basé sur la licence, de la même manière qu'un nouvel abonnement.
+-   **R :** Non, les versions d’évaluation gratuites n’apparaissent pas sur votre facture ou fichier de réconciliation basé sur une licence. Ils apparaîtront dans votre facture et votre fichier de rapprochement basé sur la licence une fois que vous les aurez convertis en abonnements payants. Un abonnement converti s’affiche à la fois sur votre facture et sur votre fichier de rapprochement basé sur la licence, de la même manière qu'un nouvel abonnement.
 
-**Q6 :** Essais gratuits ont un impact sur les primes ?
+**Q6** Les essais gratuits ont-ils un impact sur les incentives?
 
 -   **R :** Non. L’essai gratuit n’aura aucun impact sur les primes.
 
-**Q7 :** Essais gratuits sont disponibles pour les produits Office supplémentaires à l’avenir ?
+**Q7** Les versions d’évaluation seront-elles disponibles pour d’autres produits Office à l’avenir?
 
 -   **R :** Nous fournissons des essais gratuits pour ces produits, parce qu'il s'agit des offres commerciales les plus complètes et les plus populaires. Il se peut que nous ajoutions d'autres offres d'essais gratuits à l’avenir.
 
-**Q8 :** Un client peut-il avoir plus d’une version d’évaluation gratuite ?
+**Q8** Un client peut-il avoir plusieurs essais gratuits?
 
--   **R :** Chaque client a droit à une version d’évaluation gratuite par offre disponible.
+-   **R :** Chaque client bénéficie d’un essai gratuit par offre disponible.
 
-**Q9 :** Existe-t-il des limites pour un essai gratuit ?
+**Q9** Existe-t-il des limites pour une version d’évaluation gratuite?
 
 -   **R :** Oui. L'essai est valable pour un maximum de 25 licences. Le nombre de licences ne peut pas être modifié pendant la période d'essai. Une fois l’essai converti en abonnement payant, vous pouvez lui ajouter des licences supplémentaires.
 
-**Q10 :** Une version d’évaluation gratuite est automatiquement convertie en un abonnement payant ?
+**Q10** Une version d’évaluation gratuite est-elle automatiquement convertie en abonnement payant?
 
 -   **R :** Non. Vous devez convertir l’abonnement vous-même, dans l'Espace partenaires ou via l’API.
 
-**Q11 :** Versions d’évaluation gratuites peuvent être utilisées pour les abonnements de facturation mensuelles et annuelles ?
+**Q11** Les versions d’évaluation peuvent-elles être utilisées à la fois pour les abonnements mensuels et annuels?
 
 -   **R :** Oui. Vous choisissez la fréquence de facturation lorsque vous convertissez l'essai en abonnement payant.
 
-**Q12 :** Date de début de l’abonnement reposera sur la date le démarrage d’essai gratuit, ou la date à laquelle il est converti en un abonnement payant ? 
+**Q12** La date de début de l’abonnement sera-t-elle basée sur la date de début de la version d’évaluation gratuite ou la date à laquelle elle est convertie en abonnement payant? 
 
 -   **R :** La date de début est basée sur la date de conversion. Si l'essai gratuit est converti en offre payante à facturation annuelle, la date de renouvellement de l’abonnement sera 12 mois à compter de la date de conversion. Si l'essai gratuit est converti en une offre payante avec facturation mensuelle, la date de renouvellement de l’abonnement sera 12 mois à compter de la date de facturation suivant la date de conversion.
 
-**Q 13 :** Pouvons ajouter ou supprimer des sièges lors de la version d’évaluation gratuite ?
+**Q13:** Puis-je ajouter ou supprimer des sièges pendant la période d’évaluation gratuite?
 
 -   **R :** Non. Le nombre de licences par défaut pour les essais gratuits sera égal à 25 et ne pourra pas être modifié.
 
-**Q14 :** Existe-t-il des versions d’évaluation pour les offres de module complémentaire comme ATP et RTC ?
+**Q14:** Existe-t-il des versions d’évaluation pour les offres d’ajout comme ATP et RTPC?
 
--   **R :** Il n’existe aucune version d’essai gratuite pour les offres de n’importe quel module complémentaire pour l’instant.
+-   **R :** Il n’y a pas d’essai gratuit pour les offres complémentaires pour l’instant.
 
-**Q15 :** Puis-je fournir une version d’évaluation gratuite d’une offre un client possède déjà ?
+**Q15:** Puis-je fournir une version d’évaluation gratuite pour une offre déjà détenue par un client?
 
 -   **R :** Non. Si le client possède déjà l’offre, elle ne peut pas être utilisée pour un essai gratuit.
 
-**Q16 :** J’ai sera en mesure de voir toutes Mes offres d’essai en suspens ?
+**Q16:** Suis-je en mesure de voir toutes les offres d’essai en suspens?
 
 -   **R :** Oui. La page du client répertorie tous les abonnements. Elle indique à la fois les abonnements d’essai gratuit et les abonnements payants.
 
-**QUESTION DE 17 :** Serai-je averti sur gratuites arrivant à expiration ?
+**Q17:** Suis-je averti de l’expiration des essais gratuits?
 
 -   **R :** Non. Vous pouvez suivre les dates d’expiration à venir soit à l’aide de la vue des clients dans l’Espace partenaires, soit en interrogeant l’API. Il est recommandé de contrôler fréquemment ces dates afin de pouvoir prendre les mesures de suivi appropriées auprès des clients à l’approche du moment où ils doivent prendre une décision.
 
-**QUESTION DE 18 :** Si un client a eu un essai gratuit pour une seule offre peut elles également utilisent une autre version d’évaluation pour une autre offre ? 
+**Q18:** Si un client dispose d’un essai gratuit pour une offre, peut-il utiliser également une autre version d’évaluation pour une autre offre? 
 
 -   **R :** Oui. Les clients peuvent souscrire un essai par offre. Par exemple, ils peuvent obtenir un essai gratuit pour Office 365 Business Premium et un autre pour Office 365 E3.
 
-**Q19 :** Que se passe-t-il lorsque la version d’évaluation se termine ? Mon client ou moi allons-nous recevoir une notification ? Quelles notifications apparaissent-elles lors d'une tentative de connexion à un essai arrivé à expiration ?
+**Q19:** Que se passe-t-il quand la version d’évaluation se termine? Mon client ou moi allons-nous recevoir une notification ? Quelles notifications apparaissent-elles lors d'une tentative de connexion à un essai arrivé à expiration ?
 
--   **R :** Une fois qu’une version d’évaluation a expiré, un client tente de se connecter à cette version d’évaluation s’affiche un message indiquant que la version d’évaluation a expiré. Aucune notification ne sera envoyée pour indiquer qu’un essai arrive à expiration, mais en tant que partenaire, vous pouvez en assurer le suivi en consultant la vue des clients ou par l’intermédiaire de requêtes à l’API.
+-   **R :** Une fois qu’un essai a expiré, un client qui tente de se connecter à cette version d’évaluation voit un message indiquant que l’essai a expiré. Aucune notification ne sera envoyée pour indiquer qu’un essai arrive à expiration, mais en tant que partenaire, vous pouvez en assurer le suivi en consultant la vue des clients ou par l’intermédiaire de requêtes à l’API.
 
-**Q20 :** Une version d’évaluation peut être étendue ?
+**Q20:** Une version d’évaluation peut-elle être étendue?
 
 -   **R :** Non. Au bout de 30 jours, l'essai doit être converti, sinon, il expirera.
 
-**Q21 :** Quand une version d’évaluation expire, les informations contenues dans la version d’évaluation est accessible ?
+**Q21:** Quand une version d’évaluation arrive à expiration, puis-je accéder aux informations de la version d’évaluation?
 
 -   **R :** Oui. Les données sont stockées conformément aux normes de conservation des données. Dès que vous achetez un nouvel abonnement avec les mêmes plans de service, les données de vos clients sont accessibles à partir de l’abonnement qui vient d’être activé.
 
-**Q22 :** Sont gratuites disponibles pour le secteur public et offre de formation ?
+**Q22:** Des versions d’évaluation gratuites sont-elles disponibles pour les offres gouvernementales et de formation?
 
--   **R :** Il n’y a aucune version d’essai gratuite pour le secteur public et formation propose pour l’instant.
+-   **R :** Il n’y a pas d’essai gratuit pour les offres gouvernementales et de formation pour le moment.
 
-**Q23 :** Versions d’essai gratuites de client pour le programme fournisseur de solutions Cloud (CSP) peuvent être converties pour d’autres locataires de programme telles que EA, Open ou MOSP ? 
+**Q23:** Les versions d’évaluation gratuites du programme du fournisseur de solutions Cloud (CSP) peuvent-elles être converties en d’autres locataires de programme tels que EA, Open ou MOSP? 
 
 -   **R :** Non. Les abonnements ne peuvent pas être transférés du programme fournisseur de solutions Cloud vers un autre programme.
 
-**Q24 :** Comment puis-je obtenir un support sur les essais gratuits ? 
+**Q24:** Comment puis-je bénéficier d’un support technique sur les versions d’évaluation gratuites? 
 
--   **R :** Veuillez soumettre une demande de service par le biais de partenaires.
+-   **R :** Envoyez une demande de service via l’espace partenaires.
 
-## <a href="" id="billingalignmentfaq"></a>Alignement - gratuit de clôture de la période de facturation
+## <a href="" id="billingalignmentfaq"></a>Alignement de la facturation-fin de la période libre
 
 Dès le 21 février 2018, le programme de fournisseur de solutions Cloud débutera la mise en œuvre de « l'ajustement des dates de facturation » pour les nouveaux abonnements à fréquence de facturation mensuelle. Cet « ajustement des dates de facturation » donnera une plus grande flexibilité aux partenaires ainsi qu'une meilleure prévision de leurs ventes et de leur facturation. Il permettra en outre un meilleure approvisionnement et une meilleure gestion des abonnements des clients. 
 
-**METTRE À JOUR LE 23 FÉVRIER :**  Nous avions précédemment annoncé la date de mise en œuvre du 20 février, mais en réalité, notre implémentation a été légèrement différée et répartie par catégorie de produit.  Veuillez passer en revue le tableau ci-dessous pour connaître la date de mise en œuvre par catégorie de produit. 
+**MISE à jour du 23 février:**  Nous avions précédemment annoncé la date de mise en œuvre du 20 février, mais en réalité, notre implémentation a été légèrement différée et répartie par catégorie de produit.  Veuillez passer en revue le tableau ci-dessous pour connaître la date de mise en œuvre par catégorie de produit. 
 
-|**Catégorie de produit**   |**Jour de l’implémentation**   |
+|**Catégorie de produit**   |**Jour de la mise en œuvre**   |
 |-----------------|:-------------|
 |Office  |21 février   |
 |Windows, Minecraft   |22 février   |
@@ -399,65 +399,65 @@ Avant la mise en œuvre de l’ajustement des dates de facturation, la facture �
 
 Les abonnements qui se trouvent dans la période gratuite à la date de mise en œuvre ne seront pas facturés entre la date d’achat et la date de facturation du partenaire. En outre, le 1er mois de la période payante de 12 mois ne sera pas facturé. Si vous utilisez un fichier de rapprochement pour vérification, n'oubliez pas que la facture de ce premier mois n'y sera plus visible.  
 
-**Q1 :** Quels sont les changements avec la date de facturation ?
+**1ER** Qu’est-ce qui change avec la date de facturation?
 
--   **R :** Abonnements basés sur la licence n’aura plus une période gratuite. Actuellement, il existe une période gratuite entre la date d'achat et la date de facturation du partenaire.
+-   **R :** Les abonnements basés sur une licence ne disposent plus d’une période libre. Actuellement, il existe une période gratuite entre la date d'achat et la date de facturation du partenaire.
 
-**Q2 :** Lorsque la période sera supprimée ?
+**Q2** Quand la période libre sera-t-elle supprimée?
 
-- **R :** À partir de la date de mise en oeuvre indiquée dans le graphique ci-dessous, les nouveaux abonnements ne reçoivent pas une période gratuite.
+- **R :** À partir de la date de mise en œuvre indiquée dans le tableau ci-dessous, les nouveaux abonnements ne recevront pas de période gratuite.
 
-|**Catégorie de produit**   |**Jour de l’implémentation**   |
+|**Catégorie de produit**   |**Jour de la mise en œuvre**   |
 |-----------------|:-------------|
 |Office  |21 février   |
 |Windows, Minecraft   |22 février   |
 |Office 365 Chine   |23 février   |
 |Dynamics/Intune   |23 février   |
 
-**Q3 :** Quel sera l’impact sur les abonnements dans la période à la date de mise en œuvre ?
+**Q3** Quel sera l’impact sur les abonnements pendant la période libre à la date d’implémentation?
 
-- **R :** Qui se trouvent dans la période à la date de mise en œuvre d’abonnements recevront toujours une période gratuite à partir de la date d’achat à la date de facturation du partenaire. Ces licences bénéficient également d'une « période gratuite étendue » et le 1er mois de la période payante de 12 mois ne sera pas facturé. La « période gratuite étendue » ne s'appliquera pas aux licences ajoutées lors du 1er mois. Si vous augmentez la quantité de licences lors du 1er mois, vous serez facturé pour les licences ajoutées sur la facture/le rapprochement suivant. Si vous utilisez le fichier de rapprochement pour vérification, n’oubliez pas que la facture de ce premier mois peut ne pas y figurer. Consultez les scénarios ci-dessous pour des explications plus détaillées.
+- **R :** Les abonnements qui se trouvent dans la période libre à la date de mise en œuvre recevront toujours une période gratuite allant de la date d’achat à la date de facturation du partenaire. Ces licences bénéficient également d'une « période gratuite étendue » et le 1er mois de la période payante de 12 mois ne sera pas facturé. La « période gratuite étendue » ne s'appliquera pas aux licences ajoutées lors du 1er mois. Si vous augmentez la quantité de licences lors du 1er mois, vous serez facturé pour les licences ajoutées sur la facture/le rapprochement suivant. Si vous utilisez le fichier de rapprochement pour vérification, n’oubliez pas que la facture de ce premier mois peut ne pas y figurer. Consultez les scénarios ci-dessous pour des explications plus détaillées.
 
-**Q4 :** Lorsque la période de 12 mois payante commence un nouvel abonnement ?
+**4ÈME** Quand la période de 12 mois payante commence-t-elle pour un nouvel abonnement?
 
-- **R :** Actuellement, la période payante commence sur le partenaire de date suivant la date d’achat de facturation. À partir de la date de mise en œuvre, la période payante des nouveaux abonnements commencera à la date d’achat.
+- **R :** Actuellement, la période payée commence à la date de facturation du partenaire qui suit la date d’achat. À partir de la date de mise en œuvre, la période payante des nouveaux abonnements commencera à la date d’achat.
 
-**Q5 :** Lorsque seront abonnements de renouvellement automatique ?
+**Q5** Quand les abonnements seront-ils renouvelés automatiquement?
 
-- **R :** Abonnements renouvellent automatiquement 12 mois après la première date de facturation. Actuellement, cela signifie que les abonnements sont automatiquement renouvelés 12 mois après la première date de facturation du partenaire qui suit la date d’achat. À compter de la date de mise en œuvre, les nouveaux abonnements seront renouvelés automatiquement 12 mois après la date d’achat.
+- **R :** Les abonnements sont renouvelés automatiquement 12 mois après la première date de facturation. Actuellement, cela signifie que les abonnements sont automatiquement renouvelés 12 mois après la première date de facturation du partenaire qui suit la date d’achat. À compter de la date de mise en œuvre, les nouveaux abonnements seront renouvelés automatiquement 12 mois après la date d’achat.
 
-**Q6 :** Que se passe-t-il si j’ai acheter l’abonnement sur le jour 29, 30 ou 31 du mois ?
+**Q6** Que se passe-t-il si j’achète l’abonnement le 29, le 30 ou le 31 du mois?
 
-- **R :** L’abonnement sera disponible à partir de la date d’achat, mais ne démarre pas le terme payant de 12 mois jusqu’au premier jour du mois suivant.
+- **R :** L’abonnement sera disponible à partir de la date d’achat, mais le délai payé de 12 mois ne commencera pas avant le premier jour du mois suivant.
 
-**Q7 :** Les offres sont affectés ?
+**Q7** Quelles sont les offres affectées?
 
-- **R :** La suppression de la période gratuite s’applique à tous les abonnements basés sur licence de fournisseur de services cryptographiques.
+- **R :** La suppression de la période gratuite s’applique à tous les abonnements basés sur des licences CSP.
 
-**Q8 :** Comment ceci influence-t-il le fichier de réconciliation et de facture ? 
+**Q8** Comment cela affecte-t-il la facture et le fichier de rapprochement? 
 
-- **R :** Vous ne voyez plus la « ligne facturation $0 » sur la facture ou le fichier de réconciliation. Actuellement, la ligne « Facturation 0 » représente la période gratuite.
+- **R :** Vous ne verrez plus la «ligne de facturation $0» sur la facture ou le fichier de réconciliation. Actuellement, la ligne « Facturation 0 » représente la période gratuite.
 
-**Q9 :** Date de facturation qui va changer ?
+**Q9** La date de facturation change-t-elle?
 
-- **R :** Non, vous continuerez à recevoir le fichier de facture et de rapprochement sur votre date de facturation existant.
+- **R :** Non, vous continuerez à recevoir la facture et le fichier de rapprochement à la date de facturation existante.
 
-**Q10 :** Le prix mensuel début et de fin de modification de dates pour les abonnements existants ?
+**Q10** Les dates de début et de fin des frais mensuelles seront-elles modifiées pour les abonnements existants?
 
-- **R :** Non, existant abonnement mensuel frais début et fin dates continueront à s’aligner avec la date de facturation. Toutefois, les nouveaux abonnements seront ajustés sur la date d’achat. Voir l'exemple ci-dessous.
+- **R :** Non, les dates de début et de fin des frais mensuels d’abonnement existants continuent de s’aligner sur la date de facturation. Toutefois, les nouveaux abonnements seront ajustés sur la date d’achat. Voir l'exemple ci-dessous.
 
-**Q11 :** Calcul des primes qui va changer ?
+**Q11** Le calcul des incentives sera-t-il modifié?
 
-- **R :** Non, il n’existe aucune modification aux calculs incitations.
+- **R :** Non, aucune modification n’est apportée aux calculs d’incentives.
 
-**Q12 :** Y aura-t-il une modification apportée à l’API ?
+**Q12** Y aura-t-il une modification des API?
 
-- **R :** Non, il n’existe aucune modification aux API.
+- **R :** Non, aucune modification n’est apportée aux API.
 
 ### <a name="common-scenarios"></a>Scénarios courants
 
 
-|**Scénarios**   |**Scénario 1 : Période d’abonnement gratuit se termine avant la date de mise en œuvre**   |**Scénario 2 : Abonnement se trouve dans la période à la date de mise en œuvre**  | **Scénario 3 : Abonnement acheté sur ou après la date de mise en œuvre**   |
+|**Scénarios**   |**Scénario 1 : La période libre d’abonnement se termine avant la date de mise en œuvre**   |**Scénario 2 : L’abonnement est dans la période libre à la date de mise en œuvre**  | **Scénario 3: Abonnement acheté le ou après la date de mise en œuvre**   |
 |----------|:------------|:--------------------|:------------|
 |Date d’achat |1er février 2018    | 1er février 2018    | 1er juin 2018     |
 |Date d'approvisionnement | 1er février 2018   |1er février 2018   |1er juin 2018   |
@@ -477,11 +477,11 @@ Le fichier de rapprochement du 15 juin contiendra uniquement les lignes de fact
 
 - Frais de 30 $ pour la période de service du 1er juin au 30 juin
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|--------------|
 |01/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais au prorata à l'achat |
 
-### <a name="scenario-5a-suspend-and-reactivate-before-billing-date"></a>Scénario 5 : Interrompre et réactiver avant la date de facturation
+### <a name="scenario-5a-suspend-and-reactivate-before-billing-date"></a>Scénario 5A: Interrompre et réactiver avant la date de facturation
 
 La date de facturation du partenaire est le 15e jour du mois. Le 1er juin 2018, le partenaire achète un nouvel abonnement. Le prix de l’abonnement est défini à 30 $ par licence par mois. Le 5 juin 2018, le partenaire suspend l’abonnement. Le 10 juin 2018, le partenaire réactive l’abonnement. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
@@ -489,7 +489,7 @@ La date de facturation du partenaire est le 15e jour du mois. Le 1er juin 201
 - Crédit d’annulation de - 30 $ pour la période de service du 5 juin au 30 juin. Le crédit n’est pas calculé au prorata car l’abonnement a été suspendu au cours des 30 premiers jours. 
 - Frais de 30 $ pour la période de service du 10 juin au 30 juin. Les frais ne sont pas calculés au prorata car l’abonnement a été réactivé au cours des 30 premiers jours. 
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |01/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais au prorata à l'achat |
 |05/06/2018   |30/06/2018   |- 30 dollars   |1   |30 dollars   |Frais d'annulation |
@@ -497,13 +497,13 @@ La date de facturation du partenaire est le 15e jour du mois. Le 1er juin 201
 
 Notez que lorsqu'un abonnement est suspendu et réactivé, la date de renouvellement automatique reste à 12 mois à compter de la date d’achat d’origine.
 
-### <a name="scenario-5b-suspend-and-reactivate-after-billing-date-but-less-than-30-days-from-purchase-date"></a>5 b de scénario : Interrompre et réactiver après la date de facturation, mais moins de 30 jours à partir de la date d’achat
+### <a name="scenario-5b-suspend-and-reactivate-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Scénario 5B: Interrompre et réactiver après la date de facturation, mais moins de 30 jours à compter de la date d’achat
 
 La date de facturation du partenaire est le 15e jour du mois. Le 1er juin 2018, le partenaire achète un nouvel abonnement. Le prix de l’abonnement est défini à 30 $ par licence par mois. Le 20 juin 2018, le partenaire suspend l'abonnement. Le 25 juin 2018, le partenaire réactive l’abonnement. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
 - Frais de 30 $ pour la période de service du 1er juin au 30 juin. 
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |01/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais au prorata à l'achat |
 
@@ -512,19 +512,19 @@ Le fichier de rapprochement du 15 juillet contiendra les lignes de facturation 
 - Frais de 30 $ pour la période de service du 25 juin au 30 juin. Les frais ne sont pas calculés au prorata car l’abonnement a été réactivé au cours des 30 premiers jours.
 - Frais de 30 $ pour la période de service du 1er juillet au 31 juillet.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |20/06/2018   |30/06/2018   |- 30 dollars   |1   |- 30 dollars   |Frais d'annulation |
 |25/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais d'activation |
 |01/07/2018   |31/07/2018   |30 dollars   |1   |30 dollars   |Frais de cycle |
 
-### <a name="scenario-5c-suspend-and-reactivate-different-license-quantity-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Scénario 5c : Interrompre et réactiver les (nombre de licences différent) après la date de facturation, mais moins de 30 jours à partir de la date d’achat
+### <a name="scenario-5c-suspend-and-reactivate-different-license-quantity-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Scénario 5C: Suspendre et réactiver (quantité de licences différente) après la date de facturation mais inférieure à 30 jours à compter de la date d’achat
 
 La date de facturation du partenaire est le 15e jour du mois. Le 1er juin 2018, le partenaire achète un nouvel abonnement. Le prix de l’abonnement est défini à 30 $ par licence par mois. Le 20 juin 2018, le partenaire suspend l'abonnement. Le 25 juin 2018, le partenaire réactive l’abonnement avec deux licences. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
 - Frais de 30 $ pour la période de service du 1er juin au 30 juin. 
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |01/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais au prorata à l'achat |
 
@@ -535,22 +535,22 @@ Le fichier de rapprochement du 15 juillet contiendra les lignes de facturation 
 - Refacturation au prorata de 12 $ pour la période de service du 25 juin au 30 juin. Le partenaire a 2 licences pendant cette période de service. Le prix unitaire est calculé comme suit : (30/30)*6*2 = 12 $.
 - Frais de 60 $ pour la période de service du 1er juillet au 31 juillet.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |20/06/2018   |30/06/2018   |- 30 dollars   |1   |- 30 dollars   |Frais d'annulation |
 |25/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais d'activation |
-|25/06/2018   |30/06/2018   |- 6 $   |1   |- 6 $   |Instance de cycle au prorata |
+|25/06/2018   |30/06/2018   |\- 6 $   |1   |\- 6 $   |Instance de cycle au prorata |
 |25/06/2018   |30/06/2018   |6 dollars   |2   |12 dollars   |Instance de cycle au prorata |
 |01/07/2018   |31/07/2018   |30 dollars   |2   |60 dollars   |Frais de cycle |
 
-### <a name="scenario-6-subscription-suspension-less-than-30-days-after-purchase-and-reactivation-more-than-30-days-after-purchase"></a>Scénario 6 : Suspension de l’abonnement moins de 30 jours après l’achat et plus de 30 jours après l’achat de réactivation 
+### <a name="scenario-6-subscription-suspension-less-than-30-days-after-purchase-and-reactivation-more-than-30-days-after-purchase"></a>Scénario 6: Suspension de l’abonnement moins de 30 jours après l’achat et la réactivation plus de 30 jours après l’achat 
 
 La date de facturation du partenaire est le 15e jour du mois. Le 1er juin, le partenaire achète un nouvel abonnement d'une licence à 30 dollars par mois. Le 5 juin, le partenaire suspend l'abonnement. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
 - Frais de 30 $ pour la période de service du 1er juin au 30 juin
 - Crédit d’annulation de - 30 $ pour la période de service du 5 juin au 30 juin. Le crédit n’est pas calculé au prorata car l’abonnement a été suspendu au cours des 30 premiers jours.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|---------|
 |01/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais au prorata à l'achat
 |05/06/2018   |30/06/2018   |- 30 dollars   |1   |- 30 dollars   |Frais d'annulation
@@ -559,14 +559,14 @@ Le 10 juillet, le partenaire réactive l’abonnement. Le fichier de rapprochem
 
 - Frais de réactivation de 21,30 $ pour la période de service du 10 juillet au 31 juillet. Les réactivations effectuées après les 30 jours qui suivent la date d’achat donnent lieu à des frais calculés au prorata. 
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |10/07/2018   |31/07/2018   |21,30 dollars   |1   |21,30 dollars   |Frais d'activation |
 
 Le fichier de rapprochement du 15 août contiendra les lignes de facturation suivantes :
 - Frais de 30 $ pour la période de service du 1er août au 31 août.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01/08/2018   |31/08/2018   |30 dollars   |1   |30 dollars   |Frais de cycle |
 
@@ -579,7 +579,7 @@ Le fichier de rapprochement du 15 juin contiendra uniquement les lignes de fact
 
 - Frais de 30 $ pour la période de service du 1er juin au 30 juin.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|---------|
 |01/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais au prorata à l'achat |
 
@@ -587,28 +587,28 @@ Le partenaire suspend l’abonnement le 5 juillet mais le réactive le 15 juil
 
 - Frais de 30 $ pour la période de service du 1 juillet au 31 juillet.
 - Crédit d’annulation de - 26,14 $ pour la période de service du 5 juillet au 31 juillet. Les annulations effectuées après les 30 jours qui suivent la date d’achat donnent lieu à un crédit calculé au prorata. Calcul = (prix mensuel/jours dans la période de service totale) x jours dans la période de service au prorata x quantité de licences x (- 1) = (30/31) x 27 x 1 x (- 1) = - 26,14.
-- Frais de réactivation de 21,30 $ pour la période de service du 10 juillet au 31 juillet. Les réactivations effectuées après les 30 jours qui suivent la date d’achat donnent lieu à des frais calculés au prorata. Calcul = (30/31) x 22 x 1 = 21,30.
+- $16,45 frais de réactivation pour la période de service du 15 juillet au 31 juillet. Les réactivations effectuées après les 30 jours qui suivent la date d’achat donnent lieu à des frais calculés au prorata. Calcul = (30/31) x 17 x 1 = 16,45.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01/07/2018   |31/07/2018   |30 dollars  |1   |30 dollars   |Frais de cycle |
 |05/07/2018   |31/07/2018   |   - 26,14 dollars   |1   |- 26,14 dollars|Frais d'annulation |
-|10/07/2018   |31/07/2018   |- 21,30 dollars   |1   |21,30 dollars|Frais d'activation |
+|7/15/2018   |31/07/2018   |-$16,45   |1   |$16,45|Frais d'activation |
 
 Le fichier de rapprochement du 15 août contient les indications suivantes :
 - Frais de 30 $ pour la période de service du 1er août au 31 août.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01/08/2018   |31/08/2018   |30 dollars  |1   |30 dollars   |Frais de cycle |
 
-### <a name="scenario-8-change-of-license-quantity"></a>Scénario 8 : Modification du nombre de licences 
+### <a name="scenario-8-change-of-license-quantity"></a>Scénario 8: Modification de la quantité de licences 
 
 La date de facturation du partenaire est le 15. Le 1er juin, le partenaire achète un nouvel abonnement à 30 dollars par mois. Le 10 juin, le partenaire augmente la quantité de licences pour passer de 1 à 2 licences. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
 - Frais de 30 $ pour la période de service du 1er juin au 30 juin. Même si le partenaire a augmenté le nombre de licences avant la date de facturation du 15 juin, le système de facturation Microsoft ne prend pas en compte cette modification avant le jour anniversaire de l’abonnement le 1er juillet.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais au prorata à l'achat |
 
@@ -621,14 +621,14 @@ Le fichier de rapprochement du 15 juillet contient les indications suivantes :
 - Refacturation au prorata de 42 $ pour la période de service du 10 juin au 30 juin. Il s’agit de la période correspondant au moment où le client avait 2 licences. Calcul = (30/30) x 21 x 2 = 42.
 - Frais de 60 $ pour la période de service du 1er juillet au 31 juillet.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01/06/2018   |30/06/2018   |- 30 dollars   |1   |- 30 dollars|Instance de cycle au prorata |
 |01/06/2018   |09/06/2018   |9 dollars   |1   |9 dollars|Instance de cycle au prorata |
 |10/06/2018   |30/06/2018   |21 dollars   |2   |42 dollars|Instance de cycle au prorata |
 |01/07/2018   |31/07/2018   |30 dollars   |2   |60 dollars   |Frais de cycle |
 
-### <a name="scenario-9-add-on-subscriptions"></a>Scénario 9 : Abonnements aux modules complémentaires
+### <a name="scenario-9-add-on-subscriptions"></a>Scénario 9: Abonnements complémentaires
 
 La date de facturation du partenaire est le 15e jour du mois. Le 1er juin, le partenaire achète un nouvel abonnement d'une licence à 30 dollars par mois. Le 10 juin, le partenaire achète un nouvel abonnement au module complémentaire à 5 dollars par mois. La date de renouvellement de l’abonnement au module complémentaire sera ajustée sur la date de renouvellement de l’abonnement de base qui est le 1er juin. 
 
@@ -639,7 +639,7 @@ Le fichier de rapprochement du 15 juin contiendra les lignes de facturation sui
 - Frais de 30 $ pour la période de service du 1er juin au 30 juin. Cela concerne l’abonnement de base.
 - Frais au prorata de 3,50 $ pour la période de service du 10 juin au 30 juin. Cela concerne l’abonnement au module complémentaire. 
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01/06/2018   |30/06/2018   |30 dollars   |1   |30 dollars   |Frais au prorata à l'achat |
 |10/06/2018   |30/06/2018   |3,50 dollars   |1   |3,50 dollars   |Frais au prorata à l'achat |
@@ -649,14 +649,14 @@ Le fichier de rapprochement du 15 juillet contiendra les lignes de facturation 
 - Frais de 30 $ pour la période de service du 1er juillet au 31 juillet. Cela concerne l’abonnement de base.
 - Frais de 5 $ pour la période de service du 1er juillet au 31 juillet. Cela concerne l’abonnement au module complémentaire.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|-------|
 |01/07/2018   |31/07/2018   |30 dollars   |1   |30 dollars   |Frais de cycle |
 |01/07/2018   |31/07/2018   |5 dollars   |1   |5 dollars   |Frais de cycle |
 
 Notez que la date de renouvellement automatique de l’abonnement au module complémentaire sera le 1er juin 2019, ce qui correspond à l’abonnement de base.
 
-### <a name="scenario-10-new-purchase-on-the-29th-30th-or-31st"></a>Scénario 10 : Nouvel achat sur 29, 30 ou 31 
+### <a name="scenario-10-new-purchase-on-the-29th-30th-or-31st"></a>Scénario 10: Nouvel achat le 29, le 30 ou le 31 
 
 La date de facturation du partenaire est le 15e jour du mois. Le 29 mai, le partenaire achète un nouvel abonnement d'une licence à 30 dollars par mois. Les abonnements achetés le 29, le 30 ou le 31 auront une période gratuite entre la date d'achat et le 1er jour du mois suivant. Le jour anniversaire de l'abonnement sera le 1er par défaut. Dans ce scénario, l’abonnement bénéficient d'une période gratuite entre le 29 mai et le 31 mai et la période payante de 12 mois commence le 1er juin. 
 
@@ -664,7 +664,7 @@ Le fichier de rapprochement du 15 juin contiendra les lignes de facturation sui
 
 - Frais de 30 $ pour la période de service du 1er juin au 30 juin.
 
-|**Début de frais**   |**Fin de frais**   |**Prix unitaire**   |**Quantité**   |**Quantité**   |**Type de frais** |
+|**Début de la facturation**   |**Fin de la facturation**   |**Prix unitaire**   |**Spécifiée**   |**Proportion**   |**Type de frais** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
 |29/05/2018   | 30/06/2018   |30 dollars   |1   |30 dollars  |Frais au prorata à l'achat |
 

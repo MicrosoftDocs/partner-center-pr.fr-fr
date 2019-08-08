@@ -6,12 +6,12 @@ description: Travaillez avec d’autres partenaires de fournisseur de solutions 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132959"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820547"
 ---
 # <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
@@ -52,4 +52,4 @@ La fonctionnalité de support de plusieurs canaux de l'Espace partenaires prend 
 La prise en charge de plusieurs canaux est également disponible dans les offres de cloud Microsoft nationales.
 
 > [!IMPORTANT]  
-> Un partenaire dans le programme CSP ne peut pas revendre des services en ligne à un autre partenaire du programme CSP actuellement. Microsoft vérifie en permanence les stratégies et les fonctionnalités de tous les programmes. Les actualités sur les versions des fonctionnalités ou des modifications de stratégie seront annoncées via les canaux de communications habituel, y compris [annonces de partenaires](https://partner.microsoft.com/en-us/pcv/announcements).
+> Un partenaire du programme CSP ne peut pas revendre services en ligne à un autre partenaire du programme CSP actuellement. Microsoft passe en revue en permanence les stratégies et les fonctionnalités de tous les programmes. Toutes les nouveautés concernant les mises à jour de fonctionnalités ou les modifications de stratégie seront annoncées via les canaux de communication habituels, y compris les annonces de l' [espace partenaires](https://partner.microsoft.com/pcv/announcements).

@@ -7,12 +7,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b7843049ad4fd79dc4331262ed034ee05bd2281f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2b54241dfc734edbfa9c708ab0b942f67b4767c1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134289"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820610"
 ---
 # <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 
@@ -21,9 +21,9 @@ ms.locfileid: "62134289"
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
-Fonctionnalité des multiples de l’espace partenaires prend en charge les scénarios lorsqu’un client souhaite travailler avec plusieurs partenaires. Par exemple, un client peut vouloir engager un partenaire pour son expertise d'Office 365, mais passer par un autre partenaire spécialisé dans Microsoft Azure.
+La fonctionnalité multi-partenaires de l’espace partenaires prend en charge les scénarios dans lesquels un client souhaite travailler avec plusieurs partenaires. Par exemple, un client peut vouloir engager un partenaire pour son expertise d'Office 365, mais passer par un autre partenaire spécialisé dans Microsoft Azure.
 
-Pour utiliser la fonctionnalité de multiples dans l’espace partenaires, inviter le client pour avoir délégué des privilèges d’administration. Voir [Demander une relation avec un client](request-a-relationship-with-a-customer.md) pour en savoir plus sur la manière d’établir une relation avec un client qui travaille déjà avec un partenaire.
+Pour utiliser la fonctionnalité multi-partenaires dans l’espace partenaires, invitez le client à vous accorder des privilèges d’administration délégués. Voir [Demander une relation avec un client](request-a-relationship-with-a-customer.md) pour en savoir plus sur la manière d’établir une relation avec un client qui travaille déjà avec un partenaire.
 
 La fonctionnalité multipartenaire n’effectue pas les opérations suivantes&nbsp;:
 
@@ -36,4 +36,4 @@ La fonctionnalité multipartenaire n’effectue pas les opérations suivantes&nb
 - Modification du partenaire de référence pour un abonnement
 
 > [!IMPORTANT]  
-> Un partenaire dans le programme CSP ne peut pas revendre des services en ligne à un autre partenaire du programme CSP actuellement. Microsoft vérifie en permanence les stratégies et les fonctionnalités de tous les programmes. Les actualités sur les versions des fonctionnalités ou des modifications de stratégie seront annoncées via les canaux de communications habituel, y compris [annonces de partenaires](https://partner.microsoft.com/en-us/pcv/announcements).
+> Un partenaire du programme CSP ne peut pas revendre services en ligne à un autre partenaire du programme CSP actuellement. Microsoft passe en revue en permanence les stratégies et les fonctionnalités de tous les programmes. Toutes les nouveautés concernant les mises à jour de fonctionnalités ou les modifications de stratégie seront annoncées via les canaux de communication habituels, y compris les annonces de l' [espace partenaires](https://partner.microsoft.com/pcv/announcements).

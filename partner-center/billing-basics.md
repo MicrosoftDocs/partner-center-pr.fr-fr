@@ -1,48 +1,48 @@
 ---
-title: Vue d’ensemble de la facturation | Partenaires
+title: Présentation de la facturation | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
-Description: Pour plus d’informations sur les scénarios de facturation de base et les différences entre basé sur licence et basée sur l’utilisation de facturation
+Description: Informations sur les scénarios de facturation de base et les différences entre la facturation basée sur une licence et la facturation basée sur l’utilisation
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cd1488fbe107363ca924823cdd526005f5a3f21c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: e13f3d24e649cf17daa1e3218c3376c8fc6e4faa
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135389"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820374"
 ---
-# <a name="billing-overview"></a>Vue d’ensemble de la facturation
+# <a name="billing-overview"></a>Présentation de la facturation
 
 **S’applique à**
 
 -  Espace partenaires
--  Partenaires du programme CSP
+-  Partenaires dans le programme CSP
 
-En fonction des produits, solutions et services que vous achetez pour le compte de vos clients, vous serez facturé pour ces achats dans un ou plusieurs des manières suivantes :
--   [Facturation basée sur les licences](#licensebasedbilling)
+Selon les produits, les solutions et les services que vous achetez pour le compte de vos clients, vous êtes facturé pour ces achats selon une ou plusieurs des méthodes suivantes:
+-   [Facturation basée sur une licence](#licensebasedbilling)
 
-    Lorsque vous achetez des produits ou services en ligne qui nécessitent des licences, vous êtes facturé pour chaque licence que vous avez acheté (et non sur l’utilisation des licences). Vous pouvez choisir s’il faut être facturés une fois par mois ou une fois par an. Si vos besoins évoluent, vous pouvez passer de l’un à l’autre et inversement. 
+    Lorsque vous achetez des produits ou des services en ligne qui requièrent des licences, vous êtes facturé pour chaque licence que vous avez achetée (et non sur l’utilisation de la licence). Vous pouvez choisir d’être facturé une fois par mois ou une fois par an. Si les besoins de votre entreprise évoluent, vous pouvez basculer de l’un à l’autre, puis de nouveau. 
     
-    Pour plus d’informations sur tous les mois et la facturation annuelle, consultez la facturation [FAQ](https://docs.microsoft.com/en-us/partner-center/faq-about-new-billing-features).
+    Pour plus d’informations sur la facturation mensuelle et annuelle, consultez le [Forum aux questions](https://docs.microsoft.com/partner-center/faq-about-new-billing-features)sur la facturation.
 
 -   [Facturation basée sur l’utilisation](#usagebasedbilling)
 
-    Lorsque vous achetez des services en ligne tels que les abonnements Azure, vous êtes facturé pour les taux d’utilisation mensuelle. Uniquement tous les mois de facturation est disponible pour les produits basés sur l’utilisation. Basée sur l’utilisation des services, tels que Azure, sont facturés en fonction du tarif limitée, en fonction de la consommation.
+    Lorsque vous achetez services en ligne comme des abonnements Azure, vous êtes facturé pour les taux d’utilisation mensuels. Seule la facturation mensuelle est disponible pour les produits basés sur l’utilisation. Les services basés sur l’utilisation, tels qu’Azure, sont facturés en fonction des tarifs contrôlés, en fonction de la consommation.
 
--   [Facturation à usage unique](#onetimebilling)
+-   [Facturation unique](#onetimebilling)
 
-    Lorsque vous achetez des réservations d’Azure ou d’autres abonnements logiciels, vous payez à l’avance un terme prédéfinie. Étant donné que vous payez à l’avance, vous êtes facturé en une somme forfaitaire. 
+    Lorsque vous achetez des réservations Azure ou d’autres abonnements logiciels, vous payez à l’avance un terme prédéfini. Étant donné que vous payez à l’avance, vous êtes facturé en un montant forfaitaire. 
     
-Si vous avez choisi d’être facturé tous les mois ou si vous avez acheté des produits basés sur l’utilisation qui sont facturés chaque mois, votre date de facturation mensuelle est le jour du mois que vous avez sélectionné lorsque vous avez créé votre compte CSP sur Partner Center. Une fois que vous avez créé votre compte CSP, Microsoft vous envoie un e-mail de confirmation qui inclut la date de facturation. Une fois créé, cette date ne peut pas être modifiée. 
+Si vous avez choisi d’être facturé mensuellement ou si vous avez acheté des produits basés sur l’utilisation qui sont facturés tous les mois, la date de facturation mensuelle est le jour du mois que vous avez sélectionné lorsque vous avez créé votre compte CSP dans l’espace partenaires. Une fois votre compte CSP créé, Microsoft envoie un e-mail de confirmation qui comprend la date de facturation. Une fois créée, cette date ne peut pas être modifiée. 
 
 ## <a name="pricing-and-invoicing"></a>Tarification et facturation
 Vous pouvez accéder aux listes de prix un (1) mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12 mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. 
 
-Prix des produits, services et abonnements de logiciels sont garantis pendant la durée d’abonnement, mais le prix peuvent changer lorsque vous renouvelez.
+Les prix pour les produits, les services et les abonnements logiciels sont assurés par la durée de l’abonnement, mais les tarifs peuvent changer lorsque vous le renouvelez.
 
 Vous verrez les ajustements et les crédits à terme échu sur votre prochaine facture une fois qu’ils auront été appliqués.
 
@@ -50,29 +50,29 @@ Vous pouvez afficher et télécharger vos factures et vos fichiers de rapprochem
 
 ## <a name="payment-terms"></a>Modalités de paiement
 
-Conditions de paiement sont nets 60 jours. Factures doivent être payées par la facture de la date d’échéance (60 jours après la date de facturation), ou votre compte sera impayée, ce qui peut impacter votre inscription dans CSP. Vous pouvez retrouver toutes les fonctionnalités de vos comptes suspendus lorsque vous payez le passé montant dû.
+Les conditions de paiement sont net 60 jours. Les factures doivent être payées à la date d’échéance de la facture (de 60 jours après la date de facturation) ou votre compte est en souffrance, ce qui peut avoir un impact sur votre inscription dans CSP. Vous pouvez récupérer toutes les fonctionnalités de vos comptes suspendus lorsque vous payez le montant dû.
 
 ### <a name="tax"></a>Taxe
 
-Vous sont imposés en sur les détails de votre, (pas vos clients) comme la relation de facturation est comprise entre Microsoft et vous. Vous pouvez soumettre votre ID de taxe pendant le processus d’installation de compte ou en soumettant une demande de support plus tard. Les modifications seront prises en compte lors de votre prochain cycle de facturation.
+Vous êtes taxé en fonction de vos détails (et non de vos clients), car la relation de facturation est établie entre Microsoft et vous. Vous pouvez envoyer votre ID de taxe pendant le processus de configuration du compte ou en soumettant une demande de support ultérieurement. Les modifications seront prises en compte lors de votre prochain cycle de facturation.
 
--   Pour les retenues et l’exemption de taxe, vous devez envoyer documentation taxe via une demande de support. Les modifications et les remboursements appropriés seront visibles dans votre prochain cycle de facturation.
+-   Pour la dispense et la taxe de vente, vous devez soumettre la documentation sur les taxes via une demande de support. Les modifications et les remboursements appropriés seront visibles dans votre prochain cycle de facturation.
 
--   Valeur ajoutée exemption de TVA, vous devez envoyer votre ID de TVA (validé par Microsoft) via une demande de service. Les modifications et les remboursements appropriés seront visibles dans votre prochain cycle de facturation.
+-   Pour l’exemption de la taxe sur la valeur ajoutée, vous devez envoyer votre ID de TVA (validé par Microsoft) via une demande de service. Les modifications et les remboursements appropriés seront visibles dans votre prochain cycle de facturation.
 
-Vous trouverez plus d’informations fiscales auprès de votre bureau impôt local ou un conseiller fiscal.
+Vous trouverez d’autres détails fiscaux auprès de votre bureau d’impôt local ou de votre conseiller fiscal.
 
-## <a href="" id="licensebasedbilling"></a>Facturation basée sur les licences
+## <a href="" id="licensebasedbilling"></a>Facturation basée sur une licence
 
-Lorsque vous achetez un produit sous licence pour le compte d’un client, vous pouvez choisir à être facturé mensuellement ou annuellement. Si vous souhaitez modifier votre périodicité de facturation ultérieurement, utilisez la procédure ci-dessous. 
+Lorsque vous achetez un produit basé sur une licence pour le compte d’un client, vous pouvez choisir d’être facturé mensuellement ou annuellement. Si vous souhaitez modifier la fréquence de facturation ultérieurement, utilisez la procédure ci-dessous. 
 
-À partir de la facturation mensuelle de commutation à la facturation annuelle est utile si vous avez plusieurs abonnements qui sont facturés chaque mois et que vous souhaitez les aligner à une date de facturation courantes. À partir de la facturation annuelle de commutation à la facturation mensuelle est utile dans les dates de facturation à ceux de vos clients individuels de personnalisation. 
+Passer de la facturation mensuelle à la facturation annuelle est utile si vous avez un grand nombre d’abonnements facturés tous les mois et que vous souhaitez les aligner sur une date de facturation commune. Passer de la facturation annuelle à la facturation mensuelle est utile pour adapter vos dates de facturation à celles de vos clients individuels. 
 
-Lorsque vous modifiez la fréquence de facturation, le terme annuel est mis à jour pour refléter la que date de que modification de la fréquence de facturation et une nouvelle date de renouvellement sont établies. 
+Lorsque vous modifiez la fréquence de facturation, le terme annuel est mis à jour pour refléter la date à laquelle vous avez modifié la fréquence de facturation et une nouvelle date de renouvellement est établie. 
 
-Vous pouvez modifier la fréquence de facturation chaque fois que vos besoins évoluent. 
+Vous pouvez modifier la fréquence de facturation chaque fois que les besoins de votre entreprise évoluent. 
 
-### <a name="billing-rules-for-annual-billing"></a>Règles de facturation de la facturation annuelle
+### <a name="billing-rules-for-annual-billing"></a>Règles de facturation pour la facturation annuelle
 
 -   Les abonnements sont annuels et automatiquement renouvelés.
 
@@ -82,67 +82,67 @@ Vous pouvez modifier la fréquence de facturation chaque fois que vos besoins é
 
 -   Vous êtes facturé/crédité à terme échu pour toute modification du nombre de licences (calcul au prorata en fonction des jours de licences). La formule suivante est utilisée pour le calcul au prorata : [ARRONDI((ARRONDI(Prix unitaire * Quantité / Prorata du nombre de jours du mois, 2) * Prorata du nombre de jours) / Quantité, 2) * Quantité]
 
--   Les paiements sont facturés pour les licences vendues (pas les licences configurés).
+-   Les paiements sont facturés pour les licences vendues (pas les licences approvisionnées).
 
 ### <a name="to-change-the-billing-frequency-of-an-online-service"></a>Pour modifier la fréquence de facturation d’un service en ligne
 
 1.  Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez le client avec l’abonnement que vous souhaitez modifier. 
 
-2.  Sur la page des abonnements du client, sélectionnez l’abonnement que vous souhaitez modifier. 
+2.  Sur la page abonnements du client, sélectionnez l’abonnement que vous souhaitez modifier. 
 
-3.  Dans la page de détails, sous **fréquence de facturation**, sélectionnez **mensuel** ou **annuel**. Vous verrez une page de confirmation des informations importantes sur la modification de périodicité de facturation, ainsi qu’une liste des abonnements sur le point d’être modifié. 
+3.  Sur la page détails, sous **fréquence de facturation**, sélectionnez **mensuelle** ou **annuelle**. Une page de confirmation s’affiche avec des informations importantes sur la modification de la fréquence de facturation, ainsi qu’une liste des abonnements sur le point d’être modifiés. 
 
-4.  Sélectionnez **OK** pour apporter la modification, ou **Annuler** à son annulation. 
+4.  Sélectionnez **OK** pour effectuer la modification, ou **Annuler** pour l’annuler. 
 
 ### <a name="adjustmentscreditscancellations"></a>Ajustements/crédits/annulations
 
-Microsoft ne facture pas les frais d’arrêt anticipé de l’annulation des services basés sur licence. 
+Microsoft n’applique aucuns frais de résiliation précoces pour l’annulation des services basés sur une licence. 
 
 Les crédits d’annulation pour les services basés sur les licences sont calculés au prorata du nombre de jours non utilisés pour les annulations en milieu de cycle (ainsi que pour la réduction du nombre de licences, conformément à la formule ci-dessus).
 
 ## <a href="" id="usagebasedbilling"></a>Facturation basée sur l’utilisation
 
-Certains produits et services Microsoft utilisent un modèle de facturation « paiement », dans lequel vous êtes facturé uniquement pour les services utilisés. Par exemple, Microsoft Azure utilise ce modèle. 
+Certains produits et services Microsoft utilisent un modèle de facturation «paiement à l’utilisation», dans lequel vous êtes facturé uniquement pour les services utilisés. Par exemple, Microsoft Azure utilise ce modèle. 
 
 ### <a name="billing-rules"></a>Règles de facturation
--   Les abonnements sont les mois en mois et renouvellement automatiquement aux nouveaux tarifs service contrôlé. Vous êtes facturé chaque mois pour l’utilisation du mois précédent.
+-   Les abonnements sont de mois en mois et sont automatiquement renouvelés au tarif des nouveaux services contrôlés. Vous êtes facturé chaque mois pour l’utilisation du mois précédent.
 
 -   Les barèmes des services peuvent changer au cours du cycle de facturation. 
 
-    -   Augmentations de prix : préavis de 30 jours est fourni.
+    -   Augmentations de prix: un préavis de 30 jours est fourni.
 
     -   Réduction de prix&nbsp;: jour d’application de la modification.
 
     -   Les abonnements existants utilisent le taux en vigueur au début du cycle de facturation.
 
-    -   Nouveaux abonnements, quand créés dans le même cycle de facturation, utilisent le taux en vigueur à la date de que leur création. 
+    -   Les nouveaux abonnements, lorsqu’ils sont créés dans le même cycle de facturation, utilisent le taux en vigueur à la date de création. 
 
 ### <a name="adjustmentscreditscancellations"></a>Ajustements/crédits/annulations
 
 Vous verrez les paiements ajustés sur votre prochaine facture mensuelle.
 
-Microsoft ne facture pas les frais d’arrêt anticipé de l’annulation des services basés sur l’utilisation. 
+Microsoft n’applique aucuns frais de résiliation précoces pour l’annulation des services basés sur l’utilisation. 
 
 Vous verrez des crédits de tout type, y compris les crédits&nbsp;SLA, sur votre prochaine facture mensuelle.
 
-## <a href="" id="onetimebilling"></a>Facturation à usage unique
+## <a href="" id="onetimebilling"></a>Facturation unique
 
-Vous pouvez acheter des abonnements de logiciels et les réservations Azure à l’avance, pour un ou trois ans. Lorsque vous achetez à l’avance, vous êtes facturé pour la totalité des coûts dans un forfait d’un. Ce type de facturation est appelé une facturation à usage unique.
+Vous pouvez acheter des abonnements logiciels et des réservations Azure à l’avance, pour des conditions d’un ou trois ans. Lorsque vous achetez à l’avance, vous êtes facturé pour le coût total en un montant forfaitaire. Ce type de facturation est appelé facturation unique.
 
 >[!IMPORTANT]
->Si vous achetez des réservations Azure et/ou des abonnements de logiciel pour un client dans un emplacement avec une devise différent du vôtre, la valeur par défaut devise de facturation est basée sur l’emplacement du client, pas votre emplacement. Si vous avez des clients dans plusieurs emplacements, vous allez recevoir des factures distinctes et fichiers de réconciliation pour chaque client de devise devant facturé dans, ce qui permet de vous facturer vos clients dans la devise appropriée. 
+>Si vous achetez des réservations Azure et/ou des abonnements logiciels pour un client situé dans un lieu avec une devise différente de la vôtre, la devise de facturation par défaut est basée sur l’emplacement du client, et non sur votre emplacement. Si vous avez des clients dans plusieurs emplacements, vous recevrez des factures et des fichiers de rapprochement distincts pour chaque devise dans laquelle les clients doivent être facturés, ce qui vous permet de facturer vos clients dans la devise appropriée. 
 
 ### <a name="manage-your-one-time-billing"></a>Gérer votre facturation de frais ponctuels
 
-**Afficher le statut actuel de la facturation, des factures et des fichiers de rapprochement**
+**Afficher l’état de facturation actuel, les factures et les fichiers de rapprochement**
 
-1.  Dans le centre de partenaires, sélectionnez **facturation** , puis **une fois** pour afficher l’état de votre facturation. 
+1.  Dans l’espace partenaires, sélectionnez **facturation** , puis **une fois** pour afficher l’état de facturation. 
 
 2.  Sélectionnez une facture ou un fichier de rapprochement pour afficher des informations plus détaillées. 
 
-**Afficher l’historique de commande d’un client**
+**Afficher l’historique des commandes d’un client**
 
-1.  Sélectionnez **clients** dans le menu espace partenaires.
+1.  Sélectionnez **clients** dans le menu de l’espace partenaires.
 
 2.  Sur votre page **Clients**, recherchez le client dont vous souhaitez afficher l’historique de commandes, puis sélectionnez la flèche allant vers le bas pour développer son dossier. 
 
@@ -150,7 +150,7 @@ Vous pouvez acheter des abonnements de logiciels et les réservations Azure à l
 
 **Télécharger une note de crédit**
 
-Si vous avez besoin demander un avoir ou rebill, nous allons vous donner une note de crédit pour annuler la facture d’origine. Vous pouvez demander un crédit/rebill pour les raisons suivantes :
+Si vous avez besoin de demander un crédit ou une facture, nous vous enverrons une note de crédit pour annuler la facture d’origine. Vous pouvez demander un crédit/une facture pour les raisons suivantes:
 
 -   Demander ou acheter des corrections de commande
 

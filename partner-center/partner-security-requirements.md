@@ -1,18 +1,18 @@
 ---
 title: Conditions de sécurité pour les partenaires | Espace partenaires
 ms.topic: article
-ms.date: 07/18/2019
+ms.date: 08/05/2019
 description: En savoir plus sur les exigences de sécurité pour les conseillers et les partenaires participant au programme du fournisseur de solutions Cloud.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme fournisseur de solutions Cloud, CSP, fournisseur du panneau de configuration, CPV, Multi-Factor Authentication, MFA, modèle d’application sécurisée, modèle d’application sécurisée, sécurité
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
+ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313934"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68787257"
 ---
 # <a name="partner-security-requirements"></a>Conditions de sécurité pour les partenaires
 
@@ -57,9 +57,22 @@ Avant d’effectuer une action, il est recommandé d’identifier les éléments
 
 Lorsque vous appliquez l’authentification MFA héritée, les protocoles tels que IMAP, POP3, SMTP, etc. sont bloqués, car ces protocoles ne prennent pas en charge MFA. Pour résoudre ce problème, une fonctionnalité appelée [mots de passe d’application](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) peut être utilisée pour s’assurer que l’application ou l’appareil peut toujours s’authentifier. Vous devez examiner les considérations relatives à l’utilisation des mots de passe d’application documentés [ici](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) pour déterminer s’ils peuvent être utilisés dans votre environnement.
 
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Avez-vous des utilisateurs utilisant Office 365 fournis par des licences associées à votre locataire partenaire?
+
+Avant d’implémenter une solution, il est recommandé de déterminer la raison pour laquelle la version de Microsoft Office est utilisée par les utilisateurs de votre locataire partenaire. Passez en revue le [plan de Multi-Factor Authentication pour les déploiements d’Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) avant d’entreprendre une action. Il y a un risque que vos utilisateurs rencontrent des problèmes de connectivité avec des applications comme Outlook. Avant d’appliquer MFA, il est important de s’assurer qu’Outlook 2013 SP1, ou une version ultérieure, est utilisé et que l’authentification moderne est activée pour votre organisation. Pour plus d’informations, consultez [activer l’authentification moderne dans Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) .
+
+Pour activer l’authentification moderne pour tous les appareils exécutant Windows, sur lesquels Microsoft Office 2013 est installé, vous devez créer deux clés de registre. Consultez [activer l’authentification moderne pour Office 2013 sur les appareils Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
+
+> [!IMPORTANT]
+> Si vous avez activé vos utilisateurs pour l’authentification multifacteur Azure AD et qu’ils ont des appareils exécutant Office 2013 qui ne sont pas activés pour l’authentification moderne, ils doivent utiliser des mots de passe d’application sur ces appareils. Vous trouverez plus d’informations sur les mots de passe d’application et le moment/le mode d’utilisation à utiliser ici: [Mots de passe d’application avec Azure Multi-Factor Authentication](https://go.microsoft.com/fwlink/p/?LinkId=528178).
+
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Existe-t-il une stratégie qui empêche les utilisateurs d’utiliser leurs appareils mobiles quand ils travaillent?
 
-Il est important d’identifier toute stratégie d’entreprise qui empêche les employés d’utiliser des appareils mobiles en cours de travail, car elle influencera la solution MFA que vous implémentez. Il existe des solutions MFA, telles que celles fournies par l’implémentation des [stratégies de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), qui autorisent uniquement l’utilisation d’une application authentificateur pour la vérification. Si votre organisation a une stratégie qui empêche l’utilisation d’appareils mobiles, vous devez vous intéresser à l’achat de [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) pour les utilisateurs concernés ou vous pouvez implémenter une solution tierce qui offre la vérification la plus appropriée. option.
+Il est important d’identifier toute stratégie d’entreprise qui empêche les employés d’utiliser des appareils mobiles en cours de travail, car elle influencera la solution MFA que vous implémentez. Il existe des solutions MFA, telles que celles fournies par l’implémentation des [stratégies de protection de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), qui autorisent uniquement l’utilisation d’une application authentificateur pour la vérification. Si votre organisation a une stratégie qui empêche l’utilisation d’appareils mobiles, vous devez envisager l’une des options suivantes:
+
+- Déployer un appareil Android virtualisé dans lequel une application d’authentificateur peut être installée
+- Implémentez une solution tierce qui applique l’authentification MFA pour chaque utilisateur du locataire partenaire qui fournit l’option de vérification la plus appropriée.
+- Achat de licences [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) pour les utilisateurs concernés
 
 #### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>Quelles sont les fonctionnalités d’automatisation ou d’intégration qui tirent parti des informations d’identification de l’utilisateur pour l’authentification?
 
@@ -204,8 +217,31 @@ L’utilisateur peut désormais se connecter, réinitialiser son mot de passe et
 
 ### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-Lorsque l’authentification MFA est activée, les partenaires ne peuvent pas utiliser leurs privilèges d’administrateur délégués avec Exchange Online PowerShell pour effectuer des actions sur leurs clients. Pour plus d’informations sur cette limitation, consultez [se connecter à Exchange Online PowerShell à l’aide de Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) .
+Lorsque l’authentification MFA est appliquée, les partenaires ne peuvent pas utiliser leurs privilèges d’administrateur délégués avec Exchange Online PowerShell pour effectuer des actions sur leurs clients. Pour plus d’informations sur cette limitation, consultez [se connecter à Exchange Online PowerShell à l’aide de Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) .
+
+Vous pouvez contourner cette limitation en créant un nouveau compte et en ne l’utilisant jamais pour effectuer une authentification interactive. Il est recommandé d’utiliser [Azure ad PowerShell](https://docs.microsoft.com/powershell/module/azuread/) pour créer le nouveau compte et effectuer la configuration initiale. La commande PowerShell suivante peut être utilisée pour créer et configurer le compte.
+
+```powershell
+Import-Module AzureAD
+Connect-AzureAD
+
+$PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
+
+$PasswordProfile.Password = "Password"
+$PasswordProfile.ForceChangePasswordNextLogin = $false
+
+$user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfile -UserPrincipalName "NewUser@contoso.com" -AccountEnabled $true
+
+# Uncomment the following two lines if you want the account to have Admin Agent privileges
+# $adminAgentsGroup = Get-AzureADGroup -Filter "DisplayName eq 'AdminAgents'"
+# Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
+```
+
+La prochaine fois que vous vous connecterez à Exchange Online par le biais de PowerShell, utilisez ce compte pour fonctionner comme prévu.
+
+> [!IMPORTANT]
+> La possibilité pour les partenaires d’utiliser leurs privilèges d’administrateur délégués avec Exchange Online PowerShell pour effectuer des actions sur leurs clients, lorsque l’authentification MFA est appliquée, sera disponible à l’avenir. Jusqu’à présent, vous devez tirer parti de cette solution de contournement.
 
 ## <a name="resources-and-support"></a>Ressources et support
 
-Par le biais de la communauté du groupe de conseils de sécurité de l' [espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) , vous trouverez des ressources supplémentaires et des informations sur les événements à venir, tels que les horaires des bureaux techniques. Consultez le document Forum [aux questions](http://assetsprod.microsoft.com/security-requirements-faq.pdf) pour en savoir plus sur la configuration requise.
+Par le biais de la communauté du groupe de conseils de sécurité de l' [espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) , vous trouverez des ressources supplémentaires et des informations sur les événements à venir, tels que les horaires des bureaux techniques. Consultez le document Forum [aux questions](partner-security-requirements-faq.md) pour en savoir plus sur la configuration requise.
