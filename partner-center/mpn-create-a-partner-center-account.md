@@ -1,17 +1,17 @@
 ---
 title: Créer un compte Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 08/12/2019
 description: Les membres du Microsoft Partner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf6fbc44d7f35590ea39e554e15be6a1963b4766
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 5144f6e303a4afeccc6ccf74e966d8beba41f947
+ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134349"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "68958752"
 ---
 # <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 
@@ -23,15 +23,15 @@ ms.locfileid: "62134349"
 
 Cet article explique comment créer un compte Espace partenaires. Il est destiné aux partenaires qui souhaitent passer leurs informations d’adhésion au réseau de partenaires du Partner Membership Center à l'Espace partenaires. 
 
-Avant de pouvoir créer un compte sur l'Espace partenaires ou vous inscrire à un programme de partenaires, votre entreprise doit être membre du Microsoft Partner Network. Si vous n’êtes pas membre du réseau, vous pouvez le [rejoindre maintenant](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [En savoir plus](https://partner.microsoft.com/membership) sur l'adhésion au Microsoft Partner Network.  
+Avant de pouvoir créer un compte sur l'Espace partenaires ou vous inscrire à un programme de partenaires, votre entreprise doit être membre du Microsoft Partner Network. Si vous n’êtes pas membre du réseau, vous pouvez le [rejoindre maintenant](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [En savoir plus](https://partner.microsoft.com/membership) sur l'adhésion au Microsoft Partner Network. Une fois que vous avez créé un compte Espace partenaires, regardez cette brève vidéo [Découvrir votre tableau de bord](https://vimeo.com/290338211).
 
-Une fois que vous avez créé un compte Espace partenaires, vous pouvez :
+### <a name="some-next-steps"></a>Étapes suivantes
 
--   [Acheter ou renouveler un abonnement Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Acheter ou renouveler un abonnement Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Créer un profil d’entreprise pour obtenir des prospects à partir de Microsoft](create-a-marketing-profile.md)
+-   [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)
 
--   [Obtenir et de gérer les prospects à partir de Microsoft](responding-to-referrals.md)
+-   [Obtenir et gérer des prospects de Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
@@ -45,7 +45,7 @@ Pour créer un compte sur l'Espace partenaires, vous devez avoir les information
 
 -   Pouvoir de signer des contrats. Assurez-vous que vous êtes autorisé à signer des contrats pour le compte de votre entreprise, car vous serez invité à le faire au cours du processus d’inscription.
 
--   Nom et adresse de messagerie professionnelle de la personne que vous voulez désigner comme contact principal. Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies.
+-   Nom et adresse de messagerie professionnelle de la personne que vous voulez désigner comme contact principal. Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse e-mail, nous poursuivrons notre vérification des informations fournies.
 
 Nous vérifierons ces informations au cours du processus de création du compte. 
  
@@ -64,15 +64,15 @@ Nous vérifierons ces informations au cours du processus de création du compte.
     Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise). Nous allons également utiliser ces informations pour vérifier que cette personne travaille dans votre entreprise et qu'elle s'est inscrite à un compte Espace partenaires.
 
     > [!IMPORTANT]  
-    > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse de messagerie, nous poursuivrons notre vérification des informations fournies.
+    > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu'il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse de messagerie appartient à votre entreprise. Une fois que le contact principal aura vérifié son adresse e-mail, nous poursuivrons notre vérification des informations fournies.
 
 4.  Lisez et acceptez les conditions générales du contrat Microsoft Partner Network. 
 
-5.  Vérifiez que vous avez été ajouté au groupe agent administrateur. Pour terminer la configuration de votre compte, y compris l’ajout d’autres utilisateurs, vous devez disposer d'autorisations d'agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
+5.  Vérifiez que vous avez été ajouté au groupe agent administrateur. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
-    a. Dans votre **partenaires**, sélectionnez le **paramètres** icône, puis sélectionnez **gestion des utilisateurs**.  
+    a. Dans votre **Espace partenaires**, sélectionnez l’icône **Paramètres**, puis sélectionnez **Gestion des utilisateurs**.  
 
-    b. Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s'il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.  
+    b. Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s’il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.  
 
 ## <a name="next-steps"></a>Étapes suivantes
 
@@ -80,8 +80,8 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 
 -   [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Gérer vos avantages de l’appartenance](manage-your-partner-network-benefits.md)
+-   [Gérer les avantages de votre adhésion](manage-your-partner-network-benefits.md)
 
--   [En savoir plus sur les exigences de compétence Gold et Silver de l’appartenance](https://partner.microsoft.com/membership/competencies)
+-   [En savoir plus sur les compétences requises pour le niveau d'adhésion Or ou Argent](https://partner.microsoft.com/membership/competencies)
 
--   [Créer un profil d’entreprise pour obtenir des prospects à partir de Microsoft](create-a-marketing-profile.md)
+-   [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)
