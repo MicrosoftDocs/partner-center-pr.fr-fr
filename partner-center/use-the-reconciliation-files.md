@@ -2,17 +2,17 @@
 title: Utiliser les fichiers de rapprochement | Espace partenaires
 ms.topic: article
 ms.date: 07/08/2019
-description: Pour une vue détaillée de la ligne de chaque charge dans un cycle de facturation, téléchargez les fichiers de réconciliation de partenaires.
+description: Pour obtenir une vue détaillée de chaque facture dans un cycle de facturation, téléchargez les fichiers de la conciliation à partir de l’espace partenaires.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
-ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
-ms.translationtype: MT
+ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67694925"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820565"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -22,29 +22,29 @@ ms.locfileid: "67694925"
 -  Espace partenaires de Microsoft Cloud for US Government
 
 
-Pour une vue détaillée de la ligne de chaque charge dans un cycle de facturation, téléchargez les fichiers de réconciliation de partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
+Pour obtenir une vue détaillée de chaque facture dans un cycle de facturation, téléchargez les fichiers de la conciliation à partir de l’espace partenaires. Vous y trouverez des informations sur les frais pour chaque abonnement client et les événements détaillés (par exemple, l’ajout intermédiaire de sièges à un abonnement).
 
 ## <a name="formatting-issues"></a>Problèmes de mise en forme
 
-Il peut arriver que votre fichier de rapprochement peut-être des problèmes de mise en forme. (Cela peut se produire, par exemple, si les paramètres régionaux EN-US ne sont pas utilisé.) Suivez les étapes ci-dessous pour résoudre ces problèmes. 
+Parfois, votre fichier de rapprochement peut présenter des problèmes de mise en forme. (Cela peut se produire, par exemple, si les paramètres régionaux en-US ne sont pas utilisés.) Suivez les étapes ci-dessous pour résoudre ces problèmes. 
 
 <ol>
-<li>Ouvrez le fichier .csv dans Excel, puis sélectionnez la première colonne. Dans le ruban, sélectionnez <strong>données</strong>, puis sélectionnez <strong>texte aux colonnes</strong>.</li>
+<li>Ouvrez le fichier. csv dans Excel, puis sélectionnez la première colonne. Dans le ruban, sélectionnez <strong>données</strong>, puis sélectionnez <strong>texte pour les colonnes</strong>.</li>
 
-<li>Dans le texte de conversion Assistant, sélectionnez <strong>délimités de type de fichier</strong>, puis sélectionnez <strong>suivant</strong>.</li> 
+<li>Dans l’Assistant Conversion de texte en colonnes, sélectionnez <strong>type de fichier délimité</strong>, puis sélectionnez <strong>suivant</strong>.</li> 
 
-<li>Dans le champ de séparateurs, sélectionnez <strong>virgules</strong>. Si <strong>onglet</strong> est déjà sélectionné, vous pouvez la laisser. Sélectionnez <strong>Suivant</strong>.</li>
+<li>Dans le champ séparateurs, sélectionnez <strong>virgule</strong>. Si l’option <strong>onglet</strong> est déjà sélectionnée, vous pouvez la conserver. Sélectionnez <strong>Suivant</strong>.</li>
 
-<li>Dans le champ de format de données de colonne, sélectionnez <strong>Date : MDY</strong>, puis sélectionnez <strong>suivant</strong>.</li> 
+<li>Dans le champ format des données de la <strong>colonne, sélectionnez Date: Mja</strong>, puis sélectionnez <strong>suivant</strong>.</li> 
 
-<li>Dans le champ de format de données de colonne, sélectionnez <strong>texte</strong> pour tout montant de colonnes, puis sélectionnez <strong>Terminer</strong>.</li>
+<li>Dans le champ format des données de la colonne, sélectionnez <strong>texte</strong> pour toutes les colonnes de montant, puis sélectionnez <strong>Terminer</strong>.</li>
 </ol>
 
 ## <a name="downloading-a-large-recon-file"></a>Téléchargement d’un fichier de rapprochement volumineux
 
-Fichiers de rapprochement peuvent devenir très volumineux et sont parfois difficiles à télécharger. Pour un script PowerShell aider à télécharger de gros fichiers de rapprochement, consultez [Get facturation](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
+Les fichiers de rapprochement peuvent devenir très volumineux et parfois difficiles à télécharger. Pour obtenir un script PowerShell qui vous aide à télécharger des fichiers de rapprochement volumineux, consultez [obtenir des lignes de facturation](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
 
-## <a href="" id="itemizebypartner"></a>Détailler par partenaire
+## <a href="" id="itemizebypartner"></a>Décomposant par partenaire
 
 
 Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémentaires dans les fichiers de rapprochement basés sur l’utilisation ou basés sur les licence pour détailler les informations par revendeur.
@@ -69,7 +69,7 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 <td>ID&nbsp;MPN revendeur</td>
 <td><p>Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect.</p>
 <p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Cet&nbsp;ID correspond à l’ID de revendeur indiqué pour l’abonnement dans l’Espace partenaires.</p>
-<p>vue d’eTo ou de mise à jour le revendeur, dans le menu espace partenaires, sélectionnez <strong>clients</strong>, puis sélectionnez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
+<p>affichage eTo ou mettez à jour le revendeur. dans le menu espace partenaires, sélectionnez <strong>clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
 <p>Si un partenaire&nbsp;Fournisseur de solutions&nbsp;Cloud a vendu l’abonnement directement au client, son ID&nbsp;MPN est indiqué deux&nbsp;fois, en tant qu’ID&nbsp;MPN et ID&nbsp;MPN revendeur.</p>
 <p>Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire.</p>
 <p>Si le partenaire&nbsp;CSP supprime un&nbsp;ID revendeur, cette valeur est définie sur&nbsp;-1.</p></td>
@@ -79,7 +79,7 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 
  
 
-## <a href="" id="licensebasedfiles"></a> Champs d’un fichier basé sur licence
+## <a href="" id="licensebasedfiles"></a>Champs de fichier basés sur une licence
 
 
 Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Partenaire\_Abonnement\_Numéro dans le fichier de rapprochement à l’ID d’abonnement dans l’Espace partenaires.
@@ -126,13 +126,13 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 <tr class="odd">
 <td>OfferID</td>
 <td><p>ID d’offre unique. ID d’offre standard conformément à la liste de prix.</p>
-<p><b>Remarque</b>: Cette valeur ne correspond pas d’ID de l’offre à partir de la liste de prix. Voir DurableOfferID ci-dessous.</p></td>
+<p><b>Remarque</b>: Cette valeur ne correspond pas à l’ID de l’offre de la liste de prix. Voir DurableOfferID ci-dessous.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>ID d’offre unique durable, comme défini dans la liste des prix.</p>
-<p><b>Remarque</b>: Cette valeur correspond à l’ID de l’offre à partir de la liste de prix.</p></td>
+<p><b>Remarque</b>: Cette valeur correspond à l’ID de l’offre de la liste de prix.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>La date de fin d’abonnement : 12 mois + x jours après la date de début (pour les aligner avec date de facturation du partenaire) ou 12 mois à partir de la date de renouvellement.</p>
+<td><p>Date de fin de l’abonnement: 12 mois + x jours après la date de début (pour les aligner avec la date de facturation du partenaire) ou 12 mois à partir de la date de renouvellement.</p>
 <p>Lors du renouvellement, les prix sont mis à jour selon la liste des prix en vigueur. La communication avec les clients peut être nécessaire avant le renouvellement automatique.</p>
 <p>L’heure indique toujours le début de la journée, 0:00.</p></td>
 <td>2/1/2015 0:00</td>
@@ -189,7 +189,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>Montant de la remise appliquée à ces frais. Les nouveaux abonnements ou abonnements IUR pouvant bénéficier d’un incitatif comprennent également le montant de la remise dans cette colonne.</p></td>
+<td><p>Montant de la remise appliquée à ces frais. Les licences de produit comprises dans une compétence ou des cartes ou les nouveaux abonnements éligibles à un Incentive contiennent également un montant de remise dans cette colonne.</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
@@ -199,7 +199,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 </tr>
 <tr class="even">
 <td>Taxe</td>
-<td><p>Frais de quantité, en fonction de votre marché de taxe&#39;les règles de taxe s et des circonstances spécifiques.</p></td>
+<td><p>Frais liés au montant des taxes, en&#39;fonction de vos règles fiscales et de certaines circonstances spécifiques.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -214,7 +214,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Client&#39;nom de l’organisation s comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+<td><p>Nom&#39;de l’organisation du client comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
 <td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
@@ -229,7 +229,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Client&#39;-s nom de domaine, utilisé pour aider à identifier le client. Cela ne doit pas être utilisé pour identifier le client, comme le client/partenaire peut mettre à jour le domaine personnel/par défaut par le biais du portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td><p>Nom&#39;de domaine du client, utilisé pour aider à identifier le client. Cela ne doit pas être utilisé pour identifier de manière unique le client, car le client ou le partenaire peut mettre à jour le domaine personnel/default via le portail O365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 <td>exemple.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -246,7 +246,7 @@ Pour rapprocher vos frais des commandes des clients, comparez le Syndication\_Pa
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>Champs de fichier basée sur l’utilisation
+## <a href="" id="usagebasedfiles"></a>Champs de fichier basés sur l’utilisation
 
 
 Pour rapprocher vos frais de l’utilisation des clients, comparez le champ ResellerID/ResellerName/ResellerBillableAccount du fichier de rapprochement, le nom du client et l’ID d’abonnement de l’Espace partenaires.
@@ -282,7 +282,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Client&#39;nom de l’organisation s comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
+<td><p>Nom&#39;de l’organisation du client comme indiqué dans l’espace partenaires. Cela est très important pour rapprocher la facture des informations de votre système.</p></td>
 <td>Client test&nbsp;A</td>
 </tr>
 <tr class="even">
@@ -321,12 +321,12 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <tr class="even">
 <td>SubscriptionName</td>
 <td><p>Pseudo de l’offre de service.</p></td>
-<td>Microsoft Azure</td>
+<td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionDescription</td>
 <td><p>Cœur de métier de l’offre de service</p></td>
-<td>Microsoft Azure</td>
+<td>Microsoft Azure</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -352,7 +352,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
-<td>Nom de ressource</td>
+<td>Nom de la ressource</td>
 <td><p>Nom de la ressource Azure.</p></td>
 <td><ul>
 <li>Transfert de données entrantes (Go)</li>
@@ -403,7 +403,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Frais de quantité, en fonction de votre marché de taxe&#39;les règles de taxe s et des circonstances spécifiques.</p></td>
+<td><p>Frais liés au montant des taxes, en&#39;fonction de vos règles fiscales et de certaines circonstances spécifiques.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -464,7 +464,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Nombre de connexions ServiceBus qui ont été configurées et utilisées sur un jour donné.</p></td>
-<td>Exemple : si vous avez utilisé une connexion configurée individuellement pendant un mois de 30 jours, Service Info 1 indique « 1 connexion/30 jours ». Si vous aviez un pack de 25 connexions ServiceBus mis en service et vous aviez utilisé 1 pendant cette journée, votre relevé d’utilisation quotidienne pour ce jour indiquerait « 25 connexions / 30 jours – utilisé : 1.000000”.</td>
+<td>Exemple : si vous avez utilisé une connexion configurée individuellement pendant un mois de 30 jours, Service Info 1 indique « 1 connexion/30 jours ». Si vous aviez un pack de connexions ServiceBus configuré et que vous avez utilisé 1 pendant cette journée, votre instruction d’utilisation quotidienne pour ce jour indiquera «25 connexions/30 jours – utilisé: 1,000000».</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -473,18 +473,18 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Client&#39;-s nom de domaine, utilisé pour aider à identifier le client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td><p>Nom&#39;de domaine du client, utilisé pour aider à identifier le client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 <td>exemple.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
-<td>Unit</td>
+<td>Unité</td>
 <td><p>Unité de la ressource.</p></td>
 <td>Go ou heures</td>
 </tr>
 </tbody>
 </table>
 
-## <a href="" id="marketplacefilefields"></a>Champs de fichier uniques et récurrentes
+## <a href="" id="marketplacefilefields"></a>Champs de fichier ponctuels et périodiques
 
 <table>
 <colgroup>
@@ -502,12 +502,12 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="odd">
 <td>PartnerId</td>
-<td><p>Identificateur de locataire Microsoft Azure Active Directory unique pour une entité de facturation spécifique, au format GUID. Non requis pour le rapprochement, peut contenir des informations utiles. Identique dans toutes les lignes.</p></td>
+<td><p>Identificateur de locataire unique Microsoft Azure Active Directory pour une entité de facturation spécifique, au format GUID. Non requis pour le rapprochement, peut contenir des informations utiles. Identique dans toutes les lignes.</p></td>
 </tr>
 
 <tr class="even">
-<td>Id du client</td>
-<td><p>Microsoft Azure Active Directory ID de locataire unique, au format GUID, utilisé pour identifier le client.</p></td>
+<td>ID client</td>
+<td><p>ID de locataire unique Microsoft Azure Active Directory, au format GUID, utilisé pour identifier le client.</p></td>
 </tr>
 
 <tr class="odd">
@@ -517,7 +517,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>Nom de domaine du client, afin d’identifier le client. Cela ne doit pas être utilisé pour identifier le client, comme le client/partenaire peut mettre à jour le domaine personnel/par défaut par le biais du portail Office 365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
+<td><p>Nom de domaine du client, afin d’identifier le client. Cela ne doit pas être utilisé pour identifier de manière unique le client, car le client ou le partenaire peut mettre à jour le domaine personnel/default via le portail O365. Ce champ peut rester vide jusqu'au deuxième cycle de facturation.</p></td>
 </tr>
 
 <tr class="odd">
@@ -536,13 +536,13 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="even">
-<td>MpnId du revendeur</td>
+<td>Revendeur MpnId</td>
 <td><p>ID&nbsp;MPN du revendeur de référence pour l’abonnement.</p></td>
 </tr>
 
 <tr class="odd">
 <td>ID de commande</td>
-<td><p>Identificateur unique d’une commande dans la plateforme de commerce de Microsoft. Peut être utile pour identifier la commande lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
+<td><p>Identificateur unique d’une commande dans la plateforme Microsoft Commerce. Peut être utile pour identifier la commande lors du contact avec le support technique, mais pas pour le rapprochement.</p></td>
 </tr>
 
 <tr class="even">
@@ -566,7 +566,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="even">
-<td>Nom de la référence (SKU)</td>
+<td>Nom de la référence</td>
 <td><p>Le titre d'une référence spécifique.</p></td>
 </tr>
 
@@ -577,12 +577,12 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>Nom du serveur de publication du produit.</p></td>
+<td><p>Nom de l’éditeur du produit.</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>ID unique pour ce serveur de publication.</p></td>
+<td><p>ID unique de ce serveur de publication.</p></td>
 </tr>
 
 <tr class="even">
@@ -591,8 +591,8 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="odd">
-<td>ID d’abonnement</td>
-<td><p>Identificateur unique pour un abonnement dans la plateforme de commerce de Microsoft. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement. Ce numéro est différent de l’ID d’abonnement sur la Console d’administration du partenaire.</p></td>
+<td>Identifiant d’abonnement</td>
+<td><p>Identificateur unique d’un abonnement dans la plateforme Microsoft Commerce. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement. Ce numéro est différent de l’ID d’abonnement sur la Console d’administration du partenaire.</p></td>
 </tr>
 
 <tr class="even">
@@ -606,8 +606,8 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="even">
-<td>Terme et Billingcycle</td>
-<td><p>La longueur de terme et d’un cycle de facturation pour l’achat. Par exemple, « 1 an, tous les mois. »</p></td>
+<td>Term et Billingcycle</td>
+<td><p>La durée et le cycle de facturation de l’achat. Par exemple, «1 an, mensuelle.»</p></td>
 </tr>
 
 <tr class="odd">
@@ -617,12 +617,12 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="even">
 <td>Prix unitaire</td>
-<td><p>Le prix publié dans la liste de prix au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
+<td><p>Prix tel qu’il a été publié dans le pricelist au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Prix unitaire efficace</td>
-<td><p>Le prix unitaire après ont apporté des ajustements.</p></td>
+<td>Prix unitaire effectif</td>
+<td><p>Le prix unitaire après ajustements a été effectué.</p></td>
 </tr>
 
 <tr class="even">
@@ -632,12 +632,12 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="odd">
 <td>Type d’unité</td>
-<td><p>Le type d’unité achetée.</p></td>
+<td><p>Type d’unité achetée.</p></td>
 </tr>
 
 <tr class="even">
 <td>DiscountDetails</td>
-<td><p>Explication sur les remises applicables.</p></td>
+<td><p>Une explication de toute remise applicable.</p></td>
 </tr>
 
 <tr class="odd">
@@ -662,13 +662,13 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>Un autre identificateur pour un ID de commande.</p></td>
+<td><p>Autre identificateur à un ID de commande.</p></td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="dailyratedusagefields"></a>Champs de fichier d’utilisation quotidienne-évalués
+## <a href="" id="dailyratedusagefields"></a>Champs du fichier d’utilisation avec évaluation quotidienne
 
 
 <table>
@@ -745,18 +745,18 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="odd">
-<td>Nom de la référence (SKU)</td>
+<td>Nom de la référence</td>
 <td><p>Le titre d'une référence spécifique.</p></td>
 </tr>
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>Le nom du serveur de publication.</p></td>
+<td><p>Nom du serveur de publication.</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>L’ID du serveur de publication, au format GUID. Non disponible pour l’activité en cours.</p></td>
+<td><p>ID du serveur de publication, au format GUID. Non disponible pour l’activité en cours.</p></td>
 </tr>
 
 <tr class=”even">
@@ -765,7 +765,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="odd">
-<td>ID d’abonnement</td>
+<td>Identifiant d’abonnement</td>
 <td><p>Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lors du contact avec le support technique, mais pas pour le rapprochement. Ce numéro est différent de l’ID d’abonnement sur la Console d’administration du partenaire.</p></td>
 </tr>
 
@@ -781,32 +781,32 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="even">
 <td>Date d’utilisation</td>
-<td><p>Date de l’utilisation du service.</p></td>
+<td><p>Date d’utilisation du service.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Type de compteur</td>
-<td><p>Le type de compteur.</p></td>
+<td><p>Type de compteur.</p></td>
 </tr>
 
 <tr class="even">
 <td>Catégorie du compteur</td>
-<td><p>Le service de niveau supérieur pour l’utilisation.</p></td>
+<td><p>Service de niveau supérieur pour l’utilisation.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Id de compteur</td>
-<td><p>L’ID du compteur utilisé.</p></td>
+<td>ID du compteur</td>
+<td><p>ID du compteur utilisé.</p></td>
 </tr>
 
 <tr class="even">
 <td>Sous-catégorie du compteur</td>
-<td><p>Le type de service Azure qui peut affecter le tarif.</p></td>
+<td><p>Type de service Azure pouvant affecter le tarif.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Nom du compteur</td>
-<td><p>L’unité de mesure du compteur consommé.</p></td>
+<td><p>Unité de mesure du compteur consommé.</p></td>
 </tr>
 
 <tr class="even">
@@ -815,8 +815,8 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 </tr>
 
 <tr class="odd">
-<td>Unit</td>
-<td><p>L’unité de la ressource de nom.</p></td>
+<td>Unité</td>
+<td><p>Unité du nom de la ressource.</p></td>
 </tr>
 
 <tr class="even">
@@ -826,18 +826,18 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="odd">
 <td>Emplacement de la ressource</td>
-<td><p>Le centre de données où le compteur est en cours d’exécution.</p></td>
+<td><p>Centre de stockage dans lequel le compteur est en cours d’exécution.</p></td>
 </tr>
 
 <tr class="even">
 <td>Service consommé</td>
-<td><p>Le service de plateforme Azure que vous avez utilisé.</p></td>
+<td><p>Service de plateforme Azure que vous avez utilisé.</p></td>
 </tr>
 
 
 <tr class="even">
 <td>URI de ressource</td>
-<td><p>L’URI de la ressource qui est utilisée.</p></td>
+<td><p>URI de la ressource en cours d’utilisation.</p></td>
 </tr>
 
 <tr class="odd">
@@ -847,7 +847,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="even">
 <td>Prix unitaire</td>
-<td><p>Prix par licence, telles que publiées dans la liste de prix au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
+<td><p>Prix par licence, tel que publié dans le pricelist au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation pendant le rapprochement.</p></td>
 </tr>
 
 <tr class="odd">
@@ -857,27 +857,27 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="even">
 <td>Type d’unité</td>
-<td><p>Le type d’unité dans que le compteur est facturé. Non disponible pour l’activité en cours.</p></td>
+<td><p>Type d’unité dans lequel le compteur est facturé. Non disponible pour l’activité en cours.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Facturation avant impôts</td>
-<td><p>Quantité totale avant impôts.</p></td>
+<td>Facturation préalable</td>
+<td><p>Montant total avant taxes.</p></td>
 </tr>
 
 <tr class="even">
 <td>Devise de facturation</td>
-<td><p>La devise dans la région géographique du client</p></td>
+<td><p>Devise dans la région géographique du client</p></td>
 </tr>
 
 <tr class="odd">
-<td>Prix total avant impôt</td>
-<td><p>La tarification avant les taxes sont ajoutées.</p></td>
+<td>Total de la tarification Tarif</td>
+<td><p>La tarification avant les taxes est ajoutée.</p></td>
 </tr>
 
 <tr class="even">
-<td>Tarification de devise</td>
-<td><p>La devise dans la liste de prix.</p></td>
+<td>Devise de tarification</td>
+<td><p>Devise dans le pricelist.</p></td>
 </tr>
 
 <tr class="odd">
@@ -887,19 +887,19 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="even">
 <td>Informations sur le service 2</td>
-<td><p>Champ hérité capturant les métadonnées facultatives propres au service.</p></td>
+<td><p>Champ hérité qui capture les métadonnées facultatives propres au service.</p></td>
 </tr>
 
 <tr class="even">
 <td>Informations supplémentaires</td>
-<td><p>Toute information supplémentaire non couverte dans d’autres colonnes.</p></td>
+<td><p>Toutes les informations supplémentaires non couvertes dans d’autres colonnes.</p></td>
 </tr>
 
 </tbody>
 </table>
 
 
-## <a href="" id="charge_types"></a>Frais de mappage entre une facture et le fichier de réconciliation
+## <a href="" id="charge_types"></a>Mappage des frais entre une facture et le fichier de réconciliation
 
 Votre facture inclut un récapitulatif des frais, tandis que votre fichier de rapprochement fournit une description détaillée des transactions de chaque ligne d'élément, et indique également les types de frais.
 
@@ -916,18 +916,18 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p><strong>Description des frais de facture</strong></p>
 </td>
 <td>
-<p><strong>Description des frais fichier de réconciliation (colonne ChargeType)</strong></p>
+<p><strong>Description des frais de fichier de réconciliation (colonne ChargeType)</strong></p>
 </td>
 <td>
-<p><strong>Qu’est ce coût ?</strong></p>
+<p><strong>Quels sont les frais?</strong></p>
 </td>
 <td>
-<p><strong>Comment pour mapper ces ChargeTypes à la facture ?</strong></p>
+<p><strong>Comment faire mapper ces ChargeTypes à la facture?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Frais sous licence</strong></p>
+<p><strong>Frais basés sur les licences</strong></p>
 </td>
 <td>
 <p>Frais d'activation</p>
@@ -976,7 +976,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>Frais au prorata à l'achat</p>
 </td>
 <td>
-<p>Le type de frais pour un abonnement lors de l’utilisation de facturation annuelle</p>
+<p>Type de frais d’un abonnement lors de l’utilisation de la facturation annuelle</p>
 </td>
 </tr>
 <tr>
@@ -984,7 +984,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>Frais d’abonnement</p>
 </td>
 <td>
-<p>Le type de frais pour un abonnement lors de l’utilisation de la facturation mensuelle</p>
+<p>Type de frais d’un abonnement lors de l’utilisation de la facturation mensuelle</p>
 </td>
 </tr>
 <tr>
@@ -1024,7 +1024,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>Nouveau</p>
 </td>
 <td>
-<p>Utilisé lors de l’achat d’un nouveau est créé.</p>
+<p>Utilisé lors de la création d’un nouvel achat</p>
 </td>
 
 <p></p>
@@ -1035,7 +1035,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>addQuantity</p>
 </td>
 <td>
-<p>Utilisé dans les deux la restitution de l’achat d’origine et la quantité de nouveau après augmentation</p>
+<p>Utilisé dans le remboursement de l’achat d’origine et la nouvelle quantité après l’augmentation</p>
 </td>
 </tr>
 
@@ -1045,17 +1045,17 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p>removeQuantity</p>
 </td>
 <td>
-<p>Utilisé dans les deux la restitution de l’achat d’origine et la quantité de nouveau après réduction</p>
+<p>Utilisé dans le remboursement de l’achat d’origine et la nouvelle quantité après réduction</p>
 </td>
 </tr>
 
 </tr>
 <tr>
 <td>
-<p>Cancel</p>
+<p>Annuler</p>
 </td>
 <td>
-<p>Utilisé quand un abonnement est annulé.</p>
+<p>Utilisé lors de l’annulation d’un abonnement</p>
 </td>
 </tr>
 
@@ -1094,7 +1094,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 
 <tr>
 <td>
-<p><strong>Crédits</strong></p>
+<p><strong>Réserve</strong></p>
 </td>
 <td>
 <p>Décalage d’un élément de ligne</p>
@@ -1109,7 +1109,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Basée sur l’utilisation des remises</strong></p>
+<p><strong>Remises basées sur l’utilisation</strong></p>
 </td>
 <td>
 <p>Remise sur l’activation</p>
@@ -1150,7 +1150,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 
 <tr>
 <td>
-<p><strong>Remises sous licence</strong></p>
+<p><strong>Remises basées sur une licence</strong></p>
 </td>
 <td>
 <p><em>Peut être appliqué à plusieurs types de frais</em></p>
@@ -1164,11 +1164,11 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td>
-<p><strong>Taxes</strong>  &nbsp;ou&nbsp;<strong>TVA</strong></p>
+<p> &nbsp;ou&nbsp;<strong>TVA</strong></p>
 </td>
 <td>
 <p><em>Peut être appliqué à plusieurs types de frais</em></p>
-<p><em>Exception : &quot;Compense un élément de ligne&quot; inclut déjà des taxes. Consultez des crédits, ci-dessus.</em></p>
+<p><em>Exception : &quot;Le décalage d’un&quot; élément de ligne comprend déjà les taxes. Consultez crédits, ci-dessus.</em></p>
 </td>
 <td>
 <p>Taxes ou taxe sur la valeur ajoutée (TVA)</p>
