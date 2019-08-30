@@ -72,6 +72,7 @@
 ## [Références](referrals.md)
 ### [Créer un profil commercial](create-a-marketing-profile.md)
 ### [Répondre à des références](responding-to-referrals.md)
+### [Enregistrer vos transactions](register-deals.md)
 ### [Co-vendre avec Microsoft](co-sell-with-microsoft.md)
 ### [Obtenir des insights de référence](referral-insights.md)
 ### [Analyser votre profil commercial](analyze-your-marketing-profile.md)
@@ -96,7 +97,6 @@
 ## [Définir un budget Azure pour vos clients](set-an-azure-spending-budget-for-your-customers.md)
 ## [Exemples de facturation courants](common-billing-scenarios.md)
 ## [Défaut de paiement, fraude ou mauvaise utilisation](non-payment--fraud--or-misuse.md)
-## [Services RTC](o365-e5-in-csp-advisory.md)
 
 # [Entrer en contact avec les clients](customer-accounts.md)
 ## [Ajouter un client](add-a-new-customer.md)
