@@ -1,48 +1,46 @@
 ---
-title: 'Clients du Centre d’administration des partenaires Office 365 : les opérations de l’entreprise vont migrer vers l’Espace partenaires| Espace partenaires'
+title: 'Partenaires du Centre d’administration des partenaires Office 365 : les opérations d’entreprise vont migrer vers l’Espace partenaires| Espace partenaires'
 ms.topic: article
-ms.date: 03/15/2019
-description: Points clés pour la migration des clients du Centre d’administration des partenaires Office 365 vers l’Espace partenaires
+ms.date: 08/22/2019
+description: Points clés relatifs aux partenaires du Centre d’administration des partenaires Office 365 pour la migration vers l’Espace partenaires
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fb32c86c623044dc42a2ba746a4efe0aca568e04
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 601563734a460be31cfba9beaa7d5d447769a730
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134259"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993971"
 ---
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Partenaire admin center les clients Office 365 : Préparez-vous à déplacer les opérations de l’entreprise pour les partenaires
+# <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Partenaires du Centre d’administration des partenaires Office 365 : Préparer la migration des opérations d’entreprise vers l’Espace partenaires
 
 **S’applique à** 
 
 - Espace partenaires
 - Centre d’administration des partenaires Office 365
 
-Nous ajoutons les fonctionnalités du Centre d’administration des partenaires Office 365 à l’Espace partenaires pour vous aider à gérer vos clients tout au long du cycle de vie de l’entreprise. Outre les fonctionnalités auxquelles vous êtes habitué, vous aurez désormais accès aux fonctions suivantes : 
+Nous ajoutons les fonctionnalités du Centre d’administration des partenaires Office 365 à l’Espace partenaires pour vous aider à gérer vos clients tout au long du cycle de vie de l’entreprise. En plus des fonctionnalités auxquelles vous êtes habitué, vous allez désormais pouvoir : 
 
-*  Développer votre activité au moyen de [références](referrals.md)et gérer vos nouveaux clients.
-*  Envoyer des invitations à établir des relations à des clients à la fois pour votre compte et celui de votre fournisseur
+*  Développer votre activité grâce aux [références](referrals.md) et gérer vos nouveaux clients au fur et à mesure de leur arrivée
+*  Envoyer aux clients des invitations à établir des relations à la fois en votre nom et au nom de votre fournisseur
 *  Gérer des utilisateurs individuels et attribuer des licences plus facilement
 
-Vous pouvez commencer à utiliser l'Espace partenaires immédiatement pour la plupart des tâches que vous utilisez actuellement dans le Centre d’administration des partenaires Office 365. 
+Vous pouvez commencer à utiliser l’Espace partenaires immédiatement pour la plupart des tâches que vous effectuez dans le Centre d’administration des partenaires Office 365. 
 
-Pour l’instant, les deux sites sont pris en charge, donc le temps d'effectuer la transition vers le nouveau site, vous serez toujours en mesure d’utiliser le Centre d’administration des partenaires Office 365. Les modifications apportées à un seul endroit s'afficheront dans les deux sites.
+Pour le moment, les deux sites sont pris en charge. Ainsi, pendant que vous effectuez votre transition vers le nouveau site, vous pouvez continuer à utiliser le Centre d’administration des partenaires Office 365. Les changements apportés à un emplacement s’affichent aux deux emplacements.
 
-Nous espérons que cette nouvelle expérience vous plaira !
+## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Trouver les fonctionnalités du Centre d’administration des partenaires Office 365 dans l’Espace partenaires
 
-## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Trouver les fonctionnalités du Centre d’administration des partenaires Office 365 dans l'Espace partenaires
+Vous ne pouvez pas effectuer les tâches dans l’Espace partenaires de la même façon que vous le faisiez dans le Centre d’administration des partenaires Office 365. Voici comment les effectuer dans l’Espace partenaires.
 
-Les tâches dans l'Espace partenaires s’effectue différemment par rapport à vos habitudes dans le Centre d’administration des partenaires Office 365. Voici comment les exécuter dans l’Espace partenaires.
-
-| Fonctionnalité du Centre d’administration des partenaires Office 365                       | Où la trouver dans l’Espace partenaires ? | 
+| Fonctionnalité du Centre d’administration des partenaires Office 365                       | Où se trouve-t-elle dans l’Espace partenaires ? | 
 |   -----------------------------------------------  | -------------- |
-| Créez votre entreprise : Créer l’offre d’achat | Collaborer avec votre fournisseur pour vendre des offres à vos clients |
-| Créez votre entreprise : Demander des autorisations d’administrateur délégué | Partenaires : Les clients > demander une relation de revendeur |
-| Créez votre entreprise : Créer des offres d’évaluation | Non disponible. Vous pouvez toujours utiliser le Centre d’administration des partenaires Office 365 pour cela |
-| Demandes de service : Liste de client : Centre d’administration Office 365 | Partenaires : Les clients > administrer des services |
-| Demandes de service : Liste de client : Demandes de service | Partenaires : Demande de service > demandes des clients |
-| Demandes de service : Avec indicateur | Dasbhoard : Les clients : sélectionnez l’étoile en regard du nom de l’entreprise |
-| Demande de service > Administration des clients > Administration pour le compte de (AOBO) | Partenaires : Les clients > sélectionnez un client > sélectionnez un abonnement > sélectionnez le revendeur produit désigné |
+| Créer votre activité : Créer une offre d’achat | Collaborer avec votre fournisseur pour vendre des offres à vos clients |
+| Créer votre activité : Demander les autorisations d’administrateur délégué | Espace partenaires : Clients > Demander une relation de revendeur |
+| Créer votre activité : Créer une invitation à participer à la version d’évaluation | Non disponible. Vous pouvez toujours utiliser le Centre d’administration des partenaires Office 365 pour cette fonctionnalité |
+| Demandes de service : Liste des clients : Centre d’administration Office 365 | Espace partenaires : Clients > Administrer les services |
+| Demandes de service : Liste des clients : Demandes de service | Espace partenaires : Demande de service > Demandes du client |
+| Demandes de service : Avec indicateur | Tableau de bord : Clients : sélectionnez l’étoile en regard du nom de l’entreprise |
+| Demande de service > Administration des clients > Administrateur pour le compte de | Espace partenaires : Clients > sélectionnez un client > sélectionnez un abonnement > sélectionnez le revendeur du produit désigné |
 
