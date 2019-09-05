@@ -1,19 +1,19 @@
 ---
 title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 08/29/2019
 description: Cet article inclut des liens vers les guides, les accords de partenariat, les contrats clients, les tarifs et les offres du programme Fournisseur de solutions Cloud.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutions Cloud, guide du programme, accords de partenariat, contrat client, tarifs, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993972"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259914"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 
@@ -33,24 +33,6 @@ Passez en revue les exigences nécessaires pour devenir un partenaire du program
 
 >[!Note]
 >Si vous avez besoin d’une lettre d’accréditation confirmant ou certifiant votre statut de partenaire Microsoft agréé du programme Fournisseur de solutions Cloud, [contactez le support](https://partner.microsoft.com/pcv/servicerequests/create) pour en demander une.
-
-## <a name="cloud-solution-provider-partner-agreement"></a>Accord de partenariat du programme Fournisseur de solutions Cloud
-
-Microsoft requiert que les partenaires signent le présent contrat pour rejoindre le programme Fournisseur de solutions cloud. Passez en revue le guide du marché ou du cloud national où vous avez l’intention de vendre.
-
-[Contrat de revendeur Microsoft Cloud - Amérique du Nord, Amérique Centrale, Amérique du Sud et Caraïbes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
-
-[Contrat de revendeur Microsoft Cloud - Asie, Australie et Pacifique](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Contrat de revendeur Microsoft Cloud - Europe, Moyen-Orient et Afrique](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Contrat de revendeur Microsoft Cloud - Japon](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
-
-[Contrat de revendeur Microsoft Cloud - Corée](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
-
-[Contrat de revendeur Microsoft Cloud - Taïwan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
-
-[Contrat de revendeur Microsoft Cloud - Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Modèles clients de contrat Microsoft Cloud
 
