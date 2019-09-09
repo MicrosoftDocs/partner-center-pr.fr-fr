@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 32bae49c23dd471e3b6be8415573361b758dce57
-ms.sourcegitcommit: 30ceee7d22f24f79cac15c537b1c3fc7ab8d700c
+ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69999661"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259929"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passage de PMC à l’Espace partenaires
 
@@ -59,6 +59,12 @@ Ce tableau présente certaines des différences entre PMC et l’Espace partenai
 |Compétences et avantages répartis et divisés entre plusieurs sites|Les compétences et avantages liés à tous vos sites sont consolidés au niveau de l’entreprise (PGA). Ils sont conservés jusqu’à la date anniversaire. À cette date, vous devez effectuer un achat ou un renouvellement au niveau de l’entreprise. Les performances et les qualifications ainsi que les compétences sont agrégées globalement|
 |Les réclamations de bons Software Assurance sont effectuées dans l’outil VVR (Validation/Remboursement de bons)|Vous pouvez désormais accéder aux SATV (bons de formation Software Assurance) et/ou aux DPS (services de planification déployés) dans l’Espace partenaires, et les gérer.  L’outil VVR hérité va être désactivé le 1er octobre 2019.  |
 
+## <a name="associating-mcp-ids-to-partner-center"></a>Association des ID MCP à l’Espace partenaires
+
+|**PMC**   |**Espace partenaires**   |
+|-------------------------|:-------------------|
+|Vous pouvez associer le même ID MCP à plusieurs sociétés.| Un seul ID MCP peut être associé à un même compte de l’Espace partenaires. Vous devez manuellement procéder à l'association. Dans le tableau de bord de l’Espace partenaires, sélectionnez l'icône **Votre compte** située dans le coin supérieur droit, puis **Mon profil**. Sous **Votre formation**, vous pouvez associer votre compte Microsoft Learning et connecter votre compte Microsoft à l’Université des partenaires.
+
 ## <a name="visual-studio-benefits-and-msa"></a>Avantages Visual Studio et comptes MSA
 
 |**PMC**   |**Espace partenaires**   |
@@ -78,7 +84,7 @@ Ce tableau présente certaines des différences entre PMC et l’Espace partenai
 |Outil de validation et d’échange de bons| Outil de validation et d’échange de bons|
 |           |Programme Fournisseur de solutions Cloud|
 
-Oui. Les avantages Visual Studio alloués aux comptes MSA vont être honorés et conservés. Ils sont également conservés après l’opération de renouvellement dans l’Espace partenaires. Toutefois, si vous supprimez une allocation de compte MSA une fois la migration effectuée dans l’Espace partenaires, vous ne pourrez plus la réintégrer dans l’Espace partenaires.
+Les avantages Visual Studio alloués aux comptes MSA vont être honorés et conservés. Ils sont également conservés après l’opération de renouvellement dans l’Espace partenaires. Toutefois, si vous supprimez une allocation de compte MSA une fois la migration effectuée dans l’Espace partenaires, vous ne pourrez plus la réintégrer dans l’Espace partenaires.
 
 Dans l’Espace partenaires, un partenaire peut ajouter des comptes professionnels et des comptes d’utilisateur invité représentant des comptes MSA du locataire où le partenaire est l’administrateur MPN sur le locataire Azure AD. Si le partenaire est administrateur général de plusieurs locataires Azure AD, et si tous ces locataires sont associés au même compte de l’Espace partenaires, le partenaire est autorisé à ajouter des utilisateurs à l’ensemble des locataires dans le cadre des allocations d’avantages Visual Studio et des allocations basées sur l’utilisation d’Azure.
 

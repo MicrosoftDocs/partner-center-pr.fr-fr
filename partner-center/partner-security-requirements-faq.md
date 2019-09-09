@@ -1,18 +1,18 @@
 ---
 title: Questions fréquentes (FAQ) sur les exigences de sécurité du partenaire | Espace partenaires
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 08/30/2019
 description: Questions fréquentes sur les exigences de sécurité du partenaire
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: medium
-ms.openlocfilehash: 54ac919aeadec85b941e0dce9b1556df843e5fcb
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "70020543"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215658"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 
@@ -85,8 +85,8 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
 
     - Les fournisseurs indirects doivent collaborer avec les revendeurs indirects pour intégrer l’Espace partenaires, s’ils ne l’ont pas déjà fait, et encourager leurs revendeurs à satisfaire aux exigences.
     - Azure MFA est mis gratuitement à la disposition de tous les utilisateurs du locataire de partenaire via les stratégies de base de référence avec pour seule méthode de vérification l’[application Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
-    - Des méthodes de vérification supplémentaires sont disponibles via les références SKU d’[Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium), si d’autres méthodes telles que l’envoi de SMS ou d’e-mails sont nécessaires.
-    - Les partenaires peuvent également tirer parti d’une solution d’authentification MFA tierce pour chaque utilisateur qui accède aux services cloud commerciaux Microsoft.
+    - Des méthodes de vérification supplémentaires sont disponibles via les références SKU d’[Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium), si d’autres méthodes telles qu'un appel téléphonique ou SMS sont nécessaires.
+    - Les partenaires peuvent également tirer parti d’une solution d’authentification MFA tierce pour chaque compte qui accède aux services cloud commerciaux Microsoft.
 
 2. **Adopter le framework du modèle d’application sécurisé**
 
@@ -94,10 +94,10 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
 
     - [Vue d’ensemble du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
     - [Espace partenaires : guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-    - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+    - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+    - [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
     Si vous utilisez un panneau de contrôle, vous devez consulter le fournisseur concernant l’adoption du framework du modèle d’application sécurisé.
 
@@ -122,7 +122,7 @@ Les [stratégies de protection de base de référence Microsoft](https://docs.mi
 
 ### <a name="what-baseline-policies-must-i-enable"></a>Quelles stratégies de base de référence dois-je activer ?
 
-Si vous comptez utiliser les stratégies de protection de base de référence actuelles pour fournir une authentification MFA à chaque utilisateur du locataire du partenaire, vous devez activer les stratégies de base de référence [Exiger l’authentification MFA pour les administrateurs](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) et [Protection de l’utilisateur final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). Ces stratégies de protection de base de référence répondent à l’exigence d’authentification MFA de chaque utilisateur du locataire du partenaire. Elles sont gratuites et s’adressent uniquement aux partenaires qui utilisent les applications Microsoft Authenticator via un appareil mobile.
+Si vous comptez utiliser les stratégies de protection de base de référence actuelles pour fournir une authentification MFA à chaque compte du locataire du partenaire, vous devez activer les stratégies de base de référence [Exiger l’authentification MFA pour les administrateurs](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) et [Protection de l’utilisateur final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). Ces stratégies de protection de base de référence répondent à l’exigence d’authentification MFA de chaque utilisateur du locataire du partenaire. Elles sont gratuites et s’adressent uniquement aux partenaires qui utilisent les applications Microsoft Authenticator via un appareil mobile.
 
 La stratégie de base de référence [Exiger l’authentification MFA pour les administrateurs](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) permet de protéger les utilisateurs administratifs de l’annuaire du partenaire, tandis que la stratégie de base de référence [Protection de l’utilisateur final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) sert à protéger les utilisateurs non administratifs du locataire du partenaire. L’activation de ces stratégies oblige les utilisateurs à s’inscrire dans le cadre de l’authentification MFA. Une fois l’utilisateur correctement inscrit, il est soumis à une authentification MFA durant ses tentatives de connexion, en fonction des critères de la stratégie appliquée. Les fonctionnalités fournies par les stratégies de base de référence vont continuer d’évoluer pour garantir la protection des partenaires et des clients contre les menaces de sécurité en perpétuelle évolution. Il est donc important de consulter la [documentation sur les stratégies de base de référence](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) pour en savoir plus.
 
@@ -246,10 +246,10 @@ Tous les partenaires qui ont développé une intégration personnalisée à l’
 
 - [Vue d’ensemble du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [Espace partenaires : guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 Si vous utilisez un panneau de contrôle, vous devez consulter le fournisseur concernant l’adoption du framework du modèle d’application sécurisé.
 
@@ -333,10 +333,10 @@ Non, les partenaires fournisseurs de panneaux de contrôle ne peuvent pas utilis
 
 - [Vue d’ensemble du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [Espace partenaires : guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>Support
 
@@ -353,6 +353,10 @@ Pour obtenir des ressources de support répondant aux exigences de sécurité, s
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>Comment puis-je obtenir des informations techniques et un support pour m’aider à adopter le framework de modèle d’application sécurisé ?
 
 Les options de support technique pour Azure Active Directory sont disponibles via vos avantages MPN. Les partenaires ayant accès à un abonnement ASfP ou PSfP actif peuvent travailler conjointement avec leur responsable de compte associé (gestionnaire des actifs logiciels/responsable technique de compte) pour mieux comprendre les options disponibles.
+
+### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Comment contacter le support en cas de perte d'accès à l'Espace partenaires ?
+
+Accédez au [Support des partenaires Microsoft](https://partner.microsoft.com/support), puis sélectionnez **Afficher toutes les options de support**. Les options permettant de contacter le Support des partenaires Microsoft s'affichent. Celles-ci incluent un numéro de téléphone pour appeler le support et une option pour converser avec le support. 
 
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Où puis-je trouver plus d’informations sur les problèmes techniques courants ?
 
