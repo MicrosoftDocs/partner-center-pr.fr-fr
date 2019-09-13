@@ -10,7 +10,7 @@ Keywords: gestion de client, compte, créer le compte, licences, affecter une li
 ms.localizationpriority: medium
 ms.openlocfilehash: fa8aabcc668630906fa2c9b3a88abbaee8a89693
 ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/13/2019
 ms.locfileid: "67044991"
