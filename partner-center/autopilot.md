@@ -9,7 +9,7 @@ keywords: Autopilot, Windows AutoPilot, Microsoft AutoPilot, déploiement Zero T
 ms.localizationpriority: medium
 ms.openlocfilehash: 213ed9e45e0109eaa88d7575249272ba403dfcfd
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708742"

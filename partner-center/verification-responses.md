@@ -9,7 +9,7 @@ Keywords: vérification, vérifier, rejetée, la mise à jour du profil de parte
 ms.localizationpriority: medium
 ms.openlocfilehash: 6b9f52b55048bd6d3173469e1e1a45f94ca004e6
 ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/17/2019
 ms.locfileid: "67160605"

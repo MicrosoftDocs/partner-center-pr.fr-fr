@@ -9,7 +9,7 @@ keywords: Contrats de Cloud Microsoft, modèles d’accord client, contrats clie
 ms.localizationpriority: medium
 ms.openlocfilehash: 4a7ada9f4f42eb7b016dd48043e3529c7a6225f0
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708728"
