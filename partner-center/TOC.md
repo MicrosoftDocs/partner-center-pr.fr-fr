@@ -80,6 +80,7 @@
 ## [Revendications de primes incitatives](claims-overview.md)
 ### [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)
 ### [Conditions requises pour les revendications de primes incitatives](core-requirements.md)
+### [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)
 ### [Comprendre le paiement de vos primes incitatives](understand-incentive-payouts.md)
 ### [Envoyer vos demandes OSA dans l’Espace partenaires](submit-osa-claim.md)
 ### [Rechercher le nom de domaine et l’ID de répertoire de votre client pour les revendications de primes incitatives](find-customer-domain-name.md)
