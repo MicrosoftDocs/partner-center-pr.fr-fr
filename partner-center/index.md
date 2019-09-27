@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: Commencer ici pour obtenir de l’aide sur l’Espace partenaires
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: L’Espace partenaires peut vous aider à développer votre activité avec le programme CSP (Cloud Solution Provider) de Microsoft. Configurez votre compte, entrez en relation avec des clients, achetez un abonnement Action Pack et trouvez plus d’informations sur les partenaires des programmes CSP et MPN. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035524"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318886"
 ---
 # <a name="welcome-to-partner-center"></a>Bienvenue dans l’Espace partenaires
 
@@ -87,7 +87,7 @@ L’Espace partenaires de Microsoft est l’endroit incontournable qui vous perm
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>Passer de PMC à l’Espace partenaires</h3>
-                        <p>Découvrez comment préparer votre entreprise à la migration vers l’Espace partenaires</p></a>
+                        <p>Préparer votre entreprise au passage à l’Espace partenaires</p></a>
                     </div>
                 </div>
             </div>
