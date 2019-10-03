@@ -28,7 +28,6 @@
 ### [Factures et taxes dans le Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Testez les nouvelles fonctionnalités](test-drive-new-features.md)
 
-
 # [Fournisseur de solutions cloud](csp-overview.md)
 ## [S’inscrire au programme Fournisseur de solutions cloud](enrolling-in-the-csp-program.md)
 ## [Contrat Partenaire Microsoft pour les partenaires fournisseurs de solutions Cloud](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [Marchés et monnaies régionaux des fournisseurs de solutions cloud](regional-authorization-overview.md)
 ## [Confirmer l’acceptation du contrat Microsoft Cloud par le client](confirm-consent.md)
 ## [Confirmer l’acceptation du contrat client Microsoft par le client (préversion)](confirm-customer-agreement.md)
-
 
 ## [Appliquer pour vendre sur des clouds nationaux](csp-national-clouds-overview.md)
 ### [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [Comprendre le paiement de vos primes incitatives](understand-incentive-payouts.md)
 ### [Envoyer vos demandes OSA dans l’Espace partenaires](submit-osa-claim.md)
 ### [Rechercher le nom de domaine et l’ID de répertoire de votre client pour les revendications de primes incitatives](find-customer-domain-name.md)
-
 
 # [Facturation et taxes](billing.md)
 ## [Questions fréquentes (FAQ) sur la facturation](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [Support autonome du client](customer-self-support.md)
 ## [Faire remonter les problèmes à Microsoft](escalate-problems-to-microsoft.md)
 
-# Sécurité
-## [Exigences de sécurité du partenaire](partner-security-requirements.md)
-## [Questions fréquentes (FAQ) sur les exigences de sécurité du partenaire](partner-security-requirements-faq.md)
-## [État de conformité de la sécurité du partenaire](partner-security-compliance.md)
+# Configuration de sécurité requise
+## [Vue d’ensemble](partner-security-requirements.md)
+## [État de la conformité](partner-security-compliance.md)
+## [Forum Aux Questions](partner-security-requirements-faq.md)
 
 # Didacticiels
 ## [Implémentation des exigences de sécurité du partenaire](tutorials/partner-security-requirements.yml)
