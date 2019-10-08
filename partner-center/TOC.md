@@ -78,10 +78,12 @@
 ## [Revendications de primes incitatives](claims-overview.md)
 ### [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)
 ### [Conditions requises pour les revendications de primes incitatives](core-requirements.md)
+
+
 ### [Comprendre vos informations de paiement](incentives-unified-user-guide.md)
-### [Comprendre le paiement de vos primes incitatives](understand-incentive-payouts.md)
-### [Envoyer vos demandes OSA dans l’Espace partenaires](submit-osa-claim.md)
-### [Rechercher le nom de domaine et l’ID de répertoire de votre client pour les revendications de primes incitatives](find-customer-domain-name.md)
+
+### [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)
+
 
 # [Facturation et taxes](billing.md)
 ## [Questions fréquentes (FAQ) sur la facturation](faq-about-new-billing-features.md)
@@ -168,7 +170,7 @@
 
 # Configuration de sécurité requise
 ## [Vue d’ensemble](partner-security-requirements.md)
-## [État de la conformité](partner-security-compliance.md)
+## [État de la configuration requise](partner-security-compliance.md)
 ## [Forum Aux Questions](partner-security-requirements-faq.md)
 
 # Didacticiels
