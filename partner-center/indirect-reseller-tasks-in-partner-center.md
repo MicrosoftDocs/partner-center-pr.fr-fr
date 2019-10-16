@@ -7,14 +7,14 @@ ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau 2, de niveau 2
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 5f424bc779bf86bfc278f969d4bbf0ea72729182
-ms.sourcegitcommit: 4276856f46d8d53c4878ba9d176c10e9607366b8
+ms.openlocfilehash: f412b94fd700fe429a7128a6226874fe47fe7776
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68935488"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318871"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -55,7 +55,7 @@ Nous avons besoin de ces informations pour vérifier que votre entreprise dispos
  
 Veuillez noter qu’il peut nous falloir plusieurs jours pour examiner et vérifier les informations que vous avez fournies. Nous enverrons un e-mail à votre contact principal lorsque nous en aurons terminé.
 
-### <a name="get-started"></a>Prise en main
+### <a name="get-started"></a>Démarrer
 
 1.  Lancez le processus d’inscription [ici](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
