@@ -1,19 +1,19 @@
 ---
 title: Présentation des types de facturation dans l’Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 10/04/2019
 Description: Informations relatives aux différents types de facturation, périodes de facturation et dates de facturation
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation, paiements, commandes, fichiers de rapprochement, fichier de rapp
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38ad28fb74968d351d6031e21446f02d22f7e4fa
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 28a5405a033061e5665d0f1e5f937cd3951f09b9
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70134620"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997837"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>Présentation des types de facturation dans l’Espace partenaires
 
@@ -44,7 +44,7 @@ Vous accédez à vos factures comme précédemment, dans l’Espace partenaires 
 
 |**Expérience de facturation**|**Type(s) de produit**|**Date de facturation**|**Période de facturation**|**Devise de facturation**|**Activité actuelle disponible ?**|
 |:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-|Frais récurrents des abonnements basés sur la licence et l’utilisation |Tous les produits du [catalogue de services en ligne](https://partner.microsoft.com/commerce/preferredoffers/list). Exemples : Office 365, Microsoft 365, Azure Active Directory, Azure (paiement à l’utilisation), Dynamics 365, PowerBI Pro |Date que vous avez sélectionnée lors de la création de votre compte Espace partenaires |Mois précédant votre date de facturation. |Devise du pays ou de la région où vous vous trouvez. Par exemple, si votre entreprise est située au Royaume-Uni, nous vous facturons en livres sterling (GBP). Si votre entreprise est située en Inde, nous vous facturerons en roupies indiennes (INR).  |Non |
+|Frais récurrents des abonnements basés sur la licence et l’utilisation |Tous les produits du [catalogue de services en ligne](https://partner.microsoft.com/commerce/preferredoffers/list). Exemples : Office 365, Microsoft 365, Azure Active Directory, Azure (paiement à l’utilisation), Dynamics 365, PowerBI Pro |Date que vous avez sélectionnée lors de la création de votre compte Espace partenaires |Mois précédant votre date de facturation. |Devise du pays ou de la région où vous vous trouvez. Par exemple, si votre entreprise est située au Royaume-Uni, nous vous facturons en livres sterling (GBP). Si votre entreprise est située en Inde, nous vous facturerons en roupies indiennes (INR).  |non |
 |Frais récurrents et ponctuels pour les produits ISV Microsoft et tiers |Tous les abonnements SaaS, réservations Azure et produits logiciels (perpétuels et basés sur un abonnement) proposés par Microsoft et des éditeurs de logiciels indépendants. Consultez les produits disponibles sur la [Place de marché](https://partner.microsoft.com/commerce/sales?type=Any&category=Any). À titre d'exemple, le logiciel SUSE Linux (abonnement logiciel), Windows Server 2019 Essentials (logiciel perpétuel) et l’abonnement au produit Azure ISV SaaS y figurent. |Le 8 de chaque mois |Du premier au dernier jour de chaque mois civil |Devise du pays/région où se trouve votre client. Vous recevez des factures et fichiers de rapprochement distincts dans la devise du pays ou de la région de chaque client auquel vous avez vendu un produit au cours de la période de facturation. |Oui |
 
 ## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>Scénarios de facturation des achats ponctuels et périodiques
@@ -160,3 +160,23 @@ Dans ce scénario, vous achetez un abonnement SaaS avec compteur personnalisé s
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
 |10/06/2019 (vous avez 1 licence) |Bronze     |10/06/2019   |10/06/2019         |10 $        |1         |10 $            |Nouveau      |
 |10/06/2019 (vous n'avez aucune licence) |Bronze    | 10/06/2019    |10/06/2019        |10 $        |1       | -10 $       |CancelImmediate  |
+
+## <a name="billing-under-the-azure-plan"></a>Facturation dans le cadre du plan Azure
+
+- **Date**de la facture : le fichier de facture et de rapprochement sera disponible dans le tableau de bord/API de l’espace partenaires du 8 (minuit UTC).
+
+- **Période de facturation**de la facture : la période de facturation de la facture est alignée sur le mois civil, par exemple, 10/1-10/31, 11/1-11/30).
+
+- **Chargez les périodes de service**: les frais seront alignés sur le mois calendaire. Par exemple, si le partenaire facturé ajoute des services Azure par le biais d’un plan Azure sur 10/15 et que le client commence la consommation des services Azure sur 10/15, le partenaire facturé reçoit la facture/le rapprochement sur 11/8 pour la consommation client pour la période de service 10/15-10/31. La facture du mois suivant qui va être générée sur 12/8 contient tous les frais pour la période de service 11/1-11/31.
+
+- **Conditions de paiement**de la facture : net 60 jours.
+
+- **Devise**de la facture : les partenaires continuent à être facturés dans la devise country’s affectée du client. Par exemple, si le partenaire facturé est en Irlande avec des clients au Royaume-Uni, en Norvège et en Allemagne, le partenaire facturé recevra une facture/conciliation EUR, NOK et EUR.
+
+- **Incentives partenaires**: 45 jours à partir de la fin du mois de la facture.
+
+Pour plus d’informations sur le plan Azure, consultez :
+
+- [Plan Azure-vue d’ensemble](azure-plan-get-started.md)
+
+- [Plan Azure-facturation](azure-plan-billing.md)

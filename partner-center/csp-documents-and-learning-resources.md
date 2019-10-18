@@ -1,19 +1,19 @@
 ---
 title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 08/29/2019
+ms.date: 09/23/2019
 description: Cet article inclut des liens vers les guides, les accords de partenariat, les contrats clients, les tarifs et les offres du programme Fournisseur de solutions Cloud.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutions Cloud, guide du programme, accords de partenariat, contrat client, tarifs, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
+ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259914"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "71204632"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 
@@ -33,6 +33,10 @@ Passez en revue les exigences nécessaires pour devenir un partenaire du program
 
 >[!Note]
 >Si vous avez besoin d’une lettre d’accréditation confirmant ou certifiant votre statut de partenaire Microsoft agréé du programme Fournisseur de solutions Cloud, [contactez le support](https://partner.microsoft.com/pcv/servicerequests/create) pour en demander une.
+
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Conditions supplémentaires pour l’accord de partenariat Microsoft
+
+[Guide des conditions de l’offre supplémentaire pour les abonnements aux services en ligne et l’autorisation du canal logiciel](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Modèles clients de contrat Microsoft Cloud
 
@@ -55,9 +59,9 @@ Si vous faites des affaires en Allemagne, vous devrez peut-être fournir cet ave
 
 Téléchargez les détails tarifaires des achats définitifs, basés sur la licence et basés sur l’utilisation à partir de la page **Tarification et offres**, disponible dans le menu **Espace partenaires**.
 
-La liste de prix basée sur des licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30 jours avant qu’elle n’entre en vigueur. Office 365, Enterprise Mobility Suite et Microsoft Dynamics CRM sont des exemples de services basés sur les licences. 
+La liste de prix basée sur les licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30 jours avant qu'elle n'entre en vigueur. Office 365, Enterprise Mobility Suite et Microsoft Dynamics CRM sont des exemples de services basés sur les licences. 
 
-La tarification basée sur l’utilisation est dynamique et change fréquemment. Microsoft Azure est un exemple de service basé sur l’utilisation.
+La tarification basée sur l'utilisation est dynamique et change fréquemment. Microsoft Azure est un exemple de service basé sur l’utilisation.
 
 La tarification d’un achat définitif est également dynamique. Les réservations Microsoft Azure et les abonnements correspondants à Windows Server et SQL Server sont des exemples d’achats définitifs.
 

@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259929"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921473"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passage de PMC à l’Espace partenaires
 
 Nous vous facilitons la tâche pour vos relations commerciales en mettant en place un seul site web (Espace partenaires) qui sert de point central d’engagement. Vous constaterez que tout ce que vous avez fait dans le PMC (Partner Membership Center) peut l’être également à partir de votre tableau de bord dans l’Espace partenaires. 
 
-Vous pouvez également en faire beaucoup plus, sans avoir à quitter le site web. Une partie de la terminologie et des fonctionnalités peut toutefois paraître différente. Pour atténuer les préoccupations initiales sur l’emplacement et la nature des éléments, suivez la visite guidée du site relative à votre tableau de bord.
+Vous pouvez également en faire beaucoup plus, sans avoir à quitter le site web. Une partie de la terminologie et des fonctionnalités peut toutefois paraître différente. Pour limiter les préoccupations initiales concernant l’emplacement et les éléments, veillez à suivre la visite guidée du site de votre tableau de bord.
 
 Ce tableau présente certaines des différences entre PMC et l’Espace partenaires.
 

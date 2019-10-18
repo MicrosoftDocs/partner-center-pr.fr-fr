@@ -8,19 +8,19 @@ ms.author: labrenne
 keywords: Azure, réservations, gérer, facturation, achat, annulation, échange, frais de résiliation précoce
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 56802383a363afabc84932afd099bdb4c0a85a66
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
+ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708765"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "71704156"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients       
 
 **S’applique à**
 
 -  Espace partenaires
--  Portail Microsoft Azure
+-  Portail Microsoft Azure 
 -  Partenaires fournisseurs de solutions Cloud
 
 Pour gérer les réservations Azure de vos clients, vous devez sélectionner le client et la réservation que vous souhaitez gérer dans l’espace partenaires, puis apporter des modifications à la réservation dans le Portail Azure. 
@@ -31,7 +31,7 @@ Pour gérer les réservations Azure de vos clients, vous devez sélectionner le 
 
 3. Sous **Actions**, sélectionnez **Gérer** pour accéder au dossier de réservation du client dans le portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
 
-    | **Sélectionné**   | **Pour**    |
+    | **Sélectionné**   | **À**    |
     |:-----------------------------|:-----------------|
     | **Vue d’ensemble**   | Afficher les détails de la réservation d’un client, y compris la date d'expiration, la portée et les données d'utilisation. **REMARQUE** Sélectionnez **Remboursement** pour créer une demande de support en vue d'un remboursement calculé au prorata. Sélectionnez **Échange** pour créer une demande de support en vue de l'échange de la période de réservation non utilisée.  
     | **Access Control (IAM)**   | Gérer l’accès aux informations sur la réservation du client.|
@@ -53,11 +53,11 @@ Les clients peuvent demander l’annulation d’une réservation à tout moment 
 Voir ci-dessous pour obtenir des détails et des frais d’annulation.
 
 
-|**Date d’annulation**<br> précédant   |**Utilisation**    |**Créancière**  |**Fin précoce**<br> frais    |**Plafond de remboursement** | 
+|**Date d’annulation**<br> précédant   |**Syntaxe**    |**Créancière**  |**Fin précoce**<br> frais    |**Plafond de remboursement** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|au moins 5                         | Non          | 100%       | Non                              | $50 000 USD   |
-|au moins 5                         | Oui         | Pro-évalué  | Non                              | $50 000 USD   |
-|Plus de 5                        | Non          | Pro-évalué  | douze                             | $50 000 USD   |
+|au moins 5                         | non          | 100%       | non                              | $50 000 USD   |
+|au moins 5                         | Oui         | Pro-évalué  | non                              | $50 000 USD   |
+|Plus de 5                        | non          | Pro-évalué  | douze                             | $50 000 USD   |
 |Plus de 5                        | Oui         | Pro-évalué  | douze                             | $50 000 USD   |
 
 
@@ -85,8 +85,8 @@ Pour traiter une demande de support pour un remboursement ou un échange pour le
 
     |**Première**                    |**Souhaité**    |
     |:---------------------------|:-----------------|
-    |**1 notions de base**                |Type de problème: Financières.  |
-    |**2 problème**               |Type de problème: Gestion des réservations. Catégorie : Échanges et remboursements. |
+    |**1 notions de base**                |Type de problème : facturation  |
+    |**2 problème**               |Type de problème : gestion de la réservation. Catégorie : Échanges et remboursements. |
     |**3 informations de contact**   |Sélectionnez vos préférences et entrez les informations requises. 
 
 5.  Sélectionnez **Créer** lorsque vous avez terminé.

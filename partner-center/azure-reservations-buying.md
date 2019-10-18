@@ -1,19 +1,19 @@
 ---
 title: Acheter des réservations Microsoft Azure pour vos clients | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/15/2019
 Description: Vous pouvez acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, réservations, gérer, facturation, achat
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5d42c62c10d1717868b7b22f7a63ffc2311a3f70
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: fb75358e9b193a1568926eec220aef4c9fcc6f0f
+ms.sourcegitcommit: 582415b3c61557e80dfd17e09b5122210bfd0a9b
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708776"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "72530968"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires 
 
@@ -27,6 +27,8 @@ ms.locfileid: "68708776"
 
 Passez en revue les informations importantes ci-dessous avant d’acheter des réservations Azure pour le compte de vos clients.
 
+- Si et quand votre client signe le nouveau contrat de client Microsoft, [confirmez l’acceptation du client du contrat de client Microsoft](confirm-customer-agreement.md), vous devez acheter des réservations Azure dans le cadre du plan Azure. Pour plus d’informations, consultez l' [achat d’un plan Azure](purchase-azure-plan.md).
+
 -   Les clients doivent d'ores et déjà disposer d'un abonnement Azure actif avant que vous ne puissiez acheter des réservations en leur nom
   
 -   Les coûts liés aux abonnements logiciels tels que les SQL Database ou les logiciels SUSE Linux ne sont pas inclus dans les prix de réservation Azure
@@ -37,57 +39,54 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 
 -   Si vous êtes un fournisseur indirect et que vous achetez des réservations Azure via le portail Azure, le « Partner On Record » (revendeur indirect) est hérité de l’abonnement de fournisseur de solutions Cloud Azure que vous sélectionnez. 
 
--   Le « Partner On Record » pour les réservations Azure ne peut pas être modifié après l’achat. Vous pouvez annuler la réservation existante et en acheter une nouvelle avec le nouveau « Partner On Record ». 
+-   Le partenaire d’enregistrement pour les réservations Azure ne peut pas être modifié après l’achat. Vous pouvez annuler la réservation existante et en acheter une nouvelle avec le nouveau « Partner On Record ». 
 
 -   Si un client souhaite transférer un abonnement Azure depuis Direct ou EA à Fournisseur de solutions Cloud, les réservations ne sont pas transférées. 
 
 ## <a name="azure-reservations-unavailable-markets"></a>Marchés Azure indisponibles
 
 >[!IMPORTANT] 
->Les réservations Azure ne *sont pas* disponibles sur les marchés suivants:  
+>Les réservations Azure ne *sont pas* disponibles sur les marchés suivants :  
 >  
 > | Marchés non disponibles | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
-> | Åland (îles d’)                  | Groenland                         | Palau                                    |
-> | Samoa américaines                 | Grenade                           | Papouasie-Nouvelle-Guinée                         |
-> | Andorre                        | Guadeloupe                        | Pitcairn (îles)                         |
-> | Anguilla                       | Guam                              | Réunion (île)                                  |
-> | Antarctique                     | Guernesey                          | Fédération de Russie                       |
-> | Antigua-et-Barbuda            | Guinée                            | Saba                                     |
-> | Aruba                          | Guinée-Bissau                     | Saint-Barthélemy                         |
-> | Azerbaïdjan                     | Guyana                            | Sainte-Lucie                              |
-> | Bélarus                        | Haïti                             | Saint-Martin                             |
-> | Bénin                          | Heard et McDonald (Îles) | Saint-Pierre-et-Miquelon                |
-> | Bhoutan                         | Inde                             | Saint-Vincent-et-les-Grenadines         |
-> | Bonaire                        | Île de Man                       | Samoa                                    |
-> | Bouvet (Île)                  | Jan Mayen                         | Saint-Marin                               |
-> | Brésil                         | Jersey                            | São Tomé et Príncipe                    |
-> | Territoires britanniques de l’océan Indien | Kazakhstan                        | Seychelles                               |
-> | Îles Vierges britanniques         | Kiribati                          | Sierra Leone                             |
-> | Burkina-Faso                   | Corée, République de                | Saint-Eustache                           |
-> | Burundi                        | Kosovo                            | Saint-Martin (Royaume des Pays-Bas)                             |
-> | Cambodge                       | Laos                              | Salomon (îles)                          |
-> | République centrafricaine       | Lesotho                           | Somalie                                  |
-> | Tchad                           | Liberia                           | Géorgie du Sud et Sandwich du Sud (îles) |
-> | Chine                          | Madagascar                        | Soudan du Sud                              |
-> | Christmas (île)               | Malawi                            | Sainte-Hélène, ascension, Tristan da Cunha   |
-> | Cocos-Keeling (îles)        | Maldives                          | Surinam                                 |
-> | Comores (Les)                        | Mali                              | Svalbard                                 |
-> | Congo                          | Marshall (îles)                  | Swaziland                                |
-> | Congo (RDC)                    | Martinique                        | Taïwan                                   |
-> | Cook (îles)                   | Mauritanie                        | Timor-Leste                              |
-> | Djibouti                       | Mayotte                           | Togo                                     |
-> | Dominique                       | Micronésie                        | Tokelau                                  |
-> | Guinée équatoriale              | Montserrat                        | Tonga                                    |
-> | Érythrée                        | Mozambique                        | Turks et Caïcos (îles)                 |
-> | Malouines (îles)               | Myanmar                           | Tuvalu                                   |
-> | Guyane française                  | Nauru                             | FÉDÉRALES Îles éloignées                    |
-> | Polynésie française               | Nouvelle-Calédonie                     | Ukraine                                  |
-> | Terres australes françaises    | Niger                             | Vanuatu                                  |
-> | Gabon                          | Niue                              | Vatican (État de la Cité du)                             |
-> | Gambie                         | Norfolk (île)                    | Wallis-et-Futuna                        |
-> | Gibraltar                      | Mariannes du Nord (îles)          | Yémen                                    |
-> |
+> | Åland (îles d’)     | Groenland     | Papouasie-Nouvelle-Guinée     |
+> | Samoa américaines     | Grenade     | Pitcairn (îles)     |
+> | Andorre     | Guadeloupe     | Réunion (île)     |
+> | Anguilla     | Guam     | Saba   |
+> | Antarctique     | Guernesey     | Saint-Barthélemy   |
+> | Antigua-et-Barbuda       | Guinée     | Sainte-Lucie   |
+> | Aruba       | Guinée-Bissau     | Saint-Martin   |
+> | Azerbaïdjan       | Guyana     | Saint-Pierre-et-Miquelon   |
+> | Bénin     | Haïti       | Saint-Vincent-et-les-Grenadines     |
+> | Bhoutan     | Heard et McDonald (Îles)       | Samoa     |
+> | Bonaire     | Île de Man     | Saint-Marin     |
+> | Bouvet (Île)     | Jan Mayen     | São Tomé et Príncipe   |
+> | Territoires britanniques de l’océan Indien       | Jersey     | Seychelles   |
+> | Îles Vierges britanniques     | Kiribati       | Sierra Leone   |
+> | Burkina-Faso     | Kosovo     | Saint-Eustache     |
+> | Burundi     | Laos     | Saint-Martin (Royaume des Pays-Bas)     |
+> | Cambodge     | Lesotho     | Salomon (îles)     |
+> | République centrafricaine     | Liberia     | Somalie     |
+> | Tchad     | Madagascar     | Géorgie du Sud et Sandwich du Sud (îles)     |
+> | Chine     | Malawi     | Soudan du Sud     |
+> | Christmas (île)     | Maldives     | Sainte-Hélène, ascension, Tristan da Cunha     |
+> | Cocos-Keeling (îles)     | Mali     | Surinam     |
+> | Comores (Les)     | Marshall (îles)     | Svalbard     |
+> | République démocratique du Congo     | Martinique     | Swaziland     |
+> | Congo (RDC)     | Mauritanie     | Timor-Leste   |
+> | Cook (îles)     | Mayotte     | Togo   |
+> | Djibouti     | Micronésie     | Tokelau   |
+> | Dominique     | Montserrat     | Tonga   |
+> | Guinée équatoriale     | Mozambique     | Turks et Caïcos (îles)   |
+> | Érythrée     | Myanmar     | Tuvalu   |
+> | Malouines (îles)     | Nauru     | Îles mineures éloignées des États-Unis   |
+> | Guyane française     | Nouvelle-Calédonie     | Vanuatu   |
+> | Polynésie française     | Niger     | Vatican (État de la Cité du)   |
+> | Terres australes françaises     | Niue     | Wallis-et-Futuna   |
+> | Gabon     | Norfolk (île)     | Yémen   |
+> | Gambie     | Mariannes du Nord (îles)     |    |
+> | Gibraltar     | Palau       |    |
 
 ## <a name="purchase-azure-reservations"></a>Acheter des réservations Azure
 
@@ -105,10 +104,10 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
     c. Choisissez le type de réservation que le client souhaite dans la liste **type de réservations** .
 
-4. Les réservations Azure doivent être associées à un abonnement Azure actif. Choisissez l’abonnement du client auquel vous souhaitez ajouter des réservations Azure à partir de la liste des abonnements du **client** . 
+4. Les réservations Azure doivent être associées à un abonnement Azure actif. Choisissez l’abonnement du client auquel vous souhaitez ajouter des réservations Azure à partir de la liste des **abonnements du client** . 
 
    >[!IMPORTANT]
-   >Si le client ne dispose pas déjà d’un abonnement Azure actif, sélectionnez **services en ligne** pour en ajouter un maintenant. 
+   >Si le client ne dispose pas déjà d’un abonnement Azure actif, sélectionnez **Azure** pour en ajouter un maintenant. 
 
 5. Utilisez les filtres pour rechercher des réservations Azure sur des machines virtuelles qui répondent aux besoins de votre client.  
 
@@ -123,9 +122,15 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
     - Sélectionnez l’étendue de la réservation. L'étendue de la réservation peut couvrir un ou plusieurs abonnements (portée partagée). Si vous étendez la réservation à un seul abonnement, la remise de réservation est appliquée à cet abonnement uniquement. Si vous sélectionnez partagé, la remise de réservation est appliquée aux abonnements facturés au client. 
 
       >[!NOTE] 
-      >Si vous choisissez de limiter l’étendue de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le Portail Azure. Suivez les instructions [de cette rubrique](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande.    
+      >Si vous choisissez de limiter l’étendue de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le Portail Azure. Suivez les instructions [de cette rubrique](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande. 
+
+      >[!NOTE]   
+      >Si votre client se trouve sous le plan Azure, l' **étendue** est définie sur **partagé**. 
 
     - Si vous êtes partenaire fournisseur, sélectionnez le revendeur que vous voulez associer au produit.
+    
+    - Si votre réservation Azure prend en charge l’option de plan de facturation, vous pouvez sélectionner la fréquence de facturation mensuellement dans le menu déroulant. 
+    - Si votre réservation Azure ne prend pas en charge l’option de plan de facturation, votre fréquence de facturation est définie par défaut sur une facturation unique. 
 
 9. Sélectionnez **Acheter** pour acheter la commande. Les détails de votre commande, y compris le numéro de commande, s’affichent dans la page **confirmer** . Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**. 
 

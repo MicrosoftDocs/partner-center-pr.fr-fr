@@ -1,40 +1,54 @@
 ---
-title: Gérer votre compte partenaire - emplacements | Partenaires
+title: Gérer votre compte de partenaire-emplacements | Espace partenaires
 ms.topic: article
 ms.date: 03/27/2019
-description: Gérer les emplacements de votre société en partenaires
+description: Gérer les emplacements de votre entreprise dans l’espace partenaires
 author: LauraBrenner
 ms.author: labrenne
-keywords: compte du partenaire, emplacements
+keywords: compte de partenaire, emplacements
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6d5b2e4d314cc852c1c52ba4561b39bf6faa94
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
+ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134429"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "72171217"
 ---
-# <a name="manage-your-partner-account-locations"></a>Gérer votre compte partenaire : Emplacements
+# <a name="manage-your-partner-account-locations"></a>Gérer votre compte de partenaire : emplacements
 
-L’ID MPN emplacement identifier chaque emplacement spécifique de votre entreprise. L’ID MPN d’emplacement vous permet de s’inscrire à des programmes encouragement, pour les affaires de fournisseur de solutions Cloud (CSP), pour ajouter de nouveaux abonnements et autres transactions d’entreprise. L’ID MPN d’entreprise est utilisé pour les activités non transactionnelles telles que les demandes de prise en charge.
+Les ID MPN d’emplacement identifient chaque emplacement spécifique de votre entreprise. Vous utilisez l’ID MPN d’emplacement pour vous inscrire aux programmes d’incentives, aux entreprises du fournisseur de solutions Cloud (CSP), pour ajouter de nouveaux abonnements et d’autres transactions commerciales. L’ID MPN de l’entreprise est utilisé pour les activités non transactionnelles telles que les demandes de support.
 
 **Voici un scénario classique :** 
 
-Une société partenaire peut avoir une entreprise CSP et une entreprise de publication. Leur activité CSP peut se trouver dans plusieurs paramètres régionaux et leurs activités pub peuvent se trouver dans d’autres paramètres régionaux. Leur entreprise juridique inscrit a un ID MPN qui est utilisé pour gérer tous les professionnels non transactionnelles telles que l’ajout d’utilisateurs ou de journalisation des demandes de prise en charge. 
+Une société partenaire peut avoir une entreprise CSP et une entreprise de publication. Leurs activités CSP peuvent se trouver dans plusieurs paramètres régionaux et leur entreprise pub peut se trouver dans d’autres paramètres régionaux. Leurs entreprises juridiques inscrites ont un ID MPN utilisé pour gérer l’ensemble des activités non transactionnelles, telles que l’ajout d’utilisateurs ou la journalisation des demandes de support. 
 
-Chacun de leurs emplacements a un ID MPN qui sert à métiers transactionnelles tels que des programmes CSP ou les primes. Paiements sont liées à des emplacements spécifiques.
+Chacun de leurs emplacements a un ID MPN qui est utilisé pour les activités transactionnelles telles que les programmes CSP ou les programmes d’incentives. Les versements sont liés à des emplacements spécifiques.
 
-Les utilisateurs devront peut-être les rôles qui traversent les emplacements. Par exemple, l’administrateur de primes peut avoir ce rôle pour tous les emplacements en Europe.
+Les utilisateurs peuvent avoir des rôles qui se croisent. Par exemple, l’administrateur des incentives peut avoir ce rôle pour tous les emplacements en Europe.
 
 **Pour ajouter un emplacement**
 
-1. À partir de la **icône des paramètres**, sélectionnez le **partenaire paramètres**. 
+1. À partir de l' **icône de paramètre**, sélectionnez les **paramètres de partenaire**. 
 
 2. Sélectionnez **emplacements.**
 
-3. Sélectionnez **ajouter un emplacement**.  
+3. Sélectionnez **Ajouter un emplacement**.  
 
-4. Dans le **ajouter un emplacement** page, d’insérer les détails de l’adresse de l’emplacement que vous souhaitez ajouter à votre entreprise, ainsi qu’un contact principal pour l’emplacement.
+4. Dans la page **Ajouter un emplacement** , insérez les détails de l’adresse de l’emplacement que vous souhaitez ajouter à votre société, ainsi qu’un contact principal pour l’emplacement.
 
-Remarque: Une fois que l’ajout d’un emplacement dans l’espace partenaires, il ne peut pas être supprimé.
+Remarque : une fois qu’un emplacement a été ajouté dans l’espace partenaires, il ne peut pas être supprimé.
+
+**Changer l’emplacement du siège social**
+
+1. Dans la page **emplacements** , vérifiez la liste des emplacements pour vous assurer que l’emplacement que vous souhaitez comme entité juridique est répertorié. Si ce n’est pas le cas, ajoutez-le.
+
+![mettre à jour l’emplacement commercial](images/updatepartnerprofile2.png)
+
+2. Sélectionnez **profil de partenaire** , puis **mettre à jour le profil de l’entreprise légale**
+
+![mettre à jour l’emplacement commercial](images/updatepartnerprofile1.png)
+
+3. Sélectionnez la région et l’entité juridique, puis **envoyez** -la.
+
+![mettre à jour l’emplacement commercial](images/updatepartnerprofile3.png)
 
