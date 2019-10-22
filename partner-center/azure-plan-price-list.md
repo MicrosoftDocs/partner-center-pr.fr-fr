@@ -1,0 +1,85 @@
+---
+title: Tarifs du plan Azure | Espace partenaires
+ms.topic: article
+ms.date: 10/15/2019
+description: Comment afficher les tarifs des abonnements dans le cadre du plan Azure
+author: LauraBrenner
+ms.author: labrenne
+Keywords: ''
+robots: ''
+ms.localizationpriority: high
+ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
+ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "72171278"
+---
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a><span data-ttu-id="f46c8-103">Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure</span><span class="sxs-lookup"><span data-stu-id="f46c8-103">Price list for the new commerce experience in CSP for Azure</span></span> 
+
+<span data-ttu-id="f46c8-104">Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur de solutions cloud sont publiés dans l’Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="f46c8-104">The price list for the new Azure commerce experience in CSP is posted in Partner Center.</span></span> <span data-ttu-id="f46c8-105">Les tarifs sont délivrés de façon dynamique dans un fichier précis en temps réel et les prix sont affichés en USD uniquement.</span><span class="sxs-lookup"><span data-stu-id="f46c8-105">The price list is dynamically delivered in a real-time accurate file and prices are shown in USD only.</span></span> <span data-ttu-id="f46c8-106">La facturation, toutefois, s’effectue dans la devise prise en charge correspondant à la zone monétaire du client.</span><span class="sxs-lookup"><span data-stu-id="f46c8-106">Billing, however, is done in the supported currency applicable to the customer’s currency location.</span></span> <span data-ttu-id="f46c8-107">Pour plus d’informations sur la facturation dans la zone monétaire du client, consultez [Plan Azure – facturation ](azure-plan-billing.md).</span><span class="sxs-lookup"><span data-stu-id="f46c8-107">For more information on the billing in the customer's currency location, read [Azure plan - billing](azure-plan-billing.md).</span></span>
+
+## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a><span data-ttu-id="f46c8-108">Consulter les tarifs des abonnements dans le cadre des tarifs du plan Azure</span><span class="sxs-lookup"><span data-stu-id="f46c8-108">See pricing for subscriptions under the Azure plan pricing</span></span>
+
+1. <span data-ttu-id="f46c8-109">Dans le menu de l’Espace partenaires sur la gauche, sélectionnez **Vendre** puis **Place de marché**.</span><span class="sxs-lookup"><span data-stu-id="f46c8-109">From the Partner Center menu on the left, select **Sell** and then select **Marketplace**.</span></span>
+
+2. <span data-ttu-id="f46c8-110">En regard de **Type d’exportation**, sélectionnez **Tarification de la consommation de plan Azure**.</span><span class="sxs-lookup"><span data-stu-id="f46c8-110">Next to **Export type**, select **Azure plan consumption pricing**.</span></span>
+
+3. <span data-ttu-id="f46c8-111">En regard de **Tarification pour la date**, sélectionnez la date de votre choix, par exemple, **Actuelle**.</span><span class="sxs-lookup"><span data-stu-id="f46c8-111">Next to **Pricing for date**, select the date you want, for example, **Current**.</span></span> <span data-ttu-id="f46c8-112">Remarque : Vous pouvez également sélectionner **Taux Fx** pour exporter les taux de change actuels.</span><span class="sxs-lookup"><span data-stu-id="f46c8-112">Note: you can also select **FX rates** to export the current FX rates.</span></span>
+
+![tarification azure 2](images/azure/pricelist2.jpg)
+
+4. <span data-ttu-id="f46c8-114">Sous **Place de marché**, sélectionnez le **type** et la **catégorie** de produit, ou recherchez un produit.</span><span class="sxs-lookup"><span data-stu-id="f46c8-114">Under **Marketplace** select the **Type** and **Category** of product or search for a product.</span></span> <span data-ttu-id="f46c8-115">Les produits disponibles correspondant à votre recherche sont affichés.</span><span class="sxs-lookup"><span data-stu-id="f46c8-115">Available products based on your search are displayed.</span></span>
+
+![pricing](images/azure/Azurepricelist1.jpg)
+
+5. <span data-ttu-id="f46c8-117">Ensuite, sélectionnez **Exporter les tarifs du plan Azure** pour télécharger les prix du ou des produits que vous sélectionnez dans le cadre du plan Azure.</span><span class="sxs-lookup"><span data-stu-id="f46c8-117">Then select **Export Azure plan price list** to download the Azure plan prices for the product(s) you select.</span></span>
+
+
+![exporter les tarifs](images/azure/pricelist1.png)
+
+
+
+## <a name="azure-price-list-specifics"></a><span data-ttu-id="f46c8-119">Détail des tarifs Azure</span><span class="sxs-lookup"><span data-stu-id="f46c8-119">Azure price list specifics</span></span>
+
+- <span data-ttu-id="f46c8-120">Les tarifs du plan Azure sont disponibles dans la page Place de marché de l’Espace partenaires, sous **Vendre**.</span><span class="sxs-lookup"><span data-stu-id="f46c8-120">Azure plan pricing will be available from the Marketplace page in Partner Center, under **Sell**.</span></span>
+
+- <span data-ttu-id="f46c8-121">Des exportations sont disponibles pour les services de consommation du plan Azure, les réservations Azure et les taux de change.</span><span class="sxs-lookup"><span data-stu-id="f46c8-121">Exports will be available for Azure Plan consumption services, Azure Reservations, and FX rates.</span></span>
+
+- <span data-ttu-id="f46c8-122">Les options d’exportation incluent les suivantes :</span><span class="sxs-lookup"><span data-stu-id="f46c8-122">Options for export include:</span></span>
+
+    - <span data-ttu-id="f46c8-123">**Tarification du jour** : Elle comprend tous les compteurs et la tarification du 1er du mois jusqu’à la date actuelle du mois en cours.</span><span class="sxs-lookup"><span data-stu-id="f46c8-123">**Today’s pricing**: This includes all meters and pricing from the 1st of the month to the current date of the current month.</span></span> <span data-ttu-id="f46c8-124">Elle comprend les nouveaux prix, les prix modifiés et les prix supprimés.</span><span class="sxs-lookup"><span data-stu-id="f46c8-124">This includes new prices, changed prices or removed prices.</span></span> <span data-ttu-id="f46c8-125">Tous les prix ont des dates de début et de fin effectives qui indiquent s’ils sont nouveaux ou supprimés.</span><span class="sxs-lookup"><span data-stu-id="f46c8-125">All prices will have effective start and end dates to explain whether they are new or removed.</span></span>
+
+    - <span data-ttu-id="f46c8-126">**Tarification du mois précédent** : Les téléchargements de chaque type de ressource sont effectués par mois.</span><span class="sxs-lookup"><span data-stu-id="f46c8-126">**Previous month's pricing**: Downloads of each type of resource will be by month.</span></span> <span data-ttu-id="f46c8-127">Pour les fichiers des prix, cela inclut tous les compteurs qui étaient disponibles au cours de ce mois.</span><span class="sxs-lookup"><span data-stu-id="f46c8-127">For pricing files, this will include all meters that were available during that month.</span></span> <span data-ttu-id="f46c8-128">Si un nouveau compteur est apparu au milieu du mois, il apparaît comme un compteur avec une date de prise d’effet reflétant sa disponibilité.</span><span class="sxs-lookup"><span data-stu-id="f46c8-128">If a new meter appeared in the middle of the month, I’ll show up as a meter with an effective date reflecting its availability.</span></span> <span data-ttu-id="f46c8-129">Il en va de même pour les prix qui sont abandonnés, affichés avec une date de fin effective indiquant le moment où ils ne sont plus disponibles.</span><span class="sxs-lookup"><span data-stu-id="f46c8-129">Similar for prices that are discontinued, showing with an effective end date describing when they are no longer available.</span></span>
+
+    - <span data-ttu-id="f46c8-130">**Taux Fx** : Les taux de change sont disponibles au téléchargement le jour avant le 1er du mois, à 18h00 PST.</span><span class="sxs-lookup"><span data-stu-id="f46c8-130">**FX Rates**: FX rates will be available for download the day before the 1st of the month, 6pm PST.</span></span> <span data-ttu-id="f46c8-131">Par exemple, si vous voulez les taux de novembre, téléchargez-les le 31 octobre.</span><span class="sxs-lookup"><span data-stu-id="f46c8-131">For example, if you want the rates for November, download the rates on October 31.</span></span> <span data-ttu-id="f46c8-132">Les taux de change du mois précédent sont également disponibles.</span><span class="sxs-lookup"><span data-stu-id="f46c8-132">Previous month FX rates will be available also.</span></span>
+
+    - <span data-ttu-id="f46c8-133">**Services éligibles** : Le crédit Partenaires s’applique aux services figurant dans les **tarifs de la consommation de plan Azure** que les partenaires peuvent exporter à partir de la page des tarifs du plan Azure.</span><span class="sxs-lookup"><span data-stu-id="f46c8-133">**Eligible services**: Partner earned credit is applicable to services listed in the **Azure plan consumption pricing** that partners can export from the Azure plan pricing page.</span></span> <span data-ttu-id="f46c8-134">Notez cependant qu’il existe des exceptions, telles que notamment les réservations tierces et Azure.</span><span class="sxs-lookup"><span data-stu-id="f46c8-134">Note, there are exceptions including, but not limited to, third-party and Azure Reservations.</span></span>
+
+- <span data-ttu-id="f46c8-135">Les prix figurant dans les tarifs sont les prix directs.</span><span class="sxs-lookup"><span data-stu-id="f46c8-135">Prices in the price lists are direct prices.</span></span> <span data-ttu-id="f46c8-136">Certains partenaires peuvent être éligibles aux crédits Partenaires.</span><span class="sxs-lookup"><span data-stu-id="f46c8-136">Some partners may be eligible for partner earned credits.</span></span> <span data-ttu-id="f46c8-137">Pour obtenir des informations sur la façon de calculer le crédit Partenaires, lisez [Calcul et paiement du crédit Partenaires](partner-earned-credit-explanation.md).</span><span class="sxs-lookup"><span data-stu-id="f46c8-137">For information on how the partner earned credit is calculated, read [How the partner earned credit is calculated and paid](partner-earned-credit-explanation.md).</span></span>
+
+
+## <a name="price-list-data"></a><span data-ttu-id="f46c8-138">Données des tarifs</span><span class="sxs-lookup"><span data-stu-id="f46c8-138">Price list data</span></span>
+
+|<span data-ttu-id="f46c8-139">**Champ**</span><span class="sxs-lookup"><span data-stu-id="f46c8-139">**Field**</span></span>   |<span data-ttu-id="f46c8-140">**Description**</span><span class="sxs-lookup"><span data-stu-id="f46c8-140">**Description**</span></span>   |
+|--------------------------|:---------------------------|
+|<span data-ttu-id="f46c8-141">ProductTitle</span><span class="sxs-lookup"><span data-stu-id="f46c8-141">ProductTitle</span></span>  |<span data-ttu-id="f46c8-142">Titre ou nom du produit</span><span class="sxs-lookup"><span data-stu-id="f46c8-142">Title or  name of the product</span></span>|
+|<span data-ttu-id="f46c8-143">ProductID</span><span class="sxs-lookup"><span data-stu-id="f46c8-143">ProductID</span></span>   |<span data-ttu-id="f46c8-144">ID du produit</span><span class="sxs-lookup"><span data-stu-id="f46c8-144">ID of the product</span></span>|
+|<span data-ttu-id="f46c8-145">SKuId</span><span class="sxs-lookup"><span data-stu-id="f46c8-145">SKuId</span></span>|<span data-ttu-id="f46c8-146">ID de référence SKU</span><span class="sxs-lookup"><span data-stu-id="f46c8-146">ID of SKU</span></span>|
+|<span data-ttu-id="f46c8-147">SkuTitle</span><span class="sxs-lookup"><span data-stu-id="f46c8-147">SkuTitle</span></span>|<span data-ttu-id="f46c8-148">Titre ou nom de la référence SKU</span><span class="sxs-lookup"><span data-stu-id="f46c8-148">Title or name of SKU</span></span>|
+|<span data-ttu-id="f46c8-149">Éditeur</span><span class="sxs-lookup"><span data-stu-id="f46c8-149">Publisher</span></span>|<span data-ttu-id="f46c8-150">La première partie est toujours Microsoft</span><span class="sxs-lookup"><span data-stu-id="f46c8-150">1st party will always be Microsoft</span></span>|
+|<span data-ttu-id="f46c8-151">SkuDescription</span><span class="sxs-lookup"><span data-stu-id="f46c8-151">SkuDescription</span></span>|<span data-ttu-id="f46c8-152">Description de la référence SKU</span><span class="sxs-lookup"><span data-stu-id="f46c8-152">Description of the SKU</span></span>|
+|<span data-ttu-id="f46c8-153">UnitOfMeasure</span><span class="sxs-lookup"><span data-stu-id="f46c8-153">UnitOfMeasure</span></span>|<span data-ttu-id="f46c8-154">Unités qui seront imputées ou facturées</span><span class="sxs-lookup"><span data-stu-id="f46c8-154">The units that will be charged or billed</span></span>|
+|<span data-ttu-id="f46c8-155">TermDuration</span><span class="sxs-lookup"><span data-stu-id="f46c8-155">TermDuration</span></span>|<span data-ttu-id="f46c8-156">Pour les produits basés sur un délai, longueur du délai qui s’applique aux réservations</span><span class="sxs-lookup"><span data-stu-id="f46c8-156">For term-based products, the length of the term, applicable to reservations</span></span>|
+|<span data-ttu-id="f46c8-157">Marché</span><span class="sxs-lookup"><span data-stu-id="f46c8-157">Market</span></span>|<span data-ttu-id="f46c8-158">Marché de la tarification</span><span class="sxs-lookup"><span data-stu-id="f46c8-158">Market of the pricing</span></span>|
+|<span data-ttu-id="f46c8-159">Symbole monétaire</span><span class="sxs-lookup"><span data-stu-id="f46c8-159">Currency</span></span>|<span data-ttu-id="f46c8-160">Devise de la tarification</span><span class="sxs-lookup"><span data-stu-id="f46c8-160">Currency of the pricing</span></span>|
+|<span data-ttu-id="f46c8-161">UnitPrice</span><span class="sxs-lookup"><span data-stu-id="f46c8-161">UnitPrice</span></span>|<span data-ttu-id="f46c8-162">Prix unitaire</span><span class="sxs-lookup"><span data-stu-id="f46c8-162">Price per unit</span></span>|
+|<span data-ttu-id="f46c8-163">PricingTierRangeMin</span><span class="sxs-lookup"><span data-stu-id="f46c8-163">PricingTierRangeMin</span></span>|<span data-ttu-id="f46c8-164">Pour une tarification à plusieurs niveaux, le prix minimal s’applique</span><span class="sxs-lookup"><span data-stu-id="f46c8-164">For tiered pricing, the minimum price applies</span></span>|
+|<span data-ttu-id="f46c8-165">PricingTierRangeMax</span><span class="sxs-lookup"><span data-stu-id="f46c8-165">PricingTierRangeMax</span></span>|<span data-ttu-id="f46c8-166">Pour une tarification à plusieurs niveaux, le prix maximal s’applique</span><span class="sxs-lookup"><span data-stu-id="f46c8-166">For tiered pricing, the maximum price applies</span></span>|
+|<span data-ttu-id="f46c8-167">EffectiveStartDate</span><span class="sxs-lookup"><span data-stu-id="f46c8-167">EffectiveStartDate</span></span>|<span data-ttu-id="f46c8-168">Date de début de la tarification</span><span class="sxs-lookup"><span data-stu-id="f46c8-168">Start date of pricing</span></span>|
+|<span data-ttu-id="f46c8-169">EffectiveEndDate</span><span class="sxs-lookup"><span data-stu-id="f46c8-169">EffectiveEndDate</span></span>|<span data-ttu-id="f46c8-170">Date de fin de la tarification</span><span class="sxs-lookup"><span data-stu-id="f46c8-170">End date of the pricing</span></span>|
+|<span data-ttu-id="f46c8-171">MeterIds</span><span class="sxs-lookup"><span data-stu-id="f46c8-171">MeterIds</span></span>|<span data-ttu-id="f46c8-172">ID de compteur de la référence produit</span><span class="sxs-lookup"><span data-stu-id="f46c8-172">Meter ID of the product sku</span></span>|
+|<span data-ttu-id="f46c8-173">MeterType</span><span class="sxs-lookup"><span data-stu-id="f46c8-173">MeterType</span></span>|<span data-ttu-id="f46c8-174">Type de compteur</span><span class="sxs-lookup"><span data-stu-id="f46c8-174">Type of Meter</span></span>|
+|<span data-ttu-id="f46c8-175">Balises</span><span class="sxs-lookup"><span data-stu-id="f46c8-175">Tags</span></span>|<span data-ttu-id="f46c8-176">Propriétés de l’élément ; pour le tarif du plan Azure, il s’agit d’Azure ou d’Azure et réservations (spécifiquement pour les réservations)</span><span class="sxs-lookup"><span data-stu-id="f46c8-176">Properties for the item, for Azure plan pricing this will be Azure or Azure and Reservations (for reservations specifically)</span></span>|
+
+<span data-ttu-id="f46c8-177">Pour le détail des [informations tarifaires](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)</span><span class="sxs-lookup"><span data-stu-id="f46c8-177">For detailed [price list information](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)</span></span>  
