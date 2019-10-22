@@ -1,19 +1,19 @@
 ---
 title: Gérer votre compte Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
-description: Gérer le profil de votre organisation, bank et les informations fiscales et les utilisateurs de partenaires.
+ms.date: 09/25/2019
+description: Gérez le profil, les informations bancaires et fiscales et les utilisateurs de votre organisation dans l’Espace partenaires.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e08328258964509a7d01a4e4624d01025cc8449e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: e2e4e4e3d0fb7d88d748c57abe7a5a5161ea640a
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134239"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318625"
 ---
 # <a name="manage-your-partner-center-account"></a>Gérer votre compte Espace partenaires
 
@@ -21,26 +21,26 @@ ms.locfileid: "62134239"
 
 -  Espace partenaires
 
-Le compte que vous créez sur l’espace partenaires quand vous inscrivez est votre adresse de messagerie professionnelle ainsi que les informations de votre entreprise. Une fois que vous créez un compte sur l’espace partenaires, vous ou votre administrateur devrez terminer la configuration de profil complet de votre entreprise, y compris les détails de la prise en charge, fichier exonérations fiscales le cas échéant et les informations de contact principales. 
+Le compte que vous créez dans l’Espace partenaires au moment de l’inscription comprend votre adresse e-mail professionnelle et des informations sur votre entreprise. Après avoir créé un compte dans l’Espace partenaires, vous ou votre administrateur devez terminer la configuration du profil complet de votre entreprise en incluant les détails de votre support, les demandes d’exonération fiscale le cas échéant ainsi que les coordonnées du contact principal. 
 
-Vous ou votre administrateur crée également des comptes d’utilisateur pour toute personne qui utilisera l’espace partenaires pour l’ajout ou la gestion des clients, en vendant des abonnements, utilisation de facturation et de facturation, de créer des profils d’entreprise, de gestion des références, utilisation des primes prise en charge la fourniture et programmes.
+Vous ou votre administrateur devez aussi créer un compte d’utilisateur pour chaque personne destinée à utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur les programmes d’incentives et assurer un support.
 
 >[!NOTE]
->Paramètres de compte se trouve dans le coin supérieur droit de l’espace partenaires. Lorsque vous sélectionnez l’icône, vous pouvez sélectionner ce que vous voulez gérer. Par exemple, sélectionnez l'**icône de compte**, puis **Gestion des utilisateurs**. Cela vous amène sur votre page de gestion des utilisateurs et ouvre également un volet supplémentaire comprenant toutes les options de **Paramètres du compte**.
+>Les paramètres du compte se trouvent dans le coin supérieur droit de l’Espace partenaires. Quand vous sélectionnez l’icône, vous pouvez sélectionner ce que vous voulez gérer. Par exemple, sélectionnez l’**icône de compte**, puis **Gestion des utilisateurs**. Vous accédez alors à votre page de gestion des utilisateurs et un volet supplémentaire s’ouvre dans lequel figurent toutes les options **Paramètres du compte**.
 
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Ressources pour vous aider à gérer votre compte Espace partenaires
 
-|**Pour ce faire**   |**Lisez ce**   |
+|**Pour ce faire**   |**Lisez cela**   |
 |-----------------------|:-----------------------|
-|Vérifier que votre profil d’entreprise est à jour   |[Mettre à jour votre profil de partenaire](update-your-partner-profile.md)|
-|Tous les membres de votre entreprise qui doit fonctionner dans l’espace partenaires doivent être affectés à des rôles. Chaque rôle est associé à des autorisations spécifiques et des tâches disponibles.|[Créer des comptes d’utilisateurs et définir des autorisations](create-user-accounts-and-set-permissions.md)|
-|Passez en revue les autorisations qu'implique de chaque rôle|[Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
-|Gérer des emplacements de votre société|[Gérer votre compte partenaire : Emplacements](manage-locations.md)
-|Si un employé oublie son mot de passe et que vous devez le réinitialiser  |[Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)|
+|Vérifier que le profil de votre entreprise est à jour   |[Mettre à jour votre profil de partenaire](update-your-partner-profile.md)|
+|Tous les employés de votre entreprise qui ont besoin de travailler dans l’Espace partenaires doivent se voir attribuer un rôle. À chaque rôle correspondent des autorisations et des tâches spécifiques.|[Créer des comptes d’utilisateurs et définir des autorisations](create-user-accounts-and-set-permissions.md)|
+|Examiner les autorisations de chaque rôle|[Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
+|Gérer les emplacements de votre entreprise|[Gérer votre compte partenaire : Emplacements](manage-locations.md)
+|Réinitialiser un mot de passe oublié par un employé  |[Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)|
 |Veiller à promouvoir votre entreprise afin que les clients puissent vous trouver   |[Créer un profil commercial](create-a-marketing-profile.md)|
-|Organiser votre catalogue de sorte que les produits les plus importants se trouvent en haut de la liste   |[Personnaliser le catalogue](customize-the-catalog.md)|
-|Rester informé des tarifications et offres en cours   |[Tarification et offres](pricing-and-offers.md)|
+|Organiser votre catalogue de telle sorte que les produits les plus importants se trouvent en haut de la liste   |[Personnaliser le catalogue](customize-the-catalog.md)|
+|Se tenir informé des tarifs et offres en cours   |[Tarification et offres](pricing-and-offers.md)|
 
 
 

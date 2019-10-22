@@ -1,18 +1,18 @@
 ---
 title: Questions fréquentes (FAQ) sur les exigences de sécurité du partenaire | Espace partenaires
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/27/2019
 description: Questions fréquentes sur les exigences de sécurité du partenaire
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
-ms.localizationpriority: medium
-ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
+ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215658"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "71678304"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 
@@ -145,6 +145,9 @@ Microsoft fournit gratuitement l’authentification MFA via l’implémentation 
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>Si j’ai déjà une solution d’authentification MFA, quelles mesures dois-je prendre ?
 
 Grâce à ces exigences de sécurité, les utilisateurs d’un locataire du partenaire doivent s’authentifier à l’aide de l’authentification MFA quand ils accèdent aux services cloud commerciaux Microsoft. Une solution tierce permet de répondre à ces exigences. Microsoft ne fournit plus de tests de validation aux fournisseurs d’identité indépendants en ce qui concerne la compatibilité avec Azure Active Directory. Si vous souhaitez tester l’interopérabilité de votre produit, consultez ces [recommandations](https://www.microsoft.com/download/details.aspx?id=56843).
+
+> [!IMPORTANT]
+> Si vous utilisez une solution tierce, il est important de vérifier que cette solution émet la revendication de référence de méthode d’authentification (AMR) qui inclut la valeur MFA. Consultez [Test des exigences de sécurité du partenaire](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) pour plus d’informations sur la façon dont la validation de votre solution tierce émet la revendication attendue.
 
 ### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>Quelle méthode de vérification puis-je utiliser pour l’authentification MFA ?
 
@@ -287,7 +290,7 @@ Pour recevoir le lien d’inscription, les CPV doivent contacter [CPVHelp@micros
 
 Une fois que vous vous êtes inscrit à l’Espace partenaires et que vous avez inscrit vos applications, vous avez accès aux API de l’Espace partenaires. Si vous êtes un nouveau CPV, vous allez recevoir les informations relatives au bac à sable via une notification de l’Espace partenaires. Une fois que vous avez effectué votre inscription en tant que CPV Microsoft et que vous avez accepté le contrat CPV, vous pouvez :
 
-1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) Remarque: Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
+1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) Remarque : Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
 2. Visualisez et gérez votre profil de CPV.
 3. Visualisez et gérez les utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV. Le seul rôle qu’un CPV peut avoir est celui d’administrateur général.
 
@@ -315,6 +318,18 @@ L’authentification par application uniquement n’est pas impactée, car les i
 
 Non, les partenaires fournisseurs de panneaux de contrôle ne peuvent pas utiliser l’authentification par application uniquement pour demander des jetons d’accès au nom du partenaire. Ils doivent implémenter le modèle d’application sécurisé, qui utilise l’authentification d’application + l’authentification utilisateur.
 
+## <a name="enforcement"></a>Mise en œuvre
+
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>J’utilise une solution MFA tierce et je suis bloqué. Que dois-je faire ?
+
+Pour valider le fait que le compte accédant aux ressources a fait l’objet d’un test d’authentification multifacteur, nous allons vérifier la revendication de [référence de méthode d’authentification](https://tools.ietf.org/html/rfc8176) pour déterminer si l’authentification multifacteur est listée. Certaines solutions tierces n’émettent pas cette revendication ou n’incluent pas la valeur MFA. Si la revendication est manquante, ou si la valeur MFA n’est pas listée, il n’existe aucun moyen de déterminer si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Vous devez collaborer avec le fournisseur de votre solution tierce pour déterminer les actions à entreprendre afin que la solution émette la revendication de référence de méthode d’authentification.
+
+Consultez [Test des exigences de sécurité du partenaire](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0) si vous avez des doutes sur le fait que votre solution tierce émette la revendication attendue.
+
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>L’authentification multifacteur m’empêche de prendre en charge mon client utilisant AOBO. Que dois-je faire ?
+
+Les contraintes techniques relatives aux exigences de sécurité du partenaire impliquent de vérifier si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Dans la négative, vous êtes redirigé vers la page de connexion et vous êtes invité à vous authentifier à nouveau. Si votre domaine n’est pas fédéré, une fois l’authentification réussie, vous êtes invité à configurer l’authentification multifacteur. Une fois cette opération terminée, vous serez en mesure de gérer vos clients utilisant AOBO. Si votre domaine est fédéré, vous devez vous assurer que le compte fait l’objet d’un test d’authentification multifacteur.
+
 ## <a name="key-resources"></a>Ressources clés
 
 ### <a name="how-to-get-started"></a>Mise en route
@@ -338,7 +353,7 @@ Non, les partenaires fournisseurs de panneaux de contrôle ne peuvent pas utilis
 - [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
 - [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-## <a name="support"></a>Support
+## <a name="support"></a>Assistance
 
 ### <a name="where-can-i-get-support"></a>Où puis-je obtenir un support ?
 

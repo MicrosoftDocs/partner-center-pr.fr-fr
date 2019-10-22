@@ -1,18 +1,18 @@
 ---
 title: Exigences de sécurité du partenaire | Espace partenaires
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: Découvrez les exigences de sécurité pour les conseillers et les partenaires participant au programme Fournisseur de solutions Microsoft Cloud.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215649"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318479"
 ---
 # <a name="partner-security-requirements"></a>Exigences de sécurité du partenaire
 
@@ -136,15 +136,15 @@ La stratégie de référence *Exiger l’authentification multifacteur pour les 
 
 Lors de l’activation de la stratégie Exiger l’authentification multifacteur pour les administrateurs, les neuf rôles d’administrateur ci-dessus doivent s’inscrire à l’authentification MFA à l’aide de l’application d’authentification. Une fois l’inscription MFA terminée, les administrateurs doivent effectuer une authentification MFA chaque fois qu’ils se connectent.
 
-Si votre organisation utilise ces comptes dans des scripts ou du code, envisagez de les remplacer par des  [identités managées](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+Si votre organisation utilise ces comptes dans des scripts ou du code, envisagez de les remplacer par des [identités managées](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 Pour activer cette stratégie et protéger vos administrateurs :
 
-1. Connectez-vous au **portail Azure** en tant qu’administrateur général, administrateur de sécurité ou administrateur de l’accès conditionnel.
+1. Connectez-vous au **portail Azure** en tant qu’administrateur général, administrateur de la sécurité ou administrateur de l’accès conditionnel.
 2. Accédez à **Azure Active Directory** > **Accès conditionnel**.
 3. Dans la liste des stratégies, sélectionnez **Stratégie de référence : exiger l’authentification multifacteur pour les administrateurs**.
 4. Définissez **Activer la stratégie** sur **Utiliser la stratégie immédiatement**.
-5. Cliquez sur  **Enregistrer**.
+5. Cliquez sur **Enregistrer**.
 
 > [!WARNING]
 > Avant d’activer cette stratégie, vérifiez que vos utilisateurs n’utilisent pas de protocoles d’authentification héritée. Par le biais de l’implémentation de cette stratégie, l’authentification héritée est bloquée.
@@ -160,11 +160,11 @@ La Stratégie **Stratégie de référence : protection de l’utilisateur final
 
 Pour activer cette stratégie et protéger vos utilisateurs :
 
-1. Connectez-vous au **portail Azure** en tant qu’administrateur général, administrateur de sécurité ou administrateur de l’accès conditionnel.
+1. Connectez-vous au **portail Azure** en tant qu’administrateur général, administrateur de la sécurité ou administrateur de l’accès conditionnel.
 2. Accédez à **Azure Active Directory** > **Accès conditionnel**.
 3. Dans la liste des stratégies, sélectionnez **Stratégie de référence : Protection de l’utilisateur final (préversion)** .
 4. Définissez **Activer la stratégie** sur **Utiliser la stratégie immédiatement**.
-5. Cliquez sur  **Enregistrer**.
+5. Cliquez sur **Enregistrer**.
 
 > [!WARNING]
 > Avant d’activer cette stratégie, vérifiez que vos utilisateurs n’utilisent pas de protocoles d’authentification héritée. Par le biais de l’implémentation de cette stratégie, l’authentification héritée est bloquée.
