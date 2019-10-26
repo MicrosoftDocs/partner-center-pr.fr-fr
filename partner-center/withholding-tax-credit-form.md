@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, formulaire de crédit fiscal
 ms.localizationpriority: medium
-ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
+ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921464"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "72892407"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande
 
@@ -46,15 +46,20 @@ Remplissez ce [formulaire](https://query.prod.cms.rt.microsoft.com/cms/api/am/bi
 ### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Comment envoyer le formulaire de crédit d’impôt et les certificats
 
 1. Sélectionnez le point d' **interrogation** **( ?)** dans le coin droit uppor de votre tableau de bord dans l’espace partenaires.
-2. Sélectionnez **demandes de support du partenaire**.
-3. Sélectionnez **nouvelle demande** , puis sous **Détails**, sélectionnez **aide avec la facture, le paiement ou le fichier de rapprochement du partenaire.**
+
+2. Sélectionnez **CSP**.
+
+3. Sous **CSP – facturation et paiements**, sélectionnez le type de problème- **impôt à la source** , puis sélectionnez **Oui**. 
+
 4. Lorsque vous soumettez la demande de service, veillez à associer le formulaire de crédit d’impôt et les copies numériques des certificats fiscaux.
+
 5. Si vous soumettez un certificat fiscal non anglais via une demande de service en anglais, une traduction du certificat fiscal est nécessaire.
+
 6. Nous vous contacterons directement par e-mail ou par téléphone.
 
 À l’aide de la méthode de **paiement par facture-paiement** , une fois les certificats de taxe reçus et validés avec succès, le solde restant sur votre facture sera effacé dans environ une semaine. 
 
-Les certificats de taxe doivent être destinés uniquement aux factures Microsoft. Si vous avez d’autres sociétés que les certificats incluent, veuillez spécifier le montant de sorte que nous puissions exclure le montant de notre traitement interne, tout en gardant une visibilité complète sur le nombre total de certificats inclus. 
+Les certificats de taxe doivent être destinés uniquement aux factures Microsoft. Si d’autres sociétés sont incluses dans les certificats, spécifiez la quantité afin que nous puissions l’exclure dans notre traitement interne, tout en gardant une visibilité complète sur le nombre total de certificats inclus. 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Instructions pour l’exécution du formulaire de crédit d’impôt à la demande pour l’Allemagne
 
