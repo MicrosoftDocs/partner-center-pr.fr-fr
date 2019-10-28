@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134049"
@@ -100,7 +100,7 @@ Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pou
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
 |  Bhoutan            |          |
-|  Brunei Darussalam |   USD    |
+|  Brunéi Darussalam |   USD    |
 |  Cambodge          |          |
 |  Hong Kong (R.A.S.)         |   USD    |
 |  Indonésie         |   USD    |
@@ -218,7 +218,7 @@ Si l’emplacement de votre entreprise figure dans la liste ci-dessous, vous pou
 |  Suède         |   SEK    |
 |  Suisse    |   CHF    |
 |  ROYAUME-UNI             |   GBP    |
-|  Vatican (État de la Cité du)   |          |
+|  État de la Cité du Vatican   |          |
 |
 
 ## <a name="india-region-and-market"></a>Sur le marché et Inde
