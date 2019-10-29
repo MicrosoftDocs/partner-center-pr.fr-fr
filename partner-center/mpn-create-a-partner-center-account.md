@@ -1,47 +1,36 @@
 ---
 title: Créer un compte Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 10/25/2019
 description: Les membres du Microsoft Partner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5144f6e303a4afeccc6ccf74e966d8beba41f947
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958752"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978757"
 ---
 # <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 
-**S’applique à**
+**Rôles appropriés**
 
--   Espace partenaires
--   Membres du Microsoft Partner Network
-
-
-Cet article explique comment créer un compte Espace partenaires. Il est destiné aux partenaires qui souhaitent passer leurs informations d’adhésion au réseau de partenaires du Partner Membership Center à l'Espace partenaires. 
+- Administrateur global
+- Agent d’administration
 
 Avant de pouvoir créer un compte sur l'Espace partenaires ou vous inscrire à un programme de partenaires, votre entreprise doit être membre du Microsoft Partner Network. Si vous n’êtes pas membre du réseau, vous pouvez le [rejoindre maintenant](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [En savoir plus](https://partner.microsoft.com/membership) sur l'adhésion au Microsoft Partner Network. Une fois que vous avez créé un compte Espace partenaires, regardez cette brève vidéo [Découvrir votre tableau de bord](https://vimeo.com/290338211).
-
-### <a name="some-next-steps"></a>Étapes suivantes
-
--   [Acheter ou renouveler un abonnement Microsoft Action Pack](mpn-get-action-pack.md)
-
--   [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)
-
--   [Obtenir et gérer des prospects de Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
 Pour créer un compte sur l'Espace partenaires, vous devez avoir les informations suivantes à portée de main. Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer :
 
--   E-mail professionnel de l'administrateur général. Si vous ne connaissez pas le compte professionnel de votre entreprise, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).
+-   E-mail professionnel de l'administrateur général.
 
-    Si votre entreprise ne possède pas de compte professionnel, vous pouvez en créer un au cours du processus de création de compte. 
+-   Si vous ne savez pas quel est le compte professionnel de votre entreprise, consultez [votre compte professionnel professionnel et l’espace partenaires](azure-active-directory-tenants-and-partner-center.md) si votre entreprise n’a pas de compte professionnel, vous pouvez en créer une lors du processus de création du compte. 
 
--   Dénomination sociale légale, adresse et contact principal de votre entreprise. Nous avons besoin de ces informations pour vérifier que votre entreprise dispose d’un profil établi et que vous êtes autorisé à agir en son nom. 
+-   Le nom et l’adresse juridiques de votre entreprise.  
 
 -   Pouvoir de signer des contrats. Assurez-vous que vous êtes autorisé à signer des contrats pour le compte de votre entreprise, car vous serez invité à le faire au cours du processus d’inscription.
 
@@ -53,11 +42,11 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 
 1.  Vérifiez les informations de la page **Bienvenue**, puis sélectionnez **Suivant**.
 
-2.  Connectez-vous en tant qu’administrateur général au compte professionnel de votre entreprise. Si vous ne connaissez pas le compte professionnel de votre entreprise, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).
+2.  Connectez-vous en tant qu’administrateur général au compte professionnel de votre entreprise. Si vous n’êtes pas sûr de ce que fait le compte professionnel de votre entreprise, consultez [votre compte professionnel professionnel et l’espace partenaires](azure-active-directory-tenants-and-partner-center.md).
 
     Sélectionnez **Se connecter** si vous savez que votre entreprise possède un compte de courrier professionnel. Dans la page suivante, saisissez les informations d’identification de l’administrateur général du compte professionnel de votre entreprise. 
 
-    Si votre société n’a pas de compte professionnel, sélectionnez **Créer un compte** pour en configurer un maintenant. Après avoir créé un compte professionnel, connectez-vous à l'aide des informations d’identification de l’administrateur général du compte professionnel que vous venez de créer.
+    Si votre société n’a pas de compte professionnel, sélectionnez **Créer un compte** pour en configurer un maintenant. Après avoir créé un compte professionnel, connectez-vous à l’aide de vos informations d’identification d’administrateur général pour le compte professionnel que vous venez de créer.
 
 3.  Renseignez ou mettez à jour le profil juridique de votre entreprise et les coordonnées du contact principal, puis sélectionnez **S’inscrire maintenant**. 
 
@@ -70,7 +59,7 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 
 5.  Vérifiez que vous avez été ajouté au groupe agent administrateur. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
-    a. Dans votre **Espace partenaires**, sélectionnez l’icône **Paramètres**, puis sélectionnez **Gestion des utilisateurs**.  
+    a. Dans le tableau de [bord](https://partner.microsoft.com/en-us/dashboard/home**)de l’espace partenaires, sélectionnez l’icône des **paramètres** , puis sélectionnez **gestion des utilisateurs**.  
 
     b. Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent administrateur** s’il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.  
 
@@ -85,3 +74,5 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 -   [En savoir plus sur les compétences requises pour le niveau d'adhésion Or ou Argent](https://partner.microsoft.com/membership/competencies)
 
 -   [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)
+
+-   [Obtenir et gérer des prospects de Microsoft](responding-to-referrals.md)
