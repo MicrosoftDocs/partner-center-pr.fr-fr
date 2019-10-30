@@ -1,18 +1,18 @@
 ---
 title: Acheter ou renouveler vos offres d’avantages | Espace partenaires
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: Découvrez comment obtenir Microsoft Action Pack, qu’il s’agisse d’un premier achat ou d’un renouvellement.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318853"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978744"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Premier achat ou renouvellement d’un abonnement Microsoft Action Pack ou des compétences de niveau Silver ou Gold
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318853"
 -  Espace partenaires
 -  Partner Membership Center
 
-Désormais, dans le tableau de bord de l’Espace partenaires, vous pouvez acheter ou renouveler vos offres d’avantages, notamment l’abonnement Microsoft Action Pack et les compétences de niveau Silver et Gold. 
+Désormais, dans le [tableau de bord](https://docs.microsoft.com/partner-center/) de l’Espace partenaires, vous pouvez acheter ou renouveler vos offres d’avantages, notamment l’abonnement Microsoft Action Pack et les compétences de niveau Silver et Gold. 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Acheter Microsoft Action Pack pour la première fois
 
@@ -36,23 +36,13 @@ Devenez un [partenaire Compétences](https://partner.microsoft.com/membership/co
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Renouveler un abonnement Microsoft Action Pack
 
 >[!IMPORTANT]
->Vous devez désormais gérer votre abonnement Action Pack dans l’Espace partenaires (ce site). 
+>Vous devez désormais gérer votre abonnement Action Pack dans l’Espace partenaires.
 
 ### <a name="check-your-renewal-eligibility"></a>Vérifier votre éligibilité au renouvellement
 
-1. Connectez-vous au [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect).
-
-2. Une fois connecté, vous pourrez :
-
-    - Suivre les étapes pour renouveler votre abonnement dans PMC, ou
-
-    - Obtenir un message vous invitant à renouveler votre abonnement dans l’Espace partenaires (ce site)
-
 >[!IMPORTANT]
 >Si vous êtes invité à renouveler votre abonnement dans l’Espace partenaires, sachez que nous avons modifié notre politique relative à la fenêtre de renouvellement et que vous ne pouvez renouveler votre abonnement qu’après son expiration. Par exemple, si votre abonnement arrive à expiration le 22 juin, vous pouvez le renouveler à partir du 23 juin et pendant les 30 jours suivants.       
->Vous pouvez trouver la date d’expiration de votre abonnement dans votre page [**Offres d’abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers) (connexion nécessaire). Si vous êtes éligible au renouvellement dans l’Espace partenaires ou que vous le devenez, suivez les étapes ci-après.  
-
-
+>Vous pouvez trouver la date d’expiration de votre abonnement dans votre page [**Offres d’abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers) (connexion nécessaire). Quand vous êtes éligible au renouvellement dans l’Espace partenaires ou que vous le devenez, suivez les étapes ci-après.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Pour renouveler un abonnement Microsoft Action Pack dans l’Espace partenaires
 

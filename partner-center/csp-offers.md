@@ -1,18 +1,18 @@
 ---
 title: Offres pour les partenaires du programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 05/01/2019
+ms.date: 10/28/2019
 description: Découvrez les offres disponibles pour les partenaires qui vendent via le programme Fournisseur de solutions Cloud.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions cloud, services basés sur le cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions cloud, vendre dans le programme Fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements client
 ms.localizationpriority: high
-ms.openlocfilehash: a77e41742689221b77d06d7732b86f367148ab13
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318454"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045626"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offres pour les partenaires du programme Fournisseur de solutions Cloud 
 
@@ -24,6 +24,9 @@ Les partenaires Microsoft du programme Fournisseur de solutions Cloud (CSP) ont 
 
 Vous n’êtes pas encore inscrit au programme Fournisseur de solutions Cloud ? Consultez la page [Fournisseur de solutions Cloud](https://partner.microsoft.com/cloud-solution-provider) pour plus d’informations sur l’inscription. 
 
+>[!NOTE]
+>À compter du 31 janvier 2020, tous les clients devront avoir signé le Contrat client Microsoft. Cela comprend vos clients existants et les nouveaux. Pour en savoir plus, lisez [Confirmer l’acceptation du Contrat client Microsoft par le client](confirm-customer-agreement.md)
+
 ## <a name="what-you-can-sell-through-csp"></a>Ce que vous pouvez vendre via le programme Fournisseur de solutions Cloud
 
 Actuellement, vous pouvez vendre les types de produits et de services suivants à vos clients du programme Fournisseur de solutions Cloud :
@@ -34,7 +37,7 @@ Actuellement, vous pouvez vendre les types de produits et de services suivants �
     
     Pour plus d’informations, consultez [Vendre des réservations d’instances de machine virtuelle Microsoft Azure](azure-reservations.md).
 
-- Logiciel<br>
+- Logiciels<br>
 
     Les clients peuvent acheter des abonnements logiciels (à Windows Server et SQL Server, pour une durée de 1 ou 3 ans, pour les exécuter sur des instances de machine virtuelle Azure réservées).<br>
  
