@@ -37,7 +37,7 @@
 ## [Contrats, listes de prix et offres CSP](csp-documents-and-learning-resources.md)
 ## [Marchés et monnaies régionaux des fournisseurs de solutions cloud](regional-authorization-overview.md)
 ## [Confirmer l’acceptation du contrat Microsoft Cloud par le client](confirm-consent.md)
-## [Confirmer l’acceptation du contrat client Microsoft par le client (préversion)](confirm-customer-agreement.md)
+## [Confirmer l’acceptation du Contrat client Microsoft (confirm-customer-agreement.md)
 
 ## [Appliquer pour vendre sur des clouds nationaux](csp-national-clouds-overview.md)
 ### [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
