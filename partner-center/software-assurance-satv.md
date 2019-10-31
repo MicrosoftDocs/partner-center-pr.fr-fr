@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: bons de formation, software assurance, formation, inscription à SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425187"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142017"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) de l’Espace partenaires
 
@@ -37,7 +37,7 @@ Cet article explique comment effectuer chaque étape.
 
 ## <a name="confirm-program-eligibility"></a>Confirmer l’éligibilité au programme
 
-Avant de pouvoir vous inscrire au programme Bon de formation Software Assurance (SATV), vous devez remplir les conditions requises pour l’option Microsoft Partner Network Learning, qui remplace la compétence Microsoft Learning. Découvrez comment bien démarrer avec l’[option Learning](https://partner.microsoft.com/en-us/membership/learning-partners).
+Avant de pouvoir vous inscrire au programme Bon de formation Software Assurance (SATV), vous devez remplir les conditions requises pour l’option Microsoft Partner Network Learning, qui remplace la compétence Microsoft Learning. Découvrez comment bien démarrer avec l’[option Learning](https://partner.microsoft.com/membership/learning-partners).
 
 Vous pouvez vérifier l’éligibilité de votre entreprise, notamment les exigences applicables en termes de compétences et d’évaluation dans l’Espace partenaires. Pour plus d’informations et pour obtenir des captures d’écran, suivez les instructions de l' [étape 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail SATV.
 
