@@ -1,18 +1,18 @@
 ---
 title: Gérer vos avantages Microsoft Partner Network | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
-description: En tant que membre de Microsoft Partner Network, vous avez le droit d'acheter certains avantages. Explique comment activer et gérer vos avantages de l’appartenance au centre de partenaires.
+ms.date: 10/29/2019
+description: En tant que membre de Microsoft Partner Network, vous avez le droit d'acheter certains avantages. Explique comment activer et gérer les avantages de votre abonnement dans l’espace partenaires.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, avantages d'adhésion, adhésion
 ms.localizationpriority: medium
-ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
-ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
-ms.translationtype: HT
+ms.openlocfilehash: 1f958bf9fceb9f11edbd63b139796e4944486310
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67198319"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413332"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer les avantages de votre adhésion à Microsoft Partner Network
 
@@ -21,21 +21,21 @@ ms.locfileid: "67198319"
 -  Espace partenaires
 
 >[!IMPORTANT]
->Cet article explique comment commencer à utiliser vos avantages d’adhésion Microsoft Partner Network (MPN) dans l’espace partenaires - ce site. Si vous n’avez pas reçu une invitation pour déplacer des informations de votre société à partir de partenaire Membership Center (PMC) vers l’espace partenaires, vous devez continuer à gérer vos avantages de l’appartenance au MPN dans PMC. [Se connecter](https://partner.microsoft.com/_login?authType=OpenIdConnect) au Partner Membership Center maintenant.   
+>Cet article explique comment commencer à utiliser les avantages de votre abonnement Microsoft Partner Network (MPN) dans l’espace partenaires-ce site. Si vous n’avez pas reçu d’invitation pour déplacer les informations de votre société du centre d’appartenance des partenaires (PMC) vers l’espace partenaires, vous devez continuer à gérer les avantages de votre abonnement MPN dans PMC. [Se connecter](https://partner.microsoft.com/_login?authType=OpenIdConnect) au Partner Membership Center maintenant.
 
 Lorsque vous rejoignez le Microsoft Partner Network (MPN), vous avez accès à tous les avantages d’adhésion qui peuvent vous aider à gérer et à développer votre activité. Si vous n’êtes pas membre de MPN, vous pouvez adhérer sur [le site MPN](https://partner.microsoft.com/membership).
 
 
-## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Gérer vos avantages de l’appartenance dans l’espace partenaires
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Gérer les avantages de votre abonnement dans l’espace partenaires
 
 Une fois que vous avez acheté un package d'avantages d'adhésion, vous devez obtenir les clés logicielles et attribuer des licences, des abonnements et d'autres avantages aux employés pour commencer à les utiliser. 
 
 >[!IMPORTANT]
->Bien qu'il ne soit pas nécessaire d’être administrateur général dans votre organisation pour acheter des avantages, vous devez être l'administrateur général pour affecter des avantages aux employés.  Si vous le souhaitez, vous pouvez devenir administrateur général en suivant les instructions de votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). En outre, votre organisation a peut-être déjà un administrateur général, donc veillez à vérifier avec votre équipe.
+>Bien qu'il ne soit pas nécessaire d’être administrateur général dans votre organisation pour acheter des avantages, vous devez être l'administrateur général pour affecter des avantages aux employés. Si nécessaire, vous pouvez devenir administrateur général en suivant les instructions figurant sur la page de vos [ **avantages** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). Votre entreprise a peut-être déjà un administrateur général. Veillez donc à consulter votre équipe.
 
-Vos packages d'avantages incluent les allocations de licences logicielles de droits d’utilisation interne, les services cloud, les abonnements Visual Studio et le support. Vous pouvez obtenir plus de détails sur l'abonnement Action Pack sur le site [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+Les packages d’avantages incluent les allocations de logiciels sous licence, les services Cloud, les abonnements Visual Studio et le support. Les packages d’avantages peuvent également inclure certains avantages de la mise sur le marché. Vous pouvez obtenir plus de détails sur l'abonnement Action Pack sur le site [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Pour afficher et gérer vos avantages réservés aux membres, accédez à votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise).
+Pour afficher et gérer tous les avantages de votre abonnement, accédez à la page de vos [ **avantages** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). Vous pouvez également vous connecter au [tableau de bord](https://docs.microsoft.com/en-us/partner-center/)de l’espace partenaires, sélectionner l'**option [avantages**] dans le menu de gauche, puis sélectionner les options d’avantages affichées.  
 
 #### <a name="manage-software-benefits"></a>Gérer les avantages logiciels
 
@@ -80,6 +80,7 @@ Pour afficher et gérer vos avantages réservés aux membres, accédez à votre 
 
     Vous pouvez réaffecter des abonnements à tout moment en supprimant un utilisateur assigné, puis en assignant un autre utilisateur. 
 
+
 #### <a name="manage-technical-benefits"></a>Gérer les avantages techniques
 
 1. Sélectionnez **Avantages techniques** pour afficher la liste de vos avantages techniques Microsoft.
@@ -101,15 +102,46 @@ Pour afficher et gérer vos avantages réservés aux membres, accédez à votre 
 4. Vous pouvez utiliser votre avantage en matière d'assistance technique de prévente ou d'heures de conseil partenaire pour demander une assistance technique pendant les phases de prévente, de conception, de déploiement et de développement d'applications de vos solutions Cloud et hybrides. Pour demander une assistance, renseignez le [formulaire de demande](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 ), puis sélectionnez **Envoyer une demande**.
 
-## <a name="cancel-a-membership-benefit"></a>Annuler un avantage de l’appartenance
+#### <a name="manage-go-to-market-benefits"></a>Gérer les avantages de Go-to-Market
 
-Pour annuler un avantage et recevoir un remboursement, vous devez effectuer la demande dans les 30 jours suivant votre achat et n’avez pas activé les avantages du logiciel. Demander l’annulation via une demande de service.
+**Rôles appropriés pour effectuer cette tâche :**
+
+- Administrateur global
+- Administrateur du partenaire MPN
+
+1. Sélectionnez les **avantages de Go-to-Market** pour consulter la liste des avantages de Microsoft Go-to-Market.
+
+    Les [avantages de Go-to-Market](mpn-learn-about-go-to-market-benefits.md) offrent des ressources marketing et une assistance supplémentaires qui peuvent être disponibles. Les types d’avantages disponibles dépendent de votre niveau de partenaire spécifique et de toutes les compétences que vous avez pu obtenir.
+
+2. Pour activer un avantage de Go-to-Market, vous devez d’abord affecter un contact marketing d’entreprise. Ce contact recevra des communications de suivi sur les avantages de Go-to-Market actifs.
+
+3. Pour ajouter ou mettre à jour vos informations de contact marketing, accédez à la partie supérieure de la page Go-to-Market, puis sélectionnez **Ajouter**, **mettre à jour**ou **modifier**. Maintenant, procédez comme suit :  
+   
+    a.  Sélectionnez un utilisateur dans la liste. Si l’utilisateur que vous souhaitez assigner n’est pas dans la liste, vous pouvez [Ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
+
+    b.  Indiquez une adresse de messagerie de l’utilisateur différente de celle associée au compte Espace partenaires de votre entreprise. 
+    
+    Nous vous enverrons par courrier électronique des instructions pour l’utilisation de votre offre Go-to-Market sur l’adresse e-mail de votre contact marketing désigné. 
+    
+    c.  Indiquez le numéro de téléphone et la langue par défaut de ce contact marketing. Une fois que vous avez terminé d’entrer ces informations, sélectionnez **affecter un utilisateur**. 
+
+4. Après avoir mis à jour votre contact marketing, recherchez l’avantage de mise sur le marché que vous souhaitez commencer à utiliser, puis sélectionnez la flèche vers le bas à l’extrême droite de la ligne pour développer les détails de l’avantage. La liste affiche chaque type d’avantage disponible sous le nom de l’avantage (par exemple, **Silver Core** ou **Gold Core**).
+
+5. Sélectionnez **activer** pour activer l’avantage.
+
+> [!NOTE]
+>Il peut prendre plusieurs jours pour envoyer des instructions par courrier électronique au contact marketing attribué et activer un avantage de Go-to-Market. Une fois l’avantage activé, vous verrez des modifications sur la page Go-to-Market. Dans la colonne **État** , vous verrez que l’avantage passe à **actif**. Dans la colonne **Expires** , vous verrez la date d’expiration de l’avantage. Vous pouvez utiliser cet avantage jusqu’à sa date d’expiration. En savoir plus sur les [différents types d’avantages de Go-to-Market](mpn-learn-about-go-to-market-benefits.md) disponibles.  
 
 
-#### <a name="see-also"></a>Voir aussi
+## <a name="cancel-a-membership-benefit"></a>Annuler un avantage d’appartenance
+
+Afin d’annuler un avantage et de recevoir un remboursement, vous devez effectuer la demande dans les 30 jours suivant l’achat et ne pas avoir activé les avantages du logiciel. Demander l’annulation via une demande de service.
+
+
+#### <a name="see-also"></a>Articles associés
 
 [Ajouter des utilisateurs et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
 
 [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
 
-
+[En savoir plus sur les avantages d’MPN Go-to-Market](mpn-learn-about-go-to-market-benefits.md)
