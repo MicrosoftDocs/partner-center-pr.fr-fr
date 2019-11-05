@@ -7,20 +7,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a4074382d9cacbc363150db55fab62634150ebfd
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171170"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428437"
 ---
 # <a name="partner-earned-credit---overview"></a>Crédit Partenaires – vue d’ensemble
-
 
 Dans la nouvelle expérience de commerce du programme Fournisseur de solutions Cloud, le crédit Partenaires est un modèle métier qui permet d’appliquer un tarif Azure uniforme simplifié sur l’ensemble des véhicules de commercialisation de Microsoft, tout en soutenant un écosystème de partenaires qui fournit des services managés à valeur ajoutée. Le crédit Partenaires favorise également l’élimination de toute concurrence sur les marges. 
 
 Avec des milliers de services dans Azure et plusieurs options d’achat, la tarification peut s’avérer difficile pour de nombreux clients et partenaires. Dans la nouvelle expérience de commerce pour Azure, nous nous sommes alignés sur les principes d’une tarification globale unique applicable à toutes les motions de nos transactions. Les partenaires fournisseurs de solutions Cloud peuvent proposer Azure aux prix publiés. Cela offre une plus grande transparence à leurs clients et permet d’instaurer la confiance. 
-
 
 Les besoins liés à la transformation numérique de nos clients modifient la nature de la valeur offerte par les partenaires. De nombreux clients recherchent des partenaires capables de fournir des services dépassant une simple transaction, qui pourront assouplir leur adoption du cloud et les aider à consommer efficacement les services Azure. Ces services Azure sont continus et incluent la surveillance du patrimoine, la gestion des stratégies et de la gouvernance, le réglage précis de l’installation et de la configuration, le support technique et un large éventail d’autres services. 
 
@@ -66,11 +64,12 @@ Apprenez-en davantage sur la façon de développer votre [portefeuille de servic
 Ces services impliquent un niveau d’accès approprié des partenaires dans l’environnement Azure du client, et notre système de commerce mesure les détails d’accès pour calculer le crédit Partenaires.  
 
 >[!Note]
-
 >Les clients ont la possibilité de supprimer tout accès accordé aux partenaires. Les partenaires ne doivent pas contraindre les clients à leur attribuer un accès approprié dans le seul but d’obtenir de Microsoft un crédit Partenaires. Le non-respect de cette exigence peut rendre le partenaire inéligible à l’obtention d’un crédit Partenaires.
 
 **Pour plus d’informations**
-- [Calcul et paiement du crédit Partenaires]
+
+- [Calcul et paiement du crédit Partenaires](partner-earned-credit-explanation.md)
+
 - [Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md)
 
 - [Tarifs de la nouvelle expérience de commerce pour les fournisseurs de solutions cloud](azure-plan-price-list.md)

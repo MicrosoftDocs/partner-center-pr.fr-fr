@@ -1,18 +1,18 @@
 ---
-title: Gérer les abonnements et les ressources dans le cadre du plan Azure | Espace partenaires
+title: Gérer les abonnements et les ressources dans le plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 10/04/2019
-description: Acheter plusieurs abonnements Azure sans avoir à soumettre une commande distincte pour chaque abonnement
+ms.date: 11/01/2019
+description: Acheter plusieurs abonnements Azure dans le plan Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 5aa39cbecc7f468329c9a5234dd975c776a63ea6
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997866"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428497"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gérer les abonnements et les ressources dans le cadre du plan Azure
 
@@ -23,7 +23,7 @@ Quand vous opérez la transition d’un client vers le plan Azure, des droits d�
 
  Les partenaires peuvent bénéficier d’une gestion et d’un contrôle opérationnels 24h/24 et 7j/7 sur les ressources Azure d’un client dans le cadre du programme Fournisseur de solutions Cloud (CSP) en utilisant les différentes options fournies par l’intermédiaire de la fonctionnalité de contrôle d’accès en fonction du rôle (RBAC). 
 
-- **Administrateur au nom de (AOBO)**  : avec les privilèges AOBO, tout utilisateur disposant du rôle d’agent d’administration dans le locataire du partenaire dispose d’un accès propriétaire RBAC aux abonnements Azure que vous créez par l’intermédiaire du programme CSP.
+- **Administrateur pour le compte de (AOBO)**  : avec les privilèges [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO), tout utilisateur avec le rôle d’agent d’administration dans le locataire partenaire dispose d’un accès propriétaire RBAC aux abonnements Azure que vous créez dans le programme CSP.
 
 - **Azure Lighthouse** : les privilèges AOBO ne permettent pas de créer des groupes distincts qui fonctionnent avec différents clients, ni d’activer des rôles différents pour les groupes ou les utilisateurs. En utilisant Azure Lighthouse, vous pouvez affecter différents groupes à différents clients ou rôles. Sachant que les utilisateurs disposent du niveau d’accès approprié via la gestion de ressources déléguée Azure, vous pouvez réduire le nombre d’utilisateurs ayant le rôle d’agent d’administration (et donc disposer d’un accès AOBO complet). Cela contribue à améliorer la sécurité en limitant les accès inutiles aux ressources de vos clients. Cela permet aussi de gérer plusieurs clients selon les besoins avec une plus grande souplesse. Pour plus d’informations, consultez [Azure Lighthouse et le programme Fournisseur de solutions cloud](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
@@ -39,8 +39,8 @@ Le tableau suivant présente les différentes méthodes permettant d’associer 
 |-----------------|:------------------------|:------------------|
 |AOBO   |Le fournisseur indirect ou le partenaire direct CSP crée l’abonnement pour le client, ce qui fait du fournisseur indirect ou du partenaire direct CSP le propriétaire par défaut de l’abonnement en utilisant les privilèges AOBO ; le fournisseur indirect ou le partenaire direct CSP accorde au revendeur indirect un accès à l’abonnement en utilisant les privilèges AOBO.|Automatique (aucun travail nécessaire de la part du partenaire)|
 |Azure Lighthouse|Le partenaire crée une [offre Services managés sur la Place de marché ](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers). Cette offre est acceptée au niveau de l’abonnement CSP et le partenaire obtient un accès à l’abonnement CSP.|Automatique (aucun travail nécessaire de la part du partenaire)|
-|Azure Lighthouse|Le partenaire déploie un [modèle ARM](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) dans un abonnement Azure.|Le partenaire doit associer l’ID MPN à l’utilisateur ou au principal du service du locataire du partenaire. Pour plus d’informations, consultez [Lier un ID partenaire](https://docs.microsoft.com/en-us/azure/billing/billing-partner-admin-link-started).|
-|Annuaire ou utilisateur invité|Le partenaire crée un utilisateur ou un principal du service dans l’annuaire du client et accorde à l’utilisateur un accès à l’abonnement CSP. Le partenaire crée un utilisateur ou un principal du service dans l’annuaire du client. Le partenaire ajoute l’utilisateur à un groupe et accorde au groupe un accès à l’abonnement CSP.|Le partenaire doit associer l’ID MPN à l’utilisateur ou au principal du service du locataire du client. Pour plus d’informations, consultez [Lier un ID partenaire](https://docs.microsoft.com/en-us/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|Le partenaire déploie un [modèle ARM](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) dans un abonnement Azure.|Le partenaire doit associer l’ID MPN à l’utilisateur ou au principal du service du locataire du partenaire. Pour plus d’informations, consultez [Lier un ID partenaire](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
+|Annuaire ou utilisateur invité|Le partenaire crée un utilisateur ou un principal du service dans l’annuaire du client et accorde à l’utilisateur un accès à l’abonnement CSP. Le partenaire crée un utilisateur ou un principal du service dans l’annuaire du client. Le partenaire ajoute l’utilisateur à un groupe et accorde au groupe un accès à l’abonnement CSP.|Le partenaire doit associer l’ID MPN à l’utilisateur ou au principal du service du locataire du client. Pour plus d’informations, consultez [Lier un ID partenaire](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Vérifier que vous disposez d’un accès administrateur
 
@@ -72,7 +72,12 @@ L’accès basé sur les rôles se distingue de l’accès administrateur. Les r
 
 Pour connaître les rôles éligibles au crédit Partenaires, consultez [Rôles et autorisations nécessaires pour le crédit Partenaires](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
+
+
+
 **Pour plus d’informations**
+
+- [Révocation et rétablissement des privilèges d’administrateur pour les abonnements Azure CSP](revoke-reinstate-csp.md)
 
 - [Crédit Partenaires – Vue d’ensemble](partner-earned-credit.md)
 

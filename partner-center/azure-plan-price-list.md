@@ -1,19 +1,19 @@
 ---
 title: Tarifs du plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 description: Comment afficher les tarifs des abonnements dans le cadre du plan Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171278"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428548"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure 
 
@@ -54,10 +54,9 @@ Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur
 
     - **Taux Fx** : Les taux de change sont disponibles au téléchargement le jour avant le 1er du mois, à 18h00 PST. Par exemple, si vous voulez les taux de novembre, téléchargez-les le 31 octobre. Les taux de change du mois précédent sont également disponibles.
 
-    - **Services éligibles** : Le crédit Partenaires s’applique aux services figurant dans les **tarifs de la consommation de plan Azure** que les partenaires peuvent exporter à partir de la page des tarifs du plan Azure. Notez cependant qu’il existe des exceptions, telles que notamment les réservations tierces et Azure.
-
 - Les prix figurant dans les tarifs sont les prix directs. Certains partenaires peuvent être éligibles aux crédits Partenaires. Pour obtenir des informations sur la façon de calculer le crédit Partenaires, lisez [Calcul et paiement du crédit Partenaires](partner-earned-credit-explanation.md).
 
+- **Services éligibles** : Le crédit Partenaires s’applique aux services figurant dans les **tarifs de la consommation de plan Azure** que les partenaires peuvent exporter à partir de la page des [tarifs du plan Azure](https://partner.microsoft.com/commerce/sales). Notez qu’il existe des exceptions, telles que notamment les produits tiers identifiés comme « Tiers » dans la colonne Étiquettes des tarifs de consommation de plan Azure et les réservations de plan Azure.
 
 ## <a name="price-list-data"></a>Données des tarifs
 

@@ -1,23 +1,24 @@
 ---
 title: Plan Azure - Facturation | Espace partenaires
 ms.topic: article
-ms.date: 10/04/2019
-description: Décrit la structure des factures et fichiers de rapprochement
+ms.date: 11/01/2019
+description: Décrit la structure de fichier de rapprochement et de facture pour le plan Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 28e670635ca7fcff60041fcb5c93b3ddd5e4069d
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171301"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428476"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
-La facturation dans le cadre du plan Azure est une expérience simplifiée grâce à une date de facturation unique et une période de facturation par mois civil. Pour plus d’informations sur la plateforme de facturation, consultez le [Guide des opérations de commerce moderne de l’Espace partenaires](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx).
+
+La facturation dans le plan Azure est une expérience simplifiée qui utilise une date de facturation unique et une période de facturation par mois civil. Pour plus d’informations sur la plateforme de facturation, consultez le [Guide des opérations de commerce moderne de l’Espace partenaires](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx).
 
 ## <a name="summary-of-billing-essentials"></a>Résumé des fondamentaux de la facturation
 
@@ -33,23 +34,60 @@ La facturation dans le cadre du plan Azure est une expérience simplifiée grâc
 
 - **Primes incitatives des partenaires** : Payées à 45 jours fin de mois.
 
-##  <a name="access-your-invoices-and-recon-files"></a>Accéder à vos factures et à vos fichiers de rapprochement
+##  <a name="access-your-invoices-and-reconciliation-files"></a>Accéder à vos factures et à vos fichiers de rapprochement
 
 L’administrateur général ou l’administrateur de facturation de votre entreprise reçoit un e-mail dès qu’une facture est consultable. 
 
 **Pour accéder à la facture et au fichier de rapprochement**
 
-1. Connectez-vous à l’Espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/en-us/dashboard/) de l’Espace partenaires.
 
 2. Dans le menu de l’Espace partenaires, sélectionnez **Facturation**.
 
-3. Sélectionnez l’onglet correspondant au **mois civil** et à la devise qui vous intéressent.
+3. Sélectionnez l’onglet correspondant à **Recurring** (Périodique) et **One-time** (Ponctuelle) ainsi qu’à la devise qui vous intéresse.
 
 ![facturation](images/azure/billing1.png)
 
-4. Sélectionnez la **facture et le fichier de rapprochement**.  
+4. Sélectionnez **Facture** ou **Fichier de rapprochement**.  
 
 Pour voir l’historique des factures et des fichiers de rapprochement, développez la ligne d’historique de facturation située en dessous.
+
+
+## <a name="understanding-usage-data"></a>Fonctionnement des données d’utilisation 
+
+1. Le plan Azure est le conteneur racine ou de niveau supérieur pour l’utilisation. Toute utilisation est reliée à un seul plan Azure. 
+
+2. Dans un plan, il y aura un ou plusieurs abonnements Azure. Il s’agit de conteneurs utilisés pour la gestion et le déploiement des ressources. 
+
+3. Dans un abonnement, les groupes de ressources s’ajoutent aux ressources de groupe. Chaque ressource est déployée sur un groupe de ressources. 
+
+4. Les machines virtuelles et les comptes de stockage sont des exemples de ressources. 
+
+5. Les ressources émettent des compteurs : Les compteurs sont des mesures de consommation d’une ressource et une ressource peut émettre l’utilisation de plusieurs compteurs. Les compteurs sont identifiés par un ProductId, un SKUId et un AvailabilityId. 
+
+### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>Hiérarchie des groupes de ressources et du contrôle des abonnements
+
+**Compte Azure (locataire)**
+
+- Abonnement A
+    - Groupe de ressources 1
+        - Machine virtuelle (ressource)
+            - Compteur de calcul
+        - Réseau virtuel (ressource)
+            - Aucun compteur de facturation
+
+    - Groupe de ressources 2
+        - Machine virtuelle (ressource)
+            - Compteur de calcul
+        - Disque managé SSD Premium (ressource)
+            - Compteur de capacité de stockage
+            - Compteur des opérations de stockage
+
+- Abonnement B   -Groupe de ressources 1       - Azure SQL (ressource)           - Compteur DTU       - Passerelle VPN (ressource)           - Compteur de passerelle VPN
+
+    - Groupe de ressources 2
+        - Interface réseau virtuelle (ressource)
+            - Aucun compteur de facturation
 
 ## <a name="read-the-invoice"></a>Lire la facture
 
@@ -65,15 +103,15 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
 ![facture](images/azure/invoice1.png)
 
-## <a name="read-the-recon-file"></a>Lire le fichier de rapprochement
+## <a name="read-the-invoice-reconciliation-file"></a>Lire le fichier de rapprochement des factures
 
-1. Chaque compteur d’abonnement Azure peut avoir jusqu’à deux lignes de facturation sur le fichier de rapprochement.
+1. Chaque combinaison de compteur et de plan Azure peut avoir jusqu’à deux lignes de facturation sur le fichier de rapprochement.
 
-2. Si le compteur est éligible à un type de remise ou crédit (par exemple, des remises de niveau 1 ou le crédit Partenaires pour les services managés) pendant tout le mois civil, alors le fichier de rapprochement ne contient qu’une seule ligne de facturation. La colonne **PriceAdjusmentDescription** fait référence à la remise ou au crédit gagné. Le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires ou toute autre remise.
+2. Si le compteur est éligible à un type de remise ou crédit (par exemple, des remises différenciées ou le crédit Partenaires pour les services managés) pendant tout le mois civil, le fichier de rapprochement ne contient qu’une seule ligne de facturation. La colonne **PriceAdjusmentDescription** référencera la remise ou le crédit Partenaires.
 
-3. Si le compteur n’est pas éligible au crédit Partenaires pour les services managés pendant tout le mois civil, alors le fichier de rapprochement ne contient qu’une seule ligne de facturation et le prix unitaire effectif correspond au prix de vente au détail (à savoir, le prix unitaire).
+3. Si aucune ressource d’un compteur particulier n’est éligible à une remise ou au crédit Partenaires, le fichier de rapprochement ne contient qu’une seule ligne de facturation et le prix unitaire effectif correspond au prix de vente au détail (à savoir, le prix unitaire).
 
-4. Si le compteur est éligible au **crédit Partenaires pour les services managés** pendant une partie du mois, le fichier de rapprochement contient deux lignes de facturation. Une ligne représente les jours pendant lesquels le compteur est éligible et la seconde ligne représente les jours où il n’est pas éligible. 
+4. Si le compteur, ou n’importe quelle ressource émettant ce compteur, est éligible au **crédit Partenaires pour les services managés** pendant une partie du mois, le fichier de rapprochement contient deux lignes de facturation. Une ligne représente les jours pendant lesquels le compteur est éligible et la seconde ligne représente les jours où il n’est pas éligible. 
 
 ## <a name="read-the-daily-usage-file"></a>Lire le fichier d’utilisation quotidienne
 
@@ -91,41 +129,28 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
     - Le compteur est éligible au **crédit Partenaires pour les services managés** du 8 au 31 juillet. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
 
-![recon2](images/azure/billing2.png) 
+![recon2](images/azure/pecfinal.png) 
 
 ## <a name="invoice-in-customer-currency"></a>Facture dans la devise du client 
 
-Les services Azure fournis par l’intermédiaire d’un plan Azure sont facturés en USD et facturés dans la devise officielle du pays du client. Si la devise de facturation n’est pas USD, alors le taux de change utilisé est indiqué à la dernière page de la facture. Les taux de change sont déterminés tous les mois et appliqués à la facture suivante. Pour obtenir la liste complète des devises des pays, consultez la [grille des devises client et la disponibilité des offres de nouveau commerce par pays](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V). 
+Les services Azure fournis par l’intermédiaire d’un plan Azure sont facturés en USD et facturés dans la devise officielle du pays du client. Si la devise de facturation n’est pas USD, le taux de change utilisé est indiqué à la dernière page de la facture. Les taux de change sont déterminés tous les mois et appliqués à la facture suivante. Pour obtenir la liste complète des devises des pays, consultez la [grille des devises client et la disponibilité des offres de nouveau commerce par pays](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V). 
 
-Microsoft utilise [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company) pour déterminer le taux de change utilisé pour effectuer la conversion des devises. Le taux de change est actualisé et disponible le jour précédant le premier jour du mois auquel il s’applique.
+Microsoft utilise [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company) pour déterminer les taux de change utilisés pour effectuer la conversion de la devise de tarification en devise de facturation. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
 
-**Exemple**:  Les frais d’utilisation pour la période de service qui va du 1er au 31 août sont facturés à l’aide du taux de change publié le 1er août. Ces frais apparaissent dans la facture de septembre et le taux de change est indiqué à la dernière page de la facture. 
+**Exemple** :  Les frais d’utilisation pour la période de service qui va du 1er au 31 août sont facturés à l’aide du taux de change publié le 31 juillet. Ces frais apparaissent dans la facture de septembre et le taux de change est indiqué à la dernière page de la facture. 
 
-Les utilisateurs locataires des partenaires continuent de voir des informations connexes propres à leurs rôles concernant tous les clients et toutes les commandes, quelle que soit la devise de facturation. De plus, l’utilisateur peut voir toutes les factures dans toutes les devises.  
  
 ## <a name="azure-reservations"></a>Réservations Azure 
 
 Si vous achetez des [réservations Azure](https://docs.microsoft.com/partner-center/azure-reservations) par le biais d’un plan Azure, il est uniquement possible de choisir la facturation ponctuelle dans l’Espace partenaires. La facturation mensuelle est disponible sur le portail Azure. La facturation mensuelle sera disponible dans l’Espace partenaires à une date ultérieure. 
 
-## <a name="azure-cost-management"></a>Azure Cost Management 
-
-Les outils Azure Cost Management permettent aux organisations de visualiser, gérer et optimiser les coûts sur Microsoft Azure. Cette fonctionnalité sera disponible sur la portail Azure. Les partenaires disposeront d’une solution toujours active à faible latence avec les fonctionnalités suivantes disponibles : 
-
-- Analyses plus précises et alertes budgétaires 
-- API et connecteurs Power BI 
-- Vue multiclient 
-- Gratuité de la gestion des coûts Azure 
-- Élargissement des rôles/utilisateurs 
-
-Pour plus d’informations sur cette fonctionnalité disponible pour les contrats Entreprise depuis février 2019, consultez [Azure Cost Management](https://azure.microsoft.com/services/cost-management). Cette fonctionnalité est disponible uniquement avec les services Azure achetés dans le cadre de cette nouvelle expérience de commerce Azure pour les fournisseurs de solutions Cloud. 
- 
 ## <a name="azure-spending"></a>Dépenses Azure 
 
-Un outil relatif aux dépenses Azure sera disponible dans l’Espace partenaires pour la nouvelle expérience de commerce pour les fournisseurs de solutions Cloud. Quand cette expérience sera appliquée, cet outil permettra aux partenaires de voir :  
+L’expérience des dépenses Azure existante est mise à jour pour prendre en charge la facturation du nouveau plan Azure dans l’Espace partenaires. Cela permet aux partenaires d’effectuer les opérations suivantes :
 
-- Le budget total d’un client 
-- Les dépenses totales estimées sur un plan Azure existant 
-- Le pourcentage d’utilisation des clients à chaque période de facturation 
+- Voir, gérer et recevoir des alertes pour le budget défini au niveau d’un client 
+
+- Voir les dépenses totales estimées sur un plan Azure (ventilées par niveau de ressource et de compteur)
 
 Étant donné que le modèle de facturation des services Azure par le biais d’un plan Azure correspond à une consommation après paiement, pour éviter une facture plus importante que prévu, les partenaires peuvent appliquer un budget mensuel et suivre le pourcentage d’utilisation. Un budget peut être appliqué à un seul client ou à plusieurs clients à la fois. 
 
@@ -133,7 +158,7 @@ Un outil relatif aux dépenses Azure sera disponible dans l’Espace partenaires
 
 **Pour plus d’informations**
 
--  Le mode de calcul du crédit Partenaires se trouve dans la liste de tarifs disponible dans le tableau de bord de votre Espace partenaires. 
+-  Le mode de calcul du crédit Partenaires se trouve dans la liste de tarifs disponible dans le [tableau de bord](https://partner.microsoft.com/en-us/dashboard/) de votre Espace partenaires (connexion requise). 
    
 -  [Acheter le plan Azure](purchase-azure-plan.md)
 

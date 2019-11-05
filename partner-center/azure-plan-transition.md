@@ -1,23 +1,25 @@
 ---
 title: Transition des clients vers le plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Faire passer facilement vos clients au plan Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 34895de69eaa1aed16a485ddec032769f8dfc7a3
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: bb019f50a6648fb0bfffb7f465a50ed8a5bb6244
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171292"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428539"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Faire passer vos clients au plan Azure
 
-Les partenaires pourront faire passer leurs clients d’offres de mise sur le marché (Go-to-Markets) ou Fournisseur de solutions Cloud (CSP) Azure existantes à la nouvelle expérience de commerce disponible dans le programme CSP pour Azure. Les clients pourront acheter des services cloud de façon simplifiée, que ce soit auprès de partenaires, de vendeurs Microsoft ou directement sur le Web. La possibilité de transition s’adresse uniquement aux clients qui passent à la nouvelle expérience de commerce et qui ont signé le Contrat client Microsoft, et non à d’autres offres du programme CDP, comme Office 365 ou Dynamics 365.
+Les fournisseurs indirects et les partenaires de facturation directe peuvent passer à la nouvelle expérience de commerce disponible dans le programme CSP pour Azure. (Les revendeurs indirects devront utiliser leurs fournisseurs indirects.) Les clients pourront acheter des services cloud de façon simplifiée, que ce soit auprès de partenaires, de vendeurs Microsoft ou directement sur le Web.
+
+La possibilité de transition s’adresse uniquement aux clients qui passent à la nouvelle expérience de commerce pour Azure et qui ont signé le Contrat client Microsoft, et non à d’autres offres du programme CSP, comme Office 365 ou Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Passer d’offres CSP existantes à un plan Azure
 
@@ -55,10 +57,13 @@ Après l’achat d’un ou plusieurs plans Azure, notre système mappe les abonn
 
 ![Transition](images/azure/transition3.png)
 
->[!Note]
+>[!NOTE]
 >Le budget que vous définissez dans l’Espace partenaires n’est pas reporté sur le portail Azure. Vous devez aussi définir le budget et l’alerte sur le portail Azure.
 
 Quand vous passez au plan Azure, vous ne pouvez plus acheter d’abonnements Azure pour ce client. Vous devez créer les abonnements relevant du plan Azure sur le portail Azure.
+
+>[!NOTE]
+> Tous les abonnements Azure achetés via RBAC dans le plan Azure sont tarifés et facturés en monnaie locale. Les taux de change ne seront pas utilisés.
 
 ### <a name="track-your-transition-details"></a>Suivre les détails de votre transition
 
@@ -74,7 +79,7 @@ Si vous opérez la transition d’un client à partir d’une offre Azure CSP ex
 
 - Si vous disposiez de droits d’accès d’administrateur à l’abonnement CSP existant, vous continuerez d’y avoir accès une fois la migration de l’abonnement effectuée.
 
-Pour opérer la transition de contrats Entreprise directs vers des inscriptions CSP et Serveur et des inscriptions Cloud vers des services Azure, consultez [Obtenir la propriété de facturation d’abonnements Azure pour un Contrat Partenaire Microsoft]()
+Pour opérer la transition de contrats Entreprise directs vers des inscriptions CSP et Serveur et des inscriptions Cloud vers des services Azure, consultez [Obtenir la propriété de facturation d’abonnements Azure pour un Contrat Partenaire Microsoft](https://docs.microsoft.com/azure/billing/mpa-request-ownership)
 
 **Journal d’audit** :
 
@@ -88,9 +93,9 @@ Une fois la transition terminée, l’abonnement Azure est rattaché à un nouve
 
 >[Remarque] : Quand l’abonnement Microsoft Azure (0145P) est acheté dans le cadre du programme CSP, l’abonnement Commerce et l’abonnement Azure (droit d’utilisation) ont la même valeur. Ce n’est qu’en cas de changements ou de transferts de propriété de facturation que les valeurs diffèrent. 
 
-**Échec**
+**Problèmes de transition**
 
-Pendant les transitions, aucun échec n’est censé se produire. Si cela devait se produire, nous vous en informerons dans le workflow de transition proprement dit. Il n’y aura aucune perturbation dans l’utilisation d’Azure.  
+Pendant les transitions, aucun problème n’est censé se produire. Si cela devait se produire, nous vous en informerons dans le workflow de transition proprement dit. Il n’y aura aucune perturbation dans l’utilisation d’Azure.  
 
 **Étapes suivantes**
 

@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: b09588387d3b4f0f3f726a700245999c89755199
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 4c7f4e61cc249fb51f58e4a94892a2d937cae4e1
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425205"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141979"
 ---
 # <a name="partner-security-requirements"></a>Exigences de sécurité du partenaire
 
@@ -80,44 +80,7 @@ La liste ci-dessus n’est pas exhaustive. Il est donc important d’effectuer u
 
 ## <a name="accessing-your-environment"></a>Accéder à votre environnement
 
-Pour mieux comprendre ce qui ou qui fait l’objet d’une authentification sans demande d’authentification multifacteur, il est recommandé d’interroger les journaux d’audit d’Azure Active Directory. Pour ce faire, vous pouvez utiliser le module [Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) et le script ci-dessous. Il génère un rapport qui fournit des insights sur les tentatives d’authentification qui se sont produites au cours du dernier jour sans faire l’objet d’une demande d’authentification multifacteur.
-
-```powershell
-Login-AzAccount
-$context = Get-AzContext
-
-function Get-SignInEvents
-{
-    param([string]$userId)
-
-    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
-
-    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
-
-    $headers = @{
-    'Authorization' = 'Bearer ' + $token.AccessToken
-    'Content-Type' = 'application/json'
-        'X-Requested-With'= 'XMLHttpRequest'
-        'x-ms-client-request-id'= [guid]::NewGuid()
-        'x-ms-correlation-id' = [guid]::NewGuid()
-    }
-
-    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
-}
-
-$report = $()
-
-Get-AzADUser | foreach {
-    $events = Get-SignInEvents $_.Id
-    $report += $events.Items
-}
-
-$report | Where-Object {$_.mfaRequired -eq $false -and $_.loginSucceeded -eq $true} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
-```
-
-Une fois le script ci-dessus exécuté, les détails sont disponibles dans le fichier report.csv. Il contient une liste des tentatives d’authentification qui se sont produites au cours du dernier jour sans que l’utilisateur ait fait l’objet d’un test MFA. Vous devez examiner chaque entrée pour déterminer s’il s’agit du comportement attendu et agir si nécessaire.
-
-![Rapport d’évaluation](images/security/assessment-report.png)
+Pour mieux comprendre ce qui ou qui fait l’objet d’une authentification sans demande d’authentification multifacteur, il est recommandé de passer en revue l’activité de connexion. Avec Azure Active Directory Premium, vous pouvez tirer parti du rapport de connexions. Pour plus d’informations, consultez les [rapports d’activité de connexion dans le portail Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins). Si vous n’avez pas Azure Active Directory Premium ou si vous recherchez un moyen de l’obtenir via PowerShell, vous devrez tirer parti de l’applet de commande [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) à partir du module [PowerShell de l’Espace partenaires](https://www.powershellgallery.com/packages/PartnerCenter/).
 
 ## <a name="how-the-requirements-will-be-enforced"></a>Comment les spécifications seront appliquées
 

@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
-ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
+ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "71678304"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142033"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 
@@ -67,6 +67,17 @@ Oui, cela s’applique à toutes les zones géographiques. Nous recommandons viv
 
 Non, il n’est pas possible d’exclure un compte de l’exigence de mise en œuvre de l’authentification MFA. Compte tenu de la nature hautement privilégiée du statut de partenaire, le [Guide du programme Fournisseur de solutions Cloud](https://go.microsoft.com/fwlink/p/?LinkId=617100) recommande impérativement la mise en œuvre de l’authentification MFA pour chaque compte de locataire du partenaire.
 
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Comment savoir si j’ai répondu aux exigences de sécurité du partenaire ?
+
+Vous devez effectuer les étapes ci-dessous
+
+- Vous devez répondre à toutes les exigences décrites dans les [exigences de sécurité du partenaire](https://docs.microsoft.com/partner-center/partner-security-requirements)
+- Vous devez vous assurer que l’authentification multifacteur est appliquée à tous les comptes d’utilisateur de votre locataire partenaire.
+
+Pour vous aider à identifier les domaines clés dans lesquels vous pouvez prendre des mesures, nous fournissons le rapport sur le [statut des exigences de sécurité](https://partner.microsoft.com/pcv/security/compliance) qui est disponible via l’Espace partenaires.
+
+Pour plus d’informations sur le rapport sur le statut, consultez le [statut des exigences de sécurité des partenaires](https://docs.microsoft.com/partner-center/partner-security-compliance).
+
 ## <a name="required-actions"></a>Mesures à prendre
 
 ### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>Quelles sont les principales mesures à prendre pour satisfaire aux exigences ?
@@ -93,7 +104,7 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
     Tous les partenaires qui ont développé une intégration personnalisée à l’aide d’une API (par exemple Azure Resource Manager, Microsoft Graph, l’API de l’Espace partenaires, etc.) ou qui ont implémenté une automation personnalisée à l’aide d’outils tels que PowerShell doivent adopter le [framework du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) à intégrer aux services cloud Microsoft. Sinon, cela risque d’entraîner une interruption liée au déploiement de l’authentification MFA. Les ressources suivantes fournissent une vue d’ensemble et de l’aide sur l’adoption du modèle.
 
     - [Vue d’ensemble du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-    - [Espace partenaires : guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [Espace partenaires : guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
     - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
     - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -101,7 +112,7 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
 
     Si vous utilisez un panneau de contrôle, vous devez consulter le fournisseur concernant l’adoption du framework du modèle d’application sécurisé.
 
-    Les fournisseurs de panneaux de contrôle doivent [intégrer](https://docs.microsoft.com/partner-center/enroll-as-cpv) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
+    Les fournisseurs de panneaux de contrôle doivent [intégrer](https://docs.microsoft.com/partner-center/enroll-as-cpv) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
 
 ## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
@@ -237,18 +248,18 @@ Non, le compte de service utilisé par Azure AD Connect n’est pas impacté pa
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Qui doit adopter le modèle d’application sécurisé pour répondre aux exigences ?
 
-Microsoft propose un framework sécurisé et scalable pour l’authentification des partenaires du programme Fournisseur de solutions Cloud et des fournisseurs de panneaux de contrôle (CPV) qui tirent parti du service Multi-Factor Authentication. Pour plus d’informations, consultez le [Guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Tous les partenaires qui ont développé une intégration personnalisée à l’aide d’une API (par exemple Azure Resource Manager, Microsoft Graph, l’API de l’Espace partenaires, etc.) ou qui ont implémenté une automation personnalisée à l’aide d’outils tels que PowerShell doivent adopter le [framework du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) à intégrer aux services cloud Microsoft.
+Microsoft propose un framework sécurisé et scalable pour l’authentification des partenaires du programme Fournisseur de solutions Cloud et des fournisseurs de panneaux de contrôle (CPV) qui tirent parti du service Multi-Factor Authentication. Pour plus d’informations, consultez le [Guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Tous les partenaires qui ont développé une intégration personnalisée à l’aide d’une API (par exemple Azure Resource Manager, Microsoft Graph, l’API de l’Espace partenaires, etc.) ou qui ont implémenté une automation personnalisée à l’aide d’outils tels que PowerShell doivent adopter le [framework du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) à intégrer aux services cloud Microsoft.
 
 ### <a name="what-is-the-secure-application-model"></a>Qu’est-ce que le modèle d’application sécurisé ?
 
-Microsoft propose un framework sécurisé et scalable pour l’authentification des partenaires du programme Fournisseur de solutions Cloud et des fournisseurs de panneaux de contrôle (CPV) qui tirent parti du service Multi-Factor Authentication. Pour plus d’informations, consultez le [Guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).  
+Microsoft propose un framework sécurisé et scalable pour l’authentification des partenaires du programme Fournisseur de solutions Cloud et des fournisseurs de panneaux de contrôle (CPV) qui tirent parti du service Multi-Factor Authentication. Pour plus d’informations, consultez le [Guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>Comment implémenter le modèle d’application sécurisé ?
 
 Tous les partenaires qui ont développé une intégration personnalisée à l’aide d’une API (par exemple Azure Resource Manager, Microsoft Graph, l’API de l’Espace partenaires, etc.) ou qui ont implémenté une automation personnalisée à l’aide d’outils tels que PowerShell doivent adopter le [framework du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) à intégrer aux services cloud Microsoft. Sinon, cela risque d’entraîner une interruption liée au déploiement de l’authentification MFA. Les ressources suivantes fournissent une vue d’ensemble et de l’aide sur l’adoption du modèle.
 
 - [Vue d’ensemble du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Espace partenaires : guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Espace partenaires : guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -256,11 +267,11 @@ Tous les partenaires qui ont développé une intégration personnalisée à l’
 
 Si vous utilisez un panneau de contrôle, vous devez consulter le fournisseur concernant l’adoption du framework du modèle d’application sécurisé.
 
-Les fournisseurs de panneaux de contrôle doivent [intégrer](https://docs.microsoft.com/partner-center/enroll-as-cpv) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
+Les fournisseurs de panneaux de contrôle doivent [intégrer](https://docs.microsoft.com/partner-center/enroll-as-cpv) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
 
 ### <a name="who-is-a-control-panel-vendor-cpv"></a>Qu’est-ce qu’un fournisseur de panneau de contrôle (CPV) ?
 
-Un fournisseur de panneau de contrôle est un éditeur de logiciels indépendant qui développe des applications que les partenaires du programme Fournisseur de solutions Cloud intègrent aux API de l’Espace partenaires. Un fournisseur de panneau de contrôle n’est pas un partenaire du programme Fournisseur de solutions Cloud ayant un accès direct au tableau de bord ou aux API de l’Espace partenaires. Une description détaillée est disponible dans [Espace partenaires : guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+Un fournisseur de panneau de contrôle est un éditeur de logiciels indépendant qui développe des applications que les partenaires du programme Fournisseur de solutions Cloud intègrent aux API de l’Espace partenaires. Un fournisseur de panneau de contrôle n’est pas un partenaire du programme Fournisseur de solutions Cloud ayant un accès direct au tableau de bord ou aux API de l’Espace partenaires. Une description détaillée est disponible dans [Espace partenaires : guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Le modèle d’application sécurisé doit-il uniquement être implémenté pour le kit SDK/l’API de l’Espace partenaires ?
 
@@ -290,13 +301,13 @@ Pour recevoir le lien d’inscription, les CPV doivent contacter [CPVHelp@micros
 
 Une fois que vous vous êtes inscrit à l’Espace partenaires et que vous avez inscrit vos applications, vous avez accès aux API de l’Espace partenaires. Si vous êtes un nouveau CPV, vous allez recevoir les informations relatives au bac à sable via une notification de l’Espace partenaires. Une fois que vous avez effectué votre inscription en tant que CPV Microsoft et que vous avez accepté le contrat CPV, vous pouvez :
 
-1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) Remarque : Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
+1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) Remarque: Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
 2. Visualisez et gérez votre profil de CPV.
 3. Visualisez et gérez les utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV. Le seul rôle qu’un CPV peut avoir est celui d’administrateur général.
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>J’utilise le kit SDK de l’Espace partenaires. Le kit SDK adopte-t-il automatiquement le modèle d’application sécurisé ?
 
-Non, vous devez suivre les instructions fournies dans le [guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+Non, vous devez suivre les instructions fournies dans le [guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>Puis-je générer un jeton d’actualisation pour le modèle d’application sécurisé avec des comptes pour lesquels l’authentification MFA n’est pas activée ?
 
@@ -304,7 +315,7 @@ Oui, vous pouvez générer un jeton d’actualisation à l’aide d’un compte 
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>Comment mon application doit-elle obtenir un jeton d’accès si nous activons l’authentification MFA ?
 
-Vous devez suivre le [guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf), qui explique comment procéder, tout en respectant les nouvelles exigences de sécurité. Vous trouverez un exemple de code .NET [ici](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) et un exemple de code Java [ici](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
+Vous devez suivre le [guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf), qui explique comment procéder, tout en respectant les nouvelles exigences de sécurité. Vous trouverez un exemple de code .NET [ici](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) et un exemple de code Java [ici](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>En tant que CPV, est-ce que je crée une application Azure AD sur notre locataire de CPV ou sur le locataire du partenaire du programme Fournisseur de solutions Cloud ?
 
@@ -312,13 +323,13 @@ Le CPV doit créer l’application Azure Active Directory sur le locataire assoc
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>Je suis un fournisseur de solutions Cloud qui utilise l’authentification par application uniquement. Dois-je apporter des changements ?
 
-L’authentification par application uniquement n’est pas impactée, car les informations d’identification de l’utilisateur ne sont pas utilisées pour demander un jeton d’accès. Si les informations d’identification de l’utilisateur sont partagées, les CPV (fournisseurs de panneaux de contrôle) doivent adopter le [framework du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) et vider les informations d’identification de partenaire existantes.
+L’authentification par application uniquement n’est pas impactée, car les informations d’identification de l’utilisateur ne sont pas utilisées pour demander un jeton d’accès. Si les informations d’identification de l’utilisateur sont partagées, les CPV (fournisseurs de panneaux de contrôle) doivent adopter le [framework du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) et vider les informations d’identification de partenaire existantes.
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>En tant que CPV, puis-je utiliser l’authentification par application uniquement pour obtenir des jetons d’accès ?
 
 Non, les partenaires fournisseurs de panneaux de contrôle ne peuvent pas utiliser l’authentification par application uniquement pour demander des jetons d’accès au nom du partenaire. Ils doivent implémenter le modèle d’application sécurisé, qui utilise l’authentification d’application + l’authentification utilisateur.
 
-## <a name="enforcement"></a>Mise en œuvre
+## <a name="enforcement"></a>Application
 
 ### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>J’utilise une solution MFA tierce et je suis bloqué. Que dois-je faire ?
 
@@ -347,13 +358,13 @@ Les contraintes techniques relatives aux exigences de sécurité du partenaire i
 ### <a name="resources-for-adopting-secure-application-model"></a>Ressources pour l’adoption du modèle d’application sécurisé
 
 - [Vue d’ensemble du modèle d’application sécurisé](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Espace partenaires : guide du modèle d’application sécurisé](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Espace partenaires : guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code .NET pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [Partenaires du programme Fournisseur de solutions Cloud : exemple de code Java pour l’activation du modèle d’application sécurisé](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
 - [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-## <a name="support"></a>Assistance
+## <a name="support"></a>Support
 
 ### <a name="where-can-i-get-support"></a>Où puis-je obtenir un support ?
 

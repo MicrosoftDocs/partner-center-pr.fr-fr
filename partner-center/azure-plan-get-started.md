@@ -1,23 +1,23 @@
 ---
 title: Passer au plan Azure – Démarrer | Espace partenaires
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Acheter des abonnements dans la nouvelle expérience de commerce pour Azure
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
+Keywords: Azure, plan Azure, acheter des abonnements, abonnements
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: eb46255403297539c17145b82ecf096699abe390
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171266"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428449"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Passer au plan Azure – Démarrer
 
-Microsoft a introduit une nouvelle expérience de commerce dans le programme Fournisseur de solutions Cloud pour les partenaires Azure qui ont signé le Contrat Partenaire Microsoft. Cette nouvelle expérience de commerce donne aux partenaires l’accès aux services Azure à un tarif de paiement à l’utilisation pour les clients dans le cadre du Contrat client Microsoft. 
+Microsoft a introduit une nouvelle expérience de commerce dans l’Espace partenaires.  Cette nouvelle expérience de commerce donne aux partenaires l’accès aux services Azure à un tarif de paiement à l’utilisation pour les clients dans le cadre du Contrat client Microsoft. 
 
 Ce plan simplifie l’expérience d’achat et vous pouvez avoir plusieurs abonnements Azure dans un plan Azure. Vous n’avez plus besoin d’envoyer une commande distincte par abonnement Azure. De plus, dans cette nouvelle expérience de commerce pour Azure, nous nous sommes alignés sur un principe unique de tarification globale permettant aux partenaires fournisseurs de solutions Cloud de proposer Azure aux prix publiés. 
 
@@ -25,7 +25,7 @@ Les besoins liés à la transformation numérique de nos clients requièrent de 
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>S’assurer que les clients ont signé le Contrat client Microsoft
 
-À compter du 1er octobre 2019, le Contrat client Microsoft, un contrat perpétuel qui simplifie et rationalise l’expérience d’achat des clients avec un processus entièrement numérique, pourra être signé numériquement par les clients. Tous les clients qui souhaitent tirer parti de la nouvelle expérience de commerce dans le cadre du programme Fournisseur de solutions Cloud pour Azure doivent signer le Contrat client Microsoft.
+Depuis le 1er octobre 2019, le Contrat client Microsoft, un contrat perpétuel qui simplifie et rationalise l’expérience d’achat des clients avec un processus entièrement numérique, peut être signé numériquement par les clients. Tous les clients qui souhaitent tirer parti de la nouvelle expérience de commerce dans le cadre du programme Fournisseur de solutions Cloud pour Azure doivent signer le Contrat client Microsoft.
 
 Pour plus d’informations, lisez [Confirmer l’acceptation du Contrat client Microsoft par le client](confirm-customer-agreement.md)
 

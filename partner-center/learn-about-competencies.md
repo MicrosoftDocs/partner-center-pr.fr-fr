@@ -1,18 +1,18 @@
 ---
 title: Compétences Microsoft requises pour les niveaux d’adhésion Gold et Silver | Espace partenaires
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/29/2019
 description: Découvrez les compétences requises pour obtenir les niveaux d’adhésion Gold ou Silver.
 author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, adhésion silver, adhésion gold, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau, spécialisations avancées
 ms.localizationpriority: high
-ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318861"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413353"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informations sur les compétences de niveau Silver et Gold et les spécialisations avancées Microsoft
 
@@ -24,6 +24,8 @@ Mettez en évidence votre expertise éprouvée en solutions de qualité dans un 
 - Obtenez un **niveau d’adhésion Gold** pour mettre en évidence vos capacités d’excellence dans le domaine d’une solution Microsoft spécifique
 
 - En tant que membre partenaire Gold, vous pouvez aussi ajouter des spécialisations avancées à votre portefeuille.
+
+L’acquisition de compétences de niveau d’adhésion **Silver** ou **Gold** permet également d’exploiter de considérables avantages en termes de marketing et de vente pour la [mise sur le marché](mpn-learn-about-go-to-market-benefits.md) afin de vous aider à développer et accroître votre activité.
 
 ## <a name="competency-areas"></a>Domaines de compétence
 
@@ -40,6 +42,8 @@ Les niveaux de compétence Silver et Gold présentent des exigences qui varient 
 
 
 En savoir plus sur les [conditions d’obtention des niveaux d’adhésion Silver et Gold](https://partner.microsoft.com/membership/competencies)
+
+Découvrir les [Avantages spécifiques de mise sur le marché disponibles dans les niveaux d’adhésion Silver et Gold](mpn-learn-about-go-to-market-benefits.md) 
 
 En savoir plus sur les [factures et les taxes relatives aux compétences](mpn-view-print-maps-invoice.md)
 
