@@ -1,18 +1,18 @@
 ---
 title: Acheter le plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Acheter plusieurs abonnements Azure dans le plan Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428528"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595929"
 ---
 # <a name="purchase-the-azure-plan"></a>Acheter le plan Azure
 
@@ -53,7 +53,7 @@ Vous revenez à la page **Ajouter un produit** dans laquelle vous pouvez constat
   
 Vous pouvez aussi acheter des réservations Microsoft Azure dans le cadre du plan Azure pour le compte de vos clients dans l’Espace partenaires.
 
-1. Dans le menu Espace partenaires de votre tableau de bord, sélectionnez **Clients**. Recherchez le client qui souhaite acheter des réservations Azure, puis sélectionnez la flèche vers le bas pour développer la ligne du client. 
+1. Dans le menu Espace partenaires de votre [tableau de bord](https://partner.microsoft.com/dashboard/), sélectionnez **Clients**. Recherchez le client qui souhaite acheter des réservations Azure, puis sélectionnez la flèche vers le bas pour développer la ligne du client. 
 
 2. Sélectionnez **Ajouter des produits**, puis **Azure**. 
 - Choisissez le segment de marché du client dans la liste **Segment**. 

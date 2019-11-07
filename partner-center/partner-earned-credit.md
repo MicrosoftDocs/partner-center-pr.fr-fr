@@ -1,18 +1,18 @@
 ---
 title: Crédit Partenaires – vue d’ensemble | Espace partenaires
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/03/2019
 description: Quels sont les aspects du crédit Partenaires du plan Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: bce9c2dca086489b019f7d1bffdb34076c0bc2bd
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428437"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595903"
 ---
 # <a name="partner-earned-credit---overview"></a>Crédit Partenaires – vue d’ensemble
 
@@ -21,7 +21,6 @@ Dans la nouvelle expérience de commerce du programme Fournisseur de solutions C
 Avec des milliers de services dans Azure et plusieurs options d’achat, la tarification peut s’avérer difficile pour de nombreux clients et partenaires. Dans la nouvelle expérience de commerce pour Azure, nous nous sommes alignés sur les principes d’une tarification globale unique applicable à toutes les motions de nos transactions. Les partenaires fournisseurs de solutions Cloud peuvent proposer Azure aux prix publiés. Cela offre une plus grande transparence à leurs clients et permet d’instaurer la confiance. 
 
 Les besoins liés à la transformation numérique de nos clients modifient la nature de la valeur offerte par les partenaires. De nombreux clients recherchent des partenaires capables de fournir des services dépassant une simple transaction, qui pourront assouplir leur adoption du cloud et les aider à consommer efficacement les services Azure. Ces services Azure sont continus et incluent la surveillance du patrimoine, la gestion des stratégies et de la gouvernance, le réglage précis de l’installation et de la configuration, le support technique et un large éventail d’autres services. 
-
 
 Ces services exigent d’un partenaire qu’il soit pleinement au fait de l’environnement Azure du client et qu’il dispose d’une gouvernance et d’un contrôle continus et appropriés des ressources sous-jacentes qu’il gère. Un partenaire de facturation qui assure cette activité de gestion des opérations cloud 24 h/24 et 7 j/7 devient éligible pour bénéficier d’un **crédit Partenaires pour services managés** sur le patrimoine Azure des clients, régi et contrôlé par le partenaire. 
 
@@ -36,13 +35,11 @@ Ces services exigent d’un partenaire qu’il soit pleinement au fait de l’en
 
 - L’association et la gestion intimes des projets Azure du client offrent de nouvelles opportunités au partenaire et favorisent la croissance de la consommation. 
 
-
 ## <a name="manage-automate-and-optimize"></a>Gérer, automatiser et optimiser
 
 Au fur et à mesure de la transition des clients vers les plateformes de cloud computing, ils doivent faire face à la gestion non seulement d’un nouvel ensemble de technologies, mais également d’une nouvelle approche de la gestion et de l’exploitation de leur patrimoine numérique. Alors que le cloud peut apporter une plus grande valeur commerciale et une meilleure souplesse, il peut également être source de nouvelles préoccupations, telles que l’absence d’une sécurité adaptée et une perte de contrôle des coûts. 
 
 Vos clients se tournent vers vous pour que vous les aidiez à tirer le meilleur parti de leur activité hébergée dans Azure. Les services managés vous permettent de fournir à vos clients des services haut de gamme. Voici quelques exemples de support et d’opérations quotidiennes que vous pouvez fournir :
-
 
 - **Services de gestion et d’exploitation cloud**  : Les clients se tournent vers les partenaires Microsoft pour qu’ils réduisent leurs coûts dans Azure tout en reproduisant l’isolation, les stratégies de sécurité et les modèles d’audit dont ils disposent aujourd’hui. Ils attendent également des partenaires qu’ils aient accès à des outils matures permettant d’identifier l’adéquation de la charge de travail, ainsi que les coûts d’un déploiement à usage unique et de l’exploitation continue d’Azure. En outre, les clients ont besoin d’une prise en charge de l’automatisation et de l’orchestration, des mises à jour correctives, de la gestion de la configuration, de la sauvegarde et de la récupération d’urgence, ainsi que de la gestion des identités. 
 
@@ -53,7 +50,7 @@ Vos clients se tournent vers vous pour que vous les aidiez à tirer le meilleur 
 
 - **Analyse de l’intégrité du système**  : Surveillance complète des machines virtuelles, de l’utilisation des processeurs, de l’utilisation de la mémoire, des E/S par seconde de stockage et des performances du système d’exploitation. Comprend la surveillance des performances des applications et de l’intégrité des opérations, ainsi que des tableaux de bord et des rapports sur l’intégrité du système.
 
-- **Analyse des journaux et alertes** : Chaque client, périphérique ou utilisateur accédant à un réseau génère des données qui sont consignées dans des journaux. L’analyse de ces journaux peut offrir un aperçu approfondi des performances, de la sécurité, de la consommation des ressources et d’autres métriques pertinentes.
+- **Analyse des journaux et alertes** : Chaque client, périphérique ou utilisateur accédant à un réseau génère des données qui sont consignées dans des journaux. L’analyse des journaux peut offrir des insights plus poussés sur les performances, la sécurité, la consommation des ressources et autres métriques importantes.
 
 - **Analyse de base de données** : Examen de la base de données du client qui aide les partenaires à garantir la haute disponibilité des serveurs de base de données. Ce processus consiste à tenir des journaux consignant la taille, les temps de connexion et les utilisateurs des bases de données, à analyser les tendances d’utilisation et à exploiter ces données pour résoudre les problèmes de manière proactive.
 
