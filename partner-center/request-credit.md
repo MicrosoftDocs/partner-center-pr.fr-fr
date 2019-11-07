@@ -1,66 +1,68 @@
 ---
-title: Demander un crédit de contrat SLA de Microsoft | Partenaires
+title: Demander un crédit SLA auprès de Microsoft | Espace partenaires
 ms.topic: article
 ms.date: 06/21/2019
-description: Si un service connaît une panne, vous pouvez demander un crédit de contrat SLA pour votre client.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Si un service subit une panne, vous pouvez demander un crédit SLA pour votre client.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
-ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
-ms.translationtype: HT
+ms.openlocfilehash: 6a04d8e179f48f60c71b2e0e5c723c9d821de797
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "67407870"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651699"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Demander un crédit de contrat SLA de Microsoft 
+# <a name="request-an-sla-credit-from-microsoft"></a>Demander un crédit SLA auprès de Microsoft 
 
-Si un service que vous fournissez pour vos clients subit une panne, vous êtes en mesure de demander un crédit à partir de Microsoft. Les crédits de contrat de niveau de service (SLA) sont déterminées selon le service qui a été affecté (par exemple, si le client dispose d’une suite Office 365 et SharePoint uniquement est arrêté, les crédits du contrat SLA est approuvée pour SharePoint uniquement, pas pour la totalité du plan).
+Si un service que vous fournissez à vos clients rencontre une panne, vous pouvez demander un crédit auprès de Microsoft. Les crédits de Contrat de niveau de service (SLA) sont déterminés en fonction du service qui a été affecté (par exemple, si le client a une suite O365 et que seul SharePoint est arrêté, le crédit du contrat SLA est approuvé pour SharePoint uniquement, et non pour l’ensemble du plan).
 
-Les crédits sont calculés au prorata basé sur le service affecté et la durée de la panne. Pour voir les types de scénarios qui sont éligibles pour les crédits du contrat SLA, lire la [document SLA de consolidés de Services en ligne](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Ces informations s’appliquent aux services vendus par le biais du programme fournisseur de solutions Cloud, trop.
+Les crédits sont évalués au prorata en fonction du service affecté et de la durée de la panne. Pour connaître les types de scénarios qui sont éligibles pour les crédits du contrat SLA, consultez le document sur les [services en ligne du contrat SLA consolidé](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Ces informations s’appliquent également aux services vendus par le biais du programme fournisseur de solutions Cloud.
 
 >[!Note]
->**TRÈS IMPORTANT !** Le partenaire CSP, le fournisseur indirect ou le partenaire direct de facture, (pas le client final ou le revendeur indirect) doit envoyer une revendication et toutes les informations requises par la fin du mois calendaire suivant le mois où l’incident s’est produite. Par exemple, si l’incident s’est produite sur le 15 février, nous devons recevoir la revendication et toutes les informations requises avant le 31 mars. 
+>**TRÈS IMPORTANT !** Le partenaire CSP, soit le fournisseur indirect, soit le partenaire direct Bill, (et non le client final ou le revendeur indirect) doit soumettre une réclamation et toutes les informations requises à la fin du mois civil suivant le mois au cours duquel l’incident s’est produit. Par exemple, si l’incident s’est produit le 15 février, nous devons recevoir la revendication et toutes les informations requises avant le 31 mars. 
 
 ## <a name="required-information"></a>Informations requises
 
 
-Pour demander un crédit de contrat SLA, vous devez fournir les informations suivantes : 
+Pour demander un crédit SLA, vous devez fournir les informations suivantes : 
 
 - GUID du locataire client : 
 
-- Panne Incident #: (voir ci-dessous)
+- Incident de panne n ° : (voir ci-dessous)
 
-- Les abonnements concernés ont été achetés via CSP ? Oui/Non
+- Les abonnements concernés ont-ils été achetés par le biais du programme CSP ? Oui/Non
 
-L’ID d’Incident de panne (par exemple, EX25194) se trouve sur la page de l’intégrité du Service dans le centre d’administration Microsoft 365. Numéros d’incident sont précédés d’une abréviation de 2 lettres qui indique le service concerné, tel que :
+L’ID d’incident de panne (tel que EX25194) se trouve sur la page Service Health dans le centre d’administration Microsoft 365. Les numéros d’incident sont précédés d’une abréviation à deux lettres indiquant que le service est affecté, par exemple :
 
-EX - Exchange Online
+EX-Exchange Online
 
-FO - Exchange Online Protection
+FO-protection Exchange Online
 
-SB - Skype entreprise Online (anciennement Lync Online)
+SB-Skype entreprise Online (officiellement Lync Online)
 
-Système d’exploitation - abonnement Office
+OS-abonnement Office
 
-PB-Power BI pour Office 365
+Power BI pour Office 365 PB
 
-SP - SharePoint Online
+SP-SharePoint Online
 
-YA - Yammer Enterprise
+YA-Yammer Enterprise
 
-MOIS - erreur du portail
+MO-erreur du portail
 
 ## <a name="submit-a-request"></a>Envoyer une demande
 
-Envoyer votre demande de crédit sur Partner Center.
+Soumettez votre demande de crédit sur l’espace partenaires.
 
-1. À partir de votre tableau de bord de partenaires, sélectionnez **prise en charge** à partir de la barre de navigation gauche.
+1. À partir de votre tableau de bord de l’espace partenaires, sélectionnez **support** dans le volet de navigation de gauche.
 
-2. Sélectionnez **les demandes de support partenaire** , puis sélectionnez **CSP, les clients, les commandes et les demandes de crédit abonnements/client services**.
+2. Sélectionnez **demandes de support partenaires** , puis **CSP-clients, commandes et abonnements/demandes de crédit de services client**.
 
-3. Envoyer votre demande de crédit de contrat SLA.
+3. Soumettez votre demande de crédit SLA.
 
 
 

@@ -2,18 +2,20 @@
 title: Enregistrer vos transactions | Espace partenaires
 ms.topic: article
 ms.date: 08/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Pour certaines solutions éligibles, après avoir sélectionné Conclu, vous serez invité à fournir des informations supplémentaires afin de pouvoir enregistrer votre transaction. Microsoft examinera les informations que vous avez fournies et pourra vous demander des renseignements complémentaires.
 author: JnHs
 ms.author: jenhayes
 keywords: enregistrement de transactions
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ea6fbc9cb341359435ae2e4765f68fc9414bd8a
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70143775"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652058"
 ---
 # <a name="register-your-deals"></a>Enregistrer vos transactions
 
@@ -33,17 +35,17 @@ Pour enregistrer une nouvelle transaction, accédez à **Transactions > Enregist
 
 Sur la page **Nouvelle transaction**, fournissez les informations suivantes.
 
-- **Détails du client** : Entrez le **Nom de la société** de votre client, puis sélectionnez son **Pays/Région**. Entrez ensuite sa **Ville** et son **État/Province**.
-- **Solution** : Sélectionnez la solution qui sera utilisée pour la transaction. Si la solution appropriée ne s'affiche pas, contactez le support.
-- **Type de contrat** : Indiquez s'il s'agit d'un **Nouveau** contrat ou du **Renouvellement** d’un précédent contrat.
-- **Valeur totale du contrat** : Valeur totale attendue de l’engagement. Elle doit inclure tous les frais liés aux logiciels et aux services, mais pas les coûts matériels. Veillez à sélectionner la devise qui convient.
-- **Valeur de la solution** : Valeur totale de la solution cloud qui sera utilisée pour la transaction. Veillez à inclure tous les coûts associés aux frais liés aux logiciels et à la maintenance, mais n’incluez pas les éléments remboursables, les frais de personnalisation non périodiques ou les frais de licence Fournisseur de solutions Microsoft Cloud directement associés payés par Microsoft.
-- **Déployée sur** : Sélectionnez **Azure** ou **Autre**.
-- **Où la solution sera-t-elle déployée ?**  : Sélectionnez le **Locataire du client** ou le **Locataire du partenaire**.
-- **Date de début du contrat** : Date à laquelle le contrat commencera.
-- **Date de fin du contrat** : Si le contrat prend fin à une date spécifique, sélectionnez **A une date de fin** et indiquez cette date. Sinon, sélectionnez **Perpétuel**.
-- **Date de signature du contrat** : Date à laquelle le contrat final a été signé par votre organisation et le client.
-- **Contact d'inscription** : **Prénom**, **Nom**, **Numéro de téléphone** et **Adresse e-mail** d'un membre de votre organisation que nous pouvons contacter si nous avons besoin de plus de détails sur les informations fournies ici.
+- **Détails du client**: entrez le nom de la **société** de votre client et sélectionnez son **pays/région**. Entrez ensuite sa **Ville** et son **État/Province**.
+- **Solution**: sélectionnez la solution qui sera utilisée pour la transaction. Si la solution appropriée ne s'affiche pas, contactez le support.
+- **Type de contrat**: spécifiez s’il s’agit d’un **nouveau** contrat ou d’un **renouvellement** d’un contrat précédent.
+- **Valeur totale du contrat**: valeur totale attendue pour l’engagement. Elle doit inclure tous les frais liés aux logiciels et aux services, mais pas les coûts matériels. Veillez à sélectionner la devise qui convient.
+- **Valeur**de la solution : valeur totale de la solution cloud qui sera utilisée pour la transaction. Veillez à inclure tous les coûts associés aux frais liés aux logiciels et à la maintenance, mais n’incluez pas les éléments remboursables, les frais de personnalisation non périodiques ou les frais de licence Fournisseur de solutions Microsoft Cloud directement associés payés par Microsoft.
+- **Déployé sur**: sélectionnez **Azure** ou un **autre**.
+- **Où la solution sera-t-elle déployée ?** : sélectionnez le **locataire client** ou le **locataire partenaire**.
+- **Date de début du contrat**: date de début du contrat.
+- **Date de fin du contrat**: si le contrat se termine à une date spécifique, sélectionnez **a une date de fin** et indiquez cette date. Sinon, sélectionnez **Perpétuel**.
+- **Date de signature du contrat**: date à laquelle le contrat final a été signé par votre organisation et par le client.
+- **Contact d’inscription**: le **prénom**, le **nom**, le **numéro de téléphone**et l’adresse de **messagerie** d’une personne de votre organisation que nous pouvons contacter si nous avons besoin de plus de détails sur les informations fournies ici.
 
 Une fois toutes les sections de la page complétées, sélectionnez **Enregistrer**. L’enregistrement de la transaction est ensuite déplacé vers la page **En cours**. À ce stade, Microsoft examine les informations que vous avez fournies.
 

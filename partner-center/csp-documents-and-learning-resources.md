@@ -2,18 +2,20 @@
 title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
 ms.topic: article
 ms.date: 09/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Cet article inclut des liens vers les guides, les accords de partenariat, les contrats clients, les tarifs et les offres du programme Fournisseur de solutions Cloud.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutions Cloud, guide du programme, accords de partenariat, contrat client, tarifs, offres
 ms.localizationpriority: medium
-ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
-ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "71204632"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653570"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 
@@ -73,4 +75,4 @@ En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez 
 
 Pour les partenaires du programme Fournisseur de solutions Cloud qui utilisent l’API d’enregistrement de l’utilisation Crest, Microsoft publie également une liste des services Azure relatifs au programme Fournisseur de solutions Cloud dans la page **Tarification et offres**.
 
-Pour en savoir plus sur les offres de la Place de marché Azure publiées par les ISV (éditeurs de logiciels indépendants), visitez la page **Place de marché** dans le menu de navigation de gauche. Seuls les types de produit SaaS (Software as a Service) peuvent être achetés dans l’Espace partenaires. Vous devez vous rendre sur le portail Azure pour accéder à d’autres types d’offre de la Place de marché Azure.
+Pour en savoir plus sur les offres de la Place de marché Azure publiées par les ISV (éditeurs de logiciels indépendants), visitez la page **Place de marché** dans le menu de navigation de gauche. Seuls les types de produit SaaS (Software as a Service) peuvent être achetés dans l’Espace partenaires. Vous devez visiter le Portail Azure pour obtenir d’autres types d’offres de la place de marché Azure.

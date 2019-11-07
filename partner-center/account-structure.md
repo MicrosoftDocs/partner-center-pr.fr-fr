@@ -1,43 +1,45 @@
 ---
-title: La structure de compte dans l’espace partenaires | Partenaires
+title: Structure de compte dans l’espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 06/13/2019
-description: Votre entreprise possède deux niveaux de comptes de partenaires.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Votre entreprise dispose de deux niveaux de comptes dans l’espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: fc9f4f7e5f6e70a557d23bd23cc4fd32b0dd2a91
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131716"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653053"
 ---
-# <a name="the-account-structure-in-partner-center"></a>La structure de compte Centre de partenaires
+# <a name="the-account-structure-in-partner-center"></a>Structure de compte dans l’espace partenaires
 
-Votre entreprise possède deux niveaux de comptes de partenaires. 
+Votre entreprise dispose de deux niveaux de comptes dans l’espace partenaires. 
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a>Le niveau supérieur est le principal Global compte (service PGA).
+### <a name="the-top-level-is-the-primary-global-account-pga"></a>Le niveau supérieur est le compte global principal (PGA).
 
-- Le compte principal Global contient l’adresse d’entreprise juridique et le contact principal de votre entreprise. 
-- Afficher que les détails de votre compte principal Global à partir des paramètres de partenaire -> profil de partenaire.
-- Les détails contient également l’ID principal MPN compte Global. 
-- Service PGA est le parent de votre entreprise et n’est pas utilisé pour associer pour les programmes de primes ou fournisseur de solutions Cloud. 
-- Emplacements doivent être utilisés pour ces associations.
+- Le compte global principal contient l’adresse de l’entreprise légale et le contact principal de votre entreprise. 
+- Affichez les détails de votre compte global principal à partir des paramètres du partenaire-> Profil de partenaire.
+- Les détails contiennent également l’ID MPN du compte global principal. 
+- Le PGA est le parent de votre entreprise et n’est pas utilisé pour l’associer à des programmes d’incentives ou à un fournisseur de solutions Cloud. 
+- Les emplacements doivent être utilisés pour ces associations.
 
-### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>Le deuxième compte de niveau est le compte de l’emplacement appelé emplacement de partenaire de compte (PLA).
+### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>Le compte de second niveau est le compte d’emplacement nommé compte d’emplacement du partenaire (PLA).
 
-Votre service PGA peut avoir des sites supplémentaires dans cette section. Chaque emplacement possède son propre ID MPN ou l’emplacement de partenaire de compte (PLA). Vous utilisez l’emplacement ID MPN pour métiers transactionnelles et d’inscription dans les programmes d’encouragement.
+Votre PGA peut avoir des emplacements d’entreprise supplémentaires. Chaque emplacement a son propre ID MPN ou compte d’emplacement de partenaire (PLA). Vous utilisez l’ID MPN de l’emplacement pour l’entreprise transactionnelle et l’inscription dans les programmes incitants.
 
-- Chaque compte de Location de partenaire peut avoir sa propre adresse légale et le contact principal. Emplacements peuvent également partager l’adresse légale avec le compte global ou avec d’autres emplacements.
-- Afficher la liste des comptes d’emplacement de partenaire à partir des paramètres de partenaire -> emplacements.
-- Tous les comptes d’emplacement sont au même niveau et sous le compte principal Global.
-- Les administrateurs de compte peuvent ajouter ou supprimer des emplacements.
+- Chaque compte d’emplacement de partenaire peut avoir sa propre adresse légale et son propre contact principal. Les emplacements peuvent également partager l’adresse légale avec le compte global ou avec d’autres emplacements.
+- Affichez la liste des comptes d’emplacement de partenaire à partir des paramètres de partenaire-emplacements de >.
+- Tous les comptes d’emplacement se trouvent au même niveau et sous le compte global principal.
+- Les administrateurs de comptes peuvent ajouter ou supprimer des emplacements.
 
 ![Structure de compte](images/accountstructure.png)
 
-Pour plus d’informations sur la gestion des emplacements, consultez [gérer votre compte partenaire : Emplacements](manage-locations.md). 
+Pour plus d’informations sur la gestion des emplacements, consultez [gérer votre compte de partenaire : locations](manage-locations.md). 
 
 
 

@@ -2,18 +2,20 @@
 title: Créer, suspendre ou annuler des abonnements client | Espace partenaires
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: abonnement, créer, ajouter un abonnement, suspendre, annuler, suspension
 ms.localizationpriority: medium
-ms.openlocfilehash: a79260cf2be62a5cd3d5a340f6c363ebe0200b76
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578781"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653599"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -35,9 +37,9 @@ Veuillez noter que certaines offres sont limitées à un abonnement par client. 
 2. Sélectionnez **Ajouter un abonnement**.
 
 3. Pour afficher uniquement certains types d’abonnements, effectuez les sélections dans les filtres disponibles :
-   - **Publisher** : Choisissez **Microsoft** pour n’afficher que les offres de Microsoft ou **Partenaire** pour voir les produits de la place de marché commercialisés publiés par des éditeurs de logiciels indépendants.
-   - **Type de facturation** : Sélectionnez le type de facturation d’abonnement que vous souhaitez utiliser : **Licence** ou **Utilisation**. Consultez [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md) pour obtenir des informations qui vous aideront à décider entre la fréquence de facturation mensuelle et annuelle.
-   - **Catégorie** : Choisissez **Entreprise**, **Petite entreprise** ou **Version d’évaluation**. Pour obtenir des informations sur les abonnements d’essai, consultez [Proposer à vos clients des abonnements d’essai aux produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Éditeur**: choisissez **Microsoft** pour afficher uniquement les offres de Microsoft ou le **partenaire** pour consulter les produits de la place de marché commercialisés publiés par les éditeurs de logiciels indépendants.
+   - **Type de facturation**: sélectionnez le type de facturation d’abonnement que vous souhaitez utiliser : **licence** ou **utilisation**. Consultez [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md) pour obtenir des informations qui vous aideront à décider entre la fréquence de facturation mensuelle et annuelle.
+   - **Catégorie**: choisissez **Enterprise**, **Small Business**ou **version d’évaluation**. Pour obtenir des informations sur les abonnements d’essai, consultez [Proposer à vos clients des abonnements d’essai aux produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 4. Sélectionnez les produits pour lesquels vous souhaitez acheter des abonnements. Notez que les produits que vous voyez dépendent du type de segment client (éducation, gouvernement, etc.) et des filtres que vous avez appliqués. Si un produit n’est pas disponible, le client a peut-être déjà un abonnement à ce produit et n’est autorisé à en avoir qu’un seul. Ou vous pouvez avoir suspendu l’abonnement, auquel cas vous pouvez le réactiver plutôt que d’en acheter un nouveau.
 

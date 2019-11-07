@@ -2,17 +2,19 @@
 title: Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Le programme Fournisseur de solutions Cloud peut aider votre entreprise à croître avec de nouveaux clients et de nouvelles compétences.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134749"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653516"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées 
 
@@ -20,12 +22,12 @@ ms.locfileid: "62134749"
 
 -  Espace partenaires
 
-Le programme Fournisseur de solutions Cloud vous permet de faire bien plus que la revente de licences, en vous impliquant dans l'entreprise de votre client.
+Le programme fournisseur de solutions Cloud (CSP) vous permet d’aller au-delà de la revente de licences pour être plus impliquées dans l’activité de votre client.
  
-- Meilleur engagement auprès de vos clients – En rencontrant régulièrement vos clients, vous serez à même de mieux comprendre leurs activités et leurs besoins.
-- Augmenter vos bénéfices – Une offre plus importante de services de support et de facturation, seul ou par le biais d'un fournisseur indirect, génère de nouveaux flux de revenus.  
-- Ajouter de la valeur - Vous serez en mesure de proposer à vos clients des solutions propres au secteur d'activité fournies avec les produits Microsoft.
-- Fournir des services gérés – Vous serez bien placé pour répondre aux besoins du client en matière de services gérés. 
+- L’engagement approfondi avec vos clients en matière de réunion régulière avec vos clients signifie que vous développerez une meilleure compréhension de leur activité et de leurs besoins.
+- Augmentez vos bénéfices : l’offre de services de support et de facturation accrus, que ce soit par vous-même ou par le biais d’un fournisseur indirect, ouvre de nouveaux flux de revenus.  
+- Ajouter de la valeur : vous pourrez offrir aux clients des solutions spécifiques fournies par les produits Microsoft.
+- Fournir des services gérés : vous êtes bien positionné pour répondre à la demande des clients pour les services gérés. 
 
 ## <a name="which-csp-model-is-best-for-me"></a>Quel modèle Fournisseur de solutions Cloud me convient le mieux ?
 
@@ -36,7 +38,7 @@ Le programme Fournisseur de solutions Cloud vous permet de faire bien plus que l
 
 #### <a name="new-expanded-requirements"></a>Nouvelles conditions étendues :
 
-Support
+Assistance
 - Développez vos capacités de support par l'achat d'un support cloud individuel prioritaire avec un package de support Avancé Microsoft pour les partenaires. Ou choisissez un package Support Premier Microsoft pour les partenaires afin d'accéder au catalogue complet des services proactifs et de bénéficier d'un support de niveau élevé couvrant la garantie de réparation et d'assistance 24 h/24, 7 jours/7 et la gestion de compte technique dans tous les environnements cloud, hybrides et sur site. 
 
 Services
@@ -60,21 +62,21 @@ Dans le modèle indirect, les fournisseurs indirects (également appelés distri
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Où puis-je vendre via le programme Fournisseur de solutions Cloud ?
 
-Emplacement de votre entreprise détermine votre marché. Votre marché inclut les régions et/ou le pays où vous pouvez vendre les offres CSP. Consultez [marchés régionaux du programme fournisseur de solutions de Cloud et devises](regional-authorization-overview.md) pour la liste complète des CSP marchés et devises.
+Votre marché dépend de l’emplacement de votre entreprise. Il comprend les régions et/ou les pays où vous pouvez vendre des offres CSP. Pour obtenir la liste complète des marchés et devises du fournisseur de solutions Cloud, consultez la page sur les [marchés régionaux et les devises du programme fournisseur de solutions Cloud](regional-authorization-overview.md) .
 
-Avant de commander que CSP offre pour le compte d’un client, le client doit signer l’accord de Cloud de Microsoft. Vous pouvez trouver le contrat de Cloud de Microsoft applicable pour l’emplacement de votre client [ici](agreements.md).  
+Avant de pouvoir commander des offres du fournisseur de services de chiffrement pour le compte d’un client, le client doit signer le contrat de Microsoft Cloud. Vous pouvez trouver le contrat de Microsoft Cloud applicable pour l’emplacement de votre client [ici](agreements.md).  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Que puis-je vendre via le programme Fournisseur de solutions Cloud ?
 
-Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), ainsi que diverses autres offres qui changent fréquemment. Pour afficher le CSP offre pour le mois actuel, connectez-vous à l’espace partenaires et passez à la [ **tarification et offres** ](https://partnercenter.microsoft.com/pcv/sales) page.
+Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), ainsi que diverses autres offres qui changent fréquemment. Pour afficher les offres du CSP pour le mois en cours, connectez-vous à l’espace partenaires, puis accédez à la page [**tarification et offres**](https://partnercenter.microsoft.com/pcv/sales) .
 
-## <a name="see-also"></a>Voir aussi 
+## <a name="see-also"></a>Articles associés 
 
 
-|**Pour savoir à ce sujet**   |**Lisez ce**   |
+|**Pour en savoir plus à ce sujet**   |**Lisez cela**   |
 |:---------------------------|:--------------------|
-|Conditions requises pour chaque modèle Fournisseur de solutions Cloud   | [Programme de fournisseur de solutions de cloud](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-|Ventes dans les clouds nationaux Microsoft   | [Appliquer pour vendre dans des clouds nationaux Microsoft](csp-national-clouds-overview.md)|
-|Modèles de client de contrat de Cloud de Microsoft   |[Contrats Microsoft Cloud par région et langue](agreements.md)|
-|Tâches de fournisseur indirect sur l’espace partenaires  |[En partenariat avec les revendeurs indirects dans le programme fournisseur de solutions de Cloud](indirect-provider-tasks-in-partner-center.md)|
-|Tâches de revendeur indirect sur l’espace partenaires   |[En partenariat avec des fournisseurs indirects dans le programme fournisseur de solutions de Cloud](indirect-reseller-tasks-in-partner-center.md)|
+|Conditions requises pour chaque modèle Fournisseur de solutions Cloud   | [Programme de fournisseur de solutions Cloud](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
+|Ventes dans les clouds nationaux Microsoft   | [Appliquer à la vente dans les clouds Microsoft nationaux](csp-national-clouds-overview.md)|
+|Modèles clients de contrat Microsoft Cloud   |[Contrats Microsoft Cloud par région et langue](agreements.md)|
+|Tâches indirectes du fournisseur dans l’espace partenaires  |[Partenaire avec des revendeurs indirects dans le programme fournisseur de solutions Cloud](indirect-provider-tasks-in-partner-center.md)|
+|Tâches du revendeur indirect dans l’espace partenaires   |[Partenaire avec des fournisseurs indirects dans le programme fournisseur de solutions Cloud](indirect-reseller-tasks-in-partner-center.md)|

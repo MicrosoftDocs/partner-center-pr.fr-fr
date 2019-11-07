@@ -2,18 +2,20 @@
 title: Gérer des réservations Microsoft Azure pour vos clients | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Pour gérer les réservations Azure de vos clients, vous devez sélectionner le client et la réservation que vous souhaitez gérer dans l’espace partenaires, puis apporter des modifications à la réservation dans le Portail Azure.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, réservations, gérer, facturation, achat, annulation, échange, frais de résiliation précoce
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704156"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653813"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients       
 
@@ -27,16 +29,16 @@ Pour gérer les réservations Azure de vos clients, vous devez sélectionner le 
 
 1. Pour commencer, sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les réservations. 
 
-2. Sur le menu de la page des détails du client, sélectionnez **Réservations Azure**, puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
+2. Dans le menu de la page de détails du client, sélectionnez **réservations Azure** , puis sélectionnez la réservation spécifique que vous souhaitez gérer.  
 
-3. Sous **Actions**, sélectionnez **Gérer** pour accéder au dossier de réservation du client dans le portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
+3. Sous **actions**, sélectionnez **gérer** pour accéder à l’enregistrement de réservation du client dans la portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
 
     | **Sélectionné**   | **À**    |
     |:-----------------------------|:-----------------|
-    | **Vue d’ensemble**   | Afficher les détails de la réservation d’un client, y compris la date d'expiration, la portée et les données d'utilisation. **REMARQUE** Sélectionnez **Remboursement** pour créer une demande de support en vue d'un remboursement calculé au prorata. Sélectionnez **Échange** pour créer une demande de support en vue de l'échange de la période de réservation non utilisée.  
-    | **Access Control (IAM)**   | Gérer l’accès aux informations sur la réservation du client.|
-    | **Configuration**   | Modifier l’étendue de la réservation et/ou l’abonnement Azure à laquelle la réservation est associée.    |
-    | **Propriétés**   | Afficher les propriétés de la réservation et copier dans le presse-papiers l'identifiant de la réservation et l'identifiant de commande. **REMARQUE** Le service d'assistance peut vous demander de communiquer l'identifiant de la réservation et l'identifiant de commande si vous demandez une assistance au nom d'un client.    |
+    | **Vue d’ensemble**   | Affichez les détails de la réservation d’un client, y compris la date d’expiration, l’étendue et les données d’utilisation. **REMARQUE** Sélectionnez **Remboursement** pour créer une demande de support en vue d'un remboursement calculé au prorata. Sélectionnez **Échange** pour créer une demande de support en vue de l'échange de la période de réservation non utilisée.  
+    | **Access Control (IAM)**   | Gérez l’accès aux informations de réservation du client.|
+    | **Configuration**   | Modifiez l’étendue de la réservation et/ou l’abonnement Azure auquel la réservation est associée.    |
+    | **Propriétés**   | Affichez les propriétés de la réservation et copiez dans le presse-papiers l’ID de réservation et l’ID de commande de réservation. **REMARQUE** Le service d'assistance peut vous demander de communiquer l'identifiant de la réservation et l'identifiant de commande si vous demandez une assistance au nom d'un client.    |
     | **Nouvelle demande de support**    | Demander de l’aide au support Microsoft.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Annuler ou échanger une réservation 
@@ -73,13 +75,13 @@ Le montant du remboursement calculé au prorata est crédité sur votre compte a
 Pour traiter une demande de support pour un remboursement ou un échange pour le compte de vos clients, sélectionnez le client et la réservation dans l’espace partenaires, puis créez la demande de support dans le Portail Azure. 
 
 >[!NOTE]
->Les agents du support Microsoft peuvent vous demander de fournir l’identifiant de réservation et l’identifiant de commande de la réservation. Vous pouvez trouver ces informations sur la page **Propriétés** de la réservation, dans le portail Azure. 
+>Les agents du support Microsoft peuvent vous demander de fournir l’identifiant de réservation et l’identifiant de commande de la réservation. Vous pouvez trouver ces informations dans la page de **Propriétés** de la réservation dans la portail Azure. 
 
 1. Pour commencer, sélectionnez **clients** dans le menu de l’espace partenaires, puis sélectionnez le client qui souhaite obtenir un remboursement. 
 
-2. Sur la page des détails du client, sélectionnez **Réservations Azure**, puis sélectionnez la réservation pour laquelle le client souhaite se faire rembourser.  
+2. Sur la page de détails du client, sélectionnez **réservations Azure** , puis sélectionnez la réservation spécifique que le client souhaite rembourser.  
 
-3. Sous **Actions**, sélectionnez **Remboursement** pour accéder au dossier de la réservation du client dans le portail Azure et lancez une demande de support.  
+3. Sous **actions**, sélectionnez **remboursement** pour accéder à l’enregistrement de réservation du client dans la portail Azure et lancez une demande de support.  
 
 4. Sur la page **Nouvelle demande de support**, suivez les étapes ci-dessous pour demander un remboursement. Sélectionnez **Suivant** après chaque étape. 
 
@@ -92,7 +94,7 @@ Pour traiter une demande de support pour un remboursement ou un échange pour le
 5.  Sélectionnez **Créer** lorsque vous avez terminé.
 
 ## <a name="azure-reservations-resources"></a>Ressources des réservations Azure
-|**Pour plus d’informations sur**   |**Lire**    |
+|**Pour plus d’informations sur**   |**Lisez cela**    |
 |:-----------------------------|:-----------------|
 |Réservations Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre Microsoft Azure des instances réservées](azure-reservations.md) |
 |Achat de réservations Azure pour vos clients dans l’espace partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md) |

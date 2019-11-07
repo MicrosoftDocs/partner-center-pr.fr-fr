@@ -2,17 +2,19 @@
 title: Passage du revendeur de solutions de facturation directe du fournisseur de solutions Cloud au revendeur direct CSP | Espace partenaires
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comprendre comment effectuer la transition entre un partenaire direct Bill et un revendeur indirect
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture directe, transition, revendeur indirect
-ms.openlocfilehash: 7633d5bff8316315304b97ea1a418c223043b581
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 29a0f4951cac271d0b74a9a5fc3685c5ffb96b32
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997817"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651241"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP 
 
@@ -46,7 +48,7 @@ Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre l
 5. Une fois votre inscription approuvée, connectez-vous à nouveau à l’espace partenaires.
 
 >[!Note]
-> Alors que l’approbation est généralement immédiate, elle peut prendre jusqu’à cinq jours ouvrés. Une fois approuvé, vous recevrez une notification à l’adresse de messagerie que vous avez spécifiée sous contact principal dans le formulaire d’inscription. Vous pouvez également vérifier l’état de votre inscription sous **paramètres** → **paramètres du partenaire** → **Profil du partenaire** → informations sur le programme. 
+> Alors que l’approbation est généralement immédiate, elle peut prendre jusqu’à cinq jours ouvrés. Une fois approuvé, vous recevrez une notification à l’adresse de messagerie que vous avez spécifiée sous contact principal dans le formulaire d’inscription. Vous pouvez également vérifier l’état de votre inscription sous **paramètres** > **paramètres du partenaire** > **profil de partenaire** > informations sur le programme. 
 
 6. Sur votre page de **Présentation** , vous verrez le contrat de revendeur indirect. Sélectionnez **Accepter et continuer**. Cela permet d’activer les fonctionnalités de revendeurs indirects.
 
@@ -97,8 +99,8 @@ Pour créer une invitation de revendeur indirect :
 
 4. Modifiez le texte de l’e-mail pour indiquer ce dont vous avez besoin, mais veillez à inclure le lien, car il est personnalisé pour connecter le client directement à votre compte et au compte de votre fournisseur. Sélectionnez ensuite **terminé**.
 
-5. Une fois que le client vous a autorisé, vous et votre fournisseur, à devenir ses revendeurs de référence, vous disposez des autorisations d’administrateur nécessaires pour gérer en son nom ses abonnements, ses licences et ses utilisateurs, et votre fournisseur indirect peut envoyer des commandes pour le compte du client.
-6. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom. 
+5. Une fois que le client vous a autorisé votre fournisseur et que celui-ci peut être son revendeur, vous disposez des autorisations d’administrateur pour gérer ses abonnements, ses licences et ses utilisateurs en leur nom, et votre fournisseur indirect peut envoyer des commandes en leur nom.
+6. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez l’enregistrement du client en sélectionnant la flèche vers le bas en regard de son nom. 
 
 Contrairement aux partenaires directs, les revendeurs indirects ne peuvent pas créer de Azure AD locataires pour leurs nouveaux clients dans l’espace partenaires. Votre fournisseur créera le locataire et vous indiquera comme revendeur indirect pour ce client. Cela permet de s’assurer que le client apparaîtra dans votre liste de clients dans l’espace partenaires.
 
@@ -117,9 +119,9 @@ Votre fournisseur indirect ne peut pas envoyer de commandes pour vos clients de 
 
 4. Modifiez le texte de l’e-mail pour indiquer ce dont vous avez besoin, mais veillez à inclure le lien, car il est personnalisé pour connecter le client directement à votre compte et au compte de votre fournisseur. Sélectionnez ensuite **terminé**.  
 
-5. Une fois que le client vous a autorisé, vous et votre fournisseur, à devenir ses revendeurs de référence, vous disposez des autorisations d’administrateur nécessaires pour gérer en son nom ses abonnements, ses licences et ses utilisateurs, et votre fournisseur indirect peut envoyer des commandes pour le compte du client.
+5. Une fois que le client vous a autorisé votre fournisseur et que celui-ci peut être son revendeur, vous disposez des autorisations d’administrateur pour gérer ses abonnements, ses licences et ses utilisateurs en leur nom, et votre fournisseur indirect peut envoyer des commandes en leur nom.
 
-6. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
+6. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez l’enregistrement du client en sélectionnant la flèche vers le bas en regard de son nom.
 
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gestion de vos clients de facturation directe et de vos clients revendeurs indirects

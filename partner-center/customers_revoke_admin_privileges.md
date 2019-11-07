@@ -2,17 +2,19 @@
 title: Les clients délèguent les privilèges d'administration à des partenaires | Espace partenaires
 ms.topic: article
 ms.date: 12/18/2018
-description: En tant que revendeur partenaire, vos clients peuvent déléguer à son administrateur. Ils peuvent également supprimer les privilèges.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: En tant que partenaire revendeur, votre client peut déléguer son administrateur. Ils peuvent également supprimer des privilèges.
 author: LauraBrenner
 ms.author: labrenne
-keywords: des privilèges d’administrateur délégué, administrateur de la part de, supprimer les privilèges, DAP, AOBO
+keywords: privilèges d’administrateur délégué, administrateur pour le compte de, supprimer des privilèges, DAP, ADMINISTRATE
 ms.localizationpriority: medium
-ms.openlocfilehash: 9253bcca2d93d9f0d62d6d7241132f0c0c9bf5ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135449"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653425"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Les clients délèguent les privilèges d'administration à des partenaires
 
@@ -26,37 +28,37 @@ Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit acc
 
 1.  Sélectionnez **clients** , puis sélectionnez **demander une relation de revendeur**.
 
-2.  Sur la page suivante, vérifiez le brouillon du message électronique. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie électronique par défaut ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
+2.  Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie électronique par défaut ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 
     >[!IMPORTANT]
-    >Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte. 
+    >Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. 
     
-3.  Sélectionnez **OK** lorsque vous avez terminé cette étape.
+3.  Sélectionnez **terminé** lorsque vous avez terminé cette étape.
 
-4.  Envoyez le message électronique au client.
+4.  Envoyez l’e-mail au client.
 
 5.  Une fois qu'il a accepté l’invitation, le client s’affiche sur votre page **Clients** et vous pouvez approvisionner et gérer son service à partir de cet emplacement.
 
-6.  Pour gérer le compte du client, les services, les utilisateurs et les licences, développez l’enregistrement du client en sélectionnant la flèche vers le côté de leur nom, puis sélectionnez le portail d’administration pour le service que vous souhaitez gérer.
+6.  Pour gérer le compte, les services, les utilisateurs et les licences du client, développez l’enregistrement du client en sélectionnant la flèche vers le bas en regard de son nom, puis sélectionnez le portail d’administration pour le service que vous souhaitez gérer.
 
 >[!IMPORTANT]  
->Les clients peuvent réaffecter ou supprimer des autorisations d’administrateur dans le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client nécessite l’aide, contactez le support Microsoft pour ouvrir une demande de service pour le compte du client.
+>Les clients peuvent réaffecter ou supprimer des autorisations d’administrateur dans le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, contactez le support technique de Microsoft pour ouvrir une demande de service pour le compte du client.
 
-Vos clients peuvent déterminer laquelle de leurs partenaires ont des privilèges d’administrateur à leur client à partir de dans le portail d’administration Office 365. Pour ce faire :
+Vos clients peuvent identifier les partenaires qui disposent de privilèges d’administrateur sur leur locataire à partir du portail d’administration Office 365. Pour cela, procédez comme suit :
 
 1. Le client doit se connecter au portail d’administration Office 365 en tant qu’administrateur général.
 
-2. Sélectionnez **Paramètres** → **Relations de partenariat**.
+2. Sélectionnez **paramètres** > les **relations de partenaire**.
 
-3. Sur le **relations de partenaire** page, le client s’affiche une liste des partenaires avec lesquels ils fonctionnent et ceux qui ont été accordées délégué des privilèges d’administration à leur client.
+3. Dans la page relations avec les **partenaires** , le client verra une liste des partenaires avec lesquels ils travaillent et ceux qui ont reçu des privilèges d’administration déléguées à leur locataire.
 
-## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Les clients peuvent gérer les privilèges d'administrateur délégués d'un partenaire 
+## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Les clients peuvent gérer les privilèges d’administrateur délégué d’un partenaire. 
 
-Votre client pourrait décider de supprimer vos privilèges d’administrateur délégué à partir de son client tout en conservant la relation avec vous pour l’abonnement et à des fins de renouvellement de licence. Les clients gèrent les droits et autorisations pour leurs comptes Office 365 sur la page **Relations de partenariat** du Centre d’administration Office 365. Sur cette page, les clients peuvent :
+Votre client peut décider de supprimer vos privilèges d’administrateur délégué de son locataire, tout en conservant la relation avec vous à des fins d’abonnement et de renouvellement de licence. Les clients gèrent les droits et autorisations pour leurs comptes Office 365 sur la page **Relations de partenariat** du Centre d’administration Office 365. Sur cette page, les clients peuvent :
 
 - Voir avec quels partenaires ils ont établi une relation et quels partenaires ont des privilèges d'administrateur délégués
 
-- Supprimer les privilèges d'administrateur délégués d'un partenaire sur le locataire
+- Supprimer les privilèges d’administration déléguée d’un partenaire du locataire
 
 Pour supprimer les privilèges d'administrateur délégués d'un partenaire :
 
@@ -69,43 +71,43 @@ Pour supprimer les privilèges d'administrateur délégués d'un partenaire :
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Privilèges d’administrateur délégués dans Azure AD 
 
-Le locataire Azure AD du partenaire dispose de deux groupes de sécurité utilisés pour l’administration déléguée : les agents d’administration et les agents du support technique. Lorsqu'un client accorde un privilège d'administrateur délégué à un partenaire :
+Il existe deux groupes de sécurité : les agents d’administration et les agents du support technique dans le locataire Azure AD du partenaire qui sont utilisés pour l’administration déléguée. Lorsqu'un client accorde un privilège d'administrateur délégué à un partenaire :
 
-- Le groupe agent administrateur est affecté au rôle d’administrateur général dans le locataire Azure AD du client.
+- Le groupe d’agents d’administration est attribué au rôle d’administrateur général dans le locataire Azure AD du client.
 
-- Le groupe agent du support technique est affecté au rôle d’administrateur du support technique dans le locataire Azure AD du client.
+- Le groupe d’agents du support technique est attribué au rôle administrateur du support technique dans le locataire Azure AD du client.
 
-En fonction des rôles d'annuaire attribués, les membres des deux groupes peuvent se connecter au locataire Azure AD et aux services Office 365 du client à l’aide de leurs informations d’identification partenaires et de leur rôle d’administrateur pour le compte du client.
+En fonction des rôles d’annuaire affectés, les membres des deux groupes peuvent se connecter aux services Azure AD locataire et O365 du client à l’aide de leurs informations d’identification de partenaire et de leur administrateur pour le compte du client.
 
-Si votre client supprime des privilèges d’administrateur délégués, les attributions de rôles Azure AD sont supprimées et vous ne serez plus en mesure de gérer le locataire Azure AD du client.
+Si votre client supprime les privilèges d’administrateur délégué, les attributions de rôle Azure AD sont supprimées et vous ne pourrez plus gérer le locataire Azure AD du client.
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Abonnements et gestion des ressources Azure
 
-Chaque abonnement Azure a son propre ensemble de rôles de gestion de ressources. Avant qu'un partenaire fournisseur de solutions Cloud puisse gérer l’abonnement Azure d’un client, un ou plusieurs rôles doivent lui être affectés dans le cadre de l’abonnement Azure. Plus précisément :
+Chaque abonnement Azure a son propre ensemble de rôles de gestion de ressources. Pour qu’un partenaire CSP puisse gérer l’abonnement Azure d’un client, celui-ci doit être affecté à un ou plusieurs rôles dans le cadre de l’abonnement Azure. Plus précisément :
 
 - Lorsqu’un client accepte une invitation revendeur et accorde un privilège d'administrateur délégué à un partenaire, ce dernier n’obtient pas automatiquement l’accès aux abonnements Azure existants sur le locataire du client.
 
 - Lorsque le partenaire fournisseur de solutions Cloud fournit un nouvel abonnement Azure au client, le groupe agent administrateur sous le locataire dudit partenaire fournisseur se voit automatiquement attribuer le rôle de propriétaire dans le cadre de l'abonnement. Sur la base de cette attribution de rôles, les membres du groupe peuvent accéder aux ressources et les gérer dans le cadre de l'abonnement.
 
-- Lorsqu’un client supprime des privilèges d'administrateur délégués d’un partenaire à l’aide du portail Office 365, le partenaire peut toujours gérer l'abonnement Azure du client tant que le partenaire dispose toujours d'un ou plusieurs rôles dans le cadre de l’abonnement. Pour empêcher le partenaire de gérer l'abonnement Azure, le client doit supprimer l'attribution de tous les rôles.
+- Lorsqu’un client supprime des privilèges d’administration délégués d’un partenaire à l’aide du portail Office 365, le partenaire peut toujours gérer l’abonnement Azure du client tant que le partenaire est toujours affecté à un ou plusieurs rôles dans le cadre de l’abonnement. Pour empêcher le partenaire de gérer l'abonnement Azure, le client doit supprimer l'attribution de tous les rôles.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
 
 <!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
-À partir du centre de partenaires, les partenaires CSP peuvent gérer des profils Autopilot pour leurs clients sans privilèges d’administrateur délégué dans ces circonstances : 
+Dans l’espace partenaires, les partenaires CSP peuvent gérer les profils AutoPilot pour leurs clients sans privilèges d’administrateur délégués dans les circonstances suivantes : 
 
-- Si un client supprime les privilèges d’administration déléguée, mais conserve une relation de revendeur avec vous, vous pouvez continuer à gérer des profils Autopilot pour eux.
+- Si un client supprime des privilèges d’administration délégués mais conserve une relation de revendeur avec vous, vous pouvez continuer à gérer les profils AutoPilot pour eux.
 
-- Vous pouvez gérer des appareils clients que vous ou un autre partenaire ont ajoutés. 
+- Vous pouvez gérer les appareils clients que vous ou un autre partenaire avez ajoutés. 
 
-- Vous ne pouvez pas gérer les appareils de que votre client a ajouté via le Microsoft Store pour entreprises, Microsoft Store pour l’éducation ou Microsoft Intune Portal.
+- Vous ne pouvez pas gérer les appareils que votre client a ajoutés par le biais du Microsoft Store pour entreprises, Microsoft Store pour l’éducation ou Microsoft Intune portail.
 
-Pour plus d’informations sur Autopilot, consultez [simplifier l’installation de périphérique avec Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
+Pour plus d’informations sur AutoPilot, consultez [simplifier la configuration des appareils avec Windows AutoPilot](https://docs.microsoft.com/partner-center/autopilot).
 
 >[!IMPORTANT]  
->L’expérience de gestion actuel Autopilot dans partenaires peut-être continuer à modifier. Au moment de que cet article a été publié, les modifications suivantes sont considérés comme des :
+>L’expérience de gestion AutoPilot actuelle dans l’espace partenaires peut continuer à changer. Au moment de la publication de cet article, les modifications suivantes sont prises en compte :
 
 - Avant de pouvoir ajouter/mettre à jour/supprimer des profils et appliquer/supprimer des profils pour l'ensemble des appareils dans le locataire du client, le partenaire doit se voir attribuer par le client des privilèges d'administrateur délégués.
 
-- Partenaire doit disposer des privilèges de l’administration déléguée par le client avant le partenaire peut supprimer les appareils ajoutés par les autres partenaires ou par le client dans le locataire de client. Sinon, le partenaire peut supprimer uniquement les appareils ajoutés précédemment par le même partenaire.
+- Le client doit disposer d’un privilège d’administration déléguée par le client avant que le partenaire puisse supprimer des appareils ajoutés par d’autres partenaires ou par le client du locataire client. Dans le cas contraire, le partenaire peut supprimer uniquement les appareils ajoutés précédemment par le même partenaire.

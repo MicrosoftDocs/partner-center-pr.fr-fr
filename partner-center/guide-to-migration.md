@@ -2,17 +2,19 @@
 title: Guide de migration de PMC vers l’espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 04/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Ce que vous devez savoir lorsque vous migrez votre entreprise de PMC vers l’espace partenaires
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, migration, déplacement vers l’espace partenaires
+keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708919"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653099"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’espace partenaires
 
@@ -53,7 +55,7 @@ Une fois que vous avez vérifié ou mis à jour les informations, sélectionnez 
 Les conditions générales de cette page sont **exactement les mêmes** que celles de l’accord que votre société a déjà signée PMC.  
 Cela initie la création de votre locataire Azure AD et fournit votre avec le compte professionnel.
 
-Sélectionner **accepter et continuer** effectue également les opérations suivantes:
+Sélectionner **accepter et continuer** effectue également les opérations suivantes :
 
 • Migre votre compte et tous ses emplacements vers l’espace partenaires
 
@@ -68,7 +70,7 @@ Lorsque votre nouveau locataire Azure AD est créé, vous pouvez inviter vos emp
 ![Inviter des employés](images/migration/invite.png)
 
 
-Si vous vous êtes connecté avec un locataire AAD existant, vos employés seront déplacés avec vous. Dans ce cas, attribuez vos rôles employés, qui déterminent ce qu’ils peuvent faire dans l’espace partenaires. Remarque : Les rôles de l’espace partenaires sont différents des rôles dans PMC. Pour plus d’informations, consultez [passage de PMC à l’espace partenaires](move-pmc-pc-map.md).
+Si vous vous êtes connecté avec un locataire AAD existant, vos employés seront déplacés avec vous. Dans ce cas, attribuez vos rôles employés, qui déterminent ce qu’ils peuvent faire dans l’espace partenaires. Remarque : les rôles dans l’espace partenaires sont différents des rôles dans PMC. Pour plus d’informations, consultez [passage de PMC à l’espace partenaires](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Vérifier votre domaine et devenir un administrateur général  
 
@@ -76,7 +78,7 @@ Si votre locataire AAD est nouveau, le rôle d’administrateur général n’es
 
 ![Prendre le contrôle](images/migration/takecontrol.png)
 
-Lorsque vous sélectionnez prise en main, l’écran suivant s’affiche:
+Lorsque vous sélectionnez prise en main, l’écran suivant s’affiche :
 
 ![Vérifier la propriété du domaine](images/migration/verifytxt.png)
 
@@ -92,11 +94,11 @@ Suivez la visite guidée de votre tableau de bord. Ici, vous pouvez gérer votre
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md)
-- [Affecter des rôles d’utilisateur et des autorisations](permissions-overview.md)
-- [Gérer vos programmes d’appartenance](renew-mpn-offers.md)
-- [Créer le profil d’entreprise de votre entreprise](create-a-marketing-profile.md)
-- [Connectez-vous aux clients par le biais de références](responding-to-referrals.md)
+- [Attribuer des rôles et des autorisations aux utilisateurs](permissions-overview.md)
+- [Gérer les programmes dont vous êtes membre](renew-mpn-offers.md)
+- [Créer le profil commercial de votre société](create-a-marketing-profile.md)
+- [Entrer en contact avec les clients via des références](responding-to-referrals.md)
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Articles associés
 
 - [Guide de migration de plusieurs entreprises de PMC vers l’espace partenaires](move-multiple-companies.md)

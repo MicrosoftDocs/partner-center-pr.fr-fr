@@ -2,17 +2,19 @@
 title: Rechercher le nom de domaine et l’ID de répertoire de votre client | Espace partenaires
 ms.topic: article
 ms.date: 3/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comment rechercher le nom de domaine et l’ID de répertoire de votre client lors de l’envoi d’une revendication
 author: LauraBrenner
 ms.author: labrenne
 keywords: demandes d’incentives, revendications de co-op, fonds de co-op, OSA, ISV, Association du chiffre d’affaires, nom de domaine, ID de répertoire
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 6e9f78ff41783a1cd49790288d20c8ccdfd78192
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376408"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653110"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id"></a>Rechercher le nom de domaine et l’ID de répertoire de votre client
 

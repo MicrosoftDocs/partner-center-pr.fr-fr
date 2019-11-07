@@ -2,27 +2,29 @@
 title: Présentation de la facturation | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Informations sur les scénarios de facturation de base et les différences entre la facturation basée sur une licence et la facturation basée sur l’utilisation
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e13f3d24e649cf17daa1e3218c3376c8fc6e4faa
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820374"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653757"
 ---
 # <a name="billing-overview"></a>Présentation de la facturation
 
 **S’applique à**
 
 -  Espace partenaires
--  Partenaires dans le programme CSP
+-  Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
-Selon les produits, les solutions et les services que vous achetez pour le compte de vos clients, vous êtes facturé pour ces achats selon une ou plusieurs des méthodes suivantes:
+Selon les produits, les solutions et les services que vous achetez pour le compte de vos clients, vous êtes facturé pour ces achats selon une ou plusieurs des méthodes suivantes :
 -   [Facturation basée sur une licence](#licensebasedbilling)
 
     Lorsque vous achetez des produits ou des services en ligne qui requièrent des licences, vous êtes facturé pour chaque licence que vous avez achetée (et non sur l’utilisation de la licence). Vous pouvez choisir d’être facturé une fois par mois ou une fois par an. Si les besoins de votre entreprise évoluent, vous pouvez basculer de l’un à l’autre, puis de nouveau. 
@@ -40,7 +42,7 @@ Selon les produits, les solutions et les services que vous achetez pour le compt
 Si vous avez choisi d’être facturé mensuellement ou si vous avez acheté des produits basés sur l’utilisation qui sont facturés tous les mois, la date de facturation mensuelle est le jour du mois que vous avez sélectionné lorsque vous avez créé votre compte CSP dans l’espace partenaires. Une fois votre compte CSP créé, Microsoft envoie un e-mail de confirmation qui comprend la date de facturation. Une fois créée, cette date ne peut pas être modifiée. 
 
 ## <a name="pricing-and-invoicing"></a>Tarification et facturation
-Vous pouvez accéder aux listes de prix un (1) mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12 mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. 
+Vous pouvez accéder aux listes de prix un (1) mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12 mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. 
 
 Les prix pour les produits, les services et les abonnements logiciels sont assurés par la durée de l’abonnement, mais les tarifs peuvent changer lorsque vous le renouvelez.
 
@@ -102,14 +104,14 @@ Les crédits d’annulation pour les services basés sur les licences sont calcu
 
 ## <a href="" id="usagebasedbilling"></a>Facturation basée sur l’utilisation
 
-Certains produits et services Microsoft utilisent un modèle de facturation «paiement à l’utilisation», dans lequel vous êtes facturé uniquement pour les services utilisés. Par exemple, Microsoft Azure utilise ce modèle. 
+Certains produits et services Microsoft utilisent un modèle de facturation « paiement à l’utilisation », dans lequel vous êtes facturé uniquement pour les services utilisés. Par exemple, Microsoft Azure utilise ce modèle. 
 
 ### <a name="billing-rules"></a>Règles de facturation
 -   Les abonnements sont de mois en mois et sont automatiquement renouvelés au tarif des nouveaux services contrôlés. Vous êtes facturé chaque mois pour l’utilisation du mois précédent.
 
 -   Les barèmes des services peuvent changer au cours du cycle de facturation. 
 
-    -   Augmentations de prix: un préavis de 30 jours est fourni.
+    -   Augmentation de prix : préavis de 30 jours.
 
     -   Réduction de prix&nbsp;: jour d’application de la modification.
 
@@ -144,13 +146,13 @@ Vous pouvez acheter des abonnements logiciels et des réservations Azure à l’
 
 1.  Sélectionnez **clients** dans le menu de l’espace partenaires.
 
-2.  Sur votre page **Clients**, recherchez le client dont vous souhaitez afficher l’historique de commandes, puis sélectionnez la flèche allant vers le bas pour développer son dossier. 
+2.  Sur la page de vos **clients** , recherchez le client dont vous souhaitez afficher l’historique des commandes, puis sélectionnez la flèche vers le bas pour développer l’enregistrement du client. 
 
 3.  Sélectionnez **Afficher les commandes** pour afficher l’historique des commandes.
 
 **Télécharger une note de crédit**
 
-Si vous avez besoin de demander un crédit ou une facture, nous vous enverrons une note de crédit pour annuler la facture d’origine. Vous pouvez demander un crédit/une facture pour les raisons suivantes:
+Si vous avez besoin de demander un crédit ou une facture, nous vous enverrons une note de crédit pour annuler la facture d’origine. Vous pouvez demander un crédit/une facture pour les raisons suivantes :
 
 -   Demander ou acheter des corrections de commande
 

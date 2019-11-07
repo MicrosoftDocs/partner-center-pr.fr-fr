@@ -2,18 +2,20 @@
 title: Co-vendre avec Microsoft | Espace partenaires
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous avez la possibilité de vendre en collaboration avec Microsoft. Cette collaboration vous aide à prendre des solutions sur le marché, à conduire des revenus communs et à garantir la réussite des clients.
 author: JnHs
 ms.author: jenhayes
-keywords: référence, RFI, rechercher un partenaire
+keywords: référence, demande d'informations, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cda97f98e4d050ff4a48f78760518eb6f5b22cd4
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67856484"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653681"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-vendre avec Microsoft
 
@@ -45,23 +47,23 @@ Une fois que vous avez cliqué sur **Sélectionner**, vous êtes invité à entr
 
 Dans l’écran suivant, vous devez fournir des informations sur l’engagement pour lequel vous souhaitez vendre en collaboration avec Microsoft.
 
-Dans la section Détails de l' **engagement** , entrez ce qui suit:
-- **Nom**de l’engagement: Entrez un nom qui décrit ce client et cet engagement. L’équipe Microsoft verra ce nom lors de l’examen des détails de votre engagement. Veillez donc à utiliser le langage clair et professionnel.
+Dans la section Détails de l' **engagement** , entrez ce qui suit :
+- **Nom**de l’engagement : entrez un nom qui décrit ce client et cet engagement. L’équipe Microsoft verra ce nom lors de l’examen des détails de votre engagement. Veillez donc à utiliser le langage clair et professionnel.
 - **ID CRM**: Si vous le souhaitez, entrez le numéro d’identification que vous utilisez dans votre système CRM.
-- **Date de clôture estimée**: Date approximative à laquelle vous vous attendez à ce que vous fermiez cette transaction.
-- **Valeur estimée**: Valeur totale attendue pour l’engagement. Veillez à sélectionner la devise appropriée.
+- **Date de clôture estimée**: date approximative à laquelle vous pensez fermer cette transaction.
+- **Valeur estimée**: valeur totale attendue pour l’engagement. Veillez à sélectionner la devise qui convient.
 
 Dans le champ **Remarques** , expliquez ce que le client intéresse et comment votre solution peut les aider.
 
  Ensuite, dans la section **contact partenaire** , entrez le nom, le numéro de téléphone et l’adresse de messagerie du contact principal de votre entreprise qui travaille sur cet engagement.
 
-Enfin, dans la section **Ajouter des solutions** , sélectionnez la solution qui sera utilisée pour l’engagement. Si vous ne voyez pas la solution appropriée, contactez le support technique.
+Enfin, dans la section **Ajouter des solutions** , sélectionnez la solution qui sera utilisée pour l’engagement. Si la solution appropriée ne s'affiche pas, contactez le support.
 
 Sélectionnez **suivant** pour passer à l’étape suivante.
 
 ### <a name="invite-others"></a>Inviter d’autres personnes
 
-La dernière étape du processus de création de l’engagement de covente consiste à fournir plus de détails sur le type d’aide que vous recherchez. Sélectionnez le meilleur ajustement sous **Comment pouvons-nous vous aider?** Ensuite, dans le champ **Remarques à Microsoft** , fournissez autant de détails que possible sur les meilleures méthodes pour Microsoft pour fournir de l’aide.
+La dernière étape du processus de création de l’engagement de covente consiste à fournir plus de détails sur le type d’aide que vous recherchez. Sélectionnez le meilleur ajustement sous **Comment pouvons-nous vous aider ?** Ensuite, dans le champ **Remarques à Microsoft** , fournissez autant de détails que possible sur les meilleures méthodes pour Microsoft pour fournir de l’aide.
 
 Veillez à cocher la case pour confirmer que vous avez obtenu un consentement suffisant de votre partenaire. Lorsque tout est prêt, sélectionnez **créer un engagement.** Après cela, Microsoft vous contactera à l’aide des informations de contact que vous avez fournies pour le **contact partenaire**.
 

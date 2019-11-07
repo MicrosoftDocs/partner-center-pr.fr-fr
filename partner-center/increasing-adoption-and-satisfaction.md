@@ -2,17 +2,19 @@
 title: Augmenter l’adoption et la satisfaction client | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
-description: Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134489"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653346"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
@@ -20,7 +22,7 @@ ms.locfileid: "62134489"
 
 -  Espace partenaires
 
-Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
+Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
 
 Vous pouvez afficher les données de l’ensemble de vos clients via le programme Fournisseur de solutions Cloud. Notez que certains clients peuvent acheter des licences auprès d’autres partenaires ou directement auprès de Microsoft. Dans ce cas, vous voyez le nombre total de licences chez tous les partenaires. Pour afficher uniquement vos propres licences, accédez aux abonnements du client.
 
@@ -32,11 +34,11 @@ Vous pouvez afficher les données de l’ensemble de vos clients via le programm
 
 **Pour un seul client**
 
--   Sélectionnez **clients** à partir de la **partenaires**, choisissez un client, puis sélectionnez **insights client**.
+-   Sélectionnez **clients** dans l' **espace partenaires**, choisissez un client, puis sélectionnez **Insights client**.
 
-**Sur votre portefeuille**
+**Dans votre portefeuille**
 
-1.  Sur le **partenaires**, sélectionnez **analyser**.
+1.  Dans l' **espace partenaires**, sélectionnez **analyser**.
 2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
 
 Terminologie&nbsp;:
@@ -62,7 +64,7 @@ Terminologie&nbsp;:
 ## <a name="next-steps"></a>Étapes suivantes
 
 
-Si vous répondez à de nombreuses questions d’aide et de procédures, si les chiffres d’adoption de votre compte sont faibles ou si vous recherchez des opportunités de vente incitative, vous pouvez envisager d’offrir des cours de formation. En apprenant à vos clients à mieux utiliser les solutions cloud qu’ils ont achetées, vous avez plus de chances de voir une hausse de la productivité et de la satisfaction, ainsi qu’une diminution des besoins en matière de support.
+Si vous avez un grand nombre d’aide et de questions relatives aux procédures, que les numéros d’adoption de votre compte sont faibles ou que vous recherchez des opportunités de vente incitative, vous pouvez envisager de proposer des cours de formation. En apprenant à vos clients comment mieux utiliser les logiciels de la solution Cloud qu’ils ont achetés, vous risquez de voir une augmentation de la productivité et de la satisfaction, et une baisse des besoins en matière de support.
 
 <table>
 <colgroup>
@@ -70,14 +72,14 @@ Si vous répondez à de nombreuses questions d’aide et de procédures, si les 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problème :</strong> Le taux d’adoption de l’utilisateur est faible et plusieurs licences ne&#39;t utilisé.</p>
-<p><strong>Éléments à prendre en compte :</strong> Les clients ne peuvent pas comprendre la valeur capable de fournir le logiciel. Vous pouvez les aider à découvrir comment l’intégrer à leurs activités quotidiennes pour simplifier les tâches qu’ils effectuent déjà ou développer de nouveaux types de productivité.</p>
-<p><strong>Ce qu’il faut essayer :</strong> Études de cas, des témoignages d’utilisateurs sur des scénarios spécifiques, des blogs didacticiel ou des vidéos.</p></td>
+<td><p><strong>Problème :</strong> Le taux d’adoption par l’utilisateur est faible, et&#39;de nombreuses licences ne sont pas utilisées.</p>
+<p><strong>Éléments à prendre en compte :</strong> les clients ne comprennent peut-être pas la valeur ajoutée que le logiciel peut leur apporter. Ils ont besoin d’aide pour la mise en place de la manière dont ils peuvent l’intégrer à leur jour pour simplifier les tâches qu’ils font déjà, ou pour activer de nouveaux types de productivité.</p>
+<p><strong>Marche à suivre :</strong> études de cas, témoignage des utilisateurs concernant des scénarios spécifiques, blogs de didacticiel ou vidéos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problème :</strong> Il existe un volume élevé d’appels au support technique pour les questions aide et procédures.</p>
-<p><strong>Éléments à prendre en compte :</strong> Les clients peuvent avoir à nouveau au logiciel, à la version du produit ou à leur tâche.</p>
-<p><strong>Ce qu’il faut essayer :</strong> Vous pouvez utiliser une stratégie de double de l’offre de formation (en personne ou en ligne) pour augmenter le client&#39;s expertise globale, que de promouvoir certaines des options libre-service disponibles pour les clients.</p>
+<td><p><strong>Problème :</strong> le nombre d’appels pour des questions d’aide et de procédures est élevé.</p>
+<p><strong>Éléments à prendre en compte :</strong> les clients peuvent ne pas connaître le logiciel, la version du produit ou la tâche qu’ils doivent effectuer.</p>
+<p><strong>À essayer :</strong> Vous pouvez utiliser une stratégie double pour offrir une formation (en personne ou en ligne) pour&#39;augmenter l’expertise générale du client, tout en promouvant certaines des options en libre-service disponibles pour les clients.</p>
 <p>Vous pouvez également repenser votre site de support pour inclure les options de libre-service décrites dans la rubrique <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Support autonome du client</a>, en plus des informations de contact du support.</p></td>
 </tr>
 </tbody>

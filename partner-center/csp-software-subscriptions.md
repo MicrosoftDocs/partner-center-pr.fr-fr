@@ -2,18 +2,20 @@
 title: Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
 ms.date: 05/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Vous pouvez maintenant acquérir, approvisionner et gérer des instances réservées Azure et des abonnements de serveur pour le compte de clients commerciaux via Microsoft Espace partenaires et le portail Azure en tirant parti de l'Azure Hybrid Benefit.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Fournisseur de solutions Cloud, CSP, services basés sur le Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376426"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653487"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
 
@@ -24,7 +26,7 @@ Vous pouvez désormais acquérir, approvisionner et gérer des réservations Azu
 Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le Windows Server Datacenter et les licences Standard prises en charge avec Software Assurance. Selon l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un taux de calcul de base inférieur (taux de machines virtuelles Linux, par exemple).
 
 > [!NOTE]  
-> Les réservations Azure ne sont pas disponibles sur les marchés suivants:  
+> Les réservations Azure ne sont pas disponibles sur les marchés suivants :  
 > * Argentine
 > * Brésil
 > * Chine
@@ -34,7 +36,7 @@ Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos lice
 > * Malaisie
 > * Mexique
 > * Russie
-> * Arabie saoudite
+> * Arabie saoudite
 > * Afrique du Sud
 > * Turquie
 
@@ -77,7 +79,7 @@ Vous pouvez annuler un achat de logiciel dans un délai de 60 jours à compter d
 
 Une fois l’achat annulé, la clé du logiciel est révoquée. 
 
-Suivez les étapes ci-dessous pour annuler un achat:
+Suivez les étapes ci-dessous pour annuler un achat :
 
 >[!NOTE]
 >Vous devez être Agent d'administration pour pouvoir annuler un achat. 
@@ -106,4 +108,4 @@ Suivez les étapes ci-dessous pour annuler un achat:
 
 8.  Si vous avez besoin d'attacher un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative. 
 
-9.  Une fois terminé, sélectionnez **Soumettre**.
+9.  Lorsque vous avez terminé, sélectionnez **Envoyer**.

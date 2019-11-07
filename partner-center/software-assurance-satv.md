@@ -2,17 +2,19 @@
 title: Programme Bon de formation Software Assurance (SATV) de l’Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: S’inscrire au programme de formation Software Assurance
 author: LauraBrenner
 ms.author: labrenne
 keywords: bons de formation, software assurance, formation, inscription à SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 60d60ecb5dca320bc0fc0da2908db95bd200a7be
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142017"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651598"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) de l’Espace partenaires
 
@@ -22,7 +24,7 @@ En tant que partenaire de formation Software Assurance approuvé, Microsoft vous
 
 ## <a name="get-started"></a>Prise en main
 
-Si vous ne connaissez pas les services de formation Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le programme de bons de formation, commencez à l’étape 4 ci-dessous. 
+Si vous ne connaissez pas les services de formation Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le programme de bon de formation, commencez à l’étape quatre (4) ci-dessous. 
 
 1. Confirmer l’éligibilité au programme
 2. S’inscrire au programme de formation
@@ -39,11 +41,11 @@ Cet article explique comment effectuer chaque étape.
 
 Avant de pouvoir vous inscrire au programme Bon de formation Software Assurance (SATV), vous devez remplir les conditions requises pour l’option Microsoft Partner Network Learning, qui remplace la compétence Microsoft Learning. Découvrez comment bien démarrer avec l’[option Learning](https://partner.microsoft.com/membership/learning-partners).
 
-Vous pouvez vérifier l’éligibilité de votre entreprise, notamment les exigences applicables en termes de compétences et d’évaluation dans l’Espace partenaires. Pour plus d’informations et pour obtenir des captures d’écran, suivez les instructions de l' [étape 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail SATV.
+Vous pouvez vérifier l’éligibilité de votre société, y compris les compétences applicables et les exigences d’évaluation dans l’espace partenaires. Pour plus d’informations et pour obtenir des captures d’écran, suivez les instructions de l' [étape 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail SATV.
 
 ## <a name="enroll-in-the-training-program"></a>S’inscrire au programme de formation
 
-Une fois que votre entreprise satisfait les conditions d’éligibilité et que les participants au programme ont réussi le cours de formation à la conformité, vous êtes prêt à signer le contrat du programme de bons de formation Software Assurance et à vous inscrire. Veillez à passer en revue toutes les [stratégies de programme SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), puis suivez les instructions de l' [étape 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail pour terminer le processus d’inscription de SATV dans l’espace partenaires.   
+Une fois que votre entreprise répond aux conditions d’éligibilité et que les participants au programme ont passé le cours de formation à la conformité, vous êtes prêt à signer le contrat de programme du bon de formation Software Assurance et à vous inscrire. Veillez à passer en revue toutes les [stratégies de programme SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), puis suivez les instructions de l' [étape 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail pour terminer le processus d’inscription de SATV dans l’espace partenaires.   
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmer l’éligibilité au cours
@@ -55,7 +57,7 @@ Avant d’effectuer une formation, votre client doit tout d’abord activer son 
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>Valider et réserver les bons clients
 
-Vous êtes maintenant en mesure de réserver et d’échanger des bons et de commencer à former vos clients. L’administrateur MPN de votre entreprise a accès à l’outil de gestion des bons dans l’Espace partenaires et peut ajouter les utilisateurs qui doivent travailler dans l’outil. Pour obtenir des instructions sur la validation et la réservation des bons, reportez-vous à l' [étape 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail.
+Vous êtes maintenant en mesure de réserver et d’échanger des bons et de commencer à former vos clients. L’administrateur MPN de votre entreprise a accès à l’outil de gestion des pièces justificatives dans l’espace partenaires et peut ajouter des utilisateurs qui doivent travailler dans l’outil. Pour obtenir des instructions sur la validation et la réservation des bons, reportez-vous à l' [étape 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail.
 
 ## <a name="deliver-training-and-activate-product"></a>Fournir une formation et activer le produit
 

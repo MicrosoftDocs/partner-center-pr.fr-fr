@@ -2,21 +2,23 @@
 title: Services de planification Software Assurance dans l’espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 01/21/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Inscrivez-vous aux services de planification pour assurer la planification de prédéploiement pour les clients d’entreprise
 author: LauraBrenner
 ms.author: labrenne
 Keywords: prédéploiement, planification, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708885"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651629"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 
-Développez votre activité en inscrivant dans les programmes de services de planification Software Assurance. Microsoft compense les partenaires pour la diffusion de formations, de planifications et d’autres services aux clients d’entreprise qui disposent de la Software Assurance.
+Développez votre activité en inscrivant dans les programmes de services de planification Software Assurance. Microsoft offre une rémunération aux partenaires pour la diffusion de formations, de planifications et d’autres services aux grandes entreprises clientes qui disposent de la garantie Software Assurance.
 
 En tant que partenaire des services de planification approuvés, Microsoft vous compense de fournir des engagement de planification de prédéploiement pour les clients d’entreprise. Participer à ce programme peut vous aider à attirer plus de clients, à devenir leur partenaire de planification approuvé et à mener à des interventions client supplémentaires.
 
@@ -33,7 +35,7 @@ Si vous ne connaissez pas les services de planification Software Assurance, suiv
 4. Réserver un bon client 
 5. Terminer l’engagement et soumettre le rapport d’achèvement
 6. Échanger le bon 
-7. Demander le paiement de Microsoft
+7. Demander le paiement à Microsoft
 
 Cet article explique comment effectuer chaque étape.
 

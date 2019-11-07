@@ -2,20 +2,22 @@
 title: Communication de Microsoft avec le client | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
-description: En général, toutes les communications avec le client doivent émaner du partenaire Fournisseur de solutions&nbsp;Cloud.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: En règle générale, toutes les communications avec le client doivent provenir du partenaire du programme Fournisseur de solutions Cloud.
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: communication, communication avec le client, discuter avec Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dc78c78418c3d111ad83bc4a5ef5e304a0b90e7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b7196ec84c40fb4cfafc5aa388d40433c5c96863
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134699"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653467"
 ---
-# <a name="customer-communication-from-microsoft"></a>Communication client de Microsoft
+# <a name="customer-communication-from-microsoft"></a>Communication de Microsoft avec le client
 
 **S’applique à**
 
@@ -23,7 +25,7 @@ ms.locfileid: "62134699"
 -  Espace partenaires de Microsoft Cloud for US Government
 
 
-En général, toutes les communications avec le client doivent émaner du partenaire Fournisseur de solutions&nbsp;Cloud. Étant donné que vous possédez la relation de facturation avec le client, Microsoft n’envoie pas directement à vos clients de communications liées à leurs abonnements.
+En règle générale, toutes les communications avec le client doivent provenir du partenaire du programme Fournisseur de solutions Cloud. Étant donné que vous possédez la relation de facturation avec le client, Microsoft n’envoie pas directement à vos clients de communications liées à leurs abonnements.
 
 Microsoft peut communiquer directement avec les clients sur les incidents de service ou concernant d’autres informations opérationnelles.
 

@@ -2,18 +2,20 @@
 title: Ajouter Azure Partner Shared Services | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure Partner Shared Services est un nouveau type d’offre proposé aux partenaires dans le cadre du programme Fournisseur de solutions Cloud. Il leur permet d’acheter des abonnements Azure pour leur propre usage.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, services partagés, client
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bfdb82d0698f2e0aba3f5284a53fe22010efc0da
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134942"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651679"
 ---
 # <a name="add-azure-partner-shared-services"></a>Ajouter Azure Partner Shared Services
 
@@ -21,7 +23,7 @@ ms.locfileid: "62134942"
 
 -  Espace partenaires
 
-Azure Partner Shared Services est un nouveau type d’offre proposé aux partenaires dans le cadre du programme Fournisseur de solutions Cloud. Il leur permet d’acheter des abonnements Azure pour leur propre usage.  Il crée la possibilité pour les partenaires destiné à une méthode uniforme d’achat, le suivi et la gestion d’Azure ainsi que la possibilité de consolider leur Azure licence et de revente de contrats avec Microsoft. À l'aide d'Azure Partner Shared Services, les partenaires peuvent désormais utiliser des abonnements Azure dans le programme Fournisseur de solutions Cloud, à l'instar des programmes Contrat Entreprise Microsoft et Web Direct, afin d'ouvrir des scénarios tels que : création de builds, test d'environnements, déploiement de charges de travail internes et hébergement de services partagés ou d'applications mutualisées.  
+Azure Partner Shared Services est un nouveau type d’offre proposé aux partenaires dans le cadre du programme Fournisseur de solutions Cloud. Il leur permet d’acheter des abonnements Azure pour leur propre usage.  Il permet aux partenaires d’utiliser une méthode uniforme pour l’achat, le suivi et la gestion d’Azure, en plus de la possibilité de consolider leurs contrats de licence et de revente Azure avec Microsoft. À l'aide d'Azure Partner Shared Services, les partenaires peuvent désormais utiliser des abonnements Azure dans le programme Fournisseur de solutions Cloud, à l'instar des programmes Contrat Entreprise Microsoft et Web Direct, afin d'ouvrir des scénarios tels que : création de builds, test d'environnements, déploiement de charges de travail internes et hébergement de services partagés ou d'applications mutualisées.  
 
 ## <a name="create-the-shared-services-tenant"></a>Créer le client de services partagés
 
@@ -39,13 +41,13 @@ Azure Partner Shared Services est un nouveau type d’offre proposé aux part
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>À propos de l’offre Azure- Internal/Shared Services
 
-- L’abonnement Azure – Internal/Shared Services est un nouveau type d’offre Azure proposé par le programme Fournisseur de solutions Cloud. Les partenaires peuvent y accéder depuis l'Espace partenaires qui leur est fourni pour leur propre usage d’Azure. 
+- L’abonnement Azure-Internal/Shared Services est un nouveau type d’offre Azure dans CSP accessible via l’espace partenaires que les partenaires obtiennent pour leur propre utilisation d’Azure. 
 
-- L’offre Azure – Internal/Shared Services ne peut pas faire l’objet de remises ou de primes incitatives.
+- Azure-Internal/Shared Services offre n’est pas éligible pour les remises et les incentives.
 
 - L’offre Azure - Internal/Shared Services ne peut s'appliquer qu'au client des services partagés.
 
-- L'objet principal de l'abonnement Azure – Internal/Shared Services est de vous permettre d'utiliser Azure pour vos propres objectifs de développement. Le client partagé que vous utilisez pour bénéficier de cette offre ne peut pas servir à d’autres services, tels que des sièges Office 365 ou Dynamics. 
+- La principale utilisation de l’abonnement Azure-Internal/Shared Services est de vous permettre d’utiliser Azure à des fins de développement. Le client partagé que vous utilisez pour bénéficier de cette offre ne peut pas servir à d’autres services, tels que des sièges Office 365 ou Dynamics. 
 
 - Vous pouvez annuler cet abonnement comme n'importe quel autre. Accédez à **paramètres** > **Afficher tous les paramètres** > **Shared services**. Sélectionnez l'abonnement Azure - Internal/Shared Services et annulez-le.
 
@@ -57,19 +59,19 @@ Vous trouverez la consommation d'Azure sur votre facture de Fournisseur de solut
 
 Pour voir le nouveau fichier de tarification d’Azure Partner Shared Services, rendez-vous sur **Vendre** >  **Tarification et offres** et sélectionnez la liste de prix du mois en cours. Dans les prochaines semaines, une api de carte de tarifs spécifique sera également publiée.
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Offres place de marché et Azure Partner Shared Services
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Offres de la place de marché et services partagés partenaires Azure
 
-À compter du 1er mars 2019, Azure Partner Shared Services (APSS) n’est plus prend en charge que des offres place de marché.   
+Depuis le 1er mars 2019, Azure Partner Shared Services (APSS) ne prend plus en charge les offres de la place de marché.   
 
-|**Prise en charge de la place de marché**   |**APSS pris en charge avant le 1 mars 2019**|**Après le 1 mars 2019**|
+|**Support technique de la place de marché**   |**APSS pris en charge avant le 1er mars 2019**|**Après le 1er mars 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Apportez votre propre licence (BYOL) et les services gratuits   | Oui   | Non|
-|Autres offres de la place de marché tierce   | Non   |Non|
+|BYOL (apportez votre propre licence) et des services gratuits   | Oui   | non|
+|Autres offres de la place de marché tiers   | non   |non|
 
 
-Les partenaires qui BYOL ou libre services déployés à l’aide de APSS ne seront pas affectées ; Toutefois après le 1 mars 2019 ils pas sera en mesure d’acheter de nouveaux BYOL ou des services gratuits. 
+Les partenaires qui ont des services BYOL ou gratuits déployés à l’aide de APSS ne seront pas affectés. Toutefois, après le 1er mars, 2019, il ne sera pas en mesure d’acheter de nouveaux services BYOL ou gratuits. 
 
-Pour tirer parti du catalogue complet des offres de la place de marché disponibles (pas seulement les BYOL et les services gratuits), nous vous recommandons de déploient des services partagés à l’aide d’abonnements Azure directs web Partenaires CSP.  Les partenaires CSP qui ont déployé 3ème partie BYOL et libèrent service précédemment des ressources à partir de la place de marché pour continuer à utiliser les et déployer plus 3ème partie offres sont encouragés à migrer l’abonnement APSS sur le web direct [migration Abonnements Azure existants](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+Pour tirer parti du catalogue complet des offres de la place de marché disponibles (pas seulement les BYOL et les services gratuits), nous recommandons que les partenaires CSP déploient des services partagés à l’aide d’abonnements Azure Web direct.  Les partenaires CSP qui ont déjà déployé des ressources BYOL et gratuites de service tierces à partir de la place de marché, et souhaitent continuer à les utiliser et à déployer d’autres offres tierces sont encouragés à migrer l’abonnement APSS vers Web direct [migration d’Azure. Abonnements](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
-Les partenaires qui prévoient de continuer à utiliser abonnement APSS après le 1er mars 2019 et souhaitez déployer le nouveau tiers 3e [des services BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) ou services gratuits, suivez les instructions des éditeurs de logiciels pour déployer ces à leurs abonnements APSS.
+Les partenaires, qui envisagent de continuer à utiliser l’abonnement APSS après le 1er mars 2019 et souhaitent déployer de nouveaux services [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) tiers ou des services gratuits, peuvent suivre les instructions des éditeurs de logiciels indépendants (ISV) pour les déployer dans leurs abonnements APSS.
 

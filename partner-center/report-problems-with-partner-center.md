@@ -2,17 +2,19 @@
 title: Signaler des problèmes relatifs à l’Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comment signaler des problèmes avec l'Espace partenaires et collecter des informations de diagnostic pour notre équipe de Support.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425189"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651716"
 ---
 # <a name="report-problems-with-partner-center"></a>Signaler des problèmes relatifs à l’Espace partenaires
 
@@ -39,7 +41,7 @@ Contactez le support technique si vous rencontrez des problèmes avec l’espace
 
 **Envoyer des diagnostics**
 
-Si une erreur se produit lorsque vous êtes sur une page de l'Espace partenaires, vous pouvez être invité à collecter des informations du journal. Sélectionnez **Collect more information** dans le menu qui se déroule à partir du haut de la page pour ouvrir l’outil Client Diagnostic. Cet outil collecte les informations dont l'équipe de support partenaire a besoin pour déterminer la cause de l’erreur. 
+Si une erreur se produit pendant que vous êtes sur une page de l’espace partenaires, vous pouvez être invité à collecter les informations du journal. Sélectionnez **Collect more information** dans le menu qui se déroule à partir du haut de la page pour ouvrir l’outil Client Diagnostic. Cet outil collecte les informations dont l'équipe de support partenaire a besoin pour déterminer la cause de l’erreur. 
 
 >[!NOTE]
 >Dans les pages de l'Espace partenaires qui incluent **/pcv/** dans l’URL, vous pouvez ouvrir l’outil manuellement pour collecter ces informations.

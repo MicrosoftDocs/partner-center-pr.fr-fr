@@ -2,23 +2,25 @@
 title: Confirmer l’acceptation du contrat client Microsoft par le client | Espace partenaires
 ms.topic: article
 ms.date: 09/30/2019
-Description: En tant que partenaire, vous devez obtenir l’acceptation du contrat client Microsoft par le client pour pouvoir lui commander des produits et des services Microsoft. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant des informations sur la personne qui a accepté le contrat.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: En tant que partenaire, vous devez obtenir l’acceptation du contrat du client Microsoft par le client avant de pouvoir commander des produits et services Microsoft pour ce client. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant des informations sur la personne qui a accepté le contrat.
 author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat Microsoft Cloud, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: medium
-ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704176"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653645"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmer l’acceptation du client du contrat de client Microsoft
 
-Actuellement, avant qu’un partenaire CSP puisse passer une commande au nom d’un client, le client doit accepter et signer le **contrat Microsoft Cloud** applicable. Ensuite, le partenaire doit confirmer l’acceptation du contrat par le client en fournissant des informations sur le signataire à Microsoft. À défaut de confirmation :
-- Vous ne pourrez pas créer de commandes pour ce client.
-- Vous ne pourrez pas modifier le nombre de sièges des abonnements existants basés sur les utilisateurs pour ce client.
+Actuellement, avant qu’un partenaire CSP puisse passer une commande au nom d’un client, le client doit accepter et signer le **contrat de Microsoft Cloud**applicable. Ensuite, le partenaire doit confirmer l’acceptation du contrat par le client en fournissant des informations sur le signataire à Microsoft. À défaut de confirmation :
+- Vous ne pouvez pas créer de nouvelles commandes pour ce client.
+- Vous ne pouvez pas modifier le nombre de sièges des abonnements basés sur les sièges existants pour ce client.
 
 Pour plus d’informations sur la façon de confirmer l’acceptation par un client du contrat Microsoft Cloud à l’aide du tableau de bord ou de l’API de l’Espace partenaires, consultez [Confirmer l'acceptation du contrat Microsoft Cloud par le client](confirm-consent.md).
 

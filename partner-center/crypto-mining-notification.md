@@ -2,27 +2,29 @@
 title: Notification de l’espace partenaires pour l’activité crypto-Mining | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Notification relative à une activité de minage de cryptomonnaie en cours.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Crypto-Mining, crypto-monnaies Mining, sécurité
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: febce4039e1634fb5e82d083f83e2c11ef47040f
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7f9f138a55cf7e61e46e2e876263fdd577410c96
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708848"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651125"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notification de l’espace partenaires pour l’activité d’exploration de données crypto-monnaies
 
 **S’applique à**
 
 -  Espace partenaires
--  Partenaires fournisseurs de solutions Cloud
+-  Partenaires fournisseurs de solutions cloud
 
-Vous avez peut-être reçu la notification de l’espace partenaires suivante sur crypto-monnaies Mining:
+Vous avez peut-être reçu la notification de l’espace partenaires suivante sur crypto-monnaies Mining :
  
 ![Image de notification de sécurité dans l’espace partenaires](images/crypto1.png)
 

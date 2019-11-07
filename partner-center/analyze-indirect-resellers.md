@@ -1,6 +1,8 @@
 ---
 title: Analyser les performances des revendeurs indirects | Espace partenaires
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Obtenir des données sur les performances de vos revendeurs indirects pour identifier les réussites et les zones qui peuvent nécessiter plus d’attention.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: données d'entreprise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781992"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653928"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analyser les performances des revendeurs indirects 
 
@@ -29,10 +31,10 @@ Les données orientent les décisions prises au niveau de l’entreprise. Utilis
 Nous suivons les indicateurs de performance suivants :
 
 **Résumé**  
- - **Nombre total**de revendeurs: Nombre de revendeurs actifs le dernier jour de l’abonnement  
- - **Nouveaux**revendeurs: Nombre de nouveaux revendeurs indirects pour la période spécifiée  
- - **Revendeurs actifs**: Nombre de revendeurs indirects où le MPNID est au moins 1 abonnement et où l’état de l’abonnement n’est pas annulé  
- - Revendeurs transmettant: Nombre de revendeurs indirects avec un abonnement vendu au cours de la période spécifiée  
+ - **Nombre total de revendeurs** : nombre de revendeurs actifs au dernier jour de l’abonnement  
+ - **Nouveaux revendeurs** : nombre de nouveaux revendeurs indirects pour la période spécifiée  
+ - **Revendeurs actifs** : nombre de revendeurs indirects dont le MPNID est d'au moins 1 abonnement et l’état de l’abonnement n’est pas supprimé.  
+ - **Revendeurs effectuant des transactions** : nombre de revendeurs indirects avec un abonnement vendus dans la période spécifiée  
 
 **Revendeurs par marché**  
  - Nombre total de revendeurs par lieu géographique  
@@ -41,22 +43,22 @@ Nous suivons les indicateurs de performance suivants :
  - Liste de revendeurs triés en fonction du nombre d’abonnements qu'ils ont vendus  
 
 **Principaux produits par nombre d’abonnements**  
- - **Dynamics 365**: Produits Dynamics 365 triés par abonnements vendus  
- - **EMS**: Nombre d’abonnements aux services de gestion d’entreprise vendus  
- - **Microsoft 365**: Nombre d’abonnements Microsoft 365 vendus  
- - **Office 365**: Produits Office 365 triés par abonnements vendus  
+ - **Dynamics 365** : produits Dynamics 365 triés par nombre d'abonnements vendus  
+ - **EMS** : nombre d’abonnements aux services de gestion d’entreprise vendus  
+ - **Microsoft 365** : nombre d’abonnements Microsoft 365 vendus  
+ - **Office 365** : produits Office 365 triés par nombre d'abonnements vendus  
 
 **Nouveaux abonnements**  
  - Nombre de nouveaux abonnements ajoutés par date  
 
 **Évolution de l’abonnement**  
- - **Nouveaux abonnements**: Nombre de nouveaux abonnements ajoutés par date  
- - **Abonnements**déconfigurés: Nombre d’abonnements mis hors service ou suspendus par date  
+ - **Nouveaux abonnements** : nombre de nouveaux abonnements ajoutés par date  
+ - **Abonnements annulés** : nombre d'abonnements annulés ou suspendus par date  
 
 **Nouveaux détails du revendeur**  
- - **Nom du revendeur**: Noms des revendeurs indirects  
- - **Emplacement** : Marchés où les revendeurs indirects travaillent  
- - **Abonnements**: Nombre d’abonnements vendus par le revendeur  
- - **Licences**: Nombre total de licences vendues par le revendeur pour tous les abonnements  
+ - **Nom du revendeur** : noms des revendeurs indirects  
+ - **Emplacement** : marchés sur lesquels les revendeurs indirects exercent leurs activités  
+ - **Abonnements** : nombre d’abonnements vendus par le revendeur  
+ - **Licences** : nombre total de licences vendues par le revendeur sur l'ensemble des abonnements  
   
   

@@ -2,17 +2,19 @@
 title: Application Analyse de l'Espace partenaires pour Power BI | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Utilisez l’application Analyse de l'Espace partenaires pour Power BI (pour les partenaires directs du programme Fournisseur de services cloud).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 085fcb059a11b487c69ba64d9c411b173ed48c6b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 4db94f32b035be52dea575d4f731d981beb8c1b8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134569"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652222"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Afficher les données de votre entreprise avec l’application Analyse de l’Espace partenaires pour Microsoft Power BI
 
@@ -49,120 +51,120 @@ Obtenir une représentation visuelle des données de votre entreprise avec l’a
 
 ### <a name="business-insights-report"></a>Rapport de perspectives
 
--  **Locataires des clients**: Nombre de Azure distincte locataires AD de clients qui ont acheté des abonnements
+-  **Locataires client** : nombre de locataires Azure AD distincts des clients qui ont acheté des abonnements
 
--  **Nouveau (30 derniers jours)**: Nouveaux clients vous achetez au moins un abonnement dans les 30 derniers jours
+-  **Nouveaux (30 derniers jours)**  : nouveaux clients achetant au moins un abonnement dans les 30 derniers jours
 
--  **Activité (30 derniers jours)**: Les clients sans les « actif », « grâce » ou « désactivés » abonnements
+-  **Évolution (30 derniers jours)** : clients sans abonnement « actif », « en grâce » ou « désactivé »
 
-- **Nouveau (dernières 24 heures)**: Nouveaux clients vous achetez au moins un abonnement dans les dernières 24 heures
+- **Nouveaux (dernières 24 heures)**  : nouveaux clients achetant au moins un abonnement dans les dernières 24 heures
 
-- **Estimation du coût mensuel sur 12 derniers mois**: Mois sur la tendance des mois estimé impôts dollar du montant de facture agrégé mensuellement sur la période de 12 derniers mois
+- **Estimation du coût mensuel sur les 12 derniers mois** : tendance mois par mois du montant de facturation hors taxes estimé en dollars, agrégée tous les mois pendant la période des 12 derniers mois
 
-- **Coût estimé par produit sur 12 derniers mois**: Produits vendus triées par montant estimation de facture impôts agrégées pendant la période de 12 derniers mois. Cela indique les principaux produits générant le plus de revenus.
+- **Estimation du coût par produit au cours des 12 derniers mois** : produits vendus triés par montant de facturation hors taxes estimé en dollars, agrégés pendant la période des 12 derniers mois. Cela indique les principaux produits générant le plus de revenus.
 
-- **Les clients sur les 12 derniers mois**: Mois sur la tendance des mois de nouveaux clients et évolution du agrégées tous les mois pendant la période de 12 derniers mois
+- **Clients sur les 12 derniers mois** : tendance mois par mois des nouveaux clients et des clients désabonnés, agrégée chaque mois pour la période des 12 derniers mois
 
-- **Estimation du coût par client sur 12 derniers mois**: Clients sont triées par montant estimation de facture impôts agrégée pendant la période de 12 derniers mois. Cela indique les principaux clients générant le plus de revenus.
+- **Estimation du coût par client sur les 12 derniers mois** : clients triés par montant de facturation hors taxes estimé en dollars, agrégés pendant la période des 12 derniers mois. Cela indique les principaux clients générant le plus de revenus.
 
-- **Nombre de clients par produit**: Produits vendus triés par les clients associés. Cela indique les principaux produits vendus à la plupart des clients. 
+- **Nombre de clients par produit** : produits vendus triés par client associé. Cela indique les principaux produits vendus à la plupart des clients. 
 
 
 ### <a name="subscription-insights-report"></a>Rapport de perspectives d'abonnements 
 
 - **État des abonnements** :
 
-    - Active : Les abonnements appartenant à deux « actif » ou « in grâce » état
+    - Actif : abonnements appartenant à l’état « actif » ou « en grâce »
 
-    - Suspendu : Abonnements appartenant à l’état « désactivé »
+    - Suspendu : abonnements appartenant à l’état « désactivé »
 
-    - Approvisionné : Abonnements appartenant à « approvisionnement » ou « expiré » état
+    - Désapprovisionnés : abonnements appartenant à l’état « annulé » ou « expiré »
 
 - **État d’expiration** :
 
-    - A expiré : Les abonnements qui ont déjà expiré (où la date de fin d’abonnement est dans passé)
+    - Expirés : abonnements ayant déjà expiré (dont la date de fin d’abonnement est dépassée)
 
-    - Expire après 30 jours : Abonnements expirent après 30 jours (date de fin d’abonnement étant après 30 jours)
+    - Expirant après 30 jours : abonnements qui vont expirer au bout de 30 jours (dont la date de fin d’abonnement est au bout de 30 jours)
 
-    - Date d’expiration des 30 derniers jours : Abonnements qui expirent dans 30 jours (date de fin d’abonnement étant entre aujourd'hui et pendant 30 jours)
+    - Expirant dans les 30 jours : abonnements qui vont expirer dans les 30 prochains jours (dont la date de fin d’abonnement est comprise entre aujourd'hui et dans 30 jours)
 
--  **Nombre total d’abonnements**: Abonnements dans « actif », « in grâce » ou l’état « désactivé »
+-  **Nombre total d’abonnements**: abonnements dans l’état « actif », « en délai » ou « désactivé »
 
-- **Nouveau (30 derniers jours)**: Nouveaux abonnements achetés par les clients pendant les 30 derniers jours
+- **Nouveaux (30 derniers jours)**  : nouveaux abonnements achetés par des clients lors des 30 derniers jours
 
-- **Nouveau (dernières 24 heures)**: Nouveaux abonnements achetés par les clients au sein des dernières 24 heures
+- **Nouveaux (dernières 24 heures)**  : nouveaux abonnements achetés par des clients lors des dernières 24 heures
 
-- **Expire dans 30 jours**: Abonnements qui expirent dans 30 jours
+- **Expirant dans les 30 jours** : abonnements qui expireront dans les 30 prochains jours
 
-- **Activité (30 derniers jours)**: Les abonnements qui ont été approvisionnés ou suspendu (désactivé) dans les 30 derniers jours
+- **Perte (30 derniers jours)**  : abonnements qui ont été annulés ou suspendus (désactivés) dans les 30 derniers jours
 
 - **Distribution par types d’abonnement** : pourcentage de distribution du total des abonnements par type d’abonnement basé sur l’utilisation ou les licences
 
-- **Nombre d’abonnement actif par produit**: Produits vendus triées par nombre d’abonnements actifs
+- **Nombre d’abonnements actifs par produit** : produits vendus triés par le nombre d’abonnements actifs
 
-- **Abonnements au fil des 12 derniers mois**: Mois sur la tendance des mois de nouveaux abonnements et les abonnements de l’évolution du agrégées tous les mois pendant la période de 12 derniers mois
+- **Abonnements sur les 12 derniers mois** : tendance mois par mois des nouveaux abonnements et des abonnements annulés, agrégée chaque mois pour la période des 12 derniers mois
 
-- **Détails de l’abonnement client**: Vue détaillée des clients, des abonnements et des offres 
+- **Détails des abonnements client** : affichage détaillée des clients, des abonnements et des offres 
 
 
 ### <a name="license-insights-report"></a>Rapport d’informations de licence :
 
-- **Nombre total de licences**: Nombre total de licences agrégé pour tous les abonnements de licence en fonction
+- **Total des licences** : nombre total des licences agrégé sur l'ensemble des abonnements basés sur les licences
 
-- **Nouveau (30 derniers jours)**: Ajout de licence dans les 30 derniers jours
+- **Nouveaux (30 derniers jours)**  : ajout de licence dans les 30 derniers jours
 
-- **Activité (30 derniers jours)**: Réduction de la licence dans les 30 derniers jours
+- **Perte (30 derniers jours)**  : baisse des licences dans les 30 derniers jours
 
-- **Nouveau (dernières 24 heures)**: Ajout de licence dans les dernières 24 heures
+- **Nouveaux (dernières 24 heures)**  : ajout de licence dans les dernières 24 heures
 
-- **Licences sur 90 derniers jours**: Mois sur la tendance des mois d’ajouts de licence et des réductions agrégées chaque mois pendant la période de 90 derniers jours
+- **Licences sur les 90 derniers jours** : tendance mois par mois des ajouts et des baisses de licences agrégés chaque mois pour la période de 90 derniers jours
 
-- **Nombre de licences active par produit**: Produits vendus triées par nombre de licences active
+- **Nombre de licences actives par produit** : produits vendus triés par le nombre de licences actives
 
-- **Nombre de licences active par le client**: Les clients triés par triées par nombre de licences active
+- **Nombre de licences actives par client** : clients triés par le nombre de licences actives
 
-- **Détails de l’événement client licence sur 90 derniers jours**: Vue détaillée des clients, les abonnements et les événements d’abonnement, y compris les événements de date, nom de l’événement, quantity et modification de la quantité.
+- **Détails des événements de licence client sur les 90 derniers jours** : affichage détaillé des clients, des abonnements et des événements d’abonnement, y compris la date de l'événement, le nom de l’événement, la quantité et le changement de quantité.
 
 
 ### <a name="licenses-usage-report"></a>Rapport d’utilisation des licences :
 
-- **Des licences attribuées par produit**: Produits vendus triées par nombre d’affectations de licence
+- **Licences attribuées par produit** : produits vendus triés par le nombre d'attribution de licences
 
-- **Licences en cours d’utilisation par produit**: Produits vendus triées par nombre d’utilisations de licence
+- **Licences utilisées par produit** : produits vendus triés par le nombre d'utilisation des licences
 
 - **Répartition par client des licences attribuées** : répartition en pourcentage du nombre total de clients en séries de plages de 20 % par pourcentage d'attribution des licences
 
 - **Répartition par client des licences utilisées** : répartition en pourcentage du nombre total de clients en séries de plages de 20 % par pourcentage d'utilisation des licences
 
-- **Licences attribuées par le client**: Vue détaillée des licences vendues et licences attribuées par les clients et les produits
+- **Licences attribuées par client** : affichage détaillé des licences vendues et attribuées par client et produit
 
-- **Licences en cours d’utilisation par le client**: Vue détaillée des licences en cours d’utilisation par les clients et les produits et les licences vendues
+- **Licences utilisées par client** : affichage détaillé des licences vendues et attribuées en cours d'utilisation par client et produit
 
 
 ### <a name="azure-insights-report"></a>Rapport d’informations sur Azure :
 
-- **Les clients basée sur l’utilisation sur 12 derniers mois**: Mois sur la tendance des mois d’utilisation de nouveau en fonction des clients et hautement évolutives de clients en fonction de l’utilisation agrégées mensuel sur la période de 12 derniers mois
+- **Clients basés sur l'utilisation sur les 12 derniers mois** : tendance mois par mois des nouveaux clients basés sur l'utilisation et des clients basés sur l'utilisation perdus, agrégée chaque mois pour la période des 12 derniers mois
 
-- **Abonnements basée sur l’utilisation sur 12 derniers mois**: Mois sur la tendance des mois d’utilisation de nouveau en fonction des abonnements et hautement évolutives d’abonnements en fonction de l’utilisation agrégées mensuel sur la période de 12 derniers mois
+- **Abonnements basés sur l’utilisation sur les 12 derniers mois** : tendance mois par mois des nouveaux abonnements basés sur l’utilisation et des abonnements basés sur l’utilisation perdus, agrégée chaque mois pour la période des 12 derniers mois
 
-- **Estimation du coût d’utilisation par le client sur les 60 derniers jours**: Les clients en fonction de l’utilisation triées par montant estimation de facture avant impôts agrégées pendant la période de 60 derniers jours. Cela indique les principaux clients basés sur l'utilisation générant le plus de revenus.
+- **Coût estimé d'utilisation par client sur les 60 derniers jours** : clients basés sur l'utilisation triés par montant de facturation hors taxes estimé en dollars, agrégés pour la période des 60 derniers jours. Cela indique les principaux clients basés sur l'utilisation générant le plus de revenus.
 
-- **Estimation du coût d’utilisation par catégorie sur 60 derniers jours**: Catégories de compteur d’utilisation en fonction des abonnements triées par montant estimation de facture impôts agrégée pendant la période de 60 derniers jours.
+- **Coût estimé d'utilisation par catégorie sur les 60 derniers jours** : mesure les catégories d'abonnements basés sur l'utilisation triés par montant de facturation hors taxes estimé en dollars, agrégés pour la période des 60 derniers jours.
 
-- **Estimation du coût d’utilisation par abonnement sur 60 derniers jours**: Abonnements en fonction de l’utilisation par montant estimation de facture impôts agrégées pendant la période de 60 derniers jours.
+- **Coût estimé d'utilisation par abonnement sur les 60 derniers jours** : abonnements basés sur l'utilisation par montant de facturation hors taxes estimé en dollars, agrégés pour la période des 60 derniers jours.
 
-- **Client estimation du coût d’utilisation par le budget de dépenses**: Clients sont triés par pourcentage de leur utilisation actuelle des dépenses dépassant le seuil d’allocation de réserve (100 %).
+- **Coût d’utilisation estimé du client par budget de dépenses** : clients triés par pourcentage de leur budget de dépenses d'utilisation actuelle excédant un seuil (100 %).
 
 
 ### <a name="azure-resource-usage-report"></a>Rapport d'utilisation des ressources Azure :
 
-- **L’utilisation des ressources Azure par jour pour la période sélectionnée**: Les unités de consommation par jour pour chaque ressource limitée dans chaque utilisation en fonction d’abonnement pour la période sélectionnée dans les 60 derniers jours.
+- **Utilisation des ressources Azure par jour pour la période sélectionnée** : unités de consommation quotidiennes de chaque ressource mesurée dans chaque abonnement basé sur l'utilisation pour la période sélectionnée dans les 60 derniers jours.
 
-- **Estimation du coût de l’utilisation de ressources Azure pour la période sélectionnée**: Coût estimé en fonction de la dernière carte de tarifs pour chaque ressource limitée dans chaque abonnement de l’utilisation en fonction de la période sélectionnée dans les 60 derniers jours. 
+- **Coût d'utilisation estimé des ressources Azure pour la période sélectionnée** : coût estimé basé sur le dernier barème pour chaque ressource mesurée dans chaque abonnement basé sur l'utilisation pour la période sélectionnée dans les 60 derniers jours. 
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Articles associés
 
-[Analytique de partenaires pour la présentation de l’application Power BI](power-bi-app-for-direct-partners.md)
+[Présentation de l’analyse de l’espace partenaires pour Power BI application](power-bi-app-for-direct-partners.md)
 
 
-[Installer et afficher un aperçu de l’application Partner Center Analytique pour Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
+[Installer et prévisualiser l’application Analyse de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners-install.md)

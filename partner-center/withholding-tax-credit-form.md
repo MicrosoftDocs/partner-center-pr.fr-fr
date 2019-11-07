@@ -2,18 +2,20 @@
 title: Assurez-vous que vous êtes crédité de l’impôt à la demande | Espace partenaires
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Vous aurez besoin à la fois du formulaire de crédit d’impôt à la retenue et du certificat de retenue à la source pour ouvrir une demande de service.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, formulaire de crédit fiscal
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892407"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653949"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande
 
@@ -49,7 +51,7 @@ Remplissez ce [formulaire](https://query.prod.cms.rt.microsoft.com/cms/api/am/bi
 
 2. Sélectionnez **CSP**.
 
-3. Sous **CSP – facturation et paiements**, sélectionnez le type de problème- **impôt à la source** , puis sélectionnez **Oui**. 
+3. Sous **CSP-facturation et paiements**, sélectionnez le type de problème- **impôt à la source** , puis sélectionnez **Oui**. 
 
 4. Lorsque vous soumettez la demande de service, veillez à associer le formulaire de crédit d’impôt et les copies numériques des certificats fiscaux.
 

@@ -2,18 +2,20 @@
 title: Adhésion au Microsoft Partner Network | Espace partenaires
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Découvrez les avantages d'un partenariat avec Microsoft. Le Microsoft Partner Network vous offre la gamme de produits la plus large du secteur, ainsi que des options de programme pour différencier votre entreprise, accéder au marché et vendre vos solutions.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partenaire, partenariat, MPN, Microsoft Partner Network, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion, argent, or, compétences
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978748"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661158"
 ---
 # <a name="partner-with-microsoft"></a>Devenir partenaire de Microsoft
 
@@ -52,13 +54,13 @@ Passez en revue les ressources ci-dessous pour en savoir plus sur Action Pack :
 - [Obtient le Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Vous gérez votre abonnement Action Pack dans l’espace partenaires. Si votre société n’a pas encore été déplacée vers l’espace partenaires à partir de l’espace partenaires, consultez [préparer votre migration vers l’espace partenaires](partner-center/prepare-pmc-pc-migration.md) .  
+    >Vous gérez votre abonnement Action Pack dans l’espace partenaires. Si votre société n’a pas encore été déplacée vers l’espace partenaires à partir de l’espace partenaires, consultez [préparer votre migration vers l’espace partenaires](prepare-pmc-pc-migration.md) .  
 
 - [Renouveler vos offres MPN](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>Compétences
 
-Montrez votre expertise reconnue en matière de solutions de qualité dans un domaine d’activité spécialisé. Les compétences de Microsoft sont conçues pour répondre aux besoins actuels de vos clients et être reconnaissables à des prospects potentiels. Rejoignez les niveaux d'élite des partenaires Microsoft et démarquez-vous de vos homologues.
+Montrez votre expertise reconnue en matière de solutions de qualité dans un domaine d’activité spécialisé. Les compétences de Microsoft sont conçues pour répondre aux besoins actuels de vos clients et être reconnaissables à des prospects potentiels. Rejoignez le niveau élite des partenaires Microsoft et démarquez-vous de vos homologues.
 
 Passez en revue les ressources ci-dessous pour en savoir plus sur les compétences :
 
@@ -72,7 +74,7 @@ Passez en revue les ressources ci-dessous pour en savoir plus sur les avantages 
 
 - [Principaux avantages](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
 - [Gérez vos avantages MPN sur l’espace partenaires](manage-your-partner-network-benefits.md)
-- [Exigences principales](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
+- [Conditions requises](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="see-also"></a>Articles associés
 - [Développez votre activité partenaire Microsoft](grow-your-business.md)

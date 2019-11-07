@@ -2,20 +2,22 @@
 title: Utilisez des promotions pour attirer de nouveaux clients | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft du programme Fournisseur de solutions Cloud, vous pouvez acheter des abonnements à un tarif promotionnel et en faire bénéficier vos clients.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134659"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652144"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Utilisez des promotions pour attirer de nouveaux clients  
 
-**S’applique à : Partenaires**
+**S’applique à : espace partenaires**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -27,7 +29,7 @@ Les tarifs promotionnels sont automatiquement appliqués au prix net lorsque vou
 
 Prenez le temps de passer en revue ces informations importantes relatives aux promotions :
 
--   Le prix promotionnel d’un abonnement s’applique uniquement à la durée de l’abonnement. Lorsqu’un abonnement acheté à prix promotionnel expire, le coût du renouvellement de l’abonnement repasse au prix figurant dans la liste de prix. Cela signifie que les abonnements dont le renouvellement est automatique seront renouvelés au prix en vigueur. Vous trouverez la liste de prix sur la page **Tarification et offres**. 
+-   Le prix de la promotion d’un abonnement s’applique uniquement pour la durée de l’abonnement. En cas d’expiration d’un abonnement acheté avec des prix promotionnels, le prix de l’abonnement de renouvellement revient au prix de la liste de prix. Cela signifie que les abonnements dont le renouvellement est automatique seront renouvelés au prix en vigueur. Vous trouverez la liste de prix sur la page **Tarification et offres**. 
 
 -   Si un abonnement est éligible pour plusieurs promotions, la promotion offrant le pourcentage le plus élevé est automatiquement appliquée.
 
@@ -35,14 +37,14 @@ Prenez le temps de passer en revue ces informations importantes relatives aux pr
 
 ## <a name="see-available-promotions"></a>Voir les promotions disponibles
 
-Vous pouvez consulter les offres promotionnelles dont vous pouvez éventuellement bénéficier sur votre page **Promotions**. Sélectionnez **Promotions** à partir de votre **partenaires** menu pour afficher la liste des dernières promotions, ainsi que la remise, type de promotion et les dates de début et de fin pour l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
+Vous pouvez voir quelles promotions vous êtes éligibles, le cas échéant, sur votre page de **promotions** . Sélectionnez **promotions** dans le menu de l' **espace partenaires** pour afficher la liste des promotions actuelles, ainsi que la remise, le type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n'est disponible, un message vous en informe. 
 
 > [!NOTE]  
 > Vous pouvez également afficher les promotions lorsque vous effectuez un achat. Lorsque vous sélectionnez un abonnement, le tarif promotionnel s’affiche sur la page **Révision**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Acheter des abonnements à prix promotionnel
 
-1. Sur votre **partenaires** menu, sélectionnez **clients** , puis sélectionnez le client qui achète l’abonnement. 
+1. Dans le menu de l' **espace partenaires** , sélectionnez **clients** , puis sélectionnez le client qui achète l’abonnement. 
 
 2. Sélectionnez **Ajouter un abonnement**.
 

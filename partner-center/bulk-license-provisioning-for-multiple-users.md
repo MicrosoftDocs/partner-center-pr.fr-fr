@@ -2,18 +2,20 @@
 title: Attribuer ou révoquer des licences pour plusieurs utilisateurs | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: affecter une licence, révoquer la licence, affecter à plusieurs utilisateurs,
+Keywords: attribuer une licence, révoquer une licence, attribuer à plusieurs utilisateurs,
 ms.localizationpriority: medium
-ms.openlocfilehash: e4917f4881b0dcca2e13f17dd116ff5faad0d0b9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d55a73e295210df7527b2b29fd0a70d4b976f930
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135339"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653723"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
@@ -23,18 +25,18 @@ ms.locfileid: "62135339"
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
-l’espace partenaires effectue le suivi et affiche tous les droits de licence appartenant au client.
+l’espace partenaires suit et affiche tous les droits de licence détenus par le client.
 
 ## <a name="in-this-section"></a>Dans cette section
 
 
 -   [Attribuer des licences à plusieurs utilisateurs](#assign-licenses-to-groups)
--   [Révocation d’attributions de licence des utilisateurs](#revoking-licenses)
+-   [Révocation des attributions de licences des utilisateurs](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**Attribuer des licences à plusieurs utilisateurs**
+**attribuer des licences à plusieurs utilisateurs**
 
-1.  À partir de la **partenaires** menu, sélectionnez **clients**, puis choisissez un client dans la liste.
+1.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 2.  Sélectionnez **Utilisateurs et licences**.
 3.  Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 
@@ -60,16 +62,16 @@ l’espace partenaires effectue le suivi et affiche tous les droits de licence a
 7.  Sélectionnez plusieurs produits pour les utilisateurs en activant la case à cocher de chaque produit.
     -   Sélectionnez **Afficher les plans de services** pour un produit, afin d’afficher et de sélectionner les plans de services dont les utilisateurs ont besoin.
 
-8.  Sélectionnez **Enregistrer**. L’espace partenaires s’ouvre un **mise à jour des licences** page de confirmation répertoriant les utilisateurs et leurs nouvelles licences.
+8.  Sélectionnez **Enregistrer**. L’espace partenaires ouvre une page de confirmation des **licences mises à jour** qui répertorie les utilisateurs et leurs nouvelles licences.
 
-**Remarque**  certains produits Microsoft ne peuvent pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
+**Notez**  certains produits Microsoft peuvent ne pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
 
  
 
 <a href="" id="revoking-licenses"></a>
-**Révocation d’attributions de licence des utilisateurs**
+de la **révocation des attributions de licences des utilisateurs**
 
-1.  À partir de la **partenaires** menu, sélectionnez **clients**, puis choisissez un client dans la liste.
+1.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 2.  Sélectionnez **Utilisateurs et licences**.
 3.  Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 

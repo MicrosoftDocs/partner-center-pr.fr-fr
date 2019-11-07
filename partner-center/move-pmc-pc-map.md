@@ -2,17 +2,19 @@
 title: Passage de PMC à l’Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 06/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comprendre les différences et les similitudes entre PMC et l’Espace partenaires
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921473"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653276"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passage de PMC à l’Espace partenaires
 
@@ -32,7 +34,7 @@ Ce tableau présente certaines des différences entre PMC et l’Espace partenai
 
 |**PMC**   |**Espace partenaires**|
 |----------------------|:-----------------------------|
-|Le siège et les sites étaient évalués séparément. L’évaluation des compétences était effectuée au niveau local|L’entreprise mondiale, votre PGA (compte global de partenaire) ainsi que les sites sont évalués dans leur ensemble. Les données de performances et de compétences sont agrégées au niveau du PGA. Plusieurs vues de profil sont incluses pour les programmes, par exemple le profil de partenaire et le profil métier pour les références et le marketing. Pour plus d’informations, consultez les détails relatifs à la [structure du compte dans l’Espace partenaires](https://docs.microsoft.com/partner-center/account-structure.md).|
+|Emplacements du siège social-chaque évalué séparément. L’évaluation des compétences était effectuée au niveau local|L’entreprise mondiale, votre PGA (compte global de partenaire) ainsi que les sites sont évalués dans leur ensemble. Les données de performances et de compétences sont agrégées au niveau du PGA. Plusieurs vues de profil sont incluses pour les programmes, par exemple le profil de partenaire et le profil métier pour les références et le marketing. Pour plus d’informations, consultez les détails relatifs à la [structure du compte dans l’Espace partenaires](https://docs.microsoft.com/partner-center/account-structure.md).|
 
 ## <a name="sign-in"></a>Se connecter
 
@@ -84,7 +86,7 @@ Ce tableau présente certaines des différences entre PMC et l’Espace partenai
 |Outil de validation et d’échange de bons| Outil de validation et d’échange de bons|
 |           |Programme Fournisseur de solutions Cloud|
 
-Les avantages Visual Studio alloués aux comptes MSA vont être honorés et conservés. Ils sont également conservés après l’opération de renouvellement dans l’Espace partenaires. Toutefois, si vous supprimez une allocation de compte MSA une fois la migration effectuée dans l’Espace partenaires, vous ne pourrez plus la réintégrer dans l’Espace partenaires.
+Les avantages Visual Studio alloués aux comptes MSA vont être honorés et conservés. Ils sont également conservés après l’opération de renouvellement dans l’Espace partenaires. Toutefois, si vous supprimez une allocation de MSA une fois migrée dans l’espace partenaires, elle ne peut pas être rajoutée dans l’espace partenaires.
 
 Dans l’Espace partenaires, un partenaire peut ajouter des comptes professionnels et des comptes d’utilisateur invité représentant des comptes MSA du locataire où le partenaire est l’administrateur MPN sur le locataire Azure AD. Si le partenaire est administrateur général de plusieurs locataires Azure AD, et si tous ces locataires sont associés au même compte de l’Espace partenaires, le partenaire est autorisé à ajouter des utilisateurs à l’ensemble des locataires dans le cadre des allocations d’avantages Visual Studio et des allocations basées sur l’utilisation d’Azure.
 

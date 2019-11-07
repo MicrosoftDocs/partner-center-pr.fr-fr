@@ -2,17 +2,19 @@
 title: Vendre aux secteurs spécialisés | Espace partenaires
 ms.topic: article
 ms.date: 05/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Microsoft fournit une tarification spéciale et réduite pour certains groupes de clients, y compris les clients de formation, les clients sans but lucratif et les administrations.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 8405018cd33b36efcbeb936672afcab78273f6e8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820446"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653078"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendre aux secteurs spécialisés
 
@@ -27,8 +29,8 @@ Microsoft consent des tarifs préférentiels à certains clients, parmi lesquels
 |**Tarification spéciale**   |**Compétences requises du revendeur**   |**Qualifications requises par le client**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Éducation   |Devenir un [Revendeur Éducation agréé](https://www.mepn.com).   | Doit être un [Utilisateur Éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Gouvernement   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur la licence au gouvernement, aucune compétence n'est requise.|   Aucun|
-|Activité à but non lucratif  |Aucun<br>Doit avoir un locataire Azure Active Directory à but non lucratif.<br>En savoir plus sur les [offres spéciales pour organisations à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |S’inscrire via le [Programme à but non lucratif Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
+|Gouvernement   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur la licence au gouvernement, aucune compétence n'est requise.|   Aucun(e)|
+|Activité à but non lucratif  |Aucun(e)<br>Doit avoir un locataire Azure Active Directory à but non lucratif.<br>En savoir plus sur les [offres spéciales pour organisations à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |S’inscrire via le [Programme à but non lucratif Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Vérifier vos qualifications revendeur
@@ -49,9 +51,9 @@ Les étapes suivantes s’appliquent uniquement aux fournisseurs indirects et au
 
 Une fois que vous et vos clients serez qualifiés pour un programme d'offre spéciale, suivez la procédure standard pour [Ajouter un abonnement](create-a-new-subscription.md). Dans la section **Catalogue** de la page **Nouvel abonnement**, sélectionnez un secteur spécialisé pour consulter les offres spéciales que vous pouvez vendre.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Articles associés
 
-[Vendre des abonnements Minecraft: Abonnements Education Edition aux clients Education](minecraft-subscriptions.md)
+[Vendez des abonnements Minecraft : Education Edition aux clients Education](minecraft-subscriptions.md)
 
 [Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](partner-center-for-microsoft-us-govt-cloud.md)
 

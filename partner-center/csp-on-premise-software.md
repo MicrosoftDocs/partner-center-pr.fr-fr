@@ -2,24 +2,26 @@
 title: Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Vendez des logiciels locaux par le biais du programme fournisseur de solutions Cloud.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: d02b1ff64aa529c4f36dc50e16187bb48fa88bab
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 07d242661e2769d54b2e36beb091d05c74cabd5d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134799"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653531"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud
 
-Le logiciel local dans le programme fournisseur de solutions Cloud permet une transition en douceur vers le Cloud en introduisant un logiciel local dans un programme axé sur le Cloud.  Cette nouvelle offre vous aide à mettre le partenaire à valeur ajoutée à chaque scénario d’achat, car elles fournissent une plateforme unique pour transact tous les produits Microsoft. Tant que CSP, vous pouvez désormais vendre des logiciels sur site via des partenaires en plus de Open, EA et autres programmes en cours d’utilisation. Le logiciel local dans le programme fournisseur de solutions Cloud est un nouveau programme commercial. Il n’est pas destiné à remplacer les autres programmes Microsoft de licence en volume. 
+Le logiciel local dans le programme fournisseur de solutions Cloud permet une transition en douceur vers le Cloud en introduisant un logiciel local dans un programme axé sur le Cloud.  Cette nouvelle offre permet de faire passer le partenaire à valeur ajoutée à chaque scénario d’achat, car il fournit une plate-forme unique pour tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation. Le logiciel sur site dans CSP est un nouveau programme de vente et n’est pas destiné à remplacer les autres programmes de licence en volume de Microsoft. 
  
-Tout en apportant aux clients la meilleure valeur ajoutée générale avec des options de gestion des licences logicielles locales, nous avons également fait en sorte que le modèle commercial soit le plus avantageux possible pour les partenaires. La gestion simple et directe des licences des logiciels locaux dans le programme fournisseur de solutions Cloud implique une prévisibilité des coûts et facilite votre processus de vente. Ce nouveau modèle commercial facilite la fourniture, la gestion et la tarification des logiciels locaux pour vos clients, ce qui vous permet de vous concentrer sur l'obtention de contrats avec une gamme étendue de solutions de gestion informatique à valeur ajoutée. 
+Tout en garantissant la meilleure valeur globale du client avec les options de licence logicielle sur site, nous avons également rendu le modèle d’entreprise aussi convivial que possible. La gestion simple et directe des licences des logiciels locaux dans le programme fournisseur de solutions Cloud implique une prévisibilité des coûts et facilite votre processus de vente. Ce nouveau modèle commercial facilite la fourniture, la gestion et la tarification des logiciels locaux pour vos clients, ce qui vous permet de vous concentrer sur l'obtention de contrats avec une gamme étendue de solutions de gestion informatique à valeur ajoutée. 
 
 >[!NOTE]
 >Le logiciel local est actuellement disponible à un nombre de partenaires limité. Pour savoir si vous êtes éligible, consultez votre contact Microsoft. 
@@ -58,7 +60,7 @@ Utilisez la procédure suivante pour annuler un achat. Une fois que l’annulati
     -   Raison du remboursement
     -   Montant demandé
 
-2.  Sur la page des détails du client, sélectionnez **Logiciels**. Vous verrez une liste de tous les logiciels que vous avez achetés. 
+2.  Sur la page de détails du client, sélectionnez **logiciel**. Vous verrez une liste de tous les logiciels que vous avez achetés. 
 
 3.  Recherchez le logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. La page **Signaler un problème avec l'Espace partenaires** s'ouvre. 
 
@@ -76,4 +78,4 @@ Utilisez la procédure suivante pour annuler un achat. Une fois que l’annulati
 
 8.  Si vous avez besoin d'attacher un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative. 
 
-9.  Une fois terminé, sélectionnez **Soumettre**.
+9.  Lorsque vous avez terminé, sélectionnez **Envoyer**.

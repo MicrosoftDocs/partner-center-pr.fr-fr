@@ -2,18 +2,20 @@
 title: Acheter des réservations Microsoft Azure pour vos clients | Espace partenaires
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Vous pouvez acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, réservations, gérer, facturation, achat
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb75358e9b193a1568926eec220aef4c9fcc6f0f
-ms.sourcegitcommit: 582415b3c61557e80dfd17e09b5122210bfd0a9b
+ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "72530968"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653829"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires 
 
@@ -37,7 +39,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
  
 -   Les agents commerciaux et du bureau d'assistance ont besoin d'un accès explicite à l'abonnement Azure afin de pouvoir l'acheter ou le gérer dans le portail Azure et soumettre des demandes de support, y compris en vue d'échanges et de remboursements, au nom du client.  
 
--   Si vous êtes un fournisseur indirect et que vous achetez des réservations Azure via le portail Azure, le « Partner On Record » (revendeur indirect) est hérité de l’abonnement de fournisseur de solutions Cloud Azure que vous sélectionnez. 
+-   Si vous êtes un fournisseur indirect et que vous achetez des réservations Azure via la Portail Azure, le partenaire sur l’enregistrement (revendeur indirect) est hérité de l’abonnement Azure CSP que vous sélectionnez. 
 
 -   Le partenaire d’enregistrement pour les réservations Azure ne peut pas être modifié après l’achat. Vous pouvez annuler la réservation existante et en acheter une nouvelle avec le nouveau « Partner On Record ». 
 
@@ -82,7 +84,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | Érythrée     | Myanmar     | Tuvalu   |
 > | Malouines (îles)     | Nauru     | Îles mineures éloignées des États-Unis   |
 > | Guyane française     | Nouvelle-Calédonie     | Vanuatu   |
-> | Polynésie française     | Niger     | Vatican (État de la Cité du)   |
+> | Polynésie française     | Niger     | Cité du Vatican   |
 > | Terres australes françaises     | Niue     | Wallis-et-Futuna   |
 > | Gabon     | Norfolk (île)     | Yémen   |
 > | Gambie     | Mariannes du Nord (îles)     |    |
@@ -94,15 +96,15 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
 1. Sélectionnez **clients** dans le menu de l’espace partenaires.  
 
-2. Sur votre page **Clients**, recherchez le client qui souhaite acheter des réservations Azure, puis sélectionnez la flèche allant vers le bas pour développer sa rangée.  
+2. Sur la page de vos **clients** , recherchez le client qui souhaite acheter des réservations Azure, puis sélectionnez la flèche vers le bas pour développer la ligne du client.  
 
 3. Sélectionnez **Ajouter des produits**, puis **Azure**. 
 
-    a. Choisissez le segment de marché du client dans la liste **segment** .
+    a. Choisissez le segment de marché du client dans la liste **Segment**.
 
     b. Choisissez **réservations** dans la liste **type** de produit.
 
-    c. Choisissez le type de réservation que le client souhaite dans la liste **type de réservations** .
+    c. Choisissez le type de réservation souhaité par le client dans la liste **Type de réservation**.
 
 4. Les réservations Azure doivent être associées à un abonnement Azure actif. Choisissez l’abonnement du client auquel vous souhaitez ajouter des réservations Azure à partir de la liste des **abonnements du client** . 
 
@@ -113,13 +115,13 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
 6. Une fois que vous avez trouvé la ou les réservations que vous souhaitez acheter, entrez le nombre d’instances réservées dont le client aura besoin dans **quantité** , puis sélectionnez **Ajouter au panier**.  
 
-7. Répétez les étapes 5 et 6 jusqu'à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Révision** pour vérifier que la commande est correcte.  
+7. Répétez les étapes 5 et 6 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Vérifier** pour vérifier que la commande est correcte.  
 
 8. Dans la page **Passer en revue vos commandes**, vous pouvez : 
 
     - Vérifier ou modifier la quantité d’instances réservées.
 
-    - Sélectionnez l’étendue de la réservation. L'étendue de la réservation peut couvrir un ou plusieurs abonnements (portée partagée). Si vous étendez la réservation à un seul abonnement, la remise de réservation est appliquée à cet abonnement uniquement. Si vous sélectionnez partagé, la remise de réservation est appliquée aux abonnements facturés au client. 
+    - Sélectionnez l’étendue de la réservation. L’étendue de la réservation peut couvrir un ou plusieurs abonnements (étendue partagée). Si vous étendez la réservation à un seul abonnement, la remise de réservation est appliquée à cet abonnement uniquement. Si vous sélectionnez partagé, la remise de réservation est appliquée à tous les abonnements dans le contexte de facturation du client. 
 
       >[!NOTE] 
       >Si vous choisissez de limiter l’étendue de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le Portail Azure. Suivez les instructions [de cette rubrique](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande. 
@@ -134,10 +136,10 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
 9. Sélectionnez **Acheter** pour acheter la commande. Les détails de votre commande, y compris le numéro de commande, s’affichent dans la page **confirmer** . Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**. 
 
-10. Pour gérer la réservation du client dans la Portail Azure, recherchez le client sur la page de vos **clients** , puis sélectionnez la flèche vers le bas pour développer la ligne du client. Sélectionnez **Portail de gestion Microsoft Azure** pour ouvrir le dossier du client dans le portail Azure.
+10. Pour gérer la réservation du client dans la Portail Azure, recherchez le client sur la page de vos **clients** , puis sélectionnez la flèche vers le bas pour développer la ligne du client. Sélectionnez **portail de gestion Microsoft Azure** pour ouvrir l’enregistrement du client dans le portail Azure.
 
 ## <a name="azure-reservations-resources"></a>Ressources des réservations Azure
-|**Pour plus d’informations sur**   |**Lire**    |
+|**Pour plus d’informations sur**   |**Lisez cela**    |
 |:-----------------------------|:-----------------|
 |Réservations Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre Microsoft Azure des instances réservées](azure-reservations.md) |
 |Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)

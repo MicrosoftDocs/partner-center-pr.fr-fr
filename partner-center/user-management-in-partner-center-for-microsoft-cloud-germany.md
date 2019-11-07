@@ -2,25 +2,27 @@
 title: Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany | Espace partenaires de Microsoft Cloud Germany
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Pour se conformer aux exigences nationales, régionales et sectorielles qui régissent la collecte et l’utilisation des données personnelles, les fonctionnalités de gestion des utilisateurs ne sont pas disponibles dans l'Espace partenaires de Microsoft Cloud Germany. Ajoutez et gérez plutôt les utilisateurs dans le portail Azure de Microsoft Cloud Germany.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820533"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651141"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Allemagne
 
 **S’applique à**
 
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de Microsoft Cloud Germany
 
 > [!IMPORTANT]
-> Afin de s’adapter à l’évolution des besoins des clients, notre stratégie cloud pour l’Allemagne se concentrera sur la mise à disposition de nouvelles régions cloud en Allemagne en adéquation avec notre offre de cloud global. Dans cette optique, nous n’accepterons plus de nouveaux clients ou nous ne déploierons plus de nouveaux services à partir de Microsoft Cloud actuellement disponible en Allemagne. Les clients existants peuvent continuer à utiliser les services de cloud disponibles aujourd’hui, que nous continuerons de mettre à jour avec les mises à jour de sécurité nécessaires.
+> En fonction de l’évolution des besoins des clients, notre stratégie de Cloud pour l’Allemagne se concentrera sur la livraison des nouvelles régions Cloud en Allemagne qui sont cohérentes avec notre offre Cloud mondiale. Dans cette optique, nous n’accepterons plus de nouveaux clients ou nous ne déploierons plus de nouveaux services à partir de Microsoft Cloud actuellement disponible en Allemagne. Les clients existants peuvent continuer à utiliser les services Cloud actuels actuellement disponibles, que nous allons conserver avec les mises à jour de sécurité nécessaires.
 >  
 > Dorénavant, les nouveaux clients ont la possibilité d’utiliser les régions européennes actuellement disponibles ou les nouvelles régions d’Allemagne lorsqu’elles seront disponibles. Pour plus d’informations, consultez [Microsoft offrira des services de cloud à partir de nouveaux centres de données en Allemagne](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
@@ -30,7 +32,7 @@ Fonction ou fonctionnalité | Effectuer des tâches dans
 :--- | :---
 Gestion des utilisateurs partenaires | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
 Gestion des utilisateurs du client | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
-Réinitialiser le mot de passe de l’utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
+Réinitialiser le mot de passe utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
 Gestion des licences | Centre d’administration Office 365 ou portail de gestion des licences Azure Active Directory de Microsoft Cloud Germany
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Comment gérer les utilisateurs dans le portail Azure de Microsoft Cloud Germany 

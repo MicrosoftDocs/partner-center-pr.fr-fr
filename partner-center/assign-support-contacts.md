@@ -2,6 +2,8 @@
 title: Assigner des contacts de support | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Lorsque vous configurez des abonnements aux services Microsoft pour vos clients, vous pouvez souhaiter assigner le support technique de ces produits à un revendeur désigné, plutôt que d'assurer vous-même ce service.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
@@ -9,12 +11,12 @@ ms.author: labrenne
 keywords: agent d’aide, support, affecter un contact de support, contact chargé du support
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7e5478e5598fe5f1acc11fe0dde49e9ffd019394
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 9d5318bd9cc33db50d2cc78fc4e31d10e2dbabd2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134830"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653915"
 ---
 # <a name="assign-support-contacts"></a>Assigner des contacts de support
 
@@ -33,7 +35,7 @@ Cette fonction peut être utilisée pour des scénarios de type [multipartenaire
 
 1.  Commencez par une [demande de relation](request-a-relationship-with-a-customer.md) avec votre revendeur produit désigné. Négociez un contrat de support avec lui pour la gestion du support technique.
 
-2.  À partir de la **partenaires** menu, sélectionnez **clients**, puis sélectionnez un client, puis sélectionnez un abonnement, par exemple, Office 365 Business Premium.
+2.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis sélectionnez un client et sélectionnez un abonnement, par exemple, Office 365 Business Premium.
 
 3.  Dans **Contact de support désigné**, sélectionnez le revendeur produit désigné, puis cliquez sur **Soumettre**. 
 

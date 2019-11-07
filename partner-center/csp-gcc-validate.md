@@ -2,16 +2,18 @@
 title: Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Procédures de validation des partenaires et des clients pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134849"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653548"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud
 
@@ -27,7 +29,7 @@ Si vous souhaitez que votre organisation ou l'organisation de vos clients soit a
 
 Vous pouvez être agréé si vous êtes un partenaire desservant une entité gouvernementale fédérale, nationale, locale ou communautaire des États-Unis. Pour que l'éligibilité de votre organisation soit validée, remplissez le court formulaire situé [ici](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
-Votre client peut être agréé s’il s'agit d'une organisation qui gère des données contrôlées par le gouvernement ou d'une entité gouvernementale fédérale, nationale, locale ou communautaire des États-Unis. Pour que l'éligibilité des organisations de vos clients soit validée, remplissez le court formulaire situé [ici](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Votre client peut être agréé s’il s'agit d'une organisation qui gère des données contrôlées par le gouvernement ou d'une entité gouvernementale fédérale, nationale, locale ou communautaire des États-Unis. Pour valider les conditions d’éligibilité de l’organisation de vos clients, veuillez remplir le formulaire succinct situé [ici](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
 -   Votre organisation doit être [inscrite](https://partnercenter.microsoft.com/partner/cloud-solution-provider) au programme Fournisseur de solutions Cloud, car c'est une condition préalable à l’approbation pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud.
 -   Un guide de procédure de validation pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud se trouve [ici](https://go.microsoft.com/fwlink/?linkid=2007323).
@@ -35,12 +37,12 @@ Votre client peut être agréé s’il s'agit d'une organisation qui gère des d
 
 L'éligibilité des partenaires et des clients pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud sera validée en fonction du respect des critères spécifiques présentés ci-dessous.
 
-**Critères de partenaire**
+**Critères du partenaire**
 1.  Fournit des services ou des solutions à des clients des organisations gouvernementales des États-Unis par le biais de contrats directs ou indirects
 2.  Fournit les organisations gouvernementales des États-Unis via la GSA ou d'autres modes de gestion de contrat
 
 **Critères du client**
-1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Exemple :
+1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Exemple :
  
     -  Agence fédérale (par exemple, bureau, agence, service ou autres entités du gouvernement américain)
     -   Entité nationale/locale 
@@ -48,7 +50,7 @@ L'éligibilité des partenaires et des clients pour Office 365 Secteur Public G
     -   Entités du gouvernement régionales ou interétatiques (mais aucune entité internationale)
     -   Federally Funded Research and Development Centers (FERDC)
 
-2.  Entité privée commerciale avec des données qui sont soumises aux réglementations. Les types de données acceptées par le gouvernement sont les suivantes : 
+2.  Entité privée commerciale avec des données soumises à des réglementations. Les types de données acceptées par le gouvernement sont les suivantes : 
     -   International Traffic in Arms (ITAR)
     -   Controlled Unclassified Information (CUI)
     -   Department of Defense (DoD) Unclassified Controlled Nuclear Information (UCNI)

@@ -2,19 +2,21 @@
 title: FAQ sur l’outil de validation de pièce justificative | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Valider et réserver des bons dans l’espace partenaires
 author: LauraBrenner
 ms.author: labrenne
 keywords: bons de formation, Software Assurance, formation, valider les chèques-cadeaux, réserver un cadeau
 ms.localizationpriority: medium
-ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820502"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651055"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : utilisation de l’outil de validation et d’échange de bons 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Forum aux questions : utilisation de l’outil de validation et d’échange de bons 
 
 **S’applique à**
 
@@ -36,7 +38,7 @@ L’outil de validation et d’échange de pièces justificatives a été dépla
 - Contactez l' [équipe de support PMC](mailto:proghelp@microsoft.com). 
 
 
-**Mon entreprise a migré de PMC à l’espace partenaires. Dois-je effectuer tout ce qui est spécifique pour travailler dans VVR?** 
+**Mon entreprise a migré de PMC à l’espace partenaires. Dois-je effectuer tout ce qui est spécifique pour travailler dans VVR ?** 
 
 - Vous pouvez utiliser VVR dans l’espace partenaires.  Pour utiliser VVR, l’administrateur du partenaire MPN peut se connecter à l’espace partenaires à l’aide de son adresse e-mail de compte professionnel. Si vous souhaitez ajouter de nouveaux utilisateurs, l’administrateur général peut le faire. Si vous avez accès à l’espace partenaires, accédez **à gestion des accès**, sélectionnez **utilisateurs**, puis filtrez sur l' **administrateur MPN** de l' **administrateur général**. Vous obtiendrez ainsi une liste des administrateurs et des administrateurs généraux de votre entreprise.  
 
@@ -48,7 +50,7 @@ L’outil de validation et d’échange de pièces justificatives a été dépla
 
 - L’espace partenaires vous oblige à vous connecter avec un compte professionnel (AAD).  La puce utilise actuellement un compte personnel pour la connexion (MSA ou Live ID).  Lors de la navigation à partir de VVR dans l’espace partenaires vers la puce, vous devez vous connecter à la puce à l’aide de votre MSA ou de Live ID enregistré avec la puce.
 
-**Comment mon entreprise peut-elle accéder à l’outil VVR?**
+**Comment mon entreprise peut-elle accéder à l’outil VVR ?**
 
 - Pour accéder à l’outil VVR, votre entreprise doit s’inscrire dans le programme SATV ou le programme SA DPS.
 

@@ -2,17 +2,19 @@
 title: Confirmer l'acceptation du contrat Microsoft Cloud par le client | Espace partenaires
 ms.topic: article
 ms.date: 04/16/2019
-Description: En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft Cloud par le client pour pouvoir lui commander des produits et des services Microsoft. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant des informations sur la personne qui a accepté le contrat.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: En tant que partenaire, vous devez obtenir l’acceptation par le client de l’accord de Microsoft Cloud avant de pouvoir commander des produits et services Microsoft pour ce client. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant des informations sur la personne qui a accepté le contrat.
 author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Microsoft Cloud contrat, modèles de contrat client
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: 411dab563d59499a66decde0edda3897796a5128
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045650"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653659"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmer l'acceptation du contrat Microsoft Cloud par le client
 
@@ -28,7 +30,7 @@ ms.locfileid: "73045650"
 >[!NOTE]
 >Le présent contrat est valable jusqu’au 31 janvier 2020. Après cette date, tous les clients, nouveaux et existants, doivent signer le nouveau contrat de client Microsoft. Pour en savoir plus, consultez [confirmer l’acceptation du client du contrat de client Microsoft](confirm-customer-agreement.md).
 
-En tant que partenaire, vous devez obtenir l’acceptation du contrat Microsoft Cloud par le client pour pouvoir lui commander des produits et des services Microsoft. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant les informations suivantes sur la personne qui a accepté le contrat : 
+En tant que partenaire, vous devez obtenir l’acceptation par le client de l’accord de Microsoft Cloud avant de pouvoir commander des produits et services Microsoft pour ce client. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant les informations suivantes sur la personne qui a accepté le contrat : 
 
 -   Prénom
 
@@ -46,9 +48,9 @@ Les partenaires de facturation directe et les fournisseurs indirects doivent con
 
 Si la confirmation n’est pas fournie pour un client donné :
 
--   Vous ne pourrez pas créer de commandes pour ce client.
+-   Vous ne pouvez pas créer de nouvelles commandes pour ce client.
 
--   Vous ne pourrez pas modifier le nombre de sièges des abonnements existants basés sur les utilisateurs pour ce client.
+-   Vous ne pouvez pas modifier le nombre de sièges des abonnements basés sur les sièges existants pour ce client.
 
 La confirmation de l’acceptation du client peut être effectuée via l’espace partenaires ou l’API de l’espace partenaires. Pour effectuer cette opération via l’API espace partenaires, consultez les rubriques suivantes : 
 
@@ -78,7 +80,7 @@ Utilisez la procédure suivante pour confirmer l’acceptation du client lors de
 
 ![Ajouter une date d’acceptation](images/mca/MCA3.png)
 
-Par défaut, les informations d’utilisateur du contact principal sont affichées. Si elles ne sont pas correctes, sélectionnez **Mettre à jour**, puis saisissez les **Prénom**, **Nom**, **Adresse e-mail** et **Numéro de téléphone* (facultatif) de la personne qui a accepté le contrat.
+Par défaut, les informations d’utilisateur du contact principal sont affichées. Si ce n’est pas correct, sélectionnez **mettre à jour** , puis entrez le **prénom**, le **nom**, l' **adresse e-mail**et le*numéro de téléphone* (facultatif) de la personne qui a accepté le contrat.
 
 6. Sélectionnez **Suivant** pour effectuer le reste des étapes afin de créer le locataire du client.
 
@@ -98,7 +100,7 @@ Vous devez être Agent administrateur ou Commercial pour effectuer cette opérat
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confirmer l’acceptation du client lors de la création d'une nouvelle commande pour un client existant
 
-Si vous essayez de créer une nouvelle commande pour un client existant que vous n’avez pas encore confirmée, vous recevrez une invite pour terminer la confirmation. Utilisez la procédure suivante pour ce faire.
+Si vous essayez de créer une commande pour un client existant que vous n’avez pas confirmé précédemment, vous recevrez une invite pour terminer la confirmation. Utilisez la procédure suivante pour ce faire.
 
 1. Saisissez les **Prénom**, **Nom**, **Adresse e-mail** et **Numéro de téléphone** (facultatif) de l’utilisateur qui a accepté le contrat.
 2. Sous **Date d'acceptation du contrat**, entrez la date appropriée. Vous ne pouvez pas la définir sur une date ultérieure.
@@ -110,4 +112,4 @@ Vous pouvez récupérer la confirmation de l’acceptation d'un client existant 
 
 1. Sélectionnez **Clients**, puis recherchez et sélectionnez le client que vous souhaitez afficher.
 2. Sélectionnez **Informations sur le compte**.
-3. Sous **Contrat Microsoft Cloud**, vous verrez si la confirmation a été fournie ou non pour ce client.
+3. Dans le cadre de l' **accord de Cloud Microsoft**, vous verrez si une confirmation a été fournie pour ce client.

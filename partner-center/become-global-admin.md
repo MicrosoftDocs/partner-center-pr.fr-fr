@@ -1,17 +1,19 @@
 ---
-title: Devenir un administrateur général pour votre entreprise | Partenaires
+title: Devenez un administrateur général de votre entreprise | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
-description: Pour faire un grand nombre des tâches dans l’espace partenaires, vous devez d’abord vérifier la propriété de votre domaine. De nombreuses tâches dans l’espace partenaires nécessitent un administrateur général. Si votre entreprise ne dispose pas encore un, vous pouvez devenir un.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Pour effectuer une grande partie des tâches de l’espace partenaires, vous devez d’abord vérifier la propriété de votre domaine. De nombreuses tâches dans l’espace partenaires nécessitent un administrateur général. Si votre entreprise n’en a pas encore, vous pouvez en devenir un.
 author: LauraBrenner
 ms.author: labrenne
-keywords: domaine, la vérification du domaine, vérifiez le domaine, les administrateur général, les rôles d’utilisateur, les autorisations
-ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+keywords: domaine, vérification de domaine, vérifier le domaine, administrateur général, rôles d’utilisateur, autorisations
+ms.openlocfilehash: 4605061d3251883e160e7daa4a1fc957ab998c55
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135409"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653768"
 ---
 # <a name="verify-your-domain-ownership"></a>Vérifier la propriété de votre domaine
 
@@ -19,34 +21,34 @@ ms.locfileid: "62135409"
 
 - Espace partenaires
 
-Lorsque votre entreprise premiers signes au Partner Center, il est probable que vos employés ne seront pas ont reçu les rôles nécessaires pour commencer à travailler dans l’espace partenaires. Pour travailler dans l’espace partenaires tout le monde doit avoir un rôle, qui inclut les autorisations assignées aux.  
+Lorsque votre entreprise se connecte pour la première fois à l’espace partenaires, il est probable que vos employés ne disposent pas des rôles nécessaires pour commencer à travailler dans l’espace partenaires. Pour travailler dans l’espace partenaires, tout le monde doit avoir un rôle, qui comprend des autorisations, qui lui sont attribuées.  
 
-Vous avez besoin pour vérifier la propriété de votre domaine afin que vous pouvez acheter les avantages de votre entreprise n’est éligible pour, ajouter de nouveaux utilisateurs et attribuer les rôles ou effectuer d’autres tâches dans l’espace partenaires. 
+Vous devez vérifier la propriété de votre domaine pour pouvoir acheter les avantages auxquels votre entreprise est éligible, ajouter de nouveaux utilisateurs et leur attribuer des rôles, ou effectuer d’autres tâches dans l’espace partenaires. 
 
 >[!Note]
->Par exemple, un administrateur général dans votre entreprise est celui qui gère les services de cloud. Si votre entreprise ne possède pas un administrateur global, mais vous ne savez pas qui il s’agit, à partir de la **icône des paramètres** dans la partie supérieure droite de l’espace partenaires, sélectionnez **gestion des utilisateurs**. Rechercher des administrateurs généraux pour contacter en accédant à la gestion des utilisateurs et de filtrage sur l’administrateur général.
+>Par exemple, un administrateur général de votre entreprise est celui qui gère les services Cloud. Si votre entreprise dispose d’un administrateur global, mais que vous n’êtes pas sûr de son identité, sélectionnez **gestion des utilisateurs**à partir de l' **icône des paramètres** en haut à droite de l’espace partenaires. Recherchez les administrateurs généraux à contacter en accédant à gestion des utilisateurs et en filtrant sur l’administrateur général.
 
 ## <a name="verify-your-domain-ownership"></a>Vérifier la propriété de votre domaine
 
-1. Sur l’espace partenaires, à partir de la **appartenance offre** page, sélectionnez **devenir un administrateur global**. 
+1. Dans l’espace partenaires, à partir de la page **offres d’abonnement** , sélectionnez **devenir administrateur général**. 
 
-2. Sur le **vérifier la propriété de domaine** le TXT copie de la page valeurs de la table. Notez que votre domaine est déjà sélectionné pour vous.
+2. Dans la page **Vérifier la propriété du domaine** , copiez les valeurs txt à partir de la table. Notez que votre domaine est déjà sélectionné pour vous.
 
 3. Connectez-vous à votre domaine. 
 
-4. Suivez les étapes de votre domaine fournit pour coller les valeurs TXT dans le formulaire DNS.  Cela nous permet de vérifier que vous possédez le domaine que vous voulez travailler à partir de.
+4. Suivez les étapes fournies par votre domaine pour coller les valeurs TXT dans le formulaire DNS.  Cela nous permet de vérifier que vous êtes propriétaire du domaine à partir duquel vous essayez d’utiliser.
 
-5. Revenez au Partner Center et sélectionnez **OK, j’ai ajouté l’enregistrement**
+5. Revenez à l’espace partenaires et sélectionnez **OK, j’ai ajouté l’enregistrement**
 
-6. Une fois que la vérification est terminée, vous devez vous déconnecter. Connectez-vous à nouveau pour actualiser votre état. 
+6. Une fois la vérification terminée, vous devez vous déconnecter. Reconnectez-vous pour actualiser votre état. 
 
-Vérification de la propriété de votre domaine vous permet également d’un administrateur général. Certaines des autorisations qui sont fournis avec le rôle Administrateur général sont :
+La vérification de la propriété de votre domaine vous permet également d’obtenir un administrateur général. Voici quelques-unes des autorisations fournies avec le rôle d’administrateur général :
 
 - Peut accéder à tous les comptes/services Microsoft avec des privilèges complets 
 - Créer des tickets de support pour l’espace partenaires
 - Afficher les contrats, les listes de prix et les offres
 - Facturation
 - Afficher, créer et gérer les utilisateurs partenaires
-- Acheter et gérer les services de cloud
+- Acheter et gérer des services Cloud
 
-Pour plus d’informations sur les rôles et autorisations, consultez [créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md). 
+Pour plus d’informations sur les rôles et les autorisations, consultez [créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md). 

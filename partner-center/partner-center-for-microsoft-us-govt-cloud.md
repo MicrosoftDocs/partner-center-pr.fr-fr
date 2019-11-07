@@ -2,16 +2,18 @@
 title: Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis | Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: L'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis est le portail d’entreprise des partenaires Microsoft qui souhaitent proposer des solutions Microsoft Cloud aux clients travaillant avec des agences gouvernementales des États-Unis.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 971591037f37242550029b0eb908a076559359a9
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820607"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652685"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Espace partenaires de Microsoft Cloud for US Government
 
@@ -19,9 +21,9 @@ ms.locfileid: "68820607"
 
 -  Espace partenaires de Microsoft Cloud for US Government
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud pour le gouvernement des États-Unis: Répondre aux exigences de protection des données 
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud pour le gouvernement des États-Unis : répondre aux exigences de protection de données 
 
-Entièrement conçu pour le gouvernement des États-Unis, Microsoft Cloud pour le gouvernement des États-Unis permet aux entités fédérales, étatiques, locales et tribales des États-Unis de faire leur sélection à partir d'une gamme de services de cloud computing Microsoft. Pour mieux répondre aux besoins spécifiques des clients du secteur public, Microsoft a lourdement investi dans les centres de données et s'efforce de répondre aux exigences de conformité en matière de protection des données des politiques, des mandats et des normes étatiques et fédérales des États-Unis. L'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis permet aux partenaires de revendre des services de cloud computing Microsoft à ces clients.
+Entièrement conçu pour le gouvernement des États-Unis, Microsoft Cloud pour le gouvernement des États-Unis permet aux entités fédérales, étatiques, locales et tribales des États-Unis de faire leur sélection à partir d'une gamme de services de cloud computing Microsoft. Pour répondre au mieux aux besoins spécifiques des clients du secteur public, Microsoft a fait des investissements significatifs dans les centres de données et est dédié à la mise en conformité de la protection des données avec les politiques, obligations et exigences fédérales et d’État. L'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis permet aux partenaires de revendre des services de cloud computing Microsoft à ces clients.
 
 Certaines fonctionnalités disponibles dans l'Espace partenaires peuvent ne pas être encore disponibles dans l'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis.
 
@@ -29,7 +31,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
 
 Pour plus d’informations, consultez la [Fiche technique de Microsoft Cloud pour le gouvernement des États-Unis](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF).
 
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis: Vente de solutions Cloud aux entités gouvernementales américaines
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis : vendre des solutions Cloud aux entités gouvernementales des États-Unis.
 
 Une fois que vous serez inscrit au programme de fournisseur de solutions Cloud (CSP) pour Microsoft Cloud pour le gouvernement des États-Unis, vous utiliserez l'Espace partenaires pour vendre des solutions et des services dans le cloud spécifiques à vos clients appartenant à des agences gouvernementales des États-Unis. 
 

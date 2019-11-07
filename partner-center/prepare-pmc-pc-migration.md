@@ -2,20 +2,22 @@
 title: Préparez-vous à passer du centre d’appartenance au partenaire à l’espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 06/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Points à prendre en compte avant de déplacer votre activité de PMC vers l’espace partenaires
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
-ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "71060501"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652190"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparez-vous à passer du centre d’appartenance partenaire (PMC) à l’espace partenaires
 
-Nous transférons la gestion des appartenances du Partner Membership Center (PMC) vers l’espace partenaires, la seule destination pour gérer votre relation commerciale avec Microsoft. Nous souhaitons que votre migration vers le centre partenaires soit aussi efficace et facile que possible. Nous avons identifié certains domaines dans lesquels l’espace partenaires diffère du PMC, et nous pensons que vous souhaiterez les comprendre et les préparer avant d’effectuer le déplacement.
+Nous allons déplacer la gestion des appartenances du Partner Membership Center (PMC) vers l’espace partenaires. il s’agit de la seule destination pour gérer votre relation commerciale avec Microsoft. Nous souhaitons que votre migration vers le centre partenaires soit aussi efficace et facile que possible. Nous avons identifié certains domaines dans lesquels l’espace partenaires diffère du PMC, et nous pensons que vous souhaiterez les comprendre et les préparer avant d’effectuer le déplacement.
 
 ## <a name="account-and-identity-setup"></a>Configuration du compte et de l’identité
 
@@ -127,7 +129,7 @@ Oui, compentencies ne sera pas affecté par le déplacement vers l’espace part
  **Nos comptes Microsoft avec les avantages de Visual Studio sont-ils honorés ?**
 
 
- Oui. Les avantages Visual Studio alloués aux comptes MSA vont être honorés et conservés. Ils sont également conservés après l’opération de renouvellement dans l’Espace partenaires. Toutefois, si vous supprimez une allocation de compte MSA une fois la migration effectuée dans l’Espace partenaires, vous ne pourrez plus la réintégrer dans l’Espace partenaires.
+ Oui. Les avantages Visual Studio alloués aux comptes MSA vont être honorés et conservés. Ils sont également conservés après l’opération de renouvellement dans l’Espace partenaires. Toutefois, si vous supprimez une allocation de MSA une fois migrée dans l’espace partenaires, elle ne peut pas être rajoutée dans l’espace partenaires.
 
 Dans l’Espace partenaires, un partenaire peut ajouter des comptes professionnels et des comptes d’utilisateur invité représentant des comptes MSA du locataire où le partenaire est l’administrateur MPN sur le locataire Azure AD. Si le partenaire est administrateur général de plusieurs locataires Azure AD, et si tous ces locataires sont associés au même compte de l’Espace partenaires, le partenaire est autorisé à ajouter des utilisateurs à l’ensemble des locataires dans le cadre des allocations d’avantages Visual Studio et des allocations basées sur l’utilisation d’Azure.
 

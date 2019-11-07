@@ -2,16 +2,18 @@
 title: Collaborer avec d’autres partenaires | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Travaillez avec d’autres partenaires de fournisseur de solutions Cloud pour répondre aux besoins de vos clients communs.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820547"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651157"
 ---
 # <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
@@ -19,7 +21,7 @@ ms.locfileid: "68820547"
 
 -  Espace partenaires
 
-Le programme de fournisseur de solutions Cloud (CSP) de Microsoft offre des possibilités pour les partenaires de travailler ainsi ensemble.
+Le programme fournisseur de solutions Cloud (CSP) de Microsoft offre aux partenaires la possibilité de travailler ensemble de ces manières.
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>Modèle de revendeur indirect-fournisseur indirect
 
@@ -41,15 +43,15 @@ Vous hésitez entre vous inscrire dans CSP comme revendeur indirect ou comme par
 
 ## <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 
-La fonction multipartenaire de l’Espace partenaires prend en charge les cas où un client a besoin de travailler avec plusieurs partenaires. Par exemple, il peut vouloir engager un partenaire pour son expertise d'Office 365, mais également passer par un autre partenaire spécialisé dans Microsoft Azure. Voir [Prise en charge de plusieurs partenaires](multipartner.md) pour plus d’informations.
+La fonctionnalité multi-partenaires de l’espace partenaires prend en charge les scénarios où un client doit travailler avec plusieurs partenaires. Par exemple, il peut vouloir engager un partenaire pour son expertise d'Office 365, mais également passer par un autre partenaire spécialisé dans Microsoft Azure. Voir [Prise en charge de plusieurs partenaires](multipartner.md) pour plus d’informations.
 
 La prise en charge de plusieurs partenaires est également disponible dans les offres de cloud Microsoft nationales. 
 
 ## <a name="multi-channel-support"></a>Prise en charge de plusieurs canaux
 
-La fonctionnalité de support de plusieurs canaux de l'Espace partenaires prend en charge les cas où un client souhaite engager un partenaire pour l’approvisionnement et assurer le support d’un abonnement acheté ailleurs. Voir [Prise en charge de plusieurs canaux](multichannel.md) pour plus d’informations.
+La fonctionnalité Multi-Channel de l’espace partenaires prend en charge les scénarios dans lesquels un client souhaite embaucher un partenaire pour approvisionner et prendre en charge un abonnement acheté ailleurs. Voir [Prise en charge de plusieurs canaux](multichannel.md) pour plus d’informations.
 
 La prise en charge de plusieurs canaux est également disponible dans les offres de cloud Microsoft nationales.
 
 > [!IMPORTANT]  
-> Un partenaire du programme CSP ne peut pas revendre services en ligne à un autre partenaire du programme CSP actuellement. Microsoft passe en revue en permanence les stratégies et les fonctionnalités de tous les programmes. Toutes les nouveautés concernant les mises à jour de fonctionnalités ou les modifications de stratégie seront annoncées via les canaux de communication habituels, y compris les annonces de l' [espace partenaires](https://partner.microsoft.com/pcv/announcements).
+> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](https://partner.microsoft.com/pcv/announcements).
