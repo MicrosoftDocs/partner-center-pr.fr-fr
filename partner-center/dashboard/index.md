@@ -3,17 +3,19 @@ layout: HubPage
 hide_bc: true
 title: Documentation pour les services de l’Espace partenaires et développeurs
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Si vous vous connectez à l’Espace partenaires pour publier des applications, obtenir des données sur vos applications de bureau, obtenir une certification de matériel, publier des pilotes dans Windows Update ou effectuer une transaction en tant que revendeur, cette documentation est pour vous.
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 77390321f899617c815166935cd10b93cc986118
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: fda7ff2418ba33fbbab3358a2161c70e297ac711
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668461"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653411"
 ---
 <div id="main" class="v2">
     <div class="container">
