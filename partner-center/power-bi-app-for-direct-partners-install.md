@@ -2,17 +2,19 @@
 title: Installer et prévisualiser l’application Analyse de l’Espace partenaires pour Microsoft Power BI | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Suivez les étapes ci-dessous pour obtenir un aperçu de l’application Analyse de l’Espace partenaires pour Microsoft Power BI (pour les partenaires directs dans le programme Fournisseur de solutions cloud).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 10a47f22fb3716e8ff162e7b936770a2ca8a8ffc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b7635e8d6fd9910123ac4113d467ae506e507793
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134649"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654181"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installer et prévisualiser l’application Analyse de l’Espace partenaires pour Microsoft Power BI
 
@@ -22,8 +24,8 @@ ms.locfileid: "62134649"
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
-Sélectionnez l’application qui concerne le mieux à votre entreprise à partir de la liste suivante des applications Power BI disponibles :
-- [Directe de partenaires](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+Sélectionnez l’application la plus pertinente pour votre entreprise dans la liste suivante d’applications Power BI disponibles :
+- [Partenaire direct](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [Partenaire indirect](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
@@ -31,28 +33,28 @@ Sélectionnez l’application qui concerne le mieux à votre entreprise à parti
 
 Avant d’installer la version préliminaire de l'application Analyse de l’Espace partenaires pour Microsoft Power BI, veillez à satisfaire les conditions suivantes.
 
-- Vous pouvez choisir la bonne application Power BI pour votre entreprise.
+- Vous choisissez l’application de Power BI appropriée pour votre entreprise.
 
 - Vous avez un abonnement actif à Microsoft Power BI Professionnel ou Microsoft Power BI Premium.
 
 - Vous pouvez vous connecter à Power BI.
 
-- Vous pouvez vous connecter en tant qu’administrateur général, agent administrateur ou administrateur de facturation au [client Azure Active Directory (AD Azure) de votre société](azure-active-directory-tenants-and-partner-center.md).
+- Vous pouvez vous connecter en tant qu’administrateur général, agent admin ou administrateur de facturation au [locataire Azure Active Directory (Azure AD) de votre entreprise](azure-active-directory-tenants-and-partner-center.md).
 
 ## <a name="to-install-the-app"></a>Pour installer l'application
 
 1. Lancez le [processus d’installation](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true).
 
-2. Sous **Vous disposez déjà d'un compte ?**, sélectionnez **Se connecter**. 
+2. Sous **Vous disposez déjà d'un compte ?** , sélectionnez **Se connecter**. 
 
 3. Sur la page suivante, entrez le nom d'utilisateur et le mot de passe pour votre Power BI, puis sélectionnez **Se connecter**. 
 
-4. Sur la fenêtre contextuelle **Se connecter à Analyse de l’Espace partenaires**, vérifiez que la **méthode d’authentification** est définie sur **oAuth2**, sinon, sélectionnez **oAuth2** dans la liste. 
+4. Dans la fenêtre contextuelle **se connecter à l’analyse de l’espace partenaires** , vérifiez que la **méthode d’authentification** est définie sur **oAuth2** ou sélectionnez **oAuth2** dans la liste, si ce n’est pas le cas. 
 
 > [!NOTE]  
 >  L’affichage de cette fenêtre peut prendre quelques minutes.
 
-5. Sur la page **Connecteur d'Analyse de l’Espace partenaires**, connectez-vous en utilisant les informations d’identification d'administrateur général, d’agent administrateur ou d'administrateur de facturation pour le client Azure AD de votre société, puis sélectionnez **Se connecter**.
+5. Sur la page connecteur de l’analyse de l' **espace partenaires** , connectez-vous avec les informations d’identification de l’administrateur général, de l’agent admin ou de facturation pour le locataire Azure AD de votre entreprise, puis sélectionnez **se connecter**.
  
 6. Lorsque vous êtes invité à accéder, sélectionnez **Accepter**. 
 
@@ -62,4 +64,4 @@ Après le chargement des données, vous pouvez commencer à utiliser les rapport
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Afficher vos données d’entreprise avec l’application Partner Center Analytique pour Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Afficher vos données d’entreprise avec l’application Partner Center Analytics pour Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

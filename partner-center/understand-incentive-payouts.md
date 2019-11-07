@@ -2,16 +2,18 @@
 title: Afficher vos informations de paiement d’incentives | Espace partenaires
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: Affichez les revenus et les paiements se rapportant aux programmes de primes incitatives.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093063"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653995"
 ---
 # <a name="view-your-incentives-payments-information"></a>Afficher vos informations de paiement d’incentives
 
@@ -33,7 +35,7 @@ Pour ouvrir l’une des pages incentives :
 ## <a name="payments-page"></a>Page paiements
 Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous pouvez filtrer par ID participant, programme, ID paiement et type acquis. Les montants sont indiqués en dollars américains. La valeur payante est également affichée dans payer à la devise. 
 
-|**Partie**   |**Description**    |
+|**Domaine**   |**Description**    |
 |------------------|:-------------------------------------|
 |Total payé cette année        |Total cumulé payé pour cette année, en dollars américains, pour tous vos ID MPN.                                      |
 |Prochain paiement estimé      |Seul le paiement suivant vous vient (même s’il y en a d’autres bientôt disponibles), en dollars américains.                                     |

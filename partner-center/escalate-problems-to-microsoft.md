@@ -2,20 +2,22 @@
 title: Faire remonter des problèmes à Microsoft | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
-description: Vous devez normalement résoudre les problèmes pour le compte de vos clients. Toutefois, il existe plusieurs catégories de problèmes que vous devez transmettre à Microsoft à résoudre.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Vous devez normalement résoudre les problèmes pour le compte de vos clients. Toutefois, il existe plusieurs catégories de problèmes que vous devrez transmettre à Microsoft pour résoudre le problème.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c2823ab38a5bcafff307896f8378904a21735191
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135669"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653136"
 ---
-# <a name="escalate-problems-to-microsoft"></a>Faire remonter les problèmes à Microsoft
+# <a name="escalate-problems-to-microsoft"></a>Faire remonter des problèmes à Microsoft
 
 **S’applique à**
 
@@ -43,12 +45,12 @@ Toutefois, il existe plusieurs catégories de problèmes que vous devez transmet
 2. Sélectionnez le client qui a besoin du support.
 3. Sélectionnez **Gestion des services** et sélectionnez **Demandes de service**.
 4. Sélectionnez **Nouvelle demande**, puis **Microsoft Office 365**.
-5. Vous accédez au portail Office 365 où vous avez besoin pour vous connecter à l’aide de vos informations d’identification de partenaires.
+5. Vous accédez au portail Office 365 dans lequel vous devez vous connecter à l’aide de vos informations d’identification de l’espace partenaires.
 6. Sélectionnez **Support**, **Nouvelle demande de service** dans le menu de gauche.
 7. Sélectionnez la rubrique support.
 
 >[!NOTE]
->Il est important de commencer à partir de l’espace partenaires afin que la relation entre les partenaires et clients est maintenue. 
+>Il est important de commencer à partir de l’espace partenaires pour que la relation entre le partenaire et le client soit conservée. 
 
 
 Pour plus d’informations sur le signalement de problèmes pour un client, voir [Signaler des problèmes au nom d'un client](report-problems-on-behalf-of-a-customer.md).

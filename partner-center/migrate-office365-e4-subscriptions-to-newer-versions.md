@@ -2,16 +2,18 @@
 title: Migrer des abonnements Office 365 E4 vers les nouvelles versions d’Office 365 | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: L'édition Microsoft Office 365 Entreprise E4 n’est plus disponible depuis le 7 avril 2017. Découvrez comment migrer vos abonnements client vers des versions plus récentes d’Office 365.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: dab5bd048fc04cbf6cc46507dc8f3ecc7bb6d6ce
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134379"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654318"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office 365 E4 vers les nouvelles versions d’Office 365
 
@@ -21,10 +23,10 @@ ms.locfileid: "62134379"
 
 La formule Office 365 Entreprise E4 n’est plus disponible depuis le 7 avril 2017. Vous ne pouvez plus acheter de nouveaux abonnements Office 365 E4 après cette date et les abonnements E4 existants ne seront pas renouvelés automatiquement lorsqu’ils arriveront à expiration.
 
-Lorsque les abonnements E4 prendront fin, ils seront annulés. Pour garantir la continuité des activités pour les clients, vous devez passer les clients ayant des abonnements E4 arrivant à expiration à une option de référence (SKU) prise en charge, répertoriée ci-dessous. Nous recommandons de passer les clients à de nouveaux abonnements avant la date de fin d'abonnement annuelle afin de leur éviter toute interruption de service. 
+Lorsque les abonnements E4 prendront fin, ils seront annulés. Pour garantir la continuité des activités pour les clients, vous devez passer les clients ayant des abonnements E4 arrivant à expiration à une option de référence (SKU) prise en charge, répertoriée ci-dessous. Nous vous recommandons de déplacer les clients vers les nouveaux abonnements avant la date de fin annuelle de l’abonnement pour éviter les interruptions de service pour les clients. 
 
 > [!NOTE]  
->  Office 365 entreprise E4 commerciale et government références (SKU) est mis hors service.
+>  Les références SKU commerciales et gouvernementales d’Office 365 Enterprise E4 sont retirées.
  
 Sur la page des détails de l’abonnement, le statut de l'abonnement E4 « Renouvellements automatiques le [date] » est remplacé par « Expire le [date] ». 
 
@@ -36,27 +38,27 @@ Les abonnements E4 seront définis sur renouvellement automatique = False le 7 a
 
 Vous pouvez choisir de conserver les mêmes fonctionnalités qu'avec E4 ou de faire bénéficier vos clients des nouvelles fonctions d'Office 365 et de Skype Entreprise Online. Les détails de la tarification figurent sur la liste de prix et le tableau répertoriant les offres dans l'Espace partenaires. Secure Productive Enterprise E3 ou Secure Productive Enterprise E5 peut être remplacé dans les options suivantes respectivement par Office 365 Entreprise E3 ou Office 365 Entreprise E5.
 
-- Option 1 : Office&nbsp;365 Enterprise&nbsp;E5
+- Option 1 : Office 365 Entreprise E5
 
-- Option 2 : Office 365 entreprise E3 + Skype pour entreprise Cloud PBX
+- Option 2 : Office 365 Entreprise E3 + Cloud PBX de Skype Entreprise
 
-- Option 3 : Office 365 entreprise E3 + Skype for Business ainsi que des CAL (parité de prix et de fonctionnalités avec E4)
+- Option 3 : Office 365 Entreprise E3 + Skype Entreprise, ainsi que les licences d’accès client (parité de prix et de fonctionnalités avec E4)
 
-- Option 4 : Office&nbsp;365 Entreprise&nbsp;E3
+- Option 4 : Office 365 Entreprise E3
 
 
 | Fonctionnalité | Option 1 | Option 2 | Option 3 | Option 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Obtenir toutes les fonctionnalités incluses dans Office 365 Entreprise E4 ? | Oui | Oui | Oui | Non |
-| Numéros de téléphone gérés dans Office 365 ? | Oui | Oui | Non | Non |
-| Numéros de téléphone gérés à la fois localement et dans Office 365 (déploiement hybride) ? | Oui | Oui | Non | Non |
-| Option pour ajouter un plan d’appel vocal et RTC ? | Oui | Oui | Non | Non |
-| Conférence RTC ? | Oui | Non | Non | Non |
-| Outils avancés de collaboration, d'analyse et de sécurité ? | Oui | Non | Non | Non |
-| Rapports interactifs, tableaux de bord et visualisations de données ? | Oui | Non | Non | Non | 
-| Plus de contrôle sur la sécurité des données et la conformité avec une confidentialité, une transparence et des contrôles utilisateur pointus intégrés ? | Oui | Non | Non | Non | 
+| Obtenir toutes les fonctionnalités incluses dans Office 365 Entreprise E4 ? | Oui | Oui | Oui | non |
+| Numéros de téléphone gérés dans Office 365 ? | Oui | Oui | non | non |
+| Numéros de téléphone gérés à la fois localement et dans Office 365 (déploiement hybride) ? | Oui | Oui | non | non |
+| Option pour ajouter un plan d’appel vocal et RTC ? | Oui | Oui | non | non |
+| Conférence RTC ? | Oui | non | non | non |
+| Outils avancés de collaboration, d'analyse et de sécurité ? | Oui | non | non | non |
+| Rapports interactifs, tableaux de bord et visualisations de données ? | Oui | non | non | non | 
+| Plus de contrôle sur la sécurité des données et la conformité avec une confidentialité, une transparence et des contrôles utilisateur pointus intégrés ? | Oui | non | non | non | 
 
-## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers les nouvelles formules de produit
+## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers des nouvelles formules de produit
 
 Microsoft offre en permanence de nouveaux produits et services à nos partenaires. Dans ces cas, vous pouvez avoir besoin de mettre à niveau les services de ses clients ou de migrer leurs abonnements à partir de références (SKU) qui vont progressivement disparaître. La migration de clients depuis des références supprimées vers des références plus récentes doit respecter les étapes suivantes :
 
@@ -68,15 +70,15 @@ Suivez ces étapes pour migrer l’abonnement Office 365 Entreprise E4 d’un c
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Étape 1 : acheter le nouvel abonnement
 
-1. À partir de la **partenaires** menu, sélectionnez **clients**, sélectionnez le client que vous souhaitez déplacer, puis sélectionnez **ajouter des abonnements**.
+1. Dans le menu **espace partenaires** , sélectionnez **clients**, sélectionnez le client que vous souhaitez déplacer, puis sélectionnez **Ajouter des abonnements**.
 
 2. Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, l'une des options ci-dessus), indiquez le nombre de licences, puis sélectionnez **Envoyer**.
 
-   Votre client doit maintenant avoir les anciens et les nouveaux abonnements, l'ancien abonnement Office 365 Entreprise E4 et le nouvel abonnement « cible », par exemple, Option 1 : Office 365 Entreprise E5.
+   Votre client doit maintenant avoir des abonnements anciens et nouveaux, l’ancien abonnement Office 365 Enterprise E4 et le nouvel abonnement « cible », par exemple, l’option 1-Office 365 Enterprise E5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Étape 2 : réaffecter les licences des utilisateurs du client
 
-1. À partir de la **partenaires** menu, sélectionnez **clients**, sélectionnez le client que vous souhaitez déplacer, puis sélectionnez **utilisateurs et licences**. La page Utilisateurs et licences du client s’ouvre.
+1. Dans le menu **espace partenaires** , sélectionnez **clients**, sélectionnez le client que vous souhaitez déplacer, puis sélectionnez **utilisateurs et licences**. La page utilisateurs et licences du client s’ouvre.
 
 2. Pour réaffecter les licences utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
 
@@ -90,7 +92,7 @@ Une fois les licences utilisateur attribuées au nouveau service, vous pouvez en
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Étape 3 : annuler l’ancien abonnement
 
-1. À partir de la **partenaires** menu, sélectionnez **clients**. Sélectionnez le client que vous voulez déplacer, puis l’abonnement à annuler.
+1. Dans le menu **espace partenaires** , sélectionnez **clients**. Sélectionnez le client que vous voulez déplacer, puis l’abonnement à annuler.
 
 2. Dans la page des détails de l’abonnement, définissez l'état d'abonnement sur **Suspendu**.
 

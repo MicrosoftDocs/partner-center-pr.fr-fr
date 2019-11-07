@@ -2,17 +2,19 @@
 title: Taxes et exonérations fiscales | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262983"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654019"
 ---
 # <a name="tax-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
@@ -24,11 +26,11 @@ ms.locfileid: "67262983"
 
 Comme le programme Fournisseur de solutions Cloud est un canal dédié à la revente de produits par les partenaires, Microsoft n’est pas toujours tenu de facturer les taxes au partenaire. Les règles varient en fonction des pays/régions. Les partenaires doivent collaborer avec leur conseiller fiscal pour déposer les exonérations fiscales appropriées en fonction de leur emplacement et de celui de leurs clients. Pour marquer son compte revendeur Microsoft comme n’étant pas soumis aux taxes, le partenaire doit envoyer ces certificats d’exonération à Microsoft.
 
-**Fichier une exemption de taxe**
+**Fichier une exonération fiscale**
 
-1.  Rechercher votre **ID Microsoft** dans partenaires &gt; **paramètres du compte** &gt; **profil organisation**.
-2.  Rechercher votre **ID MPN** dans partenaires &gt; **paramètres du compte** &gt; **profil du partenaire**.
-3.  Créez un ticket de support. Dans le menu espace partenaires, sélectionnez **de demandes de Service** &gt; **partenaires demande** &gt; **nouvelle demande**.
+1.  Recherchez votre **ID Microsoft** dans l’espace partenaires &gt; **paramètres du compte** &gt; profil de l' **organisation**.
+2.  Recherchez votre **ID MPN** dans l’espace partenaires &gt; **paramètres de compte** &gt; **profil de partenaire**.
+3.  Créez un ticket de support. Dans le menu de l’espace partenaires, sélectionnez **demandes de Service** &gt; **espace partenaires demandes** &gt; **nouvelle demande**.
 4.  Remplissez le formulaire. Pour **Type de problème**, choisissez **Impossible de gérer mon profil**. Dans la description, indiquez votre ID&nbsp;MPN et votre ID&nbsp;Microsoft.
 5.  Une fois que vous avez envoyé le ticket, Microsoft vous adresse un e-mail pour obtenir plus d’informations. Lorsque vous répondez, joignez la documentation appropriée correspondant à vos certificats d’exonération fiscale.
 
@@ -51,7 +53,7 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 <p>Étant donné que Microsoft ne gère ni crédit ni refacturation, vous devez inscrire votre numéro de&nbsp;TVA dans l’Espace partenaires avant de vendre des abonnements.</p>
 <p>Envoyer votre numéro de&nbsp;TVA à Microsoft</strong></p>
 <ol>
-<li>Dans le centre de partenaires, accédez au menu partenaires &gt; <strong>paramètres du compte</strong> &gt; <strong>profil de facturation du partenaire</strong>.</li>
+<li>Dans l’espace partenaires, accédez au menu espace partenaires &gt; <strong>paramètres de compte</strong> &gt; <strong>profil de facturation partenaire</strong>.</li>
 <li>Dans la section <strong>Données financières</strong>, sélectionnez <strong>Mettre à jour</strong>.</li>
 <li>Dans <strong>ID taxe entreprise</strong>, indiquez votre numéro de&nbsp;TVA.</li>
 </ol></td>
@@ -59,11 +61,11 @@ Comme le programme Fournisseur de solutions Cloud est un canal dédié à la rev
 <tr class="odd">
 <td>Afrique du Sud</td>
 <td><p>
-Microsoft s’applique désormais le standard sur la valeur ajoutée (TVA) sur le contenu numérique et de services achetés par les partenaires en Afrique du Sud. Pour exclure la TVA de vos factures et gérer vous-même, utilisez la procédure suivante pour mettre à jour votre profil de facturation du partenaire.
+Microsoft applique désormais la taxe sur la valeur ajoutée standard sur les services et le contenu numérique achetés par les partenaires en Afrique du Sud. Pour exclure la TVA de vos factures et la gérer vous-même, utilisez la procédure suivante pour mettre à jour votre profil de facturation de partenaire.
 </p>
 <p>Envoyer votre numéro de&nbsp;TVA à Microsoft</strong></p>
 <ol>
-<li>Dans le centre de partenaires, accédez au menu partenaires &gt; <strong>paramètres du compte</strong> &gt; <strong>profil de facturation du partenaire</strong>.</li>
+<li>Dans l’espace partenaires, accédez au menu espace partenaires &gt; <strong>paramètres de compte</strong> &gt; <strong>profil de facturation partenaire</strong>.</li>
 <li>Dans la section <strong>Données financières</strong>, sélectionnez <strong>Mettre à jour</strong>.</li>
 <li>Dans <strong>ID taxe entreprise</strong>, indiquez votre numéro de&nbsp;TVA.</li>
 </ol></td>
@@ -72,11 +74,11 @@ Microsoft s’applique désormais le standard sur la valeur ajoutée (TVA) sur l
 <td>Turquie</td>
 <td>
 <p>
-Microsoft s’applique désormais le standard sur la valeur ajoutée (TVA) sur le contenu numérique et de services achetés par les partenaires en Turquie. Pour exclure la TVA de vos factures et gérer vous-même, utilisez la procédure suivante pour mettre à jour votre profil de facturation du partenaire.
+Microsoft applique désormais la T.V.A. (taxe de valeur ajoutée) standard sur le contenu numérique et les services achetés par les partenaires en Turquie. Pour exclure la TVA de vos factures et la gérer vous-même, utilisez la procédure suivante pour mettre à jour votre profil de facturation de partenaire.
 </p>
 <p>Envoyer votre numéro de&nbsp;TVA à Microsoft</strong></p>
 <ol>
-<li>Dans le centre de partenaires, accédez au menu partenaires &gt; <strong>paramètres du compte</strong> &gt; <strong>profil de facturation du partenaire</strong>.</li>
+<li>Dans l’espace partenaires, accédez au menu espace partenaires &gt; <strong>paramètres de compte</strong> &gt; <strong>profil de facturation partenaire</strong>.</li>
 <li>Dans la section <strong>Données financières</strong>, sélectionnez <strong>Mettre à jour</strong>.</li>
 <li>Dans <strong>ID taxe entreprise</strong>, indiquez votre numéro de&nbsp;TVA.</li>
 </ol></td>

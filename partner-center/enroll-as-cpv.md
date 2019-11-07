@@ -1,42 +1,44 @@
 ---
-title: S’inscrire à des partenaires en tant que contrôle panneau fournisseur | Partenaires
+title: Inscrire dans le Centre des partenaires en tant que fournisseur du panneau de configuration | Espace partenaires
 ms.topic: article
 ms.date: 12/11/2018
-Description: Comment s’inscrire à des partenaires comme un fournisseur de panneau de contrôle
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: Procédure d’inscription dans l’espace partenaires en tant que fournisseur du panneau de configuration
 author: LauraBrenner
 ms.author: labrenne
-keywords: Fournisseur de panneau de contrôle, register CPV applications, gérer les applications CPV
+keywords: Panneau de configuration fournisseur, inscrire les applications CPV, gérer les applications CPV
 ms.localizationpriority: medium
-ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 7764764804fda5d0c7d83f4d0cc426ea3e27805c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135559"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653225"
 ---
-# <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Inscrire dans le centre de partenaires en tant qu’un fournisseur de panneau de contrôle
+# <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Inscrire dans le Centre des partenaires en tant que fournisseur du panneau de configuration
 
 **S’applique à**
 
 - Espace partenaires
 
-Un fournisseur de panneau de contrôle (CPV) est un éditeur de logiciels indépendant qui développe des applications pour une utilisation par les partenaires de fournisseur de solutions Cloud (CSP) pour leur permettre d’intégrer leurs systèmes avec les API Partner Center. Un fournisseur le panneau de configuration n’est pas un partenaire CSP avec un accès direct au tableau de bord de partenaires ou des API de partenaire.
+Un fournisseur du panneau de configuration (CPV) est un éditeur de logiciels indépendant qui développe des applications pour une utilisation par les partenaires du fournisseur de solutions Cloud (CSP) afin de leur permettre d’intégrer leurs systèmes aux API de l’espace partenaires. Un fournisseur du panneau de configuration n’est pas un partenaire CSP disposant d’un accès direct au tableau de bord de l’espace partenaires ou aux API de l’espace partenaires.
 
-Si vous êtes un fournisseur de panneau de contrôle en cours (CPV) ou un nouveau CPV désireux de travailler avec des partenaires de Microsoft, Microsoft requiert désormais vous inscrire à des partenaires afin d’inscrire vos applications et de prendre en charge des partenaires Cloud Solution Provider. Pour créer un compte, un partenaire CPV peut utiliser un locataire de partenaire CSP existant, ou locataire CPV existant ou peut créer un nouveau locataire dans le cadre du processus d’intégration. Si le partenaire CPV choisit d’utiliser le client CSP existant, puis ils devrez créer des applications mutualisées distinctes et les inscrire dans le centre de partenaires pour les activités CPV. Une application ne peut pas être enregistrée comme un CSP et le CPV une application. Une fois que vous avez inscrits dans le centre partenaires et inscrit vos applications, vous aurez accès aux API Partner Center.  Microsoft vous contactera via une notification de partenaires avec vos informations de bac à sable. Si, toutefois, vous avez déjà un compte de bac à sable, continuer à l’utiliser. Vous n’aurez pas besoin d’un nouveau bac à sable.   
+Que vous soyez un fournisseur actuel du panneau de configuration (CPV) ou un nouveau CPV qui souhaite travailler avec des partenaires Microsoft, Microsoft vous demande à présent de vous inscrire auprès de l’espace partenaires afin d’inscrire vos applications et de prendre en charge les partenaires du fournisseur de solutions Cloud. Pour créer un compte, un partenaire CPV peut utiliser un locataire partenaire fournisseur de solutions Cloud (CSP) existant ou un client CPV existant, ou créer un locataire dans le cadre du processus d’intégration. Si le partenaire du CPV choisit d’utiliser le locataire CSP existant, il devra créer des applications mutualisées distinctes et les inscrire dans l’espace partenaires pour les activités du CPV. Une application ne peut pas être inscrite à la fois en tant qu’application CSP et CPV. Une fois inscrit dans l’espace partenaires et inscrit vos applications, vous aurez accès aux API de l’espace partenaires.  Microsoft vous contactera par le biais d’une notification de l’espace partenaires avec vos informations de bac à sable. Toutefois, si vous disposez déjà d’un compte sandbox, continuez à l’utiliser. Vous n’avez pas besoin d’un nouveau bac à sable (sandbox).   
 
-Examinez le [accord entre fournisseurs de panneau de contrôle de Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
+Consulter le [contrat de licence du fournisseur du panneau de configuration Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
 ## <a name="working-in-partner-center"></a>Travailler dans l’Espace partenaires
-Une fois que vous avez inscrits dans l’expérience de Partner Center CPV et accepté le contrat CPV que vous pouvez :
+Une fois que vous avez inscrit l’expérience du CPV de l’espace partenaires et accepté le contrat CPV, vous pouvez :
 
-- Gérer les applications mutualisées (ajouter des applications au portail Azure, inscrire et annuler l’inscription des applications dans le centre de partenaires).
+- Gérer les applications mutualisées (ajouter des applications à Portail Azure, inscrire et désinscrire des applications dans l’espace partenaires).
 
 >[!Note] 
->CPVs doivent enregistrer leurs applications dans partenaires afin d’obtenir l’autorisation pour API de partenaire. Ajout d’applications dans le portail Azure uniquement ne permet pas d’applications CPV pour les API Partner Center. 
+>CPVs doit inscrire ses applications dans l’espace partenaires afin d’être autorisé à accéder aux API de l’espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires. 
 
-- Afficher et gérer votre profil CPV 
+- Voir et gérer votre profil de CPV 
 
-- Afficher et gérer vos utilisateurs ont besoin d’accéder aux fonctionnalités CPV. Le seul rôle qu'un CPV peut avoir est administrateur général.
+- Visualisez et gérez les utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV. Le seul rôle qu’un CPV peut avoir est l’administrateur général.
 
 

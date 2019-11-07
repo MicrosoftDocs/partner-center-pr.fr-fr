@@ -2,17 +2,19 @@
 title: Guide de migration de plusieurs entreprises du Partner Membership Center vers l’Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Ce que vous devez savoir lorsque vous migrez plusieurs entreprises du Partner Membership Center vers l’Espace partenaires
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958754"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654346"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Migration de plusieurs entreprises vers l’Espace partenaires
 
@@ -20,7 +22,7 @@ Lorsque vous migrez votre compte d’entreprise du Partner Membership Center ver
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Déplacer vos comptes supplémentaires dans l’Espace partenaires 
 
-Étant donné que vous avez déjà déplacé un compte d’entreprise sur l’Espace partenaires, lorsque vous vous connectez, nous vous indiquons quel compte est déjà dans l’Espace partenaires. 
+Étant donné que vous avez déplacé un compte d’entreprise déjà sur PC, lorsque vous vous connectez, nous vous informerons du compte déjà dans l’espace partenaires. 
 
 
 Si, après la migration, vous découvrez que le mauvais compte d’entreprise a été désigné comme entreprise légale, vous pouvez le modifier.
@@ -78,7 +80,7 @@ Une fois que vous avez vérifié/modifié les informations de cet écran, clique
 
 Lorsque vous affichez votre profil, vous voyez les informations relatives à votre entreprise légale (dans Partner Membership Center, il s’agissait du siège social) et les informations relatives à tous les emplacements supplémentaires.
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Articles associés
 
 - [Passer du Partner Membership Center à l’Espace partenaires](move-pmc-pc-map.md)
 

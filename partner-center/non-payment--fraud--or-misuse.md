@@ -2,6 +2,8 @@
 title: Défaut de paiement, fraude ou mauvaise utilisation | Espace partenaires
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Stratégies de gestion des risques de transaction en ligne, y compris le défaut de paiement de biens et de services par des clients et les mauvaises utilisations ou activités frauduleuses
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, mauvaise utilisation, utilisation acceptable, règles de bon usage, défaut de paiement, le client ne pas paye pas la facture, risque en ligne, vol de service, abus du service, suspendre un abonnement,
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978735"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652965"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Défaut de paiement, fraude ou mauvaise utilisation
 
@@ -35,7 +37,7 @@ Pour éviter et/ou pallier le problème des activités frauduleuses ou de la mau
 
 - **Vol de service** Les clients qui n'ont pas l'intention de payer les services consommés en utilisant des instruments de paiement volés, en indiquant de fausses informations de facturation et/ou en faisant défaut sur les sommes en attente de paiement
 
-- **Utilisation abusive de service** Les clients qui utilisent des services Cloud en enfreignant les règles de bon usage de Microsoft
+- **Abus de service** Les clients qui utilisent des services Cloud en violation de la stratégie d’utilisation acceptable de Microsoft
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>Exemples de fraude ou de mauvaise utilisation de service possibles
 - Courriers indésirables

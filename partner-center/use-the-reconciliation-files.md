@@ -2,17 +2,19 @@
 title: Utiliser les fichiers de rapprochement | Espace partenaires
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Pour obtenir une vue détaillée de chaque facture dans un cycle de facturation, téléchargez les fichiers de la conciliation à partir de l’espace partenaires.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931581"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653973"
 ---
 # <a name="use-the-reconciliation-files"></a>Utiliser les fichiers de rapprochement
 
@@ -71,7 +73,7 @@ Dans le modèle indirect, les partenaires peuvent utiliser ces champs supplémen
 <p>ID&nbsp;MPN du revendeur de référence pour l’abonnement. Cet&nbsp;ID correspond à l’ID de revendeur indiqué pour l’abonnement dans l’Espace partenaires.</p>
 <p>affichage eTo ou mettez à jour le revendeur. dans le menu espace partenaires, sélectionnez <strong>clients</strong>, puis choisissez le client dans la liste. Dans le menu client, sélectionnez <strong>Abonnements</strong>, puis choisissez l’abonnement dans la liste. Sélectionnez <strong>Mettre à jour</strong> pour modifier le <strong>Revendeur (ID&nbsp;MPN)</strong>.</p>
 <p>Si un partenaire&nbsp;Fournisseur de solutions&nbsp;Cloud a vendu l’abonnement directement au client, son ID&nbsp;MPN est indiqué deux&nbsp;fois, en tant qu’ID&nbsp;MPN et ID&nbsp;MPN revendeur.</p>
-<p>Si un partenaire&nbsp;CSP a un revendeur dépourvu d’ID&nbsp;MPN, cette valeur est définie à la place sur l’ID&nbsp;MPN du partenaire.</p>
+<p>Si un partenaire CSP a un revendeur sans ID MPN, cette valeur est définie sur l’ID MPN du partenaire à la place.</p>
 <p>Si le partenaire fournisseur de solutions Cloud supprime un ID revendeur, cette valeur est définie sur-1.</p></td>
 </tr>
 </tbody>
@@ -342,8 +344,8 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <td>ServiceType</td>
 <td><p>Type spécifique de service Windows&nbsp;Azure.</p></td>
 <td><ul>
-<li>Service Bus - Individuel ou Pack</li>
-<li>Base de données SQL Azure - Entreprise ou Web Edition</li>
+<li>Service Bus-individu ou Pack</li>
+<li>SQL Azure Database-Business ou Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Nombre de connexions ServiceBus qui ont été configurées et utilisées sur un jour donné.</p></td>
-<td>Exemple : si vous avez utilisé une connexion configurée individuellement pendant un mois de 30 jours, Service Info 1 indique « 1 connexion/30 jours ». Si vous avez un pack de 25 connexions ServiceBus et que vous en avez utilisé 1 ce jour-là, votre relevé d’utilisation quotidienne indiquera « 25 connexions/30 jours - Utilisées : 1 ».</td>
+<td>Par exemple : Si vous avez une connexion configurée individuellement pendant une période de 30 jours, les informations de service 1 lisent « 1,000000 connexions/30 jours ». Si vous avez configuré un 25 Pack de connexions ServiceBus et que vous avez utilisé 1 pendant cette journée, votre instruction d’utilisation quotidienne pour ce jour indique « 25 connexions/30 jours-utilisé : 1,000000 ».</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -561,7 +563,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>L’ID d'une disponibilité spécifique. La « Disponibilité » indique si une référence spécifique est disponible ou non à l'achat pour un pays, une devise, un secteur etc.</p></td>
+<td><p>L’ID d'une disponibilité spécifique. La « disponibilité » indique si une référence (SKU) est disponible à l’achat pour le pays donné, la devise, le secteur d’activité, etc.</p></td>
 </tr>
 
 <tr class="even">
@@ -711,7 +713,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>Le nom de domaine du client. Non disponible pour l’activité en cours.</p></td>
+<td><p>Nom de domaine du client. Non disponible pour l’activité en cours.</p></td>
 </tr>
 
 <tr class="even">
@@ -746,7 +748,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>L’ID d'une disponibilité spécifique. La « Disponibilité » indique si une référence spécifique est disponible ou non à l'achat pour un pays, une devise, un secteur etc.</p></td>
+<td><p>L’ID d'une disponibilité spécifique. La « disponibilité » indique si une référence (SKU) est disponible à l’achat pour le pays donné, la devise, le secteur d’activité, etc.</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 <td><p>ID du serveur de publication, au format GUID. Non disponible pour l’activité en cours.</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>Description de l’abonnement</td>
 <td><p>Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix. (Il s'agit d'un champ identique au nom Offre).</p></td>
 </tr>
@@ -910,7 +912,7 @@ Votre facture inclut un récapitulatif des frais, tandis que votre fichier de ra
 
 Afin de comparer les frais indiqués sur la facture et le fichier de rapprochement, vous pouvez utiliser les options de filtre de Microsoft Excel pour trier les types de frais du fichier de rapprochement et les faire correspondre à un ensemble de frais détaillés sur ce même fichier.
 
-Les fichiers de rapprochement, à la fois basés sur les licences et sur l’utilisation, affichent uniquement les transactions et les frais basés sur l’utilisation (unités consommées et frais associés). Les crédits, remises ou remboursements ponctuels qui apparaissent sur la facture en tant qu’« ajustements » ne sont pas affichés dans le fichier de rapprochement.
+Les fichiers de rapprochement, à la fois basés sur les licences et sur l’utilisation, affichent uniquement les transactions et les frais basés sur l’utilisation (unités consommées et frais associés). Un congé, des remises ou des remboursements qui apparaissent sur la facture comme « ajustements » ne s’affichent pas dans le fichier de réconciliation.
 
 Le tableau ci-dessous indique les correspondances entre une section de la facture et les types de frais associés qui peuvent figurer sur les fichiers de rapprochement. 
 
@@ -935,7 +937,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 <p><strong>Frais basés sur les licences</strong></p>
 </td>
 <td>
-<p>Frais d'activation</p>
+<p>Frais d’activation</p>
 </td>
 <td>
 <p>Montant facturé au client lorsqu’il utilise l’abonnement après l'avoir acheté</p>
@@ -946,7 +948,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td>
-<p>Frais d'annulation</p>
+<p>Frais d’annulation</p>
 </td>
 <td>
 <p>Frais au prorata remboursés au client lorsque des sièges associés sont modifiés</p>
@@ -978,7 +980,7 @@ Le tableau ci-dessous indique les correspondances entre une section de la factur
 </tr>
 <tr>
 <td>
-<p>Frais au prorata à l'achat</p>
+<p>Frais au prorata à l’achat</p>
 </td>
 <td>
 <p>Type de frais d’un abonnement lors de l’utilisation de la facturation annuelle</p>
