@@ -1,4 +1,4 @@
-# [À propos de l’Espace partenaires Microsoft](index.md)
+# [À propos de l’Espace partenaires Microsoft](index.yml)
 
 # [Adhésion au réseau des partenaires](mpn-overview.md)
 ## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
