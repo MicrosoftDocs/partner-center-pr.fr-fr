@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653396"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840212"
 ---
 # <a name="add-a-new-customer"></a>Ajouter un client
 
@@ -35,9 +35,9 @@ Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un sup
 
 2. Sur la page informations sur le **compte** , entrez les informations relatives au client et les informations de contact principales, puis vérifiez que le client a accepté et signé le dernier [contrat de Microsoft Cloud](agreements.md).
 
-    >[!IMPORTANT]
-      > Depuis le 7 novembre 2018, vous devez vérifier qu’un client a accepté le contrat Microsoft Cloud en fournissant des informations sur la personne qui l’a signé. Pour plus d’informations, consultez [Confirmer l’acceptation du contrat Microsoft Cloud par le client](confirm-consent.md).
-
+>[!IMPORTANT] 
+> Le 1er octobre 2019, Microsoft a introduit le **contrat du client Microsoft** dans le programme CSP pour remplacer le contrat de Microsoft Cloud. Pour faciliter la migration des partenaires vers le nouveau contrat, le contrat Microsoft Cloud actuel sera pris en charge dans le programme Fournisseur de solutions Microsoft Cloud jusqu’au 31 janvier 2020. En savoir plus sur le [contrat de client Microsoft et sur la manière de confirmer le consentement](confirm-customer-consent.md)
+  
 3. Si vous êtes un fournisseur indirect, sélectionnez le revendeur indirect que vous souhaitez associer aux abonnements de ce client dans la liste.
 
 4. Sélectionnez **suivant : abonnements** lorsque vous avez terminé d’entrer toutes les informations requises.
