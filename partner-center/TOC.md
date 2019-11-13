@@ -184,6 +184,7 @@
 # Configuration de sécurité requise
 ## [Vue d’ensemble](partner-security-requirements.md)
 ## [État de la configuration requise](partner-security-compliance.md)
+## [Imposer MFA à votre locataire partenaire](partner-security-requirements-mandating-mfa.md)
 ## [Forum Aux Questions](partner-security-requirements-faq.md)
 
 # Didacticiels
