@@ -2,17 +2,19 @@
 title: Comparer les offres Azure | Espace partenaires
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comparaison des offres Azure disponibles
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 9816d7fd2df1eb477b610da3ee08b7988718e4c3
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 585a2214e6efa202d688ba4d42c5f23596484110
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428467"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653632"
 ---
 # <a name="compare-azure-offers"></a>Comparer les offres Azure
 
