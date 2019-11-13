@@ -1,22 +1,22 @@
 ---
 title: Obligation de l’authentification MFA pour votre locataire partenaire | Espace partenaires
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Détails sur l’authentification MFA pour les exigences de sécurité de votre locataire partenaire
+description: Détails sur le mandat de l’authentification multifacteur (MFA) pour les exigences de sécurité de votre locataire partenaire
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652515"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983349"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>Obligation de l’authentification MFA pour votre locataire partenaire
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obligation de l’authentification multifacteur (MFA) pour votre locataire partenaire
 
 **S’applique à**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652515"
 
 Ces partenaires doivent effectuer la vérification de l’authentification MFA pour les domaines suivants :
 
-- [Tableau de bord espace partenaires](#partner-center-dashboard)
-- [API espace partenaires](#partner-center-api)
-- [Administration déléguée du partenaire](#partner-delegated-administration)
+- [Tableau de bord espace partenaires](#partner-center-dashboard) (ciblant H1 CY2020)
+- [API espace partenaires](#partner-center-api) (ciblant H1 CY2020)
+- [Administration déléguée du partenaire](#partner-delegated-administration) (à partir du 18 novembre 2019)
 
 L’objectif de cette fonctionnalité est d’aider les partenaires à sécuriser leur accès aux ressources client contre la compromission des informations d’identification.
 
