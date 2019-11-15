@@ -2,18 +2,20 @@
 title: Créer un profil métier | Espace partenaires
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Créez un profil métier dans l’Espace partenaires pour obtenir des prospects de Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, références, prospects, C2PC, profil d’entreprise, promouvoir votre entreprise, trouver un partenaire, trouver un fournisseur de solutions, profil métier, profil commercial
 ms.localizationpriority: high
-ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997860"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653609"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -70,7 +72,7 @@ La description ne doit pas dépasser 2 500 caractères. Conseils pour une desc
 -  **Concentrez-vous sur les expériences de votre entreprise en rapport avec les offres spécifiques de Microsoft**. Les clients qui parcourent les références recherchent généralement des partenaires avec une expérience spécifique de Microsoft.
 -  **Utilisez des puces**. Décomposez les informations sous forme de listes à puces pour faciliter la lecture.
 -  **Évitez le jargon**. Utilisez un langage simple de tous les jours, en nommant vos offres en fonction de ce qu’elles font, c’est-à-dire les besoins métier auxquels elles répondent ou bien la tâche ou l’objectif qu’elles permettent aux clients d’accomplir.
--  **Ne vous souciez pas de remplir la description de mots clés**. Les outils de recherche de clients utilisent les mots clés générés dans la section Expertise du partenaire, pas dans la description.
+-  **Ne vous souciez pas de remplir la description des mots clés de recherche**. Les outils de recherche de clients utilisent les mots clés générés dans la section Expertise du partenaire, pas dans la description.
 -  **Tenez votre profil à jour**. À chaque lancement d’un logiciel ou d’un service, mettez à jour votre profil de sorte qu’il soit synchronisé avec le site web de votre société.
 -  **Ne faites pas nommément référence à une autre société partenaire de Microsoft**, sauf s’il s’agit d’une succursale ou qu’elle est affiliée à votre société, ou que vous avez conclu un accord avec cette société partenaire en vue d’établir un partenariat et/ou de vous promouvoir mutuellement dans le but de partager des opportunités commerciales.
 -  **Pour les régions multilingues**, envisagez d’inclure du texte en plusieurs langues dans la description.
@@ -110,7 +112,7 @@ Cependant, si vous fournissez des services pour des produits que vous préférez
 
 #### <a href="" id="#target_size"></a>Taille cible
 
-Vous pouvez désactiver les références d’entreprises qui ne correspondent pas à la taille de client que vous ciblez.
+Vous pouvez refuser de recevoir des recommandations d’entreprises qui ne correspondent pas à la taille de votre clientèle cible.
 
 En les refusant, vous aurez plus de temps à consacrer aux entreprises qui correspondent à vos critères.
 
@@ -118,7 +120,7 @@ En les refusant, vous aurez plus de temps à consacrer aux entreprises qui corre
 
 Vous pouvez ajouter jusqu’à 5 emplacements par région. Ces emplacements s’affichent quand les clients effectuent des recherches de partenaires par proximité.
 
-Indiquez les emplacements officiels de la société dont il est possible de vérifier l’existence. Sélectionnez des emplacements stratégiques pour le marché que vous visez et qui représentent le mieux les capacités de votre société.
+Indiquez les emplacements officiels de la société dont il est possible de vérifier l’existence. Sélectionnez des emplacements stratégiques pour le marché que vous visez et qui représentent au mieux les capacités de votre entreprise.
 
 Une fois que vous avez terminé la mise à jour des informations d’emplacement, sélectionnez **Enregistrer cet emplacement** ou **Enregistrer cet emplacement et en ajouter un autre** (même si vous n’ajoutez qu’un seul emplacement).
 

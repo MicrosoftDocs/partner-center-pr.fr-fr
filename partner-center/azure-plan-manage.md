@@ -2,17 +2,19 @@
 title: Gérer les abonnements et les ressources dans le plan Azure | Espace partenaires
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Acheter plusieurs abonnements Azure dans le plan Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428497"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653852"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gérer les abonnements et les ressources dans le cadre du plan Azure
 
@@ -21,11 +23,11 @@ Quand vous opérez la transition d’un client vers le plan Azure, des droits d�
  > [!NOTE]
  > Le client peut supprimer les droits d’administrateur sur l’abonnement Azure au niveau d’un abonnement, d’un groupe de ressources ou d’une charge de travail. 
 
- Les partenaires peuvent bénéficier d’une gestion et d’un contrôle opérationnels 24h/24 et 7j/7 sur les ressources Azure d’un client dans le cadre du programme Fournisseur de solutions Cloud (CSP) en utilisant les différentes options fournies par l’intermédiaire de la fonctionnalité de contrôle d’accès en fonction du rôle (RBAC). 
+ Les partenaires peuvent bénéficier d’une gestion et d’un contrôle opérationnels 24 h/24 et 7 j/7 sur les ressources Azure d’un client dans le cadre du programme Fournisseur de solutions Cloud en utilisant les différentes options fournies via la fonctionnalité RBAC (contrôle d’accès en fonction du rôle). 
 
-- **Administrateur pour le compte de (AOBO)**  : avec les privilèges [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO), tout utilisateur avec le rôle d’agent d’administration dans le locataire partenaire dispose d’un accès propriétaire RBAC aux abonnements Azure que vous créez dans le programme CSP.
+- **Administrateur pour le compte de (AOBO)**  : avec les privilèges [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO), tout utilisateur ayant le rôle d’agent d’administration dans le locataire de partenaire dispose d’un accès propriétaire RBAC aux abonnements Azure que vous créez dans le programme Fournisseur de solutions Cloud.
 
-- **Azure Lighthouse** : les privilèges AOBO ne permettent pas de créer des groupes distincts qui fonctionnent avec différents clients, ni d’activer des rôles différents pour les groupes ou les utilisateurs. En utilisant Azure Lighthouse, vous pouvez affecter différents groupes à différents clients ou rôles. Sachant que les utilisateurs disposent du niveau d’accès approprié via la gestion de ressources déléguée Azure, vous pouvez réduire le nombre d’utilisateurs ayant le rôle d’agent d’administration (et donc disposer d’un accès AOBO complet). Cela contribue à améliorer la sécurité en limitant les accès inutiles aux ressources de vos clients. Cela permet aussi de gérer plusieurs clients selon les besoins avec une plus grande souplesse. Pour plus d’informations, consultez [Azure Lighthouse et le programme Fournisseur de solutions cloud](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse** : les privilèges AOBO ne permettent pas de créer des groupes distincts qui fonctionnent avec différents clients, ni d’activer des rôles distincts pour les groupes ou les utilisateurs. En utilisant Azure Lighthouse, vous pouvez affecter différents groupes à différents clients ou rôles. Sachant que les utilisateurs disposent du niveau d’accès approprié via la gestion de ressources déléguée Azure, vous pouvez réduire le nombre d’utilisateurs ayant le rôle d’agent d’administration (et donc disposer d’un accès AOBO complet). Cela contribue à améliorer la sécurité en limitant les accès inutiles aux ressources de vos clients. Cela permet aussi de gérer plusieurs clients selon les besoins avec une plus grande souplesse. Pour plus d’informations, consultez [Azure Lighthouse et le programme Fournisseur de solutions cloud](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
 -  **Annuaire ou utilisateurs invités ou [principaux de services](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)**  : vous pouvez déléguer un accès précis aux abonnements CSP en ajoutant des utilisateurs dans l’annuaire du client ou en ajoutant des utilisateurs invités et en attribuant des rôles RBAC spécifiques. 
 

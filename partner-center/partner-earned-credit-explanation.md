@@ -2,22 +2,24 @@
 title: Crédit Partenaires pour les services managés (préversion) | Espace partenaires
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Informations importantes sur le crédit Partenaires
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a20305b72bd3c72fe9aab21b9b7b48c7ce5104e6
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: c21c8b249f184827083fd95279925a048c35a97a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428428"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652579"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Calcul et paiement du crédit Partenaires
 
-Le crédit Partenaires (PEC, partner earned credit) pour les services managés reconnaît et récompense les partenaires qui gère et contrôle les opérations informatiques 24h/24 et 7j/7 de tout ou partie de l’environnent Azure de leurs clients. Par défaut, les partenaires engagés dans le programme Fournisseur de solutions Cloud (CSP) bénéficient de droits d’accès à l’abonnement du client, ce qui leur permet de gérer et de contrôler les opérations 24h/24 et 7j/7 des ressources de l’abonnement. Les autres moyens dont dispose le client pour accorder un accès au partenaire de transactions sont décrits dans la section suivante. Le montant de facturation mensuelle s’entend hors crédit Partenaires. Le partenaire peut consulter le détail du crédit PEC dans le fichier de rapprochement mensuel. Pour connaître les autres moyens dont dispose les clients pour provisionner un accès au partenaire de transactions, consultez [Gérer les abonnements et les ressources dans le plan Azure](azure-plan-manage.md).
+Le crédit Partenaires (PEC, partner earned credit) pour les services managés reconnaît et récompense les partenaires qui gère et contrôle les opérations informatiques 24h/24 et 7j/7 de tout ou partie de l’environnent Azure de leurs clients. Par défaut, les partenaires engagés dans le programme Fournisseur de solutions Cloud bénéficient de droits d’accès à l’abonnement du client, ce qui leur permet de gérer et de contrôler les opérations 24 h/24 et 7 j/7 des ressources de l’abonnement. Les autres moyens dont dispose le client pour accorder un accès au partenaire de transactions sont décrits dans la section suivante. Le montant de facturation mensuelle s’entend hors crédit Partenaires. Le partenaire peut consulter le détail du crédit PEC dans le fichier de rapprochement mensuel. Pour connaître les autres moyens dont dispose les clients pour provisionner un accès au partenaire de transactions, consultez [Gérer les abonnements et les ressources dans le plan Azure](azure-plan-manage.md).
 
 Lire également [Rétablir les privilèges d’administrateur pour les abonnements Azure CSP](revoke-reinstate-csp.md)
 
@@ -25,9 +27,9 @@ Lire également [Rétablir les privilèges d’administrateur pour les abonnemen
 
 - Le partenaire doit avoir un contrat MPN actif et un rôle RBAC valide pour bénéficier d’un crédit Partenaires pour les ressources Azure qu’il gère. 
 
-- Dans le cas des fournisseurs indirects et de leurs revendeurs indirects, le fournisseur indirect est éligible au crédit PEC si le fournisseur indirect, le revendeur indirect ou les deux gèrent et contrôlent les opérations 24h/24 et 7j/7 des ressources Azure du client dans le programme CSP.
+- Dans le cas des fournisseurs indirects et de leurs revendeurs indirects, le fournisseur indirect est éligible au crédit PEC si le fournisseur indirect, le revendeur indirect ou les deux gèrent et contrôlent les opérations 24 h/24 et 7 j/7 des ressources Azure du client dans le programme Fournisseur de solutions Cloud.
 
-- Le crédit PEC est associé à la consommation facturée de l’espace Azure du client relevant du programme CSP géré par le partenaire. Il est réservé uniquement aux partenaires du programme CSP qui sont facturés par Microsoft (fournisseur indirect et partenaire à facturation directe). 
+- Le crédit PEC est associé à la consommation facturée de l’espace Azure du client relevant du programme Fournisseur de solutions Cloud managé par le partenaire. Il est réservé uniquement aux partenaires du programme CSP qui sont facturés par Microsoft (fournisseur indirect et partenaire à facturation directe). 
 
 - Services éligibles : Le crédit Partenaires s’applique aux services figurant dans les **tarifs de la consommation de plan Azure** que les partenaires peuvent exporter à partir de la page des [tarifs du plan Azure](https://partner.microsoft.com/commerce/sales). Notez qu’il existe des exceptions, telles que notamment les produits tiers identifiés comme **Tiers** dans la colonne **Étiquettes** des tarifs de consommation de plan Azure et les réservations de plan Azure ainsi que les produits des tarifs de la Place de marché.
 

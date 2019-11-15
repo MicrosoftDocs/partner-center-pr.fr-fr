@@ -2,27 +2,29 @@
 title: Crédit Partenaires – vue d’ensemble | Espace partenaires
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Quels sont les aspects du crédit Partenaires du plan Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: bce9c2dca086489b019f7d1bffdb34076c0bc2bd
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: a3084d84d2befda1f2e71dc8d15cd1f3542bd974
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595903"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654202"
 ---
 # <a name="partner-earned-credit---overview"></a>Crédit Partenaires – vue d’ensemble
 
-Dans la nouvelle expérience de commerce du programme Fournisseur de solutions Cloud, le crédit Partenaires est un modèle métier qui permet d’appliquer un tarif Azure uniforme simplifié sur l’ensemble des véhicules de commercialisation de Microsoft, tout en soutenant un écosystème de partenaires qui fournit des services managés à valeur ajoutée. Le crédit Partenaires favorise également l’élimination de toute concurrence sur les marges. 
+Dans la nouvelle expérience utilisateur commerciale du programme Fournisseur de solutions Cloud, le crédit Partenaires est un modèle métier qui permet d’appliquer une tarification Azure uniforme simplifiée à l’ensemble des véhicules de commercialisation de Microsoft, tout en soutenant un écosystème de partenaires qui fournit des services managés à valeur ajoutée. Le crédit Partenaires favorise également l’élimination de toute concurrence sur les marges. 
 
 Avec des milliers de services dans Azure et plusieurs options d’achat, la tarification peut s’avérer difficile pour de nombreux clients et partenaires. Dans la nouvelle expérience de commerce pour Azure, nous nous sommes alignés sur les principes d’une tarification globale unique applicable à toutes les motions de nos transactions. Les partenaires fournisseurs de solutions Cloud peuvent proposer Azure aux prix publiés. Cela offre une plus grande transparence à leurs clients et permet d’instaurer la confiance. 
 
 Les besoins liés à la transformation numérique de nos clients modifient la nature de la valeur offerte par les partenaires. De nombreux clients recherchent des partenaires capables de fournir des services dépassant une simple transaction, qui pourront assouplir leur adoption du cloud et les aider à consommer efficacement les services Azure. Ces services Azure sont continus et incluent la surveillance du patrimoine, la gestion des stratégies et de la gouvernance, le réglage précis de l’installation et de la configuration, le support technique et un large éventail d’autres services. 
 
-Ces services exigent d’un partenaire qu’il soit pleinement au fait de l’environnement Azure du client et qu’il dispose d’une gouvernance et d’un contrôle continus et appropriés des ressources sous-jacentes qu’il gère. Un partenaire de facturation qui assure cette activité de gestion des opérations cloud 24 h/24 et 7 j/7 devient éligible pour bénéficier d’un **crédit Partenaires pour services managés** sur le patrimoine Azure des clients, régi et contrôlé par le partenaire. 
+Ces services présentent certaines exigences. Le partenaire doit très bien connaître l’environnement Azure du client. De plus, il doit disposer d’une gouvernance et d’un contrôle continus et appropriés des ressources sous-jacentes qu’il gère. Un partenaire de facturation qui assure cette activité de gestion des opérations cloud 24 h/24 et 7 j/7 devient éligible dans le cadre d’un **crédit Partenaires pour services managés** sur le patrimoine Azure des clients, régi et contrôlé par le partenaire. 
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Avantages du crédit Partenaires pour les partenaires et les clients
@@ -52,13 +54,13 @@ Vos clients se tournent vers vous pour que vous les aidiez à tirer le meilleur 
 
 - **Analyse des journaux et alertes** : Chaque client, périphérique ou utilisateur accédant à un réseau génère des données qui sont consignées dans des journaux. L’analyse des journaux peut offrir des insights plus poussés sur les performances, la sécurité, la consommation des ressources et autres métriques importantes.
 
-- **Analyse de base de données** : Examen de la base de données du client qui aide les partenaires à garantir la haute disponibilité des serveurs de base de données. Ce processus consiste à tenir des journaux consignant la taille, les temps de connexion et les utilisateurs des bases de données, à analyser les tendances d’utilisation et à exploiter ces données pour résoudre les problèmes de manière proactive.
+- **Analyse de base de données** : Vue de la base de données du client, qui aide les partenaires à garantir la haute disponibilité des serveurs de base de données. Ce processus consiste à tenir des journaux consignant la taille, les temps de connexion et les utilisateurs des bases de données, à analyser les tendances d’utilisation et à exploiter ces données pour résoudre les problèmes de manière proactive.
 
-- **Surveillance des performances des applications** : Suivi de bout en bout de tous les aspects d’une application (ou d’une page web). La surveillance des applications implique l’observation de chaque partie (des paniers d’achat aux pages d’inscription) des applications d’un client à la recherche de problèmes de performances, afin de fournir la meilleure expérience utilisateur possible.
+- **Surveillance des performances des applications** : Suivi de bout en bout de tous les aspects d’une application (ou d’une page web). La supervision des applications implique l’observation de chaque partie (des paniers aux pages d’inscription) des applications d’un client à la recherche des problèmes de performances, pour fournir la meilleure expérience utilisateur possible.
 
 Apprenez-en davantage sur la façon de développer votre [portefeuille de services managés avec Azure](https://partner.microsoft.com/campaigns/cloud-playbooks-thank-you).
 
-Ces services impliquent un niveau d’accès approprié des partenaires dans l’environnement Azure du client, et notre système de commerce mesure les détails d’accès pour calculer le crédit Partenaires.  
+Ces services impliquent un niveau d’accès approprié des partenaires dans l’environnement Azure du client. Notre système de commerce mesure ensuite les détails d’accès pour calculer le crédit Partenaires.  
 
 >[!Note]
 >Les clients ont la possibilité de supprimer tout accès accordé aux partenaires. Les partenaires ne doivent pas contraindre les clients à leur attribuer un accès approprié dans le seul but d’obtenir de Microsoft un crédit Partenaires. Le non-respect de cette exigence peut rendre le partenaire inéligible à l’obtention d’un crédit Partenaires.

@@ -1,17 +1,19 @@
 ---
 title: Statut des exigences de sécurité des partenaires | Espace partenaires
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Restez à jour sur la conformité de votre entreprise aux exigences liées à l’authentification multifacteur.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425105"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661117"
 ---
 # <a name="partner-security-requirements-status"></a>Statut des exigences de sécurité des partenaires
 
@@ -31,7 +33,7 @@ Depuis le 1er août 2019, tous les partenaires doivent mettre en œuvre l’au
 Nous voulons nous assurer que chaque utilisateur passe un test MFA pour chaque authentification unique. Cela est possible en procédant de l’une des façons suivantes :
 
 - En implémentant Azure AD Premium pour vérifier l’application de l’authentification multifacteur pour chaque utilisateur
-- En implémentant les stratégies de protection de base
+- Implémentation des [paramètres de sécurité par défaut d’Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - En implémentant une solution tierce pour vérifier l’application de l’authentification multifacteur pour chaque utilisateur
 
 ## <a name="partner-security-requirements-status"></a>Statut des exigences de sécurité des partenaires
@@ -39,7 +41,7 @@ Nous voulons nous assurer que chaque utilisateur passe un test MFA pour chaque a
 Ce rapport peut vous aider à vérifier le statut des exigences de sécurité en vous permettant de voir d’éventuels manquements. Le suivi est régulièrement mis à jour.
 
 >[!NOTE]
->Le rapport sur le statut des exigences de sécurité des partenaires est pris en charge uniquement dans l’Espace partenaires. Il n’est pas disponible dans Microsoft Cloud for US Government ni Microsoft Cloud Allemagne. Nous recommandons vivement que tous les partenaires qui effectuent des transactions par le biais d’un cloud souverain (21Vianet, US Government et Allemagne) adoptent immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas tenus de satisfaire aux nouvelles exigences de sécurité à compter du 1er août 2019. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir. 
+>Le rapport sur le statut des exigences de sécurité des partenaires est pris en charge uniquement dans l’Espace partenaires. Il n’est pas disponible dans Microsoft Cloud for US Government ni Microsoft Cloud Allemagne. Nous recommandons vivement que tous les partenaires qui effectuent des transactions par le biais d’un cloud souverain (21Vianet, US Government et Allemagne) adoptent immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas tenus de satisfaire aux nouvelles exigences de sécurité à compter du 1er août 2019. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
 
 Chaque fois que vos employés se connectent à l’Espace partenaires pour travailler ou, par le biais d’API, recevoir ou envoyer des données via l’Espace partenaires, leur statut de sécurité est testé et suivi. Vos applications et les applications de tout fournisseur de panneau de contrôle sont également incluses dans le suivi du statut de sécurité. Le statut affiché correspond aux 7 derniers jours.
 
@@ -93,15 +95,15 @@ Déterminez si votre implémentation de l’authentification multifacteur actuel
 Déterminez si l’implémentation actuelle applique uniquement l’authentification multifacteur dans des conditions spécifiques. Certaines solutions MFA offrent une flexibilité permettant d’appliquer l’authentification multifacteur uniquement lorsque certaines conditions sont remplies. Par exemple, l’accès de l’utilisateur s’effectue à partir d’un appareil inconnu ou d’un emplacement inconnu. Un utilisateur configuré pour l’authentification multifacteur mais qui n’est pas tenu d’effectuer la vérification MFA lorsqu’il accède à l’Espace partenaires peut donner lieu à des métriques ne correspondant pas à 100 %.
 
 >[!NOTE]
->Pour les partenaires qui ont implémenté MFA à l’aide de la stratégie de base de protection des utilisateurs finaux Azure AD, il est important de noter que la protection des utilisateurs finaux est une stratégie basée sur les risques. Les utilisateurs couverts par cette stratégie sont invités à utiliser l’authentification multifacteur uniquement pendant les tentatives de connexion risquées (p. ex., l’utilisateur se connecte depuis un autre emplacement). En outre, dans le cadre de cette stratégie, les utilisateurs ont jusqu’à 14 jours pour s’inscrire à l’authentification multifacteur. Les utilisateurs qui ne se sont pas inscrits à l’authentification multifacteur ne font pas l’objet d’une vérification MFA au cours de cette période de 14 jours. Par conséquent, il est prévu que les métriques ne représentent pas 100 % pour les partenaires qui ont implémenté l’authentification multifacteur à l’aide de la stratégie de base de protection des utilisateurs finaux Azure AD.
+>Pour les partenaires qui ont implémenté l’authentification MFA à l’aide des paramètres de sécurité par défaut d’Azure AD, il est important de noter que, pour les comptes d’utilisateur non-administrateur, l’authentification multifacteur est appliquée en fonction du risque. Les utilisateurs font l’objet d’une authentification MFA uniquement durant les tentatives de connexion à risques (par exemple, l’utilisateur se connecte depuis un autre emplacement). De plus, les utilisateurs ont jusqu’à 14 jours pour s’inscrire auprès de l’authentification MFA. Les utilisateurs qui ne sont pas inscrits auprès de l’authentification MFA ne font pas l’objet d’une vérification MFA durant cette période de 14 jours. Ainsi, les métriques ne sont probablement pas de 100 % pour les partenaires ayant implémenté l’authentification MFA à l’aide des paramètres de sécurité par défaut d’Azure AD.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>Utilisez-vous une solution MFA tierce ?
 
 Si vous utilisez une solution MFA tierce, identifiez la façon dont vous l’intégrez à Azure AD. En général, il existe deux méthodes, la fédération et les contrôles personnalisés :
 
-* **Fédération des identités** – Quand Azure AD reçoit une demande d’authentification, Azure AD redirige l’utilisateur vers le fournisseur d’identité fédérée pour son authentification. Une fois l’authentification réussie, le fournisseur d’identité fédérée redirige l’utilisateur vers Azure AD avec un jeton SAML. Pour qu’Azure AD reconnaisse que l’utilisateur a effectué la vérification MFA lors de son authentification auprès du fournisseur d’identité fédérée, le jeton SAML doit inclure la revendication *authenticationmethodsreferences* (avec la valeur *multipleauthn* ). Vérifiez si le fournisseur d’identité fédérée prend en charge l’émission d’une telle revendication. Si c’est le cas, vérifiez si le fournisseur d’identité fédérée a été configuré pour cela. Si la revendication est manquante, Azure AD (et par conséquent l’Espace partenaires) ne saura pas que l’utilisateur a effectué la vérification MFA et cela peut donner lieu à une métrique ne correspondant pas à 100 %.
+* **Fédération des identités** - Quand Azure AD reçoit une demande d’authentification, Azure AD redirige l’utilisateur vers le fournisseur d’identité fédérée pour son authentification. Une fois l’authentification réussie, le fournisseur d’identité fédérée redirige l’utilisateur vers Azure AD avec un jeton SAML. Pour qu’Azure AD reconnaisse que l’utilisateur a effectué la vérification MFA lors de son authentification auprès du fournisseur d’identité fédérée, le jeton SAML doit inclure la revendication *authenticationmethodsreferences* (avec la valeur *multipleauthn* ). Vérifiez si le fournisseur d’identité fédérée prend en charge l’émission d’une telle revendication. Si c’est le cas, vérifiez si le fournisseur d’identité fédérée a été configuré pour cela. Si la revendication est manquante, Azure AD (et par conséquent l’Espace partenaires) ne saura pas que l’utilisateur a effectué la vérification MFA et cela peut donner lieu à une métrique ne correspondant pas à 100 %.
 
-* **Contrôle personnalisé** – Le contrôle personnalisé Azure AD ne peut pas être utilisé pour déterminer si un utilisateur a effectué la vérification MFA par le biais d’une solution MFA tierce. Par conséquent, tout utilisateur qui a effectué la vérification MFA via un contrôle personnalisé apparaîtra toujours à Azure AD (et, à son tour, à l’Espace partenaires) comme n’ayant pas effectué la vérification MFA. Dans la mesure du possible, il est recommandé d’adopter la fédération des identités par opposition au contrôle personnalisé lors de l’intégration avec Azure AD.
+* **Contrôle personnalisé** - Le contrôle personnalisé Azure AD ne peut pas être utilisé pour déterminer si un utilisateur a effectué la vérification MFA via une solution MFA tierce. Par conséquent, tout utilisateur qui a effectué la vérification MFA via un contrôle personnalisé apparaîtra toujours à Azure AD (et, à son tour, à l’Espace partenaires) comme n’ayant pas effectué la vérification MFA. Dans la mesure du possible, il est recommandé d’adopter la fédération des identités par opposition au contrôle personnalisé lors de l’intégration avec Azure AD.
 
 ### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>Identifier les utilisateurs qui se sont connectés à l’Espace partenaires sans MFA
 

@@ -2,17 +2,19 @@
 title: Acheter le plan Azure | Espace partenaires
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Acheter plusieurs abonnements Azure dans le plan Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595929"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654162"
 ---
 # <a name="purchase-the-azure-plan"></a>Acheter le plan Azure
 
@@ -65,7 +67,7 @@ Les réservations Azure doivent être associées à un plan Azure actif. Choisis
 >[!Important] 
 >Si le client n’a pas encore de plan Azure actif, sélectionnez Azure pour en ajouter un maintenant. Pour obtenir des instructions supplémentaires, consultez [Acheter des réservations Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Notez que l’étendue de la réservation ne peut actuellement être définie que sur **Partagé**. 
+Notez que l’étendue de la réservation peut uniquement avoir la valeur **Partagé**. 
 
 ![étendue partagée](images/azure/addprods1.png)
 
@@ -84,7 +86,7 @@ Dans la page **Abonnements**, dans la section Basé sur l’utilisation, dévelo
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Ajouter des abonnements et configurer les ressources
 
-Vous devez ajouter les abonnements et configurer les ressources pour votre client sur le portail Azure. Vous pouvez aussi séparer l’environnement de votre client par charge de travail ou projet. Il est possible de gérer les abonnements via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) ou le portail Azure. 
+Vous devez ajouter les abonnements et configurer les ressources pour votre client sur le portail Azure. Vous pouvez aussi séparer l’environnement de votre client par charge de travail ou par projet. Il est possible de gérer les abonnements via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) ou le portail Azure. 
 
 Pour gérer les ressources et les abonnements de votre client, vous avez besoin de privilèges **Administrateur au nom de** (AOBO). Pour savoir comment gérer votre accès, consultez [Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md).
 

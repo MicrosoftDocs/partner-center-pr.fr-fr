@@ -2,17 +2,19 @@
 title: Questions fréquentes (FAQ) sur les nouvelles fonctionnalités de facturation | Espace partenaires
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Vous trouverez ci-dessous les réponses aux questions fréquemment posées à propos de la facturation annuelle et des essais gratuits de l’Espace partenaires.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 6f9e3468cd9030be24d66709f3d36aa63b941d2b
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: db43e1904e5299ca552cb4f294f801e2cb94da24
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318824"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653130"
 ---
 # <a name="faq-about-new-billing-features"></a>Questions fréquentes (FAQ) sur les nouvelles fonctionnalités de facturation
 
@@ -74,7 +76,7 @@ Sections :
 
     - Flexibilité accrue en matière d’options de paiement.
 
-    - Meilleur alignement avec la facturation de vos clients.
+    - Meilleur alignement par rapport à la facturation de vos clients.
 
     - Réduction de l’impact des fluctuations des devises.
 
@@ -82,7 +84,7 @@ Sections :
 
 **Q :** Quelles sont les offres qui proposent l’option de facturation annuelle ?
 
--   **R :** La plupart des abonnements basés sur les licences proposent une facturation mensuelle ou annuelle. Les abonnements basés sur l’utilisation proposent seulement une facturation mensuelle. Vous pouvez consulter les fréquences de facturation disponibles pour chaque offre dans la colonne J du tableau des offres. Vous trouverez le tableau des offres dans la section « Voir les offres et leur tarification » de l’Espace partenaires. .
+-   **R :** La plupart des abonnements basés sur les licences proposent une facturation mensuelle ou annuelle. Les abonnements basés sur l’utilisation proposent seulement une facturation mensuelle. Vous pouvez consulter les fréquences de facturation disponibles pour chaque offre dans la colonne J du tableau des offres. Vous trouverez la matrice des offres dans la section « Voir les offres et les prix » de l’Espace partenaires. .
 
 **Q :** S’agit-il d’une facturation annuelle par abonnement ou par licence ?       
 
@@ -130,7 +132,7 @@ Sections :
 
 **Q :** Un client peut-il avoir plusieurs abonnements pour une même offre, chacun avec une fréquence de facturation différente ?    
 
--   **R :** Cela dépend de l’offre. Certaines offres sont limitées à un seul abonnement par client. Si l’offre n’est pas limitée, un client peut avoir plusieurs abonnements d’une même offre avec des fréquences de facturation différentes. Vous trouverez les détails des limites et restrictions de chaque offre dans la colonne I du tableau des offres. Vous trouverez le tableau des offres dans la section « Voir les offres et les prix » de l’Espace partenaires.
+-   **R :** Cela dépend de l’offre. Certaines offres sont limitées à un seul abonnement par client. Si l’offre n’est pas limitée, un client peut avoir plusieurs abonnements d’une même offre avec des fréquences de facturation différentes. Vous trouverez les détails des limites et restrictions de chaque offre dans la colonne I du tableau des offres. Vous trouverez la matrice des offres dans la section « Voir les offres et les prix » de l’Espace partenaires.
 
 <a href="" id="changingyoursubscription"></a>**Modification de votre abonnement**
 
@@ -199,7 +201,7 @@ Sections :
 
 **Q :** Comment apparaît l’achat, la modification ou l’annulation d’un abonnement annuel dans la colonne P des fichiers d’utilisation ?
 
--   **R :** Les frais d’achat initiaux apparaissent en tant que « frais au prorata à l’achat ». Les modifications de licence qui font l’objet d’un crédit et d’une refacturation apparaissent en tant que « Instance de cycle au prorata ». Les crédits d’annulation apparaissent en tant que « Frais d’annulation ».
+-   **R :** Les frais d’achat initiaux apparaissent sous forme de « Frais au prorata à l’achat ». Les changements apportés à la licence, qui font l’objet d’un crédit et d’une refacturation apparaissent sous forme d’« Instance de cycle au prorata ». Les crédits d’annulation s’affichent sous forme de « Frais d’annulation ».
 
 **Q :** Quand un abonnement annuel est annulé, comment cela apparaît-il sur le fichier de rapprochement ?   
 
@@ -261,15 +263,15 @@ Sections :
 
     Avec une facturation annuelle, cela se présenterait comme suit :
 
-    - Achat par le partenaire d’un abonnement le 1er janvier = création d’une ligne de facturation de frais pour la période de service du 01/01 au 31/12.
-    - Suspension de l’abonnement le 25 janvier = création d’une ligne de facturation de crédit pour la période de service du 01/01 au 31/12.
-    - Réactivation le 29 janvier = création d’une ligne de facturation de frais pour la période de service du 29/01 au 31/12.
+    - Achat par le partenaire d’un abonnement le 1er janvier = création d’une ligne de facturation de frais pour la période de service du 01/01 au 31/12.
+    - Suspension de l’abonnement le 25 janvier = création d’une ligne de facturation de crédit pour la période de service du 01/01 au 31/12.
+    - Réactivation le 29 janvier = création d’une ligne de facturation de frais pour la période de service du 29/01 au 31/12.
 
     Avec une facturation mensuelle, cela se présenterait comme suit :
 
-    - Achat par le partenaire d’un abonnement le 1er janvier = création d’une ligne de facturation de frais pour la période de service du 01/01 au 31/01.
-    - Suspension de l’abonnement le 25 janvier = création d’une ligne de facturation de crédit pour la période de service du 01/01 au 31/01.
-    - Réactivation le 29 janvier = création d’une ligne de facturation de frais pour la période de service du 29/01 au 31/01.
+    - Achat par le partenaire d’un abonnement le 1er janvier = création d’une ligne de facturation de frais pour la période de service du 01/01 au 31/1.
+    - Suspension de l’abonnement le 25 janvier = création d’une ligne de facturation de crédit pour la période de service du 01/01 au 31/1.
+    - Réactivation le 29 janvier = création d’une ligne de facturation de frais pour la période de service du 29/01 au 31/1.
 
 
 
@@ -277,7 +279,7 @@ Sections :
 
 **Q1 :** En quoi consistent les essais gratuits ?
 
--   **R :** Vous pouvez proposer à vos clients un essai gratuit de certains produits pendant 30 jours. Cela leur permet d'évaluer le produit avant de l'acheter. Des essais gratuits sont proposés pour les produits suivants : 
+-   **R :** Vous pouvez proposer à vos clients un essai gratuit de certains produits pendant 30 jours. Cela leur permet d’évaluer le produit avant de l’acheter. Des essais gratuits sont proposés pour les produits suivants : 
 
     - Office 365 Business Premium (depuis le 17 octobre 2017)
     - Office 365 E3 (depuis le 17 octobre 2017)
@@ -350,7 +352,7 @@ Sections :
 
 **Q17 :** Serai-je averti de l’arrivée à expiration des essais gratuits ?
 
--   **R :** Non. Vous pouvez suivre les dates d’expiration à venir en utilisant la vue des clients dans l’Espace partenaires ou en interrogeant l’API. Il est recommandé de contrôler fréquemment ces dates afin de pouvoir prendre les mesures de suivi appropriées auprès des clients à l’approche du moment où ils doivent prendre une décision.
+-   **R :** Non. Vous pouvez suivre les dates d’expiration à venir en utilisant la vue des clients dans l’Espace partenaires ou en interrogeant l’API. Il est recommandé de superviser fréquemment ces dates pour pouvoir prendre les mesures de suivi appropriées auprès des clients, à l’approche du moment où ils doivent prendre une décision.
 
 **Q18 :** Si un client bénéficie déjà d’un essai gratuit pour une offre, peut-il également utiliser un autre essai pour une autre offre ? 
 
@@ -382,7 +384,7 @@ Sections :
 
 ## <a href="" id="billingalignmentfaq"></a>Alignement de la facturation - Fin de la période gratuite
 
-À compter du 21 février 2018, le programme Fournisseur de solutions Cloud débute la mise en œuvre de « l’alignement des dates de facturation » pour les nouveaux abonnements à fréquence de facturation mensuelle. Cet « ajustement des dates de facturation » donnera une plus grande flexibilité aux partenaires ainsi qu'une meilleure prévision de leurs ventes et de leur facturation. Il permettra en outre un meilleure approvisionnement et une meilleure gestion des abonnements des clients. 
+À partir du 21 février 2018, le programme Fournisseur de solutions Cloud débute l’implémentation de « l’alignement des dates de facturation » pour les nouveaux abonnements à périodicité de facturation mensuelle. Cet « ajustement des dates de facturation » donnera une plus grande flexibilité aux partenaires ainsi qu’une meilleure prévision de leurs ventes et de leur facturation. De plus, cela permettra un meilleur provisionnement et une meilleure gestion des abonnements des clients. 
 
 **MISE À JOUR DU 23 FÉVRIER :**  Nous avions précédemment annoncé la date de mise en œuvre du 20 février, mais en réalité, notre implémentation a été légèrement différée et répartie par catégorie de produit.  Passez en revue le tableau ci-dessous pour connaître la date d’implémentation par catégorie de produit. 
 
@@ -393,9 +395,9 @@ Sections :
 |Office 365 Chine   |23 février   |
 |Dynamics/Intune   |23 février   |
 
-Les abonnements achetés avant la date d’implémentation (voir le tableau ci-dessus) bénéficient d’une période gratuite entre la date d’achat et la date de facturation du partenaire. Les abonnements achetés après la date de mise en œuvre ne bénéficieront plus de la période de gratuité. La période payante de douze mois démarrera (s'ajustera) à la date d'achat au lieu de la date de facturation du partenaire. Les partenaires ne verront plus la ligne « Facturation 0 » qui représente la période de gratuité sur le fichier de rapprochement. Aucune modification n'est apportée aux API de facturation ou aux primes incitatives.  Les partenaires doivent informer leurs équipes de vente et de gestion des comptes de cette nouvelle logique de facturation et veiller à ce que les opérations soient ajustées en fonction des besoins.  
+Les abonnements achetés avant la date d’implémentation (voir le tableau ci-dessus) bénéficient d’une période gratuite entre la date d’achat et la date de facturation du partenaire. Les abonnements achetés après la date de mise en œuvre ne bénéficieront plus de la période de gratuité. La période payant de douze mois démarrera (s'ajustera) à la date d'achat en fonction de la facturation du partenaire. Les partenaires ne verront plus la ligne « Facturation 0 » qui représente la période de gratuité sur le fichier de rapprochement. Aucune modification n’est apportée aux API de facturation ou aux primes incitatives.  Les partenaires doivent informer leurs équipes de vente et de gestion des comptes de cette nouvelle logique de facturation et veiller à ce que les opérations soient ajustées en fonction des besoins.  
 
-Avant l’implémentation de l’alignement des dates de facturation, la facture était basée sur la date anniversaire de facturation du partenaire, c’est-à-dire la date d’inscription du partenaire au programme Fournisseur de solutions Cloud, et non pas sur la date anniversaire de l’abonnement du client, c’est-à-dire la date d’achat de l’abonnement par le client. Après la date d’implémentation, les partenaires seront facturés à la date anniversaire de leur abonnement, ce qui élimine cette période de gratuité.  Les partenaires continueront de recevoir des factures à leur date anniversaire de facturation, mais la date d’effet de la facture correspondra à la date anniversaire d’abonnement du client. 
+Avant l’implémentation de l’alignement des dates de facturation, notre facture était basée sur la date anniversaire de facturation du partenaire, c’est-à-dire la date d’inscription du partenaire au programme Fournisseur de solutions Cloud, et non sur la date anniversaire de l’abonnement du client, c’est-à-dire la date d’achat de l’abonnement par le client. Après la date d’implémentation, les partenaires seront facturés à la date anniversaire de leur abonnement, ce qui élimine cette période de gratuité.  Les partenaires continueront de recevoir des factures à leur date anniversaire de facturation, mais la date d’effet de la facture correspondra à la date anniversaire d’abonnement du client. 
 
 Les abonnements qui se trouvent dans la période gratuite à la date d’implémentation ne seront pas facturés entre la date d’achat et la date de facturation du partenaire. En outre, le 1er mois de la période payante de 12 mois ne sera pas facturé. Si vous utilisez un fichier de rapprochement pour vérification, n’oubliez pas que la facture de ce premier mois n’y sera plus visible.  
 
@@ -485,7 +487,7 @@ Le fichier de rapprochement du 15 juin contiendra uniquement les lignes de fact
 
 La date de facturation du partenaire est le 15e jour du mois. Le 1er juin 2018, le partenaire achète un nouvel abonnement. Le prix de l’abonnement est défini à 30 $ par licence par mois. Le 5 juin 2018, le partenaire suspend l’abonnement. Le 10 juin 2018, le partenaire réactive l’abonnement. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
-- Frais de 30 $ pour la période de service du 1er juin au 30 juin. 
+- Frais de 30 $ pour la période de service du 1 juin au 30 juin. 
 - Crédit d’annulation de - 30 $ pour la période de service du 5 juin au 30 juin. Le crédit n’est pas calculé au prorata, car l’abonnement a été suspendu au cours des 30 premiers jours. 
 - Frais de 30 $ pour la période de service du 10 juin au 30 juin. Les frais ne sont pas calculés au prorata, car l’abonnement a été réactivé au cours des 30 premiers jours. 
 
@@ -501,15 +503,15 @@ Notez que quand un abonnement est suspendu et réactivé, la date de renouvellem
 
 La date de facturation du partenaire est le 15e jour du mois. Le 1er juin 2018, le partenaire achète un nouvel abonnement. Le prix de l’abonnement est défini à 30 $ par licence par mois. Le 20 juin 2018, le partenaire suspend l’abonnement. Le 25 juin 2018, le partenaire réactive l’abonnement. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
-- Frais de 30 $ pour la période de service du 1er juin au 30 juin. 
+- Frais de 30 $ pour la période de service du 1 juin au 30 juin. 
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Frais au prorata à l’achat |
 
 Le fichier de rapprochement du 15 juillet contiendra les lignes de facturation suivantes :
-- Crédit d’annulation de - 30 $ pour la période de service du 20 juin au 30 juin. Le crédit n’est pas calculé au prorata, car l’abonnement a été suspendu au cours des 30 premiers jours.
-- Frais de 30 $ pour la période de service du 25 juin au 30 juin. Les frais ne sont pas calculés au prorata, car l’abonnement a été réactivé au cours des 30 premiers jours.
+- Crédit d’annulation de -30 USD pour la période de service du 20 juin au 30 juin. Le crédit n’est pas calculé au prorata, car l’abonnement a été suspendu au cours des 30 premiers jours.
+- Frais de 30 USD pour la période de service du 25 juin au 30 juin. Les frais ne sont pas calculés au prorata, car l’abonnement a été réactivé au cours des 30 premiers jours.
 - Frais de 30 $ pour la période de service du 1er juillet au 31 juillet.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
@@ -522,18 +524,18 @@ Le fichier de rapprochement du 15 juillet contiendra les lignes de facturation 
 
 La date de facturation du partenaire est le 15e jour du mois. Le 1er juin 2018, le partenaire achète un nouvel abonnement. Le prix de l’abonnement est défini à 30 $ par licence par mois. Le 20 juin 2018, le partenaire suspend l’abonnement. Le 25 juin 2018, le partenaire réactive l’abonnement avec deux licences. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
-- Frais de 30 $ pour la période de service du 1er juin au 30 juin. 
+- Frais de 30 $ pour la période de service du 1 juin au 30 juin. 
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Frais au prorata à l’achat |
 
 Le fichier de rapprochement du 15 juillet contiendra les lignes de facturation suivantes :
-- Crédit d’annulation de - 30 $ pour la période de service du 20 juin au 30 juin. Le crédit n’est pas calculé au prorata, car l’abonnement a été suspendu au cours des 30 premiers jours.
-- Frais de 30 $ pour la période de service du 25 juin au 30 juin. Les frais de réactivation ne sont pas calculés au prorata, car l’abonnement a été réactivé au cours des 30 premiers jours. Les frais sont également basés sur la quantité de licences d’origine (1).
-- Crédit de - 6 $ pour la période de service du 25 juin au 30 juin. Des frais de réactivation ne vous ont été facturés que pour 1 licence au cours de la période de service allant du 25 au 30 juin, où vous aviez 2 licences. Le crédit de -6 $ annule les frais de service incorrects facturés pour la période du 25 au 30 juin.
-- Refacturation au prorata de 12 $ pour la période de service du 25 juin au 30 juin. Le partenaire a 2 licences pendant cette période de service. Le prix unitaire est calculé comme suit : (30/30)*6*2 = 12 $.
-- Frais de 60 $ pour la période de service du 1er juillet au 31 juillet.
+- Crédit d’annulation de -30 USD pour la période de service du 20 juin au 30 juin. Le crédit n’est pas calculé au prorata, car l’abonnement a été suspendu au cours des 30 premiers jours.
+- Frais de 30 USD pour la période de service du 25 juin au 30 juin. Les frais de réactivation ne sont pas calculés au prorata, car l’abonnement a été réactivé au cours des 30 premiers jours. Les frais sont également basés sur la quantité de licences d’origine (1).
+- Crédit de -6 USD pour la période de service du 25 juin au 30 juin. Des frais de réactivation vous ont été facturés uniquement pour 1 licence au cours de la période de service allant du 25 au 30 juin, où vous aviez 2 licences. Le crédit de -6 $ annule les frais de service incorrects facturés pour la période du 25 au 30 juin.
+- Refacturation au prorata de 12 USD pour la période de service du 25 juin au 30 juin. Le partenaire a 2 licences pendant cette période de service. Le prix unitaire est calculé comme suit : (30/30)*6*2 = 12 $.
+- Frais de 60 USD pour la période de service du 1er juillet au 31 juillet.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
@@ -564,7 +566,7 @@ Le 10 juillet, le partenaire réactive l’abonnement. Le fichier de rapprochem
 |10/07/2018   |31/07/2018   |21,30 $   |1   |21,30 $   |Frais d’activation |
 
 Le fichier de rapprochement du 15 août contiendra les lignes de facturation suivantes :
-- Frais de 30 $ pour la période de service du 1er août au 31 août.
+- Frais de 30 USD pour la période de service du 1er août au 31 août.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -577,7 +579,7 @@ La date de facturation du partenaire est le 15e jour du mois. Le 1er juin, le 
 
 Le fichier de rapprochement du 15 juin contiendra uniquement les lignes de facturation suivantes :
 
-- Frais de 30 $ pour la période de service du 1er juin au 30 juin.
+- Frais de 30 $ pour la période de service du 1 juin au 30 juin.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|---------|
@@ -586,7 +588,7 @@ Le fichier de rapprochement du 15 juin contiendra uniquement les lignes de fact
 Le partenaire suspend l’abonnement le 5 juillet mais le réactive le 15 juillet. Le fichier de rapprochement du 15 juillet contiendra les lignes de facturation suivantes :
 
 - Frais de 30 $ pour la période de service du 1er juillet au 31 juillet.
-- Crédit d’annulation de - 26,14 $ pour la période de service du 5 juillet au 31 juillet. Les annulations effectuées après les 30 jours qui suivent la date d’achat donnent lieu à un crédit calculé au prorata. Calcul = (prix mensuel/jours dans la période de service totale) x jours dans la période de service au prorata x quantité de licences x (- 1) = (30/31) x 27 x 1 x (- 1) = - 26,14.
+- Crédit d’annulation de -26,14 USD pour la période de service du 5 juillet au 31 juillet. Les annulations effectuées après les 30 jours qui suivent la date d’achat donnent lieu à un crédit calculé au prorata. Calcul = (prix mensuel/jours dans la période de service totale) x jours dans la période de service au prorata x quantité de licences x (- 1) = (30/31) x 27 x 1 x (- 1) = - 26,14.
 - Frais de réactivation de 16,45 $ pour la période de service du 15 juillet au 31 juillet. Les réactivations effectuées après les 30 jours qui suivent la date d’achat donnent lieu à des frais calculés au prorata. Calcul = (30/31) x 17 x 1 = 16,45.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
@@ -596,7 +598,7 @@ Le partenaire suspend l’abonnement le 5 juillet mais le réactive le 15 juil
 |15/07/2018   |31/07/2018   |- 16,45 $   |1   |16,45 $|Frais d’activation |
 
 Le fichier de rapprochement du 15 août contient les indications suivantes :
-- Frais de 30 $ pour la période de service du 1er août au 31 août.
+- Frais de 30 USD pour la période de service du 1er août au 31 août.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -606,7 +608,7 @@ Le fichier de rapprochement du 15 août contient les indications suivantes :
 
 La date de facturation du partenaire est le 15. Le 1er juin, le partenaire achète un nouvel abonnement à 30 dollars par mois. Le 10 juin, le partenaire augmente la quantité de licences pour passer de 1 à 2 licences. Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
-- Frais de 30 $ pour la période de service du 1er juin au 30 juin. Même si le partenaire a augmenté le nombre de licences avant la date de facturation du 15 juin, le système de facturation Microsoft ne prend pas en compte cette modification avant le jour anniversaire de l’abonnement, le 1er juillet.
+- Frais de 30 $ pour la période de service du 1 juin au 30 juin. Même si le partenaire a augmenté le nombre de licences avant la date de facturation du 15 juin, le système de facturation Microsoft ne prend pas en compte cette modification avant le jour anniversaire de l’abonnement, le 1er juillet.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -617,9 +619,9 @@ Le 1er juillet, le jour anniversaire de l’abonnement, le système de facturat
 Le fichier de rapprochement du 15 juillet contient les indications suivantes :
 
 - Crédit de - 30 $ pour la période de service du 1er au 30 juin.
-- Refacturation au prorata de 9 $ pour la période de service du 1 juin au 9 juin. Il s’agit de la période correspondant au moment où le client avait 1 licence. Calcul = (prix mensuel/total des jours dans la période de service) x jours dans la période de service au prorata x nombre de licences = (30/30) x 9 x 1 = 9.
+- Refacturation au prorata de 9 USD pour la période de service du 1 juin au 9 juin. Il s’agit de la période correspondant au moment où le client avait 1 licence. Calcul = (prix mensuel/total des jours dans la période de service) x jours dans la période de service au prorata x nombre de licences = (30/30) x 9 x 1 = 9.
 - Refacturation au prorata de 42 $ pour la période de service du 10 juin au 30 juin. Il s’agit de la période correspondant au moment où le client avait 2 licence. Calcul = (30/30) x 21 x 2 = 42.
-- Frais de 60 $ pour la période de service du 1er juillet au 31 juillet.
+- Frais de 60 USD pour la période de service du 1er juillet au 31 juillet.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -636,8 +638,8 @@ Le 10 juin, le partenaire achète un abonnement au module complémentaire d’u
 
 Le fichier de rapprochement du 15 juin contiendra les lignes de facturation suivantes :
 
-- Frais de 30 $ pour la période de service du 1er juin au 30 juin. Ceci concerne l’abonnement de base.
-- Frais au prorata de 3,50 $ pour la période de service du 10 juin au 30 juin. Ceci concerne l’abonnement au module complémentaire. 
+- Frais de 30 $ pour la période de service du 1 juin au 30 juin. Ceci concerne l’abonnement de base.
+- Frais au prorata de 3,50 USD pour la période de service du 10 juin au 30 juin. Ceci concerne l’abonnement au module complémentaire. 
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -647,7 +649,7 @@ Le fichier de rapprochement du 15 juin contiendra les lignes de facturation sui
 Le fichier de rapprochement du 15 juillet contiendra les lignes de facturation suivantes :
 
 - Frais de 30 $ pour la période de service du 1er juillet au 31 juillet. Ceci concerne l’abonnement de base.
-- Frais de 5 $ pour la période de service du 1er juillet au 31 juillet. Ceci concerne l’abonnement au module complémentaire.
+- Frais de 5 USD pour la période de service du 1er juillet au 31 juillet. Ceci concerne l’abonnement au module complémentaire.
 
 |**Début de facturation**   |**Fin de facturation**   |**Prix unitaire**   |**Quantité**   |**Montant**   |**Type de facturation** |
 |-----------------|:-------------|:----------------|:------------|:------|-------|

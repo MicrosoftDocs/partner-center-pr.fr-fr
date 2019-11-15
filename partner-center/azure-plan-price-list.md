@@ -2,43 +2,39 @@
 title: Tarifs du plan Azure | Espace partenaires
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comment afficher les tarifs des abonnements dans le cadre du plan Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 00649bb67de199409e1c36457dbaf5a915c8354c
+ms.sourcegitcommit: e55fd7b82b90683ac34ab60c284fd6abacbde568
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428548"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73710135"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure 
 
-Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur de solutions cloud sont publiés dans l’Espace partenaires. Les tarifs sont délivrés de façon dynamique dans un fichier précis en temps réel et les prix sont affichés en USD uniquement. La facturation, toutefois, s’effectue dans la devise prise en charge correspondant à la zone monétaire du client. Pour plus d’informations sur la facturation dans la zone monétaire du client, consultez [Plan Azure – facturation ](azure-plan-billing.md).
+Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur de solutions cloud sont publiés dans l’Espace partenaires. Les tarifs sont délivrés de façon dynamique dans un fichier précis en temps réel et les prix sont affichés en USD uniquement. Toutefois, la facturation s’effectue dans la devise prise en charge correspondant à la zone monétaire du client. Pour plus d’informations sur la facturation dans la zone monétaire du client, consultez [Plan Azure – facturation ](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Consulter les tarifs des abonnements dans le cadre des tarifs du plan Azure
 
 1. Dans le menu de l’Espace partenaires sur la gauche, sélectionnez **Vendre** puis **Place de marché**.
 
-2. En regard de **Type d’exportation**, sélectionnez **Tarification de la consommation de plan Azure**.
+2. Dans la page de tarification du plan Azure, sélectionnez le pays pour lequel vous souhaitez obtenir la tarification.
 
-3. En regard de **Tarification pour la date**, sélectionnez la date de votre choix, par exemple, **Actuelle**. Remarque : Vous pouvez également sélectionner **Taux Fx** pour exporter les taux de change actuels.
+3. En regard de **Type d’exportation**, sélectionnez **Tarification de la consommation de plan Azure**, **Tarification des réservations de plan Azure** ou **Taux FX**. Remarque: Les **Taux de change** ne sont pas spécifiques à un pays.
 
-![tarification azure 2](images/azure/pricelist2.jpg)
-
-4. Sous **Place de marché**, sélectionnez le **type** et la **catégorie** de produit, ou recherchez un produit. Les produits disponibles correspondant à votre recherche sont affichés.
-
-![pricing](images/azure/Azurepricelist1.jpg)
-
-5. Ensuite, sélectionnez **Exporter les tarifs du plan Azure** pour télécharger les prix du ou des produits que vous sélectionnez dans le cadre du plan Azure.
+3. En regard de **Tarification pour la date**, sélectionnez la date de votre choix, par exemple, **Actuelle**. 
 
 
-![exporter les tarifs](images/azure/pricelist1.png)
+![spécifique au pays](images/azure/pricingnew.png)
 
-
+Remarque: Vous pouvez exporter deux tarifs différents : les tarifs de plan Azure et les tarifs tiers de la Place de marché. 
 
 ## <a name="azure-price-list-specifics"></a>Détail des tarifs Azure
 
@@ -50,13 +46,13 @@ Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur
 
     - **Tarification du jour** : Elle comprend tous les compteurs et la tarification du 1er du mois jusqu’à la date actuelle du mois en cours. Elle comprend les nouveaux prix, les prix modifiés et les prix supprimés. Tous les prix ont des dates de début et de fin effectives qui indiquent s’ils sont nouveaux ou supprimés.
 
-    - **Tarification du mois précédent** : Les téléchargements de chaque type de ressource sont effectués par mois. Pour les fichiers des prix, cela inclut tous les compteurs qui étaient disponibles au cours de ce mois. Si un nouveau compteur est apparu au milieu du mois, il apparaît comme un compteur avec une date de prise d’effet reflétant sa disponibilité. Il en va de même pour les prix qui sont abandonnés, affichés avec une date de fin effective indiquant le moment où ils ne sont plus disponibles.
+    - **Tarification du mois précédent** : Les téléchargements de chaque type de ressource sont effectués par mois. Pour les fichiers des prix, cela inclut tous les compteurs qui étaient disponibles au cours de ce mois. Si un nouveau compteur est apparu au milieu du mois, il apparaît sous forme de compteur avec une date de prise d’effet reflétant sa disponibilité. Il en va de même pour les prix qui sont abandonnés, affichés avec une date de fin effective indiquant le moment où ils ne sont plus disponibles.
 
     - **Taux Fx** : Les taux de change sont disponibles au téléchargement le jour avant le 1er du mois, à 18h00 PST. Par exemple, si vous voulez les taux de novembre, téléchargez-les le 31 octobre. Les taux de change du mois précédent sont également disponibles.
 
 - Les prix figurant dans les tarifs sont les prix directs. Certains partenaires peuvent être éligibles aux crédits Partenaires. Pour obtenir des informations sur la façon de calculer le crédit Partenaires, lisez [Calcul et paiement du crédit Partenaires](partner-earned-credit-explanation.md).
 
-- **Services éligibles** : Le crédit Partenaires s’applique aux services figurant dans les **tarifs de la consommation de plan Azure** que les partenaires peuvent exporter à partir de la page des [tarifs du plan Azure](https://partner.microsoft.com/commerce/sales). Notez qu’il existe des exceptions, telles que notamment les produits tiers identifiés comme « Tiers » dans la colonne Étiquettes des tarifs de consommation de plan Azure et les réservations de plan Azure.
+- **Services éligibles** : Le crédit Partenaires s’applique aux services figurant dans les **tarifs de la consommation de plan Azure** que les partenaires peuvent exporter à partir de la page des [tarifs du plan Azure](https://partner.microsoft.com/commerce/sales). Notez qu’il existe des exceptions incluant, sans toutefois s’y limiter, les produits tiers identifiés en tant que « Tiers » dans la colonne Étiquettes des tarifs de consommation de plan Azure et les réservations de plan Azure.
 
 ## <a name="price-list-data"></a>Données des tarifs
 

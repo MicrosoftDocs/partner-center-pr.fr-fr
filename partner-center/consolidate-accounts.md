@@ -2,22 +2,24 @@
 title: Consolider vos comptes d’entreprise | Espace partenaires
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Lorsque votre entreprise migre vers l’Espace partenaires, tous vos comptes sont consolidés en un seul compte
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9aaab99a89fea5239b2296a8374b1d03515445d5
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 6cf0af27145de2107fc7904e9a4cbd602a539f50
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318671"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653627"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolider vos comptes d’entreprise
 
-Dans PMC, votre entreprise avait peut-être un grand nombre de comptes et d’emplacements. Chaque emplacement avait son propre compte. Lorsque vous migrez vers l’Espace partenaires, tous les comptes et emplacements sont consolidés en un compte global principal avec plusieurs emplacements. Vos ID, avantages, compétences et achats MPN seront aussi migrés, sans aucune perte de données. 
+Dans PMC, votre entreprise avait peut-être un grand nombre de comptes et d’emplacements. Chaque emplacement avait son propre compte. Lorsque vous migrez vers l’Espace partenaires, tous les comptes et emplacements sont consolidés en un compte global principal avec plusieurs emplacements. Vos ID, avantages, compétences et achats MPN font eux aussi l’objet d’une migration, sans aucune perte de données. 
 
 Lorsque vous vous connectez à l’Espace partenaires pour la première fois, vous êtes ajouté en tant qu’administrateur MPN pour votre compte Espace partenaires afin de pouvoir administrer le compte, ajouter des utilisateurs, attribuer des autorisations, etc. 
 

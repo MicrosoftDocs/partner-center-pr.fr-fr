@@ -2,17 +2,19 @@
 title: Rétablir les privilèges d’administrateur pour les abonnements Azure CSP | Espace partenaires
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Ce document explique comment aider les clients à rétablir les privilèges d’administrateur d’un partenaire
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 51f19724751b296789a1d5367d9892b21cab4f09
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73433762"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651702"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Rétablir les privilèges d’administrateur pour les abonnements Azure CSP  
 
@@ -29,7 +31,7 @@ Il existe deux niveaux de privilèges d’administrateur pour Azure dans CSP.
 
 **Privilèges d’administrateur au niveau du locataire** (**privilèges d’administrateur délégués**) : les partenaires CSP obtiennent ces privilèges quand une relation est établie entre le revendeur CSP et les clients. Cela donne aux partenaires CSP un accès aux locataires de leurs clients, ce qui leur permet d’effectuer des fonctions d’administration telles que l’ajout/la gestion d’utilisateurs, la réinitialisation des mots de passe et la gestion des licences utilisateur. 
 
-**Privilèges d’administrateur au niveau de l’abonnement** : les partenaires CSP obtiennent ces privilèges lors de la création d’abonnements Azure CSP pour leurs clients. Cela donne aux partenaires CSP un accès complet à ces abonnements, ce qui leur permet de provisionner et de gérer des ressources Azure. 
+**Privilèges d’administrateur au niveau de l’abonnement** : les partenaires CSP obtiennent ces privilèges durant la création d’abonnements Azure CSP pour leurs clients. Cela donne aux partenaires CSP un accès complet à ces abonnements, ce qui leur permet de provisionner et de gérer des ressources Azure. 
 
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>Rétablir les privilèges d’administrateur des partenaires CSP

@@ -2,16 +2,18 @@
 title: S’inscrire au programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comprendre les différents modèles de vente dans le programme CSP et déterminer celui qui convient le mieux à votre entreprise
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318845"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653201"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
@@ -19,9 +21,9 @@ ms.locfileid: "71318845"
 
 - Programme Fournisseur de solutions Cloud  
 
-## <a name="get-started"></a>Démarrer
+## <a name="get-started"></a>Prise en main
 
-La demande en croissance rapide de services et solutions cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne veulent pas avoir à gérer plusieurs fournisseurs ou n’ont pas mis en place d’infrastructure de gestion des relations clients de bout en bout peuvent s’inscrire au programme Fournisseur de solutions Cloud (CSP) de Microsoft en tant que revendeurs indirects.
+La demande en croissance rapide de services et solutions cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne souhaitent pas avoir à gérer plusieurs fournisseurs ou qui n’ont pas mis en place d’infrastructure de gestion des relations client de bout en bout peuvent s’inscrire au programme Fournisseur de solutions Cloud (CSP) de Microsoft en tant que revendeurs indirects.
 
 Pour vous inscrire au programme Fournisseur de solutions Cloud, vous devez tout d’abord disposer d’un ID MPN. Vous n’en possédez pas ? Inscrivez-vous [ici](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
@@ -30,7 +32,7 @@ Pour finaliser la demande d’inscription au programme CSP, vous avez besoin de 
 1. Connectez-vous à l’Espace partenaires avec votre adresse e-mail professionnelle (c’est-à-dire, vos informations d’identification de locataire Azure AD).
 
 2. Créez votre profil de partenaire et associez-y votre ID MPN.
-L’examen et la vérification des informations que vous avez fournies peuvent prendre plusieurs jours. Nous vous enverrons un e-mail quand nous aurons terminé cet examen.
+L’examen et la vérification des informations que vous avez fournies peuvent nous prendre plusieurs jours. Nous vous enverrons un e-mail lorsque nous en aurons terminé.
 
 3. Une fois vos informations vérifiées, acceptez les termes du contrat de revendeur indirect Microsoft.
 
@@ -41,7 +43,7 @@ L’examen et la vérification des informations que vous avez fournies peuvent p
 
 Si vous vous inscrivez au programme CSP en tant que revendeur indirect, vous n’achèterez pas directement de produits auprès de la société Microsoft ni ne serez facturé par celle-ci. De fait, vous travaillerez avec des fournisseurs indirects (aussi appelés distributeurs) qui traitent directement avec Microsoft.
 
-En établissant un partenariat avec un fournisseur indirect, vous n’avez pas besoin de disposer d’une infrastructure pour accéder au marché ou pour acheter directement auprès de Microsoft ; vous collaborez avec un fournisseur de technologies expérimenté pour mettre toutes vos chances de votre côté. Dans le modèle fournisseur-revendeur, le fournisseur achète à des services et solutions cloud à Microsoft et s’en remet à vous pour le déploiement et le service après-vente des produits.
+En établissant un partenariat avec un fournisseur indirect, vous n’avez pas besoin de disposer d’une infrastructure pour accéder au marché ou pour acheter directement auprès de Microsoft ; vous collaborez avec un fournisseur de technologies expérimenté pour mettre toutes les chances de votre côté. Dans le modèle fournisseur-revendeur, le fournisseur achète à des services et solutions cloud à Microsoft et s’en remet à vous pour le déploiement et le service après-vente des produits.
 
 Les divers fournisseurs indirects proposent différents types de support et de services. Vous devez donc évaluer les fournisseurs de votre région pour déterminer ceux qui répondent le mieux à vos besoins. En règle générale, la plupart des fournisseurs proposent les services suivants :
 
@@ -53,13 +55,13 @@ Les divers fournisseurs indirects proposent différents types de support et de s
 
 Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/partner/find-a-provider) pour en trouver un.
 
-Pour plus d’informations sur les conditions à remplir pour participer au programme CSP en tant que revendeur indirect, consultez [Démarrer en tant que revendeur indirect](https://partner.microsoft.com/cloud-solution-provider/whats-required) sur le [site web Microsoft Partner Network](https://partner.microsoft.com/). 
+Pour plus d’informations sur les conditions à remplir pour participer au programme Fournisseur de solutions Cloud en tant que revendeur indirect, consultez [Démarrer en tant que revendeur indirect](https://partner.microsoft.com/cloud-solution-provider/whats-required) sur le [site web Microsoft Partner Network](https://partner.microsoft.com/). 
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>S’inscrire en tant que partenaire à facturation directe
 
 En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour les conditions d’inscription pour les partenaires à facturation directe le 31 août 2018. Ces nouvelles exigences vous permettront d’accélérer la croissance de vos activités grâce au modèle d’inscription au programme Fournisseur de solutions Cloud et de renforcer vos relations client avec des services et un support à valeur ajoutée. 
 
-### <a name="minimum-requirements"></a>Exigences minimales
+### <a name="minimum-requirements"></a>Configuration minimale requise
 
 |**Exigence**|                             |
 |--------------------------------|--------------------------------------------------------------|

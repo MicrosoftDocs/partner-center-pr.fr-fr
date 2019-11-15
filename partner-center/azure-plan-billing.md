@@ -2,18 +2,20 @@
 title: Plan Azure - Facturation | Espace partenaires
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Décrit la structure de fichier de rapprochement et de facture pour le plan Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595939"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661164"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
@@ -32,7 +34,7 @@ La facturation dans le plan Azure est une expérience simplifiée qui utilise un
 
 - **Période de facturation de la facture** : La période de facturation de la facture s’aligne sur le mois civil, par exemple, elle court du 1er au 31 octobre ou du 1er au 30 novembre.
 
-- **Périodes de frais de service** : Les frais s’alignent sur le mois civil. Par exemple, si le partenaire facturé ajoute des services Azure par le biais d’un plan Azure le 15 octobre et que le client commence à consommer les services Azure le 15 octobre, alors le partenaire facturé reçoit la facture/le rapprochement le 8 novembre pour la consommation effectuée par le client pendant la période de service allant du 15 au 31 octobre. La facture du mois suivant qui va être générée le 8 décembre contient tous les frais relatifs à la période de service allant du 1er au 31 novembre.
+- **Périodes de frais de service** : Les frais s’alignent sur le mois civil. Par exemple, si le partenaire facturé ajoute des services Azure par le biais d’un plan Azure le 15 octobre et que le client commence à consommer les services Azure le 15 octobre, alors le partenaire facturé reçoit la facture/le rapprochement le 8 novembre pour la consommation effectuée par le client pendant la période de service allant du 15 au 31 octobre. La facture du mois suivant qui va être générée le 08/12 contient tous les frais relatifs à la période de service 01/11 au 31/11.
 
 - **Conditions de paiement de la facture**  : 60 jours nets.
 
@@ -129,11 +131,11 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
 - Dans l’exemple ci-dessous :
 
-  - Le compteur est éligible au **crédit Partenaires pour les services managés** du 1er au 3 juillet. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
+  - Le compteur est éligible au **crédit Partenaires pour les services managés** du 01/07 au 03/07. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
 
-   - Le compteur n’est pas éligible au **crédit Partenaires pour les services managés** du 4 au 7 juillet. Notez que le prix unitaire effectif est le prix de vente au détail.
+   - Le compteur n’est pas éligible au **crédit Partenaires pour les services managés** du 04/07 au 07/07. Notez que le prix unitaire effectif est le prix de vente au détail.
 
-    - Le compteur est éligible au **crédit Partenaires pour les services managés** du 8 au 31 juillet. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
+    - Le compteur est éligible au **crédit Partenaires pour les services managés** du 08/07 au 31/07. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
 
 ![recon2](images/azure/pecfinal.png) 
 
@@ -141,7 +143,7 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
 Les services Azure fournis par l’intermédiaire d’un plan Azure sont facturés en USD et facturés dans la devise officielle du pays du client. Si la devise de facturation n’est pas USD, le taux de change utilisé est indiqué à la dernière page de la facture. Les taux de change sont déterminés tous les mois et appliqués à la facture suivante. Pour obtenir la liste complète des devises des pays, consultez la [grille des devises client et la disponibilité des offres de nouveau commerce par pays](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V). 
 
-Microsoft utilise [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company) pour déterminer les taux de change utilisés pour effectuer la conversion de la devise de tarification en devise de facturation. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
+Microsoft utilise [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) pour déterminer les taux de change permettant d’effectuer la conversion de la devise de tarification en devise de facturation. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
 
 **Exemple** :  Les frais d’utilisation pour la période de service qui va du 1er au 31 août sont facturés à l’aide du taux de change publié le 31 juillet. Ces frais apparaissent dans la facture de septembre et le taux de change est indiqué à la dernière page de la facture. 
 

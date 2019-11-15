@@ -2,17 +2,19 @@
 title: Acheter ou renouveler vos offres d’avantages | Espace partenaires
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Découvrez comment obtenir Microsoft Action Pack, qu’il s’agisse d’un premier achat ou d’un renouvellement.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
 ms.localizationpriority: high
-ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978744"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654298"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Premier achat ou renouvellement d’un abonnement Microsoft Action Pack ou des compétences de niveau Silver ou Gold
 
@@ -55,7 +57,7 @@ Devenez un [partenaire Compétences](https://partner.microsoft.com/membership/co
 
 3. En cas de paiement par carte de crédit, suivez les instructions pour ajouter les informations de votre carte de crédit. En cas de paiement par virement bancaire électronique, indiquez un nom de contact, un numéro de téléphone, une adresse e-mail, puis sélectionnez **Envoyer**. 
      
-4. Passez en revue les détails de votre commande, puis sélectionnez **Acheter** dès que vous êtes prêt à acheter Action Pack. Votre carte de crédit est débitée immédiatement.
+4. Passez en revue les détails de votre commande, puis sélectionnez **Acheter** dès que vous êtes prêt à acheter Action Pack. Votre carte de crédit est débitée immédiatement.
 
 5. Votre commande est confirmée. Sélectionnez **Fermer**.
 

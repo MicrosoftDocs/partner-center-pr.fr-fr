@@ -2,17 +2,19 @@
 title: Offres pour les partenaires du programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
 ms.date: 10/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Découvrez les offres disponibles pour les partenaires qui vendent via le programme Fournisseur de solutions Cloud.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions cloud, services basés sur le cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions cloud, vendre dans le programme Fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements client
 ms.localizationpriority: high
-ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
+ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045626"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73799205"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offres pour les partenaires du programme Fournisseur de solutions Cloud 
 
@@ -79,6 +81,9 @@ La liste suivante identifie les nouvelles zones de la page **Ajouter des produit
 
 Pour acheter des produits et des services pour vos clients du programme Fournisseur de solutions Cloud, sélectionnez les éléments que le client souhaite, ajoutez-les à votre panier, ce qui crée une commande, puis vérifiez et envoyez la commande. Le processus général est décrit ci-dessous. (Pour plus d’informations sur les commandes d’un type de produit spécifique, consultez les liens ci-dessus.)
 
+>[Remarque] Une offre CSP doit être disponible dans votre pays de locataire et dans le pays de locataire de votre client. 
+>Par exemple, si votre locataire est situé en Slovaquie et si le locataire du client est en Allemagne, vous ne pouvez pas vendre Dynamics 365 Business Central Premium à ce client, car cette offre n’est pas disponible en Slovaquie.
+
 1. Sélectionnez **Clients** dans le menu de l’Espace partenaires, puis recherchez le client qui veut vous acheter quelque chose. 
 
 2. Sélectionnez la flèche vers le bas située au bout de la ligne du client pour développer la fiche du client, puis sélectionnez **Ajouter des produits**. À partir de là, vous créez une commande. Une commande peut inclure plusieurs éléments de types différents, mais ils doivent tous être pour le même client.
@@ -89,13 +94,18 @@ Pour acheter des produits et des services pour vos clients du programme Fourniss
 
 5. Sélectionnez le produit que le client souhaite, entrez la quantité souhaitée, puis sélectionnez **Ajouter au panier**.
 
-6. Répétez les étapes 4 et 5 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires dans votre panier. Sélectionnez **Vérifier** pour vérifier que la commande est correcte.  
+6. Répétez les étapes 4 et 5 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires à votre panier. Sélectionnez **Vérifier** pour vérifier que la commande est correcte.  
 
 7. Sur la page **Vérifier vos commandes**, vérifiez ou modifiez les produits et les quantités, puis sélectionnez **Acheter** pour passer la commande. 
 
 8. Les détails de votre commande, y compris votre numéro de commande, sont indiqués sur la page suivante. Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**. 
 
-> [!NOTE]
-> Pour obtenir des informations sur le fonctionnement du processus de facturation, consultez [**Notions de base de facturation**](https://docs.microsoft.com/partner-center/billing-basics).
+**En savoir plus** 
+
+Pour plus d’informations sur le fonctionnement du processus de facturation, consultez [Notions de base de facturation](https://docs.microsoft.com/partner-center/billing-basics).
+
+Pour plus d’informations sur les achats effectués dans le cadre du plan Azure, consultez [Acheter le plan Azure](purchase-azure-plan).
+
+
 
 
