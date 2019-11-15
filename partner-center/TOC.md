@@ -135,6 +135,7 @@
 ### [Utiliser des promotions pour attirer de nouveaux clients](promotions.md)
 ### [Proposer à vos clients des offres d’essai de produits Microsoft](offer-your-customers-trials-of-microsoft-products.md)
 ### [Vendre des abonnements à des produits de la place de marché commerciale](sell-marketplace-products.md)
+### [Offres exclusives Marketplace](isv-opt-in.md)
 ### [Attribuer des abonnements Azure dans l’Espace partenaires](assign-azure-subscriptions.md)
 ### [Attribuer des licences à des utilisateurs](assign-licenses-to-users.md)
 ### [Ajouter des licences ou des services à un abonnement existant](add-licenses-or-services-to-an-existing-subscription.md)
@@ -183,6 +184,7 @@
 
 # Configuration de sécurité requise
 ## [Vue d’ensemble](partner-security-requirements.md)
+## [Imposer MFA à votre locataire partenaire](partner-security-requirements-mandating-mfa.md) 
 ## [État de la configuration requise](partner-security-compliance.md)
 ## [Imposer MFA à votre locataire partenaire](partner-security-requirements-mandating-mfa.md)
 ## [Forum Aux Questions](partner-security-requirements-faq.md)
