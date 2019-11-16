@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, ISV, développement d’applications
 ms.localizationpriority: medium
-ms.openlocfilehash: 254d4158ffc64b163e974a1d4cf43a69c0555740
-ms.sourcegitcommit: 1d3fad847dfa46ca709f4411f466827769328c83
+ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
+ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73849705"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "74117225"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exemption des exigences de l’examen à usage unique pour les compétences de développement d’applications
 
@@ -27,19 +27,19 @@ Si vous avez atteint la compétence du ISV et que l’un des scénarios suivants
 
 Partenaires avec une compétence ISV :
 
-- **Votre compétence ISV a expiré** : votre exemption de conditions d’examen à usage unique sera disponible dans l’espace partenaires à partir du 12 novembre 2019. Vous aurez jusqu’à 30 jours pour bénéficier de l’offre. 
+- **Votre compétence ISV a expiré** : votre exemption de conditions d’examen à usage unique sera disponible dans l’espace partenaires à partir du 22 novembre 2019. Vous aurez 30 jours pour tirer parti de l’offre. 
 
-- **Votre adhésion aux compétences est dans sa fenêtre de renouvellement** : votre exemption de conditions d’examen à usage unique sera disponible dans l’espace partenaires à partir du 12 novembre 2019. Vous disposerez de 30 jours pour obtenir l’offre. 
+- **Votre adhésion aux compétences est dans sa fenêtre de renouvellement** : votre exemption de conditions d’examen à usage unique sera disponible dans l’espace partenaires à partir du 22 novembre 2019. Vous aurez 30 jours pour tirer parti de l’offre. 
 
-- **Votre adhésion aux compétences est due au renouvellement des mois à venir** . votre exemption de conditions d’examen à usage unique vous sera proposée au moment du renouvellement. À ce moment-là, vous disposerez de 30 jours pour obtenir l’offre.
+- **Votre adhésion aux compétences est due au renouvellement des mois à venir** . votre exemption de conditions d’examen à usage unique vous sera proposée au moment du renouvellement. À ce moment-là, vous aurez 30 jours pour obtenir l’offre.
 
-Partenaires disposant d’une compétence de développement d’applications obtenue via le chemin d’accès de la certification IP :
+Partenaires avec une compétence de développement d’applications obtenue via le chemin d’accès IP du certificat :
 
-- **Si vous avez une liste de place de marché commercial Microsoft**, votre exemption d’obligation d’examen à usage unique sera disponible au moment du renouvellement de votre compétence. À ce moment-là, vous disposerez de 30 jours pour obtenir l’offre.
+- **Si vous avez une liste de place de marché commercial Microsoft**, votre exemption d’obligation d’examen à usage unique sera disponible au moment du renouvellement de votre compétence. À ce moment-là, vous aurez 30 jours pour tirer parti de l’offre.
 
-- **Si vous n’avez pas de liste de place de [marché commercial Microsoft](https://azure.microsoft.com/overview/commercial-marketplace/)** , publiez votre solution dans un délai de 90 jours après réception de cette communication. vous êtes éligible à l’exemption des exigences d’examen à usage unique.
+- **Si vous n’avez pas de liste de place de [marché commercial Microsoft](https://azure.microsoft.com/overview/commercial-marketplace/)** , publiez votre solution d’ici le 2020 février pour être éligible à l’exemption des exigences d’examen à usage unique.
 
-## <a name="how-to-get-your-offer"></a>Comment faire pour bénéficier de votre offre
+## <a name="how-to-take-advantage-of-your-offer"></a>Comment tirer parti de votre offre
 
 1. Dans le menu espace partenaires de votre tableau de bord, sélectionnez **compétences**.
 2. Dans la liste des compétences disponibles, le développement d’applications est marqué comme **terminé**.
@@ -58,7 +58,7 @@ Si vous avez besoin d’aide pour obtenir votre offre ou si vous avez des questi
 
 **Comment faire savoir si ma société est éligible à cette offre ?**
 
-Les sociétés partenaires éligibles à cette offre ont été notifiées par courrier électronique et dans l’espace partenaires, avec des informations sur la façon d’obtenir l’offre. Les partenaires éligibles incluent ceux qui ont atteint la compétence du fournisseur de logiciels indépendants désormais mis hors service et ceux qui ont atteint la compétence du développement d’applications via le chemin d’accès IP certifié. 
+Les sociétés partenaires éligibles à cette offre ont été notifiées par courrier électronique et dans l’espace partenaires, avec des informations sur la façon d’obtenir l’offre. Les partenaires éligibles incluent ceux qui ont atteint la compétence du fournisseur de logiciels indépendants désormais mis hors service et ceux qui ont atteint la compétence du développement d’applications via le chemin d’accès IP du certificat. 
 
 **Quels sont les avantages de la compétence en matière de développement d’applications ?**
 
@@ -68,6 +68,6 @@ Vous pouvez consulter les avantages de la compétence en matière de développem
 
 **Comment puis-je obtenir cette offre si ma société ne dispose pas de la compétence ISV ?**
 
-Cette offre est disponible uniquement pour les partenaires éligibles, ceux qui disposent de la compétence ISV ou la compétence en matière de développement d’applications via le chemin d’accès IP certifié. Nous envisageons activement des solutions complètes à court terme et à long terme pour les éditeurs de logiciels indépendants et nous partagerons bientôt plus de détails. 
+Cette offre est disponible uniquement pour les partenaires éligibles, ceux qui disposent de la compétence ISV ou la compétence en matière de développement d’applications via le chemin d’accès IP du certificat. Nous envisageons activement des solutions complètes à court terme et à long terme pour les éditeurs de logiciels indépendants et nous partagerons bientôt plus de détails. 
 
 
