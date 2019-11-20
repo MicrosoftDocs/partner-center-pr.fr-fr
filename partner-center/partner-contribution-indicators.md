@@ -1,72 +1,122 @@
 ---
 title: Indicateurs de contribution des partenaires | Espace partenaires
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Données indiquant le niveau de performance de votre entreprise avec Dynamics 365 Customer Engagement ou Dynamics 365 for Finance and Operations
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: Indicateurs de contribution des partenaires, niveau de performance, réussite du client, mesures, Dynamics 365
-author: MaggiePucciEvans
-ms.author: evansma
-ms.localizationpriority: high
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d8f1e0d368b1477733cb2310cc126a2b6fc7d730
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: HT
+ms.openlocfilehash: 9f536fa19d9f6cc36c9206a45a900a8345fc896b
+ms.sourcegitcommit: 79731c2c06fc773fa7fb4007590c0e94d7f0d052
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654263"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74197110"
 ---
 # <a name="partner-contribution-indicators"></a>Indicateurs de contribution des partenaires
 
-Les PCI (indicateurs de contribution des partenaires) constituent un ensemble de mesures globales de vos performances, de vos capacités et de la réussite du client avec Dynamics 365.
+Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes and therefore greater differentiation in the market when a partner attains and maintains the Cloud Business Applications competency. Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities.
 
 ## <a name="scoring"></a>Notation
 
-Les PCI utilisent une échelle de 100 points pour illustrer votre réussite au cours des 12 derniers mois avec Dynamics 365 Customer Engagement ou Dynamics 365 for Finance and Operations. Vous trouverez ci-dessous le nombre maximal de points que vous pouvez gagner pour chacune des sept mesures des PCI.
+PCI provides a sophisticated, holistic view of a partner’s technical capabilities, their ability to drive customer success, and their sales performance. PCI measures your company’s prior-year performance across seven key indicators:
 
-![Notation](images/pci1.png)
+1. **Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.
+2. **Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.
+3. **Functional consultants** — Number of individuals holding a currently active Functional Consultant Associate certification for Dynamics 365.
+4. **Functional consultant growth** — Growth in the number of Functional Consultant Associates since March 31, 2020.
+5. **Developers** — Number of individuals holding a currently active Developer Associate certification for Dynamics 365.
+6. **New large deployments** — Number of production tenants that cross the high-usage threshold over the past 12 months.
+7. **Monthly active user growth** — Growth in monthly active users across all your customers over the past 12 months.
+
+Points are granted for each achieved indicator, resulting in a single-number PCI score. 100 maximum points are possible. PCI score determines competency eligibility:
+
+![PCI scores](images/pcinew1.png)
+
+Each indicator brings a score that is added to the total. Here are the maximum scores for each indicator:
+
+![pci performance](images/pcinew2.png)
 
 ### <a name="thresholds"></a>Seuils
 
-Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter un nombre maximal de points à votre entreprise. Ces seuils diffèrent pour Customer Engagement et Finance and Operations. Les seuils diffèrent également pour les partenaires qui opèrent sur les marchés développés par rapport à ceux qui opèrent exclusivement sur les marchés émergents. Si un partenaire a un ou plusieurs clients sur un marché développé, les seuils du marché développé s’appliquent. Pour que les seuils des marchés émergents s’appliquent, le partenaire doit avoir tous ses clients basés sur des marchés émergents. (La catégorisation d’un pays en tant que marché développé ou marché émergent repose sur les définitions du Microsoft Partner Network présentées ici.)
+Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter un nombre maximal de points à votre entreprise. Ces seuils diffèrent pour Customer Engagement et Finance and Operations. Les seuils diffèrent également pour les partenaires qui opèrent sur les marchés développés par rapport à ceux qui opèrent exclusivement sur les marchés émergents. Si un partenaire a un ou plusieurs clients sur un marché développé, les seuils du marché développé s’appliquent. The developed or emerging market categorization of a country is based on the [Microsoft Partner Network definitions](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+
+Points across each metric are tallied to yield a distinct PCI score for Customer Engagement and Finance & Operations which will be updated monthly.
 
 Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Des points partiels peuvent être gagnés pour toutes les métriques, à l’exception de la croissance du consultant fonctionnel. Par exemple, un partenaire de marché développé avec 150 000 USD de nouveau revenu net gagne la moitié (150 000 USD/300 000 USD) des 10 points de valeur maximale.
 
-### <a name="customer-engagement-thresholds"></a>Seuils de Customer Engagement
+![customer engagement](images/pcix1.png)
 
-![seuils d’engagement](images/pci3.png)
+![Finance](images/pcix3.png)
 
-### <a name="finance-and-operations-thresholds"></a>Seuils de Finance and Operations
+![consultant](images/pcix4.png)
 
-![finances et opérations](images/pci4.png)
+## <a name="detailed-definitions-of-pci-metrics"></a>Detailed definitions of PCI metrics
 
-### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Croissance des consultants fonctionnels sur les marchés développés et émergents 
+|**Net new revenue**|**Summed up over training 12-months**|**Maximum of 10 points**|
+|---------------|----------------------------------|-----------------------|
+|Net new billed revenue across all sales channels for specified Dynamics 365 products.|
+|Calculé sous la forme « facturations moins crédits » et agrégé sur 12 mois.|
+|**Customer Engagement** products include Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent, and Enterprise Team Member.|
+|**Finance and Operations** products include Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent, and Enterprise Team Member.|
+|Les canaux de vente incluent, par exemple, EA (Contrat Entreprise), CSP (Fournisseur de solutions Cloud) et Web Direct.|
+|Les revenus de Contrat Entreprise incluent uniquement les revenus de la première année du contrat. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.|
 
-![Marchés développés et émergents](images/pci6.png)
-![Marchés développés et émergents](images/pci7.png)
+|**Net customer adds**|**Summed up over training 12-months**|**Maximum of 10 points**|
+|--------------|------------|---------------|
+|Clients nets ajoutés parmi tous les canaux de vente.|
+|Calculé mensuellement sous la forme « clients ajoutés moins clients perdus » et agrégé sur 12 mois.|
+|Un ajout de client a lieu quand un client n’a pas d’unités lancées payées pour le mois précédent, mais qu’il en a pour le mois en cours.|
+|Une perte de client a lieu quand un client a des unités lancées payées pour le mois précédent, mais qu’il n’en a pas pour le mois en cours.|
+|Les canaux de vente incluent, par exemple, EA (Contrat Entreprise), CSP (Fournisseur de solutions Cloud) et Web Direct.|
+|Quand un partenaire distinct est associé à un client dans un cas de d’attrition et de réacquisition, le partenaire le plus récent reçoit un crédit.|
 
-## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>Définitions détaillées de chacune des métriques PCI
+|**Functional consultant**|**Current month snapshot**|**Maximum of 15 points**|
+|--------------|------------|---------------|
+|Number of individuals holding a currently active Functional Consultant Associate certification.|
+|**Customer Engagement** Functional Consultant certification requires and individual to pass MB-200 AND MB-210 OR MB-220 OR MB-230 OR MB-240 OR MB6-898.|
+|**Finance and Operations** Functional Consultant certification requires and individual to pass MB-300 AND MB-310 OR MB-320 OR MB-330 OR MB6-897 OR MB6-898.|
 
+|**Functional consultant growth**|**Current month vs baseline on March 31, 2020**|**0 or 15 points**|
+|--------------|------------|---------------|
+|Growth in the number of certified Functional Consultant Associates since a baseline snapshot taken on March 31, 2020.|
+|The baseline snapshot is reset on the next Cloud Business Applications competency renewal date.|
+|To be eligible for points, must have a minimum of 15 Functional Consultant Associates for Developed market partners and 5 for Developing market partners when the baseline snapshot is taken.|
+|**Aucun point partiel accordé**. Growth on top of the baseline snapshot must meet or exceed the thresholds indicated in Table 3.|
 
-|**Métrique**   |**Points**   |**Définition**   |**Délai d’exécution de l’évaluation**|
-|---------------|:--------------------------|:-------------------|:----------|
-|Nouveau revenu net|10|Nouveau revenu net facturé sur la totalité des canaux de vente pour les produits spécifiés. Calculé sous la forme « facturations moins crédits » et agrégé sur 12 mois.
-||| -  Les produits **Customer Engagement** incluent Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Talent et Enterprise Team Member. -
-||| Les produits **Finance and Operations** incluent Finance and Operations, Retail, Talent et Enterprise Team Member. Les canaux de vente incluent EA (Contrat Entreprise), CSP (fournisseur de solutions Cloud) et Web Direct. Les revenus de Contrat Entreprise incluent uniquement les revenus de la première année du contrat. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.|12 derniers mois|
-|Ajouts de clients nets|10|Clients nets ajoutés parmi tous les canaux de vente. Calculé mensuellement sous la forme « clients ajoutés moins clients perdus » et agrégé sur 12 mois. Un ajout de client a lieu quand un client n’a pas d’unités lancées payées pour le mois précédent, mais qu’il en a pour le mois en cours. Une perte de client a lieu quand un client a des unités lancées payées pour le mois précédent, mais qu’il n’en a pas pour le mois en cours. Les canaux de vente incluent, par exemple, EA (Contrat Entreprise), CSP (Fournisseur de solutions Cloud) et Web Direct. Quand un partenaire distinct est associé à un client dans un cas de d’attrition et de réacquisition, le partenaire le plus récent reçoit un crédit.|12 derniers mois|
-|Consultants fonctionnels|15 |Nombre de personnes détenant une certification de consultant fonctionnel active. Pour **Customer Engagement**, la certification de consultant fonctionnel, impose de réussir MB200 et MB210 ou MB220 ou MB230 ou MB240 ou MB6-898. Pour **Finance and Operations**, la certification de consultant fonctionnel impose de réussir MB300 et MB310 ou MB320 ou MB330 ou MB6897 ou MB6-898.|Capture instantanée actuelle|
-|Croissance du consultant fonctionnel|15|Comparaison entre le nombre de personnes détenant une certification de consultant fonctionnel active par rapport au nombre de personnes détenant une certification de consultant fonctionnel active le **31 décembre 2019**. **Aucun point partiel accordé**. La croissance doit atteindre ou dépasser les seuils indiqués dans le tableau 3 pour les partenaires des marchés développés et dans le tableau 4 pour les partenaires des marchés émergents.|Capture instantanée actuelle par rapport à la capture instantanée au 31 décembre 2019|
-|Développeurs|5|Avec **Customer Engagement**, il s’agit du nombre de personnes détenant une certification active pour MB2-716. Avec **Finance and Operations**, il s’agit du nombre de personnes détenant une certification active pour MB6-894.|Capture instantanée actuelle|
-|Nouveaux grands déploiements|20|Pour **Customer Engagement**, si un abonnement payant dépasse le seuil des 250 utilisateurs actifs mensuels au cours des 12 derniers mois, le partenaire associé obtient un crédit pour toutes les instances de production de Customer Engagement (organisations) de ce locataire. Pour **Finance and Operations**, si un abonnement payant dépasse le seuil des 100 utilisateurs actifs mensuels au cours des 12 derniers mois, le partenaire associé obtient un crédit pour toutes les instances de production de Finance and Operations (projets CS) de ce locataire. Les utilisateurs actifs mensuels sont comptabilisés au niveau de l’abonnement, et seuls les abonnements payants sont pris en compte. Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois. Un abonnement est considéré comme ayant dépassé le seuil d’utilisateurs actifs mensuels s’il est inférieur au seuil spécifié 13 mois auparavant, et s’il a franchi ce seuil au moins une fois au cours des 12 derniers mois. Quand un locataire a plusieurs abonnements, chacun d’entre eux étant associé à des partenaires distincts, tous les partenaires obtiennent un crédit pour la totalité des instances de production du locataire dans la catégorie de produit applicable, à condition que les abonnements payants associés dépassent le seuil d’utilisateurs actifs mensuels nécessaires.|12 derniers mois|
-|Croissance mensuelle des utilisateurs actifs|25|Comparaison entre le nombre actuel d’utilisateurs actifs mensuels et le nombre d’utilisateurs actifs mensuels 13 mois auparavant. Les utilisateurs actifs mensuels sont comptabilisés au niveau de l’abonnement, et seuls les abonnements payants sont pris en compte. Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois. Pour **Customer Engagement**, un partenaire de marché développé doit avoir une base de référence d’au moins 250 utilisateurs actifs mensuels en production. Un partenaire de marché émergent doit avoir au moins 150 utilisateurs actifs mensuels dans l’ensemble de sa clientèle, 13 mois auparavant, pour être éligible à l’obtention de points. Pour **Finance and Operations**, un partenaire de marché développé doit avoir une base de référence d’au moins 100 utilisateurs actifs mensuels en production. Un partenaire de marché émergent doit avoir au moins 50 utilisateurs actifs mensuels dans l’ensemble de sa clientèle, 13 mois auparavant, pour être éligible à l’obtention de points.|12 derniers mois|
+|**Developers**|**Current month snapshot**|**Maximum of 15 points**|
+|--------------|------------|---------------|
+|Number of individuals holding a currently active Developer Associate certification.|
+|**Customer Engagement** Developer Associate certification requires an individual to pass both MB-200 AND MB-400 OR MB2-716.|
+|**Finance and Operations** Developer Associate certification requires an individual to pass MB-300 AND MB-500 OR MB6-894.|
+
+**New large deployments**|**Summed up over trailing 12-months**|**Maximum of 15 points**|
+|--------------|------------|---------------|
+|For **Customer Engagement**, this is the number of production instances under a tenant that has crossed 250 monthly active users for Developed & 150 Monthly active users for Developing market partners.|
+|For **Finance & Operations**, this is the number of production instances under a tenant that has crossed 100 monthly active users for Developed & 50 Monthly active users for Developing market partners.|
+|A tenant is considered to have crossed the monthly active user threshold if it was below the specified threshold 12 months ago and crossed that threshold at least once over the subsequent 11 months.|
+|Monthly active users are counted at the tenant level and summed up across only the paid subscriptions under the tenant.|
+|Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois.|
+|Partners are associated to tenants at the subscription level. Subscriptions are mapped to Customer Engagement or Finance and Operations products. All partners associated to any paid subscription under a tenant will get credit for all the Customer Engagement or Finance and Operations production instances under that tenant.|
+
+**Monthly active user growth**|**Current month vs baseline from 12 months ago**|**Maximum of 25 points**|
+|--------------|------------|---------------|
+|For **Customer Engagement**, Developed market partners must have a baseline of at least 250 monthly active users, and Developing market partners must have a baseline of 150 monthly active users across their entire customer base 12 months ago to be eligible for points.|
+|For **Finance and Operations**, Developed market partners must have a baseline of at least 100 monthly active users, and Developing market partners must have a baseline of 50 monthly active users across their entire customer 12 months ago to be eligible for points.|
+|Monthly active users are counted at the tenant level and summed up across only the paid subscriptions under the tenant.|
+|Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois.|
+|Partners are associated to tenants at the subscription level. Subscriptions are mapped to Customer Engagement or Finance and Operations products. All partners associated to any paid subscription under a tenant will get credit for all the Customer Engagement or Finance and Operations monthly active users summed up across all paid subscriptions under that tenant.|
 
 ## <a name="customer-to-partner-association"></a>Association entre client et partenaire
 
-Vous recevez des crédits pour Nouveau revenu net, Ajouts de clients nets, Nouveaux grands déploiements et Croissance mensuelle des utilisateurs actifs pour un client donné, dans les limites de la définition de métrique, uniquement si vous êtes le fournisseur de solutions Cloud, le CPOR (partenaire de référence de revendication) ou le DPOR (partenaire de référence numérique) dans le cadre d’un abonnement payant appartenant au locataire du client.
+You receive credit for Net new revenue, Net customer adds, New large deployments, and Monthly active user growth for a given customer, within the bounds of the metric definition, only if you are the Cloud Solution Provider (CSP), the Claiming Partner of Record (CPOR), or Digital Partner of Record (DPOR) for a paid subscription belonging to the customer's tenant.
 
-Un partenaire devient le CPOR s’il est associé à un client au niveau de l’abonnement via les primes incitatives OSA (Online Solution Advisor) Dynamics 365.
+A partner becomes the CPOR if they have established association with a customer at the subscription level via the Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) incentive or Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) incentive.
 
 Un partenaire devient le DPOR s’il est associé à un client au niveau de l’abonnement au sein du produit.
 
@@ -76,9 +126,9 @@ Quand il existe un même CPOR et DPOR pour un abonnement donné, celui-ci reçoi
 
 ![Comment lire le graphique](images/pci2.png)
 
+## <a name="additional-resources"></a>Ressources supplémentaires
 
-
-
+Please visit [Partner Center Indicators information](https://aka.ms/pcilearn) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
 
 
 

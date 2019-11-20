@@ -1,15 +1,21 @@
 ---
-ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+title: Verify your partner profile  | Partner Center
+MS.Topic: article
+Date: 08/06/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Lors de votre première connexion en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil.
+ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
+ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
+ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653987"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74189063"
 ---
-ms. service : Partner-tableau de bord ms. subservice : partnercenter-Description CSP : la première fois que vous vous connectez en tant qu’administrateur, assurez-vous que les détails de votre support sont corrects, les exemptions de taxe de fichier, le cas échéant, et passez en revue les informations de contact dans vos profils.
-MS. Rubrique : article date : 08/06/2019 ms. AssetID : B7FCD670-465F-443A-A80C-4E83B74E2D1E Author : LauraBrenner ms. Auteur : labrenne ms. localizationpriority : Medium
----
-
 # <a name="verify-your-partner-profile"></a>Vérifier votre profil de partenaire
 
 La première fois que vous vous connectez à l’Espace partenaires en tant qu’administrateur général, assurez-vous que tous les détails de votre entreprise, tels que le contact principal, le nom et l’adresse de l’entreprise légale, ainsi que les informations sur le programme sont correctement ajoutés. Si votre entreprise possède plusieurs emplacements, vérifiez l’exactitude de vos données de localisation. En tant qu’administrateur général, administrateur de facturation ou agent d’administration, vous pouvez également voir et mettre à jour vos informations de facturation et de fiscalité. 
