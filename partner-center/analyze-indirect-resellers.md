@@ -1,9 +1,9 @@
 ---
 title: Analyser les performances des revendeurs indirects | Espace partenaires
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Obtenir des données sur les performances de vos revendeurs indirects pour identifier les réussites et les zones qui peuvent nécessiter plus d’attention.
+Description: Découvrez comment utiliser Analytics pour savoir comment fonctionnent vos revendeurs indirects, à la fois leurs succès et les zones qui peuvent nécessiter une attention particulière.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -11,16 +11,17 @@ ms.topic: article
 keywords: données d'entreprise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653928"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253378"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analyser les performances des revendeurs indirects 
 
 **S’applique à**
+
 - Espace partenaires
 
 Les données orientent les décisions prises au niveau de l’entreprise. Utilisez les indicateurs de performance figurant sur la page **Analyse des revendeurs** pour identifier vos réussites, les réussites de vos revendeurs indirects et les domaines qui nécessitent une attention plus particulière. Utilisez ces informations lorsque vous planifiez de nouveau objectifs d’entreprise.

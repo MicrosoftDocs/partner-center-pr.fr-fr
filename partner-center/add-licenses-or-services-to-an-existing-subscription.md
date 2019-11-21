@@ -1,21 +1,21 @@
 ---
 title: Ajouter des licences ou des services à un abonnement existant | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Si votre client a besoin de davantage de licences que dans son abonnement actuel, ou d’une autre version avec des services supplémentaires, vous pouvez mettre à jour l’abonnement.
+description: Découvrez comment mettre à niveau ou modifier l’abonnement d’un client, par exemple ajouter des licences ou des sièges ou passer à une version différente avec d’autres services.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d'abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: medium
-ms.openlocfilehash: 9998393608733fa1a69390873908a76e0500c118
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654366"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253140"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
 
@@ -46,16 +46,16 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 <td>Office 365 professionnel</td>
 <td><ul>
 <li>Office&nbsp;365 Business&nbsp;Premium¹</li>
-<li>Office 365 ProPlus</li>
-<li>Office 365 Entreprise E3</li>
-<li>Office 365 Entreprise E5</li>
+<li>Office 365 ProPlus</li>
+<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
+<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Office 365 Business Premium</td>
 <td><ul>
-<li>Office 365 Entreprise E3</li>
-<li>Office 365 Entreprise E5</li>
+<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
+<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -63,8 +63,8 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 <td><ul>
 <li>Office&nbsp;365 Business&nbsp;Premium¹</li>
 <li>Office&nbsp;365 Entreprise&nbsp;E1</li>
-<li>Office 365 Entreprise E3</li>
-<li>Office 365 Entreprise E5</li>
+<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
+<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
 </ul></td>
 </tr>
 <tr class="even">

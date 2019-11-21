@@ -1,20 +1,20 @@
 ---
 title: Les clients délèguent les privilèges d'administration à des partenaires | Espace partenaires
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En tant que partenaire revendeur, votre client peut déléguer son administrateur. Ils peuvent également supprimer des privilèges.
+description: Apprenez à demander aux clients de déléguer des autorisations d’administrateur à un revendeur ou de supprimer les mêmes autorisations et l’utilisation des autorisations.
 author: LauraBrenner
 ms.author: labrenne
 keywords: privilèges d’administrateur délégué, administrateur pour le compte de, supprimer des privilèges, DAP, ADMINISTRATE
 ms.localizationpriority: medium
-ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653425"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253482"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Les clients délèguent les privilèges d'administration à des partenaires
 
@@ -31,11 +31,11 @@ Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit acc
 2.  Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie électronique par défaut ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 
     >[!IMPORTANT]
-    >Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. 
+    >Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte. 
     
-3.  Sélectionnez **terminé** lorsque vous avez terminé cette étape.
+3.  Sélectionnez **Terminé** une fois que vous avez effectué cette étape.
 
-4.  Envoyez l’e-mail au client.
+4.  Envoyez le message électronique au client.
 
 5.  Une fois qu'il a accepté l’invitation, le client s’affiche sur votre page **Clients** et vous pouvez approvisionner et gérer son service à partir de cet emplacement.
 
@@ -44,7 +44,7 @@ Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit acc
 >[!IMPORTANT]  
 >Les clients peuvent réaffecter ou supprimer des autorisations d’administrateur dans le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, contactez le support technique de Microsoft pour ouvrir une demande de service pour le compte du client.
 
-Vos clients peuvent identifier les partenaires qui disposent de privilèges d’administrateur sur leur locataire à partir du portail d’administration Office 365. Pour cela, procédez comme suit :
+Vos clients peuvent identifier les partenaires qui disposent de privilèges d’administrateur sur leur locataire à partir du portail d’administration Office 365. Pour ce faire :
 
 1. Le client doit se connecter au portail d’administration Office 365 en tant qu’administrateur général.
 

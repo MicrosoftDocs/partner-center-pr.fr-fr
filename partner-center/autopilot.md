@@ -1,20 +1,20 @@
 ---
 title: Personnaliser l’expérience utilisateur prête à l’emploi d’un appareil avec les profils Windows AutoPilot | Espace partenaires
-description: Préconfigurez l’expérience out-of-Box d’un appareil avec des profils AutoPilot.
 ms.topic: article
-ms.date: 03/18/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: Découvrez comment personnaliser ou préconfigurer une nouvelle expérience d’appareil prête à l’emploi avec des profils AutoPilot avant de livrer l’appareil au client.
 author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows AutoPilot, Microsoft AutoPilot, déploiement Zero Touch, OOBE, écrans de connexion, prêts à l’emploi
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653905"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253332"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personnaliser l’expérience utilisateur prête à l’emploi d’un appareil avec les profils Windows AutoPilot
 
@@ -33,7 +33,7 @@ Si vous n’êtes pas déjà familiarisé avec AutoPilot, passez en revue les in
 - [Vue d’ensemble de Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guide de référence du déploiement AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 Avec la fonctionnalité Windows AutoPilot de l’espace partenaires, vous pouvez créer des profils personnalisés à appliquer aux appareils clients. Les paramètres de profil suivants étaient disponibles au moment de la publication de cet article :
 

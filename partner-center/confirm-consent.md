@@ -1,20 +1,20 @@
 ---
 title: Confirmer l'acceptation du contrat Microsoft Cloud par le client | Espace partenaires
 ms.topic: article
-ms.date: 04/16/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: En tant que partenaire, vous devez obtenir l’acceptation par le client de l’accord de Microsoft Cloud avant de pouvoir commander des produits et services Microsoft pour ce client. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant des informations sur la personne qui a accepté le contrat.
+Description: Découvrez comment confirmer l’acceptation par le client du contrat de Microsoft Cloud. Cela peut être nécessaire pour commander les produits et services Microsoft pour les clients.
 author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Microsoft Cloud contrat, modèles de contrat client
 ms.localizationpriority: medium
-ms.openlocfilehash: 411dab563d59499a66decde0edda3897796a5128
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653659"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252589"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmer l'acceptation du contrat Microsoft Cloud par le client
 
@@ -24,7 +24,7 @@ ms.locfileid: "73653659"
 > [!NOTE]
 > La ressource d’accord est actuellement prise en charge par l’espace partenaires dans le cloud public Microsoft uniquement. Elle ne s’applique pas aux éléments suivants :
 > * Espace partenaires géré par 21Vianet
-> * Espace partenaires de Microsoft Cloud Germany
+> * Espace partenaires de Microsoft Cloud Germany
 > * Espace partenaires de Microsoft Cloud for US Government
 
 >[!NOTE]
@@ -36,7 +36,7 @@ En tant que partenaire, vous devez obtenir l’acceptation par le client de l’
 
 -   Nom
 
--   Adresse e-mail
+-   Adresse électronique
 
 -   Numéro de téléphone (facultatif)
 
@@ -92,7 +92,7 @@ Vous devez être Agent administrateur ou Commercial pour effectuer cette opérat
 2. Sélectionnez **Informations sur le compte**.
 3. Sous **Contrat Microsoft Cloud**, sélectionnez **Mettre à jour**.
 
-![l'onglet Mettre à jour](images/mca/mca4.png)
+![Mettre à jour/Mise à jour](images/mca/mca4.png)
 
 4. Saisissez les **Prénom**, **Nom**, **Adresse e-mail** et **Numéro de téléphone** (facultatif) de l’utilisateur qui a accepté le contrat.
 5. Sous **Date d'acceptation du contrat**, entrez la date appropriée. Vous ne pouvez pas la définir sur une date ultérieure.

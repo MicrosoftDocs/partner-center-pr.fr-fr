@@ -1,20 +1,20 @@
 ---
 title: Calcul du crédit gagné par le partenaire | Espace partenaires
 ms.topic: article
-ms.date: 09/17/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Calcul du calcul de l’aspect du crédit gagné du partenaire Azure
+description: Découvrez comment l’aspect du crédit gagné (PEC) du plan Azure est calculé. Cela comprend les conditions d’éligibilité pour les partenaires et les fournisseurs indirects.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 59cbc822e886b031a49c281334e8287580311408
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653721"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253418"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Mode de calcul du crédit gagné (PEC) du partenaire
 
@@ -28,7 +28,7 @@ Les partenaires qui possèdent la gestion des opérations informatiques 24/24 h 
 
 - Le fournisseur indirect est éligible pour PEC s’il ou son revendeur indirect, ou les deux, disposent d’un contrôle opérationnel et d’une gestion opérationnelles 24/24 h des ressources Azure du client dans CSP.
 
-- Le PEC est associé à la consommation facturée de l’espace Azure du client dans le CSP géré par le partenaire. 
+- Le crédit PEC est associé à la consommation facturée de l’espace Azure du client relevant du programme Fournisseur de solutions Cloud managé par le partenaire. 
 
 - PEC est disponible uniquement pour les partenaires du CSP qui sont facturés par Microsoft (fournisseur indirect et partenaire direct Bill).
 
@@ -36,7 +36,7 @@ Les partenaires qui possèdent la gestion des opérations informatiques 24/24 h 
 
 - Le PEC est calculé quotidiennement et peut être affiché dans le fichier de rapprochement quotidien. Un partenaire (fournisseur ou revendeur (par le biais de son fournisseur) doit avoir accès à la journée entière (24h/24, 7j/7) pour s’assurer qu’il gagne du PEC.
 
-- Le PEC est réalisé au niveau de la ressource Azure. Si le partenaire dispose d’un accès valide au niveau de l’abonnement ou du groupe de ressources, chaque ressource dont le rôle est supérieur à l’entité supérieure gagnera le PEC. 
+- Il est possible d’obtenir un crédit PEC jusqu’au niveau des ressources Azure. Si le partenaire dispose d’un accès valide au niveau de l’abonnement ou du groupe de ressources, chaque ressource dont le rôle est supérieur à l’entité supérieure gagnera le PEC. 
 
 - Le PEC sera inclus sur la facture mensuelle du partenaire. La facture est nette de frais. Les détails sont affichés dans le fichier de rapprochement des factures.
 

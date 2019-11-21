@@ -1,29 +1,29 @@
 ---
 title: Tâches de gestion des utilisateurs pour des comptes client | Espace partenaires
 ms.topic: article
-ms.date: 06/10/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lorsque vous achetez un nouvel abonnement pour un client, vous pouvez attribuer des licences à certains utilisateurs.
+description: Apprenez à créer des comptes d’utilisateur pour un client, à ajouter ou supprimer des licences utilisateur, à réinitialiser les mots de passe utilisateur, à supprimer des comptes d’utilisateur ou à les restaurer.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gestion des clients, compte, créer un compte, licences, attribuer une licence, gestion des utilisateurs, mot de passe, réinitialiser le mot de passe, modifier le mot de passe
 ms.localizationpriority: medium
-ms.openlocfilehash: 67e134978f30adbbe397cb09f34eae9892b18f08
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654397"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253353"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tâche de gestion des utilisateurs pour des comptes client
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
-Vous pouvez créer et supprimer de nouveaux utilisateurs dans un compte client. Vous pouvez également restaurer un ou plusieurs comptes d’utilisateur auparavant supprimés dans les 30 jours qui suivent la suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
+Vous pouvez créer et supprimer de nouveaux utilisateurs dans le compte d’un client. Vous pouvez également restaurer un ou plusieurs comptes d’utilisateur que vous avez précédemment supprimés dans les 30 jours suivant la suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
 
 Lorsque vous achetez de nouveaux abonnements pour un client, le client doit vous fournir une liste de tous les utilisateurs qui auront besoin de comptes, de leurs autorisations utilisateur et des services dont chaque utilisateur a besoin.  
 
@@ -33,44 +33,52 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 
 ## <a name="create-user-accounts-for-a-customer"></a>Créer des comptes d’utilisateur pour un client
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**. Dans la liste, choisissez un client.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
 
-2.  Dans le menu client, sélectionnez **Utilisateurs et licences**.
+2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3.  Pour chaque utilisateur, sélectionnez **Ajouter un utilisateur**, puis renseignez les informations, y compris les autorisations et les licences. Cliquez sur **Enregistrer** pour enregistrer vos modifications.
+3. Dans le menu client, sélectionnez **Utilisateurs et licences**.
 
-4.  Veillez à enregistrer le nom d’utilisateur et le mot de passe temporaire à envoyer à l’utilisateur.
+4. Pour chaque utilisateur, sélectionnez **Ajouter un utilisateur**, puis renseignez les informations, y compris les autorisations et les licences. Cliquez sur **Enregistrer** pour enregistrer vos modifications.
 
-5.  Si vous ajoutez plusieurs utilisateurs un par un, utilisez **Ajouter un autre utilisateur**.
+5. Veillez à enregistrer le nom d’utilisateur et le mot de passe temporaire à envoyer à l’utilisateur.
 
-6. Vous pouvez également ajouter plusieurs utilisateurs à la fois en [important un fichier .csv compatible avec Excel](adding-multiple-users-to-a-customer-account.md). Si vous ajoutez plusieurs utilisateurs en même temps à l’aide de l’option Ajouter un autre utilisateur ou en important un fichier .csv compatible avec Excel, vous pouvez attendre d’avoir terminé l’ensemble de la procédure avant d’imprimer ces noms et mots de passe ou de les envoyer par courrier électronique à partir de l’écran de confirmation.
+6. Si vous ajoutez plusieurs utilisateurs un par un, utilisez **Ajouter un autre utilisateur**.
+
+7. Vous pouvez également ajouter plusieurs utilisateurs à la fois en [important un fichier .csv compatible avec Excel](adding-multiple-users-to-a-customer-account.md). Si vous ajoutez plusieurs utilisateurs en même temps à l’aide de l’option Ajouter un autre utilisateur ou en important un fichier .csv compatible avec Excel, vous pouvez attendre d’avoir terminé l’ensemble de la procédure avant d’imprimer ces noms et mots de passe ou de les envoyer par courrier électronique à partir de l’écran de confirmation.
 
 <a href="" id="userlicensing"></a>
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>Ajouter ou supprimer des licences d’utilisateur pour un client
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**. Dans la liste, choisissez le client.
+Les étapes suivantes s’appliquent à l’ajout ou à la suppression de licences utilisateur pour les produits Microsoft. Pour ajouter ou supprimer des licences utilisateur pour les abonnements SaaS basés sur une licence dans le Marketplace commercial, consultez [Ajouter ou supprimer des licences pour un abonnement Saas](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-2.  Dans le menu client, sélectionnez **Utilisateurs et licences**.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
 
-3.  Choisissez un ou plusieurs utilisateurs dans la liste. Si, par exemple, le client vient d’acheter de nouvelles licences et que vous souhaitez les attribuer à des personnes qui en sont encore dépourvues, vous pouvez utiliser l’option **Filtrer les utilisateurs par...** pour rechercher le groupe approprié.
+2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-4.  Sélectionnez **Gérer les licences**. Apportez vos modifications, puis sélectionnez **Enregistrer**.
+3. Dans le menu client, sélectionnez **Utilisateurs et licences**.
+
+4. Choisissez un ou plusieurs utilisateurs dans la liste. Si, par exemple, le client vient d’acheter de nouvelles licences et que vous souhaitez les attribuer à des personnes qui en sont encore dépourvues, vous pouvez utiliser l’option **Filtrer les utilisateurs par...** pour rechercher le groupe approprié.
+
+5. Sélectionnez **Gérer les licences**. Apportez vos modifications, puis sélectionnez **Enregistrer**.
 
 > [!NOTE]
-> Pour les produits de la place de [marché Azure](sell-marketplace-products.md), l’attribution et l’activation de licences sont gérées par l’éditeur de logiciels indépendant (ISV) qui a publié le produit.
+> Pour les produits de la place de [marché Azure](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), l’attribution et l’activation de licences sont gérées par l’éditeur de logiciels indépendant (ISV) qui a publié le produit.
 
 <a href="" id="resetpassword"></a>
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Réinitialiser le mot de passe d’un utilisateur pour un client
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**. Dans la liste, choisissez le client.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
 
-2.  Dans le menu client, sélectionnez **Utilisateurs et licences**. Choisissez l’utilisateur dans la liste.
+2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3.  En bas de l’écran, sélectionnez **Réinitialiser le mot de passe**. 
+3.  Dans le menu client, sélectionnez **Utilisateurs et licences**. Choisissez l’utilisateur dans la liste.
 
-4.  Envoyez le nouveau mot de passe temporaire à l’utilisateur.
+4.  En bas de l’écran, sélectionnez **Réinitialiser le mot de passe**. 
+
+5.  Envoyez le nouveau mot de passe temporaire à l’utilisateur.
 
 <a href="" id="deleteuseraccounts"></a>
 

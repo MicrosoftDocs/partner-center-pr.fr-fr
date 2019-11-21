@@ -1,20 +1,20 @@
 ---
 title: Fourniture d'un support à vos clients | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Les partenaires doivent recevoir des demandes de support entrantes de la part de clients, diagnostiquer les problèmes au meilleur des capacités du partenaire, puis résoudre les problèmes qui se trouvent dans l’étendue des limites du support de base.
+description: En savoir plus sur les responsabilités du support technique des partenaires dans le programme CSP.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fab8ac43cae104c4925828cc4f6f4ce4477ed28d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f6c6afbe59424cf3ca38186b66490bbf695cfee1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653447"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253488"
 ---
 # <a name="providing-support-to-your-customers"></a>Fourniture d'un support à vos clients
 

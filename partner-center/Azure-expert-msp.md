@@ -1,21 +1,21 @@
 ---
 title: Programme du fournisseur de services gérés Azure expert | Espace partenaires
 ms.topic: article
-ms.date: 12/03/2018
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Les experts de la vente et de la prise en charge d’Azure peuvent s’appliquer à Azure expert MSP
+description: Découvrez comment demander le programme du fournisseur de services gérés Azure expert, Azure expert MSP.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure Sales, programmes experts, programmes partenaires
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b096daf93d01b903606d4ad7b2e0efbebd18396
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3c53b864fd57d9fb5db33023e5d9c614b2b9c9ee
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654376"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253028"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programme du fournisseur de services gérés Azure expert
 

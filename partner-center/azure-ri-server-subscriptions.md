@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: L'intégration d'Azure RI et des abonnements de serveur au programme de fournisseur de solutions Cloud permet à nos partenaires de répondre plus rapidement aux nouveaux besoins de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour prendre en charge des charges de travail dans le Cloud prévisibles et durables. Le programme de fournisseur de solutions Cloud permet aux partenaires d’acquérir, de configurer et de gérer Azure RI et les abonnements de serveur pour le compte de clients commerciaux via l'Espace partenaires Microsoft et le portail Azure.
+description: Découvrez les opportunités de fournisseurs de solutions Cloud pour acquérir, approvisionner et gérer des réservations Azure et des abonnements de serveur pour leurs clients.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, abonnements, machine virtuelle, réservation, instance réservée
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653801"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253229"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -41,7 +41,7 @@ Avec [Azure reserved VM instances](https://azure.microsoft.com/pricing/reserved-
 
 Avec une combinaison non appariée de tarification attrayante et une flexibilité de déploiement inégalée, les clients verront la meilleure valeur globale lorsqu’ils choisissent Azure Reservations :
 
-#### <a name="azure-reservations"></a>Abonnements réservations Azure
+#### <a name="azure-reservations"></a>Réservations Azure
 -   Azure Reserved VM Instances
 -   Réservations SQL DB
 -   Managed Instance SQL
@@ -53,7 +53,7 @@ Avec une combinaison non appariée de tarification attrayante et une flexibilit�
 #### <a name="server-subscriptions"></a>et serveur
 -   Windows Server
 -   Cal Services Bureau à distance (RDS)
--   SQL Server
+-   SQL Server
 
 #### <a name="linux-isv-annual-subscriptions"></a>Abonnements annuels ISV Linux
 -   SUSE Linux
@@ -112,7 +112,7 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 
 **Opérations**
 
-- [Guide des opérations du commerce moderne](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (mis à jour) : Guide complet couvrant la stratégie clé et les aspects opérationnels, tels que les contrats, le classement via l’espace partenaires, la facture, les détails des tarifs, les incentives, le fichier de réconciliation, les API/SDK, sandbox et Services partagés des partenaires Azure.
+- [Guide des opérations du commerce moderne](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (mis à jour) : Guide complet couvrant la stratégie clé et les aspects opérationnels, tels que les contrats, le classement via l’espace partenaires, la facture, les détails des tarifs, les incentives, le fichier de rapprochement, les API/SDK, le bac à sable et les services partagés partenaires Azure.
 - [Tableau des disponibilités par pays et devises clients des offres modernes](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vendre Microsoft Azure des instances réservées](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Acheter des réservations Microsoft Azure pour vos clients](https://go.microsoft.com/fwlink/?linkid=872807)

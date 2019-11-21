@@ -1,21 +1,21 @@
 ---
 title: Ajouter un nouveau client | Espace partenaires
 ms.topic: article
-ms.date: 03/21/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Pour pouvoir vendre des abonnements, gérer la facturation ou fournir un support, vous devez créer un enregistrement de votre client dans l’Espace partenaires.
+description: Découvrez comment ajouter un nouvel enregistrement de client dans l’espace partenaires. Vous pouvez ensuite vendre les abonnements des clients, gérer la facturation ou fournir un support technique.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
-ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
-ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
+ms.openlocfilehash: 8452bc7040eab835bc5d068d0595bce48f8d2c0a
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73840212"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253148"
 ---
 # <a name="add-a-new-customer"></a>Ajouter un client
 
@@ -51,7 +51,7 @@ Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un sup
 
 7. Sélectionnez **terminé** lorsque vous avez terminé d’ajouter les informations sur le client et acheté les abonnements requis.
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir également
 
 - Pour plus d’informations sur ce que vous pouvez vendre aux clients par le biais du programme fournisseur de solutions Cloud [, consultez offres partenaires dans le programme fournisseur de solutions Cloud](csp-offers.md) .
 

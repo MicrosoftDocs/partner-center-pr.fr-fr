@@ -1,21 +1,21 @@
 ---
 title: Afficher les journaux d’activité des clients | Espace partenaires
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires pour les clients.
+description: Découvrez comment afficher et exporter les journaux d’activité pour obtenir des informations sur les transactions de compte client et d’autres activités de gestion des partenaires liées aux clients.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: journaux d’activité, abonnement, abonnements, paiements, facturation, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 370844941c65dfd2018cb8958525192e1c04d25b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653367"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252707"
 ---
 # <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
@@ -44,7 +44,7 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
     -   **Action** : action entreprise par le client, par exemple « création d’une référence »
     -   **Utilisateur partenaire** : partenaire associé à l’activité.
 
-4.  Sélectionnez **Exporter le journal** pour copier les données d’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
+4.  Sélectionnez **Exporter le journal** pour copier les données de l’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
     
  
 

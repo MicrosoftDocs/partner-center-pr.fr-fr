@@ -1,21 +1,21 @@
 ---
 title: Co-vendre avec Microsoft | Espace partenaires
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En tant que partenaire Microsoft qualifié, vous avez la possibilité de vendre en collaboration avec Microsoft. Cette collaboration vous aide à prendre des solutions sur le marché, à conduire des revenus communs et à garantir la réussite des clients.
+description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des engagement, inviter Microsoft à collaborer ou afficher les engagement envoyés.
 author: JnHs
 ms.author: jenhayes
-keywords: référence, demande d'informations, rechercher un partenaire
+keywords: référence, RFI, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653681"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253452"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-vendre avec Microsoft
 

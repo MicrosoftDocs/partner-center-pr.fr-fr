@@ -1,22 +1,22 @@
 ---
 title: Recevoir des notifications de service automatisées avec nos&nbsp;API | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Office 365 et Microsoft Azure fournissent chacun une API que les partenaires peuvent utiliser pour récupérer des informations en temps réel sur l’état du service, consulter les messages reçus et connaître les événements de maintenance planifiés.
+description: Les partenaires peuvent utiliser des API pour les partenaires Office 365 et Microsoft Azure pour l’intégrité du service en temps réel, les communications du centre de messages et les événements de maintenance planifiée.
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c44679f5ce0f449329c1079c7a45a732058d679
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8678b0e12ca92596940573c36e48768c50a2317e
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653082"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253608"
 ---
-# <a name="get-automated-service-notifications-with-our-apis"></a>Recevoir des notifications de service automatisées avec nos API
+# <a name="get-automated-service-notifications-with-our-apis"></a>Recevoir des notifications de service automatisées avec nos API
 
 **S’applique à**
 

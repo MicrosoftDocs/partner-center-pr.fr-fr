@@ -1,21 +1,21 @@
 ---
 title: Acheter des réservations Microsoft Azure pour vos clients | Espace partenaires
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Vous pouvez acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
+Description: Découvrez comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, réservations, gérer, facturation, achat
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653829"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253240"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires 
 
@@ -84,7 +84,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | Érythrée     | Myanmar     | Tuvalu   |
 > | Malouines (îles)     | Nauru     | Îles mineures éloignées des États-Unis   |
 > | Guyane française     | Nouvelle-Calédonie     | Vanuatu   |
-> | Polynésie française     | Niger     | Cité du Vatican   |
+> | Polynésie française     | Niger     | État de la Cité du Vatican   |
 > | Terres australes françaises     | Niue     | Wallis-et-Futuna   |
 > | Gabon     | Norfolk (île)     | Yémen   |
 > | Gambie     | Mariannes du Nord (îles)     |    |
@@ -115,7 +115,7 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
 6. Une fois que vous avez trouvé la ou les réservations que vous souhaitez acheter, entrez le nombre d’instances réservées dont le client aura besoin dans **quantité** , puis sélectionnez **Ajouter au panier**.  
 
-7. Répétez les étapes 5 et 6 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Vérifier** pour vérifier que la commande est correcte.  
+7. Répétez les étapes 5 et 6 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Révision** pour vérifier que la commande est correcte.  
 
 8. Dans la page **Passer en revue vos commandes**, vous pouvez : 
 

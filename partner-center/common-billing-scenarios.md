@@ -1,23 +1,23 @@
 ---
 title: Scénarios de facturation courants | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cette rubrique explique ce que vous pouvez voir sur votre facture lorsque vous ajoutez de nouveaux abonnements, modifiez le nombre de licences dans un abonnement ou annulez un abonnement. Les abonnements basés sur l'utilisation et les abonnements basés sur la licence sont affectés différemment.
+description: Découvrez ce que vous verrez sur votre facture après avoir ajouté de nouveaux abonnements, ajusté le nombre de licences dans un abonnement ou annulé un abonnement.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: a4a152719f20c82ff338e6f577ea83fa9eb5e4f6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d8afffa1dd11e386b03548c8f10e5490e6db5894
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653667"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253395"
 ---
-# <a name="common-billing-scenarios"></a>Scénarios de facturation courants
+# <a name="common-billing-scenarios"></a>Exemples de facturation courants
 
 **S’applique à**
 
@@ -112,7 +112,7 @@ Le 1er février, vous suspendez un abonnement. Le 15 février, le fichier de ra
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/02/2018|Frais d'annulation|-4,00|1|-4,00
+13/01/2018|12/02/2018|Annuler les frais|-4,00|1|-4,00
 
 **Scénario 4 : interruption après 30 jours**
 
@@ -132,7 +132,7 @@ Le 1er mars vous suspendez l'abonnement. Le 15 mars, le fichier de rapprocheme
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|12/03/2018|Frais d'annulation|-1,72|1|-1,72
+01/03/2018|12/03/2018|Annuler les frais|-1,72|1|-1,72
 
 **Formules de prix unitaire :**
 
@@ -228,7 +228,7 @@ Le 1er février vous suspendez votre abonnement. Le 15 février, le fichier de
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais d'annulation|-48,00|1|-48,00
+13/01/2018|12/01/2019|Annuler les frais|-48,00|1|-48,00
 
 **Scénario 5 : interruption après 30 jours**
 
@@ -243,7 +243,7 @@ Le 1er mars vous suspendez votre abonnement. Le 15 mars, le fichier de rapproc
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|12/01/2019|Frais d'annulation|-41,34|1|-41,34
+01/03/2018|12/01/2019|Annuler les frais|-41,34|1|-41,34
 
 **Formules de prix unitaire :**
 
@@ -267,7 +267,7 @@ Le 1er février vous suspendez votre abonnement. Le 15 février, le fichier de
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais d'annulation|-48,00|1|-48,00
+13/01/2018|12/01/2019|Annuler les frais|-48,00|1|-48,00
 
 Le 1er mars vous réactivez votre abonnement. Le 15 mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
 

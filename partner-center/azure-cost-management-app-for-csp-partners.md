@@ -1,27 +1,33 @@
 ---
 title: Azure Cost Management par Cloudyn pour les partenaires fournisseurs de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Cost Management par Cloudyn requiert un accès fourni à l'API de l'Espace partenaires.
+description: Découvrez comment inscrire l’application Web Cloudyn et utiliser une clé secrète pour celle-ci dans l’espace partenaires afin de pouvoir utiliser l’application pour suivre l’utilisation et les coûts d’Azure du client.
 author: Janet
 ms.author: janet
 Keywords: Application Azure Cost Management, gérer les coûts, applications Web
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: a746522d3470a8b97b845ed723fae87455e33e5e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b05f2085aad63f8a0e23fa44de97550d13053f86
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653869"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253297"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Application Azure Cost Management pour les partenaires fournisseurs de solutions Cloud  
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
+- Partenaires du programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur global
+- Agent d’administration
 
 [Obtenir plus d’informations sur Azure Cost Management](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
@@ -31,7 +37,7 @@ Avant de pouvoir utiliser Azure Cost Management, veillez à ce que les condition
 - Vous êtes un partenaire du programme Fournisseur de solutions Cloud.
 - Vous avez la possibilité de créer une application Web de l'API de l'Espace partenaires.
 
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 Cloudyn est une application Web qui vous permet de suivre et de gérer l’utilisation d’Azure par vos clients, ainsi que les coûts de cette utilisation. Vous l'utilisez via l'API de l'Espace partenaires.
 

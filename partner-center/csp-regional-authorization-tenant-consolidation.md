@@ -1,22 +1,22 @@
 ---
 title: Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Utilisez ces instructions pour consolider des locataires de différents pays/régions.
+description: Utilisez ces instructions pour consolider des locataires de différents pays/régions. Cela comprend les étapes de migration des comptes client et des abonnements client.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 1a48c8ef8d4f3fd7348a80899253c8071235c317
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653496"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253602"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
 
@@ -122,7 +122,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 6.  Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. Le partenaire reçoit une facture finale avec un crédit pour le nombre de jours inutilisés entre le jour de l’annulation et le dernier jour de la période de facturation. Aucune facture n’est générée après cette période de facturation finale.
 
-### <a name="notes"></a>Notes
+### <a name="notes"></a>Remarques
 
 -   La désactivation de l’abonnement de la **transition à partir** du compte CSP n’a pas d’impact sur le service du client final, à condition que le service ait été approvisionné à partir du compte de **transition vers** CSP avant la désactivation.
 

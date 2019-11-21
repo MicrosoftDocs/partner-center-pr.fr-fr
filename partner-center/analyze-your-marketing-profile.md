@@ -1,19 +1,19 @@
 ---
 title: Analyser votre profil d’entreprise | Espace partenaires
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Voyez en quoi vous capturez l’attention de vos clients cibles et générez des références.
+description: Découvrez comment utiliser la page Insights Business Profile pour voir à quel degré vous souhaitez attirer l’attention de vos clients cibles et générer des références.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 7eff3b7f27a12111fe0a48b95c2346ee5d9cf98d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653936"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253128"
 ---
 # <a name="analyze-your-business-profile"></a>Analyser votre profil d’entreprise
 <!-- 

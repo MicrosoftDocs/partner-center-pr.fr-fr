@@ -1,9 +1,9 @@
 ---
 title: Analyser l’utilisation d'Azure | Espace partenaires
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Utilisez l’espace partenaires pour obtenir des informations sur l’utilisation des abonnements Azure de vos clients.
+Description: Découvrez comment utiliser l’espace partenaires pour obtenir des données sur l’utilisation des abonnements Azure de vos clients.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -11,27 +11,27 @@ ms.topic: article
 keywords: données d'entreprise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653375"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253390"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obtenir des données sur l’utilisation des abonnements Azure de vos clients
 
-S'applique à :
+S’applique à :
 
 - Espace partenaires
 
 Les données orientent les décisions prises au niveau de l’entreprise. Utilisez les indicateurs de performance figurant sur la page **Utilisation d'Azure** pour identifier vos réussites et les domaines qui nécessitent une attention plus particulière. Utilisez ces informations lorsque vous planifiez de nouveau objectifs d’entreprise.
 
 > [!NOTE]
-> Des analyses de l'utilisation d'Azure sont disponibles uniquement pour les partenaires du programme Fournisseur de solutions Cloud.
+> Azure usage Analytics est disponible uniquement pour les partenaires du programme fournisseur de solutions Cloud.
 
 Nous suivons les indicateurs de performance suivants :
 
-## <a name="summary"></a>Récapitulatif
+## <a name="summary"></a>Résumé
 
 - **Total des abonnements Azure vendus** : nombre d'abonnements vendus dans la période spécifiée  
 - **Clients avec utilisation** : nombre de clients ayant utilisé Azure dans la période spécifiée  

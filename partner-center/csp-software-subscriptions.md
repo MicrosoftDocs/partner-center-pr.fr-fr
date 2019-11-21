@@ -1,21 +1,21 @@
 ---
 title: Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 05/13/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vous pouvez maintenant acquérir, approvisionner et gérer des instances réservées Azure et des abonnements de serveur pour le compte de clients commerciaux via Microsoft Espace partenaires et le portail Azure en tirant parti de l'Azure Hybrid Benefit.
+description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’espace partenaires pour acheter, gérer, vendre et annuler des instances réservées et des abonnements serveur Azure pour les clients.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Fournisseur de solutions Cloud, CSP, services basés sur le Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653487"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253548"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
 

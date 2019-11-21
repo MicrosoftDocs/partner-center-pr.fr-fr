@@ -1,21 +1,21 @@
 ---
 title: Nouvelles conditions requises pour le partenaire direct du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 03/20/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Si vous êtes actuellement inscrit au programme CSP en tant que partenaire direct, vous devez vous préparer à répondre à ces exigences de services et de support mises à jour.
+Description: Si vous êtes un partenaire direct du programme CSP, vous pouvez en savoir plus sur les conditions requises pour la prise en charge et les services, ainsi que sur la façon de les satisfaire.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, partenaire direct, facturation directe, conditions requises
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ccc337138c62f2f2a1258f183a30e0ca09652f53
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653212"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253592"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Nouvelles exigences pour le partenaire de facturation directe du CSP
 
@@ -52,7 +52,7 @@ Après avoir vérifié que votre entreprise répond aux conditions d’éligibil
 
 Si vous décidez de passer d’une facture directe à une entreprise de revendeur indirect, vous devez effectuer plusieurs étapes. Pour en savoir plus sur la transition, consultez [la transition du partenaire direct du fournisseur de solutions Cloud (CSP) au revendeur indirect CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir également
 
 - [Informations supplémentaires sur le devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Forum aux questions sur la facturation directe au revendeur indirect](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

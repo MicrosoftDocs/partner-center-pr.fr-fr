@@ -1,20 +1,20 @@
 ---
 title: Personnaliser le catalogue | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Le catalogue répertorie tous les produits Microsoft et les modules complémentaires disponibles à la vente pour les partenaires.
+description: Découvrez comment personnaliser le catalogue Microsoft pour faciliter l’accès aux offres ou produits que votre organisation utilise le plus.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bc06bf037811aa9d572febbe2bb88e652ee6f6b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 65770b397e613c47cb01f86d97c47e6eb9bf9dac
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653416"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252115"
 ---
 # <a name="customize-the-catalog"></a>Personnaliser le catalogue
 

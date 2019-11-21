@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: L’une des premières choses que vous pouvez faire lorsqu’un client rencontre des problèmes avec un service est de vérifier l’état du service.
+description: Découvrez comment vérifier l’intégrité du service pour un client lorsqu’il rencontre un problème avec un service.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: intégrité, intégrité du service, problèmes de service
 ms.localizationpriority: medium
-ms.openlocfilehash: 62e968ef733b45edf52f5a91343c1df4616d8053
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5dbb478e37aaec144b822a2b2288860addf549b7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653696"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253430"
 ---
 # <a name="check-service-health"></a>Vérifier l’état du service
 

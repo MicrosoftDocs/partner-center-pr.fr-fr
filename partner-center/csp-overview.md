@@ -1,26 +1,27 @@
 ---
 title: Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Le programme Fournisseur de solutions Cloud peut aider votre entreprise à croître avec de nouveaux clients et de nouvelles compétences.
+description: En savoir plus sur les avantages et les différents modèles dans le programme du fournisseur de solutions Cloud pour aider votre entreprise à croître avec les nouveaux clients et l’expertise.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653516"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252829"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programme Fournisseur de solutions Cloud - vente de solutions Cloud recherchées 
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
+- Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 Le programme fournisseur de solutions Cloud (CSP) vous permet d’aller au-delà de la revente de licences pour être plus impliquées dans l’activité de votre client.
  
@@ -38,7 +39,7 @@ Le programme fournisseur de solutions Cloud (CSP) vous permet d’aller au-delà
 
 #### <a name="new-expanded-requirements"></a>Nouvelles conditions étendues :
 
-Assistance
+Support
 - Développez vos capacités de support par l'achat d'un support cloud individuel prioritaire avec un package de support Avancé Microsoft pour les partenaires. Ou choisissez un package Support Premier Microsoft pour les partenaires afin d'accéder au catalogue complet des services proactifs et de bénéficier d'un support de niveau élevé couvrant la garantie de réparation et d'assistance 24 h/24, 7 jours/7 et la gestion de compte technique dans tous les environnements cloud, hybrides et sur site. 
 
 Services
@@ -70,7 +71,7 @@ Avant de pouvoir commander des offres du fournisseur de services de chiffrement 
 
 Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), ainsi que diverses autres offres qui changent fréquemment. Pour afficher les offres du CSP pour le mois en cours, connectez-vous à l’espace partenaires, puis accédez à la page [**tarification et offres**](https://partnercenter.microsoft.com/pcv/sales) .
 
-## <a name="see-also"></a>Articles associés 
+## <a name="see-also"></a>Voir également 
 
 
 |**Pour en savoir plus à ce sujet**   |**Lisez cela**   |

@@ -1,21 +1,21 @@
 ---
 title: Gérer des réservations Microsoft Azure pour vos clients | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Pour gérer les réservations Azure de vos clients, vous devez sélectionner le client et la réservation que vous souhaitez gérer dans l’espace partenaires, puis apporter des modifications à la réservation dans le Portail Azure.
+Description: Découvrez comment gérer des réservations Azure pour le compte d’un client, notamment comment annuler une réservation, échanger une réservation ou demander un remboursement.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, réservations, gérer, facturation, achat, annulation, échange, frais de résiliation précoce
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653813"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252640"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients       
 
@@ -33,7 +33,7 @@ Pour gérer les réservations Azure de vos clients, vous devez sélectionner le 
 
 3. Sous **actions**, sélectionnez **gérer** pour accéder à l’enregistrement de réservation du client dans la portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
 
-    | **Sélectionné**   | **À**    |
+    | **Sélectionné**   | **Pour**    |
     |:-----------------------------|:-----------------|
     | **Vue d’ensemble**   | Affichez les détails de la réservation d’un client, y compris la date d’expiration, l’étendue et les données d’utilisation. **REMARQUE** Sélectionnez **Remboursement** pour créer une demande de support en vue d'un remboursement calculé au prorata. Sélectionnez **Échange** pour créer une demande de support en vue de l'échange de la période de réservation non utilisée.  
     | **Access Control (IAM)**   | Gérez l’accès aux informations de réservation du client.|
@@ -57,9 +57,9 @@ Voir ci-dessous pour obtenir des détails et des frais d’annulation.
 
 |**Date d’annulation**<br> précédant   |**Syntaxe**    |**Créancière**  |**Fin précoce**<br> frais    |**Plafond de remboursement** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|au moins 5                         | non          | 100%       | non                              | $50 000 USD   |
-|au moins 5                         | Oui         | Pro-évalué  | non                              | $50 000 USD   |
-|Plus de 5                        | non          | Pro-évalué  | douze                             | $50 000 USD   |
+|au moins 5                         | Non          | 100%       | Non                              | $50 000 USD   |
+|au moins 5                         | Oui         | Pro-évalué  | Non                              | $50 000 USD   |
+|Plus de 5                        | Non          | Pro-évalué  | douze                             | $50 000 USD   |
 |Plus de 5                        | Oui         | Pro-évalué  | douze                             | $50 000 USD   |
 
 

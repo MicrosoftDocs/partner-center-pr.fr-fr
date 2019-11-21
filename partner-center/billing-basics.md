@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informations sur les scénarios de facturation de base et les différences entre la facturation basée sur une licence et la facturation basée sur l’utilisation
+Description: Découvrez les scénarios de facturation de base dans l’espace partenaires pour les abonnements et les réservations Azure, ainsi que les différences entre la facturation basée sur une licence et la facturation basée sur l’utilisation.
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653757"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253212"
 ---
 # <a name="billing-overview"></a>Présentation de la facturation
 
@@ -42,7 +42,7 @@ Selon les produits, les solutions et les services que vous achetez pour le compt
 Si vous avez choisi d’être facturé mensuellement ou si vous avez acheté des produits basés sur l’utilisation qui sont facturés tous les mois, la date de facturation mensuelle est le jour du mois que vous avez sélectionné lorsque vous avez créé votre compte CSP dans l’espace partenaires. Une fois votre compte CSP créé, Microsoft envoie un e-mail de confirmation qui comprend la date de facturation. Une fois créée, cette date ne peut pas être modifiée. 
 
 ## <a name="pricing-and-invoicing"></a>Tarification et facturation
-Vous pouvez accéder aux listes de prix un (1) mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12 mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. 
+Vous pouvez accéder aux listes de prix un (1) mois à l’avance, puisqu’elles sont mises à jour tous les mois. Les prix basés sur les licences sont garantis pendant la durée de l’abonnement, généralement 12 mois à compter de la date d’achat. Les prix basés sur l’utilisation peuvent changer sur une base mensuelle. 
 
 Les prix pour les produits, les services et les abonnements logiciels sont assurés par la durée de l’abonnement, mais les tarifs peuvent changer lorsque vous le renouvelez.
 

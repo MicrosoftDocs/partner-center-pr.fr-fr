@@ -1,19 +1,19 @@
 ---
 title: Forum aux questions pour l'Espace partenaires de Microsoft Cloud for US Government | Forum aux questions pour l'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Reportez-vous à ce forum aux questions pour en savoir plus sur le programme Fournisseur de solutions Cloud de Microsoft Cloud for US Government. Vous pouvez également contacter votre responsable de compte pour plus d’informations.
+description: Consultez les réponses aux questions fréquemment posées (FAQ) sur le programme du fournisseur de solutions Cloud (CSP) pour Microsoft Cloud pour le gouvernement des États-Unis.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 67960c2c7ab3ac4406140156ffa2457cede4f97f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653121"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253637"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Forum aux questions concernant l'Espace partenaires de Microsoft Cloud for US Government
 
@@ -29,7 +29,7 @@ Reportez-vous à ce forum aux questions pour en savoir plus sur le programme Fou
 
 **Qu’est-ce que Microsoft Cloud pour le gouvernement des États-Unis ?**
 
-Microsoft Cloud for US Government est une solution qui a été entièrement pensée pour le gouvernement américain, et qui permet aux clients du secteur public des États-Unis, qu'il s'agisse d'agences fédérales d'envergure ou de mairies de petites villes, de faire leur sélection à partir d’une gamme de service de cloud computing. Pour répondre au mieux aux besoins spécifiques de ses clients, Microsoft a fait des investissements significatifs dans les centres de donnée et est dédié à la conformité avec les politiques, les obligations et les exigences fédérales et d’État. 
+Microsoft Cloud pour le gouvernement est une solution qui a été entièrement pensée pour le gouvernement américain, et qui permet aux clients du secteur public des États-Unis, qu'il s'agisse d'agences fédérales d'envergure ou de mairies de petites villes, de faire leur sélection à partir d’une gamme de service de cloud computing. Pour répondre au mieux aux besoins spécifiques de ses clients, Microsoft a fait des investissements significatifs dans les centres de donnée et est dédié à la conformité avec les politiques, les obligations et les exigences fédérales et d’État. 
 
 **Qui est éligible au programme CSP pour Microsoft Cloud pour le gouvernement des États-Unis ?**
 
@@ -41,7 +41,7 @@ Non. La tarification reflète les coûts supplémentaires permettant de fournir 
 
 **Le modèle de remise de partenaire est-il le même ?**
 
-Oui. Le modèle de remise des partenaires du programme Fournisseur de solutions Cloud de Microsoft Cloud for US Government est le même que celui de CSP Commercial.
+Oui. Le modèle de remise des partenaires du programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis est le même que celui de CSP Commercial.
 
 **Le programme CSP commercial est un programme partenaire existant. Comment le programme CSP pour Microsoft Government Cloud est-il différent ?**
 
@@ -49,7 +49,7 @@ Le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvern
 
 -   Éligibilité : le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement est uniquement accessible aux partenaires qui, aux États-Unis, servent des entités fédérales, nationales, locales et gouvernementales américaines dans le cadre de leurs activités gouvernementales. Microsoft a mis en place un programme de validation strict pour établir l’éligibilité des partenaires avant de les autoriser à accéder au cloud du gouvernement des États-Unis.
 
--   Intégration : les partenaires doivent intégrer le programme Fournisseur de solutions Cloud de Microsoft Cloud for US Government séparément de CSP Commercial.
+-   Intégration : les partenaires doivent intégrer le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis séparément de CSP Commercial.
 
 -   Disponibilité du produit : Azure Government et les services basés sur les sièges comme Office 365, Enterprise Mobility + Security et Dynamics 365 sont disponibles dans le programme fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement. 
 
@@ -173,7 +173,7 @@ Utilisez les liens suivants pour vous familiariser avec le programme Fournisseur
 
 -   [Pour en savoir plus sur Azure Government](https://azure.microsoft.com/overview/clouds/government/)
 
--   [Pour en savoir plus sur le programme Fournisseur de solutions Cloud](https://partner.microsoft.com/cloud-solution-provider)
+-   [Pour en savoir plus sur CSP](https://partner.microsoft.com/cloud-solution-provider)
 
 -   [Pour en savoir plus sur le développement avec l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)
 

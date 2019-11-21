@@ -1,21 +1,21 @@
 ---
 title: Créer plusieurs utilisateurs pour un compte client | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vous pouvez ajouter plusieurs utilisateurs en même temps au compte d’un client, en chargeant un fichier de données CSV dans l’Espace partenaires.
+description: Découvrez comment ajouter simultanément plusieurs utilisateurs au compte d’un client, en chargeant un fichier de données au format de fichier de valeurs séparées par des virgules (. csv) dans l’espace partenaires.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: chargement groupé, ajouter plusieurs utilisateurs à un compte client, ajouter des utilisateurs du client, chargement groupé des utilisateurs du client, compte client, utilisateurs du client, utilisateurs
 ms.localizationpriority: medium
-ms.openlocfilehash: 4062c36d9f5d394d9d25eb67265784d2a5b301cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5c9de7ed78a0494790b447d1755d5eef70a89cca
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653247"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253177"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Ajouter plusieurs utilisateurs à un compte client
 
@@ -45,14 +45,14 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 | Nom       | Nom de l’utilisateur (champ facultatif)                                            | 50&nbsp;caractères maximum                         |
 | Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
 | E-mail           | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse de messagerie unique. |
-| Mise à jour de l’état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé. | \*\*laissez un\*vide \*                        |
+| Mise à jour de l’état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*laissez un\*vide \*                        |
 
  
 
 ### <a href="" id="createmultipleuseraccounts"></a>Pour créer plusieurs comptes d’utilisateur
 
 <a href="" id="creatingtheaccounts"></a>
-1.  Créez un fichier de données&nbsp;CSV avec les données décrites ci-dessus. Enregistrez le fichier pour pouvoir le retrouver ultérieurement.
+1.  Créez un fichier de données CSV avec les données décrites ci-dessus. Enregistrez le fichier pour pouvoir le retrouver ultérieurement.
 2.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 3.  Sélectionnez **Charger des utilisateurs**.
 4.  Sous **Charger des informations d’utilisateur**, sélectionnez **Parcourir**.

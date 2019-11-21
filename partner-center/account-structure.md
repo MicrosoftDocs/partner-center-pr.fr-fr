@@ -1,20 +1,20 @@
 ---
 title: Structure de compte dans l’espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Votre entreprise dispose de deux niveaux de comptes dans l’espace partenaires.
+description: En savoir plus sur les deux niveaux de comptes dans l’espace partenaires, le compte global principal (PGA) et le compte d’emplacement du partenaire (PLA).
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: fc9f4f7e5f6e70a557d23bd23cc4fd32b0dd2a91
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653053"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253161"
 ---
 # <a name="the-account-structure-in-partner-center"></a>Structure de compte dans l’espace partenaires
 

@@ -1,20 +1,20 @@
 ---
 title: Exemption des exigences de l’examen à usage unique pour la compétence du développement d’applications | Espace partenaires
 ms.topic: article
-ms.date: 11/08/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Exemption des exigences de l’examen à usage unique pour les compétences de développement d’applications
+description: Pour les partenaires disposant d’une compétence ISV antérieure, Découvrez comment obtenir une exemption des exigences d’examen à usage unique pour les compétences de développement d’applications
 author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, ISV, développement d’applications
 ms.localizationpriority: medium
-ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
-ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
-ms.translationtype: MT
+ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "74117225"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253355"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exemption des exigences de l’examen à usage unique pour les compétences de développement d’applications
 
