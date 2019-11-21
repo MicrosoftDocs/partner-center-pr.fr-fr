@@ -1,26 +1,26 @@
 ---
 title: Confirmer l’acceptation du contrat client Microsoft par le client | Espace partenaires
 ms.topic: article
-ms.date: 09/30/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: En tant que partenaire, vous devez obtenir l’acceptation du contrat du client Microsoft par le client avant de pouvoir commander des produits et services Microsoft pour ce client. Pour mieux aider les partenaires à répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l'acceptation en fournissant des informations sur la personne qui a accepté le contrat.
+Description: Learn how to confirm customer acceptance of the Microsoft Customer Agreement. This may be needed to order Microsoft products and services for customers.
 author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat Microsoft Cloud, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9d362f581d0d318b1a457ba6a75db54713fce6bb
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653645"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252232"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmer l’acceptation du client du contrat de client Microsoft
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirm customer acceptance of the Microsoft Customer Agreement
 
-Actuellement, avant qu’un partenaire CSP puisse passer une commande au nom d’un client, le client doit accepter et signer le **contrat de Microsoft Cloud**applicable. Ensuite, le partenaire doit confirmer l’acceptation du contrat par le client en fournissant des informations sur le signataire à Microsoft. À défaut de confirmation :
-- Vous ne pouvez pas créer de nouvelles commandes pour ce client.
-- Vous ne pouvez pas modifier le nombre de sièges des abonnements basés sur les sièges existants pour ce client.
+Currently, before a CSP partner can place order on a customer's behalf, the customer must accept and sign the applicable **Microsoft Cloud Agreement**. Ensuite, le partenaire doit confirmer l’acceptation du contrat par le client en fournissant des informations sur le signataire à Microsoft. À défaut de confirmation :
+- You won't be able to create new orders for this customer.
+- You won't be able to change the seat count of existing seat-based subscriptions for this customer.
 
 Pour plus d’informations sur la façon de confirmer l’acceptation par un client du contrat Microsoft Cloud à l’aide du tableau de bord ou de l’API de l’Espace partenaires, consultez [Confirmer l'acceptation du contrat Microsoft Cloud par le client](confirm-consent.md).
 
@@ -30,15 +30,15 @@ Le 1er octobre 2019, Microsoft présentera le **contrat client Microsoft** au pr
 |------------|------------|--------------------------------|
 |1er août 2019|Aperçu de l’expérience utilisateur disponible dans le bac à sable|Les partenaires peuvent confirmer l’acceptation par le client du contrat client Microsoft à l’aide du tableau de bord de l’Espace partenaires dans l’environnement du bac à sable (sandbox) CSP. Les partenaires ayant accès à l’environnement du bac à sable (sandbox) CSP peuvent afficher un aperçu des modifications de l’expérience utilisateur. Les partenaires sans accès au bac à sable peuvent en savoir plus sur les modifications apportées dans cette rubrique.|
 |3 septembre 2019|L’aperçu de l’API est disponible dans le bac à sable.|Le partenaire peut confirmer l’acceptation par le client du contrat client Microsoft à l’aide du l’API de l’Espace partenaires dans l’environnement du bac à sable (sandbox) CSP. Les partenaires de l’API peuvent utiliser cette opportunité pour afficher un aperçu des modifications de l’API et commencer à travailler sur l’intégration de l’API pour prendre en charge le nouveau contrat.|
-|20 septembre, 2019|Le kit de développement logiciel (SDK) .NET (préversion) est disponible dans le bac à sable.|Le partenaire peut confirmer l’acceptation par le client du Contrat client Microsoft à l’aide du SDK .NET de l'Espace partenaires dans l’environnement de bac à sable Fournisseur de solutions Microsoft Cloud. Les partenaires de l’API peuvent utiliser cette opportunité pour afficher un aperçu des modifications du kit de développement logiciel (SDK) .NET et commencer à travailler sur l’intégration de l’API pour prendre en charge le nouveau contrat.|
+|September 20, 2019|Le kit de développement logiciel (SDK) .NET (préversion) est disponible dans le bac à sable.|Le partenaire peut confirmer l’acceptation par le client du Contrat client Microsoft à l’aide du SDK .NET de l'Espace partenaires dans l’environnement de bac à sable Fournisseur de solutions Microsoft Cloud. Les partenaires de l’API peuvent utiliser cette opportunité pour afficher un aperçu des modifications du kit de développement logiciel (SDK) .NET et commencer à travailler sur l’intégration de l’API pour prendre en charge le nouveau contrat.|
 |1er octobre 2019|Contrat client Microsoft disponible en production|Microsoft présente le contrat client Microsoft au programme CSP pour remplacer le contrat Microsoft Cloud. Les partenaires peuvent confirmer l’acceptation par le client du contrat client Microsoft à l’aide de l’API et du tableau de bord de l’Espace partenaires en production. Le contrat Microsoft Cloud reste pris en charge dans le programme partenaire CSP. Toutefois, les partenaires sont invités à commencer à migrer vers le contrat client Microsoft. Les nouveaux achats et les modifications apportées au nombre de sièges dans les abonnements existants nécessitent la confirmation par le partenaire du contrat client Microsoft ou du contrat Microsoft Cloud. Certaines nouvelles offres (par exemple, le nouveau plan Azure) requièrent la confirmation du contrat client Microsoft.|
 |31 janvier 2020|Contrat Microsoft Cloud supprimé de la production|Le contrat Microsoft Cloud n’est plus accepté dans le programme partenaire CSP. Les nouveaux achats et les modifications apportées au nombre de sièges dans les abonnements existants nécessitent la confirmation par le partenaire du contrat client Microsoft. Cette exigence s’applique aux nouveaux clients et aux clients existants qui ont peut-être déjà accepté le contrat Microsoft Cloud.|
 
-## <a name="access-microsoft-customer-agreement-template"></a>Accéder au modèle de contrat client Microsoft
-Les partenaires peuvent télécharger manuellement la dernière version du modèle de contrat client Microsoft à partir d' [ici](https://aka.ms/customeragreement). Notez que le contrat client Microsoft est spécifique au pays. Lorsque vous demandez le modèle de contrat client Microsoft, veillez à sélectionner le pays approprié en fonction de l’emplacement du client. 
+## <a name="access-microsoft-customer-agreement-template"></a>Access Microsoft Customer Agreement template
+Partners can manually download the latest version of the Microsoft Customer Agreement template from [here](https://aka.ms/customeragreement). Note that the Microsoft Customer Agreement is country-specific. When requesting for the Microsoft Customer Agreement template, be sure to select the correct country based on the customer's location. 
 
-## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Confirmer l’acceptation du client à l’aide de l’API espace partenaires/SDK
-Les partenaires peuvent utiliser l’API/le kit de développement logiciel (SDK) de l’espace partenaires pour confirmer l’acceptation du client par le contrat client Microsoft. Pour plus d’informations sur l’API/le kit de développement logiciel (SDK), consultez :
+## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Confirm customer acceptance using Partner Center API/SDK
+Partners can use Partner Center API/SDK to confirm customer acceptance of the Microsoft Customer Agreement. For details on the API/SDK, please refer to:
 
 - [Obtenir les métadonnées du Contrat client Microsoft](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
 
@@ -50,7 +50,7 @@ Les partenaires peuvent utiliser l’API/le kit de développement logiciel (SDK)
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Confirmer l’acceptation du client dans l'Espace partenaires
-Les partenaires peuvent confirmer l’acceptation par le client de l’accord de client Microsoft dans l’espace partenaires pour les nouveaux clients et les clients existants.
+Partners can confirm customer acceptance of the Microsoft Customer Agreement in Partner Center for new customers and existing customers.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Confirmer l’acceptation par les nouveaux clients
 

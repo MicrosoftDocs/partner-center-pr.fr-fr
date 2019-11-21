@@ -1,20 +1,20 @@
 ---
 title: Vendre aux secteurs spécialisés | Espace partenaires
 ms.topic: article
-ms.date: 05/14/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Microsoft fournit une tarification spéciale et réduite pour certains groupes de clients, y compris les clients de formation, les clients sans but lucratif et les administrations.
+Description: Learn about Microsoft's special, reduced pricing for certain customer groups, including education customers, non-profit customers, and government users.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8405018cd33b36efcbeb936672afcab78273f6e8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89577819ea5601bebeb10be6d9d3ab6143abf2cc
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653078"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253651"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendre aux secteurs spécialisés
 
@@ -26,16 +26,16 @@ Microsoft consent des tarifs préférentiels à certains clients, parmi lesquels
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Conditions de vente aux secteurs spécialisés
 
-|**Tarification spéciale**   |**Compétences requises du revendeur**   |**Qualifications requises par le client**   |
+|**Special pricing**   |**Reseller required qualifications**   |**Customer required qualifications**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Éducation   |Devenir un [Revendeur Éducation agréé](https://www.mepn.com).   | Doit être un [Utilisateur Éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Gouvernement   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur la licence au gouvernement, aucune compétence n'est requise.|   Aucun(e)|
+|Gouvernement   |To sell Azure, enroll using the [Microsoft US Government Cloud Validation form](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur la licence au gouvernement, aucune compétence n'est requise.|   Aucun(e)|
 |Activité à but non lucratif  |Aucun(e)<br>Doit avoir un locataire Azure Active Directory à but non lucratif.<br>En savoir plus sur les [offres spéciales pour organisations à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |S’inscrire via le [Programme à but non lucratif Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Vérifier vos qualifications revendeur
 
-Les étapes suivantes s’appliquent uniquement aux fournisseurs indirects et aux partenaires directs. Les revendeurs indirects doivent se connecter avec un fournisseur indirect pour fournir des offres à prix universitaire aux utilisateurs qualifiés d’éducation. 
+The following steps are applicable only to indirect providers and direct bill partners. Indirect resellers need to connect with an indirect provider to deliver academic-priced offers to qualified education users. 
 
 1.  Dans votre Tableau de bord du partenaire, sélectionnez l’icône d’engrenage dans le coin supérieur droit de la fenêtre pour ouvrir les **Paramètres du compte**.
 2.  Dans votre **Profil de partenaire**, dans la section **Informations sur le programme**, recherchez **Qualifications revendeur**.
@@ -43,7 +43,7 @@ Les étapes suivantes s’appliquent uniquement aux fournisseurs indirects et au
 
 ## <a name="check-the-customer-qualifications"></a>Vérifier les qualifications client
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**. Dans la liste, choisissez le client.
+1.  From the **Partner Center** menu, select **Customers**. Dans la liste, choisissez le client.
 2.  Dans le menu client, sélectionnez **Compte**. Dans la section **Informations sur la société**, recherchez **Qualifications spéciales**.
 3.  Si le champ **Qualifications spéciales** affiche **Aucune**, mais que le client satisfait aux critères, vous pouvez **mettre à jour** ses informations pour les inclure.
 
@@ -53,9 +53,9 @@ Une fois que vous et vos clients serez qualifiés pour un programme d'offre spé
 
 ## <a name="see-also"></a>Articles associés
 
-[Vendez des abonnements Minecraft : Education Edition aux clients Education](minecraft-subscriptions.md)
+[Sell Minecraft: Education Edition subscriptions to education customers](minecraft-subscriptions.md)
 
-[Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](partner-center-for-microsoft-us-govt-cloud.md)
+[ Partner Center for Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
 
  
