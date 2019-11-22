@@ -9,13 +9,13 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
-ms.localizationpriority: medium
-ms.openlocfilehash: dad4cffbd03e7e6ea811e5bf954a46a1566196f0
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653732"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096456"
 ---
 # <a name="billing"></a>Facturation
 
@@ -25,16 +25,16 @@ ms.locfileid: "73653732"
 -  Espace partenaires de Microsoft Cloud for US Government
  
  
-Pour votre facture, accédez au menu de l' **espace partenaires** , puis sélectionnez **facturation** pour voir votre historique de facturation et vos tendances, des liens vers votre facture et votre fichier de rapprochement, et votre paiement le plus récent.
+Pour votre facture, accédez au menu **Espace partenaires** et sélectionnez **Facturation** pour afficher votre historique et vos tendances de facturation, des liens vers votre facture et votre fichier de rapprochement, ainsi que votre dernier paiement en date.
 
 Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60 jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
 
 > [!NOTE]  
-> Votre facture est un résumé de tous les frais, sur le programme, les produits et les clients, pour la période de facturation actuelle, et est disponible dans les deux (2) jours suivant la date de facturation sélectionnée en heure UTC. Par exemple, si vous avez une date de facturation de 12 septembre, le processus de génération de facture commencera à 12:00 UTC le 13ème et sera achevé de 12:00 UTC le 14. Si vous ne voyez pas votre facture de 11:59PM UTC le 15, vous n’êtes pas dans votre Contrat de niveau de service et devez effectuer une demande de service. 
+> Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les deux (2) jours suivant la date de facturation sélectionnée à l’heure UTC. Par exemple, si votre date de facturation est le 12 septembre, le processus de génération de facture commence le 13 à 00:00 UTC (minuit) et se termine le 14 à 00:00 UTC (minuit). Si vous ne voyez pas votre facture le 15 à 23:59 UTC, vous êtes hors des termes de votre Contrat de niveau de service et devez effectuer une demande de service. 
 
 Informations clés à connaître à propos de la facturation de vos clients :
 
--   Microsoft n’a pas d’exigences particulières sur la façon dont vous gérez votre propre facturation.
+-   Nous n’avons pas d’exigences particulières sur la façon dont vous gérez votre propre facturation.
 -   Pour établir la consommation d’un client, utilisez le nom/ID du client et les autres champs pertinents des fichiers de rapprochement.
 -   Ajoutez vos propres frais pour les services et les produits que vous fournissez.
 -   Envoyez une facture unique correspondant à tous les frais à votre client.

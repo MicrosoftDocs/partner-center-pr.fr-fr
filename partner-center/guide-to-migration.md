@@ -1,95 +1,95 @@
 ---
-title: Guide de migration de PMC vers l’espace partenaires | Espace partenaires
+title: Guide de migration de PMC vers l’Espace partenaires | Espace partenaires
 ms.topic: article
 ms.date: 04/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ce que vous devez savoir lorsque vous migrez votre entreprise de PMC vers l’espace partenaires
+description: Ce que vous devez savoir quand vous migrez votre entreprise de PMC vers l’Espace partenaires
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
-ms.localizationpriority: medium
-ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: a7db9b3241c239ea3de4f25a3be04ead01bb2718
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653099"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096499"
 ---
-# <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’espace partenaires
+# <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’Espace partenaires
 
-Le site Web partenaire Microsoft de partner.microsoft.com est une expérience numérique unifiée pour les partenaires. Sur le site Web du partenaire, vous serez en mesure d’explorer vos opportunités et de participer à des expériences guidées qui aident votre entreprise à créer et à vendre vos applications et services avec Microsoft. À l’aide du lien tableau de bord disponible sur le site Web du partenaire, les membres du Microsoft Partner Network peuvent se connecter à l’espace partenaires dans lequel vous gérez votre relation avec Microsoft, inscrire des programmes et vous inscrire à des offres. 
+Le site web des partenaires Microsoft à l’adresse partner.microsoft.com propose une expérience numérique unifiée pour les partenaires. Ce site web vous permet d’explorer vos opportunités et de participer à des expériences guidées pour aider votre entreprise à créer et à vendre des applications et services avec Microsoft. À l’aide du lien Tableau de bord disponible sur le site web des partenaires, les membres du Microsoft Partner Network peuvent se connecter à l’Espace partenaires pour gérer leur relation avec Microsoft, participer à des programmes et s’inscrire à des offres. 
 
-Le centre d’appartenance des partenaires (PMC) est en cours de mise hors service. Votre entreprise a été invitée à migrer votre gestion de l’appartenance au Microsoft Partner Network vers l’espace partenaires. Ce guide vous permet de vous préparer à ce qui se passe lorsque vous faites passer du PMC à l’espace partenaires.
+Le Partner Membership Center (PMC) est sur le point d’être mis hors service. Votre entreprise a été invitée à transférer la gestion des membres du Microsoft Partner Network vers l’Espace partenaires. Ce guide a pour but de préparer votre transition du PMC à l’Espace partenaires.
 
 >[!Note]
->Même si votre entreprise possède plusieurs comptes ou emplacements, le passage à l’espace partenaires commence par le déplacement d’un compte (votre premier) dans l’espace partenaires.
+>Même si votre entreprise a plusieurs comptes ou emplacements, vous devez commencer par transférer un compte (votre premier compte) vers l’Espace partenaires.
 
 ## <a name="get-started"></a>Prise en main
 
-Le déplacement commence dans PMC. Votre administrateur général recevra une invitation à commencer le déplacement. 
+Le transfert commence dans PMC. Votre administrateur général reçoit une invitation pour commencer le transfert. 
 
-**Préparer dans PMC**
+**Se préparer dans PMC**
 - Vérifier les détails de votre entreprise 
-- Vérifier le contact du programme principal 
-- Vérifier les emplacements d’entreprise
+- Vérifier le contact principal du programme 
+- Vérifier les emplacements de l’entreprise
 - Mettre à jour vos utilisateurs approuvés
 
 **Quand vous êtes prêt**
 
-Sélectionnez **prise en main** de votre invitation. Vous êtes redirigé vers la page de connexion de l’espace partenaires.
+Sélectionnez **Démarrer** dans votre invitation. Vous êtes alors dirigé vers la page de connexion à l’Espace partenaires.
 
 ![Prise en main](images/migration/getstarted.jpg)
 
-## <a name="start-with-your-work-email"></a>Commencez avec votre adresse de messagerie professionnelle
+## <a name="start-with-your-work-email"></a>Commencer par votre adresse e-mail professionnelle
 
-Si votre entreprise ne dispose pas d’un e-mail professionnel et d’un locataire AAD, nous pouvons vous aider à en configurer un au cours du processus de connexion de l’espace partenaires. Lorsque vous essayez de vous connecter avec un compte de messagerie qui n’est pas un e-mail professionnel, tel que votre compte personnel, vous êtes invité à fournir des informations sur votre entreprise afin que nous puissions configurer un locataire AAD et un e-mail professionnel.
-Ces détails de la société seront utilisés pour finaliser votre compte dans l’espace partenaires. Assurez-vous donc qu’ils sont exacts.
+Si votre entreprise ne dispose pas d’une adresse e-mail professionnelle et d’un locataire AAD, nous pouvons vous aider à les configurer au cours du processus de connexion à l’Espace partenaires. Quand vous essayez de vous connecter avec un compte e-mail qui n’est pas une adresse e-mail professionnelle, par exemple un compte personnel, vous êtes invité à fournir des informations sur votre entreprise afin que nous puissions configurer un locataire AAD et une adresse e-mail professionnelle.
+Ces détails sur votre entreprise étant utilisés pour finaliser votre compte dans l’Espace partenaires, vérifiez qu’ils ne contiennent pas d’erreurs.
 
 >[!Note]
->Si vous êtes un partenaire en Chine et que vous êtes inscrit à la fois dans le programme du fournisseur de solutions Cloud et Microsoft Partner Network, vous aurez un locataire distinct pour chaque compte. Votre compte avec le programme fournisseur de solutions Cloud est géré sur le Cloud national et votre compte Microsoft Partner Network est géré sur le Cloud global. Les deux comptes ne peuvent pas être liés.
+>Si vous êtes partenaire en Chine et que vous êtes inscrit à la fois au Microsoft Partner Network (MPN) et au programme Fournisseur de solutions Cloud (CSP), vous avez un locataire distinct pour chaque compte. Votre compte associé au programme Fournisseur de solutions Cloud est géré sur le cloud national, tandis que votre compte Microsoft Partner Network est géré sur le cloud global. Les deux comptes ne peuvent pas être liés.
 
-![Parlez-nous de votre entreprise](images/migration/newtellusabout.png)
+![Donner des renseignements sur votre entreprise](images/migration/newtellusabout.png)
 
-Une fois que vous avez vérifié ou mis à jour les informations, sélectionnez **accepter et continuer**.
-Les conditions générales de cette page sont **exactement les mêmes** que celles de l’accord que votre société a déjà signée PMC.  
-Cela initie la création de votre locataire Azure AD et fournit votre avec le compte professionnel.
+Après avoir vérifié ou mis à jour les informations, sélectionnez **Accepter et continuer**.
+Les conditions générales figurant dans cette page sont **exactement les mêmes** que celles contenues dans l’accord que votre entreprise a déjà signé dans PMC.  
+Votre locataire Azure AD est alors créé et vous recevez votre compte professionnel.
 
-Sélectionner **accepter et continuer** effectue également les opérations suivantes :
+Le fait de sélectionner **Accepter et continuer** a également les conséquences suivantes :
 
-• Migre votre compte et tous ses emplacements vers l’espace partenaires
+•   Migre votre compte et TOUS ses emplacements vers l’Espace partenaires
 
-• Migre les compétences ou cartes que vous avez achetées dans PMC
+•   Migre les compétences ou Microsoft Action Packs que vous avez achetés dans PMC
 
-• Migre tous les avantages (cartes, argent, or) que vous aviez dans PMC
+•   Migre les avantages (Microsoft Action Packs, Silver, Gold) dont vous disposiez dans PMC
 
 ## <a name="invite-employees-to-join-you"></a>Inviter des employés à vous joindre
 
-Lorsque votre nouveau locataire Azure AD est créé, vous pouvez inviter vos employés à se connecter à l’espace partenaires.
+Une fois votre locataire Azure AD créé, vous pouvez inviter vos employés à se connecter à l’Espace partenaires.
 
 ![Inviter des employés](images/migration/invite.png)
 
 
-Si vous vous êtes connecté avec un locataire AAD existant, vos employés seront déplacés avec vous. Dans ce cas, attribuez vos rôles employés, qui déterminent ce qu’ils peuvent faire dans l’espace partenaires. Remarque : les rôles dans l’espace partenaires sont différents des rôles dans PMC. Pour plus d’informations, consultez [passage de PMC à l’espace partenaires](move-pmc-pc-map.md).
+Si vous vous êtes connecté avec un locataire AAD existant, vos employés sont transférés avec vous. Dans ce cas, attribuez à vos employés des rôles qui contrôlent ce qu’ils peuvent faire dans l’Espace partenaires. Remarque: Les rôles dans l’Espace partenaires sont différents des rôles dans PMC. Pour plus d’informations, consultez [Passage de PMC à l’Espace partenaires](move-pmc-pc-map.md).
 
-## <a name="verify-your-domain-and-become-a-global-admin"></a>Vérifier votre domaine et devenir un administrateur général  
+## <a name="verify-your-domain-and-become-a-global-admin"></a>Vérifier votre domaine et devenir administrateur général  
 
-Si votre locataire AAD est nouveau, le rôle d’administrateur général n’est pas attribué à celui-ci. Pour devenir l’administrateur général, vous devez vérifier la propriété de votre domaine. Vous aurez peut-être besoin de l’administrateur de domaine pour vous aider. Notez que même si vous pouvez utiliser les offres que vous avez déjà achetées, vous ne serez pas en mesure d’acheter de nouvelles offres tant que vous n’aurez pas terminé l’étape d’obtention d’un administrateur général. 
+Si votre locataire AAD vient d’être créé, le rôle d’administrateur général n’est attribué à personne. Pour devenir administrateur général, vous devez vérifier la propriété de votre domaine. Vous devrez peut-être contacter l’administrateur de domaine pour obtenir de l’aide. Même si vous pouvez utiliser les offres que vous avez déjà achetées, vous ne pourrez pas en acheter de nouvelles tant que vous n’aurez pas obtenu un administrateur général. 
 
 ![Prendre le contrôle](images/migration/takecontrol.png)
 
-Lorsque vous sélectionnez prise en main, l’écran suivant s’affiche :
+Quand vous sélectionnez Démarrer, l’écran suivant s’affiche :
 
 ![Vérifier la propriété du domaine](images/migration/verifytxt.png)
 
-Votre bureau d’enregistrement de domaines sera déjà rempli pour vous. Seul le propriétaire du domaine peut mettre à jour le fichier DNS. par conséquent, en copiant et en ajoutant le fichier texte à votre enregistrement DNS, nous pouvons vérifier que vous êtes bien le propriétaire. Il faut quelques minutes pour que la mise à jour se produise. Vous devrez vous déconnecter de l’espace partenaires, puis vous reconnecter. Votre rôle aura été modifié en administrateur général. 
+Votre bureau d’enregistrement de domaines est déjà indiqué. Seul le propriétaire du domaine peut mettre à jour le fichier DNS. Par conséquent, en copiant et en ajoutant le fichier texte à votre enregistrement DNS, nous pouvons vérifier que vous êtes bien le propriétaire. La mise à jour nécessite quelques minutes. Vous devez ensuite vous déconnecter de l’Espace partenaires, puis vous reconnecter. Le rôle d’administrateur général vous est alors attribué. 
 
 
-## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Familiarisez-vous avec votre tableau de bord et votre espace partenaires
+## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Se familiariser avec le tableau de bord et l’Espace partenaires
 
-Suivez la visite guidée de votre tableau de bord. Ici, vous pouvez gérer votre abonnement, ajouter un profil d’entreprise pour les références, vous inscrire au programme fournisseur de solutions Cloud et consulter les notifications et les offres pertinentes pour votre entreprise à tout moment en sélectionnant **tableau de bord**. Vous pouvez également gérer les incentives, les acheter sur la place de marché, vous inscrire à des services Go-to-Market et bien plus encore.  
+Explorez votre tableau de bord. Ici, vous pouvez gérer votre adhésion, ajouter un profil d’entreprise pour les références, vous inscrire au programme Fournisseur de solutions Cloud et consulter les notifications et les offres pertinentes pour votre entreprise en sélectionnant **Tableau de bord** à tout moment. Vous pouvez également gérer les incentives, faire des achats dans la Place de marché, vous inscrire à des services de mise sur le marché et bien plus encore.  
 
-![Suivez la visite guidée](images/migration/fre.png)
+![Visite guidée](images/migration/fre.png)
 
 ## <a name="next-steps"></a>Étapes suivantes
 
@@ -99,6 +99,6 @@ Suivez la visite guidée de votre tableau de bord. Ici, vous pouvez gérer votre
 - [Créer le profil commercial de votre société](create-a-marketing-profile.md)
 - [Entrer en contact avec les clients via des références](responding-to-referrals.md)
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir également
 
-- [Guide de migration de plusieurs entreprises de PMC vers l’espace partenaires](move-multiple-companies.md)
+- [Guide de migration de plusieurs entreprises de PMC vers l’Espace partenaires](move-multiple-companies.md)

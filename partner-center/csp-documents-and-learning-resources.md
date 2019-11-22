@@ -9,13 +9,13 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutions Cloud, guide du programme, accords de partenariat, contrat client, tarifs, offres
-ms.localizationpriority: medium
-ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653570"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096519"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 
@@ -36,9 +36,9 @@ Passez en revue les exigences nécessaires pour devenir un partenaire du program
 >[!Note]
 >Si vous avez besoin d’une lettre d’accréditation confirmant ou certifiant votre statut de partenaire Microsoft agréé du programme Fournisseur de solutions Cloud, [contactez le support](https://partner.microsoft.com/pcv/servicerequests/create) pour en demander une.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Conditions supplémentaires pour l’accord de partenariat Microsoft
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Conditions d’offre supplémentaires pour le Contrat Partenaire Microsoft
 
-[Guide des conditions de l’offre supplémentaire pour les abonnements aux services en ligne et l’autorisation du canal logiciel](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Guide des conditions d’offre supplémentaires relatives aux abonnements aux services en ligne et aux autorisations d’accès au canal logiciel](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Modèles clients de contrat Microsoft Cloud
 
@@ -61,9 +61,9 @@ Si vous faites des affaires en Allemagne, vous devrez peut-être fournir cet ave
 
 Téléchargez les détails tarifaires des achats définitifs, basés sur la licence et basés sur l’utilisation à partir de la page **Tarification et offres**, disponible dans le menu **Espace partenaires**.
 
-La liste de prix basée sur les licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30 jours avant qu'elle n'entre en vigueur. Office 365, Enterprise Mobility Suite et Microsoft Dynamics CRM sont des exemples de services basés sur les licences. 
+La liste de prix basée sur des licences est mise à jour chaque mois. Microsoft publie la nouvelle tarification 30 jours avant qu’elle n’entre en vigueur. Office 365, Enterprise Mobility Suite et Microsoft Dynamics CRM sont des exemples de services basés sur les licences. 
 
-La tarification basée sur l'utilisation est dynamique et change fréquemment. Microsoft Azure est un exemple de service basé sur l’utilisation.
+La tarification basée sur l’utilisation est dynamique et change fréquemment. Microsoft Azure est un exemple de service basé sur l’utilisation.
 
 La tarification d’un achat définitif est également dynamique. Les réservations Microsoft Azure et les abonnements correspondants à Windows Server et SQL Server sont des exemples d’achats définitifs.
 
@@ -75,4 +75,4 @@ En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez 
 
 Pour les partenaires du programme Fournisseur de solutions Cloud qui utilisent l’API d’enregistrement de l’utilisation Crest, Microsoft publie également une liste des services Azure relatifs au programme Fournisseur de solutions Cloud dans la page **Tarification et offres**.
 
-Pour en savoir plus sur les offres de la Place de marché Azure publiées par les ISV (éditeurs de logiciels indépendants), visitez la page **Place de marché** dans le menu de navigation de gauche. Seuls les types de produit SaaS (Software as a Service) peuvent être achetés dans l’Espace partenaires. Vous devez visiter le Portail Azure pour obtenir d’autres types d’offres de la place de marché Azure.
+Pour en savoir plus sur les offres de la Place de marché Azure publiées par les ISV (éditeurs de logiciels indépendants), visitez la page **Place de marché** dans le menu de navigation de gauche. Seuls les types de produit SaaS (Software as a Service) peuvent être achetés dans l’Espace partenaires. Vous devez vous rendre sur le portail Azure pour accéder à d’autres types d’offre de la Place de marché Azure.
