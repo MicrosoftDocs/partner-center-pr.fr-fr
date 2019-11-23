@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use a customer account to assign or revoke licenses and services to one user or to multiple users at once.
+description: Découvrez comment utiliser un compte client pour affecter ou révoquer des licences et des services à un seul utilisateur ou à plusieurs utilisateurs à la fois.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: assign license, revoke license, assign to multiple users,
+Keywords: attribuer une licence, révoquer une licence, attribuer à plusieurs utilisateurs,
 ms.localizationpriority: medium
 ms.openlocfilehash: c5846a0d12331bdb1aec26bd6289ac0e11896584
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -25,18 +25,18 @@ ms.locfileid: "74253038"
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
-The Partner Center tracks and shows all customer-owned license entitlements.
+l’espace partenaires suit et affiche tous les droits de licence détenus par le client.
 
 ## <a name="in-this-section"></a>Dans cette section
 
 
--   [Assign licenses to multiple users](#assign-licenses-to-groups)
--   [Revoking users' license assignments](#revoking-licenses)
+-   [Attribuer des licences à plusieurs utilisateurs](#assign-licenses-to-groups)
+-   [Révocation des attributions de licences des utilisateurs](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**Assign licenses to multiple users**
+**attribuer des licences à plusieurs utilisateurs**
 
-1.  From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.
+1.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 2.  Sélectionnez **Utilisateurs et licences**.
 3.  Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 
@@ -62,16 +62,16 @@ The Partner Center tracks and shows all customer-owned license entitlements.
 7.  Sélectionnez plusieurs produits pour les utilisateurs en activant la case à cocher de chaque produit.
     -   Sélectionnez **Afficher les plans de services** pour un produit, afin d’afficher et de sélectionner les plans de services dont les utilisateurs ont besoin.
 
-8.  Sélectionnez **Enregistrer**. The Partner Center opens a **Licenses updated** confirmation page listing the users and their new licenses.
+8.  Sélectionnez **Enregistrer**. L’espace partenaires ouvre une page de confirmation des **licences mises à jour** qui répertorie les utilisateurs et leurs nouvelles licences.
 
-**Note**  Some Microsoft products may not be available in certain locations. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
+**Notez**  certains produits Microsoft peuvent ne pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
 
  
 
 <a href="" id="revoking-licenses"></a>
-**Revoking users' license assignments**
+de la **révocation des attributions de licences des utilisateurs**
 
-1.  From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.
+1.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 2.  Sélectionnez **Utilisateurs et licences**.
 3.  Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 
