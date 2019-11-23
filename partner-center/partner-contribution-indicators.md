@@ -11,20 +11,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9f536fa19d9f6cc36c9206a45a900a8345fc896b
-ms.sourcegitcommit: 79731c2c06fc773fa7fb4007590c0e94d7f0d052
+ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
+ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74197110"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74391686"
 ---
 # <a name="partner-contribution-indicators"></a>Indicateurs de contribution des partenaires
 
-Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes and therefore greater differentiation in the market when a partner attains and maintains the Cloud Business Applications competency. Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities.
+Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes for Dynamics 365. Partners receive greater differentiation in the market when they attain and maintain the Cloud Business Applications competency.  Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities. 
 
 ## <a name="scoring"></a>Notation
 
-PCI provides a sophisticated, holistic view of a partner’s technical capabilities, their ability to drive customer success, and their sales performance. PCI measures your company’s prior-year performance across seven key indicators:
+PCI provides a sophisticated, holistic view of your company’s technical capabilities, ability to drive customer success, and sales performance. PCI measures your company’s prior-year performance across seven key indicators:
 
 1. **Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.
 2. **Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.
@@ -40,7 +40,8 @@ Points are granted for each achieved indicator, resulting in a single-number PCI
 
 Each indicator brings a score that is added to the total. Here are the maximum scores for each indicator:
 
-![pci performance](images/pcinew2.png)
+
+![pci performance 2](images/pci1.png)
 
 ### <a name="thresholds"></a>Seuils
 
@@ -50,67 +51,28 @@ Points across each metric are tallied to yield a distinct PCI score for Customer
 
 Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Des points partiels peuvent être gagnés pour toutes les métriques, à l’exception de la croissance du consultant fonctionnel. Par exemple, un partenaire de marché développé avec 150 000 USD de nouveau revenu net gagne la moitié (150 000 USD/300 000 USD) des 10 points de valeur maximale.
 
-![customer engagement](images/pcix1.png)
+![customer engagement](images/pci/table_1.png)
 
-![Finance](images/pcix3.png)
+![Finance](images/pci/TABLE_2.png)
 
-![consultant](images/pcix4.png)
+![consultant](images/pci/table_3.png)
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Detailed definitions of PCI metrics
 
-|**Net new revenue**|**Summed up over training 12-months**|**Maximum of 10 points**|
-|---------------|----------------------------------|-----------------------|
-|Net new billed revenue across all sales channels for specified Dynamics 365 products.|
-|Calculé sous la forme « facturations moins crédits » et agrégé sur 12 mois.|
-|**Customer Engagement** products include Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent, and Enterprise Team Member.|
-|**Finance and Operations** products include Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent, and Enterprise Team Member.|
-|Les canaux de vente incluent, par exemple, EA (Contrat Entreprise), CSP (Fournisseur de solutions Cloud) et Web Direct.|
-|Les revenus de Contrat Entreprise incluent uniquement les revenus de la première année du contrat. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.|
+![net new revenue](images/net_new1.png)
 
-|**Net customer adds**|**Summed up over training 12-months**|**Maximum of 10 points**|
-|--------------|------------|---------------|
-|Clients nets ajoutés parmi tous les canaux de vente.|
-|Calculé mensuellement sous la forme « clients ajoutés moins clients perdus » et agrégé sur 12 mois.|
-|Un ajout de client a lieu quand un client n’a pas d’unités lancées payées pour le mois précédent, mais qu’il en a pour le mois en cours.|
-|Une perte de client a lieu quand un client a des unités lancées payées pour le mois précédent, mais qu’il n’en a pas pour le mois en cours.|
-|Les canaux de vente incluent, par exemple, EA (Contrat Entreprise), CSP (Fournisseur de solutions Cloud) et Web Direct.|
-|Quand un partenaire distinct est associé à un client dans un cas de d’attrition et de réacquisition, le partenaire le plus récent reçoit un crédit.|
+![net customer adds](images/netcustomer.png)
 
-|**Functional consultant**|**Current month snapshot**|**Maximum of 15 points**|
-|--------------|------------|---------------|
-|Number of individuals holding a currently active Functional Consultant Associate certification.|
-|**Customer Engagement** Functional Consultant certification requires and individual to pass MB-200 AND MB-210 OR MB-220 OR MB-230 OR MB-240 OR MB6-898.|
-|**Finance and Operations** Functional Consultant certification requires and individual to pass MB-300 AND MB-310 OR MB-320 OR MB-330 OR MB6-897 OR MB6-898.|
+![Functional Consultant](images/pci/functional_consultants.png)
 
-|**Functional consultant growth**|**Current month vs baseline on March 31, 2020**|**0 or 15 points**|
-|--------------|------------|---------------|
-|Growth in the number of certified Functional Consultant Associates since a baseline snapshot taken on March 31, 2020.|
-|The baseline snapshot is reset on the next Cloud Business Applications competency renewal date.|
-|To be eligible for points, must have a minimum of 15 Functional Consultant Associates for Developed market partners and 5 for Developing market partners when the baseline snapshot is taken.|
-|**Aucun point partiel accordé**. Growth on top of the baseline snapshot must meet or exceed the thresholds indicated in Table 3.|
+![growth](images/pci/functional_consultant_growth.png)
 
-|**Developers**|**Current month snapshot**|**Maximum of 15 points**|
-|--------------|------------|---------------|
-|Number of individuals holding a currently active Developer Associate certification.|
-|**Customer Engagement** Developer Associate certification requires an individual to pass both MB-200 AND MB-400 OR MB2-716.|
-|**Finance and Operations** Developer Associate certification requires an individual to pass MB-300 AND MB-500 OR MB6-894.|
+![Développeurs](images/pci/developers.png)
 
-**New large deployments**|**Summed up over trailing 12-months**|**Maximum of 15 points**|
-|--------------|------------|---------------|
-|For **Customer Engagement**, this is the number of production instances under a tenant that has crossed 250 monthly active users for Developed & 150 Monthly active users for Developing market partners.|
-|For **Finance & Operations**, this is the number of production instances under a tenant that has crossed 100 monthly active users for Developed & 50 Monthly active users for Developing market partners.|
-|A tenant is considered to have crossed the monthly active user threshold if it was below the specified threshold 12 months ago and crossed that threshold at least once over the subsequent 11 months.|
-|Monthly active users are counted at the tenant level and summed up across only the paid subscriptions under the tenant.|
-|Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois.|
-|Partners are associated to tenants at the subscription level. Subscriptions are mapped to Customer Engagement or Finance and Operations products. All partners associated to any paid subscription under a tenant will get credit for all the Customer Engagement or Finance and Operations production instances under that tenant.|
+![New deployments](images/pci/new_large_deployments.png)
 
-**Monthly active user growth**|**Current month vs baseline from 12 months ago**|**Maximum of 25 points**|
-|--------------|------------|---------------|
-|For **Customer Engagement**, Developed market partners must have a baseline of at least 250 monthly active users, and Developing market partners must have a baseline of 150 monthly active users across their entire customer base 12 months ago to be eligible for points.|
-|For **Finance and Operations**, Developed market partners must have a baseline of at least 100 monthly active users, and Developing market partners must have a baseline of 50 monthly active users across their entire customer 12 months ago to be eligible for points.|
-|Monthly active users are counted at the tenant level and summed up across only the paid subscriptions under the tenant.|
-|Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois.|
-|Partners are associated to tenants at the subscription level. Subscriptions are mapped to Customer Engagement or Finance and Operations products. All partners associated to any paid subscription under a tenant will get credit for all the Customer Engagement or Finance and Operations monthly active users summed up across all paid subscriptions under that tenant.|
+![active users](images/pci/monthly_active_user_growth.png)
+
 
 ## <a name="customer-to-partner-association"></a>Association entre client et partenaire
 
@@ -128,7 +90,7 @@ Quand il existe un même CPOR et DPOR pour un abonnement donné, celui-ci reçoi
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 
-Please visit [Partner Center Indicators information](https://aka.ms/pcilearn) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
+Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
 
 
 

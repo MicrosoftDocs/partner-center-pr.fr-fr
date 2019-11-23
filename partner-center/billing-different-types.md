@@ -1,184 +1,36 @@
 ---
-title: Présentation des types de facturation dans l’Espace partenaires | Espace partenaires
+title: Types of billing in Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: En savoir plus sur les différents types de facturation, les périodes de facturation et les dates de facturation que vous pouvez voir dans l’espace partenaires.
+Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation, paiements, commandes, fichiers de rapprochement, fichier de rapp
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 539d3150e571c33114feee2d316611d7ac324f24
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253201"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384854"
 ---
-# <a name="understanding-the-types-of-billing-in-partner-center"></a>Présentation des types de facturation dans l’Espace partenaires
+# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
 
-**S’applique à**
+S'applique à :
 
--  Espace partenaires
--  Partenaires du programme Fournisseur de solutions Microsoft Cloud
+- Espace partenaires
+- Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
-Selon les types de produits que vous achetez pour vos clients, vous pouvez constater des périodes de facturation distinctes et être facturé à des jours différents du même mois. Cet article détaille ce qui a changé depuis le 1er mars 2019 et en quoi ces changements vous affectent.
+You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
 
-## <a name="billing-for-recurring-charges"></a>Facturation des frais récurrents
+- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
+- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
+- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
+- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
 
-L’expérience de facturation des frais récurrents liés aux abonnements basés sur une licence et sur l’utilisation ne change pas. Nous continuerons à vous facturer le jour du mois que vous avez sélectionné comme date de facturation et votre période de facturation continuera à être le mois précédant cette date. Si vous avez sélectionné le quinzième jour du mois pour la date de facturation, vous êtes facturé pour toutes les activités du 15 mois calendaire jusqu’au 14 du mois calendaire suivant. Les factures et fichiers de rapprochement sont généralement disponibles 2 à 4 jours après la date de facturation.
+Selon les types de produits que vous achetez pour vos clients, vous pouvez constater des périodes de facturation distinctes et être facturé à des jours différents du même mois.
 
-Comme précédemment, nous vous facturerons pour ces produits dans la devise du pays ou de la région où vous vous trouvez, quel que soit l’emplacement du client auquel vous avez vendu le produit.
-
-## <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturation ponctuelle et frais récurrents
-
-Depuis le 1er mars 2019, nous avons introduit une nouvelle expérience de facturation pour les frais récurrents et ponctuels correspondants aux produits ISV Microsoft et tiers.
-
-Pour ces produits, la période de facturation commence le premier jour du mois civil et se termine le dernier jour du mois civil. Nous rendons votre facture disponible le huitième jour du mois suivant. 
-
-En d’autres termes, toutes les transactions effectuées entre le 1er mai et le 31 mai 2019 apparaissent sur votre facture le 8 juin. Toutes les transactions que vous effectuez entre le 1er et le 30 juin 2019 apparaissent sur votre facture le 8 juillet. Vous pouvez être facturé pour des achats récurrents et ponctuels sur la même facture. 
-
-Vous pouvez également consulter le solde/la facture de votre compte chaque fois que vous le souhaitez (par exemple, entre le 1er mai et le 7 juin) et voir l’activité récente du compte sans devoir attendre la facture. Notez que lorsque nous publions votre facture le 8, elle inclut les taxes et autres frais et crédits applicables et dès lors, le montant final peut différer de ce qui s'affiche au cours de la période de facturation. 
-
-Vous allez accéder à vos factures de la même façon que vous le faites dans l’espace partenaires ou via une API. Ils apparaîtront avant minuit (UTC) le 8ème jour du mois. 
-
-|**Expérience de facturation**|**Type(s) de produit**|**Date de facturation**|**Période de facturation**|**Devise de facturation**|**Activité actuelle disponible ?**|
-|:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-|Frais récurrents des abonnements basés sur la licence et l’utilisation |Tous les produits du [catalogue de services en ligne](https://partner.microsoft.com/commerce/preferredoffers/list). Exemples : Office 365, Microsoft 365, Azure Active Directory, Azure (paiement à l’utilisation), Dynamics 365, PowerBI Pro |Date que vous avez sélectionnée lors de la création de votre compte Espace partenaires |Mois précédant votre date de facturation. |Devise du pays ou de la région où vous vous trouvez. Par exemple, si votre entreprise est située au Royaume-Uni, nous vous facturerons en British livres sterling (GBP). Si votre entreprise est située en Inde, nous vous facturerons en Inde Roupie (INR).  |Non |
-|Frais récurrents et ponctuels pour les produits ISV Microsoft et tiers |Tous les abonnements SaaS, réservations Azure et produits logiciels (perpétuels et basés sur un abonnement) proposés par Microsoft et des éditeurs de logiciels indépendants. Consultez les produits disponibles sur la [Place de marché](https://partner.microsoft.com/commerce/sales?type=Any&category=Any). À titre d'exemple, le logiciel SUSE Linux (abonnement logiciel), Windows Server 2019 Essentials (logiciel perpétuel) et l’abonnement au produit Azure ISV SaaS y figurent. |Le 8 de chaque mois |Du premier au dernier jour de chaque mois civil |Devise du pays/région où se trouve votre client. Cela signifie que vous allez recevoir des factures et des fichiers de rapprochement distincts dans la devise du pays ou de la région de chaque client que vous avez vendu au cours de la période de facturation. |Oui |
-
-## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>Scénarios de facturation des achats ponctuels et périodiques
-### <a name="scenario-1---purchase-a-subscription-and-then-add-a-seat-on-the-same-day"></a>Scénario 1 : acheter un abonnement et ajouter un siège le même jour
-
-Dans le scénario 1, vous achetez un abonnement le 11 juin à un prix unitaire de 4 $. Plus tard dans la journée, vous achetez un autre abonnement au même tarif. 
-
-Le fichier de rapprochement inclut les éléments suivants : 
--   $4 facture pour service période du 10 juin au 9 juillet. 
--   facture au prorata de $-4,00 pour la période de service du 11 juin au 11 juin. Il s’agit de la période au cours de laquelle vous aviez 1 licence. Calcul = (prix mensuel/total des jours dans la période de service) x jours dans la période de service au prorata x nombre de licences = (4/30) x 30 x 1 = 4,00.
--   facture au prorata de $8,00 pour la période de service du 10 juin au 9 juillet. Il s’agit de la période au cours de laquelle vous aviez 2 licences. Calcul = (4/30) x 30 x 2 = 8,00.
-
-|**Date d’achat**   |**Début de facturation**  |**Fin de facturation**  |**Prix unitaire**  |**Quantité**  |**Montant** |**Type de facturation** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/06/2019      |10/06/2019   |09/07/2019         |4 $                |1                 |4 $            |Nouveau         |
-|11/06/2019     | 10/06/2019    |09/07/2019        |4 $        |1        | -4 $       |addQuantity           |
-|11/06/2019     | 10/06/2019    |09/07/2019        |4 $        | 2      |8 $         |addQuantity           |
-
-### <a name="scenario-2---purchase-a-subscription-and-then-add-more-later"></a>Scénario 2 : acheter un abonnement, puis ajouter plus tard
-
-Dans le scénario 2, vous achetez un abonnement le 11 juin à un prix unitaire de $4 et le 12 juin, vous en achetez un autre pour le même produit au même prix. 
-
-Le fichier de rapprochement inclut les éléments suivants : 
--   $4 facture pour service période du 10 juin au 9 juillet. 
--   facture au prorata de $-3,87 pour la période de service du 11 juin au 12 juin. Il s’agit de la période au cours de laquelle vous aviez 1 licence. Calcul = (prix mensuel/total des jours dans la période de service) x jours dans la période de service au prorata x nombre de licences = (4/30) x 29 x 1 = 3,87.
--   facture au prorata de $7,74 pour la période de service du 12 juin au 9 juillet. Il s’agit de la période au cours de laquelle vous aviez 2 licences. Calcul = (4/30) x 29 x 2 = 7,74.
-
-|**Date d’achat**   |**Début de facturation**  |**Fin de facturation**  |**Prix unitaire**  |**Quantité**  |**Montant** |**Type de facturation** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/06/2019 (vous avez une licence)     |10/06/2019   |09/07/2019         |4 $         |1        |4 $            |Nouveau         |
-|12/06/2019     | 10/06/2019    |09/07/2019        |4 $        |1        | -3,87 $       |addQuantity           |
-|12/06/2019     | 10/06/2019    |09/07/2019        |4 $        | 2      |7,74 $       |addQuantity           |
-
-### <a name="scenario-3---purchase-a-subscription-and-then-remove-a-seat-on-the-same-day"></a>Scénario 3 : acheter un abonnement et supprimer un siège le même jour
-
-Dans le scénario 3, vous achetez deux abonnements pour le même produit le 11 juin à un prix unitaire de $4. Plus tard dans la journée, vous supprimez l’un des sièges.  
-
-Le fichier de rapprochement inclut les éléments suivants : 
--   $8 facture pour deux licences pour la période de service du 10 juin au 9 juillet. 
--   facture au prorata de $-8,00 pour la période de service du 11 juin au 11 juin. Il s’agit de la période au cours de laquelle vous aviez 2 licences. Calcul = (prix mensuel/total des jours dans la période de service) x jours dans la période de service au prorata x nombre de licences = (4/30) x 30 x 2 = 8,00.
--   facture au prorata de $4,00 pour la période de service du 11 juin au 9 juillet. Il s’agit de la période au cours de laquelle vous aviez 1 licence. Calcul = (4/30) x 30 x 1 = 4,00.
-
-|**Date d’achat**   |**Début de facturation**  |**Fin de facturation**  |**Prix unitaire**  |**Quantité**  |**Montant** |**Type de facturation** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/06/2019      |10/06/2019   |09/07/2019         |4 $                |2                 |8 $            |Nouveau         |
-|11/06/2019     | 10/06/2019    |09/07/2019        |4 $        |2        | -8 $       |removeQuantity           |
-|11/06/2019     | 10/06/2019    |09/07/2019        |4 $        | 1      |4 $         |removeQuantity           |
-
-### <a name="scenario-4---purchase-a-subscription-and-then-remove-seats-later"></a>Scénario 4 : acheter un abonnement et supprimer les sièges ultérieurement
-
-Dans le scénario 4, vous achetez 2 abonnements le 11 juin à un prix unitaire de 4 $, puis le 12 juin, vous supprimez l’un des sièges. 
-
-Le fichier de rapprochement inclut les éléments suivants : 
--   $8 facture pour service période du 10 juin au 9 juillet. 
--   facture au prorata de $-7,74 pour la période de service du 11 juin au 12 juin. Il s’agit de la période au cours de laquelle vous aviez 2 licences. Calcul = (prix mensuel/total des jours dans la période de service) x jours dans la période de service au prorata x nombre de licences = (4/30) x 29 x 2 = 7,74.
--   facture au prorata de $3,87 pour la période de service du 12 juin au 9 juillet. Il s’agit de la période au cours de laquelle vous aviez 1 licence. Calcul = (4/30) x 29 x 1 = 3,87.
-
-|**Date d’achat**   |**Début de facturation**  |**Fin de facturation**  |**Prix unitaire**  |**Quantité**  |**Montant** |**Type de facturation** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11/06/2019 (vous avez 2 licences)     |10/06/2019   |09/07/2019         |4 $         |2        |8 $       |Nouveau       |
-|12/06/2019     | 10/06/2019    |09/07/2019        |4 $        |2        | -7,74 $       |removeQuantity           |
-|12/06/2019 (vous avez 1 licence)    | 10/06/2019    |09/07/2019   |4 $    |1      |3,87 $    |removeQuantity |
-
-## <a name="billing-scenarios-for-free-trial-license-based-saas-transactions"></a>Scénarios de facturation liés aux transactions SaaS basées sur une licence d’essai gratuit
-### <a name="scenario-5---renew-a-license-based-free-trial-saas-subscription-to-a-paid-subscription-at-the-end-of-the-free-trial-period"></a>Scénario 5 : renouveler un abonnement SaaS d’essai gratuit basé sur une licence à un abonnement payant à la fin de la période d’essai gratuite
-
-Dans ce scénario, vous achetez un abonnement SaaS (software as a service) basé sur une licence d’essai gratuit le 10 juin et celui-ci est automatiquement renouvelé en tant qu’abonnement payant au terme de la période d'essai gratuite. 
-
-Les fichiers de rapprochement incluent les éléments suivants : 
-- $0 facture pour service période du 10 juin au 9 juillet 
-- $2 facture pour service période du 10 juillet au 9 août
-
-|**Date d’achat**   |**Début de facturation**  |**Fin de facturation**  |**Prix unitaire**  |**Quantité**  |**Montant** |**Type de facturation** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|10/06/2019 (vous avez 1 licence)      |10/06/2019   |09/07/2019         |0 $                |1                 |0 $            |Nouveau         |
-|10/07/2019 (vous avez 1 licence)     | 10/07/2019    |09/08/2019        |2 $        |1        | 2 $       |renouveler           |
-
-### <a name="scenario-6---cancel-a-license-based-free-trial-saas-subscription"></a>Scénario 6 : annuler un abonnement SaaS d’essai gratuit basé sur une licence
-
-À tout moment, vous pouvez annuler un abonnement SaaS (software as a service) basé sur une licence d'essai gratuit, même pendant la période d’essai gratuite. 
-
-Dans ce scénario, vous achetez un abonnement SaaS basé sur une licence d'essai gratuit le 1er juillet, puis l’annulez immédiatement dans l’Espace partenaires. 
-
-Le fichier de rapprochement inclut les éléments suivants : 
-- $0 facture pour service période du 10 juin au 9 juillet pour le nouvel achat
-- $0 facture pour service période du 10 juillet au 9 juillet pour l’annulation
-
-|**Date d’achat**   |**Début de facturation**  |**Fin de facturation**  |**Prix unitaire**  |**Quantité**  |**Montant** |**Type de facturation** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|10/06/2019 (vous 11 licences)      |10/06/2019   |09/07/2019         |0 $                |11                |0 $            |Nouveau         |
-|10/06/2019 (vous n’avez aucune licence)     | 10/06/2019    |09/07/2019        |0 $        |11       | 0 $       |annuler           |
-
-### <a name="scenario-7---convert-a-custom-meter-saas-subscription-from-one-sku-to-another-for-the-same-product-on-the-same-day"></a>Scénario 7-convertir un abonnement SaaS de compteur personnalisé d’une référence (SKU) vers une autre pour le même produit le même jour
-
-Dans ce scénario, vous achetez une référence SKU (Silver) sous un produit et la convertissez en une autre référence SDK (Bronze) disponible sous ce produit le même jour. 
-
-Le fichier de rapprochement inclut les éléments suivants : 
-- $20 Bill of Silver pour service period juin, 2019-10 juillet, 2020
-- facture au prorata de $20 pour Silver pour la période de service 2019, du 10 juin au 9 juillet, 2020
-- $10 facture de bronze pour la période de service 2019, du 10 juin au 9 juillet, 2020
-
-|**Date d’achat**   |**Référence SKU**   |**Début de facturation**   |**Fin de facturation**  |**Prix unitaire**  |**Quantité**  |**Montant** |**Type de facturation** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|10/06/2019 (vous avez 1 licence) |Silver     |10/06/2019   |10/06/2019         |20 $        |1         |20 $            |Nouveau      |
-|10/06/2019 (vous avez 1 licence) |Silver    | 10/06/2019    |10/06/2019        |20 $        |1       | -20 $       |Convertir           |
-|10/06/2019 (vous avez 1 licence) |Bronze    | 10/06/2019    |10/06/2019        |10 $        |1       | 10 $       |Convertir           |
-
-### <a name="scenario-8---purchase-and-cancel-a-custom-meter-saas-subscription-from-the-azure-portal-on-the-same-day"></a>Scénario 8 : acheter et annuler un abonnement SaaS à un compteur personnalisé à partir de la Portail Azure le même jour 
-
-Dans ce scénario, vous achetez un abonnement SaaS avec compteur personnalisé sur le portail Azure, puis l'annulez le même jour. 
-
-|**Date d’achat**   |**Référence SKU**   |**Début de facturation**   |**Fin de facturation**  |**Prix unitaire**  |**Quantité**  |**Montant** |**Type de facturation** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|10/06/2019 (vous avez 1 licence) |Bronze     |10/06/2019   |10/06/2019         |10 $        |1         |10 $            |Nouveau      |
-|10/06/2019 (vous n'avez aucune licence) |Bronze    | 10/06/2019    |10/06/2019        |10 $        |1       | -10 $       |CancelImmediate  |
-
-## <a name="billing-under-the-azure-plan"></a>Facturation dans le cadre du plan Azure
-
-- **Date**de la facture : le fichier de facture et de rapprochement sera disponible dans le tableau de bord/API de l’espace partenaires du 8 (minuit UTC).
-
-- **Période de facturation**de la facture : la période de facturation de la facture est alignée sur le mois civil, par exemple, 10/1-10/31, 11/1-11/30).
-
-- **Chargez les périodes de service**: les frais seront alignés sur le mois calendaire. Par exemple, si le partenaire facturé ajoute des services Azure par le biais d’un plan Azure le 15 octobre et que le client commence à consommer les services Azure le 15 octobre, alors le partenaire facturé reçoit la facture/le rapprochement le 8 novembre pour la consommation effectuée par le client pendant la période de service allant du 15 au 31 octobre. La facture du mois suivant qui va être générée le 08/12 contient tous les frais relatifs à la période de service 01/11 au 31/11.
-
-- **Conditions de paiement**de la facture : net 60 jours.
-
-- **Devise**de la facture : les partenaires continuent à être facturés dans la devise country’s affectée du client. Par exemple, si le partenaire facturé est en Irlande avec des clients au Royaume-Uni, en Norvège et en Allemagne, alors le partenaire facturé reçoit une facture/un rapprochement en GBP, NOK et EUR.
-
-- **Incentives partenaires**: 45 jours à partir de la fin du mois de la facture.
-
-Pour plus d’informations sur le plan Azure, consultez :
-
-- [Plan Azure-vue d’ensemble](azure-plan-get-started.md)
-
-- [Plan Azure-facturation](azure-plan-billing.md)
+If you’ve chosen to be billed monthly or if you’ve bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center. After you’ve successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date. Once created, this date cannot be changed.
