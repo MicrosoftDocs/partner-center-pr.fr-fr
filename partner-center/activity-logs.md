@@ -44,7 +44,7 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
     -   **Action** : action entreprise par le client, par exemple « création d’une référence »
     -   **Utilisateur partenaire** : partenaire associé à l’activité.
 
-4.  Sélectionnez **Exporter le journal** pour copier les données de l’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
+4.  Sélectionnez **Exporter le journal** pour copier les données d’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
     
  
 

@@ -33,7 +33,7 @@ Pour gérer les réservations Azure de vos clients, vous devez sélectionner le 
 
 3. Sous **actions**, sélectionnez **gérer** pour accéder à l’enregistrement de réservation du client dans la portail Azure. Sur la page des détails de la réservation, suivez les étapes ci-dessous pour effectuer des tâches.  
 
-    | **Sélectionné**   | **Pour**    |
+    | **Sélectionné**   | **À**    |
     |:-----------------------------|:-----------------|
     | **Vue d’ensemble**   | Affichez les détails de la réservation d’un client, y compris la date d’expiration, l’étendue et les données d’utilisation. **REMARQUE** Sélectionnez **Remboursement** pour créer une demande de support en vue d'un remboursement calculé au prorata. Sélectionnez **Échange** pour créer une demande de support en vue de l'échange de la période de réservation non utilisée.  
     | **Access Control (IAM)**   | Gérez l’accès aux informations de réservation du client.|

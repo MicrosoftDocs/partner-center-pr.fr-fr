@@ -1,12 +1,12 @@
 ---
-title: Invoice files | Partner Center
+title: Fichiers de facture | Espace partenaires
 ms.topic: article
 ms.date: 08/26/2019
-description: Understand the fields in your invoice file for Partner Center billing.
+description: Comprendre les champs de votre fichier de facture pour la facturation de l’espace partenaires.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, invoice
+keywords: facturation, facture
 ms.localizationpriority: medium
 ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,48 +15,48 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389837"
 ---
-# <a name="invoice-files"></a>Invoice files
+# <a name="invoice-files"></a>Fichiers de facture
 
-You can use the following tables to understand the fields in Partner Center invoice files.
+Vous pouvez utiliser les tableaux suivants pour comprendre les champs des fichiers de facture de l’espace partenaires.
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Champs du fichier de facture
 
-The following fields appear on your invoice files.
+Les champs suivants s’affichent sur vos fichiers de facture.
 
 | Champ | Définition |
 | ----- | ---------- |
-| Numéro d’identification américain FEIN | Your Federal Employer Identification Number (FEIN). This is your United States federal tax identifier number. |
+| Numéro d’identification américain FEIN | Votre numéro d’identification d’employeur fédéral (FEIN). Il s’agit de votre numéro d’identificateur fiscal fédéral États-Unis. |
 | Numéro de client | Votre numéro de client. |
-| Adresse de facturation | Adresse d’expédition de votre facture. You can change your company name and/or address in your Partner Center billing profile. |
-| Frais basés sur la licence | The flat monthly or annual charges for your purchased usage-based licenses, billed in advance of the service. This number is the sum of all charges in the **Subtotal** column (column **T**) in your license-based reconciliation file. |
-| Frais basés sur l’utilisation | Your Azure usage. This includes new services or applications enabled and used during the billing period. This number is the sum of all charges in the **PretaxCharges** column (column **Z**) in your usage-based reconciliation file. |
-| Remises | The discount that the customer receives from subscription's normal price. This number is shown as a *flat amount*, not as a price per unit or license. |
-| Crédits | Credits or adjustments for changes made to subscriptions (for example, seat increases or decreases). |
+| Adresse de facturation | Adresse d’expédition de votre facture. Vous pouvez modifier le nom et/ou l’adresse de votre société dans votre profil de facturation de l’espace partenaires. |
+| Frais basés sur la licence | Frais mensuels ou annuels fixes pour vos licences achetées basées sur l’utilisation, facturés à l’avance du service. Ce nombre correspond à la somme de tous les frais dans la colonne de **sous-total** (colonne **T**) de votre fichier de réconciliation basé sur les licences. |
+| Frais basés sur l’utilisation | Votre utilisation d’Azure. Cela comprend les nouveaux services ou applications activés et utilisés au cours de la période de facturation. Ce nombre correspond à la somme de tous les frais dans la colonne **PretaxCharges** (colonne **Z**) de votre fichier de réconciliation basé sur l’utilisation. |
+| Remises | Remise que le client reçoit du tarif normal de l’abonnement. Ce nombre est indiqué sous la forme d’un *montant fixe*, et non d’un prix unitaire ou d’une licence. |
+| Crédits | Crédits ou ajustements pour les modifications apportées aux abonnements (par exemple, augmentation ou diminution du siège). |
 | Sous-total | Total avant les taxes et frais et crédits hors taxes. |
-| Taxe | The total tax for your current charges, as totaled in the **Details** section beginning on page 2 of your invoice. This number is the sum of all charges in the **TaxAmount** column (column **AA**) in your usage-based reconciliation file, and the **Tax** column (column **U**) in your license-based reconciliation file. |
+| Taxe | Taxe totale de vos frais actuels, telle qu’elle est totalisée dans la section de **Détails** à partir de la page 2 de votre facture. Ce nombre correspond à la somme de tous les frais dans la colonne **TaxAmount** (colonne **AA**) de votre fichier de réconciliation basé sur l’utilisation, et de la colonne **Tax** (colonne **U**) dans votre fichier de réconciliation basé sur les licences. |
 | Autres crédits | Crédits hors taxes. |
-| Total des frais en cours | The amount due in your billing currency for the billing period. These charges are due by the payment due date. |
-| Instructions pour le paiement | Description of how to pay your invoice, based on your region. *Always be sure to include your invoice number when making a payment.* |
+| Total des frais en cours | Montant dû dans votre devise de facturation pour la période de facturation. Ces frais sont dus à la date d’échéance du paiement. |
+| Instructions pour le paiement | Description de la façon de payer votre facture, en fonction de votre région. *Veillez à toujours inclure votre numéro de facture lors de l’exécution d’un paiement.* |
 | Numéro de facture | Numéro de votre facture. |
-| Période de facturation | The monthly period leading up to the invoice date. This is the period during which usage-based services are consumed and license-based services are reconciled for any credit adjustments or changes in license count. |
-| Date de facturation | The billing date or anniversary date on which your invoice is generated each month. |
-| Modalités de paiement | The payment term. Pour les achats ponctuels, le délai sera toujours de 60 jours. |
-| Date d’échéance du paiement | The date by which your payment must be received. |
-| Numéro du bon de commande du client | Your purchase number order. |
-| Service client | The website address where you can access customer service. |
-| Bénéficiaire du service | The address where the service is being used. (This is the legal company address associated with company vetting.) |
+| Période de facturation | Période mensuelle menant à la date de la facture. Il s’agit de la période pendant laquelle les services basés sur l’utilisation sont consommés et les services basés sur des licences sont conciliés pour les ajustements de crédit ou les modifications de nombre de licences. |
+| Date de facturation | Date de facturation ou date anniversaire à laquelle votre facture est générée chaque mois. |
+| Modalités de paiement | Conditions de paiement. Pour les achats ponctuels, le délai sera toujours de 60 jours. |
+| Date d’échéance du paiement | Date à laquelle votre paiement doit être reçu. |
+| Numéro du bon de commande du client | Votre ordre de numéro d’achat. |
+| Service client | L’adresse du site Web où vous pouvez accéder au service client. |
+| Bénéficiaire du service | Adresse à laquelle le service est utilisé. (Il s’agit de l’adresse de la société légale associée à l’aide à la société.) |
 
-## <a name="one-time-charges-fields"></a>One-time charges fields
+## <a name="one-time-charges-fields"></a>Champs de frais à usage unique
 
-The following fields only apply to **one-time charges** in Partner Center:
+Les champs suivants s’appliquent uniquement aux **frais à usage unique** dans l’espace partenaires :
 
 | Champ | Définition |
 | ----- | ---------- |
 | Date | Date d’achat. |
 | Description | Nom du produit. |
-| Quantité | The number of products (such as reservations) purchased. |
-| Prix unitaire | Price per product (such as a reservation). |
+| Quantité | Le nombre de produits (par exemple, réservations) achetés. |
+| Prix unitaire | Prix par produit (par exemple, une réservation). |
 | Remises | Toutes les remises applicables. |
 | Montant hors taxe | Sous-total des achats avant impôts. |
 | Taxe de vente | Montant des taxes. |
-| Total | Total amount to be paid. |
+| Total | Montant total à payer. |

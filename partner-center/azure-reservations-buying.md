@@ -75,7 +75,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | Christmas (île)     | Maldives     | Sainte-Hélène, ascension, Tristan da Cunha     |
 > | Cocos-Keeling (îles)     | Mali     | Surinam     |
 > | Comores (Les)     | Marshall (îles)     | Svalbard     |
-> | République démocratique du Congo     | Martinique     | Swaziland     |
+> | Congo     | Martinique     | Swaziland     |
 > | Congo (RDC)     | Mauritanie     | Timor-Leste   |
 > | Cook (îles)     | Mayotte     | Togo   |
 > | Djibouti     | Micronésie     | Tokelau   |
@@ -115,7 +115,7 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
 6. Une fois que vous avez trouvé la ou les réservations que vous souhaitez acheter, entrez le nombre d’instances réservées dont le client aura besoin dans **quantité** , puis sélectionnez **Ajouter au panier**.  
 
-7. Répétez les étapes 5 et 6 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Révision** pour vérifier que la commande est correcte.  
+7. Répétez les étapes 5 et 6 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Vérifier** pour vérifier que la commande est correcte.  
 
 8. Dans la page **Passer en revue vos commandes**, vous pouvez : 
 

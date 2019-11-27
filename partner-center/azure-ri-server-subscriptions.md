@@ -53,7 +53,7 @@ Avec une combinaison non appariée de tarification attrayante et une flexibilit�
 #### <a name="server-subscriptions"></a>et serveur
 -   Windows Server
 -   Cal Services Bureau à distance (RDS)
--   SQL Server
+-   SQL Server
 
 #### <a name="linux-isv-annual-subscriptions"></a>Abonnements annuels ISV Linux
 -   SUSE Linux

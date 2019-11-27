@@ -2,7 +2,7 @@
 title: Lire votre facture | Espace partenaires
 ms.topic: article
 ms.date: 11/21/2019
-description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
+description: Votre facture est un résumé de toutes les facturations de l’espace partenaires (dans le programme, les produits et les clients) pour la période mensuelle en cours.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -19,49 +19,49 @@ ms.locfileid: "74384823"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
-S'applique à :
+S’applique à :
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
-Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
+Votre **facture** est un **Résumé de toutes les facturations de l’espace partenaires** (dans le programme, tous les produits et tous les clients) pour la **période de facturation en cours**.
 
-## <a name="invoice-types"></a>Invoice types
+## <a name="invoice-types"></a>Types de facture
 
-You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
+Vous recevrez une facture pour tous les frais basés sur une licence (par exemple, Office 365) et les frais basés sur l’utilisation (par exemple, Azure).
 
-You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
+Vous recevrez une facture distincte pour les frais à usage unique (par exemple, les instances de machines virtuelles réservées Azure).
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Champs du fichier de facture
 
-For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
+Pour obtenir une description détaillée de tous les champs de votre fichier de facture (y compris les champs pour les frais à usage unique), consultez [champs de fichier de facture](invoice-file.md).
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>Rechercher votre facture
 
-You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
+Vous pouvez trouver votre facture sur la page **facturation** du tableau de bord de l’espace partenaires. Vous pouvez également trouver l’historique de facturation, les tendances de dépense et les fichiers de rapprochement sur cette page.
 
-1. Sign in to the dashboard in Partner Center.
-2. In the left-hand menu, select **Billing**.
-3. On the **Billing** page, select the invoice you want to download.
-    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
-    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
+1. Connectez-vous au tableau de bord dans l’espace partenaires.
+2. Dans le menu de gauche, sélectionnez **facturation**.
+3. Sur la page **facturation** , sélectionnez la facture que vous souhaitez télécharger.
+    - Vous pouvez trouver un lien vers votre dernière facture en haut de la page, sous **solde du compte à la date de la dernière facture**.
+    - Vous trouverez les factures précédentes dans la section **historique de facturation** . Choisissez l’année appropriée, puis sélectionnez la flèche déroulante en regard de la **période de facturation**appropriée. Vous pouvez sélectionner le lien en regard de **factures (. pdf)** pour télécharger la facture de cette période.
 
-## <a name="understand-billing-periods"></a>Understand billing periods
+## <a name="understand-billing-periods"></a>Comprendre les périodes de facturation
 
-Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
+Votre facture est disponible dans les **deux (2) jours suivant** la date de facturation sélectionnée en **heure UTC**.
 
-For example, if you have a September 12th monthly billing date:
+Par exemple, si vous avez une date de facturation mensuelle de 12 septembre :
 
-- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
-- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
-- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
+- Le processus de génération de facture **commencera** à 12:00 UTC le 13 septembre.
+- Le processus de génération de facture se **termine** de 12:00 UTC le 14 septembre.
+- Si vous ne voyez pas votre facture de 11:59PM UTC le 15 septembre, vous n’êtes pas dans votre Contrat de niveau de service (SLA) et vous devez effectuer une demande de service.
 
-### <a name="csp-monthly-billing"></a>CSP monthly billing
+### <a name="csp-monthly-billing"></a>Facturation mensuelle du CSP
 
-Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+Les partenaires du programme fournisseur de solutions Cloud (CSP) qui ont choisi de payer les frais mensuels Microsoft 60 en retard pour les abonnements de leurs clients (abonnements basés sur une licence et basés sur l’utilisation).
 
-## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+## <a name="find-itemized-details-for-charges"></a>Rechercher des détails détaillés pour les frais
 
-You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+Vous pouvez comprendre les détails détaillés de vos frais à l’aide de vos fichiers de rapprochement. Les fichiers de réconciliation incluent des identificateurs de clients et des identificateurs d’abonnement que vous pouvez utiliser pour créer des factures client.
 
 Pour plus d’informations, voir [Utilisation des fichiers de rapprochement](use-the-reconciliation-files.md).

@@ -24,7 +24,7 @@ En tant que partenaire de formation Software Assurance approuvé, Microsoft vous
 
 ## <a name="get-started"></a>Prise en main
 
-If you're new to Software Assurance training services, follow all the steps below. If you're already active in the training voucher program, start at step four (4) below. 
+Si vous ne connaissez pas les services de formation Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le programme de bon de formation, commencez à l’étape quatre (4) ci-dessous. 
 
 1. Confirmer l’éligibilité au programme
 2. S’inscrire au programme de formation
@@ -41,41 +41,41 @@ Cet article explique comment effectuer chaque étape.
 
 Avant de pouvoir vous inscrire au programme Bon de formation Software Assurance (SATV), vous devez remplir les conditions requises pour l’option Microsoft Partner Network Learning, qui remplace la compétence Microsoft Learning. Découvrez comment bien démarrer avec l’[option Learning](https://partner.microsoft.com/membership/learning-partners).
 
-You can verify your company's eligibility including applicable competency and assessment requirements in Partner Center. Follow the instructions at [step 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the SATV workflow for more details and screen shots.
+Vous pouvez vérifier l’éligibilité de votre société, y compris les compétences applicables et les exigences d’évaluation dans l’espace partenaires. Pour plus d’informations et pour obtenir des captures d’écran, suivez les instructions de l' [étape 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail SATV.
 
 ## <a name="enroll-in-the-training-program"></a>S’inscrire au programme de formation
 
-After your company meets the eligibility requirements and your program participants have passed the compliance training course, you're ready to sign the Software Assurance Training Voucher program agreement and enroll. Be sure to review all [SATV program policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), then follow the instructions in [step 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to complete the SATV enrollment process in Partner Center.   
+Une fois que votre entreprise répond aux conditions d’éligibilité et que les participants au programme ont passé le cours de formation à la conformité, vous êtes prêt à signer le contrat de programme du bon de formation Software Assurance et à vous inscrire. Veillez à passer en revue toutes les [stratégies de programme SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), puis suivez les instructions de l' [étape 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail pour terminer le processus d’inscription de SATV dans l’espace partenaires.   
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmer l’éligibilité au cours
-Une fois qu’ils sont inscrits au programme SATV, les partenaires peuvent proposer des sessions de formation pour des cours SATV, pour lesquels les clients peuvent utiliser leurs bons de formation. Eligible courses are listed in the [SATV course eligibility catalog](https://savl-catalog.microsoft.com/). Review [step 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to understand which types of courses are SATV-eligible.
+Une fois qu’ils sont inscrits au programme SATV, les partenaires peuvent proposer des sessions de formation pour des cours SATV, pour lesquels les clients peuvent utiliser leurs bons de formation. Les cours éligibles sont répertoriés dans le [catalogue d’éligibilité des cours SATV](https://savl-catalog.microsoft.com/). Passez en revue l' [étape 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail pour comprendre quels types de cours sont éligibles à la SATV.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Demander au client de créer et d’attribuer un bon
 
-Avant d’effectuer une formation, votre client doit tout d’abord activer son avantage SATV, puis l’attribuer à votre organisation. For detailed instructions with screen shots showing the steps your customer must take in order to create a voucher and assign it to you, refer to [step 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow.
+Avant d’effectuer une formation, votre client doit tout d’abord activer son avantage SATV, puis l’attribuer à votre organisation. Pour obtenir des instructions détaillées sur les captures d’écran présentant les étapes que votre client doit suivre pour créer un bon de commande et vous l’affecter, reportez-vous à l' [étape 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail.
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>Valider et réserver les bons clients
 
-Vous êtes maintenant en mesure de réserver et d’échanger des bons et de commencer à former vos clients. Your company's MPN admin has access to the voucher management tool in Partner Center and can add users who need to work in the tool. For instructions on validating and reserving vouchers, refer to [step 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow.
+Vous êtes maintenant en mesure de réserver et d’échanger des bons et de commencer à former vos clients. L’administrateur MPN de votre entreprise a accès à l’outil de gestion des pièces justificatives dans l’espace partenaires et peut ajouter des utilisateurs qui doivent travailler dans l’outil. Pour obtenir des instructions sur la validation et la réservation des bons, reportez-vous à l' [étape 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail.
 
 ## <a name="deliver-training-and-activate-product"></a>Fournir une formation et activer le produit
 
-Une fois qu’un bon est réservé, vous pouvez fournir la formation à votre client. See [step 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow for training engagement guidelines and instructions for the activation and purchase of Microsoft Official Courseware (MOC), exams, and Microsoft Course Certificate vouchers (LaaS) for MOOC courses.
+Une fois qu’un bon est réservé, vous pouvez fournir la formation à votre client. Consultez l' [étape 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail pour obtenir des instructions et des instructions pour l’activation et l’achat des cours Microsoft Official course (MOC), des examens et des bons de certification Microsoft course (LaaS) pour MOOC.
 
 ## <a name="redeem-voucher"></a>Échanger le bon
 
-Une fois que vous avez effectué une formation, vous devez échanger le bon. Follow the instructions in [step 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to ensure all requirements are met so that you can request payment. 
+Une fois que vous avez effectué une formation, vous devez échanger le bon. Suivez les instructions de l' [étape 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail pour vous assurer que toutes les conditions requises sont remplies afin que vous puissiez demander le paiement. 
 
 
 ## <a name="request-payment-from-microsoft"></a>Demander le paiement à Microsoft
 
-Les paiements sont gérés par le biais de l’outil de paiement en ligne SAVB (Software Assurance Justy Benefit). Follow the instructions in [step 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to submit an invoice to Microsoft through SAVB. 
+Les paiements sont gérés par le biais de l’outil de paiement en ligne SAVB (Software Assurance Justy Benefit). Suivez les instructions de l' [étape 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) du flux de travail pour envoyer une facture à Microsoft par le biais de SAVB. 
 
-For additional information read the [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) and review [SATV program policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
+Pour plus d’informations, consultez le [Forum aux questions](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) et passez en revue les [stratégies de programme SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
 Voir aussi :
 
-- [Software Assurance Training Vouchers (SATV) Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
-- [Software Assurance Training Vouchers (SATV) FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [Software Assurance Training Vouchers (SATV) Policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [Workflow des bons de formation Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+- [FAQ sur les bons de formation Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
+- [Stratégies des bons de formation Software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

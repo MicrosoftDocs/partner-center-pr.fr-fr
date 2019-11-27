@@ -1,13 +1,13 @@
 ---
-title: Support for commercial marketplace products | Partner Center
+title: Prise en charge des produits de la place de marché commercial | Espace partenaires
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how support works for third-party ISV products or subscriptions purchased from the commercial marketplace by partners in the CSP program.
+description: Découvrez comment le support technique pour les produits ISV tiers ou les abonnements achetés auprès de la place de marché commerciale par les partenaires du programme CSP.
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, products, Marketplace, third party, ISV, publisher, support, CSP
+keywords: abonnements, produits, Marketplace, tiers, ISV, éditeur, support, CSP
 ms.localizationpriority: medium
 ms.openlocfilehash: 74f1abced9f4d576cc53b73bd8c30e454f9ad2d9
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -23,35 +23,35 @@ ms.locfileid: "74253727"
 - Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
-**Appropriate roles**
+**Rôles appropriés**
 
 - Administrateur global
 - Agent d’administration
 
-Just as with Microsoft products, partners in the CSP program are the first point of contact for their customers' questions about billing and subscription management for any third-party ISV subscription or product they have purchased for their customers from the commercial marketplace.
+Tout comme avec les produits Microsoft, les partenaires du programme CSP sont le premier point de contact pour les questions de leurs clients sur la facturation et la gestion des abonnements pour tout abonnement ou produit ISV tiers qu’ils ont achetés pour leurs clients à partir du place de marché commercial.
 
-For technical support questions about commercial marketplace products from third-party ISV publishers, partners in the CSP program should contact the ISV publisher of that product or offer.
+Pour obtenir des questions de support technique sur les produits de la place de marché commerciaux des éditeurs ISV tiers, les partenaires du programme CSP doivent contacter l’éditeur ISV de ce produit ou offre.
 
-## <a name="support-roles-of-isv-products-for-csp-partners-isv-publishers-and-microsoft"></a>Support roles of ISV products for CSP partners, ISV publishers and Microsoft
+## <a name="support-roles-of-isv-products-for-csp-partners-isv-publishers-and-microsoft"></a>Prise en charge des rôles de produits ISV pour les partenaires CSP, éditeurs ISV et Microsoft
 
-For commercial marketplace offers or purchases of third-party ISV products or offers:
+Pour les offres de la place de marché commercial ou les achats de produits ou d’offres ISV tiers :
 
-- **Support role of the ISV publisher:** ISVs provide technical support and service level commitments to their customers regarding their offer, as defined in the Third Party Customer Agreement. The ISV should provide a way for partners in the CSP program and/or their customers to contact the ISV directly for support, including user support and break-fix support. ISVs are expected to provide partners in the CSP program with user documentation, training and service health/outage notifications (as applicable) so those partners will be equipped to coordinate support (if partners in the CSP program choose to provide that service to their customers).
+- **Rôle de support de l’éditeur ISV :** Les éditeurs de logiciels indépendants fournissent un support technique et des engagements de niveau de service à leurs clients en ce qui concerne leur offre, tels que définis dans le contrat de client tiers. L’éditeur de logiciels indépendant (ISV) doit fournir aux partenaires du programme CSP et/ou à leurs clients la possibilité de contacter directement l’ISV pour obtenir de l’aide, y compris le support utilisateur et la prise en charge des correctifs. Les éditeurs de logiciels indépendants sont censés fournir aux partenaires du programme CSP la documentation de l’utilisateur, la formation et les notifications d’interruption de service/pannes (le cas échéant), afin que ces partenaires soient équipés pour coordonner la prise en charge (si les partenaires du programme CSP choisissent de fournir ce service à leurs clients).
 
-- **Support role of the partner in the CSP program:** The partner in the CSP program is responsible for all other support for third-party ISV offers. This includes support for their customers' billing questions, account set-up and payment. The partner in the CSP program may choose to direct technical support queries from customers to the support contacts provided by the ISV publisher.
+- **Rôle de support du partenaire dans le programme CSP :** Le partenaire du programme CSP est responsable de toute autre prise en charge des offres ISV tierces. Cela comprend la prise en charge des questions de facturation des clients, la configuration et le paiement des comptes. Le partenaire du programme CSP peut choisir de diriger les requêtes de support technique des clients vers les contacts de support fournis par l’éditeur ISV.
 
-- **Support role of Microsoft:** Microsoft provides support to the third-party ISV publisher and to the partner in the CSP program regarding Microsoft commerce system functionality. This means Microsoft will be responsible for support of certain activities by the partner in the CSP program partner activities and by the ISV that occur within the Microsoft commerce system, such as onboarding/offer management, transactions, billing, account support, and deployment and provisioning for Azure-based ISV solutions.
+- **Rôle de support de Microsoft :** Microsoft fournit un support à l’éditeur ISV tiers et au partenaire du programme CSP concernant les fonctionnalités de Microsoft Commerce System. Cela signifie que Microsoft sera responsable de la prise en charge de certaines activités par le partenaire dans les activités de partenaire du programme CSP et par l’ISV qui se trouve dans le système Microsoft Commerce Server, comme la gestion de l’intégration/offre, les transactions, la facturation, le support des comptes, le déploiement et l’approvisionnement des solutions ISV basées sur Azure.
 
-    Microsoft does not provide support for commercial marketplace products offered by third-party ISV publishers. Microsoft will, however, give the partner in the  CSP program access to the ISV publisher's support contact information. Partners in the CSP program must contact the ISV publisher (above) to obtain other types of support for their offer.
+    Microsoft n’assure pas la prise en charge des produits de la place de marché commercialisés proposés par des éditeurs ISV tiers. Toutefois, Microsoft accorde au partenaire du programme CSP l’accès aux informations de contact du support technique de l’éditeur ISV. Les partenaires du programme CSP doivent contacter l’éditeur ISV (ci-dessus) pour obtenir d’autres types de prise en charge de leur offre.
 
-In the [indirect CSP model](csp-overview.md#indirect-model), these support responsibilities are shared between the indirect provider and the indirect reseller. If you are an indirect reseller, ask your indirect provider for details.
+Dans le [modèle CSP indirect](csp-overview.md#indirect-model), ces responsabilités de support sont partagées entre le fournisseur indirect et le revendeur indirect. Si vous êtes un revendeur indirect, demandez des détails à votre fournisseur indirect.
 
-## <a name="how-to-find-isv-contact-information"></a>How to find ISV contact information
+## <a name="how-to-find-isv-contact-information"></a>Comment rechercher des informations de contact ISV
 
-Most ISV contact details appear on the Partner Center **Offer details** page, available from the Partner Center [dashboard](https://partner.microsoft.com/dashboard). This includes an engineering contact for the ISV, customer support, and any CSP program contact. Information provided by the ISV here may also include user documentation, sales collateral, and a link to CSP program marketing materials.
+La plupart des détails de contact ISV s’affichent dans la page Détails de l' **offre** de l’espace partenaires, disponible dans le [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires. Cela comprend un contact d’ingénierie pour l’ISV, le support client et tout autre contact de programme CSP. Les informations fournies par l’ISV ici peuvent également inclure la documentation de l’utilisateur, les brochures commerciales et un lien vers les documents marketing du programme CSP.
 
-To access the **Offer details** page, see [Discover offers in the commercial marketplace](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center).
+Pour accéder à la page de détails de l' **offre** , consultez [découvrir des offres sur la place de marché commercial](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center).
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Learn about contracts related to commercial marketplace products](csp-commercial-marketplace-contracting.md)
+- [En savoir plus sur les contrats relatifs aux produits de la place de marché commercial](csp-commercial-marketplace-contracting.md)

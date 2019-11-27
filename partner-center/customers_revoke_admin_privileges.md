@@ -31,11 +31,11 @@ Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit acc
 2.  Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie électronique par défaut ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 
     >[!IMPORTANT]
-    >Vous pouvez modifier le texte du message électronique, mais veillez à inclure le lien car il s'agit d'un lien personnalisé qui permet d'associer le client directement à votre compte. 
+    >Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. 
     
 3.  Sélectionnez **Terminé** une fois que vous avez effectué cette étape.
 
-4.  Envoyez le message électronique au client.
+4.  Envoyez l’e-mail au client.
 
 5.  Une fois qu'il a accepté l’invitation, le client s’affiche sur votre page **Clients** et vous pouvez approvisionner et gérer son service à partir de cet emplacement.
 

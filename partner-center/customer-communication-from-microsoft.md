@@ -25,7 +25,7 @@ ms.locfileid: "74253557"
 -  Espace partenaires de Microsoft Cloud for US Government
 
 
-En règle générale, toutes les communications avec le client doivent provenir du partenaire du programme Fournisseur de solutions Cloud. Étant donné que vous possédez la relation de facturation avec le client, Microsoft n’envoie pas directement à vos clients de communications liées à leurs abonnements.
+En général, toutes les communications avec le client doivent émaner du partenaire Fournisseur de solutions&nbsp;Cloud. Étant donné que vous possédez la relation de facturation avec le client, Microsoft n’envoie pas directement à vos clients de communications liées à leurs abonnements.
 
 Microsoft peut communiquer directement avec les clients sur les incidents de service ou concernant d’autres informations opérationnelles.
 

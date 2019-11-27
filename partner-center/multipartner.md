@@ -23,19 +23,19 @@ ms.locfileid: "74189076"
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
-The Partner Center's multi-partner feature supports scenarios when a customer wants to work with more than one partner. Par exemple, un client peut vouloir engager un partenaire pour son expertise d'Office 365, mais passer par un autre partenaire spécialisé dans Microsoft Azure. 
+La fonctionnalité multi-partenaires de l’espace partenaires prend en charge les scénarios dans lesquels un client souhaite travailler avec plusieurs partenaires. Par exemple, un client peut vouloir engager un partenaire pour son expertise d'Office 365, mais passer par un autre partenaire spécialisé dans Microsoft Azure. 
 
-An Azure CSP tenant can include an additional Azure subscription from a different CSP partner.
+Un client Azure CSP peut inclure un abonnement Azure supplémentaire auprès d’un autre partenaire CSP.
 
-To use the multi-partner feature in the Partner Center, invite the customer to give you delegated administration privileges. Voir [Demander une relation avec un client](request-a-relationship-with-a-customer.md) pour en savoir plus sur la manière d’établir une relation avec un client qui travaille déjà avec un partenaire.
+Pour utiliser la fonctionnalité multi-partenaires dans l’espace partenaires, invitez le client à vous accorder des privilèges d’administration délégués. Voir [Demander une relation avec un client](request-a-relationship-with-a-customer.md) pour en savoir plus sur la manière d’établir une relation avec un client qui travaille déjà avec un partenaire.
 
-La fonctionnalité multipartenaire n’effectue pas les opérations suivantes :
+La fonctionnalité multipartenaire n’effectue pas les opérations suivantes&nbsp;:
 
-- Change any of the customer's existing subscriptions
+- Modifier les abonnements existants du client
 
-- Transition the customer's existing subscriptions or account ownership
+- Faire migrer les abonnements existants du client ou la propriété du compte
 
-- Change the terms or customer's obligations for any of their existing subscriptions
+- Modifier les conditions ou les obligations du client pour l’un de leurs abonnements existants
 
 - Modification du partenaire de référence pour un abonnement
 

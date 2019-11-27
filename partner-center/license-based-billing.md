@@ -1,11 +1,11 @@
 ---
-title: License-based billing | Partner Center
+title: Facturation basée sur une licence | Espace partenaires
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information about license-based billing in Partner Center, where you're billed per license (not by license usage).
+Description: Informations sur la facturation basée sur une licence dans l’espace partenaires, où vous êtes facturé par licence (et non par utilisation de licence).
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, payments, license-based, license
+keywords: facturation, paiements, licence basée sur une licence
 ms.localizationpriority: medium
 ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -16,38 +16,38 @@ ms.locfileid: "74389827"
 ---
 # <a name="license-based-billing"></a>Facturation basée sur la licence
 
-S'applique à :
+S’applique à :
 
 - Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
-When you buy products or online services in Partner Center that require **licenses**, you’re billed *for each license* that you buy. You're *not billed* by usage for these licenses. (For information on usage-based billing and other billing types, see [Types of billing in Partner Center](billing-different-types.md).)
+Lorsque vous achetez des produits ou des services en ligne dans l’espace partenaires qui nécessitent des **licences**, vous êtes facturé *pour chaque licence* que vous achetez. Vous *n’êtes pas facturé* par l’utilisation de ces licences. (Pour plus d’informations sur la facturation basée sur l’utilisation et d’autres types de facturation, consultez [types de facturation dans l’espace partenaires](billing-different-types.md).)
 
-## <a name="license-billing-frequency"></a>License billing frequency
+## <a name="license-billing-frequency"></a>Fréquence de facturation de la licence
 
-You can choose to be billed for licenses once a month (**monthly billing**) or once a year (**annual billing**). For more information about **billing frequency**, see [Monthly and annual billing differences](billing-annual-monthly.md).
+Vous pouvez choisir d’être facturé pour les licences une fois par mois (**facturation mensuelle**) ou une fois par an (**facturation annuelle**). Pour plus d’informations sur la **fréquence de facturation**, consultez [les différences de facturation mensuelle et annuelle](billing-annual-monthly.md).
 
-## <a name="billing-date-for-licenses"></a>Billing date for licenses
+## <a name="billing-date-for-licenses"></a>Date de facturation des licences
 
-License-based subscriptions are billed in advance on the subscription's **anniversary date**. The anniversary date is the day of the month that you purchased the subscription.
+Les abonnements basés sur une licence sont facturés à l’avance à la **date anniversaire**de l’abonnement. La date anniversaire est le jour du mois auquel vous avez acheté l’abonnement.
 
-Exemple :
+Par exemple :
 
-- If you purchased a **monthly subscription** on January 15th, the anniversary date will be the 15th of each month.
-- If you purchased an **annual subscription** on January 15th, the anniversary date will be January 15th of each year.
+- Si vous avez acheté un **abonnement mensuel** le 15 janvier, la date anniversaire sera le 15 de chaque mois.
+- Si vous avez acheté un **abonnement annuel** le 15 janvier, la date anniversaire sera le 15 janvier de chaque année.
 
-## <a name="license-term"></a>License term
+## <a name="license-term"></a>Contrat de licence
 
-All license-based subscriptions have a 12-month paid term, which begins on the purchase date.
+Tous les abonnements basés sur des licences ont un terme payant de 12 mois, qui commence à la date d’achat.
 
-## <a name="license-cancellation"></a>License cancellation
+## <a name="license-cancellation"></a>Annulation de la licence
 
-You can cancel a license at any point during the [license term](#license-term). However, the month in which you cancel impacts how much credit you will receive for the cancelled license.
+Vous pouvez annuler une licence à tout moment pendant la [durée](#license-term)du contrat de licence. Toutefois, le mois dans lequel vous annulez influe sur la quantité de crédit que vous recevrez pour la licence annulée.
 
-If you suspend a subscription in month 1, you will be credited 100%.
+Si vous suspendez un abonnement au mois 1, vous êtes crédité de 100%.
 
-If you suspend a subscription in months 2-12, you will be credited on a prorated basis.
+Si vous suspendez un abonnement dans les mois 2-12, vous êtes crédité au prorata.
 
-## <a name="license-renewal"></a>License renewal
+## <a name="license-renewal"></a>Renouvellement de licence
 
-All license-based subscriptions auto-renew 12-months after the paid term begins.
+Tous les abonnements basés sur des licences renouvellent automatiquement 12 mois après le début du paiement.

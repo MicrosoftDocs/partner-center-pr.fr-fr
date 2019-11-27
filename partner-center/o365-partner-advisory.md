@@ -1,11 +1,11 @@
 ---
-title: Office 365 Partner Advisory - Microsoft 365 Voice in CSP | Partner Center
-description: PSTN services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.
+title: Avis de partenaire Office 365-Microsoft 365 Voice dans CSP | Espace partenaires
+description: Les services RTPC dans certains pays peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires.
 ms.topic: article
 ms.date: 11/04/2019
 author: maggiepuccievans
 ms.author: evansma
-keywords: Office, O365, PSTN services, taxes, requirements, invoice, invoicing
+keywords: Office, O365, RTPC, services, taxes, exigences, facture, facturation
 ms.localizationpriority: medium
 ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -14,41 +14,41 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384816"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice in CSP
+# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Avis de partenaire Office 365 : Microsoft 365 Voice dans CSP
 
 **S’applique à**
 
 - Espace partenaires  
 
-Public Switched Telephone Network (PSTN) services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.  In the United States, Puerto Rico, and Canada, Skype for Business PSTN and Microsoft 365 Voice services are subject to special tax and regulatory requirements. In the United States and Puerto Rico, Microsoft prices PSTN services as tax-inclusive.  Unique PSTN taxes and regulations will affect Office 365 partners transacting Microsoft 365 Voice products.  Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
+Les services de réseau public commuté (RTPC) publics dans certains pays peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires.  Dans le États-Unis, Porto Rico et Canada, Skype for Business RTPC et Microsoft 365 Voice services sont soumis à des obligations réglementaires et fiscales particulières. Dans le États-Unis et à Porto Rico, les tarifs de Microsoft sont les services RTPC comme taxes incluses.  Des taxes et réglementations uniques sur les RTPC affectent les partenaires Office 365 qui transportent des produits Microsoft 365 Voice.  Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
 
-## <a name="partner-recommendations"></a>Partner Recommendations
+## <a name="partner-recommendations"></a>Recommandations pour les partenaires
 
 Incitez votre conseiller juridique et fiscal à analyser la responsabilité de votre entreprise concernant la réglementation, les taxes, les redevances et autres obligations potentielles liées aux services&nbsp;RTC.
 
-## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Invoice Presentation and Partner Reconciliation File
+## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Présentation des factures et fichier de rapprochement des partenaires
 
-CSP invoices and CSP reconciliation files in the United States, Puerto Rico and Canada which include Skype for Business PSTN and Microsoft 365 Voice services will provide separate line items for the PSTN and non-PSTN components.
+Les factures CSP et les fichiers de conciliation CSP dans le États-Unis, Porto Rico et Canada qui incluent Skype for Business RTPC et Microsoft 365 Voice services fournissent des éléments de ligne distincts pour les composants RTPC et non-RTC.
 
-Additionally, CSP invoices will display the following footnote:
+En outre, les factures CSP affichent la note de bas de page suivante :
 
-* The price displayed is a charge for Audio Conferencing and Calling Plan Services.  Any applicable transactional taxes are charged exclusively of the amount shown except for sales made within the United States.  In the U.S., the price displayed is tax inclusive as it includes a charge for the Calling Plan and Audio Conferencing Services and a charge for the taxes and fees we are required to charge.  Audio Conferencing and Calling Plan Services are serviced by the Microsoft Affiliate authorized to provide them.  See [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) for details.
+* Le prix affiché est facturé pour les services de plan de conférence audio et d’appel.  Toutes les taxes transactionnelles applicables sont facturées exclusivement au montant indiqué, à l’exception des ventes effectuées au sein de la États-Unis.  Aux États-Unis, le prix affiché est taxes inclusives, car il inclut des frais pour le plan d’appel et les services de conférence audio, ainsi que des frais pour les taxes et les frais que nous sommes tenus de payer.  Les services de plan de conférence audio et d’appel sont servis par l’affilié Microsoft autorisé à les fournir.  Pour plus d’informations, consultez [licence en volume Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247) .
 
-## <a name="reconciliation-file-example"></a>Reconciliation File Example
+## <a name="reconciliation-file-example"></a>Exemple de fichier de réconciliation
 
-Office 365 Enterprise E5 presents on reconciliation file as two line items with identical names and identical IDs, but each line item has a unique unit price (example: $28.40 and $2.00). Cette séparation du composant Skype Entreprise Conférence&nbsp;RTC de l’offre Office&nbsp;365 vous permet d’appliquer correctement les taxes.
+Office 365 Enterprise E5 présente le fichier de rapprochement sous la forme de deux Articles de ligne avec des noms identiques et des ID identiques, mais chaque article a un prix unitaire unique (par exemple : $28,40 et $2,00). Cette séparation du composant Skype Entreprise Conférence&nbsp;RTC de l’offre Office&nbsp;365 vous permet d’appliquer correctement les taxes.
 
-**Partner Reconciliation example #1 (select columns):**
+**#1 de l’exemple de rapprochement des partenaires (sélectionner des colonnes) :**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Entreprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Frais de cycle   |28,40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Entreprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Frais de cycle   |2,00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office&nbsp;365 Enterprise&nbsp;E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Frais de cycle   |28,40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office&nbsp;365 Enterprise&nbsp;E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Frais de cycle   |2,00   |
 
-**Partner Reconciliation example #2**
+**Exemple de #2 de rapprochement des partenaires**
 
-Microsoft 365 Business Voice available in Canada has additional PSTN taxable components that are consolidated on CSP Invoice (similar to Office 365 E5, two line items are presented, one for PSTN components and the other for non-PSTN components).  The CSP Reconciliation file for Microsoft 365 Business Voice will display all PSTN taxable components individually (individual PSTN components will not be consolidated in .CSV or API tool).  The summation of order details and billed amounts for customers found in the reconciliation file will match the CSP Invoice.
+Microsoft 365 Business Voice disponible dans le Canada possède des composants de passerelle RTPC supplémentaires qui sont consolidés sur une facture CSP (similaire à Office 365 E5, deux éléments de ligne sont présentés, l’un pour les composants RTPC et l’autre pour les composants non-RTPC).  Le fichier de rapprochement des fournisseurs de services Cloud pour Microsoft 365 Business Voice affiche tous les composants de RTPC taxables individuellement (les composants RTPC individuels ne sont pas consolidés dans. CSV ou l’outil API).  La somme des détails de la commande et des montants facturés pour les clients qui se trouvent dans le fichier de rapprochement correspond à la facture du fournisseur de services Cloud.
 
 ## <a name="additional-resources"></a>Ressources complémentaires
-For more details, visit the [Microsoft 365 for Partners](https://drumbeat.office.com/Pages/home2016.aspx) site.
+Pour plus d’informations, visitez le site [Microsoft 365 pour les partenaires](https://drumbeat.office.com/Pages/home2016.aspx) .
 

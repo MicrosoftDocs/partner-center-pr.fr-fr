@@ -1,8 +1,8 @@
 ---
-title: Usage-based reconciliation files | Partner Center
+title: Fichiers de réconciliation basés sur l’utilisation | Espace partenaires
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand usage-based reconciliation files in Partner Center.
+description: Comprendre les fichiers de réconciliation basés sur l’utilisation dans l’espace partenaires.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -16,57 +16,57 @@ ms.locfileid: "74389777"
 ---
 # <a name="usage-based-file-fields"></a>Champs des fichiers basés sur l’utilisation
 
-S'applique à :
+S’applique à :
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
-To reconcile your charges against a customer's usage, compare the **ResellerID**, **ResellerName**, and **ResellerBillableAccount** from the reconciliation file with the **Customer name** and **Subscription ID** from Partner Center.
+Pour concilier vos frais par rapport à l’utilisation d’un client, comparez les **ResellerID**, **nom du revendeur**et **ResellerBillableAccount** du fichier de réconciliation avec le **nom du client** et l’ID d' **abonnement** de l’espace partenaires.
 
-## <a name="fields-in-usage-based-reconciliation-files"></a>Fields in usage-based reconciliation files
+## <a name="fields-in-usage-based-reconciliation-files"></a>Champs dans les fichiers de réconciliation basés sur l’utilisation
 
 Les champs suivants décrivent les services utilisés et leurs taux.
 
-| Colonne | Description | Sample value(s) |
+| colonne | Description | Exemple de valeur (s) |
 | ------ | ----------- | ------------ |
-| PartnerID | Partner identifier, in GUID format. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
-| PartnerName | Partner name. | *Contoso, Ltd.* |
-| PartnerBillableAccountID | Partner account identifier. | *1010578050* |
-| CustomerName | Customer's organization name, as reported in Partner Center. *Very important for reconciling the invoice with your system information.* | *Test customer* |
-| MPNID | MPN identifier of the CSP partner. | *4390934* |
-| ResellerMPNID | MPN identifier of the reseller of record for the subscription. For more information, see [how to itemize by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| PartnerID | Identificateur du partenaire, au format GUID. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
+| PartnerName | Nom du partenaire. | *Contoso, Ltd.* |
+| PartnerBillableAccountID | Identificateur du compte du partenaire. | *1010578050* |
+| CustomerName | Nom de l’organisation du client, tel qu’indiqué dans l’espace partenaires. *Très important pour rapprocher la facture de vos informations système.* | *Tester le client* |
+| MPNID | Identificateur MPN du partenaire CSP. | *4390934* |
+| ResellerMPNID | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. Pour plus d’informations, consultez [Comment dénombrer par partenaire](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | InvoiceNumber | Le numéro de la facture dans laquelle la transaction spécifiée apparaît. | *D020001IVK* |
-| ChargeStartDate | Start date of billing cycle, except when presenting dates of previously uncharged latent usage data (from previous bill cycle). L’heure indique toujours le début de la journée, 0:00. | *2/1/2019 0:00* |
-| ChargeEndDate | End date of billing cycle, except when presenting dates of previously uncharged latent usage data (from previous bill cycle). L’heure indique toujours la fin de la journée, 23:59. | *2/28/2019 23:59* |
-| SubscriptionID | Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. May be useful to identify the subscription when contacting support. Not used for reconciliation. *This is not the same as the **Subscription ID** on the Partner Admin Console.* | *usCBMgAAAAAAAAIA* |
-| SubscriptionName | Nickname for the service offering. | *Microsoft Azure* |
-| SubscriptionDescription | Line of business of the service offering. | *Microsoft Azure* |
-| OrderId | Identificateur unique pour une commande dans la plateforme de facturation Microsoft. May be useful to identify the subscription when contacting support. Not used for reconciliation. | *566890604832738111* |
-| ServiceName | Nom du service Azure en question. | *VIRTUAL MACHINES* |
-| ServiceType | The specific type of Azure service. | *Service Bus – Individual or Pack*, *SQL Azure database – Business or Web Edition* |
+| ChargeStartDate | Date de début du cycle de facturation, sauf lors de la présentation de dates de données d’utilisation latentes précédemment non facturées (à partir du cycle de la facture précédente). L’heure indique toujours le début de la journée, 0:00. | *2/1/2019 0:00* |
+| ChargeEndDate | Date de fin du cycle de facturation, sauf lors de la présentation de dates de données d’utilisation latentes précédemment non facturées (à partir du cycle de la facture précédente). L’heure indique toujours la fin de la journée, 23:59. | *2/28/2019 23:59* |
+| SubscriptionID | Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lorsque vous contactez le support technique. Non utilisé pour le rapprochement. *Ce n’est pas le même que l' **ID d’abonnement** dans la console d’administration partenaire.* | *usCBMgAAAAAAAAIA* |
+| SubscriptionName | Surnom de l’offre de service. | *Microsoft Azure* |
+| SubscriptionDescription | Secteur d’activité de l’offre de service. | *Microsoft Azure* |
+| OrderID | Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lorsque vous contactez le support technique. Non utilisé pour le rapprochement. | *566890604832738111* |
+| ServiceName | Nom du service Azure en question. | *MACHINES VIRTUELLES* |
+| ServiceType | Type spécifique du service Azure. | *Service bus – individuel ou Pack*, *SQL Azure base de données – édition Business ou Web* |
 | ResourceGUID | Identificateur unique spécifique pour toutes les données de service et la structure de tarification. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
-| Nom_ressource | Nom de la ressource Azure. | *Data Transfer In (GB)* , *Data Transfer Out (GB)* |
-| Région | The region to which the usage applies. Primarily used to assign rates to data transfers, because rates vary by region. | *Asia Pacific*, *Europe*, *Latin America*, *North America* |
-| SKU | Unique Microsoft identifier for an offer. | *7UD-00001* |
-| DetailLineItemId | An identifier and quantity to itemize different rates for a service or resource in a given billing period. For Azure tiered pricing, there may be one rate for up to a certain quantity of billable units, then a different rate after that quantity. | *1* |
-| ConsumedQuantity | The amount of service consumed (such as hours or GB) during the reporting period. Inclut également toute utilisation non facturée pour les périodes précédentes. | *11* |
-| IncludedQuantity | Unités incluses dans le cadre de l’offre. Typically not present in CSP. | *0* |
-| OverageQuantity | Units not included as part of the offer. These must be paid for by the partner. Equal to **ConsumedQuantity** minus **IncludedQuantity**. | *11* |
-| ListPrice | Offer price in effect at subscription's start date. | *$0.0808* |
-| PretaxCharges | Equal to **ListPrist** multiplied by **OverageQuantity**, rounded to the nearest cent. | *$0.085* |
-| TaxAmount | Tax amount charged. Based on your market's tax rules and specific circumstances. | *$0.08* |
-| PostTaxTotal | Total après impôts, le cas échéant. | *$0.93* |
-| Symbole monétaire | Type de devise. Chaque entité de facturation n’a qu’une devise. Check that it matches your first invoice and then after any major billing platform updates. | *EUR* |
-| PretaxEffectiveRate | Prix avant impôts par unité. Equal to **PretaxCharges** divided by **OverageQuantity**, rounded to the nearest cent. | *$0.08* |
-| PostTaxEffectiveRate | Prix après impôts par unité. Equal to **PostTaxTotal** divided by **OverageQuantity**, rounded to the nearest cent. Or, equal to **PretaxEffectiveRate** plus thet tax rate per unit amoun, rounded to the nearest cent. | *$0.08* |
-| ChargeType | The [type of charge](recon-file-charge-types.md) or adjustment. | See [charge types](recon-file-charge-types.md). |
-| CustomerBillableAccount | Unique account identifier in the Microsoft billing platform. | *1280018095* |
+| Nom_ressource | Nom de la ressource Azure. | *Transfert de données dans (Go)* , *transfert de données sortant (Go)* |
+| Région | Région à laquelle l’utilisation s’applique. Principalement utilisé pour affecter des tarifs aux transferts de données, car les tarifs varient selon la région. | *Asie-Pacifique*, *Europe*, *Amérique latine* *Amérique du Nord* |
+| référence SKU | Identificateur Microsoft unique pour une offre. | *7UD-00001* |
+| DetailLineItemId | Identificateur et quantité pour dénombrer les différents taux d’un service ou d’une ressource dans une période de facturation donnée. Pour la tarification hiérarchisée Azure, il peut y avoir un tarif pour une certaine quantité d’unités facturables, puis un taux différent après cette quantité. | *1* |
+| ConsumedQuantity | Quantité de service utilisée (par exemple, heures ou Go) pendant la période de rapport. Inclut également toute utilisation non facturée pour les périodes précédentes. | *11* |
+| IncludedQuantity | Unités incluses dans le cadre de l’offre. En général absents du CSP. | *0* |
+| OverageQuantity | Unités non incluses dans le cadre de l’offre. Celles-ci doivent être payées par le partenaire. Égal à **ConsumedQuantity** moins **IncludedQuantity**. | *11* |
+| ListPrice | Prix de l’offre en vigueur à la date de début de l’abonnement. | *$0,0808* |
+| PretaxCharges | Égal à **ListPrist** multiplié par **divisé par overagequantity**, arrondi au cent le plus proche. | *$0,085* |
+| TaxAmount | Montant des taxes facturées. Selon les règles fiscales et les circonstances spécifiques de votre marché. | *$0,08* |
+| PostTaxTotal | Total après impôts, le cas échéant. | *$0,93* |
+| Currency | Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez qu’il correspond à votre première facture, puis après toute mise à jour de la plateforme de facturation majeure. | *0,35* |
+| PretaxEffectiveRate | Prix avant impôts par unité. Égal à **PretaxCharges** divisé par **divisé par overagequantity**, arrondi au cent le plus proche. | *$0,08* |
+| PostTaxEffectiveRate | Prix après impôts par unité. Égal à **PostTaxTotal** divisé par **divisé par overagequantity**, arrondi au cent le plus proche. Ou, égal à **PretaxEffectiveRate** plus taux d’imposition l’par unité Amoun, arrondi au cent le plus proche. | *$0,08* |
+| ChargeType | [Type de frais ou d'](recon-file-charge-types.md) ajustement. | Consultez [types de frais](recon-file-charge-types.md). |
+| CustomerBillableAccount | Identificateur de compte unique dans la plateforme de facturation Microsoft. | *1280018095* |
 | UsageDate | Date du déploiement du service. | *2/1/2019 0:00* |
-| MeteredRegion | Identifies the location of a data center within the region (for services where this value is applicable and populated). | *East Asia*, *South East Asia*, *North Europe*, *West Europe*, *North Central US*, *South Central US* |
-| MeteredService | Identifies the individual Azure service usage when it's not specifically identified in the **ServiceName** column. For example, data transfers are reported as *Microsoft Azure - All Services* in the **ServiceName** column. | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Storage* |
-| MeteredServiceType | Subheading for **MeteredService** field that provides additional clarification of Azure service usage. | *EXTERNAL* |
-| Project | Customer-defined name for their service instance. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| ServiceInfo | The number of Azure Service Bus connections that were provisioned and utilized on a given day. | *1.000000 Connections / 30 days* (if you had an individually provisioned connection during a 30-day month), *25 Connections / 30 Days – Used: 1.000000* (if you had a 25 pack of Service Bus connections provisioned and you utilized 1 during that day) |
-| CustomerID | Unique Microsoft identifier for the customer, in GUID format. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| DomainName | Customer's domain name. Ce champ peut rester vide jusqu'au deuxième cycle de facturation. | *example.onmicrosoft.com* |
-| Unit | The unit of the resource **Name**. | *GB* or *HOURS* |
+| MeteredRegion | Identifie l’emplacement d’un centre de données dans la région (pour les services où cette valeur est applicable et remplie). | *Asie est*, *Sud Asie est*, *Europe du Nord*, Europe de l' *Ouest*, *nord du Centre des États*-Unis, *sud du Centre des États-Unis* |
+| MeteredService | Identifie l’utilisation d’un service Azure individuel lorsqu’il n’est pas spécifiquement identifié dans la colonne **ServiceName** . Par exemple, les transferts de données sont signalés comme *Microsoft Azure tous les services* dans la colonne **ServiceName** . | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Storage* |
+| MeteredServiceType | Sous-titre du champ **MeteredService** qui fournit des éclaircissements supplémentaires sur l’utilisation des services Azure. | *EXTERIEUR* |
+| Projet | Nom défini par le client pour son instance de service. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| ServiceInfo | Nombre de connexions Azure Service Bus qui ont été approvisionnées et utilisées pour un jour donné. | *1,000000 connexions/30 jours* (si vous aviez une connexion configurée individuellement au cours d’un mois de 30 jours), *25 connexions/30 jours – utilisée : 1,000000* (si vous aviez un pack de 25 connexions de service bus approvisionnées et que vous avez utilisé 1 pendant cette journée) |
+| CustomerID | Identificateur Microsoft unique du client, au format GUID. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| DomainName | Nom de domaine du client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation. | *example.onmicrosoft.com* |
+| Unit | Unité du **nom**de la ressource. | *Go* ou *heures* |

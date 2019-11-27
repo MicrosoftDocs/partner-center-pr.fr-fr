@@ -43,7 +43,7 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 | **Nom de la colonne** | **Description**                                                              | **Contrainte**                             |
 | Prénom      | Prénom de l’utilisateur (champ facultatif)                                           | 50&nbsp;caractères maximum                         |
 | Nom       | Nom de l’utilisateur (champ facultatif)                                            | 50&nbsp;caractères maximum                         |
-| Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
+| Display name    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
 | E-mail           | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse de messagerie unique. |
 | Mise à jour de l’état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*laissez un\*vide \*                        |
 

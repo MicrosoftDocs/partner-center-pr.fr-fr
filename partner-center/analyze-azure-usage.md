@@ -31,7 +31,7 @@ Les données orientent les décisions prises au niveau de l’entreprise. Utilis
 
 Nous suivons les indicateurs de performance suivants :
 
-## <a name="summary"></a>Résumé
+## <a name="summary"></a>Récapitulatif
 
 - **Total des abonnements Azure vendus** : nombre d'abonnements vendus dans la période spécifiée  
 - **Clients avec utilisation** : nombre de clients ayant utilisé Azure dans la période spécifiée  

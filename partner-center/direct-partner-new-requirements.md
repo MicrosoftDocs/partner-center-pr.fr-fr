@@ -52,7 +52,7 @@ Après avoir vérifié que votre entreprise répond aux conditions d’éligibil
 
 Si vous décidez de passer d’une facture directe à une entreprise de revendeur indirect, vous devez effectuer plusieurs étapes. Pour en savoir plus sur la transition, consultez [la transition du partenaire direct du fournisseur de solutions Cloud (CSP) au revendeur indirect CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
 - [Informations supplémentaires sur le devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Forum aux questions sur la facturation directe au revendeur indirect](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

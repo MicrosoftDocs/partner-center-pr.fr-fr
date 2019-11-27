@@ -37,7 +37,7 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 </colgroup>
 <thead>
 <tr class="header">
-<th>Proposer</th>
+<th>Offre</th>
 <th>Mises à niveau possibles</th>
 </tr>
 </thead>

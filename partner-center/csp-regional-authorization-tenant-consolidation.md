@@ -18,7 +18,7 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253602"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud
 
 **S’applique à**
 
@@ -122,7 +122,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 6.  Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. Le partenaire reçoit une facture finale avec un crédit pour le nombre de jours inutilisés entre le jour de l’annulation et le dernier jour de la période de facturation. Aucune facture n’est générée après cette période de facturation finale.
 
-### <a name="notes"></a>Remarques
+### <a name="notes"></a>Notes
 
 -   La désactivation de l’abonnement de la **transition à partir** du compte CSP n’a pas d’impact sur le service du client final, à condition que le service ait été approvisionné à partir du compte de **transition vers** CSP avant la désactivation.
 

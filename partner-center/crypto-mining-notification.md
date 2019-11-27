@@ -22,7 +22,7 @@ ms.locfileid: "74252720"
 **S’applique à**
 
 -  Espace partenaires
--  Partenaires fournisseurs de solutions Cloud
+-  Partenaires fournisseurs de solutions cloud
 
 Vous avez peut-être reçu la notification de l’espace partenaires suivante sur crypto-monnaies Mining :
  

@@ -16,28 +16,28 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384596"
 ---
-# <a name="company-tax-information"></a>Company tax information
+# <a name="company-tax-information"></a>Informations fiscales sur l’entreprise
 
-S'applique à :
+S’applique à :
 
 - Espace partenaires
 
-Les taxes associées aux achats de l'Espace partenaires sont déterminées par votre adresse professionnelle. Businesses in some countries can [provide their value-added tax (VAT) number](#submit-vat-id-number) or local equivalent.
+Les taxes associées aux achats de l'Espace partenaires sont déterminées par votre adresse professionnelle. Les entreprises dans certains pays peuvent [fournir leur numéro de TVA ou leur](#submit-vat-id-number) équivalent local.
 
 ### <a name="add-your-vat-id"></a>Ajouter votre numéro de TVA
 
-You must be a global admin, billing admin, or admin agent to  edit the billing profile.
+Pour modifier le profil de facturation, vous devez être administrateur général, administrateur de facturation ou agent d’administration.
 
-1.  From the **Partner Center dashboard** go to  **Settings** and then select **Billing profile**.
+1.  Dans le **tableau de bord espace partenaires** , accédez à **paramètres** , puis sélectionnez **profil de facturation**.
 2.  Dans la section **Données financières**, sélectionnez **Mettre à jour**.
-3.  In the **Company Tax ID** field, enter your VAT ID number.
+3.  Dans le champ ID de la taxe de l' **entreprise** , entrez votre numéro d’identification de TVA.
 
-## <a name="submit-vat-id-number"></a>Submit VAT ID number
+## <a name="submit-vat-id-number"></a>Envoyer le numéro d’identification de la T.V.A.
 
-If applicable, follow these steps to send Microsoft your value-added tax (VAT) ID number:
+Le cas échéant, procédez comme suit pour envoyer à Microsoft votre numéro d’identification de TVA (t.v.a.) :
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Partner billing profile** on the page menu.
-4. In the **Financial data** section, choose **Update**.
-5. For **Company Tax ID**, specify your VAT ID number.
+1. Connectez-vous au [tableau de bord de l’espace partenaires](https://partner.microsoft.com/dashboard/).
+2. Dans le menu **paramètres** (icône d’engrenage), choisissez **paramètres de partenaire**.
+3. Sur la page **paramètres du compte** , choisissez Profil de facturation du **partenaire** dans le menu de la page.
+4. Dans la section **données financières** , choisissez **mettre à jour**.
+5. Pour **ID de taxe**de l’entreprise, spécifiez votre numéro d’identification de TVA.

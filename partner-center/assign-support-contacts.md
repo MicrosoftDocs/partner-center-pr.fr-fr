@@ -39,7 +39,7 @@ Cette fonction peut être utilisée pour des scénarios de type [multipartenaire
 
 3.  Dans **Contact de support désigné**, sélectionnez le revendeur produit désigné, puis cliquez sur **Soumettre**. 
 
-    Remarques : 
+    Remarques : 
     
     *  Pour les nouveaux abonnements, le contact de support désigné est par défaut le fournisseur indirect. Vous pouvez également le remplacer par un revendeur indirect disposant de privilèges d’administration de délégation.
     

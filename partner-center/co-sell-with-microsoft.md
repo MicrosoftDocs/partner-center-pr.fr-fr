@@ -7,7 +7,7 @@ ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des engagement, inviter Microsoft à collaborer ou afficher les engagement envoyés.
 author: JnHs
 ms.author: jenhayes
-keywords: référence, RFI, rechercher un partenaire
+keywords: référence, demande d'informations, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628

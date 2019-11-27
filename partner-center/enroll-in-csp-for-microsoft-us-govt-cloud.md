@@ -75,7 +75,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
 
 2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
  
-## <a name="connect-with-us"></a>Communiquez avec nous
+## <a name="connect-with-us"></a>Restez en contact
 
 - Des questions ? Envoyez-nous un e-mail à l’adresse azgovcsp@microsoft.com
 

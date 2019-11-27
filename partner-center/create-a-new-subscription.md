@@ -17,13 +17,13 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253460"
 ---
-# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler les abonnements client
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
 **S’applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
--  Partenaires fournisseurs de solutions Cloud
+-  Partenaires fournisseurs de solutions cloud
 
 **Rôles appropriés**
 
@@ -47,7 +47,7 @@ En tant que partenaire dans le programme CSP, vous pouvez uniquement acheter des
 
 4. Pour afficher uniquement certains types d’abonnements, effectuez les sélections dans les filtres disponibles :
    - **Éditeur**: choisissez **Microsoft** pour afficher uniquement les offres de Microsoft ou le **partenaire** pour consulter les produits de la place de marché commercialisés publiés par les éditeurs de logiciels indépendants.
-   - **Type de facturation**: sélectionnez le type de facturation d’abonnement que vous souhaitez utiliser : **licence** ou **utilisation**. Voir [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md) pour obtenir des informations qui vous aideront à décider entre la fréquence de facturation mensuelle et annuelle.
+   - **Type de facturation**: sélectionnez le type de facturation d’abonnement que vous souhaitez utiliser : **licence** ou **utilisation**. Consultez [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md) pour obtenir des informations qui vous aideront à décider entre la fréquence de facturation mensuelle et annuelle.
    - **Catégorie**: choisissez **Enterprise**, **Small Business**ou **version d’évaluation**. Pour obtenir des informations sur les abonnements d’essai, consultez [Proposer à vos clients des abonnements d’essai aux produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Sélectionnez les abonnements de produits que vous souhaitez acheter pour votre client. Les produits que vous voyez dépendent du type de segment client (éducation, gouvernement, etc.) et des filtres que vous avez appliqués. Certaines offres affichées sur la place de marché ne sont pas toujours disponibles pour un client spécifique ou un partenaire CSP spécifique. Cela peut être dû aux raisons suivantes :
@@ -149,10 +149,10 @@ Pour arrêter le renouvellement automatique d’un abonnement au marché commerc
 
 6. Sélectionnez **Envoyer**.
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
 - [Acheter des produits de la place de marché commercial pour vos clients](csp-commercial-marketplace-purchase.md)
 - [Gérer les produits de la place de marché commerciale pour vos clients](csp-commercial-marketplace-manage.md)
-- [Présentation du marché commercial](csp-commercial-marketplace-overview.md)
+- [Vue d’ensemble de la Place de marché commerciale](csp-commercial-marketplace-overview.md)
 
 

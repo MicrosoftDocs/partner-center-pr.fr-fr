@@ -33,7 +33,7 @@ Si vous n’êtes pas déjà familiarisé avec AutoPilot, passez en revue les in
 - [Vue d’ensemble de Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guide de référence du déploiement AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Présentation
 
 Avec la fonctionnalité Windows AutoPilot de l’espace partenaires, vous pouvez créer des profils personnalisés à appliquer aux appareils clients. Les paramètres de profil suivants étaient disponibles au moment de la publication de cet article :
 

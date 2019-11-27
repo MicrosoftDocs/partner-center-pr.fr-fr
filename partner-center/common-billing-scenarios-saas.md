@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for license-based SaaS transactions | Partner Center
+title: Scénarios de facturation courants pour les transactions SaaS basées sur une licence | Espace partenaires
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for license-based SaaS transactions.
+description: Scénarios courants de facturation dans l’espace partenaires pour les transactions SaaS basées sur une licence.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: facturation, paiements, achat unique, achat périodique, abonnements, sièges
 ms.localizationpriority: medium
 ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,58 +15,58 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389607"
 ---
-# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Billing scenarios for license-based SaaS transactions
+# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Scénarios de facturation pour les transactions SaaS basées sur une licence
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to license-based software as a service (SaaS) subscriptions in Partner Center.
+Ces exemples de [scénarios de facturation courants](common-billing-scenarios.md) sont applicables aux abonnements de Software as a service basés sur une licence (SaaS) dans l’espace partenaires.
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Convert a free trial SaaS subscription to a paid subscription
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Convertir un abonnement SaaS gratuit d’évaluation en abonnement payant
 
-This scenario describes billing for the renewal of a license-based free trial SaaS subscription. The renewal converts the free trial to a paid subscription at the end of the free trial period.
+Ce scénario décrit la facturation pour le renouvellement d’un abonnement SaaS d’essai gratuit basé sur une licence. Le renouvellement convertit la version d’évaluation gratuite en abonnement payant à la fin de la période d’évaluation gratuite.
 
-In this example, you purchased a free trial of a license-based SaaS (software as a service) subscription on June 10th. This free trial automatically renewed as a paid subscription when the free trial period ends.
+Dans cet exemple, vous avez acheté une version d’évaluation gratuite d’un abonnement SaaS (software as a service) basé sur une licence le 10 juin. Cette version d’évaluation gratuite est automatiquement renouvelée en tant qu’abonnement payant dès la fin de la période d’évaluation gratuite.
 
-The recon files will include the following charges:
+Les fichiers de rapprochement comporteront les frais suivants :
 
-| Date d’achat | Charge start date | Charge end date | Prix unitaire | Unit quantity | Total amount | Type de frais | Subscription description |
+| Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 $ | 1 | 0 $ | Nouveau | Évaluation gratuite |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 $ | 1 | 2 $ | Renouveler | Paid subscription |
+| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 $ | 1 | 2 $ | Renouveler | Abonnement payant |
 
-## <a name="cancel-a-free-trial-saas-subscription"></a>Cancel a free trial SaaS subscription
+## <a name="cancel-a-free-trial-saas-subscription"></a>Annuler un abonnement SaaS d’évaluation gratuite
 
 > [!TIP]
-> You can cancel a license-based free trial SaaS subscription any time, even during the free trial period.
+> Vous pouvez annuler à tout moment un abonnement SaaS d’essai gratuit basé sur une licence, même pendant la période d’évaluation gratuite.
 
-In this scenario, you purchased a license-based free trial SaaS subscription on July 1st, and then canceled it immediately in Partner Center. 
+Dans ce scénario, vous avez acheté un abonnement SaaS d’essai gratuit basé sur une licence le 1er juillet, puis vous l’avez annulé immédiatement dans l’espace partenaires. 
 
-The recon file will include the following charges:
+Le fichier de rapprochement inclut les frais suivants :
 
-| Date d’achat | Charge start date | Charge end date | Prix unitaire | Unit quantity | Total amount | Type de frais | Subscription description |
+| Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Nouveau | Évaluation gratuite |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Annuler | Évaluation gratuite |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Cancel | Évaluation gratuite |
 
-## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convert custom meter SaaS subscription to another SKU
+## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convertir un abonnement SaaS de compteur personnalisé en une autre référence (SKU)
 
-This scenario describes how to convert a custom meter SaaS subscription from one stock keeping unit (SKU) to another SKU for the same product, on the same date.
+Ce scénario décrit comment convertir un abonnement SaaS de compteur personnalisé d’une référence (SKU) vers une autre référence (SKU) pour le même produit, à la même date.
 
-In this scenario, you purchased one SKU (Silver) under a product and converted it to another available SKU (Bronze) under this product on the same date.
+Dans ce scénario, vous avez acheté une référence (Silver) sous un produit et vous l’avez convertie en une autre référence (bronze) disponible dans le cadre de ce produit à la même date.
 
-The recon file will include the following charges:
+Le fichier de rapprochement inclut les frais suivants :
 
-| Date d’achat | Charge start date | Charge end date | Prix unitaire | Unit quantity | Total amount | Type de frais | Subscription description |
+| Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 $ | 1 | 20 $ | Nouveau | Custom meter SaaS subscription |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 $ | 1 | -$20 | Convertir | Prorated rebill for custom meter SaaS subscription |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | 10 $ | Convertir | Custom meter SaaS subscription |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 $ | 1 | 20 $ | Nouveau | Abonnement SaaS à compteur personnalisé |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 $ | 1 | -$20 | Convertir | Facture au prorata pour l’abonnement SaaS du compteur personnalisé |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | 10 $ | Convertir | Abonnement SaaS à compteur personnalisé |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Purchase and cancel a customer meter SaaS subscription on same date
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Acheter et annuler un abonnement SaaS client à la même date
 
-This scenario describes billing for a customer meter SaaS subscription that you purchased and cancelled through the Azure portal on the same date.
+Ce scénario décrit la facturation d’un abonnement SaaS client Meter que vous avez acheté et annulé par le biais de la Portail Azure à la même date.
 
-In this scenario, you purchased a custom meter SaaS subscription on the Azure portal. Then, you canceled the subscription on the same date.
+Dans ce scénario, vous avez acheté un abonnement SaaS à compteur personnalisé sur la Portail Azure. Ensuite, vous avez annulé l’abonnement à la même date.
 
-| Date d’achat | Charge start date | Charge end date | Prix unitaire | Unit quantity | Total amount | Type de frais | Subscription description |
+| Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | 10 $ | Nouveau | Custom meter SaaS subscription |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | -$10 | CancelImmediate | Custom meter SaaS subscription |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | 10 $ | Nouveau | Abonnement SaaS à compteur personnalisé |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | -$10 | CancelImmediate | Abonnement SaaS à compteur personnalisé |

@@ -39,7 +39,7 @@ Le programme fournisseur de solutions Cloud (CSP) vous permet d’aller au-delà
 
 #### <a name="new-expanded-requirements"></a>Nouvelles conditions étendues :
 
-Support
+Assistance
 - Développez vos capacités de support par l'achat d'un support cloud individuel prioritaire avec un package de support Avancé Microsoft pour les partenaires. Ou choisissez un package Support Premier Microsoft pour les partenaires afin d'accéder au catalogue complet des services proactifs et de bénéficier d'un support de niveau élevé couvrant la garantie de réparation et d'assistance 24 h/24, 7 jours/7 et la gestion de compte technique dans tous les environnements cloud, hybrides et sur site. 
 
 Services
@@ -71,7 +71,7 @@ Avant de pouvoir commander des offres du fournisseur de services de chiffrement 
 
 Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), ainsi que diverses autres offres qui changent fréquemment. Pour afficher les offres du CSP pour le mois en cours, connectez-vous à l’espace partenaires, puis accédez à la page [**tarification et offres**](https://partnercenter.microsoft.com/pcv/sales) .
 
-## <a name="see-also"></a>Voir également 
+## <a name="see-also"></a>Voir aussi 
 
 
 |**Pour en savoir plus à ce sujet**   |**Lisez cela**   |

@@ -130,7 +130,7 @@ Pour plus d’informations sur le développement avec l’Espace partenaires de 
 
 **Existe-t-il des différences dans les API ?**
 
-Les exigences liées aux API et à l’intégration pour le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis sont identiques à celles en vigueur pour CSP Commercial. Pour plus d’informations sur les points de terminaison dans Microsoft Cloud for US Government, voir [URL REST de l’Espace partenaires](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx).
+Les exigences liées aux API et à l’intégration pour le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis sont identiques à celles en vigueur pour CSP Commercial. Pour plus d’informations sur les points de terminaison dans Microsoft Cloud pour le gouvernement des États-Unis, voir [URL REST de l’Espace partenaires](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx).
 
 >[!NOTE]
 >Les API CREST ne seront pas disponibles pour le programme Fournisseur de solutions Cloud de Microsoft Cloud for US Government. Ces API seront bientôt déconseillées dans le programme Fournisseur de solutions Cloud et, par conséquent, elles ne sont pas disponibles pour Microsoft Cloud pour le gouvernement des États-Unis. Pour répondre aux exigences en matière de réglementation et de conformité, les API suivantes ne seront pas disponibles dans le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis.
@@ -173,7 +173,7 @@ Utilisez les liens suivants pour vous familiariser avec le programme Fournisseur
 
 -   [Pour en savoir plus sur Azure Government](https://azure.microsoft.com/overview/clouds/government/)
 
--   [Pour en savoir plus sur CSP](https://partner.microsoft.com/cloud-solution-provider)
+-   [Pour en savoir plus sur le programme Fournisseur de solutions Cloud](https://partner.microsoft.com/cloud-solution-provider)
 
 -   [Pour en savoir plus sur le développement avec l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)
 

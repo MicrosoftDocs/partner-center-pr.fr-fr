@@ -42,7 +42,7 @@ L'éligibilité des partenaires et des clients pour Office 365 Secteur Public G
 2.  Fournit les organisations gouvernementales des États-Unis via la GSA ou d'autres modes de gestion de contrat
 
 **Critères du client**
-1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Par exemple :
+1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Par exemple :
  
     -  Agence fédérale (par exemple, bureau, agence, service ou autres entités du gouvernement américain)
     -   Entité nationale/locale 

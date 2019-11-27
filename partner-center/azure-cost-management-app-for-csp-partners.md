@@ -37,7 +37,7 @@ Avant de pouvoir utiliser Azure Cost Management, veillez à ce que les condition
 - Vous êtes un partenaire du programme Fournisseur de solutions Cloud.
 - Vous avez la possibilité de créer une application Web de l'API de l'Espace partenaires.
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Présentation
 
 Cloudyn est une application Web qui vous permet de suivre et de gérer l’utilisation d’Azure par vos clients, ainsi que les coûts de cette utilisation. Vous l'utilisez via l'API de l'Espace partenaires.
 

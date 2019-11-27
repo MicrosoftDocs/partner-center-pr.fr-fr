@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use metrics in Partner Center to see whether your business is growing, how customers are using their licenses, and where to focus investment.
+description: Découvrez comment utiliser les métriques dans l’espace partenaires pour déterminer si votre entreprise est en constante évolution, comment les clients utilisent leurs licences et où concentrer leurs investissements.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
@@ -22,7 +22,7 @@ ms.locfileid: "74253699"
 
 -  Espace partenaires
 
-Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
+Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
 
 Vous pouvez afficher les données de l’ensemble de vos clients via le programme Fournisseur de solutions Cloud. Notez que certains clients peuvent acheter des licences auprès d’autres partenaires ou directement auprès de Microsoft. Dans ce cas, vous voyez le nombre total de licences chez tous les partenaires. Pour afficher uniquement vos propres licences, accédez aux abonnements du client.
 
@@ -32,13 +32,13 @@ Vous pouvez afficher les données de l’ensemble de vos clients via le programm
 ## <a name="find-license-and-user-data"></a>Rechercher des données utilisateur et de licence
 
 
-**For a single customer**
+**Pour un seul client**
 
--   Select **Customers** from the **Partner Center**, choose a customer, then select **Customer insights**.
+-   Sélectionnez **clients** dans l' **espace partenaires**, choisissez un client, puis sélectionnez **Insights client**.
 
-**Across your portfolio**
+**Dans votre portefeuille**
 
-1.  On the **Partner Center**, select **Analyze**.
+1.  Dans l' **espace partenaires**, sélectionnez **analyser**.
 2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
 
 Terminologie&nbsp;:
@@ -64,7 +64,7 @@ Terminologie&nbsp;:
 ## <a name="next-steps"></a>Étapes suivantes
 
 
-If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you're looking for upsell opportunities, you may want to consider offering training courses. By teaching your customers how to better use the cloud solution software they have purchased, you're more likely to see an increase in productivity and satisfaction, and a decrease in support needs.
+Si vous avez un grand nombre d’aide et de questions relatives aux procédures, que les numéros d’adoption de votre compte sont faibles ou que vous recherchez des opportunités de vente incitative, vous pouvez envisager de proposer des cours de formation. En apprenant à vos clients comment mieux utiliser les logiciels de la solution Cloud qu’ils ont achetés, vous risquez de voir une augmentation de la productivité et de la satisfaction, et une baisse des besoins en matière de support.
 
 <table>
 <colgroup>
@@ -72,14 +72,14 @@ If you are fielding a lot of Help and How-to questions, the adoption numbers on 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</p>
-<p><strong>Éléments à prendre en compte :</strong> les clients ne comprennent peut-être pas la valeur ajoutée que le logiciel peut leur apporter. They need help envisioning the ways they could incorporate it into their day to simplify tasks that they're already doing, or to enable new kinds of productivity.</p>
+<td><p><strong>Problème :</strong> Le taux d’adoption par l’utilisateur est faible, et&#39;de nombreuses licences ne sont pas utilisées.</p>
+<p><strong>Éléments à prendre en compte :</strong> les clients ne comprennent peut-être pas la valeur ajoutée que le logiciel peut leur apporter. Ils ont besoin d’aide pour la mise en place de la manière dont ils peuvent l’intégrer à leur jour pour simplifier les tâches qu’ils font déjà, ou pour activer de nouveaux types de productivité.</p>
 <p><strong>Marche à suivre :</strong> études de cas, témoignage des utilisateurs concernant des scénarios spécifiques, blogs de didacticiel ou vidéos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problème :</strong> le nombre d’appels pour des questions d’aide et de procédures est élevé.</p>
 <p><strong>Éléments à prendre en compte :</strong> les clients peuvent ne pas connaître le logiciel, la version du produit ou la tâche qu’ils doivent effectuer.</p>
-<p><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</p>
+<p><strong>À essayer :</strong> Vous pouvez utiliser une stratégie double pour offrir une formation (en personne ou en ligne) pour&#39;augmenter l’expertise générale du client, tout en promouvant certaines des options en libre-service disponibles pour les clients.</p>
 <p>Vous pouvez également repenser votre site de support pour inclure les options de libre-service décrites dans la rubrique <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Support autonome du client</a>, en plus des informations de contact du support.</p></td>
 </tr>
 </tbody>
