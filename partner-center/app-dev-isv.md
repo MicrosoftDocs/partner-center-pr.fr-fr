@@ -1,7 +1,7 @@
 ---
 title: Exemption des exigences de l’examen à usage unique pour la compétence du développement d’applications | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Pour les partenaires disposant d’une compétence ISV antérieure, Découvrez comment obtenir une exemption des exigences d’examen à usage unique pour les compétences de développement d’applications
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, ISV, développement d’applications
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295234"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559503"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exemption des exigences de l’examen à usage unique pour les compétences de développement d’applications
 
@@ -27,9 +27,9 @@ Si vous avez atteint la compétence du ISV et que l’un des scénarios suivants
 
 Partenaires avec une compétence ISV :
 
-- **Votre compétence ISV a expiré** : votre exemption de conditions d’examen à usage unique sera disponible dans l’espace partenaires à partir du 22 novembre 2019. Vous aurez 30 jours pour tirer parti de l’offre. 
+- **Votre compétence ISV a expiré** : l’exemption de conditions d’examen à usage unique est disponible dans l’espace partenaires à partir du 22 novembre 2019. Vous disposez de 30 jours pour tirer parti de l’offre. Connectez-vous à l’espace partenaires pour obtenir des détails spécifiques à votre entreprise.
 
-- **Votre adhésion aux compétences est dans sa fenêtre de renouvellement** : votre exemption de conditions d’examen à usage unique sera disponible dans l’espace partenaires à partir du 22 novembre 2019. Vous aurez 30 jours pour tirer parti de l’offre. 
+- **Votre adhésion aux compétences est dans sa fenêtre de renouvellement** . l’exemption des exigences en matière d’examen à usage unique est disponible dans l’espace partenaires à partir du 22 novembre 2019. Vous disposez de 30 jours pour tirer parti de l’offre. Connectez-vous à l’espace partenaires pour obtenir des détails spécifiques à votre entreprise.
 
 - **Votre adhésion aux compétences est due au renouvellement des mois à venir** . votre exemption de conditions d’examen à usage unique vous sera proposée au moment du renouvellement. À ce moment-là, vous aurez 30 jours pour obtenir l’offre.
 

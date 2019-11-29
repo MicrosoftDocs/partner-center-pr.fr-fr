@@ -103,6 +103,7 @@
 ## [Demander un crédit de contrat SLA à Microsoft](request-credit.md)
 ## [Définir un budget Azure pour vos clients](set-an-azure-spending-budget-for-your-customers.md)
 ## [Gestion des défauts de paiement, des fraudes ou des mauvaises utilisations](non-payment--fraud--or-misuse.md)
+## [Gérer les paiements non alloués](unallocated-payment.md)
 
 # [Entrer en contact avec les clients](customer-accounts.md)
 ## [Ajouter un client](add-a-new-customer.md)

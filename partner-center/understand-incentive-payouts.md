@@ -8,12 +8,12 @@ description: Affichez les revenus et les paiements se rapportant aux programmes 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653995"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559751"
 ---
 # <a name="view-your-incentives-payments-information"></a>Afficher vos informations de paiement d’incentives
 
@@ -91,6 +91,7 @@ Cette option permet de télécharger les paiements que vous avez reçus dans vot
 |earnedUSD   |Montant gagné pour le programme/ID participant, en USD      |
 |withheldTax   |Montant des taxes retenues dans le paiement à la devise pour le programme/participantID      |
 |salesTax   |Montant total des taxes dans le paiement à la devise pour le programme/participantID      |
+|serviceFeeTax  |Montant total de serviceFeeTax dans payer à la devise pour le programme/participantID |
 |totalPayment   |Paiement total en devise locale, à l’exclusion de la taxe à retenir et des taxes de vente (le cas échéant) pour le programme/participantID      |
 |currencyCode   |Paiement à code devise      |
 |paymentMethod   |Méthode utilisée pour payer le partenaire (virement bancaire électronique, note de crédit)      |
