@@ -1,21 +1,21 @@
 ---
 title: Comptes professionnels et Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Pour créer un compte Espace partenaires, votre entreprise doit disposer d’un compte professionnel. Si vous avez un abonnement actif à Microsoft Azure ou Office 365, vous disposez déjà d’un compte professionnel.
+description: Découvrez pourquoi vous avez besoin d’un compte professionnel pour créer un compte Espace partenaires et si vous disposez déjà d’un compte professionnel.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: compte professionnel, e-mail, locataire, locataire Azure, créer un compte, nom de domaine
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096550"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253318"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Compte professionnel de votre entreprise et Espace partenaires  
 

@@ -1,7 +1,7 @@
 ---
 title: Offres pour les partenaires du programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 10/28/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les offres disponibles pour les partenaires qui vendent via le programme Fournisseur de solutions Cloud.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions cloud, services basés sur le cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions cloud, vendre dans le programme Fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements client
 ms.localizationpriority: high
-ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
-ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
+ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "73799205"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252908"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offres pour les partenaires du programme Fournisseur de solutions Cloud 
 
@@ -57,7 +57,7 @@ Actuellement, vous pouvez vendre les types de produits et de services suivants �
     
     Vous pouvez également trouver des informations sur ces produits sur la page **Place de marché**. Notez que cette page contient également des informations sur les autres types de produits qui doivent être achetés sur le Portail Azure, et non dans l’Espace partenaires.<br>
 
-    Pour plus d’informations, consultez [Vendre des abonnements à des produits de la Place de marché Azure](sell-marketplace-products.md)
+    Pour plus d’informations, consultez [Vue d’ensemble de la marketplace commerciale pour les fournisseurs de solutions Cloud](CSP-commercial-marketplace-overview.md).
 
 ## <a name="add-products-page-details"></a>Détails de la page Ajouter des produits
 
@@ -104,8 +104,8 @@ Pour acheter des produits et des services pour vos clients du programme Fourniss
 
 Pour plus d’informations sur le fonctionnement du processus de facturation, consultez [Notions de base de facturation](https://docs.microsoft.com/partner-center/billing-basics).
 
-Pour plus d’informations sur les achats effectués dans le cadre du plan Azure, consultez [Acheter le plan Azure](purchase-azure-plan).
+Pour plus d’informations sur les achats effectués dans le cadre du plan Azure, consultez [Acheter le plan Azure](purchase-azure-plan.md).
 
+## <a name="see-also"></a>Voir également
 
-
-
+[Vue d’ensemble de la marketplace commerciale pour les fournisseurs de solutions Cloud](csp-commercial-marketplace-overview.md)

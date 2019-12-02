@@ -1,73 +1,41 @@
 ---
 title: Facturation | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: En tant que partenaire du programme Fournisseur de solutions Cloud, vous devez payer Microsoft dans les 60 jours suivant la facturation des abonnements basés sur la licence et sur l’utilisation de vos clients.
+Description: Rubriques relatives à la facturation dans l’Espace partenaires, y compris les ressources de facturation, les factures et la facturation du programme Fournisseur de solutions Cloud.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: high
-ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096456"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384627"
 ---
 # <a name="billing"></a>Facturation
 
-**S’applique à**
+S’applique à :
 
--  Espace partenaires
--  Espace partenaires de Microsoft Cloud for US Government
- 
- 
-Pour votre facture, accédez au menu **Espace partenaires** et sélectionnez **Facturation** pour afficher votre historique et vos tendances de facturation, des liens vers votre facture et votre fichier de rapprochement, ainsi que votre dernier paiement en date.
+- Espace partenaires
+- Espace partenaires de Microsoft Cloud for US Government
 
-Les partenaires du programme Fournisseur de solutions Cloud qui ont choisi d’être facturés chaque mois paient Microsoft dans les 60 jours suivant la facturation des abonnements de leurs clients (basés sur la licence et sur l’utilisation).
+| Rubrique | Description |
+| ----- | ----------- |
+| [Présentation de la facturation](billing-basics.md) | Notions de base de la facturation de l’Espace partenaires (y compris les paiements, les factures et les fichiers de rapprochement). |
+| [Types de facturation](billing-different-types.md) | Explication des différents types de facturation dans l’Espace partenaires. |
+| [Différences entre les facturations mensuelle et annuelle](billing-annual-monthly.md) | Explication des différences entre les fréquences de facturation mensuelle et annuelle. |
+| [Lecture de votre facture](read-your-bill.md) | Comment lire et comprendre votre facture de l’Espace partenaires. |
+| [Essais gratuits](offer-your-customers-trials-of-microsoft-products.md) | Comment proposer des essais gratuits à vos clients, et comment ces essais sont facturés. |
+| [Fichier de rapprochement](use-the-reconciliation-files.md) | Comment lire et utiliser votre fichier de rapprochement pour les éléments de ligne. |
+| [Exemples de facturation courants](common-billing-scenarios.md) | Comment comprendre les scénarios courants de facturation de l’Espace partenaires (pour les facturations mensuelle et annuelle ainsi que pour la facturation des achats ponctuels et périodiques). |
+| [Responsabilités et exemptions fiscales](tax-and-tax-exemptions.md) | Explication des responsabilités fiscales et des exemptions fiscales pour les ventes de l’Espace partenaires. |
+| [Budget des dépenses Azure](set-an-azure-spending-budget-for-your-customers.md) | Comment définir un budget Azure pour vos clients. |
+| [Défaut de paiement, fraude ou mauvaise utilisation](non-payment--fraud--or-misuse.md) | Comment gérer le défaut de paiement, les fraudes ou les mauvaises utilisations par vos clients dans l’Espace partenaires. |
+| [Demander un crédit de contrat SLA pour les pannes](request-credit.md) | Comment demander un crédit de contrat SLA auprès de Microsoft pour vos clients en cas de panne du service. |
 
-> [!NOTE]  
-> Votre facture récapitule tous les frais (sur le programme, les produits et les clients) de la période de facturation en cours et est disponible dans les deux (2) jours suivant la date de facturation sélectionnée à l’heure UTC. Par exemple, si votre date de facturation est le 12 septembre, le processus de génération de facture commence le 13 à 00:00 UTC (minuit) et se termine le 14 à 00:00 UTC (minuit). Si vous ne voyez pas votre facture le 15 à 23:59 UTC, vous êtes hors des termes de votre Contrat de niveau de service et devez effectuer une demande de service. 
-
-Informations clés à connaître à propos de la facturation de vos clients :
-
--   Nous n’avons pas d’exigences particulières sur la façon dont vous gérez votre propre facturation.
--   Pour établir la consommation d’un client, utilisez le nom/ID du client et les autres champs pertinents des fichiers de rapprochement.
--   Ajoutez vos propres frais pour les services et les produits que vous fournissez.
--   Envoyez une facture unique correspondant à tous les frais à votre client.
-
-## <a name="billing-resources"></a>Ressources sur la facturation
-|**Pour plus d’informations sur**   |**Lisez cela**    |
-|:-----------------------------|:-----------------|
-|Notions de base sur la facturation, les paiements, les factures et plus encore   |[Notions de base de facturation](billing-basics.md)
-|Nouvelles fonctionnalités de facturation comme la facturation annuelle   |[FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md)|
-|Types de facturation   |[Présentation des types de facturation dans l’Espace partenaires](billing-different-types.md)   |
-|Clé pour lire votre facture   |[Lire votre facture](read-your-bill.md)   |
-|Comment lire et utiliser votre fichier de rapprochement   |[Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)|
-|Scénarios de facturation courants (recherchez d’autres scénarios de facturation dans [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md))|[Exemples de facturation courants](common-billing-scenarios.md)|
-|Vos responsabilités fiscales   | [Taxes et exonérations fiscales](tax-and-tax-exemptions.md)|
-|Budgétisation basée sur l’utilisation    |[Définir un budget Azure pour vos clients](set-an-azure-spending-budget-for-your-customers.md)|
-|Que faire en cas de défaut de paiement, de fraude ou de mauvaise utilisation   |[Défaut de paiement, fraude ou mauvaise utilisation](non-payment--fraud--or-misuse.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Si vous recherchez des ressources et des informations sur la facturation de l’API de l’Espace partenaires, consultez la [documentation relative à la facturation du développeur](https://docs.microsoft.com/partner-center/develop/manage-billing).

@@ -1,21 +1,21 @@
 ---
-title: Plan Azure - Facturation | Espace partenaires
+title: Facturation du plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Décrit la structure de fichier de rapprochement et de facture pour le plan Azure
+description: Découvrez comment accéder à la structure des fichiers de facturation et de rapprochement liée à la facturation pour le plan Azure et comment la comprendre.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661164"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536449"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
@@ -42,7 +42,7 @@ La facturation dans le plan Azure est une expérience simplifiée qui utilise un
 
 - **Primes incitatives des partenaires** : Payées à 45 jours fin de mois.
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>Accéder à vos factures et à vos fichiers de rapprochement
+## <a name="access-your-invoices-and-reconciliation-files"></a>Accéder à vos factures et à vos fichiers de rapprochement
 
 L’administrateur général ou l’administrateur de facturation de votre entreprise reçoit un e-mail dès qu’une facture est consultable. 
 
@@ -141,7 +141,7 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
 ## <a name="invoice-in-customer-currency"></a>Facture dans la devise du client 
 
-Les services Azure fournis par l’intermédiaire d’un plan Azure sont facturés en USD et facturés dans la devise officielle du pays du client. Si la devise de facturation n’est pas USD, le taux de change utilisé est indiqué à la dernière page de la facture. Les taux de change sont déterminés tous les mois et appliqués à la facture suivante. Pour obtenir la liste complète des devises des pays, consultez la [grille des devises client et la disponibilité des offres de nouveau commerce par pays](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V). 
+Les services Azure fournis par l’intermédiaire d’un plan Azure sont facturés en USD et facturés dans la devise officielle du pays du client. Si la devise de facturation n’est pas USD, le taux de change utilisé est indiqué à la dernière page de la facture. Les taux de change sont déterminés tous les mois et appliqués à la facture suivante. Pour obtenir la liste complète des devises des pays, consultez la [grille des devises client et la disponibilité des offres de nouveau commerce par pays](https://go.microsoft.com/fwlink/?linkid=2112354). 
 
 Microsoft utilise [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) pour déterminer les taux de change permettant d’effectuer la conversion de la devise de tarification en devise de facturation. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
 

@@ -1,19 +1,19 @@
 ---
 title: S’inscrire au programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprendre les différents modèles de vente dans le programme CSP et déterminer celui qui convient le mieux à votre entreprise
+description: Comprenez les différents modèles de vente dans le programme Fournisseur de solutions Cloud (CSP) et déterminez celui qui convient le mieux à votre entreprise.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 00a46c91aedf9261722d29ed7ac5357fe1256ef7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653201"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252154"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 

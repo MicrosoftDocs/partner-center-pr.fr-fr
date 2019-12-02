@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661117"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295256"
 ---
 # <a name="partner-security-requirements-status"></a>Statut des exigences de sécurité des partenaires
 
@@ -105,7 +105,7 @@ Si vous utilisez une solution MFA tierce, identifiez la façon dont vous l’int
 
 * **Contrôle personnalisé** - Le contrôle personnalisé Azure AD ne peut pas être utilisé pour déterminer si un utilisateur a effectué la vérification MFA via une solution MFA tierce. Par conséquent, tout utilisateur qui a effectué la vérification MFA via un contrôle personnalisé apparaîtra toujours à Azure AD (et, à son tour, à l’Espace partenaires) comme n’ayant pas effectué la vérification MFA. Dans la mesure du possible, il est recommandé d’adopter la fédération des identités par opposition au contrôle personnalisé lors de l’intégration avec Azure AD.
 
-### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>Identifier les utilisateurs qui se sont connectés à l’Espace partenaires sans MFA
+### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identifier les utilisateurs qui se sont connectés à l’Espace partenaires sans MFA
 
 Il peut s’avérer utile d’identifier les utilisateurs qui se connectent à l’Espace partenaires sans vérification MFA et de les vérifier par rapport à votre implémentation MFA actuelle. Vous pouvez utiliser le [rapport de connexion Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) pour déterminer si un utilisateur a effectué ou non la vérification MFA. Le rapport de connexion Azure AD est actuellement disponible uniquement pour les partenaires qui se sont abonnés à Azure AD Premium ou à une référence O365 incluant Azure AD Premium (par exemple, EMS).
 

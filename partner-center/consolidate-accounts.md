@@ -1,21 +1,21 @@
 ---
 title: Consolider vos comptes d’entreprise | Espace partenaires
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lorsque votre entreprise migre vers l’Espace partenaires, tous vos comptes sont consolidés en un seul compte
+description: Découvrez le regroupement de comptes PMC (Partner Membership Center) en un seul compte dans l’Espace partenaires. C’est au cours de cette procédure que vous migrez de PMC vers l’Espace partenaires.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 6cf0af27145de2107fc7904e9a4cbd602a539f50
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653627"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252071"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolider vos comptes d’entreprise
 

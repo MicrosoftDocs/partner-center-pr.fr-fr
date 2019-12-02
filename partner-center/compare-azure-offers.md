@@ -1,20 +1,20 @@
 ---
 title: Comparer les offres Azure | Espace partenaires
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comparaison des offres Azure disponibles
+description: Découvrez les principales différences entre les offres disponibles dans la nouvelle expérience de commerce Microsoft pour les partenaires participant au programme Fournisseur de solutions Cloud (CSP).
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 585a2214e6efa202d688ba4d42c5f23596484110
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653632"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253435"
 ---
 # <a name="compare-azure-offers"></a>Comparer les offres Azure
 

@@ -1,20 +1,20 @@
 ---
 title: Gérer les abonnements et les ressources dans le plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Acheter plusieurs abonnements Azure dans le plan Azure
+description: Découvrez comment les partenaires peuvent utiliser différentes options de contrôle d’accès basé sur les rôles (RBAC) pour bénéficier d’une gestion et d’un contrôle opérationnels sur les ressources Azure d’un client.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 15d1fd3bdff078e752f3b3acb9b200300dc2e64b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653852"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253280"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gérer les abonnements et les ressources dans le cadre du plan Azure
 
