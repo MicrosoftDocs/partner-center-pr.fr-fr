@@ -1,7 +1,7 @@
 ---
 title: Tâches de gestion des utilisateurs pour des comptes client | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apprenez à créer des comptes d’utilisateur pour un client, à ajouter ou supprimer des licences utilisateur, à réinitialiser les mots de passe utilisateur, à supprimer des comptes d’utilisateur ou à les restaurer.
@@ -10,18 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: gestion des clients, compte, créer un compte, licences, attribuer une licence, gestion des utilisateurs, mot de passe, réinitialiser le mot de passe, modifier le mot de passe
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253353"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721355"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tâche de gestion des utilisateurs pour des comptes client
 
 **S’applique à**
 
 - Espace partenaires
+
+**Rôles appropriés**
+
+- Administrateur global
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Commercial
+- Agent du support technique
 
 Vous pouvez créer et supprimer de nouveaux utilisateurs dans le compte d’un client. Vous pouvez également restaurer un ou plusieurs comptes d’utilisateur que vous avez précédemment supprimés dans les 30 jours suivant la suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
 

@@ -10,18 +10,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d'abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253140"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721761"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
+- Partenaires du programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur global
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Commercial
+- Agent du support technique
 
 Si votre client a besoin de davantage de sièges que dans son abonnement actuel, ou d’une autre version avec des services supplémentaires, vous pouvez mettre à jour l’abonnement. Pour plus d’informations, voir [Basculer vers une autre offre Office&nbsp;365 pour les entreprises](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
@@ -37,7 +46,7 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 </colgroup>
 <thead>
 <tr class="header">
-<th>Offre</th>
+<th>Proposer</th>
 <th>Mises à niveau possibles</th>
 </tr>
 </thead>
@@ -46,16 +55,16 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 <td>Office 365 professionnel</td>
 <td><ul>
 <li>Office&nbsp;365 Business&nbsp;Premium¹</li>
-<li>Office 365 ProPlus</li>
-<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
-<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
+<li>Office 365 ProPlus</li>
+<li>Office 365 Entreprise E3</li>
+<li>Office 365 Entreprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Office 365 Business Premium</td>
 <td><ul>
-<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
-<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
+<li>Office 365 Entreprise E3</li>
+<li>Office 365 Entreprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -63,8 +72,8 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 <td><ul>
 <li>Office&nbsp;365 Business&nbsp;Premium¹</li>
 <li>Office&nbsp;365 Entreprise&nbsp;E1</li>
-<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
-<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
+<li>Office 365 Entreprise E3</li>
+<li>Office 365 Entreprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -73,8 +82,6 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 </tr>
 </tbody>
 </table>
-
- 
 
 La mise à niveau des abonnements est possible si les conditions suivantes sont remplies&nbsp;:
 

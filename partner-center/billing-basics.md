@@ -1,8 +1,8 @@
 ---
 title: Présentation de la facturation | Espace partenaires
 ms.topic: article
-ms.date: 11/21/2019
-description: Informations de facturation et de facturation de base pour l’espace partenaires.
+ms.date: 11/25/2019
+description: En savoir plus sur la facturation de base et les informations de facturation pour l’espace partenaires.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,26 +10,36 @@ ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384546"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722467"
 ---
 # <a name="billing-overview"></a>Présentation de la facturation
 
-S’applique à :
+**S’applique à**
 
 - Espace partenaires
 - Partenaires dans le programme du fournisseur de solutions Cloud (CSP)
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administration de facturation
+- Administrateur global
+- Agent du support technique
+- Commercial
 
 ## <a name="find-your-bill"></a>Rechercher votre facture
 
 Pour trouver votre facture :
 
 1. [Connectez-vous au tableau de bord de l’espace partenaires](https://partner.microsoft.com/dashboard/home).
+
 2. Dans le menu de gauche, choisissez **facturation**.
+
 3. Sur la page **facturation** , vous pouvez télécharger votre dernière facture ou télécharger les factures précédentes dans la section historique de la **facturation** .
 
 ## <a name="bill-your-customers"></a>Facturer vos clients

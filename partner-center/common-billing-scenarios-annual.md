@@ -1,21 +1,28 @@
 ---
 title: Scénarios de facturation courants | Espace partenaires
 ms.topic: article
-ms.date: 11/21/2019
-description: Scénarios de facturation courants dans l’espace partenaires pour la facturation annuelle (par exemple, l’ajout de nouveaux abonnements, l’ajout de licences avant la date de facturation, la modification de la quantité de licences et la suspension et la réactivation des abonnements).
+ms.date: 11/25/2019
+description: 'Consultez facturation annuelle de l’espace partenaires : lorsque vous ajoutez de nouveaux abonnements, ajoutez des licences avant la date de facturation, modifiez le nombre de licences, interrompez/réactivez les abonnements.'
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d29def486243f3a4ee9060d442dc5e4b024cb1f0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389627"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722479"
 ---
 # <a name="annual-billing-scenarios"></a>Scénarios de facturation annuelle
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administration de facturation
+- Agent du support technique
+- Commercial
 
 Ces exemples de [scénarios de facturation courants](common-billing-scenarios.md) sont applicables si vous utilisez la facturation annuelle dans l’espace partenaires.
 
@@ -99,7 +106,7 @@ Le 1er février vous suspendez votre abonnement. Le 15 février, le fichier de
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Annuler les frais|-48,00|1|-48,00
+13/01/2018|12/01/2019|Frais d'annulation|-48,00|1|-48,00
 
 ## <a name="suspend-after-30-days"></a>Suspendre après 30 jours
 
@@ -114,7 +121,7 @@ Le 1er mars vous suspendez votre abonnement. Le 15 mars, le fichier de rapproc
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|12/01/2019|Annuler les frais|-41,34|1|-41,34
+01/03/2018|12/01/2019|Frais d'annulation|-41,34|1|-41,34
 
 Le prix annuel est de 48,00 dollars, ce qui équivaut à un prix journalier de 0,13 (48,00/365).
 
@@ -136,7 +143,7 @@ Le 1er février vous suspendez votre abonnement. Le 15 février, le fichier de
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Annuler les frais|-48,00|1|-48,00
+13/01/2018|12/01/2019|Frais d'annulation|-48,00|1|-48,00
 
 Le 1er mars vous réactivez votre abonnement. Le 15 mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
 

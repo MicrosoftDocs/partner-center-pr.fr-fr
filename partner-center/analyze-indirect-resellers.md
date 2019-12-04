@@ -11,18 +11,26 @@ ms.topic: article
 keywords: données d'entreprise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253378"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722377"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analyser les performances des revendeurs indirects 
 
 **S’applique à**
 
 - Espace partenaires
+- Partenaires du programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur global
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Commercial
 
 Les données orientent les décisions prises au niveau de l’entreprise. Utilisez les indicateurs de performance figurant sur la page **Analyse des revendeurs** pour identifier vos réussites, les réussites de vos revendeurs indirects et les domaines qui nécessitent une attention plus particulière. Utilisez ces informations lorsque vous planifiez de nouveau objectifs d’entreprise.
 

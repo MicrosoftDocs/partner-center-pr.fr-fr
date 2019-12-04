@@ -1,7 +1,7 @@
 ---
 title: Inscrire dans le Centre des partenaires en tant que fournisseur du panneau de configuration | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment s’inscrire en tant que fournisseur du panneau de configuration (CPV) dans l’espace partenaires.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Panneau de configuration fournisseur, inscrire les applications CPV, gérer les applications CPV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253580"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722562"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Inscrire dans le Centre des partenaires en tant que fournisseur du panneau de configuration
 
 **S’applique à**
 
 - Espace partenaires
+
+**Rôles appropriés**
+
+- Administrateur global
 
 Un fournisseur du panneau de configuration (CPV) est un éditeur de logiciels indépendant qui développe des applications pour une utilisation par les partenaires du fournisseur de solutions Cloud (CSP) afin de leur permettre d’intégrer leurs systèmes aux API de l’espace partenaires. Un fournisseur du panneau de configuration n’est pas un partenaire CSP disposant d’un accès direct au tableau de bord de l’espace partenaires ou aux API de l’espace partenaires.
 

@@ -1,21 +1,29 @@
 ---
 title: Scénarios de facturation courants pour les transactions SaaS basées sur une licence | Espace partenaires
 ms.topic: article
-ms.date: 11/21/2019
-description: Scénarios courants de facturation dans l’espace partenaires pour les transactions SaaS basées sur une licence.
+ms.date: 11/25/2019
+description: En savoir plus sur les scénarios courants de facturation dans l’espace partenaires pour les transactions SaaS basées sur une licence.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: facturation, paiements, achat unique, achat périodique, abonnements, sièges
 ms.localizationpriority: medium
-ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 5d86210ce52280b73846de56dafb5909081b6524
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389607"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722520"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>Scénarios de facturation pour les transactions SaaS basées sur une licence
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administration de facturation
+- Agent du support technique
+- Commercial
+
 
 Ces exemples de [scénarios de facturation courants](common-billing-scenarios.md) sont applicables aux abonnements de Software as a service basés sur une licence (SaaS) dans l’espace partenaires.
 
@@ -37,14 +45,14 @@ Les fichiers de rapprochement comporteront les frais suivants :
 > [!TIP]
 > Vous pouvez annuler à tout moment un abonnement SaaS d’essai gratuit basé sur une licence, même pendant la période d’évaluation gratuite.
 
-Dans ce scénario, vous avez acheté un abonnement SaaS d’essai gratuit basé sur une licence le 1er juillet, puis vous l’avez annulé immédiatement dans l’espace partenaires. 
+Dans ce scénario, vous avez acheté un abonnement SaaS d’essai gratuit basé sur une licence le 1er juillet, puis vous l’avez annulé immédiatement dans l’espace partenaires.
 
 Le fichier de rapprochement inclut les frais suivants :
 
 | Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Nouveau | Évaluation gratuite |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Cancel | Évaluation gratuite |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Annuler | Évaluation gratuite |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convertir un abonnement SaaS de compteur personnalisé en une autre référence (SKU)
 

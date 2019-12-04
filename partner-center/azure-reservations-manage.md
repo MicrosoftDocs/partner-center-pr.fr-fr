@@ -10,22 +10,30 @@ ms.author: labrenne
 keywords: Azure, réservations, gérer, facturation, achat, annulation, échange, frais de résiliation précoce
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252640"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722282"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients
 
 **S’applique à**
 
--  Espace partenaires
--  Portail Microsoft Azure 
--  Partenaires fournisseurs de solutions Cloud
+- Espace partenaires
+- Portail Microsoft Azure 
+- Partenaires fournisseurs de solutions Cloud
 
-Pour gérer les réservations Azure de vos clients, vous devez sélectionner le client et la réservation que vous souhaitez gérer dans l’espace partenaires, puis apporter des modifications à la réservation dans le Portail Azure. 
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+- Agent du support technique
+- Commercial
+- Administrateur de la gestion des utilisateurs
+
+Pour gérer les réservations Azure de vos clients, vous devez sélectionner le client et la réservation que vous souhaitez gérer dans l’espace partenaires, puis apporter des modifications à la réservation dans le Portail Azure.
 
 1. Pour commencer, sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les réservations. 
 
@@ -45,8 +53,8 @@ Pour gérer les réservations Azure de vos clients, vous devez sélectionner le 
 
 Si, à tout moment, les besoins de l’entreprise d’un client changent, ils peuvent souhaiter annuler une réservation et obtenir un remboursement ou échanger le montant du remboursement calculé au prorata de la réservation à utiliser pour le prix d’une nouvelle réservation.
 
-Dans ces deux scénarios, Microsoft vous refinance le montant pour vous permettre de gérer les transactions financières résultantes avec vos clients. Microsoft ne contacte pas directement les clients sur la facturation, les annulations ou les remboursements.   
- 
+Dans ces deux scénarios, Microsoft vous refinance le montant pour vous permettre de gérer les transactions financières résultantes avec vos clients. Microsoft ne contacte pas directement les clients sur la facturation, les annulations ou les remboursements.
+
 
 **Fonctionnement des annulations**
 
@@ -57,9 +65,9 @@ Voir ci-dessous pour obtenir des détails et des frais d’annulation.
 
 |**Date d’annulation**<br> précédant   |**Syntaxe**    |**Créancière**  |**Fin précoce**<br> frais    |**Plafond de remboursement** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|au moins 5                         | Non          | 100%       | Non                              | $50 000 USD   |
-|au moins 5                         | Oui         | Pro-évalué  | Non                              | $50 000 USD   |
-|Plus de 5                        | Non          | Pro-évalué  | douze                             | $50 000 USD   |
+|au moins 5                         | non          | 100%       | non                              | $50 000 USD   |
+|au moins 5                         | Oui         | Pro-évalué  | non                              | $50 000 USD   |
+|Plus de 5                        | non          | Pro-évalué  | douze                             | $50 000 USD   |
 |Plus de 5                        | Oui         | Pro-évalué  | douze                             | $50 000 USD   |
 
 

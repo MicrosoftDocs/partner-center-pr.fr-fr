@@ -1,25 +1,35 @@
 ---
 title: Différences de facturation mensuelle et annuelle | Espace partenaires
 ms.topic: article
-ms.date: 11/21/2019
-Description: Différences entre les cycles de facturation mensuel et annuel dans l’espace partenaires.
+ms.date: 11/25/2019
+Description: En savoir plus sur les différences entre les cycles de facturation mensuel et annuel dans l’espace partenaires.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6b316f55a6d2cd84959d60feed666d657893b8
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389767"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722406"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Différences de facturation mensuelle et annuelle
 
-S’applique à :
+**S’applique à**
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administration de facturation
+- Administrateur global
+- Administrateur de primes incitatives
+- Utilisateur de primes incitatives
+- Agent du support technique
+- Commercial
 
 Cette rubrique explique les différences entre la **facturation mensuelle** et la **facturation annuelle** dans l’espace partenaires, y compris les avantages et les cas d’usage. Vous avez la possibilité de payer certains abonnements de fournisseur de solutions Cloud (CSP) sur une base mensuelle ou annuelle.
 
@@ -135,7 +145,7 @@ Le nouveau partenaire doit acheter un nouvel abonnement pour le compte du client
 
 Vous pouvez réactiver un abonnement jusqu’à 90 jours après la date de la suspension. Les frais calculés au prorata seront facturés à la date de facturation suivante. La date de renouvellement de l’abonnement reste identique.
 
-## <a name="pricing"></a>Tarifs
+## <a name="pricing"></a>Tarification
 
 ### <a name="offer-pricing"></a>Tarifs de l’offre
 
@@ -197,7 +207,7 @@ Les ID d’offre dans la matrice d’offre sont les mêmes pour toutes les fréq
 
 ### <a name="incentives-calculation"></a>Calcul des incentives
 
-Les incentives sont calculés en fonction du **chiffre d’affaires facturé**et  ***non* du revenu ajusté**. Les paiements des primes obtenues seront versés conformément à notre stratégie présentée dans nos guides des primes du programme Fournisseur de solutions Cloud.
+Les incentives sont calculés en fonction du **chiffre d’affaires facturé**et  ***non* du revenu ajusté**. Les paiements des primes obtenues seront versés conformément à notre stratégie présentée dans les guides de primes incitatives de notre programme Fournisseur de solutions Cloud.
 
 Lorsqu’un abonnement facturé annuellement est vendu, le chiffre d’affaires de cet abonnement est reconnu pour le calcul des incentives sur la base du chiffre d’affaires facturé.
 
@@ -213,7 +223,7 @@ Les partenaires gagnent des incentives sur toutes les transactions éligibles, q
 
 Pour toute question sur les incentives, contactez l’équipe de support technique régional appropriée :
 
-| Région | Adresse électronique |
+| Région | Adresse e-mail |
 | ------ | ------------- |
 | Amérique du Nord | <ocina@microsoft.com> |
 |Amérique latine & Brésil | <ocilatam@microsoft.com> |

@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384613"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722297"
 ---
 # <a name="add-a-new-customer"></a>Ajouter un client
 
 **S’applique à**
 
--  Espace partenaires
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires
+- Espace partenaires de Microsoft Cloud for US Government
+- Partenaires du programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur global
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Commercial
+
 
 Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un support à un client, vous devez les ajouter à votre liste de clients dans l’espace partenaires.
 
@@ -51,7 +60,7 @@ Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un sup
 
 7. Sélectionnez **terminé** lorsque vous avez terminé d’ajouter les informations sur le client et acheté les abonnements requis.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Articles associés
 
 - Pour plus d’informations sur ce que vous pouvez vendre aux clients par le biais du programme fournisseur de solutions Cloud [, consultez offres partenaires dans le programme fournisseur de solutions Cloud](csp-offers.md) .
 

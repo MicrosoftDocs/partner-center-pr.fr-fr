@@ -1,7 +1,7 @@
 ---
 title: Les clients délèguent les privilèges d'administration à des partenaires | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apprenez à demander aux clients de déléguer des autorisations d’administrateur à un revendeur ou de supprimer les mêmes autorisations et l’utilisation des autorisations.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: privilèges d’administrateur délégué, administrateur pour le compte de, supprimer des privilèges, DAP, ADMINISTRATE
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 545b4f8228ced951d39de0c18d354799fb7081ac
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253482"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722187"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Les clients délèguent les privilèges d'administration à des partenaires
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Commercial
 
 Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit accorder des autorisations d’administrateur pour ce service. Pour obtenir des autorisations d’administrateur de la part d’un client, envoyez-lui une demande de relation de revendeur par courrier électronique. Lorsque le client aura approuvé votre demande, vous serez en mesure d’ouvrir une session sur le portail d’administration du service et de gérer le service pour le compte du client. 
 
@@ -44,7 +49,7 @@ Pour gérer le service ou l'abonnement au nom d’un client, ce dernier doit acc
 >[!IMPORTANT]  
 >Les clients peuvent réaffecter ou supprimer des autorisations d’administrateur dans le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, contactez le support technique de Microsoft pour ouvrir une demande de service pour le compte du client.
 
-Vos clients peuvent identifier les partenaires qui disposent de privilèges d’administrateur sur leur locataire à partir du portail d’administration Office 365. Pour ce faire :
+Vos clients peuvent identifier les partenaires qui disposent de privilèges d’administrateur sur leur locataire à partir du portail d’administration Office 365. Pour cela, procédez comme suit :
 
 1. Le client doit se connecter au portail d’administration Office 365 en tant qu’administrateur général.
 

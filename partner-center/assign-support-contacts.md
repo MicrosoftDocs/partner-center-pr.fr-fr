@@ -1,7 +1,7 @@
 ---
 title: Assigner des contacts de support | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment affecter un revendeur en tant que contact du support technique pour les clients disposant d’abonnements aux services Microsoft.
@@ -11,18 +11,26 @@ ms.author: labrenne
 keywords: agent d’aide, support, affecter un contact de support, contact chargé du support
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253338"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722401"
 ---
 # <a name="assign-support-contacts"></a>Assigner des contacts de support
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+- Agent du support technique
+- Commercial
+- Administrateur de la gestion des utilisateurs
 
 Lorsque vous configurez des abonnements aux services Microsoft pour vos clients, vous pouvez souhaiter assigner le support technique de ces produits à un revendeur désigné, plutôt que d'assurer vous-même ce service.
 
@@ -39,7 +47,7 @@ Cette fonction peut être utilisée pour des scénarios de type [multipartenaire
 
 3.  Dans **Contact de support désigné**, sélectionnez le revendeur produit désigné, puis cliquez sur **Soumettre**. 
 
-    Remarques : 
+    Remarques : 
     
     *  Pour les nouveaux abonnements, le contact de support désigné est par défaut le fournisseur indirect. Vous pouvez également le remplacer par un revendeur indirect disposant de privilèges d’administration de délégation.
     

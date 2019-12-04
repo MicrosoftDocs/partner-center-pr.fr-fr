@@ -1,7 +1,7 @@
 ---
 title: Programme du fournisseur de services gérés Azure expert | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment demander le programme du fournisseur de services gérés Azure expert, Azure expert MSP.
@@ -10,15 +10,25 @@ ms.author: labrenne
 Keywords: Azure Sales, programmes experts, programmes partenaires
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c53b864fd57d9fb5db33023e5d9c614b2b9c9ee
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 36ff03cd88ee2637daa8e836f797914a42e96878
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253028"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722331"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programme du fournisseur de services gérés Azure expert
 
+**S’applique à**
+
+- Partenaires MPN
+
+**Rôles appropriés**
+
+- Administrateur des comptes
+- Administrateur de profils métier
+- Administrateur global
+- Administrateur partenaire MPN
 
 Si votre entreprise est un vedette de la vente et de la gestion des services Azure pour les clients, examinez le programme du fournisseur de services gérés des experts Azure. Les partenaires Azure expert MSP obtiennent un badge exclusif les différenciant des autres partenaires Microsoft et bénéficient d’une priorité supérieure dans le moteur de référence, ils sont classés par ordre de priorité pour les contrats de covente, le support technique pour le développement de nouvelles pratiques et l’assistance événements exclusifs.
 

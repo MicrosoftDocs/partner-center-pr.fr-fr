@@ -1,25 +1,29 @@
 ---
 title: S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis | Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Avant de vous inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 504bafa0bbdb93d8414d3af8f3ebd6679b3dc194
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 13ec7eddd2fef9be9f120729b54e6f9e2cf58f9b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252218"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722576"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
 
 **S’applique à**
 
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires de Microsoft Cloud for US Government
+
+**Rôles appropriés**
+
+- Administrateur global
 
 Les partenaires Microsoft peuvent désormais vendre les solutions cloud de Microsoft aux entités fédérales, étatiques, locales et tribales des États-Unis via le programme Fournisseur de solutions Cloud concernant Microsoft Cloud pour le gouvernement des États-Unis. 
 

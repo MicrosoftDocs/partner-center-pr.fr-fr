@@ -1,7 +1,7 @@
 ---
 title: Acheter des réservations Microsoft Azure pour vos clients | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
@@ -10,20 +10,28 @@ ms.author: labrenne
 keywords: azure, réservations, gérer, facturation, achat
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253240"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722004"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires 
 
 **S’applique à**
 
--  Espace partenaires
--  Portail Microsoft Azure
--  Partenaires fournisseurs de solutions Cloud
+- Espace partenaires
+- Portail Microsoft Azure
+- Partenaires fournisseurs de solutions Cloud
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+- Agent du support technique
+- Commercial
+- Administrateur de la gestion des utilisateurs
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
@@ -31,19 +39,19 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 
 - Si et quand votre client signe le nouveau contrat de client Microsoft, [confirmez l’acceptation du client du contrat de client Microsoft](confirm-customer-agreement.md), vous devez acheter des réservations Azure dans le cadre du plan Azure. Pour plus d’informations, consultez l' [achat d’un plan Azure](purchase-azure-plan.md).
 
--   Les clients doivent d'ores et déjà disposer d'un abonnement Azure actif avant que vous ne puissiez acheter des réservations en leur nom
+- Les clients doivent d'ores et déjà disposer d'un abonnement Azure actif avant que vous ne puissiez acheter des réservations en leur nom
   
--   Les coûts liés aux abonnements logiciels tels que les SQL Database ou les logiciels SUSE Linux ne sont pas inclus dans les prix de réservation Azure
+- Les coûts liés aux abonnements logiciels tels que les SQL Database ou les logiciels SUSE Linux ne sont pas inclus dans les prix de réservation Azure
 
--   La tarification commerciale de Microsoft n’inclut pas les taxes, sauf si votre lieu est le Brésil. Si votre lieu est le Brésil, le prix commercial pour vous comprend les taxes appropriées 
- 
--   Les agents commerciaux et du bureau d'assistance ont besoin d'un accès explicite à l'abonnement Azure afin de pouvoir l'acheter ou le gérer dans le portail Azure et soumettre des demandes de support, y compris en vue d'échanges et de remboursements, au nom du client.  
+- La tarification commerciale de Microsoft n’inclut pas les taxes, sauf si votre lieu est le Brésil. Si votre lieu est le Brésil, le prix commercial pour vous comprend les taxes appropriées
 
--   Si vous êtes un fournisseur indirect et que vous achetez des réservations Azure via la Portail Azure, le partenaire sur l’enregistrement (revendeur indirect) est hérité de l’abonnement Azure CSP que vous sélectionnez. 
+- Les agents commerciaux et du bureau d'assistance ont besoin d'un accès explicite à l'abonnement Azure afin de pouvoir l'acheter ou le gérer dans le portail Azure et soumettre des demandes de support, y compris en vue d'échanges et de remboursements, au nom du client.  
 
--   Le partenaire d’enregistrement pour les réservations Azure ne peut pas être modifié après l’achat. Vous pouvez annuler la réservation existante et en acheter une nouvelle avec le nouveau « Partner On Record ». 
+- Si vous êtes un fournisseur indirect et que vous achetez des réservations Azure via la Portail Azure, le partenaire sur l’enregistrement (revendeur indirect) est hérité de l’abonnement Azure CSP que vous sélectionnez.
 
--   Si un client souhaite transférer un abonnement Azure depuis Direct ou EA à Fournisseur de solutions Cloud, les réservations ne sont pas transférées. 
+- Le partenaire d’enregistrement pour les réservations Azure ne peut pas être modifié après l’achat. Vous pouvez annuler la réservation existante et en acheter une nouvelle avec le nouveau « Partner On Record ».
+
+- Si un client souhaite transférer un abonnement Azure depuis Direct ou EA à Fournisseur de solutions Cloud, les réservations ne sont pas transférées.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Marchés Azure indisponibles
 
@@ -75,7 +83,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | Christmas (île)     | Maldives     | Sainte-Hélène, ascension, Tristan da Cunha     |
 > | Cocos-Keeling (îles)     | Mali     | Surinam     |
 > | Comores (Les)     | Marshall (îles)     | Svalbard     |
-> | Congo     | Martinique     | Swaziland     |
+> | République démocratique du Congo     | Martinique     | Swaziland     |
 > | Congo (RDC)     | Mauritanie     | Timor-Leste   |
 > | Cook (îles)     | Mayotte     | Togo   |
 > | Djibouti     | Micronésie     | Tokelau   |
@@ -84,7 +92,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | Érythrée     | Myanmar     | Tuvalu   |
 > | Malouines (îles)     | Nauru     | Îles mineures éloignées des États-Unis   |
 > | Guyane française     | Nouvelle-Calédonie     | Vanuatu   |
-> | Polynésie française     | Niger     | État de la Cité du Vatican   |
+> | Polynésie française     | Niger     | Cité du Vatican   |
 > | Terres australes françaises     | Niue     | Wallis-et-Futuna   |
 > | Gabon     | Norfolk (île)     | Yémen   |
 > | Gambie     | Mariannes du Nord (îles)     |    |

@@ -1,7 +1,7 @@
 ---
 title: Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Utilisez ces instructions pour consolider des locataires de différents pays/régions. Cela comprend les étapes de migration des comptes client et des abonnements client.
@@ -11,20 +11,24 @@ ms.author: evansma
 keywords: migration des clients, approvisionnement, compte client, consolider des locataires
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253602"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722180"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud
 
 **S’applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
+**Rôles appropriés**
+
+- Administrateur global
+- Agent d’administration
 
 \[certaines informations se rattachent à un produit en version préliminaire qui peut être considérablement modifié avant sa publication commerciale. Microsoft exclut toute garantie, expresse ou implicite, en ce qui concerne les informations fournies ici.\]
 

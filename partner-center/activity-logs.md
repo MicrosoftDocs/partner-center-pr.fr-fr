@@ -10,20 +10,29 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: journaux d’activité, abonnement, abonnements, paiements, facturation, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252707"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721790"
 ---
 # <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
 **S’applique à**
 
--  Espace partenaires
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires
+- Espace partenaires de Microsoft Cloud for US Government
+- Partenaires du programme Fournisseur de solutions Cloud
 
+**Rôles appropriés**
+
+- Administrateur global
+- Administration de facturation
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Commercial
+- Agent du support technique
 
 Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients. Les journaux de transaction fournissent des informations détaillées sur la transaction, y compris les abonnements achetés. Vous pouvez également exporter les journaux d’activité dans un fichier CSV (Comma-Separated Value) compatible avec Excel.
 
@@ -31,7 +40,9 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
 **Voir et exporter les journaux d’activité**
 
-1.  Dans le menu **Paramètres du compte**, sélectionnez **Journal d’activité**.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+
+2. Dans le menu **Paramètres du compte**, sélectionnez **Journal d’activité**.
 2.  Sélectionnez la période du journal d’activité avec les champs **De** et **À**. Par défaut, le journal d’activité exporte le mois le plus récent.
 
     Chaque journal d’activité fournit un lien vers la page **Abonnements** du client répertorié.

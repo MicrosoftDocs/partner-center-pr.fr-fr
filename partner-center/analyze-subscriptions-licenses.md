@@ -11,18 +11,26 @@ ms.topic: article
 keywords: données d'entreprise
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253371"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722372"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analyser les abonnements et les licences 
 
 **S’applique à**
 
 - Espace partenaires
+- Partenaires du programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur global
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Commercial
 
 Les données orientent les décisions prises au niveau de l’entreprise. Utilisez les indicateurs de performance figurant sur la page **Analyse des abonnements et des licences** pour identifier vos réussites et les domaines qui nécessitent une attention plus particulière. Utilisez ces informations lorsque vous planifiez de nouveau objectifs d’entreprise.
 

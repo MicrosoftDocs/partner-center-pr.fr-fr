@@ -1,7 +1,7 @@
 ---
 title: Créer, suspendre ou annuler des abonnements client | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment vendre vos abonnements clients à des produits dans le catalogue après avoir créé un enregistrement de client dans l’espace partenaires.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: abonnement, créer nouveau, ajouter un abonnement, suspendre, annuler, suspendre, suspendre, SaaS, licence, ISV, tiers
 ms.localizationpriority: medium
-ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253460"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721723"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -27,8 +27,11 @@ ms.locfileid: "74253460"
 
 **Rôles appropriés**
 
-- Administrateur global
 - Agent d’administration
+- Administration de facturation
+- Administrateur global
+- Agent du support technique
+- Commercial
 
 Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue. Cela comprend les produits publiés par Microsoft, ainsi que les produits SaaS (Software as a service) publiés par des éditeurs de logiciels indépendants tiers sur la place de [marché commerciale](https://azuremarketplace.microsoft.com/marketplace). 
 
@@ -149,7 +152,7 @@ Pour arrêter le renouvellement automatique d’un abonnement au marché commerc
 
 6. Sélectionnez **Envoyer**.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Articles associés
 
 - [Acheter des produits de la place de marché commercial pour vos clients](csp-commercial-marketplace-purchase.md)
 - [Gérer les produits de la place de marché commerciale pour vos clients](csp-commercial-marketplace-manage.md)

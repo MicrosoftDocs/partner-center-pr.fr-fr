@@ -1,7 +1,7 @@
 ---
 title: Faire remonter des problèmes à Microsoft | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les problèmes que les partenaires Microsoft sont censés résoudre eux-mêmes pour leurs clients et les problèmes qu’ils peuvent avoir à faire remonter à Microsoft.
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252570"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722237"
 ---
-# <a name="escalate-problems-to-microsoft"></a>Faire remonter les problèmes à Microsoft
+# <a name="escalate-problems-to-microsoft"></a>Faire remonter des problèmes à Microsoft
 
 **S’applique à**
 
--  Espace partenaires
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires
+- Espace partenaires de Microsoft Cloud for US Government
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+- Commercial
+- Agent du support technique
 
 Vous devez normalement résoudre les problèmes pour le compte de vos clients. Dans un premier temps, vous devez [vérifier l’état du service](check-service-health.md), et rechercher des problèmes connus et documentés. Si ces mesures ne permettent pas de trouver une solution au problème du client, vous pouvez utiliser vos privilèges d’administration pour résoudre les problèmes de logiciel, de paramètres et de configuration.
 

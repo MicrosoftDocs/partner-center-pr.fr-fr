@@ -1,7 +1,7 @@
 ---
 title: Abonnements client | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent vendre des abonnements aux clients et les gérer via l’espace partenaires.
@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: abonnements, attribuer une licence, licence, satisfaction client, abonnements Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253499"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722553"
 ---
 # <a name="customer-subscriptions"></a>Abonnements client
 
 **S’applique à**
 
 -  Espace partenaires
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+- Agent du support technique
+- Commercial
 
 En tant que partenaire Fournisseur de solutions Cloud, l’une de vos activités principales consiste à proposer à vos clients des abonnements aux produits Microsoft. Dans l’espace partenaires, vous pouvez gérer tous vos abonnements pour chaque client. Vous pouvez ajouter des abonnements, ajouter des licences à des abonnements existants, et même proposer des abonnements d’essai aux clients qui souhaitent tester le logiciel. En outre, vous pouvez afficher des analytiques pour comprendre comment vos clients utilisent le logiciel, ce qui vous permet de bénéficier d’une meilleure prise en charge.
 

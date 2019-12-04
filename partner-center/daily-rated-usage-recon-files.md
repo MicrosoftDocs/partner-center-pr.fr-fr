@@ -1,31 +1,38 @@
 ---
 title: Fichiers de rapprochement d’utilisation évalués quotidiennement | Espace partenaires
 ms.topic: article
-ms.date: 11/21/2019
-description: Comprendre les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires.
+ms.date: 11/27/2019
+description: Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 896f81b3a51e234065af7779d287b4023dd7163c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389697"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721862"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>Fichiers de rapprochement d’utilisation évalués quotidiennement
 
-S’applique à :
+**S’applique à**
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administration de facturation
+- Commercial
+- Agent du support technique
 
 Cette rubrique explique comment lire les fichiers de réconciliation d’utilisation évalués quotidiennement.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Champs dans les fichiers de rapprochement d’utilisation évalués quotidiennement
 
-| colonne | Description |
+| Colonne | Description |
 | ------ | ----------- |
 | PartnerId | Identificateur de partenaire au format GUID. |
 | PartnerName | Nom du partenaire. |

@@ -1,19 +1,19 @@
 ---
 title: Analyser votre profil d’entreprise | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser la page Insights Business Profile pour voir à quel degré vous souhaitez attirer l’attention de vos clients cibles et générer des références.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253128"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722359"
 ---
 # <a name="analyze-your-business-profile"></a>Analyser votre profil d’entreprise
 <!-- 
@@ -23,6 +23,17 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **S’applique à**
 
 - Espace partenaires
+- Partenaires Microsoft Partner Network
+- Partenaires du programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur global
+- Administrateur partenaire MPN
+- Administrateur des références
+- Administrateur de profils métier
+- Agent d’administration
+- Commercial
 
 La page **Insights Business Profile** de l’espace partenaires vous permet de voir à quel degré vous souhaitez attirer l’attention de vos clients cibles et générer des références.
 

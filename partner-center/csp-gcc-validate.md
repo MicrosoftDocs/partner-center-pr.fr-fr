@@ -1,19 +1,19 @@
 ---
 title: Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les étapes pour les partenaires directs (revendeurs directs, fournisseurs indirects) pour valider les partenaires et les clients d’Office 365 Government GCC pour CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253524"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721939"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud
 
@@ -22,8 +22,14 @@ ms.locfileid: "74253524"
 -  Espace partenaires
 -  Partenaires fournisseurs de solutions Cloud
 
+**Rôles appropriés**
+
+- Administrateur global
+- Agent d’administration
+- Commercial
+
 >[!NOTE]
->Le processus de validation et les critères indiqués ci-dessous sont spécifiques aux partenaires associés à une facturation directe. Les partenaires associés à une facturation directe comprennent les revendeurs directs et les fournisseurs indirects.  Si vous êtes revendeur indirect, travaillez en collaboration avec votre fournisseur indirect. 
+>Le processus de validation et les critères indiqués ci-dessous sont spécifiques aux partenaires associés à une facturation directe. Les partenaires associés à une facturation directe comprennent les revendeurs directs et les fournisseurs indirects.  Si vous êtes revendeur indirect, travaillez en collaboration avec votre fournisseur indirect.
 
 Si vous souhaitez que votre organisation ou l'organisation de vos clients soit autorisée pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud, consultez les conditions ci-dessous.
 
@@ -42,7 +48,7 @@ L'éligibilité des partenaires et des clients pour Office 365 Secteur Public G
 2.  Fournit les organisations gouvernementales des États-Unis via la GSA ou d'autres modes de gestion de contrat
 
 **Critères du client**
-1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Par exemple :
+1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Exemple :
  
     -  Agence fédérale (par exemple, bureau, agence, service ou autres entités du gouvernement américain)
     -   Entité nationale/locale 

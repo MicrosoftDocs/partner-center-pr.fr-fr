@@ -1,7 +1,7 @@
 ---
 title: Notification de l’espace partenaires pour l’activité crypto-Mining | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez ce que cela signifie quand vous voyez une notification sur l’crypto-monnaies d’exploration de données potentiel (ou l’exploration de données de chiffrement) sur un ou plusieurs de vos abonnements Azure.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Crypto-Mining, crypto-monnaies Mining, sécurité
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 52a6597c9636335cae5218b5a3dbecf0b54e1ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252720"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722307"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notification de l’espace partenaires pour l’activité d’exploration de données crypto-monnaies
 

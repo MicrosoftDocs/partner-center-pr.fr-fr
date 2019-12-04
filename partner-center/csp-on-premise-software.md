@@ -1,7 +1,7 @@
 ---
 title: Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
@@ -10,16 +10,21 @@ ms.author: evansma
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4993ebbb38ad4e04a65004ba6542701c525790ae
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0eb888ac225ebad1a66abd415c5572dac8b4a43e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253540"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721327"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud
 
-Le logiciel local dans le programme fournisseur de solutions Cloud permet une transition en douceur vers le Cloud en introduisant un logiciel local dans un programme axé sur le Cloud.  Cette nouvelle offre permet d'associer un partenaire à valeur ajoutée à chaque scénario d’achat, car elle présente une plate-forme unique sur laquelle proposer tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation. Le logiciel sur site dans CSP est un nouveau programme de vente et n’est pas destiné à remplacer les autres programmes de licence en volume de Microsoft. 
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+
+Le logiciel local dans le programme fournisseur de solutions Cloud permet une transition en douceur vers le Cloud en introduisant un logiciel local dans un programme axé sur le Cloud.  Cette nouvelle offre permet de faire passer le partenaire à valeur ajoutée à chaque scénario d’achat, car il fournit une plate-forme unique pour tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation. Le logiciel sur site dans CSP est un nouveau programme de vente et n’est pas destiné à remplacer les autres programmes de licence en volume de Microsoft. 
  
 Tout en garantissant la meilleure valeur globale du client avec les options de licence logicielle sur site, nous avons également rendu le modèle d’entreprise aussi convivial que possible. La gestion simple et directe des licences des logiciels locaux dans le programme fournisseur de solutions Cloud implique une prévisibilité des coûts et facilite votre processus de vente. Ce nouveau modèle commercial facilite la fourniture, la gestion et la tarification des logiciels locaux pour vos clients, ce qui vous permet de vous concentrer sur l'obtention de contrats avec une gamme étendue de solutions de gestion informatique à valeur ajoutée. 
 

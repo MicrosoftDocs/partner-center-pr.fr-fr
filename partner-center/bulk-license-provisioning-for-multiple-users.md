@@ -1,7 +1,7 @@
 ---
 title: Attribuer ou révoquer des licences pour plusieurs utilisateurs | Espace partenaires
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser un compte client pour affecter ou révoquer des licences et des services à un seul utilisateur ou à plusieurs utilisateurs à la fois.
@@ -10,18 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: attribuer une licence, révoquer une licence, attribuer à plusieurs utilisateurs,
 ms.localizationpriority: medium
-ms.openlocfilehash: c5846a0d12331bdb1aec26bd6289ac0e11896584
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253038"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722197"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+- Agent du support technique
+- Commercial
+- Administrateur de la gestion des utilisateurs
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
@@ -30,20 +38,23 @@ l’espace partenaires suit et affiche tous les droits de licence détenus par l
 ## <a name="in-this-section"></a>Dans cette section
 
 
--   [Attribuer des licences à plusieurs utilisateurs](#assign-licenses-to-groups)
--   [Révocation des attributions de licences des utilisateurs](#revoking-licenses)
+- [Attribuer des licences à plusieurs utilisateurs](#assign-licenses-to-groups)
+- [Révocation des attributions de licences des utilisateurs](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
 **attribuer des licences à plusieurs utilisateurs**
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
-2.  Sélectionnez **Utilisateurs et licences**.
-3.  Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
+1. Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
+
+2. Sélectionnez **Utilisateurs et licences**.
+
+3. Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 
     Vous pouvez rechercher et sélectionner des utilisateurs dans plusieurs pages à l’aide des outils **Premier**, **Précédent**, **Suivant** et **Dernier**.
 
-4.  Cliquez sur le lien **Utilisateurs sélectionnés**. La liste répertorie les utilisateurs sélectionnés.
-5.  Cliquez sur le lien **Gérer les licences**.
+4. Cliquez sur le lien **Utilisateurs sélectionnés**. La liste répertorie les utilisateurs sélectionnés.
+
+5. Cliquez sur le lien **Gérer les licences**.
 
     La page Gérer les licences affiche la liste des droits de licence des comptes client, ainsi que le nombre de **licences disponibles** pour chaque produit.
 
@@ -59,37 +70,34 @@ l’espace partenaires suit et affiche tous les droits de licence détenus par l
     -   Un produit sans licence disponible affiche un lien **Acheter davantage**. Vous pouvez acheter des licences supplémentaires lorsque les clients en ont besoin.
 
 6.  Sous **Attribuer et révoquer des licences**, sélectionnez les licences de produit pour les nouveaux utilisateurs. Par exemple, si aucun des utilisateurs sélectionnés n’a de licences Office&nbsp;365 Entreprise et que vous voulez en ajouter, activez la case à cocher. Vous avez besoin de suffisamment de licences pour chaque produit sélectionné.
-7.  Sélectionnez plusieurs produits pour les utilisateurs en activant la case à cocher de chaque produit.
+
+7. Sélectionnez plusieurs produits pour les utilisateurs en activant la case à cocher de chaque produit.
     -   Sélectionnez **Afficher les plans de services** pour un produit, afin d’afficher et de sélectionner les plans de services dont les utilisateurs ont besoin.
 
-8.  Sélectionnez **Enregistrer**. L’espace partenaires ouvre une page de confirmation des **licences mises à jour** qui répertorie les utilisateurs et leurs nouvelles licences.
+8. Sélectionnez **Enregistrer**. L’espace partenaires ouvre une page de confirmation des **licences mises à jour** qui répertorie les utilisateurs et leurs nouvelles licences.
 
 **Notez**  certains produits Microsoft peuvent ne pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
 
- 
 
 <a href="" id="revoking-licenses"></a>
 de la **révocation des attributions de licences des utilisateurs**
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
-2.  Sélectionnez **Utilisateurs et licences**.
-3.  Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
+1. Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
+
+2. Sélectionnez **Utilisateurs et licences**.
+
+3. Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 
     Utilisez les outils **Premier**, **Précédent**, **Suivant** et **Dernier** pour trouver et sélectionner d’autres utilisateurs. Vous pouvez effectuer des sélections sur plusieurs pages.
 
-4.  Après avoir sélectionné les utilisateurs, cliquez sur le lien **Utilisateurs sélectionnés**. La liste ne répertorie que les utilisateurs sélectionnés.
-5.  Cliquez sur le lien **Gérer les licences**.
-6.  Sous **Attribuer et révoquer des licences**, désactivez les cases à cocher des produits attribués aux utilisateurs. Par exemple, si tous les utilisateurs sélectionnés ont des licences Office&nbsp;365 Entreprise et que vous voulez les révoquer, activez la case à cocher.
-7.  Sélectionnez **Enregistrer**.
+4. Après avoir sélectionné les utilisateurs, cliquez sur le lien **Utilisateurs sélectionnés**. La liste ne répertorie que les utilisateurs sélectionnés.
+
+5. Cliquez sur le lien **Gérer les licences**.
+
+6. Sous **Attribuer et révoquer des licences**, désactivez les cases à cocher des produits attribués aux utilisateurs. Par exemple, si tous les utilisateurs sélectionnés ont des licences Office&nbsp;365 Entreprise et que vous voulez les révoquer, activez la case à cocher.
+
+7. Sélectionnez **Enregistrer**.
 
 ## <a name="related-topics"></a>Rubriques connexes
 
-
 [Attribuer des licences à un utilisateur](assign-licenses-to-users.md)
-
- 
-
- 
-
-
-

@@ -9,16 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253161"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722323"
 ---
 # <a name="the-account-structure-in-partner-center"></a>Structure de compte dans l’espace partenaires
 
-Votre entreprise dispose de deux niveaux de comptes dans l’espace partenaires. 
+**S’applique à**
+
+- Espace partenaires
+- Partenaires MPN
+
+**Rôles appropriés**
+
+- Administrateur des comptes
+- Administrateur de profils métier
+- Administrateur global
+- Administrateur partenaire MPN
+
+Votre entreprise dispose de deux niveaux de comptes dans l’espace partenaires.
 
 ### <a name="the-top-level-is-the-primary-global-account-pga"></a>Le niveau supérieur est le compte global principal (PGA).
 

@@ -1,7 +1,7 @@
 ---
 title: Personnaliser l’expérience utilisateur prête à l’emploi d’un appareil avec les profils Windows AutoPilot | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment personnaliser ou préconfigurer une nouvelle expérience d’appareil prête à l’emploi avec des profils AutoPilot avant de livrer l’appareil au client.
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows AutoPilot, Microsoft AutoPilot, déploiement Zero Touch, OOBE, écrans de connexion, prêts à l’emploi
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253332"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721426"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personnaliser l’expérience utilisateur prête à l’emploi d’un appareil avec les profils Windows AutoPilot
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personnaliser l’expérience out-of-Box pour un appareil avec des profils Windows AutoPilot
 
 **S’applique à**
 
 - Fournisseurs de services de chiffrement direct-partenaires, fournisseurs indirects et revendeurs indirects
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+- Commercial
+- Administrateur de la gestion des utilisateurs
 
 Si vous gérez des appareils clients, vous devrez peut-être personnaliser l’OOBE (out-of-Box Experience) pour les utilisateurs du client. Vous pouvez préconfigurer de nouveaux appareils avec des profils Windows AutoPilot avant de transmettre les appareils aux clients et appliquer de nouveaux profils aux appareils que les clients ont déjà achetés. 
 
@@ -33,7 +40,7 @@ Si vous n’êtes pas déjà familiarisé avec AutoPilot, passez en revue les in
 - [Vue d’ensemble de Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guide de référence du déploiement AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Présentation
+## <a name="overview"></a>Vue d'ensemble
 
 Avec la fonctionnalité Windows AutoPilot de l’espace partenaires, vous pouvez créer des profils personnalisés à appliquer aux appareils clients. Les paramètres de profil suivants étaient disponibles au moment de la publication de cet article :
 

@@ -1,7 +1,7 @@
 ---
 title: Données et analyse dans l’Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser Analytics dans l’espace partenaires pour mieux comprendre votre activité et comment vos clients utilisent les licences que vous avez achetées.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: données, analyse, analyse des données, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384844"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722568"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Obtenir des données et analyser votre activité
 
@@ -26,7 +26,7 @@ ms.locfileid: "74384844"
 
 **Rôle approprié**
 
-- Administrateur partenaire MPN
+- Administrateur de partenaire MPN
 
 Vous devez comprendre comment vos clients utilisent leurs produits Microsoft afin de planifier des moyens de développer votre activité de fournisseur de solutions Cloud. Vous disposez de plusieurs options de collecte des données dans l’Espace partenaires. Vous pouvez collecter des données sur votre activité et sur la façon dont vos clients utilisent les licences qu'ils ont achetées. Si vous êtes dans le modèle direct de fournisseur de solutions Cloud, vous avez la possibilité d’installer et d’utiliser l’application Analyse de l'Espace partenaires pour Power BI pour collecter des données supplémentaires.
 
