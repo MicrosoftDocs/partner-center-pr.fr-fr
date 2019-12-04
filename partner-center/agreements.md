@@ -9,18 +9,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: contrats Microsoft Cloud, modèles de contrat client, contrats client CSP, Contrat Microsoft Cloud, MCA, CSP, où puis-je vendre par le biais du programme CSP ?, pays et régions du programme CSP, MCA de CSP dans plusieurs langues, CSP Amérique du Nord, CSP Amérique centrale, CSP Amérique du Sud, CSP Antilles, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Allemagne, CSP Moyen-Orient, CSP Afrique, CSP Europe, CSP Asie, CSP Pacifique, MCA CSP
 ms.localizationpriority: high
-ms.openlocfilehash: 0fdeb1d117dd65c85d115054d547aebe065b17ec
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253171"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722421"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contrats Microsoft Cloud par région et langue
 
 **S’applique à**
 
-- Partenaires fournisseurs de solutions cloud
+- Partenaires du programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur global
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Commercial
+- Agent du support technique
 
 Pour que vous puissiez passer une commande pour le compte d’un client, celui-ci doit accepter et signer le contrat Microsoft Cloud.
 

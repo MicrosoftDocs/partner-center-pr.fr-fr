@@ -1,7 +1,7 @@
 ---
 title: Consolider vos comptes d’entreprise | Espace partenaires
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez le regroupement de comptes PMC (Partner Membership Center) en un seul compte dans l’Espace partenaires. C’est au cours de cette procédure que vous migrez de PMC vers l’Espace partenaires.
@@ -10,14 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252071"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721379"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolider vos comptes d’entreprise
+
+**Rôles appropriés**
+
+- Administrateur partenaire MPN
+- Administrateur des comptes
 
 Dans PMC, votre entreprise avait peut-être un grand nombre de comptes et d’emplacements. Chaque emplacement avait son propre compte. Lorsque vous migrez vers l’Espace partenaires, tous les comptes et emplacements sont consolidés en un compte global principal avec plusieurs emplacements. Vos ID, avantages, compétences et achats MPN font eux aussi l’objet d’une migration, sans aucune perte de données. 
 

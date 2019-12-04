@@ -1,7 +1,7 @@
 ---
 title: Offres pour les partenaires du programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les offres disponibles pour les partenaires qui vendent via le programme Fournisseur de solutions Cloud.
@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions cloud, services basés sur le cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions cloud, vendre dans le programme Fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements client
 ms.localizationpriority: high
-ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252908"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722537"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offres pour les partenaires du programme Fournisseur de solutions Cloud 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offres pour les partenaires du programme Fournisseur de solutions Cloud
 
 **S’applique à**
 
--  Partenaires fournisseurs de solutions cloud
+- Partenaires fournisseurs de solutions cloud
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur global
+- Commercial
 
 Les partenaires Microsoft du programme Fournisseur de solutions Cloud (CSP) ont un catalogue croissant d’offres à leur disposition. Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), ainsi que diverses autres offres qui changent fréquemment. Pour vérifier les offres disponibles pour le mois en cours dans le cadre du programme Fournisseur de solutions Cloud, connectez-vous à l’Espace partenaires et accédez à la page [**Prix et offres**](https://partnercenter.microsoft.com/pcv/sales).  
 

@@ -1,7 +1,7 @@
 ---
 title: Transition des clients vers le plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment faire passer facilement vos clients au plan Azure.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0420966e13f0ee7151dd9474d597b8253a1ecfff
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253271"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722288"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Faire passer vos clients au plan Azure
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administration de facturation
+- Administrateur global
+- Agent du support technique
+- Commercial
+- Administrateur de la gestion des utilisateurs
 
 Les fournisseurs indirects et les partenaires de facturation directe peuvent passer à la nouvelle expérience de commerce disponible dans le programme CSP pour Azure. (Les revendeurs indirects devront utiliser leurs fournisseurs indirects.) Les clients pourront acheter des services cloud de façon simplifiée, que ce soit auprès de partenaires, de vendeurs Microsoft ou directement sur le Web.
 

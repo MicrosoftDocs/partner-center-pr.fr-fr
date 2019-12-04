@@ -1,7 +1,7 @@
 ---
 title: Guide de migration de PMC vers l’Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment migrer votre société depuis Partner Membership Center (PMC) vers l’Espace partenaires.
@@ -9,14 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: high
-ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252212"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721876"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’Espace partenaires
+
+**Rôles appropriés**
+
+- Administrateur global
 
 Le site web des partenaires Microsoft à l’adresse partner.microsoft.com propose une expérience numérique unifiée pour les partenaires. Ce site web vous permet d’explorer vos opportunités et de participer à des expériences guidées pour aider votre entreprise à créer et à vendre des applications et services avec Microsoft. À l’aide du lien Tableau de bord disponible sur le site web des partenaires, les membres du Microsoft Partner Network peuvent se connecter à l’Espace partenaires pour gérer leur relation avec Microsoft, participer à des programmes et s’inscrire à des offres. 
 

@@ -1,7 +1,7 @@
 ---
 title: Créer un profil métier | Espace partenaires
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment obtenir des prospects auprès de Microsoft. Une étape clé consiste à créer dans l’Espace partenaires un profil métier qui permet aux clients de vous trouver.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, références, prospects, C2PC, profil d’entreprise, promouvoir votre entreprise, trouver un partenaire, trouver un fournisseur de solutions, profil métier, profil commercial
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252660"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722532"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **S’applique à**
 
--  Espace partenaires
--  Partenaires Microsoft Partner Network
--  Partenaires du programme Fournisseur de solutions Cloud
+- Espace partenaires
+- Partenaires Microsoft Partner Network
+- Partenaires du programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur des comptes
+- Administrateur de profils métier
+- Administrateur global
+- Administrateur des références
 
 En tant que partenaire Microsoft qualifié, vous pouvez créer un profil métier pour présenter votre activité aux clients qui recherchent vos solutions et votre expertise uniques afin de répondre à leurs besoins métier.
 

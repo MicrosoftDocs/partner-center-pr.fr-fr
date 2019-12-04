@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, avantages en tant que membre, adhésion, membre
 ms.localizationpriority: high
-ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096472"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681948"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer vos avantages en tant que membre du Microsoft Partner Network
 
@@ -101,8 +101,7 @@ Pour afficher et gérer tous vos avantages en tant que membre, accédez à votre
     
     c.  Une fois que vous avez entré l’autre adresse e-mail, sélectionnez **Affecter un utilisateur**. 
 
-4. Vous pouvez utiliser votre avantage en matière d’assistance technique de prévente ou d’heures de conseil partenaire pour demander une assistance technique pendant les phases de prévente, de conception, de déploiement et de développement d’applications de vos solutions cloud et hybrides. Pour demander une assistance, remplissez le [formulaire de demande](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-), puis sélectionnez **Envoyer une demande**.
+4. Vous pouvez utiliser votre avantage en matière d’assistance technique de prévente ou d’heures de conseil partenaire pour demander une assistance technique pendant les phases de prévente, de conception, de déploiement et de développement d’applications de vos solutions cloud et hybrides. Pour demander une assistance, remplissez le [formulaire de demande](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest), puis sélectionnez **Envoyer une demande**.
 
 #### <a name="manage-go-to-market-benefits"></a>Gérer les avantages de la mise sur le marché
 

@@ -1,7 +1,7 @@
 ---
 title: Créer des comptes d’utilisateur et définir des autorisations | Espace partenaires
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment créer des comptes d’utilisateur et attribuer des rôles dans l’Espace partenaires pour chaque employé qui a besoin d’un accès. Les utilisateurs disposant de privilèges d’administrateur différents peuvent le faire.
@@ -10,16 +10,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: rôles, autorisations, ajouter un utilisateur, attribuer un rôle, administrateur, admin, agent
 ms.localizationpriority: high
-ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252093"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722454"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
-Créez des comptes d’utilisateur pour les employés qui doivent accéder à l’Espace partenaires. Ces tâches doivent être effectuées par l’administrateur de la gestion des utilisateurs, l’administrateur des comptes ou l’administrateur général. 
+**Rôles appropriés**
+
+- Administrateur des comptes
+- Administrateur global
+- Administrateur de la gestion des utilisateurs
+
+Créez des comptes d’utilisateur pour les employés qui doivent accéder à l’Espace partenaires. Ces tâches doivent être effectuées par l’administrateur de la gestion des utilisateurs, l’administrateur des comptes ou l’administrateur général.
 
 
 ## <a name="add-a-new-user"></a>Ajouter un nouvel utilisateur

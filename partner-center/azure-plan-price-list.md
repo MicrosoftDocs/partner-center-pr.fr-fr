@@ -1,7 +1,7 @@
 ---
 title: Tarifs du plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser l’Espace partenaires pour voir la liste de prix des abonnements dans le cadre du plan Azure.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f06b4b625f84ab6115f0c16de6814a991513435c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252680"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722051"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure 
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administration de facturation
+- Administrateur global
+- Agent du support technique
+- Commercial
+- Administrateur de la gestion des utilisateurs
 
 Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur de solutions cloud sont publiés dans l’Espace partenaires. Les tarifs sont délivrés de façon dynamique dans un fichier précis en temps réel et les prix sont affichés en USD uniquement. Toutefois, la facturation s’effectue dans la devise prise en charge correspondant à la zone monétaire du client. Pour plus d’informations sur la facturation dans la zone monétaire du client, consultez [Plan Azure – facturation ](azure-plan-billing.md).
 
