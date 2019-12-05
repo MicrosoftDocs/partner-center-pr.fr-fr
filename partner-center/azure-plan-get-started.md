@@ -1,7 +1,7 @@
 ---
 title: Passer au plan Azure – Démarrer | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez l’expérience commerciale du plan Azure pour acheter des services Azure au tarif du paiement à l’utilisation pour les clients. Découvrez également les nouvelles exigences de sécurité.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Azure, plan Azure, acheter des abonnements, abonnements
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253290"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681931"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Passer au plan Azure – Démarrer
 
@@ -27,7 +27,11 @@ Les besoins liés à la transformation numérique de nos clients requièrent de 
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>S’assurer que les clients ont signé le Contrat client Microsoft
 
-Depuis le 1er octobre 2019, le Contrat client Microsoft, un contrat perpétuel qui simplifie et rationalise l’expérience d’achat des clients avec un processus entièrement numérique, peut être signé numériquement par les clients. Tous les clients qui souhaitent tirer parti de la nouvelle expérience de commerce dans le cadre du programme Fournisseur de solutions Cloud pour Azure doivent signer le Contrat client Microsoft.
+Depuis le 1er octobre 2019, le Contrat client Microsoft, un contrat perpétuel qui simplifie et rationalise l’expérience d’achat des clients avec un processus entièrement numérique, est disponible. Tous les clients qui souhaitent tirer parti de la nouvelle expérience de commerce dans le cadre du programme Fournisseur de solutions Cloud pour Azure doivent signer le Contrat client Microsoft.
+
+Les partenaires souhaitant effectuer leurs transactions sous le nouveau plan Azure et passer une nouvelle commande doivent confirmer que les clients acceptent le Contrat client Microsoft en utilisant l’API en production et le tableau de bord de l’Espace partenaires.
+
+À partir du 1er février 2020, le contrat Microsoft Cloud existant sera supprimé du programme CSP. À compter de ce jour, la confirmation (attestation) du partenaire que les clients acceptent le nouveau contrat client Microsoft sera obligatoire pour toutes les autres offres, notamment Microsoft 365, Dynamics 365 et les offres Azure existantes. Les partenaires du programme CSP ne pourront pas passer de nouvelle commande pour les clients sans attestation du Contrat client Microsoft.
 
 Pour plus d’informations, lisez [Confirmer l’acceptation du Contrat client Microsoft par le client](confirm-customer-agreement.md)
 
