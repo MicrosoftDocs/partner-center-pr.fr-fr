@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Points à prendre en compte avant de déplacer votre activité de PMC vers l’espace partenaires
+description: Passez en revue les informations utiles et les questions fréquemment posées avant de migrer votre entreprise de PMC vers l’espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652190"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943262"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparez-vous à passer du centre d’appartenance partenaire (PMC) à l’espace partenaires
 
@@ -23,7 +23,7 @@ Nous allons déplacer la gestion des appartenances du Partner Membership Center 
 
 **Qu’est-ce qu’un compte professionnel Azure Active Directory (Azure AD) ?**
 
-Un compte professionnel Azure est une représentation virtuelle dédiée et isolée de votre entreprise dans le cloud public Azure. Il est créé pour vous lorsque vous vous abonnez à un service de cloud computing Microsoft tel qu’Azure, Microsoft Intune ou Office 365.
+Un compte professionnel Azure est une représentation virtuelle dédiée et isolée de votre entreprise dans le cloud public Azure. Il est créé pour vous quand vous vous abonnez à un service cloud Microsoft comme Azure, Microsoft Intune ou Office 365.
 
 Votre compte professionnel héberge vos utilisateurs Azure AD et les informations les concernant (par e-mail, mots de passe, données de profil, autorisations, etc.). Le compte professionnel contient également des groupes, des applications et d’autres informations concernant une société et sa sécurité. Pour plus d’informations, consultez...
 

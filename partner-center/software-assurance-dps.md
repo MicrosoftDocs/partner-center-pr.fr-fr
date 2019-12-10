@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Inscrivez-vous aux services de planification pour assurer la planification de prédéploiement pour les clients d’entreprise
+description: Inscrivez-vous aux services de planification pour bénéficier de la compensation de Microsoft en matière de formation et d’autres services aux clients d’entreprise qui disposent de la Software Assurance.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: prédéploiement, planification, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651629"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943422"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 

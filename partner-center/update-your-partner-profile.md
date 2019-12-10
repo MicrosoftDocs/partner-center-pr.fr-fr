@@ -2,17 +2,17 @@
 title: Vérifier votre profil de partenaire
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lors de votre première connexion en tant qu’administrateur, vérifiez que vos détails de support sont corrects, déposez des demandes d'exonération fiscale le cas échéant, puis examinez les informations de contact dans votre profil.
+description: Découvrez comment vérifier les détails de votre entreprise, tels que le contact principal, l’adresse et les informations sur les programmes. Vous pouvez également mettre à jour vos adresses juridiques et de facturation.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384786"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943052"
 ---
 # <a name="verify-your-partner-profile"></a>Vérifier votre profil de partenaire
 

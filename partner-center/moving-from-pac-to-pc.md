@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez dans l’Espace partenaires les fonctionnalités que vous utilisiez d’habitude dans le Centre d’administration des partenaires
+description: Après avoir déplacé le centre d’administration des partenaires vers l’espace partenaires, Découvrez comment gérer l’appartenance, les références client, les incentives et tous les autres aspects du programme fournisseur de solutions Cloud (CSP).
 author: LauraBrenner
 ms.author: labrenne
 keywords: Centre d’administration des partenaires, administrateur Office 365, fonctionnalités du Centre d’administration des partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: a79badb357327e18ab28ec7cc39455cec42e539a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654302"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943562"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passage du Centre d’administration des partenaires à l’Espace partenaires
 
@@ -32,9 +32,9 @@ L’Espace partenaires évolue pour devenir le seul endroit où vous allez gére
 |Demander des relations|(Revendeurs et conseillers) Créer votre activité -> Envoyer une demande DAP|(Revendeurs et conseillers) Clients -> Demander une relation de revendeur (voir la remarque ci-dessous)|
 |Gérer vos clients|Gestion des clients -> Liste des clients|Espace partenaires -> Clients|
 |Gérer les abonnements client|Gestion des clients -> Liste des clients -> sélectionnez un client|Espace partenaires-> clients-> sélectionnez client ou ajoutez votre client à la liste **favoris** en basculant l’étoile dans la liste des clients, puis sélectionnez les **favoris** slideout et accédez directement à **gérer les abonnements** de votre client.|
-|Administrer au nom de vos clients|Gestion des clients -> sélectionnez un client -> sélectionnez le bouton Gérer|Espace partenaires-> clients-> sélectionnez administrer les services à partir de la liste déroulante : > sélectionnez un service ou ajoutez votre client à la liste des **favoris** en basculant l’étoile dans la liste des clients, puis sélectionnez les **favoris** slideout et accédez directement à **Administration des services** pour le service requis.|
+|Administrer au nom de vos clients|Gestion des clients -> sélectionnez un client -> sélectionnez le bouton Gérer|Espace partenaires-> clients-> sélectionnez administrer les services à partir de la liste déroulante : > sélectionnez un service ou ajoutez votre client à la liste des **favoris** en basculant l’étoile dans la liste des clients, puis sélectionnez les **favoris** slideout et accédez directement à **administrer les services** pour le service requis.|
 |Créer des demandes de service pour votre client|Demandes de service -> sélectionnez un client -> sélectionnez le bouton + | Espace partenaires -> Demandes de service -> Demandes du client -> sélectionnez un client -> Nouvelle demande|
-|Gérer les demandes de service des clients| Demandes de service -> sélectionnez un client|Espace partenaires : demandes de > de service-> les demandes des clients-> sélectionnez le client ou ajoutez la demande de service à la liste des **favoris** en basculant l’étoile dans la vue des demandes du client pour le client, puis sélectionnez le slideout **favoris** , sélectionnez l’onglet **demandes de support** et accédez directement à la demande de service, ou affichez les mises à jour directement à partir des **favoris**.|
+|Gérer les demandes de service des clients| Demandes de service -> sélectionnez un client|Espace partenaires : demandes de service >es-> les demandes des clients-> sélectionnez le client ou ajoutez la demande de service à la liste des **favoris** en basculant l’étoile dans la vue des demandes du client pour le client, puis sélectionnez le slideout **favoris** , sélectionnez l’onglet **demandes de support** et accédez directement à la demande de service, ou affichez les mises à jour directement à partir des **favoris**.|
 |Voir l’intégrité des services Microsoft Online Services que vous gérez|Intégrité des services -> État d’intégrité agrégé|Espace partenaires -> Intégrité des services|
 
 >Important<br>

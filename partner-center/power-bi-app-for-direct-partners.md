@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenez une représentation visuelle des données de votre entreprise avec l’application Analyse de l'Espace partenaires pour Power BI.
+description: Présentation générale et Forum aux questions sur l’application Partner Center Analytics pour Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0e5bc4ab47997123cace045bf577f2fa825174c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654156"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943472"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Application Analyse de l'Espace partenaires pour Power BI (partenaires directs du programme Fournisseur de services Cloud)
 

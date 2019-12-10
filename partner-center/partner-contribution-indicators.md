@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Données indiquant le niveau de performance de votre entreprise avec Dynamics 365 Customer Engagement ou Dynamics 365 for Finance and Operations
+description: Voyez exactement ce que vous êtes bien et où vous pouvez améliorer en ce qui concerne Dynamics 365 engagement client ou Dynamics 365 Finance and Operations
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: Indicateurs de contribution des partenaires, niveau de performance, réussite du client, mesures, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
-ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
+ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74391686"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943122"
 ---
 # <a name="partner-contribution-indicators"></a>Indicateurs de contribution des partenaires
 
@@ -65,7 +65,7 @@ Les partenaires peuvent gagner le maximum de points pour une métrique donnée s
 
 ![Consultant fonctionnel](images/pci/functional_consultants.png)
 
-![future](images/pci/functional_consultant_growth.png)
+![growth](images/pci/functional_consultant_growth.png)
 
 ![Développeurs](images/pci/developers.png)
 

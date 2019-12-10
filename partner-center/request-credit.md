@@ -2,19 +2,19 @@
 title: Demander un crédit SLA auprès de Microsoft | Espace partenaires
 ms.topic: article
 ms.date: 11/21/2019
-description: Demandez un crédit SLA auprès de Microsoft s’ils rencontrent une panne de service.
+description: Découvrez les avantages, les restrictions et les procédures de demande d’un crédit SLA de Microsoft si vos clients rencontrent une panne de service.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384902"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943142"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Demander un crédit SLA auprès de Microsoft 
 
@@ -46,12 +46,12 @@ Vous pouvez trouver l’identificateur de l’incident de panne sur la page **se
 | ----------------------- | ----------------- |
 | EX | Exchange Online |
 | FO | Protection Exchange Online |
-| ASPIRATEUR | Skype entreprise Online (anciennement Lync Online) |
+| SB | Skype entreprise Online (anciennement Lync Online) |
 | Système d’exploitation | Abonnement Office |
-| GÉRÉS | Power BI pour Office 365 |
-| SR | SharePoint Online |
+| Po | Power BI pour Office 365 |
+| SP | SharePoint Online |
 | Ye | Yammer Enterprise |
-| MOLYBDÈN | Erreur du portail |
+| MO | Erreur du portail |
 
 ### <a name="submit-sla-credit-request"></a>Envoyer une demande de crédit SLA
 

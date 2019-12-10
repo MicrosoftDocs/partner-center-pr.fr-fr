@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Partner Shared Services est un nouveau type d’offre proposé aux partenaires dans le cadre du programme Fournisseur de solutions Cloud. Il leur permet d’acheter des abonnements Azure pour leur propre usage.
+description: Utilisez les services partagés de partenaires Azure pour acheter des abonnements Azure pour votre usage personnel et pour disposer d’une méthode uniforme pour l’achat, le suivi et la gestion d’Azure.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, services partagés, client
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651679"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943452"
 ---
 # <a name="add-azure-partner-shared-services"></a>Ajouter Azure Partner Shared Services
 
@@ -71,7 +71,7 @@ Depuis le 1er mars 2019, Azure Partner Shared Services (APSS) ne prend plus en c
 
 Les partenaires qui ont des services BYOL ou gratuits déployés à l’aide de APSS ne seront pas affectés. Toutefois, après le 1er mars, 2019, il ne sera pas en mesure d’acheter de nouveaux services BYOL ou gratuits. 
 
-Pour tirer parti du catalogue complet des offres de la place de marché disponibles (pas seulement les BYOL et les services gratuits), nous recommandons que les partenaires CSP déploient des services partagés à l’aide d’abonnements Azure Web direct.  Les partenaires CSP qui ont déjà déployé des ressources BYOL et gratuites de service tierces à partir de la place de marché, et souhaitent continuer à les utiliser et à déployer d’autres offres tierces sont encouragés à migrer l’abonnement APSS vers Web direct [migration d’Azure. Abonnements](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+Pour tirer parti du catalogue complet des offres de la place de marché disponibles (pas seulement les BYOL et les services gratuits), nous recommandons que les partenaires CSP déploient des services partagés à l’aide d’abonnements Azure Web direct.  Les partenaires CSP qui ont déjà déployé des ressources de BYOL et de service gratuites à partir de la place de marché et souhaitent continuer à les utiliser et déployer d’autres offres tierces sont encouragés à migrer l’abonnement APSS vers Web direct [migrant des abonnements Azure existants](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Les partenaires, qui envisagent de continuer à utiliser l’abonnement APSS après le 1er mars 2019 et souhaitent déployer de nouveaux services [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) tiers ou des services gratuits, peuvent suivre les instructions des éditeurs de logiciels indépendants (ISV) pour les déployer dans leurs abonnements APSS.
 

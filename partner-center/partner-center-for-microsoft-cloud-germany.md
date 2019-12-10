@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9f3a14161316261fa7ab2744b6de8af74be2ee1d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654218"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943512"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Espace partenaires de Microsoft Cloud Germany
 
@@ -32,6 +32,30 @@ Microsoft Cloud Allemagne fournit une instance distincte de [Microsoft Azure](ht
 > 
 > Dorénavant, les nouveaux clients ont la possibilité d’utiliser les régions européennes actuellement disponibles ou les nouvelles régions d’Allemagne lorsqu’elles seront disponibles. Pour plus d’informations, consultez [Microsoft offrira des services de cloud à partir de nouveaux centres de données en Allemagne](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
 
+# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrer des clients de Microsoft Cloud Allemagne vers une autre région européenne
+Avant de pouvoir migrer un abonnement client de Microsoft Cloud Allemagne vers une autre région européenne, vous devez disposer d’un compte CSP existant qui se trouve dans cette région et qui est actuellement actif. Si vous n’en avez pas, vous êtes invité à en créer un lors de la sélection d’un compte CSP dans l’espace partenaires. Après la migration, votre abonnement client est associé au locataire sélectionné.
+
+## <a name="migrate-with-an-existing-csp-account"></a>Migrer avec un compte CSP existant
+1.  Lorsque vous vous connectez à l’espace partenaires pour Microsoft Cloud Allemagne, vous êtes invité à sélectionner un client CSP actif. Sélectionnez **OK**.
+2.  Lorsque vous y êtes invité, sélectionnez **j’ai déjà un locataire dans la région européenne**, puis sélectionnez **suivant**. Vous serez invité à vous connecter au nouveau locataire. 
+3.  Connectez-vous au locataire en tant qu’administrateur général.
+4.  Passez en revue les informations de la page confirmation, puis sélectionnez **confirmer**.
+5.  Vous serez invité à sélectionner Afficher les **Détails** ou **afficher le tableau de bord** pour plus d’informations. 
+
+Si la connexion échoue, cela peut signifier l’un des éléments suivants :
+- Vous n’êtes pas un administrateur général sur le locataire sélectionné
+- Le locataire n’est pas situé dans une région européenne
+- Le locataire n’est pas actif
+
+Effectuez les corrections nécessaires et répétez le processus.
+
+## <a name="migrate-without-an-existing-csp-account"></a>Migrer sans compte CSP existant
+1.  Lorsque vous vous connectez à l’espace partenaires pour Microsoft Cloud Allemagne, vous êtes invité à sélectionner un client CSP actif. Sélectionnez **OK**.
+2.  Lorsque vous y êtes invité, sélectionnez **je ne dispose pas d’un locataire dans la région européenne**, puis sélectionnez **créer un nouveau compte**. 
+3.  Vous êtes dirigé vers la page d’inscription au centre partenaires, où vous pouvez créer un nouveau compte client et CSP dans une région européenne. 
+4.  Une fois que vous avez signé le contrat et que le compte est actif, connectez-vous avec le compte actuel Microsoft Cloud Germany.
+5.  Accédez au formulaire de sélection du locataire.
+6.  Sélectionnez **j’ai déjà un locataire dans la région européenne** et suivez les instructions.
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Espace partenaires de Microsoft Cloud Germany : vendre des solutions Cloud allemandes dans l’UE et l’AELE
 

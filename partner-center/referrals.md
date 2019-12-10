@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Générer des prospects et entrer en contact avec des clients qui ont besoin d’aide pour mettre en œuvre des solutions et des produits Microsoft.
+description: Découvrez comment créer un profil d’entreprise pour générer des prospects de ventes par le biais de la fonctionnalité de références de l’espace partenaires, puis pour répondre à ces références.
 author: LauraBrenner
 ms.author: labrenne
 keywords: références, profil commercial, rechercher un partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652156"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943252"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

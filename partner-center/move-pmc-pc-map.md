@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprendre les différences et les similitudes entre PMC et l’Espace partenaires
+description: Comprenez les différences et similarités entre PMC et l’espace partenaires concernant les renouvellements, la structure de compte, la connexion, les rôles d’utilisateur, les compétences et bien plus encore.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653276"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943482"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passage de PMC à l’Espace partenaires
 

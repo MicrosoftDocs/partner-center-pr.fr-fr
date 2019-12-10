@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lorsque vous mettez à niveau votre abonnement au Microsoft Partner Network, vous avez droit à de nombreux avantages exclusifs. Découvrez comment trouver et acheter des offres disponibles.
+description: Pour bénéficier d’avantages exclusifs, vous pouvez mettre à niveau votre adhésion MPN vers une appartenance à un abonnement Microsoft Action Pack ou des compétences Microsoft.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651163"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943402"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Mise à niveau de votre abonnement au Microsoft Partner Network
 
@@ -82,7 +82,7 @@ Votre abonnement Action Pack sera renouvelé automatiquement chaque année à c
 3. Sélectionnez **Désactiver le renouvellement automatique** si vous ne voulez pas que votre abonnement Action Pack soit renouvelé automatiquement chaque année. 
 
 > [!NOTE]  
-> Si vous désactivez le renouvellement automatique des abonnements, vous ne pourrez pas le réactiver tant que vous ne renouvelez pas l’abonnement. Nous vous rappellerons de renouveler votre abonnement avant l’expiration de votre abonnement.
+> Si vous désactivez le renouvellement automatique de l’abonnement, vous ne pourrez pas le réactiver tant que vous n’aurez pas renouvelé une nouvelle fois l’abonnement. Nous vous rappellerons de renouveler votre abonnement avant qu’il n’arrive à expiration.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Renouveler votre abonnement Action Pack

@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Un client peut changer de partenaire dans le programme Fournisseur de solutions&nbsp;Cloud pour utiliser les services Microsoft&nbsp;Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
+description: Découvrez comment travailler avec un client pour changer le partenaire du programme du fournisseur de solutions Cloud que le client utilisera pour les services Azure.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: a0dd17c56e04368be430808ab5191a6c5adca8cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651533"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943392"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transférer des abonnements Azure 
 

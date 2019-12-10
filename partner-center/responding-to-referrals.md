@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 07/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En tant que partenaire Microsoft qualifié, vous pouvez évaluer des références, négocier avec elles et leur répondre via l'Espace partenaires.
+description: Découvrez comment répondre aux références, gérer les références nouvelles, existantes et archivées, et obtenir plus de références à l’avenir.
 author: JnHs
 ms.author: jenhayes
 keywords: référence, demande d'informations, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 49b5c7e0f718f23c25a9adcab1edfec47814d048
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0cd8ac3dba2570d2d4d2440d4b524bb76ced39a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654089"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943442"
 ---
 # <a name="respond-to-referrals"></a>Répondre à des références
 

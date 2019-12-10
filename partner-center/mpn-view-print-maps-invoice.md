@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez comment afficher, télécharger et imprimer votre facture d’adhésion MPN, ainsi que le fichier pour l’exonération fiscale et envoyer votre numéro d’identification de T.V.A. à Microsoft.
+description: Découvrez comment afficher ou télécharger votre facture d’adhésion MPN, ainsi que le fichier pour l’exonération fiscale et envoyer votre numéro d’identification de T.V.A. à Microsoft.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, facture, cartes, exonération fiscale, TVA, ID TVA
 ms.localizationpriority: medium
-ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653032"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943542"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Factures et taxes dans le Microsoft Partner Network
 

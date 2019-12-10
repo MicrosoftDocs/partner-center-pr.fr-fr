@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Pour se conformer aux exigences nationales, régionales et sectorielles qui régissent la collecte et l’utilisation des données personnelles, les fonctionnalités de gestion des utilisateurs ne sont pas disponibles dans l'Espace partenaires de Microsoft Cloud Germany. Ajoutez et gérez plutôt les utilisateurs dans le portail Azure de Microsoft Cloud Germany.
+description: Découvrez comment et où gérer l’espace partenaires pour les partenaires, les clients et les licences de Microsoft Cloud Allemagne, ainsi que les réinitialisations de mot de passe.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651141"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943372"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Allemagne
 
@@ -44,15 +44,15 @@ Une fois que vous êtes connecté au portail Azure de Microsoft Cloud Germany, 
 > [!NOTE]  
 > Sélectionnez les liens ci-dessous pour accéder à un autre site Web. 
 
--  [Ajouter de nouveaux utilisateurs à Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Ajout de nouveaux utilisateurs à Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Affecter un utilisateur à des rôles d’administrateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Attribuer des rôles d’administrateur à un utilisateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [Réinitialiser le mot de passe d’un utilisateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Rubriques connexes**
 
--  [Microsoft Azure Allemagne](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
 

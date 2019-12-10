@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Stratégies de gestion des risques de transaction en ligne, y compris le défaut de paiement de biens et de services par des clients et les mauvaises utilisations ou activités frauduleuses
+description: Il est important d’en savoir plus sur les différents types de risques impliqués dans les transactions en ligne et les meilleures pratiques pour la gestion et l’atténuation de ces risques.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, mauvaise utilisation, utilisation acceptable, règles de bon usage, défaut de paiement, le client ne pas paye pas la facture, risque en ligne, vol de service, abus du service, suspendre un abonnement,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384765"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943522"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion du non-paiement, des fraudes ou de la mauvaise utilisation dans l’espace partenaires
 
-S’applique à :
+S'applique à :
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government

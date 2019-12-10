@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et qui répond aux critères décrits dans Faire remonter des problèmes à Microsoft, déposez un ticket de support pour lui.
+Description: Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et que celui-ci répond aux critères décrits dans escalader les problèmes à Microsoft, déposez un ticket de support pour eux.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: demande de service, ticket de service, support, droit de support, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654113"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943212"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d’un client
 

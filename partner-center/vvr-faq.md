@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Valider et réserver des bons dans l’espace partenaires
+description: Forum aux questions sur l’outil de validation et d’échange de bons, y compris des informations sur la migration, la demande et le contrôle de l’accès, et bien plus encore.
 author: LauraBrenner
 ms.author: labrenne
 keywords: bons de formation, Software Assurance, formation, valider les chèques-cadeaux, réserver un cadeau
 ms.localizationpriority: medium
-ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 570d7e605f05c0e2bb0700dd4e211cd1f074725f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651055"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943172"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Forum aux questions : utilisation de l’outil de validation et d’échange de bons 
 

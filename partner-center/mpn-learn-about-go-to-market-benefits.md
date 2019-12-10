@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: En tant que membre de la Microsoft Partner Network, vous pouvez bénéficier de certains avantages de la mise sur le marché. Découvrez les différents niveaux d’avantages de Go-to-Market disponibles et comment les activer et les gérer dans l’espace partenaires.
+description: Les avantages de Go-to-Market vous donnent accès à des ressources de vente et de marketing exclusives qui peuvent vous aider à accélérer le délai de mise sur le marché, à générer des prospects et à développer votre activité.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, avantages de l’adhésion, adhésion, avantages de Go-to-Market, Go-to-Market, accéder au marché, GTM, adhésion Gold, abonnement Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653252"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943332"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Explorez les avantages de votre abonnement MPN Go-to-Market (GTM)
 
@@ -67,9 +67,9 @@ Pour afficher vos avantages GTM :
 
 1. Connectez-vous au [tableau de bord]( https://docs.microsoft.com/partner-center/)de l’espace partenaires.
 
-2. Dans le menu de gauche, sélectionnez **MPN**. Effectuez ensuite l’une des opérations suivantes :
+2. Dans le menu de gauche, sélectionnez **MPN**. Ensuite, effectuez l’une des opérations suivantes :
 
-    - Sélectionnez **vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
+    - Sélectionnez **Vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
 
       ou
 
@@ -82,7 +82,7 @@ Vous verrez une liste des avantages de Go-to-Market qui sont déjà actifs ou di
 Pour connaître les étapes spécifiques à suivre pour activer ou gérer les avantages de votre abonnement à GTM, consultez [la page gestion de vos avantages de Go-to-Market](manage-your-partner-network-benefits.md#manage-go-to-market-benefits). Dans le cadre de ce processus, vous devez attribuer à un membre du marketing le rôle de contact pour les courriers électroniques de suivi et les communications concernant les avantages GTM que vous activez.
 
 >[!IMPORTANT]
->Vous devez être l’administrateur général ou l’administrateur du partenaire MPN pour activer des avantages GTM spécifiques et affecter un contact marketing associé. Si nécessaire, vous pouvez devenir administrateur général en suivant les instructions figurant sur la page de vos [ **avantages** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion requise). Votre entreprise a peut-être déjà un administrateur général. Veillez donc à consulter votre équipe.
+>Vous devez être l’administrateur général ou l’administrateur du partenaire MPN pour activer des avantages GTM spécifiques et affecter un contact marketing associé. Si nécessaire, vous pouvez devenir administrateur général en suivant les instructions de votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion obligatoire). Votre entreprise ayant peut-être déjà un administrateur général, pensez à vérifier auprès de votre équipe.
 
 #### <a name="see-also"></a>Articles associés
 

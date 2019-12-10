@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vos clients peuvent tester des produits d’abonnement Microsoft pendant 30 jours. Vous pouvez vous inscrire à ces versions d’évaluation dans le catalogue, comme beaucoup d’autres services en ligne.
+description: Vos clients peuvent tester des produits d’abonnement Microsoft pendant 30 jours. Inscrivez-vous à ces versions d’évaluation dans le catalogue, comme beaucoup d’autres services en ligne.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384830"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943292"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Proposer à vos clients des offres d’essai de produits Microsoft
 
-S’applique à :
+S'applique à :
 
 - Espace partenaires
 
@@ -83,8 +83,8 @@ Vous pouvez convertir des versions d’évaluation en abonnements payants à l�
 
 Vous devrez peut-être modifier vos API pour adapter la conversion d’une version d’évaluation gratuite à un abonnement payant. Pour plus d’informations, consultez la documentation du développeur suivante :
 
-- [Convertir un abonnement d'évaluation en abonnement payant](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Obtenir une liste des offres de conversion de version d’évaluation](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Convertir un abonnement d’essai en abonnement payant](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Obtenir la liste des offres de conversion d’essai](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="expiring-offers"></a>Offres arrivant à expiration
 

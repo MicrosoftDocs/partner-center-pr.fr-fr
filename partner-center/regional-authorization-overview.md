@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/03/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consultez les pays et régions dans lesquels vous pouvez vendre des offres CSP, en fonction de l’emplacement de votre entreprise.
+description: Consultez les pays, les régions et les devises dans lesquels vous pouvez vendre des offres CSP, en fonction de l’emplacement de votre entreprise.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Marchés du CSP, territoires, où puis-je vendre par le biais du programme CSP, des offres CSP, des régions, vendre des solutions Cloud, CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652071"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943242"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Les marchés régionaux et les devises du programme fournisseur de solutions Cloud
 
@@ -87,7 +87,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Sierra Leone             |   USD    |
 | Somalie                  |   USD    |
 | Soudan du Sud              |   USD    |
-| Sainte-Hélène, ascension, Tristan da Cunha|    USD   |
+| Sainte-Hélène, Ascension et Tristan da Cunha|    USD   |
 | Tanzanie                 |   USD    |
 | Togo                     |   USD    |
 | Ouganda                   |          |
@@ -107,7 +107,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Hong Kong         |   USD    |
 |  Indonésie         |   USD    |
 |  Laos              |          |
-|  Macao             |   USD    |
+|  Macao R.A.S.             |   USD    |
 |  Malaisie          |   USD    |
 |  Maldives          |          |
 |  Myanmar           |          |
@@ -219,7 +219,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Svalbard et Jan Mayen|NOK|
 |  Suède         |   SEK    |
 |  Suisse    |   CHF    |
-|  Londres             |   GBP    |
+|  ROYAUME-UNI             |   GBP    |
 |  Cité du Vatican   |          |
 |
 
@@ -332,7 +332,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Israël         |   USD    |
 |  Jordanie         |          |
 |  Kazakhstan     |   USD    |
-|  Kosovo         |   USD    |
+|  République du Kosovo         |   USD    |
 |  Koweït         |   USD    |
 |  Kirghizistan     |   USD    |
 |  Liban        |   USD    |
@@ -347,7 +347,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Mozambique     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Territoire palestinienne, occupé |        |
+|  Autorité palestinienne |        |
 |  Qatar          |   USD    |
 |  Arabie saoudite   |   USD    |
 |  Serbie         |   USD    |

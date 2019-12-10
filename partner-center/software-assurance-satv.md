@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: S’inscrire au programme de formation Software Assurance
+description: Détails de l’inscription dans le programme de formation Software Assurance pour vous permettre de compenser la formation et la planification aux entreprises clientes.
 author: LauraBrenner
 ms.author: labrenne
 keywords: bons de formation, software assurance, formation, inscription à SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384791"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943412"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) de l’Espace partenaires
 

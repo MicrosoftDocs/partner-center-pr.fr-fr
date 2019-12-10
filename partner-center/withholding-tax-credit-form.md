@@ -2,7 +2,7 @@
 title: Assurez-vous que vous êtes crédité de l’impôt à la demande | Espace partenaires
 ms.topic: article
 ms.date: 11/07/2019
-description: Comment s’assurer que votre compte espace partenaires est crédité pour la taxe à la demande.
+description: Assurez-vous que votre compte espace partenaires est crédité pour la TVA, puis ouvrez une demande de service si nécessaire.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,16 +10,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, formulaire de crédit fiscal
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384863"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943162"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Vérifiez que vous êtes bien crédité de la retenue à la source
 
-S’applique à :
+S'applique à :
 
 - Espace partenaires
 

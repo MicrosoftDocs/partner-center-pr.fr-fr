@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comment répondre aux demandes de mise à jour de vérification de Microsoft
+description: Suivez l’état de la vérification de votre compte et fournissez des informations supplémentaires si nécessaire.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: vérification, vérification, rejeté, mise à jour du profil de partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a7b77d8a263d71235dd30e74669b39244ec11d2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 6f6dfe1b8d7815ffb93b737804b85b15b60d3cff
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651147"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943362"
 ---
 # <a name="verify-your-account-information"></a>Vérifier les informations de votre compte
 
@@ -30,7 +30,7 @@ Vous pouvez suivre l’état actuel du processus de vérification sur la page de
 |**Type de vérification**   |**Description de ce qui est vérifié et comment**   |**Que faire en cas de rejet**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
 |Propriété de l’e-mail   |La propriété de l’e-mail vérifie que l’adresse de messagerie du contact principal est valide.  L’adresse de messagerie du contact principal doit être un compte professionnel qui est surveillé et peut envoyer/recevoir des courriers électroniques.  Les partenaires ne doivent pas utiliser : (1) une adresse de messagerie personnelle non associée au domaine de l’entreprise. (2) une connexion de l’utilisateur client n’est pas associée à la messagerie électronique, par exemple, jsmith@testcompany.onmicrosoft.com   |Si vous ne recevez pas le message de vérification de la propriété de l’e-mail dans un délai d’un jour ouvrable, cliquez sur le lien sur la page profil de partenaire pour envoyer le message à un nouvel envoi ou contactez le support technique.|
-|Effectif |La vérification de l’emploi confirme que le contact principal est un employé de l’entreprise qui s’inscrit en raison de l’existence d’une adresse de messagerie active sur un domaine de messagerie appartenant à l’entreprise.|Si la vérification de l’emploi est rejetée, le contact principal peut fournir une documentation ou une source en ligne confirmant que le domaine de messagerie du contact est sous la propriété de son employeur.|
+|Emploi |La vérification de l’emploi confirme que le contact principal est un employé de l’entreprise qui s’inscrit en raison de l’existence d’une adresse de messagerie active sur un domaine de messagerie appartenant à l’entreprise.|Si la vérification de l’emploi est rejetée, le contact principal peut fournir une documentation ou une source en ligne confirmant que le domaine de messagerie du contact est sous la propriété de son employeur.|
 |Professionnel   |La vérification de l’entreprise confirme que la société inscrite est une entité commerciale authentique et à l’adresse utilisée pour l’inscription.|En cas d’échec de la vérification de l’entreprise, le contact principal sera invité à fournir une documentation officielle (par exemple, un certificat d’inscription ou un certificat d’enregistrement fiscal) à partir du pays ou de la commune de l’entreprise qui confirme que l’entreprise est autorisé à faire des affaires sous ce nom d’entité et se trouve à l’adresse d’inscription.|
 
 ## <a name="when-verification-concludes"></a>À la fin de la vérification

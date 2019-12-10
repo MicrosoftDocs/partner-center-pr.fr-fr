@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/28/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Pour certaines solutions éligibles, après avoir sélectionné Conclu, vous serez invité à fournir des informations supplémentaires afin de pouvoir enregistrer votre transaction. Microsoft examinera les informations que vous avez fournies et pourra vous demander des renseignements complémentaires.
+description: Lorsque vous inscrivez un contrat que vous avez remporté dans l’espace partenaires, Microsoft vous offre plus d’opportunités à l’avenir.
 author: JnHs
 ms.author: jenhayes
 keywords: enregistrement de transactions
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652058"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943222"
 ---
 # <a name="register-your-deals"></a>Enregistrer vos transactions
 

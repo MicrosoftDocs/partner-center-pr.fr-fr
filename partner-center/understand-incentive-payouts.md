@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Affichez les revenus et les paiements se rapportant aux programmes de primes incitatives.
+description: Affichez les revenus et les paiements se rapportant aux programmes de primes incitatives. Cela comprend la page paiements, la page historique des transactions et l’état du paiement, ainsi que l’exportation des données.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559751"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943182"
 ---
 # <a name="view-your-incentives-payments-information"></a>Afficher vos informations de paiement d’incentives
 
@@ -54,21 +54,21 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 
 ## <a name="payment-status"></a>Statut du paiement
 
-|**État de l’obtention** |**Donc** |**Action de partenaire requise ?**       |
+|**État de l’obtention** |**Reason** |**Action de partenaire requise ?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Non traité        | Le bénéfice est éligible au paiement. Il reste dans cet État pour une période de refroidissement telle que définie dans le Guide du programme d’incentives.       |non        |
-|À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |non       |
+|Prochainement      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |non       |
 |Facture d’impôt en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir payer         |
 |Rejeté pendant la révision        |Le paiement a été rejeté pendant la révision.          |Contacter le support Microsoft pour plus d’informations         |
 |Failed        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
 |En cours     |Le paiement est en cours.         |non         |
 |Paiement incorrect        |Le remboursement est en cours.          |non        |
-|Échangé        |Le paiement a été envoyé à votre banque.          |non       |
+|Envoyé        |Le paiement a été envoyé à votre banque.          |non       |
 |Retraitement       |Le paiement a rencontré une erreur système Microsoft et est en cours de retraitement.           |non         |
 |Inversé        |Le paiement a été inversé par votre banque et sera renvoyé dans le prochain cycle de paiement.          |non        |
 |Facture de taxe rejetée       |Votre facture fiscale a été rejetée pendant la révision. Tous les paiements en attente seront en attente jusqu’à ce que la révision de la facture fiscale soit terminée.          |Contacter le support Microsoft pour plus d’informations         |
 |Facture fiscale en cours de révision        |Votre relevé de taxes est en cours de révision. Votre paiement est lancé une fois que la facture d’impôt a été approuvée.           |non        |
-|Rejeté        |Le paiement a été rejeté par votre banque.           |Pour plus d’informations, contactez votre banque.  |
+|Rejetée        |Le paiement a été rejeté par votre banque.           |Pour plus d’informations, contactez votre banque.  |
 
 ## <a name="export-data-page"></a>Page exporter des données
 Suivez les instructions de cette page pour exporter les données souhaitées. 
@@ -81,7 +81,7 @@ Suivez les instructions de cette page pour exporter les données souhaitées.
 ## <a name="payment-download-export"></a>Exportation du téléchargement de paiement
 Cette option permet de télécharger les paiements que vous avez reçus dans votre banque pour un programme donné, la taxe associée et le montant agrégé.
 
-|**Nom de la colonne**   |**Description**   |
+|**Nom de colonne**   |**Description**   |
 |------------------|:-------------------------------------|
 |participantID   |Identité principale du partenaire qui accumule le programme      |
 |participantIDType   |En général MPN pour les programmes d’incentives et l’ID de vendeur pour les programmes Store      |
@@ -103,7 +103,7 @@ Cette option permet de télécharger les paiements que vous avez reçus dans vot
 ## <a name="transaction-history-download-export"></a>Exportation du téléchargement de l’historique des transactions
 Cette option permet de télécharger chaque élément de la ligne en cours que vous voyez dans la page historique des transactions, le type en cours, la date, le montant de la transaction associée, le client, le produit et d’autres détails transactionnels applicables au programme d’incentives.
 
-|**Nom de la colonne**   |**Description**   |
+|**Nom de colonne**   |**Description**   |
 |------------------|:-------------------------------------|
 |earningId   |Identificateur unique pour chaque gain   |
 |participantID   |Identité principale du partenaire qui accumule le programme   |
@@ -130,12 +130,12 @@ Cette option permet de télécharger chaque élément de la ligne en cours que v
 |paymentStatus   |Statut du paiement   |
 |paymentStatusDescription   |Description conviviale de l’état du paiement   |
 |customerId   |Identificateur du client   |
-|Souhaite   |Nom de la transaction client   |
+|customerName   |Nom de la transaction client   |
 
 
 Outre le tableau ci-dessus, ces champs de l’historique des transactions sont disponibles pour le programme.
 
-|**Nom de la colonne**   |**Description**   |
+|**Nom de colonne**   |**Description**   |
 |------------------|:-------------------------------------|
 |partNumber   |Numéro de référence lié à la transaction. Terminologie Microsoft.   |
 |productName   |Nom de la famille de produits soulignés à la transaction   |
@@ -151,6 +151,6 @@ Outre le tableau ci-dessus, ces champs de l’historique des transactions sont d
 |agreementNumber   |Numéro de contrat   |
 |agreementStartDate   |Date de début de contrat   |
 |agreementEndDate   |Date de fin de contrat   |
-|utile   |Charge de travail   |
+|charge de travail   |Charge de travail   |
   
 
