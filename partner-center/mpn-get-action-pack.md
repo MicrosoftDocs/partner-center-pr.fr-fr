@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez comment obtenir Microsoft Action Pack, qu’il s’agisse d’un premier achat ou d’un renouvellement.
+description: Découvrez comment acheter un abonnement Microsoft Action Pack et commencer à utiliser les avantages Action Pack. Découvrez aussi comment renouveler, annuler, consulter votre facture et plus encore.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
 ms.localizationpriority: high
-ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654298"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943342"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Premier achat ou renouvellement d’un abonnement Microsoft Action Pack ou des compétences de niveau Silver ou Gold
 

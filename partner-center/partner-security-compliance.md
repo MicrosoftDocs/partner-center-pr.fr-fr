@@ -3,17 +3,17 @@ title: Statut des exigences de sécurité des partenaires | Espace partenaires
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Restez à jour sur la conformité de votre entreprise aux exigences liées à l’authentification multifacteur.
+description: Découvrez les nouveaux critères obligatoires de renforcement de la sécurité pour les conseillers, les fournisseurs de panneau de contrôle et les partenaires du programme Fournisseur de solutions Cloud.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295256"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943112"
 ---
 # <a name="partner-security-requirements-status"></a>Statut des exigences de sécurité des partenaires
 

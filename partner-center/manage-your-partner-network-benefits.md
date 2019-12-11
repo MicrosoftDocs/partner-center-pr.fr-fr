@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: En tant que membre du Microsoft Partner Network, vous avez le droit d’acheter certains avantages. Explique comment activer et gérer vos avantages en tant que membre dans l’Espace partenaires.
+description: Rejoignez le Microsoft Partner Network (MPN) et gérez les avantages d’être membre qui vous aideront à créer et à développer votre activité.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, avantages en tant que membre, adhésion, membre
 ms.localizationpriority: high
-ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
+ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681948"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943592"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer vos avantages en tant que membre du Microsoft Partner Network
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Quels sont les aspects du crédit Partenaires du plan Azure
+description: Le crédit Partenaires offre des tarifs Azure uniformes simplifiés, fournit des services managés à valeur ajoutée et permet d’éliminer la concurrence sur les marges.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a3084d84d2befda1f2e71dc8d15cd1f3542bd974
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: caab446047745a63dc2116c25b24be2dcade3584
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654202"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943062"
 ---
 # <a name="partner-earned-credit---overview"></a>Crédit Partenaires – vue d’ensemble
 

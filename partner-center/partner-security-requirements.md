@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/09/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez les exigences de sécurité pour les conseillers et les partenaires participant au programme Fournisseur de solutions Microsoft Cloud.
+description: Présentation de l’activation de l’authentification multifacteur (MFA) et de l’adoption du modèle d’application sécurisé, qui sont maintenant obligatoires pour les partenaires.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: b481bd3e8729c63425c45e1f9767722130dc0833
-ms.sourcegitcommit: bf10a7123490ab08c6c3a58cec7045c5d38d16cc
+ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "73964218"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943302"
 ---
 # <a name="partner-security-requirements"></a>Exigences de sécurité du partenaire
 
