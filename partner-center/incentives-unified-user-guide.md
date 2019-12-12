@@ -9,19 +9,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Incentives, paiement
 ms.localizationpriority: medium
-ms.openlocfilehash: 246c3eaa95fe88cdd42c1eb85548065d29828bfc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 08586ad004e351de2d7880bf83a73e12e5d24821
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253710"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004788"
 ---
-# <a name="access-your-incentives-payouts-page"></a><span data-ttu-id="a85c9-105">Accédez à votre page de paiement d’incentives</span><span class="sxs-lookup"><span data-stu-id="a85c9-105">Access your incentives payouts page</span></span>
+# <a name="access-your-incentives-payouts-page"></a><span data-ttu-id="64501-105">Accédez à votre page de paiement d’incentives</span><span class="sxs-lookup"><span data-stu-id="64501-105">Access your incentives payouts page</span></span>
 
-<span data-ttu-id="a85c9-106">Les informations d’aide sur le paiement qui s’appliquent dépendent du programme partenaire dans lequel vous travaillez.</span><span class="sxs-lookup"><span data-stu-id="a85c9-106">The payout help information that applies to you depends on which partner program you're working in.</span></span> <span data-ttu-id="a85c9-107">Pour afficher la page qui vous convient, sélectionnez le lien correspondant ci-dessous :</span><span class="sxs-lookup"><span data-stu-id="a85c9-107">To see the page appropriate for you, select the corresponding link below:</span></span>
+<span data-ttu-id="64501-106">**Rôles appropriés**</span><span class="sxs-lookup"><span data-stu-id="64501-106">**Appropriate roles**</span></span>
+-   <span data-ttu-id="64501-107">Administrateur global</span><span class="sxs-lookup"><span data-stu-id="64501-107">Global admin</span></span>
+-   <span data-ttu-id="64501-108">Administrateur des utilisateurs</span><span class="sxs-lookup"><span data-stu-id="64501-108">User admin</span></span>
+-   <span data-ttu-id="64501-109">Administrateur de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="64501-109">Incentives admin</span></span>
+-   <span data-ttu-id="64501-110">Utilisateur de primes incitatives</span><span class="sxs-lookup"><span data-stu-id="64501-110">Incentives user</span></span>
+-   <span data-ttu-id="64501-111">Commercial</span><span class="sxs-lookup"><span data-stu-id="64501-111">Sales agent</span></span>
+-   <span data-ttu-id="64501-112">Administrateur partenaire MPN</span><span class="sxs-lookup"><span data-stu-id="64501-112">MPN partner admin</span></span>
 
-- <span data-ttu-id="a85c9-108">Pour les paiements d’application et de jeu Windows, consultez [Résumé du paiement](https://docs.microsoft.com/windows/uwp/publish/payout-summary) dans la documentation du développeur Windows.</span><span class="sxs-lookup"><span data-stu-id="a85c9-108">For Windows app and game payments, see [Payout summary](https://docs.microsoft.com/windows/uwp/publish/payout-summary) in the Windows developer documentation.</span></span>
+<span data-ttu-id="64501-113">Les informations d’aide sur le paiement qui s’appliquent dépendent du programme partenaire dans lequel vous travaillez.</span><span class="sxs-lookup"><span data-stu-id="64501-113">The payout help information that applies to you depends on which partner program you're working in.</span></span> <span data-ttu-id="64501-114">Pour afficher la page qui vous convient, sélectionnez le lien correspondant ci-dessous :</span><span class="sxs-lookup"><span data-stu-id="64501-114">To see the page appropriate for you, select the corresponding link below:</span></span>
 
-- <span data-ttu-id="a85c9-109">Pour les paiements d’incentives de Microsoft Partner Network (MPN), consultez la rubrique [afficher vos informations de paiement d’incentives](understand-incentive-payouts.md) dans la documentation MPN incentives.</span><span class="sxs-lookup"><span data-stu-id="a85c9-109">For Microsoft Partner Network (MPN) incentive payouts, see [View your incentive payments information](understand-incentive-payouts.md) in the MPN incentives documentation.</span></span>
+- <span data-ttu-id="64501-115">Pour les paiements d’application et de jeu Windows, consultez [Résumé du paiement](https://docs.microsoft.com/windows/uwp/publish/payout-summary) dans la documentation du développeur Windows.</span><span class="sxs-lookup"><span data-stu-id="64501-115">For Windows app and game payments, see [Payout summary](https://docs.microsoft.com/windows/uwp/publish/payout-summary) in the Windows developer documentation.</span></span>
 
-- <span data-ttu-id="a85c9-110">Les informations relatives aux paiements de la place de marché commercial pour les éditeurs de logiciels indépendants seront bientôt ajoutées.</span><span class="sxs-lookup"><span data-stu-id="a85c9-110">Information about Commercial Marketplace payments for Independent Software Vendors (ISVs) will be added soon.</span></span>
+- <span data-ttu-id="64501-116">Pour les paiements d’incentives de Microsoft Partner Network (MPN), consultez la rubrique [afficher vos informations de paiement d’incentives](understand-incentive-payouts.md) dans la documentation MPN incentives.</span><span class="sxs-lookup"><span data-stu-id="64501-116">For Microsoft Partner Network (MPN) incentive payouts, see [View your incentive payments information](understand-incentive-payouts.md) in the MPN incentives documentation.</span></span>
+
+- <span data-ttu-id="64501-117">Pour plus d’informations sur les paiements de la place de marché commercial pour les éditeurs de logiciels indépendants (ISV), consultez [Résumé du paiement du marché commercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary).</span><span class="sxs-lookup"><span data-stu-id="64501-117">For information about Commercial Marketplace payments for Independent Software Vendors (ISVs), see [Commercial marketplace payout summary](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary).</span></span>
