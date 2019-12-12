@@ -8,12 +8,12 @@ description: Localisez les fonctionnalités du centre d’administration des par
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943322"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005068"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Partenaires du centre d’administration des partenaires Office 365 : Préparez-vous à déplacer les opérations d’entreprise vers l’espace partenaires
 
@@ -21,6 +21,12 @@ ms.locfileid: "74943322"
 
 - Espace partenaires
 - Centre d’administration des partenaires Office 365
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Commercial
 
 Nous offrons les fonctionnalités du centre d’administration des partenaires Office 365 dans l’espace partenaires pour vous aider à gérer vos clients tout au long du cycle de vie de l’entreprise. En plus des fonctionnalités que vous utilisez, vous pouvez désormais : 
 

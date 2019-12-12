@@ -9,12 +9,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 634645d59503042690e5cbde0fdce3a037eaa5e8
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189076"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004908"
 ---
 # <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 
@@ -23,13 +23,18 @@ ms.locfileid: "74189076"
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Commercial
+
 La fonctionnalité multi-partenaires de l’espace partenaires prend en charge les scénarios dans lesquels un client souhaite travailler avec plusieurs partenaires. Par exemple, un client peut vouloir engager un partenaire pour son expertise d'Office 365, mais passer par un autre partenaire spécialisé dans Microsoft Azure. 
 
 Un client Azure CSP peut inclure un abonnement Azure supplémentaire auprès d’un autre partenaire CSP.
 
 Pour utiliser la fonctionnalité multi-partenaires dans l’espace partenaires, invitez le client à vous accorder des privilèges d’administration délégués. Voir [Demander une relation avec un client](request-a-relationship-with-a-customer.md) pour en savoir plus sur la manière d’établir une relation avec un client qui travaille déjà avec un partenaire.
 
-La fonctionnalité multipartenaire n’effectue pas les opérations suivantes&nbsp;:
+La fonctionnalité multipartenaire n’effectue pas les opérations suivantes :
 
 - Modifier les abonnements existants du client
 

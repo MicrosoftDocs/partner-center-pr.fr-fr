@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, Advisor, partenaire de syndication, mise hors service PAC, mise hors service des PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 234e86f166462a38592ebea3e898d45e99ff8edb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654231"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004888"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Le centre d’administration des partenaires est en déplacement vers l’espace partenaires
 
 **S’applique à**
 
 -  Espace partenaires
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Commercial
 
 > [!NOTE]  
 >  Toutes les dates ont été mises à jour depuis la publication initiale de cet article.

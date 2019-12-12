@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 57466396cd9c810ab851b01fc08c2f66d4d2b278
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384774"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004848"
 ---
 # <a name="marketplace-exclusive-offers"></a>Offres exclusives Marketplace
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Commercial
 
 Les éditeurs de logiciels indépendants peuvent mettre leurs offres à la disposition d’un nombre sélectionné de partenaires CSP. Tous les partenaires CSP pourront toujours afficher toutes les offres ISV dans le Marketplace du Centre des partenaires, mais les offres réservées exclusives pourront être achetées uniquement par les partenaires que l’ISV a sélectionnés. Si une offre n’est pas indiquée comme « exclusive », tous les partenaires peuvent l’acheter.
 

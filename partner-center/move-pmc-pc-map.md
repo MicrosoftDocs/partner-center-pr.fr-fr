@@ -9,14 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943482"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004288"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passage de PMC à l’Espace partenaires
+
+**Rôles appropriés**
+-   Administrateur global
 
 Nous vous facilitons la tâche pour vos relations commerciales en mettant en place un seul site web (Espace partenaires) qui sert de point central d’engagement. Vous constaterez que tout ce que vous avez fait dans le PMC (Partner Membership Center) peut l’être également à partir de votre tableau de bord dans l’Espace partenaires. 
 

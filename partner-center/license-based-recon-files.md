@@ -7,29 +7,35 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 617b49556851a4d9999e6294d61d79c4fe1befa1
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389817"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004598"
 ---
 # <a name="license-based-reconciliation-files"></a>Fichiers de rapprochement basés sur les licences
 
-S’applique à :
+**S’applique à**
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Administration de facturation
+-   Agent d’administration
 
 Pour rapprocher vos modifications des commandes d’un client, comparez le **Syndication_Partner_Subscription_Number** du fichier de rapprochement à l' **ID d’abonnement** de l’espace partenaires.
 
 ## <a name="fields-in-license-based-reconciliation-files"></a>Champs dans les fichiers de réconciliation basés sur une licence
 
-| colonne | Description | Valeur échantillon |
+| Colonne | Description | Valeur échantillon |
 | ------ | ----------- | ------------ |
 | PartnerId | Identificateur unique au format GUID pour une entité de facturation spécifique. Non requis pour le rapprochement. Identique dans toutes les lignes. | *8ddd03642-test-Test-test-46b58d356b4e* |
 | CustomerID | Identificateur Microsoft unique du client au format GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| OrderID | Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la commande lorsque vous contactez le support technique. Non utilisé pour le rapprochement. | *566890604832738111* |
+| OrderId | Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la commande lorsque vous contactez le support technique. Non utilisé pour le rapprochement. | *566890604832738111* |
 | SubscriptionID | Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lorsque vous contactez le support technique. Non utilisé pour le rapprochement. *Cette valeur n’est pas la même que l' **ID d’abonnement** dans la console d’administration partenaire. Veuillez consulter **SyndicationPartnerSubscriptionNumber** à la place.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | Identificateur unique des abonnements. Un client peut avoir plusieurs abonnements pour le même plan. Cette colonne est importante pour l’analyse des fichiers de réconciliation. Ce champ correspond à l' **ID d’abonnement** dans la console d’administration du partenaire. | *fb977ab5-test-Test-test-24c8d9591708* |
 | OfferID | Identificateur d’offre unique. Identificateur d’offre standard, tel que défini dans la liste de prix. *Cette valeur ne correspond pas à l’ID de l' **offre** de la liste de prix. Consultez plutôt **DurableOfferID** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
@@ -47,8 +53,8 @@ Pour rapprocher vos modifications des commandes d’un client, comparez le **Syn
 | Sous-total | Total avant impôt. Vérifie si votre sous-total correspond au total attendu, en cas de remise. | *11* |
 | Taxe | Frais liés au montant des taxes. Selon les règles fiscales et les circonstances spécifiques de votre marché. | *0* |
 | TotalForCustomer | Total après impôts. Vérifie si les impôts sont retenus sur la facture. | *11* |
-| Currency | Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez si elle correspond à votre première facture. Vérifiez à nouveau après toute mise à jour de la plateforme de facturation majeure. | *0,35* |
-| CustomerName | Nom de l’organisation du client, tel qu’indiqué dans l’espace partenaires. *Champ très important pour rapprocher la facture de vos informations système.* | *Tester un client A* |
+| Symbole monétaire | Type de devise. Chaque entité de facturation n’a qu’une devise. Vérifiez si elle correspond à votre première facture. Vérifiez à nouveau après toute mise à jour de la plateforme de facturation majeure. | *0,35* |
+| CustomerName | Nom de l’organisation du client comme indiqué dans l’espace Partenaires. *Champ très important pour rapprocher la facture de vos informations système.* | *Tester un client A* |
 | MPNID | Identificateur MPN du partenaire CSP. Consultez [Comment dénombrer par partenaire](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | ResellerMPNID | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. Consultez [Comment dénombrer par partenaire](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | DomainName | Nom de domaine du client. Ce champ peut rester vide jusqu'au deuxième cycle de facturation. *N’utilisez pas ce champ comme identificateur unique pour le client. Le client/partenaire peut mettre à jour le personnel ou le domaine par défaut par le biais du portail Office 365.* | *example.onmicrosoft.com* |

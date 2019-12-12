@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation, ponctuelle, périodique, achats, frais, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389687"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005038"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturation ponctuelle et frais récurrents
 
+**S’applique à**
 - Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Administration de facturation
+-   Agent d’administration
+-   Commercial
 
 Cette rubrique décrit l’expérience de facturation pour **une période unique et sélectionne des frais périodiques** pour les produits Microsoft et des éditeurs de logiciels indépendants tiers. 
 
@@ -51,6 +59,6 @@ La **devise de facturation** correspond à la devise du pays ou de la région o�
 
 L' **activité de facturation** actuelle est *disponible* pour ces types de frais. Vous pouvez vérifier le solde et la facturation de votre compte à tout moment dans l’espace partenaires. Notez que le montant final de votre facture peut être différent de ce que vous pouvez voir sur votre compte pendant la période de facturation. Cela est dû au fait que votre facture inclut les taxes et tous les autres frais et crédits applicables.
 
-## <a name="common-billing-scenarios"></a>Exemples de facturation courants
+## <a name="common-billing-scenarios"></a>Scénarios de facturation courants
 
 Pour obtenir des explications détaillées sur les scénarios de facturation courants pour ces types de frais, consultez [scénarios de facturation courants pour les achats ponctuels et périodiques](common-billing-scenarios-onetime-recurring.md).

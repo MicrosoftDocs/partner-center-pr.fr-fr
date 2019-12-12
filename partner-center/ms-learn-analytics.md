@@ -8,14 +8,18 @@ description: Suivez les enseignements de votre entreprise en tirant parti des do
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943532"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005106"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Rapport d’analyse de Microsoft Learn
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur partenaire MPN
 
 Le rapport Microsoft Learn fournit des informations sur les apprenants dans votre entreprise, notamment sur les modules qu’ils ont terminés et sur les parcours d’apprentissage sur lesquels ils se trouvent. Le rapport affiche l’état de chaque apprenant. L’administrateur général et l’administrateur MPN de votre entreprise peuvent afficher les données.
 

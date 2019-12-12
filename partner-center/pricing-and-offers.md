@@ -9,18 +9,26 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e037f9e417da65ddd3d34fcdc7198807164906f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654137"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004948"
 ---
 # <a name="pricing-and-offers"></a>Tarification et offres
 
 **S’applique à**
 
 -  Espace partenaires
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Administrateur partenaire MPN
+-   Commercial
+-   Administration de facturation
 
 Pour afficher les dernières listes de prix et offres du programme Fournisseur de solutions Cloud, accédez à **Vendre > Tarification et offres**. Vous trouverez des listes de prix distinctes pour les services basés sur les licences, notamment Office 365, Microsoft Dynamics CRM, et Enterprise Mobility Suite et pour les services basés sur l’utilisation, comprenant Microsoft Azure. 
 
@@ -58,7 +66,7 @@ Les changements de prix sont des événements fréquents. Les partenaires peuven
 |Basé sur une licence|Office, Dynamics, Intune, Windows entreprise|30 jours|Répertorier les modifications de prix marquées CHNG dans les listes de prix en version préliminaire|
 |Basé sur l’utilisation|Ressources Azure|Non disponible|Journal des modifications disponible dans l’onglet **historique des modifications** de la liste de prix du mois précédent|
 |Logiciels||Non disponible|Comparer les listes de prix manuellement du mois au mois|
-|Effectuées|Machines virtuelles, prépayé|Non disponible|Comparer les listes de prix manuellement du mois au mois|
+|Réservations|Machines virtuelles, prépayé|Non disponible|Comparer les listes de prix manuellement du mois au mois|
 
 Les prix basés sur l’utilisation peuvent changer au cours d’un mois. Pour obtenir la tarification quotidienne « actuelle » pour ces ressources Azure, les partenaires doivent appeler l’API RateCard. 
 
@@ -69,10 +77,10 @@ Les prix basés sur l’utilisation peuvent changer au cours d’un mois. Pour o
 
 Le fournisseur CSP offre des services à des segments de marché spéciaux, par exemple, l’éducation, le non-bénéfice et le Cloud de la communauté gouvernementale. Tous les services ne sont pas disponibles dans tous les canaux. Aucun segment n’a pour valeur par défaut ce que nous appelons le segment « commercial ». Toutes les tarifs basés sur les licences sont disponibles dans la liste des prix basés sur des licences sur la page tarification et offres. La tarification d’Azure gov est disponible dans la liste de prix basée sur l’utilisation lors de la connexion au locataire CSP activé pour Azure gov.
 
-|**Partie**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
+|**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Éducation|Partenaire et client|Oui|Basée sur une licence uniquement|
-|À but non lucratif|Client|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
+|ONG|Client|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure gov|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure gov|Ressources Azure|
 

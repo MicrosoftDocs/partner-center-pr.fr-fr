@@ -8,14 +8,20 @@ description: Passez en revue les informations utiles et les questions fréquemme
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8d0e540282b3e683233c188f9258683809af510e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943262"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004858"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparez-vous à passer du centre d’appartenance partenaire (PMC) à l’espace partenaires
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Commercial
+-   Agent d’administration
 
 Nous allons déplacer la gestion des appartenances du Partner Membership Center (PMC) vers l’espace partenaires. il s’agit de la seule destination pour gérer votre relation commerciale avec Microsoft. Nous souhaitons que votre migration vers le centre partenaires soit aussi efficace et facile que possible. Nous avons identifié certains domaines dans lesquels l’espace partenaires diffère du PMC, et nous pensons que vous souhaiterez les comprendre et les préparer avant d’effectuer le déplacement.
 

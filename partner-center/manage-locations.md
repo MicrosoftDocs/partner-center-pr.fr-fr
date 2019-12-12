@@ -9,14 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: compte de partenaire, emplacements
 ms.localizationpriority: medium
-ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943502"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004698"
 ---
 # <a name="manage-your-partner-account-locations"></a>Gérer votre compte de partenaire : emplacements
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Administration de facturation
+-   Agent d’administration
+-   Commercial
 
 Les ID MPN d’emplacement identifient chaque emplacement spécifique de votre entreprise. Vous utilisez l’ID MPN d’emplacement pour vous inscrire aux programmes d’incentives, aux entreprises du fournisseur de solutions Cloud (CSP), pour ajouter de nouveaux abonnements et d’autres transactions commerciales. L’ID MPN de l’entreprise est utilisé pour les activités non transactionnelles telles que les demandes de support.
 

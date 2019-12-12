@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Centre d’administration des partenaires, administrateur Office 365, fonctionnalités du Centre d’administration des partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943562"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004228"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passage du Centre d’administration des partenaires à l’Espace partenaires
 
-S'applique à :
+**S’applique à**
 - Espace partenaires
 - Centre d’administration des partenaires
+
+**Rôles appropriés**
+-   Administrateur global
 
 L’Espace partenaires évolue pour devenir le seul endroit où vous allez gérer votre partenariat avec Microsoft et vos clients. Dans l’Espace partenaires, vous pouvez gérer l’adhésion, les références de clients, les primes incitatives et tous les autres aspects du programme Fournisseur de solutions Cloud. Vous allez également pouvoir effectuer la plupart des tâches du Centre d’administration des partenaires dans l’Espace partenaires, bien que certaines fonctionnalités ou actions fonctionnent différemment. 
 

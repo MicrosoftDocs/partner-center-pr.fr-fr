@@ -11,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943522"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005078"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion du non-paiement, des fraudes ou de la mauvaise utilisation dans l’espace partenaires
 
@@ -24,6 +24,12 @@ S'applique à :
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Administration de facturation
 
 Vous êtes financièrement responsable des achats frauduleux effectués par vos clients et/ou du défaut de paiement des services achetés par des clients. Par conséquent, *nous vous recommandons vivement de mettre en place les contrôles d’atténuation des risques de prévention et de détection des fraudes*.
 

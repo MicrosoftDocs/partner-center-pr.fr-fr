@@ -8,14 +8,20 @@ description: En tant que fournisseur indirect, ou distributeur, Découvrez comme
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253678"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004538"
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenir partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Commercial
 
 Dans un marché des technologies aux évolutions aussi rapides et complexes, les clients veulent profiter de l'avantage concurrentiel que les solutions technologiques peuvent leur offrir. Dans ce contexte, il est judicieux que les partenaires s'investissent dans des relations avec d'autres partenaires afin d'étendre les offres et de permettre aux clients d'être encore plus productifs.
 
@@ -81,7 +87,7 @@ Pour les abonnements existants, si vous décidez d’utiliser un revendeur indir
 
 - Dans la page Détails de l’abonnement, dans le champ **revendeur (ID MPN)** , ajoutez le revendeur que vous souhaitez utiliser. Cela garantit que le revendeur recevra les incentives appropriés.
 
-| **Pour ce faire** | **Procédez comme suit** | **Cela** |
+| **Pour ce faire** | **Faites cela** | **Où** |
 |   ------------------   |   -------   |   -----   |
 | Permettre au revendeur de gérer le compte d’un client et disposer des autorisations d’administrateur pour gérer ses abonnements | Associer un revendeur à un compte client lorsque vous ajoutez un nouveau client | Dans la page **Nouveau client** |
 |Permettre au revendeur de gérer un compte client Azure|Associer un revendeur à un compte client Azure lorsque vous ajoutez un nouveau client|Sur le **Portail de service Azure**, sélectionnez [Paramètres utilisateur](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour attribuer au revendeur indirect des autorisations **propriétaire locataire**|
@@ -170,7 +176,7 @@ Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau
 
 7.  Sélectionnez **Envoyer** une fois terminé. 
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Articles associés
 
 Pour en savoir plus sur la gestion des comptes client et des abonnements, voir :
 

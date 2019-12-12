@@ -7,19 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturation, paiements, licence basée sur une licence
 ms.localizationpriority: medium
-ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389827"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004918"
 ---
 # <a name="license-based-billing"></a>Facturation basée sur la licence
 
-S’applique à :
+**S’applique à**
 
 - Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Administration de facturation
+-   Agent d’administration
 
 Lorsque vous achetez des produits ou des services en ligne dans l’espace partenaires qui nécessitent des **licences**, vous êtes facturé *pour chaque licence* que vous achetez. Vous *n’êtes pas facturé* par l’utilisation de ces licences. (Pour plus d’informations sur la facturation basée sur l’utilisation et d’autres types de facturation, consultez [types de facturation dans l’espace partenaires](billing-different-types.md).)
 
@@ -31,7 +37,7 @@ Vous pouvez choisir d’être facturé pour les licences une fois par mois (**fa
 
 Les abonnements basés sur une licence sont facturés à l’avance à la **date anniversaire**de l’abonnement. La date anniversaire est le jour du mois auquel vous avez acheté l’abonnement.
 
-Par exemple :
+Exemple :
 
 - Si vous avez acheté un **abonnement mensuel** le 15 janvier, la date anniversaire sera le 15 de chaque mois.
 - Si vous avez acheté un **abonnement annuel** le 15 janvier, la date anniversaire sera le 15 janvier de chaque année.
