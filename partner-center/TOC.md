@@ -21,6 +21,7 @@
 ## Avantages
 ### [Vue d’ensemble des avantages](manage-your-partner-network-benefits.md)
 ### [Avantages de la mise sur le marché](mpn-learn-about-go-to-market-benefits.md)
+## [Gérer les bonus de la Place de marché](marketplace-rewards.md)
 ## [Programmes Software Assurance](software-assurance-lp.md)
 ### [Bon de formation Software Assurance (SATV) de l’Espace partenaires](software-assurance-satv.md)
 ### [Utilisez l’outil de validation et d’échange de bons de l’Espace partenaires pour valider, réserver et échanger des bons](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [Restaurer un compte Espace partenaires suspendu](suspended-partner-center-account.md)
 ## [Créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md)
 ## [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
+## [Ajouter une application Azure AD](service-principal.md)
 ## [Associer votre compte Microsoft Learn à l'Espace Partenaires](ms-learn-associate.md)
 ## [Vérifier la propriété de votre domaine](become-global-admin.md)
 ## [Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)
