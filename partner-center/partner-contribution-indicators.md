@@ -1,97 +1,87 @@
 ---
-title: Indicateurs de contribution des partenaires | Espace partenaires
+title: Insights de l’espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 12/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Voyez exactement ce que vous êtes bien et où vous pouvez améliorer en ce qui concerne Dynamics 365 engagement client ou Dynamics 365 Finance and Operations
+description: Voyez exactement ce que vous êtes en train de faire et où vous pouvez améliorer les ventes et le déploiement, ainsi que le développement client
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: Indicateurs de contribution des partenaires, niveau de performance, réussite du client, mesures, Dynamics 365
+keywords: PCI, performances, succès des clients, mesures,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
+ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004358"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "75033495"
 ---
-# <a name="partner-contribution-indicators"></a>Indicateurs de contribution des partenaires
+# <a name="partner-center-insights"></a>Insights de l’espace partenaires
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
+- Administrateur global
+- Administrateur des comptes
+- Visionneuse de rapports Executive
+- Visionneuse de rapports
 
-Les indicateurs de contribution partenaires (PCI) fournissent une mesure holistique de l’impact d’un partenaire sur la réussite des résultats des clients pour Dynamics 365. Les partenaires bénéficient d’une plus grande différenciation sur le marché lorsqu’ils atteignent et maintiennent le Cloud Business Applications compétence.  Les partenaires bénéficient d’un crédit pour les mesures clés de la réussite des clients, telles que les déploiements réussis et l’utilisation accrue, et sont récompensés pour continuer à investir dans et faire évoluer leurs capacités techniques. 
+Insights est un tableau de bord de rapports unifiés de l’espace partenaires pour les partenaires commerciaux de Microsoft inscrits au programme Microsoft Partner Network (MPN). Le tableau de bord Insights fournit une vue 360 de vos indicateurs de performance clés (KPI) sur des produits Cloud tels que Office, Azure, Dynamics et des modèles de licence tels que CSP et EA. Il expose un ensemble complet de rapports d’indicateurs de performance clés qui peuvent vous aider à prendre des décisions pilotées par les données pour votre organisation. 
 
-## <a name="scoring"></a>Notation
+## <a name="roles-based-access-control-to-the-insights-dashboard"></a>Contrôle d’accès basé sur les rôles au tableau de bord Insights
 
-PCI offre une vue holistique et sophistiquée des capacités techniques de votre entreprise, de la capacité à stimuler la réussite des clients et des performances des ventes. PCI mesure les performances de l’année précédente de votre entreprise sur sept indicateurs clés :
+Il existe deux nouveaux rôles dans l’espace partenaires, conçus spécifiquement pour accéder à Insights-visionneuse de rapports et visionneuse de rapports Executive.  Les utilisateurs du rôle de la visionneuse de rapports exécutifs ont accès à tous les jeux de données de rapports, tandis que les utilisateurs du rôle visionneuse de rapports n’ont pas accès aux jeux de données sensibles tels que les données personnelles des clients et des employés. 
 
-1. **Net New revenu** — net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365.
-2. **Ajouts au client net** : clients nets acquis pour Dynamics 365 sur tous les canaux de vente.
-3. **Consultants fonctionnels** : nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365.
-4. **Croissance du consultant fonctionnel** : croissance du nombre de consultants fonctionnels associés depuis le 31 mars 2020.
-5. **Développeurs** : nombre d’individus titulaires d’une certification de développeur actuellement active pour Dynamics 365.
-6. **Nouveaux déploiements à grande échelle** : nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois.
-7. **Croissance mensuelle** des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois.
+L’administrateur général ou l’administrateur de compte peut attribuer ces rôles aux utilisateurs et les affecter à la totalité de l’entreprise ou à un emplacement MPN spécifique.  
 
-Des points sont accordés pour chaque indicateur atteint, ce qui aboutit à un score PCI à un seul numéro. 100 points au maximum sont possibles. Le score PCI détermine l’éligibilité des compétences :
+>[!Note] 
+>Les utilisateurs qui étaient des administrateurs MPN à partir du 2 décembre 2019 ont été automatiquement ajoutés au rôle visionneuse de rapports à l’ensemble de l’entreprise. Ils peuvent accéder aux rapports en tant que visionneuse de rapports sans aucune action explicite requise par l’administrateur général ou l’administrateur de compte. Les administrateurs généraux ou l’administrateur de compte peuvent remplacer ces attributions si nécessaire. 
 
-![Scores PCI](images/pcinew1.png)
+## <a name="reports-available"></a>Rapports disponibles
 
-Chaque indicateur fait apparaître un score qui est ajouté au total. Voici les scores maximaux pour chaque indicateur :
+Les rapports suivants sont disponibles dans le tableau de bord Insights.
 
+**Vue d’ensemble**    Le rapport vue d’ensemble présente une vue instantanée des différents indicateurs de performance clés qui vous intéressent, tels que le nombre de clients, le nombre d’abonnements actifs, le chiffre d’affaires de la consommation Azure, les licences actives, etc.
 
-![performances PCI 2](images/pci1.png)
+**Client** Le rapport client présente des analyses autour de vos clients, telles que les données d’acquisition client, les clients actifs, etc. 
 
-### <a name="thresholds"></a>Seuils
+**Produits-abonnements**     Le rapport d’abonnements présente les analyses d’acquisition et d’utilisation de vos abonnements Cloud (par exemple, O365, Azure, Dynamics, etc.). 
 
-Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter un nombre maximal de points à votre entreprise. Ces seuils diffèrent pour Customer Engagement et Finance and Operations. Les seuils diffèrent également pour les partenaires qui opèrent sur les marchés développés par rapport à ceux qui opèrent exclusivement sur les marchés émergents. Si un partenaire a un ou plusieurs clients sur un marché développé, les seuils du marché développé s’appliquent. La catégorisation de marché développée ou émergente d’un pays est basée sur les [définitions de Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+**Produits-licences**   Le tableau de bord licences présente l’analytique des licences pour les produits Cloud basés sur des licences, tels que O365, Dynamics, Power BI etc.
 
-Les points de chaque mesure sont comptabilisés pour produire un score PCI distinct pour l’engagement client et les opérations de & finance qui seront mises à jour tous les mois.
+**Produit-utilisation d’Azure**   Le rapport d’utilisation Azure présente les métriques relatives aux abonnements Azure de vos clients, notamment les revenus de la consommation Azure et l’utilisation par catégories de compteurs.
 
-Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Des points partiels peuvent être gagnés pour toutes les métriques, à l’exception de la croissance du consultant fonctionnel. Par exemple, un partenaire de marché développé avec 150 000 USD de nouveau revenu net gagne la moitié (150 000 USD/300 000 USD) des 10 points de valeur maximale.
+**Compétences**    Le rapport compétences présente des mesures sur vos compétences actives, qualifiées et à risque.
 
-![engagement client](images/pci/table_1.png)
+**Avantages**    Les rapports avantages présentent des analyses sur les avantages des partenaires que vous avez gagnés et consommés.
 
-![Finance](images/pci/TABLE_2.png)
-
-![conseillers](images/pci/table_3.png)
-
-## <a name="detailed-definitions-of-pci-metrics"></a>Définitions détaillées des métriques PCI
-
-![nouveau revenu net](images/net_new1.png)
-
-![ajouts au client net](images/netcustomer.png)
-
-![Consultant fonctionnel](images/pci/functional_consultants.png)
-
-![growth](images/pci/functional_consultant_growth.png)
-
-![Développeurs](images/pci/developers.png)
-
-![Nouveaux déploiements](images/pci/new_large_deployments.png)
-
-![utilisateurs actifs](images/pci/monthly_active_user_growth.png)
+## <a name="navigating-the-insights-reports"></a>Navigation dans les rapports Insights 
 
 
-## <a name="customer-to-partner-association"></a>Association entre client et partenaire
+**Filtres de plage de dates**: vous pouvez trouver une sélection de plage de dates dans l’angle supérieur droit de chaque page. La sortie des graphiques de la page vue d’ensemble peut être personnalisée en sélectionnant une plage de dates basée sur les 3, 6 ou 12 mois précédents, ou en sélectionnant une plage de dates personnalisée. La sélection de la plage de dates par défaut est de 12 mois. 
 
-Vous recevez un crédit pour les nouveaux revenus nets, les ajouts de clients nets, de nouveaux déploiements à grande échelle et la croissance mensuelle des utilisateurs actifs pour un client donné, dans les limites de la définition de la métrique, uniquement si vous êtes fournisseur de solutions Cloud (CSP), le partenaire de revendication d’enregistrement (CPOR), ou partenaire numérique de l’enregistrement (DPOR) pour un abonnement payant appartenant au locataire du client.
 
-Un partenaire devient le CPOR s’il a établi une association avec un client au niveau de l’abonnement via l’incentive Dynamics 365 [Online solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou Dynamics 365 [Online Services usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) Incentive.
+**Bouton commentaires**: chaque graphique/contrôle de tous les rapports Insights est incorporé avec un bouton commentaires pour vous permettre de fournir des commentaires sur une fonctionnalité de rapport. 
 
-Un partenaire devient le DPOR s’il est associé à un client au niveau de l’abonnement au sein du produit.
+ 
+**Filtres au niveau**de la page : à l’exception des rapports vue d’ensemble, avantages et compétences, tous les rapports Insights vous permettent d’appliquer des filtres au niveau de la page. 
 
-Quand il existe un même CPOR et DPOR pour un abonnement donné, celui-ci reçoit l’ensemble des crédits correspondant aux métriques PCI associées à l’abonnement.
+- Les filtres sélectionnés s’appliquent à tous les graphiques et métriques d’une page, y compris la section Résumé. Un élément de filtre sera disponible si vous avez des données dans ce critère de filtre. 
 
-## <a name="how-to-read-the-charts"></a>Comment lire les graphiques
+- La sélection par défaut de chaque liste de filtres est **tout**. Par exemple, si vous n’avez pas sélectionné un produit spécifique dans le filtre produits, la sélection par défaut est tous les produits.
 
-![Comment lire le graphique](images/pci2.png)
+- Les filtres sélectionnés s’affichent en haut de la page. 
+
+ ### <a name="filters-definition"></a>Définition des filtres :
+
+- Produits : liste de tous les produits Microsoft Cloud vendus/gérés par votre organisation, par exemple, O365, Azure, D365, EMS, PowerBI, etc.
+- Marchés des clients : liste des pays clients
+- Attributions de partenaires : votre type d’association avec les abonnements de vos clients, par exemple, le partenaire numérique de l’enregistrement (DPOR), le privilège d’administrateur délégué (DAP), le lien d’administrateur partenaire (PAL), etc. 
+- Emplacements des partenaires : liste de tous les emplacements MPN de votre organisation. 
+- Canaux de vente : tout le canal de vente/la tarification par le biais de laquelle vous achetez/approvisionnez des produits et services, à savoir CSP, EA, CSP indirect, direct, conseiller, ouvrir, etc.
+- Segments de clientèle : liste des segments de clientèle dans la base de clients partenaires.
+
+
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 
