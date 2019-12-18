@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 146ed2d79c2b98dca6e08f9cf56dbb150e981535
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943302"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004978"
 ---
 # <a name="partner-security-requirements"></a>Exigences de sécurité du partenaire
 
@@ -26,6 +26,13 @@ ms.locfileid: "74943302"
   - Revendeur indirect
 - Tous les fournisseurs de panneau de contrôle
 - Tous les conseillers
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Administration de facturation
+-   Administrateur partenaire MPN
 
 L’amélioration de la sécurité et de la protection de la confidentialité fait partie de nos premières priorités. Nous savons que la meilleure défense est la prévention et que nous ne sommes pas plus solides que notre maillon le plus faible. C’est pourquoi nous avons besoin que tous les membres de notre écosystème puissent agir et vérifier que les protections de sécurité appropriées sont en place. Pour aider à protéger les partenaires et les clients, nous proposons un ensemble d’exigences de sécurité obligatoires pour les conseillers, les fournisseurs de panneau de contrôle et les partenaires participant au programme Fournisseur de solutions Cloud.
 

@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renouveler MAPS, renouveler action pack, obtenir action pack
 ms.localizationpriority: high
-ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943342"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005099"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Premier achat ou renouvellement d’un abonnement Microsoft Action Pack ou des compétences de niveau Silver ou Gold
 
@@ -22,6 +22,13 @@ ms.locfileid: "74943342"
 
 -  Espace partenaires
 -  Partner Membership Center
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Administrateur partenaire MPN
+-   Agent d’administration
+-   Commercial
 
 Désormais, dans le [tableau de bord](https://docs.microsoft.com/partner-center/) de l’Espace partenaires, vous pouvez acheter ou renouveler vos offres d’avantages, notamment l’abonnement Microsoft Action Pack et les compétences de niveau Silver et Gold. 
 

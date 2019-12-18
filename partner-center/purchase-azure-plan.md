@@ -9,14 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943272"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004938"
 ---
 # <a name="purchase-the-azure-plan"></a>Acheter le plan Azure
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Commercial
 
 Quand vous achetez un plan Azure pour vos clients liés dans le cadre du Contrat client Microsoft, vous avez accès à l’ensemble du catalogue des services Azure les plus récents au tarif du paiement à l’utilisation. Les partenaires Fournisseur de solutions Cloud (CSP) peuvent alors accéder à n’importe quel service Azure dès lors qu’il est mis à la disposition générale. Un partenaire peut avoir plusieurs abonnements Azure dans un plan Azure. 
 

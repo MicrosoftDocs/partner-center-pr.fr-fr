@@ -9,15 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, adhésion silver, adhésion gold, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau, spécialisations avancées
 ms.localizationpriority: high
-ms.openlocfilehash: 508480f2c9e1e67b939885bf31fafdd09e3aabc7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253669"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004808"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informations sur les compétences de niveau Silver et Gold et les spécialisations avancées Microsoft
 
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
 
 Mettez en évidence votre expertise éprouvée en solutions de qualité dans un ou plusieurs domaines d’activités spécialisés. Les compétences Microsoft visent à vous préparer à répondre aux besoins de vos clients et à contribuer à attirer de nouveaux clients en quête de fournisseurs de solutions Microsoft certifiés. Rejoignez le niveau élite des partenaires Microsoft et démarquez-vous de vos homologues.
 

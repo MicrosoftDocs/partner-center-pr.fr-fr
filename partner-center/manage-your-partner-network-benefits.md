@@ -9,18 +9,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, avantages en tant que membre, adhésion, membre
 ms.localizationpriority: high
-ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943592"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004528"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer vos avantages en tant que membre du Microsoft Partner Network
 
 **S’applique à**
 
 -  Espace partenaires
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Administrateur partenaire MPN
 
 >[!IMPORTANT]
 >Cet article explique comment commencer à bénéficier de vos avantages en tant que membre du Microsoft Partner Network (MPN) dans l’Espace partenaires (ce site). Si vous n’avez pas encore reçu d’invitation à transférer les informations de votre entreprise du Partner Membership Center (PMC) à l’Espace partenaires, vous devez continuer à gérer vos avantages en tant que membre du MPN dans le PMC. [Connectez-vous](https://partner.microsoft.com/_login?authType=OpenIdConnect) au PMC maintenant.

@@ -9,14 +9,21 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: caab446047745a63dc2116c25b24be2dcade3584
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943062"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004238"
 ---
 # <a name="partner-earned-credit---overview"></a>Crédit Partenaires – vue d’ensemble
+
+**Rôles appropriés**
+-   Administrateur global
+-   Administrateur des utilisateurs
+-   Agent d’administration
+-   Administration de facturation
+-   Commercial
 
 Dans la nouvelle expérience utilisateur commerciale du programme Fournisseur de solutions Cloud, le crédit Partenaires est un modèle métier qui permet d’appliquer une tarification Azure uniforme simplifiée à l’ensemble des véhicules de commercialisation de Microsoft, tout en soutenant un écosystème de partenaires qui fournit des services managés à valeur ajoutée. Le crédit Partenaires favorise également l’élimination de toute concurrence sur les marges. 
 
