@@ -10,18 +10,18 @@ ms.author: evansma
 keywords: Fournisseur de solutions Cloud, CSP, services Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels, annuler le logiciel
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185624"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190240"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
 
 **S’applique à**
 
-- Fournisseurs de solutions cloud
+- Fournisseurs de solutions Cloud
 
 **Rôles appropriés**
 
@@ -55,13 +55,13 @@ Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos lice
 > | Bouvet (Île)     | Jan Mayen     | São Tomé et Príncipe   |
 > | Territoires britanniques de l’océan Indien       | Jersey     | Seychelles   |
 > | Îles Vierges britanniques     | Kiribati       | Sierra Leone   |
-> | Burkina-Faso     | République du Kosovo     | Saint-Eustache     |
+> | Burkina-Faso     | Kosovo     | Saint-Eustache     |
 > | Burundi     | Laos     | Saint-Martin (Royaume des Pays-Bas)     |
 > | Cambodge     | Lesotho     | Salomon (îles)     |
 > | République centrafricaine     | Liberia     | Somalie     |
 > | Tchad     | Madagascar     | Géorgie du Sud et Sandwich du Sud (îles)     |
 > | Chine     | Malawi     | Soudan du Sud     |
-> | Christmas (île)     | Maldives     | Sainte-Hélène, Ascension et Tristan da Cunha     |
+> | Christmas (île)     | Maldives     | Sainte-Hélène, ascension, Tristan da Cunha     |
 > | Cocos-Keeling (îles)     | Mali     | Surinam     |
 > | Comores (Les)     | Marshall (îles)     | Svalbard     |
 > | République démocratique du Congo     | Martinique     | Swaziland     |
@@ -140,7 +140,7 @@ Vous pouvez annuler un achat de logiciel dans un délai de 60 jours à compter d
 Suivez les étapes ci-dessous pour annuler un achat :
 
 >[!NOTE]
->Vous devez être Agent d'administration pour pouvoir annuler un achat. Les étapes suivantes décrivent comment annuler un achat dans le tableau de bord de l’espace partenaires. Vous pouvez également effectuer cette opération à l’aide de l' [API espace partenaires](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox).
+>Vous devez être Agent d'administration pour pouvoir annuler un achat. Les étapes suivantes décrivent comment annuler un achat dans le tableau de bord de l’espace partenaires. Vous pouvez également effectuer cette opération à l’aide de l' [API espace partenaires](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
 
 1. Avant de commencer le processus d’annulation, vérifiez que vous disposez des éléments suivants :
 
