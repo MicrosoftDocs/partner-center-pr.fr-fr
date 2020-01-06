@@ -169,6 +169,7 @@
 ## [Obtenir et analyser vos données métier](data-analysis-lp.md)
 ## [Application d’analytique partenaire pour Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Insights de l’Espace partenaires](partner-contribution-indicators.md)
+## [Indicateurs des contributions de partenaires](pci-updated.md)
 ## [Obtenir des données sur l’utilisation des abonnements Azure de vos clients](analyze-azure-usage.md)
 ## [Analyser les performances des revendeurs indirects](analyze-indirect-resellers.md)
 ## [Analyser les abonnements et les licences](analyze-subscriptions-licenses.md)
