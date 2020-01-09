@@ -9,12 +9,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 24102a7c299db534422e031ee9504dc48cf923cb
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 5479829dc73c8c45eb6db66b95f481bbddee2efa
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722453"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631805"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendre aux secteurs spécialisés
 
@@ -34,7 +34,7 @@ Microsoft consent des tarifs préférentiels à certains clients, parmi lesquels
 
 |**Tarification spéciale**   |**Compétences requises du revendeur**   |**Qualifications requises par le client**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Éducation   |Devenir un [Revendeur Éducation agréé](https://www.mepn.com).   | Doit être un [Utilisateur Éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Éducation   |Aucun(e)   | Doit être un [Utilisateur Éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
 |Gouvernement   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur la licence au gouvernement, aucune compétence n'est requise.|   Aucun(e)|
 |Activité à but non lucratif  |Aucun(e)<br>Doit avoir un locataire Azure Active Directory à but non lucratif.<br>En savoir plus sur les [offres spéciales pour organisations à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |S’inscrire via le [Programme à but non lucratif Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
 

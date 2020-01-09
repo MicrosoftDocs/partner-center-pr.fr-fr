@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004948"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631822"
 ---
 # <a name="pricing-and-offers"></a>Tarification et offres
 
@@ -79,7 +79,7 @@ Le fournisseur CSP offre des services à des segments de marché spéciaux, par 
 
 |**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Éducation|Partenaire et client|Oui|Basée sur une licence uniquement|
+|Éducation|Client|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
 |ONG|Client|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure gov|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure gov|Ressources Azure|
