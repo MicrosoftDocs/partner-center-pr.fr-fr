@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005008"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75636990"
 ---
 # <a name="partner-security-requirements-status"></a>Statut des exigences de sécurité des partenaires
 
@@ -27,10 +27,10 @@ ms.locfileid: "75005008"
 - Tous les conseillers
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Agent d’administration
--   Administration de facturation
+-   Administrateur de la facturation
 -   Administrateur partenaire MPN
 
 L’amélioration de la sécurité et de la protection de la confidentialité fait partie de nos premières priorités. Nous savons que la meilleure défense est la prévention et que nous ne sommes pas plus solides que notre maillon le plus faible. C’est pourquoi nous avons besoin que tous les membres de notre écosystème puissent agir et s’assurer qu’ils disposent des protections de sécurité appropriées. Pour aider à protéger les partenaires et les clients, nous proposons un ensemble d’exigences de sécurité obligatoires pour les conseillers, les fournisseurs de panneau de contrôle et les partenaires participant au programme Fournisseur de solutions Cloud.
@@ -50,13 +50,22 @@ Ce rapport peut vous aider à vérifier le statut des exigences de sécurité en
 >[!NOTE]
 >Le rapport sur le statut des exigences de sécurité des partenaires est pris en charge uniquement dans l’Espace partenaires. Il n’est pas disponible dans Microsoft Cloud for US Government ni Microsoft Cloud Allemagne. Nous recommandons vivement que tous les partenaires qui effectuent des transactions par le biais d’un cloud souverain (21Vianet, US Government et Allemagne) adoptent immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas tenus de satisfaire aux nouvelles exigences de sécurité à compter du 1er août 2019. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
 
-Chaque fois que vos employés se connectent à l’Espace partenaires pour travailler ou, par le biais d’API, recevoir ou envoyer des données via l’Espace partenaires, leur statut de sécurité est testé et suivi. Vos applications et les applications de tout fournisseur de panneau de contrôle sont également incluses dans le suivi du statut de sécurité. Le statut affiché correspond aux 7 derniers jours.
-
 ## <a name="multi-factor-authentication-mfa-report"></a>Rapport d’authentification multifacteur (« MFA »)
 
-Le rapport MFA de l’Espace partenaires donne des éclaircissements sur l’implémentation de l’authentification multifacteur des partenaires en fournissant deux métriques basées sur les activités dans l’Espace partenaires :
+Le rapport MFA de l’Espace partenaires donne des éclaircissements sur l’implémentation de MFA des partenaires en fournissant deux métriques basées sur la configuration MFA et les activités dans l’Espace partenaires du locataire CSP : 
 
-**Vérification MFA effectuée par les utilisateurs**
+### <a name="mfa-configuration-on-a-csp-tenant"></a>Configuration MFA sur un locataire CSP
+
+Cette métrique est liée à la configuration MFA sur un locataire CSP qui a effectué des captures et des rapports tous les jours. Elle mesure le pourcentage de comptes d’utilisateur activés avec MFA appliqué en utilisant l’une de ces [options MFA](https://aka.ms/partner-mfa-get-started). Par exemple :
+
+- Contoso est un partenaire CSP avec 110 comptes d’utilisateur dans le locataire, dont 10 sont désactivés. 
+- Sur les 100 comptes d’utilisateur restants, 90 ont MFA appliqué en utilisant les [options MFA](https://aka.ms/partner-mfa-get-started) fournies. Par conséquent, la métrique affiche 90 %. 
+
+### <a name="partner-center-activities-with-mfa"></a>Activités dans l’Espace partenaires avec MFA
+
+Chaque fois que vos employés se connectent à l’Espace partenaires pour travailler ou, par le biais d’API, recevoir ou envoyer des données via l’Espace partenaires, leur statut de sécurité est testé et suivi. Vos applications et les applications de tout fournisseur de panneau de contrôle sont également incluses dans le suivi du statut de sécurité. Le statut affiché correspond aux 7 derniers jours.
+
+#### <a name="mfa-verification-completed-by-users"></a>Vérification MFA effectuée par les utilisateurs
 
 Cette métrique est liée aux activités figurant dans le tableau de bord de l’Espace partenaires. Elle mesure le pourcentage des opérations effectuées par les utilisateurs qui ont effectué la vérification MFA. Par exemple :
 
@@ -67,7 +76,7 @@ Cette métrique est liée aux activités figurant dans le tableau de bord de l�
 - Aucune opération n’a été effectuée par ces agents les 4 jours restants.
 - Parmi les 10 opérations effectuées dans cette fenêtre de 7 jours, 2 ont été effectuées par un utilisateur avec la vérification MFA. Par conséquent, la métrique affiche 20 %.
 
-**Authentification Application+Utilisateur**
+#### <a name="appuser-authentication"></a>Authentification Application+Utilisateur
 
 Cette métrique est liée à l’utilisation des demandes d’API de l’Espace partenaires effectuées à l’aide de l’authentification Application+Utilisateur. Elle mesure le pourcentage de demandes d’API effectuées en utilisant un jeton d’accès avec la revendication MFA. Par exemple :
 

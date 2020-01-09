@@ -10,16 +10,16 @@ ms.author: labrenne
 Keywords: Azure, plan Azure, principal de service, application Azure AD
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 1fe4211879df2063f7b865c249870c49a346f518
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010380"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716890"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Ajouter une application Azure AD (principal de service) dans l’Espace partenaires
 
-Dans le programme Place de marché commerciale de l’Espace partenaires, vous pouvez désormais ajouter une application Azure AD (principal de service) en tant qu’utilisateur de votre client Azure AD. (Avant, vous pouviez le faire dans votre compte Portail Cloud Partner, mais maintenant que vous avez migré vers l’Espace partenaires, ce compte est en lecture seule.) Notez que principal de service et application Azure AD sont synonymes.
+Dans le programme Place de marché commerciale de l’Espace partenaires, vous pouvez désormais ajouter une application Azure AD (principal de service) en tant qu’utilisateur dans votre compte Espace partenaires. (Avant, vous pouviez le faire dans votre compte Portail Cloud Partner, mais maintenant que vous avez migré vers l’Espace partenaires, ce compte est en lecture seule.) Notez que principal de service et application Azure AD sont synonymes.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Ajouter une application Azure AD (principal de service)
 
@@ -30,8 +30,9 @@ Dans le programme Place de marché commerciale de l’Espace partenaires, vous p
 3. Sélectionnez une application Azure AD existante ou créez-en une.
 
 4. Si vous créez une nouvelle application Azure AD, incluez les informations suivantes :  
+
   
-**Nom** : Semblable au champ « nom convivial » dans le Portail Cloud Partner.
+
 
 **URL de réponse** : URL avec laquelle les utilisateurs peuvent se connecter pour utiliser votre application Azure AD. 
 
@@ -39,4 +40,4 @@ Dans le programme Place de marché commerciale de l’Espace partenaires, vous p
 
 **Rôles de sécurité** : Les rôles **Responsable** (identique au rôle « Propriétaire » dans le Portail Cloud Partner) et **Développeur** (identique au rôle « Contributeur » dans le Portail Cloud Partner) s’appliquent au programme Place de marché commerciale dans l’Espace partenaires et peuvent être associés à cette application Azure AD.  
 
-Lorsque vous sélectionnez **Enregistrer** pour créer cela dans l’Espace partenaires, les informations sont également synchronisées avec le système du Portail Cloud Partner.  
+  
