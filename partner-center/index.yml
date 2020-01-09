@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 12/09/2019
-  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
-  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
+  ms.date: 01/07/2020
+  ms.openlocfilehash: 67ef0323742dcf32950559adbb86cd899f2589e5
+  ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 12/16/2019
-  ms.locfileid: "75033515"
+  ms.lasthandoff: 01/07/2020
+  ms.locfileid: "75717354"
 highlightedContent:
   items:
   - title: Connectez-vous pour voir les dernières annonces
@@ -32,9 +32,9 @@ highlightedContent:
   - title: Vue d’ensemble de la Place de marché commerciale
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
-  - title: Authentification multifacteur et bonnes pratiques de sécurité
+  - title: Insights de l’Espace partenaires
     itemType: overview
-    url: partner-security-requirements.md
+    url: partner-center-insights.md
   - title: Nouvelle expérience commerciale dans l’Espace partenaires – Plan Azure
     itemType: whats-new
     url: azure-plan-get-started.md
@@ -48,10 +48,10 @@ conceptualContent:
       text: Créer un compte Espace partenaires
     - url: manage-locations.md
       itemType: how-to-guide
-      text: Gérer vos emplacements
-    - url: azure-active-directory-tenants-and-partner-center.md
+      text: Gérer les sites de votre entreprise
+    - url: marketplace-rewards.md
       itemType: how-to-guide
-      text: Gérer votre locataire
+      text: Gérer les bonus de la Place de marché
     footerLink:
       url: partner-center-account-setup.md
       text: Voir plus
@@ -65,11 +65,11 @@ conceptualContent:
       text: Gérer les licences client
     - url: see-your-customer-list.md
       itemType: how-to-guide
-      text: Afficher la liste de vos clients
+      text: Consulter la liste de vos clients
     footerLink:
       url: customer-accounts.md
       text: Voir plus
-  - title: Faire croître votre entreprise
+  - title: Développer votre entreprise
     links:
     - url: referrals.md
       itemType: how-to-guide
@@ -87,7 +87,7 @@ conceptualContent:
     links:
     - url: billing-basics.md
       itemType: how-to-guide
-      text: Notions de base de facturation
+      text: Notions de base de la facturation
     - url: read-your-bill.md
       itemType: how-to-guide
       text: Lire votre facture
@@ -118,7 +118,7 @@ conceptualContent:
       text: Fournir un support aux clients
     - url: check-service-health.md
       itemType: how-to-guide
-      text: Vérifier l’état du service
+      text: Vérifier l’intégrité du service
     - url: report-problems-with-partner-center.md
       itemType: how-to-guide
       text: Signaler des problèmes de l’Espace partenaires
