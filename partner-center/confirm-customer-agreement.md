@@ -1,7 +1,7 @@
 ---
 title: Confirmer l’acceptation du contrat client Microsoft par le client | Espace partenaires
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment confirmer l’acceptation du client par le contrat de la clientèle de Microsoft. Cela peut être nécessaire pour commander les produits et services Microsoft pour les clients.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat Microsoft Cloud, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: medium
-ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
+ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721367"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "75752573"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmer l’acceptation du client du contrat de client Microsoft
 
@@ -55,7 +55,7 @@ Les partenaires peuvent utiliser l’API/le kit de développement logiciel (SDK)
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Confirmer l’acceptation du client dans l'Espace partenaires
-Les partenaires peuvent confirmer l’acceptation par le client de l’accord de client Microsoft dans l’espace partenaires pour les nouveaux clients et les clients existants.
+Les partenaires peuvent confirmer l’acceptation par le client de l’accord de client Microsoft dans l’espace partenaires pour les nouveaux clients et les clients existants. Les revendeurs ne peuvent pas attester au nom de leurs clients et doivent travailler avec leur fournisseur indirect pour que l’attestation soit terminée.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Confirmer l’acceptation par les nouveaux clients
 
