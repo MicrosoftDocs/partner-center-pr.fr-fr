@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: offres de la place de marché, support marketing, récompenses, avantages du serveur de publication
 ms.localizationpriority: medium
-ms.openlocfilehash: 576401337337693f69987e620fc852dce837ad2e
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
+ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010400"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75717334"
 ---
 # <a name="manage-marketplace-rewards"></a>Gérer les récompenses de la place de marché
 
@@ -40,11 +40,11 @@ Le bénéfice des récompenses de la place de marché est calculé en fonction d
 
 Ensuite, effectuez les actions suivantes :
 
-a. Sélectionnez un utilisateur dans la liste. Si l’utilisateur que vous souhaitez attribuer ne figure pas dans la liste, vous pouvez ajouter de nouveaux utilisateurs dans les paramètres du compte.
+  - Sélectionnez un utilisateur dans la liste. Si l’utilisateur que vous souhaitez attribuer ne figure pas dans la liste, vous pouvez ajouter de nouveaux utilisateurs dans les paramètres du compte.
 
-b. Indiquez une adresse e-mail utilisateur différente de celle associée au compte Espace partenaires de votre entreprise. Nous vous enverrons par courrier électronique des instructions pour l’utilisation de vos récompenses de la place de marché pour l’adresse e-mail de votre contact marketing désigné.
+  - Indiquez une adresse e-mail utilisateur différente de celle associée au compte Espace partenaires de votre entreprise. Nous vous enverrons par courrier électronique des instructions pour l’utilisation de vos récompenses de la place de marché pour l’adresse e-mail de votre contact marketing désigné.
 
-c. Indiquez le numéro de téléphone et la langue par défaut du contact marketing. Une fois ces informations entrées, sélectionnez **Affecter l’utilisateur**.
+  - Indiquez le numéro de téléphone et la langue par défaut du contact marketing. Une fois ces informations entrées, sélectionnez **Affecter l’utilisateur**.
 
 4. Une fois que vous avez mis à jour le contact marketing, sélectionnez **activer** pour l’avantage que vous souhaitez commencer à utiliser. Une fois que vous avez activé un avantage, votre contact marketing est contacté par un membre de l’équipe récompenses dans une semaine.
 

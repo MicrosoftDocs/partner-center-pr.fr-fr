@@ -1,25 +1,31 @@
 ---
 title: Types de frais de fichier de réconciliation | Espace partenaires
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 01/06/2020
 description: Types de frais (basés sur une licence, basés sur l’utilisation et exceptionnels), crédits et remises sur les fichiers de rapprochement de l’espace partenaires.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 064ed6dda28f5a8ace64942d55ef2a6327528ff5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b18a2a7d53e2f9d35baac2412c1710c21d6d98eb
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389807"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716870"
 ---
 # <a name="understand-charge-types"></a>Présentation des types de frais
 
-S’applique à :
+**S’applique à**
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administration de facturation
+- Administrateur global
 
 Cette rubrique décrit les mappages entre une section de facture et les types de frais associés qui peuvent se trouver dans votre fichier de rapprochement. Votre facture fournit un résumé des frais. Votre fichier de réconciliation fournit une répartition détaillée des transactions d’éléments de ligne, y compris les types de frais. Pour plus d’informations sur les fichiers de rapprochement, voir [How to use Reconciliation Files](use-the-reconciliation-files.md).
 
@@ -40,9 +46,12 @@ Pour mapper ces frais basés sur des licences à votre facture, faites la somme 
 | ------------------------------------------------------------- | ------------------ |
 | Frais d’activation | Montant facturé au client lorsqu’il utilise l’abonnement après l’achat. |
 | Frais d’annulation | Frais au prorata remboursés au client lors de la modification des sièges associés. |
+| Instance d'annulation au prorata | Frais au prorata annulés lorsque l’abonnement du client avec abonnement mensuel est suspendu et que les sièges associés ont été modifiés au cours du même mois. |
 | Frais de cycle | Frais périodiques pour un abonnement. |
 | Instance de cycle au prorata | Frais au prorata calculés par le client lors de la modification des sièges associés. |
 | Frais au prorata en cas d'annulation | Remboursement calculé au prorata pour la partie inutilisée du service lors de l’annulation. |
+| Frais liés au prorata en cas de conversion hors de l’offre actuelle | Frais facturés au prorata après la conversion de l’abonnement mensuel actuel en abonnement annuel. |
+| Frais liés au prorata lors de la conversion vers une nouvelle offre | Frais au prorata après conversion d’un abonnement mensuel en nouvel abonnement annuel. |
 | Frais au prorata à l’achat | Type de frais d’un abonnement lors de l’utilisation de la facturation annuelle. |
 | Frais d’abonnement | Type de frais d’un abonnement lors de l’utilisation de la facturation mensuelle. |
 | Frais au prorata lors du renouvellement | Frais au prorata lors du renouvellement de l’abonnement. |
@@ -58,7 +67,7 @@ Pour mapper ces frais à la fois sur votre facture, faites la somme de la colonn
 | Nouveau | Utilisé lors de la création d’un nouvel achat. |
 | addQuantity | Utilisé dans le remboursement de l’achat d’origine et la nouvelle quantité après une augmentation. |
 | removeQuantity | Utilisé dans le remboursement de l’achat d’origine et la nouvelle quantité après une diminution. |
-| Cancel | Utilisé lors de l’annulation d’un abonnement. |
+| Annuler | Utilisé lors de l’annulation d’un abonnement. |
 | Convertir | Utilisé lors de la mise à niveau d’une licence, mais le nombre de sièges reste inchangé. |
 
 ## <a name="usage-charges"></a>Frais d’utilisation
@@ -67,8 +76,8 @@ Pour mapper ces frais d’utilisation à votre facture, faites la somme de la co
 
 | Description des frais (colonne ChargeType dans le fichier de rapprochement) | Explication des frais |
 | ------------------------------------------------------------- | ------------------ |
-| Évaluer les frais d’utilisation lors de l'annulation | Frais d’utilisation de l’accès en cas d’annulation pour une utilisation sans paiement durant la période de facturation actuelle. |
-| Évaluer les frais d’utilisation pour le cycle actuel | Frais d’utilisation de l’accès pour la période de facturation actuelle. |
+| Évaluer les frais d’utilisation lors de l'annulation | Frais d’utilisation de l’accès en cas d’annulation pour utilisation impayée au cours de la période de facturation actuelle. |
+| Évaluer les frais d’utilisation pour le cycle actuel | Frais d’utilisation de l’accès pour la période de facturation en cours. |
 
 ### <a name="credits"></a>Crédits
 
@@ -79,7 +88,7 @@ Pour mapper ces crédits à votre facture :
 
 | Description des frais (colonne ChargeType dans le fichier de rapprochement) | Explication des frais |
 | ------------------------------------------------------------- | ------------------ |
-| Décalage d’un élément de ligne | Remboursement partiel ou entier à un article de ligne, y compris les taxes. |
+| Décalage d’un élément de ligne | Remboursement partiel ou entier sur un élément de ligne, y compris les taxes. |
 
 ### <a name="usage-based-discounts"></a>Remises basées sur l’utilisation
 
