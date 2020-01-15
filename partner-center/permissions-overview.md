@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: rôles, autorisations, administration, agent
 ms.localizationpriority: high
-ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004128"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776500"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles et des autorisations aux utilisateurs
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Administrateur partenaire MPN
 
@@ -36,7 +36,7 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 
 |**Rôle**|**Ce qu’il peut faire**|
 |----------------------------------|:---------------------------------|
-|Administrateur global|• Accéder à tous les comptes/services Microsoft avec des privilèges complets
+|Administrateur général|• Accéder à tous les comptes/services Microsoft avec des privilèges complets
 |      |• Créer des tickets de support pour l’Espace partenaires
 ||• Afficher les contrats, les listes de prix et les offres
 ||• Afficher, créer et gérer les utilisateurs partenaires|
@@ -44,7 +44,7 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 |Administrateur de la gestion des utilisateurs   | • Afficher, créer et gérer des utilisateurs
 ||• Afficher tous les profils de partenaire
 ||• Afficher, créer et gérer les utilisateurs partenaires  |
-|Administration de facturation | • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|
+|Administrateur de la facturation | • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|
 |Utilisateur par défaut|  • Afficher son profil   |
 |Agent d’administration | • Gestion des clients
 ||• Ajouter une liste d’appareils à l’Espace partenaires
@@ -56,7 +56,7 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||• Facturation
 ||• Administrer au nom d’un client
 ||• Inscrire un revendeur à valeur ajoutée|
-|Commercial | • Gestion des clients
+|Agent commercial | • Gestion des clients
 ||• Ajouter une liste d’appareils à l’Espace partenaires
 ||• Gestion des abonnements
 ||• Afficher les tickets de support
@@ -75,7 +75,7 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 
 |**Rôle**   |**Ce qu’il peut faire**|
 |------------------------------|:----------------------------|
-|Administrateur global| Voir et gérer votre profil de CPV|
+|Administrateur général| Voir et gérer votre profil de CPV|
 ||Voir et gérer vos utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV|
 
 ### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utilisateur invité (doit être ajouté au locataire AAD)
@@ -135,6 +135,13 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 ||• Afficher et lancer des revendications de primes incitatives
 ||• Afficher les remises et les revenus de coopération
 ||• Accéder au support
+
+## <a name="view-partner-center-insights-data"></a>Consulter les données des insights de l’Espace partenaires
+
+|**Rôle** | **Ce qu’il peut faire**|
+|------------------------------|:-------------------------|
+|Visionneuse de rapports de la direction|Accéder à tous les jeux de données de rapport|
+|Visionneuse de rapports|Accéder aux rapports de données, à l’exception des revenus et des données personnelles des clients et des employés|
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Gérer votre compte Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 01/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gérez le profil, le catalogue, les informations bancaires et fiscales, les rôles et les autorisations de votre entreprise dans l’Espace partenaires.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005018"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757202"
 ---
 # <a name="manage-your-partner-center-account"></a>Gérer votre compte Espace partenaires
 
@@ -24,7 +24,7 @@ ms.locfileid: "75005018"
 -  Espace partenaires
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Agent d’administration
 
@@ -45,9 +45,11 @@ Vous ou votre administrateur devez aussi créer un compte d’utilisateur pour c
 |Examiner les autorisations de chaque rôle|[Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
 |Gérer les emplacements de votre entreprise|[Gérer votre compte partenaire : Emplacements](manage-locations.md)
 |Réinitialiser un mot de passe oublié par un employé  |[Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)|
-|Veiller à promouvoir votre entreprise afin que les clients puissent vous trouver   |[Créer un profil commercial](create-a-marketing-profile.md)|
+|S’abonner à l’Espace partenaires en tant que fournisseur de panneau de configuration|[S’abonner à l’Espace partenaires en tant que fournisseur de panneau de configuration](enroll-as-cpv.md)|
+|Associer votre compte Microsoft Learn dans l’Espace partenaires|[Associer votre compte Microsoft Learn dans l’Espace partenaires](ms-learn-associate.md)|
+|Veiller à promouvoir votre entreprise afin que les clients puissent vous trouver   |[Créer un profil professionnel](create-a-marketing-profile.md)|
 |Organiser votre catalogue de telle sorte que les produits les plus importants se trouvent en haut de la liste   |[Personnaliser le catalogue](customize-the-catalog.md)|
-|Se tenir informé des tarifs et offres en cours   |[Tarification et offres](pricing-and-offers.md)|
+|Se tenir informé des tarifs et offres en cours   |[Tarifs et offres](pricing-and-offers.md)|
 
 
 
