@@ -1,7 +1,7 @@
 ---
 title: Gérer les récompenses de la place de marché | Espace partenaires
 ms.topic: article
-ms.date: 12/11/2019
+ms.date: 01/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Les partenaires qui publient des offres sur la place de marché commerciale peuvent bénéficier d’avantages qui proposent un support marketing.
@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: offres de la place de marché, support marketing, récompenses, avantages du serveur de publication
 ms.localizationpriority: medium
-ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
-ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
+ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
+ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75717334"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "75942901"
 ---
 # <a name="manage-marketplace-rewards"></a>Gérer les récompenses de la place de marché
 
@@ -53,4 +53,23 @@ Ensuite, effectuez les actions suivantes :
 1. Vous pouvez utiliser votre avantage technique pour demander une assistance technique pendant les phases de prévente, de conception, de déploiement et de développement d’applications de vos solutions de Cloud et hybrides. Pour demander de l’aide, renseignez le formulaire de demande, puis sélectionnez **Envoyer la demande**.
 
 2. L’utilisation des avantages du parrainage Azure sera partagée via un e-mail à mesure que vous déverrouillerez ces avantages. 
+
+## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Pourquoi ne puis-je pas voir le programme marché des récompenses commerciales sur mon tableau de bord ?
+
+Les informations sur les récompenses de la place de marché sont disponibles via le locataire Azure AD et l’ID MPN qui ont été utilisés pour créer votre compte espace partenaires. Ce compte est appelé le compte global principal (PGA) de votre entreprise. Si votre locataire AAD est différent de celui utilisé pour l’intégration d’MPN, vous devez l’associer au PGA de votre entreprise pour que vous puissiez voir le menu du marché des récompenses commerciales. 
+
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Pour associer un locataire Azure AD à l’PGA de votre entreprise
+
+1. En tant qu’administrateur général ou administrateur de compte, connectez-vous à PGA dans l’espace partenaires.
+
+2. Sélectionnez **paramètres** (en haut à droite), **paramètres de partenaire**, **locataires**. 
+
+3. Sélectionnez **associer un autre Azure ad locataire** et sélectionnez le client Azure ad que vous souhaitez associer au PGA.
+
+4. Ajoutez le nom d’utilisateur et le mot de passe de tous les utilisateurs du locataire Azure AD que vous souhaitez associer, puis sélectionnez **Envoyer**.
+
+5. Déconnectez-vous de l’espace partenaires, puis connectez-vous à l’aide du nom d’utilisateur et du mot de passe du locataire que vous venez de associer au PGA.
+
+6. Vous pouvez maintenant voir les informations du programme de la place de marché avantages commerciaux dans le menu de navigation de gauche.
+
 
