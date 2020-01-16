@@ -1,18 +1,18 @@
 ---
 title: Fichiers de réconciliation basés sur l’utilisation | Espace partenaires
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Tous les éléments de votre fichier de réconciliation basé sur l’utilisation sont expliqués, avec des exemples.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757222"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021744"
 ---
 # <a name="usage-based-file-fields"></a>Champs des fichiers basés sur l’utilisation
 
@@ -34,7 +34,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 | PartnerBillableAccountId | Identificateur du compte du partenaire. | *1010578050* |
 | CustomerCompanyName | Nom de l’organisation du client comme indiqué dans l’espace Partenaires. *Très important pour rapprocher la facture de vos informations système.* | *Tester le client* |
 | MpnId | Identificateur MPN du partenaire CSP. | *4390934* |
-| ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. Non disponible pour l’activité en cours. |
+| ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement.  |
 | InvoiceNumber | Le numéro de la facture dans laquelle la transaction spécifiée apparaît. | *D020001IVK* |
 | ChargeStartDate | Date de début du cycle de facturation, sauf en cas de dates de données d’utilisation latente non facturées précédemment (du cycle de facturation précédent). L’heure indique toujours le début de la journée, 0:00. | *2/1/2019 0:00* |
 | ChargeEndDate | Date de fin du cycle de facturation, sauf en cas de dates de données d’utilisation latente non facturées précédemment (du cycle de facturation précédent). L’heure indique toujours la fin de la journée, 23:59. | *2/28/2019 23:59* |

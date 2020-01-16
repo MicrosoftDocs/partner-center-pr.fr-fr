@@ -1,18 +1,18 @@
 ---
 title: Fichiers de rapprochement d’utilisation évalués quotidiennement | Espace partenaires
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02a6b708ff0d5f1cc000c82caacbef0174e0ef3d
-ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
+ms.openlocfilehash: a9c7f328cf1a10b4a23aeb775524d5931bdbb703
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75776480"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021725"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>Fichiers de rapprochement d’utilisation évalués quotidiennement
 
@@ -38,18 +38,18 @@ Cette rubrique explique comment lire les fichiers de réconciliation d’utilisa
 | PartnerName | Nom du partenaire. |
 | CustomerId | Identificateur Microsoft unique du client au format GUID. |
 | CustomerName | Nom de l’entreprise du client comme indiqué dans l’Espace partenaires. *Cette colonne est très importante pour rapprocher la facture de vos informations système.* |
-| CustomerDomainName | Nom de domaine du client. Non disponible pour l’activité en cours. |
+| CustomerDomainName | Nom de domaine du client. |
 | CustomerCountry | Le pays dans lequel se trouve le client. |
 | MpnId | Identificateur MPN du partenaire CSP. |
-| Tier2MpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. Non disponible pour l’activité en cours. |
-| InvoiceNumber | Le numéro de la facture dans laquelle la transaction spécifiée apparaît. Non disponible pour l’activité en cours. |
+| Tier2MpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. |
+| InvoiceNumber | Le numéro de la facture dans laquelle la transaction spécifiée apparaît. |
 | ProductId | Identificateur du produit. |
 | SkuId | Identificateur d’une référence (SKU) particulière. |
 | AvailabilityId | Identificateur pour la disponibilité d’une référence (SKU) particulière. Cela indique si la référence (SKU) est disponible à l’achat dans le pays, la devise, le secteur d’activité, etc. |
 | SkuName | Le titre d'une référence spécifique. |
 | ProductName | Le nom du produit. |
 | PublisherName | Nom de l'éditeur. |
-| PublisherId | Identificateur du serveur de publication au format GUID. Non disponible pour l’activité en cours. |
+| PublisherId | Identificateur du serveur de publication au format GUID. |
 | SubscriptionDescription | Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix. (Il s’agit d’un champ identique à **OfferName**). |
 | SubscriptionId | Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. Non utilisé pour le rapprochement. *Cet identificateur n’est pas le même que l' **ID d’abonnement** dans la console d’administration partenaire.* |
 | ChargeStartDate | Date de début du cycle de facturation (sauf lors de la présentation de dates de données d’utilisation latentes précédemment non facturées du cycle de facturation précédent). L’heure indique toujours le début de la journée, 0:00. |
@@ -64,12 +64,12 @@ Cette rubrique explique comment lire les fichiers de réconciliation d’utilisa
 | Unit | Unité du **nom**de la ressource. |
 | ResourceLocation | Centre de données dans lequel le compteur est en cours d’exécution. |
 | ConsumedService | Service de plateforme Azure que vous avez utilisé. |
-| ResourceGroup | Représente un conteneur qui contient les ressources associées pour une solution Azure, |
+| ResourceGroup | Représente un conteneur qui contient les ressources associées pour une solution Azure. |
 | ResourceURI | URI de la ressource en cours d’utilisation. |
-| ChargeType | Le type de frais ou d’ajustement. Non disponible pour l’activité en cours. |
+| ChargeType | Le type de frais ou d’ajustement.  |
 | UnitPrice | Prix par licence, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
 | Quantité | Nombre de licences. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
-| Unité | Type d’unité dans lequel le compteur est facturé. Non disponible pour l’activité en cours. |
+| Unité | Type d’unité dans lequel le compteur est facturé.  |
 | BillingPreTaxTotal | Montant total de la facturation avant taxes. |
 | BillingCurrency | Devise dans la région géographique du client. |
 | PricingPreTaxTotal | La tarification avant les taxes est ajoutée. |

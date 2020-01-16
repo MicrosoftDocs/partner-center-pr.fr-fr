@@ -1,18 +1,18 @@
 ---
 title: Fichiers de réconciliation basés sur une licence | Espace partenaires
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Comprendre les fichiers de réconciliation basés sur les licences dans l’espace partenaires.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757182"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021734"
 ---
 # <a name="license-based-reconciliation-files"></a>Fichiers de rapprochement basés sur les licences
 
@@ -37,7 +37,7 @@ Pour rapprocher vos modifications des commandes d’un client, comparez le **Syn
 | CustomerId | Identificateur Microsoft unique du client au format GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
 | CustomerName | Nom de l’organisation du client comme indiqué dans l’espace Partenaires. *Champ très important pour rapprocher la facture de vos informations système.* | *Tester un client A* |
 | MpnId | Identificateur MPN du partenaire CSP. Consultez [Comment dénombrer par partenaire](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. Non disponible pour l’activité en cours. |
+| ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement.  |
 | OrderId | Identificateur unique pour une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la commande lorsque vous contactez le support technique. Non utilisé pour le rapprochement. | *566890604832738111* |
 | SubscriptionId | Identificateur unique pour un abonnement dans la plateforme de facturation Microsoft. Peut être utile pour identifier l’abonnement lorsque vous contactez le support technique. Non utilisé pour le rapprochement. *Cette valeur n’est pas la même que l' **ID d’abonnement** dans la console d’administration partenaire. Veuillez consulter **SyndicationPartnerSubscriptionNumber** à la place.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | Identificateur unique des abonnements. Un client peut avoir plusieurs abonnements pour le même plan. Cette colonne est importante pour l’analyse des fichiers de réconciliation. Ce champ correspond à l' **ID d’abonnement** dans la console d’administration du partenaire. | *fb977ab5-test-Test-test-24c8d9591708* |
