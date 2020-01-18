@@ -10,14 +10,14 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: offres de la place de marché, support marketing, récompenses, avantages du serveur de publication
 ms.localizationpriority: medium
-ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
-ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
+ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75942901"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171201"
 ---
-# <a name="manage-marketplace-rewards"></a>Gérer les récompenses de la place de marché
+# <a name="manage-marketplace-rewards"></a>Gérer les bonus de la Place de marché
 
 Rôles appropriés :
 
@@ -56,7 +56,7 @@ Ensuite, effectuez les actions suivantes :
 
 ## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Pourquoi ne puis-je pas voir le programme marché des récompenses commerciales sur mon tableau de bord ?
 
-Les informations sur les récompenses de la place de marché sont disponibles via le locataire Azure AD et l’ID MPN qui ont été utilisés pour créer votre compte espace partenaires. Ce compte est appelé le compte global principal (PGA) de votre entreprise. Si votre locataire AAD est différent de celui utilisé pour l’intégration d’MPN, vous devez l’associer au PGA de votre entreprise pour que vous puissiez voir le menu du marché des récompenses commerciales. 
+Les informations sur les récompenses de la place de marché sont disponibles via le locataire Azure AD et l’ID MPN qui ont été utilisés pour créer votre compte espace partenaires. Ce compte est appelé le compte global du partenaire (PGA) de votre entreprise. Si votre locataire AAD est différent de celui utilisé pour l’intégration d’MPN, vous devez l’associer au PGA de votre entreprise pour que vous puissiez voir le menu du marché des récompenses commerciales. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Pour associer un locataire Azure AD à l’PGA de votre entreprise
 

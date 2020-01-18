@@ -1,20 +1,20 @@
 ---
 title: Guide de migration de plusieurs entreprises du Partner Membership Center vers l’Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ce que vous devez savoir lorsque vous migrez vos multiples sociétés de PMC vers l’espace partenaires et que vous les Consolidez dans un compte global principal.
+description: Ce que vous devez savoir lorsque vous migrez vos multiples sociétés de PMC vers l’espace partenaires et que vous les Consolidez dans un compte global partenaire.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 574b0fc08984f12d5bfc869c52dcc8ef56417af7
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004688"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171216"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Migration de plusieurs entreprises vers l’Espace partenaires
 
@@ -24,7 +24,7 @@ ms.locfileid: "75004688"
 -   Agent d’administration
 -   Commercial
 
-Lorsque vous migrez votre compte d’entreprise du Partner Membership Center vers l’Espace partenaires, vous pouvez déplacer plusieurs comptes. Dans l’Espace partenaires, ces comptes sont consolidés en un seul compte global (PGA). Le premier compte que vous déplacez est considéré comme le compte global principal et tous les comptes suivants sont consolidés dans le premier compte en tant qu’emplacements. Lancez la migration avec le compte Partner Membership Center pour le siège social de votre entreprise. Pour plus d’informations , consultez le [Guide de migration du Partner Membership Center vers l’Espace partenaires](guide-to-migration.md) ou regardez cette courte vidéo sur les [comptes incluant plusieurs emplacements](https://vimeo.com/290335248).
+Lorsque vous migrez votre compte d’entreprise du Partner Membership Center vers l’Espace partenaires, vous pouvez déplacer plusieurs comptes. Dans l’Espace partenaires, ces comptes sont consolidés en un seul compte global (PGA). Le premier compte que vous déplacez sera considéré comme le compte global partenaire et tous les comptes suivants seront consolidés dans le premier compte en tant qu’emplacement. Lancez la migration avec le compte Partner Membership Center pour le siège social de votre entreprise. Pour plus d’informations , consultez le [Guide de migration du Partner Membership Center vers l’Espace partenaires](guide-to-migration.md) ou regardez cette courte vidéo sur les [comptes incluant plusieurs emplacements](https://vimeo.com/290335248).
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Déplacer vos comptes supplémentaires dans l’Espace partenaires 
 
