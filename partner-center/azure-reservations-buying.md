@@ -80,7 +80,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | République centrafricaine     | Liberia     | Somalie     |
 > | Tchad     | Madagascar     | Géorgie du Sud et Sandwich du Sud (îles)     |
 > | Chine     | Malawi     | Soudan du Sud     |
-> | Christmas (île)     | Maldives     | Sainte-Hélène, ascension, Tristan da Cunha     |
+> | Christmas (île)     | Maldives     | Sainte-Hélène, Ascension et Tristan da Cunha     |
 > | Cocos-Keeling (îles)     | Mali     | Surinam     |
 > | Comores (Les)     | Marshall (îles)     | Svalbard     |
 > | République démocratique du Congo     | Martinique     | Swaziland     |
