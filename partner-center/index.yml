@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Documentation sur l’Espace partenaires
-summary: L’Espace partenaires vous aide à développer votre activité avec Microsoft Partner Network (MPN), le programme CSP (Cloud Solution Provider) et plus encore.
+summary: L’Espace partenaires est l’endroit où développer votre activité avec Microsoft Partner Network (MPN), le programme CSP (Cloud Solution Provider) et plus encore.
 brand: windows
 metadata:
   title: Documentation sur l’Espace partenaires
-  description: L’Espace partenaires vous aide à développer votre activité avec Microsoft Partner Network (MPN), le programme CSP (Cloud Solution Provider) et plus encore.
+  description: L’Espace partenaires est l’endroit où développer votre activité avec Microsoft Partner Network (MPN), le programme CSP (Cloud Solution Provider) et plus encore.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
   ms.topic: hub-page
@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 01/07/2020
-  ms.openlocfilehash: 1eeb71d01af72c4ecd76e632e68ce4739fdbf5cd
-  ms.sourcegitcommit: 7de04911b790c603625ed51cc6f8ec80ebefae2d
+  ms.openlocfilehash: b167e61908b30dff2c9531810d465411cd8089d8
+  ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 01/23/2020
-  ms.locfileid: "76549644"
+  ms.lasthandoff: 01/24/2020
+  ms.locfileid: "76723426"
 highlightedContent:
   items:
   - title: Connectez-vous pour voir les dernières annonces
@@ -29,9 +29,12 @@ highlightedContent:
   - title: Rejoindre le programme Utilisateur précoce API et SDK
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: Vue d’ensemble de la Place de marché commerciale
+  - title: Vendre des offres ISV
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
+  - title: Partenaires ISV - Créer et publier des offres sur la Place de marché, AppSource et le canal des revendeurs CSP
+    itemType: whats-new
+    url: https://docs.microsoft.com/en-us/azure/marketplace/
   - title: Insights de l’Espace partenaires
     itemType: overview
     url: partner-center-insights.md
