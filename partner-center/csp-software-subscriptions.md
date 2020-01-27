@@ -1,7 +1,7 @@
 ---
 title: Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 12/18/2019
+ms.date: 01/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’espace partenaires pour acheter, gérer, vendre et annuler des instances réservées et des abonnements serveur Azure pour les clients.
@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Fournisseur de solutions Cloud, CSP, services Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels, annuler le logiciel
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
-ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
+ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "75190240"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723436"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
 
@@ -61,7 +61,7 @@ Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos lice
 > | République centrafricaine     | Liberia     | Somalie     |
 > | Tchad     | Madagascar     | Géorgie du Sud et Sandwich du Sud (îles)     |
 > | Chine     | Malawi     | Soudan du Sud     |
-> | Christmas (île)     | Maldives     | Sainte-Hélène, Ascension et Tristan da Cunha     |
+> | Christmas (île)     | Maldives     | Sainte-Hélène, ascension, Tristan da Cunha     |
 > | Cocos-Keeling (îles)     | Mali     | Surinam     |
 > | Comores (Les)     | Marshall (îles)     | Svalbard     |
 > | République démocratique du Congo     | Martinique     | Swaziland     |
@@ -158,17 +158,19 @@ Suivez les étapes ci-dessous pour annuler un achat :
 
 5. Localisez l’achat de logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. Une boîte de dialogue s’affiche.
 
-6. Dans la liste déroulante numéro de commande, sélectionnez le numéro d’ID de commande correct que vous souhaitez annuler, puis sélectionnez **Envoyer**.
+6. Dans la liste déroulante numéro de commande, sélectionnez le numéro d’ID de commande correct que vous souhaitez annuler. (Vous pouvez obtenir plus d’informations sur une commande ou un numéro d’ID de commande à partir de la page **historique des commandes** du client.)
 
-7. Si vous souhaitez annuler plusieurs commandes pour un client, vous devrez réexécuter les étapes 4 à 6 pour chaque numéro d’identification de commande unique. (Vous pouvez obtenir plus d’informations sur une commande ou un numéro d’ID de commande à partir de la page **historique des commandes** du client.)
+7. Cochez la case pour confirmer que vous avez lu le message **important** concernant l’annulation. (Reportez-vous à la Remarque **importante** ci-dessous pour en savoir plus sur ce qui se passe après l’annulation d’un achat.)
 
-8. Lorsque vous essayez d’annuler une commande, l’espace partenaires peut également vous fournir d’autres informations (qui apparaissent sous la liste déroulante numéro de commande). Ces informations peuvent inclure :
+8. Sélectionnez **Envoyer** pour annuler votre achat. Si vous souhaitez annuler plusieurs commandes pour un client, vous devrez réexécuter les étapes 4 à 6 pour chaque numéro d’identification de commande unique.
 
-    - Le nombre de jours restants pour vous permettre d’annuler cette commande particulière
+Lorsque vous essayez d’annuler une commande, l’espace partenaires peut également vous fournir d’autres informations (qui apparaissent sous la liste déroulante numéro de commande). Ces informations peuvent inclure :
 
-    - Si vous avez déjà passé la fenêtre d’annulation et que vous ne pouvez plus annuler la commande
+* Le nombre de jours restants pour vous permettre d’annuler cette commande particulière
 
-    - Si nous avons besoin d’informations supplémentaires sur votre demande d’annulation, vous pouvez recevoir un lien vers un formulaire de **demande de support** technique.
+* Si vous avez déjà passé la fenêtre d’annulation et que vous ne pouvez plus annuler la commande
+
+* Si nous avons besoin d’informations supplémentaires sur votre demande d’annulation, vous pouvez recevoir un lien vers un formulaire de **demande de support** technique.
 
 >[!IMPORTANT]
 >Après l’annulation d’une commande, un message confirmant l’annulation s’affiche. Toutefois, il peut y avoir un délai allant jusqu’à 15 minutes avant que l’annulation apparaisse dans le tableau de bord de l’espace partenaires. Notez également les détails suivants, postérieurs à l’annulation.

@@ -1,36 +1,88 @@
 ---
-title: Afficher vos informations de paiement d’incentives | Espace partenaires
+title: Afficher vos paiements et programmes d’incentives | Espace partenaires
 ms.topic: article
-ms.date: 06/03/2019
+ms.date: 01/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Affichez les revenus et les paiements se rapportant aux programmes de primes incitatives. Cela comprend la page paiements, la page historique des transactions et l’état du paiement, ainsi que l’exportation des données.
+description: Affichez, gérez ou exportez les données relatives à l’état actuel des programmes d’incentives, aux bénéfices et aux paiements, y compris les revenus des incentives par programme et par lieu.
 author: LauraBrenner
 ms.author: labrenne
+keywords: incentives, versements, paiements, programme d’incentives, emplacements, statut du programme
 ms.localizationpriority: medium
-ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943182"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723466"
 ---
-# <a name="view-your-incentives-payments-information"></a>Afficher vos informations de paiement d’incentives
+# <a name="view-your-incentive-payments-and-programs"></a>Afficher vos paiements et programmes d’incentives
 
 **S’applique à**
 
 -  Espace partenaires
 
-Utilisez ces pages pour afficher les détails de vos paiements passés, en attente et à venir, ainsi que l’historique complet de vos transactions. Vous pouvez également télécharger ou exporter des informations détaillées pour toute transaction. Toutes les pages incentives affichent des montants en dollars américains. 
+**Rôles appropriés**
 
->[!Note]
+-  Administrateur d’incentives
+-  Utilisateur de primes incitatives 
+-  Visionneuse en lecture seule incitative
+-  Administrateur global
+-  Administrateur de partenaire MPN
+
+Utilisez ces pages pour afficher les détails de vos paiements et revenus passés, en suspens et à venir, l’état de vos programmes d’incentives dans chaque emplacement et l’historique complet de vos transactions. Vous pouvez également télécharger ou exporter des informations détaillées pour toute transaction. Toutes les pages incentives affichent des montants en dollars américains.
+
+>[!NOTE]
 >Vous verrez uniquement les données des ID et des programmes MPN auxquels vous êtes associé. Si vous souhaitez accéder à des données supplémentaires, contactez votre administrateur d’incentives. 
 
-
 ## <a name="access-the-incentives-pages"></a>Accéder aux pages incentives
-Pour ouvrir l’une des pages incentives :
-1. Sélectionnez l’icône **Money** dans le coin supérieur droit.
-2. Sélectionnez **paiements**, **historique des transactions**ou **exporter des données**.
+
+Vous pouvez accéder à des informations sur les incentives de plusieurs manières à partir du [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires :
+
+- Sélectionnez **incentives** dans le menu de gauche. Plusieurs options s’affichent sous **incentives**, y compris la **vue d’ensemble**. Explorez ces options pour connaître l’état des programmes d’incentives, des paiements d’incentives, des revenus et des réclamations.
+- Sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit. Vous pouvez ensuite sélectionner d’autres options, telles que **historique des transactions**, **paiements**, **exporter des données** ou **rapport commercial Office**.
+
+Les pages suivantes sont décrites ici :
+
+- Page de présentation de mes incentives
+- Page paiements
+- Page historique des transactions
+- Page exporter les données et autres, pages d’exportation associées
+
+>[!NOTE]
+>Pour plus d’informations sur les incentives et les incentives de l’espace partenaires, consultez [investissements et incentives](https://partner.microsoft.com/membership/partner-incentives) pour les partenaires (connexion requise).
+
+## <a name="my-incentives-overview-page"></a>Page de présentation de mes incentives
+
+La section **vue d’ensemble de mes incentives** affiche l’état général de vos programmes d’incentives, ainsi que l’état de chaque programme à chaque emplacement. Ces informations incluent le montant total des revenus et des paiements de l’incentive depuis que vous êtes inscrit dans des programmes d’incentives.
+
+Cette page contient également des bénéfices et des paiements par emplacement ou programme, ainsi que toute autre action que vous devrez peut-être effectuer pour vous inscrire à un programme à un emplacement spécifique.
+
+Pour accéder à **mes incentives, vue d’ensemble**:
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+2. Sélectionnez **incentives**, puis **vue d’ensemble** dans le menu.
+3. Affichez le résumé des bénéfices et des paiements en haut de la page, ainsi que des détails supplémentaires dans le tableau ci-dessous. Vous pouvez également trier, regrouper et développer la table qui l’accompagne :
+
+   - Pour trier par colonne, sélectionnez le nom de la colonne.
+   - Pour regrouper par programme, sélectionnez l’onglet **par programme** au-dessus du tableau.
+   - Pour regrouper par emplacement, sélectionnez l’onglet **par emplacement** au-dessus du tableau.
+   - Pour afficher plus de détails sur les inscriptions au sein d’un groupe spécifique, sélectionnez le symbole représentant un Chevron à la fin d’une ligne donnée. Cela développe votre vue.
+
+4. Si une action supplémentaire est requise pour l’inscription dans un programme, ces informations s’affichent dans la colonne **État** . Dans ce cas, sélectionnez le symbole représentant un Chevron pour en savoir plus sur les étapes à suivre.
+
+>[!NOTE]
+>Consultez le tableau suivant pour en savoir plus sur les différents États d’inscription présentés dans la colonne **État** .
+
+
+| **Statut**         | **S’affiche lorsque** |
+|:------------------------------------|:------------------|
+| Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
+| Supprimées  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
+| Inscrits  | Toutes les informations fiscales et bancaires ont été validées. Aucune autre action d’inscription n’est requise par le partenaire. |
+| Inactive  | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription.  |
+| Sollicit  | Une nouvelle invitation d’inscription au programme d’incentives a été envoyée au partenaire, mais le partenaire n’a pas encore démarré le processus d’inscription. La colonne adjacente **actions requises** affiche les étapes suivantes et les liens associés.  |
+| Validation de l’inscription  | Le partenaire a déjà effectué ou mis à jour des informations bancaires et fiscales pour une inscription nouvelle ou existante et attend que Microsoft valide ces informations. Pendant le processus de validation, la validation de l' **inscription** peut s’afficher pendant jusqu’à 48 heures.  |
 
 ## <a name="payments-page"></a>Page paiements
 Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous pouvez filtrer par ID participant, programme, ID paiement et type acquis. Les montants sont indiqués en dollars américains. La valeur payante est également affichée dans payer à la devise. 
@@ -54,21 +106,21 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 
 ## <a name="payment-status"></a>Statut du paiement
 
-|**État de l’obtention** |**Reason** |**Action de partenaire requise ?**       |
+|**État de l’obtention** |**Donc** |**Action de partenaire requise ?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Non traité        | Le bénéfice est éligible au paiement. Il reste dans cet État pour une période de refroidissement telle que définie dans le Guide du programme d’incentives.       |non        |
-|Prochainement      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |non       |
+|À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |non       |
 |Facture d’impôt en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir payer         |
 |Rejeté pendant la révision        |Le paiement a été rejeté pendant la révision.          |Contacter le support Microsoft pour plus d’informations         |
 |Failed        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
 |En cours     |Le paiement est en cours.         |non         |
 |Paiement incorrect        |Le remboursement est en cours.          |non        |
-|Envoyé        |Le paiement a été envoyé à votre banque.          |non       |
+|Échangé        |Le paiement a été envoyé à votre banque.          |non       |
 |Retraitement       |Le paiement a rencontré une erreur système Microsoft et est en cours de retraitement.           |non         |
 |Inversé        |Le paiement a été inversé par votre banque et sera renvoyé dans le prochain cycle de paiement.          |non        |
 |Facture de taxe rejetée       |Votre facture fiscale a été rejetée pendant la révision. Tous les paiements en attente seront en attente jusqu’à ce que la révision de la facture fiscale soit terminée.          |Contacter le support Microsoft pour plus d’informations         |
 |Facture fiscale en cours de révision        |Votre relevé de taxes est en cours de révision. Votre paiement est lancé une fois que la facture d’impôt a été approuvée.           |non        |
-|Rejetée        |Le paiement a été rejeté par votre banque.           |Pour plus d’informations, contactez votre banque.  |
+|Rejeté        |Le paiement a été rejeté par votre banque.           |Pour plus d’informations, contactez votre banque.  |
 
 ## <a name="export-data-page"></a>Page exporter des données
 Suivez les instructions de cette page pour exporter les données souhaitées. 
@@ -81,7 +133,7 @@ Suivez les instructions de cette page pour exporter les données souhaitées.
 ## <a name="payment-download-export"></a>Exportation du téléchargement de paiement
 Cette option permet de télécharger les paiements que vous avez reçus dans votre banque pour un programme donné, la taxe associée et le montant agrégé.
 
-|**Nom de colonne**   |**Description**   |
+|**Nom de la colonne**   |**Description**   |
 |------------------|:-------------------------------------|
 |participantID   |Identité principale du partenaire qui accumule le programme      |
 |participantIDType   |En général MPN pour les programmes d’incentives et l’ID de vendeur pour les programmes Store      |
@@ -103,7 +155,7 @@ Cette option permet de télécharger les paiements que vous avez reçus dans vot
 ## <a name="transaction-history-download-export"></a>Exportation du téléchargement de l’historique des transactions
 Cette option permet de télécharger chaque élément de la ligne en cours que vous voyez dans la page historique des transactions, le type en cours, la date, le montant de la transaction associée, le client, le produit et d’autres détails transactionnels applicables au programme d’incentives.
 
-|**Nom de colonne**   |**Description**   |
+|**Nom de la colonne**   |**Description**   |
 |------------------|:-------------------------------------|
 |earningId   |Identificateur unique pour chaque gain   |
 |participantID   |Identité principale du partenaire qui accumule le programme   |
@@ -130,12 +182,12 @@ Cette option permet de télécharger chaque élément de la ligne en cours que v
 |paymentStatus   |Statut du paiement   |
 |paymentStatusDescription   |Description conviviale de l’état du paiement   |
 |customerId   |Identificateur du client   |
-|customerName   |Nom de la transaction client   |
+|Souhaite   |Nom de la transaction client   |
 
 
 Outre le tableau ci-dessus, ces champs de l’historique des transactions sont disponibles pour le programme.
 
-|**Nom de colonne**   |**Description**   |
+|**Nom de la colonne**   |**Description**   |
 |------------------|:-------------------------------------|
 |partNumber   |Numéro de référence lié à la transaction. Terminologie Microsoft.   |
 |productName   |Nom de la famille de produits soulignés à la transaction   |
@@ -151,6 +203,6 @@ Outre le tableau ci-dessus, ces champs de l’historique des transactions sont d
 |agreementNumber   |Numéro de contrat   |
 |agreementStartDate   |Date de début de contrat   |
 |agreementEndDate   |Date de fin de contrat   |
-|charge de travail   |Charge de travail   |
+|utile   |Charge de travail   |
   
 

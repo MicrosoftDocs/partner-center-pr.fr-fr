@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: medium
-ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004988"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723486"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obligation de l’authentification multifacteur (MFA) pour votre locataire partenaire
 
@@ -26,12 +26,8 @@ ms.locfileid: "75004988"
   - Revendeur indirect
 - Tous les conseillers
 
-**Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
--   Administration de facturation
--   Administrateur partenaire MPN
+**Utilisateurs appropriés**
+-   Tous les utilisateurs activés, y compris les utilisateurs invités
 
 Ces partenaires doivent effectuer la vérification de l’authentification MFA pour les domaines suivants :
 
@@ -173,7 +169,7 @@ Avant d’appliquer une exception technique, consultez la liste des problèmes c
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problème 1 : le partenaire a besoin de plus de temps pour mettre en œuvre l’authentification multifacteur pour ses agents partenaires
 Un partenaire n’a pas démarré ou est toujours en train de mettre en œuvre l’authentification multifacteur pour ses agents partenaires qui nécessitent l’accès aux portails Microsoft Online Services à l’aide de privilèges d’administration délégués partenaires pour gérer les ressources client. Le partenaire a besoin de plus de temps pour effectuer l’implémentation de l’authentification MFA. S’agit-il d’une raison valable pour une exception technique ?
 
-**Réponse** : Non. Le partenaire doit faire en sorte de mettre en œuvre l’authentification MFA pour ses utilisateurs afin d’éviter toute interruption.
+**Réponse**: non. Le partenaire doit faire en sorte de mettre en œuvre l’authentification MFA pour ses utilisateurs afin d’éviter toute interruption.
 
 > [!NOTE]
 > Même si le partenaire n’a pas implémenté l’authentification multifacteur pour ses agents partenaires, les agents partenaires peuvent toujours accéder aux portails Microsoft Online Services à l’aide des privilèges d’administration déléguée des partenaires, à condition qu’ils puissent effectuer l’inscription MFA et la vérification de l’authentification multifacteur. Lorsque vous y êtes invité pendant la connexion au locataire client. La finalisation de l’inscription MFA n’active pas automatiquement l’utilisateur pour MFA.
@@ -181,12 +177,12 @@ Un partenaire n’a pas démarré ou est toujours en train de mettre en œuvre l
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problème 2 : le partenaire n’a pas implémenté l’authentification MFA pour les comptes d’utilisateur n’utilisant pas de privilèges d’administrateur délégué
 Un partenaire a des utilisateurs dans leurs locataires partenaires qui n’ont pas besoin d’accéder aux portails Microsoft Online Services pour gérer les ressources client à l’aide des privilèges d’administration délégués de partenaire. Le partenaire est en train de mettre en œuvre l’authentification multifacteur pour ces utilisateurs et d’avoir besoin de plus de temps. S’agit-il d’une raison valable pour une exception technique ?
 
-**Réponse** : Non. Étant donné que ces comptes d’utilisateur n’utilisent pas de privilèges d’administration déléguée de partenaire pour gérer les ressources client, ils n’ont pas besoin de se connecter au locataire client. Ils ne seront pas affectés par les Azure AD nécessitant une vérification MFA lors de la connexion au locataire client.
+**Réponse**: non. Étant donné que ces comptes d’utilisateur n’utilisent pas de privilèges d’administration déléguée de partenaire pour gérer les ressources client, ils n’ont pas besoin de se connecter au locataire client. Ils ne seront pas affectés par les Azure AD nécessitant une vérification MFA lors de la connexion au locataire client.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problème 3 : le partenaire n’a pas implémenté l’authentification MFA pour les comptes de service utilisateur
 Un partenaire possède des comptes d’utilisateur dans leurs locataires partenaires qui sont utilisés par les appareils comme comptes de service. Il s’agit généralement de comptes à faibles privilèges qui n’ont pas besoin d’accéder à l’espace partenaires ou aux portails Microsoft Online Services pour gérer les ressources client à l’aide des privilèges d’administration délégués du partenaire. S’agit-il d’une raison valable pour une exception technique ?
 
-**Réponse** : Non. Étant donné que ces comptes d’utilisateur n’utilisent pas de privilèges d’administration déléguée de partenaire pour gérer les ressources client, ils n’ont pas besoin de se connecter au locataire client. Ils ne seront pas affectés par les Azure AD nécessitant une vérification MFA lors de la connexion au locataire client.
+**Réponse**: non. Étant donné que ces comptes d’utilisateur n’utilisent pas de privilèges d’administration déléguée de partenaire pour gérer les ressources client, ils n’ont pas besoin de se connecter au locataire client. Ils ne seront pas affectés par les Azure AD nécessitant une vérification MFA lors de la connexion au locataire client.
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problème 4 : le partenaire ne peut pas implémenter MFA à l’aide de l’application MS Authenticator
 Un partenaire dispose d’une stratégie de « nettoyage » qui ne permet pas aux employés de placer leurs appareils mobiles personnels dans leur zone de travail. Sans accès à leurs appareils mobiles personnels, les employés ne peuvent pas installer l’application MS Authenticator, qui est la seule vérification MFA prise en charge par Azure AD stratégies de base de référence. S’agit-il d’une raison valable pour une exception technique ?
