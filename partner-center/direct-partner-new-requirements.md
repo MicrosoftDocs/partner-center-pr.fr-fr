@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, partenaire direct, facturation directe, conditions requises
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253592"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860460"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Nouvelles exigences pour le partenaire de facturation directe du CSP
 
@@ -50,9 +50,11 @@ Après avoir vérifié que votre entreprise répond aux conditions d’éligibil
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Passage du revendeur direct au revendeur indirect
 
+Les partenaires directs directs doivent remplir les nouvelles conditions requises pour rester dans le programme de partenaire de facture directe du fournisseur de solutions Cloud. Dans le cas contraire, leur [accès aux fonctionnalités de facture directe sera finalement restreint](restricted-direct-bill-capabilities.md) et pourra exécuter des tâches spécifiques, telles que la création de nouveaux achats pour leurs clients. 
+
 Si vous décidez de passer d’une facture directe à une entreprise de revendeur indirect, vous devez effectuer plusieurs étapes. Pour en savoir plus sur la transition, consultez [la transition du partenaire direct du fournisseur de solutions Cloud (CSP) au revendeur indirect CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Articles associés
 
 - [Informations supplémentaires sur le devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Forum aux questions sur la facturation directe au revendeur indirect](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

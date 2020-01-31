@@ -1,7 +1,7 @@
 ---
 title: Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’espace partenaires pour acheter, gérer, vendre et annuler des instances réservées et des abonnements serveur Azure pour les clients.
@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Fournisseur de solutions Cloud, CSP, services Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels, annuler le logiciel
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: 0ba3f32615fe02d843123180e4cb34176b28e09c
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723436"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812651"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
 
@@ -135,7 +135,7 @@ Une fois l’abonnement logiciel acheté, suivez les étapes ci-dessous pour le 
 Vous pouvez annuler un achat de logiciel dans un délai de 60 jours à compter de la date d’achat. Si vous annulez cette première période de 60 jours, vous ne recevrez pas de frais de résiliation précoce. Après 60 jours, vous ne pouvez plus annuler un achat. (Consultez la remarque pour connaître les restrictions clés de cette règle d’annulation. Pour en savoir plus sur ce qui se passe après l’annulation d’un achat de logiciel, consultez aussi Remarque importante après ces étapes.) 
 
 >[!NOTE]
->Les étapes suivantes pour annuler un achat s’appliquent uniquement aux logiciels qui qualifient l’annulation dans une fenêtre d’annulation spécifique, par exemple dans les 60 premiers jours après l’achat. Notez que ces étapes pour annuler un achat ne s’appliquent pas aux achats des mises à jour de sécurité étendues Microsoft Windows 7 2020. (Pour annuler Windows 7 UDE 2020, vous devez soumettre une demande de support technique, comme décrit plus loin dans cette rubrique.) Ces étapes ne s’appliquent pas non plus à un plan logiciel SUSE Linux ou RedHat dans Azure. À ce stade, vous ne pouvez pas annuler ou échanger un plan logiciel SUSE ou RedHat. [En savoir plus](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sur l’utilisation des plans SUSE Linux ou redhat.
+>Les étapes suivantes pour annuler un achat s’appliquent uniquement aux logiciels qui qualifient l’annulation dans une fenêtre d’annulation spécifique, par exemple dans les 60 premiers jours après l’achat. Ces étapes ne s’appliquent pas non plus à un plan logiciel SUSE Linux ou RedHat dans Azure. À ce stade, vous ne pouvez pas annuler ou échanger un plan logiciel SUSE ou RedHat. [En savoir plus](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sur l’utilisation des plans SUSE Linux ou redhat.
 
 Suivez les étapes ci-dessous pour annuler un achat :
 
@@ -166,11 +166,11 @@ Suivez les étapes ci-dessous pour annuler un achat :
 
 Lorsque vous essayez d’annuler une commande, l’espace partenaires peut également vous fournir d’autres informations (qui apparaissent sous la liste déroulante numéro de commande). Ces informations peuvent inclure :
 
-* Le nombre de jours restants pour vous permettre d’annuler cette commande particulière
+- Le nombre de jours restants pour vous permettre d’annuler cette commande particulière
 
-* Si vous avez déjà passé la fenêtre d’annulation et que vous ne pouvez plus annuler la commande
+- Si vous avez déjà passé la fenêtre d’annulation et que vous ne pouvez plus annuler la commande
 
-* Si nous avons besoin d’informations supplémentaires sur votre demande d’annulation, vous pouvez recevoir un lien vers un formulaire de **demande de support** technique.
+- Si nous avons besoin d’informations supplémentaires sur votre demande d’annulation, vous pouvez recevoir un lien vers un formulaire de **demande de support** technique.
 
 >[!IMPORTANT]
 >Après l’annulation d’une commande, un message confirmant l’annulation s’affiche. Toutefois, il peut y avoir un délai allant jusqu’à 15 minutes avant que l’annulation apparaisse dans le tableau de bord de l’espace partenaires. Notez également les détails suivants, postérieurs à l’annulation.
