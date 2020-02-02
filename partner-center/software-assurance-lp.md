@@ -1,19 +1,19 @@
 ---
 title: Programmes Software Assurance | Espace partenaires
 ms.topic: article
-ms.date: 01/14/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Inscrivez-vous à un programme Software Assurance pour créer des activités et être compensé pour la formation et la planification aux entreprises.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff23573f4cc85964a81e544ead8fa876495bbd10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a4827a8c1fbfb04bb7fccff4bd22e7311eb7e08d
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943082"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915731"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Participer aux programmes Software Assurance
 
@@ -22,7 +22,4 @@ La participation aux programmes Software Assurance, y compris les bons de format
 |**Pour en savoir plus sur**   |**Lisez cela**   |
 |--------------------------|:------------------|
 |Inscription dans le programme SATV (Software Assurance Trainer)|[Programme SATV (Software Assurance Trainer) dans l’espace partenaires](software-assurance-satv.md)|
-|utilisation de l’outil de validation et d’échange de bons|[Utilisez l’outil de validation et d’échange de bons de l’Espace partenaires pour valider, réserver et échanger des bons](voucher-validation-tool.md)|
-|Inscription dans les services de planification Software Assurance|[Services de planification Software Assurance dans l’espace partenaires](software-assurance-dps.md) 
-
-
+|Inscription dans les services de planification Software Assurance|[Services de planification Software Assurance dans l’espace partenaires](software-assurance-dps.md) |
