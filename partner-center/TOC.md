@@ -25,9 +25,8 @@
 ## [Marketplace Rewards](marketplace-rewards.md)
 ## [Programmes Software Assurance](software-assurance-lp.md)
 ### [Bon de formation Software Assurance (SATV) de l’Espace partenaires](software-assurance-satv.md)
-### [Utilisez l’outil de validation et d’échange de bons de l’Espace partenaires pour valider, réserver et échanger des bons](voucher-validation-tool.md)
-### [Questions fréquentes (FAQ) : utilisation de l’outil de validation et d’échange de bons](vvr-faq.md)
 ### [Services de planification Software Assurance dans l’Espace partenaires](software-assurance-dps.md)
+#### [Conditions d’éligibilité pour les engagements aux services de planification](software-assurance-dps-requirements.md)
 ## Factures et taxes
 ### [Factures et taxes dans le Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Testez les nouvelles fonctionnalités](test-drive-new-features.md)
