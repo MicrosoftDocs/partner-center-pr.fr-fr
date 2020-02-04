@@ -20,14 +20,14 @@ ms.locfileid: "76723466"
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 
 **Rôles appropriés**
 
 -  Administrateur d’incentives
 -  Utilisateur de primes incitatives 
 -  Visionneuse en lecture seule incitative
--  Administrateur global
+-  Administrateur général
 -  Administrateur de partenaire MPN
 
 Utilisez ces pages pour afficher les détails de vos paiements et revenus passés, en suspens et à venir, l’état de vos programmes d’incentives dans chaque emplacement et l’historique complet de vos transactions. Vous pouvez également télécharger ou exporter des informations détaillées pour toute transaction. Toutes les pages incentives affichent des montants en dollars américains.
@@ -78,10 +78,10 @@ Pour accéder à **mes incentives, vue d’ensemble**:
 | **Statut**         | **S’affiche lorsque** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
-| Supprimées  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
+| Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
 | Inscrits  | Toutes les informations fiscales et bancaires ont été validées. Aucune autre action d’inscription n’est requise par le partenaire. |
 | Inactive  | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription.  |
-| Sollicit  | Une nouvelle invitation d’inscription au programme d’incentives a été envoyée au partenaire, mais le partenaire n’a pas encore démarré le processus d’inscription. La colonne adjacente **actions requises** affiche les étapes suivantes et les liens associés.  |
+| Invité  | Une nouvelle invitation d’inscription au programme d’incentives a été envoyée au partenaire, mais le partenaire n’a pas encore démarré le processus d’inscription. La colonne adjacente **actions requises** affiche les étapes suivantes et les liens associés.  |
 | Validation de l’inscription  | Le partenaire a déjà effectué ou mis à jour des informations bancaires et fiscales pour une inscription nouvelle ou existante et attend que Microsoft valide ces informations. Pendant le processus de validation, la validation de l' **inscription** peut s’afficher pendant jusqu’à 48 heures.  |
 
 ## <a name="payments-page"></a>Page paiements
@@ -108,18 +108,18 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 
 |**État de l’obtention** |**Donc** |**Action de partenaire requise ?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
-|Non traité        | Le bénéfice est éligible au paiement. Il reste dans cet État pour une période de refroidissement telle que définie dans le Guide du programme d’incentives.       |non        |
-|À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |non       |
+|Non traité        | Le bénéfice est éligible au paiement. Il reste dans cet État pour une période de refroidissement telle que définie dans le Guide du programme d’incentives.       |Non        |
+|À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |Non       |
 |Facture d’impôt en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir payer         |
 |Rejeté pendant la révision        |Le paiement a été rejeté pendant la révision.          |Contacter le support Microsoft pour plus d’informations         |
-|Failed        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
-|En cours     |Le paiement est en cours.         |non         |
-|Paiement incorrect        |Le remboursement est en cours.          |non        |
-|Échangé        |Le paiement a été envoyé à votre banque.          |non       |
-|Retraitement       |Le paiement a rencontré une erreur système Microsoft et est en cours de retraitement.           |non         |
-|Inversé        |Le paiement a été inversé par votre banque et sera renvoyé dans le prochain cycle de paiement.          |non        |
+|Échec        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
+|En cours     |Le paiement est en cours.         |Non         |
+|Paiement incorrect        |Le remboursement est en cours.          |Non        |
+|Envoyé        |Le paiement a été envoyé à votre banque.          |Non       |
+|Retraitement       |Le paiement a rencontré une erreur système Microsoft et est en cours de retraitement.           |Non         |
+|Inversé        |Le paiement a été inversé par votre banque et sera renvoyé dans le prochain cycle de paiement.          |Non        |
 |Facture de taxe rejetée       |Votre facture fiscale a été rejetée pendant la révision. Tous les paiements en attente seront en attente jusqu’à ce que la révision de la facture fiscale soit terminée.          |Contacter le support Microsoft pour plus d’informations         |
-|Facture fiscale en cours de révision        |Votre relevé de taxes est en cours de révision. Votre paiement est lancé une fois que la facture d’impôt a été approuvée.           |non        |
+|Facture fiscale en cours de révision        |Votre relevé de taxes est en cours de révision. Votre paiement est lancé une fois que la facture d’impôt a été approuvée.           |Non        |
 |Rejeté        |Le paiement a été rejeté par votre banque.           |Pour plus d’informations, contactez votre banque.  |
 
 ## <a name="export-data-page"></a>Page exporter des données
@@ -182,7 +182,7 @@ Cette option permet de télécharger chaque élément de la ligne en cours que v
 |paymentStatus   |Statut du paiement   |
 |paymentStatusDescription   |Description conviviale de l’état du paiement   |
 |customerId   |Identificateur du client   |
-|Souhaite   |Nom de la transaction client   |
+|customerName   |Nom de la transaction client   |
 
 
 Outre le tableau ci-dessus, ces champs de l’historique des transactions sont disponibles pour le programme.
@@ -195,7 +195,7 @@ Outre le tableau ci-dessus, ces champs de l’historique des transactions sont d
 |subscriptionId   |Identificateur d’abonnement associé au client   |
 |subscriptionStartDate   |Date de début d’abonnement   |
 |subscriptionEndDate   |Date de fin d’abonnement   |
-|offerId   |À déterminer   |
+|offerId   |TBD   |
 |resellerId   |Identificateur du revendeur   |
 |Nom du revendeur   |Nom du revendeur   |
 |distributorId   |Identificateur du serveur de distribution   |
