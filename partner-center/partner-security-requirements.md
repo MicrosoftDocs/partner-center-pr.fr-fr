@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: 146ed2d79c2b98dca6e08f9cf56dbb150e981535
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004978"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723446"
 ---
 # <a name="partner-security-requirements"></a>Exigences de sécurité du partenaire
 
@@ -27,12 +27,8 @@ ms.locfileid: "75004978"
 - Tous les fournisseurs de panneau de contrôle
 - Tous les conseillers
 
-**Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
--   Administration de facturation
--   Administrateur partenaire MPN
+**Utilisateurs appropriés**
+-   Tous les utilisateurs activés, y compris les utilisateurs invités
 
 L’amélioration de la sécurité et de la protection de la confidentialité fait partie de nos premières priorités. Nous savons que la meilleure défense est la prévention et que nous ne sommes pas plus solides que notre maillon le plus faible. C’est pourquoi nous avons besoin que tous les membres de notre écosystème puissent agir et vérifier que les protections de sécurité appropriées sont en place. Pour aider à protéger les partenaires et les clients, nous proposons un ensemble d’exigences de sécurité obligatoires pour les conseillers, les fournisseurs de panneau de contrôle et les partenaires participant au programme Fournisseur de solutions Cloud.
 
@@ -83,7 +79,7 @@ Pour vous conformer aux exigences de sécurité des partenaires, vous devez appl
 
 Pour passer des stratégies de base de référence aux paramètres de sécurité par défaut, consultez [Que sont les paramètres de sécurité par défaut ?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-### <a name="consideration"></a>Facteur
+### <a name="consideration"></a>Considération
 
 Dans la mesure où ces exigences s’appliquent à tous les comptes d’utilisateur de votre locataire de partenaire, vous devez prendre en considération plusieurs éléments pour garantir un déploiement fluide, notamment l’identification des comptes d’utilisateur Azure Active Directory qui ne permettent pas l’authentification multifacteur ainsi que les applications et appareils utilisés par votre organisation, qui ne prennent pas en charge l’authentification moderne.
 

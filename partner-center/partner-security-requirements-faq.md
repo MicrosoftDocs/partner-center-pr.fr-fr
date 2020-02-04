@@ -9,21 +9,17 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004268"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723476"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 
-**Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
--   Administration de facturation
--   Administrateur partenaire MPN
+**Utilisateurs appropriés**
+-   Tous les utilisateurs activés, y compris les utilisateurs invités
 
 Cet article contient des questions fréquentes sur les [exigences de sécurité du partenaire](partner-security-requirements.md).
 
@@ -242,7 +238,7 @@ Pour recevoir le lien d’inscription, les CPV doivent contacter [CPVHelp@micros
 
 Une fois que vous vous êtes inscrit à l’Espace partenaires et que vous avez inscrit vos applications, vous avez accès aux API de l’Espace partenaires. Si vous êtes un nouveau CPV, vous allez recevoir les informations relatives au bac à sable via une notification de l’Espace partenaires. Une fois que vous avez effectué votre inscription en tant que CPV Microsoft et que vous avez accepté le contrat CPV, vous pouvez :
 
-1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) Remarque: Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
+1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) Remarque : Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
 2. Visualisez et gérez votre profil de CPV.
 3. Visualisez et gérez les utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV. Le seul rôle qu’un CPV peut avoir est celui d’administrateur général.
 
@@ -270,7 +266,7 @@ L’authentification par application uniquement n’est pas impactée, car les i
 
 Non, les partenaires fournisseurs de panneaux de contrôle ne peuvent pas utiliser l’authentification par application uniquement pour demander des jetons d’accès au nom du partenaire. Ils doivent implémenter le modèle d’application sécurisé, qui utilise l’authentification d’application + l’authentification utilisateur.
 
-## <a name="enforcement"></a>Application
+## <a name="enforcement"></a>Mise en œuvre
 
 ### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>J’utilise une solution MFA tierce et je suis bloqué. Que dois-je faire ?
 
@@ -299,7 +295,7 @@ Les contraintes techniques relatives aux exigences de sécurité du partenaire i
 - [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
 - [Authentification MFA (Multi-Factor Authentication) via le module PowerShell de l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-## <a name="support"></a>Support
+## <a name="support"></a>Assistance
 
 ### <a name="where-can-i-get-support"></a>Où puis-je obtenir un support ?
 

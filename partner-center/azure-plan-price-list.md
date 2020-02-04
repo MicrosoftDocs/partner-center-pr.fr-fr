@@ -1,7 +1,7 @@
 ---
 title: Tarifs du plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser l’Espace partenaires pour voir la liste de prix des abonnements dans le cadre du plan Azure.
@@ -10,22 +10,22 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722051"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812641"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure 
 
 **Rôles appropriés**
 
 - Agent d’administration
-- Administration de facturation
-- Administrateur global
+- Administrateur de la facturation
+- Administrateur général
 - Agent du support technique
-- Commercial
+- Agent commercial
 - Administrateur de la gestion des utilisateurs
 
 Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur de solutions cloud sont publiés dans l’Espace partenaires. Les tarifs sont délivrés de façon dynamique dans un fichier précis en temps réel et les prix sont affichés en USD uniquement. Toutefois, la facturation s’effectue dans la devise prise en charge correspondant à la zone monétaire du client. Pour plus d’informations sur la facturation dans la zone monétaire du client, consultez [Plan Azure – facturation ](azure-plan-billing.md).
@@ -36,14 +36,14 @@ Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur
 
 2. Dans la page de tarification du plan Azure, sélectionnez le pays pour lequel vous souhaitez obtenir la tarification.
 
-3. En regard de **Type d’exportation**, sélectionnez **Tarification de la consommation de plan Azure**, **Tarification des réservations de plan Azure** ou **Taux FX**. Remarque: Les **Taux de change** ne sont pas spécifiques à un pays.
+3. En regard de **Type d’exportation**, sélectionnez **Tarification de la consommation de plan Azure**, **Tarification des réservations de plan Azure** ou **Taux FX**. Remarque : Les **Taux de change** ne sont pas spécifiques à un pays.
 
 3. En regard de **Tarification pour la date**, sélectionnez la date de votre choix, par exemple, **Actuelle**. 
 
 
 ![spécifique au pays](images/azure/pricingnew.png)
 
-Remarque: Vous pouvez exporter deux tarifs différents : les tarifs de plan Azure et les tarifs tiers de la Place de marché. 
+Remarque : Vous pouvez exporter deux tarifs différents : les tarifs de plan Azure et les tarifs tiers de la Place de marché. 
 
 ## <a name="azure-price-list-specifics"></a>Détail des tarifs Azure
 
@@ -76,7 +76,7 @@ Remarque: Vous pouvez exporter deux tarifs différents : les tarifs de plan Azu
 |UnitOfMeasure|Unités qui seront imputées ou facturées|
 |TermDuration|Pour les produits basés sur un délai, longueur du délai qui s’applique aux réservations|
 |Marché|Marché de la tarification|
-|Symbole monétaire|Devise de la tarification|
+|Devise|Devise de la tarification|
 |UnitPrice|Prix unitaire|
 |PricingTierRangeMin|Pour une tarification à plusieurs niveaux, le prix minimal s’applique|
 |PricingTierRangeMax|Pour une tarification à plusieurs niveaux, le prix maximal s’applique|
@@ -86,4 +86,17 @@ Remarque: Vous pouvez exporter deux tarifs différents : les tarifs de plan Azu
 |MeterType|Type de compteur|
 |Balises|Propriétés de l’élément ; pour le tarif du plan Azure, il s’agit d’Azure ou d’Azure et réservations (spécifiquement pour les réservations)|
 
-Pour le détail des [informations tarifaires](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)  
+Vous pouvez exporter les listes de prix du plan Azure à partir de la page [Tarification de plan Azure et Place de marché](https://partner.microsoft.com/commerce/sales?type=Any&category=Any).
+
+## <a name="pricing-api-for-azure-plan"></a>API de prix pour le plan Azure
+
+Vous pouvez utiliser l’[API de prix](https://docs.microsoft.com/partner/develop/pricing) pour récupérer par programmation les prix du plan Azure pour la consommation et les réservations. Vous pouvez également récupérer les taux de change. 
+
+L’API de prix ne se trouve pas sur le même point de terminaison que les autres API de l’Espace partenaires. Les informations fournies incluent les prix compteur en USD pour les ressources du plan Azure et les prix des réservations appliqués aux abonnements au plan Azure.
+
+Cette API permet également aux partenaires de récupérer les taux de change mensuels dans la mesure où les plans Azure sont uniquement en USD. Vous pouvez utiliser les API pour récupérer les prix et les taux de change pour le mois en cours ou les mois précédents.
+
+>[!NOTE]
+> L’API de prix est spécifique aux prix du plan Azure. Il est toujours conseillé d’utiliser l’API RateCard existante et les listes de prix publiées dans la page « Prix et offres » de l’Espace partenaires pour les ressources ou réservations Azure déployées sur des abonnements à des plans non-Azure. L’API de prix du plan Azure ne prend pas en charge les prix basés sur les logiciels, la Place de marché ou le nombre de postes (par exemple Microsoft 365 ou Dynamics 365).
+
+Pour plus d’informations sur les API de prix et de taux de change du plan Azure, consultez la [documentation complète sur l’API de prix](https://docs.microsoft.com/partner/develop/pricing).
