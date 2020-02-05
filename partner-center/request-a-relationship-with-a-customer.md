@@ -1,7 +1,7 @@
 ---
 title: Demander une relation avec un client | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 01/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: La demande de relation est utilisée pour les scénarios de type Multipartenaire et Multicanal. Elle est également utile si un client supprime vos privilèges d’administration délégués et si vous devez les restaurer pour fournir des services d’approvisionnement ou de support.
@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 97ec1f5b346482a6865c7ce99500766b15459c9a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654110"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012127"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Se connecter à des clients dans l'Espace partenaires
 
@@ -22,7 +22,7 @@ ms.locfileid: "73654110"
 
 -  Espace partenaires
 
-Si vous souhaitez gérer le service ou l’abonnement d’un client en son nom, le client doit vous accorder des autorisations d’administrateur pour ce service ou cet abonnement. La procédure suivante montre comment demander cette autorisation par courrier électronique. Lorsque le client aura approuvé votre demande, vous serez en mesure d’ouvrir une session sur le portail d’administration du service et de gérer le service pour le compte du client.
+Si vous souhaitez gérer le service ou l’abonnement d’un client en son nom, le client doit vous accorder des autorisations d’administrateur pour ce service ou cet abonnement et signer le contrat du client Microsoft.
 
 Si vous souhaitez établir une relation de revendeur avec un client et gérer uniquement les abonnements Azure que vous approvisionnez, il n’est pas nécessaire d’obtenir des autorisations d’administrateur.
 
@@ -39,18 +39,19 @@ Notez que vous pouvez demander une relation de revendeur avec un client dans vot
 
 3.  Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie électronique par défaut ou copier ce message dans votre Presse-papiers et le coller dans un message électronique. 
 
-    Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. Sélectionnez **terminé** lorsque vous avez terminé cette étape.
+    Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. Sélectionnez **Terminé** une fois que vous avez effectué cette étape.
 
 3.  Envoyez l’e-mail au client.
 
 5.  Une fois qu'il a accepté l’invitation, le client s’affiche sur votre page **Clients** et vous pouvez approvisionner et gérer son service à partir de cet emplacement.
 
+>Remarque : si le client n’a pas encore accepté le contrat du client Microsoft, il est invité à le faire lorsqu’il accepte votre invitation. 
  
-6.  Pour gérer le compte, les services, les utilisateurs et les licences du client, développez l’enregistrement du client en sélectionnant la flèche vers le bas en regard de son nom.
+6.  Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
 
 
 > [!IMPORTANT]  
-> Les clients peuvent réaffecter ou supprimer des autorisations d’administrateur dans le portail d’administration d’un service. Toutefois, tant que vous n'aurez pas renégocié votre accord avec le client, vous resterez tenu de lui fournir un support et de respecter les termes du contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, vous pouvez appeler le support Microsoft pour ouvrir une demande de service de la part du client.
+> Les clients peuvent réaffecter ou supprimer des autorisations d’administrateur dans le portail d’administration d’un service. Toutefois, sauf si et jusqu’à ce que vous renégociiez votre accord avec le client, vous êtes toujours responsable de la fourniture du support client et de l’adhésion aux conditions du contrat de partenariat Microsoft, même après que le client a réaffecté ou supprimé l’administrateur autorisations. Dans ce cas, si le client a besoin d’aide, vous pouvez appeler le support Microsoft pour ouvrir une demande de service de la part du client.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Modifications apportées à l’expérience d’invitation du client
 
@@ -58,7 +59,7 @@ L’expérience client pour l’acceptation d’une invitation de revendeur reve
 
 |  | Où un client accepte-t-il une invitation de relation de revendeur ? |
 |---------|---------
-| Clients dans le cloud public | Microsoft Store pour Entreprises |
+| Clients dans le cloud public | Centre d’administration Microsoft 365 |
 | Clients dans l’espace partenaires pour Microsoft Cloud Allemagne | Microsoft Office le portail d’administration |
 | Clients dans l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis | Microsoft Office le portail d’administration |
 |
