@@ -1,7 +1,7 @@
 ---
 title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Cet article inclut des liens vers les guides, les contrats de partenariat, les contrats clients, les tarifs et les offres du programme Fournisseur de solutions Cloud.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guides du programme fournisseur de solutions Cloud, guide du programme, accords de partenariat, contrat client, tarifs, offres
 ms.localizationpriority: high
-ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 6a22599a986fed7e67b15a279ae8a2ddba598cec
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252126"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012107"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 
@@ -40,12 +40,14 @@ Passez en revue les exigences nécessaires pour devenir un partenaire du program
 
 [Guide des conditions d’offre supplémentaires relatives aux abonnements aux services en ligne et aux autorisations d’accès au canal logiciel](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Modèles clients de contrat Microsoft Cloud
+## <a name="microsoft-customer-agreement-customer-templates"></a>Modèles de Contrat client Microsoft
 
-Pour que vous puissiez passer une commande pour le compte d’un client, celui-ci doit accepter et signer le contrat Microsoft Cloud. Les contrats Microsoft Cloud sont spécifiques aux régions et disponibles dans plusieurs langues. Accédez aux [modèles clients](agreements.md) de contrat Microsoft Cloud pour trouver le contrat Microsoft cloud à passer en revue avec les nouveaux clients.
+Pour qu’une commande puisse être passée au nom d’un client, ce dernier doit accepter et signer le Contrat client Microsoft applicable. Les Contrats client Microsoft sont spécifiques à chaque région. Veillez à sélectionner le pays approprié en fonction de la localisation du client.
+
+Pour télécharger manuellement la dernière version du modèle de Contrat client Microsoft, sélectionnez cette [URL](https://aka.ms/customeragreement).
 
 >[!IMPORTANT]
->Vous devez confirmer qu’un client a accepté le contrat Microsoft Cloud en fournissant des informations sur la personne qui l’a signé. Consultez [Confirmer l’acceptation du contrat Microsoft Cloud par le client](confirm-consent.md) 
+>Vous devez confirmer qu’un client a accepté le Contrat client Microsoft. Vous pouvez effectuer cette confirmation en attestant que le client a accepté le contrat, ou en invitant le client à accepter le contrat directement. Consultez [Confirmer l’acceptation du Contrat client Microsoft par un client](confirm-customer-agreement.md).
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Avenant au contrat Microsoft Cloud sur le secret professionnel (Allemagne)
 
@@ -57,7 +59,7 @@ Si vous faites des affaires en Allemagne, vous devrez peut-être fournir cet ave
 
 [Avenant au contrat Microsoft Cloud concernant le secret professionnel pour l’Allemagne (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-## <a name="pricing"></a>Tarification
+## <a name="pricing"></a>Tarifs
 
 Téléchargez les détails tarifaires des achats définitifs, basés sur la licence et basés sur l’utilisation à partir de la page **Tarification et offres**, disponible dans le menu **Espace partenaires**.
 
