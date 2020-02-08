@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b71f1a2b8a42e108a521b33c1e747ca186cb1c70
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723486"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044728"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obligation de l’authentification multifacteur (MFA) pour votre locataire partenaire
 
@@ -31,8 +31,8 @@ ms.locfileid: "76723486"
 
 Ces partenaires doivent effectuer la vérification de l’authentification MFA pour les domaines suivants :
 
-- [Tableau de bord espace partenaires](#partner-center-dashboard) (ciblant H1 CY2020)
-- [API espace partenaires](#partner-center-api) (ciblant H1 CY2020)
+- [Tableau de bord espace partenaires](#partner-center-dashboard) (ciblant Q2 CY2020)
+- [API espace partenaires](#partner-center-api) (ciblant Q2 CY2020)
 - [Administration déléguée du partenaire](#partner-delegated-administration) (à partir du 18 novembre 2019)
 
 L’objectif de cette fonctionnalité est d’aider les partenaires à sécuriser leur accès aux ressources client contre la compromission des informations d’identification.
@@ -61,9 +61,9 @@ Pour illustrer ce fonctionnement, prenez en compte les deux exemples suivants.
 
 **Exemple 2 : un partenaire a implémenté l’authentification MFA tierce à l’aide de la Fédération des identités**
 1. Trent fonctionne pour les fournisseurs de solutions Cloud Wingtip. Wingtip a implémenté l’authentification MFA pour tous ses utilisateurs sous le locataire partenaire Wingtip à l’aide de l’authentification multifacteur tierce, qui est intégrée à Azure AD via la Fédération des identités.
-2. À partir de son poste de travail, Trent démarre une nouvelle session de navigateur et accède à la page vue d’ensemble du tableau de bord de l’espace partenaires (qui n’est pas protégée par MFA). L’espace partenaires redirige Justin vers Azure AD pour se connecter.
+2. À partir de son poste de travail, Trent démarre une nouvelle session de navigateur et accède à la page vue d’ensemble du tableau de bord de l’espace partenaires (qui n’est pas protégée par MFA). L’espace partenaires redirige Trent vers Azure AD pour se connecter.
 3. Dans la mesure où Wingtip a configuré la Fédération d’identité, Azure AD redirige Trent vers le fournisseur d’identité fédérée pour effectuer la vérification de la connexion et de l’authentification MFA. Lors de la connexion et de la vérification de l’authentification MFA, Trent est redirigé vers Azure AD puis vers la page de présentation du tableau de bord de l’espace partenaires.
-4. Justin tente d’accéder à l’une des pages protégées par MFA dans l’espace partenaires. Étant donné que Trent a déjà effectué la vérification de l’authentification multifacteur lors de la connexion précédente, Trent peut accéder à la page protégée par MFA sans être obligé de repasser par la vérification MFA.
+4. Trent tente d’accéder à l’une des pages protégées par MFA dans l’espace partenaires. Étant donné que Trent a déjà effectué la vérification de l’authentification multifacteur lors de la connexion précédente, Trent peut accéder à la page protégée par MFA sans être obligé de repasser par la vérification MFA.
 
 **Exemple 3 : le partenaire n’a pas implémenté l’authentification MFA**
 1. John travaille pour CSP fabrikam. Fabrikam n’a implémenté l’authentification MFA pour aucun utilisateur sous le locataire partenaire fabrikam.
@@ -127,7 +127,7 @@ Lorsque Azure Active Directory reçoit de telles demandes d’authentification, 
 
 - Si le compte partenaire est une identité **fédérée** , l’expérience dépend de la manière dont l’administrateur partenaire a configuré la fédération dans Azure Active Directory. Lors de la configuration de la Fédération dans Azure Active Directory, l’administrateur partenaire peut indiquer à Azure Active Directory si le fournisseur d’identité fédérée prend en charge MFA ou non. Si c’est le cas, Azure Active Directory redirigera l’utilisateur vers le fournisseur d’identité fédérée pour effectuer la vérification de l’authentification MFA. Dans le cas contraire, Azure Active Directory invite directement l’utilisateur à effectuer une vérification MFA. Si le compte partenaire n’est pas inscrit pour l’authentification MFA avec Azure Active Directory avant, l’utilisateur est invité à effectuer d’abord l' [inscription MFA](#mfa-registration-experience) .
 
-L’expérience globale est très similaire au scénario dans lequel un locataire client final a implémenté l’authentification MFA pour ses administrateurs. Par exemple, le locataire client a activé [Azure ad stratégie de base-MFA pour les administrateurs](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), ce qui nécessite que tous les comptes avec des droits d’administration se connectent au locataire client avec la vérification MFA, y compris les agents d’administration et les agents du support technique. À des fins de test, les partenaires peuvent activer la [stratégie MFA pour les administrateurs](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) dans le locataire client, puis essayer d’utiliser des privilèges d’administration déléguée de partenaire pour accéder au locataire client.
+L’expérience globale est très similaire au scénario dans lequel un locataire client final a implémenté l’authentification MFA pour ses administrateurs. Par exemple, le locataire client a activé [Azure ad paramètres de sécurité par défaut](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), ce qui nécessite que tous les comptes avec des droits d’administration se connectent au locataire client avec la vérification MFA, y compris les agents d’administration et les agents du support technique. À des fins de test, les partenaires peuvent activer les [paramètres par défaut de sécurité Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) dans le locataire client, puis essayer d’utiliser des privilèges d’administration déléguée de partenaire pour accéder au locataire client.
 
 > [!NOTE]
 > Tous les portails Microsoft Online Service ne nécessitent pas que les comptes de partenaires se connectent au locataire client lorsqu’ils accèdent aux ressources client à l’aide de privilèges d’administrateur délégué partenaire. Au lieu de cela, ils ont uniquement besoin que les comptes de partenaires se connectent au locataire partenaire. Le centre d’administration Exchange en est un exemple. Au fil du temps, nous nous attendons à ce que ces portails requièrent que les comptes des partenaires se connectent au locataire du client lorsqu’ils utilisent des privilèges d’administrateur délégué partenaire.
@@ -141,7 +141,7 @@ Toutes les applications partenaires intégrées à ces API à l’aide de privil
 
 - Le partenaire doit éviter d’utiliser une méthode d’authentification utilisateur non interactive avec Azure AD pour obtenir le jeton d’accès. En cas d’utilisation d’une méthode d’authentification utilisateur non interactive telle que le [Workflow de mot de passe](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password), Azure ad ne peut pas inviter l’utilisateur à effectuer une vérification mfa. Le partenaire doit passer à l’utilisation de la méthode d’authentification utilisateur interactive, comme [OpenID Connect Flow](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) à la place.
 - Pendant la méthode d’authentification des utilisateurs interactifs, le partenaire doit utiliser un compte d’utilisateur partenaire déjà activé pour MFA. Si vous y êtes invité par Azure AD, le partenaire peut également effectuer une vérification de l’authentification MFA et de l’authentification MFA lors de la connexion.
-- Cela est très similaire au scénario dans lequel un locataire client final a implémenté l’authentification MFA pour ses administrateurs. Par exemple, le locataire client a activé [Azure ad stratégie de base-MFA pour les administrateurs](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), ce qui nécessite que tous les comptes d’utilisateur disposent de droits d’administration pour se connecter au locataire client avec la vérification MFA, y compris les agents d’administration et les agents du support technique. À des fins de test, les partenaires peuvent activer la [stratégie MFA pour les administrateurs](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) dans le locataire client, puis essayer d’utiliser des privilèges d’administration déléguée de partenaire pour accéder par programme au locataire client.
+- Cela est très similaire au scénario dans lequel un locataire client final a implémenté l’authentification MFA pour ses administrateurs. Par exemple, le locataire client a activé [Azure ad paramètres de sécurité par défaut](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), ce qui nécessite que tous les comptes d’utilisateur disposant de droits d’administration se connectent au locataire client avec la vérification MFA, y compris les agents d’administration et les agents du support technique. À des fins de test, les partenaires peuvent activer les [valeurs par défaut de sécurité Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) dans le locataire client, puis essayer d’utiliser des privilèges d’administration déléguée de partenaire pour accéder par programme au locataire client.
 
 ### <a name="mfa-registration-experience"></a>Expérience d’inscription MFA
 Pendant la vérification de l’authentification multifacteur, si le compte partenaire n’est pas inscrit pour l’authentification MFA avant, Azure AD invite l’utilisateur à effectuer d’abord l’inscription MFA :

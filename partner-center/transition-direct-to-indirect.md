@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture directe, transition, revendeur indirect
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860483"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044742"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP 
 
@@ -33,7 +33,7 @@ Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre l
 
 2. Connectez-vous à l’espace partenaires en tant qu’administrateur général du locataire direct Bill que vous passez au revendeur indirect.
 
-![Vue d'ensemble](images/direct/direct1.png) 
+![Overview](images/direct/direct1.png) 
 
 3. Passez en revue les détails de votre partenaire dans le formulaire d’inscription.
 
@@ -239,7 +239,7 @@ Pour créer une demande de transfert en tant que partenaire de transition :
 
 7. Dans la boîte de dialogue demande de transfert, sélectionnez un ou plusieurs abonnements à transférer. 
 
-8. Cliquez sur **Create (Créer)** . 
+8. Cliquez sur **Créer**. 
 
 9. Une demande de transfert d’abonnement active s’affiche sous **transfert d’abonnement**. 
 
@@ -309,9 +309,9 @@ Une fois que vous êtes inscrit en tant que revendeur indirect sur votre locatai
 
 Vous pouvez également vous inscrire à des programmes incitants à facture directe avec ce même locataire partenaire. Vous devez gérer les programmes séparément.
 
-## <a name="see-also"></a>Articles associés 
+## <a name="see-also"></a>Voir aussi 
 - [Informations supplémentaires sur le devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [Nouvelles conditions requises pour les partenaires directs CSP](direct-partner-new-requirements.md)
-- [Fonctionnalités de facture directe restreintes](restricted-direct-bill-capabilities.md)
+- [Fonctionnalités de facturation directe limitées](restricted-direct-bill-capabilities.md)
 
 
