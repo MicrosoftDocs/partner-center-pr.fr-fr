@@ -10,19 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: offres de la place de marché, support marketing, récompenses, avantages du serveur de publication
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 3fadda03e0a879aabf858954d0bea55414e81137
+ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171201"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77075614"
 ---
 # <a name="manage-marketplace-rewards"></a>Gérer les bonus de la Place de marché
 
 Rôles appropriés :
 
 - Administrateur partenaire MPN
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 
 Si vous publiez des offres logicielles sur notre place de marché commercial, les récompenses de la place de marché offrent un support ciblé pour toutes vos offres avec des avantages techniques, commerciaux et marketing. 
@@ -38,7 +38,7 @@ Le bénéfice des récompenses de la place de marché est calculé en fonction d
 
 3. Pour ajouter ou mettre à jour vos informations de contact marketing, accédez à la partie supérieure de l’onglet avantages des ventes et du marketing sur la page récompenses de la place de marché, puis sélectionnez **Ajouter, mettre à jour ou modifier**. 
 
-Ensuite, effectuez les actions suivantes :
+Ensuite, procédez comme suit :
 
   - Sélectionnez un utilisateur dans la liste. Si l’utilisateur que vous souhaitez attribuer ne figure pas dans la liste, vous pouvez ajouter de nouveaux utilisateurs dans les paramètres du compte.
 
@@ -54,9 +54,9 @@ Ensuite, effectuez les actions suivantes :
 
 2. L’utilisation des avantages du parrainage Azure sera partagée via un e-mail à mesure que vous déverrouillerez ces avantages. 
 
-## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Pourquoi ne puis-je pas voir le programme marché des récompenses commerciales sur mon tableau de bord ?
+## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Pourquoi ne puis-je pas voir le programme de récompenses de la place de marché commercial sur mon tableau de bord ?
 
-Les informations sur les récompenses de la place de marché sont disponibles via le locataire Azure AD et l’ID MPN qui ont été utilisés pour créer votre compte espace partenaires. Ce compte est appelé le compte global du partenaire (PGA) de votre entreprise. Si votre locataire AAD est différent de celui utilisé pour l’intégration d’MPN, vous devez l’associer au PGA de votre entreprise pour que vous puissiez voir le menu du marché des récompenses commerciales. 
+Les informations sur les récompenses de la place de marché sont disponibles via le locataire Azure AD et l’ID MPN qui ont été utilisés pour créer votre compte espace partenaires. Ce compte est appelé le compte global du partenaire (PGA) de votre entreprise. Si votre locataire Azure AD est différent de celui utilisé pour l’intégration d’MPN, vous devez l’associer au PGA de votre entreprise pour que vous puissiez voir le menu du marché des récompenses commerciales. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Pour associer un locataire Azure AD à l’PGA de votre entreprise
 
