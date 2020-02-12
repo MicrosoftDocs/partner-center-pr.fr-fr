@@ -1,28 +1,28 @@
 ---
 title: Créer un compte Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Les membres du Microsoft Partner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 6e9a2adf925ae8fc9fca81be4bd87cf3064d18b6
+ms.sourcegitcommit: b706969f19a6d4ba1d9d9b8408abdd90591d81bd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096474"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77069695"
 ---
 # <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 
-Avant de pouvoir créer un compte sur l'Espace partenaires ou vous inscrire à un programme de partenaires, votre entreprise doit être membre du Microsoft Partner Network. Si vous n’êtes pas membre du réseau, vous pouvez le [rejoindre maintenant](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [En savoir plus](https://partner.microsoft.com/membership) sur l'adhésion au Microsoft Partner Network. Une fois que vous avez créé un compte Espace partenaires, regardez cette brève vidéo [Découvrir votre tableau de bord](https://vimeo.com/290338211).
+Avant de pouvoir créer un compte sur l'Espace partenaires ou vous inscrire à un programme de partenaires, votre entreprise doit être membre du Microsoft Partner Network. Si vous n’êtes pas membre du réseau, vous pouvez le [rejoindre maintenant](https://partner.microsoft.com/commercial#). Une fois que vous avez créé un compte Espace partenaires, regardez cette brève vidéo [Découvrir votre tableau de bord](https://vimeo.com/290338211).
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
