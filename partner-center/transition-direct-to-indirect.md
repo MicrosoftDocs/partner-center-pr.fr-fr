@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture directe, transition, revendeur indirect
-ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
-ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
+ms.openlocfilehash: d02b6101384b6c9fae986bbe45ce4865fd450308
+ms.sourcegitcommit: b74437db6aead02c9be3b865d36086f750802041
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "77044742"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "77213337"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP 
 
@@ -137,7 +137,7 @@ Vous gérez vos clients de facturation directe et vos clients de revendeurs indi
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Déplacez vos clients de facturation directe vers votre fournisseur indirect
 
-Votre fournisseur indirect ne peut pas envoyer de commandes ou de transferts d’abonnement existants pour vos clients de facture directe existants jusqu’à ce qu’ils aient une relation de revendeur avec eux. Pour établir la relation du revendeur entre votre fournisseur indirect et votre fournisseur indirect existant, vous pouvez utiliser l’une des méthodes suivantes : 
+Votre fournisseur indirect ne peut pas envoyer de commandes ou de transferts d’abonnement existants pour vos clients de facture directe existants jusqu’à ce qu’ils aient une relation de revendeur avec eux. Pour établir la relation du revendeur entre votre fournisseur indirect et votre facture directe client existante, vous pouvez utiliser l’une des méthodes suivantes : 
 
 - [Extension de la relation revendeur](#reseller-relationship-extension) 
 
@@ -147,7 +147,7 @@ Votre fournisseur indirect ne peut pas envoyer de commandes ou de transferts d�
 
 Vous pouvez utiliser la fonctionnalité d’extension de la relation Reseller pour établir une relation de revendeur entre vos clients de facture directe existants et votre fournisseur indirect à l’aide du tableau de bord de l’espace partenaires. Avant d’utiliser la fonctionnalité, notez les points suivants : 
 
-- Cette fonctionnalité n’est disponible que pour les partenaires directs qui migrent pour devenir un revendeur indirect qui a effectué l' [inscription du revendeur indirect](#get-started). 
+- Cette fonctionnalité est uniquement disponible pour les partenaires directs qui migrent pour devenir un revendeur indirect qui a effectué l’inscription du [revendeur indirect](#get-started). 
 
 - Vous ne pouvez appliquer cette fonctionnalité qu’aux clients disposant d’une facture directe existante. Elle n’est pas applicable aux [clients revendeurs indirects](#acquire-new-customers-as-indirect-reseller). 
 
@@ -160,7 +160,7 @@ Vous pouvez utiliser la fonctionnalité d’extension de la relation Reseller po
 
 - Votre fournisseur indirect ne sera pas fourni avec [des privilèges d’administration délégués](customers_revoke_admin_privileges.md) au locataire client. Si votre fournisseur indirect requiert des privilèges d’administration déléguée, vous devez envoyer une invitation de revendeur indirect au client à la place.
 
-- Une fois la relation du revendeur établie, le fournisseur indirect apparaît en tant que partenaire CSP auprès du client sous la page des relations avec les partenaires dans le centre d’administration M365 et [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
+- Une fois la relation du revendeur établie, le fournisseur indirect apparaît en tant que partenaire CSP auprès du client sous la page des relations avec les partenaires dans le [Centre d’administration M365](https://admin.microsoft.com/AdminPortal/Home#/partners) et [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
 
 >[!Note] 
 >Pour éviter toute confusion et une mauvaise compréhension, vous êtes contractuellement tenu par votre accord de partenariat pour informer et obtenir le consentement du client de facturation directe avant d’utiliser la fonctionnalité d’extension de relation pour établir une relation de revendeur entre un facture directe client et fournisseur indirect. 
@@ -197,6 +197,22 @@ Votre fournisseur indirect ne peut pas envoyer de commandes pour vos clients de 
 
 6. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom. 
 
+### <a name="microsoft-customer-agreement-acceptance"></a>Acceptation du contrat client Microsoft
+
+Microsoft Cloud accord est valide jusqu’au 31 janvier 2020. Après cette date, tous les clients, nouveaux et existants, doivent signer le nouveau [contrat de client Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Pour la transition des clients, si :
+
+- **Le client n’a pas encore accepté le contrat client Microsoft**
+
+   Collaborez avec le fournisseur indirect pour demander au client d' [accepter le contrat du client Microsoft]( https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+
+- **Le client a accepté le contrat du client Microsoft avec vous par le biais du centre d’administration Microsoft 365**
+
+   L’acceptation sera conservée une fois la relation du revendeur établie avec le fournisseur indirect. Vous n’avez rien à faire.
+
+- **Le client a accepté le contrat du client Microsoft avec vous via l’attestation de partenaire**
+
+   L’acceptation n’est pas conservée. Collaborez avec le fournisseur indirect pour [mettre à jour l’acceptation du client dans l’espace partenaires]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers).
+
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Transférer des abonnements à facture directe existants à un fournisseur indirect
 
 En mode indirect CSP, les revendeurs indirects n’ont pas de relations de facturation avec Microsoft. Au lieu de cela, les revendeurs indirects obtiennent des abonnements à leurs clients via leurs fournisseurs indirects. Lors de la transition d’un partenaire direct Bill vers un revendeur indirect, vous devez transférer les abonnements existants en tant que partenaires de facturation directe à votre fournisseur indirect. Pour ce faire, vous pouvez utiliser la fonctionnalité de transfert d’abonnements auto-servi dans le tableau de bord de l’espace partenaires. 
@@ -208,6 +224,8 @@ Avant d’utiliser la fonctionnalité, notez les points suivants :
 - Cette fonctionnalité est uniquement disponible pour les partenaires de transition qui ont effectué l’inscription du revendeur indirect à l’aide de leurs locataires de partenaires directs. 
 
 - Avant de transférer les abonnements associés à un client donné, le partenaire de transition doit déplacer le client vers un fournisseur indirect. 
+
+- Le client a [accepté le contrat du client Microsoft par le biais du fournisseur indirect](#microsoft-customer-agreement-acceptance).
  
 ### <a name="how-to"></a>Aide et Astuces
 
@@ -293,13 +311,15 @@ Le partenaire de transition doit effectuer les opérations suivantes :
  
 ### <a name="considerations"></a>Éléments à prendre en considération
 
-- **Le même abonnement ne peut pas être référencé par plusieurs demandes de transfert.** Une fois que vous avez créé une demande de transfert qui inclut un abonnement existant, vous ne pouvez pas créer de demandes de transfert supplémentaires, y compris le même abonnement, jusqu’à ce que la première demande de transfert soit annulée. 
+- **L’ID d’abonnement sera différent après le transfert.** S’il s’agit d’un abonnement Azure (MS-AZR-0145P), il aura un ID d’abonnement Azure, qui est conservé par le propriétaire précédent, et apparaîtra dans le portail de gestion Azure.
+
+- **Le même abonnement ne peut pas être référencé par plusieurs demandes de transfert.** Une fois que vous avez créé une demande de transfert incluant un abonnement existant, vous ne pouvez pas créer de demandes de transfert supplémentaires, y compris le même abonnement, jusqu’à ce que la première demande de transfert soit annulée. 
 
 - **Les modules complémentaires pour les abonnements basés sur les sièges doivent être transférés en même temps que leur abonnement de base.** Lors de la création d’une demande de transfert, si vous choisissez un abonnement existant avec un ou plusieurs modules complémentaires, les modules complémentaires sont automatiquement inclus dans la demande de transfert. 
 
 - **Les modifications apportées au nombre de sièges d’un abonnement ne seront pas reflétées dans la demande de transfert existante.** Une fois que vous avez créé une demande de transfert qui comprend un abonnement existant, vous devez éviter de mettre à jour la quantité de sièges de l’abonnement (ou les modules complémentaires associés). Dans ce cas, la nouvelle quantité ne sera pas reflétée dans la demande de transfert. Une fois que le fournisseur indirect a accepté la demande de transfert, l’abonnement résultant aura l’ancienne quantité. Si vous souhaitez que la nouvelle quantité soit transférée vers le fournisseur indirect, vous devez annuler la demande de transfert existante et en recréer une nouvelle. 
 
-- **Tous les achats ne peuvent pas être transférés à l’aide du transfert d’abonnements auto-pris en charge.** Actuellement, vous pouvez uniquement transférer les abonnements O365 et les abonnements Azure PAGY (MS-AZR-0145P) à l’aide de cette fonctionnalité. Les autres achats, y compris les plans Azure, les instances réservées Azure, les abonnements à base de termes et les abonnements SaaS pour Azure Marketplace, ne sont pas pris en charge. Vous verrez une raison pour laquelle un abonnement ne peut pas être transféré dans la page envoyer une demande de transfert.
+- **Tous les achats ne peuvent pas être transférés à l’aide du transfert d’abonnements auto-pris en charge.** Actuellement, vous pouvez uniquement transférer les abonnements O365 et les abonnements Azure PAGY (MS-AZR-0145P) à l’aide de cette fonctionnalité. Les autres achats, y compris les plans Azure, les instances réservées Azure, les abonnements à base de termes et les abonnements SaaS pour Azure Marketplace, ne sont pas pris en charge. Vous verrez une raison pour laquelle un abonnement ne peut pas être transféré dans la page envoyer une demande de transfert. Pour transférer ces abonnements, vous devez [Annuler l’abonnement existant](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) et acheter une nouvelle offre pour le client via le fournisseur indirect.
 
 - **Ne peut pas être testé à l’aide de l’environnement sandbox.** 
 
