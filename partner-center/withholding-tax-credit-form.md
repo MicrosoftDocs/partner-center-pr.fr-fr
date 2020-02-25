@@ -1,115 +1,95 @@
 ---
 title: Assurez-vous que vous êtes crédité de l’impôt à la demande | Espace partenaires
 ms.topic: article
-ms.date: 11/07/2019
-description: Assurez-vous que votre compte espace partenaires est crédité pour la TVA, puis ouvrez une demande de service si nécessaire.
+ms.date: 2/16/2020
+description: Assurez-vous que votre compte espace partenaires est crédité pour la TVA en créant une demande de retenue d’impôt dans l’espace partenaires.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: LauraBrenner
-ms.author: labrenne
-keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, formulaire de crédit fiscal
+author: brentserbus
+ms.author: brserbus
+keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, certificats fiscaux
 ms.localizationpriority: medium
-ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943162"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521000"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Vérifiez que vous êtes bien crédité de la retenue à la source
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande
 
 S'applique à :
 
-- Espace partenaires
+- Centre pour partenaires
 
-Cette rubrique explique comment s’assurer que vous êtes crédité de l’impôt à la demande dans l’espace partenaires. Il explique comment ouvrir une demande de service à l’aide du formulaire de retenue à la source globale ou du formulaire d’impôt à la retenue pour l’Allemagne.
+Cette rubrique explique comment s’assurer que vous êtes crédité de l’impôt à la demande dans l’espace partenaires. Il explique comment créer une demande de retenue de taxes dans l’espace partenaires.
+
+## <a name="overview"></a>Overview
+
+Dans certains pays, les partenaires CSP reçoivent des montants de facture incluant des taxes. Certains de ces partenaires paient leur administration fiscale locale au lieu de Microsoft. Ces partenaires doivent soumettre une demande de retenue d’impôt, y compris leur certificat fiscal, afin d’effacer le montant imposé des factures précédentes. Comme les montants effacés apparaissent sous forme de crédits dans les factures mensuelles suivantes, le partenaire ne sera plus tenu à Microsoft du montant non payé.
+
+À partir du 1er janvier 2020, les partenaires CSP doivent envoyer des demandes de retenue d’impôt sur la **page de facturation** au lieu de créer des demandes de support. Pour envoyer les demandes dans la page facturation, les partenaires CSP doivent accéder à l' **espace partenaires** et sélectionner **facturation** dans le volet de navigation de gauche. La **page facturation** est le nouvel emplacement où envoyer les demandes de retenue d’impôt. 
+
+### <a name="submit-a-new-tax-withholding-request"></a>Soumettre une nouvelle demande de retenue d’impôt
+
+Procédez comme suit pour soumettre une nouvelle retenue fiscale :
+
+1. Connectez-vous au tableau de bord de l’espace partenaires.
+2. Dans le menu de gauche, choisissez **facturation** .
+3. Recherchez la facture pour laquelle vous souhaitez soumettre la retenue fiscale pour dans la section de l' **historique de facturation** de la page **facturation** .
+4. Cliquez sur **Envoyer nouveau** pour afficher la page **nouvelle demande de retenue d’impôt** .
+
+![Soumettre une nouvelle retenue fiscale pour une facture](images/wht1.png)
+
+5. Passez en revue les détails de la facture pour vous assurer que vous soumettez la demande de facture correcte.
+
+![Finaliser les détails de la retenue d’impôt pour une facture](images/wht2.png)
+
+6. Entrez le « total de retenue » sous **Détails de la retenue fiscale**. Le « total de retenue » est le montant que vous pensez avoir crédité.
+7. **Joindre** un certificat fiscal. Vous devez inclure une **copie numérique** de vos certificats de **retenue** à la taxe dans votre demande de retenue d’impôt. Vous avez reçu ce certificat de votre Agence fiscale locale lorsque vous avez soumis votre demande dans l’espace partenaires. Si vous soumettez un **certificat fiscal de langue autre** que l’anglais à l’aide du **processus de demande de retenue d’impôt**, vous devez inclure une **traduction** du certificat fiscal. Le montant de la taxe sur la facture dans le certificat de retenue à la demande doit correspondre au montant total de votre demande de retenue fiscale. 
 
 > [!IMPORTANT]
-> Microsoft doit recevoir le **formulaire de crédit d’impôt** à la retenue et une copie de votre **certificat de retenue** à la demande pour que votre compte soit crédité de la taxe.
+> Le montant total que le partenaire fournit doit correspondre à l’élément de ligne de facturation du certificat de taxe joint.
 
-## <a name="withholding-tax-credit-form"></a>Formulaire de crédit d’impôt à la source
+8. **Envoyez** la demande de retenue d’impôt.
 
-- Assurez-vous que le formulaire comprend le nom et le pays de votre société, le numéro du certificat d’impôt à la source, et que le formulaire est signé et daté avec précision. Voici les formulaires de crédit d’impôt : pour l' [Allemagne](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) et [tous les autres pays](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+Une fois envoyée, la demande passe dans le processus d’approbation, où elle est approuvée pour être terminée ou renvoyée au partenaire si des corrections sont nécessaires. Les partenaires peuvent afficher l’état de leurs demandes dans l' **historique de facturation** où elles ont envoyé la nouvelle demande. L’ID et l’état de la demande s’affichent dans l' **historique de facturation**.
 
-Le formulaire de crédit d’impôt à la demande fournit à Microsoft les informations suivantes :
+Les demandes renvoyées au partenaire permettront au partenaire de modifier le montant de la retenue et de remplacer le certificat en cas de problème. 
 
-- Facture (s)
-- Montant payé à Microsoft
-- Montant de la retenue d'impôt
-- Pourcentage de retenue à la source
-- Type de paiement
-- Société qui a été payée (si autre que Microsoft)
+### <a name="update-request-and-resubmit"></a>Mettre à jour la demande et renvoyer
 
-- Une fois ces informations prêtes, créez la demande de service.
+L’équipe de révision peut demander au partenaire d’apporter des corrections et de renvoyer une demande avant de pouvoir l’approuver. Ils modifient l’État en « action partenaire en attente ». Pour corriger et soumettre à nouveau la demande :
+ 
+1. Connectez-vous au tableau de bord de l’espace partenaires.
+2. Dans le menu de gauche, choisissez **facturation** .
+3. Dans l' **historique de facturation**de la page de **facturation** , recherchez impôt à la demande. Les demandes nécessitant une attention de partenaire auront l’état « action partenaire en attente ».
+4. Cliquez sur l’ID et l’état de la demande de retenue à la demande d’impôt pour atteindre la page de la demande.
+5. Sélectionnez « mettre à jour et renvoyer » sous **État**.
+6. Passez en revue les commentaires laissés par les réviseurs en mettant en évidence ce qui doit être modifié.
+7. Effectuez les corrections en soumettant un certificat mis à jour ou en ajustant les montants de retenue.
+8. **Envoyez** la demande. 
 
-Vous devez remplir le **formulaire de crédit d’impôt à la** demande avant de créer votre demande de support. Vous allez inclure ce formulaire avec votre demande de support.
+Cette opération renvoie la demande à l’équipe de révision, où elle approuve ou demande des modifications supplémentaires.
+ 
+### <a name="approved-requests"></a>Demandes approuvées
 
-Remplissez le formulaire approprié pour votre pays ou région :
+Les demandes de retenue d’impôt approuvées sont exécutées sur la facture suivante du partenaire, en réécrivant le montant dû à condition que la certification prouve que le partenaire a payé cette quantité à leur administration fiscale locale.
 
-- [**Formulaire de crédit d’impôt à la retenue globale**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (tous les pays, à l’exclusion de l’Allemagne)
-- [**Formulaire de crédit d’impôt à la retenue d’Allemagne**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
+Le traitement des demandes de retenue d’impôt doit prendre deux jours pour s’exécuter en supposant que le certificat et le montant de la taxe sont corrects. Si des modifications sont nécessaires, cela peut prendre plus de temps, ce qui demande au partenaire d’apporter des corrections avant de soumettre à un renvoi.
 
-Assurez-vous que votre formulaire est exact avant de le soumettre à Microsoft :
+Une fois la saisie semi-automatique terminée, les factures mois suivantes doivent refléter les modifications apportées à la forme d’un crédit.
+ 
+Vous pouvez résoudre les questions relatives à l’envoi d’une demande de retenue d’impôt en créant un ticket de support dans l’espace partenaires. L’ID de demande de retenue d’impôt est un champ obligatoire pour la résolution des questions.
 
-1. Sélectionnez le point d' **interrogation** **( ?)** dans le coin droit uppor de votre tableau de bord dans l’espace partenaires.
+## <a name="german-tax-withholding"></a>Impôt sur la taxe allemand
 
-2. Sélectionnez **CSP**.
+Les partenaires qui envoient des demandes de retenue d’impôt allemand doivent penser à envoyer des copies papier de votre certificat de retenue à l’adresse suivante : 
 
-3. Sous **CSP-facturation et paiements**, sélectionnez le type de problème- **impôt à la source** , puis sélectionnez **Oui**. 
+- ATTN : EOC Tax Team Marianne Gannon
+- Centre d’opérations Microsoft EMEA
+- Un emplacement Microsoft,
+- Parc d’affaires du comté du Sud
+- Leopardstown, Dublin 18, Irlande
 
-4. Lorsque vous soumettez la demande de service, veillez à associer le formulaire de crédit d’impôt et les copies numériques des certificats fiscaux.
-
-5. Si vous soumettez un certificat fiscal non anglais via une demande de service en anglais, une traduction du certificat fiscal est nécessaire.
-
-6. Nous vous contacterons directement par e-mail ou par téléphone.
-
-- Incluez le nom et le **pays** de votre **société** dans le formulaire.
-- **Signe** précis et **Date** du formulaire.
-- Notez le **pourcentage de montants de retenue de taxes** approprié sur le formulaire, en fonction des informations de votre autorité fiscale locale.
-- Assurez-vous que le **montant total** sur le formulaire correspond aux totaux des factures que vous envoyez.
-
-## <a name="include-withholding-tax-certificates"></a>Inclure les certificats de retenue à la taxe
-
-Les certificats de taxe doivent être destinés uniquement aux factures Microsoft. Si d’autres sociétés sont incluses dans les certificats, spécifiez la quantité afin que nous puissions l’exclure dans notre traitement interne, tout en gardant une visibilité complète sur le nombre total de certificats inclus. 
-
-Vous devez inclure une **copie numérique** de vos certificats de **retenue** à la taxe, ainsi que votre demande de support. Vous avez reçu ce certificat de votre Agence fiscale locale lorsque vous avez soumis votre demande dans l’espace partenaires.
-
-Le total dans le certificat de retenue à la demande doit correspondre aux détails de la prise en charge dans le formulaire de crédit d’impôt à la retenue.
-
-Renseignez complètement le [formulaire de crédit d’impôt](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) , puis envoyez-le en même temps que la copie scannée du certificat de retenue à la demande, lors de l’envoi de votre demande dans l’espace partenaires ou dans votre portail Azure/O365/CRM/Intune. 
-
-Si vous soumettez un **certificat fiscal non anglais** par le biais d’une **demande de service de langue anglaise**, vous devez inclure une **traduction** du certificat fiscal.
-
-Les certificats de taxe doivent être destinés **uniquement aux factures Microsoft**. Si vous avez d' **autres sociétés** que les certificats incluent, spécifiez le montant de sorte que nous puissions exclure le montant de notre traitement interne, tout en gardant une visibilité complète sur ce que sont les certificats totaux.
-
-## <a name="create-a-service-request"></a>Créer une demande de service
-
-Les informations suivantes s’appliquent *uniquement* aux partenaires du **programme fournisseur de solutions Cloud (CSP)** . Celles-ci incluent uniquement des **partenaires directs** et des **fournisseurs indirects**. Les **revendeurs indirects** doivent utiliser leurs **fournisseurs indirects** à la place.
-
-1. Connectez-vous au tableau de bord dans l’espace partenaires.
-2. Dans le menu de gauche du tableau de bord, choisissez **support**, puis **demandes de support partenaires**.
-3. Choisissez **nouvelle requête**.
-4. Dans la page **Démarrer la demande** , sous **CSP-facturation et paiements**, choisissez **Sélectionner un type de problème**. Sélectionnez **impôt à la source** comme type de problème.
-5. Sur la page **solutions recommandées** , passez en revue les informations. Ensuite, sous avez **-vous besoin d’aide supplémentaire ?** , choisissez **Oui**.
-6. Dans la page **Détails** , renseignez tous les champs obligatoires sous **Détails du problème**.
-7. Téléchargez votre [**formulaire de crédit d’impôt**](#withholding-tax-credit-form) à la demande à l’aide du dernier champ du formulaire.
-8. Chargez votre [**certificat d’impôt**](#include-withholding-tax-certificates) à la retenue et, le cas échéant, une traduction du certificat.
-9. Choisissez Envoyer pour envoyer dans votre **demande de support** . Microsoft vous contactera ensuite directement par courrier électronique ou par téléphone. 
-10. Si vous êtes en **Allemagne**, consultez les [instructions spéciales pour l’Allemagne](#germany-tax-withholding) à envoyer par courrier électronique des **copies physiques** obligatoires de votre certificat d’impôt à la retenue.
-
-À l’aide de la méthode de **paiement par facture-paiement** , une fois les certificats de taxe reçus et validés avec succès, le solde restant sur votre facture sera effacé dans environ une semaine.
-
-Une fois vos certificats fiscaux reçus et validés par Microsoft, utilisez le mode de **paiement de la facture-** paiement. Le solde restant sur votre facture sera effacé dans environ une semaine.
-
-## <a name="germany-tax-withholding"></a>Impôt à la taxe Allemagne
-
-Pour l’Allemagne *uniquement*, suivez les mêmes étapes normales pour :
-
-1. [Remplissez le formulaire de crédit d’impôt à la retenue de l’Allemagne](#withholding-tax-credit-form)
-2. [Inclure vos certificats de retenue à la taxe](#include-withholding-tax-certificates)
-3. [Créez une demande de support de l’espace partenaires](#create-a-service-request) avec le formulaire de crédit d’impôt à la source et les certificats de retenue à la source associés.
-
-Ensuite, envoyez des copies physiques de vos certificats de retenue à l’adresse suivante :
-
-> ATTN : EOC Tax Team Marianne Gannon Microsoft EMEA Operations Center One Microsoft place, sud du commerce Park Leopardstown, Dublin 18, Irlande
