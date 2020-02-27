@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, certificats fiscaux
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521000"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618524"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande
 
@@ -47,7 +47,7 @@ Procédez comme suit pour soumettre une nouvelle retenue fiscale :
 ![Finaliser les détails de la retenue d’impôt pour une facture](images/wht2.png)
 
 6. Entrez le « total de retenue » sous **Détails de la retenue fiscale**. Le « total de retenue » est le montant que vous pensez avoir crédité.
-7. **Joindre** un certificat fiscal. Vous devez inclure une **copie numérique** de vos certificats de **retenue** à la taxe dans votre demande de retenue d’impôt. Vous avez reçu ce certificat de votre Agence fiscale locale lorsque vous avez soumis votre demande dans l’espace partenaires. Si vous soumettez un **certificat fiscal de langue autre** que l’anglais à l’aide du **processus de demande de retenue d’impôt**, vous devez inclure une **traduction** du certificat fiscal. Le montant de la taxe sur la facture dans le certificat de retenue à la demande doit correspondre au montant total de votre demande de retenue fiscale. 
+7. **Joindre** un certificat fiscal. Vous devez inclure une **copie numérique** de vos certificats de **retenue** à la taxe dans votre demande de retenue d’impôt. Vous avez reçu ce certificat de votre Agence fiscale locale lorsque vous avez soumis votre demande dans l’espace partenaires. Le montant de la taxe sur la facture dans le certificat de retenue à la demande doit correspondre au montant total de votre demande de retenue fiscale. 
 
 > [!IMPORTANT]
 > Le montant total que le partenaire fournit doit correspondre à l’élément de ligne de facturation du certificat de taxe joint.
