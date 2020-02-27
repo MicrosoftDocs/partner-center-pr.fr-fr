@@ -1,7 +1,7 @@
 ---
 title: Confirmer l’acceptation du contrat client Microsoft par le client | Espace partenaires
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 02/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment confirmer l’acceptation du Contrat client Microsoft par les clients. Cela peut être nécessaire pour commander des produits et services Microsoft pour les clients.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat Microsoft Cloud, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: high
-ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012163"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521022"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmer l’acceptation du Contrat client Microsoft par les clients
 
@@ -104,7 +104,7 @@ Pour ce faire, vous devez être un agent d’administration ou un commercial :
 
 5. Sélectionnez **Enregistrer** et continuez.
 
-![Client existant](images/mcua2.png)
+![Client existant](images/mcua2-update2.png)
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Récupérer la confirmation de l’acceptation par le client
 
@@ -125,6 +125,9 @@ Les partenaires peuvent inviter de nouveaux clients et des clients existants, vi
 - Inviter un nouveau client à passer en revue et accepter la relation de revendeur et le contrat
 
 - Inviter un client existant à passer en revue et accepter le contrat
+
+>[!NOTE]
+> Vous pouvez utiliser l’[API ou le SDK de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) pour savoir si le client a accepté directement le Contrat client Microsoft.  
 
 ## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Créer un client, et l’inviter à passer en revue et accepter le contrat
 
