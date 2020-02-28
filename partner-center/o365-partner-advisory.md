@@ -7,25 +7,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, RTPC, services, taxes, exigences, facture, facturation
 ms.localizationpriority: medium
-ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: aad61f682740ad20dec1264cd48ff87d1f2c0806
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005058"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672819"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Avis de partenaire Office 365 : Microsoft 365 Voice dans CSP
 
 **S’applique à**
 
-- Espace partenaires  
+- Centre pour partenaires  
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Agent d’administration
 
-Les services de réseau public commuté (RTPC) publics dans certains pays peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires.  Dans le États-Unis, Porto Rico et Canada, Skype for Business RTPC et Microsoft 365 Voice services sont soumis à des obligations réglementaires et fiscales particulières. Dans le États-Unis et à Porto Rico, les tarifs de Microsoft sont les services RTPC comme taxes incluses.  Des taxes et réglementations uniques sur les RTPC affectent les partenaires Office 365 qui transportent des produits Microsoft 365 Voice.  Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
+Dans certaines juridictions, les services de réseau public commuté (RTPC) peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires. Dans le États-Unis, y compris Porto Rico, les services RTPC, qui incluent la conférence audio, les plans d’appel et les crédits de communication, sont soumis à des obligations réglementaires et fiscales particulières. Dans le États-Unis et à Porto Rico, les tarifs de Microsoft sont les services RTPC comme taxes incluses.  Des taxes et réglementations uniques sur les RTPC affectent les partenaires Office 365 qui transportent des produits Microsoft 365 Voice.  Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
 
 ## <a name="partner-recommendations"></a>Recommandations pour les partenaires
 
@@ -47,13 +47,13 @@ Office 365 Enterprise E5 présente le fichier de rapprochement sous la forme de 
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Entreprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Frais de cycle   |28,40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Entreprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Frais de cycle   |2,00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office&nbsp;365 Enterprise&nbsp;E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Frais de cycle   |28,40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office&nbsp;365 Enterprise&nbsp;E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Frais de cycle   |2.00   |
 
 **Exemple de #2 de rapprochement des partenaires**
 
 Microsoft 365 Business Voice disponible dans le Canada possède des composants de passerelle RTPC supplémentaires qui sont consolidés sur une facture CSP (similaire à Office 365 E5, deux éléments de ligne sont présentés, l’un pour les composants RTPC et l’autre pour les composants non-RTPC).  Le fichier de rapprochement des fournisseurs de services Cloud pour Microsoft 365 Business Voice affiche tous les composants de RTPC taxables individuellement (les composants RTPC individuels ne sont pas consolidés dans. CSV ou l’outil API).  La somme des détails de la commande et des montants facturés pour les clients qui se trouvent dans le fichier de rapprochement correspond à la facture du fournisseur de services Cloud.
 
-## <a name="additional-resources"></a>Ressources complémentaires
+## <a name="additional-resources"></a>Ressources supplémentaires
 Pour plus d’informations, visitez le site [Microsoft 365 pour les partenaires](https://drumbeat.office.com/Pages/home2016.aspx) .
 

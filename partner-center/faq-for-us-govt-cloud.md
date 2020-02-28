@@ -8,12 +8,12 @@ description: Consultez les réponses aux questions fréquemment posées (FAQ) su
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253637"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672669"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Forum aux questions concernant l'Espace partenaires de Microsoft Cloud for US Government
 
@@ -21,11 +21,11 @@ ms.locfileid: "74253637"
 
 -  Espace partenaires de Microsoft Cloud for US Government
 
-## <a name="frequently-asked-questions"></a>Forum Aux Questions 
+## <a name="frequently-asked-questions"></a>Forum aux questions 
 
 Reportez-vous à ce forum aux questions pour en savoir plus sur le programme Fournisseur de solutions Cloud de Microsoft Cloud for US Government. Vous pouvez également contacter votre responsable de compte pour plus d’informations. 
 
-### <a name="common"></a>Commun
+### <a name="common"></a>Courant
 
 **Qu’est-ce que Microsoft Cloud pour le gouvernement des États-Unis ?**
 
@@ -71,13 +71,13 @@ Le contrat de revendeur Microsoft Cloud pour le gouvernement des États-Unis di
 
 -   L’Addendum de Microsoft Cloud pour le gouvernement des États-Unis inclut une responsabilité supplémentaire pour les partenaires lors de la vente de services Microsoft Cloud pour le gouvernement des États-Unis.
 
--   L’annexe A contient le contrat de Microsoft Cloud (accord Microsoft Cloud) qui doit être intégré à chaque contrat pour les services Cloud US Government entrés entre le CSP et son client.
+-   L’exposition A contient le contrat de client Microsoft (contrat de client Microsoft) qui doit être intégré à chaque contrat pour les services Cloud US Government entrés entre le CSP et son client.
 
-*Contrat de Microsoft Cloud (accord Microsoft Cloud) présenté sous la forme A dans MCRA*
+*Contrat du client Microsoft (contrat de client Microsoft) présenté sous la forme A dans MCRA*
 
 Les fournisseurs de solutions Cloud doivent incorporer l’Exposé A dans le contrat gouvernemental conclu entre les fournisseurs de solutions Cloud et les clients qui achètent Microsoft Cloud pour le gouvernement des États-Unis. Le contrat est publié sur l’Espace partenaires et est disponible en anglais.
 
-Le contrat Microsoft Cloud de Microsoft Cloud pour le gouvernement des États-Unis diffère du contrat Microsoft Cloud standard sur les deux points suivants :
+Le contrat client Microsoft pour le Cloud US Government est différent du contrat de niveau de service client standard de deux manières :
 
 -   Elle doit être incorporée dans le contrat du CSP avec son client.
 
@@ -91,7 +91,7 @@ Le contrat de distributeur Microsoft Cloud de Microsoft Cloud pour le gouverne
 
 -   L’Addendum de Microsoft Cloud pour le gouvernement des États-Unis inclut une responsabilité supplémentaire pour les partenaires lors de la vente de services Microsoft Cloud pour le gouvernement des États-Unis.
 
--   L’annexe A contient un contrat de Microsoft Cloud (accord Microsoft Cloud) qui doit être intégré à chaque contrat pour les services Cloud US Government entrés entre le CSP et ses clients.
+-   L’exposition A contient un contrat de client Microsoft (contrat de client Microsoft) qui doit être intégré à chaque contrat pour les services Cloud US Government entrés entre le CSP et ses clients.
 
 **Quelles sont les qualifications pour vendre des Microsoft Cloud pour le gouvernement des États-Unis ?**
 

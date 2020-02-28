@@ -10,24 +10,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860440"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672709"
 ---
 # <a name="add-a-new-customer"></a>Ajouter un client 
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 - Partenaires du programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Agent commercial
@@ -42,10 +42,10 @@ Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un sup
 
 1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez **Ajouter un client**.
 
-2. Sur la page informations sur le **compte** , entrez les informations relatives au client et les informations de contact principales, puis vérifiez que le client a accepté et signé le dernier [contrat de Microsoft Cloud](agreements.md).
+2. Sur la page informations sur le **compte** , entrez les informations du client et le contact principal, puis vérifiez que le client a accepté et signé le dernier [contrat de client Microsoft](agreements.md).
 
 >[!IMPORTANT] 
-> Le 1er octobre 2019, Microsoft a introduit le **contrat du client Microsoft** dans le programme CSP pour remplacer le contrat de Microsoft Cloud. Pour faciliter la migration des partenaires vers le nouveau contrat, le contrat Microsoft Cloud actuel sera pris en charge dans le programme Fournisseur de solutions Microsoft Cloud jusqu’au 31 janvier 2020. En savoir plus sur le [contrat de client Microsoft et sur la manière de confirmer le consentement](confirm-customer-agreement.md)
+> Le 1er octobre 2019, Microsoft a introduit le **Contrat client Microsoft** dans le programme Fournisseur de solutions Cloud pour remplacer le contrat Microsoft Cloud. En savoir plus sur le [contrat de client Microsoft et sur la manière de confirmer le consentement](confirm-customer-agreement.md)
   
 3. Si vous êtes un fournisseur indirect, sélectionnez le revendeur indirect que vous souhaitez associer aux abonnements de ce client dans la liste.
 
@@ -60,7 +60,7 @@ Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un sup
 
 7. Sélectionnez **terminé** lorsque vous avez terminé d’ajouter les informations sur le client et acheté les abonnements requis.
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir aussi
 
 - Pour plus d’informations sur ce que vous pouvez vendre aux clients par le biais du programme fournisseur de solutions Cloud [, consultez offres partenaires dans le programme fournisseur de solutions Cloud](csp-offers.md) .
 

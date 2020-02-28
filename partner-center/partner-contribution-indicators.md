@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716939"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672689"
 ---
 # <a name="partner-contribution-indicators"></a>Indicateurs de contribution des partenaires
 
@@ -44,7 +44,7 @@ Chaque indicateur fait apparaître un score qui est ajouté au total. Voici les 
 
 ### <a name="thresholds"></a>Seuils
 
-Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter un nombre maximal de points à votre entreprise. Ces seuils diffèrent pour l’engagement du client et les chemins d’opérations de & financiers pour la réalisation de la compétence du Cloud Business Applications. Les seuils diffèrent également pour les partenaires qui travaillent sur des marchés développés par rapport à ceux qui opèrent exclusivement sur les marchés en développement.  La catégorisation de marché développée ou en développement d’un pays est basée sur les [définitions de Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter un nombre maximal de points à votre entreprise. Ces seuils diffèrent pour l’engagement du client et les chemins d’opérations de & financiers pour la réalisation de la compétence du Cloud Business Applications. Les seuils diffèrent également pour les partenaires qui travaillent sur des marchés développés par rapport à ceux qui opèrent exclusivement sur les marchés en développement.  La catégorisation de marché développée ou en développement d’un pays est basée sur les [définitions de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 Les points de chaque mesure sont comptabilisés pour produire un score PCI distinct pour l’engagement client et les opérations de & finance qui seront mises à jour tous les mois.
 
