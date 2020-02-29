@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: abonnements, produits, achats, Marketplace, tiers, ISV, facturation, factures, rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384910"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161445"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>Facturation pour les produits de la place de marché commercial
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
@@ -35,7 +35,7 @@ Vous pouvez accéder aux factures depuis le [tableau de bord](https://partner.mi
 Les partenaires du programme CSP sont facturés pour les solutions de la place de marché commercial ISV achetées pour un client lors de l’achat de ces produits à partir de l’espace partenaires ou du Portail Azure (à l’aide du locataire Azure du client précédent acheté).
 
 >[!NOTE]
->Si les clients utilisent leur propre Azure AD locataire (non acheté par un partenaire dans le programme CSP), les clients peuvent également choisir d’acheter leur propre solution SaaS ISV directement à partir de ([Microsoft AppSource](https://appsource.microsoft.com/) ou place de [marché Azure](https://azuremarketplace.microsoft.com/)). S’ils le font, ils recevront leur propre facture directement de la part de Microsoft. De même, si un partenaire du programme CSP vend un locataire Azure AD au client et accorde à ce locataire l' [accès basé](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) sur le rôle client (en attribuant un rôle au client en plus du **lecteur**), ce client peut également acheter des offres de la place de marché commercial sans l’approbation préalable ou la notification au partenaire CSP. Dans ce cas, Microsoft ne notifie pas directement les partenaires du programme CSP aux achats effectués par leurs clients. Toutefois, Microsoft propose un mécanisme de [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) facultatif que vous pouvez utiliser pour définir des alertes ou des notifications sur l’activité d’un abonnement Azure.
+>Si les clients utilisent leur propre Azure AD locataire (non acheté par un partenaire dans le programme CSP), les clients peuvent également choisir d’acheter leur propre solution SaaS ISV directement à partir de ([Microsoft AppSource](https://appsource.microsoft.com/) ou place de [marché Azure](https://azuremarketplace.microsoft.com/)). S’ils le font, ils recevront leur propre facture directement de la part de Microsoft. De même, si un partenaire du programme CSP vend un abonnement Azure ou le nouveau plan Azure au client et accorde à ce locataire l' [accès basé](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) sur le rôle client (en attribuant un rôle au client en plus du **lecteur**), ce client peut également acheter des offres de la place de marché commercial sans l’approbation préalable ou la notification au partenaire CSP. Dans ce cas, Microsoft ne notifie pas directement les partenaires du programme CSP aux achats effectués par leurs clients. Toutefois, Microsoft propose un mécanisme de [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) facultatif que vous pouvez utiliser pour définir des alertes ou des notifications sur l’activité d’un abonnement Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Accéder aux informations de facturation pour les produits de la place de marché commercial
 
@@ -70,7 +70,7 @@ Lorsque vous sélectionnez des **achats récurrents et ponctuels** à partir de 
 
 - Abonnements SaaS (à partir des éditeurs Microsoft ou ISV)
 
-- Plan Azure
+- plan Azure
 
 - Réservations Azure
 
