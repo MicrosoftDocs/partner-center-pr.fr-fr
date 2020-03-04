@@ -1,7 +1,7 @@
 ---
 title: Facturation pour les produits de la place de marché commercial | Espace partenaires
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 02/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment la facturation fonctionne pour les produits ou abonnements SaaS ISV achetés pour les clients à partir de la place de marché commerciale dans l’espace partenaires.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: abonnements, produits, achats, Marketplace, tiers, ISV, facturation, factures, rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
-ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
+ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/28/2020
-ms.locfileid: "78161445"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240196"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>Facturation pour les produits de la place de marché commercial
 
@@ -35,7 +35,7 @@ Vous pouvez accéder aux factures depuis le [tableau de bord](https://partner.mi
 Les partenaires du programme CSP sont facturés pour les solutions de la place de marché commercial ISV achetées pour un client lors de l’achat de ces produits à partir de l’espace partenaires ou du Portail Azure (à l’aide du locataire Azure du client précédent acheté).
 
 >[!NOTE]
->Si les clients utilisent leur propre Azure AD locataire (non acheté par un partenaire dans le programme CSP), les clients peuvent également choisir d’acheter leur propre solution SaaS ISV directement à partir de ([Microsoft AppSource](https://appsource.microsoft.com/) ou place de [marché Azure](https://azuremarketplace.microsoft.com/)). S’ils le font, ils recevront leur propre facture directement de la part de Microsoft. De même, si un partenaire du programme CSP vend un abonnement Azure ou le nouveau plan Azure au client et accorde à ce locataire l' [accès basé](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) sur le rôle client (en attribuant un rôle au client en plus du **lecteur**), ce client peut également acheter des offres de la place de marché commercial sans l’approbation préalable ou la notification au partenaire CSP. Dans ce cas, Microsoft ne notifie pas directement les partenaires du programme CSP aux achats effectués par leurs clients. Toutefois, Microsoft propose un mécanisme de [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) facultatif que vous pouvez utiliser pour définir des alertes ou des notifications sur l’activité d’un abonnement Azure.
+>Si les clients utilisent leur propre Azure AD locataire (non acheté par un partenaire dans le programme CSP), les clients peuvent également choisir d’acheter leur propre solution SaaS ISV directement à partir de ([Microsoft AppSource](https://appsource.microsoft.com/) ou place de [marché Azure](https://azuremarketplace.microsoft.com/)). S’ils le font, ils recevront leur propre facture directement de la part de Microsoft. De même, si un partenaire du programme CSP vend un abonnement Azure ou le nouveau plan Azure au client et accorde à ce locataire l' [accès en fonction du rôle](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) de client (ou de revendeur indirect) (en attribuant un rôle au client en plus du **lecteur**), ce client (ou revendeur indirect) peut également acheter des offres de la place de marché commercial sans l’approbation préalable ou la notification au partenaire Dans ce cas, Microsoft ne notifie pas directement les partenaires du programme CSP aux achats effectués par leurs clients. Toutefois, Microsoft propose un mécanisme de [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) facultatif que vous pouvez utiliser pour définir des alertes ou des notifications sur l’activité d’un abonnement Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Accéder aux informations de facturation pour les produits de la place de marché commercial
 

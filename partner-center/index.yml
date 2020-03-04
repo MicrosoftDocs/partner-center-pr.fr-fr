@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 02/07/2020
-  ms.openlocfilehash: 6f813e45dacd881d6b83ab89ee3c1c25d8913593
-  ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
+  ms.openlocfilehash: 004c3a5b03685f41a7a1e76b734b71bccc50ca7b
+  ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 02/07/2020
-  ms.locfileid: "77075604"
+  ms.lasthandoff: 03/03/2020
+  ms.locfileid: "78240216"
 highlightedContent:
   items:
   - title: Connectez-vous pour voir les dernières annonces
@@ -41,9 +41,6 @@ highlightedContent:
   - title: Nouvelle expérience commerciale dans l’Espace partenaires – Plan Azure
     itemType: whats-new
     url: azure-plan-lp.md
-  - title: Préparez-vous à une année bissextile. Le 29 février 2020 approche à grands pas. Assurez-vous que votre code peut gérer ce jour supplémentaire.
-    itemType: whats-new
-    url: https://aka.ms/leapday2020blog
 conceptualContent:
   title: Travailler dans l’Espace partenaires
   items:

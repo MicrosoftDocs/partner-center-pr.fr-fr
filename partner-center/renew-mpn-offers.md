@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, renouvellement de compétence, date de renouvellement
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651960"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161433"
 ---
 # <a name="renew-your-mpn-offers"></a>Renouveler vos offres MPN
 
@@ -39,6 +39,3 @@ Vous disposez de 30 jours après la date anniversaire pour effectuer le renouve
 
 Lorsque vous effectuez le renouvellement au cours de la fenêtre prévue à cet effet, votre nouvelle date anniversaire est fixée à 365 jours après la date anniversaire actuelle.
 
-## <a name="manage-auto-renewal"></a>Gérer le renouvellement automatique
-
-Lorsque le renouvellement automatique est activé, votre carte de crédit est débitée un jour après la date anniversaire. Vous pouvez désactiver le renouvellement automatique à tout moment avant la date anniversaire.
