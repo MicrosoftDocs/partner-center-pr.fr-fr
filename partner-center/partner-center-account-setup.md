@@ -1,7 +1,7 @@
 ---
 title: Gérer votre compte Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 03/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gérez le profil, le catalogue, les informations bancaires et fiscales, les rôles et les autorisations de votre entreprise dans l’Espace partenaires.
@@ -10,38 +10,48 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ec5934e4d35b653e8e781e8eb1290bfbaee0d737
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
+ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76812673"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240180"
 ---
 # <a name="manage-your-partner-center-account"></a>Gérer votre compte Espace partenaires
 
 **S’applique à**
 
--  Espace partenaires
-
-**Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent d’administration
+- Espace partenaires
 
 Le compte que vous créez dans l’Espace partenaires au moment de l’inscription comprend votre adresse e-mail professionnelle et des informations sur votre entreprise. Après avoir créé un compte dans l’Espace partenaires, vous ou votre administrateur devez achever la configuration du profil complet de votre entreprise en incluant les détails de votre support, les demandes d’exonération fiscale le cas échéant ainsi que les coordonnées du contact principal. Le compte de votre entreprise inclut également les comptes d’utilisateur de toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur des programmes d’incentives et assurer un support.
 
+## <a name="programs-in-which-you-are-enrolled"></a>Programmes dans lesquels vous êtes inscrit
+
+La majeure partie du travail que vous faites pour gérer votre compte Espace partenaires est lié aux programmes spécifiques auxquels vous êtes inscrit et aux rôles et autorisations utilisateur qui vous ont été attribués dans l’Espace partenaires.
+
+Il est facile de voir à quels programmes vous avez accès dans l’Espace partenaires :
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
+2. Examinez le volet de navigation de gauche. Vous y trouvez les options associées aux programmes auxquels vous êtes inscrit.
+
+Voici un exemple. Supposons qu’un utilisateur a accès à trois programmes dans le tableau de bord de l’Espace partenaires : Le programme **MPN**, le programme **Références** et le programme **Place de marché commerciale**. Quand il se connecte au tableau de bord de l’Espace partenaires, il voit ces trois programmes dans la partie gauche de l’écran.
+
+![menu des programmes auxquels l’utilisateur est inscrit](images/accountsettings/programs-enrolled-left-nav.png)
+
 ## <a name="account-management"></a>Gestion des comptes
 
-Aujourd’hui, la gestion des comptes dans l’Espace partenaires comprend deux sections : les paramètres **Partenaire** et les paramètres **Développeur**. 
+Aujourd’hui, la gestion des comptes dans l’Espace partenaires comprend deux sections : **Paramètres du partenaire** et **Paramètres du développeur**.
 
 >[!NOTE]
->Les paramètres du compte se trouvent dans le coin supérieur droit de l’Espace partenaires. Quand vous sélectionnez l’icône, vous pouvez sélectionner ce que vous voulez gérer. 
+>Pour accéder aux **Paramètres du partenaire** ou aux **Paramètres du développeur**, vous devez vous connecter au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires, puis sélectionner l’option **Paramètres** (l’icône d’engrenage) dans l’angle supérieur droit de l’écran. Vous pouvez ensuite sélectionner **Paramètres du partenaire** ou **Paramètres du développeur** dans le menu déroulant.
 
 ![Paramètres de compte](images/accountsettings/account1.png)
 
-L’option de gestion des paramètres (Partenaire et/ou Développeur) accessible aux partenaires varie selon que leur entreprise est inscrite à ces programmes. L’option de paramètres n’est disponible que si votre entreprise est inscrite à au moins un programme associé à ce paramètre. 
+Les partenaires peuvent voir l’option permettant de gérer les **Paramètres du partenaire** et/ou les **Partenaires du développeur**, selon le ou les programmes auxquels leur entreprise est inscrite. L’option de paramètres n’est disponible que si votre entreprise est inscrite à au moins un programme associé à ce paramètre.
 
-Pour gérer les paramètres de votre compte, vous devez sélectionner l’option de paramètres de compte appropriée pour le programme. Les programmes auxquels votre société est inscrite sont visibles dans le volet de navigation gauche de l’Espace partenaires. Il s’agit d’une liste (non exhaustive) des programmes et de l’option de paramètres correspondante :
+Pour gérer les paramètres de votre compte, vous devez sélectionner l’option de paramètres de compte appropriée pour le programme en question.  
+
+Il s’agit d’une liste partielle des programmes disponibles et de l’option de paramètres correspondante associée à ce programme :
 
 |**Nom du programme**   |**Option de paramètres** |
 |---------------------|:-----------------------|
@@ -55,17 +65,28 @@ Pour gérer les paramètres de votre compte, vous devez sélectionner l’option
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>Différences entre les options de paramètres Partenaire et Développeur
 
-**Options de paramètres de compte Partenaire** :
+Les options des **Paramètres du partenaire** et des **Paramètres du développeur** sont différentes. Vous trouverez ci-dessous des exemples de captures d’écran de chaque groupe d’options. Si vous avez accès à d’autres programmes, il se peut que les options affichées soient différentes de celles présentées ici.
+
+**Options des Paramètres du partenaire** :
 
 ![options partenaire](images/accountsettings/partneroptions.png)
 
-**Options de paramètres de compte Développeur** :
+**Options des Paramètres du développeur** :
 
 ![options développeur](images/accountsettings/devoptions.png)
 
 ## <a name="enrolling-in-programs"></a>Inscription à des programmes
 
-L’Espace partenaires compte de nombreux programmes qui ont tous des exigences spécifiques régissant l’inscription de votre entreprise. Pour découvrir la procédure d’inscription aux programmes de l’Espace partenaires, consultez le [réseau de partenaires](https://partner.microsoft.com/). 
+Les programmes disponibles dans l’Espace partenaires sont nombreux. Chaque programme a ses propres exigences que votre entreprise doit respecter pour pouvoir s’y inscrire.
+
+Pour en savoir plus sur l’inscription aux programmes de l’Espace partenaires, consultez la liste (non exhaustive) suivante :
+
+- [Programme Place de marché commerciale](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programme MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
+- [Programme Fournisseur de solutions Cloud (CSP)](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+
+Pour en savoir plus sur l’inscription aux programmes de l’Espace partenaires, consultez aussi [Ressources du réseau Partenaires](https://partner.microsoft.com/).
 
 ## <a name="the-account-picker"></a>Sélecteur de compte
 
@@ -73,7 +94,9 @@ Vous pouvez faire partie de plusieurs comptes. Dans ce cas, le « sélecteur de
 
 ![sélecteur de compte](images/accountsettings/accountpicker.png)
 
-## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Ressources pour vous aider à gérer votre compte Espace partenaires
+## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Autres ressources pour vous aider à gérer votre compte Espace partenaires
+
+Si vous êtes inscrit à des programmes comme le programme MPN ou le programme Fournisseur de solutions Cloud (CSP), les ressources suivantes peuvent vous aider à gérer votre compte.
 
 |**Pour ce faire**   |**Lisez cela**   |
 |-----------------------|:-----------------------|
@@ -87,22 +110,3 @@ Vous pouvez faire partie de plusieurs comptes. Dans ce cas, le « sélecteur de
 |Veiller à promouvoir votre entreprise afin que les clients puissent vous trouver   |[Créer un profil professionnel](create-a-marketing-profile.md)|
 |Organiser votre catalogue de telle sorte que les produits les plus importants se trouvent en haut de la liste   |[Personnaliser le catalogue](customize-the-catalog.md)|
 |Se tenir informé des tarifs et offres en cours   |[Tarifs et offres](pricing-and-offers.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-

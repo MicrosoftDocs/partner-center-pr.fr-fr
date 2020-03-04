@@ -1,7 +1,7 @@
 ---
 title: Créer des comptes d’utilisateur et définir des autorisations | Espace partenaires
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment créer des comptes d’utilisateur et attribuer des rôles dans l’Espace partenaires pour chaque employé qui a besoin d’un accès. Les utilisateurs disposant de privilèges d’administrateur différents peuvent le faire.
@@ -10,35 +10,35 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: rôles, autorisations, ajouter un utilisateur, attribuer un rôle, administrateur, admin, agent
 ms.localizationpriority: high
-ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722454"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240206"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
 **Rôles appropriés**
 
 - Administrateur des comptes
-- Administrateur global
+- Administrateur général
 - Administrateur de la gestion des utilisateurs
 
-Créez des comptes d’utilisateur pour les employés qui doivent accéder à l’Espace partenaires. Ces tâches doivent être effectuées par l’administrateur de la gestion des utilisateurs, l’administrateur des comptes ou l’administrateur général.
+Créez des comptes d’utilisateur pour les employés qui doivent accéder à l’Espace partenaires. Ces tâches doivent être effectuées par l’administrateur de la gestion des utilisateurs, l’administrateur des comptes ou l’administrateur général. L’utilisateur qui effectue ces tâches doit aussi se voir attribuer les rôles Administrateur d’utilisateurs ou Administrateur général d’Azure Active Directory (AAD). Pour plus d’informations sur les rôles d’AAD, consultez [Autorisations des rôles d’administrateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 
 ## <a name="add-a-new-user"></a>Ajouter un nouvel utilisateur
 
 1. À partir de l’icône **Paramètres** en haut à droite de l’Espace partenaires, sélectionnez **Gestion des utilisateurs**.
 
-2.  Sélectionnez **Ajouter un utilisateur**.
+2. Sélectionnez **Ajouter un utilisateur**.
 
-3.  Entrez le nom complet et l’adresse e-mail unique de l’utilisateur.
+3. Entrez le nom complet et l’adresse e-mail unique de l’utilisateur.
 
-4.  Sélectionnez le type d’agent et/ou le type d’administrateur que vous souhaitez attribuer à l’utilisateur. Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques.  Si des utilisateurs souhaitent se voir attribuer un rôle, ils peuvent trouver des administrateurs généraux à contacter en accédant à **Gestion des utilisateurs** et en filtrant sur Administrateur général.
+4. Sélectionnez le type d’agent et/ou le type d’administrateur que vous souhaitez attribuer à l’utilisateur. Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques.  Si des utilisateurs souhaitent se voir attribuer un rôle, ils peuvent trouver des administrateurs généraux à contacter en accédant à **Gestion des utilisateurs** et en filtrant sur Administrateur général.
 
-5.  Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
+5. Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
 
 > [!IMPORTANT]  
 > Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. 
@@ -62,13 +62,13 @@ Pour travailler dans l’Espace partenaires, un rôle doit vous être attribué.
 
 
 **Parmi les rôles de locataire AAD, citons :**
-- Administrateur global
+- Administrateur général
 - Administrateur des utilisateurs
 
 **Parmi les rôles CSP, citons :**
 - Agent d’administration
-- Administration de facturation
-- Commercial
+- Administrateur de la facturation
+- Agent commercial
 - Agent du support technique
 
 **Rôles qui gèrent l’adhésion au MPN et l’entreprise (non-AAD)**
@@ -79,7 +79,7 @@ Pour travailler dans l’Espace partenaires, un rôle doit vous être attribué.
 - Utilisateur et administrateur d’incentives
 
 **Le fournisseur de panneau de contrôle est un rôle CSP et non-AAD**.
-- Administrateur global
+- Administrateur général
 
 L’**utilisateur invité** doit faire partie du locataire AAD et peut avoir n’importe quel rôle non-AAD.
 

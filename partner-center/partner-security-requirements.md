@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723446"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672799"
 ---
 # <a name="partner-security-requirements"></a>Exigences de sécurité du partenaire
 
@@ -64,13 +64,21 @@ Pour vous conformer aux exigences de sécurité des partenaires, vous devez appl
 
 ## <a name="security-defaults"></a>Paramètres de sécurité par défaut
 
-- Les paramètres de sécurité par défaut remplacent les stratégies de base de référence. 
+La stratégie Paramètres de sécurité par défaut est l’une des [options](#actions-that-you-need-to-take) que les partenaires peuvent choisir pour implémenter l’authentification multifacteur (MFA) pour répondre aux exigences de sécurité en fonction de leurs besoins métier. Elle offre un niveau de sécurité de base sans coût supplémentaire. Avant d’activer les paramètres de sécurité par défaut, examinez ci-dessous les principaux éléments à prendre en considération et découvrez comment activer MFA.
 
 - Les stratégies de base de référence vont rester en vigueur pendant les prochains mois, et le ciblage sera déprécié à la fin de février 2020.
 
 - Les partenaires qui ont déjà adopté des stratégies de base de référence doivent prendre des mesures pour assurer la transition vers les paramètres de sécurité par défaut.
 
+- Les paramètres de sécurité par défaut, désormais en disponibilité générale, remplacent les stratégies de référence en préversion. Une fois qu’un partenaire active les paramètres de sécurité par défaut, il ne peut plus activer les stratégies de référence.
+
 - Avec les paramètres de sécurité par défaut, toutes les stratégies vont être activées en même temps. 
+
+- Pour les partenaires qui utilisent l’[accès conditionnel](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), les [paramètres de sécurité par défaut ne sont pas disponibles](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+
+- Pour l’heure, le blocage de l’authentification héritée ne s’applique pas d’office pour les partenaires. Cependant, dans la mesure où la plupart des événements liés aux identités compromises viennent de tentatives de connexion utilisant l’authentification héritée, les partenaires sont encouragés à abandonner ces anciens protocoles.
+
+- Le compte de synchronisation Azure AD Connect est exclu des paramètres de sécurité par défaut.
 
 - Pour obtenir des informations détaillées, consultez [Activer l’authentification MFA (Multi-Factor Authentication) pour votre organisation](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) et [Paramètres de sécurité par défaut d’Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
