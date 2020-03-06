@@ -1,7 +1,7 @@
 ---
 title: Ajouter un nouveau client | Espace partenaires
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 03/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment ajouter un nouvel enregistrement de client dans l’espace partenaires. Vous pouvez ensuite vendre les abonnements des clients, gérer la facturation ou fournir un support technique.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: client, ajouter un client, compte client, compte client sur l'Espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
-ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672709"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340078"
 ---
 # <a name="add-a-new-customer"></a>Ajouter un client 
 
@@ -27,10 +27,10 @@ ms.locfileid: "77672709"
 
 **Rôles appropriés**
 
-- Administrateur général
+- Administrateur global
 - Administrateur de la gestion des utilisateurs
 - Agent d’administration
-- Agent commercial
+- Commercial
 
 
 Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un support à un client, vous devez les ajouter à votre liste de clients dans l’espace partenaires.
@@ -43,6 +43,15 @@ Avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un sup
 1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez **Ajouter un client**.
 
 2. Sur la page informations sur le **compte** , entrez les informations du client et le contact principal, puis vérifiez que le client a accepté et signé le dernier [contrat de client Microsoft](agreements.md).
+
+>[!NOTE]
+>
+>Pour garantir la précision pendant la vérification du client, assurez-vous de :
+>- Utilisez le nom exact légal/officiel tel qu’il apparaît dans les documents officiels
+>- Évitez d’utiliser des acronymes ou des formes courtes
+>- Ne pas utiliser les noms de test
+>- Fournir une adresse complète et exacte (détails de l’emplacement, ville, État, pays et code postal)
+
 
 >[!IMPORTANT] 
 > Le 1er octobre 2019, Microsoft a introduit le **Contrat client Microsoft** dans le programme Fournisseur de solutions Cloud pour remplacer le contrat Microsoft Cloud. En savoir plus sur le [contrat de client Microsoft et sur la manière de confirmer le consentement](confirm-customer-agreement.md)
