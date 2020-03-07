@@ -10,17 +10,17 @@ ms.author: v-mihope
 keywords: abonnements, Marketplace, tiers, ISV, offres SaaS, programme fournisseur de solutions Cloud, gérer une offre, gérer un abonnement, licences, annuler un abonnement, sièges, désactiver le renouvellement automatique, ID MPN du revendeur indirect
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253807"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340207"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>Gérer les produits de la place de marché commerciale pour vos clients
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
@@ -111,7 +111,7 @@ Pour les offres de la place de marché commercial SaaS, vous pouvez ajouter ou s
 
 Vous pouvez également utiliser les API de l’espace partenaires pour effectuer la gestion du cycle de vie et gérer les factures pour vos abonnements. Pour plus d’informations, consultez [créer un abonnement pour les produits de la place de marché commercial](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
-## <a name="next-steps"></a>Étapes suivantes
+## <a name="next-steps"></a>Étapes suivantes :
 
 - [Acheter des offres de la place de marché commercial](csp-commercial-marketplace-purchase.md)
 - [En savoir plus sur la facturation dans la place de marché commerciale](csp-commercial-marketplace-billing.md)
