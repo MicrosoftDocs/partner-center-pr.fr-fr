@@ -1,39 +1,39 @@
 ---
-title: Nouvelles conditions requises pour le partenaire direct du programme fournisseur de solutions Cloud | Espace partenaires
+title: Nouvelles conditions concernant les partenaires directs CSP | Espace partenaires
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Si vous êtes un partenaire direct du programme CSP, vous pouvez en savoir plus sur les conditions requises pour la prise en charge et les services, ainsi que sur la façon de les satisfaire.
+Description: Si vous êtes partenaire direct du programme CSP, vous pouvez découvrir les conditions mises à jour du support et des services, et comment les remplir.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Fournisseur de solutions Cloud, partenaire direct, facturation directe, conditions requises
-ms.localizationpriority: medium
+keywords: CSP, partenaire direct, facturation directe, conditions
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
-ms.translationtype: MT
+ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860460"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340099"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>Nouvelles exigences pour le partenaire de facturation directe du CSP
+# <a name="csp-direct-bill-partner-new-requirements"></a>Nouvelles conditions pour les partenaires de facturation directs CSP
 
 **S’applique à**
 
-- Partenaires de facture directe dans le programme fournisseur de solutions Cloud
+- Partenaires de facturation du programme CSP (Fournisseur de solutions Cloud)
 
-## <a name="enroll-as-a-direct-partner"></a>S'inscrire en tant que partenaire direct
+## <a name="enroll-as-a-direct-partner"></a>S’inscrire en tant que partenaire direct
 
 En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour les conditions d’inscription pour les partenaires à facturation directe le 31 août 2018. Ces nouvelles exigences vous permettront d’accélérer la croissance de vos activités grâce au modèle d’inscription au programme Fournisseur de solutions Cloud et de renforcer vos relations client avec des services et un support à valeur ajoutée.
 
-### <a name="minimum-requirements"></a>Conditions minimales requises
+### <a name="minimum-requirements"></a>Configuration minimale requise
 
 |**Exigence**|                             |
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |Identifiant Microsoft Partner Network actif pour la localisation de votre entreprise.    |
 |**Approbation**   |Autorité qui accepte et signe des contrats au nom de votre organisation.|
-|**Support technique**   |Capacité à fournir à vos clients le premier niveau de support pour les produits cloud. <br>Plan de support Microsoft, soit Support avancé pour les partenaires (ASfP), soit Support Premier pour les partenaires (PSfP), selon vos besoins. [Comparez les offres de support](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANT : vous devez passer une vérification de solvabilité avant d’acheter un plan de support. Nous vous enverrons un e-mail dès que vous aurez réussi la vérification de solvabilité. |
+|**Support technique**   |Capacité à fournir à vos clients le premier niveau de support pour les produits cloud. <br>Plan de support Microsoft, soit Support avancé pour les partenaires (ASfP), soit Support Premier pour les partenaires (PSfP), selon vos besoins. [Comparez les offres de support](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANT : Avant d’acheter un plan de support, vous devez passer avec succès une vérification de solvabilité. Nous vous enverrons un e-mail dès que vous aurez réussi la vérification de solvabilité. |
 |**Service managé**   |Au moins un service géré, un service IP ou une application de solution client. En savoir plus sur l’ajout de [services gérés](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Comptabilité clients** |Infrastructure organisationnelle mise en place pour gérer la facturation et l’approvisionnement des clients.
 
@@ -48,13 +48,13 @@ Après avoir vérifié que votre entreprise répond aux conditions d’éligibil
 >[!IMPORTANT]
 >La vérification de solvabilité de votre entreprise peut prendre plusieurs jours. Pendant ce laps de temps, il est important de NE PAS acheter de plan de support Microsoft. Ce n’est qu’après avoir été informé de l’issue favorable de la vérification de solvabilité que vous devez acheter un plan de support Microsoft.
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Passage du revendeur direct au revendeur indirect
+## <a name="transition-from-direct-to-indirect-reseller"></a>Passer du statut de revendeur direct au statut de revendeur indirect
 
-Les partenaires directs directs doivent remplir les nouvelles conditions requises pour rester dans le programme de partenaire de facture directe du fournisseur de solutions Cloud. Dans le cas contraire, leur [accès aux fonctionnalités de facture directe sera finalement restreint](restricted-direct-bill-capabilities.md) et pourra exécuter des tâches spécifiques, telles que la création de nouveaux achats pour leurs clients. 
+Les partenaires de facturation directs actuels doivent satisfaire les nouvelles conditions pour rester dans le programme de partenaire de facturation directe CSP. Dans le cas contraire, leur [accès aux fonctionnalités de facturation directe finira par être limité](restricted-direct-bill-capabilities.md) et ils ne pourront plus effectuer des tâches spécifiques comme procéder à de nouveaux achats pour leurs clients. 
 
-Si vous décidez de passer d’une facture directe à une entreprise de revendeur indirect, vous devez effectuer plusieurs étapes. Pour en savoir plus sur la transition, consultez [la transition du partenaire direct du fournisseur de solutions Cloud (CSP) au revendeur indirect CSP](transition-direct-to-indirect.md). 
+Si vous décidez de passer d’une activité avec facturation directe à une activité de revendeur indirect, vous devez suivre plusieurs étapes. Pour en savoir plus sur la transition, consultez [Transition du statut de partenaire direct CSP (fournisseur de solutions Cloud) au statut de revendeur indirect CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir aussi
 
-- [Informations supplémentaires sur le devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
-- [Forum aux questions sur la facturation directe au revendeur indirect](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [Informations supplémentaires sur la façon de devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Questions fréquentes sur le passage de la facturation directe au statut de revendeur indirect](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

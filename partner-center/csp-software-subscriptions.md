@@ -1,23 +1,23 @@
 ---
-title: Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud | Espace partenaires
+title: Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud) | Espace partenaires
 ms.topic: article
 ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’espace partenaires pour acheter, gérer, vendre et annuler des instances réservées et des abonnements serveur Azure pour les clients.
+description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’Espace partenaires pour acheter, gérer, vendre et annuler des instances réservées Azure et des abonnements Server pour les clients.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Fournisseur de solutions Cloud, CSP, services Cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels, annuler le logiciel
-ms.localizationpriority: medium
+keywords: fournisseur de solutions Cloud, CSP, services basés cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels, annuler des logiciels
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0ba3f32615fe02d843123180e4cb34176b28e09c
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
-ms.translationtype: MT
+ms.openlocfilehash: 1a68ec75b77f927ce162b7f5f19e3a96ca0e6f43
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76812651"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78339997"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais du programme fournisseur de solutions Cloud
+# <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud)
 
 **S’applique à**
 
@@ -26,18 +26,18 @@ ms.locfileid: "76812651"
 **Rôles appropriés**
 
 - Agent d’administration
-- Administrateur global
+- Administrateur général
 
-Avec les réservations Azure et les abonnements au serveur (abonnements Windows Server et SQL Server), les partenaires du programme CSP peuvent mieux répondre à la demande des clients en constante évolution, afin d’obtenir des solutions plus rentables pour la prise en charge de solutions hautement prévisibles et persistantes. charges de travail Cloud. 
+Les réservations Azure et les abonnements Server (abonnements Windows Server et SQL Server) permettent aux partenaires du programme CSP de mieux répondre aux besoins croissants de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail cloud prévisibles et durables. 
 
-Vous pouvez désormais acquérir, approvisionner et gérer des réservations Azure et des abonnements de serveur pour le compte de clients commerciaux via l’espace partenaires et le portail Azure en tirant parti de la Azure Hybrid Benefit.
+Vous pouvez maintenant acquérir, provisionner et gérer des réservations Azure et des abonnements Server pour le compte de clients commerciaux par le biais de l’Espace partenaires et du portail Azure en tirant parti d’Azure Hybrid Benefit.
 
-Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec le Windows Server Datacenter et les licences Standard prises en charge avec Software Assurance. Selon l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un taux de calcul de base inférieur (taux de machines virtuelles Linux, par exemple).
+Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec les licences Édition Standard et Windows Server Datacenter prises en charge avec Software Assurance. En fonction de l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un faible taux de calcul de base (taux de machine virtuelle Linux, par exemple).
 
-## <a name="azure-reservations-unavailable-markets"></a>Marchés Azure indisponibles
+## <a name="azure-reservations-unavailable-markets"></a>Marchés pour lesquels les réservations Azure ne sont pas disponibles
 
 >[!IMPORTANT] 
->Les réservations Azure ne *sont pas* disponibles sur les marchés suivants :  
+>Les réservations Azure *ne sont pas* disponibles dans les marchés suivants :  
 >  
 > | Marchés non disponibles | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
@@ -47,7 +47,7 @@ Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos lice
 > | Anguilla     | Guam     | Saba   |
 > | Antarctique     | Guernesey     | Saint-Barthélemy   |
 > | Antigua-et-Barbuda       | Guinée     | Sainte-Lucie   |
-> | Aruba       | Guinée-Bissau     | Saint-Martin   |
+> | Aruba       | Guinée-Bissau     | Saint-Martin (partie française)   |
 > | Azerbaïdjan       | Guyana     | Saint-Pierre-et-Miquelon   |
 > | Bénin     | Haïti       | Saint-Vincent-et-les-Grenadines     |
 > | Bhoutan     | Heard et McDonald (Îles)       | Samoa     |
@@ -56,24 +56,24 @@ Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos lice
 > | Territoires britanniques de l’océan Indien       | Jersey     | Seychelles   |
 > | Îles Vierges britanniques     | Kiribati       | Sierra Leone   |
 > | Burkina-Faso     | Kosovo     | Saint-Eustache     |
-> | Burundi     | Laos     | Saint-Martin (Royaume des Pays-Bas)     |
+> | Burundi     | Laos     | Saint-Martin (partie néerlandaise)     |
 > | Cambodge     | Lesotho     | Salomon (îles)     |
 > | République centrafricaine     | Liberia     | Somalie     |
-> | Tchad     | Madagascar     | Géorgie du Sud et Sandwich du Sud (îles)     |
+> | Tchad     | Madagascar     | Géorgie du Sud et les îles Sandwich du Sud     |
 > | Chine     | Malawi     | Soudan du Sud     |
-> | Christmas (île)     | Maldives     | Sainte-Hélène, ascension, Tristan da Cunha     |
+> | Christmas (île)     | Maldives     | Sainte-Hélène, Ascension et Tristan da Cunha     |
 > | Cocos-Keeling (îles)     | Mali     | Surinam     |
 > | Comores (Les)     | Marshall (îles)     | Svalbard     |
-> | République démocratique du Congo     | Martinique     | Swaziland     |
+> | Congo     | Martinique     | Swaziland     |
 > | Congo (RDC)     | Mauritanie     | Timor-Leste   |
 > | Cook (îles)     | Mayotte     | Togo   |
 > | Djibouti     | Micronésie     | Tokelau   |
 > | Dominique     | Montserrat     | Tonga   |
 > | Guinée équatoriale     | Mozambique     | Turks et Caïcos (îles)   |
 > | Érythrée     | Myanmar     | Tuvalu   |
-> | Malouines (îles)     | Nauru     | Îles mineures éloignées des États-Unis   |
+> | Malouines (îles)     | Nauru     | États-Unis Îles mineures éloignées   |
 > | Guyane française     | Nouvelle-Calédonie     | Vanuatu   |
-> | Polynésie française     | Niger     | Cité du Vatican   |
+> | Polynésie française     | Niger     | État de la Cité du Vatican   |
 > | Terres australes françaises     | Niue     | Wallis-et-Futuna   |
 > | Gabon     | Norfolk (île)     | Yémen   |
 > | Gambie     | Mariannes du Nord (îles)     |    |
@@ -85,126 +85,126 @@ Le programme Azure Hybrid Benefit vous permet de maximiser la valeur de vos lice
 
 Pour acheter des abonnements logiciels pour le compte d’un client :
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3. À partir de la page de détails du client, sélectionnez **Ajouter des produits**, puis suivez les instructions à l’écran pour créer et payer votre commande. Toutes les tarifs commerciaux excluent les taxes, à l’exception de l’Australie et du Brésil. Pour l’Australie et le Brésil, le prix comprend des taxes.
+3. Dans la page de détails du client, sélectionnez **Ajouter des produits**, puis suivez les instructions à l’écran pour créer et payer votre commande. Tous les tarifs commerciaux excluent les taxes, à l’exception de l’Australie et du Brésil. Pour l’Australie et le Brésil, le prix inclut les taxes.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
 Une fois l’abonnement logiciel acheté, suivez les étapes ci-dessous pour le télécharger.
 
 >[!NOTE]
->Vous devez être un agent d’administration pour télécharger le logiciel et récupérer les clés d’activation.
+>Vous devez être Agent d’administration pour télécharger le logiciel et récupérer les clés d’activation.
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. Vous verrez une liste de tous les logiciels que vous avez achetés pour le compte du client. 
+3. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors. 
 
-4. Développez le produit que vous souhaitez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous souhaitez. 
+4. Développez le produit que vous voulez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous voulez. 
 
 5. Sélectionnez **Soumettre** pour afficher les produits spécifiques. 
 
-6. Sélectionnez **Obtenir les clés et les téléchargements**. 
+6. Sélectionnez **Obtenir des clés et des téléchargements**. 
 
-7. Sélectionnez **Télécharger** pour commencer le téléchargement, ou sélectionnez **Copier le lien** pour copier le lien et l’envoyer au client. 
-
->[!NOTE]
->Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se termine en premier. Une fois que le lien arrive à expiration, revenez à cette page, puis sélectionnez **Obtenir les clés et les téléchargements** à nouveau pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
-
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité pour l’accès aux clés logicielles et les Téléchargements logiciels
-
-À des fins d’audit ou de conformité, vous devrez peut-être vérifier la liste des utilisateurs ayant accès aux clés logicielles de l’abonnement serveur ou au logiciel d’abonnement au serveur téléchargé. Utilisez la procédure ci-dessous pour accéder à ces informations. 
+7. Sélectionnez **Télécharger** pour commencer le téléchargement, ou **Copier le lien** pour copier le lien et l’envoyer au client. 
 
 >[!NOTE]
->Vous devez être administrateur général, administrateur de compte, administrateur de référence ou administrateur du contenu marketing pour voir ces journaux d’activité. 
+>Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se arrive en premier. Une fois le lien arrivé à expiration, revenez à cette page, puis sélectionnez à nouveau **Obtenir des clés et des téléchargements** pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité de l’accès aux clés logicielles et des téléchargements logiciels
 
-2. Sélectionnez l’icône d’engrenage dans l’angle supérieur droit.
+À des fins d’audit ou de conformité, vous devrez peut-être vérifier la liste des utilisateurs disposant de clés logicielles d’abonnement Server faisant l’objet d’un accès ou d’un logiciel d’abonnement Server téléchargé. Utilisez la procédure ci-dessous pour accéder à ces informations. 
+
+>[!NOTE]
+>Vous devez être administrateur général, administrateur de compte, administrateur de référence ou administrateur de contenu marketing pour voir ces journaux d’activité. 
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
+
+2. Sélectionnez l’icône d’engrenage en haut à droite.
 
 3. Dans le menu, sélectionnez **Journal d’activité**.
 
-4. Entrez la plage de dates de l’activité que vous souhaitez afficher. Le journal d’activité affiche une liste des utilisateurs ayant accédé à des clés logicielles ou téléchargés au moment où vous avez spécifié. 
+4. Entrez la plage de dates de l’activité que vous voulez voir. Le journal d’activité affiche une liste des utilisateurs ayant accédé à des clés logicielles ou téléchargés des logiciels pendant la période que vous avez spécifiée. 
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 
-Vous pouvez annuler un achat de logiciel dans un délai de 60 jours à compter de la date d’achat. Si vous annulez cette première période de 60 jours, vous ne recevrez pas de frais de résiliation précoce. Après 60 jours, vous ne pouvez plus annuler un achat. (Consultez la remarque pour connaître les restrictions clés de cette règle d’annulation. Pour en savoir plus sur ce qui se passe après l’annulation d’un achat de logiciel, consultez aussi Remarque importante après ces étapes.) 
+Vous pouvez annuler un achat de logiciel dans les 60 jours qui suivent la date d’achat. Si vous effectuez l’annulation pendant cette première période de 60 jours, aucun frais de résiliation anticipée ne vous sera facturé. Après 60 jours, vous ne pouvez plus annuler un achat. (Consultez la remarque relative aux restrictions de clés sur cette règle d’annulation. Pour en savoir plus sur ce qui se passe après l’annulation d’un achat de logiciel, consultez aussi Remarque importante, après ces étapes.) 
 
 >[!NOTE]
->Les étapes suivantes pour annuler un achat s’appliquent uniquement aux logiciels qui qualifient l’annulation dans une fenêtre d’annulation spécifique, par exemple dans les 60 premiers jours après l’achat. Ces étapes ne s’appliquent pas non plus à un plan logiciel SUSE Linux ou RedHat dans Azure. À ce stade, vous ne pouvez pas annuler ou échanger un plan logiciel SUSE ou RedHat. [En savoir plus](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sur l’utilisation des plans SUSE Linux ou redhat.
+>Les étapes suivantes permettant d’annuler un achat s’appliquent uniquement aux logiciels qui sont éligibles à l’annulation dans une fenêtre d’annulation spécifique, par exemple dans les 60 premiers jours après l’achat. Ces étapes ne s’appliquent pas non plus à un abonnement logiciel SUSE Linux ou RedHat dans Azure. Pour le moment, vous ne pouvez pas annuler ou échanger un abonnement logiciel SUSE ou RedHat. [Découvrez-en plus](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sur l’utilisation d’abonnement SUSE Linux ou RedHat.
 
 Suivez les étapes ci-dessous pour annuler un achat :
 
 >[!NOTE]
->Vous devez être Agent d'administration pour pouvoir annuler un achat. Les étapes suivantes décrivent comment annuler un achat dans le tableau de bord de l’espace partenaires. Vous pouvez également effectuer cette opération à l’aide de l' [API espace partenaires](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
+>Vous devez être Agent d’administration pour pouvoir annuler un achat. Les étapes suivantes expliquent comment annuler un achat dans le tableau de bord de l’Espace partenaires. Vous pouvez également effectuer cette opération à l’aide de l’[API de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
 
 1. Avant de commencer le processus d’annulation, vérifiez que vous disposez des éléments suivants :
 
-    - Le nom du client, le GUID du locataire ou le nom de domaine
+    - Nom, GUID de locataire ou nom de domaine du client
 
-    - Nom du produit que vous souhaitez annuler
+    - Nom du produit que vous voulez annuler
     
-    - ID de commande
+    - ID de la commande
 
-2. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+2. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 3. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-4. Sur la page des détails du client, sélectionnez **logiciel** pour afficher la liste des logiciels achetés pour le client. 
+4. Dans la page des détails du client, sélectionnez **Logiciels** pour afficher la liste des logiciels achetés pour le client. 
 
-5. Localisez l’achat de logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. Une boîte de dialogue s’affiche.
+5. Recherchez l’achat de logiciel que vous voulez annuler, puis sélectionnez **Annuler**. Une boîte de dialogue s’affiche.
 
-6. Dans la liste déroulante numéro de commande, sélectionnez le numéro d’ID de commande correct que vous souhaitez annuler. (Vous pouvez obtenir plus d’informations sur une commande ou un numéro d’ID de commande à partir de la page **historique des commandes** du client.)
+6. Dans la liste déroulante Numéro de commande, sélectionnez le numéro d’ID de la commande que vous voulez annuler. (Vous pouvez obtenir plus d’informations sur une commande ou un numéro d’ID de commande dans la page **Historique des commandes** du client.)
 
-7. Cochez la case pour confirmer que vous avez lu le message **important** concernant l’annulation. (Reportez-vous à la Remarque **importante** ci-dessous pour en savoir plus sur ce qui se passe après l’annulation d’un achat.)
+7. Cochez la case pour confirmer que vous avez lu le message **Important** relatif à l’annulation. (Pour en savoir plus sur ce qui se produit après l’annulation d’un achat, reportez-vous à la remarque **Importante** ci-dessous.)
 
-8. Sélectionnez **Envoyer** pour annuler votre achat. Si vous souhaitez annuler plusieurs commandes pour un client, vous devrez réexécuter les étapes 4 à 6 pour chaque numéro d’identification de commande unique.
+8. Sélectionnez **Soumettre** pour annuler votre achat. Si vous voulez annuler plusieurs commandes pour un client, vous devez réexécuter les étapes 4 à 6 pour chaque numéro d’identification de commande distinct.
 
-Lorsque vous essayez d’annuler une commande, l’espace partenaires peut également vous fournir d’autres informations (qui apparaissent sous la liste déroulante numéro de commande). Ces informations peuvent inclure :
+Quand vous essayez d’annuler une commande, l’Espace partenaires peut également vous fournir d’autres informations (qui s’affichent sous la liste déroulante Numéro de commande). Ces informations peuvent inclure les éléments suivants :
 
-- Le nombre de jours restants pour vous permettre d’annuler cette commande particulière
+- Le nombre de jours qu’il vous reste pour annuler cette commande particulière
 
-- Si vous avez déjà passé la fenêtre d’annulation et que vous ne pouvez plus annuler la commande
+- Information indiquant si vous avez, ou non, déjà passé la fenêtre d’annulation, auquel cas vous ne pouvez plus annuler la commande
 
-- Si nous avons besoin d’informations supplémentaires sur votre demande d’annulation, vous pouvez recevoir un lien vers un formulaire de **demande de support** technique.
+- Si nous avons besoin d’informations supplémentaires sur votre demande d’annulation, vous pouvez recevoir un lien vers un formulaire de **demande de support technique**.
 
 >[!IMPORTANT]
->Après l’annulation d’une commande, un message confirmant l’annulation s’affiche. Toutefois, il peut y avoir un délai allant jusqu’à 15 minutes avant que l’annulation apparaisse dans le tableau de bord de l’espace partenaires. Notez également les détails suivants, postérieurs à l’annulation.
+>Après l’annulation d’une commande, un message confirmant votre annulation s’affiche. Toutefois, il peut y avoir un délai allant jusqu’à 15 minutes avant que l’annulation apparaisse dans le tableau de bord de l’Espace partenaires. Notez également les informations suivantes concernant la situation après une annulation.
 
-Après l’annulation d’un achat :
+Après avoir annulé un achat :
 
-- Toutes les clés logicielles associées et tous les liens de téléchargement seront révoqués. Autrement dit, vous et votre client ne pouvez pas utiliser les clés logicielles et télécharger des liens plus associés à cet achat. Vous et votre client êtes responsable du maintien de l’utilisation de tous les logiciels annulés. Vous êtes également responsable de la désinstallation du logiciel annulé et de la suppression des liens et des téléchargements de logiciels associés.
+- Toutes les clés logicielles associées et tous les liens de téléchargement sont révoqués. Autrement dit, ni vous ni votre client ne pouvez plus utiliser les clés logicielles et télécharger des liens associés à cet achat. Il vous incombe, ainsi qu’à votre client, de garantir que tous les logiciels annulés ne sont plus utilisés. Il vous appartient également de désinstaller les logiciels annulés et de supprimer tous les téléchargements de logiciels et liens associés.
 
-- L’élément annulé s’affiche toujours sur la page Détails du logiciel du client, mais la clé d’activation n’est pas disponible.
+- L’élément annulé s’affichera toujours dans la page Détails du logiciel du client, mais la clé d’activation ne sera pas disponible.
 
-- Un crédit pour la commande annulée apparaîtra sur votre prochaine facture mensuelle. Les logiciels perpétuels recevront un crédit de 100% et les abonnements logiciels recevront un crédit au prorata.
+- Un crédit pour la commande annulée apparaîtra sur votre prochaine facture mensuelle. Les logiciels perpétuels recevront un crédit de 100 % et les abonnements logiciels recevront un crédit calculé au prorata.
 
-### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Envoyer une demande de support client pour annuler un achat
+### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Envoyer une demande de support technique pour annuler un achat
 
-Si vous avez essayé d’annuler un achat de logiciel via l’espace partenaires, mais que vous êtes invité à fournir des informations supplémentaires et à remplir un formulaire de demande de support technique, ces étapes peuvent vous aider à :
+Si vous avez essayé d’annuler un achat de logiciel par le biais de l’Espace partenaires, mais que vous avez été invité à fournir des informations supplémentaires et à remplir un formulaire de demande de support technique, les étapes suivantes peuvent vous aider :
 
-1. Lorsque vous sélectionnez le lien de la **demande de support client** dans la fenêtre annuler l’achat, la page signaler un problème avec l’espace partenaires s’ouvre.
+1. Quand vous sélectionnez le lien de **demande de support technique** dans la fenêtre Annuler un achat, la page Signaler un problème avec l’Espace partenaires s’ouvre.
 
-2. Sous détails, dans la liste type de problème, sélectionnez **CSP achat/remboursement pour le compte des clients**.
+2. Sous Détails, dans la liste Type de problème, sélectionnez **Achat/remboursement d’offres CSP pour le compte de clients**.
 
-3. Renseignez les champs impact et titre.
+3. Renseignez les champs Impact et Titre.
 
-4. Dans le champ Description, fournissez les informations suivantes :
+4. Dans le champ Description, indiquez les informations suivantes :
 
-    - GUID du locataire ou nom de domaine du client
+    - GUID de locataire ou nom de domaine du client
     
     - ID de commande ou ID d’abonnement
     
-    - Raison du remboursement
+    - Motif du remboursement
 
     - Montant demandé
 
-5. Dans le champ contact, entrez votre nom, votre adresse de messagerie et votre numéro de téléphone.
+5. Dans le champ Contact, entrez vos nom, adresse e-mail et numéro de téléphone.
 
-6. Si vous avez besoin d'attacher un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative.
+6. Si vous devez joindre un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative.
 
-7. Lorsque vous avez terminé, sélectionnez **Envoyer**.
+7. Quand vous avez terminé, sélectionnez **Soumettre**.
