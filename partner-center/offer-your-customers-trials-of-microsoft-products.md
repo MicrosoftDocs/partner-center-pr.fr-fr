@@ -1,26 +1,26 @@
 ---
 title: Proposer à vos clients des versions d’évaluation de produits Microsoft | Espaces partenaires
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vos clients peuvent tester des produits d’abonnement Microsoft pendant 30 jours. Inscrivez-vous à ces versions d’évaluation dans le catalogue, comme beaucoup d’autres services en ligne.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
-ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
+ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185539"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112458"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Proposer à vos clients des offres d’essai de produits Microsoft
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 
 **Rôles appropriés**
 -   Administrateur global 
@@ -45,7 +45,7 @@ Des essais gratuits sont proposés pour les produits suivants :
 - Office 365 E5 sans RTPC
 - Enterprise Mobility + Security E5
 - Formule Dynamics 365 Customer Engagement 1
-- Dynamics 365 Business Central
+- Dynamics 365 Business central
 - Microsoft 365 Business
 
 Nous fournissons des essais gratuits pour ces produits, car il s’agit des offres commerciales les plus complètes et les plus populaires. Il se peut que nous ajoutions d’autres offres d’essais gratuits à l’avenir.
@@ -88,8 +88,19 @@ Vous pouvez convertir des versions d’évaluation en abonnements payants à l�
 
 Vous devrez peut-être modifier vos API pour adapter la conversion d’une version d’évaluation gratuite à un abonnement payant. Pour plus d’informations, consultez la documentation du développeur suivante :
 
-- [Convertir un abonnement d’essai en abonnement payant](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Obtenir la liste des offres de conversion d’essai](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Convertir un abonnement d'évaluation en abonnement payant](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Obtenir une liste des offres de conversion de version d’évaluation](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+
+### <a name="trials-without-conversions"></a>Essais sans conversions
+
+Tous les essais ne peuvent pas être convertis en abonnements payants. Les partenaires peuvent utiliser une version d’évaluation qui n’a pas de conversion jusqu’à la date d’expiration. Les partenaires peuvent acheter des offres compatibles qui prennent en charge les mêmes services que l’offre d’évaluation.  Cette opération doit être effectuée avant l’expiration de la période d’essai afin de s’assurer que les services des offres nouvellement achetés s’alignent sur les services de la version d’évaluation. 
+
+|**Evaluation**   |**Offres de petites entreprises compatibles**   |**Offres d’entreprise compatibles**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Essai du Cloud commercial Microsoft Teams (initié par l’utilisateur)   |Business Essentials, Business Premium, M365 Business   | F3 (anciennement F1), Office 365 pour l’entreprise (E1, E3 et E5), M365 F1/F3, M365 Enterprise (E3)   |
+
+>[!Note] 
+>Les offres ci-dessus ont des plans de service similaires avec des fonctionnalités similaires, mais il peut y avoir des différences entre les offres. 
 
 ### <a name="expiring-offers"></a>Offres arrivant à expiration
 
@@ -115,6 +126,6 @@ Vous ne verrez pas les versions d’évaluation gratuites indiquées dans votre 
 
 Les versions d’évaluation gratuites n’ont pas d’impact sur les incentives.
 
-## <a name="support"></a>Assistance
+## <a name="support"></a>Support
 
 Pour obtenir une assistance sur les versions d’évaluation gratuites, envoyez une demande de service via l’espace partenaires.

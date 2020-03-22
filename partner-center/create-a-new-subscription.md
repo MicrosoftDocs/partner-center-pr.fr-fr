@@ -11,17 +11,17 @@ ms.author: labrenne
 Keywords: abonnement, créer nouveau, ajouter un abonnement, suspendre, annuler, suspendre, suspendre, SaaS, licence, ISV, tiers
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721723"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114991"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 -  Partenaires fournisseurs de solutions cloud
 
@@ -152,7 +152,7 @@ Pour arrêter le renouvellement automatique d’un abonnement au marché commerc
 
 6. Sélectionnez **Envoyer**.
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir aussi
 
 - [Acheter des produits de la place de marché commercial pour vos clients](csp-commercial-marketplace-purchase.md)
 - [Gérer les produits de la place de marché commerciale pour vos clients](csp-commercial-marketplace-manage.md)

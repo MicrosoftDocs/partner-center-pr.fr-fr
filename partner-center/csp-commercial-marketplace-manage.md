@@ -10,11 +10,11 @@ ms.author: v-mihope
 keywords: abonnements, Marketplace, tiers, ISV, offres SaaS, programme fournisseur de solutions Cloud, gérer une offre, gérer un abonnement, licences, annuler un abonnement, sièges, désactiver le renouvellement automatique, ID MPN du revendeur indirect
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340207"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114951"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>Gérer les produits de la place de marché commerciale pour vos clients
 

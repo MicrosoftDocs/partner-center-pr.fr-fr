@@ -8,20 +8,20 @@ description: En tant que fournisseur indirect, ou distributeur, Découvrez comme
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b3ce97e6463681670ff65344d9b94baabc84a170
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: 5e3f4455d4572926c680978b87858485c991681b
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012137"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112478"
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenir partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
--   Agent commercial
+-    Administrateur global
+-    Administrateur des utilisateurs
+-    Agent d’administration
+-    Commercial
 
 Dans un marché des technologies aux évolutions aussi rapides et complexes, les clients veulent profiter de l'avantage concurrentiel que les solutions technologiques peuvent leur offrir. Dans ce contexte, il est judicieux que les partenaires s'investissent dans des relations avec d'autres partenaires afin d'étendre les offres et de permettre aux clients d'être encore plus productifs.
 
@@ -36,13 +36,13 @@ En tant que fournisseur indirect, vous utilisez l’espace partenaires pour :
 -   désigner des revendeurs indirects pour gérer des abonnements et des clients spécifiques ; 
 -   gérer vos relations avec Microsoft, les clients et les revendeurs indirects, au même endroit.
 
-Pour en savoir plus sur le modèle indirect dans le programme des fournisseurs de solutions Cloud (CSP), voir [Découvrez le modèle indirect](https://partner.microsoft.com/cloud-solution-provider/indirect) sur le [site Web Microsoft Partner Network]( https://partner.microsoft.com). 
+Pour plus d’informations sur les éléments requis pour participer au programme CSP en tant que revendeur indirect, consultez la page [prise en main d’un revendeur indirect](https://partner.microsoft.com/membership/cloud-solution-provider/) sur le [site Web Microsoft Partner Network](https://partner.microsoft.com). 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Tâches indirectes du fournisseur dans l’espace partenaires
 
 Procédez comme suit pour établir et gérer votre partenariat avec des revendeurs indirects et des clients. Les étapes 2 et 3 sont décrites plus en détail ci-dessous.
 
-1.  Vérifiez le profil de votre société dans la [liste des fournisseurs indirects officiels de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
+1.    Vérifiez le profil de votre société dans la [liste des fournisseurs indirects officiels de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
 
     -   Pour apporter des modifications au profil de fournisseur indirect de votre entreprise, contactez votre représentant Microsoft.<br>
 
@@ -50,7 +50,7 @@ Procédez comme suit pour établir et gérer votre partenariat avec des revendeu
 
     - Avant de pouvoir interagir avec les revendeurs et les utiliser, vous devez établir des partenariats avec eux dans l’espace partenaires. <br>
 
-3.  Entrer en contact avec les clients
+3.    Entrer en contact avec les clients
 
     - Associer de nouveaux clients et abonnements à des revendeurs
     - Établir des relations de revendeur avec les clients existants <br>
@@ -145,16 +145,16 @@ Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez 
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Ajouter de nouveaux clients et les associer aux revendeurs indirects
 
-1.  Sélectionnez **revendeurs indirects** dans le menu de l' **espace partenaires** . 
+1.    Sélectionnez **revendeurs indirects** dans le menu de l' **espace partenaires** . 
 
-2.  Trouvez le revendeur indirect que vous souhaitez attribuer aux nouveaux clients, puis sélectionnez **Ajouter un nouveau client**. Notez que le revendeur indirect est déjà sélectionné dans l’écran des détails du client. Fournissez les détails du client, puis sélectionnez **suivant : abonnements** . 
-3.  Dans la page **Nouvel abonnement**, sélectionnez le ou les abonnements que le client souhaite acheter, puis entrez le nombre de licences dont le client a besoin. 
+2.    Trouvez le revendeur indirect que vous souhaitez attribuer aux nouveaux clients, puis sélectionnez **Ajouter un nouveau client**. Notez que le revendeur indirect est déjà sélectionné dans l’écran des détails du client. Fournissez les détails du client, puis sélectionnez **suivant : abonnements** . 
+3.    Dans la page **Nouvel abonnement**, sélectionnez le ou les abonnements que le client souhaite acheter, puis entrez le nombre de licences dont le client a besoin. 
 
-4.  Sélectionnez **Suivant : révision**.
+4.    Sélectionnez **Suivant : révision**.
 
-5.  Si la commande est correcte, sélectionnez **Envoyer**. Si la commande est incorrecte, sélectionnez **Annuler** pour annuler toute l’opération, puis recommencez.
+5.    Si la commande est correcte, sélectionnez **Envoyer**. Si la commande est incorrecte, sélectionnez **Annuler** pour annuler toute l’opération, puis recommencez.
 
-6.  Une fois la commande envoyée, la page **Confirmation** s’affiche. Sous **Informations de configuration**, le nom du compte d'administrateur et le mot de passe temporaire s'affichent. Notez le nom du compte utilisateur et le mot de passe afin de pouvoir les envoyer au nouveau client. 
+6.    Une fois la commande envoyée, la page **Confirmation** s’affiche. Sous **Informations de configuration**, le nom du compte d'administrateur et le mot de passe temporaire s'affichent. Notez le nom du compte utilisateur et le mot de passe afin de pouvoir les envoyer au nouveau client. 
     > [!IMPORTANT]  
     > Veillez à noter le nom et le mot de passe du compte d’utilisateur, car vous ne pourrez pas accéder à ces informations une fois cette page fermée.
 
@@ -164,21 +164,21 @@ Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez 
 
 Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau des abonnements existants ou acheter des licences supplémentaires, vous apportez ces modifications au compte du client. 
 
-1.  Sélectionnez **clients** dans le menu de l' **espace partenaires** . 
+1.    Sélectionnez **clients** dans le menu de l' **espace partenaires** . 
 
-2.  Recherchez le client dont vous souhaitez modifier le compte. Vous pouvez filtrer la liste par revendeur indirect pour affiner vos choix. Développez l’enregistrement du client en sélectionnant la flèche vers le bas, puis en sélectionnant **Ajouter un abonnement**.
+2.    Recherchez le client dont vous souhaitez modifier le compte. Vous pouvez filtrer la liste par revendeur indirect pour affiner vos choix. Développez l’enregistrement du client en sélectionnant la flèche vers le bas, puis en sélectionnant **Ajouter un abonnement**.
 
-3.  Dans la page **Nouvel abonnement**, sélectionnez le ou les abonnements et entrez le nombre de licences que le client souhaite acheter. 
+3.    Dans la page **Nouvel abonnement**, sélectionnez le ou les abonnements et entrez le nombre de licences que le client souhaite acheter. 
 
-4.  Pour associer l’abonnement à un revendeur, sélectionnez le nom du revendeur dans la liste, puis sélectionnez **Envoyer**. Le fait d'associer le revendeur à un abonnement lui permet de gagner des primes, le cas échéant.
+4.    Pour associer l’abonnement à un revendeur, sélectionnez le nom du revendeur dans la liste, puis sélectionnez **Envoyer**. Le fait d'associer le revendeur à un abonnement lui permet de gagner des primes, le cas échéant.
 
-5.  Le ou les nouveaux abonnements s’affichent dans la liste abonnements du client. 
+5.    Le ou les nouveaux abonnements s’affichent dans la liste abonnements du client. 
 
-6.  Si vous souhaitez que le revendeur gère les demandes de support technique pour le nouvel abonnement, sélectionnez l’abonnement, puis le revendeur dans la liste **Contact de support désigné**.
+6.    Si vous souhaitez que le revendeur gère les demandes de support technique pour le nouvel abonnement, sélectionnez l’abonnement, puis le revendeur dans la liste **Contact de support désigné**.
 
-7.  Sélectionnez **Envoyer** une fois terminé. 
+7.    Sélectionnez **Envoyer** une fois terminé. 
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir aussi
 
 Pour en savoir plus sur la gestion des comptes client et des abonnements, voir :
 

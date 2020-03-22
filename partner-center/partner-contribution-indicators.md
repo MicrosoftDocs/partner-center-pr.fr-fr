@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672689"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112448"
 ---
 # <a name="partner-contribution-indicators"></a>Indicateurs de contribution des partenaires
 
@@ -29,7 +29,7 @@ PCI offre une vue holistique et sophistiquée des capacités techniques d’un p
 1. **Net New revenu** — net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365.
 2. **Ajouts au client net** : clients nets acquis pour Dynamics 365 sur tous les canaux de vente.
 3. **Consultants fonctionnels** : nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365.
-4. **Croissance du consultant fonctionnel** : croissance du nombre de consultants fonctionnels associés depuis le 31 mars 2020.
+4. **Croissance du consultant fonctionnel** : croissance du nombre d’associés aux consultants fonctionnels.
 5. **Développeurs** : nombre d’individus titulaires d’une certification de développeur actuellement active pour Dynamics 365.
 6. **Nouveaux déploiements à grande échelle** : nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois.
 7. **Croissance mensuelle** des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois.

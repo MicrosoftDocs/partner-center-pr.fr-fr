@@ -10,11 +10,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340217"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114961"
 ---
 # <a name="use-your-reconciliation-files"></a>Utiliser vos fichiers de rapprochement
 

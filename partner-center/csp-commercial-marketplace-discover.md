@@ -10,11 +10,11 @@ ms.author: v-mihope
 keywords: abonnements, Marketplace, Marketplace commerciale, tiers, ISV, offres SaaS, programme fournisseur de solutions Cloud, programme CSP, partenaires CSP
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340145"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114941"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Découvrir les offres et la tarification dans la place de marché commerciale
 

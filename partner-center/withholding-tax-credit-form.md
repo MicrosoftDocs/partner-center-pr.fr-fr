@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, certificats fiscaux
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240226"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112468"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande
 
@@ -30,6 +30,9 @@ Cette rubrique explique comment s’assurer que vous êtes crédité de l’imp�
 Dans certains pays, les partenaires CSP reçoivent des montants de facture incluant des taxes. Certains de ces partenaires paient leur administration fiscale locale au lieu de Microsoft. Ces partenaires doivent soumettre une demande de retenue d’impôt, y compris leur certificat fiscal, afin d’effacer le montant imposé des factures précédentes. Comme les montants effacés apparaissent sous forme de crédits dans les factures mensuelles suivantes, le partenaire ne sera plus tenu à Microsoft du montant non payé.
 
 À partir du 1er janvier 2020, les partenaires CSP doivent envoyer des demandes de retenue d’impôt sur la **page de facturation** au lieu de créer des demandes de support. Pour envoyer les demandes dans la page facturation, les partenaires CSP doivent accéder à l' **espace partenaires** et sélectionner **facturation** dans le volet de navigation de gauche. La **page facturation** est le nouvel emplacement où envoyer les demandes de retenue d’impôt. 
+
+> [!IMPORTANT]
+> Les partenaires peuvent soumettre des demandes de taxes à la demande uniquement pour les factures **payantes** .
 
 ### <a name="submit-a-new-tax-withholding-request"></a>Soumettre une nouvelle demande de retenue d’impôt
 
