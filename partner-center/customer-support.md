@@ -9,28 +9,28 @@ ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f6c6afbe59424cf3ca38186b66490bbf695cfee1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8f53fac96d9cb9986c4bc8235c61298ee0a43437
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253488"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226125"
 ---
 # <a name="providing-support-to-your-customers"></a>Fourniture d'un support à vos clients
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
 
 ## <a name="microsoft-partner-support-guidance"></a>Conseils pour le support des partenaires Microsoft
 
-Les partenaires effectuant des transactions dans le modèle de fournisseur de solutions Cloud sont les conseillers de confiance de leurs clients et gèrent la relation de bout en bout, y compris le support lorsque leur client a une question ou un problème. Par le biais des points de contact du support, les partenaires peuvent en savoir plus sur le client et leur activité, afin d'identifier de nouveaux services et solutions susceptibles d'apporter une valeur ajoutée.
+Les partenaires qui coopèrent dans le modèle CSP sont le conseiller approuvé à leurs clients et leurs relations de bout en bout. Cette propriété de relation comprend la prise en charge de ses clients lorsqu’ils ont des questions ou des problèmes. Par le biais des points de contact du support, les partenaires peuvent en savoir plus sur le client et leur activité, afin d'identifier de nouveaux services et solutions susceptibles d'apporter une valeur ajoutée.
 
-Pour répondre à la demande de support, le partenaire peut revendre le support fourni par une autre entité, sous-traiter tout ou partie de sa structure de support et/ou configurer une structure pour fournir le support directement.  Le partenaire peut facturer tout ou partie du support fourni aux clients. Le partenaire doit expliquer clairement à ses clients le support qu’il fournit, les horaires de service et la méthode de contact, ainsi que la tarification (s'il facture le support). 
+Pour satisfaire aux exigences de support, le partenaire peut revendre le support à partir d’une autre entité, sous-traitant tout ou partie de sa structure de support et/ou configurer une structure pour fournir une prise en charge directe.  Le partenaire peut facturer tout ou partie du support fourni aux clients. Le partenaire doit expliquer clairement à ses clients le support qu’il fournit, les horaires de service et la méthode de contact, ainsi que la tarification (s'il facture le support). 
 
-Les partenaires doivent recevoir des demandes de support entrantes de la part de clients, diagnostiquer les problèmes au meilleur des capacités du partenaire, puis résoudre les problèmes qui se trouvent dans l’étendue des limites du support de base. Si le partenaire est incapable de résoudre un problème, il peut transmettre les problèmes à Microsoft via les canaux de support suivants :
+Les clients CSP ne peuvent pas créer eux-mêmes des tickets de support et doivent contacter leurs partenaires. Les partenaires CSP sont tenus de recevoir les demandes de support entrantes de la part de leurs clients, de diagnostiquer les problèmes pour le meilleur de la capacité du partenaire, puis de résoudre les problèmes qui se trouvent dans l’étendue des limites de support de base. Si le partenaire est incapable de résoudre un problème, il peut transmettre les problèmes à Microsoft via les canaux de support suivants :
 
 - Le support**Commercial** est disponible pour tous les partenaires du programme Fournisseur de solutions Cloud
 -   Le support **Technique** est disponible par le biais de :
@@ -40,7 +40,7 @@ Les partenaires doivent recevoir des demandes de support entrantes de la part de
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
-Chaque service en ligne a des exigences spécifiques et détaillées pour la fourniture de la facturation, de la gestion des abonnements et du support technique pour les clients. Reportez-vous aux documents suivants pour en savoir plus.
+Chaque service en ligne a des exigences spécifiques et détaillées pour la fourniture de la facturation, de la gestion des abonnements et du support technique pour les clients. Pour plus d’informations, consultez les documents suivants.
 
 -   [Abonnements Dynamics 365 vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

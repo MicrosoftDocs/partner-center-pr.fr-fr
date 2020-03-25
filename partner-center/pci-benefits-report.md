@@ -1,7 +1,7 @@
 ---
 title: Aperçu de l’espace partenaires-informations sur les avantages | Espace partenaires
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les avantages des partenaires Microsoft qui vous ont été accordés pour vous aider à développer votre activité, améliorer l’efficacité et améliorer les compétences de votre équipe.
@@ -11,12 +11,12 @@ author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d1f3a8ff31622c17245743f79ba4dc3ea199c3b
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648250"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226195"
 ---
 # <a name="benefits-report"></a>Rapport d’avantages
 
@@ -26,13 +26,13 @@ ms.locfileid: "75648250"
 - Visionneuse de rapports
 - Visionneuse de rapports Executive
 
-En tant que partenaire Microsoft, vous pouvez accéder à un hôte d’avantages qui utilisent la technologie et les innovations les plus récentes pour vous aider à améliorer les compétences de votre équipe, à améliorer l’efficacité et à développer votre activité. Les packages d’avantages incluent : les allocations de logiciels sous licence, les services Cloud, les abonnements Visual Studio et le support. Les packages d’avantages peuvent également inclure certains avantages de la mise sur le marché (GTM). Le rapport avantages présente les tendances des avantages que vous avez consultés et leur utilisation au cours de la plage de dates sélectionnée.
+En tant que partenaire Microsoft, vous pouvez accéder à un hôte d’avantages qui utilisent la technologie et les innovations les plus récentes pour vous aider à améliorer les compétences de votre équipe, à améliorer l’efficacité et à développer votre activité. Les packages d’avantages incluent : les allocations de logiciels sous licence, les services Cloud, les abonnements Visual Studio et le support. Ces packages peuvent également inclure certaines ressources, offres et programmes de Go-to-Market. Le rapport avantages présente les tendances des avantages que vous avez consultés et leur utilisation au cours de la plage de dates sélectionnée.
 
 ![présentation de la page avantages](images/pci/pci_benefits_intro_1.png)
 
 Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
 
-- Récapitulatif
+- Résumé
 - Services Cloud accordés
 - Produits logiciels
 - Abonnements Visual Studio
@@ -44,7 +44,7 @@ Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
 
 **Résumé**
 
-La section Résumé présente les avantages offerts par les logiciels sous licence, les services Cloud (non-Azure), les abonnements Visual Studio, le support technique et certains services Go-to-Market.
+La section Résumé présente les avantages offerts par les logiciels sous licence, les services Cloud (non-Azure), les abonnements Visual Studio, le support technique et certains services ou offres Go-to-Market.
 
 Exemple : les partenaires Microsoft Partner Network (MPN) peuvent bénéficier d’un support technique sur les produits et les produits Cloud locaux. Les partenaires qui atteignent la compétence Silver bénéficient d’un support technique de 15 incidents pour les produits sur site. Ils peuvent utiliser cette prise en charge en fonction des besoins. 
 
@@ -79,10 +79,10 @@ Sélectionnez un onglet en haut du graphique pour afficher la tendance d’un av
 
 ![avantages techniques](images/pci/pci_benefits_technical_benefits_6.png)
 
-**Go-to-Market**
+**Offres ou services Go-to-Market**
 
-Ce graphique présente la tendance mensuelle des avantages de Go-to-Market (GTM) activés pour les allocations de la plage de dates sélectionnée et pour une catégorie d’avantages GTM sélectionnée.
+Ce graphique présente la tendance mensuelle des offres ou services Go-to-Market activés sur alloués au cours de la plage de dates sélectionnée et pour une offre ou une catégorie de service de mise sur le marché sélectionnée.
 
-Sélectionnez une catégorie d’avantages GTM dans la liste déroulante en haut du graphique pour afficher la tendance de la catégorie d’avantages GTM sélectionnée accordée à votre société. Les colonnes du graphique représentent les avantages GTM activés. Le graphique linéaire représente les avantages GTM globaux accordés à votre entreprise.
+Sélectionnez une catégorie de service ou une offre de mise sur le marché dans la liste déroulante en haut du graphique pour afficher la tendance des services Go-to-Market sélectionnés accordés à votre entreprise. Les colonnes du graphique représentent les offres Go-to-Market ou les services activés. Le graphique linéaire représente les offres Go-to-Market globales ou les services accordés à votre entreprise.
 
-![accéder aux avantages du marché](images/pci/pci_benefits_go_to_market_7.png)
+![Offres Go-to-Market](images/pci/pci_benefits_go_to_market_7.png)

@@ -1,22 +1,22 @@
 ---
 title: Informations sur l’espace partenaires-informations sur les compétences | Espace partenaires
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez ce que vous êtes en train de faire et où vous pouvez améliorer en ce qui concerne les compétences Microsoft, les niveaux de compétence et les avantages pour vous aider à fournir des solutions Microsoft.
+description: Découvrez ce que vous êtes en train de faire et où vous pouvez améliorer en ce qui concerne les compétences Microsoft, les niveaux de compétence et les offres pour vous aider à fournir des solutions Microsoft.
 ms.assetid: ''
 keywords: PCI, performances, mesures, succès des clients, compétences, avantages, analytique, rapport
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648090"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226185"
 ---
 # <a name="competencies-report"></a>Rapport compétences
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648090"
 - Visionneuse de rapports
 - Visionneuse de rapports Executive
 
-Les compétences permettent à votre entreprise de démontrer vos capacités techniques à la fourniture de solutions Microsoft. Les compétences Microsoft sont conçues pour répondre aux besoins de vos clients et présenter votre expertise aux clients potentiels. Ils bénéficient d’un large éventail d’avantages de la part de Microsoft, tels que les quantités incluses de consommation Azure, les habilitations pour les produits Cloud tels que O365, le support technique, les avantages de Go-to-Market (GTM), etc. Aujourd’hui, il existe un total de 19 compétences parmi les catégories suivantes : **application et infrastructure**, **applications métier**, **données et IA** et **moderne Workplace**. Les compétences sont hiérarchisées en niveaux Silver ou Gold, par exemple, avec une barre supérieure pour la compétence Gold et un niveau supérieur d’avantages.  
+Les compétences permettent à votre entreprise de démontrer vos capacités techniques à la fourniture de solutions Microsoft. Les compétences Microsoft sont conçues pour répondre aux besoins de vos clients et présenter votre expertise aux clients potentiels. Ils bénéficient d’un large éventail d’avantages de la part de Microsoft, tels que les quantités incluses de consommation Azure, les habilitations pour les produits Cloud tels que O365, le support technique, les offres Go-to-Market, etc. Aujourd’hui, il existe un total de 19 compétences parmi les catégories suivantes : **application et infrastructure**, **applications métier**, **données et IA** et **moderne Workplace**. Les compétences sont hiérarchisées en niveaux Silver ou Gold, par exemple. Il existe une barre supérieure pour la compétence Gold et un niveau supérieur de ressources marketing, d’offres et de programmes disponibles.  
 
 **Cycle de vie des compétences**
 
@@ -43,7 +43,7 @@ Chaque compétence a un ensemble spécifique de conditions à satisfaire. Les ex
 
 Vous pouvez voir les sections suivantes dans le rapport compétences :
 
-- Récapitulatif
+- Résumé
 - Analyse des mesures de compétence
 - Historique des compétences
 

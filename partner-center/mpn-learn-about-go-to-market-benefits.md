@@ -1,26 +1,26 @@
 ---
-title: En savoir plus sur les avantages de votre Microsoft Partner Network Go-to-Market | Espace partenaires
+title: En savoir plus sur Go-to-Market avec les offres Microsoft | Espace partenaires
 ms.topic: article
-ms.date: 10/31/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Les avantages de Go-to-Market vous donnent accès à des ressources de vente et de marketing exclusives qui peuvent vous aider à accélérer le délai de mise sur le marché, à générer des prospects et à développer votre activité.
+description: Découvrez comment la mise sur le marché avec les offres Microsoft peut accélérer le délai de mise sur le marché, générer des prospects et développer votre activité.
 author: MicheleHope
 ms.author: v-mihope
-keywords: MPN, avantages de l’adhésion, adhésion, avantages de Go-to-Market, Go-to-Market, accéder au marché, GTM, adhésion Gold, abonnement Silver
+keywords: MPN, avantages de l’adhésion, adhésion, Go-to-Market offers, Go-to-Market avec Microsoft, accéder au marché, adhésion Gold, abonnement Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943332"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226205"
 ---
-# <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Explorez les avantages de votre abonnement MPN Go-to-Market (GTM)
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explorez vos offres Go-to-Market avec Microsoft
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Membres du Microsoft Partner Network
 
 **Rôles appropriés**
@@ -28,63 +28,63 @@ ms.locfileid: "74943332"
 - Administrateur global
 - Administrateur partenaire MPN
 
-Lorsque vous êtes devenu membre Microsoft Partner Network, vous avez accès à des avantages d’appartenance qui peuvent vous aider à créer et à développer votre activité. Les avantages de Go-to-Market (GTM) font partie des [nombreux avantages](https://partner.microsoft.com/manage-your-partner-network-benefits) que vous recevez en tant que membre Microsoft Partner Network. 
+Lorsque vous êtes devenu membre Microsoft Partner Network, vous avez accès à des avantages d’appartenance qui peuvent vous aider à créer et à développer votre activité. La mise sur le marché avec les ressources, les offres et les programmes Microsoft présente les [nombreux avantages](https://partner.microsoft.com/manage-your-partner-network-benefits) que vous recevez en tant que membre Microsoft Partner Network.
 
-Les avantages GTM vous permettent d’accéder à des ressources de vente et de marketing exclusives qui peuvent vous aider à accélérer le délai de mise sur le marché, à générer des prospects et à développer votre activité.
+Les offres Go-to-Market vous donnent accès à des ressources de vente et de marketing exclusives qui peuvent vous aider à accélérer le délai de mise sur le marché, à générer des prospects et à développer votre activité.
 
 >[!NOTE]
 >Si vous n’êtes pas encore membre du Microsoft Partner Network, Joignez-vous sur [le site Microsoft Partner Network](https://partner.microsoft.com/membership).
 
 
-## <a name="gtm-benefits-available-by-membership-level"></a>Avantages GTM disponibles par niveau d’appartenance
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Ressources, offres et programmes Go-to-Market disponibles au niveau de l’appartenance
 
-Vos avantages GTM varient en fonction de votre niveau d’adhésion MPN, de vos spécialisations et de toute [compétence](learn-about-competencies.md) que vous obtenez.
+Vos offres Go-to-Market varient en fonction de votre niveau spécifique d’adhésion MPN, de vos spécialisations et de toute [compétence](learn-about-competencies.md) que vous obtenez.
 
-Tous les membres MPN ont accès à certains avantages GTM standard. Cela inclut l’accès aux ressources marketing prêtes à l’emploi, une plateforme de mise en service des ventes et le marketing numérique à la demande. Il peut y avoir encore plus d’avantages en matière de GTM pour les partenaires qui obtiennent des compétences en argent ou en or.
+Tous les membres MPN ont accès à certaines ressources GTM standard. Cela inclut l’accès aux ressources marketing prêtes à l’emploi, une plateforme de mise en service des ventes et le marketing numérique à la demande. Il existe également des offres et des programmes encore plus performants disponibles pour les partenaires qui obtiennent des compétences en argent ou en or.
 
 >[!NOTE]
->Les avantages GTM sont soumis à des ajouts et des modifications. Accédez à la [page Microsoft Partner Network Go-to-Market](https://partner.microsoft.com/membership/go-to-market) pour en savoir plus sur les derniers avantages GTM disponibles au niveau de la compétence.
+>Les ressources, les offres et les programmes de Go-to-Market sont soumis à des ajouts et à des modifications. Accédez à la [page Microsoft Partner Network Go-to-Market](https://partner.microsoft.com/membership/go-to-market) pour en savoir plus sur les ressources Go-to-Market les plus récentes et les offres disponibles au niveau de la compétence.
 
-Autres avantages GTM disponibles pour ceux qui ont des niveaux de compétence **Silver** :
+Offres Go-to-Market supplémentaires disponibles pour ceux qui ont des niveaux de compétence **Silver** :
 
-- Tous les avantages des GTM standard MPN
+- Toutes les ressources MPN standard de Go-to-Market
 - Optimisation de la gestion des références et des profils d’entreprise
 - Commercialisation avec Microsoft
 
-Autres avantages GTM disponibles pour ceux qui ont des niveaux de compétence **Gold** :
+Offres Go-to-Market supplémentaires disponibles pour ceux qui ont des niveaux de compétence **Gold** :
 
-- Tous les avantages des GTM standard MPN
-- Tous les avantages Silver GTM
+- Toutes les ressources MPN standard de Go-to-Market
+- Toutes les offres Silver Go-to-Market
 - Copropriétaire d’un récepteur de radiomessagerie
 - Présentation co-personnalisée
 - Étude de cas co-personnalisée
 - Appuyez sur le communiqué avec Microsoft Executive quote
 - Marketing social comarqué
 
-## <a name="view-gtm-membership-benefits-in-the-partner-center"></a>Afficher les avantages de l’appartenance à GTM dans l’espace partenaires
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Afficher les offres d’adhésion à go-to-Market dans l’espace partenaires
 
-Pour afficher vos avantages GTM :
+Pour afficher vos offres Go-to-Market :
 
-1. Connectez-vous au [tableau de bord]( https://docs.microsoft.com/partner-center/)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord]( https://docs.microsoft.com/partner-center/) de l’Espace partenaires.
 
-2. Dans le menu de gauche, sélectionnez **MPN**. Ensuite, effectuez l’une des opérations suivantes :
+2. Dans le menu de gauche, sélectionnez **MPN**. Effectuez ensuite l’une des opérations suivantes :
 
-    - Sélectionnez **Vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
+    - Sélectionnez **vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
 
       ou
 
     - Sélectionnez **avantages** suivis de **go-to-Market**.
 
-Vous verrez une liste des avantages de Go-to-Market qui sont déjà actifs ou disponibles pour l’activation.
+Vous verrez une liste d’offres Go-to-Market déjà actives ou disponibles pour l’activation.
 
-## <a name="manage-or-activate-gtm-membership-benefits-in-the-partner-center"></a>Gérer ou activer les avantages de l’appartenance à GTM dans l’espace partenaires
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Gérez ou activez les offres Go-to-Market dans l’espace partenaires
 
-Pour connaître les étapes spécifiques à suivre pour activer ou gérer les avantages de votre abonnement à GTM, consultez [la page gestion de vos avantages de Go-to-Market](manage-your-partner-network-benefits.md#manage-go-to-market-benefits). Dans le cadre de ce processus, vous devez attribuer à un membre du marketing le rôle de contact pour les courriers électroniques de suivi et les communications concernant les avantages GTM que vous activez.
+Pour connaître les étapes spécifiques à suivre pour activer ou gérer vos offres Go-to-Market, consultez [Comment gérer vos offres Go-to-Market](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Dans le cadre de ce processus, vous devez attribuer à un membre du marketing le rôle de contact pour les courriers électroniques de suivi et les communications concernant les offres Go-to-Market que vous activez.
 
 >[!IMPORTANT]
->Vous devez être l’administrateur général ou l’administrateur du partenaire MPN pour activer des avantages GTM spécifiques et affecter un contact marketing associé. Si nécessaire, vous pouvez devenir administrateur général en suivant les instructions de votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion obligatoire). Votre entreprise ayant peut-être déjà un administrateur général, pensez à vérifier auprès de votre équipe.
+>Vous devez être l’administrateur général ou l’administrateur du partenaire MPN pour activer des offres Go-to-Market spécifiques et affecter un contact marketing associé. Si nécessaire, vous pouvez devenir administrateur général en suivant les instructions de votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion obligatoire). Votre entreprise ayant peut-être déjà un administrateur général, pensez à vérifier auprès de votre équipe.
 
-#### <a name="see-also"></a>Articles associés
+#### <a name="see-also"></a>Voir aussi
 
 [Gérer les avantages de votre réseau partenaire](manage-your-partner-network-benefits.md)
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: incentives, versements, paiements, programme d’incentives, emplacements, statut du programme
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: c2c4ec70bec068b3f171ce6c3780eda8a830f146
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723466"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226115"
 ---
 # <a name="view-your-incentive-payments-and-programs"></a>Afficher vos paiements et programmes d’incentives
 
@@ -27,7 +27,7 @@ ms.locfileid: "76723466"
 -  Administrateur d’incentives
 -  Utilisateur de primes incitatives 
 -  Visionneuse en lecture seule incitative
--  Administrateur général
+-  Administrateur global
 -  Administrateur de partenaire MPN
 
 Utilisez ces pages pour afficher les détails de vos paiements et revenus passés, en suspens et à venir, l’état de vos programmes d’incentives dans chaque emplacement et l’historique complet de vos transactions. Vous pouvez également télécharger ou exporter des informations détaillées pour toute transaction. Toutes les pages incentives affichent des montants en dollars américains.
@@ -59,8 +59,8 @@ La section **vue d’ensemble de mes incentives** affiche l’état général de
 Cette page contient également des bénéfices et des paiements par emplacement ou programme, ainsi que toute autre action que vous devrez peut-être effectuer pour vous inscrire à un programme à un emplacement spécifique.
 
 Pour accéder à **mes incentives, vue d’ensemble**:
-
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+ 
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 2. Sélectionnez **incentives**, puis **vue d’ensemble** dans le menu.
 3. Affichez le résumé des bénéfices et des paiements en haut de la page, ainsi que des détails supplémentaires dans le tableau ci-dessous. Vous pouvez également trier, regrouper et développer la table qui l’accompagne :
 
@@ -80,7 +80,8 @@ Pour accéder à **mes incentives, vue d’ensemble**:
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
 | Inscrits  | Toutes les informations fiscales et bancaires ont été validées. Aucune autre action d’inscription n’est requise par le partenaire. |
-| Inactive  | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription.  |
+| Inscription  | L’utilisateur n’est pas un administrateur d’incentives et l’inscription est dans l' **action requise** ou la validation des États d' **inscription** .|
+| Inactif/inéligible | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription. <br> Si l’État n’est pas **éligible**, le partenaire ne répond pas aux conditions d’éligibilité actuelles pour le programme ; Si vous cliquez sur le lien **voir les conditions d’éligibilité** sous l’état de l’inscription, vous verrez les conditions requises pour l’éligibilité et celles qui ont été satisfaites. |
 | Invité  | Une nouvelle invitation d’inscription au programme d’incentives a été envoyée au partenaire, mais le partenaire n’a pas encore démarré le processus d’inscription. La colonne adjacente **actions requises** affiche les étapes suivantes et les liens associés.  |
 | Validation de l’inscription  | Le partenaire a déjà effectué ou mis à jour des informations bancaires et fiscales pour une inscription nouvelle ou existante et attend que Microsoft valide ces informations. Pendant le processus de validation, la validation de l' **inscription** peut s’afficher pendant jusqu’à 48 heures.  |
 

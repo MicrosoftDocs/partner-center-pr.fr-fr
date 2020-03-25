@@ -1,7 +1,7 @@
 ---
 title: Mise à niveau de votre adhésion au Microsoft Partner Network | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Pour bénéficier d’avantages exclusifs, vous pouvez mettre à niveau votre adhésion MPN vers une appartenance à un abonnement Microsoft Action Pack ou des compétences Microsoft.
@@ -9,33 +9,32 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943402"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226146"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Mise à niveau de votre abonnement au Microsoft Partner Network
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 
-Le programme partenaire de Microsoft propose les trois options d’abonnement suivantes, avec des avantages incrémentiels pour vous aider à atteindre vos objectifs commerciaux.
+Le programme partenaire de Microsoft propose les trois options d’abonnement suivantes, avec des avantages et des ressources marketing, des offres et des programmes supplémentaires pour vous aider à atteindre vos objectifs commerciaux.
 
-- **Appartenance au réseau.** Niveau d’adhésion principal, offrant des avantages d’entrée de gamme en matière de formation, support et connexions client. Vous devez être membre du réseau pour mettre à niveau votre abonnement.
+- **Appartenance au réseau.** Le niveau d’adhésion de base, qui offre des ressources marketing de niveau d’entrée pour la formation, le support technique et les connexions clientes. Vous devez être membre du réseau pour mettre à niveau votre abonnement.
 
-- **Adhésion à l’abonnement Microsoft Action Pack.** Abonnement annuel abordable destiné aux sociétés partenaires de petite et moyenne taille. Inclut les avantages d’entrée de gamme qui accompagnent l'adhésion au réseau de base, ainsi que l'attribution d'abonnements à des services, de licences logicielles et de support à droits d’utilisation interne.
+- **Adhésion à l’abonnement Microsoft Action Pack.** Abonnement annuel abordable destiné aux sociétés partenaires de petite et moyenne taille. Inclut les ressources marketing d’entrée de gamme fournies avec l’appartenance au réseau de base, ainsi que d’autres offres marketing et programmes, tels que les allocations d’abonnements aux services de droits d’utilisation interne, les licences logicielles et le support.
 
-- **Compétences Microsoft.** Désignation acquise illustrant les capacités de votre entreprise. Inclut les avantages d’entrée de gamme, des droits d’utilisation interne supplémentaires, l'éligibilité à des primes d’encouragement des partenaires, ainsi que des heures de support et de conseils supplémentaires.
+- **Compétences Microsoft.** Désignation acquise illustrant les capacités de votre entreprise. Inclut des ressources marketing au niveau de l’entrée, ainsi que des offres et des programmes supplémentaires, tels que les droits d’utilisation interne, l’éligibilité aux incentives partenaires, ainsi que des heures de support et de Conseil supplémentaires.
 
   - Compétences en argent : cohérence des fonctionnalités, de l’expertise et de l’engagement
 
   - Compétence Gold-capacité optimale au sein d’un domaine de solution Microsoft spécifique
 
-Une fois que vous avez rejoint le Microsoft Partner Network, vous êtes autorisé à mettre à niveau votre adhésion et à acheter des offres d’avantages exclusifs pour les membres. Pour plus d’informations sur l’adhésion au Microsoft Partner Network, accédez à [https://partner.microsoft.com](https://partner.microsoft.com).
-
+Une fois que vous avez rejoint le Microsoft Partner Network, vous êtes autorisé à mettre à niveau votre adhésion et à acheter des offres d’adhésion exclusive. Pour plus d’informations sur l’adhésion au Microsoft Partner Network, accédez à [https://partner.microsoft.com](https://partner.microsoft.com).
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Acheter un abonnement à Microsoft Action Pack
 
@@ -63,7 +62,7 @@ Pour plus d’informations sur Microsoft Action Pack, accédez à [https://part
 
 3. Sélectionnez **Suivant** pour ajouter des informations de paiement. 
 
-4. Sélectionnez **Commencer ! Ajouter un mode de paiement** si vous avez besoin d’entrer des informations de paiement. 
+4. Sélectionnez **Commencer ! Ajouter un mode de paiement** si vous avez besoin d’entrer des informations de paiement.
 
 5. Entrez vos informations de paiement, puis sélectionnez **Suivant**.
 
@@ -123,7 +122,7 @@ Pour annuler votre abonnement au Microsoft Action Pack, vous devez contacter le
     Pour vérifier l’état de votre demande de service, sélectionnez **Demandes de Service > Demandes à l'Espace partenaires**, puis sélectionnez **Ouvrir**. Choisissez la demande de service appropriée dans la liste.  
 
  
-### <a name="next-steps"></a>Étapes suivantes
+### <a name="next-steps"></a>Étapes suivantes :
 
 [Activer votre abonnement Action Pack](manage-your-partner-network-benefits.md)
 
@@ -131,8 +130,3 @@ Pour annuler votre abonnement au Microsoft Action Pack, vous devez contacter le
 ### <a name="related-topics"></a>Rubriques connexes
 
 [Ajouter des utilisateurs et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
-
-
-
-
-
