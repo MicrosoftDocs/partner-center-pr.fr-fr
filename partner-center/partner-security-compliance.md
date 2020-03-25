@@ -8,12 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: 6b1af593d4639cfc725da54b4e0f22cd1f3551ed
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.topic: conceptual
+ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
+ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723456"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80136320"
 ---
 # <a name="partner-security-requirements-status"></a>Statut des exigences de sécurité des partenaires
 
@@ -27,7 +28,7 @@ ms.locfileid: "76723456"
 - Tous les conseillers
 
 **Utilisateurs appropriés**
--   Tous les utilisateurs activés, y compris les utilisateurs invités
+-    Tous les utilisateurs activés, y compris les utilisateurs invités
 
 L’amélioration de la sécurité et de la protection de la confidentialité fait partie de nos premières priorités. Nous savons que la meilleure défense est la prévention et que nous ne sommes pas plus solides que notre maillon le plus faible. C’est pourquoi nous avons besoin que tous les membres de notre écosystème puissent agir et s’assurer qu’ils disposent des protections de sécurité appropriées. Pour aider à protéger les partenaires et les clients, nous proposons un ensemble d’exigences de sécurité obligatoires pour les conseillers, les fournisseurs de panneau de contrôle et les partenaires participant au programme Fournisseur de solutions Cloud.
 
@@ -48,7 +49,7 @@ Ce rapport peut vous aider à vérifier le statut des exigences de sécurité en
 
 ## <a name="multi-factor-authentication-mfa-report"></a>Rapport d’authentification multifacteur (« MFA »)
 
-Le rapport MFA de l’Espace partenaires donne des éclaircissements sur l’implémentation de MFA des partenaires en fournissant deux métriques basées sur la configuration MFA et les activités dans l’Espace partenaires du locataire CSP : 
+Le rapport MFA de l’Espace partenaires offre des insights sur l’implémentation de MFA chez les partenaires en proposant deux métriques basées sur la configuration MFA et les activités dans l’Espace partenaires du locataire CSP : 
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>Configuration MFA sur un locataire CSP
 
@@ -59,7 +60,7 @@ Cette métrique est liée à la configuration MFA sur un locataire CSP qui a eff
 
 ### <a name="partner-center-activities-with-mfa"></a>Activités dans l’Espace partenaires avec MFA
 
-Chaque fois que vos employés se connectent à l’Espace partenaires pour travailler ou, par le biais d’API, recevoir ou envoyer des données via l’Espace partenaires, leur statut de sécurité est testé et suivi. Vos applications et les applications de tout fournisseur de panneau de contrôle sont également incluses dans le suivi du statut de sécurité. Le statut affiché correspond aux 7 derniers jours.
+Chaque fois que vos employés se connectent à l’Espace partenaires pour travailler ou, par le biais d’API, recevoir ou envoyer des données via l’Espace partenaires, leur statut de sécurité est testé et suivi. Vos applications et les applications de tout fournisseur de panneau de contrôle sont également incluses dans le suivi du statut de sécurité. Le statut affiché correspond aux sept derniers jours.
 
 #### <a name="mfa-verification-completed-by-users"></a>Vérification MFA effectuée par les utilisateurs
 
@@ -77,11 +78,11 @@ Cette métrique est liée aux activités figurant dans le tableau de bord de l�
 Cette métrique est liée à l’utilisation des demandes d’API de l’Espace partenaires effectuées à l’aide de l’authentification Application+Utilisateur. Elle mesure le pourcentage de demandes d’API effectuées en utilisant un jeton d’accès avec la revendication MFA. Par exemple :
 
 - Fabrikam est un partenaire fournisseur de solutions Cloud et possède une application CSP qui utilise une combinaison de méthodes d’authentification Application+Utilisateur et d’authentification d’application uniquement.
-- Le premier jour, cette application a effectué 3 demandes d’API qui ont été appuyées par un jeton d’accès obtenu via la méthode d’authentification Application+Utilisateur sans vérification MFA.
-- Le deuxième jour, l’application a effectué 5 demandes d’API qui ont été appuyées par un jeton d’accès obtenu à l’aide de l’authentification d’application uniquement.
-- Le troisième jour, l’application a effectué 2 demandes d’API qui ont été appuyées par un jeton d’accès obtenu via la méthode d’authentification Application+Utilisateur avec vérification MFA.
-- Aucune opération n’a été effectuée par ces agents les 4 jours restants.
-- Les 5 demandes d’API du deuxième jour qui ont été appuyées par un jeton d’accès obtenu par le biais de l’authentification d’application uniquement sont omises de la métrique, car elle n’utilise pas les informations d’identification de l’utilisateur. Parmi les 5 opérations restantes, 2 ont été appuyées par un jeton d’accès obtenu avec la vérification MFA. Par conséquent, la métrique affiche 40 %.
+- Le premier jour, cette application a effectué trois demandes d’API qui ont été appuyées par un jeton d’accès obtenu par le biais de la méthode d’authentification Application+Utilisateur sans vérification MFA.
+- Le deuxième jour, l’application a effectué cinq demandes d’API qui ont été appuyées par un jeton d’accès obtenu à l’aide de l’authentification d’application uniquement.
+- Le troisième jour, l’application a effectué deux demandes d’API qui ont été appuyées par un jeton d’accès obtenu par le biais de la méthode d’authentification Application+Utilisateur avec vérification MFA.
+- Aucune opération n’a été effectuée par ces agents les quatre jours restants.
+- Les cinq demandes d’API du deuxième jour qui ont été appuyées par un jeton d’accès obtenu par le biais de l’authentification d’application uniquement sont omises de la métrique, car elle n’utilise pas les informations d’identification de l’utilisateur. Parmi les cinq opérations restantes, deux ont été appuyées par un jeton d’accès obtenu avec la vérification MFA. Par conséquent, la métrique affiche 40 %.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>Que dois-je faire si les métriques du rapport MFA ne correspondent pas à 100 %
 
@@ -100,11 +101,11 @@ Les métriques sont calculées quotidiennement et prennent en compte les opérat
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>Certains comptes d’utilisateur ont-ils été exclus de l’implémentation de l’authentification multifacteur ?
 
-Déterminez si votre implémentation de l’authentification multifacteur actuelle couvre tous les comptes d’utilisateur ou seulement certains. Certaines solutions MFA sont basées sur des stratégies et prennent en charge l’exclusion des utilisateurs, tandis que d’autres peuvent vous obliger à activer explicitement l’authentification multifacteur pour chaque utilisateur. Vérifiez que vous n’avez exclu aucun utilisateur de votre implémentation MFA actuelle. Tout compte d’utilisateur qui est exclu et qui se connecte à l’Espace partenaires pour effectuer une activité quelconque liée à un fournisseur de solutions Cloud peut donner lieu à des métriques ne représentant pas 100 %.
+Déterminez si votre implémentation de l’authentification multifacteur actuelle couvre tous les comptes d’utilisateur ou seulement certains. Certaines solutions MFA sont basées sur des stratégies et prennent en charge l’exclusion des utilisateurs, tandis que d’autres peuvent vous obliger à activer explicitement MFA pour chaque utilisateur. Vérifiez que vous n’avez exclu aucun utilisateur de votre implémentation MFA actuelle. Tout compte d’utilisateur qui est exclu et qui se connecte à l’Espace partenaires pour effectuer une activité quelconque liée à un fournisseur de solutions Cloud peut donner lieu à des métriques n’atteignant pas 100 %.
 
 ### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>L’authentification multifacteur est-elle nécessaire uniquement lorsque certaines conditions sont remplies ?
 
-Déterminez si l’implémentation actuelle applique uniquement l’authentification multifacteur dans des conditions spécifiques. Certaines solutions MFA offrent une flexibilité permettant d’appliquer l’authentification multifacteur uniquement lorsque certaines conditions sont remplies. Par exemple, l’accès de l’utilisateur s’effectue à partir d’un appareil inconnu ou d’un emplacement inconnu. Un utilisateur configuré pour l’authentification multifacteur mais qui n’est pas tenu d’effectuer la vérification MFA lorsqu’il accède à l’Espace partenaires peut donner lieu à des métriques ne correspondant pas à 100 %.
+Déterminez si votre implémentation actuelle applique uniquement MFA dans des conditions spécifiques. Certaines solutions MFA offrent une flexibilité permettant d’appliquer l’authentification multifacteur uniquement lorsque certaines conditions sont remplies. Par exemple, l’accès de l’utilisateur s’effectue à partir d’un appareil inconnu ou d’un emplacement inconnu. Un utilisateur configuré pour l’authentification multifacteur mais qui n’est pas tenu d’effectuer la vérification MFA lorsqu’il accède à l’Espace partenaires peut donner lieu à des métriques ne correspondant pas à 100 %.
 
 >[!NOTE]
 >Pour les partenaires qui ont implémenté l’authentification MFA à l’aide des paramètres de sécurité par défaut d’Azure AD, il est important de noter que, pour les comptes d’utilisateur non-administrateur, l’authentification multifacteur est appliquée en fonction du risque. Les utilisateurs font l’objet d’une authentification MFA uniquement durant les tentatives de connexion à risques (par exemple, l’utilisateur se connecte depuis un autre emplacement). De plus, les utilisateurs ont jusqu’à 14 jours pour s’inscrire auprès de l’authentification MFA. Les utilisateurs qui ne sont pas inscrits auprès de l’authentification MFA ne font pas l’objet d’une vérification MFA durant cette période de 14 jours. Ainsi, les métriques ne sont probablement pas de 100 % pour les partenaires ayant implémenté l’authentification MFA à l’aide des paramètres de sécurité par défaut d’Azure AD.

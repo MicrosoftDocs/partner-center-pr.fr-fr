@@ -1,27 +1,27 @@
 ---
 title: Affecter des rôles et des autorisations aux utilisateurs | Espace partenaires
 ms.topic: article
-ms.date: 10/10/2019
+ms.date: 03/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez les rôles les mieux adaptés à vos utilisateurs qui gèrent des transactions commerciales, des référencements, des incentives ou les adhésions MPN de votre entreprise.
+description: Découvrez les rôles les mieux adaptés à vos utilisateurs qui gèrent des transactions commerciales, des références, des incentives ou les adhésions MPN de votre entreprise.
 author: LauraBrenner
 ms.author: labrenne
 keywords: rôles, autorisations, administration, agent
 ms.localizationpriority: high
-ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
-ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
+ms.openlocfilehash: 20930ad547bed2399fd60a5c419d8d5c3be8329e
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75776500"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226165"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Affecter des rôles et des autorisations aux utilisateurs
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Administrateur partenaire MPN
+-    Administrateur général
+-    Administrateur des utilisateurs
+-    Administrateur partenaire MPN
 
 Vous avez configuré votre profil de partenaire, notamment le nom légal, l’adresse officielle, les détails du support, les exonérations fiscales, les informations bancaires et le contact principal de votre entreprise. Prochaine étape : demander à vos utilisateurs de configurer des mots de passe et des rôles pour pouvoir commencer à travailler dans l’Espace partenaires avec vous.
 
@@ -36,39 +36,39 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 
 |**Rôle**|**Ce qu’il peut faire**|
 |----------------------------------|:---------------------------------|
-|Administrateur général|• Accéder à tous les comptes/services Microsoft avec des privilèges complets
-|      |• Créer des tickets de support pour l’Espace partenaires
-||• Afficher les contrats, les listes de prix et les offres
-||• Afficher, créer et gérer les utilisateurs partenaires|
+|Administrateur général|*    Accéder à tous les comptes/services Microsoft avec des privilèges complets
+|      |*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les contrats, les listes de prix et les offres
+||*    Voir, créer et gérer les utilisateurs partenaires|
 ||  • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement
-|Administrateur de la gestion des utilisateurs   | • Afficher, créer et gérer des utilisateurs
-||• Afficher tous les profils de partenaire
-||• Afficher, créer et gérer les utilisateurs partenaires  |
+|Administrateur de la gestion des utilisateurs   | *    Voir, créer et gérer des utilisateurs
+||*    Voir tous les profils de partenaire
+||*    Voir, créer et gérer les utilisateurs partenaires  |
 |Administrateur de la facturation | • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|
 |Utilisateur par défaut|  • Afficher son profil   |
-|Agent d’administration | • Gestion des clients
-||• Ajouter une liste d’appareils à l’Espace partenaires
-||• Créer des profils et les appliquer aux appareils
-||• Gestion des abonnements
-||• État du service et demandes de service pour les clients
-||• Demander des privilèges d’administrateur délégué
-||• Afficher les tarifs et les offres
-||• Facturation
-||• Administrer au nom d’un client
-||• Inscrire un revendeur à valeur ajoutée|
-|Agent commercial | • Gestion des clients
-||• Ajouter une liste d’appareils à l’Espace partenaires
-||• Gestion des abonnements
-||• Afficher les tickets de support
-||• Demander une relation avec un client
-||• Gérer les prospects
-||• Afficher le contrat client
-||• Inscrire un revendeur à valeur ajoutée|
-|Agent du support technique| • Rechercher et afficher un client
-||• Modifier les détails du client
-||• Aider les clients à résoudre des problèmes de gestion de facturation ou d’abonnement
-||• Demander un support pour le compte de clients (remarque : vous devez être agent administrateur pour effectuer cette tâche pour les abonnements Office 365)
-||• Gérer les problèmes d’abonnements et de facturation pour le compte de clients (remarque : vous devez être agent administrateur pour effectuer cette tâche pour les abonnements Office 365)|
+|Agent d’administration | *    Gestion des clients
+||*    Ajouter une liste d’appareils à l’Espace partenaires
+||*    Créer des profils et les appliquer aux appareils
+||*    Gestion des abonnements
+||*    État du service et demandes de service pour les clients
+||*    Demander des privilèges d’administrateur délégué
+||*    Voir les tarifs et les offres
+||*    Facturation
+||*    Administrer au nom d’un client
+||*    Inscrire un revendeur à valeur ajoutée|
+|Agent commercial | *    Gestion des clients
+||*    Ajouter une liste d’appareils à l’Espace partenaires
+||*    Gestion des abonnements
+||*    Voir les tickets de support
+||*    Demander une relation avec un client
+||*    Gérer les prospects
+||*    Voir le contrat d’un client
+||*    Inscrire un revendeur à valeur ajoutée|
+|Agent du support technique| *    Rechercher et voir un client
+||*    Modifier les détails du client
+||*    Aider les clients à résoudre des problèmes de gestion de facturation ou d’abonnement
+||*    Demander un support pour le compte de clients 
+||*    Gérer les problèmes d’abonnements et de facturation pour le compte de clients| 
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fournisseur de panneau de contrôle (CPV) (rôle Fournisseur de solutions Cloud et rôle non-AAD)
 Les CPV développent des applications utilisées par les partenaires fournisseurs de solutions Cloud pour leur permettre d’intégrer leurs systèmes aux API de l’Espace partenaires. 
@@ -93,48 +93,48 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 
 |**Rôle** | **Ce qu’il peut faire**|
 |----------------------------|:----------------------------|
-|Administrateur partenaire MPN|• Afficher, créer et gérer les demandes de service des partenaires||
-||• Afficher les profils juridiques, d’entreprise, métier et MPN
-||• Afficher les détails des utilisateurs et les données sur leurs compétences
-||• Afficher les compétences
-||• Afficher et gérer les revenus
-||• Afficher et acheter les offres MPN
-||• Afficher les factures et l’historique des commandes des offres MPN
-||• Afficher les données des indicateurs de contribution des partenaires
-||• Peut fonctionner dans l’outil de validation et d’échange de bons|
-||• Afficher l’analyse des données client
-|| • Afficher d’autres rôles d’utilisateur au sein de l’entreprise, sans pouvoir affecter de rôles
+|Administrateur partenaire MPN|*    Voir, créer et gérer les demandes de service des partenaires||
+||*    Voir les profils juridiques, d’entreprise, métier et MPN
+||*    Voir les détails des utilisateurs et les données sur leurs compétences
+||*    Voir les compétences
+||*    Voir et gérer les revenus
+||*    Voir et acheter les offres MPN
+||*    Voir les factures et l’historique des commandes des offres MPN
+||*    Voir les données des indicateurs de contribution des partenaires
+||*    Peut fonctionner dans l’outil de validation et d’échange de bons|
+||*    Voir l’analyse des données client
+||*    Voir d’autres rôles d’utilisateur au sein de l’entreprise, sans pouvoir affecter de rôles
 |Administrateur des comptes| • Ajouter des emplacements
 || • Gérer les profils associés aux comptes dont vous êtes administrateur 
-||• Affecter des rôles non-ADD aux utilisateurs dans le locataire 
-||• Inscrire des emplacements dans des programmes
+||*    Affecter des rôles non-ADD aux utilisateurs dans le locataire 
+||*    Inscrire des emplacements dans des programmes
 
 
 ## <a name="manage-referrals"></a>Gérer les références 
 
 |**Rôle**|**Ce qu’il peut faire**|
 |-----------------------------|:------------------------|
-|Administrateur des références       |• Afficher, créer et gérer les profils métier
-||• Recevoir et gérer les références
-||• Afficher, créer et gérer les références de covente|
-||• Afficher, créer et gérer les demandes de service des partenaires
-|Administrateur de profils métier   |• Afficher, créer et gérer le profil métier 
-||• Afficher, créer et gérer les demandes de service des partenaires|
+|Administrateur des références       |*    Voir, créer et gérer les profils métier
+||*    Recevoir et gérer les références
+||* Voir, créer et gérer les références de covente|
+||*    Voir, créer et gérer les demandes de service des partenaires
+|Administrateur de profils métier   |* Voir, créer et gérer le profil métier 
+||*    Voir, créer et gérer les demandes de service des partenaires|
 
 ## <a name="manage-incentives"></a>Gérer les primes incitatives 
 
 |**Rôle** | **Ce qu’il peut faire**|
 |------------------------------|:-------------------------|
-|Administrateur de primes incitatives|• Lancer et gérer des primes incitatives 
-||• Afficher et modifier tous les aspects des programmes de primes incitatives
-||• Afficher et modifier les informations bancaires et fiscales
-||• Afficher les remises et les revenus de coopération
-||• Accéder au support
-||• Contester des paiements de primes incitatives|
-|Utilisateur de primes incitatives|• Afficher les programmes de primes incitatives
-||• Afficher et lancer des revendications de primes incitatives
-||• Afficher les remises et les revenus de coopération
-||• Accéder au support
+|Administrateur de primes incitatives|*    Lancer et gérer des incentives 
+||*    Voir et modifier tous les aspects des programmes d’incentives
+||*    Voir et modifier les informations bancaires et fiscales
+||*    Voir les remises et les revenus de coopération
+||*    Accéder au support
+||*    Contester des paiements d’incentives|
+|Utilisateur de primes incitatives|*    Voir les programmes d’incentives
+||*    Voir et lancer des revendications d’incentives
+||*    Voir les remises et les revenus de coopération
+||*    Accéder au support
 
 ## <a name="view-partner-center-insights-data"></a>Consulter les données des insights de l’Espace partenaires
 

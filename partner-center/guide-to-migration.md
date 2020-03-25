@@ -1,7 +1,7 @@
 ---
 title: Guide de migration de PMC vers l’Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment migrer votre société depuis Partner Membership Center (PMC) vers l’Espace partenaires.
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: high
-ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721876"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226175"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’Espace partenaires
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 
 Le site web des partenaires Microsoft à l’adresse partner.microsoft.com propose une expérience numérique unifiée pour les partenaires. Ce site web vous permet d’explorer vos opportunités et de participer à des expériences guidées pour aider votre entreprise à créer et à vendre des applications et services avec Microsoft. À l’aide du lien Tableau de bord disponible sur le site web des partenaires, les membres du Microsoft Partner Network peuvent se connecter à l’Espace partenaires pour gérer leur relation avec Microsoft, participer à des programmes et s’inscrire à des offres. 
 
@@ -29,7 +29,7 @@ Le Partner Membership Center (PMC) est sur le point d’être mis hors service. 
 >[!Note]
 >Même si votre entreprise a plusieurs comptes ou emplacements, vous devez commencer par transférer un compte (votre premier compte) vers l’Espace partenaires.
 
-## <a name="get-started"></a>Prise en main
+## <a name="get-started"></a>Prendre en main
 
 Le transfert commence dans PMC. Votre administrateur général reçoit une invitation pour commencer le transfert. 
 
@@ -43,7 +43,7 @@ Le transfert commence dans PMC. Votre administrateur général reçoit une invit
 
 Sélectionnez **Démarrer** dans votre invitation. Vous êtes alors dirigé vers la page de connexion à l’Espace partenaires.
 
-![Prise en main](images/migration/getstarted.jpg)
+![Prendre en main](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>Commencer par votre adresse e-mail professionnelle
 
@@ -61,11 +61,11 @@ Votre locataire Azure AD est alors créé et vous recevez votre compte professio
 
 Le fait de sélectionner **Accepter et continuer** a également les conséquences suivantes :
 
-•   Migre votre compte et TOUS ses emplacements vers l’Espace partenaires
+- Migre votre compte et TOUS ses emplacements vers l’Espace partenaires
 
-•   Migre les compétences ou Microsoft Action Packs que vous avez achetés dans PMC
+- Migre les compétences ou Microsoft Action Packs que vous avez achetés dans PMC
 
-•   Migre les avantages (Microsoft Action Packs, Silver, Gold) dont vous disposiez dans PMC
+- Migre l’ensemble des programmes, offres et ressources marketing (Microsoft Action Packs, Silver, Gold) que vous aviez dans PMC
 
 ## <a name="invite-employees-to-join-you"></a>Inviter des employés à vous joindre
 
@@ -74,7 +74,7 @@ Une fois votre locataire Azure AD créé, vous pouvez inviter vos employés à s
 ![Inviter des employés](images/migration/invite.png)
 
 
-Si vous vous êtes connecté avec un locataire AAD existant, vos employés sont transférés avec vous. Dans ce cas, attribuez à vos employés des rôles qui contrôlent ce qu’ils peuvent faire dans l’Espace partenaires. Remarque: Les rôles dans l’Espace partenaires sont différents des rôles dans PMC. Pour plus d’informations, consultez [Passage de PMC à l’Espace partenaires](move-pmc-pc-map.md).
+Si vous vous êtes connecté avec un locataire AAD existant, vos employés sont transférés avec vous. Dans ce cas, attribuez à vos employés des rôles qui contrôlent ce qu’ils peuvent faire dans l’Espace partenaires. Remarque : Les rôles dans l’Espace partenaires sont différents des rôles dans PMC. Pour plus d’informations, consultez [Passage de PMC à l’Espace partenaires](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Vérifier votre domaine et devenir administrateur général  
 
@@ -103,6 +103,6 @@ Explorez votre tableau de bord. Ici, vous pouvez gérer votre adhésion, ajouter
 - [Créer le profil commercial de votre société](create-a-marketing-profile.md)
 - [Entrer en contact avec les clients via des références](responding-to-referrals.md)
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
 - [Guide de migration de plusieurs entreprises de PMC vers l’Espace partenaires](move-multiple-companies.md)

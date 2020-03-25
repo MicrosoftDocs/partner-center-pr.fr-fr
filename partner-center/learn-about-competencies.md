@@ -1,7 +1,7 @@
 ---
 title: Compétences Microsoft requises pour les niveaux d’adhésion Gold et Silver | Espace partenaires
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les compétences requises pour obtenir les niveaux d’adhésion Gold ou Silver.
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, adhésion silver, adhésion gold, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau, spécialisations avancées
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004808"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226215"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informations sur les compétences de niveau Silver et Gold et les spécialisations avancées Microsoft
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
+-    Administrateur général
+-    Administrateur des utilisateurs
 
 Mettez en évidence votre expertise éprouvée en solutions de qualité dans un ou plusieurs domaines d’activités spécialisés. Les compétences Microsoft visent à vous préparer à répondre aux besoins de vos clients et à contribuer à attirer de nouveaux clients en quête de fournisseurs de solutions Microsoft certifiés. Rejoignez le niveau élite des partenaires Microsoft et démarquez-vous de vos homologues.
 
@@ -30,7 +30,7 @@ Mettez en évidence votre expertise éprouvée en solutions de qualité dans un 
 
 - En tant que membre partenaire Gold, vous pouvez aussi ajouter des spécialisations avancées à votre portefeuille.
 
-L’acquisition de compétences de niveau d’adhésion **Silver** ou **Gold** permet également d’exploiter de considérables avantages en termes de marketing et de vente pour la [mise sur le marché](mpn-learn-about-go-to-market-benefits.md) afin de vous aider à développer et accroître votre activité.
+L’acquisition de compétences de niveau d’adhésion **Silver** ou **Gold** vous donne également accès à de riches programmes et offres de [commercialisation](mpn-learn-about-go-to-market-benefits.md) pour vous aider à développer votre activité.
 
 ## <a name="competency-areas"></a>Domaines de compétence
 
@@ -54,7 +54,7 @@ En savoir plus sur les [factures et les taxes relatives aux compétences](mpn-vi
 
 ## <a name="advanced-specializations"></a>Spécialisations avancées
 
-Allez au-delà de votre compétence Gold avec une spécialisation avancée. Cela vous permettra de mettre en avant vos compétences techniques éprouvées et vérifiables dans un produit, un domaine de solution ou un service. De leur côté, les clients pourront voir à la fois votre compétence Gold et votre spécialisation avancée dans le profil de votre entreprise dans l’annuaire des partenaires. Pour recevoir une étiquette de spécialisation avancée, votre entreprise doit répondre en tous points à un ensemble de critères publiés et être validée par Microsoft. [En savoir plus](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+Allez au-delà de votre compétence Gold avec une spécialisation avancée. Cela vous permettra de mettre en avant vos compétences techniques éprouvées et vérifiables dans un produit, un domaine de solution ou un service. De leur côté, les clients pourront voir à la fois votre compétence Gold et votre spécialisation avancée dans le profil de votre entreprise dans l’annuaire des partenaires. Pour recevoir une étiquette de spécialisation avancée, votre entreprise doit répondre en tous points à un ensemble de critères publiés et être validée par Microsoft. [En savoir plus](https://partner.microsoft.com/membership/competencies#tab-content-2) 
 
 ## <a name="the-current-advanced-specializations"></a>Les spécialisations avancées actuelles
 

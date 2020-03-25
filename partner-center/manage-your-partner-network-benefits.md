@@ -1,7 +1,7 @@
 ---
 title: Gérer vos avantages Microsoft Partner Network | Espace partenaires
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Rejoignez le Microsoft Partner Network (MPN) et gérez les avantages d’être membre qui vous aideront à créer et à développer votre activité.
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, avantages en tant que membre, adhésion, membre
 ms.localizationpriority: high
-ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004528"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226085"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Gérer vos avantages en tant que membre du Microsoft Partner Network
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004528"
 -  Espace partenaires
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
--   Administrateur partenaire MPN
+-    Administrateur général
+-    Administrateur des utilisateurs
+-    Agent d’administration
+-    Administrateur partenaire MPN
 
 >[!IMPORTANT]
 >Cet article explique comment commencer à bénéficier de vos avantages en tant que membre du Microsoft Partner Network (MPN) dans l’Espace partenaires (ce site). Si vous n’avez pas encore reçu d’invitation à transférer les informations de votre entreprise du Partner Membership Center (PMC) à l’Espace partenaires, vous devez continuer à gérer vos avantages en tant que membre du MPN dans le PMC. [Connectez-vous](https://partner.microsoft.com/_login?authType=OpenIdConnect) au PMC maintenant.
@@ -41,7 +41,7 @@ Après avoir acheté un package d’avantages réservé aux membres, vous devez 
 >[!IMPORTANT]
 >Bien qu’il ne soit pas nécessaire d’être administrateur général dans votre organisation pour acheter des avantages, vous devez être administrateur général pour affecter des avantages aux employés. Si nécessaire, vous pouvez devenir administrateur général en suivant les instructions de votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion obligatoire). Votre entreprise ayant peut-être déjà un administrateur général, pensez à vérifier auprès de votre équipe.
 
-Vos packages d’avantages incluent les allocations de licences logicielles, les services cloud, les abonnements Visual Studio et le support. Les packages d’avantages peuvent également inclure certains avantages de mise sur le marché. Vous pouvez obtenir plus de détails sur l’abonnement Action Pack sur le site [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+Vos packages d’avantages incluent les allocations de licences logicielles, les services cloud, les abonnements Visual Studio et le support. Les packages d’avantages peuvent également inclure des offres, programmes et ressources de commercialisation. Vous pouvez obtenir plus de détails sur l’abonnement Action Pack sur le site [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
 Pour afficher et gérer tous vos avantages en tant que membre, accédez à votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion obligatoire). Vous pouvez également vous connecter au [tableau de bord](https://docs.microsoft.com/partner-center/) de l’Espace partenaires, sélectionner l’**option Avantages** dans le menu de gauche, puis choisir les options des avantages affichées.  
 
@@ -109,47 +109,47 @@ Pour afficher et gérer tous vos avantages en tant que membre, accédez à votre
 
 4. Vous pouvez utiliser votre avantage en matière d’assistance technique de prévente ou d’heures de conseil partenaire pour demander une assistance technique pendant les phases de prévente, de conception, de déploiement et de développement d’applications de vos solutions cloud et hybrides. Pour demander une assistance, remplissez le [formulaire de demande](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest), puis sélectionnez **Envoyer une demande**.
 
-#### <a name="manage-go-to-market-benefits"></a>Gérer les avantages de la mise sur le marché
+#### <a name="manage-go-to-market-offers"></a>Gérer les offres de commercialisation
 
 **Rôles appropriés pour effectuer cette tâche :**
 
-- Administrateur global
+- Administrateur général
 - Administrateur de partenaire MPN
 
 
-1. Sélectionnez **Avantages de la mise sur le marché** pour consulter la liste de vos avantages Microsoft en matière de mise sur le marché.
+1. Sélectionnez **Avantages**, puis **Commercialiser** pour voir la liste des offres associées au programme Commercialiser avec Microsoft.
 
-    Les [avantages de la mise sur le marché](mpn-learn-about-go-to-market-benefits.md) mettent à votre disposition des ressources marketing et une assistance supplémentaires. Les types d’avantages disponibles dépendent de votre niveau d’engagement spécifique et de toutes les compétences que vous avez pu obtenir.
+    Les [caractéristiques de la commercialisation](mpn-learn-about-go-to-market-benefits.md) mettent à votre disposition des offres, des programmes, des ressources marketing et une assistance supplémentaires. Les types d’offres dépendent de votre niveau d’engagement spécifique et de toutes les compétences que vous avez pu obtenir.
 
-2. Pour activer un avantage de mise sur le marché, vous devez d’abord affecter un contact marketing à votre entreprise. Ce contact recevra des informations de suivi sur vos avantages de mise sur le marché actifs.
+2. Pour activer un programme ou une offre de commercialisation, vous devez d’abord affecter un contact marketing à votre entreprise. Ce contact recevra des informations de suivi sur vos offres de commercialisation actives.
 
-3. Pour ajouter un contact marketing ou mettre à jour ses informations, accédez à la partie supérieure de la page Mise sur le marché, puis sélectionnez **Ajouter**, **Mettre à jour** ou **Modifier**. Ensuite, effectuez les étapes suivantes :  
+3. Pour ajouter un contact marketing ou mettre à jour ses informations, accédez à la partie supérieure de la page Commercialiser, puis sélectionnez **Ajouter**, **Mettre à jour** ou **Modifier**. Ensuite, effectuez les étapes suivantes :  
    
     a.  Sélectionnez un utilisateur dans la liste. Si l’utilisateur à affecter ne figure pas dans la liste, vous pouvez [ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
 
     b.  Indiquez une adresse e-mail utilisateur différente de celle associée au compte Espace partenaires de votre entreprise. 
     
-    Le contact marketing désigné recevra par e-mail des instructions sur l’utilisation de l’avantage de mise sur le marché. 
+    Le contact marketing désigné recevra par e-mail des instructions sur l’utilisation de l’offre de commercialisation. 
     
     c.  Indiquez le numéro de téléphone et la langue par défaut du contact marketing. Une fois ces informations entrées, sélectionnez **Affecter l’utilisateur**. 
 
-4. Après avoir mis à jour votre contact marketing, recherchez l’avantage de mise sur le marché que vous souhaitez commencer à utiliser, puis sélectionnez la flèche vers le bas à l’extrémité droite de la ligne pour développer les détails de l’avantage. La liste affiche chaque type d’avantage disponible sous le nom de l’avantage (par exemple, **Silver Core** ou **Gold Core**).
+4. Après avoir mis à jour votre contact marketing, recherchez l’offre de commercialisation que vous souhaitez commencer à utiliser, puis sélectionnez la flèche vers le bas à l’extrémité droite de la ligne pour développer les détails de l’offre. La liste affiche chaque type d’offre disponible sous le nom de l’avantage (par exemple, **Silver Core** ou **Gold Core**).
 
-5. Sélectionnez **Activer** pour activer l’avantage.
+5. Sélectionnez **Activer** pour activer l’offre.
 
 > [!NOTE]
->L’envoi par e-mail des instructions au contact marketing affecté et l’activation d’un avantage de mise sur le marché peuvent prendre plusieurs jours. Une fois l’avantage activé, vous pouvez voir les changements dans la page Mise sur le marché. Dans la colonne **État**, l’avantage passe à **Actif**. Dans la colonne **Expire**, la date d’expiration de l’avantage est indiquée. Vous pouvez utiliser cet avantage jusqu’à sa date d’expiration. Découvrez-en plus sur les [différents types d’avantages de mise sur le marché](mpn-learn-about-go-to-market-benefits.md) disponibles.  
+>L’envoi par e-mail des instructions au contact marketing affecté et l’activation d’une offre de commercialisation peuvent prendre plusieurs jours. Une fois l’offre activée, vous pouvez voir les changements dans la page Commercialiser. Dans la colonne **Statut**, l’offre passe à **Actif**. La colonne **Expire** indique la date d’expiration de l’offre. Vous pouvez utiliser cette offre jusqu’à sa date d’expiration. Découvrez-en plus sur les [différents types de programmes, d’offres et de ressources de commercialisation](mpn-learn-about-go-to-market-benefits.md) disponibles.  
 
 
-## <a name="cancel-a-membership-benefit"></a>Annuler un avantage d’adhésion
+## <a name="cancel-a-membership-benefit-or-offer"></a>Annuler une offre ou un avantage d’adhésion
 
-Pour annuler un avantage et vous faire rembourser, vous devez formuler une demande dans les 30 jours suivant l’achat et ne pas avoir activé les avantages du logiciel. Faites une demande de service pour demander une annulation.
+Pour annuler une offre ou un avantage et vous faire rembourser, vous devez formuler une demande dans les 30 jours suivant l’achat et ne pas avoir activé les avantages du logiciel. Faites une demande de service pour demander une annulation.
 
 
-#### <a name="see-also"></a>Voir également
+#### <a name="see-also"></a>Voir aussi
 
 [Ajouter des utilisateurs et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
 
 [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
 
-[En savoir plus sur les avantages de mise sur le marché de MPN](mpn-learn-about-go-to-market-benefits.md)
+[En savoir plus sur les ressources et offres de commercialisation MPN](mpn-learn-about-go-to-market-benefits.md)
