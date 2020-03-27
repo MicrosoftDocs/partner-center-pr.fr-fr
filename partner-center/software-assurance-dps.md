@@ -1,7 +1,7 @@
 ---
 title: Services de planification Software Assurance dans l’espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apprenez à vous inscrire et à bénéficier des contrats Microsoft sur les services de planification afin de pouvoir fournir des services de formation et d’autres services aux clients avec Software Assurance.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: prédéploiement, planification, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915756"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296408"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 
@@ -52,7 +52,7 @@ Avant que les sociétés partenaires et consultants puissent s’inscrire à l�
 
 Pour vous aider à vérifier l’éligibilité de votre entreprise à l’inscription à un engagement de services de planification spécifique :
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires.
 2. Sélectionnez **MPN** dans le menu, puis sélectionnez **programmes**.
 3. Sélectionnez **inscription de la Software Assurance**.
 4. Sélectionnez l’onglet **inscription de programme services de planification** en haut de la page. Une coche verte s’affiche en regard des exigences ou des compétences que vous avez déjà effectuées.
@@ -103,8 +103,9 @@ Après avoir échangé les bons de planification des services, vous devez factur
 
 Pour envoyer une facture à Microsoft par le biais de SAVB, suivez les instructions de l' [étape 8](https://go.microsoft.com/fwlink/?linkid=2115983) du flux de travail.
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir aussi
 
 - [Flux de travail des services de planification Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [FAQ sur les services de planification Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Stratégies des services de planification Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Contrats de service de planification Software Assurance mis hors service](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

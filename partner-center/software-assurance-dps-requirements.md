@@ -1,7 +1,7 @@
 ---
 title: Afficher les conditions d’éligibilité pour les approvisionnements de services de planification | Espace partenaires
 ms.topic: article
-ms.date: 01/29/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les conditions d’éligibilité pour chaque engagement de service de planification Software assurance qu’une société souhaite offrir aux clients d’entreprise.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: prédéploiement, planification, Software Assurance, engagement, exigences, éligibilité, offre
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f53d12c470ec72bd8eb59ea7d21db06d813a763
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76928888"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296432"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Afficher les conditions d’éligibilité pour les approvisionnements des services de planification
 
@@ -41,8 +41,9 @@ Chaque engagement de service de planification a ses propres exigences spécifiqu
 | Planification du déploiement d’Exchange<br> Planification du déploiement de Skype entreprise</br>  | [Engagement des services de planification de déploiement Skype entreprise et Exchange (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Modernisation du patrimoine des données  | [Engagement des services de planification de déploiement SQL Server (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>Articles associés
+## <a name="see-also"></a>Voir aussi
 
 - [Flux de travail des services de planification Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [FAQ sur les services de planification Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Stratégies des services de planification Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Contrats de service de planification Software Assurance mis hors service](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

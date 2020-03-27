@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution des partenaires | Espace partenaires
 ms.topic: article
-ms.date: 1/06/2020
+ms.date: 03/25/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Données indiquant le niveau de performance de votre entreprise avec Dynamics 365 Customer Engagement ou Dynamics 365 for Finance and Operations
@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 6b100d4dbac6d311942f06ab895ce57f89921c42
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112448"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296472"
 ---
 # <a name="partner-contribution-indicators"></a>Indicateurs de contribution des partenaires
 
@@ -24,12 +24,12 @@ Les indicateurs de contribution partenaires (PCI) fournissent une mesure holisti
 
 ## <a name="scoring"></a>Notation
 
-PCI offre une vue holistique et sophistiquée des capacités techniques d’un partenaire, de sa capacité à stimuler la réussite des clients et de leurs performances de vente. PCI mesure les performances de l’année précédente de votre entreprise sur sept indicateurs clés :
+PCI offre une vue sophistiquée des capacités techniques d’un partenaire, de sa capacité à stimuler la réussite des clients et de leurs performances de vente. PCI mesure les performances de l’année précédente de votre entreprise sur sept indicateurs clés :
 
 1. **Net New revenu** — net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365.
 2. **Ajouts au client net** : clients nets acquis pour Dynamics 365 sur tous les canaux de vente.
-3. **Consultants fonctionnels** : nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365.
-4. **Croissance du consultant fonctionnel** : croissance du nombre d’associés aux consultants fonctionnels.
+3. **Consultants fonctionnels** : nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. 
+4. **Croissance du consultant fonctionnel** : croissance du nombre d’associés aux consultants fonctionnels. Nous réévaluons le moment où nous allons prendre l’instantané de base pour cette mesure. Il n’aura pas lieu le 31 mars, 2020 comme indiqué précédemment. Lorsque nous avons défini une nouvelle date, nous allons mettre à jour ce document, vous en informer dans l’espace partenaires et par e-mail.
 5. **Développeurs** : nombre d’individus titulaires d’une certification de développeur actuellement active pour Dynamics 365.
 6. **Nouveaux déploiements à grande échelle** : nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois.
 7. **Croissance mensuelle** des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois.
@@ -52,8 +52,7 @@ Les partenaires peuvent gagner le maximum de points pour une métrique donnée s
 
 ![engagement client](images/pci/custengagethresh.png)
 
-![Finance](images/pci/table_2.png
-)
+![Finance](images/pci/table_2.png)
 
 ![conseillers](images/pci/table_3.png)
 
@@ -65,7 +64,7 @@ Les partenaires peuvent gagner le maximum de points pour une métrique donnée s
 
 ![Consultant fonctionnel](images/pci/funcconsult.png)
 
-![Croissance du consultant fonctionnel](images/pci/funcgrowth2.png)
+![Croissance du consultant fonctionnel](images/pci/4_Functional_consultant_growth.png)
 
 ![Développeurs](images/pci/developers.png) 
 
@@ -73,13 +72,11 @@ Les partenaires peuvent gagner le maximum de points pour une métrique donnée s
 
 ![Utilisateurs actifs](images/pci/activeusers.png)
 
-
-
 ## <a name="customer-to-partner-association"></a>Association entre client et partenaire
 
 Vous recevez un crédit pour les nouveaux revenus nets, les ajouts de clients nets, de nouveaux déploiements à grande échelle et la croissance mensuelle des utilisateurs actifs pour un client donné, dans les limites de la définition de la métrique, uniquement si vous êtes fournisseur de solutions Cloud (CSP), le partenaire de revendication d’enregistrement (CPOR), ou partenaire numérique de l’enregistrement (DPOR) pour un abonnement payant appartenant au locataire du client.
 
-Un partenaire devient le CPOR s’il a établi une association avec un client au niveau de l’abonnement via l’incentive Dynamics 365 [Online Services Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou Dynamics 365 [Online Services usage](https://support.microsoft.com/en-us/help/4489988/online-services-usage-osu-incentives-faq) (OSU) Incentive.
+Un partenaire devient le CPOR s’il a établi une association avec un client au niveau de l’abonnement via l’incentive Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou Dynamics 365 [Online Services usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU) Incentive.
 
 Un partenaire devient le DPOR s’il est associé à un client au niveau de l’abonnement au sein du produit.
 
@@ -91,7 +88,7 @@ Si CPOR et DPOR existent tous les deux pour un abonnement donné, le CPOR recevr
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 
-Consultez la [collection de ressources indicateurs de contribution partenaire](https://aka.ms/pcilearn) où vous trouverez des vidéos de formation, des présentations, des FAQ et des feuilles de faits détaillés. 
+Visitez la [collection de ressources indicateurs de contribution partenaire](https://aka.ms/pcilearn) où vous trouverez des vidéos de formation détaillées, des présentations, des FAQ et des feuilles de faits. 
 
 
 
