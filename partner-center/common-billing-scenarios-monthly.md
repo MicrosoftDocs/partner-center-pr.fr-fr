@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: Scénarios courants dans l’espace partenaires lorsque vous utilisez la facturation mensuelle (par exemple, l’ajout de nouveaux abonnements, la modification de la quantité de licences et la suspension d’abonnements).
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: facturation, paiements, commandes, utilisation, facturation mensuelle, abonnements, fichier de réconciliation
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cae4f82e059a2c8258a00ae51a406ca890f7a67
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a9163f7b787d76373a427b9e2d9f09b131227888
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722491"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390139"
 ---
 # <a name="monthly-billing-scenarios"></a>Scénarios de facturation mensuelle
 
@@ -53,7 +53,7 @@ Le 1er février, vous ajoutez une licence supplémentaire. Le 15 février, le 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 13/01/2018        |12/02/2018    |Instance de cycle au prorata   |-4,00       |1        |-4,00   |
-|13/01/2018         |31/01/2018    | Instance de cycle au prorata   |2,45       |1        |2,45    |
+|13/01/2018         |31/01/2018    | Instance de cycle au prorata   |2.45       |1        |2.45    |
 |01/02/2018         |12/02/2018    | Instance de cycle au prorata   |1,55       |2        |3,10    |
 |13/02/2018         |12/03/2018    | Instance de cycle au prorata   |4,00       |2        |8,00    |
 
@@ -79,7 +79,7 @@ Le 1er février, vous suspendez un abonnement. Le 15 février, le fichier de ra
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/02/2018|Frais d'annulation|-4,00|1|-4,00
+13/01/2018|12/02/2018|Annuler les frais|-4,00|1|-4,00
 
 ## <a name="suspend-after-30-days"></a>Suspendre après 30 jours
 
@@ -99,7 +99,7 @@ Le 1er mars vous suspendez l'abonnement. Le 15 mars, le fichier de rapprocheme
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|12/03/2018|Frais d'annulation|-1,72|1|-1,72
+01/03/2018|12/03/2018|Annuler les frais|-1,72|1|-1,72
 
 Le prix mensuel est de 4,00 dollars et il y a 28 jours dans la période de service (du 13/02/2018 au 12/03/2018). Cela équivaut à un prix journalier de 0,143 (4/28).
 

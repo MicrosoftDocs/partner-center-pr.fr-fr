@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les fournisseurs indirects collaborent avec des revendeurs indirects dans le programme fournisseur de solutions Cloud (CSP) et déterminez le rôle qui vous convient.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ffa27c8f0c099182dc24d44d0ccaef1a6231dead
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943152"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390448"
 ---
 # <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 
 Le programme fournisseur de solutions Cloud (CSP) de Microsoft offre aux partenaires la possibilité de travailler ensemble de ces manières.
 

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: 'Consultez facturation annuelle de l’espace partenaires : lorsque vous ajoutez de nouveaux abonnements, ajoutez des licences avant la date de facturation, modifiez le nombre de licences, interrompez/réactivez les abonnements.'
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: d29def486243f3a4ee9060d442dc5e4b024cb1f0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fdfb242f51556ce924d06d7a35f32cf726803fe3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722479"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390158"
 ---
 # <a name="annual-billing-scenarios"></a>Scénarios de facturation annuelle
 
@@ -32,7 +32,7 @@ Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier 
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l’achat|48,00|1|48,00
+13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
 
 ## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Ajouter une licence après la date anniversaire de l’abonnement, mais avant la date de facturation
 
@@ -72,7 +72,7 @@ Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier 
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l’achat|48,00|1|48,00
+13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
 
 Le 1er février, vous ajoutez une licence supplémentaire. Le 15 février, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes :
 
@@ -100,13 +100,13 @@ Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier 
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l’achat|48,00|1|48,00
+13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
 
 Le 1er février vous suspendez votre abonnement. Le 15 février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais d'annulation|-48,00|1|-48,00
+13/01/2018|12/01/2019|Annuler les frais|-48,00|1|-48,00
 
 ## <a name="suspend-after-30-days"></a>Suspendre après 30 jours
 
@@ -114,14 +114,14 @@ Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier 
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l’achat|48,00|1|48,00
+13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
 
 Le 15 février, le fichier de rapprochement basé sur les licences ne contiendra aucune ligne de facturation pour cet abonnement.
 Le 1er mars vous suspendez votre abonnement. Le 15 mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|12/01/2019|Frais d'annulation|-41,34|1|-41,34
+01/03/2018|12/01/2019|Annuler les frais|-41,34|1|-41,34
 
 Le prix annuel est de 48,00 dollars, ce qui équivaut à un prix journalier de 0,13 (48,00/365).
 
@@ -137,19 +137,19 @@ Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier 
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l’achat|48,00|1|48,00
+13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
 
 Le 1er février vous suspendez votre abonnement. Le 15 février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais d'annulation|-48,00|1|-48,00
+13/01/2018|12/01/2019|Annuler les frais|-48,00|1|-48,00
 
 Le 1er mars vous réactivez votre abonnement. Le 15 mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
 
 |Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|12/01/2019|Frais au prorata à l’achat|41,34|1|41,34
+01/03/2018|12/01/2019|Frais au prorata à l'achat|41,34|1|41,34
 
 Le prix annuel est de 48,00 dollars, ce qui équivaut à un prix journalier de 0,13 (48,00/365).
 

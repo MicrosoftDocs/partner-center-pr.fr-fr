@@ -5,15 +5,15 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Avant de vous inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 13ec7eddd2fef9be9f120729b54e6f9e2cf58f9b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 4d6215927f5c1c922f9c124d78a41694703cb0bf
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722576"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389798"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -79,7 +79,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
 
 2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
  
-## <a name="connect-with-us"></a>Restez en contact
+## <a name="connect-with-us"></a>Communiquez avec nous
 
 - Des questions ? Envoyez-nous un e-mail à l’adresse azgovcsp@microsoft.com
 

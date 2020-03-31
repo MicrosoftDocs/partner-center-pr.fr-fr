@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0eb888ac225ebad1a66abd415c5572dac8b4a43e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f227d6f12e9e84611684796bc26bd72a6b539348
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721327"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389878"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud
 
@@ -24,7 +24,7 @@ ms.locfileid: "74721327"
 - Agent d’administration
 - Administrateur global
 
-Le logiciel local dans le programme fournisseur de solutions Cloud permet une transition en douceur vers le Cloud en introduisant un logiciel local dans un programme axé sur le Cloud.  Cette nouvelle offre permet de faire passer le partenaire à valeur ajoutée à chaque scénario d’achat, car il fournit une plate-forme unique pour tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation. Le logiciel sur site dans CSP est un nouveau programme de vente et n’est pas destiné à remplacer les autres programmes de licence en volume de Microsoft. 
+Le logiciel local dans le programme fournisseur de solutions Cloud permet une transition en douceur vers le Cloud en introduisant un logiciel local dans un programme axé sur le Cloud.  Cette nouvelle offre permet d'associer un partenaire à valeur ajoutée à chaque scénario d’achat, car elle présente une plate-forme unique sur laquelle proposer tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation. Le logiciel sur site dans CSP est un nouveau programme de vente et n’est pas destiné à remplacer les autres programmes de licence en volume de Microsoft. 
  
 Tout en garantissant la meilleure valeur globale du client avec les options de licence logicielle sur site, nous avons également rendu le modèle d’entreprise aussi convivial que possible. La gestion simple et directe des licences des logiciels locaux dans le programme fournisseur de solutions Cloud implique une prévisibilité des coûts et facilite votre processus de vente. Ce nouveau modèle commercial facilite la fourniture, la gestion et la tarification des logiciels locaux pour vos clients, ce qui vous permet de vous concentrer sur l'obtention de contrats avec une gamme étendue de solutions de gestion informatique à valeur ajoutée. 
 
@@ -43,7 +43,7 @@ Une fois que vous avez acheté votre logiciel, vous et vos clients devez le tél
 >[!NOTE]
 >Vous devez être Agent d'administration pour pouvoir obtenir les clés et les téléchargements. 
 
-1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. Vous verrez une liste de tous les logiciels que vous avez achetés pour le compte du client. 
+1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors. 
 2.  Développez le produit que vous souhaitez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous souhaitez. 
 3.  Sélectionnez **Soumettre** pour afficher les produits spécifiques. 
 4.  Sélectionnez **Obtenir les clés et les téléchargements**. 
@@ -83,4 +83,4 @@ Utilisez la procédure suivante pour annuler un achat. Une fois que l’annulati
 
 8.  Si vous avez besoin d'attacher un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative. 
 
-9.  Lorsque vous avez terminé, sélectionnez **Envoyer**.
+9.  Quand vous avez terminé, sélectionnez **Soumettre**.

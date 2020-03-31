@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser un compte client pour affecter ou révoquer des licences et des services à un seul utilisateur ou à plusieurs utilisateurs à la fois.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: attribuer une licence, révoquer une licence, attribuer à plusieurs utilisateurs,
 ms.localizationpriority: medium
-ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722197"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390268"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 
 **Rôles appropriés**
 
@@ -33,7 +33,7 @@ ms.locfileid: "74722197"
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
-l’espace partenaires suit et affiche tous les droits de licence détenus par le client.
+L’espace partenaires suit et affiche tous les droits de licence détenus par le client.
 
 ## <a name="in-this-section"></a>Dans cette section
 

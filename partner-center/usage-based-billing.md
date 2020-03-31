@@ -3,20 +3,20 @@ title: Facturation basée sur l’utilisation | Espace partenaires
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informations sur la facturation basée sur l’utilisation dans l’espace partenaires, où vous êtes facturé pour les taux d’utilisation mensuels.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturation, basée sur l’utilisation, utilisation
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389737"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390498"
 ---
 # <a name="usage-based-billing"></a>Facturation basée sur l’utilisation
 
-- Espace partenaires
+- Centre pour partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 Lorsque vous achetez services en ligne comme des abonnements Azure, vous êtes facturé pour les taux d’utilisation mensuels. Les services basés sur l’utilisation, tels qu’Azure, sont facturés en fonction des tarifs contrôlés, en fonction de la consommation.

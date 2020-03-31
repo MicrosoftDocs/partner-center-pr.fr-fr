@@ -5,23 +5,23 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: En savoir plus sur les différents types de facturation, les périodes de facturation et les dates de facturation que vous pouvez voir dans l’espace partenaires.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturation, paiements, commandes, fichiers de rapprochement, fichier de rapp
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722249"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390288"
 ---
 # <a name="types-of-billing-in-partner-center"></a>Types de facturation dans l’espace partenaires
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**

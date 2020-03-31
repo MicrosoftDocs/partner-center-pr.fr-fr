@@ -6,18 +6,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explorez la facturation après avoir ajouté de nouveaux abonnements, ajustez la quantité de licences ou annulez un abonnement. Découvrez les différences entre les abonnements basés sur l’utilisation et les licences.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2b8cfe28b6d81a2ff91543ed2d7005f72007b553
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722019"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390048"
 ---
-# <a name="common-billing-scenarios"></a>Scénarios de facturation courants
+# <a name="common-billing-scenarios"></a>Exemples de facturation courants
 
 S'applique à :
 

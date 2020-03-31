@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: En savoir plus sur les différences entre les cycles de facturation mensuel et annuel dans l’espace partenaires.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722406"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390308"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Différences de facturation mensuelle et annuelle
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
@@ -35,7 +35,7 @@ Cette rubrique explique les différences entre la **facturation mensuelle** et l
 
 ## <a name="applicability"></a>Applicabilité
 
-La plupart des abonnements basés sur une licence ont la possibilité d’utiliser l’option de facturation mensuelle ou annuelle. Les abonnements basés sur l’utilisation proposent seulement une facturation mensuelle.
+La plupart des abonnements basés sur une licence ont la possibilité d’utiliser l’option de facturation mensuelle ou annuelle. Les abonnements basés sur l’utilisation proposent uniquement une facturation mensuelle.
 
 La facturation annuelle et mensuelle sont **par abonnement**, et  ***non* par licence**.
 
@@ -51,7 +51,7 @@ Tous les partenaires et types de partenaires peuvent choisir une facturation men
 
 La facturation mensuelle et annuelle (pour les offres applicables) est disponible sur tous les marchés où le programme CSP est actuellement disponible.
 
-## <a name="change-billing-frequency"></a>Modifier la fréquence de facturation
+## <a name="change-billing-frequency"></a>Changer la fréquence de facturation
 
 Vous pouvez basculer entre chaque facture mensuelle et annuelle à tout moment. Vous pouvez modifier la fréquence de facturation si les besoins de votre entreprise évoluent.
 
@@ -69,9 +69,9 @@ Passer de la facturation annuelle à la facturation mensuelle peut être utile s
 
 La facturation annuelle présente les avantages suivants :
 
-- Flexibilité accrue en matière d’options de paiement.
+- Flexibilité accrue en matière d'options de paiement.
 - Meilleur alignement avec la facturation de vos clients.
-- Réduction de l’impact des fluctuations des devises.
+- Réduction de l'impact des fluctuations de devises.
 - Réduction des coûts d’exploitation en matière de facturation.
 
 ### <a name="configure-annual-billing"></a>Configurer la facturation annuelle
@@ -91,7 +91,7 @@ Pour plus d’informations sur les API de l’espace partenaires, voir toutes le
 
 ## <a name="placing-orders"></a>Placement des commandes
 
-Le type de fréquence de facturation, y compris l’option de facturation annuelle, est affecté à l' **offre** en tant qu’attribut. Il n’existe pas d’offre unique spécifique pour les commandes avec facturation annuelle. Cependant, vous pouvez donner à une offre un nom plus explicite pour aider les clients à faire facilement la distinction.
+Le type de fréquence de facturation, y compris l’option de facturation annuelle, est affecté à l' **offre** en tant qu’attribut. Il n’existe pas d’offre unique spécifique pour les commandes avec facturation annuelle. Toutefois, vous pouvez donner à une offre un nom plus explicite pour aider les clients à faire facilement la distinction.
 
 ### <a name="select-annual-billing"></a>Sélectionner la facturation annuelle
 
@@ -103,7 +103,7 @@ Vous serez facturé à votre date de facturation suivante. Par exemple, si votre
 
 ### <a name="annual-renewals"></a>Renouvellements annuels
 
-La date de renouvellement de votre abonnement sera de douze mois après la date de début du service. La période du service commence à la date de création de l’abonnement.  Par exemple, un abonnement créé le 10 janvier 2019 est renouvelé le 10 janvier 2020.
+La date de renouvellement de votre abonnement sera de douze mois après la date de début du service. La période de service commence à la date de création de l’abonnement.  Par exemple, un abonnement créé le 10 janvier 2019 est renouvelé le 10 janvier 2020.
 
 Vous serez facturé à la prochaine date de facturation qui suit la date de renouvellement de l’abonnement. Par exemple, si vous achetez un abonnement à facturation annuelle le 15 janvier 2018 et que votre date de facturation est le 20 janvier, votre abonnement sera renouvelé le 15 janvier 2019. Vous serez facturé pour le renouvellement le 20 janvier 2019.
 
@@ -111,15 +111,15 @@ Vous serez facturé à la prochaine date de facturation qui suit la date de reno
 
 Il n’est pas possible de fractionner un **seul abonnement** de sorte qu’une partie soit facturée chaque mois et que l’autre partie soit facturée annuellement. L’abonnement entier doit avoir la même fréquence de facturation (facturation mensuelle ou annuelle).
 
-Pour les clients avec **plusieurs abonnements** de la même offre, il peut être possible d’avoir différentes fréquences de facturation par abonnement. Certaines offres sont limitées à un seul abonnement par client. Si l’offre n’est pas limitée, un client peut avoir plusieurs abonnements d’une même offre avec des fréquences de facturation différentes. Vous trouverez les détails des limites et restrictions de chaque offre dans la colonne I du tableau des offres. Vous pouvez trouver la matrice d’offre dans la section **voir les offres et la tarification** de l’espace partenaires.
+Pour les clients avec **plusieurs abonnements** de la même offre, il peut être possible d’avoir différentes fréquences de facturation par abonnement. Certaines offres sont limitées à un abonnement par client. Si l’offre n’est pas limitée, un client peut avoir plusieurs abonnements d'une même offre avec des fréquences de facturation différentes. Vous trouverez les détails des limites et restrictions de chaque offre dans la colonne I du tableau des offres. Vous pouvez trouver la matrice d’offre dans la section **voir les offres et la tarification** de l’espace partenaires.
 
 ### <a name="free-subscription-period"></a>Période d’abonnement gratuite
 
-Les abonnements avec une fréquence de facturation annuelle ne bénéficient pas d’une période gratuite. La durée payée de douze mois commence à la date d’achat. Ces conditions diffèrent de celles des abonnements à fréquence de facturation mensuelle, qui bénéficient d’une période gratuite entre la date d’achat et la date de facturation qui suit.
+Les abonnements avec une fréquence de facturation annuelle ne bénéficient pas d’une période gratuite. La durée payée de douze mois commence à la date d’achat. Ces conditions diffèrent de celles des abonnements à fréquence de facturation mensuelle qui bénéficient d'une période gratuite entre la date d’achat et la date de facturation qui suit.
 
 ### <a name="adding-and-removing-licenses"></a>Ajout et suppression de licences
 
-Vous pouvez modifier le nombre de licences de vos abonnements à tout moment. L’ajout de licences supplémentaires n’aura aucune incidence sur la fréquence de facturation.
+Vous pouvez modifier le nombre de licences de vos abonnements à tout moment. L'ajout de licences supplémentaires n’aura aucune incidence sur la fréquence de facturation.
 
 Vous pouvez à tout moment ajouter ou supprimer des licences.  Vous recevrez un crédit et une facture au prorata à la date de facturation suivante après avoir modifié le nombre de licences.
 
@@ -127,7 +127,7 @@ Si votre abonnement existant a une facturation annuelle, il n’est pas possible
 
 ### <a name="add-on-offers"></a>Offres complémentaires
 
-L’abonnement au module complémentaire aura automatiquement la même fréquence de facturation que l’abonnement parent. La facturation annuelle est disponible pour les offres complémentaires. 
+L'abonnement au module complémentaire aura automatiquement la même fréquence de facturation que l’abonnement parent. La facturation annuelle est disponible pour les offres complémentaires. 
 
 ### <a name="cancelling-subscriptions"></a>Annulation des abonnements
 
@@ -137,7 +137,7 @@ Pour la facturation annuelle, si l’abonnement est annulé au cours des 30 prem
 
 ### <a name="moving-subscriptions-between-partners"></a>Déplacement d’abonnements entre partenaires
 
-Les clients ne peuvent pas déplacer des abonnements d’un partenaire à un autre. Ceci s’applique aussi bien aux abonnements à facturation mensuelle qu’annuelle.
+Les clients ne peuvent pas déplacer des abonnements d’un partenaire à un autre. Cela s’applique aussi bien aux abonnements à facturation mensuelle qu'annuelle.
 
 Le nouveau partenaire doit acheter un nouvel abonnement pour le compte du client. Il n’est pas possible de déplacer des abonnements entre partenaires.
 
@@ -173,9 +173,9 @@ Lorsque vous achetez ou renouvelez un abonnement avec la facturation annuelle, v
 
 Une nouvelle ligne sur le fichier de réconciliation basé sur les licences, à la date de la première facturation suivant l’achat ou un nouvel abonnement.
 
-Si aucune modification n’est apportée à l’abonnement, aucune ligne n’apparaît sur les fichiers de rapprochement pour les mois 2 à 12 de la période d’abonnement. Si une modification est apportée à l’abonnement au cours de la période de douze mois, un crédit et une facture au prorata s’affichent dans le prochain fichier de rapprochement une fois la modification effectuée.
+Si aucune modification n'est apportée à l’abonnement, aucune ligne n'apparaît sur les fichiers de rapprochement pour les mois 2 à 12 de la période d'abonnement. Si une modification est apportée à l’abonnement au cours de la période de douze mois, un crédit et une facture au prorata s’affichent dans le prochain fichier de rapprochement une fois la modification effectuée.
 
-La modification suivante du fichier de rapprochement s’affiche lorsque l’abonnement est renouvelé. Elle apparaît à la première date de facturation qui suit le renouvellement.
+La modification suivante du fichier de rapprochement s’affiche lorsque l’abonnement est renouvelé. Elle s’affiche à la première date de facturation qui suit le renouvellement.
 
 ### <a name="usage-file-changes-for-annual-billing"></a>Modifications du fichier d’utilisation pour la facturation annuelle
 
@@ -197,7 +197,7 @@ Lorsque vous ajoutez des licences à un abonnement, le fichier de réconciliatio
 
 ### <a name="price-lists-for-annual-billing"></a>Tarifs pour la facturation annuelle
 
-Les tarifs de l’espace partenaires affichent les tarifs mensuels. Aucun prix annuel n’est indiqué. Vous pouvez calculer le prix annuel en multipliant le prix mensuel par 12.
+Les tarifs de l’espace partenaires affichent les tarifs mensuels. Aucun prix annuel n’est indiqué. Vous pouvez calculer le prix annuel en multipliant le prix mensuel par douze.
 
 ### <a name="offer-matrix"></a>Matrice d’offre
 
@@ -207,11 +207,11 @@ Les ID d’offre dans la matrice d’offre sont les mêmes pour toutes les fréq
 
 ### <a name="incentives-calculation"></a>Calcul des incentives
 
-Les incentives sont calculés en fonction du **chiffre d’affaires facturé**et  ***non* du revenu ajusté**. Les paiements des primes obtenues seront versés conformément à notre stratégie présentée dans les guides de primes incitatives de notre programme Fournisseur de solutions Cloud.
+Les incentives sont calculés en fonction du **chiffre d’affaires facturé**et  ***non* du revenu ajusté**. Les paiements des primes obtenues seront versés conformément à notre stratégie présentée dans nos guides des primes du programme Fournisseur de solutions Cloud.
 
 Lorsqu’un abonnement facturé annuellement est vendu, le chiffre d’affaires de cet abonnement est reconnu pour le calcul des incentives sur la base du chiffre d’affaires facturé.
 
-### <a name="payout"></a>Revenu
+### <a name="payout"></a>Paiement
 
 Actuellement, tous les paiements d’incentives sont effectués deux fois par an. Ces paiements sont versés 45 jours après la fin du semestre.
 
@@ -223,13 +223,13 @@ Les partenaires gagnent des incentives sur toutes les transactions éligibles, q
 
 Pour toute question sur les incentives, contactez l’équipe de support technique régional appropriée :
 
-| Région | Adresse e-mail |
+| Région | Adresse électronique |
 | ------ | ------------- |
 | Amérique du Nord | <ocina@microsoft.com> |
 |Amérique latine & Brésil | <ocilatam@microsoft.com> |
 | MOYEN | <ociemea@microsoft.com> |
 | APOAC (à l’exception du Japon) | <ociapgc@microsoft.com> |
-| Japon | <ocijp@microsoft.com> |
+| Japan | <ocijp@microsoft.com> |
 
 
 ### <a name="suspension"></a>Suspendu

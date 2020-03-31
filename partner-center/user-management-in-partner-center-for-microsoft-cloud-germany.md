@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment et où gérer l’espace partenaires pour les partenaires, les clients et les licences de Microsoft Cloud Allemagne, ainsi que les réinitialisations de mot de passe.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6f6a5f1c4a64e6bb9f80204dbbf6100b8441bc37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943372"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390488"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Allemagne
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany
 
 **S’applique à**
 
--  Espace partenaires de Microsoft Cloud Germany
+-  Espace partenaires de Microsoft Cloud Germany
 
 > [!IMPORTANT]
 > En fonction de l’évolution des besoins des clients, notre stratégie de Cloud pour l’Allemagne se concentrera sur la livraison des nouvelles régions Cloud en Allemagne qui sont cohérentes avec notre offre Cloud mondiale. Dans cette optique, nous n’accepterons plus de nouveaux clients ou nous ne déploierons plus de nouveaux services à partir de Microsoft Cloud actuellement disponible en Allemagne. Les clients existants peuvent continuer à utiliser les services Cloud actuels actuellement disponibles, que nous allons conserver avec les mises à jour de sécurité nécessaires.
@@ -32,7 +32,7 @@ Fonction ou fonctionnalité | Effectuer des tâches dans
 :--- | :---
 Gestion des utilisateurs partenaires | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
 Gestion des utilisateurs du client | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
-Réinitialiser le mot de passe utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
+Réinitialiser le mot de passe de l’utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
 Gestion des licences | Centre d’administration Office 365 ou portail de gestion des licences Azure Active Directory de Microsoft Cloud Germany
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Comment gérer les utilisateurs dans le portail Azure de Microsoft Cloud Germany 
@@ -44,15 +44,15 @@ Une fois que vous êtes connecté au portail Azure de Microsoft Cloud Germany, 
 > [!NOTE]  
 > Sélectionnez les liens ci-dessous pour accéder à un autre site Web. 
 
--  [Ajout de nouveaux utilisateurs à Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Ajouter de nouveaux utilisateurs à Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Attribuer des rôles d’administrateur à un utilisateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Affecter un utilisateur à des rôles d’administrateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [Réinitialiser le mot de passe d’un utilisateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Rubriques connexes**
 
--  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure Allemagne](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
 

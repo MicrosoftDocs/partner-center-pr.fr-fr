@@ -5,16 +5,16 @@ ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Pour bénéficier d’avantages exclusifs, vous pouvez mettre à niveau votre adhésion MPN vers une appartenance à un abonnement Microsoft Action Pack ou des compétences Microsoft.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 13c2cc9b9365caa38c1da10b0c6dbba48d435397
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226146"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390508"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Mise à niveau de votre abonnement au Microsoft Partner Network
 
@@ -113,11 +113,11 @@ Pour annuler votre abonnement au Microsoft Action Pack, vous devez contacter le
 
 1. Accédez à https://partnercenter.microsoft.com/partner/support.
 
-2. Sélectionnez **Signaler des problèmes avec l’Espace partenaires**, puis sélectionnez **Nouvelle demande** dans la page suivante.
+2. Sélectionnez **Signaler des problèmes avec l'Espace partenaires**, puis sélectionnez **Nouvelle demande** sur la page suivante.
 
-3. Développez la liste **Type de problème**, puis sélectionnez **Aide concernant une facture, un paiement ou un fichier de rapprochement de partenaire**. 
+3. Développez la liste **Type de problème** et sélectionnez **Aide concernant une facture, un paiement ou un fichier de rapprochement de partenaire**. 
 
-4. Finissez d’indiquer les informations nécessaires, puis sélectionnez **Envoyer**. L’équipe de support de l’Espace partenaires vous contactera pour vous aider à annuler votre abonnement.
+4. Finissez d'indiquer les informations requises, puis sélectionnez **Envoyer**. L’équipe de support de l'Espace partenaires vous contactera pour vous aider à annuler votre abonnement.
 
     Pour vérifier l’état de votre demande de service, sélectionnez **Demandes de Service > Demandes à l'Espace partenaires**, puis sélectionnez **Ouvrir**. Choisissez la demande de service appropriée dans la liste.  
 

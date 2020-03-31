@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les problèmes que les partenaires Microsoft sont censés résoudre eux-mêmes pour leurs clients et les problèmes qu’ils peuvent avoir à faire remonter à Microsoft.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722237"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389858"
 ---
-# <a name="escalate-problems-to-microsoft"></a>Faire remonter des problèmes à Microsoft
+# <a name="escalate-problems-to-microsoft"></a>Faire remonter les problèmes à Microsoft
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
@@ -47,7 +47,7 @@ Toutefois, il existe plusieurs catégories de problèmes que vous devez transmet
 
 ## <a name="submit-a-support-request"></a>Envoyer une demande de support
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 2. Dans le menu espace partenaires, sélectionnez **clients**, puis sélectionnez le client qui a besoin d’un support technique.
 

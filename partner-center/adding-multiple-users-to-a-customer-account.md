@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment ajouter simultanément plusieurs utilisateurs au compte d’un client, en chargeant un fichier de données au format de fichier de valeurs séparées par des virgules (. csv) dans l’espace partenaires.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: chargement groupé, ajouter plusieurs utilisateurs à un compte client, ajouter des utilisateurs du client, chargement groupé des utilisateurs du client, compte client, utilisateurs du client, utilisateurs
 ms.localizationpriority: medium
-ms.openlocfilehash: 2195d23074a3e7c397b5f557fd3bed9ec0cc518e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721987"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390368"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Ajouter plusieurs utilisateurs à un compte client
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 
 **Rôles appropriés**
 
@@ -29,7 +29,7 @@ ms.locfileid: "74721987"
 
 Vous pouvez ajouter simultanément plusieurs utilisateurs au compte d’un client, en chargeant un fichier de données au format de fichier de valeurs séparées par des virgules (. csv) dans l’espace partenaires. Vous pouvez télécharger un exemple de fichier de données à partir de l’espace partenaires, puis le modifier pour votre utilisation, ou vous pouvez créer un nouveau fichier de données à l’aide du modèle de données défini ci-dessous.
 
-## <a href="" id="creatingtheimportcsvfile"></a>Exigences relatives aux fichiers de données
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Exigences relatives aux fichiers de données
 
 Pour ajouter plusieurs utilisateurs au compte d’un client à l’aide du processus de téléchargement en bloc, vous devez respecter les conditions suivantes :
 
@@ -48,15 +48,15 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 | Nom       | Nom de l’utilisateur (champ facultatif)                                            | 50&nbsp;caractères maximum                         |
 | Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
 | E-mail           | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse de messagerie unique. |
-| Mise à jour de l’état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé. | \*\*laissez un\*vide \*                        |
+| Mise à jour de l’état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*laissez un\*vide \*                        |
 
-### <a href="" id="createmultipleuseraccounts"></a>Pour créer plusieurs comptes d’utilisateur
+### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Pour créer plusieurs comptes d’utilisateur
 
 <a href="" id="creatingtheaccounts"></a>
 
-1. Créez un fichier de données&nbsp;CSV avec les données décrites ci-dessus. Enregistrez le fichier pour pouvoir le retrouver ultérieurement.
+1. Créez un fichier de données CSV avec les données décrites ci-dessus. Enregistrez le fichier pour pouvoir le retrouver ultérieurement.
 
-2. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+2. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 3. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 

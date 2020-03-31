@@ -5,21 +5,21 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les étapes pour les partenaires directs (revendeurs directs, fournisseurs indirects) pour valider les partenaires et les clients d’Office 365 Government GCC pour CSP.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721939"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389728"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Critères d’éligibilité du client et du partenaire pour Office 365 Secteur Public GCC pour fournisseur de solutions Cloud
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 -  Partenaires fournisseurs de solutions Cloud
 
 **Rôles appropriés**
@@ -48,7 +48,7 @@ L'éligibilité des partenaires et des clients pour Office 365 Secteur Public G
 2.  Fournit les organisations gouvernementales des États-Unis via la GSA ou d'autres modes de gestion de contrat
 
 **Critères du client**
-1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Exemple :
+1.  Entité gouvernementale américaine dans le cadre de ses activités gouvernementales. Par exemple :
  
     -  Agence fédérale (par exemple, bureau, agence, service ou autres entités du gouvernement américain)
     -   Entité nationale/locale 

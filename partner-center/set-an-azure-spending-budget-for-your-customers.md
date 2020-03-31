@@ -6,21 +6,21 @@ description: Découvrez comment définir ou supprimer des budgets de dépenses A
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 81f2bfa0b8e9864e0fc1a90ff5a5a11111c2a433
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943202"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390648"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Définir un budget Azure pour vos clients
 
 S'applique à :
 
-- Espace partenaires
+- Centre pour partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 Vous pouvez [définir un budget de dépenses Azure mensuel pour vos clients](#set-azure-spending-budget) dans l’espace partenaires. Cela permet à vos clients de gérer leurs dépenses Azure. Cette option vous permet de comparer les dépenses Azure de vos clients au budget du mois. Cela permet également à vos clients de budgétiser leurs dépenses Azure, de sorte que leur facture mensuelle n’est pas supérieure à celle qu’ils anticipent.

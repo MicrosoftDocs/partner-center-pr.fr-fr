@@ -6,22 +6,22 @@ description: En savoir plus sur les responsabilités fiscales pour votre région
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: MaggiePucciEvans
+author: jasonwhowell
 keywords: taxe, exonération fiscale, TVA, revendeur, facturation
-ms.author: evansma
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943192"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390628"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
 S'applique à :
 
-- Espace partenaires
+- Centre pour partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 Le programme fournisseur de solutions Cloud (CSP) est un canal de vente axé sur la revente des produits partenaires. Par conséquent, Microsoft n’est pas toujours obligé de facturer les taxes sur les factures des partenaires. Les règles varient en fonction du pays et/ou de la région. Vous pouvez consulter [les détails spécifiques au pays et à la région pour les exemptions de taxe](#country-and-region-tax-details).
@@ -95,7 +95,7 @@ Ensuite, créez un ticket de support pour Microsoft avec vos informations d’ex
 
 6. Choisissez Envoyer pour envoyer dans votre **demande de support** . Microsoft vous enverra un courrier électronique pour plus d’informations.
 
-## <a name="support"></a>Assistance
+## <a name="support"></a>Support
 
 Pour obtenir d’autres questions sur les exemptions et les remboursements de taxes, demandez de l’aide dans l’espace partenaires. Laissez deux&nbsp;semaines s’écouler pour que Microsoft vous contacte et résolve le problème.
 

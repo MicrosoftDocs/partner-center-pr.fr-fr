@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment afficher et exporter les journaux d’activité pour obtenir des informations sur les transactions de compte client et d’autres activités de gestion des partenaires liées aux clients.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: journaux d’activité, abonnement, abonnements, paiements, facturation, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721790"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390378"
 ---
 # <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 - Partenaires du programme Fournisseur de solutions Cloud
 
@@ -40,7 +40,7 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
 
 **Voir et exporter les journaux d’activité**
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 2. Dans le menu **Paramètres du compte**, sélectionnez **Journal d’activité**.
 2.  Sélectionnez la période du journal d’activité avec les champs **De** et **À**. Par défaut, le journal d’activité exporte le mois le plus récent.
@@ -55,7 +55,7 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
     -   **Action** : action entreprise par le client, par exemple « création d’une référence »
     -   **Utilisateur partenaire** : partenaire associé à l’activité.
 
-4.  Sélectionnez **Exporter le journal** pour copier les données d’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
+4.  Sélectionnez **Exporter le journal** pour copier les données de l’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
     
  
 

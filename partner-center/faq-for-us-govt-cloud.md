@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consultez les réponses aux questions fréquemment posées (FAQ) sur le programme du fournisseur de solutions Cloud (CSP) pour Microsoft Cloud pour le gouvernement des États-Unis.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: cfcccf65557e4e7d1096a6f69cb80ff00b0c3a23
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672669"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389678"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Forum aux questions concernant l'Espace partenaires de Microsoft Cloud for US Government
 
@@ -139,7 +139,7 @@ Les exigences liées aux API et à l’intégration pour le programme Fournisseu
 
 -   Créer des comptes d’utilisateur pour un client
 
--   Supprimer des comptes d’utilisateur d’un client
+-   Supprimer les comptes d’utilisateur d’un client
 
 -   Mettre à jour des comptes d’utilisateur d’un client
 
@@ -173,7 +173,7 @@ Utilisez les liens suivants pour vous familiariser avec le programme Fournisseur
 
 -   [Pour en savoir plus sur Azure Government](https://azure.microsoft.com/overview/clouds/government/)
 
--   [Pour en savoir plus sur le programme Fournisseur de solutions Cloud](https://partner.microsoft.com/cloud-solution-provider)
+-   [Pour en savoir plus sur CSP](https://partner.microsoft.com/cloud-solution-provider)
 
 -   [Pour en savoir plus sur le développement avec l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)
 

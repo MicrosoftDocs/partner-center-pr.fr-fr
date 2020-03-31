@@ -6,22 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment travailler avec un client pour changer le partenaire du programme du fournisseur de solutions Cloud que le client utilisera pour les services Azure.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: abonnement Azure, changer de partenaire, trouver un nouveau partenaire, autre partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 3a709ad7eac9b2a4db7063a47713c27dc41d7833
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943392"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390618"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transférer des abonnements Azure 
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires pour Microsoft Global Cloud
 
 Un client peut décider de faire appel à un partenaire fournisseur de solutions Cloud ou à un autre partenaire pour utiliser les services Microsoft Azure. Toutefois, ce processus manuel nécessite des actions de la part du partenaire et du client.
 
@@ -39,24 +40,24 @@ Un client peut décider de faire appel à un partenaire fournisseur de solutions
 
 2. Le partenaire de l'abonnement doit effectuer les tâches suivantes :
 
-Créez un ticket de service Azure dans l'Espace partenaires pour demander un transfert d'abonnement&nbsp;:
+Créez un ticket de service Azure dans l’Espace partenaires pour demander un transfert d’abonnement&nbsp;:
 -   Dans le menu espace partenaires, sélectionnez **clients**, sélectionnez votre client dans la liste, puis sélectionnez **gestion des services**. Dans la section **Tickets de support**, cliquez sur le menu déroulant **Nouveau ticket** et choisissez **Microsoft Azure**.
 
 -   Dans le portail Azure, sélectionnez **Nouvelle demande de support**.
 
-À l'étape&nbsp;1, choisissez le type de problème **Gestion des abonnements**, indiquez l'ID d'abonnement que vous voulez transférer, puis choisissez **Fournisseur de solutions&nbsp;Cloud** comme formule d'assistance.
+À l’étape&nbsp;1, choisissez le type de problème **Gestion des abonnements**, indiquez l’ID d’abonnement que vous voulez transférer, puis choisissez **Fournisseur de solutions&nbsp;Cloud** comme formule d’assistance.
 
 À l’étape 2, sélectionnez **C-impact minimal** , puis choisissez **autres questions générales** comme type de problème.
 
-Télécharger le [formulaire de transfert d'abonnement Fournisseur de solutions Cloud](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip).
+Téléchargez le [formulaire de transfert d’abonnement Fournisseur de solutions&nbsp;Cloud](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip).
 
 3. Partenaire Fournisseur de solutions Cloud de l'abonnement : remplissez le [formulaire de transfert d'abonnement Fournisseur de solutions Cloud](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip), signez-le, puis envoyez-le au client. Pour remplir le formulaire, vous aurez besoin des informations suivantes&nbsp;:
 
 - Les coordonnées du partenaire actuel et son ID Microsoft. Dans le menu de l’espace partenaires, sélectionnez **paramètres du compte** &gt; **profil d’organisation**et utilisez l' **ID Microsoft**, le nom de l' **organisation**et l' **adresse** indiquée ici.
 
-- L'ID&nbsp;Microsoft du client. Dans le menu de l'Espace partenaires, sélectionnez **Clients**, puis développez la page de description du client pour voir son **ID&nbsp;Microsoft**.
+- L’ID&nbsp;Microsoft du client. Dans le menu de l’Espace partenaires, sélectionnez **Clients**, puis développez la page de description du client pour voir son **ID&nbsp;Microsoft**.
 
-- L'ID d'abonnement à transférer. Dans la page de description développée du client, sélectionnez **Afficher les abonnements**, puis développez l'abonnement choisi pour voir son **ID d'abonnement**.
+- L’ID d’abonnement à transférer. Dans la page de description développée du client, sélectionnez **Afficher les abonnements**, puis développez l’abonnement choisi pour voir son **ID d’abonnement**.
 
 >[!Note]
 >Le transfert d’un abonnement entraîne la création de deux ID d'abonnement, visibles sur la page **Modifier un abonnement** de l’abonnement transféré : **1**- L’ID d’abonnement associé à l'Espace partenaires est utilisé pour la facturation. 
@@ -64,34 +65,34 @@ Télécharger le [formulaire de transfert d'abonnement Fournisseur de solutions�
 
 4. Le client et le nouveau partenaire de l'abonnement :
 
-Vérifient le formulaire, renseignent les informations sur le nouveau partenaire, puis le signent. Vérifiez que le nouveau client dispose d'un accord de contrat. Renvoyez le formulaire au partenaire de référence actuel.
+Vérifiez le formulaire, renseignez les informations sur le nouveau partenaire, puis signez-le. Vérifiez que le nouveau client dispose d’un accord de contrat. Renvoyez le formulaire au partenaire de référence actuel.
 
-*Important*&nbsp;: si le nouveau partenaire Fournisseur de solutions&nbsp;Cloud n'a pas de relation de revendeur avec le client, il doit en établir une avant le transfert de l'abonnement. [Pour plus d'informations sur la marche à suivre, cliquez ici](request-a-relationship-with-a-customer.md).
+*Important*&nbsp;: si le nouveau partenaire Fournisseur de solutions&nbsp;Cloud n’a pas de relation de revendeur avec le client, il doit en établir une avant le transfert de l’abonnement. [Pour plus d’informations sur la marche à suivre, cliquez ici](request-a-relationship-with-a-customer.md).
 
 >[!Note]
 >Le nouveau partenaire CSP et le locataire client doivent se trouver dans le même pays. 
 
 5. Partenaire actuel :
 
-Vérifiez que le formulaire indique les coordonnées des deux administrateurs du partenaire. Le support Microsoft les contactera tous les deux pour confirmer le transfert. Assurez-vous que les trois signatures sont présentes et joignez le formulaire rempli à votre demande de service existante à l'aide de l'option **Chargement de fichier**. Un ingénieur du support Microsoft vous contactera sous 8 heures ouvrées pour valider la réception et l'achèvement.
+Vérifiez que le formulaire indique les coordonnées des deux&nbsp;administrateurs du partenaire. Le support Microsoft les contactera tous les deux pour confirmer le transfert. Assurez-vous que les trois signatures sont présentes et joignez le formulaire rempli à votre demande de service existante à l’aide de l’option **Chargement de fichier**. Un ingénieur du support Microsoft vous contactera sous 8&nbsp;heures ouvrées pour valider la réception et l’achèvement.
 
 6. Nouveau partenaire :
 
-Modifiez les paramètres d'abonnement Azure en supprimant l'ancien partenaire du compte. Pour afficher les attributions de rôle approvisionnées, exécutez deux applets de commande Powershell.
+Modifiez les paramètres d’abonnement Azure en supprimant l’ancien partenaire du compte. Pour afficher les attributions de rôle approvisionnées, exécutez deux applets de commande Powershell.
 
--   Ajoutez le nouveau partenaire comme revendeur sur le compte&nbsp;:
+-   Ajoutez le nouveau partenaire comme revendeur sur le compte :
 
 **PS C :\\&gt; Add-AzureRMAccount-locataire "CustomerDomainName"**
 
-Pour trouver le customerDomainName&nbsp;: dans le menu de l'Espace partenaires, sélectionnez **Clients**. Dans la liste des clients, sélectionnez le client. Dans le menu client, sélectionnez **Compte** et utilisez le **Nom de domaine**.
+Pour trouver le customerDomainName : dans le menu de l’Espace partenaires, sélectionnez **Clients**. Dans la liste des clients, sélectionnez le client. Dans le menu client, sélectionnez **Compte** et utilisez le **Nom de domaine**.
 
--   Affichez les rôles du compte, y compris les anciens partenaires Fournisseur de solutions&nbsp;Cloud&nbsp;:
+-   Affichez les rôles du compte, y compris les anciens partenaires Fournisseur de solutions Cloud :
 
 **PS C :\\&gt; de la AzureRMRoleAssignment**
 
 7. Supprimer des autorisations d'accès obsolètes
 
--  Dans le menu de l'Espace partenaires, sélectionnez **Clients**. 
+-  Dans le menu de l’Espace partenaires, sélectionnez **Clients**. 
 -  Développez la page de description et sélectionnez **Afficher les abonnements**. 
 -  Dans le menu client, sélectionnez **Gestion des services**. 
 -  Sous **Microsoft&nbsp;Azure**, cliquez sur le lien pour accéder au **portail de gestion Microsoft&nbsp;Azure**.
