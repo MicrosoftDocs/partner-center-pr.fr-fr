@@ -5,15 +5,15 @@ ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En tant que fournisseur indirect, ou distributeur, Découvrez comment développer en partenariat avec des revendeurs indirects. Cela comprend les tâches que vous pouvez effectuer dans l’espace partenaires.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5e3f4455d4572926c680978b87858485c991681b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 969ac33c7e5d5fda0a97eb93a696eda32d2f100c
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112478"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390928"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 

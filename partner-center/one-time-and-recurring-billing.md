@@ -3,21 +3,21 @@ title: Facturation pour une seule fois et sélection de frais récurrents | Espa
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informations sur la facturation unique à l’avance pour une période prédéfinie (abonnements mensuels et annuels) et facturation pour les frais récurrents de sélection (pour les produits ISV Microsoft et tiers applicables) dans l’espace partenaires.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturation, ponctuelle, périodique, achats, frais, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005038"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390778"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturation ponctuelle et frais récurrents
 
 **S’applique à**
-- Espace partenaires
+- Centre pour partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
@@ -59,6 +59,6 @@ La **devise de facturation** correspond à la devise du pays ou de la région o�
 
 L' **activité de facturation** actuelle est *disponible* pour ces types de frais. Vous pouvez vérifier le solde et la facturation de votre compte à tout moment dans l’espace partenaires. Notez que le montant final de votre facture peut être différent de ce que vous pouvez voir sur votre compte pendant la période de facturation. Cela est dû au fait que votre facture inclut les taxes et tous les autres frais et crédits applicables.
 
-## <a name="common-billing-scenarios"></a>Scénarios de facturation courants
+## <a name="common-billing-scenarios"></a>Exemples de facturation courants
 
 Pour obtenir des explications détaillées sur les scénarios de facturation courants pour ces types de frais, consultez [scénarios de facturation courants pour les achats ponctuels et périodiques](common-billing-scenarios-onetime-recurring.md).

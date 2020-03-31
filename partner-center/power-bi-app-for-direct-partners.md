@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Présentation générale et Forum aux questions sur l’application Partner Center Analytics pour Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: fca6cf8688506179fe3db9ab414a034c7741fbe0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004958"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390748"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Application Analyse de l'Espace partenaires pour Power BI (partenaires directs du programme Fournisseur de services Cloud)
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 
 **Rôles appropriés**
 -   Administrateur global
@@ -46,7 +46,7 @@ L'installation de l’application permet d'obtenir les affichages graphiques sui
 
 -   Possibilité d’exporter des jeux de données et de créer des rapports personnalisés, notamment par client
 
-## <a name="frequently-asked-questions"></a>Forum Aux Questions
+## <a name="frequently-asked-questions"></a>Forum aux questions
 
 Nous vous recommandons de consulter nos réponses aux questions fréquemment posées avant d’installer l’application. 
 
@@ -63,7 +63,7 @@ Nous vous recommandons de consulter nos réponses aux questions fréquemment pos
 
 
 
-## <a name="next-steps"></a>Étapes suivantes
+## <a name="next-steps"></a>Étapes suivantes :
 
 [Installer et prévisualiser l’application Analyse de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 

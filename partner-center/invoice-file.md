@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/26/2019
 description: Comprendre les champs de votre fichier de facture pour la facturation de l’espace partenaires.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturation, facture
 ms.localizationpriority: medium
-ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 1307a9a2f95cedde5eda7deefb61cb202597f804
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004562"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390908"
 ---
 # <a name="invoice-files"></a>Fichiers de facture
 
@@ -39,7 +39,7 @@ Les champs suivants s’affichent sur vos fichiers de facture.
 | Remises | Remise que le client reçoit du tarif normal de l’abonnement. Ce nombre est indiqué sous la forme d’un *montant fixe*, et non d’un prix unitaire ou d’une licence. |
 | Crédits | Crédits ou ajustements pour les modifications apportées aux abonnements (par exemple, augmentation ou diminution du siège). |
 | Sous-total | Total avant les taxes et frais et crédits hors taxes. |
-| Taxe | Taxe totale de vos frais actuels, telle qu’elle est totalisée dans la section de **Détails** à partir de la page 2 de votre facture. Ce nombre correspond à la somme de tous les frais dans la colonne **TaxAmount** (colonne **AA**) de votre fichier de réconciliation basé sur l’utilisation, et de la colonne **Tax** (colonne **U**) dans votre fichier de réconciliation basé sur les licences. |
+| Tax | Taxe totale de vos frais actuels, telle qu’elle est totalisée dans la section de **Détails** à partir de la page 2 de votre facture. Ce nombre correspond à la somme de tous les frais dans la colonne **TaxAmount** (colonne **AA**) de votre fichier de réconciliation basé sur l’utilisation, et de la colonne **Tax** (colonne **U**) dans votre fichier de réconciliation basé sur les licences. |
 | Autres crédits | Crédits hors taxes. |
 | Total des frais en cours | Montant dû dans votre devise de facturation pour la période de facturation. Ces frais sont dus à la date d’échéance du paiement. |
 | Instructions pour le paiement | Description de la façon de payer votre facture, en fonction de votre région. *Veillez à toujours inclure votre numéro de facture lors de l’exécution d’un paiement.* |
@@ -49,7 +49,7 @@ Les champs suivants s’affichent sur vos fichiers de facture.
 | Modalités de paiement | Conditions de paiement. Pour les achats ponctuels, le délai sera toujours de 60 jours. |
 | Date d’échéance du paiement | Date à laquelle votre paiement doit être reçu. |
 | Numéro du bon de commande du client | Votre ordre de numéro d’achat. |
-| Service client | L’adresse du site Web où vous pouvez accéder au service client. |
+| Service du client | L’adresse du site Web où vous pouvez accéder au service client. |
 | Bénéficiaire du service | Adresse à laquelle le service est utilisé. (Il s’agit de l’adresse de la société légale associée à l’aide à la société.) |
 
 ## <a name="one-time-charges-fields"></a>Champs de frais à usage unique
@@ -64,5 +64,5 @@ Les champs suivants s’appliquent uniquement aux **frais à usage unique** dans
 | Prix unitaire | Prix par produit (par exemple, une réservation). |
 | Remises | Toutes les remises applicables. |
 | Montant hors taxe | Sous-total des achats avant impôts. |
-| Taxe de vente | Montant des taxes. |
+| Taxe de vente | Montant des taxes |
 | Total | Montant total à payer. |

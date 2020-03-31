@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: L'édition Microsoft Office 365 Entreprise E4 n’est plus disponible depuis le 7 avril 2017. Découvrez comment migrer vos abonnements client vers des versions plus récentes d’Office 365.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004561"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390878"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office 365 E4 vers les nouvelles versions d’Office 365
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 
 **Rôles appropriés**
 -   Administrateur global
@@ -53,18 +53,18 @@ Vous pouvez choisir de conserver les mêmes fonctionnalités qu'avec E4 ou de fa
 - Option 4 : Office 365 Entreprise E3
 
 
-| Fonctionnalité | Option 1 | Option 2 | Option 3 | Option 4 |
+| Composant | Option 1 | Option 2 | Option 3 | Option 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Obtenir toutes les fonctionnalités incluses dans Office 365 Entreprise E4 ? | Oui | Oui | Oui | non |
-| Numéros de téléphone gérés dans Office 365 ? | Oui | Oui | non | non |
-| Numéros de téléphone gérés à la fois localement et dans Office 365 (déploiement hybride) ? | Oui | Oui | non | non |
-| Option pour ajouter un plan d’appel vocal et RTC ? | Oui | Oui | non | non |
-| Conférence RTC ? | Oui | non | non | non |
-| Outils avancés de collaboration, d'analyse et de sécurité ? | Oui | non | non | non |
-| Rapports interactifs, tableaux de bord et visualisations de données ? | Oui | non | non | non | 
-| Plus de contrôle sur la sécurité des données et la conformité avec une confidentialité, une transparence et des contrôles utilisateur pointus intégrés ? | Oui | non | non | non | 
+| Obtenir toutes les fonctionnalités incluses dans Office 365 Entreprise E4 ? | Oui | Oui | Oui | Non |
+| Numéros de téléphone gérés dans Office 365 ? | Oui | Oui | Non | Non |
+| Numéros de téléphone gérés à la fois localement et dans Office 365 (déploiement hybride) ? | Oui | Oui | Non | Non |
+| Option pour ajouter un plan d’appel vocal et RTC ? | Oui | Oui | Non | Non |
+| Conférence RTC ? | Oui | Non | Non | Non |
+| Outils avancés de collaboration, d'analyse et de sécurité ? | Oui | Non | Non | Non |
+| Rapports interactifs, tableaux de bord et visualisations de données ? | Oui | Non | Non | Non | 
+| Plus de contrôle sur la sécurité des données et la conformité avec une confidentialité, une transparence et des contrôles utilisateur pointus intégrés ? | Oui | Non | Non | Non | 
 
-## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers des nouvelles formules de produit
+## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers les nouvelles formules de produit
 
 Microsoft offre en permanence de nouveaux produits et services à nos partenaires. Dans ces cas, vous pouvez avoir besoin de mettre à niveau les services de ses clients ou de migrer leurs abonnements à partir de références (SKU) qui vont progressivement disparaître. La migration de clients depuis des références supprimées vers des références plus récentes doit respecter les étapes suivantes :
 

@@ -6,22 +6,22 @@ description: Votre facture est un résumé de toutes les facturations de l’esp
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture ?
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004828"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390708"
 ---
 # <a name="read-your-bill"></a>Lire votre facture
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**

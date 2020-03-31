@@ -6,23 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez quand et où les clients peuvent effectuer un support autonome pour gérer leurs propres comptes et lorsqu’ils doivent contacter leur partenaire de fournisseur de solutions Cloud.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: support autonome du client, support autonome
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1aad1f95fcc8e0c2cfd764a58e48f5474ac24ae2
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 91ef76a74b59627a943043156679b927e2279649
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252688"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391038"
 ---
 # <a name="customer-self-support"></a>Support autonome du client
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
 

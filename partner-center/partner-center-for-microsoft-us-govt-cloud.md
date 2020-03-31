@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: L'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis est le portail d’entreprise des partenaires Microsoft qui souhaitent proposer des solutions Microsoft Cloud aux clients travaillant avec des agences gouvernementales des États-Unis.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 66a39eee19a367a796ca90e204a44be9e6a7d9c3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004248"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390758"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Espace partenaires de Microsoft Cloud for US Government
 
@@ -45,8 +45,8 @@ Une fois que vous serez inscrit au programme de fournisseur de solutions Cloud (
 > [!NOTE]  
 > Lors de la publication de cet article, les fonctionnalités suivantes n’étaient pas encore disponibles dans l'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis (depuis la publication, certaines peuvent avoir été ajoutées et cette liste peut ne plus être à jour) :
 
-- Rechercher un partenaire
-- Profils commerciaux
+- Trouvez un partenaire
+- Profils d'entreprise
 - Références
 - Demander une relation de revendeur avec un client (multicanal, multipartenaire)
 - Analyse des licences

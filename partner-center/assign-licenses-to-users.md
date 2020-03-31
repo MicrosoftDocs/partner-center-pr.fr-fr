@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apprenez à créer des comptes d’utilisateur pour un client, à ajouter ou supprimer des licences utilisateur, à réinitialiser les mots de passe utilisateur, à supprimer des comptes d’utilisateur ou à les restaurer.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: gestion des clients, compte, créer un compte, licences, attribuer une licence, gestion des utilisateurs, mot de passe, réinitialiser le mot de passe, modifier le mot de passe
 ms.localizationpriority: medium
-ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721355"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391008"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tâche de gestion des utilisateurs pour des comptes client
 
 **S’applique à**
 
-- Espace partenaires
+- Centre pour partenaires
 
 **Rôles appropriés**
 
@@ -41,7 +41,7 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 
 ## <a name="create-user-accounts-for-a-customer"></a>Créer des comptes d’utilisateur pour un client
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
@@ -61,7 +61,7 @@ Vous pouvez [attribuer des abonnements à plusieurs utilisateurs](bulk-license-p
 
 Les étapes suivantes s’appliquent à l’ajout ou à la suppression de licences utilisateur pour les produits Microsoft. Pour ajouter ou supprimer des licences utilisateur pour les abonnements SaaS basés sur une licence dans le Marketplace commercial, consultez [Ajouter ou supprimer des licences pour un abonnement Saas](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
@@ -78,7 +78,7 @@ Les étapes suivantes s’appliquent à l’ajout ou à la suppression de licenc
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Réinitialiser le mot de passe d’un utilisateur pour un client
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
@@ -90,7 +90,7 @@ Les étapes suivantes s’appliquent à l’ajout ou à la suppression de licenc
 
 <a href="" id="deleteuseraccounts"></a>
 
-## <a name="delete-user-accounts-for-a-customer"></a>Supprimer des comptes d’utilisateur d’un client
+## <a name="delete-user-accounts-for-a-customer"></a>Supprimer les comptes d’utilisateur d’un client
 
 1.  Dans le menu **espace partenaires** , sélectionnez **clients**. Dans la liste, choisissez le client.
 
