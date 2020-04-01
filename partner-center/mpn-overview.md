@@ -5,22 +5,22 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez les avantages du partenariat avec Microsoft, notamment Microsoft Action Pack, les compétences et les options de programme permettant de faire la différence, de commercialiser vos solutions et de les vendre.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: partenaire, partenariat, MPN, Microsoft Partner Network, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion, silver, gold, compétences
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004198"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390858"
 ---
 # <a name="partner-with-microsoft"></a>Devenez partenaire de Microsoft
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur partenaire MPN
 -   Administrateur des utilisateurs
 -   Agent d’administration
@@ -82,5 +82,5 @@ Passez en revue les ressources ci-dessous pour en savoir plus sur les avantages 
 - [Gérer vos avantages MPN dans l’Espace partenaires](manage-your-partner-network-benefits.md)
 - [Conditions requises](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 - [Développer votre activité de partenaire Microsoft](grow-your-business.md)

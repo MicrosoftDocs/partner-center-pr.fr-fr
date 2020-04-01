@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment mettre à niveau ou modifier l’abonnement d’un client, par exemple en ajoutant des licences ou des sièges ou en passant à une version différente avec d’autres services.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d’abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: high
-ms.openlocfilehash: c1f2e523c325356959e9b89d2d7082ee9a6cb95c
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 9f6f9ca4c1c8ca6b530e1e42e925da27ca088a46
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340067"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391018"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
 

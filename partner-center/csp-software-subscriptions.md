@@ -5,17 +5,17 @@ ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’Espace partenaires pour acheter, gérer, vendre et annuler des instances réservées Azure et des abonnements Server pour les clients.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: fournisseur de solutions Cloud, CSP, services basés cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels, annuler des logiciels
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 1a68ec75b77f927ce162b7f5f19e3a96ca0e6f43
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 7cce25d5f16f5bd0f55169cdc9d516a69717d31a
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78339997"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389988"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud)
 

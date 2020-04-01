@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les revendeurs indirects dans le programme Fournisseur de solutions Cloud peuvent coopérer avec des fournisseurs indirects Microsoft (ou distributeurs) susceptibles d’apporter leur aide dans le support technique et la facturation.
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau 2, de niveau 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004798"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390918"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Agent d’administration
--   Commercial
+-   Agent commercial
 
 La demande en croissance rapide de services et solutions cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne souhaitent pas avoir à gérer plusieurs fournisseurs ou qui n’ont pas mis en place d’infrastructure de gestion des relations client de bout en bout peuvent s’inscrire au programme Fournisseur de solutions Cloud (CSP) de Microsoft en tant que revendeurs indirects.
 
@@ -63,7 +63,7 @@ Nous avons besoin de ces informations pour vérifier que votre entreprise dispos
  
 Notez qu’il peut nous falloir plusieurs jours pour passer en revue et vérifier les informations que vous avez fournies. Nous enverrons un e-mail à votre contact principal quand nous en aurons terminé.
 
-### <a name="get-started"></a>Prise en main
+### <a name="get-started"></a>Prendre en main
 
 1.  Lancez le processus d’inscription [ici](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
@@ -203,6 +203,6 @@ Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien, ca
 
 [Gérer les clients et leurs abonnements](customer-accounts.md)
 
-[Créer un profil commercial](create-a-marketing-profile.md)
+[Créer un profil professionnel](create-a-marketing-profile.md)
 
 [Découvrir les primes incitatives des partenaires sur l’Espace partenaires](understand-incentive-payouts.md)
