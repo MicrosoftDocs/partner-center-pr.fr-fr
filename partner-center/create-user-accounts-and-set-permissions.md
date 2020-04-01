@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment créer des comptes d’utilisateur et attribuer des rôles dans l’Espace partenaires pour chaque employé qui a besoin d’un accès. Les utilisateurs disposant de privilèges d’administrateur différents peuvent le faire.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: rôles, autorisations, ajouter un utilisateur, attribuer un rôle, administrateur, admin, agent
 ms.localizationpriority: high
-ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240206"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389648"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 
@@ -43,15 +43,24 @@ Créez des comptes d’utilisateur pour les employés qui doivent accéder à l�
 > [!IMPORTANT]  
 > Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. 
 
+
 L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l’Espace partenaires pour la première fois, il est invité à modifier son mot de passe. 
 
-> [!NOTE]  
->  Si votre administrateur général a quitté votre organisation ou a été affecté à un autre rôle, et que vous devez ajouter un nouvel administrateur général, vous devez consigner une demande de service sur le [portail MPN](https://partner.microsoft.com/support). L’agent du support peut demander l’élévation d’un utilisateur au rôle d’administrateur général si votre demandeur est en mesure de fournir les informations d’identité personnelle nécessaires ainsi que des informations supplémentaires sur votre organisation.
 
 ### <a name="find-your-global-admin"></a>Rechercher votre administrateur général
 
 Parfois, un utilisateur peut être amené à changer de rôle ou un nouvel utilisateur peut souhaiter se voir attribuer un rôle spécifique.  
 Pour trouver un administrateur général capable de changer des rôles ou d’attribuer des rôles à un nouvel utilisateur, à partir de l’icône **Paramètres** en haut à droite de l’Espace partenaires, sélectionnez **Gestion des utilisateurs** et filtrez sur Administrateur général. 
+
+
+### <a name="new-global-admin"></a>Nouvel administrateur général
+
+Si votre administrateur général quitte l’organisation et qu’une autre personne doit endosser ce rôle, vous pouvez envoyer un ticket à l’équipe Azure ou Office 365. Pour plus d’informations sur la façon de procéder, sélectionnez l’une des options ci-dessous.
+
+[Nouvel administrateur général pour Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[Nouvel administrateur général pour Office 365](https://admin.microsoft.com/)
+
 
 ## <a name="assign-user-roles"></a>Attribuer des rôles d’utilisateur
 
@@ -94,7 +103,6 @@ Pour que vous puissiez voir les parcours d’apprentissage et de formation suivi
 1. Dans le tableau de bord de l’Espace partenaires, sélectionnez l'icône **Votre compte** située dans le coin supérieur droit, puis **Mon profil**.
 
 2. Sous **Votre formation**, vous pouvez associer votre compte Microsoft Learning et connecter votre compte Microsoft à l’Université des partenaires.
-
 
 
 
