@@ -1,7 +1,7 @@
 ---
 title: Vérifier vos informations de compte | Espace partenaires
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 03/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Suivez l’état de la vérification de votre compte et fournissez des informations supplémentaires si nécessaire.
@@ -9,19 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: vérification, vérification, rejeté, mise à jour du profil de partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 018f116cb28e95e96416318c6741f4eeba03f7be
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 9f0ef7317c16b2b0723b34ae24fcef6ff4fef418
+ms.sourcegitcommit: 75d1d4ba4b6b63b7d3761e5ca8fd03060695f7ab
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296376"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "80479035"
 ---
 # <a name="verify-your-account-information"></a>Vérifier les informations de votre compte
 
-Lorsque vous créez votre compte dans l’espace partenaires, Microsoft vérifie les informations de votre compte, telles que votre adresse professionnelle et les coordonnées principales. Au cours de ce processus, Microsoft peut envoyer un message électronique à votre contact principal pour l’informer de l’État et demander une documentation supplémentaire sur la vérification. 
+Lorsque vous vous inscrivez à un nouveau programme dans l’espace partenaires, Microsoft vérifie les informations d’inscription de compte que vous avez fournies, telles que le nom de votre société, l’adresse de l’entreprise et les détails du contact principal. Au cours de ce processus, Microsoft peut envoyer un e-mail à votre contact principal pour l’informer de l’État et demander une documentation supplémentaire sur la vérification. 
 
->[!Note]
->Pour vous assurer que le courrier électronique est reçu, veillez à marquer le courrier électronique à partir de Microsoft.com en tant que domaine « sécurisé », puis vérifiez les dossiers de courrier indésirable.
+>[!NOTE]
+>Pour vous assurer que vous recevez l’e-mail, veillez à marquer la messagerie électronique à partir de Microsoft.com en tant que domaine « sécurisé » et à vérifier les dossiers de courrier indésirable.
 
 Si vous êtes le contact principal (administrateur général ou administrateur de compte), nous vous recommandons d’accéder à votre profil de partenaire pour surveiller l’état de la vérification et suivre la progression.
 
@@ -38,7 +38,8 @@ Pour le programme CSP, cliquez [ici](https://partner.microsoft.com/pcv/accountse
 |Effectif |La vérification de l’emploi confirme que le contact principal est un employé de l’entreprise qui s’inscrit en raison de l’existence d’une adresse de messagerie active sur un domaine de messagerie appartenant à l’entreprise.|Si la vérification de l’emploi est rejetée, le contact principal (en général, votre administrateur global ou de compte) doit fournir une documentation confirmant que le domaine de messagerie du contact est sous la propriété de son employeur. [Créez un ticket de support](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0).|
 |Professionnel   |La vérification de l’entreprise confirme que la société inscrite est une entité commerciale légitime et à l’adresse utilisée pour l’inscription.|En cas d’échec de la vérification de l’entreprise, le contact principal (en général, votre administrateur de compte ou global) sera invité à fournir une documentation officielle, telle qu’un certificat d’inscription ou un certificat d’enregistrement fiscal, à partir du pays de résidence de l’entreprise ou commune confirmant que l’entreprise est autorisée à faire des affaires sous ce nom d’entité et qu’elle se trouve à l’adresse d’inscription. [Créer un ticket de support](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)|
 
->Observe Découvrez comment mettre à jour votre [profil d’entreprise juridique (adresse)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
+>[!NOTE]
+>Découvrez comment mettre à jour votre [profil d’entreprise juridique (adresse)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
 
 ## <a name="when-verification-concludes"></a>À la fin de la vérification
 
