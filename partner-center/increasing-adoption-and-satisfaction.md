@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser les métriques dans l’espace partenaires pour déterminer si votre entreprise est en constante évolution, comment les clients utilisent leurs licences et où concentrer leurs investissements.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004778"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390938"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Augmenter l’adoption et la satisfaction client
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 
 **Rôles appropriés**
 -   Administrateur global
@@ -28,7 +28,7 @@ ms.locfileid: "75004778"
 -   Agent d’administration
 -   Commercial
 
-Nos partenaires utilisent de nombreux indicateurs pour déterminer si leur entreprise se développe et cibler leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
+Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
 
 Vous pouvez afficher les données de l’ensemble de vos clients via le programme Fournisseur de solutions Cloud. Notez que certains clients peuvent acheter des licences auprès d’autres partenaires ou directement auprès de Microsoft. Dans ce cas, vous voyez le nombre total de licences chez tous les partenaires. Pour afficher uniquement vos propres licences, accédez aux abonnements du client.
 
@@ -67,7 +67,7 @@ Terminologie&nbsp;:
 
     -   Si certains clients utilisent Yammer nettement plus que ce à quoi ils sont autorisés par leur licence, cela peut fausser considérablement les données.
 
-## <a name="next-steps"></a>Étapes suivantes
+## <a name="next-steps"></a>Étapes suivantes :
 
 
 Si vous avez un grand nombre d’aide et de questions relatives aux procédures, que les numéros d’adoption de votre compte sont faibles ou que vous recherchez des opportunités de vente incitative, vous pouvez envisager de proposer des cours de formation. En apprenant à vos clients comment mieux utiliser les logiciels de la solution Cloud qu’ils ont achetés, vous risquez de voir une augmentation de la productivité et de la satisfaction, et une baisse des besoins en matière de support.
