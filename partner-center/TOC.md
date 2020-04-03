@@ -40,7 +40,6 @@
 ## [Passer de partenaire de facturation direct CSP à revendeur indirect CSP](transition-direct-to-indirect.md)
 ## [Contrats, listes de prix et offres CSP](csp-documents-and-learning-resources.md)
 ## [Marchés et monnaies régionaux des fournisseurs de solutions cloud](regional-authorization-overview.md)
-## [Confirmer l’acceptation du Contrat client Microsoft par les clients](confirm-consent.md)
 ## [Confirmer l’acceptation du Contrat client Microsoft par les clients](confirm-customer-agreement.md)
 ### [Quand attester l’acceptation du Contrat client au nom d’un client](attest-acceptance-customer-agreement.md)
 
@@ -65,12 +64,15 @@
 ## [Restaurer un compte Espace partenaires suspendu](suspended-partner-center-account.md)
 ## [Ajouter une application Azure AD](service-principal.md)
 ## [Associer votre compte Microsoft Learn à l'Espace Partenaires](ms-learn-associate.md)
+
 # Gérer votre compte Espace partenaires - utilisateurs
 ## [Créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md)
 ## [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
 ## [S’inscrire en tant que fournisseur de panneau de configuration](enroll-as-cpv.md)
 ## [Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)
 ## [Réinitialiser mon mot de passe](reset-my-pasword.md)
+## [Si vous n’arrivez pas à vous connecter à l’Espace partenaires](unable-to-sign-in.md)
+
 # Gérer votre compte Espace partenaires - entreprise
 ## [Ajouter Azure Partner Shared Services](shared-services.md)
 ## [Tarifs et offres](pricing-and-offers.md)
