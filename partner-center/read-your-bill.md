@@ -1,5 +1,5 @@
 ---
-title: Lire votre facture | Espace partenaires
+title: Comprendre votre facture | Espace partenaires
 ms.topic: article
 ms.date: 11/21/2019
 description: Votre facture est un résumé de toutes les facturations de l’espace partenaires (dans le programme, les produits et les clients) pour la période mensuelle en cours.
@@ -10,14 +10,14 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture ?
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
+ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390708"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "80634799"
 ---
-# <a name="read-your-bill"></a>Lire votre facture
+# <a name="understand-your-bill"></a>Comprendre votre facture
 
 **S’applique à**
 
@@ -25,50 +25,104 @@ ms.locfileid: "80390708"
 - Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Administration de facturation
--   Agent d’administration
--   Administrateur partenaire MPN
 
-Votre **facture** est un **Résumé de toutes les facturations de l’espace partenaires** (dans le programme, tous les produits et tous les clients) pour la **période de facturation en cours**.
+- Administrateur global
+- Administration de facturation
+- Agent d’administration
+
+
+Votre **facture** est un **Résumé de toutes les facturations de l’espace partenaires** (dans le programme, tous les produits et tous les clients). 
 
 ## <a name="invoice-types"></a>Types de facture
 
-Vous recevrez une facture pour tous les frais basés sur une licence (par exemple, Office 365) et les frais basés sur l’utilisation (par exemple, Azure).
+Microsoft émet une facture pour tous les frais liés à une licence (par exemple, Office 365) et les frais basés sur l’utilisation (comme Azure) et une facture distincte pour les frais à usage unique (tels qu’Azure RI, Marketplace, plan Azure, etc.). 
 
-Vous recevrez une facture distincte pour les frais à usage unique (par exemple, les instances de machines virtuelles réservées Azure).
+Par exemple :  
 
-## <a name="invoice-file-fields"></a>Champs du fichier de facture
+**Scénario 1 [monnaie unique]** : le partenaire a acheté des licences pour l’offre 145P et O365,  
 
-Pour obtenir une description détaillée de tous les champs de votre fichier de facture (y compris les champs pour les frais à usage unique), consultez [champs de fichier de facture](invoice-file.md).
+- Le partenaire recevra une facture PDF et 2 fichiers de réconciliation couvrant les frais pour O365 et Azure (145p).  
 
-## <a name="find-your-bill"></a>Rechercher votre facture
+**Scénario 2 [monnaie unique]** : le partenaire a acheté pour Azure RI, Marketplace et/ou Azure plan, ainsi que des achats 145p. 
 
-Vous pouvez trouver votre facture sur la page **facturation** du tableau de bord de l’espace partenaires. Vous pouvez également trouver l’historique de facturation, les tendances de dépense et les fichiers de rapprochement sur cette page.
+- Le partenaire recevra un fichier PDF de facture et un fichier de réconciliation couvrant les frais liés à Azure (145p). 
 
-1. Connectez-vous au tableau de bord dans l’espace partenaires.
-2. Dans le menu de gauche, sélectionnez **facturation**.
-3. Sur la page **facturation** , sélectionnez la facture que vous souhaitez télécharger.
-    - Vous pouvez trouver un lien vers votre dernière facture en haut de la page, sous **solde du compte à la date de la dernière facture**.
-    - Vous trouverez les factures précédentes dans la section **historique de facturation** . Choisissez l’année appropriée, puis sélectionnez la flèche déroulante en regard de la **période de facturation**appropriée. Vous pouvez sélectionner le lien en regard de **factures (. pdf)** pour télécharger la facture de cette période.
+- Le partenaire recevra un autre fichier PDF de facture et un fichier de réconciliation couvrant ses frais pour Azure RI, Marketplace, plan Azure. 
 
-## <a name="understand-billing-periods"></a>Comprendre les périodes de facturation
+**Scénario 3 [multidevise]** : le partenaire a acheté pour Azure RIen DKK et le plan Azure en DKK, ainsi que les achats de 145P en euros. 
 
-Votre facture est disponible dans les **deux (2) jours suivant** la date de facturation sélectionnée en **heure UTC**.
+- Le partenaire recevra un fichier PDF de facture et un fichier de rapprochement couvrant les frais relatifs à Azure RIen DKK. 
 
-Par exemple, si vous avez une date de facturation mensuelle de 12 septembre :
+- Le partenaire recevra un fichier PDF de facture et un fichier de rapprochement couvrant les frais pour le plan Azure en EUR. 
 
-- Le processus de génération de facture **commencera** à 12:00 UTC le 13 septembre.
-- Le processus de génération de facture se **termine** de 12:00 UTC le 14 septembre.
-- Si vous ne voyez pas votre facture de 11:59PM UTC le 15 septembre, vous n’êtes pas dans votre Contrat de niveau de service (SLA) et vous devez effectuer une demande de service.
+- Le partenaire recevra un autre fichier PDF de facture et un fichier de conciliation couvrant ses frais pour l’offre 145p en euros (ou en devise de facturation partenaire). 
 
-### <a name="csp-monthly-billing"></a>Facturation mensuelle du CSP
+## <a name="find-your-bill"></a>Rechercher votre facture 
 
-Les partenaires du programme fournisseur de solutions Cloud (CSP) qui ont choisi de payer les frais mensuels Microsoft 60 en retard pour les abonnements de leurs clients (abonnements basés sur une licence et basés sur l’utilisation).
+Vous pouvez trouver votre facture sur la page facturation du tableau de bord de l’espace partenaires. Vous pouvez également trouver l’historique de facturation, les tendances de dépense et les fichiers de rapprochement sur cette page. 
 
-## <a name="find-itemized-details-for-charges"></a>Rechercher des détails détaillés pour les frais
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires. 
 
-Vous pouvez comprendre les détails détaillés de vos frais à l’aide de vos fichiers de rapprochement. Les fichiers de réconciliation incluent des identificateurs de clients et des identificateurs d’abonnement que vous pouvez utiliser pour créer des factures client.
+2. Dans le menu de gauche, sélectionnez **facturation**. 
 
-Pour plus d’informations, voir [Utilisation des fichiers de rapprochement](use-the-reconciliation-files.md).
+3. Sur la page facturation, sélectionnez la facture que vous souhaitez télécharger. 
+
+Vous pouvez trouver un lien vers votre dernière facture en haut de la page, sous solde du compte à la date de la dernière facture. 
+
+Vous trouverez les factures précédentes dans la section historique de facturation. Choisissez l’année appropriée, puis sélectionnez la flèche déroulante en regard de la période de facturation appropriée. Sélectionnez le lien en regard de factures (. pdf) pour télécharger la facture de cette période. 
+
+## <a name="understanding-invoice-pdf"></a>Comprendre la facture PDF 
+
+**Factures pour les frais relatifs à l’utilisation et à la licence**: les factures relatives aux frais pour les services tels que Office 365 et Azure seront disponibles dans les deux (2) jours suivant la date de facturation sélectionnée [UTC].  
+
+**Factures pour les frais OneTime et récurrents**: les factures relatives aux frais pour les services tels qu’Azure RI, Azure plan, Marketplace seront disponibles au plus tard le 8 de chaque mois.  
+
+Voici quelques-uns des champs clés du document PDF de facture : 
+
+**Numéro de facture**: identificateur unique du document de facture généré pour la période de facturation respective. 
+
+**Période de facturation**: il s’agit de la période pendant laquelle vous avez des utilisations et des services basés sur une licence. 
+
+**Date**de la facture : date de facturation ou date anniversaire à laquelle votre facture est générée chaque mois. 
+
+**Date d’échéance du paiement**: date à laquelle votre paiement doit être reçu. 
+
+**Frais**: montant dû dans votre devise de facturation pour la période de facturation respective. 
+
+**Crédits**: crédits (contrats SLA) ou ajustements pour les modifications apportées aux abonnements (par exemple, augmentation ou diminution du siège). 
+
+**Instructions de paiement**: description du paiement de votre facture, en fonction de votre région. Veillez à toujours inclure votre numéro de facture lors de l’exécution d’un paiement. 
+
+Pour obtenir une description détaillée de tous les champs de votre fichier de facture (y compris les champs pour les frais à usage unique), consultez [champs de fichier de facture](https://docs.microsoft.com/partner-center/invoice-file). 
+
+## <a name="understand-reconciliation-file"></a>Comprendre le fichier de réconciliation 
+
+ Les fichiers de rapprochement, qui fournissent des détails détaillés sur vos frais, peuvent être téléchargés en même temps que le fichier PDF de la facture. Les fichiers de réconciliation incluent des identificateurs de clients et des identificateurs d’abonnement que vous pouvez utiliser pour créer des factures client. Consultez la rubrique  [utilisation des fichiers de rapprochement](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) pour obtenir plus d’informations sur les fichiers de rapprochement. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
