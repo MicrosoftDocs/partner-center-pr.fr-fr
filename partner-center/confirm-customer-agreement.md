@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat Microsoft Cloud, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: high
-ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
+ms.sourcegitcommit: 43569a21c4f5cb5405f2acea6ace69640a2eee5e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672849"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "80805973"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmer l’acceptation du Contrat client Microsoft par les clients
 
@@ -168,7 +168,7 @@ Effectuez les étapes suivantes pour inviter un nouveau client à passer en revu
 
 4. Utilisez ce modèle d’e-mail pour inviter le client à accepter la **demande de relation de revendeur** et le **Contrat client Microsoft**. (Remarque : Dans l’invitation par e-mail, vérifiez que le partenaire ajoute également l’URL fournie automatiquement ainsi que les informations d’identification client créées.)
 
-![créer une relation](images/mca/createrelationship.jpg)
+![créer une relation](images/mca/createrelationship.png)
 
 5. Le client reçoit une invitation par e-mail, et clique sur l’URL paramétrable. 
 
