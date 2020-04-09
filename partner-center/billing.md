@@ -1,23 +1,23 @@
 ---
 title: Facturation | Espace partenaires
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Découvrez les rubriques sur la facturation dans l’Espace partenaires, notamment des informations sur les ressources de facturation, les factures et la facturation CSP.
+Description: Liste des rubriques sur la facturation et les taxes dans l’Espace partenaires, notamment des informations sur les ressources de facturation, les factures, la facturation CSP et les taxes.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: jasonwhowell
 ms.author: jasonh
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: high
-ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
+ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390278"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "80634795"
 ---
-# <a name="billing"></a>Facturation
+# <a name="billing-and-taxes"></a>Facturation et taxes
 
 **S’applique à**
 
@@ -33,10 +33,10 @@ ms.locfileid: "80390278"
 
 | Rubrique | Description |
 | ----- | ----------- |
-| [Présentation de la facturation](billing-basics.md) | Notions de base de la facturation de l’Espace partenaires (y compris les paiements, les factures et les fichiers de rapprochement). |
+| [Notions de base de facturation](billing-basics.md) | Notions de base de la facturation de l’Espace partenaires (y compris les paiements, les factures et les fichiers de rapprochement). |
 | [Types de facturation](billing-different-types.md) | Explication des différents types de facturation dans l’Espace partenaires. |
 | [Différences entre les facturations mensuelle et annuelle](billing-annual-monthly.md) | Explication des différences entre les fréquences de facturation mensuelle et annuelle. |
-| [Lecture de votre facture](read-your-bill.md) | Comment lire et comprendre votre facture de l’Espace partenaires. |
+| [Comprendre votre facture](read-your-bill.md) | Comment lire et comprendre votre facture de l’Espace partenaires. |
 | [Essais gratuits](offer-your-customers-trials-of-microsoft-products.md) | Comment proposer des essais gratuits à vos clients, et comment ces essais sont facturés. |
 | [Fichier de rapprochement](use-the-reconciliation-files.md) | Comment lire et utiliser votre fichier de rapprochement pour les éléments de ligne. |
 | [Exemples de facturation courants](common-billing-scenarios.md) | Comment comprendre les scénarios courants de facturation de l’Espace partenaires (pour les facturations mensuelle et annuelle ainsi que pour la facturation des achats ponctuels et périodiques). |
