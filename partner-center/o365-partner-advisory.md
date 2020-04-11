@@ -2,17 +2,17 @@
 title: Avis de partenaire Office 365-Microsoft 365 Voice dans CSP | Espace partenaires
 description: Les services RTPC dans certains pays peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires.
 ms.topic: article
-ms.date: 11/04/2019
+ms.date: 04/07/2020
 author: jasonwhowell
 ms.author: jasonh
 keywords: Office, O365, RTPC, services, taxes, exigences, facture, facturation
 ms.localizationpriority: medium
-ms.openlocfilehash: 14cf3541789fc982590842427d06711a70080004
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390788"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123284"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Avis de partenaire Office 365 : Microsoft 365 Voice dans CSP
 
@@ -21,15 +21,15 @@ ms.locfileid: "80390788"
 - Centre pour partenaires  
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
+-    Administrateur global
+-    Administrateur des utilisateurs
+-    Agent d’administration
 
 Dans certaines juridictions, les services de réseau public commuté (RTPC) peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires. Dans le États-Unis, y compris Porto Rico, les services RTPC, qui incluent la conférence audio, les plans d’appel et les crédits de communication, sont soumis à des obligations réglementaires et fiscales particulières. Dans le États-Unis et à Porto Rico, les tarifs de Microsoft sont les services RTPC comme taxes incluses.  Des taxes et réglementations uniques sur les RTPC affectent les partenaires Office 365 qui transportent des produits Microsoft 365 Voice.  Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
 
 ## <a name="partner-recommendations"></a>Recommandations pour les partenaires
 
-Incitez votre conseiller juridique et fiscal à analyser la responsabilité de votre entreprise concernant la réglementation, les taxes, les redevances et autres obligations potentielles liées aux services&nbsp;RTC.
+Demandez à vos conseillers juridiques de comprendre la responsabilité de votre organisation en ce qui concerne la réglementation, les taxes et les frais des services RTPC, ainsi que d’autres inconvénients potentiels.
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Présentation des factures et fichier de rapprochement des partenaires
 
@@ -55,5 +55,5 @@ Office 365 Enterprise E5 présente le fichier de rapprochement sous la forme de 
 Microsoft 365 Business Voice disponible dans le Canada possède des composants de passerelle RTPC supplémentaires qui sont consolidés sur une facture CSP (similaire à Office 365 E5, deux éléments de ligne sont présentés, l’un pour les composants RTPC et l’autre pour les composants non-RTPC).  Le fichier de rapprochement des fournisseurs de services Cloud pour Microsoft 365 Business Voice affiche tous les composants de RTPC taxables individuellement (les composants RTPC individuels ne sont pas consolidés dans. CSV ou l’outil API).  La somme des détails de la commande et des montants facturés pour les clients qui se trouvent dans le fichier de rapprochement correspond à la facture du fournisseur de services Cloud.
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
-Pour plus d’informations, visitez le site [Microsoft 365 pour les partenaires](https://drumbeat.office.com/Pages/home2016.aspx) .
+Pour plus d’informations, visitez le site [Microsoft 365 pour les partenaires](https://www.microsoft.com/microsoft-365/partners/) .
 

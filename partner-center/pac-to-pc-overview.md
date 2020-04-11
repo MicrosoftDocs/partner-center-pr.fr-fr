@@ -1,7 +1,7 @@
 ---
 title: Préparation de la transition entre le Centre d'administration des partenaires et l'Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Les fonctionnalités du Centre d'administration des partenaires Office 365 sont transférées sur l'Espace partenaires.
@@ -9,24 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, Advisor, partenaire de syndication, mise hors service PAC, mise hors service des PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004888"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123313"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Le centre d’administration des partenaires est en déplacement vers l’espace partenaires
 
 **S’applique à**
 
--  Espace partenaires
+-  Centre pour partenaires
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
--   Commercial
+-    Administrateur global
+-    Administrateur des utilisateurs
+-    Agent d’administration
+-    Commercial
 
 > [!NOTE]  
 >  Toutes les dates ont été mises à jour depuis la publication initiale de cet article.
@@ -46,11 +46,9 @@ En avril 2018, les PAC seront mis hors service, et les partenaires CSP vont êtr
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Commencez à utiliser l'Espace partenaires Microsoft dès à présent !
 
-Commencez à utiliser [l’espace partenaires Microsoft](https://partnercenter.microsoft.com/) dès à présent pour vous préparer à passer du PAC.  Vous utiliserez les mêmes informations d’identification pour l’espace partenaires que vous utilisez pour le PAC. 
+Commencez à utiliser [l’espace partenaires Microsoft](https://partnercenter.microsoft.com/) dès à présent pour vous préparer à passer du PAC.  Vous utiliserez les mêmes informations d’identification pour l’espace partenaires que vous utilisez pour le PAC.
 
 > [!IMPORTANT]  
 > Certaines fonctionnalités et fonctions qui étaient disponibles dans la clé PAC ne sont pas disponibles dans l’espace partenaires.
 
- Consultez le [tableau de comparaison](moving-from-pac-to-pc.md) pour comprendre et vous familiariser avec ces modifications.  Vous trouverez dans l'[Aide de l'Espace partenaires Microsoft](https://partnercenter.microsoft.com/partner/help) des informations supplémentaires sur la gestion des comptes, la gestion des clients, les licences et les abonnements, la tarification et les offres, etc.
-
- 
+ Consultez le [tableau de comparaison](moving-from-pac-to-pc.md) pour comprendre et vous familiariser avec ces modifications.  Vous trouverez dans l'[Aide de l'Espace partenaires Microsoft](https://docs.microsoft.com/partner-center/) des informations supplémentaires sur la gestion des comptes, la gestion des clients, les licences et les abonnements, la tarification et les offres, etc.
