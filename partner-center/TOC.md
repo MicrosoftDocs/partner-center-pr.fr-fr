@@ -89,12 +89,9 @@
 ## [Revendications de primes incitatives](claims-overview.md)
 ### [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)
 ### [Conditions requises pour les revendications de primes incitatives](core-requirements.md)
-
-
-### [Comprendre vos informations de paiement](incentives-unified-user-guide.md)
-
 ### [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)
-
+### [Consulter vos paiements et programmes d’incentives](understand-incentive-payouts.md)
+### [Créer une association de clients avec le modèle CPOR](submit-osa-claim.md)
 
 # [Facturation et taxes](billing.md)
 ## [Notions de base de facturation](billing-basics.md)
