@@ -1,7 +1,7 @@
 ---
 title: Passage de PMC à l’Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Prenez connaissance des différences et similitudes entre PMC et l’Espace partenaires concernant les renouvellements, la structure des comptes, la connexion, les rôles d’utilisateur, les compétences et plus encore.
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340177"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123303"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Passage de PMC à l’Espace partenaires
 
 **Rôles appropriés**
--   Administrateur général
+-    Administrateur général
 
 Nous vous facilitons la tâche pour vos relations commerciales en mettant en place un seul site web (Espace partenaires) qui sert de point central d’engagement. Vous constaterez que tout ce que vous avez fait dans le PMC (Partner Membership Center) peut l’être également à partir de votre tableau de bord dans l’Espace partenaires. 
 
@@ -37,13 +37,13 @@ Ce tableau présente certaines des différences entre PMC et l’Espace partenai
 
 |**PMC**   |**Espace partenaires**|
 |----------------------|:-----------------------------|
-|Le siège et les sites étaient évalués séparément. L’évaluation des compétences était effectuée au niveau local|L’entreprise mondiale, votre PGA (compte global de partenaire) ainsi que les sites sont évalués dans leur ensemble. Les données de performances et de compétences sont agrégées au niveau du PGA. Plusieurs vues de profil sont incluses pour les programmes, par exemple le profil de partenaire et le profil métier pour les références et le marketing. Pour plus d’informations, consultez les détails relatifs à la [structure du compte dans l’Espace partenaires](https://docs.microsoft.com/partner-center/account-structure.md).|
+|Le siège et les sites étaient évalués séparément. L’évaluation des compétences était effectuée au niveau local|L’entreprise mondiale, votre PGA (compte global de partenaire) ainsi que les sites sont évalués dans leur ensemble. Les données de performances et de compétences sont agrégées au niveau du PGA. Plusieurs vues de profil sont incluses pour les programmes, par exemple le profil de partenaire et le profil métier pour les références et le marketing. Pour plus d’informations, consultez les détails relatifs à la [structure du compte dans l’Espace partenaires](account-structure.md).|
 
 ## <a name="sign-in"></a>Connectez-vous
 
 |**PMC**   |**Espace partenaires**|
 |----------------------|:-----------------------------|
-|Vous pouviez utiliser votre compte MSA (compte Microsoft) ou vos informations d’identification de compte personnel, joe@outlook.com|Vous devez utiliser vos informations d’identification de compte professionnel, (joe@joescompany.com.). Pour plus d’informations, consultez [Compte professionnel de votre entreprise et Espace partenaires](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md).|
+|Vous pouviez utiliser votre compte MSA (compte Microsoft) ou vos informations d’identification de compte personnel, joe@outlook.com|Vous devez utiliser vos informations d’identification de compte professionnel, (joe@joescompany.com). Pour plus d’informations, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Rôles d’utilisateur
 
@@ -51,7 +51,7 @@ Ce tableau présente certaines des différences entre PMC et l’Espace partenai
 |----------------------|:-----------------------------|
 |De nombreux rôles dans PMC ne sont pas utilisés dans l’Espace partenaires|L’administrateur qui effectue le passage à l’Espace partenaires se voit automatiquement attribuer les rôles d’administrateur MPN, d’administrateur de compte et d’administrateur de références. Il peut ensuite attribuer des rôles d’utilisateur à d’autres utilisateurs.|
 |Les utilisateurs étaient gérés au niveau de l’emplacement|Les utilisateurs sont gérés au niveau de l’entreprise (PGA) et non au niveau de l’emplacement. Seule exception, l’administrateur de primes incitatives, qui opère au niveau de l’emplacement.|
-|   |L’Espace partenaires a deux grands ensembles de rôles : les rôles qui administrent le locataire Azure AD et les rôles qui administrent les activités de l’entreprise. Organisez les rôles de la manière qui convient à votre entreprise. Une personne peut tout faire, ou plusieurs personnes peuvent se voir attribuer des rôles et des autorisations distinctes. Pour plus d’informations, consultez la section [Attribuer des rôles et des autorisations aux utilisateurs](https://docs.microsoft.com/partner-center/permissions-overview). 
+|   |L’Espace partenaires a deux grands ensembles de rôles : les rôles qui administrent le locataire Azure AD et les rôles qui administrent les activités de l’entreprise. Organisez les rôles de la manière qui convient à votre entreprise. Une personne peut tout faire, ou plusieurs personnes peuvent se voir attribuer des rôles et des autorisations distinctes. Pour plus d’informations, consultez la section [Attribuer des rôles et des autorisations aux utilisateurs](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Prise en compte des compétences et des avantages
 
