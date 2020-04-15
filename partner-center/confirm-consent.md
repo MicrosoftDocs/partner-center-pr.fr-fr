@@ -1,7 +1,7 @@
 ---
 title: Confirmer l’acceptation du contrat client Microsoft par le client | Espace partenaires
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment confirmer l’acceptation du Contrat client Microsoft par les clients. Cela peut être nécessaire pour commander des produits et services Microsoft pour les clients.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: high
-ms.openlocfilehash: 0d6d7b20aa4b6d7c5c56d3669b8f6bd8a3bda7bb
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340140"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123328"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmer l’acceptation du Contrat client Microsoft par les clients
 
@@ -35,27 +35,25 @@ ms.locfileid: "78340140"
 >[!NOTE]
 >À compter du 31 janvier 2020, tous les clients, nouveaux et existants, doivent signer le nouveau Contrat client Microsoft. Pour en savoir plus, consultez [Confirmer l’acceptation du Contrat client Microsoft par les clients](confirm-customer-agreement.md).
 
-En tant que partenaire, vous devez obtenir l’acceptation du Contrat client Microsoft par le client pour pouvoir lui commander des produits et des services Microsoft. Pour permettre aux partenaires à mieux répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l’acceptation en fournissant les informations suivantes sur la personne qui a accepté le contrat : 
+En tant que partenaire, vous devez obtenir l’acceptation du Contrat client Microsoft par le client pour pouvoir lui commander des produits et des services Microsoft. Pour permettre aux partenaires à mieux répondre aux exigences de conformité, Microsoft demande aux partenaires de confirmer l’acceptation en fournissant les informations suivantes sur la personne qui a accepté le contrat :
 
--   Prénom
+- Prénom
 
--   Nom
+- Nom
 
--   Adresse de messagerie
+- Adresse de messagerie
 
--   Numéro de téléphone (facultatif)
+- Numéro de téléphone (facultatif)
 
--   Date d’acceptation
-
-Pour plus d’informations, consultez les [Questions fréquentes (FAQ)](https://docs.microsoft.com/partner-center/confirm-consent-faq) sur la confirmation de l’acceptation du Contrat client Microsoft par le client.
+- Date d’acceptation
 
 Les partenaires associés à une facturation directe et les fournisseurs indirects peuvent confirmer l’acceptation du Contrat client Microsoft par le client quand ils effectuent des transactions par le biais de l’Espace partenaires ou de l’API de l’Espace partenaires. La confirmation est *obligatoire*.
 
 Si la confirmation n’est pas fournie pour un client donné :
 
--   Vous ne pourrez pas créer de commandes pour ce client.
+-    Vous ne pourrez pas créer de commandes pour ce client.
 
--   Vous ne pourrez pas changer le nombre de sièges des abonnements existants basés sur les sièges pour ce client.
+-    Vous ne pourrez pas changer le nombre de sièges des abonnements existants basés sur les sièges pour ce client.
 
 La confirmation de l’acceptation du client peut être effectuée par le biais de l’Espace partenaires ou de l’API de l’Espace partenaires. Pour effectuer cette opération via l’API de l’Espace partenaires, consultez les rubriques suivantes : 
 
