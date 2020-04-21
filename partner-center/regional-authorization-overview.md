@@ -250,7 +250,7 @@ Si l’emplacement de votre entreprise est Corée, République de, vous pouvez v
 |  Corée, République de|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>Amérique latine et la région et le marché des Caraïbes
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>Amérique latine et la région et le marché des Antilles
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
@@ -338,9 +338,9 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Liban        |   USD    |
 |  Lesotho        |   USD    |
 |  Libye          |          |
-|  Macédoine, République de|   |
+|  Macédoine du Nord|   |
 |  Mauritanie     |   USD    |
-|  République de Moldavie        |          |
+|  République de Moldova        |          |
 |  Mongolie       |          |
 |  Monténégro     |          |
 |  Maroc        |   USD    |
