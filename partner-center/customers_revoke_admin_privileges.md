@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: privilèges d’administrateur délégués, administrateur pour le compte de, supprimer des privilèges, DAP, AOBO
 ms.localizationpriority: high
 ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "78340057"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Les clients délèguent les privilèges d’administrateur à des partenaires

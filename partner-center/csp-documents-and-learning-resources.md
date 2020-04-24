@@ -11,10 +11,10 @@ ms.author: jasonh
 keywords: guides du programme fournisseur de solutions Cloud, guide du programme, accords de partenariat, contrat client, tarifs, offres
 ms.localizationpriority: high
 ms.openlocfilehash: 8df1879901d44e6c74058dd45d99d00dab2f4bb2
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390008"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres

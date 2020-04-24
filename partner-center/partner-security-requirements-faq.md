@@ -10,10 +10,10 @@ ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
 ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80529774"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
@@ -53,7 +53,7 @@ Non, il n’est pas possible d’exclure un compte d’utilisateur de l’obliga
 Vous devez effectuer les étapes ci-dessous
 
 - Vous devez répondre à toutes les exigences décrites dans [Exigences de sécurité du partenaire](https://docs.microsoft.com/partner-center/partner-security-requirements)
-- Vous devez vous assurer que l’authentification multifacteur est appliquée à tous les comptes d’utilisateur de votre locataire partenaire
+- Vous devez vous assurer que l’authentification multifacteur est appliquée à tous les comptes d’utilisateur de votre locataire partenaire.
 
 Pour vous aider à identifier les domaines clés dans lesquels vous pouvez prendre des mesures, nous fournissons le rapport sur le [statut des exigences de sécurité](https://partner.microsoft.com/pcv/security/compliance) qui est disponible via l’Espace partenaires.
 

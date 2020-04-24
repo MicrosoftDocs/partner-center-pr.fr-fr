@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération, conditions requises
 ms.localizationpriority: high
 ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721321"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Conditions requises pour les demandes de coopération aux primes incitatives

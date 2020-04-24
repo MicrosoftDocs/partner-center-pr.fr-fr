@@ -11,10 +11,10 @@ keywords: facturation, paiements, commandes, annulation, gestion des commandes, 
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80676812"
 ---
 # <a name="billing-overview"></a>Présentation de la facturation
@@ -54,7 +54,7 @@ Les types de facturation dans l’Espace partenaires incluent la **facturation b
 
 ### <a name="billing-currency"></a>Devise de facturation
 
-**Facturation basée sur la licence et facturation basée sur l’utilisation** : vous serez facturé pour le ou les produits dans la devise du pays ou de la région où vous vous trouvez. Vous êtes facturé de la même façon quel que soit la localisation du client auquel vous avez vendu le ou les produits.
+**Facturation basée sur la licence et facturation basée sur l’utilisation** : Vous serez facturé pour le ou les produits dans la devise du pays ou de la région où vous vous trouvez. Vous êtes facturé de la même façon quel que soit la localisation du client auquel vous avez vendu le ou les produits.
 
 **Facturation ponctuelle** : votre facture sera générée dans le contexte de la devise du client. Cela signifie que si vous êtes un partenaire qui collabore avec des clients utilisant différentes devises facturables, vous recevrez une facture pour chaque type de devise client. Apprenez-en davantage sur la facturation [ponctuelle et périodique](azure-plan-billing.md). 
 

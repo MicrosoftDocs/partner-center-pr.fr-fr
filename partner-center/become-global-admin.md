@@ -10,10 +10,10 @@ ms.author: labrenne
 ms.localizationpriority: high
 keywords: domaine, vérification de domaine, vérifier un domaine, administrateur général, rôles d’utilisateur, autorisations
 ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722429"
 ---
 # <a name="verify-your-domain-ownership"></a>Vérifier la propriété de votre domaine
@@ -24,7 +24,7 @@ ms.locfileid: "74722429"
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 
 Quand votre entreprise se connecte à l’Espace partenaires pour la première fois, il est probable que les employés ne disposent pas des rôles nécessaires pour commencer à travailler. Pour travailler dans l’Espace partenaires, toute personne doit se voir attribuer un rôle qui comprend des autorisations.  
 

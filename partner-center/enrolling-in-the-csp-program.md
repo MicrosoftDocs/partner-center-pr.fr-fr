@@ -9,10 +9,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721706"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
@@ -23,9 +23,9 @@ ms.locfileid: "74721706"
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 
-## <a name="get-started"></a>Prise en main
+## <a name="get-started"></a>Prendre en main
 
 La demande en croissance rapide de services et solutions cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne souhaitent pas avoir à gérer plusieurs fournisseurs ou qui n’ont pas mis en place d’infrastructure de gestion des relations client de bout en bout peuvent s’inscrire au programme Fournisseur de solutions Cloud (CSP) de Microsoft en tant que revendeurs indirects.
 

@@ -10,17 +10,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "73651702"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Rétablir les privilèges d’administrateur pour les abonnements Azure CSP  
 
 **Rôles applicables**
 
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 
 En tant que partenaire CSP, vos clients pensent souvent que vous allez gérer leur utilisation d’Azure et leurs systèmes pour eux. Pour ce faire, vous devez disposer de privilèges d’administrateur. Certains privilèges sont accordés quand votre relation de revendeur avec le client est établie. D’autres vous sont octroyés par votre client.

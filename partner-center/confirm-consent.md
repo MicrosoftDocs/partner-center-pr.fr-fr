@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: high
 ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/11/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "81123328"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmer l’acceptation du Contrat client Microsoft par les clients

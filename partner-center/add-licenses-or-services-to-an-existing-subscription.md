@@ -11,10 +11,10 @@ ms.author: jasonh
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d’abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: high
 ms.openlocfilehash: 9f6f9ca4c1c8ca6b530e1e42e925da27ca088a46
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80391018"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant

@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions cloud, services basés sur le cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions cloud, vendre dans le programme Fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements client
 ms.localizationpriority: high
 ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722537"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offres pour les partenaires du programme Fournisseur de solutions Cloud
@@ -25,8 +25,8 @@ ms.locfileid: "74722537"
 **Rôles appropriés**
 
 - Agent d’administration
-- Administrateur global
-- Commercial
+- Administrateur général
+- Agent commercial
 
 Les partenaires Microsoft du programme Fournisseur de solutions Cloud (CSP) ont un catalogue croissant d’offres à leur disposition. Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), ainsi que diverses autres offres qui changent fréquemment. Pour vérifier les offres disponibles pour le mois en cours dans le cadre du programme Fournisseur de solutions Cloud, connectez-vous à l’Espace partenaires et accédez à la page [**Prix et offres**](https://partnercenter.microsoft.com/pcv/sales).  
 
@@ -45,7 +45,7 @@ Actuellement, vous pouvez vendre les types de produits et de services suivants �
     
     Pour plus d’informations, consultez [Vendre des réservations d’instances de machine virtuelle Microsoft Azure](azure-reservations.md).
 
-- Logiciels<br>
+- Logiciel<br>
 
     Les clients peuvent acheter des abonnements logiciels (à Windows Server et SQL Server, pour une durée de 1 ou 3 ans, pour les exécuter sur des instances de machine virtuelle Azure réservées).<br>
  
@@ -112,6 +112,6 @@ Pour plus d’informations sur le fonctionnement du processus de facturation, co
 
 Pour plus d’informations sur les achats effectués dans le cadre du plan Azure, consultez [Acheter le plan Azure](purchase-azure-plan.md).
 
-## <a name="see-also"></a>Voir également
+## <a name="see-also"></a>Voir aussi
 
 [Vue d’ensemble de la marketplace commerciale pour les fournisseurs de solutions Cloud](csp-commercial-marketplace-overview.md)
