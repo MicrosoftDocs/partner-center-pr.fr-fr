@@ -80,10 +80,10 @@
 
 # [Développer votre entreprise](grow-your-business.md)
 ## [Références](referrals.md)
-### [Créer un profil professionnel](create-a-marketing-profile.md)
-### [Répondre à des références](responding-to-referrals.md)
+### [Gérer un profil professionnel](create-a-marketing-profile.md)
+### [Gérer les prospects](manage-leads.md)
+### [Gérer les opportunités de covente](manage-co-sell-opportunities.md)
 ### [Enregistrer vos transactions](register-deals.md)
-### [Co-vendre avec Microsoft](co-sell-with-microsoft.md)
 ### [Obtenir des insights de référence](referral-insights.md)
 ### [Analyser votre profil professionnel](analyze-your-marketing-profile.md)
 ## [Revendications de primes incitatives](claims-overview.md)
