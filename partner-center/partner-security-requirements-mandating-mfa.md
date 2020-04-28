@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529790"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462212"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposer l’authentification multifacteur (MFA) à votre locataire partenaire
 
@@ -37,15 +37,15 @@ ms.locfileid: "80529790"
 L’objectif de cette fonctionnalité est d’aider les partenaires à sécuriser leur accès aux ressources client contre toute compromission des informations d’identification.
 Les partenaires doivent mettre en œuvre l’authentification multifacteur (MFA) pour tous les comptes d’utilisateur de leur locataire partenaire, y compris l’utilisateur invité. Avec cette fonctionnalité, ces rôles de partenaire seront contraints d’effectuer la vérification MFA pour les zones suivantes :
 
-- [Tableau de bord de l’Espace partenaires](#partner-center-dashboard) (Cible : 2e trimestre 2020)
-- [API de l’Espace partenaires](#partner-center-api) (Cible : 2e trimestre 2020)
+- [Tableau de bord de l’Espace partenaires](#partner-center-dashboard) (à partir du 1er mai 2020)
+- [API de l’Espace partenaires](#partner-center-api) (à partir du 1er mai 2020)
 - [Administration déléguée de partenaire](#partner-delegated-administration)
 
 La qualité et la continuité des mesures de sécurité et de confidentialité font partie de nos principales priorités, et nous continuons à aider les partenaires à protéger leurs clients et leurs locataires. Tous les partenaires qui participent au programme Fournisseur de solutions Microsoft Cloud (CSP), les fournisseurs de panneau de contrôle et les conseillers Advisor doivent implémenter les [Exigences de sécurité du partenaire](partner-security-requirements.md) pour rester conformes.
 
 Microsoft a commencé l’activation de mesures de sécurité supplémentaires pour les locataires partenaires. Cette activation des mesures peut aider les partenaires à sécuriser leurs locataires et leurs clients en exigeant une vérification MFA afin d’empêcher tout accès non autorisé.
 
-Nous avons terminé l’activation pour les fonctionnalités Administration déléguée de partenaire pour tous les locataires partenaires. Afin de renforcer la protection des partenaires et des clients, à compter du deuxième trimestre 2020, nous allons commencer l’activation pour les transactions de l’Espace partenaires dans CSP, aidant ainsi les partenaires à protéger leurs activités et leurs clients contre les incidents liés au vol d’identité.
+Nous avons terminé l’activation pour les fonctionnalités Administration déléguée de partenaire pour tous les locataires partenaires. Afin de renforcer la protection des partenaires et des clients, à compter du 1er mai 2020, nous allons commencer l’activation pour les transactions de l’Espace partenaires dans CSP, aidant ainsi les partenaires à protéger leurs activités et leurs clients contre les incidents liés au vol d’identité.
 
 Cette documentation fournit aux partenaires une expérience détaillée et des conseils sur l’activation des mesures de sécurité.
 

@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: pinpoint, références, prospects, C2PC, profil d’entreprise, promouvoir votre entreprise, trouver un partenaire, trouver un fournisseur de solutions, profil métier, profil commercial
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722532"
 ---
 <!--
@@ -38,7 +38,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 - Administrateur des comptes
 - Administrateur de profils métier
-- Administrateur global
+- Administrateur général
 - Administrateur des références
 
 En tant que partenaire Microsoft qualifié, vous pouvez créer un profil métier pour présenter votre activité aux clients qui recherchent vos solutions et votre expertise uniques afin de répondre à leurs besoins métier.
@@ -67,7 +67,7 @@ Créez des profils pour chacune des régions où vous êtes autorisé à exercer
    > [!NOTE]  
    >  Bien que l’Espace partenaires prenne en charge plusieurs langues, certains éléments, comme la description et les étiquettes de forme libre, peuvent nécessiter l’inclusion de texte dans différentes langues, comme indiqué dans cette rubrique.
 
-### <a href="" id="partner_info"></a>Informations partenaire
+### <a name="partner-information"></a><a href="" id="partner_info"></a>Informations partenaire
 
 Présentez votre société en ajoutant un logo, une brève description et un lien vers votre site web. 
 
@@ -84,7 +84,7 @@ La description ne doit pas dépasser 2 500 caractères. Conseils pour une desc
 -  **Ne faites pas nommément référence à une autre société partenaire de Microsoft**, sauf s’il s’agit d’une succursale ou qu’elle est affiliée à votre société, ou que vous avez conclu un accord avec cette société partenaire en vue d’établir un partenariat et/ou de vous promouvoir mutuellement dans le but de partager des opportunités commerciales.
 -  **Pour les régions multilingues**, envisagez d’inclure du texte en plusieurs langues dans la description.
 
-#### <a href="" id="linkedin"></a> Page LinkedIn de la société : d’autres moyens d’établir des liens
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> Page LinkedIn de la société : d’autres moyens d’établir des liens
 
 Ajoutez la page LinkedIn de votre société pour renforcer vos liens avec des clients potentiels. 
 
@@ -107,7 +107,7 @@ Autres étiquettes utilisées dans la recherche :
 -  Les **étiquettes de compétence** sont des désignations obtenues qui présentent les capacités de votre entreprise.
 -  Les **étiquettes d’approbation** sont obtenues quand Microsoft ou les clients qui ont travaillé avec vous recommandent votre travail.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Autoriser Microsoft à recommander mes domaines d’expertise
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Autoriser Microsoft à recommander mes domaines d’expertise
 
 Nous vous recommandons de laisser ce paramètre coché. 
 
@@ -117,13 +117,13 @@ Cependant, si vous fournissez des services pour des produits que vous préférez
 
 ### <a name="customer-preferences"></a>Préférences client
 
-#### <a href="" id="#target_size"></a>Taille cible
+#### <a name="target-size"></a><a href="" id="#target_size"></a>Taille cible
 
 Vous pouvez refuser de recevoir des recommandations d’entreprises qui ne correspondent pas à la taille de votre clientèle cible.
 
 En les refusant, vous aurez plus de temps à consacrer aux entreprises qui correspondent à vos critères.
 
-#### <a href="" id="#locations"></a> Emplacements
+#### <a name="locations"></a><a href="" id="#locations"></a> Emplacements
 
 Vous pouvez ajouter jusqu’à 5 emplacements par région. Ces emplacements s’affichent quand les clients effectuent des recherches de partenaires par proximité.
 
