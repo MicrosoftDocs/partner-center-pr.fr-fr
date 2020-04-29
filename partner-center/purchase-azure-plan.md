@@ -1,7 +1,7 @@
 ---
 title: Acheter le plan Azure | Espace partenaires
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment acheter un ou plusieurs abonnements Azure et des réservations Azure dans le cadre du plan Azure pour configurer des ressources et pour consulter ou ajouter des abonnements.
@@ -9,19 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 9ed6e3795fa27ac63fbcd4eee46c4ff00d2c296d
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004938"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205747"
 ---
 # <a name="purchase-the-azure-plan"></a>Acheter le plan Azure
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent commercial
+-    Administrateur général
+-    Administrateur des utilisateurs
+-    Agent commercial
 
 Quand vous achetez un plan Azure pour vos clients liés dans le cadre du Contrat client Microsoft, vous avez accès à l’ensemble du catalogue des services Azure les plus récents au tarif du paiement à l’utilisation. Les partenaires Fournisseur de solutions Cloud (CSP) peuvent alors accéder à n’importe quel service Azure dès lors qu’il est mis à la disposition générale. Un partenaire peut avoir plusieurs abonnements Azure dans un plan Azure. 
 
@@ -58,9 +58,9 @@ Vous revenez à la page **Ajouter un produit** dans laquelle vous pouvez constat
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Acheter des réservations Azure dans le cadre du plan Azure 
   
-Vous pouvez aussi acheter des réservations Microsoft Azure dans le cadre du plan Azure pour le compte de vos clients dans l’Espace partenaires.
+Vous pouvez aussi acheter des réservations Microsoft Azure dans le cadre du plan Azure pour le compte de vos clients dans l’Espace partenaires. (Ou, si vous préférez, vous pouvez [accorder à vos clients l’autorisation d’acheter leurs propres réservations Azure](give-customers-permission.md) à partir d’un abonnement précédent que vous avez acheté pour eux.)
 
-1. Dans le menu Espace partenaires de votre [tableau de bord](https://partner.microsoft.com/dashboard/), sélectionnez **Clients**. Recherchez le client qui souhaite acheter des réservations Azure, puis sélectionnez la flèche vers le bas pour développer la ligne du client. 
+1. Dans le menu Espace partenaires de votre [tableau de bord](https://partner.microsoft.com/dashboard/), sélectionnez **Clients**. Recherchez le client qui souhaite acheter des réservations Azure, puis sélectionnez la flèche vers le bas pour développer la ligne du client.
 
 2. Sélectionnez **Ajouter des produits**, puis **Azure**. 
 - Choisissez le segment de marché du client dans la liste **Segment**. 
@@ -74,7 +74,7 @@ Les réservations Azure doivent être associées à un plan Azure actif. Choisis
 
 Notez que l’étendue de la réservation peut uniquement avoir la valeur **Partagé**. 
 
-![étendue partagée](images/azure/addprods1.png)
+![Valeur Partagé pour l’étendue de la réservation](images/azure/addprods1.png)
 
 Pour gérer la réservation du client sur le portail Azure : 
 
@@ -86,7 +86,7 @@ Pour gérer la réservation du client sur le portail Azure :
 
 Dans la page **Abonnements**, dans la section Basé sur l’utilisation, développez **Plan Azure** pour afficher les abonnements Azure relevant du plan Azure.
 
-![Afficher la liste](images/azure/addprods2.png) 
+![Afficher la liste des abonnements Azure](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Ajouter des abonnements et configurer les ressources
