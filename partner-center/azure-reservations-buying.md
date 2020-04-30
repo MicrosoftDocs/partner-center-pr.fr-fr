@@ -1,21 +1,21 @@
 ---
-title: Acheter des réservations Microsoft Azure pour vos clients | Espace partenaires
+title: Acheter des réservations Microsoft Azure pour le compte de vos clients | Espace partenaires
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
-keywords: azure, réservations, gérer, facturation, achat
+keywords: Azure, réservations, gérer, facturation, achat
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7fc71e05afe9f8926c0b09df9055dc263b89055b
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722004"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205667"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires 
 
@@ -23,40 +23,40 @@ ms.locfileid: "74722004"
 
 - Espace partenaires
 - Portail Microsoft Azure
-- Partenaires fournisseurs de solutions Cloud
+- Partenaires dans CSP
 
 **Rôles appropriés**
 
 - Agent d’administration
-- Administrateur global
+- Administrateur général
 - Agent du support technique
-- Commercial
+- Agent commercial
 - Administrateur de la gestion des utilisateurs
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
-Passez en revue les informations importantes ci-dessous avant d’acheter des réservations Azure pour le compte de vos clients.
+Passez en revue les informations importantes ci-dessous avant d’acheter des réservations Azure pour le compte de vos clients. (Voulez-vous que les clients soient en mesure d’acheter leurs propres réservations Azure à partir d’un abonnement Azure précédent que vous avez acheté ? Consultez [accorder aux clients l’autorisation d’acheter leurs propres réservations Azure] [octroyer-Customers-permission. MD # permettez-Customers-permission-to-buy-My-Own-Azure-reservations].)
 
-- Si et quand votre client signe le nouveau contrat de client Microsoft, [confirmez l’acceptation du client du contrat de client Microsoft](confirm-customer-agreement.md), vous devez acheter des réservations Azure dans le cadre du plan Azure. Pour plus d’informations, consultez l' [achat d’un plan Azure](purchase-azure-plan.md).
+- Si et quand votre client signe le nouveau contrat de client Microsoft (voir [confirmation de l’acceptation du client du contrat de la clientèle de Microsoft](confirm-customer-agreement.md)), vous devez acheter des réservations Azure dans le cadre du plan Azure. Pour plus d’informations, consultez l' [achat d’un plan Azure](purchase-azure-plan.md).
 
-- Les clients doivent d'ores et déjà disposer d'un abonnement Azure actif avant que vous ne puissiez acheter des réservations en leur nom
+- Les clients doivent déjà disposer d’un abonnement Azure actif pour pouvoir acheter des réservations en leur nom
   
 - Les coûts liés aux abonnements logiciels tels que les SQL Database ou les logiciels SUSE Linux ne sont pas inclus dans les prix de réservation Azure
 
 - La tarification commerciale de Microsoft n’inclut pas les taxes, sauf si votre lieu est le Brésil. Si votre lieu est le Brésil, le prix commercial pour vous comprend les taxes appropriées
 
-- Les agents commerciaux et du bureau d'assistance ont besoin d'un accès explicite à l'abonnement Azure afin de pouvoir l'acheter ou le gérer dans le portail Azure et soumettre des demandes de support, y compris en vue d'échanges et de remboursements, au nom du client.  
+- Les agents de vente et de support technique ont besoin d’un accès explicite à l’abonnement Azure pour qu’ils puissent l’acheter ou le gérer dans les demandes de support Portail Azure et de fichiers, y compris pour les échanges et les remboursements, pour le compte du client  
 
-- Si vous êtes un fournisseur indirect et que vous achetez des réservations Azure via la Portail Azure, le partenaire sur l’enregistrement (revendeur indirect) est hérité de l’abonnement Azure CSP que vous sélectionnez.
+- Si vous êtes un fournisseur indirect et que vous achetez des réservations Azure via la Portail Azure, le partenaire d’enregistrement (revendeur indirect) est hérité de l’abonnement Azure CSP que vous sélectionnez.
 
-- Le partenaire d’enregistrement pour les réservations Azure ne peut pas être modifié après l’achat. Vous pouvez annuler la réservation existante et en acheter une nouvelle avec le nouveau « Partner On Record ».
+- Le partenaire d’enregistrement pour les réservations Azure ne peut pas être modifié après l’achat. Vous pouvez annuler la réservation existante et en acheter une nouvelle avec le nouveau partenaire d’enregistrement.
 
-- Si un client souhaite transférer un abonnement Azure depuis Direct ou EA à Fournisseur de solutions Cloud, les réservations ne sont pas transférées.
+- Si un client souhaite transférer un abonnement Azure depuis direct ou EA vers CSP, les réservations ne sont pas transférées.
 
-## <a name="azure-reservations-unavailable-markets"></a>Marchés Azure indisponibles
+## <a name="azure-reservations-unavailable-markets"></a>Marchés pour lesquels les réservations Azure ne sont pas disponibles
 
 >[!IMPORTANT] 
->Les réservations Azure ne *sont pas* disponibles sur les marchés suivants :  
+>Les réservations Azure *ne sont pas* disponibles dans les marchés suivants :  
 >  
 > | Marchés non disponibles | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
@@ -66,7 +66,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | Anguilla     | Guam     | Saba   |
 > | Antarctique     | Guernesey     | Saint-Barthélemy   |
 > | Antigua-et-Barbuda       | Guinée     | Sainte-Lucie   |
-> | Aruba       | Guinée-Bissau     | Saint-Martin   |
+> | Aruba       | Guinée-Bissau     | Saint-Martin (partie française)   |
 > | Azerbaïdjan       | Guyana     | Saint-Pierre-et-Miquelon   |
 > | Bénin     | Haïti       | Saint-Vincent-et-les-Grenadines     |
 > | Bhoutan     | Heard et McDonald (Îles)       | Samoa     |
@@ -75,24 +75,24 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 > | Territoires britanniques de l’océan Indien       | Jersey     | Seychelles   |
 > | Îles Vierges britanniques     | Kiribati       | Sierra Leone   |
 > | Burkina-Faso     | Kosovo     | Saint-Eustache     |
-> | Burundi     | Laos     | Saint-Martin (Royaume des Pays-Bas)     |
+> | Burundi     | Laos     | Saint-Martin (partie néerlandaise)     |
 > | Cambodge     | Lesotho     | Salomon (îles)     |
 > | République centrafricaine     | Liberia     | Somalie     |
-> | Tchad     | Madagascar     | Géorgie du Sud et Sandwich du Sud (îles)     |
+> | Tchad     | Madagascar     | Géorgie du Sud et les îles Sandwich du Sud     |
 > | Chine     | Malawi     | Soudan du Sud     |
-> | Christmas (île)     | Maldives     | Sainte-Hélène, Ascension et Tristan da Cunha     |
+> | Christmas (île)     | Maldives     | Sainte-Hélène, Ascension et Tristan da Cunha     |
 > | Cocos-Keeling (îles)     | Mali     | Surinam     |
 > | Comores (Les)     | Marshall (îles)     | Svalbard     |
-> | République démocratique du Congo     | Martinique     | Swaziland     |
+> | Congo     | Martinique     | Swaziland     |
 > | Congo (RDC)     | Mauritanie     | Timor-Leste   |
 > | Cook (îles)     | Mayotte     | Togo   |
 > | Djibouti     | Micronésie     | Tokelau   |
 > | Dominique     | Montserrat     | Tonga   |
 > | Guinée équatoriale     | Mozambique     | Turks et Caïcos (îles)   |
 > | Érythrée     | Myanmar     | Tuvalu   |
-> | Malouines (îles)     | Nauru     | Îles mineures éloignées des États-Unis   |
+> | Malouines (îles)     | Nauru     | États-Unis Îles mineures éloignées   |
 > | Guyane française     | Nouvelle-Calédonie     | Vanuatu   |
-> | Polynésie française     | Niger     | Cité du Vatican   |
+> | Polynésie française     | Niger     | État de la Cité du Vatican   |
 > | Terres australes françaises     | Niue     | Wallis-et-Futuna   |
 > | Gabon     | Norfolk (île)     | Yémen   |
 > | Gambie     | Mariannes du Nord (îles)     |    |
@@ -100,7 +100,7 @@ Passez en revue les informations importantes ci-dessous avant d’acheter des r�
 
 ## <a name="purchase-azure-reservations"></a>Acheter des réservations Azure
 
-Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le compte de vos clients dans l’espace partenaires.
+Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le compte de vos clients dans l’espace partenaires. (Voulez-vous que les clients soient en mesure d’acheter leurs propres réservations Azure à partir d’un abonnement Azure précédent que vous avez acheté ? Consultez [accorder aux clients l’autorisation d’acheter leurs propres réservations Azure](give-customers-permission.md).)
 
 1. Sélectionnez **clients** dans le menu de l’espace partenaires.  
 
@@ -125,9 +125,9 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
 7. Répétez les étapes 5 et 6 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires à la commande. Sélectionnez **Vérifier** pour vérifier que la commande est correcte.  
 
-8. Dans la page **Passer en revue vos commandes**, vous pouvez : 
+8. Sur la page **vérifier vos commandes** , vous pouvez : 
 
-    - Vérifier ou modifier la quantité d’instances réservées.
+    - Vérifiez ou modifiez la quantité des instances réservées.
 
     - Sélectionnez l’étendue de la réservation. L’étendue de la réservation peut couvrir un ou plusieurs abonnements (étendue partagée). Si vous étendez la réservation à un seul abonnement, la remise de réservation est appliquée à cet abonnement uniquement. Si vous sélectionnez partagé, la remise de réservation est appliquée à tous les abonnements dans le contexte de facturation du client. 
 
@@ -137,25 +137,20 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
       >[!NOTE]   
       >Si votre client se trouve sous le plan Azure, l' **étendue** est définie sur **partagé**. 
 
-    - Si vous êtes partenaire fournisseur, sélectionnez le revendeur que vous voulez associer au produit.
+    - Si vous êtes un partenaire fournisseur, sélectionnez le revendeur que vous souhaitez associer au produit.
     
     - Si votre réservation Azure prend en charge l’option de plan de facturation, vous pouvez sélectionner la fréquence de facturation mensuellement dans le menu déroulant. 
     - Si votre réservation Azure ne prend pas en charge l’option de plan de facturation, votre fréquence de facturation est définie par défaut sur une facturation unique. 
 
-9. Sélectionnez **Acheter** pour acheter la commande. Les détails de votre commande, y compris le numéro de commande, s’affichent dans la page **confirmer** . Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**. 
+9. Sélectionnez **acheter** pour acheter la commande. Les détails de votre commande, y compris le numéro de commande, s’affichent dans la page **confirmer** . Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**. 
 
 10. Pour gérer la réservation du client dans la Portail Azure, recherchez le client sur la page de vos **clients** , puis sélectionnez la flèche vers le bas pour développer la ligne du client. Sélectionnez **portail de gestion Microsoft Azure** pour ouvrir l’enregistrement du client dans le portail Azure.
 
-## <a name="azure-reservations-resources"></a>Ressources des réservations Azure
-|**Pour plus d’informations sur**   |**Lisez cela**    |
+## <a name="azure-reservations-resources"></a>Ressources Azure Réservations
+|**Pour obtenir des informations sur**   |**Lisez cela**    |
 |:-----------------------------|:-----------------|
-|Réservations Azure dans la vue d’ensemble des fournisseurs de solutions Cloud  | [Vendre Microsoft Azure des instances réservées](azure-reservations.md) |
+|Vue d’ensemble des réservations Azure dans CSP  | [Vendre Microsoft Azure des instances réservées](azure-reservations.md) |
 |Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)
-|Déterminer la taille appropriée de la machine virtuelle et vérifier l’utilisation des machines virtuelles par le client   |[Dimensionnement des machines virtuelles pour l’utilisation maximale de la réservation Azure](azure-usage.md)   |
-|Achat de réservations Azure à l’aide de l'API de l'Espace partenaires | [Acheter Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation pour développeurs Espace partenaires
-|
-
- 
-
-
- 
+|Déterminer la taille de machine virtuelle correcte et vérifier l’utilisation de la machine virtuelle client   |[Dimensionnement des machines virtuelles pour l’utilisation maximale de la réservation Azure](azure-usage.md)   |
+|Achat de réservations Azure à l’aide de l’API espace partenaires | [Acheter Azure reserved VM instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation du développeur de l’espace partenaires   |
+|Autoriser les clients à acheter leurs propres réservations Azure  | [Accorder aux clients l’autorisation d’acheter leurs propres réservations Azure](give-customers-permission.md)  |

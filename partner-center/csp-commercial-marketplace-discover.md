@@ -9,23 +9,23 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: abonnements, Marketplace, Marketplace commerciale, tiers, ISV, offres SaaS, programme fournisseur de solutions Cloud, programme CSP, partenaires CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114941"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "81873186"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Découvrir les offres et la tarification dans la place de marché commerciale
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 
 Lorsque des éditeurs de logiciels indépendants choisissent de publier une offre dans la place de marché commercial, ils peuvent également décider s’ils souhaitent que l’offre soit disponible dans le programme CSP. S’ils choisissent de vendre l’offre par le biais du programme CSP, les partenaires CSP doivent voir l’offre dans la place de marché de l’espace partenaires. 
@@ -78,9 +78,9 @@ Suivez les étapes ci-dessous pour connaître les dernières informations sur la
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires, puis sélectionnez **CSP** dans le menu de navigation de gauche.
 
-2. Sélectionnez **vendre**, puis **Marketplace**. Une liste des offres de la place de marché s’affiche.
+2. Sélectionnez **vendre**, puis **tarifs et offres**.
 
-3. Faites défiler vers le bas jusqu’à la section **Marketplace** (en dessous de la **tarification du plan Azure**) et sélectionnez **Exporter la liste des prix** dans l’angle supérieur droit. Cela génère une feuille de calcul avec les données de tarification les plus récentes pour les offres SaaS basées sur une licence et disponibles auprès des éditeurs ISV. Certaines tarifs d’application Azure peuvent également apparaître ici. Ces informations sont mises à jour quotidiennement, ce qui vous permet de vérifier les prix actuels aussi souvent que vous le souhaitez.
+3. Faites défiler jusqu’à la section **Marketplace** , sélectionnez un emplacement et téléchargez la **tarification Marketplace**. Cela génère une feuille de calcul avec les données de tarification les plus récentes pour les offres SaaS basées sur une licence et disponibles auprès des éditeurs ISV. Certaines tarifs d’application Azure peuvent également apparaître ici. Ces informations sont mises à jour quotidiennement, ce qui vous permet de vérifier les prix actuels aussi souvent que vous le souhaitez.
 
 4. Si un produit ISV comprend une période d’essai gratuite, la feuille de calcul affiche deux lignes pour ce produit :
 
@@ -105,6 +105,6 @@ Pour en savoir plus sur l’expérience ISV dans le Marketplace commercial, cons
 
 Pour plus d’informations sur l’expérience du fournisseur de services Cloud sur la place de marché, consultez [Présentation du marché commercial](csp-commercial-marketplace-overview.md).
 
-## <a name="next-steps"></a>Étapes suivantes :
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Acheter des offres de la place de marché commercial](csp-commercial-marketplace-purchase.md)
