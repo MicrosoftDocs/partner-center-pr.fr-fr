@@ -1,7 +1,7 @@
 ---
 title: Compétences Microsoft requises pour les niveaux d’adhésion Gold et Silver | Espace partenaires
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les compétences requises pour obtenir les niveaux d’adhésion Gold ou Silver.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, adhésion silver, adhésion gold, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau, spécialisations avancées
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226215"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120380"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informations sur les compétences de niveau Silver et Gold et les spécialisations avancées Microsoft
 
@@ -31,6 +31,16 @@ Mettez en évidence votre expertise éprouvée en solutions de qualité dans un 
 - En tant que membre partenaire Gold, vous pouvez aussi ajouter des spécialisations avancées à votre portefeuille.
 
 L’acquisition de compétences de niveau d’adhésion **Silver** ou **Gold** vous donne également accès à de riches programmes et offres de [commercialisation](mpn-learn-about-go-to-market-benefits.md) pour vous aider à développer votre activité.
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>Vérifier votre statut au fur et à mesure que vous acquérez une compétence
+
+Vous pouvez voir les exigences et ce que votre entreprise a obtenu dans la zone de compétences de votre tableau de bord de l’Espace partenaires.
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires.
+
+2. Sous la section MPN du menu de l’Espace partenaires, sélectionnez **Compétences**. 
+
+3. Sélectionnez le nom de la compétence et l’option de compétence spécifique pour afficher les détails. Vous pouvez voir ce que vous avez effectué ainsi que toutes les exigences et les liens vers les examens spécifiques et les dates de validation des examens supprimés.
 
 ## <a name="competency-areas"></a>Domaines de compétence
 
