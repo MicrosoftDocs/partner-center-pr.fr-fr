@@ -6,28 +6,28 @@ description: Votre facture est un résumé de toutes les facturations de l’esp
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: jasonwhowell
-ms.author: jasonh
-keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture Fournisseur de solutions Cloud, où est ma facture ?
+author: LauraBrenner
+ms.author: labrenne
+keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation de l’espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture CSP, où est ma facture ?
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676842"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798707"
 ---
 # <a name="understand-your-bill"></a>Comprendre votre facture
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
 
-- Administrateur global
-- Administration de facturation
+- Administrateur général
+- Administrateur de la facturation
 - Agent d’administration
 
 
@@ -39,17 +39,17 @@ Microsoft émet une facture pour tous les frais liés à une licence (par exempl
 
 Par exemple,  
 
-**Scénario 1 [monnaie unique]** : le partenaire a acheté des licences pour l’offre 145P et O365,  
+**Scénario 1 [monnaie unique]**: le partenaire a acheté des licences pour l’offre 145P et O365,  
 
 - Le partenaire recevra une facture PDF et 2 fichiers de réconciliation couvrant les frais pour O365 et Azure (145p).  
 
-**Scénario 2 [monnaie unique]** : le partenaire a acheté pour Azure RI, Marketplace et/ou Azure plan, ainsi que des achats 145p. 
+**Scénario 2 [monnaie unique]**: le partenaire a acheté pour Azure RI, Marketplace et/ou Azure plan, ainsi que des achats 145p. 
 
 - Le partenaire recevra un fichier PDF de facture et un fichier de réconciliation couvrant les frais liés à Azure (145p). 
 
 - Le partenaire recevra un autre fichier PDF de facture et un fichier de réconciliation couvrant ses frais pour Azure RI, Marketplace, plan Azure. 
 
-**Scénario 3 [multidevise]** : le partenaire a acheté pour Azure RIen DKK et le plan Azure en DKK, ainsi que les achats de 145P en euros. 
+**Scénario 3 [multidevise]**: le partenaire a acheté pour Azure RIen DKK et le plan Azure en DKK, ainsi que les achats de 145P en euros. 
 
 - Le partenaire recevra un fichier PDF de facture et un fichier de rapprochement couvrant les frais relatifs à Azure RIen DKK. 
 

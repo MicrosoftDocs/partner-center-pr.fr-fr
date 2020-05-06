@@ -6,32 +6,32 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment afficher et exporter les journaux d’activité pour obtenir des informations sur les transactions de compte client et d’autres activités de gestion des partenaires liées aux clients.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: journaux d’activité, abonnement, abonnements, paiements, facturation, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390378"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798657"
 ---
 # <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 - Partenaires du programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
-- Administrateur global
-- Administration de facturation
+- Administrateur général
+- Administrateur de la facturation
 - Administrateur de la gestion des utilisateurs
 - Agent d’administration
-- Commercial
+- Agent commercial
 - Agent du support technique
 
 Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients. Les journaux de transaction fournissent des informations détaillées sur la transaction, y compris les abonnements achetés. Vous pouvez également exporter les journaux d’activité dans un fichier CSV (Comma-Separated Value) compatible avec Excel.
@@ -55,7 +55,7 @@ Les journaux d’activité fournissent des enregistrements correspondant aux act
     -   **Action** : action entreprise par le client, par exemple « création d’une référence »
     -   **Utilisateur partenaire** : partenaire associé à l’activité.
 
-4.  Sélectionnez **Exporter le journal** pour copier les données de l’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
+4.  Sélectionnez **Exporter le journal** pour copier les données d’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
     
  
 

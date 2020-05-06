@@ -6,34 +6,34 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Il est important d’en savoir plus sur les différents types de risques impliqués dans les transactions en ligne et les meilleures pratiques pour la gestion et l’atténuation de ces risques.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: fraude, mauvaise utilisation, utilisation acceptable, règles de bon usage, défaut de paiement, le client ne pas paye pas la facture, risque en ligne, vol de service, abus du service, suspendre un abonnement,
-author: jasonwhowell
-ms.author: jasonh
+keywords: fraude, utilisation abusive, utilisation acceptable, politique d’utilisation acceptable, non-paiement, client ne pas payer de facture, risque en ligne, vol de service, abus de service, suspendre un abonnement,
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390808"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798797"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion du non-paiement, des fraudes ou de la mauvaise utilisation dans l’espace partenaires
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion des défauts de paiement, des fraudes ou des utilisations abusives dans l’Espace partenaires
 
-S'applique à :
+S’applique à :
 
-- Centre pour partenaires
+- Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Agent d’administration
--   Administration de facturation
+-   Administrateur de la facturation
 
-Vous êtes financièrement responsable des achats frauduleux effectués par vos clients et/ou du défaut de paiement des services achetés par des clients. Par conséquent, *nous vous recommandons vivement de mettre en place les contrôles d’atténuation des risques de prévention et de détection des fraudes*.
+Vous êtes financièrement responsable des achats frauduleux de vos clients et/ou du non-paiement des services achetés par les clients. Par conséquent, *nous vous recommandons vivement de mettre en place les contrôles d’atténuation des risques de prévention et de détection des fraudes*.
 
-Pour éviter et/ou pallier le problème des activités frauduleuses ou de la mauvaise utilisation, il est important de comprendre les risques potentiels et de développer des stratégies et des pratiques propres à réduire l'exposition.
+Pour éviter et/ou résoudre les problèmes d’activité ou de mauvaise utilisation frauduleuses, il est important de comprendre les risques potentiels et de développer des stratégies et des pratiques qui peuvent réduire votre exposition.
 
 ## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Application de la stratégie d’utilisation acceptable de Microsoft
 
@@ -50,9 +50,9 @@ Voici quelques exemples de violations de la stratégie d’utilisation acceptabl
 - Courriers indésirables
 - Piratage
 - Attaques par déni de service distribué (DDoS)
-- Minage Bitcoin
-- Diffusion de logiciels malveillants
-- Revente d'abonnements piratés
+- Exploration de données Bitcoin
+- Distribution de logiciels malveillants
+- Revente d’abonnements piratés
 
 ## <a name="theft-of-service-risks"></a>Vol de risques de service
 
@@ -63,7 +63,7 @@ Le **vol de risques de service** signifie que les clients n’ont pas l’intent
 Voici quelques exemples de ces risques de transactions en ligne :
 
 - Transactions qui ne se produisent pas en personne (transactions de « carte de crédit absentes »)
-- Identités usurpées
+- Identités déreprésentéees
 - Services approvisionnés et utilisés avant la réception du paiement initial
 - Marchés émergents et/ou régions à risque élevé pour la fraude en ligne
 - Automatiser la création et l’achat de comptes par des acteurs incorrects
@@ -101,4 +101,4 @@ Les suggestions relatives à la gestion de la facturation cliente après achat s
 - N’acceptez pas les instruments de paiement à haut risque (tels que les cartes prépayées ou les cartes de valeur stockées).
 - Surveillez les paiements des clients et les comptes chrono. Appliquez de manière agressive des processus rappels standardisés pour des paiements tardifs ou un non-paiement.
 
-Pour découvrir plus en détail les stratégies de réduction des risques en ligne, consultez le [guide de gestion des risques des transactions en ligne.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+Pour plus d’informations sur les stratégies de réduction des risques en ligne, consultez le Guide de gestion des risques pour les [transactions en ligne.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)

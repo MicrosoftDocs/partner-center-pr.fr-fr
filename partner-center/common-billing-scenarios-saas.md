@@ -4,25 +4,25 @@ ms.topic: article
 ms.date: 03/26/2020
 description: En savoir plus sur les scénarios courants de facturation dans l’espace partenaires pour les transactions SaaS basées sur une licence.
 ms.assetid: ''
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: facturation, paiements, achat unique, achat périodique, abonnements, sièges
 ms.localizationpriority: medium
-ms.openlocfilehash: b509278166d858c64cfab6c98a27c266f9bc2c55
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 18565c3390559fafefd1f32dac85ff0d2310deb8
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390098"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798517"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>Scénarios de facturation pour les transactions SaaS basées sur une licence
 
 **Rôles appropriés**
 
 - Agent d’administration
-- Administration de facturation
+- Administrateur de la facturation
 - Agent du support technique
-- Commercial
+- Agent commercial
 
 
 Ces exemples de [scénarios de facturation courants](common-billing-scenarios.md) sont applicables aux abonnements de Software as a service basés sur une licence (SaaS) dans l’espace partenaires.
@@ -35,10 +35,10 @@ Dans cet exemple, vous avez acheté une version d’évaluation gratuite d’un 
 
 Les fichiers de rapprochement comporteront les frais suivants :
 
-| Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
+| Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | Nouveau | Évaluation gratuite |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 $ | 1 | 2 $ | Renouveler | Abonnement payant |
+| 10/06/2019 | 10/06/2019 | 07/09/2019 | 0 $ | 1 | 0 $ | Nouveau | Essai gratuit |
+| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 $ | 1 | 2 $ | Renouveler | Abonnement payant |
 
 ## <a name="cancel-a-free-trial-saas-subscription"></a>Annuler un abonnement SaaS d’évaluation gratuite
 
@@ -49,10 +49,10 @@ Dans ce scénario, vous avez acheté un abonnement SaaS d’essai gratuit basé 
 
 Le fichier de rapprochement inclut les frais suivants :
 
-| Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
+| Date d’achat | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Nouveau | Évaluation gratuite |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Annuler | Évaluation gratuite |
+| 10/06/2019 | 10/06/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Nouveau | Essai gratuit |
+| 10/06/2019 | 10/06/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Annuler | Essai gratuit |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convertir un abonnement SaaS de compteur personnalisé en une autre référence (SKU)
 
@@ -62,11 +62,11 @@ Dans ce scénario, vous avez acheté une référence (Silver) sous un produit et
 
 Le fichier de rapprochement inclut les frais suivants :
 
-| Date d’achat | SKU | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
+| Date d’achat | SKU | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 $ | 1 | 20 $ | Nouveau | Abonnement SaaS à compteur personnalisé |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 $ | 1 | -$20 | Convertir | Facture au prorata pour l’abonnement SaaS du compteur personnalisé |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | 10 $ | Convertir | Abonnement SaaS à compteur personnalisé |
+| 10/06/2019 | Argent | 10/06/2019 | 10/06/2019 | 20 $ | 1 | 20 $ | Nouveau | Abonnement SaaS à compteur personnalisé |
+| 10/06/2019 | Argent | 10/06/2019 | 10/06/2019 | 20 $ | 1 | -$20 | Convertir | Facture au prorata pour l’abonnement SaaS du compteur personnalisé |
+| 10/06/2019 | Bronze | 10/06/2019 | 10/06/2019 | $10 | 1 | $10 | Convertir | Abonnement SaaS à compteur personnalisé |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Acheter et annuler un abonnement SaaS client à la même date
 
@@ -74,7 +74,7 @@ Ce scénario décrit la facturation d’un abonnement SaaS client Meter que vous
 
 Dans ce scénario, vous avez acheté un abonnement SaaS à compteur personnalisé sur la Portail Azure. Ensuite, vous avez annulé l’abonnement à la même date.
 
-| Date d’achat | SKU | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de frais | Description de l’abonnement |
+| Date d’achat | SKU | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | 10 $ | Nouveau | Abonnement SaaS à compteur personnalisé |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 $ | 1 | -$10 | CancelImmediate | Abonnement SaaS à compteur personnalisé |
+| 10/06/2019 | Bronze | 10/06/2019 | 10/06/2019 | $10 | 1 | $10 | Nouveau | Abonnement SaaS à compteur personnalisé |
+| 10/06/2019 | Bronze | 10/06/2019 | 10/06/2019 | $10 | 1 | -$10 | CancelImmediate | Abonnement SaaS à compteur personnalisé |

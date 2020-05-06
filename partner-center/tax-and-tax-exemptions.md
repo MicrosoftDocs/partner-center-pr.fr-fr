@@ -6,22 +6,22 @@ description: En savoir plus sur les responsabilités fiscales pour votre région
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: jasonwhowell
+author: LauraBrenner
 keywords: taxe, exonération fiscale, TVA, revendeur, facturation
-ms.author: jasonh
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390628"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797697"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Taxes et exonérations fiscales
 
-S'applique à :
+S’applique à :
 
-- Centre pour partenaires
+- Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 Le programme fournisseur de solutions Cloud (CSP) est un canal de vente axé sur la revente des produits partenaires. Par conséquent, Microsoft n’est pas toujours obligé de facturer les taxes sur les factures des partenaires. Les règles varient en fonction du pays et/ou de la région. Vous pouvez consulter [les détails spécifiques au pays et à la région pour les exemptions de taxe](#country-and-region-tax-details).
@@ -44,7 +44,7 @@ Pour une exemption de fichier PST BC, dépensez une exemption fiscale comme déc
 
 ### <a name="european-union"></a>Union européenne
 
-Dans les États membre de l’Union européenne, les partenaires doivent fournir leur numéro de&nbsp;TVA valide pour la taxe au preneur et pour une facturation appropriée. Le numéro de TVA doit être accepté comme valide.
+Dans les États membre de l’Union européenne, les partenaires doivent fournir leur numéro de&nbsp;TVA valide pour la taxe au preneur et pour une facturation appropriée. Le numéro de&nbsp;TVA doit être accepté comme valide.
 
 Microsoft ne prend pas en charge le crédit et la facturation. Avant de vendre des abonnements, vous devez [enregistrer votre numéro d’identification de TVA](organization-tax-info.md) dans l’espace partenaires.
 
@@ -86,8 +86,8 @@ Ensuite, créez un ticket de support pour Microsoft avec vos informations d’ex
 1. Dans le menu Tableau de bord, sous **support**, choisissez **demandes de support de partenaire**.
 2. Sur la page **demande de partenaire** , choisissez **nouvelle requête**. (Vous pouvez également afficher vos demandes de support ouvertes et fermées plus tard dans cette page.)
 3. À l’étape de **base** , **sous CSP-facturation et paiements**, choisissez **Sélectionner un type de problème** et sélectionner demande d' **exemption fiscale**.
-4. À l’étape **solutions** , sous avez **-vous besoin d’aide supplémentaire ?** , choisissez **Oui**.
-5. À l’étape **Détails** , renseignez le formulaire **Détails du problème** . Veillez à :
+4. À l’étape **solutions** , sous avez **-vous besoin d’aide supplémentaire ?**, choisissez **Oui**.
+5. À l’étape **Détails** , renseignez le formulaire **Détails du problème** . Veillez à effectuer les opérations suivantes :
 
     - Renseignez tous les champs obligatoires.
     - Incluez votre **ID Microsoft** et votre **ID MPN** dans le champ **Détails** .
@@ -95,7 +95,7 @@ Ensuite, créez un ticket de support pour Microsoft avec vos informations d’ex
 
 6. Choisissez Envoyer pour envoyer dans votre **demande de support** . Microsoft vous enverra un courrier électronique pour plus d’informations.
 
-## <a name="support"></a>Support
+## <a name="support"></a>Assistance
 
 Pour obtenir d’autres questions sur les exemptions et les remboursements de taxes, demandez de l’aide dans l’espace partenaires. Laissez deux&nbsp;semaines s’écouler pour que Microsoft vous contacte et résolve le problème.
 

@@ -1,69 +1,69 @@
 ---
-title: Application Analyse de l'Espace partenaires pour Power BI | Espace partenaires
+title: Application de l’analyse de l’espace partenaires pour Power BI | Espace partenaires
 ms.topic: article
 ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Présentation générale et Forum aux questions sur l’application Partner Center Analytics pour Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2ac56f7bdb13ceb9c27d514fa3ca8733591cd0d4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 6f69015639bd928b03ea08d7eee848c3a6a90669
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123294"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797607"
 ---
-# <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Application Analyse de l'Espace partenaires pour Power BI (partenaires directs du programme Fournisseur de services Cloud)
+# <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Application Analytique de l’Espace partenaires pour Power BI (partenaires directs dans CSP)
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 
 **Rôles appropriés**
--    Administrateur global
+-    Administrateur général
 -    Administrateur des utilisateurs
--    Commercial
+-    Agent commercial
 -    Agent d’administration
 
-Obtenez une représentation visuelle des données de votre entreprise avec l’application Analyse de l'Espace partenaires pour Power BI. L’application, conçue pour les partenaires directs dans le programme des fournisseurs de solutions Cloud (CSP), s'intègre à l’infrastructure familière de Power BI. 
+Obtenir une représentation visuelle de vos données d’entreprise avec l’application Partner Center Analytics pour Power BI. L’application, conçue pour les partenaires directs dans le programme fournisseur de solutions Cloud (CSP), se connecte à l’infrastructure de Power BI familière. 
 
 > [!NOTE]  
-> Vous êtes un partenaire direct si vous travaillez directement avec Microsoft et des clients. 
+> Vous êtes partenaire direct si vous travaillez directement avec Microsoft et avec des clients. 
 
-L'installation de l’application permet d'obtenir les affichages graphiques suivants : 
+Installez l’application pour recevoir des vues graphiques de : 
 
--    Croissance de votre nombre de clients, d’abonnements et de licences
+-    Croissance de votre base de clients, abonnements et licences
 
 -    Utilisation de produits Office 365, Microsoft Dynamics et Microsoft Azure
 
 -    Unités de consommation quotidienne par ressource contrôlée de chaque abonnement Azure au cours des 60 derniers jours
 
--    Coût estimé basé sur le dernier barème
+-    Coût estimé basé sur la carte à taux le plus récent
 
 -    Possibilité d’exporter des jeux de données et de créer des rapports personnalisés, notamment par client
 
 ## <a name="frequently-asked-questions"></a>Forum aux questions
 
-Nous vous recommandons de consulter nos réponses aux questions fréquemment posées avant d’installer l’application. 
+Nous vous recommandons de consulter les réponses aux questions les plus fréquentes avant d’installer l’application. 
 
 | **Question** | **Réponse** |
 | --- | ---------- |
-| Quel est le coût de cette application ? | L’application est gratuite. Pour afficher un aperçu de l’application, vous pouvez [vous inscrire au service Power BI gratuit](https://go.microsoft.com/fwlink/p/?linkid=845347) et l’utiliser pour personnaliser les tableaux de bord et les rapports. Pour autoriser d’autres personnes de votre société à utiliser l’application, vous devez disposer d’un abonnement actif à Microsoft Power BI Professionnel ou Microsoft Power BI Premium. |
-| Qui peut se connecter à l’application Analyse de l'Espace partenaires ? | Cette version de l’application est conçue pour les partenaires directs (niveau 1) du programme Fournisseur de solutions Cloud. Vous êtes un partenaire direct si vous travaillez directement avec Microsoft et des clients. Pour installer l’application, vous devez être administrateur général, agent admin ou administrateur de facturation pour le compte de votre société. |
-| Je suis un fournisseur indirect ; puis-je utiliser l’application ? | Oui. Votre administrateur général, agent administrateur ou administrateur de facturation peut installer l’application et voir les données relatives à vos clients directs. Les versions futures peuvent inclure des fonctionnalités qui vous permettent de voir également les données relatives à vos revendeurs indirects. |
-| Comment puis-je obtenir des informations sur les versions futures ? | Des annonces et des versions d’évaluation sont rendues disponibles via le programme Utilisateur précoce de l'Espace partenaires. Vous pouvez également partager vos commentaires via le programme Utilisateur précoce. Si vous n’avez pas déjà participé au programme, Découvrez comment vous joindre. Consultez [rejoindre l’API de l’espace partenaires et le programme d’adoption précoce du kit de développement logiciel (SDK)](https://docs.microsoft.com/partner-center/develop/early-adopter-program).  |
-| Qui peut personnaliser les tableaux de bord et les rapports dans l’application ? | Seul l’administrateur général, l'agent administrateur ou l'administrateur de facturation qui a installé l’application peut personnaliser le tableau de bord ou créer des rapports dans l’interface web de Power BI. |
+| Quel est le coût de l’application ? | L’application elle-même est gratuite. Pour afficher un aperçu de l’application, vous pouvez vous [inscrire à la service Power bi gratuite et l'](https://go.microsoft.com/fwlink/p/?linkid=845347) utiliser pour personnaliser les rapports et les tableaux de bord. Pour permettre à d’autres personnes de votre entreprise d’utiliser l’application, vous devez disposer d’un abonnement actif à Microsoft Power BI Professional ou Microsoft Power BI Premium. |
+| Qui peut se connecter à l’application Partner Center Analytics ? | Cette version de l’application est conçue pour les partenaires directs (niveau 1) dans le programme du fournisseur de solutions Cloud. Vous êtes partenaire direct si vous travaillez directement avec Microsoft et avec des clients. Pour installer l’application, vous devez être administrateur général, agent admin ou administrateur de facturation pour le compte de votre société. |
+| Je suis un fournisseur indirect ; puis-je utiliser l’application ? | Oui. Votre administrateur général, votre agent admin ou votre administrateur de facturation peut installer l’application et voir les données relatives à vos clients directs. Les versions ultérieures peuvent inclure des fonctionnalités qui vous permettront également de voir des données concernant vos revendeurs indirects. |
+| Comment puis-je en savoir plus sur les futures mises en production ? | Les annonces et les versions préliminaires sont mises à disposition par le biais du programme d’adoption de l’espace partenaires. Vous pouvez également partager vos commentaires par le biais du programme early adopter. Si vous n’avez pas déjà participé au programme, Découvrez comment vous joindre. Consultez [rejoindre l’API de l’espace partenaires et le programme d’adoption précoce du kit de développement logiciel (SDK)](https://docs.microsoft.com/partner-center/develop/early-adopter-program).  |
+| Qui peut personnaliser les tableaux de bord et les rapports dans l’application ? | Seul l’administrateur général, l’agent admin ou l’administrateur de facturation qui a installé l’application peut personnaliser le tableau de bord ou créer des rapports dans l’interface Web Power BI. |
 | Qui peut afficher les tableaux de bord et les rapports dans l’application ? | L’administrateur général, l’agent admin ou l’administrateur de facturation qui a installé l’application peut partager les données de l’application avec toute personne disposant d’un abonnement actif à Microsoft Power BI professionnel ou Microsoft Power BI Premium. |
-| Puis-je utiliser l’application pour afficher les données de plusieurs clients Azure AD, répartis sur plusieurs sites ? | Avec cette version, vous pouvez afficher des données uniquement à partir du client Azure AD auquel votre administrateur général ou agent administrateur s'est connecté. | 
-| Quand l’application sera-t-elle disponible dans les langues supplémentaires ? | Des annonces de feuille de route sont publiées via le programme Utilisateur précoce de l'Espace partenaires. Si vous n’êtes pas déjà participant au programme, inscrivez-vous dès maintenant à [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program). Vous pouvez également partager vos commentaires via le programme Utilisateur précoce. | 
+| Puis-je utiliser l’application pour afficher les données de plusieurs locataires de Azure AD, entre différents emplacements ? | Avec cette version, vous pouvez afficher uniquement les données du locataire Azure AD auquel votre administrateur général ou votre agent d’administration est connecté. | 
+| Quand l’application sera-t-elle disponible dans d’autres langues ? | Les annonces de feuille de route sont publiées par le biais du programme d’adoption de l’espace partenaires. Si vous n’êtes pas déjà participant au programme, inscrivez-vous dès maintenant à [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program)l’adresse. Vous pouvez également partager vos commentaires par le biais du programme early adopter. | 
 
 
 
-## <a name="next-steps"></a>Étapes suivantes :
+## <a name="next-steps"></a>Étapes suivantes
 
 [Installer et prévisualiser l’application Analyse de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 

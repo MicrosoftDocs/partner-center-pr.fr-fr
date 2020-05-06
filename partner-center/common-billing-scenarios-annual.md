@@ -4,157 +4,157 @@ ms.topic: article
 ms.date: 11/25/2019
 description: 'Consultez facturation annuelle de l’espace partenaires : lorsque vous ajoutez de nouveaux abonnements, ajoutez des licences avant la date de facturation, modifiez le nombre de licences, interrompez/réactivez les abonnements.'
 ms.assetid: ''
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: fdfb242f51556ce924d06d7a35f32cf726803fe3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390158"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798547"
 ---
 # <a name="annual-billing-scenarios"></a>Scénarios de facturation annuelle
 
 **Rôles appropriés**
 
 - Agent d’administration
-- Administration de facturation
+- Administrateur de la facturation
 - Agent du support technique
-- Commercial
+- Agent commercial
 
 Ces exemples de [scénarios de facturation courants](common-billing-scenarios.md) sont applicables si vous utilisez la facturation annuelle dans l’espace partenaires.
 
 ## <a name="new-annual-subscription"></a>Nouvel abonnement annuel
 
-Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier un nouvel abonnement avec une licence pour 4 $/mois et sélectionnez une facturation annuelle. Le 15 janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez facturation annuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
+1/13/2018|1/12/2019|Frais au prorata à l’achat|48,00|1|48,00
 
 ## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Ajouter une licence après la date anniversaire de l’abonnement, mais avant la date de facturation
 
-Vous achetez un nouvel abonnement le 11/02/2017 avec une licence pour 211,20 USD par an. L'anniversaire de votre abonnement est fixé au 11 de chaque mois. Le système de facturation de Microsoft crée les lignes de facturation suivantes :
+Vous achetez un nouvel abonnement sur 2/11/17 avec une licence pour $211.20/year. Votre anniversaire d’abonnement est défini comme le 11 de chaque mois. Le système de facturation Microsoft crée les lignes de facturation suivantes :
 
 - Frais de 211,20 USD pour la période du 11/02/17 au 10/02/18.
 
-Le 12/02/17, vous achetez une deuxième licence. Votre date de facturation est le 14/02/17. Une facture et un fichier de rapprochement sont générés. Le fichier de rapprochement contient les lignes de facturation suivantes :
+Le 2/12/17, vous achetez une deuxième licence. La date de facturation est 2/14/17. Un fichier de facture et de rapprochement sont générés. Le fichier de réconciliation contient les lignes de facturation suivantes :
 
-|Date de début de facturation  |Date de fin de facturation  |Type de facturation  |Prix unitaire |Quantité | Montant |
+|Date de début de facturation  |Date de fin de la facturation  |Type de frais  |Unit Price |Quantité | Montant |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
-|11/02/2017 |10/02/2018 |Frais au prorata à l'achat |211,20 |1 | 211,20 |
+|2/11/2017 |2/10/2018 |Frais au prorata à l'achat |211,20 |1 | 211,20 |
 
-À l'anniversaire de votre abonnement, le 11/03/17, le système de facturation Microsoft crée les lignes de facturation suivantes pour l'augmentation du nombre de licences le 12/02/17 :
+À la date anniversaire de votre abonnement, 3/11/17, le système de facturation Microsoft crée les lignes de facturation suivantes pour l’augmentation de la licence sur 2/12/17 :
 
 - $211,20 crédit pour la période 2/11/17-2/10/18.
-- Frais de 0,58 USD calculés au prorata par licence pour 1 licence pour la période du 11/02/17 au 11/02/17.
-- Frais de 15,62 USD calculés au prorata par licence pour 2 licences pour la période du 12/02/17 au 10/03/17.
-- Frais de 195,00 USD calculés au prorata par licence pour 2 licences pour la période du 11/03/2017 au 10/02/2018.
+- $0,58 facturation au prorata par licence pour 1 licence pour la période 2/11/17-2/11/17.
+- $15,62 facturation au prorata par licence pour 2 licences pour la période 2/12/17-3/10/2017.
+- $195,00 facturation au prorata par licence pour 2 licences pour la période 3/11/2017-2/10/2018.
 
-Le 11/02/17, vous achetez un abonnement. Le 12/02/17, vous ajoutez une licence. Votre date de facturation est le 14/02/17. Le 11/02/18, votre abonnement est renouvelé.
+Le 2/11/17, vous achetez un abonnement. Le 2/12/17, vous ajoutez une licence. La date de facturation est 2/14/17. Le 2/11/18, votre abonnement renouvelle.
 
-Votre prochaine date de facturation est le 14/03/17, et une facture et un fichier de rapprochement sont générés. Le fichier de rapprochement contient les lignes de facturation suivantes :
+La prochaine date de facturation est le 3/14/17 et une facture & fichier de rapprochement sont générés. Le fichier de réconciliation contient les lignes de facturation suivantes :
 
-|Date de début de facturation  |Date de fin de facturation  |Type de facturation  |Prix unitaire |Quantité | Montant |
+|Date de début de facturation  |Date de fin de la facturation  |Type de frais  |Unit Price |Quantité | Montant |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
-|11/02/2017 |10/02/2018 |Instance de cycle au prorata |-211,20 |1 |-211,20 |
-|11/02/2017 |11/02/2017 |Instance de cycle au prorata |0,58 |1 |0,58 |
-|12/02/2017 |10/03/2017 |Instance de cycle au prorata |15,62 |2 |31,25 |
-|11/03/2017 |10/02/2018 |Instance de cycle au prorata |195,00 |2 |390,00 |
+|2/11/2017 |2/10/2018 |Instance de cycle au prorata |-211,20 |1 |-211,20 |
+|2/11/2017 |2/11/2017 |Instance de cycle au prorata |0,58 |1 |0,58 |
+|2/12/2017 |3/10/2017 |Instance de cycle au prorata |15,62 |2 |31,25 |
+|3/11/2017 |2/10/2018 |Instance de cycle au prorata |195,00 |2 |390,00 |
 
-Le 11/02/18, l'abonnement est renouvelé pour une autre période de 12 mois.
+Le 2/11/18, l’abonnement renouvelle pour une durée de 12 mois.
 
 ## <a name="change-license-quantity"></a>Modifier le nombre de licences
 
-Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier un nouvel abonnement avec une licence pour 4 $/mois et sélectionnez une facturation annuelle. Le 15 janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez facturation annuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
+1/13/2018|1/12/2019|Frais au prorata à l’achat|48,00|1|48,00
 
-Le 1er février, vous ajoutez une licence supplémentaire. Le 15 février, le fichier de rapprochement basé sur les licences contiendra les lignes de facturation suivantes :
+Le 1er février, vous augmentez la quantité de licences de 1 à 2. Le fichier de rapprochement basé sur une licence du 15 février contient les lignes de facturation suivantes :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Instance de cycle au prorata|-48,00|1|-48,00
-13/01/2018|31/01/2018|Instance de cycle au prorata|2,47|1|2,47
-01/02/2018|12/01/2019|Instance de cycle au prorata|44,98|2|89,96
+1/13/2018|1/12/2019|Instance de cycle au prorata|-48,00|1|-48,00
+1/13/2018|31/01/2018|Instance de cycle au prorata|2.47|1|2.47
+1/2/2018|1/12/2019|Instance de cycle au prorata|44,98|2|89,96
 
-Le prix annuel est de 48,00 dollars, ce qui équivaut à un prix journalier de 0,13 (48,00/365).
+Le prix annuel est de 48,00, ce qui équivaut au tarif quotidien de 0,13 (48.00/365).
 
-Prix unitaire = jours dans la période de service x prix journalier x nombre de licences.
+Prix unitaire = jours de la période de service x cours journalier x nombre de licences.
 
-Il y a 19 jours dans la période de service (du 13/01/2018 au 31/01/2018).
+Il y a 19 jours dans la période de service 1/13/2018 – 1/31/2018.
 
-Par conséquent, le prix unitaire = 2,47 (19 x 0,13 x 1)
+Par conséquent, le prix unitaire est égal à 2,47 (19X 0,13 x1)
 
-Il y a 346 jours dans la période de service (du 01/02/2018 au 12/01/2019).
+La période de service 2/1/2018-1/12/2019 contient 346 jours.
 
-Par conséquent, le prix unitaire = 44,98 (346 x 0,13 x 2)
+Par conséquent, le prix unitaire est égal à 44,98 (346x 130 x2)
 
 ## <a name="suspend-before-30-days"></a>Suspendre avant 30 jours
 
-Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier un nouvel abonnement avec une licence pour 4 $/mois et sélectionnez une facturation annuelle. Le 15 janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez facturation annuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
+1/13/2018|1/12/2019|Frais au prorata à l’achat|48,00|1|48,00
 
-Le 1er février vous suspendez votre abonnement. Le 15 février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+Le 1er février, vous suspendez votre abonnement. Le fichier de rapprochement basé sur une licence du 15 février contiendra la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Annuler les frais|-48,00|1|-48,00
+1/13/2018|1/12/2019|Annuler les frais|-48,00|1|-48,00
 
 ## <a name="suspend-after-30-days"></a>Suspendre après 30 jours
 
-Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier un nouvel abonnement avec une licence pour 4 $/mois et sélectionnez une facturation annuelle. Le 15 janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez facturation annuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
+1/13/2018|1/12/2019|Frais au prorata à l’achat|48,00|1|48,00
 
-Le 15 février, le fichier de rapprochement basé sur les licences ne contiendra aucune ligne de facturation pour cet abonnement.
-Le 1er mars vous suspendez votre abonnement. Le 15 mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+Le fichier de rapprochement basé sur une licence du 15 février ne contient aucune ligne de facturation pour cet abonnement.
+Le 1er mars, vous suspendez votre abonnement. Le fichier de réconciliation basé sur une licence du 15 mars contient la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|12/01/2019|Annuler les frais|-41,34|1|-41,34
+3/1/2018|1/12/2019|Annuler les frais|-41,34|1|-41,34
 
-Le prix annuel est de 48,00 dollars, ce qui équivaut à un prix journalier de 0,13 (48,00/365).
+Le prix annuel est de 48,00, ce qui équivaut au tarif quotidien de 0,13 (48.00/365).
 
-Prix unitaire = jours dans la période de service x prix journalier x nombre de licences.
+Prix unitaire = jours de la période de service x cours journalier x nombre de licences.
 
-Il y a 318 jours dans la période de service (du 01/03/2018 au 12/01/2019).
+La période de service 3/1/2018-1/12/2019 contient 318 jours.
 
-Par conséquent, le prix unitaire = 41,34 (318 x 0,13 x 1) Dans la mesure où il s'agit d'un crédit, le prix unitaire est-41,34.
+Par conséquent, le prix unitaire est égal à 41,34 (318x 0,13 x1). Étant donné qu’il s’agit d’un crédit, le prix unitaire est-41,34.
 
 ## <a name="suspend-and-reactivate"></a>Interrompre et réactiver
 
-Votre date de facturation est le 15 de chaque mois. Vous achetez le 13 janvier un nouvel abonnement avec une licence pour 4 $/mois et sélectionnez une facturation annuelle. Le 15 janvier, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez facturation annuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Frais au prorata à l'achat|48,00|1|48,00
+1/13/2018|1/12/2019|Frais au prorata à l’achat|48,00|1|48,00
 
-Le 1er février vous suspendez votre abonnement. Le 15 février, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+Le 1er février, vous suspendez votre abonnement. Le fichier de rapprochement basé sur une licence du 15 février contiendra la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/01/2018|12/01/2019|Annuler les frais|-48,00|1|-48,00
+1/13/2018|1/12/2019|Annuler les frais|-48,00|1|-48,00
 
-Le 1er mars vous réactivez votre abonnement. Le 15 mars, le fichier de rapprochement basé sur les licences contiendra la ligne de facturation suivante :
+Le 1er mars, vous réactivez votre abonnement. Le fichier de réconciliation basé sur une licence du 15 mars contient la ligne de facturation suivante :
 
-|Date de début de facturation |Date de fin de facturation |Type de facturation |Prix unitaire |Quantité |Montant |
+|Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-01/03/2018|12/01/2019|Frais au prorata à l'achat|41,34|1|41,34
+3/1/2018|1/12/2019|Frais au prorata à l’achat|41,34|1|41,34
 
-Le prix annuel est de 48,00 dollars, ce qui équivaut à un prix journalier de 0,13 (48,00/365).
+Le prix annuel est de 48,00, ce qui équivaut au tarif quotidien de 0,13 (48.00/365).
 
-Prix unitaire = jours dans la période de service x prix journalier x nombre de licences.
+Prix unitaire = jours de la période de service x cours journalier x nombre de licences.
 
-Il y a 318 jours dans la période de service (du 01/03/2018 au 12/01/2019).
+La période de service 3/1/2018-1/12/2019 contient 318 jours.
 
-Par conséquent, le prix unitaire = 41,34 (318 x 0,13 x 1)
+Par conséquent, le prix unitaire est égal à 41,34 (318x 0,13 x1).

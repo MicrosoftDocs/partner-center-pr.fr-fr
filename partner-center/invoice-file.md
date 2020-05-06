@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 08/26/2019
 description: Comprendre les champs de votre fichier de facture pour la facturation de l’espace partenaires.
 ms.assetid: ''
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: facturation, facture
 ms.localizationpriority: medium
-ms.openlocfilehash: 1307a9a2f95cedde5eda7deefb61cb202597f804
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390908"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798897"
 ---
 # <a name="invoice-files"></a>Fichiers de facture
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
--   Administration de facturation
+-   Administrateur de la facturation
 -   Agent du support technique
 
 Vous pouvez utiliser les tableaux suivants pour comprendre les champs des fichiers de facture de l’espace partenaires.
@@ -31,25 +31,25 @@ Les champs suivants s’affichent sur vos fichiers de facture.
 
 | Champ | Définition |
 | ----- | ---------- |
-| Numéro d’identification américain FEIN | Votre numéro d’identification d’employeur fédéral (FEIN). Il s’agit de votre numéro d’identificateur fiscal fédéral États-Unis. |
+| US FEIN | Votre numéro d’identification d’employeur fédéral (FEIN). Il s’agit de votre numéro d’identificateur fiscal fédéral États-Unis. |
 | Numéro de client | Votre numéro de client. |
-| Adresse de facturation | Adresse d’expédition de votre facture. Vous pouvez modifier le nom et/ou l’adresse de votre société dans votre profil de facturation de l’espace partenaires. |
-| Frais basés sur la licence | Frais mensuels ou annuels fixes pour vos licences achetées basées sur l’utilisation, facturés à l’avance du service. Ce nombre correspond à la somme de tous les frais dans la colonne de **sous-total** (colonne **T**) de votre fichier de réconciliation basé sur les licences. |
+| Facturer à | Adresse d’expédition de votre facture. Vous pouvez modifier le nom et/ou l’adresse de votre société dans votre profil de facturation de l’espace partenaires. |
+| Frais basés sur les licences | Frais mensuels ou annuels fixes pour vos licences achetées basées sur l’utilisation, facturés à l’avance du service. Ce nombre correspond à la somme de tous les frais dans la colonne de **sous-total** (colonne **T**) de votre fichier de réconciliation basé sur les licences. |
 | Frais basés sur l’utilisation | Votre utilisation d’Azure. Cela comprend les nouveaux services ou applications activés et utilisés au cours de la période de facturation. Ce nombre correspond à la somme de tous les frais dans la colonne **PretaxCharges** (colonne **Z**) de votre fichier de réconciliation basé sur l’utilisation. |
 | Remises | Remise que le client reçoit du tarif normal de l’abonnement. Ce nombre est indiqué sous la forme d’un *montant fixe*, et non d’un prix unitaire ou d’une licence. |
 | Crédits | Crédits ou ajustements pour les modifications apportées aux abonnements (par exemple, augmentation ou diminution du siège). |
-| Sous-total | Total avant les taxes et frais et crédits hors taxes. |
-| Tax | Taxe totale de vos frais actuels, telle qu’elle est totalisée dans la section de **Détails** à partir de la page 2 de votre facture. Ce nombre correspond à la somme de tous les frais dans la colonne **TaxAmount** (colonne **AA**) de votre fichier de réconciliation basé sur l’utilisation, et de la colonne **Tax** (colonne **U**) dans votre fichier de réconciliation basé sur les licences. |
-| Autres crédits | Crédits hors taxes. |
-| Total des frais en cours | Montant dû dans votre devise de facturation pour la période de facturation. Ces frais sont dus à la date d’échéance du paiement. |
-| Instructions pour le paiement | Description de la façon de payer votre facture, en fonction de votre région. *Veillez à toujours inclure votre numéro de facture lors de l’exécution d’un paiement.* |
+| Sous-total | Total avant taxes et crédits et crédits hors taxes. |
+| Taxe | Taxe totale de vos frais actuels, telle qu’elle est totalisée dans la section de **Détails** à partir de la page 2 de votre facture. Ce nombre correspond à la somme de tous les frais dans la colonne **TaxAmount** (colonne **AA**) de votre fichier de réconciliation basé sur l’utilisation, et de la colonne **Tax** (colonne **U**) dans votre fichier de réconciliation basé sur les licences. |
+| Autres crédits | Crédits à taxe exclusive. |
+| Total des frais actuels | Montant dû dans votre devise de facturation pour la période de facturation. Ces frais sont dus à la date d’échéance du paiement. |
+| Instructions de paiement | Description de la façon de payer votre facture, en fonction de votre région. *Veillez à toujours inclure votre numéro de facture lors de l’exécution d’un paiement.* |
 | Numéro de facture | Numéro de votre facture. |
 | Période de facturation | Période mensuelle menant à la date de la facture. Il s’agit de la période pendant laquelle les services basés sur l’utilisation sont consommés et les services basés sur des licences sont conciliés pour les ajustements de crédit ou les modifications de nombre de licences. |
-| Date de facturation | Date de facturation ou date anniversaire à laquelle votre facture est générée chaque mois. |
-| Modalités de paiement | Conditions de paiement. Pour les achats ponctuels, le délai sera toujours de 60 jours. |
+| Date de facture | Date de facturation ou date anniversaire à laquelle votre facture est générée chaque mois. |
+| Modalités de paiement | Conditions de paiement. Pour des achats à usage unique, cette durée est toujours de 60 jours. |
 | Date d’échéance du paiement | Date à laquelle votre paiement doit être reçu. |
-| Numéro du bon de commande du client | Votre ordre de numéro d’achat. |
-| Service du client | L’adresse du site Web où vous pouvez accéder au service client. |
+| Numéro de l’ordre d’achat du client | Votre ordre de numéro d’achat. |
+| Service client | L’adresse du site Web où vous pouvez accéder au service client. |
 | Bénéficiaire du service | Adresse à laquelle le service est utilisé. (Il s’agit de l’adresse de la société légale associée à l’aide à la société.) |
 
 ## <a name="one-time-charges-fields"></a>Champs de frais à usage unique
@@ -62,7 +62,7 @@ Les champs suivants s’appliquent uniquement aux **frais à usage unique** dans
 | Description | Nom du produit. |
 | Quantité | Le nombre de produits (par exemple, réservations) achetés. |
 | Prix unitaire | Prix par produit (par exemple, une réservation). |
-| Remises | Toutes les remises applicables. |
-| Montant hors taxe | Sous-total des achats avant impôts. |
+| Remises | Les remises applicables. |
+| Montant avant impôt | Sous-total des achats avant taxes. |
 | Taxe de vente | Montant des taxes |
 | Total | Montant total à payer. |

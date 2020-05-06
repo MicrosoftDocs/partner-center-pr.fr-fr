@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment créer des comptes d’utilisateur et attribuer des rôles dans l’Espace partenaires pour chaque employé qui a besoin d’un accès. Les utilisateurs disposant de privilèges d’administrateur différents peuvent le faire.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: rôles, autorisations, ajouter un utilisateur, attribuer un rôle, administrateur, admin, agent
 ms.localizationpriority: high
-ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80389648"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798487"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Créer des comptes d’utilisateur et attribuer des autorisations
 

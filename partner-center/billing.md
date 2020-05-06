@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Liste des rubriques sur la facturation et les taxes dans l’Espace partenaires, notamment des informations sur les ressources de facturation, les factures, la facturation CSP et les taxes.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: high
-ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80634795"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798577"
 ---
 # <a name="billing-and-taxes"></a>Facturation et taxes
 

@@ -3,25 +3,25 @@ title: Avis de partenaire Office 365-Microsoft 365 Voice dans CSP | Espace parte
 description: Les services RTPC dans certains pays peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires.
 ms.topic: article
 ms.date: 04/07/2020
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Office, O365, RTPC, services, taxes, exigences, facture, facturation
 ms.localizationpriority: medium
-ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123284"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798787"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Avis de partenaire Office 365 : Microsoft 365 Voice dans CSP
 
 **S’applique à**
 
-- Centre pour partenaires  
+- Espace partenaires  
 
 **Rôles appropriés**
--    Administrateur global
+-    Administrateur général
 -    Administrateur des utilisateurs
 -    Agent d’administration
 
@@ -48,7 +48,7 @@ Office 365 Enterprise E5 présente le fichier de rapprochement sous la forme de 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office&nbsp;365 Enterprise&nbsp;E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Frais de cycle   |28,40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office&nbsp;365 Enterprise&nbsp;E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Frais de cycle   |2.00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office&nbsp;365 Enterprise&nbsp;E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Frais de cycle   |2,00   |
 
 **Exemple de #2 de rapprochement des partenaires**
 

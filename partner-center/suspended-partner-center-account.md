@@ -6,30 +6,30 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment restaurer un compte Espace partenaires suspendu, pourquoi un compte peut être suspendu et comment utiliser votre compte pendant la suspension.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 556de42091c778dda6a025e738da6e33291489fd
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: ee056513ce9cfed5e1cb406c3b9476114005ec77
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390638"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797927"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurer un compte Espace partenaires suspendu
 
-Cet article explique quoi faire si votre compte Espace partenaires est suspendu.
+Cet article explique ce qu’il faut faire si votre compte de l’Espace partenaires est suspendu.
 
 **S’applique à**
 
--  Centre pour partenaires
+-  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
 
 > [!IMPORTANT]  
 > Lorsque votre compte Espace partenaires est suspendu, vous pouvez continuer à gérer vos déploiements, licences et services. Toutefois, vous ne pouvez pas autoriser ou revendre de nouvelles licences ou services tant que votre compte n’est pas de nouveau en bonne position.
 
-## <a name="why-partner-center-accounts-are-suspended"></a>Pourquoi des comptes Espace partenaires sont suspendus
+## <a name="why-partner-center-accounts-are-suspended"></a>Motifs de suspension d’un compte de l’Espace partenaires
 
 Microsoft peut suspendre un compte Espace partenaires pour l'une des raisons suivantes :
 
@@ -37,7 +37,7 @@ Microsoft peut suspendre un compte Espace partenaires pour l'une des raisons sui
 - Utilisation abusive du compte
 - Problèmes affectant les opérations de fournisseur indirect et ayant un impact négatif sur votre compte (revendeurs indirects uniquement)
 
-## <a name="what-to-do-if-your-account-is-suspended"></a>Que faire si votre compte est suspendu
+## <a name="what-to-do-if-your-account-is-suspended"></a>Marche à suivre en cas de suspension de compte
 
 Si vous savez que votre compte est à jour, envoyez une demande au Support de l'Espace partenaires pour savoir pourquoi votre compte a été suspendu. 
 

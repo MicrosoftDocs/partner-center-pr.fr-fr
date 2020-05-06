@@ -6,39 +6,39 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Utilisez ces instructions pour consolider des locataires de différents pays/régions. Cela comprend les étapes de migration des comptes client et des abonnements client.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
-author: jasonwhowell
-ms.author: jasonh
-keywords: migration des clients, approvisionnement, compte client, consolider des locataires
+author: LauraBrenner
+ms.author: labrenne
+keywords: migrer des clients, approvisionnement, compte de locataire, consolider les locataires
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 04c39d15b9e2c0223ef472bc14de82faae12a449
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390968"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798447"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud
 
 **S’applique à**
 
--  Centre pour partenaires
+-  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 
-\[certaines informations se rattachent à un produit en version préliminaire qui peut être considérablement modifié avant sa publication commerciale. Microsoft exclut toute garantie, expresse ou implicite, en ce qui concerne les informations fournies ici.\]
+\[Certaines informations relatives aux produits précommercialisés peuvent être substantiellement modifiées avant leur commercialisation. Microsoft n’offre aucune garantie, expresse ou implicite, concernant les informations fournies ici.\]
 
 Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 
-**Remarque** Vous devez connaître tous les abonnements et le nombre de sièges de vos clients approvisionnés à partir des comptes de transition. Vous réapprovisionnerez ces mêmes abonnements avec le même nombre de sièges sous le nouveau compte central Fournisseur de solutions Cloud dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. Notez qu’une action peut également être requise de la part du client.
+**Remarque** Vous devez connaître tous les abonnements et le nombre de sièges de vos clients approvisionnés à partir des comptes de transition. Vous allez reconfigurer les mêmes abonnements exacts avec le même nombre de sièges sous le nouveau compte CSP central dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. Notez que l’action du client peut également être nécessaire.
 
 
 
-## <a name="prepare-for-migration"></a>Préparer la migration
+## <a name="prepare-for-migration"></a>Préparation de la migration
 
 
 -   Connectez-vous à votre **espace partenaires** à l’aide du compte de **transition** (existant) (celui que vous allez passer) et prenez note de tous les clients et de tous les services configurés pour ces clients.
@@ -50,7 +50,7 @@ Utilisez ces instructions pour consolider des locataires de différents pays/ré
 
 1.  Connectez-vous à votre **espace partenaires** à l’aide du compte de **transition** (nouveau) (celui dans lequel vous effectuez la transition) et accédez à la liste Customers **(clients).**
 
-2.  Sélectionnez les clients.
+2.  Sélectionnez Clients.
 
 3.  Cliquez sur **Demander une relation de revendeur**. Un message électronique par défaut à présenter à vos clients s’affiche. Ce message contient une URL avec l’ID d’organisation propre à votre nouveau compte Espace partenaires.
 
@@ -75,7 +75,7 @@ Les clients s’affichent dans la liste des clients du partenaire après l’env
 
 ![Liste des clients](images/regionalcustomer2.png)
 
-6.  Cliquez sur **Envoyer**.
+6.  Cliquez sur **Envoyer.**
 
 Les services sont maintenant fournis au client à partir du compte de partenaire **Transition vers**.
 
@@ -83,7 +83,7 @@ Répétez ces étapes pour migrer les abonnements de tous les clients supplémen
 
 Avant de passer à la section suivante, vérifiez que tous les abonnements client existant sous les comptes de partenaire **Transition à partir de** sont ré-approvisionnées sous le compte de partenaire **Transition vers**.
 
-**Remarque** Les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir de** dans l’Espace partenaires, le jour où ces abonnements sont transférés et configurés sous le compte de locataire partenaire **Transition vers** dans l’Espace partenaires pour éviter une double facturation. Les demandes de support seront refusées pour les crédits résultant d’un chevauchement dans la facturation à cause d’une désactivation incorrecte des abonnements **Transition à partir de**.
+**Remarque**  Les partenaires doivent suspendre les abonnements lors de la transition **à partir du** compte de locataire partenaire dans l’espace partenaires le même jour que ces abonnements sont migrés et configurés dans le cadre du compte de locataire de partenaire dans l’espace partenaires pour s’assurer **que la double** facturation n’a pas lieu. Les demandes de support seront refusées pour les crédits résultant d’un chevauchement dans la facturation à cause d’une désactivation incorrecte des abonnements **Transition à partir de**.
 
 
 
@@ -126,7 +126,7 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 6.  Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. Le partenaire reçoit une facture finale avec un crédit pour le nombre de jours inutilisés entre le jour de l’annulation et le dernier jour de la période de facturation. Aucune facture n’est générée après cette période de facturation finale.
 
-### <a name="notes"></a>Remarques
+### <a name="notes"></a>Notes
 
 -   La désactivation de l’abonnement de la **transition à partir** du compte CSP n’a pas d’impact sur le service du client final, à condition que le service ait été approvisionné à partir du compte de **transition vers** CSP avant la désactivation.
 
