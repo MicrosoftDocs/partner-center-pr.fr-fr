@@ -1,54 +1,54 @@
 ---
-title: Commercialiser Office 365 Secteur Public GCC pour fournisseur de solutions Cloud | Espace partenaires
+title: Vendez Office 365 Government GCC pour CSP | Espace partenaires
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les étapes et la configuration requise pour vendre des abonnements à Office 365 Government GCC pour CSP à des clients qualifiés États-Unis Government ou à des entrepreneurs.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb6402512ea70f3d6a621b140459c0b217478fef
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c0bfbc6bba6e6e20bff06b794ad47c0bf225932a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389568"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798497"
 ---
-# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vendre des abonnements Office 365 Secteur Public GCC pour fournisseur de solutions Cloud à des clients qualifiés
+# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vendre des abonnements Office 365 Government GCC pour CSP à des clients qualifiés
 
 **S’applique à**
 
--  Centre pour partenaires
--  Partenaires fournisseurs de solutions Cloud
+-  Espace partenaires
+-  Partenaires fournisseurs de solutions cloud
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Agent d’administration
-- Commercial
+- Agent commercial
 
-## <a name="overview"></a>Overview
+## <a name="overview"></a>Vue d’ensemble
 
-Les partenaires Microsoft du programme Fournisseur de solutions Cloud peuvent vendre des abonnements [Office 365 Secteur Public GCC pour fournisseur de solutions Cloud](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) à des clients qualifiés. Office 365 Secteur Public GCC pour fournisseur de solutions Cloud est conçu pour les besoins uniques des organisations gouvernementales américaines et fournit toutes les fonctionnalités des services Office 365 dans une communauté cloud gouvernementale segmentée qui permet aux organisations de respecter les normes de conformité et de sécurité du gouvernement américain. 
+Les partenaires Microsoft du programme fournisseur de solutions Cloud (CSP) peuvent vendre des abonnements [Office 365 Government GCC pour CSP à des](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) clients qualifiés. Office 365 Government GCC pour CSP est conçu pour répondre aux besoins uniques des organisations gouvernementales américaines et fournit toutes les fonctionnalités et fonctionnalités des services Office 365 dans une communauté de clouds du secteur public, qui permet aux entreprises de répondre aux normes de conformité et de sécurité de l’administration des États-Unis. 
 
 >[!IMPORTANT] 
->Pour pouvoir vendre des abonnements Office 365 Secteur Public GCC pour fournisseur de solutions Cloud, votre entreprise doit être autorisée à vendre à des clients qualifiés. De plus, pour que les clients puissent acheter et utiliser des abonnements Office 365 Secteur Public GCC pour fournisseur de solutions Cloud, ils doivent respecter les exigences d’éligibilité. Voir [critères d'admissibilité du partenaire et du client](csp-gcc-validate.md) pour des informations importantes.
+>Avant de pouvoir vendre des abonnements Office 365 Government GCC pour CSP, votre entreprise doit être approuvée pour vendre à des clients qualifiés. Et avant que les clients puissent acheter et utiliser les abonnements Office 365 Government GCC pour CSP, ils doivent remplir les conditions d’éligibilité. Pour obtenir des informations importantes, consultez les [critères d’éligibilité des partenaires et des clients](csp-gcc-validate.md) .
 
 
-## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Vendre des abonnements Office 365 Secteur Public GCC pour fournisseur de solutions Cloud
+## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Vendre des abonnements Office 365 Government GCC pour CSP
 
 Une fois que votre entreprise a été approuvée pour vendre Office 365 Government GCC pour les offres CSP, vous pouvez commencer à vendre des clients à l’aide de l’espace partenaires. Reportez-vous à ces ressources pour apprendre à utiliser l’espace partenaires pour vendre des abonnements : 
 
--   Pour consulter un guide de procédure de vente d'abonnements Office 365 Secteur Public GCC pour fournisseur de solutions Cloud, cliquez [ici](https://go.microsoft.com/fwlink/?linkid=2007323).  
+-   Pour obtenir un guide pas à pas pour la vente d’abonnements Office 365 Government GCC pour CSP, cliquez [ici](https://go.microsoft.com/fwlink/?linkid=2007323).  
 
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 
-Accédez aux informations sur les [opportunités de partenariat dans le gouvernement des États-Unis](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) sur le site Microsoft 365 pour partenaires.
+Accédez aux informations sur l' [opportunité de partenaire du gouvernement américain](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) sur le site Microsoft 365 pour les partenaires.
 
-Ressources de produit :
+Ressources du produit :
 
 - [Description du service Office 365 Government](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)

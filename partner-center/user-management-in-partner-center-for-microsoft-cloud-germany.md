@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment et où gérer l’espace partenaires pour les partenaires, les clients et les licences de Microsoft Cloud Allemagne, ainsi que les réinitialisations de mot de passe.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f6a5f1c4a64e6bb9f80204dbbf6100b8441bc37
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 923d7a389e3eb81d2bb20422182f53c14af72746
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390488"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797677"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany
 
@@ -32,27 +32,27 @@ Fonction ou fonctionnalité | Effectuer des tâches dans
 :--- | :---
 Gestion des utilisateurs partenaires | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
 Gestion des utilisateurs du client | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
-Réinitialiser le mot de passe de l’utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
+Réinitialiser le mot de passe de l'utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
 Gestion des licences | Centre d’administration Office 365 ou portail de gestion des licences Azure Active Directory de Microsoft Cloud Germany
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Comment gérer les utilisateurs dans le portail Azure de Microsoft Cloud Germany 
 
-Si vous êtes connecté à l'Espace partenaires de Microsoft Cloud Germany, vous pouvez ouvrir le portail Azure de Microsoft Cloud Germany sans avoir à se reconnecter. Toutefois, si vous devez vous connecter directement au portail Azure de Microsoft Cloud Germany, accédez à [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+Si vous êtes connecté à l'Espace partenaires de Microsoft Cloud Germany, vous pouvez ouvrir le portail Azure de Microsoft Cloud Germany sans avoir à se reconnecter. Toutefois, si vous devez vous connecter directement au Portail Azure pour Microsoft Cloud Allemagne, accédez à [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
 Une fois que vous êtes connecté au portail Azure de Microsoft Cloud Germany, ouvrez votre page de présentation d’Azure Active Directory (Azure AD) et suivez les instructions de ces rubriques :
 
 > [!NOTE]  
 > Sélectionnez les liens ci-dessous pour accéder à un autre site Web. 
 
--  [Ajouter de nouveaux utilisateurs à Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Ajout de nouveaux utilisateurs à Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Affecter un utilisateur à des rôles d’administrateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Attribuer des rôles d’administrateur à un utilisateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [Réinitialiser le mot de passe d’un utilisateur dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Rubriques connexes**
 
--  [Microsoft Azure Allemagne](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Espace partenaires de Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md)
 

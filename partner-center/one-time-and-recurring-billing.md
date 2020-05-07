@@ -3,29 +3,29 @@ title: Facturation pour une seule fois et sélection de frais récurrents | Espa
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informations sur la facturation unique à l’avance pour une période prédéfinie (abonnements mensuels et annuels) et facturation pour les frais récurrents de sélection (pour les produits ISV Microsoft et tiers applicables) dans l’espace partenaires.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: facturation, ponctuelle, périodique, achats, frais, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390778"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798777"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturation ponctuelle et frais récurrents
 
 **S’applique à**
-- Centre pour partenaires
+- Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
--   Administration de facturation
+-   Administrateur de la facturation
 -   Agent d’administration
--   Commercial
+-   Agent commercial
 
 Cette rubrique décrit l’expérience de facturation pour **une période unique et sélectionne des frais périodiques** pour les produits Microsoft et des éditeurs de logiciels indépendants tiers. 
 
@@ -51,7 +51,7 @@ L' **activité de facturation** actuelle n’est *pas disponible* pour ces types
 
 ## <a name="microsoft-and-third-party-isv-product-charges"></a>Frais liés aux produits ISV Microsoft et tiers
 
-Les **frais récurrents** et les **frais ponctuels** sont émis pour les **produits ISV Microsoft et tiers**. Les produits applicables incluent tous les abonnements SaaS, les réservations Azure et les produits logiciels payants et basés sur un abonnement proposés par Microsoft et des éditeurs de logiciels indépendants tiers. Consultez les produits disponibles sur la place de marché. Citons par exemple le logiciel SUSE Linux (abonnements logiciels), Windows Server 2019 Essentials (logiciel perpétuel) et les abonnements aux produits Azure ISV SaaS.
+Les **frais récurrents** et les **frais ponctuels** sont émis pour les **produits ISV Microsoft et tiers**. Les produits applicables incluent tous les abonnements SaaS, les réservations Azure et les produits logiciels payants et basés sur un abonnement proposés par Microsoft et des éditeurs de logiciels indépendants tiers. Consultez les produits disponibles sur la Place de marché. Citons par exemple le logiciel SUSE Linux (abonnements logiciels), Windows Server 2019 Essentials (logiciel perpétuel) et les abonnements aux produits Azure ISV SaaS.
 
 Pour les frais applicables du produit, la **Date de facturation** est le 8ème jour de chaque mois. La **période de facturation** commence le premier jour du mois civil et se termine le dernier jour du mois civil. Toutes les transactions que vous effectuez entre le 1er mai et le 31 mai 2019 s’affichent sur votre facture le 8 juin. Toutes les transactions que vous effectuez entre le 1er et le 30 juin 2019 apparaissent sur votre facture le 8 juillet. Vous pouvez être facturé pour des achats récurrents et ponctuels sur la même facture.
 

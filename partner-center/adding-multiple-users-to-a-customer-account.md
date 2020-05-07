@@ -6,30 +6,30 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment ajouter simultanément plusieurs utilisateurs au compte d’un client, en chargeant un fichier de données au format de fichier de valeurs séparées par des virgules (. csv) dans l’espace partenaires.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: jasonwhowell
-ms.author: jasonh
-keywords: chargement groupé, ajouter plusieurs utilisateurs à un compte client, ajouter des utilisateurs du client, chargement groupé des utilisateurs du client, compte client, utilisateurs du client, utilisateurs
+author: LauraBrenner
+ms.author: labrenne
+keywords: le chargement en bloc, l’ajout de plusieurs utilisateurs au compte d’un client, l’ajout d’utilisateurs du client, le téléchargement en bloc des utilisateurs du client, le compte client, les utilisateurs clients, les utilisateurs
 ms.localizationpriority: medium
-ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390368"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798627"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Ajouter plusieurs utilisateurs à un compte client
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 
 Vous pouvez ajouter simultanément plusieurs utilisateurs au compte d’un client, en chargeant un fichier de données au format de fichier de valeurs séparées par des virgules (. csv) dans l’espace partenaires. Vous pouvez télécharger un exemple de fichier de données à partir de l’espace partenaires, puis le modifier pour votre utilisation, ou vous pouvez créer un nouveau fichier de données à l’aide du modèle de données défini ci-dessous.
 
-## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Exigences relatives aux fichiers de données
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Conditions requises pour les fichiers de données
 
 Pour ajouter plusieurs utilisateurs au compte d’un client à l’aide du processus de téléchargement en bloc, vous devez respecter les conditions suivantes :
 
@@ -43,12 +43,12 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nom de la colonne** | **Description**                                                              | **Contrainte**                             |
-| Prénom      | Prénom de l’utilisateur (champ facultatif)                                           | 50&nbsp;caractères maximum                         |
-| Nom       | Nom de l’utilisateur (champ facultatif)                                            | 50&nbsp;caractères maximum                         |
-| Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | 50&nbsp;caractères maximum                         |
-| E-mail           | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse de messagerie unique. |
-| Mise à jour de l’état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*laissez un\*vide \*                        |
+| **Nom de la colonne** | **Description**                                                              | **Limite**                             |
+| Prénom      | Prénom de l’utilisateur (champ facultatif)                                           | limité à 50 caractères                         |
+| Nom       | Nom de l’utilisateur (champ facultatif)                                            | limité à 50 caractères                         |
+| Nom complet    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | limité à 50 caractères                         |
+| E-mail           | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
+| Mise à jour de l'état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*Conserver vide\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Pour créer plusieurs comptes d’utilisateur
 
@@ -68,15 +68,15 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 
 7. Sélectionnez **Valider**.
 
-    **Notez**  la plupart des erreurs de création de compte sont provoquées par des problèmes de fichiers de données, notamment des informations manquantes, des adresses de messagerie incorrectes ou en double ou des enregistrements trop nombreux dans le fichier.
+    **Notez**  que la plupart des erreurs de création de compte sont provoquées par des problèmes de fichiers de données, notamment des informations manquantes, des adresses de messagerie incorrectes ou en double ou des enregistrements trop nombreux dans le fichier.
 
 8. Une fois que l’espace partenaires a validé le fichier, sélectionnez l' **emplacement** géographique pour les nouveaux utilisateurs.
 9. Sélectionnez **Enregistrer**.
-10. Téléchargez le mot de passe temporaire des utilisateurs.
+10. Chargez les informations sur le mot de passe temporaire pour les utilisateurs.
 
 **IMPORTANT&nbsp;:** n’oubliez pas de télécharger le fichier avec les mots de passe temporaires maintenant, car cette opération ne sera plus possible après. Les nouveaux utilisateurs doivent se connecter à leur nouveau compte à l’aide du mot de passe temporaire correspondant.
 
-10. Les autorisations **Peut utiliser les licences et services** sont automatiquement attribuées aux nouveaux utilisateurs. 
+10. Les autorisations qui sont attribuées automatiquement aux nouveaux utilisateurs **peuvent utiliser des licences et des services** . 
 
  
 

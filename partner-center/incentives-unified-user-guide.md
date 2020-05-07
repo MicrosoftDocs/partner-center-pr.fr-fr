@@ -5,25 +5,25 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: En savoir plus sur l’accès à vos informations de paiement. Cela s’applique aux paiements des applications et des jeux Windows, ainsi qu’aux paiements d’incentives MPN.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Incentives, paiement
 ms.localizationpriority: medium
-ms.openlocfilehash: e83fa96a4175dbcf792b7653237457bfd94cd1c2
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 1216913897fc50e0001ccb5ea2c6d0e1a463158b
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390948"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798927"
 ---
-# <a name="access-your-incentives-payouts-page"></a>Accédez à votre page de paiement d’incentives
+# <a name="access-your-incentives-payouts-page"></a>Accéder à la page de paiement de vos primes incitatives
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Administrateur de primes incitatives
 -   Utilisateur de primes incitatives
--   Commercial
+-   Agent commercial
 -   Administrateur partenaire MPN
 
 Les informations d’aide sur le paiement qui s’appliquent dépendent du programme partenaire dans lequel vous travaillez. Pour afficher la page qui vous convient, sélectionnez le lien correspondant ci-dessous :

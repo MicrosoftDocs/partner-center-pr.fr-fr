@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et que celui-ci répond aux critères décrits dans escalader les problèmes à Microsoft, déposez un ticket de support pour eux.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: demande de service, ticket de service, support, droit de support, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d3bd6fe2991f2f7b698cf12864be235c35dce55f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390688"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798687"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Signaler des problèmes au nom d’un client
 
 **S’applique à**
 
--  Centre pour partenaires
+-  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
 
-Si votre client rencontre un problème de service que vous ne pouvez pas résoudre, et qui répond aux critères décrits dans [Faire remonter des problèmes à Microsoft](escalate-problems-to-microsoft.md), déposez un ticket de support pour lui. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
+Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et que celui-ci répond aux critères décrits dans [escalader les problèmes à Microsoft](escalate-problems-to-microsoft.md), déposez un ticket de support pour eux. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Envoyer une demande de service pour un client
 
@@ -49,7 +49,7 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 -   Dans la section **Notions de base** de la demande de support, veillez à sélectionner **Fournisseur de solutions Cloud** dans le champ **Formule d’assistance**.
 -   Dans la section **Coordonnées** de la demande de support, entrez vos coordonnées, pas celles de votre client.
 
-3. Pour passer en revue ultérieurement les demandes de service de votre client dans le portail Microsoft Azure, sélectionnez **Gérer les demandes de support**.
+3. Passez en revue ultérieurement les demandes de service de votre client dans le portail Microsoft Azure en sélectionnant **Gérer les demandes de support**.
 
 Vous devrez peut-être créer une demande de support pour un client lorsque vous n’avez pas d’autorisations d’administrateur pour ce client. Cela peut se produire dans deux cas : 
  
@@ -89,7 +89,7 @@ Pour trouver les coordonnées de l’ISV :
     - Adresse e-mail de support 
     - Numéro de téléphone pour contacter le support
 
-## <a name="faq"></a>FAQ
+## <a name="faq"></a>Questions fréquentes (FAQ)
 
 **Qu’est-ce qui est inclus dans le droit au support ?**
 
@@ -128,7 +128,7 @@ Si vous vous connectez directement au Centre d’administration Office&nbsp;365,
 
 **Comment obtenir un support Dynamics 365 supplémentaire ?**
 
-Si vous rencontrez des problèmes liés à : Dynamics 365 planifier les abonnements, les licences, la facturation, les opérations de & Finance, les licences Dynamics 365 produit ou vous avez besoin d’un support technique supplémentaire :
+Si vous rencontrez des problèmes liés à : Dynamics 365 planifier les abonnements, les licences, la facturation, les opérations de & finance, les licences Dynamics 365 produit ou vous avez besoin d’un support technique supplémentaire :
  
 Contactez le [Support Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

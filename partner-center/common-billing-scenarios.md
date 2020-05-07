@@ -6,29 +6,29 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explorez la facturation après avoir ajouté de nouveaux abonnements, ajustez la quantité de licences ou annulez un abonnement. Découvrez les différences entre les abonnements basés sur l’utilisation et les licences.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b8cfe28b6d81a2ff91543ed2d7005f72007b553
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 53844ffd1925f934b1931f80a256f7e7c40eb338
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390048"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798507"
 ---
 # <a name="common-billing-scenarios"></a>Exemples de facturation courants
 
-S'applique à :
+S’applique à :
 
 - Facturation du programme fournisseur de solutions Cloud (CSP)
 
 **Rôles appropriés**
 
 - Agent d’administration
-- Administration de facturation
+- Administrateur de la facturation
 - Agent du support technique
-- Commercial
+- Agent commercial
 
 Ces rubriques expliquent ce que vous devez voir sur votre facture après l’ajout de nouveaux abonnements, l’ajout de nouveaux sièges, l’ajustement du nombre de licences à un abonnement ou l’annulation d’un abonnement. Les autres types de facturation de l' [espace partenaires](billing-different-types.md), tels que les abonnements basés sur l’utilisation et basés sur des licences, sont facturés différemment.
 

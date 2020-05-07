@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: L'Espace partenaires de Microsoft Cloud Germany est le portail professionnel des partenaires Microsoft qui souhaitent proposer des solutions Cloud Microsoft aux clients situés dans les pays de l’UE et de l’AELE.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c83709b68a492fd93ca166e9a9717ad9a632c6f6
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 1f293a919b04b30ef8afdcadbc5a285698bb47b0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390768"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798757"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Espace partenaires de Microsoft Cloud Germany
 
@@ -23,11 +23,11 @@ ms.locfileid: "80390768"
 -  Espace partenaires de Microsoft Cloud Germany
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Agent d’administration
--   Commercial
--   Administration de facturation
+-   Agent commercial
+-   Administrateur de la facturation
 
 Conçu pour répondre aux strictes exigences de protection des données en vigueur en Allemagne, Microsoft Cloud Germany inclut un tiers de confiance allemand qui contrôle l’accès physique et logique aux données des clients conformément à la législation allemande. Toutes les données des clients et les systèmes qui gèrent ou contrôlent l’accès aux données des clients se trouvent dans des centres de données allemands. Le réseau entre ces centres de données est isolé et dédié en Allemagne.
 
@@ -49,7 +49,7 @@ Fonction ou fonctionnalité | Effectuer des tâches dans
 :--- | :---
 Gestion des utilisateurs partenaires | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
 Gestion des utilisateurs du client | Centre d’administration Office 365 ou Azure pour le portail d’administration Microsoft Cloud Germany
-Réinitialiser le mot de passe de l’utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
+Réinitialiser le mot de passe de l'utilisateur | Azure pour le portail d’administration Microsoft Cloud Germany
 Gestion des licences | Centre d’administration Office 365 ou centre d’administration Office 365 ou Microsoft Cloud Allemagne Azure Active Directory portail des licences
 
 

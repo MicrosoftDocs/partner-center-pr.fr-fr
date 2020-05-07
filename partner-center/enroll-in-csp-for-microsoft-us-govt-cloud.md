@@ -1,21 +1,21 @@
 ---
-title: S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis | Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis
+title: Inscrivez-vous au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Avant de vous inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis, prenez connaissance des conditions requises.
-author: jasonwhowell
-ms.author: jasonh
+description: Avant de vous inscrire au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis, en savoir plus sur les exigences du programme CSP.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6215927f5c1c922f9c124d78a41694703cb0bf
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 9b9de82652543843b09dfdb00829c7911c20c572
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389798"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798367"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>S’inscrire au programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis
+# <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrivez-vous au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis
 
 **S’applique à**
 
@@ -23,67 +23,67 @@ ms.locfileid: "80389798"
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 
-Les partenaires Microsoft peuvent désormais vendre les solutions cloud de Microsoft aux entités fédérales, étatiques, locales et tribales des États-Unis via le programme Fournisseur de solutions Cloud concernant Microsoft Cloud pour le gouvernement des États-Unis. 
+Les partenaires Microsoft peuvent désormais vendre des solutions et services Cloud Microsoft aux entités américaines Federal, State, local et tribales par le biais du programme fournisseur de solutions Cloud (CSP) pour les Microsoft Cloud pour le gouvernement des États-Unis. 
 
-Microsoft Cloud pour le gouvernement des États-Unis fournit une instance privée, dédiée et isolée de Microsoft Azure qui répond aux exigences de sécurité des données, de confidentialité et de conformité du gouvernement des États-Unis. Votre entreprise doit répondre aux exigences d’éligibilité de Microsoft pour participer au programme Fournisseur de solutions Cloud concernant Microsoft Cloud pour le gouvernement des États-Unis. Pour plus d’informations, consultez [Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis](partner-center-for-microsoft-us-govt-cloud.md).
+Microsoft Cloud pour le gouvernement des États-Unis fournit une instance privée, dédiée et isolée de Microsoft Azure qui répond aux exigences du gouvernement des États-Unis en matière de sécurité, de confidentialité et de conformité des données. Votre entreprise doit respecter les conditions d’éligibilité de Microsoft pour participer au programme CSP pour Microsoft Cloud pour le gouvernement des États-Unis. Pour plus d’informations, consultez [Partner Center for Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
-Pour pouvoir vous inscrire au programme Fournisseur de solutions Cloud concernant Microsoft Cloud pour le gouvernement des États-Unis, nous devons vérifier que votre société remplit les conditions de vente aux entités du gouvernement américain. Avant de lancer le processus d’inscription, complétez le [formulaire de validation de Microsoft Cloud pour le gouvernement](https://azuregov.microsoft.com/csp) pour que nous puissions vérifier l'éligibilité de votre entreprise. Une fois que nous aurons vérifié l’éligibilité de votre entreprise, nous vous enverrons un client Azure Active Directory (Azure AD) spécifique de Microsoft Cloud pour le gouvernement des États-Unis.  
+Avant de pouvoir vous inscrire au programme CSP pour Microsoft Cloud pour le gouvernement des États-Unis, nous devons vérifier que votre entreprise répond aux conditions de vente aux entités gouvernementales américaines. Avant de lancer le processus d’inscription, remplissez le formulaire de [validation Cloud Microsoft Government](https://azuregov.microsoft.com/csp) afin de pouvoir vérifier l’éligibilité de votre entreprise. Une fois que nous avons vérifié l’éligibilité de votre entreprise, nous vous fournissons un locataire Azure Active Directory (Azure AD) propre au Microsoft Cloud pour le gouvernement des États-Unis.  
 
-Pour créer un compte Espace partenaires et vous inscrire au programme Fournisseur de services Cloud de Microsoft Cloud pour le gouvernement des États-Unis, vous devrez fournir les informations suivantes (pensez à collecter ces informations avant de lancer le processus d’inscription) :
+Pour créer un compte espace partenaires et s’inscrire auprès du fournisseur CSP pour Microsoft Cloud pour le gouvernement des États-Unis, vous devez fournir les informations suivantes (vous pouvez rassembler ces informations avant de lancer le processus d’inscription) :
 
--  Informations d'identification de l'administrateur général du nouveau client Azure AD de votre organisation pour Microsoft Cloud pour le gouvernement des États-Unis
--  ID MPN (Microsoft Partner Network) de votre organisation 
--  Adresse professionnelle aux États-Unis
+-  Informations d’identification d’administrateur général pour le nouveau locataire Azure AD de votre organisation pour Microsoft Cloud pour le gouvernement des États-Unis
+-  ID d’Microsoft Partner Network (MPN) de votre organisation 
+-  Une adresse professionnelle dans le États-Unis
 
 > [!IMPORTANT]  
-> Si vous avez un compte dans l’Espace partenaires et que vous souhaitez vous inscrire au programme Fournisseur de services Cloud de Microsoft Cloud pour le gouvernement des États-Unis, vous devez créer un compte distinct spécialement pour le marché du gouvernement des États-Unis.
+> Si vous avez un compte existant dans l’espace partenaires et que vous souhaitez vous inscrire au CSP pour Microsoft Cloud pour le gouvernement des États-Unis, vous devez créer un nouveau compte distinct pour le marché du gouvernement des États-Unis.
 
 ## <a name="how-to-enroll"></a>Procédure d'inscription 
 
-### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>Étape 1 : créer un compte Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
+### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>Étape 1 : créer un compte espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
 1.  Lancez le processus d’inscription [ici](https://partnercenter.microsoft.com/register/resellerusgjoinnow). 
 
-2.  Connectez-vous à l'aide des informations d'identification de l'administrateur général du client Azure AD de votre organisation pour Microsoft Cloud pour le gouvernement des États-Unis. Si votre organisation ne dispose pas d'un compte pour ce portail, vous pouvez en demander un en complétant le [formulaire de validation de Microsoft Cloud pour le gouvernement](https://azuregov.microsoft.com/csp).
+2.  Connectez-vous avec les informations d’identification d’administrateur général pour le locataire Azure AD de votre organisation pour Microsoft Cloud pour le gouvernement des États-Unis. Si votre organisation n’a pas de compte pour ce portail, vous pouvez en demander une en suivant le [formulaire de validation Cloud Microsoft Government](https://azuregov.microsoft.com/csp).
 
 
-### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Étape 2 : s'inscrire pour participer au programme Fournisseur de solutions Cloud concernant Microsoft Cloud pour le gouvernement des États-Unis
+### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Étape 2 : demander à participer au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis
 
-1.  Renseignez les informations manquantes dans le formulaire d’inscription, y compris votre ID Microsoft Partner Network et les détails du support clientèle de votre organisation. 
+1.  Renseignez les informations manquantes sur le formulaire d’inscription, y compris votre ID de Microsoft Partner Network et les détails du support technique de votre organisation. 
 
 2.  Sélectionnez **Accepter et continuer**. L'examen de votre demande peut nous prendre plusieurs jours. Nous vous enverrons un e-mail lorsque nous en aurons terminé.
 
     > [!IMPORTANT]  
-    > En sélectionnant **Accepter et continuer**, vous confirmez que vous êtes autorisé à agir pour le compte de votre organisation, et que vous autorisez Microsoft à vérifier votre solvabilité avant l'examen de la demande d'inscription au programme Fournisseur de solutions Cloud de votre organisation.
+    > En sélectionnant **accepter et continuer**, vous confirmez que vous êtes autorisé à agir au nom de votre organisation et que vous acceptez d’autoriser Microsoft à exécuter une vérification de solvabilité en arrière-plan avant de passer en revue l’application de fournisseur de solutions Cloud de votre organisation.
 
 
-### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Étape 3 : signer le contrat de revendeur de Microsoft Cloud pour le gouvernement des États-Unis
+### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Étape 3 : signer le contrat du revendeur pour Microsoft Cloud pour le gouvernement des États-Unis
 
-1. Connectez-vous à l'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis en utilisant le lien fourni dans l’e-mail de validation de votre demande. 
+1. Connectez-vous à l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis à l’aide du lien fourni dans le message d’approbation de l’application. 
 
-2. Dans la page **Contrat**, lisez les termes et, si vous les acceptez, sélectionnez **Accepter et continuer** pour signer numériquement le [contrat de revendeur de Microsoft Cloud pour le gouvernement des États-Unis](https://go.microsoft.com/fwlink/p/?linkid=843364). La création de votre compte peut prendre plusieurs heures. Déconnectez-vous de l'Espace partenaires de Microsoft Cloud pour le gouvernement des États-Unis, puis reconnectez-vous ultérieurement.
+2. Sur la page **contrat** , lisez les termes et, si vous en acceptez, sélectionnez **accepter et continuer** pour signer numériquement le [contrat de revendeur pour Microsoft Cloud pour le gouvernement des États-Unis](https://go.microsoft.com/fwlink/p/?linkid=843364). La création de votre compte peut prendre plusieurs heures. Déconnectez-vous du Centre des partenaires pour Microsoft Cloud pour le gouvernement des États-Unis, puis reconnectez-vous ultérieurement.
 
 
-### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Étape 4 : assigner des utilisateurs au rôle d'agent administrateur dans le portail d’administration Microsoft Azure pour Microsoft Cloud pour le gouvernement des États-Unis
+### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Étape 4 : affecter des utilisateurs au rôle de l’agent admin dans le portail d’administration Microsoft Azure pour Microsoft Cloud pour le gouvernement des États-Unis
 
-Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distincte de Microsoft Azure qui répond aux normes de conformité, de sécurité et de confidentialité des administrations publiques. Pour autoriser les administrateurs à gérer les utilisateurs et les licences dans le portail Microsoft Azure, vous devrez leur attribuer manuellement le rôle d’agent administrateur.
+Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distincte de Microsoft Azure qui respecte les normes de conformité, de sécurité et de confidentialité du gouvernement. Pour permettre aux administrateurs de gérer les utilisateurs et les licences dans le Portail Microsoft Azure, vous devez leur attribuer manuellement le rôle d’agent d’administration.
 
 > [!NOTE]  
-> Une fois que des utilisateurs sont affectés au rôle Agent administrateur, ils peuvent accéder à votre liste de clients sur la page **Clients** et [ajouter de nouveaux clients](add-a-new-customer.md).   
+> Une fois que vous avez affecté des utilisateurs au rôle d’agent administrateur, ils peuvent accéder à la liste de vos clients sur la page **clients** et [ajouter de nouveaux clients](add-a-new-customer.md).   
 
-1.  Connectez-vous au portail d'administration Microsoft Azure à l’adresse https://portal.azure.us/.
+1.  Connectez-vous au portail d’administration Microsoft Azure https://portal.azure.us/à l’adresse.
 
-2.  Attribuez le rôle d'agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devrez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Voir [Gérer les membres d’un groupe dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) pour plus d’informations sur la procédure à suivre.
+2.  Affectez le rôle d’agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Pour plus d’informations sur la procédure à suivre, consultez [gérer les membres d’un groupe dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) .
  
-## <a name="connect-with-us"></a>Communiquez avec nous
+## <a name="connect-with-us"></a>Restez en contact
 
-- Des questions ? Envoyez-nous un e-mail à l’adresse azgovcsp@microsoft.com
+- Des questions ? Envoyez-nous un e-mail à l’adresseazgovcsp@microsoft.com
 
-- Rejoignez-nous sur [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all). 
+- Rejoignez-nous sur [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 
 
 ## <a name="related-topics"></a>Rubriques connexes
 

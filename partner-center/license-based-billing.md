@@ -3,28 +3,28 @@ title: Facturation basée sur une licence | Espace partenaires
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informations sur la facturation basée sur une licence dans l’espace partenaires, où vous êtes facturé par licence (et non par utilisation de licence).
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: facturation, paiements, licence basée sur une licence
 ms.localizationpriority: medium
-ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390898"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798887"
 ---
 # <a name="license-based-billing"></a>Facturation basée sur la licence
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
--   Administration de facturation
+-   Administrateur de la facturation
 -   Agent d’administration
 
 Lorsque vous achetez des produits ou des services en ligne dans l’espace partenaires qui nécessitent des **licences**, vous êtes facturé *pour chaque licence* que vous achetez. Vous *n’êtes pas facturé* par l’utilisation de ces licences. (Pour plus d’informations sur la facturation basée sur l’utilisation et d’autres types de facturation, consultez [types de facturation dans l’espace partenaires](billing-different-types.md).)

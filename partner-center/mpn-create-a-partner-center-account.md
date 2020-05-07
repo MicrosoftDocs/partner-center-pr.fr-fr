@@ -5,15 +5,15 @@ ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Les membres du Microsoft Partner Network doivent créer des comptes Espace partenaires pour gérer leurs revenus du réseau et leurs compétences, ainsi que créer un profil d’entreprise.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0b36ccb8b1cfea7945841d3539d7aef792a14304
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: fce9dd9d4d32dfa39d82d17f9758228a8781837f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390868"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798857"
 ---
 # <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 

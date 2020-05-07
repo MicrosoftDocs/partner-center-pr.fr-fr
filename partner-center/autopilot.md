@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment personnaliser ou préconfigurer une nouvelle expérience d’appareil prête à l’emploi avec des profils AutoPilot avant de livrer l’appareil au client.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Autopilot, Windows AutoPilot, Microsoft AutoPilot, déploiement Zero Touch, OOBE, écrans de connexion, prêts à l’emploi
 ms.localizationpriority: medium
-ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390998"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798607"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personnaliser l’expérience out-of-Box pour un appareil avec des profils Windows AutoPilot
 
@@ -25,8 +25,8 @@ ms.locfileid: "80390998"
 **Rôles appropriés**
 
 - Agent d’administration
-- Administrateur global
-- Commercial
+- Administrateur général
+- Agent commercial
 - Administrateur de la gestion des utilisateurs
 
 Si vous gérez des appareils clients, vous devrez peut-être personnaliser l’OOBE (out-of-Box Experience) pour les utilisateurs du client. Vous pouvez préconfigurer de nouveaux appareils avec des profils Windows AutoPilot avant de transmettre les appareils aux clients et appliquer de nouveaux profils aux appareils que les clients ont déjà achetés. 
@@ -40,7 +40,7 @@ Si vous n’êtes pas déjà familiarisé avec AutoPilot, passez en revue les in
 - [Vue d’ensemble de Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guide de référence du déploiement AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Overview
+## <a name="overview"></a>Vue d’ensemble
 
 Avec la fonctionnalité Windows AutoPilot de l’espace partenaires, vous pouvez créer des profils personnalisés à appliquer aux appareils clients. Les paramètres de profil suivants étaient disponibles au moment de la publication de cet article :
 
@@ -81,16 +81,16 @@ Dans l’espace partenaires, vous pouvez créer des profils de déploiement Wind
 
    - Ignorer les paramètres de confidentialité dans le programme d’installation
 
-   - Désactiver le compte d’administrateur local dans l'installation
+   - Désactiver le compte administrateur local dans le programme d’installation
   
-   - Ignorer automatiquement des pages dans l'installation<br>
+   - Ignorer automatiquement les pages dans le programme d’installation<br>
         (Comprend la *sélection automatique de la configuration pour le travail ou l’école* et *l’omission des pages de configuration d’inscription Cortana, OneDrive et OEM*)
   
    - Ignorer le contrat de licence utilisateur final (CLUF)<br> 
        >[!IMPORTANT] 
        >Pour obtenir des informations importantes sur l’ignorance de la page du CLUF lors de l’installation de Windows, consultez [CLUF de Windows AutoPilot](#windows-autopilot-eula-dismissal) ci-dessous.
 
-5. Sélectionnez **Envoyer** une fois terminé.
+5. Sélectionnez **Envoyer** lorsque vous avez terminé.
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Appliquer un profil AutoPilot à des appareils clients
 
@@ -195,4 +195,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Windows AutoPilot vous permet de configurer des installations personnalisées de Windows sur les appareils que vous gérez pour vos clients. Si le client vous y autorise, vous pouvez supprimer ou masquer certains écrans de configuration qui sont normalement présentés aux utilisateurs lors de la configuration de Windows, y compris l’écran d’acceptation du contrat de licence utilisateur final (CLUF).
 
-À l’aide de cette fonction, vous acceptez que la suppression ou le masquage de tous les écrans conçus pour fournir des avis ou l’acceptation des conditions d’utilisation signifie que vous avez obtenu un consentement et une autorisation suffisants de la part de votre client pour masquer les conditions et que vous avez, pour le compte de votre client (qu’il s’agisse d’une organisation ou d’un utilisateur individuel), consent à des avis et accepte les termes applicables à votre client. Cela inclut votre acceptation des termes et conditions de la licence ou de l'avis qui serait présenté à l'utilisateur si vous ne l'aviez pas supprimé(e) ni masqué(e) à l'aide de cet outil. Votre client ne peut pas utiliser le logiciel Windows sur ces appareils s'il n'a pas légitimement acquis une licence pour le logiciel auprès de Microsoft ou de ses revendeurs.
+À l’aide de cette fonction, vous acceptez que la suppression ou le masquage de tous les écrans destinés à fournir des avis ou à l’acceptation des conditions d’utilisation signifie que vous avez obtenu un consentement et une autorisation suffisants de la part de votre client pour masquer les conditions et que, pour le compte de votre client (qu’il s’agisse d’une organisation ou d’un utilisateur individuel), acceptez les avis et acceptez les termes applicables Cela comprend l’accord aux termes et conditions de la licence ou à la notification qui est présentée à l’utilisateur si vous ne l’avez pas supprimé ou masqué à l’aide de cet outil. Votre client peut ne pas utiliser le logiciel Windows sur ces appareils si le client n’a pas acquis une licence pour le logiciel auprès de Microsoft ou de ses distributeurs sous licence.

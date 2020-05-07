@@ -6,47 +6,47 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser un compte client pour affecter ou révoquer des licences et des services à un seul utilisateur ou à plusieurs utilisateurs à la fois.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: attribuer une licence, révoquer une licence, attribuer à plusieurs utilisateurs,
 ms.localizationpriority: medium
-ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390268"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798567"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 
 **Rôles appropriés**
 
 - Agent d’administration
-- Administrateur global
+- Administrateur général
 - Agent du support technique
-- Commercial
+- Agent commercial
 - Administrateur de la gestion des utilisateurs
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
 L’espace partenaires suit et affiche tous les droits de licence détenus par le client.
 
-## <a name="in-this-section"></a>Dans cette section
+## <a name="in-this-section"></a>Contenu de cette section
 
 
 - [Attribuer des licences à plusieurs utilisateurs](#assign-licenses-to-groups)
-- [Révocation des attributions de licences des utilisateurs](#revoking-licenses)
+- [Révocation de licences attribuées à des utilisateurs](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**attribuer des licences à plusieurs utilisateurs**
+**Attribuer des licences à plusieurs utilisateurs**
 
 1. Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 
-2. Sélectionnez **Utilisateurs et licences**.
+2. Sélectionnez **utilisateurs et licences**.
 
 3. Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 
@@ -76,15 +76,15 @@ L’espace partenaires suit et affiche tous les droits de licence détenus par l
 
 8. Sélectionnez **Enregistrer**. L’espace partenaires ouvre une page de confirmation des **licences mises à jour** qui répertorie les utilisateurs et leurs nouvelles licences.
 
-**Notez**  certains produits Microsoft peuvent ne pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
+**Notez**  que certains produits Microsoft peuvent ne pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
 
 
 <a href="" id="revoking-licenses"></a>
-de la **révocation des attributions de licences des utilisateurs**
+**Révocation des attributions de licences des utilisateurs**
 
 1. Dans le menu **espace partenaires** , sélectionnez **clients**, puis choisissez un client dans la liste.
 
-2. Sélectionnez **Utilisateurs et licences**.
+2. Sélectionnez **utilisateurs et licences**.
 
 3. Activez la case à cocher de plusieurs utilisateurs dans la liste. (Pour sélectionner tous les utilisateurs sur la page active, activez la case à cocher en haut de la colonne **Utilisateurs**.)
 

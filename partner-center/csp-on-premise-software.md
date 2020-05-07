@@ -1,86 +1,86 @@
 ---
-title: Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud | Espace partenaires
+title: Vendre des logiciels locaux par le biais du programme CSP | Espace partenaires
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
-author: jasonwhowell
-ms.author: jasonh
-keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
+author: LauraBrenner
+ms.author: labrenne
+keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f227d6f12e9e84611684796bc26bd72a6b539348
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389878"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798437"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud
+# <a name="sell-on-premise-software-through-csp"></a>Vendre des logiciels locaux par le biais de CSP
 
 **Rôles appropriés**
 
 - Agent d’administration
-- Administrateur global
+- Administrateur général
 
-Le logiciel local dans le programme fournisseur de solutions Cloud permet une transition en douceur vers le Cloud en introduisant un logiciel local dans un programme axé sur le Cloud.  Cette nouvelle offre permet d'associer un partenaire à valeur ajoutée à chaque scénario d’achat, car elle présente une plate-forme unique sur laquelle proposer tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation. Le logiciel sur site dans CSP est un nouveau programme de vente et n’est pas destiné à remplacer les autres programmes de licence en volume de Microsoft. 
+Les logiciels sur site dans CSP prennent en charge une transition fluide vers le Cloud en introduisant des logiciels sur site dans un programme axé sur le Cloud.Cette nouvelle offre permet de faire passer le partenaire à valeur ajoutée à chaque scénario d’achat, car il fournit une plate-forme unique pour tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation. Le logiciel sur site dans CSP est un nouveau programme de vente et n’est pas destiné à remplacer les autres programmes de licence en volume de Microsoft. 
  
-Tout en garantissant la meilleure valeur globale du client avec les options de licence logicielle sur site, nous avons également rendu le modèle d’entreprise aussi convivial que possible. La gestion simple et directe des licences des logiciels locaux dans le programme fournisseur de solutions Cloud implique une prévisibilité des coûts et facilite votre processus de vente. Ce nouveau modèle commercial facilite la fourniture, la gestion et la tarification des logiciels locaux pour vos clients, ce qui vous permet de vous concentrer sur l'obtention de contrats avec une gamme étendue de solutions de gestion informatique à valeur ajoutée. 
+Tout en garantissant la meilleure valeur globale du client avec les options de licence logicielle sur site, nous avons également rendu le modèle d’entreprise aussi convivial que possible. La gestion des licences simples des logiciels sur site dans le programme CSP signifie la prévisibilité des coûts et un processus de vente rationalisé pour vous. Ce nouveau modèle d’entreprise facilite l’approvisionnement, la gestion et le prix des logiciels locaux pour vos clients, ce qui vous permet de vous concentrer sur les activités gagnantes grâce à un portefeuille étendu de solutions à valeur ajoutée de la gestion informatique. 
 
 >[!NOTE]
->Le logiciel local est actuellement disponible à un nombre de partenaires limité. Pour savoir si vous êtes éligible, consultez votre contact Microsoft. 
+>Les logiciels sur site sont actuellement disponibles pour les partenaires limités. Pour savoir si vous êtes éligible, consultez votre contact Microsoft. 
 
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acheter des abonnements logiciels pour le compte de clients
 
-Pour acheter des abonnements logiciels pour le compte d’un client, accédez à la page de détails du client, sélectionnez Ajouter des produits, puis suivez les instructions à l'écran pour créer et payer votre commande.
+Pour acheter des abonnements logiciels au nom d’un client, accédez à la page de détails du client, sélectionnez Ajouter des produits, puis suivez les instructions à l’écran pour créer et payer votre commande.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
-Une fois que vous avez acheté votre logiciel, vous et vos clients devez le télécharger. Utilisez la procédure suivante pour ce faire. 
+Une fois que vous avez acheté votre logiciel, vous et vos clients devez le télécharger. Pour ce faire, utilisez la procédure suivante. 
 
 >[!NOTE]
->Vous devez être Agent d'administration pour pouvoir obtenir les clés et les téléchargements. 
+>Vous devez être un agent d’administration pour obtenir des clés et des téléchargements. 
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors. 
-2.  Développez le produit que vous souhaitez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous souhaitez. 
+2.  Développez le produit que vous voulez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous voulez. 
 3.  Sélectionnez **Soumettre** pour afficher les produits spécifiques. 
-4.  Sélectionnez **Obtenir les clés et les téléchargements**. 
-5.  Sélectionnez **Télécharger** pour commencer le téléchargement, ou sélectionnez **Copier le lien** pour copier le lien et l’envoyer au client. 
+4.  Sélectionnez **Obtenir des clés et des téléchargements**. 
+5.  Sélectionnez **Télécharger** pour commencer le téléchargement, ou **Copier le lien** pour copier le lien et l’envoyer au client. 
 
 >[!NOTE]
->Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se termine en premier. Une fois que le lien arrive à expiration, revenez à cette page, puis sélectionnez **Obtenir les clés et les téléchargements** à nouveau pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
+>Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se arrive en premier. Une fois le lien arrivé à expiration, revenez à cette page, puis sélectionnez à nouveau **Obtenir des clés et des téléchargements** pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
 
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
-Utilisez la procédure suivante pour annuler un achat. Une fois que l’annulation est effectuée, la clé du logiciel est révoquée. 
+Utilisez la procédure suivante pour annuler un achat. Une fois l’annulation terminée, la clé du logiciel est révoquée. 
 
 >[!NOTE]
->Vous devez être Agent d'administration pour pouvoir annuler un achat. 
+>Vous devez être Agent d’administration pour pouvoir annuler un achat. 
 
-1.  Avant de commencer le processus, assurez-vous de disposer des éléments suivants : 
-    -   GUID du locataire ou nom de domaine du client
+1.  Avant de commencer le processus, assurez-vous que vous disposez des éléments suivants : 
+    -   GUID de locataire ou nom de domaine du client
     -   ID de commande ou ID d’abonnement
-    -   Raison du remboursement
+    -   Motif du remboursement
     -   Montant demandé
 
 2.  Sur la page de détails du client, sélectionnez **logiciel**. Vous verrez une liste de tous les logiciels que vous avez achetés. 
 
-3.  Recherchez le logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. La page **Signaler un problème avec l'Espace partenaires** s'ouvre. 
+3.  Localisez le logiciel que vous souhaitez annuler, puis sélectionnez **Annuler**. La page **signaler un problème avec l’espace partenaires** s’ouvre. 
 
-4.  Sous **Détails**, dans la liste **Type de problème**, sélectionnez **Achat/remboursement fournisseur de solutions Cloud pour le compte de clients**.
+4.  Sous **Détails**, dans la liste **type de problème** , sélectionnez **CSP achat/remboursement pour le compte des clients**.
 
-5.  Renseignez les champs **Impact** et **Titre**. 
+5.  Renseignez les champs **impact** et **titre** . 
 
-6.  Dans le champ **Description**, indiquez les informations suivantes : 
-    -   GUID du locataire ou nom de domaine du client
+6.  Dans le champ **Description** , fournissez les informations suivantes : 
+    -   GUID de locataire ou nom de domaine du client
     -   ID de commande ou ID d’abonnement
-    -   Raison du remboursement
+    -   Motif du remboursement
     -   Montant demandé
 
-7.  Dans le champ **Contact**, saisissez vos nom, adresse e-mail et numéro de téléphone. 
+7.  Dans le champ **contact** , entrez votre nom, votre adresse de messagerie et votre numéro de téléphone. 
 
-8.  Si vous avez besoin d'attacher un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative. 
+8.  Si vous devez joindre un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative. 
 
 9.  Quand vous avez terminé, sélectionnez **Soumettre**.
