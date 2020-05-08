@@ -1,25 +1,26 @@
 ---
 title: Créer une offre d’achat | Espace partenaires
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Advisor peut créer une offre d’achat dans l’espace partenaires
-author: XiaLi
-ms.author: v-xili35
+description: Découvrez comment un conseiller d’abonnement autorisé peut utiliser l’espace partenaires pour créer une offre d’achat et une URL personnalisée à inclure dans les invitations à la version d’évaluation d’Office 365.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, acheter
-ms.openlocfilehash: 1d7cf051da1189efff535eaa95749a8eab54ee6c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137224"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907454"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Conseillers : créer une offre d’achat
 
 > [!NOTE]
-> Cette fonctionnalité est disponible uniquement pour les partenaires Microsoft qui sont des conseillers d’abonnement autorisés. 
+> Cette fonctionnalité est disponible uniquement pour les partenaires Microsoft qui sont des conseillers d’abonnement autorisés.
 
 Une fois que vous avez envoyé une invitation d’essai pour Office 365 à un client, vous pouvez effectuer le suivi en créant et en envoyant une offre d’achat personnalisée pour répondre aux besoins de votre client. Si vous êtes certifié pour offrir une administration déléguée, vous pouvez ajouter une option à l’offre d’achat qui vous permet d’administrer le compte au nom de votre client.
 

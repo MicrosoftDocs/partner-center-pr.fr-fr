@@ -1,21 +1,22 @@
 ---
-title: Scénarios de facturation courants | Espace partenaires
+title: Facturation annuelle-scénarios courants
 ms.topic: article
-ms.date: 11/25/2019
-description: 'Consultez facturation annuelle de l’espace partenaires : lorsque vous ajoutez de nouveaux abonnements, ajoutez des licences avant la date de facturation, modifiez le nombre de licences, interrompez/réactivez les abonnements.'
+ms.date: 05/05/2020
+description: 'Facturation annuelle de l’espace partenaires : lorsque vous ajoutez de nouveaux abonnements, ajoutez des licences avant la date de facturation, modifiez le nombre de licences ou suspend/réactivez les abonnements.'
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9a0fe9a8bfc381be00bba765c74874ea552d7482
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798547"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908214"
 ---
-# <a name="annual-billing-scenarios"></a>Scénarios de facturation annuelle
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>Scénarios courants de facturation annuelle dans l’espace partenaires
 
 **Rôles appropriés**
 

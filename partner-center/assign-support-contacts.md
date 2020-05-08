@@ -1,24 +1,24 @@
 ---
-title: Assigner des contacts de support | Espace partenaires
+title: Affecter des contacts de support pour les clients
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment affecter un revendeur en tant que contact du support technique pour les clients disposant d’abonnements aux services Microsoft.
+description: Découvrez comment affecter un revendeur en tant que contact du support technique pour les clients qui ont des abonnements aux services Microsoft.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
-keywords: agent d’aide, support, affecter un contact de support, contact chargé du support
+keywords: agent d’aide, support, attribuer un contact de support technique, contact de support attitré
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722401"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907472"
 ---
-# <a name="assign-support-contacts"></a>Assigner des contacts de support
+# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Attribuer un revendeur en tant que contact du support technique pour les clients
 
 **S’applique à**
 
@@ -27,31 +27,31 @@ ms.locfileid: "74722401"
 **Rôles appropriés**
 
 - Agent d’administration
-- Administrateur global
+- Administrateur général
 - Agent du support technique
-- Commercial
+- Agent commercial
 - Administrateur de la gestion des utilisateurs
 
-Lorsque vous configurez des abonnements aux services Microsoft pour vos clients, vous pouvez souhaiter assigner le support technique de ces produits à un revendeur désigné, plutôt que d'assurer vous-même ce service.
+Quand vous configurez des abonnements pour les services Microsoft pour vos clients, vous pouvez affecter le support technique de ces produits à un revendeur désigné, plutôt que de fournir le support technique vous-même.
 
-Une fois ces contacts de support configurés, les clients voient les coordonnées du contact de support assigné sur les pages de support technique. Par exemple, lorsque les clients d'Office 365 ont besoin d'un support, ils peuvent accéder à la page Office.com, se connecter à l'aide de leurs informations d’identification d’administrateur, sélectionner la vignette **Administrateur** et dans la section **Support**, consulter les coordonnées du support assigné.
+Une fois que vous avez configuré les contacts de support, les clients voient les informations de votre contact de support affecté sur les pages du support technique. Par exemple, lorsque les clients Office 365 ont besoin de la prise en charge, ils peuvent accéder à la page Office.com, se connecter avec leurs informations d’identification d’administrateur, sélectionner la vignette **administrateur** et, dans la section **prise en charge** , voir les informations de contact du support technique.
 
-Cette fonction peut être utilisée pour des scénarios de type [multipartenaire](multipartner.md) et [multicanal](multichannel.md). 
+Cela peut être utilisé pour les scénarios [multi-partenaires](multipartner.md) et [multicanaux](multichannel.md) . 
 
 <a href="" id="assigncontacts"></a>
-## <a name="assign-contacts"></a>Assigner des contacts
+## <a name="assign-contacts"></a>Affecter des contacts
 
-1.  Commencez par une [demande de relation](request-a-relationship-with-a-customer.md) avec votre revendeur produit désigné. Négociez un contrat de support avec lui pour la gestion du support technique.
+1.  Commencez par [demander une relation](request-a-relationship-with-a-customer.md) avec votre revendeur de produits désigné. Négociez un contrat de support avec eux pour gérer le support technique.
 
-2.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis sélectionnez un client et sélectionnez un abonnement, par exemple, Office 365 Business Premium.
+2.  Dans le menu de l' **espace partenaires** , sélectionnez **clients**, sélectionnez un client, puis sélectionnez un abonnement, par exemple, Office 365 Business standard.
 
-3.  Dans **Contact de support désigné**, sélectionnez le revendeur produit désigné, puis cliquez sur **Soumettre**. 
+3.  Dans **contact du support attitré**, sélectionnez le revendeur de produits désigné, puis cliquez sur **Envoyer**. 
 
     Remarques : 
     
-    *  Pour les nouveaux abonnements, le contact de support désigné est par défaut le fournisseur indirect. Vous pouvez également le remplacer par un revendeur indirect disposant de privilèges d’administration de délégation.
+    *  Pour les nouveaux abonnements, le contact de support attitré est par défaut le fournisseur indirect. Vous pouvez également le remplacer par un revendeur indirect disposant de privilèges d’administrateur de délégation.
     
-    *  Si le nom de votre revendeur n’apparaît pas dans la liste des contacts de support disponibles, ajoutez-le en faisant une [demande de relation](request-a-relationship-with-a-customer.md). Une fois la relation établie, il doit apparaître dans la liste.  
+    *  Si le nom de votre revendeur ne figure pas dans la liste des contacts de support disponibles, ajoutez-le en [demandant une relation](request-a-relationship-with-a-customer.md). Une fois la relation établie, elle doit apparaître dans la liste.  
 
 4.  Vérifiez que les modifications sont correctes, puis sélectionnez **Fermer**.
 

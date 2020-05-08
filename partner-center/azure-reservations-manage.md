@@ -1,23 +1,23 @@
 ---
-title: Gérer des réservations Azure pour le compte de vos clients | Espace partenaires
+title: Gérer les réservations Azure pour les clients
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Découvrez comment gérer des réservations Azure pour le compte d’un client, notamment comment annuler une réservation, échanger une réservation ou demander un remboursement.
+Description: Découvrez comment gérer des réservations Azure pour un client, notamment comment annuler une réservation, échanger une réservation ou demander un remboursement.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, réservations, gérer, facturation, achat, annulation, échange, frais de résiliation précoce
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 652eb468662892b3f2a98b636c4f8760fa3f021f
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205717"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908311"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Gérer des réservations Microsoft Azure pour vos clients
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gérez, annulez, échangez ou remboursez Microsoft Azure réservations pour les clients
 
 **S’applique à**
 
@@ -43,8 +43,8 @@ Pour gérer les réservations Azure de vos clients, vous devez sélectionner le 
 
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
-    | **Vue d'ensemble**   | Affichez les détails de la réservation d’un client, y compris la date d’expiration, l’étendue et les données d’utilisation. **Remarque** Sélectionnez **remboursement** pour créer une demande de support pour un remboursement au prorata. Sélectionnez **Exchange** pour créer une demande de support afin d’échanger la partie inutilisée de votre terme de réservation.  
-    | **Access Control (IAM)**   | Gérez l’accès aux informations de réservation du client.|
+    | **Vue d’ensemble**   | Affichez les détails de la réservation d’un client, y compris la date d’expiration, l’étendue et les données d’utilisation. **Remarque** Sélectionnez **remboursement** pour créer une demande de support pour un remboursement au prorata. Sélectionnez **Exchange** pour créer une demande de support afin d’échanger la partie inutilisée de votre terme de réservation.  
+    | **Contrôle d’accès (IAM)**   | Gérez l’accès aux informations de réservation du client.|
     | **Configuration**   | Modifiez l’étendue de la réservation et/ou l’abonnement Azure auquel la réservation est associée.    |
     | **Propriétés**   | Affichez les propriétés de la réservation et copiez dans le presse-papiers l’ID de réservation et l’ID de commande de réservation. **Remarque** La prise en charge peut vous demander l’ID de réservation et l’ID de commande de réservation lorsque vous demandez un support pour le compte d’un client.    |
     | **Nouvelle demande de support**    | Demandez de l’aide à partir de Support Microsoft.   |

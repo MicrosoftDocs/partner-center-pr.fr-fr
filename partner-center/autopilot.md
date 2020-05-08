@@ -1,22 +1,23 @@
 ---
-title: Personnaliser l’expérience utilisateur prête à l’emploi d’un appareil avec les profils Windows AutoPilot | Espace partenaires
+title: Personnaliser l’expérience utilisateur prête à l’emploi d’un appareil
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment personnaliser ou préconfigurer une nouvelle expérience d’appareil prête à l’emploi avec des profils AutoPilot avant de livrer l’appareil au client.
+description: Avant de diffuser le nouvel appareil d’un client, vous pouvez utiliser les profils Windows AutoPilot pour personnaliser ou préconfigurer l’expérience OOBE (out-of-Box Experience) de l’appareil.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Autopilot, Windows AutoPilot, Microsoft AutoPilot, déploiement Zero Touch, OOBE, écrans de connexion, prêts à l’emploi
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798607"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908383"
 ---
-# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personnaliser l’expérience out-of-Box pour un appareil avec des profils Windows AutoPilot
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utiliser les profils Windows AutoPilot sur de nouveaux appareils pour personnaliser l’expérience out-of-Box d’un client
 
 **S’applique à**
 

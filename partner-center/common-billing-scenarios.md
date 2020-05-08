@@ -1,23 +1,24 @@
 ---
-title: Scénarios de facturation courants | Espace partenaires
+title: Exemples de facturation courants
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explorez la facturation après avoir ajouté de nouveaux abonnements, ajustez la quantité de licences ou annulez un abonnement. Découvrez les différences entre les abonnements basés sur l’utilisation et les licences.
+description: Explorez la facturation lorsque vous ajoutez de nouveaux abonnements, ajustez la quantité de licences ou annulez un abonnement. Découvrez les différences entre les abonnements basés sur l’utilisation et les licences.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: LauraBrenner
 ms.author: labrenne
 Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 53844ffd1925f934b1931f80a256f7e7c40eb338
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fbc7ed35edf629266eab4806053c7aa77b93a4ed
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798507"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908183"
 ---
-# <a name="common-billing-scenarios"></a>Exemples de facturation courants
+# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Scénarios de facturation courants pour les partenaires du programme CSP travaillant dans l’espace partenaires
 
 S’applique à :
 

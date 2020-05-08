@@ -1,32 +1,33 @@
 ---
-title: Facturation pour les produits de la place de marché commercial | Espace partenaires
+title: Facturation pour les produits de la place de marché commercial
 ms.topic: article
-ms.date: 02/28/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment la facturation fonctionne pour les produits ou abonnements SaaS ISV achetés pour les clients à partir de la place de marché commerciale dans l’espace partenaires.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: abonnements, produits, achats, Marketplace, tiers, ISV, facturation, factures, rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
-ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240196"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908123"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>Facturation pour les produits de la place de marché commercial
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturation des produits et abonnements de la place de marché commercial dans l’espace partenaires
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
 
-- Administrateur global
-- Administration de facturation
+- Administrateur général
+- Administrateur de la facturation
 
 En tant que partenaire dans le programme CSP, vous pouvez utiliser l’espace partenaires pour acheter des produits SaaS basés sur une licence auprès d’éditeurs ISV dans le Marketplace commercial. Après cela, vous pouvez accéder à une facture pour ces types d’achats. La période de facturation commence le premier jour du mois civil et se termine le dernier jour du mois civil. Les factures sont rendues disponibles le huitième jour du mois suivant.
 
@@ -70,7 +71,7 @@ Lorsque vous sélectionnez des **achats récurrents et ponctuels** à partir de 
 
 - Abonnements SaaS (à partir des éditeurs Microsoft ou ISV)
 
-- plan Azure
+- Plan Azure
 
 - Réservations Azure
 

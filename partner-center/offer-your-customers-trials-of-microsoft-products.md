@@ -1,52 +1,52 @@
 ---
-title: Proposer à vos clients des versions d’évaluation de produits Microsoft | Espaces partenaires
+title: Offrir aux clients des versions d’évaluation des produits Microsoft
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vos clients peuvent tester des produits d’abonnement Microsoft pendant 30 jours. Inscrivez-vous à ces versions d’évaluation dans le catalogue, comme beaucoup d’autres services en ligne.
-author: brentserbus
-ms.author: brserbus
+description: Permettez aux clients d’essayer les produits d’abonnement Microsoft pendant 30 jours. Inscrivez-vous à ces versions d’évaluation gratuites dans le catalogue, comme beaucoup d’autres services en ligne.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112458"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907349"
 ---
-# <a name="offer-your-customers-trials-of-microsoft-products"></a>Proposer à vos clients des offres d’essai de produits Microsoft
+# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Offrez aux clients une version d’essai gratuite de 30 jours des produits Microsoft
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 
 **Rôles appropriés**
--   Administrateur global 
+-   Administrateur général 
 -   Administrateur des utilisateurs
--   Commercial
+-   Agent commercial
 
-Une méthode efficace pour présenter les nouveaux produits Microsoft aux clients consiste à leur proposer des versions d'évaluation gratuites pendant 30 jours. Vous pouvez obtenir les versions d’évaluation figurant le catalogue comme vous le faites pour de nombreux autres services en ligne. Tous les partenaires peuvent participer.
+Un bon moyen d’introduire des clients auprès de nouveaux produits Microsoft est d’offrir des versions d’évaluation gratuites de 30 jours. Vous pouvez vous inscrire aux versions d’évaluation du catalogue comme beaucoup d’autres services en ligne. Tous les partenaires peuvent participer.
 
 ## <a name="available-trial-offers"></a>Offres d’essai disponibles
 
 Vous trouverez toutes vos offres d’essai en suspens sur la page du **client** . Cette page répertorie tous les abonnements, y compris les versions d’évaluation gratuites et les abonnements payants. (Cette fonctionnalité n’est actuellement pas disponible en Chine.)
 
-Chaque client bénéficie d’un essai gratuit pour chaque offre disponible. Par exemple, ils peuvent obtenir un essai gratuit pour Office 365 Business Premium et un autre pour Office 365 E3. Toutefois, si le client possède déjà l’offre, il ne peut pas utiliser une version d’évaluation gratuite pour cette offre.
+Chaque client bénéficie d’un essai gratuit pour chaque offre disponible. Par exemple, ils peuvent obtenir une version d’évaluation gratuite pour Microsoft 365 Business standard et une version d’évaluation gratuite pour Office 365 E3. Toutefois, si le client possède déjà l’offre, il ne peut pas utiliser une version d’évaluation gratuite pour cette offre.
 
 ### <a name="available-products"></a>Produits disponibles
 
 Des essais gratuits sont proposés pour les produits suivants :
 
-- Office&nbsp;365 Business&nbsp;Premium
-- Office 365 E3
+- Microsoft 365 Business standard
+- Office 365 E3
 - Office 365 E5 avec RTPC
 - Office 365 E5 sans RTPC
-- Enterprise Mobility + Security E5
-- Formule Dynamics 365 Customer Engagement 1
-- Dynamics 365 Business central
-- Microsoft 365 Business
+- Enterprise Mobility & Security E5
+- Plan 1 de l’engagement client Dynamics 365
+- Dynamics 365 Business Central
+- Microsoft 365 Business Premium
 
 Nous fournissons des essais gratuits pour ces produits, car il s’agit des offres commerciales les plus complètes et les plus populaires. Il se peut que nous ajoutions d’autres offres d’essais gratuits à l’avenir.
 
@@ -63,8 +63,8 @@ Vous devez attribuer des licences d’évaluation et des sièges comme vous le f
 Pour signer votre client en vue d’une version d’évaluation via l’espace partenaires :
 
 1. À partir de la **vente** dans l’espace partenaires, accédez au **catalogue**. 
-2. Dans le catalogue, à partir de **Périodicité de facturation**, cliquez sur **Offre de version d'évaluation**. Cela ne fait apparaître que les essais gratuits et désactive les offres payantes. Les versions d’évaluation s’affichent dans l’onglet **Versions d’évaluation** du catalogue.
-3. Sélectionnez la version d’évaluation gratuite que vous voulez proposer, puis sélectionnez **Soumettre**. Toutes les versions d’évaluation sont valables 30 jours ; vous ne serez pas facturé pendant cette période. Vous pouvez également convertir une version d’évaluation en abonnement payant à tout moment pendant la période d’évaluation.
+2. Dans le catalogue, dans **fréquence de facturation**, cliquez sur **offre d’essai**. Cela permet d’afficher uniquement les versions d’évaluation gratuites et de désactiver les autres offres qui ne sont pas gratuites. Les versions d’évaluation s’affichent sous l’onglet **essais** du catalogue.
+3. Sélectionnez la version d’évaluation gratuite que vous souhaitez proposer, puis sélectionnez **Envoyer**. Tous les essais sont effectués pendant 30 jours pendant lesquels vous ne serez pas facturé. Vous pouvez également le convertir en abonnement payant à tout moment pendant la période d’évaluation.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Conversion des versions d’évaluation en abonnements payants
 
@@ -79,28 +79,28 @@ Vous devez convertir votre version d’évaluation en abonnement payant. Pour ce
 
 Vous pouvez convertir des versions d’évaluation en abonnements payants à l’aide du tableau de bord espace partenaires comme suit :
 
-1. Accédez à la page des abonnements du client, puis sélectionnez l'essai gratuit.
-2. Sélectionnez **Convertir la version d'évaluation en abonnement payant**.
-3. Entrez le nombre de licences souhaité et la fréquence de facturation, puis sélectionnez **Appliquer**.
-4. La facturation de l’abonnement payant commencera à la date de conversion et l'abonnement sera automatiquement renouvelé 12 mois à compter de cette dernière. 
+1. Accédez à la page d’abonnement du client, puis sélectionnez la version d’évaluation gratuite.
+2. Sélectionnez **convertir la version d’évaluation en abonnement payant**.
+3. Entrez la quantité de licences et la fréquence de facturation souhaitées, puis sélectionnez **appliquer**.
+4. La facturation de l’abonnement payant commence à la date de conversion, et la nouvelle mise à jour automatique de l’abonnement est de douze mois à compter de la date de la conversion. 
 
 ### <a name="convert-trials-using-apis"></a>Convertir les essais à l’aide d’API
 
 Vous devrez peut-être modifier vos API pour adapter la conversion d’une version d’évaluation gratuite à un abonnement payant. Pour plus d’informations, consultez la documentation du développeur suivante :
 
-- [Convertir un abonnement d'évaluation en abonnement payant](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Obtenir une liste des offres de conversion de version d’évaluation](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Convertir un abonnement d’essai en abonnement payant](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Obtenir la liste des offres de conversion d’essai](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Essais sans conversions
 
 Tous les essais ne peuvent pas être convertis en abonnements payants. Les partenaires peuvent utiliser une version d’évaluation qui n’a pas de conversion jusqu’à la date d’expiration. Les partenaires peuvent acheter des offres compatibles qui prennent en charge les mêmes services que l’offre d’évaluation.  Cette opération doit être effectuée avant l’expiration de la période d’essai afin de s’assurer que les services des offres nouvellement achetés s’alignent sur les services de la version d’évaluation. 
 
-|**Evaluation**   |**Offres de petites entreprises compatibles**   |**Offres d’entreprise compatibles**   |
+|**Version d’évaluation**   |**Offres de petites entreprises compatibles**   |**Offres d’entreprise compatibles**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Essai du Cloud commercial Microsoft Teams (initié par l’utilisateur)   |Business Essentials, Business Premium, M365 Business   | F3 (anciennement F1), Office 365 pour l’entreprise (E1, E3 et E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Essai du Cloud commercial Microsoft Teams (initié par l’utilisateur)   |Microsoft 365 Business de base, Microsoft 365 Business standard Microsoft 365 Business Premium   | F3 (anciennement F1), Office 365 pour l’entreprise (E1, E3 et E5), M365 F1/F3, M365 Enterprise (E3)   |
 
->[!Note] 
->Les offres ci-dessus ont des plans de service similaires avec des fonctionnalités similaires, mais il peut y avoir des différences entre les offres. 
+>[!NOTE]
+>Les offres ci-dessus ont des plans de service similaires avec des fonctionnalités similaires, mais il peut y avoir des différences entre les offres.
 
 ### <a name="expiring-offers"></a>Offres arrivant à expiration
 

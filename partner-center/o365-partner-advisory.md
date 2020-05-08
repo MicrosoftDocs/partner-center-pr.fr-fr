@@ -1,20 +1,21 @@
 ---
-title: Avis de partenaire Office 365-Microsoft 365 Voice dans CSP | Espace partenaires
-description: Les services RTPC dans certains pays peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires.
+title: Avis du partenaire CSP-Microsoft 365 Voice
+description: Apprenez-en plus sur les services RTPC dans certains pays et sur des obligations réglementaires ou fiscales susceptibles de s’appliquer et d’influer sur l’ordre et la facturation des partenaires.
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 author: LauraBrenner
 ms.author: labrenne
 keywords: Office, O365, RTPC, services, taxes, exigences, facture, facturation
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798787"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907362"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Avis de partenaire Office 365 : Microsoft 365 Voice dans CSP
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Avis de partenaire Office 365 : Microsoft 365 Business Voice dans le programme CSP
 
 **S’applique à**
 

@@ -1,22 +1,23 @@
 ---
-title: Créer une invitation à la version d’évaluation | Espace partenaires
+title: Créer une invitation à la version d’évaluation d’Office 365
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Advisor peut créer une invitation d’essai dans l’espace partenaires
-author: XiaLi
-ms.author: v-xili35
+description: Découvrez comment les partenaires peuvent créer et envoyer des invitations à la version d’évaluation pour que leurs clients essaient Office 365. Les partenaires sont un conseiller d’abonnement agréé.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, version d’évaluation
-ms.openlocfilehash: 5b8e563a8ab8bee27bdc87aa0ba756f542a1ddf7
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137244"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907453"
 ---
-# <a name="advisors-create-a-trial-invitation"></a>Conseillers : créer une invitation à la version d’évaluation
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Conseillers : créez et envoyez une invitation à la version d’évaluation pour que les clients essaient Office 365
 
 > [!NOTE]
 > Cette fonctionnalité est disponible uniquement pour les partenaires Microsoft qui sont des conseillers d’abonnement autorisés. 
@@ -27,7 +28,7 @@ Si vous êtes certifié pour offrir une administration déléguée, vous pouvez 
 
 ## <a name="to-create-a-trial-invitation"></a>Pour créer une invitation d’essai
 
-1. Accédez à **versions d’évaluation et achetez des offres** > **créer des invitations**.
+1. Accédez à **versions d’évaluation et achetez offres** > **créer des invitations**.
 
 2. Sur la page **créer une invitation d’évaluation** , sélectionnez les options d’invitation à la version d’évaluation que vous souhaitez inclure :
 

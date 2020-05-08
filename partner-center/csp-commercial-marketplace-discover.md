@@ -1,22 +1,23 @@
 ---
-title: Découvrez les offres sur la place de marché commerciale | Espace partenaires
+title: Découvrir des offres-Marketplace commercial
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires CSP peuvent utiliser l’espace partenaires pour afficher ou rechercher les offres SaaS ou la tarification des éditeurs de logiciels indépendants dans la place de marché.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: abonnements, Marketplace, Marketplace commerciale, tiers, ISV, offres SaaS, programme fournisseur de solutions Cloud, programme CSP, partenaires CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 10653e41adee052b43ed092f4fd9bb48b79a1355
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81873186"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908114"
 ---
-# <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Découvrir les offres et la tarification dans la place de marché commerciale
+# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Découvrir les offres et la tarification dans la place de marché commercial de l’espace partenaires
 
 **S’applique à**
 
@@ -28,7 +29,7 @@ ms.locfileid: "81873186"
 - Administrateur général
 - Agent d’administration
 
-Lorsque des éditeurs de logiciels indépendants choisissent de publier une offre dans la place de marché commercial, ils peuvent également décider s’ils souhaitent que l’offre soit disponible dans le programme CSP. S’ils choisissent de vendre l’offre par le biais du programme CSP, les partenaires CSP doivent voir l’offre dans la place de marché de l’espace partenaires. 
+Lorsque des éditeurs de logiciels indépendants choisissent de publier une offre dans la place de marché commercial, ils peuvent également décider s’ils souhaitent que l’offre soit disponible dans le programme CSP. S’ils choisissent de vendre l’offre par le biais du programme CSP, les partenaires CSP doivent voir l’offre dans la place de marché de l’espace partenaires.
 
 Si une offre ISV n’apparaît pas comme prévu dans l’espace partenaires, cela peut être dû à ce qui suit :
 

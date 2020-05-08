@@ -1,7 +1,7 @@
 ---
-title: Personnaliser le catalogue | Espace partenaires
+title: Personnaliser le catalogue offres/produits
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment personnaliser le catalogue Microsoft pour faciliter l’accès aux offres ou produits que votre organisation utilise le plus.
@@ -9,14 +9,15 @@ ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b3f22902b5329a1c60c9e890fedfbcbe61486c70
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fa45de1d965f11beef993db3e1583c4cbc2ebae8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798357"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907881"
 ---
-# <a name="customize-the-catalog"></a>Personnaliser le catalogue
+# <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>Personnaliser le catalogue Microsoft avec les offres ou produits les plus adaptés à votre organisation
 
 **S’applique à**
 
@@ -35,10 +36,3 @@ Le catalogue répertorie les produits Microsoft et les modules complémentaires 
 
 1.  Accédez au &gt; menu espace partenaires **vendre** &gt; un **catalogue**.
 2.  Choisissez jusqu’à cinq&nbsp;offres à afficher en haut du catalogue.
-
- 
-
- 
-
-
-

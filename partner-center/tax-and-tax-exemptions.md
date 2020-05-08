@@ -1,8 +1,8 @@
 ---
-title: Taxes et exemptions de taxe | Espace partenaires
+title: Taxes régionales et exonérations fiscales
 ms.topic: article
-ms.date: 11/21/2019
-description: En savoir plus sur les responsabilités fiscales pour votre région géographique spécifique et sur la façon d’envoyer des exemptions de taxe pour les ventes de votre fournisseur de services de chiffrement.
+ms.date: 04/28/2020
+description: En savoir plus sur les responsabilités fiscales pour votre région géographique spécifique et sur la façon d’envoyer des exemptions de taxe pour les ventes de votre fournisseur de services de chiffrement. En savoir plus sur la prise en charge des questions fiscales
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,14 +10,15 @@ author: LauraBrenner
 keywords: taxe, exonération fiscale, TVA, revendeur, facturation
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797697"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907804"
 ---
-# <a name="taxes-and-tax-exemptions"></a>Taxes et exonérations fiscales
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays
 
 S’applique à :
 
@@ -95,7 +96,7 @@ Ensuite, créez un ticket de support pour Microsoft avec vos informations d’ex
 
 6. Choisissez Envoyer pour envoyer dans votre **demande de support** . Microsoft vous enverra un courrier électronique pour plus d’informations.
 
-## <a name="support"></a>Assistance
+## <a name="support"></a>Support
 
 Pour obtenir d’autres questions sur les exemptions et les remboursements de taxes, demandez de l’aide dans l’espace partenaires. Laissez deux&nbsp;semaines s’écouler pour que Microsoft vous contacte et résolve le problème.
 

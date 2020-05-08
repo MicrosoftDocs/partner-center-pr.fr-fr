@@ -1,22 +1,23 @@
 ---
-title: Fournir un support à vos clients | Espace partenaires
+title: Fournir un support à vos clients
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En savoir plus sur les responsabilités du support technique des partenaires dans le programme CSP.
+description: En savoir plus sur les responsabilités du support technique pour les partenaires du programme CSP.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d7a6c7a9d6280ceb454e2e93dfe14b58e782fd7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 6c12f56f30c347266c4f02ea74ac09ac0e37cb7b
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798937"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907892"
 ---
-# <a name="providing-support-to-your-customers"></a>Fournir un support à vos clients
+# <a name="providing-different-types-of-support-to-your-customers"></a>Fournir différents types de support à vos clients
 
 **S’applique à**
 

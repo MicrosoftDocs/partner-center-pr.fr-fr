@@ -1,7 +1,7 @@
 ---
-title: Acheter des réservations Microsoft Azure pour le compte de vos clients | Espace partenaires
+title: Acheter des réservations Microsoft Azure pour les clients
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, réservations, gérer, facturation, achat
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7fc71e05afe9f8926c0b09df9055dc263b89055b
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205667"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908300"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires
 
 **S’applique à**
 

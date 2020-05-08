@@ -1,7 +1,7 @@
 ---
-title: Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions Cloud | Espace partenaires
+title: Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Utilisez ces instructions pour consolider des locataires de différents pays/régions. Cela comprend les étapes de migration des comptes client et des abonnements client.
@@ -11,14 +11,15 @@ ms.author: labrenne
 keywords: migrer des clients, approvisionnement, compte de locataire, consolider les locataires
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 813d24c12501edc7b633d3e10b5174d02ed881d1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798447"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907990"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidation des locataires disposant de l’autorisation régionale Fournisseur de solutions&nbsp;Cloud
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instructions pour la consolidation des locataires d’autorisation régionale du CSP
 
 **S’applique à**
 
@@ -99,8 +100,6 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 
  >[! **Remarque**] La suspension de l’abonnement garantit que la double facturation n’a pas lieu.
 
-
-
 ~~~
 The Subscription shows **suspended** on the subscriptions list.
 ~~~
@@ -111,8 +110,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migration d’abonnements Azure basés sur l’utilisation
 
-
-Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de solutions Cloud Azure basés sur l’utilisation, contrairement aux abonnements Fournisseur de solutions Cloud Office&nbsp;365. Le support Microsoft Azure peut migrer les abonnements Azure ainsi que tous les services ou ressources déployés entre les comptes de revendeur Fournisseur de solutions Cloud **Transition à partir de** et le compte de revendeur Fournisseur de solutions Cloud **Transition vers**. Il n’y a aucune interruption de service pour le client pendant cette transition.
+Azure, les abonnements CSP basés sur l’utilisation n’ont pas besoin d’être migrés manuellement comme c’est le cas avec les abonnements CSP Office 365. Le support Microsoft Azure peut migrer les abonnements Azure ainsi que tous les services ou ressources déployés entre les comptes de revendeur Fournisseur de solutions Cloud **Transition à partir de** et le compte de revendeur Fournisseur de solutions Cloud **Transition vers**. Il n’y a aucune interruption de service pour le client pendant cette transition.
 
 1.  Vérifiez que les comptes client qui ont besoin d’abonnements Azure migrés ont accepté le contrat à associer au nouveau compte Fournisseur de solutions Cloud **Transition vers**.
 2.  Les partenaires notifient à Microsoft les comptes client dont les abonnements Azure sont prêts à migrer, et fournit les noms de société de ces clients.
@@ -128,13 +126,13 @@ Notez qu’il est inutile de migrer manuellement les abonnements Fournisseur de 
 
 ### <a name="notes"></a>Notes
 
--   La désactivation de l’abonnement de la **transition à partir** du compte CSP n’a pas d’impact sur le service du client final, à condition que le service ait été approvisionné à partir du compte de **transition vers** CSP avant la désactivation.
+-   La désactivation de l’abonnement de la **transition à partir** du compte CSP n’a pas d’impact sur le service du client final tant que le service a été approvisionné à partir du compte de **transition vers** le fournisseur CSP avant de désactiver l’abonnement.
 
--   Le client ne peut pas utiliser les abonnements et ces derniers ne génèrent pas de frais en cas de suspension ou d’annulation.
+-   Les abonnements ne peuvent pas être utilisés par le client et ne génèrent pas de frais lorsqu’ils sont suspendus ou annulés.
 
 -   Il est actuellement impossible de supprimer complètement un client de la liste de clients.
 
--   **Remarque** Les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir de** dans l’Espace partenaires, le jour où ces abonnements sont transférés et configurés sous le compte de locataire partenaire **Transition vers** dans l’Espace partenaires pour éviter une double facturation. Microsoft ne prend pas en charge les demandes de support pour les crédits résultant d’un chevauchement dans la facturation à cause d’une suspension incorrecte des abonnements **Transition à partir de**.
+-   **Remarque** Les partenaires doivent suspendre les abonnements sur le compte de locataire partenaire **Transition à partir de** dans l’Espace partenaires, le jour où ces abonnements sont transférés et configurés sous le compte de locataire partenaire **Transition vers** dans l’Espace partenaires pour éviter une double facturation. Microsoft ne prend pas en charge les demandes de crédits en raison d’un chevauchement de la facturation qui résulte de la définition incorrecte du **passage des** abonnements à l’état suspendu.
 
 
 

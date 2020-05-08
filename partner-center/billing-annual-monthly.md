@@ -1,20 +1,22 @@
 ---
-title: Différences de facturation mensuelle et annuelle | Espace partenaires
+title: Différences entre les facturations mensuelle et annuelle
 ms.topic: article
-ms.date: 11/25/2019
-Description: En savoir plus sur les différences entre les cycles de facturation mensuel et annuel dans l’espace partenaires.
+ms.date: 05/06/2020
+Description: Découvrez comment les facturations mensuelles et annuelles diffèrent dans l’espace partenaires. Apprenez également à basculer entre différents types de facturation et les implications du basculement.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798597"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908255"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>Différences entre les facturations mensuelle et annuelle
+# <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendre la différence entre la facturation mensuelle et la facturation annuelle dans l’espace partenaires
+
 
 **S’applique à**
 
@@ -133,7 +135,7 @@ L’abonnement au module complémentaire aura automatiquement la même fréquenc
 
 La politique d’annulation est la même pour toutes les fréquences de facturation.
 
-Pour la facturation annuelle, si l’abonnement est annulé au cours des 30 premiers jours de la période de 12 mois payée, vous recevrez un crédit de 100% à la prochaine date de facturation. Si l’abonnement est annulé après 30 jours de la période de 12 mois payée, vous recevrez un crédit au prorata à la prochaine date de facturation.
+Pour la facturation annuelle, si l’abonnement est annulé au cours des 30 premiers jours de la période de 12 mois payée, vous recevrez un crédit de 100% à la prochaine date de facturation. Si l’abonnement est annulé au bout de 30 jours de la période de 12 mois payée, vous recevrez un crédit au prorata à la date de facturation suivante.
 
 ### <a name="moving-subscriptions-between-partners"></a>Déplacement d’abonnements entre partenaires
 
@@ -157,7 +159,7 @@ Si le prix d’une offre diminue au cours de la période de facturation, le mont
 
 Le crédit pour une licence ou un abonnement annulé est calculé comme suit :
 
-**Crédit d’annulation** = ((* * prix mensuel * * * 12)/365 \* ) **jours restants sur le** \* nombre de licences à douze mois annulées.
+**Crédit d’annulation** = ((* * prix mensuel * * * 12)/365 \* ) **jours restants dans le** \* nombre de licences sur douze mois annulées.
 
 ## <a name="reconciliation-file"></a>Fichier de rapprochement
 

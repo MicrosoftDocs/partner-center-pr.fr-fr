@@ -1,23 +1,23 @@
 ---
-title: Espace partenaires-vue d’ensemble des réservations Microsoft Azure | Espace partenaires
+title: Vendre des clients Microsoft Azure des réservations
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Découvrez comment les fournisseurs de solutions Cloud peuvent acheter, vendre ou gérer des réservations Azure pour les clients à l’aide de l’espace partenaires, du Portail Azure ou de l’API de l’espace partenaires.
+Description: En tant que fournisseur de solutions Cloud, vous pouvez acheter, vendre ou gérer des réservations Azure pour les clients. Utilisez l’espace partenaires, le Portail Azure ou l’API espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, réservations, gérer, facturation, achat, Azure RI, instances réservées Azure
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205727"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908287"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>Espace partenaires - Vendre des réservations Microsoft Azure
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendez des Microsoft Azure des réservations aux clients à l’aide de l’espace partenaires, des Portail Azure ou des API
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 

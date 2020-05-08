@@ -1,7 +1,7 @@
 ---
-title: Support autonome du client | Espace partenaires
+title: Support autonome du client
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez quand et où les clients peuvent effectuer un support autonome pour gérer leurs propres comptes et lorsqu’ils doivent contacter leur partenaire de fournisseur de solutions Cloud.
@@ -10,23 +10,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: prise en charge automatique du client, auto-support,
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798377"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907916"
 ---
-# <a name="customer-self-support"></a>Support autonome du client
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Prise en charge du client en libre-service par le biais du centre d’administration Microsoft Office 365 ou via le Portail Azure
 
 **S’applique à**
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
 
-
-Les clients peuvent se connecter à leur propre Centre d’administration Microsoft Office 365 ou au portail de gestion Azure et effectuer les actions suivantes :
+Les clients peuvent se connecter à leur propre Microsoft Office Centre d’administration 365 ou dans le Portail Azure pour gérer leurs propres comptes :
 
 -   Afficher les communications et les notifications sur les produits, telles que les informations d’état du service dans le Centre de messages.
 

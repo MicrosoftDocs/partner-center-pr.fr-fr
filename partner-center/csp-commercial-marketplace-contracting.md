@@ -1,22 +1,23 @@
 ---
-title: Contrats pour les fournisseurs de solutions Cloud utilisant la place de marché commerciale | Espace partenaires
+title: Contrats CSP pour la place de marché commerciale
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les conditions générales et les contrats relatifs aux abonnements à des produits ISV tiers achetés par des partenaires CSP dans la place de marché commerciale.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: abonnements, Marketplace, tiers, ISV, programme partenaire CSP, contrats, vendre, acheter,
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253777"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908133"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>Contrats associés aux activités de partenaire CSP dans la place de marché commerciale
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contrats pour les partenaires CSP qui exercent des activités dans la place de marché commerciale
 
 **S’applique à**
 
@@ -25,7 +26,7 @@ ms.locfileid: "74253777"
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 
 Cette section concerne les contrats pour les partenaires du programme CSP qui choisissent d’acheter des offres de la place de marché ISV ou des produits pour leurs clients à partir de la place de marché commerciale de l’espace partenaires ou du Portail Azure.

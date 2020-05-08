@@ -1,7 +1,7 @@
 ---
-title: Exemption des exigences de l’examen à usage unique pour la compétence du développement d’applications | Espace partenaires
+title: Exemption d’examen de compétence pour le développement d’applications
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Pour les partenaires disposant d’une compétence ISV antérieure, Découvrez comment obtenir une exemption des exigences d’examen à usage unique pour les compétences de développement d’applications
@@ -9,18 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, ISV, développement d’applications
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722351"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907483"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exemption des exigences de l’examen à usage unique pour les compétences de développement d’applications
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Administrateur partenaire MPN
 
 Si vous avez atteint la compétence du ISV et que l’un des scénarios suivants s’applique à vous, nous offrons à votre entreprise une exemption des exigences d’examen à usage unique pour la compétence en matière de [développement d’applications](https://partner.microsoft.com/membership/application-development-competency)Gold ou Silver. 
@@ -37,24 +38,24 @@ Partenaires avec une compétence de développement d’applications obtenue via 
 
 - **Si vous avez une liste de place de marché commercial Microsoft**, votre exemption d’obligation d’examen à usage unique sera disponible au moment du renouvellement de votre compétence. À ce moment-là, vous aurez 30 jours pour tirer parti de l’offre.
 
-- **Si vous n’avez pas de liste de place de [marché commercial Microsoft](https://azure.microsoft.com/overview/commercial-marketplace/)** , publiez votre solution d’ici le 2020 février pour être éligible à l’exemption des exigences d’examen à usage unique.
+- **Si vous n’avez pas de liste de place de [marché commercial Microsoft](https://azure.microsoft.com/overview/commercial-marketplace/) **, publiez votre solution d’ici le 2020 février pour être éligible à l’exemption des exigences d’examen à usage unique.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Comment tirer parti de votre offre
 
-1. Dans le menu espace partenaires de votre tableau de bord, sélectionnez **compétences**.
+1. Dans le menu Espace partenaires de votre tableau de bord, sélectionnez **Compétences**.
 2. Dans la liste des compétences disponibles, le développement d’applications est marqué comme **terminé**.
 
 ![ISV vers AppDev](images/appdev.png)
 
 3. Sélectionnez **développement d’applications**. Vous verrez que vous avez reçu un remplacement qui exempte votre entreprise de la satisfaction des exigences de l’examen. 
 
-4. Pour profiter de cette offre, accédez à **offres d’abonnement**. Vous devrez peut-être payer les frais de compétence pour terminer le processus en fonction de l’état d’achat ou de renouvellement de votre compétence. 
+4. Pour profiter de cette offre, accédez à **Offres d’abonnement**. Vous devrez peut-être payer les frais de compétence pour terminer le processus en fonction de l’état d’achat ou de renouvellement de votre compétence. 
 
 Cette offre est disponible via l’espace partenaires.
 
 Si vous avez besoin d’aide pour obtenir votre offre ou si vous avez des questions sur votre éligibilité pour cette offre, contactez le [support technique du partenaire](https://partner.microsoft.com/Support). 
 
-## <a name="frequently-asked-questions"></a>Forum Aux Questions
+## <a name="frequently-asked-questions"></a>Forum aux questions
 
 **Comment faire savoir si ma société est éligible à cette offre ?**
 

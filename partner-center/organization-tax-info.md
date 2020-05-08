@@ -1,37 +1,37 @@
 ---
-title: Informations fiscales de l’organisation | Espace partenaires
+title: Ajouter ou envoyer un ID de TVA pour les taxes professionnelles
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Les taxes associées aux achats de l'Espace partenaires sont déterminées par votre adresse professionnelle. Les entreprises des pays suivants peuvent communiquer leur numéro de TVA ou l’équivalent local.
+description: Les taxes pour les achats de l’espace partenaires sont déterminées par votre adresse professionnelle. Les entreprises dans certains pays peuvent fournir leur numéro de TVA ou leur équivalent local.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOAPR.20
+ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005028"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907318"
 ---
-# <a name="company-tax-information"></a>Informations fiscales sur l’entreprise
+# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>Informations fiscales sur l’entreprise et ajout ou envoi d’ID de TVA pour les achats de l’espace partenaires
 
 **S’applique à**
 
 - Espace partenaires
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
--   Administration de facturation
+-   Administrateur de la facturation
 -   Agent d’administration
--   Commercial
+-   Agent commercial
 
-Les taxes associées aux achats de l'Espace partenaires sont déterminées par votre adresse professionnelle. Les entreprises dans certains pays peuvent [fournir leur numéro de TVA ou leur](#submit-vat-id-number) équivalent local.
+Les taxes pour les achats de l’espace partenaires sont déterminées par votre adresse professionnelle. Les entreprises dans certains pays peuvent [fournir leur numéro de TVA ou leur](#submit-vat-id-number) équivalent local.
 
-### <a name="add-your-vat-id"></a>Ajouter votre numéro de TVA
+### <a name="add-your-vat-id"></a>Ajouter votre ID de TVA
 
 Pour modifier le profil de facturation, vous devez être administrateur général, administrateur de facturation ou agent d’administration.
 

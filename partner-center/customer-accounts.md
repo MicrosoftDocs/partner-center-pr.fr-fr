@@ -1,22 +1,23 @@
 ---
-title: Comptes client | Espace partenaires
+title: Afficher et gérer les comptes client
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Recherchez des ressources pour les partenaires revendeurs dans l’espace partenaires. Cela implique de créer des comptes clients avant de vendre des abonnements, des factures ou des services de support.
+Description: Recherchez des ressources pour les partenaires revendeurs dans l’espace partenaires. Cela comprend la création de comptes clients avant la vente d’abonnements, la facturation ou l’offre de support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205767"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907940"
 ---
-# <a name="customer-accounts"></a>Comptes client
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Configuration et gestion des comptes clients pour les partenaires revendeurs dans l’espace partenaires
 
 **S’applique à**
 

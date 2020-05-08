@@ -1,22 +1,23 @@
 ---
-title: Présentation du marché commercial pour les fournisseurs de solutions Cloud | Espace partenaires
+title: Vue d’ensemble-Marketplace CSP
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dans l’espace partenaires, Découvrez comment vendre des abonnements clients à des offres SaaS (Software as a service) à partir d’éditeurs de logiciels indépendants (ISV) de la place de marché.
-author: MicheleHope
-ms.author: v-mihope
+description: Découvrez comment vendre des abonnements clients à des offres SaaS (Software as a service) à partir d’éditeurs de logiciels indépendants (ISV) de la place de marché.
+author: LauraBrenner
+ms.author: labrenne
 keywords: abonnements, Marketplace, tiers, ISV, SaaS, licence
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253787"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908096"
 ---
-# <a name="commercial-marketplace-overview"></a>Présentation du marché commercial
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Vue d’ensemble de la place de marché commercial dans l’espace partenaires
 
 **S’applique à**
 
@@ -37,7 +38,7 @@ En tant que partenaire dans le programme CSP, vous pouvez utiliser l’espace pa
 
 Si vous êtes un partenaire du programme CSP, il existe de nombreuses activités commerciales de la place de marché que vous pouvez exécuter en ce qui concerne les offres ISV. Consultez le tableau suivant pour en savoir plus sur chaque activité.
 
-|**Si vous souhaitez**  |**En lecture**   |
+|**Si vous souhaitez**  |**Lecture**   |
 |:------------------------------------|:------------------|
 |Découvrez comment afficher ou rechercher les offres, les tarifs, les détails du produit ou les informations de contact du serveur de publication disponibles | [Découvrir les offres](csp-commercial-marketplace-discover.md) | 
 |En savoir plus sur l’achat et le déploiement d’une offre   | [Offres d’achat](csp-commercial-marketplace-purchase.md)   | 
@@ -55,7 +56,7 @@ En tant que partenaire dans le programme CSP, vous pouvez effectuer de nombreuse
 
 - Le [portail de gestion Microsoft Azure](https://portal.azure.com/)
 
-    Ou
+    ou
 
 - Système ou site Web d’un éditeur ISV tiers
 
@@ -68,7 +69,7 @@ Accédez à [notions de base](billing-basics.md) sur la facturation pour en savo
 
 Pour savoir où effectuer une activité de place de marché spécifique pour les offres ISV basées sur une licence ou sur l’utilisation, consultez les tableaux suivants.
 
-|**Pour les offres SaaS basées sur les licences des éditeurs de logiciels indépendants**  |**Utiliser**  |
+|**Pour les offres SaaS basées sur les licences des éditeurs de logiciels indépendants**  |**Utilisation**  |
 |:------------------------------------|:------------------|
 |Pour découvrir ou Rechercher des offres disponibles  | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |
 |Pour acheter une offre  | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |
@@ -76,7 +77,7 @@ Pour savoir où effectuer une activité de place de marché spécifique pour les
 |Pour annuler/renouveler des abonnements d’offre ou ajouter/supprimer des sièges | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |
 |Pour créer des utilisateurs ou gérer des autorisations  | Système ou site Web de l’éditeur ISV  |
 
-|**Pour les offres basées sur l’utilisation des éditeurs de logiciels indépendants**  |**Utiliser**  |
+|**Pour les offres basées sur l’utilisation des éditeurs de logiciels indépendants**  |**Utilisation**  |
 |:------------------------------------|:------------------|
 |Pour découvrir ou Rechercher des offres disponibles  | Tableau de bord de l’espace partenaires, API de l’espace partenaires ou Portail Azure  |
 |Pour acheter une offre  | Portail Azure  |

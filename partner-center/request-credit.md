@@ -1,22 +1,23 @@
 ---
-title: Demander un crédit SLA auprès de Microsoft | Espace partenaires
+title: Demander un crédit de contrat SLA à Microsoft
 ms.topic: article
-ms.date: 11/21/2019
-description: Découvrez les avantages, les restrictions et les procédures de demande d’un crédit SLA de Microsoft si vos clients rencontrent une panne de service.
+ms.date: 04/28/2020
+description: Découvrez les avantages, les restrictions et les procédures pour demander un crédit de contrat de niveau de service (SLA) auprès de Microsoft si vos clients rencontrent une panne de service.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943142"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907870"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Demander un crédit SLA auprès de Microsoft 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Comment et quand demander un crédit de contrat de niveau de service (SLA) de Microsoft
 
 Vous êtes en mesure de demander des **crédits de contrat de niveau de service (SLA)** auprès de Microsoft si un service que vous fournissez à vos clients est en panne.
 
@@ -47,7 +48,7 @@ Vous pouvez trouver l’identificateur de l’incident de panne sur la page **se
 | EX | Exchange Online |
 | FO | Protection Exchange Online |
 | SB | Skype entreprise Online (anciennement Lync Online) |
-| Système d’exploitation | Abonnement Office |
+| Système d''exploitation | Abonnement Office |
 | Po | Power BI pour Office 365 |
 | SP | SharePoint Online |
 | Ye | Yammer Enterprise |
@@ -57,10 +58,10 @@ Vous pouvez trouver l’identificateur de l’incident de panne sur la page **se
 
 Pour envoyer votre demande de crédit SLA à Microsoft via le tableau de bord de l’espace partenaires :
 
-1. Connectez-vous au tableau de bord de l’espace partenaires.
+1. Connectez-vous au tableau de bord de l’Espace partenaires.
 2. Dans le menu de gauche, choisissez **demandes de service**, puis sélectionnez **demandes de support de partenaire**.
 3. Sur la page **demande de partenaire** , choisissez **nouvelle requête**.
 4. Dans la page **Démarrer la demande** , recherchez la section **CSP-Customers, Orders et subscriptions**. Dans cette section, choisissez **Sélectionner un type de problème**, puis sélectionnez **demandes de crédit de services client**.
-5. Dans la page **solutions recommandées** , sous avez **-vous besoin d’aide supplémentaire ?** , choisissez **Oui**.
+5. Dans la page **solutions recommandées** , sous avez **-vous besoin d’aide supplémentaire ?**, choisissez **Oui**.
 6. Dans la page **Détails** , renseignez la section **Détails du problème** . Dans la zone de texte **Détails** , veillez à entrer les [informations requises](#required-information) que vous avez rassemblées précédemment.
 7. Choisissez **Envoyer** pour envoyer dans votre demande de crédit SLA.

@@ -1,7 +1,7 @@
 ---
-title: Notification de l’espace partenaires pour l’activité crypto-Mining | Espace partenaires
+title: Notification pour l’activité de chiffrement d’exploration de données
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez ce que cela signifie quand vous voyez une notification sur l’crypto-monnaies d’exploration de données potentiel (ou l’exploration de données de chiffrement) sur un ou plusieurs de vos abonnements Azure.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: Crypto-Mining, crypto-monnaies Mining, sécurité
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 68ee138b6c87dde53eda026d7fef371e2e440344
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722307"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908394"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notification de l’espace partenaires pour l’activité d’exploration de données crypto-monnaies
 
@@ -28,38 +29,38 @@ Vous avez peut-être reçu la notification de l’espace partenaires suivante su
  
 ![Image de notification de sécurité dans l’espace partenaires](images/crypto1.png)
 
-L’objectif de cette notification est de vous informer que nous avons détecté une activité de minage de cryptomonnaie sur un ou plusieurs de vos abonnements Azure au cours de la semaine écoulée. Le minage de cryptomonnaie ne constitue pas nécessairement une activité frauduleuse. Toutefois, il s'agit-là d'une pratique peu habituelle car le coût de gestion des activités de minage de cryptomonnaie dans Azure est souvent supérieur à tout gain financier potentiel en découlant. Pour vous protéger contre toute fraude financière susceptible d'avoir un impact sur vous ou votre client, procédez comme suit :
+L’objectif de cette notification est de vous informer que nous avons détecté un Crypto-monnaies d’exploration de données sur un ou plusieurs de vos abonnements Azure au cours de la semaine précédente. L’exploration de crypto-monnaies n’est pas nécessairement une activité frauduleuse. Toutefois, c’est inhabituel, car le coût d’exécution de l’exploration de crypto-monnaies dans Azure a tendance à contrebalancer les récompenses financières potentielles. Pour vous protéger contre les fraudes financières susceptibles d’avoir un impact sur vous ou votre client, envisagez les étapes suivantes :
 
-1.  Passez en revue et confirmez que le compte client est en règle. Vous pouvez accéder à l’abonnement directement en cliquant sur la notification.
+1.  Vérifiez et confirmez que le compte client est en bonne position. Vous pouvez accéder directement à l’abonnement en cliquant sur la notification.
 
-2.  Passez en revue les modèles d’utilisation Azure associés à l’abonnement. Des pics soudains peuvent signaler une activité inattendue.
+2.  Passez en revue les modèles d’utilisation d’Azure pour l’abonnement. Les pics soudains peuvent suggérer une activité inattendue.
 
-3.  Contactez le client pour confirmer qu'il s'agit d'une activité normale.
+3.  Contactez le client pour confirmer que l’activité est attendue.
 
-Si l’activité est normale, revenez à la page des détails de l’abonnement Azure du client et vérifiez que le minage de cryptomonnaie est légitime. 
+Si l’activité est attendue, revenez à la page de détails de l’abonnement Azure du client et vérifiez que l’exploration de données crypto-monnaies est légitime. 
 
 
 ![Image de la page de détails de l’abonnement Azure du client](images/crypto2.png)
 
-S'il s'agit d'une activité inattendue, procédez comme suit :
+Si l’activité est inattendue, tenez compte des points suivants :
 
-1.  Vérifiez que les ressources Azure dans lesquelles le minage des cryptomonnaie est en cours ne sont pas nécessaires et supprimez-les pour éviter d’autres frais Azure.
+1.  Vérifiez que les ressources Azure pour l’exploration de données crypto-monnaies ne sont pas nécessaires et supprimez-les pour éviter d’autres frais Azure.
 
-2.  Comprendre comment les ressources ont été créées en premier lieu. Vous devrez peut-être passer en revue les fichiers journaux de gestion des ressources Azure pour vérifier les activités d'approvisionnement des ressources.
+2.  Découvrez comment les ressources ont été créées en premier lieu. Vous devrez peut-être passer en revue les journaux de gestion des ressources Azure pour les activités d’approvisionnement des ressources.
 
 3.  Si vous avez besoin de savoir qui a créé l’abonnement, consultez les journaux d’activité de l’espace partenaires.
 
-La détection des activités de minage des cryptomonnaie est basée sur la méthode heuristique et peut ne pas être précise à 100 %. Veillez à mettre en place des systèmes de gouvernance et de suivi pour vous protéger contre tout activité frauduleuse ou illicite. Pour plus d’informations, consultez [Défaut de paiement, fraude ou mauvaise utilisation](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
+La détection d’activités d’exploration de données crypto-monnaies est basée sur des heuristiques et peut ne pas être de 100%. Veillez à mettre en place des systèmes de gouvernance et de surveillance pour vous protéger contre les activités frauduleuses ou non autorisées. Pour plus d’informations, consultez [non-paiement, fraude ou utilisation abusive](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
-Si vous avez des questions ou des inquiétudes à propos des notifications, vous pouvez procéder comme suit pour ouvrir une demande de support.
+Si vous avez des questions ou des problèmes relatifs à la notification, vous pouvez utiliser la procédure suivante pour ouvrir une demande de support.
 
 1.  Dans l’espace partenaires, sélectionnez **support** , puis demandes de l' **espace partenaires**.
-3.  Sélectionnez **Nouvelle demande**. 
-4.  Dans le menu déroulant **Type de problème**, sélectionnez **Ajout ou gestion de clients**.
-5.  Dans le menu déroulant **Impact**, sélectionnez **Modéré**.
-6.  Dans le champ **Titre**, saisissez **Notification de minage de cryptomonnaie**.
-7.  Dans le champ **Description**, entrez le nom de l’abonnement affecté, ainsi que vos autres questions ou problèmes. 
-8.  Entrez vos coordonnées.
+3.  Sélectionnez **nouvelle demande**. 
+4.  Dans le menu déroulant **type de problème** , sélectionnez **Ajouter ou gérer des clients**.
+5.  Dans le menu déroulant **impact** , sélectionnez **modéré**.
+6.  Dans le champ **titre** , entrez **notification d’exploration de données de chiffrement**.
+7.  Dans le champ **Description** , entrez le nom de l’abonnement affecté, ainsi que vos autres questions ou préoccupations. 
+8.  Entrez vos informations de contact.
 9.  Sélectionnez **Envoyer**.
 
 
