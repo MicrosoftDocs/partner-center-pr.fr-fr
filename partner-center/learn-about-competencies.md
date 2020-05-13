@@ -1,7 +1,7 @@
 ---
 title: Compétences Microsoft requises pour les niveaux d’adhésion Gold et Silver | Espace partenaires
 ms.topic: article
-ms.date: 04/23/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les compétences requises pour obtenir les niveaux d’adhésion Gold ou Silver.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: compétences, adhésion silver, adhésion gold, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau, spécialisations avancées
 ms.localizationpriority: high
-ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.openlocfilehash: 5ddb638b15be2426e54927fcf7aeba4c6ed4eed2
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120380"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859362"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informations sur les compétences de niveau Silver et Gold et les spécialisations avancées Microsoft
 
