@@ -11,16 +11,17 @@ ms.author: labrenne
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau 2, de niveau 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e2e37b584d7d95ec09018cf8c74a238c4ef76519
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205657"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362757"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
+
 - Administrateur général
 - Administrateur des utilisateurs
 - Agent d’administration
@@ -33,33 +34,35 @@ En tant que revendeur indirect dans le programme Fournisseur de solutions Cloud,
 Différents fournisseurs indirects offrent différents services et support. Évaluez les fournisseurs de votre région pour déterminer ceux qui répondent le mieux à vos besoins. En règle générale, la plupart des fournisseurs proposent les services suivants :
 
 - Vous fournir une formation et une assistance techniques
-- Vous aider à commercialiser vos produits et services 
+- Vous aider à commercialiser vos produits et services
 - Vous aider à établir les conditions de crédit et de financement
 
 Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/partner/find-a-provider) pour en trouver un.
-
 
 Pour plus d’informations sur les conditions à remplir pour vendre dans le cadre du programme Fournisseur de solutions Cloud en tant que revendeur indirect, consultez [Démarrer en tant que revendeur indirect](https://partner.microsoft.com/cloud-solution-provider/whats-required) sur le [site web Microsoft Partner Network](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>S’inscrire en tant que revendeur indirect dans le programme Fournisseur de solutions Cloud
 
 > [!NOTE]  
-> Si vous êtes déjà inscrit au programme Fournisseur de solutions Cloud, il vous suffira peut-être de fournir les coordonnées du support client pour créer un compte revendeur dans l’Espace partenaires. 
+> Si vous êtes déjà inscrit au programme Fournisseur de solutions Cloud, il vous suffira peut-être de fournir les coordonnées du support client pour créer un compte revendeur dans l’Espace partenaires.
 
 ### <a name="before-you-begin"></a>Avant de commencer
 
 Si vous découvrez le programme Fournisseur de solutions Cloud, vous devez vous y inscrire en tant que revendeur indirect. Vous devez ensuite créer un compte dans l’Espace partenaires. Pour ce faire, vous devez fournir les informations suivantes durant le processus d’inscription. Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer :
 
-- **Informations d’identification d’administrateur général pour votre compte professionnel**<br>
-Vous devez fournir le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter à Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Si vous ne disposez pas encore d’un compte professionnel, vous pouvez en créer un durant le processus d’inscription. Si vous ne savez pas si vous disposez déjà d’un compte professionnel, consultez [Comptes professionnels et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).
+- **Informations d’identification d’administrateur général pour votre compte professionnel**
 
-- **Le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter au site Partner Membership Center**<br>
-  Nous utilisons ces informations pour lier l’identifiant Microsoft Partner Network (ID MPN) de votre organisation à votre nouveau compte Espace partenaires. Vous pouvez ensuite gérer vos données et avantages en tant que membre dans l’Espace partenaires.
+   Vous devez fournir le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter à Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Si vous ne disposez pas encore d’un compte professionnel, vous pouvez en créer un durant le processus d’inscription. Si vous ne savez pas si vous disposez déjà d’un compte professionnel, consultez [Comptes professionnels et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).
 
-- **La dénomination sociale, l’adresse, le contact principal de votre organisation et les détails du support**<br>
-  Nous avons besoin de ces informations pour vérifier que votre entreprise dispose d’un profil établi avec Microsoft et que vous êtes autorisé à agir en son nom.
+- **Le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter au site Partner Membership Center**
 
-  L’examen et la vérification des informations que vous avez fournies peuvent nous prendre plusieurs jours. Nous enverrons un e-mail à votre contact principal quand nous en aurons terminé.
+   Nous utilisons ces informations pour lier l’identifiant Microsoft Partner Network (ID MPN) de votre organisation à votre nouveau compte Espace partenaires. Vous pouvez ensuite gérer vos données et avantages en tant que membre dans l’Espace partenaires.
+
+- **La dénomination sociale, l’adresse, le contact principal de votre organisation et les détails du support**
+
+   Nous avons besoin de ces informations pour vérifier que votre entreprise dispose d’un profil établi avec Microsoft et que vous êtes autorisé à agir en son nom.
+
+   L’examen et la vérification des informations que vous avez fournies peuvent nous prendre plusieurs jours. Nous enverrons un e-mail à votre contact principal quand nous en aurons terminé.
 
 ### <a name="get-started"></a>Prendre en main
 
@@ -135,18 +138,18 @@ Si un fournisseur indirect souhaite se connecter avec vous sur l’Espace parten
    > [!NOTE]  
    > Quand vous établissez un partenariat avec un fournisseur indirect, vous autorisez celui-ci à envoyer des commandes et à ajouter des abonnements pour le compte de vos clients. De plus, vous lui accordez un accès administrateur au compte professionnel de votre entreprise. Une fois votre partenariat avec le fournisseur créé, vous pouvez supprimer l’accès administrateur du fournisseur à votre compte professionnel dans le portail Office 365.
 
-4. Sélectionnez **Fournisseurs indirects** à partir de votre menu **Espace partenaires** pour afficher la liste des fournisseurs avec lesquels vous avez un partenariat. 
+4. Sélectionnez **Fournisseurs indirects** à partir de votre menu **Espace partenaires** pour afficher la liste des fournisseurs avec lesquels vous avez un partenariat.
 
 5. Sélectionnez **Afficher les clients** pour afficher la liste des clients que vous partagez avec le fournisseur.
 
 6. Sélectionnez **Inviter de nouveaux clients** pour demander à un nouveau client d’autoriser les relations de revendeur avec vous et votre fournisseur indirect. Veillez à disposer de l’adresse e-mail du client pour pouvoir lui envoyer l’invitation.  
 
    > [!IMPORTANT]  
-   > Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients pour pouvoir envoyer des commandes en leur nom. 
- 
+   > Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients pour pouvoir envoyer des commandes en leur nom.
+
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
-Pour effectuer des transactions avec les clients sur l’Espace partenaires, vos clients doivent disposer de comptes de l’Espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci. 
+Pour effectuer des transactions avec les clients sur l’Espace partenaires, vos clients doivent disposer de comptes de l’Espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci.
 
 ### <a name="connect-with-existing-customers"></a>Entrer en contact avec les clients
 
@@ -158,7 +161,7 @@ Lorsque vous vous connectez avec un fournisseur indirect, vous n’obtenez pas a
 
 1. Sélectionnez **Clients** à partir de votre menu **Espace partenaires**, puis sélectionnez **Demander une relation de revendeur**.
 
-2. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un e-mail. 
+2. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un e-mail.
 
    Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. Sélectionnez **Terminé** une fois que vous avez effectué cette étape.
 
@@ -178,7 +181,7 @@ Quand vous attirez de nouveaux clients, vous devez vous connecter avec eux sur l
 
 Pour gérer les abonnements et les services d’un client en son nom, vous devez avoir une relation de revendeur avec eux. Pour autoriser votre fournisseur indirect à envoyer des commandes pour le compte de votre client, le fournisseur indirect doit également avoir une relation de revendeur avec celui-ci.
 
-Pour obtenir les autorisations d’administrateur permettant de gérer les abonnements et les services d’un nouveau client **et** autoriser votre fournisseur indirect à soumettre de nouvelles commandes en son nom, vous pouvez inviter le client à établir simultanément une relation de revendeur avec vous et votre fournisseur. 
+Pour obtenir les autorisations d’administrateur permettant de gérer les abonnements et les services d’un nouveau client **et** autoriser votre fournisseur indirect à soumettre de nouvelles commandes en son nom, vous pouvez inviter le client à établir simultanément une relation de revendeur avec vous et votre fournisseur.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Inviter un nouveau client à établir une relation de revendeur simultanément avec vous et votre fournisseur indirect
 
@@ -186,7 +189,7 @@ Pour obtenir les autorisations d’administrateur permettant de gérer les abonn
 
 2. Sélectionnez **Inviter de nouveaux clients** pour inviter un client à établir une relation de revendeur simultanément avec vous et le fournisseur indirect. Le fournisseur doit avoir une relation de revendeur avec votre client afin de pouvoir envoyer des commandes pour le compte de ce client quand ce dernier souhaite acheter de nouveaux abonnements ou ajouter de nouvelles licences à des abonnements existants.
 
-3. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un e-mail. 
+3. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un e-mail.
 
    Vous pouvez modifier le texte de l’e-mail. Veillez simplement à inclure le lien, car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte et au compte de votre fournisseur. Sélectionnez **Terminé** une fois que vous avez effectué cette étape.
 
@@ -194,12 +197,12 @@ Pour obtenir les autorisations d’administrateur permettant de gérer les abonn
 
 5. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="next-steps"></a>Étapes suivantes
 
-[Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
+- [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
 
-[Gérer les clients et leurs abonnements](customer-accounts.md)
+- [Gérer les clients et leurs abonnements](customer-accounts.md)
 
-[Créer un profil professionnel](create-a-marketing-profile.md)
+- [Créer un profil professionnel](create-a-marketing-profile.md)
 
-[Découvrir les primes incitatives des partenaires sur l’Espace partenaires](understand-incentive-payouts.md)
+- [Découvrir les primes incitatives des partenaires sur l’Espace partenaires](understand-incentive-payouts.md)
