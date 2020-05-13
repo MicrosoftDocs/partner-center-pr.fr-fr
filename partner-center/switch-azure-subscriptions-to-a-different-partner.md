@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: abonnement Azure, changer de partenaire, changer de partenaire, acquérir un nouveau partenaire, autre partenaire
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 5976cba3c0d1ef6984fc88497412577e83e999f7
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
+ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205577"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "83194392"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Découvrez comment transférer les abonnements Azure d’un client à un autre partenaire
 
@@ -32,7 +32,7 @@ Pour faire basculer les services ou abonnements Azure d’un client vers un autr
 
 >[!Note]  
 >Actuellement, seuls les fournisseurs directs ou indirects peuvent transférer des abonnements.
->Vous ne pouvez pas modifier les partenaires pour les abonnements de fournisseur de solutions Cloud associés à Office 365, Enterprise Mobility suite ou aux abonnements Microsoft Dynamics CRM.
+>Vous ne pouvez pas modifier les partenaires pour les abonnements de fournisseur de solutions Cloud associés aux abonnements Azure plan, Office 365, Enterprise Mobility suite ou Microsoft Dynamics CRM.
 
 **Changer de partenaire pour les abonnements Azure**
 
