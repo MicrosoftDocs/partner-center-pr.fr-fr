@@ -1,23 +1,23 @@
 ---
-title: Consolider vos comptes d’entreprise | Espace partenaires
+title: Consolidation de vos comptes d’entreprise
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez le regroupement de comptes PMC (Partner Membership Center) en un seul compte dans l’Espace partenaires. Ce processus s’applique à la migration de PMC vers l’Espace partenaires.
+description: Découvrez le regroupement de comptes PMC (Partner Membership Center) en un seul compte dans l’Espace partenaires. Concerne la migration de PMC vers l’Espace partenaires.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: d6e867d9e78fb7b8d0612cde5f6a57537ad40e77
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226135"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908142"
 ---
-# <a name="consolidate-your-company-accounts"></a>Consolider vos comptes d’entreprise
+# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolider vos comptes d’entreprise pendant la migration de PMC vers l’Espace partenaires
 
 **Rôles appropriés**
 

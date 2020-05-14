@@ -1,22 +1,23 @@
 ---
-title: Attester que le client accepte le Contrat client Microsoft | Espace partenaires
+title: Attester que le client accepte le Contrat client Microsoft
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Découvrez les scénarios qui peuvent vous obliger à attester l’acceptation du Contrat client Microsoft au nom de votre client.
-author: MicheleHope
-ms.author: v-mihope
+Description: Découvrez dans quels cas il est opportun d’attester l’acceptation du Contrat client Microsoft au nom de votre client.
+author: LauraBrenner
+ms.author: labrenne
 keywords: client, clients, consentement, MCA, contrat Microsoft Cloud, Contrat client Microsoft, modèles d’accord client, attestation d’acceptation
 ms.localizationpriority: high
-ms.openlocfilehash: 12e458c1546d31400407c8bf42ce09333cfec900
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: eb18d5f095e633fcbfeb3dc9f3d962664066765f
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "77013297"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908401"
 ---
-# <a name="attest-customer-acceptance-of-the-microsoft-customer-agreement"></a>Attester que le client accepte le Contrat client Microsoft
+# <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attester l’acceptation du Contrat client Microsoft au nom de votre client
 
 **S’applique à**
 
@@ -32,7 +33,7 @@ ms.locfileid: "77013297"
 
 - Revendeurs indirects, partenaires effectuant une facturation directe, fournisseurs indirects
 
-Cette rubrique concerne certains scénarios dans lesquels vous devrez peut-être attester l’acceptation par un client du Contrat client Microsoft au nom du client.
+Cet article décrit certains scénarios dans lesquels vous devrez peut-être attester l’acceptation par un client du Contrat client Microsoft au nom du client.
 
 >[!NOTE]
 >Pour en savoir plus, consultez également [Confirmer l’acceptation du Contrat client Microsoft par les clients](confirm-customer-agreement.md).
@@ -41,15 +42,15 @@ Cette rubrique concerne certains scénarios dans lesquels vous devrez peut-être
 
 Il existe deux scénarios où les clients ne peuvent pas toujours accepter directement le Contrat client Microsoft dans le Centre d’administration Microsoft 365.
 
-**Scénario 1** : Un client existant a acheté des offres, des logiciels ou des abonnements logiciels, des instances réservées et un plan Azure, via une relation partenaire existante, et tente d’effectuer de nouveaux achats (à l’exception du renouvellement automatique). Quand ce client clique sur l’URL, il reçoit un message similaire à celui-ci : « Contactez votre partenaire pour confirmer votre acceptation du Contrat client Microsoft ».  
+**Scénario 1** : Un client existant a acheté l’un des produits suivants via une relation partenaire existante : offres, logiciels ou abonnements logiciels, instances réservées ou plan Azure. Le client tente à présent d’effectuer un nouvel achat (en dehors du renouvellement automatique). Quand ce client clique sur l’URL, il reçoit un message de ce type : « Contactez votre partenaire pour confirmer votre acceptation du Contrat client Microsoft ».  
 
 **Solution** : Vous devez effectuer l’attestation au nom du client.
 
 ![client](images/mca/accept-scenario-1.png)
 
-**Scénario 2** : Un client existant a acheté des offres, des logiciels ou des abonnements logiciels, des instances réservées et un plan Azure, et tente d’effectuer de nouveaux achats auprès d’un nouveau partenaire. 
+**Scénario 2** : Un client existant a acheté des offres, des logiciels ou des abonnements logiciels, des instances réservées ou un plan Azure. Le client tente à présent d’effectuer un nouvel achat auprès d’un nouveau partenaire.
 
-Quand le client clique sur l’URL du Centre d’administration Microsoft 365 pour accepter la nouvelle relation partenaire et le contrat, il reçoit un message similaire à celui-ci : « Contactez votre partenaire pour confirmer votre acceptation du Contrat client Microsoft ».  
+Quand le client clique sur l’URL du Centre d’administration Microsoft 365 pour accepter la nouvelle relation partenaire et le contrat, il reçoit un message de ce type : « Contactez votre partenaire pour confirmer votre acceptation du Contrat client Microsoft ».  
 
 **Solution** : Vous devez effectuer l’attestation au nom du client.  
 

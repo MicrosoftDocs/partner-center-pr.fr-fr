@@ -1,22 +1,23 @@
 ---
-title: Offres pour les partenaires du programme Fournisseur de solutions Cloud | Espace partenaires
+title: Offres pour les partenaires du programme Fournisseur de solutions Microsoft Cloud (CSP)
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez les offres disponibles pour les partenaires qui vendent via le programme Fournisseur de solutions Cloud.
+description: En tant que partenaire du programme CSP, découvrez le catalogue de plus en plus étoffé des services et offres cloud Microsoft que vous pouvez vendre à vos clients.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions cloud, services basés sur le cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions cloud, vendre dans le programme Fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements client
 ms.localizationpriority: high
-ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722537"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362327"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Offres pour les partenaires du programme Fournisseur de solutions Cloud
+# <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Vue d’ensemble des offres pour les partenaires du programme Fournisseur de solutions Cloud
 
 **S’applique à**
 
@@ -39,31 +40,31 @@ Vous n’êtes pas encore inscrit au programme Fournisseur de solutions Cloud ?
 
 Actuellement, vous pouvez vendre les types de produits et de services suivants à vos clients du programme Fournisseur de solutions Cloud :
 
-- Réservations Azure<br> 
+### <a name="azure-reservations"></a>Réservations Azure
 
-    Les clients peuvent réserver de l’espace à l’avance sur les machines virtuelles Azure pour une durée de 1 ou 3 ans.<br>
-    
-    Pour plus d’informations, consultez [Vendre des réservations d’instances de machine virtuelle Microsoft Azure](azure-reservations.md).
+   Les clients peuvent réserver de l’espace à l’avance sur les machines virtuelles Azure pour une durée de 1 ou 3 ans.
 
-- Logiciel<br>
+   Pour plus d’informations, consultez [Vendre Microsoft Azure Reserved Virtual Machine Instances](azure-reservations.md).
 
-    Les clients peuvent acheter des abonnements logiciels (à Windows Server et SQL Server, pour une durée de 1 ou 3 ans, pour les exécuter sur des instances de machine virtuelle Azure réservées).<br>
- 
-    Pour plus d’informations, consultez [Vendre des abonnements logiciels par le biais du programme Fournisseur de solutions Cloud](csp-software-subscriptions.md).  
+### <a name="software"></a>Logiciel
 
-- Services en ligne<br>
+   Les clients peuvent acheter des abonnements logiciels (à Windows Server et SQL Server, pour une durée de 1 ou 3 ans, pour les exécuter sur des instances de machine virtuelle Azure réservées).
 
-    *Services en ligne* est le nouveau nom de ce qui s’appelle actuellement *abonnements*. Pour que vous puissiez plus facilement commander plusieurs types de produits au même endroit, nous avons intégré le flux de tâches « ajouter un abonnement » dans le flux de tâches « ajouter des produits ».<br>
-    
-    Pour plus d’informations, consultez [Abonnements client](customer-subscriptions.md).
+   Pour plus d’informations, consultez [Vendre des abonnements logiciels par le biais du programme Fournisseur de solutions Cloud](csp-software-subscriptions.md).  
 
-- Logiciels en tant que service (SaaS) et autres produits de la [Place de marché Azure](https://azuremarketplace.microsoft.com/marketplace)<br>
+### <a name="online-services"></a>Services en ligne
 
-    Vous pouvez vendre des abonnements à des produits SaaS d’éditeurs de logiciels indépendants. Pour afficher uniquement les offres SaaS dans **Services en ligne**, utilisez les filtres pour définir **Éditeur** sur **Partenaire**. Cette opération affiche toutes les offres SaaS qui peuvent être achetées pour ce client.<br>
-    
-    Vous pouvez également trouver des informations sur ces produits sur la page **Place de marché**. Notez que cette page contient également des informations sur les autres types de produits qui doivent être achetés sur le Portail Azure, et non dans l’Espace partenaires.<br>
+   *Services en ligne* est le nouveau nom de ce qui s’appelle actuellement *abonnements*. Pour que vous puissiez plus facilement commander plusieurs types de produits au même endroit, nous avons intégré le flux de tâches « ajouter un abonnement » dans le flux de tâches « ajouter des produits ».
 
-    Pour plus d’informations, consultez [Vue d’ensemble de la marketplace commerciale pour les fournisseurs de solutions Cloud](CSP-commercial-marketplace-overview.md).
+   Pour plus d’informations, consultez [Abonnements client](customer-subscriptions.md).
+
+### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Logiciels en tant que service (SaaS) et autres produits de la [Place de marché Azure](https://azuremarketplace.microsoft.com/marketplace)
+
+   Vous pouvez vendre des abonnements à des produits SaaS d’éditeurs de logiciels indépendants. Pour afficher uniquement les offres SaaS dans **Services en ligne**, utilisez les filtres pour définir **Éditeur** sur **Partenaire**. Cette opération affiche toutes les offres SaaS qui peuvent être achetées pour ce client.
+
+   Vous pouvez également trouver des informations sur ces produits sur la page **Place de marché**. Notez que cette page contient également des informations sur les autres types de produits qui doivent être achetés sur le Portail Azure, et non dans l’Espace partenaires.
+
+   Pour plus d’informations, consultez [Vue d’ensemble de la place de marché commerciale pour les fournisseurs de solutions Cloud](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>Détails de la page Ajouter des produits
 
@@ -81,14 +82,14 @@ La liste suivante identifie les nouvelles zones de la page **Ajouter des produit
 
 **Catégorie** – Identifie le type d’activité que le produit soutient et si une évaluation gratuite est disponible
 
-**Afficher la liste de références, Afficher la liste de produits** – Sélectionnez cette option pour basculer entre les listes de produits et de références. **Produits** répertorie chaque produit individuellement ; **Référence** répertorie les groupes de produits
+**Afficher la liste de références, Afficher la liste de produits** – Sélectionnez cette option pour basculer entre les listes de produits et de références. La page **Produits** liste chaque produit individuellement ; **Référence (SKU)** liste les groupes de produits.
 
 ## <a name="buy-csp-offers"></a>Acheter des offres du programme Fournisseur de solutions Cloud
 
 Pour acheter des produits et des services pour vos clients du programme Fournisseur de solutions Cloud, sélectionnez les éléments que le client souhaite, ajoutez-les à votre panier, ce qui crée une commande, puis vérifiez et envoyez la commande. Le processus général est décrit ci-dessous. (Pour plus d’informations sur les commandes d’un type de produit spécifique, consultez les liens ci-dessus.)
 
->[Remarque] Une offre CSP doit être disponible dans votre pays de locataire et dans le pays de locataire de votre client. 
->Par exemple, si votre locataire est situé en Slovaquie et si le locataire du client est en Allemagne, vous ne pouvez pas vendre Dynamics 365 Business Central Premium à ce client, car cette offre n’est pas disponible en Slovaquie.
+>[!Note]
+>Une offre CSP doit être disponible dans le pays de votre locataire et dans le pays du locataire de votre client. Par exemple, si votre locataire est situé en Slovaquie et si le locataire du client est en Allemagne, vous ne pouvez pas vendre Dynamics 365 Business Central Premium à ce client, car cette offre n’est pas disponible en Slovaquie.
 
 1. Sélectionnez **Clients** dans le menu de l’Espace partenaires, puis recherchez le client qui veut vous acheter quelque chose. 
 
@@ -96,22 +97,18 @@ Pour acheter des produits et des services pour vos clients du programme Fourniss
 
 3. Sur la page **Ajouter des produits**, sélectionnez parmi **Azure**, **Services en ligne** et **Logiciel**.
 
-4. Affinez les filtres disponibles pour trouver plus facilement les produits que vous recherchez. Pour afficher la liste complète des éléments disponibles, définissez les filtres applicables sur **n’importe quel**. 
+4. Affinez les filtres disponibles pour trouver plus facilement les produits que vous recherchez. Pour afficher la liste complète des éléments disponibles, définissez les filtres applicables sur **n’importe quel**.
 
 5. Sélectionnez le produit que le client souhaite, entrez la quantité souhaitée, puis sélectionnez **Ajouter au panier**.
 
 6. Répétez les étapes 4 et 5 jusqu’à ce que vous ayez ajouté tous les éléments nécessaires à votre panier. Sélectionnez **Vérifier** pour vérifier que la commande est correcte.  
 
-7. Sur la page **Vérifier vos commandes**, vérifiez ou modifiez les produits et les quantités, puis sélectionnez **Acheter** pour passer la commande. 
+7. Sur la page **Vérifier vos commandes**, vérifiez ou modifiez les produits et les quantités, puis sélectionnez **Acheter** pour passer la commande.
 
-8. Les détails de votre commande, y compris votre numéro de commande, sont indiqués sur la page suivante. Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**. 
+8. Les détails de votre commande, y compris votre numéro de commande, sont indiqués sur la page suivante. Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**.
 
-**En savoir plus** 
+## <a name="next-steps"></a>Étapes suivantes
 
-Pour plus d’informations sur le fonctionnement du processus de facturation, consultez [Notions de base de facturation](https://docs.microsoft.com/partner-center/billing-basics).
+Pour obtenir des informations sur le fonctionnement du processus de facturation, consultez [Principes de base de la facturation](https://docs.microsoft.com/partner-center/billing-basics).
 
-Pour plus d’informations sur les achats effectués dans le cadre du plan Azure, consultez [Acheter le plan Azure](purchase-azure-plan.md).
-
-## <a name="see-also"></a>Voir aussi
-
-[Vue d’ensemble de la marketplace commerciale pour les fournisseurs de solutions Cloud](csp-commercial-marketplace-overview.md)
+Pour savoir comment effectuer des achats dans le cadre du plan Azure, consultez [Acheter le plan Azure](purchase-azure-plan.md).

@@ -1,23 +1,24 @@
 ---
-title: Ajouter des licences ou des services à un abonnement existant | Espace partenaires
+title: Mettre à niveau l’abonnement d’un client
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment mettre à niveau ou modifier l’abonnement d’un client, par exemple en ajoutant des licences ou des sièges ou en passant à une version différente avec d’autres services.
+description: Découvrez comment mettre à niveau ou modifier l’abonnement d’un client. Ajoutez des licences et des sièges supplémentaires ou passez à une autre version avec plus de services.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d’abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798647"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975120"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Ajouter des licences ou des services à un abonnement existant
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Ajouter des licences, des sièges ou des services supplémentaires à l’abonnement d’un client
 
 **S’applique à**
 
@@ -32,7 +33,7 @@ ms.locfileid: "82798647"
 - Agent commercial
 - Agent du support technique
 
-Si votre client a besoin de davantage de sièges que dans son abonnement actuel, ou d’une autre version avec des services supplémentaires, vous pouvez mettre à jour l’abonnement. Pour plus d’informations, voir [Basculer vers une autre offre Office&nbsp;365 pour les entreprises](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Si votre client a besoin de plus de sièges que dans son abonnement actuel ou d’une autre version offrant davantage de services, vous pouvez mettre à niveau l’abonnement. Pour plus d’informations, consultez [Basculer vers un autre plan Microsoft 365 Apps for business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Microsoft 365 Apps for business</td>
 <td><ul>
-<li>Office&nbsp;365 Business&nbsp;Premium¹</li>
-<li>Office 365 ProPlus</li>
+<li>Microsoft 365 Business Premium¹</li>
+<li>Microsoft 365 Apps for enterprise</li>
 <li>Office&nbsp;365 Entreprise&nbsp;E3</li>
 <li>Office&nbsp;365 Enterprise&nbsp;E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Microsoft 365 Business Standard</td>
 <td><ul>
 <li>Office&nbsp;365 Entreprise&nbsp;E3</li>
 <li>Office&nbsp;365 Enterprise&nbsp;E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Microsoft 365 Business Basic</td>
 <td><ul>
-<li>Office&nbsp;365 Business&nbsp;Premium¹</li>
+<li>Microsoft 365 Business Standard¹</li>
 <li>Office&nbsp;365 Entreprise&nbsp;E1</li>
 <li>Office&nbsp;365 Entreprise&nbsp;E3</li>
 <li>Office&nbsp;365 Enterprise&nbsp;E5</li>
@@ -78,14 +79,14 @@ Les mises à niveau suivantes sont prises en charge dans le programme Fournisseu
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India et Office 365 Business Essentials India peuvent être mis à niveau vers Office 365 Business Premium India, mais pas vers Office 365 Business Premium.</p></td>
+<td><p>¹ Microsoft 365 Apps for business India et Microsoft 365 Business Basic India peuvent être mis à niveau vers Microsoft 365 Business Standard India, mais pas vers Microsoft 365 Business Standard.</p></td>
 </tr>
 </tbody>
 </table>
 
 La mise à niveau des abonnements est possible si les conditions suivantes sont remplies&nbsp;:
 
--   l’abonnement doit être actif (pas suspendu ni annulé)&nbsp;;
+-   l’abonnement doit être actif (pas suspendu ni annulé) ;
 
 -   vous devez disposer de privilèges d’administration délégués pour ce client et ce service. Découvrez comment [demander des privilèges d’administration délégués](request-a-relationship-with-a-customer.md).
 
@@ -95,7 +96,7 @@ La mise à niveau des abonnements est possible si les conditions suivantes sont 
 
 Dans les deux derniers cas, il est possible que le client ait acheté ces abonnements ou services auprès d’un autre partenaire ou canal. Il ne peut donc pas vous les acheter, à moins d’annuler les abonnements en cours. Pour plus d’informations, consultez [multicanal](multichannel.md).
 
-Pour plus d’informations sur l’impact sur la facturation, consultez les détails sur l’annulation ou l’ajout d’un abonnement dans les [scénarios de facturation courants](common-billing-scenarios.md).
+Pour plus d’informations sur l’impact sur la facturation, consultez les détails sur l’annulation ou l’ajout d’un nouvel abonnement dans les [scénarios de facturation courants](common-billing-scenarios.md).
 
 **Mettre à niveau un abonnement**
 

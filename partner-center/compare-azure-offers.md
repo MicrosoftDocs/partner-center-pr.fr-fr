@@ -1,7 +1,7 @@
 ---
-title: Comparer les offres Azure | Espace partenaires
+title: Comparer les offres Azure pour les partenaires fournisseurs de solutions Cloud
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les principales différences entre les offres disponibles dans la nouvelle expérience de commerce Microsoft pour les partenaires participant au programme Fournisseur de solutions Cloud (CSP).
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76021759"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908174"
 ---
-# <a name="compare-azure-offers"></a>Comparer les offres Azure
+# <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Comparer les différences entre les offres Azure du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
 
@@ -33,7 +34,7 @@ Le tableau suivant fournit une vue d’ensemble des principales différences ent
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |Facturation|Mensuelle|Variables (dépendantes de l’offre)|Client final|En amont pour le terme complet ou un terme de 3 ans|Mensuelles ou annuelles|
 |Licencié|Client final|Variables (dépendantes de l’offre)|Client final| Client final|   Client final|
-|Durée de la couverture|Actif jusqu’à annulation|Variables (dépendantes de l’offre)|Voir la description de l’offre|Toutes les réservations Azure ont leur période de couverture unique.    Tous les abonnements serveur auront leur période de couverture unique.|   Des licences supplémentaires basées sur les sièges sont alignées sur la période de couverture existante|
+|Durée de la couverture|Actif jusqu’à annulation|Variables (dépendantes de l’offre)|Voir la description de l’offre|Toutes les réservations Azure ont leur période de couverture unique. Tous les abonnements serveur auront leur période de couverture unique.|   Des licences supplémentaires basées sur les sièges sont alignées sur la période de couverture existante|
 |Renouvellement automatique|Oui|Oui|Non| Non|Oui|
 |Plusieurs devises|Facture basée sur l’emplacement/la devise du client|Facture basée sur l’emplacement/la devise du client|Facture basée sur l’emplacement/la devise du client|Facture basée sur l’emplacement/la devise du client|Basées sur la devise d’emplacement du partenaire| 
 |Facture et fichier de reconnaissance|Facture et fichier de reconnaissance distincts pour chaque devise d’emplacement client.  Nous fournirons également des fichiers d’utilisation quotidienne estimée (pour les parties facturées et non facturées) |Facture et fichier de reconnaissance distincts pour chaque devise d’emplacement client|Facture et fichier de reconnaissance distincts pour chaque devise d’emplacement client|Facture et fichier de reconnaissance distincts pour chaque devise d’emplacement client|Toutes les commandes sur une facture et un fichier de reconnaissance|

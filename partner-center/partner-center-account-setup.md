@@ -1,7 +1,7 @@
 ---
 title: Gérer votre compte Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gérez le profil, le catalogue, les informations bancaires et fiscales, les rôles et les autorisations de votre entreprise dans l’Espace partenaires.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798767"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859374"
 ---
 # <a name="manage-your-partner-center-account"></a>Gérer votre compte Espace partenaires
 
@@ -23,13 +23,17 @@ ms.locfileid: "82798767"
 
 - Espace partenaires
 
-Le compte que vous créez dans l’Espace partenaires au moment de l’inscription comprend votre adresse e-mail professionnelle et des informations sur votre entreprise. Après avoir créé un compte dans l’Espace partenaires, vous ou votre administrateur devez achever la configuration du profil complet de votre entreprise en incluant les détails de votre support, les demandes d’exonération fiscale le cas échéant ainsi que les coordonnées du contact principal. Le compte de votre entreprise inclut également les comptes d’utilisateur de toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur des programmes d’incentives et assurer un support.
+Le compte que vous créez dans l’Espace partenaires au moment de l’inscription comprend votre adresse e-mail professionnelle et des informations sur votre entreprise. Après avoir créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre entreprise en incluant les détails de votre support, les demandes d’exonération fiscale le cas échéant ainsi que les coordonnées du contact principal. Le compte de votre entreprise inclut également les comptes d’utilisateur de toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur des programmes d’incentives et assurer un support.
+
+Voir aussi 
+- [Inviter des employés à rejoindre l’Espace partenaires](guide-to-migration.md)
+- [Ajouter un nouvel utilisateur](create-user-accounts-and-set-permissions.md)
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programmes dans lesquels vous êtes inscrit
 
 La majeure partie du travail que vous faites pour gérer votre compte Espace partenaires est lié aux programmes spécifiques auxquels vous êtes inscrit et aux rôles et autorisations utilisateur qui vous ont été attribués dans l’Espace partenaires.
 
-Il est facile de voir à quels programmes vous avez accès dans l’Espace partenaires :
+Pour voir à quels programmes vous avez accès dans l’Espace partenaires :
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 2. Examinez le volet de navigation de gauche. Vous y trouvez les options associées aux programmes auxquels vous êtes inscrit.
@@ -101,6 +105,7 @@ Si vous êtes inscrit à des programmes comme le programme MPN ou le programme F
 |**Pour ce faire**   |**Lisez cela**   |
 |-----------------------|:-----------------------|
 |Vérifier que le profil de votre entreprise est à jour   |[Mettre à jour votre profil de partenaire](update-your-partner-profile.md)|
+|Ajouter de nouveaux utilisateurs|[Créer des comptes d’utilisateurs et attribuer des autorisations](create-user-accounts-and-set-permissions.md)|
 |Tous les employés de votre entreprise qui ont besoin de travailler dans l’Espace partenaires doivent se voir attribuer un rôle. À chaque rôle correspondent des autorisations et des tâches spécifiques.|[Créer des comptes d’utilisateurs et définir des autorisations](create-user-accounts-and-set-permissions.md)|
 |Examiner les autorisations de chaque rôle|[Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
 |Gérer les emplacements de votre entreprise|[Gérer votre compte partenaire : Emplacements](manage-locations.md)

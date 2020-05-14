@@ -1,19 +1,19 @@
 ---
 title: Préparer votre transfert du Partner Membership Center vers l’Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consultez les informations utiles et les questions fréquentes avant de transférer votre activité de PMC vers l’Espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 06167a667152ddaf65702547783df93726f6cadc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340100"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859353"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre transfert du Partner Membership Center (PMC) vers l’Espace partenaires
 
@@ -33,49 +33,24 @@ Un compte professionnel Azure est une représentation virtuelle dédiée et isol
 
 Votre compte professionnel héberge vos utilisateurs Azure AD et les informations les concernant : adresses e-mail, mots de passe, données de profil, autorisations, etc. Le compte professionnel contient aussi des groupes, des applications et toutes les informations relatives à une entreprise et à sa sécurité. 
 
+Votre adresse e-mail professionnelle fait partie intégrante de votre locataire Azure Active Directory. Pour avoir un compte dans l’Espace partenaires, vous devez disposer d’un locataire AAD. Pour plus d’informations sur Azure Active Directory, consultez [Créer votre annuaire dans Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+
 Dans l’Espace partenaires, vous vous connecterez à l’aide de votre adresse e-mail professionnelle et non de votre adresse personnelle.
 - Votre compte professionnel : john@contoso.com
 - Votre compte personnel : John@outlook.com
 
-Votre adresse e-mail professionnelle fait partie intégrante de votre locataire Azure Active Directory. Pour avoir un compte dans l’Espace partenaires, vous devez disposer d’un locataire AAD. Pour plus d’informations sur Azure Active Directory, consultez [Créer votre annuaire dans Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+**Avec quel compte devez-vous vous connecter à l’Espace partenaires si vous disposez d’un locataire AAD auprès de Microsoft (pour Office 365 par exemple), mais que vous possédez aussi un locataire pour votre activité de fournisseur de solutions Cloud ?**
 
-**Au moment d’opérer la transition de PMC à l’Espace partenaires, avec quel compte devez-vous vous connecter à l’Espace partenaires si vous disposez d’un locataire AAD auprès de Microsoft (pour Office 365 par exemple), mais que vous possédez aussi un locataire pour votre activité CSP ?**
-
-Vous pouvez vous connecter à l’Espace partenaires soit avec le compte CSP soit avec votre compte de messagerie professionnel MPN. Si vous choisissez de vous connecter à l’aide de votre adresse e-mail professionnelle CSP, le volet de navigation gauche de votre tableau de bord affiche les informations des programmes MPN et CSP. Si vous vous connectez avec l’adresse e-mail professionnelle de votre locataire MPN Azure AD, vous ne verrez que les informations du programme MPN. Les rôles d’utilisateurs MPN et CSP étant différents, si vous utilisez le même compte pour les activités MPN et CSP, veillez à attribuer les rôles d’utilisateurs en conséquence. Pour plus d’informations sur les rôles d’utilisateurs, consultez [Attribuer des rôles et des autorisations aux utilisateurs](permissions-overview.md).
+Vous pouvez vous connecter à l’Espace partenaires soit avec le compte CSP soit avec votre compte de messagerie professionnel MPN. Si vous choisissez de vous connecter à l’aide de votre adresse e-mail professionnelle CSP, le volet de navigation gauche de votre tableau de bord affiche les informations des programmes MPN et CSP. Si vous vous connectez avec l’adresse e-mail professionnelle de votre locataire MPN Azure AD, vous ne verrez que les informations du programme MPN. 
 
 **Si vous ne souhaitez pas utiliser votre client Office 365 Azure AD pour l’Espace partenaires, vous pouvez créer un nouveau locataire avant de migrer à partir de PMC.**
 
-Vous pouvez avoir de nombreuses raisons de ne pas vouloir utiliser un locataire Azure AD existant pour configurer votre compte Espace partenaires. Avant de débuter votre migration vers l’Espace partenaires, accédez au [portail Azure](https://ms.portal.azure.com/#home) pour créer un locataire Azure AD. Suivez les recommandations livrées dans [Créer un locataire dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Une fois que vous avez créé le nouveau locataire AAD, servez-vous-en pour configurer votre compte Espace partenaires au moment de passer de PMC à l’Espace partenaires. Vous devez être administrateur général pour créer le locataire. Utilisez ce nouvel annuaire pour migrer vers l’Espace partenaires.
+Vous pouvez avoir de nombreuses raisons de ne pas vouloir utiliser un locataire Azure AD existant pour configurer votre compte Espace partenaires. Avant de débuter votre migration vers l’Espace partenaires, accédez au [portail Azure](https://ms.portal.azure.com/#home) pour créer un locataire Azure AD. Suivez les recommandations livrées dans [Créer un locataire dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Utilisez le nouveau locataire AAD pour configurer votre compte Espace partenaires. Vous devez être administrateur général pour créer le locataire. 
 
-
-**Quelle est la différence entre le rôle d’administrateur général AAD et le rôle d’administrateur général PMC MPN ?**
-
-Il s’agit de deux rôles différents assortis d’autorisations différentes. Dans l’Espace partenaires, l’administrateur général d’un locataire AAD administre le locataire : il ajoute ou supprime des utilisateurs, fournit et gère les mots de passe, les rôles et les autorisations et a accès à tous les programmes de son entreprise dans l’Espace partenaires. 
-
-Dans PMC, le rôle d’administrateur général MPN peut effectuer les opérations suivantes :
-
-- Afficher et modifier toutes les données associées à l’entreprise et à tous ses sites
-
--  Ajouter des administrateurs au niveau global ou local.  De même, les administrateurs généraux peuvent attribuer à un utilisateur d’un site quelconque un accès d’administrateur général, ce qui le dote d’un accès global, quel que soit le site auquel il est associé.
--  Exécuter n’importe quelle fonction d’interface utilisateur destinée aux partenaires, notamment : 
-
--  Ajouter/supprimer des utilisateurs
-
- - Attribuer/supprimer des rôles 
-
- - Ajouter/supprimer/mettre à jour des sites 
-
- - Acheter une compétence/des cartes 
-
--  Examiner les avantages
-
-Quand l’administrateur général MPN bascule dans l’Espace partenaires, les autorisations et les tâches du rôle d’administrateur partenaire MPN sont différentes de celles de l’administrateur général de l’Espace partenaires. Pour plus d’informations sur les rôles et les autorisations dans l’Espace partenaires, consultez [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md).
 
 **Rôles d’utilisateurs incluant les rôles d’utilisateurs invités dans l’Espace partenaires**
 
 L’Espace partenaires comporte différents types de rôles qui varient en fonction du type de travail à effectuer. Certains rôles, comme celui d’administrateur général, sont des rôles Azure AD. Il existe d’autres qui sont propres aux programmes, par exemple les programmes Fournisseur de services cloud (CSP) et Incentives, et d’autres qui sont propres à MPN. Pour connaître les différents rôles de l’Espace partenaires, consultez [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md).
-
-
 
 **Que deviennent les rôles d’utilisateurs lors du transfert de PMC vers l’Espace partenaires ?**
 
@@ -92,12 +67,12 @@ Le profil commercial est la façon dont vous vous présentez aux clients ainsi q
 
 Si vous utilisez le même locataire Azure AD pour migrer plusieurs comptes MPN dans l’Espace partenaires, le système le détecte automatiquement et vous demande de consolider vos comptes. Cela est vrai même si plusieurs domaines sont associés au même locataire Azure AD. 
 
-Vous pouvez toujours décider de migrer vers l’Espace partenaires en utilisant des locataires AAD distincts, mais vos compétences sont alors évaluées de manière isolée et les coûts d’achat sont supérieurs. 
+Vous pouvez toujours décider de migrer vers l’Espace partenaires en utilisant des locataires AAD distincts, mais vos compétences sont alors évaluées de manière isolée et les coûts d’achat sont supérieurs. Pour plus d’informations sur la consolidation des comptes, consultez [Consolider vos comptes d’entreprise](consolidate-accounts.md)
 
 **Si j’ai plusieurs locataires AAD et un seul compte MPN, est-il possible de les lier dans l’Espace partenaires ?**
 
 Oui, dans l’Espace partenaires, vous pouvez lier plusieurs locataires Azure AD pour en faire un seul et unique compte Espace partenaires.
-Vous trouverez des informations complémentaires ici. 
+Pour plus d’informations sur la consolidation des comptes, consultez [Consolider vos comptes d’entreprise](consolidate-accounts.md)
 
 **L’ajout de plusieurs locataires Azure AD à un même compte Espace partenaires est-il soumis à des restrictions ?**
 
@@ -164,11 +139,11 @@ Sélectionnez **Compétences** dans le volet de navigation gauche du tableau de 
 Non, si vous avez transféré votre compte sans regrouper les sites, il n’y a aucun impact sur les incentives. Si votre entreprise possède plusieurs comptes dans PMC et que vous décidez de les consolider dans un même compte global pendant la transfert dans l’Espace partenaires, aucun incentive n’est perdu, mais le versement des revenus liés aux incentives risque d’être retardé. Si vous ne transférez pas tous vos comptes PMC qui ont été impliqués dans les programmes d’incentives, il se peut que vous cessiez de gagner les incentives liés à ces comptes.
 
 
-**Quels sont les rôles d’utilisateurs d’incentives dans l’Espace partenaires ?** 
+**Quels sont les rôles Incentive dans l’Espace partenaires ?** 
 
 Les rôles Incentive dans l’Espace partenaires sont basés sur le site et incluent l’administrateur d’incentives et l’utilisateur d’incentives. Pour plus d’informations sur ces rôles, consultez [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md).
 
-**Les utilisateurs d’incentives peuvent-ils être affectés au niveau global et au niveau du site ?**
+**Les administrateurs d’incentives peuvent-ils être affectés au niveau global et au niveau du site ?**
 
  Oui. Vous pouvez attribuer à un administrateur d’incentives le rôle d’administrateur d’incentives pour l’ensemble des sites ou pour chaque site qui a son propre administrateur d’incentives.
 
@@ -182,7 +157,7 @@ Votre entreprise peut créer autant de profils commerciaux dont elle a besoin po
 
 **Comment les références seront-elles affectées et à quels changements s’attendre ? Par exemple, dans le cas d’une entreprise mondiale présente sur un marché et disposant de sites sur d’autres marchés, comment les références seront-elles affectées ?**
 
-Les références sont affectées en fonction des paramètres de recherche définis par le client. Quel que soit le nombre de sites que vous avez (un ou une multitude), si les clients indiquer préférer un site et que vous avez une activité qui répond aux autres paramètres, la référence est affectée à ce site.
+Les références sont affectées en fonction des paramètres de recherche définis par le client. Quel que soit le nombre de sites que vous avez (un ou une multitude), si les clients indiquent préférer un site et que vous avez une activité qui répond aux autres paramètres, la référence est affectée à ce site.
 
 
 

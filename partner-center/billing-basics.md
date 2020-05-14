@@ -1,23 +1,23 @@
 ---
-title: Présentation de la facturation | Espace partenaires
+title: Vue d’ensemble de la facturation dans l’Espace partenaires
 ms.topic: article
-ms.date: 04/03/2020
-description: Apprenez-en davantage sur la facturation de base et les informations de facturation pour l’Espace partenaires.
+ms.date: 05/05/2020
+description: Découvrez les bases de la facturation et les informations sur les factures pour les partenaires fournisseurs de solutions Cloud dans l’Espace partenaires. Comprend des indications sur la façon de facturer les clients et de trouver et lire votre facture.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80676812"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908242"
 ---
-# <a name="billing-overview"></a>Présentation de la facturation
+# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Vue d’ensemble de la facturation pour les partenaires du programme Fournisseur de solutions Cloud utilisant l’Espace partenaires 
 
 **S’applique à**
 
@@ -173,4 +173,4 @@ Vous pouvez être amené à demander un crédit ou une refacturation pour les ra
 - Vous devez effectuer des corrections d’adresse ou de bon de commande.
 - Un remboursement de taxe a été appliqué après la génération de la facture. Vous pouvez demander un crédit ou une refacturation pour réintégrer le remboursement de taxe dans la facture d’origine. Il en va de même pour les remboursements. Vous pouvez demander un crédit ou une refacturation de la facture d’origine, puis réintégrer un remboursement.
 
-**Pour toutes les transactions ponctuelles et périodiques**, Microsoft peut émettre une note de crédit quand vous demandez un crédit ou une nouvelle facture. La facture est annulée lors de l’émission du crédit. 
+**Pour toutes les transactions ponctuelles et périodiques**, Microsoft peut émettre une note de crédit quand vous demandez un crédit ou une nouvelle facture. La facture est annulée à l’émission du crédit. 

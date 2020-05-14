@@ -1,7 +1,7 @@
 ---
-title: Facturation du plan Azure | Espace partenaires
+title: Facturation du plan Azure – Fichiers de facturation et de rapprochement
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment accéder à la structure des fichiers de facturation et de rapprochement liée à la facturation pour le plan Azure et comment la comprendre.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240239"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908363"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
@@ -62,7 +63,7 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
 ## <a name="understanding-usage-data"></a>Fonctionnement des données d’utilisation 
 
-1. Le plan Azure est le conteneur racine ou de niveau supérieur pour l’utilisation. Toute utilisation est reliée à un seul plan Azure. 
+1. Le plan Azure est le conteneur racine ou de niveau supérieur pour l’utilisation. Toute utilisation est liée à un seul plan Azure.
 
 2. Dans un plan, il y aura un ou plusieurs abonnements Azure. Il s’agit de conteneurs utilisés pour la gestion et le déploiement des ressources. 
 
@@ -72,7 +73,7 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
 5. Les ressources émettent des compteurs : Les compteurs sont des mesures de consommation d’une ressource et une ressource peut émettre l’utilisation de plusieurs compteurs. Les compteurs sont identifiés par un ProductId, un SKUId et un AvailabilityId. 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>Hiérarchie des groupes de ressources et du contrôle des abonnements
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hiérarchie des groupes de ressources et du contrôle des abonnements
 
 **Compte Azure (locataire)**
 
@@ -98,7 +99,7 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
 ## <a name="read-the-invoice"></a>Lire la facture
 
-1. La facture est disponible au plus tard le 8 de chaque mois.
+1. La facture est disponible au plus tard le huit de chaque mois.
 
 2. Les partenaires ont 60 jours pour effectuer le paiement.
 

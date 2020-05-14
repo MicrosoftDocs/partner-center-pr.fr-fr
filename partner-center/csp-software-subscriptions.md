@@ -1,7 +1,7 @@
 ---
-title: Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud) | Espace partenaires
+title: Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud)
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’Espace partenaires pour acheter, gérer, vendre et annuler des instances réservées Azure et des abonnements Server pour les clients.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: fournisseur de solutions Cloud, CSP, services basés cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels, annuler des logiciels
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798427"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907953"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud)
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
 
 **S’applique à**
 
@@ -30,9 +30,9 @@ ms.locfileid: "82798427"
 
 Les réservations Azure et les abonnements Server (abonnements Windows Server et SQL Server) permettent aux partenaires du programme CSP de mieux répondre aux besoins croissants de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail cloud prévisibles et durables. 
 
-Vous pouvez maintenant acquérir, provisionner et gérer des réservations Azure et des abonnements Server pour le compte de clients commerciaux par le biais de l’Espace partenaires et du portail Azure en tirant parti d’Azure Hybrid Benefit.
+Vous pouvez maintenant acquérir, provisionner et gérer des réservations Azure et des abonnements Server pour le compte de clients commerciaux à partir de l’Espace partenaires et du portail Azure en tirant parti d’Azure Hybrid Benefit.
 
-Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec les licences Édition Standard et Windows Server Datacenter prises en charge avec Software Assurance. En fonction de l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure et payer un faible taux de calcul de base (taux de machine virtuelle Linux, par exemple).
+Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows Server et de réaliser des économies à hauteur de 40 % sur les machines virtuelles. Vous pouvez tirer parti de tels avantages avec les licences Édition Standard et Windows Server Datacenter prises en charge avec Software Assurance. En fonction de l’édition, vous pouvez convertir ou réutiliser vos licences pour exécuter des machines virtuelles Windows Server dans Azure à un tarif de calcul de base plus avantageux (tarif des machines virtuelles Linux, par exemple).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Marchés pour lesquels les réservations Azure ne sont pas disponibles
 
@@ -41,7 +41,7 @@ Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows 
 >  
 > | Marchés non disponibles | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
-> | Åland (îles d’)     | Groenland     | Papouasie-Nouvelle-Guinée     |
+> | Åland (îles)     | Groenland     | Papouasie-Nouvelle-Guinée     |
 > | Samoa américaines     | Grenade     | Pitcairn (îles)     |
 > | Andorre     | Guadeloupe     | Réunion (île)     |
 > | Anguilla     | Guam     | Saba   |
@@ -177,7 +177,7 @@ Quand vous essayez d’annuler une commande, l’Espace partenaires peut égalem
 
 Après avoir annulé un achat :
 
-- Toutes les clés logicielles associées et tous les liens de téléchargement sont révoqués. Autrement dit, ni vous ni votre client ne pouvez plus utiliser les clés logicielles et télécharger des liens associés à cet achat. Il vous incombe, ainsi qu’à votre client, de garantir que tous les logiciels annulés ne sont plus utilisés. Il vous appartient également de désinstaller les logiciels annulés et de supprimer tous les téléchargements de logiciels et liens associés.
+- Toutes les clés logicielles associées et tous les liens de téléchargement sont révoqués. Autrement dit, ni vous ni votre client ne pouvez plus utiliser les clés logicielles et télécharger des liens associés à cet achat. Il vous incombe, à vous et votre client, de s’assurer que tous les logiciels annulés ne sont plus utilisés. Il vous appartient également de désinstaller les logiciels annulés et de supprimer les téléchargements des logiciels et les liens associés.
 
 - L’élément annulé s’affichera toujours dans la page Détails du logiciel du client, mais la clé d’activation ne sera pas disponible.
 

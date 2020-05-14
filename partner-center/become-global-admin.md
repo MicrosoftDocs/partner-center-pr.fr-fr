@@ -1,7 +1,7 @@
 ---
-title: Devenir administrateur général de votre entreprise | Espace partenaires
+title: Devenir administrateur général de votre entreprise
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Pour travailler dans l’Espace partenaires, vous devez d’abord vérifier la propriété de votre domaine. Découvrez comment procéder et comment devenir un administrateur général qui peut ajouter des utilisateurs.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: domaine, vérification de domaine, vérifier un domaine, administrateur général, rôles d’utilisateur, autorisations
-ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722429"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908261"
 ---
 # <a name="verify-your-domain-ownership"></a>Vérifier la propriété de votre domaine
 
@@ -28,12 +29,12 @@ ms.locfileid: "74722429"
 
 Quand votre entreprise se connecte à l’Espace partenaires pour la première fois, il est probable que les employés ne disposent pas des rôles nécessaires pour commencer à travailler. Pour travailler dans l’Espace partenaires, toute personne doit se voir attribuer un rôle qui comprend des autorisations.  
 
-Vous devez vérifier la propriété de votre domaine pour pouvoir acheter les avantages dont peut bénéficier votre entreprise, ajouter de nouveaux utilisateurs, leur attribuer des rôles ou effectuer d’autres tâches dans l’Espace partenaires. 
+Vous devez vérifier la propriété de votre domaine pour pouvoir acheter les avantages dont peut bénéficier votre entreprise, ajouter de nouveaux utilisateurs, leur attribuer des rôles ou effectuer d’autres tâches dans l’Espace partenaires.
 
 >[!Note]
 >Par exemple, l’administrateur général de votre entreprise gère les services cloud. Si votre entreprise a un administrateur général, mais que vous n’êtes pas sûr de son identité, sélectionnez **Gestion des utilisateurs** à partir de l’**icône Paramètres** située en haut à droite de l’Espace partenaires. Pour trouver les administrateurs généraux à contacter, accédez à Gestion des utilisateurs et filtrez sur Administrateur général.
 
-## <a name="verify-your-domain-ownership"></a>Vérifier la propriété de votre domaine
+## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Vérifier la propriété de votre domaine et devenir administrateur général dans l’Espace partenaires
 
 1. Dans la page **Offres pour les abonnés de l’Espace partenaires**, sélectionnez **Devenir un administrateur général**. 
 

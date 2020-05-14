@@ -1,22 +1,23 @@
 ---
-title: Confirmer l’acceptation du contrat client Microsoft par le client | Espace partenaires
+title: Confirmer l’acceptation du Contrat client Microsoft par les clients
 ms.topic: article
-ms.date: 02/18/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Découvrez comment confirmer l’acceptation du Contrat client Microsoft par les clients. Cela peut être nécessaire pour commander des produits et services Microsoft pour les clients.
+Description: Découvrez comment confirmer l’acceptation du Contrat client Microsoft par les clients. Les fournisseurs de solutions Cloud doivent faire cela pour commander des produits et services Microsoft pour les clients.
 author: LauraBrenner
 ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat Microsoft Cloud, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: high
-ms.openlocfilehash: a40d5fa1d737dd679699db467ce8b3b1be81f84b
-ms.sourcegitcommit: 1125391fd9a1ded2a051968b3a280a10676ed8bb
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ae3605f0cb352b6efb18c7e53d9842d35c7e00c3
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "82741052"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908165"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmer l’acceptation du Contrat client Microsoft par les clients
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmer l’acceptation du Contrat client Microsoft par le client dans le cadre du programme des partenaires fournisseurs de solutions Cloud
 
 **S’applique à**
 
