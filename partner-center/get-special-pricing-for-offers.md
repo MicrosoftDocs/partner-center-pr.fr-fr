@@ -1,5 +1,5 @@
 ---
-title: Vendre à des industries spécialisées | Espace partenaires
+title: Vendre aux secteurs spécialisés
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 064d8619f9c6d3247f43bc519aea5e0679ffabf3
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: e22a4e89de9ec67c6e42659275a038128d521e47
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798207"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362597"
 ---
 # <a name="sell-to-specialized-industries"></a>Vendre aux secteurs spécialisés
 
@@ -34,41 +34,34 @@ Microsoft fournit une tarification spéciale et réduite pour certains groupes d
 
 |**Tarification spéciale**   |**Compétences requises du revendeur**   |**Qualifications requises par le client**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Formation   |None   | Doit être un [utilisateur d’éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Gouvernement américain   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur une licence à Government, aucune qualification n’est requise.|   None|
-|Association sans but lucratif  |None<br>Doit avoir un locataire Azure Active Directory à but non lucratif.<br>En savoir plus sur les [offres spéciales à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscrivez-vous au [programme Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
-
+|Formation   |Aucune   | Doit être un [utilisateur d’éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Gouvernement américain   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur une licence à Government, aucune qualification n’est requise.|   Aucune|
+|Association sans but lucratif  |Aucune<br/> Doit avoir un locataire Azure Active Directory à but non lucratif.<br/> En savoir plus sur les [offres spéciales à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscrivez-vous au [programme Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Vérifier vos qualifications revendeur
 
-Les étapes suivantes s’appliquent uniquement aux fournisseurs indirects et aux partenaires directs. Les revendeurs indirects doivent se connecter avec un fournisseur indirect pour fournir des offres à prix universitaire aux utilisateurs qualifiés d’éducation. 
+Les étapes suivantes s’appliquent uniquement aux fournisseurs indirects et aux partenaires directs. Les revendeurs indirects doivent se connecter avec un fournisseur indirect pour fournir des offres à prix universitaire aux utilisateurs qualifiés d’éducation.
 
-1.  Dans votre tableau de [bord](https://partner.microsoft.com/dashboard)de l’espace partenaires, sélectionnez l’icône d’engrenage dans le coin supérieur droit de la fenêtre pour ouvrir les **paramètres du compte**.
-2.  Dans votre **profil de partenaire**, dans la section **informations sur le programme** , recherchez les **qualifications du revendeur**.
-3.  Si vous ne voyez pas la mention **Qualifications revendeur**, c’est que vous n’avez pas encore été autorisé à acheter des offres spéciales.
+1. Dans votre tableau de [bord](https://partner.microsoft.com/dashboard)de l’espace partenaires, sélectionnez l’icône d’engrenage dans le coin supérieur droit de la fenêtre pour ouvrir les **paramètres du compte**.
+
+2. Dans votre **profil de partenaire**, dans la section **informations sur le programme** , recherchez les **qualifications du revendeur**.
+
+3. Si vous ne voyez pas la mention **Qualifications revendeur**, c’est que vous n’avez pas encore été autorisé à acheter des offres spéciales.
 
 ## <a name="check-the-customer-qualifications"></a>Vérifier les qualifications client
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**. Sélectionnez le client dans la liste.
-2.  Dans le menu client, sélectionnez **Compte**. Dans la section **Informations sur la société**, recherchez **Qualifications spéciales**.
-3.  Si le champ **Qualifications spéciales** affiche **Aucune**, mais que le client satisfait aux critères, vous pouvez **mettre à jour** ses informations pour les inclure.
+1. Dans le menu **espace partenaires** , sélectionnez **clients**. Sélectionnez le client dans la liste.
+
+2. Dans le menu client, sélectionnez **Compte**. Dans la section **Informations sur la société**, recherchez **Qualifications spéciales**.
+
+3. Si le champ **Qualifications spéciales** affiche **Aucune**, mais que le client satisfait aux critères, vous pouvez **mettre à jour** ses informations pour les inclure.
 
 ## <a name="where-to-find-special-offers"></a>Où trouver des offres spéciales
 
 Une fois que vous et votre client êtes qualifié pour un programme d’offre spéciale, suivez les étapes pour [Ajouter un abonnement](create-a-new-subscription.md). Dans la section **catalogue** de la page **nouvel abonnement** , sélectionnez un secteur d’activité spécialisé pour voir les offres spéciales que vous pouvez vendre.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="next-steps"></a>Étapes suivantes
 
-[Vendre des abonnements Minecraft: Education Edition aux clients de l’éducation](minecraft-subscriptions.md)
+- [Vendre des abonnements Minecraft: Education Edition aux clients de l’éducation](minecraft-subscriptions.md)
 
-[Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](partner-center-for-microsoft-us-govt-cloud.md)
-
-
- 
-
- 
-
- 
-
-
-
+- [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

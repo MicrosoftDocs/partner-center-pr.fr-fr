@@ -11,14 +11,14 @@ ms.author: labrenne
 keywords: client, ajouter un client, compte client, compte client dans l’espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 8151f6f310df97702062f5951254da622a759a90
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 005e1d044f1d006b878eb85717a14f5e3ce3030b
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205617"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362687"
 ---
-# <a name="learn-about-adding-a-new-customer-record-in-partner-center"></a>En savoir plus sur l’ajout d’un nouvel enregistrement de client dans l’espace partenaires
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Comment ajouter un nouvel enregistrement de client dans l’espace partenaires
 
 **S’applique à**
 
@@ -33,12 +33,12 @@ ms.locfileid: "82205617"
 - Agent d’administration
 - Agent commercial
 
-Cet article explique comment ajouter un nouveau client à votre liste de clients dans l’espace partenaires. Vous devez effectuer cette opération avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un support à un client.
+Cet article explique comment ajouter un nouveau client à votre liste de clients dans l’espace partenaires. Suivez ces étapes avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un support à un client.
 
 >[!NOTE]
 >Pour les clients existants, y compris ceux qui ont déjà des enregistrements de clients dans l’espace partenaires via un scénario [multicanaux](multichannel.md) ou [multipartenaire](multipartner.md) , vous pouvez [demander une relation avec eux](request-a-relationship-with-a-customer.md)au lieu de suivre les étapes ci-dessous.
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>Pour ajouter un nouveau client dans l’espace partenaires
+## <a name="to-add-a-new-customer-in-partner-center"></a>Pour ajouter un nouveau client dans l’espace partenaires
 
 1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez **Ajouter un client**.
 
@@ -47,12 +47,13 @@ Cet article explique comment ajouter un nouveau client à votre liste de clients
    >[!NOTE]
    >
    >Pour garantir la précision pendant la vérification du client, assurez-vous de :
+   >
    >- Utilisez le nom exact légal/officiel tel qu’il apparaît dans les documents officiels
    >- Évitez d’utiliser des acronymes ou des formes courtes
    >- Ne pas utiliser les noms de test
    >- Fournir une adresse complète et exacte (détails de l’emplacement, ville, État, pays et code postal)
 
-   >[!IMPORTANT] 
+   >[!IMPORTANT]
    > Le 1er octobre 2019, Microsoft a introduit le **Contrat client Microsoft** dans le programme Fournisseur de solutions Cloud pour remplacer le contrat Microsoft Cloud. En savoir plus sur le [contrat de client Microsoft et sur la manière de confirmer le consentement](confirm-customer-agreement.md)
   
 3. Si vous êtes un fournisseur indirect, sélectionnez le revendeur indirect que vous souhaitez associer aux abonnements de ce client dans la liste.
@@ -68,7 +69,7 @@ Cet article explique comment ajouter un nouveau client à votre liste de clients
 
 7. Sélectionnez **terminé** lorsque vous avez terminé d’ajouter les informations sur le client et acheté les abonnements requis.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="next-steps"></a>Étapes suivantes
 
 - Pour plus d’informations sur ce que vous pouvez vendre aux clients par le biais du programme fournisseur de solutions Cloud, consultez [offres partenaires dans le programme du fournisseur de solutions Cloud](csp-offers.md).
 

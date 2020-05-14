@@ -3,19 +3,18 @@ title: Créer une offre d’achat
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Découvrez comment un conseiller d’abonnement autorisé peut utiliser l’espace partenaires pour créer une offre d’achat et une URL personnalisée à inclure dans les invitations à la version d’évaluation d’Office 365.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, acheter
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975110"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362677"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Conseillers : créer une offre d’achat
 
@@ -26,11 +25,11 @@ Une fois que vous avez envoyé une invitation d’essai pour Office 365 à un cl
 
 Lorsque vous créez l’offre d’achat, l’Assistant Création d’une **offre d’achat** crée une URL personnalisée pour vous. L’URL contient un code incorporé qui vous identifie en tant que conseiller d’abonnement. Vous pouvez utiliser cette URL pour un ou plusieurs clients. Envoyez l’URL à votre client par courrier électronique. Ou, vous pouvez poster l’URL sur votre site Web. Si votre client accepte l’offre, vous êtes associé à l’achat de votre client.
 
-Si votre client souhaite un nombre de licences différent, envoyez-lui une nouvelle offre ou il peut modifier le nombre de licences lors de l’achat de l’abonnement. 
+Si votre client souhaite un nombre de licences différent, envoyez-lui une nouvelle offre ou il peut modifier le nombre de licences lors de l’achat de l’abonnement.
 
 ## <a name="to-create-a-purchase-offer"></a>Pour créer une offre d’achat
 
-1. Accédez à **évaluations et achetez offres** > **créer une offre**.
+1. Accédez à **évaluations et achetez offres**  >  **créer une offre**.
 
 2. Sur la page **créer une offre d’achat** , sélectionnez les options d’achat que vous souhaitez inclure :
 
@@ -50,7 +49,9 @@ Si votre client souhaite un nombre de licences différent, envoyez-lui une nouve
     > [!NOTE]
     > Prenez note de l' **ID Résumé**de l’offre d’achat. Utilisez-le pour suivre l’offre.
 
-5. Vous pouvez personnaliser le message en incluant le logo de votre société, l’introduction, les remarques de clôture ou d’autres informations. Envoyez l’offre d’achat à votre client.
+5. Vous pouvez personnaliser le message en incluant le logo de votre société, l’introduction, les remarques de clôture ou d’autres informations.
+
+    Envoyez l’offre d’achat à votre client.
 
 6. Lorsque vous personnalisez votre message, pensez à inclure les informations suivantes :
 

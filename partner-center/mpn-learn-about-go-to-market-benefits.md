@@ -1,5 +1,5 @@
 ---
-title: En savoir plus sur Go-to-Market avec les offres Microsoft | Espace partenaires
+title: En savoir plus sur Go-to-Market avec les offres Microsoft
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, avantages de l’adhésion, adhésion, Go-to-Market offers, Go-to-Market avec Microsoft, accéder au marché, adhésion Gold, abonnement Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226205"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362717"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explorez vos offres Go-to-Market avec Microsoft
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 - Membres du Microsoft Partner Network
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Administrateur partenaire MPN
 
 Lorsque vous êtes devenu membre Microsoft Partner Network, vous avez accès à des avantages d’appartenance qui peuvent vous aider à créer et à développer votre activité. La mise sur le marché avec les ressources, les offres et les programmes Microsoft présente les [nombreux avantages](https://partner.microsoft.com/manage-your-partner-network-benefits) que vous recevez en tant que membre Microsoft Partner Network.
@@ -34,7 +34,6 @@ Les offres Go-to-Market vous donnent accès à des ressources de vente et de mar
 
 >[!NOTE]
 >Si vous n’êtes pas encore membre du Microsoft Partner Network, Joignez-vous sur [le site Microsoft Partner Network](https://partner.microsoft.com/membership).
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Ressources, offres et programmes Go-to-Market disponibles au niveau de l’appartenance
 
@@ -67,11 +66,11 @@ Pour afficher vos offres Go-to-Market :
 
 1. Connectez-vous au [tableau de bord]( https://docs.microsoft.com/partner-center/) de l’Espace partenaires.
 
-2. Dans le menu de gauche, sélectionnez **MPN**. Effectuez ensuite l’une des opérations suivantes :
+2. Dans le menu de gauche, sélectionnez **MPN**. Ensuite, effectuez l’une des opérations suivantes :
 
-    - Sélectionnez **vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
+    - Sélectionnez **Vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
 
-      ou
+      or
 
     - Sélectionnez **avantages** suivis de **go-to-Market**.
 
@@ -84,10 +83,10 @@ Pour connaître les étapes spécifiques à suivre pour activer ou gérer vos of
 >[!IMPORTANT]
 >Vous devez être l’administrateur général ou l’administrateur du partenaire MPN pour activer des offres Go-to-Market spécifiques et affecter un contact marketing associé. Si nécessaire, vous pouvez devenir administrateur général en suivant les instructions de votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion obligatoire). Votre entreprise ayant peut-être déjà un administrateur général, pensez à vérifier auprès de votre équipe.
 
-#### <a name="see-also"></a>Voir aussi
+## <a name="next-steps"></a>Étapes suivantes
 
-[Gérer les avantages de votre réseau partenaire](manage-your-partner-network-benefits.md)
+- [Gérer les avantages de votre réseau partenaire](manage-your-partner-network-benefits.md)
 
-[Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
+- [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
 
-[En savoir plus sur les compétences](learn-about-competencies.md)
+- [En savoir plus sur les compétences](learn-about-competencies.md)

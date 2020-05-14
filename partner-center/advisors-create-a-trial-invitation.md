@@ -3,24 +3,23 @@ title: Créer une invitation à la version d’évaluation d’Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Découvrez comment les partenaires peuvent créer et envoyer des invitations à la version d’évaluation pour que leurs clients essaient Office 365. Les partenaires sont un conseiller d’abonnement agréé.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, version d’évaluation
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907453"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362617"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Conseillers : créez et envoyez une invitation à la version d’évaluation pour que les clients essaient Office 365
 
 > [!NOTE]
-> Cette fonctionnalité est disponible uniquement pour les partenaires Microsoft qui sont des conseillers d’abonnement autorisés. 
+> Cette fonctionnalité est disponible uniquement pour les partenaires Microsoft qui sont des conseillers d’abonnement autorisés.
 
 Vous pouvez créer et envoyer des invitations à la version d’évaluation à vos clients afin qu’ils puissent essayer Office 365. Lorsque vous créez une invitation à la version d’évaluation, l’Assistant **création d’une invitation à une version d’évaluation** crée une URL personnalisée pour vous. L’URL contient un code incorporé qui vous identifie en tant que conseiller d’abonnement. Vous pouvez utiliser cette URL pour un ou plusieurs clients. Envoyez l’URL à votre client par courrier électronique ou utilisez l’URL dans d’autres documents. Selon l’offre, l’abonnement peut fournir un ou plusieurs services. Une invitation ne peut être envoyée que pour un abonnement d’évaluation à la fois.
 
@@ -28,7 +27,7 @@ Si vous êtes certifié pour offrir une administration déléguée, vous pouvez 
 
 ## <a name="to-create-a-trial-invitation"></a>Pour créer une invitation d’essai
 
-1. Accédez à **versions d’évaluation et achetez offres** > **créer des invitations**.
+1. Accédez à **versions d’évaluation et achetez offres**  >  **créer des invitations**.
 
 2. Sur la page **créer une invitation d’évaluation** , sélectionnez les options d’invitation à la version d’évaluation que vous souhaitez inclure :
 

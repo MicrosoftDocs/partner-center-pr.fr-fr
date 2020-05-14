@@ -9,37 +9,55 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 653a0db03d84efa3f251596d3cea841310d55161
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: d57321e272a251c91791f274373fb31953f94e04
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205787"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362727"
 ---
-# <a name="learn-how-to-remove-a-reseller-relationship-with-a-customer"></a>Découvrez comment supprimer une relation de revendeur avec un client
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer"></a>Suppression d’une relation de revendeur avec un client
 
 **S’applique à**
 
 - Espace partenaires
 
+Cet article explique comment supprimer une relation de revendeur avec un client dans l’espace partenaires.
+
 Partenaires directs : Si vous ne transmettez plus un client, vous pouvez supprimer la relation dans l’espace partenaires.
 
-Cette fonctionnalité :
+La suppression d’une relation a les conséquences suivantes :
+
 - Supprime le client de votre liste de clients dans l’espace partenaires
 - Vous supprime de la [liste des contacts de support disponibles](assign-support-contacts.md) pour votre client
 - Supprime vos privilèges d’administrateur de délégation pour le client
 - Vous empêche d’effectuer des achats à venir pour le client
 
-Pour supprimer la relation, vous devez annuler les réservations Azure RI, annuler les achats de logiciels et suspendre tout d’abord les abonnements actifs restants :
-1. Interrompez tous les abonnements actifs. Dans l’espace partenaires, accédez à **clients** > sélectionnez un client > **abonnements** > sélectionnez un abonnement > **suspendu**. 
+## <a name="how-to-remove-a-relationship"></a>Comment supprimer une relation
 
-   Répétez cette étape pour chaque abonnement actif.
+Pour supprimer la relation, vous devez annuler les réservations Azure RI, annuler les achats de logiciels et suspendre tout d’abord les abonnements actifs restants.
 
-2. Supprimer la relation dans l’espace partenaires : dans l’espace partenaires, accédez à **clients** > sélectionnez un **compte** > > client**Supprimer la relation revendeur**.
+1. **Interrompez tous les abonnements actifs.**
+
+   1. Dans l’espace partenaires, accédez à **clients** et sélectionnez un client.
+
+   2. Sous **abonnements**, sélectionnez un abonnement.
+
+   3. Sélectionner **suspendu**
+
+   4. Répétez ces étapes pour chaque abonnement actif.
+
+2. **Supprimer la relation dans l’espace partenaires :**
+
+   a. Dans l’espace partenaires, accédez à **clients** et sélectionnez un client.
+
+   b. Sélectionnez le **compte**.
+
+   c. Sélectionnez **Supprimer la relation de revendeur**.
 
    > [!NOTE]
    > Si des abonnements sont toujours actifs, le lien **Supprimer la relation du revendeur** est inactif.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Demander ou rétablir une relation avec un client](request-a-relationship-with-a-customer.md)

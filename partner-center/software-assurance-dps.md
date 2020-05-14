@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: prédéploiement, planification, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296408"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362437"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 
@@ -25,7 +25,7 @@ ms.locfileid: "80296408"
 
 En tant que partenaire des services de planification approuvés, Microsoft vous compense de fournir des engagement de planification de prédéploiement pour les clients d’entreprise. Participer à ce programme peut vous aider à attirer plus de clients, à devenir leur partenaire de planification approuvé et à mener à des interventions client supplémentaires.
 
-## <a name="get-started"></a>Prise en main
+## <a name="get-started"></a>Prendre en main
 
 Si vous ne connaissez pas les services de planification Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le ou les programmes des services de planification, commencez chaque engagement à l’étape 4 (4) ci-dessous.
 
@@ -87,7 +87,7 @@ Lorsque vous avez les détails du document, vous pouvez réserver le bon et plan
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Terminer l’engagement et fournir des livrables à votre client (partenaires existants)
 
-Pour être éligible à la fourniture d’un engagement de services de planification, le consultant doit avoir effectué une ou plusieurs des évaluations techniques ou des examens nécessaires à la compétence éligible de l’engagement. (Pour en savoir plus sur les évaluations ou les examens requis, [consultez conditions d’éligibilité pour les approvisionnements des services de planification](software-assurance-dps-requirements.md).) 
+Pour être éligible à la fourniture d’un engagement de services de planification, le consultant doit avoir effectué une ou plusieurs des évaluations techniques ou des examens nécessaires à la compétence éligible de l’engagement. (Pour en savoir plus sur les évaluations ou les examens requis, [consultez conditions d’éligibilité pour les approvisionnements des services de planification](software-assurance-dps-requirements.md).)
 
 Une fois que votre entreprise a terminé l’engagement et fourni les derniers livrables finaux au client, vous devez remplir et soumettre le rapport de saisie semi-automatique en ligne.
 
@@ -103,7 +103,7 @@ Après avoir échangé les bons de planification des services, vous devez factur
 
 Pour envoyer une facture à Microsoft par le biais de SAVB, suivez les instructions de l' [étape 8](https://go.microsoft.com/fwlink/?linkid=2115983) du flux de travail.
 
-## <a name="see-also"></a>Voir aussi
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Flux de travail des services de planification Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [FAQ sur les services de planification Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
