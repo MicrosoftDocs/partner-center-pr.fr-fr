@@ -2,7 +2,7 @@
 title: Accorder aux clients l’autorisation d’acheter leurs propres services
 description: Découvrez comment les partenaires du programme CSP peuvent permettre aux clients d’acheter leurs propres services, tels que les réservations Azure, pour un abonnement acheté pour eux.
 ms.topic: article
-ms.date: 05/12/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: abonnement, achat libre-service, RI libre-service, activer RI, désactiver RI, libre-service, achat client, autorisations client, instance réservée achat client, réservations Azure achat client, activer le libre-service, désactiver le libre-service
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362607"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394136"
 ---
 # <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Comment accorder aux clients l’autorisation d’acheter leurs propres produits ou services
 
@@ -128,7 +128,7 @@ Pour activer (ou désactiver) les autorisations des clients dans l’espace part
 
 5. Recherchez la zone **autorisations du client** au bas de la page.
 
-   ![Autorisations du client sur la page du compte](images/give-customers-permission-reservations.png)
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Autorisations du client sur la page du compte." border="true":::
 
 6. Sous **réservations Azure**, recherchez l’option **autoriser le client à acheter** .
 
@@ -152,7 +152,7 @@ Aidez les clients à comprendre plus sur la gestion de ces aspects des réservat
 
 **Les prix des clients paient leurs réservations.** Votre client achète des réservations Azure sur la base d’un abonnement que vous avez acheté précédemment dans votre compte de facturation de partenaire CSP. Le prix du client pour toutes les réservations Azure qu’il achète en fonction de cet abonnement est également défini par vous-même. Ce prix peut être différent du tarif direct Web que le client voit dans le Portail Azure.
 
-**Comment les clients peuvent optimiser leur utilisation d’une réservation.** Certains clients peuvent tirer parti d’en savoir plus sur l’optimisation de leur utilisation d’une réservation ou sur l’affectation de l’étendue initiale d’une réservation pendant son achat. Pour plus d’informations, demandez aux clients de lire [gérer des réservations pour les ressources Azure]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+**Comment les clients peuvent optimiser leur utilisation d’une réservation.** Certains clients peuvent tirer parti d’en savoir plus sur l’optimisation de leur utilisation d’une réservation ou sur l’affectation de l’étendue initiale d’une réservation pendant son achat. Pour plus d’informations, demandez aux clients de lire [gérer des réservations pour les ressources Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
 
 **Que se passe-t-il lorsqu’un client achète une réservation avec une étendue partagée ?** Lorsque les clients achètent une réservation basée sur un abonnement CSP antérieur et affectent une étendue partagée à cette réservation, toute remise fournie par le client par le fournisseur de services Cloud s’applique à l’utilisation correspondante pour tous les abonnements que le partenaire CSP a achetés pour ce client.
 

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 02/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: La liste des offres inclut les différentes familles de produits qui peuvent être achetées via l’espace partenaires et leurs informations de tarification.
+description: Consultez les tarifs actuels pour obtenir des services basés sur une licence comme Office 365, Microsoft Dynamics CRM et Enterprise Mobility suite, ainsi que des services basés sur l’utilisation comme Azure.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 19e935122d1223c87714ca8c3a3f4fd212f2cf3c
-ms.sourcegitcommit: 4731d6647db34cf214f781f9e002074210fcfc29
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "81664286"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394167"
 ---
-# <a name="pricing-and-offers"></a>Tarification et offres
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
 **S’applique à**
 
@@ -64,7 +64,7 @@ Les changements de prix sont des événements fréquents. Les partenaires peuven
 
 Toutefois, la tarification basée sur l’utilisation Azure n’a pas d’aperçu. Les partenaires peuvent suivre les changements de prix de la consommation Azure à l’aide de l’API RateCard, qui renvoie la tarification du compteur du jour.
 
-|**Type de produit**   |**Exemples de produits**  |**Aperçu disponible** |**Modifier les détails**|
+|**Type de produit**   |**Exemples de produits**  |**Aperçu disponible** |**Détails des modifications**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Basé sur une licence|Office, Dynamics, Intune, Windows entreprise|30 jours|Répertorier les modifications de prix marquées CHNG dans les listes de prix en version préliminaire|
 |Basé sur l’utilisation|Ressources Azure|Non disponible|Journal des modifications disponible dans l’onglet **historique des modifications** de la liste de prix du mois précédent|
@@ -82,7 +82,7 @@ Le fournisseur CSP offre des services à des segments de marché spéciaux, par 
 
 |**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Formation|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
+|Education|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
 |À but non lucratif|Customer|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure Government|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure Government|Ressources Azure|

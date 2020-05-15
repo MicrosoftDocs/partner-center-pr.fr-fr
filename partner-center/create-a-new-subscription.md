@@ -1,21 +1,22 @@
 ---
-title: Créer, suspendre ou annuler des abonnements client
+title: Créer des abonnements clients dans l’espace partenaires
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment vendre les abonnements de votre client aux produits du catalogue après avoir créé un enregistrement de client dans l’espace partenaires.
+description: Découvrez comment vendre à vos clients des abonnements à des produits publiés par Microsoft, ainsi qu’à des produits SaaS publiés par des ISV tiers.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: abonnement, créer nouveau, ajouter un abonnement, suspendre, annuler, suspendre, suspendre, SaaS, licence, ISV, tiers
 ms.localizationpriority: medium
-ms.openlocfilehash: 75cfa546834e0e95dd716492ff822c0d1aa940b7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362357"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394150"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -37,12 +38,12 @@ Une fois que vous avez créé un enregistrement de votre client dans l’Espace 
 
 Certaines offres sont limitées à un seul abonnement par client. Pour voir la liste des offres limitées, consultez la page Tarification et offres de l'Espace partenaires.
 
->[!IMPORTANT]
-En tant que partenaire dans le programme CSP, vous pouvez uniquement acheter des abonnements Saas **basés sur une licence** auprès d’éditeurs ISV au sein de l’espace partenaires. Cela signifie que vous pouvez acheter une offre SaaS basée sur une **licence** que l’éditeur ISV met à votre disposition, y compris les [offres exclusives](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) auxquelles vous avez accès. Pour acheter ou gérer d’autres offres de la place de marché commercial auprès d’éditeurs de logiciels (ISV) (telles que des offres basées sur **l’utilisation**, limitées ou à la consommation impliquant des applications, des conteneurs ou des machines virtuelles Azure), vous devez accéder au [portail de gestion Azure](https://portal.azure.com/). Pour plus d’informations, consultez acheter des produits de la place de [marché commercial](csp-commercial-marketplace-purchase.md).
+> [!IMPORTANT]
+> En tant que partenaire dans le programme CSP, vous pouvez uniquement acheter des abonnements Saas **basés sur une licence** auprès d’éditeurs ISV au sein de l’espace partenaires. Cela signifie que vous pouvez acheter une offre SaaS basée sur une **licence** que l’éditeur ISV met à votre disposition, y compris les [offres exclusives](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) auxquelles vous avez accès. Pour acheter ou gérer d’autres offres de la place de marché commercial auprès d’éditeurs de logiciels (ISV) (telles que des offres basées sur **l’utilisation**, limitées ou à la consommation impliquant des applications, des conteneurs ou des machines virtuelles Azure), vous devez accéder au [portail de gestion Azure](https://portal.azure.com/). Pour plus d’informations, consultez acheter des produits de la place de [marché commercial](csp-commercial-marketplace-purchase.md).
 
 ## <a name="create-a-new-subscription"></a>Créer un abonnement
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
+1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard).
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
@@ -55,11 +56,11 @@ En tant que partenaire dans le programme CSP, vous pouvez uniquement acheter des
 
 5. Sélectionnez les abonnements de produits que vous souhaitez acheter pour votre client. Les produits que vous voyez dépendent du type de segment client (éducation, gouvernement, etc.) et des filtres que vous avez appliqués. Certaines offres affichées sur la place de marché ne sont pas toujours disponibles pour un client spécifique ou un partenaire CSP spécifique. Cela peut être dû aux raisons suivantes :
 
-    - Le client a déjà un abonnement à ce produit et n’est autorisé qu’un seul
+   - Le client a déjà un abonnement à ce produit et n’est autorisé qu’un seul
 
-    - L’abonnement du client a peut-être été suspendu (dans ce cas, vous pouvez réactiver l’abonnement au lieu d’en acheter un nouveau.)
+   - L’abonnement du client a peut-être été suspendu (dans ce cas, vous pouvez réactiver l’abonnement au lieu d’en acheter un nouveau.)
 
-    - Pour les offres SaaS ISV, il peut y avoir plusieurs raisons pour lesquelles l’offre n’est pas disponible à l’achat : l’ISV peut ne pas prendre en charge le pays ou la région de facturation du client. l’éditeur de logiciels indépendant peut avoir choisi de ne pas rendre l’offre disponible par le biais du programme CSP. ou, l’ISV a peut-être rendu l’offre [exclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) uniquement à certains partenaires CSP. L’offre ISV n’est pas non plus utilisable via l’espace partenaires (par exemple, des conteneurs ou des offres basées sur l’utilisation).  
+   - Pour les offres SaaS ISV, il peut y avoir plusieurs raisons pour lesquelles l’offre n’est pas disponible à l’achat : l’ISV peut ne pas prendre en charge le pays ou la région de facturation du client. l’éditeur de logiciels indépendant peut avoir choisi de ne pas rendre l’offre disponible par le biais du programme CSP. ou, l’ISV a peut-être rendu l’offre [exclusive](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) uniquement à certains partenaires CSP. L’offre ISV n’est pas non plus utilisable via l’espace partenaires (par exemple, des conteneurs ou des offres basées sur l’utilisation).  
 
 6. Pour chaque abonnement que vous souhaitez ajouter, entrez le nombre de licences (si nécessaire), puis sélectionnez **Ajouter au panier**.
 
