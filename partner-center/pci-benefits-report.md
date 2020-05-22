@@ -1,27 +1,28 @@
 ---
-title: Aperçu de l’espace partenaires-informations sur les avantages | Espace partenaires
+title: Rapport des avantages des Insights de l’espace partenaires
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez les avantages des partenaires Microsoft qui vous ont été accordés pour vous aider à développer votre activité, améliorer l’efficacité et améliorer les compétences de votre équipe.
+description: Découvrez les types d’avantages des partenaires Microsoft qui vous ont été accordés pour vous aider à développer votre activité, améliorer l’efficacité et améliorer les compétences de votre équipe.
 ms.assetid: ''
 keywords: PCI, performances, mesures, avantages, analytique, rapport
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226195"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795724"
 ---
-# <a name="benefits-report"></a>Rapport d’avantages
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapport des avantages disponible dans le tableau de bord des Insights de l’espace partenaires
 
 **Rôles appropriés**
-- Administrateur global
+
+- Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
 - Visionneuse de rapports Executive
@@ -35,7 +36,7 @@ Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
 - Résumé
 - Services Cloud accordés
 - Produits logiciels
-- Abonnements Visual Studio
+- Abonnements Visual Studio
 - Avantages techniques
 - Go-to-Market
 
@@ -69,7 +70,7 @@ Ce graphique présente la tendance mensuelle des abonnements Visual Studio activ
 
 Sélectionnez un onglet en haut du graphique pour afficher la tendance d’un abonnement Visual Studio spécifique que vous avez obtenu en tant qu’avantage. Les colonnes du graphique représentent les sièges consommés pour l’abonnement. Le graphique linéaire représente les sièges globaux affectés à l’abonnement.
 
-![Abonnements Visual Studio](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
+![Abonnements Visual Studio](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
 
 **Avantages techniques**
 
@@ -86,3 +87,7 @@ Ce graphique présente la tendance mensuelle des offres ou services Go-to-Market
 Sélectionnez une catégorie de service ou une offre de mise sur le marché dans la liste déroulante en haut du graphique pour afficher la tendance des services Go-to-Market sélectionnés accordés à votre entreprise. Les colonnes du graphique représentent les offres Go-to-Market ou les services activés. Le graphique linéaire représente les offres Go-to-Market globales ou les services accordés à votre entreprise.
 
 ![Offres Go-to-Market](images/pci/pci_benefits_go_to_market_7.png)
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).

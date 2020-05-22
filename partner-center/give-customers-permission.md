@@ -1,8 +1,8 @@
 ---
-title: Accorder aux clients l’autorisation d’acheter leurs propres services
-description: Découvrez comment les partenaires du programme CSP peuvent permettre aux clients d’acheter leurs propres services, tels que les réservations Azure, pour un abonnement acheté pour eux.
+title: Permettre aux clients d’acheter leurs propres services dans CSP
+description: Découvrez comment les partenaires du programme CSP peuvent permettre aux clients d’acheter leurs propres services, tels que les réservations Azure, pour un abonnement acheté pour eux dans l’espace partenaires.
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,14 +10,14 @@ ms.author: labrenne
 Keywords: abonnement, achat libre-service, RI libre-service, activer RI, désactiver RI, libre-service, achat client, autorisations client, instance réservée achat client, réservations Azure achat client, activer le libre-service, désactiver le libre-service
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394136"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795114"
 ---
-# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Comment accorder aux clients l’autorisation d’acheter leurs propres produits ou services
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Autoriser les clients dans l’espace partenaires à acheter leurs propres produits ou services
 
 **S’applique à**
 

@@ -1,7 +1,7 @@
 ---
-title: Attribuer des abonnements Azure dans l'Espace partenaires | Espace partenaires
+title: Affecter des abonnements Azure à des clients
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment affecter des abonnements Azure à vos clients dans l’espace partenaires et comment permettre aux clients de gérer leurs propres abonnements.
@@ -9,41 +9,41 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, abonnement Azure, abonnement, abonnements, attribuer un abonnement, gérer un abonnement Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 1cd749cd6ec9818da1a32e74aeb1e58e139ea2e1
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6733a7fd394aac2d17650cfb6bdb612f9b9d01bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722334"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795050"
 ---
-# <a name="assign-azure-subscriptions-in-partner-center"></a>Attribuer des abonnements Azure dans l’Espace partenaires
+# <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Attribution d’abonnements Azure à des clients dans l’espace partenaires
 
 **S’applique à**
 
 - Espace partenaires
 
-## <a name="assign-azure-subscriptions-to-your-customers-in-partner-center"></a>Affecter des abonnements Azure à vos clients dans l’espace partenaires
+## <a name="assign-azure-subscriptions-to-your-customers"></a>Affecter des abonnements Azure à vos clients
 
 1. Sélectionnez **clients** dans le menu de l' **espace partenaires** et recherchez le client que vous souhaitez gérer.
 
-2. Sélectionnez la flèche vers le bas située au bout de la ligne pour développer la fiche du client, puis sélectionnez **Portail de gestion Microsoft Azure**. Vous serez redirigé vers le portail Azure, dans lequel vous pourrez gérer les abonnements du client.
+2. Sélectionnez la flèche vers le bas à la fin de la ligne pour développer l’enregistrement du client, puis sélectionnez **portail de gestion Microsoft Azure**. Vous serez redirigé vers le [portail Azure](https://portal.azure.com/) dans lequel vous pouvez gérer les abonnements du client.
 
-3. Depuis le portail Azure, sélectionnez **Abonnements**.
+3. Dans le Portail Azure, sélectionnez **abonnements**.
 
-4. Sélectionnez l'abonnement que vous souhaitez attribuer, puis sélectionnez **Contrôle d'accès**.
+4. Sélectionnez l’abonnement que vous souhaitez affecter, puis sélectionnez **Access Control**.
 
-5. Sélectionnez **Ajouter** pour ajouter un utilisateur à l'abonnement. 
+5. Sélectionnez **Ajouter** pour ajouter un utilisateur à l’abonnement. 
 
-6. Après avoir ajouté l'utilisateur à l'abonnement, vous pouvez attribuer un rôle à cet utilisateur, ainsi que le compte spécifique auquel il aura accès.
+6. Après avoir ajouté l’utilisateur à l’abonnement, vous pouvez attribuer à l’utilisateur un rôle et le compte spécifique auquel l’utilisateur aura accès.
 
-**Permettre aux clients de gérer leurs abonnements Azure**
+**Autoriser les clients à gérer leurs abonnements Windows Azure**
 
 Après avoir créé un abonnement Microsoft Azure pour un client, vous pouvez lui permettre de gérer son abonnement. Pour ce faire, vous devez vous connecter au portail de gestion Microsoft Azure du client. 
 
 1. Pour ouvrir le Portail Azure du client, développez la liste des clients dans votre liste de clients ou sélectionnez le nom du client, puis sélectionnez **portail de gestion Microsoft Azure**.
-    
-> [!NOTE]  
-> Si vous êtes invité à vous connecter au portail Azure, vous n'avez peut-être pas délégué les privilèges d'administration. Sélectionnez **Demander une relation** pour inviter le client à vous identifier comme son partenaire de référence. Une fois que le client a accepté votre invitation, vous vous voyez automatiquement attribuer des privilèges d'administration délégués. 
+   > [!NOTE]  
+   > Si vous êtes invité à vous connecter au Portail Azure, vous ne disposez peut-être pas de privilèges d’administrateur délégués. Sélectionnez **Demander une relation** pour inviter le client à vous identifier comme son partenaire de référence. Une fois que le client a accepté votre invitation, vous vous voyez automatiquement attribuer des privilèges d'administration délégués.
 
 2. Dans la Portail Azure, ouvrez la liste abonnements du client et sélectionnez l’abonnement Azure du client.
 

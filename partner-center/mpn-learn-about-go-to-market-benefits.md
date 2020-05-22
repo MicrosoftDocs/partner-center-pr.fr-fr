@@ -1,20 +1,21 @@
 ---
 title: En savoir plus sur Go-to-Market avec les offres Microsoft
 ms.topic: article
-ms.date: 03/16/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment la mise sur le marché avec les offres Microsoft peut accélérer le délai de mise sur le marché, générer des prospects et développer votre activité.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: MPN, avantages de l’adhésion, adhésion, Go-to-Market offers, Go-to-Market avec Microsoft, accéder au marché, adhésion Gold, abonnement Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362717"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795827"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explorez vos offres Go-to-Market avec Microsoft
 

@@ -1,27 +1,27 @@
 ---
-title: Aperçu de l’espace partenaires-informations sur les abonnements aux produits | Espace partenaires
+title: Rapport sur les abonnements de l’espace partenaires
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez ce que vous êtes en train de faire et où vous pouvez améliorer en ce qui concerne les abonnements Cloud que vous vendez ou gérez pour vos clients.
 ms.assetid: ''
 keywords: PCI, performances, mesures, succès des clients, abonnements Cloud, analytique, rapport
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648050"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795915"
 ---
-# <a name="product-subscriptions-report"></a>Rapport sur les abonnements de produits
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport sur les abonnements au produit disponible dans le tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
 - Visionneuse de rapports Executive
@@ -30,7 +30,7 @@ Le rapport abonnements aux produits présente des analyses sur les abonnements C
 
 Vous pouvez consulter les sections suivantes dans le rapport abonnements aux produits.
 
-- Récapitulatif
+- Résumé
 - Répartition géographique des abonnements
 - Tendance d’ajout/d’évolution des abonnements
 - Distribution des abonnements par emplacement de partenaire, canal de vente, SKU, type d’attachement de partenaire, segment
@@ -108,3 +108,7 @@ Les deux graphiques en secteurs affichent une répartition de vos abonnements cl
 
 > [!NOTE]
  > Le nombre d’abonnements divisé par SKU peut ne pas toujours correspondre au nombre total d’abonnements pour ce produit. Cela peut se produire si un client a acheté plusieurs références SKU sous le même abonnement au produit.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).

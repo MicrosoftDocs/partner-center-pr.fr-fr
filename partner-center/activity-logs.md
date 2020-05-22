@@ -1,7 +1,7 @@
 ---
-title: Afficher les journaux d’activité des clients | Espace partenaires
+title: Obtenir des Insights sur les journaux d’activité des clients
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment afficher et exporter les journaux d’activité pour obtenir des informations sur les transactions de compte client et d’autres activités de gestion des partenaires liées aux clients.
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: journaux d’activité, abonnement, abonnements, paiements, facturation, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798657"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794975"
 ---
-# <a name="view-customer-activity-logs"></a>Afficher les journaux d’activité des clients
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Afficher ou exporter les journaux d’activité client pour plus d’informations sur les transactions client
 
 **S’applique à**
 

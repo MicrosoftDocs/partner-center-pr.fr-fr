@@ -1,30 +1,30 @@
 ---
-title: Gérer les opportunités de co-vente | Espace partenaires
+title: Gérer les opportunités de covente
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des contrats, inviter Microsoft à collaborer ou afficher les demandes envoyées.
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: références, covente, vente
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919836"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796033"
 ---
-# <a name="manage-co-sell-opportunities"></a>Gérer les opportunités de co-vente
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gérez les opportunités de covente dans l’espace partenaires pour définir des contrats et mieux répondre aux besoins des clients
 
 **S’applique à**
 
--  Espace partenaires
--  Références
--  Co-vendre avec Microsoft
--  Partage des affaires
+- Espace partenaires
+- Références
+- Co-vendre avec Microsoft
+- Partage des affaires
 
 **Rôles appropriés**
 

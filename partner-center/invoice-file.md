@@ -1,27 +1,29 @@
 ---
-title: Fichiers de facture | Espace partenaires
+title: Comprendre les champs des factures de facturation
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 05/18/2020
 description: Comprendre les champs de votre fichier de facture pour la facturation de l’espace partenaires.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, facture
 ms.localizationpriority: medium
-ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798897"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794864"
 ---
-# <a name="invoice-files"></a>Fichiers de facture
+# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Factures de facturation de l’espace partenaires : Découvrez comment lire les champs de facturation et de frais à usage unique
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Administrateur de la facturation
--   Agent du support technique
+
+- Administrateur général
+- Administrateur des utilisateurs
+- Administrateur de la facturation
+- Agent du support technique
 
 Vous pouvez utiliser les tableaux suivants pour comprendre les champs des fichiers de facture de l’espace partenaires.
 

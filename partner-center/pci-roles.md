@@ -1,24 +1,24 @@
 ---
-title: Insights de l’espace partenaires-contrôle d’accès en fonction des rôles | Espace partenaires
+title: Accès en fonction du rôle de l’espace partenaires
 ms.topic: article
-ms.date: 01/14/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Des rôles spécifiques sont requis pour afficher les rapports Insights
+description: En savoir plus sur les rôles spécifiques nécessaires pour voir les rapports de l’espace partenaires. Celles-ci incluent les rôles de visionneuse de rapports Executive et de visionneuse de rapports.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, performances, succès des clients, mesures, rôles
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: e51e86ed20af16d4bc4c5d48b33eee712480bfab
-ms.sourcegitcommit: 1a735003cca0bd430195ac1213bd8d77bd5063a9
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fedeaad1898f4fade76bbf34c0bfe6bd2585a7cd
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75945861"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795642"
 ---
-# <a name="roles-based-access-control-to-the-insights-dashboard"></a>Contrôle d’accès basé sur les rôles au tableau de bord Insights
+# <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Contrôle d’accès en fonction du rôle au tableau de bord Insights de l’espace partenaires
 
 Le tableau de bord Insights utilise deux nouveaux rôles dans l’espace partenaires pour gérer l’accès des employés aux rapports-visionneuse de rapports et visionneuse de rapports Executive.  Les utilisateurs du rôle de la visionneuse de rapports exécutifs ont accès à tous les jeux de données de rapports, tandis que les utilisateurs du rôle visionneuse de rapports n’ont pas accès aux jeux de données sensibles tels que les données personnelles des clients et des employés.  
 
@@ -27,3 +27,7 @@ Comme pour les autres rôles de l’espace partenaires, l’administrateur gén�
 ![Rôles](images/pci/roles.png)
 
 >Observe Les utilisateurs qui sont des administrateurs MPN à partir du 20 janvier, 2020 sont automatiquement ajoutés au rôle « visionneuse de rapports exécutifs » à l’ensemble de l’entreprise pour tous les emplacements de ce locataire. Ces utilisateurs peuvent ainsi accéder aux rapports en tant que visionneuse de rapports exécutif sans aucune action explicite requise par l’administrateur général ou l’administrateur de compte. Les administrateurs généraux et les administrateurs de compte peuvent remplacer les rôles affectés automatiquement de ces utilisateurs pour augmenter ou limiter davantage leurs fonctionnalités.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- En savoir plus sur les Insights de l' [espace partenaires](partner-center-insights.md) et ses différents rapports.

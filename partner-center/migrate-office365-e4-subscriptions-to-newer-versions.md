@@ -1,19 +1,20 @@
 ---
-title: Migrer des abonnements Office 365 E4 vers des versions Office 365 plus récentes | Espace partenaires
+title: Migrer des abonnements Office 365 E4
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 Enterprise E4 Edition est mis hors service depuis le 7 avril 2017. Découvrez comment migrer vos abonnements client vers des versions plus récentes d’Office 365.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798875"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795762"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office 365 E4 vers les nouvelles versions d’Office 365
 
@@ -32,7 +33,7 @@ Le plan Office 365 Enterprise E4 est retiré, à compter du 7 avril 2017. Vous n
 Lorsque les abonnements E4 se terminent, ils sont annulés. Pour garantir la continuité des clients, vous devez faire passer les clients avec des abonnements E4 arrivant à expiration à une option SKU prise en charge, comme indiqué ci-dessous. Nous vous recommandons de déplacer les clients vers les nouveaux abonnements avant la date de fin annuelle de l’abonnement pour éviter les interruptions de service pour les clients. 
 
 > [!NOTE]  
->  Les références SKU commerciales et gouvernementales d’Office 365 Enterprise E4 sont retirées.
+> Les références SKU commerciales et gouvernementales d’Office 365 Enterprise E4 sont retirées.
  
 Sur la page de détails de l’abonnement, l’état de l’abonnement E4 est passé à « expire le [date] » de « auto Renews on [date] ». 
 
@@ -53,7 +54,7 @@ Vous pouvez choisir de conserver la même fonctionnalité avec E4 ou de faire en
 - Option 4 : Office 365 Enterprise E3
 
 
-| Composant | Option 1 : | Option 2 : | Option 3 | Option 4 |
+| Fonctionnalité | Option 1 : | Option 2 : | Option 3 | Option 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | Bénéficier de toutes les fonctionnalités incluses dans Office 365 Enterprise E4 ? | Oui | Oui | Oui | Non |
 | Numéros de téléphone gérés dans Office 365 ? | Oui | Oui | Non | Non |

@@ -1,20 +1,21 @@
 ---
-title: Passage du Centre d’administration des partenaires à l’Espace partenaires
+title: Déplacer à partir du centre d’administration des partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Après avoir déplacé le centre d’administration des partenaires vers l’espace partenaires, Découvrez comment gérer l’appartenance, les références client, les incentives et tous les autres aspects du programme fournisseur de solutions Cloud (CSP).
+description: Lorsque vous passez du centre d’administration partenaire (PAC) à l’espace partenaires, Découvrez comment gérer l’appartenance à un programme CSP, les références client, les incentives et bien plus encore.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Centre d’administration des partenaires, administrateur Office 365, fonctionnalités du Centre d’administration des partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1493ed93b70e8c716c339f8e93b471f181acb6af
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004228"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795741"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passage du Centre d’administration des partenaires à l’Espace partenaires
 
@@ -23,9 +24,9 @@ ms.locfileid: "75004228"
 - Centre d’administration des partenaires
 
 **Rôles appropriés**
--   Administrateur global
+- Administrateur général
 
-L’Espace partenaires évolue pour devenir le seul endroit où vous allez gérer votre partenariat avec Microsoft et vos clients. Dans l’Espace partenaires, vous pouvez gérer l’adhésion, les références de clients, les primes incitatives et tous les autres aspects du programme Fournisseur de solutions Cloud. Vous allez également pouvoir effectuer la plupart des tâches du Centre d’administration des partenaires dans l’Espace partenaires, bien que certaines fonctionnalités ou actions fonctionnent différemment. 
+L’Espace partenaires évolue pour devenir le seul endroit où vous allez gérer votre partenariat avec Microsoft et vos clients. Dans l’Espace partenaires, vous pouvez gérer l’adhésion, les références de clients, les primes incitatives et tous les autres aspects du programme Fournisseur de solutions Cloud. Vous allez également pouvoir effectuer la plupart des tâches du Centre d’administration des partenaires dans l’Espace partenaires, bien que certaines fonctionnalités ou actions fonctionnent différemment.
 
 
 |**Action**   |**Centre d’administration des partenaires**   |**Espace partenaires**   |
@@ -34,7 +35,7 @@ L’Espace partenaires évolue pour devenir le seul endroit où vous allez gére
 |Acquérir de nouveaux clients et fournir des devis pour des services payants ou d’essai|Créer votre activité -> Envoyer un devis|Les devis de services payants ne sont pas disponibles. Les essais liés au programme Fournisseur de solutions Cloud sont disponibles si le partenaire du programme Advisor convertit un revendeur indirect du programme Fournisseur de solutions Cloud et ses associés en un fournisseur indirect du programme Fournisseur de solutions Cloud prenant en charge les essais. |
 |Demander des relations|(Revendeurs et conseillers) Créer votre activité -> Envoyer une demande DAP|(Revendeurs et conseillers) Clients -> Demander une relation de revendeur (voir la remarque ci-dessous)|
 |Gérer vos clients|Gestion des clients -> Liste des clients|Espace partenaires -> Clients|
-|Gérer les abonnements client|Gestion des clients -> Liste des clients -> sélectionnez un client|Espace partenaires-> clients-> sélectionnez client ou ajoutez votre client à la liste **favoris** en basculant l’étoile dans la liste des clients, puis sélectionnez les **favoris** slideout et accédez directement à **gérer les abonnements** de votre client.|
+|Gérer les abonnements des clients|Gestion des clients -> Liste des clients -> sélectionnez un client|Espace partenaires-> clients-> sélectionnez client ou ajoutez votre client à la liste **favoris** en basculant l’étoile dans la liste des clients, puis sélectionnez les **favoris** slideout et accédez directement à **gérer les abonnements** de votre client.|
 |Administrer au nom de vos clients|Gestion des clients -> sélectionnez un client -> sélectionnez le bouton Gérer|Espace partenaires-> clients-> sélectionnez administrer les services à partir de la liste déroulante : > sélectionnez un service ou ajoutez votre client à la liste des **favoris** en basculant l’étoile dans la liste des clients, puis sélectionnez les **favoris** slideout et accédez directement à **administrer les services** pour le service requis.|
 |Créer des demandes de service pour votre client|Demandes de service -> sélectionnez un client -> sélectionnez le bouton + | Espace partenaires -> Demandes de service -> Demandes du client -> sélectionnez un client -> Nouvelle demande|
 |Gérer les demandes de service des clients| Demandes de service -> sélectionnez un client|Espace partenaires : demandes de service >es-> les demandes des clients-> sélectionnez le client ou ajoutez la demande de service à la liste des **favoris** en basculant l’étoile dans la vue des demandes du client pour le client, puis sélectionnez le slideout **favoris** , sélectionnez l’onglet **demandes de support** et accédez directement à la demande de service, ou affichez les mises à jour directement à partir des **favoris**.|

@@ -1,23 +1,23 @@
 ---
-title: Gérer les opportunités | Espace partenaires
+title: Gérer les prospects
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment répondre aux références, gérer les références nouvelles, existantes et archivées, et obtenir plus de références à l’avenir.
-author: vikramb
-ms.author: vikramb
+description: Utilisez l’espace partenaires pour répondre aux références et gérer les prospects et les références nouveaux, existants et archivés. Découvrez également comment obtenir plus de références à l’avenir.
+author: LauraBrenner
+ms.author: labrenne
 keywords: références, covente, vente
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c0fb22047664ef814d4fbc8eeb45e1ce1df51b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919846"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796025"
 ---
-# <a name="manage-leads"></a>Gérer les clients
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gérer différents prospects, tels que des demandes client, des prospects qualifiés par le marketing et des prospects qualifiés par vente
 
 **S’applique à**
 

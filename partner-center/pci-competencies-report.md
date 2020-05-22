@@ -1,27 +1,27 @@
 ---
-title: Informations sur l’espace partenaires-informations sur les compétences | Espace partenaires
+title: Rapport des compétences des Insights de l’espace partenaires
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez ce que vous êtes en train de faire et où vous pouvez améliorer en ce qui concerne les compétences Microsoft, les niveaux de compétence et les offres pour vous aider à fournir des solutions Microsoft.
 ms.assetid: ''
 keywords: PCI, performances, mesures, succès des clients, compétences, avantages, analytique, rapport
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226185"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795649"
 ---
-# <a name="competencies-report"></a>Rapport compétences
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Rapport compétences disponible à partir du tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
 - Visionneuse de rapports Executive
@@ -86,3 +86,6 @@ Cette vue affiche un tableau détaillé de toutes les compétences que vous avez
 
 ![historique des compétences](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>Étapes suivantes
+
+- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).

@@ -1,34 +1,34 @@
 ---
-title: Insights de l’espace partenaires-rapport d’utilisation Azure | Espace partenaires
+title: Rapport d’utilisation Azure pour l’espace partenaires
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez ce que vous êtes en train de faire et où vous pouvez améliorer l’utilisation des abonnements Azure que vous vendez ou gérez pour vos clients.
 ms.assetid: ''
 keywords: PCI, performances, mesures, succès des clients, utilisation d’Azure, abonnements, analytique, rapport
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b07aaba9a22c74d52cd8f97f92edd7e0d4deb86a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648080"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795674"
 ---
-# <a name="azure-usage-report"></a>Rapport d’utilisation Azure
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Azure disponible dans le tableau de bord des Insights de l’espace partenaires
 
 **Rôles appropriés**
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
 - Visionneuse de rapports Executive
 
 Le rapport d’utilisation Azure présente les mesures relatives aux abonnements Azure de vos clients. Cela comprend le chiffre d’affaires et l’utilisation de la consommation Azure par catégories de compteurs. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation d’Azure.
 
-- Récapitulatif
+- Résumé
 - Utilisation d’Azure par zone géographique
 - Utilisation d’Azure
 
@@ -74,3 +74,7 @@ Cette vue affiche les tendances du chiffre d’affaires de la consommation Azure
 Le graphique à barres présente la tendance mensuelle du chiffre d’affaires/de l’utilisation. Le graphique en courbes présente la tendance de croissance par rapport au mois précédent pour les catégories de niveau de service/mesure Azure sélectionnées.
 
 ![Utilisation d’Azure usage](images/pci/pci_azure_usage_utilization_3.png)
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).

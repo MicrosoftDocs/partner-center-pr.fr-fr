@@ -1,39 +1,42 @@
 ---
-title: Offres « exclusives » de la place de marché | Espace partenaires
+title: Offres exclusives Marketplace des éditeurs de logiciels indépendants
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Les éditeurs de logiciels indépendants peuvent choisir des partenaires CSP à utiliser en les rendant exclusives.
+description: Découvrez comment l’éditeur de logiciels indépendant (ISV) rend certaines offres exclusives et disponibles uniquement pour des partenaires CSP spécifiques.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123266"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794839"
 ---
-# <a name="marketplace-exclusive-offers"></a>Offres exclusives Marketplace
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Offres exclusives Marketplace des éditeurs de logiciels indépendants
 
 **Rôles appropriés**
--    Administrateur global
--    Administrateur des utilisateurs
--    Agent d’administration
--    Commercial
 
-Les éditeurs de logiciels indépendants peuvent mettre leurs offres à la disposition d’un nombre sélectionné de partenaires CSP. Tous les partenaires CSP pourront toujours afficher toutes les offres ISV dans le Marketplace du Centre des partenaires, mais les offres réservées exclusives pourront être achetées uniquement par les partenaires que l’ISV a sélectionnés. Si une offre n’est pas indiquée comme « exclusive », tous les partenaires peuvent l’acheter.
+- Administrateur général
+- Administrateur des utilisateurs
+- Agent d’administration
+- Agent commercial
 
-Les partenaires CSP identifiés par des éditeurs de logiciels indépendants peuvent :
+Un éditeur de logiciels indépendant (ISV) a la possibilité de proposer des offres exclusives uniquement disponibles pour certains partenaires CSP.
 
-- Acheter des offres exclusives via la place de marché de l’espace partenaires
+Les partenaires CSP peuvent afficher toutes les offres ISV dans la place de marché commerciale de l’espace partenaires. Toutefois, les offres marquées **exclusives**peuvent uniquement être achetées par des partenaires spécifiques sélectionnés par l’ISV. Si une offre n’est pas marquée comme **exclusive**, tous les partenaires peuvent l’acheter.
+
+Les partenaires CSP spécifiques identifiés par un ISV peuvent :
+
+- Acheter des offres exclusives de cet ISV via la place de marché commerciale de l’espace partenaires
 - Exporter la liste des prix
 
 ## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Comment accéder aux offres exclusives ?
 
-Lorsqu’un ISV publie une offre sur la place de marché, il a la possibilité d’indiquer qui peut l’acheter. 
+Lorsqu’un ISV publie une offre sur la place de marché, il a la possibilité d’indiquer qui peut l’acheter.
 
 Les options disponibles sont les suivantes :
 
@@ -41,6 +44,8 @@ Les options disponibles sont les suivantes :
 - Déterminer les partenaires qui peuvent acheter
 - Non disponible pour les partenaires CSP
 
-Pour en savoir plus sur l’expérience ISV dans Marketplace, consultez [fournisseurs de solutions Cloud](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+## <a name="next-steps"></a>Étapes suivantes
 
-Pour plus d’informations sur la place de marché, consultez [Présentation du marché commercial pour les fournisseurs de solutions Cloud](csp-commercial-marketplace-overview.md).
+- Pour en savoir plus sur l’expérience ISV dans le Marketplace commercial, consultez [fournisseurs de solutions Cloud](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+
+- Pour plus d’informations sur le Marketplace commercial, consultez [Présentation du marché commercial pour les fournisseurs de solutions Cloud](csp-commercial-marketplace-overview.md).

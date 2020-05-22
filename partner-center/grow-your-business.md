@@ -1,7 +1,7 @@
 ---
-title: Développer votre activité de partenaire Microsoft | Espace partenaires
+title: Développer votre activité de partenaire Microsoft
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les ressources pour développer votre activité partenaire Microsoft. Cela comprend l’obtention des prospects de vente (références) auprès de Microsoft.
@@ -9,14 +9,15 @@ keywords: références, répondre à des références, prospect, prospects, prof
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798037"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795810"
 ---
-# <a name="grow-your-microsoft-partner-business"></a>Développer votre activité de partenaire Microsoft 
+# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Développez votre activité partenaire Microsoft-Découvrez comment obtenir des opportunités & définir votre entreprise séparément
 
 Microsoft propose de nombreuses ressources pour vous aider à développer votre activité de partenaire. Découvrez comment les fonctionnalités de ce site, l’Espace partenaires Microsoft, peuvent vous aider à attirer de nouveaux clients et à accroître votre rentabilité.
 
@@ -42,5 +43,5 @@ Utilisez l’Espace partenaires pour :
 | Vendre dans d’autres marchés | Le canal de vente du programme Fournisseur de solutions Cloud est disponible dans plusieurs pays et régions. Consultez [Marchés du programme Fournisseur de solutions Cloud](agreements.md) pour en consulter la liste. Pour une introduction au canal du programme Fournisseur de solutions Cloud, consultez [Présentation du programme Fournisseur de solutions Cloud](csp-overview.md).  | Partenaires fournisseurs de solutions cloud |
 Vendre à des secteurs spécialisés comme les organisations à but non lucratif et l’éducation|[Vendre aux secteurs spécialisés](get-special-pricing-for-offers.md)|Partenaires fournisseurs de solutions cloud|
 |Développez votre activité par le biais de nombreuses activités disponibles dans le programme de coopération aux primes incitatives. Déposez des revendications pour les activités par le biais de l’Espace partenaires.| [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)|Partenaires fournisseurs de solutions cloud|
-|Vendre des abonnements à des produits de la place de marché commerciale|[Activités de la place de marché commercial undertand CSP](csp-commercial-marketplace-overview.md)|Partenaires fournisseurs de solutions cloud|
+|Vendre des abonnements à des produits de la place de marché commerciale|[Comprendre les activités de la place de marché commercial du CSP](csp-commercial-marketplace-overview.md)|Partenaires fournisseurs de solutions cloud|
 |Votre entreprise est-elle championne dans la vente et la gestion d’Azure ? Demander à s’inscrire au Programme Fournisseur de services Expert Microsoft Azure|[Programme Fournisseur de services Expert Microsoft Azure](azure-expert-msp.md)|Partenaires fournisseurs de solutions cloud|

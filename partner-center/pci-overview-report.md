@@ -1,28 +1,28 @@
 ---
-title: Aperçu de l’espace partenaires-aperçu du tableau de bord | Espace partenaires
+title: Tableau de bord vue d’ensemble de l’espace partenaires
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Voyez exactement ce que vous êtes en train de faire et où vous pouvez améliorer les ventes et le déploiement, ainsi que le développement client
+description: Découvrez un aperçu de la façon dont vous effectuez les ventes et le déploiement, la croissance des clients et la croissance du chiffre d’affaires avec les licences, les abonnements et la consommation Azure.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, performances, succès des clients, mesures,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631870"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795702"
 ---
-# <a name="overview-dashboard-reports"></a>Vue d’ensemble des rapports de tableau de bord 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Vue d’ensemble des rapports de tableau de bord disponibles dans les Insights de l’espace partenaires
  
 Le tableau de bord vue d’ensemble de l’espace partenaires fournit une vue instantanée des indicateurs de performance clés tels que les clients, les abonnements, les revenus de la consommation Azure, les licences, etc. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble. 
 
-- Récapitulatif  
+- Résumé  
 - Répartition géographique de vos clients, abonnements et licences  
 - Tendance à la croissance des clients 
 - Tendance de croissance des abonnements 
@@ -83,6 +83,6 @@ Tendance des licences affectées par tous les clients au cours de la plage de da
 
 ![licences](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>Pour en savoir plus
+## <a name="next-steps"></a>Étapes suivantes
 
-Pour obtenir des informations supplémentaires sur le tableau de bord et les rubriques des rapports de l’espace partenaires, lisez les informations sur l' [espace partenaires](partner-center-insights.md) .
+- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).

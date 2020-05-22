@@ -1,22 +1,23 @@
 ---
-title: Guide de migration de plusieurs entreprises de PMC vers l’Espace partenaires
+title: Migrer des entreprises de PMC vers l’espace partenaires
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ce que vous devez savoir lorsque vous migrez vos multiples sociétés de PMC vers l’espace partenaires et que vous les Consolidez dans un compte global partenaire.
+description: Ce que vous devez savoir lorsque vous migrez plusieurs sociétés de Partner Membership Center (PMC) vers l’espace partenaires et que vous les Consolidez dans un compte global partenaire.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
-ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362747"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795783"
 ---
-# <a name="moving-your-multiple-companies-to-partner-center"></a>Migration de plusieurs entreprises vers l’Espace partenaires
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Déplacement de plusieurs sociétés vers l’espace partenaires à partir du Partner Membership Center (PMC)
 
 **Rôles appropriés**
 

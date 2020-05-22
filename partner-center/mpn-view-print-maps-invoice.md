@@ -1,33 +1,35 @@
 ---
-title: Factures et taxes dans le Microsoft Partner Network | Espace partenaires
+title: Microsoft Partner Network factures & taxes
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez comment afficher ou télécharger votre facture d’adhésion MPN, ainsi que le fichier pour l’exonération fiscale et envoyer votre numéro d’identification de T.V.A. à Microsoft.
+description: Apprenez à afficher ou à télécharger votre facture d’abonnement MPN, à effectuer un fichier pour l’exemption de taxe et à envoyer votre numéro d’identification de T.V.A. à Microsoft.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, facture, cartes, exonération fiscale, TVA, ID TVA
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004258"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795940"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Factures et taxes dans le Microsoft Partner Network
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Administrateur partenaire MPN
--   Administration de facturation
--   Agent d’administration
+
+- Administrateur général
+- Administrateur des utilisateurs
+- Administrateur partenaire MPN
+- Administrateur de la facturation
+- Agent d’administration
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Afficher ou télécharger votre facture d’abonnement MPN
 
@@ -37,7 +39,7 @@ Pour effectuer cette procédure, vous devez être administrateur général ou ad
 
 1.  Connectez-vous à l' [espace partenaires](https://partner.microsoft.com/dashboard/home) à l’aide de votre compte professionnel, puis sélectionnez **MPN** dans le menu de gauche.
 
-4.  Dans la liste déroulante, sélectionnez **offres d’abonnement** pour voir les offres disponibles à l’achat, ainsi que les factures disponibles pour l’année en cours de l’inscription. Pour afficher les factures des années précédentes, sélectionnez **expiré**.
+4.  Dans la liste déroulante, sélectionnez **offres d’abonnement** pour voir les offres disponibles à l’achat, ainsi que les factures disponibles pour l’année en cours de l’inscription. Pour afficher les factures des années précédentes, sélectionnez **Expiré**.
 
 6.  Sélectionnez la facture que vous souhaitez, puis sélectionnez **Télécharger la facture**. 
 

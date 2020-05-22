@@ -1,24 +1,25 @@
 ---
-title: Microsoft Learn Analytics | Espace partenaires
+title: Analytique Microsoft Learn
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Suivez les enseignements de votre entreprise en tirant parti des données sur des formations individuelles, des modules terminés, des parcours d’apprentissage terminés, et bien plus encore.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005106"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795937"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Rapport d’analyse de Microsoft Learn
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Le rapport Microsoft Learn Analytics affiche l’état des apprenants dans votre entreprise
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur partenaire MPN
 
 Le rapport Microsoft Learn fournit des informations sur les apprenants dans votre entreprise, notamment sur les modules qu’ils ont terminés et sur les parcours d’apprentissage sur lesquels ils se trouvent. Le rapport affiche l’état de chaque apprenant. L’administrateur général et l’administrateur MPN de votre entreprise peuvent afficher les données.
@@ -110,7 +111,7 @@ Pour obtenir les détails d’un apprenant à l’aide de l’ID d’objet utili
 
 2. Copiez l’ID d’objet utilisateur dans la [zone mise en surbrillance](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) dans l’Explorateur graphique. 
 
-## <a name="faq"></a>Forum Aux Questions
+## <a name="faq"></a>Questions fréquentes (FAQ)
 
 1. Je ne parviens pas à voir les détails de l’apprentissage de mon entreprise.
 

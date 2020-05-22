@@ -1,41 +1,40 @@
 ---
-title: Migrez Dynamics 365 et le plan d’engagement des clients de base (offres qualifiées) vers des versions plus récentes | Espace partenaires
+title: Migrer des abonnements Dynamics 365 qualifiés
 ms.topic: article
-ms.date: 12/12/2018
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment acheter un nouvel abonnement avant l’expiration de votre abonnement, réaffecter des licences utilisateur, puis annuler l’ancien abonnement.
+description: Découvrez comment migrer des abonnements Dynamics 365 de base qualifiés vers un nouvel abonnement avant l’expiration des abonnements existants.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
+ms.custom: SEOMAY.20
 Keywords: Dynamics 365 offres, renouvellement d’offres, nouvelles références (SKU) Dynamics 365
-ms.openlocfilehash: 466f954af05a266fccba587007565e5d19d3af15
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cac5717a1f7b27537faa694dcf665a69a7226483
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004588"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795991"
 ---
-# <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrer de Dynamics 365 et du Plan Engagement client à partir de Basic (offres qualifiés) vers les nouvelles versions
+# <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrer Dynamics 365 et Plan Customer Engagement à partir de Basic (offres qualifiées) vers une version plus récente
 
 **S’applique à**
 
 -  Espace partenaires
 
 **Rôles appropriés**
--   Administrateur global
+-   Administrateur général
 -   Administrateur des utilisateurs
 -   Agent d’administration
--   Commercial
+-   Agent commercial
 
 À compter du 1er janvier 2019, les clients disposant de Dynamics 365 pour le plan d’engagement commercial/client des abonnements de base (offres qualifiées) ne peuvent plus renouveler ces offres héritées. les abonnements existants ne seront pas renouvelés automatiquement lorsqu’ils expirent. Sur la page de détails de l’abonnement, l’état de l’abonnement passe à « expire le [date] » dans « auto Renews on [date] ». 
 
-
 Pour garantir la continuité des clients, vous devez les transférer avec des abonnements arrivant à expiration vers une option prise en charge, comme indiqué ci-dessous. Nous vous recommandons de déplacer les clients vers les nouveaux abonnements avant la date de fin annuelle de l’abonnement pour éviter les interruptions de service pour les clients.
 
-Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement, ainsi que la propriété renouvellement automatique = faux. Les abonnements en question seront configurés pour renouveler automatiquement = false le 1er janvier 2019. Vous pouvez passer les clients vers une nouvelle formule à tout moment. 
+Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement, ainsi que la propriété renouvellement automatique = faux. Les abonnements en question seront configurés pour renouveler automatiquement = false le 1er janvier 2019. Vous pouvez déplacer les clients vers un nouveau plan à tout moment. 
 
 ### <a name="the-dynamics-365-offers-being-retired"></a>Les offres Dynamics 365 en cours de retrait
 
@@ -76,13 +75,13 @@ Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les a
 **Options de remplacement**
 - Dynamics 365 pour le professionnel des ventes (nouveauté)
 - Dynamics 365 pour le professionnel des ventes (nouveauté)
-- Dynamics 365 for Customer Service
+- Dynamics 365 pour le service client
 - Plan d’engagement client Dynamics 365 ou
 - Membres de l’équipe Dynamics 365
 
 
 
-## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers des nouvelles formules de produit
+## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers les nouvelles formules de produit
 
 Le déplacement de clients des références SKU hors service vers des versions plus récentes requiert les étapes suivantes dans cet ordre :
 
@@ -94,12 +93,12 @@ Le déplacement de clients des références SKU hors service vers des versions p
 
 1. Sélectionnez **clients** dans la navigation de gauche, puis sélectionnez le client que vous souhaitez déplacer vers le nouvel abonnement.
 2. Sélectionnez **Ajouter un abonnement**.
-3. Sélectionnez l’abonnement à acheter dans le catalogue (en l’occurrence, l'une des options ci-dessus), indiquez le nombre de licences, puis sélectionnez **Envoyer**. 
+3. Sélectionnez l’abonnement que vous souhaitez acheter dans le catalogue (dans ce cas, l’une des options ci-dessus), entrez le nombre de licences, puis sélectionnez **Envoyer**. 
 
 Votre client dispose désormais de l’ancien abonnement et du nouveau. L’étape suivante consiste à réattribuer les licences aux utilisateurs du client.
 
 1. Sélectionnez **clients** dans la navigation de gauche, puis sélectionnez le client que vous déplacez.
-2. Sélectionnez **Utilisateurs et licences**.
+2. Sélectionnez **utilisateurs et licences**.
 3. Pour réattribuer une licence à un utilisateur, sélectionnez l’utilisateur, puis sélectionnez **gérer les licences**. 
 4. Sur la page **gérer les licences** , désactivez la case à cocher Dynamics 365 pour le plan Sales/Customer engagement de base (offre qualifiée) et sélectionnez un nouveau plan de service pour l’abonnement vers lequel le client est déplacé. 
 5. Sélectionnez **Envoyer**. Vous effectuerez cette opération pour chaque utilisateur qui a besoin de la nouvelle licence. 
@@ -109,7 +108,7 @@ Une fois que vous avez déplacé les licences vers le nouvel abonnement, vous po
 1. Sélectionnez **clients** dans la navigation de gauche, puis sélectionnez le client que vous déplacez.
 2. Sur la page Détails de l’abonnement, définissez l’ancien abonnement sur **suspendu** , puis sélectionnez **Envoyer**.
 
-L’ancien abonnement est maintenant suspendu et le nouvel abonnement est actif. L’abonnement suspendu est automatiquement désapprovisionné après 120 jours. Votre client n’aura aucuns frais supplémentaires pour l’ancien abonnement.
+L’ancien abonnement est maintenant suspendu et le nouvel abonnement est actif. L’abonnement suspendu est désapprovisionné automatiquement après 120 jours. Votre client n’aura aucuns frais supplémentaires pour l’ancien abonnement.
  
 
  

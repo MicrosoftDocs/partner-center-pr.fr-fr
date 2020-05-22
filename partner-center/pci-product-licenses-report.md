@@ -1,34 +1,34 @@
 ---
-title: Aperçu de l’espace partenaires-informations sur les licences du produit | Espace partenaires
+title: Aperçus de l’espace partenaires-licences de produits
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez ce que vous êtes bien et où vous pouvez améliorer en ce qui concerne les produits Cloud sous licence (ou basés sur les sièges) que vous vendez ou gérez pour vos clients.
+description: Consultez ce rapport sur les licences de produit et apprenez à améliorer avec les produits Cloud sous licence (ou basés sur les sièges) que vous vendez ou gérez pour vos clients.
 ms.assetid: ''
 keywords: PCI, performances, mesures, succès des clients, abonnements Cloud, analytique, rapport
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0d2b5dcac2a51d78d814cc6c5099eaeafa0f769a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648010"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795662"
 ---
-# <a name="product-licenses-report"></a>Rapport sur les licences de produit
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
-- Administrateur global
+- Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
 - Visionneuse de rapports Executive
 
 Le rapport licences du produit présente l’analyse des licences pour les produits Cloud basés sur les sièges, tels que O365, Dynamics, M365, Power BI, etc. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
 
-- Récapitulatif
+- Résumé
 - Répartition géographique des licences
 - Ajouts de licence
 - Distribution de licences par emplacement de partenaire, canal de vente, SKU, type de rattachement de partenaire, segment
@@ -81,3 +81,7 @@ L’axe des X représente les mois de la plage de dates sélectionnée. L’axe 
 Cette vue affiche une répartition de vos licences client par pays/région du client et du produit. Lorsque vous sélectionnez un produit dans le graphique à secteurs **licence par produit** , le graphique adjacent vous indique une répartition de licence par région de client.
 
 ![distribution de licences](images/pci/pci_licenses_report_license_distrib_4.png)
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).
