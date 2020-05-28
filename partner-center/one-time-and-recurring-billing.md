@@ -1,33 +1,35 @@
 ---
-title: Facturation pour une seule fois et sélection de frais récurrents | Espace partenaires
+title: Facturation-une seule fois & sélectionner les frais récurrents
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informations sur la facturation unique à l’avance pour une période prédéfinie (abonnements mensuels et annuels) et facturation pour les frais récurrents de sélection (pour les produits ISV Microsoft et tiers applicables) dans l’espace partenaires.
+ms.date: 05/26/2020
+Description: En savoir plus sur la facturation de l’espace partenaires, par exemple, une facturation unique à l’avance pour les conditions prédéfinies et la facturation des frais sélectionnés et des frais récurrents.
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, ponctuelle, périodique, achats, frais, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798777"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998425"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturation ponctuelle et frais récurrents
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Facturation pour une seule fois et sélection de frais récurrents dans l’espace partenaires
+
 
 **S’applique à**
 - Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Administrateur de la facturation
--   Agent d’administration
--   Agent commercial
+- Administrateur général
+- Administrateur des utilisateurs
+- Administrateur de la facturation
+- Agent d’administration
+- Agent commercial
 
-Cette rubrique décrit l’expérience de facturation pour **une période unique et sélectionne des frais périodiques** pour les produits Microsoft et des éditeurs de logiciels indépendants tiers. 
+Cet article décrit l’expérience de facturation pour **une seule fois et sélectionne des frais périodiques** pour les produits Microsoft et des éditeurs de logiciels indépendants (ISV) tiers. 
 
 La **facturation unique** se produit lorsque vous achetez des abonnements logiciels et des réservations Azure à l’avance pour un terme prédéfini. Vous pouvez acheter un contrat de 1 an ou trois ans. Vous êtes ensuite facturé pour le coût total dans une somme forfaitaire à usage unique.
 
@@ -41,7 +43,7 @@ La facturation d’une seule fois et la sélection des frais récurrents s’app
 > [!IMPORTANT]
 > L’expérience de facturation pour les frais récurrents d' [**abonnements basés sur une licence**](license-based-billing.md) et les [**abonnements basés sur l’utilisation**](usage-based-billing.md) reste inchangée.
 
-Les **frais récurrents** pour les abonnements (y compris les **abonnements basés sur une licence et les abonnements basés sur l’utilisation**) sont émis pour tous les produits à partir du [**catalogue de services en ligne**](https://partner.microsoft.com/commerce/preferredoffers/list). Voici quelques exemples : Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (paiement à l’accès), Dynamics 365 et PowerBI Pro.
+Les **frais récurrents** pour les abonnements (y compris les **abonnements basés sur une licence et les abonnements basés sur l’utilisation**) sont émis pour tous les produits à partir du [**catalogue de services en ligne**](https://partner.microsoft.com/commerce/preferredoffers/list). Voici quelques exemples : Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (paiement à l’accès), Dynamics 365 et Power BI Pro.
 
 Pour les frais d’abonnement applicables, la date de **facturation** correspond à la date que vous avez sélectionnée lors de la création de votre compte espace partenaires. La **période de facturation** est le mois précédant la date de facturation.
 

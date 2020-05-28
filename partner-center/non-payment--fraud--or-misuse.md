@@ -1,35 +1,35 @@
 ---
-title: Gestion du non-paiement, de la fraude ou de la mauvaise utilisation | Espace partenaires
+title: Gestion des défauts de paiement, des fraudes ou des mauvaises utilisations
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Il est important d’en savoir plus sur les différents types de risques impliqués dans les transactions en ligne et les meilleures pratiques pour la gestion et l’atténuation de ces risques.
+description: Il est important d’en savoir plus sur les différents risques impliqués dans les transactions en ligne et les meilleures pratiques pour gérer et atténuer ces risques.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, utilisation abusive, utilisation acceptable, politique d’utilisation acceptable, non-paiement, client ne pas payer de facture, risque en ligne, vol de service, abus de service, suspendre un abonnement,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798797"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998445"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion des défauts de paiement, des fraudes ou des utilisations abusives dans l’Espace partenaires
 
-S’applique à :
+S'applique à :
 
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent d’administration
--   Administrateur de la facturation
+- Administrateur général
+- Administrateur des utilisateurs
+- Agent d’administration
+- Administrateur de la facturation
 
 Vous êtes financièrement responsable des achats frauduleux de vos clients et/ou du non-paiement des services achetés par les clients. Par conséquent, *nous vous recommandons vivement de mettre en place les contrôles d’atténuation des risques de prévention et de détection des fraudes*.
 
@@ -78,7 +78,7 @@ Les suggestions pour réduire les risques en ligne lors de l’intégration de n
 
 - Établissez des relations personnelles avec les clients lorsque cela est possible (par exemple, en contactant les clients par téléphone).
 - Vérifiez les informations d’identification et l’arrière-plan des clients via de meilleures méthodes (par exemple, en utilisant des bureaux de crédit ou des agences de rapports commerciaux commerciaux).
-- Utilisez Multi-Factor Authentication (par exemple, la vérification SMS) lors de l’inscription pour réduire l’exposition aux création et aux achats de comptes robotiques.
+- Utilisez Multi-Factor Authentication (par exemple, la vérification SMS) lors de l’inscription pour réduire l’exposition à la création et à l’achat d’un compte robotique.
 - Gérez et suivez les identités à l’aide de services (tels que les services d’identité numérique).
 - Évaluez la force financière du client par le biais de systèmes de détection des fraudes de carte de crédit rigoureux.
 - Établissez une stratégie effacer les regroupements. Détaillez votre processus de collecte et lorsque l’accès aux abonnements sera affecté par un non-paiement. (Vous pouvez désactiver l’accès ou [suspendre les abonnements d’un client](suspend-a-subscription.md) en cas de non-paiement.)

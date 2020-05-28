@@ -1,39 +1,39 @@
 ---
-title: Indicateurs de contribution des partenaires | Espace partenaires
+title: Indicateurs de contribution des partenaires
 ms.topic: article
-ms.date: 04/03/2020
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Données indiquant le niveau de performance de votre entreprise avec Dynamics 365 Customer Engagement ou Dynamics 365 for Finance and Operations
+description: Les indicateurs de contribution partenaires (PCI) vous montrent comment faire avec l’engagement client Dynamics 365 ou le financement et les opérations Dynamics 365.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: Indicateurs de contribution des partenaires, niveau de performance, réussite du client, mesures, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 38afc73a347d2a356f4786abfe1f85bdb2289dd9
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 502d15f3e41635dc0b4ff97aca47742ab611148a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676863"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998385"
 ---
-# <a name="partner-contribution-indicators"></a>Indicateurs de contribution des partenaires
+# <a name="partner-contribution-indicators-pci---shows-partner-impact-on-key-measures-of-customer-success"></a>Indicateurs de contribution partenaire (PCI)-indique l’impact des partenaires sur les mesures clés de la réussite des clients
 
-Les indicateurs de contribution partenaires (PCI) fournissent une mesure holistique de l’impact d’un partenaire sur la réussite des clients et, par conséquent, une plus grande différenciation du marché lorsqu’un partenaire atteint et gère le Cloud Business Applications compétence . Les partenaires bénéficient d’un crédit pour les mesures clés de la réussite des clients, telles que les déploiements réussis et l’utilisation accrue, et sont récompensés pour continuer à investir dans et faire évoluer leurs capacités techniques.
+Les indicateurs de contribution partenaires (PCI) fournissent une mesure holistique de l’impact d’un partenaire sur la réussite des résultats des clients et, par conséquent, une plus grande différenciation du marché lorsqu’un partenaire atteint et gère le Cloud Business Applications compétence. Les partenaires bénéficient d’un crédit pour les mesures clés de la réussite des clients, telles que les déploiements réussis et l’utilisation accrue, et sont récompensés pour continuer à investir dans et faire évoluer leurs capacités techniques.
 
 
 ## <a name="scoring"></a>Notation
 
 PCI offre une vue sophistiquée des capacités techniques d’un partenaire, de sa capacité à stimuler la réussite des clients et de leurs performances de vente. PCI mesure les performances de l’année précédente de votre entreprise sur sept indicateurs clés :
 
-1. **Net New revenu** — net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365.
-2. **Ajouts au client net** : clients nets acquis pour Dynamics 365 sur tous les canaux de vente.
-3. **Consultants fonctionnels** : nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. 
-4. **Croissance du consultant fonctionnel** : croissance du nombre d’associés aux consultants fonctionnels.  L’instantané de référence pour la mesure de croissance du consultant fonctionnel dans PCI sera maintenant pris le 1er octobre 2020.  
-5. **Développeurs** : nombre d’individus titulaires d’une certification de développeur actuellement active pour Dynamics 365.
-6. **Nouveaux déploiements à grande échelle** : nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois.
-7. **Croissance mensuelle** des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois.
+1. **Net New revenue**: net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365.
+2. Le **client net ajoute**: clients net acquis pour Dynamics 365 sur tous les canaux de vente.
+3. **Consultants fonctionnels**: nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. 
+4. **Croissance du consultant fonctionnel**: croissance du nombre d’associés aux consultants fonctionnels.  L’instantané de référence pour la mesure de croissance du consultant fonctionnel dans PCI sera maintenant pris le 1er octobre 2020.  
+5. **Développeurs**: nombre d’individus titulaires d’une certification actuellement active Developer Associate pour Dynamics 365.
+6. **Nouveaux déploiements à grande échelle**: nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois.
+7. **Croissance mensuelle**des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois.
 
 Des points sont accordés pour chaque indicateur atteint, ce qui aboutit à un score PCI à un seul numéro. 100 points au maximum sont possibles. Le score PCI détermine l’éligibilité des compétences :
 
@@ -41,7 +41,7 @@ Des points sont accordés pour chaque indicateur atteint, ce qui aboutit à un s
 
 Chaque indicateur fait apparaître un score qui est ajouté au total. Voici les scores maximaux pour chaque indicateur :
 
-![performances PCI](images/pci/perfnew.png)
+![Performances PCI](images/pci/perfnew.png)
 
 ### <a name="thresholds"></a>Seuils
 
@@ -49,7 +49,7 @@ Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter u
 
 Les points de chaque mesure sont comptabilisés pour produire un score PCI distinct pour l’engagement client et les opérations de & finance qui seront mises à jour tous les mois.
 
-Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Les points partiels peuvent être gagnés pour toutes les mesures, à l’exception de la croissance du consultant fonctionnel. Exemple un partenaire de marché développé avec $150 000 dans net New revenu recevra la moitié ($ 150000/$ 300000) de la valeur maximale de 10 pts. 
+Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Les points partiels peuvent être gagnés pour toutes les mesures, à l’exception de la croissance du consultant fonctionnel. Par exemple, un partenaire de marché développé avec $150 000 dans net New revenu gagnera la moitié ($ 150000/$ 300000) de la valeur maximale de 10 pts. 
 
 ![engagement client](images/pci/custengagethresh.png)
 
@@ -92,8 +92,4 @@ Si CPOR et DPOR existent tous les deux pour un abonnement donné, le CPOR recevr
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 
-Visitez la [collection de ressources indicateurs de contribution partenaire](https://aka.ms/pcilearn) où vous trouverez des vidéos de formation détaillées, des présentations, des FAQ et des feuilles de faits. 
-
-
-
-
+Visitez la [collection de ressources indicateurs de contribution partenaire](https://aka.ms/pcilearn) où vous trouverez des vidéos de formation détaillées, des présentations, des FAQ et des feuilles de faits.

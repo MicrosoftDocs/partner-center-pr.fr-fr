@@ -1,34 +1,37 @@
 ---
-title: Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
+title: Espace partenaires de Microsoft Cloud for US Government
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: L’espace partenaires pour les Microsoft Cloud pour le gouvernement des États-Unis est le portail d’entreprise pour les partenaires Microsoft qui souhaitent offrir des solutions Cloud Microsoft aux clients travaillant avec des agences gouvernementales au sein du États-Unis.
+description: Ce site espace partenaires est destiné aux partenaires Microsoft qui proposent des solutions Cloud Microsoft aux clients travaillant avec des agences gouvernementales dans le États-Unis.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e23b79e76cf498a600cb5658feaaf3b6da5578e6
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 288d6aec3dfdc1e6fb7af45c088968b02f52a275
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798747"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998315"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Espace partenaires de Microsoft Cloud for US Government
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>L’espace partenaires pour les Microsoft Cloud pour le gouvernement des États-Unis prend en charge les offres partenaires aux agences gouvernementales
 
 **S’applique à**
 
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent d’administration
--   Agent commercial
--   Administrateur de la facturation
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud pour le gouvernement des États-Unis : répondre aux exigences de protection des données 
+- Administrateur général
+- Administrateur des utilisateurs
+- Agent d’administration
+- Agent commercial
+- Administrateur de la facturation
+
+
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud pour le gouvernement des États-Unis : répondre aux exigences de protection des données
 
 Conçu pour le gouvernement des États-Unis dès le départ, Microsoft Cloud pour le gouvernement des États-Unis permet aux entités fédérales, d’État, locales ou tribales d’effectuer des sélections dans une gamme de services de cloud computing Microsoft. Pour répondre au mieux aux besoins spécifiques des clients du secteur public, Microsoft a fait des investissements significatifs dans les centres de données et est dédié à la mise en conformité de la protection des données avec les politiques, obligations et exigences fédérales et d’État. L’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis permet aux partenaires de revendre des services Cloud Microsoft à ces clients.
 
@@ -58,9 +61,9 @@ Une fois inscrit dans le programme du fournisseur de solutions Cloud (CSP) pour 
 
 Les tâches suivantes de l’espace partenaires sont gérées à l’aide du portail d’administration Azure pour Microsoft Cloud pour le gouvernement des États-Unis : 
 
--   Gestion des utilisateurs partenaires
--   Gestion des licences et des utilisateurs clients
--   Réinitialisation des mots de passe des utilisateurs
+- Gestion des utilisateurs partenaires
+- Gestion des licences et des utilisateurs clients
+- Réinitialisation des mots de passe des utilisateurs
 
 Pour plus d’informations sur la gestion des utilisateurs et des licences, consultez [gestion des licences et des utilisateurs dans l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](user-management-in-partner-center-for-microsoft-us-govt-cloud.md).
 

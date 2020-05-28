@@ -1,38 +1,38 @@
 ---
-title: Insights de l’espace partenaires | Espace partenaires
+title: Insights de l’Espace partenaires
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Voyez exactement ce que vous êtes en train de faire et où vous pouvez améliorer les ventes et le déploiement, ainsi que le développement client
+description: Explorez ce tableau de bord des rapports unifiés de l’espace partenaires. Découvrez comment vous utilisez les indicateurs de performance clés (KPI) pour les ventes et le déploiement, le développement client et bien plus encore.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, performances, succès des clients, mesures, données de rapports
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 679b706f43dcf1f54adcc1751c3c95c083bf2fba
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c41433019716f315592fe9d15850364835c4edfb
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631880"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998322"
 ---
-# <a name="partner-center-insights"></a>Insights de l’espace partenaires
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Aperçus de l’espace partenaires : tableau de bord qui montre le fonctionnement d’un partenaire commercial Microsoft.
 
 **Rôles appropriés**
-- Administrateur global
+- Administrateur général
 - Administrateur des comptes
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 - Visionneuse de rapports
 
 ## <a name="introduction"></a>Introduction
 
 Insights est un tableau de bord de rapports unifiés de l’espace partenaires pour les partenaires commerciaux de Microsoft inscrits au programme Microsoft Partner Network (MPN). Le tableau de bord Insights fournit une vue 360 de vos indicateurs de performance clés (KPI) sur des produits Cloud tels que Office, Azure, Dynamics et des modèles de licence tels que CSP et EA. Il expose un ensemble complet de rapports d’indicateurs de performance clés qui peuvent vous aider à prendre des décisions pilotées par les données pour votre organisation. 
 
-## <a name="roles-based-access-control-to-the-insights-dashboard"></a>Contrôle d’accès basé sur les rôles au tableau de bord Insights
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Contrôle d’accès en fonction du rôle au tableau de bord Insights
 
-Il existe deux nouveaux rôles dans l’espace partenaires, conçus spécifiquement pour accéder à Insights-visionneuse de rapports et visionneuse de rapports Executive.  Les utilisateurs du rôle de la visionneuse de rapports exécutifs ont accès à tous les jeux de données de rapports, tandis que les utilisateurs du rôle visionneuse de rapports n’ont pas accès aux jeux de données sensibles tels que les données personnelles des clients et des employés. 
+Il existe deux nouveaux rôles dans l’espace partenaires, conçus spécifiquement pour l’accès à Insights : la **visionneuse de rapports** et la **visionneuse de rapports Executive**. Les utilisateurs du rôle de la visionneuse de rapports exécutifs ont accès à tous les jeux de données de création de rapports, tandis que les utilisateurs du rôle visionneuse de rapports n’ont pas accès aux jeux de données sensibles tels que les données personnelles des clients et des employés. 
 
 L’administrateur général ou l’administrateur de compte peut attribuer ces rôles aux utilisateurs et les affecter à la totalité de l’entreprise ou à un emplacement MPN spécifique.  
 
@@ -43,21 +43,21 @@ L’administrateur général ou l’administrateur de compte peut attribuer ces 
 
 Les rapports suivants sont disponibles dans le tableau de bord Insights.
 
-**Vue d’ensemble**    Le rapport vue d’ensemble présente une vue instantanée des différents indicateurs de performance clés qui vous intéressent, tels que le nombre de clients, le nombre d’abonnements actifs, le chiffre d’affaires de la consommation Azure, les licences actives, etc.
+**Vue d'** ensemble : le rapport d’aperçu présente une vue instantanée des différents indicateurs de performance clés qui vous intéressent, tels que le nombre de clients, le nombre d’abonnements actifs, le chiffre d’affaires de la consommation Azure, les licences actives, etc.
 
-**Client** Le rapport client présente des analyses autour de vos clients, telles que les données d’acquisition client, les clients actifs, etc. 
+**Client**: le rapport client présente des analyses autour de vos clients, telles que les données d’acquisition client, les clients actifs, etc.
 
-**Produits-abonnements**     Le rapport d’abonnements présente les analyses d’acquisition et d’utilisation de vos abonnements Cloud (par exemple, O365, Azure, Dynamics, etc.). 
+**Produits-abonnements**: le rapport d’abonnements présente les analyses d’acquisition et d’utilisation de vos abonnements Cloud (tels que O365, Azure, Dynamics, etc.)
 
-**Produits-licences**   Le tableau de bord licences présente l’analytique des licences pour les produits Cloud basés sur des licences, tels que O365, Dynamics, Power BI etc.
+**Licences produit**: le tableau de bord licences présente l’analyse des licences pour les produits Cloud basés sur des licences, tels que O365, Dynamics, Power bi, etc.
 
-**Produit-utilisation d’Azure**   Le rapport d’utilisation Azure présente les métriques relatives aux abonnements Azure de vos clients, notamment les revenus de la consommation Azure et l’utilisation par catégories de compteurs.
+**Produit-utilisation d’Azure**: le rapport d’utilisation Azure présente les métriques relatives aux abonnements Azure de vos clients, notamment les revenus de la consommation Azure et l’utilisation par catégories de compteurs.
 
-**Compétences**    Le rapport compétences présente des mesures sur vos compétences actives, qualifiées et à risque.
+**Compétences**: le rapport compétences présente des mesures sur vos compétences actives, qualifiées et à risque.
 
-**Avantages**    Les rapports avantages présentent des analyses sur les avantages des partenaires que vous avez gagnés et consommés.
+**Avantages**: le rapport avantages présente des analyses sur les avantages des partenaires que vous avez gagnés et consommés.
 
-## <a name="navigating-the-insights-reports"></a>Navigation dans les rapports Insights 
+## <a name="navigating-the-insights-reports"></a>Navigation dans les rapports Insights
 
 **Filtres de plage de dates**: vous pouvez trouver une sélection de plage de dates dans l’angle supérieur droit de chaque page. La sortie des graphiques de la page vue d’ensemble peut être personnalisée en sélectionnant une plage de dates basée sur les 3, 6 ou 12 mois précédents, ou en sélectionnant une plage de dates personnalisée. La sélection de la plage de dates par défaut est de 12 mois. 
 
@@ -76,25 +76,27 @@ Les rapports suivants sont disponibles dans le tableau de bord Insights.
 
 ![filtres](images/pci/filters.png)
 
- ### <a name="filters-definitions"></a>Définitions de filtres :
+### <a name="filters-definitions"></a>Définitions de filtres :
 
 - Produits : liste de tous les produits Microsoft Cloud vendus/gérés par votre organisation, par exemple, O365, Azure, D365, EMS, PowerBI, etc.
 - Marchés des clients : liste des pays clients
 - Attributions de partenaires : votre type d’association avec les abonnements de vos clients, par exemple, le partenaire numérique de l’enregistrement (DPOR), le privilège d’administrateur délégué (DAP), le lien d’administrateur partenaire (PAL), etc. 
-- Emplacements des partenaires : liste de tous les emplacements MPN de votre organisation. 
+- Emplacements des partenaires : liste de tous les emplacements MPN de votre organisation.
 - Canaux de vente : tout le canal de vente/la tarification par le biais de laquelle vous achetez/approvisionnez des produits et services, à savoir CSP, EA, CSP indirect, direct, conseiller, ouvrir, etc.
 - Segments de clientèle : liste des segments de clientèle dans la base de clients partenaires.
 
 ## <a name="read-about-each-of-the-dashboards-and-reports"></a>En savoir plus sur les tableaux de bord et les rapports :
 
-- [Aperçu de l’espace partenaires-aperçu du tableau de bord](pci-overview-report.md) 
+- [Aperçu de l’espace partenaires-aperçu du tableau de bord](pci-overview-report.md)
 
-- [Insights de l’espace partenaires-tableau de bord client](pci-customer-report.md) 
+- [Insights de l’Espace partenaires -Tableau de bord des clients](pci-customer-report.md)
 
-Tableau de bord produits-abonnements tableau de bord produits-licences produit-tableau de bord d’utilisation Azure avantages des compétences 
+- [Aperçu de l’espace partenaires-informations sur les abonnements](pci-product-subscriptions-report.md)
 
+- [Aperçu de l’espace partenaires-rapports sur les licences](pci-product-licenses-report.md)
 
+- [Insights de l’espace partenaires-rapport d’utilisation Azure](pci-azure-usage-report.md)
 
+- [Insights de l’Espace partenaires - Rapport sur les compétences](pci-competencies-report.md)
 
-
-
+- [Insights de l’Espace partenaires - Rapport sur les avantages](pci-benefits-report.md)

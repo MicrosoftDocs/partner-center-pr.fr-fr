@@ -1,21 +1,22 @@
 ---
-title: 'Partenaires du Centre d’administration des partenaires Office 365 : les opérations d’entreprise vont migrer vers l’Espace partenaires| Espace partenaires'
+title: Migrer l’entreprise PAC Office 365 vers l’espace partenaires
 ms.topic: article
-ms.date: 08/22/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Localisez les fonctionnalités du centre d’administration des partenaires Office 365 courantes, telles que la génération de vos demandes commerciales et de services, après la migration vers l’espace partenaires.
+description: Localisez les fonctionnalités du centre d’administration des partenaires (PAC) Office 365, telles que la génération de vos demandes commerciales et de services, après la migration vers l’espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3dc5247d9ee9dc72276412d441b0f627ec448900
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005068"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998435"
 ---
-# <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Partenaires du centre d’administration des partenaires Office 365 : Préparez-vous à déplacer les opérations d’entreprise vers l’espace partenaires
+# <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partenaires du centre d’administration des partenaires Office 365-préparer le déplacement des opérations d’entreprise vers l’espace partenaires
 
 **S’applique à** 
 
@@ -23,16 +24,17 @@ ms.locfileid: "75005068"
 - Centre d’administration des partenaires Office 365
 
 **Rôles appropriés**
--   Administrateur global
--   Administrateur des utilisateurs
--   Agent d’administration
--   Commercial
 
-Nous offrons les fonctionnalités du centre d’administration des partenaires Office 365 dans l’espace partenaires pour vous aider à gérer vos clients tout au long du cycle de vie de l’entreprise. En plus des fonctionnalités que vous utilisez, vous pouvez désormais : 
+- Administrateur général
+- Administrateur des utilisateurs
+- Agent d’administration
+- Agent commercial
 
-*  Développer votre activité grâce aux [références](referrals.md) et gérer vos nouveaux clients au fur et à mesure de leur arrivée
-*  Envoyer aux clients des invitations à établir des relations à la fois en votre nom et au nom de votre fournisseur
-*  Gérer des utilisateurs individuels et attribuer des licences plus facilement
+Nous offrons les fonctionnalités du centre d’administration des partenaires Office 365 dans l’espace partenaires pour vous aider à gérer vos clients tout au long du cycle de vie de l’entreprise. En plus des fonctionnalités que vous utilisez, vous pouvez désormais :
+
+- Développer votre activité grâce aux [références](referrals.md) et gérer vos nouveaux clients au fur et à mesure de leur arrivée
+- Envoyer aux clients des invitations à établir des relations à la fois en votre nom et au nom de votre fournisseur
+- Gérer des utilisateurs individuels et attribuer des licences plus facilement
 
 Vous pouvez commencer à utiliser l’Espace partenaires immédiatement pour la plupart des tâches que vous effectuez dans le Centre d’administration des partenaires Office 365. 
 
@@ -44,11 +46,11 @@ L’exécution de tâches dans l’espace partenaires est effectuée différemme
 
 | Fonctionnalité du Centre d’administration des partenaires Office 365                       | Où se trouve-t-elle dans l’Espace partenaires ? | 
 |   -----------------------------------------------  | -------------- |
-| Développer mon entreprise : créer des offres d’achat | Collaborer avec votre fournisseur pour vendre des offres à vos clients |
-| Développer mon entreprise : demander des autorisations d'administrateur délégué | Espace partenaires : les clients > demander une relation de revendeur |
-| Développer mon entreprise : créer des invitations à participer à la version d'évaluation | Non disponible. Vous pouvez toujours utiliser le Centre d’administration des partenaires Office 365 pour cette fonctionnalité |
-| Demandes de service : liste des clients : Centre d’administration Office 365 | Espace partenaires : clients > administrer des services |
+| Développez votre entreprise : créer une offre d’achat | Collaborer avec votre fournisseur pour vendre des offres à vos clients |
+| Développez votre entreprise : demandez des autorisations d’administrateur délégué | Espace partenaires : les clients > demander une relation de revendeur |
+| Développez votre entreprise : créez des invitations à la version d’évaluation | Non disponible. Vous pouvez toujours utiliser le Centre d’administration des partenaires Office 365 pour cette fonctionnalité |
+| Demandes de service : liste des clients : Centre d’administration Office 365 | Espace partenaires : clients > administrer des services |
 | Demandes de service : liste des clients : demandes de service | Espace partenaires : demande de service > les demandes des clients |
-| Demandes de service : avec indicateur | Tableau de bord : Clients : sélectionner l’étoile en regard du nom de l’entreprise |
+| Demandes de service : marquées | Tableau de bord : clients : sélectionnez l’étoile en regard du nom de la société |
 | Demande de service > Administration des clients > Administrateur pour le compte de | Espace partenaires : clients > sélectionner un client > sélectionner un abonnement > sélectionner le revendeur de produits désigné |
 
