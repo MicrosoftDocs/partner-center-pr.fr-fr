@@ -83,9 +83,8 @@
 ### [Gérer un profil professionnel](create-a-marketing-profile.md)
 ### [Gérer les prospects](manage-leads.md)
 ### [Gérer les opportunités de covente](manage-co-sell-opportunities.md)
-### [Connecteur de covente pour Dynamics 365 CRM](dynamics-connector.md)
-### [Connecteur de covente pour Salesforce CRM](salesforce-connector.md)
-### [Utiliser les API Webhook pour s’inscrire aux événements de changement de ressource dans les références](referral-connector-webhooks.md)
+### [Connecteur de covente pour Dynamics 365 CRM - vue d’ensemble](connector-dynamics.md)
+### [Connecteur de covente pour Salesforce CRM - vue d’ensemble](connector-salesforce.md)
 ### [Enregistrer vos transactions](register-deals.md)
 ### [Obtenir des insights de référence](referral-insights.md)
 ### [Analyser votre profil professionnel](analyze-your-marketing-profile.md)
@@ -126,7 +125,7 @@
 ## [Créer plusieurs utilisateurs pour un client](adding-multiple-users-to-a-customer-account.md)
 ## [Assigner des contacts de support](assign-support-contacts.md)
 
-# [Offres CSP](csp-offers.md)
+# [Offres CSP](csp-offers.md) 
 ## Place de marché commerciale
 ### [Vue d’ensemble de la Place de marché commerciale](csp-commercial-marketplace-overview.md)
 ### [Découvrir les offres de la Place de marché](csp-commercial-marketplace-discover.md)
