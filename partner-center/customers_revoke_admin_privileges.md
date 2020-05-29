@@ -1,22 +1,23 @@
 ---
-title: Les clients délèguent les privilèges d’administrateur à des partenaires | Espace partenaires
+title: Obtenir les privilèges d’administrateur d’un client
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment demander aux clients de déléguer des autorisations d’administrateur à un revendeur ou de supprimer ces mêmes autorisations, et comment utiliser les autorisations.
+description: Obtenez les autorisations dont vous avez besoin pour gérer le service ou l’abonnement d’un client en son nom. Découvrez comment les autorisations sont accordées, révoquées et gérées.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 keywords: privilèges d’administrateur délégués, administrateur pour le compte de, supprimer des privilèges, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340057"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394179"
 ---
-# <a name="customers-delegate-administration-privileges-to-partners"></a>Les clients délèguent les privilèges d’administrateur à des partenaires
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtenir les autorisations pour gérer le service ou l’abonnement d’un client
 
 **S’applique à**
 

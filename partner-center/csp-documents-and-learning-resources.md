@@ -1,28 +1,29 @@
 ---
-title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud | Espace partenaires
+title: Contrats, listes de prix et offres pour fournisseurs de solutions Cloud
 ms.topic: article
-ms.date: 02/03/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cet article inclut des liens vers les guides, les contrats de partenariat, les contrats clients, les tarifs et les offres du programme Fournisseur de solutions Cloud.
+description: Retrouvez des liens vers les guides, les contrats de partenariat, les contrats clients, les tarifs et les offres du programme Fournisseur de solutions Cloud.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: LauraBrenner
 ms.author: labrenne
 keywords: guides du programme fournisseur de solutions Cloud, guide du programme, accords de partenariat, contrat client, tarifs, offres
 ms.localizationpriority: high
-ms.openlocfilehash: 8e3b5c7a8718de446c3d09daa735f425d627648c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 25b703b5235410bce36d5a54b4b37ccf4621bb90
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798477"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795607"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 
 **S’applique à**
 
--  Espace partenaires
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires
+- Espace partenaires de Microsoft Cloud for US Government
 
 
 Passez en revue les informations contenues dans cet article pour comprendre les conditions de participation au programme Fournisseur de solutions Cloud de Microsoft.

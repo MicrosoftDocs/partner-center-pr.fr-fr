@@ -1,22 +1,23 @@
 ---
-title: Comptes professionnels et l’Espace partenaires
+title: Lier votre compte professionnel pour accéder à l’Espace partenaires
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez pourquoi vous avez besoin d’un compte professionnel pour créer un compte Espace partenaires. Vérifiez si vous avez déjà un compte professionnel.
+description: Créez un compte professionnel qui lie votre entreprise à votre compte Espace partenaires. Cela permet aux employés de votre entreprise d’accéder à l’Espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: compte professionnel, e-mail, locataire, locataire Azure, créer un compte, nom de domaine
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369266"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394216"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Compte professionnel de votre entreprise et Espace partenaires  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Créer un compte professionnel qui lie votre entreprise à votre compte Espace partenaires
 
 **S’applique à**
 

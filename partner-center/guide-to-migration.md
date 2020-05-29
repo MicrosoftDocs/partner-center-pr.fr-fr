@@ -1,7 +1,7 @@
 ---
-title: Guide de migration de PMC vers l’Espace partenaires
+title: Migrer de PMC vers l’Espace partenaires
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment migrer votre société depuis Partner Membership Center (PMC) vers l’Espace partenaires.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362397"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795830"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’Espace partenaires
 
@@ -57,7 +58,7 @@ Si votre entreprise ne dispose pas d’une adresse e-mail professionnelle et d�
 
 Après avoir vérifié ou mis à jour les informations, sélectionnez **Accepter et continuer**.
 Les conditions générales figurant dans cette page sont **exactement les mêmes** que celles contenues dans l’accord que votre entreprise a déjà signé dans PMC.  
-Votre locataire Azure AD est alors créé et vous recevez votre compte professionnel.
+Cette étape lance la création de votre locataire Azure AD et vous fournit votre compte professionnel.
 
 Le fait de sélectionner **Accepter et continuer** a également les conséquences suivantes :
 

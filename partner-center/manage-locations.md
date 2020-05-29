@@ -1,37 +1,38 @@
 ---
-title: Gérer votre compte partenaire – Sites  | Espace partenaires
+title: Gérer les sites dans votre compte partenaire
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment l’ID MPN est utilisé dans les programmes d’incentives, l’activité de fournisseur de solutions Cloud (CSP), les abonnements et d’autres transactions.
+description: Dans l’Espace partenaires, découvrez comment ajouter un nouveau site et comment l’ID MPN de site est utilisé dans les programmes d’incentives, l’activité de CSP, les abonnements et autres transactions.
 author: LauraBrenner
 ms.author: labrenne
 keywords: compte partenaire, sites
 ms.localizationpriority: high
-ms.openlocfilehash: e1f7c6732b2945d50b241764d1cf78ae6631152b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bc8c8cf3e9e953cae7ed162da34aea190cd59dbc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340127"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796009"
 ---
-# <a name="manage-your-partner-account-locations"></a>Gérer votre compte partenaire : Emplacements
+# <a name="manage-your-partner-account-locations-in-partner-center-and-how-to-add-a-new-location"></a>Gérer les sites de votre compte partenaire dans l’Espace partenaires et comment ajouter un nouveau site
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Administrateur de la facturation
--   Agent d’administration
--   Agent commercial
+- Administrateur général
+- Administrateur des utilisateurs
+- Administrateur de la facturation
+- Agent d’administration
+- Agent commercial
 
 Les ID MPN de site identifient chaque site spécifique de votre entreprise. Vous utilisez l’ID MPN de site pour vous inscrire aux programmes d’incentives, effectuer des transactions dans le cadre de l’activité de fournisseur de solutions Cloud (CSP), ajouter de nouveaux abonnements et autres transactions commerciales. L’ID MPN de l’entreprise est utilisé pour les activités non transactionnelles comme les demandes de support.
 
-**Voici un scénario courant :** 
+**Voici un scénario courant :**
 
-Une entreprise partenaire peut avoir une activité de CSP et une activité de publication. Son activité de CSP peut être assurée sur plusieurs sites et son activité de publication sur d’autres sites. L’entreprise légale a un seul ID MPN dont elle se sert pour gérer tout ce qui n’est pas transactionnel (ajout d’utilisateurs, journalisation des demandes de support, etc.). 
+Une entreprise partenaire peut avoir une activité de CSP et une activité de publication. Son activité de CSP peut être assurée sur plusieurs sites et son activité de publication sur d’autres sites. L’entreprise légale a un seul ID MPN dont elle se sert pour gérer tout ce qui n’est pas transactionnel (ajout d’utilisateurs, journalisation des demandes de support, etc.).
 
-Chacun de ses sites a un ID MPN qui est utilisé pour les activités transactionnelles (programmes CSP, Incentives par exemple). Les règlements sont associés à des sites spécifiques.
+Chacun de ses sites a un ID MPN utilisé pour les activités transactionnelles (programmes CSP, Incentives par exemple). Les règlements sont associés à des sites spécifiques.
 
 Les utilisateurs peuvent avoir des rôles sur tous les sites. Par exemple, le rôle d’administrateur des incentives peut concerner tous les sites en Europe.
 

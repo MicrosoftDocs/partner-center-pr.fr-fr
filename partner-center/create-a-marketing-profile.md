@@ -1,21 +1,22 @@
 ---
-title: Créer un profil métier | Espace partenaires
+title: Obtenir des prospects - créer un profil professionnel
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment obtenir des prospects auprès de Microsoft. Une étape clé consiste à créer dans l’Espace partenaires un profil métier qui permet aux clients de vous trouver.
+description: Découvrez comment obtenir des prospects auprès de Microsoft. Une des clés consiste à créer dans l’Espace partenaires un profil professionnel qui permet aux clients de vous trouver plus facilement.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, références, prospects, C2PC, profil d’entreprise, promouvoir votre entreprise, trouver un partenaire, trouver un fournisseur de solutions, profil métier, profil commercial
 ms.localizationpriority: high
-ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722532"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795583"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +27,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Créer un profil métier pour obtenir des prospects de Microsoft
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Créer un profil professionnel pour obtenir des prospects Microsoft et aider les clients à trouver
 
 **S’applique à**
 
@@ -148,5 +149,6 @@ Une fois que vous avez publié votre profil, les mises à jour apparaissent dans
 - **Obtenez des étiquettes de compétences** via Microsoft pour mettre en avant votre connaissance de nos produits.
 - **Obtenez des étiquettes d’approbation** des clients qui apprécient votre travail.
 
-## <a name="related-topics"></a>Rubriques connexes
+## <a name="next-steps"></a>Étapes suivantes
+
 [Réponse aux références](responding-to-referrals.md)

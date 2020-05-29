@@ -1,27 +1,27 @@
 ---
-title: Préparer votre transfert du Partner Membership Center vers l’Espace partenaires | Espace partenaires
+title: Départ du Partner Membership Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consultez les informations utiles et les questions fréquentes avant de transférer votre activité de PMC vers l’Espace partenaires.
+description: Consultez les informations utiles et les questions fréquentes avant de transférer votre activité de Partner Membership Center vers l’Espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859353"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795844"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre transfert du Partner Membership Center (PMC) vers l’Espace partenaires
 
 **Rôles appropriés**
--    Administrateur général
--    Administrateur des utilisateurs
--    Agent commercial
--    Agent d’administration
+- Administrateur général
+- Administrateur des utilisateurs
+- Agent commercial
+- Agent d’administration
 
 Nous transférons actuellement la gestion des appartenances du Partner Membership Center (PMC) vers l’Espace partenaires (la seule destination pour gérer votre relation commerciale avec Microsoft). Nous souhaitons que votre transfert dans l’Espace partenaires soit aussi simple et efficace que possible. Sachant que l’Espace partenaires présente quelques différences par rapport à PMC, nous avons jugé utile de vous les présenter de façon à vous préparer au mieux avant le transfert.
 

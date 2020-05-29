@@ -1,23 +1,23 @@
 ---
-title: Passer au plan Azure – Démarrer | Espace partenaires
+title: Commencer votre transfert vers le plan Azure
+description: Découvrez ce que vous et vos clients devez savoir sur l’utilisation du plan de paiement à l’utilisation Azure, notamment les premières étapes, les précautions de sécurité et comment démarrer.
 ms.topic: article
-ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez l’expérience commerciale du plan Azure pour acheter des services Azure au tarif du paiement à l’utilisation pour les clients. Découvrez également les nouvelles exigences de sécurité.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Azure, plan Azure, acheter des abonnements, abonnements
-robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 12/02/2019
+ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74681931"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394187"
 ---
-# <a name="move-to-azure-plan---get-started"></a>Passer au plan Azure – Démarrer
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Commencer à pratiquer les prix de paiement à l’utilisation avec le plan Azure
 
 Microsoft a introduit une nouvelle expérience de commerce dans l’Espace partenaires.  Cette nouvelle expérience de commerce donne aux partenaires l’accès aux services Azure à un tarif de paiement à l’utilisation pour les clients dans le cadre du Contrat client Microsoft.
 
@@ -62,6 +62,8 @@ Microsoft recommande aux partenaires d’utiliser RBAC en toute diligence, en su
 - [Crédit Partenaires – Vue d’ensemble](partner-earned-credit.md)
 
 - Les calculs de crédit Partenaires, et les rôles et autorisations qui sont éligibles pour obtenir des crédits Partenaires, sont disponibles dans la liste des tarifs du tableau de bord de l’Espace partenaires (connexion requise).
+
+## <a name="next-steps"></a>Étapes suivantes 
 
 - [Détermination du crédit Partenaires – Détails](partner-earned-credit-explanation.md)
 - [Explication des tarifs du plan Azure](azure-plan-price-list.md)

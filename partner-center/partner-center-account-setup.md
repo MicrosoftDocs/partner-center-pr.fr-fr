@@ -1,7 +1,7 @@
 ---
 title: Gérer votre compte Espace partenaires | Espace partenaires
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gérez le profil, le catalogue, les informations bancaires et fiscales, les rôles et les autorisations de votre entreprise dans l’Espace partenaires.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859374"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795689"
 ---
 # <a name="manage-your-partner-center-account"></a>Gérer votre compte Espace partenaires
 
@@ -67,7 +67,15 @@ Il s’agit d’une liste partielle des programmes disponibles et de l’option 
 |Office Store|Développeur|
 |Extensions Edge|Développeur|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>Différences entre les options de paramètres Partenaire et Développeur
+## <a name="partner-and-developer-settings-options"></a>Options des paramètres Partenaire et Développeur
+
+### <a name="locate-your-mpn-id"></a>Localiser votre ID MPN
+
+Que vous soyez partenaire ou développeur, vous devez utiliser votre ID MPN pour par exemple consigner des tickets de support. Si vous êtes développeur, votre ID MPN se trouve dans la page de vos informations **Paramètres du compte**.
+
+![Emplacement de l’ID MPN](images/accountsettings/devmpnlocation.png)
+
+L’ID MPN du partenaire se trouve dans la page **Profil du partenaire**.
 
 Les options des **Paramètres du partenaire** et des **Paramètres du développeur** sont différentes. Vous trouverez ci-dessous des exemples de captures d’écran de chaque groupe d’options. Si vous avez accès à d’autres programmes, il se peut que les options affichées soient différentes de celles présentées ici.
 
@@ -78,6 +86,7 @@ Les options des **Paramètres du partenaire** et des **Paramètres du développe
 **Options des Paramètres du développeur** :
 
 ![options développeur](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>Inscription à des programmes
 
@@ -94,7 +103,7 @@ Pour en savoir plus sur l’inscription aux programmes de l’Espace partenaires
 
 ## <a name="the-account-picker"></a>Sélecteur de compte
 
-Vous pouvez faire partie de plusieurs comptes. Dans ce cas, le « sélecteur de compte » apparaît dans le menu de navigation gauche. Si vous sélectionnez le sélecteur de compte, tous les comptes dont vous êtes membre sont listés. Sélectionnez un compte pour basculer sur celui-ci et afficher l’ensemble des programmes et des informations en rapport avec ce compte. Si vous ne voyez pas de sélecteur de compte, vous n’êtes membre que d’un seul compte.
+Vous pouvez faire partie de plusieurs comptes. Dans ce cas, le « sélecteur de compte » apparaît dans le menu de navigation gauche. Quand vous sélectionnez le sélecteur de compte, tous les comptes dont vous êtes membre sont listés. Sélectionnez un compte pour basculer sur celui-ci et afficher l’ensemble des programmes et des informations en rapport avec ce compte. Si vous ne voyez pas de sélecteur de compte, vous n’êtes membre que d’un seul compte.
 
 ![sélecteur de compte](images/accountsettings/accountpicker.png)
 
