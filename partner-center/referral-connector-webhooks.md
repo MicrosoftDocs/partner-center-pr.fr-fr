@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: références, API webhook, événements de modification de ressource
 ms.localizationpriority: medium
-ms.openlocfilehash: a141776f1b591ebe41bb740051802b4b55cf36f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4e1eb2e9bd8ceb4f8c4bf43684305504c8594e5c
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796205"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145083"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Utiliser les API webhook pour s’inscrire aux événements de changement de ressource
 
@@ -38,7 +38,7 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 3. Lorsque vous effectuez ces mises à jour, vous verrez
 
-![webhooks](images/cosellconnectors/webhook1.png)
+![Webhooks](images/cosellconnectors/webhook1.png)
 
 4. Enregistrez vos modifications et sélectionnez **activer**. 
 
@@ -142,7 +142,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
 1. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans CRM et synchronisée dans l’espace partenaires :
 
-    a. Connectez-vous à votre environnement CRM Dynamics 365 ou à l’environnement CRM Salesforce avec un utilisateur qui dispose de la visibilité dans la section **opportunité** de CRM.
+    a. Connectez-vous à votre environnement Dynamics 365 CRM avec un utilisateur qui dispose de la visibilité dans la section **opportunité** de CRM.
 
     b. Assurez-vous que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement Dynamics 365
 

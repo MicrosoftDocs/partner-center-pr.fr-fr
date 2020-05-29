@@ -1,23 +1,23 @@
 ---
-title: Gérer les prospects
+title: Gérer les opportunités | Espace partenaires
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Utilisez l’espace partenaires pour répondre aux références et gérer les prospects et les références nouveaux, existants et archivés. Découvrez également comment obtenir plus de références à l’avenir.
-author: LauraBrenner
-ms.author: labrenne
+description: Découvrez comment répondre aux références, gérer les références nouvelles, existantes et archivées, et obtenir plus de références à l’avenir.
+author: vikramb
+ms.author: vikramb
 keywords: références, covente, vente
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796025"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145063"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gérer différents prospects, tels que des demandes client, des prospects qualifiés par le marketing et des prospects qualifiés par vente
+# <a name="manage-leads"></a>Gérer les clients
 
 **S’applique à**
 
@@ -87,8 +87,19 @@ Il s’agit d’une étape de terminal dans laquelle toutes les opportunités ar
 Voici quelques conseils pour vous aider à obtenir des références plus appropriées :
 
 - **Choisissez des mots clés et des préférences qui représentent votre expertise et votre modèle commercial** dans votre [profil commercial](https://docs.microsoft.com/partner-center/create-a-marketing-profile). Supprimez les mots clés qui génèrent des références qui ne vous intéressent pas. Si vous ne souhaitez pas traiter les entreprises d’une certaine taille, mettez à jour cette préférence.
-- **Passez en revue vos informations de contact dans votre [profil d’entreprise](https://docs.microsoft.com/partner-center/create-a-marketing-profile) pour chaque emplacement** pour vous assurer que votre équipe reçoit les alertes entrantes.
+
+- **Passez en revue vos informations de contact dans votre [profil d’entreprise](https://docs.microsoft.com/partner-center/create-a-marketing-profile) pour chaque emplacement** Assurez-vous que votre équipe reçoit les alertes entrantes.
+
 - **Répondre rapidement aux références** Lorsque vous répondez en temps voulu aux demandes entrantes, nous augmenterons votre visibilité dans les futurs résultats de la recherche de clients. Veillez à ce que votre équipe réponde rapidement et avec énergie.
-- **Choisissez soigneusement les transactions que vous acceptez**. Nous Surveillez les types de transactions que vous acceptez et déclinons et utilisez ces informations pour vous aider à trouver des offres similaires. Accepter les demandes qui ne sont pas adaptées n’améliore pas les résultats de votre recherche et peut avoir un impact sur la qualité des prospects que vous recevez.
+
+- **Choosy avec les contrats que vous acceptez** Nous Surveillez les types de transactions que vous acceptez et déclinons et utilisez ces informations pour vous aider à trouver des offres similaires. Accepter les demandes qui ne sont pas adaptées n’améliore pas les résultats de votre recherche et peut avoir un impact sur la qualité des prospects que vous recevez.
+
 - **Indiquez les montants estimés des transactions (conclues ou perdues), leur date de clôture et leur état final**. Nous utiliserons ces informations pour continuer à vous fournir des références de qualité.
 
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Gérer les opportunités de covente](manage-co-sell-opportunities.md)
+
+- [Obtenir le connecteur de la co-vente pour Dynamics 365 CRM](connector-dynamics.md)
+
+- [Obtenir le connecteur de la co-vente pour Salesforce CRM](connector-salesforce.md)
