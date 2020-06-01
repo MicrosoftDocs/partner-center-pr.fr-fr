@@ -1,22 +1,21 @@
 ---
-title: S’inscrire au programme Fournisseur de solutions Cloud
+title: S’inscrire au programme Fournisseur de solutions Cloud | Espace partenaires
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment adhérer au modèle de vente du programme Fournisseur de solutions Cloud (CSP) qui convient le mieux à votre entreprise, comme revendeur indirect ou partenaire de facturation directe.
+description: Comprenez les différents modèles de vente dans le programme Fournisseur de solutions Cloud (CSP) et déterminez celui qui convient le mieux à votre entreprise.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 49f404452d8cc386d9d47ef1bf8f51b0e79e1af2
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795162"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253926"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>S’inscrire au programme Fournisseur de solutions Cloud et créer une solution cloud rentable
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
 **S’applique à**
 
@@ -42,7 +41,7 @@ L’examen et la vérification des informations que vous avez fournies peuvent n
 3. Une fois vos informations vérifiées, acceptez les termes du contrat de revendeur indirect Microsoft.
 
 > [!IMPORTANT]  
-> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](https://partner.microsoft.com/pcv/announcements).
+> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>S’inscrire en tant que revendeur indirect
 
