@@ -1,5 +1,7 @@
 # [À propos de l’Espace partenaires Microsoft](index.yml)
 
+# [Annonces](announcements/TOC.md)
+
 # [Adhésion au réseau des partenaires](mpn-overview.md)
 ## [Créer un compte Espace partenaires](mpn-create-a-partner-center-account.md)
 ## [Guide pratique pour obtenir une adresse e-mail professionnelle](buy-email-domain.md)
