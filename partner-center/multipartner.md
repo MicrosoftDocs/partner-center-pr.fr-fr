@@ -1,7 +1,7 @@
 ---
-title: Prise en charge de plusieurs partenaires
+title: Prise en charge de plusieurs partenaires | Espace partenaires
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 03/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Un client peut souhaiter travailler avec plusieurs partenaires dans le programme du fournisseur de solutions Cloud spécialisé dans différents services.
@@ -9,15 +9,14 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 05a431a43aac1624c529df8a92c5a773793bf5a8
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8837799bb170f2148aac9a1849146615a4ffebd1
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795905"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253956"
 ---
-# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Prise en charge de plusieurs partenaires pour les clients qui souhaitent travailler avec plusieurs partenaires
+# <a name="multi-partner-support"></a>Prise en charge de plusieurs partenaires
 
 **S’applique à**
 
@@ -46,7 +45,7 @@ La fonctionnalité multipartenaire n’effectue pas les opérations suivantes&nb
 - Modifier le partenaire d’enregistrement pour un abonnement
 
 > [!IMPORTANT]  
-> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](https://partner.microsoft.com/pcv/announcements).
+> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).
 
 
 

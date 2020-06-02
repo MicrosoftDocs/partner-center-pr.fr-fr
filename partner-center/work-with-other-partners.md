@@ -8,12 +8,12 @@ description: Découvrez comment les fournisseurs indirects collaborent avec des 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6febef2f7af68a1cd93b2eafecb9537f48ab190a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797577"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253936"
 ---
 # <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
 
@@ -54,4 +54,4 @@ La fonctionnalité Multi-Channel de l’espace partenaires prend en charge les s
 La prise en charge de plusieurs canaux est également disponible dans les offres de Cloud national de Microsoft.
 
 > [!IMPORTANT]  
-> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](https://partner.microsoft.com/pcv/announcements).
+> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).
