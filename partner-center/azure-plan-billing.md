@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: fa1d1298f0fd3650bdaa4e6fc6b602844ac199c4
+ms.sourcegitcommit: 83f9c114910282dc87b3ec22d59a8b24b1d6b368
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908363"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84262873"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
@@ -133,9 +133,9 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
   - Le compteur est éligible au **crédit Partenaires pour les services managés** du 01/07 au 03/07. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
 
-   - Le compteur n’est pas éligible au **crédit Partenaires pour les services managés** du 04/07 au 07/07. Notez que le prix unitaire effectif est le prix de vente au détail.
+  - Le compteur n’est pas éligible au **crédit Partenaires pour les services managés** du 04/07 au 07/07. Notez que le prix unitaire effectif est le prix de vente au détail.
 
-    - Le compteur est éligible au **crédit Partenaires pour les services managés** du 08/07 au 31/07. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
+  - Le compteur est éligible au **crédit Partenaires pour les services managés** du 08/07 au 31/07. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
 
 ![recon2](images/azure/pecfinal.png) 
 
@@ -143,7 +143,7 @@ Pour voir l’historique des factures et des fichiers de rapprochement, dévelop
 
 Les services Azure fournis par l’intermédiaire d’un plan Azure sont facturés en USD et facturés dans la devise officielle du pays du client. Si la devise de facturation n’est pas USD, le taux de change utilisé est indiqué à la dernière page de la facture. Les taux de change sont déterminés tous les mois et appliqués à la facture suivante. Pour obtenir la liste complète des devises des pays, consultez la [grille des devises client et la disponibilité des offres de nouveau commerce par pays](https://go.microsoft.com/fwlink/?linkid=2112354). 
 
-Microsoft utilise [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) pour déterminer les taux de change permettant d’effectuer la conversion de la devise de tarification en devise de facturation. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
+Microsoft utilise Thomson Reuters pour déterminer les taux de change permettant d’effectuer la conversion de la devise de tarification en devise de facturation. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
 
 **Exemple**:  Les frais d’utilisation pour la période de service qui va du 1er au 31 août sont facturés à l’aide du taux de change publié le 31 juillet. Ces frais apparaissent dans la facture de septembre et le taux de change est indiqué à la dernière page de la facture. 
 
