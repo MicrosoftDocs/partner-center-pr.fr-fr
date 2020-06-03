@@ -1,21 +1,22 @@
 ---
-title: S’inscrire au programme Fournisseur de solutions Cloud | Espace partenaires
+title: S’inscrire au programme Fournisseur de solutions Cloud
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprenez les différents modèles de vente dans le programme Fournisseur de solutions Cloud (CSP) et déterminez celui qui convient le mieux à votre entreprise.
+description: Découvrez comment adhérer au modèle de vente du programme Fournisseur de solutions Cloud (CSP) qui convient le mieux à votre entreprise, comme revendeur indirect ou partenaire de facturation directe.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 49f404452d8cc386d9d47ef1bf8f51b0e79e1af2
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 20f8332b5f1ea3df7862c252c2b0eb777df4141e
+ms.sourcegitcommit: 83f9c114910282dc87b3ec22d59a8b24b1d6b368
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253926"
+ms.locfileid: "84262863"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
+# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>S’inscrire au programme Fournisseur de solutions Cloud et créer une solution cloud rentable
 
 **S’applique à**
 
