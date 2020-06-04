@@ -1,30 +1,30 @@
 ---
-title: Gérer les opportunités | Espace partenaires
+title: Gérer les prospects
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment répondre aux références, gérer les références nouvelles, existantes et archivées, et obtenir plus de références à l’avenir.
-author: vikramb
-ms.author: vikramb
+description: Utilisez l’espace partenaires pour répondre aux références et gérer les prospects et les références nouveaux, existants et archivés. Découvrez également comment obtenir plus de références à l’avenir.
+author: LauraBrenner
+ms.author: labrenne
 keywords: références, covente, vente
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145063"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328330"
 ---
-# <a name="manage-leads"></a>Gérer les clients
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gérer différents prospects, tels que des demandes client, des prospects qualifiés par le marketing et des prospects qualifiés par vente
 
 **S’applique à**
 
--  Espace partenaires
--  Références
--  Fournisseur de solutions Microsoft
--  Profils d'entreprise
+- Espace partenaires
+- Références
+- Fournisseur de solutions Microsoft
+- Profils d'entreprise
 
 **Rôles appropriés**
 

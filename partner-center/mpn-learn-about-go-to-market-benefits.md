@@ -1,7 +1,7 @@
 ---
 title: En savoir plus sur Go-to-Market avec les offres Microsoft
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment la mise sur le marché avec les offres Microsoft peut accélérer le délai de mise sur le marché, générer des prospects et développer votre activité.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, avantages de l’adhésion, adhésion, Go-to-Market offers, Go-to-Market avec Microsoft, accéder au marché, adhésion Gold, abonnement Silver
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795827"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328200"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explorez vos offres Go-to-Market avec Microsoft
 
@@ -29,7 +29,7 @@ ms.locfileid: "83795827"
 - Administrateur général
 - Administrateur partenaire MPN
 
-Lorsque vous êtes devenu membre Microsoft Partner Network, vous avez accès à des avantages d’appartenance qui peuvent vous aider à créer et à développer votre activité. La mise sur le marché avec les ressources, les offres et les programmes Microsoft présente les [nombreux avantages](https://partner.microsoft.com/manage-your-partner-network-benefits) que vous recevez en tant que membre Microsoft Partner Network.
+Lorsque vous devenez membre Microsoft Partner Network, vous avez accès à des avantages d’appartenance qui peuvent vous aider à créer et à développer votre activité. La mise sur le marché avec les ressources, les offres et les programmes Microsoft présente les [nombreux avantages](https://partner.microsoft.com/manage-your-partner-network-benefits) que vous recevez en tant que membre Microsoft Partner Network.
 
 Les offres Go-to-Market vous donnent accès à des ressources de vente et de marketing exclusives qui peuvent vous aider à accélérer le délai de mise sur le marché, à générer des prospects et à développer votre activité.
 

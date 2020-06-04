@@ -1,30 +1,30 @@
 ---
-title: Gérer les opportunités de co-vente | Espace partenaires
+title: Gérer les opportunités de covente
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des contrats, inviter Microsoft à collaborer ou afficher les demandes envoyées.
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: références, covente, vente
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 96e89d354131dc3defdb617d4147b92e938a5c09
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 485999e323c325ab30361ed60dfe2c9eb7bada07
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145073"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328360"
 ---
-# <a name="manage-co-sell-opportunities"></a>Gérer les opportunités de co-vente
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gérez les opportunités de covente dans l’espace partenaires pour définir des contrats et mieux répondre aux besoins des clients
 
 **S’applique à**
 
--  Espace partenaires
--  Références
--  Co-vendre avec Microsoft
--  Partage des affaires
+- Espace partenaires
+- Références
+- Co-vendre avec Microsoft
+- Partage des affaires
 
 **Rôles appropriés**
 
@@ -99,7 +99,7 @@ Une fois que vous avez fourni les informations de la solution, sélectionnez sui
 
 **Transaction de pipeline privé**: Si vous n’invitez pas Microsoft et que vous créez un engagement à cette étape, il sera du type pipeline privé. Les vendeurs Microsoft n’ont aucune visibilité sur les détails de cette offre.
 
-Vente **de la co-vente :** Si vous basculez vers Oui pour la question **« aimeriez-vous l’aide de Microsoft ? »**, le contrat se concentre sur la vente, où un vendeur Microsoft peut éventuellement vous aider à conclure la transaction. Une demande d’aide de Microsoft ne garantit pas qu’un vendeur Microsoft participera au contrat. Les représentants commerciaux de Microsoft ont 14 jours pour décider s’ils souhaitent participer. Dans la section Remarques, veillez à identifier le type d’aide que vous souhaitez.
+Vente **de la co-vente :** Si vous basculez le bouton bascule sur Oui pour la question **« voulez-vous l’aide de Microsoft ? »**, le contrat se concentre sur la vente dans le cadre de laquelle un vendeur Microsoft peut éventuellement vous aider à conclure la transaction. Une demande d’aide de Microsoft ne garantit pas qu’un vendeur Microsoft participera au contrat. Les représentants commerciaux de Microsoft ont 14 jours pour décider s’ils souhaitent participer. Dans la section Remarques, veillez à identifier le type d’aide que vous souhaitez.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Réponse à une opportunité de covente
 
@@ -109,7 +109,7 @@ Chaque opportunité passe par un cycle de vie qui lui est propre.
 
 Au cours de cette étape, si vous avez reçu une nouvelle opportunité de covente à partir d’un vendeur Microsoft ou d’autres partenaires de l’écosystème de covente Microsoft, passez en revue les détails et n’hésitez pas à contacter le client si vous souhaitez en savoir plus sur les besoins de l’entreprise. Vous pouvez effectuer deux actions dans cette étape. acceptez ou refusez la référence :
 
-- **Accepter :** Entrez un nom pour le contrat, modifiez la valeur estimée de la transaction et le délai estimé d’achat en fonction de votre revue. Une fois que vous avez établi le contact avec le client, vous devez fournir des informations dans le champ **Remarques** pour en savoir plus sur les éléments recherchés par le client. Vous pouvez éventuellement entrer votre ID CRM ici (pour votre référence uniquement), l’ID de campagne marketing qui a abouti à l’opportunité correspondante et ajouter des contacts de votre société qui vont travailler sur cette transaction. 
+- **Accepter :** Entrez un nom pour le contrat, modifiez la valeur estimée de la transaction et le délai d’achat estimé en fonction de votre revue. Une fois que vous avez établi le contact avec le client, vous devez fournir des informations dans le champ **Remarques** pour en savoir plus sur les éléments recherchés par le client. Vous pouvez éventuellement entrer votre ID CRM ici (pour votre référence uniquement), l’ID de campagne marketing qui a abouti à l’opportunité correspondante et ajouter des contacts de votre société qui vont travailler sur cette transaction. 
 
 - Quand vous avez terminé, cliquez sur **Suivant**. Nous allons déplacer la référence à **l’étape suivante**, ce qui signifie que vous envisagez de contacter activement le client pour répondre à ses besoins. Nous utiliserons également ces informations pour vous aider à trouver des affaires similaires à l’avenir.
 
@@ -122,12 +122,12 @@ Au cours de cette étape, si vous avez reçu une nouvelle opportunité de covent
 
 Tentez de conclure la transaction avec le client. Si vous souhaitez modifier les informations que vous avez fournies pour une référence acceptée, sélectionnez **modifier**. Vous pouvez ensuite mettre à jour le nom de la transaction, la date estimée d’achat, la valeur estimée, les notes, l’ID CRM et/ou l’ID de campagne marketing.  Vous pouvez également sélectionner **ajouter vos employés** pour fournir le nom, le numéro de téléphone et les adresses de messagerie des personnes qui travaillent sur la transaction. Les solutions peuvent également être modifiées en fonction des besoins des clients.
 
-Toutes les transactions que vous avez créées sont en phase **acceptée** par défaut.
+Toutes les transactions que vous avez créées sont en phase acceptée par défaut.
 
 Lorsque vous avez terminé, vous pouvez effectuer l’une des deux actions suivantes, qui marquent la transaction comme **conclue** ou **perdue** pour signaler le résultat, afin que nous puissions l’archiver en conséquence.
 
 > [!TIP]
-> Pour certaines solutions éligibles, une fois que vous avez sélectionné **conclu**, vous êtes invité à fournir des informations supplémentaires pour inscrire votre demande. Microsoft examinera les informations que vous avez fournies ici et pourra vous demander des renseignements complémentaires. 
+> Pour certaines solutions éligibles, une fois que vous avez sélectionné conclu, vous êtes invité à fournir des informations supplémentaires pour inscrire votre demande. Microsoft examinera les informations que vous avez fournies ici et pourra vous demander des renseignements complémentaires. Pour plus d'informations, consultez Enregistrer vos transactions.
 
 ### <a name="archived-stage"></a>Étape archivée
 
@@ -138,9 +138,7 @@ Il s’agit d’une étape de terminal dans laquelle toutes les opportunités ar
 Voici quelques conseils pour vous aider à obtenir davantage d’opportunités de co-vente adaptées à votre entreprise :
 
 - **Répondez rapidement aux demandes**. Lorsque vous répondez en temps voulu aux demandes entrantes, nous augmenterons votre visibilité dans les futurs résultats de la recherche de partenaires progressivement. Veillez à ce que votre équipe réponde rapidement et avec énergie.
-
-- **Choosy avec les contrats que vous acceptez** Nous Surveillez les types de transactions que vous acceptez et déclinons et utilisez ces informations pour vous aider à trouver des offres similaires. Accepter les demandes qui ne sont pas adaptées n’améliore pas les résultats de votre recherche et peut avoir un impact sur la qualité des opportunités que vous recevez.
-
+- **Choisissez soigneusement les transactions que vous acceptez**. Nous Surveillez les types de transactions que vous acceptez et déclinons et utilisez ces informations pour vous aider à trouver des offres similaires. Accepter les demandes qui ne sont pas adaptées n’améliore pas les résultats de votre recherche et peut avoir un impact sur la qualité des opportunités que vous recevez.
 - **Indiquez les montants estimés des transactions (conclues ou perdues), leur date de clôture et leur état final**. Nous utiliserons ces informations pour continuer à vous fournir des références de qualité.
 
 ## <a name="next-steps"></a>Étapes suivantes
