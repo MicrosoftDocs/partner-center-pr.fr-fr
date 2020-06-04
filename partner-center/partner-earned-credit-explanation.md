@@ -1,30 +1,32 @@
 ---
-title: Crédit Partenaires pour les services managés (préversion) | Espace partenaires
+title: Crédit Partenaires pour les services managés
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment les crédits Partenaires Microsoft pour les services managés sont calculés et payants, et comment vérifier que vous êtes éligible.
+description: Découvrez comment les crédits Partenaires Microsoft pour les services managés sont calculés et payés, et comment vérifier que vous êtes éligible.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d8e3ad7be5d2ab761d9af2de1e1b0d40974333f1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004998"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998275"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Calcul et paiement du crédit Partenaires
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent d’administration
--   Administrateur de la facturation
--   Agent commercial
+
+- Administrateur général
+- Administrateur des utilisateurs
+- Agent d’administration
+- Administrateur de la facturation
+- Agent commercial
 
 Le crédit Partenaires (PEC, partner earned credit) pour les services managés reconnaît et récompense les partenaires qui gère et contrôle les opérations informatiques 24h/24 et 7j/7 de tout ou partie de l’environnent Azure de leurs clients. Par défaut, les partenaires engagés dans le programme Fournisseur de solutions Cloud bénéficient de droits d’accès à l’abonnement du client, ce qui leur permet de gérer et de contrôler les opérations 24 h/24 et 7 j/7 des ressources de l’abonnement. Les autres moyens dont dispose le client pour accorder un accès au partenaire de transactions sont décrits dans la section suivante. Le montant de facturation mensuelle s’entend hors crédit Partenaires. Le partenaire peut consulter le détail du crédit PEC dans le fichier de rapprochement mensuel. Pour connaître les autres moyens dont dispose les clients pour provisionner un accès au partenaire de transactions, consultez [Gérer les abonnements et les ressources dans le plan Azure](azure-plan-manage.md).
 

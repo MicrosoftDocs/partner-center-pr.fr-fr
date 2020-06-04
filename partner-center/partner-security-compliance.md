@@ -1,6 +1,6 @@
 ---
-title: Statut des exigences de sécurité des partenaires | Espace partenaires
-ms.date: 10/11/2019
+title: Statut des exigences de sécurité des partenaires
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les nouveaux critères obligatoires de renforcement de la sécurité pour les conseillers, les fournisseurs de panneau de contrôle et les partenaires du programme Fournisseur de solutions Cloud.
@@ -9,14 +9,15 @@ ms.author: labrenne
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120390"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998295"
 ---
-# <a name="partner-security-requirements-status"></a>Statut des exigences de sécurité des partenaires
+# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>État des exigences de sécurité Partenaires - Obtenir des réponses et consulter des rapports sur l’état actuel
 
 **S’applique à**
 
@@ -28,7 +29,7 @@ ms.locfileid: "82120390"
 - Tous les conseillers
 
 **Utilisateurs appropriés**
--    Tous les utilisateurs activés, y compris les utilisateurs invités
+- Tous les utilisateurs activés, y compris les utilisateurs invités
 
 L’amélioration de la sécurité et de la protection de la confidentialité fait partie de nos premières priorités. Nous savons que la meilleure défense est la prévention et que nous ne sommes pas plus solides que notre maillon le plus faible. C’est pourquoi nous avons besoin que tous les membres de notre écosystème puissent agir et s’assurer qu’ils disposent des protections de sécurité appropriées. Pour aider à protéger les partenaires et les clients, nous proposons un ensemble d’exigences de sécurité obligatoires pour les conseillers, les fournisseurs de panneau de contrôle et les partenaires participant au programme Fournisseur de solutions Cloud.
 

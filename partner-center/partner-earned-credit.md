@@ -1,44 +1,46 @@
 ---
-title: Crédit Partenaires – vue d’ensemble | Espace partenaires
+title: Crédit Partenaires – vue d’ensemble
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Le crédit Partenaires offre des tarifs Azure uniformes simplifiés, fournit des services managés à valeur ajoutée et permet d’éliminer la concurrence sur les marges.
+description: Découvrez comment le crédit Partenaires offre des tarifs Azure uniformes simplifiés, fournit des services managés à valeur ajoutée et permet d’éliminer la concurrence sur les marges.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 611b129cc5343715f3fc528a0222c77fcaa6ee6e
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004238"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998285"
 ---
-# <a name="partner-earned-credit---overview"></a>Crédit Partenaires – vue d’ensemble
+# <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédit Partenaires : vue d’ensemble de son fonctionnement dans la nouvelle expérience commerciale du fournisseur de solutions Cloud
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent d’administration
--   Administrateur de la facturation
--   Agent commercial
 
-Dans la nouvelle expérience utilisateur commerciale du programme Fournisseur de solutions Cloud, le crédit Partenaires est un modèle métier qui permet d’appliquer une tarification Azure uniforme simplifiée à l’ensemble des véhicules de commercialisation de Microsoft, tout en soutenant un écosystème de partenaires qui fournit des services managés à valeur ajoutée. Le crédit Partenaires favorise également l’élimination de toute concurrence sur les marges. 
+- Administrateur général
+- Administrateur des utilisateurs
+- Agent d’administration
+- Administrateur de la facturation
+- Agent commercial
 
-Avec des milliers de services dans Azure et plusieurs options d’achat, la tarification peut s’avérer difficile pour de nombreux clients et partenaires. Dans la nouvelle expérience de commerce pour Azure, nous nous sommes alignés sur les principes d’une tarification globale unique applicable à toutes les motions de nos transactions. Les partenaires fournisseurs de solutions Cloud peuvent proposer Azure aux prix publiés. Cela offre une plus grande transparence à leurs clients et permet d’instaurer la confiance. 
+Dans la nouvelle expérience utilisateur commerciale du programme Fournisseur de solutions Cloud, le crédit Partenaires est un modèle métier qui permet d’appliquer une tarification Azure uniforme simplifiée à l’ensemble des véhicules de commercialisation de Microsoft, tout en soutenant un écosystème de partenaires qui fournit des services managés à valeur ajoutée. Le crédit Partenaires favorise également l’élimination de toute concurrence sur les marges.
 
-Les besoins liés à la transformation numérique de nos clients modifient la nature de la valeur offerte par les partenaires. De nombreux clients recherchent des partenaires capables de fournir des services dépassant une simple transaction, qui pourront assouplir leur adoption du cloud et les aider à consommer efficacement les services Azure. Ces services Azure sont continus et incluent la surveillance du patrimoine, la gestion des stratégies et de la gouvernance, le réglage précis de l’installation et de la configuration, le support technique et un large éventail d’autres services. 
+Les tarifs peuvent être difficiles à comprendre pour de nombreux clients et partenaires, en particulier lorsque l’on pense aux milliers de services disponibles dans Azure et aux nombreuses options d’achat. Dans la nouvelle expérience de commerce pour Azure, nous nous sommes alignés sur les principes d’une tarification globale unique applicable à toutes les motions de nos transactions. Les partenaires fournisseurs de solutions Cloud peuvent proposer Azure aux prix publiés. Cela offre une plus grande transparence à leurs clients et permet d’instaurer la confiance.
 
-Ces services présentent certaines exigences. Le partenaire doit très bien connaître l’environnement Azure du client. De plus, il doit disposer d’une gouvernance et d’un contrôle continus et appropriés des ressources sous-jacentes qu’il gère. Un partenaire de facturation qui assure cette activité de gestion des opérations cloud 24 h/24 et 7 j/7 devient éligible dans le cadre d’un **crédit Partenaires pour services managés** sur le patrimoine Azure des clients, régi et contrôlé par le partenaire. 
+Les besoins liés à la transformation numérique de nos clients modifient la nature de la valeur offerte par les partenaires. De nombreux clients recherchent des partenaires capables de fournir des services allant au-delà de la simple transaction. Ces services peuvent faciliter leur parcours cloud et les aider à consommer efficacement les services Azure. Ces services Azure sont continus et incluent la supervision du patrimoine, la gestion des stratégies et de la gouvernance, le réglage précis de l’installation et de la configuration, le support technique et un large éventail d’autres services. 
+
+Ces services présentent certaines exigences. Le partenaire doit très bien connaître l’environnement Azure du client. De plus, il doit disposer d’une gouvernance et d’un contrôle continus et appropriés des ressources sous-jacentes qu’il gère. Un partenaire de facturation qui assure cette activité de gestion des opérations cloud 24 h/24 et 7 j/7 devient éligible dans le cadre d’un **crédit Partenaires pour services managés** sur le patrimoine Azure des clients, régi et contrôlé par le partenaire.
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Avantages du crédit Partenaires pour les partenaires et les clients
 
 - Les clients peuvent externaliser leur gestion et leur facturation de l’infrastructure Azure auprès d’un partenaire de confiance, ce qui leur permet de se concentrer sur leur activité principale.
 
-- Les clients travaillent avec un partenaire qui investit dans les services managés sur Azure, qui favorisent la baisse des coûts et le renforcement de la rentabilité opérationnelle, ainsi que la consommation d’Azure.
+- Les clients travaillent avec un partenaire qui investit dans les services managés Azure, qui favorisent la baisse des coûts et l’efficacité opérationnelle impliquées dans la consommation des services Azure.
 
 - Les partenaires sont récompensés, car ils fournissent un solide portefeuille de services managés Azure pour leurs clients.  
 

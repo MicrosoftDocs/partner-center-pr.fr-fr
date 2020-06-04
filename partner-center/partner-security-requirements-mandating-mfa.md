@@ -1,20 +1,21 @@
 ---
-title: Imposer l’authentification multifacteur à votre locataire partenaire | Espace partenaires
+title: Imposer l’authentification multifacteur à votre locataire partenaire
 ms.topic: article
-ms.date: 11/12/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment le fait d’imposer l’authentification multifacteur à vos locataires partenaires contribuera à sécuriser votre accès aux ressources client. Inclut des exemples de scénarios.
-author: isaiahwilliams
-ms.author: iswillia
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
-ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9454e9410e4110fdf3542bde3696d8447d4c90d0
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81462212"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998305"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposer l’authentification multifacteur (MFA) à votre locataire partenaire
 
