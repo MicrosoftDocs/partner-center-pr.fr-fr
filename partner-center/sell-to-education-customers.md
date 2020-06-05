@@ -1,23 +1,24 @@
 ---
-title: Comment vendre des formations aux clients
-description: Découvrez comment créer un client Education et vendre des offres dans l’espace partenaires.
+title: Comment vendre des offres à des clients de formation
+description: Découvrez comment créer un client Education et y vendre des offres dans l’espace partenaires.
 ms.topic: article
-ms.date: 3/20/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: éducation, segments spéciaux
 ms.localizationpriority: medium
-ms.openlocfilehash: 99d5576cfcdad5320d90c19ca705b7c43cb3e7ab
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362487"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426008"
 ---
-# <a name="how-to-sell-education-to-customers"></a>Comment vendre des formations aux clients
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Comment vendre des offres à des clients de formation & comment créer un client de formation dans l’espace partenaires
 
 **S’applique à**
 
@@ -37,6 +38,7 @@ Cet article explique comment créer un client de formation dans l’espace parte
 > Microsoft vets chaque client de formation nouvellement créé pour s’assurer qu’elles sont qualifiées pour les offres d’éducation.  Veillez à entrer les informations requises de manière aussi précise et complète que possible pour éviter les retards dans le processus d’instruction.
 
 1. Connectez-vous à l’Espace partenaires.
+
 2. Sélectionnez **clients** , puis **Ajouter un client**. Sélectionnez **Education** dans la liste déroulante **qualifications spéciales** .  Renseignez le reste des informations de compte en fonction des besoins.  Les champs clés qui facilitent le processus d’instruction sont les suivants :
 
    - Nom de la société : entrez le nom de l’entité légale-requis pour l’instruction
@@ -78,7 +80,7 @@ Vous devez disposer de privilèges d’administrateur général pour mettre à j
 
 2. Actualisez votre navigateur pour réinitialiser la page. Il y aura un bouton **mettre à jour** et l' **État des qualifications spéciales** est défini sur **aucun**.
 
-3. Sélectionnez **Mettre à jour**. Dans la page **gestion des services** , sélectionnez **Office 365**.
+3. Sélectionnez **Update**. Dans la page **gestion des services** , sélectionnez **Office 365**.
 
 4. Vous serez redirigé vers le centre d’administration Office 365 sous un nouvel onglet de votre navigateur. Vous pouvez être invité à vous connecter avec vos informations d’identification.
 

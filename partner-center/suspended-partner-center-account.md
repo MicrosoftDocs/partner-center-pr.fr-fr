@@ -1,7 +1,7 @@
 ---
-title: Restaurer un compte Espace partenaires suspendu | Espace partenaires
+title: Restaurer un compte Espace partenaires suspendu
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment restaurer un compte Espace partenaires suspendu, pourquoi un compte peut être suspendu et comment utiliser votre compte pendant la suspension.
@@ -9,14 +9,15 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ee056513ce9cfed5e1cb406c3b9476114005ec77
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0325d0f720af61813a98d18785f3cc05b2691f7e
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797927"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425878"
 ---
-# <a name="restore-a-suspended-partner-center-account"></a>Restaurer un compte Espace partenaires suspendu
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurer un compte de l’espace partenaires suspendu : Découvrez pourquoi il se produit et comment procéder
 
 Cet article explique ce qu’il faut faire si votre compte de l’Espace partenaires est suspendu.
 

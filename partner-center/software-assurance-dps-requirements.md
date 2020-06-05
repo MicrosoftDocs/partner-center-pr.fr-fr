@@ -1,20 +1,21 @@
 ---
-title: Afficher les conditions d’éligibilité pour les approvisionnements des services de planification
+title: Éligibilité aux missions de planification des services
 ms.topic: article
-ms.date: 03/24/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les conditions d’éligibilité pour chaque engagement de service de planification Software assurance qu’une société souhaite offrir aux clients d’entreprise.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 Keywords: prédéploiement, planification, Software Assurance, engagement, exigences, éligibilité, offre
 ms.localizationpriority: medium
-ms.openlocfilehash: e9d66f2f6792780d77db130d5fd7d0f44d5f6c8c
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 18896a98145a1f0980f1eaea43b4a0ef46bc7423
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362447"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425908"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Afficher les conditions d’éligibilité pour les approvisionnements des services de planification
 
