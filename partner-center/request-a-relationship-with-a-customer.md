@@ -1,26 +1,26 @@
 ---
-title: Demander une relation avec un client | Espace partenaires
+title: Demander une relation avec un client
 ms.topic: article
-ms.date: 01/28/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: La demande d’une relation est utilisée pour les scénarios multi-partenaires et multicanaux. Elle est également utile si un client supprime vos privilèges d’administration délégués et que vous devez les restaurer pour fournir des services d’approvisionnement ou de support.
+description: Demandez une relation avec un client pour les scénarios multi-partenaires multicanaux ou si vos privilèges d’administrateur délégué pour un client doivent être restaurés.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fd3d9b2067c7e9253a4a0f32c3afcbc7d0eadd5
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362707"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467369"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>Connectez-vous aux clients dans l’espace partenaires
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Comment demander une relation de revendeur à un client dans l’espace partenaires
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
 Si vous souhaitez gérer le service ou l’abonnement d’un client en son nom, le client doit vous accorder des autorisations d’administrateur pour ce service ou cet abonnement et signer le contrat du client Microsoft.
 

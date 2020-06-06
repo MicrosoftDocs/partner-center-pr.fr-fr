@@ -1,8 +1,8 @@
 ---
-title: Comprendre votre facture | Espace partenaires
+title: Comment lire votre fichier de conciliation de factures &
 ms.topic: article
-ms.date: 04/03/2020
-description: Votre facture est un résumé de toutes les facturations de l’espace partenaires (dans le programme, les produits et les clients) pour la période mensuelle en cours.
+ms.date: 06/05/2020
+description: En savoir plus sur vos fichiers de conciliation de factures &. Votre facture indique les frais relatifs à l’espace partenaires dans le programme, les produits et les clients pour cette période mensuelle.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation de l’espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture CSP, où est ma facture ?
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798707"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467459"
 ---
-# <a name="understand-your-bill"></a>Comprendre votre facture
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendre votre facture et votre fichier de rapprochement-Découvrez comment les trouver dans l’espace partenaires
 
 **S’applique à**
 
@@ -35,7 +36,7 @@ Votre **facture** est un **Résumé de toutes les facturations de l’espace par
 
 ## <a name="invoice-types"></a>Types de facture
 
-Microsoft émet une facture pour tous les frais liés à une licence (par exemple, Office 365) et les frais basés sur l’utilisation (comme Azure) et une facture distincte pour les frais à usage unique (tels qu’Azure RI, Marketplace, plan Azure, etc.). 
+Microsoft émet une facture pour tous les frais liés à une licence (par exemple, Office 365) et les frais basés sur l’utilisation (tels qu’Azure) et une facture distincte pour les frais à usage unique (par exemple, Azure RI, Marketplace ou Azure plan).
 
 Par exemple,  
 
@@ -43,13 +44,13 @@ Par exemple,
 
 - Le partenaire recevra une facture PDF et 2 fichiers de réconciliation couvrant les frais pour O365 et Azure (145p).  
 
-**Scénario 2 [monnaie unique]**: le partenaire a acheté pour Azure RI, Marketplace et/ou Azure plan, ainsi que des achats 145p. 
+**Scénario 2 [monnaie unique]**: le partenaire a acheté pour Azure RI, Marketplace et/ou Azure plan, ainsi que des achats 145p.
 
 - Le partenaire recevra un fichier PDF de facture et un fichier de réconciliation couvrant les frais liés à Azure (145p). 
 
 - Le partenaire recevra un autre fichier PDF de facture et un fichier de réconciliation couvrant ses frais pour Azure RI, Marketplace, plan Azure. 
 
-**Scénario 3 [multidevise]**: le partenaire a acheté pour Azure RIen DKK et le plan Azure en DKK, ainsi que les achats de 145P en euros. 
+**Scénario 3 [multidevise]**: le partenaire a acheté pour Azure RIen DKK et le plan Azure en DKK, ainsi que les achats de 145P en euros.
 
 - Le partenaire recevra un fichier PDF de facture et un fichier de rapprochement couvrant les frais relatifs à Azure RIen DKK. 
 
@@ -77,7 +78,7 @@ Vous trouverez les factures précédentes dans la section historique de facturat
 
 **Factures pour les frais OneTime et récurrents**: les factures relatives aux frais pour les services tels qu’Azure RI, Azure plan, Marketplace seront disponibles au plus tard le 8 de chaque mois.  
 
-Voici quelques-uns des champs clés du document PDF de facture : 
+Voici quelques-uns des champs clés du document PDF de facture :
 
 **Numéro de facture**: identificateur unique du document de facture généré pour la période de facturation respective. 
 
@@ -95,34 +96,6 @@ Voici quelques-uns des champs clés du document PDF de facture :
 
 Pour obtenir une description détaillée de tous les champs de votre fichier de facture (y compris les champs pour les frais à usage unique), consultez [champs de fichier de facture](invoice-file.md). 
 
-## <a name="understand-reconciliation-file"></a>Comprendre le fichier de réconciliation 
+## <a name="understand-reconciliation-files"></a>Comprendre les fichiers de réconciliation
 
  Les fichiers de rapprochement, qui fournissent des détails détaillés sur vos frais, peuvent être téléchargés en même temps que le fichier PDF de la facture. Les fichiers de réconciliation incluent des identificateurs de clients et des identificateurs d’abonnement que vous pouvez utiliser pour créer des factures client. Consultez la rubrique  [utilisation des fichiers de rapprochement](use-the-reconciliation-files.md) pour obtenir plus d’informations sur les fichiers de rapprochement. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

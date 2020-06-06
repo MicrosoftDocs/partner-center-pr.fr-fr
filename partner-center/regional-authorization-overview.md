@@ -1,26 +1,26 @@
 ---
-title: Marchés mondiaux du CSP | Espace partenaires
+title: Marchés globaux CSP
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consultez les pays, les régions et les devises dans lesquels vous pouvez vendre des offres CSP, en fonction de l’emplacement de votre entreprise.
+description: Consultez les pays, les régions et les devises où vous pouvez vendre des offres CSP, en fonction de l’emplacement de votre entreprise.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: LauraBrenner
 ms.author: labrenne
 keywords: Marchés du CSP, territoires, où puis-je vendre par le biais du programme CSP, des offres CSP, des régions, vendre des solutions Cloud, CSP global
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 17b2b27b0a1398128f479c39566efd36377af692
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798697"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467429"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Marchés régionaux et devises du programme Fournisseur de solutions cloud
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Les marchés régionaux et les devises du programme fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP
 
-Votre marché dépend de l’emplacement de votre entreprise. Il comprend les régions et/ou les pays où vous pouvez vendre des offres CSP.
+Votre marché dépend de l’emplacement de votre entreprise. Votre marché inclut les régions et/ou les pays où vous pouvez vendre des offres du programme fournisseur de solutions Cloud (CSP).
 
 Par exemple, si votre entreprise est située dans le États-Unis, vous pouvez vendre des offres CSP aux clients résidant aux États-Unis et dans les îles américaines. Si votre entreprise est située au Brésil, vous pouvez vendre des offres CSP aux clients uniquement au Brésil. Si votre entreprise est située dans la région Afrique, vous pouvez vendre des offres CSP à des clients dans les 18 pays de la région Afrique.
 
@@ -35,15 +35,15 @@ Pour déterminer où vous pouvez vendre des offres CSP, recherchez l’emplaceme
 
 Si votre pays n’est pas pris en charge, établissez la relation CSP du client à l’aide de l’URL d’administration Office. 
 
-- Les partenaires de facturation directe utilisent l’URL https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0suivante :. Remplacez **partnertenantguid** par votre ID de locataire. 
+- Les partenaires de facturation directe utilisent l’URL suivante : https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Remplacez **partnertenantguid** par votre ID de locataire. 
 
-- L’URL des revendeurs indirects https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguidest :. Vous allez remplacer **IRtenantguid** par votre ID de locataire. Remplacez **IRMPNID** par votre ID MPN, puis remplacez **IPtenantguid** par votre ID de locataire de fournisseur indirect.
+- L’URL des revendeurs indirects est : https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Vous allez remplacer **IRtenantguid** par votre ID de locataire. Remplacez **IRMPNID** par votre ID MPN, puis remplacez **IPtenantguid** par votre ID de locataire de fournisseur indirect.
 
 ## <a name="africa-region-and-market"></a>Région et marché en Afrique
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-| Pays/région           | Devise |
+| Pays/Région           | Devise |
 | ------------------------ |:--------:|
 | Angola                   |          |
 | Bénin                    |   USD    |
@@ -51,7 +51,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Cameroun                 |   USD    |
-| Cabo Verde               |          |
+| Cap-Vert               |          |
 | République centrafricaine |   USD    |
 | Tchad                     |   USD    |
 | Comores (Les)                  |   USD    |
@@ -69,17 +69,17 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Guinée                   |   USD    |
 | Guinée-Bissau            |   USD    |
 | Kenya                    |   USD    |
-| Liberia                  |   USD    |
+| Libéria                  |   USD    |
 | Madagascar               |   USD    |
 | Malawi                   |   USD    |
 | Mali                     |   USD    |
-| Maurice (île)                |   USD    |
+| Maurice                |   USD    |
 | Mayotte                  |   USD    |
 | Namibie                  |   USD    |
-| Nouvelle-Calédonie            |   USD    |
+| Nouvelle Calédonie            |   USD    |
 | Niger                    |   USD    |
-| Nigeria                  |   USD    |
-| La réunion                  |   USD    |
+| Nigéria                  |   USD    |
+| Réunion (île)                  |   USD    |
 | Rwanda                   |   USD    |
 | São Tomé et Príncipe    |   USD    |
 | Sénégal                  |          |
@@ -87,7 +87,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Sierra Leone             |   USD    |
 | Somalie                  |   USD    |
 | Soudan du Sud              |   USD    |
-| Sainte-Hélène, Ascension et Tristan da Cunha|    USD   |
+| Sainte-Hélène, Ascension et Tristan da Cunha|    USD   |
 | Tanzanie                 |   USD    |
 | Togo                     |   USD    |
 | Ouganda                   |          |
@@ -98,7 +98,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-| Pays/région     | Devise |
+| Pays/Région     | Devise |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
 |  Bhoutan            |          |
@@ -124,38 +124,38 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-|  Pays/région        | Devise |
+|  Pays/Région        | Devise |
 |  --------------        |:--------:|
 |  Australie             |   AUD    |
-|  Christmas (île)      |   AUD    |
+|  Christmas (Île)      |   AUD    |
 |  Cocos-Keeling (îles)|   AUD   |
-|  Cook (îles)          |   AUD    |
-|  Fidji                  |   AUD    |
+|  Cook (Îles)          |   AUD    |
+|  Fidji (îles)                  |   AUD    |
 |  Terres australes françaises| AUD |
 |  Guam                  |  AUD     |
-|  Heard et McDonald (Îles)| AUD |
+|  Heard et McDonald (îles)| AUD |
 |  Kiribati              |   AUD    |
-|  Marshall (îles)      |   AUD    |
+|  Marshall (Îles)      |   AUD    |
 |  Micronésie            |   AUD    |
 |  Nauru                 |   AUD    |
 |  Niue                  |   AUD    |
-|  Norfolk (île)        |   AUD    |
-|  Îles Marianne du Nord| AUD    |
+|  Norfolk (Île)        |   AUD    |
+|  Mariannes du Nord (Îles)| AUD    |
 |  Palau                 |   AUD    |
 |  Papouasie-Nouvelle-Guinée      |   AUD    |
 |  Pitcairn (îles)      |   AUD    |
-|  Salomon (îles)       |   AUD    |
+|  Salomon (Îles)       |   AUD    |
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis-et-Futuna     |   AUD    |
+|  Wallis et Futuna     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>Région et marché du Brésil
 
 Si l’emplacement de votre entreprise est le Brésil, vous pouvez vendre des offres CSP aux clients au Brésil.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Brésil         |   USD    |
 |
@@ -164,17 +164,17 @@ Si l’emplacement de votre entreprise est le Brésil, vous pouvez vendre des of
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
-|  Saint-Pierre-et-Miquelon|  CAD   |
+|  Saint Pierre et Miquelon|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>Région et marché européens
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-|  Pays/région | Devise  |
+|  Pays/Région | Devise  |
 |  -------------- |:--------:|
 |  Åland (îles d’)  |   EUR    |
 |  Andorre        |   EUR    |
@@ -198,7 +198,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Hongrie        |   EUR    |
 |  Islande        |   EUR    |
 |  Irlande        |   EUR    |
-|  Île de Man    |   GBP    |
+|  Man (Île de)    |   GBP    |
 |  Italie          |   EUR    |
 |  Jersey         |   GBP    |
 |  Lettonie         |   EUR    |
@@ -227,7 +227,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 
 Si l’emplacement de votre société est l’Inde, vous pouvez vendre des offres CSP aux clients en Inde.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Inde          |   INR    |
 |
@@ -236,7 +236,7 @@ Si l’emplacement de votre société est l’Inde, vous pouvez vendre des offre
 
 Si l’emplacement de votre entreprise est le Japon, vous pouvez vendre des offres CSP aux clients du Japon.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Japon          |   JPY    |
 |
@@ -245,7 +245,7 @@ Si l’emplacement de votre entreprise est le Japon, vous pouvez vendre des offr
 
 Si l’emplacement de votre entreprise est Corée, République de, vous pouvez vendre des offres CSP aux clients en Corée, République de.
 
-|  Pays/région    | Devise |
+|  Pays/Région    | Devise |
 |  --------------    |:--------:|
 |  Corée, République de|   KRW    |
 |
@@ -254,7 +254,7 @@ Si l’emplacement de votre entreprise est Corée, République de, vous pouvez v
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Anguilla       |   USD    |
 |  Antarctique     |   USD    |
@@ -267,7 +267,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Bermudes        |   USD    |
 |  Bolivie        |   USD    |
 |  Bonaire        |   USD    |
-|  Îles Vierges britanniques|USD|
+|  Vierges britanniques (îles)|USD|
 |  Caïmans (îles) |   USD    |
 |  Chili          |   USD    |
 |  Colombie       |   USD    |
@@ -278,7 +278,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Équateur        |   USD    |
 |  El Salvador    |   USD    |
 |  Malouines (îles)|  USD    |
-|  Guyane française  |   USD    |
+|  Guyane  |   USD    |
 |  Grenade        |   USD    |
 |  Guadeloupe     |          |
 |  Guatemala      |   USD    |
@@ -296,16 +296,16 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Porto Rico    |   USD    |
 |  Saba           |   USD    |
 |  Saint-Barthélemy|  USD    |
-|  Saint-Christophe-et-Niévès|    |
+|  Saint-Kitts-et-Nevis|    |
 |  Sainte-Lucie    |   USD    |
-|  Saint-Martin (partie française)   |   USD    |
-|  Saint-Vincent-et-les-Grenadines| USD |
+|  Saint-Martin   |   USD    |
+|  Saint-Vincent-et-les Grenadines| USD |
 |  Saint-Eustache |   USD    |
 |  Saint-Martin (partie néerlandaise)   |   USD    |
-|  Géorgie du Sud et les îles Sandwich du Sud| USD|
-|  Surinam       |   USD    |
+|  Géorgie du Sud et Sandwich du Sud (îles)| USD|
+|  Suriname       |   USD    |
 |  Trinité-et-Tobago|USD   |
-|  Turques-et-Caïques (îles)| USD|
+|  Turks et Caicos (îles)| USD|
 |  Uruguay        |   USD    |
 |  Venezuela      |   USD    |
 |  Vierges américaines (îles)| USD |
@@ -315,7 +315,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Afghanistan    |          |
 |  Albanie        |   USD    |
@@ -325,7 +325,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Bahreïn        |   USD    |
 |  Bélarus        |   USD    |
 |  Bosnie-Herzégovine|    |
-|  Territoires britanniques de l’océan Indien|   USD   |
+|  Territoire britannique de l’Océan Indien|   USD   |
 |  Égypte          |   USD    |
 |  Géorgie        |   USD    |
 |  Irak           |   USD    |
@@ -368,7 +368,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Samoa américaines |   NZD    |
 |  Nouvelle-Zélande    |   NZD    |
@@ -380,7 +380,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 
 Si l’emplacement de votre entreprise est russe, vous pouvez vendre des offres CSP aux clients en Russie.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Russie         |    RUB   |
 |
@@ -389,7 +389,7 @@ Si l’emplacement de votre entreprise est russe, vous pouvez vendre des offres 
 
 Si l’emplacement de votre entreprise est Taïwan, vous pouvez vendre des offres CSP aux clients de Taïwan.
 
-|  Pays/région | Devise |
+|  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Taïwan         |   TWD    |
 |
@@ -398,8 +398,8 @@ Si l’emplacement de votre entreprise est Taïwan, vous pouvez vendre des offre
 
 Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouvez vendre des offres CSP aux clients dans tous les emplacements de la liste.
 
-|  Pays/région       | Devise |
+|  Pays/Région       | Devise |
 |  -------------        |:--------:|
 |  États-Unis        |   USD    |
-|  États-Unis Îles mineures éloignées|   USD    |
+|  États-Unis Îles éloignées|   USD    |
 |

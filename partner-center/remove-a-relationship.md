@@ -1,22 +1,22 @@
 ---
 title: Supprimer la relation de revendeur avec un client
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires Microsoft direct peuvent supprimer des clients de leur liste, supprimer des privilèges d’administrateur délégué et arrêter la prise en charge ou l’achat d’un client.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: d57321e272a251c91791f274373fb31953f94e04
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f8f26dee696580b9a171069bd2c4fcad9fcbef8d
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362727"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467419"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer"></a>Suppression d’une relation de revendeur avec un client
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Procédure de suppression d’une relation de revendeur avec un client dans l’espace partenaires
 
 **S’applique à**
 

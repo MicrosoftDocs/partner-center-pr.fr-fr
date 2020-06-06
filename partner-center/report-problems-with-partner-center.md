@@ -1,28 +1,28 @@
 ---
-title: Signaler des problèmes avec l’Espace partenaires | Espace partenaires
+title: Signaler des problèmes avec l’Espace partenaires
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Comment signaler des problèmes avec l'Espace partenaires et collecter des informations de diagnostic pour notre équipe de Support.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c43c4b452c7df7f28869ead32e60c8e7f2fa512a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023481"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467389"
 ---
-# <a name="report-problems-with-partner-center"></a>Signaler des problèmes relatifs à l’Espace partenaires
+# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Comment signaler des problèmes avec l’espace partenaires et envoyer des informations de journal ou de diagnostic
 
 **S’applique à**
 
-- Centre pour partenaires
+- Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
-
 
 Contactez le support technique si vous rencontrez des problèmes ou si vous avez besoin d’aide avec l’espace partenaires.
 
@@ -36,18 +36,18 @@ Contactez le support technique si vous rencontrez des problèmes ou si vous avez
 
 4. Si les **solutions recommandées** résolvent votre problème, vous pouvez sélectionner **revenir au tableau de bord**. Si vous avez encore besoin d’aide, vous pouvez continuer et **fournir des détails sur le problème**.
 
-5. Renseignez les **Détails du problème** , puis **envoyez**. Un représentant du support technique partenaire vous suivra...
+5. Renseignez les **Détails du problème** , puis **envoyez**. Un représentant du support technique partenaire vous contactera.
 
 **Envoyer des diagnostics**
 
-Si une erreur se produit pendant que vous êtes sur une page de l’espace partenaires, vous pouvez être invité à collecter les informations du journal. Sélectionnez **Collect more information** dans le menu qui se déroule à partir du haut de la page pour ouvrir l’outil Client Diagnostic. Cet outil collecte les informations dont l'équipe de support partenaire a besoin pour déterminer la cause de l’erreur. 
+Si une erreur se produit pendant que vous êtes sur une page de l’espace partenaires, vous pouvez être invité à collecter les informations du journal. Sélectionnez **collecter plus d’informations** à partir du lien qui s’affiche en haut de la page pour ouvrir l’outil de diagnostic client. Cet outil collecte les informations dont l’équipe du support des partenaires a besoin pour déterminer la cause de l’erreur. 
 
 >[!NOTE]
->Dans les pages de l'Espace partenaires qui incluent **/pcv/** dans l’URL, vous pouvez ouvrir l’outil manuellement pour collecter ces informations.
+>Sur les pages de l’espace partenaires qui incluent **/PCV/** dans l’URL, vous pouvez ouvrir l’outil manuellement pour collecter ces informations.
 
 1. Accédez à la page présentant le problème.
 
-2. Appuyez sur **Ctrl+Alt+D** pour ouvrir l’outil Client Diagnostic.
+2. Appuyez sur **CTRL + ALT + D** pour ouvrir l’outil de diagnostic client.
 
 Vous pouvez consulter les informations de diagnostic et les enregistrer dans un fichier à joindre à votre demande de support. Pour nous envoyer les informations :
 
@@ -60,5 +60,5 @@ Vous pouvez consulter les informations de diagnostic et les enregistrer dans un 
 
 5. Joignez le fichier à votre demande de support.
 
-Le support partenaire peut vous demander d'exécuter cet outil plusieurs fois pour obtenir des informations actualisées.
+Le support partenaires peut vous demander d’exécuter cet outil plusieurs fois afin de pouvoir obtenir les informations les plus récentes.
 

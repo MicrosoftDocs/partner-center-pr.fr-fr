@@ -1,22 +1,23 @@
 ---
 title: Fonctionnalités de facturation directe limitées
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Les partenaires directs qui ne sont pas conformes à la nouvelle exigence ont des fonctionnalités de facture directe limitées
+description: En savoir plus sur les conditions requises pour les partenaires de facturation directe et la procédure à suivre pour éviter que des fonctionnalités soient limitées. Déterminez si vos fonctionnalités ont été limitées.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture directe, restreindre
-ms.openlocfilehash: ae2a1a66f1a93e8b8183a307eca395e9781a00df
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362427"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467229"
 ---
-# <a name="restricted-direct-bill-capabilities"></a>Fonctionnalités de facturation directe limitées  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Fonctionnalités de facture directe restreintes et exigences requises pour les partenaires de facturation directe de fournisseurs de solutions Cloud  
 
 ## <a name="overview"></a>Vue d’ensemble
 
@@ -42,22 +43,29 @@ Pour vérifier si l’accès du locataire du partenaire de facturation directe a
 Si vos capacités de facturation directe ont été restreintes, vous ne pouvez plus effectuer de nouveaux achats pour vos clients dans l’espace partenaires. Cette restriction comprend les éléments suivants :
 
 - Abonnements Azure
+
 - Abonnements basés sur les sièges
+
 - Ajoutez de nouveaux modules complémentaires aux abonnements basés sur les sièges existants.
+
 - Achetez des logiciels et des produits de réservation à l’heure (par exemple, les abonnements logiciels, les logiciels perpétuelles et les instances de machines virtuelles réservées Azure).
 
-Vous ne pouvez pas non plus acheter de nouveaux abonnements Azure pour votre propre utilisation à l’aide de l' [offre de services partagés de partenaires Azure](shared-services.md) dans le cadre du programme CSP.
+Vous ne pouvez pas non plus utiliser l' [offre de services partagés de partenaires Azure](shared-services.md) dans le cadre du programme CSP pour acheter de nouveaux abonnements Azure pour votre usage personnel.
 
 Les abonnements à facture directe existants ne sont pas affectés. Ils restent valides et sont renouvelés à l’autorenouvellement. Vous continuerez à être facturé directement par Microsoft jusqu’à ce qu’il soit annulé. Vous pouvez toujours gérer les abonnements existants des manières suivantes :
 
 - Suspendre les abonnements existants
+
 - Ajuster le nombre de sièges des abonnements basés sur les sièges existants
+
 - Ajustez le nombre de sièges des modules complémentaires existants à un abonnement. Remarque : vous ne pouvez pas ajouter de nouveaux modules complémentaires aux abonnements existants, car ils sont traités comme un nouvel achat.
+
 - Déployez de nouvelles ressources Azure et gérez les ressources Azure existantes dans les abonnements Azure existants. Cela comprend les ressources qui sont disponibles via la place de marché Azure et les abonnements Visual Studio.
 
 En plus des nouveaux achats, vous ne pouvez pas accéder aux fonctionnalités de facture directe suivantes dans l’espace partenaires :
 
 - Vous ne pouvez pas créer de nouveaux locataires client. L’option **créer un client** sous la page **clients** dans l’espace partenaires n’est pas disponible.
+
 - Vous ne pouvez pas générer d’invitation à un client demandant une relation directe des revendeurs. L’option **demander une relation de revendeur** sous la page **clients** de l’espace partenaires n’est pas disponible.
 
     >[!Note]

@@ -1,7 +1,7 @@
 ---
-title: Développer votre activité avec des références de Microsoft | Espace partenaires
+title: Développez votre activité avec des références Microsoft
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment créer un profil d’entreprise pour générer des prospects de ventes par le biais de la fonctionnalité de références de l’espace partenaires, puis pour répondre à ces références.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: références, profil commercial, rechercher un partenaire
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943252"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467439"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -22,7 +23,7 @@ ms.locfileid: "74943252"
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
 De nombreux clients recherchent des experts qualifiés capables de les aider à implémenter les solutions technologiques et commerciales de Microsoft. Chez Microsoft, nous recevons souvent directement des demandes d’aide de clients par le biais de nos activités marketing et de la part de nos agents commerciaux Microsoft en interne. Les clients utilisent également l’[expérience **Rechercher un fournisseur de solutions**](https://www.microsoft.com/solution-providers/search) pour trouver des sociétés capables de répondre aux besoins de leur entreprise. 
 

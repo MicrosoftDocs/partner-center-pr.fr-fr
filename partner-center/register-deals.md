@@ -1,27 +1,27 @@
 ---
-title: Enregistrer vos transactions | Espace partenaires
+title: Enregistrer vos transactions
 ms.topic: article
-ms.date: 08/28/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lorsque vous inscrivez un contrat que vous avez remporté dans l’espace partenaires, Microsoft vous offre plus d’opportunités à l’avenir.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 keywords: enregistrement de transactions
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943222"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467409"
 ---
-# <a name="register-your-deals"></a>Enregistrer vos transactions
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Inscrivez les demandes que vous avez remportées dans l’espace partenaires pour pouvoir obtenir davantage d’opportunités ultérieurement
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
 Vous pouvez enregistrer les transactions que vous avez conclues dans l’Espace partenaires en fournissant des informations supplémentaires sur le contrat. Ces informations nous permettent de vous proposer ensuite plus d’opportunités.
 
@@ -41,7 +41,7 @@ Sur la page **Nouvelle transaction**, fournissez les informations suivantes.
 - **Valeur totale du contrat**: valeur totale attendue pour l’engagement. Elle doit inclure tous les frais liés aux logiciels et aux services, mais pas les coûts matériels. Veillez à sélectionner la devise qui convient.
 - **Valeur**de la solution : valeur totale de la solution cloud qui sera utilisée pour la transaction. Veillez à inclure tous les coûts associés aux frais liés aux logiciels et à la maintenance, mais n’incluez pas les éléments remboursables, les frais de personnalisation non périodiques ou les frais de licence Fournisseur de solutions Microsoft Cloud directement associés payés par Microsoft.
 - **Déployé sur**: sélectionnez **Azure** ou un **autre**.
-- **Où la solution sera-t-elle déployée ?** : sélectionnez le **locataire client** ou le **locataire partenaire**.
+- **Où la solution sera-t-elle déployée ?**: sélectionnez le **locataire client** ou le **locataire partenaire**.
 - **Date de début du contrat**: date de début du contrat.
 - **Date de fin du contrat**: si le contrat se termine à une date spécifique, sélectionnez **a une date de fin** et indiquez cette date. Sinon, sélectionnez **Perpétuel**.
 - **Date de signature du contrat**: date à laquelle le contrat final a été signé par votre organisation et par le client.
@@ -65,6 +65,6 @@ Sur la page **Références > Enregistrement des transactions > En cours** s'affi
 
 Si des informations doivent être mises à jour, vous pouvez déplacer l’enregistrement de la transaction vers la page **Action requise**.
 
-### <a name="closed"></a>Clos
+### <a name="closed"></a>Fermé
 
 Sur la page **Références > Enregistrements des transactions > Clos** s'affichent les transactions enregistrées et examinées par Microsoft. Vous pouvez utiliser les filtres pour afficher uniquement les enregistrements de transactions **Approuvés** ou **Refusés**.
