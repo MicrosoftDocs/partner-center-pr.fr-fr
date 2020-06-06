@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: éducation, segments spéciaux
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426008"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453296"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Comment vendre des offres à des clients de formation & comment créer un client de formation dans l’espace partenaires
 
@@ -41,15 +41,15 @@ Cet article explique comment créer un client de formation dans l’espace parte
 
 2. Sélectionnez **clients** , puis **Ajouter un client**. Sélectionnez **Education** dans la liste déroulante **qualifications spéciales** .  Renseignez le reste des informations de compte en fonction des besoins.  Les champs clés qui facilitent le processus d’instruction sont les suivants :
 
-   - Nom de la société : entrez le nom de l’entité légale-requis pour l’instruction
-   - Lignes du pays/de la région et de l’adresse : entrez l’adresse POSTALe de l’entité complète – obligatoire pour l’instruction
-   - Adresse de messagerie : entrez l’adresse de messagerie de l’entité, et non un e-mail gratuit ou on.microsoft.com, requis pour l’évaluation
-   - Coordonnées du client : ces informations seront utilisées dans le cadre du processus d’instruction.
-   - Nom de domaine principal : utilisé pour créer le compte et les adresses de messagerie du client.  Choisissez un nom similaire au nom de la société sans espaces ni caractères spéciaux.  Ce nom ne peut pas être modifié ultérieurement.
+   - **Nom**de la société : entrez le nom de l’entité légale-requis pour l’instruction
+   - **Lignes du pays/de la région et**de l’adresse : entrez l’adresse postale de l’entité complète – obligatoire pour l’instruction
+   - **Adresse de messagerie**: entrez l’adresse de messagerie de l’entité, et non un e-mail gratuit ou on.Microsoft.com, requis pour l’évaluation
+   - Coordonnées du **client**: ces informations seront utilisées dans le cadre du processus d’instruction.
+   - **Nom de domaine principal**: utilisé pour créer le compte et les adresses de messagerie du client.  Choisissez un nom similaire au nom de la société sans espaces ni caractères spéciaux.  Ce nom ne peut pas être modifié ultérieurement.
 
 3. Lorsque vous avez terminé, sélectionnez **examiner**.
 
-![Compte client Education](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Compte client Education":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>Confirmez l’état de vérification de votre client Education
 
@@ -58,15 +58,15 @@ Exemples d’État :
 
 - Si le client a passé l’assistance : éducation
 
-   ![Vérification réussie de l’éducation](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Vérification réussie de l’éducation":::
 
 - Si le client n’a pas réussi la vérification : n’est pas un client éducatif
 
-   ![Échec de l’instruction d’éducation](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Échec de l’instruction d’éducation":::
 
 - Si le client n’a pas été marqué comme client éducation : aucun
 
-   ![Éducation non marquée](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="Éducation non marquée":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Corriger les informations du compte client et soumettre à nouveau l’instruction  
 

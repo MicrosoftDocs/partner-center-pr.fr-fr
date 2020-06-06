@@ -8,16 +8,15 @@ description: Synchroniser vos références dans l’espace partenaires avec votr
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 128ae914ef76ba0e1431b0aa7319442b51677973
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145103"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453256"
 ---
-# <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de co-vente pour Salesforce CRM-vue d’ensemble
+# <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
 ### <a name="appropriate-roles"></a>Rôles appropriés
 
@@ -27,7 +26,6 @@ ms.locfileid: "84145103"
 Le connecteur de co-vente de l’espace partenaires permet à vos vendeurs de vendre leurs produits auprès de Microsoft à partir de vos systèmes CRM. Ils n’ont pas besoin d’être formés pour utiliser l’espace partenaires pour gérer les ventes de covente. À l’aide des connecteurs de covente, vous pouvez créer une référence de covente pour contacter un vendeur Microsoft, recevoir des références de la part du vendeur Microsoft, accepter/refuser des références, modifier les données de l’offre, telles que la valeur de la transaction, et la date de clôture.  Vous pouvez également recevoir toutes les mises à jour des vendeurs Microsoft sur ces offres de covente. Vous pouvez faire en sorte que toutes vos références fonctionnent lorsque vous travaillez dans le CRM de votre choix plutôt que dans l’espace partenaires. 
 
 La solution est basée sur Microsoft Power Automated solution et utilise les API de l’espace partenaires.
-
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
@@ -44,31 +42,31 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 1. Accédez à [Power automate](https://flow.microsoft.com) et sélectionnez **environnements** dans le coin supérieur droit. Les instances CRM disponibles s’affichent.
 
-2. Sélectionnez l’instance CRM appropriée dans la liste déroulante dans le coin supérieur droit. 
+2. Sélectionnez l’instance CRM appropriée dans la liste déroulante dans le coin supérieur droit.
 
 3. Sélectionnez **solutions** dans la barre de navigation de gauche.
 
 4. Cliquez sur le lien **ouvrir AppSource** dans le menu supérieur.
 
-![Ouvrir AppSource](images/cosellconnectors/openappsource.png)
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Ouvrir AppSource":::
 
 5. Recherchez les **connecteurs de références de l’espace partenaires pour Salesforce** dans l’écran contextuel.  
 
-![Salesforce](images/salesforce/salesforce1.png)
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Cliquez sur le bouton **Télécharger maintenant** , puis sur **Continuer**. 
+6. Cliquez sur le bouton **Télécharger maintenant** , puis sur **Continuer**.
 
 7. Cela ouvre la page dans laquelle vous pouvez sélectionner l’environnement CRM Salesforce pour installer l’application.  Acceptez les conditions générales.
 
-![CRM disponibles](images/salesforce/available-crm.png)
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="CRM disponibles":::
 
-8. Vous êtes ensuite dirigé vers la page **gérer vos solutions** .  Accédez à « références de l’espace partenaires » à l’aide des flèches en bas de la page. **L’installation planifiée** doit s’afficher en regard de solution de références de l’espace partenaires. L’installation prendra 10-15 minutes. 
+8. Vous êtes ensuite dirigé vers la page **gérer vos solutions** .  Accédez à « références de l’espace partenaires » à l’aide des flèches en bas de la page. **L’installation planifiée** doit s’afficher en regard de solution de références de l’espace partenaires. L’installation prendra 10-15 minutes.
 
 9. Une fois l’installation terminée, revenez à [Power automate](https://flow.microsoft.com) et sélectionnez **solutions** dans la zone de navigation de gauche. Notez que la **synchronisation des références de l’espace partenaires pour Salesforce** est disponible dans la liste des solutions.
 
 10. Sélectionnez la **synchronisation des références de l’espace partenaires pour Salesforce**. Les flux et entités Power automate suivants sont disponibles :
 
-![Flux Salesforce](images/salesforce/salesforce-flows.png)
+    :::image type="content" source="images/salesforce/salesforce-flows.png" alt-text="Flux Salesforce":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Meilleure pratique : testez avant de passer en direct
 
@@ -80,7 +78,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 - Testez la solution sur une instance intermédiaire/CRM.
 
-- En cas de réussite, importez en tant que solution gérée dans l’instance de production. 
+- En cas de réussite, importez en tant que solution gérée dans l’instance de production.
 
 ## <a name="configure-the-solution"></a>Configurer la solution
 
@@ -88,25 +86,25 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 2. Dans la liste déroulante **environnements** dans l’angle supérieur droit, sélectionnez l’instance CRM dans laquelle vous avez installé la solution Power automate.
 
-3. Vous devrez créer des connexions qui associent les trois comptes d’utilisateur : 
+3. Vous devrez créer des connexions qui associent les trois comptes d’utilisateur :
 
-- Utilisateur de l’espace partenaires avec les informations d’identification d’administrateur de références 
-- Événements de l’Espace partenaires
-- L’administrateur CRM avec les flux Power automate dans la solution. 
+   - Utilisateur de l’espace partenaires avec les informations d’identification d’administrateur de références
+   - Événements de l’Espace partenaires
+   - L’administrateur CRM avec les flux Power automate dans la solution.
 
-    a. Sélectionnez **connexions** dans la barre de navigation de gauche et sélectionnez la solution « références de l’espace partenaires » dans la liste.
+   1. Sélectionnez **connexions** dans la barre de navigation de gauche et sélectionnez la solution « références de l’espace partenaires » dans la liste.
 
-    b. Créez une connexion en cliquant sur **créer une connexion**. 
+   2. Créez une connexion en cliquant sur **créer une connexion**.
 
-    ![Créer une connexion](images/cosellconnectors/createconnection.png)
+       :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Créer une connexion":::
 
-    c. Recherchez les **références de l’espace partenaires (** préversion) dans la barre de recherche dans le coin supérieur droit.
+   3. Recherchez les **références de l’espace partenaires (** préversion) dans la barre de recherche dans le coin supérieur droit.
 
-    d. Créez une connexion pour votre utilisateur de l’espace partenaires avec le rôle informations d’identification de l’administrateur de références.
+   4. Créez une connexion pour votre utilisateur de l’espace partenaires avec le rôle informations d’identification de l’administrateur de références.
 
-    e. Ensuite, créez une connexion des événements de l’espace partenaires pour votre utilisateur de l’espace partenaires avec les informations d’identification de l’administrateur des références.
-    
-    f. Créez une connexion pour Common Data Service (environnement actuel) pour l’utilisateur administrateur CRM.
+   5. Ensuite, créez une connexion des événements de l’espace partenaires pour votre utilisateur de l’espace partenaires avec les informations d’identification de l’administrateur des références.
+
+   6. Créez une connexion pour Common Data Service (environnement actuel) pour l’utilisateur administrateur CRM.
 
 4. Pour associer les flux Power automate avec les connexions, modifiez chacun des flux Power automate pour vous connecter à Common Data Service et aux références de l’espace partenaires. Enregistrez les modifications.
 
@@ -120,15 +118,15 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 2. Ajouter des connexions pour (a.) Utilisateur de l’espace partenaires avec des références d’administrateur d’administration (b.) Événements de l’espace partenaires mis en surbrillance ci-dessous
 
-![Déclencheur](images/cosellconnectors/triggerflow.png)
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Déclencheur":::
 
 3. Lorsque vous effectuez ces mises à jour, vous verrez
 
-![Webhooks](images/cosellconnectors/webhook1.png)
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
 
-4. Enregistrez vos modifications et sélectionnez **activer**. 
+4. Enregistrez vos modifications et sélectionnez **activer**.
 
-Pour activer les webhooks de l’espace partenaires afin d’écouter les modifications des événements, procédez comme suit :
+   Pour activer les webhooks de l’espace partenaires afin d’écouter les modifications des événements, procédez comme suit :
 
 5. Sélectionnez l' **espace partenaires pour Salesforce CRM (version préliminaire d’Insider)**.
 
@@ -136,19 +134,19 @@ Pour activer les webhooks de l’espace partenaires afin d’écouter les modifi
 
 7. Sélectionnez l’icône de **copie** pour copier l’URL http postale fournie.
 
-![Copier l’URL](images/salesforce/copy-url.png)
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Copier l’URL":::
 
 8. Maintenant, sélectionnez l’option inscription à un webhook de l’espace partenaires (version préliminaire d’Insider) et sélectionnez **exécuter**.
 
 9. Vérifiez que la fenêtre « exécuter le workflow » s’affiche dans le volet de droite, puis cliquez sur **Continuer**.
 
-10. Entrez les informations suivantes : 
+10. Entrez les informations suivantes :
 
-    a. **Point de terminaison du déclencheur http**: URL copiée à partir de l’étape précédente
+    1. **Point de terminaison du déclencheur http**: URL copiée à partir de l’étape précédente
 
-    b. **Événements à inscrire**: « création de références » et « référencement-mis à jour »
+    2. **Événements à inscrire**: « création de références » et « référencement-mis à jour »
 
-    c. **Remplacer les points de terminaison déclencheurs existants s'** ils sont présents : Oui (cette valeur remplace tous les points de terminaison existants). 
+    3. **Remplacer les points de terminaison déclencheurs existants s'** ils sont présents : Oui (cette valeur remplace tous les points de terminaison existants).
 
 11. Sélectionnez **exécuter** , puis sélectionnez **terminé.**
 
@@ -162,41 +160,41 @@ Souvent, les systèmes CRM sont hautement personnalisés. Vous pouvez personnali
 
 Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être personnalisées en fonction de vos besoins. Voici quelques exemples de personnalisations disponibles :
 
-1. Pour personnaliser les champs pour les événements de création ou de mise à jour dans l’espace partenaires pour la synchronisation de références CRM : 
+1. Pour personnaliser les champs pour les événements de création ou de mise à jour dans l’espace partenaires pour la synchronisation de références CRM :
 
-    a. Sélectionnez l’espace partenaires pour Salesforce CRM (version préliminaire d’Insider).
+   1. Sélectionnez l’espace partenaires pour Salesforce CRM (version préliminaire d’Insider).
 
-    b. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
+   2. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
 
-    c. Sélectionnez **(étendue) synchroniser le prospect ou l’opportunité**.
+   3. Sélectionnez **(étendue) synchroniser le prospect ou l’opportunité**.
 
 2. Pour personnaliser les mappages de champs CRM pour les événements de création, sélectionnez **s’il s’agit d’une nouvelle opportunité partagée, puis**. Sélectionnez la sous-étape **si oui** , puis développez **création d’une nouvelle opportunité dans le CRM**. Vous pouvez modifier les mappages dans cette section à l’aide du Guide de mappage de champs.
 
-    d. Pour personnaliser les mappages de champs CRM pour les événements de mise à jour, cliquez sur l’étape « (étendue) synchroniser le prospect ou l’opportunité ».
+   1. Pour personnaliser les mappages de champs CRM pour les événements de mise à jour, cliquez sur l’étape « (étendue) synchroniser le prospect ou l’opportunité ».
 
-    e. Sélectionnez **s’il s’agit d’une mise à jour d’une opportunité, puis**. Sélectionnez la sous-étape **si oui** , puis développez **si la différence entre les objets d’opportunité dans l’espace partenaires et CRM est déplacée**.  
+   2. Sélectionnez **s’il s’agit d’une mise à jour d’une opportunité, puis**. Sélectionnez la sous-étape **si oui** , puis développez **si la différence entre les objets d’opportunité dans l’espace partenaires et CRM est déplacée**.  
 
-    f. Sélectionner **si oui** suivi de **mettre à jour l’opportunité existante**
-       
+   3. Sélectionner **si oui** suivi de **mettre à jour l’opportunité existante**
+
 3. Pour personnaliser les champs pour la synchronisation des références de CRM à PC pour les événements de mise à jour :
 
-    a. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
+   1. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
 
-    b. Sélectionnez **(étendue) synchroniser l’opportunité**.
+   2. Sélectionnez **(étendue) synchroniser l’opportunité**.
 
-    c. Pour personnaliser les mappages de champs CRM (en fonction du Guide des mappages de champs) pour les événements de mise à jour, sélectionnez **s’il existe une différence entre les objets de Prospect dans l’espace partenaires et CRM, puis**. 
+   3. Pour personnaliser les mappages de champs CRM (en fonction du Guide des mappages de champs) pour les événements de mise à jour, sélectionnez **s’il existe une différence entre les objets de Prospect dans l’espace partenaires et CRM, puis**.
 
-    d. Sélectionnez la sous-étape **si oui** , puis développez l’étape **mettre à jour une référence avec les données d’opportunité**.
+   4. Sélectionnez la sous-étape **si oui** , puis développez l’étape **mettre à jour une référence avec les données d’opportunité**.
 
-Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
+   Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
 
 4. Pour personnaliser les champs de la synchronisation de référence de CRM à PC pour les événements de création ?
 
-   a. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
+   1. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
 
-   b. Sélectionnez **(étendue) synchronisation des références.**
+   2. Sélectionnez **(étendue) synchronisation des références.**
 
-   c. Pour personnaliser les mappages de champs CRM (en fonction du Guide des mappages de champs) pour créer des événements, sélectionnez **créer une référence Microsoft**. 
+   3. Pour personnaliser les mappages de champs CRM (en fonction du Guide des mappages de champs) pour créer des événements, sélectionnez **créer une référence Microsoft**.
 
 Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
 
@@ -209,64 +207,57 @@ L’utilisateur administrateur CRM Salesforce devra créer une section CRM disti
 
 Les champs personnalisés suivants doivent faire partie de la section CRM :
 
-• **Synchronisation avec l’espace partenaires**: s’il faut synchroniser l’opportunité avec l’espace partenaires Microsoft
+- **Synchroniser avec l’espace partenaires**: s’il faut synchroniser l’opportunité avec l’espace partenaires Microsoft
 
-• **Identificateur de référence**: champ d’identificateur en lecture seule pour la référence de l’espace partenaires Microsoft
+- **Identificateur de référence**: champ d’identificateur en lecture seule pour la référence de l’espace partenaires Microsoft
 
-• **Lien de référence**: lien en lecture seule vers la référence dans l’espace partenaires Microsoft
+- **Lien de référence**: lien en lecture seule vers la référence dans l’espace partenaires Microsoft
 
-• **Comment Microsoft peut-il vous aider ?** Aide requise de Microsoft pour la référence
+- **Comment Microsoft peut-il vous aider ?** Aide requise de Microsoft pour la référence
 
-• **Products**: liste des produits associés à cette opportunité
+- **Produits**: liste des produits associés à cette opportunité
 
-• **Audit**: une piste d’audit en lecture seule pour la synchronisation avec la référence de l’espace partenaires Microsoft
+- **Audit**: piste d’audit en lecture seule pour la synchronisation avec la référence de l’espace partenaires Microsoft
 
 ### <a name="set-up-fields-and-relationships"></a>Définir des champs et des relations
 
-1. Connectez-vous à votre compte Salesforce et accédez à **opportunité**. 
+1. Connectez-vous à votre compte Salesforce et accédez à **opportunité**.
 
 2. Cliquez sur les options **d’installation** et de **modification d’objet** pour ajouter les champs nécessaires.
 
-
 3. Sélectionner les **champs & les relations** dans le volet de navigation gauche
 
-![Champs](images/salesforce/fields1.png)
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
 
-4. Ajoutez les champs suivants dans la table « Field & Relationship » :
+4. Ajoutez les champs suivants dans la table **fields & Relationship** :
 
-|**Étiquette du champ**   |**Nom du champ**|**Type de données**|**Indexée**|
-|---------------------|:-------------------|:--------------|:----------------|
-|Synchroniser avec l’espace partenaires|synchronisation avec Partner-Center-c|Case à cocher (désactivé par défaut)||
-|Products|Produits-c|texte (255)||
-|Referral | Referral_Identifier__c|Texte (100) (ID externe)|Oui|
-|Lien de référence| Referral_Link__c_|URL (255)||
-|Audit| Audit__c|Longue zone de texte (100000) (ligne visible 4)||
-|Comment Microsoft peut-il vous aider ?|How_can_Microsoft_help__c|Liste déroulante|
+   |**Étiquette du champ**   |**Nom du champ**|**Type de données**|**Indexée**|
+   |---------------------|:-------------------|:--------------|:----------------|
+   |Audit|  Audit__c|Longue zone de texte (100000) (ligne visible 4)||
+   |Comment Microsoft peut-il vous aider ?|H ow_can_Microsoft_help__c|Liste déroulante|
+   |Produits|Produits-c|texte (255)||
+   |Referral |  Referral_Identi fier__c|Texte (100) (ID externe)|Oui|
+   |Lien de référence|   Referral_Link__c_|URL (255)||
+   |Synchroniser avec le CEN de partenaires|synchronisation avec Partner-Center-c|Case à cocher (désactivé par défaut)||
 
-* Valeurs de liste déroulante :
+   * Valeurs de liste déroulante :
 
-• Proposition de valeur spécifique à la charge de travail
+   - Proposition de valeur spécifique à la charge de travail
+   - Architecture technique du client
+   - Preuve de concept ou démonstration
+   - Devis ou licences
+   - Succès du client après la vente
+   - Général ou autre
 
-• Architecture technique du client
+5. Les champs sont créés sous les **champs & les relations**
 
-• Preuve de concept ou de démonstration
+   :::image type="content" source="images/salesforce/fields2.png" alt-text="Champs créés":::
 
-• Devis ou licences
+6. Dans la disposition opportunité, créez une section distincte avec les champs comme indiqué ci-dessus.
 
-• Succès du client après la vente
+   - Cette section doit être disponible pour les vendeurs dans la disposition opportunité.
 
-• Général ou autre
-
-5. les champs sont créés sous « champs & relations ».
-
-![Champs créés](images/salesforce/fields2.png)
-
-6. Dans la disposition opportunité, créez une section distincte avec les champs comme indiqué ci-dessus. 
-
-    • Cette section doit être disponible pour les vendeurs dans la disposition des opportunités
-
-
-![Disposition des champs de l’espace partenaires](images/salesforce/pc-fields-layout.png)
+   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="Disposition des champs de l’espace partenaires":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Synchronisation bidirectionnelle de la direction de la co-vente de bout en bout
 
@@ -292,54 +283,43 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
 - **Audit**: piste d’audit en lecture seule pour la synchronisation avec les références de l’espace partenaires
 
-
 ### <a name="scenarios"></a>SCÉNARIO
 
 1. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans CRM et synchronisée dans l’espace partenaires :
 
-    a. Connectez-vous à votre environnement CRM Salesforce avec un utilisateur qui dispose de la visibilité dans la section **opportunité** de CRM.
+   1. Connectez-vous à votre environnement CRM Salesforce avec un utilisateur qui dispose de la visibilité dans la section **opportunité** de CRM.
 
-    b. Vérifiez que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement CRM Salesforce
+   2. Vérifiez que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement CRM Salesforce
 
-    ![Environnement Salesforce](images/salesforce/salesforce-scenario-1.png)
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Environnement Salesforce":::
 
-   
+   3. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
 
-    c. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
+       - « Synchroniser avec l’espace partenaires » : Oui
+       - « Comment Microsoft peut-il m’aider ? » : sélectionnez l’une des options suivantes :
+       - Produits : ID de solution du produit
 
-    - « Synchroniser avec l’espace partenaires » : Oui
+   4. Une fois que vous avez défini l’option **synchroniser l’opportunité avec l’espace partenaires** sur **Oui**, patientez 10 minutes, connectez-vous à votre compte espace partenaires. Vos références seront synchronisées avec Salesforce CRM.
 
-    - « Comment Microsoft peut-il m’aider ? » : sélectionnez l’une des options suivantes :
+   5. Lorsque l’option « synchroniser avec l’espace partenaires » est définie sur « Oui », si vous mettez à jour l’opportunité dans Salesforce CRM, les modifications sont synchronisées avec votre compte espace partenaires.
 
-   
+   6. Les opportunités qui ont été correctement synchronisées avec l’espace partenaires sont identifiées avec l’icône ✔ dans Salesforce CRM.
 
-    - Produits : ID de solution du produit
+2. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans l’espace partenaires Microsoft et synchronisée dans l’environnement CRM Salesforce :
 
-    d. Une fois que vous avez défini l’option **synchroniser l’opportunité avec l’espace partenaires** sur **Oui**, patientez 10 minutes, connectez-vous à votre compte espace partenaires. Vos références seront synchronisées avec Salesforce CRM.
+    1. Connectez-vous à votre [tableau de bord](https://partner.microsoft.com/dashboard/home)de l’espace partenaires.
 
-    e. Lorsque l’option « synchroniser avec l’espace partenaires » est définie sur « Oui », si vous mettez à jour l’opportunité dans Salesforce CRM, les modifications sont synchronisées avec votre compte espace partenaires.
+    2. Dans le menu de gauche, sélectionnez **références** .
 
-    f. Les opportunités qui ont été correctement synchronisées avec l’espace partenaires sont identifiées avec l’icône ✔ dans Salesforce CRM.
+    3. Pour créer une nouvelle référence de covente à partir de l’espace partenaires, cliquez sur l’option « nouvelle offre ».
 
-2. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans l’espace partenaires Microsoft et synchronisée dans l’environnement CRM Salesforce : 
+    4. Connectez-vous à votre environnement CRM Salesforce.
 
-    a. Connectez-vous à votre [tableau de bord](https://partner.microsoft.com/dashboard/home)de l’espace partenaires.
+    5. Accédez à **opportunités ouvertes**. La référence créée dans l’espace partenaires Microsoft est maintenant synchronisée dans Salesforce CRM.
 
-    b. Dans le menu de gauche, sélectionnez **références** .
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Écran d’opportunités Salesforce":::
 
-    c. Pour créer une nouvelle référence de covente à partir de l’espace partenaires, cliquez sur l’option « nouvelle offre ».
-
-    d. Connectez-vous à votre environnement CRM Salesforce. 
-
-    e. Accédez à **opportunités ouvertes**. La référence créée dans l’espace partenaires Microsoft est maintenant synchronisée dans Salesforce CRM.
-
-    ![Écran d’opportunités Salesforce](images/salesforce/salesforce-casino-e.png)
-
-    f. Lorsque vous sélectionnez une référence synchronisée, les détails de l’affichage de la carte sont remplis.
-
-
-
-
+    6. Lorsque vous sélectionnez une référence synchronisée, les détails de l’affichage de la carte sont remplis.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

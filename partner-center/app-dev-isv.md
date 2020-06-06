@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: compétences, ISV, développement d’applications
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907483"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452726"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exemption des exigences de l’examen à usage unique pour les compétences de développement d’applications
 
@@ -45,7 +45,7 @@ Partenaires avec une compétence de développement d’applications obtenue via 
 1. Dans le menu Espace partenaires de votre tableau de bord, sélectionnez **Compétences**.
 2. Dans la liste des compétences disponibles, le développement d’applications est marqué comme **terminé**.
 
-![ISV vers AppDev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV vers AppDev":::
 
 3. Sélectionnez **développement d’applications**. Vous verrez que vous avez reçu un remplacement qui exempte votre entreprise de la satisfaction des exigences de l’examen. 
 

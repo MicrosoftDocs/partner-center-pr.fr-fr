@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, réservations, machine virtuelle, gérer, utilisation, dimensionnement
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205777"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453276"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement des machines virtuelles Microsoft Azure pour une utilisation maximale de la réservation
 
@@ -54,23 +54,24 @@ Les instructions d’utilisation de chacune de ces méthodes sont présentées c
 3. Sélectionnez **machines virtuelles** dans le menu du portail, puis sélectionnez la machine virtuelle pour laquelle vous souhaitez acheter une réservation.
 4. Sur la page de détails de la machine virtuelle, recherchez les informations relatives à la taille et à la région, comme illustré ci-dessous, et utilisez ces informations pour acheter la réservation dans l’espace partenaires.  
 
-    ![Informations sur la taille et la région sur la page de détails](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="Informations sur la taille et la région sur la page de détails":::
 
 **Récupération d’informations de dimensionnement de machine virtuelle à l’aide de Microsoft Azure PowerShell**
 
 Utilisez les informations de l’image ci-dessous pour obtenir l’emplacement et la taille de la machine virtuelle pour laquelle vous souhaitez acheter une réservation. 
 
-![Emplacement et taille de la machine virtuelle](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="Emplacement et taille de la machine virtuelle":::
 
 **Récupération des informations de dimensionnement de machine virtuelle à l’aide de l’API Azure Resource Manager (ARM)**
 
 1. À l’aide des API ARMClient ou ARM, appelez le client ARM pour la machine virtuelle pour laquelle vous souhaitez acheter une réservation.
 
-2. /subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/Providers/Microsoft.Compute/virtualMachines/<VM Instance Name>? API-version = 2017-12-01
+2. /subscriptions/ <Subscription ID> /ResourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ? API-version = 2017-12-01
 
 3. L’appel retourne les valeurs pour **vmSize** et **location**, comme illustré ci-dessous.
 
-    ![valeur de](images/usage3.png) ![l’emplacement de la valeur vmSize](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="valeur vmSize":::
+    :::image type="content" source="images/usage4.png" alt-text="valeur d’emplacement":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Vérifier l’utilisation de la machine virtuelle Azure et la remise de réservation
 
@@ -110,7 +111,7 @@ Les instructions d’utilisation de chacune de ces méthodes sont présentées c
 
 Vous pouvez obtenir des données d’utilisation de réservation avec l’API d’utilisation d’Azure pour vérifier que le client obtient la remise de réservation et pour connaître les machines virtuelles (machines virtuelles) auxquelles la remise est appliquée. Comparez l’exemple A à l’exemple B pour voir comment vérifier l’utilisation de la réservation d’un client.
 
-![Exemples d’utilisation de la réservation](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="Exemples d’utilisation de la réservation":::
 
 - Le réservation identifie la réservation Azure qui a été utilisée pour appliquer la remise à la machine virtuelle.
 - Le compteur est le MeterId de la machine virtuelle à laquelle la remise de réservation est appliquée.

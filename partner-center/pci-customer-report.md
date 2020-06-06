@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e25a91a977372234c31aed9f285bf53ac8dafae3
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795711"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452996"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Rapports tableau de bord clients à partir de l’espace partenaires Insights
 
@@ -42,7 +42,7 @@ La section Résumé présente un aperçu des différents indicateurs de performa
 - Refuser le pourcentage de clients au cours de la plage de dates sélectionnée 
 - Le micro-graphique présente la tendance du mois sur le mois du nombre de clients sur la plage de dates sélectionnée
 
-![clients par produit](images/pci/customerproduct.png)
+:::image type="content" source="images/pci/customerproduct.png" alt-text="clients par produit":::
 
 **Clients actifs**:
 
@@ -65,13 +65,13 @@ Clients ajoutés :
 
 Le nombre de clients actuels, les clients actifs actuels et les clients nouvellement ajoutés au cours de la plage de dates sélectionnée sont géo-mappés à l’aide du pays du client. Les pourcentages affichés sous la mesure indiquent la contribution en pourcentage de ce pays au total de cette mesure. Vous pouvez pointer sur la carte pour afficher le nombre total de clients actifs et nouveaux pour ce pays. Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Rétablissez la vue d’origine en sélectionnant le bouton **démarrage** sur la carte. Toutes les colonnes de la grille peuvent être triées.  
 
-![clients par zone géographique](images/pci/customersgeo.png)
+:::image type="content" source="images/pci/customersgeo.png" alt-text="clients par zone géographique":::
 
 **Ajouts et évolutions du client**
 
 Tendance des clients avec une répartition en nouvelles, existantes et en évolution pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et l’axe des Y représente le nombre de clients. Les clients à l’évolution sont représentés sur l’échelle négative de l’axe des Y. Les histogrammes empilés présentent les pertes de clients nouveaux, existants et à l’évolution pour le mois. Vous pouvez régénérer l’histogramme avec des éléments de pile spécifiques en les sélectionnant dans la légende. Vous pouvez utiliser le curseur en haut du graphique pour effectuer un zoom avant sur une période spécifique. 
 
-![clients perdus](images/pci/customerslost.png)
+:::image type="content" source="images/pci/customerslost.png" alt-text="clients perdus":::
 
 **Distribution client**
 
@@ -81,20 +81,20 @@ La répartition de vos clients actuels par vos emplacements MPN, les segments de
 
 Répartition du nombre actuel de clients par produit et SKU/plans. Sélectionnez un produit dans le graphique en secteurs de rupture de produit pour afficher les ruptures par SKU/plans dans le graphique en regard de celui-ci.
 
-![clients par produit](images/pci/customerbyprod.png)
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="clients par produit":::
 
 **Tendance de la distribution client** 
 
 Tendance mensuelle de la distribution de vos clients au cours de la plage de dates sélectionnée par marchés, segments, vos emplacements MPN et les produits qu’ils ont acquis. Cliquez sur les onglets respectifs dans le graphique pour afficher la tendance selon ces catégories. L’axe des X représente les mois de la plage de dates que vous avez sélectionnée, et l’axe des ordonnées est le nombre de clients pour la catégorie sélectionnée (sélection de l’onglet). Vous pouvez pointer sur les colonnes du graphique pour afficher la répartition des valeurs de chaque pile. Vous pouvez utiliser le curseur en haut du graphique pour effectuer un zoom avant sur une période spécifique.   
 
-![distribution client](images/pci/customerdistri.png)
+:::image type="content" source="images/pci/customerdistri.png" alt-text="distribution client":::
 
 **Clients actifs**
 
 Graphique de tendance mensuelle comparant les clients actifs et totaux de la plage de dates sélectionnée. Les colonnes représentent le nombre de clients actifs chaque mois et la ligne représente le total des clients chaque mois. 
 
-![clients actifs](images/pci/activecustomer.png)
+:::image type="content" source="images/pci/activecustomer.png" alt-text="clients actifs":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).
+Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795674"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453125"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Azure disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -55,7 +55,7 @@ Le micro-graphique présente une tendance mensuelle de ACR US $ qui vous est att
 > [!NOTE]
  > Le chiffre d’affaires utilisé par Azure (ACR) ne sera visible que pour les utilisateurs qui se sont vu attribuer le rôle visionneuse de rapports exécutifs.
 
-![Résumé de l’utilisation d’Azure](images/pci/pci_azure_usage_summary_1.png)
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Résumé de l’utilisation d’Azure":::
 
 **Utilisation d’Azure par zone géographique**
 
@@ -65,7 +65,7 @@ Le tableau **nombre de pays/région** présente le nombre total de pays/régions
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Sélectionnez l’option de **démarrage** sur la carte pour revenir à la vue d’origine.
 
-![Utilisation d’Azure par zone géographique](images/pci/pci_azure_usage_by_geography_2.png)
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Utilisation d’Azure par zone géographique":::
 
 **Utilisation d’Azure**
 
@@ -73,7 +73,7 @@ Cette vue affiche les tendances du chiffre d’affaires de la consommation Azure
 
 Le graphique à barres présente la tendance mensuelle du chiffre d’affaires/de l’utilisation. Le graphique en courbes présente la tendance de croissance par rapport au mois précédent pour les catégories de niveau de service/mesure Azure sélectionnées.
 
-![Utilisation d’Azure usage](images/pci/pci_azure_usage_utilization_3.png)
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Utilisation d’Azure usage":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

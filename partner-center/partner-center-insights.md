@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328230"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453196"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Aperçus de l’espace partenaires : tableau de bord qui montre le fonctionnement d’un partenaire commercial Microsoft.
 
@@ -61,7 +61,7 @@ Les rapports suivants sont disponibles dans le tableau de bord Insights.
 
 **Filtres de plage de dates**: vous pouvez trouver une sélection de plage de dates dans l’angle supérieur droit de chaque page. La sortie des graphiques de la page vue d’ensemble peut être personnalisée en sélectionnant une plage de dates basée sur les 3, 6 ou 12 mois précédents, ou en sélectionnant une plage de dates personnalisée. La sélection de la plage de dates par défaut est de 12 mois. 
 
-![Carte d’introduction](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="Carte d’introduction":::
 
 **Bouton commentaires**: chaque graphique/contrôle de tous les rapports Insights est incorporé avec un bouton commentaires pour vous permettre de fournir des commentaires sur une fonctionnalité de rapport. 
 
@@ -74,7 +74,7 @@ Les rapports suivants sont disponibles dans le tableau de bord Insights.
 
 - Les filtres sélectionnés s’affichent en haut de la page. 
 
-![filtres](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="filtres":::
 
 ### <a name="filters-definitions"></a>Définitions de filtres :
 

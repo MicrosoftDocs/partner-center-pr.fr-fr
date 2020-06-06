@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1be2bfe63f7a6a39198756e9ef48ee5c0597d33b
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794991"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453286"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>L’espace partenaires a deux niveaux de comptes pour les partenaires MPN
 
@@ -50,26 +50,6 @@ Votre PGA peut avoir des emplacements d’entreprise supplémentaires. Chaque em
 - Tous les comptes d’emplacement se trouvent au même niveau et sous le compte global du partenaire.
 - Les administrateurs de comptes peuvent ajouter ou supprimer des emplacements.
 
-![Structure de compte](images/accountstructure.png)
+:::image type="content" source="images/accountstructure.png" alt-text="Structure de compte" border="false":::
 
-Pour plus d’informations sur la gestion des emplacements, consultez [gérer votre compte de partenaire : locations](manage-locations.md). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Pour plus d’informations sur la gestion des emplacements, consultez [gérer votre compte de partenaire : locations](manage-locations.md).

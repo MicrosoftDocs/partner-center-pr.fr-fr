@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, acheter
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362677"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458365"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Conseillers : créer une offre d’achat
 
@@ -59,4 +59,4 @@ Si votre client souhaite un nombre de licences différent, envoyez-lui une nouve
     - Indiquez aux clients qu’ils seront facturés directement par Microsoft.
     - Indiquez aux clients comment vous contacter pour obtenir des questions sur le service ou l’offre.
     - Indiquez aux clients qu’ils contrôlent le nombre de licences utilisateur achetées et peuvent modifier le nombre de licences lorsqu’ils acceptent l’offre.
-    - Lorsque vous proposez l’administration déléguée, expliquez à votre client ce que cela signifie et quelles sont vos responsabilités. Pour plus d’informations sur l’administration déléguée, consultez [offrir l’administration déléguée](customers_revoke_admin_privileges.md).
+    - Lorsque vous proposez l’administration déléguée, expliquez à votre client ce que cela signifie et quelles sont vos responsabilités. Pour plus d’informations sur l’administration déléguée, consultez [offrir l’administration déléguée](customers-revoke-admin-privileges.md).

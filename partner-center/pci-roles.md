@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fedeaad1898f4fade76bbf34c0bfe6bd2585a7cd
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6e20cc9c37ef68fcd1ca0ab22b2012fdd0b35149
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795642"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452696"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Contrôle d’accès en fonction du rôle au tableau de bord Insights de l’espace partenaires
 
@@ -24,9 +24,10 @@ Le tableau de bord Insights utilise deux nouveaux rôles dans l’espace partena
 
 Comme pour les autres rôles de l’espace partenaires, l’administrateur général ou l’administrateur de compte est en mesure d’affecter des utilisateurs à ces rôles dans la page gestion des utilisateurs. Les rôles peuvent être applicables à toute l’entreprise ou à des emplacements MPN spécifiques. Les rôles attribués à un ou plusieurs emplacements MPN spécifiques limitent l’utilisateur à afficher les données de rapports associées uniquement aux emplacements MPN sélectionnés. Le partenaire peut sélectionner un ou plusieurs emplacements dans la vue ci-dessous.
 
-![Rôles](images/pci/roles.png)
+:::image type="content" source="images/pci/roles.png" alt-text="Rôles":::
 
->Observe Les utilisateurs qui sont des administrateurs MPN à partir du 20 janvier, 2020 sont automatiquement ajoutés au rôle « visionneuse de rapports exécutifs » à l’ensemble de l’entreprise pour tous les emplacements de ce locataire. Ces utilisateurs peuvent ainsi accéder aux rapports en tant que visionneuse de rapports exécutif sans aucune action explicite requise par l’administrateur général ou l’administrateur de compte. Les administrateurs généraux et les administrateurs de compte peuvent remplacer les rôles affectés automatiquement de ces utilisateurs pour augmenter ou limiter davantage leurs fonctionnalités.
+>[!Note]
+> Les utilisateurs qui sont des administrateurs MPN à partir du 20 janvier, 2020 sont automatiquement ajoutés au rôle **visionneuse de rapports exécutifs** de l’entreprise pour tous les emplacements de ce locataire. Ces utilisateurs peuvent ainsi accéder aux rapports en tant que visionneuse de rapports exécutif sans aucune action explicite requise par l’administrateur général ou l’administrateur de compte. Les administrateurs généraux et les administrateurs de compte peuvent remplacer les rôles affectés automatiquement de ces utilisateurs pour augmenter ou limiter davantage leurs fonctionnalités.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

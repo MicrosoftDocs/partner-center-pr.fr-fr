@@ -1,8 +1,8 @@
 ---
 title: Taxes régionales et exonérations fiscales
 ms.topic: article
-ms.date: 04/28/2020
-description: En savoir plus sur les responsabilités fiscales pour votre région géographique spécifique et sur la façon d’envoyer des exemptions de taxe pour les ventes de votre fournisseur de services de chiffrement. En savoir plus sur la prise en charge des questions fiscales
+ms.date: 06/05/2020
+description: Pour les partenaires du programme CSP, Découvrez les responsabilités fiscales par région, comment envoyer des exemptions de taxe pour les ventes de fournisseurs de solutions et comment obtenir un support technique pour les questions fiscales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,15 +10,15 @@ author: LauraBrenner
 keywords: taxe, exonération fiscale, TVA, revendeur, facturation
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907804"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458295"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays pour les partenaires dans le programme CSP
 
 S’applique à :
 
@@ -67,7 +67,7 @@ Cela peut inclure des certificats d’exemption de revente qui fonctionnent sur 
 
 Si vous êtes dans un autre pays ou région dont les taxes sont facturées, [demandez de l’aide dans l’espace partenaires](#support) pour vos questions.
 
-## <a name="tax-receipts-and-daf"></a>Reçus de taxes et DAF
+## <a name="tax-receipts-and-daf"></a>Reçus fiscaux et DAF
 
 Les recettes fiscales (pour Taïwan ou la Corée du Sud) ou le rendu à la frontière (DAF) requièrent généralement un délai de deux&nbsp;semaines après la génération de la facture.
 
@@ -88,7 +88,7 @@ Ensuite, créez un ticket de support pour Microsoft avec vos informations d’ex
 2. Sur la page **demande de partenaire** , choisissez **nouvelle requête**. (Vous pouvez également afficher vos demandes de support ouvertes et fermées plus tard dans cette page.)
 3. À l’étape de **base** , **sous CSP-facturation et paiements**, choisissez **Sélectionner un type de problème** et sélectionner demande d' **exemption fiscale**.
 4. À l’étape **solutions** , sous avez **-vous besoin d’aide supplémentaire ?**, choisissez **Oui**.
-5. À l’étape **Détails** , renseignez le formulaire **Détails du problème** . Veillez à effectuer les opérations suivantes :
+5. À l’étape **Détails** , renseignez le formulaire **Détails du problème** . Veillez à :
 
     - Renseignez tous les champs obligatoires.
     - Incluez votre **ID Microsoft** et votre **ID MPN** dans le champ **Détails** .

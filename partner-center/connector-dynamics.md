@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 87b1d27fa2f42eeba3b0f8308648536c0686911e
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.openlocfilehash: fef5468e0dc51cd9830fda6fb2ae60df5d9f39b5
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145133"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453246"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -38,23 +38,23 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 |Rôles d’utilisateur de l’Espace partenaires|L’employé qui va installer et utiliser les connecteurs doit être un administrateur de références|[Affecter des rôles et des autorisations aux utilisateurs](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |Gestion de l’alimentation-automatiser le compte|Un compte Active [Power automate](https://flow.microsoft.com) actif pour l’administrateur système ou le personnalisateur système CRM. Cet utilisateur doit se connecter à [Power automate](https://flow.microsoft.com) au moins une fois avant l’installation.|
 
-## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installer la synchronisation des références de l’espace partenaires pour Dynamics 365 (solution Power automate) 
+## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installer la synchronisation des références de l’espace partenaires pour Dynamics 365 (solution Power automate)
 
 1. Accédez à [Power automate](https://flow.microsoft.com) et sélectionnez **environnements** dans le coin supérieur droit. Cette étape vous montrera les instances CRM disponibles.
 
-2. Sélectionnez l’instance CRM appropriée dans la liste déroulante dans le coin supérieur droit. 
+2. Sélectionnez l’instance CRM appropriée dans la liste déroulante dans le coin supérieur droit.
 
 3. Sélectionnez **solutions** dans la barre de navigation de gauche.
 
 4. Cliquez sur le lien **ouvrir AppSource** dans le menu supérieur.
 
-![Ouvrir AppSource](images/cosellconnectors/openappsource.png)
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Ouvrir AppSource":::
 
 5. Recherchez les **connecteurs de références de l’espace partenaires pour Dynamics365** dans l’écran contextuel.  
 
-6. Cliquez sur le bouton **Télécharger maintenant** , puis sur **Continuer**. 
+6. Cliquez sur le bouton **Télécharger maintenant** , puis sur **Continuer**.
 
-7. Cela ouvre la page dans laquelle vous pouvez sélectionner l’environnement CRM (Dynamics 365) pour installer l’application.  Acceptez les conditions générales. 
+7. Cela ouvre la page dans laquelle vous pouvez sélectionner l’environnement CRM (Dynamics 365) pour installer l’application.  Acceptez les conditions générales.
 
 8. Vous êtes ensuite dirigé vers la page **gérer vos solutions** .  Accédez à « références de l’espace partenaires » à l’aide des flèches en bas de la page. **L’installation planifiée** doit s’afficher en regard de solution de références de l’espace partenaires. L’installation prendra 10-15 minutes. 
 
@@ -62,7 +62,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 10. Sélectionnez la **synchronisation des références de l’espace partenaires pour Dynamics 365**. Les flux et entités Power automate suivants sont disponibles :
 
-![CRM disponibles](images/cosellconnectors/dynamics-available-crms.png)
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="CRM disponibles":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Meilleure pratique : testez avant de passer en direct
 
@@ -79,27 +79,27 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 2. Dans la liste déroulante **environnements** dans l’angle supérieur droit, sélectionnez l’instance CRM dans laquelle vous avez installé la solution Power automate.
 
-3. Vous devez créer des connexions qui associent les trois comptes d’utilisateur : 
+3. Vous devez créer des connexions qui associent les trois comptes d’utilisateur :
 
-- Utilisateur de l’espace partenaires avec les informations d’identification d’administrateur de références 
+   - Utilisateur de l’espace partenaires avec les informations d’identification d’administrateur de références
 
-- Événements de l’Espace partenaires
+   - Événements de l’Espace partenaires
 
-- L’administrateur CRM avec les flux Power automate dans la solution. 
+   - L’administrateur CRM avec les flux Power automate dans la solution.
 
-    a. Sélectionnez **connexions** dans la barre de navigation de gauche et sélectionnez la solution « références de l’espace partenaires » dans la liste.
+      1. Sélectionnez **connexions** dans la barre de navigation de gauche et sélectionnez la solution « références de l’espace partenaires » dans la liste.
 
-    b. Créez une connexion en cliquant sur **créer une connexion**.
+      2. Créez une connexion en cliquant sur **créer une connexion**.
 
-    ![Créer une connexion](images/cosellconnectors/createconnection.png)
+         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Créer une connexion":::
 
-    c. Recherchez les **références de l’espace partenaires (** préversion) dans la barre de recherche dans le coin supérieur droit.
+      3. Recherchez les **références de l’espace partenaires (** préversion) dans la barre de recherche dans le coin supérieur droit.
 
-    d. Créez une connexion pour votre utilisateur de l’espace partenaires avec le rôle informations d’identification de l’administrateur de références.
+      4. Créez une connexion pour votre utilisateur de l’espace partenaires avec le rôle informations d’identification de l’administrateur de références.
 
-    e. Ensuite, créez une connexion des événements de l’espace partenaires pour votre utilisateur de l’espace partenaires avec les informations d’identification de l’administrateur des références.
+      5. Ensuite, créez une connexion des événements de l’espace partenaires pour votre utilisateur de l’espace partenaires avec les informations d’identification de l’administrateur des références.
 
-    f. Créez une connexion pour Common Data Service (environnement actuel) pour l’utilisateur administrateur CRM.
+      6. Créez une connexion pour Common Data Service (environnement actuel) pour l’utilisateur administrateur CRM.
 
 4. Pour associer les flux Power automate avec les connexions, modifiez chacun des flux Power automate pour vous connecter à Common Data Service et aux références de l’espace partenaires. Enregistrez les modifications.
 
@@ -113,15 +113,15 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 2. Ajouter des connexions pour (a.) Utilisateur de l’espace partenaires avec des références d’administrateur d’administration (b.) Événements de l’espace partenaires mis en surbrillance ci-dessous
 
-![Déclencheur](images/cosellconnectors/triggerflow.png)
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Déclencheur":::
 
 3. Lorsque vous effectuez ces mises à jour, vous verrez
 
-![Webhooks](images/cosellconnectors/webhook1.png)
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
 
-4. Enregistrez vos modifications et sélectionnez **activer**. 
+4. Enregistrez vos modifications et sélectionnez **activer**.
 
-Pour activer les webhooks de l’espace partenaires afin d’écouter les modifications des événements, procédez comme suit :
+   Pour activer les webhooks de l’espace partenaires afin d’écouter les modifications des événements, procédez comme suit :
 
 5. Sélectionnez **espace partenaires sur Dynamics 365 (Insider Preview)**.
 
@@ -129,19 +129,19 @@ Pour activer les webhooks de l’espace partenaires afin d’écouter les modifi
 
 7. Sélectionnez l’icône de **copie** pour copier l’URL http postale fournie.
 
-![Copier l’URL](images/cosellconnectors/copyurl.png)
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copier l’URL":::
 
 8. Maintenant, sélectionnez l’option inscription à un webhook de l’espace partenaires (version préliminaire d’Insider) et sélectionnez **exécuter**.
 
 9. Vérifiez que la fenêtre « exécuter le workflow » s’affiche dans le volet de droite, puis cliquez sur **Continuer**.
 
-10. Entrez les informations suivantes : 
+10. Entrez les informations suivantes :
 
-    a. **Point de terminaison du déclencheur http**: URL copiée à partir de l’étape précédente
+    1. **Point de terminaison du déclencheur http**: URL copiée à partir de l’étape précédente
 
-    b. **Événements à inscrire**: « création de références » et « référencement-mis à jour »
+    2. **Événements à inscrire**: « création de références » et « référencement-mis à jour »
 
-    c. **Remplacer les points de terminaison déclencheurs existants s'** ils sont présents : Oui (cette valeur remplace tous les points de terminaison existants). 
+    3. **Remplacer les points de terminaison déclencheurs existants s'** ils sont présents : Oui (cette valeur remplace tous les points de terminaison existants).
 
 11. Sélectionnez **exécuter** , puis sélectionnez **terminé.**
 
@@ -170,7 +170,7 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
     e. Sélectionnez **s’il s’agit d’une mise à jour d’une opportunité, puis**. Sélectionnez la sous-étape **si oui** , puis développez **si la différence entre les objets d’opportunité dans l’espace partenaires et CRM est déplacée**.  
 
     f. Sélectionner **si oui** suivi de **mettre à jour l’opportunité existante**
-       
+
 3. Pour personnaliser les champs pour la synchronisation des références de CRM à PC pour les événements de mise à jour :
 
     a. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
@@ -181,7 +181,7 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
 
     d. Sélectionnez la sous-étape **si oui** , puis développez l’étape **mettre à jour une référence avec les données d’opportunité**.
 
-Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
+   Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
 
 4. Pour personnaliser les champs de la synchronisation de référence de CRM à PC pour les événements de création ?
 
@@ -189,9 +189,9 @@ Vous pouvez modifier les mappages dans cette section en fonction du Guide de map
 
    b. Sélectionnez **(étendue) synchronisation des références.**
 
-   c. Pour personnaliser les mappages de champs CRM (en fonction du Guide des mappages de champs) pour créer des événements, sélectionnez **créer une référence Microsoft**. 
+   c. Pour personnaliser les mappages de champs CRM (en fonction du Guide des mappages de champs) pour créer des événements, sélectionnez **créer une référence Microsoft**.
 
-Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
+   Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Synchronisation bidirectionnelle de la direction de la co-vente de bout en bout
 
@@ -217,46 +217,45 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
 - **Audit**: piste d’audit en lecture seule pour la synchronisation avec les références de l’espace partenaires
 
-
 ### <a name="scenarios"></a>SCÉNARIO
 
 1. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans CRM et synchronisée dans l’espace partenaires :
 
-    a. Connectez-vous à votre environnement Dynamics 365 CRM avec un utilisateur qui dispose de la visibilité dans la section **opportunité** de CRM.
+   1. Connectez-vous à votre environnement Dynamics 365 CRM avec un utilisateur qui dispose de la visibilité dans la section **opportunité** de CRM.
 
-    b. Assurez-vous que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement Dynamics 365
+   2. Assurez-vous que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement Dynamics 365
 
-   ![Opportunité](images/cosellconnectors/opportunity.png)
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Occasion":::
 
-    c. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
+   3. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
 
-    - **Synchroniser avec l’espace partenaires**: Oui
+      - **Synchroniser avec l’espace partenaires**: Oui
 
-    - **Comment Microsoft peut-il vous aider ?**:
+      - **Comment Microsoft peut-il vous aider ?**:
 
-    ![Sélections d’aide](images/cosellconnectors/help.png)
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Sélections d’aide":::
 
-    - **Produits**: ID de solution du produit
+      - **Produits**: ID de solution du produit
 
-    d. Une fois que l’opportunité est créée dans Dynamics 365 avec l’option **synchroniser avec l’espace partenaires** définie sur **Oui**, patientez 10 minutes, puis connectez-vous à votre compte espace partenaires. Vos références seront synchronisées avec Dynamics 365.
+   4. Une fois que l’opportunité est créée dans Dynamics 365 avec l’option **synchroniser avec l’espace partenaires** définie sur **Oui**, patientez 10 minutes, puis connectez-vous à votre compte espace partenaires. Vos références seront synchronisées avec Dynamics 365.
 
-    e. De même, pour une opportunité avec l’option « synchroniser avec l’espace partenaires » définie sur « Oui », si vous mettez à jour l’opportunité dans Dynamics 365 CRM, les modifications sont synchronisées dans votre compte espace partenaires.
+   5. De même, pour une opportunité avec l’option « synchroniser avec l’espace partenaires » définie sur « Oui », si vous mettez à jour l’opportunité dans Dynamics 365 CRM, les modifications sont synchronisées dans votre compte espace partenaires.
 
-    f. Les opportunités qui sont synchronisées avec succès avec l’espace partenaires sont identifiées avec l’icône ✔ dans Dynamics 365.
+   6. Les opportunités qui sont synchronisées avec succès avec l’espace partenaires sont identifiées avec l’icône ✔ dans Dynamics 365.
 
 2. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans l’espace partenaires Microsoft et synchronisée dans l’environnement Dynamics 365 :
 
-    a. Connectez-vous à votre [tableau de bord](https://partner.microsoft.com/dashboard/home)de l’espace partenaires.
+   1. Connectez-vous à votre [tableau de bord](https://partner.microsoft.com/dashboard/home)de l’espace partenaires.
 
-    b. Dans le menu de gauche, sélectionnez **références** .
+   2. Dans le menu de gauche, sélectionnez **références** .
 
-    c. Pour créer une nouvelle référence de covente à partir de l’espace partenaires, cliquez sur l’option « nouvelle offre ».
+   3. Pour créer une nouvelle référence de covente à partir de l’espace partenaires, cliquez sur l’option « nouvelle offre ».
 
-    d. Connectez-vous à votre environnement Dynamics 365 CRM. 
+   4. Connectez-vous à votre environnement Dynamics 365 CRM.
 
-    e. Accédez à **opportunités ouvertes**. La référence créée dans l’espace partenaires Microsoft est maintenant synchronisée dans Dynamics 365 CRM.
+   5. Accédez à **opportunités ouvertes**. La référence créée dans l’espace partenaires Microsoft est maintenant synchronisée dans Dynamics 365 CRM.
 
-    f. Lorsque vous sélectionnez une référence synchronisée, les détails de l’affichage de la carte sont remplis.
+   6. Lorsque vous sélectionnez une référence synchronisée, les détails de l’affichage de la carte sont remplis.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

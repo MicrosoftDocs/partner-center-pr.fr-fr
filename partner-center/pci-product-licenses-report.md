@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795662"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452888"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
@@ -54,7 +54,7 @@ Augmentation du pourcentage ou diminution de ces licences pendant la plage de da
 
 Le micro-graphique présente l’évolution du nombre de licences par mois au cours de la plage de dates sélectionnée.
 
-![Résumé du rapport de licence](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Résumé du rapport de licence":::
 
 **Répartition géographique des licences**
 
@@ -64,7 +64,7 @@ La vue de **répartition géographique des licences** affiche la répartition g�
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Appuyez sur l’option de **démarrage** sur la carte pour revenir à la vue par défaut. Pointez sur la carte pour afficher les licences actuelles et actives par pays du client. Les deux champs de la grille peuvent être triés.
 
-![répartition géographique des licences](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="répartition géographique des licences":::
 
 **Ajouts de licence**
 
@@ -74,14 +74,14 @@ Pour présenter la tendance par produit et service/charge de travail, sélection
 
 L’axe des X représente les mois de la plage de dates sélectionnée. L’axe des Y représente le nombre de licences ajoutées. Pour effectuer un zoom avant sur une période spécifique, utilisez le curseur en haut du graphique.
 
-![ajouts de licence](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="ajouts de licence":::
 
 **Distribution de licences**
 
 Cette vue affiche une répartition de vos licences client par pays/région du client et du produit. Lorsque vous sélectionnez un produit dans le graphique à secteurs **licence par produit** , le graphique adjacent vous indique une répartition de licence par région de client.
 
-![distribution de licences](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribution de licences":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).
+Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).

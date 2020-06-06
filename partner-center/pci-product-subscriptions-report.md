@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795915"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452784"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport sur les abonnements au produit disponible dans le tableau de bord Insights de l’espace partenaires
 
@@ -66,7 +66,7 @@ Le micro-graphique présente une tendance mensuelle des abonnements ayant été 
 
 - Abonnements par produit : répartition du nombre d’abonnements actuel par produits Cloud.
 
-![Résumé du rapport d’abonnements](images/pci/pci_sub_report_summary_1.png)
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Résumé du rapport d’abonnements":::
 
 **Répartition géographique des abonnements**
 
@@ -76,7 +76,7 @@ Le tableau **nombre de pays/région** présente le nombre total de pays/régions
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Appuyez sur l’option de **démarrage** sur la carte pour revenir à la vue d’origine. Pointez sur la carte pour afficher tous les abonnements et les abonnements actifs par pays. Les deux champs de la grille peuvent être triés.
 
-![abonnements par zone géographique](images/pci/pci_sub_report_sub_by_geography_2.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="abonnements par zone géographique":::
 
 **Ajouts/évolutions d’abonnement**
 
@@ -84,19 +84,19 @@ Cet affichage présente une tendance des abonnements. Celles-ci sont divisées e
 
 L’histogramme empilé présente une répartition des abonnements nouveaux, existants et à l’évolution du mois. Vous pouvez régénérer l’histogramme, décomposées avec des éléments de pile spécifiques. Pour ce faire, sélectionnez ces éléments spécifiques dans la légende. Vous pouvez également utiliser le curseur en haut du graphique pour effectuer un zoom avant sur une période spécifique.
 
-![ajouts et évolutions de l’abonnement](images/pci/pci_sub_report_sub_adds_churns_3.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="ajouts et évolutions de l’abonnement":::
 
 **Distribution des abonnements**
 
 Cette vue présente la répartition de vos abonnements actuels par vos emplacements MPN, les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution (par exemple, DPOR, DAP, etc.). Cliquez sur les onglets respectifs pour afficher la répartition en fonction de ces catégories. Pour créer le graphique à secteurs avec une répartition de catégories d’éléments spécifiques, sélectionnez ces catégories d’éléments dans la légende.
 
-![distribution des abonnements](images/pci/pci_sub-report_distribution_4.png)
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribution des abonnements":::
 
 **Distribution de l’état de l’abonnement**
 
 Cet affichage montre la répartition de vos abonnements clients actuels par État ou état d’abonnement. Cela comprend les États **d'** abonnement suivants : **actif**, **désactivé**, en **service**, **ouvert**, **InGracePeriod**, **fermé**, etc.
 
-![distribution de l’état de l’abonnement](images/pci/pci_sub_report_sub_states_5.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribution de l’état de l’abonnement":::
 
 **Tendance des produits**
 
@@ -104,7 +104,7 @@ Cet affichage montre un graphique à barres et deux graphiques à secteurs. Le g
 
 Les deux graphiques en secteurs affichent une répartition de vos abonnements client actuels. Le premier graphique à secteurs décompose les abonnements par produits. Le second graphique divise les abonnements par références SKU ou plans. Lorsque vous sélectionnez un produit dans le graphique à secteurs décomposition **par produits** , le graphique à secteurs adjacents affiche une répartition des abonnements de ce produit par SKU.
 
-![tendance des produits](images/pci/pci_sub-report_prods_trend_6.png)
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="tendance des produits":::
 
 > [!NOTE]
  > Le nombre d’abonnements divisé par SKU peut ne pas toujours correspondre au nombre total d’abonnements pour ce produit. Cela peut se produire si un client a acheté plusieurs références SKU sous le même abonnement au produit.
