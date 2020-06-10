@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ce28103892771dc7c27fe081f2d70740b66bfa19
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467499"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633789"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Utilisez des promotions pour attirer de nouveaux clients et y passer des économies
 
@@ -30,7 +30,6 @@ ms.locfileid: "84467499"
 - Administrateur de la facturation
 - Agent commercial
 
-<!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Microsoft propose occasionnellement des promotions sur les abonnements basés sur les licences, qui vous permettent de répercuter les économies sur les clients et de développer votre activité. 
 
@@ -48,12 +47,12 @@ Prenez un moment pour passer en revue ces informations importantes sur les promo
 
 ## <a name="see-available-promotions"></a>Voir les promotions disponibles
 
-Vous pouvez voir quelles promotions vous êtes éligibles, le cas échéant, sur votre page de **promotions** . Sélectionnez **promotions** dans le menu de l' **espace partenaires** pour afficher la liste des promotions actuelles, ainsi que la remise, le type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n’est disponible, vous verrez un message le signalant. 
+Vous pouvez déterminer à quelles promotions vous êtes éligible, le cas échéant, dans votre page **Promotions**. Sélectionnez **promotions** dans le menu de l' **espace partenaires** pour afficher la liste des promotions actuelles, ainsi que la remise, le type de promotion et les dates de début et de fin de l’abonnement. Si aucune promotion n’est disponible, vous en serez informé par un message. 
 
 > [!NOTE]  
-> Vous pouvez également consulter les promotions lorsque vous effectuez un achat. Lorsque vous sélectionnez un abonnement, la tarification de la promotion s’affiche sur la page de **vérification** .
+> Vous pouvez aussi voir les promotions au moment d’effectuer un achat. Quand vous sélectionnez un abonnement, le tarif promotionnel s’affiche dans la page **Révision**.
 
-## <a name="purchase-subscriptions-at-promotion-prices"></a>Acheter des abonnements au prix de la promotion
+## <a name="purchase-subscriptions-at-promotion-prices"></a>Acheter des abonnements à des prix promotionnels
 
 1. Dans le menu de l' **espace partenaires** , sélectionnez **clients** , puis sélectionnez le client qui achète l’abonnement. 
 

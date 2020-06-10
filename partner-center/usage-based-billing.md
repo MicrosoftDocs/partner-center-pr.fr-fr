@@ -1,20 +1,21 @@
 ---
-title: Facturation basée sur l’utilisation | Espace partenaires
+title: Facturation basée sur l’utilisation
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informations sur la facturation basée sur l’utilisation dans l’espace partenaires, où vous êtes facturé pour les taux d’utilisation mensuels.
+ms.date: 06/05/2020
+Description: En savoir plus sur la facturation basée sur l’utilisation dans l’espace partenaires, où vous êtes facturé pour les taux d’utilisation mensuels.
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, basée sur l’utilisation, utilisation
 ms.localizationpriority: medium
-ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797667"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603868"
 ---
-# <a name="usage-based-billing"></a>Facturation basée sur l’utilisation
+# <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>Présentation de la facturation basée sur l’utilisation pour la consommation de services mensuelle, avec paiement à l’utilisation
 
 - Espace partenaires
 - Partenaires du programme Fournisseur de solutions Microsoft Cloud
@@ -27,7 +28,7 @@ Certains produits et services Microsoft utilisent un modèle de facturation « 
 
 Seule la **facturation mensuelle** est disponible pour les produits basés sur l’utilisation. Pour plus d’informations sur la facturation mensuelle, consultez [les différences de facturation mensuelle et annuelle](billing-annual-monthly.md).
 
-Les abonnements basés sur l’utilisation sont facturés mensuellement, en retard, à la **date anniversaire**de l’abonnement. Par exemple, si la date anniversaire de l’abonnement est le 15, vous serez facturé le 15 janvier pour la période de service du 15 décembre au 14 janvier. Vous serez facturé à nouveau le 15 février pour la période de service du 15 janvier au 14 février. 
+Les abonnements basés sur l’utilisation sont facturés mensuellement, en retard, à la **date anniversaire**de l’abonnement. Par exemple, si la date anniversaire de l’abonnement est le 15, vous serez facturé le 15 janvier pour la période de service du 15 décembre au 14 janvier. Vous serez facturé à nouveau le 15 février pour la période de service du 15 janvier au 14 février.
 
 ## <a name="usage-charges"></a>Frais d'utilisation
 

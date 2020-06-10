@@ -1,22 +1,23 @@
 ---
-title: Gérer les paiements non alloués | Espace partenaires
+title: Gérer les paiements non alloués
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez les paiements non alloués et la façon dont vous pouvez les appliquer à vos factures.
+description: Découvrez les paiements non alloués qui s’affichent sur la page de facturation de l’espace partenaires. En savoir plus sur la façon de les appliquer à vos factures.
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation, paiement, paiements, paiement non alloué
 ms.localizationpriority: medium
-ms.openlocfilehash: 2cb132d7ade1e6ef7b8172a0612fbd53bf24def1
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3bcb23a338b4298982749f34341f60a392f4f8e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797687"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603608"
 ---
-# <a name="manage-unallocated-payments"></a>Gérer les paiements non alloués
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gérer les paiements non alloués sur la page de facturation de l’espace partenaires
 
 **S’applique à**
 
@@ -26,10 +27,12 @@ Parfois, vous pouvez voir un paiement non alloué sur votre page de facturation.
 
 ## <a name="to-view-your-unallocated-payments"></a>Pour afficher vos paiements non alloués
 
-1.  [Connectez-vous au tableau de bord de l’Espace partenaires](https://partner.microsoft.com/en-us/dashboard/home).
-2.  Dans le menu de gauche, choisissez **Facturation**.
-3.  Dans la page facturation, recherchez la section **paiement non alloué** . 
+1. [Connectez-vous au tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/home).
 
-Pour appliquer ce montant à une facture particulière, envoyez bposcapp@microsoft.com un e-mail et indiquez la facture à laquelle appliquer ce paiement. Veillez à inclure toutes les informations que vous feriez si vous effectuiez un paiement. Votre page de facturation sera mise à jour dans 5-6 jours. 
+2. Dans le menu de gauche, choisissez **Facturation**.
+
+3. Dans la page facturation, recherchez la section **paiement non alloué** . 
+
+Pour appliquer ce montant à une facture particulière, envoyez un e-mail bposcapp@microsoft.com et indiquez la facture à laquelle appliquer ce paiement. Veillez à inclure toutes les informations que vous feriez si vous effectuiez un paiement. Votre page de facturation sera mise à jour dans 5-6 jours. 
 
 Les paiements non alloués restent non alloués tant que vous ne les affectez pas à une facture. 

@@ -1,34 +1,35 @@
 ---
-title: Utiliser vos fichiers de réconciliation | Espace partenaires
+title: Utiliser vos fichiers de rapprochement
 ms.topic: article
-ms.date: 11/21/2019
-description: Utilisez vos fichiers de rapprochement pour comprendre les affichages détaillés des lignes de l’espace partenaires.
+ms.date: 06/08/2020
+description: En savoir plus sur les fichiers de rapprochement dans l’espace partenaires et sur l’interprétation des affichages détaillés des lignes de facturation pour un cycle de facturation donné.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a53a0f3d37183c67d5d1d44472192ed15f6ed62e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114961"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603798"
 ---
-# <a name="use-your-reconciliation-files"></a>Utiliser vos fichiers de rapprochement
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Découvrez comment lire les éléments de ligne dans vos fichiers de rapprochement de l’espace partenaires
 
-S'applique à :
+S’applique à :
 
-- Centre pour partenaires
+- Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 Vous pouvez télécharger vos fichiers de conciliation à partir de l’espace partenaires pour obtenir une vue détaillée de chaque facture dans un cycle de facturation. Les détails de l’élément de ligne incluent les frais relatifs aux abonnements de chaque client et les événements détaillés (par exemple, ajout à mi-parcours de sièges à un abonnement).
 
 Rôles appropriés :
 
-- Administration de facturation
-- Administrateur global
+- Administrateur de la facturation
+- Administrateur général
 
 Pour plus d’informations sur la lecture de votre facture, consultez [lire votre](read-your-bill.md) **facture**.
 
@@ -52,9 +53,9 @@ Pour résoudre les problèmes de mise en forme dans vos fichiers de rapprochemen
 1. Ouvrez le fichier de réconciliation (au format. csv) dans Microsoft Excel.
 2. Sélectionnez la première colonne du fichier.
 3. Ouvrez l' **Assistant Conversion de texte en colonnes**. Dans le ruban, sélectionnez **données**, puis sélectionnez **texte pour les colonnes**.
-4. Dans l’Assistant, sélectionnez **type de fichier délimité**. Sélectionnez ensuite **suivant**.
+4. Dans l’Assistant, sélectionnez **type de fichier délimité**. Ensuite, sélectionnez **Suivant**.
 5. Dans le champ **séparateurs** , sélectionnez **virgule**. (Si l' **onglet** est déjà sélectionné, vous pouvez conserver cette option sélectionnée.) Sélectionnez ensuite **suivant**.
-6. Dans le champ **format des données** de la colonne, sélectionnez **Date : mja**. Sélectionnez ensuite **suivant**.
+6. Dans le champ **format des données** de la colonne, sélectionnez **Date : mja**. Ensuite, sélectionnez **Suivant**.
 7. Dans le champ **format des données** de la colonne, sélectionnez **texte** pour toutes les colonnes de montant. Ensuite, sélectionnez **Terminer**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Télécharger les fichiers de rapprochement par programmation
@@ -72,10 +73,10 @@ Pour mapper les taxes ou la T.V.A. sur votre facture :
 
 Les partenaires dans le **modèle indirect** peuvent utiliser ces champs supplémentaires dans des fichiers de réconciliation basés sur les licences et sur l’utilisation pour détailler les fichiers par le revendeur.
 
-| ID&nbsp;MPN | Description |
+| ID MPN | Description |
 | ------ | ----------- |
-| ID&nbsp;MPN | Identificateur Microsoft Partner Network (MPN) du partenaire fournisseur de solutions Cloud (CSP) (direct ou indirect). |
-| [ID MPN du revendeur](#reseller-mpn-id) | [Identificateur MPN du revendeur de l’enregistrement pour l’abonnement](#reseller-mpn-id). Ce champ correspond à l’ID du revendeur indiqué pour l’abonnement spécifique dans l’espace partenaires. Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect. |
+| ID MPN | Identificateur Microsoft Partner Network (MPN) du partenaire fournisseur de solutions Cloud (CSP) (direct ou indirect). |
+| [ID&amp;nbsp;MPN revendeur](#reseller-mpn-id) | [Identificateur MPN du revendeur de l’enregistrement pour l’abonnement](#reseller-mpn-id). Ce champ correspond à l’ID du revendeur indiqué pour l’abonnement spécifique dans l’espace partenaires. Apparaît uniquement dans les fichiers de rapprochement pour les partenaires dans le modèle indirect. |
 
 ### <a name="reseller-mpn-id"></a>ID&nbsp;MPN revendeur
 
@@ -89,7 +90,7 @@ Pour afficher ou mettre à jour l' **ID MPN du revendeur**:
 
 1. Connectez-vous à l’Espace partenaires.
 2. Dans le menu de l’Espace partenaires, sélectionnez **Clients**.
-3. Dans la liste, choisissez le client.
+3. Sélectionnez le client dans la liste.
 4. Dans le menu client, sélectionnez **abonnements**.
 5. Choisissez l’abonnement dans la liste.
-6. Sélectionnez **Mettre à jour** pour modifier le **Revendeur (ID&nbsp;MPN)** .
+6. Sélectionnez **Mettre à jour** pour modifier le **Revendeur (ID&nbsp;MPN)**.

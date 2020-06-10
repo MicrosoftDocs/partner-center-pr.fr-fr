@@ -1,5 +1,5 @@
 ---
-title: Mettre à niveau votre appartenance Microsoft Partner Network
+title: Mettre à niveau un abonnement Microsoft Partner Network
 description: Pour bénéficier d’avantages exclusifs, vous pouvez mettre à niveau votre adhésion MPN vers une appartenance à un abonnement Microsoft Action Pack ou des compétences Microsoft.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,15 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
-ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369256"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603878"
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Mettre à niveau votre appartenance Microsoft Partner Network
+# <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Mettez à niveau votre abonnement Microsoft Partner Network et explorez de nouvelles offres, programmes et ressources
 
 **S’applique à**
 
@@ -69,7 +70,7 @@ Pour plus d’informations sur Microsoft Action Pack, consultez [https://partner
 
 7. Votre commande est confirmée. Sélectionnez **Fermer**.
 
-Votre abonnement Action Pack sera renouvelé automatiquement chaque année à cette date. Vous pouvez désactiver le renouvellement automatique à tout moment à partir de votre liste d’offres achetées ; Toutefois, vous ne pourrez pas réactiver le renouvellement automatique des abonnements tant que vous ne renouvelez pas votre abonnement.
+   Votre abonnement Action Pack sera renouvelé automatiquement chaque année à cette date. Vous pouvez désactiver le renouvellement automatique à tout moment à partir de votre liste d’offres achetées ; Toutefois, vous ne pourrez pas réactiver le renouvellement automatique des abonnements tant que vous ne renouvelez pas votre abonnement.
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Désactiver le renouvellement automatique de l’abonnement Action Pack
 

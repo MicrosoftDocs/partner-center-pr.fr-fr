@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467539"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633819"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
@@ -31,11 +31,18 @@ ms.locfileid: "84467539"
 - Agent commercial
 - Administrateur de la facturation
 
-Pour afficher les derniers programmes et offres de fournisseurs de solutions Cloud, à partir du portail partenaires, accédez à la page **vendre > tarification et offres**. Vous trouverez des listes de prix distinctes pour les services basés sur les licences, notamment Office 365, Microsoft Dynamics CRM et Enterprise Mobility suite, ainsi que pour les services basés sur l’utilisation qui incluent Azure.
+Pour afficher les derniers programmes et offres de fournisseurs de solutions Cloud, à partir du portail partenaires, accédez à la page **vendre > tarification et offres**. Vous trouverez des listes de prix distinctes pour les différents types de produits disponibles. Les tarifs suivants sont disponibles sur la page **tarification et offres** :
 
-La liste des offres inclut les différentes familles de produits qui peuvent être achetées par le biais de l’espace partenaires. Il s’agit actuellement d’Office 365, Enterprise Mobility suite, Microsoft Dynamics CRM et Microsoft Azure. Cette liste continuera à s’étendre à mesure que de nouveaux produits seront disponibles.
+- Les **services basés sur une licence** incluent des informations de tarification pour Office 365, Enterprise Mobility and Security E3, ainsi que Dynamics 365. La section relative à la tarification basée sur les licences comprend les tarifs actuels et préliminaires, ainsi que la matrice liste des offres. Les tarifs incluent le tarif et les tarifs estimés au détail (ERP) pour les offres dans toutes les devises prises en charge. La matrice liste des offres inclut la disponibilité du marché et d’autres informations importantes sur les offres. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- Les **services basés sur l’utilisation** incluent des informations de tarification pour Microsoft Azure et Visual Studio. Vous pouvez également utiliser les [services Azure dans la calculatrice de prix du Fournisseur de solutions Cloud](https://azure.microsoft.com/pricing/calculator/). Le téléchargement basé sur l’utilisation comprend les listes de prix CSP pour toutes les devises prises en charge, ainsi que les fichiers de tarification des services partagés dans ERP. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- **Microsoft Azure instances réservées** incluent des informations de tarification pour toutes les devises prises en charge pour les instances réservées Azure. Le téléchargement de la tarification comprend également la tarification des services partagés dans ERP. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- Les **abonnements logiciels** incluent la tarification des abonnements logiciels basés sur des termes pour toutes les devises prises en charge. Le fichier de prix comprend toutes les devises prises en charge avec le tarif et le tarif MSRP. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- La **tarification du plan Azure** comprend des informations de tarification pour les services de consommation de plan Azure et la tarification de réservation de plan Azure. Les prix sont des prix directs ou ERP et peuvent être récupérés pour tout marché pris en charge. Les données de ces fichiers sont actualisées tous les jours.
+- Les **taux de change étrangers** sont utilisés pour calculer la facturation facturée entre USD et la devise locale des partenaires. Les tarifs sont mis à jour le premier de chaque mois et sont valables pour le mois donné. les tarifs sont rendus disponibles. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- Place de **marché** comprend la tarification des solutions ISV du Marketplace commercial de Microsoft. Les prix sont récupérés par marché. Les données de ces fichiers sont actualisées tous les jours.
 
-Dans chacune de ces familles de produits, vous pouvez vendre différentes références SKU et lots de produits en fonction de votre activité. Vous pouvez toujours accéder aux informations les plus récentes sur ces produits à l’aide de la matrice de l’offre du revendeur Cloud, disponible sur la page tarification et offres.
+> [!Note] 
+> Seuls les partenaires CSP ayant la possibilité d’effectuer des transactions peuvent afficher et télécharger des tarifs. Les revendeurs indirects doivent [contacter leur fournisseur CSP]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) pour demander des détails sur la tarification
 
 ## <a name="price-list-preview-and-change-frequency"></a>Aperçu de la liste de prix et fréquence des modifications 
 
@@ -82,7 +89,7 @@ Le fournisseur CSP offre des services à des segments de marché spéciaux, par 
 
 |**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
+|Formation|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
 |À but non lucratif|Customer|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure Government|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure Government|Ressources Azure|
@@ -151,3 +158,24 @@ Voici un résumé de la façon dont ces offres fonctionnent :
 - La fréquence de facturation de l’offre s’affiche comme annuelle, mais le partenaire est facturé en amont sur sa première facture après avoir acquis l’abonnement
 - Les abonnements des offres a1 à 72 mois sont verrouillés après l’achat et ne peuvent pas être annulés et le nombre de licences ne peut pas être ajouté à l’abonnement après l’achat initial
 - Les partenaires qui doivent annuler doivent créer un ticket de support avec la raison de l’annulation et l’ID d’abonnement pour lequel ils ont besoin d’aide.
+
+## <a name="estimated-retail-price-erp"></a>Prix de vente estimé (ERP)
+
+La plupart des tarifs incluent un tarif, le prix du partenaire facturé et le prix de vente estimé. Le prix de vente estimé (ERP) est également appelé prix de détail suggéré par Microsoft ou MSRP. Ces deux valeurs, ERP et MSRP, représentent la valeur de marché estimée des produits si un client devait acheter les produits directement auprès de Microsoft. Vous trouverez ci-dessous des informations sur ERP/MSRP pour chaque type de produit ou de service. 
+
+
+|**Produit ou service**        |**Détails de la liste de prix ERP et MSRP**      |
+|:-----------   |:-----------   |
+|Produit ou service  |Détails de la liste de prix ERP et MSRP  |
+|Services basés sur la licence  |Répertorié comme ERP dans les listes de prix basées sur les licences  |
+|Services basés sur l’utilisation d’Azure  |Se trouve dans les listes de tarifs équivalentes des services partagés  |
+|Réservations Azure  |Se trouve dans les listes de tarifs équivalentes des services partagés  |
+|Utilisation basée sur le plan Azure  |Les prix ne sont pas vendus au détail dans les tables de tarification  |
+|Réservations de plan Azure  |Référence des tarifs des services partagés des réservations Azure  |
+|Abonnements à des logiciels  |Répertorié en tant que MSRP dans les listes de prix des abonnements logiciels  |
+|Place de marché  |Répertorié en tant que tarif MSRP dans les tarifs Marketplace  |
+
+Autres ressources : 
+
+- [Tarification du plan Azure](azure-plan-price-list.md)
+- [Présentation de la tarification Azure](https://azure.microsoft.com/pricing/)

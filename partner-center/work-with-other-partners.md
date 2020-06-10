@@ -1,25 +1,26 @@
 ---
-title: Collaborer avec d’autres partenaires | Espace partenaires
+title: Collaborer avec d’autres partenaires
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les fournisseurs indirects collaborent avec des revendeurs indirects dans le programme fournisseur de solutions Cloud (CSP) et déterminez le rôle qui vous convient.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253936"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603838"
 ---
-# <a name="work-with-other-partners"></a>Collaborer avec d’autres partenaires
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Différentes façons de travailler avec d’autres partenaires dans l’espace partenaires
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
 Le programme fournisseur de solutions Cloud (CSP) de Microsoft offre aux partenaires la possibilité de travailler ensemble de ces manières.
 
@@ -33,7 +34,7 @@ Les fournisseurs indirects (également appelés serveurs de distribution) achèt
 
 Si vous êtes un fournisseur indirect agréé dans CSP, consultez [partenaires avec des revendeurs indirects dans CSP](indirect-provider-tasks-in-partner-center.md) pour en savoir plus sur la connexion avec les revendeurs et les clients indirects. 
 
-### <a name="indirect-resellers"></a>Revendeurs indirects 
+### <a name="indirect-resellers"></a>Revendeurs indirects
 
 Les revendeurs indirects travaillent avec des fournisseurs indirects, qui ont une relation directe avec Microsoft et disposent de l’infrastructure pour fournir un support technique et une facturation. Le partenariat avec des fournisseurs indirects permet aux revendeurs indirects de travailler avec des fournisseurs de technologies expérimentés pour se rendre sur le marché sans avoir à investir dans un investissement important et à offrir un portefeuille plus large de solutions Microsoft. 
 

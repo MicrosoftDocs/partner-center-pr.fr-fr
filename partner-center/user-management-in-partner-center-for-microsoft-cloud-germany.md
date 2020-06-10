@@ -1,19 +1,21 @@
 ---
-title: Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany | Espace partenaires de Microsoft Cloud Germany
+title: Gestion des utilisateurs et des licences
+titleSuffix: Microsoft Cloud Germany - Partner Center
+description: Découvrez comment et où gérer l’espace partenaires pour les partenaires, les clients et les licences de Microsoft Cloud Allemagne, ainsi que les réinitialisations de mot de passe.
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment et où gérer l’espace partenaires pour les partenaires, les clients et les licences de Microsoft Cloud Allemagne, ainsi que les réinitialisations de mot de passe.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 923d7a389e3eb81d2bb20422182f53c14af72746
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797677"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603618"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany
 
@@ -37,7 +39,7 @@ Gestion des licences | Centre d’administration Office 365 ou portail de gestio
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Comment gérer les utilisateurs dans le portail Azure de Microsoft Cloud Germany 
 
-Si vous êtes connecté à l'Espace partenaires de Microsoft Cloud Germany, vous pouvez ouvrir le portail Azure de Microsoft Cloud Germany sans avoir à se reconnecter. Toutefois, si vous devez vous connecter directement au Portail Azure pour Microsoft Cloud Allemagne, accédez à [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+Si vous êtes connecté à l'Espace partenaires de Microsoft Cloud Germany, vous pouvez ouvrir le portail Azure de Microsoft Cloud Germany sans avoir à se reconnecter. Toutefois, si vous devez vous connecter directement au Portail Azure pour Microsoft Cloud Allemagne, accédez à [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
 Une fois que vous êtes connecté au portail Azure de Microsoft Cloud Germany, ouvrez votre page de présentation d’Azure Active Directory (Azure AD) et suivez les instructions de ces rubriques :
 

@@ -1,27 +1,28 @@
 ---
-title: Assurez-vous que vous êtes crédité de l’impôt à la demande | Espace partenaires
+title: Être crédité de la taxe à la retenue
 ms.topic: article
-ms.date: 2/16/2020
+ms.date: 06/05/2020
 description: Assurez-vous que votre compte espace partenaires est crédité pour la TVA en créant une demande de retenue d’impôt dans l’espace partenaires.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, certificats fiscaux
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d9fbea52fa08117ec712284ecd6436f576a2a06
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e4cb4b1dde35caca153e37de5a07f947f6da158e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453312"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603848"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Vérifiez que vous êtes bien crédité de la retenue à la source
+# <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande si vous payez une administration fiscale locale au lieu de Microsoft
 
 S’applique à :
 
-- Espace partenaires
+- Espace partenaire
 
 ## <a name="overview"></a>Vue d’ensemble
 

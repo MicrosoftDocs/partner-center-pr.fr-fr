@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, facture, cartes, exonération fiscale, TVA, ID TVA
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795940"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633809"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Factures et taxes dans le Microsoft Partner Network
 
@@ -62,3 +62,8 @@ Pour effectuer cette procédure, vous devez être administrateur général ou ad
 
 3.  Entrez l’ID de TVA de votre société, sélectionnez **Ajouter**, puis sélectionnez **suivant**. 
 
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Vue d’ensemble de la facturation dans l’Espace partenaires](billing-basics.md)
+
+- [Être crédité de la taxe à la retenue](withholding-tax-credit-form.md)

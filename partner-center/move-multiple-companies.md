@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453186"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603778"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Déplacement de plusieurs sociétés vers l’espace partenaires à partir du Partner Membership Center (PMC)
 
@@ -76,6 +76,7 @@ Vérifiez les informations relatives à votre société et modifiez-les si néce
 
 Les détails sont basés sur les informations contenues dans le Partner Membership Center et sont vérifiés pour garantir que l’entreprise est légitime.
 
+
 :::image type="content" source="images/migration/review.png" alt-text="Examiner les détails":::
 
 Si le compte que vous déplacez se trouve dans le même pays ou la même région que le compte existant, vous pouvez décider si vous souhaitez utiliser cette adresse ou en ajouter une autre. Si vous décidez d’utiliser une autre adresse, cette adresse sera vérifiée. Si vous souhaitez utiliser la même adresse, l’adresse et le contact principal existants seront utilisés.
@@ -88,7 +89,7 @@ Lorsque vous affichez votre profil, vous voyez les informations relatives à vot
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Transfert de PMC à l’Espace partenaires](move-pmc-pc-map.md)
+- [Passer du Partner Membership Center à l’Espace partenaires](move-pmc-pc-map.md)
 - [Créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md)
 - [Attribuer des rôles et des autorisations aux utilisateurs](permissions-overview.md)
 - [Gérer les programmes dont vous êtes membre](renew-mpn-offers.md)
