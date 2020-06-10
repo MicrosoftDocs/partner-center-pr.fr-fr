@@ -1,7 +1,7 @@
 ---
 title: Offres pour les partenaires du programme Fournisseur de solutions Microsoft Cloud (CSP)
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En tant que partenaire du programme CSP, découvrez le catalogue de plus en plus étoffé des services et offres cloud Microsoft que vous pouvez vendre à vos clients.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions cloud, services basés sur le cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions cloud, vendre dans le programme Fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements client
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362327"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467239"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Vue d’ensemble des offres pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -106,6 +106,10 @@ Pour acheter des produits et des services pour vos clients du programme Fourniss
 7. Sur la page **Vérifier vos commandes**, vérifiez ou modifiez les produits et les quantités, puis sélectionnez **Acheter** pour passer la commande.
 
 8. Les détails de votre commande, y compris votre numéro de commande, sont indiqués sur la page suivante. Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**.
+
+## <a name="rules-for-special-segments"></a>Règles pour les segments spéciaux
+
+Certaines offres basées sur une licence ne peuvent être achetées que sous certaines conditions. Les offres pour segments spéciaux sont les suivantes : Éducation, Cloud de la communauté du secteur public ou Associations. Pour plus d’informations sur ces conditions d’achat, consultez la rubrique [Règles d’achat pour les segments spéciaux](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="next-steps"></a>Étapes suivantes
 

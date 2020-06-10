@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795830"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453236"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’Espace partenaires
 
@@ -45,7 +45,7 @@ Le transfert commence dans PMC. Votre administrateur général reçoit une invit
 
 Sélectionnez **Démarrer** dans votre invitation. Vous êtes alors dirigé vers la page de connexion à l’Espace partenaires.
 
-![Prendre en main](images/migration/getstarted.jpg)
+:::image type="content" source="images/migration/getstarted.jpg" alt-text="Bien démarrer":::
 
 ## <a name="start-with-your-work-email"></a>Commencer par votre adresse e-mail professionnelle
 
@@ -54,7 +54,7 @@ Si votre entreprise ne dispose pas d’une adresse e-mail professionnelle et d�
 >[!Note]
 >Si vous êtes partenaire en Chine et que vous êtes inscrit à la fois au Microsoft Partner Network (MPN) et au programme Fournisseur de solutions Cloud (CSP), vous avez un locataire distinct pour chaque compte. Votre compte associé au programme Fournisseur de solutions Cloud est géré sur le cloud national, tandis que votre compte Microsoft Partner Network est géré sur le cloud global. Les deux comptes ne peuvent pas être liés.
 
-![Donner des renseignements sur votre entreprise](images/migration/newtellusabout.png)
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Donner des renseignements sur votre entreprise":::
 
 Après avoir vérifié ou mis à jour les informations, sélectionnez **Accepter et continuer**.
 Les conditions générales figurant dans cette page sont **exactement les mêmes** que celles contenues dans l’accord que votre entreprise a déjà signé dans PMC.  
@@ -72,7 +72,7 @@ Le fait de sélectionner **Accepter et continuer** a également les conséquence
 
 Une fois votre locataire Azure AD créé, vous pouvez inviter vos employés à se connecter à l’Espace partenaires.
 
-![Inviter des employés](images/migration/invite.png)
+:::image type="content" source="images/migration/invite.png" alt-text="Inviter des employés":::
 
 Si vous vous êtes connecté avec un locataire AAD existant, vos employés sont transférés avec vous. Dans ce cas, attribuez à vos employés des rôles qui contrôlent ce qu’ils peuvent faire dans l’Espace partenaires. Remarque : Les rôles dans l’Espace partenaires sont différents des rôles dans PMC. Pour plus d’informations, consultez [Passage de PMC à l’Espace partenaires](move-pmc-pc-map.md).
 
@@ -80,11 +80,11 @@ Si vous vous êtes connecté avec un locataire AAD existant, vos employés sont 
 
 Si votre locataire AAD vient d’être créé, le rôle d’administrateur général n’est attribué à personne. Pour devenir administrateur général, vous devez vérifier la propriété de votre domaine. Vous devrez peut-être contacter l’administrateur de domaine pour obtenir de l’aide. Même si vous pouvez utiliser les offres que vous avez déjà achetées, vous ne pourrez pas en acheter de nouvelles tant que vous n’aurez pas obtenu un administrateur général.
 
-![Prendre le contrôle](images/migration/takecontrol.png)
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Prendre le contrôle":::
 
 Quand vous sélectionnez Démarrer, l’écran suivant s’affiche :
 
-![Vérifier la propriété du domaine](images/migration/verifytxt.png)
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Vérifier la propriété du domaine":::
 
 Votre bureau d’enregistrement de domaines est déjà indiqué. Seul le propriétaire du domaine peut mettre à jour le fichier DNS. Par conséquent, en copiant et en ajoutant le fichier texte à votre enregistrement DNS, nous pouvons vérifier que vous êtes bien le propriétaire. La mise à jour nécessite quelques minutes. Vous devez ensuite vous déconnecter de l’Espace partenaires, puis vous reconnecter. Le rôle d’administrateur général vous est alors attribué.
 
@@ -92,7 +92,7 @@ Votre bureau d’enregistrement de domaines est déjà indiqué. Seul le propri�
 
 Explorez votre tableau de bord. Ici, vous pouvez gérer votre adhésion, ajouter un profil d’entreprise pour les références, vous inscrire au programme Fournisseur de solutions Cloud et consulter les notifications et les offres pertinentes pour votre entreprise en sélectionnant **Tableau de bord** à tout moment. Vous pouvez également gérer les incentives, faire des achats dans la Place de marché, vous inscrire à des services de mise sur le marché et bien plus encore.  
 
-![Visite guidée](images/migration/fre.png)
+:::image type="content" source="images/migration/fre.png" alt-text="Visite guidée":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

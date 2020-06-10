@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f17dc4cb7e3f52984ce9a1fb7c19d048bb74c47b
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908324"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452606"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure
 
@@ -39,12 +39,11 @@ Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur
 
 3. En regard de **Type d’exportation**, sélectionnez **Tarification de la consommation de plan Azure**, **Tarification des réservations de plan Azure** ou **Taux FX**. Remarque : Les **Taux de change** ne sont pas spécifiques à un pays.
 
-3. En regard de **Tarification pour la date**, sélectionnez la date de votre choix, par exemple, **Actuelle**. 
+4. En regard de **Tarification pour la date**, sélectionnez la date de votre choix, par exemple, **Actuelle**.
 
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="spécifique au pays":::
 
-![spécifique au pays](images/azure/pricingnew.png)
-
-Remarque : Vous pouvez exporter deux tarifs différents : les tarifs de plan Azure et les tarifs tiers de la Place de marché. 
+Remarque : Vous pouvez exporter deux tarifs différents : les tarifs de plan Azure et les tarifs tiers de la Place de marché.
 
 ## <a name="azure-price-list-specifics"></a>Détail des tarifs Azure
 
@@ -54,11 +53,11 @@ Remarque : Vous pouvez exporter deux tarifs différents : les tarifs de plan A
 
 - Les options d’exportation incluent les suivantes :
 
-    - **Tarification du jour** : Elle comprend tous les compteurs et la tarification du 1er du mois jusqu’à la date actuelle du mois en cours. Elle comprend les nouveaux prix, les prix modifiés et les prix supprimés. Tous les prix ont des dates de début et de fin effectives qui indiquent s’ils sont nouveaux ou supprimés.
+  - **Tarification du jour** : Elle comprend tous les compteurs et la tarification du 1er du mois jusqu’à la date actuelle du mois en cours. Elle comprend les nouveaux prix, les prix modifiés et les prix supprimés. Tous les prix ont des dates de début et de fin effectives qui indiquent s’ils sont nouveaux ou supprimés.
 
-    - **Tarification du mois précédent** : Les téléchargements de chaque type de ressource sont effectués par mois. Pour les fichiers des prix, cela inclut tous les compteurs qui étaient disponibles au cours de ce mois. Si un nouveau compteur est apparu au milieu du mois, il apparaît sous forme de compteur avec une date de prise d’effet reflétant sa disponibilité. Il en va de même pour les prix qui sont abandonnés, affichés avec une date de fin effective indiquant le moment où ils ne sont plus disponibles.
+  - **Tarification du mois précédent** : Les téléchargements de chaque type de ressource sont effectués par mois. Pour les fichiers des prix, cela inclut tous les compteurs qui étaient disponibles au cours de ce mois. Si un nouveau compteur est apparu au milieu du mois, il apparaît sous forme de compteur avec une date de prise d’effet reflétant sa disponibilité. Il en va de même pour les prix qui sont abandonnés, affichés avec une date de fin effective indiquant le moment où ils ne sont plus disponibles.
 
-    - **Taux Fx** : Les taux de change sont disponibles au téléchargement le jour avant le 1er du mois, à 18h00 PST. Par exemple, si vous voulez les taux de novembre, téléchargez-les le 31 octobre. Les taux de change du mois précédent sont également disponibles.
+  - **Taux Fx** : Les taux de change sont disponibles au téléchargement le jour avant le 1er du mois, à 18h00 PST. Par exemple, si vous voulez les taux de novembre, téléchargez-les le 31 octobre. Les taux de change du mois précédent sont également disponibles.
 
 - Les prix figurant dans les tarifs sont les prix directs. Certains partenaires peuvent être éligibles aux crédits Partenaires. Pour obtenir des informations sur la façon de calculer le crédit Partenaires, lisez [Calcul et paiement du crédit Partenaires](partner-earned-credit-explanation.md).
 
@@ -91,7 +90,7 @@ Vous pouvez exporter les listes de prix du plan Azure à partir de la page [Tari
 
 ## <a name="pricing-api-for-azure-plan"></a>API de prix pour le plan Azure
 
-Vous pouvez utiliser l’[API de prix](https://docs.microsoft.com/partner/develop/pricing) pour récupérer par programmation les prix du plan Azure pour la consommation et les réservations. Vous pouvez également récupérer les taux de change. 
+Vous pouvez utiliser l’[API de prix](https://docs.microsoft.com/partner/develop/pricing) pour récupérer par programmation les prix du plan Azure pour la consommation et les réservations. Vous pouvez également récupérer les taux de change.
 
 L’API de prix ne se trouve pas sur le même point de terminaison que les autres API de l’Espace partenaires. Les informations fournies incluent les prix compteur en USD pour les ressources du plan Azure et les prix des réservations appliqués aux abonnements au plan Azure.
 

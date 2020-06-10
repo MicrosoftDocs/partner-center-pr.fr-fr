@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908337"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452626"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gérer les abonnements et les ressources dans le cadre du plan Azure
 
@@ -57,11 +57,11 @@ Vous avez besoin d’un accès administrateur pour gérer les services de votre 
 
 1. Créez une alerte.
 
-![alerte Azure](images/azure/azurealert1.png)
+:::image type="content" source="images/azure/azurealert1.png" alt-text="alerte Azure":::
 
 2. Sélectionnez le type d’action que vous souhaitez appliquer à l’alerte. Par exemple, si vous indiquez vouloir recevoir un e-mail, vous recevrez un message électronique pour vous informer de la suppression d’une attribution de rôle.
 
-![configurer l’alerte](images/azure/azureconfigurealert2.png)
+:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="configurer l’alerte":::
 
 ### <a name="aobo-removal"></a>Suppression des privilèges AOBO
 

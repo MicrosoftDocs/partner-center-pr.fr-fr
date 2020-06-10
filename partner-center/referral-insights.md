@@ -1,22 +1,23 @@
 ---
-title: Obtenir des insights de référence | Espace partenaires
+title: Obtenir des insights de référence
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Passez régulièrement en revue vos insights de référence pour identifier les tendances ou les domaines nécessitant votre attention, et faites un premier pas vers vos objectifs métier.
-author: JnHs
-ms.author: jenhayes
+description: Passez régulièrement en revue vos données d’insights de référence dans l’Espace partenaires pour voir les tendances à traiter ou les domaines d’amélioration pour vous aider à atteindre vos objectifs métiers.
+author: LauraBrenner
+ms.author: labrenne
 keywords: référence, analyse, analytique, métrique, conversion
 ms.localizationpriority: high
-ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73654124"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467449"
 ---
-# <a name="get-referral-insights"></a>Obtenir des insights de référence
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenir des insights de référence dans l’Espace partenaires et voir les performances de vos références
 
 **S’applique à**
 
