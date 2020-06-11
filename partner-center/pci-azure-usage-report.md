@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d8400cbfb5d466ea4da1c8a7abd9d8e2e49df184
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453125"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679376"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Azure disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -33,7 +33,7 @@ Le rapport d’utilisation Azure présente les mesures relatives aux abonnements
 - Utilisation d’Azure
 
  > [!NOTE]
- > Ce rapport est disponible dans le tableau de bord des Insights de l’espace partenaires (PCI). Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
+ > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
 **Résumé**
 
@@ -50,7 +50,8 @@ Le micro-graphique présente une tendance d’un mois sur l’autre du nombre d�
 - Chiffre d’affaires consommé Azure (ACR) : total des revenus consommés par Azure (US $) qui vous sont attribués au cours de la plage de dates sélectionnée.
 Croissance en pourcentage ou baisse de la ACR des États-Unis $ pour la plage de dates sélectionnée. 
 
-Le micro-graphique présente une tendance mensuelle de ACR US $ qui vous est attribuée sur la période sélectionnée. Remarque : 
+Le micro-graphique présente une tendance mensuelle de ACR US $ qui vous est attribuée sur la période sélectionnée.
+
 
 > [!NOTE]
  > Le chiffre d’affaires utilisé par Azure (ACR) ne sera visible que pour les utilisateurs qui se sont vu attribuer le rôle visionneuse de rapports exécutifs.

@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0325d0f720af61813a98d18785f3cc05b2691f7e
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 3e96a71eeb1404055099c3418f9c9531a97a67c2
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425878"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661652"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurer un compte de l’espace partenaires suspendu : Découvrez pourquoi il se produit et comment procéder
 
@@ -36,21 +36,21 @@ Microsoft peut suspendre un compte Espace partenaires pour l'une des raisons sui
 
 - Facture non réglée à 60 jours 
 - Utilisation abusive du compte
-- Problèmes affectant les opérations de fournisseur indirect et ayant un impact négatif sur votre compte (revendeurs indirects uniquement)
+- Quand des problèmes affectent les opérations du fournisseur indirect et ont un impact négatif sur votre compte (revendeurs indirects uniquement)
+- Lorsque votre profil de compte est dans un état d’échec ou de rejet
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>Marche à suivre en cas de suspension de compte
 
-Si vous savez que votre compte est à jour, envoyez une demande au Support de l'Espace partenaires pour savoir pourquoi votre compte a été suspendu. 
+Si vous savez que votre compte est à jour, vérifiez les paramètres de votre [profil de partenaire](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) pour confirmer que vos informations actives sont terminées. 
 
 Si vous ne savez pas si votre compte est à jour, sélectionnez **facturation** dans le menu de l' **espace partenaires** pour vérifier votre facture. Cette page affiche votre historique et vos tendances de facturation, le solde du mois en cours, des liens vers votre facture et vos fichiers de rapprochement, ainsi que votre dernier paiement en date.
 
 Si votre compte est débiteur, suivez les instructions sur votre facture pour régulariser le paiement, puis envoyez au support une demande de réactivation de votre compte. 
 
-**Pour envoyer une demande de support**
+Pour obtenir de l’aide supplémentaire sur la réactivation de votre compte, contactez le [support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 
-1.  Dans le menu **espace partenaires** , sélectionnez **demandes de support > demandes de l’espace partenaires**.
-2.  Sélectionnez **Nouvelle demande**. 
-3.  Complétez le formulaire, puis sélectionnez **Envoyer**. Un représentant du support de l'Espace partenaires vous contactera pour vous expliquer pourquoi votre compte a été suspendu et comment le réactiver.
+## <a name="next-steps"></a>Étapes suivantes
 
+- [Vérifier votre profil de partenaire](update-your-partner-profile.md)
 
-
+- [Vérifier les informations de votre compte lors de votre inscription dans un nouveau programme de l’espace partenaires](verification-responses.md)

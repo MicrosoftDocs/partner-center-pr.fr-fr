@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Autopilot, Windows AutoPilot, Microsoft AutoPilot, déploiement Zero Touch, OOBE, écrans de connexion, prêts à l’emploi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908383"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679186"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utiliser les profils Windows AutoPilot sur de nouveaux appareils pour personnaliser l’expérience out-of-Box d’un client
 
@@ -175,7 +175,8 @@ Votre fichier. csv devrait ressembler à ceci :
 
 > **{serialNumber},,, Microsoft Corporation, portable surface**
 
-Notez que « nom du fabricant » et « modèle d’appareil » respectent la casse.
+>[!NOTE]
+> « Manufacturer Name » et « Device Model » respectent la casse.
 
 Si vous ne savez pas quelle valeur placer pour le nom du fabricant et le modèle de l’appareil, vous pouvez l’exécuter sur l’appareil pour recueillir les valeurs correctes :
 

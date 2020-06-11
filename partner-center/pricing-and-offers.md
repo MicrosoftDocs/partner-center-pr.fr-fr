@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633819"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661662"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
@@ -94,7 +94,19 @@ Le fournisseur CSP offre des services à des segments de marché spéciaux, par 
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure Government|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure Government|Ressources Azure|
 
-Les marges du partenaire, la différence entre le tarif et les prix estimés au détail, peuvent varier d’un segment à l’autre. En règle générale, l’enseignement et le non-bénéfice ont tendance à avoir des marges inférieures ou égales pour les partenaires CSP. Reportez-vous à la liste des prix basés sur une licence pour obtenir les valeurs exactes.  
+Les marges du partenaire, la différence entre le tarif et les prix estimés au détail, peuvent varier d’un segment à l’autre. En règle générale, l’enseignement et le non-bénéfice ont tendance à avoir des marges inférieures ou égales pour les partenaires CSP. Reportez-vous à la liste des prix basés sur une licence pour obtenir les valeurs exactes. 
+
+## <a name="add-on-offer-types"></a>Types d’offres du module complémentaire
+
+Les services basés sur une licence peuvent être acquis comme des offres de base ou des modules complémentaires. Seules les offres de base sont détectables et achetées via le catalogue de l’espace partenaires. Les modules complémentaires doivent être appliqués après l’achat des offres de base. La colonne **type de licence secondaire** de liste de prix basée sur une licence contient des informations sur chaque offre et son type. Les offres de base comportent des valeurs **non spécifiques** dans la colonne type de licence secondaire de la liste de prix et peuvent être achetées dans le catalogue. Les valeurs de type de licence secondaire du **module complémentaire** ne peuvent pas être achetées dans le catalogue. Pour acheter ces modules complémentaires :
+
+1. Consultez la matrice liste des offres pour afficher la liste des ID d’offre qui doivent être achetés avant de pouvoir acheter un module complémentaire.
+2. Acheter l’offre de base à partir du catalogue
+3. Accédez à votre client à partir de la liste des clients. Cliquez sur l’abonnement de l’offre de base que vous venez d’acheter. Sur la page gérer l’abonnement, vous verrez des modules complémentaires disponibles qui peuvent être appliqués à l’offre de base.
+
+> [!Note] 
+> Certaines offres de base ont des valeurs de **type d’unité** **pour les licences de module complémentaire**. Pour une offre de base, cela signifie simplement que vous n’affectez pas de licences utilisateur après l’achat. Si l’offre peut être achetée dans le catalogue, il s’agit d’une **offre de base** , quel que soit le type d’unité de l’interface utilisateur.
+
 ## <a name="pricing-between-azure-and-non-azure"></a>Tarification entre Azure et non-Azure
 
 La tarification diffère selon les différents types d’offres. La tarification basée sur les licences est généralement le montant par poste (licence) pour un mois donné. La tarification basée sur l’utilisation est déterminée par l’utilisation d’une ressource donnée, avec un ID de compteur associé. Les partenaires ne sont pas facturés pour l’acquisition de l’abonnement Azure. Toutefois, les partenaires sont facturés pour les ressources consommées par différents déploiements dans le cadre de l’abonnement Azure. La tarification dans la liste de prix basée sur l’utilisation est organisée autour de différents ID de compteur de ressources dans Azure.
@@ -145,7 +157,7 @@ Il existe environ 50 offres Dynamics qui ont des conditions de trois ans. Celles
 
 Microsoft 365 offre de base a1 a une durée de six ans.  Les modules complémentaires Office 365 a1 sont disponibles après l’achat de cette offre de base. 
 
-|**Nom de l’offre**   |**ID de l’offre**   |**Type**|
+|**Nom de l'offre**   |**ID de l’offre**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Offre de base|
 |Office 365 a1 pour Université (pour appareil)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Extension|

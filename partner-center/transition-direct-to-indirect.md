@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facture directe, transition, revendeur indirect
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458405"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679446"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
@@ -34,7 +34,7 @@ Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre l
 
 2. Connectez-vous à l’espace partenaires en tant qu’administrateur général du locataire direct Bill que vous passez au revendeur indirect.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d'ensemble":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d’ensemble":::
 
 3. Passez en revue les détails de votre partenaire dans le formulaire d’inscription.
 
@@ -225,15 +225,13 @@ En mode indirect CSP, les revendeurs indirects n’ont pas de relations de factu
 
 ### <a name="pre-requisites"></a>Conditions préalables
 
-Avant d’utiliser la fonctionnalité, notez les points suivants :
-
 - Cette fonctionnalité est uniquement disponible pour les partenaires de transition qui ont effectué l’inscription du revendeur indirect à l’aide de leurs locataires de partenaire direct de facture existants.
 
 - Avant de transférer les abonnements associés à un client donné, le partenaire de transition doit déplacer le client vers un fournisseur indirect.
 
-- Le client a [accepté le contrat du client Microsoft par le biais du fournisseur indirect](#microsoft-customer-agreement-acceptance).
+- Le client doit avoir [accepté le contrat du client Microsoft par le biais du fournisseur indirect](#microsoft-customer-agreement-acceptance).
 
-### <a name="how-to-transition-to-indirect-reseller-status"></a>Procédure de transition vers l’état du revendeur indirect
+### <a name="how-to-transition-to-indirect-reseller-status"></a>Comment passer à l’état du revendeur indirect
 
 La fonctionnalité est un processus en 4 étapes, où :
 

@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: abonnement, créer nouveau, ajouter un abonnement, suspendre, annuler, suspendre, suspendre, SaaS, licence, ISV, tiers
 ms.localizationpriority: medium
-ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394150"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679056"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -43,7 +43,7 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
 
 ## <a name="create-a-new-subscription"></a>Créer un abonnement
 
-1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard).
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard).
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
@@ -73,7 +73,10 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
     - Vous pouvez consulter ou modifier l’abonnement en sélectionnant le nom de l’abonnement dans la page **abonnements** du client. À partir de là, vous pouvez sélectionner des licences de module complémentaire, le cas échéant, modifier le nombre de licences ou suspendre l’abonnement.
 
     **Pour les abonnements ISV SaaS (basés sur une licence) :**
-    - Vous recevrez un lien vers le site de l’éditeur ISV. Ce lien doit vous aider à effectuer la configuration du déploiement ou du compte de l’abonnement du client. (Notez que ni vous ni votre client ne recevrez un e-mail contenant des instructions pour terminer l’installation/la configuration des comptes pour ce type d’abonnement ISV.)
+    - Vous recevrez un lien vers le site de l’éditeur ISV. Ce lien doit vous aider à effectuer la configuration du déploiement ou du compte de l’abonnement du client.
+      
+    >[!NOTE]
+    > Ni vous ni votre client ne recevrez un e-mail contenant des instructions pour terminer l’installation/la configuration de compte pour ce type d’abonnement ISV.)
 
     - Si votre abonnement est fourni avec une version d’évaluation gratuite de 30 jours, la période d’essai gratuite sera appliquée automatiquement. En tant que partenaire dans le programme CSP, vous ne pouvez pas renoncer à la période d’évaluation gratuite sur les offres que vous achetez pour les clients. Une fois la période d’essai gratuite terminée, la durée de l’abonnement commence et l’abonnement est converti en état payant. L’abonnement est ensuite renouvelé en fonction de la même planification.
 

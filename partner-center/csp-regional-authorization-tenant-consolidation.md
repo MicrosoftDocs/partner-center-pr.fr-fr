@@ -12,12 +12,12 @@ keywords: migrer des clients, approvisionnement, compte de locataire, consolider
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d361a220ce798863eaeec73e6ff093f135bc4ae1
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: c2667bf19f73dfb2498cd6f706bd97b595f67a31
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453226"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679066"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instructions pour la consolidation des locataires d’autorisation régionale du CSP
 
@@ -35,11 +35,12 @@ ms.locfileid: "84453226"
 
 Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 
-**Remarque** Vous devez connaître tous les abonnements et le nombre de sièges de vos clients approvisionnés à partir des comptes de transition. Vous allez reconfigurer les mêmes abonnements exacts avec le même nombre de sièges sous le nouveau compte CSP central dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. Notez que l’action du client peut également être nécessaire.
+>[!NOTE]  
+>Vous devez être conscient de tous les abonnements et du nombre de sièges pour vos clients approvisionnés à partir des comptes de transition. Vous allez reconfigurer les mêmes abonnements exacts avec le même nombre de sièges sous le nouveau compte CSP central dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé. Les partenaires choisissent de consolider leurs locataires. Une fois la consolidation terminée, les partenaires ne peuvent pas revenir à leur état antérieur. L’action du client peut également être nécessaire.
 
 ## <a name="prepare-for-migration"></a>Préparation de la migration
 
-- Connectez-vous à votre **espace partenaires** à l’aide du compte de **transition** (existant) (celui que vous allez passer) et prenez note de tous les clients et de tous les services configurés pour ces clients.
+- Connectez-vous à l' **espace partenaires** avec le compte de **transition** (existant) (celui que vous allez passer) et passez en revue tous les clients et tous les services configurés pour ces clients.
 
    :::image type="content" source="images/regionalcustomer1.png" alt-text="liste de clients régionaux":::
 
@@ -65,7 +66,7 @@ Les clients s’affichent dans la liste des clients du partenaire après l’env
 
 3. Ouvrez le nom de la société du client que vous souhaitez migrer.
 
-4. Cliquez sur **Ajouter un abonnement**.
+4. Sélectionnez **Ajouter un abonnement**.
 
 5. Ajoutez les abonnements et le nombre de sièges corrects à partir du catalogue. Vérifiez avec les informations fournies dans les comptes de partenaire **Transition à partir de**.
 
@@ -93,7 +94,7 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 3. Réglez l’abonnement sur **suspendu**, puis cliquez sur **Envoyer**.
 
    >[!Note]
-   >  La suspension de l’abonnement garantit que la double facturation n’a pas lieu.
+   >La suspension de l’abonnement garantit que la double facturation n’a pas lieu.
 
    L’abonnement affiche la mention **suspendu** dans la liste des abonnements.
 
@@ -120,7 +121,7 @@ Azure, les abonnements CSP basés sur l’utilisation n’ont pas besoin d’êt
 
 6. Répétez ces étapes pour tous les abonnements sous l’ensemble de vos clients pour arrêter les prochaines facturations sur le ou les comptes **Transition à partir de**. Le partenaire reçoit une facture finale avec un crédit pour le nombre de jours inutilisés entre le jour de l’annulation et le dernier jour de la période de facturation. Aucune facture n’est générée après cette période de facturation finale.
 
-### <a name="notes"></a>Notes
+### <a name="additional-information"></a>Informations supplémentaires
 
 - La désactivation de l’abonnement de la **transition à partir** du compte CSP n’a pas d’impact sur le service du client final tant que le service a été approvisionné à partir du compte de **transition vers** le fournisseur CSP avant de désactiver l’abonnement.
 
@@ -128,8 +129,8 @@ Azure, les abonnements CSP basés sur l’utilisation n’ont pas besoin d’êt
 
 - Il est actuellement impossible de supprimer complètement un client de la liste de clients.
 
->[!Note]
-> Les partenaires doivent suspendre les abonnements lors de la transition à **partir du** compte de locataire partenaire dans l’espace partenaires le même jour auquel ces abonnements sont migrés et configurés dans le cadre du compte de locataire de partenaire dans l’espace partenaires pour s’assurer **que la double** facturation n’a pas lieu. Microsoft ne prend pas en charge les demandes de crédits en raison d’un chevauchement de la facturation qui résulte de la définition incorrecte du **passage des** abonnements à l’état suspendu.
+    >[!Note]
+    > Les partenaires doivent suspendre les abonnements lors de la transition à **partir du** compte de locataire partenaire dans l’espace partenaires le même jour auquel ces abonnements sont migrés et configurés dans le cadre du compte de locataire de partenaire dans l’espace partenaires pour s’assurer **que la double** facturation n’a pas lieu. Microsoft ne prend pas en charge les demandes de crédits en raison d’un chevauchement de la facturation qui résulte de la définition incorrecte du **passage des** abonnements à l’état suspendu.
 
 ### <a name="simplify-migration-using-export"></a>Simplifier la migration avec l’exportation
 

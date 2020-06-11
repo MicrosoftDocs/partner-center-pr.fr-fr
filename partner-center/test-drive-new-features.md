@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 590ec680a1fdc80177a955417942b340b94eb96b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458395"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679396"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Testez les nouvelles fonctionnalités de l’espace partenaires et aidez-nous à définir l’avenir de l’espace partenaires
 
@@ -26,7 +26,7 @@ ms.locfileid: "84458395"
 
 Nous publions continuellement de nouvelles fonctionnalités et fonctionnalités dans l’espace partenaires et nous souhaitons vos commentaires ! 
 
-Nous vous invitons à tester les nouvelles fonctionnalités avant qu’elles ne soient lancées auprès de la communauté mondiale de l’Espace partenaires, et à nous faire part de vos impressions à leur sujet. Consultez la [page Annonces de l’Espace partenaires](announcements/index.md) pour plus d’informations sur les fonctionnalités à venir. Vous pourrez ainsi démarrer la planification de leur utilisation pour développer votre activité. Notez que plusieurs fonctionnalités peuvent être disponibles à des fins de test sur une période donnée.
+Nous vous invitons à tester les nouvelles fonctionnalités avant qu’elles ne soient lancées auprès de la communauté mondiale de l’Espace partenaires, et à nous faire part de vos impressions à leur sujet. Consultez la [page Annonces de l’Espace partenaires](announcements/index.md) pour plus d’informations sur les fonctionnalités à venir. Vous pourrez ainsi démarrer la planification de leur utilisation pour développer votre activité. Il peut y avoir plusieurs fonctionnalités disponibles à test drive à un moment donné.
 
 ### <a name="test-drive-a-feature"></a>Tester une nouvelle fonctionnalité
 
@@ -58,4 +58,4 @@ Nous vous encourageons à partager vos idées et vos réflexions sur une version
 - Demander un support si vous rencontrez des problèmes liés à une fonctionnalité en préversion. Pour créer une demande de support, sélectionnez **Requêtes de support > Demandes de l’Espace partenaires** depuis le menu **Espace partenaires**, puis sélectionnez **Nouvelle demande** dans la page **Demandes de l’Espace partenaires**.
 
 
--- Votre équipe de l’Espace partenaires
+

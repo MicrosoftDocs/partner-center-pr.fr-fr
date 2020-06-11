@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: attribuer une licence, révoquer une licence, attribuer à plusieurs utilisateurs,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798567"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679096"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
 
@@ -35,7 +35,7 @@ Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateu
 
 L’espace partenaires suit et affiche tous les droits de licence détenus par le client.
 
-## <a name="in-this-section"></a>Contenu de cette section
+## <a name="in-this-section"></a>Dans cette section
 
 
 - [Attribuer des licences à plusieurs utilisateurs](#assign-licenses-to-groups)
@@ -76,7 +76,8 @@ L’espace partenaires suit et affiche tous les droits de licence détenus par l
 
 8. Sélectionnez **Enregistrer**. L’espace partenaires ouvre une page de confirmation des **licences mises à jour** qui répertorie les utilisateurs et leurs nouvelles licences.
 
-**Notez**  que certains produits Microsoft peuvent ne pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
+>[!NOTE]
+>Certains produits Microsoft peuvent ne pas être disponibles dans certains emplacements. D’autres produits dépendent d’autres produits ou services, ou ne peuvent pas être attribués ensemble au même utilisateur. Après l’enregistrement, la page de confirmation répertorie, pour l’ensemble des utilisateurs, les attributions de licence ayant abouti et ayant échoué.
 
 
 <a href="" id="revoking-licenses"></a>
@@ -98,6 +99,6 @@ L’espace partenaires suit et affiche tous les droits de licence détenus par l
 
 7. Sélectionnez **Enregistrer**.
 
-## <a name="related-topics"></a>Rubriques connexes
+## <a name="next-steps"></a>Étapes suivantes
 
 [Attribuer des licences à un utilisateur](assign-licenses-to-users.md)

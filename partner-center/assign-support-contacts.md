@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: agent d’aide, support, attribuer un contact de support technique, contact de support attitré
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907472"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678996"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Attribuer un revendeur en tant que contact du support technique pour les clients
 
@@ -47,14 +47,12 @@ Cela peut être utilisé pour les scénarios [multi-partenaires](multipartner.md
 
 3.  Dans **contact du support attitré**, sélectionnez le revendeur de produits désigné, puis cliquez sur **Envoyer**. 
 
-    Remarques : 
-    
-    *  Pour les nouveaux abonnements, le contact de support attitré est par défaut le fournisseur indirect. Vous pouvez également le remplacer par un revendeur indirect disposant de privilèges d’administrateur de délégation.
-    
-    *  Si le nom de votre revendeur ne figure pas dans la liste des contacts de support disponibles, ajoutez-le en [demandant une relation](request-a-relationship-with-a-customer.md). Une fois la relation établie, elle doit apparaître dans la liste.  
+   >[!NOTE]  
+ >Pour les nouveaux abonnements, le contact de support attitré est par défaut le fournisseur indirect. Vous pouvez également le remplacer par un revendeur indirect disposant de privilèges d’administrateur délégué.    
+>Si le nom du revendeur ne figure pas dans la liste des contacts de support disponibles, ajoutez-les en [demandant une relation](request-a-relationship-with-a-customer.md). Une fois la relation établie, elle doit apparaître dans la liste.  
 
 4.  Vérifiez que les modifications sont correctes, puis sélectionnez **Fermer**.
 
-## <a name="related-topics"></a>Rubriques connexes
+## <a name="next-steps"></a>Étapes suivantes
 
 [Supprimer une relation avec un client](remove-a-relationship.md)
