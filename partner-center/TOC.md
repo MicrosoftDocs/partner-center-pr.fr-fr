@@ -60,6 +60,7 @@
 ## [Structure des comptes dans l'Espace partenaires](account-structure.md)
 ## [Vérifier la propriété de votre domaine](become-global-admin.md)
 ## [Vérifier vos informations de compte](verification-responses.md)
+## [Fusionner votre compte partenaire avec un autre compte partenaire](merge-accounts.md)
 ## [Mettre à jour votre profil de partenaire](update-your-partner-profile.md)
 ## [Emplacements](manage-locations.md)
 ## [S’inscrire en tant que fournisseur de panneau de configuration](enroll-as-cpv.md)
@@ -81,7 +82,8 @@
 ## [Personnaliser le catalogue](customize-the-catalog.md)
 
 # [Développer votre entreprise](grow-your-business.md)
-## [Références](referrals.md)
+## [Vue d’ensemble des références](referrals.md)
+### [Répondre à des références](responding-to-referrals.md)
 ### [Gérer un profil professionnel](create-a-marketing-profile.md)
 ### [Gérer les prospects](manage-leads.md)
 ### [Gérer les opportunités de covente](manage-co-sell-opportunities.md)
@@ -175,6 +177,7 @@
 ### [Migrer des abonnements Office 365 Entreprise E4 vers des versions plus récentes d’Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Migrer Skype Entreprise Online (Plan 1) vers des versions plus récentes d’Office 365](skype-retiring.md)
 ### [Transférer des abonnements Azure](switch-azure-subscriptions-to-a-different-partner.md)
+### [Migrer les abonnements Kaizala Pro vers Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Données et analytique de l’Espace partenaires
 ## [Obtenir et analyser vos données métier](data-analysis-lp.md)
