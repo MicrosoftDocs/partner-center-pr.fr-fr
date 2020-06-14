@@ -11,68 +11,68 @@ Keywords: Crypto-Mining, crypto-monnaies Mining, sécurité
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3c6400c8670117be37413239f2a85b943dd3ff1
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: bcaf6675fdf77dbe46e2a76e4abdd0e6c41a3da3
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452546"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749106"
 ---
-# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a><span data-ttu-id="a662c-104">Notification de l’espace partenaires pour l’activité d’exploration de données crypto-monnaies</span><span class="sxs-lookup"><span data-stu-id="a662c-104">Partner Center notification for cryptocurrency mining activity</span></span>
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a><span data-ttu-id="e3c94-104">Notification de l’espace partenaires pour l’activité d’exploration de données crypto-monnaies</span><span class="sxs-lookup"><span data-stu-id="e3c94-104">Partner Center notification for cryptocurrency mining activity</span></span>
 
-<span data-ttu-id="a662c-105">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="a662c-105">**Applies to**</span></span>
+<span data-ttu-id="e3c94-105">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="e3c94-105">**Applies to**</span></span>
 
--  <span data-ttu-id="a662c-106">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="a662c-106">Partner Center</span></span>
--  <span data-ttu-id="a662c-107">Partenaires fournisseurs de solutions cloud</span><span class="sxs-lookup"><span data-stu-id="a662c-107">CSP partners</span></span>
+-  <span data-ttu-id="e3c94-106">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="e3c94-106">Partner Center</span></span>
+-  <span data-ttu-id="e3c94-107">Partenaires fournisseurs de solutions cloud</span><span class="sxs-lookup"><span data-stu-id="e3c94-107">CSP partners</span></span>
 
-<span data-ttu-id="a662c-108">Vous avez peut-être reçu la notification de l’espace partenaires suivante sur crypto-monnaies Mining :</span><span class="sxs-lookup"><span data-stu-id="a662c-108">You may have received the following Partner Center notification about cryptocurrency mining:</span></span>
+<span data-ttu-id="e3c94-108">Vous avez peut-être reçu la notification de l’espace partenaires suivante sur crypto-monnaies Mining :</span><span class="sxs-lookup"><span data-stu-id="e3c94-108">You may have received the following Partner Center notification about cryptocurrency mining:</span></span>
 
 :::image type="content" source="images/crypto1.png" alt-text="Image de notification de sécurité dans l’espace partenaires":::
 
-<span data-ttu-id="a662c-110">L’objectif de cette notification est de vous informer que nous avons détecté un Crypto-monnaies d’exploration de données sur un ou plusieurs de vos abonnements Azure au cours de la semaine précédente.</span><span class="sxs-lookup"><span data-stu-id="a662c-110">The purpose of this notification is to inform you that we've detected cryptocurrency mining on one or more of your Azure subscriptions within the past week.</span></span> <span data-ttu-id="a662c-111">L’exploration de crypto-monnaies n’est pas nécessairement une activité frauduleuse.</span><span class="sxs-lookup"><span data-stu-id="a662c-111">Cryptocurrency mining does not necessarily equal fraudulent activity.</span></span> <span data-ttu-id="a662c-112">Toutefois, c’est inhabituel, car le coût d’exécution de l’exploration de crypto-monnaies dans Azure a tendance à contrebalancer les récompenses financières potentielles.</span><span class="sxs-lookup"><span data-stu-id="a662c-112">However, it's unusual because the cost of running cryptocurrency mining in Azure tends to outweigh any potential financial rewards.</span></span>
+<span data-ttu-id="e3c94-110">L’objectif de cette notification est de vous informer que nous avons détecté un Crypto-monnaies d’exploration de données sur un ou plusieurs de vos abonnements Azure au cours de la semaine précédente.</span><span class="sxs-lookup"><span data-stu-id="e3c94-110">The purpose of this notification is to inform you that we've detected cryptocurrency mining on one or more of your Azure subscriptions within the past week.</span></span> <span data-ttu-id="e3c94-111">L’exploration de crypto-monnaies n’est pas nécessairement une activité frauduleuse.</span><span class="sxs-lookup"><span data-stu-id="e3c94-111">Cryptocurrency mining does not necessarily equal fraudulent activity.</span></span> <span data-ttu-id="e3c94-112">Toutefois, c’est inhabituel, car le coût d’exécution de l’exploration de crypto-monnaies dans Azure a tendance à contrebalancer les récompenses financières potentielles.</span><span class="sxs-lookup"><span data-stu-id="e3c94-112">However, it's unusual because the cost of running cryptocurrency mining in Azure tends to outweigh any potential financial rewards.</span></span>
 
-## <a name="checklist"></a><span data-ttu-id="a662c-113">Liste de contrôle</span><span class="sxs-lookup"><span data-stu-id="a662c-113">Checklist</span></span>
+## <a name="checklist"></a><span data-ttu-id="e3c94-113">Liste de contrôle</span><span class="sxs-lookup"><span data-stu-id="e3c94-113">Checklist</span></span>
 
-<span data-ttu-id="a662c-114">Pour vous protéger contre les fraudes financières susceptibles d’avoir un impact sur vous ou votre client, envisagez les étapes suivantes :</span><span class="sxs-lookup"><span data-stu-id="a662c-114">To protect against financial fraud that may impact you or your customer, consider the following steps:</span></span>
+<span data-ttu-id="e3c94-114">Pour vous protéger contre les fraudes financières susceptibles d’avoir un impact sur vous ou votre client, envisagez les étapes suivantes :</span><span class="sxs-lookup"><span data-stu-id="e3c94-114">To protect against financial fraud that may impact you or your customer, consider the following steps:</span></span>
 
-1. <span data-ttu-id="a662c-115">Vérifiez et confirmez que le compte client est en bonne position.</span><span class="sxs-lookup"><span data-stu-id="a662c-115">Review and confirm that the customer account is in good standing.</span></span> <span data-ttu-id="a662c-116">Vous pouvez accéder directement à l’abonnement en cliquant sur la notification.</span><span class="sxs-lookup"><span data-stu-id="a662c-116">You can access the subscription directly by clicking on the notification.</span></span>
+1. <span data-ttu-id="e3c94-115">Vérifiez et confirmez que le compte client est en bonne position.</span><span class="sxs-lookup"><span data-stu-id="e3c94-115">Review and confirm that the customer account is in good standing.</span></span> <span data-ttu-id="e3c94-116">Vous pouvez accéder directement à l’abonnement en cliquant sur la notification.</span><span class="sxs-lookup"><span data-stu-id="e3c94-116">You can access the subscription directly by clicking on the notification.</span></span>
 
-2. <span data-ttu-id="a662c-117">Passez en revue les modèles d’utilisation d’Azure pour l’abonnement.</span><span class="sxs-lookup"><span data-stu-id="a662c-117">Review Azure usage patterns for the subscription.</span></span> <span data-ttu-id="a662c-118">Les pics soudains peuvent suggérer une activité inattendue.</span><span class="sxs-lookup"><span data-stu-id="a662c-118">Sudden spikes may suggest unexpected activity.</span></span>
+2. <span data-ttu-id="e3c94-117">Passez en revue les modèles d’utilisation d’Azure pour l’abonnement.</span><span class="sxs-lookup"><span data-stu-id="e3c94-117">Review Azure usage patterns for the subscription.</span></span> <span data-ttu-id="e3c94-118">Les pics soudains peuvent suggérer une activité inattendue.</span><span class="sxs-lookup"><span data-stu-id="e3c94-118">Sudden spikes may suggest unexpected activity.</span></span>
 
-3. <span data-ttu-id="a662c-119">Contactez le client pour confirmer que l’activité est attendue.</span><span class="sxs-lookup"><span data-stu-id="a662c-119">Contact the customer to confirm that the activity is expected.</span></span>
+3. <span data-ttu-id="e3c94-119">Contactez le client pour confirmer que l’activité est attendue.</span><span class="sxs-lookup"><span data-stu-id="e3c94-119">Contact the customer to confirm that the activity is expected.</span></span>
 
-   <span data-ttu-id="a662c-120">Si l’activité est attendue, revenez à la page de détails de l’abonnement Azure du client et vérifiez que l’exploration de données crypto-monnaies est légitime.</span><span class="sxs-lookup"><span data-stu-id="a662c-120">If the activity is expected, return to the customer's Azure subscription detail page and confirm that the cryptocurrency mining is legitimate.</span></span>
+   <span data-ttu-id="e3c94-120">Si l’activité est attendue, revenez à la page de détails de l’abonnement Azure du client et vérifiez que l’exploration de données crypto-monnaies est légitime.</span><span class="sxs-lookup"><span data-stu-id="e3c94-120">If the activity is expected, return to the customer's Azure subscription detail page and confirm that the cryptocurrency mining is legitimate.</span></span>
 
    :::image type="content" source="images/crypto2.png" alt-text="Image de la page de détails de l’abonnement Azure du client":::
 
-## <a name="steps-for-unexpected-activity"></a><span data-ttu-id="a662c-122">Étapes pour une activité inattendue</span><span class="sxs-lookup"><span data-stu-id="a662c-122">Steps for unexpected activity</span></span>
+## <a name="steps-for-unexpected-activity"></a><span data-ttu-id="e3c94-122">Étapes pour une activité inattendue</span><span class="sxs-lookup"><span data-stu-id="e3c94-122">Steps for unexpected activity</span></span>
 
-<span data-ttu-id="a662c-123">Si l’activité est inattendue, tenez compte des points suivants :</span><span class="sxs-lookup"><span data-stu-id="a662c-123">If the activity is unexpected, consider the following:</span></span>
+<span data-ttu-id="e3c94-123">Si l’activité est inattendue, tenez compte des points suivants :</span><span class="sxs-lookup"><span data-stu-id="e3c94-123">If the activity is unexpected, consider the following:</span></span>
 
-1. <span data-ttu-id="a662c-124">Vérifiez que les ressources Azure pour l’exploration de données crypto-monnaies ne sont pas nécessaires et supprimez-les pour éviter d’autres frais Azure.</span><span class="sxs-lookup"><span data-stu-id="a662c-124">Confirm that the Azure resources for cryptocurrency mining are not needed and delete them to avoid further Azure charges.</span></span>
+1. <span data-ttu-id="e3c94-124">Vérifiez que les ressources Azure pour l’exploration de données crypto-monnaies ne sont pas nécessaires et supprimez-les pour éviter d’autres frais Azure.</span><span class="sxs-lookup"><span data-stu-id="e3c94-124">Confirm that the Azure resources for cryptocurrency mining are not needed and delete them to avoid further Azure charges.</span></span>
 
-2. <span data-ttu-id="a662c-125">Découvrez comment les ressources ont été créées en premier lieu.</span><span class="sxs-lookup"><span data-stu-id="a662c-125">Understand how the resources were created in the first place.</span></span> <span data-ttu-id="a662c-126">Vous devrez peut-être passer en revue les journaux de gestion des ressources Azure pour les activités d’approvisionnement des ressources.</span><span class="sxs-lookup"><span data-stu-id="a662c-126">This may require you to review the Azure Resource Management logs for resource provisioning activities.</span></span>
+2. <span data-ttu-id="e3c94-125">Découvrez comment les ressources ont été créées en premier lieu.</span><span class="sxs-lookup"><span data-stu-id="e3c94-125">Understand how the resources were created in the first place.</span></span> <span data-ttu-id="e3c94-126">Vous devrez peut-être passer en revue les journaux de gestion des ressources Azure pour les activités d’approvisionnement des ressources.</span><span class="sxs-lookup"><span data-stu-id="e3c94-126">This may require you to review the Azure Resource Management logs for resource provisioning activities.</span></span>
 
-3. <span data-ttu-id="a662c-127">Si vous avez besoin de savoir qui a créé l’abonnement, consultez les journaux d’activité de l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="a662c-127">If you need to find out who created the subscription, review Partner Center activity logs.</span></span>
+3. <span data-ttu-id="e3c94-127">Si vous avez besoin de savoir qui a créé l’abonnement, consultez les journaux d’activité de l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="e3c94-127">If you need to find out who created the subscription, review Partner Center activity logs.</span></span>
 
-<span data-ttu-id="a662c-128">La détection d’activités d’exploration de données crypto-monnaies est basée sur des heuristiques et peut ne pas être de 100%.</span><span class="sxs-lookup"><span data-stu-id="a662c-128">Detection of cryptocurrency mining activities is based on heuristics and may not be 100% accurate.</span></span> <span data-ttu-id="a662c-129">Veillez à mettre en place des systèmes de gouvernance et de surveillance pour vous protéger contre les activités frauduleuses ou non autorisées.</span><span class="sxs-lookup"><span data-stu-id="a662c-129">Be sure to have governance and monitoring systems in place to protect against fraudulent or other unpermitted activities.</span></span> <span data-ttu-id="a662c-130">Pour plus d’informations, consultez [non-paiement, fraude ou utilisation abusive](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).</span><span class="sxs-lookup"><span data-stu-id="a662c-130">For more information, see [Non-payment, fraud, or misuse](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).</span></span>
+<span data-ttu-id="e3c94-128">La détection d’activités d’exploration de données crypto-monnaies est basée sur des heuristiques et peut ne pas être de 100%.</span><span class="sxs-lookup"><span data-stu-id="e3c94-128">Detection of cryptocurrency mining activities is based on heuristics and may not be 100% accurate.</span></span> <span data-ttu-id="e3c94-129">Veillez à mettre en place des systèmes de gouvernance et de surveillance pour vous protéger contre les activités frauduleuses ou non autorisées.</span><span class="sxs-lookup"><span data-stu-id="e3c94-129">Be sure to have governance and monitoring systems in place to protect against fraudulent or other unpermitted activities.</span></span> <span data-ttu-id="e3c94-130">Pour plus d’informations, consultez [non-paiement, fraude ou utilisation abusive](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).</span><span class="sxs-lookup"><span data-stu-id="e3c94-130">For more information, see [Non-payment, fraud, or misuse](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).</span></span>
 
-## <a name="contact-support-if-needed"></a><span data-ttu-id="a662c-131">Contacter le support technique si nécessaire</span><span class="sxs-lookup"><span data-stu-id="a662c-131">Contact support if needed</span></span>
+## <a name="contact-support-if-needed"></a><span data-ttu-id="e3c94-131">Contacter le support technique si nécessaire</span><span class="sxs-lookup"><span data-stu-id="e3c94-131">Contact support if needed</span></span>
 
-<span data-ttu-id="a662c-132">Si vous avez des questions ou des problèmes relatifs à la notification, vous pouvez utiliser la procédure suivante pour ouvrir une demande de support.</span><span class="sxs-lookup"><span data-stu-id="a662c-132">If you have questions or concerns about the notification, you can use the following procedure to open a support request.</span></span>
+<span data-ttu-id="e3c94-132">Si vous avez des questions ou des problèmes relatifs à la notification, vous pouvez utiliser la procédure suivante pour ouvrir une demande de support.</span><span class="sxs-lookup"><span data-stu-id="e3c94-132">If you have questions or concerns about the notification, you can use the following procedure to open a support request.</span></span>
 
-1. <span data-ttu-id="a662c-133">Dans l’espace partenaires, sélectionnez **support** , puis demandes de l' **espace partenaires**.</span><span class="sxs-lookup"><span data-stu-id="a662c-133">In the Partner Center, select **Support** and then select **Partner Center requests**.</span></span>
+1. <span data-ttu-id="e3c94-133">Dans l’espace partenaires, sélectionnez **support** , puis demandes de l' **espace partenaires**.</span><span class="sxs-lookup"><span data-stu-id="e3c94-133">In the Partner Center, select **Support** and then select **Partner Center requests**.</span></span>
 
-2. <span data-ttu-id="a662c-134">Sélectionnez **nouvelle demande**.</span><span class="sxs-lookup"><span data-stu-id="a662c-134">Select **New Request**.</span></span> 
+2. <span data-ttu-id="e3c94-134">Sélectionnez **nouvelle demande**.</span><span class="sxs-lookup"><span data-stu-id="e3c94-134">Select **New Request**.</span></span> 
 
-3. <span data-ttu-id="a662c-135">Dans le menu déroulant **type de problème** , sélectionnez **Ajouter ou gérer des clients**.</span><span class="sxs-lookup"><span data-stu-id="a662c-135">In the **Type of problems** dropdown menu, select **Adding or managing customers**.</span></span>
+3. <span data-ttu-id="e3c94-135">Dans le menu déroulant **type de problème** , sélectionnez **Ajouter ou gérer des clients**.</span><span class="sxs-lookup"><span data-stu-id="e3c94-135">In the **Type of problems** dropdown menu, select **Adding or managing customers**.</span></span>
 
-4. <span data-ttu-id="a662c-136">Dans le menu déroulant **impact** , sélectionnez **modéré**.</span><span class="sxs-lookup"><span data-stu-id="a662c-136">In the **Impact** dropdown menu, select **Moderate**.</span></span>
+4. <span data-ttu-id="e3c94-136">Dans le menu déroulant **impact** , sélectionnez **modéré**.</span><span class="sxs-lookup"><span data-stu-id="e3c94-136">In the **Impact** dropdown menu, select **Moderate**.</span></span>
 
-5. <span data-ttu-id="a662c-137">Dans le champ **titre** , entrez **notification d’exploration de données de chiffrement**.</span><span class="sxs-lookup"><span data-stu-id="a662c-137">In the **Title** field, enter **Crypto-mining notification**.</span></span>
+5. <span data-ttu-id="e3c94-137">Dans le champ **titre** , entrez **notification d’exploration de données de chiffrement**.</span><span class="sxs-lookup"><span data-stu-id="e3c94-137">In the **Title** field, enter **Crypto-mining notification**.</span></span>
 
-6. <span data-ttu-id="a662c-138">Dans le champ **Description** , entrez le nom de l’abonnement affecté, ainsi que vos autres questions ou préoccupations.</span><span class="sxs-lookup"><span data-stu-id="a662c-138">In the **Description** field, enter the name of the affected subscription along with your other questions or concerns.</span></span>
+6. <span data-ttu-id="e3c94-138">Dans le champ **Description** , entrez le nom de l’abonnement affecté, ainsi que vos autres questions ou préoccupations.</span><span class="sxs-lookup"><span data-stu-id="e3c94-138">In the **Description** field, enter the name of the affected subscription along with your other questions or concerns.</span></span>
 
-7. <span data-ttu-id="a662c-139">Entrez vos informations de contact.</span><span class="sxs-lookup"><span data-stu-id="a662c-139">Enter your contact information.</span></span>
+7. <span data-ttu-id="e3c94-139">Entrez vos informations de contact.</span><span class="sxs-lookup"><span data-stu-id="e3c94-139">Enter your contact information.</span></span>
 
-8. <span data-ttu-id="a662c-140">Sélectionnez **Envoyer**.</span><span class="sxs-lookup"><span data-stu-id="a662c-140">Select **Submit**.</span></span>
+8. <span data-ttu-id="e3c94-140">Sélectionnez **Envoyer**.</span><span class="sxs-lookup"><span data-stu-id="e3c94-140">Select **Submit**.</span></span>
