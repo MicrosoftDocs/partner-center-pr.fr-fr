@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 214eedf60d89172b7c003acf927853ff04d7fd72
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 83545002fbc0138e4020473a9554d9127e7771b4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603858"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749205"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Comprendre les fichiers de rapprochement basés sur l’utilisation et leurs champs spécifiques dans l’espace partenaires
 
@@ -70,5 +70,5 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 | MeteredRegion | Identifie l’emplacement d’un centre de données dans la région (pour les services où cette valeur est applicable et remplie). | *Asie est*, *Sud Asie est*, *Europe du Nord*, Europe de l' *Ouest*, *nord du Centre des États*-Unis, *sud du Centre des États-Unis* |
 | MeteredService | Identifie l’utilisation d’un service Azure individuel lorsqu’il n’est pas spécifiquement identifié dans la colonne **ServiceName** . Par exemple, les transferts de données sont signalés comme *Microsoft Azure tous les services* dans la colonne **ServiceName** . | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Storage* |
 | MeteredServiceType | Sous-titre du champ **MeteredService** qui fournit des éclaircissements supplémentaires sur l’utilisation des services Azure. | *EXTERIEUR* |
-| Projet | Nom défini par le client pour son instance de service. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| Project | Nom défini par le client pour son instance de service. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Nombre de connexions Azure Service Bus qui ont été approvisionnées et utilisées pour un jour donné. | *1,000000 connexions/30 jours* (si vous aviez une connexion configurée individuellement au cours d’un mois de 30 jours), *25 connexions/30 jours – utilisée : 1,000000* (si vous aviez un pack de 25 connexions de service bus approvisionnées et que vous avez utilisé 1 pendant cette journée) |

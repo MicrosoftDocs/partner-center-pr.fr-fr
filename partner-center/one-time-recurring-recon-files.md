@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e5fc08500cfe78f8e814ed361062c209b0f76ef
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998415"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749197"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Fichiers de réconciliation ponctuels et périodiques dans l’espace partenaires
 
