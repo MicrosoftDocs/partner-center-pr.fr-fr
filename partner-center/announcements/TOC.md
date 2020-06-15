@@ -1,4 +1,5 @@
 # [Espace partenaires - Annonces](index.md)
+# [Juin 2020](2020-june.md)
 # [Mai 2020](2020-may.md)
 # [Avril 2020](2020-april.md)
 # [Mars 2020](2020-march.md)
