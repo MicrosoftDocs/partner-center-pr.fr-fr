@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: e242a42c87c0d2f6679380e17cbf18898d212e51
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254330"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749087"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-| **Catégorie** | **Annonces de mai 2020** | **Annoncé** |
-|---------|---------|:---------|
+| **Catégorie** | **Annonces de juin 2020** | **Annoncé** |
+|---------|:---------|:---------|
+| Fonctions | [Changement de la périodicité de facturation par défaut d’annuelle à mensuelle](2020-june.md#4) | 17 juin |
+| Fonctions | [Actualisation du support des abonnements au logiciel Windows Server pour CSP](2020-june.md#2) | 12 juin |
+| Offres/marchés | [Offres et produits Microsoft Dynamics 365 et Power Platform nouveaux et en fin de vie](2020-june.md#1) | 11 juin |
+| Fonctions | [Fusionner deux comptes d’entreprise ou plus dans l’Espace partenaires](https://docs.microsoft.com/partner-center/merge-accounts) | 9 juin |
+| **Catégorie** | **Annonces de mai 2020** | **Date** |
 | Fonctions | [Correction de l’offre Microsoft 365 A3 – Licence sans assistance pour les partenaires Éducation](2020-may.md#5) | 28 mai |
 | Fonctions | [Les clients actifs peuvent renouveler leur plan EP (Enhancement Plan) via le programme Fournisseur de solutions Cloud (CPS) et recevoir des licences en ligne](2020-may.md#4) | 26 mai |
 | Fonctions | [Changement d’adresse du Centre des opérations Amériques](2020-may.md#3) | 15 mai |
