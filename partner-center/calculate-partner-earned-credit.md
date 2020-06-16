@@ -1,7 +1,7 @@
 ---
-title: Calcul du crédit gagné par le partenaire | Espace partenaires
+title: Calcul du crédit gagné par le partenaire
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment l’aspect du crédit gagné (PEC) du plan Azure est calculé. Cela comprend les conditions d’éligibilité pour les partenaires et les fournisseurs indirects.
@@ -9,19 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721724"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788733"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Mode de calcul du crédit gagné (PEC) du partenaire
+# <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>Comment le crédit gagné par le partenaire (PEC) est calculé pour les partenaires dans le programme du fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
-- Administrateur global
-- Administration de facturation
+- Administrateur général
+- Administrateur de facturation
 
 Les partenaires qui possèdent la gestion des opérations informatiques 24/24 h des pièces ou la totalité de l’environnement Azure de leurs clients dans CSP sont récompensés avec PEC. Le PEC est fourni dans le cadre de la facture au partenaire qui a une relation de facturation directe avec Microsoft. Le crédit est calculé quotidiennement et reflété dans la facture mensuelle. Par défaut, dans CSP, les partenaires reçoivent les droits d’accès nécessaires à l’abonnement du client, ce qui leur permet d’avoir une gestion et un contrôle des opérations 24h/24 et 7j/7 des ressources sur l’abonnement. Les autres façons dont le client peut configurer l’accès pour un partenaire de transaction sont décrites dans la section suivante.
 
@@ -46,7 +47,7 @@ Les partenaires qui possèdent la gestion des opérations informatiques 24/24 h 
 
 Pour plus d’informations sur l’accès à la gestion des abonnements Azure et sur la liaison de votre ID MPN aux rôles RBAC, consultez [gérer les abonnements et les ressources sous le plan Azure](azure-plan-manage.md).
 
-Pour plus d’informations
+Informations supplémentaires
 
 - [Plan Azure-facturation](azure-plan-billing.md)
 

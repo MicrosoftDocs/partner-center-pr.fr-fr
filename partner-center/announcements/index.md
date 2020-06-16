@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749087"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788723"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -23,6 +23,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces de juin 2020** | **Annoncé** |
 |---------|:---------|:---------|
 | Fonctions | [Changement de la périodicité de facturation par défaut d’annuelle à mensuelle](2020-june.md#4) | 17 juin |
+| Offres/marchés | [Changements dans l’aide F1 de Microsoft 365](2020-june.md#3) | 15 juin |
 | Fonctions | [Actualisation du support des abonnements au logiciel Windows Server pour CSP](2020-june.md#2) | 12 juin |
 | Offres/marchés | [Offres et produits Microsoft Dynamics 365 et Power Platform nouveaux et en fin de vie](2020-june.md#1) | 11 juin |
 | Fonctions | [Fusionner deux comptes d’entreprise ou plus dans l’Espace partenaires](https://docs.microsoft.com/partner-center/merge-accounts) | 9 juin |

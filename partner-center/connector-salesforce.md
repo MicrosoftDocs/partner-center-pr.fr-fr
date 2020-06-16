@@ -9,12 +9,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453256"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788773"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -29,7 +29,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
-|**Rubriques**   |**Détails**   |**Liens**   |
+|**Explique**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
 |Co-vente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -233,12 +233,12 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
    |**Étiquette du champ**   |**Nom du champ**|**Type de données**|**Indexée**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |Audit|  Audit__c|Longue zone de texte (100000) (ligne visible 4)||
-   |Comment Microsoft peut-il vous aider ?|H ow_can_Microsoft_help__c|Liste déroulante|
-   |Produits|Produits-c|texte (255)||
-   |Referral |  Referral_Identi fier__c|Texte (100) (ID externe)|Oui|
-   |Lien de référence|   Referral_Link__c_|URL (255)||
-   |Synchroniser avec le CEN de partenaires|synchronisation avec Partner-Center-c|Case à cocher (désactivé par défaut)||
+   |Audit| Audit__c|Longue zone de texte (100000) (ligne visible 4)||
+   |Comment Microsoft peut-il vous aider ?|How_can_Microsoft_help_c|Liste déroulante|
+   |Produits|Products_c|texte (255)||
+   |Referral | Referral_Identfier_c|Texte (100) (ID externe)|oui|
+   |Lien de référence| Referral_Link_c_|URL (255)||
+   |Synchroniser avec l’espace partenaires|sync_with_partner_center_c|Case à cocher (désactivé par défaut)||
 
    * Valeurs de liste déroulante :
 

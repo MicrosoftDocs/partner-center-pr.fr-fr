@@ -1,7 +1,7 @@
 ---
-title: Attribuer ou révoquer des licences pour plusieurs utilisateurs | Espace partenaires
+title: Attribuer ou révoquer des licences pour plusieurs utilisateurs
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser un compte client pour affecter ou révoquer des licences et des services à un seul utilisateur ou à plusieurs utilisateurs à la fois.
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: attribuer une licence, révoquer une licence, attribuer à plusieurs utilisateurs,
 ms.localizationpriority: medium
-ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 6d3baeed12d26f273848fb144651475d304f8d36
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679096"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788690"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Attribuer ou révoquer des licences pour plusieurs utilisateurs
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Affecter ou révoquer des licences en même temps à plusieurs utilisateurs dans un compte client
 
 **S’applique à**
 

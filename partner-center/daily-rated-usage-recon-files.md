@@ -1,19 +1,19 @@
 ---
 title: Fichiers de rapprochement d’utilisation évalués quotidiennement
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 06/12/2020
 description: Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795594"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788803"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires
 
@@ -30,6 +30,9 @@ ms.locfileid: "83795594"
 - Agent du support technique
 
 Cette rubrique explique comment lire les fichiers de réconciliation d’utilisation évalués quotidiennement.
+
+>[!NOTE]
+>L’utilisation à l’aide d’une évaluation quotidienne prend normalement 24 heures pour s’afficher dans l’espace partenaires ou pour être accessible via l’API.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Champs dans les fichiers de rapprochement d’utilisation évalués quotidiennement
 

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679356"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776286"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Rapport compétences disponible à partir du tableau de bord Insights de l’espace partenaires
 
@@ -50,7 +50,7 @@ Vous pouvez voir les sections suivantes dans le rapport compétences :
  > [!NOTE]
  > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
-**Summmary**
+**Résumé**
 
 La vue résumé présente un nombre de compétences avec leurs noms à chaque niveau de compétence (Gold/Silver) à travers toutes les étapes du cycle de vie de la compétence. Les étapes du cycle de vie de la compétence incluent : **démarré**, **qualifié**, **actif**et **risqué**. Exemple : les exigences relatives aux compétences Cloud se situent sous deux catégories : compétences et performances.
 

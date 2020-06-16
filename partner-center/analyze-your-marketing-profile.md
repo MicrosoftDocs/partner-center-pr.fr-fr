@@ -1,21 +1,22 @@
 ---
-title: Analyser votre profil d’entreprise | Espace partenaires
+title: Analyser votre profil professionnel
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser la page Insights Business Profile pour voir à quel degré vous souhaitez attirer l’attention de vos clients cibles et générer des références.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 974258f5cfbb0a017d75c8f30a855cb4a23ce39a
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722359"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788747"
 ---
-# <a name="analyze-your-business-profile"></a>Analyser votre profil d’entreprise
+# <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analyser votre profil d’entreprise : Découvrez comment attirer les clients cibles et les références potentielles
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -28,16 +29,16 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 **Rôles appropriés**
 
-- Administrateur global
+- Administrateur général
 - Administrateur partenaire MPN
 - Administrateur des références
 - Administrateur de profils métier
 - Agent d’administration
-- Commercial
+- Agent commercial
 
 La page **Insights Business Profile** de l’espace partenaires vous permet de voir à quel degré vous souhaitez attirer l’attention de vos clients cibles et générer des références.
 
-Pour afficher vos données d’informations de référence, dans le menu de l’espace partenaires, accédez à **références > Business profil Insights**. Vos données affichent les performances du profil, analysent des tendances et identifient les domaines qui nécessitent une action.
+Pour afficher vos données d’informations de référence, dans le menu de l’espace partenaires, accédez à **références > Business profil Insights**. Vos données affichent les performances des profils, analysent les tendances et identifient les zones qui nécessitent une action.
 
 En haut de la page **Insights Business Profile** , vous pouvez sélectionner la période pour laquelle vous souhaitez afficher les données. La sélection par défaut est **30D** (30 jours), mais vous pouvez choisir d’afficher les données pour une période de 3 ou 6 mois à la place. Les données de toutes les régions sont incluses.
 

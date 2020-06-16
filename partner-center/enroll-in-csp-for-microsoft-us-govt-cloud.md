@@ -1,19 +1,21 @@
 ---
-title: Inscrivez-vous au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
+title: S’inscrire au programme Fournisseur de solutions Cloud
 ms.topic: article
-ms.date: 11/27/2019
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Avant de vous inscrire au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis, en savoir plus sur les exigences du programme CSP.
+description: En savoir plus sur les exigences du programme CSP pour les partenaires qui souhaitent s’inscrire au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b9de82652543843b09dfdb00829c7911c20c572
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798367"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788783"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrivez-vous au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -75,13 +77,13 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
 > [!NOTE]  
 > Une fois que vous avez affecté des utilisateurs au rôle d’agent administrateur, ils peuvent accéder à la liste de vos clients sur la page **clients** et [ajouter de nouveaux clients](add-a-new-customer.md).   
 
-1.  Connectez-vous au portail d’administration Microsoft Azure https://portal.azure.us/à l’adresse.
+1.  Connectez-vous au portail d’administration Microsoft Azure à l’adresse https://portal.azure.us/ .
 
 2.  Affectez le rôle d’agent d’administration aux utilisateurs appropriés de votre organisation. Pour ce faire, vous devez ajouter ces utilisateurs au groupe **AdminAgent** intégré. Pour plus d’informations sur la procédure à suivre, consultez [gérer les membres d’un groupe dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) .
  
-## <a name="connect-with-us"></a>Restez en contact
+## <a name="connect-with-us"></a>Rejoignez-nous
 
-- Des questions ? Envoyez-nous un e-mail à l’adresseazgovcsp@microsoft.com
+- Vous avez des questions ? Envoyez-nous un e-mail à l’adresseazgovcsp@microsoft.com
 
 - Rejoignez-nous sur [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 
 
