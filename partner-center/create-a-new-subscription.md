@@ -5,18 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment vendre à vos clients des abonnements à des produits publiés par Microsoft, ainsi qu’à des produits SaaS publiés par des ISV tiers.
-ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: abonnement, créer nouveau, ajouter un abonnement, suspendre, annuler, suspendre, suspendre, SaaS, licence, ISV, tiers
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679056"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991488"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 

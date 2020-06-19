@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Informations sur l’espace partenaires, rapports, télécharger des rapports
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793175"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072448"
 ---
 # <a name="download-reports"></a>Télécharger des rapports
 
@@ -37,7 +37,8 @@ Pour générer un rapport, commencez par sélectionner le rapport dans la liste 
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Rapports générés":::
 
->OBSERVE Seuls les utilisateurs qui sont des visionneuses de rapports peuvent télécharger des rapports. Pour plus d’informations sur l’accès basé sur les rôles aux rapports de tableau de bord Insights, consultez la rubrique [rôles PCI](pci-roles.md). 
+>[!NOTE] 
+>Seuls les utilisateurs qui sont des visionneuses de rapports peuvent télécharger des rapports. Pour plus d’informations sur l’accès basé sur les rôles aux rapports de tableau de bord Insights, consultez la rubrique [rôles PCI](pci-roles.md). 
 
 ## <a name="available-reports"></a>Rapports disponibles
 

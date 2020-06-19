@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment ajouter simultanément plusieurs utilisateurs au compte d’un client. Téléchargez un fichier de données dans l’espace partenaires à l’aide du format de fichier de valeurs séparées par des virgules (. csv).
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: le chargement en bloc, l’ajout de plusieurs utilisateurs au compte d’un client, l’ajout d’utilisateurs du client, le téléchargement en bloc des utilisateurs du client, le compte client, les utilisateurs clients, les utilisateurs
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 09bb83b82cf1db78a54af9bab98a5cbdaa00c0d9
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794901"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991078"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Ajouter plusieurs utilisateurs à un compte client-charger un fichier de données dans l’espace partenaires
 
@@ -48,7 +47,7 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 | Prénom      | Prénom de l’utilisateur (champ facultatif)                                           | limité à 50 caractères                         |
 | Nom       | Nom de l’utilisateur (champ facultatif)                                            | limité à 50 caractères                         |
 | Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | limité à 50 caractères                         |
-| Courrier           | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
+| E-mail           | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
 | Mise à jour de l'état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*Conserver vide\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Pour créer plusieurs comptes d’utilisateur

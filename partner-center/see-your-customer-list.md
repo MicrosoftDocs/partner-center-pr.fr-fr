@@ -5,17 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Les enregistrements de clients font partie des ressources d’informations les plus importantes. Découvrez comment afficher, Rechercher, mettre à jour & exporter des informations dans votre liste de clients de l’espace partenaires.
-ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ba70cfccf3597868187c6b3c91c313732af1ab7
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: b248a5614bc071068ee2e7a70906795c12f24a14
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426028"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992160"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Gérer votre liste de clients-Rechercher, mettre à jour ou exporter des clients dans l’espace partenaires
 

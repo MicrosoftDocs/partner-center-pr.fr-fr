@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: En savoir plus sur la tarification spéciale et réduite de Microsoft pour certains groupes de clients, y compris les clients de formation, les clients sans but lucratif et les administrations.
-ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467169"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991244"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendez à des secteurs spécialisés tels que l’éducation, les personnes non lucratives et les utilisateurs gouvernementaux
 
@@ -35,9 +34,9 @@ Microsoft fournit une tarification spéciale et réduite pour certains groupes d
 
 |**Tarification spéciale**   |**Compétences requises du revendeur**   |**Qualifications requises par le client**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Aucune   | Doit être un [utilisateur d’éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Administration   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur une licence à Government, aucune qualification n’est requise.|   Aucune|
-|Association sans but lucratif  |Aucune<br/> Doit avoir un locataire Azure Active Directory à but non lucratif.<br/> En savoir plus sur les [offres spéciales à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscrivez-vous au [programme Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
+|Education   |None   | Doit être un [utilisateur d’éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Administration   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur une licence à Government, aucune qualification n’est requise.|   None|
+|Association sans but lucratif  |None<br/> Doit avoir un locataire Azure Active Directory à but non lucratif.<br/> En savoir plus sur les [offres spéciales à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscrivez-vous au [programme Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Vérifier vos qualifications revendeur
 

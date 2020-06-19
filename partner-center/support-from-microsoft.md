@@ -5,17 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Si vous rencontrez des problèmes avec un service Microsoft ou avec l’Espace partenaires, vous pouvez demander de l’aide à Microsoft et suivre l’incident jusqu’à sa résolution.
-ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc4b9ac8a371c63b44624431546dae359b9938db
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 99017a5374c8155564b3d784106ff5918423c548
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425889"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992143"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Prise en charge de Microsoft-quand faire remonter les problèmes, comment les signaler ou comment vérifier l’intégrité du service
 

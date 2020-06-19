@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: En savoir plus sur vos fichiers de conciliation de factures &. Votre facture indique les frais relatifs à l’espace partenaires dans le programme, les produits et les clients pour cette période mensuelle.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturation d’abonnement, facturation, facturation dans l’espace partenaires, facturation de l’espace partenaires, lire ma facture, facture, facture de l’espace partenaires, facture CSP, où est ma facture ?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467459"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991884"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendre votre facture et votre fichier de rapprochement-Découvrez comment les trouver dans l’espace partenaires
 

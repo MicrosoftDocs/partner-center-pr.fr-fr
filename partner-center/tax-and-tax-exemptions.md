@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: Pour les partenaires du programme CSP, Découvrez les responsabilités fiscales par région, comment envoyer des exemptions de taxe pour les ventes de fournisseurs de solutions et comment obtenir un support technique pour les questions fiscales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: LauraBrenner
 keywords: taxe, exonération fiscale, TVA, revendeur, facturation
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458295"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991789"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays pour les partenaires dans le programme CSP
 

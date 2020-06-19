@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apprenez à créer des comptes d’utilisateur pour un client, à ajouter ou supprimer des licences utilisateur, à réinitialiser les mots de passe utilisateur, à supprimer des comptes d’utilisateur ou à les restaurer.
-ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: LauraBrenner
 ms.author: labrenne
 Keywords: gestion des clients, compte, créer un compte, licences, attribuer une licence, gestion des utilisateurs, mot de passe, réinitialiser le mot de passe, modifier le mot de passe
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9fa251bb6211786df0e6255d0d8ce7a2310a52ad
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 3fb55e341692e38250c4e751cf73f3120604c15a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795033"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991031"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Tâches de gestion des utilisateurs pour les comptes clients dans l’espace partenaires
 

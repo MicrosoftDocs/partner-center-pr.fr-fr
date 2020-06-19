@@ -5,17 +5,16 @@ ms.date: 04/28/2020
 description: Découvrez les avantages, les restrictions et les procédures pour demander un crédit de contrat de niveau de service (SLA) auprès de Microsoft si vos clients rencontrent une panne de service.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 27a444bc5f923b1d2ad18bfe47cf70b365751e42
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907870"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992012"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Comment et quand demander un crédit de contrat de niveau de service (SLA) de Microsoft
 
@@ -48,7 +47,7 @@ Vous pouvez trouver l’identificateur de l’incident de panne sur la page **se
 | EX | Exchange Online |
 | FO | Protection Exchange Online |
 | SB | Skype entreprise Online (anciennement Lync Online) |
-| Système d''exploitation | Abonnement Office |
+| Système d’exploitation | Abonnement Office |
 | Po | Power BI pour Office 365 |
 | SP | SharePoint Online |
 | Ye | Yammer Enterprise |

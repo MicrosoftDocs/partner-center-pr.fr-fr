@@ -5,18 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser l’espace partenaires pour vérifier l’intégrité du service d’un client lorsqu’il rencontre un problème avec un service.
-ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: LauraBrenner
 ms.author: labrenne
 Keywords: intégrité, intégrité du service, problèmes de service
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 345f85454b21eb339179f9f8bdf7bea376ce48ed
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458375"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991643"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Vérifier l’état du service pour qu’un client signale un problème ou une panne de service potentiel
 

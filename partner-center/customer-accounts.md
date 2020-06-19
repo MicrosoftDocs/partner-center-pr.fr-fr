@@ -5,17 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Recherchez des ressources pour les partenaires revendeurs dans l’espace partenaires. Cela comprend la création de comptes clients avant la vente d’abonnements, la facturation ou l’offre de support.
-ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e90661d2a6a0f1f3f25d6dfbf0ae3f0019815dfb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907940"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991400"
 ---
 # <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Configuration et gestion des comptes clients pour les partenaires revendeurs dans l’espace partenaires
 

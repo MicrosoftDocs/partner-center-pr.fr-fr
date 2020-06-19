@@ -5,22 +5,21 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consultez les pays, les régions et les devises où vous pouvez vendre des offres CSP, en fonction de l’emplacement de votre entreprise.
-ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: LauraBrenner
 ms.author: labrenne
 keywords: Marchés du CSP, territoires, où puis-je vendre par le biais du programme CSP, des offres CSP, des régions, vendre des solutions Cloud, CSP global
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467429"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991819"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Les marchés régionaux et les devises du programme fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP
 
-Votre marché dépend de l’emplacement de votre entreprise. Votre marché inclut les régions et/ou les pays où vous pouvez vendre des offres du programme fournisseur de solutions Cloud (CSP).
+L’emplacement de votre entreprise détermine votre marché. Votre marché inclut les régions et/ou les pays où vous pouvez vendre des offres du programme fournisseur de solutions Cloud (CSP).
 
 Par exemple, si votre entreprise est située dans le États-Unis, vous pouvez vendre des offres CSP aux clients résidant aux États-Unis et dans les îles américaines. Si votre entreprise est située au Brésil, vous pouvez vendre des offres CSP aux clients uniquement au Brésil. Si votre entreprise est située dans la région Afrique, vous pouvez vendre des offres CSP à des clients dans les 18 pays de la région Afrique.
 
@@ -79,7 +78,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Nouvelle Calédonie            |   USD    |
 | Niger                    |   USD    |
 | Nigéria                  |   USD    |
-| Réunion (île)                  |   USD    |
+| La réunion                  |   USD    |
 | Rwanda                   |   USD    |
 | São Tomé et Príncipe    |   USD    |
 | Sénégal                  |          |

@@ -5,16 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchroniser vos références dans l’espace partenaires avec votre CRM Salesforce
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788773"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991618"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -29,7 +28,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
-|**Explique**   |**Détails**   |**Liens**   |
+|**Rubriques**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
 |Co-vente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 

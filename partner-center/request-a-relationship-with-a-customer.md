@@ -5,16 +5,15 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Demandez une relation avec un client pour les scénarios multi-partenaires multicanaux ou si vos privilèges d’administrateur délégué pour un client doivent être restaurés.
-ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679406"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992025"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Comment demander une relation de revendeur à un client dans l’espace partenaires
 

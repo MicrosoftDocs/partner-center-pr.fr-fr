@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les types de support technique que les partenaires du programme fournisseur de solutions peuvent offrir à leurs clients.
-ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a79de85bb7b564c58f08f1856eb46a2049bd170c
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 09f4b9e07957ccede25a493f5b05d9112d2955eb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467479"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992051"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fournir un support technique pour aider les clients à configurer, gérer et utiliser leurs abonnements
 
@@ -63,7 +62,7 @@ Les partenaires doivent recevoir des demandes de support entrantes de la part de
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
-Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d'informations, voir :
+Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d'informations, consultez les pages suivantes :
 
 - [Abonnements Dynamics 365 vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

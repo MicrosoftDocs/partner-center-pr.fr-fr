@@ -5,17 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment Microsoft s’attend à ce que les communications des clients se produisent entre les clients et les partenaires dans le programme du fournisseur de solutions Cloud.
-ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: LauraBrenner
 ms.author: labrenne
 keywords: communication, communications avec les clients, communiquer avec Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: 9ce4f10fb495e808dcb1839bcf0343e2282638aa
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: ba4a6da83678b4238a0c7ecc5836f875a3674277
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798417"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991356"
 ---
 # <a name="customer-communication-from-microsoft"></a>Communication client de Microsoft
 

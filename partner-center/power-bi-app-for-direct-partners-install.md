@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679306"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072415"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installer et prévisualiser l’application Analyse de l’Espace partenaires pour Microsoft Power BI
 
@@ -62,7 +62,7 @@ Avant d’installer la version préliminaire de l’application Partner Center A
 
 5. Sur la page suivante, entrez votre nom d’utilisateur et votre mot de passe Power BI, puis sélectionnez se connecter.
 
-6. Installez l’espace de travail en fournissant la workspaceName.
+6. Installez l’espace de travail en spécifiant le nom de l’espace de travail.
 
 7. Vous trouverez la section modèles d’applications installés sous applications.
 

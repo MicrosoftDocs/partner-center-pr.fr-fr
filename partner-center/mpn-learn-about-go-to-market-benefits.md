@@ -1,7 +1,7 @@
 ---
 title: En savoir plus sur Go-to-Market avec les offres Microsoft
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment la mise sur le marché avec les offres Microsoft peut accélérer le délai de mise sur le marché, générer des prospects et développer votre activité.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, avantages de l’adhésion, adhésion, Go-to-Market offers, Go-to-Market avec Microsoft, accéder au marché, adhésion Gold, abonnement Silver
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 94a980eb1632932989a08be028028c4a07b1c6f1
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458425"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072424"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explorez vos offres Go-to-Market avec Microsoft
 
@@ -40,21 +40,21 @@ Les offres Go-to-Market vous donnent accès à des ressources de vente et de mar
 
 Vos offres Go-to-Market varient en fonction de votre niveau spécifique d’adhésion MPN, de vos spécialisations et de toute [compétence](learn-about-competencies.md) que vous obtenez.
 
-Tous les membres MPN ont accès à certaines ressources GTM standard. Cela inclut l’accès aux ressources marketing prêtes à l’emploi, une plateforme de mise en service des ventes et le marketing numérique à la demande. Il existe également des offres et des programmes encore plus performants disponibles pour les partenaires qui obtiennent des compétences en argent ou en or.
+Tous les membres MPN ont accès à certaines ressources GTM standard. Cela inclut l’accès aux ressources marketing prêtes à l’emploi, une plateforme de mise en service des ventes et le marketing numérique à la demande. Des offres et des programmes encore plus performants sont également disponibles pour les partenaires qui obtiennent des compétences en argent ou en or et/ou des partenaires ISV avec une solution de covente prête.
 
 >[!NOTE]
->Les ressources, les offres et les programmes de Go-to-Market sont soumis à des ajouts et à des modifications. Accédez à la [page Microsoft Partner Network Go-to-Market](https://partner.microsoft.com/membership/go-to-market) pour en savoir plus sur les ressources Go-to-Market les plus récentes et les offres disponibles au niveau de la compétence.
+>Les ressources, les offres et les programmes de Go-to-Market sont soumis à des ajouts et à des modifications. Accédez à la [page Microsoft Partner Network Go-to-Market](https://partner.microsoft.com/membership/go-to-market) pour en savoir plus sur les dernières ressources de Go-to-Market et les offres disponibles pour les partenaires qui atteignent différents niveaux de compétence et/ou partenaires ISV avec une solution de covente prête.
 
-Offres Go-to-Market supplémentaires disponibles pour ceux qui ont des niveaux de compétence **Silver** :
+Offres Go-to-Market supplémentaires disponibles pour ceux qui ont des niveaux de compétence **Silver** et/ou des partenaires ISV disposant d’une solution de covente prête :
 
 - Toutes les ressources MPN standard de Go-to-Market
 - Optimisation de la gestion des références et des profils d’entreprise
 - Commercialisation avec Microsoft
 
-Offres Go-to-Market supplémentaires disponibles pour ceux qui ont des niveaux de compétence **Gold** :
+Offres Go-to-Market supplémentaires disponibles pour les partenaires avec des niveaux de compétence **Gold** et/ou des partenaires ISV disposant d’une solution de covente IP prête :
 
 - Toutes les ressources MPN standard de Go-to-Market
-- Toutes les offres Silver Go-to-Market
+- Toutes les offres de commercialisation prêtes à l’emploi pour les partenaires Silver/ISV
 - Copropriétaire d’un récepteur de radiomessagerie
 - Présentation co-personnalisée
 - Étude de cas co-personnalisée
@@ -69,17 +69,17 @@ Pour afficher vos offres Go-to-Market :
 
 2. Dans le menu de gauche, sélectionnez **MPN**. Ensuite, effectuez l’une des opérations suivantes :
 
-    - Sélectionnez **Vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
+   - Sélectionnez **Vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
 
-      ou
+     ou
 
-    - Sélectionnez **avantages** suivis de **go-to-Market**.
+   - Sélectionnez **avantages** suivis de **go-to-Market**.
 
 Vous verrez une liste d’offres Go-to-Market déjà actives ou disponibles pour l’activation.
 
 ## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Gérez ou activez les offres Go-to-Market dans l’espace partenaires
 
-Pour connaître les étapes spécifiques à suivre pour activer ou gérer vos offres Go-to-Market, consultez [Comment gérer vos offres Go-to-Market](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Dans le cadre de ce processus, vous devez attribuer à un membre du marketing le rôle de contact pour les courriers électroniques de suivi et les communications concernant les offres Go-to-Market que vous activez.
+Pour activer ou gérer vos offres Go-to-Market, consultez [Comment gérer vos offres Go-to-Market](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Dans le cadre de ce processus, vous devez attribuer à un membre du marketing le rôle de contact pour les courriers électroniques de suivi et les communications concernant les offres Go-to-Market que vous activez.
 
 >[!IMPORTANT]
 >Vous devez être l’administrateur général ou l’administrateur du partenaire MPN pour activer des offres Go-to-Market spécifiques et affecter un contact marketing associé. Si nécessaire, vous pouvez devenir administrateur général en suivant les instructions de votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion obligatoire). Votre entreprise ayant peut-être déjà un administrateur général, pensez à vérifier auprès de votre équipe.
@@ -91,3 +91,5 @@ Pour connaître les étapes spécifiques à suivre pour activer ou gérer vos of
 - [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
 
 - [En savoir plus sur les compétences](learn-about-competencies.md)
+
+- [Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)
