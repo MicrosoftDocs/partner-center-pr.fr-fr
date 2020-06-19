@@ -3,17 +3,16 @@ title: Différences entre les facturations mensuelle et annuelle
 ms.topic: article
 ms.date: 05/06/2020
 Description: Découvrez comment les facturations mensuelles et annuelles diffèrent dans l’espace partenaires. Apprenez également à basculer entre différents types de facturation et les implications du basculement.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908255"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908967"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendre la différence entre la facturation mensuelle et la facturation annuelle dans l’espace partenaires
 
@@ -159,7 +158,7 @@ Si le prix d’une offre diminue au cours de la période de facturation, le mont
 
 Le crédit pour une licence ou un abonnement annulé est calculé comme suit :
 
-**Crédit d’annulation** = ((* * prix mensuel * * * 12)/365 \* ) **jours restants dans le** \* nombre de licences sur douze mois annulées.
+**Crédit d’annulation** = ((* * prix mensuel * * * 12)/365) \* **jours restants dans le nombre de licences sur douze mois** \* annulées.
 
 ## <a name="reconciliation-file"></a>Fichier de rapprochement
 

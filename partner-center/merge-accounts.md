@@ -1,19 +1,17 @@
 ---
-title: Fusion de votre compte partenaire avec un autre compte partenaire
-ms.topic: article
-ms.date: 06/12/2020
+title: Fusionner votre compte partenaire avec un autre compte partenaire
 description: Les sociétés qui sont des partenaires Microsoft actifs dans l’espace partenaires peuvent fusionner leurs comptes.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
+ms.topic: article
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/12/2020
+ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788684"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909030"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Fusionner votre compte partenaire avec un autre compte partenaire
 
@@ -31,7 +29,7 @@ Au moins deux sociétés qui sont des partenaires Microsoft actifs et qui dispos
 
 - Tous les emplacements du compte de fusion deviennent des emplacements sous le PGA.
 
-- Une fois la fusion de compte terminée, vous verrez les détails du compte, tels que les emplacements et les utilisateurs, dans le profil PGA. Vous ne pouvez pas inverser ce processus.
+- Une fois la fusion du compte terminée, vous verrez les détails du compte, tels que les emplacements et les utilisateurs, dans le profil PGA. Vous ne pouvez pas inverser ce processus.
 
 - Tous les ID MPN pour les emplacements sont conservés lors de cette consolidation.
 
@@ -43,8 +41,7 @@ Au moins deux sociétés qui sont des partenaires Microsoft actifs et qui dispos
 
 ### <a name="view-of-merged-accounts"></a>Affichage des comptes fusionnés
 
-
-:::image type="content" source="images/AccountMerge-graphic.png" alt-text="Fusion de compte":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fusion de compte":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Ce qu’il faut attendre si vous avez été invité à fusionner votre compte espace partenaires avec un autre compte espace partenaires
 
@@ -62,11 +59,11 @@ Si vous décidez d’accepter l’invitation pour fusionner les comptes : · Vo
 
 - Pendant la fusion du compte et jusqu’à la prochaine reconduction, chaque compte conservera ses avantages en termes de Action Pack et/ou de compétence. Au renouvellement, les règles de renouvellement de Action Pack et de compétence standard s’appliquent.
 
-- Lors du renouvellement, les avantages inclus dans la mise en œuvre des compétences et les Action Pack sont mis en œuvre pour le compte global partenaire de l’entreprise partenaire : 
+- Lors du renouvellement, les avantages inclus dans la mise en œuvre des compétences et les Action Pack sont mis en œuvre pour le compte global partenaire de l’entreprise partenaire :
 
-    • Microsoft Action Pack : la société partenaire sera en mesure d’acheter un Action Pack par compte global partenaire.
+  - Microsoft Action Pack : la société partenaire sera en mesure d’acheter un Action Pack par compte global partenaire.
 
-    • Compétence : la société partenaire recevra un package d’avantages centraux, associé à sa meilleure réalisation, ainsi que les avantages spécifiques aux compétences que le partenaire est éligible pour chaque compte global partenaire. 
+  - Compétence : la société partenaire recevra un package d’avantages centraux, associé à sa meilleure réalisation, ainsi que les avantages spécifiques aux compétences que le partenaire est éligible pour chaque compte global partenaire.
 
 - Tous les avantages sont soumis au [Guide d’utilisation de l’Microsoft Partner Network avantages](https://aka.ms/partner-benefits-use-guide). Par exemple : un jeton Office 365 E3 activé est fonctionnel pendant douze (12) mois après l’activation. Une fois qu’un jeton a été activé pour les sièges sur un locataire, ces sièges ne peuvent pas être déplacés vers un autre locataire.
 

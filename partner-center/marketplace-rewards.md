@@ -1,22 +1,21 @@
 ---
-title: Gérer les récompenses de la place de marché
+title: Gérer les récompenses de la Place de marché
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Les partenaires qui publient des offres sur la place de marché commerciale peuvent bénéficier d’avantages qui proposent un support marketing.
-ms.assetid: ''
 author: laurabrenner
 ms.author: labrenne
 Keywords: offres de la place de marché, support marketing, récompenses, avantages du serveur de publication
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6751b1ba7a8a99980154d287df71aa24f9cf63be
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795981"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909007"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gérer les récompenses de la place de marché dans l’espace partenaires & activer le marketing, les ventes et les avantages techniques
 
@@ -34,7 +33,7 @@ Le bénéfice des récompenses de la place de marché est calculé en fonction d
 
 1. Dans le tableau de [bord](https://partner.microsoft.com/dashboard)de l’espace partenaires, sélectionnez l’onglet **avantages commerciaux et marketing** sur la page récompenses de la place de marché pour afficher votre liste d’avantages. 
 
-2. Pour activer un avantage commercial et marketing, vous devez d’abord affecter un contact marketing d’entreprise. Ce contact recevra les communications de suivi concernant vos récompenses de la Place de marché.
+2. Pour activer un avantage de marketing et de vente, vous devez d’abord attribuer un contact marketing d’entreprise. Ce contact recevra les communications de suivi concernant vos récompenses de la Place de marché.
 
 3. Pour ajouter ou mettre à jour vos informations de contact marketing, accédez à la partie supérieure de l’onglet Avantages de marketing et de vente, dans la page Récompenses de la Place de marché, puis sélectionnez **Ajouter, mettre à jour ou modifier**. 
 
@@ -44,9 +43,9 @@ Le bénéfice des récompenses de la place de marché est calculé en fonction d
 
    - Fournissez une adresse e-mail pour l’utilisateur qui diffère de celle associée au compte de l’Espace partenaires de votre société. Nous vous enverrons par e-mail des instructions pour l’utilisation de votre avantage Récompenses de la Place de marché à l’adresse e-mail de votre contact marketing désigné.
 
-   - Fournissez le numéro de téléphone et la langue par défaut de ce contact marketing. Une fois ces informations entrées, sélectionnez **Affecter l’utilisateur**.
+   - Fournissez le numéro de téléphone et la langue par défaut de ce contact marketing. Une fois que vous avez terminé d’entrer ces informations, sélectionnez **Attribuer l’utilisateur**.
 
-4. Une fois que vous avez mis à jour le contact marketing, sélectionnez **activer** pour l’avantage que vous souhaitez commencer à utiliser. Une fois que vous avez activé un avantage, votre contact marketing sera contacté par un membre de l’équipe Récompenses dans un délai d’une semaine.
+4. Une fois que vous avez mis à jour le contact marketing, sélectionnez **Activer** pour l’avantage que vous souhaitez commencer à utiliser. Une fois que vous avez activé un avantage, votre contact marketing sera contacté par un membre de l’équipe Récompenses dans un délai d’une semaine.
 
 ## <a name="technical-benefits"></a>Avantages techniques
 

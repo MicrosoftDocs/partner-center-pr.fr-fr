@@ -3,18 +3,17 @@ title: Scénarios courants de facturation mensuelle
 ms.topic: article
 ms.date: 05/13/2020
 description: Les scénarios courants dans l’espace partenaires lorsque vous utilisez la facturation mensuelle incluent l’ajout de nouveaux abonnements, la modification de la quantité de licences et la suspension des abonnements.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: facturation, paiements, commandes, utilisation, facturation mensuelle, abonnements, fichier de réconciliation
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9da060e1c8b0a9d2f0a5de0987ccb4ea1e167b7c
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795622"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908877"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Exemples de scénarios de facturation mensuelle pour les nouveaux abonnements, modification des montants de licence ou interruptions
 
