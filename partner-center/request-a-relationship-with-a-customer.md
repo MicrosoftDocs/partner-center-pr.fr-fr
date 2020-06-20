@@ -1,19 +1,19 @@
 ---
 title: Demander une relation avec un client
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Demandez une relation avec un client pour les scénarios multi-partenaires multicanaux ou si vos privilèges d’administrateur délégué pour un client doivent être restaurés.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992025"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104091"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Comment demander une relation de revendeur à un client dans l’espace partenaires
 
@@ -56,7 +56,7 @@ Vous pouvez demander une relation de revendeur avec un client dans votre pays ou
 
 L’expérience client pour l’acceptation d’une invitation de revendeur revendeur d’un partenaire de fournisseur de solutions Cloud est hébergée par différents portails côté client. L’emplacement du portail varie selon qu’un client se trouve dans un cloud public Microsoft ou dans un Cloud national :
 
-|  | Où un client accepte-t-il une invitation de relation de revendeur ? |
+|Types de clients du Cloud  | Où un client accepte-t-il une invitation de relation de revendeur ? |
 |---------|---------
 | Clients dans le cloud public | Centre d’administration Microsoft 365 |
 | Clients dans l’espace partenaires pour Microsoft Cloud Allemagne | Microsoft Office le portail d’administration |

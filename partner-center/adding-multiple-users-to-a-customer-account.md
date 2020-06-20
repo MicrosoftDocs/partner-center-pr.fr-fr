@@ -1,7 +1,7 @@
 ---
 title: Ajouter plusieurs utilisateurs pour un compte client
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment ajouter simultanément plusieurs utilisateurs au compte d’un client. Téléchargez un fichier de données dans l’espace partenaires à l’aide du format de fichier de valeurs séparées par des virgules (. csv).
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: le chargement en bloc, l’ajout de plusieurs utilisateurs au compte d’un client, l’ajout d’utilisateurs du client, le téléchargement en bloc des utilisateurs du client, le compte client, les utilisateurs clients, les utilisateurs
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09bb83b82cf1db78a54af9bab98a5cbdaa00c0d9
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991078"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104120"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Ajouter plusieurs utilisateurs à un compte client-charger un fichier de données dans l’espace partenaires
 
@@ -41,13 +41,12 @@ Pour ajouter plusieurs utilisateurs au compte d’un client à l’aide du proce
 
 Entrez les données suivantes dans le fichier de données&nbsp;:
 
-|                 |                                                                              |                                            |
-|-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nom de la colonne** | **Description**                                                              | **Limite**                             |
-| Prénom      | Prénom de l’utilisateur (champ facultatif)                                           | limité à 50 caractères                         |
-| Nom       | Nom de l’utilisateur (champ facultatif)                                            | limité à 50 caractères                         |
+| **Nom de la colonne** | **Description**  | **Limite**  |
+|:-------- |:------  |:----- |
+| Prénom  | Prénom de l’utilisateur (champ facultatif)  | limité à 50 caractères  |
+| Nom  | Nom de l’utilisateur (champ facultatif)  | limité à 50 caractères  |
 | Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | limité à 50 caractères                         |
-| E-mail           | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
+| E-mail   | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
 | Mise à jour de l'état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*Conserver vide\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Pour créer plusieurs comptes d’utilisateur
