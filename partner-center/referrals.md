@@ -1,7 +1,7 @@
 ---
 title: Développez votre activité avec des références Microsoft
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment créer un profil d’entreprise pour générer des prospects de ventes par le biais de la fonctionnalité de références de l’espace partenaires, puis pour répondre à ces références.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: références, profil commercial, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467439"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198617"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -32,7 +32,3 @@ Nous souhaitons vous mettre en contact avec les clients qui ont besoin de vos so
  Une fois votre profil commercial publié, vous commencerez à recevoir des prospects via la fonctionnalité Références de l’Espace partenaires. Il est important de répondre aux références dans les délais fixés pour continuer à recevoir ces prospects et, plus important encore, pour conclure des marchés. Pour plus d’informations sur la gestion des prospects dans l’Espace partenaires, consultez [Réponse aux références](responding-to-referrals.md).  
 
 Pour commencer, regardez cette brève vidéo sur l’[optimisation de votre profil commercial](https://player.vimeo.com/video/252788046).  
-
-<!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
--->

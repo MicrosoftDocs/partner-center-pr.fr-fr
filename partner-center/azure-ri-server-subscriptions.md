@@ -10,15 +10,13 @@ ms.author: labrenne
 keywords: Azure, abonnements, machine virtuelle, réservation, instance réservée
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908283"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198627"
 ---
-<!-- Mike Aasen wrote and owns this topic -->
-
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquérir, approvisionner & gérer des instances de machine virtuelle réservées Azure (RI) + abonnements serveur pour les clients
 
 S’applique à :
@@ -133,7 +131,7 @@ Les événements à la demande de disponibilité des licences incluent des rubri
 
 D’autres formations utiles incluent le [module de licence Azure sur l’Université partenaire](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Opérations
+### <a name="operations"></a>Operations
 
 - [Guide des opérations du commerce moderne](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (mis à jour) : Guide complet couvrant la stratégie clé et les aspects opérationnels, tels que les contrats, le classement via l’espace partenaires, la facture, les détails des tarifs, les incentives, le fichier de rapprochement, les API/SDK, le bac à sable et les services partagés partenaires Azure.
 - [Matrice de disponibilité des pays et devise client pour les offres modernes](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
