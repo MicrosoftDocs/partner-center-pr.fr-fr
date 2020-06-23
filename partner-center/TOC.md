@@ -190,8 +190,9 @@
 ### [Migrer les abonnements Kaizala Pro vers Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Données et analytique de l’Espace partenaires
-## [Obtenir et analyser vos données métier](data-analysis-lp.md)
-## [Application d’analytique partenaire pour Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Obtenir l’accès aux données et à l’analytique des utilisateurs](data-analysis-lp.md)
+## [Utiliser l’application d’analytique de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Utilisation de l’application d’analytique de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Insights de l’Espace partenaires](partner-center-insights.md)
 ### [Insights - Tableau de bord général](pci-overview-report.md)
 ### [Insights - Contrôle d’accès en fonction des rôles dans le tableau de bord Insights](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [Vue d’ensemble](partner-security-requirements.md)
 ## [Imposer MFA à votre locataire partenaire](partner-security-requirements-mandating-mfa.md) 
 ## [État de la configuration requise](partner-security-compliance.md)
+## [Implémenter les exigences de sécurité des partenaires](implement-security-requirements.md)
 ## [Forum Aux Questions](partner-security-requirements-faq.md)
 
-# Didacticiels
-## [Implémentation des exigences de sécurité du partenaire](tutorials/partner-security-requirements.yml)
