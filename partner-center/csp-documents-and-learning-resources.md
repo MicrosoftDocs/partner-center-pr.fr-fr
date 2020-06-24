@@ -5,18 +5,17 @@ ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Retrouvez des liens vers les guides, les contrats de partenariat, les contrats clients, les tarifs et les offres du programme Fournisseur de solutions Cloud.
-ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: LauraBrenner
 ms.author: labrenne
 keywords: guides du programme fournisseur de solutions Cloud, guide du programme, accords de partenariat, contrat client, tarifs, offres
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25b703b5235410bce36d5a54b4b37ccf4621bb90
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1db194fb2566c5a474c6743e37deea6ee63ad247
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795607"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991406"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 

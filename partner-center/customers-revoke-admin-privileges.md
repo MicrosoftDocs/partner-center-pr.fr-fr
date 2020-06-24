@@ -1,7 +1,7 @@
 ---
 title: Obtenir les privilèges d’administrateur d’un client
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenez les autorisations dont vous avez besoin pour gérer le service ou l’abonnement d’un client en son nom. Découvrez comment les autorisations sont accordées, révoquées et gérées.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: privilèges d’administrateur délégués, administrateur pour le compte de, supprimer des privilèges, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466779"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198597"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtenir les autorisations pour gérer le service ou l’abonnement d’un client
 
@@ -98,8 +98,6 @@ Chaque abonnement Azure a son propre ensemble de rôles de gestion de ressources
 - Quand un client supprime des privilèges d’administrateur délégué d’un partenaire à l’aide du portail Office 365, le partenaire peut toujours gérer l’abonnement Azure du client tant que le partenaire dispose d’un ou de plusieurs rôles sous l’abonnement. Pour que le partenaire cesse de gérer l’abonnement Azure, le client doit supprimer l’attribution des rôles.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 Dans l’Espace partenaires, les partenaires CSP peuvent gérer les profils Autopilot pour leurs clients sans privilèges d’administrateur délégué dans les cas suivants : 
 

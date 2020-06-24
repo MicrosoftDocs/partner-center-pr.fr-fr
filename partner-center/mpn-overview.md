@@ -1,7 +1,7 @@
 ---
 title: Avantages de l’adhésion à Microsoft Partner Network
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez les avantages du partenariat avec Microsoft, notamment Microsoft Action Pack, les compétences et les options de programme pour commercialiser vos solutions et les vendre.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: partenaire, partenariat, MPN, Microsoft Partner Network, action pack, MAPS, abonnement action pack, avantages, avantages MPN, adhésion, silver, gold, compétences
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795950"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198607"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Partenariat avec Microsoft - découvrir les avantages, comment aider les clients et comment dynamiser la croissance de l’entreprise
 
@@ -32,8 +32,6 @@ Consultez [Pourquoi Microsoft ?](https://partner.microsoft.com/business-opportu
 
 ## <a name="join-the-microsoft-partner-network"></a>Rejoindre Microsoft Partner Network
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
-
 Le Microsoft Partner Network vous offre la gamme de produits la plus vaste du secteur ainsi que des options de programme pour différencier votre entreprise, accéder au marché et vendre vos solutions. Inscrivez-vous gratuitement, puis choisissez comment investir dans votre partenariat avec un action pack, un starter kit ou une compétence Microsoft.
 
 Un action pack ou un starter kit fournit les logiciels et le support nécessaires pour créer des solutions Microsoft, tandis qu’une compétence démontre votre expertise éprouvée auprès des clients et d’autres partenaires.
@@ -45,8 +43,6 @@ Pour plus d’informations sur le Microsoft Partner Network (MPN), consultez le 
 Pour rejoindre le Microsoft Partner Network, accédez à la [page **Adhésion**](https://partner.microsoft.com/membership) du site web MPN, puis sélectionnez **S’inscrire** ou **Joindre maintenant**.
 
 ## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Optimiser votre adhésion à Microsoft Partner Network
-
-<!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
 À mesure que vous atteignez vos objectifs métier, participez au programme au niveau adapté à vos besoins uniques pour accéder à d’autres avantages et développer votre relation avec nous et d’autres partenaires dans le réseau.
 
