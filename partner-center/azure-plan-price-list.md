@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 7f21431dd215f89905c456a61f8ef2b181353111
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452606"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679116"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure
 
@@ -37,13 +37,17 @@ Les tarifs de la nouvelle expérience de commerce Azure du programme Fournisseur
 
 2. Dans la page de tarification du plan Azure, sélectionnez le pays pour lequel vous souhaitez obtenir la tarification.
 
-3. En regard de **Type d’exportation**, sélectionnez **Tarification de la consommation de plan Azure**, **Tarification des réservations de plan Azure** ou **Taux FX**. Remarque : Les **Taux de change** ne sont pas spécifiques à un pays.
+3. En regard de **Type d’exportation**, sélectionnez **Tarification de la consommation de plan Azure**, **Tarification des réservations de plan Azure** ou **Taux FX**. 
+
+>[!NOTE] 
+>Les **Taux de change** ne sont pas spécifiques à un pays.
 
 4. En regard de **Tarification pour la date**, sélectionnez la date de votre choix, par exemple, **Actuelle**.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="spécifique au pays":::
 
-Remarque : Vous pouvez exporter deux tarifs différents : les tarifs de plan Azure et les tarifs tiers de la Place de marché.
+>[!NOTE] 
+>Vous pouvez exporter deux tarifs différents : les tarifs de plan Azure et les tarifs tiers de la Place de marché.
 
 ## <a name="azure-price-list-specifics"></a>Détail des tarifs Azure
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328310"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749171"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre transfert du Partner Membership Center (PMC) vers l’Espace partenaires
 
@@ -91,7 +91,7 @@ Pas nécessairement, mais le contact principal doit être une personne autorisé
 
 **Microsoft peut-il migrer mon adhésion à MPN à ma place ?**
 
-Non. Microsoft ne peut pas vous aider à transférer votre compte d’adhésion vers l’Espace partenaires. Vous devez transférer votre compte en vous connectant à PMC avec votre compte professionnel (informations de connexion) pour lancer le processus de migration. Après avoir effectué les étapes de transfert de votre compte, vous pouvez commencer à gérer votre adhésion et attribuer des rôles et des autorisations aux utilisateurs de votre équipe pour leur permettre d’accéder aux avantages et de gérer l’adhésion. Microsoft migre automatiquement les informations actives sur les compétences, les avantages, les sites, la banque/taxes pour les incentives ainsi que les associations MCP, y compris l’accès à Partner University.
+Non. Microsoft ne peut pas vous aider à transférer votre compte d’adhésion vers l’Espace partenaires. Vous devez transférer votre compte en vous connectant à PMC avec votre compte professionnel (informations de connexion) pour lancer le processus de migration. Après avoir effectué les étapes de transfert de votre compte, vous pouvez commencer à gérer votre adhésion et attribuer des rôles et des autorisations aux utilisateurs de votre équipe pour leur permettre d’accéder aux avantages et de gérer l’adhésion. 
 
 Microsoft migre automatiquement les informations actives sur les compétences, les avantages, les sites, la banque/taxes pour les incentives ainsi que les associations MCP, y compris l’accès à Partner University.
 

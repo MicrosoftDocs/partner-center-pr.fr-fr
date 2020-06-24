@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: bfc1f89aee3a9231d3c65467a330d45c93fef904
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254036"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749124"
 ---
 # <a name="april-2020-announcements"></a>Annonces d’avril 2020
 
@@ -191,7 +191,8 @@ Pour obtenir de l’aide sur les problèmes techniques, [envoyez un ticket de su
 
 Nous vous remercions pour votre partenariat et pour votre engagement à faire en sorte que notre écosystème repose sur la confiance.
 
-Remarque : Si vous utilisez des stratégies de référence et que vous n’avez pas effectué la transition vers la stratégie de sécurité par défaut ou [d’autres options d’implémentation de l’authentification multifacteur](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take), effectuez une transition dès que possible en vous référant aux [ressources clés présentées ici](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>[!NOTE] 
+>Si vous utilisez des stratégies de référence et que vous n’avez pas effectué la transition vers la stratégie de sécurité par défaut ou [d’autres options d’implémentation de l’authentification multifacteur](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take), effectuez une transition dès que possible en vous référant aux [ressources clés présentées ici](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Journal des modifications
 
@@ -543,7 +544,7 @@ Veuillez consulter les modifications spécifiques dans [ce fichier de mars 2020
 ### <a name="robotic-process-automation"></a>Automatisation des processus robotiques
 
 Le 1er mai 2020, Microsoft étendra la disponibilité des nouvelles offres d’automatisation des processus robotiques aux programmes d’éducation.
-Pour en savoir plus sur les modifications apportées au programme Authorized Education Partner dans le cadre du programme Fournisseur de solutions cloud, cliquez [ici](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/). REMARQUE : il s’agit d’un lien vers un regroupement existant sur l’Espace partenaires).
+Pour en savoir plus sur les modifications apportées au programme Authorized Education Partner dans le cadre du programme Fournisseur de solutions cloud, cliquez [ici](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/). il s’agit d’un lien vers un regroupement existant sur l’Espace partenaires).
 
 Passez en revue les **mises à jour de mai 2020 associées à l’offre Dynamics CSP** [ici](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) dans la section de téléchargement associée pour obtenir des informations sur les nouvelles références.
 
