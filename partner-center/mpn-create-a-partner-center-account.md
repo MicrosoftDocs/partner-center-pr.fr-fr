@@ -1,22 +1,22 @@
 ---
 title: Créer un compte Espace partenaires
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez comment les membres Microsoft Partner Network peuvent créer un profil professionnel et des comptes Espace partenaires pour gérer leurs revenus et leurs compétences du réseau.
+description: Découvrez comment les membres Microsoft Partner Network peuvent créer un compte Espace partenaires pour gérer leurs revenus et leurs compétences du réseau.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dbfbe23c84542e9164ba3ddfda811add34962fdc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bb703eac9e609badbc71f53bb9561a363f3a76f8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795731"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603818"
 ---
-# <a name="create-a-business-profile-and-partner-center-account-to-manage-network-benefits-and-competencies"></a>Créer un profil professionnel et un compte Espace partenaires pour gérer les revenus et les compétences du réseau
+# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Créer un compte Espace partenaires pour gérer les revenus et les compétences du réseau
 
 **Rôles appropriés**
 

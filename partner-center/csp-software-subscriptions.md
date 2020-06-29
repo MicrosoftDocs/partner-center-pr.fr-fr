@@ -1,7 +1,7 @@
 ---
 title: Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud)
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’Espace partenaires pour acheter, gérer, vendre et annuler des instances réservées Azure et des abonnements Server pour les clients.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: fournisseur de solutions Cloud, CSP, services basés cloud, Azure, Azure RI, Windows Server, SQL Server, abonnements logiciels, annuler des logiciels
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
+ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907953"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "85267186"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
 
@@ -28,7 +28,7 @@ ms.locfileid: "82907953"
 - Agent d’administration
 - Administrateur général
 
-Les réservations Azure et les abonnements Server (abonnements Windows Server et SQL Server) permettent aux partenaires du programme CSP de mieux répondre aux besoins croissants de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail cloud prévisibles et durables. 
+Les réservations Azure et les abonnements Server (abonnements Windows Server et SQL Server) permettent aux partenaires du programme CSP de mieux répondre aux besoins croissants de leurs clients qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail cloud prévisibles et durables. 
 
 Vous pouvez maintenant acquérir, provisionner et gérer des réservations Azure et des abonnements Server pour le compte de clients commerciaux à partir de l’Espace partenaires et du portail Azure en tirant parti d’Azure Hybrid Benefit.
 
@@ -36,10 +36,12 @@ Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows 
 
 ## <a name="azure-reservations-unavailable-markets"></a>Marchés pour lesquels les réservations Azure ne sont pas disponibles
 
->[!IMPORTANT] 
->Les réservations Azure *ne sont pas* disponibles dans les marchés suivants :  
+>[!IMPORTANT]
+>Les réservations Azure **ne sont pas** disponibles dans les marchés suivants :  
 >  
-> | Marchés non disponibles | &nbsp; | &nbsp; |
+> **Marchés non disponibles (par ordre alphabétique)**
+>
+> |A à Gi   | Gr à Pal  | Pap à Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Åland (îles)     | Groenland     | Papouasie-Nouvelle-Guinée     |
 > | Samoa américaines     | Grenade     | Pitcairn (îles)     |
@@ -78,8 +80,6 @@ Azure Hybrid Benefit vous permet de maximiser la valeur de vos licences Windows 
 > | Gabon     | Norfolk (île)     | Yémen   |
 > | Gambie     | Mariannes du Nord (îles)     |    |
 > | Gibraltar     | Palau       |    |
-<!--Nov 30, 2019 - this list of countries was correct as of today.
--->
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acheter des abonnements logiciels pour le compte de clients
 
@@ -114,6 +114,10 @@ Une fois l’abonnement logiciel acheté, suivez les étapes ci-dessous pour le 
 
 >[!NOTE]
 >Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se arrive en premier. Une fois le lien arrivé à expiration, revenez à cette page, puis sélectionnez à nouveau **Obtenir des clés et des téléchargements** pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
+
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Téléchargement et clés de licence de l’abonnement serveur disponibles via le Centre d’administration Microsoft 365 pour les clients 
+
+Vos clients seront en mesure d’obtenir des clés de licence et des téléchargements de l’abonnement serveur CSP depuis le Centre d’administration Microsoft 365. Pour voir leurs clés de licence et les téléchargements de leur abonnement serveur CSP, le client doit accéder à Centre d’administration Microsoft 365 > **Facturation > Vos produits > Onglet Logiciels**. Pour plus d’informations, consultez [Onglet Logiciels sous Facturation](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité de l’accès aux clés logicielles et des téléchargements logiciels
 
@@ -173,7 +177,9 @@ Quand vous essayez d’annuler une commande, l’Espace partenaires peut égalem
 - Si nous avons besoin d’informations supplémentaires sur votre demande d’annulation, vous pouvez recevoir un lien vers un formulaire de **demande de support technique**.
 
 >[!IMPORTANT]
->Après l’annulation d’une commande, un message confirmant votre annulation s’affiche. Toutefois, il peut y avoir un délai allant jusqu’à 15 minutes avant que l’annulation apparaisse dans le tableau de bord de l’Espace partenaires. Notez également les informations suivantes concernant la situation après une annulation.
+>Après l’annulation d’une commande, un message confirmant votre annulation s’affiche. Toutefois, il peut y avoir un délai allant jusqu’à 15 minutes avant que l’annulation apparaisse dans le tableau de bord de l’Espace partenaires. 
+
+### <a name="post-cancellation-details"></a>Détails postérieurs à l’annulation
 
 Après avoir annulé un achat :
 
@@ -187,9 +193,9 @@ Après avoir annulé un achat :
 
 Si vous avez essayé d’annuler un achat de logiciel par le biais de l’Espace partenaires, mais que vous avez été invité à fournir des informations supplémentaires et à remplir un formulaire de demande de support technique, les étapes suivantes peuvent vous aider :
 
-1. Quand vous sélectionnez le lien de **demande de support technique** dans la fenêtre Annuler un achat, la page Signaler un problème avec l’Espace partenaires s’ouvre.
+1. Quand vous sélectionnez le lien **Demande de support technique** dans la fenêtre Annuler un achat, la page **Signaler un problème avec l’Espace partenaires** s’ouvre.
 
-2. Sous Détails, dans la liste Type de problème, sélectionnez **Achat/remboursement d’offres CSP pour le compte de clients**.
+2. Sous **Détails**, dans la liste Type de problème, sélectionnez **Achat/remboursement d’offres CSP pour le compte de clients**.
 
 3. Renseignez les champs Impact et Titre.
 
@@ -208,3 +214,9 @@ Si vous avez essayé d’annuler un achat de logiciel par le biais de l’Espace
 6. Si vous devez joindre un fichier pour une raison quelconque, sélectionnez **Ajouter des fichiers**. Cette étape est facultative.
 
 7. Quand vous avez terminé, sélectionnez **Soumettre**.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Utiliser l’Espace partenaires pour vendre des abonnements clients à des produits de la Place de marché commerciale](sell-marketplace-products.md)
+ 
+- [Affectation d’abonnements Azure à des clients dans l’Espace partenaires](assign-azure-subscriptions.md)

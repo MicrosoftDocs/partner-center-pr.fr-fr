@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/01/2020
-ms.openlocfilehash: 4f682fc6435d6a0b29d727ded2d08fc934666020
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253996"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678926"
 ---
 # <a name="march-2020-announcements"></a>Annonces de mars 2020
 
@@ -104,7 +104,8 @@ Les nouvelles fonctionnalités permettant de transférer les abonnements Fournis
 
 Pour plus d’informations, consultez les [offres du programme Fournisseur de solutions cloud](https://docs.microsoft.com/partner-center/csp-offers).
 
-Remarque : Les transferts prennent uniquement en charge les abonnements basés sur une licence et les abonnements Azure. Vous devez transférer manuellement votre plan Azure et vos achats de la place de marché commerciale. Notez que cela implique d’annuler et de renouveler les abonnements décrits dans les documents suivants : [Plan Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) et [place de marché commerciale](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Étant donné que les abonnements serveur et les réservations Azure sont des achats à usage unique, ils n’ont pas besoin d’être transférés vers un locataire fournisseur indirect. Pour plus d’informations, consultez les offres du programme Fournisseur de solutions cloud.
+>[!NOTE] 
+>Les transferts prennent uniquement en charge les abonnements basés sur une licence et les abonnements Azure. Vous devez transférer manuellement votre plan Azure et vos achats de la place de marché commerciale. Notez que cela implique d’annuler et de renouveler les abonnements décrits dans les documents suivants : [Plan Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) et [place de marché commerciale](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Étant donné que les abonnements serveur et les réservations Azure sont des achats à usage unique, ils n’ont pas besoin d’être transférés vers un locataire fournisseur indirect. Pour plus d’informations, consultez les offres du programme Fournisseur de solutions cloud.
 
 ### <a name="additional-resources"></a>Ressources supplémentaires :
 
@@ -147,7 +148,7 @@ Le 1er avril 2020, Microsoft présente une nouvelle référence SKU d’entré
 
 **Nouvelle référence SKU d’entrée de gamme :** La nouvelle référence SKU d’entrée de gamme s’appelle Microsoft 365 F1 et offre une valeur ajoutée aux employés de terrain, une sécurité étendue et valorise les identités pour tous les travailleurs. Cette offre inclut Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 et l’accès en lecture seule aux applications Office web/mobiles.
 
-Ces modifications valorisent les employés de terrain et permettent aux partenaires d’exploiter une opportunité significative de croissance du nombre d’utilisateurs. **Consultez nos documents supplémentaires [ici](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) pour en savoir plus sur la proposition de valeur et les étapes suivantes.**
+Ces modifications valorisent mieux les employés de terrain et permettent aux partenaires d’exploiter une opportunité significative de croissance du nombre d’utilisateurs. **Consultez nos documents supplémentaires [ici](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) pour en savoir plus sur la proposition de valeur et les étapes suivantes.**
 
 |**Chronologie des modifications**|**Changement**|
 |-------------------|:------|
@@ -209,7 +210,8 @@ Dans le cadre de son engagement à offrir à ses clients et partenaires des prat
 - Pour réduire les retards lors de l’investigation des échecs d’examen pour des entrées légitimes, veillez à entrer des données client qui sont **précises** et aussi **complètes** que possible. N’entrez pas de données test/factices.
 - Consultez le **Guide sur la création d’un client Éducation dans l’Espace partenaires** et la **page Ajouter un nouveau client** documentant ce qui est requis lors de la création d’un nouveau client Éducation dans l’Espace partenaires. Ces deux documents se trouvent tous les deux dans la galerie de ressources ci-dessous.
 
-**REMARQUE :** Le guide sur **la création d’un client Éducation dans l’Espace partenaires** inclut à présent des instructions pas à pas sur la façon de corriger les informations des clients et de les resoumettre si le client n’a pas réussi l’examen.
+>[!NOTE] 
+>Le guide sur **la création d’un client Éducation dans l’Espace partenaires** inclut à présent des instructions pas à pas sur la façon de corriger les informations des clients et de les resoumettre si le client n’a pas réussi l’examen.
 
 **Étapes suivantes/ressources supplémentaires :**
 
@@ -218,7 +220,7 @@ Galerie de ressources des mises à jour du programme Fournisseur de solutions Cl
 ### <a name="change-log"></a>Journal des modifications :
 
 - Date de la première publication : 19 décembre 2019
-- Note de contact du support en cas de suppression d’un nouveau partenaire vendant des offres de formation (action désormais facultative) : 13 janvier 2020
+- Pour contacter le support en cas de suppression d’un nouveau partenaire vendant des offres Éducation (action désormais facultative) : 13 janvier 2020
 - Ajout de la mise à jour de février 2020 : 10 février 2020
 - Notez qu’une nouvelle fonctionnalité permet de corriger les informations des comptes clients et de soumettre un compte client à un nouveau examen : 10 mars 2020
 

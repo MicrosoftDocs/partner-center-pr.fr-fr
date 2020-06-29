@@ -1,21 +1,20 @@
 ---
-title: Consolidation de vos comptes d’entreprise
+title: Consolider vos comptes d’entreprise
+description: Découvrez le regroupement de comptes PMC (Partner Membership Center) en un seul compte dans l’Espace partenaires. Concerne la migration de PMC vers l’Espace partenaires.
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez le regroupement de comptes PMC (Partner Membership Center) en un seul compte dans l’Espace partenaires. Concerne la migration de PMC vers l’Espace partenaires.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/05/2020
+ms.openlocfilehash: a1b92f296b572d8317437519e9472972b6e5aba4
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908142"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908657"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolider vos comptes d’entreprise pendant la migration de PMC vers l’Espace partenaires
 
@@ -40,10 +39,9 @@ Quand vous vous connectez à l’Espace partenaires pour la première fois, vous
 
 5. Une fois vos comptes consolidés, vous pourriez bénéficier de plus de compétences. Vous pouvez également avoir droit à d’autres programmes d’incentives.
 
-
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Ce qui se passe lors de la consolidation des comptes
 
-- Vous ne pouvez pas modifier les détails sur l’écran de détails de l’entreprise. Ces détails concernent le compte global Partenaire. 
+- Vous ne pouvez pas modifier les détails sur l’écran de détails de l’entreprise. Ces détails concernent le compte global Partenaire.
 
 - Le ou les comptes dans PMC seront regroupés dans le compte global Partenaire.
 
@@ -64,4 +62,3 @@ Dans PMC, il était possible pour chaque emplacement d’avoir ses propres comp�
 Dans l’Espace partenaires, tous les comptes d’emplacement sont regroupés en un seul compte global. Cela signifie que l’ensemble des programmes, compétences et offres de commercialisation sont également regroupés. Les kits d’outils d’avantages supplémentaires (ABTK) ne sont pas disponibles. Vous pouvez toutefois organiser la distribution des offres, programmes, compétences et ressources marketing nécessaires à votre entreprise. Quand vous regroupez des comptes, vous bénéficiez d’une extension. Cette extension permet à votre entreprise de profiter des offres, programmes et ressources marketing utilisés dans PMC pendant une année supplémentaire.
 
 Pour plus d’informations sur les différences entre PMC et l’Espace partenaires, consultez [Passer de PMC à l’Espace partenaires](guide-to-migration.md).
-

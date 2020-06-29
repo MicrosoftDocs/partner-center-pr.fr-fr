@@ -1,7 +1,7 @@
 ---
 title: Attester que le client accepte le Contrat client Microsoft
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez dans quels cas il est opportun d’attester l’acceptation du Contrat client Microsoft au nom de votre client.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: client, clients, consentement, MCA, contrat Microsoft Cloud, Contrat client Microsoft, modèles d’accord client, attestation d’acceptation
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452716"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909017"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attester l’acceptation du Contrat client Microsoft au nom de votre client
 
@@ -46,7 +46,7 @@ Il existe deux scénarios où les clients ne peuvent pas toujours accepter direc
 
 **Solution** : Vous devez effectuer l’attestation au nom du client.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="client":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Capture d’écran de la page du Centre d’administration Microsoft 365 vous invitant à contacter votre partenaire pour confirmer l’acceptation du Contrat client Microsoft.":::
 
 **Scénario 2** : Un client existant a acheté des offres, des logiciels ou des abonnements logiciels, des instances réservées ou un plan Azure. Le client tente à présent d’effectuer un nouvel achat auprès d’un nouveau partenaire.
 
@@ -54,4 +54,4 @@ Quand le client clique sur l’URL du Centre d’administration Microsoft 365 p
 
 **Solution** : Vous devez effectuer l’attestation au nom du client.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="client":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Capture d’écran de la page Autoriser le partenaire avec l’option Autoriser à sélectionner : montre les détails d’un partenaire spécifique, sa relation et ses rôles d’administrateur.":::

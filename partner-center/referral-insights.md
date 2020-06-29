@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: référence, analyse, analytique, métrique, conversion
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467449"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679426"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenir des insights de référence dans l’Espace partenaires et voir les performances de vos références
 
@@ -39,13 +39,13 @@ Vous pouvez également développer Filtres pour filtrer toutes les données de c
   - **Qualifié marketing** : Créée via les systèmes marketing de Microsoft.
   - **Qualifié ventes** : Créée par un commercial de Microsoft.
   - **Non qualifié** : Référence à laquelle aucune mesure de qualité n’est associée.
-- **Type de référence** : La valeur par défaut est **Tous**, mais vous pouvez choisir de limiter les données aux références **indépendantes** (celles que vous vous efforcerez de fermer avec l’aide directe du client) ou aux références de **covente** (celles qui incluent des tiers supplémentaires qui travailleront ensemble pour fermer).
+  - **Type de référence** : La valeur par défaut est **Tous**, mais vous pouvez choisir de limiter les données aux références **indépendantes** (celles que vous vous efforcerez de fermer avec l’aide directe du client) ou aux références de **covente** (celles qui incluent des tiers supplémentaires qui travailleront ensemble pour fermer).
 
 Les informations figurant dans tous les graphiques listés ci-après correspondent à la plage de dates et à tous les filtres que vous avez sélectionnés, sauf exception notée ci-dessous. Certaines sections vous permettent également d’appliquer des filtres supplémentaires, tels que le filtrage sur une solution spécifique.
 
 ## <a name="referrals-summary"></a>Résumé des références
 
-Ce graphique présente une vue d’ensemble des performances de vos références. Notez que seuls les filtres de plage de dates s’appliquent à ce graphique ; aucun autre filtre n’est appliqué. 
+Ce graphique présente une vue d’ensemble des performances de vos références. Seuls les filtres de plage de dates s’appliquent à ce graphique ; aucun autre filtre n’est appliqué. 
 
 Le graphique affiche le nombre total de références, le nombre de références gagnées et le volume total d’accord (en USD) pour la période sélectionnée. Le développement du graphique présente des données supplémentaires, telles que la répartition de la source de la référence et de la direction de la référence. 
 

@@ -1,7 +1,7 @@
 ---
 title: Gérer les sites dans votre compte partenaire
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dans l’Espace partenaires, découvrez comment ajouter un nouveau site et comment l’ID MPN de site est utilisé dans les programmes d’incentives, l’activité de CSP, les abonnements et autres transactions.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: compte partenaire, sites
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453206"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909057"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Gérer les sites de votre compte partenaire dans l’Espace partenaires et ajouter un nouveau site
 
@@ -54,12 +54,12 @@ Les utilisateurs peuvent avoir des rôles sur tous les sites. Par exemple, le r�
 
 1. Dans la page **Locations** (Sites), vérifiez que le site que vous voulez désigner comme entité légale figure bien dans la liste des sites. Si ce n’est pas le cas, ajoutez-le.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="mettre à jour un site d’entreprise":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Capture d’écran de la page Emplacements des comptes de l’Espace partenaires, avec la liste de tous les emplacements actuels.":::
 
 2. Sélectionnez **Partner profile** (Profil partenaire), puis **Update legal business profile** (Mettre à jour le profil d’entreprise légale).
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="mettre à jour un site d’entreprise":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Capture d’écran montrant les informations de profil du partenaire de compte de l’Espace partenaires avec l’option Mise à jour sélectionnable.":::
 
 3. Sélectionnez la région et l’entité légale et choisissez **Submit** (Soumettre).
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="mettre à jour un site d’entreprise":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Capture d’écran pour la mise à jour du profil d’entreprise juridique du partenaire, qui montre des listes déroulantes pour mettre à jour le pays ou la région, et l’entité juridique.":::

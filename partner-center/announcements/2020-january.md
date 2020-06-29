@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/01/2020
-ms.openlocfilehash: d5276a473ce245d69edf610c6e7f86219237ac9e
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253986"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678936"
 ---
 # <a name="january-2020-announcements"></a>Annonces de janvier 2020
 
@@ -47,7 +47,8 @@ Grâce aux réservations Azure et à ces abonnements serveur, qui comprennent Az
 
 Les partenaires peuvent désormais acquérir, approvisionner et gérer les réservations Azure et les abonnements Windows Server et SQL Server pour le compte de clients commerciaux via l'Espace partenaires et le portail Azure.
 
-**Remarque :** toutes les offres concernées figurent dans la liste de prix de l'Espace partenaires.
+>[!Note] 
+>toutes les offres concernées figurent dans la liste de prix de l'Espace partenaires.
 
 ### <a name="additional-resources"></a>Ressources supplémentaires
 
@@ -217,7 +218,8 @@ Depuis le 1er octobre 2019, le Contrat client Microsoft est disponible pour to
 
 À partir du 1er février 2020, la confirmation de l’acceptation du Contrat client Microsoft par un partenaire sera nécessaire pour passer de nouvelles commandes d’offres CSP dans toutes les régions du cloud public Microsoft. À partir de cette date, un partenaire Fournisseur de solutions Microsoft Cloud ne pourra plus effectuer un nouvel achat, notamment le changement de licences par siège et le renouvellement des achats existants, sans l’acceptation du Contrat client Microsoft par le client.
 
-**Remarque : Contrat client Microsoft et nouvelle expérience commerciale dans le programme Fournisseur de solutions Cloud pour Azure :** L’acceptation par le client du Contrat client Microsoft est obligatoire pour l’acquisition via la [nouvelle expérience commerciale du programme Fournisseur de solutions Cloud pour Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), disponible depuis le 1er novembre 2019.
+>[!NOTE] 
+>Contrat client Microsoft et la nouvelle expérience commerciale du programme Fournisseur de solutions Cloud pour Azure :** L’acceptation par le client du Contrat client Microsoft est obligatoire pour l’acquisition via la [nouvelle expérience commerciale du programme Fournisseur de solutions Cloud pour Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), disponible depuis le 1er novembre 2019.
 
 Le Contrat client Microsoft est un contrat d’achat simplifié qui prévoit des conditions d’achat cohérentes pour les clients, quelle que soit la méthode choisie. Depuis le 1er octobre 2019, le nouveau Contrat client Microsoft est disponible dans le cadre du programme Fournisseur de solutions Cloud et remplace progressivement le Contrat Microsoft Cloud existant.
 
@@ -236,7 +238,8 @@ Les partenaires peuvent présenter le nouveau Contrat client Microsoft aux clien
 - Lien vers le Contrat client Microsoft
 - Informations d’API destinées aux partenaires qui utilisent des API pour confirmer l’acceptation du contrat par le client.
 
-Remarque : Plus tard, au cours du premier semestre 2020, les partenaires auront l’option supplémentaire d’inviter les clients à accéder à un portail Microsoft authentifié pour consulter et signer le Contrat client Microsoft. Microsoft aura la responsabilité de confirmer l’acceptation par le client du Contrat client Microsoft.
+>[!Note] 
+>Plus tard, au cours du premier semestre 2020, les partenaires auront l’option supplémentaire d’inviter les clients à accéder à un portail Microsoft authentifié pour consulter et signer le Contrat client Microsoft. Microsoft aura la responsabilité de confirmer l’acceptation par le client du Contrat client Microsoft.
 
 ### <a name="change-log"></a>Journal des modifications
 

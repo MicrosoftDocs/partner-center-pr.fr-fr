@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 653b75c0ec9cafdc39506eb8da82eefe6d8709e7
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cf398f5671484548cc879fac28aae9e83a9c470c
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328210"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679270"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Calcul et paiement du crédit Partenaires
 
@@ -62,11 +62,12 @@ La vue Cost Analysis montre les coûts de votre compte de facturation, pour tous
 
 Quand la propriété PartnerEarnedCreditApplied a la valeur False, le coût associé n’a pas répondu aux critères d’éligibilité requise pour le crédit ou le service acheté n’est pas éligible au crédit Partenaires.
 
-Remarque : En règle générale, l’utilisation des services prend de 8 à 24 heures pour s’afficher dans **Cost Management** et les crédits PEC apparaîtront dans les 48 heures à partir de l’heure d’accès dans Azure Cost Management.
+>[!NOTE] 
+>En règle générale, l’utilisation des services prend de 8 à 24 heures pour s’afficher dans **Cost Management**, et les crédits PEC apparaîtront dans les 48 heures à partir de l’heure d’accès dans Azure Cost Management.
 
 5. Vous pouvez également regrouper et filtrer selon la propriété **PartnerEarnedCreditApplied** à l’aide des fonctionnalités de filtre **Group by and Add** (Regrouper par et ajouter) pour analyser les coûts avec un crédit PEC et les coûts auxquels aucun PEC n’est appliqué.
 
- **Pour plus d’informations**
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Crédit Partenaires – Vue d’ensemble](partner-earned-credit.md)
 

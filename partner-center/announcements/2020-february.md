@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253966"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749132"
 ---
 # <a name="february-2020-announcements"></a>Annonces de février 2020
 
@@ -77,7 +77,10 @@ Cette nouvelle capacité signifie que [les partenaires disposent désormais de d
 
 Pour savoir si les clients ont accepté le nouveau contrat, les partenaires peuvent utiliser les nouvelles fonctionnalités disponibles sur le tableau de bord de l’Espace partenaires ou via cette [nouvelle API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement).
 
-Depuis le 1er février 2020, la confirmation par un partenaire de l'acceptation du Contrat client Microsoft par ses clients est nécessaire pour passer de nouvelles commandes d'offres CSP (Fournisseurs de solutions Cloud) dans toutes les régions dépendant du cloud public Microsoft. Pour effectuer de nouveaux achats, ou apporter des modifications aux sièges ou aux renouvellements d'achats existants, les fournisseurs de solutions Cloud partenaires doivent impérativement confirmer que leur client a accepté le Contrat client Microsoft via l'une de ces options. (Remarque : les renouvellements automatiques ne sont pas concernés).
+Depuis le 1er février 2020, la confirmation par un partenaire de l'acceptation du Contrat client Microsoft par ses clients est nécessaire pour passer de nouvelles commandes d'offres CSP (Fournisseurs de solutions Cloud) dans toutes les régions dépendant du cloud public Microsoft. Pour effectuer de nouveaux achats, ou apporter des modifications aux sièges ou aux renouvellements d'achats existants, les fournisseurs de solutions Cloud partenaires doivent impérativement confirmer que leur client a accepté le Contrat client Microsoft via l'une de ces options.
+ 
+>[!Note] 
+>Les renouvellements automatiques ne sont pas impactés.
 
 ### <a name="next-steps"></a>Étapes suivantes :
 
@@ -166,7 +169,7 @@ _________________
 
 ### <a name="summary"></a>Résumé :
 
-Il s’agit d’une importante mise à jour concernant les [exigences de sécurité obligatoires que les partenaires doivent respecter](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). À partir du **29 février 2020**, les [stratégies de référence Azure Active Directory (Azure AD) seront supprimées](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) et remplacées par les « paramètres de sécurité par défaut », ensemble plus complet de stratégies de protection pour vous et vos clients. Les paramètres de sécurité par défaut d'Azure AD peuvent contribuer à protéger votre organisation avec des paramètres de sécurité préconfigurés pour les attaques courantes.
+Il s’agit d’une importante mise à jour concernant les [exigences de sécurité obligatoires que les partenaires doivent respecter](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). À partir du **29 février 2020**, les [stratégies de référence Azure Active Directory (Azure AD) seront supprimées](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) et remplacées par les « paramètres de sécurité par défaut », ensemble plus complet de stratégies de protection pour vous et vos clients. Les paramètres de sécurité par défaut d’Azure AD peuvent contribuer à protéger votre organisation avec des paramètres de sécurité préconfigurés pour les attaques courantes.
 
 Notre système indique que votre organisation utilise actuellement des stratégies de base, mais qu'elle n'est pas encore passée aux paramètres de sécurité par défaut. **Si vous ne passez pas aux paramètres de sécurité par défaut avant le 29 février, vous perdrez l'authentification multifacteur (MFA) activée avec les stratégies de base sur vos locataires partenaires. Veuillez activer les paramètres de sécurité par défaut dès que possible pour éviter toute interruption d'activité**.
 
@@ -191,7 +194,9 @@ Partenaires qui utilisent actuellement les stratégies de référence :
 Fournisseurs indirects :
 
 - Informez vos revendeurs du programme Fournisseur de solutions Cloud de Microsoft de la modification ([utilisez ce modèle d’e-mail](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)). Assurez-vous que vos revendeurs activent les paramètres de sécurité par défaut s’ils utilisent actuellement des stratégies de référence.
-- Remarque : Par ailleurs, Microsoft communiquera directement avec les revendeurs qui utilisent actuellement les stratégies de référence et ont indiqué des informations de contact dans l’Espace partenaires.
+
+>[!Note] 
+>Par ailleurs, Microsoft communiquera directement avec les revendeurs qui utilisent actuellement les stratégies de référence et ont indiqué des informations de contact dans l’Espace partenaires.
 
 Si vous avez des questions concernant les exigences de sécurité pour les partenaires, consultez les ressources supplémentaires [ici](https://aka.ms/security-requirements).
 
@@ -274,9 +279,8 @@ La [nouvelle expérience de commerce Azure proposée dans le cadre du programme 
 - Récupération des taux de change mensuels pour les devises de facturation prises en charge dans le cadre de la nouvelle expérience (plan Azure)
 - Récupération des prix ou des taux de change pour le mois en cours ou les mois précédents
 
-Remarque :
-
-- il s'agit d'une toute nouvelle ressource d'API spécifique à la tarification du plan Azure.
+>[!Note] 
+>il s'agit d'une toute nouvelle ressource d'API spécifique à la tarification du plan Azure.
 - L'API [RateCard](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) existante doit continuer à être utilisée pour les ressources ou réservations Azure existantes déployées sur les précédents abonnements Azure qui ne font pas partie du plan Azure.
 - Ces API se trouvent sur un point de terminaison différent (un domaine hébergeant l'API) des API de l'Espace partenaires.
 
@@ -345,7 +349,7 @@ _________________
 
 Le nouveau [Contrat client Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) associé au programme Fournisseur de solutions Cloud est devenu disponible en octobre 2019, remplaçant le Contrat Microsoft Cloud existant. Le nouveau contrat client simplifié prévoit des conditions d’achat cohérentes pour les clients, quelle que soit la méthode d’achat choisie.
 
-**Depuis le 1er février 2020, les partenaires à facturation directe et les fournisseurs indirects ont l’obligation de confirmer l’acceptation par le client du Contrat client Microsoft pour toutes les offres Fournisseur de solutions Cloud du cloud public Microsoft.** S’ils ne confirment pas l’acceptation par le client du nouveau contrat, les partenaires ne sont plus en mesure d’effectuer un nouvel achat pour le client, notamment le changement de postes et le renouvellement d’achats existants (remarque : le renouvellement automatique n’est pas affecté).
+**Depuis le 1er février 2020, les partenaires à facturation directe et les fournisseurs indirects ont l’obligation de confirmer l’acceptation par le client du Contrat client Microsoft pour toutes les offres Fournisseur de solutions Cloud du cloud public Microsoft.** S’ils ne confirment pas l’acceptation par le client du nouveau contrat, les partenaires ne sont plus en mesure d’effectuer un nouvel achat pour le client, notamment le changement de postes et le renouvellement d’achats existants (le renouvellement automatique n’est pas impacté).
 
 Les partenaires peuvent présenter le nouveau contrat aux clients de la même manière qu’ils le faisaient pour le Contrat Microsoft Cloud. Une fois que le client a lu et accepté le contrat, les partenaires doivent confirmer son acceptation dans l’Espace partenaires. L’interface utilisateur web de l’Espace partenaires, l’API et le SDK .NET ont été mis à jour pour prendre en charge le nouveau contrat.
 
@@ -357,10 +361,8 @@ Pour plus d’informations, consultez les ressources relatives au Contrat client
 - Les partenaires qui utilisent des API pour le Contrat Microsoft Cloud existant doivent modifier leur implémentation existante avec l’[API mise à jour](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
 - Formez vos agents et revendeurs aux [nouvelles conditions du contrat](https://www.microsoft.com/licensing/docs/customeragreement), à sa présentation et à la validation de son acceptation par le client.
 
-### <a name="note"></a>Remarque :
-
-- L’acceptation par le client du Contrat client Microsoft est également obligatoire pour l’achat via la [nouvelle expérience commerciale du programme Fournisseur de solutions Cloud pour Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), disponible depuis novembre 2019.
-- Au premier trimestre 2020, les partenaires du programme Fournisseur de solutions Cloud commenceront également à voir dans l’Espace partenaires l’option supplémentaire qui leur permettra d’inviter des clients à un portail Microsoft authentifié (Centre d’administration Microsoft 365) et de faire en sorte que les clients affichent et signent le Contrat client Microsoft directement.
+>[!NOTE] 
+>L’acceptation par le client du Contrat client Microsoft est également obligatoire pour l’achat via la [nouvelle expérience commerciale du programme Fournisseur de solutions Cloud pour Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), disponible depuis novembre 2019. Au premier trimestre 2020, les partenaires du programme Fournisseur de solutions Cloud commenceront également à voir dans l’Espace partenaires l’option supplémentaire qui leur permettra d’inviter des clients à un portail Microsoft authentifié (Centre d’administration Microsoft 365) et de faire en sorte que les clients affichent et signent le Contrat client Microsoft directement.
 
 ### <a name="change-log"></a>Journal des modifications :
 

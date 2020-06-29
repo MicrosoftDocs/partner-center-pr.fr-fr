@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: client, clients, consentement, MCA, Contrat Microsoft Cloud, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453266"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679106"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmer l’acceptation du Contrat client Microsoft par le client dans le cadre du programme des partenaires fournisseurs de solutions Cloud
 
@@ -128,7 +128,10 @@ Effectuez les étapes suivantes pour créer un client dans l’Espace partenaire
 
 3. Sous **Contrat client**, sélectionnez la première option, **Le client va être invité à accepter le Contrat client Microsoft dans le Centre d’administration Microsoft 365**. Remplissez tous les autres champs obligatoires de la page.
 
-4. Sélectionnez **Suivant : Passer en revue**, puis poursuivez les étapes permettant de créer le locataire du client. (Remarque : Les nouveaux clients ne peuvent pas effectuer de nouvel achat tant qu’ils n’ont pas accepté le Contrat client Microsoft.)  
+4. Sélectionnez **Suivant : Passer en revue**, puis poursuivez les étapes permettant de créer le locataire du client. 
+
+>[!NOTE] 
+>Les nouveaux clients ne peuvent pas effectuer de nouvel achat tant qu’ils n’ont pas accepté le Contrat client Microsoft.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Créer un client":::
 

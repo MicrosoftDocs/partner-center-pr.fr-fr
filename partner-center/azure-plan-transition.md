@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452586"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908957"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Assurer la transition des clients vers le plan Azure à partir des offres Azure CSP existantes
 
@@ -41,11 +41,11 @@ Vous pouvez faire basculer les offres CSP Azure existantes d’un client vers le
 
 2. Sélectionnez **Transition de la facturation vers un plan Azure**.
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="transition":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="Capture d’écran montrant les informations de rapport des abonnements basés sur l’utilisation avec une option sélectionnable appelée : Transition de la facturation de l’abonnement Azure vers un plan Azure.":::
 
 3. Sélectionnez **Continuer**.
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="transition":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Boîte de dialogue intitulée Transition vers un plan Azure avec des implications à lire sur la transition, et deux options à sélectionner : Continuer ou Annuler.":::
 
    Votre client sera transféré vers le plan Azure.
 
@@ -63,7 +63,7 @@ Vous pouvez faire basculer les offres CSP Azure existantes d’un client vers le
 
 4. Revenez à la page de **Abonnements** de l’Espace partenaires de votre client pour mettre à jour sa limite budgétaire dans sa devise locale.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Transition":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Vue partielle de la page Abonnements de l’Espace partenaires, avec les limites budgétaires définies en devise locale pour une période de facturation.":::
 
    >[!NOTE]
    >Le budget que vous définissez dans l’Espace partenaires n’est pas reporté sur le portail Azure. Vous devez aussi définir le budget et l’alerte sur le portail Azure.
@@ -77,7 +77,7 @@ Vous pouvez faire basculer les offres CSP Azure existantes d’un client vers le
 
 Vous pouvez suivre la progression de la transition sur le portail Azure et dans l’Espace partenaires.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Afficher les détails":::
+:::image type="content" source="images/azure/details1.png" alt-text="Capture d’écran montrant le tableau avec la liste des détails de la transition par abonnement : comprend l’ID d’abonnement, la date de la transition et l’état de la transition.":::
 
 ### <a name="billing-impact-to-partners"></a>Impact sur la facturation des partenaires
 
@@ -100,7 +100,7 @@ L’abonnement « Microsoft Azure » (0145P) se compose de deux parties :
 
 Une fois la transition terminée, l’abonnement Azure est rattaché à un nouveau plan Azure et l’abonnement Commerce est suspendu de façon à éviter toute communication de consommation supplémentaire.  
 
->[!Note]
+>[!NOTE]
 >Quand l’abonnement Microsoft Azure (0145P) est acheté dans le cadre du programme CSP, l’abonnement Commerce et l’abonnement Azure (droit d’utilisation) ont la même valeur. Ce n’est qu’en cas de changements ou de transferts de propriété de facturation que les valeurs diffèrent.
 
 ### <a name="transition-issues"></a>Problèmes de transition

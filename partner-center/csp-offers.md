@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, ajouter un produit, vendre à des clients, des offres pour les partenaires, offres fournisseur de solutions cloud, services basés sur le cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions cloud, vendre dans le programme Fournisseur de solutions Cloud, Azure RI, Azure reserved virtual machine instances, réservations Azure, services en ligne, logiciel d’abonnement, AHUB, SQL Server sur Azure, Windows Server sur Azure, abonnements client
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467239"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679016"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Vue d’ensemble des offres pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -62,9 +62,12 @@ Actuellement, vous pouvez vendre les types de produits et de services suivants �
 
    Vous pouvez vendre des abonnements à des produits SaaS d’éditeurs de logiciels indépendants. Pour afficher uniquement les offres SaaS dans **Services en ligne**, utilisez les filtres pour définir **Éditeur** sur **Partenaire**. Cette opération affiche toutes les offres SaaS qui peuvent être achetées pour ce client.
 
-   Vous pouvez également trouver des informations sur ces produits sur la page **Place de marché**. Notez que cette page contient également des informations sur les autres types de produits qui doivent être achetés sur le Portail Azure, et non dans l’Espace partenaires.
+   Vous pouvez également trouver des informations sur ces produits sur la page **Place de marché**.
 
-   Pour plus d’informations, consultez [Vue d’ensemble de la place de marché commerciale pour les fournisseurs de solutions Cloud](CSP-commercial-marketplace-overview.md)
+>[!NOTE] 
+>Cette page contient aussi des informations sur les autres types de produits qui doivent être achetés sur le portail Azure, et non pas dans l’Espace partenaires.
+
+Pour plus d’informations, consultez [Vue d’ensemble de la place de marché commerciale pour les fournisseurs de solutions Cloud](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>Détails de la page Ajouter des produits
 
@@ -88,7 +91,7 @@ La liste suivante identifie les nouvelles zones de la page **Ajouter des produit
 
 Pour acheter des produits et des services pour vos clients du programme Fournisseur de solutions Cloud, sélectionnez les éléments que le client souhaite, ajoutez-les à votre panier, ce qui crée une commande, puis vérifiez et envoyez la commande. Le processus général est décrit ci-dessous. (Pour plus d’informations sur les commandes d’un type de produit spécifique, consultez les liens ci-dessus.)
 
->[!Note]
+>[!NOTE]
 >Une offre CSP doit être disponible dans le pays de votre locataire et dans le pays du locataire de votre client. Par exemple, si votre locataire est situé en Slovaquie et si le locataire du client est en Allemagne, vous ne pouvez pas vendre Dynamics 365 Business Central Premium à ce client, car cette offre n’est pas disponible en Slovaquie.
 
 1. Sélectionnez **Clients** dans le menu de l’Espace partenaires, puis recherchez le client qui veut vous acheter quelque chose. 
@@ -110,6 +113,23 @@ Pour acheter des produits et des services pour vos clients du programme Fourniss
 ## <a name="rules-for-special-segments"></a>Règles pour les segments spéciaux
 
 Certaines offres basées sur une licence ne peuvent être achetées que sous certaines conditions. Les offres pour segments spéciaux sont les suivantes : Éducation, Cloud de la communauté du secteur public ou Associations. Pour plus d’informations sur ces conditions d’achat, consultez la rubrique [Règles d’achat pour les segments spéciaux](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+
+## <a name="troubleshooting-catalog-purchases"></a>Résolution des problèmes liés aux achats dans le catalogue
+
+Il peut y avoir différentes raisons pour lesquelles vous ne trouvez pas l’offre que vous recherchez dans le catalogue. Vous trouverez ci-dessous les éléments à vérifier si vous ne trouvez pas l’offre que vous attendez.
+
+- **Vérifiez que votre client est qualifié**. De nombreuses offres nécessitent des qualifications spéciales pour être vendues aux clients. Ces segments spéciaux incluent : Éducation, Organisations sans but lucratif et Cloud de la communauté du secteur public (GCC). Avant de signaler un problème, vérifiez d’abord que les qualifications du client sont définies en conséquence. Vous pouvez le vérifier en cliquant sur le client dans la liste des clients et en visualisant le compte. Le cas échéant, une qualification spéciale sera définie pour le compte. Si vous essayez d’acheter une offre Éducation pour un client qui n’est pas qualifié, vous ne verrez pas ces offres dans le catalogue. Pour plus d’informations sur la qualification de vos clients, consultez la [documentation sur les segments spéciaux](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers).
+- **Décidez si vous essayez d’acheter un module complémentaire ou une offre de base**. La plupart des services basés sur une licence comme Microsoft 365 et Dynamics 365 permettent d’acheter des offres de base et des modules complémentaires. Seules les offres de base peuvent être achetées dans le catalogue. Pour acheter des modules complémentaires, vous devez d’abord acheter l’offre de base dans le catalogue, puis sélectionner le client dans la liste des clients, et enfin sélectionner l’abonnement pour l’offre de base. Les modules complémentaires peuvent être appliqués à l’offre de base sur cette page Gérer les abonnements. 
+- **Vérifiez que les produits sont disponibles sur votre marché**. De nombreux produits et services sont configurés pour être vendus seulement aux clients de certains pays. Vous trouverez la liste des pays pris en charge dans les différents fichiers de liste de prix. Les pays pris en charge par les services basés sur une licence se trouvent dans la matrice de liste des offres de la page Tarification et offres.
+- **Vérifiez que les offres sont disponibles dans la liste de prix**. La liste des offres disponibles peut changer d’un mois à l’autre. Si vous ne trouvez pas une offre dans le catalogue, vérifiez qu’elle est disponible dans les listes de prix actuelles dans la page **Vendre > Tarification et offres**.
+
+### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documents recommandés liés à l’achat d’articles dans l’Espace partenaires
+
+- [Tarification et offres dans l’Espace partenaires](https://docs.microsoft.com/partner-center/pricing-and-offers)
+- [Vue d’ensemble des offres pour les partenaires du programme Fournisseur de solutions Cloud](https://docs.microsoft.com/partner-center/csp-offers)
+- [Guide pratique pour vendre des offres à des clients Éducation et pour créer un client Éducation](https://docs.microsoft.com/partner-center/sell-to-education-customers)
+- [Vendre à des secteurs spécialisés comme Éducation, Organisations à but non lucratif et Secteur public](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
+- [Règles d’achat pour les segments spéciaux](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Étapes suivantes
 

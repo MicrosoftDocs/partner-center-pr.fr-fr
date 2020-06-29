@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328270"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679269"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 
@@ -208,11 +208,17 @@ Les fournisseurs de panneaux de contrôle doivent [intégrer](https://docs.micro
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Le modèle d’application sécurisé doit-il uniquement être implémenté pour le kit SDK/l’API de l’Espace partenaires ?
 
-En cas d’application de l’authentification multifacteur à tous les comptes d’utilisateur, toute automatisation ou intégration destinée à s’exécuter de manière non interactive est impactée. Bien que les exigences de sécurité du partenaire nécessitent de votre part l’activation du modèle d’application sécurisé pour l’API de l’Espace partenaires, vous pouvez en tirer profit pour répondre au besoin d’un second facteur d’authentification avec l’automatisation et l’intégration. Notez que la ressource faisant l’objet d’un accès doit prendre en charge l’authentification par jeton d’accès.
+En cas d’application de l’authentification multifacteur à tous les comptes d’utilisateur, toute automatisation ou intégration destinée à s’exécuter de manière non interactive est impactée. Bien que les exigences de sécurité du partenaire nécessitent de votre part l’activation du modèle d’application sécurisé pour l’API de l’Espace partenaires, vous pouvez en tirer profit pour répondre au besoin d’un second facteur d’authentification avec l’automatisation et l’intégration. 
+
+>[!Note] 
+>Les ressources faisant l’objet d’un accès doivent prendre en charge l’authentification par jeton d’accès.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>J’utilise des outils d’automation tels que PowerShell. Comment implémenter le modèle d’application sécurisé ?
 
-Vous devez implémenter le modèle d’application sécurisé si votre automation doit être exécutée de manière non interactive et si elle repose sur les informations d’identification de l’utilisateur pour l’authentification. Consultez [Modèle d’application sécurisé | Module PowerShell pour l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) pour obtenir de l’aide sur l’implémentation de ce framework.  Notez que tous les outils d’automation ne permettent pas de s’authentifier à l’aide de jetons d’accès. Si vous avez besoin d’aide pour comprendre les changements à apporter, postez un message au groupe d’[aide sur la sécurité de l’Espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
+Vous devez implémenter le modèle d’application sécurisé si votre automation doit être exécutée de manière non interactive et si elle repose sur les informations d’identification de l’utilisateur pour l’authentification. Consultez [Modèle d’application sécurisé | Module PowerShell pour l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) pour obtenir de l’aide sur l’implémentation de ce framework.  
+
+>[!Note] 
+>Tous les outils d’automatisation ne permettent pas de s’authentifier avec des jetons d’accès. Si vous avez besoin d’aide pour comprendre les changements à apporter, postez un message au groupe d’[aide sur la sécurité de l’Espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Quelles sont les informations d’identification de l’utilisateur que l’administrateur d’application doit fournir durant l’exécution du processus de consentement ?
 
@@ -238,7 +244,9 @@ Les CPV doivent contacter [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) 
 
 Une fois que vous vous êtes inscrit à l’Espace partenaires et que vous avez inscrit vos applications, vous avez accès aux API de l’Espace partenaires. Si vous êtes un nouveau CPV, vous recevrez les informations relatives au bac à sable via une notification de l’Espace partenaires. Une fois que vous avez effectué votre inscription en tant que CPV Microsoft et que vous avez accepté le contrat CPV, vous pouvez :
 
-1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) Remarque : Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
+1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) 
+     >[!Note] 
+     >Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
 2. Visualisez et gérez votre profil de CPV.
 3. Visualisez et gérez les utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV. Le seul rôle qu’un CPV peut avoir est celui d’administrateur général.
 

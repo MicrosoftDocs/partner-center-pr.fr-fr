@@ -3,20 +3,20 @@ title: Vérifier votre profil de partenaire
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment vérifier les détails de votre entreprise comme le contact principal, l’adresse et les informations sur les programmes. Vous pouvez aussi mettre à jour votre adresse légale et votre adresse de facturation.
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 03/23/2020
-ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
-ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
+ms.date: 06/05/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "82595385"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991980"
 ---
-# <a name="verify-your-partner-profile-information"></a>Vérifier les informations de votre profil de partenaire
+# <a name="verify-your-partner-profile-information-in-partner-center"></a>Vérifier les informations de votre profil de partenaire dans l’Espace partenaires
 
 La première fois que vous vous connectez à l’Espace partenaires en tant qu’administrateur général, vous devez vérifier que tous les détails de votre entreprise sont corrects. Cela inclut le contact principal, le nom et l’adresse de l’entreprise légale ainsi que les informations sur les programmes. Si votre entreprise possède plusieurs emplacements, vérifiez l’exactitude de vos données de localisation. En tant qu’administrateur général, administrateur de facturation ou agent d’administration, vous pouvez également voir et mettre à jour vos informations de facturation et de fiscalité.
 

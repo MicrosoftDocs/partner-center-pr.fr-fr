@@ -1,7 +1,7 @@
 ---
 title: Gérer les avantages de Microsoft Partner Network
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Rejoignez Microsoft Partner Network (MPN) et utilisez l’Espace partenaires pour gérer les avantages et les offres d’adhésion qui peuvent vous aider à développer votre activité.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, avantages en tant que membre, adhésion, membre
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f937316e01f20fb0f255d9af23328a200fb8445
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d55492a52ada3328cb040d443f2c7b854cd6be96
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796007"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072408"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gérer les avantages et les offres de votre adhésion à Microsoft Partner Network dans l’Espace partenaires
 
@@ -85,25 +85,25 @@ Pour afficher et gérer tous vos avantages en tant que membre, accédez à votre
 
 4. Répétez ce processus pour chaque abonnement à affecter. Les utilisateurs peuvent gérer leurs abonnements dans le portail Visual Studio.
 
-    Vous pouvez réaffecter des abonnements à tout moment en supprimant un utilisateur affecté, puis en affectant un autre utilisateur.
+   Vous pouvez réaffecter des abonnements à tout moment en supprimant un utilisateur affecté, puis en affectant un autre utilisateur.
 
 ## <a name="manage-technical-benefits"></a>Gérer les avantages techniques
 
 1. Sélectionnez **Avantages techniques** pour afficher la liste de vos avantages techniques Microsoft.
 
-    Les avantages techniques peuvent inclure des incidents de support des produits Microsoft, les heures de conseil partenaire et les services de prévente et de déploiement techniques.
+   Les avantages techniques peuvent inclure des incidents de support des produits Microsoft, les heures de conseil partenaire et les services de prévente et de déploiement techniques.
 
 2. Trouvez l’avantage du support que vous souhaitez commencer à utiliser, puis sélectionnez la flèche vers le bas à l’extrémité droite de la ligne pour développer les détails de l’avantage.
 
 3. Pour activer votre avantage du support, affectez-lui un utilisateur.
 
-   a.  Sélectionnez un utilisateur dans la liste. Si l’utilisateur à affecter ne figure pas dans la liste, vous pouvez [ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
+   a. Sélectionnez un utilisateur dans la liste. Si l’utilisateur à affecter ne figure pas dans la liste, vous pouvez [ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
 
-   b.  Indiquez une adresse e-mail utilisateur différente de celle associée au compte Espace partenaires de votre entreprise.
+   b. Indiquez une adresse e-mail utilisateur différente de celle associée au compte Espace partenaires de votre entreprise.
 
    Par précaution, nous envoyons des instructions pour accéder au Support technique Microsoft à cette adresse e-mail ainsi qu’à l’adresse e-mail du compte Espace partenaires de l’utilisateur. Plusieurs jours peuvent être nécessaires pour activer cet avantage et envoyer par e-mail les instructions à l’utilisateur affecté.
 
-   c.  Une fois que vous avez entré l’autre adresse e-mail, sélectionnez **Affecter un utilisateur**.
+   c. Une fois que vous avez entré l’autre adresse e-mail, sélectionnez **Affecter un utilisateur**.
 
 4. Vous pouvez utiliser votre avantage en matière d’assistance technique de prévente ou d’heures de conseil partenaire pour demander une assistance technique pendant les phases de prévente, de conception, de déploiement et de développement d’applications de vos solutions cloud et hybrides. Pour demander une assistance, remplissez le [formulaire de demande](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest), puis sélectionnez **Envoyer une demande**.
 
@@ -116,26 +116,26 @@ Pour afficher et gérer tous vos avantages en tant que membre, accédez à votre
 
 1. Sélectionnez **Avantages**, puis **Commercialiser** pour voir la liste des offres associées au programme Commercialiser avec Microsoft.
 
-    Les [fonctionnalités Go-to-Market](mpn-learn-about-go-to-market-benefits.md) proposent des offres, des programmes, des ressources marketing et une assistance supplémentaires auxquels vous avez peut-être accès. Les types d’offres dépendent de votre niveau d’engagement spécifique et de toutes les compétences que vous avez pu obtenir.
+   Les [fonctionnalités Go-to-Market](mpn-learn-about-go-to-market-benefits.md) proposent des offres, des programmes, des ressources marketing et une assistance supplémentaires auxquels vous avez peut-être accès. Les types d’offres dépendent de votre niveau d’engagement spécifique et de toutes les compétences que vous avez pu obtenir.
 
 2. Pour activer un programme ou une offre de commercialisation, vous devez d’abord affecter un contact marketing à votre entreprise. Ce contact recevra des informations de suivi sur vos offres de commercialisation actives.
 
 3. Pour ajouter un contact marketing ou mettre à jour ses informations, accédez à la partie supérieure de la page Commercialiser, puis sélectionnez **Ajouter**, **Mettre à jour** ou **Modifier**. Ensuite, effectuez les étapes suivantes :  
 
-    a.  Sélectionnez un utilisateur dans la liste. Si l’utilisateur à affecter ne figure pas dans la liste, vous pouvez [ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
+   a. Sélectionnez un utilisateur dans la liste. Si l’utilisateur à affecter ne figure pas dans la liste, vous pouvez [ajouter des utilisateurs](create-user-accounts-and-set-permissions.md) dans **Paramètres du compte**.
 
-    b.  Indiquez une adresse e-mail utilisateur différente de celle associée au compte Espace partenaires de votre entreprise.
+   b. Indiquez une adresse e-mail utilisateur différente de celle associée au compte Espace partenaires de votre entreprise.
 
-    Le contact marketing désigné recevra par e-mail des instructions sur l’utilisation de l’offre de commercialisation.
+      Le contact marketing désigné recevra par e-mail des instructions sur l’utilisation de l’offre de commercialisation.
 
-    c.  Indiquez le numéro de téléphone et la langue par défaut du contact marketing. Une fois ces informations entrées, sélectionnez **Affecter l’utilisateur**.
+   c.  Indiquez le numéro de téléphone et la langue par défaut du contact marketing. Une fois ces informations entrées, sélectionnez **Affecter l’utilisateur**.
 
-4. Après avoir mis à jour votre contact marketing, recherchez l’offre de commercialisation que vous souhaitez commencer à utiliser, puis sélectionnez la flèche vers le bas à l’extrémité droite de la ligne pour développer les détails de l’offre. La liste affiche chaque type d’offre disponible sous le nom de l’avantage (par exemple, **Silver Core** ou **Gold Core**).
+4. Après avoir mis à jour votre contact marketing, recherchez l’offre de commercialisation que vous souhaitez commencer à utiliser, puis sélectionnez la flèche vers le bas à l’extrémité droite de la ligne pour développer les détails de l’offre. La liste affiche chaque type d’offre disponible sous le nom de l’avantage (par exemple, **Silver Core**, **Gold Core** ou **Prêt pour la covente ISV (ISV Co-sell ready)** ).
 
 5. Sélectionnez **Activer** pour activer l’offre.
 
-> [!NOTE]
->L’envoi par e-mail des instructions au contact marketing affecté et l’activation d’une offre de commercialisation peuvent prendre plusieurs jours. Une fois l’offre activée, vous pouvez voir les changements dans la page Commercialiser. Dans la colonne **Statut**, l’offre passe à **Actif**. La colonne **Expire** indique la date d’expiration de l’offre. Vous pouvez utiliser cette offre jusqu’à sa date d’expiration. Découvrez-en plus sur les [différents types de programmes, d’offres et de ressources de commercialisation](mpn-learn-about-go-to-market-benefits.md) disponibles.  
+   > [!NOTE]
+   >L’envoi par e-mail des instructions au contact marketing affecté et l’activation d’une offre de commercialisation peuvent prendre plusieurs jours. Une fois l’offre activée, vous pouvez voir les changements dans la page Commercialiser. Dans la colonne **Statut**, l’offre passe à **Actif**. La colonne **Expire** indique la date d’expiration de l’offre. Vous pouvez utiliser cette offre jusqu’à sa date d’expiration. Découvrez-en plus sur les [différents types de programmes, d’offres et de ressources de commercialisation](mpn-learn-about-go-to-market-benefits.md) disponibles.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Annuler une offre ou un avantage d’adhésion
 
@@ -143,8 +143,8 @@ Pour annuler une offre ou un avantage et vous faire rembourser, vous devez formu
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Ajouter des utilisateurs et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
+- [Ajouter des utilisateurs et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
 
-[Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
+- [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
 
-[En savoir plus sur les ressources et offres de commercialisation MPN](mpn-learn-about-go-to-market-benefits.md)
+- [En savoir plus sur les ressources et offres de commercialisation MPN](mpn-learn-about-go-to-market-benefits.md)

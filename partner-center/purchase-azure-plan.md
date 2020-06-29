@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dans le cadre du plan Azure, découvrez comment acheter un ou plusieurs abonnements Azure et des réservations Azure, configurer des ressources et consulter ou ajouter des abonnements.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467519"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909127"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acheter le plan Azure pour les clients et accéder aux services Azure les plus récents au tarif du paiement à l’utilisation
 
@@ -78,7 +77,8 @@ Les réservations Azure doivent être associées à un plan Azure actif. Choisis
 >[!Important] 
 >Si le client n’a pas encore de plan Azure actif, sélectionnez Azure pour en ajouter un maintenant. Pour obtenir des instructions supplémentaires, consultez [Acheter des réservations Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Notez que l’étendue de la réservation peut uniquement avoir la valeur **Partagé**. 
+>[!Note] 
+>Notez que l’étendue de la réservation peut actuellement être définie seulement sur **Partagé**. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Valeur Partagé pour l’étendue de la réservation":::
 
