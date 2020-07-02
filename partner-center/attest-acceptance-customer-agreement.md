@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: client, clients, consentement, MCA, contrat Microsoft Cloud, Contrat client Microsoft, modèles d’accord client, attestation d’acceptation
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909017"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678566"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attester l’acceptation du Contrat client Microsoft au nom de votre client
 
@@ -54,4 +54,7 @@ Quand le client clique sur l’URL du Centre d’administration Microsoft 365 p
 
 **Solution** : Vous devez effectuer l’attestation au nom du client.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Capture d’écran de la page Autoriser le partenaire avec l’option Autoriser à sélectionner : montre les détails d’un partenaire spécifique, sa relation et ses rôles d’administrateur.":::
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Guide pratique pour ajouter un nouvel enregistrement de client dans l’Espace partenaires](add-a-new-customer.md)
+- [Introduction : Le plan Azure permet aux partenaires d’acheter Azure aux tarifs du paiement à l’utilisation pour les clients](azure-plan-lp.md)

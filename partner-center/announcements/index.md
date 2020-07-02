@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
-ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
+ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "85346715"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678652"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de juin 2020** | **Annoncé** |
 |---------|:---------|:---------|
+| Offres/marchés | [Windows 7 Year 2 ESU désormais disponible pour les partenaires CSP](2020-june.md#6) | 29 juin |
 | Fonctions | [Mise à jour de la fonctionnalité de suppression des relations de l’Espace partenaires](2020-june.md#5) | 29 juin |
 | Fonctions | [Changement de la périodicité de facturation par défaut d’annuelle à mensuelle](2020-june.md#4) | 17 juin |
 | Offres/marchés | [Changements dans l’aide F1 de Microsoft 365](2020-june.md#3) | 15 juin |

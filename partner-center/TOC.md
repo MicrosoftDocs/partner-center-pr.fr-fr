@@ -44,8 +44,9 @@
 ## [Contrats, listes de prix et offres CSP](csp-documents-and-learning-resources.md)
 ## [Marchés et monnaies régionaux des fournisseurs de solutions cloud](regional-authorization-overview.md)
 ## [Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP](csp-regional-authorization-tenant-consolidation.md)
-## [Confirmer l’acceptation du Contrat client Microsoft par les clients](confirm-customer-agreement.md)
-### [Quand attester l’acceptation du Contrat client au nom d’un client](attest-acceptance-customer-agreement.md)
+## [Vue d’ensemble – La nouvelle façon de confirmer l’acceptation du Contrat client Microsoft par les clients](confirm-consent.md)
+## [Guide pratique pour confirmer l’acceptation du Contrat client Microsoft par les clients](confirm-customer-agreement.md)
+## [Quand attester l’acceptation du Contrat client au nom d’un client](attest-acceptance-customer-agreement.md)
 
 ## [Appliquer pour vendre sur des clouds nationaux](csp-national-clouds-overview.md)
 ### [Espace partenaires de Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -94,12 +95,25 @@
 ### [Enregistrer vos transactions](register-deals.md)
 ### [Obtenir des insights de référence](referral-insights.md)
 ### [Analyser votre profil professionnel](analyze-your-marketing-profile.md)
-## [Revendications de primes incitatives](claims-overview.md)
-### [Créer et gérer des revendications de primes incitatives](create-incentives-claims.md)
-### [Conditions requises pour les revendications de primes incitatives](core-requirements.md)
-### [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)
-### [Consulter vos paiements et programmes d’incentives](understand-incentive-payouts.md)
-### [Créer une association de clients avec le modèle CPOR](submit-osa-claim.md)
+## [Incentives](claims-overview.md)
+### Bien commencer avec les incentives
+#### [Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)
+#### [Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Vérifier votre éligibilité aux bénéfices](incentives-confirm-your-earnings-eligibility.md)
+#### [Consulter vos paiements et programmes d’incentives](understand-incentive-payouts.md)
+#### [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)
+### Plans et preuves d’exécution
+#### [Créer votre plan](incentives-create-your-plan.md)
+#### [Préparer votre preuve d’exécution](incentives-prepare-your-proof-of-execution.md)
+### Demandes de coopération aux incentives
+#### [Créer et gérer des demandes de coopération aux incentives](create-incentives-claims.md)
+#### [Conditions requises pour les demandes de coopération aux incentives](core-requirements.md)
+#### [Approbation des demandes de coopération et délais de paiement](incentives-managing-co-op-claims.md)
+### Demandes d’association CPOR avec incentives
+#### [Créer une association de clients avec le modèle CPOR](submit-osa-claim.md)
+#### [Gérer les associations client](incentives-manage-customer-associations.md)
+#### [Problèmes liés aux associations client](incentives-customer-association-issues.md)
+### [Résolution des problèmes liés aux paiements et aux bénéfices](incentives-payment-issues.md)
 
 # [Facturation et taxes](billing.md)
 ## [Notions de base de facturation](billing-basics.md)
