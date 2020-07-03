@@ -95,7 +95,7 @@
 ### [Enregistrer vos transactions](register-deals.md)
 ### [Obtenir des insights de référence](referral-insights.md)
 ### [Analyser votre profil professionnel](analyze-your-marketing-profile.md)
-## [Incentives](claims-overview.md)
+## Primes incitatives
 ### Bien commencer avec les incentives
 #### [Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)
 #### [Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires](incentives-create-and-manage-your-payout-and-tax-profiles.md)
@@ -106,6 +106,7 @@
 #### [Créer votre plan](incentives-create-your-plan.md)
 #### [Préparer votre preuve d’exécution](incentives-prepare-your-proof-of-execution.md)
 ### Demandes de coopération aux incentives
+#### [Incentives](claims-overview.md)
 #### [Créer et gérer des demandes de coopération aux incentives](create-incentives-claims.md)
 #### [Conditions requises pour les demandes de coopération aux incentives](core-requirements.md)
 #### [Approbation des demandes de coopération et délais de paiement](incentives-managing-co-op-claims.md)
