@@ -1,7 +1,7 @@
 ---
 title: Gérer les produits de la place de marché & offres
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: À l’aide de l’espace partenaires, Découvrez comment les fournisseurs de solutions Cloud peuvent gérer des offres ISV tierces achetées pour les clients à partir de la place de marché commerciale.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: abonnements, Marketplace, tiers, ISV, offres SaaS, programme fournisseur de solutions Cloud, gérer une offre, gérer un abonnement, licences, annuler un abonnement, sièges, désactiver le renouvellement automatique, ID MPN du revendeur indirect
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908101"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937633"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gérer les produits et offres de la place de marché commercial pour vos clients
 
@@ -64,11 +64,14 @@ Le serveur de publication doit vous fournir un lien personnalisé et un code d�
 
 1. Vous pouvez trouver ce lien personnalisé à partir de l’éditeur ISV de plusieurs façons :
 
-    - Vous pouvez voir le lien à partir de la page de confirmation qui s’affiche une fois que vous avez acheté une offre SaaS ISV.
+   - Vous pouvez voir le lien à partir de la page de confirmation qui s’affiche une fois que vous avez acheté une offre SaaS ISV. Pour trouver ce lien sur la page, recherchez et sélectionnez **accéder au site de l’éditeur**.
 
-    - Vous pouvez voir le lien à partir de la page abonnements d’un client spécifique. Ce lien vers l’éditeur apparaît sur la ligne associée à l’offre ISV ou à l’abonnement acheté pour le client.
+   - Vous pouvez voir le lien à partir de la page abonnements d’un client spécifique. Ce lien vers l’éditeur apparaît sur la ligne associée à l’offre ISV ou à l’abonnement acheté pour le client.
 
-    - Vous pouvez [récupérer le lien à l’aide des API de l’espace partenaires](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - Vous pouvez [récupérer le lien à l’aide des API de l’espace partenaires](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+
+   > [!NOTE]
+   > Pour ce faire, pour le compte de votre client, vous devrez peut-être copier le lien personnalisé, le coller dans un navigateur privé et entrer les informations d’identification du client.
 
 2. Une fois que vous êtes dans le site ou le système de l’éditeur ISV, le serveur de publication vous informe des étapes supplémentaires que vous devez suivre pour terminer le processus de configuration du client et approvisionner ou attribuer des licences.
 

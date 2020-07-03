@@ -1,5 +1,5 @@
 ---
-title: Gérer les associations de clients
+title: Gérer les associations client
 description: Comprenez les processus et chronologies importants pour la gestion des associations de clients CPOR (Partner of record).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,14 +8,14 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719327"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879483"
 ---
-# <a name="manage-customer-associations"></a>Gérer les associations de clients
+# <a name="manage-customer-associations"></a>Gérer les associations client
 
 S’applique à :
 
@@ -69,17 +69,19 @@ Voici les États et leurs significations :
 
 - Produits manquants – La preuve d’exécution ne contient pas le produit ou la charge de travail qui fait l’objet de la demande 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Contester le statut d’une revendication d’association CPOR
 
-Pour contester le statut d’une revendication d’association CPOR, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)et fournissez à l’équipe de support les informations suivantes :
+Si votre revendication d’association CPOR est rejetée, vous avez 30 jours pour contester le rejet. L’e-mail que vous recevez vous informant du rejet vous indique également où vous pouvez afficher la raison du rejet et comment le contester.  
 
-- ID MPN
-- Nom du programme d’incentive 
-- ID de la demande d’association CPOR 
-- Produit : pour Business Applications, fournissez les produits et abonnements Dynamics. Pour M365, indiquez les charges de travail. 
-- ID de locataire du client
-- Détails du problème
+Si 30 jours se sont écoulés et que vous souhaitez toujours contester une revendication rejetée, vous devez soumettre une nouvelle association avec votre mise à jour de preuve d’exécution (PoE). 
+
+### <a name="to-dispute-a-rejected-claim"></a>Pour contester une revendication rejetée
+
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
+2. Ouvrez la revendication que vous souhaitez contester.
+3. Sur la page revendication, sélectionnez **litige**.
+4. Entrez une justification de la société et/ou un PoE mis à jour expliquant pourquoi le rejet doit être reconsidéré.
+5. Lorsque vous avez terminé d’ajouter des informations, sélectionnez **litige**. Nos réviseurs doivent vous contacter avec des résultats dans les 5 jours ouvrables.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Raisons pour lesquelles une revendication d’association CPOR est rejetée
 

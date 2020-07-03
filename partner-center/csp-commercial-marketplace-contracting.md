@@ -1,7 +1,7 @@
 ---
 title: Contrats CSP pour la place de marché commerciale
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les conditions générales et les contrats relatifs aux abonnements à des produits ISV tiers achetés par des partenaires CSP dans la place de marché commerciale.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: abonnements, Marketplace, tiers, ISV, programme partenaire CSP, contrats, vendre, acheter,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362627"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937623"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contrats pour les partenaires CSP qui exercent des activités dans la place de marché commerciale
 
@@ -42,7 +42,7 @@ Si les partenaires ont déjà signé leurs contrats CSP, ils n’ont pas besoin 
 
 Pour plus d’informations sur les termes régissant les activités CSP dans le Marketplace commercial, consultez :
 
-- **Section 5,7 (offres tierces)** dans le [Guide du programme CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). Cela fournit les termes qui régissent la vente des solutions ISV par les partenaires dans le programme CSP.
+- **La section intitulée « Offres tierces »** dans le Guide du [programme CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). Cela fournit les termes qui régissent la vente des solutions ISV par les partenaires dans le programme CSP.
 
 - **L’accord de partenariat Microsoft (MPa)** régit le programme CSP, en remplaçant les MCRA et MCDA existants. L’MPA est disponible dans l' [espace partenaires](https://partner.microsoft.com/pcv/dashboard/overview) pour que les partenaires qui choisissent de participer au programme CSP puissent les consulter et les accepter.
   

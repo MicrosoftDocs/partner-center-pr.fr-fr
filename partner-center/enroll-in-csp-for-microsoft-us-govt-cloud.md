@@ -1,8 +1,8 @@
 ---
-title: S’inscrire au programme Fournisseur de solutions Cloud
+title: S’inscrire au programme Fournisseur de solutions Cloud
 ms.topic: article
 titleSuffix: Microsoft Cloud for US Government - Partner Center
-ms.date: 06/15/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les exigences du programme CSP pour les partenaires qui souhaitent s’inscrire au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: fed58b2de7e46905452103693727af3c6fbaa780
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788783"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879116"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrivez-vous au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -83,7 +83,7 @@ Microsoft Cloud pour le gouvernement des États-Unis fournit une instance distin
  
 ## <a name="connect-with-us"></a>Rejoignez-nous
 
-- Vous avez des questions ? Envoyez-nous un e-mail à l’adresseazgovcsp@microsoft.com
+- Des questions ? Envoyez-nous un e-mail à l’adresseazgovcsp@microsoft.com
 
 - Rejoignez-nous sur [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 
 

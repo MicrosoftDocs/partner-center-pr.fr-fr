@@ -2,25 +2,25 @@
 title: Déplacer les clients basés sur une licence vers le programme CSP
 description: Découvrez comment déplacer des clients basés sur des licences à partir d’autres canaux ou d’un autre partenaire dans le programme du fournisseur de solutions Cloud (CSP) dans l’espace partenaires.
 ms.topic: article
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/19/2020
-ms.openlocfilehash: 28f1345033cd474390d9b1b7cf709fd9f9a00311
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 4f4eabe3e31a521dcb2bd0f26bac702e1f92984f
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678933"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879129"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Déplacez les clients basés sur des licences à partir d’autres canaux & partenaires vers le programme du fournisseur de solutions Cloud
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
 Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonnements à un autre partenaire ou gérer les abonnements achetés ailleurs, vous pouvez les déplacer manuellement. Vous pouvez également déplacer des clients dans l’espace partenaires à partir d’un autre canal.
 
@@ -32,8 +32,10 @@ Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonne
 
 3. Le client peut soit autoriser l’expiration des abonnements d’origine, soit les annuler. Toutefois, étant donné qu’il n’y a pas de remboursement sur les abonnements annulés, il est préférable d’attendre que les abonnements soient proches des dates d’expiration naturelles.
 
->[!NOTE]
-> Le client peut avoir droit à un crédit s’il est acheté via le portail d’administration Microsoft 365 (M365) (par exemple, par le biais d’une facturation mensuelle ou annuelle directe de Microsoft). Les crédits des abonnements achetés directement auprès de Microsoft sont gérés par le **support de facturation M365**. Pour plus d’informations sur l' [annulation de votre abonnement M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription), consultez M365 Guidance. Si vous avez délégué des privilèges d’administration pour le client, vous pouvez contacter le support technique M65 pour le compte de votre client. Si ce n’est pas le cas, demandez à votre client de contacter le support M365 directement pour connaître le nombre de crédits éligibles et la façon dont ce crédit lui sera attribué. Lire les informations sur les [privilèges d’administrateur délégué](customers-revoke-admin-privileges.md). 
+
+   >[!NOTE]
+   >Le client peut avoir droit à un crédit s’il est acheté via le portail d’administration Microsoft 365 (M365) (par exemple, par le biais d’une facturation mensuelle ou annuelle directe de Microsoft). Les crédits des abonnements achetés directement auprès de Microsoft sont gérés par le **support de facturation M365**. Pour plus d’informations sur l' [annulation de votre abonnement M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription), consultez M365 Guidance. Si vous avez délégué des privilèges d’administration pour le client, vous pouvez contacter le support technique M65 pour le compte de votre client. Si ce n’est pas le cas, demandez à votre client de contacter le support M365 directement pour connaître le nombre de crédits éligibles et la façon dont ce crédit lui sera attribué. Lire les informations sur les [privilèges d’administrateur délégué](customers-revoke-admin-privileges.md).
+
 
 4. Le client continuera ensuite avec les abonnements que vous avez configurés sans interruption.
 
@@ -46,5 +48,7 @@ Si vous transférez des clients qui se trouvent sur des offres qui ne sont plus 
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Commencer à utiliser les tarifs avec paiement à l’utilisation avec le plan Azure](azure-plan-get-started.md)
+- [Commencer à pratiquer les prix de paiement à l’utilisation avec le plan Azure](azure-plan-get-started.md)
+ 
+
 - [Différentes façons de travailler avec d’autres partenaires dans l’espace partenaires](work-with-other-partners.md)

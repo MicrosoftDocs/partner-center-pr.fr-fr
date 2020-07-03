@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 02/04/2020
-ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.date: 07/01/2020
+ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394118"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879385"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -104,6 +104,25 @@ Pour les abonnements existants, si vous décidez d’utiliser un revendeur indir
 | Permettre au revendeur de gérer le compte d’un client Azure|Associer un revendeur à un compte client Azure lors de l’ajout d’un nouveau client|Dans le **portail Azure Service**, sélectionnez [paramètres utilisateur](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour octroyer les autorisations de **propriétaire du locataire** du revendeur indirect.|
 | Fournir le crédit du revendeur pour les incentives | Associer le revendeur à l’abonnement (nouveau ou existant) | Sur la page **nouvel abonnement** |
 | Déléguer le support client pour des abonnements spécifiques au revendeur | Sélectionnez le revendeur dans la liste des **contacts de support désignés** | Sur la page de détails de l’abonnement : sélectionnez le client dans la page des **clients** , puis sélectionnez l’abonnement dans la page **abonnements** du client. |
+
+## <a name="remove-partnership-with-indirect-resellers"></a>Supprimer le partenariat avec des revendeurs indirects
+
+Pour supprimer le partenariat avec un revendeur indirect existant, suivez les étapes ci-dessous. 
+
+1. Dans le menu de l’espace partenaires du tableau de bord, sélectionnez **revendeurs indirects**. 
+
+2. Sur la page **revendeurs indirects** , sélectionnez **supprimer le partenariat**. Un message s’affiche pour vous demander confirmation. Sélectionnez Oui pour continuer.
+
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Supprimer le partenariat":::
+
+>[!IMPORTANT]
+>Les clients associés au revendeur indirect ne seront pas supprimés. Les privilèges d’administrateur délégué accordés resteront inchangés.
+>Vous reconnaissez que la décision de mettre fin à votre relation avec le partenaire a été établie en toute bonne foi, à des fins professionnelles légitimes et conformément à votre contrat avec votre client ou partenaire, et que vous acceptez de défendre et de fidéliser Microsoft contre toute réclamation de tiers au contraire.
+>Vous devez fournir une notification de résiliation légale à votre client ou partenaire si votre contrat l’exige. Cet outil ne génère pas d’avis pour le client ou le partenaire.
+
+3. Le revendeur indirect dont vous avez supprimé le partenariat ne figurera pas dans la liste.
+Selon le niveau d’accès et l’implication, vous souhaiterez peut-être communiquer avec le revendeur indirect, ainsi que pour le client final à propos de cette modification.
+
 
 ## <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
