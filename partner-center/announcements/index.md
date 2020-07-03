@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678652"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879093"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-| **Catégorie** | **Annonces de juin 2020** | **Annoncé** |
+| **Catégorie** | **Annonces de juillet 2020** | **Annoncé** |
 |---------|:---------|:---------|
+| Offres/marchés | [Offres et produits Microsoft Dynamics 365 et Power Platform nouveaux et en fin de vie](2020-july.md#3) | 1er juillet |
+| Offres/marchés | [Microsoft a stoppé la vente de la référence SKU autonome Microsoft Kaizala Pro](2020-july.md#2) | 1er juillet |
+| Fonctions | [Programmes d’incentives CSP prolongés jusqu’au T1 de l’année fiscale 2021](2020-july.md#1) | 1er juillet |
+| **Catégorie** | **Annonces de juin 2020** | **Date** |
 | Offres/marchés | [Windows 7 Year 2 ESU désormais disponible pour les partenaires CSP](2020-june.md#6) | 29 juin |
 | Fonctions | [Mise à jour de la fonctionnalité de suppression des relations de l’Espace partenaires](2020-june.md#5) | 29 juin |
 | Fonctions | [Changement de la périodicité de facturation par défaut d’annuelle à mensuelle](2020-june.md#4) | 17 juin |
