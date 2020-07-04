@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Rassemblez et créez les informations nécessaires pour générer un plan marketing réussi pour votre programme d’incentives.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 0398aed2ddaf46abc976d679c1fd6c15127de6d8
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 446d336d57454a87377322905b44c3981a5e0bcf
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719381"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949677"
 ---
 # <a name="create-your-plan"></a>Créer votre plan
 

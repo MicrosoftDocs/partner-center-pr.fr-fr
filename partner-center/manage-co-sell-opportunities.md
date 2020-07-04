@@ -5,17 +5,17 @@ ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des contrats, inviter Microsoft à collaborer ou afficher les demandes envoyées.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: références, covente, vente
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 485999e323c325ab30361ed60dfe2c9eb7bada07
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328360"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949457"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gérez les opportunités de covente dans l’espace partenaires pour définir des contrats et mieux répondre aux besoins des clients
 
@@ -81,7 +81,7 @@ Entrez les détails de la transaction actuelle. Les champs définis ci-dessous p
 |**Date de clôture estimée**| Obligatoire| Date à laquelle vous prévoyez de fermer le contrat avec le client. |
 |**ID CRM**| Facultatif | Baliser la relation avec l’ID de l’opportunité dans votre CRM à des fins de suivi.|
 |**ID de campagne marketing**| Facultatif | Capturez la campagne marketing qui a entraîné le traitement. Ce code peut vous aider à suivre le retour sur investissement d’une certaine campagne si vous marquez toutes les transactions provenant de la campagne avec le même ID.|
-|**Remarques**| Facultatif | Mettez à jour toutes les informations les plus récentes pour fournir une visibilité aux autres employés de votre entreprise qui travaillent sur le même contrat ou qui tente de comprendre l’état actuel de la transaction. Vous pouvez également l’utiliser comme communication sur un enregistrement pour les discussions entre les vendeurs Microsoft/autres partenaires de votre entreprise.|
+|**Notes**| Facultatif | Mettez à jour toutes les informations les plus récentes pour fournir une visibilité aux autres employés de votre entreprise qui travaillent sur le même contrat ou qui tente de comprendre l’état actuel de la transaction. Vous pouvez également l’utiliser comme communication sur un enregistrement pour les discussions entre les vendeurs Microsoft/autres partenaires de votre entreprise.|
 
 ### <a name="add-your-employees"></a>Ajoutez vos employés
 

@@ -5,19 +5,19 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment affecter des abonnements Azure à vos clients dans l’espace partenaires et comment permettre aux clients de gérer leurs propres abonnements.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: Azure, abonnement Azure, abonnement, abonnements, attribuer un abonnement, gérer un abonnement Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6733a7fd394aac2d17650cfb6bdb612f9b9d01bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795050"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948552"
 ---
-# <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Attribution d’abonnements Azure à des clients dans l’espace partenaires
+# <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Affectation d’abonnements Azure à des clients dans l’Espace partenaires
 
 **S’applique à**
 

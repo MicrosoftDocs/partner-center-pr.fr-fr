@@ -5,18 +5,18 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: En savoir plus sur la tarification spéciale et réduite de Microsoft pour certains groupes de clients, y compris les clients de formation, les clients sans but lucratif et les administrations.
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991244"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947404"
 ---
-# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendez à des secteurs spécialisés tels que l’éducation, les personnes non lucratives et les utilisateurs gouvernementaux
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendre à des secteurs spécialisés tels que l’éducation, les associations et le secteur public
 
 **S’applique à**
 

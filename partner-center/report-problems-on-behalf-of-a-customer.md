@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez quand il est logique de faire remonter un problème de service client à Microsoft et de créer un ticket de support pour celui-ci.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 Keywords: demande de service, ticket de service, support, droit de support, aobo, Azure aobo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a2378c947f9b871ec9cba104136fcede72f0f72
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 512b8b51dd036bb6428a3f5f730c36168c5fa455
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992036"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949272"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Signaler un problème de service au nom d’un client, y compris quand et comment procéder
 
@@ -94,7 +94,7 @@ Pour trouver les coordonnées de l’ISV :
     - Adresse e-mail de support
     - Numéro de téléphone pour contacter le support
 
-## <a name="faq"></a>Questions fréquentes (FAQ)
+## <a name="faq"></a>Forum aux questions
 
 **Qu’est-ce qui est inclus dans le droit au support ?**
 

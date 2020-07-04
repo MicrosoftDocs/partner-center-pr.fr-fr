@@ -5,17 +5,17 @@ ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment s’inscrire au programme des bons de formation Software Assurance pour vous permettre de compenser la formation et la planification aux entreprises.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 keywords: bons de formation, software assurance, formation, inscription à SATV, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 0d14a588e24488b4d45b52540e8d749cbf8bdbad
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e4910ed3301e6399f9ce6ab26bfc69c7257e2bff
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788793"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949553"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) de l’Espace partenaires
 
@@ -23,7 +23,7 @@ Développez votre activité en vous inscrivant aux programmes partenaires Softwa
 
 En tant que partenaire de formation Software Assurance approuvé, Microsoft vous rémunère pour fournir une formation technique aux grandes entreprises clientes en échange des bons qu’ils reçoivent avec Software Assurance. Participer à ce programme peut vous aider à attirer plus de clients et à devenir leur partenaire de formation approuvé.
 
-## <a name="get-started"></a>Bien démarrer
+## <a name="get-started"></a>Prise en main
 
 Si vous ne connaissez pas les services de formation Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le programme de bon de formation, commencez à l’étape quatre (4) ci-dessous. 
 

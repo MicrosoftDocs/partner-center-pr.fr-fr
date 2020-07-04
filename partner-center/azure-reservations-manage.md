@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment gérer des réservations Azure pour un client, notamment comment annuler une réservation, échanger une réservation ou demander un remboursement.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 keywords: Azure, réservations, gérer, facturation, achat, annulation, échange, frais de résiliation précoce
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 7ac21da2b45cff62cbe1d2e34c226f115a9c8a7b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908311"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948315"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gérez, annulez, échangez ou remboursez Microsoft Azure réservations pour les clients
 
@@ -65,9 +65,9 @@ Voir ci-dessous pour obtenir des détails et des frais d’annulation.
 
 |**Date d’annulation**<br> précédant   |**Utilisation**    |**Crédit**  |**Fin précoce**<br> frais    |**Plafond de remboursement** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|au moins 5                         | Non           | 100 %       | Non                               | $50 000 USD   |
-|au moins 5                         | Oui         | Pro-évalué  | Non                               | $50 000 USD   |
-|Plus de 5                        | Non           | Pro-évalué  | 12 %                             | $50 000 USD   |
+|au moins 5                         | Non          | 100 %       | Non                              | $50 000 USD   |
+|au moins 5                         | Oui         | Pro-évalué  | Non                              | $50 000 USD   |
+|Plus de 5                        | Non          | Pro-évalué  | 12 %                             | $50 000 USD   |
 |Plus de 5                        | Oui         | Pro-évalué  | 12 %                             | $50 000 USD   |
 
 

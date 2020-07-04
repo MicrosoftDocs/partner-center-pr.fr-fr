@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les rôles spécifiques nécessaires pour voir les rapports de l’espace partenaires. Celles-ci incluent les rôles de visionneuse de rapports Executive et de visionneuse de rapports.
 keywords: PCI, performances, succès des clients, mesures, rôles
-author: LauraBrenner
-ms.author: labrenne
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f17c775736767eb5df5c76e983071f248db8bf76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: aaa3552a7c0a3d15674ac0178fc98375b9cd1b0b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992073"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948728"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Contrôle d’accès en fonction du rôle au tableau de bord Insights de l’espace partenaires
 

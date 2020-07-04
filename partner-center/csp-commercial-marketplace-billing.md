@@ -5,17 +5,17 @@ ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment la facturation fonctionne pour les produits ou abonnements SaaS ISV achetés pour les clients à partir de la place de marché commerciale dans l’espace partenaires.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: abonnements, produits, achats, Marketplace, tiers, ISV, facturation, factures, rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9672850b699a2660f646ede5250e52298f5522cd
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394155"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947817"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturation des produits et abonnements de la place de marché commercial dans l’espace partenaires
 

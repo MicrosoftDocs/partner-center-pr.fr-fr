@@ -5,17 +5,17 @@ ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les paiements non alloués qui s’affichent sur la page de facturation de l’espace partenaires. En savoir plus sur la façon de les appliquer à vos factures.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturation, paiement, paiements, paiement non alloué
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bcb23a338b4298982749f34341f60a392f4f8e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603608"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949589"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gérer les paiements non alloués sur la page de facturation de l’espace partenaires
 

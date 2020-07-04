@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Demandez une relation avec un client pour les scénarios multi-partenaires multicanaux ou si vos privilèges d’administrateur délégué pour un client doivent être restaurés.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104091"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949246"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Comment demander une relation de revendeur à un client dans l’espace partenaires
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Guide pratique pour demander une relation de revendeur à un client dans l’Espace partenaires
 
 **S’applique à**
 
@@ -36,7 +36,7 @@ Vous pouvez demander une relation de revendeur avec un client dans votre pays ou
 
 2. Pour demander des autorisations d’administrateur à ce client, sélectionnez **inclure des privilèges d’administration déléguée pour Azure Active Directory et Office 365**. Pour établir la relation sans demander d’autorisations d’administrateur, désactivez cette option.
 
-3. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie par défaut, ou bien copier le message dans votre Presse-papiers et le coller dans un e-mail.
+3. Dans la page suivante, passez en revue le brouillon de message électronique. Vous pouvez ouvrir le brouillon de message dans votre application de messagerie par défaut, ou vous pouvez copier le message dans le Presse-papiers et le coller dans un e-mail.
 
    Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. Sélectionnez **Terminé** une fois que vous avez effectué cette étape.
 

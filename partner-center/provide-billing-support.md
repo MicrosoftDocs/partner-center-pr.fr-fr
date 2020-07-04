@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur le support de facturation client requis par les partenaires du programme CSP. Cela comprend la possession de la relation de facturation client et la réponse aux questions de facturation.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 620b301aa428aef3348e316667b82507d2fc3b5b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992057"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949321"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fournir un support de facturation à vos clients et aider à répondre à leurs questions de facturation
 
@@ -59,7 +59,7 @@ Les partenaires doivent recevoir des demandes de support entrantes de la part de
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
-Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d'informations, consultez les pages suivantes :
+Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d'informations, voir :
 
 - [Abonnements Dynamics 365 vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

@@ -4,16 +4,16 @@ description: Découvrez comment résoudre les problèmes qui se posent quand vou
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e5ad52e128aba9884fafea3900a3c03d31d4868f
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: cda0b9d29c351e5365a0ff291f66ee5e2fa91ae7
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719323"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949658"
 ---
 # <a name="customer-association-issues"></a>Problèmes liés aux associations de clients
 
@@ -64,7 +64,7 @@ La plateforme de revendication CPOR autorise les revendications d’association 
 | Applications métier      | Support prévente   | Sélectionnez cette option si vous avez influencé l’achat d’un produit éligible et souhaitez demander des incentives avant la vente. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct. |
 |    |  Utilisation  | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct. |
 |    | Association du chiffre d’affaires   | Sélectionnez si vous avez influencé la sélection d’un produit éligible en tant qu’influenceur commercial. Cette option est réservée à l’Association du chiffre d’affaires, et non aux paiements incitatives. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct.   |
-| Microsoft 365   | Utilisation   | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. |
+| Microsoft 365   | Utilisation   | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. |
 
 ## <a name="which-mpn-do-i-choose"></a>Quels MPN-je choisir ?
 

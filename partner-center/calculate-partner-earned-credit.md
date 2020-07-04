@@ -5,23 +5,23 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment l’aspect du crédit gagné (PEC) du plan Azure est calculé. Cela comprend les conditions d’éligibilité pour les partenaires et les fournisseurs indirects.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 437d1bbd6a5ef3a18d149df2b533fdd2d0ed735d
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 065cf0c8f95667b470081edcb1b66398235604b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908897"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948133"
 ---
 # <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>Comment le crédit gagné par le partenaire (PEC) est calculé pour les partenaires dans le programme du fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur de facturation
+- Administrateur de la facturation
 
 Les partenaires qui possèdent la gestion des opérations informatiques 24/24 h des pièces ou la totalité de l’environnement Azure de leurs clients dans CSP sont récompensés avec PEC. Le PEC est fourni dans le cadre de la facture au partenaire qui a une relation de facturation directe avec Microsoft. Le crédit est calculé quotidiennement et reflété dans la facture mensuelle. Par défaut, dans CSP, les partenaires reçoivent les droits d’accès nécessaires à l’abonnement du client, ce qui leur permet d’avoir une gestion et un contrôle des opérations 24h/24 et 7j/7 des ressources sur l’abonnement. Les autres façons dont le client peut configurer l’accès pour un partenaire de transaction sont décrites dans la section suivante.
 

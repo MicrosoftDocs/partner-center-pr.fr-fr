@@ -3,17 +3,17 @@ title: Gérer les revendications de co-op
 description: Comprendre le processus de demande de remboursement, y compris les échéances, les problèmes de monnaie et comment contester une revendication de coopération rejetée.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719330"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949495"
 ---
 # <a name="manage-co-op-claims"></a>Gérer les revendications de co-op
 
@@ -27,7 +27,7 @@ Rôles appropriés :
 
 - Administrateur de primes incitatives
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Approbation des demandes de financement et échéances de paiement
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Approbation des demandes de coopération et délais de paiement
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>Quand ma demande de co-op sera-t-elle approuvée ?
 

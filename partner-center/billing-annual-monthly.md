@@ -3,16 +3,16 @@ title: Différences entre les facturations mensuelle et annuelle
 ms.topic: article
 ms.date: 05/06/2020
 Description: Découvrez comment les facturations mensuelles et annuelles diffèrent dans l’espace partenaires. Apprenez également à basculer entre différents types de facturation et les implications du basculement.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908967"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948229"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendre la différence entre la facturation mensuelle et la facturation annuelle dans l’espace partenaires
 
@@ -146,7 +146,7 @@ Le nouveau partenaire doit acheter un nouvel abonnement pour le compte du client
 
 Vous pouvez réactiver un abonnement jusqu’à 90 jours après la date de la suspension. Les frais calculés au prorata seront facturés à la date de facturation suivante. La date de renouvellement de l’abonnement reste identique.
 
-## <a name="pricing"></a>Tarifs
+## <a name="pricing"></a>Tarification
 
 ### <a name="offer-pricing"></a>Tarifs de l’offre
 

@@ -3,16 +3,16 @@ title: Fichiers de rapprochement basés sur l’utilisation
 ms.topic: article
 ms.date: 06/08/2020
 description: En savoir plus sur tous les éléments de votre fichier de réconciliation basé sur l’utilisation dans l’espace partenaires. Contient quelques exemples.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909117"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949547"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Comprendre les fichiers de rapprochement basés sur l’utilisation et leurs champs spécifiques dans l’espace partenaires
 

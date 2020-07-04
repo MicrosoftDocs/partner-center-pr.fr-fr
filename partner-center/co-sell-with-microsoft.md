@@ -5,17 +5,17 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des engagement, inviter Microsoft à collaborer ou afficher les engagement envoyés.
-author: JnHs
+author: sroy
 ms.author: jenhayes
 keywords: référence, demande d'informations, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721499"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948057"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-vendre avec Microsoft
 
@@ -66,7 +66,7 @@ Enfin, dans la section **Ajouter des solutions** , sélectionnez la solution qui
 
 Sélectionnez **suivant** pour passer à l’étape suivante.
 
-### <a name="invite-others"></a>Inviter d’autres personnes
+### <a name="invite-others"></a>Inviter
 
 La dernière étape du processus de création de l’engagement de covente consiste à fournir plus de détails sur le type d’aide que vous recherchez. Sélectionnez le meilleur ajustement sous **Comment pouvons-nous vous aider ?** Ensuite, dans le champ **Remarques à Microsoft** , fournissez autant de détails que possible sur les meilleures méthodes pour Microsoft pour fournir de l’aide.
 

@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment personnaliser le catalogue Microsoft pour faciliter l’accès aux offres ou produits que votre organisation utilise le plus.
-author: LauraBrenner
-ms.author: labrenne
+author: hemas
+ms.author: hemas
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 293c7458f11f309609443a845c9d80de7512438c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 7d2e6f6bba4b095895db5cc7edc1d58daa0f210b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991271"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947619"
 ---
 # <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>Personnaliser le catalogue Microsoft avec les offres ou produits les plus adaptés à votre organisation
 

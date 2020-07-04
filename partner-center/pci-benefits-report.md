@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les types d’avantages des partenaires Microsoft qui vous ont été accordés pour vous aider à développer votre activité, améliorer l’efficacité et améliorer les compétences de votre équipe.
 keywords: PCI, performances, mesures, avantages, analytique, rapport
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e43545e65d877debeb5b85713b5b900b4b49921
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908697"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949385"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapport des avantages disponible dans le tableau de bord des Insights de l’espace partenaires
 

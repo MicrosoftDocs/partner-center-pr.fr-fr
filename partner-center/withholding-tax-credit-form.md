@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Assurez-vous que votre compte espace partenaires est crédité pour la TVA en créant une demande de retenue d’impôt dans l’espace partenaires.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, certificats fiscaux
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7fa10b20d7d7b3c89726fd08b3dd5dbaa1b89cbb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991656"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949577"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande si vous payez une administration fiscale locale au lieu de Microsoft
 
@@ -23,7 +23,7 @@ S’applique à :
 
 - Espace partenaires
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Vue d'ensemble
 
 Dans certains pays, les partenaires CSP reçoivent des montants de facture incluant des taxes. Certains de ces partenaires paient leur administration fiscale locale au lieu de Microsoft. Si vous payez votre administration fiscale locale, vous devez soumettre une demande de retenue d’impôt, y compris votre certificat fiscal, pour effacer le montant imposé des factures précédentes. Ces montants effacés apparaissent sous forme de crédits dans les factures mensuelles suivantes. vous n’aurez donc plus à payer les taxes de Microsoft.
 

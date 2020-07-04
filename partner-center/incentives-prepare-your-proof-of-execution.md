@@ -3,17 +3,17 @@ title: Préparer votre preuve d’exécution
 description: Comprendre l’importance de vos preuves d’exécution, ainsi que les chronologies, l’affichage de l’État et les instructions d’envoi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 93a4b18d852dec31e2bbeb8b66f15feb075f5be8
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 56210d460d3ca4f58b87a8ead8ed7161058aba78
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719331"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949478"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Préparer votre preuve d’exécution
 

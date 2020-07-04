@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consultez les tarifs actuels pour obtenir des services basés sur une licence comme Office 365, Microsoft Dynamics CRM et Enterprise Mobility suite, ainsi que des services basés sur l’utilisation comme Azure.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661662"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949337"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
@@ -89,7 +89,7 @@ Le fournisseur CSP offre des services à des segments de marché spéciaux, par 
 
 |**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Formation|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
+|Education|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
 |À but non lucratif|Customer|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure Government|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure Government|Ressources Azure|

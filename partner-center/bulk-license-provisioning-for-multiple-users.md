@@ -5,17 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser un compte client pour affecter ou révoquer des licences et des services à un seul utilisateur ou à plusieurs utilisateurs à la fois.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 Keywords: attribuer une licence, révoquer une licence, attribuer à plusieurs utilisateurs,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6508fad5e72e73cfab6310a413fded49d939158a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 35ab785649419e443171f5037e66a8a38fd1c7e6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991630"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948141"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Affecter ou révoquer des licences en même temps à plusieurs utilisateurs dans un compte client
 

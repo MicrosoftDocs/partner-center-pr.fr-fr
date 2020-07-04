@@ -1,19 +1,19 @@
 ---
-title: Créer et gérer des profils de paiement et de taxes dans l’espace partenaires
+title: Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires
 ms.topic: article
 ms.date: 06/29/2020
 description: Avant de pouvoir vous payer pour votre travail d’incentives, vous devez créer vos profils de paiement et de taxes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: b7f99ff64b6cdabe8b59607e5820daf0909050f1
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719397"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949681"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Profils de paiement et de taxes dans l’espace partenaires
 
@@ -29,7 +29,7 @@ Rôles appropriés :
 - Administrateur de la facturation
 - Administrateur général
 
-## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer des profils de paiement et de taxes dans l’espace partenaires
+## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires
 
 Les sections ci-dessous vous guideront tout au long du processus de création et de gestion des profils de paiement et de taxes dans l’espace partenaires.
 

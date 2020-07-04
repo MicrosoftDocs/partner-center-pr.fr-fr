@@ -5,17 +5,17 @@ ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser Analytics dans l’espace partenaires pour mieux comprendre votre activité et comment vos clients utilisent les licences que vous avez achetées.
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 keywords: données, analyse, analyse des données, Power bi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3232a8c5b2f3e0bb4458dffdc577cbd561064dae
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: f69fc08712ca13a9593383c0a629382b0eb3b023
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795200"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947596"
 ---
 # <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Utilisez Analytics pour en savoir plus sur l’utilisation des licences client et sur la façon dont vous pouvez vous aider à répondre à leurs besoins.
 

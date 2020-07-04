@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Un client peut souhaiter travailler avec plusieurs partenaires dans le programme du fournisseur de solutions Cloud spécialisé dans différents services.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93a6912f0c0543b5f381cea8dc050d918d7666b1
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5e34a8f8c85b1ad7826869a50f79a26550cf4790
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991911"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949407"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Prise en charge de plusieurs partenaires pour les clients qui souhaitent travailler avec plusieurs partenaires
 

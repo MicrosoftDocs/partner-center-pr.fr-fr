@@ -5,19 +5,19 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment ajouter un nouvel enregistrement de client dans l’espace partenaires. Vous pouvez ensuite vendre les abonnements des clients, gérer la facturation ou fournir un support technique.
-author: LauraBrenner
-ms.author: labrenne
+author: parthp
+ms.author: parthp
 keywords: client, ajouter un client, compte client, compte client dans l’espace partenaires, clients, ajouter des clients, créer un compte client
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fcfb35585dc145917614f4557465cb2661dd254a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991109"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947444"
 ---
-# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Comment ajouter un nouvel enregistrement de client dans l’espace partenaires
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Guide pratique pour ajouter un nouvel enregistrement de client dans l’Espace partenaires
 
 **S’applique à**
 
@@ -37,7 +37,7 @@ Cet article explique comment ajouter un nouveau client à votre liste de clients
 >[!NOTE]
 >Pour les clients existants, y compris ceux qui ont déjà des enregistrements de clients dans l’espace partenaires via un scénario [multicanaux](multichannel.md) ou [multipartenaire](multipartner.md) , vous pouvez [demander une relation avec eux](request-a-relationship-with-a-customer.md)au lieu de suivre les étapes ci-dessous.
 
-## <a name="to-add-a-new-customer-in-partner-center"></a>Pour ajouter un nouveau client dans l’espace partenaires
+## <a name="to-add-a-new-customer-in-partner-center"></a>Pour ajouter un nouveau client dans l’Espace partenaires
 
 1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez **Ajouter un client**.
 
@@ -70,6 +70,6 @@ Cet article explique comment ajouter un nouveau client à votre liste de clients
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- Pour plus d’informations sur ce que vous pouvez vendre aux clients par le biais du programme fournisseur de solutions Cloud, consultez [offres partenaires dans le programme du fournisseur de solutions Cloud](csp-offers.md).
+- Pour plus d’informations sur ce que vous pouvez vendre aux clients par le biais du programme fournisseur de solutions Cloud, consultez [offres partenaires dans le programme du fournisseur de solutions Cloud](csp-offers.md)
 
 - Pour plus d’informations sur l’Association d’un nouveau client à votre compte partenaire, consultez [se connecter avec des clients](customer-accounts.md).

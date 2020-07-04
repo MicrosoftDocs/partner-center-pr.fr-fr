@@ -1,19 +1,19 @@
 ---
-title: Déterminer l’éligibilité de votre programme
+title: Déterminer si vous êtes éligible au programme
 description: Assurez-vous que votre programme d’incentives est éligible pour que vous puissiez être payé.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 5e78d1cb1d9d88378e909a4ecbacd41aa3842fe6
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: e29e134c162b0d0d2a05998a4a5df23c2f695da0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719322"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949513"
 ---
 # <a name="program-eligibility"></a>Éligibilité du programme
 

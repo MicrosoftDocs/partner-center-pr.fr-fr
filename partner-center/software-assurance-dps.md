@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apprenez à vous inscrire et à bénéficier des contrats Microsoft sur les services de planification afin de pouvoir fournir des services de formation et d’autres services aux clients avec Software Assurance.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 Keywords: prédéploiement, planification, Software Assurance
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 29ceef8ab082e2520ea050f759711fd4d15beec0
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: bc18e4787194e8933aec95dfff278a7e8bb87f5d
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425928"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949594"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 
@@ -26,7 +26,7 @@ ms.locfileid: "84425928"
 
 En tant que partenaire des services de planification approuvés, Microsoft vous compense de fournir des engagement de planification de prédéploiement pour les clients d’entreprise. Participer à ce programme peut vous aider à attirer plus de clients, à devenir leur partenaire de planification approuvé et à mener à des interventions client supplémentaires.
 
-## <a name="get-started"></a>Bien démarrer
+## <a name="get-started"></a>Prise en main
 
 Si vous ne connaissez pas les services de planification Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le ou les programmes des services de planification, commencez chaque engagement à l’étape 4 (4) ci-dessous.
 

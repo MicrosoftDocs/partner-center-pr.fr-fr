@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les opportunités de fournisseurs de solutions Cloud pour acquérir, approvisionner et gérer des réservations Azure et des abonnements de serveur pour les clients.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Azure, abonnements, machine virtuelle, réservation, instance réservée
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198627"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948262"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquérir, approvisionner & gérer des instances de machine virtuelle réservées Azure (RI) + abonnements serveur pour les clients
 
@@ -83,7 +83,7 @@ Avec une combinaison non appariée de tarification attrayante et une flexibilit�
 
 - Azure VMware Solution by CloudSimple
 
-## <a name="getting-started"></a>Mise en route
+## <a name="getting-started"></a>Prise en main
 
 Pour comprendre comment positionner Azure Reservations avec vos clients et que vous êtes opérationnel aussi rapidement que possible, nous vous recommandons l’approche suivante pour passer en revue les matériaux de préparation :
 

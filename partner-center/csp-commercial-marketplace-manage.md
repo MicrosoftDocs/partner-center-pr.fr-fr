@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: À l’aide de l’espace partenaires, Découvrez comment les fournisseurs de solutions Cloud peuvent gérer des offres ISV tierces achetées pour les clients à partir de la place de marché commerciale.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: abonnements, Marketplace, tiers, ISV, offres SaaS, programme fournisseur de solutions Cloud, gérer une offre, gérer un abonnement, licences, annuler un abonnement, sièges, désactiver le renouvellement automatique, ID MPN du revendeur indirect
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937633"
+ms.locfileid: "85947751"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gérer les produits et offres de la place de marché commercial pour vos clients
 

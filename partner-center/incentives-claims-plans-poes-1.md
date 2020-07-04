@@ -5,15 +5,15 @@ ms.date: 06/12/2020
 description: Comprendre le processus de demande de remboursement, y compris les échéances, les durées de paiement et la preuve d’exécution (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 9ca387b5f204345d74091de9dc92305b22ef824f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ceffac9a2441895d698b9315f62e71ea9a9220b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992122"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949706"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>Demandes de financement, plans et PoEs
 

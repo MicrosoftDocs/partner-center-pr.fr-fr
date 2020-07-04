@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez ce que vous êtes en train de faire et où vous pouvez améliorer en ce qui concerne les compétences Microsoft, les niveaux de compétence et les offres pour vous aider à fournir des solutions Microsoft.
 keywords: PCI, performances, mesures, succès des clients, compétences, avantages, analytique, rapport
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e836a9d5c51796edf76844342fb9bc68fcfacd69
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: d95c45793cfbbc46b68794937e4c3771e9b9b01a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909077"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949355"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Rapport compétences disponible à partir du tableau de bord Insights de l’espace partenaires
 
