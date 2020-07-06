@@ -651,7 +651,7 @@ Microsoft 365 Business Voice, système téléphonique basé sur le cloud destin
 
 ### <a name="impacted-audience"></a>Public concerné
 
-- Tous les partenaires fournisseurs de solutions cloud opérant dans ces [pays](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/).
+- Tous les partenaires fournisseurs de solutions cloud opérant dans ces [pays/régions](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/).
 - Les partenaires en Australie doivent consulter nos instructions ci-dessous.
 
 ### <a name="details"></a>Détails

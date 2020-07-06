@@ -162,7 +162,7 @@ Les partenaires qui ne disposent pas d’un accès administratif peuvent toujour
 - Date de la première publication : 21 octobre 2019
 - Mise à jour de la date de lancement de Power BI et de la date d’introduction de PowerShell : 1er novembre 2019
 - Le script PowerShell est maintenant disponible pour les administrateurs informatiques. Mise à jour de Microsoft Flow vers Power Automate : 19 novembre 2019.
-- Lancement de l’achat en libre-service pour PowerBI et détails du lancement de Power Apps, de Power Automate et d’autres pays : - 14 janvier 2020
+- Lancement de l’achat en libre-service pour PowerBI et détails du lancement de Power Apps, de Power Automate et d’autres pays/régions : - 14 janvier 2020
 - Lancement de l’achat en libre-service pour Power Apps et Power Automate : 28 janvier 2020
 
 _________________
