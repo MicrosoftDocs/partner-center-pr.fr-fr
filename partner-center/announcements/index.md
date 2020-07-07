@@ -9,12 +9,11 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
-ms.translationtype: HT
+ms.openlocfilehash: 2dd815862d84509a58726bea804be4fa14f3b729
+ms.sourcegitcommit: 622dab23ac25ebdcc9fcd736c23ce9cc177fe6da
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879093"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "86032483"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +21,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de juillet 2020** | **Annoncé** |
 |---------|:---------|:---------|
+| Offres/marchés | [Nouvelles références SKU Téléphonie Microsoft 365 Entreprise pour Teams](2020-july.md#4) | 3 juillet |
 | Offres/marchés | [Offres et produits Microsoft Dynamics 365 et Power Platform nouveaux et en fin de vie](2020-july.md#3) | 1er juillet |
 | Offres/marchés | [Microsoft a stoppé la vente de la référence SKU autonome Microsoft Kaizala Pro](2020-july.md#2) | 1er juillet |
 | Fonctions | [Programmes d’incentives CSP prolongés jusqu’au T1 de l’année fiscale 2021](2020-july.md#1) | 1er juillet |
