@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment confirmer l’acceptation du Contrat client Microsoft par les clients. Les fournisseurs de solutions Cloud doivent faire cela pour commander des produits et services Microsoft pour les clients.
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 keywords: client, clients, consentement, MCA, Contrat Microsoft Cloud, Contrat client Microsoft, modèles de contrat client
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: bc809c693b74f2a7fc6a906c625efebb6678784e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679106"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947951"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmer l’acceptation du Contrat client Microsoft par le client dans le cadre du programme des partenaires fournisseurs de solutions Cloud
 

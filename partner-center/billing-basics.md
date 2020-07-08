@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 description: Découvrez les bases de la facturation et les informations sur les factures pour les partenaires fournisseurs de solutions Cloud dans l’Espace partenaires. Comprend des indications sur la façon de facturer les clients et de trouver et lire votre facture.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 91b3aaf27e049c4aab5c2c1c5c44d0fb2976a25f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908242"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948216"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Vue d’ensemble de la facturation pour les partenaires du programme Fournisseur de solutions Cloud utilisant l’Espace partenaires 
 

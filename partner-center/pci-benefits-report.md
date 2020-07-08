@@ -10,12 +10,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
+ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949385"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "86092353"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapport des avantages disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -42,7 +42,7 @@ Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
  > [!NOTE]
  > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
-**Résumé**
+## <a name="summary"></a>Résumé
 
 La section Résumé présente les avantages offerts par les logiciels sous licence, les services Cloud (non-Azure), les abonnements Visual Studio, le support technique et certains services ou offres Go-to-Market.
 
@@ -50,20 +50,20 @@ Exemple : les partenaires Microsoft Partner Network (MPN) peuvent bénéficier 
 
 :::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Résumé des avantages":::
 
-**Services Cloud accordés**
+## <a name="cloud-services-granted"></a>Services Cloud accordés
 
 Ce graphique présente la tendance mensuelle des licences accordées au cours de la plage de dates sélectionnée pour les abonnements basés sur une licence du service Cloud sélectionné.
 Sélectionnez un service Cloud dans l’onglet **services** pour afficher le graphique d’un service Cloud spécifique. Le graphique linéaire représente les licences globales accordées à votre société.
 
 :::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="services Cloud accordés":::
 
-**Produits logiciels**
+## <a name="software-products"></a>Produits logiciels
 
 Ce graphique présente la tendance mensuelle des licences accordées au cours de la plage de dates sélectionnée pour un produit logiciel spécifique. Sélectionnez un produit logiciel dans la liste déroulante en haut du graphique afin d’afficher la tendance d’un produit logiciel spécifique que vous avez acquis comme avantage. Le graphique linéaire représente les licences globales accordées à votre société.
 
 :::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="produits logiciels accordés":::
 
-**Abonnements Visual Studio**
+## <a name="visual-studio-subscriptions"></a>Abonnements Visual Studio
 
 Ce graphique présente la tendance mensuelle des abonnements Visual Studio activés par rapport aux abonnements que vous avez alloués au cours de la plage de dates sélectionnée.
 
@@ -71,7 +71,7 @@ Sélectionnez un onglet en haut du graphique pour afficher la tendance d’un ab
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Abonnements Visual Studio":::
 
-**Avantages techniques**
+## <a name="technical-benefits"></a>Avantages techniques
 
 Ce graphique présente la tendance mensuelle des avantages du support accordé au cours de la plage de dates sélectionnée.
 
@@ -79,13 +79,13 @@ Sélectionnez un onglet en haut du graphique pour afficher la tendance d’un av
 
 :::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="avantages techniques":::
 
-**Offres ou services Go-to-Market**
+## <a name="go-to-market-offers-or-services"></a>Offres ou services Go-to-Market
 
 Ce graphique présente la tendance mensuelle des offres ou services Go-to-Market activés sur alloués au cours de la plage de dates sélectionnée et pour une offre ou une catégorie de service de mise sur le marché sélectionnée.
 
 Sélectionnez une catégorie de service ou une offre de mise sur le marché dans la liste déroulante en haut du graphique pour afficher la tendance des services Go-to-Market sélectionnés accordés à votre entreprise. Les colonnes du graphique représentent les offres Go-to-Market ou les services activés. Le graphique linéaire représente les offres Go-to-Market globales ou les services accordés à votre entreprise.
 
-![Offres Go-to-Market](images/pci/pci-benefits-go-to-market-7.png)
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Offres Go-to-Market":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

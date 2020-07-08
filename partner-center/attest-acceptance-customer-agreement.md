@@ -5,17 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez dans quels cas il est opportun d’attester l’acceptation du Contrat client Microsoft au nom de votre client.
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 keywords: client, clients, consentement, MCA, contrat Microsoft Cloud, Contrat client Microsoft, modèles d’accord client, attestation d’acceptation
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: feb5d900e140e4c70b45572b1ea20ed37c4e49e3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678566"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948571"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attester l’acceptation du Contrat client Microsoft au nom de votre client
 

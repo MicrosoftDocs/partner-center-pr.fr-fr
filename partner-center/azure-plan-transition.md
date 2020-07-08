@@ -4,17 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires fournisseurs de solutions Cloud peuvent utiliser l’Espace partenaires pour faire passer les clients des offres Azure CSP existantes aux services Azure relevant du plan Azure.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a6f2c3cfe2c19c2764b8149a00c065eb1c429a98
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908957"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948390"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Assurer la transition des clients vers le plan Azure à partir des offres Azure CSP existantes
 
