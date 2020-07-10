@@ -10,12 +10,12 @@ ms.author: dineshvu
 Keywords: journaux d’activité, abonnement, abonnements, paiements, facturation, transactions
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 06dc153dde88321556d7ff81da03264075ecc190
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947364"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86176002"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Afficher ou exporter les journaux d’activité client pour plus d’informations sur les transactions client
 
@@ -38,28 +38,26 @@ Les journaux d’activité fournissent des informations sur les transactions et 
 
 Les journaux d’activité fournissent des enregistrements correspondant aux actions des partenaires sur les comptes client et les transactions de produit. Vous pouvez également exporter les journaux d’activité dans un fichier&nbsp;CSV.
 
-**Voir et exporter les journaux d’activité**
+## <a name="view-and-export-activity-logs"></a>Afficher et exporter des journaux d’activité
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
 2. Dans le menu **Paramètres du compte**, sélectionnez **Journal d’activité**.
-2.  Sélectionnez la période du journal d’activité avec les champs **De** et **À**. Par défaut, le journal d’activité exporte le mois le plus récent.
 
-    Chaque journal d’activité fournit un lien vers la page **Abonnements** du client répertorié.
+3. Sélectionnez la période du journal d’activité avec les champs **De** et **À**. Par défaut, le journal d’activité exporte le mois le plus récent.
 
-    Cliquez sur la flèche vers le bas d’un journal d’activité pour afficher des détails sur une action journalisée. Un journal d’activité peut afficher une quantité importante de données, comme le classement de plusieurs produits.
+   Chaque journal d’activité fournit un lien vers la page **Abonnements** du client répertorié.
 
-3.   Les colonnes de données du journal comportent les éléments suivants :
-    -   **Date-Heure** : date et heure de l’action
-    -   **Client affecté**&nbsp;: nom de la société du client
-    -   **Action** : action entreprise par le client, par exemple « création d’une référence »
-    -   **Utilisateur partenaire** : partenaire associé à l’activité.
+   Cliquez sur la flèche vers le bas d’un journal d’activité pour afficher des détails sur une action journalisée. Un journal d’activité peut afficher une quantité importante de données, comme le classement de plusieurs produits.
 
-4.  Sélectionnez **Exporter le journal** pour copier les données d’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
-    
- 
+4. Les colonnes de données du journal comportent les éléments suivants :
+   - **Date-Heure** : date et heure de l’action
+   - **Client affecté**&nbsp;: nom de la société du client
+   - **Action** : action entreprise par le client, par exemple « création d’une référence »
+   - **Utilisateur partenaire** : partenaire associé à l’activité.
 
- 
+5. Sélectionnez **Exporter le journal** pour copier les données d’abonnement du client dans un fichier .csv et le télécharger dans le dossier de téléchargement par défaut de votre ordinateur.
 
+## <a name="next-steps"></a>Étapes suivantes
 
-
+- [Analyser les abonnements et les licences pour vous aider à prendre des décisions commerciales](analyze-subscriptions-licenses.md)

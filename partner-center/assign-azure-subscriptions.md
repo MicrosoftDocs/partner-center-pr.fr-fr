@@ -10,12 +10,12 @@ ms.author: dineshvu
 keywords: Azure, abonnement Azure, abonnement, abonnements, attribuer un abonnement, gérer un abonnement Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948552"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175921"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Affectation d’abonnements Azure à des clients dans l’Espace partenaires
 
@@ -37,11 +37,12 @@ ms.locfileid: "85948552"
 
 6. Après avoir ajouté l’utilisateur à l’abonnement, vous pouvez attribuer à l’utilisateur un rôle et le compte spécifique auquel l’utilisateur aura accès.
 
-**Autoriser les clients à gérer leurs abonnements Windows Azure**
+## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>Autoriser les clients à gérer leurs abonnements Windows Azure
 
 Après avoir créé un abonnement Microsoft Azure pour un client, vous pouvez lui permettre de gérer son abonnement. Pour ce faire, vous devez vous connecter au portail de gestion Microsoft Azure du client. 
 
 1. Pour ouvrir le Portail Azure du client, développez la liste des clients dans votre liste de clients ou sélectionnez le nom du client, puis sélectionnez **portail de gestion Microsoft Azure**.
+
    > [!NOTE]  
    > Si vous êtes invité à vous connecter au Portail Azure, vous ne disposez peut-être pas de privilèges d’administrateur délégués. Sélectionnez **Demander une relation** pour inviter le client à vous identifier comme son partenaire de référence. Une fois que le client a accepté votre invitation, vous vous voyez automatiquement attribuer des privilèges d'administration délégués.
 
@@ -49,4 +50,8 @@ Après avoir créé un abonnement Microsoft Azure pour un client, vous pouvez lu
 
 3. Attribuez un rôle à l’un des utilisateurs du client afin qu’il puisse créer et gérer des ressources dans le cadre de son abonnement.
 
+## <a name="next-steps"></a>Étapes suivantes
 
+- [Comment les partenaires CSP peuvent vendre des abonnements aux clients](customer-subscriptions.md)
+
+- [Comment obtenir des autorisations pour gérer le service ou les abonnements d’un client](customers-revoke-admin-privileges.md)

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907349"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175994"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Offrez aux clients une version d’essai gratuite de 30 jours des produits Microsoft
 
@@ -37,18 +37,9 @@ Chaque client bénéficie d’un essai gratuit pour chaque offre disponible. Par
 
 ### <a name="available-products"></a>Produits disponibles
 
-Des essais gratuits sont proposés pour les produits suivants :
+Des versions d’évaluation gratuites sont disponibles pour les offres licesen les plus complètes et les plus populaires. De nouvelles offres d’essai peuvent être présentées sur une base mensuelle.
 
-- Microsoft 365 Business standard
-- Office 365 E3
-- Office 365 E5 avec RTPC
-- Office 365 E5 sans RTPC
-- Enterprise Mobility & Security E5
-- Plan 1 de l’engagement client Dynamics 365
-- Dynamics 365 Business Central
-- Microsoft 365 Business Premium
-
-Nous fournissons des essais gratuits pour ces produits, car il s’agit des offres commerciales les plus complètes et les plus populaires. Il se peut que nous ajoutions d’autres offres d’essais gratuits à l’avenir.
+Les partenaires peuvent trouver des versions d’évaluation dans la liste des prix mensuels sur la page **tarification et offres** de l’espace partenaires. Les offres d’essai comporteront la valeur « version d’évaluation » dans la colonne **type de licence secondaire** de la liste de prix.
 
 Actuellement, il n’y a **pas d’essai gratuit** pour les offres gouvernementales, les offres de formation ou les offres complémentaires.
 
@@ -56,15 +47,15 @@ Actuellement, il n’y a **pas d’essai gratuit** pour les offres gouvernementa
 
 Tous les essais gratuits proposent 25 licences. Vous ne pouvez pas modifier ce nombre au cours de la période d’évaluation. Vous ne pouvez pas ajouter ou supprimer des sièges dans la version d’évaluation gratuite. Une fois la version d’évaluation convertie en abonnement payant, vous pouvez ajouter des licences supplémentaires à l’abonnement.
 
-Vous devez attribuer des licences d’évaluation et des sièges comme vous le feriez pour un service payant dans l’espace partenaires.
+Les licences d’évaluation et les sièges doivent être attribués aux utilisateurs de la même façon que la licence des services payants.
 
 ## <a name="sign-customers-up-for-trials"></a>Signer les clients pour les versions d’évaluation
 
-Pour signer votre client en vue d’une version d’évaluation via l’espace partenaires :
+Obtenir une version d’évaluation de votre client dans l’espace partenaires :
 
 1. À partir de la **vente** dans l’espace partenaires, accédez au **catalogue**. 
 2. Dans le catalogue, dans **fréquence de facturation**, cliquez sur **offre d’essai**. Cela permet d’afficher uniquement les versions d’évaluation gratuites et de désactiver les autres offres qui ne sont pas gratuites. Les versions d’évaluation s’affichent sous l’onglet **essais** du catalogue.
-3. Sélectionnez la version d’évaluation gratuite que vous souhaitez proposer, puis sélectionnez **Envoyer**. Tous les essais sont effectués pendant 30 jours pendant lesquels vous ne serez pas facturé. Vous pouvez également le convertir en abonnement payant à tout moment pendant la période d’évaluation.
+3. Sélectionnez la version d’évaluation gratuite que vous souhaitez proposer, puis sélectionnez **Envoyer**. Tous les essais sont effectués pendant trente jours pendant lesquels vous ne serez pas facturé. Vous pouvez également le convertir en abonnement payant à tout moment pendant la période d’évaluation.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Conversion des versions d’évaluation en abonnements payants
 
@@ -77,12 +68,12 @@ Vous devez convertir votre version d’évaluation en abonnement payant. Pour ce
 
 ### <a name="convert-trials-using-partner-center"></a>Convertir des versions d’évaluation à l’aide de l’espace partenaires
 
-Vous pouvez convertir des versions d’évaluation en abonnements payants à l’aide du tableau de bord espace partenaires comme suit :
+Vous pouvez convertir des versions d’évaluation en abonnements payants à l’aide de l’espace partenaires :
 
 1. Accédez à la page d’abonnement du client, puis sélectionnez la version d’évaluation gratuite.
 2. Sélectionnez **convertir la version d’évaluation en abonnement payant**.
 3. Entrez la quantité de licences et la fréquence de facturation souhaitées, puis sélectionnez **appliquer**.
-4. La facturation de l’abonnement payant commence à la date de conversion, et la nouvelle mise à jour automatique de l’abonnement est de douze mois à compter de la date de la conversion. 
+4. La facturation de l’abonnement payant commence à la date de conversion, et l’abonnement est renouvelé à 12 mois à compter de la date de la conversion. 
 
 ### <a name="convert-trials-using-apis"></a>Convertir les essais à l’aide d’API
 
@@ -126,6 +117,6 @@ Vous ne verrez pas les versions d’évaluation gratuites indiquées dans votre 
 
 Les versions d’évaluation gratuites n’ont pas d’impact sur les incentives.
 
-## <a name="support"></a>Support
+## <a name="support"></a>Support technique
 
 Pour obtenir une assistance sur les versions d’évaluation gratuites, envoyez une demande de service via l’espace partenaires.

@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Utilisez Analytics pour savoir comment fonctionnent vos revendeurs indirects, à la fois leurs succès et les zones qui peuvent nécessiter plus d’attention.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: données métiers
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947414"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175973"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Utiliser Analytics pour analyser les performances de vos revendeurs indirects
 
@@ -35,6 +35,8 @@ Les données prennent des décisions commerciales. Utilisez les mesures de la pa
 
 > [!NOTE]
 > L’analytique des revendeurs indirects est disponible uniquement pour les partenaires du programme fournisseur de solutions Cloud.
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Types de mesures Reseller Analytics que vous pouvez afficher
 
 Nous effectuons le suivi des mesures suivantes :
 
@@ -69,4 +71,6 @@ Nous effectuons le suivi des mesures suivantes :
  - **Abonnements**: nombre d’abonnements vendus par le revendeur  
  - **Licences**: nombre total de licences vendues par le revendeur pour l’ensemble des abonnements  
   
-  
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Analyser les abonnements et les licences pour vous aider à prendre des décisions commerciales](analyze-subscriptions-licenses.md)

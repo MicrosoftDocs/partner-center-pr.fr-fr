@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992112"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175894"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Utiliser des métriques dans l’espace partenaires pour augmenter l’adoption et la satisfaction
 
@@ -39,21 +39,31 @@ Vous pouvez afficher les données de l’ensemble de vos clients via le programm
 
 ## <a name="find-license-and-user-data"></a>Rechercher des données utilisateur et de licence
 
+Vous pouvez trouver une licence et des données utilisateur pour un seul client ou dans votre portefeuille.
 
-**Pour un seul client**
+### <a name="find-license-and-user-data-for-a-single-customer"></a>Recherche de la licence et des données utilisateur pour un seul client
 
-- Sélectionnez **clients** dans l' **espace partenaires**, choisissez un client, puis sélectionnez **Insights client**.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
-**Dans votre portefeuille**
+2. Sélectionner des **clients** dans l' **espace partenaires**
 
-1.  Dans l' **espace partenaires**, sélectionnez **analyser**.
-2.  Téléchargez les données de déploiement et d’utilisation de l’ensemble de vos utilisateurs en sélectionnant les options d’**exportation**.
+3. Choisissez un client.
+
+4. Sélectionnez **Customer Insights**.
+
+### <a name="find-license-and-user-data-across-your-portfolio"></a>Rechercher des données de licence et utilisateur dans votre portefeuille
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
+
+2. Sélectionnez **analyser**, puis choisissez l’une des options d’analyse dans le menu.
+
+3. Pour télécharger les données d’utilisation et de déploiement dans l’ensemble de vos clients, sélectionnez l’option **Exporter** (flèche vers le bas).
 
 Terminologie :
 
-- **Habilitation :** licence que l’utilisateur est autorisée à utiliser (il n’est pas suspendu à des fins de fraude ou de non-paiement, il n’a pas été mis à niveau vers une licence différente, il n’a pas été annulé par l’utilisateur, etc.)
+- **Habilitation** = licence que l’utilisateur est autorisée à utiliser (il n’est pas suspendu à des fins de fraude ou de non-paiement, il n’a pas été mis à niveau vers une licence différente, il n’a pas été annulé par l’utilisateur, etc.)
 
-- **Actif&nbsp;:** si l’utilisateur abonné a utilisé le droit pour une tâche au cours des 28&nbsp;derniers jours.
+- **Actif** = si l’utilisateur abonné a utilisé le droit pour une tâche au cours des 28 derniers jours civils.
 
 - **% de déploiement**&nbsp;=&nbsp;licences attribuées/licences vendues
 
@@ -61,13 +71,13 @@ Terminologie :
 
    Il arrive que le pourcentage d’utilisation soit surestimé ou supérieur à 100&nbsp;%. Cela peut se produire pour plusieurs raisons :
 
-   - Si le client connaissait une rotation d’employés, et que la licence a été transférée à un nouvel utilisateur.
+  - Si le client connaissait une rotation d’employés, et que la licence a été transférée à un nouvel utilisateur.
 
-   - Si le client a deux abonnements pour une référence (SKU), mais que l’un d’eux est en période de grâce, désactivé ou désapprovisionné, les droits dans les deux abonnements peuvent inscrire une utilisation active pendant la période de 28 jours, mais un seul est compté dans le total.
+  - Si le client a deux abonnements pour une référence (SKU), mais que l’un d’eux est en période de grâce, désactivé ou désapprovisionné, les droits dans les deux abonnements peuvent inscrire une utilisation active pendant la période de 28 jours, mais un seul est compté dans le total.
 
-   - Si le client possède un abonnement d’évaluation, l’activité est comptée, mais l’abonnement n’est pas comptabilisé pour le nombre total de droits.
+  - Si le client possède un abonnement d’évaluation, l’activité est comptée, mais l’abonnement n’est pas comptabilisé pour le nombre total de droits.
 
-   - Si certains clients utilisent Yammer nettement plus que ce à quoi ils sont autorisés par leur licence, cela peut fausser considérablement les données.
+  - Si certains clients utilisent Yammer nettement plus que ce à quoi ils sont autorisés par leur licence, cela peut fausser considérablement les données.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

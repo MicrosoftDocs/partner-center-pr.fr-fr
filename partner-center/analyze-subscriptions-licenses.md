@@ -1,23 +1,23 @@
 ---
-title: Analyser les abonnements et les licences | Espace partenaires
-ms.date: 11/13/2019
+title: Analyser les abonnements et les licences
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment utiliser les mesures de la page abonnement et analyse de licence pour identifier vos réussites et les zones qui nécessitent une attention particulière.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: données métiers
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948583"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175964"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Analyser les abonnements et les licences 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analyser les abonnements et les licences pour vous aider à prendre des décisions commerciales et de nouveaux objectifs
 
 **S’applique à**
 
@@ -44,6 +44,8 @@ Ce rapport peut être basé sur les produits suivants :
  - **Microsoft 365**: données Microsoft 365  
  - **Office 365**: données Office 365  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Types de mesures d’abonnement et de licence que vous pouvez afficher
 
 Nous effectuons le suivi des mesures suivantes :
 
@@ -77,4 +79,6 @@ Nous effectuons le suivi des mesures suivantes :
 **Abonnements d’évaluation se terminant dans 30 jours**  
  - Liste des versions d’évaluation qui ont été démarrées, où la date de fin est comprise dans les 30 derniers jours et où aucune date de début de paiement n’est associée à l’abonnement  
 
-  
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Analyser les performances de vos revendeurs indirects](analyze-indirect-resellers.md)
