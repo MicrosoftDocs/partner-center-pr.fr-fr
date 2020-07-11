@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment réinitialiser votre mot de passe de l’espace partenaires ou obtenir de l’aide auprès de l’administrateur général de votre entreprise. En outre, Découvrez comment ajouter un nouvel administrateur général de l’espace partenaires.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b18e28170dcf51d1a2dc36134fb5ad404f18502
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: efd7b886c507940fe474b1984024a18766ebfce7
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991986"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265217"
 ---
 # <a name="reset-my-password"></a>Réinitialiser mon mot de passe
 
@@ -28,7 +28,7 @@ Votre administrateur général doit avoir configuré la possibilité de réiniti
 
 2. Sélectionnez **compte professionnel ou scolaire**.
 
-3. Vous êtes ensuite invité à entrer votre ID d’utilisateur et les caractères dans l’image ou l’audio. Sélectionnez ensuite **Suivant**.
+3. Vous êtes ensuite invité à entrer votre ID d’utilisateur et les caractères dans l’image ou l’audio. Ensuite, sélectionnez **Suivant**.
 
 4. Configurez votre nouveau mot de passe.
 

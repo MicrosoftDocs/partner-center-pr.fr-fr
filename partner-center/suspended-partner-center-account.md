@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment restaurer un compte Espace partenaires suspendu, pourquoi un compte peut être suspendu et comment utiliser votre compte pendant la suspension.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991802"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219647"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurer un compte de l’espace partenaires suspendu : Découvrez pourquoi il se produit et comment procéder
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurer un compte Espace partenaires suspendu : découvrez pourquoi cela se produit et ce que vous pouvez faire pour y remédier
 
 Cet article explique ce qu’il faut faire si votre compte de l’Espace partenaires est suspendu.
 
@@ -27,7 +27,7 @@ Cet article explique ce qu’il faut faire si votre compte de l’Espace partena
 
 
 > [!IMPORTANT]  
-> Lorsque votre compte Espace partenaires est suspendu, vous pouvez continuer à gérer vos déploiements, licences et services. Toutefois, vous ne pouvez pas autoriser ou revendre de nouvelles licences ou services tant que votre compte n’est pas de nouveau en bonne position.
+> Pendant que votre compte Espace partenaires est suspendu, vous pouvez continuer de gérer vos déploiements, licences et services existants. Cependant, vous ne pouvez pas autoriser ni revendre de nouvelles licences ou de nouveaux services tant que votre compte n’est pas de nouveau en règle.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Motifs de suspension d’un compte de l’Espace partenaires
 
