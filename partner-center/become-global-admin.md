@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Pour travailler dans l’Espace partenaires, vous devez d’abord vérifier la propriété de votre domaine. Découvrez comment procéder et comment devenir un administrateur général qui peut ajouter des utilisateurs.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 keywords: domaine, vérification de domaine, vérifier un domaine, administrateur général, rôles d’utilisateur, autorisations
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908261"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948232"
 ---
 # <a name="verify-your-domain-ownership"></a>Vérifier la propriété de votre domaine
 
@@ -36,7 +36,7 @@ Vous devez vérifier la propriété de votre domaine pour pouvoir acheter les av
 
 ## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Vérifier la propriété de votre domaine et devenir administrateur général dans l’Espace partenaires
 
-1. Dans la page **Offres pour les abonnés de l’Espace partenaires**, sélectionnez **Devenir un administrateur général**. 
+1. Dans la page des **offres pour les abonnés** du tableau de bord de l’Espace partenaires, sélectionnez **Devenir un administrateur général**. 
 
 2. Dans la page **Vérifier la propriété du domaine**, copiez les valeurs TXT de la table. Notez que votre domaine est déjà sélectionné pour vous.
 

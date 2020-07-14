@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: revendeurs indirects, revendeurs, fournisseurs indirects, fournisseurs, partenariat, revendeur informatique, niveau 2, de niveau 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362757"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879351"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -196,6 +196,24 @@ Pour obtenir les autorisations d’administrateur permettant de gérer les abonn
 4. Une fois que le client vous a autorisé, vous et votre fournisseur, à devenir ses revendeurs de référence, vous disposez des autorisations d’administrateur nécessaires pour gérer en son nom ses abonnements, ses licences et ses utilisateurs. En outre, votre fournisseur indirect peut envoyer des commandes pour le compte du client.
 
 5. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
+
+## <a name="remove-a-relationship-with-a-customer"></a>Supprimer une relation avec un client
+
+Pour supprimer la relation avec un client, effectuez les étapes suivantes :
+
+1.  Dans l’Espace partenaires, accédez à **Clients** et sélectionnez le client dont vous souhaitez supprimer la relation.
+
+2.  Sélectionnez le **Compte**.
+
+3.  Sélectionnez **Supprimer une relation client**.
+
+4.  Le client n’apparaît plus dans la liste des clients.
+
+>[!IMPORTANT]
+>Si vous avez établi une relation avec un client et que vous supprimez cette relation, tous les privilèges d’administrateur délégué accordés restent inchangés.
+>Vous reconnaissez que la décision de mettre fin à votre relation avec le client a été prise de bonne foi, à des fins commerciales légitimes et conformément à l’accord conclu avec votre client ou partenaire, et vous acceptez de défendre la société Microsoft et de la dégager de toute responsabilité dans l’éventualité d’une réclamation d’un tiers affirmant le contraire.
+>Vous devez fournir un avis légal de résiliation à votre client ou partenaire si votre accord l’exige. Cet outil ne génère pas d’avis pour le client ou le partenaire.
+
 
 ## <a name="next-steps"></a>Étapes suivantes
 
