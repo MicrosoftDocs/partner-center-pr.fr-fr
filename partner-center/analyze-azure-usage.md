@@ -4,18 +4,18 @@ ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment utiliser l’espace partenaires pour obtenir des données sur l’utilisation des abonnements Azure de vos clients.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: données métiers
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e545f8d49f6b852c050e84f2123cbf08d2b6757d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: dad5474c9ff2dd92372ca51f0a00d67012be9247
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947354"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302346"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenir des données sur les performances de vos clients et abonnements Azure
 

@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser la page Insights Business Profile pour voir à quel degré vous souhaitez attirer l’attention de vos clients cibles et générer des références.
-author: vikramb
+author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c648fbf98ff0af3f79d689cc2b22297bc1a5aa84
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a683d7a375ebb3bbb3ef481c3dbfb27cd86bcb86
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948564"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302226"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analyser votre profil d’entreprise : Découvrez comment attirer les clients cibles et les références potentielles
 <!-- 

@@ -5,17 +5,17 @@ ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment s’inscrire en tant que fournisseur du panneau de configuration (CPV) dans l’espace partenaires.
-author: kbangalore
-ms.author: kiranban
+author: parthpandyaMSFT
+ms.author: parthp
 keywords: Panneau de configuration fournisseur, inscrire les applications CPV, gérer les applications CPV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819c814333878efc882749a1597e993eb9002545
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 503bbb6d1c083337dc9bad9cc469c43d614eb5a3
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219607"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302366"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>S’inscrire en tant que fournisseur du panneau de configuration pour faciliter l’intégration des systèmes partenaires CSP avec les API de l’espace partenaires
 

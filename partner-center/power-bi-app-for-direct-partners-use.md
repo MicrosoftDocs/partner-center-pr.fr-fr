@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment afficher vos données d’entreprise à l’aide de l’application Partner Center Analytics pour Power BI (pour les partenaires directs dans CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 684ddb00a0497e01fc0fff318000c4b17dd0ea53
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 248527fdbc536c552f7b2d00f208838b4ef19085
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795862"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302285"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Afficher vos données d’entreprise avec l’application Partner Center Analytics pour Microsoft Power BI
 

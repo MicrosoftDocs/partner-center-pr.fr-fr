@@ -5,15 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchroniser vos références dans l’espace partenaires avec votre CRM Salesforce
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991618"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302376"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -28,7 +28,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
-|**Rubriques**   |**Détails**   |**Liens**   |
+|**Explique**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
 |Co-vente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -79,7 +79,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 - En cas de réussite, importez en tant que solution gérée dans l’instance de production.
 
-## <a name="configure-the-solution"></a>Configurer la solution
+## <a name="configure-the-solution"></a>Configuration de la solution
 
 1. Une fois que vous avez installé la solution dans votre instance CRM, revenez à [Power automate](https://flow.microsoft.com/).
 
@@ -234,8 +234,8 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
    |---------------------|:-------------------|:--------------|:----------------|
    |Audit| Audit__c|Longue zone de texte (100000) (ligne visible 4)||
    |Comment Microsoft peut-il vous aider ?|How_can_Microsoft_help_c|Liste déroulante|
-   |Produits|Products_c|texte (255)||
-   |Referral | Referral_Identfier_c|Texte (100) (ID externe)|oui|
+   |Products|Products_c|texte (255)||
+   |Referral | Referral_Identfier_c|Texte (100) (ID externe)|Oui|
    |Lien de référence| Referral_Link_c_|URL (255)||
    |Synchroniser avec l’espace partenaires|sync_with_partner_center_c|Case à cocher (désactivé par défaut)||
 
