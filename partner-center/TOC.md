@@ -252,6 +252,4 @@
 ## [Vue d’ensemble](partner-security-requirements.md)
 ## [Imposer MFA à votre locataire partenaire](partner-security-requirements-mandating-mfa.md) 
 ## [État de la configuration requise](partner-security-compliance.md)
-## [Implémenter les exigences de sécurité des partenaires](implement-security-requirements.md)
 ## [Forum Aux Questions](partner-security-requirements-faq.md)
-
