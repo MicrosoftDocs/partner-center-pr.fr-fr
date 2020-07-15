@@ -5,18 +5,18 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908031"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377602"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
 

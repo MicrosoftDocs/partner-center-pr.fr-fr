@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Permettez aux clients d’essayer les produits d’abonnement Microsoft pendant 30 jours. Inscrivez-vous à ces versions d’évaluation gratuites dans le catalogue, comme beaucoup d’autres services en ligne.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175994"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377773"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Offrez aux clients une version d’essai gratuite de 30 jours des produits Microsoft
 
@@ -117,6 +117,6 @@ Vous ne verrez pas les versions d’évaluation gratuites indiquées dans votre 
 
 Les versions d’évaluation gratuites n’ont pas d’impact sur les incentives.
 
-## <a name="support"></a>Support technique
+## <a name="support"></a>Support
 
 Pour obtenir une assistance sur les versions d’évaluation gratuites, envoyez une demande de service via l’espace partenaires.

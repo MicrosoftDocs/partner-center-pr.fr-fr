@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 description: Découvrez comment définir ou supprimer des budgets de dépenses Azure mensuels pour vos clients, ainsi que pour afficher les données de dépense Azure et définir des notifications relatives au budget.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abee84249d2e41dc34f9ae0f62ac7f1ad51b94d1
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: a52fa8d490ad43cc1e4f331b1a335004a07c83bd
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992152"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377733"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Définir, vérifier ou supprimer des budgets de dépenses Azure mensuels pour les clients dans l’espace partenaires
 

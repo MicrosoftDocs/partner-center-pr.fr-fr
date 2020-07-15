@@ -4,17 +4,17 @@ description: En tant que fournisseur ou distributeur indirect, Découvrez commen
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879385"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377213"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -118,7 +118,7 @@ Pour supprimer le partenariat avec un revendeur indirect existant, suivez les é
 >[!IMPORTANT]
 >Les clients associés au revendeur indirect ne seront pas supprimés. Les privilèges d’administrateur délégué accordés resteront inchangés.
 >Vous reconnaissez que la décision de mettre fin à votre relation avec le partenaire a été établie en toute bonne foi, à des fins professionnelles légitimes et conformément à votre contrat avec votre client ou partenaire, et que vous acceptez de défendre et de fidéliser Microsoft contre toute réclamation de tiers au contraire.
->Vous devez fournir une notification de résiliation légale à votre client ou partenaire si votre contrat l’exige. Cet outil ne génère pas d’avis pour le client ou le partenaire.
+>Vous devez fournir un avis légal de résiliation à votre client ou partenaire si votre accord l’exige. Cet outil ne génère pas d’avis pour le client ou le partenaire.
 
 3. Le revendeur indirect dont vous avez supprimé le partenariat ne figurera pas dans la liste.
 Selon le niveau d’accès et l’implication, vous souhaiterez peut-être communiquer avec le revendeur indirect, ainsi que pour le client final à propos de cette modification.

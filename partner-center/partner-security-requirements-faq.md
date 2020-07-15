@@ -5,17 +5,17 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Questions fréquentes sur les exigences de sécurité Partenaires : ce qu’elles sont, comment les partenaires doivent les implémenter et comment savoir si vous y répondez.'
-author: LauraBrenner
-ms.author: labrenne
+author: isaiahwilliams
+ms.author: iswillia
 keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: e58b17ccbde0cea2f6dfbf586b1e49c85da35a22
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679269"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265180"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 

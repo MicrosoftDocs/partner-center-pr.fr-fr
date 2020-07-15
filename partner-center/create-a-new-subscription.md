@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment vendre à vos clients des abonnements à des produits publiés par Microsoft, ainsi qu’à des produits SaaS publiés par des ISV tiers.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: abonnement, créer nouveau, ajouter un abonnement, suspendre, annuler, suspendre, suspendre, SaaS, licence, ISV, tiers
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991488"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377594"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -139,7 +139,7 @@ Pour annuler un abonnement SaaS basé sur une licence auprès d’un éditeur de
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Choisir de renouveler automatiquement un abonnement à la place marché commerciale
 
-Par défaut, les abonnements actifs sont configurés pour se renouveler automatiquement à l’expiration de la période d’abonnement. Pour les [abonnements aux produits de la place de marché commerciale](csp-commercial-marketplace-overview.md), vous pouvez éventuellement choisir de ne pas renouveler automatiquement l’abonnement.
+Par défaut, les abonnements actifs sont définis pour se renouveler automatiquement à l’expiration de la période d’abonnement. Pour les [abonnements aux produits de la place de marché commercial](csp-commercial-marketplace-overview.md), vous pouvez éventuellement choisir de ne pas renouveler automatiquement l’abonnement.
 
 Pour arrêter le renouvellement automatique d’un abonnement au marché commercial actif :
 

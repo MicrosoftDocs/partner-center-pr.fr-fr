@@ -5,17 +5,17 @@ ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment s’inscrire au programme des bons de formation Software Assurance pour vous permettre de compenser la formation et la planification aux entreprises.
-author: mowrim
+author: mowree
 ms.author: mowrim
 keywords: bons de formation, software assurance, formation, inscription à SATV, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: e4910ed3301e6399f9ce6ab26bfc69c7257e2bff
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a041631be7fe602ea16eebda557bb55aa9595173
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949553"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390236"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) de l’Espace partenaires
 

@@ -3,18 +3,18 @@ title: Vérifier votre profil de partenaire
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment vérifier les détails de votre entreprise comme le contact principal, l’adresse et les informations sur les programmes. Vous pouvez aussi mettre à jour votre adresse légale et votre adresse de facturation.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 06/05/2020
+ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991980"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286577"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Vérifier les informations de votre profil de partenaire dans l’Espace partenaires
 
@@ -37,7 +37,7 @@ Vous pouvez maintenant mettre à jour votre adresse légale sur l’Espace parte
 2. Sélectionnez **Mettre à jour** en regard de Adresse légale. ""
 
 >[!Important]
->Si vous êtes partenaire CSP, vous ne pouvez pas changer le pays associé à votre adresse légale. Votre adresse légale est liée à votre locataire et à vos services, ainsi qu’à la monnaie locale dans laquelle vous facturez vos activités. Si vous ne faites pas parti du programme CSP, vous pouvez changer le pays associé à votre adresse légale. Le nom de la société légale ne peut pas être mis à jour dans l’Espace partenaires si votre statut est « Autorisé ». Vous devez [créer un ticket de support](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Si vous êtes partenaire CSP, vous ne pouvez pas changer le pays associé à votre adresse légale. Votre adresse légale est liée à votre locataire et à vos services, ainsi qu’à la monnaie locale dans laquelle vous facturez vos activités. Si vous ne faites pas parti du programme CSP, vous pouvez changer le pays associé à votre adresse légale. Le nom de la société légale ne peut pas être mis à jour dans l’Espace partenaires si votre statut est « Autorisé ». Vous devez [créer un ticket de support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Quand vous sélectionnez **Envoyer**, votre identité légale est réévaluée et vous recevez un autre e-mail que vous devez accepter.
 

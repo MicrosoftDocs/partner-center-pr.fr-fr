@@ -1,34 +1,35 @@
 ---
-title: Afficher vos paiements et programmes d’incentives | Espace partenaires
+title: Afficher les détails de votre incentive et de votre programme
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Affichez, gérez ou exportez les données relatives à l’état actuel des programmes d’incentives, aux bénéfices et aux paiements, y compris les revenus des incentives par programme et par lieu.
-author: Kim-Davis
+description: Ces pages vous permettent d’afficher, de gérer et d’exporter les détails des paiements et des bénéfices, ainsi que l’état du programme et de finaliser l’historique des transactions.
+author: kim-davis
 ms.author: kimnich
 keywords: incentives, versements, paiements, programme d’incentives, emplacements, statut du programme
 ms.localizationpriority: medium
-ms.openlocfilehash: da504e4916c9a44c09bbd0cba8ad4af5bf0dd3b0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.custom: SEOJULY.20
+ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265151"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377293"
 ---
-# <a name="view-your-incentive-payments-and-programs"></a>Consulter vos paiements et programmes d’incentives
+# <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
 **S’applique à**
 
--  Espace partenaires
+- Espace partenaires
 
 **Rôles appropriés**
 
--  Administrateur d’incentives
--  Utilisateur de l’incentive 
--  Visionneuse en lecture seule incitative
--  Administrateur général
--  Administrateur de partenaire MPN
+- Administrateur d’incentives
+- Utilisateur de l’incentive
+- Visionneuse en lecture seule incitative
+- Administrateur général
+- Administrateur de partenaire MPN
 
 Utilisez ces pages pour afficher les détails de vos paiements et revenus passés, en suspens et à venir, l’état de vos programmes d’incentives dans chaque emplacement et l’historique complet de vos transactions. Vous pouvez également télécharger ou exporter des informations détaillées pour toute transaction. Toutes les pages incentives affichent des montants en dollars américains.
 
@@ -59,7 +60,7 @@ La section **vue d’ensemble de mes incentives** affiche l’état général de
 Cette page contient également des bénéfices et des paiements par emplacement ou programme, ainsi que toute autre action que vous devrez peut-être effectuer pour vous inscrire à un programme à un emplacement spécifique.
 
 Pour accéder à **mes incentives, vue d’ensemble**:
- 
+
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 2. Sélectionnez **incentives**, puis **vue d’ensemble** dans le menu.
 3. Affichez le résumé des bénéfices et des paiements en haut de la page, ainsi que des détails supplémentaires dans le tableau ci-dessous. Vous pouvez également trier, regrouper et développer la table qui l’accompagne :
@@ -86,7 +87,7 @@ Pour accéder à **mes incentives, vue d’ensemble**:
 | Validation de l’inscription  | Le partenaire a déjà effectué ou mis à jour des informations bancaires et fiscales pour une inscription nouvelle ou existante et attend que Microsoft valide ces informations. Pendant le processus de validation, la validation de l' **inscription** peut s’afficher pendant jusqu’à 48 heures.  |
 
 ## <a name="payments-page"></a>Page Paiements
-Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous pouvez filtrer par ID de participant, Programme, ID de paiement et Type de bénéfice. Les montants sont indiqués en dollars américains. La valeur payée est également affichée dans la devise d’arrivée. 
+Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous pouvez filtrer par ID de participant, Programme, ID de paiement et Type de bénéfice. Les montants sont indiqués en dollars américains. La valeur payée est également affichée dans la devise d’arrivée.
 
 |**Domaine**   |**Description**    |
 |------------------|:-------------------------------------|
@@ -96,24 +97,24 @@ Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous p
 |Paiements par source       |Montant des paiements, en dollars américains, représentés par le programme au cours des 12 derniers mois.                                      |
 |Paiements                       |Sélectionnez **payant** ou **en attente** , puis triez comme vous le souhaitez. Pour plus d’informations sur un paiement spécifique, sélectionnez **Afficher**. Pour télécharger une copie du relevé des envois de paiements, sélectionnez **Télécharger**. Notez que les données de l’historique des transactions peuvent prendre jusqu’à 24 heures pour apparaître. vous risquez donc de ne pas voir les bénéfices associés immédiatement.  |
 
-Pour exporter les données de cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données. 
+Pour exporter les données de cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données.
 
 ## <a name="transaction-history-page"></a>Page Historique des transactions
-Cette page affiche tous vos bénéfices individuels avec pour chacun la date, le type et le montant. Vous pouvez afficher ces informations pour une période déterminée, mais aussi filtrer par ID d’inscription, Programme, ID de paiement, Type de bénéfice, Levier et Statut. Les données sont disponibles pour l’exercice fiscal actuel (du 1er juillet au 30 juin) et dans les deux années fiscales précédentes. 
+Cette page affiche tous vos bénéfices individuels avec pour chacun la date, le type et le montant. Vous pouvez afficher ces informations pour une période déterminée, mais aussi filtrer par ID d’inscription, Programme, ID de paiement, Type de bénéfice, Levier et Statut. Les données sont disponibles pour l’exercice fiscal actuel (du 1er juillet au 30 juin) et dans les deux années fiscales précédentes.
 
-Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers le bas située dans la partie droite de la page. Cette opération affiche le levier, le chiffre d’affaires, le produit et le client. Si, pour une raison quelconque, ces données ne sont pas disponibles, mais que vous avez besoin d’y accéder, contactez le support technique. Si le résultat est le résultat d’un ajustement et non d’une transaction, les champs produit et client ne sont pas affichés. 
+Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers le bas située dans la partie droite de la page. Cette opération affiche le levier, le chiffre d’affaires, le produit et le client. Si, pour une raison quelconque, ces données ne sont pas disponibles, mais que vous avez besoin d’y accéder, contactez le support technique. Si le résultat est le résultat d’un ajustement et non d’une transaction, les champs produit et client ne sont pas affichés.
 
-Pour exporter les données de transaction sur cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données. Les fichiers exportés à partir de la page historique des transactions affichent les données dans la devise de la transaction, les bénéfices dans la devise de la transaction et le dollar des États-Unis, et la valeur payée dans paiement à la devise 
+Pour exporter les données de transaction sur cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données. Les fichiers exportés à partir de la page Historique des transactions affichent les données dans la devise de la transaction, les bénéfices dans la devise de la transaction et en dollars américains, et la valeur payée dans la devise d’arrivée.
 
 ## <a name="payment-status"></a>État du paiement
 
-|**État du bénéfice** |**Raison** |**Intervention nécessaire du partenaire ?**       |
+|**État du bénéfice** |**Motif** |**Intervention nécessaire du partenaire ?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Non traité        | Le revenu est éligible au paiement. Il reste dans cet état pendant une période de réflexion telle que définie dans le guide du programme d’incentives.       |Non        |
 |À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |Non       |
 |Facture fiscale en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé         |
 |Rejeté pendant la vérification        |Le paiement a été rejeté pendant la révision.          |Contactez le Support Microsoft pour obtenir des détails         |
-|Échec        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
+|Failed        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
 |En cours     |Le paiement est en cours.         |Non         |
 |Paiement incorrect        |Le remboursement est en cours.          |Non        |
 |Envoyé        |Le paiement a été envoyé à votre banque.          |Non       |
@@ -124,12 +125,13 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 |Rejeté        |Le paiement a été rejeté par votre banque.           |Contactez votre banque pour obtenir des détails.  |
 
 ## <a name="export-data-page"></a>Page Exporter les données
-Suivez les instructions de cette page pour exporter les données souhaitées. 
+Suivez les instructions de cette page pour exporter les données souhaitées.
 
 **Remarques :**
--   Vous verrez uniquement les données des ID et des programmes MPN auxquels vous êtes associé. Si vous souhaitez accéder à des données supplémentaires, contactez votre administrateur d’incentives. 
--   La page Exporter les données ne s’actualise pas automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes. 
--   Votre filtre peut déclencher l’erreur **Pas de données disponibles**. Cela signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez. 
+
+- Vous verrez uniquement les données des ID et des programmes MPN auxquels vous êtes associé. Si vous souhaitez accéder à des données supplémentaires, contactez votre administrateur d’incentives.
+- La page Exporter les données ne s’actualise pas automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes.
+- Votre filtre peut déclencher l’erreur **Pas de données disponibles**. Cela signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
 
 ## <a name="payment-download-export"></a>Exportation du téléchargement de paiement
 Cette option vous permet de télécharger les paiements que vous avez reçus à votre banque pour un programme donné, les taxes associées et le montant cumulé des bénéfices.
@@ -185,7 +187,6 @@ Cette option permet de télécharger chaque article de revenu que vous voyez dan
 |customerId   |Identificateur du client   |
 |customerName   |Nom de la transaction client   |
 
-
 Outre le tableau ci-dessus, ces champs de l’historique des transactions sont disponibles pour le programme.
 
 |**Nom de la colonne**   |**Description**   |
@@ -205,5 +206,3 @@ Outre le tableau ci-dessus, ces champs de l’historique des transactions sont d
 |agreementStartDate   |Date de début de l’accord   |
 |agreementEndDate   |Date de fin de l’accord   |
 |charge de travail   |Charge de travail   |
-  
-

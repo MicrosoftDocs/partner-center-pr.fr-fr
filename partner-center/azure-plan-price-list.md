@@ -5,18 +5,18 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme Fournisseur de solutions Microsoft Cloud peuvent utiliser l’Espace partenaires pour voir le tarif des abonnements relevant du plan Azure.
-author: dineshvu
-ms.author: dineshvu
+author: brentserbus
+ms.author: brserbus
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecfd86d41f550bc4f124b371d87c59e928dd4253
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9c9c19d9df9238e1a53d5196312d7d10515b121f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948409"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390336"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure
 

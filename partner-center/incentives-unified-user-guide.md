@@ -1,22 +1,23 @@
 ---
-title: Accédez à votre page paiements d’incentives | Espace partenaires
+title: Accédez à votre page versements
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: En savoir plus sur l’accès à vos informations de paiement. Cela s’applique aux paiements des applications et des jeux Windows, ainsi qu’aux paiements d’incentives MPN.
+description: En savoir plus sur l’accès aux informations de paiement pour vos applications et jeux Windows, les incentives MPN et les paiements de la place de marché commercial pour les éditeurs de logiciels indépendants.
 author: kim-davis
 ms.author: kimnich
 keywords: Incentives, paiement
 ms.localizationpriority: medium
-ms.openlocfilehash: 4da575605baab09c3b1f349b52760e89ae20d746
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949470"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377723"
 ---
-# <a name="access-your-incentives-payouts-page"></a>Accéder à la page de paiement de vos primes incitatives
+# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Accédez aux pages de versements pour les applications et les jeux Windows, les incentives MPN et les paiements de la place de marché commercial
 
 **Rôles appropriés**
 -   Administrateur général

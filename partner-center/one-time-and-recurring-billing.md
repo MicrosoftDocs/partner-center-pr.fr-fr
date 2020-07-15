@@ -3,17 +3,17 @@ title: Facturation-une seule fois & sélectionner les frais récurrents
 ms.topic: article
 ms.date: 05/26/2020
 Description: En savoir plus sur la facturation de l’espace partenaires, par exemple, une facturation unique à l’avance pour les conditions prédéfinies et la facturation des frais sélectionnés et des frais récurrents.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturation, ponctuelle, périodique, achats, frais, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749144"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390246"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Facturation pour une seule fois et sélection de frais récurrents dans l’espace partenaires
 

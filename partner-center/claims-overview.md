@@ -1,20 +1,21 @@
 ---
-title: Demandes d’incentives de co-op | Espace partenaires
+title: Demandes de coopération aux incentives
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment soumettre vos demandes d’incentives sans la configuration requise pour que votre plan d’activité soit révisé.
+description: Découvrez comment soumettre une demande de remboursement réussie pour vos incentives en organisant la documentation, les factures, les déclarations et les preuves d’exécution appropriées.
 author: kaushikgMSFT
 ms.author: kaushikg
 keywords: demandes d’incentives, demandes de cofinancement, fonds de co-op marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948089"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377633"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Incentive - Vue d’ensemble des revendications de coopération
 

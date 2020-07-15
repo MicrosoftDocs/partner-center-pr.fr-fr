@@ -5,18 +5,18 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment inscrire l’application Web Cloudyn et utiliser une clé secrète pour celle-ci dans l’espace partenaires afin de pouvoir utiliser l’application pour suivre l’utilisation et les coûts d’Azure du client.
-author: LauraBrenner
-ms.author: labrenne
+author: aparnagkrishnan
+ms.author: aparnag
 Keywords: Application Azure Cost Management, gérer les coûts, applications Web
 robots: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d88f37e0fe653c679df5729fa283336e4c7e144
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 521501f9a979c0993d299ab30443168408656a44
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908373"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390446"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>Suivre l’utilisation et les coûts d’Azure des clients avec l’application Azure Cost Management pour les partenaires CSP  
 
@@ -45,7 +45,7 @@ Cloudyn est une application Web qui vous permet de suivre et de gérer l’utili
 ## <a name="register-your-web-app-in-the-partner-center"></a>Inscrire votre application Web dans l’espace partenaires
 Lorsque vous inscrivez une application Web Azure Active Directory dans l’espace partenaires, vous activez l’accès à l’API espace partenaires. 
 1.  Connectez-vous à [l’espace partenaires](https://partnercenter.microsoft.com/pcv/dashboard/overview) à l’aide d’un [compte d’administrateur général ou d’agent d’administration](create-user-accounts-and-set-permissions.md).
-2.  Dans l' **espace partenaires**, sélectionnez **paramètres** &gt; du compte **[gestion des applications](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**.
+2.  Dans l' **espace partenaires**, sélectionnez **paramètres du compte** &gt; **[gestion des applications](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**.
 3.  Dans la section **application Web** , cliquez sur **Ajouter une nouvelle application Web**.
 <br> **Remarque**: Si vous avez déjà créé une application Web, vous pouvez ignorer l’étape 3.
 4.  Copiez et enregistrez le GUID de l' **ID de commerce** et le GUID de l' **ID d’application** pour votre application Web. Vous aurez besoin des deux ID pour utiliser la version d’évaluation gratuite de 30 jours de l’application Azure Cost Management.

@@ -5,17 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment associer votre ID de MCP à votre compte Espace partenaires afin que votre entreprise puisse voir les parcours d’apprentissage et de formation que vous avez suivis pour acquérir vos compétences.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 Keywords: rôles, autorisations, ajouter un utilisateur, attribuer un rôle, administrateur, agent, ID de MCP, Microsoft Learn
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb1b7f56ee831634f6cf05ace30c0900fba9397d
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 3c463e126501c6c70c84fb64f857171960f4941f
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991956"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219577"
 ---
 # <a name="associate-your-microsoft-learn-account-to-your-partner-center-account"></a>Associer votre compte Microsoft Learn à votre compte Espace Partenaires
 

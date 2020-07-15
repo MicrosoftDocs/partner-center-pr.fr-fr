@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: En tant que fournisseur de solutions Cloud, vous pouvez acheter, vendre ou gérer des réservations Azure pour les clients. Utilisez l’espace partenaires, le Portail Azure ou l’API espace partenaires.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Azure, réservations, gérer, facturation, achat, Azure RI, instances réservées Azure
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5393e757b209de5a7df22b35a0cee0703419bef4
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 93c6353922197270245b4b21f3bc210f26c7ec8f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198637"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377643"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendez des Microsoft Azure des réservations aux clients à l’aide de l’espace partenaires, des Portail Azure ou des API
 
@@ -54,7 +54,7 @@ Les réservations Azure peuvent être appelées par les clients des manières su
 
 |**Pour obtenir des informations sur**   |**Lisez cela**    |
 |:-----------------------------|:-----------------|
-| Documentation sur les réservations Azure pour vos clients | [Que sont les réservations Azure ?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| Documentation sur les réservations Azure pour vos clients | [Qu’est-ce qu’une réservation Azure ?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Achat de réservations Azure pour vos clients dans l’espace partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md)
 |Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)
 |Détermination de la taille de machine virtuelle correcte et vérification de l’utilisation de la machine virtuelle client   |[Dimensionnement des machines virtuelles pour l’utilisation maximale de la réservation Azure](azure-usage.md)   |

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les ressources pour développer votre activité partenaire Microsoft. Cela comprend l’obtention des prospects de vente (références) auprès de Microsoft.
 keywords: références, répondre à des références, prospect, prospects, profil commercial, profil d’entreprise, développer votre activité, opportunités commerciales, compétences, niveau d’adhésion argent, niveau d’adhésion or, offres d’essai, extension de marché, clouds nationaux
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2e783c9881ad314618b7851bd9f877b52727e286
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795810"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390506"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Développez votre activité partenaire Microsoft-Découvrez comment obtenir des opportunités & définir votre entreprise séparément
 

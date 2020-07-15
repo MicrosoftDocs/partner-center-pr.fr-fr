@@ -3,19 +3,19 @@ title: Avis du partenaire CSP-Microsoft 365 Voice
 description: Apprenez-en plus sur les services RTPC dans certains pays et sur des obligations réglementaires ou fiscales susceptibles de s’appliquer et d’influer sur l’ordre et la facturation des partenaires.
 ms.topic: article
 ms.date: 05/05/2020
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Office, O365, RTPC, services, taxes, exigences, facture, facturation
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907362"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377793"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Avis de partenaire Office 365 : Microsoft 365 Business Voice dans le programme CSP
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Conseil partenaire Office 365 : Microsoft 365 Business Voice dans le programme CSP
 
 **S’applique à**
 
@@ -38,7 +38,7 @@ Les factures CSP et les fichiers de conciliation CSP dans le États-Unis, Porto 
 
 En outre, les factures CSP affichent la note de bas de page suivante :
 
-* Le prix affiché est facturé pour les services de plan de conférence audio et d’appel.  Toutes les taxes transactionnelles applicables sont facturées exclusivement au montant indiqué, à l’exception des ventes effectuées au sein de la États-Unis.  Aux États-Unis, le prix affiché est taxes inclusives, car il inclut des frais pour le plan d’appel et les services de conférence audio, ainsi que des frais pour les taxes et les frais que nous sommes tenus de payer.  Les services de plan de conférence audio et d’appel sont servis par l’affilié Microsoft autorisé à les fournir.  Pour plus d’informations, consultez [licence en volume Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247) .
+* Le prix affiché est facturé pour les services de plan de conférence audio et d’appel.  Toutes les taxes transactionnelles applicables sont facturées exclusivement au montant indiqué, à l’exception des ventes effectuées au sein de la États-Unis.  Aux États-Unis, le prix affiché est taxes inclusives, car il inclut des frais pour le plan d’appel et les services de conférence audio, ainsi que des frais pour les taxes et les frais que nous sommes tenus de payer.  Les services de plan de conférence audio et d’appel sont servis par l’affilié Microsoft autorisé à les fournir.  Pour plus d’informations, consultez [Licences en volume Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247).
 
 ## <a name="reconciliation-file-example"></a>Exemple de fichier de réconciliation
 

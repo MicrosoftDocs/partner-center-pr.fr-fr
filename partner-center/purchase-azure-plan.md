@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dans le cadre du plan Azure, découvrez comment acheter un ou plusieurs abonnements Azure et des réservations Azure, configurer des ressources et consulter ou ajouter des abonnements.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909127"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377783"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acheter le plan Azure pour les clients et accéder aux services Azure les plus récents au tarif du paiement à l’utilisation
 

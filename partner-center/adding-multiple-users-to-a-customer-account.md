@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment ajouter simultanément plusieurs utilisateurs au compte d’un client. Téléchargez un fichier de données dans l’espace partenaires à l’aide du format de fichier de valeurs séparées par des virgules (. csv).
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 keywords: le chargement en bloc, l’ajout de plusieurs utilisateurs au compte d’un client, l’ajout d’utilisateurs du client, le téléchargement en bloc des utilisateurs du client, le compte client, les utilisateurs clients, les utilisateurs
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104120"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377273"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Ajouter plusieurs utilisateurs à un compte client-charger un fichier de données dans l’espace partenaires
 
@@ -45,7 +45,7 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 |:-------- |:------  |:----- |
 | Prénom  | Prénom de l’utilisateur (champ facultatif)  | limité à 50 caractères  |
 | Nom  | Nom de l’utilisateur (champ facultatif)  | limité à 50 caractères  |
-| Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | limité à 50 caractères                         |
+| Nom complet    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | limité à 50 caractères                         |
 | E-mail   | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
 | Mise à jour de l'état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*Conserver vide\*\*                        |
 

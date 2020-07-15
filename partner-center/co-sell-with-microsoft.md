@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des engagement, inviter Microsoft à collaborer ou afficher les engagement envoyés.
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: référence, demande d'informations, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948057"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390556"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-vendre avec Microsoft
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948057"
 En tant que partenaire Microsoft qualifié, vous avez la possibilité de vendre en collaboration avec Microsoft. Cette collaboration vous aide à prendre des solutions sur le marché, à conduire des revenus communs et à garantir la réussite des clients.
 
 > [!IMPORTANT]
-> Pour vendre en collaboration avec Microsoft, les partenaires ont besoin d’une solution prête à l’emploi, d’une équipe commerciale engagée et d’une stratégie de mise sur le marché puissante. Ils doivent également répondre à des critères supplémentaires spécifiques. Pour plus d’informations, consultez la section [devenir covente prête](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Pour co-vendre avec Microsoft, les partenaires ont besoin d’une solution prête à l’emploi, d’une équipe commerciale engagée et d’une stratégie robuste de mise sur le marché. Ils doivent également répondre à des critères supplémentaires spécifiques. Pour plus d’informations, consultez la section [devenir covente prête](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Inviter Microsoft à collaborer sur un engagement
 

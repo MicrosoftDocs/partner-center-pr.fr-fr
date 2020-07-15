@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Il est important d’en savoir plus sur les différents risques impliqués dans les transactions en ligne et les meilleures pratiques pour gérer et atténuer ces risques.
 keywords: fraude, utilisation abusive, utilisation acceptable, politique d’utilisation acceptable, non-paiement, client ne pas payer de facture, risque en ligne, vol de service, abus de service, suspendre un abonnement,
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8ca1461ed8b71ea2e6c82603672f4029599b4cc
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991900"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377803"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion des défauts de paiement, des fraudes ou des utilisations abusives dans l’Espace partenaires
 

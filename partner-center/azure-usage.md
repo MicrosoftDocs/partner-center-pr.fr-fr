@@ -5,17 +5,17 @@ ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment ajuster la taille d’une machine virtuelle aux besoins informatiques de vos clients lorsque vous achetez Microsoft Azure réservations pour eux.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Azure, réservations, machine virtuelle, gérer, utilisation, dimensionnement
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 00da6723fc8aa4a5b3f1e0f747cb63acc1a504a8
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175908"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377653"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement des machines virtuelles Microsoft Azure pour une utilisation maximale de la réservation
 

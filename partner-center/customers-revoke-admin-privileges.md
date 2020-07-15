@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenez les autorisations dont vous avez besoin pour gérer le service ou l’abonnement d’un client en son nom. Découvrez comment les autorisations sont accordées, révoquées et gérées.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: privilèges d’administrateur délégués, administrateur pour le compte de, supprimer des privilèges, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198597"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377433"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtenir les autorisations pour gérer le service ou l’abonnement d’un client
 
@@ -34,7 +34,7 @@ Pour gérer le service ou l’abonnement d’un client pour son compte, le clien
 
 1.  Sélectionnez **Clients**, puis **Demander une relation de revendeur**.
 
-2.  Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans votre application de messagerie par défaut, ou bien copier le message dans votre Presse-papiers et le coller dans un e-mail. 
+2.  Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon de message dans votre application de messagerie par défaut, ou vous pouvez copier le message dans le Presse-papiers et le coller dans un e-mail. 
 
     >[!IMPORTANT]
     >Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. 

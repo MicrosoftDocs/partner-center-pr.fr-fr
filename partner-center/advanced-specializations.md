@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Renforcez votre profil d’entreprise dans l’annuaire des partenaires. Découvrez comment obtenir des spécialisations avancées, ainsi que vos compétences Gold/Silver.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 keywords: compétences, adhésion silver, adhésion gold, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau, spécialisations avancées
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
-ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
+ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85911283"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390196"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Obtenez une spécialisation avancée pour présenter l’expertise et détacher les clients 
 
@@ -29,7 +29,7 @@ Pour bénéficier d’une spécialisation avancée, votre entreprise doit avoir 
 
 Si vous êtes intéressé par la spécialisation avancée appelée **modernisation des applications Web pour Microsoft Azure**, sélectionnez-la dans le menu de l’espace partenaires. Vous accédez à la page des conditions préalables.
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Conditions préalables":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Composants requis":::
 
 
 Tant que vous n’avez pas rempli toutes les conditions préalables, votre statut reste **non démarré.** Une fois que vous avez rempli les conditions préalables, le bouton **planifier l’audit** est activé. Vous devez effectuer un audit avec un auditeur tiers pour les spécialisations avancées Azure suivantes :
@@ -47,7 +47,7 @@ Une fois que vous avez rempli toutes les conditions requises, votre statut est *
 
 **Les réunions et les salles de réunion des équipes Microsoft**sont un exemple de spécialisation avancée nécessitant des références client. Outre la compétence Gold, les certifications et les exigences en matière de performances, vous devez fournir trois références client qui illustrent votre capacité à déployer et à gérer.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Conditions préalables":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Composants requis":::
 
 Tant que vous n’avez pas rempli toutes les conditions préalables, votre statut reste **non démarré.** Une fois que vous avez rempli toutes les conditions requises, votre statut est **actif**. L’état actif active automatiquement une balise sur votre **profil d’entreprise** qui est visible par tous les clients qui recherchent [un fournisseur de solutions](https://www.microsoft.com/solution-providers/home).
 

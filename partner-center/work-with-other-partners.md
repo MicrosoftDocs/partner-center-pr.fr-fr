@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les fournisseurs indirects collaborent avec des revendeurs indirects dans le programme fournisseur de solutions Cloud (CSP) et déterminez le rôle qui vous convient.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 1089c2eeb419bbc826a3df433d3ed6c25273a7cc
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603838"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377193"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Différentes façons de travailler avec d’autres partenaires dans l’espace partenaires
 
