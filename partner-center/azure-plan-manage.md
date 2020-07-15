@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires peuvent utiliser différentes options de contrôle d’accès basé sur les rôles (RBAC) pour bénéficier d’une gestion et d’un contrôle opérationnels sur les ressources Azure d’un client.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948432"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175945"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gérer les abonnements et les ressources dans le cadre du plan Azure
 
@@ -29,9 +29,9 @@ Quand vous opérez la transition d’un client vers le plan Azure, des droits d�
 
 - **Azure Lighthouse** : les privilèges AOBO ne permettent pas de créer des groupes distincts qui fonctionnent avec différents clients, ni d’activer des rôles distincts pour les groupes ou les utilisateurs. En utilisant Azure Lighthouse, vous pouvez affecter différents groupes à différents clients ou rôles. Sachant que les utilisateurs disposent du niveau d’accès approprié via la gestion de ressources déléguée Azure, vous pouvez réduire le nombre d’utilisateurs ayant le rôle d’agent d’administration (et donc disposer d’un accès AOBO complet). Cela contribue à améliorer la sécurité en limitant les accès inutiles aux ressources de vos clients. Cela permet aussi de gérer plusieurs clients selon les besoins avec une plus grande souplesse. Pour plus d’informations, consultez [Azure Lighthouse et le programme Fournisseur de solutions cloud](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Annuaire ou utilisateurs invités ou [principaux de services](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)**  : vous pouvez déléguer un accès précis aux abonnements CSP en ajoutant des utilisateurs dans l’annuaire du client ou en ajoutant des utilisateurs invités et en attribuant des rôles RBAC spécifiques. 
+-  **Annuaire ou utilisateurs invités ou [principaux de services](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)**  : vous pouvez déléguer un accès précis aux abonnements CSP en ajoutant des utilisateurs dans l’annuaire du client ou en ajoutant des utilisateurs invités et en attribuant des rôles RBAC spécifiques.
 
-À des fins de sécurité, Microsoft recommande d’attribuer aux utilisateurs des autorisations minimales pour effectuer leur travail. Consultez [Ressources Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure). 
+À des fins de sécurité, Microsoft recommande d’attribuer aux utilisateurs des autorisations minimales pour effectuer leur travail. Consultez [Ressources Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Lier votre ID partenaire (ID MPN) à vos informations d’identification pour gérer les ressources Azure du client
 
@@ -56,28 +56,27 @@ Vous avez besoin d’un accès administrateur pour gérer les services de votre 
 
 1. Créez une alerte.
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="alerte Azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="alerte Azure":::
 
 2. Sélectionnez le type d’action que vous souhaitez appliquer à l’alerte. Par exemple, si vous indiquez vouloir recevoir un e-mail, vous recevrez un message électronique pour vous informer de la suppression d’une attribution de rôle.
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="configurer l’alerte":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="configurer l’alerte":::
 
 ### <a name="aobo-removal"></a>Suppression des privilèges AOBO
 
 Les clients peuvent gérer l’accès à leur abonnement en accédant à **Contrôle d’accès** sur le portail Azure. Sous l’onglet **Attributions de rôles**, ils sélectionnent **Supprimer l’accès**. Dans ce cas, vous pouvez :
 
 - Demander à votre client si l’accès administrateur peut être rétabli.
+
 - Utiliser l’accès accordé via le [contrôle d’accès basé sur les rôles (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview).
+
 - Utiliser l’accès accordé via [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
 
 L’accès basé sur les rôles se distingue de l’accès administrateur. Les rôles délimitent précisément ce que vous pouvez faire et ne pas faire. L’accès administrateur est plus étendu.
 
 Pour connaître les rôles éligibles au crédit Partenaires, consultez [Rôles et autorisations nécessaires pour le crédit Partenaires](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
-
-
-
-**Pour plus d’informations**
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Révocation et rétablissement des privilèges d’administrateur pour les abonnements Azure CSP](revoke-reinstate-csp.md)
 
