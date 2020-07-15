@@ -1,22 +1,23 @@
 ---
-title: Conditions requises pour les demandes de coopération aux primes incitatives | Espace partenaires
+title: Conditions requises pour les demandes de coopération aux primes incitatives
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Découvrez les exigences liées à l’envoi d’une revendication d’incentives dans l’Espace partenaires pour un type spécifique d’activité au sein du programme de coopération aux incentives.
+description: Apprenez à générer la demande, à comprendre le développement du marché et à optimiser la préparation des partenaires pour les activités de votre programme d’incentives.
 author: kim-davis
 ms.author: kimnich
 keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération, conditions requises
 ms.localizationpriority: high
-ms.openlocfilehash: ec231bf62c302f48cbdb66994433277c96e3f862
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947861"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377613"
 ---
-# <a name="core-requirements-for-incentives-co-op-claims"></a>Conditions requises pour les demandes de coopération aux primes incitatives
+# <a name="incentives-co-op-claims-core-requirements"></a>Principales conditions requises pour les demandes de coopération aux incentives
 
 **S’applique à**
 

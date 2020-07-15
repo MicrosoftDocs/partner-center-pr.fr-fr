@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les principales différences entre les offres disponibles dans la nouvelle expérience de commerce Microsoft pour les partenaires participant au programme Fournisseur de solutions Cloud (CSP).
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 5160c494dbd6b64fd6f1c29ce7d3ffcf0d83730b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908737"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377623"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Comparer les différences entre les offres Azure du programme Fournisseur de solutions Microsoft Cloud
 
@@ -26,8 +26,11 @@ ms.locfileid: "84908737"
 - Agent du support technique
 - Agent commercial
 
-Le tableau suivant fournit une vue d’ensemble des principales différences entre les offres disponibles via le programme Fournisseur de solutions Cloud (CSP) qui font partie de la nouvelle expérience de commerce Microsoft.
+Cet article décrit les principales différences entre les offres Azure dans le programme de fournisseur de solutions cloud (CSP).
 
+## <a name="overview-of-key-differences-between-azure-offers"></a>Vue d’ensemble des principales différences entre les offres Azure
+
+Le tableau suivant fournit une vue d’ensemble des principales différences entre les offres du programme CSP qui font partie de la nouvelle expérience de commerce Microsoft.
 
 |**Offre**| **Plan Azure**|**Offres tierces de la Place de marché**|**Réservations Azure**|**Abonnements serveur vendus via le programme CSP**|**Offres basées sur les sièges**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
@@ -44,11 +47,10 @@ Le tableau suivant fournit une vue d’ensemble des principales différences ent
 
 *Microsoft fournit les API de tarifs au 4e trimestre pour fournir l’accès en temps réel par programmation aux prix des compteurs Azure.
 
-**Pour plus d’informations**
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Passer au plan Azure – Démarrer](azure-plan-get-started.md)
 
 - [Acheter le plan Azure](purchase-azure-plan.md)
 
 - [Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md)
-
