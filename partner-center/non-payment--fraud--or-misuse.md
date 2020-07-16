@@ -1,21 +1,20 @@
 ---
 title: Gestion des défauts de paiement, des fraudes ou des mauvaises utilisations
+description: Il est important d’en savoir plus sur les différents risques impliqués dans les transactions en ligne et les meilleures pratiques pour gérer et atténuer ces risques.
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Il est important d’en savoir plus sur les différents risques impliqués dans les transactions en ligne et les meilleures pratiques pour gérer et atténuer ces risques.
-keywords: fraude, utilisation abusive, utilisation acceptable, politique d’utilisation acceptable, non-paiement, client ne pas payer de facture, risque en ligne, vol de service, abus de service, suspendre un abonnement,
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377803"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405560"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion des défauts de paiement, des fraudes ou des utilisations abusives dans l’Espace partenaires
 
@@ -87,7 +86,7 @@ Les suggestions pour réduire les risques en ligne lors de l’intégration de n
 Les suggestions relatives à la gestion des comptes clients après achat sont les suivantes :
 
 - Implémentez un processus pour recevoir, examiner, agir et répondre rapidement aux notifications Microsoft.
-- Collaborez avec les clients pour comprendre leurs besoins en matière d’utilisation du Cloud, tout en définissant les seuils d’analyse appropriés. (Par exemple, vous pouvez [définir un budget de dépenses Azure mensuel](set-an-azure-spending-budget-for-your-customers.md) dans l’espace partenaires. Cela vous permet de surveiller l’utilisation des clients pendant le mois et de recevoir une notification lorsque les clients sont proches de leur budget.)
+- Collaborez avec les clients pour comprendre leurs besoins en matière d’utilisation du Cloud, tout en définissant les seuils d’analyse appropriés. (Par exemple, vous pouvez [définir un budget de dépenses Azure mensuel](set-an-azure-spending-budget-for-your-customers.md) dans l’espace partenaires. Cette compréhension vous permet de surveiller l’utilisation des clients pendant le mois et de recevoir une notification lorsque les clients sont proches de leur budget.)
 - Surveillez régulièrement les [journaux d’activité des clients](activity-logs.md) pour faciliter la détection des fraudes.
 - Effectuez une action rapide lorsque des activités suspectes sont détectées.
 - Évitez de fournir aux clients un accès administratif complet aux abonnements sans implémenter au préalable les contrôles d’atténuation des risques.
@@ -100,4 +99,4 @@ Les suggestions relatives à la gestion de la facturation cliente après achat s
 - N’acceptez pas les instruments de paiement à haut risque (tels que les cartes prépayées ou les cartes de valeur stockées).
 - Surveillez les paiements des clients et les comptes chrono. Appliquez de manière agressive des processus rappels standardisés pour des paiements tardifs ou un non-paiement.
 
-Pour plus d’informations sur les stratégies de réduction des risques en ligne, consultez le Guide de gestion des risques pour les [transactions en ligne.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+Pour plus d’informations sur les stratégies de réduction des risques en ligne, consultez le Guide de gestion des risques pour les [transactions en ligne.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

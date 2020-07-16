@@ -7,15 +7,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, certificats fiscaux
+keywords: crédit d’impôt à la source, crédits fiscaux, formulaire de crédit d’impôt allemand, certificats fiscaux, crédits
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949577"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405520"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande si vous payez une administration fiscale locale au lieu de Microsoft
 
@@ -23,7 +23,7 @@ S’applique à :
 
 - Espace partenaires
 
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 Dans certains pays, les partenaires CSP reçoivent des montants de facture incluant des taxes. Certains de ces partenaires paient leur administration fiscale locale au lieu de Microsoft. Si vous payez votre administration fiscale locale, vous devez soumettre une demande de retenue d’impôt, y compris votre certificat fiscal, pour effacer le montant imposé des factures précédentes. Ces montants effacés apparaissent sous forme de crédits dans les factures mensuelles suivantes. vous n’aurez donc plus à payer les taxes de Microsoft.
 
