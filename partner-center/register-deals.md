@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Lorsque vous inscrivez un contrat que vous avez remporté dans l’espace partenaires, Microsoft vous offre plus d’opportunités à l’avenir.
 author: rajap-ms
 ms.author: rajap
-keywords: enregistrement de transactions
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 7551d3d010bfb7a4bd96b425d0afbf16ab8ebb1d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302256"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434078"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Inscrivez les demandes que vous avez remportées dans l’espace partenaires pour pouvoir obtenir davantage d’opportunités ultérieurement
 

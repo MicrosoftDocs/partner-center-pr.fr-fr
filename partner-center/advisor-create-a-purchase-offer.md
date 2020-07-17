@@ -7,14 +7,13 @@ description: Découvrez comment un conseiller d’abonnement autorisé peut util
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-keywords: Advisor, Office 365, acheter
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11aa00692ac3686aedaf069e11960919d1c4380
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947453"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436268"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Conseillers : créer une offre d’achat
 

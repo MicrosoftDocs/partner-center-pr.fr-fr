@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les types d’avantages des partenaires Microsoft qui vous ont été accordés pour vous aider à développer votre activité, améliorer l’efficacité et améliorer les compétences de votre équipe.
-keywords: PCI, performances, mesures, avantages, analytique, rapport
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
-ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
+ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "86092353"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436708"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapport des avantages disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -32,7 +31,7 @@ En tant que partenaire Microsoft, vous pouvez accéder à un hôte d’avantages
 
 Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
 
-- Résumé
+- Récapitulatif
 - Services Cloud accordés
 - Produits logiciels
 - Abonnements Visual Studio
@@ -42,7 +41,7 @@ Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
  > [!NOTE]
  > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
-## <a name="summary"></a>Résumé
+## <a name="summary"></a>Récapitulatif
 
 La section Résumé présente les avantages offerts par les logiciels sous licence, les services Cloud (non-Azure), les abonnements Visual Studio, le support technique et certains services ou offres Go-to-Market.
 

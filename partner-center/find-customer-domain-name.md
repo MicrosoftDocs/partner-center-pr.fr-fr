@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment rechercher le nom de domaine et l’ID de répertoire de votre client lors de la soumission d’une revendication.
 author: dineshvu
 ms.author: dineshvu
-keywords: demandes d’incentives, revendications de co-op, fonds de co-op, OSA, ISV, Association du chiffre d’affaires, nom de domaine, ID de répertoire
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47f0e62c50197af9acda76c800b1304321b5e577
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: e777578763cdd76f8bd011542412b6840cbe9c7e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377403"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434711"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id-when-submitting-an-incentives-claim"></a>Rechercher le nom de domaine et l’ID de répertoire de votre client lors de l’envoi d’une revendication d’incentives
 
@@ -31,7 +30,7 @@ ms.locfileid: "86377403"
 - Administrateur général
 - Agent commercial
 
-1. Demandez à votre client d’ouvrir le [portail Microsoft Azure](https://portal.azure.com/#home) et sélectionnez **Azure Active Directory**.
+1. Demandez à votre client de se connecter au [portail Microsoft Azure](https://portal.azure.com/#home) et sélectionnez **Azure Active Directory**.
 
 2. Dans la section **vue d’ensemble** de votre client, le nom de domaine apparaît juste au-dessus du nom de la société.  
 

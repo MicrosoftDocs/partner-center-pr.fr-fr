@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des contrats, inviter Microsoft à collaborer ou afficher les demandes envoyées.
 author: sroy
 ms.author: sroy
-keywords: références, covente, vente
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949457"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434358"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gérez les opportunités de covente dans l’espace partenaires pour définir des contrats et mieux répondre aux besoins des clients
 
@@ -56,7 +55,7 @@ La section covente comporte trois onglets de niveau supérieur.
 ## <a name="creating-a-co-sell-opportunity"></a>Création d’une opportunité de covente 
 
 > [!IMPORTANT]
-> Pour vendre en collaboration avec Microsoft, les partenaires ont besoin d’une solution prête à l’emploi, d’une équipe commerciale engagée et d’une stratégie de mise sur le marché puissante. Ils doivent également répondre à des critères supplémentaires spécifiques. Pour plus d’informations, consultez la section [devenir covente prête](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Pour co-vendre avec Microsoft, les partenaires ont besoin d’une solution prête à l’emploi, d’une équipe commerciale engagée et d’une stratégie robuste de mise sur le marché. Ils doivent également répondre à des critères supplémentaires spécifiques. Pour plus d’informations, consultez la section [devenir covente prête](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 
 Vous pouvez créer deux types d’opportunités de covente. 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Explorez la facturation lorsque vous ajoutez de nouveaux abonnements, ajustez la quantité de licences ou annulez un abonnement. Découvrez les différences entre les abonnements basés sur l’utilisation et les licences.
 author: sodeb
 ms.author: sodeb
-Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947923"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435338"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Scénarios de facturation courants pour les partenaires du programme CSP travaillant dans l’espace partenaires
 

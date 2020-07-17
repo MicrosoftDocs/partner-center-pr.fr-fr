@@ -8,18 +8,17 @@ description: Découvrez comment un partenaire de programme CSP peut utiliser l�
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
-keywords: facture directe, transition, revendeur indirect
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949218"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436468"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
-**S’applique à :**
+**S’applique à :**
 
 - Partenaires fournisseurs de solutions cloud
 
@@ -28,13 +27,13 @@ ms.locfileid: "85949218"
 
 Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre locataire direct Bill existant.
 
-## <a name="get-started"></a>Prise en main
+## <a name="get-started"></a>Commencer
 
 1. Vérifiez que votre profil de partenaire dans l’espace partenaires et l’ID MPN sont à jour.
 
 2. Connectez-vous à l’espace partenaires en tant qu’administrateur général du locataire direct Bill que vous passez au revendeur indirect.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d’ensemble":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d'ensemble":::
 
 3. Passez en revue les détails de votre partenaire dans le formulaire d’inscription.
 
@@ -95,7 +94,7 @@ Pour créer une invitation de revendeur indirect :
 
 2. Sélectionnez **Inviter de nouveaux clients** pour inviter un client à établir une relation de revendeur simultanément avec vous et le fournisseur indirect. Le fournisseur doit avoir une relation de revendeur avec votre client, afin qu’il puisse envoyer des commandes au nom de votre client lorsque le client souhaite acheter de nouveaux abonnements ou ajouter de nouvelles licences à des abonnements existants.
 
-3. Dans la page suivante, passez en revue le brouillon de message électronique. Vous pouvez ouvrir le message brouillon dans un message électronique ou le copier dans le presse-papiers et le coller dans un message électronique.
+3. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le message brouillon dans un message électronique ou le copier dans le presse-papiers et le coller dans un message électronique.
 
 4. Modifiez le texte de l’e-mail pour indiquer ce dont vous avez besoin, mais veillez à inclure le lien, car il est personnalisé pour connecter le client directement à votre compte et au compte de votre fournisseur. Ensuite, sélectionnez **Terminé**.
 
@@ -195,7 +194,7 @@ Votre fournisseur indirect ne peut pas envoyer de commandes pour vos clients de 
 
     :::image type="content" source="images/direct/direct6.png" alt-text="Inviter de nouveaux clients":::
 
-3. Dans la page suivante, passez en revue le brouillon de message électronique. Vous pouvez ouvrir le message brouillon dans un message électronique ou le copier dans le presse-papiers et le coller dans un message électronique.
+3. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le message brouillon dans un message électronique ou le copier dans le presse-papiers et le coller dans un message électronique.
 
 4. Modifiez le texte de l’e-mail pour indiquer ce dont vous avez besoin, mais veillez à inclure le lien, car il est personnalisé pour connecter le client directement à votre compte et au compte de votre fournisseur. Ensuite, sélectionnez **Terminé**.
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires Microsoft qualifiés peuvent répondre aux références, gérer les références nouvelles, existantes et archivées, et obtenir plus de références à l’avenir.
 author: rajap-ms
 ms.author: rajap
-keywords: référence, demande d'informations, rechercher un partenaire
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302246"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436598"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>Répondre aux références et tirer des prospects potentiels
 
@@ -81,3 +80,7 @@ Voici quelques conseils pour vous aider à obtenir d'autres références suscept
 - **Choisissez soigneusement les transactions que vous acceptez**. Nous suivons les types de demandes que vous acceptez ou refusez, et utilisons ces informations pour vous aider à trouver des transactions similaires. Accepter les demandes qui ne sont pas adaptées n’améliore pas les résultats de votre recherche et peut avoir un impact sur la qualité des prospects que vous recevez.
 
 - **Indiquez les montants estimés des transactions (conclues ou perdues), leur date de clôture et leur état final**. Nous utiliserons ces informations pour continuer à vous fournir des références de qualité.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+-[Gérer les clients](manage-leads.md)

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment faire si vous ne pouvez pas vous connecter à l’espace partenaires-contient des informations sur la réinitialisation du mot de passe du compte professionnel ou du mot de passe du compte scolaire si vous l’avez oublié.
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: problèmes de connexion, mot de passe oublié, mot de passe
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 898fa832855744bf0c846b7d64391a92de5e5b4f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265049"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436508"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Si vous ne pouvez pas vous connecter à l’espace partenaires et si vous devez réinitialiser votre mot de passe
 
@@ -27,7 +26,7 @@ Une fois que le mot de passe de votre compte professionnel a été réinitialis�
 
 ## <a name="see-more"></a>En savoir plus
 
-- [Vérifier les informations de votre compte](verification-responses.md)
+- [Vérifier vos informations de compte](verification-responses.md)
 - [Réinitialiser mon mot de passe](reset-my-pasword.md)
 - [Réinitialiser un mot de passe d’utilisateur](reset-a-user-password.md)
 

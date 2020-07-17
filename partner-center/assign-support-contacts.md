@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment affecter un revendeur en tant que contact du support technique pour les clients qui ont des abonnements aux services Microsoft.
 author: BillLinzbach
 ms.author: BillLi
-keywords: agent d’aide, support, attribuer un contact de support technique, contact de support attitré
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 481f8cdf0f2b1834bca12c2523e43c76765bae4b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377673"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435948"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Attribuer un revendeur en tant que contact du support technique pour les clients
 

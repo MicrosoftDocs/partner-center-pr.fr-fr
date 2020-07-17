@@ -7,17 +7,16 @@ ms.subservice: partnercenter-csp
 description: Utilisez l’espace partenaires pour répondre aux références et gérer les prospects et les références nouveaux, existants et archivés. Découvrez également comment obtenir plus de références à l’avenir.
 author: sroy
 ms.author: sroy
-keywords: références, covente, vente
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949435"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434368"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gérer différents prospects, tels que des demandes client, des prospects qualifiés par le marketing et des prospects qualifiés par vente
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gérer différents prospects, comme les demandes des clients, des prospects qualifiés par le marketing et des prospects qualifiés par les commerciaux
 
 **S’applique à**
 

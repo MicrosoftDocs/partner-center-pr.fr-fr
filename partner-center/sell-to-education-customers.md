@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
-keywords: éducation, segments spéciaux
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25710920130fc78e220d000e552914c093f92706
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949232"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436578"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Comment vendre des offres à des clients de formation & comment créer un client de formation dans l’espace partenaires
 

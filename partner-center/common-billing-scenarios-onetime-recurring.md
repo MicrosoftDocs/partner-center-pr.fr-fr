@@ -5,15 +5,14 @@ ms.date: 05/05/2020
 description: Pour obtenir des exemples de facturation de l’espace partenaires pour une seule fois et sélectionner des achats périodiques, lorsque vous achetez des abonnements, ajoutez des abonnements, ajoutez ou supprimez des sièges.
 author: sodeb
 ms.author: sodeb
-Keywords: facturation, paiements, achat unique, achat périodique, abonnements, sièges
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2ae1c543943b97ec961b166ae6c08c56e76cd6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 06ecd9463f7b9bcb5d370de8f3cd011973cb3607
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947962"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435388"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Scénarios de facturation de l’espace partenaires pour une période unique et sélection des achats récurrents
 

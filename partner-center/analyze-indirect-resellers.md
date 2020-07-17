@@ -7,15 +7,14 @@ Description: Utilisez Analytics pour savoir comment fonctionnent vos revendeurs 
 author: amitravat
 ms.author: amrava
 ms.topic: article
-keywords: données métiers
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 07c245cf811768a53da522545bf776caf0b85f75
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175973"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436128"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Utiliser Analytics pour analyser les performances de vos revendeurs indirects
 

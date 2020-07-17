@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Découvrez comment gérer des réservations Azure pour un client, notamment comment annuler une réservation, échanger une réservation ou demander un remboursement.
 author: amitravat
 ms.author: amrava
-keywords: Azure, réservations, gérer, facturation, achat, annulation, échange, frais de résiliation précoce
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175898"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435758"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gérez, annulez, échangez ou remboursez Microsoft Azure réservations pour les clients
 
@@ -44,7 +43,7 @@ Pour gérer les réservations Azure de vos clients, vous devez sélectionner le 
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **Vue d'ensemble**   | Affichez les détails de la réservation d’un client, y compris la date d’expiration, l’étendue et les données d’utilisation. **Remarque** Sélectionnez **remboursement** pour créer une demande de support pour un remboursement au prorata. Sélectionnez **Exchange** pour créer une demande de support afin d’échanger la partie inutilisée de votre terme de réservation.  
-    | **Contrôle d’accès (IAM)**   | Gérez l’accès aux informations de réservation du client.|
+    | **Access Control (IAM)**   | Gérez l’accès aux informations de réservation du client.|
     | **Configuration**   | Modifiez l’étendue de la réservation et/ou l’abonnement Azure auquel la réservation est associée.    |
     | **Propriétés**   | Affichez les propriétés de la réservation et copiez dans le presse-papiers l’ID de réservation et l’ID de commande de réservation. **Remarque** La prise en charge peut vous demander l’ID de réservation et l’ID de commande de réservation lorsque vous demandez un support pour le compte d’un client.    |
     | **Nouvelle demande de support**    | Demandez de l’aide à partir de Support Microsoft.   |

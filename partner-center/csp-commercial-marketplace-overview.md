@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment vendre des abonnements clients à des offres SaaS (Software as a service) à partir d’éditeurs de logiciels indépendants (ISV) de la place de marché.
 author: rbars
 ms.author: rbars
-keywords: abonnements, Marketplace, tiers, ISV, SaaS, licence
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947725"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435068"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Vue d’ensemble de la place de marché commercial dans l’espace partenaires
 
@@ -38,7 +37,7 @@ En tant que partenaire dans le programme CSP, vous pouvez utiliser l’espace pa
 
 Si vous êtes un partenaire du programme CSP, il existe de nombreuses activités commerciales de la place de marché que vous pouvez exécuter en ce qui concerne les offres ISV. Consultez le tableau suivant pour en savoir plus sur chaque activité.
 
-|**Pour**  |**Lecture**   |
+|**Pour**  |**Lire**   |
 |:------------------------------------|:------------------|
 |Découvrez comment afficher ou rechercher les offres, les tarifs, les détails du produit ou les informations de contact du serveur de publication disponibles | [Découvrir les offres](csp-commercial-marketplace-discover.md) | 
 |En savoir plus sur l’achat et le déploiement d’une offre   | [Offres d’achat](csp-commercial-marketplace-purchase.md)   | 
@@ -56,7 +55,7 @@ En tant que partenaire dans le programme CSP, vous pouvez effectuer de nombreuse
 
 - Le [portail de gestion Microsoft Azure](https://portal.azure.com/)
 
-    Ou
+    ou
 
 - Système ou site Web d’un éditeur ISV tiers
 

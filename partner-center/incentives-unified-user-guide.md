@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: En savoir plus sur l’accès aux informations de paiement pour vos applications et jeux Windows, les incentives MPN et les paiements de la place de marché commercial pour les éditeurs de logiciels indépendants.
 author: kim-davis
 ms.author: kimnich
-keywords: Incentives, paiement
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: eae2220525e05c2da612896c77014f4225fe319f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377723"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434548"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Accédez aux pages de versements pour les applications et les jeux Windows, les incentives MPN et les paiements de la place de marché commercial
 

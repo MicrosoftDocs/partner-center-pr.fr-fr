@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: En savoir plus sur les différents types de facturation, les périodes de facturation et les dates de facturation que vous pouvez voir dans l’espace partenaires.
 author: sodeb
 ms.author: sodeb
-keywords: facturation, paiements, commandes, fichiers de rapprochement, fichier de rapp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e26e783cb552106e9fb7a85d1d549fc80cce4de4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948176"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435588"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Types de facturation dans l’espace partenaires : comprend la facturation basée sur une licence, l’utilisation et la facturation unique.
 

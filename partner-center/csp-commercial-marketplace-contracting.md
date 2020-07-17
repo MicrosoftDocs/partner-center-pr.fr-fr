@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: En savoir plus sur les conditions générales et les contrats relatifs aux abonnements à des produits ISV tiers achetés par des partenaires CSP dans la place de marché commerciale.
 author: rbars
 ms.author: rbars
-keywords: abonnements, Marketplace, tiers, ISV, programme partenaire CSP, contrats, vendre, acheter,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947789"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435148"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contrats pour les partenaires CSP qui exercent des activités dans la place de marché commerciale
 

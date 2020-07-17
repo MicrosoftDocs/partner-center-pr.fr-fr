@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment Microsoft s’attend à ce que les communications des clients se produisent entre les clients et les partenaires dans le programme du fournisseur de solutions Cloud.
 author: brentserbus
 ms.author: brserbus
-keywords: communication, communications avec les clients, communiquer avec Microsoft
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: d0b705f915959c1d6850452828323c2070b335f2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 9a36cbd8ceefda5e514ddf0e543daf78bc266285
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377463"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434868"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Instructions pour la réussite de la communication client avec Microsoft
 

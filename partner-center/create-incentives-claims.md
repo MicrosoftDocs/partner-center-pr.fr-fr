@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: Découvrez comment initier des demandes d’incentives à l’espace partenaires. Vous pouvez voir toutes les activités qui vont de la génération de votre revendication dans l’historique.
 author: kim-davis
 ms.author: kimnich
-keywords: demandes d’incentives, demandes de cofinancement, fonds de co-op marketing
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bce39b4bb26d465da2d7a36e299c1f09cc4b5adb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 18390bf51b2ef4be1233b04407c0ac2b62315063
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947843"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435228"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Créer et gérer une revendication d’incentive
 

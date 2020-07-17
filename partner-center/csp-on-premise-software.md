@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
-robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377602"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434938"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
 
@@ -55,16 +53,17 @@ Une fois que vous avez acheté votre logiciel, vous et vos clients devez le tél
 
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
+
 Utilisez la procédure suivante pour annuler un achat. Une fois l’annulation terminée, la clé du logiciel est révoquée. 
 
 >[!NOTE]
 >Vous devez être Agent d’administration pour pouvoir annuler un achat. 
 
 1.  Avant de commencer le processus, assurez-vous que vous disposez des éléments suivants : 
-    -   GUID de locataire ou nom de domaine du client
-    -   ID de commande ou ID d’abonnement
-    -   Motif du remboursement
-    -   Montant demandé
+    - GUID de locataire ou nom de domaine du client
+    - ID de commande ou ID d’abonnement
+    - Motif du remboursement
+    - Montant demandé
 
 2.  Sur la page de détails du client, sélectionnez **logiciel**. Vous verrez une liste de tous les logiciels que vous avez achetés. 
 

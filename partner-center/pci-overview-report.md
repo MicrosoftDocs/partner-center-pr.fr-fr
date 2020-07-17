@@ -5,23 +5,22 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez un aperçu de la façon dont vous effectuez les ventes et le déploiement, la croissance des clients et la croissance du chiffre d’affaires avec les licences, les abonnements et la consommation Azure.
-keywords: PCI, performances, succès des clients, mesures,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948826"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436698"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Vue d’ensemble des rapports de tableau de bord disponibles dans les Insights de l’espace partenaires
  
 Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des indicateurs de performance clés tels que les clients, les abonnements, les revenus de la consommation Azure, les licences, etc. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble. 
 
-- Résumé  
+- Récapitulatif  
 - Répartition géographique de vos clients, abonnements et licences  
 - Tendance à la croissance des clients 
 - Tendance de croissance des abonnements 

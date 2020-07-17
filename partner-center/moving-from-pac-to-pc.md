@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Lorsque vous passez du centre d’administration partenaire (PAC) à l’espace partenaires, Découvrez comment gérer l’appartenance à un programme CSP, les références client, les incentives et bien plus encore.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Centre d’administration des partenaires, administrateur Office 365, fonctionnalités du Centre d’administration des partenaires
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1493ed93b70e8c716c339f8e93b471f181acb6af
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0af8cb253554f67edd1b53f01f2a440ae27939f1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795741"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434338"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passage du Centre d’administration des partenaires à l’Espace partenaires
 

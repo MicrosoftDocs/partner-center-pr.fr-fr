@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez les différentes relations entre partenaires et les scénarios de transaction pris en charge pour les partenaires dans le programme CSP.
 author: dineshvu
 ms.author: dineshvu
-keywords: revendeur indirect, fournisseur indirect, facture directe, partenaire de facturation directe, programme fournisseur de solutions Cloud, programme CSP, partenaires CSP, transactions CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947636"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434898"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Découvrez comment les partenaires peuvent travailler avec d’autres partenaires dans le programme CSP
 

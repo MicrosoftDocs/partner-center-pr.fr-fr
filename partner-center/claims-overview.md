@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment soumettre une demande de remboursement réussie pour vos incentives en organisant la documentation, les factures, les déclarations et les preuves d’exécution appropriées.
 author: kaushikgMSFT
 ms.author: kaushikg
-keywords: demandes d’incentives, demandes de cofinancement, fonds de co-op marketing
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377633"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435418"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Incentive - Vue d’ensemble des revendications de coopération
 

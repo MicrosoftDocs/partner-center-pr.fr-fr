@@ -5,17 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez des moyens d’améliorer votre activité. Consultez les tendances de vos clients par zone géographique, par produit et par d’autres attributs.
-keywords: PCI, performances, succès des clients, mesures,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949367"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434458"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Rapports tableau de bord clients à partir de l’espace partenaires Insights
 
@@ -23,7 +22,7 @@ Le tableau de bord clients présente des données de vos clients qui ont acquis 
  
 Le tableau de bord clients contient les sections suivantes : 
 
-- Résumé  
+- Récapitulatif  
 - Répartition géographique de vos clients 
 - Tendances de l’ajout/de l’évolution des clients 
 - Distribution des clients par emplacement de partenaire, segment de clientèle, canal de vente, type d’attribution de partenaire 

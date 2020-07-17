@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez les opportunités de fournisseurs de solutions Cloud pour acquérir, approvisionner et gérer des réservations Azure et des abonnements de serveur pour les clients.
 author: rbars
 ms.author: rbars
-keywords: Azure, abonnements, machine virtuelle, réservation, instance réservée
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948262"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435708"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquérir, approvisionner & gérer des instances de machine virtuelle réservées Azure (RI) + abonnements serveur pour les clients
 
@@ -118,7 +117,7 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 - [Azure Databricks des réservations d’unités](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
 - Tarifs CSP : les listes de prix des **abonnements** Microsoft Azure et des **instances réservées** sont situées dans la page tarifs de l’espace partenaires [& offres](https://partner.microsoft.com/pcv/sales) .
 
-### <a name="training"></a>Entrainement
+### <a name="training"></a>Formation
 
 Inscrivez-vous pour consulter les [webinaires commerciaux](https://commercial-licensing.eventbuilder.com/FY2019_ALL) et les événements à la demande.
 
@@ -131,7 +130,7 @@ Les événements à la demande de disponibilité des licences incluent des rubri
 
 D’autres formations utiles incluent le [module de licence Azure sur l’Université partenaire](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>Opérations
 
 - [Guide des opérations du commerce moderne](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (mis à jour) : Guide complet couvrant la stratégie clé et les aspects opérationnels, tels que les contrats, le classement via l’espace partenaires, la facture, les détails des tarifs, les incentives, le fichier de rapprochement, les API/SDK, le bac à sable et les services partagés partenaires Azure.
 - [Matrice de disponibilité des pays et devise client pour les offres modernes](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

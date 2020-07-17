@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: En savoir plus sur les conditions d’éligibilité pour chaque engagement de service de planification Software assurance qu’une société souhaite offrir aux clients d’entreprise.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-Keywords: prédéploiement, planification, Software Assurance, engagement, exigences, éligibilité, offre
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 1ab8d3fd15fcd0d50e3bf6ff89865c4dd402e679
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390206"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436548"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Afficher les conditions d’éligibilité pour les approvisionnements des services de planification
 

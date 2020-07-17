@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Renforcez votre profil d’entreprise dans l’annuaire des partenaires. Découvrez comment obtenir des spécialisations avancées, ainsi que vos compétences Gold/Silver.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: compétences, adhésion silver, adhésion gold, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau, spécialisations avancées
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390196"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436348"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Obtenez une spécialisation avancée pour présenter l’expertise et détacher les clients 
 

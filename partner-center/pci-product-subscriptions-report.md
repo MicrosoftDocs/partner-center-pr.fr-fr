@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez ce que vous êtes en train de faire et où vous pouvez améliorer en ce qui concerne les abonnements Cloud que vous vendez ou gérez pour vos clients.
-keywords: PCI, performances, mesures, succès des clients, abonnements Cloud, analytique, rapport
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948807"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436668"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport sur les abonnements au produit disponible dans le tableau de bord Insights de l’espace partenaires
 
@@ -29,7 +28,7 @@ Le rapport abonnements aux produits présente des analyses sur les abonnements C
 
 Vous pouvez consulter les sections suivantes dans le rapport abonnements aux produits.
 
-- Résumé
+- Récapitulatif
 - Répartition géographique des abonnements
 - Tendance d’ajout/d’évolution des abonnements
 - Distribution des abonnements par emplacement de partenaire, canal de vente, SKU, type d’attachement de partenaire, segment

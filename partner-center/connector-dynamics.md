@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: Synchroniser vos références dans l’espace partenaires à l’aide de votre Dynamics 365 CRM
 author: sroy
 ms.author: sroy
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ec0a23afb9e98cc6604977a5a0489b1fc7c5e8a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948005"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435448"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -29,7 +28,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
-|**Rubriques**   |**Détails**   |**Liens**   |
+|**Explique**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
 |Covente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -72,7 +71,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 - Testez la solution sur une instance intermédiaire/CRM. 
 - En cas de réussite, importez en tant que solution gérée dans l’instance de production. 
 
-## <a name="configure-the-solution"></a>Configurer la solution
+## <a name="configure-the-solution"></a>Configuration de la solution
 
 1. Une fois que vous avez installé la solution dans votre instance CRM, revenez à [Power automate](https://flow.microsoft.com/).
 
@@ -224,7 +223,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
    2. Assurez-vous que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Occasion":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Opportunité":::
 
    3. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
 

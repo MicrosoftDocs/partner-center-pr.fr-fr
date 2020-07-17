@@ -6,16 +6,15 @@ description: Pour les partenaires du programme CSP, Découvrez les responsabilit
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
-keywords: taxe, exonération fiscale, TVA, revendeur, facturation
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ea6d654f6124c711ae1cc355f71e6ee956c8c65a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377373"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436418"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays pour les partenaires dans le programme CSP
 

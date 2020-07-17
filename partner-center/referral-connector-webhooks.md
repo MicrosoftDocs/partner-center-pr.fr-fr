@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Utilisez les API de webhook de l’espace partenaires pour savoir quand des modifications de ressources de références sont effectuées pour Dynamics 365 CRM ou Salesforce CRM.
 author: sroy
 ms.author: sroy
-keywords: références, API webhook, événements de modification de ressource
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed7cad26af447302cb0ccd1d8d359ce6b7bbe87f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2335c06d9c410d44ed5f444574d9bc8fb3e48fc0
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949347"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434018"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Utiliser les API webhook pour s’inscrire aux événements de changement de ressource pour Dynamics 365 CRM et Salesforce CRM
 
@@ -147,7 +146,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
    2. Assurez-vous que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Occasion":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Opportunité":::
 
    3. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
 

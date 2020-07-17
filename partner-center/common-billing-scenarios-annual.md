@@ -5,15 +5,14 @@ ms.date: 05/05/2020
 description: 'Facturation annuelle de l’espace partenaires : lorsque vous ajoutez de nouveaux abonnements, ajoutez des licences avant la date de facturation, modifiez le nombre de licences ou suspend/réactivez les abonnements.'
 author: sodeb
 ms.author: sodeb
-Keywords: facturation, paiements, commandes, utilisation, facturation basée sur la licence, date anniversaire, terme, annulation, renouvellement, formule prix, fichier de rapprochement, fichier de rapprochement
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab6eabf44e5d3811721993e20b78e3038c80e828
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 086a7d359e1b903684af4ecddac37eda584e55f8
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948046"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435458"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Scénarios courants de facturation annuelle dans l’espace partenaires
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez quand et où les clients peuvent effectuer un support autonome pour gérer leurs propres comptes et lorsqu’ils doivent contacter leur partenaire de fournisseur de solutions Cloud.
 author: brentserbus
 ms.author: brserbus
-keywords: prise en charge automatique du client, auto-support,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10100e6b268335ace2d2f5329619a7e99c8a24a1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2b52799639c99073ef82d1458362f74051b52990
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947629"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434838"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Prise en charge du client en libre-service par le biais du centre d’administration Microsoft Office 365 ou via le Portail Azure
 

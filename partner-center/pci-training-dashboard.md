@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Explorez le tableau de bord de formation de l’espace partenaires.
 author: sroy
 ms.author: sroy
-Keywords: Informations sur l’espace partenaires, rapports, télécharger des rapports
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2db166e61ad153c23ffa991d430f711f0f5ddd87
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4ca943d75869e793237989304888c6e6932ed824
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948669"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436648"
 ---
 # <a name="trainings-dashboard"></a>Tableau de bord formations
 
@@ -25,7 +24,7 @@ ms.locfileid: "85948669"
 
 Le tableau de bord formations fournit des Insights sur les certifications, les évaluations et les examens pris par l’entreprise Employees Company Employees. Le tableau de bord formations contient les sections suivantes :
 
-- Résumé
+- Récapitulatif
 - Formation au fractionnement des performances par certifications, évaluations, examens
 - Personnes par des informations d’identification telles que les certifications, les évaluations, les examens
 - Détails de l’activité

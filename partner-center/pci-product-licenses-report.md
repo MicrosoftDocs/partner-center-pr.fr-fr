@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consultez ce rapport sur les licences de produit et apprenez à améliorer avec les produits Cloud sous licence (ou basés sur les sièges) que vous vendez ou gérez pour vos clients.
-keywords: PCI, performances, mesures, succès des clients, abonnements Cloud, analytique, rapport
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948791"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436658"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
@@ -27,7 +26,7 @@ ms.locfileid: "85948791"
 
 Le rapport licences du produit présente l’analyse des licences pour les produits Cloud basés sur les sièges, tels que O365, Dynamics, M365, Power BI, etc. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
 
-- Résumé
+- Récapitulatif
 - Répartition géographique des licences
 - Ajouts de licence
 - Distribution de licences par emplacement de partenaire, canal de vente, SKU, type de rattachement de partenaire, segment

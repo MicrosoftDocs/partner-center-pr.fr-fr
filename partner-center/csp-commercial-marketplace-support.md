@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: En savoir plus sur la prise en charge des produits ou abonnements ISV tiers dans la place de marché commerciale du programme CSP.
 author: rbars
 ms.author: rbars
-keywords: abonnements, produits, Marketplace, tiers, ISV, éditeur, support, CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c6fccc14cd01d8131933e3e957a7a3f64801866
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 86ae657725717fea06a6fdb18cadc069e9140ffa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947679"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435038"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Prise en charge des produits de la place de marché commercial dans le programme CSP
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: Ces pages vous permettent d’afficher, de gérer et d’exporter les détails des paiements et des bénéfices, ainsi que l’état du programme et de finaliser l’historique des transactions.
 author: kim-davis
 ms.author: kimnich
-keywords: incentives, versements, paiements, programme d’incentives, emplacements, statut du programme
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377293"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436488"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -108,13 +107,13 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 
 ## <a name="payment-status"></a>État du paiement
 
-|**État du bénéfice** |**Motif** |**Intervention nécessaire du partenaire ?**       |
+|**État du bénéfice** |**Donc** |**Intervention nécessaire du partenaire ?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Non traité        | Le revenu est éligible au paiement. Il reste dans cet état pendant une période de réflexion telle que définie dans le guide du programme d’incentives.       |Non        |
 |À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |Non       |
 |Facture fiscale en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé         |
 |Rejeté pendant la vérification        |Le paiement a été rejeté pendant la révision.          |Contactez le Support Microsoft pour obtenir des détails         |
-|Failed        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
+|Échec        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
 |En cours     |Le paiement est en cours.         |Non         |
 |Paiement incorrect        |Le remboursement est en cours.          |Non        |
 |Envoyé        |Le paiement a été envoyé à votre banque.          |Non       |
