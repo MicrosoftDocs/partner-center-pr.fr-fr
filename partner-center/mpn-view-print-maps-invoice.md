@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Apprenez à afficher ou à télécharger votre facture d’abonnement MPN, à effectuer un fichier pour l’exemption de taxe et à envoyer votre numéro d’identification de T.V.A. à Microsoft.
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, facture, cartes, exonération fiscale, TVA, ID TVA
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: d4e0665a86a47790fea7c829505475e54e4b3d38
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633809"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436758"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Factures et taxes dans le Microsoft Partner Network
 

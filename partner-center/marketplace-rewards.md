@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Les partenaires qui publient des offres sur la place de marché commerciale peuvent bénéficier d’avantages qui proposent un support marketing.
 author: laurabrenner
 ms.author: labrenne
-Keywords: offres de la place de marché, support marketing, récompenses, avantages du serveur de publication
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909007"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436838"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gérer les récompenses de la place de marché dans l’espace partenaires & activer le marketing, les ventes et les avantages techniques
 
