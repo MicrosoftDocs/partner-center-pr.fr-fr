@@ -7,25 +7,24 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment Microsoft s’attend à ce que les communications des clients se produisent entre les clients et les partenaires dans le programme du fournisseur de solutions Cloud.
 author: brentserbus
 ms.author: brserbus
-keywords: communication, communications avec les clients, communiquer avec Microsoft
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: d0b705f915959c1d6850452828323c2070b335f2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 9a36cbd8ceefda5e514ddf0e543daf78bc266285
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377463"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434868"
 ---
-# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a><span data-ttu-id="6a1a6-104">Instructions pour la réussite de la communication client avec Microsoft</span><span class="sxs-lookup"><span data-stu-id="6a1a6-104">Guidelines for successful customer communication with Microsoft</span></span>
+# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a><span data-ttu-id="e898f-103">Instructions pour la réussite de la communication client avec Microsoft</span><span class="sxs-lookup"><span data-stu-id="e898f-103">Guidelines for successful customer communication with Microsoft</span></span>
 
-<span data-ttu-id="6a1a6-105">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="6a1a6-105">**Applies to**</span></span>
+<span data-ttu-id="e898f-104">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="e898f-104">**Applies to**</span></span>
 
--  <span data-ttu-id="6a1a6-106">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="6a1a6-106">Partner Center</span></span>
--  <span data-ttu-id="6a1a6-107">Espace partenaires de Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="6a1a6-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="e898f-105">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="e898f-105">Partner Center</span></span>
+-  <span data-ttu-id="e898f-106">Espace partenaires de Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="e898f-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="6a1a6-108">En général, toutes les communications avec le client doivent émaner du partenaire Fournisseur de solutions&nbsp;Cloud.</span><span class="sxs-lookup"><span data-stu-id="6a1a6-108">In general, we expect all communications with the customer to come from the Cloud Solution Provider partner.</span></span> <span data-ttu-id="6a1a6-109">Étant donné que vous possédez la relation de facturation avec le client, Microsoft n’envoie pas directement à vos clients de communications liées à leurs abonnements.</span><span class="sxs-lookup"><span data-stu-id="6a1a6-109">Because you own the customer billing relationship, Microsoft will not send communications directly to your customers related to their subscriptions.</span></span>
+<span data-ttu-id="e898f-107">En général, toutes les communications avec le client doivent émaner du partenaire Fournisseur de solutions&nbsp;Cloud.</span><span class="sxs-lookup"><span data-stu-id="e898f-107">In general, we expect all communications with the customer to come from the Cloud Solution Provider partner.</span></span> <span data-ttu-id="e898f-108">Étant donné que vous possédez la relation de facturation avec le client, Microsoft n’envoie pas directement à vos clients de communications liées à leurs abonnements.</span><span class="sxs-lookup"><span data-stu-id="e898f-108">Because you own the customer billing relationship, Microsoft will not send communications directly to your customers related to their subscriptions.</span></span>
 
-<span data-ttu-id="6a1a6-110">Microsoft peut communiquer directement avec les clients sur les incidents de service ou concernant d’autres informations opérationnelles.</span><span class="sxs-lookup"><span data-stu-id="6a1a6-110">Microsoft may communicate directly with customers about service incidents or other operational information.</span></span>
+<span data-ttu-id="e898f-109">Microsoft peut communiquer directement avec les clients sur les incidents de service ou concernant d’autres informations opérationnelles.</span><span class="sxs-lookup"><span data-stu-id="e898f-109">Microsoft may communicate directly with customers about service incidents or other operational information.</span></span>
 
-<span data-ttu-id="6a1a6-111">Pour les clients qui disposent de relations commerciales existantes avec Microsoft, Microsoft continuera de communiquer directement avec eux concernant les services et produits autres que ceux relevant du programme Fournisseur de solutions Cloud.</span><span class="sxs-lookup"><span data-stu-id="6a1a6-111">For customers that already have existing commercial relationships with Microsoft, Microsoft will continue to communicate directly with them about their non-CSP products and services.</span></span>
+<span data-ttu-id="e898f-110">Pour les clients qui disposent de relations commerciales existantes avec Microsoft, Microsoft continuera de communiquer directement avec eux concernant les services et produits autres que ceux relevant du programme Fournisseur de solutions Cloud.</span><span class="sxs-lookup"><span data-stu-id="e898f-110">For customers that already have existing commercial relationships with Microsoft, Microsoft will continue to communicate directly with them about their non-CSP products and services.</span></span>
