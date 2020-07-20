@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405550"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436068"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de juillet 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Ajout de nouvelles fonctionnalités aux rapports d’insights dans l’Espace partenaires ](2020-july.md#6)|16 juillet|
 |Offres/marchés|[Logiciels perpétuels dans le programme Fournisseur de solutions cloud](2020-july.md#5)|15 juillet|
 | Offres/marchés | [Nouvelles références SKU Téléphonie Microsoft 365 Entreprise pour Teams](2020-july.md#4) | 3 juillet |
 | Offres/marchés | [Offres et produits Microsoft Dynamics 365 et Power Platform nouveaux et en fin de vie](2020-july.md#3) | 1er juillet |
