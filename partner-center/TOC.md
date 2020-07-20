@@ -42,6 +42,7 @@
 ## [Fonctionnalités de facturation directe limitées](restricted-direct-bill-capabilities.md)
 ## [Passer de partenaire de facturation direct CSP à revendeur indirect CSP](transition-direct-to-indirect.md)
 ## [Contrats, listes de prix et offres CSP](csp-documents-and-learning-resources.md)
+## [Azure Cost Management par Cloudyn pour les CSP](azure-cost-management-app-for-csp-partners.md)
 ## [Marchés et monnaies régionaux des fournisseurs de solutions cloud](regional-authorization-overview.md)
 ## [Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP](csp-regional-authorization-tenant-consolidation.md)
 ## [Vue d’ensemble – La nouvelle façon de confirmer l’acceptation du Contrat client Microsoft par les clients](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [Types de facturation dans l’Espace partenaires](billing-different-types.md)
 ## [Comprendre votre facture](read-your-bill.md)
 ## [Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)
+## [Types de frais de fichier de rapprochement](recon-file-charge-types.md)
 ## [Lire les fichiers de rapprochement basé sur l’utilisation quotidienne estimée dans l’Espace partenaires](daily-rated-usage-recon-files.md)
 ## [Fichiers de rapprochement basé sur la licence](license-based-recon-files.md)
 ## [Exemples de facturation courants](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [Migrer Skype Entreprise Online (Plan 1) vers des versions plus récentes d’Office 365](skype-retiring.md)
 ### [Transférer des abonnements Azure](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Migrer les abonnements Kaizala Pro vers Microsoft 365](migrate-kaizala-pro-partner.md)
-
+## Conseillers vendant Office 365
+### [Créer une invitation pour un essai gratuit d’Office 365](advisors-create-a-trial-invitation.md)
+### [Ajouter des clients avec des offres d’essai Office 365](advisors-build-your-business.md)
+### [Créer une offre d’achat d’Office 365](advisor-create-a-purchase-offer.md)
 # Données et analytique de l’Espace partenaires
 ## [Obtenir l’accès aux données et à l’analytique des utilisateurs](data-analysis-lp.md)
 ## [Utiliser l’application d’analytique de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners.md)
