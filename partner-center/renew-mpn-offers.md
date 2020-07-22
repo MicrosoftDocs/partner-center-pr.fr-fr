@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Renouvelez les offres MPN (Microsoft Partner Network) pour Microsoft Action Pack et les compétences. La fenêtre de renouvellement commence à l’anniversaire de la date d’achat plus un jour.
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, Microsoft Action Pack, MAPS, renouvellement de compétence, date de renouvellement
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c980c7820efcb5eba5de88356587c27719d0ce14
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ab672c37c5bc707742bd7a28a54343b5a1b01aa9
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467399"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434208"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renouveler vos offres MPN pour Microsoft Action Pack et les compétences au cours de la fenêtre de renouvellement
 

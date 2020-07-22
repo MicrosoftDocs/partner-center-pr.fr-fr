@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Consultez les rubriques traitant de la facturation et des taxes dans l’Espace partenaires. Ces rubriques portent sur les ressources de facturation, les factures, la facturation Fournisseur de solutions Cloud et les taxes.
 author: sodeb
 ms.author: sodeb
-keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30415c0580a6a3a5a656f5fd66a5b53aa5c5b7b3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948153"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435578"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Vue d'ensemble : Principaux articles sur la facturation et les taxes dans l’Espace partenaires
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment obtenir des prospects auprès de Microsoft. Une des clés consiste à créer dans l’Espace partenaires un profil professionnel qui permet aux clients de vous trouver plus facilement.
 author: rajap-ms
 ms.author: rajap
-keywords: pinpoint, références, prospects, C2PC, profil d’entreprise, promouvoir votre entreprise, trouver un partenaire, trouver un fournisseur de solutions, profil métier, profil commercial
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e45e3c00bc7dc3657af013bb7edf4cdffac64c9
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302386"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435268"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

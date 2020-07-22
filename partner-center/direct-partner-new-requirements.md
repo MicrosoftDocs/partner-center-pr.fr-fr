@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Découvrez comment répondre aux exigences les plus récentes en matière de support et de services pour devenir partenaire à facturation directe dans le programme Fournisseur de solutions Cloud (CSP) de Microsoft.
 author: LauraBrenner
 ms.author: labrenne
-keywords: CSP, partenaire direct, facturation directe, conditions
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a6971ff62a8a23d71701bcb1f86ee54783081fb0
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 79775a45f904970c6d533874360a67cf9ce96852
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362647"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434698"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Exigences pour s’inscrire en tant que partenaire à facturation directe du programme Fournisseur de solutions Cloud (CSP)
 

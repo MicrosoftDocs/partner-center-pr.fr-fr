@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment atteindre l’élite des partenaires Microsoft et attirer de nouveaux clients en répondant aux conditions des compétences pour acquérir les niveaux d’adhésion Gold et Silver.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: compétences, adhésion silver, adhésion gold, mpn, MAPS, aptitude, Microsoft Partner Network, adhésion au réseau, spécialisations avancées
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74ae0076f3e77e29cccd63d0206267020f462db9
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: d8c5bc3b22096d28ba546e2d9493aeaa110a571c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390636"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434428"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informations sur les compétences de niveau Silver et Gold et les spécialisations avancées Microsoft
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Dans l’Espace partenaires, découvrez comment ajouter un nouveau site et comment l’ID MPN de site est utilisé dans les programmes d’incentives, l’activité de CSP, les abonnements et autres transactions.
 author: vinayks
 ms.author: vinayks
-keywords: compte partenaire, sites
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 111acf67a57b8c8be1ef8c6bd4017c8d37770dde
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949665"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436868"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Gérer les sites de votre compte partenaire dans l’Espace partenaires et ajouter un nouveau site
 

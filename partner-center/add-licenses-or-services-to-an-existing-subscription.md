@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment mettre à niveau ou modifier l’abonnement d’un client. Ajoutez des licences et des sièges supplémentaires ou passez à une autre version avec plus de services.
 author: BillLinzbach
 ms.author: BillLi
-keywords: ajouter des licences à un abonnement existant, ajouter des sièges à un abonnement existant, modifier un abonnement, changer d’abonnement, acheter des licences supplémentaires pour un client
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377303"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436358"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Ajouter des licences, des sièges ou des services supplémentaires à l’abonnement d’un client
 
