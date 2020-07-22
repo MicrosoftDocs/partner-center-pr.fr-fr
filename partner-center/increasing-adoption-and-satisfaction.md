@@ -1,7 +1,7 @@
 ---
 title: Augmenter l’adoption et la satisfaction client
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser les métriques dans l’espace partenaires. Les mesures peuvent indiquer si votre entreprise augmente, comment les clients utilisent leurs licences et où concentrer leurs investissements.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377263"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875285"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Utiliser des métriques dans l’espace partenaires pour augmenter l’adoption et la satisfaction
 
@@ -35,7 +35,7 @@ Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer l
 Vous pouvez afficher les données de l’ensemble de vos clients via le programme Fournisseur de solutions Cloud. Certains clients peuvent acheter des licences auprès d’autres partenaires ou directement auprès de Microsoft. Dans ce cas, vous verrez les licences totales sur tous les partenaires. Pour afficher uniquement vos propres licences, accédez aux abonnements du client.
 
 > [!NOTE]  
->  Actuellement, nous affichons uniquement les données pour Office 365 et Dynamics 365. Nous allons activer des données pour d’autres produits à l’avenir.
+> Actuellement, nous affichons uniquement les données pour Office 365 et Dynamics 365. Nous allons activer des données pour d’autres produits à l’avenir.
 
 ## <a name="find-license-and-user-data"></a>Rechercher des données utilisateur et de licence
 
@@ -81,23 +81,21 @@ Terminologie :
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-Si vous avez un grand nombre de questions d’aide et de procédures, que les numéros d’adoption de votre compte sont faibles ou que vous recherchez des opportunités de vente incitative, vous pouvez envisager de proposer des cours de formation. En apprenant à vos clients comment mieux utiliser les logiciels de la solution Cloud qu’ils ont achetés, vous risquez de voir une augmentation de la productivité et de la satisfaction, et une baisse des besoins en matière de support.
+Si vous avez de nombreuses questions d’aide et de procédures, que les numéros d’adoption de votre compte sont faibles ou que vous recherchez des opportunités de vente, vous pouvez envisager de proposer des cours de formation. En apprenant à vos clients comment mieux utiliser les logiciels de la solution Cloud qu’ils ont achetés, vous risquez de voir une augmentation de la productivité et de la satisfaction, et une baisse des besoins en matière de support.
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Problème :</strong> Le taux d’adoption par l’utilisateur est faible, et de nombreuses licences ne sont pas utilisées&#39;t.</p>
-<p><strong>Éléments à prendre en compte :</strong> Les clients peuvent ne pas comprendre la valeur fournie par le logiciel. Ils ont besoin d’aide pour la mise en place de la manière dont ils peuvent l’intégrer à leur jour pour simplifier les tâches qu’ils font déjà, ou pour activer de nouveaux types de productivité.</p>
-<p><strong>À essayer :</strong> Études de cas, témoignages d’utilisateurs concernant des scénarios spécifiques, des blogs de didacticiel ou des vidéos.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Problème :</strong> Il existe un grand nombre d’appels au support technique pour obtenir de l’aide et des questions de procédure.</p>
-<p><strong>Éléments à prendre en compte :</strong> Les clients peuvent être nouveaux sur le logiciel, sur la version du produit ou sur leur tâche.</p>
-<p><strong>À essayer :</strong> Vous pouvez utiliser une stratégie double pour offrir une formation (en personne ou en ligne) pour augmenter l’expertise générale du client&#39;s, tout en promouvant certaines des options en libre-service disponibles pour les clients.</p>
-<p>Vous pouvez également repenser votre site de support pour inclure les options de libre-service décrites dans la rubrique <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Support autonome du client</a>, en plus des informations de contact du support.</p></td>
-</tr>
-</tbody>
-</table>
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Prise en compte de l’amélioration de l’adoption et de l’utilisation des clients-quelques scénarios
+
+**Problème**: le taux d’adoption par l’utilisateur est faible et de nombreuses licences ne sont pas utilisées.
+
+**Éléments à prendre en compte**: les clients peuvent ne pas comprendre la valeur fournie par le logiciel. Ils ont besoin d’aide pour la mise en place de la manière dont ils peuvent l’intégrer à leur jour pour simplifier les tâches qu’ils font déjà, ou pour activer de nouveaux types de productivité.
+
+**À essayer**: études de cas, témoignages d’utilisateurs sur des scénarios spécifiques, blogs de didacticiels ou vidéos.
+
+**Problème**: il existe un grand nombre d’appels au support technique pour obtenir de l’aide et des questions de procédure.
+
+**Éléments à prendre en compte**: les clients peuvent être nouveaux dans le logiciel, dans la version du produit ou dans leur tâche.
+
+**À essayer**: vous pouvez utiliser une stratégie double pour offrir une formation (en personne ou en ligne) pour augmenter l’expertise globale des clients, tout en promouvant certaines des options en libre-service disponibles pour les clients.
+
+Vous souhaiterez peut-être reconcevoir votre site de support pour inclure également les options en libre-service décrites dans [support automatique client](customer-self-support.md) , en plus des informations de contact du support technique.
+

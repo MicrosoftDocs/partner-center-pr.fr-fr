@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Prenez connaissance des différences entre PMC et l’Espace partenaires en termes de renouvellements, de structure des comptes, de connexion, de rôles d’utilisateur, de compétences et plus encore.
 author: parthpandyaMSFT
 ms.author: parthp
-keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac79b85d4278f6340d6997fc94151bc0cb404c3e
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390626"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436808"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Transfert de Partner Membership Center (PMC) à l’Espace partenaires
 

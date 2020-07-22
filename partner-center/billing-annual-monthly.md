@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948229"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875195"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendre la différence entre la facturation mensuelle et la facturation annuelle dans l’espace partenaires
 
@@ -146,7 +146,7 @@ Le nouveau partenaire doit acheter un nouvel abonnement pour le compte du client
 
 Vous pouvez réactiver un abonnement jusqu’à 90 jours après la date de la suspension. Les frais calculés au prorata seront facturés à la date de facturation suivante. La date de renouvellement de l’abonnement reste identique.
 
-## <a name="pricing"></a>Tarification
+## <a name="pricing"></a>Tarifs
 
 ### <a name="offer-pricing"></a>Tarifs de l’offre
 

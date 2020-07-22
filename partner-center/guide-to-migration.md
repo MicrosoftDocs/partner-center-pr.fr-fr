@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez comment migrer votre société depuis Partner Membership Center (PMC) vers l’Espace partenaires.
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, migration, migration vers l’Espace partenaires
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 38985138984335f72e822cf6c77411cf2432dde9
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679086"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434658"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’Espace partenaires
 

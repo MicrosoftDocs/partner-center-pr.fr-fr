@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435248"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875225"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -77,6 +77,26 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
     > Ni vous ni votre client ne recevrez un e-mail contenant des instructions pour terminer l’installation/la configuration de compte pour ce type d’abonnement ISV.)
 
     - Si votre abonnement est fourni avec une version d’évaluation gratuite de 30 jours, la période d’essai gratuite sera appliquée automatiquement. En tant que partenaire dans le programme CSP, vous ne pouvez pas renoncer à la période d’évaluation gratuite sur les offres que vous achetez pour les clients. Une fois la période d’essai gratuite terminée, la durée de l’abonnement commence et l’abonnement est converti en état payant. L’abonnement est ensuite renouvelé en fonction de la même planification.
+   
+## <a name="update-subscriptions-with-add-ons"></a>Mettre à jour les abonnements avec des modules complémentaires 
+
+Pour acheter un module complémentaire, le client doit d’abord disposer d’un abonnement de base actif.  Vous ne pouvez pas acheter des modules complémentaires par le biais du catalogue.
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
+
+2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
+
+3. Choisissez l’abonnement que vous souhaitez gérer.
+
+4. Sous la section **État** , vous trouverez la liste des modules complémentaires disponibles pour l’abonnement.  
+
+5. Mettez à jour le nombre de licences pour chaque module complémentaire requis. Ensuite, **envoyez** vos modifications.
+
+La possibilité d’acheter des modules complémentaires via l’espace partenaires est uniquement disponible pour les partenaires CSP.
+Seuls les modules complémentaires éligibles sont affichés en fonction des exigences de base et de la disponibilité régionale. Pour plus d’informations sur la tarification et les offres, reportez-vous à la matrice de l’offre du revendeur Cloud.  La suspension de l’abonnement de base interrompt également tous les modules complémentaires associés.
+
+Les dates de début des modules complémentaires s’alignent sur l’abonnement de base et les frais sont calculés à partir de la date de début et de la date de fin des frais avec des frais au prorata sur la première facture. 
+
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspendre ou annuler un abonnement
 
@@ -96,7 +116,7 @@ Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs
 
 5. Toutes les données seront supprimées, sauf si l’abonnement est réactivé dans les 90 jours, ou 90 jours en plus du nombre de jours écoulés entre la date d'ouverture du compte et la première période de facturation (120 jours maximum).
 
-Lorsque vous suspendez un abonnement, la date affichée sous le bouton **Suspendu** indique quand l’abonnement va automatiquement expirer si vous ne le réactivez pas. Pour plus d’informations, consultez [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md).
+Lorsque vous suspendez un abonnement, la date affichée sous le bouton **Suspendu** indique quand l’abonnement va automatiquement expirer si vous ne le réactivez pas. 
 
 ### <a name="cancel-a-subscription"></a>Annuler un abonnement
 

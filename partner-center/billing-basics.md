@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
-keywords: facturation, paiements, commandes, annulation, gestion des commandes, absence de paiement, fraude, mauvaise utilisation, taxes, exonérations fiscales, fichiers de rapprochement, fichier de rapprochement
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91b3aaf27e049c4aab5c2c1c5c44d0fb2976a25f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948216"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435608"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Vue d’ensemble de la facturation pour les partenaires du programme Fournisseur de solutions Cloud utilisant l’Espace partenaires 
 

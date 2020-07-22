@@ -6,16 +6,15 @@ ms.subservice: partnercenter-csp
 description: Découvrez les nouveaux critères obligatoires de renforcement de la sécurité pour les conseillers, les fournisseurs de panneau de contrôle et les partenaires du programme Fournisseur de solutions Cloud.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, fournisseur de solutions Cloud, programme Fournisseur de solutions Cloud, CSP, fournisseur de panneau de contrôle, CPV, authentification multifacteur, MFA, modèle d’application sécurisé, sécurité
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bfafbf24910a6d194846af5a15f14050af33be7f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265163"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436728"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>État des exigences de sécurité Partenaires - Obtenir des réponses et consulter des rapports sur l’état actuel
 

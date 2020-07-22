@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Découvrez les avantages et les différents modèles du programme Fournisseur de solutions Cloud pour aider votre entreprise à se développer en acquérant de nouveaux clients et une nouvelle expertise.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Fournisseur de solutions Cloud, services Cloud, Azure, Office 365, Dynamics, partenaire fournisseur de solutions Cloud, vente par fournisseur de solutions Cloud, partenaire direct, partenaire fournisseur de solutions Cloud direct, revendeur fournisseur de solutions Cloud indirect, fournisseur de solutions Cloud direct, fournisseur de solutions Cloud indirect, modèle direct, modèle indirect, revendeur indirect, fournisseur indirect, fournisseur, distributeur, programme fournisseur de solutions cloud
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c03aeea719e58dcdb30cb8404066fa13e16a7e
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362337"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434908"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>Avantages du programme Fournisseur de solutions Cloud et ses différents modèles
 
