@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436068"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86949855"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de juillet 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Incentive du fournisseur de solutions cloud (CSP) pour les offres de la Place de marché commerciale Microsoft éligibles pour l’année fiscale 2021](2020-July.md#7)|22 juillet|
 |Fonctions|[Ajout de nouvelles fonctionnalités aux rapports d’insights dans l’Espace partenaires ](2020-july.md#6)|16 juillet|
 |Offres/marchés|[Logiciels perpétuels dans le programme Fournisseur de solutions cloud](2020-july.md#5)|15 juillet|
 | Offres/marchés | [Nouvelles références SKU Téléphonie Microsoft 365 Entreprise pour Teams](2020-july.md#4) | 3 juillet |
@@ -35,7 +36,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | Offres/marchés | [Changements dans l’aide F1 de Microsoft 365](2020-june.md#3) | 15 juin |
 | Fonctions | [Actualisation du support des abonnements au logiciel Windows Server pour CSP](2020-june.md#2) | 12 juin |
 | Offres/marchés | [Offres et produits Microsoft Dynamics 365 et Power Platform nouveaux et en fin de vie](2020-june.md#1) | 11 juin |
-| Fonctions | [Fusionner deux comptes d’entreprise ou plus dans l’Espace partenaires](https://docs.microsoft.com/partner-center/merge-accounts) | 9 juin |
+| Fonctions | [Fusionner deux comptes d’entreprise ou plus dans l’Espace partenaires](../merge-accounts.md) | 9 juin |
 | **Catégorie** | **Annonces de mai 2020** | **Date** |
 | Fonctions | [Correction de l’offre Microsoft 365 A3 – Licence sans assistance pour les partenaires Éducation](2020-may.md#5) | 28 mai |
 | Fonctions | [Les clients actifs peuvent renouveler leur plan EP (Enhancement Plan) via le programme Fournisseur de solutions Cloud (CPS) et recevoir des licences en ligne](2020-may.md#4) | 26 mai |
