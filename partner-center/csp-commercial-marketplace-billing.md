@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435138"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943473"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturation des produits et abonnements de la place de marché commercial dans l’espace partenaires
 
@@ -47,7 +47,7 @@ L’administrateur général ou l’administrateur de facturation de votre entre
 
     Vous verrez deux onglets en haut de la page facturation : les achats **périodiques** et **périodiques et les achats ponctuels**. Chaque onglet vous permet d’accéder aux fichiers de facture et de rapprochement (rapprochement) des différents produits de la place de marché :
 
-    - Onglet **périodique** : affiche les fichiers de facturation et de rapprochement des abonnements associés à Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, PowerBI Pro et Microsoft Azure.
+    - Onglet **périodique** : affiche les fichiers de facturation et de rapprochement des abonnements liés à Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro et Microsoft Azure.
 
     - Onglet **achats récurrents et ponctuels** : affiche les fichiers de facturation et de rapprochement pour le plan Azure, les réservations Azure, les logiciels et les produits de la place de marché commercial.
   

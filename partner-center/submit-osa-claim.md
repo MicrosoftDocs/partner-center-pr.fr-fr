@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d4b25798b4ac3c4b2c2edb0d861fd7eb5097b4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436518"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943676"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Créer une association client via le modèle CPOR : à utiliser pour les clients Microsoft 365 et Dynamics 365
 
@@ -30,9 +30,9 @@ Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
 - **ID MPN** de votre entité qui effectue la revendication
 
-- Nom de **domaine** du client [Rechercher ce](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- Nom de **domaine** du client [Rechercher ce](find-customer-domain-name.md)
 
-- ID de **répertoire** ou **ID de locataire** du client [Rechercher ce](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- ID de **répertoire** ou **ID de locataire** du client [Rechercher ce](find-customer-domain-name.md)
 
 - La **zone**de la solution, telle que Business Applications ou Microsoft 365
 
@@ -66,7 +66,7 @@ Vous devez également comprendre les points suivants :
 
 2. En haut de la page des associations de clients, sélectionnez **+ Association client**.
 
-3. Sélectionnez l' **ID MPN** de l’emplacement partenaire à associer au client, puis ajoutez le nom de domaine et l’ID de répertoire du client. [Où sont-ils ?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3. Sélectionnez l' **ID MPN** de l’emplacement partenaire à associer au client, puis ajoutez le nom de domaine et l’ID de répertoire du client. [Où sont-ils ?](find-customer-domain-name.md)
 
 4. Sélectionnez **Continuer**.
 

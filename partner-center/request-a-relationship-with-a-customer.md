@@ -8,12 +8,12 @@ description: Demandez une relation avec un client pour les scénarios multi-part
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949246"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943716"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Guide pratique pour demander une relation de revendeur à un client dans l’Espace partenaires
 
@@ -26,7 +26,7 @@ Si vous souhaitez gérer le service ou l’abonnement d’un client en son nom, 
 Si vous souhaitez établir une relation de revendeur avec un client et gérer uniquement les abonnements Azure que vous approvisionnez, il n’est pas nécessaire d’obtenir des autorisations d’administrateur.
 
 >[!NOTE] 
->L’option permettant de ne pas demander d’autorisations n’est pas disponible pour les partenaires qui fonctionnent dans Microsoft Cloud pour le gouvernement des États-Unis ou Microsoft Cloud Allemagne. Pour plus d’informations, consultez [clients déléguer des privilèges d’administration à des partenaires](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>L’option permettant de ne pas demander d’autorisations n’est pas disponible pour les partenaires qui fonctionnent dans Microsoft Cloud pour le gouvernement des États-Unis ou Microsoft Cloud Allemagne. Pour plus d’informations, consultez [clients déléguer des privilèges d’administration à des partenaires](customers-revoke-admin-privileges.md).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
 

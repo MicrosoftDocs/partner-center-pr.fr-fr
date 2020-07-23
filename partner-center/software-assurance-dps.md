@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436538"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943686"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 
@@ -25,7 +25,7 @@ ms.locfileid: "86436538"
 
 En tant que partenaire des services de planification approuvés, Microsoft vous compense de fournir des engagement de planification de prédéploiement pour les clients d’entreprise. Participer à ce programme peut vous aider à attirer plus de clients, à devenir leur partenaire de planification approuvé et à mener à des interventions client supplémentaires.
 
-## <a name="get-started"></a>Commencer
+## <a name="get-started"></a>Bien démarrer
 
 Si vous ne connaissez pas les services de planification Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le ou les programmes des services de planification, commencez chaque engagement à l’étape 4 (4) ci-dessous.
 
@@ -68,7 +68,7 @@ Tout d’abord, veillez à passer en revue toutes les [stratégies de programme 
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Créer ou mettre à jour le profil d’entreprise de votre entreprise (nouveaux partenaires)
 
-Optimisez votre exposition aux clients potentiels. Suivez les [instructions et les conseils](https://docs.microsoft.com/partner-center/create-a-marketing-profile) pour créer ou mettre à jour le profil d’entreprise de votre entreprise dans l’espace partenaires.
+Optimisez votre exposition aux clients potentiels. Suivez les [instructions et les conseils](create-a-marketing-profile.md) pour créer ou mettre à jour le profil d’entreprise de votre entreprise dans l’espace partenaires.
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>Le client crée et attribue un document (partenaires existants)
 

@@ -10,12 +10,12 @@ ms.author: v-aarzh
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05da3ae93a43b1e9977d5b6646a73750b30b4415
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435198"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943496"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notification de l’espace partenaires pour l’activité d’exploration de données crypto-monnaies
 
@@ -54,7 +54,7 @@ Si l’activité est inattendue, tenez compte des points suivants :
 
 3. Si vous avez besoin de savoir qui a créé l’abonnement, consultez les journaux d’activité de l’espace partenaires.
 
-La détection d’activités d’exploration de données crypto-monnaies est basée sur des heuristiques et peut ne pas être de 100%. Veillez à mettre en place des systèmes de gouvernance et de surveillance pour vous protéger contre les activités frauduleuses ou non autorisées. Pour plus d’informations, consultez [non-paiement, fraude ou utilisation abusive](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
+La détection d’activités d’exploration de données crypto-monnaies est basée sur des heuristiques et peut ne pas être de 100%. Veillez à mettre en place des systèmes de gouvernance et de surveillance pour vous protéger contre les activités frauduleuses ou non autorisées. Pour plus d’informations, consultez [non-paiement, fraude ou utilisation abusive](non-payment--fraud--or-misuse.md).
 
 ## <a name="contact-support-if-needed"></a>Contacter le support technique si nécessaire
 

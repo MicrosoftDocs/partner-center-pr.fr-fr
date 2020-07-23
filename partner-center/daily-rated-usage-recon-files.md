@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377413"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943456"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377413"
 - Agent commercial
 - Agent du support technique
 
-Cette rubrique explique comment lire les fichiers de réconciliation d’utilisation évalués quotidiennement.
+Cet article explique comment lire les fichiers de réconciliation d’utilisation évalués quotidiennement.
 
 >[!NOTE]
 >L’utilisation à l’aide d’une évaluation quotidienne prend normalement 24 heures pour s’afficher dans l’espace partenaires ou pour être accessible via l’API.
@@ -40,7 +40,7 @@ Cette rubrique explique comment lire les fichiers de réconciliation d’utilisa
 | PartnerId | Identificateur de partenaire au format GUID. |
 | PartnerName | Nom du partenaire. |
 | CustomerId | Identificateur Microsoft unique du client au format GUID. |
-| CustomerName | Nom de l’organisation du client comme indiqué dans l’Espace partenaires. *Cette colonne est très importante pour rapprocher la facture de vos informations système.* |
+| CustomerName | Nom de l’organisation du client comme indiqué dans l’Espace partenaires. *Cette colonne est importante pour rapprocher la facture de vos informations système.* |
 | CustomerDomainName | Nom de domaine du client. |
 | CustomerCountry | Pays dans lequel se trouve le client. |
 | MpnId | Identificateur MPN du partenaire CSP. |
@@ -48,12 +48,12 @@ Cette rubrique explique comment lire les fichiers de réconciliation d’utilisa
 | InvoiceNumber | Numéro de facture sur lequel figure la transaction spécifiée. |
 | ProductId | Identificateur du produit. |
 | SkuId | Identificateur d’une référence (SKU) particulière. |
-| AvailabilityId | Identificateur pour la disponibilité d’une référence (SKU) particulière. Cela indique si la référence (SKU) est disponible à l’achat dans le pays, la devise, le secteur d’activité, etc. |
+| AvailabilityId | Identificateur pour la disponibilité d’une référence (SKU) particulière. Cette colonne indique si la référence (SKU) est disponible à l’achat dans le pays, la devise, le secteur d’activité, etc. |
 | SkuName | Titre d’une référence (SKU) particulière. |
 | ProductName | Nom du produit. |
 | PublisherName | Nom de l'éditeur. |
 | PublisherId | Identificateur du serveur de publication au format GUID. |
-| SubscriptionDescription | Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix. (Il s’agit d’un champ identique à **OfferName**). |
+| SubscriptionDescription | Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix. (Cette colonne est un champ identique à **OfferName**). |
 | SubscriptionId | Identificateur unique d’un abonnement dans la plateforme de facturation Microsoft. Non utilisé pour le rapprochement. *Cet identificateur n’est pas le même que l' **ID d’abonnement** dans la console d’administration partenaire.* |
 | ChargeStartDate | Date de début du cycle de facturation (sauf lors de la présentation de dates de données d’utilisation latentes précédemment non facturées du cycle de facturation précédent). L’heure est toujours définie sur le début de la journée, 0:00. |
 | ChargeEndDate | Date de fin du cycle de facturation (sauf lors de la présentation de dates de données d’utilisation latentes précédemment non facturées du cycle de facturation précédent). L’heure indique toujours la fin de la journée, 23:59. |
@@ -63,7 +63,7 @@ Cette rubrique explique comment lire les fichiers de réconciliation d’utilisa
 | MeterId | Identificateur du compteur utilisé. |
 | MeterSubCategory | Le type de service Azure, qui peut affecter la vitesse. |
 | MeterName | Unité de mesure du compteur consommé. |
-| MeterRegion | Cette colonne identifie l’emplacement d’un centre de données dans la région (le cas échéant). |
+| MeterRegion | Cette colonne identifie l’emplacement d’un centre de données dans la région pour les services où MeterRegion est applicable et rempli. |
 | Unité | Unité du **nom**de la ressource. |
 | ResourceLocation | Centre de données dans lequel le compteur est en cours d’exécution. |
 | ConsumedService | Service de plateforme Azure que vous avez utilisé. |
@@ -75,7 +75,7 @@ Cette rubrique explique comment lire les fichiers de réconciliation d’utilisa
 | Unité | Type d’unité dans lequel le compteur est facturé.  |
 | BillingPreTaxTotal | Montant total de la facturation avant taxes. |
 | BillingCurrency | Devise dans la région géographique du client. |
-| PricingPreTaxTotal | La tarification avant les taxes est ajoutée. |
+| PricingPreTaxTotal | La tarification, avant l’ajout des taxes. |
 | PricingCurrency | Devise utilisée dans la liste de prix. |
 | ServiceInfo1 | Nombre de connexions Service Bus qui ont été approvisionnées et utilisées pour un jour donné. |
 | ServiceInfo2 | Champ hérité qui capture les métadonnées facultatives propres au service. |

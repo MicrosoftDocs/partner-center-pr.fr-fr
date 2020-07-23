@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436768"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943696"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Aperçus de l’espace partenaires : tableau de bord qui montre le fonctionnement d’un partenaire commercial Microsoft.
 
@@ -76,7 +76,7 @@ Les rapports suivants sont disponibles dans le tableau de bord Insights.
 
 ### <a name="filters-definitions"></a>Définitions de filtres :
 
-- Produits : liste de tous les produits Microsoft Cloud vendus/gérés par votre organisation, par exemple, O365, Azure, D365, EMS, PowerBI, etc.
+- Produits : liste de tous les produits Microsoft Cloud vendus/gérés par votre organisation, par exemple, O365, Azure, D365, EMS, Power BI, etc.
 - Marchés des clients : liste des pays clients
 - Attributions de partenaires : votre type d’association avec les abonnements de vos clients, par exemple, le partenaire numérique de l’enregistrement (DPOR), le privilège d’administrateur délégué (DAP), le lien d’administrateur partenaire (PAL), etc. 
 - Emplacements des partenaires : liste de tous les emplacements MPN de votre organisation.
