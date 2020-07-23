@@ -1,21 +1,20 @@
 ---
 title: Conditions requises pour les demandes de coopération aux primes incitatives
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Apprenez à générer la demande, à comprendre le développement du marché et à optimiser la préparation des partenaires pour les activités de votre programme d’incentives.
 author: kim-davis
 ms.author: kimnich
-keywords: demandes de primes incitatives, demandes de coopération, fonds de coopération, conditions requises
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
+ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377613"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "86475544"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Principales conditions requises pour les demandes de coopération aux incentives
 
@@ -77,4 +76,7 @@ Activités du personnel technique et commercial interne du partenaire qui inclue
 
 
 
- Pour plus d’informations, téléchargez le [Guide de coopération aux primes incitatives des partenaires](https://assets.microsoft.com/coop-guidebook.pdf) (connexion requise)
+ Pour plus d’informations, téléchargez le [Guide de coopération aux primes incitatives des partenaires](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (connexion nécessaire)
+
+
+

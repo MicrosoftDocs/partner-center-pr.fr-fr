@@ -177,6 +177,7 @@
 ### [Faire passer vos clients au plan Azure](azure-plan-transition.md)
 ### [Crédit Partenaires – Vue d’ensemble](partner-earned-credit.md)
 ### [Calcul et paiement du crédit Partenaires](partner-earned-credit-explanation.md)
+### [Rôles et autorisations pour un crédit gagné par le partenaire](azure-roles-perms-pec.md)
 ### [Nouvelle expérience de commerce pour les CSP - Facturation Azure](azure-plan-billing.md) 
 ### [Tarifs de la nouvelle expérience de commerce du programme CSP pour Azure](azure-plan-price-list.md)
 ### [Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md)

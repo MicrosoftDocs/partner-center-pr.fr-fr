@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377783"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875255"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acheter le plan Azure pour les clients et accéder aux services Azure les plus récents au tarif du paiement à l’utilisation
 
@@ -78,7 +78,7 @@ Les réservations Azure doivent être associées à un plan Azure actif. Choisis
 >Si le client n’a pas encore de plan Azure actif, sélectionnez Azure pour en ajouter un maintenant. Pour obtenir des instructions supplémentaires, consultez [Acheter des réservations Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
 >[!Note] 
->Notez que l’étendue de la réservation peut actuellement être définie seulement sur **Partagé**. 
+>Notez que l’étendue de la réservation peut uniquement être définie sur **Partagé** dans l’Espace partenaires. Pour sélectionner une étendue d’abonnement unique ou passer d’une étendue d’abonnement partagé à une étendue unique, accédez au **portail de gestion Microsoft Azure**, puis suivez les instructions ci-dessous. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Valeur Partagé pour l’étendue de la réservation":::
 
