@@ -9,12 +9,12 @@ author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7cf5df61e8408b982c80d6231369e77c50622dda
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436488"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944456"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -40,7 +40,7 @@ Utilisez ces pages pour afficher les détails de vos paiements et revenus passé
 Vous pouvez accéder à des informations sur les incentives de plusieurs manières à partir du [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires :
 
 - Sélectionnez **incentives** dans le menu de gauche. Plusieurs options s’affichent sous **incentives**, y compris la **vue d’ensemble**. Explorez ces options pour connaître l’état des programmes d’incentives, des paiements d’incentives, des revenus et des réclamations.
-- Sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit. Vous pouvez ensuite sélectionner d’autres options, telles que **historique des transactions**, **paiements**, **exporter des données** ou **rapport commercial Office**.
+- Sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit. Vous pouvez ensuite sélectionner d’autres options, telles que **historique des transactions**, **paiements**, **exporter des données**ou **rapport commercial Office**.
 
 Les pages suivantes sont décrites ici :
 
@@ -67,7 +67,7 @@ Pour accéder à **mes incentives, vue d’ensemble**:
    - Pour trier par colonne, sélectionnez le nom de la colonne.
    - Pour regrouper par programme, sélectionnez l’onglet **par programme** au-dessus du tableau.
    - Pour regrouper par emplacement, sélectionnez l’onglet **par emplacement** au-dessus du tableau.
-   - Pour afficher plus de détails sur les inscriptions au sein d’un groupe spécifique, sélectionnez le symbole représentant un Chevron à la fin d’une ligne donnée. Cela développe votre vue.
+   - Pour afficher plus de détails sur les inscriptions au sein d’un groupe spécifique, sélectionnez le symbole représentant un Chevron à la fin d’une ligne donnée. Ce Chevron développe votre vue.
 
 4. Si une action supplémentaire est requise pour l’inscription dans un programme, ces informations s’affichent dans la colonne **État** . Dans ce cas, sélectionnez le symbole représentant un Chevron pour en savoir plus sur les étapes à suivre.
 
@@ -94,7 +94,7 @@ Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous p
 |Prochain paiement estimé      |Seul le paiement suivant vous vient (même s’il y en a d’autres bientôt disponibles), en dollars américains.                                     |
 |Dernier paiement           |Le montant (en dollars américains), le nom du programme et l’ID MPN de votre dernier paiement.                                      |
 |Paiements par source       |Montant des paiements, en dollars américains, représentés par le programme au cours des 12 derniers mois.                                      |
-|Paiements                       |Sélectionnez **payant** ou **en attente** , puis triez comme vous le souhaitez. Pour plus d’informations sur un paiement spécifique, sélectionnez **Afficher**. Pour télécharger une copie du relevé des envois de paiements, sélectionnez **Télécharger**. Notez que les données de l’historique des transactions peuvent prendre jusqu’à 24 heures pour apparaître. vous risquez donc de ne pas voir les bénéfices associés immédiatement.  |
+|Paiements                       |Sélectionnez **payant** ou **en attente** , puis triez comme vous le souhaitez. Pour plus d’informations sur un paiement spécifique, sélectionnez **affichage**. Pour télécharger une copie du relevé des envois de paiements, sélectionnez **Télécharger**. L’affichage des données de l’historique des transactions peut prendre jusqu’à 24 heures. vous risquez donc de ne pas voir les bénéfices associés immédiatement.  |
 
 Pour exporter les données de cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données.
 
@@ -107,17 +107,17 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 
 ## <a name="payment-status"></a>État du paiement
 
-|**État du bénéfice** |**Donc** |**Intervention nécessaire du partenaire ?**       |
+|**État du bénéfice** |**Motif** |**Intervention nécessaire du partenaire ?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Non traité        | Le revenu est éligible au paiement. Il reste dans cet état pendant une période de réflexion telle que définie dans le guide du programme d’incentives.       |Non        |
-|À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |Non       |
+|À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |No       |
 |Facture fiscale en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé         |
 |Rejeté pendant la vérification        |Le paiement a été rejeté pendant la révision.          |Contactez le Support Microsoft pour obtenir des détails         |
 |Échec        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
-|En cours     |Le paiement est en cours.         |Non         |
-|Paiement incorrect        |Le remboursement est en cours.          |Non        |
-|Envoyé        |Le paiement a été envoyé à votre banque.          |Non       |
-|Retraitement       |Le paiement a rencontré une erreur système Microsoft et est en cours de retraitement.           |Non         |
+|En cours     |Le paiement est en cours.         |No         |
+|Paiement incorrect        |Le remboursement est en cours.          |No        |
+|Envoyé        |Le paiement a été envoyé à votre banque.          |No       |
+|Retraitement       |Le paiement a rencontré une erreur système Microsoft et est en cours de retraitement.           |No         |
 |Inversé        |Le paiement a été inversé par votre banque et sera renvoyé dans le prochain cycle de paiement.          |Non        |
 |Facture fiscale rejetée       |Votre facture fiscale a été rejetée pendant la vérification. Tous les paiements en attente seront mis en attente tant que l’examen de la facture fiscale n’aura pas été effectué.          |Contacter le support Microsoft pour plus d’informations         |
 |Facture fiscale en cours de vérification        |Votre facture fiscale est en cours de vérification. Votre paiement sera débloqué une fois que la facture fiscale aura été approuvée.           |Non        |
@@ -126,7 +126,7 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 ## <a name="export-data-page"></a>Page Exporter les données
 Suivez les instructions de cette page pour exporter les données souhaitées.
 
-**Remarques :**
+**Remarques :**
 
 - Vous verrez uniquement les données des ID et des programmes MPN auxquels vous êtes associé. Si vous souhaitez accéder à des données supplémentaires, contactez votre administrateur d’incentives.
 - La page Exporter les données ne s’actualise pas automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes.
@@ -159,32 +159,32 @@ Cette option permet de télécharger chaque article de revenu que vous voyez dan
 
 |**Nom de la colonne**   |**Description**   |
 |------------------|:-------------------------------------|
-|earningId   |Identificateur unique de chaque revenu   |
-|participantID   |Identité principale du revenu partenaire dans le cadre du programme   |
-|participantIDType   |En général MPN pour les programmes d’incentives et l’ID de vendeur pour les programmes Store   |
-|participantName   |Nom du partenaire de revenu   |
-|partnerCountryCode   |Emplacement/pays du partenaire de revenu   |
-|programName   |Nom du programme d’incentives/du Store   |
-|transactionCurrency   |Devise dans laquelle la transaction client d’origine s’est produite   |
-|transactionDate   |Date de la transaction Utile pour les programmes où de nombreuses transactions contribuent à un gain de bénéfices.   |
-|transactionExchangeRate  |Date du taux de change utilisée pour afficher le montant correspondant USD |
-|transactionAmount   |Montant de la transaction dans la devise de transaction d’origine en fonction du revenu généré   |
-|transactionAmountUSD   |Montant de la transaction en USD   |
-|transactionCountryCode   |Transaction d’achat/vente à l’indicatif du pays   |
-|lever   |Indique une règle métier pour le revenu   |
-|earningRate   |Taux d’incentives appliqué au montant de la transaction pour générer un revenu   |
-|quantité |Ce champ varie selon le programme. Pour les programmes transactionnels, il indique la quantité facturée. |
-|earningType   |Indique s’il s’agit d’un frais, d’une remise, d’un Coop, d’une vente, etc.   |
+|customerId   |Identificateur du client   |
+|customerName   |Nom de la transaction client   |
 |earningAmount   |Montant de l’obtention dans la devise de la transaction d’origine   |
 |earningAmountUSD   |Montant de gain en USD   |
 |earningDate   |Date du revenu   |
 |earningExchangeRate   |Taux de change utilisé pour afficher le montant USD correspondant   |
+|earningId   |Identificateur unique de chaque revenu   |
+|earningRate   |Taux d’incentives appliqué au montant de la transaction pour générer un revenu   |
+|earningType   |Indique s’il s’agit d’un frais, d’une remise, d’un Coop, d’une vente, etc.   |
 |exchangeRateDate   |Date du taux de change utilisée pour calculer le montant USD du revenu   |
+|lever   |Indique une règle métier pour le revenu   |
+|participantID   |Identité principale du revenu partenaire dans le cadre du programme   |
+|participantIDType   |En général MPN pour les programmes d’incentives et l’ID de vendeur pour les programmes Store   |
+|participantName   |Nom du partenaire de revenu   |
+|partnerCountryCode   |Emplacement/pays du partenaire de revenu   |
 |paymentId   |Identificateur unique du paiement. Ce nombre est généralement visible dans votre relevé bancaire.   |
 |paymentStatus   |État du paiement   |
 |paymentStatusDescription   |Description conviviale de l’état du paiement   |
-|customerId   |Identificateur du client   |
-|customerName   |Nom de la transaction client   |
+|programName   |Nom du programme d’incentives/du Store   |
+|quantité |Ce champ varie selon le programme. Pour les programmes transactionnels, il indique la quantité facturée. |
+|transactionAmount   |Montant de la transaction dans la devise de transaction d’origine en fonction du revenu généré   |
+|transactionAmountUSD   |Montant de la transaction en USD   |
+|transactionCountryCode   |Transaction d’achat/vente à l’indicatif du pays   |
+|transactionCurrency   |Devise dans laquelle la transaction client d’origine s’est produite   |
+|transactionDate   |Date de la transaction Utile pour les programmes où de nombreuses transactions contribuent à un gain de bénéfices.   |
+|transactionExchangeRate  |Date du taux de change utilisée pour afficher le montant correspondant USD |
 
 Outre le tableau ci-dessus, ces champs de l’historique des transactions sont disponibles pour le programme.
 
