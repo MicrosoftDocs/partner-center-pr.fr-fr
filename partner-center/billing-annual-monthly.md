@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 7a45b3033c448255d5508e7b7abb7a29c1c0a9e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875195"
+ms.locfileid: "86943536"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprendre la différence entre la facturation mensuelle et la facturation annuelle dans l’espace partenaires
 
@@ -32,13 +32,13 @@ ms.locfileid: "86875195"
 - Agent du support technique
 - Agent commercial
 
-Cette rubrique explique les différences entre la **facturation mensuelle** et la **facturation annuelle** dans l’espace partenaires, y compris les avantages et les cas d’usage. Vous avez la possibilité de payer certains abonnements de fournisseur de solutions Cloud (CSP) sur une base mensuelle ou annuelle.
+Cet article explique les différences entre la **facturation mensuelle** et la **facturation annuelle** dans l’espace partenaires, y compris les avantages et les cas d’usage. Vous avez la possibilité de payer certains abonnements de fournisseur de solutions Cloud (CSP) sur une base mensuelle ou annuelle.
 
 ## <a name="applicability"></a>Applicabilité
 
 La plupart des abonnements basés sur une licence ont la possibilité d’utiliser l’option de facturation mensuelle ou annuelle. Les abonnements basés sur l’utilisation proposent seulement une facturation mensuelle.
 
-La facturation annuelle et mensuelle sont **par abonnement**, et ** *non* par licence**.
+La facturation annuelle et mensuelle sont **par abonnement**, et ** _non_ par licence**.
 
 ### <a name="find-subscription-applicability"></a>Rechercher l’applicabilité de l’abonnement
 
@@ -64,7 +64,7 @@ Passer de la facturation mensuelle à la facturation annuelle peut être utile s
 
 ### <a name="annual-to-monthly-billing"></a>Facturation annuelle/mensuelle
 
-Passer de la facturation annuelle à la facturation mensuelle peut être utile si vous souhaitez ajuster vos dates de facturation à celles de vos clients individuels.
+Passer de la facturation annuelle à la facturation mensuelle peut être utile si vous souhaitez ajuster vos dates de facturation pour qu’elles correspondent aux dates de vos clients individuels.
 
 ## <a name="annual-billing"></a>Facturation annuelle
 
@@ -77,7 +77,7 @@ La facturation annuelle présente les avantages suivants :
 
 ### <a name="configure-annual-billing"></a>Configurer la facturation annuelle
 
-Si vous envisagez de passer à la facturation annuelle dans l’espace partenaires, veillez à prendre en compte la façon dont votre mouvement de vente sera affecté. Informez votre équipe et mettez à jour vos processus internes en fonction des besoins. Vous devez également passer en revue les modifications apportées à votre facture et à votre fichier de réconciliation basé sur une licence. 
+Si vous envisagez de passer à la facturation annuelle dans l’espace partenaires, veillez à prendre en compte la façon dont votre mouvement de vente sera affecté. Informez votre équipe et mettez à jour vos processus internes en fonction des besoins. Vous devez également passer en revue les modifications apportées à votre facture et à votre fichier de réconciliation basé sur une licence.
 
 Vous devez également mettre à [jour vos API pour la facturation annuelle](#required-api-changes).
 
@@ -116,7 +116,7 @@ Pour les clients avec **plusieurs abonnements** de la même offre, il peut être
 
 ### <a name="free-subscription-period"></a>Période d’abonnement gratuite
 
-Les abonnements avec une fréquence de facturation annuelle ne bénéficient pas d’une période gratuite. La durée payée de douze mois commence à la date d’achat. Ces conditions diffèrent de celles des abonnements à fréquence de facturation mensuelle, qui bénéficient d’une période gratuite entre la date d’achat et la date de facturation qui suit.
+Les abonnements avec une fréquence de facturation annuelle ne bénéficient pas d’une période gratuite. La durée payée de douze mois commence à la date d’achat. Contrairement aux abonnements avec une fréquence de facturation mensuelle qui reçoivent une période gratuite de la date d’achat à la date de facturation suivante.
 
 ### <a name="adding-and-removing-licenses"></a>Ajout et suppression de licences
 
@@ -138,7 +138,7 @@ Pour la facturation annuelle, si l’abonnement est annulé au cours des 30 prem
 
 ### <a name="moving-subscriptions-between-partners"></a>Déplacement d’abonnements entre partenaires
 
-Les clients ne peuvent pas déplacer des abonnements d’un partenaire à un autre. Ceci s’applique aussi bien aux abonnements à facturation mensuelle qu’annuelle.
+Les clients ne peuvent pas déplacer des abonnements d’un partenaire à un autre. Cette restriction s’applique aux abonnements mensuels et annuels.
 
 Le nouveau partenaire doit acheter un nouvel abonnement pour le compte du client. Il n’est pas possible de déplacer des abonnements entre partenaires.
 
@@ -152,7 +152,7 @@ Vous pouvez réactiver un abonnement jusqu’à 90 jours après la date de la su
 
 Le prix de l’offre au moment de l’achat est garanti pour la durée de l’abonnement facturé complet (un mois pour la facturation mensuelle, 12 mois pour la facturation annuelle). Lors du renouvellement d’un abonnement, le prix est basé sur la liste des prix en vigueur à la date du renouvellement. Le nouveau prix est garanti pour la période d’abonnement suivante.
 
-Si le prix d’une offre diminue au cours de la période de facturation, le montant facturé ne change pas. Le prix est défini pour la période de facturation complète au moment de l’achat. Cela s’applique à la facturation mensuelle et annuelle.
+Si le prix d’une offre diminue au cours de la période de facturation, le montant facturé ne change pas. Le prix est défini pour la période de facturation complète au moment de l’achat. Cette Convention s’applique à la facturation mensuelle et annuelle.
 
 ### <a name="cancellation-credits"></a>Crédits d’annulation
 
@@ -176,7 +176,7 @@ Lorsque vous achetez ou renouvelez un abonnement avec la facturation annuelle, v
 
 - Si aucune modification n’est apportée à l’abonnement, il n’y aura aucune ligne dans les fichiers de rapprochement pour les mois de 2 à 12 du terme de l’abonnement. Si une modification est apportée à l’abonnement au cours de la période de douze mois, un crédit et une facture au prorata s’affichent dans le prochain fichier de rapprochement une fois la modification effectuée.
 
-- La modification suivante du fichier de rapprochement s’affiche lorsque l’abonnement est renouvelé. Elle apparaît à la première date de facturation qui suit le renouvellement.
+- La modification suivante du fichier de rapprochement s’affiche lorsque l’abonnement est renouvelé. La modification s’affichera à la date de la première facturation après le renouvellement.
 
 ### <a name="usage-file-changes-for-annual-billing"></a>Modifications du fichier d’utilisation pour la facturation annuelle
 
@@ -194,7 +194,7 @@ Si l’annulation se produit au cours des 30 premiers jours de la période de 12
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Ajout de licences à l’abonnement annuel
 
-Lorsque vous ajoutez des licences à un abonnement, le fichier de réconciliation contient un crédit et une facture au prorata. Cela s’applique aux abonnements mensuels et annuels.
+Lorsque vous ajoutez des licences à un abonnement, le fichier de réconciliation contient un crédit et une facture au prorata. Cette Convention s’applique aux abonnements mensuels et annuels.
 
 ### <a name="price-lists-for-annual-billing"></a>Tarifs pour la facturation annuelle
 

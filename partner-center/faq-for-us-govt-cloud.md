@@ -8,12 +8,12 @@ description: Consultez les réponses aux questions fréquemment posées (FAQ) su
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390536"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943906"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Forum aux questions (FAQ) pour l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -165,7 +165,7 @@ Les exigences liées aux API et à l’intégration pour le programme Fournisseu
 
 **Existe-t-il une solution de contournement pour les API non disponibles dans le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis ?**
 
-Les partenaires peuvent utiliser le portail Azure, Azure AD PowerShell ou l’API Graph pour la gestion des comptes d’utilisateur des partenaires. Pour plus d’informations techniques, voir [Développement avec l’Espace partenaires de Microsoft Cloud pour le gouvernement](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud).
+Les partenaires peuvent utiliser le Portail Azure, Azure AD PowerShell ou le API Graph pour la gestion des comptes d’utilisateurs partenaire. Pour plus d’informations techniques, voir [Développement avec l’Espace partenaires de Microsoft Cloud pour le gouvernement](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud).
 
 **Où en savoir plus ?**
 

@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Ces pages vous permettent d’afficher, de gérer et d’exporter les détails des paiements et des bénéfices, ainsi que l’état du programme et de finaliser l’historique des transactions.
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7cf5df61e8408b982c80d6231369e77c50622dda
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: f42ce255396411b68363f3a6ad928e80d87d96ad
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944456"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114836"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -101,7 +101,7 @@ Pour exporter les données de cette page, sélectionnez **Exporter** , puis suiv
 ## <a name="transaction-history-page"></a>Page Historique des transactions
 Cette page affiche tous vos bénéfices individuels avec pour chacun la date, le type et le montant. Vous pouvez afficher ces informations pour une période déterminée, mais aussi filtrer par ID d’inscription, Programme, ID de paiement, Type de bénéfice, Levier et Statut. Les données sont disponibles pour l’exercice fiscal actuel (du 1er juillet au 30 juin) et dans les deux années fiscales précédentes.
 
-Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers le bas située dans la partie droite de la page. Cette opération affiche le levier, le chiffre d’affaires, le produit et le client. Si, pour une raison quelconque, ces données ne sont pas disponibles, mais que vous avez besoin d’y accéder, contactez le support technique. Si le résultat est le résultat d’un ajustement et non d’une transaction, les champs produit et client ne sont pas affichés.
+Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers le bas située dans la partie droite de la page. Cela affichera le levier, le chiffre d’affaires, le produit et le client. Si, pour une raison quelconque, ces données ne sont pas disponibles, mais que vous avez besoin d’y accéder, contactez le support technique. Si le résultat est le résultat d’un ajustement et non d’une transaction, les champs produit et client ne sont pas affichés.
 
 Pour exporter les données de transaction sur cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données. Les fichiers exportés à partir de la page Historique des transactions affichent les données dans la devise de la transaction, les bénéfices dans la devise de la transaction et en dollars américains, et la valeur payée dans la devise d’arrivée.
 
@@ -110,14 +110,14 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 |**État du bénéfice** |**Motif** |**Intervention nécessaire du partenaire ?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Non traité        | Le revenu est éligible au paiement. Il reste dans cet état pendant une période de réflexion telle que définie dans le guide du programme d’incentives.       |Non        |
-|À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |No       |
+|À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |Non       |
 |Facture fiscale en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé         |
 |Rejeté pendant la vérification        |Le paiement a été rejeté pendant la révision.          |Contactez le Support Microsoft pour obtenir des détails         |
 |Échec        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
-|En cours     |Le paiement est en cours.         |No         |
-|Paiement incorrect        |Le remboursement est en cours.          |No        |
-|Envoyé        |Le paiement a été envoyé à votre banque.          |No       |
-|Retraitement       |Le paiement a rencontré une erreur système Microsoft et est en cours de retraitement.           |No         |
+|En cours     |Le paiement est en cours.         |Non         |
+|Paiement incorrect        |Le remboursement est en cours.          |Non        |
+|Envoyé        |Le paiement a été envoyé à votre banque.          |Non       |
+|Retraitement       |Le paiement a rencontré une erreur système Microsoft et est en cours de retraitement.           |Non         |
 |Inversé        |Le paiement a été inversé par votre banque et sera renvoyé dans le prochain cycle de paiement.          |Non        |
 |Facture fiscale rejetée       |Votre facture fiscale a été rejetée pendant la vérification. Tous les paiements en attente seront mis en attente tant que l’examen de la facture fiscale n’aura pas été effectué.          |Contacter le support Microsoft pour plus d’informations         |
 |Facture fiscale en cours de vérification        |Votre facture fiscale est en cours de vérification. Votre paiement sera débloqué une fois que la facture fiscale aura été approuvée.           |Non        |
@@ -130,7 +130,7 @@ Suivez les instructions de cette page pour exporter les données souhaitées.
 
 - Vous verrez uniquement les données des ID et des programmes MPN auxquels vous êtes associé. Si vous souhaitez accéder à des données supplémentaires, contactez votre administrateur d’incentives.
 - La page Exporter les données ne s’actualise pas automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes.
-- Votre filtre peut déclencher l’erreur **Pas de données disponibles**. Cela signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
+- Votre filtre peut déclencher l’erreur **Pas de données disponibles**. Cette erreur signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
 
 ## <a name="payment-download-export"></a>Exportation du téléchargement de paiement
 Cette option vous permet de télécharger les paiements que vous avez reçus à votre banque pour un programme donné, les taxes associées et le montant cumulé des bénéfices.

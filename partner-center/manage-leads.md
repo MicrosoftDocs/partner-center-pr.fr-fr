@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434368"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944476"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gérer différents prospects, comme les demandes des clients, des prospects qualifiés par le marketing et des prospects qualifiés par les commerciaux
 
@@ -32,7 +32,7 @@ ms.locfileid: "86434368"
 
 Microsoft envoie des millions de clients par an à ses partenaires. Vous avez la possibilité de recevoir des opportunités de Microsoft et de développer votre activité. Cette section vous aidera à comprendre comment gérer les clients que vous recevez à partir de la page Microsoft Solution Provider et comment agir sur ceux-ci.
 
-La condition préalable à la réception de clients est la [création d’un profil d’entreprise](https://docs.microsoft.com/partner-center/create-a-marketing-profile) pour votre entreprise. Le profil d’entreprise que vous créez pour votre entreprise vous aide à être visible pour les clients potentiels, les autres partenaires et les vendeurs Microsoft sur la page Web du [fournisseur de solutions Microsoft](https://www.microsoft.com/solution-providers/home) . Les informations de votre profil d’entreprise sont combinées avec les informations d’appartenance de votre entreprise, comme les données de compétence et les autres mentions de Microsoft fournissant un profil riche pour les clients lorsqu’ils recherchent un partenaire à utiliser. Toutes les requêtes qui proviennent de la liste de profils sur la page Microsoft Solution Provider sont disponibles dans la section **« prospects »** sous l’onglet **références** dans le volet de navigation gauche. 
+La condition préalable à la réception de clients est la [création d’un profil d’entreprise](create-a-marketing-profile.md) pour votre entreprise. Le profil d’entreprise que vous créez pour votre entreprise vous aide à être visible pour les clients potentiels, les autres partenaires et les vendeurs Microsoft sur la page Web du [fournisseur de solutions Microsoft](https://www.microsoft.com/solution-providers/home) . Les informations de votre profil d’entreprise sont combinées avec les informations d’appartenance de votre entreprise, comme les données de compétence et les autres mentions de Microsoft fournissant un profil riche pour les clients lorsqu’ils recherchent un partenaire à utiliser. Toutes les requêtes qui proviennent de la liste de profils sur la page fournisseur de solutions Microsoft sont disponibles dans la section **prospects** sous l’onglet **références** dans le volet de navigation gauche.
 
 ## <a name="types-of-leads"></a>Types de clients
 
@@ -85,9 +85,9 @@ Il s’agit d’une étape de terminal dans laquelle toutes les opportunités ar
 
 Voici quelques conseils pour vous aider à obtenir des références plus appropriées :
 
-- **Choisissez des mots clés et des préférences qui représentent votre expertise et votre modèle commercial** dans votre [profil commercial](https://docs.microsoft.com/partner-center/create-a-marketing-profile). Supprimez les mots clés qui génèrent des références qui ne vous intéressent pas. Si vous ne souhaitez pas traiter les entreprises d’une certaine taille, mettez à jour cette préférence.
+- **Choisissez des mots clés et des préférences qui représentent votre expertise et votre modèle commercial** dans votre [profil commercial](create-a-marketing-profile.md). Supprimez les mots clés qui génèrent des références qui ne vous intéressent pas. Si vous ne souhaitez pas traiter les entreprises d’une certaine taille, mettez à jour cette préférence.
 
-- **Passez en revue vos informations de contact dans votre [profil d’entreprise](https://docs.microsoft.com/partner-center/create-a-marketing-profile) pour chaque emplacement** Assurez-vous que votre équipe reçoit les alertes entrantes.
+- **Passez en revue vos informations de contact dans votre [profil d’entreprise](create-a-marketing-profile.md) pour chaque emplacement** Assurez-vous que votre équipe reçoit les alertes entrantes.
 
 - **Répondre rapidement aux références** Lorsque vous répondez en temps voulu aux demandes entrantes, nous augmenterons votre visibilité dans les futurs résultats de la recherche de clients. Veillez à ce que votre équipe réponde rapidement et avec énergie.
 

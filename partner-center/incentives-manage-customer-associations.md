@@ -4,16 +4,16 @@ description: Comprenez les processus et chronologies importants pour la gestion 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949508"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114790"
 ---
 # <a name="manage-customer-associations"></a>Gérer les associations client
 
@@ -71,7 +71,7 @@ Voici les États et leurs significations :
 
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Contester le statut d’une revendication d’association CPOR
 
-Si votre revendication d’association CPOR est rejetée, vous avez 30 jours pour contester le rejet. L’e-mail que vous recevez vous informant du rejet vous indique également où vous pouvez afficher la raison du rejet et comment le contester.  
+Si votre revendication d’association CPOR est rejetée, vous avez 30 jours pour contester le rejet. L’e-mail que vous recevez vous informant du rejet vous indique également où vous pouvez voir la raison du rejet et comment le contester.  
 
 Si 30 jours se sont écoulés et que vous souhaitez toujours contester une revendication rejetée, vous devez soumettre une nouvelle association avec votre mise à jour de preuve d’exécution (PoE). 
 
@@ -81,17 +81,17 @@ Si 30 jours se sont écoulés et que vous souhaitez toujours contester une reven
 2. Ouvrez la revendication que vous souhaitez contester.
 3. Sur la page revendication, sélectionnez **litige**.
 4. Entrez une justification de la société et/ou un PoE mis à jour expliquant pourquoi le rejet doit être reconsidéré.
-5. Lorsque vous avez terminé d’ajouter des informations, sélectionnez **litige**. Nos réviseurs doivent vous contacter avec des résultats dans les 5 jours ouvrables.
+5. Quand vous avez terminé d’ajouter des informations, sélectionnez **Contester**. Nos réviseurs doivent vous contacter avec les résultats dans un délai de cinq jours ouvrés.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Raisons pour lesquelles une revendication d’association CPOR est rejetée
 
 Il existe trois raisons principales pour lesquelles une revendication d’association CPOR doit être rejetée.
 
-**Demande de partenaire :** Les partenaires peuvent demander à ce que leur association soit rejetée. Cela est principalement utilisé lorsque le partenaire a créé une revendication d’association CPOR par inadvertance à l’aide d’un MPN incorrect, a choisi une activité incorrecte (exemple... Vous avez choisi l’Association du chiffre d’affaires plutôt que les préventes) ou ne travaille plus avec le client.
+**Demande de partenaire :** Les partenaires peuvent demander à ce que leur association soit rejetée. Ce raisonnement est principalement utilisé lorsque le partenaire a créé une revendication d’association CPOR par inadvertance à l’aide d’un MPN incorrect, a choisi une activité incorrecte (exemple.... Vous avez choisi l’Association du chiffre d’affaires plutôt que les préventes) ou ne travaille plus avec le client.
 
 **Refus du client :** Une fois que la revendication d’association CPOR a réussi le processus d’approbation de la PoE, son état passe à approuvé, alors que le client a la possibilité de refuser le consentement de l’Association. Si le client refuse de donner son consentement, l’association est rejetée.
 
-**Preuve d’exécution insuffisante :** Une preuve d’exécution est requise pour chaque association CPOR. Une fois votre revendication d’association CPOR soumise, les réviseurs Microsoft prennent jusqu’à 5 jours pour passer en revue votre PoE et vous demander des informations supplémentaires nécessaires à l’aide de la section commentaires de votre revendication. Si les informations sont insuffisantes, votre revendication d’association CPOR sera rejetée.
+**Preuve d’exécution insuffisante :** Une preuve d’exécution est requise pour chaque association CPOR. Une fois votre revendication d’association CPOR soumise, les réviseurs Microsoft prennent jusqu’à cinq jours pour passer en revue votre PoE et vous demander toute information supplémentaire nécessaire à l’aide de la section commentaires de votre revendication. Si les informations sont insuffisantes, votre revendication d’association CPOR sera rejetée.
 
 Autres raisons possibles de rejet :
 
@@ -113,7 +113,7 @@ Les champs que vous pouvez modifier sont :
 
 ## <a name="customer-consent-notification"></a>Notification de consentement du client
 
-Une fois votre revendication d’association CPOR approuvée, une notification est envoyée au client pour lui donner la possibilité de refuser votre association. Le client disposera alors de 7 jours pour s’abonner. L’état de cette période s’affiche comme approuvé. Si le client refuse de donner son consentement, l’association est rejetée. Une fois que la période de consentement est dépassée et que le client n’a pas refusé le consentement, la revendication est envoyée pour évaluer l’éligibilité des programmes d’incentives.
+Une fois votre revendication d’association CPOR approuvée, une notification est envoyée au client pour lui donner la possibilité de refuser votre association. Le client disposera alors de sept jours pour s’en désabonner. L’état de cette période s’affiche comme approuvé. Si le client refuse de donner son consentement, l’association est rejetée. Une fois que la période de consentement est dépassée et que le client n’a pas refusé le consentement, la revendication est envoyée pour évaluer l’éligibilité des programmes d’incentives.
 
 ## <a name="how-to-communicate-with-poe-reviewers"></a>Communication avec les réviseurs PoE
 

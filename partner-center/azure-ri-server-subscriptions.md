@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435708"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943946"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquérir, approvisionner & gérer des instances de machine virtuelle réservées Azure (RI) + abonnements serveur pour les clients
 
@@ -103,7 +103,7 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 - [FAQ sur les partenaires pour Azure Reservations et SQL DB](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Licence d’accès client (CAL) Services Bureau à distance (RDS) (annonce)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 - [Azure Reserved VM Instances (Portail Azure)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [Abonnements serveur](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Abonnements serveur](csp-software-subscriptions.md)
 - [Vue d’ensemble de SQL DB dans Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Réservations SQL DB (Portail Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB (Portail Azure)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
@@ -117,7 +117,7 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 - [Azure Databricks des réservations d’unités](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
 - Tarifs CSP : les listes de prix des **abonnements** Microsoft Azure et des **instances réservées** sont situées dans la page tarifs de l’espace partenaires [& offres](https://partner.microsoft.com/pcv/sales) .
 
-### <a name="training"></a>Formation
+### <a name="training"></a>Entrainement
 
 Inscrivez-vous pour consulter les [webinaires commerciaux](https://commercial-licensing.eventbuilder.com/FY2019_ALL) et les événements à la demande.
 

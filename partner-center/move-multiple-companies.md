@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ce que vous devez savoir lorsque vous migrez plusieurs sociétés de Partner Membership Center (PMC) vers l’espace partenaires et que vous les Consolidez dans un compte global partenaire.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434408"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114144"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Déplacement de plusieurs sociétés vers l’espace partenaires à partir du Partner Membership Center (PMC)
 

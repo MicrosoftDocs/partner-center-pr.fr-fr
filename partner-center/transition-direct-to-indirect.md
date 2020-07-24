@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436468"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944496"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
@@ -204,7 +204,7 @@ Votre fournisseur indirect ne peut pas envoyer de commandes pour vos clients de 
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Acceptation du contrat client Microsoft
 
-Microsoft Cloud accord est valide jusqu’au 31 janvier 2020. Après cette date, tous les clients, nouveaux et existants, doivent signer le nouveau [contrat de client Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Pour la transition des clients, si :
+Microsoft Cloud accord est valide jusqu’au 31 janvier 2020. Après cette date, tous les clients, nouveaux et existants, doivent signer le nouveau [contrat de client Microsoft](confirm-customer-agreement.md). Pour la transition des clients, si :
 
 - **Le client n’a pas encore accepté le contrat client Microsoft**
 
@@ -347,7 +347,7 @@ Le partenaire de transition doit effectuer les opérations suivantes :
 
 - **Les modifications apportées au nombre de sièges d’un abonnement ne seront pas reflétées dans la demande de transfert existante.** Une fois que vous avez créé une demande de transfert qui comprend un abonnement existant, vous devez éviter de mettre à jour la quantité de sièges de l’abonnement (ou les modules complémentaires associés). Dans ce cas, la nouvelle quantité ne sera pas reflétée dans la demande de transfert. Une fois que le fournisseur indirect a accepté la demande de transfert, l’abonnement résultant aura l’ancienne quantité. Si vous souhaitez que la nouvelle quantité soit transférée vers le fournisseur indirect, vous devez annuler la demande de transfert existante et en recréer une nouvelle.
 
-- **Tous les achats ne peuvent pas être transférés à l’aide du transfert d’abonnements auto-pris en charge.** Actuellement, vous pouvez uniquement transférer les abonnements O365 et les abonnements Azure PAYG (MS-AZR-0145P) à l’aide de cette fonctionnalité. Les autres achats, y compris les plans Azure, les instances réservées Azure, les abonnements à base de termes et les abonnements SaaS pour Azure Marketplace, ne sont pas pris en charge. Vous verrez une raison pour laquelle un abonnement ne peut pas être transféré dans la page envoyer une demande de transfert. Pour transférer ces abonnements, vous devez [Annuler l’abonnement existant](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) et acheter une nouvelle offre pour le client via le fournisseur indirect.
+- **Tous les achats ne peuvent pas être transférés à l’aide du transfert d’abonnements auto-pris en charge.** Actuellement, vous pouvez uniquement transférer les abonnements O365 et les abonnements Azure PAYG (MS-AZR-0145P) à l’aide de cette fonctionnalité. Les autres achats, y compris les plans Azure, les instances réservées Azure, les abonnements à base de termes et les abonnements SaaS pour Azure Marketplace, ne sont pas pris en charge. Vous verrez une raison pour laquelle un abonnement ne peut pas être transféré dans la page envoyer une demande de transfert. Pour transférer ces abonnements, vous devez [Annuler l’abonnement existant](create-a-new-subscription.md#suspend-or-cancel-a-subscription) et acheter une nouvelle offre pour le client via le fournisseur indirect.
 
 - **Ne peut pas être testé à l’aide de l’environnement sandbox.**
 

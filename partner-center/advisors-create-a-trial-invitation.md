@@ -1,19 +1,19 @@
 ---
-title: Créer une invitation à la version d’évaluation d’Office 365
+title: Créer une invitation pour un essai gratuit d’Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 description: Découvrez comment les partenaires peuvent créer et envoyer des invitations à la version d’évaluation pour que leurs clients essaient Office 365. Les partenaires sont un conseiller d’abonnement agréé.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436228"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120033"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Conseillers : créez et envoyez une invitation à la version d’évaluation pour que les clients essaient Office 365
 
