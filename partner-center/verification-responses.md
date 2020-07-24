@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436438"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943816"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Vérifier les informations de votre compte lors de votre inscription dans un nouveau programme de l’espace partenaires
 
@@ -39,7 +39,7 @@ Pour le programme CSP, accédez à [cette page](https://partner.microsoft.com/pc
 |Entreprises   |La vérification de l’entreprise confirme que la société inscrite est une entité commerciale légitime et à l’adresse utilisée pour l’inscription.|En cas d’échec de la vérification de l’entreprise, le contact principal (en général, l’administrateur général ou l’administrateur de votre compte) sera invité à fournir une documentation officielle, telle qu’un certificat d’inscription ou un certificat d’enregistrement fiscal, à partir du pays ou de la municipalité de l’entreprise, confirmant que l’entreprise est autorisée à effectuer des affaires sous ce nom d’entité [Créer un ticket de support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->Découvrez comment mettre à jour votre [profil d’entreprise juridique (adresse)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
+>Découvrez comment mettre à jour votre [profil d’entreprise juridique (adresse)](update-your-partner-profile.md).
 
 ## <a name="when-verification-concludes"></a>À la fin de la vérification
 

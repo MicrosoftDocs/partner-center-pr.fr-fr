@@ -1,20 +1,20 @@
 ---
 title: Faire remonter les problèmes à Microsoft
+description: Découvrez les problèmes que les partenaires Microsoft sont censés résoudre eux-mêmes pour leurs clients et les problèmes qu’ils peuvent avoir à faire remonter à Microsoft.
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez les problèmes que les partenaires Microsoft sont censés résoudre eux-mêmes pour leurs clients et les problèmes qu’ils peuvent avoir à faire remonter à Microsoft.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219597"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114160"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Escalader les problèmes à Microsoft et découvrir les problèmes les plus adaptés à la remontée Microsoft  
 
@@ -63,12 +63,5 @@ Toutefois, il existe plusieurs catégories de problèmes que vous devez transmet
 >[!NOTE]
 >Il est important de commencer à partir du tableau de bord de l’espace partenaires pour conserver la relation entre le partenaire et le client. 
 
-
 Pour plus d’informations sur la création de rapports pour le compte du client, consultez [signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md).
-
- 
-
- 
-
-
 

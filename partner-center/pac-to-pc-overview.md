@@ -5,16 +5,16 @@ ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: La fonctionnalité du centre d’administration des partenaires Office 365 est déplacée vers l’espace partenaires.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a96375c26468c130ec14e41f83eb8a1d35daa58
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434158"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114517"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Le Centre d’administration des partenaires est transféré à l’Espace partenaires
 
@@ -43,7 +43,6 @@ En avril 2018, les PAC seront mis hors service, et les partenaires CSP vont êtr
 
 **Partenaires Advisor** (si vous n’utilisez pas le fournisseur CSP et que vous utilisez PAC pour fournir des versions d’évaluation/devis à vos clients) dès que nous décidons de la chronologie de votre redirection automatique vers l’espace partenaires, nous l’annoncerons ici. 
 
-
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Commencez à utiliser l’espace partenaires Microsoft dès maintenant !
 
 Commencez à utiliser [l’espace partenaires Microsoft](https://partnercenter.microsoft.com/) dès à présent pour vous préparer à passer du PAC.  Vous utiliserez les mêmes informations d’identification pour l’espace partenaires que vous utilisez pour le PAC.
@@ -51,4 +50,4 @@ Commencez à utiliser [l’espace partenaires Microsoft](https://partnercenter.m
 > [!IMPORTANT]  
 > Certaines fonctionnalités et fonctions qui étaient disponibles dans la clé PAC ne sont pas disponibles dans l’espace partenaires.
 
- Lisez la [comparaison côte à côte](moving-from-pac-to-pc.md) pour comprendre et vous familiariser avec ces modifications.  Vous trouverez des informations supplémentaires sur la gestion des comptes, la gestion des clients, les licences et les abonnements, la tarification et les offres, et bien plus encore dans [l’aide de l’espace partenaires Microsoft](https://docs.microsoft.com/partner-center/).
+ Lisez la [comparaison côte à côte](moving-from-pac-to-pc.md) pour comprendre et vous familiariser avec ces modifications. 

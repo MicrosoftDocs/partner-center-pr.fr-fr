@@ -1,7 +1,7 @@
 ---
 title: Créer des abonnements clients dans l’espace partenaires
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment vendre à vos clients des abonnements à des produits publiés par Microsoft, ainsi qu’à des produits SaaS publiés par des ISV tiers.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875225"
+ms.locfileid: "86949835"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -49,7 +49,7 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
 
 4. Pour afficher uniquement certains types d’abonnements, effectuez les sélections dans les filtres disponibles :
    - **Éditeur**: choisissez **Microsoft** pour afficher uniquement les offres de Microsoft ou le **partenaire** pour consulter les produits de la place de marché commercialisés publiés par les éditeurs de logiciels indépendants.
-   - **Type de facturation**: sélectionnez le type de facturation d’abonnement que vous souhaitez utiliser : **licence** ou **utilisation**. Consultez [FAQ sur les nouvelles fonctionnalités de facturation](faq-about-new-billing-features.md) pour obtenir des informations qui vous aideront à décider entre la fréquence de facturation mensuelle et annuelle.
+   - **Type de facturation**: sélectionnez le type de facturation d’abonnement que vous souhaitez utiliser : **licence** ou **utilisation**. Consultez [facturation basée sur une licence](license-based-billing.md) pour obtenir des informations qui vous aideront à déterminer la fréquence de facturation mensuelle et annuelle.
    - **Catégorie**: choisissez **Enterprise**, **Small Business**ou **version d’évaluation**. Pour obtenir des informations sur les abonnements d’essai, consultez [Proposer à vos clients des abonnements d’essai aux produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Sélectionnez les abonnements de produits que vous souhaitez acheter pour votre client. Les produits que vous voyez dépendent du type de segment client (éducation, gouvernement, etc.) et des filtres que vous avez appliqués. Certaines offres affichées sur la place de marché ne sont pas toujours disponibles pour un client spécifique ou un partenaire CSP spécifique. Cela peut être dû aux raisons suivantes :
@@ -76,7 +76,7 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
     >[!NOTE]
     > Ni vous ni votre client ne recevrez un e-mail contenant des instructions pour terminer l’installation/la configuration de compte pour ce type d’abonnement ISV.)
 
-    - Si votre abonnement est fourni avec une version d’évaluation gratuite de 30 jours, la période d’essai gratuite sera appliquée automatiquement. En tant que partenaire dans le programme CSP, vous ne pouvez pas renoncer à la période d’évaluation gratuite sur les offres que vous achetez pour les clients. Une fois la période d’essai gratuite terminée, la durée de l’abonnement commence et l’abonnement est converti en état payant. L’abonnement est ensuite renouvelé en fonction de la même planification.
+    - Si votre abonnement est fourni avec une version d’évaluation gratuite de 30 jours, la période d’essai gratuite sera appliquée automatiquement. En tant que partenaire dans le programme CSP, vous ne pouvez pas renoncer à la période d’évaluation gratuite sur les offres que vous achetez pour les clients. Une fois la période d’essai gratuite terminée, la durée de l’abonnement commence et l’abonnement est converti en état payant. L’abonnement est ensuite renouvelé automatiquement en fonction de la même planification.
    
 ## <a name="update-subscriptions-with-add-ons"></a>Mettre à jour les abonnements avec des modules complémentaires 
 
@@ -92,10 +92,10 @@ Pour acheter un module complémentaire, le client doit d’abord disposer d’un
 
 5. Mettez à jour le nombre de licences pour chaque module complémentaire requis. Ensuite, **envoyez** vos modifications.
 
-La possibilité d’acheter des modules complémentaires via l’espace partenaires est uniquement disponible pour les partenaires CSP.
+La possibilité d’acheter des modules complémentaires via l’espace partenaires n’est disponible que pour les fournisseurs directs et indirects.
 Seuls les modules complémentaires éligibles sont affichés en fonction des exigences de base et de la disponibilité régionale. Pour plus d’informations sur la tarification et les offres, reportez-vous à la matrice de l’offre du revendeur Cloud.  La suspension de l’abonnement de base interrompt également tous les modules complémentaires associés.
 
-Les dates de début des modules complémentaires s’alignent sur l’abonnement de base et les frais sont calculés à partir de la date de début et de la date de fin des frais avec des frais au prorata sur la première facture. 
+Les dates de début des modules complémentaires s’alignent sur l’abonnement de base et les frais sont calculés à partir de la date de début et de la date de fin des frais avec des frais au prorata sur la première facture. Pour plus d’informations, consultez [facturation basée sur une licence](license-based-billing.md).
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspendre ou annuler un abonnement

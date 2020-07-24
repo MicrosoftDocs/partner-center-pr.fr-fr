@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3874d384aa1f4b932832d599f73bd601dc73fb07
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875265"
+ms.locfileid: "86943806"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Fichiers de réconciliation ponctuels et périodiques dans l’espace partenaires
 
@@ -29,7 +29,7 @@ ms.locfileid: "86875265"
 - Agent d’administration
 - Agent commercial
 
-Cette rubrique explique comment lire des fichiers de réconciliation ponctuels et périodiques dans l’espace partenaires.
+Cet article explique comment lire des fichiers de réconciliation ponctuels et périodiques dans l’espace partenaires.
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Champs dans les fichiers de réconciliation ponctuels et périodiques
 
@@ -46,16 +46,16 @@ Cette rubrique explique comment lire des fichiers de réconciliation ponctuels e
 | OrderDate | Date à laquelle la commande a été placée. |
 | ProductId | Identificateur du produit. |
 | SkuId | Identificateur d’une référence (SKU) particulière. |
-| AvailabilityId | Identificateur pour la disponibilité d’une référence (SKU) particulière. Cela indique si la référence (SKU) est disponible à l’achat dans le pays, la devise, le secteur d’activité, etc. |
+| AvailabilityId | Identificateur pour la disponibilité d’une référence (SKU) particulière. Ce champ indique si la référence (SKU) est disponible à l’achat dans le pays, la devise, le secteur d’activité, etc. |
 | SkuName | Titre d’une référence (SKU) particulière. |
 | ProductName | Nom du produit. |
 | ChargeType | Type de frais ou d’ajustement. |
-| UnitPrice | Prix unitaire publié dans la liste de prix au moment de l’achat. *Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement.* |
-| Quantité | Nombre d’unités. *Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement.* |
-| SubTotal | Total avant impôt. Vérifie si votre sous-total correspond au total attendu, en cas de remise. |
+| UnitPrice | Prix unitaire publié dans la liste de prix au moment de l’achat. *Assurez-vous que ce champ correspond aux informations stockées dans votre système de facturation au cours du rapprochement.* |
+| Quantité | Nombre d’unités. *Assurez-vous que ce champ correspond aux informations stockées dans votre système de facturation au cours du rapprochement.* |
+| SubTotal | Total avant impôt. Vérifie si votre sous-total correspond au total attendu, s’il y a une remise. |
 | TaxTotal | Frais liés au montant des taxes. Selon les règles fiscales et les circonstances spécifiques de votre marché. |
 | Total | Total après impôts. Vérifie si les impôts sont retenus sur la facture. |
-| Devise | Type de devise. Chaque entité de facturation n’a qu’une seule devise. Assurez-vous que cela correspond à votre première facture, puis vérifiez à nouveau après toute mise à jour de la plateforme de facturation majeure. |
+| Devise | Type de devise. Chaque entité de facturation n’a qu’une seule devise. Assurez-vous que ce champ correspond à votre première facture, puis vérifiez à nouveau après toute mise à jour de la plateforme de facturation majeure. |
 | PriceAdjustmentDescription | Une explication de toute remise applicable. |
 | PublisherName | Nom de l’éditeur du produit.
 | PublisherId | Identificateur unique d’un serveur de publication particulier. |
@@ -68,7 +68,7 @@ Cette rubrique explique comment lire des fichiers de réconciliation ponctuels e
 | Unité | Type d’unité achetée. |
 | AlternateId | Identificateur alternatif à un ID de **commande**. |
 | BillableQuantity | Représente le nombre total d’unités achetées ou consommées. |
-| BillingFrequency | Décrit si la ligne est une fréquence mensuelle ou ponctuelle. *Cela est actuellement pris en charge pour Azure RI uniquement, avec des valeurs prises en charge mensuelles. Si l’RI est acheté avec une fréquence de facturation unique, ce champ dans le fichier de rapprochement s’affiche vide.* |
+| BillingFrequency | Décrit si la ligne est une fréquence mensuelle ou ponctuelle. *Ce champ est actuellement pris en charge pour Azure RI uniquement, avec des valeurs prises en charge mensuelles. Si l’RI est acheté avec une fréquence de facturation unique, ce champ dans le fichier de rapprochement s’affiche vide.* |
 | PricingCurrency | Tarif de la ressource ou de l’offre. |
 | PCToBCExchangeRate | Taux de change appliqué pour la devise de tarification à la devise de facturation. |
 | PCToBCExchangeRateDate | Date à laquelle la devise de tarification pour la devise de facturation est déterminée. |

@@ -4,16 +4,16 @@ description: Découvrez comment résoudre les problèmes qui se posent quand vou
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: cda0b9d29c351e5365a0ff291f66ee5e2fa91ae7
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 63138dd6eaa16534cb73f41655ba728cb0c7a430
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949658"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114531"
 ---
 # <a name="customer-association-issues"></a>Problèmes liés aux associations de clients
 

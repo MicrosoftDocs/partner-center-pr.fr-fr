@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Testez les nouvelles fonctionnalités de l’Espace partenaires avant leur lancement et dites-nous ce que vous en pensez. Aidez-nous à façonner l’avenir de l’Espace partenaires !
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679396"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114850"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Testez les nouvelles fonctionnalités de l’espace partenaires et aidez-nous à définir l’avenir de l’espace partenaires
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679396"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Aidez-nous à façonner l’avenir de l’Espace partenaires !
 
-Nous publions continuellement de nouvelles fonctionnalités et fonctionnalités dans l’espace partenaires et nous souhaitons vos commentaires ! 
+Nous publions continuellement de nouvelles fonctionnalités et fonctionnalités dans l’espace partenaires et nous souhaitons vos commentaires !
 
 Nous vous invitons à tester les nouvelles fonctionnalités avant qu’elles ne soient lancées auprès de la communauté mondiale de l’Espace partenaires, et à nous faire part de vos impressions à leur sujet. Consultez la [page Annonces de l’Espace partenaires](announcements/index.md) pour plus d’informations sur les fonctionnalités à venir. Vous pourrez ainsi démarrer la planification de leur utilisation pour développer votre activité. Il peut y avoir plusieurs fonctionnalités disponibles à test drive à un moment donné.
 
