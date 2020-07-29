@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434558"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943926"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Vue d’ensemble des offres pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -117,21 +117,21 @@ Certaines offres basées sur une licence ne peuvent être achetées que sous cer
 
 Il peut y avoir différentes raisons pour lesquelles vous ne trouvez pas l’offre que vous recherchez dans le catalogue. Vous trouverez ci-dessous les éléments à vérifier si vous ne trouvez pas l’offre que vous attendez.
 
-- **Vérifiez que votre client est qualifié**. Les clients doivent remplir certains critères (« qualifications ») pour pouvoir accéder à certaines offres. Parmi ces segments spéciaux figurent Éducation, Associations et Cloud de la communauté du secteur public (GCC). Avant de signaler un problème, vérifiez d’abord que les qualifications du client sont définies en conséquence. Pour cela, vous pouvez cliquer sur le nom du client dans la liste des clients et vérifier son compte. Le cas échéant, des qualifications spéciales doivent être définies pour le compte. Si vous essayez d’acheter une offre Éducation pour un client qui n’est pas qualifié, vous ne verrez pas ces offres dans le catalogue. Pour plus d’informations sur la qualification de vos clients, consultez la [documentation sur les segments spéciaux](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers).
+- **Vérifiez que votre client est qualifié**. Les clients doivent remplir certains critères (« qualifications ») pour pouvoir accéder à certaines offres. Parmi ces segments spéciaux figurent Éducation, Associations et Cloud de la communauté du secteur public (GCC). Avant de signaler un problème, vérifiez d’abord que les qualifications du client sont définies en conséquence. Pour cela, vous pouvez cliquer sur le nom du client dans la liste des clients et vérifier son compte. Le cas échéant, des qualifications spéciales doivent être définies pour le compte. Si vous essayez d’acheter une offre Éducation pour un client qui n’est pas qualifié, vous ne verrez pas ces offres dans le catalogue. Pour plus d’informations sur la qualification de vos clients, consultez la [documentation sur les segments spéciaux](get-special-pricing-for-offers.md).
 - **Décidez si vous essayez d’acheter un module complémentaire ou une offre de base**. De nombreux services basés sur une licence comme Microsoft 365 et Dynamics 365 permettre d’acheter des offres de base dans le catalogue, mais aussi des modules complémentaires. Seules les offres de base peuvent être achetées dans le catalogue. Pour acheter des modules complémentaires, veillez dans un premier temps à acheter l’offre de base dans le catalogue, puis sélectionnez le client dans la liste des clients et l’abonnement pour l’offre de base. Les modules complémentaires peuvent être appliqués à l’offre de base dans cette page de gestion des abonnements. 
 - **Vérifiez que les produits sont disponibles sur votre marché**. De nombreux produits et services sont configurés pour être vendus uniquement aux clients de certains pays. Vous trouverez la liste des pays pris en charge dans les différents fichiers de tarifs. Les pays ayant accès aux services basés sur une licence figurent dans le tableau de la liste des offres, dans la page Tarifs et offres.
 - **Vérifiez que les offres sont disponibles dans les tarifs**. La liste des offres disponibles peut changer d’un mois à l’autre. Si vous ne trouvez pas une offre dans le catalogue, vérifiez qu’elle est disponible dans les listes de prix actuelles dans la page **Vendre > Tarification et offres**.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documents recommandés liés à l’achat d’articles dans l’Espace partenaires
 
-- [Tarification et offres dans l’Espace partenaires](https://docs.microsoft.com/partner-center/pricing-and-offers)
-- [Vue d’ensemble des offres partenaire du programme Fournisseur de solutions cloud](https://docs.microsoft.com/partner-center/csp-offers)
-- [Guide pratique pour vendre des offres à des clients du secteur Éducation et pour créer un client de ce domaine](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [Vendre à des secteurs spécialisés tels que l’éducation, les associations et le secteur public](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
-- [Règles d’achat pour les segments spéciaux](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
+- [Tarification et offres dans l’Espace partenaires](pricing-and-offers.md)
+- [Vue d’ensemble des offres partenaire du programme Fournisseur de solutions cloud](csp-offers.md)
+- [Guide pratique pour vendre des offres à des clients du secteur Éducation et pour créer un client de ce domaine](sell-to-education-customers.md)
+- [Vendre à des secteurs spécialisés tels que l’éducation, les associations et le secteur public](get-special-pricing-for-offers.md)
+- [Règles d’achat pour les segments spéciaux](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-Pour obtenir des informations sur le fonctionnement du processus de facturation, consultez [Principes de base de la facturation](https://docs.microsoft.com/partner-center/billing-basics).
+Pour obtenir des informations sur le fonctionnement du processus de facturation, consultez [Principes de base de la facturation](billing-basics.md).
 
 Pour savoir comment effectuer des achats dans le cadre du plan Azure, consultez [Acheter le plan Azure](purchase-azure-plan.md).

@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: a1937a750100450aa8c3fe0e0846ea688d284bf5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435818"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943956"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Commencer à pratiquer les prix de paiement à l’utilisation avec le plan Azure
 
@@ -48,7 +48,7 @@ Les partenaires qui n’implémentent pas les exigences de sécurité obligatoir
 - Implémentation des [paramètres de sécurité par défaut d’Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implémentation d’une solution tierce et vérification de l’application de l’authentification multifacteur pour chaque utilisateur
 
-Depuis le 1er août 2019, tous les partenaires doivent mettre en œuvre l’authentification multifacteur pour tous les utilisateurs, y compris les comptes de service, dans leur locataire de partenaire. Vous trouverez des informations détaillées sur ces exigences de sécurité dans [Exigences de sécurité des partenaires](https://docs.microsoft.com/partner-center/partner-security-requirements).
+Depuis le 1er août 2019, tous les partenaires doivent mettre en œuvre l’authentification multifacteur pour tous les utilisateurs, y compris les comptes de service, dans leur locataire de partenaire. Vous trouverez des informations détaillées sur ces exigences de sécurité dans [Exigences de sécurité des partenaires](partner-security-requirements.md).
 
 Microsoft recommande aux partenaires d’utiliser RBAC en toute diligence, en suivant les bonnes pratiques mises en œuvre via les [ressources Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 

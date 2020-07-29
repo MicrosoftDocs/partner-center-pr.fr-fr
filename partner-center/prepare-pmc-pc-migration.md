@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consultez les informations utiles et les questions fréquentes avant de transférer votre activité de Partner Membership Center vers l’Espace partenaires.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749171"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114568"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre transfert du Partner Membership Center (PMC) vers l’Espace partenaires
 
@@ -55,7 +55,7 @@ L’Espace partenaires comporte différents types de rôles qui varient en fonct
 
 **Que deviennent les rôles d’utilisateurs lors du transfert de PMC vers l’Espace partenaires ?**
 
-À l’exception de l’administrateur général MPN ou du contact principal du programme qui se charge de la migration, tous les utilisateurs de PMC perdent leur rôle d’administrateur. La personne qui effectue la migration doit attribuer des rôles dans l’Espace partenaires. Les rôles de l’Espace partenaires sont différents de ceux de PMC. Pour plus d’informations sur les rôles d’utilisateurs dans l’Espace partenaires, consultez [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md et [Passage de PMC à l’Espace partenaires](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles).
+À l’exception de l’administrateur général MPN ou du contact principal du programme qui se charge de la migration, tous les utilisateurs de PMC perdent leur rôle d’administrateur. La personne qui effectue la migration doit attribuer des rôles dans l’Espace partenaires. Les rôles de l’Espace partenaires sont différents de ceux de PMC. Pour plus d’informations sur les rôles d’utilisateurs dans l’Espace partenaires, consultez [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md et [Passage de PMC à l’Espace partenaires](move-pmc-pc-map.md#user-roles).
 
 
 **Quelle est la différence entre le profil de la société et le profil commercial ?**

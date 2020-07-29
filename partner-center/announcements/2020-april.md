@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749124"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944446"
 ---
 # <a name="april-2020-announcements"></a>Annonces d’avril 2020
 
@@ -48,7 +48,7 @@ Le 4 mai 2020, Microsoft introduira de nouvelles promotions avec remise pour O
 
 Ces promotions remplaceront l’offre d’essai Office 365 E1 en cours et diffèrent selon les méthodes suivantes :
 
-- Les partenaires vendront des références SKU annuelles Office 365 E1 ou Microsoft 365 Business Basic en tirant parti d’une promotion CSP qui applique une remise de 100 % pour les 6 premiers mois, plutôt qu’une référence SKU avec un essai unique de 6 mois. [En savoir plus sur les promotions Fournisseur de solutions Cloud](https://docs.microsoft.com/partner-center/promotions).
+- Les partenaires vendront des références SKU annuelles Office 365 E1 ou Microsoft 365 Business Basic en tirant parti d’une promotion CSP qui applique une remise de 100 % pour les 6 premiers mois, plutôt qu’une référence SKU avec un essai unique de 6 mois. [En savoir plus sur les promotions Fournisseur de solutions Cloud](../promotions.md).
 - Les commandes seront techniquement limitées aux « nouveaux clients uniquement », plutôt qu’à l’essai Office 365 E1, qui était limité aux nouveaux clients au moyen d’une stratégie écrite uniquement. [Pour en savoir plus, consultez les questions fréquentes (FAQ) pour les partenaires Microsoft](https://aka.ms/CSPCOVIDPromo).
 - Pour les clients PME/TPE, Microsoft 365 Business Basic sera inclus dans cette promotion. Cela permet de garantir que les partenaires peuvent accepter des clients ayant moins de 300 postes dans la famille de produits appropriée avec Microsoft 365 pour les PME.
 Les clients qui disposent actuellement d’une licence d’utilisation de la version d’essai d’Office 365 E1 (disponible jusqu’au 4 mai 2020) resteront sur le plan actuel. Ce changement affecte uniquement les nouveaux clients.
@@ -106,7 +106,7 @@ Voici quelques détails sur le fonctionnement de la fonctionnalité :
 ### <a name="next-steps"></a>Étapes suivantes
 
 1. Aidez dès maintenant vos clients à acheter leurs propres réservations Azure en utilisant la nouvelle fonctionnalité.
-2. [Passez en revue les ressources disponibles dans cette collection](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) qui fournissent plus d’informations, notamment une [documentation technique](https://docs.microsoft.com/partner-center/give-customers-permission), une procédure pas à pas pour les partenaires et une procédure pas à pas pour les clients.
+2. [Passez en revue les ressources disponibles dans cette collection](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) qui fournissent plus d’informations, notamment une [documentation technique](../give-customers-permission.md), une procédure pas à pas pour les partenaires et une procédure pas à pas pour les clients.
 
 _________________
 
@@ -168,7 +168,7 @@ La qualité et la continuité des mesures de sécurité et de confidentialité f
 
 Récemment, nous avons activé les protections de sécurité pour les fonctionnalités « Administration pour le compte de » pour tous les locataires partenaires, protégeant ainsi leurs entreprises et leurs clients contre les incidents liés au vol d’identité.
 
-Pour contribuer davantage à la protection des partenaires et des clients, **à partir du 1er mai 2020, nous commencerons à activer les protections des transactions de l’Espace partenaires au sein du programme Fournisseur de solutions cloud**. En raison de l’activation des protections de sécurité supplémentaires, les partenaires sont invités à utiliser l’authentification multifacteur (MFA) pour toute transaction au sein du programme Fournisseur de solutions cloud à l’aide de l’expérience utilisateur ou de l’API de l’Espace partenaires. Cela empêche tout accès non autorisé et protège leurs clients et locataires contre les incidents de sécurité liés à l’usurpation d’identité. Pour plus d’informations, consultez [cette page](https://docs.microsoft.com/partner-center/partner-security-requirements-mandating-mfa).
+Pour contribuer davantage à la protection des partenaires et des clients, **à partir du 1er mai 2020, nous commencerons à activer les protections des transactions de l’Espace partenaires au sein du programme Fournisseur de solutions cloud**. En raison de l’activation des protections de sécurité supplémentaires, les partenaires sont invités à utiliser l’authentification multifacteur (MFA) pour toute transaction au sein du programme Fournisseur de solutions cloud à l’aide de l’expérience utilisateur ou de l’API de l’Espace partenaires. Cela empêche tout accès non autorisé et protège leurs clients et locataires contre les incidents de sécurité liés à l’usurpation d’identité. Pour plus d’informations, consultez [cette page](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Étapes suivantes
 
@@ -181,9 +181,9 @@ Pour contribuer davantage à la protection des partenaires et des clients, **à 
 
 Passez en revue ces ressources pour implémenter les exigences de sécurité.
 
-- Consultez le [guide pas à pas](https://docs.microsoft.com/partner-center/partner-security-requirements) pour implémenter les exigences de sécurité des partenaires.
-- Consultez les [questions fréquentes](https://docs.microsoft.com/partner-center/partner-security-requirements-faq) et les réponses relatives aux exigences de sécurité des partenaires.
-- Consultez le [guide de vérification du statut des exigences de sécurité](https://docs.microsoft.com/partner-center/partner-security-compliance).
+- Consultez le [guide pas à pas](../partner-security-requirements.md) pour implémenter les exigences de sécurité des partenaires.
+- Consultez les [questions fréquentes](../partner-security-requirements-faq.md) et les réponses relatives aux exigences de sécurité des partenaires.
+- Consultez le [guide de vérification du statut des exigences de sécurité](../partner-security-compliance.md).
 - Accédez à des ressources supplémentaires sur la page sur l’[implémentation des exigences de sécurité des partenaires](https://partner.microsoft.com/resources/collection/partner-security-requirements#/).
 - Mettez en favoris le [Groupe communautaire d’aide sur la sécurité dans l’Espace partenaires](https://aka.ms/MPCSecurityGuidance).
 
@@ -192,7 +192,7 @@ Pour obtenir de l’aide sur les problèmes techniques, [envoyez un ticket de su
 Nous vous remercions pour votre partenariat et pour votre engagement à faire en sorte que notre écosystème repose sur la confiance.
 
 >[!NOTE] 
->Si vous utilisez des stratégies de référence et que vous n’avez pas effectué la transition vers la stratégie de sécurité par défaut ou [d’autres options d’implémentation de l’authentification multifacteur](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take), effectuez une transition dès que possible en vous référant aux [ressources clés présentées ici](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Si vous utilisez des stratégies de référence et que vous n’avez pas effectué la transition vers la stratégie de sécurité par défaut ou [d’autres options d’implémentation de l’authentification multifacteur](..\partner-security-requirements.md#actions-that-you-need-to-take), effectuez une transition dès que possible en vous référant aux [ressources clés présentées ici](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Journal des modifications
 

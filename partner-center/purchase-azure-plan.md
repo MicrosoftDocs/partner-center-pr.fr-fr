@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875255"
+ms.locfileid: "86943526"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acheter le plan Azure pour les clients et accéder aux services Azure les plus récents au tarif du paiement à l’utilisation
 
@@ -37,7 +37,7 @@ Un plan Azure s’achète de la même façon que tout autre abonnement. La princ
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Acheter":::
 
-Le partenaire doit vérifier que le client a examiné et accepté les termes du Contrat client Microsoft. Pour plus d’informations sur cette procédure, consultez [Confirmer l’acceptation du Contrat client Microsoft par le client](https://docs.microsoft.com/partner-center/confirm-customer-agreement). D’autres ressources sont disponibles dans la [bibliothèque des ressources](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Le partenaire doit vérifier que le client a examiné et accepté les termes du Contrat client Microsoft. Pour plus d’informations sur cette procédure, consultez [Confirmer l’acceptation du Contrat client Microsoft par le client](confirm-customer-agreement.md). D’autres ressources sont disponibles dans la [bibliothèque des ressources](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
 **Pour confirmer, vous** : 
 
@@ -75,9 +75,9 @@ Vous pouvez aussi acheter des réservations Microsoft Azure dans le cadre du pla
 Les réservations Azure doivent être associées à un plan Azure actif. Choisissez le plan Azure auquel vous souhaitez ajouter les réservations Azure à partir de la liste Abonnement client. 
 
 >[!Important] 
->Si le client n’a pas encore de plan Azure actif, sélectionnez Azure pour en ajouter un maintenant. Pour obtenir des instructions supplémentaires, consultez [Acheter des réservations Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
+>Si le client n’a pas encore de plan Azure actif, sélectionnez Azure pour en ajouter un maintenant. Pour obtenir des instructions supplémentaires, consultez [Acheter des réservations Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
->[!Note] 
+>[!Note]
 >Notez que l’étendue de la réservation peut uniquement être définie sur **Partagé** dans l’Espace partenaires. Pour sélectionner une étendue d’abonnement unique ou passer d’une étendue d’abonnement partagé à une étendue unique, accédez au **portail de gestion Microsoft Azure**, puis suivez les instructions ci-dessous. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Valeur Partagé pour l’étendue de la réservation":::

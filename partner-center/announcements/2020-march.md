@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286617"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943976"
 ---
 # <a name="march-2020-announcements"></a>Annonces de mars 2020
 
@@ -102,14 +102,14 @@ Le 31 août 2018, Microsoft a mis à jour les exigences d’inscription des pa
 
 Les nouvelles fonctionnalités permettant de transférer les abonnements Fournisseur de solutions cloud des locataires à facturation directe aux locataires fournisseurs indirects sont disponibles. Ces nouvelles fonctionnalités facilitent la transition des partenaires à facturation directe vers le statut de revendeurs indirects, ce qui contribue à accélérer la croissance de l’entreprise au sein du programme.
 
-Pour plus d’informations, consultez les [offres du programme Fournisseur de solutions cloud](https://docs.microsoft.com/partner-center/csp-offers).
+Pour plus d’informations, consultez les [offres du programme Fournisseur de solutions cloud](../csp-offers.md).
 
 >[!NOTE] 
->Les transferts prennent uniquement en charge les abonnements basés sur une licence et les abonnements Azure. Vous devez transférer manuellement votre plan Azure et vos achats de la place de marché commerciale. Notez que cela implique d’annuler et de renouveler les abonnements décrits dans les documents suivants : [Plan Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) et [place de marché commerciale](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Étant donné que les abonnements serveur et les réservations Azure sont des achats à usage unique, ils n’ont pas besoin d’être transférés vers un locataire fournisseur indirect. Pour plus d’informations, consultez les offres du programme Fournisseur de solutions cloud.
+>Les transferts prennent uniquement en charge les abonnements basés sur une licence et les abonnements Azure. Vous devez transférer manuellement votre plan Azure et vos achats de la place de marché commerciale. Notez que cela implique d’annuler et de renouveler les abonnements décrits dans les documents suivants : [Plan Azure](../azure-plan-lp.md) et [place de marché commerciale](../csp-commercial-marketplace-manage.md). Étant donné que les abonnements serveur et les réservations Azure sont des achats à usage unique, ils n’ont pas besoin d’être transférés vers un locataire fournisseur indirect. Pour plus d’informations, consultez les offres du programme Fournisseur de solutions cloud.
 
 ### <a name="additional-resources"></a>Ressources supplémentaires :
 
-- Article d’aide sur la [transition de partenaire de facturation directe Fournisseur de solutions cloud à revendeur indirect Fournisseur de solutions cloud](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider)
+- Article d’aide sur la [transition de partenaire de facturation directe Fournisseur de solutions cloud à revendeur indirect Fournisseur de solutions cloud](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider)
 - [Support de présentation de la transition de la facturation directe au statut de revendeur indirect](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>Étapes suivantes
