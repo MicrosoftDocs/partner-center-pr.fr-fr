@@ -15,6 +15,7 @@
 ### [Guide de migration de plusieurs entreprises vers l’Espace partenaires](move-multiple-companies.md)
 ### [Regroupement de vos entreprises](consolidate-accounts.md)
 
+
 ## Offres d’adhésion
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renouveler vos offres](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [Vérifier la propriété de votre domaine](become-global-admin.md)
 ## [Vérifier vos informations de compte](verification-responses.md)
 ## [Fusionner votre compte partenaire avec un autre compte partenaire](merge-accounts.md)
+## [Associer d’autres locataires Azure AD à votre compte Espace partenaires](multi-tenant-account.md)
 ## [Mettre à jour votre profil de partenaire](update-your-partner-profile.md)
 ## [Emplacements](manage-locations.md)
 ## [S’inscrire en tant que fournisseur de panneau de configuration](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### Bien commencer avec les incentives
 #### [Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)
 #### [Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives](incentives-payout-tax-profile-faqs.md)
 #### [Vérifier votre éligibilité aux bénéfices](incentives-confirm-your-earnings-eligibility.md)
 #### [Consulter vos paiements et programmes d’incentives](understand-incentive-payouts.md)
 #### [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)
@@ -124,7 +127,7 @@
 ## [Utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)
 ## [Types de frais de fichier de rapprochement](recon-file-charge-types.md)
 ## [Lire les fichiers de rapprochement basé sur l’utilisation quotidienne estimée dans l’Espace partenaires](daily-rated-usage-recon-files.md)
-## [Fichiers de rapprochement basé sur la licence](license-based-recon-files.md)
+## [Fichiers de rapprochement basé sur les licences](license-based-recon-files.md)
 ## [Exemples de facturation courants](common-billing-scenarios.md)
 ### [Scénarios de facturation mensuelle](common-billing-scenarios-monthly.md)
 ### [Scénarios de facturation annuelle](common-billing-scenarios-annual.md)
@@ -132,6 +135,9 @@
 ### [Facturation - lire les champs de facturation et de frais ponctuels](invoice-file.md)
 ### [Facturation basée sur la licence](license-based-billing.md)
 ### [Scénarios d’abonnements SaaS basés sur licences](common-billing-scenarios-saas.md)
+
+## [Afficher les signatures numériques - Espace partenaires Inde](digital-signature.md)
+
 ## [Taxes et exonérations fiscales](tax-and-tax-exemptions.md)
 ### [Informations sur la TVA de l’entreprise](organization-tax-info.md)
 ### [Vérifier que vous êtes crédité pour la retenue à la source](withholding-tax-credit-form.md)

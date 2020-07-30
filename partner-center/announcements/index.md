@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
+ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949855"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "87330116"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,7 +22,9 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de juillet 2020** | **Annoncé** |
 |---------|:---------|:---------|
-|Fonctions|[Incentive du fournisseur de solutions cloud (CSP) pour les offres de la Place de marché commerciale Microsoft éligibles pour l’année fiscale 2021](2020-July.md#7)|22 juillet|
+|Fonctions|[Changements à venir dans les API de l’Espace partenaires](2020-july.md#9)|28 juillet|
+|Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1-preview](2020-july.md#8)|21 juillet|
+|Fonctions|[Incentive du fournisseur de solutions cloud (CSP) pour les offres de la Place de marché commerciale Microsoft éligibles pour l’année fiscale 2021](2020-july.md#7)|22 juillet|
 |Fonctions|[Ajout de nouvelles fonctionnalités aux rapports d’insights dans l’Espace partenaires ](2020-july.md#6)|16 juillet|
 |Offres/marchés|[Logiciels perpétuels dans le programme Fournisseur de solutions cloud](2020-july.md#5)|15 juillet|
 | Offres/marchés | [Nouvelles références SKU Téléphonie Microsoft 365 Entreprise pour Teams](2020-july.md#4) | 3 juillet |
