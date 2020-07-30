@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943816"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365725"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Vérifier les informations de votre compte lors de votre inscription dans un nouveau programme de l’espace partenaires
 
-Lorsque vous vous inscrivez à un nouveau programme via l’Espace partenaires, Microsoft vérifie les informations d’inscription de compte que vous avez fournies, telles que le nom de votre société, son adresse et les détails du contact principal. Au cours de ce processus, Microsoft peut envoyer un e-mail à votre contact principal pour l’informer de l’état d’avancement de l’inscription et demander des documents supplémentaires à des fins de vérification.
+**Rôles appropriés**
+
+- Administrateur général
+- Administrateur de compte MPN
+
+Lorsque vous vous inscrivez à un nouveau programme dans l’espace partenaires, Microsoft vérifie les informations d’inscription de compte que vous avez fournies, telles que le nom de votre société, l’adresse de l’entreprise et les détails du contact principal. Au cours de ce processus, Microsoft peut envoyer un e-mail à votre contact principal pour l’informer de l’état d’avancement de l’inscription et demander des documents supplémentaires à des fins de vérification.
 
 >[!NOTE]
 >Pour vous assurer que vous recevez l’e-mail, veillez à marquer la messagerie électronique à partir de Microsoft.com en tant que domaine « sécurisé » et à vérifier les dossiers de courrier indésirable.

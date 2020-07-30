@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/10/2020
-ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
-ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
+ms.date: 07/29/2020
+ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86237969"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412435"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Découvrez comment transférer les abonnements Azure d’un client à un autre partenaire
 
@@ -32,7 +32,7 @@ Pour faire basculer les services ou abonnements Azure d’un client vers un autr
 >Actuellement, seuls les fournisseurs directs ou indirects peuvent transférer des abonnements.
 >Vous ne pouvez pas modifier les partenaires pour les abonnements de fournisseur de solutions Cloud associés aux abonnements Azure plan, Office 365, Enterprise Mobility suite ou Microsoft Dynamics CRM.
 
-**Changer de partenaire pour les abonnements Azure**
+## <a name="switch-partners-for-azure-subscriptions"></a>Changer de partenaire pour les abonnements Azure
 
 1. Pour transférer un abonnement Azure à un nouveau partenaire, le client doit démarrer le processus et contacter son partenaire d’enregistrement en écriture.
 
@@ -84,20 +84,27 @@ Pour faire basculer les services ou abonnements Azure d’un client vers un autr
    - Ajoutez le nouveau partenaire comme revendeur sur le compte :
 
      ```powershell
-     Add-AzureRMAccount -tenant "CustomerDomainName"
+     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
-     Pour trouver le customerDomainName : dans le menu de l’Espace partenaires, sélectionnez **Clients**. Dans la liste des clients, sélectionnez le client. Dans le menu client, sélectionnez **Compte** et utilisez le **Nom de domaine**.
+     >[!NOTE]
+     > L’ID de **locataire** du client s’affiche dans l’espace partenaires comme **ID Microsoft**du client. Pour trouver l’ID Microsoft (ID client) d’un client spécifique, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires. Sélectionnez ensuite **Customers** dans le menu. Recherchez le client dans la liste. Sélectionnez la flèche vers le bas pour développer la liste des clients. Vous verrez des informations sur le *nom de domaine* du client et l' **ID Microsoft**du client. Utilisez l' **ID Microsoft** à 16 chiffres dans l’applet de l’applet de code PowerShell.
 
    - Affichez les rôles du compte, y compris les anciens partenaires Fournisseur de solutions Cloud :
 
      ```powershell
-     Get-AzureRMRoleAssignment
+     Get-AzRoleAssignment
      ```
 
 7. Supprimer les autorisations d’accès obsolètes
 
    - Dans le menu de l’Espace partenaires, sélectionnez **Clients**.
-   - Développez la page de description et sélectionnez **Afficher les abonnements**.
-   - Dans le menu client, sélectionnez **Gestion des services**.
+   - Recherchez le client dans la liste. Sélectionnez (double-cliquez sur) le nom de la société. La page **abonnements** du client s’ouvre.
+   - Dans le menu des détails du client, sélectionnez **gestion des services**.
    - Sous **Microsoft&nbsp;Azure**, cliquez sur le lien pour accéder au **portail de gestion Microsoft&nbsp;Azure**.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- Téléchargez le [formulaire de transfert d’abonnement CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+- En savoir plus sur la [prise en charge de plusieurs partenaires](multipartner.md).
+- En savoir plus sur la [prise en charge de plusieurs canaux](multichannel.md).

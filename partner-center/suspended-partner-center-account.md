@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219647"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365735"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurer un compte Espace partenaires suspendu : découvrez pourquoi cela se produit et ce que vous pouvez faire pour y remédier
 
@@ -24,6 +24,10 @@ Cet article explique ce qu’il faut faire si votre compte de l’Espace partena
 
 -  Espace partenaires
 -  Espace partenaires de Microsoft Cloud for US Government
+
+**Rôles appropriés**
+
+- Administrateur général
 
 
 > [!IMPORTANT]  

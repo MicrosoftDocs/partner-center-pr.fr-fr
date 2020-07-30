@@ -9,14 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: af06cd5da4ea5a38ea272a2210bca9917bbecdd9
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436508"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365745"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Si vous ne pouvez pas vous connecter à l’espace partenaires et si vous devez réinitialiser votre mot de passe
+
+**Rôles appropriés**
+
+- Utilisateurs de l’espace partenaires
 
 Si vous avez oublié votre mot de passe et ne pouvez pas vous connecter à l’Espace partenaires, vous devez appeler le support technique. Recherchez le numéro de téléphone approprié dans [Support pour les produits d’entreprise](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_). 
 
@@ -24,7 +28,7 @@ Pour connaître les différentes façons de réinitialiser votre mot de passe et
 
 Une fois que le mot de passe de votre compte professionnel a été réinitialisé, vous pouvez accéder à l’espace partenaires. 
 
-## <a name="see-more"></a>En savoir plus
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Vérifier vos informations de compte](verification-responses.md)
 - [Réinitialiser mon mot de passe](reset-my-pasword.md)
