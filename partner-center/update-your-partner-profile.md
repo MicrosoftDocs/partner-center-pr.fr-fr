@@ -9,14 +9,19 @@ ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286577"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365715"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Vérifier les informations de votre profil de partenaire dans l’Espace partenaires
+
+**Rôles appropriés**
+
+- Administrateur général
+- Administrateur de compte MPN
 
 La première fois que vous vous connectez à l’Espace partenaires en tant qu’administrateur général, vous devez vérifier que tous les détails de votre entreprise sont corrects. Cela inclut le contact principal, le nom et l’adresse de l’entreprise légale ainsi que les informations sur les programmes. Si votre entreprise possède plusieurs emplacements, vérifiez l’exactitude de vos données de localisation. En tant qu’administrateur général, administrateur de facturation ou agent d’administration, vous pouvez également voir et mettre à jour vos informations de facturation et de fiscalité.
 
@@ -56,5 +61,7 @@ Si, lors de la migration du Partner Membership Center vers l’Espace partenaire
 Si vous êtes l’administrateur général, l’administrateur de facturation ou l’agent d’administration, vous pouvez modifier l’adresse qui apparaît sur votre facture dans votre **profil de facturation**. Toutefois, vous ne pouvez pas modifier le nom de la société sur votre facture en raison d’une limitation du système de facture.
 
  
+## <a name="next-steps"></a>Étapes suivantes
 
+- [Gérer des sites](manage-locations.md)
 

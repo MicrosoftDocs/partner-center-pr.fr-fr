@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749132"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944436"
 ---
 # <a name="february-2020-announcements"></a>Annonces de février 2020
 
@@ -70,7 +70,7 @@ _________________
 
 Les partenaires peuvent désormais inviter les clients, qu'ils soient nouveaux ou non, à consulter et accepter le Contrat client Microsoft sur un portail Microsoft authentifié (le Centre d'administration Microsoft 365).
 
-Cette nouvelle capacité signifie que [les partenaires disposent désormais de deux options](https://docs.microsoft.com/partner-center/confirm-customer-agreement) lorsqu'ils présentent le Contrat client Microsoft à leurs clients :
+Cette nouvelle capacité signifie que [les partenaires disposent désormais de deux options](../confirm-customer-agreement.md) lorsqu'ils présentent le Contrat client Microsoft à leurs clients :
 
 - **Option 1 :** Les partenaires peuvent présenter le nouveau Contrat client Microsoft aux clients de la même manière qu’ils le faisaient avant pour le Contrat Microsoft Cloud. Une fois que le client a examiné et accepté le contrat, les partenaires doivent attester de son acceptation auprès de Microsoft. Le tableau de bord de l'Espace partenaires, l'API de l'Espace partenaires et le kit de développement logiciel (SDK) .NET ont été mis à jour afin de permettre aux partenaires d'utiliser cette option pour confirmer l'acceptation par le client du Contrat client Microsoft.
 - **Option 2 (nouvelle fonctionnalité) :** Les partenaires peuvent inviter les clients à se rendre sur un portail Microsoft authentifié (le Centre d'administration Microsoft 365) pour consulter et signer le contrat. Cette option simplifie la gestion des contrats, accélère l'implémentation et allège le travail des partenaires car lorsque le client accepte directement le contrat dans le Centre d'administration Microsoft 365, il confirme en même temps qu'il en approuve les conditions.
@@ -130,7 +130,7 @@ Cela n’est pas possible et sera supprimé des listes tarifaires futures :
 
 Offre : Système téléphonique Microsoft 365 - Essai Utilisateur virtuel, ID de l’offre : `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-Ces offres sont disponibles, mais pas dans la matrice de la liste d’offres. Consultez l’ancienne matrice de la liste d’offres de janvier 2020 pour obtenir des détails sur la matrice d’offres.
+Ces offres sont disponibles, mais pas dans la matrice de liste des offres. Consultez la matrice de liste des offres de janvier 2020 pour obtenir des détails sur la matrice des offres.
 
 Offre : Support professionnel direct pour Dynamics 365 Unified Operations, ID de l’offre : `09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -175,11 +175,11 @@ Notre système indique que votre organisation utilise actuellement des stratégi
 
 ### <a name="key-considerations"></a>Considérations importantes
 
-La stratégie Paramètres de sécurité par défaut est l’une des [options](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take) que les partenaires peuvent choisir pour implémenter l’authentification multifacteur (MFA) pour répondre aux exigences de sécurité en fonction de leurs besoins métier. Elle offre un niveau de sécurité de base sans coût supplémentaire. Étudiez [le mode d'activation de l'authentification multifacteur pour votre organisation avec Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) et les principales considérations ci-dessous :
+La stratégie Paramètres de sécurité par défaut est l’une des [options](../partner-security-requirements.md#actions-that-you-need-to-take) que les partenaires peuvent choisir pour implémenter l’authentification multifacteur (MFA) pour répondre aux exigences de sécurité en fonction de leurs besoins métier. Elle offre un niveau de sécurité de base sans coût supplémentaire. Étudiez [le mode d'activation de l'authentification multifacteur pour votre organisation avec Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) et les principales considérations ci-dessous :
 
 - Pour les partenaires qui utilisent l’[accès conditionnel](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), les paramètres de sécurité par défaut ne sont pas disponibles.
-- Les paramètres de sécurité par défaut appliquent toutes les stratégies à la fois, notamment la stratégie MFA pour les administrateurs, la stratégie de protection des utilisateurs finaux et l’authentification multifacteur requise pour la gestion des services.
-- Pour l’heure, le blocage de l’authentification héritée ne s’applique pas d’office pour les partenaires. Cependant, dans la mesure où la plupart des événements liés aux identités compromises viennent de tentatives de connexion utilisant l’authentification héritée, les partenaires sont encouragés à abandonner ces anciens protocoles.
+- Les paramètres de sécurité par défaut appliquent toutes les stratégies à la fois, notamment la stratégie MFA pour les administrateurs, la stratégie de protection des utilisateurs finaux et l’authentification multifacteur nécessaire pour la gestion des services.
+- Pour l’heure, le blocage de l’authentification héritée ne s’applique pas d’office pour les partenaires. Cependant, étant donné que la plupart des événements liés aux identités compromises viennent de tentatives de connexion utilisant l’authentification héritée, les partenaires sont encouragés à abandonner ces anciens protocoles.
 - Les paramètres de sécurité par défaut excluent automatiquement le compte de synchronisation Azure AD Connect.
 - Les paramètres de sécurité par défaut, désormais en disponibilité générale, remplacent les [stratégies de référence](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) en préversion. Une fois qu’un partenaire active les paramètres de sécurité par défaut, il ne peut plus activer les stratégies de référence.
 
@@ -288,7 +288,7 @@ La [nouvelle expérience de commerce Azure proposée dans le cadre du programme 
 
 - Consulter la [documentation destinée aux développeurs](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
 - Implémenter un processus automatisé à l'aide de [la nouvelle API](https://docs.microsoft.com/partner/develop/pricing)
-- Pour toute question relative à la tarification, consultez la documentation [Tarification de plan Azure](https://docs.microsoft.com/partner-center/azure-plan-price-list).
+- Pour toute question relative à la tarification, consultez la documentation [Tarification de plan Azure](../azure-plan-price-list.md).
 - [En savoir plus sur le plan Azure et la nouvelle expérience de commerce proposée dans le cadre du programme Fournisseurs de solutions Cloud](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>Journal des modifications
@@ -324,7 +324,7 @@ Ces modifications seront mises à votre disposition au cours de la semaine du 3 
 
 ### <a name="additional-resources"></a>Ressources supplémentaires :
 
-- Consultez des informations supplémentaires sur la [création de demandes de support dans l'Espace partenaires](https://docs.microsoft.com/partner-center/report-problems-with-partner-center).
+- Consultez des informations supplémentaires sur la [création de demandes de support dans l'Espace partenaires](../report-problems-with-partner-center.md).
 
 ### <a name="change-log"></a>Journal des modifications
 
@@ -357,8 +357,8 @@ Pour plus d’informations, consultez les ressources relatives au Contrat client
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- Confirmer l’acceptation du client à l’aide de l’[API ou de l’interface utilisateur web de l’Espace partenaires](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
-- Les partenaires qui utilisent des API pour le Contrat Microsoft Cloud existant doivent modifier leur implémentation existante avec l’[API mise à jour](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+- Confirmer l’acceptation du client à l’aide de l’[API ou de l’interface utilisateur web de l’Espace partenaires](../confirm-customer-agreement.md).
+- Les partenaires qui utilisent des API pour le Contrat Microsoft Cloud existant doivent modifier leur implémentation existante avec l’[API mise à jour](../confirm-customer-agreement.md).
 - Formez vos agents et revendeurs aux [nouvelles conditions du contrat](https://www.microsoft.com/licensing/docs/customeragreement), à sa présentation et à la validation de son acceptation par le client.
 
 >[!NOTE] 

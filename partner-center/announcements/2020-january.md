@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286607"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944006"
 ---
 # <a name="january-2020-announcements"></a>Annonces de janvier 2020
 
@@ -53,7 +53,7 @@ Les partenaires peuvent désormais acquérir, approvisionner et gérer les rése
 ### <a name="additional-resources"></a>Ressources supplémentaires
 
 - Ressources du programme de fournisseur de solutions Cloud sur la page de la galerie des partenaires : [Abonnements Windows Server et SQL Server disponibles en Russie pour les fournisseurs de solutions Cloud partenaires](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
-- [En savoir plus sur l'Espace partenaires](https://docs.microsoft.com/partner-center/azure-plan-get-started)
+- [En savoir plus sur l'Espace partenaires](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>Étapes suivantes
 
@@ -61,7 +61,7 @@ Les partenaires peuvent désormais acquérir, approvisionner et gérer les rése
 
 ### <a name="questions"></a>Des questions ?
 
-- Veuillez [contacter le Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) si vous avez des questions ou des requêtes ou si vous avez besoin de plus d’informations.
+- Si vous avez des questions ou des requêtes ou si vous avez besoin de plus d’informations, [contactez le support technique](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 _________________
 
@@ -102,11 +102,11 @@ d2e1a29f-e6b7-424B-82a4-191b58678da1 (GCC High)
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-Familiarisez-vous avec la liste de prix et partagez ces informations avec tous les contacts appropriés de votre organisation, notamment votre équipe commerciale.
+Familiarisez-vous avec la liste des prix et partagez ces informations avec tous les contacts appropriés de votre organisation, notamment votre équipe commerciale.
 
 ### <a name="questions"></a>Des questions ?
 
-Pour toute question supplémentaire sur ces offres, contactez votre représentant de l’équipe des comptes Microsoft ou consultez votre communauté de partenaires Yammer.
+Pour toute question supplémentaire concernant ces offres, contactez votre représentant de l’équipe des comptes Microsoft ou consultez votre communauté de partenaires Yammer.
 
 _________________
 
@@ -136,18 +136,18 @@ Le script **PowerShell** permettant aux administrateurs informatiques de contrô
 MISE À JOUR : La semaine dernière, nous avons écouté vos commentaires concernant le déploiement de nos fonctionnalités d’achat libre-service pour les produits Power Platform. Nous remercions ceux d’entre vous qui ont fourni des commentaires ! Suite à vos commentaires, nous avons ajusté notre approche pour mieux répondre aux besoins des administrateurs informatiques et des utilisateurs finaux au sein des organisations. Nous avons apporté les modifications suivantes à notre programme :
 
 - Le 19 novembre, nous fournirons aux administrateurs informatiques un moyen de désactiver l’achat libre-service par produit via PowerShell. Plus de détails seront bientôt disponibles.
-- Pour fournir plus de temps pour préparer cette modification, nous mettons à jour le lancement des fonctionnalités d’achat libre-service pour les produits Power Platform, en commençant par Power BI le 14 janvier pour tous les clients du cloud commercial. Des informations supplémentaires seront bientôt disponibles sur PowerApps et Power Automate.
+- Pour fournir plus de temps pour préparer cette modification, nous mettons à jour le lancement des fonctionnalités d’achat libre-service pour les produits Power Platform, en commençant par Power BI le 14 janvier pour tous les clients du cloud commercial. Des informations supplémentaires seront bientôt disponibles sur Power Apps et Power Automate.
 
 Merci encore d’avoir pris le temps de nous faire part de vos commentaires. Nous sommes impatients d’établir un partenariat en continu pour aider les organisations à gagner en productivité.
 
 À mesure que le monde progresse sur le chemin de la transformation digitale, les utilisateurs finaux et les divisions des entreprises sont de plus en plus enclins à adopter et à acheter une solution logicielle en tant que service à la carte par leurs propres moyens. Nous introduisons l’achat libre-service, qui permet aux utilisateurs d’acheter une à plusieurs licences, en offrant une plus grande flexibilité et une meilleure liberté aux services, aux équipes ou à l’ensemble de l’entreprise pour créer leurs propres solutions.
 
-Nous suivons une phase de déploiement échelonnée pour les produits Microsoft Power Platform (Power BI, PowerApps, Power Automate) :
+Nous suivons une phase de déploiement échelonnée pour les produits Microsoft Power Platform (Power BI, Power Apps, Power Automate) :
 
 - La disponibilité via le libre-service commence par **Power BI le 14 janvier**.
 - Le déploiement commencera avec les clients aux États-Unis puis se développera vers d’autres zones géographiques.
 - Pour le moment, cette fonctionnalité n’est pas disponible pour les administrations, les organisations à but non lucratif et les clients du secteur de l’éducation.
-- Des informations supplémentaires seront bientôt disponibles sur PowerApps et Power Automate.
+- Des informations supplémentaires seront bientôt disponibles sur Power Apps et Power Automate.
 
 Les partenaires peuvent tirer parti des achats libre-service en créant des solutions qui s’étendent sur Azure et Power Platform. Les partenaires disposant d’un accès administratif pourront voir les différents achats Power Platform dans le Centre d’administration Microsoft 365 et les considérer comme des prospects pour leurs solutions cloud. Par exemple, un partenaire qui voit un groupe de travail adoptant Power BI aura la possibilité de créer et de vendre des tableaux de bord sophistiqués Power BI qui extraient des données à partir de bases de données SQL Azure ou d’autres applications d’entreprise. Au fur et à mesure que l’adoption se propagera au sein d’organisations à partir d’achats libre-service, les partenaires pourront également vendre une couverture Power Platform élargie à l’informatique centrale.
 
@@ -190,7 +190,7 @@ Nous vous invitons à utiliser dès à présent ce nouveau tableau de bord Insig
 ### <a name="additional-resources"></a>Ressources supplémentaires
 
 - Passez en revue ici toutes les ressources Insights couvrant l’accès, la navigation, les vues d’ensemble des rapports et l’utilisation, la façon de laisser des commentaires, etc. : [Annonce d’un nouveau tableau de bord de reporting (bêta) dans l’Espace partenaires](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
-- Des questions ? Contactez le [support partenaires](https://partner.microsoft.com/support).
+- Des questions ? [Contactez le support partenaires](https://partner.microsoft.com/support).
 
 ### <a name="change-log"></a>Journal des modifications
 
@@ -229,7 +229,7 @@ Les partenaires peuvent présenter le nouveau Contrat client Microsoft aux clien
 
 - Confirmez l’acceptation du nouveau Contrat client Microsoft avant le 31 janvier 2020.
 - Formez vos agents et revendeurs aux nouvelles conditions du contrat, à sa présentation et à la validation de son acceptation par le client. Les fournisseurs indirects doivent travailler avec les revendeurs indirects pour valider l’acceptation d’un client.
-- Les fournisseurs Facturation directe et les fournisseurs indirects qui utilisent les API devront mettre à jour l’implémentation existante afin de s’adapter au nouveau Contrat client Microsoft en utilisant l’[API mise à jour](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+- Les fournisseurs Facturation directe et les fournisseurs indirects qui utilisent les API devront mettre à jour l’implémentation existante afin de s’adapter au nouveau Contrat client Microsoft en utilisant l’[API mise à jour](../confirm-customer-agreement.md).
 - Pour confirmer l’acceptation du contrat par le client, les fournisseurs de facturation directe et les fournisseurs indirects peuvent passer par l’interface utilisateur web de l’Espace partenaires.
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>Ressources supplémentaires - Les partenaires peuvent afficher le contenu disponible dans la page [Galerie Fournisseur de solutions Microsoft Cloud](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/), notamment :
@@ -288,7 +288,7 @@ Ces offres ne doivent pas figurer dans la liste de prix et seront supprimées le
 
 - Offre : ID d’offre PowerApps par plan d’application pour les étudiants : e1f379e8-cf22-4a7d-97fd-dcf9d62fc132
 
-Ces offres ont été supprimées par erreur de la liste de prix de janvier mais elles sont toujours disponibles ; consultez les listes de prix de décembre pour connaître leur tarification. Nous prévoyons de rajouter ces offres à la liste de prix du mois prochain :
+Ces offres ont été supprimées par erreur de la liste des prix de janvier mais elles sont toujours disponibles. Consultez les listes de prix de décembre pour connaître les tarifs. Nous prévoyons de rajouter ces offres à la liste de prix du mois prochain :
 
 - ID d’offre Office 365 A1 pour le corps enseignant (pour appareil) : `0757d14e-7c57-456f-8dab-47d164f2ff1f`
 - ID d’offre Office 365 A1 pour les étudiants (pour appareil) : `bae285a9-d56b-4384-b02f-38adc61a6f12`
@@ -329,7 +329,7 @@ Le 2 janvier 2020, les offres Power Virtual Agent suivantes ont été publiée
 
 - Dynamics 365 Virtual Agent for Customer Service
 
-Consultez les informations détaillées sur les références SKU dans le fichier « Dynamics CSP Offers 1-1-20 » situé [ici](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Consultez les informations détaillées sur les références SKU dans le fichier « Dynamics CSP Offers 1-1-20 » disponible [ici](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 Biz Apps et Power Platform
 
@@ -337,7 +337,7 @@ Les offres Biz Apps et Power Platform suivantes ont été publiées le 2 janvie
 
 - Présentation des offres étudiants pour les plans PowerApps par application existants
 
-Consultez les informations détaillées sur les références SKU dans le fichier « Dynamics CSP Offers 1-1-20 » situé [ici](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Consultez les informations détaillées sur les références SKU dans le fichier « Dynamics CSP Offers 1-1-20 » disponible [ici](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 Le 1er février 2020, les offres nouvelles et mises à jour suivantes seront disponibles pour Biz Apps et Power Platform :
 
@@ -369,9 +369,9 @@ Les offres suivantes ne seront plus disponibles pour Dynamics 365 Human Resourc
 
 Informations sur les références SKU en attente
 
-Le 1er février 2020, Microsoft changera les noms de certaines familles de produits et offres afin d’aligner les noms des offres Dynamics 365 et Power Platform existants sur ceux qui sont utilisés dans d’autres canaux et régions.
+Le 1er février 2020, Microsoft change les noms de certaines familles de produits et offres afin d’aligner les noms d’offres Dynamics 365 et Power Platform existantes sur les noms utilisés dans d’autres canaux et régions.
 
-Pour connaître ces changements, consultez le fichier « Dynamics CSP Offer Name Changes – Feb 2020 » disponible [ici](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
+Pour connaître ces changements, consultez le fichier « Dynamics CSP Offer Name Changes - Feb 2020 » disponible [ici](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).
 
 ### <a name="additional-resources"></a>Ressources supplémentaires
 
@@ -379,17 +379,17 @@ Pour connaître ces changements, consultez le fichier « Dynamics CSP Offer Nam
 - [Guide des applications de réalité mixte - Page d’accueil](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [Fraude relative aux produits Biz Apps - Page d’accueil](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
 - [Produits Power Platform - Page d’accueil](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [Mises à jour des licences PowerApps et Flow 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [Mises à jour des licences Power Apps et Flow pour l’année fiscale 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licences Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- Veuillez communiquer ces informations aux contacts concernés de votre organisation.
+- Partagez ces informations avec les contacts concernés de votre organisation.
 - Si vous souhaitez en savoir plus sur les mises à jour des licences et la proposition de valeur, familiarisez-vous avec le contenu de préparation disponible à la section Ressources supplémentaires et sur PartnerSource.
 
 ### <a name="questions"></a>Des questions ?
 
-- Si vous avez des questions strictement liées à vos opérations avec Microsoft, veuillez [contacter le Support](https://partner.microsoft.com/pcv/servicerequests/create).
+- Si vous avez des questions strictement liées à vos opérations avec Microsoft, [contactez le support technique](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Journal des modifications
 

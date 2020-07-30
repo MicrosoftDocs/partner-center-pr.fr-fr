@@ -9,18 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 0fcdd4129eb61ee955ec5804ae16e346a222c45b
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265237"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365775"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gérer votre compte Espace partenaires : profils d’entreprise, informations bancaires, rôles, autorisations, etc.
 
 **S’applique à**
 
 - Espace partenaires
+ 
+**Rôles appropriés**
+
+- Administrateur général
+- Administrateur de compte MPN
 
 Le compte que vous créez dans l’Espace partenaires au moment de l’inscription comprend votre adresse e-mail professionnelle et des informations sur votre entreprise. Après avoir créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre entreprise en incluant les détails de votre support, les demandes d’exonération fiscale le cas échéant ainsi que les coordonnées du contact principal. Le compte de votre entreprise inclut également les comptes d’utilisateur de toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur des programmes d’incentives et assurer un support.
 
@@ -94,7 +99,7 @@ Pour en savoir plus sur l’inscription aux programmes de l’Espace partenaires
 
 - [Programme Place de marché commerciale](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
 - [Programme MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [Programme Fournisseur de solutions Cloud (CSP)](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Programme Fournisseur de solutions Cloud (CSP)](enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Pour en savoir plus sur l’inscription aux programmes de l’Espace partenaires, consultez aussi [Ressources du réseau Partenaires](https://partner.microsoft.com/).

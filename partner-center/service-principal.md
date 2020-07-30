@@ -9,14 +9,22 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d0507b684b213e6da5f48a250e6e61f395fd52a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7d75c5c7311feaa3ca53139f2abf2702035b1069
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436428"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365755"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Ajouter une application Azure AD (principal de service) dans l’Espace partenaires
+
+**S’applique à**
+
+- Espace partenaires
+
+**Rôles appropriés**
+
+- Administrateur général
 
 Dans le programme Place de marché commerciale de l’Espace partenaires, vous pouvez désormais ajouter une application Azure AD (principal de service) en tant qu’utilisateur dans votre compte Espace partenaires. (Vous pouviez le faire précédemment dans votre compte Portail Cloud Partner ou CPP. Maintenant que vous avez effectué la migration vers l’Espace partenaires, le compte CPP est en lecture seule.)
  
@@ -38,3 +46,7 @@ Dans le programme Place de marché commerciale de l’Espace partenaires, vous p
    - **URI d’ID d’application** : identificateur logique pour l’application Azure AD qui est présenté lors de l’envoi d’une demande d’authentification unique à Azure AD.
 
    - **Rôles de sécurité** : Les rôles **Responsable** (identique au rôle « Propriétaire » dans le Portail Cloud Partner) et **Développeur** (identique au rôle « Contributeur » dans le Portail Cloud Partner) s’appliquent au programme Place de marché commerciale dans l’Espace partenaires et peuvent être associés à cette application Azure AD.  
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Vue d’ensemble de la place de marché commerciale dans l’Espace partenaires](csp-commercial-marketplace-overview.md)

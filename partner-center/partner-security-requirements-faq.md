@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434118"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943557"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 
@@ -40,24 +40,24 @@ Selon le Contrat Partenaire Microsoft, vous devez appliquer une authentification
 
 Les partenaires qui ne respectent pas ces pratiques de sécurité risquent de ne plus pouvoir effectuer de transactions dans le cadre du programme Fournisseur de solutions Cloud, ou de ne plus pouvoir gérer des locataires de clients à l’aide des droits d’administrateur délégué.
 
-### <a name="does-this-apply-to-all-geographies"></a>Cela s’applique-t-il à toutes les zones géographiques ?
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Les exigences de sécurité s’appliquent-elles à toutes les zones géographiques ?
 
-Oui, cela s’applique à toutes les zones géographiques. Nous recommandons vivement que tous les partenaires qui effectuent des transactions par le biais d’un cloud souverain (21Vianet, gouvernement des États-Unis et Allemagne) agissent et adoptent immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas tenus de satisfaire aux nouvelles exigences de sécurité à compter du 1er août. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
+Oui, les exigences de sécurité s’appliquent à toutes les zones géographiques. Nous recommandons vivement que tous les partenaires qui effectuent des transactions par le biais d’un cloud souverain (21Vianet, gouvernement des États-Unis et Allemagne) agissent et adoptent immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas tenus de satisfaire aux nouvelles exigences de sécurité à compter du 1er août. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Est-il possible d’obtenir l’exclusion d’un compte ?
 
-Non, il n’est pas possible d’exclure un compte d’utilisateur de l’obligation d’implémentation de l’authentification MFA. Compte tenu de la nature hautement privilégiée du statut de partenaire, le Contrat Partenaire Microsoft impose l’application de l’authentification multifacteur à chaque compte d’utilisateur de votre locataire de partenaire.
+Non, il n’est pas possible d’exclure un compte d’utilisateur de l’obligation d’implémentation de l’authentification MFA. Compte tenu de la nature hautement privilégiée du statut de partenaire, le Contrat Partenaire Microsoft impose l’application de l’authentification multifacteur à chaque compte d’utilisateur de votre locataire partenaire.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Comment savoir si j’ai répondu aux exigences de sécurité du partenaire ?
 
 Vous devez effectuer les étapes ci-dessous
 
-- Vous devez répondre à toutes les exigences décrites dans [Exigences de sécurité du partenaire](https://docs.microsoft.com/partner-center/partner-security-requirements)
+- Vous devez répondre à toutes les exigences décrites dans [Exigences de sécurité du partenaire](partner-security-requirements.md)
 - Vous devez vous assurer que l’authentification multifacteur est appliquée à tous les comptes d’utilisateur de votre locataire partenaire.
 
 Pour vous aider à identifier les domaines clés dans lesquels vous pouvez prendre des mesures, nous fournissons le rapport sur le [statut des exigences de sécurité](https://partner.microsoft.com/pcv/security/compliance) qui est disponible via l’Espace partenaires.
 
-Pour plus d’informations sur le rapport sur le statut, consultez le [statut des exigences de sécurité des partenaires](https://docs.microsoft.com/partner-center/partner-security-compliance).
+Pour plus d’informations sur le rapport sur le statut, consultez le [statut des exigences de sécurité des partenaires](partner-security-compliance.md).
 
 ## <a name="required-actions"></a>Mesures à prendre
 
@@ -89,7 +89,7 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
 
     Si vous utilisez un panneau de contrôle, contactez le fournisseur concernant l’adoption du framework du modèle d’application sécurisé.
 
-    Les fournisseurs de panneaux de contrôle doivent [intégrer](https://docs.microsoft.com/partner-center/enroll-as-cpv) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
+    Les fournisseurs de panneaux de contrôle doivent [intégrer](enroll-as-cpv.md) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
 
 ## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
@@ -124,9 +124,9 @@ Oui, l’authentification MFA doit être appliquée à chaque utilisateur. Toute
 
 Les partenaires de facturation directe du programme Fournisseur de solutions Cloud doivent mettre en œuvre l’authentification MFA pour chaque utilisateur du locataire du partenaire.
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-this"></a>Je suis un revendeur indirect et j’effectue des transactions uniquement via un distributeur. Suis-je quand même concerné ?
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>Je suis un revendeur indirect et j’effectue des transactions uniquement via un distributeur. Est-ce que je dois quand même activer l’authentification multifacteur (MFA) ?
 
-Tous les revendeurs indirects sont tenus d’appliquer l’authentification MFA pour chaque utilisateur du locataire du partenaire. Il s’agit d’une action que le revendeur indirect doit effectuer.
+Tous les revendeurs indirects sont tenus d’appliquer l’authentification MFA pour chaque utilisateur du locataire du partenaire. Le revendeur indirect doit activer l’authentification MFA.
 
 ### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Je n’utilise pas l’API de l’Espace partenaires. Dois-je quand même mettre en œuvre l’authentification MFA ?
 
@@ -152,7 +152,7 @@ Non. Le respect de ces exigences de sécurité n’impacte pas la façon dont vo
 
 Non, il n’est pas nécessaire de mettre en œuvre l’authentification MFA pour chaque utilisateur sur les locataires Azure AD de votre client. Toutefois, il est recommandé de déterminer avec chaque client la meilleure façon de protéger ses utilisateurs.
 
-### <a name="can-any-user-be-excluded-from-this-requirement"></a>Un utilisateur peut-il être exclu de cette exigence ?
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>Un utilisateur peut-il être exclu de l’exigence d’authentification MFA ?
 
 Non, chaque utilisateur, notamment les comptes de service, du locataire du partenaire doit s’authentifier via l’authentification MFA.
 
@@ -162,7 +162,7 @@ Oui, les exigences de sécurité du partenaire s’appliquent au bac à sable d�
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Comment configurer un compte d’accès d’urgence (compte de secours) ?
 
-Parmi les bonnes pratiques, il est recommandé de créer un ou deux comptes d’accès d’urgence pour éviter le verrouillage accidentel de l’accès à votre locataire Azure AD. En ce qui concerne les exigences de sécurité du partenaire, il est nécessaire que chaque utilisateur s’authentifie via l’authentification MFA. Cela signifie que vous devez modifier la définition d’un compte d’accès d’urgence. Il peut s’agir d’un compte qui tire parti d’une solution tierce pour l’authentification MFA.
+Parmi les bonnes pratiques, il est recommandé de créer un ou deux comptes d’accès d’urgence pour éviter le verrouillage accidentel de l’accès à votre locataire Azure AD. En ce qui concerne les exigences de sécurité du partenaire, il est nécessaire que chaque utilisateur s’authentifie à l’aide de l’authentification MFA. Cette exigence signifie que vous devez modifier la définition d’un compte d’accès d’urgence. Il peut s’agir d’un compte qui tire parti d’une solution tierce pour l’authentification MFA.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Les services de fédération Active Directory (ADFS) sont-ils nécessaires si j’utilise une solution tierce ?
 
@@ -203,11 +203,11 @@ Tous les partenaires qui ont développé une intégration personnalisée à l’
 
 Si vous utilisez un panneau de contrôle, vous devez consulter le fournisseur au sujet de l’adoption du framework du modèle d’application sécurisé.
 
-Les fournisseurs de panneaux de contrôle doivent [intégrer](https://docs.microsoft.com/partner-center/enroll-as-cpv) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
+Les fournisseurs de panneaux de contrôle doivent [intégrer](enroll-as-cpv.md) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Le modèle d’application sécurisé doit-il uniquement être implémenté pour le kit SDK/l’API de l’Espace partenaires ?
 
-En cas d’application de l’authentification multifacteur à tous les comptes d’utilisateur, toute automatisation ou intégration destinée à s’exécuter de manière non interactive est impactée. Bien que les exigences de sécurité du partenaire nécessitent de votre part l’activation du modèle d’application sécurisé pour l’API de l’Espace partenaires, vous pouvez en tirer profit pour répondre au besoin d’un second facteur d’authentification avec l’automatisation et l’intégration. 
+En cas d’application de l’authentification multifacteur à tous les comptes d’utilisateur, toute automatisation ou intégration destinée à s’exécuter de manière non interactive est impactée. Bien que les exigences de sécurité du partenaire nécessitent de votre part l’activation du modèle d’application sécurisé pour l’API de l’Espace partenaires, vous pouvez en tirer profit pour répondre au besoin d’un second facteur d’authentification avec l’automatisation et l’intégration.
 
 >[!Note] 
 >Les ressources faisant l’objet d’un accès doivent prendre en charge l’authentification par jeton d’accès.
@@ -221,7 +221,7 @@ Vous devez implémenter le modèle d’application sécurisé si votre automatio
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Quelles sont les informations d’identification de l’utilisateur que l’administrateur d’application doit fournir durant l’exécution du processus de consentement ?
 
-Il est recommandé d’utiliser un compte de service disposant des autorisations les moins privilégiées. En ce qui concerne l’API de l’Espace partenaires, cela signifie que vous devez utiliser un compte auquel le rôle Commercial ou Agent d’administration a été attribué.
+Il est recommandé d’utiliser un compte de service disposant des autorisations les moins privilégiées. En ce qui concerne l’API de l’Espace partenaires, vous devez utiliser un compte auquel le rôle Commercial ou Agent d’administration a été attribué.
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Pourquoi l’administrateur d’application ne doit-il pas fournir les informations d’identification de l’utilisateur relatives à l’Administrateur général durant l’exécution du processus de consentement ?
 
@@ -237,17 +237,20 @@ Un fournisseur de panneau de contrôle est un éditeur de logiciels indépendant
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>Je suis un CPV. Comment m’inscrire ?
 
-Pour vous inscrire en tant que CPV (fournisseur de panneau de contrôle), suivez les recommandations fournies [ici](https://docs.microsoft.com/partner-center/enroll-as-cpv).
+Pour vous inscrire en tant que CPV (fournisseur de panneau de contrôle), suivez les recommandations fournies [ici](enroll-as-cpv.md).
 
 Les CPV doivent contacter [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) pour recevoir le lien d’inscription, et indiquer le nom d’un employé Microsoft sponsor ayant une relation commerciale avec eux ou connaissant leur entreprise. Par exemple, un responsable de développement partenaire Microsoft.
 
 Une fois que vous vous êtes inscrit à l’Espace partenaires et que vous avez inscrit vos applications, vous avez accès aux API de l’Espace partenaires. Si vous êtes un nouveau CPV, vous recevrez les informations relatives au bac à sable via une notification de l’Espace partenaires. Une fois que vous avez effectué votre inscription en tant que CPV Microsoft et que vous avez accepté le contrat CPV, vous pouvez :
 
-1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires) 
-     >[!Note] 
-     >Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
-2. Visualisez et gérez votre profil de CPV.
-3. Visualisez et gérez les utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV. Le seul rôle qu’un CPV peut avoir est celui d’administrateur général.
+1. Gérer les applications multilocataires (ajouter des applications au portail Azure, inscrire et désinscrire des applications dans l’Espace partenaires).
+
+   >[!Note]
+   >Les CPV doivent inscrire leurs applications dans l’Espace partenaires pour être autorisés à accéder aux API de l’Espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires.
+
+1. Visualisez et gérez votre profil de CPV.
+
+1. Visualisez et gérez les utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV. Un CPV peut uniquement disposer du rôle Administrateur général.
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>J’utilise le kit SDK de l’Espace partenaires. Le kit SDK adopte-t-il automatiquement le modèle d’application sécurisé ?
 
@@ -255,11 +258,11 @@ Non, vous devez suivre les instructions fournies dans le [guide du modèle d’a
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>Puis-je générer un jeton d’actualisation pour le modèle d’application sécurisé avec des comptes pour lesquels l’authentification MFA n’est pas activée ?
 
-Oui, vous pouvez générer un jeton d’actualisation à l’aide d’un compte pour lequel l’authentification MFA n’est pas mise en œuvre. Toutefois, cela est déconseillé, car un jeton généré à l’aide d’un compte pour lequel l’authentification MFA n’est pas activée n’a pas accès aux ressources en raison de l’exigence d’authentification MFA.
+Oui, vous pouvez générer un jeton d’actualisation à l’aide d’un compte pour lequel l’authentification MFA n’est pas mise en œuvre. Toutefois, cela doit être évité. Un jeton généré à l’aide d’un compte pour lequel l’authentification MFA n’est pas activée n’a pas accès aux ressources en raison de l’exigence d’authentification MFA.
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>Comment mon application doit-elle obtenir un jeton d’accès si nous activons l’authentification MFA ?
 
-Vous devez suivre le [guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf), qui explique comment procéder, tout en respectant les nouvelles exigences de sécurité. Vous trouverez un exemple de code .NET [ici](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) et un exemple de code Java [ici](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
+Vous devez suivre le [guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) qui explique comment procéder, tout en respectant les nouvelles exigences de sécurité. Vous trouverez un exemple de code .NET [ici](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) et un exemple de code Java [ici](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>En tant que CPV, est-ce que je crée une application Azure AD sur notre locataire de CPV ou sur le locataire du partenaire du programme Fournisseur de solutions Cloud ?
 
@@ -293,7 +296,7 @@ Consultez [Test des exigences de sécurité du partenaire](https://docs.microsof
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>L’authentification multifacteur m’empêche de prendre en charge mon client utilisant AOBO. Que dois-je faire ?
 
-Les contraintes techniques relatives aux exigences de sécurité du partenaire impliquent de vérifier si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Dans la négative, vous êtes redirigé vers la page de connexion et vous êtes invité à vous authentifier à nouveau. Découvrez une expérience et des conseils plus détaillés dans cette documentation [Imposer l’authentification multifacteur (MFA) à votre locataire partenaire](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Dans le scénario dans lequel votre domaine n’est pas fédéré, une fois l’authentification réussie, vous êtes invité à configurer l’authentification multifacteur. Une fois cette opération terminée, vous serez en mesure de gérer vos clients à l’aide d’AOBO. Dans le scénario dans lequel votre domaine est fédéré, vous devez vous assurer que le compte fait l’objet d’un test d’authentification multifacteur.
+Les contraintes techniques relatives aux exigences de sécurité du partenaire impliquent de vérifier si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Dans la négative, vous êtes redirigé vers la page de connexion et vous êtes invité à vous authentifier à nouveau. Découvrez une expérience et des conseils plus détaillés dans cette documentation [Imposer l’authentification multifacteur (MFA) à votre locataire partenaire](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Dans le scénario dans lequel votre domaine n’est pas fédéré, une fois l’authentification réussie, vous êtes invité à configurer l’authentification multifacteur. Une fois cette opération terminée, vous serez en mesure de gérer vos clients à l’aide des privilèges AOBO (Administrateur pour le compte de). Dans le scénario dans lequel votre domaine est fédéré, vous devez vous assurer que le compte fait l’objet d’un test d’authentification multifacteur.
 
 ## <a name="security-defaults-transition"></a>Transition vers les paramètres de sécurité par défaut
 
@@ -315,7 +318,7 @@ Pour rester conforme et réduire les interruptions, effectuez l’une des action
 
 ### <a name="how-to-get-started"></a>Mise en route
 
-- [Exigences de sécurité du partenaire : guide pas à pas](https://docs.microsoft.com/partner-center/partner-security-requirements).
+- [Exigences de sécurité du partenaire : guide pas à pas](partner-security-requirements.md).
 - Adressez vos questions et commentaires au [Groupe d’aide sur la sécurité de l’Espace partenaires](https://aka.ms/MPCSecurityGuidance).
 - Participez aux prochains webinaires pour partenaires qui ont lieu pendant les heures ouvrées. Consultez le [calendrier détaillé et les ressources ici](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
@@ -340,9 +343,8 @@ Les options de support technique pour Azure Active Directory sont disponibles vi
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Comment contacter le support en cas de perte d'accès à l'Espace partenaires ?
 
-Accédez au [Support des partenaires Microsoft](https://partner.microsoft.com/support), puis sélectionnez **Afficher toutes les options de support**. Les options permettant de contacter le Support des partenaires Microsoft s'affichent. Celles-ci incluent un numéro de téléphone pour appeler le support et une option pour converser avec le support. 
+Accédez au [Support des partenaires Microsoft](https://partner.microsoft.com/support), puis sélectionnez **Afficher toutes les options de support**. Les options permettant de contacter le Support des partenaires Microsoft s'affichent, notamment un numéro de téléphone pour appeler le support et une option pour parler avec le support.
 
-### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Où puis-je trouver plus d’informations sur les problèmes techniques courants ?
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Où est-ce que je peux trouver plus d’informations sur les problèmes techniques courants ?
 
-Vous trouverez des informations sur les problèmes techniques courants [ici](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues).
-
+Vous trouverez des informations sur les problèmes techniques courants dans [Exigences de sécurité pour les partenaires qui utilisent l’Espace partenaires ou les API de l’Espace partenaires](partner-security-requirements.md)
