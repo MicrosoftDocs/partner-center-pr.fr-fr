@@ -149,7 +149,6 @@
 
 # [Entrer en contact avec les clients](customer-accounts.md)
 ## [Ajouter un nouveau client](add-a-new-customer.md)
-## [Rechercher le nom de domaine et l’ID de répertoire de votre client](find-customer-domain-name.md)
 ## [Demander une relation de revendeur avec un client](request-a-relationship-with-a-customer.md)
 ## [Supprimer une relation de revendeur avec un client](remove-a-relationship.md)
 ## [Délégation ou révocation des privilèges d’administration aux partenaires par les clients](customers-revoke-admin-privileges.md) 
@@ -217,9 +216,12 @@
 ### [Ajouter des clients avec des offres d’essai Office 365](advisors-build-your-business.md)
 ### [Créer une offre d’achat d’Office 365](advisor-create-a-purchase-offer.md)
 # Données et analytique de l’Espace partenaires
+
 ## [Obtenir l’accès aux données et à l’analytique des utilisateurs](data-analysis-lp.md)
-## [Utiliser l’application d’analytique de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners.md)
-## [Utilisation de l’application d’analytique de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## Application Analyse de l’Espace partenaires pour Power BI
+### [Présentation de l’application Analyse de l’Espace partenaires pour Power BI](power-bi-app-for-direct-partners.md)
+### [Installer l’application Analyse de l’Espace partenaires pour Power BI](power-bi-app-for-direct-partners-install.md)
+### [Utiliser l’application Analyse de l’Espace partenaires pour Power BI](power-bi-app-for-direct-partners-use.md)
 ## [Insights de l’Espace partenaires](partner-center-insights.md)
 ### [Insights - Tableau de bord général](pci-overview-report.md)
 ### [Insights - Contrôle d’accès en fonction des rôles dans le tableau de bord Insights](pci-roles.md)
@@ -237,8 +239,6 @@
 ## [Analyser les performances des revendeurs indirects](analyze-indirect-resellers.md)
 ## [Analyser les abonnements et les licences](analyze-subscriptions-licenses.md)
 ## [Analytique Microsoft Learn](ms-learn-analytics.md)
-## [Application Analyse de l’Espace partenaires pour Power BI](power-bi-app-for-direct-partners-use.md)
-## [Installer et prévisualiser l’application Analyse de l’Espace partenaires pour Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 
 # [Collaborer avec d’autres partenaires](work-with-other-partners.md)
 ## [Tâches des fournisseurs indirects dans l’Espace partenaires](indirect-provider-tasks-in-partner-center.md)
