@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436628"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444993"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendre votre facture et votre fichier de rapprochement-Découvrez comment les trouver dans l’espace partenaires
 
@@ -36,7 +36,7 @@ Votre **facture** est un **Résumé de toutes les facturations de l’espace par
 
 Microsoft émet une facture pour tous les frais liés à une licence (par exemple, Office 365) et les frais basés sur l’utilisation (tels qu’Azure) et une facture distincte pour les frais à usage unique (par exemple, Azure RI, Marketplace ou Azure plan).
 
-Par exemple :  
+Par exemple,  
 
 **Scénario 1 [monnaie unique]**: le partenaire a acheté des licences pour l’offre 145P et O365,  
 
@@ -88,7 +88,7 @@ Voici quelques-uns des champs clés du document PDF de facture :
 
 **Frais**: montant dû dans votre devise de facturation pour la période de facturation respective. 
 
-**Crédits**: crédits (contrats SLA) ou ajustements pour les modifications apportées aux abonnements (par exemple, augmentation ou diminution du siège). 
+**Crédits**: crédits (contrats SLA) ou ajustements pour les modifications apportées aux abonnements (par exemple, augmentation ou diminution de la licence). 
 
 **Instructions de paiement**: description du paiement de votre facture, en fonction de votre région. Veillez à toujours inclure votre numéro de facture lors de l’exécution d’un paiement. 
 

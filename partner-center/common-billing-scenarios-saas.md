@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb98a45a1ddbf150c64bb7021a2d18a0abd957fd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d65d23057ea0354fc77b1cc8a9c7fb16a343b3ee
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435348"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444568"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Scénarios de facturation courants pour les transactions SaaS basées sur une licence dans l’espace partenaires
 
@@ -61,7 +61,7 @@ Dans ce scénario, vous avez acheté une référence (Silver) sous un produit et
 
 Le fichier de rapprochement inclut les frais suivants :
 
-| Date d’achat | SKU | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
+| Date d’achat | Référence | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 10/06/2019 | Argent | 10/06/2019 | 10/06/2019 | 20 $ | 1 | 20 $ | Nouveau | Abonnement SaaS à compteur personnalisé |
 | 10/06/2019 | Argent | 10/06/2019 | 10/06/2019 | 20 $ | 1 | -$20 | Convertir | Facture au prorata pour l’abonnement SaaS du compteur personnalisé |
@@ -73,7 +73,7 @@ Ce scénario décrit la facturation d’un abonnement SaaS client Meter que vous
 
 Dans ce scénario, vous avez acheté un abonnement SaaS à compteur personnalisé sur la Portail Azure. Ensuite, vous avez annulé l’abonnement à la même date.
 
-| Date d’achat | SKU | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
+| Date d’achat | Référence | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 10/06/2019 | Bronze | 10/06/2019 | 10/06/2019 | $10 | 1 | $10 | Nouveau | Abonnement SaaS à compteur personnalisé |
 | 10/06/2019 | Bronze | 10/06/2019 | 10/06/2019 | $10 | 1 | -$10 | CancelImmediate | Abonnement SaaS à compteur personnalisé |

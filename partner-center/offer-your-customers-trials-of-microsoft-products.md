@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377773"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444905"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Offrez aux clients une version d’essai gratuite de 30 jours des produits Microsoft
 
@@ -45,9 +45,9 @@ Actuellement, il n’y a **pas d’essai gratuit** pour les offres gouvernementa
 
 ## <a name="licenses-for-free-trial-offers"></a>Licences pour les offres d’essai gratuit
 
-Tous les essais gratuits proposent 25 licences. Vous ne pouvez pas modifier ce nombre au cours de la période d’évaluation. Vous ne pouvez pas ajouter ou supprimer des sièges dans la version d’évaluation gratuite. Une fois la version d’évaluation convertie en abonnement payant, vous pouvez ajouter des licences supplémentaires à l’abonnement.
+Tous les essais gratuits proposent 25 licences. Vous ne pouvez pas modifier ce nombre au cours de la période d’évaluation. Vous ne pouvez pas ajouter ou supprimer des licences dans la version d’évaluation gratuite. Une fois la version d’évaluation convertie en abonnement payant, vous pouvez ajouter des licences supplémentaires à l’abonnement.
 
-Les licences d’évaluation et les sièges doivent être attribués aux utilisateurs de la même façon que la licence des services payants.
+Les licences d’essai doivent être affectées aux utilisateurs de la même façon que la licence des services payants est attribuée.
 
 ## <a name="sign-customers-up-for-trials"></a>Signer les clients pour les versions d’évaluation
 

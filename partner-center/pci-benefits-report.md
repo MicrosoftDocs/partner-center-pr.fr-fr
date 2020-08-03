@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436708"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444890"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapport des avantages disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -31,7 +31,7 @@ En tant que partenaire Microsoft, vous pouvez accéder à un hôte d’avantages
 
 Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
 
-- Récapitulatif
+- Résumé
 - Services Cloud accordés
 - Produits logiciels
 - Abonnements Visual Studio
@@ -41,7 +41,7 @@ Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
  > [!NOTE]
  > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
-## <a name="summary"></a>Récapitulatif
+## <a name="summary"></a>Résumé
 
 La section Résumé présente les avantages offerts par les logiciels sous licence, les services Cloud (non-Azure), les abonnements Visual Studio, le support technique et certains services ou offres Go-to-Market.
 
@@ -66,7 +66,7 @@ Ce graphique présente la tendance mensuelle des licences accordées au cours de
 
 Ce graphique présente la tendance mensuelle des abonnements Visual Studio activés par rapport aux abonnements que vous avez alloués au cours de la plage de dates sélectionnée.
 
-Sélectionnez un onglet en haut du graphique pour afficher la tendance d’un abonnement Visual Studio spécifique que vous avez obtenu en tant qu’avantage. Les colonnes du graphique représentent les sièges consommés pour l’abonnement. Le graphique linéaire représente les sièges globaux affectés à l’abonnement.
+Sélectionnez un onglet en haut du graphique pour afficher la tendance d’un abonnement Visual Studio spécifique que vous avez obtenu en tant qu’avantage. Les colonnes du graphique représentent les licences consommées pour l’abonnement. Le graphique linéaire représente les licences globales affectées à l’abonnement.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Abonnements Visual Studio":::
 

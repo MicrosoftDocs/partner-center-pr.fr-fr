@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435068"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444937"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Vue d’ensemble de la place de marché commercial dans l’espace partenaires
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Vue d’ensemble de la place de marché commerciale dans l’Espace partenaires
 
 **S’applique à**
 
@@ -37,11 +37,11 @@ En tant que partenaire dans le programme CSP, vous pouvez utiliser l’espace pa
 
 Si vous êtes un partenaire du programme CSP, il existe de nombreuses activités commerciales de la place de marché que vous pouvez exécuter en ce qui concerne les offres ISV. Consultez le tableau suivant pour en savoir plus sur chaque activité.
 
-|**Pour**  |**Lire**   |
+|**Si vous souhaitez**  |**Lire**   |
 |:------------------------------------|:------------------|
 |Découvrez comment afficher ou rechercher les offres, les tarifs, les détails du produit ou les informations de contact du serveur de publication disponibles | [Découvrir les offres](csp-commercial-marketplace-discover.md) | 
 |En savoir plus sur l’achat et le déploiement d’une offre   | [Offres d’achat](csp-commercial-marketplace-purchase.md)   | 
-|Découvrez comment annuler ou renouveler un abonnement ou ajouter ou supprimer des sièges  | [Gérer les offres](csp-commercial-marketplace-manage.md) |
+|Découvrez comment annuler ou renouveler un abonnement ou ajouter ou supprimer des licences  | [Gérer les offres](csp-commercial-marketplace-manage.md) |
 |En savoir plus sur le fonctionnement de la facturation pour les achats sur la place de marché commercial | [Comprendre la facturation](csp-commercial-marketplace-billing.md) |
 |Découvrez qui est responsable des types de prise en charge des achats de logiciels ISV | [Comprendre la prise en charge](csp-commercial-marketplace-support.md) |
 |En savoir plus sur les contrats et les responsabilités des partenaires CSP et des éditeurs de logiciels indépendants dans la place de marché commerciale | [Comprendre les parties](csp-commercial-marketplace-contracting.md) |
@@ -73,7 +73,7 @@ Pour savoir où effectuer une activité de place de marché spécifique pour les
 |Pour découvrir ou Rechercher des offres disponibles  | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |
 |Pour acheter une offre  | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |
 |Pour déployer une offre achetée (configuration du compte, gestion des logiciels ou déploiement dans le locataire AAD du client)  | Système ou site Web de l’éditeur ISV  |
-|Pour annuler/renouveler des abonnements d’offre ou ajouter/supprimer des sièges | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |
+|Pour annuler/renouveler des abonnements d’offre ou ajouter/supprimer des licences | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |
 |Pour créer des utilisateurs ou gérer des autorisations  | Système ou site Web de l’éditeur ISV  |
 
 |**Pour les offres basées sur l’utilisation des éditeurs de logiciels indépendants**  |**Utilisation**  |
@@ -81,7 +81,7 @@ Pour savoir où effectuer une activité de place de marché spécifique pour les
 |Pour découvrir ou Rechercher des offres disponibles  | Tableau de bord de l’espace partenaires, API de l’espace partenaires ou Portail Azure  |
 |Pour acheter une offre  | Portail Azure  |
 |Pour déployer une offre achetée (configuration du compte, gestion des logiciels ou déploiement dans le locataire AAD du client)  | Portail Azure  |
-|Pour annuler/renouveler des abonnements d’offre ou ajouter/supprimer des sièges | Portail Azure  |
+|Pour annuler/renouveler des abonnements d’offre ou ajouter/supprimer des licences | Portail Azure  |
 |Pour créer des utilisateurs ou gérer des autorisations  | Portail Azure  |
 
 ## <a name="next-steps"></a>Étapes suivantes

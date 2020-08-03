@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377223"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444554"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Déplacez les clients basés sur des licences à partir d’autres canaux & partenaires vers le programme du fournisseur de solutions Cloud
 
@@ -28,7 +28,7 @@ Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonne
 
 1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez **demander une relation de revendeur**. Pour assurer la prise en charge des comptes multicanaux, vous devez faire la même chose.
 
-2. Une fois que le client a accepté votre invitation, vous pouvez approvisionner les abonnements et les sièges souhaités pour le client (par exemple, la même offre Office 365 que celle que le client a achetée précédemment).
+2. Une fois que le client a accepté votre invitation, vous pouvez approvisionner les abonnements et les licences souhaités pour le client (par exemple, la même offre Office 365 que celle que le client a achetée précédemment).
 
 3. Le client peut soit autoriser l’expiration des abonnements d’origine, soit les annuler. Toutefois, étant donné qu’il n’y a pas de remboursement sur les abonnements annulés, il est préférable d’attendre que les abonnements soient proches des dates d’expiration naturelles.
 

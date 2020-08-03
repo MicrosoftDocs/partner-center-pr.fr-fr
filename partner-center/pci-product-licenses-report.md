@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consultez ce rapport sur les licences de produit et apprenez à améliorer avec les produits Cloud sous licence (ou basés sur les sièges) que vous vendez ou gérez pour vos clients.
+description: Consultez ce rapport sur les licences de produit et apprenez à améliorer les produits Cloud sous licence que vous vendez ou gérez pour vos clients.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436658"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444836"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
@@ -24,9 +24,9 @@ ms.locfileid: "86436658"
 - Visionneuse de rapports
 - Visionneuse de rapports Executive
 
-Le rapport licences du produit présente l’analyse des licences pour les produits Cloud basés sur les sièges, tels que O365, Dynamics, M365, Power BI, etc. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
+Le rapport licences du produit présente l’analytique des licences pour les produits Cloud basés sur des licences, tels que O365, Dynamics, M365, Power BI, etc. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
 
-- Récapitulatif
+- Résumé
 - Répartition géographique des licences
 - Ajouts de licence
 - Distribution de licences par emplacement de partenaire, canal de vente, SKU, type de rattachement de partenaire, segment
@@ -38,7 +38,7 @@ Le rapport licences du produit présente l’analyse des licences pour les produ
 
 La section Résumé fournit une vue instantanée des indicateurs de performance clés (KPI) associés aux licences de produits Cloud vendues, déployées et utilisées. Cela vous permet de suivre l’utilisation active par rapport aux licences vendues à vos clients.
 
-- Licences : nombre actuel de licences vendues ou gérées par vous pour les produits Cloud basés sur les sièges, tels que O365, Dynamics, M365, Power BI, etc. Augmentation du pourcentage ou diminution de ces licences sur la plage de dates sélectionnée.
+- Licences : nombre actuel de licences vendues ou gérées par vous pour les produits Cloud basés sur des licences, tels que O365, Dynamics, M365, Power BI, etc. Augmentation du pourcentage ou diminution de ces licences sur la plage de dates sélectionnée.
 
 Le micro-graphique présente l’évolution du nombre de licences par mois pendant la plage de dates sélectionnée.
 

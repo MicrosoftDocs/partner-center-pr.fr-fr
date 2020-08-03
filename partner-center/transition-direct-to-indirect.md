@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944496"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444996"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
@@ -27,7 +27,7 @@ ms.locfileid: "86944496"
 
 Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre locataire direct Bill existant.
 
-## <a name="get-started"></a>Commencer
+## <a name="get-started"></a>Bien démarrer
 
 1. Vérifiez que votre profil de partenaire dans l’espace partenaires et l’ID MPN sont à jour.
 
@@ -333,7 +333,7 @@ Le partenaire de transition doit effectuer les opérations suivantes :
 
    1. S’il s’agit d’un abonnement Azure (MS-AZR-0145P), il ne sera plus listé.
 
-   2. S’il s’agit d’un abonnement basé sur les sièges (Office 365, Dynamics, Intune), il est listé avec l’état **suspendu**.
+   2. S’il s’agit d’un abonnement basé sur une licence (Office 365, Dynamics, Intune), il est listé avec l’état **suspendu**.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Abonnement suspendu":::
 
@@ -343,9 +343,9 @@ Le partenaire de transition doit effectuer les opérations suivantes :
 
 - **Le même abonnement ne peut pas être référencé par plusieurs demandes de transfert.** Une fois que vous avez créé une demande de transfert, qui inclut un abonnement existant, vous ne pouvez pas créer de demandes de transfert supplémentaires, y compris le même abonnement, jusqu’à ce que la première demande de transfert soit annulée.
 
-- **Les modules complémentaires pour les abonnements basés sur les sièges doivent être transférés en même temps que leur abonnement de base.** Lors de la création d’une demande de transfert, si vous choisissez un abonnement existant avec un ou plusieurs modules complémentaires, les modules complémentaires sont automatiquement inclus dans la demande de transfert.
+- **Les modules complémentaires pour les abonnements basés sur une licence doivent être transférés en même temps que leur abonnement de base.** Lors de la création d’une demande de transfert, si vous choisissez un abonnement existant avec un ou plusieurs modules complémentaires, les modules complémentaires sont automatiquement inclus dans la demande de transfert.
 
-- **Les modifications apportées au nombre de sièges d’un abonnement ne seront pas reflétées dans la demande de transfert existante.** Une fois que vous avez créé une demande de transfert qui comprend un abonnement existant, vous devez éviter de mettre à jour la quantité de sièges de l’abonnement (ou les modules complémentaires associés). Dans ce cas, la nouvelle quantité ne sera pas reflétée dans la demande de transfert. Une fois que le fournisseur indirect a accepté la demande de transfert, l’abonnement résultant aura l’ancienne quantité. Si vous souhaitez que la nouvelle quantité soit transférée vers le fournisseur indirect, vous devez annuler la demande de transfert existante et en recréer une nouvelle.
+- **Les modifications du nombre de licences pour un abonnement ne seront pas reflétées dans la demande de transfert existante.** Une fois que vous avez créé une demande de transfert qui comprend un abonnement existant, vous devez éviter de mettre à jour la quantité de licences de l’abonnement (ou les modules complémentaires associés). Dans ce cas, la nouvelle quantité ne sera pas reflétée dans la demande de transfert. Une fois que le fournisseur indirect a accepté la demande de transfert, l’abonnement résultant aura l’ancienne quantité. Si vous souhaitez que la nouvelle quantité soit transférée vers le fournisseur indirect, vous devez annuler la demande de transfert existante et en recréer une nouvelle.
 
 - **Tous les achats ne peuvent pas être transférés à l’aide du transfert d’abonnements auto-pris en charge.** Actuellement, vous pouvez uniquement transférer les abonnements O365 et les abonnements Azure PAYG (MS-AZR-0145P) à l’aide de cette fonctionnalité. Les autres achats, y compris les plans Azure, les instances réservées Azure, les abonnements à base de termes et les abonnements SaaS pour Azure Marketplace, ne sont pas pris en charge. Vous verrez une raison pour laquelle un abonnement ne peut pas être transféré dans la page envoyer une demande de transfert. Pour transférer ces abonnements, vous devez [Annuler l’abonnement existant](create-a-new-subscription.md#suspend-or-cancel-a-subscription) et acheter une nouvelle offre pour le client via le fournisseur indirect.
 

@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114411"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444924"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP
 
@@ -34,7 +34,7 @@ ms.locfileid: "87114411"
 Vous pouvez consolider les locataires pour votre entreprise. Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 
 >[!NOTE]  
->Vous devez être conscient de tous les abonnements approvisionnés et du nombre de sièges pour chacun de vos clients dans le compte à partir duquel vous effectuez la transition. Vous allez reconfigurer les mêmes abonnements exacts avec le même nombre de sièges sous le nouveau compte CSP central dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé.  Une fois la consolidation terminée, vous ne pouvez pas revenir à l’état précédent du locataire. L’action du client peut également être nécessaire.
+>Vous devez être conscient de tous les abonnements approvisionnés et du nombre de licences pour chacun de vos clients dans le compte à partir duquel vous effectuez la transition. Vous allez reconfigurer les mêmes abonnements exacts avec le même nombre de licences sous le nouveau compte CSP central dans le cadre du processus de migration. Utilisez la fonctionnalité d’exportation de liste pour créer une liste de clients à transférer au locataire centralisé.  Une fois la consolidation terminée, vous ne pouvez pas revenir à l’état précédent du locataire. L’action du client peut également être nécessaire.
 
 ## <a name="prepare-for-migration"></a>Préparation de la migration
 
@@ -66,7 +66,7 @@ Les clients s’affichent dans la liste des clients du partenaire après l’env
 
 4. Sélectionnez **Ajouter un abonnement**.
 
-5. Ajoutez les abonnements et le nombre de sièges corrects à partir du catalogue. Vérifiez avec les informations fournies dans les comptes de partenaire **Transition à partir de**.
+5. Ajoutez les abonnements et le nombre de licences appropriés à partir du catalogue. Vérifiez avec les informations fournies dans les comptes de partenaire **Transition à partir de**.
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="Liste des clients":::
 

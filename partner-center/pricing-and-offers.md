@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286627"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444801"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
@@ -109,7 +109,7 @@ Les services basés sur une licence peuvent être acquis comme des offres de bas
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Tarification entre Azure et non-Azure
 
-La tarification diffère selon les différents types d’offres. La tarification basée sur les licences est généralement le montant par poste (licence) pour un mois donné. La tarification basée sur l’utilisation est déterminée par l’utilisation d’une ressource donnée, avec un ID de compteur associé. Les partenaires ne sont pas facturés pour l’acquisition de l’abonnement Azure. Toutefois, les partenaires sont facturés pour les ressources consommées par différents déploiements dans le cadre de l’abonnement Azure. La tarification dans la liste de prix basée sur l’utilisation est organisée autour de différents ID de compteur de ressources dans Azure.
+La tarification diffère selon les différents types d’offres. La tarification basée sur les licences est généralement le montant par licence pour un mois donné. La tarification basée sur l’utilisation est déterminée par l’utilisation d’une ressource donnée, avec un ID de compteur associé. Les partenaires ne sont pas facturés pour l’acquisition de l’abonnement Azure. Toutefois, les partenaires sont facturés pour les ressources consommées par différents déploiements dans le cadre de l’abonnement Azure. La tarification dans la liste de prix basée sur l’utilisation est organisée autour de différents ID de compteur de ressources dans Azure.
 
 Les réservations Azure sont des achats basés sur des termes pour les machines virtuelles de type de ressource particulier. L’achat d’une réservation Azure permet à un partenaire de prépayer (conditions d’un ou trois ans) et de réserver un ordinateur virtuel donné. Les réservations enregistrent l’argent du partenaire et s’assurent que leur machine virtuelle est toujours disponible pendant la durée du terme. Un partenaire peut aligner la réservation qu’il souhaite sur les ID de compteur de ressources basés sur l’utilisation. Les ID de compteur sont cohérents au sein de la ressource, que le partenaire achète une machine virtuelle ou déploie simplement la machine virtuelle en tant que ressource basée sur l’utilisation.
 
@@ -160,8 +160,8 @@ Microsoft 365 offre de base a1 a une durée de six ans.  Les modules complément
 |**Nom de l'offre**   |**ID de l’offre**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Offre de base|
-|Office 365 a1 pour Université (pour appareil)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Extension|
-|Office 365 a1 pour les élèves (pour l’appareil)|bae285a9-d56b-4384-b02f-38adc61a6f12|Extension|
+|Office 365 a1 pour Université (pour appareil)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Composant additionnel|
+|Office 365 a1 pour les élèves (pour l’appareil)|bae285a9-d56b-4384-b02f-38adc61a6f12|Composant additionnel|
 
 Voici un résumé de la façon dont ces offres fonctionnent :
 

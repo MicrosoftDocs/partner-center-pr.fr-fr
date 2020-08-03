@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434378"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468344"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Facturation basée sur une licence dans l’espace partenaires
 
@@ -30,7 +30,7 @@ Lorsque vous achetez des produits ou des services en ligne dans l’espace parte
 
 ## <a name="license-billing-frequency"></a>Fréquence de facturation de la licence
 
-Vous pouvez choisir d’être facturé pour les licences une fois par mois (**facturation mensuelle**) ou une fois par an (**facturation annuelle**). Pour plus d’informations sur la **fréquence de facturation**, consultez [les différences de facturation mensuelle et annuelle](billing-annual-monthly.md).
+Vous pouvez choisir d’être facturé pour les licences une fois par mois (**facturation mensuelle**) ou une fois par an (**facturation annuelle**). 
 
 ## <a name="billing-date-for-licenses"></a>Date de facturation des licences
 
@@ -55,14 +55,12 @@ Si vous suspendez un abonnement dans les mois 2-12, vous êtes crédité au pror
 
 ## <a name="license-renewal"></a>Renouvellement de licence
 
-Tous les abonnements basés sur une licence sont renouvelés à l’issue de 12 mois suivant le début du paiement.
+Tous les abonnements basés sur des licences renouvellent automatiquement 12 mois après le début du paiement.
 
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Vue d’ensemble de la facturation dans l’Espace partenaires](billing-basics.md)
 
 - [Types de facturation dans l’Espace partenaires](billing-different-types.md)
-
-- [Différences entre les facturations mensuelle et annuelle](billing-annual-monthly.md)
 
 - [Articles principaux sur la facturation et la fiscalité](billing.md)

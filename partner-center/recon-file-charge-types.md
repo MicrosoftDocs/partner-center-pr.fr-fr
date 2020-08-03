@@ -1,5 +1,5 @@
 ---
-title: Types de frais de fichier de réconciliation
+title: Types de frais de fichier de rapprochement
 ms.topic: article
 ms.date: 06/05/2020
 description: Découvrez les types de frais (par exemple, basés sur une licence, basés sur l’utilisation et une fois), les crédits et les remises dans les fichiers de rapprochement de l’espace partenaires.
@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949303"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444772"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Comprendre les différents types de frais dans les fichiers de rapprochement de l’espace partenaires
 
@@ -45,10 +45,10 @@ Pour mapper ces frais basés sur des licences à votre facture, faites la somme 
 | Description des frais (colonne ChargeType dans le fichier de rapprochement) | Explication des frais |
 | ------------------------------------------------------------- | ------------------ |
 | Frais d’activation | Montant facturé au client lorsqu’il utilise l’abonnement après l’achat. |
-| Frais d’annulation | Frais au prorata remboursés au client lors de la modification des sièges associés. |
-| Annuler le taux d’instance | Frais au prorata annulés lorsque l’abonnement du client avec abonnement mensuel est suspendu et que les sièges associés ont été modifiés au cours du même mois. |
+| Frais d’annulation | Frais au prorata remboursés au client lors de la modification des licences associées. |
+| Annuler le taux d’instance | Frais au prorata annulés lorsque l’abonnement du client avec abonnement mensuel est suspendu et que les licences associées ont été modifiées dans le même mois. |
 | Frais de cycle | Frais périodiques pour un abonnement. |
-| Instance de cycle au prorata | Frais au prorata calculés par le client lors de la modification des sièges associés. |
+| Instance de cycle au prorata | Frais au prorata calculés par le client lors de la modification des licences associées. |
 | Frais liés au prorata en cas d’annulation | Remboursement calculé au prorata pour la partie inutilisée du service lors de l’annulation. |
 | Frais liés au prorata en cas de conversion hors de l’offre actuelle | Frais facturés au prorata après la conversion de l’abonnement mensuel actuel en abonnement annuel. |
 | Frais liés au prorata lors de la conversion vers une nouvelle offre | Frais au prorata après conversion d’un abonnement mensuel en nouvel abonnement annuel. |
@@ -68,7 +68,7 @@ Pour mapper ces frais à la fois sur votre facture, faites la somme de la colonn
 | addQuantity | Utilisé dans le remboursement de l’achat d’origine et la nouvelle quantité après une augmentation. |
 | removeQuantity | Utilisé dans le remboursement de l’achat d’origine et la nouvelle quantité après une diminution. |
 | Annuler | Utilisé lorsqu’un abonnement est annulé. |
-| Convertir | Utilisé lors de la mise à niveau d’une licence, mais le nombre de sièges reste inchangé. |
+| Convertir | Utilisé lors de la mise à niveau d’une licence, mais le nombre de licences reste inchangé. |
 
 ## <a name="usage-charges"></a>Frais d'utilisation
 

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435588"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468517"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Types de facturation dans l’espace partenaires : comprend la facturation basée sur une licence, l’utilisation et la facturation unique.
 
@@ -34,8 +34,6 @@ ms.locfileid: "86435588"
 Vous êtes facturé pour les achats de l’espace partenaires en fonction des produits, des solutions et des services que vous achetez pour le compte de vos clients. Les types de facturation sont les suivants :
 
 - [**Facturation basée sur une licence**](license-based-billing.md), où vous êtes facturé par licence (et non par utilisation de licence).
-- [**Facturation basée sur l’utilisation**](usage-based-billing.md), où vous êtes facturé pour les taux d’utilisation mensuels.
-- [**Facturation pour une période unique et sélection de frais récurrents**](one-time-and-recurring-billing.md), où vous payez à l’avance un terme prédéfini pour les produits ISV Microsoft et tiers.
 - Facturation des transactions SaaS basées sur des licences (voir [**les scénarios de facturation courants pour les frais Saas**](common-billing-scenarios-saas.md)).
 
 Selon les types de produits que vous achetez pour vos clients, vous pouvez constater des périodes de facturation distinctes et être facturé à des jours différents du même mois.

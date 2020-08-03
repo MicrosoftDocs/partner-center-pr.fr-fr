@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265204"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444962"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Fusionner votre compte partenaire avec un autre compte partenaire
 
@@ -65,7 +65,7 @@ Si vous décidez d’accepter l’invitation pour fusionner les comptes : · Vo
 
   - Compétence : la société partenaire recevra un package d’avantages centraux, associé à sa meilleure réalisation, ainsi que les avantages spécifiques aux compétences que le partenaire est éligible pour chaque compte global partenaire.
 
-- Tous les avantages sont soumis au [Guide d’utilisation de l’Microsoft Partner Network avantages](https://aka.ms/partner-benefits-use-guide). Par exemple : un jeton Office 365 E3 activé est fonctionnel pendant douze (12) mois après l’activation. Une fois qu’un jeton a été activé pour les sièges sur un locataire, ces sièges ne peuvent pas être déplacés vers un autre locataire.
+- Tous les avantages sont soumis au [Guide d’utilisation de l’Microsoft Partner Network avantages](https://aka.ms/partner-benefits-use-guide). Par exemple : un jeton Office 365 E3 activé est fonctionnel pendant douze (12) mois après l’activation. Une fois qu’un jeton a été activé pour des licences sur un locataire, ces licences ne peuvent pas être déplacées vers un autre locataire.
 
 - Les associations d’ID MCP pour les deux sociétés seront conservées et associées à l’ID MPN PGA.
 

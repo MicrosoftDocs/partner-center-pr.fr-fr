@@ -8,12 +8,12 @@ description: Consultez les réponses aux questions fréquemment posées (FAQ) su
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: ea143c49c9dd032910eb3b93b38845c896fcf3dc
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943906"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444552"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Forum aux questions (FAQ) pour l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -51,11 +51,11 @@ Le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvern
 
 -   Intégration : les partenaires doivent intégrer le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis séparément de CSP Commercial.
 
--   Disponibilité du produit : les Azure Government et les services basés sur les sièges comme Office 365, Enterprise Mobility + Security et Dynamics 365 sont disponibles dans le programme CSP pour Microsoft Government Cloud. 
+-   Disponibilité du produit : les Azure Government et les services basés sur une licence comme Office 365, Enterprise Mobility + Security et Dynamics 365 sont disponibles dans le programme CSP pour Microsoft Government Cloud. 
 
 -   Signataires : le contrat de revendeur Microsoft Cloud (MCRA) a été mis à jour pour refléter les conditions spécifiques au gouvernement.
 
--   Fonctionnalités de l’Espace partenaires : certaines fonctionnalités de l’Espace partenaires ne sont pas activées pour le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis afin de répondre aux exigences en matière de réglementation et de conformité. Les partenaires peuvent utiliser Azure Active Directory (Azure AD) ou [l’API Graph](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) à la place pour effectuer des tâches liées à la gestion d’utilisateurs et de groupes. La fonctionnalité de demande de relation permettant la prise en charge de scénarios impliquant plusieurs canaux et partenaires sera disponible après le lancement, une fois que les services basés sur les sièges seront disponibles dans le cadre du programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis.
+-   Fonctionnalités de l’Espace partenaires : certaines fonctionnalités de l’Espace partenaires ne sont pas activées pour le programme Fournisseur de solutions Cloud de Microsoft Cloud pour le gouvernement des États-Unis afin de répondre aux exigences en matière de réglementation et de conformité. Les partenaires peuvent utiliser Azure Active Directory (Azure AD) ou [l’API Graph](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) à la place pour effectuer des tâches liées à la gestion d’utilisateurs et de groupes. La fonctionnalité de demande de relation pour la prise en charge de scénarios multicanaux et multipartenaires sera disponible après le lancement lorsque les services basés sur les licences seront disponibles sur CSP pour les Microsoft Cloud pour le gouvernement des États-Unis.
 
 **Je ne suis pas encore partenaire CSP. Où puis-je trouver plus d’informations sur la façon de devenir partenaire CSP ?**
 

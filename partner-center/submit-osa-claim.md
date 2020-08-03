@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943676"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468343"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Créer une association client via le modèle CPOR : à utiliser pour les clients Microsoft 365 et Dynamics 365
 
@@ -30,9 +30,9 @@ Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
 - **ID MPN** de votre entité qui effectue la revendication
 
-- Nom de **domaine** du client [Rechercher ce](find-customer-domain-name.md)
+- Nom de **domaine** du client [Rechercher ce](find-domain-name.md)
 
-- ID de **répertoire** ou **ID de locataire** du client [Rechercher ce](find-customer-domain-name.md)
+- ID de **répertoire** ou **ID de locataire** du client [Rechercher ce](find-domain-name.md)
 
 - La **zone**de la solution, telle que Business Applications ou Microsoft 365
 
@@ -66,7 +66,7 @@ Vous devez également comprendre les points suivants :
 
 2. En haut de la page des associations de clients, sélectionnez **+ Association client**.
 
-3. Sélectionnez l' **ID MPN** de l’emplacement partenaire à associer au client, puis ajoutez le nom de domaine et l’ID de répertoire du client. [Où sont-ils ?](find-customer-domain-name.md)
+3. Sélectionnez l’**ID MPN** du site partenaire à associer au client, puis ajoutez le nom du domaine et l’ID d’annuaire du client. [Rechercher](find-domain-name.md)
 
 4. Sélectionnez **Continuer**.
 
@@ -76,24 +76,24 @@ Vous devez également comprendre les points suivants :
    >
    >Si vous sélectionnez Business Applications, sélectionnez **utilisation et/ou prévente**, ou association de **chiffre d’affaires**, puis sélectionnez **Continuer**. 
 
-   >Si vous sélectionnez l’Association chiffre d’affaires, vous serez invité à fournir des informations légèrement différentes de celles indiquées ci-dessous.
+   >Si vous sélectionnez Revenue association, vous serez invité à fournir des informations légèrement différentes de celles indiquées ci-dessous.
 
 6. Entrez les informations appropriées dans la page **associer un client** , puis sélectionnez **créer une revendication**.
 
 7. Sélectionnez le ou les produits associés à cette association de clients, puis sélectionnez **Continuer**.
 
-8. Renseignez les informations de contact du client et les coordonnées de votre société. Tous les champs sont obligatoires. 
+8. Renseignez les informations de contact du client, ainsi que les coordonnées de votre société. Tous les champs sont obligatoires. 
 
    >[!NOTE]
    >Si votre produit est Dynamics 365 et que le produit que vous choisissez a plusieurs abonnements pour ce client particulier, vous devez également entrer l’ID d’abonnement.
 
-9. Fournissez votre preuve d’exécution (POE). Vous pouvez le faire glisser vers la zone, accéder à votre propre documentation de support ou utiliser un modèle en sélectionnant **Télécharger le modèle**. 
+9. Fournissez votre preuve d’exécution (PoE). Vous pouvez la faire glisser vers la zone prévue, accéder à votre propre documentation de support ou utiliser un modèle en sélectionnant **Download template** (Télécharger un modèle). 
 
-10. Ajoutez et enregistrez des commentaires si vous le souhaitez, puis sélectionnez **Envoyer une revendication**. Nous vous enverrons un e-mail au client demandant l’approbation de votre association client.
+10. Ajoutez puis enregistrez des commentaires si vous le souhaitez, puis sélectionnez **Submit claim** (Envoyer une demande). Nous enverrons un e-mail au client qui demande l’approbation de votre association client.
 
    >[!NOTE]
    >Une fois que vous avez envoyé votre association client, vous ne pouvez plus la modifier.
 
-L’état de votre association client s’affiche dans le champ **État** .
+L’état de votre association client s’affiche dans le champ **Status** (État).
 
-Sélectionnez **historique** pour afficher l’historique d’une association client.
+Sélectionnez **History** (Historique) pour afficher l’historique d’une association client.

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377693"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444920"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Comprendre les champs des fichiers de rapprochement basés sur les licences de l’espace partenaires
 
@@ -46,11 +46,11 @@ Pour rapprocher vos modifications des commandes d’un client, comparez le **Syn
 | OfferName | Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix. | *Microsoft Office 365 (Plan&amp;nbsp;E3)* |
 | SubscriptionStartDate | Date de début de l’abonnement. L’heure est toujours définie sur le début de la journée, 0:00. Ce champ est défini sur le jour après l’envoi de la commande. Utilisé conjointement avec le **SubscriptionEndDate** pour déterminer : si le client est encore au cours de la première année de l’abonnement, ou si l’abonnement a été renouvelé pour l’année suivante. | *2/1/2019 0:00* |
 | SubscriptionEndDate | Date de fin de l’abonnement. L’heure est toujours définie sur le début de la journée, 0:00. *12 mois plus **x** jours après la date de début* , à aligner sur la date de facturation du partenaire ou sur *12 mois à compter de la date de renouvellement*. Lors du renouvellement, les prix sont mis à jour selon la liste des prix en vigueur. La communication avec les clients peut être nécessaire avant le renouvellement automatique. | *2/1/2019 0:00* |
-| ChargeStartDate | Date de début des frais. L’heure est toujours définie sur le début de la journée, 0:00. Utilisé pour calculer les frais quotidiens (*proratas* ) lorsqu’un client change le numéro du siège. | *2/1/2019 0:00* |
-| ChargeEndDate | Jour de fin des frais. L’heure indique toujours la fin de la journée, 23:59. Utilisé pour calculer les frais quotidiens (*proratas* ) lorsqu’un client change le numéro du siège. | *2/28/2019 23:59* |
+| ChargeStartDate | Date de début des frais. L’heure est toujours définie sur le début de la journée, 0:00. Utilisé pour calculer les frais quotidiens (*proratas* ) lorsqu’un client change de numéro de licence. | *2/1/2019 0:00* |
+| ChargeEndDate | Jour de fin des frais. L’heure indique toujours la fin de la journée, 23:59. Utilisé pour calculer les frais quotidiens (*proratas* ) lorsqu’un client change de numéro de licence. | *2/28/2019 23:59* |
 | ChargeType | [Type de frais ou d'](recon-file-charge-types.md) ajustement. | Consultez [types de frais](recon-file-charge-types.md). |
-| UnitPrice | Tarif par siège, tel qu’il a été publié dans le pricelist au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *6,82* |
-| Quantité | Nombre de sièges. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *2* |
+| UnitPrice | Prix par licence, tel que publié dans le pricelist au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *6,82* |
+| Quantité | Nombre de licences. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *2* |
 | Montant | Prix total pour la quantité. Permet de vérifier si le calcul de la quantité correspond à la façon dont vous calculez cette valeur pour vos clients. | *13.32* |
 | TotalOtherDiscount | Montant de la remise appliquée à ces frais. Les licences de produits incluses dans une compétence ou des cartes, ou les nouveaux abonnements éligibles à un Incentive, comportent également un montant de remise dans cette colonne. | *2,32* |
 | Sous-total | Total avant impôt. Vérifie si votre sous-total correspond au total attendu, en cas de remise. | *11* |

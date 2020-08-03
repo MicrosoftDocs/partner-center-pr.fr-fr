@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113976"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444765"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Fonctionnalités de facture directe restreintes et exigences requises pour les partenaires de facturation directe de fournisseurs de solutions Cloud  
 
@@ -43,9 +43,9 @@ Si vos capacités de facturation directe ont été restreintes, vous ne pouvez p
 
 - Abonnements Azure
 
-- Abonnements basés sur les sièges
+- Abonnements basés sur une licence
 
-- Ajoutez de nouveaux modules complémentaires aux abonnements basés sur les sièges existants.
+- Ajoutez de nouveaux modules complémentaires aux abonnements existants basés sur une licence.
 
 - Achetez des logiciels et des produits de réservation à l’heure (par exemple, les abonnements logiciels, les logiciels perpétuelles et les instances de machines virtuelles réservées Azure).
 
@@ -55,9 +55,9 @@ Les abonnements à facture directe existants ne sont pas affectés. Ils restent 
 
 - Suspendre les abonnements existants
 
-- Ajuster le nombre de sièges des abonnements basés sur les sièges existants
+- Ajuster le nombre de licences des abonnements basés sur une licence existants
 
-- Ajustez le nombre de sièges des modules complémentaires existants à un abonnement. 
+- Ajustez le nombre de licences des modules complémentaires existants à un abonnement. 
  
     >[!Note] 
     >Vous ne pouvez pas ajouter de nouveaux modules complémentaires aux abonnements existants, car ils sont traités comme un nouvel achat.
