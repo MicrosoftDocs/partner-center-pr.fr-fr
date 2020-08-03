@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330116"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479082"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de juillet 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Changements dans les lancements d’appels sortants étendus de Téléphonie et Audioconférence](2020-july.md#10)|31 juillet|
 |Fonctions|[Changements à venir dans les API de l’Espace partenaires](2020-july.md#9)|28 juillet|
 |Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1-preview](2020-july.md#8)|21 juillet|
 |Fonctions|[Incentive du fournisseur de solutions cloud (CSP) pour les offres de la Place de marché commerciale Microsoft éligibles pour l’année fiscale 2021](2020-july.md#7)|22 juillet|
