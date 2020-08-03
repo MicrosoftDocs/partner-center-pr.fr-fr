@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444772"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479112"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Comprendre les différents types de frais dans les fichiers de rapprochement de l’espace partenaires
 
@@ -52,8 +52,7 @@ Pour mapper ces frais basés sur des licences à votre facture, faites la somme 
 | Frais liés au prorata en cas d’annulation | Remboursement calculé au prorata pour la partie inutilisée du service lors de l’annulation. |
 | Frais liés au prorata en cas de conversion hors de l’offre actuelle | Frais facturés au prorata après la conversion de l’abonnement mensuel actuel en abonnement annuel. |
 | Frais liés au prorata lors de la conversion vers une nouvelle offre | Frais au prorata après conversion d’un abonnement mensuel en nouvel abonnement annuel. |
-| Frais au prorata à l’achat | Type de frais d’un abonnement lors de l’utilisation de la facturation annuelle. |
-| Frais d’achat | Type de frais d’un abonnement lors de l’utilisation de la facturation mensuelle. |
+| Frais au prorata à l’achat | Type de frais d’un abonnement lors de l’utilisation de la facturation mensuelle ou annuelle. |
 | Frais liés au prorata lors du renouvellement | Frais au prorata lors du renouvellement de l’abonnement. |
 | Frais de renouvellement | Facturation pour le renouvellement d’un abonnement |
 | Frais de prorata lors de l’activation | Frais au prorata de l’activation jusqu’à la fin de la période de facturation. |
