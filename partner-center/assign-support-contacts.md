@@ -1,6 +1,6 @@
 ---
 title: Affecter des contacts de support pour les clients
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2963ac7fbcba36d61782e49a4696f95a86bf95b8
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435948"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527665"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Attribuer un revendeur en tant que contact du support technique pour les clients
 
@@ -36,7 +36,7 @@ Une fois que vous avez configuré les contacts de support, les clients voient le
 
 Cela peut être utilisé pour les scénarios [multi-partenaires](multipartner.md) et [multicanaux](multichannel.md) . 
 
-<a href="" id="assigncontacts"></a>
+
 ## <a name="assign-contacts"></a>Affecter des contacts
 
 1.  Commencez par [demander une relation](request-a-relationship-with-a-customer.md) avec votre revendeur de produits désigné. Négociez un contrat de support avec eux pour gérer le support technique.

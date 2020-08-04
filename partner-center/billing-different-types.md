@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468517"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527605"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Types de facturation dans l’espace partenaires : comprend la facturation basée sur une licence, l’utilisation et la facturation unique.
 
@@ -39,3 +39,7 @@ Vous êtes facturé pour les achats de l’espace partenaires en fonction des pr
 Selon les types de produits que vous achetez pour vos clients, vous pouvez constater des périodes de facturation distinctes et être facturé à des jours différents du même mois.
 
 Si vous avez choisi d’être facturé mensuellement ou si vous avez acheté des produits basés sur l’utilisation qui sont facturés tous les mois, la date de facturation mensuelle est le jour du mois que vous avez sélectionné lorsque vous avez créé votre compte CSP dans l’espace partenaires. Une fois votre compte CSP créé, Microsoft envoie un e-mail de confirmation qui comprend la date de facturation. Une fois créée, cette date ne peut pas être modifiée.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Comprendre votre facture et votre fichier de rapprochement-Découvrez comment les trouver dans l’espace partenaires](read-your-bill.md)

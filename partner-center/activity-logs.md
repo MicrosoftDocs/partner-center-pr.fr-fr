@@ -1,6 +1,6 @@
 ---
 title: Obtenir des Insights sur les journaux d’activité des clients
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 06cc76ee5689bbce5e8017f6bc5a664ff130c1ec
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436398"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527415"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Afficher ou exporter les journaux d’activité client pour plus d’informations sur les transactions client
 

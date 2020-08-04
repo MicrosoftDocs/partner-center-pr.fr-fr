@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436178"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526945"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenir des données sur les performances de vos clients et abonnements Azure
 
@@ -32,12 +32,14 @@ ms.locfileid: "86436178"
 
 Les données prennent des décisions commerciales. Utilisez les mesures de la page **utilisation d’Azure** pour identifier les réussites et les zones qui nécessitent une attention particulière. Utilisez ces informations lorsque vous planifiez de nouveaux objectifs commerciaux.
 
+Pour accéder à l' **utilisation d’Azure**, connectez-vous au [tableau de bord](https:/partner.microsoft.com/dashboard)de l’espace partenaires. Sélectionnez **Analytics** dans le menu de l’espace partenaires, puis sélectionnez **utilisation d’Azure**.
+
 > [!NOTE]
 > Azure usage Analytics est disponible uniquement pour les partenaires du programme fournisseur de solutions Cloud.
 
 Nous effectuons le suivi des mesures suivantes :
 
-## <a name="summary"></a>Récapitulatif
+## <a name="summary"></a>Résumé
 
 - Nombre **total d’abonnements Azure vendus**: nombre d’abonnements vendus au cours de la période spécifiée  
 - **Clients avec utilisation**: nombre de clients avec utilisation d’Azure dans l’intervalle de temps spécifié  
@@ -67,3 +69,7 @@ Cette section indique le risque d’évolution prédite pour les abonnements Azu
 ## <a name="azure-subscription-retention"></a>Rétention des abonnements Azure
 
 - Nombre d’abonnements qui ont été renouvelés.
+
+ ## <a name="next-steps"></a>Étapes suivantes
+
+- [Acheter le plan Azure pour les clients & accéder aux derniers services Azure au tarif du paiement à l’accès](purchase-azure-plan.md)

@@ -3,18 +3,18 @@ title: Demandes de coopération aux incentives
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Découvrez comment soumettre une demande de remboursement réussie pour vos incentives en organisant la documentation, les factures, les déclarations et les preuves d’exécution appropriées.
 author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 72b19b1edd1d63d89472168c4210edcbeac7b837
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435418"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527565"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Incentive - Vue d’ensemble des revendications de coopération
 

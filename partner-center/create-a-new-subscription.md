@@ -1,6 +1,6 @@
 ---
 title: Créer des abonnements clients dans l’espace partenaires
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949835"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527802"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 

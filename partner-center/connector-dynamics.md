@@ -1,6 +1,6 @@
 ---
 title: Connecteur de la co-vente pour Dynamics 365 CRM Partner Center
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: Synchroniser vos références dans l’espace partenaires à l’ai
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435448"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527575"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -28,7 +28,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
-|**Explique**   |**Détails**   |**Liens**   |
+|**Rubriques**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
 |Covente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 

@@ -1,6 +1,6 @@
 ---
 title: Créer et gérer une revendication d’incentives | Espace partenaires
-ms.topic: article
+ms.topic: how-to
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a4be2158c0879cdace97b26f79a37d767624c304
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 431b4fa095ecf87f1174d8c5570463bd3f79f21b
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114855"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527792"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Créer et gérer une revendication d’incentive
 
@@ -37,7 +37,7 @@ Vous pouvez lancer une revendication d’incentives à partir de l’espace part
 
 4.  Une fois que vous avez rempli le formulaire initial et sélectionné **créer une revendication**, vous êtes redirigé vers la page de détails de la demande dans laquelle vous pourrez ajouter des factures, des CSR, des documents de preuve et des mesures. Vous pouvez également ajouter des informations supplémentaires si nécessaire.
 
-La page de détails des revendications vous permet de demander à d’autres personnes de votre organisation de télécharger la documentation sur le formulaire. Pour chacun des documents de prise en charge que vous téléchargez, vous pouvez fournir des informations explicatives. 
+La page des informations de demandes vous permet de demander à d’autres personnes de votre organisation de charger de la documentation dans le formulaire. Pour chacun des documents de support que vous chargez, vous pouvez fournir des informations explicatives. 
 
 ### <a name="manage-your-claims"></a>Gérer vos revendications
 

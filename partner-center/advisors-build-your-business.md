@@ -1,21 +1,31 @@
 ---
-title: Ajouter des clients avec les offres d’essai Office 365
+title: Ajouter des clients avec des offres d’essai Office 365
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Découvrez comment les conseillers Microsoft autorisés peuvent augmenter leurs abonnements Office 365. Créez et envoyez des invitations à la version d’évaluation d’Office 365 et achetez des offres aux clients.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1dc96c2947da8ab37787e406d40400071a3b31
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436258"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527005"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Conseillers : créez votre base de clients avec des offres d’essai et des offres d’achat Office 365
+
+**S’applique à**
+
+- Espace partenaires
+ 
+**Rôles appropriés**
+
+- Conseillers
+
 
 En tant que Microsoft Advisor agréé, l' **espace partenaires** vous offre la possibilité de développer votre base de clients et de créer des relations durables avec vos clients. Avec l’espace partenaires, vous pouvez envoyer des invitations à la version d’évaluation de vos clients et des offres d’achat, et pour leur proposer des services d’administration délégués, en fonction des services que vous êtes autorisé à fournir.
 

@@ -1,6 +1,6 @@
 ---
 title: Connecteur de covente pour Salesforce CRM Partner Center
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: Synchroniser vos références dans l’espace partenaires avec votr
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 4f636da49504c69c1e0e44c176fb76a4d7f8a78e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302376"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527832"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -28,7 +28,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
-|**Explique**   |**Détails**   |**Liens**   |
+|**Rubriques**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
 |Co-vente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -234,7 +234,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
    |---------------------|:-------------------|:--------------|:----------------|
    |Audit| Audit__c|Longue zone de texte (100000) (ligne visible 4)||
    |Comment Microsoft peut-il vous aider ?|How_can_Microsoft_help_c|Liste déroulante|
-   |Products|Products_c|texte (255)||
+   |Produits|Products_c|texte (255)||
    |Referral | Referral_Identfier_c|Texte (100) (ID externe)|Oui|
    |Lien de référence| Referral_Link_c_|URL (255)||
    |Synchroniser avec l’espace partenaires|sync_with_partner_center_c|Case à cocher (désactivé par défaut)||

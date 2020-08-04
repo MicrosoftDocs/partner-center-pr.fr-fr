@@ -1,21 +1,31 @@
 ---
-title: Créer une offre d’achat
+title: Conseillers-créer une offre d’achat
 ms.topic: article
-ms.date: 05/07/2020
+ms.date: 05/17/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Découvrez comment un conseiller d’abonnement autorisé peut utiliser l’espace partenaires pour créer une offre d’achat et une URL personnalisée à inclure dans les invitations à la version d’évaluation d’Office 365.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436268"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526985"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Conseillers : créer une offre d’achat
+
+**S’applique à**
+
+- Espace partenaires
+ 
+**Rôles appropriés**
+
+- Conseillers
+
 
 > [!NOTE]
 > Cette fonctionnalité est disponible uniquement pour les partenaires Microsoft qui sont des conseillers d’abonnement autorisés.

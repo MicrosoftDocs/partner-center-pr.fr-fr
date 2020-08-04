@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114805"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527585"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Vérifier l’état du service pour qu’un client signale un problème ou une panne de service potentiel
 
@@ -42,9 +42,11 @@ L’une des premières choses que vous pouvez faire lorsqu’un client rencontre
  
 Pendant une indisponibilité de service, Microsoft fournit des mises à jour régulières tout au long de la résolution du problème. Ces notifications s’affichent également sur le Portail Microsoft Azure ou le centre d’administration Microsoft 365.
 
-Si le problème persiste après la fin de l’interruption du service, soumettez une demande de service. Voir [Signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md).
+## <a name="next-steps"></a>Étapes suivantes 
 
-Microsoft 365 et Microsoft Azure fournissent chacun des [API que les partenaires peuvent utiliser pour récupérer l’intégrité du service en temps réel](get-automated-service-notifications-with-our-apis.md), les communications du centre de messages et les événements de maintenance planifiée.
+- Si le problème persiste après la fin de l’interruption du service, soumettez une demande de service. Voir [Signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md).
+
+- Microsoft 365 et Microsoft Azure fournissent chacun des [API que les partenaires peuvent utiliser pour récupérer l’intégrité du service en temps réel](get-automated-service-notifications-with-our-apis.md), les communications du centre de messages et les événements de maintenance planifiée.
 
  
 
