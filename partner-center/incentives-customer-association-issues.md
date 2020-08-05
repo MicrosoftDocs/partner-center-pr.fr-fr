@@ -1,19 +1,19 @@
 ---
 title: Problèmes liés aux associations de clients
 description: Découvrez comment résoudre les problèmes qui se posent quand vous travaillez avec des associations de clients CPOR.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 63138dd6eaa16534cb73f41655ba728cb0c7a430
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114531"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546010"
 ---
 # <a name="customer-association-issues"></a>Problèmes liés aux associations de clients
 
@@ -62,9 +62,9 @@ La plateforme de revendication CPOR autorise les revendications d’association 
 | Domaine fonctionnel | Activité | S’applique à |
 | ------ | ----------- | ----------- |
 | Applications métier      | Support prévente   | Sélectionnez cette option si vous avez influencé l’achat d’un produit éligible et souhaitez demander des incentives avant la vente. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct. |
-|    |  Utilisation  | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct. |
+|    |  Usage  | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct. |
 |    | Association du chiffre d’affaires   | Sélectionnez si vous avez influencé la sélection d’un produit éligible en tant qu’influenceur commercial. Cette option est réservée à l’Association du chiffre d’affaires, et non aux paiements incitatives. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct.   |
-| Microsoft 365   | Utilisation   | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. |
+| Microsoft 365   | Usage   | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. |
 
 ## <a name="which-mpn-do-i-choose"></a>Quels MPN-je choisir ?
 

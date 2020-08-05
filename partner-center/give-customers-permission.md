@@ -1,7 +1,7 @@
 ---
 title: Permettre aux clients d’acheter leurs propres services dans CSP
 description: Découvrez comment les partenaires du programme CSP peuvent permettre aux clients d’acheter leurs propres services, tels que les réservations Azure, pour un abonnement acheté pour eux dans l’espace partenaires.
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86a3be3b80ff274bb609490f86706178fe3d19d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3327ad560d38de042f42baf1f0a2daedda5d4ecf
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434598"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545640"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Autoriser les clients dans l’espace partenaires à acheter leurs propres produits ou services
 

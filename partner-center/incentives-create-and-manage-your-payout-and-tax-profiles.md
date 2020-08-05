@@ -1,27 +1,27 @@
 ---
 title: Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: Avant de pouvoir vous payer pour votre travail d’incentives, vous devez créer vos profils de paiement et de taxes.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114084"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546040"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>Profils de paiement et de taxes dans l’espace partenaires
+# <a name="payout-and-tax-profiles-in-partner-center"></a>Profils de paiement et fiscaux dans l’Espace partenaires
 
 S’applique à :
 
 - Espace partenaires
 
-Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
+Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal valide au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
 
 Rôles appropriés :
 

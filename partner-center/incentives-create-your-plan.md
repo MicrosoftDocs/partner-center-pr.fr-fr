@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: Rassemblez et créez les informations nécessaires pour générer un plan marketing réussi pour votre programme d’incentives.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114174"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546020"
 ---
 # <a name="create-your-plan"></a>Créer votre plan
 
@@ -81,7 +81,7 @@ Votre plan est maintenant soumis. Microsoft informera votre administrateur d’i
 
 ## <a name="plan-submission-timelines"></a>Planifier les chronologies d’envoi
 
-Vous devez créer et soumettre votre plan avant le dernier jour de l’année du programme. Si nécessaire, vous pouvez modifier et resoumettre le plan pendant 90 jours supplémentaires après cette période, mais le plan doit être créé et soumis dans l’année du programme.
+Vous devez créer et soumettre votre plan avant le dernier jour de l’année du programme. Si nécessaire, vous pouvez modifier et resoumettre le plan pendant 90 jours supplémentaires après cette période, mais le plan doit être créé et soumis pendant l’année du programme.
 
 >[!NOTE]
 > Vous ne pouvez créer qu’un seul plan par type de fonds pour une année de programme.

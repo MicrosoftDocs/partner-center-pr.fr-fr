@@ -1,7 +1,7 @@
 ---
 title: Afficher les détails de votre incentive et de votre programme
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 08/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Ces pages vous permettent d’afficher, de gérer et d’exporter les détails des paiements et des bénéfices, ainsi que l’état du programme et de finaliser l’historique des transactions.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f42ce255396411b68363f3a6ad928e80d87d96ad
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114836"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545950"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -48,28 +48,29 @@ Les pages suivantes sont décrites ici :
 - Page Paiements
 - Page Historique des transactions
 - Page exporter les données et autres, pages d’exportation associées
+- Rapport résumé de la transaction
 
 >[!NOTE]
 >Pour plus d’informations sur les incentives et les incentives de l’espace partenaires, consultez [investissements et incentives](https://partner.microsoft.com/membership/partner-incentives) pour les partenaires (connexion requise).
 
 ## <a name="my-incentives-overview-page"></a>Page de présentation de mes incentives
 
-La section **vue d’ensemble de mes incentives** affiche l’état général de vos programmes d’incentives, ainsi que l’état de chaque programme à chaque emplacement. Ces informations incluent le montant total des revenus et des paiements de l’incentive depuis que vous êtes inscrit dans des programmes d’incentives.
+La page **My incentives overview** présente l’état général de vos programmes d’incentives, ainsi que l’état de chaque programme dans chacun des sites. Ces informations incluent le montant total des gains et des paiements d’incentives depuis que vous vous êtes inscrit aux programmes d’incentives.
 
-Cette page contient également des bénéfices et des paiements par emplacement ou programme, ainsi que toute autre action que vous devrez peut-être effectuer pour vous inscrire à un programme à un emplacement spécifique.
+Cette page contient également les gains et les paiements par site ou par programme, ainsi que des actions supplémentaires que vous devrez peut-être effectuer pour vous inscrire à un programme dans un site en particulier.
 
-Pour accéder à **mes incentives, vue d’ensemble**:
+Pour accéder à la page **My incentives overview** (Vue d’ensemble de mes incentives) :
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 2. Sélectionnez **incentives**, puis **vue d’ensemble** dans le menu.
-3. Affichez le résumé des bénéfices et des paiements en haut de la page, ainsi que des détails supplémentaires dans le tableau ci-dessous. Vous pouvez également trier, regrouper et développer la table qui l’accompagne :
+3. Vous pouvez voir le récapitulatif des gains et des paiements en haut de la page, ainsi que des informations supplémentaires dans le tableau ci-dessous. Vous pouvez également trier, regrouper et développer la table qui l’accompagne :
 
    - Pour trier par colonne, sélectionnez le nom de la colonne.
    - Pour regrouper par programme, sélectionnez l’onglet **par programme** au-dessus du tableau.
    - Pour regrouper par emplacement, sélectionnez l’onglet **par emplacement** au-dessus du tableau.
    - Pour afficher plus de détails sur les inscriptions au sein d’un groupe spécifique, sélectionnez le symbole représentant un Chevron à la fin d’une ligne donnée. Ce Chevron développe votre vue.
 
-4. Si une action supplémentaire est requise pour l’inscription dans un programme, ces informations s’affichent dans la colonne **État** . Dans ce cas, sélectionnez le symbole représentant un Chevron pour en savoir plus sur les étapes à suivre.
+4. Si une action supplémentaire est nécessaire pour s’inscrire à un programme, ces informations s’afficheront dans la colonne **Status** (État). Dans ce cas, sélectionnez le symbole représentant un chevron pour connaître les étapes à suivre.
 
 >[!NOTE]
 >Consultez le tableau suivant pour en savoir plus sur les différents États d’inscription présentés dans la colonne **État** .
@@ -126,8 +127,9 @@ Pour exporter les données de transaction sur cette page, sélectionnez **Export
 ## <a name="export-data-page"></a>Page Exporter les données
 Suivez les instructions de cette page pour exporter les données souhaitées.
 
-**Remarques :**
+**Remarques :**
 
+- Étant donné le volume important de données, le contrat SLA pour la demande soumise à traiter est de 24 heures.
 - Vous verrez uniquement les données des ID et des programmes MPN auxquels vous êtes associé. Si vous souhaitez accéder à des données supplémentaires, contactez votre administrateur d’incentives.
 - La page Exporter les données ne s’actualise pas automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes.
 - Votre filtre peut déclencher l’erreur **Pas de données disponibles**. Cette erreur signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
@@ -157,18 +159,27 @@ Cette option vous permet de télécharger les paiements que vous avez reçus à 
 ## <a name="transaction-history-download-export"></a>Exportation du téléchargement de l’historique des transactions
 Cette option permet de télécharger chaque article de revenu que vous voyez dans la page d’historique des transactions, le type de revenu, la date, le montant associé de la transaction, le client, le produit et d’autres détails transactionnels applicables au programme d’incentives.
 
+>[!NOTE]
+>L’exportation du téléchargement de l’historique des transactions a deux nouveaux champs à partir du 2020 août :
+>
+>- **lastPaymentCurrency**  Devise dans laquelle le paiement le plus récent a été reçu, sur toutes les MPNs auxquelles le partenaire actuellement connecté a accès. Si aucun paiement n’est reçu, la dernière devise de paiement sera en dollars US.
+>- **earningAmountInLastPaymentCurrency**  Montant acquis dans la dernière devise de paiement.
+
+
 |**Nom de la colonne**   |**Description**   |
 |------------------|:-------------------------------------|
 |customerId   |Identificateur du client   |
 |customerName   |Nom de la transaction client   |
 |earningAmount   |Montant de l’obtention dans la devise de la transaction d’origine   |
+|earningAmountInLastPaymentCurrency   |Montant acquis dans la dernière devise de paiement   |
 |earningAmountUSD   |Montant de gain en USD   |
 |earningDate   |Date du revenu   |
 |earningExchangeRate   |Taux de change utilisé pour afficher le montant USD correspondant   |
 |earningId   |Identificateur unique de chaque revenu   |
 |earningRate   |Taux d’incentives appliqué au montant de la transaction pour générer un revenu   |
-|earningType   |Indique s’il s’agit d’un frais, d’une remise, d’un Coop, d’une vente, etc.   |
+|earningType   |Indique s’il s’agit d’un frais, d’une remise, d’un co-op, d’une vente, etc.   |
 |exchangeRateDate   |Date du taux de change utilisée pour calculer le montant USD du revenu   |
+|lastPaymentCurrency   |Devise dans laquelle le paiement le plus récent a été reçu, sur toutes les MPNs auxquelles le partenaire actuellement connecté a accès. Si aucun paiement n’est reçu, la dernière devise de paiement sera en dollars US.   |
 |lever   |Indique une règle métier pour le revenu   |
 |participantID   |Identité principale du revenu partenaire dans le cadre du programme   |
 |participantIDType   |En général MPN pour les programmes d’incentives et l’ID de vendeur pour les programmes Store   |
@@ -205,3 +216,58 @@ Outre le tableau ci-dessus, ces champs de l’historique des transactions sont d
 |agreementStartDate   |Date de début de l’accord   |
 |agreementEndDate   |Date de fin de l’accord   |
 |charge de travail   |Charge de travail   |
+
+## <a name="transaction-summary-report"></a>Rapport résumé de la transaction
+
+>[!NOTE]
+>Le rapport Résumé de la transaction n’affiche pas tous vos programmes ou vos revenus. Il s’agit d’un résumé qui se concentre uniquement sur les leviers agrégés. Pour afficher des transactions individuelles, téléchargez le [rapport historique des transactions](#transaction-history-page).
+
+Le rapport Résumé de la transaction fournit des détails sur les transactions au niveau du résumé, y compris les noms des clients et les ID d’abonnement, pour les leviers regroupés. Le rapport comprend chaque ID qui est associé à plusieurs transactions. Le montant total des gains et les bénéfices de l’ID acquis sont répétés pour chaque client/abonnement. Cela est dû au fait que les Incentives pour les leviers agrégés sont gagnés, et non par abonnement.
+
+
+### <a name="download-the-transaction-summary-report"></a>Télécharger le rapport Résumé de la transaction
+
+1. Sur la page de **Présentation des incentives** , sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit.
+2. Sélectionner **Exporter des données**.
+3. Sélectionnez l’onglet Résumé de la **transaction** .
+4. Sélectionnez les filtres appropriés pour voir les programmes et les leviers éligibles à des revenus agrégés. Si aucune donnée n’est affichée, vos programmes ne sont pas éligibles à des leviers agrégés.
+5. Sélectionnez **Démarrer le téléchargement**   pour exporter le rapport.  
+
+>[!NOTE]
+>Le rapport Résumé de la transaction n’inclut pas les informations sur les clients et les abonnements pour les abonnements de plus de 60 jours, ou si la consommation est inférieure à 1 centime.
+
+|Nom de la colonne |Description |
+|------ |:-----------|
+|  earningId | Identificateur unique de chaque revenu  |
+|  participantId | Identité principale du revenu partenaire dans le cadre du programme  |
+|  participantIdType | En général MPN pour les programmes d’incentives et l’ID de vendeur pour les programmes Store  |
+|  participantName | Nom du partenaire de revenu  |
+|  partnerCountryCode | Emplacement/pays du partenaire de revenu  |
+|  programName | Nom du programme d’incentives/du Store  |
+|  lever | Indique une règle métier pour le revenu  |
+|  earningRate | Taux d’incentives appliqué au montant de la transaction pour générer un revenu  |
+|  earningType | Indique s’il s’agit d’un frais, d’une remise, d’un co-op, d’une vente, etc.  |
+|  earningAmount | Montant de l’obtention dans la devise de la transaction d’origine  |
+|  earningAmountUSD | Montant de gain en USD  |
+|  earningDate | Date du revenu  |
+|  earningExchangeRate | Taux de change utilisé pour afficher le montant USD correspondant  |
+|  exchangeRateDate | Date du taux de change utilisée pour calculer le montant USD du revenu  |
+|  transactionMonth |  Mois de transaction   |
+|  transactionCurrency | Devise dans laquelle la transaction client d’origine s’est produite  |
+|  totalTransactionAmountUSD |  Transaction totale   |
+|  customerId | Identificateur du client  |
+|  customerName | Nom de la transaction client  |
+|  subscriptionId | Identificateur d’abonnement associé au client  |
+|  subscriptionStartDate | Date de début de l’abonnement  |
+|  subscriptionEndDate | Date de fin de l’abonnement  |
+|  agreementNumber | Numéro de l’accord  |
+|  invoiceNumber |  ID de facture   |
+|  partNumber | Numéro de référence lié à la transaction. Terminologie Microsoft.  |
+|  resellerId | Identificateur du revendeur  |
+|  resellerName | Nom du revendeur  |
+|  distributorId | Identificateur du serveur de distribution  |
+|  distributorName | Nom du serveur de distribution   |
+|  paymentId | Identificateur unique du paiement. Ce nombre est généralement visible dans votre relevé bancaire.|  
+
+## <a name="next-steps"></a>Étapes suivantes
+- [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)

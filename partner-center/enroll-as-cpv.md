@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38905832b4263c2e61cf8384e9626b04862b9e41
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b6258f54120e0a40f94ad74a76821c4222eb0ef4
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434712"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545890"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>S’inscrire en tant que fournisseur du panneau de configuration pour faciliter l’intégration des systèmes partenaires CSP avec les API de l’espace partenaires
 
@@ -38,8 +38,8 @@ Une fois que vous avez inscrit l’expérience du CPV de l’espace partenaires 
 
 - Gérer les applications mutualisées (ajouter des applications à Portail Azure, inscrire et désinscrire des applications dans l’espace partenaires).
 
->[!Note] 
->CPVs doit inscrire ses applications dans l’espace partenaires afin d’être autorisé à accéder aux API de l’espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires. 
+    >[!Note] 
+    >CPVs doit inscrire ses applications dans l’espace partenaires afin d’être autorisé à accéder aux API de l’espace partenaires. L’ajout d’applications au seul portail Azure n’autorise pas les applications du CPV à accéder aux API de l’Espace partenaires. 
 
 - Voir et gérer votre profil de CPV 
 

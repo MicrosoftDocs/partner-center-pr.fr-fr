@@ -1,21 +1,21 @@
 ---
-title: Foire aux questions sur le paiement et le profil fiscal
+title: Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives
 ms.topic: article
 ms.date: 07/21/2020
 description: Forum aux questions sur le paiement d’incentives et les profils fiscaux.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c98a150957a55c75d875cfba64699f080d0a238d
-ms.sourcegitcommit: b4fe2fa43663fe46b205f9daa01494d5053c1ede
+ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87264228"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545910"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>Foire aux questions sur le paiement et le profil fiscal
+# <a name="incentives-payout-and-tax-profile-faqs"></a>Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives
 
 S’applique à :
 
@@ -71,4 +71,4 @@ Contactez votre administrateur de compte pour ajouter des domaines supplémentai
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Profils de paiement et de taxes dans l’espace partenaires](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Profils de paiement et fiscaux dans l’Espace partenaires](incentives-create-and-manage-your-payout-and-tax-profiles.md)

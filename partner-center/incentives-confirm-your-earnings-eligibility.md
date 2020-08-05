@@ -1,19 +1,19 @@
 ---
 title: Vérifier votre éligibilité aux bénéfices
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: Assurez-vous que vous êtes éligible pour créer des revenus et êtes payé dans le cadre du programme d’incentives.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: f67874d5fe44f52e8080abea3dd9403a5f3645e6
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: d8605b564e65473e0f83139c44b2846e5d260292
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114559"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546030"
 ---
 # <a name="confirm-your-earnings-eligibility"></a>Vérifier votre éligibilité aux bénéfices
 

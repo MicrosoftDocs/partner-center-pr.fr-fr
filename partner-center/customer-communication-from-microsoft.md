@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f4c98445345e5e668de2172ab5e922cfb81aa7a8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114354"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545830"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Instructions pour la réussite de la communication client avec Microsoft
 
@@ -28,3 +28,7 @@ En général, toutes les communications avec le client doivent émaner du parten
 Microsoft peut communiquer directement avec les clients sur les incidents de service ou concernant d’autres informations opérationnelles.
 
 Pour les clients qui disposent de relations commerciales existantes avec Microsoft, Microsoft continuera de communiquer directement avec eux concernant les services et produits autres que ceux relevant du programme Fournisseur de solutions Cloud.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Prise en charge du client en libre-service par le biais du centre d’administration Microsoft Office 365 ou via le Portail Azure](customer-self-support.md)

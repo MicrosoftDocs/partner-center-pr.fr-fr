@@ -1,6 +1,6 @@
 ---
 title: Vendre aux secteurs spécialisés
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947404"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545530"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendre à des secteurs spécialisés tels que l’éducation, les associations et le secteur public
 
@@ -34,9 +34,9 @@ Microsoft fournit une tarification spéciale et réduite pour certains groupes d
 
 |**Tarification spéciale**   |**Compétences requises du revendeur**   |**Qualifications requises par le client**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |None   | Doit être un [utilisateur d’éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Administration   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur une licence à Government, aucune qualification n’est requise.|   None|
-|Association sans but lucratif  |None<br/> Doit avoir un locataire Azure Active Directory à but non lucratif.<br/> En savoir plus sur les [offres spéciales à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscrivez-vous au [programme Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
+|Education   |Aucun   | Doit être un [utilisateur d’éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Administration   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur une licence à Government, aucune qualification n’est requise.|   Aucun|
+|Association sans but lucratif  |Aucun<br/> Doit avoir un locataire Azure Active Directory à but non lucratif.<br/> Apprenez-en davantage sur les [offres spéciales à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscrivez-vous au [programme Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Vérifier vos qualifications revendeur
 
@@ -62,7 +62,7 @@ Une fois que vous et votre client êtes qualifié pour un programme d’offre sp
 
 ## <a name="purchase-rules-for-special-segments"></a>Règles d’achat pour les segments spéciaux
 
-Les partenaires peuvent uniquement vendre des offres spéciales aux clients s’ils répondent à certains critères. 
+Les partenaires peuvent uniquement vendre des offres spéciales aux clients si elles remplissent certains critères. 
 
 - Les offres de formation peuvent être achetées uniquement si le client est autorisé en tant qu’établissement scolaire. Un client de la formation peut uniquement recevoir des offres d’éducation et commerciales, mais pas un Cloud communautaire public (GCC).
 - Les partenaires peuvent uniquement acheter des abonnements GCC pour les clients GCC. Une fois qu’un client dispose d’un abonnement GCC, les partenaires ne peuvent pas acheter d’abonnements commerciaux, d’éducation et à but non lucratif. 

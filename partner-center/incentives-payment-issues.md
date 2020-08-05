@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: Découvrez comment résoudre des problèmes tels que des revenus manquants ou incorrects, des problèmes d’éligibilité et comment concilier vos revenus d’incentives.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: fc086b74fd140e669720743b067959fc3463f6c9
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 6c56fe41d6a12a2e6337dba5bc611124eeaf3429
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114759"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545920"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Résolution des problèmes liés aux paiements et aux bénéfices
 
@@ -51,8 +51,8 @@ Microsoft n’offre pas actuellement la possibilité de supprimer les profils de
 
 La raison de paiements manquants ou incorrects est souvent l’une des suivantes :
 
-- **Vous n’êtes peut-être pas éligible.**  Les bénéfices seront disponibles uniquement si vous répondez aux exigences d’éligibilité opérationnelles, c’est-à-dire inscrites sur la période de temps d’utilisation du programme respective.
-- **Vous n’avez peut-être pas respecté les exigences.**  Vérifiez que vous êtes satisfait des règles d’éligibilité et de chiffre d’affaires éligible pour l’incentive que vous recherchez.
+- **Vous n’êtes peut-être pas éligible.**  Les gains seront disponibles uniquement si vous respectez les conditions d’éligibilité opérationnelle, c’est-à-dire que vous êtes inscrit à la période de rémunération du programme correspondante.
+- **Vous n’avez peut-être pas respecté les exigences.**  Vérifiez que vous répondez aux critères d’éligibilité et aux règles de revenus éligibles pour l’incentive recherché.
 
   **Pour vérifier votre éligibilité**
 
@@ -62,7 +62,7 @@ La raison de paiements manquants ou incorrects est souvent l’une des suivantes
   
   3. Sélectionnez le lien de document souhaité, puis examinez les sections **éligibilité du partenaire** et **règles de revenus éligibles**.
 
-- **Votre profil de paiement est peut-être incomplet.** La date de début de vos revenus d’incentives sera le premier jour du mois dans lequel vous avez rempli toutes les conditions d’éligibilité, y compris l’intégration avec paiement et les détails des taxes. Les revenus ne seront pas disponibles pour les mois antérieurs au paiement et à la fin de la taxe. Par exemple, si vous remplissez toutes les conditions requises au cours du mois d’avril 2020, la date de début de vos revenus sera le 1er avril 2020.
+- **Votre profil de paiement est peut-être incomplet.** La date de début de vos gains d’incentives sera le premier jour du mois où vous avez rempli toutes les conditions d’éligibilité, notamment l’intégration des détails fiscaux et de paiement. Les gains ne seront pas disponibles pour les mois antérieurs à la finalisation du paiement et des taxes. Par exemple, si vous répondez à toutes les conditions au cours du mois d’avril 2020, la date de début de vos gains sera le 1er avril 2020.
 - **Vous avez peut-être une action en suspens**.  Il est possible que vos primes incitatives ne soient pas traitées car que vous ayez mis une action en attente.
 
   **Pour afficher vos actions en suspens**
@@ -84,35 +84,35 @@ Quand les fonds de coopération proviennent de différentes entités Microsoft, 
 
 Si vous ne voyez pas les bénéfices pour une période dans laquelle ils sont attendus, cela est généralement dû à l’un des problèmes suivants :
 
-- **Vous n’êtes peut-être pas éligible.**  Les bénéfices seront disponibles uniquement si vous répondez aux exigences d’éligibilité opérationnelles, c’est-à-dire inscrites sur la période de temps d’utilisation du programme respective.
+- **Vous n’êtes peut-être pas éligible.**  Les gains seront disponibles uniquement si vous respectez les conditions d’éligibilité opérationnelle, c’est-à-dire que vous êtes inscrit à la période de rémunération du programme correspondante.
 
-- **Votre profil de paiement est peut-être incomplet.**  La date de début de vos revenus d’incentives sera le premier jour du mois dans lequel vous avez rempli toutes les conditions d’éligibilité, y compris l’intégration avec paiement et les détails des taxes. Les revenus ne seront pas disponibles pour les mois antérieurs au paiement et à la fin de la taxe. Par exemple, si vous remplissez toutes les conditions requises au cours du mois d’avril 2020, la date de début de vos revenus sera le 1er avril 2020.
+- **Votre profil de paiement est peut-être incomplet.**  La date de début de vos gains d’incentives sera le premier jour du mois où vous avez rempli toutes les conditions d’éligibilité, notamment l’intégration des détails fiscaux et de paiement. Les gains ne seront pas disponibles pour les mois antérieurs à la finalisation du paiement et des taxes. Par exemple, si vous répondez à toutes les conditions au cours du mois d’avril 2020, la date de début de vos gains sera le 1er avril 2020.
 
 Si vous avez rempli les conditions d’éligibilité, y compris l’intégration avec le paiement et les détails fiscaux, et que les revenus sont toujours manquants, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="my-earnings-are-missing-or-incorrect"></a>Mes revenus sont manquants ou incorrects
 
-Des revenus manquants ou incorrects peuvent être causés par l’un des problèmes suivants :
+Des gains manquants ou incorrects peuvent être le résultat de l’un des problèmes suivants :
 
-- **Vous n’avez peut-être pas respecté les exigences.**  Vérifiez que vous êtes satisfait des règles d' [éligibilité](#my-payment-is-missing-or-incorrect) et de chiffre d’affaires éligible pour l’incentive que vous recherchez.
+- **Vous n’avez peut-être pas respecté les conditions.**  Vérifiez que vous répondez aux critères d’[éligibilité](#my-payment-is-missing-or-incorrect) et aux règles de revenus éligibles pour l’incentive recherché.
 
-- **Il peut y avoir une différence.**  Si vous répondez à la fois à l’éligibilité des partenaires et aux règles de chiffre d’affaires éligibles et que vous voyez toujours des revenus incorrects, consultez [Comment identifier les bénéfices & écart de paiement](https://support.microsoft.com/help/4534675) pour connaître les étapes d’accès à l’ensemble des bénéfices et des transactions
+- **Il peut y avoir des écarts.**  Si vous répondez à la fois aux critères d’éligibilité des partenaires et aux règles de revenus éligibles, mais que vous voyez quand même des gains incorrects, consultez [Comment identifier les écarts dans les gains et les paiements](https://support.microsoft.com/help/4534675) pour connaître les étapes à effectuer en vue d’obtenir les gains due et les transactions associées.
 
 Si ces actions ne vous aident pas et que vous ne parvenez toujours pas à trouver des revenus ou si vous pensez toujours que les bénéfices sont incorrects, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Comment faire concilier mes revenus ?
 
-En cas de divergence dans vos revenus, procédez comme suit :
+Si vous constatez des écarts dans vos revenus, effectuez les étapes suivantes :
 
-1. **Vérifiez que vous êtes éligible à des revenus.**  Les bénéfices seront disponibles uniquement si vous répondez aux exigences d’éligibilité opérationnelles, c’est-à-dire inscrites sur la période de temps d’utilisation du programme respective.
+1. **Vérifiez que vous êtes éligible aux gains**.  Les gains seront disponibles uniquement si vous respectez les conditions d’éligibilité opérationnelle, c’est-à-dire que vous êtes inscrit à la période de rémunération du programme correspondante.
 
-2. **Vérifiez que votre profil de paiement est terminé.**  La date de début de vos revenus d’incentives sera le premier jour du mois dans lequel vous avez rempli toutes les conditions d’éligibilité, y compris l’intégration avec paiement et les détails des taxes. Les revenus ne seront pas disponibles pour les mois antérieurs au paiement et à la fin de la taxe. Par exemple, si vous remplissez toutes les conditions requises au cours du mois d’avril 2020, la date de début de vos revenus sera le 1er avril 2020. 
+2. **Vérifiez que votre profil de paiement est complet.**  La date de début de vos gains d’incentives sera le premier jour du mois où vous avez rempli toutes les conditions d’éligibilité, notamment l’intégration des détails fiscaux et de paiement. Les gains ne seront pas disponibles pour les mois antérieurs à la finalisation du paiement et des taxes. Par exemple, si vous répondez à toutes les conditions au cours du mois d’avril 2020, la date de début de vos gains sera le 1er avril 2020. 
 
-3. **Vérifiez que vous respectez la configuration requise.**  Vérifiez que vous êtes satisfait des règles d' [éligibilité](#my-payment-is-missing-or-incorrect) et de chiffre d’affaires éligible pour l’incentive que vous recherchez.
+3. **Vérifiez que vous remplissez toutes les conditions**.  Vérifiez que vous répondez aux critères d’[éligibilité](#my-payment-is-missing-or-incorrect) et aux règles de revenus éligibles pour l’incentive recherché.
 
-4. **Déterminez s’il y a eu une différence.**  Si vous répondez à la fois à l’éligibilité des partenaires et aux règles de chiffre d’affaires éligibles et que les revenus sont toujours incorrects, consultez [Comment identifier les bénéfices & écart de paiement](https://support.microsoft.com/help/4534675) pour connaître les étapes d’accès à l’ensemble des bénéfices et transactions respectives.
+4. **Vérifiez la présence d’écarts.**  Si vous répondez à la fois aux critères d’éligibilité des partenaires et aux règles de revenus éligibles, mais que vous voyez quand même des gains incorrects, consultez [Comment identifier les écarts dans les gains et les paiements](https://support.microsoft.com/help/4534675) pour connaître les étapes à effectuer en vue d’obtenir les gains due et les transactions associées.
 
-Si ces actions ne sont pas utiles et que vos revenus ne sont toujours pas conciliés, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Si ces actions ne vous ont pas aidé et que vous ne parvenez toujours pas à effectuer le rapprochement, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Où puis-je trouver mes tarifs ?
 
