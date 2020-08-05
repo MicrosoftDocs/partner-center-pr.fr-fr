@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114691"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389128"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Premier achat ou renouvellement d’un abonnement Microsoft Action Pack ou de compétences Silver et Gold
 
@@ -32,7 +32,7 @@ ms.locfileid: "87114691"
 - Agent d’administration
 - Agent commercial
 
-Désormais, les membres Microsoft Partner Network (MPN.md) peuvent acheter ou renouveler vos offres d’avantages à partir du [tableau de bord]() de l’Espace partenaires. Ces offres comprennent l’abonnement Microsoft Action Pack et les compétences Silver et Gold.
+Désormais, les membres Microsoft Partner Network (MPN.md) peuvent acheter ou renouveler vos offres d’avantages à partir du [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires. Ces offres comprennent l’abonnement Microsoft Action Pack et les compétences Silver et Gold.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Acheter Microsoft Action Pack pour la première fois
 

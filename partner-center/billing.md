@@ -3,18 +3,18 @@ title: Informations de référence – Articles sur la facturation dans l’Espa
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: Consultez les rubriques traitant de la facturation et des taxes dans l’Espace partenaires. Ces rubriques portent sur les ressources de facturation, les factures, la facturation Fournisseur de solutions Cloud et les taxes.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435578"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527405"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Vue d'ensemble : Principaux articles sur la facturation et les taxes dans l’Espace partenaires
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435578"
 | ----- | ----------- |
 | [Notions de base de facturation](billing-basics.md) | Notions de base de la facturation de l’Espace partenaires (y compris les paiements, les factures et les fichiers de rapprochement). |
 | [Types de facturation](billing-different-types.md) | Explication des différents types de facturation dans l’Espace partenaires. |
-| [Différences entre les facturations mensuelle et annuelle](billing-annual-monthly.md) | Explication des différences entre les fréquences de facturation mensuelle et annuelle. |
 | [Comprendre votre facture](read-your-bill.md) | Comment lire et comprendre votre facture de l’Espace partenaires. |
 | [Essais gratuits](offer-your-customers-trials-of-microsoft-products.md) | Comment proposer des essais gratuits à vos clients, et comment ces essais sont facturés. |
 | [Fichier de rapprochement](use-the-reconciliation-files.md) | Comment lire et utiliser votre fichier de rapprochement pour les éléments de ligne. |

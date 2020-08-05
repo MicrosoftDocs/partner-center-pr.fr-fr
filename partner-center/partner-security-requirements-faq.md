@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943557"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444896"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 
@@ -55,7 +55,7 @@ Vous devez effectuer les étapes ci-dessous
 - Vous devez répondre à toutes les exigences décrites dans [Exigences de sécurité du partenaire](partner-security-requirements.md)
 - Vous devez vous assurer que l’authentification multifacteur est appliquée à tous les comptes d’utilisateur de votre locataire partenaire.
 
-Pour vous aider à identifier les domaines clés dans lesquels vous pouvez prendre des mesures, nous fournissons le rapport sur le [statut des exigences de sécurité](https://partner.microsoft.com/pcv/security/compliance) qui est disponible via l’Espace partenaires.
+Pour vous aider à identifier les domaines clés dans lesquels vous pouvez prendre des mesures, nous fournissons le rapport sur le [statut des exigences de sécurité](https://partner.microsoft.com/commerce/security/compliance) qui est disponible via l’Espace partenaires.
 
 Pour plus d’informations sur le rapport sur le statut, consultez le [statut des exigences de sécurité des partenaires](partner-security-compliance.md).
 

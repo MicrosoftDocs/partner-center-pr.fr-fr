@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944446"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433898"
 ---
 # <a name="april-2020-announcements"></a>Annonces d’avril 2020
 
@@ -174,7 +174,7 @@ Pour contribuer davantage à la protection des partenaires et des clients, **à 
 
 - **Si vous n’avez pas activé les exigences de sécurité recommandées pour protéger votre locataire et vos utilisateurs**, veuillez le faire immédiatement pour rester conforme et éviter toute interruption de l’activité de gestion des clients ou de réalisation des transactions au sein du programme Fournisseur de solutions cloud. Les partenaires qui n’implémentent pas les exigences de sécurité peuvent mettre en péril leur participation au programme Fournisseur de solutions cloud.
 - Les fournisseurs indirects doivent implémenter ces exigences de sécurité pour leurs propres entreprises et collaborer avec les revendeurs pour s’assurer qu’ils implémentent également les exigences et utilisent ce modèle d’e-mail. Nous contacterons également directement vos revendeurs par e-mail.
-- Consultez la [page sur le statut des exigences de sécurité de l’Espace partenaires](https://partner.microsoft.com/pcv/security/compliance) pour identifier votre progression et les actions clés à entreprendre. Collaborez avec votre administrateur général pour vérifier régulièrement la progression de vos exigences de sécurité pour chacun de vos locataires.
+- Consultez la [page sur le statut des exigences de sécurité de l’Espace partenaires](https://partner.microsoft.com/commerce/security/compliance) pour identifier votre progression et les actions clés à entreprendre. Collaborez avec votre administrateur général pour vérifier régulièrement la progression de vos exigences de sécurité pour chacun de vos locataires.
 - Si vous utilisez une solution de fournisseur de panneau de contrôle CPV, consultez le fournisseur concerné.
 
 ### <a name="additional-resources"></a>Ressources supplémentaires
