@@ -1,6 +1,6 @@
 ---
 title: Changer de partenaire de facturation directe en revendeur indirect
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444996"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811189"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
@@ -27,13 +27,13 @@ ms.locfileid: "87444996"
 
 Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre locataire direct Bill existant.
 
-## <a name="get-started"></a>Bien démarrer
+## <a name="get-started"></a>Prise en main
 
 1. Vérifiez que votre profil de partenaire dans l’espace partenaires et l’ID MPN sont à jour.
 
 2. Connectez-vous à l’espace partenaires en tant qu’administrateur général du locataire direct Bill que vous passez au revendeur indirect.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d'ensemble":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d’ensemble":::
 
 3. Passez en revue les détails de votre partenaire dans le formulaire d’inscription.
 

@@ -1,6 +1,6 @@
 ---
 title: Supprimer la relation de revendeur avec un client
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f710b7327e9ff647f23c7baf994bc00082c437b5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949281"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811339"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Procédure de suppression d’une relation de revendeur avec un client dans l’espace partenaires
 
@@ -51,7 +51,7 @@ Pour supprimer la relation, vous devez annuler les réservations Azure RI, annul
 
    a. Dans l’espace partenaires, accédez à **clients** et sélectionnez un client.
 
-   b. Sélectionnez le **compte**.
+   b. Sélectionnez le **Compte**.
 
    c. Sélectionnez **Supprimer la relation de revendeur**.
 

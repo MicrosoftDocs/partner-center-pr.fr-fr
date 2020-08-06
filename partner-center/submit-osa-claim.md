@@ -3,18 +3,18 @@ title: Créer une association cliente via le modèle CPOR
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Créer des associations de clients via le modèle CPOR (revendication du partenaire de l’enregistrement). Permet de gérer les ventes, l’utilisation & les Incentives pour les clients Microsoft 365 et Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468343"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811179"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Créer une association client via le modèle CPOR : à utiliser pour les clients Microsoft 365 et Dynamics 365
 

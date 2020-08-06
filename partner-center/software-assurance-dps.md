@@ -3,18 +3,18 @@ title: Services de planification Software Assurance
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Apprenez à vous inscrire et à bénéficier des contrats Microsoft sur les services de planification afin de pouvoir fournir des services de formation et d’autres services aux clients avec Software Assurance.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 9cab5ac13b37c11f9e07f1c99d63728f7ad92264
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943686"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811219"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 

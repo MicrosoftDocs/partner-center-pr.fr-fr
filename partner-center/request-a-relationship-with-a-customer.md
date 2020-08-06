@@ -1,6 +1,6 @@
 ---
 title: Demander une relation avec un client
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: Demandez une relation avec un client pour les scénarios multi-part
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943716"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811299"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Guide pratique pour demander une relation de revendeur à un client dans l’Espace partenaires
 
