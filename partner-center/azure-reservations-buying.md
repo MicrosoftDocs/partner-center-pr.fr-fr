@@ -1,7 +1,7 @@
 ---
 title: Acheter des réservations Microsoft Azure pour les clients
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Découvrez comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435768"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900105"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires
 
@@ -31,6 +31,9 @@ ms.locfileid: "86435768"
 - Agent du support technique
 - Agent commercial
 - Administrateur de la gestion des utilisateurs
+ 
+> [!NOTE]
+> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations).
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
@@ -130,7 +133,7 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
     - Vérifiez ou modifiez la quantité des instances réservées.
 
-    - Sélectionnez l’étendue de la réservation. L’étendue de la réservation peut couvrir un ou plusieurs abonnements (étendue partagée). Si vous étendez la réservation à un seul abonnement, la remise de réservation est appliquée à cet abonnement uniquement. Si vous sélectionnez partagé, la remise de réservation est appliquée à tous les abonnements dans le contexte de facturation du client. 
+    - Sélectionnez l’étendue de la réservation. L’étendue de la réservation peut couvrir un seul abonnement ou plusieurs abonnements (étendue partagée). Si vous étendez la réservation à un seul abonnement, la remise de réservation est appliquée à cet abonnement uniquement. Si vous sélectionnez partagé, la remise de réservation est appliquée à tous les abonnements dans le contexte de facturation du client. 
 
       >[!NOTE] 
       >Si vous choisissez de limiter l’étendue de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le Portail Azure. Suivez les instructions [de cette rubrique](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande. 

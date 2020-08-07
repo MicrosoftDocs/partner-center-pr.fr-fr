@@ -1,7 +1,7 @@
 ---
 title: Vendre des clients Microsoft Azure des réservations
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: En tant que fournisseur de solutions Cloud, vous pouvez acheter, vendre ou gérer des réservations Azure pour les clients. Utilisez l’espace partenaires, le Portail Azure ou l’API espace partenaires.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3efe8ae6a955dee5cfe01d0571cd107f8ee50f5c
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435728"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900082"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendez des Microsoft Azure des réservations aux clients à l’aide de l’espace partenaires, des Portail Azure ou des API
 
@@ -22,7 +22,7 @@ ms.locfileid: "86435728"
 
 - Espace partenaires
 - Portail Microsoft Azure
-- Partenaires dans CSP
+- Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
 
@@ -32,12 +32,15 @@ ms.locfileid: "86435728"
 - Agent commercial
 - Administrateur de la gestion des utilisateurs
 
-Les partenaires du programme fournisseur de solutions Cloud (CSP) peuvent offrir à leurs clients Microsoft Azure des réservations. Les clients peuvent gagner des économies importantes lorsqu’ils se réservent à l’avance. Les réservations Azure offrent la simplicité et la flexibilité des clients des manières suivantes :
+> [!NOTE]
+> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+
+Les partenaires du programme CSP peuvent offrir à leurs clients Microsoft Azure des réservations. Les clients peuvent gagner des économies importantes lorsqu’ils se réservent à l’avance. Les réservations Azure offrent la simplicité et la flexibilité des clients des manières suivantes :
 
 - Conditions de réservation d’une ou trois ans
 - Facile à mettre en route ; installation terminée en secondes
 - Annuler ou échanger des instances réservées à tout moment pour le remboursement ajusté
-- Gérer l’utilisation des instances réservées au niveau de l’organisation ou du service individuel 
+- Gérer l’utilisation des instances réservées au niveau de l’organisation ou du service individuel
 
 Les réservations Azure peuvent être appelées par les clients des manières suivantes :
 
@@ -53,7 +56,7 @@ Les réservations Azure peuvent être appelées par les clients des manières su
 
 |**Pour obtenir des informations sur**   |**Lisez cela**    |
 |:-----------------------------|:-----------------|
-| Documentation sur les réservations Azure pour vos clients | [Qu’est-ce qu’une réservation Azure ?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| Documentation sur les réservations Azure pour vos clients | [Qu’est-ce qu’une réservation Azure ?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Achat de réservations Azure pour vos clients dans l’espace partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md)
 |Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)
 |Détermination de la taille de machine virtuelle correcte et vérification de l’utilisation de la machine virtuelle client   |[Dimensionnement des machines virtuelles pour l’utilisation maximale de la réservation Azure](azure-usage.md)   |
