@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 08b1b547fc6f494dfdb1199824221aecad9120bc
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114568"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433887"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre transfert du Partner Membership Center (PMC) vers l’Espace partenaires
 
@@ -117,7 +117,6 @@ Dans l’Espace partenaires, un partenaire peut ajouter des comptes professionne
 
 Bien que l’administrateur MPN ou l’administrateur général puisse affecter des abonnements basés sur l’utilisation de Visual Studio aux utilisateurs invités, ces derniers ne peuvent pas se connecter à l’Espace partenaires à l’aide de leur compte MSA. Toutefois, les utilisateurs invités peuvent se connecter à Azure et à Visual Studio pour valider et utiliser les avantages qui leur ont été affectés.
 
-
  **Comment gérer les associations MCP et l’accès Partner University ?**
 
  Les associations MCP qui sont transférées à partir de PMC ne subissent aucun changement. Cependant, les nouveaux employés ajoutés après le transfert dans l’Espace partenaires doivent être associés dans ce dernier. Si toutes les autorisations Partner University de vos utilisateurs existants sont conservées, les nouveaux employés doivent se rendre dans [le centre de formation](https://partner.microsoft.com/training) pour savoir comment obtenir un accès à Partner University.
@@ -137,7 +136,9 @@ Sélectionnez **Compétences** dans le volet de navigation gauche du tableau de 
 
 **Le transfert dans l’Espace partenaires a-t-il un impact sur les incentives ?**
 
-Non, si vous avez transféré votre compte sans regrouper les sites, il n’y a aucun impact sur les incentives. Si votre entreprise possède plusieurs comptes dans PMC et que vous décidez de les consolider dans un même compte global pendant la transfert dans l’Espace partenaires, aucun incentive n’est perdu, mais le versement des revenus liés aux incentives risque d’être retardé. Si vous ne transférez pas tous vos comptes PMC qui ont été impliqués dans les programmes d’incentives, il se peut que vous cessiez de gagner les incentives liés à ces comptes.
+Non, si vous avez transféré votre compte sans regrouper les sites, il n’y a aucun impact sur les incentives. Si votre entreprise possède plusieurs comptes dans PMC et que vous décidez de les consolider dans un même compte global pendant la transfert dans l’Espace partenaires, aucun incentive n’est perdu, mais le versement des revenus liés aux incentives risque d’être retardé. 
+
+Si vous ne transférez pas tous vos comptes PMC qui ont été impliqués dans les programmes d’incentives, il se peut que vous cessiez de gagner les incentives liés à ces comptes.
 
 
 **Quels sont les rôles Incentive dans l’Espace partenaires ?** 
@@ -160,7 +161,12 @@ Votre entreprise peut créer autant de profils commerciaux dont elle a besoin po
 
 Les références sont affectées en fonction des paramètres de recherche définis par le client. Quel que soit le nombre de sites que vous avez (un ou une multitude), si les clients indiquent préférer un site et que vous avez une activité qui répond aux autres paramètres, la référence est affectée à ce site.
 
+**Je migre vers l’Espace partenaires depuis la Russie. Je reçois un message d’erreur relatif à Web Direct. Comment faire poursuivre la migration ?**
 
+Si vous recevez un message d’erreur parce que vous participez au programme Web direct, vous devez effectuer les opérations suivantes :
+
+1. Connectez-vous à portal.Azure.com et créez un locataire Azure AD. Pour plus d’informations, consultez [Créer un locataire Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Une fois que vous avez créé le locataire Azure AD, utilisez-le pour migrer du Partner Membership Center vers l’Espace partenaires ou pour vous inscrire en tant que nouveau membre dans l’Espace partenaires.
 
 
 

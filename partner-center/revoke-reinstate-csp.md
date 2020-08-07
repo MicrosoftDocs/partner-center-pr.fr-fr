@@ -1,7 +1,7 @@
 ---
 title: Rétablir les privilèges d’administrateur pour Azure CSP
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 07/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment aider les clients à rétablir les privilèges d’administrateur d’un partenaire afin que ce dernier puisse aider à gérer les abonnements Azure CSP d’un client.
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 362ae4a472b78417a4921b734a77f6259aaaa1f3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2c98ddf67567935a17e33546ce41de723b3be134
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949252"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412425"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Rétablir les privilèges d’administrateur pour les abonnements Azure CSP d’un client  
 
@@ -49,7 +49,7 @@ Pour récupérer des privilèges d’administrateur délégués, vous devez trav
 
 Votre client devra ajouter votre groupe d’agents d’administration en tant que propriétaire de l’abonnement Azure CSP.
 
-1. Utilisez la console PowerShell ou l’environnement d’écriture de scripts intégré (ISE) de PowerShell. Vérifiez que les modules AzureRM et AzureAD sont installés.
+1. Utilisez la console PowerShell ou l’environnement d’écriture de scripts intégré (ISE) de PowerShell. Vérifiez que les modules AzureAD sont installés.
 
 2. Connectez-vous à votre locataire Azure AD.
 
@@ -62,24 +62,19 @@ Votre client devra ajouter votre groupe d’agents d’administration en tant qu
    ```powershell
    Get-AzureADGroup
    ```
-
-   :::image type="content" source="images/azure/revoke5.png" alt-text="groupe d’agents d’administration":::
-
    Les étapes suivantes sont effectuées par l’utilisatrice de la société de votre client qui dispose d’un accès propriétaire à l’abonnement Azure CSP.
 
-4. L’utilisatrice disposant d’un accès propriétaire à l’abonnement Azure CSP se connecte à Azure Resource Manager à l’aide de ses informations d’identification.
+4. L’utilisatrice disposant d’un accès propriétaire à l’abonnement Azure CSP se connecte à Azure en utilisant ses informations d’identification.
 
    ```powershell
-   Login-AzureRMAccount
+   Connect-AzAccount
    ```
 
 5. Elle peut ensuite ajouter votre groupe d’agents d’administration en tant que propriétaire à l’abonnement Azure CSP.
 
     ```powershell
-    New-AzureRMRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
     ```
-
-   :::image type="content" source="images/azure/revoke6.png" alt-text="propriétaires d’agents d’administration":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

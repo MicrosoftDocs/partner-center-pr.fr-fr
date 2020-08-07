@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment mettre à niveau ou modifier l’abonnement d’un client. Ajoutez des licences et des sièges supplémentaires ou passez à une autre version avec plus de services.
+description: Découvrez comment mettre à niveau ou modifier l’abonnement d’un client. Ajoutez des licences ou passez à une autre version avec plus de services.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436358"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468778"
 ---
-# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Ajouter des licences, des sièges ou des services supplémentaires à l’abonnement d’un client
+# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Ajouter des licences ou des services supplémentaires à l’abonnement d’un client
 
 **S’applique à**
 
@@ -31,55 +31,22 @@ ms.locfileid: "86436358"
 - Agent commercial
 - Agent du support technique
 
-Si votre client a besoin de plus de sièges que dans son abonnement actuel ou d’une autre version offrant davantage de services, vous pouvez mettre à niveau l’abonnement. Pour plus d’informations, consultez [Basculer vers un autre plan Microsoft 365 Apps for business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Si votre client a besoin de plus de licences que dans son abonnement actuel ou d’une autre version offrant davantage de services, vous pouvez mettre à niveau l’abonnement. Pour plus d’informations, consultez [Basculer vers un autre plan Microsoft 365 Apps for business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
-## <a name="upgrades-supported-in-the-csp-program"></a>Mises à niveau prises en charge dans le programme CSP <a href="" id="upgradesubscription"></a>
+## <a name="upgrades-supported-in-the-csp-program"></a>Mises à niveau prises en charge dans le programme CSP <a id="upgradesubscription"></a>
 
 Les mises à niveau suivantes sont prises en charge dans le programme Fournisseur de solutions Cloud&nbsp;:
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Offre</th>
-<th>Mises à niveau possibles</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Microsoft 365 Apps for business</td>
-<td><ul>
-<li>Microsoft 365 Business Premium¹</li>
-<li>Microsoft 365 Apps for enterprise</li>
-<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
-<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Microsoft 365 Business Standard</td>
-<td><ul>
-<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
-<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Microsoft 365 Business Basic</td>
-<td><ul>
-<li>Microsoft 365 Business Standard¹</li>
-<li>Office&nbsp;365 Entreprise&nbsp;E1</li>
-<li>Office&nbsp;365 Entreprise&nbsp;E3</li>
-<li>Office&nbsp;365 Enterprise&nbsp;E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>¹ Microsoft 365 Apps for business India et Microsoft 365 Business Basic India peuvent être mis à niveau vers Microsoft 365 Business Standard India, mais pas vers Microsoft 365 Business Standard.</p></td>
-</tr>
-</tbody>
-</table>
+| Offre | Mises à niveau possibles|
+|---:|:---|
+| Microsoft 365 Apps for business   | - Microsoft 365 Business Premium¹ <br/>  - Microsoft 365 Apps for enterprise <br/> - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Standard    | - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Basic | - Microsoft 365 Business Standard¹ <br/> - Office 365 Enterprise E1 <br/> - Office 365 Enterprise E3<br/> - Office 365 Enterprise E5 <br/> |
+
+¹ Microsoft 365 Apps for business India et Microsoft 365 Business Basic India peuvent être mis à niveau vers Microsoft 365 Business Standard India, mais pas vers Microsoft 365 Business Standard.
+
+
+## <a name="conditions"></a>Conditions
 
 La mise à niveau des abonnements est possible si les conditions suivantes sont remplies&nbsp;:
 
@@ -93,7 +60,7 @@ La mise à niveau des abonnements est possible si les conditions suivantes sont 
 
 Dans les deux derniers cas, il est possible que le client ait acheté ces abonnements ou services auprès d’un autre partenaire ou canal. Il ne peut donc pas vous les acheter, à moins d’annuler les abonnements en cours. Pour plus d’informations, consultez [multicanal](multichannel.md).
 
-Pour plus d’informations sur l’impact sur la facturation, consultez les détails sur l’annulation ou l’ajout d’un nouvel abonnement dans les [scénarios de facturation courants](common-billing-scenarios.md).
+Pour plus d’informations sur l’impact sur la facturation, découvrez comment annuler un abonnement ou ajouter un nouvel abonnement dans les [scénarios de facturation courants](common-billing-scenarios.md).
 
 ## <a name="upgrade-a-subscription"></a>Mettre à niveau un abonnement
 
