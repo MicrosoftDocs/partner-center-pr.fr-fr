@@ -102,6 +102,7 @@
 ### [Analyser votre profil professionnel](analyze-your-marketing-profile.md)
 ## Primes incitatives
 ### Bien commencer avec les incentives
+#### [Bien démarrer](incentives-get-started-intro.md)
 #### [Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)
 #### [Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [Consulter vos paiements et programmes d’incentives](understand-incentive-payouts.md)
 #### [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)
 ### Plans et preuves d’exécution
+#### [À propos des plans et des preuves d’exécution](incentives-plans-proofs-intro.md)
 #### [Créer votre plan](incentives-create-your-plan.md)
 #### [Préparer votre preuve d’exécution](incentives-prepare-your-proof-of-execution.md)
 ### Demandes de coopération aux incentives
-#### [Incentives](claims-overview.md)
+#### [À propos des demandes de coopération](claims-overview.md)
 #### [Créer et gérer des demandes de coopération aux incentives](create-incentives-claims.md)
 #### [Conditions requises pour les demandes de coopération aux incentives](core-requirements.md)
 #### [Approbation des demandes de coopération et délais de paiement](incentives-managing-co-op-claims.md)
 ### Demandes d’association CPOR avec incentives
+#### [À propos des associations CPOR](incentives-customer-associations-intro.md)
 #### [Créer une association de clients avec le modèle CPOR](submit-osa-claim.md)
 #### [Gérer les associations client](incentives-manage-customer-associations.md)
 #### [Problèmes liés aux associations client](incentives-customer-association-issues.md)
