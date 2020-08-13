@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 07aed688aa17c1ee9017785e16eded56624d7d62
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
+ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527615"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "88188432"
 ---
 # <a name="benefits-faq"></a>Questions fréquentes (FAQ) sur les avantages
 
@@ -70,12 +70,6 @@ Lorsque vous renouvelez ou étendez des abonnements, le nombre de licences reste
 
 >[!IMPORTANT]
 >Si vous choisissez d’ajouter des licences sur un abonnement existant, l’abonnement expire dans moins de 12 mois, en fonction du nombre de licences existantes et ajoutées. Une fois que vous avez échangé une clé, vous ne pouvez plus l’utiliser. Avant d’échanger votre clé, assurez-vous de bien comprendre si vous devez ajouter des licences ou renouveler/étendre l’abonnement.
-
-### <a name="q-why-dont-i-see-the-renew-or-extend-options-when-i-activate-my-product-key"></a>Q. Pourquoi ne puis-je pas voir les options de renouvellement ou d’extension quand j’active ma clé de produit ?
-
-Si l’option de renouvellement/extension n’apparaît pas, cela signifie probablement que vous avez déjà plus de licences sur votre abonnement existant que celles fournies par la nouvelle clé de produit.
-
-Pour accéder à l’option de renouvellement/extension, vous devez supprimer les licences de votre abonnement actuel jusqu’à ce que le nombre de licences dont vous disposez soit inférieur ou égal au nombre de licences dont dispose votre nouvelle clé.
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. Puis-je activer la licence sur le compte de mon client ?
 
