@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114061"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998397"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renouveler vos offres MPN pour Microsoft Action Pack et les compétences au cours de la fenêtre de renouvellement
 
@@ -40,11 +40,13 @@ Lorsque vous effectuez le renouvellement au cours de la fenêtre prévue à cet 
 
 ## <a name="responding-to-covid-19"></a>Réponse à la crise du COVID-19 :
 
-Pour vous aider à vous concentrer sur la prise en charge de vos clients, **si la date anniversaire de votre compétence se situe entre le 1er janvier et le 30 juin 2020**, nous étendons votre ou vos compétences existantes jusqu’à votre prochaine date anniversaire en 2021. Vos rappels de renouvellement de compétence seront mis à jour pour refléter cette nouvelle offre. 
+Pour mieux vous concentrer sur l’aide à vos clients : 
+
+- **Si la date anniversaire de votre compétence se situe entre le 1er juillet et le 31 décembre 2020**, nous étendons vos compétences existantes jusqu’à votre prochaine date anniversaire en 2021. Vos rappels de renouvellement de compétence seront mis à jour pour refléter cette nouvelle offre. 
 
 - **Si votre compétence est renouvelée**, l’Espace partenaires indiquera que vos besoins sont satisfaits. Pour effectuer le renouvellement, vous devez payer vos frais de compétence dans votre fenêtre de renouvellement sur la page Offres d’abonnement. 
 
-- **Si vous avez déjà manqué votre fenêtre de renouvellement**, vous pouvez réactiver votre compétence et obtenir un nouvel accès aux ressources et aux avantages en payant vos frais sur la page Offres d’abonnement. Cette extension est disponible jusqu’au 30 juin 2020.   
+- **Si vous avez déjà manqué votre fenêtre de renouvellement**, vous pouvez réactiver votre compétence et obtenir un nouvel accès aux ressources et aux avantages en payant vos frais dans la page Offres d’abonnement. Cette extension est valable jusqu’au 31 décembre 2020.
 
 ### <a name="how-to-view-this-information"></a>Comment afficher ces informations
 

@@ -1,7 +1,7 @@
 ---
 title: Conditions requises pour les demandes de coopération aux primes incitatives
 ms.topic: article
-ms.date: 07/17/2020
+ms.date: 08/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Apprenez à générer la demande, à comprendre le développement du marché et à optimiser la préparation des partenaires pour les activités de votre programme d’incentives.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ce728bc22625aecd86142a21aaec00a111b58732
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3246b04c74e1d5daa047a12fabcf78d4e6f11807
+ms.sourcegitcommit: ddc99fa026f3e8a3dbe10b4a6f883e7f58de00df
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114876"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "88039462"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Principales conditions requises pour les demandes de coopération aux incentives
 
@@ -27,56 +27,189 @@ ms.locfileid: "87114876"
 - Administrateur de primes incitatives
 - Utilisateur de primes incitatives
 
-Chaque type d’activité pour laquelle vous envoyez une demande de primes incitatives a des conditions requises que vous devez satisfaire et démontrer dans vos documents de preuve d’exécution. Dans certains cas, des types et métriques de communication définis sont également requis.
+Tous les types d’activités pour lesquels vous soumettez une revendication d’incentive ont leurs exigences propres. Vous devez montrer que vous respectez ces exigences dans vos documents de preuve d’exécution. Certaines activités nécessitent également des métriques et des types de communications précis.
 
 Les tableaux suivants décrivent les conditions requises pour chaque activité acceptée. 
 
 ## <a name="demand-generation"></a>Génération de la demande
- Ces activités incluent la publicité traditionnelle et numérique avec une portée étendue qui favorise la commercialisation et la promotion des offres Microsoft. Les résultats et la part de marché doivent être mesurables.
 
+### <a name="print-advertising"></a>Publicité imprimée
 
-|**Activité**   |**Conditions requises**   |**Exigences en matière de communication**|**Métriques**  |**Dépenses admissibles** |
-|--------------------------------------|:---------------------------------|---------|--------|----------|
-        |
-|Publicité imprimée |Nom et coordonnées de l’entreprise, contenu Microsoft |Copie de l’élément de communication final (basé sur la publicité) répondant aux conditions requises spécifiques du programme|Portée estimée du client (ou partenaire)|Placement média tiers ; documents imprimés ; Tarif - Agence services marketing et créatifs, y compris les honoraires d’agence|
-|Publicité numérique|            |Capture d’écran de la publication numérique ET URL de la page d’accueil, répondant aux conditions requises spécifiques du programme|Résumé des résultats (par exemple, rapport de clic)|Placement média tiers ; Tarif - Agence : services marketing et créatifs, y compris les honoraires d’agence|  
-|Publipostage, e-mails et SMS|             |1) Copie de l’élément final de communication conforme aux conditions requises spécifiques du programme 2) La preuve de distribution peut inclure une enveloppe d’expédition oblitérée ou d’autres preuves de distribution (publipostage), un e-mail final avec un en-tête daté ou d’autres preuves d’envoi par e-mail (courrier électronique) ou la photo d’un message téléphonique (SMS)|   Portée estimée du client (ou partenaire)   |• Acquisition de base de données • Documents imprimés • Affranchissement ; Tarif - Agence : services marketing et créatifs, y compris les honoraires d’agence|
-|Site web et moteur de recherche du partenaire||URL et/ou captures d’écran des pages web montrant l’URL ; énoncé des travaux ou contrat de service pour le projet SEO (activité d’optimisation du référencement d’un site auprès d’un moteur de recherche uniquement)|Résumé des résultats (par exemple, rapport de clic)|Tarif - Agence : services marketing, y compris les honoraires d’agence ; Programmation/développement : Frais de programmation et de développement ; Tarif - SEO : Frais d’optimisation et de maintenance|
-|Contenu syndiqué de Microsoft||URL et/ou captures d’écran des pages de site montrant l’URL|Résumé des résultats (par exemple, rapport de clic)|Coûts réels jusqu’à 18 750 dollars US par période d’utilisation pour : tarif - Agence : services marketing, y compris les honoraires d’agence ; frais de programmation et de développement ; placement média|
-|Campagne numérique tactile multipoint|     |Toutes les preuves d’exécution indiquées dans la page d’activité applicable sont requises.  \- Publicité numérique - E-mail direct - Site web du partenaire et optimisation du moteur de recherche - Télémarketing||Placement média tiers • Tarif - Agence : services marketing et créatifs, y compris les honoraires d’agence ; Acquisition de base de données ; • Programmation/développement : Frais de programmation et de développement ; Tarif - SEO : Frais d’optimisation et de maintenance ; Tarif - Centre d’appels tiers
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Coordonnées et marque de l’entreprise<br><br>Contenu Microsoft |
+| Exigences de communication | Copie de l’élément de communication final (basé sur la publicité) répondant aux conditions requises spécifiques du programme |
+| Mesures     | Portée estimée du client (ou partenaire) |
+|Dépenses admissibles    | Placement média tiers<br><br>Documents imprimés<br><br>Services marketing et créatifs, y compris les honoraires d’agence  |
+
+### <a name="digital-advertising"></a>Publicité numérique
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises | N/D |
+| Exigences de communication | Capture d’écran de la publicité numérique<br><br>AND<br><br>URL de la page d’accueil, montrant les exigences propres au programme |
+| Mesures     | Résumé des résultats (par exemple, rapport de clic) |
+|Dépenses admissibles    | Placement média tiers<br><br>Tarif - Agence : services marketing et créatifs, y compris les honoraires d’agence |
+
+### <a name="direct-mail-email-and-short-message-service-sms"></a>Courrier direct, e-mail et SMS
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | N/D |
+| Exigences de communication | 1) Copie de l’élément de communication final montrant les exigences propres au programme<br><br>2) La preuve de distribution peut inclure une enveloppe d’expédition oblitérée ou d’autres preuves de distribution (courrier direct), un e-mail final avec un en-tête daté ou d’autres preuves d’envoi par e-mail (e-mail) ou la photo d’un SMS |
+| Mesures     | Portée estimée du client (ou partenaire) |
+|Dépenses admissibles    | Acquisition de bases de données<br><br>Documents imprimés<br><br>Affranchissement<br><br>Tarif - Agence : services marketing et créatifs, y compris les honoraires d’agence |
+
+### <a name="partner-website-and-search-engine"></a>Site web et moteur de recherche du partenaire
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | N/D |
+| Exigences de communication | URL et/ou captures d’écran des pages de site montrant l’URL<br><br>Énoncé des travaux ou contrat de service pour le projet SEO (activité SEO uniquement) |
+| Mesures     | Résumé des résultats (par exemple, rapport de clic) |
+|Dépenses admissibles    | Tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Programmation/Développement : Frais de programmation et de développement<br><br>Tarif - Optimisation du référencement d’un site auprès d’un moteur de recherche : Frais d’optimisation et de maintenance  |
+
+### <a name="microsoft-syndicated-content"></a>Contenu syndiqué de Microsoft
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | N/D |
+| Exigences de communication | URL et/ou captures d’écran des pages de site montrant l’URL |
+| Mesures     | Résumé des résultats (par exemple, rapport de clic) |
+|Dépenses admissibles    | Coûts réels jusqu’à 18 750 dollars US par période d’utilisation pour : tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Frais de programmation et de développement<br><br>Placement de support  |
+
+### <a name="multi-touch-digital-campaign"></a>Campagne numérique tactile multipoint
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    |N/D |
+| Exigences de communication | Toutes les preuves d’exécution indiquées dans la page d’activité applicable sont nécessaires.<br><br>Publicité numérique<br><br>E-mail direct<br><br>Site web partenaire et optimisation du référencement d’un site auprès d’un moteur de recherche<br><br>Télémarketing  |
+| Mesures     | N/D |
+|Dépenses admissibles    | Placement média tiers<br><br>Tarif - Agence : services marketing et créatifs, y compris les honoraires d’agence<br><br>Acquisition de bases de données<br><br>Programmation/Développement : Frais de programmation et de développement<br><br>Tarif - Optimisation du référencement d’un site auprès d’un moteur de recherche : Frais d’optimisation et de maintenance<br><br>Tarif - Coûts du Centre d’appels tiers |
 
 ## <a name="market-development"></a>Développement de marché
 
- Les activités incluent le recrutement et l’éducation des clients, ainsi que des activités de développement de marché et d’entreprise qui favorisent la notoriété, la préférence et les ventes des offres Microsoft. En règle générale, ces activités marketing sont conçues pour un public client spécifique.
+### <a name="telemarketing-and-expositions"></a>Télémarketing et expositions
 
-|**Activité**           | **Conditions requises**    | **Exigences de communication**|**Métriques** |**Dépenses admissibles**| 
-                                                |----------------------------------|:----------------------------|:-----------|:-----------|:--------------------|   
-|Télémarketing et expositions|Les informations sur le nom de société/marque doivent être incluses dans le script de télévente, contenu Microsoft|Copie du script|Résumé des résultats (nombre d’appels et nombre de contacts réussis)|Tarif - Agence : services marketing, notamment les honoraires d’agence ; Tarif - Centre d’appels tiers : frais ; Acquisition de base de données|
-|Séminaires et camps d’entraînement pour les clients|Nom et coordonnées de l’entreprise, contenu Microsoft|Invitation à un événement et planning/programme. Photos de l’événement. Supports de présentation si l’invitation à l’événement et le planning ne répondent pas aux exigences requises|Nombre d’invités inscrits|Signalisation/affichage/documents imprimés ; Lots ; Tarif - Agence : services marketing, notamment les honoraires d’agence ; Tarif - Inscription ; Tarif - Intervenant externe ; Tarif - Location des équipements et des locaux, notamment les appareils Surface détenus et gérés par un tiers ; Restauration (sauf alcool)|
-|Salons et expositions|Nom et coordonnées de l’entreprise, contenu Microsoft|Invitation à l’événement et planning/programme. Photo représentant la participation à l’événement (par exemple, photo du stand, photo de présentation, etc.)|Nombre estimé de participants ou de visiteurs du stand|Signalisation/affichage/documents imprimés ; Lots ; Tarif - Agence : Services marketing, notamment les honoraires d’agence ; Tarif - Inscription ; Tarif - Intervenant externe ; Tarif - Location des équipements et des locaux, notamment les appareils Surface détenus et gérés par un tiers ; Restauration (sauf alcool)|
-|Offres client|Contenu Microsoft|Montrer l’offre avec ses conditions générales. Coûts réels allant jusqu’à 25 % du total des fonds de coopération gagnés par période d’utilisation. Les partenaires Surface peuvent réclamer jusqu’à 100 % des fonds de coopération gagnés par période d’utilisation pour les dépenses d’activité admissibles.|Résumé des résultats|Signalisation/affichage/documents imprimés ; Lots ; Tarif - Agence : services marketing, y compris les honoraires d’agence|
-|Primes incitatives internes et fonds d’incitation à la promotion des ventes|Nom et coordonnées de la société (les règles du concours interne suffisent si le nom de société/marque est inclus dans le support de communication, contenu Microsoft)|Montrer l’offre avec ses conditions générales. Coûts réels allant jusqu’à 25 % du total des fonds de coopération gagnés par période d’utilisation. Les partenaires Surface peuvent réclamer jusqu’à 100 % des fonds de coopération gagnés par période d’utilisation pour les dépenses d’activité admissibles.|Résumé des résultats| Coûts réels allant jusqu’à 25 % du total des fonds de coopération gagnés par période d’utilisation pour : Signalisation, affichage, documents imprimés ; Lots ; Tarif - Agence : services marketing, y compris les honoraires d’agence ; les partenaires Surface peuvent réclamer jusqu’à 100 % des fonds de coopération gagnés par période d’utilisation pour les dépenses d’activité admissibles|
-|Champ sur site|Services axés à 100 % sur des produits Microsoft| Exemples de livrables (en fonction de ce qui est décrit dans le formulaire Champ sur site)||Coûts réels allant jusqu’à 100 % pour Surface et jusqu’à 50 % pour tous les autres programmes des fonds de coopération gagnés par période d’utilisation pour : Tarifs - Services : services fournis par la ou les ressources Champ sur site|
-|Preuve de concept|Contenu Microsoft|Copie des documents développés pour l’explication du concept ou l’étude du marché : livre blanc, développement d’étude de cas, étude de marché, Customer Immersion Experience - Microsoft Customer Immersion Experience (CIE) est une dépense de recherche admissible. Les frais de service admissibles peuvent inclure l’installation d’un centre de démonstration technologique et les services de déploiement, y compris l’installation, la configuration, la migration des données, les tests ou l’installation du système en contact direct avec les clients. Les dépenses de programmation/développement peuvent inclure le développement d’API.|Documents imprimés : Recherche : livre blanc, développement d’étude de cas, étude de marché, Customer Immersion Experience ; Programmation/développement ; Tarif - Agence : services marketing, notamment les honoraires d’agence ; Tarif - Service :  Services de main-d’œuvre fournis par un partenaire ou un fournisseur tiers en support de la preuve de concept|
-|Installation web des achats d’employés pour les clients||Page d’accueil d’URL ou capture d’écran des pages du site web. Non éligible pour distributeur d’appareils agréé Surface|Tarif - Agence : services marketing, y compris les honoraires d’agence ; Programmation/développement : Frais de programmation et de développement ; Tarif - Service :  services de main-d’œuvre fournis par un partenaire ou un fournisseur tiers pour soutenir l’installation web|
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Les informations sur le nom de société/marque doivent être incluses dans le script de télévente, contenu Microsoft |
+| Exigences de communication | Copie du script |
+| Mesures     | Résumé des résultats (nombre d’appels et nombre de contacts réussis) |
+|Dépenses admissibles    | Tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Tarif - Centre d’appels tiers : coûts<br><br>Acquisition de bases de données  |
 
-##  <a name="partner-readiness"></a>Préparation des partenaires
+### <a name="customer-seminars-and-boot-camps"></a>Séminaires et camps d’entraînement pour les clients
 
-Activités du personnel technique et commercial interne du partenaire qui incluent des dépenses spécifiques liées à la formation favorisant le développement des compétences techniques et commerciales du partenaire relatives à Microsoft.
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Coordonnées et marque de l’entreprise<br><br>Contenu Microsoft  |
+| Exigences de communication | Invitation à l’événement et planning/programme<br><br>Photos de l’événement<br><br>Supports de présentation si l’invitation à l’événement et le planning ne répondent pas aux exigences. |
+| Mesures     | Nombre d’invités inscrits |
+|Dépenses admissibles    | Signalisation/Affichage/Documents imprimés<br><br>Lots<br><br>Tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Tarif - Inscription<br><br>Tarif - Intervenant externe<br><br>Frais - Location de salle et d’équipement, y compris les appareils Surface qui sont détenus et gérés par un tiers<br><br>Traiteur (sauf alcool) |
 
-|           **Activité**           | **Conditions requises**                                                                  |                    **Exigences de communication**                   |**Métriques**|**Dépenses admissibles**|
-|----------------------------------|:---------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------|--------------|
-|
-|        Participation MPN         |Facture Microsoft d’origine|                                                                                        |                                                                        |Tarif - Inscription annuelle : frais d’inscription annuelle à MPN • Plaque et DVD (premier ensemble) : Plaque de membre MPN et premier ensemble de DVD • Kit d’outils de prestations supplémentaire|
-|   Examens Microsoft et frais de scolarité    | Code de cours/code d’examen sur [Microsoft Learning](https://partner.microsoft.com/training) | Facture tierce avec code de cours et date d’achèvement ou facture avec code d’examen et date d’achèvement|Liste des participants et coût par personne|Tarif - Examen : frais d’examens Microsoft pour les certifications et les compétences ; Tarif - Formation/frais de scolarité : frais d’examens Microsoft pour les certifications et les compétences, notamment les dépenses de formation à la demande ; formation aux solutions ISV tierces - frais de scolarité pour la formation sur des solutions tierces afin de démontrer qu’elles peuvent tirer profit des applications et des plateformes Microsoft, ou y résider ; Tarif - Renouvellement MCT : frais de renouvellement du formateur certifié Microsoft (aucune métrique requise)|
-                                                                       |
-| Formation interne et journées de vente dédiées | 100 % du contenu Microsoft pour la durée ou l’espace de l’événement demandé               | 1) Planning de formation ou programme d’événement 2) Contenu de présentation Microsoft |Nombre de participants|Tarif - Formation/frais de scolarité/inscription/ plateforme de formation au numérique ou mise en forme de formation au numérique ; Signalisation/affichage/documents imprimés ; Lots ; Tarif - Agence : services marketing, notamment les honoraires d’agence ; Tarif - Intervenant externe ; Tarif - Location des équipements et des locaux ; Restauration (sauf alcool)|
-| Conférences hébergées par Microsoft   | Conférences hébergées par Microsoft. Les dépenses de billets d’avion/hôtel sont plafonnées à 5 000 USD par personne et par conférence, et limitées à 3 participants, avec un plafond total de 45 000 USD pour les dépenses de billets d’avion/billets de train/hôtel par période et par programme. * L’hébergement peut bénéficier d’autorisations différentes.|Une copie de l’invitation à la conférence/l’événement ou de la confirmation d’inscription apportant la preuve que la conférence est organisée par Microsoft ; Itinéraire de trajet avec dates de voyage (Voyage - frais de billets d’avion uniquement)| | Tarif - Inscription : pour un maximum de 3 participants par conférence ; Voyage - Billet d’avion/hôtel : Transport (billets d’avion ou de train et taxes applicables) et hôtel (tarif des chambres uniquement et taxes applicables) ; Remarque : Voyage - Les dépenses de billets d’avion/hôtel sont plafonnées à 5 000 USD par personne et par conférence, et limitées à 3 participants, avec un plafond total de 45 000 USD pour les dépenses de billets d’avion/billets de train/hôtel par période et par programme. L’hébergement peut bénéficier d’autorisations différentes.|                                           
-|Amorçage de produit/Unités de démonstration| Vous pouvez revendiquer jusqu’à 10 % du total des fonds de coopération accumulés ou 3 000 USD, selon la valeur la plus élevée ou par période de programme. Les partenaires Surface PC & Hub n’ont aucune limite de revendications.|Spécifications système pour les unités de démonstration créées en interne. Preuve de livraison pour unité de démonstration tierce. Preuve d’unité de démonstration tierce|
+### <a name="tradeshows-and-exhibitions"></a>Salons et expositions
 
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Coordonnées et marque de l’entreprise<br><br>Contenu Microsoft  |
+| Exigences de communication | Invitation à l’événement et planning/programme<br><br>Photo représentant la participation à l’événement (par exemple, photo du stand, photo de présentation, etc.) |
+| Mesures     | Nombre estimé de participants ou de visiteurs du stand  |
+|Dépenses admissibles    | Signalisation/Affichage/Documents imprimés<br><br>Lots<br><br>Tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Tarif - Inscription<br><br>Tarif - Intervenant externe<br><br>Frais - Location de salle et d’équipement, y compris les appareils Surface qui sont détenus et gérés par un tiers<br><br>Traiteur (sauf alcool) |
 
+### <a name="customer-offers"></a>Offres client
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Contenu Microsoft |
+| Exigences de communication | Montrer l’offre avec ses conditions générales. Coûts réels allant jusqu’à 25 % du total des fonds de coopération gagnés par période d’utilisation. Les partenaires Surface peuvent réclamer jusqu’à 100 % des fonds de coopération gagnés par période d’utilisation pour les dépenses d’activité admissibles. |
+| Mesures     | Résumé des résultats |
+|Dépenses admissibles    | Signalisation/Affichage/Documents imprimés<br><br>Lots<br><br>Tarif - Agence : services marketing, y compris les honoraires d’agence |
+
+### <a name="internal-incentives-and-spiffs"></a>Primes incitatives internes et fonds d’incitation à la promotion des ventes
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Nom et coordonnées de la société (les règles du concours interne suffisent si le nom de la société ou la marque sont inclus dans le support de communication)<br><br>Contenu Microsoft |
+| Exigences de communication   | Montrer l’offre avec ses conditions générales. Coûts réels allant jusqu’à 25 % du total des fonds de coopération gagnés par période d’utilisation. Les partenaires Surface peuvent réclamer jusqu’à 100 % des fonds de coopération gagnés par période d’utilisation pour les dépenses d’activité admissibles. |
+| Mesures     | Résumé des résultats |
+|Dépenses admissibles    | Coûts réels allant jusqu’à 25 % du total des fonds de coopération gagnés par période d’utilisation pour : Signalisation, affichage, documents imprimés<br><br>Lots<br><br>Tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Les partenaires Surface peuvent réclamer jusqu’à 100 % des fonds de coopération gagnés par période d’utilisation pour les dépenses d’activité admissibles |
+
+### <a name="on-site-champ"></a>Champ sur site
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Services axés à 100 % sur des produits Microsoft | 
+| Exigences de communication | Exemples de livrables (en fonction de ce qui est décrit dans le formulaire Champ sur site) |
+| Mesures     | N/D |
+|Dépenses admissibles    | Coûts réels allant jusqu’à 100 % pour Surface et jusqu’à 50 % pour tous les autres programmes des fonds de coopération gagnés par période d’utilisation pour : Tarifs - Services : services fournis par la ou les ressources Champ sur site |
+
+### <a name="proof-of-concept"></a>Preuve de concept
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Preuve de concept |
+| Exigences de communication  | Contenu Microsoft |
+| Mesures     | Copie des documents développés pour l’explication du concept ou l’étude du marché : livre blanc, développement d’étude de cas, étude de marché, Customer Immersion Experience - Microsoft Customer Immersion Experience (CIE) est une dépense de recherche admissible.<br><br>Les frais de service admissibles peuvent inclure l’installation d’un centre de démonstration technologique et les services de déploiement, y compris l’installation, la configuration, la migration des données, les tests ou l’installation du système en contact direct avec les clients.<br><br>Les dépenses de programmation/développement peuvent inclure le développement d’API. |
+|Dépenses admissibles    | Documents imprimés : Recherche : Livre blanc, développement d’étude de cas, étude de marché, Customer Immersion Experience<br><br>Programmation/Développement<br><br>Tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Tarif - Agence : Services de main-d’œuvre fournis par un partenaire ou un fournisseur tiers en support de la preuve de concept |
+
+### <a name="employee-purchase-web-setup-for-customers"></a>Installation web des achats d’employés pour les clients
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | N/D |
+| Exigences de communication | Page d’accueil d’URL ou capture d’écran des pages du site web. Non éligible pour distributeur d’appareils agréé Surface |
+| Mesures     | Tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Programmation/Développement : Frais de programmation et de développement<br><br>Tarif - Agence : services de main-d’œuvre fournis par un partenaire ou un fournisseur tiers pour soutenir l’installation web |
+|Dépenses admissibles    | N/D |
+
+## <a name="partner-readiness"></a>Préparation des partenaires
+
+### <a name="mpn-participation"></a>Participation MPN
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Facture Microsoft d’origine |
+| Exigences de communication | N/D |
+| Mesures     | N/D |
+|Dépenses admissibles    | Tarif - Inscription annuelle : Frais d’inscription annuelle MPN<br><br>Plaque et DVD (premier ensemble) : Plaque de membre MPN et premier ensemble de DVD<br><br>Kit de ressources des avantages supplémentaires |
+
+### <a name="microsoft-exams-and-tuition"></a>Examens Microsoft et frais de scolarité
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Code de cours/Code d’examen sur Microsoft Learning |
+| Exigences de communication | Facture tierce avec code de cours et date d’achèvement ou facture avec code d’examen et date d’achèvement |
+| Mesures     | Liste des participants et coût par personne |
+|Dépenses admissibles    | Tarif - Examen : Frais d’examens Microsoft pour les certifications et les compétences<br><br>Tarif - Formation/frais de scolarité : Frais de scolarité Microsoft pour les certifications et les compétences, y compris les frais de formation à la demande<br><br>Formation aux solutions ISV tierces - frais de scolarité pour la formation sur des solutions tierces afin de démontrer qu’elles peuvent tirer profit des applications et des plateformes Microsoft, ou y résider<br><br>Tarif - Renouvellement MCT : frais de renouvellement du formateur certifié Microsoft (aucune métrique requise)<br><br>|
+
+### <a name="internal-training-and-floor-days"></a>Formation interne et journées de vente dédiées
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | 100 % du contenu Microsoft pour la durée ou l’espace de l’événement demandé |
+| Exigences de communication | Agenda de formation ou programme des événements<br><br>Contenu de la présentation Microsoft<br><br>|
+| Mesures     | Nombre de participants |
+|Dépenses admissibles    | Frais - Formation/Scolarité/Inscription/Plateforme de formation numérique ou mise en forme de formation numérique<br><br>Signalisation/Affichage/Documents imprimés<br><br>Lots<br><br>Tarif - Agence : services marketing, y compris les honoraires d’agence<br><br>Tarif - Intervenant externe<br><br>Tarif - Location des équipements et des locaux<br><br>Traiteur (sauf alcool) |
+
+### <a name="microsoft-hosted-conferences"></a>Conférences hébergées par Microsoft
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Conférences hébergées par Microsoft. Les dépenses de billets d’avion/hôtel sont plafonnées à 5 000 USD par personne et par conférence, et limitées à 3 participants, avec un plafond total de 45 000 USD pour les dépenses de billets d’avion/billets de train/hôtel par période et par programme. L’hébergement peut bénéficier d’autorisations différentes. |
+| Exigences de communication | Une copie de l’invitation à la conférence/l’événement ou de la confirmation d’inscription apportant la preuve que la conférence est organisée par Microsoft<br><br>Itinéraire de trajet avec dates de voyage (Voyage - frais de billets d’avion uniquement) |
+| Mesures     | N/D |
+|Dépenses admissibles    | Tarif - Inscription : pour un maximum de 3 participants par conférence<br><br>Voyage - Billet d’avion/hôtel : Transport (billets d’avion ou de train et taxes applicables) et hôtel (tarif des chambres uniquement et taxes applicables)<br><br>Remarque : Voyage - Les dépenses de billets d’avion/hôtel sont plafonnées à 5 000 USD par personne et par conférence, et limitées à 3 participants, avec un plafond total de 45 000 USD pour les dépenses de billets d’avion/billets de train/hôtel par période et par programme. L’hébergement peut bénéficier d’autorisations différentes. |
+
+### <a name="product-seedingdemo-units"></a>Amorçage de produit/Unités de démonstration
+
+| Category | Preuve d’exécution    |
+| ------ | ----------- |
+| Conditions requises    | Vous pouvez revendiquer jusqu’à 10 % du total des fonds de coopération accumulés ou 3 000 USD, selon la valeur la plus élevée ou par période de programme. Les partenaires Surface PC & Hub n’ont aucune limite de revendications. |
+| Exigences de communication | Spécifications système pour les unités de démonstration créées en interne.<br><br>Preuve de livraison pour unité de démonstration tierce.<br><br>Preuve d’unité de démonstration tierce. |
+| Mesures     | N/D |
+|Dépenses admissibles    | N/D |
 
  Pour plus d’informations, téléchargez le [Guide de coopération aux primes incitatives des partenaires](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (connexion nécessaire)
 
+## <a name="next-steps"></a>Étapes suivantes
 
-
+- [Gérer les demandes de coopération](incentives-managing-co-op-claims.md)

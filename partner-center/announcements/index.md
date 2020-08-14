@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811159"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220201"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,8 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces d’août 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
+|Fonctionnalités|[Achat en libre-service de Microsoft Project et Microsoft Visio bientôt disponible](2020-august.md#5)|12 août|
 |Offres/marchés|[Nouvelles références SKU Communications avancées Microsoft Teams maintenant disponibles](2020-august.md#4)|4 août|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible en septembre](2020-august.md#3)|4 août|
 |Offres/marchés|[Nouvelle offre groupée Dynamics 365 Sales Premium](2020-august.md#2)|3 août|
@@ -86,7 +88,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces de janvier 2020** | **Date** |
 | Offres/marchés | [Abonnements Windows Server et SQL Server disponibles pour les partenaires fournisseurs de solutions Cloud (CSP) en Russie à partir du 1er février 2020](2020-january.md#7) | 31 janvier |
 | Offres/marchés | [Les extensions Salle de réunion et Réunions pour l’aide F1 de Microsoft 365 sont maintenant disponibles pour le Cloud de la communauté du secteur public (GCC)](2020-january.md#6) | 29 janvier |
-| Fonctions | [Extensions Salle de réunion et Réunions pour l’aide F1 de Microsoft 365 maintenant disponibles pour le Cloud de la communauté du secteur public (GCC)](2020-january.md#5) | 28 janvier |
+| Fonctions | [Disponible dès maintenant ! Achat en libre-service de Power Apps et Power Automate pour les clients aux États-Unis](2020-january.md#5) | 28 janvier |
 | Fonctions | [Annonce d’un nouveau tableau de bord de rapport dans l’Espace partenaires](2020-january.md#4) |27 janvier |
 | Fonctions | [Ne pas oublier de confirmer l’acceptation du Contrat client Microsoft avant le 31 janvier 2020](2020-january.md#3) | 27 janvier |
 | Fonctions | [Liste des prix et planification des mises à jour des offres pour janvier 2020](2020-january.md#2) | 7 janvier |

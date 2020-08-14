@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434318"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839184"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Attribuer des rôles et des autorisations aux utilisateurs d’une entreprise qui ont besoin de travailler dans l’Espace partenaires
 
@@ -46,6 +46,7 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||*    Voir tous les profils de partenaire
 ||*    Voir, créer et gérer les utilisateurs partenaires  |
 |Administrateur de la facturation | • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|
+||*    Voir les prix
 |Utilisateur par défaut|  • Afficher son profil   |
 |Agent d’administration | *    Gestion des clients
 ||*    Ajouter une liste d’appareils à l’Espace partenaires
@@ -62,6 +63,7 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||*    Gestion des abonnements
 ||*    Voir les tickets de support
 ||*    Demander une relation avec un client
+||*    Voir les tarifs et les offres
 ||*    Gérer les prospects
 ||*    Voir le contrat d’un client
 ||*    Inscrire un revendeur à valeur ajoutée|

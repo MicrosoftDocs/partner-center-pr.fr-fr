@@ -1,7 +1,7 @@
 ---
 title: Créer un compte Espace partenaires
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 08/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment les membres Microsoft Partner Network peuvent créer un compte Espace partenaires pour gérer leurs revenus et leurs compétences du réseau.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114716"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998417"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Créer un compte Espace partenaires pour gérer les revenus et les compétences du réseau
 
@@ -65,6 +65,45 @@ Nous vérifierons ces informations au cours du processus de création du compte.
     a. Dans le [tableau de bord](https://partner.microsoft.com/dashboard/home**) de l’Espace partenaires, sélectionnez l’icône **Paramètres**, puis **Gestion des utilisateurs**.  
 
     b. Sélectionnez votre nom dans la liste des utilisateurs, puis sélectionnez **Agent d’administration**, s’il n’est pas déjà sélectionné. Sélectionnez **Mettre à jour**.  
+
+## <a name="view-mpn-account-details"></a>Afficher les détails d’un compte MPN
+
+Une fois que vous avez créé un compte Espace partenaires, vous pouvez revenir à l’Espace partenaires pour afficher les détails de ce compte. La plupart d’entre eux figurent dans la page **Profil du partenaire** de votre [tableau de bord](https://partner.microsoft.com/dashboard) Espace partenaires.
+
+Ces détails sont les suivants :
+
+- Le profil d’entreprise juridique de votre société
+
+- Des informations sur votre ID MPN
+
+- Des liens vers les contrats qui sont actuellement associés à votre programme Microsoft inscrit
+
+  Par exemple, si vous êtes inscrit au programme MPN, vous verrez un lien pour le contrat Microsoft Partner Network actuel. Si vous êtes inscrit à d’autres programmes partenaires, comme le programme CSP, vous pouvez également consulter d’autres liens, comme celui du Contrat Partenaire Microsoft. 
+
+  > [!NOTE]
+  > Le fait de voir ces types de liens peut vous être utile si vous souhaitez voir, ouvrir ou télécharger un contrat, ou vérifier la date à laquelle il a été signé.
+
+### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Afficher les détails du compte, ou afficher et télécharger le contrat MPN
+
+Suivez ces étapes pour afficher les détails du compte, ou afficher et télécharger le contrat MPN :
+
+1. À l’aide du nom d’utilisateur et du mot de passe de votre compte professionnel, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
+
+2. La page Vue d’ensemble s’affiche (si vous ne voyez pas la page Vue d’ensemble, sélectionnez **Vue d’ensemble** dans le menu de navigation de gauche).
+
+3. Sélectionnez l’icône représentant une roue dentée dans l’angle supérieur droit du tableau de bord, puis sélectionnez **Paramètres partenaire**. Vous accédez alors à la page Profil du partenaire.
+
+4. Dans la page Profil du partenaire, vous verrez différentes sections. Vous verrez notamment les sections **Profil d’entreprise juridique** et **Informations sur le programme**.
+
+5. Sous **Informations sur le programme**, localisez le champ **Statut du programme MPN**. Cela affiche un lien vers votre contrat Microsoft Partner Network. Vous voyez également l’état actuel du programme.
+
+
+   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Image montrant la section Informations sur le programme dans la page Profil du partenaire, avec le champ Statut du programme MPN encadré en rouge, ainsi que son lien vers le contrat Microsoft Partner Network.":::
+
+6. Pour afficher ou télécharger ce contrat, sélectionnez **Contrat Microsoft Partner Network**.  
+
+> [!NOTE]
+> Vous pouvez suivre les étapes ci-dessus pour afficher ou télécharger les contrats d’autres programmes inscrits, tels que le Contrat Partenaire Microsoft si vous êtes inscrit au programme CSP.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

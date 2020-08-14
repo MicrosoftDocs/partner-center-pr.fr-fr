@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389128"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998383"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Premier achat ou renouvellement d’un abonnement Microsoft Action Pack ou de compétences Silver et Gold
 
@@ -72,6 +72,13 @@ Devenez un [partenaire Compétences](https://partner.microsoft.com/membership/co
 
 Votre abonnement Action Pack sera renouvelé automatiquement chaque année à cette date. Vous pouvez désactiver le renouvellement automatique à tout moment à partir de votre liste d’offres **Acheté** ; cependant, vous ne pourrez pas réactiver le renouvellement d’abonnement automatique tant que vous n’aurez pas renouvelé une nouvelle fois votre abonnement. 
 
+### <a name="update-your-bill-to-address"></a>Mettre à jour votre adresse de facturation
+
+Lors du renouvellement ou de l’achat d’un abonnement Action Pack, vous avez la possibilité de valider votre adresse de facturation.
+
+ 1. Après avoir sélectionné **Envoyer**, vous pouvez passer en revue les détails de votre achat. Sélectionnez **Mettre à jour** si vous constatez que votre adresse doit être mise à jour.
+  
+ 1. Dans la page **Profil du partenaire**, mettez à jour votre adresse.
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Désactiver le renouvellement automatique de l’abonnement Action Pack
 
