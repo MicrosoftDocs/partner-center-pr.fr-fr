@@ -2,21 +2,21 @@
 title: Être crédité de la taxe à la retenue
 ms.topic: article
 ms.date: 06/05/2020
-description: Assurez-vous que votre compte espace partenaires est crédité pour la TVA en créant une demande de retenue d’impôt dans l’espace partenaires.
+description: Recevoir un crédit sur votre compte espace partenaires pour la retenue fiscale
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b4660db3b23f44a9b7bbf7bf238a03b271405bfe
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
+ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436448"
+ms.lasthandoff: 08/15/2020
+ms.locfileid: "88251265"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Assurez-vous que vous êtes crédité de l’impôt à la demande si vous payez une administration fiscale locale au lieu de Microsoft
+# <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Recevoir un crédit sur votre compte espace partenaires pour la retenue fiscale
 
 S’applique à :
 
@@ -24,9 +24,9 @@ S’applique à :
 
 ## <a name="overview"></a>Vue d’ensemble
 
-Dans certains pays, les partenaires CSP reçoivent des montants de facture incluant des taxes. Certains de ces partenaires paient leur administration fiscale locale au lieu de Microsoft. Si vous payez votre administration fiscale locale, vous devez soumettre une demande de retenue d’impôt, y compris votre certificat fiscal, pour effacer le montant imposé des factures précédentes. Ces montants effacés apparaissent sous forme de crédits dans les factures mensuelles suivantes. vous n’aurez donc plus à payer les taxes de Microsoft.
+Dans certains pays, les partenaires CSP reçoivent des montants de facture incluant des taxes. Certains de ces partenaires paient leur administration fiscale locale au lieu de Microsoft. Si vous payez votre administration fiscale locale, vous devez soumettre une demande de retenue d’impôt, y compris votre certificat fiscal, pour effacer le montant imposé des factures précédentes. Ces montants effacés sont reflétés dans la colonne **dernier paiement** de la **page facturation** de l’espace partenaires.
 
-À compter du 2020, les partenaires CSP doivent soumettre des demandes d’impôt sur la **page de facturation** au lieu de créer des demandes de support.
+Partenaires utilisés pour envoyer des demandes de retenue d’impôt en créant des demandes de service (tickets de support partenaires) dans l’espace partenaires. Ce processus a été modifié en janvier 2020. Désormais, les partenaires CSP doivent envoyer des demandes de retenue d’impôt sur la **page de facturation** au lieu de créer des demandes de support.
 
 > [!IMPORTANT]
 > Les partenaires peuvent soumettre des demandes de taxes à la demande uniquement pour les factures **payantes** .
@@ -39,7 +39,7 @@ Procédez comme suit pour soumettre une nouvelle retenue fiscale :
 
 2. Dans le menu de gauche, choisissez **facturation** et accédez à **l’historique de facturation**.
 
-3. Cliquez sur **Envoyer nouveau** pour afficher la page **nouvelle demande de retenue d’impôt** .
+3. Cliquez sur **Envoyer nouveau** en regard de la facture pour laquelle vous souhaitez soumettre un dédouanement. Le lien envoyer nouveau vous permet d’accéder à la page **nouvelle demande de retenue d’impôt** .
 
    :::image type="content" source="images/wht1.png" alt-text="Soumettre une nouvelle retenue fiscale pour une facture":::
 
@@ -52,7 +52,7 @@ Procédez comme suit pour soumettre une nouvelle retenue fiscale :
 6. **Joindre** un certificat fiscal. Vous devez inclure une **copie numérique** de votre certificat de **retenue** à la demande d’impôt. Vous avez reçu ce certificat de votre Agence fiscale locale lorsque vous payez vos taxes à votre autorité fiscale locale. Le montant de la taxe sur la facture dans le certificat de retenue à la demande doit correspondre au montant total de votre demande de retenue fiscale.
 
    > [!IMPORTANT]
-   > Le montant total que le partenaire fournit doit correspondre à l’élément de ligne de facturation du certificat de taxe joint. Les fichiers de certificat de taxe joints doivent être dans l’un des formats de fichier suivants :. PDF ou image uniquement (. JPEG,. PNG et. GIF). En outre, les noms de fichiers ne doivent pas contenir d’espaces ou de caractères spéciaux.
+   > Le montant total que le partenaire fournit doit correspondre à l’élément de ligne de facturation du certificat de taxe joint. Les fichiers de certificat de taxe joints doivent être dans l’un des formats de fichier suivants :. PDF ou image uniquement (. JPEG,. PNG et. GIF). En outre, les noms de fichiers ne doivent pas contenir d’espaces ou de caractères spéciaux. La taille des fichiers ne peut pas dépasser 1 Mo.
 
 7. **Envoyez** la demande de retenue d’impôt.
 
@@ -80,11 +80,16 @@ L’équipe de révision peut vous obliger à apporter des corrections et à sou
 
 8. **Envoyez** la demande.
 
-Cette opération renvoie la demande à l’équipe de révision, où elle approuve ou demande des modifications supplémentaires.
+L’envoi de la demande le renvoie à l’équipe de révision, où elle approuve ou demande des modifications supplémentaires.
 
 ### <a name="approved-requests"></a>Demandes approuvées
 
-Les demandes de retenue d’impôt approuvé seront exécutées sur votre prochaine facture, en réécrivant le montant dû. Cela s’affiche sous la forme d’un crédit sur votre facture.
+Les demandes de retenue d’impôt approuvé seront exécutées sur votre prochaine facture, en réécrivant le montant dû. Les demandes marquées comme **terminées** doivent être appliquées dans un délai de 10 jours ouvrables. 
+
+Les montants effacés sont reflétés dans la **section historique de facturation de la page facturation**. Les montants effacés s’affichent dans la colonne **dernier paiement** en regard de la facture vers laquelle la demande a été soumise.
+
+   > [!IMPORTANT]
+   > Les factures précédentes ne sont pas régénérées ou réémises. Le montant clearace est simplement appliqué aux paiements des mois précédents.
 
 Le traitement des demandes de retenue d’impôt doit prendre deux jours pour s’exécuter en supposant que le certificat et le montant de la taxe sont corrects. Si des modifications sont nécessaires, cela prendra plus de temps, en raison des corrections qui doivent être effectuées et renvoyées.
 
@@ -99,3 +104,10 @@ Les partenaires qui envoient des demandes de retenue d’impôt allemand doivent
 - Un emplacement Microsoft,
 - South County Business Park
 - Leopardstown, Dublin 18, Irlande
+
+### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Questions et assistance pour les demandes de retenue d’impôt
+
+Les partenaires doivent utiliser le nouveau processus détaillé ci-dessus pour envoyer de nouvelles demandes et ne plus utiliser la création de demande de support pour les nouvelles demandes de retenue d’impôt. Les partenaires qui ont des questions supplémentaires sur les demandes de retenue d’impôt peuvent [Envoyer des demandes de support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Les demandes de support sont destinées à aider les partenaires pour les demandes existantes afin qu’elles aient besoin de leur **ID de demande** pour envoyer un nouveau ticket. Si les partenaires ne peuvent pas envoyer une demande à l’aide du nouveau processus, ils doivent entrer un nombre (tous les 1) dans le formulaire de demande de support. 
+
+   > [!IMPORTANT]
+   > Les partenaires n’ont pas besoin de contacter le support si leur état de demande est **terminé**. Cet État s’affiche dans l' **historique de facturation** à côté de la facture de la soumission. Les derniers montants de **paiement** en regard de la facture doivent refléter le montant de la retenue d’impôt à l’intérieur de 10 jours après que la demande est marquée comme **terminée**.
