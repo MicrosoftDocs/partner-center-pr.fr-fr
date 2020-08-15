@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444836"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239047"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
@@ -26,7 +26,7 @@ ms.locfileid: "87444836"
 
 Le rapport licences du produit présente l’analytique des licences pour les produits Cloud basés sur des licences, tels que O365, Dynamics, M365, Power BI, etc. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
 
-- Résumé
+- Récapitulatif
 - Répartition géographique des licences
 - Ajouts de licence
 - Distribution de licences par emplacement de partenaire, canal de vente, SKU, type de rattachement de partenaire, segment
@@ -83,3 +83,6 @@ Cette vue affiche une répartition de vos licences client par pays/région du cl
 ## <a name="next-steps"></a>Étapes suivantes
 
 Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).
+
+>[!NOTE] 
+> Vous pouvez télécharger les données brutes qui alimentent ce rapport à partir de la section Télécharger des rapports dans le tableau de bord Insights. [En savoir plus](pci-download-reports.md)

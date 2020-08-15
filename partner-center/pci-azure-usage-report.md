@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436718"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239067"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Azure disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -77,3 +77,6 @@ Le graphique à barres présente la tendance mensuelle du chiffre d’affaires/d
 ## <a name="next-steps"></a>Étapes suivantes
 
 - Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).
+
+>[!NOTE] 
+> Vous pouvez télécharger les données brutes qui alimentent ce rapport à partir de la section Télécharger des rapports dans le tableau de bord Insights. [En savoir plus](pci-download-reports.md) 

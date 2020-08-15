@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d7954f40294202750d0b6d51102f68ea694b07c3
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434458"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239027"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Rapports tableau de bord clients à partir de l’espace partenaires Insights
 
@@ -34,7 +34,7 @@ Le tableau de bord clients contient les sections suivantes :
 
 La section Résumé présente un aperçu des différents indicateurs de performance clés liés à vos clients, tels que les clients, les clients actifs, les abonnements, les ajouts de clients, les clients en cours d’évolution et les clients de chaque produit. Les filtres au niveau de la page s’appliquent à chaque section.
 
-**Clients**
+**Acheteurs**
 
 - Nombre actuel de tous les clients dont votre organisation est associée par le biais de différents types d’attributions dans tous les produits Cloud tels qu’Office, Azure, Dynamics, etc. Un client est compté s’il a au moins un abonnement avec l’état actif.  
 - Refuser le pourcentage de clients au cours de la plage de dates sélectionnée 
@@ -96,3 +96,6 @@ Graphique de tendance mensuelle comparant les clients actifs et totaux de la pla
 ## <a name="next-steps"></a>Étapes suivantes
 
 Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).
+
+>[!NOTE] 
+> Vous pouvez télécharger les données brutes qui alimentent ce rapport à partir de la section Télécharger des rapports dans le tableau de bord Insights. [En savoir plus](pci-download-reports.md) 
