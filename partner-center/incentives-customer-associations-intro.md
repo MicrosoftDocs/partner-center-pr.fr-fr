@@ -4,16 +4,16 @@ description: En savoir plus sur les ressources des partenaires pour ceux qui ont
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 2adf7ec9b3eb35e4fef4791de82b9104e7203329
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: cb9f5b6b6ddfbd9da90543152ee23ce6673ea720
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110563"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303235"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-microsoft-incentives-programs"></a>Utilisez ces ressources pour faire des revendications d’association client pour des programmes d’incentives Microsoft spécifiques
 

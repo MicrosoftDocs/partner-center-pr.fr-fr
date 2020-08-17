@@ -1,25 +1,25 @@
 ---
-title: Gérer les revendications de co-op
+title: Gérer les demandes de coopération
 description: Comprendre le processus de demande de remboursement, y compris les échéances, les problèmes de monnaie et comment contester une revendication de coopération rejetée.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 4d164eed72906b8fd04700865c7320c7fc23f11f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545970"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303195"
 ---
-# <a name="manage-co-op-claims"></a>Gérer les revendications de co-op
+# <a name="manage-co-op-claims"></a>Gérer les demandes de coopération
 
 S’applique à :
 
-- Espace partenaires
+- Espace partenaire
 
 Le contenu suivant vous donne des informations pour gérer les revendications de coopération, y compris les chronologies, les règles et comment contester une revendication de coopération rejetée.
 

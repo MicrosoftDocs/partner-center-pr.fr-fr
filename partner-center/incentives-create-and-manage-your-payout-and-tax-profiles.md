@@ -1,33 +1,57 @@
 ---
 title: Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires
 ms.topic: how-to
-ms.date: 06/29/2020
+ms.date: 08/13/2020
 description: Avant de pouvoir vous payer pour votre travail d’incentives, vous devez créer vos profils de paiement et de taxes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546040"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303275"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Profils de paiement et fiscaux dans l’Espace partenaires
 
 S’applique à :
 
-- Espace partenaires
+- Espace partenaire
 
-Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal valide au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
+Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
 
 Rôles appropriés :
 
 - Administrateur de primes incitatives
 - Administrateur de la facturation
 - Administrateur général
+
+## <a name="roles-currencies-and-other-microsoft-programs"></a>Rôles, devises et autres programmes Microsoft
+
+Il est important de comprendre les informations ci-dessous avant de commencer à utiliser votre profil d’imposition et de paiement.
+
+### <a name="roles-and-permissions"></a>Rôles et autorisations
+
+Vous devez être un administrateur d’incentives pour entrer les informations bancaires et fiscales relatives aux paiements d’incentives. Si vous êtes un administrateur MPN/de compte, vous pouvez vous assigner et/ou un collègue pour être l’administrateur des incentives.
+
+Si vous devez demander des autorisations d’administrateur incitatives, contactez votre administrateur MPN ou votre administrateur général. Vous pouvez identifier les personnes de votre entreprise qui possèdent ces rôles dans le tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/). À partir de l’icône des **paramètres** en haut à droite, sélectionnez **gestion des utilisateurs** , puis filtrez sur administrateur général.
+
+Les utilisateurs incitants peuvent consulter les résultats des incentives et les rapports et les détails de paiement, mais ne peuvent pas modifier les détails des banques et des taxes.
+
+### <a name="choose-your-disbursement-currency"></a>Choisir votre devise de décaissement
+
+Par défaut, les incentives sont effectués dans la devise locale de chaque entité respective. Vous pouvez spécifier une autre devise lors de la configuration du profil. Les paiements sont calculés à l’aide d’un taux de change défini chaque mois par Microsoft. Vous êtes responsable des modifications apportées à la valeur en raison de la devise sélectionnée.
+
+### <a name="bank-and-tax-information-and-other-programs"></a>Informations bancaires et fiscales, ainsi que d’autres programmes
+
+Fournissez les informations décrites ci-dessous, même si Microsoft utilise déjà vos données bancaires pour les paiements. Cela permet de garantir la confidentialité et la sécurité des données de votre entreprise, car la copie de votre profil vers le nouvel outil peut exposer des informations sensibles. Ce processus est également une bonne opportunité de s’assurer que les données sont complètes et précises.
+
+### <a name="using-different-profiles-for-different-microsoft-programs"></a>Utilisation de différents profils pour différents programmes Microsoft
+
+Au sein de la vente au détail, les paiements de chacun des cinq programmes d’incentives de vente au détail peuvent aller sur le même compte bancaire. Vous pouvez également choisir de faire en sorte que les paiements de la Xbox de vente au détail soient effectués sur un compte bancaire alors que le Bureau de vente au détail est payé à un compte bancaire différent.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires
 
@@ -38,10 +62,10 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Accéder à la section paiement et taxes dans l’espace partenaires
 
-1. Connectez-vous à l’espace partenaires à l’aide de votre compte AAD (compte d’entreprise) ou de l’adresse de messagerie appropriée, le cas échéant. 
+1. Connectez-vous à l’espace partenaires à l’aide de votre compte de Azure Active Directory (Azure AD) ou de l’adresse de messagerie appropriée, le cas échéant. 
 
-   - Plusieurs domaines peuvent être inscrits au sein d’un même compte AAD. Contactez votre administrateur général pour déterminer les domaines associés.
-   - Si vous ne pouvez vous connecter qu’avec **@onmicrosoft.com** un domaine, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte AAD.
+   - Plusieurs domaines peuvent être inscrits dans un compte Azure AD. Contactez votre administrateur général pour déterminer les domaines associés.
+   - Si vous êtes uniquement en mesure de vous connecter avec le @onmicrosoft.com domaine, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte Azure ad.
    - Si vous êtes invité à sélectionner un compte **professionnel ou scolaire** ou un compte **personnel**, sélectionnez **compte professionnel ou scolaire**.
 
 2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** , puis sélectionnez **paramètres de partenaire**.
@@ -60,9 +84,9 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 4. Sélectionnez le **mode de paiement**.
 
-   - Si vous avez sélectionné le mode de paiement **virement bancaire électronique** , sélectionnez le profil de paiement souhaité dans la liste déroulante profil de paiement ou sélectionnez l’option permettant de créer un nouveau profil. Lorsque vous sélectionnez l’option permettant de créer un nouveau profil, vous êtes redirigé de manière appropriée.  Sélectionnez continuer dans la fenêtre contextuelle. Le processus de création d’un nouveau profil de paiement est fourni ci-dessous.
+   - Si vous avez sélectionné le mode de paiement **virement bancaire électronique** , sélectionnez le profil de paiement de votre choix ou sélectionnez l’option permettant de créer un nouveau profil. Lorsque vous sélectionnez l’option permettant de créer un nouveau profil, vous êtes redirigé de manière appropriée. Sélectionnez continuer dans la fenêtre contextuelle. Le processus de création d’un nouveau profil de paiement est fourni ci-dessous.
 
-   - Si vous avez sélectionné **note de crédit** comme mode de paiement, effectuez la vérification pour confirmer que le numéro SAP référencé appartient à votre organisation.
+   - Si vous avez sélectionné **note de crédit** comme mode de paiement, effectuez la vérification. Cela confirme que le numéro SAP référencé appartient à votre organisation.
 
     >[!NOTE]
     >Si plusieurs entités d’entreprise Microsoft sont répertoriées, vous devez sélectionner un profil de paiement pour chaque entité.
@@ -76,14 +100,14 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 ## <a name="create-your-bank-profile"></a>Créer votre profil bancaire
 
-Les profils bancaires sont créés au niveau de l’organisation, ce qui permet d’attribuer le même profil bancaire à plusieurs programmes d’incentives et d’ID MPN au sein d’une organisation. Il peut y avoir des exceptions lors de l’application du profil bancaire à différents pays, car différentes banques et règles fiscales peuvent s’appliquer.
+Les profils bancaires sont créés au niveau de l’organisation. Cela permet d’attribuer un profil bancaire à plusieurs programmes d’incentives et d’ID MPN au sein d’une organisation. Il peut y avoir des exceptions lors de l’application du profil bancaire à différents pays, car différentes banques et règles fiscales peuvent s’appliquer.
 
 >[!NOTE]
 >Dans les pages suivantes, des champs avec un astérisque sont requis. Si vous ne savez pas ce qu’est un champ, sélectionnez l’icône d’information. 
 
 1. Sur la page **Détails** , renseignez les champs suivants : **nom du profil :** entrez un nom unique pour identifier ce profil de paiement.
     **Emplacement du compte bancaire :** Pays dans lequel se trouve la Banque de votre société.
-    **Mode de paiement :** Le mode de paiement par défaut est pour Partner Center est un virement bancaire électronique.
+    **Mode de paiement :** Le mode de paiement par défaut pour l’espace partenaires est le virement bancaire électronique.
 
 2. Sélectionnez **Suivant**.
 
@@ -95,7 +119,7 @@ Les profils bancaires sont créés au niveau de l’organisation, ce qui permet 
 
 6. Une fois les champs remplis, sélectionnez **Terminer**, puis cliquez sur **confirmer** pour créer votre profil bancaire.
 
-Vous êtes redirigé vers la page des **profils de paiement et de taxes** . L’état de votre nouveau profil reflète la **validation Microsoft en attente** jusqu’à ce que la validation soit terminée. Cela peut prendre jusqu’à 48 heures. Une fois la validation terminée, l’état de votre profil reflète l' **approbation** ou l' **action requise**. Si vous avez besoin d’une **action**, répétez les étapes ci-dessus pour fournir les informations nécessaires. 
+Vous êtes redirigé vers la page des **profils de paiement et de taxes** . L’état de votre nouveau profil reflète la **validation Microsoft en attente** jusqu’à ce que la validation soit terminée. Ce processus peut prendre jusqu’à 48 heures. Une fois la validation terminée, l’état de votre profil reflète l' **approbation** ou l' **action requise**. Si vous avez besoin d’une **action**, répétez les étapes ci-dessus pour fournir les informations nécessaires. 
 
 ## <a name="create-your-tax-profile"></a>Créer votre profil fiscal
 
@@ -113,7 +137,7 @@ Pour les sociétés partenaires en Amérique, si vous avez besoin d’informatio
 
 2. Sur la page **configuration** , sélectionnez l’option qui s’applique à votre société.
 
-   - Sélectionnez l’option située à gauche si votre entreprise est incorporée dans le États-Unis uniquement ou si ce profil est destiné à un individu. 
+   - Sélectionnez l’option située à gauche si votre entreprise est incorporée dans le États-Unis uniquement ou si ce profil est destiné à un individu.
    - Sélectionnez l’option située à droite si votre entreprise est incorporée en dehors du États-Unis, puis sélectionnez votre pays/région dans la liste.
 
 3. Sélectionnez **Suivant**. 
@@ -130,46 +154,6 @@ Pour les sociétés partenaires en Amérique, si vous avez besoin d’informatio
 
 9. Sélectionnez **confirmer** dans le message contextuel. Vous serez redirigé vers la page de **configuration du paiement et des impôts** .
 
-## <a name="payout-and-tax-profile-faqs"></a>FAQ sur le paiement et le profil fiscal
+## <a name="next-steps"></a>Étapes suivantes
 
-### <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Pourquoi dois-je fournir mes détails de paiement et/ou de taxes ?
-
-Pour recevoir des paiements pour les programmes d’incentives Microsoft, vous devez effectuer une inscription en fournissant des détails de paiement et de taxe valides. Une inscription est considérée comme terminée uniquement lorsque le paiement et le profil fiscal que vous fournissez sont validés par Microsoft.
-
-### <a name="how-do-i-know-that-i-need-to-provideupdate-my-payout-andor-tax-details"></a>Comment faire savez-vous que je dois fournir/mettre à jour mes informations de paiement et/ou taxes ?
-
-Tous les partenaires inscrits dans un nouveau programme d’incentives doivent fournir des détails de paiement et de taxe valides pour terminer l’inscription.
-
-Vous devrez peut-être également fournir des informations mises à jour si les règles de votre programme d’incentives changent ou si les aspects du profil expirent ou deviennent obsolètes. Dans ce cas, votre page de vue d’ensemble indique l’état **action obligatoire-mettre à jour la Banque et/ou le profil fiscal**.
-
-### <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Comment communiquer/mettre à jour mes informations de paiement et/ou fiscales ?
-
-Pour plus d’informations sur la façon de mettre à jour les détails des paiements et des taxes dans l’espace partenaires, voir [How to Create and Manage Bank and tax Profiles in Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center) .
-
-### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Pourquoi mes inscriptions ne sont-elles pas présentes quand je cherche à affecter mon profil de paiement et fiscal ?
-
-Pour votre localisation MPN, seuls les administrateurs d’incentives sont autorisés à créer ou gérer les profils de paiement et fiscaux. Vous n’avez peut-être pas les autorisations nécessaires ou vous vous êtes connecté avec un compte qui ne dispose pas de ces autorisations. Contactez l’administrateur de votre organisation en charge de la gestion des autorisations d’accès aux informations bancaires et fiscales.
-
-### <a name="where-can-i-see-the-payout-and-tax-profiles-for-my-organization-that-i-can-use"></a>Où puis-je voir les profils de paiement et fiscaux de mon organisation que je peux utiliser ?
-
-Pour afficher les profils de paiement et de taxes, procédez comme suit :
-
-1. Connectez-vous à l’Espace partenaires.
-
-2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **Paramètres**.
-
-3. Sélectionnez **paramètres du partenaire**.
-
-4. Sous **Paramètres du compte**, sélectionnez **Paiement et taxe,** , puis **Profil de paiement et fiscal**. Vous verrez tous les profils de paiement et fiscaux existants, ainsi que l’état et la possibilité d’apporter des modifications.
-
-### <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Mon organisation participe à plusieurs programmes d’incentives. Dois-je fournir plusieurs fois mon paiement et mon profil fiscal ?
-
-Avec les profils de paiement, c’est généralement à vous de décider. Les profils de paiement sont créés au niveau de l’organisation, ce qui permet d’attribuer le même profil bancaire sur plusieurs ID MPN et programmes d’incentives au sein d’une organisation. Dans la plupart des cas, vous pouvez réutiliser un profil existant ou en créer un nouveau.
-
-Il peut toutefois y avoir des exceptions lors de l’application de votre profil bancaire à différents pays ou à différentes régions, car des règles bancaires ou fiscales locales peuvent s’appliquer.
-
-Les profils fiscaux créés pour un emplacement MPN sont réutilisés et automatiquement renseignés quand le même emplacement MPN participe à un autre programme d’incentives. Mais il peut y avoir des exceptions. Par exemple, les règles de paiement d’un nouveau programme d’incentives peuvent nécessiter des détails supplémentaires pour le profil fiscal.  
-
-### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Je ne parviens pas à me connecter avec mon @onmicrosoft.com domaine. Que dois-je faire ?
-
-Contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte AAD.
+- [Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives](incentives-payout-tax-profile-faqs.md)

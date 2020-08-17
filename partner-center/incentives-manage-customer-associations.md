@@ -4,22 +4,22 @@ description: Comprenez les processus et chronologies importants pour la gestion 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545990"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303174"
 ---
 # <a name="manage-customer-associations"></a>Gérer les associations client
 
 S’applique à :
 
-- Espace partenaires
+- Espace partenaire
 
 La plate-forme d’enregistrement (CPOR) demandée est utilisée par les partenaires pour s’associer aux clients finaux pour lesquels ils influencent l’utilisation ou l’achat de produits Microsoft. Actuellement, la plateforme CPOR prend en charge les produits Business Applications et Microsoft 365. Les partenaires utilisent cette méthode d’association pour obtenir des informations sur les performances des clients, recevoir des paiements d’incentives via les programmes OSU et OSA et gagner une association de revenus en tant qu’influenceur commercial.  
 

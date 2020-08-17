@@ -3,23 +3,23 @@ title: Préparer votre preuve d’exécution
 description: Comprendre l’importance de la preuve d’exécution, des chronologies, de l’affichage de l’État et des instructions d’envoi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: ce7f135dfc4a2a1e6af5396a6fe01c9d7377f493
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545940"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303295"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Préparer votre preuve d’exécution
 
 S’applique à :
 
-- Espace partenaires
+- Espace partenaire
 
 Avant de payer votre travail d’incentives, vous devez soumettre une preuve d’exécution détaillée. Cet article vous guide tout au long du processus de création d’une preuve d’exécution efficace.
 
@@ -57,7 +57,7 @@ Rôles appropriés :
 9. Quand vous avez terminé, sélectionnez **Créer une demande**.
 
 10. Dans la page **Informations relatives aux factures et aux dépenses**, chargez l’un des deux documents suivants :
-    - **Facture** tierce  Dans le champ **facture tierce** , sélectionnez **faire glisser ou parcourir les fichiers à charger**. Ajoutez la facture et les détails de la facture requise, puis sélectionnez **Enregistrer**.
+    - **Facture**  tierce  Dans le champ **facture tierce** , sélectionnez **faire glisser ou parcourir les fichiers à charger**. Ajoutez la facture et les détails de la facture requise, puis sélectionnez **Enregistrer**.
     - **Rapport du service de certification**  Sélectionnez **Ajouter un rapport de service de certification**. Dans la page **générer un rapport de service de certification** , renseignez les champs requis, puis sélectionnez **Enregistrer**.
 
 11. Vous pouvez également télécharger des **documents de preuve** si vous le souhaitez. Dans le champ **documents de preuve** , sélectionnez **faire glisser ou parcourir les fichiers à charger**. Si vous sélectionnez documents de preuve, vous devez ajouter des notes explicatives. Après avoir ajouté une note, sélectionnez **Enregistrer**.

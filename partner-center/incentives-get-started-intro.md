@@ -4,16 +4,16 @@ description: Trouvez des ressources pour vous familiariser avec les incentives. 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1a7a20d788676bc31a500638b4b4dd2884d61a46
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110570"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303165"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Utilisez ces ressources pour vous aider à prendre en main les incentives
 
@@ -44,7 +44,8 @@ Avant de pouvoir être payé pour votre travail dans un programme d’incentives
 
 |  **Pour ce faire**  |  **Lisez cela**  |
 |--------------|-----------|
-| Découvrez si vos incentives sont conformes aux conditions d’éligibilité d’un programme d’incentives spécifique | [Déterminer votre éligibilité au programme](incentives-determined-your-program-eligibility.md)  |
+| En savoir plus sur l’inscription dans le programme d’incentives | [Inscrivez-vous au programme d’incentives](incentives-enroll.md)  |
+| Découvrez si vos incentives sont conformes aux conditions d’éligibilité d’un programme d’incentives spécifique | [Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)  |
 | Recherchez et fournissez les données dont Microsoft a besoin pour pouvoir recevoir vos paiements d’incentives | [Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Confirmez que vous avez fourni tous les détails dont vous avez besoin pour recevoir des résultats incitants | [Vérifier votre éligibilité aux bénéfices](incentives-confirm-your-earnings-eligibility.md)  |
 | Afficher toutes les données et tous les rapports de votre programme d’incentives | [Consulter vos paiements et programmes d’incentives](understand-incentive-payouts.md)  |
@@ -52,4 +53,4 @@ Avant de pouvoir être payé pour votre travail dans un programme d’incentives
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Déterminer votre éligibilité au programme](incentives-determined-your-program-eligibility.md)
+[Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)
