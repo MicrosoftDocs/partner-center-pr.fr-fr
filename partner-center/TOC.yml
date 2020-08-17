@@ -193,7 +193,7 @@
       items:
         - name: Bien commencer avec les incentives
           items:
-            - name: Prise en main
+            - name: Mise en route
               href: incentives-get-started-intro.md
             - name: Déterminer si vous êtes éligible au programme
               href: incentives-determined-your-program-eligibility.md
@@ -276,7 +276,7 @@
       items:
         - name: Informations sur la TVA de l’entreprise
           href: organization-tax-info.md
-        - name: Vérifiez que vous êtes bien crédité de la retenue à la source
+        - name: Recevoir un crédit pour une retenue fiscale
           href: withholding-tax-credit-form.md
         - name: "Conseil partenaire Office 365\_: Microsoft 365 Business Voice dans le programme CSP"
           href: o365-partner-advisory.md
@@ -458,6 +458,8 @@
           href: pci-azure-usage-report.md
         - name: Insights - Tableau de bord des formations
           href: pci-training-dashboard.md
+        - name: Insights - Analytique Microsoft Learn
+          href: ms-learn-analytics.md
         - name: Insights - Rapport sur les compétences
           href: pci-competencies-report.md
         - name: Insights - Rapport sur les avantages
