@@ -171,8 +171,6 @@
     - name: Vue d’ensemble des références
       href: referrals.md
       items:
-        - name: Répondre à des références
-          href: responding-to-referrals.md
         - name: Gérer un profil professionnel
           href: create-a-marketing-profile.md
         - name: Gérer les prospects
@@ -193,8 +191,12 @@
       items:
         - name: Bien commencer avec les incentives
           items:
+            - name: Forum aux questions
+              href: incentives-faq.md
             - name: Mise en route
               href: incentives-get-started-intro.md
+            - name: S’inscrire au programme d’incentives
+              href: incentives-enroll.md
             - name: Déterminer si vous êtes éligible au programme
               href: incentives-determined-your-program-eligibility.md
             - name: Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires
