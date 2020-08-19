@@ -9,14 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
+ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811339"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "88584678"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Procédure de suppression d’une relation de revendeur avec un client dans l’espace partenaires
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Guide pratique pour supprimer une relation de revendeur avec un client dans l’Espace partenaires
 
 **S’applique à**
 
@@ -24,14 +24,14 @@ ms.locfileid: "87811339"
 
 Cet article explique comment supprimer une relation de revendeur avec un client dans l’espace partenaires.
 
-Partenaires directs : Si vous ne transmettez plus un client, vous pouvez supprimer la relation dans l’espace partenaires.
+Partenaires directs ou fournisseurs indirects : Si vous ne transmettez plus un client, vous pouvez supprimer la relation dans l’espace partenaires.
 
 La suppression d’une relation a les conséquences suivantes :
 
-- Supprime le client de votre liste de clients dans l’espace partenaires
+- Le client est supprimé de votre liste de clients dans l’Espace partenaires
 - Vous supprime de la [liste des contacts de support disponibles](assign-support-contacts.md) pour votre client
-- Supprime vos privilèges d’administrateur de délégation pour le client
-- Vous empêche d’effectuer des achats à venir pour le client
+- Vos privilèges administratifs de délégation sont supprimés pour le client
+- Vous ne pouvez plus effectuer d’achats pour le client
 
 ## <a name="how-to-remove-a-relationship"></a>Comment supprimer une relation
 
