@@ -1,7 +1,7 @@
 ---
 title: Afficher les détails de votre incentive et de votre programme
 ms.topic: article
-ms.date: 08/03/2020
+ms.date: 08/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Ces pages vous permettent d’afficher, de gérer et d’exporter les détails des paiements et des bénéfices, ainsi que l’état du programme et de finaliser l’historique des transactions.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
+ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545950"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "88560217"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -82,14 +82,14 @@ Pour accéder à la page **My incentives overview** (Vue d’ensemble de mes inc
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
 | Inscrit  | Toutes les informations fiscales et bancaires ont été validées. Aucune autre action d’inscription n’est requise par le partenaire. |
 | Inscription  | L’utilisateur n’est pas un administrateur d’incentives et l’inscription est dans l' **action requise** ou la validation des États d' **inscription** .|
-| Inactif/inéligible | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription. <br> Si l’État n’est pas **éligible**, le partenaire ne répond pas aux conditions d’éligibilité actuelles pour le programme ; Si vous cliquez sur le lien **voir les conditions d’éligibilité** sous l’état de l’inscription, vous verrez les conditions requises pour l’éligibilité et celles qui ont été satisfaites. |
+| Inactif/inéligible | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription. <br> Si l’État n’est pas **éligible**, le partenaire ne répond pas aux conditions d’éligibilité actuelles pour le programme ; Si vous sélectionnez le lien **voir les conditions d’éligibilité** sous l’état de l’inscription, vous verrez les conditions requises pour l’éligibilité et celles qui ont été respectées. |
 | Invité  | Une nouvelle invitation d’inscription au programme d’incentives a été envoyée au partenaire, mais le partenaire n’a pas encore démarré le processus d’inscription. La colonne adjacente **actions requises** affiche les étapes suivantes et les liens associés.  |
 | Validation de l’inscription  | Le partenaire a déjà effectué ou mis à jour des informations bancaires et fiscales pour une inscription nouvelle ou existante et attend que Microsoft valide ces informations. Pendant le processus de validation, la validation de l' **inscription** peut s’afficher pendant jusqu’à 48 heures.  |
 
 ## <a name="payments-page"></a>Page Paiements
 Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous pouvez filtrer par ID de participant, Programme, ID de paiement et Type de bénéfice. Les montants sont indiqués en dollars américains. La valeur payée est également affichée dans la devise d’arrivée.
 
-|**Domaine**   |**Description**    |
+|**Zone**   |**Description**    |
 |------------------|:-------------------------------------|
 |Total payé cette année        |Total cumulé payé pour cette année, en dollars américains, pour tous vos ID MPN.                                      |
 |Prochain paiement estimé      |Seul le paiement suivant vous vient (même s’il y en a d’autres bientôt disponibles), en dollars américains.                                     |
@@ -105,6 +105,36 @@ Cette page affiche tous vos bénéfices individuels avec pour chacun la date, le
 Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers le bas située dans la partie droite de la page. Cela affichera le levier, le chiffre d’affaires, le produit et le client. Si, pour une raison quelconque, ces données ne sont pas disponibles, mais que vous avez besoin d’y accéder, contactez le support technique. Si le résultat est le résultat d’un ajustement et non d’une transaction, les champs produit et client ne sont pas affichés.
 
 Pour exporter les données de transaction sur cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données. Les fichiers exportés à partir de la page Historique des transactions affichent les données dans la devise de la transaction, les bénéfices dans la devise de la transaction et en dollars américains, et la valeur payée dans la devise d’arrivée.
+
+### <a name="estimated-payment-month"></a>Mois de paiement estimé
+
+La page historique des transactions comprend désormais un tableau qui indique le montant des paiements estimés pour les prochains mois. Vous pouvez également afficher et télécharger ces informations dans l’historique des transactions et les exportations du rapport de synthèse. Ces informations facilitent les réconciliations et les projections de paiement.
+
+Le mois de paiement estimé est calculé en fonction des règles et des chronologies de la configuration du programme, et est traité dans le prochain cycle de paiement.
+
+Le mois de paiement estimé est actuellement disponible pour tous les types de gains, à l’exception de la co-op, qui s’affichera comme **non applicable**. Pour les revenus antérieurs au 1er juillet 2020, le mois de paiement estimé apparaît comme étant **non disponible**.
+
+#### <a name="estimated-payment-month-example"></a>Exemple de mois de paiement estimé
+
+| Month | Montant |
+| ------ | :-----------: |
+|  Sep-2020 |  $7 273,99   |
+|  Oct-2020 | $8 692,30  |
+|  Novembre-2020 | $107,89  |
+
+Le montant estimé peut varier par rapport à la quantité réelle pour diverses raisons :
+
+- Réexécution de l’opération : si les bénéfices sont recalculés, le montant réel est différent.
+- Ajustements : la quantité réelle varie en fonction des ajustements qui se sont produits ou qui ont été envoyés.
+- Modification des règles : une modification des règles peut refléter le recalcul dans le montant réel payé
+- Payable : si un échec de paiement se produit, le montant réel peut être différent.
+
+Notez que votre paiement n’est publié que dans le mois projeté si le seuil et les règles d’éligibilité au paiement de votre programme sont atteints. Ces règles incluent, mais ne sont pas limitées à la liste ci-dessous :
+
+- Votre profil fiscal doit être à jour
+- Vos revenus doivent respecter ou dépasser le seuil minimal atteint défini dans le Guide de votre programme.
+- Paiement en attente : Si vous sélectionnez l’option « conserver mon paiement » sur la page attribution des profils.
+- Instrument de paiement non disponible : le paiement ou le profil fiscal n’est pas terminé.
 
 ## <a name="payment-status"></a>État du paiement
 
@@ -178,6 +208,7 @@ Cette option permet de télécharger chaque article de revenu que vous voyez dan
 |earningId   |Identificateur unique de chaque revenu   |
 |earningRate   |Taux d’incentives appliqué au montant de la transaction pour générer un revenu   |
 |earningType   |Indique s’il s’agit d’un frais, d’une remise, d’un co-op, d’une vente, etc.   |
+|Mois de paiement estimé   |Mois de paiement projeté avec un montant estimé, à condition que le seuil minimal et les règles d’éligibilité au paiement soient atteints   |
 |exchangeRateDate   |Date du taux de change utilisée pour calculer le montant USD du revenu   |
 |lastPaymentCurrency   |Devise dans laquelle le paiement le plus récent a été reçu, sur toutes les MPNs auxquelles le partenaire actuellement connecté a accès. Si aucun paiement n’est reçu, la dernière devise de paiement sera en dollars US.   |
 |lever   |Indique une règle métier pour le revenu   |
@@ -220,7 +251,7 @@ Outre le tableau ci-dessus, ces champs de l’historique des transactions sont d
 ## <a name="transaction-summary-report"></a>Rapport résumé de la transaction
 
 >[!NOTE]
->Le rapport Résumé de la transaction n’affiche pas tous vos programmes ou vos revenus. Il s’agit d’un résumé qui se concentre uniquement sur les leviers agrégés. Pour afficher des transactions individuelles, téléchargez le [rapport historique des transactions](#transaction-history-page).
+>Le rapport Résumé de la transaction n’affiche pas tous vos programmes ou vos revenus. Il s’agit d’un résumé qui se concentre uniquement sur les leviers agrégés. 
 
 Le rapport Résumé de la transaction fournit des détails sur les transactions au niveau du résumé, y compris les noms des clients et les ID d’abonnement, pour les leviers regroupés. Le rapport comprend chaque ID qui est associé à plusieurs transactions. Le montant total des gains et les bénéfices de l’ID acquis sont répétés pour chaque client/abonnement. Cela est dû au fait que les Incentives pour les leviers agrégés sont gagnés, et non par abonnement.
 
@@ -251,6 +282,7 @@ Le rapport Résumé de la transaction fournit des détails sur les transactions 
 |  earningAmountUSD | Montant de gain en USD  |
 |  earningDate | Date du revenu  |
 |  earningExchangeRate | Taux de change utilisé pour afficher le montant USD correspondant  |
+|Mois de paiement estimé   |Mois de paiement projeté avec un montant estimé, à condition que le seuil minimal et les règles d’éligibilité au paiement soient atteints   |
 |  exchangeRateDate | Date du taux de change utilisée pour calculer le montant USD du revenu  |
 |  transactionMonth |  Mois de transaction   |
 |  transactionCurrency | Devise dans laquelle la transaction client d’origine s’est produite  |
