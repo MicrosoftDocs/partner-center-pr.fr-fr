@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
+ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365775"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88215579"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gérer votre compte Espace partenaires : profils d’entreprise, informations bancaires, rôles, autorisations, etc.
 
@@ -118,6 +118,7 @@ Si vous êtes inscrit à des programmes comme le programme MPN ou le programme F
 |-----------------------|:-----------------------|
 |Vérifier que le profil de votre entreprise est à jour   |[Mettre à jour votre profil de partenaire](update-your-partner-profile.md)|
 |Ajouter de nouveaux utilisateurs|[Créer des comptes d’utilisateurs et attribuer des autorisations](create-user-accounts-and-set-permissions.md)|
+|Trouver l’état de votre vérification|[Vérifier vos informations de compte](verification-responses.md)|
 |Tous les employés de votre entreprise qui ont besoin de travailler dans l’Espace partenaires doivent se voir attribuer un rôle. À chaque rôle correspondent des autorisations et des tâches spécifiques.|[Créer des comptes d’utilisateurs et définir des autorisations](create-user-accounts-and-set-permissions.md)|
 |Examiner les autorisations de chaque rôle|[Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
 |Gérer les emplacements de votre entreprise|[Gérer votre compte partenaire : Emplacements](manage-locations.md)
@@ -127,3 +128,4 @@ Si vous êtes inscrit à des programmes comme le programme MPN ou le programme F
 |Veiller à promouvoir votre entreprise afin que les clients puissent vous trouver   |[Créer un profil professionnel](create-a-marketing-profile.md)|
 |Organiser votre catalogue de telle sorte que les produits les plus importants se trouvent en haut de la liste   |[Personnaliser le catalogue](customize-the-catalog.md)|
 |Se tenir informé des tarifs et offres en cours   |[Tarifs et offres](pricing-and-offers.md)|
+|API : Vérifier l’ID MPN d’un partenaire|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
