@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811319"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781831"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Signaler un problème de service au nom d’un client, y compris quand et comment procéder
 
@@ -23,7 +23,11 @@ ms.locfileid: "87811319"
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
-Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et que celui-ci répond aux critères décrits dans [escalader les problèmes à Microsoft](escalate-problems-to-microsoft.md), vous pouvez y soumettre un ticket de support. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes. 
+**Rôles appropriés**
+
+- Fournisseurs indirects
+
+Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et que celui-ci répond aux critères décrits dans [escalader les problèmes à Microsoft](escalate-problems-to-microsoft.md), votre fournisseur indirect peut créer un ticket de support pour eux. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Envoyer une demande de service pour un client
 
@@ -41,7 +45,7 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 > [!IMPORTANT]
 > Lorsque vous avez besoin de créer une demande de service pour votre client dans Azure, tenez compte des éléments suivants :
 >
->- Pour que vous puissiez créer des demandes de service pour le compte de votre client dans Azure, votre fournisseur indirect doit vous accorder l'accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office 365.
+>- Pour que vous, en tant que revendeur indirect, vous puissiez créer des demandes de service pour votre client dans Azure, votre fournisseur indirect doit vous accorder l’accès au compte Azure du client. Cela diffère de l'administration pour le compte des clients pour Office 365.
 >
 >- Même si l’administrateur du support technique de l’Espace partenaires ne peut pas créer de demandes de service dans le portail des services Azure, il peut créer un groupe de support dans le portail des services Azure et autoriser ce groupe à consigner des demandes de support.
 
