@@ -100,7 +100,7 @@ Pour trouver les coordonnées de l’ISV :
     - Adresse e-mail de support
     - Numéro de téléphone pour contacter le support
 
-## <a name="faq"></a>Questions fréquentes (FAQ)
+## <a name="faq"></a>Forum aux questions
 
 **Qu’est-ce qui est inclus dans le droit au support ?**
 
