@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560217"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799824"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -198,6 +198,14 @@ Cette option permet de télécharger chaque article de revenu que vous voyez dan
 
 |**Nom de la colonne**   |**Description**   |
 |------------------|:-------------------------------------|
+| Conformité AR | Ajustement qui réduit les bénéfices lorsque les factures Microsoft ne sont pas payées à temps par le partenaire |
+| Substitution de co-op | Ajustement qui transfère les bénéfices de la coopération vers une autre période ou convertit les bénéfices de la co-op en remise |
+| Ajustement OPS Microsoft incorrect Calc | Ajustement qui corrige les incorrections |
+| Ajustement OPS Microsoft incorrect | Ajustement des calculs erronés liés à l’inscription |
+| Exception de stratégie | Ajustement qui remplace une règle de programme  |
+| Ajustement des opérations | Ajustement qui corrige les erreurs de calcul système Microsoft |
+| Bénéfice sur la période précédente | Ajustement pour les bénéfices en dehors de la période de gains en cours |
+| Mappage des partenaires (abonnement) MCI/CSP | Ajustement qui corrige le mauvais alignement de l’abonnement |
 |customerId   |Identificateur du client   |
 |customerName   |Nom de la transaction client   |
 |earningAmount   |Montant de l’obtention dans la devise de la transaction d’origine   |
