@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6bf9399f23153f25f319e399c9c327515cd9ed51
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: ecdfcbd4801bee34be298030016d7366b12d7db3
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389508"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846955"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Ajouter et gérer plusieurs locataires dans votre compte espace partenaires
 
@@ -26,22 +26,38 @@ ms.locfileid: "87389508"
 
 - Administrateur général
 
-Il existe de nombreuses raisons pour lesquelles vous devrez peut-être gérer plusieurs Azure AD locataires dans votre compte espace partenaires. Par exemple, votre entreprise peut acheter une autre société et vous souhaitez que les employés de la nouvelle société puissent utiliser l’espace partenaires. Toutefois, vous souhaitez que les deux sociétés restent séparées. Dans ce cas, vous associez le locataire de la nouvelle entreprise Azure AD à votre compte global de partenaire (PNG). Cette association permettrait aux utilisateurs des deux entreprises de travailler dans l’espace partenaires.
+Cette fonctionnalité vous permet de gérer plusieurs locataires pour votre entreprise et de les consolider dans votre compte Espace partenaires. Il existe de nombreuses raisons pour lesquelles vous devrez peut-être gérer plusieurs Azure AD locataires dans votre compte espace partenaires. Par exemple :
+
+- Votre entreprise peut acheter une autre société et vous souhaitez que les employés de la nouvelle société puissent utiliser l’espace partenaires. Toutefois, vous souhaitez que les deux sociétés restent séparées. Dans ce cas, vous associez le locataire Azure AD de la nouvelle société à votre compte global de partenaire (PGA). Cette association permettrait aux utilisateurs des deux entreprises de travailler dans l’espace partenaires.
+
+- Si vous avez plusieurs locataires pour l’exécution de votre entreprise (par exemple, contoso.com, contoso.uk, contoso.in), vous pouvez utiliser une architecture mutualisée pour les relier sous le même compte d’ordinateur.
+
+- Les fusions et les acquisitions nécessitent que vous utilisiez plusieurs locataires (par exemple, si contoso acquiert Fabrikam, vous devez être en mesure d’utiliser à la fois les locataires respectifs Constoso.com et Fabrikam.com).
+
+- Les utilisateurs de l’un des locataires doivent être en mesure d’effectuer les opérations suivantes :
+    1.  Accéder au centre des partenaires pour la formation, les téléchargements numériques, l’Association MCP
+    2.  Être affecté à des rôles de l’espace partenaires comme un administrateur MPN, un administrateur d’incentives, etc.
+
 
 ## <a name="add-another-azure-ad-tenant-to-your-account"></a>Ajouter un autre Azure AD locataire à votre compte
 
 1. En tant qu’administrateur général, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
 1. À partir de l’icône **paramètres** , sélectionnez **paramètres du compte** , puis sélectionnez **locataires**.
  
-:::image type="content" source="images/merge-accounts/multitenant.png" alt-text="associer des locataires"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="associer des locataires"::: 
 
 3. Sélectionnez **associer un autre locataire Active Directory** et indiquez le locataire que vous souhaitez associer.
 
 1. En tant qu’administrateur général, connectez-vous au locataire que vous souhaitez associer et confirmez l’Association. 
 
-:::image type="content" source="images/merge-accounts/multitenant2.png" alt-text="confirmer l’Association des locataires"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="confirmer l’Association des locataires"::: 
 
-5. Une fois que vous avez confirmé, vous verrez un avis **défini** .  Sélectionnez **revenir à la gestion des locataires pour** Voir le locataire qui vient d’être ajouté.
+5. Une fois que vous avez confirmé, vous verrez un avis **défini** .  Sélectionnez **revenir à la gestion des locataires pour** Voir le locataire qui vient d’être ajouté. 
+ 
+
+>[!NOTE]
+>Vous ne pouvez pas associer un locataire à un compte s’il est déjà associé à un autre compte de l’espace partenaires.
+
  
 ## <a name="next-steps"></a>Étapes suivantes
 
