@@ -1,31 +1,32 @@
 ---
 title: Résolution des problèmes liés aux paiements et aux bénéfices
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/25/2020
 description: Découvrez comment résoudre des problèmes tels que des revenus manquants ou incorrects, des problèmes d’éligibilité et comment concilier vos revenus d’incentives.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303155"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893467"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Résolution des problèmes liés aux paiements et aux bénéfices
 
-S’applique à :
+**S’applique à**:
 
 - Espace partenaire
 
-Cet article vous aidera à résoudre les éventuels problèmes de paiement ou de paiement dans votre programme d’incentives. Les rubriques couvertes incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
-
-Rôles appropriés :
+**Rôles appropriés**:
 
 - Administrateur de primes incitatives
+
+
+Cet article vous aidera à résoudre les éventuels problèmes de paiement ou de paiement dans votre programme d’incentives. Les rubriques couvertes incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Qui peut créer ou mettre à jour les profils de paiement et de taxes pour mon organisation ?
 
@@ -37,7 +38,7 @@ La validation peut prendre jusqu’à 48 heures. Pendant ce temps, votre profil
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Comment savoir si mon profil de paiement et fiscal est bien renseigné ?
 
-L’état de votre inscription est indiqué dans la page Vue d’ensemble. Lorsque vous avez terminé de créer vos profils, votre statut est **validation**de l’inscription. Une fois vos informations validées, votre statut devient **inscrit**. Cela indique que votre profil de paiement et fiscal et votre inscription ont bien été renseignés.
+L’état de votre inscription est indiqué dans la page Vue d’ensemble. Lorsque vous avez terminé de créer vos profils, votre statut est **validation**de l’inscription. Une fois vos informations validées, votre statut devient **inscrit**. Cet état indique que votre paiement et votre profil fiscal et que votre inscription a été effectuée avec succès.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Pourquoi je dois mettre à jour mon profil fiscal pour l’utiliser avec un nouveau programme d’incentive ?
 
@@ -96,7 +97,32 @@ Des gains manquants ou incorrects peuvent être le résultat de l’un des probl
 
 - **Vous n’avez peut-être pas respecté les conditions.**  Vérifiez que vous répondez aux critères d’[éligibilité](#my-payment-is-missing-or-incorrect) et aux règles de revenus éligibles pour l’incentive recherché.
 
-- **Il peut y avoir des écarts.**  Si vous répondez à la fois aux critères d’éligibilité des partenaires et aux règles de revenus éligibles, mais que vous voyez quand même des gains incorrects, consultez [Comment identifier les écarts dans les gains et les paiements](https://support.microsoft.com/help/4534675) pour connaître les étapes à effectuer en vue d’obtenir les gains due et les transactions associées.
+- **Il peut y avoir des écarts.**  Si vous répondez à la fois à l’éligibilité des partenaires et aux règles de chiffre d’affaires éligibles et que vous voyez toujours des revenus incorrects, les informations suivantes peuvent vous aider à récupérer vos données.
+ 
+Vous pouvez consulter les bénéfices par le biais de l' **historique des transactions** ou des **paiements** dans l’espace partenaires en cliquant sur l’icône **paiement** dans la barre de navigation de l’espace partenaires. 
+
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informations sur les transactions":::
+
+Les montants de gain mensuels dans la vue historique des transactions peuvent ne pas s’aligner sur le montant de paiement reçu pour un mois spécifique. Cela est dû à des recalculs et des ajustements pour des périodes de gains antérieurs qui sont appliquées aux paiements futurs.
+
+Par exemple, un ajustement du salaire de janvier 2019 qui a été traité en septembre 2019 ne sera pas reflété dans le montant des bénéfices pour le 2019 septembre. Toutefois, lorsque le paiement pour le 2019 septembre est reçu, il inclut l’ajustement du 2019 du 1er janvier qui a été appliqué en septembre.
+Dans ce scénario, vous devez télécharger les détails de la transaction pour obtenir une vue complète de tous les bénéfices inclus dans votre paiement.  En outre, vous pouvez accéder à la vue paiements pour télécharger des transactions pour chaque paiement.
+
+### <a name="transaction-history"></a>Historique des transactions
+
+Cette vue vous permet d’afficher les tendances de paiement et de paiement par mois, les bénéfices par État et les détails de la transaction, ainsi que le statut de paiement pour chaque transaction. Les données ne sont visibles que pour les programmes et les ID MPN auxquels vous avez reçu un rôle d’utilisateur ou d’administrateur d’incentives.
+
+### <a name="payments"></a>Paiements
+
+Cette vue vous permet d’afficher les paiements pour tous les programmes et ID MPN. Les données ne sont visibles que pour les programmes et les ID MPN auxquels vous avez reçu un rôle d’utilisateur ou d’administrateur d’incentives. Dans cette vue, vous pouvez télécharger les informations de remise ou afficher les détails des transactions pour chaque paiement. 
+
+Faites défiler jusqu’à la section **liste des paiements** pour afficher les informations de paiement par ligne, y compris les montants de versement et de paiement en devise locale. Cliquez sur **paiement remise** pour télécharger une lettre de remise. Cliquez sur **Afficher** pour ouvrir un nouvel onglet et afficher les détails du niveau de transaction pour un paiement spécifique. 
+
+Pour exporter les détails d’une transaction vers Excel, cliquez sur **Démarrer le téléchargement** , puis sur **Exporter les données**. Remarque : tous les filtres sélectionnés seront appliqués aux données exportées. Une fois que l’État est passé à terminé, vous pouvez cliquer sur Télécharger et suivre les invites pour exporter le rapport détaillé des transactions. Actualisez la page si l’État n’est pas mis à jour dans un délai de cinq minutes. 
+
+### <a name="missing-or-incorrect-earnings-and-payments"></a>Revenus et paiements manquants ou incorrects
+
+Si vous ne parvenez pas à localiser les détails d’un paiement ou d’une transaction, vérifiez si les filtres corrects ont été appliqués. Certains noms de programme ont été modifiés, ce qui peut nécessiter plusieurs sélections (par exemple, le fournisseur CSP 1T direct Partner).
 
 Si ces actions ne vous aident pas et que vous ne parvenez toujours pas à trouver des revenus ou si vous pensez toujours que les bénéfices sont incorrects, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -110,8 +136,6 @@ Si vous constatez des écarts dans vos revenus, effectuez les étapes suivantes�
 
 3. **Vérifiez que vous remplissez toutes les conditions**.  Vérifiez que vous répondez aux critères d’[éligibilité](#my-payment-is-missing-or-incorrect) et aux règles de revenus éligibles pour l’incentive recherché.
 
-4. **Vérifiez la présence d’écarts.**  Si vous répondez à la fois aux critères d’éligibilité des partenaires et aux règles de revenus éligibles, mais que vous voyez quand même des gains incorrects, consultez [Comment identifier les écarts dans les gains et les paiements](https://support.microsoft.com/help/4534675) pour connaître les étapes à effectuer en vue d’obtenir les gains due et les transactions associées.
-
 Si ces actions ne vous ont pas aidé et que vous ne parvenez toujours pas à effectuer le rapprochement, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Où puis-je trouver mes tarifs ?
@@ -121,3 +145,7 @@ Si ces actions ne vous ont pas aidé et que vous ne parvenez toujours pas à eff
 2. Une fois que vous êtes connecté, faites défiler l’écran vers le bas pour accéder aux documents concernant le programme qui vous intéresse, puis cliquez sur le lien vers la documentation du programme correspondant.
 
 3. Dans le document, reportez-vous à la section **structure et tarifs du programme**.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Gérer les demandes de coopération](incentives-managing-co-op-claims.md)

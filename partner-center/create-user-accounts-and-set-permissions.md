@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527735"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846929"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Créer des comptes d’utilisateur et attribuer des rôles et des autorisations
 
@@ -45,14 +45,28 @@ Créez des comptes d’utilisateur pour les employés qui doivent accéder à l�
 
 L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l’Espace partenaires pour la première fois, il est invité à modifier son mot de passe. 
 
+## <a name="find-the-role-youve-been-assigned"></a>Rechercher le rôle qui vous a été attribué
 
-### <a name="find-your-global-admin"></a>Rechercher votre administrateur général
+Si votre administrateur général ne vous a rien dit, sachez que vous pouvez trouver le rôle que vous avez dans l’Espace partenaires en procédant comme suit :
+
+1. Connectez-vous au tableau de bord de l’Espace partenaires https://partner.microsoft.com/dashboard/home).
+
+1. Sélectionnez l’icône **Paramètres de compte**, puis **Mon profil**.
+ 
+1. Sélectionnez l’onglet **Rôles et autorisations**. Vos rôles et autorisations s’affichent.
+ 
+
+>[!Note]
+>Si vous ne voyez pas de programme quand vous vous connectez, cela signifie généralement que vous ne disposez pas des autorisations appropriées pour travailler dans ce programme. Par exemple, si vous ne voyez pas la page Incentives lorsque vous vous connectez, vous ne disposez pas des autorisations Incentives. Votre administrateur général peut vous fournir les autorisations nécessaires.
+
+
+## <a name="find-your-global-admin"></a>Rechercher votre administrateur général
 
 Parfois, un utilisateur peut être amené à changer de rôle ou un nouvel utilisateur peut souhaiter se voir attribuer un rôle spécifique.  
-Pour trouver un administrateur général capable de changer des rôles ou d’attribuer des rôles à un nouvel utilisateur, à partir de l’icône **Paramètres** en haut à droite de l’Espace partenaires, sélectionnez **Gestion des utilisateurs** et filtrez sur Administrateur général. 
+Pour trouver un administrateur général qui peut effectuer des changements de rôle ou attribuer des rôles à un nouvel utilisateur, à partir de l’icône **Paramètres de compte** en haut à droite de l’Espace partenaires, sélectionnez **Gestion des utilisateurs** et filtrez sur l’administrateur général, ou accédez à **Mon profil**, sélectionnez **Rôles et autorisations** et consultez la liste des différents administrateurs qui peuvent vous aider à élever vos autorisations. 
 
 
-### <a name="new-global-admin"></a>Nouvel administrateur général
+## <a name="new-global-admin"></a>Nouvel administrateur général
 
 Si votre administrateur général quitte l’organisation et qu’une autre personne doit endosser ce rôle, vous pouvez envoyer un ticket à l’équipe Azure ou Office 365. Pour plus d’informations sur la façon de procéder, sélectionnez l’une des options ci-dessous.
 

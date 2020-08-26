@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998397"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846919"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renouveler vos offres MPN pour Microsoft Action Pack et les compétences au cours de la fenêtre de renouvellement
 
-**S’applique à**
+### <a name="applies-to"></a>S’applique à
 
 - Espace partenaires
 
-Le Microsoft Action Pack et les compétences sont des offres destinées aux membres du Microsoft Partner Network qui doivent être renouvelées chaque année. La fenêtre de renouvellement commence à la date anniversaire de votre achat, plus un jour. Par exemple, si vous avez acheté le Microsoft Action Pack le 1er septembre 2018, la fenêtre de renouvellement commence le 2 septembre 2019. Vous pouvez renouveler Microsoft Action Pack et les compétences dans l’Espace partenaires. Sous la rubrique Offres d’abonnement, vous trouverez les offres que vous avez achetées et la date anniversaire de vos offres dans la colonne de la date de début du renouvellement. L’appartenance au Microsoft Partner Network lui-même ne nécessite pas de renouvellement annuel. 
+Le Microsoft Action Pack et les compétences Silver et Gold sont des offres destinées aux membres du Microsoft Partner Network qui doivent être renouvelées chaque année. La fenêtre de renouvellement commence à la date anniversaire de votre achat, plus un jour. Par exemple, si vous avez acheté le Microsoft Action Pack le 1er septembre 2018, la fenêtre de renouvellement commence le 2 septembre 2019. Vous pouvez renouveler Microsoft Action Pack et les compétences dans l’Espace partenaires. Sous la rubrique Offres d’abonnement, vous trouverez les offres que vous avez achetées et la date anniversaire de vos offres dans la colonne de la date de début du renouvellement. L’appartenance au Microsoft Partner Network lui-même ne nécessite pas de renouvellement annuel. 
 
 Pour en savoir plus, sélectionnez le lien approprié ci-dessous : 
 
@@ -48,14 +48,15 @@ Pour mieux vous concentrer sur l’aide à vos clients :
 
 - **Si vous avez déjà manqué votre fenêtre de renouvellement**, vous pouvez réactiver votre compétence et obtenir un nouvel accès aux ressources et aux avantages en payant vos frais dans la page Offres d’abonnement. Cette extension est valable jusqu’au 31 décembre 2020.
 
-### <a name="how-to-view-this-information"></a>Comment afficher ces informations
+### <a name="how-to-view-competency-renewal-information"></a>Comment afficher les informations de renouvellement de compétences
 
 1. Dans le menu Espace partenaires de votre tableau de bord, sélectionnez **Compétences**.  
 
 2. Dans la liste des compétences disponibles, vos compétences doivent être marquées comme complètes.  
 
-3. Sélectionnez le nom de la compétence. Un avis vous indiquera que vous êtes dispensé de satisfaire aux exigences jusqu’à la date de votre prochain renouvellement.   
+3. Sélectionnez l’une de vos compétences. Un avis vous indiquera que vous êtes dispensé de satisfaire aux exigences jusqu’à la date de votre prochain renouvellement.
 
 4. Pour profiter de cette offre, accédez à **Offres d’abonnement**. Vous devrez peut-être payer les frais de compétence pour terminer le processus, en fonction de l’état d’achat ou de renouvellement de votre compétence. 
 
 Pour tirer parti de l’extension, vous devez avoir déplacé votre abonnement entre le Partner Membership Center (PMC) et l’Espace partenaires afin de renouveler votre compétence et de payer les frais. Si vous n’avez pas déplacé votre abonnement, [découvrez-en plus](prepare-pmc-pc-migration.md) et [effectuez la transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) dès aujourd’hui.  
+

@@ -8,25 +8,25 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 20045f321bd3fea5410fff148e8d9fb58dacef50
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 0f274703d3eb52c573c3f7f5043b73be7bc0bfa7
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303225"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893454"
 ---
-# <a name="program-eligibility"></a>Éligibilité du programme
+# <a name="partner-incentives-overview-and-eligibility"></a>Présentation et éligibilité des incentives partenaires 
 
-S’applique à :
+**S’applique à**:
 
 - Espace partenaire
 
-Chaque programme de primes incitatives comporte certaines exigences concernant l’éligibilité. Ces conditions d’éligibilité au programme sont conçues pour s’assurer que vous avez signé tous les contrats appropriés, acquis les compétences, prévu le chiffre d’affaires et rempli tout autre prérequis pour que votre programme d’incentives réussisse.
-
-Rôles appropriés :
+**Rôles appropriés**:
 
 - Administrateur général
 - Administrateur de primes incitatives
+
+ Chaque programme de primes incitatives comporte certaines exigences concernant l’éligibilité. Ces conditions d’éligibilité au programme sont conçues pour s’assurer que vous avez signé tous les contrats appropriés, acquis les compétences, prévu le chiffre d’affaires et rempli tout autre prérequis pour que votre programme d’incentives réussisse.
 
 ## <a name="determining-your-program-eligibility"></a>Détermination de votre éligibilité au programme
 
@@ -38,6 +38,10 @@ Les conditions d’éligibilité spécifiques pour votre programme sont disponib
 
 2. Sous **Primes incitatives** dans le panneau de navigation de gauche, sélectionnez **Vue d’ensemble**. La page **Program overview** (Vue d’ensemble du programme) s’ouvre.
 
-3. Sélectionnez le programme de votre choix pour ouvrir cette page.
+3. Sélectionnez le programme souhaité.
 
 4. Dans le champ **Détails du programme**, sélectionnez **Guide du programme**.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+-[Profils de paiement et de taxes pour les programmes d’incentives](incentives-create-and-manage-your-payout-and-tax-profiles.md)
