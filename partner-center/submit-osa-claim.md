@@ -1,7 +1,7 @@
 ---
 title: Créer une association cliente via le modèle CPOR
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 08/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Créer des associations de clients via le modèle CPOR (revendication du partenaire de l’enregistrement). Permet de gérer les ventes, l’utilisation & les Incentives pour les clients Microsoft 365 et Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811179"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942551"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Créer une association client via le modèle CPOR : à utiliser pour les clients Microsoft 365 et Dynamics 365
 
@@ -23,6 +23,8 @@ ms.locfileid: "87811179"
 - Espace partenaires
 
 Le 1er octobre 2019, Microsoft a commencé à utiliser le modèle d’enregistrement (CPOR) du partenaire demandeur pour gérer les associations que vous avez avec votre Microsoft 365 et les clients Dynamics 365 en ce qui concerne la vente d’OSA (Online Services Advisory), l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Incentives pour les applications métier.
+
+>[! Important :] les revendications d’association client (CPOR) s’appliquent uniquement aux programmes d’incentives de la vente OSA (Online Services Advisory), de l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business. Si vous soumettez une demande de remboursement pour un autre programme, tel que le fournisseur de solutions Cloud, le revendeur géré, l’hébergement ou la surface, reportez-vous à la procédure décrite ici.
 
 Lorsque vous soumettez votre revendication, Microsoft la valide. Nous vous demanderons peut-être d’autres informations à ce stade. Nous informerons également le client de votre demande d’association. Les clients disposent de cinq jours ouvrés pour s’abonner. S’ils n’ont pas été refusés, votre association avec ce locataire et cette charge de travail spécifiques sera officielle. À ce stade, vous aurez accès aux données d’utilisation du client. 
 
