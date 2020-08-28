@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7630894df25f5b9919f30c60b0223da9f121788d
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
+ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811309"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "89040755"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Comment signaler des problèmes avec l’espace partenaires et envoyer des informations de journal ou de diagnostic
 
@@ -24,6 +24,10 @@ ms.locfileid: "87811309"
 - Espace partenaires de Microsoft Cloud for US Government
 
 Contactez le support technique si vous rencontrez des problèmes ou si vous avez besoin d’aide avec l’espace partenaires.
+
+**Rôles d'utilisateur**
+
+Tous les utilisateurs connectés au centre des partenaires peuvent créer des demandes de support partenaires. Les utilisateurs peuvent uniquement afficher les demandes de support qu’ils ont soumises après leur connexion à l’espace partenaires.
 
 **Signaler un problème avec l’espace partenaires**
 
