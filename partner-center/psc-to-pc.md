@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041016"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056186"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>Guide de référence pour la gestion de vos demandes dans l’espace partenaires au lieu de Partner Sales Connect (PSC)
 
@@ -40,7 +40,7 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 ### <a name="if-you-are-psc-admin"></a>Si vous êtes administrateur PSC
 
 - Vous avez besoin d’un e-mail professionnel pour vous connecter à l' [espace partenaires](https://partner.microsoft.com/).
-- Configurez votre compte à l’aide de l' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)de l’espace partenaires.
+- Configurez votre compte avec l’aide de l' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)de l’espace partenaires.
 - Découvrez comment vendre en collaboration dans l’espace partenaires en lisant ce document.
 - Configurez votre responsable des ventes et vos comptes de vendeur PSC dans l’espace partenaires et attribuez-leur le rôle d' [administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
 
@@ -48,7 +48,7 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 
 - Vous avez besoin d’un e-mail professionnel pour vous connecter à l' [espace partenaires](https://partner.microsoft.com/).
 - Si vous utilisez un compte non professionnel dans PSC ou un domaine différent de celui utilisé par d’autres utilisateurs dans PSC, contactez votre administrateur PSC pour obtenir de l’aide sur l’installation de compte.
-- Vérifiez auprès de votre administrateur PSC si la configuration de votre compte espace partenaires est terminée, quel que soit le compte que vous utilisez pour vous connecter au PSC.
+- Vérifiez auprès de votre administrateur PSC si la configuration de votre compte espace partenaires est terminée, quel que soit le compte que vous utilisez pour vous connecter à PSC.
 - Vérifiez si vous avez accès à l’espace partenaires et à la section Références.
 - Lisez ce document pour comprendre les flux de travail et les modifications apportées à l’espace partenaires.
 
@@ -156,7 +156,7 @@ Cette section vous aidera à comprendre le mappage exact des attributs entre PSC
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Q. Que dois-je faire si je n’ai pas accès à l’espace partenaires ?
 
-Vous pouvez contacter vos administrateurs listés sur la page « aucun accès » pour que les rôles soient attribués. Vous devez disposer de l’autorisation « [administration de référence] (( https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) «rôle pour les autorisations de lecture et d’écriture » dans la section Références. Si vous gérez uniquement des profils d’entreprise, vous aurez besoin du rôle « administrateur du profil d’entreprise » dans l’espace partenaires.
+Vous pouvez contacter vos administrateurs listés sur la page « aucun accès » pour que les rôles soient attribués. Vous devez disposer du rôle «[administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)» pour l’autorisation d’accès en lecture et en écriture dans la section Références. Si vous gérez uniquement des profils d’entreprise, vous aurez besoin du rôle « administrateur du profil d’entreprise » dans l’espace partenaires.
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Q. Qui peut me donner accès à la section Références de l’espace partenaires ?
 
