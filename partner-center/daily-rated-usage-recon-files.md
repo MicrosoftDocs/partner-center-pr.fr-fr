@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943456"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274978"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires
 
@@ -60,7 +60,7 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | UsageDate | Date d’utilisation du service. |
 | MeterType | Type de compteur. |
 | MeterCategory | Service de niveau supérieur pour l’utilisation. |
-| MeterId | Identificateur du compteur utilisé. |
+| ID du compteur | Identificateur du compteur utilisé. |
 | MeterSubCategory | Le type de service Azure, qui peut affecter la vitesse. |
 | MeterName | Unité de mesure du compteur consommé. |
 | MeterRegion | Cette colonne identifie l’emplacement d’un centre de données dans la région pour les services où MeterRegion est applicable et rempli. |
@@ -75,11 +75,11 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | Unité | Type d’unité dans lequel le compteur est facturé.  |
 | BillingPreTaxTotal | Montant total de la facturation avant taxes. |
 | BillingCurrency | Devise dans la région géographique du client. |
-| PricingPreTaxTotal | La tarification, avant l’ajout des taxes. |
+| PricingPreTaxTotal | La tarification, avant l’ajout des taxes. <br/> _**PricingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | PricingCurrency | Devise utilisée dans la liste de prix. |
 | ServiceInfo1 | Nombre de connexions Service Bus qui ont été approvisionnées et utilisées pour un jour donné. |
 | ServiceInfo2 | Champ hérité qui capture les métadonnées facultatives propres au service. |
-| Balises | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
+| Étiquettes | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
 | AdditionalInfo | Toutes les informations supplémentaires non couvertes sont dans les autres colonnes. |
 | EffectiveUnitPrice | Valeur réelle facturée par unité, y compris les remises, les crédits acquis, etc. |
 | PCToBCExchangeRate | Taux de change appliqué pour la devise de tarification à la devise de facturation. |
