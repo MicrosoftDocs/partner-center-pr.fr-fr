@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
+ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274978"
+ms.locfileid: "89281311"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires
 
@@ -73,9 +73,9 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | UnitPrice | Prix par licence, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
 | Quantité | Nombre de licences. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
 | Unité | Type d’unité dans lequel le compteur est facturé.  |
-| BillingPreTaxTotal | Montant total de la facturation avant taxes. |
+| BillingPreTaxTotal | Montant total de la facturation avant taxes.<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Devise dans la région géographique du client. |
-| PricingPreTaxTotal | La tarification, avant l’ajout des taxes. <br/> _**PricingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
+| PricingPreTaxTotal | La tarification, avant l’ajout des taxes. |
 | PricingCurrency | Devise utilisée dans la liste de prix. |
 | ServiceInfo1 | Nombre de connexions Service Bus qui ont été approvisionnées et utilisées pour un jour donné. |
 | ServiceInfo2 | Champ hérité qui capture les métadonnées facultatives propres au service. |
