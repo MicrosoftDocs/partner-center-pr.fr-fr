@@ -1,5 +1,5 @@
 ---
-title: Gérer les associations client
+title: Gérer les associations de clients incitatives
 description: Comprenez les processus et chronologies importants pour la gestion des associations de clients CPOR (Partner of record).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,27 +7,27 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303174"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220577"
 ---
-# <a name="manage-customer-associations"></a>Gérer les associations client
+# <a name="manage-incentives-customer-associations"></a>Gérer les associations de clients incitatives
 
-S’applique à :
+**S’applique à :**
 
-- Espace partenaire
+- Espace partenaires
 
-La plate-forme d’enregistrement (CPOR) demandée est utilisée par les partenaires pour s’associer aux clients finaux pour lesquels ils influencent l’utilisation ou l’achat de produits Microsoft. Actuellement, la plateforme CPOR prend en charge les produits Business Applications et Microsoft 365. Les partenaires utilisent cette méthode d’association pour obtenir des informations sur les performances des clients, recevoir des paiements d’incentives via les programmes OSU et OSA et gagner une association de revenus en tant qu’influenceur commercial.  
-
-Rôles appropriés :
+**Rôles appropriés :**
 
 - Administrateur de la facturation
 - Administrateur général
 - Administrateur de primes incitatives
+
+La plate-forme d’enregistrement (CPOR) demandée est utilisée par les partenaires pour s’associer aux clients finaux pour lesquels ils influencent l’utilisation ou l’achat de produits Microsoft. Actuellement, la plateforme CPOR prend en charge les produits Business Applications et Microsoft 365. Les partenaires utilisent cette méthode d’association pour obtenir des informations sur les performances des clients, recevoir des paiements d’incentives via les programmes OSU et OSA et gagner une association de revenus en tant qu’influenceur commercial.  
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Relation entre votre revendication d’association CPOR et les incentives
 
@@ -41,12 +41,12 @@ Si votre revendication d’association CPOR est approuvée et éligible aux ince
 
 - Soumis : il sera à l’état envoyé pendant jusqu’à cinq jours ouvrables jusqu’à ce que Microsoft démarre le processus d’approbation.
 - En cours de révision : Microsoft a cinq jours ouvrés pour prendre une décision en fonction de la preuve d’exécution que vous fournissez.
-- Action de partenaire requise : si un réviseur vous envoie des commentaires et une demande d’informations supplémentaires, vous avez cinq jours ouvrés pour répondre. Une décision doit être prise sur votre revendication d’association CPOR dans un délai de 10 jours, selon le contrat SLA du réviseur plus le temps nécessaire pour fournir aux réviseurs PoE des informations supplémentaires.
+- Action de partenaire requise : si un réviseur vous envoie des commentaires et une demande d’informations supplémentaires, vous avez cinq jours ouvrés pour répondre. Une décision doit être prise sur votre revendication d’association CPOR dans un délai de 10 jours en fonction du contrat SLA du réviseur, ainsi que du temps nécessaire pour fournir des réviseurs de preuve d’exécution (PoE) avec des informations supplémentaires.
 - Approuvé : votre revendication d’association CPOR a été approuvée. Une fois votre association approuvée, une notification est envoyée au client pour lui donner la possibilité de refuser votre association. Le client disposera alors de sept jours pour s’en désabonner. Une fois cette période de consentement dépassée, la revendication sera envoyée pour évaluer l’éligibilité des programmes d’incentives.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>Afficher l’état de votre revendication d’association CPOR
 
-Vous pouvez vérifier l’état de votre revendication d’association CPOR à tout moment à l’aide du [tableau de bord des associations client](https://partner.microsoft.com/dashboard/incentives/claims/associations).
+Vous pouvez vérifier l’état de votre revendication d’association CPOR à tout moment à l’aide du [tableau de bord des associations clientes](https://partner.microsoft.com/dashboard/incentives/claims/associations) (connexion requise).
 
 Voici les États et leurs significations :
 
@@ -98,7 +98,7 @@ Autres raisons possibles de rejet :
 - Consentement du client manquant sur PoE
 - Produits manquants
 - Aucune réponse du partenaire
-- PoE non disponible 
+- PoE non disponible
 
 ## <a name="edit-your-cpor-association-claim"></a>Modifier votre revendication d’association CPOR
 
@@ -122,3 +122,7 @@ Une fois que les réviseurs ont parcouru votre PoE, ils peuvent déterminer que 
 ## <a name="view-claim-history"></a>Afficher l’historique des revendications
 
 Dans la revendication d’association CPOR, dans l’angle supérieur droit, il y a un bouton **historique** qui vous permet de voir toutes les modifications, commentaires et actions effectuées sur cette revendication du point de vue du partenaire et du réviseur.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Bien commencer avec les incentives](incentives-get-started-intro.md)

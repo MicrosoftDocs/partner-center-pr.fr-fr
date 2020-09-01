@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436118"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220687"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analyser les abonnements et les licences pour vous aider à prendre des décisions commerciales et de nouveaux objectifs
 
@@ -32,11 +32,9 @@ ms.locfileid: "86436118"
 
 Les données prennent des décisions commerciales. Utilisez les mesures de la page **abonnement et analyse de licence** pour identifier vos réussites et les zones qui nécessitent une attention particulière. Utilisez ces informations lorsque vous planifiez de nouveaux objectifs commerciaux.
 
-> [!NOTE]
-> L’analytique de la licence d’abonnement est disponible uniquement pour les partenaires du programme fournisseur de solutions Cloud.
+Chiffre d' **affaires du atténuation CSP (USD)**: cette mesure représente le chiffre d’affaires facturé du fournisseur de solutions de chiffrement (USD) pour les 12 mois de fin (atténuation) pour les comptes d’emplacement de partenaire et le compte global partenaire (PGA) auquel ce compte CSP est associé. Si vous avez d’autres comptes CSP avec un autre PGA, vous devez vous connecter à chacun d’entre eux pour afficher le chiffre d’affaires atténuation agrégé correspondant.  Cliquez sur le lien Détails du téléchargement pour obtenir une répartition du chiffre d’affaires atténuation (USD) par ID MPN.
 
-
-Ce rapport peut être basé sur les produits suivants :
+Le reste du rapport peut pivoter selon les produits suivants :
 
  - **Dynamics 365**: données Dynamics 365  
  - **EMS**: données des services de gestion d’entreprise  

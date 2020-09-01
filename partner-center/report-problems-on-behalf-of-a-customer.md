@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781831"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220177"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Signaler un problème de service au nom d’un client, y compris quand et comment procéder
 
@@ -100,9 +100,11 @@ Pour trouver les coordonnées de l’ISV :
     - Adresse e-mail de support
     - Numéro de téléphone pour contacter le support
 
-## <a name="faq"></a>Forum aux questions
+## <a name="faq"></a>Questions fréquentes (FAQ)
 
-**Qu’est-ce qui est inclus dans le droit au support ?**
+Consultez les rubriques suivantes pour obtenir des réponses aux questions fréquentes sur les demandes de service que vous pouvez envoyer pour le compte d’un client. 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Qu’est-ce qui est inclus dans le droit au support&nbsp;?
 
 Les demandes de service doivent être classées via l’espace partenaires. Ils sont disponibles pour Azure, Microsoft Office 365, Microsoft Dynamics CRM Online et Enterprise Mobility suite. En tant que partenaire participant au programme Fournisseur de solutions cloud, vous pouvez vous attendre à un temps de réponse prioritaire à vos problèmes majeurs.
 
@@ -110,7 +112,7 @@ La prise en charge de votre propre locataire partenaire n’est pas incluse dans
 
 Cet avantage s’applique à tous les partenaires qui participent au programme Fournisseur de solutions cloud, qu’ils aient un abonnement payant ou qu’ils soient en période d’essai. Le support pour la gestion des abonnements et de la facturation est également compris gratuitement dans ce package.
 
-**Quel est le délai pour obtenir une réponse initiale ?**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>Quel est le délai pour obtenir une réponse initiale&nbsp;?
 
 Le délai pour obtenir une première réponse dépend de la gravité du problème envoyé. La gravité d’un problème est déterminée par votre évaluation de l’impact sur votre activité lorsque vous envoyez une demande de service.
 
@@ -123,21 +125,21 @@ Temps de réponse initial pour les **incidents de réparation/réparation**:
 Les délais de réponse initiale concernent uniquement le support en anglais. Le support en langue locale est fourni pendant les heures ouvrées.
 Pour les incidents qui se situent dans les limites du droit de support, mais qui ne sont pas considérés comme des incidents de réparation, le temps de réponse initial peut être d’une journée de travail.
 
-**Puis-je envoyer une demande de service par téléphone ?**
+### <a name="can-i-submit-a-service-request-by-phone"></a>Puis-je envoyer une demande de service par téléphone&nbsp;?
 
 Non, le support téléphonique n’est pas proposé pour ce programme.
 
-**Que se passe-t-il si je me connecte au portail Azure sans passer par l’Espace partenaires ?**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Que se passe-t-il si je me connecte au portail Azure sans passer par l’Espace partenaires&nbsp;?
 
 Si vous vous connectez directement au Portail Microsoft Azure, vous affichez le centre dans votre contexte, et non dans le contexte d’un client. C’est la raison pour laquelle vous devez vous connecter directement au Portail Microsoft Azure lors de la création d’une demande de service pour vos propres abonnements.
 
 Le support technique de votre programme CSP ne prend pas en charge votre propre abonnement partenaire. Pour cette raison, vous devez fournir le droit de votre plan de support valide lorsque vous créez une demande de service qui concerne votre propre abonnement partenaire. Exemples : ID de contrat MPN, premier ou plan de support Azure. Pour plus d’informations, consultez le [Forum aux questions sur le support Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
-**Que se passe-t-il si je me connecte au portail du centre d’administration Office 365 et que je ignore l’espace partenaires ?**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Que se passe-t-il si je me connecte au portail du centre d’administration Office 365 et que je ignore l’espace partenaires ?
 
 Si vous vous connectez directement au centre d’administration Office 365, vous affichez le centre dans votre contexte, et non dans le contexte d’un client. C’est la raison pour laquelle vous devez vous connecter directement au centre d’administration Office 365 lors de la création d’une demande de service pour vos propres abonnements.
 
-**Comment obtenir un support Dynamics 365 supplémentaire ?**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>Comment obtenir un support Dynamics 365 supplémentaire ?
 
 Si vous rencontrez des problèmes liés à : Dynamics 365 Planifiez les abonnements, les licences, la facturation, les opérations finance &, les licences Dynamics 365, ou vous avez besoin d’un support technique supplémentaire :
  

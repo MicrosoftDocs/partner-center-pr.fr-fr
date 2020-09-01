@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d7954f40294202750d0b6d51102f68ea694b07c3
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 30032a9b396a82f530c9497f96e4a9b1f6b46e00
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239027"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220497"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Rapports tableau de bord clients à partir de l’espace partenaires Insights
 
@@ -22,7 +22,7 @@ Le tableau de bord clients présente des données de vos clients qui ont acquis 
  
 Le tableau de bord clients contient les sections suivantes : 
 
-- Récapitulatif  
+- Résumé  
 - Répartition géographique de vos clients 
 - Tendances de l’ajout/de l’évolution des clients 
 - Distribution des clients par emplacement de partenaire, segment de clientèle, canal de vente, type d’attribution de partenaire 
@@ -30,64 +30,68 @@ Le tableau de bord clients contient les sections suivantes :
 - Tendances de distribution des clients par emplacement de partenaire, segments de clientèle, modèle de tarification, type d’attribution de partenaire 
 - Tendance des clients actifs 
 
-**Résumé**:
+## <a name="summary"></a>Résumé
 
-La section Résumé présente un aperçu des différents indicateurs de performance clés liés à vos clients, tels que les clients, les clients actifs, les abonnements, les ajouts de clients, les clients en cours d’évolution et les clients de chaque produit. Les filtres au niveau de la page s’appliquent à chaque section.
+La section Résumé présente un aperçu des différents indicateurs de performance clés liés à vos clients, tels que les clients, les clients actifs, les abonnements, les clients ajoutés, les clients en cours d’évolution et les clients de chaque produit. Les filtres au niveau de la page s’appliquent à chaque section.
 
-**Acheteurs**
+:::image type="content" source="images/pci/customerproduct.png" alt-text="Capture d’écran du tableau de bord Résumé des clients affiche les graphiques à barres et le nombre de clients actifs, récemment ajoutés, perdus/réactifs, ou un produit spécifique.":::
+
+### <a name="customers"></a>Clients
 
 - Nombre actuel de tous les clients dont votre organisation est associée par le biais de différents types d’attributions dans tous les produits Cloud tels qu’Office, Azure, Dynamics, etc. Un client est compté s’il a au moins un abonnement avec l’état actif.  
 - Refuser le pourcentage de clients au cours de la plage de dates sélectionnée 
 - Le micro-graphique présente la tendance du mois sur le mois du nombre de clients sur la plage de dates sélectionnée
 
-  :::image type="content" source="images/pci/customerproduct.png" alt-text="Capture d’écran du tableau de bord Résumé des clients affiche les graphiques à barres et le nombre de clients actifs, récemment ajoutés, perdus/réactifs, ou un produit spécifique.":::
-
-**Clients actifs**:
+### <a name="active-customers"></a>Clients actifs
 
 - Nombre actuel de clients avec une utilisation de produit active, par exemple l’utilisation active sur l’un des produits Cloud.
-- Croissance ou refus de% des clients actifs au cours de la période sélectionnée : le micro-graphique présente une tendance de mois sur mois du nombre de clients actifs sur la plage de dates sélectionnée.
-Clients ajoutés :
+- Croissance ou refus de% des clients actifs au cours de la période sélectionnée
+- Le micro graphique présente une tendance de mois sur mois du nombre de clients actifs sur la plage de dates sélectionnée.
+
+### <a name="customers-added"></a>Clients ajoutés
+
 - Nombre de tous les clients ajoutés au cours de la période sélectionnée.
 - Croissance ou refus de% des clients ajoutés au cours de la plage d’une période sélectionnée.
 - Le micro-graphique présente la tendance du mois sur le mois des clients ajoutés au cours de la plage de dates sélectionnée.
 
-**Clients en évolution**:
+### <a name="customers-churned"></a>Clients en évolution
 - Nombre de clients dont l’exécution a été effectuée chaque mois pendant la période sélectionnée. Un client est considéré comme perdu si le client n’a pas d’abonnement unique avec l’état actif. 
 - % des clients ont été mis à jour pendant la plage de dates sélectionnée 
 - Le micro-graphique présente une tendance d’un mois sur l’autre pour les clients ayant dépassé la période sélectionnée. 
  
-**Clients par produits**:
+### <a name="customers-by-products"></a>Clients par produits
+
 - Nombre actuel de clients répartis entre les différents produits Cloud tels que O365, Azure, Dynamics, etc.  
 
-**Répartition géographique de vos clients**
+## <a name="geographical-spread-of-your-customers"></a>Répartition géographique de vos clients
 
 Le nombre de clients actuels, les clients actifs actuels et les clients nouvellement ajoutés au cours de la plage de dates sélectionnée sont géo-mappés à l’aide du pays du client. Les pourcentages affichés sous la mesure indiquent la contribution en pourcentage de ce pays au total de cette mesure. Vous pouvez pointer sur la carte pour afficher le nombre total de clients actifs et nouveaux pour ce pays. Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Rétablissez la vue d’origine en sélectionnant le bouton **démarrage** sur la carte. Toutes les colonnes de la grille peuvent être triées.  
 
 :::image type="content" source="images/pci/customersgeo.png" alt-text="Capture d’écran du rapport des clients de l’espace de création de l’espace partenaires par géographie affiche la carte et la liste des clients du total, de l’ajout et des nouveaux clients par région.":::
 
-**Ajouts et évolutions du client**
+## <a name="customer-adds-and-churns"></a>Ajouts et évolutions du client
 
 Tendance des clients avec une répartition en nouvelles, existantes et en évolution pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et l’axe des Y représente le nombre de clients. Les clients à l’évolution sont représentés sur l’échelle négative de l’axe des Y. Les histogrammes empilés présentent les pertes de clients nouveaux, existants et à l’évolution pour le mois. Vous pouvez régénérer l’histogramme avec des éléments de pile spécifiques en les sélectionnant dans la légende. Vous pouvez utiliser le curseur en haut du graphique pour effectuer un zoom avant sur une période spécifique. 
 
 :::image type="content" source="images/pci/customerslost.png" alt-text="Capture d’écran du rapport du client aperçu de l’espace partenaires avec graphique à barres indique le nombre de clients ajoutés et perdus ou dont l’exécution a été annulée sur une période de temps spécifique.":::
 
-**Distribution client**
+## <a name="customer-distribution"></a>Distribution client
 
 La répartition de vos clients actuels par vos emplacements MPN, les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution (par exemple, DPOR, DAP, etc.). Cliquez sur les onglets respectifs situés au-dessus du graphique pour afficher la répartition en fonction de ces catégories. Vous pouvez régénérer le graphique en sélectionnant/désélectionnant des dimensions spécifiques en sélectionnant les éléments de légende. 
 
-**Clients par produits**
+## <a name="customers-by-products"></a>Clients par produits
 
 Répartition du nombre actuel de clients par produit et SKU/plans. Sélectionnez un produit dans le graphique en secteurs de rupture de produit pour afficher les ruptures par SKU/plans dans le graphique en regard de celui-ci.
 
 :::image type="content" source="images/pci/customerbyprod.png" alt-text="Capture d’écran du rapport clients par produit affiche deux graphiques radials : un avec la répartition des clients par produit, l’autre avec la répartition des clients par référence (SKU).":::
 
-**Tendance de la distribution client** 
+## <a name="customer-distribution-trend"></a>Tendance de la distribution client 
 
 Tendance mensuelle de la distribution de vos clients au cours de la plage de dates sélectionnée par marchés, segments, vos emplacements MPN et les produits qu’ils ont acquis. Cliquez sur les onglets respectifs dans le graphique pour afficher la tendance selon ces catégories. L’axe des X représente les mois de la plage de dates que vous avez sélectionnée, et l’axe des ordonnées est le nombre de clients pour la catégorie sélectionnée (sélection de l’onglet). Vous pouvez pointer sur les colonnes du graphique pour afficher la répartition des valeurs de chaque pile. Vous pouvez utiliser le curseur en haut du graphique pour effectuer un zoom avant sur une période spécifique.   
 
 :::image type="content" source="images/pci/customerdistri.png" alt-text="Capture d’écran du rapport de tendance de distribution client montrant les graphiques à barres que vous pouvez afficher par marché, segment, emplacement partenaire ou produits.":::
 
-**Clients actifs**
+## <a name="active-customers"></a>Clients actifs
 
 Graphique de tendance mensuelle comparant les clients actifs et totaux de la plage de dates sélectionnée. Les colonnes représentent le nombre de clients actifs chaque mois et la ligne représente le total des clients chaque mois. 
 
@@ -97,5 +101,5 @@ Graphique de tendance mensuelle comparant les clients actifs et totaux de la pla
 
 Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).
 
->[!NOTE] 
+>[!NOTE]
 > Vous pouvez télécharger les données brutes qui alimentent ce rapport à partir de la section Télécharger des rapports dans le tableau de bord Insights. [En savoir plus](pci-download-reports.md) 

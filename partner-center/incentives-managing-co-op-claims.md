@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303195"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220537"
 ---
 # <a name="manage-co-op-claims"></a>Gérer les demandes de coopération
 
-S’applique à :
+**S’applique à :**
 
-- Espace partenaire
+- Espace partenaires
 
-Le contenu suivant vous donne des informations pour gérer les revendications de coopération, y compris les chronologies, les règles et comment contester une revendication de coopération rejetée.
-
-Rôles appropriés :
+**Rôles appropriés :**
 
 - Administrateur de primes incitatives
+
+Le contenu suivant vous donne des informations pour gérer les revendications de coopération, y compris les chronologies, les règles et comment contester une revendication de coopération rejetée.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Approbation des demandes de coopération et délais de paiement
 
@@ -72,3 +72,7 @@ Si les documents que vous avez fournis avec votre demande de coopération sont j
 4. Au bas de la page, sélectionnez **Litige**.
 
 L’équipe de validation des demandes de coopération examinera la demande dans un délai de cinq jours ouvrables. Pendant ce temps, l’état sera **En litige**. Il est possible que nous vous contactions pour vous demander des informations supplémentaires. Une fois l’examen terminé, l’équipe de validation fera passer l’état à **Approuvé**, **Refusé** **Action du partenaire requise**.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Bien commencer avec les incentives](incentives-get-started-intro.md)

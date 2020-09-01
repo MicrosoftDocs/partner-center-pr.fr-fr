@@ -1,30 +1,29 @@
 ---
 title: Résolution des problèmes liés aux paiements et aux bénéfices
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: Découvrez comment résoudre des problèmes tels que des revenus manquants ou incorrects, des problèmes d’éligibilité et comment concilier vos revenus d’incentives.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893467"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220787"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Résolution des problèmes liés aux paiements et aux bénéfices
 
 **S’applique à**:
 
-- Espace partenaire
+- Espace partenaires
 
 **Rôles appropriés**:
 
 - Administrateur de primes incitatives
-
 
 Cet article vous aidera à résoudre les éventuels problèmes de paiement ou de paiement dans votre programme d’incentives. Les rubriques couvertes incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
 
@@ -57,18 +56,20 @@ La raison de paiements manquants ou incorrects est souvent l’une des suivantes
 
   **Pour vérifier votre éligibilité**
 
-  1. Connectez-vous à l’espace partenaires ici : [incentives partenaires](https://partner.microsoft.com/membership/partner-incentives).
-  
+  1. Connectez-vous à [incentives partenaires](https://partner.microsoft.com/membership/partner-incentives).
+
   2. Faites défiler jusqu’à la liste des documents de votre programme.
   
-  3. Sélectionnez le lien de document souhaité, puis examinez les sections **éligibilité du partenaire** et **règles de revenus éligibles**.
+  3. Sélectionnez le lien de document souhaité, puis passez en revue les sections 
+
+L' **éligibilité des partenaires** et les règles de **revenus éligibles**.
 
 - **Votre profil de paiement est peut-être incomplet.** La date de début de vos gains d’incentives sera le premier jour du mois où vous avez rempli toutes les conditions d’éligibilité, notamment l’intégration des détails fiscaux et de paiement. Les gains ne seront pas disponibles pour les mois antérieurs à la finalisation du paiement et des taxes. Par exemple, si vous répondez à toutes les conditions au cours du mois d’avril 2020, la date de début de vos gains sera le 1er avril 2020.
 - **Vous avez peut-être une action en suspens**.  Il est possible que vos primes incitatives ne soient pas traitées car que vous ayez mis une action en attente.
 
   **Pour afficher vos actions en suspens**
 
-  1. Connectez-vous à l’espace partenaires ici : [incentives partenaires](https://partner.microsoft.com/membership/partner-incentives).
+  1. Connectez-vous à [incentives partenaires](https://partner.microsoft.com/membership/partner-incentives).
   2. Ouvrez la page **historique des transactions** . Passez en revue les champs de cette page pour connaître les actions en suspens à effectuer, comme le **profil d’impôt en**attente, le **profil de paiement en**attente ou l’envoi d’un **facture d’impôt en attente**.
 
 Si ces actions ne sont pas utiles et que vos paiements sont toujours manquants ou incorrects, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
@@ -140,9 +141,9 @@ Si ces actions ne vous ont pas aidé et que vous ne parvenez toujours pas à eff
 
 ## <a name="where-can-i-find-my-rates"></a>Où puis-je trouver mes tarifs ?
 
-1. Accédez à [Primes incitatives partenaires](https://partner.microsoft.com/membership/partner-incentives), puis connectez-vous.
+1. Connectez-vous à [incentives partenaires](https://partner.microsoft.com/membership/partner-incentives).
 
-2. Une fois que vous êtes connecté, faites défiler l’écran vers le bas pour accéder aux documents concernant le programme qui vous intéresse, puis cliquez sur le lien vers la documentation du programme correspondant.
+2. Faites défiler la liste pour accéder aux documents de votre programme intéressé, puis cliquez sur le lien du document correspondant au programme concerné.
 
 3. Dans le document, reportez-vous à la section **structure et tarifs du programme**.
 

@@ -1,33 +1,33 @@
 ---
 title: Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: Avant de pouvoir vous payer pour votre travail d’incentives, vous devez créer vos profils de paiement et de taxes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303275"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220797"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Profils de paiement et fiscaux dans l’Espace partenaires
 
-S’applique à :
+**S’applique à :**
 
-- Espace partenaire
+- Espace partenaires
 
-Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
-
-Rôles appropriés :
+**Rôles appropriés :**
 
 - Administrateur de primes incitatives
 - Administrateur de la facturation
 - Administrateur général
+
+Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
 
 ## <a name="roles-currencies-and-other-microsoft-programs"></a>Rôles, devises et autres programmes Microsoft
 
@@ -37,7 +37,7 @@ Il est important de comprendre les informations ci-dessous avant de commencer à
 
 Vous devez être un administrateur d’incentives pour entrer les informations bancaires et fiscales relatives aux paiements d’incentives. Si vous êtes un administrateur MPN/de compte, vous pouvez vous assigner et/ou un collègue pour être l’administrateur des incentives.
 
-Si vous devez demander des autorisations d’administrateur incitatives, contactez votre administrateur MPN ou votre administrateur général. Vous pouvez identifier les personnes de votre entreprise qui possèdent ces rôles dans le tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/). À partir de l’icône des **paramètres** en haut à droite, sélectionnez **gestion des utilisateurs** , puis filtrez sur administrateur général.
+Si vous devez demander des autorisations d’administrateur incitatives, contactez votre administrateur MPN ou votre administrateur général. Vous pouvez identifier les personnes de votre entreprise qui possèdent ces rôles en vous connectant au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/). À partir de l’icône des **paramètres** en haut à droite, sélectionnez **gestion des utilisateurs** , puis filtrez sur administrateur général.
 
 Les utilisateurs incitants peuvent consulter les résultats des incentives et les rapports et les détails de paiement, mais ne peuvent pas modifier les détails des banques et des taxes.
 
@@ -58,11 +58,11 @@ Au sein de la vente au détail, les paiements de chacun des cinq programmes d’
 Les sections ci-dessous vous guideront tout au long du processus de création et de gestion des profils de paiement et de taxes dans l’espace partenaires.
 
 >[!IMPORTANT]
->Vous devez être un administrateur d’incentives pour créer ou gérer des profils de paiement dans l’espace partenaires. Des rôles d’incentives doivent être affectés à chaque emplacement MPN dans le cadre de chaque programme d’incentives. Pour plus d’informations sur l’ajout d’administrateurs d’incentives dans l’espace partenaires, consultez [comment ajouter des utilisateurs ou des administrateurs incitants dans l’espace partenaires](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center).
+>Vous devez être un administrateur d’incentives pour créer ou gérer des profils de paiement dans l’espace partenaires. Des rôles d’incentives doivent être affectés à chaque emplacement MPN dans le cadre de chaque programme d’incentives. Pour plus d’informations sur l’ajout d’administrateurs d’incentives dans l’espace partenaires, consultez [créer des comptes d’utilisateur](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Accéder à la section paiement et taxes dans l’espace partenaires
 
-1. Connectez-vous à l’espace partenaires à l’aide de votre compte de Azure Active Directory (Azure AD) ou de l’adresse de messagerie appropriée, le cas échéant. 
+1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) à l’aide de votre compte de Azure Active Directory (Azure AD) ou de l’adresse de messagerie appropriée, le cas échéant.
 
    - Plusieurs domaines peuvent être inscrits dans un compte Azure AD. Contactez votre administrateur général pour déterminer les domaines associés.
    - Si vous êtes uniquement en mesure de vous connecter avec le @onmicrosoft.com domaine, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte Azure ad.
@@ -74,7 +74,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Affecter des profils de paiement et de taxe à des programmes individuels
 
-1. Dans l’espace partenaires, sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** . 
+1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** . 
 
 2. Sélectionnez **paramètres du partenaire**, développez la **section paiement et taxes**, puis sélectionnez **attribution du profil de paiement et de taxe**. 
    

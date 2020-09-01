@@ -9,76 +9,103 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436698"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220487"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Vue d’ensemble des rapports de tableau de bord disponibles dans les Insights de l’espace partenaires
  
-Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des indicateurs de performance clés tels que les clients, les abonnements, les revenus de la consommation Azure, les licences, etc. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble. 
+Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des indicateurs de performance clés tels que les clients, les abonnements, les revenus de la consommation Azure, les licences, etc. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble.
 
-- Récapitulatif  
+- Résumé  
 - Répartition géographique de vos clients, abonnements et licences  
 - Tendance à la croissance des clients 
 - Tendance de croissance des abonnements 
 - Tendance à la croissance du chiffre d’affaires Azure 
 - Tendance de croissance des licences 
 
-**Résumé**
+## <a name="summary"></a>Résumé
 
-- Clients : nombre actuel de tous les clients, avec au moins un abonnement actif, auquel votre société est associée par le biais de différents types d’attributions dans tous les produits Cloud. 
-- Pourcentage de croissance des clients au cours de la plage de dates sélectionnée 
-
-Le micro-graphique affiche la tendance du mois sur le mois du nombre de clients-sur la plage de dates sélectionnée. 
-
- 
-- Chiffre d’affaires consommé Azure (ACR) : total des revenus consommés par Azure (US $) qui vous sont attribués au cours de la croissance de la plage de dates sélectionnée
-
-Le micro-graphique présente une tendance mensuelle de ACR US $ qui vous est attribuée sur la plage de dates sélectionnée 
->[!Note] 
->Les données du chiffre d’affaires consommé Azure (ACR) sont disponibles pour les utilisateurs auxquels le rôle de visionneuse de rapports exécutifs a été attribué 
- 
-- Abonnements : nombre total actuel d’abonnements au produit Cloud (actifs et inactifs) vendus ou gérés par vous.  
-La croissance ou le refus de% d’abonnements pendant le sous-graphique de la plage de dates sélectionnée affiche la tendance du mois sur le mois du nombre total d’abonnements sur la plage de dates sélectionnée. 
- 
-- Abonnements actifs : nombre actuel d’abonnements au produit Cloud avec utilisation active mesurée en fonction de la télémétrie du produit. Cela exclut tous les abonnements d’essai dans le cas d’abonnements Azure.  
-Le pourcentage de croissance des abonnements actifs sur le graphique de la plage de dates sélectionné présente la tendance du mois sur le mois des abonnements actifs sur la plage de dates sélectionnée. 
- 
-- Licences déployées : nombre total de licences de produits Cloud déployées dans vos abonnements client sur la période sélectionnée. Augmentation ou refus de% de ces licences pendant la plage de dates sélectionnée. Le micro-graphique présente la tendance du mois sur le mois du nombre de licences attribuées pour la plage de dates sélectionnée.
+Le résumé contient des informations sur les clients, les revenus consommés par Azure (ACR), les abonnements vendus, les abonnements actifs et les licences déployées. 
 
 :::image type="content" source="images/pci/summary.png" alt-text="Licences récapitulatives":::
 
-**Répartition géographique de vos clients, abonnements et licences** 
+Pour plus d’informations sur chaque section du résumé, voir ci-dessous.
+
+### <a name="customers"></a>Clients
+
+La zone **clients** comprend les éléments suivants :
+
+- Nombre actuel de tous les clients disposant d’au moins un abonnement actif associé à votre société par le biais de différents types d’attributions et de tous les produits Cloud.
+- Pourcentage de croissance des clients au cours de la plage de dates sélectionnée.
+- Le micro-graphique présente la tendance mensuelle du nombre de clients dans la plage de dates sélectionnée.
+
+### <a name="azure-consumed-revenue-acr"></a>Chiffre d’affaires consommé Azure (ACR)
+
+La zone **chiffre d’affaires consommé (ACR) Azure** du résumé comprend les éléments suivants :
+
+- Le chiffre d’affaires total consommé Azure (au dollar des États-Unis) qui vous est attribué au cours de la plage de dates sélectionnée.
+- La croissance du pourcentage ou le déclin des ACR avec attributs (en US $) au cours de la plage de dates sélectionnée.
+- Le micro-graphique présente une tendance mensuelle de ACR US $ qui vous est attribuée sur la plage de dates sélectionnée 
+
+> [!NOTE]
+> Les données du chiffre d’affaires consommé Azure (ACR) sont disponibles pour les utilisateurs auxquels le rôle de visionneuse de rapports exécutifs a été attribué 
+ 
+### <a name="subscriptions-sold"></a>Abonnements vendus
+
+La zone **abonnements vendus** du résumé comprend les éléments suivants :
+
+- Nombre total actuel d’abonnements au produit Cloud (actifs et inactifs) vendus ou gérés par vous.  
+- Pourcentage de croissance ou de diminution des abonnements au cours de la plage de dates sélectionnée.
+- Le micro-graphique présente la tendance mensuelle du nombre total d’abonnements sur la plage de dates sélectionnée.
+
+### <a name="active-subscriptions"></a>Abonnements actifs
+
+La zone **abonnements actifs** du Résumé contient les éléments suivants :
+
+- Nombre actuel d’abonnements au produit Cloud avec utilisation active, mesuré en fonction de la télémétrie du produit. Cela exclut tous les abonnements d’essai dans le cas d’abonnements Azure.  
+- Pourcentage de croissance des abonnements actifs sur la plage de dates sélectionnée.
+- Le micro-graphique présente la tendance du mois au mois des abonnements actifs sur la plage de dates sélectionnée.
+ 
+### <a name="licenses-deployed"></a>Licences déployées
+
+La zone **licences déployées** du résumé comprend les éléments suivants :
+ 
+- Nombre total de licences de produits Cloud déployées dans vos abonnements client sur la période sélectionnée. 
+- La croissance du pourcentage ou le déclin dans ces licences pendant la plage de dates sélectionnée. 
+- Le micro-graphique affiche la tendance de mois sur mois de ces licences attribuées sur la plage de dates sélectionnée.
+
+## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Répartition géographique de vos clients, abonnements et licences
 
 Cette vue est une distribution géographique du total des clients, des abonnements et des licences par pays du client. Cliquez sur les différents onglets pour afficher chacun de ces Insights sur la carte. Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Revenez à la vue d’origine en appuyant sur le bouton démarrage sur la carte. Le fait de cliquer sur chaque onglet (par exemple, clients, abonnements) affiche la valeur de la mesure pour chaque pays, ainsi que le pourcentage du total du pays.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Résumé géographique":::
 
-**Tendance à la croissance des clients**
+## <a name="customers-growth-trend"></a>Tendance à la croissance des clients
 
 Tendance mensuelle du nombre total de clients pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et l’axe des Y représente le nombre total de clients pour ce mois. 
 
 :::image type="content" source="images/pci/customergrowth.png" alt-text="tendance à la croissance des clients":::
 
-**Tendance de croissance des abonnements**
+## <a name="subscriptions-growth-trend"></a>Tendance de croissance des abonnements
 
 Cela indique la tendance du nombre d’abonnements client pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates et de l’axe des Y sélectionnés représente le nombre d’abonnements du produit sélectionné. Faites défiler le curseur en haut du graphique pour effectuer un zoom sur le graphique sur une période spécifique. 
 
 :::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendance de croissance de l’abonnement":::
 
-**Tendance à la croissance du chiffre d’affaires Azure**
+## <a name="azure-consumed-revenue-growth-trend"></a>Tendance à la croissance du chiffre d’affaires Azure
 
 La tendance mensuelle d’Azure a consommé le chiffre d’affaires US $ qui vous est attribué au cours de la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et celui de l’axe des Y représente le total des revenus Azure consommés dont nous sommes affectés au cours du mois.
-   
->[!Note] 
->Le chiffre d’affaires utilisé par Azure (ACR) ne sera visible que pour les utilisateurs qui se sont vu attribuer le rôle visionneuse de rapports exécutifs. 
+
+> [!NOTE]
+> Le chiffre d’affaires utilisé par Azure (ACR) ne sera visible que pour les utilisateurs qui se sont vu attribuer le rôle visionneuse de rapports exécutifs. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Consommation Azure":::
 
-**Tendance de croissance des licences**
+## <a name="licenses-growth-trend"></a>Tendance de croissance des licences
  
 Tendance des licences affectées par tous les clients au cours de la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et l’axe des Y représente le nombre de licences du produit que vous avez sélectionné. Faites défiler le curseur en haut du graphique pour effectuer un zoom sur le graphique sur une période spécifique.  
 
@@ -86,4 +113,4 @@ Tendance des licences affectées par tous les clients au cours de la plage de da
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).
+Pour obtenir d’autres rapports, consultez la section Insights de l' [espace partenaires](partner-center-insights.md).

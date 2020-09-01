@@ -1,5 +1,5 @@
 ---
-title: Problèmes liés aux associations de clients
+title: Problèmes liés aux associations de client pour les incentives
 description: Découvrez comment résoudre les problèmes qui se posent quand vous travaillez avec des associations de clients CPOR.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,27 +7,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303255"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220617"
 ---
-# <a name="customer-association-issues"></a>Problèmes liés aux associations de clients
+# <a name="incentives-customer-association-issues"></a>Problèmes liés aux associations de client pour les incentives
 
-S’applique à :
+**S’applique à :**
 
-- Espace partenaire
+- Espace partenaires
 
-Le contenu ci-dessous vous aidera à résoudre les problèmes que vous pouvez rencontrer lorsque vous travaillez avec des associations de clients.
-
-Rôles appropriés :
+**Rôles appropriés :**
 
 - Administrateur de la facturation
 - Administrateur général
 - Administrateur de primes incitatives
+
+Le contenu ci-dessous vous aidera à résoudre les problèmes que vous pouvez rencontrer lorsque vous travaillez avec des associations de clients.
 
 ## <a name="domain-tenant-mismatch"></a>Incompatibilité de domaine-locataire
 
@@ -62,9 +62,9 @@ La plateforme de revendication CPOR autorise les revendications d’association 
 | Domaine fonctionnel | Activité | S’applique à |
 | ------ | ----------- | ----------- |
 | Applications métier      | Support prévente   | Sélectionnez cette option si vous avez influencé l’achat d’un produit éligible et souhaitez demander des incentives avant la vente. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct. |
-|    |  Usage  | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct. |
+|    |  Utilisation  | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct. |
 |    | Association du chiffre d’affaires   | Sélectionnez si vous avez influencé la sélection d’un produit éligible en tant qu’influenceur commercial. Cette option est réservée à l’Association du chiffre d’affaires, et non aux paiements incitatives. Cette option s’applique uniquement si le client a acheté ces produits via un contrat de licence en volume ou Web-direct.   |
-| Microsoft 365   | Usage   | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. |
+| Microsoft 365   | Utilisation   | Sélectionnez si vous Encouragez l’adoption et l’utilisation d’une charge de travail éligible et souhaitez demander des incentives sur l’utilisation. |
 
 ## <a name="which-mpn-do-i-choose"></a>Quels MPN-je choisir ?
 
@@ -72,7 +72,7 @@ Dans le workflow de revendication d’association CPOR, vous serez invité à ch
 
 Si vous ne savez pas quels MPN utiliser, contactez votre administrateur général.
 
-Si le MPN que vous souhaitez utiliser n’est pas inscrit, vous pouvez le gérer sous l' [onglet de vue d’ensemble des incentives](https://partner.microsoft.com/dashboard/incentives/enrollment/summary).
+Si le MPN que vous souhaitez utiliser n’est pas inscrit, vous pouvez le gérer sous l' [onglet de vue d’ensemble des incentives](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (connexion requise).
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>Choix d’un produit et entrée d’un abonnement
 
@@ -91,4 +91,8 @@ Si vous créez une revendication d’association CPOR pour un client et leurs pr
 4. Votre revendication d’association CPOR sera toujours examinée dans un délai de cinq jours ouvrables, bien que son état puisse rester en _cours d’examen_ sur une période plus longue. Ce scénario peut se produire lorsque Microsoft collabore avec le partenaire actuellement propriétaire du produit/de la charge de travail. Si c’est le cas, vous recevrez une notification dans la section des commentaires de votre revendication. 
 
 >[!IMPORTANT]
->Si nous avons besoin d’informations supplémentaires pour vérifier votre CPOR Association PoE, nous vous contacterons via la section commentaires de la revendication d’association CPOR.
+>Si nous avons besoin d’informations supplémentaires pour vérifier votre CPOR d’Association (PoE), nous vous contacterons via la section commentaires de la revendication d’association CPOR.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Bien commencer avec les incentives](incentives-get-started-intro.md)

@@ -1,7 +1,7 @@
 ---
 title: Demandes de coopération aux incentives
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Découvrez comment soumettre une demande de remboursement réussie pour vos incentives en organisant la documentation, les factures, les déclarations et les preuves d’exécution appropriées.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 72b19b1edd1d63d89472168c4210edcbeac7b837
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 78c9d9b0150e936afc0d90ffc16d90a1334cbaba
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527565"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220677"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Incentive - Vue d’ensemble des revendications de coopération
 
@@ -34,10 +34,10 @@ Une revendication réussie comprend les éléments suivants :
 - Documentation qui montre que vous avez répondu aux exigences principales de l’activité
 - Factures de fournisseurs tiers avec lesquels vous travaillez
 - Déclaration de certification et rapport (conseillers) pour tout travail interne effectué
-- La documentation appropriée (preuve d’exécution) qui prouve que vous avez terminé l’activité 
+- La documentation appropriée (preuve d’exécution, ou PoE) qui prouve que vous avez terminé l’activité 
 
 >[!NOTE]
->Microsoft se réserve le droit de demander des documents de preuve d’exécution (POE) originaux. Conservez tous vos documents d’origine pendant une période de 24 mois à compter de la date de l’activité. 
+>Microsoft se réserve le droit de demander des documents PoE originaux. Conservez tous vos documents d’origine pendant une période de 24 mois à compter de la date de l’activité. 
 
 |**Pour ce faire**   |**Lisez cela**   |
 |-----------------|:--------------------------------------|
@@ -46,5 +46,7 @@ Une revendication réussie comprend les éléments suivants :
 |Vérifiez que vous connaissez les exigences principales de la revendication d’activité.|[Connaître les exigences principales en matière de revendications d’incentives](core-requirements.md)   |
 |En savoir plus sur le programme d’incentives complet|[Guide de co-op des incentives partenaires](https://assets.microsoft.com/coop-guidebook.pdf)
 |Créer une association client et envoyer une revendication |[Créer une association de clients avec le modèle CPOR](submit-osa-claim.md)|
-                                                                                 
-                                   
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Bien commencer avec les incentives](incentives-get-started-intro.md)

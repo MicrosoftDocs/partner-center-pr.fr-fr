@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239067"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220727"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Azure disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -26,14 +26,14 @@ ms.locfileid: "88239067"
 
 Le rapport d’utilisation Azure présente les mesures relatives aux abonnements Azure de vos clients. Cela comprend le chiffre d’affaires et l’utilisation de la consommation Azure par catégories de compteurs. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation d’Azure.
 
-- Récapitulatif
+- Résumé
 - Utilisation d’Azure par zone géographique
 - Utilisation d’Azure
 
  > [!NOTE]
- > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
+ > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre société. les types spécifiques de données de ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
-**Résumé**
+## <a name="summary"></a>Résumé
 
 La section Résumé présente une vue instantanée des indicateurs de performance clés (KPI) associés aux abonnements Azure vendus ou gérés par vos clients.  
 
@@ -56,7 +56,7 @@ Le micro-graphique présente une tendance mensuelle de ACR US $ qui vous est att
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Résumé de l’utilisation d’Azure":::
 
-**Utilisation d’Azure par zone géographique**
+## <a name="azure-usage-by-geography"></a>Utilisation d’Azure par zone géographique
 
 La vue **utilisation d’Azure par géographie** affiche la répartition géographique des revenus de la consommation Azure (ACR des États-Unis $) ou des heures d’utilisation pour toutes les catégories de niveau de service/compteur Azure ou sélectionnées. Les couleurs plus claires sur la carte représentent des valeurs inférieures, tandis que les couleurs plus sombres représentent des valeurs plus élevées. Vous pouvez rechercher et sélectionner un pays dans la grille pour effectuer un zoom 
 
@@ -66,7 +66,7 @@ Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un 
 
 :::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Utilisation d’Azure par zone géographique":::
 
-**Utilisation d’Azure**
+## <a name="azure-utilization"></a>Utilisation d’Azure
 
 Cette vue affiche les tendances du chiffre d’affaires de la consommation Azure mensuelle ou des heures d’utilisation par catégorie de niveau de service/compteur Azure sélectionnée. 
 

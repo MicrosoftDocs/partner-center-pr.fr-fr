@@ -1,33 +1,33 @@
 ---
-title: Créer votre plan
+title: Créer votre plan d’incentives
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/31/2020
 description: Rassemblez et créez les informations nécessaires pour générer un plan marketing réussi pour votre programme d’incentives.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303245"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220627"
 ---
-# <a name="create-your-plan"></a>Créer votre plan
+# <a name="create-your-incentives-plan"></a>Créer votre plan d’incentives
 
-S’applique à :
+**S’applique à :**
 
-- Espace partenaire
+- Espace partenaires
 
-Un plan de demandes de financement est une série de campagnes marketing, d’activités et d’autres détails décrivant la manière dont vous allez réussir votre programme. Une fois que vous avez créé votre plan, vous le soumettez à Microsoft pour approbation. 
-
-Rôles appropriés :
+**Rôles appropriés :**
 
 - Administrateur de primes incitatives
 - Administrateur de la facturation
 - Administrateur général
+
+Un plan de demandes de financement est une série de campagnes marketing, d’activités et d’autres détails décrivant la manière dont vous allez réussir votre programme. Une fois que vous avez créé votre plan, vous le soumettez à Microsoft pour approbation.
 
 ## <a name="create-your-incentives-plan"></a>Créer votre plan d’incentives
 
@@ -93,3 +93,7 @@ Microsoft vous adresse des paiements chaque mois en fonction de vos gains et des
 Par exemple, si votre plan est approuvé pour 10 000 USD et que vous avez gagné 5 000 USD au mois d’avril, vous recevrez 5 000 USD le 15 mai.
 
 Pour ce même plan, si vous avez gagné 15 000 USD au mois d’avril, vous recevrez 10 000 USD le 15 mai, car la limite de votre plan est de 10 000 USD. Pour recevoir un paiement supérieur, vous devez relever la limite de votre plan pour le mois suivant.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Préparer votre preuve d’exécution](incentives-prepare-your-proof-of-execution.md)

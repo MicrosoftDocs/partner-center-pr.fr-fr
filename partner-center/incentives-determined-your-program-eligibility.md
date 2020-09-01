@@ -7,19 +7,19 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: 0f274703d3eb52c573c3f7f5043b73be7bc0bfa7
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.date: 08/31/2020
+ms.openlocfilehash: a182b4d9289a448886dd8e1e49211bf625640819
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893454"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220607"
 ---
 # <a name="partner-incentives-overview-and-eligibility"></a>Présentation et éligibilité des incentives partenaires 
 
 **S’applique à**:
 
-- Espace partenaire
+- Espace partenaires
 
 **Rôles appropriés**:
 
@@ -44,4 +44,4 @@ Les conditions d’éligibilité spécifiques pour votre programme sont disponib
 
 ## <a name="next-steps"></a>Étapes suivantes
 
--[Profils de paiement et de taxes pour les programmes d’incentives](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Profils de paiement et de taxes pour les programmes d’incentives](incentives-create-and-manage-your-payout-and-tax-profiles.md)

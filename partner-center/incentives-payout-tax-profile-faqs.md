@@ -1,25 +1,25 @@
 ---
 title: Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives
 ms.topic: article
-ms.date: 07/21/2020
+ms.date: 08/31/2020
 description: Forum aux questions sur le paiement d’incentives et les profils fiscaux.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: b6e66605c0afcf460fffd5d31c14b5e150ff495a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303145"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220527"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives
 
 S’applique à :
 
-- Espace partenaire
+- Espace partenaires
 
 Rôles appropriés :
 
@@ -39,7 +39,7 @@ Vous devrez peut-être également fournir des informations mises à jour si les 
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Comment communiquer/mettre à jour mes informations de paiement et/ou fiscales ?
 
-Pour savoir comment mettre à jour les informations de paiement et fiscales dans l’Espace partenaires, consultez [Guide pratique pour créer et gérer des profils bancaires et fiscaux dans l’Espace partenaires](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center).
+Pour plus d’informations sur la mise à jour des détails des paiements et des taxes dans l’espace partenaires, voir [créer et gérer des profils de paiement et de taxes dans l’espace partenaires](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Pourquoi mes inscriptions ne sont-elles pas présentes quand je cherche à affecter mon profil de paiement et fiscal ?
 

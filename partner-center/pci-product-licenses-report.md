@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239047"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220298"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
@@ -26,35 +26,38 @@ ms.locfileid: "88239047"
 
 Le rapport licences du produit présente l’analytique des licences pour les produits Cloud basés sur des licences, tels que O365, Dynamics, M365, Power BI, etc. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
 
-- Récapitulatif
+- Résumé
 - Répartition géographique des licences
 - Ajouts de licence
 - Distribution de licences par emplacement de partenaire, canal de vente, SKU, type de rattachement de partenaire, segment
 
  > [!NOTE]
- > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
+ > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre société. les types spécifiques de données de ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
-**Résumé**
+## <a name="summary"></a>Résumé
 
 La section Résumé fournit une vue instantanée des indicateurs de performance clés (KPI) associés aux licences de produits Cloud vendues, déployées et utilisées. Cela vous permet de suivre l’utilisation active par rapport aux licences vendues à vos clients.
 
-- Licences : nombre actuel de licences vendues ou gérées par vous pour les produits Cloud basés sur des licences, tels que O365, Dynamics, M365, Power BI, etc. Augmentation du pourcentage ou diminution de ces licences sur la plage de dates sélectionnée.
-
-Le micro-graphique présente l’évolution du nombre de licences par mois pendant la plage de dates sélectionnée.
-
-- Licences déployées : nombre actuel de toutes les licences attribuées de votre client.
-Augmentation du pourcentage ou diminution de ces licences au cours de la période sélectionnée.
-
-Le micro-graphique présente la tendance mensuelle du nombre de licences attribuées pendant la plage de dates sélectionnée.
-
-- Licences actives : nombre actuel de licences client avec une utilisation active au cours des 30 derniers jours pendant la plage de dates sélectionnée.
-Augmentation du pourcentage ou diminution de ces licences pendant la plage de dates sélectionnée.
-
-Le micro-graphique présente l’évolution du nombre de licences par mois au cours de la plage de dates sélectionnée.
-
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Résumé du rapport de licence":::
 
-**Répartition géographique des licences**
+Pour plus d’informations sur chaque section du résumé, voir ci-dessous.
+
+- Licenses : 
+  - Nombre actuel de licences vendues ou gérées par vous pour les produits Cloud basés sur des licences, tels que O365, Dynamics, M365, Power BI, etc.
+  - Augmentation du pourcentage ou diminution de ces licences sur la plage de dates sélectionnée.
+  - Trend Trend Micro Chart : le micro graphique présente la tendance du nombre de licences mois sur mois pendant la plage de dates sélectionnée.
+
+- Licences déployées :
+  - Nombre actuel de toutes les licences attribuées de votre client.
+  - Augmentation du pourcentage ou diminution de ces licences au cours de la période sélectionnée.
+  - Nombre de licences : le micro graphique présente la tendance mensuelle du nombre de licences attribuées au cours de la plage de dates sélectionnée.
+
+- Licences actives : 
+  - Nombre actuel de licences client avec une utilisation active au cours des 30 derniers jours pendant la plage de dates sélectionnée.
+  - Augmentation du pourcentage ou diminution de ces licences pendant la plage de dates sélectionnée.
+  - Le micro-graphique présente l’évolution du nombre de licences par mois au cours de la plage de dates sélectionnée.
+
+## <a name="geographical-spread-of-licenses"></a>Répartition géographique des licences
 
 La vue de **répartition géographique des licences** affiche la répartition géographique des licences actuelles et des licences actives sur les marchés des clients. (Le nombre de licences **actuel** comprend également des licences non affectées.)
 
@@ -64,7 +67,7 @@ Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un 
 
 :::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="répartition géographique des licences":::
 
-**Ajouts de licence**
+## <a name="license-adds"></a>Ajouts de licence
 
 Cet affichage indique la tendance des licences ajoutées au cours de la plage de dates sélectionnée. 
 
@@ -74,7 +77,7 @@ L’axe des X représente les mois de la plage de dates sélectionnée. L’axe 
 
 :::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="ajouts de licence":::
 
-**Distribution de licences**
+## <a name="license-distribution"></a>Distribution de licences
 
 Cette vue affiche une répartition de vos licences client par pays/région du client et du produit. Lorsque vous sélectionnez un produit dans le graphique à secteurs **licence par produit** , le graphique adjacent vous indique une répartition de licence par région de client.
 

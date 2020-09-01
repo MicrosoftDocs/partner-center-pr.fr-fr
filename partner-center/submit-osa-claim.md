@@ -1,7 +1,7 @@
 ---
 title: Créer une association cliente via le modèle CPOR
 ms.topic: article
-ms.date: 08/26/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Créer des associations de clients via le modèle CPOR (revendication du partenaire de l’enregistrement). Permet de gérer les ventes, l’utilisation & les Incentives pour les clients Microsoft 365 et Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: d5b14759803beb73cc970bf5fb96747048b8bdc1
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942551"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220367"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Créer une association client via le modèle CPOR : à utiliser pour les clients Microsoft 365 et Dynamics 365
 
@@ -22,11 +22,14 @@ ms.locfileid: "88942551"
 
 - Espace partenaires
 
+**Rôles appropriés :**
+
+- Administrateur de primes incitatives
+
 Le 1er octobre 2019, Microsoft a commencé à utiliser le modèle d’enregistrement (CPOR) du partenaire demandeur pour gérer les associations que vous avez avec votre Microsoft 365 et les clients Dynamics 365 en ce qui concerne la vente d’OSA (Online Services Advisory), l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Incentives pour les applications métier.
 
->[! Important :] les revendications d’association client (CPOR) s’appliquent uniquement aux programmes d’incentives de la vente OSA (Online Services Advisory), de l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business. Si vous soumettez une demande de remboursement pour un autre programme, tel que le fournisseur de solutions Cloud, le revendeur géré, l’hébergement ou la surface, reportez-vous à la procédure décrite ici.
-
-Lorsque vous soumettez votre revendication, Microsoft la valide. Nous vous demanderons peut-être d’autres informations à ce stade. Nous informerons également le client de votre demande d’association. Les clients disposent de cinq jours ouvrés pour s’abonner. S’ils n’ont pas été refusés, votre association avec ce locataire et cette charge de travail spécifiques sera officielle. À ce stade, vous aurez accès aux données d’utilisation du client. 
+>[!Important]
+> Les revendications de l’Association client (CPOR) s’appliquent uniquement aux programmes d’incentives du service Online Services Advisory (OSA), de l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business. Si vous soumettez une demande de remboursement pour un autre programme, tel que le fournisseur de solutions Cloud, le revendeur géré, l’hébergement ou la surface, reportez-vous à la procédure décrite ici. <br><br>Lorsque vous soumettez votre revendication, Microsoft la valide. Nous vous demanderons peut-être d’autres informations à ce stade. Nous informerons également le client de votre demande d’association. Les clients disposent de cinq jours ouvrés pour s’abonner. S’ils n’ont pas été refusés, votre association avec ce locataire et cette charge de travail spécifiques sera officielle. À ce stade, vous aurez accès aux données d’utilisation du client. 
 
 Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
@@ -50,7 +53,7 @@ Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
 - **Produit (s)** ou charge (s) de travail que vous demandez
 
-- **Preuve d’exécution (PoE)**, telle qu’une déclaration de travail signée par le client. Vous pouvez également télécharger un modèle POE à utiliser.
+- **Preuve d’exécution (PoE)**, telle qu’une déclaration de travail signée par le client. Vous pouvez également télécharger un modèle PoE à utiliser.
 
 - Pour les partenaires revendiquant l’Association du chiffre d’affaires uniquement : **Dynamics solution seller Name**, **Customer Name**et **Name of ISV Product/solution**. 
 
@@ -64,34 +67,35 @@ Vous devez également comprendre les points suivants :
 
 ## <a name="create-a-customer-association"></a>Créer une association client
 
-1. Dans le tableau de bord de l’espace partenaires, sous **incentives**, sélectionnez **vue d’ensemble**, puis **associations client**. 
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. En haut de la page des associations de clients, sélectionnez **+ Association client**.
+2. Sélectionnez l’onglet **incentives** , sélectionnez **vue d’ensemble**, puis **associations client**.
 
-3. Sélectionnez l’**ID MPN** du site partenaire à associer au client, puis ajoutez le nom du domaine et l’ID d’annuaire du client. [Rechercher](find-domain-name.md)
+3. En haut de la page des associations de clients, sélectionnez **+ Association client**.
 
-4. Sélectionnez **Continuer**.
+4. Sélectionnez l’**ID MPN** du site partenaire à associer au client, puis ajoutez le nom du domaine et l’ID d’annuaire du client. [Rechercher](find-domain-name.md)
 
-5. Sélectionnez la **zone de solution** et l' **activité**. 
+5. Sélectionnez **Continuer**.
+
+6. Sélectionnez la **zone de solution** et l' **activité**. 
 
    >[!Note]
    >
    >Si vous sélectionnez Business Applications, sélectionnez **utilisation et/ou prévente**, ou association de **chiffre d’affaires**, puis sélectionnez **Continuer**. 
+   <br><br>Si vous sélectionnez Revenue association, vous serez invité à fournir des informations légèrement différentes de celles indiquées ci-dessous.
 
-   >Si vous sélectionnez Revenue association, vous serez invité à fournir des informations légèrement différentes de celles indiquées ci-dessous.
+7. Entrez les informations appropriées dans la page **associer un client** , puis sélectionnez **créer une revendication**.
 
-6. Entrez les informations appropriées dans la page **associer un client** , puis sélectionnez **créer une revendication**.
+8. Sélectionnez le ou les produits associés à cette association de clients, puis sélectionnez **Continuer**.
 
-7. Sélectionnez le ou les produits associés à cette association de clients, puis sélectionnez **Continuer**.
-
-8. Renseignez les informations de contact du client, ainsi que les coordonnées de votre société. Tous les champs sont obligatoires. 
+9. Renseignez les informations de contact du client, ainsi que les coordonnées de votre société. Tous les champs sont obligatoires. 
 
    >[!NOTE]
    >Si votre produit est Dynamics 365 et que le produit que vous choisissez a plusieurs abonnements pour ce client particulier, vous devez également entrer l’ID d’abonnement.
 
-9. Fournissez votre preuve d’exécution (PoE). Vous pouvez la faire glisser vers la zone prévue, accéder à votre propre documentation de support ou utiliser un modèle en sélectionnant **Download template** (Télécharger un modèle). 
+10. Fournissez votre preuve d’exécution (PoE). Vous pouvez la faire glisser vers la zone prévue, accéder à votre propre documentation de support ou utiliser un modèle en sélectionnant **Download template** (Télécharger un modèle). 
 
-10. Ajoutez puis enregistrez des commentaires si vous le souhaitez, puis sélectionnez **Submit claim** (Envoyer une demande). Nous enverrons un e-mail au client qui demande l’approbation de votre association client.
+11. Ajoutez puis enregistrez des commentaires si vous le souhaitez, puis sélectionnez **Submit claim** (Envoyer une demande). Nous enverrons un e-mail au client qui demande l’approbation de votre association client.
 
    >[!NOTE]
    >Une fois que vous avez envoyé votre association client, vous ne pouvez plus la modifier.
@@ -99,3 +103,7 @@ Vous devez également comprendre les points suivants :
 L’état de votre association client s’affiche dans le champ **Status** (État).
 
 Sélectionnez **History** (Historique) pour afficher l’historique d’une association client.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Gérer les associations client](incentives-manage-customer-associations.md)

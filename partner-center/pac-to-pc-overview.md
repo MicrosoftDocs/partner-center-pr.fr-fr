@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 31bf26495f2429402b600324353017895ca2af8a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114517"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220737"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Le Centre d’administration des partenaires est transféré à l’Espace partenaires
 
@@ -39,9 +39,9 @@ Nous développons Microsoft l’espace partenaires dans le seul endroit où vous
 
 En avril 2018, les PAC seront mis hors service, et les partenaires CSP vont être automatiquement redirigés vers l’espace partenaires Microsoft. La redirection se produit par étapes, et une fois que vous êtes redirigé vers l’espace partenaires, vous ne pourrez pas travailler dans la clé PAC. 
 
-**Partenaires fournisseurs de solutions Cloud** Si vous êtes un partenaire CSP, nous vous redirigerons automatiquement vers l’espace partenaires à partir du 2018 avril. 
+- Partenaires fournisseurs de solutions Cloud : Si vous êtes un partenaire CSP, nous vous redirigerons automatiquement vers l’espace partenaires à partir du 2018 avril.
 
-**Partenaires Advisor** (si vous n’utilisez pas le fournisseur CSP et que vous utilisez PAC pour fournir des versions d’évaluation/devis à vos clients) dès que nous décidons de la chronologie de votre redirection automatique vers l’espace partenaires, nous l’annoncerons ici. 
+- Partenaires Advisor (si vous ne le faites pas par le biais du CSP et utilisez PAC pour fournir des versions d’évaluation/devis à vos clients) : dès que nous décidons de la chronologie de votre redirection automatique vers l’espace partenaires, nous l’annoncerons ici.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Commencez à utiliser l’espace partenaires Microsoft dès maintenant !
 

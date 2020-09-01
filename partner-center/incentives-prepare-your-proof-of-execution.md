@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303295"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220777"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Préparer votre preuve d’exécution
 
-S’applique à :
+**S’applique à :**
 
-- Espace partenaire
+- Espace partenaires
 
-Avant de payer votre travail d’incentives, vous devez soumettre une preuve d’exécution détaillée. Cet article vous guide tout au long du processus de création d’une preuve d’exécution efficace.
-
-Rôles appropriés :
+**Rôles appropriés :**
 
 - Administrateur de primes incitatives
+
+Avant de payer votre travail d’incentives, vous devez soumettre une preuve d’exécution détaillée. Cet article vous guide tout au long du processus de création d’une preuve d’exécution efficace.
 
 ## <a name="how-to-submit-a-poe"></a>Envoi d’un PoE
 
@@ -62,7 +62,7 @@ Rôles appropriés :
 
 11. Vous pouvez également télécharger des **documents de preuve** si vous le souhaitez. Dans le champ **documents de preuve** , sélectionnez **faire glisser ou parcourir les fichiers à charger**. Si vous sélectionnez documents de preuve, vous devez ajouter des notes explicatives. Après avoir ajouté une note, sélectionnez **Enregistrer**.
 
-12. Entrez les commentaires finaux avant de soumettre votre POE, puis sélectionnez **Envoyer la revendication**.
+12. Entrez les commentaires finaux avant de soumettre votre PoE, puis sélectionnez **Envoyer la revendication**.
 
 ## <a name="view-the-status-of-a-poe"></a>Affichage de l’état d’une PoE
 
@@ -80,3 +80,7 @@ Rôles appropriés :
    - Modification
    - Approved
    - Rejeté
+
+## <a name="next-steps"></a>Étapes suivantes :
+
+- [Bien commencer avec les incentives](incentives-get-started-intro.md)

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8a6c5fc3a087c97b2ad19b2067027bab24ac15b
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239037"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220467"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Rapport compétences disponible à partir du tableau de bord Insights de l’espace partenaires
 
@@ -26,29 +26,32 @@ ms.locfileid: "88239037"
 
 Les compétences permettent à votre entreprise de démontrer vos capacités techniques à la fourniture de solutions Microsoft. Les compétences Microsoft sont conçues pour répondre aux besoins de vos clients et présenter votre expertise aux clients potentiels. Ils bénéficient d’un large éventail d’avantages de la part de Microsoft, tels que les quantités incluses de consommation Azure, les habilitations pour les produits Cloud tels que O365, le support technique, les offres Go-to-Market, etc. Aujourd’hui, il existe un total de 19 compétences parmi les catégories suivantes : **application et infrastructure**, **applications métier**, **données et IA** et **moderne Workplace**. Les compétences sont hiérarchisées en niveaux Silver ou Gold, par exemple. Il existe une barre supérieure pour la compétence Gold et un niveau supérieur de ressources marketing, d’offres et de programmes disponibles.  
 
-**Cycle de vie des compétences**
+Vous bénéficierez d’une plus grande utilisation du rapport sur les compétences si vous en saurez plus sur le cycle de vie des compétences, la réalisation des compétences et d’autres détails sur le rapport de compétence.
+
+## <a name="competency-life-cycle"></a>Cycle de vie des compétences
 
 Du point de vue du cycle de vie, les partenaires commencent par créer les indicateurs de performance clés (KPI) requis pour atteindre des compétences spécifiques. Une fois qu’ils atteignent le seuil défini pour une compétence donnée sur l’ensemble des mesures requises, elles deviennent **qualifiées** pour une compétence. Les partenaires peuvent ensuite payer l’offre de compétence (Silver ou Gold) pour atteindre les compétences et devenir **actives** dans cette compétence. L’état **actif** de la compétence est valide pendant un an à compter de la date de réalisation de la compétence (il s’agit de la **date anniversaire** de la compétence). À la fin de l’année anniversaire, les partenaires doivent respecter les exigences de compétence. S’ils ne satisfont pas à ces exigences, ils perdront la compétence. Un état **à risque** pour une compétence précédemment atteinte signifie que certaines mesures clés sont prévues pour tomber en dessous du seuil à la **date anniversaire**de ces compétences.
 
-**Réalisation des compétences**
+## <a name="competency-attainment"></a>Réalisation des compétences
 
 Chaque compétence a un ensemble spécifique de conditions à satisfaire. Les exigences en matière de compétences du Cloud se répartissent en deux catégories : compétences et performances.
 
 - Compétences : les exigences incluent souvent des examens, des évaluations ou des certifications que les personnes de votre entreprise doivent franchir.
+
 - Performances : pour être éligible à une compétence, votre entreprise doit respecter certains seuils de performances alignés sur la zone de compétence. Par exemple, votre entreprise peut être amenée à atteindre une quantité minimale de consommation Azure au cours des 12 mois à la fin.
 
 ## <a name="competencies-report-details"></a>Détails du rapport de compétences
 
 Vous pouvez voir les sections suivantes dans le rapport compétences :
 
-- Récapitulatif
+- Résumé
 - Analyse des mesures de compétence
 - Historique des compétences
 
  > [!NOTE]
- > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
+ > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre société. les types spécifiques de données de ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
-**Résumé**
+### <a name="summary"></a>Résumé
 
 La vue résumé présente un nombre de compétences avec leurs noms à chaque niveau de compétence (Gold/Silver) à travers toutes les étapes du cycle de vie de la compétence. Les étapes du cycle de vie de la compétence incluent : **démarré**, **qualifié**, **actif**et **risqué**. Exemple : les exigences relatives aux compétences Cloud se situent sous deux catégories : compétences et performances.
 
@@ -64,7 +67,7 @@ Répartition des compétences (par niveau de compétence, par exemple Silver/Gol
 
 :::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Résumé des compétences":::
 
-**Analyse des mesures de compétence**
+### <a name="competency-metric-analysis"></a>Analyse des mesures de compétence
 
 Cet affichage indique l’état des mesures de compétence par rapport aux seuils requis pour que les partenaires atteignent/conservent les compétences au niveau Silver/Gold. 
 
@@ -78,7 +81,7 @@ Le rapport peut être croisé par les deux plages de dates suivantes :
 > [!NOTE]
  > Toutes les métriques ne sont pas traitées dans l’analyse. Actuellement, les métriques associées à l’apprentissage et à la certification ne sont pas prises en charge dans le rapport compétences. Les compétences du Cloud Business Applications (CBA) ne sont pas non plus prises en charge dans l’analyse des métriques pour l’état **actif** de la compétence.
 
-**Historique des compétences**
+### <a name="competency-history"></a>Historique des compétences
 
 Cette vue affiche un tableau détaillé de toutes les compétences que vous avez atteintes jusqu’à présent, avec un niveau de compétence et une phase de compétence.
 

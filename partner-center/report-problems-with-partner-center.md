@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040755"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220247"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Comment signaler des problèmes avec l’espace partenaires et envoyer des informations de journal ou de diagnostic
 
@@ -29,7 +29,7 @@ Contactez le support technique si vous rencontrez des problèmes ou si vous avez
 
 Tous les utilisateurs connectés au centre des partenaires peuvent créer des demandes de support partenaires. Les utilisateurs peuvent uniquement afficher les demandes de support qu’ils ont soumises après leur connexion à l’espace partenaires.
 
-**Signaler un problème avec l’espace partenaires**
+## <a name="report-a-problem-with-the-partner-center"></a>Signaler un problème avec l’espace partenaires
 
 1. À partir de votre tableau de bord de l' **espace partenaires** , sélectionnez **support** , puis sélectionnez **demandes de support partenaires**.
 
@@ -41,7 +41,7 @@ Tous les utilisateurs connectés au centre des partenaires peuvent créer des de
 
 5. Renseignez les **Détails du problème** , puis **envoyez**. Un représentant du support technique partenaire vous contactera.
 
-**Envoyer des diagnostics**
+## <a name="send-diagnostics"></a>Envoyer des diagnostics
 
 Si une erreur se produit pendant que vous êtes sur une page de l’espace partenaires, vous pouvez être invité à collecter les informations du journal. Sélectionnez **collecter plus d’informations** à partir du lien qui s’affiche en haut de la page pour ouvrir l’outil de diagnostic client. Cet outil collecte les informations dont l’équipe du support des partenaires a besoin pour déterminer la cause de l’erreur. 
 
@@ -54,7 +54,7 @@ Si une erreur se produit pendant que vous êtes sur une page de l’espace parte
 
 Vous pouvez consulter les informations de diagnostic et les enregistrer dans un fichier à joindre à votre demande de support. Pour nous envoyer les informations :
 
-3. Consultez les informations du fichier avant de l’envoyer, car il peut contenir des informations d’identification personnelle que vous souhaiterez peut-être supprimer. 
+3. Consultez les informations du fichier avant de l’envoyer, car il peut contenir des informations d’identification personnelle que vous souhaiterez peut-être supprimer.
 
     >[!NOTE]
     >Dans certains navigateurs, la section **Mode Page** en bas de la page **Aperçu** peut apparaître vide. C'est normal.

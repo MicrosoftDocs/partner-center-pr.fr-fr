@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
-ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
+ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88799824"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220257"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -76,7 +76,7 @@ Pour accéder à la page **My incentives overview** (Vue d’ensemble de mes inc
 >Consultez le tableau suivant pour en savoir plus sur les différents États d’inscription présentés dans la colonne **État** .
 
 
-| **État**         | **Visible quand** |
+| **Statut**         | **Visible quand** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
@@ -116,7 +116,7 @@ Le mois de paiement estimé est actuellement disponible pour tous les types de g
 
 #### <a name="estimated-payment-month-example"></a>Exemple de mois de paiement estimé
 
-| Month | Montant |
+| Month (Mois) | Montant |
 | ------ | :-----------: |
 |  Sep-2020 |  $7 273,99   |
 |  Oct-2020 | $8 692,30  |
@@ -144,7 +144,7 @@ Notez que votre paiement n’est publié que dans le mois projeté si le seuil e
 |À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |Non       |
 |Facture fiscale en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé         |
 |Rejeté pendant la vérification        |Le paiement a été rejeté pendant la révision.          |Contactez le Support Microsoft pour obtenir des détails         |
-|Échec        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
+|Failed        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
 |En cours     |Le paiement est en cours.         |Non         |
 |Paiement incorrect        |Le remboursement est en cours.          |Non        |
 |Envoyé        |Le paiement a été envoyé à votre banque.          |Non       |
@@ -157,11 +157,14 @@ Notez que votre paiement n’est publié que dans le mois projeté si le seuil e
 ## <a name="export-data-page"></a>Page Exporter les données
 Suivez les instructions de cette page pour exporter les données souhaitées.
 
-**Remarques :**
+Voici quelques considérations à prendre en compte lorsque vous essayez d’exporter des données :
 
 - Étant donné le volume important de données, le contrat SLA pour la demande soumise à traiter est de 24 heures.
+
 - Vous verrez uniquement les données des ID et des programmes MPN auxquels vous êtes associé. Si vous souhaitez accéder à des données supplémentaires, contactez votre administrateur d’incentives.
+
 - La page Exporter les données ne s’actualise pas automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes.
+
 - Votre filtre peut déclencher l’erreur **Pas de données disponibles**. Cette erreur signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
 
 ## <a name="payment-download-export"></a>Exportation du téléchargement de paiement

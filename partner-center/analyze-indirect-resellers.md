@@ -9,12 +9,12 @@ ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998363"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220697"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Utiliser Analytics pour analyser les performances de vos revendeurs indirects
 
@@ -69,6 +69,18 @@ Nous effectuons le suivi des mesures suivantes :
  - **Emplacement**: marchés où les revendeurs indirects fonctionnent  
  - **Abonnements**: nombre d’abonnements vendus par le revendeur  
  - **Licences**: nombre total de licences vendues par le revendeur pour l’ensemble des abonnements  
+
+**État de la signature MPA**
+
+Cette section indique l’état de l’état de la signature MPA des revendeurs indirects du CSP.
+
+ - **Nom du revendeur**: nom du revendeur indirect du CSP
+ - **ID MPN**: ID MPN du revendeur indirect
+ - **Région**: région dans laquelle le revendeur indirect fonctionne
+ - **État**de l’instruction MPN : état d’instruction du revendeur indirect
+ - **État**de la signature MPa : état de signature MPa pour le revendeur indirect
+
+Cliquez sur l’icône de téléchargement dans le graphique pour télécharger les données d’état de la signature MPA avec des dimensions supplémentaires
   
 ## <a name="next-steps"></a>Étapes suivantes
 

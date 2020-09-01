@@ -1,25 +1,29 @@
 ---
-title: Inscrivez-vous au programme d’incentives
+title: S’inscrire au programme d’incentives
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: Inscrivez-vous au programme d’incentives et attribuez les rôles nécessaires à la gestion des utilisateurs.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eae4baa3cfd49692c6b672c45ec30c8384449975
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88426996"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220597"
 ---
-# <a name="enroll-in-the-incentives-program"></a>Inscrivez-vous au programme d’incentives
+# <a name="enroll-in-the-incentives-program"></a>S’inscrire au programme d’incentives
 
-S’applique à :
+**S’applique à :**
 
-- Espace partenaire
+- Espace partenaires
+
+**Rôles appropriés :**
+
+- Administrateur de primes incitatives
 
 >[!NOTE]
 >Avant de pouvoir vous inscrire au programme d’incentives, vous devez avoir terminé le centre d’appartenance au partenaire pour la [migration](prepare-pmc-pc-migration.md)de l’espace partenaires.
@@ -32,7 +36,7 @@ Le processus d’inscription se compose de deux étapes.
 
 ## <a name="user-management"></a>User Management
 
-Pour s’inscrire à un programme d’incentives, l’administrateur général ou l’administrateur de compte doit configurer les utilisateurs de votre entreprise. Ils doivent attribuer un ou plusieurs administrateurs d’incentives et accorder des autorisations utilisateur incitatives. Pour plus d’informations sur les comptes de partenaires, les rôles et les autorisations, consultez [gérer votre compte espace partenaires](partner-center-account-setup.md). L’administrateur général peut également configurer les utilisateurs de votre entreprise par le biais de l’Azure Active Directory (AAD).
+Pour s’inscrire à un programme d’incentives, l’administrateur général ou l’administrateur de compte doit configurer les utilisateurs de votre entreprise. Ils doivent attribuer un ou plusieurs administrateurs d’incentives et accorder des autorisations utilisateur incitatives. Pour plus d’informations sur les comptes de partenaires, les rôles et les autorisations, consultez [gérer votre compte espace partenaires](partner-center-account-setup.md). L’administrateur général peut également configurer les utilisateurs de votre entreprise par le biais du Azure Active Directory (Azure AD).
 
 Une fois que votre organisation est éligible à des incentives, Microsoft enverra des invitations à l’administrateur général, à l’administrateur de compte et à l’administrateur d’incentives.
 
@@ -43,7 +47,7 @@ Une fois que votre organisation est éligible à des incentives, Microsoft enver
 
 Une fois que votre organisation est éligible à des incentives, Microsoft enverra une invitation à l’administrateur MPN du MPNLocationID éligible pour démarrer le processus. Cet e-mail est envoyé par l' **espace partenaires Microsoft**et l’invitation à l' **inscription d’incentives du partenaire**est envoyée. Ouvrez l’invitation et sélectionnez **prise en main**.
 
-Vous verrez également une invitation sur la page d’hébergement de l’espace partenaires. Une fois que vous avez sélectionné ce message, vous ne pouvez plus le voir. Toutefois, l’administrateur peut toujours démarrer le processus en accédant à gestion des utilisateurs dans le tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/).
+Vous verrez également une invitation sur la page d’hébergement de l’espace partenaires. Une fois que vous avez sélectionné ce message, vous ne pouvez plus le voir. Toutefois, l’administrateur peut toujours démarrer le processus en se connectant au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) et en sélectionnant **gestion des utilisateurs**.
 
 ## <a name="expiration-and-renewal"></a>Expiration et renouvellement
 

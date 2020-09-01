@@ -1,25 +1,31 @@
 ---
 title: FAQ sur les incentives
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Forum aux questions pour les incentives Microsoft
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88426995"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220587"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Forum aux questions sur les incentives
 
-S’applique à :
+**S’applique à :**
 
-- Espace partenaire
+- Espace partenaires
+
+**Rôles appropriés :**
+
+- Administrateur de primes incitatives
+
+- Utilisateur de primes incitatives
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Ai-je besoin d’être l’administrateur général pour s’inscrire à des incentives ?
 
@@ -42,3 +48,7 @@ Les principaux rôles pour les incentives sont l’administrateur des incentives
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Qui dois-je contacter si j’obtiens un message d’erreur ou si j’ai besoin d’aide pendant le processus d’inscription ?
 
 Si vous rencontrez un problème dans la section incentives du tableau de bord, contactez le support technique en ligne. pour plus d’options, consultez l’option de support ( ? En haut à droite de l’icône).
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Bien commencer avec les incentives](incentives-get-started-intro.md)

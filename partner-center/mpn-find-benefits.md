@@ -1,22 +1,27 @@
 ---
 title: Trouvez vos avantages
 ms.topic: how-to
-ms.date: 08/18/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez comment localiser vos avantages dans le tableau de bord de l’espace partenaires.
+description: Découvrez comment trouver vos avantages MPN dans le tableau de bord de l’espace partenaires.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bcb48e8e2b587c0cc40f5d059b95a56568d56a3f
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88848938"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220760"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Recherchez vos avantages Microsoft Partner Network 
+
+Cet article indique aux membres du Microsoft Partner Network (MPN) Comment trouver leurs avantages MPN dans le tableau de bord de l’espace partenaires. Ces informations incluent la recherche des ID de support produit spécifiques de votre entreprise, tels que l’ID de contrat et l’ID d’accès, associés à des avantages techniques.
+
+>[!NOTE]
+> Si votre appartenance au Microsoft Partner Network est toujours dans le Partner Membership Center (PMC), vous devrez peut-être contacter une autre ressource comme Partner Frontline pour vous aider à afficher ou à activer certains avantages. Pour plus d’informations, consultez [activer des avantages techniques en dehors de l’espace partenaires](partner-membership-center-tech-benefits-activate.md).
 
 ### <a name="applies-to"></a>S’applique à
 
@@ -27,38 +32,63 @@ ms.locfileid: "88848938"
 - Administrateur partenaire MPN
 - Administrateur général
 
-En tant que membre Microsoft Partner Network (MPN), votre entreprise a accès à de nombreux avantages qui peuvent vous aider à développer votre activité. Pour découvrir ce que sont ces avantages :
+En tant que membre Microsoft Partner Network (MPN), votre entreprise a accès à de nombreux avantages qui peuvent vous aider à développer votre activité. Pour en savoir plus sur ces avantages :
 
-1. Connectez-vous à l’espace partenaires [tableau de bord] (( https://partner.microsoft.com/dashboard/home) , sélectionnez **MPN**, puis sélectionnez **avantages**.
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home)de l’espace partenaires, sélectionnez **MPN**, puis sélectionnez **avantages**.
 
-2. Des avantages, vous pouvez passer en revue, activer le tri ou télécharger les avantages de l’une des catégories disponibles, en sélectionnant ce qui vous intéresse :
+2. Des avantages, vous pouvez passer en revue, activer, trier ou télécharger les avantages d’un intérêt appartenant à l’une des catégories disponibles. Pour ce faire, sélectionnez la zone d’avantages pour laquelle vous souhaitez en savoir plus :
 
-- Produits Azure & Cloud
-- Produits logiciels
-- Abonnements Visual Studio
-- Avantages techniques
-- Go-to-Market 
+   - Produits Azure & Cloud
+   - Produits logiciels
+   - Abonnements Visual Studio
+   - Avantages techniques
+   - Go-to-Market
+   - Récompenses de la place de marché
+   - Générateur de logos
 
-3. En développant (+) un avantage, vous trouverez des informations supplémentaires sur l’activation des avantages de votre choix.
+3. En développant (+) un avantage, vous trouverez des informations supplémentaires qui vous aideront à activer l’avantage spécifique.
 
-:::image type="content" source="images/benefits/expandbenefits.png" alt-text="Avantages étendus":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Avantages étendus":::
+
+   > [!NOTE]
+   > Pour activer les avantages, vous devez disposer du rôle administrateur général ou administrateur de partenaire MPN dans l’espace partenaires. Toutefois, tous les autres utilisateurs d’une société doivent pouvoir afficher les détails des avantages dans l’espace partenaires, comme les ID de support produit. Pour plus d’informations sur les rôles de l’espace partenaires, consultez [affecter des rôles et des autorisations d’utilisateur dans l’espace partenaires](permissions-overview.md).
+
+## <a name="find-access-id-and-contract-id-for-technical-benefits"></a>Rechercher l’ID d’accès et l’ID de contrat pour les avantages techniques
+
+Une fois que vous avez suivi les étapes ci-dessus et activé certains avantages (comme les avantages techniques), d’autres informations importantes peuvent apparaître sur la page des avantages techniques.
+
+Pour obtenir des avantages techniques, vous verrez des ID de support technique Microsoft, tels que l' **ID d’accès** et l' **ID de contrat** dans l’espace partenaires.
+
+>[!NOTE]
+> Si votre appartenance au Microsoft Partner Network est toujours dans le Partner Membership Center (PMC) et n’a pas encore été migrée vers l’espace partenaires, vous devez contacter la Frontline de partenaire pour activer les avantages techniques ou recevoir votre ID d’accès au support technique et votre ID de contrat.
+
+ Pour afficher ces informations dans l’espace partenaires, procédez comme suit :
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires.
+
+2. Sélectionnez **MPN**, **avantages**, puis **avantages techniques**.
+
+3. Sélectionnez un avantage dans la liste. Développez l’avantage pour afficher plus de détails. 
+
+   Vous devez voir l' **ID de contrat** de support produit spécifique et l' **ID d’accès** affectés à cet avantage.  
+
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Exemple d’aide technique sur les compétences de base Gold avec l’ID de support technique Microsoft, comme l’ID de contrat et l’ID d’accès":::
+
+   > [!NOTE]
+   > Effectuez le suivi de ces ID de support. Certains systèmes peuvent les demander la première fois que vous (ou l’un des utilisateurs de votre société) consigne une demande de support associée à un avantage technique spécifique. Tous les utilisateurs de votre entreprise sont susceptibles d’utiliser le même ID d’accès et le même ID de contrat.
 
 ## <a name="specific-benefit-offers"></a>Offres d’avantages spécifiques
 
-Pour découvrir les avantages spécifiques offerts avec les différentes offres d’abonnement, reportez-vous aux documents suivants :
+Pour savoir quels avantages sont disponibles avec les compétences Microsoft Action Pack, Silver et/ou Gold, consultez les ressources suivantes :
 
-[Tableau des licences pour les avantages de MAPS](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Tableau des licences pour les partenaires Microsoft Action Pack](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
 
-[Tableau des licences pour les avantages de compétences](https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx)
+- [Tableau des licences pour les partenaires de compétence](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
-Pour découvrir comment vous pouvez utiliser ces avantages, reportez-vous au [Guide d’utilisation du produit](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).
-
-Pour découvrir les avantages qui vous sont offerts via les cartes, les compétences en argent et/ou Gold, vous pouvez les trouver ici :
-
-[Tableau des licences pour les partenaires Microsoft Action Pack](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
-
-[Tableau des licences pour les partenaires de compétence](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
+Pour savoir comment vous pouvez utiliser ces avantages, reportez-vous au [Guide d’utilisation du produit](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf).
 
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Associer des comptes de Microsoft Learn d’employés](ms-learn-associate.md)
+- [Gérez vos avantages et offres Microsoft Partner Network](manage-your-partner-network-benefits.md)
+- [Activer les avantages techniques pour les membres du Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
