@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436728"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220197"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>État des exigences de sécurité Partenaires - Obtenir des réponses et consulter des rapports sur l’état actuel
 
@@ -129,7 +129,7 @@ Si vous utilisez une solution MFA tierce, identifiez la façon dont vous l’int
 
 Il peut s’avérer utile d’identifier les utilisateurs qui se connectent à l’Espace partenaires sans vérification MFA et de les vérifier par rapport à votre implémentation MFA actuelle. Vous pouvez utiliser le [rapport de connexion Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) pour déterminer si un utilisateur a effectué ou non la vérification MFA. Le rapport de connexion Azure AD est disponible uniquement pour les partenaires qui se sont abonnés à Azure AD Premium ou à une référence O365 qui inclut Azure AD Premium (par exemple, EMS).
 
-**Pour plus d’informations**
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Communauté du groupe d’aide sur la sécurité de l’Espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Exigences de sécurité de l’Espace partenaires](partner-security-requirements.md)

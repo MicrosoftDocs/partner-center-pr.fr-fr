@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303285"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286503"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-| **Catégorie** | **Annonces d’août 2020** | **Annoncé** |
+| **Catégorie** | **Annonces de septembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Offres/marchés|[Nouvelles offres Microsoft Dynamics 365 à venir](2020-september.md#3)|1er septembre|
+|Offres/marchés|[Forfait d’appels Office 365 disponible sur de nouveaux marchés le 1er octobre 2020](2020-september.md#2)|1er septembre|
+|Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible dès maintenant](2020-september.md#1)|1er septembre|
+| **Catégorie** | **Annonces d’août 2020** | **Date** |
+|Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation de clients Éducation](2020-august.md#8)|31 août|
 |Offres/marchés|[Mises à jour de Microsoft 365 Voice Promotion](2020-august.md#7)|14 août|
 |Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
 |Fonctionnalités|[Achat en libre-service de Microsoft Project et Microsoft Visio bientôt disponible](2020-august.md#5)|12 août|

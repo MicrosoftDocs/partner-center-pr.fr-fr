@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390606"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220507"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédit Partenaires : vue d’ensemble de son fonctionnement dans la nouvelle expérience commerciale du fournisseur de solutions Cloud
 
@@ -73,11 +73,8 @@ Ces services impliquent un niveau d’accès approprié des partenaires dans l�
 >[!Note]
 >Les clients ont la possibilité de supprimer tout accès accordé aux partenaires. Les partenaires ne doivent pas contraindre les clients à leur attribuer un accès approprié dans le seul but d’obtenir de Microsoft un crédit Partenaires. Le non-respect de cette exigence peut rendre le partenaire inéligible à l’obtention d’un crédit Partenaires.
 
-**Pour plus d’informations**
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Calcul et paiement du crédit Partenaires](partner-earned-credit-explanation.md)
-
 - [Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md)
-
 - [Tarifs de la nouvelle expérience de commerce pour les fournisseurs de solutions cloud](azure-plan-price-list.md)
-
