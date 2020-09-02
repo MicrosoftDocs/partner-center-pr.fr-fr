@@ -187,6 +187,8 @@
           href: connector-dynamics.md
         - name: Connecteur de covente pour Salesforce CRM - vue d’ensemble
           href: connector-salesforce.md
+        - name: Covente pour les partenaires qui migrent à partir de Partner sales Connect (PSC)
+          href: psc-to-pc.md
         - name: Enregistrer vos transactions
           href: register-deals.md
         - name: Obtenir des insights de référence
@@ -293,7 +295,7 @@
     - name: Définir un budget Azure pour vos clients
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Gestion des défauts de paiement, des fraudes ou des mauvaises utilisations'
-      href: non-payment--fraud--or-misuse.md
+      href: non-payment-fraud-misuse.md
     - name: Gérer les paiements non alloués
       href: unallocated-payment.md
 - name: Entrer en contact avec les clients
@@ -458,6 +460,8 @@
           href: pci-roles.md
         - name: Insights - Tableau de bord des clients
           href: pci-customer-report.md
+        - name: Insights - Tableau de bord des performances du revendeur
+          href: pci-resellers-performance.md
         - name: Insights - Tableau de bord des abonnements aux produits
           href: pci-product-subscriptions-report.md
         - name: Insights - Tableau de bord des licences de produit
