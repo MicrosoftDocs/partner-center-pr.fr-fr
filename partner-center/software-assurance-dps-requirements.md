@@ -1,7 +1,7 @@
 ---
 title: Éligibilité aux missions de planification des services
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: En savoir plus sur les conditions d’éligibilité pour chaque engagement de service de planification Software assurance qu’une société souhaite offrir aux clients d’entreprise.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711821"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286494"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Afficher les conditions d’éligibilité pour les approvisionnements des services de planification
 
@@ -31,9 +31,6 @@ Cette rubrique vous aide à en savoir plus sur les conditions d’éligibilité 
 ## <a name="learn-more-about-each-engagement"></a>En savoir plus sur chaque engagement
 
 Chaque engagement de service de planification a ses propres exigences spécifiques en matière d’éligibilité et ses propres durées maximales autorisées.
-
-> [!NOTE]
-> Avant de pouvoir fournir un engagement de service de planification spécifique, vous devez répondre à différents types d’exigences de compétence. Tout d’abord, vous devez respecter les conditions minimales de compétence à inscrire dans les offres de services de planification. Ensuite, votre entreprise doit également respecter les exigences de compétence associées à la prestation d’un type spécifique d’engagement.
 
 Pour en savoir plus sur ces exigences relatives aux compétences spécifiques à un engagement, consultez le tableau suivant.
 
