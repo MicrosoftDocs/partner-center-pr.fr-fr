@@ -1,20 +1,20 @@
 ---
 title: Analyser les performances des revendeurs indirects
-ms.date: 05/13/2020
+description: Utilisez Analytics pour savoir comment fonctionnent vos revendeurs indirects, à la fois leurs succès et les zones qui peuvent nécessiter plus d’attention.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Utilisez Analytics pour savoir comment fonctionnent vos revendeurs indirects, à la fois leurs succès et les zones qui peuvent nécessiter plus d’attention.
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 05/13/2020
+ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220697"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367353"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Utiliser Analytics pour analyser les performances de vos revendeurs indirects
 

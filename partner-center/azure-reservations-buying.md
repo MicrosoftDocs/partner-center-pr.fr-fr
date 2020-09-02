@@ -1,20 +1,20 @@
 ---
 title: Acheter des réservations Microsoft Azure pour les clients
+description: Découvrez comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Découvrez comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900105"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367013"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires
 
@@ -139,7 +139,7 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
       >Si vous choisissez de limiter l’étendue de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le Portail Azure. Suivez les instructions [de cette rubrique](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande. 
 
       >[!NOTE]   
-      >Si votre client se trouve sous le plan Azure, l' **étendue** est définie sur **partagé**. 
+      >Si votre client se trouve sous le plan Azure, l' **étendue**  est définie sur **partagé**. 
 
     - Si vous êtes un partenaire fournisseur, sélectionnez le revendeur que vous souhaitez associer au produit.
     

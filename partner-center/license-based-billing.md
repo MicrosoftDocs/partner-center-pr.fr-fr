@@ -1,18 +1,18 @@
 ---
 title: Facturation basée sur la licence
+description: Découvrez comment la facturation basée sur les licences diffère de la facturation basée sur l’utilisation dans l’espace partenaires, notamment de la façon dont vous êtes facturé par licence (et non par utilisation de licence).
 ms.topic: article
-ms.date: 05/18/2020
-Description: Découvrez comment la facturation basée sur les licences diffère de la facturation basée sur l’utilisation dans l’espace partenaires, notamment de la façon dont vous êtes facturé par licence (et non par utilisation de licence).
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.date: 05/18/2020
+ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468344"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367483"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Facturation basée sur une licence dans l’espace partenaires
 
