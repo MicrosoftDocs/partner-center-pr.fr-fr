@@ -9,18 +9,57 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303055"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274987"
 ---
 # <a name="august-2020-announcements"></a>Annonces d’août 2020
 
 Cette page détaille les annonces de l’Espace partenaires Microsoft pour août 2020.
 
 Annonces 2020 : [Janvier](2020-january.md) | [Février](2020-february.md) | [Mars](2020-march.md) | [Avril](2020-april.md) | [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | Août
+
+________________
+
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur visant le processus de validation des clients Éducation
+
+### <a name="categories"></a>Catégories
+
+- Date : 31-08-2020
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires proposant des offres Éducation dans le cadre du programme Fournisseur de solutions Cloud 
+
+### <a name="summary"></a>Résumé
+
+Chez Microsoft, la confiance est notre priorité. C’est pourquoi nous nous engageons à fournir une méthode de validation des clients conforme, sûre et sécurisée pour les transactions d’offres Éducation dans le programme Fournisseur de solutions Cloud. Dans le cadre de cet engagement, nous allons introduire des améliorations de l’interface utilisateur et de l’API de l’Espace partenaires au cours du deuxième trimestre de cet exercice pour accroître la clarté et la visibilité du processus de validation des clients et permettre la saisie de données plus précises en vue d’améliorer la validation des clients. 
+
+#### <a name="partner-center-enhancements"></a>Améliorations de l’Espace partenaires
+
+- Nouvelles API de qualification GET et POST pour prendre en charge la saisie de données précises et améliorer le processus de validation des clients Éducation par Microsoft.
+- Améliorations de l’interface utilisateur pour prendre en charge la saisie de données précises et améliorer le processus de validation des clients Éducation par Microsoft.
+
+#### <a name="testing"></a>Test
+
+Les partenaires pourront tester ces améliorations à partir du 1er octobre. Nous vous encourageons à tirer parti de cette opportunité pour mieux comprendre les API et les données nécessaires à la réussite de la validation des clients. Nous vous fournirons bientôt plus de détails sur la date exacte de cette opportunité et sur la façon d’y participer. Les API existantes de l’Espace partenaires seront mises hors service avant la fin du deuxième trimestre de l’exercice 2021, date à laquelle tous les partenaires devront utiliser les nouvelles API de l’Espace partenaires.
+
+#### <a name="library-and-museum-customers"></a>Clients des bibliothèques et musées
+
+En plus des améliorations ci-dessus, nous sommes ravis d’annoncer la mise en place au cours du deuxième trimestre de l’exercice 2021 d’offres à prix Éducation pour les clients des bibliothèques et musées, élargissant ainsi le nombre de clients Éducation auxquels vous pouvez proposer des offres Fournisseur de solutions Cloud.
+
+Microsoft se réserve le droit d’examiner le status d’un client ou d’un client proposé pour déterminer s’il répond aux critères d’un utilisateur Éducation. Pour plus d’informations, consultez les [critères que doit remplir un utilisateur pour bénéficier des offres Éducation](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
+
+### <a name="next-stepsadditional-resources"></a>Étapes suivantes/ressources supplémentaires
+
+- Passez en revue la nouvelle interface utilisateur de l’Espace partenaires et les modifications apportées aux API dans les ressources de préparation opérationnelle : [Améliorations du processus de validation des clients Éducation dans l’Espace partenaires](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Veillez à ce que les [critères que doit remplir un utilisateur pour bénéficier des offres Éducation](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) soient connus dans votre organisation.
+- Partagez ces informations avec les équipes appropriées au sein de votre organisation et avec vos revendeurs pour les aider à anticiper ces changements.
+- Nous vous indiquerons en octobre les dates exactes des phases de test et la marche à suivre pour y participer.
 
 ________________
 

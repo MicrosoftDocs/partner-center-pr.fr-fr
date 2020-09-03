@@ -1,7 +1,7 @@
 ---
 title: Conditions requises pour les demandes de coopération aux primes incitatives
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Apprenez à générer la demande, à comprendre le développement du marché et à optimiser la préparation des partenaires pour les activités de votre programme d’incentives.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3246b04c74e1d5daa047a12fabcf78d4e6f11807
-ms.sourcegitcommit: ddc99fa026f3e8a3dbe10b4a6f883e7f58de00df
+ms.openlocfilehash: 070f73cbb8387510d7fe358e48c1116b16630fad
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "88039462"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220667"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Principales conditions requises pour les demandes de coopération aux incentives
 
@@ -208,7 +208,7 @@ Les tableaux suivants décrivent les conditions requises pour chaque activité a
 | Mesures     | N/D |
 |Dépenses admissibles    | N/D |
 
- Pour plus d’informations, téléchargez le [Guide de coopération aux primes incitatives des partenaires](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (connexion nécessaire)
+ Pour plus d’informations, téléchargez le [guide de coopération aux primes incitatives des partenaires](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (connexion obligatoire).
 
 ## <a name="next-steps"></a>Étapes suivantes
 

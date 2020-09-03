@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
+ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811109"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89304976"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Vérifier les informations de votre profil de partenaire dans l’Espace partenaires
 
@@ -25,7 +25,7 @@ ms.locfileid: "87811109"
 
 La première fois que vous vous connectez à l’Espace partenaires en tant qu’administrateur général, vous devez vérifier que tous les détails de votre entreprise sont corrects. Cela inclut le contact principal, le nom et l’adresse de l’entreprise légale ainsi que les informations sur les programmes. Si votre entreprise possède plusieurs emplacements, vérifiez l’exactitude de vos données de localisation. En tant qu’administrateur général, administrateur de facturation ou agent d’administration, vous pouvez également voir et mettre à jour vos informations de facturation et de fiscalité.
 
-Votre profil de partenaire est constitué des informations de votre entreprise légale, du nom et de l’adresse e-mail du contact principal, des programmes auxquels votre entreprise participe et, le cas échéant, de vos autres sociétés qui sont à présent fusionnées dans votre entreprise légale.
+Votre profil de partenaire est constitué des informations de votre entreprise légale, du nom et de l’adresse e-mail du contact principal, des programmes auxquels votre entreprise participe et, le cas échéant, de vos autres sociétés qui sont à présent fusionnées dans votre entreprise légale. Vérifiez que le nom et l’adresse de la société dans votre profil d’entreprise juridique sont exempts de fautes d’orthographe et d’abréviations, et qu’ils correspondent exactement à ceux figurant au registre officiel des entreprises. Si vous êtes propriétaire d’une entreprise individuelle, vous devez utiliser le nom de votre société comme nom légal.
 
 1. Accédez à **Paramètres** et sélectionnez **Profil du partenaire**.
 
@@ -39,7 +39,7 @@ Vous pouvez maintenant mettre à jour votre adresse légale sur l’Espace parte
 
 1. Accédez à **Paramètres** et sélectionnez **Profil du partenaire**. 
 
-2. Sélectionnez **Mettre à jour** en regard de Adresse légale. ""
+2. Sélectionnez **Mettre à jour** en regard de Adresse légale. 
 
 >[!Important]
 >Si vous êtes partenaire CSP, vous ne pouvez pas changer le pays associé à votre adresse légale. Votre adresse légale est liée à votre locataire et à vos services, ainsi qu’à la monnaie locale dans laquelle vous facturez vos activités. Si vous ne faites pas parti du programme CSP, vous pouvez changer le pays associé à votre adresse légale. Le nom de la société légale ne peut pas être mis à jour dans l’Espace partenaires si votre statut est « Autorisé ». Vous devez [créer un ticket de support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).

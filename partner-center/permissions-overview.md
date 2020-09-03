@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
-ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
+ms.openlocfilehash: 3feb4e678381b6fa5398bf3b3d89f6e4286e6ff1
+ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87839184"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "89040765"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Attribuer des rôles et des autorisations aux utilisateurs d’une entreprise qui ont besoin de travailler dans l’Espace partenaires
 
@@ -39,14 +39,19 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 |----------------------------------|:---------------------------------|
 |Administrateur général|*    Accéder à tous les comptes/services Microsoft avec des privilèges complets
 |      |*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez
 ||*    Voir les contrats, les listes de prix et les offres
 ||*    Voir, créer et gérer les utilisateurs partenaires|
 ||  • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement
 |Administrateur de la gestion des utilisateurs   | *    Voir, créer et gérer des utilisateurs
 ||*    Voir tous les profils de partenaire
 ||*    Voir, créer et gérer les utilisateurs partenaires  |
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez
 |Administrateur de la facturation | • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|
 ||*    Voir les prix
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez
 |Utilisateur par défaut|  • Afficher son profil   |
 |Agent d’administration | *    Gestion des clients
 ||*    Ajouter une liste d’appareils à l’Espace partenaires
@@ -57,7 +62,9 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||*    Voir les tarifs et les offres
 ||*    Facturation
 ||*    Administrer au nom d’un client
-||*    Inscrire un revendeur à valeur ajoutée|
+||*    Inscrire un revendeur à valeur ajoutée
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez|
 |Agent commercial | *    Gestion des clients
 ||*    Ajouter une liste d’appareils à l’Espace partenaires
 ||*    Gestion des abonnements
@@ -66,12 +73,16 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||*    Voir les tarifs et les offres
 ||*    Gérer les prospects
 ||*    Voir le contrat d’un client
-||*    Inscrire un revendeur à valeur ajoutée|
+||*    Inscrire un revendeur à valeur ajoutée
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez|
 |Agent du support technique| *    Rechercher et voir un client
 ||*    Modifier les détails du client
 ||*    Aider les clients à résoudre des problèmes de gestion de facturation ou d’abonnement
 ||*    Demander un support pour le compte de clients 
-||*    Gérer les problèmes d’abonnements et de facturation pour le compte de clients| 
+||*    Gérer les problèmes d’abonnements et de facturation pour le compte de clients
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez| 
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fournisseur de panneau de contrôle (CPV) (rôle Fournisseur de solutions Cloud et rôle non-AAD)
 Les CPV développent des applications utilisées par les partenaires fournisseurs de solutions Cloud pour leur permettre d’intégrer leurs systèmes aux API de l’Espace partenaires. 
@@ -107,10 +118,14 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 ||*    Peut fonctionner dans l’outil de validation et d’échange de bons|
 ||*    Voir l’analyse des données client
 ||*    Voir d’autres rôles d’utilisateur au sein de l’entreprise, sans pouvoir affecter de rôles
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez
 |Administrateur des comptes| • Ajouter des emplacements
 || • Gérer les profils associés aux comptes dont vous êtes administrateur 
 ||*    Affecter des rôles non-ADD aux utilisateurs dans le locataire 
 ||*    Inscrire des emplacements dans des programmes
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez
 
 
 ## <a name="manage-referrals"></a>Gérer les références 
@@ -122,7 +137,9 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 ||* Voir, créer et gérer les références de covente|
 ||*    Voir, créer et gérer les demandes de service des partenaires
 |Administrateur de profils métier   |* Voir, créer et gérer le profil métier 
-||*    Voir, créer et gérer les demandes de service des partenaires|
+||*    Voir, créer et gérer les demandes de service des partenaires
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez|
 
 ## <a name="manage-incentives"></a>Gérer les primes incitatives 
 
@@ -137,14 +154,15 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 |Utilisateur de primes incitatives|*    Voir les programmes d’incentives
 ||*    Voir et lancer des revendications d’incentives
 ||*    Voir les remises et les revenus de coopération
-||*    Accéder au support
+||*    Créer des tickets de support pour l’Espace partenaires
+||*    Voir les tickets de support partenaire que vous créez
 
 ## <a name="view-partner-center-insights-data"></a>Consulter les données des insights de l’Espace partenaires
 
 |**Rôle** | **Ce qu’il peut faire**|
 |------------------------------|:-------------------------|
-|Visionneuse de rapports de la direction|Accéder à tous les jeux de données de rapport|
-|Visionneuse de rapports|Accéder aux rapports de données, à l’exception des revenus et des données personnelles des clients et des employés|
+|Visionneuse de rapports de la direction|Accéder à tous les jeux de données de rapport, créer des tickets de support, voir les tickets de support partenaire que vous créez|
+|Visionneuse de rapports|Accéder aux rapports de données, à l’exception des revenus et des données personnelles des clients et des employés, créer des tickets de support partenaire, voir les tickets de support partenaire que vous créez|
 
 
 
