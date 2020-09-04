@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1d850663224469f24d5d4442e33cc17c1bb6704
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58acef4599333929446a283ecde1cca9f3ef9ce8
+ms.sourcegitcommit: 983457c8e8fcfbfe48b80b1c86fe894c1e106eb3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220237"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89443585"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Résoudre les problèmes de configuration de compte ou de renouvellement MPN
 
@@ -31,13 +31,15 @@ Voici quelques suggestions pour résoudre les problèmes courants qui surviennen
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Que se passe-t-il si vous effectuez une migration à partir du centre d’appartenance au partenaire et que vous ne pouvez pas modifier les champs d’informations
 
-Cela se produit dans les cas où votre société a déjà une présence dans l’espace partenaires (par exemple, le compte CSP). vous verrez alors un écran en lecture seule qui affiche toutes les informations relatives à votre société telles qu’elles existent dans l’espace partenaires.
+Dans les cas où votre société a déjà une présence dans l’espace partenaires (par exemple, le compte CSP), vous verrez apparaître un écran en lecture seule qui affiche toutes les informations relatives à votre société telles qu’elles existent dans l’espace partenaires.
 
 Vous ne pouvez pas modifier les détails de cet écran. Cela est dû à la conception et non à une erreur.
 
 Sélectionnez **accepter** et **Continuer** pour continuer.
 
-## <a name="you-are-trying-to-enroll-or-to-migrate-from-partner-membership-center-and-you-receive-an-error-message-saying-that-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Vous essayez d’inscrire ou de migrer à partir du centre d’appartenance au partenaire. vous recevez un message d’erreur indiquant que le service informatique a désactivé l' **inscription à l’espace partenaires**.
+
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si le service informatique a désactivé l' **inscription à l’espace partenaires**.
+
 
 Ce message s’affiche parce que les utilisateurs viraux sont désactivés ou que l’inscription virale est désactivée sur le locataire Azure AD. L’administrateur général de votre compte Azure AD peut activer les fonctionnalités requises en exécutant la commande PowerShell suivante :
 
@@ -51,11 +53,13 @@ Si vous avez oublié votre mot de passe, sélectionnez le lien vous **ne pouvez 
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Sur l’écran « faites-nous part de votre société », vous recevez une erreur « un problème est survenu »
 
-Cela se produit généralement si vous utilisez par inadvertance des caractères spéciaux, des espaces ou du code de pays dans le numéro de téléphone de votre entreprise. La valeur entrée dans le champ numéro de téléphone ne peut contenir que 10 caractères au maximum.
+Ce message d’erreur s’affiche généralement si vous utilisez par inadvertance des caractères spéciaux, des espaces ou un code de pays dans le numéro de téléphone de votre entreprise. La valeur entrée dans le champ numéro de téléphone ne peut contenir que 10 caractères au maximum.
 
-## <a name="you-are-trying-to-complete-the-purchase-via-credit-card-but-you-are-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Vous essayez de terminer l’achat par carte de crédit, mais vous recevez un message d’erreur indiquant que la commande a été refusée. Veuillez vérifier vos informations»
 
-Vous devez toujours insérer l’adresse correspondant à votre carte de crédit et ne correspond pas à votre entité légale. En outre, assurez-vous que le code postal est correct et qu’il correspond à l’adresse que vous utilisez.
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Votre achat par carte de crédit reçoit un message d’erreur indiquant que la commande a été refusée. Veuillez vérifier vos informations»
+
+
+Utilisez toujours l’adresse correspondant à votre carte de crédit plutôt qu’à votre entité légale. En outre, assurez-vous que le code postal est correct et qu’il correspond à l’adresse que vous utilisez.
 
 ## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Vous souhaitez passer du paiement hors connexion au mode de paiement en ligne 
 
@@ -68,3 +72,8 @@ Pour annuler une commande :
 2. Sélectionner **annuler la commande**
 
 3. Une fenêtre de confirmation s’affiche et vous devez confirmer pour annuler la commande initiale.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
+- [Comment lire votre facture et votre fichier de rapprochement](read-your-bill.md)
