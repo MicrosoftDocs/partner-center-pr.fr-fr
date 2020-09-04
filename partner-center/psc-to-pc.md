@@ -9,21 +9,18 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 207a6013f11ab795bf46e184a4e98379e3ef3301
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281337"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471466"
 ---
 # <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
 **S’applique à**
 
-- Références
-- Co-vendre avec Microsoft
-- Configuration du compte d’utilisateur PSC
-- Utilisateurs Partner Sales Connect (PSC) 
+- Espace partenaires
 
 **Rôles appropriés**
 
@@ -33,7 +30,7 @@ ms.locfileid: "89281337"
 - Administrateur Partner Sales Connect (PSC)
 - Responsable des ventes Partner Sales Connect (PSC)
 
-Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 décembre 2020. Vous trouverez tout ce que vous souhaitez faire pour créer des ventes de covente, gérer vos demandes et agir sur les transactions envoyées par les vendeurs Microsoft à vous dans l’espace partenaires. Toutefois, il y aura des différences, et les conseils suivants vous aideront à rendre votre transition vers l’espace partenaires plus lisse et directe.
+Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 décembre 2020. Toutefois, vous trouverez tout ce que vous souhaitez faire pour créer des ventes de covente, gérer vos demandes et agir sur les transactions envoyées par les vendeurs Microsoft à vous dans l’espace partenaires. Toutefois, il y aura des différences, et les conseils suivants vous aideront à rendre votre transition vers l’espace partenaires plus lisse et directe.
 
 >[!Important]
 > Si vous êtes ici, car vous avez vu une bannière dans PSC sur la migration, vous êtes au bon endroit. Ce guide n’est pas applicable à l’évaluation de la solution (SA) et aux partenaires de l’IOT OEM qui gèrent leurs affaires dans PSC.
@@ -43,14 +40,14 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 ### <a name="if-you-are-psc-admin"></a>Si vous êtes administrateur PSC
 
 - Vous avez besoin d’un e-mail professionnel pour vous connecter à l' [espace partenaires](https://partner.microsoft.com/).
-- Configurez votre compte avec l’aide de l' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)de l’espace partenaires.
+- Configurez votre compte avec l’aide de l' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview)de l’espace partenaires.
 - Découvrez comment vendre en collaboration dans l’espace partenaires en lisant ce document.
-- Configurez des comptes d’utilisateur dans l’espace partenaires pour tous les utilisateurs de votre PSC (rôles Admin, Deal Manager et seller) et attribuez-leur le rôle d' [administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
+- Configurez des comptes d’utilisateur dans l’espace partenaires pour tous les utilisateurs de votre PSC (rôles Admin, Deal Manager et seller) et attribuez-leur des [rôles d’administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview).
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Si vous êtes responsable des transactions de PSC ou du vendeur
 
 - Vous avez besoin d’un e-mail professionnel pour vous connecter à l' [espace partenaires](https://partner.microsoft.com/).
-- Si vous utilisez un compte non professionnel dans PSC ou si votre adresse de messagerie professionnelle est destinée à une société différente de celle de l’organisation partenaire, contactez votre administrateur PSC pour obtenir de l’aide sur l’installation du compte.
+- Si vous utilisez un compte non professionnel dans PSC ou si votre adresse de messagerie professionnelle est destinée à une société différente de celle de l’entreprise partenaire, contactez votre administrateur PSC pour obtenir de l’aide sur l’installation du compte.
 - Vérifiez auprès de votre administrateur PSC si la configuration de votre compte espace partenaires est terminée, quel que soit le compte que vous utilisez pour vous connecter à PSC.
 - Vérifiez si vous avez accès à l’espace partenaires et à la section Références.
 - Lisez ce document pour comprendre les flux de travail et les modifications apportées à l’espace partenaires.
@@ -59,7 +56,7 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 
 Si vous ne voyez pas l’onglet Références :
 
-- L’administrateur de [compte](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) de votre entreprise peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur de compte, accédez à paramètres de partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Sélectionnez la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « Admins du compte ». La page affiche ensuite tous les administrateurs de comptes avec leurs ID d’adresse de messagerie respectifs. Contactez-le pour obtenir un accès « administrateur de référence » pour votre compte professionnel.
+- L' [administrateur général](https://docs.microsoft.com/partner-center/permissions-overview) de votre entreprise peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur général, accédez à paramètres du partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Sélectionnez la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « administrateurs généraux ». La page affiche ensuite tous les administrateurs globaux avec leurs ID d’adresse de messagerie respectifs. Contactez-le pour obtenir un accès « administrateur de référence » pour votre compte professionnel.
 
 >[!Important]
 > Si votre rôle gère uniquement les utilisateurs dans le PSC, vous pouvez vous procurer le rôle d' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) dans l’espace partenaires. Si votre rôle comprend également la gestion des opportunités de covente, vous devez disposer d’un rôle d' [administrateur de références](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) . En outre, désignez un seul Prospect de gestion des modifications parmi les administrateurs du PSC pour travailler avec l’administrateur de compte de l’espace partenaires au lieu de tous les administrateurs PSC qui accèdent aux administrateurs de compte sur le PC individuellement.
@@ -111,7 +108,7 @@ Il s’agit d’une étape importante, qui vous aidera à préparer la covente d
 
 ## <a name="psc-and-partner-center-field-mapping"></a>Mise en correspondance des champs PSC et espace partenaires
 
-Cette section vous aidera à comprendre le mappage exact des attributs entre PSC et l’espace partenaires. Chaque écran du PSC est comparé à la vue appropriée dans la section opportunités de co-vente de l’espace partenaires. 
+Cette section présente le mappage exact des attributs entre PSC et l’espace partenaires. Chaque écran du PSC est comparé à la vue appropriée dans la section opportunités de co-vente de l’espace partenaires. 
 
 >[!Note]
 >Suivez les chiffres sur les bulles jaunes dans les captures d’écran du PSC pour trouver l’attribut équivalent dans l’espace partenaires. Les bulles rouges indiquent que le champ n’est pas disponible dans l’espace partenaires.
@@ -224,7 +221,7 @@ L’ID d’opportunité dans PSC est le même que l’ID de contrat dans PC. Vou
 
 L’espace partenaires n’est pas accessible directement à votre prestations contrairement à PSC. Il existe plusieurs options pour activer cette fonctionnalité, comme indiqué ci-dessous.
 
-- Informations sur l’OCP-si les prestations affichent simplement les contrats & progression qui leur sont associés, ils peuvent utiliser le portail OCP Insights pour obtenir une vue d’ensemble de votre organisation. Il s’agit d’un outil interne qui est uniquement disponible pour prestations et vos utilisateurs. Notez que les Insights OCP ne sont pas disponibles pour les utilisateurs de votre entreprise.
+- Informations sur l’OCP-si les prestations affichent simplement les contrats & progression qui leur sont associés, ils peuvent utiliser le portail OCP Insights pour obtenir une vue d’ensemble de votre organisation. Il s’agit d’un outil interne qui est uniquement disponible pour prestations. Notez que les Insights OCP ne sont pas disponibles pour les utilisateurs de votre entreprise.
 - Utilisateur invité dans l’espace partenaires : vous pouvez ajouter votre @microsoft.com compte PDM en tant qu’utilisateur invité dans l’espace partenaires et lui affecter un rôle d’administrateur de référence afin qu’il puisse afficher et agir sur les références.
 - Création d’un [utilisateur](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) dans votre client : vous pouvez créer un nouvel utilisateur dans votre propre locataire et partager ces informations avec le PDM afin qu’il puisse afficher et agir sur des références similaires à d’autres utilisateurs de référence dans votre compte.
 

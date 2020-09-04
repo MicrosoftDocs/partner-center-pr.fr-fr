@@ -9,28 +9,25 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5b30ebc733fd935a813617477de186129076e74b
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434358"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471442"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gérez les opportunités de covente dans l’espace partenaires pour définir des contrats et mieux répondre aux besoins des clients
 
 **S’applique à**
 
 - Espace partenaires
-- Références
-- Co-vendre avec Microsoft
-- Partage des affaires
 
 **Rôles appropriés**
 
 - Administrateur partenaire MPN
 - Administrateur des références
 
-Vous pouvez tirer parti des opportunités de covente.  Les opportunités de covente sont celles pour lesquelles plusieurs parties ont fait des ventes collaboratives pour répondre aux besoins des clients. Cette section vous aidera à comprendre comment vous pouvez tirer parti de la puissance de la co-vente dans l’espace partenaires pour faire covente et acquérir de nouveaux clients.
+Tirez parti des opportunités de covente.  Les opportunités de co-vente sont une collaboration entre plusieurs parties pour vendre des produits répondant aux besoins des clients. Cet article vous aidera à comprendre comment vous pouvez utiliser la puissance de la co-vente dans l’espace partenaires pour vendre et acquérir de nouveaux clients de manière efficace.
 
 ## <a name="types-of-co-sell-opportunities"></a>Types d’opportunités de covente
 
@@ -47,9 +44,9 @@ La section covente comporte trois onglets de niveau supérieur.
 
 **Entrant** : toutes les opportunités envoyées au partenaire à partir de vendeurs Microsoft pour la vente collaborative sont disponibles dans cet onglet.
 
-**Sortant** : toutes les opportunités créées par le partenaire sont disponibles dans cet onglet. les partenaires peuvent créer deux catégories différentes d’opportunités : la co-vente et le pipeline privé. 
+**Sortant** : toutes les opportunités créées par le partenaire sont disponibles dans cet onglet. Les partenaires peuvent créer deux catégories différentes d’opportunités : la co-vente et le pipeline privé. 
 
-**Favoris** : les opportunités marquées comme favoris dans les onglets opportunités de covente entrante ou sortante s’affichent dans cet onglet. Marquez toutes les opportunités comme favoris en cliquant sur l’icône représentant un cœur sur l’opportunité en mode liste. Vous pouvez supprimer l’opportunité des favoris en cliquant simplement sur la même icône.
+**Favoris** : les opportunités marquées comme favoris dans les onglets opportunités de covente en entrée ou en sortie s’affichent dans cet onglet. Marquez n’importe quelle opportunité en tant que favori en cliquant sur l’icône représentant un cœur sur l’opportunité en mode liste. Vous pouvez supprimer l’opportunité des favoris en cliquant simplement sur la même icône.
 
 
 ## <a name="creating-a-co-sell-opportunity"></a>Création d’une opportunité de covente 
@@ -80,7 +77,7 @@ Entrez les détails de la transaction actuelle. Les champs définis ci-dessous p
 |**Date de clôture estimée**| Obligatoire| Date à laquelle vous prévoyez de fermer le contrat avec le client. |
 |**ID CRM**| Facultatif | Baliser la relation avec l’ID de l’opportunité dans votre CRM à des fins de suivi.|
 |**ID de campagne marketing**| Facultatif | Capturez la campagne marketing qui a entraîné le traitement. Ce code peut vous aider à suivre le retour sur investissement d’une certaine campagne si vous marquez toutes les transactions provenant de la campagne avec le même ID.|
-|**Notes**| Facultatif | Mettez à jour toutes les informations les plus récentes pour fournir une visibilité aux autres employés de votre entreprise qui travaillent sur le même contrat ou qui tente de comprendre l’état actuel de la transaction. Vous pouvez également l’utiliser comme communication sur un enregistrement pour les discussions entre les vendeurs Microsoft/autres partenaires de votre entreprise.|
+|**Remarques**| Facultatif | Mettez à jour toutes les informations les plus récentes pour fournir une visibilité aux autres employés de votre entreprise qui travaillent sur le même contrat ou qui tente de comprendre l’état actuel de la transaction. Vous pouvez également l’utiliser comme communication sur un enregistrement pour les discussions entre les vendeurs Microsoft/autres partenaires de votre entreprise.|
 
 ### <a name="add-your-employees"></a>Ajoutez vos employés
 
@@ -130,7 +127,25 @@ Lorsque vous avez terminé, vous pouvez effectuer l’une des deux actions suiva
 
 ### <a name="archived-stage"></a>Étape archivée
 
-Il s’agit d’une étape de terminal dans laquelle toutes les opportunités arrivent enfin. Vous pouvez afficher tous les clients qui se trouvent dans **Won, perdus, refusés**et **arrivés à expiration** dans cette étape. Il n’y a aucune action que vous pouvez effectuer dans cette étape.
+Il s’agit de la dernière étape pour toutes les opportunités. Vous pouvez afficher tous les clients qui se trouvent dans les archives **concluants, perdus, refusés**et **arrivés à expiration** dans l’archive. Il n’y a aucune action que vous pouvez effectuer dans cette étape.
+
+## <a name="frequently-asked-questions"></a>Forum aux questions
+
+**1er. Une transaction peut-elle être modifiée après avoir été marquée comme conclue ou perdue ?**
+
+Non, les contrats ne peuvent pas être modifiés une fois qu’ils passent dans un état terminal. Expiré, refus, gagné et perdu sont des États terminaux où aucune autre mise à jour n’est possible pour la transaction. Soyez prudent lorsque vous déplacez le contrat dans l’un de ces États de terminal.
+
+**Q2. J’ai reçu une nouvelle notification de référence, mais elle ne peut pas la trouver dans l’espace partenaires ?**
+
+Cela peut se produire si votre entreprise possède plusieurs locataires associés au même compte MPN. Accédez aux paramètres du compte espace partenaires et vérifiez les locataires associés au compte. Ensuite, créez un ticket de support demandant la liaison des locataires. Indiquez l’ID de locataire dans lequel vous vous êtes connecté dans le ticket de support.
+
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Image représentant les paramètres de compte où se trouvent les informations du locataire.":::
+
+**Q3. Qui reçoit une notification par e-mail de l’espace partenaires ?**
+
+Le flux de travail ci-dessous explique comment les courriers électroniques sont envoyés aux partenaires à partir du système de références de l’espace partenaires pour les nouvelles références entrantes de partenaires.
+
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Image illustrant la logique d’envoi des e-mails aux partenaires pour les nouvelles références entrantes.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Obtenir davantage d’opportunités de co-vente
 
