@@ -8,12 +8,12 @@ description: Synchroniser vos références dans l’espace partenaires à l’ai
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527575"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490667"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -28,7 +28,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
-|**Rubriques**   |**Détails**   |**Liens**   |
+|**Explique**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
 |Covente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -109,7 +109,7 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 1. Pour inscrire votre URL, sélectionnez **inscription du webhook de l’espace partenaires (version préliminaire)** alimentation automatiser le Flow.
 
-2. Ajouter des connexions pour (a.) Utilisateur de l’espace partenaires avec des références d’administrateur d’administration (b.) Événements de l’espace partenaires mis en surbrillance ci-dessous
+2. Ajoutez des connexions pour (a.) utilisateur de l’espace partenaires avec les références d’administrateur (b.) des événements de l’espace partenaires comme indiqué ci-dessous
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Déclencheur":::
 
@@ -171,7 +171,7 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
 
 3. Pour personnaliser les champs pour la synchronisation des références de CRM à PC pour les événements de mise à jour :
 
-    a. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
+    a. Sélectionnez **modifier**  pour modifier/personnaliser le Flow automatiser l’alimentation.
 
     b. Sélectionnez **(étendue) synchroniser l’opportunité**.
 
@@ -183,7 +183,7 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
 
 4. Pour personnaliser les champs de la synchronisation de référence de CRM à PC pour les événements de création ?
 
-   a. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
+   a. Sélectionnez **modifier**  pour modifier/personnaliser le Flow automatiser l’alimentation.
 
    b. Sélectionnez **(étendue) synchronisation des références.**
 
@@ -223,7 +223,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
    2. Assurez-vous que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Opportunité":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Exemple de section d’opportunité présentant les informations de l’espace partenaires Microsoft dans Dynamics 365.":::
 
    3. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
 
@@ -231,7 +231,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
       - **Comment Microsoft peut-il vous aider ?**:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Sélections d’aide":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Exemple de section d’opportunité dans Dynamics 365 qui affiche les options d’aide de l’espace partenaires Microsoft en regard d’un champ appelé comment peut-il aider Microsoft ?":::
 
       - **Produits**: ID de solution du produit
 

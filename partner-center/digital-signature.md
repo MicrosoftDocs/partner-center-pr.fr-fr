@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2509068cc035dda1dc8494a7989bd375a45c6f26
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545660"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490647"
 ---
 # <a name="view-digitally-signed-invoices"></a>Afficher les factures signées numériquement
 
@@ -34,19 +34,19 @@ Les partenaires en Inde voient maintenant que Microsoft a signé numériquement 
 
 2. En haut de la facture, vous devriez voir **signature et toutes les signatures sont valides**.
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="signature valide":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Exemple de facture avec une bannière de notification de signature valide indiquant une signature de coche verte et une phrase indiquant, signé et toutes les signatures sont valides.":::
 
 3. Cliquez sur la signature. Le certificat indiquant la validité s’affiche.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="certificat"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Boîte de dialogue facture signée avec le champ signataire autorisé et état de validation de la signature avec détails, option Propriétés de signature, option Annuler."::: 
 
 4. Sélectionnez **Propriétés de signature** pour afficher plus de détails sur la validité de la signature.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Propriétés de signature"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Affichage détails des propriétés de signature affiche des informations sur qui, où, le moment où le document a été signé, le processus de validation et le certificat du signataire."::: 
 
 4. Vous pouvez également vous assurer que les chemins d’accès de certification sont corrects et que le certificat est approuvé.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="certificat":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="La boîte de dialogue visionneuse de certificats affiche plusieurs onglets avec plus de détails sur un certificat et sa chaîne d’émission entière.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Informations supplémentaires sur les factures et les signatures numériques
 

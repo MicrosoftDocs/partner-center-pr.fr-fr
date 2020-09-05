@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: 4daaaa9cdaa0392b90a67d7fc0a8957d3393d6e3
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942561"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490617"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Obtenez une spécialisation avancée pour présenter l’expertise et détacher les clients 
 
-Différenciez les clients en obtenant une spécialisation avancée. Les spécialisations avancées sont une validation de votre capacité à fournir des services haute fidélité dans un domaine de solution spécifique. Les clients verront votre spécialisation avancée s’afficher sur votre profil d’entreprise dans l’annuaire des partenaires. [Plus d’informations](https://partner.microsoft.com/membership/advanced-specialization)
+Différenciez les clients en obtenant une spécialisation avancée. Les spécialisations avancées sont une validation de votre capacité à fournir des services haute fidélité dans un domaine de solution spécifique. Les clients verront votre spécialisation avancée s’afficher sur votre profil d’entreprise dans l’annuaire des partenaires. [En savoir plus](https://partner.microsoft.com/membership/advanced-specialization).
 
 ## <a name="use-partner-center-to-move-through-the-application-process"></a>Utiliser l’espace partenaires pour vous déplacer dans le processus d’application
 
@@ -28,7 +28,7 @@ Pour bénéficier d’une spécialisation avancée, votre entreprise doit avoir 
 
 Si vous êtes intéressé par la spécialisation avancée appelée **modernisation des applications Web pour Microsoft Azure**, sélectionnez-la dans le menu de l’espace partenaires. Vous accédez à la page des conditions préalables.
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Conditions préalables":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Exemple de page conditions préalables qui indique la configuration requise pour obtenir une compétence active Cloud Platform.":::
 
 
 Tant que vous n’avez pas rempli toutes les conditions préalables, votre statut reste **non démarré.** Une fois que vous avez rempli les conditions préalables, le bouton **planifier l’audit** est activé. Vous devez effectuer un audit avec un auditeur tiers pour les spécialisations avancées Azure suivantes :
@@ -47,7 +47,7 @@ Une fois que vous avez rempli toutes les conditions requises, votre statut est *
 
 **Les réunions et les salles de réunion des équipes Microsoft**sont un exemple de spécialisation avancée nécessitant des références client. Outre la compétence Gold, les certifications et les exigences en matière de performances, vous devez fournir trois références client qui illustrent votre capacité à déployer et à gérer.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Conditions préalables":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Exemple de page conditions préalables pour les spécialisations avancées nécessitant des références client.":::
 
 Tant que vous n’avez pas rempli toutes les conditions préalables, votre statut reste **non démarré.** Une fois que vous avez rempli toutes les conditions requises, votre statut est **actif**. L’état actif active automatiquement une balise sur votre **profil d’entreprise** qui est visible par tous les clients qui recherchent [un fournisseur de solutions](https://www.microsoft.com/solution-providers/home).
 
