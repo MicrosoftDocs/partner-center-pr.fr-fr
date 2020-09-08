@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
-ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
+ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
+ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "88188432"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "89551640"
 ---
 # <a name="benefits-faq"></a>Questions fréquentes (FAQ) sur les avantages
 
@@ -94,6 +94,8 @@ Vous pouvez affecter des abonnements à n’importe qui dans votre liste de gest
 4. Affectez les utilisateurs souhaités à vos abonnements Visual Studio existants.
 
 Une fois que vous avez attribué l’abonnement, l’utilisateur doit se connecter à Visual Studio pour le gérer.
+
+Remarque : l’utilisateur affecté à un abonnement Visual Studio sur l’espace partenaires ne peut pas être supprimé avant 90 jours de l’attribution d’origine
 
 ## <a name="technical-benefits-and-support"></a>Avantages techniques et support
 
