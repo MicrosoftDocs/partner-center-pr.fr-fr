@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427096"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564759"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,7 +22,8 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de septembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
-|Offres/marchés|[Amélioration du support d’incentives et du processus de création de tickets](2020-september.md#4)|2 septembre|
+|Offres/marchés|[Les nouvelles références SKU apportent aux clients la puissance de Project Cortex et plus](2020-september.md#5)|8 septembre|
+|Fonctionnalités|[Amélioration du support d’incentives et du processus de création de tickets](2020-september.md#4)|2 septembre|
 |Offres/marchés|[Nouvelles offres Microsoft Dynamics 365 à venir](2020-september.md#3)|1er septembre|
 |Offres/marchés|[Forfait d’appels Office 365 disponible sur de nouveaux marchés le 1er octobre 2020](2020-september.md#2)|1er septembre|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible dès maintenant](2020-september.md#1)|1er septembre|

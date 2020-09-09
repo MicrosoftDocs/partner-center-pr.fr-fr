@@ -163,6 +163,8 @@
       href: reset-my-pasword.md
     - name: Si vous ne pouvez pas vous connecter à l’Espace partenaires
       href: unable-to-sign-in.md
+    - name: "Que faire si l’administrateur de votre programme MPN a quitté l’entreprise\_?"
+      href: no-mpn-admin.md
 - name: Gérer votre compte Espace partenaires - entreprise
   items:
     - name: "Ajouter Azure\_Partner\_Shared\_Services"
