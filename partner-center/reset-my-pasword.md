@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8618e6b75e6d45ebe37510b398c2f03c9e1e9c8
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811279"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564769"
 ---
 # <a name="reset-my-password"></a>Réinitialiser mon mot de passe
 
@@ -44,7 +44,7 @@ Votre administrateur général doit avoir configuré la possibilité de réiniti
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Si votre administrateur général a quitté la société
 
-Si votre administrateur général a quitté votre entreprise ou a été déplacé vers un autre rôle et que vous devez ajouter un nouvel administrateur général, vous devez enregistrer une demande de service sur le [portail Microsoft Partner Network](https://partner.microsoft.com/commercial#/). L’agent de support peut demander l’élévation d’un utilisateur à l’administrateur général si votre demandeur est en mesure de fournir les informations d’identité personnelle nécessaires et de fournir des informations supplémentaires sur votre entreprise.
+Si votre administrateur général a quitté votre entreprise ou a été déplacé vers un autre rôle et que vous devez ajouter un nouvel administrateur général, vous devez enregistrer une demande de service sur le [portail Microsoft Partner Network](https://partner.microsoft.com/commercial#/). L’agent de support peut demander l’élévation d’un utilisateur à l’administrateur général si votre demandeur est en mesure de fournir les informations d’identité personnelle nécessaires et de fournir des informations supplémentaires sur votre entreprise. 
 
 ## <a name="next-steps"></a>Étapes suivantes
 
