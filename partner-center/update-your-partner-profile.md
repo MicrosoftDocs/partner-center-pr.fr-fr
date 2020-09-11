@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304976"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490637"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Vérifier les informations de votre profil de partenaire dans l’Espace partenaires
 
@@ -55,6 +55,17 @@ Si, lors de la migration du Partner Membership Center vers l’Espace partenaire
 2. Accédez ensuite au **profil de partenaire** et sélectionnez **Mettre à jour le profil de l’entreprise légale**.
 
 3. Sélectionnez l’emplacement et l’entreprise que vous souhaitez utiliser comme entreprise légale, puis sélectionnez **Enregistrer**.
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Mettre à jour votre ID MPN associé à votre compte CSP
+
+Pour mettre à jour votre ID MPN associé à votre compte CSP :
+
+1. Connectez-vous au tableau de bord de votre Espace partenaires.
+1. Sélectionnez **Profil du partenaire** dans **Paramètres du compte**.
+1. En regard de **MPNID associé**, sélectionnez **Mettre à jour**.
+1. Sélectionnez **Continuer**.
+1. Ajoutez votre ID MPN.
+
 
 ## <a name="update-your-billing-address"></a>Mettre à jour votre adresse de facturation
 

@@ -1,7 +1,7 @@
 ---
 title: Gérer les avantages de Microsoft Partner Network
 ms.topic: article
-ms.date: 08/27/2020
+ms.date: 09/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Rejoignez Microsoft Partner Network (MPN) et utilisez l’Espace partenaires pour gérer les avantages et les offres d’adhésion qui peuvent vous aider à développer votre activité.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220747"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427086"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gérer les avantages et les offres de votre adhésion à Microsoft Partner Network dans l’Espace partenaires
 
@@ -106,12 +106,23 @@ Pour voir vos avantages techniques dans l’Espace partenaires, effectuez les é
 
    - **Prenez connaissance des ID d’accès et de contrat du support produit, puis partagez-les.** Une fois votre demande d’activation traitée, des détails sur l’**ID d’accès** et l’**ID de contrat** sont visibles quand vous développez cet avantage technique. Vous ou les utilisateurs de votre entreprise devrez peut-être partager ces informations la première fois que vous enverrez une demande de support pour certains types de produits ou de services.
 
-4. Une fois vos avantages techniques activés, vous pouvez les utiliser pour différents types de support technique. Pour envoyer des demandes de support technique pour ces types de services, lisez les instructions détaillées figurant dans la page Avantages techniques :
+4. Une fois vos avantages techniques activés, vous pouvez les utiliser pour différents types de support technique. Pour soumettre des demandes de support technique pour les services suivants, lisez les instructions détaillées figurant dans la page Avantages techniques. Consultez également les détails ci-dessous.
 
-   - Demande de support pour les produits cloud au nom de votre client
-   - Demande de support pour les produits locaux
-   - Demande de services de déploiement et de préventes techniques ou d’[heures de conseil](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
+   La page Avantages techniques de l’Espace partenaires décrit ces types de support technique :
 
+   **Support technique (couvert par la garantie de réparation et d’assistance).** Utilisez ce type de support technique quand une fonctionnalité n’est plus opérationnelle ou quand quelque chose ne fonctionne pas comme prévu (par exemple quand vous recevez un message d’erreur). Voici quelques conseils :
+
+   - Pour les partenaires de niveau de compétence Gold/Silver uniquement (non disponible pour les abonnés Action Pack), utilisez **Support produit Signature** pour les **produits cloud**.
+
+   - Pour les partenaires de niveau de compétence Gold/Silver, utilisez les incidents du **Support produit Microsoft** pour les **produits locaux récents** (versions actuelles et antérieures uniquement).
+
+     >[!NOTE]
+     > L’ID d’accès et l’ID de contrat sont obligatoires pour les demandes de support technique pour les produits locaux, Azure (non-CSP) et Dynamics. À l’avenir, pour trouver votre ID d’accès et votre ID de contrat, vous pouvez également lire [Trouver vos avantages](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits).
+  
+   **Services techniques d’avant-vente et de déploiement.**  Utilisez ce type de support pour une consultation ou des conseils concernant les ventes ou le déploiement techniques. Ces services peuvent être demandés directement à partir de l’[Espace partenaires](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest).
+
+   - Pour les partenaires de niveau de compétence Action Pack et Gold/Silver, utilisez **Services techniques d’avant-vente et de déploiement** pour les solutions cloud et hybrides.
+  
 ## <a name="manage-go-to-market-offers"></a>Gérer les offres de commercialisation
 
 **Rôles appropriés pour effectuer cette tâche :**

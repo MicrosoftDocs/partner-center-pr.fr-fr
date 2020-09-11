@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3feb4e678381b6fa5398bf3b3d89f6e4286e6ff1
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040765"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490597"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Attribuer des rôles et des autorisations aux utilisateurs d’une entreprise qui ont besoin de travailler dans l’Espace partenaires
 
@@ -35,25 +35,24 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gérer les transactions commerciales dans l’Espace partenaires (rôles Azure AD et Fournisseur de solutions Microsoft Cloud)
 
-|**Rôle**|**Ce qu’il peut faire**|
-|----------------------------------|:---------------------------------|
-|Administrateur général|*    Accéder à tous les comptes/services Microsoft avec des privilèges complets
+|**Rôle**|**Ce qu’il peut faire**|**En savoir plus**|
+|----------------------------------|---|:---------------------------------|
+|Administrateur général|*    Accéder à tous les comptes/services Microsoft avec des privilèges complets|[Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
 |      |*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez
 ||*    Voir les contrats, les listes de prix et les offres
 ||*    Voir, créer et gérer les utilisateurs partenaires|
 ||  • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement
-|Administrateur de la gestion des utilisateurs   | *    Voir, créer et gérer des utilisateurs
+|Administrateur de la gestion des utilisateurs   | *    Voir, créer et gérer des utilisateurs|[Gérer les avantages et les offres de votre adhésion à Microsoft Partner Network dans l’Espace partenaires](manage-your-partner-network-benefits.md)
 ||*    Voir tous les profils de partenaire
-||*    Voir, créer et gérer les utilisateurs partenaires  |
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez
-|Administrateur de la facturation | • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|
+|Administrateur de la facturation | • Afficher, créer et gérer la facturation, les factures et les fichiers de rapprochement|[Lire votre facture](billing.md)
 ||*    Voir les prix
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez
-|Utilisateur par défaut|  • Afficher son profil   |
-|Agent d’administration | *    Gestion des clients
+|Utilisateur par défaut|  • Afficher son profil   |[Réinitialiser votre mot de passe](reset-my-pasword.md)
+|Agent d’administration | *    Gestion des clients|[Configuration et gestion des comptes clients pour les partenaires revendeurs dans l’Espace partenaires](customer-accounts.md)
 ||*    Ajouter une liste d’appareils à l’Espace partenaires
 ||*    Créer des profils et les appliquer aux appareils
 ||*    Gestion des abonnements
@@ -65,7 +64,7 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||*    Inscrire un revendeur à valeur ajoutée
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez|
-|Agent commercial | *    Gestion des clients
+|Agent commercial | *    Gestion des clients|[Fournir du support sur la facturation à vos clients et aider à répondre à leurs questions sur la facturation](provide-billing-support.md)
 ||*    Ajouter une liste d’appareils à l’Espace partenaires
 ||*    Gestion des abonnements
 ||*    Voir les tickets de support
@@ -76,7 +75,7 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||*    Inscrire un revendeur à valeur ajoutée
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez|
-|Agent du support technique| *    Rechercher et voir un client
+|Agent du support technique| *    Rechercher et voir un client|[Faire remonter les problèmes à Microsoft et découvrir les problèmes les plus adaptés à cette procédure](escalate-problems-to-microsoft.md)
 ||*    Modifier les détails du client
 ||*    Aider les clients à résoudre des problèmes de gestion de facturation ou d’abonnement
 ||*    Demander un support pour le compte de clients 
@@ -87,9 +86,9 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fournisseur de panneau de contrôle (CPV) (rôle Fournisseur de solutions Cloud et rôle non-AAD)
 Les CPV développent des applications utilisées par les partenaires fournisseurs de solutions Cloud pour leur permettre d’intégrer leurs systèmes aux API de l’Espace partenaires. 
 
-|**Rôle**   |**Ce qu’il peut faire**|
-|------------------------------|:----------------------------|
-|Administrateur général| Voir et gérer votre profil de CPV|
+|**Rôle**   |**Ce qu’il peut faire**|**En savoir plus**|
+|------------------------------|:----------------------------|----|
+|Administrateur général| Voir et gérer votre profil de CPV|[S’inscrire en tant que fournisseur de panneau de configuration pour faciliter l’intégration des systèmes de partenaires CSP aux API de l’Espace partenaires](enroll-as-cpv.md)
 ||Voir et gérer vos utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV|
 
 ### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utilisateur invité (doit être ajouté au locataire AAD)
@@ -105,9 +104,9 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 
 ## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gérer l’appartenance MPN et votre entreprise (rôles non-AAD : ces rôles gèrent l’activité de l’entreprise plutôt que le locataire)
 
-|**Rôle** | **Ce qu’il peut faire**|
-|----------------------------|:----------------------------|
-|Administrateur partenaire MPN|*    Voir, créer et gérer les demandes de service des partenaires||
+|**Rôle** | **Ce qu’il peut faire**|**En savoir plus**|
+|----------------------------|:----------------------------|-----|
+|Administrateur partenaire MPN|*    Voir, créer et gérer les demandes de service des partenaires|[Premier achat ou renouvellement d’un abonnement Microsoft Action Pack ou de compétences Silver et Gold](mpn-get-action-pack.md)
 ||*    Voir les profils juridiques, d’entreprise, métier et MPN
 ||*    Voir les détails des utilisateurs et les données sur leurs compétences
 ||*    Voir les compétences
@@ -120,7 +119,7 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 ||*    Voir d’autres rôles d’utilisateur au sein de l’entreprise, sans pouvoir affecter de rôles
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez
-|Administrateur des comptes| • Ajouter des emplacements
+|Administrateur des comptes| • Ajouter des emplacements|[Gérer des sites](manage-locations.md)
 || • Gérer les profils associés aux comptes dont vous êtes administrateur 
 ||*    Affecter des rôles non-ADD aux utilisateurs dans le locataire 
 ||*    Inscrire des emplacements dans des programmes
@@ -130,22 +129,22 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 
 ## <a name="manage-referrals"></a>Gérer les références 
 
-|**Rôle**|**Ce qu’il peut faire**|
-|-----------------------------|:------------------------|
-|Administrateur des références       |*    Voir, créer et gérer les profils métier
+|**Rôle**|**Ce qu’il peut faire**|**En savoir plus**|
+|-----------------------------|:------------------------|---|
+|Administrateur des références       |*    Voir, créer et gérer les profils métier|[Gérer différents prospects, comme les demandes des clients, des prospects qualifiés par le marketing et des prospects qualifiés par les commerciaux](manage-leads.md)
 ||*    Recevoir et gérer les références
 ||* Voir, créer et gérer les références de covente|
 ||*    Voir, créer et gérer les demandes de service des partenaires
-|Administrateur de profils métier   |* Voir, créer et gérer le profil métier 
+|Administrateur de profils métier   |* Voir, créer et gérer le profil métier |[Créer un profil professionnel](create-a-marketing-profile.md)
 ||*    Voir, créer et gérer les demandes de service des partenaires
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez|
 
 ## <a name="manage-incentives"></a>Gérer les primes incitatives 
 
-|**Rôle** | **Ce qu’il peut faire**|
-|------------------------------|:-------------------------|
-|Administrateur de primes incitatives|*    Lancer et gérer des incentives 
+|**Rôle** | **Ce qu’il peut faire**|**En savoir plus**
+|------------------------------|:-------------------------|---|
+|Administrateur de primes incitatives|*    Lancer et gérer des incentives |[Utilisez ces ressources pour bien démarrer avec les incentives](incentives-get-started-intro.md)
 ||*    Voir et modifier tous les aspects des programmes d’incentives
 ||*    Voir et modifier les informations bancaires et fiscales
 ||*    Voir les remises et les revenus de coopération
@@ -159,12 +158,15 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 
 ## <a name="view-partner-center-insights-data"></a>Consulter les données des insights de l’Espace partenaires
 
-|**Rôle** | **Ce qu’il peut faire**|
-|------------------------------|:-------------------------|
-|Visionneuse de rapports de la direction|Accéder à tous les jeux de données de rapport, créer des tickets de support, voir les tickets de support partenaire que vous créez|
+|**Rôle** | **Ce qu’il peut faire**|**En savoir plus**|
+|------------------------------|:-------------------------|---|
+|Visionneuse de rapports de la direction|Accéder à tous les jeux de données de rapport, créer des tickets de support, voir les tickets de support partenaire que vous créez|[Vue d’ensemble des rapports de tableau de bord disponibles dans les insights de l’Espace partenaires](pci-overview-report.md)
 |Visionneuse de rapports|Accéder aux rapports de données, à l’exception des revenus et des données personnelles des clients et des employés, créer des tickets de support partenaire, voir les tickets de support partenaire que vous créez|
 
+## <a name="next-steps"></a>Étapes suivantes
 
+- [Créer des comptes d’utilisateur et attribuer des rôles et des autorisations](create-user-accounts-and-set-permissions.md)
+- [Vérifier les informations de votre compte lors de votre inscription à un nouveau programme de l’Espace partenaires](verification-responses.md)
 
 
 
