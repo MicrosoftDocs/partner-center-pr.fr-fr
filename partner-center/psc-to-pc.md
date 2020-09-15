@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
+ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490657"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90082517"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -43,6 +43,9 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 - Configurez votre compte avec l’aide de l' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview)de l’espace partenaires.
 - Découvrez comment vendre en collaboration dans l’espace partenaires en lisant ce document.
 - Configurez des comptes d’utilisateur dans l’espace partenaires pour tous les utilisateurs de votre PSC (rôles Admin, Deal Manager et seller) et attribuez-leur des [rôles d’administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview).
+
+>[!Important]
+> Assurez-vous que l’ID MPN affiché dans la bannière du PSC est disponible dans la liste des emplacements MPN dans l’espace partenaires. Vous pouvez vérifier que dans l’espace partenaires, accédez à paramètres du compte et emplacements sous cet [emplacement](https://docs.microsoft.com/partner-center/manage-locations) pour trouver la liste de tous les MPNs associés au compte de l’espace partenaires.
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Si vous êtes responsable des transactions de PSC ou du vendeur
 
