@@ -292,8 +292,8 @@
           href: organization-tax-info.md
         - name: Recevoir un crédit pour une retenue fiscale
           href: withholding-tax-credit-form.md
-        - name: "Conseil partenaire Office 365\_: Microsoft 365 Business Voice dans le programme CSP"
-          href: o365-partner-advisory.md
+        - name: Taxe locale - services vocaux
+          href: tax-and-fees-voice-services.md
     - name: Demander un crédit de contrat SLA à Microsoft
       href: request-credit.md
     - name: Définir un budget Azure pour vos clients
