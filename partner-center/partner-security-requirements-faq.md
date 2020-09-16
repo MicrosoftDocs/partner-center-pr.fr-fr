@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444896"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614156"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
 
@@ -214,7 +214,7 @@ En cas d’application de l’authentification multifacteur à tous les comptes 
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>J’utilise des outils d’automation tels que PowerShell. Comment implémenter le modèle d’application sécurisé ?
 
-Vous devez implémenter le modèle d’application sécurisé si votre automation doit être exécutée de manière non interactive et si elle repose sur les informations d’identification de l’utilisateur pour l’authentification. Consultez [Modèle d’application sécurisé | Module PowerShell pour l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) pour obtenir de l’aide sur l’implémentation de ce framework.  
+Vous devez implémenter le modèle d’application sécurisé si votre automation doit être exécutée de manière non interactive et si elle repose sur les informations d’identification de l’utilisateur pour l’authentification. Consultez [Modèle d’application sécurisé | Module PowerShell pour l’Espace partenaires](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) pour obtenir de l’aide sur l’implémentation de ce framework.  
 
 >[!Note] 
 >Tous les outils d’automatisation ne permettent pas de s’authentifier avec des jetons d’accès. Si vous avez besoin d’aide pour comprendre les changements à apporter, postez un message au groupe d’[aide sur la sécurité de l’Espace partenaires](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
@@ -292,7 +292,7 @@ Pour plus d’informations, consultez la page [Imposer l’authentification mult
 
 Pour valider le fait que le compte accédant aux ressources a fait l’objet d’un test d’authentification multifacteur, nous allons vérifier la revendication de [référence de méthode d’authentification](https://tools.ietf.org/html/rfc8176) pour déterminer si l’authentification multifacteur est listée. Certaines solutions tierces n’émettent pas cette revendication ou n’incluent pas la valeur MFA. Si la revendication est manquante, ou si la valeur MFA n’est pas listée, il n’existe aucun moyen de déterminer si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Vous devez collaborer avec le fournisseur de votre solution tierce pour déterminer les actions à entreprendre afin que la solution émette la revendication de référence de méthode d’authentification.
 
-Consultez [Test des exigences de sécurité du partenaire](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0) si vous avez des doutes sur le fait que votre solution tierce émette la revendication attendue.
+Consultez [Test des exigences de sécurité du partenaire](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) si vous avez des doutes sur le fait que votre solution tierce émette la revendication attendue.
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>L’authentification multifacteur m’empêche de prendre en charge mon client utilisant AOBO. Que dois-je faire ?
 
