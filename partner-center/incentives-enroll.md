@@ -1,21 +1,21 @@
 ---
-title: S’inscrire au programme d’incentives
+title: Inscription aux incentives
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: Inscrivez-vous au programme d’incentives et attribuez les rôles nécessaires à la gestion des utilisateurs.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220597"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714443"
 ---
-# <a name="enroll-in-the-incentives-program"></a>S’inscrire au programme d’incentives
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscription et gestion des utilisateurs dans le programme d’incentives
 
 **S’applique à :**
 
@@ -55,4 +55,4 @@ L’inscription aux incentives expire à la fin de l’année fiscale. Toutefois
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)
+- [Déterminer votre éligibilité au programme](incentives-determined-your-program-eligibility.md)

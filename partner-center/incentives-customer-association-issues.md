@@ -7,15 +7,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: ab2c26cf097d6212375382cadd9ac5f4f80b5c2a
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220617"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714473"
 ---
-# <a name="incentives-customer-association-issues"></a>Problèmes liés aux associations de client pour les incentives
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problèmes liés aux associations de clients d’enregistrement (CPOR) revendiqués
 
 **S’applique à :**
 

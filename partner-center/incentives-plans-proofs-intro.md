@@ -1,5 +1,5 @@
 ---
-title: Vue d’ensemble-plans d’incentives & POE
+title: Vue d’ensemble des plans et des preuves de l’exécution
 description: En savoir plus sur les documents clés nécessaires pour les incentives, notamment un plan de demandes d’incentives pour les incentives et une preuve d’exécution détaillée (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/10/2020
-ms.openlocfilehash: 90bdb6300bd0a7a74b719a064bcf41ef901b40de
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 09/11/2020
+ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303135"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714393"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Utilisez ces ressources pour vous aider à créer des plans d’incentives et des preuves d’exécution
 

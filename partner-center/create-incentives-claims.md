@@ -1,7 +1,7 @@
 ---
-title: Créer et gérer une revendication d’incentives | Espace partenaires
+title: Gérer les demandes d’incentives de co-op
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Découvrez comment initier des demandes d’incentives à l’espace partenaires. Vous pouvez voir toutes les activités qui vont de la génération de votre revendication dans l’historique.
@@ -9,16 +9,17 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fbeb506e02f8375ef12c4d1db43c4315aa7b665c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 406aba55b53919d3f189a67ef49b5c41991fef7d
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220657"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714133"
 ---
-# <a name="create-and-manage-an-incentives-claim"></a>Créer et gérer une revendication d’incentive
+# <a name="create-and-manage-an-incentives-co-op-claim"></a>Créer et gérer une revendication de co-op d’incentives
 
 **S’applique à**
+
 - Espace partenaires
 
 **Rôles appropriés**

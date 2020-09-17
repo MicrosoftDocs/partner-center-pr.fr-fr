@@ -1,5 +1,5 @@
 ---
-title: Gérer les associations de clients incitatives
+title: Incentives pour les clients
 description: Comprenez les processus et chronologies importants pour la gestion des associations de clients CPOR (Partner of record).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220577"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714433"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gérer les associations de clients incitatives
 

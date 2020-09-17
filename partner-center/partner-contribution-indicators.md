@@ -1,80 +1,284 @@
 ---
 title: Indicateurs de contribution des partenaires
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Les indicateurs de contribution partenaires (PCI) vous montrent comment faire avec l’engagement client Dynamics 365 ou le financement et les opérations Dynamics 365.
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: Indicateurs de contribution des partenaires, niveau de performance, réussite du client, mesures, Dynamics 365
-author: LauraBrenner
-ms.author: labrenne
+description: Découvrez les sept principaux indicateurs de contribution partenaires (PCI) qui montrent comment vous travaillez avec Dynamics 365 engagement client ou Dynamics 365 Finance and Operations.
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f45288e48ff9da7a6aa284f6675536f982bf6441
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328280"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714283"
 ---
-# <a name="partner-contribution-indicators-pci---shows-partner-impact-on-key-measures-of-customer-success"></a>Indicateurs de contribution partenaire (PCI)-indique l’impact des partenaires sur les mesures clés de la réussite des clients
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Les indicateurs de contribution partenaires (PCI) indiquent l’impact du partenaire sur sept mesures clés de la réussite du client
 
-Les indicateurs de contribution partenaires (PCI) fournissent une mesure holistique de l’impact d’un partenaire sur la réussite des résultats des clients et, par conséquent, une plus grande différenciation du marché lorsqu’un partenaire atteint et gère le Cloud Business Applications compétence. Les partenaires bénéficient d’un crédit pour les mesures clés de la réussite des clients, telles que les déploiements réussis et l’utilisation accrue, et sont récompensés pour continuer à investir dans et faire évoluer leurs capacités techniques.
+Cet article décrit chacun des sept indicateurs de contribution partenaires (PCI) clés utilisés pour évaluer la progression d’un partenaire dans l’obtention ou la maintenance de la compétence MPN du Cloud Business Applications (CBA).
 
+L’article contient des informations sur les éléments suivants :
 
-## <a name="scoring"></a>Notation
+- [Notation de chaque indicateur PCI](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)
+
+- [Seuils pour chaque indicateur PCI](partner-contribution-indicators.md#thresholds-for-each-pci-metric)
+
+- [Les définitions détaillées de chaque indicateur PCI](partner-contribution-indicators.md#detailed-definitions-of-pci-metrics)
+
+- [Comment accéder aux](partner-contribution-indicators.md#how-to-access-and-read-the-charts) graphiques PCI et les lire dans l’espace partenaires
+
+## <a name="overview-of-partner-contribution-indicators"></a>Vue d’ensemble des indicateurs de contribution partenaire
+
+Les indicateurs de contribution des partenaires fournissent une mesure holistique de l’impact d’un partenaire sur les résultats des clients réussis et, par conséquent, une plus grande différenciation du marché lorsqu’un partenaire atteint et gère la compétence MPN du Cloud Business Applications (CBA).
+
+Avec PCI, les partenaires bénéficient d’un crédit pour les mesures clés de la réussite des clients, tels que les déploiements réussis et l’utilisation accrue, et sont récompensés pour continuer à investir dans et faire évoluer leurs capacités techniques.
+
+## <a name="pci-scoring-based-on-seven-key-indicators"></a>Score PCI basé sur sept indicateurs clés
 
 PCI offre une vue sophistiquée des capacités techniques d’un partenaire, de sa capacité à stimuler la réussite des clients et de leurs performances de vente. PCI mesure les performances de l’année précédente de votre entreprise sur sept indicateurs clés :
 
-1. **Net New revenue**: net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365.
-2. Le **client net ajoute**: clients net acquis pour Dynamics 365 sur tous les canaux de vente.
-3. **Consultants fonctionnels**: nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. 
-4. **Croissance du consultant fonctionnel**: croissance du nombre d’associés aux consultants fonctionnels.  L’instantané de référence pour la mesure de croissance du consultant fonctionnel dans PCI sera maintenant pris le 1er octobre 2020.  
-5. **Développeurs**: nombre d’individus titulaires d’une certification actuellement active Developer Associate pour Dynamics 365.
-6. **Nouveaux déploiements à grande échelle**: nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois.
-7. **Croissance mensuelle**des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois.
+*Indicateurs de performance :*
 
-Des points sont accordés pour chaque indicateur atteint, ce qui aboutit à un score PCI à un seul numéro. 100 points au maximum sont possibles. Le score PCI détermine l’éligibilité des compétences :
+1. **Net New revenue**: net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions du chiffre d’affaires net New](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-![Scores PCI](images/pcinew1.png)
+2. Le **client net ajoute**: clients net acquis pour Dynamics 365 sur tous les canaux de vente. (Pour plus d’informations sur cette mesure, consultez [définitions pour les ajouts de clients net](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+
+*Indicateurs de capacité :*
+
+3. **Consultants fonctionnels**: nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les consultants fonctionnels](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+
+4. **Croissance du consultant fonctionnel**: croissance du nombre d’associés aux consultants fonctionnels.  L’instantané de référence pour la mesure de croissance du consultant fonctionnel dans PCI sera maintenant pris le 1er octobre 2020. (Pour plus d’informations sur cette mesure, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+
+5. **Développeurs**: nombre d’individus titulaires d’une certification actuellement active Developer Associate pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les développeurs](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+
+*Indicateurs de réussite du client :*
+
+6. **Nouveaux déploiements à grande échelle**: nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour les nouveaux déploiements à grande échelle](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+
+7. **Croissance mensuelle**des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour la croissance mensuelle des utilisateurs actifs](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
+
+### <a name="how-pci-score-impacts-competency-eligibility"></a>Impact du score PCI sur l’éligibilité des compétences
+Des points sont accordés pour chaque indicateur atteint, ce qui aboutit à un score PCI à un seul numéro. 100 points au maximum sont possibles. 
+
+Votre score PCI détermine l’éligibilité des compétences, comme suit :
+
+|Si votre score PCI est  | Vous  |
+|:----------------------|:-----------------|
+|1-59 points  | ne **sont pas** éligibles à une compétence Silver ou Gold |
+|60-79 points  | répondre aux exigences d’une compétence Silver  |
+|80-100 points  | répondre aux exigences d’une compétence Gold
+
+L’image suivante offre une référence visuelle rapide.
+:::image type="content" source="images/pcinew1.png" alt-text="Affiche les scores PCI pour obtenir une compétence Silver ou Gold." border="false":::
+
+### <a name="maximum-scores-you-can-achieve-for-each-indicator"></a>Scores maximaux que vous pouvez atteindre pour chaque indicateur
 
 Chaque indicateur fait apparaître un score qui est ajouté au total. Voici les scores maximaux pour chaque indicateur :
 
-![Performances PCI](images/pci/perfnew.png)
+|Pour cet indicateur | Votre score maximal est  |
+|:------------|:--------------:|
+|Performances-net New revenue  | 10 points  |
+|Performances-ajout du client net  | 10 points  |
+|Capacité-consultants fonctionnels  | 15 points  |
+|Capacité-croissance du consultant fonctionnel  | 15 points  |
+|Capacité-développeurs  | 5 points |
+|Succès client-nouveaux déploiements à grande échelle  | 20 points  |
+|Succès client-croissance mensuelle des utilisateurs actifs  | 25 points |
 
-### <a name="thresholds"></a>Seuils
+L’image suivante offre une référence visuelle rapide.
+:::image type="content" source="images/pci/perfnew.png" alt-text="Affiche un graphique avec des scores maximaux possibles pour chacun des sept indicateurs de contribution partenaires (PCI)." border="false":::
 
-Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter un nombre maximal de points à votre entreprise. Ces seuils diffèrent pour l’engagement du client et les chemins d’opérations de & financiers pour la réalisation de la compétence du Cloud Business Applications. Les seuils diffèrent également pour les partenaires qui travaillent sur des marchés développés par rapport à ceux qui opèrent exclusivement sur les marchés en développement.  La catégorisation de marché développée ou en développement d’un pays est basée sur les [définitions de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
+## <a name="thresholds-for-each-pci-metric"></a>Seuils pour chaque métrique PCI
 
-Les points de chaque mesure sont comptabilisés pour produire un score PCI distinct pour l’engagement client et les opérations de & finance qui seront mises à jour tous les mois.
+Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter un nombre maximal de points à votre entreprise. Ces seuils diffèrent pour l’engagement du client et les voies financières et opérationnelles pour atteindre le Cloud Business Applications compétence. Les seuils diffèrent également pour les partenaires qui opèrent sur des marchés développés par rapport aux partenaires qui utilisent exclusivement des marchés en développement. La catégorisation de marché **développée** ou en **développement** d’un pays est basée sur les [définitions de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Les points partiels peuvent être gagnés pour toutes les mesures, à l’exception de la croissance du consultant fonctionnel. Par exemple, un partenaire de marché développé avec $150 000 dans net New revenu gagnera la moitié ($ 150000/$ 300000) de la valeur maximale de 10 pts. 
+Les points de chaque mesure sont comptés pour produire un score PCI distinct pour l’engagement client et les finances et les opérations. Ce score sera mis à jour tous les mois.
 
-![engagement client](images/pci/custengagethresh.png)
+Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Les points partiels peuvent être gagnés pour toutes les mesures, à l’exception de la croissance du consultant fonctionnel.
+Par exemple, un partenaire de marché développé avec $150 000 dans net New revenu gagnera la moitié ($ 150000/$ 300000) des 10 points maximum.
 
-![Finance](images/pci/table_2.png)
+Pour plus d’informations, consultez les tableaux suivants :
+- [Tableau 1. Seuils d’engagement du client](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
+- [Tableau 2. Seuils financiers et opérationnels](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
+- [Tableau 3. Croissance du consultant fonctionnel](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
-![Réalise](images/Table3.PNG) 
+### <a name="table-1-customer-engagement-thresholds"></a>Tableau 1 seuils d’engagement du client
 
+
+| Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
+|---|---|---|---|---|---|---|---|
+| **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
+| **Fruit** | $300 000 | 10 points | 10 points | *\* Voir la remarque* | 5 points | 5 points | 25% |
+| **Pays** | $150 000 | 5 points | 5 points |*\* Voir la remarque* | 2 points | 1 point | 25% |
+
+*\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base. Consultez le [tableau 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) pour les cibles de croissance.*
+
+### <a name="table-2-finance-and-operations-thresholds"></a>Tableau 2 seuils de finance et d’opérations
+
+
+| Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
+|---|---|---|---|---|---|---|---|
+| **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
+| **Fruit** | $300 000 | 3 points | 15 points | *\* Voir la remarque* | 5 points | 3 points | 25% |
+| **Pays** | $150 000 | 1 point | 5 points |*\* Voir la remarque* | 2 points | 1 point | 25% |
+
+*\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base. Consultez le [tableau 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) pour les cibles de croissance.*
+
+### <a name="table-3-functional-consultant-growth"></a>Tableau 3 croissance du consultant fonctionnel
+
+>[!NOTE]
+> Le tableau suivant présente une colonne **développée** et en **développement** avec la ligne de base du consultant fonctionnel nécessaire pour pouvoir gagner des points. La date de l’instantané de base sera prise le 1er octobre 2020.
+
+
+| Fruit | Pays | Croissance nécessaire pour gagner les 15 points *
+|:---:|:---:|:---:|
+| 15-29 | 5-14 | 35 % |
+| 30-49 | 15-24 | 25% |
+| 50 et versions ultérieures | 25 et versions ultérieures | 15 % |
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Définitions détaillées des métriques PCI
 
-![Nouveau revenu net](images/pci/netnewrevenue.png)
+Les sections suivantes décrivent plus en détail les sept métriques PCI et le mode de calcul de leurs points.
 
-![ajouts réseau](images/pci/netadds.png)
+Utilisez la liste suivante pour accéder rapidement à une définition spécifique :
 
+- [Définitions pour les nouveaux revenus nets](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)
+- [Définitions pour le client net Adds](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)
+- [Définitions pour les consultants fonctionnels](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)
+- [Définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
+- [Définitions pour les développeurs](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
+- [Définitions pour les nouveaux déploiements à grande échelle](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)
+- [Définitions pour la croissance mensuelle des utilisateurs actifs](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
 
-![Consultants fonctionnels](images/pci/funcconsult.png)
+### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>Définitions pour PCI Metric #1-net New revenue
 
+NET New revenue est un indicateur de performance et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Voici plus d’informations sur la définition du chiffre d’affaires net New et sur la façon dont ses points sont calculés :
 
-![Croissance du consultant fonctionnel](images/pci/4_Functional_consultant_growth.png)
+- NET New revenu est défini en tant que nouveau revenu facturé net sur tous les canaux de vente pour les produits Dynamics 365 éligibles.
+- NET New revenu est totalisé sur une période de 12 mois à la fin avec un maximum de 10 points.
+- Les points pour les nouveaux revenus nets sont calculés comme des factures moins de crédits et agrégés sur 12 mois.
+- NET New revenue est calculé sur la base des produits éligibles suivants :
 
-![Développeurs](images/pci/developers.png) 
+   - Les produits éligibles pour les clients sont les suivants : ventes, service clientèle, service clientèle, automatisation de service de projet, marketing, ventes de Microsoft relation, plan 1, talent et membre de l’équipe d’entreprise.
+   - Les produits de financement et d’exploitation sont les suivants : opérations unifiées, finance, gestion de la chaîne logistique, vente au détail, commerce, plan 2, réalité mixte, talent et membre de l’équipe d’entreprise.
 
-![Nouveaux grands déploiements](images/pci/largedeploy.png) 
+- Les canaux de vente incluent Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
+- Pour Accord Entreprise revenus uniquement : ce chiffre d’affaires comprend le chiffre d’affaires de la première année de l’accord. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.
 
-![Utilisateurs actifs](images/pci/activeusers.png)
+### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Définitions pour la métrique PCI #2-le client net ajoute
+
+Les ajouts au client net sont un indicateur de performance et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Voici plus d’informations sur la façon dont les ajouts au client net sont définis et sur le mode de calcul des points de cette catégorie :
+
+- Les ajouts au client net sont cumulés sur une période de 12 mois de fin avec un maximum de 10 points.
+
+- Les clients nets sont ajoutés sur tous les canaux de vente. 
+
+- Les points pour les ajouts au client net sont calculés mensuellement à mesure que les clients ont ajouté moins de clients perdus et sont agrégés sur 12 mois. 
+
+- Un **Ajout client** est défini dans les conditions suivantes : lorsqu’un client n’a pas de sièges payants pour l’ensemble de ses abonnements au cours d’un mois antérieur, mais qu’il a au moins un siège payant dans le mois en cours.
+
+- Un **client perdu** est défini dans les conditions suivantes : lorsqu’un client a au moins un siège payant pour tous ses abonnements au cours d’un mois antérieur **et** qu’il n’a pas de sièges payants dans le mois en cours.
+
+- Les canaux de vente incluent Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
+
+- Pour plusieurs partenaires ou clients ou clients travaillant directement avec Microsoft : il existe différents calculs d' **ajouts** **et de clients pour** les cas où plusieurs partenaires sont associés au même client par le biais de différents abonnements ou lorsque le client peut déjà travailler directement avec Microsoft. Ces calculs apparaissent ci-dessous.
+
+  **Pour plusieurs partenaires, le même client, des abonnements différents :**
+
+  - Tous les partenaires associés au client bénéficient d’un crédit pour un nouveau client ajouter au mois où le client est ajouté.
+  
+  - Les partenaires suivants qui associent le même client via des abonnements anciens ou nouveaux n’obtiendront pas de crédit supplémentaire pour ce client.
+  
+  - Tous les partenaires associés au client perdront le crédit d’un nouveau client dans le mois où le client sera perdu.
+  
+  - Tout partenaire qui associe le même client par la suite, via des abonnements anciens ou nouveaux, obtiendra un nouveau crédit pour ce client.
+  
+  **Lorsque le client travaille déjà directement avec Microsoft :**
+
+   - Si un client travaille déjà directement auprès de Microsoft et a répondu aux nouveaux critères de l’ajout d’un nouveau client, les partenaires qui associent le même client par la suite via des abonnements anciens ou nouveaux n’obtiendront pas de nouveau crédit pour ce client.
+
+### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Définitions pour le #3 de mesures PCI-consultants fonctionnels
+
+Les consultants fonctionnels sont un indicateur de capacité et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Voici plus d’informations sur la façon dont l’indicateur des consultants fonctionnels est défini et sur le mode de calcul des points de cette catégorie :
+
+- Les points d’indicateur du consultant fonctionnel sont basés sur l’instantané du mois en cours avec un salaire maximal possible de 15 points.
+
+- Les consultants fonctionnels sont définis comme étant le nombre d’individus titulaires d’un consultant fonctionnel actif qui associe la certification, par exemple la certification du consultant fonctionnel engagement du client ou la certification du consultant fonctionnel finance et Operations.
+
+- La certification du consultant fonctionnel engagement du client exige qu’un individu passe : MB-200 **et** l’un des éléments suivants : mo-210, mb-220, mo-230, mb-240 ou MB6-898.
+
+- La certification du consultant fonctionnel finance et Operations requiert qu’un individu passe : MB-300 **et** l’un des éléments suivants : mb-310, mo-320, mb-330, MB6-897 ou MB6-898.
+
+### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Définitions de la mesure PCI Metric #4-développement du consultant fonctionnel
+
+La croissance du consultant fonctionnel est un indicateur de capacité et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Voici plus d’informations sur la façon dont l’indicateur de croissance du consultant fonctionnel est défini et sur le mode de calcul des points de cette catégorie :
+
+- La croissance du consultant fonctionnel est définie comme la croissance du nombre d’associés au consultant fonctionnel certifié depuis un instantané de base de référence. La date de l’instantané de base sera prise le 1er octobre 2020.
+
+- Les points d’indicateur de croissance du consultant fonctionnel sont basés sur l’instantané de mois en cours par rapport à la ligne de base 2020 du 1er octobre. Les partenaires peuvent obtenir 0 ou 15 points avec cet indicateur.
+
+- La capture instantanée de la ligne de base sera ensuite réinitialisée à la date de renouvellement de la compétence Cloud Business Applications suivante.
+
+- Pour être éligible à des points, vous devez disposer d’un minimum de **15** consultants fonctionnels pour les partenaires commerciaux développés et **5** pour développer des partenaires commerciaux lorsque la capture instantanée de base est prise.
+
+- **Aucun point partiel n’est accordé.** La croissance au-dessus de l’instantané de ligne de base doit respecter ou dépasser les seuils indiqués dans le [tableau 3. Croissance du consultant fonctionnel](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+
+### <a name="definitions-for-pci-metric-5---developers"></a>Définitions pour PCI Metric #5-développeurs
+
+Les développeurs sont un indicateur de capacité et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Voici plus d’informations sur la façon dont l’indicateur des développeurs est défini et sur le mode de calcul des points de cette catégorie :
+
+- Les développeurs sont définis comme étant le nombre d’individus titulaires d’une certification actuellement active pour les développeurs associés.
+
+- Les points de l’indicateur des développeurs sont basés sur l’instantané du mois en cours, avec un maximum de 5 points disponibles.
+
+- Les développeurs de l’engagement client reçoivent un crédit lorsqu’ils passent à la fois MB-200 **et** l’un des éléments suivants : mb-400 ou MB2-716/96.
+
+- Les développeurs finance et Operations obtiennent un crédit lorsqu’ils passent à la fois MB-300 **et** l’un des éléments suivants : mb-500 ou MB6-894.
+
+### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Définitions pour le #6 de métriques PCI-nouveaux déploiements à grande échelle
+
+Les nouveaux déploiements à grande échelle sont un indicateur de réussite du client et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Voici plus d’informations sur la façon dont le nouvel indicateur de déploiements volumineux est défini et sur le mode de calcul des points de cette catégorie :
+
+- Les nouveaux déploiements à grande échelle sont cumulés sur une période de 12 mois à la fin, avec un maximum de 20 points disponibles.
+
+- Les nouveaux déploiements à grande échelle sont définis différemment pour l’engagement client par rapport à finance and Operations :
+
+  - Pour l’engagement client, les nouveaux déploiements à grande échelle sont définis comme le nombre d’instances de production sous un locataire qui ont franchi **250** utilisateurs actifs mensuels (pour les partenaires de marché développés) et **150** utilisateurs actifs mensuels (pour le développement de partenaires commerciaux).
+
+   - Pour les finances et les opérations, les nouveaux déploiements à grande échelle sont définis comme le nombre d’instances de production sous un locataire qui ont franchi **100** utilisateurs actifs mensuels (pour les partenaires commerciaux développés) et **50** utilisateurs actifs mensuels (pour le développement de partenaires commerciaux).
+
+- Un locataire est considéré comme ayant franchi le seuil mensuel actif de l’utilisateur si le locataire était : 
+
+  - Au-dessous du seuil spécifié il y a 12 mois, *et*
+  - Franchit ce seuil au moins une fois au cours des 11 mois suivants.
+
+- Les utilisateurs actifs mensuels sont comptabilisés au niveau du locataire et cumulés uniquement pour les abonnements payants sous le locataire.
+- Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois.
+- Les partenaires sont associés à des locataires au niveau de l’abonnement. Les abonnements sont mappés à des produits d’engagement client ou à des produits financiers et opérationnels.
+- Tous les partenaires associés à un abonnement payant dans le cadre d’un locataire seront crédités pour l’ensemble des instances d’engagement client ou de production finance et Operations sous ce locataire.
+
+### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>Définitions pour la mesure PCI Metric #7-croissance mensuelle des utilisateurs actifs
+
+La croissance mensuelle des utilisateurs actifs est un indicateur de succès client et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Voici plus d’informations sur la façon dont la croissance mensuelle des utilisateurs actifs est définie et sur le mode de calcul des points de cette catégorie :
+
+- La croissance mensuelle des utilisateurs actifs est définie comme la croissance des utilisateurs actifs mensuels dans l’ensemble de la clientèle au cours des 12 derniers mois. 
+
+- Les utilisateurs actifs mensuels sont comptabilisés au niveau du locataire et cumulés uniquement pour les abonnements payants sous le locataire.
+
+- L’indicateur de croissance mensuel actif de l’utilisateur compare le mois en cours à une ligne de base de 12 mois auparavant. 25 points au maximum sont disponibles.
+
+- Les utilisateurs actifs mensuels sont calculés à la fin de chaque mois.
+
+- Pour que les clients soient éligibles à des points, les partenaires du marché développés doivent disposer d’une ligne de base d’au moins **250** utilisateurs actifs mensuels, et le développement de partenaires commerciaux doit avoir une ligne de base de **150** utilisateurs actifs mensuels au cours de la base de clients. 
+
+- Pour que les services financiers et les opérations soient éligibles à des points, les partenaires du marché développés doivent disposer d’une ligne de base d’au moins **100** utilisateurs actifs mensuels, et le développement de partenaires de marché doit avoir une ligne de base de **50** utilisateurs actifs mensuels au cours de la base du client, 12 mois auparavant. 
+
+- Les partenaires sont associés à des locataires au niveau de l’abonnement. Les abonnements sont mappés à l’engagement client ou aux produits financiers et opérationnels.
+
+- Tous les partenaires associés à un abonnement payant dans le cadre d’un locataire sont crédités pour tous les utilisateurs actifs mensuels ou financiers et opérationnels cumulés sur tous les abonnements payants sous ce locataire.
 
 ## <a name="customer-to-partner-association"></a>Association entre client et partenaire
 
@@ -84,12 +288,33 @@ Un partenaire devient le CPOR s’il a établi une association avec un client au
 
 Un partenaire devient le DPOR s’il est associé à un client au niveau de l’abonnement au sein du produit.
 
-Si CPOR et DPOR existent tous les deux pour un abonnement donné, le CPOR recevra un crédit pour les métriques PCI pertinentes associées à cet abonnement. Le CPOR reçoit le crédit pour les nouveaux revenus nets et le client net s’ajoute si l’Association a été via OSA. Si l’Association était via OSU, le CPOR reçoit le crédit pour les nouveaux déploiements à grande échelle et la croissance mensuelle des utilisateurs actifs. 
+Si CPOR et DPOR existent tous les deux pour un abonnement donné, le CPOR recevra un crédit pour les métriques PCI pertinentes associées à cet abonnement. Le CPOR reçoit le crédit pour les nouveaux revenus nets et le client net s’ajoute si l’Association a été via OSA. Si l’Association était via OSU, le CPOR reçoit le crédit pour les nouveaux déploiements à grande échelle et la croissance mensuelle des utilisateurs actifs.
 
-## <a name="how-to-read-the-charts"></a>Comment lire les graphiques
+## <a name="how-to-access-and-read-the-charts"></a>Comment accéder aux graphiques et les lire
 
-![Comment lire le graphique](images/pci/howto.png)
+Cette section décrit comment accéder aux indicateurs de contribution partenaire à partir du tableau de bord espace partenaires et comment lire les graphiques associés.
 
-## <a name="additional-resources"></a>Ressources supplémentaires
+### <a name="access-partner-contribution-indicators"></a>Accéder aux indicateurs de contribution du partenaire
 
-Visitez la [collection de ressources indicateurs de contribution partenaire](https://aka.ms/pcilearn) où vous trouverez des vidéos de formation détaillées, des présentations, des FAQ et des feuilles de faits.
+Pour afficher les graphiques et la progression de vos indicateurs de contribution partenaires, procédez comme suit :
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
+
+2. Sélectionnez **CSP** dans le menu de navigation, puis sélectionnez **indicateurs de contribution partenaire**. 
+
+   Vous devez voir le tableau de bord des indicateurs de contribution partenaire avec les graphiques associés.
+
+   > [!NOTE]
+   > Si vous ne voyez pas ces options, essayez de sélectionner **MPN** dans le menu, suivi des **indicateurs de contribution du partenaire**. Si vous ne parvenez toujours pas à trouver ces options, vous ne disposez peut-être pas du rôle d’utilisateur approprié dans l’espace partenaires. Pour obtenir de l’aide, contactez l’administrateur général de l’espace partenaires ou le partenaire MPN.
+
+### <a name="read-the-charts"></a>Lire les graphiques
+
+L’illustration suivante montre comment lire certains zones et graphiques dans la page indicateurs de contribution partenaire dans l’espace partenaires.
+
+Pour plus d’informations sur l’utilisation de cette zone, consultez la collection des ressources et des vidéos qui se trouvent à la fin de cet article.
+
+   :::image type="content" source="images/pci/howto.png" alt-text="Comment lire le graphique":::
+
+## <a name="next-steps"></a>Étapes suivantes
+
+Affichez d’autres [vidéos de formation PCI et des ressources d’informations](https://partner.microsoft.com/asset/collection/pci-learn#/).
