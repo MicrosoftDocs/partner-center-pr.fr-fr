@@ -9,18 +9,50 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564739"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574395"
 ---
 # <a name="september-2020-announcements"></a>Annonces de septembre 2020
 
 Cette page détaille les annonces de l’Espace partenaires Microsoft pour septembre 2020.
 
 Annonces 2020 : [Février](2020-february.md) | [Mars](2020-march.md) | [Avril](2020-april.md) | [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | Septembre
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Achat en libre-service de Microsoft Project et Microsoft Visio maintenant disponible
+
+### <a name="categories"></a>Catégories
+
+- Date : 2020-09-15
+- Offres/marchés
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires qui vendent des services en ligne aux clients commerciaux
+
+### <a name="details"></a>Détails
+
+L’année dernière, nous [vous avons annoncé](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) que Microsoft autorise les personnes et les équipes à acheter directement une sélection de services. Aujourd’hui, les utilisateurs du monde entier peuvent acheter des abonnements pour les produits Microsoft Project et Microsoft Visio suivants en libre-service : 
+
+- [Visio Plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) et [Visio Plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project Plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) et [Project Plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+
+Remarque :  Actuellement, les fonctionnalités d’achat en libre-service ne sont pas disponibles en Inde, au Brésil et en République démocratique du Congo. Elles ne le sont pas non plus pour les clients éligibles à des offres Secteur public ou Éducation.  Consultez le [FAQ sur les achats en libre-service](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true) pour obtenir les disponibilités et les mises à jour dans tous les pays.
+
+#### <a name="partner-benefits"></a>Avantages pour les partenaires
+
+Vous pourrez proposer vos services aux personnes et aux équipes sans avoir à passer par un processus d’approvisionnement informatique centralisé pour obtenir les licences requises. Vos services peuvent englober Project et Visio sur la base de scénarios d’intégration avec Microsoft 365 et Power Platform. Avant d’acheter, les clients peuvent aussi essayer avec les versions d’essai de Visio et Project, maintenant disponibles pour [Visio Plan 1 et Visio Plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) et [Project Plan 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
+
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Consultez toutes les ressources de préparation dans la galerie des ressources Operations Readiness : [Capacité d’achat libre-service client](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/). -Découvrez plus en détail les opportunités Partenaire avec les solutions Visio et Power Platform dans la session Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform).
+- Pour plus d’informations, consultez le [Guide pour gérer les achats en libre-service](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true).
 
 ________________
 

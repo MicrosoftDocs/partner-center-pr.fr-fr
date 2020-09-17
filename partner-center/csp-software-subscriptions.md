@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb70aabc59e069209673b1b0f2e0be57c973a70e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545840"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614149"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
 
@@ -116,7 +116,7 @@ Une fois l’abonnement logiciel acheté, suivez les étapes ci-dessous pour le 
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Téléchargement et clés de licence de l’abonnement serveur disponibles via le Centre d’administration Microsoft 365 pour les clients 
 
-Vos clients seront en mesure d’obtenir des clés de licence et des téléchargements de l’abonnement serveur CSP depuis le Centre d’administration Microsoft 365. Pour voir leurs clés de licence et les téléchargements de leur abonnement serveur CSP, le client doit accéder à Centre d’administration Microsoft 365 > **Facturation > Vos produits > Onglet Logiciels**. Pour plus d’informations, consultez [Onglet Logiciels sous Facturation](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
+Vos clients seront en mesure d’obtenir des clés de licence et des téléchargements de l’abonnement serveur CSP depuis le Centre d’administration Microsoft 365. Pour voir leurs clés de licence et les téléchargements de leur abonnement serveur CSP, le client doit accéder à Centre d’administration Microsoft 365 > **Facturation > Vos produits > Onglet Logiciels**. Pour plus d’informations, consultez [Onglet Logiciels sous Facturation](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité de l’accès aux clés logicielles et des téléchargements logiciels
 
