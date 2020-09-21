@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 55bafb22a652c9e01fc9cbd1f5303b35cf127d9a
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 157769fd08a99e63d2a2aac06e704a72add20a60
+ms.sourcegitcommit: b60577f772e240fd2c38c13987d2b39c4722fbad
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714234"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "90773833"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de septembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Changements à venir dans les API d’utilisation d’O365 CSP et les rapports d’utilisation de licences CSP le 30 septembre 2020.](2020-september.md#8)|17 septembre|
 |Fonctions|[Mise à jour des MPA pour les revendeurs indirects. Action requise pour les utilisateurs de l’API MPA et nouveaux rapports MPA](2020-september.md#7)|16 septembre|
 |Offres/marchés|[Achat en libre-service de Microsoft Project et Microsoft Visio maintenant disponible](2020-september.md#6)|15 septembre|
 |Offres/marchés|[Les nouvelles références SKU apportent aux clients la puissance de Project Cortex et plus](2020-september.md#5)|8 septembre|
