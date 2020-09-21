@@ -1,7 +1,7 @@
 ---
-title: Demandes de coopération aux incentives
+title: Vue d’ensemble de la co-op marketing et des réclamations
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 09/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Découvrez comment soumettre une demande de remboursement réussie pour vos incentives en organisant la documentation, les factures, les déclarations et les preuves d’exécution appropriées.
@@ -9,14 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0b8416281bcb8afd4e5166104df0710df100901b
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 05ce007901baccd76228c55b7a846fc51718409d
+ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714303"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "90811297"
 ---
-# <a name="overview-of-incentives-co-op-claims"></a>Vue d’ensemble des revendications de co-op d’incentives
+# <a name="earn-cooperative-marketing-funds"></a>Bénéficier de fonds marketing coopératifs
 
 **S’applique à**
 
@@ -27,25 +27,51 @@ ms.locfileid: "90714303"
 - Administrateur de primes incitatives
 - Utilisateur de primes incitatives
 
-Lorsque vous participez à l’un des programmes Microsoft d’incentives (tels que le fonds marketing de collaboration Partner incentives, le programme du conseiller en ligne ou le programme ISV Dynamics), vous réclamez des remboursements de fonds accumulés pour les activités que vous avez effectuées qui prennent en charge la reconnaissance des produits Microsoft. Vous soumettez une revendication directement à partir de l’espace partenaires. Vous n’avez plus besoin de consulter votre plan d’activité par Microsoft avant de soumettre une réclamation. Soumettez votre revendication et la documentation requise au plus tard à l’échéance de la période de revendication, qui est de 45 jours après la fin de la période d’utilisation.
+Les fonds de marketing coopératif sont des fonds que vous recevez par le biais de programmes d’incentives Microsoft en revendiquant le remboursement des activités qui prennent en charge la reconnaissance des produits Microsoft. Les exemples de programmes d’incentives sont fournisseur de solutions Cloud, revendeur géré, hébergement et surface.
 
-Une revendication réussie comprend les éléments suivants :
+Les fonds de co-op marketing vous permettent d’effectuer des activités marketing qui améliorent la sensibilisation à la personnalisation et la croissance du pipeline de vente. Vous pouvez investir dans des activités pour faciliter la préparation, développer des spécialisations ou atteindre des certifications Microsoft, c’est-à-dire des activités qui favorisent des pratiques de solution ciblées et des centres d’excellence.
 
-- Documentation qui montre que vous avez répondu aux exigences principales de l’activité
-- Factures de fournisseurs tiers avec lesquels vous travaillez
-- Déclaration de certification et rapport (conseillers) pour tout travail interne effectué
-- La documentation appropriée (preuve d’exécution, ou PoE) qui prouve que vous avez terminé l’activité 
+Pour plus d’informations, consultez la page ressources pour les [fonds de co-op](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
+
+>[!Important]
+>Les demandes de financement ne s’appliquent pas aux programmes d’incentives de la vente OSA (Online Services Advisory) (OSU)-Microsoft 365 et OSU-Business Services. Pour soumettre une revendication pour l’un de ces programmes, consultez [créer un client associearation à l’aide du modèle CPOR](submit-osa-claim.md).
+
+## <a name="how-co-op-funds-are-calculated"></a>Calcul des fonds de co-op marketing
+
+Microsoft calcule les recettes incitatives éligibles à l’aide d’un pourcentage de fractionnement (par exemple, 60% de remise-40% de co-op). Vous recevrez la partie de la remise à l’aide de la cadence de paiement existante pour votre programme individuel, tandis que Microsoft accumulera la partie de la co-op du revenu de l’incentive.
+
+Vous pouvez en savoir plus sur la cadence de paiement et le pourcentage de fractionnement dans votre Guide du programme d’incentives. Utilisez [cette procédure](incentives-determined-your-program-eligibility.md) pour accéder au Guide de votre programme.
+
+## <a name="when-to-claim-your-funds"></a>Quand réclamer vos fonds
+
+La chronologie des fonds de co-op marketing est divisée en périodes de 2 6 mois, H1 et H2. (Le « H » désigne un semestre fiscal.)
+
+- H1 est la première moitié de l’année fiscale, du 1er juillet au 31 décembre.
+- H2 est la seconde moitié de l’année fiscale, du 1er janvier au 30 juin.
+
+La période de six mois au cours de laquelle vous accumulez vos revenus devient votre **période de gains**. Vous devez utiliser ces revenus à un moment donné pendant la **période d’utilisation**de six mois suivante. Si vous n’utilisez pas vos revenus à la fin de la période d’utilisation, vous les perdrez. La **période de demande** est la période de six mois au cours de laquelle vous pouvez demander le remboursement de vos activités de programme d’incentives.
+
+Le tableau ci-dessous présente les différentes périodes de gains, d’utilisation et de revendication. Les périodes s’étendent du premier jour du premier mois jusqu’au dernier jour du mois dernier.
+
+|  Si votre période de bénéfices/accumulations est  |La période de la demi-année fiscale est  |  La période d’utilisation est  |  Votre période de revendication est  |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+|**Juillet-Dec 2020**| FY20 H1  |  Du 1er au 2021 juin  |  Février-juillet 2021  |
+|**Du 1er au 2021 juin** |  FY20 H2  |  Juillet-Dec 2021  |  Août 2021-janvier 2022  |
+|**Juillet-Dec 2021**|  FY21 H1  |  Du 1er au 2022 juin  |  Février-juillet 2022  |
+|**Du 1er au 2022 juin** |  FY21 H2  |  Juillet-Dec 2022  |  Août 2022-janvier 2023  |
 
 >[!NOTE]
->Microsoft se réserve le droit de demander des documents PoE originaux. Conservez tous vos documents d’origine pendant une période de 24 mois à compter de la date de l’activité. 
+>Microsoft se réserve le droit de demander des documents de preuve d’exécution (PoE) originaux. Vous devez conserver tous vos documents d’origine pendant 24 mois après la date de l’activité.
 
-|**Pour ce faire**   |**Lisez cela**   |
-|-----------------|:--------------------------------------|
-|Envoyer une revendication et inclure la documentation appropriée|[Créer et gérer une revendication d’activité de programme d’incentives](create-incentives-claims.md)|
-|Une fois que vous avez envoyé la revendication, gérer les demandes de documentation supplémentaires|[Créer et gérer une revendication d’activité de programme d’incentives](create-incentives-claims.md)  |
-|Vérifiez que vous connaissez les exigences principales de la revendication d’activité.|[Connaître les exigences principales en matière de revendications d’incentives](core-requirements.md)   |
-|En savoir plus sur le programme d’incentives complet|[Guide de co-op des incentives partenaires](https://assets.microsoft.com/coop-guidebook.pdf)
-|Créer une association client et envoyer une revendication |[Créer une association de clients avec le modèle CPOR](submit-osa-claim.md)|
+Les ressources suivantes vous aideront à commencer à utiliser les revendications de la co-op marketing.
+
+| Action à réaliser | Lisez |
+| ------ | ----------- |
+| Soumettre une revendication |  [Créer et gérer une revendication de co-op de programme d’incentives](create-incentives-claims.md)  |
+| Gérer une revendication envoyée | [Créer et gérer une revendication de co-op de programme d’incentives](create-incentives-claims.md)    |
+| Comprendre les exigences principales de la revendication d’activité | [Exigences principales pour les activités dans votre programme d’incentives](core-requirements.md)   |
+| Consulter les détails de votre programme d’incentives | [Guide de co-op des incentives partenaires](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Créer une association client et envoyer une revendication | [Créer une association de clients avec le modèle CPOR](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Étapes suivantes
 
