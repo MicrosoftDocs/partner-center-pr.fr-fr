@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b972090c376399dfc474d74b8be5b03330ea0c1
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714403"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999303"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Forum aux questions concernant le paiement d’incentives et les profils fiscaux
 
@@ -39,7 +39,7 @@ Vous devrez peut-être également fournir des informations mises à jour si les 
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Comment communiquer/mettre à jour mes informations de paiement et/ou fiscales ?
 
-Pour plus d’informations sur la mise à jour des détails des paiements et des taxes dans l’espace partenaires, voir [créer et gérer des profils de paiement et de taxes dans l’espace partenaires](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md).
+Pour plus d’informations sur la mise à jour des détails des paiements et des taxes dans l’espace partenaires, voir [créer et gérer des profils de paiement et de taxes dans l’espace partenaires](./incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Pourquoi mes inscriptions ne sont-elles pas présentes quand je cherche à affecter mon profil de paiement et fiscal ?
 

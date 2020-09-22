@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3327ad560d38de042f42baf1f0a2daedda5d4ecf
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545640"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000463"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Autoriser les clients dans l’espace partenaires à acheter leurs propres produits ou services
 
@@ -52,7 +52,7 @@ Avant d’activer les autorisations des clients, notez les points importants sui
 
 - Vous pouvez activer les autorisations (activer) pour n’importe quel client de votre choix.
 
-- Vous pouvez activer (ou désactiver) les autorisations des clients à l’aide du tableau de bord de l’espace partenaires ou des API de l' [espace partenaires](https://docs.microsoft.com/partner-center/develop/manage-customers).
+- Vous pouvez activer (ou désactiver) les autorisations des clients à l’aide du tableau de bord de l’espace partenaires ou des API de l' [espace partenaires](/partner-center/develop/manage-customers).
 
 - Une fois que vous avez activé (activé) les autorisations pour un client spécifique, vous êtes chargé de payer les achats ultérieurs effectués par ce client. Si les clients souhaitent échanger, annuler ou renouveler un achat qu’ils ont effectué (ou qu’ils souhaitent modifier l’étendue initiale d’une réservation), ils ne peuvent pas le faire eux-mêmes. Ils doivent vous demander, en tant que partenaire, de les aider à échanger, annuler et renouveler des achats, ou apporter des modifications ultérieures à l’étendue d’une réservation.  
 
@@ -65,7 +65,7 @@ Avant d’activer les autorisations des clients, notez les points importants sui
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Accorder aux clients l’autorisation d’acheter leurs propres réservations Azure
 
-Les réservations Azure sont un excellent moyen d’acheter des services Azure à tarif réduit. Pour en savoir plus sur les avantages des réservations Azure, consultez [qu’est-ce que Azure reservations ?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+Les réservations Azure sont un excellent moyen d’acheter des services Azure à tarif réduit. Pour en savoir plus sur les avantages des réservations Azure, consultez [qu’est-ce que Azure reservations ?](/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
 Vous avez maintenant la possibilité d’acheter des réservations Azure pour le compte de vos clients, comme vous l’avez peut-être déjà fait. Ou, vous pouvez autoriser les clients à acheter leurs propres réservations Azure.
 
@@ -109,11 +109,11 @@ Pour vérifier que le rôle **propriétaire** d’un abonnement Azure a été at
 
 4. Sélectionnez le bouton **gérer** en regard de l’abonnement de ce client. Cela ouvre le [portail Azure](https://portal.azure.com/).
 
-5. Pour attribuer le rôle de **propriétaire** à un utilisateur spécifique, procédez comme suit [pour affecter un utilisateur en tant qu’administrateur](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator).
+5. Pour attribuer le rôle de **propriétaire** à un utilisateur spécifique, procédez comme suit [pour affecter un utilisateur en tant qu’administrateur](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator).
 
 ### <a name="turn-on-or-turn-off-customer-permissions-to-purchase-their-own-azure-reservations"></a>Activer ou désactiver les autorisations des clients pour acheter leurs propres réservations Azure
 
-Une fois que vous avez vérifié que le client dispose d’un abonnement Azure et que les utilisateurs se voient attribuer le rôle de **propriétaire** pour cet abonnement, vous êtes prêt à activer (activer) les autorisations des clients. Vous pouvez également utiliser ces étapes pour désactiver (désactiver) les autorisations des clients. Vous pouvez activer ou désactiver des autorisations client à l’aide du tableau de bord de l’espace partenaires ou des API de l' [espace partenaires](https://docs.microsoft.com/partner-center/develop/manage-customers).
+Une fois que vous avez vérifié que le client dispose d’un abonnement Azure et que les utilisateurs se voient attribuer le rôle de **propriétaire** pour cet abonnement, vous êtes prêt à activer (activer) les autorisations des clients. Vous pouvez également utiliser ces étapes pour désactiver (désactiver) les autorisations des clients. Vous pouvez activer ou désactiver des autorisations client à l’aide du tableau de bord de l’espace partenaires ou des API de l' [espace partenaires](/partner-center/develop/manage-customers).
 
 Pour activer (ou désactiver) les autorisations des clients dans l’espace partenaires :
 
@@ -151,7 +151,7 @@ Aidez les clients à comprendre plus sur la gestion de ces aspects des réservat
 
 **Les prix des clients paient leurs réservations.** Votre client achète des réservations Azure sur la base d’un abonnement que vous avez acheté précédemment dans votre compte de facturation de partenaire CSP. Le prix du client pour toutes les réservations Azure qu’il achète en fonction de cet abonnement est également défini par vous-même. Ce prix peut être différent du tarif direct Web que le client voit dans le Portail Azure.
 
-**Comment les clients peuvent optimiser leur utilisation d’une réservation.** Certains clients peuvent tirer parti d’en savoir plus sur l’optimisation de leur utilisation d’une réservation ou sur l’affectation de l’étendue initiale d’une réservation pendant son achat. Pour plus d’informations, demandez aux clients de lire [gérer des réservations pour les ressources Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+**Comment les clients peuvent optimiser leur utilisation d’une réservation.** Certains clients peuvent tirer parti d’en savoir plus sur l’optimisation de leur utilisation d’une réservation ou sur l’affectation de l’étendue initiale d’une réservation pendant son achat. Pour plus d’informations, demandez aux clients de lire [gérer des réservations pour les ressources Azure](/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
 
 **Que se passe-t-il lorsqu’un client achète une réservation avec une étendue partagée ?** Lorsque les clients achètent une réservation basée sur un abonnement CSP antérieur et affectent une étendue partagée à cette réservation, toute remise fournie par le client par le fournisseur de services Cloud s’applique à l’utilisation correspondante pour tous les abonnements que le partenaire CSP a achetés pour ce client.
 

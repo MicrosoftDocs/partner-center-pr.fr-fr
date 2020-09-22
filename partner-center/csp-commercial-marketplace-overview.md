@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444937"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000403"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Vue d’ensemble de la place de marché commerciale dans l’Espace partenaires
 
@@ -37,7 +37,7 @@ En tant que partenaire dans le programme CSP, vous pouvez utiliser l’espace pa
 
 Si vous êtes un partenaire du programme CSP, il existe de nombreuses activités commerciales de la place de marché que vous pouvez exécuter en ce qui concerne les offres ISV. Consultez le tableau suivant pour en savoir plus sur chaque activité.
 
-|**Si vous souhaitez**  |**Lire**   |
+|**Pour**  |**Lire**   |
 |:------------------------------------|:------------------|
 |Découvrez comment afficher ou rechercher les offres, les tarifs, les détails du produit ou les informations de contact du serveur de publication disponibles | [Découvrir les offres](csp-commercial-marketplace-discover.md) | 
 |En savoir plus sur l’achat et le déploiement d’une offre   | [Offres d’achat](csp-commercial-marketplace-purchase.md)   | 
@@ -47,15 +47,15 @@ Si vous êtes un partenaire du programme CSP, il existe de nombreuses activités
 |En savoir plus sur les contrats et les responsabilités des partenaires CSP et des éditeurs de logiciels indépendants dans la place de marché commerciale | [Comprendre les parties](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> Cette vue d’ensemble décrit comment les partenaires du programme CSP peuvent utiliser certaines fonctionnalités de la place de marché commercial dans l’espace partenaires. Contrairement aux partenaires dans le programme CSP, les éditeurs ISV ont un rôle de place de marché différent. Elles ont également différentes fonctionnalités de place de marché commercial disponibles dans l’espace partenaires. Pour en savoir plus sur le rôle des éditeurs ISV, consultez la vue d’ensemble de la place de [marché Azure commercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
+> Cette vue d’ensemble décrit comment les partenaires du programme CSP peuvent utiliser certaines fonctionnalités de la place de marché commercial dans l’espace partenaires. Contrairement aux partenaires dans le programme CSP, les éditeurs ISV ont un rôle de place de marché différent. Elles ont également différentes fonctionnalités de place de marché commercial disponibles dans l’espace partenaires. Pour en savoir plus sur le rôle des éditeurs ISV, consultez la vue d’ensemble de la place de [marché Azure commercial](/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
 
 ## <a name="where-to-complete-commercial-marketplace-activities"></a>Où terminer les activités de la place de marché commercial
 
-En tant que partenaire dans le programme CSP, vous pouvez effectuer de nombreuses activités de la place de marché commercial pour les offres SaaS ISV directement à partir du [tableau de bord](https://partner.microsoft.com/dashboard) de l’espace partenaires ou à l’aide des API de l' [espace partenaires](https://docs.microsoft.com/partner-center/develop/). Toutefois, pour effectuer d’autres activités de la place de marché, vous devrez peut-être accéder à :
+En tant que partenaire dans le programme CSP, vous pouvez effectuer de nombreuses activités de la place de marché commercial pour les offres SaaS ISV directement à partir du [tableau de bord](https://partner.microsoft.com/dashboard) de l’espace partenaires ou à l’aide des API de l' [espace partenaires](/partner-center/develop/). Toutefois, pour effectuer d’autres activités de la place de marché, vous devrez peut-être accéder à :
 
 - Le [portail de gestion Microsoft Azure](https://portal.azure.com/)
 
-    ou
+    Ou
 
 - Système ou site Web d’un éditeur ISV tiers
 

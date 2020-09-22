@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545650"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000373"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP
 
@@ -38,13 +38,13 @@ Vous pouvez consolider les locataires pour votre entreprise. Utilisez ces instru
 
 ## <a name="prepare-for-migration"></a>Préparation de la migration
 
-- Connectez-vous à l' **espace partenaires** à l’aide du compte de **transition** (celui que vous allez migrer vers le nouveau compte) et passez en revue tous les clients et tous les services approvisionnés pour ces clients.
+- Connectez-vous à l' **espace partenaires**  à l’aide du compte de **transition** (celui que vous allez migrer vers le nouveau compte) et passez en revue tous les clients et tous les services approvisionnés pour ces clients.
 
 - Déconnectez-vous de ce compte.
 
 ## <a name="migrate-customer-accounts"></a>Migrer des comptes client
 
-1. Connectez-vous à l' **espace partenaires** avec le compte de **transition** (nouveau) (celui vers lequel vous transférez des clients).
+1. Connectez-vous à l' **espace partenaires**  avec le compte de **transition** (nouveau) (celui vers lequel vous transférez des clients).
 
 2. Sélectionnez **Clients**.
 
@@ -144,8 +144,8 @@ Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vou
 
 ### <a name="api-registration"></a>Inscription d’API
 
-Pour plus d’informations sur l’inscription d’API, consultez [configurer l’accès aux API dans l’espace partenaires](https://go.microsoft.com/fwlink/?linkid=847990).
+Pour plus d’informations sur l’inscription d’API, consultez [configurer l’accès aux API dans l’espace partenaires](/partner-center/develop/set-up-api-access-in-partner-center).
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Configuration et gestion des comptes clients pour les partenaires revendeurs dans l’espace partenaires](customer-accounts.md)
+- [Configuration et gestion des comptes clients pour les partenaires revendeurs dans l’Espace partenaires](customer-accounts.md)

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58acef4599333929446a283ecde1cca9f3ef9ce8
-ms.sourcegitcommit: 983457c8e8fcfbfe48b80b1c86fe894c1e106eb3
+ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89443585"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000613"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Résoudre les problèmes de configuration de compte ou de renouvellement MPN
 
@@ -45,7 +45,7 @@ Ce message s’affiche parce que les utilisateurs viraux sont désactivés ou qu
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Pour plus d’informations, consultez [inscription en libre-service](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Pour plus d’informations, consultez [inscription en libre-service](/azure/active-directory/users-groups-roles/directory-self-service-signup)
 
 ## <a name="you-forgot-your-password"></a>Vous avez oublié votre mot de passe
 

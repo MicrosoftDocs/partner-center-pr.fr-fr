@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7533b0791ec8760c6223d6af59c2b7995b34a7bc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435058"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000503"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Acheter des produits de la place de marché commercial pour vos clients dans l’espace partenaires
 
@@ -40,7 +40,7 @@ Vous achetez des abonnements pour les produits SaaS basés sur des licences prop
 
 Pour acheter un abonnement SaaS basé sur une licence dans l’espace partenaires, consultez [créer, suspendre ou annuler des abonnements clients](create-a-new-subscription.md#create-a-new-subscription).
 
-Vous pouvez également utiliser les [API de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/) pour créer des abonnements de la place de marché commerciale pour vos clients. (Pour plus d’informations sur l’utilisation des API de l’espace partenaires, consultez [créer un abonnement pour les produits de la place de marché commercial](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).)
+Vous pouvez également utiliser les [API de l’Espace partenaires](/partner-center/develop/) pour créer des abonnements de la place de marché commerciale pour vos clients. (Pour plus d’informations sur l’utilisation des API de l’espace partenaires, consultez [créer un abonnement pour les produits de la place de marché commercial](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
 > En tant que partenaire dans le programme CSP, vous pouvez uniquement acheter des abonnements Saas **basés sur une licence** auprès d’éditeurs ISV au sein de l’espace partenaires. Cela signifie que vous pouvez acheter une offre SaaS basée sur une **licence** que l’éditeur ISV met à votre disposition, y compris les [offres exclusives](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) auxquelles vous avez accès. Pour acheter ou gérer d’autres offres de la place de marché commercial auprès d’éditeurs de logiciels (ISV) (telles que des offres basées sur l’utilisation, limitées ou basées sur **l’utilisation**impliquant des applications, des conteneurs ou des machines virtuelles Azure), vous devez accéder au [portail Azure](https://portal.azure.com/). Pour plus d’informations, consultez la rubrique suivante.

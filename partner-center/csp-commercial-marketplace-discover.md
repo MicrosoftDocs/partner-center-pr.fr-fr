@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 492c0358d75488a199c24b7f47931305b46a73a0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527725"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000413"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Découvrir les offres et la tarification dans la place de marché commercial de l’espace partenaires
 
@@ -70,7 +70,7 @@ Pour afficher les offres de la place de marché commercial disponibles dans le p
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Afficher les offres de la place de marché via les API de l’espace partenaires
 
-Les partenaires du programme CSP peuvent également utiliser des API pour retourner une liste d’offres éligibles. Les offres éligibles seront uniquement celles proposées par le partenaire pour vendre via la place de marché de l’espace partenaires. Pour les partenaires qui utilisent des API pour identifier les offres dans le catalogue, reportez-vous à l’aide pour [obtenir une liste des offres pour un marché](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+Les partenaires du programme CSP peuvent également utiliser des API pour retourner une liste d’offres éligibles. Les offres éligibles seront uniquement celles proposées par le partenaire pour vendre via la place de marché de l’espace partenaires. Pour les partenaires qui utilisent des API pour identifier les offres dans le catalogue, reportez-vous à l’aide pour [obtenir une liste des offres pour un marché](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Afficher les dernières offres de la place de marché dans l’espace partenaires
 
@@ -101,7 +101,7 @@ Toutefois, pour toute offre marquée comme exclusive, seuls les partenaires sél
 > [!NOTE]
 > Si vous voyez une offre marquée comme exclusive que vous souhaitez vendre à vos clients, contactez directement l’ISV et demandez l’autorisation de vendre l’offre exclusive. Lorsque vous affichez les détails d’une offre exclusive, vous pouvez voir un lien **ISV de contact** que vous pouvez sélectionner.
 
-Pour en savoir plus sur l’expérience ISV dans le Marketplace commercial, consultez [fournisseurs de solutions Cloud](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+Pour en savoir plus sur l’expérience ISV dans le Marketplace commercial, consultez [fournisseurs de solutions Cloud](/azure/marketplace/cloud-solution-providers).
 
 Pour plus d’informations sur l’expérience du fournisseur de services Cloud sur la place de marché, consultez [Présentation du marché commercial](csp-commercial-marketplace-overview.md).
 

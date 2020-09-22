@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366873"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000253"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gérez, annulez, échangez ou remboursez Microsoft Azure réservations pour les clients
 
@@ -33,7 +33,7 @@ ms.locfileid: "89366873"
 - Administrateur de la gestion des utilisateurs
 
 > [!NOTE]
-> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](/azure/cost-management-billing/reservations).
 
 Pour gérer les réservations Azure de vos clients, vous devez sélectionner le client et la réservation que vous souhaitez gérer dans l’espace partenaires, puis apporter des modifications à la réservation dans le Portail Azure.
 
@@ -46,7 +46,7 @@ Pour gérer les réservations Azure de vos clients, vous devez sélectionner le 
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **Vue d'ensemble**   | Affichez les détails de la réservation d’un client, y compris la date d’expiration, l’étendue et les données d’utilisation. **Remarque** Sélectionnez **remboursement** pour créer une demande de support pour un remboursement au prorata. Sélectionnez **Exchange** pour créer une demande de support afin d’échanger la partie inutilisée de votre terme de réservation.  
-    | **Access Control (IAM)**   | Gérez l’accès aux informations de réservation du client.|
+    | **Contrôle d’accès (IAM)**   | Gérez l’accès aux informations de réservation du client.|
     | **Configuration**   | Modifiez l’étendue de la réservation et/ou l’abonnement Azure auquel la réservation est associée.    |
     | **Propriétés**   | Affichez les propriétés de la réservation et copiez dans le presse-papiers l’ID de réservation et l’ID de commande de réservation. **Remarque** La prise en charge peut vous demander l’ID de réservation et l’ID de commande de réservation lorsque vous demandez un support pour le compte d’un client.    |
     | **Nouvelle demande de support**    | Demandez de l’aide à partir de Support Microsoft.   |
@@ -107,6 +107,5 @@ Pour traiter une demande de support pour un remboursement ou un échange pour le
 |Vue d’ensemble des réservations Azure dans CSP  | [Vendre Microsoft Azure des instances réservées](azure-reservations.md) |
 |Achat de réservations Azure pour vos clients dans l’espace partenaires   | [Acheter des réservations Azure](azure-reservations-buying.md) |
 |Déterminer la taille de machine virtuelle correcte et vérifier l’utilisation de la machine virtuelle client   | [Dimensionnement des machines virtuelles pour l’utilisation maximale de la réservation Azure](azure-usage.md)   |
-|Achat de réservations Azure à l’aide de l’API espace partenaires | [Acheter Azure reserved VM instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation du développeur de l’espace partenaires   |
+|Achat de réservations Azure à l’aide de l’API espace partenaires | [Acheter Azure reserved VM instances](/partner-center/develop/purchase-azure-reservations) dans la documentation du développeur de l’espace partenaires   |
 |Accorder aux clients l’autorisation d’acheter leurs propres réservations Azure à partir d’un abonnement que vous avez acheté pour eux. | [Accorder aux clients l’autorisation d’acheter leurs propres réservations Azure](give-customers-permission.md)   |
-

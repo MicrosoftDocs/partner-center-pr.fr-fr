@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b363f68fadf29024def3488dbe1ccbb334ea1907
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947657"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000393"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Vendre des abonnements Office 365 Government GCC pour CSP à des clients qualifiés
 
@@ -29,7 +29,7 @@ ms.locfileid: "85947657"
 - Agent d’administration
 - Agent commercial
 
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 Les partenaires Microsoft du programme fournisseur de solutions Cloud (CSP) peuvent vendre des abonnements [Office 365 Government GCC pour CSP à des](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) clients qualifiés. Office 365 Government GCC pour CSP est conçu pour répondre aux besoins uniques des organisations gouvernementales américaines et fournit toutes les fonctionnalités et fonctionnalités des services Office 365 dans une communauté de clouds du secteur public, qui permet aux entreprises de répondre aux normes de conformité et de sécurité de l’administration des États-Unis. 
 
@@ -50,8 +50,7 @@ Accédez aux informations sur l' [opportunité de partenaire du gouvernement am�
 
 Ressources du produit :
 
-- [Description du service Office 365 Government](https://technet.microsoft.com/library/mt774581.aspx)
+- [Description du service Office 365 Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Centre de gestion de la confidentialité Microsoft](https://www.microsoft.com/TrustCenter/)
 - [Portail Microsoft Service Trust](https://aka.ms/STP)
-

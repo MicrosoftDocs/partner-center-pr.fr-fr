@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280536"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999293"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion des défauts de paiement, des fraudes ou des utilisations abusives dans l’Espace partenaires
 
@@ -79,7 +79,7 @@ Les suggestions pour réduire les risques en ligne lors de l’intégration de n
 - Utilisez Multi-Factor Authentication (par exemple, la vérification SMS) lors de l’inscription pour réduire l’exposition à la création et à l’achat d’un compte robotique.
 - Gérez et suivez les identités à l’aide de services (tels que les services d’identité numérique).
 - Évaluez la force financière du client par le biais de systèmes de détection des fraudes de carte de crédit rigoureux.
-- Établissez une stratégie effacer les regroupements. Détaillez votre processus de collecte et lorsque l’accès aux abonnements sera affecté par un non-paiement. (Vous pouvez désactiver l’accès ou [suspendre les abonnements d’un client](suspend-a-subscription.md) en cas de non-paiement.)
+- Établissez une stratégie effacer les regroupements. Détaillez votre processus de collecte et lorsque l’accès aux abonnements sera affecté par un non-paiement. (Vous pouvez désactiver l’accès ou [suspendre les abonnements d’un client](create-a-new-subscription.md#suspend-a-subscription) en cas de non-paiement.)
 
 ### <a name="managing-customer-accounts"></a>Gestion des comptes client
 

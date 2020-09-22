@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ff6252ce36e68f2f17115460a97fa4928daf029
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89570623"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999333"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Que faire si le seul administrateur de votre programme MPN a quitté l’entreprise ?
 
@@ -48,7 +48,7 @@ Si vous accédez à la page de **gestion des utilisateurs** et que vous filtrez 
 
 ## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Scénario 3 : administrateur de partenaire MPN/administrateur de compte/administrateur général a quitté l’entreprise et aucun autre utilisateur ne peut accéder à la Azure AD de la société. Il s’agit d’une perte d’accès complète.
 
-Suivez les étapes de l' [administrateur](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) pour prendre le contrôle d’un annuaire non géré en tant qu’administrateur Azure Active Directory.
+Suivez les étapes de l' [administrateur](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) pour prendre le contrôle d’un annuaire non géré en tant qu’administrateur Azure Active Directory.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Vous ne savez pas si votre entreprise a déjà un compte professionnel ?
 

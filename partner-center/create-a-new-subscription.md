@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527802"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000523"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -80,7 +80,7 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
    
 ## <a name="update-subscriptions-with-add-ons"></a>Mettre à jour les abonnements avec des modules complémentaires 
 
-Pour acheter un module complémentaire, le client doit d’abord disposer d’un abonnement de base actif.  Vous ne pouvez pas acheter des modules complémentaires par le biais du catalogue.
+Pour acheter un module complémentaire, le client doit d’abord disposer d’un abonnement de base actif.  Vous ne pouvez pas acheter de modules complémentaires par le biais du catalogue.
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
@@ -93,9 +93,9 @@ Pour acheter un module complémentaire, le client doit d’abord disposer d’un
 5. Mettez à jour le nombre de licences pour chaque module complémentaire requis. Ensuite, **envoyez** vos modifications.
 
 La possibilité d’acheter des modules complémentaires via l’espace partenaires n’est disponible que pour les fournisseurs directs et indirects.
-Seuls les modules complémentaires éligibles sont affichés en fonction des exigences de base et de la disponibilité régionale. Pour plus d’informations sur la tarification et les offres, reportez-vous à la matrice de l’offre du revendeur Cloud.  La suspension de l’abonnement de base interrompt également tous les modules complémentaires associés.
+Seuls les modules complémentaires éligibles sont affichés en fonction des exigences de base et de la disponibilité régionale. Pour plus d’informations sur les prix et les offres, consultez la matrice d’offres de revendeur cloud.  La suspension de l’abonnement de base suspend également tous les modules complémentaires associés.
 
-Les dates de début des modules complémentaires s’alignent sur l’abonnement de base et les frais sont calculés à partir de la date de début et de la date de fin des frais avec des frais au prorata sur la première facture. Pour plus d’informations, consultez [facturation basée sur une licence](license-based-billing.md).
+Les dates de début des modules complémentaires s’alignent sur l’abonnement de base, et les frais sont calculés à partir de la date de début de frais et de la date de fin de frais, avec des frais au prorata sur la première facture. Pour plus d’informations, consultez [facturation basée sur une licence](license-based-billing.md).
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspendre ou annuler un abonnement
@@ -154,7 +154,7 @@ Pour annuler un abonnement SaaS basé sur une licence auprès d’un éditeur de
 6. Pour confirmer l’annulation, sélectionnez **Oui, annuler**.
 
 > [!NOTE]
-> Vous pouvez également choisir d’annuler un abonnement à la place de marché Azure à l’aide d’API. Pour ce faire, consultez [annuler un abonnement Azure Marketplace](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).
+> Vous pouvez également choisir d’annuler un abonnement à la place de marché Azure à l’aide d’API. Pour ce faire, consultez [annuler un abonnement Azure Marketplace](/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Choisir de renouveler automatiquement un abonnement à la place marché commerciale
 

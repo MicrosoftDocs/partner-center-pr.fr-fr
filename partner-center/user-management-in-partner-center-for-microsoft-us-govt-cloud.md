@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0ede199da0c18c8c73b01cbdc4a8447f842747a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949527"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000313"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestion des utilisateurs et des licences dans l’Espace partenaires pour Microsoft Cloud for US Government
 
@@ -41,11 +41,11 @@ Une fois que vous êtes correctement connecté à la Portail Azure pour Microsof
 > [!NOTE]  
 > Sélectionnez les liens ci-dessous pour accéder à un autre site Web. 
 
--  [**Ajout de nouveaux utilisateurs à Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [**Ajout de nouveaux utilisateurs à Azure Active Directory**](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Affecter un utilisateur à des rôles d’administrateur dans Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**Attribuer des rôles d’administrateur à un utilisateur dans Azure Active Directory**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Réinitialiser le mot de passe d’un utilisateur dans Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [**Réinitialiser le mot de passe d’un utilisateur dans Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Rubriques connexes**
 

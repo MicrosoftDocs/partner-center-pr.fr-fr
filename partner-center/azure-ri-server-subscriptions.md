@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b8a9cf07f8dace47346c68ade3707d6b12a1532
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.openlocfilehash: 3c08e897a8f5d7c11b36627b0c24ad2da3f92329
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900090"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000203"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquérir, approvisionner & gérer des instances de machine virtuelle réservées Azure (RI) + abonnements serveur pour les clients
 
@@ -31,12 +31,12 @@ S’applique à :
 - Administrateur de la gestion des utilisateurs
 
 > [!NOTE]
-> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](/azure/cost-management-billing/reservations).
 
 
 ## <a name="what-are-azure-reservations"></a>Qu’est-ce qu’une réservation Azure ?
 
-Azure Reservations vous aident à économiser de l’argent en prépayeant une machine virtuelle d’un an ou trois ans, SQL Database de la capacité de calcul, le débit Azure Cosmos DB ou d’autres ressources Azure. Le prépaiement vous permet d’obtenir une remise sur les ressources que vous utilisez. Les réservations peuvent réduire de façon significative votre machine virtuelle, votre calcul SQL Database, Azure Cosmos DB et d’autres coûts de ressources jusqu’à 72% par rapport aux tarifs du paiement à l’accès. Des réservations permettent de bénéficier d’une remise sur la facturation et n’ont aucune incidence sur l’état de runtime de vos ressources. Pour plus d’informations, voir [qu’est-ce que Azure reservations ?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Azure Reservations vous aident à économiser de l’argent en prépayeant une machine virtuelle d’un an ou trois ans, SQL Database de la capacité de calcul, le débit Azure Cosmos DB ou d’autres ressources Azure. Le prépaiement vous permet d’obtenir une remise sur les ressources que vous utilisez. Les réservations peuvent réduire de façon significative votre machine virtuelle, votre calcul SQL Database, Azure Cosmos DB et d’autres coûts de ressources jusqu’à 72% par rapport aux tarifs du paiement à l’accès. Des réservations permettent de bénéficier d’une remise sur la facturation et n’ont aucune incidence sur l’état de runtime de vos ressources. Pour plus d’informations, voir [qu’est-ce que Azure reservations ?](/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Pourquoi les clients doivent-ils acheter une réservation ?
 
@@ -60,7 +60,7 @@ Avec une combinaison non appariée de tarification attrayante et une flexibilit�
 - Réservations SQL DB
 - Instance managée SQL
 - Azure Cosmos DB
-- Azure SQL Data Warehouse.
+- Azure SQL Data Warehouse
 - App Services
 - Azure Databricks des réservations d’unités
 - Disque managé
@@ -93,7 +93,7 @@ Pour comprendre comment positionner Azure Reservations avec vos clients et que v
 1. Passez en revue les présentations et les webinaires associés à la proposition de valeur client et au positionnement
 2. Examiner et comprendre le Guide d’exploitation moderne du commerce
 3. Passer en revue les questions fréquentes sur Azure RI et les abonnements serveur
-4. Comprendre les mises à jour pour les Azure Reservations et les abonnements serveur dans l' [API espace partenaires (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+4. Comprendre les mises à jour pour les Azure Reservations et les abonnements serveur dans l' [API espace partenaires (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="resources"></a>Ressources
 
@@ -106,22 +106,22 @@ Vous trouverez ci-dessous une liste complète des ressources qui vous aideront �
 - [FAQ sur les partenaires pour Azure Reservations](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [FAQ sur les partenaires pour Azure Reservations et SQL DB](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Licence d’accès client (CAL) Services Bureau à distance (RDS) (annonce)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Azure Reserved VM Instances (Portail Azure)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Reserved VM Instances (Portail Azure)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [Abonnements serveur](csp-software-subscriptions.md)
 - [Vue d’ensemble de SQL DB dans Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Réservations SQL DB (Portail Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
-- [Azure Cosmos DB (Portail Azure)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [Managed Instance SQL (Portail Azure)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
-- [SUSE et Red Hat Enterprise Linux (Portail Azure)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Réservations SQL DB (Portail Azure)](/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (Portail Azure)](/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Managed Instance SQL (Portail Azure)](/azure/sql-database/sql-database-managed-instance)
+- [SUSE et Red Hat Enterprise Linux (Portail Azure)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Red Hat Linux sur Azure](https://azure.com/redhat)
 - [SUSE Linux sur Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
 - [Linux sur Azure](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Présentation de la tarification Azure](https://azure.microsoft.com/pricing/)
 - [Calcul des coûts Azure](https://azure.microsoft.com/pricing/calculator)
-- [Azure Databricks des réservations d’unités](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks des réservations d’unités](/azure/billing/billing-prepay-databricks-reserved-capacity)
 - Tarifs CSP : les listes de prix des **abonnements** Microsoft Azure et des **instances réservées** sont situées dans la page tarifs de l’espace partenaires [& offres](https://partner.microsoft.com/pcv/sales) .
 
-### <a name="training"></a>Entrainement
+### <a name="training"></a>Formation
 
 Inscrivez-vous pour consulter les [webinaires commerciaux](https://commercial-licensing.eventbuilder.com/FY2019_ALL) et les événements à la demande.
 
@@ -134,17 +134,17 @@ Les événements à la demande de disponibilité des licences incluent des rubri
 
 D’autres formations utiles incluent le [module de licence Azure sur l’Université partenaire](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Opérations
+### <a name="operations"></a>Operations
 
 - [Guide des opérations du commerce moderne](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (mis à jour) : Guide complet couvrant la stratégie clé et les aspects opérationnels, tels que les contrats, le classement via l’espace partenaires, la facture, les détails des tarifs, les incentives, le fichier de rapprochement, les API/SDK, le bac à sable et les services partagés partenaires Azure.
 - [Matrice de disponibilité des pays et devise client pour les offres modernes](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
-- [Vendre Microsoft Azure des instances réservées](https://go.microsoft.com/fwlink/?linkid=872806)
-- [Acheter des réservations Microsoft Azure pour vos clients](https://go.microsoft.com/fwlink/?linkid=872807)
-- [Gérer des réservations Azure pour le compte de vos clients](https://go.microsoft.com/fwlink/?linkid=872808)
+- [Vendre Microsoft Azure des instances réservées](azure-reservations.md)
+- [Acheter des réservations Microsoft Azure pour vos clients](azure-reservations-buying.md)
+- [Gérer des réservations Azure pour le compte de vos clients](azure-reservations-manage.md)
 - [Facturation des réservations Azure](azure-plan-billing.md)
-- [Dimensionnement d’une machine virtuelle en vue d’une utilisation optimale de la réservation](https://go.microsoft.com/fwlink/?linkid=872810)
-- [API espace partenaires (API/Kit de développement logiciel)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Services Bureau à distance](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [Dimensionnement d’une machine virtuelle en vue d’une utilisation optimale de la réservation](azure-usage.md)
+- [API espace partenaires (API/Kit de développement logiciel)](/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [Services Bureau à distance](/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Azure Hybrid Benefit
 

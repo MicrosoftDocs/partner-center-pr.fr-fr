@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54301590ce6be6d9076d1fb337979148455f25f6
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302306"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000013"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Vue d’ensemble et FAQ de l’application Partner Center Analytics pour Power BI (partenaires directs dans CSP)
 
@@ -56,7 +56,7 @@ Nous vous recommandons de consulter les réponses aux questions les plus fréque
 | Quel est le coût de l’application ? | L’application elle-même est gratuite. Pour afficher un aperçu de l’application, vous pouvez vous [inscrire à la service Power bi gratuite et l'](https://go.microsoft.com/fwlink/p/?linkid=845347) utiliser pour personnaliser les rapports et les tableaux de bord. Pour permettre à d’autres personnes de votre entreprise d’utiliser l’application, vous devez disposer d’un abonnement actif à Microsoft Power BI Professional ou Microsoft Power BI Premium. |
 | Qui peut se connecter à l’application Partner Center Analytics ? | Cette version de l’application est conçue pour les partenaires directs (niveau 1) dans le programme du fournisseur de solutions Cloud. Vous êtes partenaire direct si vous travaillez directement avec Microsoft et avec des clients. Pour installer l’application, vous devez être administrateur général, agent admin ou administrateur de facturation pour le compte de votre société. |
 | Je suis un fournisseur indirect ; puis-je utiliser l’application ? | Oui. Votre administrateur général, votre agent admin ou votre administrateur de facturation peut installer l’application et voir les données relatives à vos clients directs. Les versions ultérieures peuvent inclure des fonctionnalités qui vous permettront également de voir des données concernant vos revendeurs indirects. |
-| Comment puis-je en savoir plus sur les futures mises en production ? | Les annonces et les versions préliminaires sont mises à disposition par le biais du programme d’adoption de l’espace partenaires. Vous pouvez également partager vos commentaires par le biais du programme early adopter. Si vous n’avez pas déjà participé au programme, Découvrez comment vous joindre. Consultez [rejoindre l’API de l’espace partenaires et le programme d’adoption précoce du kit de développement logiciel (SDK)](https://docs.microsoft.com/partner-center/develop/early-adopter-program).  |
+| Comment puis-je en savoir plus sur les futures mises en production ? | Les annonces et les versions préliminaires sont mises à disposition par le biais du programme d’adoption de l’espace partenaires. Vous pouvez également partager vos commentaires par le biais du programme early adopter. Si vous n’avez pas déjà participé au programme, Découvrez comment vous joindre. Consultez [rejoindre l’API de l’espace partenaires et le programme d’adoption précoce du kit de développement logiciel (SDK)](/partner-center/develop/early-adopter-program).  |
 | Qui peut personnaliser les tableaux de bord et les rapports dans l’application ? | Seul l’administrateur général, l’agent admin ou l’administrateur de facturation qui a installé l’application peut personnaliser le tableau de bord ou créer des rapports dans l’interface Web Power BI. |
 | Qui peut afficher les tableaux de bord et les rapports dans l’application ? | L’administrateur général, l’agent admin ou l’administrateur de facturation qui a installé l’application peut partager les données de l’application avec toute personne disposant d’un abonnement actif à Microsoft Power BI professionnel ou Microsoft Power BI Premium. |
 | Puis-je utiliser l’application pour afficher les données de plusieurs locataires de Azure AD, entre différents emplacements ? | Avec cette version, vous pouvez afficher uniquement les données du locataire Azure AD auquel votre administrateur général ou votre agent d’administration est connecté. | 

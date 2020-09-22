@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114144"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000073"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Déplacement de plusieurs sociétés vers l’espace partenaires à partir du Partner Membership Center (PMC)
 
@@ -93,4 +93,4 @@ Lorsque vous affichez votre profil, vous voyez les informations relatives à vot
 - [Attribuer des rôles et des autorisations aux utilisateurs](permissions-overview.md)
 - [Gérer les programmes dont vous êtes membre](renew-mpn-offers.md)
 - [Créer le profil commercial de votre société](create-a-marketing-profile.md)
-- [Entrer en contact avec les clients via des références](responding-to-referrals.md)
+- [Entrer en contact avec les clients via des références](manage-leads.md)

@@ -8,12 +8,12 @@ description: Synchroniser vos références dans l’espace partenaires avec votr
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4f636da49504c69c1e0e44c176fb76a4d7f8a78e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527832"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000593"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -31,10 +31,10 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 |**Rubriques**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
-|Co-vente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Prêt pour la co-vente|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Compte Espace partenaires|L’ID MPN associé au locataire de l’espace partenaires doit être identique à l’ID MPN associé à votre solution de covente. Vérifiez que vous pouvez voir vos références de covente dans le portail espace partenaires avant de déployer les connecteurs.|[Gérer votre compte](create-user-accounts-and-set-permissions.md)|
 |Rôles d’utilisateur de l’Espace partenaires|L’employé qui va installer et utiliser les connecteurs doit être un administrateur de références|[Affecter des rôles et des autorisations aux utilisateurs](create-user-accounts-and-set-permissions.md)|
-|CRM Salesforce|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Salesforce CRM](https://docs.microsoft.com/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|CRM Salesforce|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |Gestion de l’alimentation-automatiser le compte|Un compte Active [Power automate](https://flow.microsoft.com) actif pour l’administrateur système ou le personnalisateur système CRM. Cet utilisateur doit se connecter à [Power automate](https://flow.microsoft.com) au moins une fois avant l’installation.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installer la synchronisation des références de l’espace partenaires pour Salesforce CRM
@@ -115,7 +115,7 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 1. Pour inscrire votre URL, sélectionnez **inscription du webhook de l’espace partenaires (version préliminaire)** alimentation automatiser le Flow.
 
-2. Ajouter des connexions pour (a.) Utilisateur de l’espace partenaires avec des références d’administrateur d’administration (b.) Événements de l’espace partenaires mis en surbrillance ci-dessous
+2. Ajoutez des connexions pour (a.) utilisateur de l’espace partenaires avec les références d’administrateur (b.) des événements de l’espace partenaires comme indiqué ci-dessous
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Déclencheur":::
 
@@ -177,7 +177,7 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
 
 3. Pour personnaliser les champs pour la synchronisation des références de CRM à PC pour les événements de mise à jour :
 
-   1. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
+   1. Sélectionnez **modifier**  pour modifier/personnaliser le Flow automatiser l’alimentation.
 
    2. Sélectionnez **(étendue) synchroniser l’opportunité**.
 
@@ -189,7 +189,7 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
 
 4. Pour personnaliser les champs de la synchronisation de référence de CRM à PC pour les événements de création ?
 
-   1. Sélectionnez **modifier** pour modifier/personnaliser le Flow automatiser l’alimentation.
+   1. Sélectionnez **modifier**  pour modifier/personnaliser le Flow automatiser l’alimentation.
 
    2. Sélectionnez **(étendue) synchronisation des références.**
 
@@ -298,7 +298,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
        - « Comment Microsoft peut-il m’aider ? » : sélectionnez l’une des options suivantes :
        - Produits : ID de solution du produit
 
-   4. Une fois que vous avez défini l’option **synchroniser l’opportunité avec l’espace partenaires** sur **Oui**, patientez 10 minutes, connectez-vous à votre compte espace partenaires. Vos références seront synchronisées avec Salesforce CRM.
+   4. Une fois que vous avez défini l’option  **synchroniser l’opportunité avec l’espace partenaires** sur **Oui**, patientez 10 minutes, connectez-vous à votre compte espace partenaires. Vos références seront synchronisées avec Salesforce CRM.
 
    5. Lorsque l’option « synchroniser avec l’espace partenaires » est définie sur « Oui », si vous mettez à jour l’opportunité dans Salesforce CRM, les modifications sont synchronisées avec votre compte espace partenaires.
 
@@ -322,10 +322,10 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [En savoir plus sur la plateforme Microsoft Power Automated ?](https://docs.microsoft.com/-automate/)
+- [En savoir plus sur la plateforme Microsoft Power Automated ?](/-automate/)
 
 - [Gérer les prospects](manage-leads.md)
 
 - [Gérer les opportunités de covente](manage-co-sell-opportunities.md)
 
-- [Webhooks de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [Webhooks de l’Espace partenaires](/partner-center/develop/partner-center-webhooks)

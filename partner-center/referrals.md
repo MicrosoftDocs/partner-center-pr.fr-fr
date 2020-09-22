@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4ee9d084d0afca9dfdba5cae9c6e060747d8e0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436608"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999133"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Développer votre activité avec des références de Microsoft
 
@@ -26,6 +26,7 @@ De nombreux clients recherchent des experts qualifiés capables de les aider à 
 
 Nous souhaitons vous mettre en contact avec les clients qui ont besoin de vos solutions et votre expertise. Pour commencer à obtenir des prospects de notre part, l’étape la plus importante consiste pour vous à [créer un profil commercial](create-a-marketing-profile.md) qui présente les offres, les solutions et les compétences de votre entreprise. Votre profil commercial s’affichera dans tous les emplacements où les clients et les agents commerciaux Microsoft en interne recherchent des partenaires qualifiés. 
 
- Une fois votre profil commercial publié, vous commencerez à recevoir des prospects via la fonctionnalité Références de l’Espace partenaires. Il est important de répondre aux références dans les délais fixés pour continuer à recevoir ces prospects et, plus important encore, pour conclure des marchés. Pour plus d’informations sur la gestion des prospects dans l’Espace partenaires, consultez [Réponse aux références](responding-to-referrals.md).  
+ Une fois votre profil commercial publié, vous commencerez à recevoir des prospects via la fonctionnalité Références de l’Espace partenaires. Il est important de répondre aux références dans les délais fixés pour continuer à recevoir ces prospects et, plus important encore, pour conclure des marchés. Pour plus d’informations sur la gestion des prospects dans l’Espace partenaires, consultez [Réponse aux références](manage-leads.md).  
 
-Pour commencer, regardez cette brève vidéo sur l’[optimisation de votre profil commercial](https://player.vimeo.com/video/252788046).  
+
+Pour commencer, regardez cette brève vidéo sur l’[optimisation de votre profil commercial](https://player.vimeo.com/video/252788046).

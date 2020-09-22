@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7551d3d010bfb7a4bd96b425d0afbf16ab8ebb1d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9964dd4fb1ae96e890dd357a045acdb152fb95f1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434078"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999103"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Inscrivez les demandes que vous avez remportées dans l’espace partenaires pour pouvoir obtenir davantage d’opportunités ultérieurement
 
@@ -24,7 +24,7 @@ ms.locfileid: "86434078"
 
 Vous pouvez enregistrer les transactions que vous avez conclues dans l’Espace partenaires en fournissant des informations supplémentaires sur le contrat. Ces informations nous permettent de vous proposer ensuite plus d’opportunités.
 
-Pour certaines solutions éligibles, après avoir sélectionné **Conclu** dans le [processus de réponse de référence](responding-to-referrals.md), vous serez invité à fournir des informations supplémentaires afin de pouvoir enregistrer votre transaction. Microsoft examinera les informations que vous avez fournies et pourra vous demander des renseignements complémentaires.
+Pour certaines solutions éligibles, après avoir sélectionné **Conclu** dans le [processus de réponse de référence](manage-leads.md), vous serez invité à fournir des informations supplémentaires afin de pouvoir enregistrer votre transaction. Microsoft examinera les informations que vous avez fournies et pourra vous demander des renseignements complémentaires.
 
 Vous pouvez également enregistrer les nouvelles transactions conclues utilisant l’une de vos solutions, même si elles ne font pas suite à une [référence](referrals.md). 
 
@@ -64,6 +64,6 @@ Sur la page **Références > Enregistrement des transactions > En cours** s'affi
 
 Si des informations doivent être mises à jour, vous pouvez déplacer l’enregistrement de la transaction vers la page **Action requise**.
 
-### <a name="closed"></a>Fermé
+### <a name="closed"></a>Fermés
 
 Sur la page **Références > Enregistrements des transactions > Clos** s'affichent les transactions enregistrées et examinées par Microsoft. Vous pouvez utiliser les filtres pour afficher uniquement les enregistrements de transactions **Approuvés** ou **Refusés**.

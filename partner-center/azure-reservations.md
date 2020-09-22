@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 7f6ca7aa7dddbd9e32690928ee8d48afa5071b14
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367033"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000233"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vendez des Microsoft Azure des réservations aux clients à l’aide de l’espace partenaires, des Portail Azure ou des API
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367033"
 - Administrateur de la gestion des utilisateurs
 
 > [!NOTE]
-> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](/azure/cost-management-billing/reservations).
 
 Les partenaires du programme CSP peuvent offrir à leurs clients Microsoft Azure des réservations. Les clients peuvent gagner des économies importantes lorsqu’ils se réservent à l’avance. Les réservations Azure offrent la simplicité et la flexibilité des clients des manières suivantes :
 
@@ -56,9 +56,9 @@ Les réservations Azure peuvent être appelées par les clients des manières su
 
 |**Pour obtenir des informations sur**   |**Lisez cela**    |
 |:-----------------------------|:-----------------|
-| Documentation sur les réservations Azure pour vos clients | [Qu’est-ce qu’une réservation Azure ?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| Documentation sur les réservations Azure pour vos clients | [Qu’est-ce qu’une réservation Azure ?](/azure/billing/billing-save-compute-costs-reservations)
 |Achat de réservations Azure pour vos clients dans l’espace partenaires   |[Acheter des réservations Azure](azure-reservations-buying.md)
 |Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)
 |Détermination de la taille de machine virtuelle correcte et vérification de l’utilisation de la machine virtuelle client   |[Dimensionnement des machines virtuelles pour l’utilisation maximale de la réservation Azure](azure-usage.md)   |
-|Achat de réservations Azure à l’aide de l’API espace partenaires | [Acheter Azure reserved VM instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation du développeur de l’espace partenaires   |
+|Achat de réservations Azure à l’aide de l’API espace partenaires | [Acheter Azure reserved VM instances](/partner-center/develop/purchase-azure-reservations) dans la documentation du développeur de l’espace partenaires   |
 |Accorder aux clients l’autorisation d’acheter leurs propres réservations Azure à partir de votre abonnement CSP. | [Accorder aux clients l’autorisation d’acheter leurs propres réservations Azure](give-customers-permission.md)   |

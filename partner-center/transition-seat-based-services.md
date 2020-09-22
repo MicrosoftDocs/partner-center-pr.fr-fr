@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811129"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000633"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Déplacez les clients basés sur des licences à partir d’autres canaux & partenaires vers le programme du fournisseur de solutions Cloud
 
@@ -34,7 +34,7 @@ Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonne
 
 
    >[!NOTE]
-   >Le client peut avoir droit à un crédit s’il est acheté via le portail d’administration Microsoft 365 (M365) (par exemple, par le biais d’une facturation mensuelle ou annuelle directe de Microsoft). Les crédits des abonnements achetés directement auprès de Microsoft sont gérés par le **support de facturation M365**. Pour plus d’informations sur l' [annulation de votre abonnement M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription), consultez M365 Guidance. Si vous avez délégué des privilèges d’administration pour le client, vous pouvez contacter le support technique M65 pour le compte de votre client. Si ce n’est pas le cas, demandez à votre client de contacter le support M365 directement pour connaître le nombre de crédits éligibles et la façon dont ce crédit lui sera attribué. Lire les informations sur les [privilèges d’administrateur délégué](customers-revoke-admin-privileges.md).
+   >Le client peut avoir droit à un crédit s’il est acheté via le portail d’administration Microsoft 365 (M365) (par exemple, par le biais d’une facturation mensuelle ou annuelle directe de Microsoft). Les crédits des abonnements achetés directement auprès de Microsoft sont gérés par le **support de facturation M365**. Pour plus d’informations sur l' [annulation de votre abonnement M365](/microsoft-365/commerce/subscriptions/cancel-your-subscription), consultez M365 Guidance. Si vous avez délégué des privilèges d’administration pour le client, vous pouvez contacter le support technique M65 pour le compte de votre client. Si ce n’est pas le cas, demandez à votre client de contacter le support M365 directement pour connaître le nombre de crédits éligibles et la façon dont ce crédit lui sera attribué. Lire les informations sur les [privilèges d’administrateur délégué](customers-revoke-admin-privileges.md).
 
 
 4. Le client continuera ensuite avec les abonnements que vous avez configurés sans interruption.

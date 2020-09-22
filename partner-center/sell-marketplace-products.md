@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b37e1ffef291defec0cba03aa9306f7bc82f5cd9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436568"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999963"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Utiliser l’Espace partenaires pour vendre des abonnements clients à des produits de la Place de marché commerciale
 
@@ -29,4 +29,4 @@ Cela peut vous aider à différencier votre entreprise et à fournir à vos clie
 
 Pour en savoir plus sur la façon dont les partenaires du programme CSP peuvent utiliser le Marketplace commercial, consultez la [vue d’ensemble du Marketplace commercial pour les fournisseurs de solutions Cloud](csp-commercial-marketplace-overview.md).
 
-Ou, pour en savoir plus sur les différents rôles des éditeurs de logiciels indépendants dans la place de marché commercial, consultez le [Forum aux questions](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)sur la place de marché.
+Ou, pour en savoir plus sur les différents rôles des éditeurs de logiciels indépendants dans la place de marché commercial, consultez le [Forum aux questions](/azure/marketplace/marketplace-faq-publisher-guide)sur la place de marché.

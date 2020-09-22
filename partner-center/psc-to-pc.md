@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848263"
+ms.locfileid: "90999343"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -40,12 +40,12 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 ### <a name="if-you-are-psc-admin"></a>Si vous êtes administrateur PSC
 
 - Vous avez besoin d’un e-mail professionnel pour vous connecter à l' [espace partenaires](https://partner.microsoft.com/).
-- Configurez votre compte avec l’aide de l' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview)de l’espace partenaires.
+- Configurez votre compte avec l’aide de l' [administrateur de compte](permissions-overview.md)de l’espace partenaires.
 - Découvrez comment vendre en collaboration dans l’espace partenaires en lisant ce document.
-- Configurez des comptes d’utilisateur dans l’espace partenaires pour tous les utilisateurs de votre PSC (rôles Admin, Deal Manager et seller) et attribuez-leur des [rôles d’administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview).
+- Configurez des comptes d’utilisateur dans l’espace partenaires pour tous les utilisateurs de votre PSC (rôles Admin, Deal Manager et seller) et attribuez-leur des [rôles d’administrateur de référence](permissions-overview.md).
 
 >[!Important]
-> Assurez-vous que l’ID MPN affiché dans la bannière du PSC est disponible dans la liste des emplacements MPN dans l’espace partenaires. Vous pouvez vérifier que dans l’espace partenaires, accédez à « paramètres du compte » et à « emplacements » sous cet[emplacement](https://docs.microsoft.com/partner-center/manage-locations)pour trouver la liste de tous les MPNs associés au compte de l’espace partenaires.
+> Assurez-vous que l’ID MPN affiché dans la bannière du PSC est disponible dans la liste des emplacements MPN dans l’espace partenaires. Vous pouvez vérifier que dans l’espace partenaires, accédez à « paramètres du compte » et à « emplacements » sous cet[emplacement](manage-locations.md)pour trouver la liste de tous les MPNs associés au compte de l’espace partenaires.
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Image représentant la bannière du PSC dans laquelle les partenaires peuvent trouver l’ID MPN.":::
 
@@ -61,10 +61,10 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 
 Si vous ne voyez pas l’onglet Références :
 
-- L' [administrateur général](https://docs.microsoft.com/partner-center/permissions-overview) de votre entreprise peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur général, accédez à paramètres du partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Sélectionnez la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « administrateurs généraux ». La page affiche ensuite tous les administrateurs globaux avec leurs ID d’adresse de messagerie respectifs. Contactez-le pour obtenir un accès « administrateur de référence » pour votre compte professionnel.
+- L' [administrateur général](permissions-overview.md) de votre entreprise peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur général, accédez à paramètres du partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Sélectionnez la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « administrateurs généraux ». La page affiche ensuite tous les administrateurs globaux avec leurs ID d’adresse de messagerie respectifs. Contactez-le pour obtenir un accès « administrateur de référence » pour votre compte professionnel.
 
 >[!Important]
-> Si votre rôle gère uniquement les utilisateurs dans le PSC, vous pouvez vous procurer le rôle d' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) dans l’espace partenaires. Si votre rôle comprend également la gestion des opportunités de covente, vous devez disposer d’un rôle d' [administrateur de références](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) . En outre, désignez un seul Prospect de gestion des modifications parmi les administrateurs du PSC pour travailler avec l’administrateur de compte de l’espace partenaires au lieu de tous les administrateurs PSC qui accèdent aux administrateurs de compte sur le PC individuellement.
+> Si votre rôle gère uniquement les utilisateurs dans le PSC, vous pouvez vous procurer le rôle d' [administrateur de compte](permissions-overview.md#manage-mpn-membership-and-your-company) dans l’espace partenaires. Si votre rôle comprend également la gestion des opportunités de covente, vous devez disposer d’un rôle d' [administrateur de références](permissions-overview.md#manage-referrals) . En outre, désignez un seul Prospect de gestion des modifications parmi les administrateurs du PSC pour travailler avec l’administrateur de compte de l’espace partenaires au lieu de tous les administrateurs PSC qui accèdent aux administrateurs de compte sur le PC individuellement.
 
  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Image représentant les administrateurs de comptes dans la page de gestion des utilisateurs paramètres du partenaire.":::
 
@@ -76,9 +76,9 @@ Si vous ne voyez pas l’onglet Références :
 Une fois votre compte configuré dans l’espace partenaires,
 
 - Invitez tous les utilisateurs qui ont un rôle « gestionnaire des ventes » ou « vendeur » dans PSC à l’espace partenaires à l’étape suivante.
-- L' [administrateur de compte](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) qui vous a aidé avec l’accès aux références peut inviter tous les utilisateurs.
-- Lors de l’invitation des utilisateurs, demandez à l’administrateur de compte de lui affecter le rôle d' [administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
-- Certains de vos utilisateurs de PSC peuvent utiliser un compte non professionnel ou un compte d’un domaine différent de celui que vous utilisez dans l’espace partenaires. Tous ces utilisateurs doivent se connecter à l’espace partenaires à l’aide de leur compte professionnel associé à votre locataire Azure AD. Votre [administrateur général](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) peut vous aider. Pour trouver votre administrateur général, accédez à paramètres du partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Cliquez sur la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « administrateurs généraux ».
+- L' [administrateur de compte](permissions-overview.md#manage-mpn-membership-and-your-company) qui vous a aidé avec l’accès aux références peut inviter tous les utilisateurs.
+- Lors de l’invitation des utilisateurs, demandez à l’administrateur de compte de lui affecter le rôle d' [administrateur de référence](permissions-overview.md#manage-referrals) .
+- Certains de vos utilisateurs de PSC peuvent utiliser un compte non professionnel ou un compte d’un domaine différent de celui que vous utilisez dans l’espace partenaires. Tous ces utilisateurs doivent se connecter à l’espace partenaires à l’aide de leur compte professionnel associé à votre locataire Azure AD. Votre [administrateur général](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) peut vous aider. Pour trouver votre administrateur général, accédez à paramètres du partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Cliquez sur la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « administrateurs généraux ».
 - L’administrateur général peut créer un nouveau compte d’utilisateur dans votre client Azure AD ou attribuer à un utilisateur invité l’accès aux autres utilisateurs du compte de domaine.
 - Une fois les comptes configurés pour tous les responsables et les utilisateurs du PSC, ils doivent se connecter à l’espace partenaires, accéder à l’onglet de référence dans le volet de navigation gauche et vérifier s’assurer qu’ils peuvent voir la page références.
 
@@ -100,16 +100,16 @@ Il s’agit d’une étape importante, qui vous aidera à préparer la covente d
 
 |**Scénario**|**Vente des partenaires**|**Espace partenaires**|
 |-----|:-----|:-----|
-|Rôles d’utilisateur|PSC a des rôles d’administrateur, de responsable des transactions et de vendeur.|PC dispose uniquement d’un rôle d' [administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) qui donne des autorisations en lecture et en écriture pour toutes les transactions.|
-|Invitation à Microsoft sur un contrat de covente|Initié par Microsoft seller, il n’y a pas de demande explicite de partenaire.|Le partenaire devra faire une [demande explicite](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) si une aide du vendeur Microsoft est nécessaire pour une affaire. Le vendeur Microsoft dispose d’une option pour refuser la demande.|
+|Rôles d’utilisateur|PSC a des rôles d’administrateur, de responsable des transactions et de vendeur.|PC dispose uniquement d’un rôle d' [administrateur de référence](permissions-overview.md#manage-referrals) qui donne des autorisations en lecture et en écriture pour toutes les transactions.|
+|Invitation à Microsoft sur un contrat de covente|Initié par Microsoft seller, il n’y a pas de demande explicite de partenaire.|Le partenaire devra faire une [demande explicite](manage-co-sell-opportunities.md#add-solutions) si une aide du vendeur Microsoft est nécessaire pour une affaire. Le vendeur Microsoft dispose d’une option pour refuser la demande.|
 |Expiry|Il n’existe aucun concept d’expiration de la transaction.|Les contrats de contrats entrants du partenaire expirent dans 14 jours s’ils ne sont pas acceptés par le partenaire. Il en est de même pour les contrats de partenariat sortants où ils peuvent passer à l’État expiré si le vendeur Microsoft n’agit pas sur ceux-ci dans un délai de 14 jours.|
 |Détails du vendeur Microsoft|Visible dès qu’une transaction est créée.|Les détails du vendeur Microsoft sont partagés avec le partenaire uniquement si le vendeur accepte expressément l’invitation pour la co-vendre du partenaire.|
-|[Pipeline privé](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|Non disponible.|Les partenaires peuvent partager leur pipeline sans donner de visibilité aux vendeurs Microsoft.|
-|Solutions|Les solutions appartenant à une seule liste de prix peuvent être ajoutées à un contrat.|Le partenaire peut ajouter des [solutions](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) qui appartiennent aux listes suivantes. a) leurs propres solutions b) à partir du catalogue Microsoft First Party (semblable au rôle transaction de transaction dans PSC) et c) coventent les solutions d’autres partenaires tiers (semblable au rôle Dealer ISV dans PSC).|
+|[Pipeline privé](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Non disponible.|Les partenaires peuvent partager leur pipeline sans donner de visibilité aux vendeurs Microsoft.|
+|Solutions|Les solutions appartenant à une seule liste de prix peuvent être ajoutées à un contrat.|Le partenaire peut ajouter des [solutions](manage-co-sell-opportunities.md#add-solutions) qui appartiennent aux listes suivantes. a) leurs propres solutions b) à partir du catalogue Microsoft First Party (semblable au rôle transaction de transaction dans PSC) et c) coventent les solutions d’autres partenaires tiers (semblable au rôle Dealer ISV dans PSC).|
 |Attribution des transactions|Seul le vendeur affecté peut afficher et agir sur les transactions.|Les membres de l’équipe peuvent être ajoutés à un contrat pour spécifier les personnes qui travaillent sur une transaction, il n’y a aucun blocage d’autres administrateurs de la référence pour afficher ou agir sur ces transactions.|
-|Organisation cliente|Entrée de texte de forme libre.|Vous pouvez effectuer une recherche dans l' [organisation cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) par rapport à la [base de données D&B](https://www.dnb.com/) en tapant simplement quelques caractères. Le nom et l’adresse légaux sont renseignés automatiquement en fonction du choix.|
+|Organisation cliente|Entrée de texte de forme libre.|Vous pouvez effectuer une recherche dans l' [organisation cliente](manage-co-sell-opportunities.md#select-your-customer) par rapport à la [base de données D&B](https://www.dnb.com/) en tapant simplement quelques caractères. Le nom et l’adresse légaux sont renseignés automatiquement en fonction du choix.|
 |Contact client|Non obligatoire.|Non obligatoire pour le partage de pipeline privé. Obligatoire si Microsoft seller est invité à participer à une demande de covente.|
-|API publique|Non disponible.|[API publique](https://docs.microsoft.com/partner/develop/referrals) permettant de gérer par programmation les références de l’espace partenaires.|
+|API publique|Non disponible.|[API publique](/partner/develop/referrals) permettant de gérer par programmation les références de l’espace partenaires.|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>Mise en correspondance des champs PSC et espace partenaires
 
@@ -166,13 +166,13 @@ Cette section présente le mappage exact des attributs entre PSC et l’espace p
 
 **1er. Que dois-je faire si je n’ai pas accès à l’espace partenaires ?**
 
-Vous pouvez contacter vos administrateurs listés sur la page « aucun accès » pour que les rôles soient attribués. Vous devez disposer du rôle «[administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)» pour l’autorisation d’accès en lecture et en écriture dans la section Références. Si vous gérez uniquement des profils d’entreprise, vous aurez besoin du rôle « administrateur du profil d’entreprise » dans l’espace partenaires.
+Vous pouvez contacter vos administrateurs listés sur la page « aucun accès » pour que les rôles soient attribués. Vous devez disposer du rôle «[administrateur de référence](permissions-overview.md#manage-referrals)» pour l’autorisation d’accès en lecture et en écriture dans la section Références. Si vous gérez uniquement des profils d’entreprise, vous aurez besoin du rôle « administrateur du profil d’entreprise » dans l’espace partenaires.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Image présentant l’expérience sans accès dans l’espace partenaires.":::
 
 **Q2. Qui peut me donner accès à la section Références de l’espace partenaires ?**
 
-L' [administrateur](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) de votre compte peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur de compte, accédez à paramètres de partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Cliquez sur la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « Admins du compte ». La page affiche ensuite tous les administrateurs de comptes avec leurs ID d’adresse de messagerie respectifs. Contactez-le pour obtenir un accès « administrateur de référence » pour votre compte professionnel.
+L' [administrateur](permissions-overview.md#manage-mpn-membership-and-your-company) de votre compte peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur de compte, accédez à paramètres de partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Cliquez sur la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « Admins du compte ». La page affiche ensuite tous les administrateurs de comptes avec leurs ID d’adresse de messagerie respectifs. Contactez-le pour obtenir un accès « administrateur de référence » pour votre compte professionnel.
 
 **Q3. Le bouton + nouveau contrat est grisé pour notre compte. Que dois-je faire pour commencer à créer des transactions ?**
 
@@ -192,7 +192,7 @@ Non, il n’existe pas d’affichage en lecture seule des transactions dans la s
 
 **Q7. Comment puis-je inscrire un contrat après l’avoir gagné ?**
 
-Si la transaction répond aux critères ci-dessous, nous allons afficher une fenêtre contextuelle pour commencer [l’enregistrement des transactions](https://docs.microsoft.com/partner-center/register-deals).
+Si la transaction répond aux critères ci-dessous, nous allons afficher une fenêtre contextuelle pour commencer [l’enregistrement des transactions](./register-deals.md).
 
 - Une solution d’incentives incitative est jointe à la transaction.
 - Le vendeur de Microsoft est invité à participer au contrat ou il vous a invité à le faire.
@@ -204,11 +204,11 @@ Le « + nouvel enregistrement de la transaction » doit être utilisé uniquem
 
 **Q9. L’ajout d’une organisation client est-il obligatoire ?**
 
-Oui, l’ajout d’une [organisation client](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) est obligatoire dans l’espace partenaires. Commencez par Rechercher l’emplacement où se trouve le client. En fonction des détails que vous avez ; vous pouvez être spécifique, y compris le nom de build exact, ou simplement fournir les détails de la ville. La recherche d’organisation récupère toutes les entités juridiques correspondant au nom que vous entrez afin que vous n’ayez pas à entrer les détails de l’adresse. Tous les détails sont renseignés automatiquement en fonction de l’organisation sélectionnée.
+Oui, l’ajout d’une [organisation client](./manage-co-sell-opportunities.md#select-your-customer) est obligatoire dans l’espace partenaires. Commencez par Rechercher l’emplacement où se trouve le client. En fonction des détails que vous avez ; vous pouvez être spécifique, y compris le nom de build exact, ou simplement fournir les détails de la ville. La recherche d’organisation récupère toutes les entités juridiques correspondant au nom que vous entrez afin que vous n’ayez pas à entrer les détails de l’adresse. Tous les détails sont renseignés automatiquement en fonction de l’organisation sélectionnée.
 
 **Q10. Les coordonnées du client sont-elles obligatoires ?**
 
-Dépend du [type de transaction](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) que vous créez. Si vous partagez simplement votre pipeline et que vous n’avez pas besoin d’aide de la part de l’Organisation des ventes Microsoft, vous pouvez choisir de ne pas fournir les coordonnées du client. Si vous êtes en train de vendre à l’endroit où vous recherchez activement de l’aide auprès de Microsoft seller, vous devrez fournir les coordonnées du client. Vous devez obtenir un consentement explicite du client avant de créer une demande de covente dans l’espace partenaires.
+Dépend du [type de transaction](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) que vous créez. Si vous partagez simplement votre pipeline et que vous n’avez pas besoin d’aide de la part de l’Organisation des ventes Microsoft, vous pouvez choisir de ne pas fournir les coordonnées du client. Si vous êtes en train de vendre à l’endroit où vous recherchez activement de l’aide auprès de Microsoft seller, vous devrez fournir les coordonnées du client. Vous devez obtenir un consentement explicite du client avant de créer une demande de covente dans l’espace partenaires.
 
 **Q11. Combien de solutions puis-je ajouter à un contrat ?**
 
@@ -228,7 +228,7 @@ L’espace partenaires n’est pas accessible directement à votre prestations c
 
 - Informations sur l’OCP-si les prestations affichent simplement les contrats & progression qui leur sont associés, ils peuvent utiliser le portail OCP Insights pour obtenir une vue d’ensemble de votre organisation. Il s’agit d’un outil interne qui est uniquement disponible pour prestations. Notez que les Insights OCP ne sont pas disponibles pour les utilisateurs de votre entreprise.
 - Utilisateur invité dans l’espace partenaires : vous pouvez ajouter votre @microsoft.com compte PDM en tant qu’utilisateur invité dans l’espace partenaires et lui affecter un rôle d’administrateur de référence afin qu’il puisse afficher et agir sur les références.
-- Création d’un [utilisateur](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) dans votre client : vous pouvez créer un nouvel utilisateur dans votre propre locataire et partager ces informations avec le PDM afin qu’il puisse afficher et agir sur des références similaires à d’autres utilisateurs de référence dans votre compte.
+- Création d’un [utilisateur](./create-user-accounts-and-set-permissions.md#add-a-new-user) dans votre client : vous pouvez créer un nouvel utilisateur dans votre propre locataire et partager ces informations avec le PDM afin qu’il puisse afficher et agir sur des références similaires à d’autres utilisateurs de référence dans votre compte.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Ressources pour vous aider à créer et gérer vos offres dans l’espace partenaires
 
@@ -236,15 +236,15 @@ Si vous n’avez pas encore lu les rubriques d’aide de la co-vente, les ressou
 
 |**Pour ce faire**   |**Lisez cela**   |
 |-----------------------|:-----------------------|
-|Compréhension des onglets et de la navigation dans la page opportunités de co-vente|[Navigation dans la section de covente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|Sélection d’une organisation cliente dans la liste D&B |[Sélectionnez votre client](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|Modification des champs dans la section Détails de la transaction|[Détails de la transaction](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|Ajout des employés de votre entreprise à une équipe de gestion|[Ajoutez vos employés](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|Réponse à une transaction de covente|[Gérer les offres de covente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|Inscrire les demandes que vous avez remportées dans l’espace partenaires |[Enregistrer une nouvelle transaction](https://docs.microsoft.com/partner-center/register-deals)
-|Obtenir des informations de référence et découvrir le fonctionnement de vos références |[Insights de référence](https://docs.microsoft.com/partner-center/referral-insights)
-|Création et gestion d’un profil d’entreprise|[Gérer un profil professionnel](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|Gérer les responsables pour votre profil d’entreprise |[Gérer les prospects](https://docs.microsoft.com/partner-center/manage-leads)|
+|Compréhension des onglets et de la navigation dans la page opportunités de co-vente|[Navigation dans la section de covente](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|Sélection d’une organisation cliente dans la liste D&B |[Sélectionnez votre client](./manage-co-sell-opportunities.md#select-your-customer)|
+|Modification des champs dans la section Détails de la transaction|[Détails de la transaction](./manage-co-sell-opportunities.md#deal-details)|
+|Ajout des membres de votre équipe à une équipe de gestion|[Ajoutez vos employés](./manage-co-sell-opportunities.md#add-team-members)|
+|Réponse à une transaction de covente|[Gérer les offres de covente](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|Inscrire les demandes que vous avez remportées dans l’espace partenaires |[Enregistrer une nouvelle transaction](./register-deals.md)
+|Obtenir des informations de référence et découvrir le fonctionnement de vos références |[Insights de référence](./referral-insights.md)
+|Création et gestion d’un profil d’entreprise|[Gérer un profil professionnel](./create-a-marketing-profile.md)
+|Gérer les responsables pour votre profil d’entreprise |[Gérer les prospects](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 

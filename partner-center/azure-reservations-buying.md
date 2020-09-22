@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367013"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000263"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367013"
 - Administrateur de la gestion des utilisateurs
  
 > [!NOTE]
-> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations).
+> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](/azure/cost-management-billing/reservations).
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
@@ -136,7 +136,7 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
     - Sélectionnez l’étendue de la réservation. L’étendue de la réservation peut couvrir un seul abonnement ou plusieurs abonnements (étendue partagée). Si vous étendez la réservation à un seul abonnement, la remise de réservation est appliquée à cet abonnement uniquement. Si vous sélectionnez partagé, la remise de réservation est appliquée à tous les abonnements dans le contexte de facturation du client. 
 
       >[!NOTE] 
-      >Si vous choisissez de limiter l’étendue de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le Portail Azure. Suivez les instructions [de cette rubrique](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande. 
+      >Si vous choisissez de limiter l’étendue de la réservation à un seul abonnement Azure, vous devrez peut-être augmenter le quota de processeurs virtuels de l’abonnement. Pour augmenter le quota de processeurs virtuels de l’abonnement, vous devez créer une demande de support dans le Portail Azure. Suivez les instructions [de cette rubrique](/azure/azure-supportability/resource-manager-core-quotas-request) pour créer la demande. 
 
       >[!NOTE]   
       >Si votre client se trouve sous le plan Azure, l' **étendue**  est définie sur **partagé**. 
@@ -156,5 +156,5 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 |Vue d’ensemble des réservations Azure dans CSP  | [Vendre Microsoft Azure des instances réservées](azure-reservations.md) |
 |Gestion des réservations Azure dans l’espace partenaires | [Gestion des réservations Azure dans l’espace partenaires](azure-reservations-manage.md)
 |Déterminer la taille de machine virtuelle correcte et vérifier l’utilisation de la machine virtuelle client   |[Dimensionnement des machines virtuelles pour l’utilisation maximale de la réservation Azure](azure-usage.md)   |
-|Achat de réservations Azure à l’aide de l’API espace partenaires | [Acheter Azure reserved VM instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) dans la documentation du développeur de l’espace partenaires   |
+|Achat de réservations Azure à l’aide de l’API espace partenaires | [Acheter Azure reserved VM instances](/partner-center/develop/purchase-azure-reservations) dans la documentation du développeur de l’espace partenaires   |
 |Autoriser les clients à acheter leurs propres réservations Azure  | [Accorder aux clients l’autorisation d’acheter leurs propres réservations Azure](give-customers-permission.md)  |

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c07ee9d03b433992632337d13c561d6334a896
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527715"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000513"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gérer les produits et offres de la place de marché commercial pour vos clients
 
@@ -67,7 +67,7 @@ Le serveur de publication doit vous fournir un lien personnalisé et un code d�
 
    - Vous pouvez voir le lien à partir de la page abonnements d’un client spécifique. Ce lien vers l’éditeur apparaît sur la ligne associée à l’offre ISV ou à l’abonnement acheté pour le client.
 
-   - Vous pouvez [récupérer le lien à l’aide des API de l’espace partenaires](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - Vous pouvez [récupérer le lien à l’aide des API de l’espace partenaires](/partner-center/develop/get-activation-link-by-order-line-item).
 
    > [!NOTE]
    > Pour ce faire, pour le compte de votre client, vous devrez peut-être copier le lien personnalisé, le coller dans un navigateur privé et entrer les informations d’identification du client.
@@ -112,7 +112,7 @@ Pour les offres de la place de marché commercial SaaS, vous pouvez ajouter ou s
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Gérer les abonnements à l’aide des API de l’Espace partenaires
 
-Vous pouvez également utiliser les API de l’espace partenaires pour effectuer la gestion du cycle de vie et gérer les factures pour vos abonnements. Pour plus d’informations, consultez [créer un abonnement pour les produits de la place de marché commercial](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
+Vous pouvez également utiliser les API de l’espace partenaires pour effectuer la gestion du cycle de vie et gérer les factures pour vos abonnements. Pour plus d’informations, consultez [créer un abonnement pour les produits de la place de marché commercial](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Étapes suivantes
 

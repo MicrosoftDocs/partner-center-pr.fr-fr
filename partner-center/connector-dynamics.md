@@ -8,12 +8,12 @@ description: Synchroniser vos références dans l’espace partenaires à l’ai
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490667"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000493"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -28,12 +28,12 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 ## <a name="before-you-install---pre-requisites"></a>Avant d’installer-conditions préalables
 
-|**Explique**   |**Détails**   |**Liens**   |
+|**Rubriques**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
 |Covente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Compte Espace partenaires|L’ID MPN associé au locataire de l’espace partenaires doit être identique à l’ID MPN associé à votre solution de covente. Vérifiez que vous pouvez voir vos références de covente dans le portail espace partenaires avant de déployer les connecteurs.|[Gérer votre compte](create-user-accounts-and-set-permissions.md)|
-|Rôles d’utilisateur de l’Espace partenaires|L’employé qui va installer et utiliser les connecteurs doit être un administrateur de références|[Affecter des rôles et des autorisations aux utilisateurs](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|Rôles d’utilisateur de l’Espace partenaires|L’employé qui va installer et utiliser les connecteurs doit être un administrateur de références|[Affecter des rôles et des autorisations aux utilisateurs](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |Gestion de l’alimentation-automatiser le compte|Un compte Active [Power automate](https://flow.microsoft.com) actif pour l’administrateur système ou le personnalisateur système CRM. Cet utilisateur doit se connecter à [Power automate](https://flow.microsoft.com) au moins une fois avant l’installation.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installer la synchronisation des références de l’espace partenaires pour Dynamics 365 (solution Power automate)
@@ -261,6 +261,6 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
 - [Gérer les opportunités de covente](manage-co-sell-opportunities.md)
 
-- [En savoir plus sur la plateforme Microsoft Power Automated ?](https://docs.microsoft.com/power-automate/)
+- [En savoir plus sur la plateforme Microsoft Power Automated ?](/power-automate/)
 
-- [Webhooks de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [Webhooks de l’Espace partenaires](/partner-center/develop/partner-center-webhooks)

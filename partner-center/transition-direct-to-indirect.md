@@ -9,16 +9,16 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811189"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000643"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
-**S’applique à :**
+**S’applique à :**
 
 - Partenaires fournisseurs de solutions cloud
 
@@ -27,13 +27,13 @@ ms.locfileid: "87811189"
 
 Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre locataire direct Bill existant.
 
-## <a name="get-started"></a>Prise en main
+## <a name="get-started"></a>Bien démarrer
 
 1. Vérifiez que votre profil de partenaire dans l’espace partenaires et l’ID MPN sont à jour.
 
 2. Connectez-vous à l’espace partenaires en tant qu’administrateur général du locataire direct Bill que vous passez au revendeur indirect.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d’ensemble":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d'ensemble":::
 
 3. Passez en revue les détails de votre partenaire dans le formulaire d’inscription.
 
@@ -76,7 +76,7 @@ Les divers fournisseurs indirects proposent différents types de support et de s
 
 Recherchez dans la liste des [fournisseurs officiels Microsoft indirects](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-En savoir plus, lire le [partenaire avec les fournisseurs indirects](indirect-reseller-tasks-in-partner-center.md)
+En savoir plus, lire le  [partenaire avec les fournisseurs indirects](indirect-reseller-tasks-in-partner-center.md)
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Accepter une invitation de partenariat de votre fournisseur indirect
 
@@ -161,7 +161,7 @@ Vous pouvez utiliser la fonctionnalité d’extension de la relation Reseller po
 
 - Votre fournisseur indirect ne sera pas fourni avec [des privilèges d’administration délégués](customers-revoke-admin-privileges.md) au locataire client. Si votre fournisseur indirect requiert des privilèges d’administration déléguée, vous devez envoyer une invitation de revendeur indirect au client à la place.
 
-- Une fois la relation du revendeur établie, le fournisseur indirect apparaît en tant que partenaire CSP auprès du client sous la page des relations avec les partenaires dans le [Centre d’administration M365](https://admin.microsoft.com/AdminPortal/Home#/partners) et [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
+- Une fois la relation du revendeur établie, le fournisseur indirect apparaît en tant que partenaire CSP auprès du client sous la page des relations avec les partenaires dans le [Centre d’administration M365](https://admin.microsoft.com/AdminPortal/Home#/partners) et [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Pour éviter toute confusion et une mauvaise compréhension, vous êtes contractuellement tenu par votre accord de partenariat pour informer et obtenir le consentement du client de facturation directe avant d’utiliser la fonctionnalité d’extension de relation pour établir une relation de revendeur entre un client de facture directe existant et un fournisseur indirect.
@@ -245,15 +245,15 @@ La fonctionnalité est un processus en 4 étapes, où :
 ### <a name="transitioning-partner"></a>Partenaire de transition
 
 > [!NOTE]
-> Vous pouvez également utiliser l' [API/le kit de développement logiciel (SDK) de l’espace partenaires](https://docs.microsoft.com/partner-center/develop/manage-customers) pour transférer les abonnements existants à votre fournisseur indirect.
+> Vous pouvez également utiliser l' [API/le kit de développement logiciel (SDK) de l’espace partenaires](/partner-center/develop/manage-customers) pour transférer les abonnements existants à votre fournisseur indirect.
 >
-> - [Obtenir un droit de transfert des abonnements d’un client](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [Créer un transfert de client](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
-> - [Retirer un transfert de client](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
-> - [Accepter un transfert de client](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
-> - [Rejeter le transfert d’un client](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
-> - [Obtenir les transferts d’un client](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Recevoir les détails du transfert par ID](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+> - [Obtenir un droit de transfert des abonnements d’un client](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Créer un transfert de client](/partner-center/develop/create-a-transfer)
+> - [Retirer un transfert de client](/partner-center/develop/withdraw-a-transfer)
+> - [Accepter un transfert de client](/partner-center/develop/accept-a-transfer)
+> - [Rejeter le transfert d’un client](/partner-center/develop/reject-a-transfer)
+> - [Obtenir les transferts d’un client](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Recevoir les détails du transfert par ID](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Partenaire de transition-créer une demande de transfert
 

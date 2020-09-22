@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444905"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999213"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Offrez aux clients une version d’essai gratuite de 30 jours des produits Microsoft
 
@@ -79,8 +79,8 @@ Vous pouvez convertir des versions d’évaluation en abonnements payants à l�
 
 Vous devrez peut-être modifier vos API pour adapter la conversion d’une version d’évaluation gratuite à un abonnement payant. Pour plus d’informations, consultez la documentation du développeur suivante :
 
-- [Convertir un abonnement d’essai en abonnement payant](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Obtenir la liste des offres de conversion d’essai](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Convertir un abonnement d’essai en abonnement payant](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Obtenir la liste des offres de conversion d’essai](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Essais sans conversions
 
