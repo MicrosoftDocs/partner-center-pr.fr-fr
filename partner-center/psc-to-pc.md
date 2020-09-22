@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
-ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
+ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90082517"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848263"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -45,7 +45,9 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 - Configurez des comptes d’utilisateur dans l’espace partenaires pour tous les utilisateurs de votre PSC (rôles Admin, Deal Manager et seller) et attribuez-leur des [rôles d’administrateur de référence](https://docs.microsoft.com/partner-center/permissions-overview).
 
 >[!Important]
-> Assurez-vous que l’ID MPN affiché dans la bannière du PSC est disponible dans la liste des emplacements MPN dans l’espace partenaires. Vous pouvez vérifier que dans l’espace partenaires, accédez à paramètres du compte et emplacements sous cet [emplacement](https://docs.microsoft.com/partner-center/manage-locations) pour trouver la liste de tous les MPNs associés au compte de l’espace partenaires.
+> Assurez-vous que l’ID MPN affiché dans la bannière du PSC est disponible dans la liste des emplacements MPN dans l’espace partenaires. Vous pouvez vérifier que dans l’espace partenaires, accédez à « paramètres du compte » et à « emplacements » sous cet[emplacement](https://docs.microsoft.com/partner-center/manage-locations)pour trouver la liste de tous les MPNs associés au compte de l’espace partenaires.
+
+ :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Image représentant la bannière du PSC dans laquelle les partenaires peuvent trouver l’ID MPN.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Si vous êtes responsable des transactions de PSC ou du vendeur
 

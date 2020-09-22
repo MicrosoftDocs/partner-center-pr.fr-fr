@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 05ce007901baccd76228c55b7a846fc51718409d
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811297"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848219"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Bénéficier de fonds marketing coopératifs
 
@@ -51,14 +51,14 @@ La chronologie des fonds de co-op marketing est divisée en périodes de 2 6 moi
 
 La période de six mois au cours de laquelle vous accumulez vos revenus devient votre **période de gains**. Vous devez utiliser ces revenus à un moment donné pendant la **période d’utilisation**de six mois suivante. Si vous n’utilisez pas vos revenus à la fin de la période d’utilisation, vous les perdrez. La **période de demande** est la période de six mois au cours de laquelle vous pouvez demander le remboursement de vos activités de programme d’incentives.
 
-Le tableau ci-dessous présente les différentes périodes de gains, d’utilisation et de revendication. Les périodes s’étendent du premier jour du premier mois jusqu’au dernier jour du mois dernier.
+Le tableau ci-dessous présente les différentes périodes de gains, d’utilisation et de revendication. Sauf mention contraire, les périodes s’étendent du premier jour du premier mois jusqu’au dernier jour du mois dernier.
 
 |  Si votre période de bénéfices/accumulations est  |La période de la demi-année fiscale est  |  La période d’utilisation est  |  Votre période de revendication est  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Juillet-Dec 2020**| FY20 H1  |  Du 1er au 2021 juin  |  Février-juillet 2021  |
-|**Du 1er au 2021 juin** |  FY20 H2  |  Juillet-Dec 2021  |  Août 2021-janvier 2022  |
-|**Juillet-Dec 2021**|  FY21 H1  |  Du 1er au 2022 juin  |  Février-juillet 2022  |
-|**Du 1er au 2022 juin** |  FY21 H2  |  Juillet-Dec 2022  |  Août 2022-janvier 2023  |
+|**Juillet-Dec 2020**| FY20 H1  |  Du 1er au 2021 juin  |  16 février-août 15 2021  |
+|**Du 1er au 2021 juin** |  FY20 H2  |  Juillet-Dec 2021  |  Août 16 2021-février 15 2022  |
+|**Juillet-Dec 2021**|  FY21 H1  |  Du 1er au 2022 juin  |  16 février-août 15 2022  |
+|**Du 1er au 2022 juin** |  FY21 H2  |  Juillet-Dec 2022  |  Août 16 2022-février 15 2023  |
 
 >[!NOTE]
 >Microsoft se réserve le droit de demander des documents de preuve d’exécution (PoE) originaux. Vous devez conserver tous vos documents d’origine pendant 24 mois après la date de l’activité.

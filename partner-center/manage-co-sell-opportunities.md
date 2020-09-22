@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edbd1e8395e1ecad759666a2c2acd3653e8ff28c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 631667f521825697a7b16b0db40cb5dd4610e636
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714373"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848235"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gérez les opportunités de covente dans l’espace partenaires pour définir des contrats et mieux répondre aux besoins des clients
 
@@ -95,6 +95,9 @@ Une fois que vous avez fourni les informations de la solution, sélectionnez sui
 
 **Offre privée**: Si vous n’invitez pas Microsoft et que vous créez un engagement à cette étape, il sera du type pipeline privé. Les vendeurs Microsoft n’ont aucune visibilité sur les détails de cette offre.
 
+> [!Important]
+> L’enregistrement de la transaction ne s’applique pas aux transactions privées. Soyez prudent lors de la création d’une affaire privée avec des solutions éligibles incitatives, car elles ne seront pas éligibles à l’enregistrement des transactions dans l’espace partenaires.
+
 Vente **de la co-vente :** Si vous sélectionnez une option autre que la sélection par défaut pour la question **« identifier le type d’aide que vous aimeriez de Microsoft »**, le contrat se concentre sur la vente dans le cadre de laquelle un vendeur Microsoft peut éventuellement vous aider à conclure la transaction. Une demande d’aide de Microsoft ne garantit pas qu’un vendeur Microsoft participera au contrat. Les représentants commerciaux de Microsoft ont 14 jours pour décider s’ils souhaitent participer. Dans la section Remarques, veillez à identifier le type d’aide que vous souhaitez.
 
 **Contrat partenaire à partenaire (P2P)**: vous pouvez inviter d’autres partenaires à la transaction en cliquant sur le lien inviter un partenaire. Voici le processus de création d’une transaction P2P.
@@ -133,9 +136,50 @@ Au cours de cette étape, si vous avez reçu une nouvelle opportunité de covent
 
 ### <a name="accepted-stage"></a>Étape acceptée
 
-Tentez de conclure la transaction avec le client. Si vous souhaitez modifier les informations que vous avez fournies pour une référence acceptée, sélectionnez **modifier**. Vous pouvez ensuite mettre à jour le nom de la transaction, la date estimée d’achat, la valeur estimée, les notes, l’ID CRM et/ou l’ID de campagne marketing.  Vous pouvez également sélectionner **ajouter vos employés** pour fournir le nom, le numéro de téléphone et les adresses de messagerie des personnes qui travaillent sur la transaction. Les solutions peuvent également être modifiées en fonction des besoins des clients.
+Tentez de conclure la transaction avec le client. Si vous souhaitez modifier les informations que vous avez fournies pour une référence acceptée, sélectionnez **modifier**. Vous pouvez ensuite mettre à jour le nom de la transaction, la date estimée d’achat, la valeur estimée, les notes, l’ID CRM et/ou l’ID de campagne marketing.  Vous pouvez également sélectionner **ajouter votre équipe** pour fournir le nom, le numéro de téléphone et les adresses de messagerie des personnes qui travaillent sur la transaction. Les solutions peuvent également être modifiées en fonction des besoins des clients.
 
 Toutes les transactions que vous avez créées sont en phase acceptée par défaut.
+
+Une fois que vous avez commencé à travailler sur la transaction, vous pouvez fournir les détails de la progression que vous effectuez en marquant les étapes de vente dans le cycle de vie de la transaction. Il y a quatre étapes dans le cycle de vie des contrats, à l’exception de l’acceptation ou de la création initiale, ainsi que des étapes finales conclues ou perdues, comme indiqué ci-dessous. Le fait de fournir ces détails est facultatif, mais il est vivement recommandé de les partager pour obtenir une aide appropriée de la part des représentants commerciaux de Microsoft dans le cas d’une covente.
+
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Image présentant le cycle de vie de la transaction dans laquelle la phase de vente peut être marquée.":::
+
+|**Nom de l’étape de vente**|**Pourcentage du cycle de vente**|**Définition de l’étape de vente**|
+|:----|:-----|:-----|
+|Date de création|10 %|Création d’une transaction sortante.|
+|Accepté|10 %|Acceptation d’une transaction entrante.|
+|Qualified|20%|Qualifier la valeur de la transaction et les exigences du client avant de continuer.|
+|Fruit|40%|Développer le traitement pour comprendre les besoins détaillés pour préparer une POC ou tout autre artefact requis pour une proposition formelle.|
+|Proposed|60 %|Faire une proposition formelle au client en fonction de ses besoins.|
+|Negotiated|80 %|Négociation des termes finaux sur la base de la proposition visant à atteindre l’état final (gagnant ou perdant la transaction).|
+|Won|100 %|Marquage de la transaction comme conclue.|
+
+Lorsque vous avez terminé, vous pouvez effectuer l’une des deux actions suivantes, qui marquent la transaction comme **gagnée** ou **perdue** pour signaler le résultat.
+
+> [!Note]
+> Il n’est pas nécessaire que votre entreprise suive les mêmes étapes de vente. C’est ainsi que l’espace partenaires reconnaît les étapes de vente et mappe automatiquement les étapes de votre entreprise à ces étapes standard si vous transmettez ces valeurs à l’aide de l’API. Si vous utilisez l’expérience utilisateur de l’espace partenaires, les pourcentages indiqués dans le tableau sont utilisés pour marquer les étapes de vente.
+
+> [!Important]
+> Pour certaines solutions éligibles, une fois que vous avez sélectionné conclu, vous êtes invité à fournir des informations supplémentaires pour inscrire votre demande. Microsoft examinera les informations que vous avez fournies ici et pourra vous demander des renseignements complémentaires. Pour plus d'informations, consultez [Enregistrer vos transactions](register-deals.md).
+
+Une transaction est éligible pour l’enregistrement des transactions uniquement si elle répond à tous les critères ci-dessous.
+
+1. Microsoft est invité à la transaction.
+2. Microsoft a accepté l’invitation ou a marqué le contrat comme conclu. Vous pouvez comprendre l’état de Microsoft en regardant la carte Microsoft sous les détails de votre contrat.
+3. Le contrat offre une solution incitative.
+
+> [!Important]
+> Enregistrez la transaction uniquement si le nom de votre société et la solution d’incentives éligibles dans le contrat sont clairement mentionnés dans le contrat avec le client.
+
+Si la transaction est éligible à l’enregistrement de la transaction, une étape majeure supplémentaire sera ajoutée au cycle de vie de l’offre appelée « enregistrement des affaires », comme indiqué ci-dessous.
+
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Image représentant le cycle de vie du contrat, l’emplacement à partir duquel l’enregistrement de la transaction peut être initié.":::
+
+Vous pouvez choisir d’enregistrer le contrat immédiatement après avoir marqué le contrat comme conclu ou à un point ultérieur dans le temps via le bouton **inscrire maintenant** .
+Une fois la transaction inscrite, vous pouvez consulter la progression de la validation des transactions à partir du même cycle de vie. Si une action est requise de la part de votre entreprise, les erreurs appropriées sont affichées dans la vue du cycle de vie des transactions. La transaction passe à l’état fermé lorsque la validation de la transaction est terminée.
+
+> [!Important]
+> La révision de la transaction et l’état de validation final s’appliquent uniquement aux demandes de covente IP.
 
 ### <a name="combinations"></a>Combinaisons
 
@@ -143,19 +187,14 @@ Le tableau ci-dessous montre les combinaisons de qui peuvent être invitées à 
 
 |**Type de contrat d’origine**|**Qui peut être invité**|**Notes**|
 |-----|:-----|:-----|
-|Private|Microsoft et/ou d’autres partenaires|La vente sera mise à niveau vers la co-vente si Microsoft est invité.|
+|Privées|Microsoft et/ou d’autres partenaires|La vente sera mise à niveau vers la co-vente si Microsoft est invité.|
 |Co-vente|Autres partenaires|D’autres partenaires peuvent être invités uniquement si votre entreprise a initié la transaction. Les partenaires ne peuvent pas être invités pour les transactions dans l’onglet entrant.|
 |Partenaire à partenaire sans Microsoft|Microsoft|La vente sera mise à niveau vers une transaction de covente.|
 |Partenaire à partenaire sans Microsoft|Autres partenaires||
 
-Lorsque vous avez terminé, vous pouvez effectuer l’une des deux actions suivantes, qui marquent la transaction comme **conclue** ou **perdue** pour signaler le résultat, afin que nous puissions l’archiver en conséquence.
+### <a name="closed-stage"></a>Phase fermée
 
-> [!TIP]
-> Pour certaines solutions éligibles, une fois que vous avez sélectionné conclu, vous êtes invité à fournir des informations supplémentaires pour inscrire votre demande. Microsoft examinera les informations que vous avez fournies ici et pourra vous demander des renseignements complémentaires. Pour plus d'informations, consultez Enregistrer vos transactions.
-
-### <a name="archived-stage"></a>Étape archivée
-
-Il s’agit de la dernière étape pour toutes les opportunités. Vous pouvez afficher tous les clients qui se trouvent dans les archives **concluants, perdus, refusés**et **arrivés à expiration** dans l’archive. Il n’y a aucune action que vous pouvez effectuer dans cette étape.
+Il s’agit de la dernière étape pour toutes les opportunités. Vous pouvez afficher toutes les offres **achetées, perdues, refusées**et **expirées** au cours de la phase fermée. Il n’y a aucune action que vous pouvez effectuer dans cette étape.
 
 ## <a name="frequently-asked-questions"></a>Forum aux questions
 
