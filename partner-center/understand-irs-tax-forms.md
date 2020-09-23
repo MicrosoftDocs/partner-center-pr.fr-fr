@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026447"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007471"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Présentation des déclarations fiscales de l’IRS envoyées par Microsoft
 
@@ -27,7 +27,7 @@ Nous expliquons ci-dessous en quoi consistent ces déclarations, notamment à qu
 |1042-S | Liés aux paiements qui font l’objet de États-Unis impôt à la retenue | Les formulaires imprimés feront l’objet d’un cachet ou avant le **15 mars**, et les copies. pdf seront disponibles dans l’espace partenaires (dans les paramètres de développeur de l' **espace partenaires** sous **paiement et taxes > les profils de paiement et de taxes**) en même temps.  |
 
 > [!NOTE]
-> L’adresse que nous utilisons sur les formulaires fiscaux de l’IRS provient de l’adresse de votre [Profil fiscal](marketplace-payout-account-setup.md). Si votre adresse a changé, veillez à mettre à jour l’adresse dans votre **Profil fiscal**.
+> L’adresse que nous utilisons sur les formulaires fiscaux de l’IRS provient de l’adresse de votre [Profil fiscal](/azure/marketplace/marketplace-payout-account-setup). Si votre adresse a changé, veillez à mettre à jour l’adresse dans votre **Profil fiscal**.
 
 Les formulaires fiscaux vous seront envoyés à partir des adresses suivantes :
 

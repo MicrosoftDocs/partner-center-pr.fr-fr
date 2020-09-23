@@ -6,19 +6,19 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: dddab384cfb790d7907f65c1b1af160cc2082417
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026466"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007393"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Recevoir un paiement dans la place de marché commerciale
 
 Voici quelques informations importantes sur la réception du paiement de vos offres, modules complémentaires et recettes publicitaires.
 
 > [!IMPORTANT]
-> Avant de pouvoir recevoir l’argent de la vente d’offres sur la place de marché commerciale, vous devez [configurer votre compte de paiement et remplir les déclarations de taxe nécessaires](marketplace-payout-account-setup.md).
+> Avant de pouvoir recevoir l’argent de la vente d’offres sur la place de marché commerciale, vous devez [configurer votre compte de paiement et remplir les déclarations de taxe nécessaires](/azure/marketplace/marketplace-payout-account-setup).
 
 ## <a name="store-fee"></a>Frais de Store
 

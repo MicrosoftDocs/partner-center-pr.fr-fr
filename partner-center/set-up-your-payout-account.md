@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026451"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007403"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurer votre compte de paiement et vos déclarations de taxe
 
@@ -28,7 +28,7 @@ Une fois que vous avez configuré votre compte, vous devez effectuer deux opéra
 - [Configurez votre compte de paiement](#payout-account)
 
 > [!NOTE]
-> Pour plus d’informations sur comment et quand vous serez payé pour l’argent que votre offre vous rapporte, consultez la section [Processus de paiement](marketplace-payout-account-setup.md).
+> Pour plus d’informations sur comment et quand vous serez payé pour l’argent que votre offre vous rapporte, consultez la section [Processus de paiement](/azure/marketplace/marketplace-payout-account-setup).
 
 ## <a name="tax-forms"></a>Déclaration de taxe
 
@@ -131,7 +131,7 @@ Vous pouvez modifier les profils de paiement existants si vous devez apporter de
 3. Vos profils de paiement sont listés avec leur état. Recherchez le profil que vous souhaitez modifier, puis cliquez sur **Modifier** à droite de l’écran
 
 > [!IMPORTANT]
-> La modification de votre compte de paiement peut retarder vos paiements jusqu’à un cycle de paiement. Ce retard se produit parce que nous devons vérifier le changement de compte, comme nous l’avons fait lorsque vous avez configuré le compte de paiement pour la première fois. Vous serez payé pour le montant total une fois que votre compte aura été vérifié. Tout paiement dû dans le cycle de paiement actuel sera ajouté au cycle suivant Pour plus d’informations, consultez la section[Processus de paiement](marketplace-payout-account-setup.md).
+> La modification de votre compte de paiement peut retarder vos paiements jusqu’à un cycle de paiement. Ce retard se produit parce que nous devons vérifier le changement de compte, comme nous l’avons fait lorsque vous avez configuré le compte de paiement pour la première fois. Vous serez payé pour le montant total une fois que votre compte aura été vérifié. Tout paiement dû dans le cycle de paiement actuel sera ajouté au cycle suivant Pour plus d’informations, consultez la section[Processus de paiement](/azure/marketplace/marketplace-payout-account-setup).
 
 ### <a name="paypal-info"></a>Informations PayPal
 
