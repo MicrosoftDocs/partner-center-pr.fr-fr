@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944436"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999613"
 ---
 # <a name="february-2020-announcements"></a>Annonces de février 2020
 
@@ -75,7 +75,7 @@ Cette nouvelle capacité signifie que [les partenaires disposent désormais de d
 - **Option 1 :** Les partenaires peuvent présenter le nouveau Contrat client Microsoft aux clients de la même manière qu’ils le faisaient avant pour le Contrat Microsoft Cloud. Une fois que le client a examiné et accepté le contrat, les partenaires doivent attester de son acceptation auprès de Microsoft. Le tableau de bord de l'Espace partenaires, l'API de l'Espace partenaires et le kit de développement logiciel (SDK) .NET ont été mis à jour afin de permettre aux partenaires d'utiliser cette option pour confirmer l'acceptation par le client du Contrat client Microsoft.
 - **Option 2 (nouvelle fonctionnalité) :** Les partenaires peuvent inviter les clients à se rendre sur un portail Microsoft authentifié (le Centre d'administration Microsoft 365) pour consulter et signer le contrat. Cette option simplifie la gestion des contrats, accélère l'implémentation et allège le travail des partenaires car lorsque le client accepte directement le contrat dans le Centre d'administration Microsoft 365, il confirme en même temps qu'il en approuve les conditions.
 
-Pour savoir si les clients ont accepté le nouveau contrat, les partenaires peuvent utiliser les nouvelles fonctionnalités disponibles sur le tableau de bord de l’Espace partenaires ou via cette [nouvelle API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement).
+Pour savoir si les clients ont accepté le nouveau contrat, les partenaires peuvent utiliser les nouvelles fonctionnalités disponibles sur le tableau de bord de l’Espace partenaires ou via cette [nouvelle API](/partner-center/develop/get-direct-sign-status-of-customer-agreement).
 
 Depuis le 1er février 2020, la confirmation par un partenaire de l'acceptation du Contrat client Microsoft par ses clients est nécessaire pour passer de nouvelles commandes d'offres CSP (Fournisseurs de solutions Cloud) dans toutes les régions dépendant du cloud public Microsoft. Pour effectuer de nouveaux achats, ou apporter des modifications aux sièges ou aux renouvellements d'achats existants, les fournisseurs de solutions Cloud partenaires doivent impérativement confirmer que leur client a accepté le Contrat client Microsoft via l'une de ces options.
  
@@ -98,7 +98,7 @@ Les partenaires peuvent consulter le contenu du Contrat client Microsoft sur la 
 ### <a name="change-log"></a>Journal des modifications :
 
 - 11 février 2020 : Publication de l’annonce d’origine
-- 25 février 2020 : Annonce mise à jour avec [cette nouvelle API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) pour obtenir l’état de l’acceptation directe d’un client.
+- 25 février 2020 : Annonce mise à jour avec [cette nouvelle API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) pour obtenir l’état de l’acceptation directe d’un client.
 
 _________________
 
@@ -169,27 +169,27 @@ _________________
 
 ### <a name="summary"></a>Résumé :
 
-Il s’agit d’une importante mise à jour concernant les [exigences de sécurité obligatoires que les partenaires doivent respecter](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). À partir du **29 février 2020**, les [stratégies de référence Azure Active Directory (Azure AD) seront supprimées](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) et remplacées par les « paramètres de sécurité par défaut », ensemble plus complet de stratégies de protection pour vous et vos clients. Les paramètres de sécurité par défaut d’Azure AD peuvent contribuer à protéger votre organisation avec des paramètres de sécurité préconfigurés pour les attaques courantes.
+Il s’agit d’une importante mise à jour concernant les [exigences de sécurité obligatoires que les partenaires doivent respecter](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). À partir du **29 février 2020**, les [stratégies de référence Azure Active Directory (Azure AD) seront supprimées](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) et remplacées par les « paramètres de sécurité par défaut », ensemble plus complet de stratégies de protection pour vous et vos clients. Les paramètres de sécurité par défaut d’Azure AD peuvent contribuer à protéger votre organisation avec des paramètres de sécurité préconfigurés pour les attaques courantes.
 
 Notre système indique que votre organisation utilise actuellement des stratégies de base, mais qu'elle n'est pas encore passée aux paramètres de sécurité par défaut. **Si vous ne passez pas aux paramètres de sécurité par défaut avant le 29 février, vous perdrez l'authentification multifacteur (MFA) activée avec les stratégies de base sur vos locataires partenaires. Veuillez activer les paramètres de sécurité par défaut dès que possible pour éviter toute interruption d'activité**.
 
 ### <a name="key-considerations"></a>Considérations importantes
 
-La stratégie Paramètres de sécurité par défaut est l’une des [options](../partner-security-requirements.md#actions-that-you-need-to-take) que les partenaires peuvent choisir pour implémenter l’authentification multifacteur (MFA) pour répondre aux exigences de sécurité en fonction de leurs besoins métier. Elle offre un niveau de sécurité de base sans coût supplémentaire. Étudiez [le mode d'activation de l'authentification multifacteur pour votre organisation avec Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) et les principales considérations ci-dessous :
+La stratégie Paramètres de sécurité par défaut est l’une des [options](../partner-security-requirements.md#actions-that-you-need-to-take) que les partenaires peuvent choisir pour implémenter l’authentification multifacteur (MFA) pour répondre aux exigences de sécurité en fonction de leurs besoins métier. Elle offre un niveau de sécurité de base sans coût supplémentaire. Étudiez [le mode d'activation de l'authentification multifacteur pour votre organisation avec Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) et les principales considérations ci-dessous :
 
-- Pour les partenaires qui utilisent l’[accès conditionnel](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), les paramètres de sécurité par défaut ne sont pas disponibles.
+- Pour les partenaires qui utilisent l’[accès conditionnel](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), les paramètres de sécurité par défaut ne sont pas disponibles.
 - Les paramètres de sécurité par défaut appliquent toutes les stratégies à la fois, notamment la stratégie MFA pour les administrateurs, la stratégie de protection des utilisateurs finaux et l’authentification multifacteur nécessaire pour la gestion des services.
 - Pour l’heure, le blocage de l’authentification héritée ne s’applique pas d’office pour les partenaires. Cependant, étant donné que la plupart des événements liés aux identités compromises viennent de tentatives de connexion utilisant l’authentification héritée, les partenaires sont encouragés à abandonner ces anciens protocoles.
 - Les paramètres de sécurité par défaut excluent automatiquement le compte de synchronisation Azure AD Connect.
-- Les paramètres de sécurité par défaut, désormais en disponibilité générale, remplacent les [stratégies de référence](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) en préversion. Une fois qu’un partenaire active les paramètres de sécurité par défaut, il ne peut plus activer les stratégies de référence.
+- Les paramètres de sécurité par défaut, désormais en disponibilité générale, remplacent les [stratégies de référence](/azure/active-directory/conditional-access/concept-baseline-protection) en préversion. Une fois qu’un partenaire active les paramètres de sécurité par défaut, il ne peut plus activer les stratégies de référence.
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>Étapes suivantes et ressources pour les paramètres de sécurité par défaut
 
 Partenaires qui utilisent actuellement les stratégies de référence :
 
-- Apprenez-en davantage sur les [paramètres de sécurité par défaut](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) et l’[activation de l’authentification multifacteur (MFA) pour votre organisation](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
+- Apprenez-en davantage sur les [paramètres de sécurité par défaut](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) et l’[activation de l’authentification multifacteur (MFA) pour votre organisation](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
 - Planifiez la transition des stratégies de référence aux paramètres de sécurité par défaut.
-- [Activez dès que possible les paramètres de sécurité par défaut en un seul clic](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) pour chaque locataire partenaire. Si les paramètres de sécurité par défaut ne répondent pas à vos besoins, envisagez d’autres options.
+- [Activez dès que possible les paramètres de sécurité par défaut en un seul clic](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) pour chaque locataire partenaire. Si les paramètres de sécurité par défaut ne répondent pas à vos besoins, envisagez d’autres options.
 
 Fournisseurs indirects :
 
@@ -270,7 +270,7 @@ Partenaires à facturation directe et fournisseurs indirects participant au prog
 
 La [nouvelle expérience de commerce Azure proposée dans le cadre du programme Fournisseur de solutions Cloud](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) peut vous aider à décrocher de nouveaux clients et à améliorer votre rentabilité grâce à des expériences d'achat et de vente simplifiées.
 
- Dans le cadre de cette nouvelle expérience, nous avons le plaisir d'annoncer le lancement de [nouvelles API de tarification](https://docs.microsoft.com/partner/develop/pricing) qui récupèrent par programmation **les prix des plans Azure pour la consommation et les réservations** ainsi que **les indices des taux de change** pour les devises de facturation prises en charge par Microsoft. Grâce à la nouvelle API de tarification, les partenaires peuvent automatiser et simplifier le processus de récupération d'informations sur les prix.
+ Dans le cadre de cette nouvelle expérience, nous avons le plaisir d'annoncer le lancement de [nouvelles API de tarification](/partner/develop/pricing) qui récupèrent par programmation **les prix des plans Azure pour la consommation et les réservations** ainsi que **les indices des taux de change** pour les devises de facturation prises en charge par Microsoft. Grâce à la nouvelle API de tarification, les partenaires peuvent automatiser et simplifier le processus de récupération d'informations sur les prix.
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>Les nouvelles API de tarification permettent aux partenaires de bénéficier des avantages suivants :
 
@@ -281,13 +281,13 @@ La [nouvelle expérience de commerce Azure proposée dans le cadre du programme 
 
 >[!Note] 
 >il s'agit d'une toute nouvelle ressource d'API spécifique à la tarification du plan Azure.
-- L'API [RateCard](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) existante doit continuer à être utilisée pour les ressources ou réservations Azure existantes déployées sur les précédents abonnements Azure qui ne font pas partie du plan Azure.
+- L'API [RateCard](/partner-center/develop/get-prices-for-microsoft-azure) existante doit continuer à être utilisée pour les ressources ou réservations Azure existantes déployées sur les précédents abonnements Azure qui ne font pas partie du plan Azure.
 - Ces API se trouvent sur un point de terminaison différent (un domaine hébergeant l'API) des API de l'Espace partenaires.
 
 ### <a name="partner-next-steps-and-resources"></a>Prochaines étapes et ressources des partenaires :
 
 - Consulter la [documentation destinée aux développeurs](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
-- Implémenter un processus automatisé à l'aide de [la nouvelle API](https://docs.microsoft.com/partner/develop/pricing)
+- Implémenter un processus automatisé à l'aide de [la nouvelle API](/partner/develop/pricing)
 - Pour toute question relative à la tarification, consultez la documentation [Tarification de plan Azure](../azure-plan-price-list.md).
 - [En savoir plus sur le plan Azure et la nouvelle expérience de commerce proposée dans le cadre du programme Fournisseurs de solutions Cloud](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 

@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435268"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000443"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ Une fois que vous avez publié votre profil, les mises à jour apparaissent dans
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Améliorer la visibilité de votre profil 
 
-- **[Répondez rapidement aux demandes](responding-to-referrals.md)** . Quand vous recevez une référence de client, une réponse rapide peut donner de meilleurs résultats dans les pages de recherche de futurs clients.
+- **[Répondez rapidement aux demandes](manage-leads.md)** . Quand vous recevez une référence de client, une réponse rapide peut donner de meilleurs résultats dans les pages de recherche de futurs clients.
+
 - **Sélectionnez vos étiquettes avec soin**.  Il est préférable d’avoir peu d’étiquettes qui représentent au mieux les offres, les solutions, les propositions de valeur et la position unique qui font le succès continu de votre entreprise.  Cette méthode s’avérera payante dans les futurs résultats de recherche.
 - **Obtenez des étiquettes de compétences** via Microsoft pour mettre en avant votre connaissance de nos produits.
 - **Obtenez des étiquettes d’approbation** des clients qui apprécient votre travail.
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Réponse aux références](responding-to-referrals.md)
+[Réponse aux références](manage-leads.md)

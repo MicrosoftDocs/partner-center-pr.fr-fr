@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468778"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999673"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Ajouter des licences ou des services supplémentaires à l’abonnement d’un client
 
@@ -31,7 +31,7 @@ ms.locfileid: "87468778"
 - Agent commercial
 - Agent du support technique
 
-Si votre client a besoin de plus de licences que dans son abonnement actuel ou d’une autre version offrant davantage de services, vous pouvez mettre à niveau l’abonnement. Pour plus d’informations, consultez [Basculer vers un autre plan Microsoft 365 Apps for business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Si votre client a besoin de plus de licences que dans son abonnement actuel ou d’une autre version offrant davantage de services, vous pouvez mettre à niveau l’abonnement. Pour plus d’informations, consultez [Basculer vers un autre plan Microsoft 365 Apps for business](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Mises à niveau prises en charge dans le programme CSP <a id="upgradesubscription"></a>
 
@@ -70,11 +70,12 @@ Pour plus d’informations sur l’impact sur la facturation, découvrez comment
 
 3. Sélectionnez la nouvelle offre, puis choisissez **Envoyer**.
 
-4. Vous aurez peut-être des tâches supplémentaires à effectuer pour migrer certains comptes utilisateur pour certains services. Si c’est le cas, l’Espace partenaires fournit la liste des comptes et des services qui ont été affectés. Pour obtenir de l’aide, consultez l’article [Problèmes de réaffectation des licences lorsque vous changez de plan dans Office&nbsp;365](https://go.microsoft.com/fwlink/p/?LinkId=723576) de la base de connaissances.
+4. Vous aurez peut-être des tâches supplémentaires à effectuer pour migrer certains comptes utilisateur pour certains services. Si c’est le cas, l’Espace partenaires fournit la liste des comptes et des services qui ont été affectés. Pour obtenir de l’aide, consultez l’article [Problèmes de réaffectation des licences lorsque vous changez de plan dans Office&nbsp;365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan) de la base de connaissances.
+
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Basculer vers un autre plan Microsoft 365 Entreprise](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+- [Basculer vers un autre plan Microsoft 365 Entreprise](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [Demander des privilèges d’administrateur délégués](request-a-relationship-with-a-customer.md)
 

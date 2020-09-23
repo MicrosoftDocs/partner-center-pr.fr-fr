@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527555"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000323"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tarifs de la nouvelle expérience de commerce du programme Fournisseur de solutions cloud pour Azure
 
@@ -104,7 +104,7 @@ Dans cet exemple, si 101 unités sont utilisées, le montant facturé serait de 
 
 ## <a name="pricing-api-for-azure-plan"></a>API de prix pour le plan Azure
 
-Vous pouvez utiliser l’[API de prix](https://docs.microsoft.com/partner/develop/pricing) pour récupérer par programmation les prix du plan Azure pour la consommation et les réservations. Vous pouvez également récupérer les taux de change.
+Vous pouvez utiliser l’[API de prix](/partner/develop/pricing) pour récupérer par programmation les prix du plan Azure pour la consommation et les réservations. Vous pouvez également récupérer les taux de change.
 
 L’API de prix ne se trouve pas sur le même point de terminaison que les autres API de l’Espace partenaires. Les informations fournies incluent les prix compteur en USD pour les ressources du plan Azure et les prix des réservations appliqués aux abonnements au plan Azure.
 
@@ -113,4 +113,4 @@ Cette API permet également aux partenaires de récupérer les taux de change me
 >[!NOTE]
 > L’API de prix est spécifique aux prix du plan Azure. Il est toujours conseillé d’utiliser l’API RateCard existante et les listes de prix publiées dans la page « Prix et offres » de l’Espace partenaires pour les ressources ou réservations Azure déployées sur des abonnements à des plans non-Azure. L’API de tarification du plan Azure ne prend pas en charge la tarification basée sur le logiciel, sur la Place de marché ou sur les licences, comme Microsoft 365 ou Dynamics 365.
 
-Pour plus d’informations sur les API de prix et de taux de change du plan Azure, consultez la [documentation complète sur l’API de prix](https://docs.microsoft.com/partner/develop/pricing).
+Pour plus d’informations sur les API de prix et de taux de change du plan Azure, consultez la [documentation complète sur l’API de prix](/partner/develop/pricing).

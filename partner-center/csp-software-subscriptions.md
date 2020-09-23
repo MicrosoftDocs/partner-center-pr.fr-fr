@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614149"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000483"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
 
@@ -116,7 +116,7 @@ Une fois l’abonnement logiciel acheté, suivez les étapes ci-dessous pour le 
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Téléchargement et clés de licence de l’abonnement serveur disponibles via le Centre d’administration Microsoft 365 pour les clients 
 
-Vos clients seront en mesure d’obtenir des clés de licence et des téléchargements de l’abonnement serveur CSP depuis le Centre d’administration Microsoft 365. Pour voir leurs clés de licence et les téléchargements de leur abonnement serveur CSP, le client doit accéder à Centre d’administration Microsoft 365 > **Facturation > Vos produits > Onglet Logiciels**. Pour plus d’informations, consultez [Onglet Logiciels sous Facturation](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Vos clients seront en mesure d’obtenir des clés de licence et des téléchargements de l’abonnement serveur CSP depuis le Centre d’administration Microsoft 365. Pour voir leurs clés de licence et les téléchargements de leur abonnement serveur CSP, le client doit accéder à Centre d’administration Microsoft 365 > **Facturation > Vos produits > Onglet Logiciels**. Pour plus d’informations, consultez [Onglet Logiciels sous Facturation](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité de l’accès aux clés logicielles et des téléchargements logiciels
 
@@ -138,12 +138,12 @@ Vos clients seront en mesure d’obtenir des clés de licence et des télécharg
 Vous pouvez annuler un achat de logiciel dans les 60 jours qui suivent la date d’achat. Si vous effectuez l’annulation pendant cette première période de 60 jours, aucun frais de résiliation anticipée ne vous sera facturé. Après 60 jours, vous ne pouvez plus annuler un achat. (Consultez la remarque relative aux restrictions de clés sur cette règle d’annulation. Pour en savoir plus sur ce qui se passe après l’annulation d’un achat de logiciel, consultez aussi Remarque importante, après ces étapes.) 
 
 >[!NOTE]
->Les étapes suivantes permettant d’annuler un achat s’appliquent uniquement aux logiciels qui sont éligibles à l’annulation dans une fenêtre d’annulation spécifique, par exemple dans les 60 premiers jours après l’achat. Ces étapes ne s’appliquent pas non plus à un abonnement logiciel SUSE Linux ou RedHat dans Azure. Pour le moment, vous ne pouvez pas annuler ou échanger un abonnement logiciel SUSE ou RedHat. [Découvrez-en plus](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) sur l’utilisation d’abonnement SUSE Linux ou RedHat.
+>Les étapes suivantes permettant d’annuler un achat s’appliquent uniquement aux logiciels qui sont éligibles à l’annulation dans une fenêtre d’annulation spécifique, par exemple dans les 60 premiers jours après l’achat. Ces étapes ne s’appliquent pas non plus à un abonnement logiciel SUSE Linux ou RedHat dans Azure. Pour le moment, vous ne pouvez pas annuler ou échanger un abonnement logiciel SUSE ou RedHat. [Découvrez-en plus](/azure/virtual-machines/linux/prepay-suse-software-charges) sur l’utilisation d’abonnement SUSE Linux ou RedHat.
 
 Suivez les étapes ci-dessous pour annuler un achat :
 
 >[!NOTE]
->Vous devez être Agent d’administration pour pouvoir annuler un achat. Les étapes suivantes expliquent comment annuler un achat dans le tableau de bord de l’Espace partenaires. Vous pouvez également effectuer cette opération à l’aide de l’[API de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
+>Vous devez être Agent d’administration pour pouvoir annuler un achat. Les étapes suivantes expliquent comment annuler un achat dans le tableau de bord de l’Espace partenaires. Vous pouvez également effectuer cette opération à l’aide de l’[API de l’Espace partenaires](/partner-center/develop/cancel-software-purchases).
 
 1. Avant de commencer le processus d’annulation, vérifiez que vous disposez des éléments suivants :
 

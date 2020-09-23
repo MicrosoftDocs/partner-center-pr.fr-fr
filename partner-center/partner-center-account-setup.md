@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
-ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
+ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88215579"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999263"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gérer votre compte Espace partenaires : profils d’entreprise, informations bancaires, rôles, autorisations, etc.
 
@@ -97,7 +97,7 @@ Les programmes disponibles dans l’Espace partenaires sont nombreux. Chaque pro
 
 Pour en savoir plus sur l’inscription aux programmes de l’Espace partenaires, consultez la liste (non exhaustive) suivante :
 
-- [Programme Place de marché commerciale](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programme Place de marché commerciale](/azure/marketplace/partner-center-portal/create-account)
 - [Programme MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
 - [Programme Fournisseur de solutions Cloud (CSP)](enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)

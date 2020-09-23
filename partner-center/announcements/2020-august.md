@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614128"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999623"
 ---
 # <a name="august-2020-announcements"></a>Annonces d’août 2020
 
@@ -136,7 +136,7 @@ Nous avons annoncé [l’année dernière](https://partner.microsoft.com/resourc
 
 Vous pourrez proposer vos services aux personnes et aux équipes sans avoir à passer par le processus d’approvisionnement informatique centralisé pour obtenir les licences requises. Vos services peuvent englober Project et Visio sur la base de scénarios d’intégration avec Microsoft 365 et Power Platform. 
 
-Découvrez plus en détail les opportunités Partenaire avec les solutions Visio et Power Platform dans la session Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Pour plus d’informations, consultez le [Guide pour gérer les achats libre-service](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
+Découvrez plus en détail les opportunités Partenaire avec les solutions Visio et Power Platform dans la session Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Pour plus d’informations, consultez le [Guide pour gérer les achats libre-service](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Ressources supplémentaires
 
@@ -221,7 +221,7 @@ Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éduc
 ### <a name="next-steps"></a>Étapes suivantes
 
 - Partagez ces informations avec les contacts concernés de votre organisation.
-- Pour plus d’informations sur le produit, consultez la [documentation Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection).
+- Pour plus d’informations sur le produit, consultez la [documentation Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection).
 
 ________________
 

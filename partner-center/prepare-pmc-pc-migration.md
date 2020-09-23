@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220387"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999983"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre transfert du Partner Membership Center (PMC) vers l’Espace partenaires
 
@@ -36,7 +36,7 @@ Un compte professionnel Azure est une représentation virtuelle dédiée et isol
 
 Votre compte professionnel héberge vos utilisateurs Azure AD et les informations les concernant : adresses e-mail, mots de passe, données de profil, autorisations, etc. Le compte professionnel contient aussi des groupes, des applications et toutes les informations relatives à une entreprise et à sa sécurité. 
 
-Votre adresse e-mail professionnelle fait partie intégrante de votre locataire Azure Active Directory. Pour avoir un compte dans l’Espace partenaires, vous devez disposer d’un locataire AAD. Pour plus d’informations sur Azure Active Directory, consultez [Créer votre annuaire dans Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Votre adresse e-mail professionnelle fait partie intégrante de votre locataire Azure Active Directory. Pour avoir un compte dans l’Espace partenaires, vous devez disposer d’un locataire AAD. Pour plus d’informations sur Azure Active Directory, consultez [Créer votre annuaire dans Azure AD](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 Dans l’Espace partenaires, vous vous connecterez à l’aide de votre adresse e-mail professionnelle et non de votre adresse personnelle.
 
@@ -49,7 +49,7 @@ Vous pouvez vous connecter à l’Espace partenaires soit avec le compte CSP soi
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>Si vous ne souhaitez pas utiliser votre client Office 365 Azure AD pour l’Espace partenaires, vous pouvez créer un nouveau locataire avant de migrer à partir de PMC.
 
-Vous pouvez avoir de nombreuses raisons de ne pas vouloir utiliser un locataire Azure AD existant pour configurer votre compte Espace partenaires. Avant de débuter votre migration vers l’Espace partenaires, accédez au [portail Azure](https://ms.portal.azure.com/#home) pour créer un locataire Azure AD. Suivez les recommandations livrées dans [Créer un locataire dans Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Utilisez le nouveau locataire AAD pour configurer votre compte Espace partenaires. Vous devez être administrateur général pour créer le locataire. 
+Vous pouvez avoir de nombreuses raisons de ne pas vouloir utiliser un locataire Azure AD existant pour configurer votre compte Espace partenaires. Avant de débuter votre migration vers l’Espace partenaires, accédez au [portail Azure](https://ms.portal.azure.com/#home) pour créer un locataire Azure AD. Suivez les recommandations livrées dans [Créer un locataire dans Azure Active Directory](/azure/active-directory/develop/quickstart-create-new-tenant). Utilisez le nouveau locataire AAD pour configurer votre compte Espace partenaires. Vous devez être administrateur général pour créer le locataire. 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>Rôles d’utilisateurs incluant les rôles d’utilisateurs invités dans l’Espace partenaires
 
@@ -132,7 +132,7 @@ Non, vous n’avez pas besoin de références client pour satisfaire les exigenc
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>Les associations Partenaire de référence sont-elles transférées dans l’Espace partenaires ?
 
-Oui, rien ne change pour le Partenaire de référence. Découvrez plus en détail comment [lier votre ID partenaire à vos clients](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
+Oui, rien ne change pour le Partenaire de référence. Découvrez plus en détail comment [lier votre ID partenaire à vos clients](/azure/billing/billing-partner-admin-link-started).
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>Le transfert dans l’Espace partenaires a-t-il un impact sur les incentives ?
 
@@ -164,6 +164,6 @@ Les références sont affectées en fonction des paramètres de recherche défin
 
 Si vous recevez un message d’erreur parce que vous participez au programme Web direct, vous devez effectuer les opérations suivantes :
 
-1. Connectez-vous à portal.Azure.com et créez un locataire Azure AD. Pour plus d’informations, consultez [Créer un locataire Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Connectez-vous à portal.Azure.com et créez un locataire Azure AD. Pour plus d’informations, consultez [Créer un locataire Azure AD](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
 
 2. Une fois que vous avez créé le locataire Azure AD, utilisez-le pour migrer du Partner Membership Center vers l’Espace partenaires ou pour vous inscrire en tant que nouveau membre dans l’Espace partenaires.
