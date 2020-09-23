@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: Connecteur de covente pour Salesforce CRM - vue d’ensemble
           href: connector-salesforce.md
+        - name: Résoudre les problèmes des connecteurs de référencements de covente
+          href: connectors-troubleshoot.md
         - name: Covente pour les partenaires qui migrent à partir de Partner sales Connect (PSC)
           href: psc-to-pc.md
         - name: Enregistrer vos transactions
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: Scénarios d’abonnements SaaS basés sur licences
           href: common-billing-scenarios-saas.md
+        - name: Facturation pour les offres de la Place de marché
+          href: csp-commercial-marketplace-billing.md
+        - name: Obtenir votre paiement - place de marché
+          href: marketplace-get-paid.md
     - name: Afficher les signatures numériques - Espace partenaires Inde
       href: digital-signature.md
     - name: Taxes et exonérations fiscales
@@ -308,12 +314,20 @@
       items:
         - name: Informations sur la TVA de l’entreprise
           href: organization-tax-info.md
+        - name: Informations sur la TVA dans l’inscription à l’Espace partenaires
+          href: vat-info.md
         - name: Recevoir un crédit pour une retenue fiscale
           href: withholding-tax-credit-form.md
         - name: Taxe locale - services vocaux
           href: tax-and-fees-voice-services.md
-    - name: Demander un crédit de contrat SLA à Microsoft
-      href: request-credit.md
+        - name: Détails des taxes pour les éditeurs de la place de marché commerciale
+          href: tax-details-marketplace.md
+        - name: Présentation des déclarations fiscales de l’IRS envoyées par Microsoft
+          href: understand-irs-tax-forms.md
+        - name: Configurer votre compte de paiement et vos déclarations de taxe
+          href: set-up-your-payout-account.md
+        - name: Demander un crédit de contrat SLA à Microsoft
+          href: request-credit.md
     - name: Définir un budget Azure pour vos clients
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Gestion des défauts de paiement, des fraudes ou des mauvaises utilisations'
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: Gérer les offres de la Place de marché
           href: csp-commercial-marketplace-manage.md
-        - name: Facturation pour les offres de la Place de marché
-          href: csp-commercial-marketplace-billing.md
         - name: Support pour les offres de la Place de marché
           href: csp-commercial-marketplace-support.md
         - name: Contrats pour les achats de la Place de marché
@@ -429,7 +441,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Passer de clients de services basés sur des licences au programme Fournisseur de services cloud
           href: transition-seat-based-services.md
-        - name: 'Vendre des abonnements Minecraft: Education Edition'
+        - name: Vendre des abonnements Minecraft Édition Éducation
           href: minecraft-subscriptions.md
         - name: Vendre aux secteurs spécialisés
           href: Get-special-pricing-for-offers.md
