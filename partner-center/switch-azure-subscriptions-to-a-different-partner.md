@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
-ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
+ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87412435"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206321"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Découvrez comment transférer les abonnements Azure d’un client à un autre partenaire
 
@@ -106,5 +106,6 @@ Pour faire basculer les services ou abonnements Azure d’un client vers un autr
 ## <a name="next-steps"></a>Étapes suivantes
 
 - Téléchargez le [formulaire de transfert d’abonnement CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
-- En savoir plus sur la [prise en charge de plusieurs partenaires](multipartner.md).
-- En savoir plus sur la [prise en charge de plusieurs canaux](multichannel.md).
+- [prise en charge de plusieurs partenaires](multipartner.md).
+- [prise en charge de plusieurs canaux](multichannel.md).
+- [Transférer des abonnements Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
