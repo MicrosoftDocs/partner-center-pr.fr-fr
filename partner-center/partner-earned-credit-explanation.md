@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564690"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999863"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Calcul et paiement du crédit Partenaires
 
@@ -44,7 +44,7 @@ Lire également [Rétablir les privilèges d’administrateur pour les abonnemen
 
 - Il est possible d’obtenir un crédit PEC jusqu’au niveau des ressources Azure. Si le partenaire a un accès valide au niveau de l’abonnement ou du groupe de ressources, chaque ressource qui atteint l’entité supérieure obtient un crédit PEC.  
 
-- Les détails du crédit PEC se trouvent aussi dans [Azure Cost Management](https://go.microsoft.com/fwlink/?linkid=2106482).
+- Les détails du crédit PEC se trouvent aussi dans [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners).
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -78,4 +78,3 @@ Quand la propriété PartnerEarnedCreditApplied a la valeur False, le coût asso
 - [Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md)
 
 - [Révoquer ou rétablir les privilèges d’administrateur pour les abonnements Azure CSP](revoke-reinstate-csp.md)
-

@@ -1,20 +1,20 @@
 ---
 title: Attribuer des rôles et des autorisations aux utilisateurs
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 09/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apprenez à identifier les rôles les mieux adaptés aux utilisateurs de votre entreprise qui gèrent les transactions commerciales, les références, les incentives ou les adhésions MPN dans l’Espace partenaires.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.custom: SEOMAY.20, contperfq1
+ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
+ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490597"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "90832112"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Attribuer des rôles et des autorisations aux utilisateurs d’une entreprise qui ont besoin de travailler dans l’Espace partenaires
 
@@ -28,10 +28,10 @@ Vous avez configuré votre profil de partenaire, notamment le nom légal, l’ad
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurer vos employés pour qu’ils travaillent dans l’Espace partenaires
 
-Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace partenaires à l’aide des rôles et autorisations que vous leur donnez. Les rôles sont liés aux programmes auxquels votre entreprise participe. Par exemple, si votre entreprise est un fournisseur de solutions Cloud, vous n’avez pas uniquement besoin des rôle de gestion de locataire Azure AD standard, comme celui de l’administrateur général, mais aussi de rôles spécifiques du programme des fournisseurs de solutions Cloud. Chaque programme est associé à des rôles spécifiques.
+Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace partenaires à l’aide des rôles et autorisations que vous leur donnez. Les rôles sont liés aux programmes auxquels votre entreprise participe. Par exemple, si votre entreprise est un fournisseur de solutions Cloud, vous avez non seulement besoin de rôles de gestion de locataire Azure Active Directory standard, comme celui de l’administrateur général, mais aussi de rôles spécifiques au programme CSP. Chaque programme est associé à des rôles spécifiques.
 
 >[!Note]
-> Les rôles de locataire Azure Active Directory (AAD) incluent les rôles d’administrateur général, d’administrateur d’utilisateurs et de fournisseur de solutions Cloud. Les rôles non-AAD sont ceux qui ne gèrent pas le locataire. Ils incluent l’administrateur MPN, l’administrateur de profils métier, l’administrateur des références, l’administrateur de primes incitatives et l’utilisateur de primes incitatives. 
+> Les rôles de locataire Azure Active Directory incluent les rôles d’administrateur général, d’administrateur d’utilisateurs et de fournisseur de solutions Cloud. Les rôles non-Azure Active Directory sont ceux qui ne gèrent pas le locataire, comme l’administrateur MPN, l’administrateur de profils métier, l’administrateur des références, l’administrateur d’incentives et l’utilisateur d’incentives. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gérer les transactions commerciales dans l’Espace partenaires (rôles Azure AD et Fournisseur de solutions Microsoft Cloud)
 
@@ -83,7 +83,8 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Fournisseur de panneau de contrôle (CPV) (rôle Fournisseur de solutions Cloud et rôle non-AAD)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Fournisseur de panneau de contrôle (CPV) (rôle Fournisseur de solutions Cloud et rôle non-Azure AD)
+
 Les CPV développent des applications utilisées par les partenaires fournisseurs de solutions Cloud pour leur permettre d’intégrer leurs systèmes aux API de l’Espace partenaires. 
 
 |**Rôle**   |**Ce qu’il peut faire**|**En savoir plus**|
@@ -91,7 +92,7 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 |Administrateur général| Voir et gérer votre profil de CPV|[S’inscrire en tant que fournisseur de panneau de configuration pour faciliter l’intégration des systèmes de partenaires CSP aux API de l’Espace partenaires](enroll-as-cpv.md)
 ||Voir et gérer vos utilisateurs ayant besoin d’accéder aux fonctionnalités de CPV|
 
-### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Utilisateur invité (doit être ajouté au locataire AAD)
+### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Utilisateur invité (doit être ajouté au locataire Azure Active Directory)
 
 |**Utilisateur invité**   | **Rôles**|
 |---------------------------|:--------------------|
@@ -102,7 +103,9 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 ||Administrateur des références|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Gérer l’appartenance MPN et votre entreprise (rôles non-AAD : ces rôles gèrent l’activité de l’entreprise plutôt que le locataire)
+## <a name="manage-mpn-membership-and-your-company"></a>Gérer l’appartenance MPN et votre entreprise 
+
+Ces rôles ne sont pas des rôles Azure Active Directory. Ces rôles gèrent l’activité de la société plutôt que le locataire.
 
 |**Rôle** | **Ce qu’il peut faire**|**En savoir plus**|
 |----------------------------|:----------------------------|-----|
@@ -121,7 +124,7 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 ||*    Voir les tickets de support partenaire que vous créez
 |Administrateur des comptes| • Ajouter des emplacements|[Gérer des sites](manage-locations.md)
 || • Gérer les profils associés aux comptes dont vous êtes administrateur 
-||*    Affecter des rôles non-ADD aux utilisateurs dans le locataire 
+||*    Affecter des rôles non-Azure Active Directory aux utilisateurs dans le locataire 
 ||*    Inscrire des emplacements dans des programmes
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez
@@ -167,14 +170,3 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 
 - [Créer des comptes d’utilisateur et attribuer des rôles et des autorisations](create-user-accounts-and-set-permissions.md)
 - [Vérifier les informations de votre compte lors de votre inscription à un nouveau programme de l’Espace partenaires](verification-responses.md)
-
-
-
-
-
-
-
-
-
-
-                                    
