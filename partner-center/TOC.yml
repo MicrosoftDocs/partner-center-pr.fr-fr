@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: Scénarios d’abonnements SaaS basés sur licences
           href: common-billing-scenarios-saas.md
+    - name: Scénarios de facturation et de paiement dans la Place de marché
+      items:
         - name: Facturation pour les offres de la Place de marché
           href: csp-commercial-marketplace-billing.md
         - name: Obtenir votre paiement - place de marché
