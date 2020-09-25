@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007393"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248897"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Recevoir un paiement dans la place de marché commerciale
 
@@ -30,11 +30,11 @@ Les frais de Store sont appliqués à toutes les ventes d’offres collectées p
 
 ## <a name="payout-reporting"></a>Rapports de paiement
 
-Vous pouvez accéder aux détails de vos informations de paiement et télécharger des rapports dans la page **Récapitulatif des paiements** de l’[Espace partenaires](https://partner.microsoft.com/dashboard). Pour en savoir plus sur les informations présentées ici et sur la façon dont nous classons l’argent que vous gagnez, consultez la présentation des [rapports de paiements](/azure/marketplace/payout-summary-overview).
+Vous pouvez accéder aux détails de vos informations de paiement et télécharger des rapports dans la page **Récapitulatif des paiements** de l’[Espace partenaires](https://partner.microsoft.com/dashboard). Pour plus d’informations sur les informations présentées ici et sur la façon dont nous classons l’argent que vous gagnez, consultez l’article sur le [paiement](payout-statement.md).
 
 ## <a name="payout-time-frame"></a>Délai de paiement
 
-Les paiements sont effectués chaque mois (à condition que le seuil de paiement applicable soit atteint et que vous n’ayez pas mis votre paiement en attente comme indiqué ci-dessous). En général, nous envoyons tout paiement dû le 15 du mois donné. Notez que les paiements prennent généralement entre 3 et 10 jours ouvrables supplémentaires pour parvenir à votre compte de paiement. Pour plus d’informations, consultez [Seuils, modes et délais de paiement](/azure/marketplace/payment-thresholds-methods-timeframes).
+Les paiements sont effectués chaque mois (à condition que le seuil de paiement applicable soit atteint et que vous n’ayez pas mis votre paiement en attente comme indiqué ci-dessous). En général, nous envoyons tout paiement dû le 15 du mois donné. Notez que les paiements prennent généralement entre 3 et 10 jours ouvrables supplémentaires pour parvenir à votre compte de paiement. Pour plus d’informations, consultez [Seuils, modes et délais de paiement](payment-thresholds-methods-timeframes.md).
 
 ## <a name="payout-hold-status"></a>État de paiement en attente
 
