@@ -418,6 +418,8 @@
           href: azure-plan-manage.md
         - name: Rétablir les privilèges d’administrateur pour les abonnements Azure CSP
           href: revoke-reinstate-csp.md
+        - name: Transférer des abonnements Azure
+          href: switch-azure-subscriptions-to-a-different-partner.md
     - name: Abonnements à des logiciels
       href: csp-software-subscriptions.md
     - name: Vendre des logiciels locaux par le biais du programme CSP
@@ -463,8 +465,6 @@
           href: migrate-office365-e4-subscriptions-to-newer-versions.md
         - name: "Migrer Skype Entreprise Online (Plan 1) vers des versions plus récentes d’Office\_365"
           href: skype-retiring.md
-        - name: Transférer des abonnements Azure
-          href: switch-azure-subscriptions-to-a-different-partner.md
         - name: "Migrer les abonnements Kaizala Pro vers Microsoft\_365"
           href: migrate-kaizala-pro-partner.md
     - name: "Conseillers vendant Office\_365"
