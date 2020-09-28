@@ -1,19 +1,19 @@
 ---
 title: Inscription aux incentives
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 09/25/2020
 description: Inscrivez-vous au programme d’incentives et attribuez les rôles nécessaires à la gestion des utilisateurs.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 9bd1b3ae1ecc01b2709370d7e20fc0556fd14595
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714443"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406352"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscription et gestion des utilisateurs dans le programme d’incentives
 
@@ -30,24 +30,28 @@ ms.locfileid: "90714443"
 
 Le processus d’inscription se compose de deux étapes.
 
-**Étape 1. Gestion des utilisateurs :** cette étape implique l’établissement des autorisations de l’administrateur et de l’utilisateur incitative.
+**Étape 1. Gestion des utilisateurs :** cette étape implique l’établissement de l’administrateur d’incentives dans l’espace partenaires.
 
 **Étape 2. Inscription :** Microsoft vous envoie une invitation à inscrire votre programme d’incentives.
 
 ## <a name="user-management"></a>User Management
 
-Pour s’inscrire à un programme d’incentives, l’administrateur général ou l’administrateur de compte doit configurer les utilisateurs de votre entreprise. Ils doivent attribuer un ou plusieurs administrateurs d’incentives et accorder des autorisations utilisateur incitatives. Pour plus d’informations sur les comptes de partenaires, les rôles et les autorisations, consultez [gérer votre compte espace partenaires](partner-center-account-setup.md). L’administrateur général peut également configurer les utilisateurs de votre entreprise par le biais du Azure Active Directory (Azure AD).
+Pour s’inscrire à un programme d’incentives de l’espace partenaires, l’administrateur général ou l’administrateur de compte doit configurer les utilisateurs de votre entreprise en tant qu’administrateurs d’incentives. Pour plus d’informations sur les comptes de partenaires, les rôles et les autorisations, consultez [gérer votre compte espace partenaires](partner-center-account-setup.md). L’administrateur général peut également configurer les utilisateurs de votre entreprise par le biais du Azure Active Directory (Azure AD).
 
-Une fois que votre organisation est éligible à des incentives, Microsoft enverra des invitations à l’administrateur général, à l’administrateur de compte et à l’administrateur d’incentives.
+Une fois que votre organisation est éligible à des incentives, Microsoft envoie des invitations à l’administrateur de compte et à l’administrateur d’incentives.
 
 >[!NOTE]
 >Seul l’administrateur d’incentives peut s’inscrire dans des programmes incitants. S’il n’existe aucun administrateur d’incentives pour votre site, l’administrateur général et l’administrateur de compte doivent en affecter un. L’administrateur d’incentives doit être affecté à l’emplacement ID MPN. L’administrateur général ou l’administrateur de compte peut également être affecté en tant qu’administrateur d’incentives.
 
 ## <a name="enrollment-process"></a>Processus d’inscription
 
-Une fois que votre organisation est éligible à des incentives, Microsoft enverra une invitation à l’administrateur MPN du MPNLocationID éligible pour démarrer le processus. Cet e-mail est envoyé par l' **espace partenaires Microsoft**et l’invitation à l' **inscription d’incentives du partenaire**est envoyée. Ouvrez l’invitation et sélectionnez **prise en main**.
+Une fois que votre organisation est éligible à des incentives, Microsoft envoie une invitation à l’administrateur des incentives du MPNLocationID éligible pour commencer le processus d’inscription. Cet e-mail est envoyé par l' **espace partenaires Microsoft**et l’invitation à l' **inscription d’incentives du partenaire**est envoyée. Ouvrez l’invitation et sélectionnez **prise en main**.
 
-Vous verrez également une invitation sur la page d’hébergement de l’espace partenaires. Une fois que vous avez sélectionné ce message, vous ne pouvez plus le voir. Toutefois, l’administrateur peut toujours démarrer le processus en se connectant au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) et en sélectionnant **gestion des utilisateurs**.
+Vous verrez également une invitation sur la page d’hébergement de l’espace partenaires. Une fois que vous avez sélectionné ce message, vous ne pouvez plus le voir. Toutefois, l’administrateur des incentives peut toujours démarrer le processus en se connectant au [tableau de bord espace partenaires](https://partner.microsoft.com/dashboard/) et en sélectionnant **gestion des utilisateurs**.
+
+Certains programmes d’incentives n’ont pas de critères d’éligibilité et sont ouverts à tous les partenaires. L’administrateur d’incentives verra des invitations pour ces programmes sur la page de présentation de la prime, à condition qu’ils disposent d’autorisations pour le programme d’incentives et MPN. Microsoft n’envoie pas d’invitations par courrier électronique pour ces programmes.
+
+Pour plus d’informations sur le processus d’inscription, téléchargez le Guide d’inscription aux [incentives](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (connexion requise).
 
 ## <a name="expiration-and-renewal"></a>Expiration et renouvellement
 

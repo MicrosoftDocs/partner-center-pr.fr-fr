@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220257"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406342"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -76,13 +76,13 @@ Pour accéder à la page **My incentives overview** (Vue d’ensemble de mes inc
 >Consultez le tableau suivant pour en savoir plus sur les différents États d’inscription présentés dans la colonne **État** .
 
 
-| **Statut**         | **Visible quand** |
+| **État**         | **Visible quand** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
 | Inscrit  | Toutes les informations fiscales et bancaires ont été validées. Aucune autre action d’inscription n’est requise par le partenaire. |
 | Inscription  | L’utilisateur n’est pas un administrateur d’incentives et l’inscription est dans l' **action requise** ou la validation des États d' **inscription** .|
-| Inactif/inéligible | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription. <br> Si l’État n’est pas **éligible**, le partenaire ne répond pas aux conditions d’éligibilité actuelles pour le programme ; Si vous sélectionnez le lien **voir les conditions d’éligibilité** sous l’état de l’inscription, vous verrez les conditions requises pour l’éligibilité et celles qui ont été respectées. |
+| Inactif/inéligible | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription. <br><br> Si l’État n’est pas **éligible**, le partenaire ne répond pas aux conditions d’éligibilité actuelles pour le programme ; Si vous sélectionnez le lien **voir les conditions d’éligibilité** sous l’état de l’inscription, vous verrez les conditions requises pour l’éligibilité et celles qui ont été respectées. <br><br> Vous pouvez également voir un état **inactif** pour les inscriptions d’organisation virtuelle (VORG) ou de compte global de partenaire (PGA) qui ne sont plus actives dans le programme d’incentives.  |
 | Invité  | Une nouvelle invitation d’inscription au programme d’incentives a été envoyée au partenaire, mais le partenaire n’a pas encore démarré le processus d’inscription. La colonne adjacente **actions requises** affiche les étapes suivantes et les liens associés.  |
 | Validation de l’inscription  | Le partenaire a déjà effectué ou mis à jour des informations bancaires et fiscales pour une inscription nouvelle ou existante et attend que Microsoft valide ces informations. Pendant le processus de validation, la validation de l' **inscription** peut s’afficher pendant jusqu’à 48 heures.  |
 
@@ -116,7 +116,7 @@ Le mois de paiement estimé est actuellement disponible pour tous les types de g
 
 #### <a name="estimated-payment-month-example"></a>Exemple de mois de paiement estimé
 
-| Month (Mois) | Montant |
+| Month | Montant |
 | ------ | :-----------: |
 |  Sep-2020 |  $7 273,99   |
 |  Oct-2020 | $8 692,30  |
