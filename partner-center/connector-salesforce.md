@@ -8,12 +8,12 @@ description: Synchroniser vos références dans l’espace partenaires avec votr
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372824"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422445"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -102,7 +102,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 
 
-## <a name="configure-the-solution"></a>Configuration de la solution
+## <a name="configure-the-solution"></a>Configurer la solution
 
 1. Une fois que vous avez installé la solution dans votre instance CRM, revenez à [Power automate](https://flow.microsoft.com/).
 
@@ -237,45 +237,6 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
 
 Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
 
-### <a name="set-up-fields-and-relationships"></a>Définir des champs et des relations
-
-1. Connectez-vous à votre compte Salesforce et accédez à **opportunité**.
-
-2. Cliquez sur les options **d’installation** et de **modification d’objet** pour ajouter les champs nécessaires.
-
-3. Sélectionner les **champs & les relations** dans le volet de navigation gauche
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
-
-4. Ajoutez les champs suivants dans la table **fields & Relationship** :
-
-   |**Étiquette du champ**   |**Nom du champ**|**Type de données**|**Indexée**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |Audit| Audit__c|Longue zone de texte (100000) (ligne visible 4)||
-   |Comment Microsoft peut-il vous aider ?|How_can_Microsoft_help_c|Liste déroulante|
-   |Produits|Products_c|texte (255)||
-   |Referral | Referral_Identfier_c|Texte (100) (ID externe)|Oui|
-   |Lien de référence| Referral_Link_c_|URL (255)||
-   |Synchroniser avec l’espace partenaires|sync_with_partner_center_c|Case à cocher (désactivé par défaut)||
-
-   * Valeurs de liste déroulante :
-
-   - Proposition de valeur spécifique à la charge de travail
-   - Architecture technique du client
-   - Preuve de concept ou démonstration
-   - Devis ou licences
-   - Succès du client après la vente
-   - Général ou autre
-
-5. Les champs sont créés sous les **champs & les relations**
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="Champs créés":::
-
-6. Dans la disposition opportunité, créez une section distincte avec les champs comme indiqué ci-dessus.
-
-   - Cette section doit être disponible pour les vendeurs dans la disposition opportunité.
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="Disposition des champs de l’espace partenaires":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Synchronisation bidirectionnelle de la direction de la co-vente de bout en bout
 

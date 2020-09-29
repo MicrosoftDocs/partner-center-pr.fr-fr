@@ -1,5 +1,5 @@
 ---
-title: Résoudre les problèmes de co-vente des connecteurs de référence
+title: Résoudre les problèmes des connecteurs de référencements de covente
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: FAQ sur la résolution des problèmes de co-vente des connecteurs.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91002954"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422335"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>Résoudre les problèmes de co-vente des connecteurs de référence
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>Résoudre les problèmes des connecteurs de référencements de covente
 
 **S’applique à :**
 
@@ -104,27 +104,28 @@ Vous ajoutez des connexions au Flow pendant que le workflow est en cours d’ex�
 
 5. Que devez-vous faire si les flux de la solution de références de covente des connexions ne sont pas activés (activation) ?
 
-    R. Dans Power automate, vous devrez modifier les flux dans l’ordre suivant et les mettre à jour pour qu’ils utilisent des connexions respectives :
+R. Dans Power automate, vous devrez modifier les flux dans l’ordre suivant et les mettre à jour pour qu’ils utilisent des connexions respectives :
 
-    - Inscription au webhook de l’espace partenaires (version préliminaire d’Insider)
-    - Créer une référence de covente-Salesforce à l’espace partenaires (version préliminaire d’Insider)
-    - Espace partenaires Microsoft : mises à jour de la référence à Salesforce (version préliminaire d’Insider)
-    - Espace partenaires vers Salesforce (version préliminaire d’Insider)
-    - Salesforce pour Partner Center (version préliminaire d’Insider)
-    - Opportunité Salesforce pour Partner Center (version préliminaire d’Insider)
-    - Solutions Microsoft Salesforce pour Partner Center (version préliminaire d’Insider)
+- Inscription au webhook de l’espace partenaires (version préliminaire d’Insider)
+- Créer une référence de covente-Salesforce à l’espace partenaires (version préliminaire d’Insider)
+- Espace partenaires Microsoft : mises à jour de la référence à Salesforce (version préliminaire d’Insider)
+- Espace partenaires vers Salesforce (version préliminaire d’Insider)
+- Salesforce pour Partner Center (version préliminaire d’Insider)
+- Opportunité Salesforce pour Partner Center (version préliminaire d’Insider)
+- Solutions Microsoft Salesforce pour Partner Center (version préliminaire d’Insider)
 
-    B. Pour chaque Flow, sélectionnez l’option **exécuter uniquement les utilisateurs** . Sélectionnez **utiliser la connexion** au lieu de **fourni par l’utilisateur en exécution seule**.  
+ B. Pour chaque Flow, sélectionnez l’option **exécuter uniquement les utilisateurs** . Sélectionnez **utiliser la connexion** au lieu de **fourni par l’utilisateur en exécution seule**.  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Pour activer un Flow":::
 
+
 C. Activez les flux indiqués ci-dessous :
 
-- Espace partenaires Microsoft : mises à jour de la référence à Salesforce (version préliminaire d’Insider)
+ - Espace partenaires Microsoft : mises à jour de la référence à Salesforce (version préliminaire d’Insider)
 
 - Salesforce pour Partner Center (version préliminaire d’Insider)
 
-
+    
 D. Activez tous les flux restants.
 
 E. Dans l’inscription au webhook de l’espace partenaires, sélectionnez **exécuter**. Fournissez l' **URL http** à partir de la première action dans **Partner Center vers Salesforce** Flow. Sélectionnez les quatre options sous **événements à inscrire** , puis sélectionnez **Oui** pour le remplacement.

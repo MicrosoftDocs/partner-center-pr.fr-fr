@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206321"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422315"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Découvrez comment transférer les abonnements Azure d’un client à un autre partenaire
 
@@ -37,23 +37,27 @@ Pour faire basculer les services ou abonnements Azure d’un client vers un autr
 1. Pour transférer un abonnement Azure à un nouveau partenaire, le client doit démarrer le processus et contacter son partenaire d’enregistrement en écriture.
 
    >[!Note]
-   >Il incombe au partenaire actuel de créer le ticket de service qui initie le processus de transfert. Microsoft ne peut pas intervenir pour le compte du client ou du nouveau partenaire. Le client doit envisager de travailler en étroite collaboration avec le partenaire actuel pour effectuer la transition.
+   > Il incombe au partenaire actuel de créer le ticket de service qui initie le processus de transfert. Microsoft ne peut pas intervenir pour le compte du client ou du nouveau partenaire. Le client doit envisager de travailler en étroite collaboration avec le partenaire actuel pour effectuer la transition.
 
 2. Le partenaire de l’abonnement doit effectuer les tâches suivantes :
 
    Créez un ticket de service Azure dans l’Espace partenaires pour demander un transfert d’abonnement&nbsp;:
 
-   - Dans le menu espace partenaires, sélectionnez **clients**, sélectionnez votre client dans la liste, puis sélectionnez **gestion des services**. Dans la section **Tickets de support**, cliquez sur le menu déroulant **Nouveau ticket** et choisissez **Microsoft Azure**.
+   1. Dans le menu espace partenaires, sélectionnez **clients**, sélectionnez votre client dans la liste, puis sélectionnez **gestion des services**. 
 
-   - Dans le [portail Azure](https://portal.azure.com), sélectionnez **nouvelle demande de support**.
+   2. Dans la section **Tickets de support**, cliquez sur le menu déroulant **Nouveau ticket** et choisissez **Microsoft Azure**.
+   
+   3. Dans le [portail Azure](https://portal.azure.com), sélectionnez **nouvelle demande de support**.
+   
+   4. À l’étape&nbsp;1, choisissez le type de problème **Gestion des abonnements**, indiquez l’ID d’abonnement que vous voulez transférer, puis choisissez **Fournisseur de solutions&nbsp;Cloud** comme formule d’assistance.
+   
+   5. À l’étape 2, sélectionnez **C-impact minimal** , puis choisissez **autres questions générales** comme type de problème.
+   
+   6. Téléchargez le [formulaire de transfert d’abonnement CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
 
-     À l’étape&nbsp;1, choisissez le type de problème **Gestion des abonnements**, indiquez l’ID d’abonnement que vous voulez transférer, puis choisissez **Fournisseur de solutions&nbsp;Cloud** comme formule d’assistance.
+3. Le partenaire de l’abonnement : Renseignez le [formulaire de transfert d’abonnement CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), signez-le, puis envoyez-le au client. 
 
-     À l’étape 2, sélectionnez **C-impact minimal** , puis choisissez **autres questions générales** comme type de problème.
-
-     Téléchargez le [formulaire de transfert d’abonnement CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
-
-3. Le partenaire de l’abonnement : Renseignez le [formulaire de transfert d’abonnement CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), signez-le, puis envoyez-le au client. Pour remplir le formulaire, vous aurez besoin des informations suivantes&nbsp;:
+   Pour remplir le formulaire, vous aurez besoin des informations suivantes&nbsp;:
 
    - Les coordonnées du partenaire actuel et son ID Microsoft. Dans le menu de l’Espace partenaires, sélectionnez **Paramètres du compte** &gt; **Profil d’entreprise**, et utilisez les informations **ID Microsoft**, **Nom de l’organisation** et **Adresse** indiquées ici.
 
@@ -106,6 +110,10 @@ Pour faire basculer les services ou abonnements Azure d’un client vers un autr
 ## <a name="next-steps"></a>Étapes suivantes
 
 - Téléchargez le [formulaire de transfert d’abonnement CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+
+- En savoir plus sur la [prise en charge de plusieurs partenaires](multipartner.md).
+
 - [prise en charge de plusieurs partenaires](multipartner.md).
 - [prise en charge de plusieurs canaux](multichannel.md).
 - [Transférer des abonnements Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
+
