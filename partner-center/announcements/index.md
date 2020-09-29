@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372789"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422325"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,9 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de septembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[[Disponibilité du nouvel outil de transition d’abonnements entre partenaires pour le plan Azure](2020-september.md#15)](2020-september.md#15)|28 septembre|
+|Fonctions|[Test de la mise à jour : Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur visant le processus de validation des clients Éducation](2020-september.md#14)|28 septembre|
+|Fonctions|[Mise à jour - API d’utilisation d’O365 CSP et rapports d’utilisation de licences CSP](2020-september.md#13)|29 septembre|
 |Fonctions|[Changements à venir concernant la loi fédérale russe sur la TVA](2020-september.md#12)|25 septembre|
 |Fonctions|[Mise en production du SDK sur .NET Standard v1.16.2](2020-september.md#11)|22 septembre|
 |Fonctions|[Insights de l’Espace partenaires : votre ressource de rapports pour comprendre votre activité avec Microsoft.](2020-september.md#10)|23 septembre|
