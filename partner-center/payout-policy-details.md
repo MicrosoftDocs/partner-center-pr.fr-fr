@@ -6,26 +6,17 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/24/2020
-ms.openlocfilehash: 17fedcf4ef3d474eab679a03eecb221c90342a04
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/28/2020
+ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335668"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591109"
 ---
 # <a name="payout-policy-details"></a>Détails de la politique de paiement
 
-Cet article décrit le processus de paiement de Microsoft, le calendrier de paiement et la stratégie de réapprovisionnement, ainsi que l’emplacement de l’état d’un paiement.
-
-## <a name="where-to-find-upcoming-payouts"></a>Où trouver les paiements à venir
-
-Dans l’espace partenaires, sélectionnez l’icône **paiement** dans l’angle supérieur droit de l’écran :
-
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustre l’icône Revenu en haut à droite du portail Espace partenaires.":::
-
-> [!TIP]
-> Certains rôles de compte n’ont pas accès aux informations de paiement. Pour plus d’informations, consultez [rôles et autorisations](payout-statement.md#roles-and-permissions).
+Cet article décrit le processus de paiement de Microsoft, le calendrier des paiements, où trouver le statut d’un paiement et la stratégie de recouvrement.
 
 ## <a name="payment-schedules"></a>Calendriers de paiement
 
@@ -33,9 +24,9 @@ Les sections suivantes décrivent notre processus de paiement.
 
 ### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>Transactions Contrat Entreprise postérieures au 1er mai 2020
 
-Nous avons effectué la mise à jour suivante pour notre modèle de paiement de l’éditeur de la place de marché commercial :
+#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>Mettre à jour le modèle de paiement de l’éditeur de la place de marché commerciale
 
-À compter du 1er mai 2020, nous mettons à jour notre politique de paiement relative aux produits achetés dans Microsoft AppSource ou la place de marché Azure par les clients disposant d’un Accord Entreprise Microsoft. Lorsqu’un client achète un produit à partir de la place de marché Azure ou AppSource à l’aide de son Accord Entreprise Microsoft existant pour les transactions, après le 1er mai, 2020 nous commencerons à émettre des paiements dans le cycle de paiement suivant 30 jours après la facture client. Un client qui utilise la carte de crédit dans une transaction est soumis aux mêmes conditions, à savoir une période d’attente de 30 jours avant paiement. Ce tableau présente les détails du calendrier de paiement.
+À compter du 1er mai 2020, nous mettons à jour notre politique de paiement relative aux produits achetés sur la Place de marché Azure ou AppSource par les clients titulaires d’un Contrat Entreprise Microsoft. Pour un client qui achète un produit sur la Place de marché Azure ou AppSource dans le cadre de son Contrat Entreprise Microsoft existant après le 1er mai 2020, le paiement sera émis au prochain cycle de paiement, 30 jours après la date de facturation du client. Un client qui utilise la carte de crédit dans une transaction est soumis aux mêmes conditions, à savoir une période d’attente de 30 jours avant paiement. Ce tableau présente les détails du calendrier de paiement.
 
 > [!NOTE]
 > Pour connaître les mesures que nous prenons en cas de défaut de paiement d’un client si nous vous avons déjà adressé le paiement, consultez [Processus en cas de défaut de paiement d’un client](#process-for-customer-non-payment) ci-dessous.
@@ -51,7 +42,7 @@ Nous avons effectué la mise à jour suivante pour notre modèle de paiement de 
 | Facture client recueillie | 01/12/2020 | Marqué **Envoyé** dans l’Historique des transactions et dans la section Paiements du tableau de bord Revenu | **Rapport d’utilisation** : indication de la consommation avec OrderID/OrderLineItemID<br>**Rapport sur les commandes** : commandes client présentant l’état ACTIF  |
 |  |  |  |  |
 
-\* Le rapport d’utilisation et le rapport sur les commandes sont accessibles dans la section Analyser de l’Espace partenaires.</br>\** La date de paiement est exprimée en Heure standard du Pacifique (PST).
+\* Les rapports d’utilisation et de commande sont accessibles dans la section analyser de l’espace partenaires. \* *. La date de paiement est l’heure standard du Pacifique (PST).
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Clients qui paient par carte de crédit ou sur facture
 
@@ -95,12 +86,12 @@ Dans le cadre du processus de paiement présenté ici, Microsoft peut avoir déj
 
 Microsoft recouvrera les paiements qu’il vous a déjà adressés en employant l’une des méthodes suivantes : (1) Microsoft se réserve le droit de déduire les montants dus des futurs paiements ; par exemple, si un montant déjà versé de 1 000 USD est considéré comme irrécouvrable et passé en pertes et profits, vos futurs paiements seront retenus tant que les 1 000 USD n’auront pas été récupérés, ou (2) Microsoft pourra demander un remboursement à l’éditeur ou lui adresser une facture correspondant aux montants non encaissés.
 
-Le tableau suivant montre un exemple de planification :
+Voici un exemple de calendrier :
 
 | Événement | Date approximative | Visibilité du partenaire |
 | --- | --- | --- |
 | Exemple de date de paiement | 15/10/2020 | Marqué **Envoyé** dans l’Historique des transactions et dans la section Paiements du tableau de bord Revenu |
-| Si le client ne paie pas Microsoft | 12/02/2020 – 05/12/2020 | Inchangée, comme ci-dessus |
+| <font color="red">Si le client ne paie pas Microsoft</font> | 12/02/2020 – 05/12/2020 | Inchangée, comme ci-dessus |
 | Le client reçoit un premier e-mail l’avisant d’un retard de paiement | 06/12/2020 | None |
 | Le client reçoit des e-mails à intervalles réguliers pour l’aviser de l’urgence croissante | 7/12/2020 – 31/1/2021 | None |
 | L’éditeur est avisé du passage probable en pertes et profits | 7/1/2021 | L’éditeur est notifié par e-mail que le client n’a pas encore envoyé le paiement. L’ID de transaction et le montant en dollars sont inclus. |
@@ -122,7 +113,8 @@ En général, nous envoyons tout paiement dû pour un mois donné le 15 de ce m
 | PayPal             | 1 jour ouvrable                             |
 | ACH/SEPA           | 2 à 3 jours ouvrables                          |
 | Virement bancaire      | 7 à 10 jours ouvrables                         |
+|
 
-## <a name="next-step"></a>étape suivante
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Détails des taxes](tax-details-marketplace.md)
