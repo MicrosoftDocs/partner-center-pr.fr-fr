@@ -71,9 +71,7 @@
             - name: Conditions d’éligibilité
               href: software-assurance-dps-requirements.md
     - name: Factures et taxes
-      items:
-        - name: Factures et taxes dans MPN
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: Testez les nouvelles fonctionnalités
       href: test-drive-new-features.md
 - name: Fournisseur de solutions Cloud (CSP)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: Scénarios d’abonnements SaaS basés sur licences
           href: common-billing-scenarios-saas.md
-    - name: Scénarios de facturation et de paiement dans la Place de marché
-      items:
-        - name: Facturation pour les offres de la Place de marché
-          href: csp-commercial-marketplace-billing.md
-        - name: Obtenir votre paiement - place de marché
-          href: marketplace-get-paid.md
-        - name: Détails de la stratégie des paiements
-          href: payout-policy-details.md
-        - name: 'Seuils, modes et délais de paiement'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Relevés de paiements
-          href: payout-statement.md
-        - name: FAQ sur les paiements de la Place de marché
-          href: payout-faq.md
+    - name: Facturation pour les offres de la Place de marché
+      href: csp-commercial-marketplace-billing.md
     - name: Afficher les signatures numériques - Espace partenaires Inde
       href: digital-signature.md
     - name: Taxes et exonérations fiscales
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: Définir un budget Azure pour vos clients
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: Processus de paiement
+  items:
     - name: 'Gestion des défauts de paiement, des fraudes ou des mauvaises utilisations'
       href: non-payment-fraud-misuse.md
     - name: Gérer les paiements non alloués
       href: unallocated-payment.md
+    - name: Paiements de la Place de marché commerciale
+      items:
+        - name: Obtenir votre paiement - place de marché
+          href: marketplace-get-paid.md
+        - name: Détails de la stratégie des paiements
+          href: payout-policy-details.md
+        - name: 'Seuils, modes et délais de paiement'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Relevés de paiements
+          href: payout-statement.md
+        - name: FAQ sur les paiements
+          href: payout-faq.md
 - name: Entrer en contact avec les clients
   href: customer-accounts.md
   items:
