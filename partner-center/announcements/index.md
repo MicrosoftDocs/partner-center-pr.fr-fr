@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
+ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591089"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "91625142"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-| **Catégorie** | **Annonces de septembre 2020** | **Annoncé** |
+| **Catégorie** | **Annonces du mois d’octobre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Offres/marchés|[Les mises à jour de sécurité étendues de Windows 7 année 2 sont maintenant disponibles pour les partenaires fournisseurs de solutions cloud (CSP)](2020-october.md#3)|1er octobre|
+|Offres/marchés|[Forfait d’appels Office 365 maintenant disponible sur de nouveaux marchés](2020-october.md#2)|1er octobre|
+|Fonctions|[Annonce d’un programme d’incentives pour les fournisseurs de solutions cloud (CSP) pour l’année fiscale 2021 (AF21)](2020-october.md#1)|1er octobre|
+| **Catégorie** | **Annonces de septembre 2020** | **Date** |
 |Fonctions|[Clé de licence logicielle de l’Espace partenaires et avis de téléchargement](2020-september.md#17)|30 septembre|
 |Fonctions|[Évolution du programme du fournisseur de solutions cloud (CSP) et changements du programme de licence Open : Voyage vers une meilleure expérience partenaire et client](2020-september.md#16)|30 septembre|
 |Fonctions|[[Disponibilité du nouvel outil de transition d’abonnements entre partenaires pour le plan Azure](2020-september.md#15)](2020-september.md#15)|28 septembre|
