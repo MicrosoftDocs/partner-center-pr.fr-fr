@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422325"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591089"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,8 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de septembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Clé de licence logicielle de l’Espace partenaires et avis de téléchargement](2020-september.md#17)|30 septembre|
+|Fonctions|[Évolution du programme du fournisseur de solutions cloud (CSP) et changements du programme de licence Open : Voyage vers une meilleure expérience partenaire et client](2020-september.md#16)|30 septembre|
 |Fonctions|[[Disponibilité du nouvel outil de transition d’abonnements entre partenaires pour le plan Azure](2020-september.md#15)](2020-september.md#15)|28 septembre|
 |Fonctions|[Test de la mise à jour : Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur visant le processus de validation des clients Éducation](2020-september.md#14)|28 septembre|
 |Fonctions|[Mise à jour - API d’utilisation d’O365 CSP et rapports d’utilisation de licences CSP](2020-september.md#13)|29 septembre|
