@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.date: 10/02/2020
+ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714423"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663870"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gérer les demandes d’incentives de co-op
 
@@ -65,11 +65,13 @@ Si les documents que vous avez fournis avec votre demande de coopération sont j
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. Sous **Incentives**, sélectionnez **Demandes de coopération**.
+2. Sous **incentives**, sélectionnez **gestion des plans**.
 
-3. Sélectionnez la demande de coopération que vous souhaitez contester. La page de la revendication de la co-op s’ouvre.
+3. Sélectionnez **gestion des co-opérations**.
 
-4. Au bas de la page, sélectionnez **Litige**.
+4. Sélectionnez la demande de coopération que vous souhaitez contester. La page de la revendication de la co-op s’ouvre.
+
+5. Au bas de la page, sélectionnez **Litige**.
 
 L’équipe de validation des demandes de coopération examinera la demande dans un délai de cinq jours ouvrables. Pendant ce temps, l’état sera **En litige**. Il est possible que nous vous contactions pour vous demander des informations supplémentaires. Une fois l’examen terminé, l’équipe de validation fera passer l’état à **Approuvé**, **Refusé** **Action du partenaire requise**.
 

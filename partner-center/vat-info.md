@@ -1,17 +1,17 @@
 ---
-title: Informations sur la taxe sur la valeur ajoutée (T.V.A.) dans l’inscription de l’espace partenaires
+title: Informations sur la TVA dans l’inscription à l’Espace partenaires
 description: Si vous devez fournir un numéro d’identification de TVA pendant le processus d’inscription de l’espace partenaires, ces informations vous aideront à démarrer.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: 7e4f6778d14166dfe30a608d06dc75d953442c70
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026450"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663880"
 ---
 # <a name="vat-info"></a>Informations sur la TVA
 
@@ -30,222 +30,36 @@ Un numéro de TVA (taxe sur la valeur ajoutée) est un identificateur utilisé p
 
 Notez que Microsoft ne fournit pas d’avis d’impôt et que le tableau suivant est fourni uniquement en guise d’aide. Vous devez consulter vos autorités fiscales locales pour toute modification récente si ce guide n’est pas suffisant pour fournir un numéro de TVA à Microsoft.
 
-<table Responsive="true">
-<tr><th>Pays/région</th><th>Informations sur la TVA</th></tr>
-<tr><td data-th="Country/region">Autriche
-</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 1 lettre et 8 chiffres</li>
-<li>Code pays/région : AT</li>
-<li>Exemple : U12345678</li>
-<li>Remarques : le premier caractère est toujours « U ».
-</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Belgique</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 10 chiffres</li>
-<li>Code pays/région : BE</li>
-<li>Exemple : 1234567890</li>
-<li>Remarques : 9 chiffres avant le 1er janvier 2007.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Bulgarie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 9 ou 10 chiffres</li>
-<li>Code pays/région : BG</li>
-<li>Exemple : 123456789 ou 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Croatie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 2 lettres et 11 chiffres</li>
-<li>Code pays/région : HR</li>
-<li>Exemple : HR12345678901</li>
-<li>Remarques : les premiers caractères sont toujours « HR ».</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Chypre</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 2 lettres, 8 chiffres et 1 lettre</li>
-<li>Code pays/région : CY</li>
-<li>Exemple : 12345678, 123456789 ou 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Tchéquie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 8, 9 ou 10 chiffres</li>
-<li>Code pays/région : CZ</li>
-<li>Exemple : 12345678, 123456789 ou 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Danemark</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 8 chiffres</li>
-<li>Code pays/région : DK</li>
-<li>Exemple : 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Estonie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 9 chiffres</li>
-<li>Code pays/région : EE</li>
-<li>Exemple : 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Finlande</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : chiffres</li>
-<li>Code pays/région: FI</li>
-<li>Exemple : 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">France</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 11 chiffres</li>
-<li>Code pays/région : FR</li>
-<li>Exemple : 12345678901, X1234567890, 1X123456789 ou XX123456789</li>
-<li>Remarques : peut inclure tout caractère alphabétique à l'exception de I ou Q comme premier ou deuxième caractère, ou comme premier et deuxième caractère, suivi de 9 chiffres.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Allemagne</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 9 chiffres</li>
-<li>Code pays/région : DE</li>
-<li>Exemple : 123456789</li>
-<li>Remarques : doit être le « Umsatzsteur Identifikationnummer » (Ust ID Nr.) à 9 chiffres</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Grèce</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 9 chiffres</li>
-<li>Code pays/région : EL, GR</li>
-<li>Exemple : 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Hongrie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 8 chiffres</li>
-<li>Code pays/région : HU</li>
-<li>Exemple : 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Irlande</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 8 chiffres</li>
-<li>Code pays/région : IE</li>
-<li>Exemple : 1234567X ou 1X34567X</li>
-<li>Remarques : comprend 1 ou 2 caractères alphabétiques : soit le dernier, soit le deuxième et le dernier.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Italie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 11 chiffres</li>
-<li>Code pays/région : IT</li>
-<li>Exemple : 12345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Lettonie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 11 chiffres</li>
-<li>Code pays/région : LV</li>
-<li>Exemple : 01234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Lituanie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 9 ou 12 chiffres</li>
-<li>Code pays/région : LT</li>
-<li>Exemple : 123456789 ou 012345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Luxembourg</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 8 chiffres</li>
-<li>Code pays/région : LU</li>
-<li>Exemple : 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Malte</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 2 lettres et 8 chiffres</li>
-<li>Code pays/région : MT</li>
-<li>Exemple : MT12345678</li>
-<li>Remarques : les premiers caractères sont toujours « MT ».</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Pays-Bas</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 11 chiffres et 1 lettre</li>
-<li>Code pays/région : NL</li>
-<li>Exemple : 123456789B01</li>
-<li>Remarques : le dixième caractère est toujours « B ».</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Pologne</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 10 chiffres</li>
-<li>Code pays/région : PL</li>
-<li>Exemple : 1234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Portugal</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 9 chiffres</li>
-<li>Code pays/région : PT</li>
-<li>Exemple : 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Roumanie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 2 lettres et 8 à 10 chiffres</li>
-<li>Code pays/région : RO</li>
-<li>Exemple : RO12345678, RO123456789 ou RO1234567890</li>
-<li>Remarques : les premiers caractères sont toujours « RO ».</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Slovaquie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 10 chiffres</li>
-<li>Code de pays/région : SK</li>
-<li>Exemple : 1234567890</li>
-<li>Remarques : les premiers caractères sont toujours « SI ».</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Slovénie</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 2 lettres et 8 chiffres</li>
-<li>Code pays/région : SI</li>
-<li>Exemple : SI12345678</li>
-<li>Remarques : les premiers caractères sont toujours « SI ».</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Espagne</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 9 chiffres</li>
-<li>Code pays/région : ES</li>
-<li>Exemple : X12345678, 12345678X, ou X1234567X</li>
-<li>Remarques : comprend 1 ou 2 lettres : la première, la dernière ou la première et la dernière.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Suède</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 12 chiffres</li>
-<li>Code pays/région : SE</li>
-<li>Exemple : 123456789001</li>
-<li>Remarques : les 2 derniers caractères doivent être « 01 ».</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Royaume-Uni</td><td data-th="VAT info">
-<ul>
-<li>Format du numéro de TVA : 9 ou 12 chiffres</li>
-<li>Code pays/région : GB</li>
-<li>Exemple : 123456789 ou 123456789001</li>
-<li>Remarques : 9 chiffres en général, mais 12 chiffres si le numéro représente une sous-société au sein d'un groupe.</li>
-</ul>
-</td></tr>
-</table>
-
+|Pays/région | Informations sur la TVA |
+|:------------|:----------|
+|Autriche  |-Format du numéro de TVA : 1 lettre et 8 chiffres<br/>-Code pays/région : à<br/>-Exemple : U12345678<br/>-Remarques : le premier caractère sera toujours’U'. |
+|Belgique  |-Format du numéro de TVA : 10 chiffres<br/>-Code pays/région :<br/>-Exemple : 1234567890<br/>-Notes : 9 chiffres avant le 1er janvier 2007. |
+| Bulgarie  |-Format du numéro de TVA : 9 ou 10 chiffres<br/>-Code pays/région : BG<br/>-Exemple : 123456789 ou 0123456789 |
+| Croatie |-Format du numéro de TVA : 2 lettres et 11 chiffres<br/>-Code pays/région : RH<br/>-Exemple : HR12345678901<br/>-Remarques : les premiers caractères seront toujours’HR'. |
+|Chypre |-Format du numéro de TVA : 2 lettres et 8 chiffres et 1 lettre<br/>-Code pays/région : CY<br/>-Exemple : 12345678, 123456789 ou 0123456789 |
+|Tchéquie |-Format du numéro de TVA : 8, 9 ou 10 chiffres<br/>-Code pays/région : CZ<br/>-Exemple : 12345678, 123456789 ou 0123456789 |
+| Danemark |-Format du numéro de TVA : 8 chiffres<br/>-Code pays/région : DK<br/>-Exemple : 12345678<br/> |
+|Estonie |-Format du numéro de TVA : 9 chiffres<br/>-Code pays/région : EE<br/>-Exemple : 123456789<br/> |
+|Finlande |-Format du numéro de TVA : chiffres<br/>-Code pays/région : FI<br/>-Exemple : 12345678 |
+|France |-Format du numéro de TVA : 11 chiffres<br/>-Code pays/région : FR<br/>-Exemple : 12345678901, X1234567890, 1X123456789 ou XX123456789<br/>-Remarques : peut inclure des caractères alphabétiques à l’exception de I ou Q comme premier ou deuxième caractère, ou comme premier et deuxième caractères, suivis de 9 chiffres. |
+|Allemagne |-Format du numéro de TVA : 9 chiffres<br/>-Code DE pays/région :<br/>-Exemple : 123456789<br/>-Notes : doit être le 9 chiffres’Umsatzsteur Identifikationnummer' (ID de UST Nr.) |
+|Grèce |-Format du numéro de TVA : 9 chiffres<br/>-Code pays/région : EL, GR<br/>-Exemple : 123456789 |
+|Hongrie |-Format du numéro de TVA : 8 chiffres<br/>-Code pays/région : HU<br/>-Exemple : 12345678 |
+|Irlande |-Format du numéro de TVA : 8 chiffres<br/>-Code pays/région : IE<br/>-Exemple : 1234567X ou 1X34567X<br/>-Notes : comprend 1 ou 2 caractères alphabétiques : Last, ou second et Last. |
+|Italie |-Format du numéro de TVA : 11 chiffres<br/>-Code pays/région : IT<br/>-Exemple : 12345678901 |
+|Lettonie |-Format du numéro de TVA : 11 chiffres<br/>-Code pays/région : LV<br/>-Exemple : 01234567890 |
+|Lituanie |-Format du numéro de TVA : 9 ou 12 chiffres<br/>-Code pays/région : LT<br/>-Exemple : 123456789 ou 012345678901 |
+|Luxembourg |-Format du numéro de TVA : 8 chiffres<br/>-Code pays/région : LU<br/>-Exemple : 12345678 |
+|Malte |-Format du numéro de TVA : 2 lettres et 8 chiffres<br/>-Code pays/région : MT</br>-Exemple : MT12345678<br/>-Remarques : les premiers caractères seront toujours’MT'. |
+|Pays-Bas |-Format du numéro de TVA : 11 chiffres et 1 lettre<br/>-Code pays/région : NL<br/>-Exemple : 123456789B01<br/>-Remarques : le dixième caractère est toujours « B ». |
+|Pologne |-Format du numéro de TVA : 10 chiffres<br/>-Code pays/région : PL<br/>-Exemple : 1234567890 |
+|Portugal |-Format du numéro de TVA : 9 chiffres<br/>-Code pays/région : PT<br/>-Exemple : 123456789 |
+|Roumanie |-Format du numéro de TVA : 2 lettres et 8-10 chiffres<br/>-Code pays/région : RO<br/>-Exemple : RO12345678, RO123456789 ou RO1234567890<br/>-Remarques : les premiers caractères seront toujours’RO' |
+|Slovaquie |-Format du numéro de TVA : 10 chiffres<br/>-Code pays/région : SK<br/>-Exemple : 1234567890<br/>-Remarques : les premiers caractères seront toujours « SI ». |
+|Slovénie |-Format du numéro de TVA : 2 lettres et 8 chiffres<br/>-Code pays/région : SI<br/>-Exemple : SI12345678<br/>-Remarques : les premiers caractères seront toujours « SI ». |
+|Espagne |-Format du numéro de TVA : 9 chiffres<br/>-Code pays/région : ES<br/>-Exemple : X12345678, 12345678X ou X1234567X<br/>-Notes : comprend 1 ou 2 lettres : First, Last ou First et Last. |
+|Suède |-Format du numéro de TVA : 12 chiffres<br/>-Code pays/région : SE<br/>-Exemple : 123456789001<br/>-Remarques : les 2 derniers caractères doivent être « 01 ». |
+|Royaume-Uni |-Format du numéro de TVA : 9 ou 12 chiffres<br/>-Code pays/région : go<br/>-Exemple : 123456789 ou 123456789001<br/>-Notes : 9 chiffres en général, mais 12 chiffres si le nombre représente une sous-société au sein d’un groupe. |
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Informations fiscales sur l’entreprise et ajout ou envoi d’ID de TVA pour les achats de l’espace partenaires](organization-tax-info.md)

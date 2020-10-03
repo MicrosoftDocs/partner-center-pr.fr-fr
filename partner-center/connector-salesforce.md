@@ -1,19 +1,19 @@
 ---
 title: Connecteur de covente pour Salesforce CRM Partner Center
 ms.topic: how-to
-ms.date: 05/17/2020
+ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchroniser vos références dans l’espace partenaires avec votre CRM Salesforce
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422445"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663860"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -34,7 +34,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 |Prêt pour la co-vente|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Compte Espace partenaires|L’ID MPN associé au locataire de l’espace partenaires doit être identique à l’ID MPN associé à votre solution de covente. Vérifiez que vous pouvez voir vos références de covente dans le portail espace partenaires avant de déployer les connecteurs.|[Gérer votre compte](create-user-accounts-and-set-permissions.md)|
 |Rôles d’utilisateur de l’Espace partenaires|L’employé qui va installer et utiliser les connecteurs doit être un administrateur de références|[Affecter des rôles et des autorisations aux utilisateurs](create-user-accounts-and-set-permissions.md)|
-|CRM Salesforce|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|CRM Salesforce|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
 |Gestion de l’alimentation-automatiser le compte|Un compte Active [Power automate](https://flow.microsoft.com) actif pour l’administrateur système ou le personnalisateur système CRM. Cet utilisateur doit se connecter à [Power automate](https://flow.microsoft.com) au moins une fois avant l’installation.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installation du package Salesforce pour les champs personnalisés Microsoft 
@@ -84,13 +84,13 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 5. Recherchez les **connecteurs de références de l’espace partenaires pour Salesforce** dans l’écran contextuel.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Ouvrir AppSource":::
 
 6. Cliquez sur le bouton **Télécharger maintenant** , puis sur **Continuer**.
 
 7. Cela ouvre la page dans laquelle vous pouvez sélectionner l’environnement CRM Salesforce pour installer l’application.  Acceptez les conditions générales.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="CRM disponibles":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Ouvrir AppSource":::
 
 8. Vous êtes ensuite dirigé vers la page **gérer vos solutions** .  Accédez à « références de l’espace partenaires » à l’aide des flèches en bas de la page. **L’installation planifiée** doit s’afficher en regard de solution de références de l’espace partenaires. L’installation prendra 10-15 minutes.
 
@@ -98,7 +98,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 10. Sélectionnez la **synchronisation des références de l’espace partenaires pour Salesforce**. Les flux et entités Power automate suivants sont disponibles :
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Flux Salesforce":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Ouvrir AppSource":::
 
 
 
@@ -115,7 +115,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 5. Créez une connexion en cliquant sur **créer une connexion**.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Créer une connexion":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Ouvrir AppSource":::
 
 - Recherchez les références de l’espace partenaires (préversion) dans la barre de recherche dans le coin supérieur droit.
 
@@ -127,17 +127,17 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 -  Une fois que toutes les connexions ont été ajoutées, vous devez voir les connexions suivantes dans votre environnement :
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Observer les connexions":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Ouvrir AppSource":::
 
 ### <a name="edit-the-connections"></a>Modifier les connexions
 
 1. Revenez à la page solutions et sélectionnez **solution par défaut**.  Sélectionnez **référence de connexion (version préliminaire)** en cliquant sur **tout**.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Commencer la modification du connecteur":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Ouvrir AppSource":::
 
 2. Modifiez chacune des connexions une par une en sélectionnant l’icône à trois points. Ajoutez les connexions appropriées.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Modifier les connecteurs":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Ouvrir AppSource":::
 
 3. Activez les flux dans l’ordre suivant :
 
@@ -157,11 +157,11 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 2. Ajoutez des connexions pour (a.) utilisateur de l’espace partenaires avec les références d’administrateur (b.) des événements de l’espace partenaires comme indiqué ci-dessous
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Déclencheur":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Ouvrir AppSource":::
 
 3. Lorsque vous effectuez ces mises à jour, vous verrez
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Ouvrir AppSource":::
 
 4. Enregistrez vos modifications et sélectionnez **activer**.
 
@@ -173,7 +173,7 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 7. Sélectionnez l’icône de **copie** pour copier l’URL http postale fournie.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Copier l’URL":::
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Ouvrir AppSource":::
 
 8. Maintenant, sélectionnez l’option inscription à un webhook de l’espace partenaires (version préliminaire d’Insider) et sélectionnez **exécuter**.
 
@@ -270,7 +270,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
    2. Vérifiez que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement CRM Salesforce
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Environnement Salesforce":::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Ouvrir AppSource":::
 
    3. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
 
@@ -296,7 +296,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
     5. Accédez à **opportunités ouvertes**. La référence créée dans l’espace partenaires Microsoft est maintenant synchronisée dans Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Écran d’opportunités Salesforce":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Ouvrir AppSource":::
 
     6. Lorsque vous sélectionnez une référence synchronisée, les détails de l’affichage de la carte sont remplis.
 

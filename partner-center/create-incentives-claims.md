@@ -1,7 +1,7 @@
 ---
 title: Gérer les demandes d’incentives de co-op
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Découvrez comment initier des demandes d’incentives à l’espace partenaires. Vous pouvez voir toutes les activités qui vont de la génération de votre revendication dans l’historique.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 406aba55b53919d3f189a67ef49b5c41991fef7d
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1af4620d040931ebbc263339fbfe37c1f26d0123
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714133"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663790"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Créer et gérer une revendication de co-op d’incentives
 
@@ -32,13 +32,15 @@ Vous pouvez lancer une revendication d’incentives à partir de l’espace part
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. Sélectionnez l’onglet **incentives** , puis sélectionnez **revendications**.
+2. Sélectionnez l’onglet **incentives** , puis sélectionnez **gestion des plans**.
 
-3. Si vous avez déjà une revendication en cours, la page vue d’ensemble des revendications affiche des informations sur l’état des revendications et des fonds existants approuvés, réclamés et totaux.
+3. Sélectionnez **gestion des co-opérations**.
 
-4. Pour créer une revendication, sélectionnez **créer une revendication**.
+4. Si vous avez déjà une revendication en cours, la page vue d’ensemble des revendications affiche des informations sur l’état des revendications et des fonds existants approuvés, réclamés et totaux.
 
-5. Une fois que vous avez rempli le formulaire initial et sélectionné **créer une revendication**, vous êtes redirigé vers la page de détails de la demande dans laquelle vous pourrez ajouter des factures, des CSR, des documents de preuve et des mesures. Vous pouvez également ajouter des informations supplémentaires si nécessaire.
+5. Pour créer une revendication, sélectionnez **créer une revendication**.
+
+6. Une fois que vous avez rempli le formulaire initial et sélectionné **créer une revendication**, vous êtes redirigé vers la page de détails de la demande dans laquelle vous pourrez ajouter des factures, des CSR, des documents de preuve et des mesures. Vous pouvez également ajouter des informations supplémentaires si nécessaire.
 
 La page des informations de demandes vous permet de demander à d’autres personnes de votre organisation de charger de la documentation dans le formulaire. Pour chacun des documents de support que vous chargez, vous pouvez fournir des informations explicatives. 
 
@@ -48,7 +50,7 @@ Vous pouvez voir toutes les activités qui vont de la génération de votre reve
 
 Vous ne pouvez pas modifier votre revendication après l’avoir envoyée, sauf si un réviseur demande des informations supplémentaires.
 
-Pour plus d’informations, consultez Guide de [Co-op Partner incentives](https://assets.microsoft.com/coop-guidebook.pdf)
+Pour plus d’informations, consultez le Guide de [Co-op des incentives partenaires](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
 
 ## <a name="next-steps"></a>Étapes suivantes
 
