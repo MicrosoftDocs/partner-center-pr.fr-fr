@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
-ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
+ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "91625142"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663810"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -23,7 +23,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces du mois d’octobre 2020** | **Annoncé** |
 |---------|:---------|:---------|
 |Offres/marchés|[Les mises à jour de sécurité étendues de Windows 7 année 2 sont maintenant disponibles pour les partenaires fournisseurs de solutions cloud (CSP)](2020-october.md#3)|1er octobre|
-|Offres/marchés|[Forfait d’appels Office 365 maintenant disponible sur de nouveaux marchés](2020-october.md#2)|1er octobre|
+|Offres/marchés|[Les nouvelles références SKU apportent aux clients la puissance de Project Cortex et plus](2020-october.md#2)|1er octobre|
 |Fonctions|[Annonce d’un programme d’incentives pour les fournisseurs de solutions cloud (CSP) pour l’année fiscale 2021 (AF21)](2020-october.md#1)|1er octobre|
 | **Catégorie** | **Annonces de septembre 2020** | **Date** |
 |Fonctions|[Clé de licence logicielle de l’Espace partenaires et avis de téléchargement](2020-september.md#17)|30 septembre|
