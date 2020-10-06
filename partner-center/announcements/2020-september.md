@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/16/2020
-ms.openlocfilehash: a2703a89bd1fa1b29948b2e8c1edfed22dba8ac1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 09/30/2020
+ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999463"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591119"
 ---
 # <a name="september-2020-announcements"></a>Annonces de septembre 2020
 
@@ -23,6 +23,301 @@ Cette page détaille les annonces de l’Espace partenaires Microsoft pour septe
 Annonces 2020 : [Février](2020-february.md) | [Mars](2020-march.md) | [Avril](2020-april.md) | [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | Septembre
 
 ________________
+## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Avis de téléchargement de logiciel et de clé de licence logicielle dans l’Espace partenaires
+
+### <a name="categories"></a>Catégories
+
+- Date : 30/09/2020
+- Fonctions
+ 
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires fournisseurs de solutions Cloud (CSP) effectuant des transactions d’offres logicielles
+
+### <a name="details"></a>Détails
+
+Aujourd’hui, les partenaires peuvent utiliser l’Espace partenaires ou le Centre d’administration Microsoft 365 pour télécharger des logiciels et fournir des clés de licence pour les commandes de logiciels CSP. À compter du **19 janvier 2021**, les fonctionnalités de téléchargement de logiciels et d’octroi de clés de licence logicielle seront supprimées, et les partenaires utiliseront le **Centre d’administration Microsoft 365** exclusivement à cet effet. La page de l’Espace partenaires consacrée aux logiciels des clients contient un « lien ciblé » vers le Centre d’administration Microsoft 365, où vous pouvez obtenir les licences et les téléchargements des logiciels des clients. Les clients bénéficient ainsi d’une expérience la plus sûre et la plus efficace possible.
+
+Les clés de licence et les liens de téléchargement des logiciels sont des ressources de propriété intellectuelle importantes et très recherchées. En cas de fuite, elles peuvent rapidement être privées de leurs limites d’activation et entraîner une expérience négative pour les clients et les partenaires. Par conséquent, il est essentiel que les partenaires utilisent la technologie la plus sécurisée et les bonnes pratiques pour protéger ces ressources précieuses et leurs clients.
+
+**Centre d’administration Microsoft 365**
+
+Le Centre d’administration Microsoft 365 améliore la distribution sécurisée des logiciels achetés et permet aux clients de gérer leurs abonnements et de les fournir en libre-service à leur convenance, améliorant ainsi l’expérience client. Il réduit les risques associés à la copie et à l’envoi des clés de licence directement au client, comme cela pouvait être le cas via l’Espace partenaires. En guise de mesure de sécurité supplémentaire, toutes les activités des partenaires relatives à l’accès et la diffusion des clés et des téléchargements des logiciels font l’objet d’un suivi dans le journal d’activité de l’Espace partenaires. Grâce à cette fonctionnalité de journalisation des activités, les partenaires peuvent suivre l’accès interne des utilisateurs pour créer des commandes et obtenir des clés et des téléchargements. Ils bénéficient ainsi d’un contrôle renforcé permettant de réduire les risques de fraude potentiels.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Obtenez plus d’informations sur le Centre d’administration Microsoft 365 en consultant la [vue d’ensemble](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), les [tâches courantes](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) et les [fonctionnalités d’octroi de clés de licence](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+
+- Partagez cette mise à jour avec les équipes concernées de votre organisation.
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Pour toute question relative à cette notification, contactez l’[Assistance de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+________________
+## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Évolution du programme Fournisseur de solutions Cloud (CSP) et changements du programme de licence Open : Évolution vers une meilleure expérience partenaire et client
+
+### <a name="categories"></a>Catégories
+
+- Date : 30/09/2020
+- Fonctions
+ 
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires des programmes CSP et Open
+
+### <a name="details"></a>Détails
+
+Le programme Microsoft CSP a connu un développement exponentiel, avec plus de 90 000 sociétés participantes. Il s’agit de notre principale initiative de ventes partenaire pour les PME et les clients professionnels plus petits dans le cadre de la nouvelle expérience commerciale. Portés par cet élan, nous avons annoncé aujourd’hui l’extension des opportunités offertes aux partenaires dans le cadre du programme CSP. Les détails figurent dans notre [billet de blog pour partenaires](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Consultez le [billet de blog pour partenaires](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) et partagez ces informations avec les personnes concernées dans votre organisation.
+
+- Passez en revue les documents de préparation dans la collection des ressources de préparation opérationnelle [Évolution du programme Fournisseur de solutions Cloud (CSP) et changements du programme de licence Open](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/). Vous y trouverez une présentation générale, des conseils sur les licences, des questions fréquentes (FAQ) pour les partenaires et de nombreuses autres ressources utiles. Utilisez cette [carte de préparation](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) pour localiser rapidement les informations appropriées pour votre rôle.
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Pour des questions relatives à cette notification, contactez l’[Assistance de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+
+________________
+## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Disponibilité du nouvel outil de transition d’abonnements entre partenaires pour le plan Azure 
+
+### <a name="categories"></a>Catégories
+
+- Date : 28/09/2020
+- Fonctions
+
+### <a name="target-audience"></a>Public cible
+
+- Les fournisseurs indirects et les partenaires de facturation directe CSP pourront accéder à l’outil de transition.  
+- Les revendeurs peuvent collaborer avec leur fournisseur indirect. Plus d’informations sont disponibles pour les fournisseurs dans ces [ressources](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/). 
+
+### <a name="summary"></a>Résumé
+
+À compter du 30 septembre 2020, un nouvel outil de transition a pour but d’automatiser le transfert des abonnements Azure d’un client entre les partenaires participant au programme CSP dans le cadre de la nouvelle expérience commerciale pour Azure (plan Azure).
+
+En complément de la nouvelle expérience commerciale pour Azure, cet outil de transition améliore la flexibilité de gestion des abonnements Azure et la prise en charge des besoins métier changeants des clients avec les avantages suivants :  
+- Économie de temps grâce à des outils faciles à utiliser qui automatisent les transitions Azure  
+- Aucune interruption des services Azure pendant la transition de la propriété de facturation 
+
+### <a name="key-capabilities-and-considerations"></a>Principales fonctionnalités et considérations
+
+- La transition est régie par la décision du client et se produit uniquement lorsque les deux partenaires prennent des mesures explicites.  
+-   La transition est immédiate sans interruption pour les clients ni impact sur les services Azure. 
+-   L’expérience propre à cet outil sera disponible dans l’Espace partenaires pour les fournisseurs indirects et les partenaires de facturation directe. Les revendeurs doivent collaborer avec les fournisseurs indirects pour tirer parti de cet outil en leur nom. 
+
+### <a name="next-steps"></a>Étapes suivantes : 
+
+-   Passez en revue les ressources dans cette [page de galerie des partenaires](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/). 
+-   Formez votre équipe et préparez-vous pour commencer à utiliser ce nouvel outil de transition. 
+-   Guidez vos revendeurs tout au long du processus de transition si vous êtes fournisseur indirect. 
+-   Pour toute question supplémentaire, contactez le support technique. 
+
+________________
+## <a name="testing-update-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="14"></a>Test des mises à jour : Mises à jour des API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation des clients Éducation 
+
+### <a name="categories"></a>Catégories
+
+- Date : 28/09/2020
+- Fonctions
+ 
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires proposant des offres Éducation dans le cadre du programme Fournisseur de solutions Cloud (CSP)
+
+## <a name="details"></a>Détails
+
+Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des clients conforme, sûre et sécurisée pour les transactions d’offres Éducation dans le programme Fournisseur de solutions Cloud. Dans le cadre de cet engagement, nous allons introduire des améliorations de l’interface utilisateur et des API de l’Espace partenaires au cours du deuxième trimestre de l’exercice 2021 pour accroître la clarté et la visibilité du processus de validation des clients. Elles permettront la saisie de données plus précises en vue d’améliorer la validation des clients.  
+
+### <a name="partner-center-enhancements"></a>Améliorations de l’Espace partenaires 
+
+- De nouvelles API de qualification GET et POST prendront en charge la saisie de données précises et amélioreront le processus de validation des clients Éducation par Microsoft. 
+
+- Les améliorations de l’interface utilisateur appuieront également la saisie de données précises et amélioreront le processus de validation des clients Éducation par Microsoft. 
+
+### <a name="testing"></a>Test 
+
+Les partenaires pourront tester ces améliorations dès le mois d’octobre 2020. Nous vous encourageons à profiter de cette opportunité de mieux comprendre les API et les données nécessaires à la réussite de la validation des clients. Nous vous fournirons bientôt plus de détails sur la date exacte de cette opportunité et sur la façon d’y participer. Les API existantes de l’Espace partenaires seront mises hors service avant la fin du deuxième trimestre de l’exercice 2021. À ce moment-là, vous devrez avoir effectué la transition vers les nouvelles API de l’Espace partenaires.
+
+### <a name="testing-update"></a>Test des mises à jour 
+
+Les dates de test des partenaires s’étendent du 2 octobre 2020 au 2 décembre 2020. Les partenaires qui souhaitent participer doivent consulter le [Guide de test des clients Éducation de l’Espace partenaires](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) pour savoir comment se préparer, comment s’inscrire et à quoi s’attendre pendant la phase de test.
+
+### <a name="library-and-museum-customers"></a>Clients des bibliothèques et musées 
+
+En plus des améliorations décrites précédemment, nous sommes ravis d’annoncer la mise en place au cours du deuxième trimestre de l’exercice 2021 d’offres à prix Éducation pour les clients des bibliothèques et musées, élargissant ainsi le nombre de clients Éducation auxquels vous pouvez proposer des offres CSP. 
+
+>[!Note]
+> Microsoft se réserve le droit d’examiner le status d’un client ou d’un client proposé pour déterminer s’il répond aux critères d’un utilisateur Éducation. Pour plus d’informations, consultez les [critères que doit remplir un utilisateur pour bénéficier des offres Éducation](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7). 
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- Passez en revue les améliorations du processus de validation des clients Éducation dans l’Espace partenaires dans les ressources de préparation opérationnelle pour en savoir plus sur l’[interface utilisateur de l’Espace partenaires, les modifications d’API et le guide de test](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/). 
+
+- Inscrivez-vous pour participer aux tests (pour plus d’informations, consultez le [Guide de test](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)). 
+
+- Veillez à ce que les [critères que doit remplir un utilisateur pour bénéficier des offres Éducation](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) soient connus dans votre organisation. 
+
+- Partagez ces informations avec les équipes appropriées au sein de votre organisation et avec vos revendeurs pour les aider à anticiper ces changements. 
+
+## <a name="questions"></a>Vous avez des questions ?
+
+Si vous avez des questions sur cette notification, contactez l’[Assistance de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>Mise à jour – API d’utilisation d’O365 CSP et rapports d’utilisation de licences CSP 
+
+### <a name="categories"></a>Catégories
+
+- Date : 29/09/2020
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires effectuant des transactions dans le cadre du programme Fournisseur de solutions Cloud (CSP) dans l’Espace partenaires. 
+
+### <a name="summary"></a>Résumé 
+
+Des mises à jour seront apportées aux définitions des métriques exposées dans les API d’utilisation d’O365 CSP pour aider les partenaires à mesurer leur utilisation d’O365. 
+
+### <a name="details"></a>Détails
+
+Ceci est une mise à jour de l’[annonce de l’Espace partenaires](https://docs.microsoft.com/partner-center/announcements/2020-september#8) faite le 17 septembre 2020. Nous effectuons des mises à jour pour garantir que les mises à jour des API offrent une compatibilité descendante, de façon à ce que vous ne soyez tenu d’effectuer aucune modification d’intégration. 
+
+Comme annoncé précédemment, les métriques d’utilisation d’O365 CSP seront mises à jour le 30 septembre 2020. 
+
+Avec cette modification, les définitions des métriques disponibles via les API d’utilisation de licence CSP suivantes seront mises à jour : 
+
+1. [API d’informations sur l’utilisation des licences](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information).
+
+2. [API d’informations sur l’utilisation des licences client](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information).
+
+3.  [API d’informations sur l’utilisation des licences partenaire](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information).
+
+Les définitions mises à jour sont listées ci-dessous. Comme le schéma d’API n’est pas modifié, aucune nouvelle intégration n’est requise. 
+
+| **Mesure** | **Définitions mises à jour** |
+|---------|:---------|
+|licensesActive |Nombre de licences qui ont été utilisées au cours des 28 derniers jours |
+|licensesQualified |Nombre de licences d’évaluation et de non-évaluation disponibles pour la référence SKU du produit |
+|UsagePercent |Licences actives en tant que pourcentage des licences qualifiées |
+|ProratedLicenseUsagePercent|Licences actives en tant que pourcentage des licences qualifiées agrégées pour le partenaire.  |
+
+### <a name="next-steps"></a>Étapes suivantes :
+
+Partagez ces informations avec d’autres personnes de votre organisation.
+________________
+
+## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>Changements à venir concernant la loi fédérale russe sur la TVA
+
+### <a name="categories"></a>Catégories
+
+- Date : 25/09/2020
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires de distribution de licence en volume (VL) russe, Microsoft Business Solutions (MBS) et Fournisseur de solutions Cloud (CSP)
+
+### <a name="summary"></a>Résumé 
+
+Les modifications de TVA introduites par la loi fédérale russe #265-FZ seront implémentées à compter du 1er janvier 2021.
+
+### <a name="details"></a>Détails
+
+Loi fédérale russe #265-FZ datée du 31 juillet 2020, modifiée au paragraphe 26 de la section 2 de l’article 149 du code fiscal russe. Conformément aux modifications apportées au 1er janvier 2021 en Russie, l’octroi des droits IP exclusifs pour les logiciels et les bases de données électroniques qui ne sont **pas inclus** dans le registre unifié des logiciels et bases de données électroniques **russes**, de même que l’octroi des droits d’utilisation de ces logiciels et bases de données (y compris les mises à jour et les mises à niveau), ainsi que l’octroi d’un accès à distance via Internet à ces éléments, **ne seront plus exemptés de TVA**. 
+
+**Veuillez noter que, à la suite des modifications ci-dessus, la TVA au taux prévu par la législation applicable sera ajoutée par MIOL à tous les produits Microsoft immatériels en Russie.**
+
+Pour toute requête associée à cette modification, soumettez une demande de support comme suit :
+
+- Licences en volume : Si vous avez des questions, contactez votre centre des opérations régional à l’aide de l’[outil de journalisation des appels (CLT)](https://clt.partners.extranet.microsoft.com/CLT) ou via Explore.ms. Suivez précisément le processus CLT standard pour nous permettre de résoudre votre requête aussi rapidement que possible.
+- MBS/Dynamics : Les partenaires doivent consigner une demande via l’[outil OCL dans PartnerSource Business Center](https://businesscenter.mbs.microsoft.com/). 
+- CSP : Les partenaires doivent [consigner une demande de support](https://partnercenter.microsoft.com/partner/support).
+
+### <a name="next-steps"></a>Étapes suivantes :
+
+Partagez ces informations au sein de votre organisation comme il vous semble approprié. Microsoft ne peut pas vous conseiller en matière de fiscalité. Vous devez consulter vos propres conseillers fiscaux au sujet de l’impact potentiel de cette modification sur votre entreprise. 
+________________
+
+## <a name="partner-center-insights--your-single-reporting-resource-for-understanding-your-business-with-microsoft"></a><a name="10"></a>Insights de l’Espace partenaires – Votre ressource de rapports pour comprendre votre activité avec Microsoft.
+
+### <a name="categories"></a>Catégories
+
+- Date : 23/09/2020
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Toutes les organisations partenaires du Microsoft Partner Network. 
+
+### <a name="summary"></a>Résumé 
+
+La page Insights de l’Espace partenaires remplacera bientôt l’outil de rapports **MyInsights** en cours de retrait. La page Insights de l’Espace partenaires propose des visuels plus riches, des fonctionnalités de création de rapports plus pertinentes et des indicateurs de performance clés couvrant les clients, les abonnements, l’utilisation des licences, les performances des revendeurs, les formations, les compétences et les avantages. Utilisez ces insights intelligents pour comprendre clairement vos activités avec Microsoft et prendre des décisions basées sur les données, en toute confiance. Pour bien démarrer, sélectionnez **Insights** dans le menu de navigation gauche de l’Espace partenaires.
+
+**MyInsights** ne sera plus disponible après le 30 septembre 2020. 
+
+### <a name="what-is-insights"></a>Présentation d’Insights
+
+Dans l’Espace partenaires, le tableau de bord Insights permet d’accéder à une vue unifiée et complète des indicateurs de performance clés (KPI) de votre organisation partenaire concernant des produits cloud tels qu’Office 365, Azure, Dynamics 365 et des modèles de licence tels que Fournisseur de solutions Cloud (CSP) et Contrat Entreprise (EA). De nouvelles fonctionnalités sont ajoutées en permanence et tous les rapports prennent en charge l’[exportation de données brutes](https://docs.microsoft.com/partner-center/pci-download-reports), ce qui vous permet d’effectuer une analyse des données ad hoc en fonction des besoins de votre entreprise. Deux rôles de création de rapports de l’Espace partenaires, [Visionneuse de rapports de la direction et Visionneuse de rapports](https://docs.microsoft.com/partner-center/pci-roles), vous permettent de mieux gérer l’accès et l’utilisation des insights au sein de votre organisation.
+
+Rapports ajoutés récemment :
+
+- [Rapport des performances des revendeurs et exportation de données](https://docs.microsoft.com/partner-center/pci-resellers-performance) : Fournit une vue d’ensemble pour les fournisseurs indirects CSP des performances de leurs divers revendeurs indirects.
+
+- [Rapport des opportunités client et exportation de données](https://docs.microsoft.com/partner-center/pci-customer-opportunities) : Fournit une vue d’ensemble de la propension des clients à acheter des produits Microsoft.
+
+Suivez [ce lien](https://docs.microsoft.com/partner-center/partner-center-insights) pour obtenir la liste complète des rapports disponibles dans Insights.
+
+### <a name="next-steps"></a>Étapes suivantes :
+
+- Pour en savoir plus sur les mises à jour et les améliorations apportées, consultez souvent la [page Insights de l’Espace partenaires](https://docs.microsoft.com/partner-center/partner-center-insights).
+
+- Nous vous encourageons à explorer ces nouvelles fonctionnalités et à nous faire part de vos commentaires à l’aide des outils de commentaires intégrés, accessibles sous l’onglet Insights.
+
+________________
+
+## <a name="sdk-release-on-net-standard-v1162"></a><a name="11"></a>Mise en production du kit SDK sur .NET Standard (v1.16.2)
+
+### <a name="categories"></a>Catégories
+
+- Date : 2020-09-22
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Les partenaires de facturation directe et les fournisseurs indirects participant au programme Fournisseur de solutions cloud (CSP) qui utilisent le SDK .NET de l’Espace partenaires.
+
+### <a name="summary"></a>Résumé
+
+À compter du 22 septembre 2020, les partenaires peuvent télécharger la version du kit SDK .NET Standard de l’Espace partenaires Microsoft (SDK .NET v1.16.2), ainsi que les **exemples GitHub publics du kit SDK de l’Espace partenaires**.
+
+### <a name="details"></a>Détails
+
+Les détails du [kit SDK .NET de l’Espace partenaires Microsoft](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) v1.16.2 sont maintenant en disponibilité générale. Des [exemples GitHub](https://github.com/Microsoft/Partner-Center-DotNet-Samples) mis à jour sont également disponibles. Les modifications suivantes sont incluses dans cette version :
+
+- Mise à jour des types d’opération pris en charge pour l’enregistrement d’audit. Les nouveaux éléments ajoutés sont listés dans [Ressources d’audit](/partner-center/develop/auditing-resources).
+  - CreateSelfServePolicy
+  - UpdateSelfServePolicy
+  - DeleteSelfServePolicy
+  - RemovePartnerRelationship
+  - DeleteTipCustomer
+  - CreateRelatedReferral
+  - UpdateRelatedReferral
+
+- La création d’une demande de service est maintenant déconseillée.
+- Les rubriques de support sont désormais déconseillées.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Téléchargez la dernière version du [kit SDK .NET v1.16.2](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2).
+- Version : kit SDK .NET v1.16.2
+- Exemple de code : [Exemple de code](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- Disponibilité générale : 22/09/2020
+
+________________
+
 
 ## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Annonce de la disponibilité générale d’Azure SQL Edge
 
@@ -82,18 +377,18 @@ Parallèlement à ce changement, les API d’utilisation de licence CSP suivante
 
 3.  [API d’informations sur l’utilisation des licences partenaire](/partner-center/develop/get-partner-licenses-usage-information).
 
-Nous introduirons également une nouvelle API qui indiquera les utilisateurs actifs mensuels (MAU) par charge de travail pour chaque client que vous gérez.
+Nous introduirons également une nouvelle API, qui indiquera les utilisateurs actifs mensuels (MAU) par charge de travail pour chaque client que vous gérez.
 
 Vous trouverez plus d’informations sur ces mises à jour [ici](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf).
 
-Nous mettrons également à jour la section Répartition de l’utilisation par client dans le [rapport d’analyse d’utilisation des licences CSP](https://partner.microsoft.com/dashboard/analytics/usageanalytics). À compter du 30 septembre 2020, le rapport amélioré reflétera les utilisations actives mensuelles pour Exchange, SharePoint et Skype/Teams.
+Nous mettrons également à jour la section Répartition de l’utilisation par client dans le [rapport d’analyse d’utilisation des licences CSP](https://partner.microsoft.com/dashboard/analytics/usageanalytics). À compter du 30 septembre 30 2020, le rapport sera amélioré pour refléter les utilisations actives mensuelles pour Exchange, SharePoint et Skype/Teams.
 
 ### <a name="next-stepsadditional-resources"></a>Étapes suivantes/ressources supplémentaires :
 
 Partagez ces informations avec d’autres personnes de votre organisation. Pour plus d’informations, consultez la [galerie d’opérations](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/).
 ________________
 
-## <a name="indirect-reseller-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>Mise à jour du MPA pour les revendeurs indirects. Action requise pour les utilisateurs de l’API MPA et nouveaux rapports MPA
+## <a name="indirect-reseller-microsoft-partner-agreement-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>Mise à jour du Contrat Partenaire Microsoft (MPA) de revendeur indirect. Action requise pour les utilisateurs de l’API MPA et nouveaux rapports MPA
 
 ### <a name="categories"></a>Catégories
 
@@ -199,9 +494,9 @@ Nous sommes heureux d’annoncer la disponibilité au 1er octobre 2020 de nouvel
 
 #### <a name="intelligent-content-services"></a>Intelligent Content Services
   
-Intelligent Content Services utilise une IA avancée pour automatiser la capture, l’étiquetage et la gestion de contenu. Il s’appuie sur SharePoint pour le traitement de contenu en grands volumes, pour l’extraction des métadonnées pour l’automatisation des processus, et pour la sécurité et la conformité à un niveau détaillé. Intelligent Content Services améliore les expériences de conservation et de découverte des connaissances en envoyant du contenu plus précis dans votre réseau de connaissances. Les nouvelles références SKU d’Intelligent Content Services seront disponibles dans la **liste de prix du 1er octobre** (et dans la préversion de la liste de prix du 1er septembre). 
+Intelligent Content Services utilise une IA avancée pour automatiser la capture, l’étiquetage et la gestion de contenu. Il s’appuie sur SharePoint pour le traitement de contenu en grands volumes, pour l’extraction des métadonnées pour l’automatisation des processus, et pour la sécurité et la conformité à un niveau détaillé. Intelligent Content Services améliore les expériences de conservation et de découverte des connaissances en envoyant (push) du contenu plus précis dans votre réseau de connaissances. Les nouvelles références SKU d’Intelligent Content Services seront disponibles dans la **liste de prix du 1er octobre** (et dans la préversion de la liste de prix du 1er septembre). 
  
-**Remarque :** Intelligent Content Services est un nom temporaire pour ce produit, qui sera probablement renommé après le 1er octobre 2020.
+**Remarque :** Intelligent Content Services est un nom temporaire pour ce produit, qui sera probablement renommé après le 1er octobre 2020.
  
 **Connecteurs Microsoft Graph pour Recherche Microsoft** Les connecteurs Microsoft Graph permettent aux clients d’indexer des éléments dans des référentiels externes afin de les inclure dans les résultats de Recherche Microsoft. 
 

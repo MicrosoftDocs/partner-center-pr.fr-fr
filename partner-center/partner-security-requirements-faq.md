@@ -9,22 +9,26 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999803"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406362"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
+
+**S’applique à**
+
+- Espace partenaires
 
 **Utilisateurs appropriés**
 
 - Tous les utilisateurs activés, y compris les utilisateurs invités
 
-Cet article contient des questions fréquentes sur les [exigences de sécurité du partenaire](partner-security-requirements.md).
+## <a name="partner-security-requirements"></a>Exigences de sécurité pour les partenaires
 
-## <a name="partner-security-requirements"></a>Exigences de sécurité du partenaire
+Cet article contient des questions fréquentes sur les [exigences de sécurité du partenaire](partner-security-requirements.md).
 
 ### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Que sont les exigences de sécurité Partenaires, et pourquoi les partenaires doivent-ils les implémenter ?
 
@@ -32,7 +36,7 @@ La qualité et la continuité des mesures de sécurité et de confidentialité f
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Quelle est la chronologie clé et quelles en sont les étapes majeures ?
 
-Les termes associés à ces exigences de sécurité sont inclus dans le Contrat Partenaire Microsoft en 2019. Vous devez implémenter ces exigences de sécurité le plus tôt possible pour garantir la conformité de votre participation au programme Fournisseur de solutions Cloud.
+Les conditions associées à ces exigences de sécurité, notamment la chronologie et les étapes majeures, sont comprises dans le [Contrat Partenaire Microsoft](microsoft-partner-agreement.md) en 2019. Vous devez implémenter ces exigences de sécurité le plus tôt possible pour garantir la conformité de votre participation au programme Fournisseur de solutions Cloud.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Que se passe-t-il si je n’implémente pas ces exigences de sécurité Partenaires ?
 
@@ -50,9 +54,9 @@ Non, il n’est pas possible d’exclure un compte d’utilisateur de l’obliga
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Comment savoir si j’ai répondu aux exigences de sécurité du partenaire ?
 
-Vous devez effectuer les étapes ci-dessous
+Vous devez effectuer les étapes suivantes :
 
-- Vous devez répondre à toutes les exigences décrites dans [Exigences de sécurité du partenaire](partner-security-requirements.md)
+- Vous devez répondre à toutes les exigences décrites dans les [exigences de sécurité du partenaire](partner-security-requirements.md).
 - Vous devez vous assurer que l’authentification multifacteur est appliquée à tous les comptes d’utilisateur de votre locataire partenaire.
 
 Pour vous aider à identifier les domaines clés dans lesquels vous pouvez prendre des mesures, nous fournissons le rapport sur le [statut des exigences de sécurité](https://partner.microsoft.com/commerce/security/compliance) qui est disponible via l’Espace partenaires.
@@ -98,8 +102,8 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
 L’authentification MFA est un mécanisme de sécurité qui permet aux personnes de s’authentifier via plusieurs procédures de sécurité et de validation. Ce mécanisme fonctionne en imposant deux ou plusieurs des méthodes d’authentification suivantes :
 
 - Quelque chose que vous connaissez (généralement un mot de passe)
-- Quelque chose que vous possédez (un périphérique de confiance qui n'est pas facilement dupliqué, comme un téléphone)
-- Quelque chose que vous êtes (biométrie)
+- Un élément que vous possédez (un appareil de confiance qui n'est pas facilement dupliqué, comme un téléphone)
+- Un élément vous concernant particulièrement (biométrie)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Quel est le coût de l’activation de l’authentification MFA ?
 
@@ -114,7 +118,7 @@ Grâce à ces exigences de sécurité, les utilisateurs d’un locataire du part
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>J’utilise plusieurs locataires de partenaire pour effectuer des transactions. Dois-je mettre en œuvre l’authentification MFA sur chacun d’eux ?
 
-Oui, vous devez appliquer l’authentification MFA pour chaque locataire Azure Active Directory associé au programme Fournisseur de solutions Cloud ou au programme Advisor. Pour acheter une licence Azure Active Directory Premium, vous devez l’acheter pour chaque utilisateur de chaque locataire Azure Active Directory.
+Oui, vous devez appliquer l’authentification MFA pour chaque locataire Azure Active Directory associé au programme Fournisseur de solutions Cloud ou au programme Advisor. Pour acheter une licence Azure Active Directory Premium, vous devez acheter une licence Azure Active Directory pour les utilisateurs de chaque locataire Azure Active Directory. 
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>Est-ce que l’authentification MFA doit être appliquée à chaque compte d’utilisateur de mon locataire de partenaire ?
 
@@ -225,7 +229,7 @@ Il est recommandé d’utiliser un compte de service disposant des autorisations
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Pourquoi l’administrateur d’application ne doit-il pas fournir les informations d’identification de l’utilisateur relatives à l’Administrateur général durant l’exécution du processus de consentement ?
 
-Parmi les bonnes pratiques, il est recommandé d’utiliser les identificateurs les moins privilégiés pour réduire les risques. Il n’est pas recommandé d’utiliser un compte disposant de privilèges d’administrateur général, car cela donne accès à plus d’autorisations que nécessaire.
+Une bonne pratique consiste à utiliser l’identité de moindre privilège.  Cela permet de réduire les risques. Il n’est pas recommandé d’utiliser un compte disposant de privilèges d’administrateur général, car cela donne accès à plus d’autorisations que nécessaire.
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Je suis un partenaire du programme Fournisseur de solutions Cloud. Comment savoir si mon fournisseur de panneau de contrôle travaille à l’implémentation de la solution ?
 
@@ -296,7 +300,7 @@ Consultez [Test des exigences de sécurité du partenaire](/powershell/partnerce
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>L’authentification multifacteur m’empêche de prendre en charge mon client utilisant AOBO. Que dois-je faire ?
 
-Les contraintes techniques relatives aux exigences de sécurité du partenaire impliquent de vérifier si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Dans la négative, vous êtes redirigé vers la page de connexion et vous êtes invité à vous authentifier à nouveau. Découvrez une expérience et des conseils plus détaillés dans cette documentation [Imposer l’authentification multifacteur (MFA) à votre locataire partenaire](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Dans le scénario dans lequel votre domaine n’est pas fédéré, une fois l’authentification réussie, vous êtes invité à configurer l’authentification multifacteur. Une fois cette opération terminée, vous serez en mesure de gérer vos clients à l’aide des privilèges AOBO (Administrateur pour le compte de). Dans le scénario dans lequel votre domaine est fédéré, vous devez vous assurer que le compte fait l’objet d’un test d’authentification multifacteur.
+Les contraintes techniques relatives aux exigences de sécurité du partenaire sont vérifiées afin d’indiquer si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Dans la négative, vous êtes redirigé vers la page de connexion et vous êtes invité à vous authentifier à nouveau. Découvrez une expérience et des conseils supplémentaires dans cette documentation [Imposer l’authentification multifacteur (MFA) à votre locataire partenaire](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Dans le scénario dans lequel votre domaine n’est pas fédéré, une fois l’authentification réussie, vous êtes invité à configurer l’authentification multifacteur. Une fois cette opération terminée, vous serez en mesure de gérer vos clients à l’aide des privilèges AOBO (Administrateur pour le compte de). Dans le scénario dans lequel votre domaine est fédéré, vous devez vous assurer que le compte fait l’objet d’un test d’authentification multifacteur.
 
 ## <a name="security-defaults-transition"></a>Transition vers les paramètres de sécurité par défaut
 
@@ -341,9 +345,11 @@ Pour obtenir des ressources de support répondant aux exigences de sécurité, s
 
 Les options de support technique pour Azure Active Directory sont disponibles via vos avantages MPN. Les partenaires ayant accès à un abonnement ASfP ou PSfP actif peuvent travailler conjointement avec leur responsable de compte associé (gestionnaire des actifs logiciels/responsable technique de compte) pour mieux comprendre les options disponibles.
 
-### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Comment contacter le support en cas de perte d'accès à l'Espace partenaires ?
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>Comment contacter le support si j’ai perdu l’accès à l’Espace partenaires ?
 
-Accédez au [Support des partenaires Microsoft](https://partner.microsoft.com/support), puis sélectionnez **Afficher toutes les options de support**. Les options permettant de contacter le Support des partenaires Microsoft s'affichent, notamment un numéro de téléphone pour appeler le support et une option pour parler avec le support.
+Si vous perdez l’accès en raison d’un problème d’authentification multifacteur, contactez l’administrateur général de votre locataire. Votre service informatique interne sera en mesure de vous indiquer qui est votre administrateur général. 
+
+Si vous avez oublié votre mot de passe, lisez [Impossible de se connecter](unable-to-sign-in.md) pour obtenir de l’aide.
 
 ### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Où est-ce que je peux trouver plus d’informations sur les problèmes techniques courants ?
 
