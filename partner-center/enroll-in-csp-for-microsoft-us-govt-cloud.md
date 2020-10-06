@@ -9,13 +9,13 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.date: 06/30/2020
-ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 10/05/2020
+ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999913"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763361"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscrivez-vous au programme fournisseur de solutions Cloud pour Microsoft Cloud pour le gouvernement des États-Unis
 
@@ -65,7 +65,7 @@ Pour créer un compte espace partenaires et s’inscrire auprès du fournisseur 
 
 1. Connectez-vous à l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis à l’aide du lien fourni dans le message d’approbation de l’application.
 
-2. Sur la page **contrat** , lisez les termes et, si vous en acceptez, sélectionnez **accepter et continuer** pour signer numériquement le [contrat de revendeur pour Microsoft Cloud pour le gouvernement des États-Unis](https://go.microsoft.com/fwlink/p/?linkid=843364). La création de votre compte peut prendre plusieurs heures. Déconnectez-vous du Centre des partenaires pour Microsoft Cloud pour le gouvernement des États-Unis, puis reconnectez-vous ultérieurement.
+2. Sur la page **contrat** , lisez les termes et, si vous en acceptez, sélectionnez **accepter et continuer** pour signer numériquement le contrat de revendeur pour Microsoft Cloud pour le gouvernement des États-Unis. La création de votre compte peut prendre plusieurs heures. Vous pouvez vous déconnecter de l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis, puis vous reconnecter ultérieurement.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Étape 4 : affecter des utilisateurs au rôle de l’agent admin dans le portail d’administration Microsoft Azure pour Microsoft Cloud pour le gouvernement des États-Unis
 
