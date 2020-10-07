@@ -1,7 +1,7 @@
 ---
 title: Exigences de sécurité pour les partenaires
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Présentation des exigences partenaires pour activer l’authentification multifacteur (MFA) et adopter le framework Modèle d’application sécurisé.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000023"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763350"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Exigences de sécurité pour les partenaires qui utilisent l’Espace partenaires ou les API de l’Espace partenaires
 
@@ -100,7 +100,7 @@ Quand vous appliquez l’authentification multifacteur, les protocoles tels qu�
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Avez-vous des utilisateurs qui recourent à Office 365 dans le cadre de licences associées à votre locataire partenaire ?
 
-Avant d’implémenter une solution, nous vous recommandons de déterminer la version de Microsoft Office employée par les utilisateurs de votre locataire de partenaire. Consultez [Planifier l’authentification multifacteur pour les déploiements d’Office 365](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) avant d’entreprendre une action. Il y a un risque que vos utilisateurs rencontrent des problèmes de connectivité avec des applications comme Outlook. Avant d’appliquer l’authentification multifacteur, il est important de vérifier qu’Outlook 2013 SP1 ou ultérieur est utilisé et que l’authentification moderne est activée pour votre organisation. Pour plus d’informations, consultez [Activer l’authentification moderne dans Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Avant d’implémenter une solution, nous vous recommandons de déterminer la version de Microsoft Office employée par les utilisateurs de votre locataire de partenaire. Il y a un risque que vos utilisateurs rencontrent des problèmes de connectivité avec des applications comme Outlook. Avant d’appliquer l’authentification multifacteur, il est important de vérifier qu’Outlook 2013 SP1 ou ultérieur est utilisé et que l’authentification moderne est activée pour votre organisation. Pour plus d’informations, consultez [Activer l’authentification moderne dans Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
 
 Pour activer l’authentification moderne pour tous les appareils exécutant Windows et sur lesquels Microsoft Office 2013 est installé, vous devez créer deux clés de registre. Consultez [Activer l’authentification moderne pour Office 2013 sur les appareils Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
 
