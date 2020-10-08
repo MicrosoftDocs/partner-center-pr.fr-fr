@@ -1,7 +1,7 @@
 ---
 title: Migrer de PMC vers l’Espace partenaires
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment migrer votre société depuis Partner Membership Center (PMC) vers l’Espace partenaires.
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000563"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663830"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’Espace partenaires
 
@@ -53,7 +53,7 @@ Si votre entreprise ne dispose pas d’une adresse e-mail professionnelle et d�
 >[!NOTE]
 >Si vous êtes partenaire en Chine et que vous êtes inscrit à la fois au Microsoft Partner Network (MPN) et au programme Fournisseur de solutions Cloud (CSP), vous avez un locataire distinct pour chaque compte. Votre compte associé au programme Fournisseur de solutions Cloud est géré sur le cloud national, tandis que votre compte Microsoft Partner Network est géré sur le cloud global. Les deux comptes ne peuvent pas être liés.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Donner des renseignements sur votre entreprise":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Bien démarrer":::
 
 Après avoir vérifié ou mis à jour les informations, sélectionnez **Accepter et continuer**.
 Les conditions générales figurant dans cette page sont **exactement les mêmes** que celles contenues dans l’accord que votre entreprise a déjà signé dans PMC.  
@@ -71,7 +71,7 @@ Le fait de sélectionner **Accepter et continuer** a également les conséquence
 
 Une fois votre locataire Azure AD créé, vous pouvez inviter vos employés à se connecter à l’Espace partenaires.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Inviter des employés":::
+:::image type="content" source="images/migration/invite.png" alt-text="Bien démarrer":::
 
 Si vous vous êtes connecté avec un locataire AAD existant, vos employés sont transférés avec vous. Dans ce cas, attribuez à vos employés des rôles qui contrôlent ce qu’ils peuvent faire dans l’Espace partenaires. 
 
@@ -84,11 +84,11 @@ Si votre locataire AAD vient d’être créé, le rôle d’administrateur gén�
 
 Vous pouvez utiliser les offres que vous avez déjà achetées, mais vous ne pourrez pas en acheter de nouvelles tant que vous n’aurez pas effectué l’étape d’affectation d’un administrateur général.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Prendre le contrôle":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Bien démarrer":::
 
 Quand vous sélectionnez Démarrer, l’écran suivant s’affiche :
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Vérifier la propriété du domaine":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Bien démarrer":::
 
 Votre bureau d’enregistrement de domaines est déjà indiqué. Seul le propriétaire du domaine peut mettre à jour le fichier DNS. Par conséquent, en copiant et en ajoutant le fichier texte à votre enregistrement DNS, nous pouvons vérifier que vous êtes bien le propriétaire. La mise à jour nécessite quelques minutes. Vous devez ensuite vous déconnecter de l’Espace partenaires, puis vous reconnecter. Le rôle d’administrateur général vous est alors attribué.
 
@@ -96,9 +96,21 @@ Votre bureau d’enregistrement de domaines est déjà indiqué. Seul le propri�
 
 Explorez votre tableau de bord. Ici, vous pouvez gérer votre adhésion, ajouter un profil d’entreprise pour les références, vous inscrire au programme Fournisseur de solutions Cloud et consulter les notifications et les offres pertinentes pour votre entreprise en sélectionnant **Tableau de bord** à tout moment. Vous pouvez également gérer les incentives, faire des achats dans la Place de marché, vous inscrire à des services de mise sur le marché et bien plus encore.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Visite guidée":::
+:::image type="content" source="images/migration/fre.png" alt-text="Bien démarrer":::
+
+## <a name="sign-the-microsoft-partner-agreement"></a>Signer le Contrat Partenaire Microsoft
+
+Si vous êtes revendeur indirect, quand vous avez configuré votre compte Espace partenaires, vous devez encore vous inscrire au programme Fournisseur de solutions Cloud (CSP, Cloud Solution Provider). Pour vérifier l’état de votre appartenance, accédez à votre [profil de partenaire](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) et examinez le type de compte. Ensuite, inscrivez-vous au programme CSP en tant que [revendeur indirect](enrolling-in-the-csp-program.md).
+
+ Une fois que vous êtes inscrit en tant que revendeur indirect, acceptez la [demande de relation CSP avec votre fournisseur indirect](indirect-reseller-tasks-in-partner-center.md).
+
+Ensuite, acceptez le Contrat Partenaire Microsoft sur la vue d’ensemble du [tableau de bord](https://partner.microsoft.com/pvc/dashboard) de l’Espace partenaires en utilisant des informations d’identification d’administrateur général. Vérifiez que vous avez signé le Contrat Partenaire Microsoft dans la section Informations sur le programme du profil de partenaire. Vous verrez également une notification de la bannière de confirmation dans la page Vue d’ensemble du fournisseur de solutions Cloud. 
 
 ## <a name="next-steps"></a>Étapes suivantes
+
+- [Rechercher votre administrateur général](become-global-admin.md)
+
+- [Contrat Partenaire Microsoft](microsoft-partner-agreement.md)
 
 - [Créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md)
 

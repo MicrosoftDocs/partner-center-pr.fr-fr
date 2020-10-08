@@ -8,12 +8,12 @@ description: FAQ sur la résolution des problèmes de co-vente des connecteurs.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422335"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844653"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Résoudre les problèmes des connecteurs de référencements de covente
 
@@ -42,11 +42,11 @@ Les utilisateurs qui sont des administrateurs système ou des personnalisateurs 
  
 Le rôle « administrateur des références » doit être attribué aux vendeurs partenaires. Pour plus d’informations, reportez-vous à la [vue d’ensemble des autorisations] (Create-User-Accounts-and-Set-Permissions).
 
-4. Quels sont les champs qui doivent être configurés en premier dans votre environnement CRM ? 
+4. Quels champs doivent être configurés en premier dans votre environnement CRM ? 
 
 • Assurez-vous que votre devise est adaptée à votre emplacement et dans votre environnement CRM avec précision. • Votre équipe de vente doit être inscrite dans votre environnement CRM en tant qu’utilisateurs CRM.
 
-5.  Quelles sont les conditions préalables requises pour la création d’un environnement Power automate ?
+5. Quelles sont les conditions préalables requises pour la création d’un environnement Power automate ?
 
 Pour utiliser l’environnement Power automate, vous avez besoin des éléments suivants :
 
@@ -55,7 +55,7 @@ Pour utiliser l’environnement Power automate, vous avez besoin des éléments 
 
 6.  Avez-vous besoin d’un abonnement Dynamics 365 pour utiliser la solution de connecteurs Salesforce ?
 
-La solution de connecteur Salesforce est de type « Dynamics Flow » qui prend en charge la synchronisation avec d’autres systèmes CRM. La solution ne nécessite pas que vous disposiez d’une instance Dynamics 365 ou d’un abonnement. Lors de l’installation de la solution Salesforce, une liste déroulante contenant les CD existants dans votre entreprise peut s’afficher. Vous devez sélectionner cet environnement. En outre, si vous obtenez l’erreur, nous n’avons pas pu trouver une organisation Dynamics 365 connectée à un utilisateur connecté», vous devrez créer un nouvel environnement pour le connecteur.
+La solution de connecteur Salesforce est de type « Dynamics Flow » qui prend en charge la synchronisation avec d’autres systèmes CRM. La solution ne nécessite pas que vous disposiez d’une instance Dynamics 365 ou d’un abonnement. Lors de l’installation de la solution Salesforce, une liste déroulante contenant les CD existants dans votre entreprise peut s’afficher. Vous devez sélectionner cet environnement. En outre, si vous obtenez l’erreur « Impossible de trouver une organisation Dynamics 365 connectée à un utilisateur connecté », vous devrez créer un nouvel environnement pour le connecteur.
 
 ## <a name="questions-and-answers-about-configuration"></a>Questions et réponses sur la configuration
 
@@ -69,18 +69,18 @@ Suivez les étapes de dépannage suivantes :
 - Activer et désactiver le workflow enfant 
 - Supprimez la solution, puis réinstallez la solution. 
 
-2.  Que devez-vous faire si vous êtes confronté à l’erreur suivante lors de l’ajout d’un connecteur de l’espace partenaires dans Power automatiser la plateforme ?
+2.  Que devez-vous faire si vous êtes confronté à l’erreur de connexion lors de l’ajout d’un connecteur de l’espace partenaires dans Power Automated Platform ?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Message d’erreur nécessitant une connexion":::
 
 Suivez cette étape de résolution des problèmes :
 
-- Utilisez l’espace partenaires pour vous connecter à l’environnement Flow une seule fois (flow.microsoft.com).
+- Utilisez vos informations d’identification de l’espace partenaires pour vous connecter à l’environnement Flow une seule fois (flow.microsoft.com).
 
 
 3. Que devez-vous faire si vous recevez l’erreur suivante lors de l’activation de l’espace partenaires sur le Flow CRM dans Power Automated Platform ?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Message d’erreur nécessitant des mises à jour":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Message d’erreur nécessitant une connexion":::
 
 Suivez les étapes de dépannage suivantes :
 
@@ -90,21 +90,21 @@ Suivez les étapes de dépannage suivantes :
 
 4. Que devez-vous faire lorsque vous n’êtes pas en mesure d’ajouter des connexions au Flow lorsque vous essayez de modifier le Flow ?
 
-Vous ajoutez des connexions au Flow pendant que le workflow est en cours d’exécution et vous ajoutez à chaque Flow séparément.  Si la boîte de dialogue d’ajout de connexions ne s’ouvre pas automatiquement pendant la modification du flux, vous pouvez modifier chacune des étapes et sous-étapes des flux pour ajouter les connexions.
+Vous ajoutez des connexions au workflow pendant l’exécution du workflow et vous ajoutez à chaque Flow séparément.  Si la boîte de dialogue d’ajout de connexions ne s’ouvre pas automatiquement pendant la modification du flux, vous pouvez modifier individuellement chacune des étapes et des sous-étapes des flux.
 
 - Sélectionnez chaque Flow et modifiez-les individuellement.
 - Développer toutes les étapes du Flow 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Étapes nécessitant des connexions":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Message d’erreur nécessitant une connexion":::
 
 - Sélectionnez les étapes dans lesquelles une icône d’avertissement s’affiche et vous invite à associer des connexions et à ajouter des connexions. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Modifier le Flow étape par étape":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Message d’erreur nécessitant une connexion":::
 
 
-5. Que devez-vous faire si les flux de la solution de références de covente des connexions ne sont pas activés (activation) ?
+5. Que devez-vous faire si les flux de la solution de références de covente des connexions ne sont pas activés ?
 
-R. Dans Power automate, vous devrez modifier les flux dans l’ordre suivant et les mettre à jour pour qu’ils utilisent des connexions respectives :
+R. Dans Power automate, vous devez modifier les flux dans l’ordre suivant et les mettre à jour pour qu’ils utilisent les bonnes connexions :
 
 - Inscription au webhook de l’espace partenaires (version préliminaire d’Insider)
 - Créer une référence de covente-Salesforce à l’espace partenaires (version préliminaire d’Insider)
@@ -116,7 +116,7 @@ R. Dans Power automate, vous devrez modifier les flux dans l’ordre suivant et 
 
  B. Pour chaque Flow, sélectionnez l’option **exécuter uniquement les utilisateurs** . Sélectionnez **utiliser la connexion** au lieu de **fourni par l’utilisateur en exécution seule**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Pour activer un Flow":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Message d’erreur nécessitant une connexion":::
 
 
 C. Activez les flux indiqués ci-dessous :
@@ -140,7 +140,7 @@ Pour vous assurer que vos flux d’automati s’exécutent comme prévu et pour 
  
 Pour déterminer l’état de synchronisation de la référence, sélectionnez **audit**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Synchronisation des références":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Message d’erreur nécessitant une connexion":::
 
 Assurez-vous que les conditions suivantes sont remplies :
 
@@ -150,17 +150,17 @@ Assurez-vous que les conditions suivantes sont remplies :
 
 - Lorsque l’aide de Microsoft est sélectionnée pour l’opportunité, les coordonnées du client sont requises.
 
-3. Dans quelles conditions une référence ne sera pas synchronisée de manière bidirectionnelle
+3. Comment s’assurer qu’une référence sera synchronisée de manière bidirectionnelle ?
 
-Vérifiez les points suivants :
+Procédez comme suit :
 
 - Les vendeurs partenaires doivent s’assurer qu’ils ont activé l’option **synchroniser avec l’espace partenaires** dans la section CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Vérifiez que vous avez activé la synchronisation":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Message d’erreur nécessitant une connexion":::
 
 - Les vendeurs doivent fournir un chiffre d’affaires et une date de clôture lorsqu’ils qualifient un prospect.
 
-- Si l’ID CRM est fourni lors de la création ou de la mise à jour de l’opportunité de covente et si un prospect/opportunité avec cet ID est introuvable dans CRM, la mise à jour ou la création sera ignorée pour cette opportunité.
+- Si l’ID CRM est fourni à l’étape de **création** ou de **mise à jour** d’une opportunité de covente, mais qu’une opportunité de prospect avec cet ID est introuvable dans CRM, la mise à jour ou la création sera ignorée.
 
 - Assurez-vous que le champ devise de référence est configuré dans l’environnement Salesforce. 
 

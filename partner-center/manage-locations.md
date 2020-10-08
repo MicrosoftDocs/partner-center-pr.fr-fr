@@ -1,42 +1,60 @@
 ---
 title: Gérer les sites dans votre compte partenaire
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dans l’Espace partenaires, découvrez comment ajouter un nouveau site et comment l’ID MPN de site est utilisé dans les programmes d’incentives, l’activité de CSP, les abonnements et autres transactions.
+ms.subservice: partnercenter-mpn
+description: Découvrez comment ajouter une nouvelle localisation et comment l’ID MPN de localisation est utilisé dans les programmes d’incentives, l’activité CSP, les abonnements et autres transactions.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436868"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663893"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Gérer les sites de votre compte partenaire dans l’Espace partenaires et ajouter un nouveau site
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gérer les localisations de votre compte MPN et ajouter une nouvelle localisation
+
+**S’applique à**
+
+- Espace partenaires
 
 **Rôles appropriés**
-- Administrateur général
-- Administrateur des utilisateurs
-- Administrateur de la facturation
-- Agent d’administration
-- Agent commercial
 
-Les ID MPN de site identifient chaque site spécifique de votre entreprise. Vous utilisez l’ID MPN de site pour vous inscrire aux programmes d’incentives, effectuer des transactions dans le cadre de l’activité de fournisseur de solutions Cloud (CSP), ajouter de nouveaux abonnements et autres transactions commerciales. L’ID MPN de l’entreprise est utilisé pour les activités non transactionnelles comme les demandes de support.
+- Administrateur général
+- Administrateur des comptes
+
+L’ID MPN de localisation identifie chaque localisation spécifique de votre entreprise. Vous utilisez l’ID MPN de localisation pour vous inscrire aux programmes d’incentives, pour effectuer des transactions dans le cadre de l’activité CSP et pour d’autres transactions commerciales. L’ID MPN global est utilisé pour les activités hors transactions, comme les demandes de support.
 
 ## <a name="the-following-is-a-typical-scenario"></a>Voici un scénario courant :
 
-Une entreprise partenaire peut avoir une activité de CSP et une activité de publication. Son activité de CSP peut être assurée sur plusieurs sites et son activité de publication sur d’autres sites. L’entreprise légale a un seul ID MPN dont elle se sert pour gérer tout ce qui n’est pas transactionnel (ajout d’utilisateurs, journalisation des demandes de support, etc.).
+Contoso a comme localisation de son compte global de partenaire (PGA) le Royaume-Uni. Il s’agit de leur activité légalement enregistrée et elle a un ID MPN utilisé pour la gestion de toutes les activités hors transactions. Contoso a également des comptes de localisation partenaire (PLA) équivalents à des filiales ou des divisions ailleurs au Royaume-Uni, en France et aux États-Unis. Dans la structure des comptes MPN, ces comptes de localisation partenaire sont représentés sous forme d’ID MPN de localisation uniques. Les comptes de localisation partenaire sont utilisés pour les activités transactionnelles, comme les programmes CSP ou d’incentives. Les règlements sont associés à des sites spécifiques. 
 
+>[!NOTE]
+>Il existe une relation 1-1 entre un locataire CSP et un ID MPN de localisation.
 
-Chacun de ses sites a un ID MPN utilisé pour les activités transactionnelles (programmes CSP, Incentives par exemple). Les règlements sont associés à des sites spécifiques.
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="Structure des localisations MPN":::
 
-Les utilisateurs peuvent avoir des rôles sur tous les sites. Par exemple, le rôle d’administrateur des incentives peut concerner tous les sites en Europe.
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Prérequis pour pouvoir ajouter une nouvelle localisation pour une activité CSP
 
-## <a name="to-add-a-location"></a>Pour ajouter un site
+Pour ajouter une nouvelle localisation d’activité CSP, il y a plusieurs prérequis :
+
+1. Vous devez avoir un ID MPN de localisation dans le pays où vous voulez exercer votre activité.
+
+1. Vous avez besoin d’un nouveau locataire Azure AD dans la région de l’activité, qui ne soit pas déjà inscrit dans le programme CSP. Créez cela quand vous vous inscrivez dans le programme CSP.
+ 
+3. Utilisez le nouveau locataire AAD pour vous inscrire au programme CSP dans la région.
+Spécifiez les informations détaillées officielles de votre entreprise, comme le nom de la société, l’adresse et les coordonnées du contact principal. Ce compte sera soumis à une vérification : veillez donc à ajouter des informations valides.
+
+>[!NOTE] 
+ >N’oubliez pas de vous connecter avec les **nouvelles** informations d’identification pour le **nouveau** locataire Azure AD. N’utilisez pas vos informations d’identification existantes, car l’Espace partenaires vous reconnaîtra comme ayant déjà un compte.
+
+4. Acceptez le Contrat Partenaire Microsoft et activez le compte.
+
+## <a name="add-a-location"></a>Ajouter une localisation
 
 1. À partir de l’**icône de paramètres**, sélectionnez **Partner settings** (Paramètres partenaire).
 
@@ -49,16 +67,20 @@ Les utilisateurs peuvent avoir des rôles sur tous les sites. Par exemple, le r�
 > [!NOTE]
 > Une fois qu’un site a été ajouté dans l’Espace partenaires, il ne peut plus être supprimé.
 
-## <a name="change-legal-headquarters-location"></a>Changer le site du siège légal
+## <a name="change-global-partner-account-location"></a>Changer la localisation du compte de partenaire global
 
 1. Dans la page **Locations** (Sites), vérifiez que le site que vous voulez désigner comme entité légale figure bien dans la liste des sites. Si ce n’est pas le cas, ajoutez-le.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Capture d’écran de la page Emplacements des comptes de l’Espace partenaires, avec la liste de tous les emplacements actuels.":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Structure des localisations MPN":::
 
 2. Sélectionnez **Partner profile** (Profil partenaire), puis **Update legal business profile** (Mettre à jour le profil d’entreprise légale).
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Capture d’écran montrant les informations de profil du partenaire de compte de l’Espace partenaires avec l’option Mise à jour sélectionnable.":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Structure des localisations MPN":::
 
 3. Sélectionnez la région et l’entité légale et choisissez **Submit** (Soumettre).
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Capture d’écran pour la mise à jour du profil d’entreprise juridique du partenaire, qui montre des listes déroulantes pour mettre à jour le pays ou la région, et l’entité juridique.":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Structure des localisations MPN":::
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- Découvrez plus d’informations sur le [processus de vérification](verification-responses.md).
