@@ -1,64 +1,86 @@
 ---
 title: Gérer les sites dans votre compte partenaire
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dans l’Espace partenaires, découvrez comment ajouter un nouveau site et comment l’ID MPN de site est utilisé dans les programmes d’incentives, l’activité de CSP, les abonnements et autres transactions.
+ms.subservice: partnercenter-mpn
+description: Découvrez comment ajouter une nouvelle localisation et comment l’ID MPN de localisation est utilisé dans les programmes d’incentives, l’activité CSP, les abonnements et autres transactions.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436868"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663893"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a><span data-ttu-id="2213c-103">Gérer les sites de votre compte partenaire dans l’Espace partenaires et ajouter un nouveau site</span><span class="sxs-lookup"><span data-stu-id="2213c-103">Manage your partner account locations in Partner Center and add a new location</span></span>
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a><span data-ttu-id="da14f-103">Gérer les localisations de votre compte MPN et ajouter une nouvelle localisation</span><span class="sxs-lookup"><span data-stu-id="da14f-103">Manage your MPN account locations and add a new location</span></span>
 
-<span data-ttu-id="2213c-104">**Rôles appropriés**</span><span class="sxs-lookup"><span data-stu-id="2213c-104">**Appropriate roles**</span></span>
-- <span data-ttu-id="2213c-105">Administrateur général</span><span class="sxs-lookup"><span data-stu-id="2213c-105">Global admin</span></span>
-- <span data-ttu-id="2213c-106">Administrateur des utilisateurs</span><span class="sxs-lookup"><span data-stu-id="2213c-106">User admin</span></span>
-- <span data-ttu-id="2213c-107">Administrateur de la facturation</span><span class="sxs-lookup"><span data-stu-id="2213c-107">Billing admin</span></span>
-- <span data-ttu-id="2213c-108">Agent d’administration</span><span class="sxs-lookup"><span data-stu-id="2213c-108">Admin agent</span></span>
-- <span data-ttu-id="2213c-109">Agent commercial</span><span class="sxs-lookup"><span data-stu-id="2213c-109">Sales agent</span></span>
+<span data-ttu-id="da14f-104">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="da14f-104">**Applies to**</span></span>
 
-<span data-ttu-id="2213c-110">Les ID MPN de site identifient chaque site spécifique de votre entreprise.</span><span class="sxs-lookup"><span data-stu-id="2213c-110">The location MPN IDs identify each specific location of your company.</span></span> <span data-ttu-id="2213c-111">Vous utilisez l’ID MPN de site pour vous inscrire aux programmes d’incentives, effectuer des transactions dans le cadre de l’activité de fournisseur de solutions Cloud (CSP), ajouter de nouveaux abonnements et autres transactions commerciales.</span><span class="sxs-lookup"><span data-stu-id="2213c-111">You use the location MPN ID to enroll in incentive programs, to transact Cloud Solution Provider (CSP) business, to add new subscriptions, and other business transactions.</span></span> <span data-ttu-id="2213c-112">L’ID MPN de l’entreprise est utilisé pour les activités non transactionnelles comme les demandes de support.</span><span class="sxs-lookup"><span data-stu-id="2213c-112">The company MPN ID is used for non-transactional activities such as support requests.</span></span>
+- <span data-ttu-id="da14f-105">Espace partenaires</span><span class="sxs-lookup"><span data-stu-id="da14f-105">Partner Center</span></span>
 
-## <a name="the-following-is-a-typical-scenario"></a><span data-ttu-id="2213c-113">Voici un scénario courant :</span><span class="sxs-lookup"><span data-stu-id="2213c-113">The following is a typical scenario:</span></span>
+<span data-ttu-id="da14f-106">**Rôles appropriés**</span><span class="sxs-lookup"><span data-stu-id="da14f-106">**Appropriate roles**</span></span>
 
-<span data-ttu-id="2213c-114">Une entreprise partenaire peut avoir une activité de CSP et une activité de publication.</span><span class="sxs-lookup"><span data-stu-id="2213c-114">A partner company can have a CSP business and a publishing business.</span></span> <span data-ttu-id="2213c-115">Son activité de CSP peut être assurée sur plusieurs sites et son activité de publication sur d’autres sites. L’entreprise légale a un seul ID MPN dont elle se sert pour gérer tout ce qui n’est pas transactionnel (ajout d’utilisateurs, journalisation des demandes de support, etc.).</span><span class="sxs-lookup"><span data-stu-id="2213c-115">Their CSP business can be located in several locales and their pub business may be located in other locales.Their registered legal business has one MPN ID used for managing all non-transactional business such as adding users or logging support requests.</span></span>
+- <span data-ttu-id="da14f-107">Administrateur général</span><span class="sxs-lookup"><span data-stu-id="da14f-107">Global admin</span></span>
+- <span data-ttu-id="da14f-108">Administrateur des comptes</span><span class="sxs-lookup"><span data-stu-id="da14f-108">Account admin</span></span>
 
+<span data-ttu-id="da14f-109">L’ID MPN de localisation identifie chaque localisation spécifique de votre entreprise.</span><span class="sxs-lookup"><span data-stu-id="da14f-109">The location MPN ID identifies each specific location of your company.</span></span> <span data-ttu-id="da14f-110">Vous utilisez l’ID MPN de localisation pour vous inscrire aux programmes d’incentives, pour effectuer des transactions dans le cadre de l’activité CSP et pour d’autres transactions commerciales.</span><span class="sxs-lookup"><span data-stu-id="da14f-110">You use the location MPN ID to enroll in incentive programs, to transact Cloud Solution Provider (CSP) business, and other business transactions.</span></span> <span data-ttu-id="da14f-111">L’ID MPN global est utilisé pour les activités hors transactions, comme les demandes de support.</span><span class="sxs-lookup"><span data-stu-id="da14f-111">The global MPN ID is used for non-transactional activities such as support requests.</span></span>
 
-<span data-ttu-id="2213c-116">Chacun de ses sites a un ID MPN utilisé pour les activités transactionnelles (programmes CSP, Incentives par exemple).</span><span class="sxs-lookup"><span data-stu-id="2213c-116">Each of their locations has an MPN ID used for transactional business such as CSP or incentives programs.</span></span> <span data-ttu-id="2213c-117">Les règlements sont associés à des sites spécifiques.</span><span class="sxs-lookup"><span data-stu-id="2213c-117">Payouts are tied to specific locations.</span></span>
+## <a name="the-following-is-a-typical-scenario"></a><span data-ttu-id="da14f-112">Voici un scénario courant :</span><span class="sxs-lookup"><span data-stu-id="da14f-112">The following is a typical scenario:</span></span>
 
-<span data-ttu-id="2213c-118">Les utilisateurs peuvent avoir des rôles sur tous les sites.</span><span class="sxs-lookup"><span data-stu-id="2213c-118">Users may have roles that cross locations.</span></span> <span data-ttu-id="2213c-119">Par exemple, le rôle d’administrateur des incentives peut concerner tous les sites en Europe.</span><span class="sxs-lookup"><span data-stu-id="2213c-119">For example, the incentives admin could have that role for all locations in Europe.</span></span>
+<span data-ttu-id="da14f-113">Contoso a comme localisation de son compte global de partenaire (PGA) le Royaume-Uni.</span><span class="sxs-lookup"><span data-stu-id="da14f-113">Contoso has its Partner global account (PGA) location in the UK.</span></span> <span data-ttu-id="da14f-114">Il s’agit de leur activité légalement enregistrée et elle a un ID MPN utilisé pour la gestion de toutes les activités hors transactions.</span><span class="sxs-lookup"><span data-stu-id="da14f-114">This is their registered legal business, and it has one MPN ID used for managing all non-transactional business.</span></span> <span data-ttu-id="da14f-115">Contoso a également des comptes de localisation partenaire (PLA) équivalents à des filiales ou des divisions ailleurs au Royaume-Uni, en France et aux États-Unis.</span><span class="sxs-lookup"><span data-stu-id="da14f-115">Contoso also has Partner location accounts (PLA) equivalent to subsidiaries or divisions in another location in the UK, France, and the USA.</span></span> <span data-ttu-id="da14f-116">Dans la structure des comptes MPN, ces comptes de localisation partenaire sont représentés sous forme d’ID MPN de localisation uniques.</span><span class="sxs-lookup"><span data-stu-id="da14f-116">In the MPN Account structure, these PLAs are represented as unique location MPN IDs.</span></span> <span data-ttu-id="da14f-117">Les comptes de localisation partenaire sont utilisés pour les activités transactionnelles, comme les programmes CSP ou d’incentives.</span><span class="sxs-lookup"><span data-stu-id="da14f-117">The PLAs are used for transactional business such as CSP or incentives programs.</span></span> <span data-ttu-id="da14f-118">Les règlements sont associés à des sites spécifiques.</span><span class="sxs-lookup"><span data-stu-id="da14f-118">Payouts are tied to specific locations.</span></span> 
 
-## <a name="to-add-a-location"></a><span data-ttu-id="2213c-120">Pour ajouter un site</span><span class="sxs-lookup"><span data-stu-id="2213c-120">To add a location</span></span>
+>[!NOTE]
+><span data-ttu-id="da14f-119">Il existe une relation 1-1 entre un locataire CSP et un ID MPN de localisation.</span><span class="sxs-lookup"><span data-stu-id="da14f-119">There is a 1-1 relationship between a CSP tenant and an MPN location ID.</span></span>
 
-1. <span data-ttu-id="2213c-121">À partir de l’**icône de paramètres**, sélectionnez **Partner settings** (Paramètres partenaire).</span><span class="sxs-lookup"><span data-stu-id="2213c-121">From the **Setting icon**, select the **Partner settings**.</span></span>
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="Structure des localisations MPN":::
 
-2. <span data-ttu-id="2213c-122">Sélectionnez **Locations** (Sites).</span><span class="sxs-lookup"><span data-stu-id="2213c-122">Select **Locations.**</span></span>
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a><span data-ttu-id="da14f-121">Prérequis pour pouvoir ajouter une nouvelle localisation pour une activité CSP</span><span class="sxs-lookup"><span data-stu-id="da14f-121">Prerequisites in order to add a new location for a CSP business</span></span>
 
-3. <span data-ttu-id="2213c-123">Sélectionnez **Add a location** (Ajouter un site).</span><span class="sxs-lookup"><span data-stu-id="2213c-123">Select **Add a location**.</span></span>  
+<span data-ttu-id="da14f-122">Pour ajouter une nouvelle localisation d’activité CSP, il y a plusieurs prérequis :</span><span class="sxs-lookup"><span data-stu-id="da14f-122">To add a new CSP business location, there are several prerequisites:</span></span>
 
-4. <span data-ttu-id="2213c-124">Dans la page **Add a location** (Ajouter un site), insérez les coordonnées du site que vous souhaitez ajouter à votre entreprise ainsi que son contact principal.</span><span class="sxs-lookup"><span data-stu-id="2213c-124">In the **Add a location** page, insert the address details of the location that you want to add to your company as well as a primary contact for the location.</span></span>
+1. <span data-ttu-id="da14f-123">Vous devez avoir un ID MPN de localisation dans le pays où vous voulez exercer votre activité.</span><span class="sxs-lookup"><span data-stu-id="da14f-123">You must have a location MPN ID in the country where you want to do business.</span></span>
+
+1. <span data-ttu-id="da14f-124">Vous avez besoin d’un nouveau locataire Azure AD dans la région de l’activité, qui ne soit pas déjà inscrit dans le programme CSP.</span><span class="sxs-lookup"><span data-stu-id="da14f-124">You need a new Azure AD tenant in the region of business which is not already enrolled into CSP.</span></span> <span data-ttu-id="da14f-125">Créez cela quand vous vous inscrivez dans le programme CSP.</span><span class="sxs-lookup"><span data-stu-id="da14f-125">Create this when you enroll in CSP.</span></span>
+ 
+3. <span data-ttu-id="da14f-126">Utilisez le nouveau locataire AAD pour vous inscrire au programme CSP dans la région.</span><span class="sxs-lookup"><span data-stu-id="da14f-126">Use the new AAD tenant to enroll into CSP program in the region.</span></span>
+<span data-ttu-id="da14f-127">Spécifiez les informations détaillées officielles de votre entreprise, comme le nom de la société, l’adresse et les coordonnées du contact principal.</span><span class="sxs-lookup"><span data-stu-id="da14f-127">Providing legal company details including the legal company name, address, primary contact details.</span></span> <span data-ttu-id="da14f-128">Ce compte sera soumis à une vérification : veillez donc à ajouter des informations valides.</span><span class="sxs-lookup"><span data-stu-id="da14f-128">This account will undergo verification, so make sure to add valid information.</span></span>
+
+>[!NOTE] 
+ ><span data-ttu-id="da14f-129">N’oubliez pas de vous connecter avec les **nouvelles** informations d’identification pour le **nouveau** locataire Azure AD.</span><span class="sxs-lookup"><span data-stu-id="da14f-129">Remember to sign in with the **new** credentials for the **new** Azure AD tenant.</span></span> <span data-ttu-id="da14f-130">N’utilisez pas vos informations d’identification existantes, car l’Espace partenaires vous reconnaîtra comme ayant déjà un compte.</span><span class="sxs-lookup"><span data-stu-id="da14f-130">Don't use your existing credentials as Partner Center will recognize you as already having an account.</span></span>
+
+4. <span data-ttu-id="da14f-131">Acceptez le Contrat Partenaire Microsoft et activez le compte.</span><span class="sxs-lookup"><span data-stu-id="da14f-131">Accept the Microsoft Partner Agreement and activate the account.</span></span>
+
+## <a name="add-a-location"></a><span data-ttu-id="da14f-132">Ajouter une localisation</span><span class="sxs-lookup"><span data-stu-id="da14f-132">Add a location</span></span>
+
+1. <span data-ttu-id="da14f-133">À partir de l’**icône de paramètres**, sélectionnez **Partner settings** (Paramètres partenaire).</span><span class="sxs-lookup"><span data-stu-id="da14f-133">From the **Setting icon**, select the **Partner settings**.</span></span>
+
+2. <span data-ttu-id="da14f-134">Sélectionnez **Locations** (Sites).</span><span class="sxs-lookup"><span data-stu-id="da14f-134">Select **Locations.**</span></span>
+
+3. <span data-ttu-id="da14f-135">Sélectionnez **Add a location** (Ajouter un site).</span><span class="sxs-lookup"><span data-stu-id="da14f-135">Select **Add a location**.</span></span>  
+
+4. <span data-ttu-id="da14f-136">Dans la page **Add a location** (Ajouter un site), insérez les coordonnées du site que vous souhaitez ajouter à votre entreprise ainsi que son contact principal.</span><span class="sxs-lookup"><span data-stu-id="da14f-136">In the **Add a location** page, insert the address details of the location that you want to add to your company as well as a primary contact for the location.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="2213c-125">Une fois qu’un site a été ajouté dans l’Espace partenaires, il ne peut plus être supprimé.</span><span class="sxs-lookup"><span data-stu-id="2213c-125">Once a location is added in Partner Center, it cannot be removed.</span></span>
+> <span data-ttu-id="da14f-137">Une fois qu’un site a été ajouté dans l’Espace partenaires, il ne peut plus être supprimé.</span><span class="sxs-lookup"><span data-stu-id="da14f-137">Once a location is added in Partner Center, it cannot be removed.</span></span>
 
-## <a name="change-legal-headquarters-location"></a><span data-ttu-id="2213c-126">Changer le site du siège légal</span><span class="sxs-lookup"><span data-stu-id="2213c-126">Change legal headquarters location</span></span>
+## <a name="change-global-partner-account-location"></a><span data-ttu-id="da14f-138">Changer la localisation du compte de partenaire global</span><span class="sxs-lookup"><span data-stu-id="da14f-138">Change Global partner account location</span></span>
 
-1. <span data-ttu-id="2213c-127">Dans la page **Locations** (Sites), vérifiez que le site que vous voulez désigner comme entité légale figure bien dans la liste des sites.</span><span class="sxs-lookup"><span data-stu-id="2213c-127">On the **Locations** page, check the list of locations to ensure that the location you want as your legal entity is listed.</span></span> <span data-ttu-id="2213c-128">Si ce n’est pas le cas, ajoutez-le.</span><span class="sxs-lookup"><span data-stu-id="2213c-128">If it isn't, add it.</span></span>
+1. <span data-ttu-id="da14f-139">Dans la page **Locations** (Sites), vérifiez que le site que vous voulez désigner comme entité légale figure bien dans la liste des sites.</span><span class="sxs-lookup"><span data-stu-id="da14f-139">On the **Locations** page, check the list of locations to ensure that the location you want as your legal entity is listed.</span></span> <span data-ttu-id="da14f-140">Si ce n’est pas le cas, ajoutez-le.</span><span class="sxs-lookup"><span data-stu-id="da14f-140">If it isn't, add it.</span></span>
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Capture d’écran de la page Emplacements des comptes de l’Espace partenaires, avec la liste de tous les emplacements actuels.":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Structure des localisations MPN":::
 
-2. <span data-ttu-id="2213c-130">Sélectionnez **Partner profile** (Profil partenaire), puis **Update legal business profile** (Mettre à jour le profil d’entreprise légale).</span><span class="sxs-lookup"><span data-stu-id="2213c-130">Select **Partner profile** and then select **Update legal business profile**</span></span>
+2. <span data-ttu-id="da14f-142">Sélectionnez **Partner profile** (Profil partenaire), puis **Update legal business profile** (Mettre à jour le profil d’entreprise légale).</span><span class="sxs-lookup"><span data-stu-id="da14f-142">Select **Partner profile** and then select **Update legal business profile**</span></span>
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Capture d’écran montrant les informations de profil du partenaire de compte de l’Espace partenaires avec l’option Mise à jour sélectionnable.":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Structure des localisations MPN":::
 
-3. <span data-ttu-id="2213c-132">Sélectionnez la région et l’entité légale et choisissez **Submit** (Soumettre).</span><span class="sxs-lookup"><span data-stu-id="2213c-132">Select the region and legal entity and **Submit** it.</span></span>
+3. <span data-ttu-id="da14f-144">Sélectionnez la région et l’entité légale et choisissez **Submit** (Soumettre).</span><span class="sxs-lookup"><span data-stu-id="da14f-144">Select the region and legal entity and **Submit** it.</span></span>
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Capture d’écran pour la mise à jour du profil d’entreprise juridique du partenaire, qui montre des listes déroulantes pour mettre à jour le pays ou la région, et l’entité juridique.":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Structure des localisations MPN":::
+
+## <a name="next-steps"></a><span data-ttu-id="da14f-146">Étapes suivantes</span><span class="sxs-lookup"><span data-stu-id="da14f-146">Next steps</span></span>
+
+- <span data-ttu-id="da14f-147">Découvrez plus d’informations sur le [processus de vérification](verification-responses.md).</span><span class="sxs-lookup"><span data-stu-id="da14f-147">Learn about the [verification process](verification-responses.md).</span></span>
