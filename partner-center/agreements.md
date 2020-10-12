@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114829"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899227"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Contrats client Microsoft par région et par langue
 
@@ -127,11 +127,11 @@ Si vous ne savez avec certitude dans quelles régions et sur quels marchés vous
     
     En Allemagne, le Code pénal (section 203) et les codes de conduite professionnels imposent le respect de la confidentialité de certaines relations avec les clients, par exemple les relations entre les patients et leur médecin ainsi que les relations entre les avocats et leurs clients. Ces groupes professionnels doivent garantir le secret professionnel. Pour que ces professions parmi d’autres puissent acheter des services cloud auprès de fournisseurs de solutions cloud, le fournisseur de services cloud doit conclure un accord écrit avec le client afin de garantir le secret professionnel.
 
-    Si vous faites des affaires en Allemagne, vous devrez peut-être fournir cet avenant relatif au secret professionnel à vos clients, en plus du contrat Microsoft Cloud.
+    Si vous faites des affaires en Allemagne, vous devrez peut-être fournir cet avenant relatif au secret professionnel à vos clients, en plus du Contrat client Microsoft.
 
-  - [Avenant au contrat Microsoft Cloud concernant le secret professionnel pour l’Allemagne (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [Avenant au contrat Microsoft Cloud concernant le secret professionnel pour l’Allemagne (EN)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [Avenant au contrat Microsoft Cloud concernant le secret professionnel pour l’Allemagne (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [Avenant au contrat Microsoft Cloud concernant le secret professionnel pour l’Allemagne (DE)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - Gibraltar : [Anglais](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Grèce : [anglais](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [grec](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
