@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/05/2020
-ms.openlocfilehash: 36577ea1c64a75802602613628e5ff59fa9e6eb4
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772255"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844663"
 ---
 # <a name="october-2020-announcements"></a>Annonces du mois d’octobre 2020
 
 Cette page détaille les annonces de l’Espace partenaires Microsoft pour octobre 2020.
 
 Annonces 2020 :  [Mars](2020-march.md) | [Avril](2020-april.md) | [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | [Septembre](2020-september.md) | Octobre
+
+________________
+
+## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Simplification de l’expérience avec les applications Azure dans la Place de marché Azure
+
+### <a name="categories"></a>Catégories
+
+- Date : 07-10-2020
+- Fonctionnalité
+ 
+### <a name="summary"></a>Résumé 
+
+L’expérience utilisateur du portail Azure a été récemment modifiée pour toutes les applications Azure. Ceci est une mise à jour qui s’adresse aux éditeurs de logiciels indépendants (ISV) pour leur annoncer ce qui les attend et les prochaines étapes.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les ISV publiant des applications Azure
+
+### <a name="details"></a>Détails
+
+Nous avons simplifié l’expérience utilisateur pour les applications Azure dans le portail Azure.
+
+Vous recevez cet e-mail parce que vous avez publié, ou vous êtes inscrit pour publier, des applications Azure (modèles de solution et applications managées) sur la Place de marché Azure.
+
+Nous avons apporté des changements au [portail Azure](https://ms.portal.azure.com/) pour améliorer la façon dont les clients utilisent et gèrent les applications Azure. **Révisez et mettez à jour** la documentation et les supports de référence pour vos clients afin de vous assurer qu’ils reflètent la nouvelle expérience.
+Voici les nouveautés du portail Azure :
+
+- Navigation flexible qui vous permet d’afficher, de modifier et d’enregistrer des informations dans n’importe quelle section sans avoir à compléter la section précédente.
+- Nouvelle vue de page entière sans plusieurs niveaux imbriqués.
+- Nouvelle fonctionnalité pour étiqueter et organiser les ressources Azure. Pour en savoir plus sur l’étiquetage, consultez [Utiliser des étiquettes pour organiser vos ressources Azure](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources).
+
+Si vous avez des questions sur ces changements, contactez notre [équipe de support](https://aka.ms/marketplacepublishersupport).
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Révisez et mettez à jour la documentation et les supports de référence pour vos clients afin de vous assurer qu’ils reflètent la nouvelle expérience.
 
 ________________
 
@@ -203,7 +239,7 @@ Microsoft Teams et n’importe quelle suite Microsoft 365/Office 365.
 - Consultez la section Ressources du [Guide des partenaires Teams](https://aka.ms/teamscallingmeetingsguide).
 - Vous trouverez des informations supplémentaires sur les offres promotionnelles Microsoft Teams sur [le blog](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) ou sur le [groupe Yammer des partenaires Office 365](https://www.yammer.com/office365partners/).
 
-## <a name="questions"></a>Vous avez des questions ?
+### <a name="questions"></a>Vous avez des questions ?
 
 Pour toute question sur ces offres, contactez votre représentant de l’équipe ou du support technique des comptes Microsoft.
 
