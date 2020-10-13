@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422553"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980260"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transférer les abonnements du plan Azure d’un client à un autre partenaire
 
@@ -37,7 +37,7 @@ Le client doit être en conversation avec les deux partenaires (actuels et futur
 - La tarification du fournisseur CSP pour les services Azure sous le partenaire actuel n’est pas transition  
 - Les responsabilités de support pour le client seront déplacées vers le futur partenaire
 - La facturation et la facturation seront déplacées vers le futur partenaire au moment du transfert
-- Le Access Control basé sur les rôles Azure (RBAC) n’est pas affecté par le transfert
+- Le Access Control de Role-Based Azure (RBAC) n’est pas affecté par le transfert
 - L’administrateur pour le compte de (ADMINISTRATE) ne sera pas accordé par défaut au partenaire futur
 - Les produits de la place de marché tiers sont transférés tant que les produits réussissent la vérification du droit de la place de marché.
     - Il n’existe aucune remise spéciale ou restriction régionale
@@ -77,11 +77,11 @@ Le futur partenaire de l’abonnement doit remplir un formulaire de demande de t
 
 6.  Sélectionnez **Envoyer une demande de transfert**  >  **Envoyer**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Remplir le formulaire de demande de transfert":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Section des transferts":::
 
 7.  Vérifier la confirmation de demande de transfert
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Vérifier le transfert en attente":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Section des transferts":::
 
     >[!Note]
     >Le futur partenaire peut annuler la demande de transfert en sélectionnant **annuler la demande** dans le coin supérieur droit uniquement lorsque l’état de la demande de transfert est « en attente ». Une fois que l’état de la demande de transfert est « en cours » ou « terminé », les annulations ne sont pas possibles.
@@ -90,7 +90,7 @@ Le futur partenaire de l’abonnement doit remplir un formulaire de demande de t
 
 L’agent admin du partenaire actuel recevra un e-mail indiquant que son client demande un transfert de ses abonnements :
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Révision":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Section des transferts":::
 
 Passez en revue et acceptez le formulaire de demande de transfert de l’espace partenaires pour terminer le transfert de l’abonnement.
 
@@ -103,7 +103,7 @@ Passez en revue et acceptez le formulaire de demande de transfert de l’espace 
 3.  Sélectionnez la section **demande de transfert** .
 4.  Développez les informations de transfert en sélectionnant l' **ID de demande de transfert** choisi sous **demandes reçues** .
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Demande de transfert de révisions de la source":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Section des transferts":::
 
 5.  Passez en revue la demande de transfert. Sélectionnez les abonnements Azure demandés à transférer.
 
@@ -114,7 +114,7 @@ Passez en revue et acceptez le formulaire de demande de transfert de l’espace 
 
 6.  Sélectionnez ensuite **accepter et transférer** pour terminer le processus de transfert.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Sélectionner les abonnements à transférer sous vos plans Azure":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Section des transferts":::
 
 7.  Affichez la confirmation de l’acceptation du transfert.
 
@@ -132,9 +132,9 @@ Passez en revue et acceptez le formulaire de demande de transfert de l’espace 
 
 - Par conséquent, il est important que votre client supprime l’accès RBAC Azure pour son partenaire précédent et ajoute un accès pour le nouveau partenaire. Pour plus d’informations sur votre client donnant accès à un nouvel accès, consultez [qu’est-ce que le contrôle d’accès en fonction du rôle Azure (Azure RBAC) ?](/azure/role-based-access-control/overview) Pour plus d’informations sur votre client qui supprime l’accès RBAC de votre partenaire précédent, consultez [supprimer une attribution de rôle](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
 
-- En outre, vous ne disposez pas automatiquement de l’accès de l’administrateur pour le [compte de (administrate)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) à vos abonnements. ADMINISTRATE est nécessaire pour que le partenaire gère les abonnements Azure de ses clients en leur nom. Pour plus d’informations sur les privilèges Azure, consultez [obtenir des autorisations pour gérer le service ou l’abonnement d’un client.](/partner-center/customers-revoke-admin-privileges)
+- En outre, vous ne disposez pas automatiquement de l’accès de l’administrateur pour le [compte de (administrate)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) à vos abonnements. ADMINISTRATE est nécessaire pour que le partenaire gère les abonnements Azure de ses clients en leur nom. Pour plus d’informations sur les privilèges Azure, consultez [obtenir des autorisations pour gérer le service ou l’abonnement d’un client.](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Étapes suivantes :
 
 - [(RBAC Azure)](/azure/role-based-access-control/overview)
-- [Obtenir des autorisations pour gérer le service ou l’abonnement d’un client.](/partner-center/customers-revoke-admin-privileges)
+- [Obtenir des autorisations pour gérer le service ou l’abonnement d’un client.](./customers-revoke-admin-privileges.md)
