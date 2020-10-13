@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000373"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006781"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP
 
@@ -29,7 +29,7 @@ ms.locfileid: "91000373"
 - Administrateur général
 - Agent d’administration
 
-\[Certaines informations relatives aux produits précommercialisés peuvent être substantiellement modifiées avant leur commercialisation. Microsoft exclut toute garantie, expresse ou implicite, concernant les informations fournies ici.\]
+\[Certaines informations relatives aux produits précommercialisés peuvent être substantiellement modifiées avant leur commercialisation. Microsoft ne donne aucune garantie, expresse ou implicite, concernant les informations fournies ici.\]
 
 Vous pouvez consolider les locataires pour votre entreprise. Utilisez ces instructions pour consolider des locataires de différents pays/régions.
 
@@ -148,4 +148,4 @@ Pour plus d’informations sur l’inscription d’API, consultez [configurer l�
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Configuration et gestion des comptes clients pour les partenaires revendeurs dans l’Espace partenaires](customer-accounts.md)
+- [Les marchés régionaux et les devises du programme fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP](regional-authorization-overview.md)

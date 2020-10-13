@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545980"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006877"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -98,14 +98,14 @@ Pour les abonnements existants, si vous décidez d’utiliser un revendeur indir
 
 - Dans la page Détails de l’abonnement, dans le champ **revendeur (ID MPN)** , ajoutez le revendeur que vous souhaitez utiliser. Cela garantit que le revendeur recevra les incentives appropriés.
 
-| **Pour ce faire** | **Procédez comme suit** | **Where** |
+| **Pour ce faire** | **Action** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Permettre au revendeur de gérer le compte d’un client et disposer des autorisations d’administrateur pour gérer ses abonnements | Associer un revendeur à un compte client lors de l’ajout d’un nouveau client | Sur la page **nouveau client** |
 | Permettre au revendeur de gérer le compte d’un client Azure|Associer un revendeur à un compte client Azure lors de l’ajout d’un nouveau client|Dans le **portail Azure Service**, sélectionnez [paramètres utilisateur](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour octroyer les autorisations de **propriétaire du locataire** du revendeur indirect.|
 | Fournir le crédit du revendeur pour les incentives | Associer le revendeur à l’abonnement (nouveau ou existant) | Sur la page **nouvel abonnement** |
 | Déléguer le support client pour des abonnements spécifiques au revendeur | Sélectionnez le revendeur dans la liste des **contacts de support désignés** | Sur la page de détails de l’abonnement : sélectionnez le client dans la page des **clients** , puis sélectionnez l’abonnement dans la page **abonnements** du client. |
 
-## <a name="remove-partnership-with-indirect-resellers"></a>Supprimer le partenariat avec des revendeurs indirects
+## <a name="remove-partnership-with-indirect-resellers"></a>Supprimer un partenariat avec des revendeurs indirects
 
 Pour supprimer le partenariat avec un revendeur indirect existant, suivez les étapes ci-dessous. 
 
@@ -170,7 +170,5 @@ Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau
 ## <a name="next-steps"></a>Étapes suivantes
 
 Pour plus d’informations sur la gestion des comptes client et des abonnements, consultez :
-
-- [Comptes client](customer-accounts.md)
 
 - [Abonnements client](customer-subscriptions.md)

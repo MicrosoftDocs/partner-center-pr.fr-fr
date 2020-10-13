@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 71bfb819b0ce928d064bebe685664412a5eac689
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527235"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006724"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Guide pratique pour ajouter un nouvel enregistrement de client dans l’Espace partenaires
 
@@ -71,4 +71,3 @@ Cet article explique comment ajouter un nouveau client à votre liste de clients
 
 - Pour plus d’informations sur ce que vous pouvez vendre aux clients par le biais du programme fournisseur de solutions Cloud, consultez [offres partenaires dans le programme du fournisseur de solutions Cloud](csp-offers.md)
 
-- Pour plus d’informations sur l’Association d’un nouveau client à votre compte partenaire, consultez [se connecter avec des clients](customer-accounts.md).
