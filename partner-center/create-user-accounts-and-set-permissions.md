@@ -1,22 +1,22 @@
 ---
 title: Créer des comptes d’utilisateur et attribuer des rôles
 description: Un rôle doit être attribué à chaque employé pour lui permettre d’accéder à l’Espace partenaires. Découvrez comment créer des comptes d’utilisateur, attribuer des rôles et définir des autorisations.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
+ms.custom: contperfq2
 author: parthpandyaMSFT
 ms.author: parthp
-ms.custom: SEOAPR.20
-ms.localizationpriority: high
-ms.date: 02/26/2020
-ms.openlocfilehash: 637e88205d9944f7220e227b5101220d94ed42db
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.localizationpriority: medium
+ms.date: 10/12/2020
+ms.openlocfilehash: 41f7f68c61630daf30595e28bd5de52f5a5787c8
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000433"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006763"
 ---
-# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Créer des comptes d’utilisateur et attribuer des rôles et des autorisations
+# <a name="create-user-accounts"></a>Créer des comptes d'utilisateur  
 
 **Rôles appropriés**
 
@@ -26,10 +26,9 @@ ms.locfileid: "91000433"
 
 Créez des comptes d’utilisateur pour les employés qui doivent accéder à l’Espace partenaires. Ces tâches doivent être effectuées par l’administrateur de la gestion des utilisateurs, l’administrateur des comptes ou l’administrateur général. L’utilisateur qui effectue ces tâches doit aussi se voir attribuer les rôles Administrateur d’utilisateurs ou Administrateur général d’Azure Active Directory (AAD). Pour plus d’informations sur les rôles d’AAD, consultez [Autorisations des rôles d’administrateur dans Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
-
 ## <a name="add-a-new-user"></a>Ajouter un nouvel utilisateur
 
-1. À partir de l’icône **Paramètres** en haut à droite de l’Espace partenaires, sélectionnez **Gestion des utilisateurs**.
+1. À partir de l’icône **Paramètres** en haut à droite de l’Espace partenaires, sélectionnez **Paramètres de compte**, puis **Gestion des utilisateurs**.
 
 2. Sélectionnez **Ajouter un utilisateur**.
 
@@ -42,38 +41,7 @@ Créez des comptes d’utilisateur pour les employés qui doivent accéder à l�
 > [!IMPORTANT]  
 > Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement. 
 
-
-L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l’Espace partenaires pour la première fois, il est invité à modifier son mot de passe. 
-
-## <a name="find-the-role-youve-been-assigned"></a>Rechercher le rôle qui vous a été attribué
-
-Si votre administrateur général ne vous a rien dit, sachez que vous pouvez trouver le rôle que vous avez dans l’Espace partenaires en procédant comme suit :
-
-1. Connectez-vous au tableau de bord de l’Espace partenaires https://partner.microsoft.com/dashboard/home).
-
-1. Sélectionnez l’icône **Paramètres de compte**, puis **Mon profil**.
- 
-1. Sélectionnez l’onglet **Rôles et autorisations**. Vos rôles et autorisations s’affichent.
- 
-
->[!Note]
->Si vous ne voyez pas de programme quand vous vous connectez, cela signifie généralement que vous ne disposez pas des autorisations appropriées pour travailler dans ce programme. Par exemple, si vous ne voyez pas la page Incentives lorsque vous vous connectez, vous ne disposez pas des autorisations Incentives. Votre administrateur général peut vous fournir les autorisations nécessaires.
-
-
-## <a name="find-your-global-admin"></a>Rechercher votre administrateur général
-
-Parfois, un utilisateur peut être amené à changer de rôle ou un nouvel utilisateur peut souhaiter se voir attribuer un rôle spécifique.  
-Pour trouver un administrateur général qui peut effectuer des changements de rôle ou attribuer des rôles à un nouvel utilisateur, à partir de l’icône **Paramètres de compte** en haut à droite de l’Espace partenaires, sélectionnez **Gestion des utilisateurs** et filtrez sur l’administrateur général, ou accédez à **Mon profil**, sélectionnez **Rôles et autorisations** et consultez la liste des différents administrateurs qui peuvent vous aider à élever vos autorisations. 
-
-
-## <a name="new-global-admin"></a>Nouvel administrateur général
-
-Si votre administrateur général quitte l’organisation et qu’une autre personne doit endosser ce rôle, vous pouvez envoyer un ticket à l’équipe Azure ou Office 365. Pour plus d’informations sur la façon de procéder, sélectionnez l’une des options ci-dessous.
-
-[Nouvel administrateur général pour Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
-
-[Nouvel administrateur général pour Office 365](https://admin.microsoft.com/)
-
+L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l’Espace partenaires pour la première fois, il est invité à modifier son mot de passe.
 
 ## <a name="assign-user-roles"></a>Attribuer des rôles d’utilisateur
 
@@ -82,41 +50,6 @@ Pour travailler dans l’Espace partenaires, un rôle doit vous être attribué.
 >[!Important]
 >Les individus doivent être listés dans votre locataire pour pouvoir accéder à l’Espace partenaires. Les attributions de rôles fournissent un accès supplémentaire.
 
-
-**Parmi les rôles de locataire AAD, citons :**
-- Administrateur général
-- Administrateur des utilisateurs
-
-**Parmi les rôles CSP, citons :**
-- Agent d’administration
-- Administrateur de la facturation
-- Agent commercial
-- Agent du support technique
-
-**Rôles qui gèrent l’adhésion au MPN et l’entreprise (non-AAD)**
-- Administrateur partenaire MPN
-- Administrateur des comptes
-- Administrateur des références
-- Administrateur de profils métier
-- Utilisateur et administrateur d’incentives
-
-**Le fournisseur de panneau de contrôle est un rôle CSP et non-AAD**.
-- Administrateur général
-
-L’**utilisateur invité** doit faire partie du locataire AAD et peut avoir n’importe quel rôle non-AAD.
-
-Pour obtenir des informations spécifiques sur les rôles et ce qu’ils peuvent faire, consultez [Attribuer des autorisations aux utilisateurs](permissions-overview.md).
-
-## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Associer le compte Microsoft Learn d’un utilisateur dans l’Espace Partenaires
-
-Pour que vous puissiez voir les parcours d’apprentissage et de formation suivis par vos utilisateurs pour acquérir des compétences, ils doivent associer leur ID MCP à leur compte Espace partenaires. En tant qu’administrateur général, quand vous ajoutez de nouveaux utilisateurs, veillez à leur rappeler d’associer leur ID MCP à leur compte. 
-
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Comment associer votre ID MCP à votre compte Espace partenaires
-
-1. Dans le tableau de bord de l’Espace partenaires, sélectionnez l'icône **Votre compte** située dans le coin supérieur droit, puis **Mon profil**.
-
-2. Sous **Votre formation**, vous pouvez associer votre compte Microsoft Learning et connecter votre compte Microsoft à l’Université des partenaires.
-
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Attribuer des rôles et des autorisations aux utilisateurs d’une entreprise qui ont besoin de travailler dans l’Espace partenaires](permissions-overview.md)
+- [Attribuer des rôles et des autorisations aux collaborateurs qui ont besoin de travailler dans l’Espace partenaires](permissions-overview.md)
