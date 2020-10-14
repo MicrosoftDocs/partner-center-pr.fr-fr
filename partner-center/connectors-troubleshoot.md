@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: FAQ sur la résolution des problèmes de co-vente des connecteurs.
+description: Découvrez les réponses aux questions courantes sur l’utilisation des connecteurs de co-vente. Lisez ce Forum aux questions sur la résolution des problèmes de co-vente des connecteurs.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844653"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031262"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Résoudre les problèmes des connecteurs de référencements de covente
 

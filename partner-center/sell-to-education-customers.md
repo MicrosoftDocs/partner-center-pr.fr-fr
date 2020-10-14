@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006833"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032082"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Comment vendre des offres à des clients de formation & comment créer un client de formation dans l’espace partenaires
 
@@ -51,7 +51,7 @@ Cet article explique comment créer un client de formation dans l’espace parte
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirmez l’état de vérification de votre client Education
 
-Dans la page compte du client, consultez la rubrique **État de qualification spéciale**.
+Dans la page **compte** du client, consultez la rubrique **État de qualification spéciale**.
 Exemples d’État :
 
 - Si le client a réussi la vérification : éducation
@@ -90,7 +90,7 @@ Vous devez disposer de privilèges d’administrateur général pour mettre à j
 
 ### <a name="resubmit-for-verification"></a>Soumettre à nouveau la vérification
 
-1. Accédez à l’onglet espace partenaires et à la page du **compte** client. Actualisez le navigateur. et vérifiez que la page de l’entreprise a été mise à jour avec les nouvelles informations. Sélectionnez le bouton **mettre à jour** pour demander une nouvelle vérification de l’éducation.
+1. Accédez à l’onglet espace partenaires et à la page du **compte** client. Actualisez le navigateur et vérifiez que la page de l’entreprise a été mise à jour avec les nouvelles informations. Sélectionnez le bouton **mettre à jour** pour demander une nouvelle vérification de l’éducation.
 
 2. Si les détails du client mis à jour sont éligibles pour les offres de formation, vous verrez les **qualifications spéciales** mises à jour vers **Education**. Si vous ne voyez toujours **pas un client Education**, contactez le support pour une vérification manuelle.
 

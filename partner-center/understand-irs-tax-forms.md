@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663910"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032032"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Présentation des déclarations fiscales de l’IRS envoyées par Microsoft
 
@@ -75,3 +75,7 @@ Les formulaires fiscaux vous seront envoyés à partir des adresses suivantes :
 
 > [!NOTE]
 > Si vous avez d’autres questions ou préoccupations liées aux **formulaires fiscaux**de l’IRS, accédez à [aide et support](https://partner.microsoft.com/dashboard/support/) dans le tableau de bord de l’espace partenaires. Microsoft n’est pas en mesure de répondre aux questions relatives à votre situation fiscale spécifique. Pour les questions de cet ordre, consultez votre conseiller fiscal.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Recevoir un paiement dans la place de marché commerciale](marketplace-get-paid.md)

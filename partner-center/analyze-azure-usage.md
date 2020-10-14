@@ -1,6 +1,6 @@
 ---
 title: Analyser l’utilisation d’Azure pour vous aider à développer votre activité
-description: Découvrez comment utiliser l’espace partenaires pour obtenir des données sur l’utilisation des abonnements Azure de vos clients.
+description: Découvrez comment utiliser l’espace partenaires pour obtenir des données sur l’utilisation des abonnements Azure de vos clients. Les données incluent les abonnements vendus, à risque et en cours d’utilisation.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367443"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031882"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenir des données sur les performances de vos clients et abonnements Azure
 

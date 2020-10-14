@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Les partenaires peuvent désormais signer numériquement les factures
+description: Découvrez comment les partenaires de l’espace partenaires en Inde peuvent afficher les factures signées numériquement et recevoir des copies numériques des factures pour les commandes créées dans l’espace partenaires.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490647"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031952"
 ---
 # <a name="view-digitally-signed-invoices"></a>Afficher les factures signées numériquement
 
@@ -38,15 +38,15 @@ Les partenaires en Inde voient maintenant que Microsoft a signé numériquement 
 
 3. Cliquez sur la signature. Le certificat indiquant la validité s’affiche.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Boîte de dialogue facture signée avec le champ signataire autorisé et état de validation de la signature avec détails, option Propriétés de signature, option Annuler."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Exemple de facture avec une bannière de notification de signature valide indiquant une signature de coche verte et une phrase indiquant, signé et toutes les signatures sont valides."::: 
 
 4. Sélectionnez **Propriétés de signature** pour afficher plus de détails sur la validité de la signature.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Affichage détails des propriétés de signature affiche des informations sur qui, où, le moment où le document a été signé, le processus de validation et le certificat du signataire."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Exemple de facture avec une bannière de notification de signature valide indiquant une signature de coche verte et une phrase indiquant, signé et toutes les signatures sont valides."::: 
 
 4. Vous pouvez également vous assurer que les chemins d’accès de certification sont corrects et que le certificat est approuvé.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="La boîte de dialogue visionneuse de certificats affiche plusieurs onglets avec plus de détails sur un certificat et sa chaîne d’émission entière.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Exemple de facture avec une bannière de notification de signature valide indiquant une signature de coche verte et une phrase indiquant, signé et toutes les signatures sont valides.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Informations supplémentaires sur les factures et les signatures numériques
 

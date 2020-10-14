@@ -2,17 +2,17 @@
 title: Fichiers de rapprochement d’utilisation évalués quotidiennement
 ms.topic: article
 ms.date: 06/12/2020
-description: Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires.
+description: Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires. Comprend des descriptions de champs spécifiques dans le fichier de rapprochement.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281311"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031962"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires
 
@@ -60,7 +60,7 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | UsageDate | Date d’utilisation du service. |
 | MeterType | Type de compteur. |
 | MeterCategory | Service de niveau supérieur pour l’utilisation. |
-| ID du compteur | Identificateur du compteur utilisé. |
+| MeterId | Identificateur du compteur utilisé. |
 | MeterSubCategory | Le type de service Azure, qui peut affecter la vitesse. |
 | MeterName | Unité de mesure du compteur consommé. |
 | MeterRegion | Cette colonne identifie l’emplacement d’un centre de données dans la région pour les services où MeterRegion est applicable et rempli. |
@@ -79,7 +79,7 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | PricingCurrency | Devise utilisée dans la liste de prix. |
 | ServiceInfo1 | Nombre de connexions Service Bus qui ont été approvisionnées et utilisées pour un jour donné. |
 | ServiceInfo2 | Champ hérité qui capture les métadonnées facultatives propres au service. |
-| Étiquettes | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
+| Balises | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
 | AdditionalInfo | Toutes les informations supplémentaires non couvertes sont dans les autres colonnes. |
 | EffectiveUnitPrice | Valeur réelle facturée par unité, y compris les remises, les crédits acquis, etc. |
 | PCToBCExchangeRate | Taux de change appliqué pour la devise de tarification à la devise de facturation. |
