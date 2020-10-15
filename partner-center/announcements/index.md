@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
+ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844673"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92081368"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,9 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces du mois d’octobre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctionnalités|[Mise à jour de novembre 2020 : Guide d’autorisation des services en ligne et des chaînes logicielles](2020-october.md#11)|14 octobre|
+|Offres/marchés|[Présentation de Microsoft 365 Business Voice pour les organisations à but non lucratif](2020-october.md#10)|12 octobre|
+|Offres/marchés|[Promotion pour la conférence audio Microsoft 365 disponible maintenant et prochainement pour Microsoft 365 Business Voice](2020-october.md#9)|9 octobre|
 |Fonctions|[Simplification de l’expérience avec les applications Azure dans la Place de marché Azure](2020-october.md#8)|7 octobre|
 |Offres/marchés|[Lancement de la référence SKU Premium pour Salles Microsoft Teams](2020-october.md#7)|5 octobre|
 |Offres/marchés|[Forfaits d’appels Microsoft maintenant disponibles sur de nouveaux marchés](2020-october.md#6)|2 octobre|
