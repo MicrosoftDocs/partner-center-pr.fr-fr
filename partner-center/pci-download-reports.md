@@ -1,7 +1,7 @@
 ---
-title: Tableau de bord du rapport à télécharger Insights.
+title: Tableau de bord du rapport à télécharger Insights
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explorez le tableau de bord des rapports unifiés de l’espace partenaires.
@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436678"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100759"
 ---
 # <a name="download-reports"></a>Télécharger des rapports
 
@@ -34,7 +34,7 @@ Pour générer un rapport, commencez par sélectionner le rapport dans la liste 
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Créer un rapport":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Rapports générés":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Créer un rapport":::
 
 >[!NOTE] 
 >Seuls les utilisateurs qui sont des visionneuses de rapports peuvent télécharger des rapports. Pour plus d’informations sur l’accès basé sur les rôles aux rapports de tableau de bord Insights, consultez la rubrique [rôles PCI](pci-roles.md). 
@@ -51,13 +51,13 @@ Les **Détails du client** fournissent les détails des clients associés à un 
 
 **Utilisation d’Azure** fournit les détails sur l’utilisation d’Azure. Ces détails concernent les abonnements Azure vendus ou gérés par le partenaire. Les détails d’utilisation sont répartis par catégorie de compteurs et d’autres dimensions clés. Le rapport est agrégé sur une base mensuelle.
 
-**Office 365-utilisation** de la licence fournit les détails d’utilisation des licences O365 vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les droits actifs, les droits qualifiés, etc. Le rapport sera agrégé sur une base mensuelle.
+**Office 365-utilisation** de la licence fournit les détails d’utilisation des licences O365 vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport sera agrégé sur une base mensuelle.
 
-**Enterprise Mobility : l’utilisation** de la licence fournit les détails d’utilisation des licences Enterprise Mobility vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les droits actifs, les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
+**Enterprise Mobility : l’utilisation**  de la licence fournit les détails d’utilisation des licences Enterprise Mobility vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
 
-**Dynamics 365 – utilisation** de la licence fournit les détails d’utilisation des licences D365 vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les droits actifs, les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
+**Dynamics 365 – utilisation** de la licence fournit les détails d’utilisation des licences D365 vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
 
-**Power bi-utilisation des licences** fournit les détails d’utilisation des licences Power bi vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les droits actifs, les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
+**Power bi-utilisation des licences** fournit les détails d’utilisation des licences Power bi vendues ou gérées par le partenaire. Il fournit également des informations sur les clients et des mesures clés, telles que les utilisateurs actifs mensuels (MAU), les droits qualifiés, etc. Le rapport est agrégé sur une base mensuelle.
 
 Les **formations** fournissent des détails tels que des examens, des certifications, des évaluations, des formations, des cours terminés ou mis en place par les employés du partenaire.
 

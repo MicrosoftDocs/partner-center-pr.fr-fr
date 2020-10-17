@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c4435227cdd5d777d11c79bf4adc63471ad925e9
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006855"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100769"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gérer les localisations de votre compte MPN et ajouter une nouvelle localisation
 
@@ -54,7 +54,7 @@ Spécifiez les informations détaillées officielles de votre entreprise, comme 
 
 4. Acceptez le Contrat Partenaire Microsoft et activez le compte.
 
-## <a name="add-a-location"></a>Ajouter une localisation
+## <a name="add-an-mpn-location"></a>Ajouter un site MPN
 
 1. Connectez-vous avec le compte MPN dans l’Espace partenaires. Le compte MPN doit disposer de privilèges d’administrateur général ou d’administrateur de compte. 
 
