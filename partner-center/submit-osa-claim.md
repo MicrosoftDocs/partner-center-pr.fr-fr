@@ -1,20 +1,20 @@
 ---
-title: Créer une association client
+title: Créer une association de clients
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Créer des associations de clients avec le modèle d’enregistrement (CPOR) du partenaire demandeur. Permet de gérer les ventes, l’utilisation & les Incentives pour les clients Microsoft 365 et Dynamics 365.
+description: Créer des associations de clients avec le modèle d’enregistrement (CPOR) du partenaire demandeur. Permet de gérer les ventes, l’utilisation, les Incentives pour Microsoft 365 & les clients Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714353"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174995"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associations de clients via le modèle CPOR (Partner of record) revendiqué pour Microsoft 365 et Dynamics 365
 
@@ -26,10 +26,10 @@ ms.locfileid: "90714353"
 
 - Administrateur de primes incitatives
 
-Le 1er octobre 2019, Microsoft a commencé à utiliser le modèle d’enregistrement (CPOR) du partenaire demandeur pour gérer les associations que vous avez avec votre Microsoft 365 et les clients Dynamics 365 en ce qui concerne la vente d’OSA (Online Services Advisory), l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Incentives pour les applications métier.
+Le 1er octobre 2019, Microsoft a commencé à utiliser le modèle d’enregistrement (CPOR) du partenaire demandeur pour gérer les associations que vous avez avec vos clients Microsoft 365 et Dynamics 365 en ce qui concerne la vente OSA (Online Services Advisory), l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business Incentives pour les applications.
 
 >[!Important]
-> Les revendications de l’Association client (CPOR) s’appliquent uniquement aux programmes d’incentives du service Online Services Advisory (OSA), de l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business. Si vous soumettez une demande de remboursement pour un autre programme, tel que le fournisseur de solutions Cloud, le revendeur géré, l’hébergement ou la surface, reportez-vous à la procédure décrite ici. <br><br>Lorsque vous soumettez votre revendication, Microsoft la valide. Nous vous demanderons peut-être d’autres informations à ce stade. Nous informerons également le client de votre demande d’association. Les clients disposent de cinq jours ouvrés pour s’abonner. S’ils n’ont pas été refusés, votre association avec ce locataire et cette charge de travail spécifiques sera officielle. À ce stade, vous aurez accès aux données d’utilisation du client. 
+> Les revendications de l’Association client (CPOR) s’appliquent uniquement à la vente des services de Conseil en ligne (OSA), à l’utilisation des services en ligne (OSU)-Microsoft 365 et aux programmes d’incentives des applications OSU-Business. Si vous soumettez une demande de remboursement pour un autre programme, tel que le fournisseur de solutions Cloud, le revendeur géré, l’hébergement ou la surface, reportez-vous à la procédure décrite ici. <br><br>Lorsque vous soumettez votre revendication, Microsoft la valide. Nous vous demanderons peut-être d’autres informations à ce stade. Nous informerons également le client de votre demande d’association. Les clients disposent de cinq jours ouvrés pour s’abonner. S’ils n’ont pas été refusés, votre association avec ce locataire et cette charge de travail spécifiques sera officielle. À ce stade, vous aurez accès aux données d’utilisation du client. 
 
 Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
@@ -63,9 +63,9 @@ Vous devez également comprendre les points suivants :
 
 - Si vous avez des associations existantes avec des clients Dynamics 365 ou Power BI, ces associations resteront valides jusqu’à l’expiration de leurs abonnements.
 
-- Un client peut avoir plusieurs partenaires, mais chaque charge de travail (pour OSU-Microsoft 365) ou abonnement (pour OSA-Sell et OSU-Business Applications) ne peut être associé qu’à un seul partenaire.
+- Un client peut avoir plusieurs partenaires, mais chaque charge de travail (pour OSU-Microsoft 365) ou abonnement (pour les applications OSA-Sell et OSU-Business) ne peut être associé qu’à un seul partenaire.
 
-## <a name="create-a-customer-association"></a>Créer une association client
+## <a name="create-a-customer-association"></a>Créer une association de clients
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 

@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comment signaler des problèmes avec l'Espace partenaires et collecter des informations de diagnostic pour notre équipe de Support.
+description: Découvrez Comment signaler des problèmes avec l’espace partenaires et Comment collecter des informations de diagnostic pour l’équipe de support partenaire.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220247"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175236"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Comment signaler des problèmes avec l’espace partenaires et envoyer des informations de journal ou de diagnostic
 

@@ -2,19 +2,19 @@
 title: Être crédité de la taxe à la retenue
 ms.topic: article
 ms.date: 06/05/2020
-description: Recevoir un crédit sur votre compte espace partenaires pour la retenue fiscale
+description: Recevez un crédit sur votre compte espace partenaires pour la retenue fiscale. Les informations comprennent les étapes à suivre pour soumettre une demande de retenue d’impôt.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
-ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
+ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/15/2020
-ms.locfileid: "88251265"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174928"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Recevoir un crédit sur votre compte espace partenaires pour la retenue fiscale
 
@@ -45,7 +45,7 @@ Procédez comme suit pour soumettre une nouvelle retenue fiscale :
 
 4. Passez en revue les détails de la facture pour vous assurer que vous soumettez la demande de facture correcte.
 
-   :::image type="content" source="images/wht2.png" alt-text="Finaliser les détails de la retenue d’impôt pour une facture":::
+   :::image type="content" source="images/wht2.png" alt-text="Soumettre une nouvelle retenue fiscale pour une facture":::
 
 5. Entrez le « total de retenue » sous **Détails de la retenue fiscale**. Le « total de retenue » est le montant que vous pensez avoir crédité.
 

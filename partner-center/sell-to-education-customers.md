@@ -1,6 +1,6 @@
 ---
 title: Comment vendre des offres à des clients de formation
-description: Découvrez comment créer un client Education et y vendre des offres dans l’espace partenaires.
+description: Découvrez comment créer un client Education et y vendre des offres dans l’espace partenaires. Comprend la confirmation de l’état de vérification pour votre client Education.
 ms.topic: how-to
 ms.date: 10/06/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032082"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175068"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Comment vendre des offres à des clients de formation & comment créer un client de formation dans l’espace partenaires
 

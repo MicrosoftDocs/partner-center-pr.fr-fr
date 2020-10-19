@@ -1,18 +1,18 @@
 ---
 title: Migrer les abonnements Kaizala Pro vers Microsoft365
-description: Découvrez comment migrer des abonnements Kaizala Pro vers des versions Microsoft365 ou Office 365.
+description: Découvrez comment migrer des abonnements Kaizala Pro vers des versions Microsoft365 ou Office 365. Lisez cet article pour plus d’informations sur la transition de vos clients.
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611235"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175176"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrer des abonnements Kaizala Pro autonomes vers des versions Microsoft365 ou Office 365
 
@@ -29,9 +29,9 @@ Les abonnements E4 seront définis `auto renew=False` sur le 1er juillet 2020. V
 Avec les nouveaux plans, vos clients peuvent tirer parti des fonctionnalités et fonctionnalités plus récentes dans Microsoft 365. Les détails de la tarification se trouvent dans la matrice liste de prix et liste des offres de l’espace partenaires.
 
 - [**Microsoft 365 pour les entreprises**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), notamment :  
-   - Microsoft 365 Business de base
-   - Microsoft 365 Business standard
-   - Microsoft 365 Business Premium
+   - Microsoft 365 Business Basic
+   - Microsoft 365 Business Standard
+   - Microsoft 365 Business Premium
     
 - [**Microsoft 365 pour la Frontline**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), notamment :
    - Microsoft 365 F3 (anciennement Microsoft 365 F1) et Office 365 F3
@@ -42,9 +42,9 @@ Avec les nouveaux plans, vos clients peuvent tirer parti des fonctionnalités et
    - Microsoft 365 E5 et Office 365 E5
 
 - [**Microsoft 365 pour l’éducation**](https://www.microsoft.com/education/buy-license/microsoft365), notamment : 
-    - Microsoft 365 a1 et Office 365 a1
-    - Microsoft 365 a3 et Office 365 a3
-    - Microsoft 365 a5 et Office 365 a5
+    - Microsoft 365 A1 et Office 365 A1
+    - Microsoft 365 A3 et Office 365 A3
+    - Microsoft 365 A5 et Office 365 A5
 
 ## <a name="transition-customers-to-new-product-plans"></a>Accompagner les clients vers les nouvelles formules de produit
 

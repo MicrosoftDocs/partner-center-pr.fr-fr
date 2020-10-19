@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Résoudre les problèmes liés à l’inscription dans l’espace partenaires
+description: Résolvez les problèmes lors de la tentative d’inscription dans l’espace partenaires. Répond aux défis avec les modes de paiement, les oublis de mots de passe et bien plus encore.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000613"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174840"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Résoudre les problèmes de configuration de compte ou de renouvellement MPN
 
@@ -31,7 +31,7 @@ Voici quelques suggestions pour résoudre les problèmes courants qui surviennen
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Que se passe-t-il si vous effectuez une migration à partir du centre d’appartenance au partenaire et que vous ne pouvez pas modifier les champs d’informations
 
-Dans les cas où votre société a déjà une présence dans l’espace partenaires (par exemple, le compte CSP), vous verrez apparaître un écran en lecture seule qui affiche toutes les informations relatives à votre société telles qu’elles existent dans l’espace partenaires.
+Dans les cas où votre société a déjà une présence dans l’espace partenaires (par exemple, le compte CSP), vous verrez apparaître un écran en lecture seule. Cet écran affiche toutes les informations sur votre société telles qu’elles existent dans l’espace partenaires.
 
 Vous ne pouvez pas modifier les détails de cet écran. Cela est dû à la conception et non à une erreur.
 
@@ -40,8 +40,7 @@ Sélectionnez **accepter** et **Continuer** pour continuer.
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si le service informatique a désactivé l' **inscription à l’espace partenaires**.
 
-
-Ce message s’affiche parce que les utilisateurs viraux sont désactivés ou que l’inscription virale est désactivée sur le locataire Azure AD. L’administrateur général de votre compte Azure AD peut activer les fonctionnalités requises en exécutant la commande PowerShell suivante :
+Ce message s’affiche parce que les utilisateurs viraux sont désactivés ou parce que l’inscription virale est désactivée sur le locataire Azure AD. L’administrateur général de votre compte Azure AD peut activer les fonctionnalités requises en exécutant la commande PowerShell suivante :
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
@@ -49,9 +48,9 @@ Pour plus d’informations, consultez [inscription en libre-service](/azure/acti
 
 ## <a name="you-forgot-your-password"></a>Vous avez oublié votre mot de passe
 
-Si vous avez oublié votre mot de passe, sélectionnez le lien vous **ne pouvez pas accéder à votre compte ?** sur la page de connexion pour réinitialiser votre mot de passe ou demandez à votre administrateur général de vous attribuer de nouvelles informations d’identification.
+Si vous avez oublié votre mot de passe, sélectionnez le lien vous **ne pouvez pas accéder à votre compte ?** dans la page de connexion. Cette option vous permet de réinitialiser votre mot de passe ou de demander à votre administrateur général de vous attribuer de nouvelles informations d’identification.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Sur l’écran « faites-nous part de votre société », vous recevez une erreur « un problème est survenu »
+## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>Sur la visualbasicwinappprojectscriptonlyviewbutton « Parlez-nous de votre entreprise », vous recevez une erreur « un problème est survenu »
 
 Ce message d’erreur s’affiche généralement si vous utilisez par inadvertance des caractères spéciaux, des espaces ou un code de pays dans le numéro de téléphone de votre entreprise. La valeur entrée dans le champ numéro de téléphone ne peut contenir que 10 caractères au maximum.
 

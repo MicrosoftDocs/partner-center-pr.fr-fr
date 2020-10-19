@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez les sept principaux indicateurs de contribution partenaires (PCI) qui montrent comment vous travaillez avec Dynamics 365 engagement client ou Dynamics 365 Finance and Operations.
+description: Découvrez sept indicateurs de contribution partenaires (PCI) qui montrent comment vous travaillez avec Dynamics 365 engagement client ou Dynamics 365 Finance and Operations.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714283"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175027"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Les indicateurs de contribution partenaires (PCI) indiquent l’impact du partenaire sur sept mesures clés de la réussite du client
 
@@ -89,7 +89,7 @@ Chaque indicateur fait apparaître un score qui est ajouté au total. Voici les 
 |Succès client-croissance mensuelle des utilisateurs actifs  | 25 points |
 
 L’image suivante offre une référence visuelle rapide.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Affiche un graphique avec des scores maximaux possibles pour chacun des sept indicateurs de contribution partenaires (PCI)." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Affiche les scores PCI pour obtenir une compétence Silver ou Gold." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Seuils pour chaque métrique PCI
 
@@ -111,8 +111,8 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | $300 000 | 10 points | 10 points | *\* Voir la remarque* | 5 points | 5 points | 25% |
-| **Pays** | $150 000 | 5 points | 5 points |*\* Voir la remarque* | 2 points | 1 point | 25% |
+| **Fruit** | 300 000 $ | 10 points | 10 points | *\* Voir la remarque* | 5 points | 5 points | 25 % |
+| **Pays** | $150 000 | 5 points | 5 points |*\* Voir la remarque* | 2 points | 1 point | 25 % |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base. Consultez le [tableau 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) pour les cibles de croissance.*
 
@@ -122,8 +122,8 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | $300 000 | 3 points | 15 points | *\* Voir la remarque* | 5 points | 3 points | 25% |
-| **Pays** | $150 000 | 1 point | 5 points |*\* Voir la remarque* | 2 points | 1 point | 25% |
+| **Fruit** | 300 000 $ | 3 points | 15 points | *\* Voir la remarque* | 5 points | 3 points | 25 % |
+| **Pays** | $150 000 | 1 point | 5 points |*\* Voir la remarque* | 2 points | 1 point | 25 % |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base. Consultez le [tableau 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) pour les cibles de croissance.*
 
@@ -136,7 +136,7 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Fruit | Pays | Croissance nécessaire pour gagner les 15 points *
 |:---:|:---:|:---:|
 | 15-29 | 5-14 | 35 % |
-| 30-49 | 15-24 | 25% |
+| 30-49 | 15-24 | 25 % |
 | 50 et versions ultérieures | 25 et versions ultérieures | 15 % |
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Définitions détaillées des métriques PCI
@@ -313,7 +313,7 @@ L’illustration suivante montre comment lire certains zones et graphiques dans 
 
 Pour plus d’informations sur l’utilisation de cette zone, consultez la collection des ressources et des vidéos qui se trouvent à la fin de cet article.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Comment lire le graphique":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Affiche les scores PCI pour obtenir une compétence Silver ou Gold.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

@@ -2,18 +2,18 @@
 title: Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives
 ms.topic: article
 ms.date: 09/11/2020
-description: Forum aux questions concernant le paiement d’incentives et les profils fiscaux.
+description: Forum aux questions sur le paiement d’incentives et les profils fiscaux. Les questions incluent la raison pour laquelle vous ne pouvez pas voir vos profils de paiement et de taxe et ce qu’il faut en faire.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999303"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175342"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Forum aux questions concernant le paiement d’incentives et les profils fiscaux
 

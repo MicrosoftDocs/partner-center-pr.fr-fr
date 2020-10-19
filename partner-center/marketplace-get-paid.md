@@ -1,17 +1,17 @@
 ---
 title: Recevoir un paiement dans la place de marché commerciale
-description: En savoir plus sur la réception de paiements pour vos revenus sur la place de marché commerciale-place de marché Azure.
+description: En savoir plus sur la réception de paiements pour les bénéfices sur la place de marché commerciale-place de marché Azure. Comprend la stratégie de paiement, l’état de retenue au paiement et les relevés de paiement.
 ms.service: marketplace
 ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591073"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175211"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Recevoir un paiement dans la place de marché commerciale
 

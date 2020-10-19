@@ -1,17 +1,17 @@
 ---
 title: Fusionner votre compte partenaire avec un autre compte partenaire
-description: Les sociétés qui sont des partenaires Microsoft actifs dans l’espace partenaires peuvent fusionner leurs comptes.
+description: Découvrez comment fusionner votre compte partenaire avec un autre compte partenaire dans l’espace partenaires pour les entreprises qui sont des partenaires Microsoft actifs dans l’espace partenaires.
 ms.topic: article
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444962"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175179"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Fusionner votre compte partenaire avec un autre compte partenaire
 

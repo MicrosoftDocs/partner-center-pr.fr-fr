@@ -1,17 +1,17 @@
 ---
 title: Détails des taxes pour la place de marché commerciale de Microsoft
-description: Pour comprendre vos motifs fiscaux pour la sélection des prix, les implications en termes de paiement et la responsabilité fiscale, consultez vos pays/régions de distribution dans les tableaux ci-dessous.
+description: Consultez ces tableaux pour en savoir plus sur les considérations fiscales pour la sélection des prix, les implications du paiement et la responsabilité fiscale pour vos pays/régions de distribution.
 ms.topic: conceptual
 ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 3e350074b08a435ea913f9462702602d1a7c04e8
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007481"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174999"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Détails des taxes pour les éditeurs de la place de marché commerciale
 

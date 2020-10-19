@@ -1,6 +1,6 @@
 ---
 title: Aperçus de l’espace partenaires-rapports de CloudAscent
-description: En savoir plus sur les rapports de proportions CloudAscent dans le tableau de bord espace partenaires.
+description: En savoir plus sur les rapports de proportions CloudAscent dans l’espace partenaires. Contient des informations sur la propension d’un client pour l’achat de produits Microsoft.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: 510f85b053ec17fa0a2a66217a19c006e7ca2bc9
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811333"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175278"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Rapports de proportions CloudAscent disponibles dans le tableau de bord espace partenaires
 
@@ -40,14 +40,14 @@ Le segment SMB (Small-Medium Business) est divisé en trois sous-segments distin
 
    Nous définissons les deux principales méthodes non gérées :
 
-   - **Top based user non gérée**: comprend les comptes avec 300 ou plus employés. Les comptes basés sur les utilisateurs sont de bons objectifs pour la première utilisation ou l’extension de produits d’abonnement basés sur l’utilisateur, tels que M365, D365 ou surface.
+   - **Top based user non gérée**: comprend les comptes avec 300 ou plus employés. Les comptes de User-Based sont des cibles intéressantes pour l’achat initial, ou l’extension de produits d’abonnement basés sur l’utilisateur, tels que M365, D365 ou surface.
    - **Top Compute non gérée** : comprend les comptes avec un potentiel Azure supérieur à 10 000 $. Les comptes basés sur le calcul incluent Azure existant. comptes avec un potentiel d’année future et des comptes importants qui n’ont pas encore acheté Azure, mais qui ont un potentiel pour Azure supérieur à 10 000 $.
 
 2. Les entreprises de **taille moyenne** incluent les clients existants et les comptes potentiels de 25 à 300 employés.
 
 3. **Small Business** comprend toutes les entreprises restantes comptant moins de 25 employés.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Client par type SMC.":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Capture d’écran du tableau de bord Résumé des opportunités de clients.":::
 
 Les principaux sous-segments **non gérés** et de **taille moyenne** représentent des clients LTV (High Life-Time value) pour Microsoft et des partenaires Microsoft. Par conséquent, il s’agit des domaines de priorité pour la croissance de ce segment. Dans ces deux sous-segments, nous sommes mieux positionnés pour acquérir le socket avec M365, monétiser davantage avec les applications métier D365/Azure et réaliser un LTV élevé pour Microsoft.
 
@@ -55,7 +55,7 @@ Aujourd’hui, nous avons deux domaines clés de l’opportunité : 1. notre cl
 
 La capture d’écran suivante représente les trois sous-segments SMB et les itinéraires optimisés sur le marché. CloudAscent hiérarchiser le profilage, la notation et la modélisation de tous les principaux comptes non gérés et de taille moyenne.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Capture d’écran des sous-segments SMB.":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Capture d’écran du tableau de bord Résumé des opportunités de clients.":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
@@ -67,7 +67,7 @@ SMB utilise Machine Learning technologie pour diriger les ventes et le marketing
 
 - **Optimisation**: le système machine learning optimise les modèles en consommant les données de transaction mensuellement et les données d’abonnement trimestriellement.  À l’aide des données de Win/Loss, le Machine Learning ajuste les algorithmes et vérifie que les modèles fonctionnent comme prévu en comparant les recommandations de cluster aux opportunités traitées dans MSX.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Capture d’écran des Machine Learning SMB.":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Capture d’écran du tableau de bord Résumé des opportunités de clients.":::
 
 ## <a name="cloudascent-propensity"></a>CloudAscent
 
@@ -91,7 +91,7 @@ Comment les recommandations de propension sont-elles créées ?
 
    - La notation intentionnelle est mise à jour tous les mois.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Modèles prédictifs SMB CloudAscent.":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Capture d’écran du tableau de bord Résumé des opportunités de clients.":::
 
 3. Clustering
 
@@ -121,7 +121,7 @@ Comment les recommandations de propension sont-elles créées ?
 
       4. Enfin, ces segments regroupent les clusters.  Par exemple, a1, a2, a3, A4 forment le cluster Act Now.
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Modèles CloudAscent.":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Capture d’écran du tableau de bord Résumé des opportunités de clients.":::
 
    Pour ces clients, nous vous recommandons de cibler Act maintenant et d’évaluer les clients.
 
@@ -129,7 +129,7 @@ Comment les recommandations de propension sont-elles créées ?
 
 Le graphique suivant fournit une vue de chaque modèle de propension dans CloudAscent :
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Modèle de propension CloudAscent.":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Capture d’écran du tableau de bord Résumé des opportunités de clients.":::
 
 Les modèles d’espace blanc sont composés de prédictions pour les clients Microsoft existants où ils ne disposent pas d’un produit et/ou sont des clients net New Prospect.
 

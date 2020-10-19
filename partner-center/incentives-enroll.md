@@ -2,18 +2,18 @@
 title: Inscription aux incentives
 ms.topic: how-to
 ms.date: 09/25/2020
-description: Inscrivez-vous au programme d’incentives et attribuez les rôles nécessaires à la gestion des utilisateurs.
+description: Inscrivez-vous au programme d’incentives et attribuez les rôles nécessaires à la gestion des utilisateurs. Cet article décrit le processus d’inscription.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 9bd1b3ae1ecc01b2709370d7e20fc0556fd14595
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 067ad9370da6a6deeaeac7b24e606fe0bcd555a9
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406352"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175193"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscription et gestion des utilisateurs dans le programme d’incentives
 

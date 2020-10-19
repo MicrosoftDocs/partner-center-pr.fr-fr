@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explorez le tableau de bord de formation de l’espace partenaires.
+description: Explorez le tableau de bord de formation de l’espace partenaires. La formation est l’un des rapports disponibles dans la zone des Insights de l’espace partenaires (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220717"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175265"
 ---
 # <a name="trainings-dashboard"></a>Tableau de bord formations
 
@@ -49,13 +49,13 @@ La section Résumé présente un instantané numérique des différents indicate
 
 Les performances de formation présentent le nombre mensuel de personnes et les formations effectuées par les individus de votre entreprise. Elle est divisée par des certifications, des évaluations et des examens sous la forme d’un graphique pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée. L’axe des Y représente le nombre distinct de personnes et le nombre de formations prises, pour le type d’apprentissage sélectionné. Cliquez sur les onglets respectifs situés au-dessus du graphique pour afficher la répartition par type d’apprentissage. Les données du graphique peuvent être téléchargées par le biais de l’icône de téléchargement au format. TSV pour la plage de dates sélectionnée.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Performances de formation":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Résumé":::
 
 ## <a name="individuals-performance"></a>Performances des individus
 
 La section relative aux performances des individus présente les détails de la formation effectuée par les personnes de votre entreprise, pour la plage de dates sélectionnée. Recherchez et sélectionnez le nom d’un individu dans le volet gauche de la section. Les détails de formation de la personne sélectionnée sont affichés dans le volet droit de la section.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Performances de individuel":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Résumé":::
 
 >[!NOTE] 
 > La section relative aux performances des personnes est disponible uniquement pour les utilisateurs qui sont des visionneuses de rapports. 

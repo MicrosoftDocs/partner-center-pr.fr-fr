@@ -1,18 +1,18 @@
 ---
 title: Détails du paiement par région – Place de marché commerciale Microsoft
-description: En savoir plus sur les délais de paiement et les boutiques Microsoft Online que vous pouvez recevoir des paiements, qui peuvent varier en fonction de votre pays, de votre région et du type de compte de paiement.
+description: En savoir plus sur les délais de paiement et les magasins en ligne Microsoft où vous pouvez recevoir des paiements. Celles-ci peuvent varier selon le type de compte de votre pays, région et paiement.
 author: mingshen-ms
 ms.author: mingshen
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 09/02/2020
-ms.openlocfilehash: 104fecead2d88ffbef593d6fd55c1f26056c88ad
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: cebd24d3709b622256469ab5e2af3e5cd6b80175
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335718"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175304"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Seuils, modes et délais de paiement
 
@@ -196,4 +196,4 @@ Voici les pays et les régions dans lesquels les modes de paiement mentionnés c
 
 ## <a name="next-step"></a>étape suivante
 
-- [Instructions de paiement](payout-statement.md)
+- [Relevés de paiements](payout-statement.md)

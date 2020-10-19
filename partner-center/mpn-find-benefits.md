@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez comment trouver vos avantages MPN dans le tableau de bord de l’espace partenaires.
+description: Découvrez comment trouver vos avantages MPN dans le tableau de bord de l’espace partenaires. Contient des informations sur la recherche de votre ID d’accès et de votre ID de contrat pour les avantages techniques.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427116"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175324"
 ---
-# <a name="locate-your-microsoft-partner-network-benefits"></a>Recherchez vos avantages Microsoft Partner Network 
+# <a name="locate-your-microsoft-partner-network-benefits"></a>Trouver vos avantages Microsoft Partner Network 
 
 ### <a name="applies-to"></a>S’applique à
 
@@ -74,7 +74,7 @@ Pour obtenir des avantages techniques, vous verrez des ID de support technique M
 
    Vous devez voir l' **ID de contrat** de support produit spécifique et l' **ID d’accès** affectés à cet avantage.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Exemple d’aide technique sur les compétences de base Gold avec l’ID de support technique Microsoft, comme l’ID de contrat et l’ID d’accès":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Avantages étendus":::
 
    > [!NOTE]
    > Effectuez le suivi de ces ID de support. Certains systèmes peuvent les demander la première fois que vous (ou l’un des utilisateurs de votre société) consigne une demande de support associée à un avantage technique spécifique. Tous les utilisateurs de votre entreprise sont susceptibles d’utiliser le même ID d’accès et le même ID de contrat.

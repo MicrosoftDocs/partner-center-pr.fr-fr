@@ -2,18 +2,18 @@
 title: FAQ sur les incentives
 ms.topic: how-to
 ms.date: 08/31/2020
-description: Forum aux questions pour les incentives Microsoft
+description: Forum aux questions pour les incentives Microsoft. Cet article comprend des questions sur les rôles d’utilisateur, l’inscription ou la marche à suivre pour les messages d’erreur.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 9fca257d84c090a3d76807c703bae99449b79cdd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220587"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175204"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Forum aux questions sur les incentives
 

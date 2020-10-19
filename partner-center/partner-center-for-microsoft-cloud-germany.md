@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: L'Espace partenaires de Microsoft Cloud Germany est le portail professionnel des partenaires Microsoft qui souhaitent proposer des solutions Cloud Microsoft aux clients situés dans les pays de l’UE et de l’AELE.
+description: L’espace partenaires pour Microsoft Cloud Allemagne est le portail d’entreprise pour les partenaires qui souhaitent offrir des solutions Cloud Microsoft aux clients des pays de l’Union européenne et de l’AELE.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae1b6fd59b9b19f8c59823c99a9d3dc00ae602e1
-ms.sourcegitcommit: ef7f08fa61245daf43fb5c25a1d440a48a8f3fc1
+ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92059637"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174983"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Espace partenaires pour Microsoft Cloud Allemagne pour les partenaires vendus aux clients de l’Union européenne & pays de l’AELE
 
