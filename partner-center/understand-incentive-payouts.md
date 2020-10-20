@@ -1,7 +1,7 @@
 ---
 title: Afficher les détails de votre incentive et de votre programme
 ms.topic: article
-ms.date: 08/17/2020
+ms.date: 10/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Ces pages vous permettent d’afficher, de gérer et d’exporter les détails des paiements et des bénéfices, ainsi que l’état du programme et de finaliser l’historique des transactions.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406342"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198085"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -76,7 +76,7 @@ Pour accéder à la page **My incentives overview** (Vue d’ensemble de mes inc
 >Consultez le tableau suivant pour en savoir plus sur les différents États d’inscription présentés dans la colonne **État** .
 
 
-| **État**         | **Visible quand** |
+| **Statut**         | **Visible quand** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
@@ -198,17 +198,23 @@ Cette option permet de télécharger chaque article de revenu que vous voyez dan
 >- **lastPaymentCurrency**  Devise dans laquelle le paiement le plus récent a été reçu, sur toutes les MPNs auxquelles le partenaire actuellement connecté a accès. Si aucun paiement n’est reçu, la dernière devise de paiement sera en dollars US.
 >- **earningAmountInLastPaymentCurrency**  Montant acquis dans la dernière devise de paiement.
 
+Le tableau suivant répertorie les codes de raison des ajustements et leurs descriptions.
+
+|**Code de raison**   |**Description**   |
+|------------------|:-------------------------------------|
+| Conformité AR | Ajustement qui réduit les bénéfices lorsque les factures Microsoft ne sont pas payées à temps par le partenaire. |
+| Substitution de co-op | Ajustement qui transfère les bénéfices de la coopération vers une autre période ou qui convertit les bénéfices de la co-op en remise. |
+| Ajustement des opérations | Ajustement qui corrige les erreurs de calcul du système Microsoft. |
+| Ajustement OPS Microsoft incorrect Calc | Ajustement qui corrige les incorrections. |
+| Ajustement OPS Microsoft incorrect | Ajustement pour les calculs erronés liés à l’inscription. |
+| Mappage des partenaires (abonnement) MCI/CSP | Ajustement qui corrige le mauvais alignement de l’abonnement. |
+| Exception de stratégie | Ajustement qui remplace une règle de programme.  |
+| Bénéfice sur la période précédente | Ajustement pour les bénéfices en dehors de la période de gains en cours. |
+
+Le tableau suivant répertorie les champs affichés sur la page exportation de téléchargement de l’historique des transactions et leurs descriptions.
 
 |**Nom de la colonne**   |**Description**   |
 |------------------|:-------------------------------------|
-| Conformité AR | Ajustement qui réduit les bénéfices lorsque les factures Microsoft ne sont pas payées à temps par le partenaire |
-| Substitution de co-op | Ajustement qui transfère les bénéfices de la coopération vers une autre période ou convertit les bénéfices de la co-op en remise |
-| Ajustement OPS Microsoft incorrect Calc | Ajustement qui corrige les incorrections |
-| Ajustement OPS Microsoft incorrect | Ajustement des calculs erronés liés à l’inscription |
-| Exception de stratégie | Ajustement qui remplace une règle de programme  |
-| Ajustement des opérations | Ajustement qui corrige les erreurs de calcul système Microsoft |
-| Bénéfice sur la période précédente | Ajustement pour les bénéfices en dehors de la période de gains en cours |
-| Mappage des partenaires (abonnement) MCI/CSP | Ajustement qui corrige le mauvais alignement de l’abonnement |
 |customerId   |Identificateur du client   |
 |customerName   |Nom de la transaction client   |
 |earningAmount   |Montant de l’obtention dans la devise de la transaction d’origine   |
