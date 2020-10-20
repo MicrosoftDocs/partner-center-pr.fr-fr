@@ -9,14 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52f123f06da283036fa7758afd335768323594e4
-ms.sourcegitcommit: c47213f585b3cbc12ba0f7251fb44d1412815130
+ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "91952375"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198035"
 ---
-# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Gérez les opportunités de covente dans l’espace partenaires pour définir des contrats et mieux répondre aux besoins des clients
+# <a name="manage-co-sell-opportunities-in-partner-center"></a>Gérer les opportunités de covente dans l’espace partenaires
 
 **S’applique à**
 
@@ -79,7 +79,7 @@ Entrez les détails de la transaction actuelle. Les champs définis ci-dessous p
 |**Date de clôture estimée**| Obligatoire| Date à laquelle vous prévoyez de fermer le contrat avec le client. |
 |**ID CRM**| Facultatif | Baliser la relation avec l’ID de l’opportunité dans votre CRM à des fins de suivi.|
 |**ID de campagne marketing**| Facultatif | Capturez la campagne marketing qui a entraîné le traitement. Ce code peut vous aider à suivre le retour sur investissement d’une certaine campagne si vous marquez toutes les transactions provenant de la campagne avec le même ID.|
-|**Remarques**| Facultatif | Mettez à jour toutes les informations les plus récentes pour fournir une visibilité aux autres employés de votre entreprise qui travaillent sur le même contrat ou qui tente de comprendre l’état actuel de la transaction. Vous pouvez également l’utiliser comme communication sur un enregistrement pour les discussions entre les vendeurs Microsoft/autres partenaires de votre entreprise.|
+|**Notes**| Facultatif | Mettez à jour toutes les informations les plus récentes pour fournir une visibilité aux autres employés de votre entreprise qui travaillent sur le même contrat ou qui tente de comprendre l’état actuel de la transaction. Vous pouvez également l’utiliser comme communication sur un enregistrement pour les discussions entre les vendeurs Microsoft/autres partenaires de votre entreprise.|
 
 ### <a name="add-team-members"></a>Ajouter des membres à l’équipe
 
@@ -158,11 +158,11 @@ Le tableau ci-dessous répertorie les étapes de vente et les pourcentages corre
 |**Nom de l’étape de vente**|**Pourcentage du cycle de vente**|**Définition de l’étape de vente**|
 |:----|:-----|:-----|
 |Date de création|10 %|Création d’une transaction sortante.|
-|Acceptée|10 %|Acceptation d’une transaction entrante.|
+|Accepté|10 %|Acceptation d’une transaction entrante.|
 |Qualified|20%|Qualifier la valeur de la transaction et les exigences du client avant de continuer.|
 |Fruit|40%|Développer le traitement pour comprendre les besoins détaillés pour préparer une POC ou tout autre artefact requis pour une proposition formelle.|
 |Proposed|60 %|Faire une proposition formelle au client en fonction de ses besoins.|
-|Negotiated|80 %|Négociation des termes finaux sur la base de la proposition visant à atteindre l’état final (gagnant ou perdant la transaction).|
+|Negotiated|80 %|Négociation des termes finaux sur la base de la proposition visant à atteindre l’état final (gagnant ou perdant la transaction).|
 |Won|100 %|Marquage de la transaction comme conclue.|
 
 Lorsque vous avez terminé, vous pouvez effectuer l’une des deux actions suivantes, qui marquent la transaction comme **gagnée** ou **perdue** pour signaler le résultat.
@@ -196,9 +196,9 @@ Une fois la transaction inscrite, vous pouvez afficher la progression de la vali
 
 Le tableau ci-dessous montre les combinaisons de qui peuvent être invitées à ce niveau de la transaction.
 
-|**Type de contrat d’origine**|**Qui peut être invité**|**Remarques**|
+|**Type de contrat d’origine**|**Qui peut être invité**|**Notes**|
 |-----|:-----|:-----|
-|Privées|Microsoft et/ou d’autres partenaires|La vente sera mise à niveau vers la co-vente si Microsoft est invité.|
+|Private|Microsoft et/ou d’autres partenaires|La vente sera mise à niveau vers la co-vente si Microsoft est invité.|
 |Co-vente|Autres partenaires|D’autres partenaires peuvent être invités uniquement si votre entreprise a initié la transaction. Les partenaires ne peuvent pas être invités pour les transactions dans l’onglet entrant.|
 |Partenaire à partenaire sans Microsoft|Microsoft|La vente sera mise à niveau vers une transaction de covente.|
 |Partenaire à partenaire sans Microsoft|Autres partenaires||

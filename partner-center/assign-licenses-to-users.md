@@ -1,22 +1,22 @@
 ---
-title: Gérer les utilisateurs dans les comptes client
+title: Gérer les utilisateurs et les licences utilisateur pour les comptes client
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Apprenez à créer des comptes d’utilisateur pour un client, à ajouter ou supprimer des licences utilisateur, à réinitialiser les mots de passe utilisateur, à supprimer des comptes d’utilisateur ou à les restaurer.
+description: Découvrez comment gérer les utilisateurs de vos clients dans l’espace partenaires, tels que créer des comptes d’utilisateur, ajouter ou supprimer des licences utilisateur, réinitialiser les mots de passe utilisateur et supprimer ou restaurer des comptes d’utilisateur.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527675"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198015"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Tâches de gestion des utilisateurs pour les comptes clients dans l’espace partenaires
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gérer les utilisateurs et les licences utilisateur pour les comptes client
 
 **S’applique à**
 
