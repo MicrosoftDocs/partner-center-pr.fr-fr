@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832112"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006803"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Attribuer des rôles et des autorisations aux utilisateurs d’une entreprise qui ont besoin de travailler dans l’Espace partenaires
 
@@ -52,7 +52,7 @@ Vous déterminez les types d’accès que vos utilisateurs ont dans l’Espace p
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez
 |Utilisateur par défaut|  • Afficher son profil   |[Réinitialiser votre mot de passe](reset-my-pasword.md)
-|Agent d’administration | *    Gestion des clients|[Configuration et gestion des comptes clients pour les partenaires revendeurs dans l’Espace partenaires](customer-accounts.md)
+|Agent d’administration | *    Gestion des clients|[Se connecter à vos clients](connect-with-your-customers.md)
 ||*    Ajouter une liste d’appareils à l’Espace partenaires
 ||*    Créer des profils et les appliquer aux appareils
 ||*    Gestion des abonnements

@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999263"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197995"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gérer votre compte Espace partenaires : profils d’entreprise, informations bancaires, rôles, autorisations, etc.
 
@@ -53,7 +53,7 @@ Aujourd’hui, la gestion des comptes dans l’Espace partenaires comprend deux 
 >[!NOTE]
 >Pour accéder aux **Paramètres du partenaire** ou aux **Paramètres du développeur**, vous devez vous connecter au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires, puis sélectionner l’option **Paramètres** (l’icône d’engrenage) dans l’angle supérieur droit de l’écran. Vous pouvez ensuite sélectionner **Paramètres du partenaire** ou **Paramètres du développeur** dans le menu déroulant.
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="Paramètres de compte":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="menu des programmes auxquels l’utilisateur est inscrit":::
 
 Les partenaires peuvent voir l’option permettant de gérer les **Paramètres du partenaire** et/ou les **Partenaires du développeur**, selon le ou les programmes auxquels leur entreprise est inscrite. L’option de paramètres n’est disponible que si votre entreprise est inscrite à au moins un programme associé à ce paramètre.
 
@@ -85,11 +85,11 @@ Les options des **Paramètres du partenaire** et des **Paramètres du développe
 
 **Options des Paramètres du partenaire** :
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="options partenaire":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="menu des programmes auxquels l’utilisateur est inscrit":::
 
 **Options des Paramètres du développeur** :
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="options développeur":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="menu des programmes auxquels l’utilisateur est inscrit":::
 
 ## <a name="enrolling-in-programs"></a>Inscription à des programmes
 
@@ -108,7 +108,7 @@ Pour en savoir plus sur l’inscription aux programmes de l’Espace partenaires
 
 Vous pouvez faire partie de plusieurs comptes. Dans ce cas, le « sélecteur de compte » apparaît dans le menu de navigation gauche. Si vous sélectionnez le sélecteur de compte, tous les comptes dont vous êtes membre sont listés. Sélectionnez un compte pour basculer sur celui-ci et afficher l’ensemble des programmes et des informations en rapport avec ce compte. Si vous ne voyez pas de sélecteur de compte, vous n’êtes membre que d’un seul compte.
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="sélecteur de compte":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="menu des programmes auxquels l’utilisateur est inscrit":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Autres ressources pour vous aider à gérer votre compte Espace partenaires
 
