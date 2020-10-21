@@ -1,10 +1,11 @@
-- name: À propos de l’Espace partenaires Microsoft
+- name: Documentation de l’Espace partenaires Microsoft
   href: index.yml
 - name: Annonces
   href: announcements/TOC.md
 - name: Adhésion au réseau des partenaires
-  href: mpn-overview.md
   items:
+    - name: "Devenez partenaire de\_Microsoft"
+      href: mpn-overview.md
     - name: Créer un compte Espace partenaires
       href: mpn-create-a-partner-center-account.md
     - name: Obtenir une adresse e-mail professionnelle
@@ -99,9 +100,9 @@
       href: regional-authorization-overview.md
     - name: Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP
       href: csp-regional-authorization-tenant-consolidation.md
-    - name: Vue d’ensemble – La nouvelle façon de confirmer l’acceptation du Contrat client Microsoft par les clients
+    - name: Mettre à jour la méthode pour confirmer l’acceptation du Contrat client Microsoft
       href: confirm-consent.md
-    - name: Guide pratique pour confirmer l’acceptation du Contrat client Microsoft par les clients
+    - name: Confirmer l’acceptation du Contrat client Microsoft
       href: confirm-customer-agreement.md
     - name: Quand attester l’acceptation du Contrat client au nom d’un client
       href: attest-acceptance-customer-agreement.md
@@ -120,9 +121,9 @@
           href: csp-gcc-overview.md
         - name: "Critères d’éligibilité pour les clients et partenaires Office\_365 Secteur Public GCC"
           href: csp-gcc-validate.md
-        - name: "Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft\_Cloud Germany"
+        - name: "Gestion des utilisateurs et des licences pour Microsoft\_Cloud Allemagne"
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: "Gestion des utilisateurs et des licences dans l’Espace partenaires pour Microsoft\_Cloud for US Government"
+        - name: "Gestion des utilisateurs et des licences pour Microsoft\_Cloud for US Government"
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: Gérer un compte Espace partenaires
   items:
@@ -182,7 +183,7 @@
           href: customize-the-catalog.md
 - name: Références
   items:
-    - name: Contribuer au développement de votre activité
+    - name: Développer votre entreprise
       href: grow-your-business.md
     - name: Vue d’ensemble des références
       href: referrals.md
@@ -251,6 +252,9 @@
         - name: Créer votre preuve d’exécution
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
+        - name: Envoyer une facture fiscale comme preuve d’exécution
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
     - name: Demandes de coopération aux incentives
       items:
         - name: Demandes de coopération à une incentive
@@ -306,7 +310,7 @@
           href: common-billing-scenarios-annual.md
         - name: Scénarios de facturation ponctuelle et frais récurrents
           href: common-billing-scenarios-onetime-recurring.md
-        - name: Facturation - lire les champs de facturation et de frais ponctuels
+        - name: Comprendre les factures
           href: invoice-file.md
         - name: Facturation basée sur la licence
           href: license-based-billing.md
@@ -327,7 +331,7 @@
           href: vat-info.md
         - name: Recevoir un crédit pour une retenue fiscale
           href: withholding-tax-credit-form.md
-        - name: Taxe locale - services vocaux
+        - name: Taxes locales pour les services vocaux
           href: tax-and-fees-voice-services.md
         - name: Détails des taxes pour les éditeurs de la place de marché commerciale
           href: tax-details-marketplace.md
@@ -367,7 +371,7 @@
       href: request-a-relationship-with-a-customer.md
     - name: Supprimer une relation de revendeur avec un client
       href: remove-a-relationship.md
-    - name: Délégation ou révocation des privilèges d’administration aux partenaires par les clients
+    - name: Obtenir des privilèges d’administrateur délégué auprès d’un client
       href: customers-revoke-admin-privileges.md
     - name: Consulter la liste de vos clients
       href: see-your-customer-list.md
@@ -418,7 +422,7 @@
     - name: Plan Azure
       href: azure-plan-lp.md
       items:
-        - name: Plan Azure - Bien démarrer
+        - name: Vue d’ensemble du plan Azure
           href: azure-plan-get-started.md
         - name: Acheter le plan Azure
           href: purchase-azure-plan.md
@@ -426,7 +430,7 @@
           href: compare-azure-offers.md
         - name: Faire passer vos clients au plan Azure
           href: azure-plan-transition.md
-        - name: Crédit Partenaires – vue d’ensemble
+        - name: Crédit Partenaires
           href: partner-earned-credit.md
         - name: Calcul et paiement du crédit Partenaires
           href: partner-earned-credit-explanation.md
@@ -459,13 +463,13 @@
           href: sell-marketplace-products.md
         - name: Attribuer des abonnements Azure dans l’Espace partenaires
           href: assign-azure-subscriptions.md
-        - name: Attribuer des licences à des utilisateurs
+        - name: Gérer les utilisateurs et les licences
           href: assign-licenses-to-users.md
         - name: Ajouter des licences ou des services à un abonnement existant
           href: add-licenses-or-services-to-an-existing-subscription.md
         - name: Attribuer ou révoquer des licences pour plusieurs utilisateurs
           href: bulk-license-provisioning-for-multiple-users.md
-        - name: Passer de clients de services basés sur des licences au programme Fournisseur de services cloud
+        - name: Faire passer les clients de services basés sur les licences au programme CSP
           href: transition-seat-based-services.md
         - name: Vendre des abonnements Minecraft Édition Éducation
           href: minecraft-subscriptions.md
@@ -599,7 +603,7 @@
       href: support-resources-licensing.md
     - name: Rechercher des ID et des noms de domaine
       href: find-ids-and-domain-names.md
-- name: Configuration de sécurité requise
+- name: Spécifications de sécurité
   items:
     - name: Vue d’ensemble
       href: partner-security-requirements.md
