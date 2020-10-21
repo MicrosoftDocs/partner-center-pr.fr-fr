@@ -1,168 +1,113 @@
-### YamlMime:Hub
-title: Documentation sur l’Espace partenaires
+### YamlMime:Landing
+title: Documentation de l’Espace partenaires
 summary: L’Espace partenaires est l’endroit où développer votre activité avec Microsoft Partner Network (MPN), le programme CSP (Cloud Solution Provider) et plus encore.
-brand: windows
 metadata:
   title: Documentation sur l’Espace partenaires
   description: L’Espace partenaires est l’endroit où développer votre activité avec Microsoft Partner Network (MPN), le programme CSP (Cloud Solution Provider) et plus encore.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
-  ms.topic: hub-page
+  ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 09/25/2020
-  ms.openlocfilehash: 43c84bcb7cd5d919d93300a37fbc77bf4bb9a2a6
-  ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 10/13/2020
-  ms.locfileid: "92006871"
-highlightedContent:
-  items:
-  - title: Découvrir les mises à jour importantes de l’Espace partenaires
-    itemType: whats-new
-    url: announcements/index.md
-  - title: Gérer vos avantages et offres en tant que membre du Microsoft Partner Network
-    itemType: get-started
-    url: manage-your-partner-network-benefits.md
-  - title: Rejoindre le programme Utilisateur précoce API et SDK
-    itemType: deploy
-    url: /partner-center/develop/early-adopter-program
-  - title: Obtenir des spécialisations avancées
-    itemType: whats-new
-    url: advanced-specializations.md
-  - title: Partenaires ISV - Créer et publier des offres sur la Place de marché, AppSource et le canal des revendeurs CSP
-    itemType: whats-new
-    url: /azure/marketplace/
-  - title: Questions fréquentes (FAQ) sur les exigences de sécurité Partenaires
-    itemType: overview
-    url: partner-security-requirements-faq.md
-  - title: Nouvelle expérience commerciale dans l’Espace partenaires – Plan Azure
-    itemType: whats-new
-    url: azure-plan-lp.md
-conceptualContent:
-  title: Travailler dans l’Espace partenaires
-  items:
-  - title: Se connecter et gérer un compte
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92198045"
+landingContent:
+- title: Bien démarrer avec l’Espace partenaires
+  linkLists:
+  - linkListType: get-started
     links:
-    - url: mpn-create-a-partner-center-account.md
-      itemType: how-to-guide
-      text: Créer un compte Espace partenaires
-    - url: manage-locations.md
-      itemType: how-to-guide
-      text: Gérer les sites de votre entreprise
-    - url: azure-plan-get-started.md
-      itemType: how-to-guide
-      text: Commencer à pratiquer les prix de paiement à l’utilisation avec le plan Azure
-    footerLink:
-      url: partner-center-account-setup.md
-      text: Voir plus
-  - title: Entrer en contact avec les clients
+    - text: Espace partenaires - Annonces
+      url: announcements/index.md
+    - text: Devenez partenaire de Microsoft
+      url: mpn-overview.md
+    - text: Créer un compte Espace partenaires
+      url: mpn-create-a-partner-center-account.md
+    - text: Gérer les avantages et les offres de votre adhésion MPN
+      url: manage-your-partner-network-benefits.md
+    - text: En savoir plus sur les compétences
+      url: learn-about-competencies.md
+- title: Développer votre entreprise
+  linkLists:
+  - linkListType: concept
     links:
-    - url: confirm-customer-agreement.md
-      itemType: how-to-guide
-      text: Nouveau Contrat client Microsoft
-    - url: assign-licenses-to-users.md
-      itemType: how-to-guide
-      text: Gérer les licences client
-    - url: see-your-customer-list.md
-      itemType: how-to-guide
-      text: Consulter la liste de vos clients
-    footerLink:
+    - text: Se connecter à vos clients
       url: connect-with-your-customers.md
-      text: Voir plus
-  - title: Développer votre entreprise
+    - text: Programme CSP (Cloud Solution Provider)
+      url: csp-overview.md
+    - text: Obtenir des références client
+      url: manage-leads.md
+    - text: Programmes d’incentives
+      url: incentives-get-started-intro.md
+    - text: Gérer les opportunités de covente
+      url: manage-co-sell-opportunities.md
+    - text: Acquérir une spécialisation avancée
+      url: advanced-specializations.md
+- title: Concepts et tâches clés
+  linkLists:
+  - linkListType: concept
     links:
-    - url: referrals.md
-      itemType: how-to-guide
-      text: Références et profils professionnels
-    - url: manage-leads.md
-      itemType: how-to-guide
-      text: Gérer les prospects comme les demandes des clients, les prospects qualifiés marketing et les prospects qualifiés ventes
-    - url: manage-co-sell-opportunities.md
-      itemType: how-to-guide
-      text: Gérer les opportunités de covente
-    footerLink:
-      url: grow-your-business.md
-      text: Voir plus
-  - title: Comprendre la facturation et les taxes
-    links:
-    - url: billing-basics.md
-      itemType: how-to-guide
-      text: Notions de base de la facturation
-    - url: read-your-bill.md
-      itemType: how-to-guide
-      text: Lire votre facture
-    - url: tax-and-tax-exemptions.md
-      itemType: how-to-guide
-      text: Taxes et exonérations fiscales
-    footerLink:
-      url: billing.md
-      text: Voir plus
-  - title: Analyser les données métier
-    links:
-    - url: partner-contribution-indicators.md
-      itemType: how-to-guide
-      text: Indicateurs de contribution des partenaires
-    - url: analyze-azure-usage.md
-      itemType: how-to-guide
-      text: Données d’utilisation Azure du client
-    - url: analyze-indirect-resellers.md
-      itemType: how-to-guide
-      text: Performances des revendeurs indirects
-    footerLink:
-      url: data-analysis-lp.md
-      text: Voir plus
-  - title: Obtenir et fournir un support
-    links:
-    - url: customer-support.md
-      itemType: how-to-guide
-      text: Fournir un support aux clients
-    - url: check-service-health.md
-      itemType: how-to-guide
-      text: Vérifier l’intégrité du service
-    - url: report-problems-with-partner-center.md
-      itemType: how-to-guide
-      text: Signaler des problèmes de l’Espace partenaires
-    footerLink:
+    - text: Exigences de sécurité de l’Espace partenaires
+      url: partner-security-requirements.md
+    - text: Créer un profil professionnel
+      url: create-a-marketing-profile.md
+    - text: Présentation du plan Azure
+      url: azure-plan-lp.md
+    - text: Obtenir l’aide du support Microsoft
       url: support-from-microsoft.md
-      text: Voir plus
-additionalContent:
-  sections:
-  - title: Tâches et outils clés
-    items:
-    - title: Vous n’êtes pas encore partenaire ? Rejoignez Microsoft Partner Network dès aujourd’hui.
-      summary: Connectez-vous à l’écosystème Microsoft.
-      url: https://partner.microsoft.com/membership
-    - title: Informations de référence sur les API et le SDK de l’Espace partenaires
-      summary: Utilisez le SDK de l’Espace partenaires pour gérer les données des clients, des abonnements et des commandes.
-      url: /partner-center/develop/
-    - title: Gérer les récompenses de la Place de marché
-      summary: Les récompenses de la Place de marché offrent un support ciblé pour toutes vos offres, couplé avec des avantages techniques, commerciaux et marketing.
-      url: marketplace-rewards.md
-  - title: Travailler dans le portail Azure
-    items:
-    - title: Gestion de la facturation et des coûts
-      links:
-      - text: Bien démarrer avec le compte de facturation de votre contrat Partenaire Microsoft
-        url: /azure/billing/mpa-overview
-      - text: Bien démarrer avec Azure Cost Management
-        url: /azure/cost-management/get-started-partners
-      - text: Créer un abonnement Azure supplémentaire
-        url: /azure/billing/billing-create-subscription
-      - text: Créer des abonnements Azure programmatiquement
-        url: /azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
-      - text: Voir plus >
-        url: /azure/billing/
-    - title: Azure Lighthouse
-      links:
-      - text: Activer les expériences de gestion inter-locataire
-        url: /azure/lighthouse/concepts/cross-tenant-management-experience
-      - text: Considérations sur les fournisseurs de solutions Cloud
-        url: /azure/lighthouse/concepts/cloud-solution-provider
-      - text: Intégrer des clients pour la gestion de ressources déléguées Azure
-        url: /azure/lighthouse/how-to/onboard-customer
-      - text: Publier des offres de services managés
-        url: /azure/lighthouse/how-to/publish-managed-services-offers
-      - text: Voir plus >
-        url: /azure/lighthouse/
+  - linkListType: how-to-guide
+    links:
+    - text: Gérer les sites de vos comptes MPN
+      url: manage-locations.md
+    - text: Renouveler vos offres MPN
+      url: renew-mpn-offers.md
+    - text: Trouver vos avantages MPN
+      url: mpn-find-benefits.md
+    - text: Trouver votre rôle
+      url: find-your-role.md
+- title: Comptes et facturation
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: Gérer votre compte Espace partenaires
+      url: partner-center-account-setup.md
+    - text: Attribuer des rôles et des autorisations aux utilisateurs
+      url: permissions-overview.md
+    - text: Gérer les utilisateurs et les licences utilisateur
+      url: assign-licenses-to-users.md
+    - text: Notions de base de la facturation
+      url: billing-basics.md
+    - text: Configurer votre compte de paiement et vos déclarations de taxe
+      url: set-up-your-payout-account.md
+    - text: Comprendre votre facture
+      url: read-your-bill.md
+- title: Ressources pour les développeurs
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: Rejoindre le programme Utilisateur précoce du SDK et de l'API de l’Espace partenaires
+      url: /partner-center/develop/early-adopter-program
+    - text: Documentation pour les développeurs de l’Espace partenaires
+      url: /partner-center/develop
+    - text: Informations de référence de l’API REST de l’Espace partenaires
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: Informations de référence sur l’API .NET de l’Espace partenaires
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: SDK de l’Espace partenaires pour Java
+      url: /java/partnercenter/overview
+    - text: PowerShell dans l’Espace partenaires
+      url: /powershell/partnercenter/overview
+- title: Vendre dans la place de marché commerciale (ISV)
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Documentation sur la Place de marché commerciale
+      url: /azure/marketplace
+    - text: Qu’est-ce que la place de marché commerciale Microsoft ?
+      url: /azure/marketplace/overview
+    - text: Déterminer vos options de publication
+      url: /azure/marketplace/determine-your-listing-type
