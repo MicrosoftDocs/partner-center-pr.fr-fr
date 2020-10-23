@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
-ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
+ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
+ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92081368"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "92352865"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces du mois d’octobre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Offres/marchés|[Mises à jour de l’offre Microsoft 365 Business Voice](2020-october.md#12)|16 octobre|
 |Fonctionnalités|[Mise à jour de novembre 2020 : Guide d’autorisation des services en ligne et des chaînes logicielles](2020-october.md#11)|14 octobre|
 |Offres/marchés|[Présentation de Microsoft 365 Business Voice pour les organisations à but non lucratif](2020-october.md#10)|12 octobre|
 |Offres/marchés|[Promotion pour la conférence audio Microsoft 365 disponible maintenant et prochainement pour Microsoft 365 Business Voice](2020-october.md#9)|9 octobre|
@@ -54,7 +55,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces d’août 2020** | **Date** |
 |Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation de clients Éducation](2020-august.md#8)|31 août|
 |Offres/marchés|[Mises à jour de Microsoft 365 Voice Promotion](2020-august.md#7)|14 août|
-|Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
+|Fonctionnalités|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
 |Fonctionnalités|[Achat en libre-service de Microsoft Project et Microsoft Visio bientôt disponible](2020-august.md#5)|12 août|
 |Offres/marchés|[Nouvelles références SKU Communications avancées Microsoft Teams maintenant disponibles](2020-august.md#4)|4 août|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible en septembre](2020-august.md#3)|4 août|
