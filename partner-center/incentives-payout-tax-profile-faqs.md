@@ -1,31 +1,57 @@
 ---
 title: Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/22/2020
 description: Forum aux questions sur le paiement d’incentives et les profils fiscaux. Les questions incluent la raison pour laquelle vous ne pouvez pas voir vos profils de paiement et de taxe et ce qu’il faut en faire.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
+ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175342"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "92454151"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Forum aux questions concernant le paiement d’incentives et les profils fiscaux
 
 S’applique à :
 
-- Espace partenaires
+- Espace partenaire
 
 Rôles appropriés :
 
 - Administrateur de primes incitatives
-- Administrateur de la facturation
+- Administrateur des comptes
 - Administrateur général
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mon profil fiscal a expiré. Comment la corriger ?
+
+Si un profil fiscal est arrivé à expiration ou sur le lieu d’expirer, cela signifie que le formulaire d’imposition que vous avez fourni à Microsoft doit être mis à jour. Pour modifier les profils fiscaux, procédez comme suit :
+
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
+
+2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **Paramètres**.
+
+3. Sous **Paramètres du compte**, sélectionnez **Paiement et taxe,** , puis **Profil de paiement et fiscal**.
+
+4. Sélectionnez **Profil fiscal**.
+
+5. Sélectionnez la colonne **Date d’expiration** , puis accédez au profil fiscal qui a expiré ou qui arrive à expiration.
+
+6. Sélectionnez **modifier** pour commencer le processus de modification du profil fiscal.
+
+7. Mettez à jour les formulaires fiscaux en fournissant les détails requis.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Comment Microsoft s’assure-t-il que les informations bancaires sont effectivement celles de l’entreprise et qu’il ne s’agit pas d’un compte bancaire personnel pour un employé ?
+
+Il incombe à l’entreprise de s’assurer que le rôle d’administrateur d’incentives, qui dispose des autorisations nécessaires pour modifier ces informations, est donné uniquement aux employés appropriés.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Puis-je utiliser les mêmes informations bancaires et fiscales pour tous les programmes d’incentives de Microsoft ?
+
+Si votre entreprise est invitée à avoir recours à plusieurs programmes d’incentives, vous pouvez utiliser le même compte de paiement pour tous vos programmes d’incentives, ou vous pouvez choisir d’avoir des comptes de paiement différents pour les différents programmes.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Pourquoi dois-je fournir mes détails de paiement et/ou de taxes ?
 
