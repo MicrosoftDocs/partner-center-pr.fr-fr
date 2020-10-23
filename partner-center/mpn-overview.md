@@ -1,22 +1,22 @@
 ---
 title: Avantages de l’adhésion à Microsoft Partner Network
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez les avantages du partenariat avec Microsoft, notamment Microsoft Action Pack, les compétences et les options de programme pour commercialiser vos solutions et les vendre.
+description: Découvrez les avantages liés au Microsoft Partner Network (MPN), notamment Microsoft Action Pack, les compétences et les options de programme pour commercialiser vos solutions et les vendre.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53cf9976ffef5254499d03215782ad428a067189
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114606"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197985"
 ---
-# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Partenariat avec Microsoft - découvrir les avantages, comment aider les clients et comment dynamiser la croissance de l’entreprise
+# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Établir un partenariat avec Microsoft et découvrir les avantages de l’abonnement
 
 **Rôles appropriés**
 
@@ -25,27 +25,15 @@ ms.locfileid: "87114606"
 - Administrateur des utilisateurs
 - Agent d’administration
 
-Quand vous rejoignez un programme partenaire de Microsoft, vous intégrez une communauté internationale qui vous connecte à des relations, des informations, des outils, des ressources et des programmes dont vous avez besoin pour impressionner vos clients et stimuler la croissance de votre entreprise.
+Le Microsoft Partner Network (MPN) vous offre la gamme de produits la plus vaste du secteur ainsi que des options de programme pour différencier votre entreprise, accéder au marché et vendre vos solutions. Inscrivez-vous gratuitement, puis choisissez comment investir dans votre partenariat avec un action pack, un starter kit ou une compétence Microsoft.
 
-Consultez [Pourquoi Microsoft ?](https://partner.microsoft.com/business-opportunities/why-microsoft) pour plus d’informations sur les avantages d’un partenariat avec Microsoft.
+Quand vous rejoignez un programme partenaire de Microsoft, vous intégrez une communauté internationale qui vous connecte à des relations, des informations, des outils, des ressources et des programmes dont vous avez besoin pour impressionner vos clients et stimuler la croissance de votre entreprise. À mesure que vous atteignez vos objectifs métier, participez au programme au niveau adapté à vos besoins uniques pour accéder à d’autres avantages et développer votre relation avec nous et d’autres partenaires dans le réseau. 
 
 ## <a name="join-the-microsoft-partner-network"></a>Rejoindre Microsoft Partner Network
 
-Le Microsoft Partner Network vous offre la gamme de produits la plus vaste du secteur ainsi que des options de programme pour différencier votre entreprise, accéder au marché et vendre vos solutions. Inscrivez-vous gratuitement, puis choisissez comment investir dans votre partenariat avec un action pack, un starter kit ou une compétence Microsoft.
-
-Un action pack ou un starter kit fournit les logiciels et le support nécessaires pour créer des solutions Microsoft, tandis qu’une compétence démontre votre expertise éprouvée auprès des clients et d’autres partenaires.
-
-Pour plus d’informations sur le Microsoft Partner Network (MPN), consultez le [site web MPN](https://partner.microsoft.com/commercial).
-
-### <a name="how-to-join"></a>Comment rejoindre le programme
-
 Pour rejoindre le Microsoft Partner Network, accédez à la [page **Adhésion**](https://partner.microsoft.com/membership) du site web MPN, puis sélectionnez **S’inscrire** ou **Joindre maintenant**.
 
-## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Optimiser votre adhésion à Microsoft Partner Network
-
-À mesure que vous atteignez vos objectifs métier, participez au programme au niveau adapté à vos besoins uniques pour accéder à d’autres avantages et développer votre relation avec nous et d’autres partenaires dans le réseau.
-
-### <a name="action-pack"></a>Action Pack
+## <a name="action-pack"></a>Action Pack
 
 Action Pack comprend des logiciels, un support et des avantages pour les entreprises qui souhaitent démarrer, créer et développer leur pratique de Microsoft dans un monde axé en priorité sur les mobiles et le cloud.
 
@@ -60,7 +48,7 @@ Passez en revue les ressources ci-dessous pour en savoir plus sur Action Pack :
 
 - [Renouveler vos offres MPN](renew-mpn-offers.md)
 
-### <a name="competencies"></a>Compétences
+## <a name="competencies"></a>Compétences
 
 Mettez en évidence votre expertise éprouvée en solutions de qualité dans un domaine d’activité spécialisé. Les compétences Microsoft sont conçues pour répondre aux besoins de vos clients actuels et être reconnues par les clients potentiels. Rejoignez le niveau élite des partenaires Microsoft et démarquez-vous de vos homologues.
 
@@ -70,7 +58,7 @@ Passez en revue les ressources ci-dessous pour en savoir plus sur les compétenc
 
 ## <a name="microsoft-partner-network-benefits-and-requirements"></a>Avantages et exigences du Microsoft Partner Network
 
-Quand vous rejoignez le Microsoft Partner Network, vous recevez un ensemble d’avantages principaux qui vous permettent de gagner du temps et de l’argent, tout en contribuant à renforcer vos capacités, à mieux servir vos clients et à créer des connexions afin de réaliser au mieux le potentiel de votre entreprise.
+Quand vous rejoignez le Microsoft Partner Network, vous recevez un ensemble d’avantages principaux qui vous permettent de gagner du temps et de l’argent, tout en contribuant à renforcer vos capacités, à mieux servir vos clients et à créer des connexions afin de réaliser au mieux le potentiel de votre entreprise. 
 
 Passez en revue les ressources ci-dessous pour en savoir plus sur les avantages et les exigences du réseau :
 
@@ -80,4 +68,5 @@ Passez en revue les ressources ci-dessous pour en savoir plus sur les avantages 
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Développer votre activité de partenaire Microsoft](grow-your-business.md)
+- [Développer votre activité de partenaire Microsoft](grow-your-business.md)
+- [Site web MPN](https://partner.microsoft.com/commercial).

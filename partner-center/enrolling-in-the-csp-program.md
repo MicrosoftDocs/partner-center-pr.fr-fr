@@ -1,7 +1,7 @@
 ---
 title: S’inscrire au programme Fournisseur de solutions Cloud
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment adhérer au modèle de vente du programme Fournisseur de solutions Cloud (CSP) qui convient le mieux à votre entreprise, comme revendeur indirect ou partenaire de facturation directe.
@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763338"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198095"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>S’inscrire au programme Fournisseur de solutions Cloud et créer une solution cloud rentable
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
 **S’applique à**
 
@@ -64,7 +64,7 @@ Pour plus d’informations sur les conditions à remplir pour participer au prog
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>S’inscrire en tant que partenaire à facturation directe
 
-En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour les conditions d’inscription pour les partenaires à facturation directe le 31 août 2018. Ces nouvelles exigences vous permettront d’accélérer la croissance de vos activités grâce au modèle d’inscription au programme Fournisseur de solutions Cloud et de renforcer vos relations client avec des services et un support à valeur ajoutée. 
+En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour les conditions d’inscription pour les partenaires à facturation directe le 31 août 2018. Ces nouvelles exigences vous permettront d’accélérer la croissance de vos activités grâce au modèle d’inscription au programme Fournisseur de solutions Cloud et de renforcer vos relations client avec des services et un support à valeur ajoutée.
 
 ### <a name="minimum-requirements"></a>Configuration minimale requise
 
@@ -96,5 +96,8 @@ Pour savoir comment passer du statut de partenaire à facturation directe au sta
 ## <a name="csp-regional-markets-and-currencies"></a>Marchés régionaux et monnaies locales des fournisseurs de solutions cloud
 
 Votre marché dépend de l’emplacement de votre entreprise. Il comprend les régions et/ou les pays où vous pouvez vendre des offres CSP. Pour plus d’informations sur les devises et la localisation des marchés, consultez [Devises et marchés régionaux du programme Fournisseur de solutions cloud](regional-authorization-overview.md).
-Veillez à lire [Ajouter un nouvel emplacement d’ID MPN](manage-locations.md).
+Veillez à lire les [Prérequis pour pouvoir ajouter une nouvelle localisation pour une activité CSP](manage-locations.md).
 
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud](microsoft-partner-agreement.md)

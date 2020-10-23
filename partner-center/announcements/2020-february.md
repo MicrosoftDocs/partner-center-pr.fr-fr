@@ -1,6 +1,6 @@
 ---
 title: Annonces de février 2020
-description: Annonces de février 2020 pour l’Espace partenaires Microsoft
+description: Annonces du mois de février 2020 pour l’Espace partenaires Microsoft, telles que les nouvelles fonctionnalités, les promotions, les offres, les marchés ou les changements apportés aux offres existantes.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999613"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031782"
 ---
 # <a name="february-2020-announcements"></a>Annonces de février 2020
 

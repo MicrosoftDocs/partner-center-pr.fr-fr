@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les revendeurs indirects peuvent coopérer avec des fournisseurs indirects Microsoft (ou distributeurs) afin d’obtenir de l’aide pour le support technique et la facturation.
 ms.prod: ''
+ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.custom: SEOAPR.20
-ms.openlocfilehash: f6d2b94dfcc8a8986229e199c47a0f64a93fb2ac
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545960"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006829"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -24,7 +24,7 @@ ms.locfileid: "87545960"
 - Administrateur général
 - Administrateur des utilisateurs
 - Agent d’administration
-- Agent commercial
+
 
 La demande en croissance rapide de services et solutions cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne souhaitent pas avoir à gérer plusieurs fournisseurs ou qui n’ont pas mis en place d’infrastructure de gestion des relations client de bout en bout peuvent s’inscrire au programme Fournisseur de solutions Cloud (CSP) de Microsoft en tant que revendeurs indirects.
 
@@ -55,9 +55,9 @@ Si vous découvrez le programme Fournisseur de solutions Cloud, vous devez vous 
 
 - **Le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter au site Partner Membership Center**
 
-   Nous utilisons ces informations pour lier l’identifiant Microsoft Partner Network (ID MPN) de votre organisation à votre nouveau compte Espace partenaires. Vous pouvez ensuite gérer vos données et avantages en tant que membre dans l’Espace partenaires.
+   Nous utilisons ces informations pour lier l’identifiant Microsoft Partner Network (ID MPN) de votre entreprise à votre nouveau compte Espace partenaires. Vous pouvez ensuite gérer vos données et avantages en tant que membre dans l’Espace partenaires.
 
-- **La dénomination sociale, l’adresse, le contact principal de votre organisation et les détails du support**
+- **Le nom légal, l’adresse, le contact principal de votre entreprise et les détails relatifs au support de votre entreprise**
 
    Nous avons besoin de ces informations pour vérifier que votre entreprise dispose d’un profil établi avec Microsoft et que vous êtes autorisé à agir en son nom.
 
@@ -73,25 +73,25 @@ Si vous découvrez le programme Fournisseur de solutions Cloud, vous devez vous 
 
    Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
 
-4. Lisez les informations indiquant comment associer votre identifiant Microsoft Partner Network (ID MPN) avec votre nouveau compte Espace partenaires. Nous devons lier l’ID MPN de votre entreprise à votre nouveau compte Espace partenaires pour pouvoir gérer les avantages et les primes sur l’Espace partenaires. Sélectionnez **Se connecter**.
+4. Lisez les informations indiquant comment associer votre identifiant Microsoft Partner Network (ID MPN) avec votre nouveau compte Espace partenaires. Nous devons lier l’ID MPN de votre entreprise à votre nouveau compte Espace partenaires pour pouvoir gérer les avantages et les incentives sur l’Espace partenaires. Sélectionnez **Se connecter**.
 
 5. Entrez le nom d’utilisateur que vous utilisez pour vous connecter au site Partner Membership Center (PMC). Le site Partner Membership Center est l’endroit où vous gérez actuellement votre compte de partenaire Microsoft. La connexion au Partner Membership Center nous permet de récupérer votre ID MPN et de l’associer à votre nouveau compte Espace partenaires. Sélectionnez **Suivant**.
 
 6. Entrez le mot de passe de votre compte Partner Membership Center, puis sélectionnez **Se connecter**.
 
-7. Sélectionnez le profil d’organisation dont l’ID MPN est lié à vos incentives, avantages en tant que membre et compétences. Nous pouvons ensuite déplacer ces informations vers votre compte Espace partenaires. Sélectionnez **Continuer**.
+7. Sélectionnez le profil d’entreprise dont l’ID MPN est lié à vos incentives, avantages en tant que membre et compétences. Nous pouvons ensuite déplacer ces informations vers votre compte Espace partenaires. Sélectionnez **Continuer**.
 
-   Si l’ID MPN que vous voulez utiliser n’est pas répertorié sur cette page, sélectionnez **Annuler** et reconnectez-vous avec le nom d’utilisateur et le mot de passe du profil d’entreprise que vous souhaitez utiliser.
-
-   > [!IMPORTANT]  
-   > Sélectionnez l’ID MPN associé à un profil d’organisation actif situé dans le même pays ou la même région que votre locataire Azure AD.
-
-8. Indiquez ou mettez à jour le profil commercial, les informations juridiques, les coordonnées du contact principal et les coordonnées du service clientèle de votre organisation. Sélectionnez **S’inscrire maintenant**.
-
-   Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application. Il peut s’agir de vous-même ou d’une autre personne de votre organisation. Remarque : Nous n’acceptons pas les adresses e-mail provenant de services d’e-mail web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail.
+   Si l’ID MPN que vous voulez utiliser n’est pas listé dans cette page, sélectionnez **Annuler** et reconnectez-vous avec le nom d’utilisateur et le mot de passe du profil d’entreprise que vous souhaitez utiliser.
 
    > [!IMPORTANT]  
-   > Pour garantir la sécurité et la confidentialité de votre organisation, nous enverrons un e-mail à votre contact principal afin de vérifier (1) qu’il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse e-mail appartient à votre organisation. Une fois que le contact principal aura confirmé son adresse e-mail, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d’information sur l’état de l’inscription.
+   > Sélectionnez l’ID MPN associé à un profil d’entreprise actif situé dans le même pays ou la même région que votre locataire Azure AD.
+
+8. Indiquez ou mettez à jour le profil commercial, les informations juridiques, les coordonnées du contact principal et les coordonnées du service clientèle de votre entreprise. Sélectionnez **S’inscrire maintenant**.
+
+   Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application. Il peut s’agir de vous-même ou d’une autre personne de votre entreprise. Remarque : Nous n’acceptons pas les adresses e-mail provenant de services d’e-mail web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail.
+
+   > [!IMPORTANT]  
+   > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu’il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse e-mail appartient bien à votre entreprise. Une fois que le contact principal aura confirmé son adresse e-mail, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d’information sur l’état de l’inscription.
 
 9. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
@@ -99,26 +99,6 @@ Si vous découvrez le programme Fournisseur de solutions Cloud, vous devez vous 
 
    2. Sélectionnez votre nom dans la liste des utilisateurs. Sélectionnez ensuite l’option **Agent administrateur** si elle n’est pas déjà sélectionnée. Sélectionnez **Mettre à jour**.
 
-## <a name="add-a-new-user"></a>Ajouter un nouvel utilisateur
-
-1. Dans votre **Espace partenaires**, sélectionnez l’icône **Paramètres**, puis sélectionnez **Gestion des utilisateurs**.
-
-2. Sélectionnez **Ajouter un utilisateur**.
-
-3. Entrez le nom complet et l’adresse e-mail unique de l’utilisateur.
-
-4. Sélectionnez le type d’agent et le type d’administrateur. Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour plus d’informations sur ce que chaque rôle peut faire, voir la section [Affecter des autorisations utilisateur](#assign-user-permissions)
-
-5. Sélectionnez **Ajouter** pour créer le compte d’utilisateur. Confirmez les détails de l’utilisateur sur la page suivante.
-
-   > [!IMPORTANT]
-   > Prenez note des informations de connexion du nouvel utilisateur affichées sur cette page. Veillez à copier et à envoyer ces informations au nouvel utilisateur car vous ne pourrez pas y accéder ultérieurement.
-   >
-   > L’utilisateur devra se connecter à l’Espace partenaires avec son nom d’utilisateur et un mot de passe temporaire. Lorsque l’utilisateur se connecte à l’Espace partenaires pour la première fois, il est invité à modifier son mot de passe.
-
-## <a name="assign-user-permissions"></a>Attribuer des autorisations aux utilisateurs
-
-Comme l’accès à l'Espace partenaires dépend des rôles, vous pouvez affecter des autorisations pour personnaliser l’affichage de l’utilisateur de manière à ne montrer que les fonctionnalités dont l’utilisateur a besoin pour effectuer des tâches spécifiques. Pour trouver la meilleure façon d’attribuer des rôles, consultez [Créer des comptes d’utilisateur et définir des autorisations](Create-user-accounts-and-set-permissions.md).
 
 ## <a name="connect-with-an-indirect-provider"></a>Se connecter avec un fournisseur indirect
 
@@ -146,80 +126,15 @@ Si un fournisseur indirect souhaite se connecter avec vous sur l’Espace parten
    > [!IMPORTANT]  
    > Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients pour pouvoir envoyer des commandes en leur nom.
 
-## <a name="connect-with-customers"></a>Entrer en contact avec les clients
-
-Pour effectuer des transactions avec les clients sur l’Espace partenaires, vos clients doivent disposer de comptes de l’Espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci.
-
-### <a name="connect-with-existing-customers"></a>Entrer en contact avec les clients
-
-Une fois inscrit en tant que revendeur indirect, vous verrez dans l’Espace partenaires les clients avec lesquels vous êtes déjà en relation dans d’autres portails. Parmi ces portails figurent le centre d’administration Office 365 ou le portail Azure. Pour voir votre liste de clients, sélectionnez **Clients** dans votre menu **Espace partenaires**.
-
-Lorsque vous vous connectez avec un fournisseur indirect, vous n’obtenez pas automatiquement les clients du fournisseur indirect. De même, les clients avec lesquels vous travaillez en direct ou par le biais de votre fournisseur indirect, mais pas par le biais de l’Espace partenaires, n’apparaissent pas automatiquement dans votre liste de clients lorsque vous vous inscrivez dans l’Espace partenaires. Vous devez établir une relation de revendeur avec les clients pour effectuer des transactions dans l’Espace partenaires.  Pour ce faire, envoyez leur un e-mail les invitant à se connecter avec vous sur l'Espace partenaires, comme indiqué ci-dessous.
-
-#### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Inviter un client à établir une relation de revendeur avec vous
-
-1. Sélectionnez **Clients** à partir de votre menu **Espace partenaires**, puis sélectionnez **Demander une relation de revendeur**.
-
-2. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un e-mail.
-
-   Vous pouvez modifier le texte de l’e-mail, mais veillez à inclure le lien car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte. Sélectionnez **Terminé** une fois que vous avez effectué cette étape.
-
-3. Envoyez l’e-mail au client.
-
-4. Une fois que le client a accepté votre invitation, il apparaît dans la page **Clients**. Vous pouvez alors gérer ses abonnements et services à partir de cette page.
-
-5. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
-
-### <a name="connect-with-new-customers"></a>Entrer en contact avec les clients
-
-Quand vous attirez de nouveaux clients, vous devez vous connecter avec eux sur l’Espace partenaires. Vous pouvez trouver de nouveaux clients par le biais de plusieurs canaux, notamment les suivants :
-
-- Vos propres activités marketing
-- Références de Microsoft
-- Fournisseurs indirects
-
-Pour gérer les abonnements et les services d’un client en son nom, vous devez avoir une relation de revendeur avec eux. Pour autoriser votre fournisseur indirect à envoyer des commandes pour le compte de votre client, le fournisseur indirect doit également avoir une relation de revendeur avec celui-ci.
-
-Pour obtenir les autorisations d’administrateur permettant de gérer les abonnements et les services d’un nouveau client **et** autoriser votre fournisseur indirect à soumettre de nouvelles commandes en son nom, vous pouvez inviter le client à établir simultanément une relation de revendeur avec vous et votre fournisseur.
-
-#### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Inviter un nouveau client à établir une relation de revendeur simultanément avec vous et votre fournisseur indirect
-
-1. Sélectionnez **Fournisseurs indirects** dans votre menu **Espace partenaires**.
-
-2. Sélectionnez **Inviter de nouveaux clients** pour inviter un client à établir une relation de revendeur simultanément avec vous et le fournisseur indirect. Le fournisseur doit avoir une relation de revendeur avec votre client afin de pouvoir envoyer des commandes pour le compte de ce client quand ce dernier souhaite acheter de nouveaux abonnements ou ajouter de nouvelles licences à des abonnements existants.
-
-3. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le brouillon du message dans la messagerie électronique ou copier ce message dans votre Presse-papiers et le coller dans un e-mail.
-
-   Vous pouvez modifier le texte de l’e-mail. Veillez simplement à inclure le lien, car il s’agit d’un lien personnalisé qui permet d’associer le client directement à votre compte et au compte de votre fournisseur. Sélectionnez **Terminé** une fois que vous avez effectué cette étape.
-
-4. Une fois que le client vous a autorisé, vous et votre fournisseur, à devenir ses revendeurs de référence, vous disposez des autorisations d’administrateur nécessaires pour gérer en son nom ses abonnements, ses licences et ses utilisateurs. En outre, votre fournisseur indirect peut envoyer des commandes pour le compte du client.
-
-5. Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom.
-
-## <a name="remove-a-relationship-with-a-customer"></a>Supprimer une relation avec un client
-
-Pour supprimer la relation avec un client, effectuez les étapes suivantes :
-
-1.  Dans l’Espace partenaires, accédez à **Clients** et sélectionnez le client dont vous souhaitez supprimer la relation.
-
-2.  Sélectionnez le **Compte**.
-
-3.  Sélectionnez **Supprimer une relation client**.
-
-4.  Le client n’apparaît plus dans la liste des clients.
-
->[!IMPORTANT]
->Si vous avez établi une relation avec un client et que vous supprimez cette relation, tous les privilèges d’administrateur délégué accordés restent inchangés.
->Vous reconnaissez que la décision de mettre fin à votre relation avec le client a été prise de bonne foi, à des fins commerciales légitimes et conformément à l’accord conclu avec votre client ou partenaire, et vous acceptez de défendre la société Microsoft et de la dégager de toute responsabilité dans l’éventualité d’une réclamation d’un tiers affirmant le contraire.
->Vous devez fournir un avis légal de résiliation à votre client ou partenaire si votre accord l’exige. Cet outil ne génère pas d’avis pour le client ou le partenaire.
-
 
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
 
-- [Gérer les clients et leurs abonnements](customer-accounts.md)
+- [Se connecter à vos clients](connect-with-your-customers.md)
 
 - [Créer un profil professionnel](create-a-marketing-profile.md)
 
-- [Découvrir les primes incitatives des partenaires sur l’Espace partenaires](understand-incentive-payouts.md)
+- [En savoir plus sur le processus de vérification](verification-responses.md)
+ 
+- [Voir les conditions pour les partenaires de facturation directs](direct-partner-new-requirements.md)

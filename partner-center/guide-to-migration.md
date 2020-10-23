@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment migrer votre société depuis Partner Membership Center (PMC) vers l’Espace partenaires.
+description: Découvrez comment migrer votre entreprise de Partner Membership Center (PMC) vers l’Espace partenaires, y compris les étapes à suivre.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663830"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175243"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide de migration de PMC vers l’Espace partenaires
 
