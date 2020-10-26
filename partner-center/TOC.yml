@@ -607,6 +607,8 @@
       href: partner-security-requirements.md
     - name: Imposer l’authentification multifacteur à votre locataire partenaire
       href: partner-security-requirements-mandating-mfa.md
+    - name: Configurer vos utilisateurs avec l’authentification multifacteur
+      href: mfa-for-users.md
     - name: État de la configuration requise
       href: partner-security-compliance.md
     - name: Forum aux questions
