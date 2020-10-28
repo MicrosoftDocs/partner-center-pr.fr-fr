@@ -4,18 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Créez un compte professionnel qui lie votre entreprise à votre compte Espace partenaires. Cela permet aux employés de votre entreprise d’accéder à l’Espace partenaires.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.custom: SEOAPR.20
-Keywords: compte professionnel, e-mail, locataire, locataire Azure, créer un compte, nom de domaine
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394216"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92333824"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Créer un compte professionnel qui lie votre entreprise à votre compte Espace partenaires
 
@@ -61,7 +60,7 @@ Le diagramme ci-dessous fournit des étapes pour plusieurs scénarios types :
 
 :::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="Vous disposez d’un compte professionnel ou vous devez en créer un ?":::
 
-Pour plus d’informations sur l’ajout de domaines dans Azure AD, consultez [Ajouter ou associer un domaine dans Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
+Pour plus d’informations sur l’ajout de domaines dans Azure AD, consultez [Ajouter ou associer un domaine dans Azure AD](/azure/active-directory/active-directory-add-domain)
 
 ## <a name="about-microsoft-azure"></a>À propos de Microsoft Azure
 
