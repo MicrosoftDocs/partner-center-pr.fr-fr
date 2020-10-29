@@ -1,7 +1,7 @@
 ---
 title: Exigences de sécurité pour les partenaires
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Présentation des exigences partenaires pour activer l’authentification multifacteur (MFA) et adopter le framework Modèle d’application sécurisé.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763350"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680390"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Exigences de sécurité pour les partenaires qui utilisent l’Espace partenaires ou les API de l’Espace partenaires
 
@@ -41,9 +41,9 @@ Les partenaires qui n’implémentent pas les exigences de sécurité obligatoir
 
 Pour votre protection et celle de vos clients, nous demandons aux partenaires de prendre immédiatement les mesures suivantes :  
 
-1. **Activer l’authentification MFA (Multi-Factor Authentication) pour tous les comptes d’utilisateur de votre locataire de partenaire**. Tous les comptes d’utilisateur de vos locataires de partenaires doivent faire l’objet d’une authentification MFA durant les connexions aux services cloud commerciaux Microsoft, ou durant les transactions liées au programme Fournisseur de solutions Cloud via l’Espace partenaires ou via des API.
+1. **Activer l’authentification MFA (Multi-Factor Authentication) pour tous les comptes d’utilisateur de votre locataire de partenaire** . Tous les comptes d’utilisateur de vos locataires de partenaires doivent faire l’objet d’une authentification MFA durant les connexions aux services cloud commerciaux Microsoft, ou durant les transactions liées au programme Fournisseur de solutions Cloud via l’Espace partenaires ou via des API.
 
-2. **Adopter le framework du modèle d’application sécurisé**. Adoptez le framework du modèle d’application sécurisé. Tous les partenaires qui utilisent l’API de l’Espace partenaires doivent adopter le framework du modèle d’application sécurisé pour toutes les applications du modèle d’authentification d’application/utilisateur.
+2. **Adopter le framework du modèle d’application sécurisé** . Adoptez le framework du modèle d’application sécurisé. Tous les partenaires qui utilisent l’API de l’Espace partenaires doivent adopter le framework du modèle d’application sécurisé pour toutes les applications du modèle d’authentification d’application/utilisateur.
 
     > [!IMPORTANT]
     > Nous recommandons fortement aux partenaires d’implémenter le modèle d’application sécurisé pour permettre l’intégration à une API Microsoft telle qu’Azure Resource Manager, Microsoft Graph, ou pour tirer profit de l’automatisation, par exemple avec PowerShell via les informations d’identification de l’utilisateur, afin d’éviter toute interruption de service au moment de l’application de l’authentification MFA.
@@ -58,7 +58,7 @@ Pour vous conformer aux exigences de sécurité des partenaires, vous devez appl
 
 - Acheter Azure Active Directory Premium pour chaque compte d’utilisateur. Pour plus d’informations, consultez [Planification d’un déploiement Azure Multi-Factor Authentication basé sur le cloud](/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Utiliser une solution de tiers pour appliquer l’authentification multifacteur pour chaque compte d’utilisateur de votre locataire partenaire. Pour garantir que la solution fournira la solution attendue, consultez [Mode d’application des exigences de sécurité](#how-the-requirements-will-be-enforced).
+- Utiliser une solution de tiers pour appliquer l’authentification multifacteur pour chaque compte d’utilisateur de votre locataire partenaire. Pour garantir que la solution fournira la solution attendue, consultez [Mode d’application des exigences de sécurité](#how-the-requirements-are-enforced).
 
 > [!NOTE]
 > Bien que l’authentification multifacteur ne soit pas obligatoire pour un cloud souverain (21Vianet, US Government et Germany), il est fortement recommandé d’adopter ces exigences de sécurité.
@@ -92,7 +92,7 @@ Pour passer des stratégies de base de référence aux paramètres de sécurité
 
 Dans la mesure où ces exigences s’appliquent à tous les comptes d’utilisateur de votre locataire de partenaire, vous devez prendre en considération plusieurs éléments pour garantir un déploiement fluide, notamment l’identification des comptes d’utilisateur Azure Active Directory qui ne permettent pas l’authentification multifacteur ainsi que les applications et appareils utilisés par votre organisation, qui ne prennent pas en charge l’authentification moderne.
 
-Avant d’effectuer toute action, nous vous recommandons d’identifier les éléments suivants :
+Avant d’effectuer toute action, nous vous recommandons de procéder aux validations suivantes : 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Avez-vous une application ou un appareil qui ne prend pas en charge l’utilisation de l’authentification moderne ?
 
@@ -100,7 +100,7 @@ Quand vous appliquez l’authentification multifacteur, les protocoles tels qu�
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Avez-vous des utilisateurs qui recourent à Office 365 dans le cadre de licences associées à votre locataire partenaire ?
 
-Avant d’implémenter une solution, nous vous recommandons de déterminer la version de Microsoft Office employée par les utilisateurs de votre locataire de partenaire. Il y a un risque que vos utilisateurs rencontrent des problèmes de connectivité avec des applications comme Outlook. Avant d’appliquer l’authentification multifacteur, il est important de vérifier qu’Outlook 2013 SP1 ou ultérieur est utilisé et que l’authentification moderne est activée pour votre organisation. Pour plus d’informations, consultez [Activer l’authentification moderne dans Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Avant d’implémenter une solution, nous vous recommandons de déterminer la version de Microsoft Office employée par les utilisateurs de votre locataire de partenaire. Il y a un risque que vos utilisateurs rencontrent des problèmes de connectivité avec des applications comme Outlook. Avant d’appliquer l’authentification multifacteur, il est important de vérifier qu’Outlook 2013 SP1 ou ultérieur est utilisé et que l’authentification moderne est activée pour votre organisation. Pour plus d’informations, consultez [Activer l’authentification moderne dans Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
 Pour activer l’authentification moderne pour tous les appareils exécutant Windows et sur lesquels Microsoft Office 2013 est installé, vous devez créer deux clés de registre. Consultez [Activer l’authentification moderne pour Office 2013 sur les appareils Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
 
@@ -128,17 +128,19 @@ La liste ci-dessus n’est pas exhaustive. Il est donc important d’effectuer u
 
 ## <a name="accessing-your-environment"></a>Accéder à votre environnement
 
-Pour mieux comprendre ce qui est authentifié sans faire l’objet d’une authentification multifacteur, nous vous recommandons de consulter l’activité de connexion. Avec Azure Active Directory Premium, vous pouvez tirer profit du rapport de connexions. Pour plus d’informations, consultez les [rapports d’activité de connexion dans le portail Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Si vous n’avez pas Azure Active Directory Premium ou si vous cherchez un moyen de l’obtenir via PowerShell, vous devez tirer profit de l’applet de commande [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) à partir du module [PowerShell de l’Espace partenaires](https://www.powershellgallery.com/packages/PartnerCenter/).
+Pour mieux comprendre ce qui est authentifié sans faire l’objet d’une authentification multifacteur, nous vous recommandons de consulter l’activité de connexion. Avec Azure Active Directory Premium, vous pouvez tirer profit du rapport de connexions. Pour plus d’informations à ce sujet, consultez les [rapports d’activité de connexion dans le portail Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Si vous n’avez pas Azure Active Directory Premium ou si vous cherchez un moyen d’obtenir cette activité de connexion via PowerShell, vous devez tirer profit de l’applet de commande [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) à partir du module [PowerShell de l’Espace partenaires](https://www.powershellgallery.com/packages/PartnerCenter/).
 
-## <a name="how-the-requirements-will-be-enforced"></a>Comment les spécifications seront appliquées
+## <a name="how-the-requirements-are-enforced"></a>Mode d’application des exigences
 
-Les exigences de sécurité des partenaires seront appliquées par Azure Active Directory et ensuite par l’Espace partenaires, en vérifiant la présence de la revendication MFA pour déterminer si la vérification de l’authentification multifacteur a eu lieu. À partir du 18 novembre 2019, Microsoft va mettre en place des dispositif de protection de la sécurité supplémentaires (anciennement « contraintes techniques ») auprès des locataires de partenaires. 
+Les exigences de sécurité des partenaires sont appliquées par Azure Active Directory et ensuite par l’Espace partenaires, en vérifiant la présence de la revendication MFA pour déterminer si la vérification de l’authentification multifacteur a eu lieu. À partir du 18 novembre 2019, Microsoft a mis en place des dispositif de protection de la sécurité supplémentaires (anciennement « contraintes techniques ») auprès des locataires de partenaires.
 
-Au moment de l’activation, les utilisateurs du locataire de partenaire sont invités à effectuer une authentification MFA dans le cadre des opérations AOBO (administration pour le compte de). Nous allons continuer à étendre les dispositifs de protection de la sécurité à d’autres scénarios et rôles d’utilisateur, tout en informant nos partenaires à l’avance. Pour plus d’informations, consultez ce document qui sera mis à jour fréquemment. Les partenaires qui n’ont pas respecté les exigences doivent implémenter ces mesures dès que possible pour éviter toute interruption des activités. 
+Au moment de l’activation, les utilisateurs du locataire de partenaire sont invités à effectuer une authentification MFA dans le cadre des opérations AOBO (administration pour le compte de), en accédant au portail de l’Espace partenaires ou en appelant l’API de l’Espace partenaires. Pour des informations plus détaillées, consultez [Imposer l’authentification multifacteur (MFA) à votre locataire partenaire](partner-security-requirements-mandating-mfa.md). 
+
+Les partenaires qui n’ont pas respecté les exigences doivent implémenter ces mesures dès que possible pour éviter toute interruption des activités. 
 
 Si vous utilisez les paramètres de sécurité par défaut de l’authentification MFA (Multi-Factor Authentication) Azure ou d’Azure AD, vous n’avez pas à effectuer d’actions supplémentaires.
 
-Lors de l’utilisation d’une solution d’authentification multifacteur de tiers, il est possible que la revendication MFA ne soit pas émise. Si cette revendication est manquante, Azure Active Directory ne pourra pas déterminer si la demande d’authentification a fait l’objet d’une authentification multifacteur. Pour plus d’informations sur la manière de vérifier si votre solution émet la revendication attendue, consultez [Test des exigences de sécurité du partenaire](/powershell/partnercenter/test-partner-security-requirements). 
+Si vous utilisez une solution d’authentification multifacteur de tiers, il est possible que la revendication MFA ne soit pas émise. Si cette revendication est manquante, Azure Active Directory ne pourra pas déterminer si la demande d’authentification a fait l’objet d’une authentification multifacteur. Pour plus d’informations sur la manière de vérifier si votre solution émet la revendication attendue, consultez [Test des exigences de sécurité du partenaire](/powershell/partnercenter/test-partner-security-requirements). 
 
 > [!IMPORTANT]
 > Si votre solution de tiers n’émet pas la revendication attendue, vous devez collaborer avec le fournisseur qui a développé la solution pour déterminer les actions à entreprendre.

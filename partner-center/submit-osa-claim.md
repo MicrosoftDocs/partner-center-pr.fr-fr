@@ -1,7 +1,7 @@
 ---
 title: Créer une association de clients
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Créer des associations de clients avec le modèle d’enregistrement (CPOR) du partenaire demandeur. Permet de gérer les ventes, l’utilisation, les Incentives pour Microsoft 365 & les clients Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174995"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917249"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associations de clients via le modèle CPOR (Partner of record) revendiqué pour Microsoft 365 et Dynamics 365
 
@@ -35,15 +35,15 @@ Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
 - **ID MPN** de votre entité qui effectue la revendication
 
-- Nom de **domaine** du client [Rechercher ce](find-domain-name.md)
+- Nom de **domaine** du client [Rechercher ce](find-ids-and-domain-names.md)
 
-- ID de **répertoire** ou **ID de locataire** du client [Rechercher ce](find-domain-name.md)
+- ID de **répertoire** ou **ID de locataire** du client [Rechercher ce](find-ids-and-domain-names.md)
 
-- La **zone**de la solution, telle que Business Applications ou Microsoft 365
+- La **zone** de la solution, telle que Business Applications ou Microsoft 365
 
 - L' **activité** que vous avez effectuée et le type de revendication que vous souhaitez effectuer, telles que l’Association de pré-vente, d’utilisation ou de chiffre d’affaires
 
-- Le nom du **contact**, le titre et l’adresse de messagerie de votre client
+- Le nom du **contact** , le titre et l’adresse de messagerie de votre client
 
 - Pour Dynamics 365, vous devez également fournir le nom, le titre et l’adresse de messagerie du **contact technique** de votre client.
 
@@ -53,9 +53,9 @@ Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
 - **Produit (s)** ou charge (s) de travail que vous demandez
 
-- **Preuve d’exécution (PoE)**, telle qu’une déclaration de travail signée par le client. Vous pouvez également télécharger un modèle PoE à utiliser.
+- **Preuve d’exécution (PoE)** , telle qu’une déclaration de travail signée par le client. Vous pouvez également télécharger un modèle PoE à utiliser.
 
-- Pour les partenaires revendiquant l’Association du chiffre d’affaires uniquement : **Dynamics solution seller Name**, **Customer Name**et **Name of ISV Product/solution**. 
+- Pour les partenaires revendiquant l’Association du chiffre d’affaires uniquement : **Dynamics solution seller Name** , **Customer Name** et **Name of ISV Product/solution** . 
 
 Vous devez également comprendre les points suivants :
 
@@ -69,24 +69,24 @@ Vous devez également comprendre les points suivants :
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. Sélectionnez l’onglet **incentives** , sélectionnez **vue d’ensemble**, puis **associations client**.
+2. Sélectionnez l’onglet **incentives** , sélectionnez **vue d’ensemble** , puis **associations client** .
 
-3. En haut de la page des associations de clients, sélectionnez **+ Association client**.
+3. En haut de la page des associations de clients, sélectionnez **+ Association client** .
 
-4. Sélectionnez l’**ID MPN** du site partenaire à associer au client, puis ajoutez le nom du domaine et l’ID d’annuaire du client. [Rechercher](find-domain-name.md)
+4. Sélectionnez l’ **ID MPN** du site partenaire à associer au client, puis ajoutez le nom du domaine et l’ID d’annuaire du client. [Rechercher](find-ids-and-domain-names.md)
 
-5. Sélectionnez **Continuer**.
+5. Sélectionnez **Continuer** .
 
-6. Sélectionnez la **zone de solution** et l' **activité**. 
+6. Sélectionnez la **zone de solution** et l' **activité** . 
 
    >[!Note]
    >
-   >Si vous sélectionnez Business Applications, sélectionnez **utilisation et/ou prévente**, ou association de **chiffre d’affaires**, puis sélectionnez **Continuer**. 
+   >Si vous sélectionnez Business Applications, sélectionnez **utilisation et/ou prévente** , ou association de **chiffre d’affaires** , puis sélectionnez **Continuer** . 
    <br><br>Si vous sélectionnez Revenue association, vous serez invité à fournir des informations légèrement différentes de celles indiquées ci-dessous.
 
-7. Entrez les informations appropriées dans la page **associer un client** , puis sélectionnez **créer une revendication**.
+7. Entrez les informations appropriées dans la page **associer un client** , puis sélectionnez **créer une revendication** .
 
-8. Sélectionnez le ou les produits associés à cette association de clients, puis sélectionnez **Continuer**.
+8. Sélectionnez le ou les produits associés à cette association de clients, puis sélectionnez **Continuer** .
 
 9. Renseignez les informations de contact du client, ainsi que les coordonnées de votre société. Tous les champs sont obligatoires. 
 

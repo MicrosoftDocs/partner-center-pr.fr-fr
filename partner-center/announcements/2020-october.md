@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
-ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92098478"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795811"
 ---
 # <a name="october-2020-announcements"></a>Annonces du mois d’octobre 2020
 
@@ -22,7 +22,115 @@ Cette page détaille les annonces de l’Espace partenaires Microsoft pour octob
 
 Annonces 2020 :  [Mars](2020-march.md) | [Avril](2020-april.md) | [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | [Septembre](2020-september.md) | Octobre
 
+________________________________
 
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Introduction d’un standard de performances pour les besoins des partenaires à facturation directe dans le programme Fournisseur de solutions Cloud
+
+### <a name="categories"></a>Catégories
+
+- Date : 27-10-2020
+- Fonctions
+ 
+### <a name="summary"></a>Résumé
+
+Nous introduisons un standard de performances dans le cadre des exigences pour les partenaires à facturation directe dans le programme Fournisseur de solutions Cloud.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires à facturation directe du programme Fournisseur de solutions Cloud
+
+### <a name="details"></a>Détails
+
+La croissance et l’optimisation du programme Fournisseur de solutions Microsoft Cloud constituent une partie importante de notre parcours vers une nouvelle expérience de commerce pour les partenaires et les clients. Ainsi, nous continuerons à faire évoluer le programme afin de répondre aux besoins fluctuants des clients et de fournir l’expérience la plus efficace et rentable pour vous, nos partenaires.
+
+Aujourd’hui, nous partageons quelques modifications à venir des exigences pour les partenaires à facturation directe dans le programme Fournisseur de solutions Cloud.
+
+Tout d’abord, **nous introduisons un standard de performances dans le cadre des exigences pour les partenaires à facturation directe** . Les partenaires qui souhaitent s’inscrire en tant que partenaires à facturation directe au programme Fournisseur de solutions Cloud doivent avoir réalisé un chiffre d’affaires d’au moins 300 000 USD dans le cadre du programme Fournisseur de solutions Cloud au cours des 12 mois qui précèdent la date de renouvellement de leur [contrat de support requis](https://partner.microsoft.com/support/partnersupport).
+
+Ce standard de performances prendra effet en janvier 2021 pour les partenaires à facturation directe actuels, et vous devrez satisfaire aux exigences avant la date de renouvellement de votre plan de support partenaire.
+
+Si vous n’êtes pas en mesure de satisfaire aux exigences pour les partenaires à facturation directe, ou ne souhaitez pas y satisfaire, vous devrez vous réinscrire en tant que revendeur indirect au programme Fournisseur de solutions Cloud. 
+
+Cette nouvelle exigence de chiffre d’affaires aidera les partenaires du programme Fournisseur de solutions Cloud à créer une activité plus rentable par le biais du modèle adéquat, avec un standard de performances plus clair, et à se concentrer sur la fourniture d’une plus grande valeur ajoutée aux clients, avec une charge moindre en termes d’infrastructure et d’opérations.
+
+Deuxièmement, en août 2018, nous avons mis à jour les exigences pour les partenaires à facturation directe avec de nouveaux critères pour que les partenaires achètent un plan de support partenaire complet. Nous remettons l’accent sur l’importance de ce point qui est requis pour tous les partenaires à facturation directe dans le programme Fournisseur de solutions Cloud.
+
+### <a name="direct-bill-partner-requirements"></a>Exigences pour les partenaires à facturation directe
+
+Passez en revue les recommandations et les [exigences mises à jour pour les partenaires à facturation directe](../direct-partner-new-requirements.md#minimum-requirements) afin d’évaluer la façon dont vous pouvez créer et développer une activité plus rentable avec le modèle approprié dans le cadre du programme Fournisseur de solutions Cloud :
+
+1. **Nouvelle exigence en matière de performances portant sur le chiffre d’affaires**
+
+Les **partenaires existants** qui sont inscrits au programme Fournisseur de solutions Cloud en tant que partenaires à facturation directe devront respecter le nouveau standard de performances à partir de janvier 2021. Vous aurez le temps de satisfaire aux exigences avant la prochaine date de renouvellement de votre plan de support partenaire. Vous pouvez consulter votre chiffre d’affaires sur les douze derniers mois dans l’Espace partenaires en suivant [ce guide](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf).
+
+Les nouveaux partenaires qui s’inscrivent au programme Fournisseur de solutions Cloud commenceront en tant que revendeurs indirects à compter d’ **octobre 2020** . Ils doivent avoir réalisé un chiffre d’affaires d’au moins 300 000 USD dans le cadre du programme Fournisseur de solutions Cloud au cours des 12 mois précédents. Vous pouvez consulter votre chiffre d’affaires sur les 12 derniers mois dans l’Espace partenaires en suivant [ce guide](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
+
+2. **Exigence pour le contrat de support** 
+
+Développez vos capacités de support en achetant une des deux options de contrat de support :  
+
+   - Support avancé pour les partenaires Microsoft Support cloud individuel prioritaire  
+   - Support Premier pour les partenaires Microsoft Accédez au catalogue complet des services proactifs et bénéficiez d’un support de niveau élevé couvrant la garantie de réparation et d’assistance 24 h/24, 7 jours/7 et la gestion de compte technique dans tous les environnements cloud, hybrides et locaux. 
+
+Comparez les [options de contrat de support](https://partner.microsoft.com/support/partnersupport) pour acheter un plan adapté.
+
+### <a name="direct-bill-partner-recommendations"></a>Recommandations pour les partenaires à facturation directe
+
+**Faire la démonstration de fonctionnalités essentielles**
+
+Pour que vous soyez prêt et que vous connaissiez bien l’infrastructure nécessaire à la prise en charge du programme destiné aux partenaires à facturation directe, nous avons quelques recommandations supplémentaires. Montrez que vous fournissez au moins un service managé, un service IP ou une application de solution client. Les partenaires doivent ajouter de la valeur aux services Microsoft Cloud et ne pas simplement revendre directement nos services. Il s’agit d’un élément important de la stratégie Go-to-Market d’un partenaire. [Découvrez-en plus](https://partner.microsoft.com/solutions/managed-services) sur l’ajout de services managés. Nous vous recommandons de respecter les capacités d’infrastructure minimales, telles que la facturation et le provisionnement. 
+
+Les partenaires à facturation directe du programme Fournisseur de solutions Cloud qui ne satisfont pas aux nouvelles exigences devront se réinscrire en tant que revendeurs indirects au programme au sein de Microsoft Partner Network. [Découvrez-en plus](../transition-direct-to-indirect.md) sur la façon dont vous pouvez passer de partenaire à facturation directe à revendeur indirect.  
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Passez en revue les [exigences mises à jour pour les partenaires à facturation directe](../direct-partner-new-requirements.md#minimum-requirements).
+- Consultez le Forum aux questions et d’autres informations dans la [Galerie de ressources opérationnelles sur le site web des partenaires Microsoft](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
+- Trouvez [un fournisseur indirect avec lequel travailler](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) si l’option de revendeur indirect répond mieux à vos besoins métier.
+________________________________
+
+## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Mises à jour de l’offre Microsoft 365 Business Voice
+
+### <a name="categories"></a>Catégories
+
+- Date : 16-10-2020
+- Offres/marchés
+ 
+### <a name="summary"></a>Résumé
+
+Les ID d’offre dans l’aperçu de la liste des prix de novembre étaient incorrects.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires effectuant des transactions commerciales dans le cadre du programme Fournisseur de solutions cloud
+
+### <a name="details"></a>Détails
+
+Nous avons récemment partagé les annonces sur les nouvelles offres prochainement disponibles en novembre : [Microsoft 365 Business Voice pour les organisations à but non lucratif](#10) et [Microsoft 365 Business Voice](#9).
+
+
+Quelques ID d’offre dans ces annonces ont été corrigés. Il est fort possible que ces ID d’offre corrigés soient publiés dans la mise à jour de la liste de prix de novembre dans les semaines à venir.
+
+#### <a name="correct-offer-ids"></a>ID d’offre corrects
+
+   |**Nom de l'offre**|**ID de l’offre**|**ID de contenu**|
+   |-------------------|:------|:------|
+   |Promotion pour l’adoption de Microsoft 365 Business Voice (ÉTATS-UNIS UNIQUEMENT)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 Business Voice (tarif pour le personnel d’organisations à but non lucratif)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+
+#### <a name="incorrect-offer-ids"></a>ID d’offre incorrects
+
+Les informations suivantes sur les ID d’offre indiquées dans la liste de prix préliminaire de novembre doivent être ignorées. 
+
+   |**Nom de l'offre**|**ID de l’offre**|
+   |-------------------|:------|
+   |Promotion pour l’adoption de Microsoft 365 Business Voice (ÉTATS-UNIS UNIQUEMENT)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
+   |Microsoft 365 Business Voice (tarif pour le personnel d’organisations à but non lucratif)|ae54a18d-3472-473a-9b21-9831b8e658f3|
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Familiarisez-vous avec la liste de prix préliminaire et partagez ces informations avec tous les contacts appropriés de votre organisation.
+- Passez en revue tous les éléments de préparation sur la Galerie de ressources des mises à jour du programme Fournisseur de solutions Cloud ([Présentation de Microsoft 365 Business Voice pour les petites et moyennes entreprises](https://partner.microsoft.com/resources/collection/m365-voice-smb)).
 ________________
 
 ## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Mise à jour de novembre 2020 : Guide des services en ligne et des autorisations pour les chaînes du logiciel
@@ -124,7 +232,7 @@ Ces promotions affectent les clients suivants :
 #### <a name="additional-resources"></a>Ressources supplémentaires
 
 - Pour en savoir plus sur Business Voice, visitez la [page Partenaires Microsoft 365 Business Voice](https://www.microsoft.com/microsoft-365/partners/businessvoice). 
-- Reportez-vous à l’Audioconférence dans Microsoft 365 pour en savoir plus sur les [fonctionnalités d’Audioconférence](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365).
+- Reportez-vous à l’Audioconférence dans Microsoft 365 pour en savoir plus sur les [fonctionnalités d’Audioconférence](/microsoftteams/audio-conferencing-in-office-365).
 - Pour plus d’informations sur ces promotions, consultez les [questions fréquentes (FAQ) pour les partenaires](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).
 
 ### <a name="next-steps"></a>Étapes suivantes
@@ -165,7 +273,7 @@ Voici les nouveautés du portail Azure :
 
 - Navigation flexible qui vous permet d’afficher, de modifier et d’enregistrer des informations dans n’importe quelle section sans avoir à compléter la section précédente.
 - Nouvelle vue de page entière sans plusieurs niveaux imbriqués.
-- Nouvelle fonctionnalité pour étiqueter et organiser les ressources Azure. Pour en savoir plus sur l’étiquetage, consultez [Utiliser des étiquettes pour organiser vos ressources Azure](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources).
+- Nouvelle fonctionnalité pour étiqueter et organiser les ressources Azure. Pour en savoir plus sur l’étiquetage, consultez [Utiliser des étiquettes pour organiser vos ressources Azure](/azure/azure-resource-manager/management/tag-resources).
 
 Si vous avez des questions sur ces changements, contactez notre [équipe de support](https://aka.ms/marketplacepublishersupport).
 
@@ -382,7 +490,7 @@ Le 1er novembre 2020, Microsoft publiera les nouvelles offres mises à niveau de
 
 - Pour obtenir des détails sur les ID des offres, consultez l’onglet Project Operations dans le document Excel [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls).
 - Pour plus d’informations, consultez la [page d’accueil de Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/).
-- Consultez l’[annonce des nouvelles offres Dynamics](https://docs.microsoft.com/partner-center/announcements/2020-september#3) de septembre.
+- Consultez l’[annonce des nouvelles offres Dynamics](2020-september.md#3) de septembre.
 
 ________________
 

@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175179"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795829"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Fusionner votre compte partenaire avec un autre compte partenaire
 
@@ -84,12 +84,32 @@ Si vous décidez d’accepter l’invitation pour fusionner les comptes : · Vo
 
 1. Sélectionnez les **paramètres** à partir de votre tableau de bord de l’espace partenaires. 
 
-2. Sélectionnez **fusion de compte**.
+2. Sélectionnez **fusion de compte** .
 
 3. Ajoutez l’ID MPN situé dans le **profil de partenaire** du compte que vous souhaitez inviter à fusionner avec vous. Vous devez utiliser leur ID MPN global de partenaire. Vous ne pouvez pas utiliser un ID MPN d’emplacement.
 
-4. Lorsque vous sélectionnez **fusionner**, une invitation est envoyée à la société partenaire. Lorsqu’ils acceptent votre demande, vous pouvez lancer la fusion de compte dans l’espace partenaires. Si la société rejette votre demande de fusion de comptes, elle peut expliquer pourquoi elle a rejeté la demande. Une liste de toutes vos fusions de compte est à votre disposition sous **l’historique de fusion**.
+4. Lorsque vous sélectionnez **fusionner** , une invitation est envoyée à la société partenaire. Lorsqu’ils acceptent votre demande, vous pouvez lancer la fusion de compte dans l’espace partenaires. Si la société rejette votre demande de fusion de comptes, elle peut expliquer pourquoi elle a rejeté la demande. Une liste de toutes vos fusions de compte est à votre disposition sous **l’historique de fusion** .
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Exemple de deux sociétés qui fusionnent des comptes
 
+1. Contoso a 
+
+    a. [ID MPN global 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) et un ID [MPN d’emplacement subordonné de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. un locataire Azure AD = @contoso.com
+ 
+    c. une compétence Gold qui expire le 1er octobre, 2020
+2. Fabricam a
+ 
+    a.  un ID MPN global de 3333333 et deux ID MPN d’emplacement subordonné de 4444444 et 5555555
+
+    b.  un locataire AAD = @fabricam.com
+
+    c.  deux compétences Gold qui expirent le 1er décembre 2020
+3.  Contoso achète fabricam et se déplace [ici](https://partner.microsoft.com/dashboard/account/merger) pour lancer une demande de fusion
+4.  Fabricam se connecte à l’espace partenaires et accède à la même page que contoso à l’étape #3 pour approuver la demande de contoso.
+5.  Contoso passe en revue les détails de la fusion sur cette même page et fournit une confirmation pour poursuivre la fusion du compte.
+    
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)

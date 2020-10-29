@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352865"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749708"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces du mois d’octobre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Introduction d’un standard de performances pour les besoins des partenaires en facturation directe dans le programme CSP (Cloud Solution Provider)](2020-october.md#13)|27 octobre|
 |Offres/marchés|[Mises à jour de l’offre Microsoft 365 Business Voice](2020-october.md#12)|16 octobre|
 |Fonctionnalités|[Mise à jour de novembre 2020 : Guide d’autorisation des services en ligne et des chaînes logicielles](2020-october.md#11)|14 octobre|
 |Offres/marchés|[Présentation de Microsoft 365 Business Voice pour les organisations à but non lucratif](2020-october.md#10)|12 octobre|

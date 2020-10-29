@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197995"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333931"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Gérer votre compte Espace partenaires : profils d’entreprise, informations bancaires, rôles, autorisations, etc.
 
@@ -42,20 +42,20 @@ Pour voir à quels programmes vous avez accès dans l’Espace partenaires :
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 2. Examinez le volet de navigation de gauche. Vous y trouvez les options associées aux programmes auxquels vous êtes inscrit.
 
-Voici un exemple. Supposons qu’un utilisateur a accès à trois programmes dans le tableau de bord de l’Espace partenaires : Le programme **MPN**, le programme **Références** et le programme **Place de marché commerciale**. Quand il se connecte au tableau de bord de l’Espace partenaires, il voit ces trois programmes dans la partie gauche de l’écran.
+Voici un exemple. Supposons qu’un utilisateur a accès à trois programmes dans le tableau de bord de l’Espace partenaires : Le programme **MPN** , le programme **Références** et le programme **Place de marché commerciale** . Quand il se connecte au tableau de bord de l’Espace partenaires, il voit ces trois programmes dans la partie gauche de l’écran.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="menu des programmes auxquels l’utilisateur est inscrit":::
 
 ## <a name="account-management"></a>Gestion des comptes
 
-Aujourd’hui, la gestion des comptes dans l’Espace partenaires comprend deux sections : **Paramètres du partenaire** et **Paramètres du développeur**.
+Aujourd’hui, la gestion des comptes dans l’Espace partenaires comprend deux sections : **Paramètres du partenaire** et **Paramètres du développeur** .
 
 >[!NOTE]
->Pour accéder aux **Paramètres du partenaire** ou aux **Paramètres du développeur**, vous devez vous connecter au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires, puis sélectionner l’option **Paramètres** (l’icône d’engrenage) dans l’angle supérieur droit de l’écran. Vous pouvez ensuite sélectionner **Paramètres du partenaire** ou **Paramètres du développeur** dans le menu déroulant.
+>Pour accéder aux **Paramètres du partenaire** ou aux **Paramètres du développeur** , vous devez vous connecter au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires, puis sélectionner l’option **Paramètres** (l’icône d’engrenage) dans l’angle supérieur droit de l’écran. Vous pouvez ensuite sélectionner **Paramètres du partenaire** ou **Paramètres du développeur** dans le menu déroulant.
 
 :::image type="content" source="images/accountsettings/account1.png" alt-text="menu des programmes auxquels l’utilisateur est inscrit":::
 
-Les partenaires peuvent voir l’option permettant de gérer les **Paramètres du partenaire** et/ou les **Partenaires du développeur**, selon le ou les programmes auxquels leur entreprise est inscrite. L’option de paramètres n’est disponible que si votre entreprise est inscrite à au moins un programme associé à ce paramètre.
+Les partenaires peuvent voir l’option permettant de gérer les **Paramètres du partenaire** et/ou les **Partenaires du développeur** , selon le ou les programmes auxquels leur entreprise est inscrite. L’option de paramètres n’est disponible que si votre entreprise est inscrite à au moins un programme associé à ce paramètre.
 
 Pour gérer les paramètres de votre compte, vous devez sélectionner l’option de paramètres de compte appropriée pour le programme en question.  
 
@@ -75,19 +75,19 @@ Il s’agit d’une liste partielle des programmes disponibles et de l’option 
 
 ### <a name="locate-your-mpn-id"></a>Localiser votre ID MPN
 
-Que vous soyez partenaire ou développeur, vous devez utiliser votre ID MPN pour par exemple consigner des tickets de support. Si vous êtes développeur, votre ID MPN se trouve dans la page de vos informations **Paramètres du compte**.
+Que vous soyez partenaire ou développeur, vous devez utiliser votre ID MPN pour par exemple consigner des tickets de support. Si vous êtes développeur, votre ID MPN se trouve dans la page de vos informations **Paramètres du compte** .
 
-L’ID MPN du partenaire se trouve dans la page **Profil du partenaire**.
+L’ID MPN du partenaire se trouve dans la page **Profil du partenaire** .
 
 ### <a name="see-partner-and-developer-settings"></a>Voir Paramètres Partenaire et Développeur
 
 Les options des **Paramètres du partenaire** et des **Paramètres du développeur** sont différentes. Vous trouverez ci-dessous des exemples de captures d’écran de chaque groupe d’options. Si vous avez accès à d’autres programmes, il se peut que les options affichées soient différentes de celles présentées ici.
 
-**Options des Paramètres du partenaire** :
+**Options des Paramètres du partenaire**  :
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="menu des programmes auxquels l’utilisateur est inscrit":::
 
-**Options des Paramètres du développeur** :
+**Options des Paramètres du développeur**  :
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="menu des programmes auxquels l’utilisateur est inscrit":::
 
@@ -126,6 +126,5 @@ Si vous êtes inscrit à des programmes comme le programme MPN ou le programme F
 |S’abonner à l’Espace partenaires en tant que fournisseur de panneau de configuration|[S’abonner à l’Espace partenaires en tant que fournisseur de panneau de configuration](enroll-as-cpv.md)|
 |Associer votre compte Microsoft Learn dans l’Espace partenaires|[Associer votre compte Microsoft Learn dans l’Espace partenaires](ms-learn-associate.md)|
 |Veiller à promouvoir votre entreprise afin que les clients puissent vous trouver   |[Créer un profil professionnel](create-a-marketing-profile.md)|
-|Organiser votre catalogue de telle sorte que les produits les plus importants se trouvent en haut de la liste   |[Personnaliser le catalogue](customize-the-catalog.md)|
 |Se tenir informé des tarifs et offres en cours   |[Tarifs et offres](pricing-and-offers.md)|
-|API : Vérifier l’ID MPN d’un partenaire|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API : Vérifier l’ID MPN d’un partenaire|[Vérifier l’ID MPN d’un partenaire](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)

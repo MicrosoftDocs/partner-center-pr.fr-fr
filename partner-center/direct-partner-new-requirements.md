@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366853"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795768"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Exigences pour s’inscrire en tant que partenaire à facturation directe du programme Fournisseur de solutions Cloud (CSP)
 
@@ -32,9 +32,10 @@ En tant que partenaire à facturation directe, vous avez une relation de bout en
 |--------------------------------|--------------------------------------------------------------|
 |**ID MPN**   |Identifiant Microsoft Partner Network actif pour la localisation de votre entreprise.    |
 |**Approbation**   |Autorité qui accepte et signe des contrats au nom de votre organisation.|
+|**Chiffre d’affaires**|À partir de janvier 2021, les partenaires inscrits en tant que partenaires à facturation directe devront avoir réalisé, au cours des 12 mois précédents, un chiffre d’affaires d’au moins 300 000 USD dans le cadre du programme Fournisseur de solutions Cloud au niveau d’un compte global Partenaire.| 
 |**Support technique**   |Capacité à fournir à vos clients le premier niveau de support pour les produits cloud. <br/>Plan de support Microsoft, soit Support avancé pour les partenaires (ASfP), soit Support Premier pour les partenaires (PSfP), selon vos besoins. [Comparez les offres de support](https://partner.microsoft.com/support/partnersupport).<br/> IMPORTANT : Avant d’acheter un plan de support, vous devez passer avec succès une vérification de solvabilité. Nous vous enverrons un e-mail dès que vous aurez réussi la vérification de solvabilité. |
 |**Service managé**   |Au moins un service géré, un service IP ou une application de solution client. En savoir plus sur l’ajout de [services gérés](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Comptabilité clients** |Infrastructure organisationnelle mise en place pour gérer la facturation et l’approvisionnement des clients.
+|**Comptabilité clients** |Infrastructure organisationnelle mise en place pour gérer la facturation et l’approvisionnement des clients.|
 
 ### <a name="verify-direct-bill-eligibility"></a>Vérifier l’éligibilité à la facturation directe
 

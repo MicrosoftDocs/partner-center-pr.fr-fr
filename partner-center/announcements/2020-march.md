@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031712"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795796"
 ---
 # <a name="march-2020-announcements"></a>Annonces de mars 2020
 
@@ -44,11 +44,11 @@ Tous les partenaires du programme Fournisseur de solutions Cloud.
 
 Le 21 avril 2020, nous modifierons les noms de nos offres Office 365 PME :
 
-- Office 365 Business Essentials deviendra **Microsoft 365 Business Basic**. Il s’agit de notre offre d’entrée de gamme pour les clients qui recherchent des services Cloud basiques.
-- Office 365 Business Premium deviendra **Microsoft 365 Business Standard**. Il s’agit de notre offre principale pour les PME, qui comprend les services Cloud et les applications de bureau connectées au Cloud.
-- Microsoft 365 Business deviendra **Microsoft 365 Business Premium**. Cela reste notre référence SKU par excellence pour les PME haut de gamme à la recherche d’une valeur ajoutée en termes de sécurité, d’appareils et d’identité.
+- Office 365 Business Essentials deviendra **Microsoft 365 Business Basic** . Il s’agit de notre offre d’entrée de gamme pour les clients qui recherchent des services Cloud basiques.
+- Office 365 Business Premium deviendra **Microsoft 365 Business Standard** . Il s’agit de notre offre principale pour les PME, qui comprend les services Cloud et les applications de bureau connectées au Cloud.
+- Microsoft 365 Business deviendra **Microsoft 365 Business Premium** . Cela reste notre référence SKU par excellence pour les PME haut de gamme à la recherche d’une valeur ajoutée en termes de sécurité, d’appareils et d’identité.
 
-Nous adopterons également un nouveau nom :**Microsoft 365 Apps** pour nos deux abonnements clients Office :
+Nous adopterons également un nouveau nom : **Microsoft 365 Apps** pour nos deux abonnements clients Office :
 
 - Office 365 Business deviendra Microsoft 365 Apps for Business
 - Office 365 ProPlus deviendra Microsoft 365 Apps for Enterprise
@@ -317,7 +317,7 @@ Veuillez consulter les modifications spécifiques dans le fichier appelé « Dy
 
 - [Dynamics 365 - Page d’accueil](https://dynamics.microsoft.com/)
 - [Guide des applications de réalité mixte - Page d’accueil](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Fraude relative aux produits Biz Apps - Page d’accueil](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Fraude relative aux produits Biz Apps - Page d’accueil](/dynamics365/fraud-protection/overview)
 - [Mises à jour des licences PowerApps et Flow 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licences Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 et Power Platform : disponibilité, emplacement des données, langue et contenu de localisation](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

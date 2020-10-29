@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de facturation directe limitées
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les conditions requises pour les partenaires de facturation directe et la procédure à suivre pour éviter que des fonctionnalités soient limitées. Déterminez si vos fonctionnalités ont été limitées.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444765"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795765"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Fonctionnalités de facture directe restreintes et exigences requises pour les partenaires de facturation directe de fournisseurs de solutions Cloud  
 
@@ -31,11 +31,11 @@ Pour vérifier si l’accès du locataire du partenaire de facturation directe a
 
 1. Connectez-vous au [tableau de bord de l’espace partenaires](https://partner.microsoft.com/dashboard).
 
-2. Accédez à **paramètres du partenaire**  ->  **profil de partenaire**.
+2. Accédez à **paramètres du partenaire**  ->  **profil de partenaire** .
 
-3. Sous **informations sur le programme**, recherchez **Microsoft Cloud État du fournisseur de solutions**.
+3. Sous **informations sur le programme** , recherchez **Microsoft Cloud État du fournisseur de solutions** .
 
-4. Si l’état du programme a une valeur **restreinte**, cela signifie que l’accès de votre locataire de partenaires directs aux fonctionnalités de facturation directe a été restreint.
+4. Si l’état du programme a une valeur **restreinte** , cela signifie que l’accès de votre locataire de partenaires directs aux fonctionnalités de facturation directe a été restreint.
 
 ## <a name="affected-direct-bill-capabilities"></a>Fonctionnalités de facture directe affectées
 
@@ -51,7 +51,7 @@ Si vos capacités de facturation directe ont été restreintes, vous ne pouvez p
 
 Vous ne pouvez pas non plus utiliser l' [offre de services partagés de partenaires Azure](shared-services.md) dans le cadre du programme CSP pour acheter de nouveaux abonnements Azure pour votre usage personnel.
 
-Les abonnements à facture directe existants ne sont pas affectés. Ils restent valides et sont renouvelés à l’autorenouvellement. Vous continuerez à être facturé directement par Microsoft jusqu’à ce qu’il soit annulé. Vous pouvez toujours gérer les abonnements existants des manières suivantes :
+Les abonnements à facture directe existants ne sont pas affectés. Ils restent valides et sont renouvelés automatiquement. Vous continuerez à être facturé directement par Microsoft jusqu’à ce qu’il soit annulé. Vous pouvez toujours gérer les abonnements existants des manières suivantes :
 
 - Suspendre les abonnements existants
 
