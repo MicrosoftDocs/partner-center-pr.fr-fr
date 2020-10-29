@@ -46,6 +46,8 @@
       items:
         - name: En savoir plus sur les compétences
           href: learn-about-competencies.md
+        - name: Questions fréquentes (FAQ) sur les compétences
+          href: competencies-faq.md
         - name: Exemption de compétence de développement d’applications
           href: app-dev-isv.md
     - name: Spécialisations avancées
