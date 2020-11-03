@@ -295,9 +295,6 @@
         - name: Créer votre preuve d’exécution
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Envoyer une facture fiscale comme preuve d’exécution
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Demandes de coopération aux incentives
       items:
         - name: Demandes de coopération à une incentive
@@ -623,7 +620,7 @@
               href: pci-customer-report.md
             - name: Analytique Microsoft Learn
               href: ms-learn-analytics.md
-            - name: Vue d’ensemble
+            - name: Vue d'ensemble
               href: pci-overview-report.md
             - name: Licences de produits
               href: pci-product-licenses-report.md
