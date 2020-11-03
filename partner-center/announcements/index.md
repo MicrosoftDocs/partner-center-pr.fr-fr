@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749708"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917210"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,7 +22,9 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces du mois d’octobre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Actualisation de l’expérience numérique CSP (Cloud Solution Provider) maintenant disponible](2020-october.md#15)|28 octobre|
 |Fonctions|[Introduction d’un standard de performances pour les besoins des partenaires en facturation directe dans le programme CSP (Cloud Solution Provider)](2020-october.md#13)|27 octobre|
+|Offres/marchés|[Mises à jour des prix de vente des abonnements aux logiciels CSP (Cloud Solution Provider) - octobre 2020](2020-october.md#14)|26 octobre|
 |Offres/marchés|[Mises à jour de l’offre Microsoft 365 Business Voice](2020-october.md#12)|16 octobre|
 |Fonctionnalités|[Mise à jour de novembre 2020 : Guide d’autorisation des services en ligne et des chaînes logicielles](2020-october.md#11)|14 octobre|
 |Offres/marchés|[Présentation de Microsoft 365 Business Voice pour les organisations à but non lucratif](2020-october.md#10)|12 octobre|
@@ -56,7 +58,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces d’août 2020** | **Date** |
 |Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation de clients Éducation](2020-august.md#8)|31 août|
 |Offres/marchés|[Mises à jour de Microsoft 365 Voice Promotion](2020-august.md#7)|14 août|
-|Fonctionnalités|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
+|Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
 |Fonctionnalités|[Achat en libre-service de Microsoft Project et Microsoft Visio bientôt disponible](2020-august.md#5)|12 août|
 |Offres/marchés|[Nouvelles références SKU Communications avancées Microsoft Teams maintenant disponibles](2020-august.md#4)|4 août|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible en septembre](2020-august.md#3)|4 août|

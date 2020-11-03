@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175211"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189728"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Recevoir un paiement dans la place de marché commerciale
 
@@ -35,9 +35,9 @@ Avant d’être payé la première fois, vous devez configurer votre compte de p
 
 Par défaut, nous envoyons les paiements une fois par mois, comme décrit ci-dessus. Toutefois, vous avez la possibilité de mettre en attente vos paiements pour un programme et Microsoft ne diffusera pas vos paiements à votre compte. Si vous choisissez de mettre vos paiements en attente, nous continuerons à enregistrer les bénéfices dans la page **versements** . Toutefois, nous n’enverrons pas de paiements à votre compte tant que vous n’aurez pas retiré la mise en attente.
 
-Pour mettre vos paiements en attente, accédez à **Paramètres de compte**. Sous **Paiement et taxe**, dans la section **Attribution de profil de paiement et de taxe**, recherchez le programme pour lequel vous souhaitez mettre les paiements en attente. Cochez la case **conserver mon paiement** pour conserver les paiements pour ce programme. Vous pouvez modifier votre statut de conservation de paiement à tout moment, mais votre décision aura une incidence sur le versement mensuel suivant. Par exemple, si vous souhaitez mettre le paiement d’avril en attente, veillez à définir votre état de paiement en attente sur **Activé** avant la fin du mois de mars.
+Pour mettre vos paiements en attente, sélectionnez l’icône d’engrenage de **paramètres** en haut à droite, puis **paramètres du développeur** . Sélectionnez **paiement et taxes** dans le menu de gauche, puis dans la section **attribution du profil de paiement et** de l’impôt, localisez le programme pour lequel vous souhaitez conserver les paiements. Cochez la case **conserver mon paiement** pour conserver les paiements pour ce programme. Vous pouvez modifier votre statut de conservation de paiement à tout moment, mais votre décision aura une incidence sur le versement mensuel suivant. Par exemple, si vous souhaitez mettre le paiement d’avril en attente, veillez à définir votre état de paiement en attente sur **Activé** avant la fin du mois de mars.
 
-Une fois que vous avez défini votre état de blocage de paiement sur **activé**, tous les versements pour ce programme sont bloqués **jusqu’à ce**que vous désactiviez la case à cocher. Dans ce cas, vous êtes inclus au cours du prochain cycle de versement mensuel (à condition que le seuil de paiement soit respecté). Si vous avez des paiements en attente, mais que vous souhaitez que le paiement ait été généré en juin, désactivez la case à cocher pour **Désactiver** avant la fin de l’opération.
+Une fois que vous avez défini votre état de blocage de paiement sur **activé** , tous les versements pour ce programme sont bloqués **jusqu’à ce** que vous désactiviez la case à cocher. Dans ce cas, vous êtes inclus au cours du prochain cycle de versement mensuel (à condition que le seuil de paiement soit respecté). Si vous avez des paiements en attente, mais que vous souhaitez que le paiement ait été généré en juin, désactivez la case à cocher pour **Désactiver** avant la fin de l’opération.
 
 >[!Note]
 > L’état d’attente de paiement s’applique à chaque programme individuellement (Microsoft Store, publicité, place de marché Azure, etc.). Si vous souhaitez conserver les paiements pour tous vos programmes, conservez le paiement sur chaque programme individuellement.

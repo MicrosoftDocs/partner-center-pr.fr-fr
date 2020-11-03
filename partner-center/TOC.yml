@@ -564,6 +564,8 @@
           href: Get-special-pricing-for-offers.md
         - name: Vendre aux clients Éducation
           href: sell-to-education-customers.md
+        - name: Mettre à niveau Windows 10 Famille vers Windows 10 Éducation
+          href: upgrade-windows-to-education.md
         - name: Augmenter l’adoption et la satisfaction client
           href: increasing-adoption-and-satisfaction.md
         - name: "Simplifier l’installation des appareils avec Windows\_AutoPilot"

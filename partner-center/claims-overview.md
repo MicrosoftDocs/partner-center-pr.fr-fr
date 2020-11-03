@@ -1,7 +1,7 @@
 ---
 title: Vue d’ensemble de la co-op marketing et des réclamations
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Découvrez comment soumettre une demande de remboursement réussie pour vos incentives en organisant la documentation, les factures, les déclarations et les preuves d’exécution appropriées.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848219"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133080"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Bénéficier de fonds marketing coopératifs
 
@@ -34,13 +34,16 @@ Les fonds de co-op marketing vous permettent d’effectuer des activités market
 Pour plus d’informations, consultez la page ressources pour les [fonds de co-op](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
 
 >[!Important]
->Les demandes de financement ne s’appliquent pas aux programmes d’incentives de la vente OSA (Online Services Advisory) (OSU)-Microsoft 365 et OSU-Business Services. Pour soumettre une revendication pour l’un de ces programmes, consultez [créer un client associearation à l’aide du modèle CPOR](submit-osa-claim.md).
+>Les demandes de co-op ne s’appliquent pas aux programmes de vente par le biais des services en ligne (OSA), de l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business programmes d’incentives des applications. Pour soumettre une revendication pour l’un de ces programmes, consultez [créer un client associearation à l’aide du modèle CPOR](submit-osa-claim.md).
 
 ## <a name="how-co-op-funds-are-calculated"></a>Calcul des fonds de co-op marketing
 
 Microsoft calcule les recettes incitatives éligibles à l’aide d’un pourcentage de fractionnement (par exemple, 60% de remise-40% de co-op). Vous recevrez la partie de la remise à l’aide de la cadence de paiement existante pour votre programme individuel, tandis que Microsoft accumulera la partie de la co-op du revenu de l’incentive.
 
 Vous pouvez en savoir plus sur la cadence de paiement et le pourcentage de fractionnement dans votre Guide du programme d’incentives. Utilisez [cette procédure](incentives-determined-your-program-eligibility.md) pour accéder au Guide de votre programme.
+
+>[!NOTE]
+>Si vos revenus de cofinancement sont inférieurs au seuil de la période de financement de la coopération, les bénéfices du cofinancement seront convertis en remise à la fin du semestre. Pour plus d’informations ou pour déterminer la quantité de seuil, consultez votre Guide du programme d’incentives.
 
 ## <a name="when-to-claim-your-funds"></a>Quand réclamer vos fonds
 
@@ -49,7 +52,7 @@ La chronologie des fonds de co-op marketing est divisée en périodes de 2 6 moi
 - H1 est la première moitié de l’année fiscale, du 1er juillet au 31 décembre.
 - H2 est la seconde moitié de l’année fiscale, du 1er janvier au 30 juin.
 
-La période de six mois au cours de laquelle vous accumulez vos revenus devient votre **période de gains**. Vous devez utiliser ces revenus à un moment donné pendant la **période d’utilisation**de six mois suivante. Si vous n’utilisez pas vos revenus à la fin de la période d’utilisation, vous les perdrez. La **période de demande** est la période de six mois au cours de laquelle vous pouvez demander le remboursement de vos activités de programme d’incentives.
+La période de six mois au cours de laquelle vous accumulez vos revenus devient votre **période de gains** . Vous devez utiliser ces revenus à un moment donné pendant la **période d’utilisation** de six mois suivante. Si vous n’utilisez pas vos revenus à la fin de la période d’utilisation, vous les perdrez. La **période de demande** est la période de six mois au cours de laquelle vous pouvez demander le remboursement de vos activités de programme d’incentives.
 
 Le tableau ci-dessous présente les différentes périodes de gains, d’utilisation et de revendication. Sauf mention contraire, les périodes s’étendent du premier jour du premier mois jusqu’au dernier jour du mois dernier.
 
@@ -65,11 +68,11 @@ Le tableau ci-dessous présente les différentes périodes de gains, d’utilisa
 
 Les ressources suivantes vous aideront à commencer à utiliser les revendications de la co-op marketing.
 
-| Action à réaliser | Lisez |
+| Pour | Lisez |
 | ------ | ----------- |
 | Soumettre une revendication |  [Créer et gérer une revendication de co-op de programme d’incentives](create-incentives-claims.md)  |
 | Gérer une revendication envoyée | [Créer et gérer une revendication de co-op de programme d’incentives](create-incentives-claims.md)    |
-| Comprendre les exigences principales de la revendication d’activité | [Exigences principales pour les activités dans votre programme d’incentives](core-requirements.md)   |
+| Comprendre les exigences principales de la revendication d’activité | [Conditions de base pour les activités dans votre programme d’incentives](core-requirements.md)   |
 | Consulter les détails de votre programme d’incentives | [Guide de co-op des incentives partenaires](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | Créer une association client et envoyer une revendication | [Créer une association de clients avec le modèle CPOR](submit-osa-claim.md)   |
 

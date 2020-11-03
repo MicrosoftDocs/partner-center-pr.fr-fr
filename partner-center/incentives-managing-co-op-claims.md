@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663870"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133148"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gérer les demandes d’incentives de co-op
 
@@ -65,15 +65,13 @@ Si les documents que vous avez fournis avec votre demande de coopération sont j
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. Sous **incentives**, sélectionnez **gestion des plans**.
+2. Sous **incentives** , sélectionnez gestion de la **Co-op** .
 
-3. Sélectionnez **gestion des co-opérations**.
+3. Sélectionnez la demande de coopération que vous souhaitez contester. La page de la revendication de la co-op s’ouvre.
 
-4. Sélectionnez la demande de coopération que vous souhaitez contester. La page de la revendication de la co-op s’ouvre.
+4. Au bas de la page, sélectionnez **Litige** .
 
-5. Au bas de la page, sélectionnez **Litige**.
-
-L’équipe de validation des demandes de coopération examinera la demande dans un délai de cinq jours ouvrables. Pendant ce temps, l’état sera **En litige**. Il est possible que nous vous contactions pour vous demander des informations supplémentaires. Une fois l’examen terminé, l’équipe de validation fera passer l’état à **Approuvé**, **Refusé** **Action du partenaire requise**.
+L’équipe de validation des demandes de coopération examinera la demande dans un délai de cinq jours ouvrables. Pendant ce temps, l’état sera **En litige** . Il est possible que nous vous contactions pour vous demander des informations supplémentaires. Une fois l’examen terminé, l’équipe de validation fera passer l’état à **Approuvé** , **Refusé** **Action du partenaire requise** .
 
 ## <a name="next-steps"></a>Étapes suivantes
 

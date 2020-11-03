@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795829"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189745"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Fusionner votre compte partenaire avec un autre compte partenaire
 
@@ -98,18 +98,28 @@ Si vous décidez d’accepter l’invitation pour fusionner les comptes : · Vo
   
     b. un locataire Azure AD = @contoso.com
  
-    c. une compétence Gold qui expire le 1er octobre, 2020
+    c. une compétence Gold qui expire le 1er octobre 2020
 2. Fabricam a
  
     a.  un ID MPN global de 3333333 et deux ID MPN d’emplacement subordonné de 4444444 et 5555555
 
-    b.  un locataire AAD = @fabricam.com
+    b.  un locataire Azure AD = @fabricam.com
 
-    c.  deux compétences Gold qui expirent le 1er décembre 2020
-3.  Contoso achète fabricam et se déplace [ici](https://partner.microsoft.com/dashboard/account/merger) pour lancer une demande de fusion
+    c.  deux compétences Gold expirent le 1er décembre 2020
+3.  Contoso achète fabricam et se déplace [ici](https://partner.microsoft.com/dashboard/account/merger) pour lancer une demande de fusion.
 4.  Fabricam se connecte à l’espace partenaires et accède à la même page que contoso à l’étape #3 pour approuver la demande de contoso.
 5.  Contoso passe en revue les détails de la fusion sur cette même page et fournit une confirmation pour poursuivre la fusion du compte.
+6.  Après la fusion, le compte d’entreprise s’affiche comme suit :
+
+    a.  Une société nommée Contoso avec un ID MPN global de 1111111 et 4 ID MPN d’emplacement subordonné de 2222222, 3333333, 4444444 et 5555555
     
+    b.  Il aura deux locataires Azure AD ( @contoso.com + @fabricam.com ) qui ont accès au même compte espace partenaires
+    
+    c.  Il disposera de deux packages d’avantages de compétence, l’un ayant expiré le 1er octobre 2020 et l’autre qui expire le 1er décembre 2020. Ils pourront renouveler en tant que package d’avantages de compétence unique le 1er décembre 2020. Lors du renouvellement, contoso conserve les trois compétences, même s’il ne peut gérer qu’un seul package d’avantages.
+    
+7.  Les administrateurs de contoso vont continuer à gérer les rôles de l’espace partenaires pour @contoso.com les utilisateurs de. Les administrateurs de fabricam continuent à gérer les rôles de l’espace partenaires pour @fabricam.com les utilisateurs de. Les administrateurs de contoso peuvent uniquement gérer les utilisateurs de fabricam s’ils sont invités en tant qu’invités dans le locataire de fabricam.
+8.  Contoso peut décider d’ignorer le @fabricam.com locataire et de réémettre les nouvelles @contoso.com informations d’identification des employés fabricam avec de nouveaux rôles et autorisations.
+
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)

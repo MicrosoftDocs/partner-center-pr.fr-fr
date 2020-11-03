@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198085"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244061"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -39,8 +39,8 @@ Utilisez ces pages pour afficher les détails de vos paiements et revenus passé
 
 Vous pouvez accéder à des informations sur les incentives de plusieurs manières à partir du [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires :
 
-- Sélectionnez **incentives** dans le menu de gauche. Plusieurs options s’affichent sous **incentives**, y compris la **vue d’ensemble**. Explorez ces options pour connaître l’état des programmes d’incentives, des paiements d’incentives, des revenus et des réclamations.
-- Sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit. Vous pouvez ensuite sélectionner d’autres options, telles que **historique des transactions**, **paiements**, **exporter des données**ou **rapport commercial Office**.
+- Sélectionnez **incentives** dans le menu de gauche. Plusieurs options s’affichent sous **incentives** , y compris la **vue d’ensemble** . Explorez ces options pour connaître l’état des programmes d’incentives, des paiements d’incentives, des revenus et des réclamations.
+- Sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit. Vous pouvez ensuite sélectionner d’autres options, telles que **historique des transactions** , **paiements** , **exporter des données** ou **rapport commercial Office** .
 
 Les pages suivantes sont décrites ici :
 
@@ -62,7 +62,7 @@ Cette page contient également les gains et les paiements par site ou par progra
 Pour accéder à la page **My incentives overview** (Vue d’ensemble de mes incentives) :
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
-2. Sélectionnez **incentives**, puis **vue d’ensemble** dans le menu.
+2. Sélectionnez **incentives** , puis **vue d’ensemble** dans le menu.
 3. Vous pouvez voir le récapitulatif des gains et des paiements en haut de la page, ainsi que des informations supplémentaires dans le tableau ci-dessous. Vous pouvez également trier, regrouper et développer la table qui l’accompagne :
 
    - Pour trier par colonne, sélectionnez le nom de la colonne.
@@ -76,13 +76,13 @@ Pour accéder à la page **My incentives overview** (Vue d’ensemble de mes inc
 >Consultez le tableau suivant pour en savoir plus sur les différents États d’inscription présentés dans la colonne **État** .
 
 
-| **Statut**         | **Visible quand** |
+| **État**         | **Visible quand** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
 | Inscrit  | Toutes les informations fiscales et bancaires ont été validées. Aucune autre action d’inscription n’est requise par le partenaire. |
 | Inscription  | L’utilisateur n’est pas un administrateur d’incentives et l’inscription est dans l' **action requise** ou la validation des États d' **inscription** .|
-| Inactif/inéligible | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription. <br><br> Si l’État n’est pas **éligible**, le partenaire ne répond pas aux conditions d’éligibilité actuelles pour le programme ; Si vous sélectionnez le lien **voir les conditions d’éligibilité** sous l’état de l’inscription, vous verrez les conditions requises pour l’éligibilité et celles qui ont été respectées. <br><br> Vous pouvez également voir un état **inactif** pour les inscriptions d’organisation virtuelle (VORG) ou de compte global de partenaire (PGA) qui ne sont plus actives dans le programme d’incentives.  |
+| Inactif/inéligible | Le programme d’incentives n’est peut-être pas ouvert à l’inscription pour le moment ou le partenaire ne répond pas aux conditions d’inscription ou de réinscription. <br><br> Si l’État n’est pas **éligible** , le partenaire ne répond pas aux conditions d’éligibilité actuelles pour le programme ; Si vous sélectionnez le lien **voir les conditions d’éligibilité** sous l’état de l’inscription, vous verrez les conditions requises pour l’éligibilité et celles qui ont été respectées. <br><br> Vous pouvez également voir un état **inactif** pour les inscriptions d’organisation virtuelle (VORG) ou de compte global de partenaire (PGA) qui ne sont plus actives dans le programme d’incentives.  |
 | Invité  | Une nouvelle invitation d’inscription au programme d’incentives a été envoyée au partenaire, mais le partenaire n’a pas encore démarré le processus d’inscription. La colonne adjacente **actions requises** affiche les étapes suivantes et les liens associés.  |
 | Validation de l’inscription  | Le partenaire a déjà effectué ou mis à jour des informations bancaires et fiscales pour une inscription nouvelle ou existante et attend que Microsoft valide ces informations. Pendant le processus de validation, la validation de l' **inscription** peut s’afficher pendant jusqu’à 48 heures.  |
 
@@ -95,7 +95,7 @@ Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous p
 |Prochain paiement estimé      |Seul le paiement suivant vous vient (même s’il y en a d’autres bientôt disponibles), en dollars américains.                                     |
 |Dernier paiement           |Le montant (en dollars américains), le nom du programme et l’ID MPN de votre dernier paiement.                                      |
 |Paiements par source       |Montant des paiements, en dollars américains, représentés par le programme au cours des 12 derniers mois.                                      |
-|Paiements                       |Sélectionnez **payant** ou **en attente** , puis triez comme vous le souhaitez. Pour plus d’informations sur un paiement spécifique, sélectionnez **affichage**. Pour télécharger une copie du relevé des envois de paiements, sélectionnez **Télécharger**. L’affichage des données de l’historique des transactions peut prendre jusqu’à 24 heures. vous risquez donc de ne pas voir les bénéfices associés immédiatement.  |
+|Paiements                       |Sélectionnez **payant** ou **en attente** , puis triez comme vous le souhaitez. Pour plus d’informations sur un paiement spécifique, sélectionnez **affichage** . Pour télécharger une copie du relevé des envois de paiements, sélectionnez **Télécharger** . L’affichage des données de l’historique des transactions peut prendre jusqu’à 24 heures. vous risquez donc de ne pas voir les bénéfices associés immédiatement.  |
 
 Pour exporter les données de cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données.
 
@@ -106,17 +106,72 @@ Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers 
 
 Pour exporter les données de transaction sur cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données. Les fichiers exportés à partir de la page Historique des transactions affichent les données dans la devise de la transaction, les bénéfices dans la devise de la transaction et en dollars américains, et la valeur payée dans la devise d’arrivée.
 
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Soumettre votre facture fiscale en tant que preuve d’exécution (PoE)
+
+>[!NOTE]
+>Ce contenu se réfère **uniquement** aux partenaires en Inde, en Chine, en Italie, en Corée, au Mexique et à Taïwan. <br><br>Les partenaires en Inde doivent soumettre une copie papier de la facture.
+
+#### <a name="submit-a-tax-invoice"></a>Soumettre une facture d’impôt
+
+Si vous êtes un partenaire dans l’un des pays répertoriés ci-dessus, Microsoft vous avertira par courrier électronique que vous devez envoyer une facture d’impôt pour revendiquer vos revenus. Le courrier électronique que vous recevez fournit des instructions pour l’envoi de votre facture d’impôt et répertorie également les informations supplémentaires requises.
+
+Les partenaires en Inde doivent soumettre leur facture fiscale en copie papier. Les partenaires dans les autres pays peuvent soumettre une copie matérielle ou logicielle.
+
+Vous devez soumettre votre facture fiscale dans un délai de 180 jours à compter de votre demande. Une fois votre facture reçue et validée, nous traiterons le paiement de votre incentive.
+
+Vous devez envoyer les informations suivantes, ainsi que votre facture fiscale :
+
+- Numéro de facture (il s’agit d’un numéro que vous générez) 
+
+- Numéro de référence de l’incentives (CI) de canal (fourni par Microsoft) 
+
+- Nom de votre programme d’incentives
+
+- Nom légal et adresse de facturation dans votre profil de partenaire 
+
+- Montant des bénéfices
+
+- Montant des taxes
+
+Si vous ne connaissez pas le numéro de référence de vos incentives de canal, vous pouvez le trouver dans les trois emplacements suivants : 
+
+- Notification par e-mail que Microsoft envoie à votre administrateur d’incentives. 
+
+- Le [tableau de bord espace partenaires](https://partner.microsoft.com/dashboard/) (connexion obligatoire), à la fois dans l’onglet **payant** et dans l’onglet **en attente** .  
+
+- Votre rapport de paiement, situé sur la [page d’exportation](/partner-center/understand-incentive-payouts#payment-download-export)de votre paiement. 
+
+#### <a name="if-your-submission-is-rejected"></a>Si votre soumission est rejetée
+
+La cause la plus probable d’une soumission rejetée est si les informations sur la facture de taxe ne correspondent pas aux informations contenues dans nos enregistrements. Voici quelques exemples de données manquantes ou incorrectes : 
+
+- Le numéro d’impôt sur les biens et services de votre entreprise (TPS)
+
+- Votre système harmonisé de nomenclature (HSN) et de codes de comptabilité de service (SAC)
+
+- Numéro de facture (ne doit pas dépasser 16 chiffres)
+
+- Date de facture
+
+- Valeur de taxe (inclusive et exclusive)
+
+- Si votre société est dans le même État que Microsoft, les pourcentages de taxe pour les CGST et les taxes de service et de services d’État (SGST) doivent être alignés.
+
+- Si votre société est dans un état différent de Microsoft, vous devez fournir le pourcentage de la taxe sur les biens et services (IGST).
+
+Les soumissions peuvent également être rejetées si elles sont fournies plus de 180 jours après la revendication, si la facture n’est pas valide ou si les données ont été entrées de manière incorrecte.
+
 ### <a name="estimated-payment-month"></a>Mois de paiement estimé
 
 La page historique des transactions comprend désormais un tableau qui indique le montant des paiements estimés pour les prochains mois. Vous pouvez également afficher et télécharger ces informations dans l’historique des transactions et les exportations du rapport de synthèse. Ces informations facilitent les réconciliations et les projections de paiement.
 
 Le mois de paiement estimé est calculé en fonction des règles et des chronologies de la configuration du programme, et est traité dans le prochain cycle de paiement.
 
-Le mois de paiement estimé est actuellement disponible pour tous les types de gains, à l’exception de la co-op, qui s’affichera comme **non applicable**. Pour les revenus antérieurs au 1er juillet 2020, le mois de paiement estimé apparaît comme étant **non disponible**.
+Le mois de paiement estimé est actuellement disponible pour tous les types de gains, à l’exception de la co-op, qui s’affichera comme **non applicable** . Pour les revenus antérieurs au 1er juillet 2020, le mois de paiement estimé apparaît comme étant **non disponible** .
 
 #### <a name="estimated-payment-month-example"></a>Exemple de mois de paiement estimé
 
-| Month | Montant |
+| Month (Mois) | Montant |
 | ------ | :-----------: |
 |  Sep-2020 |  $7 273,99   |
 |  Oct-2020 | $8 692,30  |
@@ -144,7 +199,7 @@ Notez que votre paiement n’est publié que dans le mois projeté si le seuil e
 |À venir      |Commande de paiement générée en attente de révisions internes avant le traitement du paiement.       |Non       |
 |Facture fiscale en attente      |Votre facture fiscale est incomplète ou non valide.          |Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé         |
 |Rejeté pendant la vérification        |Le paiement a été rejeté pendant la révision.          |Contactez le Support Microsoft pour obtenir des détails         |
-|Failed        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
+|Échec        |Le paiement a échoué en raison d’une erreur système Microsoft.         |Contacter le support Microsoft pour plus d’informations         |
 |En cours     |Le paiement est en cours.         |Non         |
 |Paiement incorrect        |Le remboursement est en cours.          |Non        |
 |Envoyé        |Le paiement a été envoyé à votre banque.          |Non       |
@@ -165,7 +220,7 @@ Voici quelques considérations à prendre en compte lorsque vous essayez d’exp
 
 - La page Exporter les données ne s’actualise pas automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes.
 
-- Votre filtre peut déclencher l’erreur **Pas de données disponibles**. Cette erreur signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
+- Votre filtre peut déclencher l’erreur **Pas de données disponibles** . Cette erreur signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
 
 ## <a name="payment-download-export"></a>Exportation du téléchargement de paiement
 Cette option vous permet de télécharger les paiements que vous avez reçus à votre banque pour un programme donné, les taxes associées et le montant cumulé des bénéfices.
@@ -276,7 +331,7 @@ Le rapport Résumé de la transaction fournit des détails sur les transactions 
 ### <a name="download-the-transaction-summary-report"></a>Télécharger le rapport Résumé de la transaction
 
 1. Sur la page de **Présentation des incentives** , sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit.
-2. Sélectionner **Exporter des données**.
+2. Sélectionner **Exporter des données** .
 3. Sélectionnez l’onglet Résumé de la **transaction** .
 4. Sélectionnez les filtres appropriés pour voir les programmes et les leviers éligibles à des revenus agrégés. Si aucune donnée n’est affichée, vos programmes ne sont pas éligibles à des leviers agrégés.
 5. Sélectionnez **Démarrer le téléchargement**   pour exporter le rapport.  
