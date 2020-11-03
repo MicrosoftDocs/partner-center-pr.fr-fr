@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917210"
+ms.locfileid: "93027888"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces du mois d’octobre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[La mise à niveau vers Windows 10 Éducation est désormais disponible pour les clients éligibles du Fournisseur de solutions Cloud (CSP)](2020-october.md#16)|28 octobre|
 |Fonctions|[Actualisation de l’expérience numérique CSP (Cloud Solution Provider) maintenant disponible](2020-october.md#15)|28 octobre|
 |Fonctions|[Introduction d’un standard de performances pour les besoins des partenaires en facturation directe dans le programme CSP (Cloud Solution Provider)](2020-october.md#13)|27 octobre|
 |Offres/marchés|[Mises à jour des prix de vente des abonnements aux logiciels CSP (Cloud Solution Provider) - octobre 2020](2020-october.md#14)|26 octobre|
