@@ -623,7 +623,7 @@
               href: pci-customer-report.md
             - name: Analytique Microsoft Learn
               href: ms-learn-analytics.md
-            - name: Vue d'ensemble
+            - name: Vue d’ensemble
               href: pci-overview-report.md
             - name: Licences de produits
               href: pci-product-licenses-report.md
@@ -710,13 +710,10 @@
       displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
 - name: Spécifications de sécurité
   items:
-    - name: Vue d’ensemble
+    - name: Présentation de la sécurité
       href: partner-security-requirements.md
     - name: Imposer l’authentification multifacteur à votre locataire partenaire
       href: partner-security-requirements-mandating-mfa.md
-      displayName: csp
-    - name: Configurer vos utilisateurs avec l’authentification multifacteur
-      href: mfa-for-users.md
       displayName: csp
     - name: État de la configuration requise
       href: partner-security-compliance.md
