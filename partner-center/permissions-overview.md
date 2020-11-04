@@ -1,7 +1,7 @@
 ---
 title: Attribuer des rôles et des autorisations aux utilisateurs
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Apprenez à identifier les rôles les mieux adaptés aux utilisateurs de votre entreprise qui gèrent les transactions commerciales, les références, les incentives ou les adhésions MPN dans l’Espace partenaires.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006803"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133029"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Attribuer des rôles et des autorisations aux utilisateurs d’une entreprise qui ont besoin de travailler dans l’Espace partenaires
 
@@ -97,8 +97,6 @@ Les CPV développent des applications utilisées par les partenaires fournisseur
 |**Utilisateur invité**   | **Rôles**|
 |---------------------------|:--------------------|
 ||Administrateur partenaire MPN|
-||Administrateur des comptes|
-||Administrateur de primes incitatives|
 ||Administrateur de profils métier|
 ||Administrateur des références|
 

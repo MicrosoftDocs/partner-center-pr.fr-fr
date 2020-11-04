@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031782"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132842"
 ---
 # <a name="february-2020-announcements"></a>Annonces de février 2020
 
@@ -169,13 +169,13 @@ _________________
 
 ### <a name="summary"></a>Résumé :
 
-Il s’agit d’une importante mise à jour concernant les [exigences de sécurité obligatoires que les partenaires doivent respecter](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). À partir du **29 février 2020**, les [stratégies de référence Azure Active Directory (Azure AD) seront supprimées](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) et remplacées par les « paramètres de sécurité par défaut », ensemble plus complet de stratégies de protection pour vous et vos clients. Les paramètres de sécurité par défaut d’Azure AD peuvent contribuer à protéger votre organisation avec des paramètres de sécurité préconfigurés pour les attaques courantes.
+Il s’agit d’une importante mise à jour concernant les [exigences de sécurité obligatoires que les partenaires doivent respecter](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). À partir du **29 février 2020** , les [stratégies de référence Azure Active Directory (Azure AD) seront supprimées](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) et remplacées par les « paramètres de sécurité par défaut », ensemble plus complet de stratégies de protection pour vous et vos clients. Les paramètres de sécurité par défaut d’Azure AD peuvent contribuer à protéger votre organisation avec des paramètres de sécurité préconfigurés pour les attaques courantes.
 
 Notre système indique que votre organisation utilise actuellement des stratégies de base, mais qu'elle n'est pas encore passée aux paramètres de sécurité par défaut. **Si vous ne passez pas aux paramètres de sécurité par défaut avant le 29 février, vous perdrez l'authentification multifacteur (MFA) activée avec les stratégies de base sur vos locataires partenaires. Veuillez activer les paramètres de sécurité par défaut dès que possible pour éviter toute interruption d'activité**.
 
 ### <a name="key-considerations"></a>Considérations importantes
 
-La stratégie Paramètres de sécurité par défaut est l’une des [options](../partner-security-requirements.md#actions-that-you-need-to-take) que les partenaires peuvent choisir pour implémenter l’authentification multifacteur (MFA) pour répondre aux exigences de sécurité en fonction de leurs besoins métier. Elle offre un niveau de sécurité de base sans coût supplémentaire. Étudiez [le mode d'activation de l'authentification multifacteur pour votre organisation avec Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) et les principales considérations ci-dessous :
+La stratégie Paramètres de sécurité par défaut est l’une des [options](../partner-security-requirements.md#implementing-multi-factor-authentication) que les partenaires peuvent choisir pour implémenter l’authentification multifacteur (MFA) pour répondre aux exigences de sécurité en fonction de leurs besoins métier. Elle offre un niveau de sécurité de base sans coût supplémentaire. Étudiez [le mode d'activation de l'authentification multifacteur pour votre organisation avec Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) et les principales considérations ci-dessous :
 
 - Pour les partenaires qui utilisent l’[accès conditionnel](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), les paramètres de sécurité par défaut ne sont pas disponibles.
 - Les paramètres de sécurité par défaut appliquent toutes les stratégies à la fois, notamment la stratégie MFA pour les administrateurs, la stratégie de protection des utilisateurs finaux et l’authentification multifacteur nécessaire pour la gestion des services.
