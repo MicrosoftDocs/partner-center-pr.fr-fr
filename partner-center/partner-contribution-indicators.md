@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution des partenaires
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez sept indicateurs de contribution partenaires (PCI) qui montrent comment vous travaillez avec Dynamics 365 engagement client ou Dynamics 365 Finance and Operations.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175027"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344389"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Les indicateurs de contribution partenaires (PCI) indiquent l’impact du partenaire sur sept mesures clés de la réussite du client
 
@@ -42,23 +42,23 @@ PCI offre une vue sophistiquée des capacités techniques d’un partenaire, de 
 
 *Indicateurs de performance :*
 
-1. **Net New revenue**: net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions du chiffre d’affaires net New](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Net New revenue** : net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions du chiffre d’affaires net New](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. Le **client net ajoute**: clients net acquis pour Dynamics 365 sur tous les canaux de vente. (Pour plus d’informations sur cette mesure, consultez [définitions pour les ajouts de clients net](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. Le **client net ajoute** : clients net acquis pour Dynamics 365 sur tous les canaux de vente. (Pour plus d’informations sur cette mesure, consultez [définitions pour les ajouts de clients net](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Indicateurs de capacité :*
 
-3. **Consultants fonctionnels**: nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les consultants fonctionnels](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+3. **Consultants fonctionnels** : nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les consultants fonctionnels](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Croissance du consultant fonctionnel**: croissance du nombre d’associés aux consultants fonctionnels.  L’instantané de référence pour la mesure de croissance du consultant fonctionnel dans PCI sera maintenant pris le 1er octobre 2020. (Pour plus d’informations sur cette mesure, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+4. **Croissance du consultant fonctionnel** : croissance du nombre d’associés aux consultants fonctionnels.  L’instantané de référence pour la mesure de croissance du consultant fonctionnel dans PCI sera maintenant pris le 1er octobre 2020. (Pour plus d’informations sur cette mesure, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
 
-5. **Développeurs**: nombre d’individus titulaires d’une certification actuellement active Developer Associate pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les développeurs](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+5. **Développeurs** : nombre d’individus titulaires d’une certification actuellement active Developer Associate pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les développeurs](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
 
 *Indicateurs de réussite du client :*
 
-6. **Nouveaux déploiements à grande échelle**: nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour les nouveaux déploiements à grande échelle](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+6. **Nouveaux déploiements à grande échelle** : nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour les nouveaux déploiements à grande échelle](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
 
-7. **Croissance mensuelle**des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour la croissance mensuelle des utilisateurs actifs](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
+7. **Croissance mensuelle** des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour la croissance mensuelle des utilisateurs actifs](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Impact du score PCI sur l’éligibilité des compétences
 Des points sont accordés pour chaque indicateur atteint, ce qui aboutit à un score PCI à un seul numéro. 100 points au maximum sont possibles. 
@@ -89,7 +89,7 @@ Chaque indicateur fait apparaître un score qui est ajouté au total. Voici les 
 |Succès client-croissance mensuelle des utilisateurs actifs  | 25 points |
 
 L’image suivante offre une référence visuelle rapide.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Affiche les scores PCI pour obtenir une compétence Silver ou Gold." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Affiche un graphique avec des scores maximaux possibles pour chacun des sept indicateurs de contribution partenaires (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Seuils pour chaque métrique PCI
 
@@ -111,8 +111,8 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | 300 000 $ | 10 points | 10 points | *\* Voir la remarque* | 5 points | 5 points | 25 % |
-| **Pays** | $150 000 | 5 points | 5 points |*\* Voir la remarque* | 2 points | 1 point | 25 % |
+| **Fruit** | 300 000 $ | 10 | 10 | *\* Voir la remarque* | 5 | 5 | 25 % |
+| **Pays** | $150 000 | 5  | 5  |*\* Voir la remarque* | 2 | 1 | 25 % |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base. Consultez le [tableau 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) pour les cibles de croissance.*
 
@@ -122,8 +122,8 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | 300 000 $ | 3 points | 15 points | *\* Voir la remarque* | 5 points | 3 points | 25 % |
-| **Pays** | $150 000 | 1 point | 5 points |*\* Voir la remarque* | 2 points | 1 point | 25 % |
+| **Fruit** | 300 000 $ | 3 | 15 | *\* Voir la remarque* | 5  | 3 | 25 % |
+| **Pays** | $150 000 | 1 | 5 |*\* Voir la remarque* | 2 | 1 | 25 % |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base. Consultez le [tableau 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) pour les cibles de croissance.*
 
@@ -313,7 +313,7 @@ L’illustration suivante montre comment lire certains zones et graphiques dans 
 
 Pour plus d’informations sur l’utilisation de cette zone, consultez la collection des ressources et des vidéos qui se trouvent à la fin de cet article.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Affiche les scores PCI pour obtenir une compétence Silver ou Gold.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Comment lire le graphique":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 
