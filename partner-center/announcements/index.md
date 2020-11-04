@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133012"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327255"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-| **Catégorie** | **Annonces du mois d’octobre 2020** | **Annoncé** |
+| **Catégorie** | **Annonces de novembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Offres/marchés|[La mise à niveau vers Windows 10 Éducation est désormais disponible pour les clients éligibles du Fournisseur de solutions Cloud (CSP)](2020-november.md#4)|2 novembre|
+|Offres/marchés|[Actualisation de l’expérience numérique des CSP (Cloud Solution Provider) maintenant disponible - octobre 2020](2020-november.md#3)|2 novembre|
+|Offres/marchés|[Mises à jour des prix de vente des abonnements aux logiciels CSP (Cloud Solution Provider) - octobre 2020](2020-november.md#2)|2 novembre|
+|Offres/marchés|[Introduction d’un standard de performances pour les besoins des partenaires en facturation directe dans le programme CSP (Cloud Solution Provider)](2020-november.md#1)|2 novembre|
+| **Catégorie** | **Annonces du mois d’octobre 2020** | **Date** |
 |Fonctions|[Mises à jour des fonctionnalités d’abonnements au logiciel Windows Server](2020-october.md#17)|29 octobre|
 |Fonctions|[La mise à niveau vers Windows 10 Éducation est désormais disponible pour les clients éligibles du Fournisseur de solutions Cloud (CSP)](2020-october.md#16)|28 octobre|
 |Fonctions|[Actualisation de l’expérience numérique CSP (Cloud Solution Provider) maintenant disponible](2020-october.md#15)|28 octobre|
