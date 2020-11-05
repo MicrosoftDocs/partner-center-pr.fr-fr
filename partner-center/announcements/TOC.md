@@ -1,4 +1,5 @@
 # [Espace partenaires - Annonces](index.md)
+# [Novembre 2020](2020-november.md)
 # [Octobre 2020](2020-october.md)
 # [Septembre 2020](2020-september.md)
 # [Août 2020](2020-august.md)
