@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795811"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132825"
 ---
 # <a name="october-2020-announcements"></a>Annonces du mois d’octobre 2020
 
@@ -22,7 +22,134 @@ Cette page détaille les annonces de l’Espace partenaires Microsoft pour octob
 
 Annonces 2020 :  [Mars](2020-march.md) | [Avril](2020-april.md) | [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | [Septembre](2020-september.md) | Octobre
 
-________________________________
+______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Mises à jour des fonctionnalités des abonnements au logiciel Windows Server
+
+### <a name="categories"></a>Catégories
+
+- Date : 2020-10-29
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires du programme Fournisseurs de solutions Cloud (CSP) qui ont déjà acheté des abonnements au logiciel Windows Server Standard
+
+### <a name="details"></a>Détails
+
+Microsoft a annoncé la publication d’une nouvelle mise à jour de fonctionnalité pour les abonnements au logiciel Windows Server dans le cadre du programme Fournisseur de solutions Cloud le 30 octobre 2020. La mise à jour concerne les produits suivants des abonnements au logiciel Windows Server : Windows Server Standard, **version 20H2** (ID de produit du fournisseur de solutions Cloud : DG7GMGF0DVT9). Le fichier de téléchargement mis à jour est maintenant disponible pour ce produit. Les partenaires peuvent télécharger le fichier le plus récent pour bénéficier des nouvelles fonctionnalités.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Veuillez communiquer ces informations aux contacts concernés de votre organisation.
+- Passez en revue la [documentation de Windows Server version 20H2](/windows/release-information/status-windows-10-20h2)
+
+________________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>La mise à niveau vers Windows 10 Éducation est désormais disponible pour les clients Éducation éligibles du fournisseur de solutions Cloud
+
+### <a name="categories"></a>Catégories
+
+- Date : 2020-10-28
+- Fonctions
+
+### <a name="summary"></a>Résumé
+
+Les partenaires CSP qui ont acheté des abonnements Microsoft 365 A3/A5 ou Windows 10 Entreprise A3/A5 pour leurs clients Éducation peuvent désormais les aider à mettre à niveau leurs appareils Windows 10 Famille vers Windows 10 Éducation.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires CSP ayant acheté des abonnements Microsoft 365 A3/A5 ou Windows 10 Entreprise A3/A5 pour leurs clients Éducation
+
+### <a name="details"></a>Détails
+
+À compter du 1er novembre 2020, les fournisseurs de solutions Cloud qui ont acheté des abonnements Microsoft 365 A3/A5 ou Windows 10 Entreprise A3/A5 peuvent aider leurs clients Éducation à passer de Windows 10 Famille à Windows 10 Éducation, cette édition étant conçue pour l’apprentissage en classe et à distance.
+
+À compter du 1er novembre 2020, Windows 10 Famille est un système d’exploitation éligible pour les clients Éducation titulaires d’une licence par le biais du contrat Microsoft Cloud (dans le cadre du programme CSP). Cette éligibilité, qui jusqu’à présent n’était disponible que dans les programmes de licence en volume (VL), a été activée par le biais du support du portail d’administration Microsoft 365. 
+
+#### <a name="how-the-upgrade-process-works"></a>Fonctionnement du processus de mise à niveau
+
+Les partenaires CSP peuvent aider leurs clients à effectuer la mise à niveau en soumettant une demande de support en leur nom. Le support Microsoft examine la demande pour vérifier que votre client est éligible. Une fois la demande approuvée, la clé Windows 10 Professionnel Éducation est remise au client.
+
+Quand le client installe la clé et que l’appareil est joint au domaine du locataire par le biais d’Azure Active Directory (AAD), l’appareil est automatiquement mis à niveau vers Windows 10 Éducation (abonnement).   
+
+Vous trouverez plus d’informations sur la mise à niveau des clients dans [le guide pas à pas et le forum aux questions](../upgrade-windows-to-education.md).
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Informez vos clients éligibles et guidez-les tout au long du processus.
+- Partagez ces informations avec les personnes concernées dans votre organisation.  
+
+________________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15">Expérience numérique actualisée du programme Fournisseur de solutions Cloud (CSP) maintenant disponible</a>
+
+### <a name="categories"></a>Catégories
+
+- Date : 2020-10-28
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires CSP
+
+### <a name="details"></a>Détails
+
+Microsoft s’engage à aider ses partenaires à optimiser leur potentiel, à créer des solutions novatrices et à accroître la réussite de leurs clients dans le Microsoft Partner Network. Le programme Fournisseur de solutions Cloud (CSP) est l’un de nos programmes qui se développent le plus rapidement avec plus de 90 000 entreprises participantes.
+Pour accélérer la croissance de l’activité des partenaires dans le programme CSP, nous proposons une expérience numérique actualisée du CSP sur le site web du Microsoft Partner Network et un nouveau guide sur le CSP. Cette expérience remaniée et les nouvelles ressources aideront les partenaires à débloquer des opportunités et à développer leur activité plus efficacement dans le cadre du CSP.
+
+Cette nouvelle expérience numérique comprend :
+
+- Expérience numérique du CSP actualisée pour accélérer la croissance des entreprises partenaires :  La page CSP actualisée offre une expérience simplifiée qui guide le partenaires tout au long du parcours : inscription, mise en place de pratiques, Go-to-Market et vente. Les partenaires peuvent accroître leurs opportunités de revenus grâce à des campagnes de vente et à des ressources Go-to-Market. D’autres ressources intégrées aident les partenaires à rester informés et à réaliser facilement des affaires dans le cadre du programme CSP.
+- Nouveau guide du programme Fournisseur de solutions Cloud pour aider les partenaires à identifier de nouvelles opportunités :  Ce guide pas à pas fournit aux partenaires des conseils sur la façon d’accélérer la croissance de leur activité dans le cloud avec le programme et de développer des opportunités de revenus.
+- Contenu du programme CSP dans Solution Workspace : Solution Workspace est une expérience numérique qui regroupe en un seul endroit les ressources à la demande pour vous aider à commercialiser vos idées plus rapidement. Désormais, les fournisseurs de services peuvent trouver le contenu et les ressources spécifiques au programme CSP dans Solution Workspace.
+
+### <a name="additional-resources"></a>Ressources supplémentaires
+
+- Visiter [la page CSP actualisée](https://aka.ms/CSP) 
+- Passer en revue [le nouveau guide du programme CSP](https://aka.ms/cspguidebook) et en savoir plus sur les opportunités de croissance
+- Commencer à utiliser Solution Workspace pour établir vos pratiques et simplifier vos étapes
+- Augmenter le nombre de campagnes avec des ressources pour plans de ventes 
+- Encouragez vos collègues à visiter la page CSP et à partager les ressources ci-dessus dans votre organisation. Si vous êtes un fournisseur indirect, partagez les ressources avec vos revendeurs indirects.
+
+________________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Mises à jour des tarifs des abonnements aux logiciels dans le cadre du programme Fournisseur de solutions Cloud (CSP) - octobre 2020
+
+### <a name="categories"></a>Catégories
+
+- Date : 2020-10-26
+- Offres/marchés
+ 
+### <a name="summary"></a>Résumé
+
+Les tarifs des abonnements aux logiciels pour octobre 2020 ont été mise à jour.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires effectuant des transactions commerciales dans le cadre du programme Fournisseur de solutions cloud
+
+### <a name="details"></a>Détails
+
+Les tarifs des abonnements aux logiciels pour octobre 2020 ont été mis à jour pour inclure deux produits précédemment omis.
+
+Les [mises à jour de sécurité étendues pour Windows 7, deuxième année](#3) (Windows 7 Year 2 ESU) étaient disponible en octobre 2020. Les prix de la deuxième année figurent désormais dans les tarifs des abonnements aux logiciels.
+- ID de produit : DG7GMGF0FL73
+- ID de référence SKU : 0003
+
+[Azure SQL Edge](2020-september.md#9) a été publié fin septembre 2020. Il figure désormais dans les tarifs actuels de l’Espace partenaires. 
+- ID de produit : DG7GMGF0GJC2
+
+Tous les tarifs de l’Espace partenaires pour CSP sont disponibles. Pour cela, il suffit de se connecter à l’Espace partenaires et d’accéder à Ventes/Offres, puis à Tarification.
+
+### <a name="additional-resources"></a>Ressources supplémentaires
+
+- [Page du Forum aux questions sur le support de Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Support de Windows 7 et des applications Microsoft 365](/deployoffice/endofsupport/windows-7-support)
+- [Galerie de ressources des mises à jour de sécurité étendues de Windows 7](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Site Azure SQL Edge](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Introduction d’un standard de performances pour les besoins des partenaires à facturation directe dans le programme Fournisseur de solutions Cloud
 
@@ -45,7 +172,7 @@ La croissance et l’optimisation du programme Fournisseur de solutions Microsof
 
 Aujourd’hui, nous partageons quelques modifications à venir des exigences pour les partenaires à facturation directe dans le programme Fournisseur de solutions Cloud.
 
-Tout d’abord, **nous introduisons un standard de performances dans le cadre des exigences pour les partenaires à facturation directe** . Les partenaires qui souhaitent s’inscrire en tant que partenaires à facturation directe au programme Fournisseur de solutions Cloud doivent avoir réalisé un chiffre d’affaires d’au moins 300 000 USD dans le cadre du programme Fournisseur de solutions Cloud au cours des 12 mois qui précèdent la date de renouvellement de leur [contrat de support requis](https://partner.microsoft.com/support/partnersupport).
+Tout d’abord, **nous introduisons un standard de performances dans le cadre des exigences pour les partenaires à facturation directe**. Les partenaires qui souhaitent s’inscrire en tant que partenaires à facturation directe au programme Fournisseur de solutions Cloud doivent avoir réalisé un chiffre d’affaires d’au moins 300 000 USD dans le cadre du programme Fournisseur de solutions Cloud au cours des 12 mois qui précèdent la date de renouvellement de leur [contrat de support requis](https://partner.microsoft.com/support/partnersupport).
 
 Ce standard de performances prendra effet en janvier 2021 pour les partenaires à facturation directe actuels, et vous devrez satisfaire aux exigences avant la date de renouvellement de votre plan de support partenaire.
 
@@ -63,7 +190,7 @@ Passez en revue les recommandations et les [exigences mises à jour pour les par
 
 Les **partenaires existants** qui sont inscrits au programme Fournisseur de solutions Cloud en tant que partenaires à facturation directe devront respecter le nouveau standard de performances à partir de janvier 2021. Vous aurez le temps de satisfaire aux exigences avant la prochaine date de renouvellement de votre plan de support partenaire. Vous pouvez consulter votre chiffre d’affaires sur les douze derniers mois dans l’Espace partenaires en suivant [ce guide](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf).
 
-Les nouveaux partenaires qui s’inscrivent au programme Fournisseur de solutions Cloud commenceront en tant que revendeurs indirects à compter d’ **octobre 2020** . Ils doivent avoir réalisé un chiffre d’affaires d’au moins 300 000 USD dans le cadre du programme Fournisseur de solutions Cloud au cours des 12 mois précédents. Vous pouvez consulter votre chiffre d’affaires sur les 12 derniers mois dans l’Espace partenaires en suivant [ce guide](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
+Les nouveaux partenaires qui s’inscrivent au programme Fournisseur de solutions Cloud commenceront en tant que revendeurs indirects à compter d’ **octobre 2020**. Ils doivent avoir réalisé un chiffre d’affaires d’au moins 300 000 USD dans le cadre du programme Fournisseur de solutions Cloud au cours des 12 mois précédents. Vous pouvez consulter votre chiffre d’affaires sur les 12 derniers mois dans l’Espace partenaires en suivant [ce guide](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
 
 2. **Exigence pour le contrat de support** 
 

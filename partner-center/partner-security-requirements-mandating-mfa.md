@@ -1,7 +1,7 @@
 ---
-title: Imposer l’authentification multifacteur à votre locataire partenaire
+title: Imposer l’authentification multifacteur (MFA) à votre locataire partenaire
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment le fait d’imposer l’authentification multifacteur à vos locataires partenaires contribuera à sécuriser votre accès aux ressources client. Inclut des exemples de scénarios.
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680412"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133103"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Imposer l’authentification multifacteur (MFA) à votre locataire partenaire
 
 **S’applique à**
 
 - Tous les partenaires du programme Fournisseur de solutions Cloud
-  - Facturation directe
-  - Fournisseurs indirects
-  - Revendeur indirect
+- Tous les fournisseurs de panneau de contrôle
 - Tous les conseillers
 
 **Rôles affectés**
@@ -34,18 +32,15 @@ ms.locfileid: "92680412"
 - Administrateur de facturation
 - Administrateur général
 
-L’objectif de cette fonctionnalité est d’aider les partenaires à sécuriser leur accès aux ressources client contre toute compromission des informations d’identification.
-Les partenaires doivent mettre en œuvre l’authentification multifacteur (MFA) pour tous les comptes d’utilisateur de leur locataire partenaire, y compris l’utilisateur invité. Avec cette fonctionnalité, ces rôles de partenaire seront contraints d’effectuer la vérification MFA pour les zones suivantes :
+Cet article donne des exemples et des conseils détaillés pour imposer l’authentification multifacteur (MFA) dans l’Espace partenaires. L’objectif de cette fonctionnalité est d’aider les partenaires à sécuriser leur accès aux ressources client contre toute compromission des informations d’identification. Les partenaires sont tenus d’appliquer MFA à tous les comptes d’utilisateur de leur locataire partenaire, y compris les utilisateurs invités. Les utilisateurs seront chargés d’effectuer la vérification MFA pour les domaines suivants :
 
 - [Tableau de bord de l’Espace partenaires](#partner-center-dashboard)
 - [API d’Espace partenaires](#partner-center-api)
 - [Administration déléguée de partenaire](#partner-delegated-administration)
 
-La qualité et la continuité des mesures de sécurité et de confidentialité font partie de nos principales priorités, et nous continuons à aider les partenaires à protéger leurs clients et leurs locataires. Tous les partenaires qui participent au programme Fournisseur de solutions Microsoft Cloud (CSP), les fournisseurs de panneau de contrôle et les conseillers Advisor doivent implémenter les [Exigences de sécurité du partenaire](partner-security-requirements.md) pour rester conformes.
+La qualité et la continuité des mesures de sécurité et de confidentialité font partie de nos principales priorités, et nous continuons à aider les partenaires à protéger leurs clients et leurs locataires. Tous les partenaires qui participent au programme Fournisseur de solutions Microsoft Cloud (CSP), les fournisseurs de panneau de contrôle (CPV) et les conseillers Advisor doivent implémenter les [exigences de sécurité du partenaire](partner-security-requirements.md) pour rester conformes.
 
-Pour aider les partenaires à protéger leurs activités et leurs clients contre les incidents liés au vol d’identité, nous avons activé les mesures de sécurité supplémentaires pour les locataires de partenaires qui peuvent aider les partenaires à protéger leurs locataires et leurs clients en exigeant une vérification avec authentification multifacteur (MFA) pour empêcher tout accès non autorisé. 
-
-Cette documentation fournit aux partenaires une expérience détaillée et des conseils sur l’activation des mesures de sécurité.
+Pour aider les partenaires à protéger leurs entreprises et leurs clients contre l’usurpation d’identité et l’accès non autorisé, nous avons activé des protections de sécurité supplémentaires pour les locataires partenaires qui imposent et vérifient MFA. 
 
 ## <a name="partner-center-dashboard"></a>Tableau de bord de l’Espace partenaires
 
@@ -55,23 +50,20 @@ Certaines pages du tableau de bord de l’Espace partenaires seront protégées 
 - Toutes les pages sous l’onglet **Support > Demandes client** , par exemple la page accessible sous https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Page de facturation
 
-Si vous essayez d’accéder à l’une de ces pages alors que vous n’avez pas encore effectué la vérification MFA, vous êtes tenu de l’effectuer.
-
-> [!NOTE]
-> Les autres pages de l’espace partenaires, telles que la page de vue d’ensemble et la page de vérification de l’état d’intégrité des services, ne seront pas protégées par MFA.
-
-Les types d’utilisateurs suivants sont autorisés à accéder à ces pages protégées par MFA et sont donc affectés par cette fonctionnalité :
+Le tableau suivant montre les types d’utilisateurs qui sont autorisés à accéder à ces pages protégées par MFA (et qui sont donc affectés par cette fonctionnalité).
 
 
-| Pages protégées par MFA       | Agents d’administration      |  Agents commerciaux     |   Agents du support technique     | Administrateur général      |  Administrateur de facturation     | 
+| Page protégée par MFA       | Agents d’administration      |  Agents commerciaux     |   Agents du support technique     | Administrateur général      |  Administrateur de facturation     | 
 |---    |---    |---    |---    |---    |---    |
 | Toutes les pages sous l’onglet Clients      |   x    |    x   |  x     |       |       |
 | Toutes les pages sous l’onglet Support > Demandes client     | x      |       |    x   |       |       |
 | Page de facturation     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>Exemples illustrant le fonctionnement de la vérification
+Si vous essayez d’accéder à l’une de ces pages alors que vous n’avez pas encore effectué la vérification MFA, vous êtes tenu de l’effectuer. Les autres pages de l’Espace partenaires, telles que la page de vue d’ensemble et la page de vérification de l’état d’intégrité des services, ne nécessitent pas MFA.
 
-Pour illustrer le fonctionnement de la vérification, prenez en compte les deux exemples suivants.
+## <a name="verification-examples"></a>Exemples de vérification
+
+Pour illustrer le fonctionnement de la vérification dans le tableau de bord de l’Espace partenaires, examinez les exemples suivants.
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Exemple 1 : Le partenaire a implémenté l’authentification multifacteur Azure AD
 
@@ -108,7 +100,7 @@ Pour illustrer le fonctionnement de la vérification, prenez en compte les deux 
 6. John tente d’accéder à l’une des pages protégées par authentification multifacteur dans l’Espace partenaires. Comme John n’a pas effectué la vérification MFA, l’Espace partenaires redirige John vers Azure AD pour lui permettre d’effectuer la vérification MFA. John s’étant inscrit pour l’authentification MFA, cette fois-ci il lui suffit de procéder à la vérification MFA.
 
 > [!NOTE]
->Action : L’administrateur de la société doit mettre en œuvre l’authentification MFA maintenant via l’une de ces [options](partner-security-requirements.md#actions-that-you-need-to-take) proposées par l’Espace partenaires.
+>Action : Les administrateurs d’entreprise ont [trois options](partner-security-requirements.md#implementing-multi-factor-authentication) pour implémenter MFA.
 
 ## <a name="partner-center-api"></a>API d’Espace partenaires
 
@@ -117,7 +109,7 @@ L’API d’Espace partenaires prend en charge l’authentification d’applicat
 Lorsque l’authentification Application+Utilisateur est utilisée, l’Espace partenaires exige la vérification MFA. Plus précisément, lorsqu’une application partenaire souhaite envoyer une demande d’API à l’Espace partenaires, elle doit inclure un jeton d’accès dans l’en-tête d’autorisation de la demande. 
 
 > [!NOTE]
->Le [modèle d’application sécurisée](/partner-center/develop/enable-secure-app-model) est un framework sécurisé et scalable pour l’authentification des partenaires CSP et des CPV via l’architecture MFA Microsoft Azure. Quand vous appelez l’API de l’Espace partenaires, vous devez l’implémenter avant d’activer MFA sur votre locataire. 
+>Le [modèle d’application sécurisé](/partner-center/develop/enable-secure-app-model) est un framework scalable pour l’authentification des partenaires CSP et des CPV par le biais de l’architecture Microsoft Azure MFA lors de l’appel des API de l’Espace partenaires. Vous devez implémenter ce framework avant d’activer MFA sur votre locataire. 
 
 Quand l’Espace partenaires reçoit une demande d’API avec un jeton d’accès obtenu à l’aide de l’authentification Application+Utilisateur, l’API de l’Espace partenaires vérifie la présence de la valeur *MFA* dans la revendication de *référence de méthode d’authentification (AMR)* . Vous pouvez utiliser un décodeur JWT pour vérifier si un jeton d’accès contient la valeur de référence de méthode d’authentification (AMR) attendue ou non :
 
@@ -163,17 +155,17 @@ Quand l’authentification d’application uniquement est utilisée, les API qui
 
 ## <a name="partner-delegated-administration"></a>Administration déléguée de partenaire
 
-### <a name="using-service-portals"></a>Utilisation des portails de service
-
 Les comptes de partenaire, y compris les agents d’administration et les agents du support technique, peuvent utiliser leurs privilèges d’administration déléguée de partenaire pour gérer les ressources client par le biais des portails Microsoft Online Services, de l’interface de ligne de commande (CLI) et des API (à l’aide de l’authentification Application+Utilisateur).
 
-Lors de l’accès aux portails Microsoft Online Services à l’aide des privilèges d’administration déléguée de partenaire (Administration pour le compte de) pour gérer les ressources client, un grand nombre de ces portails requièrent l’authentification interactive du compte de partenaire, avec le locataire Azure Active Directory client défini comme contexte d’authentification : le compte de partenaire est nécessaire pour se connecter au locataire client.
+### <a name="using-service-portals"></a>Utilisation des portails de service
 
-Quand Azure Active Directory reçoit de telles demandes d’authentification, il exige que le compte de partenaire effectue la vérification MFA. Il existe deux expériences utilisateur possibles, selon que le compte de partenaire est une identité managée ou fédérée :
+Lors de l’accès aux portails Microsoft Online Services à l’aide des privilèges d’administration déléguée de partenaire (Administration pour le compte de) pour gérer les ressources client, un grand nombre de ces portails requièrent l’authentification interactive du compte de partenaire, avec le locataire Azure AD client défini comme contexte d’authentification : le compte de partenaire est nécessaire pour se connecter au locataire client.
 
-- Si le compte de partenaire est une **identité managée** , Azure Active Directory invite directement l’utilisateur à effectuer la vérification MFA. Si le compte de partenaire n’a pas effectué l’inscription MFA avec Azure Active Directory, l’utilisateur est invité d’abord à [effectuer l’inscription MFA](#mfa-registration-experience).
+Quand Azure AD reçoit de telles demandes d’authentification, il exige que le compte de partenaire effectue la vérification MFA. Il existe deux expériences utilisateur possibles, selon que le compte de partenaire est une identité managée ou fédérée :
 
-- Si le compte de partenaire est une identité **fédérée** , l’expérience dépend de la manière dont l’administrateur partenaire a configuré la fédération dans Azure Active Directory. Lors de la configuration de la fédération dans Azure Active Directory, l’administrateur partenaire peut indiquer à Azure Active Directory si le fournisseur d’identité fédérée prend en charge ou non l’authentification multifacteur. Si c’est le cas, Azure Active Directory redirige l’utilisateur vers le fournisseur d’identité fédérée pour effectuer la vérification MFA. Dans le cas contraire, Azure Active Directory invite directement l’utilisateur à effectuer la vérification MFA. Si le compte de partenaire n’a pas effectué l’inscription MFA avec Azure Active Directory, l’utilisateur est invité d’abord à [effectuer l’inscription MFA](#mfa-registration-experience).
+- Si le compte de partenaire est une **identité managée** , Azure AD invite directement l’utilisateur à effectuer la vérification MFA. Si le compte de partenaire n’a pas effectué l’inscription MFA avec Azure AD, l’utilisateur est d’abord invité à [effectuer l’inscription MFA](#mfa-registration-experience).
+
+- Si le compte de partenaire est une identité **fédérée** , l’expérience dépend de la manière dont l’administrateur partenaire a configuré la fédération dans Azure AD. Lors de la configuration de la fédération dans Azure AD, l’administrateur partenaire peut indiquer à Azure AD si le fournisseur d’identité fédérée prend en charge ou non MFA. Si c’est le cas, Azure AD redirige l’utilisateur vers le fournisseur d’identité fédérée pour effectuer la vérification MFA. Dans le cas contraire, Azure AD invite directement l’utilisateur à effectuer la vérification MFA. Si le compte de partenaire n’a pas effectué l’inscription MFA avec Azure AD, l’utilisateur est d’abord invité à [effectuer l’inscription MFA](#mfa-registration-experience).
 
 L’expérience globale est similaire au scénario dans lequel un locataire client final a mis en œuvre l’authentification multifacteur pour ses administrateurs. Par exemple, le locataire client a activé les [paramètres Azure AD de sécurité par défaut](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), ce qui nécessite que tous les comptes avec des droits d’administration se connectent au locataire client avec la vérification MFA, y compris les agents d’administration et les agents du support technique. À des fins de test, les partenaires peuvent activer les [paramètres Azure AD de sécurité par défaut](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) dans le locataire client, puis essayer d’utiliser les privilèges d’administration déléguée de partenaire pour accéder au locataire client.
 
@@ -202,19 +194,13 @@ Pendant la vérification MFA, si le compte de partenaire n’a pas encore effect
 
 Après avoir cliqué sur **Suivant** , l’utilisateur est invité à choisir parmi une liste de méthodes de vérification.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="Inscription MFA – Étape 1":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="Inscription MFA – Étape 2":::
 
 Une fois l’inscription réussie, l’utilisateur est tenu d’effectuer la vérification MFA en fonction de la méthode choisie par l’utilisateur.
-
-## <a name="request-for-technical-exception"></a>Demande d’exception technique
-
-Les partenaires peuvent demander une exception technique pour supprimer la vérification MFA s’ils rencontrent des problèmes techniques avec Microsoft Online Services et s’il n’existe pas de solution réalisable ou de solution de contournement. Avant cela, consultez les sections suivantes :
-
-- [Liste des problèmes courants signalés par les partenaires](#list-of-common-issues-reported-by-partners)
-- [Procédure d’envoi d’une demande d’exception technique](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>Liste des problèmes courants signalés par les partenaires
-Avant d’appliquer une exception technique, passez en revue la liste des problèmes courants signalés par les autres partenaires pour déterminer s’il s’agit de raisons valables pour demander une exception technique ou non.
+## <a name="list-of-common-issues"></a>Liste des problèmes courants
+
+Avant de demander une [exception technique](#how-to-submit-a-request-for-technical-exception) en vue de vous soustraire à l’obligation d’implémenter MFA, passez en revue la liste des problèmes courants signalés par les autres partenaires pour déterminer si votre demande est valide.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problème 1 : Le partenaire a besoin de plus de temps pour mettre en œuvre l’authentification multifacteur pour ses agents partenaires
 Un partenaire n’a pas démarré ou est toujours en phase de mise en œuvre de l’authentification multifacteur pour ses agents partenaires qui nécessitent un accès aux portails Microsoft Online Services à l’aide des privilèges d’administration déléguée de partenaire pour gérer les ressources client. Le partenaire a besoin de plus de temps pour effectuer la mise en œuvre de l’authentification multifacteur. Ce problème est-il une raison valable pour demander une exception technique ?
@@ -261,16 +247,22 @@ Un partenaire a implémenté l’authentification multifacteur pour ses utilisat
 
 - Le bon de commande de la solution MFA tierce que vous utilisez ou que vous envisagez d’utiliser
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>Procédure d’envoi d’une demande d’exception technique
+## <a name="how-to-submit-a-request-for-technical-exception"></a>Procédure d’envoi d’une demande d’exception technique
+
+Les partenaires peuvent demander une exception technique pour supprimer la vérification MFA s’ils rencontrent des problèmes techniques avec Microsoft Online Services et s’il n’existe pas de solution réalisable ou de solution de contournement. Avant cela, passez en revue la [liste des problèmes courants](#list-of-common-issues) dans la section précédente.
 
 Pour envoyer une demande d’exception technique :
 
 1. Connectez-vous à l’Espace partenaires en tant qu’administrateur général ou agent d’administration.
 
-2. Créez une demande de service partenaire en accédant à **Support** > **Demandes de support de partenaire** et en cliquant sur **Nouvelle demande** .
+2. Créez une demande de service partenaire en accédant à **Support** > **Demandes de support de partenaire** et en cliquant sur **Nouvelle demande**.
 
-3. Tapez **MFA - Demande d’exception** dans la zone de recherche, ou sélectionnez **CSP** dans Catégorie, puis sélectionnez **Comptes, Intégration, Accès** dans Rubrique, puis sélectionnez **MFA - Demande d’exception** dans la sous-rubrique, puis sélectionnez **Étape suivante** .
+3. Tapez **MFA - Demande d’exception** dans la zone de recherche, ou sélectionnez **CSP** dans Catégorie, puis sélectionnez **Comptes, Intégration, Accès** dans Rubrique, puis sélectionnez **MFA - Demande d’exception** dans la sous-rubrique, puis sélectionnez **Étape suivante**.
 
-4. Fournissez les détails nécessaires pour soumettre une demande de service pour une exception technique, puis cliquez sur **Soumettre** .
+4. Fournissez les détails nécessaires pour soumettre une demande de service pour une exception technique, puis cliquez sur **Soumettre**.
 
 Microsoft peut prendre jusqu’à trois jours ouvrables pour fournir une réponse à une demande d’exception technique.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+ - [Statut des exigences de sécurité des partenaires](partner-security-compliance.md)

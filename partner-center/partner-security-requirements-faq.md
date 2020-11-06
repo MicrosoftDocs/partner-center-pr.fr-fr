@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406362"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133046"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité du partenaire
+# <a name="common-questions-about-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité des partenaires
 
 **S’applique à**
 
@@ -26,17 +26,16 @@ ms.locfileid: "91406362"
 
 - Tous les utilisateurs activés, y compris les utilisateurs invités
 
-## <a name="partner-security-requirements"></a>Exigences de sécurité pour les partenaires
 
-Cet article contient des questions fréquentes sur les [exigences de sécurité du partenaire](partner-security-requirements.md).
+Cet article répond à certaines questions fréquentes sur les [exigences de sécurité des partenaires](partner-security-requirements.md).
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Que sont les exigences de sécurité Partenaires, et pourquoi les partenaires doivent-ils les implémenter ?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Que sont les exigences de sécurité des partenaires et pourquoi les partenaires doivent-ils les implémenter ?
 
 La qualité et la continuité des mesures de sécurité et de confidentialité font partie de nos principales priorités, et nous continuons à aider les partenaires à protéger leurs clients et leurs locataires. Nous observons un nombre croissant d’attaques de sécurité toujours plus sophistiquées, principalement liées à des incidents de compromission d’identité. Dans la mesure où les contrôles préventifs jouent un rôle clé dans une stratégie de défense globale visant à contrer les attaques de sécurité, nous avons introduit des [exigences de sécurité obligatoires](partner-security-requirements.md) en 2019. Tous les partenaires qui participent au programme Fournisseur de solutions Microsoft Cloud (CSP), les fournisseurs de panneau de contrôle et les conseillers Advisor doivent implémenter les exigences pour rester conformes.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Quelle est la chronologie clé et quelles en sont les étapes majeures ?
 
-Les conditions associées à ces exigences de sécurité, notamment la chronologie et les étapes majeures, sont comprises dans le [Contrat Partenaire Microsoft](microsoft-partner-agreement.md) en 2019. Vous devez implémenter ces exigences de sécurité le plus tôt possible pour garantir la conformité de votre participation au programme Fournisseur de solutions Cloud.
+Les conditions associées à ces exigences de sécurité, notamment la chronologie et les étapes majeures, sont comprises dans le [Contrat Partenaire Microsoft](microsoft-partner-agreement.md). Vous devez implémenter ces exigences de sécurité le plus tôt possible pour garantir la conformité de votre participation au programme Fournisseur de solutions Cloud.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Que se passe-t-il si je n’implémente pas ces exigences de sécurité Partenaires ?
 
@@ -46,11 +45,11 @@ Les partenaires qui ne respectent pas ces pratiques de sécurité risquent de ne
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Les exigences de sécurité s’appliquent-elles à toutes les zones géographiques ?
 
-Oui, les exigences de sécurité s’appliquent à toutes les zones géographiques. Nous recommandons vivement que tous les partenaires qui effectuent des transactions par le biais d’un cloud souverain (21Vianet, gouvernement des États-Unis et Allemagne) agissent et adoptent immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas tenus de satisfaire aux nouvelles exigences de sécurité à compter du 1er août. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
+Oui, les exigences de sécurité s’appliquent à toutes les zones géographiques. Nous recommandons vivement à tous les partenaires qui effectuent des transactions par le biais d’un cloud souverain (US Government et Allemagne) d’agir et d’adopter immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas actuellement tenus de répondre aux exigences de sécurité. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Est-il possible d’obtenir l’exclusion d’un compte ?
 
-Non, il n’est pas possible d’exclure un compte d’utilisateur de l’obligation d’implémentation de l’authentification MFA. Compte tenu de la nature hautement privilégiée du statut de partenaire, le Contrat Partenaire Microsoft impose l’application de l’authentification multifacteur à chaque compte d’utilisateur de votre locataire partenaire.
+Non, il n’est pas possible d’exclure un compte d’utilisateur de l’obligation d’implémentation de l’authentification multifacteur (MFA). Compte tenu de la nature hautement privilégiée du statut de partenaire, le Contrat Partenaire Microsoft impose l’application de l’authentification multifacteur à chaque compte d’utilisateur de votre locataire partenaire.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Comment savoir si j’ai répondu aux exigences de sécurité du partenaire ?
 
@@ -59,7 +58,7 @@ Vous devez effectuer les étapes suivantes :
 - Vous devez répondre à toutes les exigences décrites dans les [exigences de sécurité du partenaire](partner-security-requirements.md).
 - Vous devez vous assurer que l’authentification multifacteur est appliquée à tous les comptes d’utilisateur de votre locataire partenaire.
 
-Pour vous aider à identifier les domaines clés dans lesquels vous pouvez prendre des mesures, nous fournissons le rapport sur le [statut des exigences de sécurité](https://partner.microsoft.com/commerce/security/compliance) qui est disponible via l’Espace partenaires.
+Pour vous aider à identifier les domaines clés dans lesquels vous pouvez prendre des mesures, nous fournissons un [rapport sur l’état des exigences de sécurité](https://partner.microsoft.com/commerce/security/compliance) qui est disponible dans l’Espace partenaires.
 
 Pour plus d’informations sur le rapport sur le statut, consultez le [statut des exigences de sécurité des partenaires](partner-security-compliance.md).
 
@@ -95,9 +94,9 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
 
     Les fournisseurs de panneaux de contrôle doivent [intégrer](enroll-as-cpv.md) l’Espace partenaires en tant que fournisseurs de panneaux de contrôle et commencer à mettre en œuvre cette exigence immédiatement. Consultez [Espace partenaires : framework du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Les fournisseurs de panneaux de contrôle doivent accepter et gérer le consentement des partenaires du programme Fournisseur de solutions Cloud au lieu d’informations d’identification. De plus, ils doivent vider toutes les informations d’identification existantes des partenaires du programme Fournisseur de solutions Cloud.
 
-## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
+## <a name="multi-factor-authentication"></a>Authentification multifacteur
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>Qu’est-ce que l’authentification MFA (Multi-Factor Authentication) ?
+### <a name="what-is-multi-factor-authentication-mfa"></a>Qu’est-ce que l’authentification multifacteur (MFA) ?
 
 L’authentification MFA est un mécanisme de sécurité qui permet aux personnes de s’authentifier via plusieurs procédures de sécurité et de validation. Ce mécanisme fonctionne en imposant deux ou plusieurs des méthodes d’authentification suivantes :
 
@@ -308,7 +307,7 @@ Les contraintes techniques relatives aux exigences de sécurité du partenaire s
 
 Les [stratégies « ligne de base » Azure Active Directory (Azure AD) sont supprimées et remplacées](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) par les « paramètres de sécurité par défaut », un ensemble plus complet de stratégies de protection pour vous et vos clients. Les [paramètres de sécurité par défaut](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) peuvent aider à protéger votre organisation contre les attaques de sécurité liées au vol d’identité.
 
-Votre implémentation MFA sera supprimée en raison du retrait des stratégies de ligne de base si vous n’avez pas effectué la transition des stratégies de ligne de base vers la stratégie de paramètres de sécurité par défaut ou [d’autres options d’implémentation MFA](partner-security-requirements.md#actions-that-you-need-to-take). Tous les utilisateurs de vos locataires partenaires qui effectuent des opérations d’authentification MFA devront effectuer une vérification MFA. Pour obtenir des recommandations plus détaillées, consultez [cette page](partner-security-requirements-mandating-mfa.md).
+Votre implémentation MFA sera supprimée en raison du retrait des stratégies de ligne de base si vous n’avez pas effectué la transition des stratégies de ligne de base vers la stratégie de paramètres de sécurité par défaut ou [d’autres options d’implémentation MFA](partner-security-requirements.md#implementing-multi-factor-authentication). Tous les utilisateurs de vos locataires partenaires qui effectuent des opérations d’authentification MFA devront effectuer une vérification MFA. Pour obtenir des recommandations plus détaillées, consultez [cette page](partner-security-requirements-mandating-mfa.md).
 Pour rester conforme et réduire les interruptions, effectuez l’une des actions suivantes :
 
 - Transition vers les paramètres de sécurité par défaut

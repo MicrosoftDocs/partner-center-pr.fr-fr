@@ -1,7 +1,7 @@
 ---
 title: S’inscrire au programme Fournisseur de solutions Cloud
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment adhérer au modèle de vente du programme Fournisseur de solutions Cloud (CSP) qui convient le mieux à votre entreprise, comme revendeur indirect ou partenaire de facturation directe.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198095"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045391"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
 **S’applique à**
 
-- Programme Fournisseur de solutions Cloud  
+- Espace partenaires  
 
 **Rôles appropriés**
 
@@ -64,26 +64,25 @@ Pour plus d’informations sur les conditions à remplir pour participer au prog
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>S’inscrire en tant que partenaire à facturation directe
 
-En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour les conditions d’inscription pour les partenaires à facturation directe le 31 août 2018. Ces nouvelles exigences vous permettront d’accélérer la croissance de vos activités grâce au modèle d’inscription au programme Fournisseur de solutions Cloud et de renforcer vos relations client avec des services et un support à valeur ajoutée.
+En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour les conditions d’inscription pour les partenaires à facturation directe le 27 octobre 2020. Ces conditions vous permettront d’accélérer la croissance de votre activité grâce au modèle approprié du programme Fournisseur de solutions Cloud et de renforcer vos relations client avec des services et un support à valeur ajoutée.  
 
 ### <a name="minimum-requirements"></a>Configuration minimale requise
 
 |**Exigence**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**ID MPN**   |Identifiant Microsoft Partner Network actif pour la localisation de votre entreprise.    |
+|**ID MPN**   |Appartenance active au Microsoft Partner Network et ID MPN pour le marché où seront effectuées les ventes.    |
 |**Approbation**   |Autorité qui accepte et signe des contrats au nom de votre organisation.|
 |**Support technique**   |Capacité à fournir à vos clients le premier niveau de support pour les produits cloud. <br>Plan de support Microsoft, soit Support avancé pour les partenaires (ASfP), soit Support Premier pour les partenaires (PSfP), selon vos besoins. [Comparez les offres de support](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANT : Avant d’acheter un plan de support, vous devez passer avec succès une vérification de solvabilité. Nous vous enverrons un e-mail dès que vous aurez réussi la vérification de solvabilité. |
+|**Modalités concernant le chiffre d’affaires**|Pour un revendeur indirect, le chiffre d’affaires annuel du programme Fournisseur de solutions Cloud doit être au minimum de 300 000 USD sur les douze mois précédents. Les partenaires peuvent consulter leur chiffre d’affaires des douze derniers mois dans l’Espace partenaires.<br/>Les ventes qui composent votre chiffre d’affaires de 300 000 USD sur les douze derniers mois sont soumises à Microsoft pour examen et vérification, et vous pouvez être invité à fournir des informations supplémentaires. Ces 300 000 USD de chiffre d’affaires sont calculés sur la base des revenus du cloud et exclut les logiciels perpétuels dans CSP.|
+|**Comptabilité clients** |Infrastructure organisationnelle mise en place pour gérer la facturation et l’approvisionnement des clients.|
+|**Recommandation**|             |
 |**Service managé**   |Au moins un service géré, un service IP ou une application de solution client. En savoir plus sur l’ajout de [services gérés](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Comptabilité clients** |Infrastructure organisationnelle mise en place pour gérer la facturation et l’approvisionnement des clients.
 
 ### <a name="verify-direct-bill-eligibility"></a>Vérifier l’éligibilité à la facturation directe
 
-Si vous ne l’avez pas déjà fait, examinez les exigences minimales ci-dessus pour vérifier si vous êtes en mesure de les satisfaire, puis complétez le [questionnaire Fournisseur de solutions Cloud](https://partner.microsoft.com/cloud-solution-provider/assessment).
-
-C’est à partir de vos réponses aux questions du formulaire que nous déterminerons si vous êtes habilité à vous inscrire au programme CSP en tant que partenaire à facturation directe.
+Après avoir vérifié que vous remplissez les conditions minimales pour vous inscrire en tant que partenaire à facturation directe, vous pouvez passer au [formulaire d’inscription](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
 Après avoir vérifié que votre entreprise répond aux conditions d’éligibilité à une inscription en tant que partenaire à facturation directe et une fois que vous aurez complété la demande d’inscription, nous examinerons et vérifierons les informations sur l’entreprise que vous avez transmises au cours du processus d’inscription. Dans le cadre de cet examen, nous vérifierons la solvabilité de votre entreprise. Une fois ce contrôle effectué avec succès, nous vous en informerons par e-mail.
-
 >[!IMPORTANT]
 >La vérification de solvabilité de votre entreprise peut prendre plusieurs jours. Pendant ce laps de temps, il est important de NE PAS acheter de plan de support Microsoft. Ce n’est qu’après avoir été informé de l’issue favorable de la vérification de solvabilité que vous devez acheter un plan de support Microsoft.
 
