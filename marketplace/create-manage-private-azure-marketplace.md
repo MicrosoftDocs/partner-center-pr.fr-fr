@@ -1,18 +1,17 @@
 ---
 title: Créer et gérer une place de marché Azure privée dans Portail Azure
 description: En savoir plus sur la création et la gestion de la place de marché Azure privée (version préliminaire) dans le Portail Azure.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "91429322"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414856"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Créer et gérer une place de marché Azure privée (version préliminaire) dans le Portail Azure
 
@@ -136,17 +135,17 @@ Pour plus d’informations sur les applets de commande contenues dans le module 
 
 3. Sélectionnez place de **marché privée** dans les options de gauche.
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Portail Azure fenêtre principale.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Sélection de la place de marché privée dans la fenêtre principale de Portail Azure.":::
 
 4. Sélectionnez **prise en main** pour créer une place de marché Azure privée (vous ne devez effectuer cette opération qu’une seule fois).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Portail Azure fenêtre principale.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Sélectionnez prise en main dans la fenêtre principale de Portail Azure.":::
 
     Si la place de marché Azure privée existe déjà pour ce locataire, l’option gérer la place de **marché** est sélectionnée par défaut.
 
 5. Une fois l’opération terminée, vous disposez d’une place de marché Azure privée vide et désactivée.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Portail Azure fenêtre principale.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="L’écran place de marché Azure privé vide.":::
 
 ## <a name="add-items-from-gallery"></a>Ajouter des éléments à partir de la Galerie
 
@@ -156,11 +155,11 @@ Un élément est une combinaison d’une offre et d’un plan. Vous pouvez reche
 
 2. Parcourez la **Galerie** ou utilisez le champ de recherche pour trouver l’élément de votre choix.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Portail Azure fenêtre principale.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Navigation dans la galerie ou à l’aide du champ de recherche.":::
 
 3. Par défaut, lors de l’ajout d’une nouvelle offre, tous les plans actuels sont ajoutés à la liste autorisée. Pour modifier la sélection du plan avant d’ajouter les éléments sélectionnés, sélectionnez le menu déroulant dans la vignette de l’offre et mettez à jour les plans requis.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Portail Azure fenêtre principale.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Mise à jour des plans requis.":::
 
 4. Sélectionnez **terminé** en bas à gauche une fois que vous avez effectué vos sélections.
 
@@ -174,7 +173,7 @@ Vous pouvez modifier les plans d’un élément dans la page gérer la place de 
 1. Dans la colonne **plans** , passez en revue les plans disponibles dans le menu déroulant de cet élément.
 2. Activez ou désactivez les cases à cocher pour choisir les plans à mettre à la disposition de vos utilisateurs.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Portail Azure fenêtre principale.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Activez ou désactivez la case à cocher de l’élément requis.":::
 
 > [!NOTE]
 > Chaque offre doit avoir au moins un plan sélectionné pour que la mise à jour se produise. Pour supprimer tous les plans associés à une offre, supprimez l’intégralité de l’offre (voir la section suivante).
@@ -187,9 +186,9 @@ Dans la page gérer le Marketplace, activez la case à cocher en regard du nom d
 
 Dans la page gérer la place de marché, vous verrez une de ces bannières, qui indiquent l’état actuel de la place de marché Azure privée :
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Portail Azure fenêtre principale.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Bannière désactiver l’État":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Portail Azure fenêtre principale.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Bannière activer l’État":::
 
 Vous pouvez activer ou désactiver la place de marché Azure privée si nécessaire.
 
@@ -205,7 +204,7 @@ Lorsque la place de marché Azure privée est activée, les utilisateurs voient 
 
 Les utilisateurs peuvent filtrer les offres qui ne sont pas autorisées :
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Portail Azure fenêtre principale.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="Option de filtrage.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Acheter ou déployer sur une place de marché Azure privée
 
@@ -213,16 +212,16 @@ Tandis que l’expérience de la page Détails du produit est similaire à la pl
 
 - Quand un utilisateur sélectionne un plan autorisé, le bouton **créer** est activé :
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Portail Azure fenêtre principale.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Bannière d’offre : il est possible de créer un plan.":::
 
 - Lorsqu’un utilisateur sélectionne un plan non autorisé, une bannière note que le plan n’est pas autorisé et que le bouton **créer** est désactivé.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Portail Azure fenêtre principale.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Bannière d’offre : il est impossible de créer un plan.":::
 
 - Si une sélection de plan de produit n’apparaît pas dans la page Détails du produit mais que l’administrateur a approuvé un ou plusieurs plans, une bannière contient les plans autorisés et le bouton **créer** est activé :
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Portail Azure fenêtre principale.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Bannière de l’offre : il est possible de créer un plan et d’en présenter les plans disponibles.":::
 
-## <a name="contact-support"></a>Contacter le support technique
+## <a name="contact-support"></a>Contactez le support technique
 
 Pour obtenir de l’aide sur la place de marché Azure, visitez [le site Microsoft Q&A](/answers/products/). 
