@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244061"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360052"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Afficher, gérer et exporter les détails de votre programme d’incentives
 
@@ -39,8 +39,8 @@ Utilisez ces pages pour afficher les détails de vos paiements et revenus passé
 
 Vous pouvez accéder à des informations sur les incentives de plusieurs manières à partir du [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires :
 
-- Sélectionnez **incentives** dans le menu de gauche. Plusieurs options s’affichent sous **incentives** , y compris la **vue d’ensemble** . Explorez ces options pour connaître l’état des programmes d’incentives, des paiements d’incentives, des revenus et des réclamations.
-- Sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit. Vous pouvez ensuite sélectionner d’autres options, telles que **historique des transactions** , **paiements** , **exporter des données** ou **rapport commercial Office** .
+- Sélectionnez **incentives** dans le menu de gauche. Plusieurs options s’affichent sous **incentives** , y compris la **vue d’ensemble**. Explorez ces options pour connaître l’état des programmes d’incentives, des paiements d’incentives, des revenus et des réclamations.
+- Sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit. Vous pouvez ensuite sélectionner d’autres options, telles que **historique des transactions** , **paiements** , **exporter des données** ou **rapport commercial Office**.
 
 Les pages suivantes sont décrites ici :
 
@@ -95,7 +95,7 @@ Les totaux de cette page représentent tous les ID MPN que vous utilisez. Vous p
 |Prochain paiement estimé      |Seul le paiement suivant vous vient (même s’il y en a d’autres bientôt disponibles), en dollars américains.                                     |
 |Dernier paiement           |Le montant (en dollars américains), le nom du programme et l’ID MPN de votre dernier paiement.                                      |
 |Paiements par source       |Montant des paiements, en dollars américains, représentés par le programme au cours des 12 derniers mois.                                      |
-|Paiements                       |Sélectionnez **payant** ou **en attente** , puis triez comme vous le souhaitez. Pour plus d’informations sur un paiement spécifique, sélectionnez **affichage** . Pour télécharger une copie du relevé des envois de paiements, sélectionnez **Télécharger** . L’affichage des données de l’historique des transactions peut prendre jusqu’à 24 heures. vous risquez donc de ne pas voir les bénéfices associés immédiatement.  |
+|Paiements                       |Sélectionnez **payant** ou **en attente** , puis triez comme vous le souhaitez. Pour plus d’informations sur un paiement spécifique, sélectionnez **affichage**. Pour télécharger une copie du relevé des envois de paiements, sélectionnez **Télécharger**. L’affichage des données de l’historique des transactions peut prendre jusqu’à 24 heures. vous risquez donc de ne pas voir les bénéfices associés immédiatement.  |
 
 Pour exporter les données de cette page, sélectionnez **Exporter** , puis suivez les instructions de la page exporter des données.
 
@@ -139,7 +139,7 @@ Si vous ne connaissez pas le numéro de référence de vos incentives de canal, 
 
 - Le [tableau de bord espace partenaires](https://partner.microsoft.com/dashboard/) (connexion obligatoire), à la fois dans l’onglet **payant** et dans l’onglet **en attente** .  
 
-- Votre rapport de paiement, situé sur la [page d’exportation](/partner-center/understand-incentive-payouts#payment-download-export)de votre paiement. 
+- Votre rapport de paiement, situé sur la [page d’exportation](#payment-download-export)de votre paiement. 
 
 #### <a name="if-your-submission-is-rejected"></a>Si votre soumission est rejetée
 
@@ -167,7 +167,7 @@ La page historique des transactions comprend désormais un tableau qui indique l
 
 Le mois de paiement estimé est calculé en fonction des règles et des chronologies de la configuration du programme, et est traité dans le prochain cycle de paiement.
 
-Le mois de paiement estimé est actuellement disponible pour tous les types de gains, à l’exception de la co-op, qui s’affichera comme **non applicable** . Pour les revenus antérieurs au 1er juillet 2020, le mois de paiement estimé apparaît comme étant **non disponible** .
+Le mois de paiement estimé est actuellement disponible pour tous les types de gains, à l’exception de la co-op, qui s’affichera comme **non applicable**. Pour les revenus antérieurs au 1er juillet 2020, le mois de paiement estimé apparaît comme étant **non disponible**.
 
 #### <a name="estimated-payment-month-example"></a>Exemple de mois de paiement estimé
 
@@ -220,7 +220,7 @@ Voici quelques considérations à prendre en compte lorsque vous essayez d’exp
 
 - La page Exporter les données ne s’actualise pas automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes.
 
-- Votre filtre peut déclencher l’erreur **Pas de données disponibles** . Cette erreur signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
+- Votre filtre peut déclencher l’erreur **Pas de données disponibles**. Cette erreur signifie probablement que vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis que vous avez sélectionné un ID de paiement d’un gain en dehors de cette période. Élargissez la période et réessayez.
 
 ## <a name="payment-download-export"></a>Exportation du téléchargement de paiement
 Cette option vous permet de télécharger les paiements que vous avez reçus à votre banque pour un programme donné, les taxes associées et le montant cumulé des bénéfices.
@@ -331,7 +331,7 @@ Le rapport Résumé de la transaction fournit des détails sur les transactions 
 ### <a name="download-the-transaction-summary-report"></a>Télécharger le rapport Résumé de la transaction
 
 1. Sur la page de **Présentation des incentives** , sélectionnez l’icône **Money** (paiement) dans le coin supérieur droit.
-2. Sélectionner **Exporter des données** .
+2. Sélectionner **Exporter des données**.
 3. Sélectionnez l’onglet Résumé de la **transaction** .
 4. Sélectionnez les filtres appropriés pour voir les programmes et les leviers éligibles à des revenus agrégés. Si aucune donnée n’est affichée, vos programmes ne sont pas éligibles à des leviers agrégés.
 5. Sélectionnez **Démarrer le téléchargement**   pour exporter le rapport.  

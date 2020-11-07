@@ -1,7 +1,7 @@
 ---
 title: Rechercher l’ID de locataire, nom de domaine, ID d’objet utilisateur
 ms.topic: how-to
-ms.date: 09/16/2020
+ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Découvrez comment rechercher des ID dans le Portail Azure : l’ID de locataire Azure AD de l’organisation, le nom de domaine ou l’ID d’objet utilisateur spécifique. Certaines tâches ont besoin de ces informations.'
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4a3695079a9d5b0b3c66b7c2eda52a31888a6660
-ms.sourcegitcommit: 3158b0de261539694e37e433c763afa4067e36fb
+ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90740388"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360069"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localiser des ID importants pour un utilisateur
 
@@ -28,7 +28,7 @@ Cet article explique comment utiliser le [portail Azure](https://portal.azure.co
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Rechercher l’ID de locataire Microsoft Azure AD et le nom de domaine principal
 
-Procédez comme suit pour Rechercher l’ID de locataire Azure AD ou le nom de domaine principal au sein du Portail Azure.
+Procédez comme suit pour Rechercher l’ID de locataire Azure AD ou le nom de domaine principal au sein du Portail Azure. (Si vous souhaitez rechercher un ID de locataire par programme, consultez Rechercher l' [ID de locataire avec PowerShell ou l’interface CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
 
 > [!NOTE]
 > L’ID de locataire peut être appelé des noms différents dans des applications ou des ressources différentes. Par exemple, l’ID de locataire peut être appelé ID de répertoire, client Azure Active Directory (Azure AD), ID Microsoft ou pour certains rapports, même *tenantguid*.
@@ -75,5 +75,6 @@ Il se peut que la recherche du nom de domaine et de l’ID de locataire ne soit 
 
 ## <a name="next-steps"></a>Étapes suivantes
 
+- [Rechercher votre ID de locataire par programmation avec PowerShell ou l’interface CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [En savoir plus sur les profils utilisateur dans Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Découvrez comment les partenaires peuvent voir ou exporter les détails des clients dans l’espace partenaires](see-your-customer-list.md)
