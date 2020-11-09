@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174840"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381407"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Résoudre les problèmes de configuration de compte ou de renouvellement MPN
 
@@ -50,7 +50,7 @@ Pour plus d’informations, consultez [inscription en libre-service](/azure/acti
 
 Si vous avez oublié votre mot de passe, sélectionnez le lien vous **ne pouvez pas accéder à votre compte ?** dans la page de connexion. Cette option vous permet de réinitialiser votre mot de passe ou de demander à votre administrateur général de vous attribuer de nouvelles informations d’identification.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>Sur la visualbasicwinappprojectscriptonlyviewbutton « Parlez-nous de votre entreprise », vous recevez une erreur « un problème est survenu »
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Sur l’écran « faites-nous part de votre entreprise », vous recevez une erreur « un problème est survenu »
 
 Ce message d’erreur s’affiche généralement si vous utilisez par inadvertance des caractères spéciaux, des espaces ou un code de pays dans le numéro de téléphone de votre entreprise. La valeur entrée dans le champ numéro de téléphone ne peut contenir que 10 caractères au maximum.
 

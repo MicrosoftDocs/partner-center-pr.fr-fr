@@ -1,20 +1,20 @@
 ---
 title: Migrer à partir de Partner vente Connect (PSC)
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires Microsoft peuvent migrer de Partner Sales Connect (PSC) vers l’espace partenaires et créer ou gérer des transactions envoyées par les vendeurs Microsoft.
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999343"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381429"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -30,7 +30,7 @@ ms.locfileid: "90999343"
 - Administrateur Partner Sales Connect (PSC)
 - Responsable des ventes Partner Sales Connect (PSC)
 
-Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 décembre 2020. Toutefois, vous trouverez tout ce que vous souhaitez faire pour créer des ventes de covente, gérer vos demandes et agir sur les transactions envoyées par les vendeurs Microsoft à vous dans l’espace partenaires. Toutefois, il y aura des différences, et les conseils suivants vous aideront à rendre votre transition vers l’espace partenaires plus lisse et directe.
+Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 mars, 2021. Toutefois, vous trouverez tout ce que vous souhaitez faire pour créer des ventes de covente, gérer vos demandes et agir sur les transactions envoyées par les vendeurs Microsoft à vous dans l’espace partenaires. Toutefois, il y aura des différences, et les conseils suivants vous aideront à rendre votre transition vers l’espace partenaires plus lisse et directe.
 
 >[!Important]
 > Si vous êtes ici, car vous avez vu une bannière dans PSC sur la migration, vous êtes au bon endroit. Ce guide n’est pas applicable à l’évaluation de la solution (SA) et aux partenaires de l’IOT OEM qui gèrent leurs affaires dans PSC.
@@ -47,7 +47,7 @@ Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 déc
 >[!Important]
 > Assurez-vous que l’ID MPN affiché dans la bannière du PSC est disponible dans la liste des emplacements MPN dans l’espace partenaires. Vous pouvez vérifier que dans l’espace partenaires, accédez à « paramètres du compte » et à « emplacements » sous cet[emplacement](manage-locations.md)pour trouver la liste de tous les MPNs associés au compte de l’espace partenaires.
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Image représentant la bannière du PSC dans laquelle les partenaires peuvent trouver l’ID MPN.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Image représentant la bannière du PSC dans laquelle les partenaires peuvent trouver l’ID MPN.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Si vous êtes responsable des transactions de PSC ou du vendeur
 
@@ -63,26 +63,55 @@ Si vous ne voyez pas l’onglet Références :
 
 - L' [administrateur général](permissions-overview.md) de votre entreprise peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur général, accédez à paramètres du partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Sélectionnez la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « administrateurs généraux ». La page affiche ensuite tous les administrateurs globaux avec leurs ID d’adresse de messagerie respectifs. Contactez-le pour obtenir un accès « administrateur de référence » pour votre compte professionnel.
 
->[!Important]
-> Si votre rôle gère uniquement les utilisateurs dans le PSC, vous pouvez vous procurer le rôle d' [administrateur de compte](permissions-overview.md#manage-mpn-membership-and-your-company) dans l’espace partenaires. Si votre rôle comprend également la gestion des opportunités de covente, vous devez disposer d’un rôle d' [administrateur de références](permissions-overview.md#manage-referrals) . En outre, désignez un seul Prospect de gestion des modifications parmi les administrateurs du PSC pour travailler avec l’administrateur de compte de l’espace partenaires au lieu de tous les administrateurs PSC qui accèdent aux administrateurs de compte sur le PC individuellement.
+  >[!Important]
+  > Si votre rôle gère uniquement les utilisateurs dans le PSC, vous pouvez vous procurer le rôle d' [administrateur de compte](permissions-overview.md#manage-mpn-membership-and-your-company) dans l’espace partenaires. Si votre rôle comprend également la gestion des opportunités de covente, vous devez disposer d’un rôle d' [administrateur de références](permissions-overview.md#manage-referrals) . En outre, désignez un seul Prospect de gestion des modifications parmi les administrateurs du PSC pour travailler avec l’administrateur de compte de l’espace partenaires au lieu de tous les administrateurs PSC qui accèdent aux administrateurs de compte sur le PC individuellement.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Image représentant les administrateurs de comptes dans la page de gestion des utilisateurs paramètres du partenaire.":::
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Image représentant les administrateurs de comptes dans la page de gestion des utilisateurs paramètres du partenaire.":::
 
 - Accédez à l’onglet références dans le volet de navigation gauche et vérifiez si vous pouvez accéder aux pages.
 
+  >[!Note]
+  > Vous devrez peut-être vous déconnecter de l’espace partenaires et vous reconnecter pour actualiser vos informations d’identification afin d’accéder aux pages de références.
+
+## <a name="user-migration"></a>Migration utilisateur
+
+Une fois votre compte configuré dans l’espace partenaires, utilisez l’Assistant Migration des utilisateurs de la page opportunités de covente pour affecter automatiquement des rôles de l’espace partenaires aux employés de votre entreprise.
+
 >[!Note]
-> Vous devrez peut-être vous déconnecter de l’espace partenaires et vous reconnecter pour actualiser vos informations d’identification afin d’accéder aux pages de références.
+> La migration des utilisateurs ne peut être effectuée que par les [administrateurs de compte](permissions-overview.md#manage-mpn-membership-and-your-company) de votre entreprise. Si vous n’avez pas le rôle d’administrateur de compte, recherchez un administrateur de compte qui peut vous aider à configurer les comptes d’utilisateur à l’aide de l’Assistant Migration des utilisateurs. La fonctionnalité de migration utilisateur sera disponible à partir du 16 novembre 2020.
 
-Une fois votre compte configuré dans l’espace partenaires,
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Image représentant l’Assistant Migration des utilisateurs.":::
 
-- Invitez tous les utilisateurs qui ont un rôle « gestionnaire des ventes » ou « vendeur » dans PSC à l’espace partenaires à l’étape suivante.
-- L' [administrateur de compte](permissions-overview.md#manage-mpn-membership-and-your-company) qui vous a aidé avec l’accès aux références peut inviter tous les utilisateurs.
-- Lors de l’invitation des utilisateurs, demandez à l’administrateur de compte de lui affecter le rôle d' [administrateur de référence](permissions-overview.md#manage-referrals) .
-- Certains de vos utilisateurs de PSC peuvent utiliser un compte non professionnel ou un compte d’un domaine différent de celui que vous utilisez dans l’espace partenaires. Tous ces utilisateurs doivent se connecter à l’espace partenaires à l’aide de leur compte professionnel associé à votre locataire Azure AD. Votre [administrateur général](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) peut vous aider. Pour trouver votre administrateur général, accédez à paramètres du partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Cliquez sur la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « administrateurs généraux ».
-- L’administrateur général peut créer un nouveau compte d’utilisateur dans votre client Azure AD ou attribuer à un utilisateur invité l’accès aux autres utilisateurs du compte de domaine.
-- Une fois les comptes configurés pour tous les responsables et les utilisateurs du PSC, ils doivent se connecter à l’espace partenaires, accéder à l’onglet de référence dans le volet de navigation gauche et vérifier s’assurer qu’ils peuvent voir la page références.
+Les administrateurs de comptes recevront un lien vers l’Assistant de migration utilisateur PSC dans la page opportunités de covente à côté du Guide de références. Ils peuvent lancer la migration des utilisateurs en cliquant sur le lien. Cette action peut être effectuée plusieurs fois jusqu’à ce que tous les utilisateurs que l’entreprise souhaite migrer reçoivent les rôles appropriés dans l’espace partenaires.
+
+La table de migration utilisateur contient les informations suivantes :
+
+- Compte d’utilisateur : ID d’E-mail de l’employé
+- Compte de partenaire PSC : compte auquel l’employé est associé dans PSC
+- Rôle d’utilisateur PSC : l’un des trois rôles affectés à dans le PSC.
+- Emplacement MPN du PC : emplacement pour lequel l’utilisateur recevra des rôles d’ordinateur pertinents. Le compte MPN de partenaire PSC est utilisé pour trouver l’emplacement MPN équivalent dans l’espace partenaires pour affecter des autorisations. L’ensemble de l’organisation indique l’ID MPN vOrg.
+- Rôle d’utilisateur PC : les employés se voient attribuer des rôles en fonction de leurs rôles d’utilisateur PSC. L’administrateur du PSC se verra attribuer des rôles d’administrateur de références dans PC. Le rôle d’utilisateur de références sera attribué au vendeur dans PC. En savoir plus sur les rôles de PC et les utilisateurs avec ces rôles peuvent effectuer cette opération dans l’espace partenaires [ici](permissions-overview.md#manage-referrals)
+- Client AAD de PC : locataire auquel les utilisateurs sont attribués dans l’espace partenaires
+- État : il existe trois États possibles pour l’état de la migration.
+    - Non migré-l’utilisateur n’a pas de rôle de références de PC affecté
+    - Migration effectuée-l’utilisateur a été migré avec le rôle approprié affecté comme indiqué dans le tableau
+    - Erreur : impossible de terminer la migration en raison d’une erreur
+
+La migration peut échouer et provoquer des erreurs dans certaines conditions pour lesquelles les solutions sont fournies ci-dessous
+
+1. Les utilisateurs du PSC utilisent peut-être un compte non professionnel.
+
+2. Les utilisateurs du PSC peuvent utiliser un compte d’un domaine différent de celui que vous utilisez dans l’espace partenaires.
+
+   - Pour résoudre les erreurs liées aux scénarios 1 et 2, tous les utilisateurs doivent se connecter à l’espace partenaires à l’aide de leur compte professionnel associé à votre locataire Azure AD. Votre [administrateur général](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) peut vous aider. Pour trouver votre administrateur général, accédez à paramètres du partenaire à partir de l’icône d’engrenage en haut à droite de l’espace partenaires. Cliquez sur la page gestion des utilisateurs dans le deuxième niveau de la barre de navigation de gauche. Cliquez sur la liste déroulante qui affiche « tous les utilisateurs » en haut à droite de la page, puis choisissez « administrateurs généraux ». L’administrateur général peut créer un nouveau compte d’utilisateur dans votre client Azure AD ou attribuer à un utilisateur invité l’accès aux autres utilisateurs du compte de domaine. Une fois les comptes configurés pour tous les responsables et les utilisateurs du PSC, ils doivent se connecter à l’espace partenaires, accéder à l’onglet de référence dans le volet de navigation gauche et vérifier s’assurer qu’ils peuvent voir la page références.
+
+3. Un rôle de référence est déjà attribué à l’utilisateur dans l’espace partenaires.
+    - Vous pouvez vérifier le rôle existant de l’utilisateur à partir de la page gestion des utilisateurs dans les paramètres du compte et modifier le même en fonction des besoins.
+
+Une fois que vous avez terminé la migration des utilisateurs, suivez les instructions ci-dessous pour déterminer la stratégie de migration : 
 
 Si votre entreprise dispose d’un système PDM, lorsque votre compte espace partenaires est configuré et que vos utilisateurs sont déplacés et disposent de rôles et d’autorisations, vous pouvez déplacer vos activités de covente vers l’espace partenaires. Informez le système PDM d’effectuer le commutateur au lieu de patienter jusqu’à la fin de l’échéance de la migration, ce qui permettra à tous vos nouveaux contrats d’être transmis à l’espace partenaires.
+
 >[!Note]
 >Une fois ce commutateur effectué, vous ne pourrez agir que sur les transactions actives existantes dans le PSC. Vous ne pouvez pas créer de nouvelles demandes ni recevoir de transactions de la part de vendeurs Microsoft dans PSC.
 
@@ -100,7 +129,7 @@ Il s’agit d’une étape importante, qui vous aidera à préparer la covente d
 
 |**Scénario**|**Vente des partenaires**|**Espace partenaires**|
 |-----|:-----|:-----|
-|Rôles d’utilisateur|PSC a des rôles d’administrateur, de responsable des transactions et de vendeur.|PC dispose uniquement d’un rôle d' [administrateur de référence](permissions-overview.md#manage-referrals) qui donne des autorisations en lecture et en écriture pour toutes les transactions.|
+|Rôles d'utilisateur|PSC a des rôles d’administrateur, de responsable des transactions et de vendeur.|PC dispose uniquement d’un rôle d' [administrateur de référence](permissions-overview.md#manage-referrals) qui donne des autorisations en lecture et en écriture pour toutes les transactions.|
 |Invitation à Microsoft sur un contrat de covente|Initié par Microsoft seller, il n’y a pas de demande explicite de partenaire.|Le partenaire devra faire une [demande explicite](manage-co-sell-opportunities.md#add-solutions) si une aide du vendeur Microsoft est nécessaire pour une affaire. Le vendeur Microsoft dispose d’une option pour refuser la demande.|
 |Expiry|Il n’existe aucun concept d’expiration de la transaction.|Les contrats de contrats entrants du partenaire expirent dans 14 jours s’ils ne sont pas acceptés par le partenaire. Il en est de même pour les contrats de partenariat sortants où ils peuvent passer à l’État expiré si le vendeur Microsoft n’agit pas sur ceux-ci dans un délai de 14 jours.|
 |Détails du vendeur Microsoft|Visible dès qu’une transaction est créée.|Les détails du vendeur Microsoft sont partagés avec le partenaire uniquement si le vendeur accepte expressément l’invitation pour la co-vendre du partenaire.|
@@ -128,7 +157,7 @@ Cette section présente le mappage exact des attributs entre PSC et l’espace p
 - Le rôle de la transaction n’est pas un champ obligatoire dans PC. Il n’est ni affiché, ni capturé dans aucun des flux de travail. Elle est automatiquement dérivée du côté du vendeur Microsoft en fonction des solutions ajoutées à la transaction.
 - La date de dernière modification n’est pas affichée sur la page Détails de la référence du PC. Les partenaires peuvent utiliser la fonctionnalité de tri pour trier les transactions en fonction de la date de la dernière mise à jour.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Image présentant les mappages de champs entre l’affichage de la grille PSC et l’affichage des ventes de l’espace partenaires.":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Image présentant les mappages de champs entre l’affichage de la grille PSC et l’affichage des ventes de l’espace partenaires.":::
 
 **Vue des détails de la transaction dans PSC et l’espace partenaires**
 
@@ -141,11 +170,11 @@ Cette section présente le mappage exact des attributs entre PSC et l’espace p
 >[!Note]
 >Toute transaction marquée comme conclue ou perdue ne peut pas être modifiée. Faites preuve de prudence lors du déplacement d’un contrat vers l’un de ces États de terminal.
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Image présentant les mappages de champs entre l’affichage des détails du contrat PSC et l’affichage Détails de la transaction de l’espace partenaires.":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Image présentant les mappages de champs entre l’affichage des détails du contrat PSC et l’affichage Détails de la transaction de l’espace partenaires.":::
 
 **Vue « ajouter des produits » du PSC et vue de l’espace partenaires « ajouter des solutions »**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Image présentant les mappages de champs entre l’affichage de l’ajout de produits Partner Sales Connect (PSC) et la vue ajouter des solutions de l’espace partenaires.":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Image présentant les mappages de champs entre l’affichage de l’ajout de produits Partner Sales Connect (PSC) et la vue ajouter des solutions de l’espace partenaires.":::
 
 **Gestion des utilisateurs dans PSC et l’espace partenaires**
 
@@ -156,11 +185,11 @@ Cette section présente le mappage exact des attributs entre PSC et l’espace p
 - Le rôle équivalent pour l’administrateur PSC est le rôle d’administrateur de compte dans l’espace partenaires.
 - Il n’existe qu’un seul rôle dans l’espace partenaires pour la gestion des ventes de covente, qui est le rôle d’administrateur de référence.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Image présentant les mappages de champs entre l’affichage de l’attribution de rôle PSC (Partner Sales Connect) et l’affichage de l’attribution de rôle de l’espace partenaires.":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Image présentant les mappages de champs entre l’affichage de l’attribution de rôle PSC (Partner Sales Connect) et l’affichage de l’attribution de rôle de l’espace partenaires.":::
 
 **Notifications dans PSC et l’espace partenaires**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="Image qui montre le mappage entre les notifications Partner Sales Connect (PSC) et l’affichage des notifications de l’espace partenaires.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Image qui montre le mappage entre les notifications Partner Sales Connect (PSC) et l’affichage des notifications de l’espace partenaires.":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>Passage de PSC à l’espace partenaires-Forum aux questions
 
@@ -246,7 +275,9 @@ Si vous n’avez pas encore lu les rubriques d’aide de la co-vente, les ressou
 |Création et gestion d’un profil d’entreprise|[Gérer un profil professionnel](./create-a-marketing-profile.md)
 |Gérer les responsables pour votre profil d’entreprise |[Gérer les prospects](./manage-leads.md)|
 
-## <a name="additional-resources"></a>Ressources supplémentaires
+## <a name="next-steps"></a>Étapes suivantes
+
+Suivez ces ressources supplémentaires :
 
 - [Vente des partenaires se connecter au](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) classeur de l’espace partenaires-classeur pour aligner les processus et les rôles des ventes des partenaires avec les nouveaux processus de vente via l’espace partenaires et les ventes de partenaires.
 - [Guide d’utilisation de la co-vente de l’espace partenaires](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -aide pour identifier un modèle d’exploitation via l’espace partenaires pour gérer les prospects, vendre des opportunités et enregistrer des transactions.
