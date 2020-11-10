@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980260"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433345"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transférer les abonnements du plan Azure d’un client à un autre partenaire
 
-## <a name="applies-to"></a>S’applique à
+**Rôles appropriés**
 
 - Partenaires du programme Fournisseur de solutions Cloud
 
@@ -66,10 +66,10 @@ Le client doit également identifier les abonnements qu’il souhaite transfére
 
 Le futur partenaire de l’abonnement doit remplir un formulaire de demande de transfert de l’espace partenaires pour demander un transfert d’abonnement :
 
-1.  Dans le menu espace partenaires, sélectionnez **clients**, puis sélectionnez le client pour lequel vous souhaitez terminer un formulaire de demande de transfert pour le compte de.
+1.  Dans le menu espace partenaires, sélectionnez **clients** , puis sélectionnez le client pour lequel vous souhaitez terminer un formulaire de demande de transfert pour le compte de.
 2.  Dans le menu client, sélectionnez **abonnements**.
 3.  Sélectionnez la section **demande de transfert** .
-4.  Dans la **section demande de transfert**, sélectionnez **Ajouter une nouvelle demande**.
+4.  Dans la **section demande de transfert** , sélectionnez **Ajouter une nouvelle demande**.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Section des transferts":::
 
@@ -77,11 +77,11 @@ Le futur partenaire de l’abonnement doit remplir un formulaire de demande de t
 
 6.  Sélectionnez **Envoyer une demande de transfert**  >  **Envoyer**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Section des transferts":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Remplir le formulaire de demande de transfert":::
 
 7.  Vérifier la confirmation de demande de transfert
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Section des transferts":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Vérifier le transfert en attente":::
 
     >[!Note]
     >Le futur partenaire peut annuler la demande de transfert en sélectionnant **annuler la demande** dans le coin supérieur droit uniquement lorsque l’état de la demande de transfert est « en attente ». Une fois que l’état de la demande de transfert est « en cours » ou « terminé », les annulations ne sont pas possibles.
@@ -90,7 +90,7 @@ Le futur partenaire de l’abonnement doit remplir un formulaire de demande de t
 
 L’agent admin du partenaire actuel recevra un e-mail indiquant que son client demande un transfert de ses abonnements :
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Section des transferts":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Révision":::
 
 Passez en revue et acceptez le formulaire de demande de transfert de l’espace partenaires pour terminer le transfert de l’abonnement.
 
@@ -98,12 +98,12 @@ Passez en revue et acceptez le formulaire de demande de transfert de l’espace 
 >Si aucune action n’est effectuée par le partenaire actuel dans un délai de 30 jours, la demande expire et le partenaire futur aura un pour créer une demande de transfert.
 
 1.  Sélectionnez **passer en revue la demande de transfert** à partir de l’e-mail ou
-1.  Dans le menu espace partenaires, sélectionnez **clients**, puis sélectionnez le client pour lequel une demande de transfert a été soumise pour le compte de.
+1.  Dans le menu espace partenaires, sélectionnez **clients** , puis sélectionnez le client pour lequel une demande de transfert a été soumise pour le compte de.
 2.  Dans le menu client, sélectionnez **abonnements**.
 3.  Sélectionnez la section **demande de transfert** .
 4.  Développez les informations de transfert en sélectionnant l' **ID de demande de transfert** choisi sous **demandes reçues** .
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Section des transferts":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Demande de transfert de révisions de la source":::
 
 5.  Passez en revue la demande de transfert. Sélectionnez les abonnements Azure demandés à transférer.
 
@@ -114,7 +114,7 @@ Passez en revue et acceptez le formulaire de demande de transfert de l’espace 
 
 6.  Sélectionnez ensuite **accepter et transférer** pour terminer le processus de transfert.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Section des transferts":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Sélectionner les abonnements à transférer sous vos plans Azure":::
 
 7.  Affichez la confirmation de l’acceptation du transfert.
 
