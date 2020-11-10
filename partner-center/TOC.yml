@@ -324,6 +324,25 @@
     - name: Résoudre les problèmes liés aux paiements et aux gains
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: Travailler dans la plateforme CHIP (Channel Incentives Platform)
+      items:
+        - name: Navigation dans la plateforme CHIP
+          href: chip-intro.md
+          displayName: chip
+        - name: Ajouter des utilisateurs à votre compte CHIP
+          href: chip-users.md
+        - name: Afficher les gains dans la plateforme CHIP
+          href: chip-earnings.md
+        - name: Vérifier l’état du paiement dans la plateforme CHIP
+          href: chip-payment-status.md
+        - name: Localiser le nombre de postes de travail et le niveau de frais pour un contrat
+          href: chip-locate-agreement.md
+        - name: Éligibilité à l’évaluation de solution
+          href: chip-solution-assessment.md
+        - name: État du paiement de l’évaluation de solution
+          href: chip-solution-assessment-payment.md
+        - name: Problème d’accès à la plateforme CHIP
+          href: chip-access-trouble.md
 - name: Facturation et taxes
   href: billing.md
   displayName: trial
