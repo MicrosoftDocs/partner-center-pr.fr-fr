@@ -338,9 +338,11 @@
         - name: Localiser le nombre de postes de travail et le niveau de frais pour un contrat
           href: chip-locate-agreement.md
         - name: Éligibilité à l’évaluation de solution
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: État du paiement de l’évaluation de solution
           href: chip-solution-assessment-payment.md
+        - name: FAQ sur l’évaluation de solution
+          href: chip-faq.md
         - name: Problème d’accès à la plateforme CHIP
           href: chip-access-trouble.md
 - name: Facturation et taxes
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Fichiers de rapprochement basés sur les licences
       href: license-based-recon-files.md
+    - name: Fichiers de rapprochement CSP (achat ponctuel)
+      href: modern-invoice-reconciliation-file.md
+    - name: Calcul du prix unitaire effectif
+      href: effective-unit-price-calculation.md
     - name: Exemples de facturation courants
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'

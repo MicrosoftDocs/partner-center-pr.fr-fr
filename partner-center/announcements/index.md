@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333910"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488124"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de novembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Tests disponibles : Mises à jour des API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation des clients Éducation](2020-november.md#7)|10 novembre|
 |Fonctions|[Expansion du contenu partenaire des licences commerciales dans la Galerie de préparation des opérations](2020-november.md#6)|2 novembre|
 |Offres/marchés|[Lancement de la référence SKU Premium pour Salles Microsoft Teams](2020-november.md#5)|2 novembre|
 |Offres/marchés|[Nouvelles références SKU Microsoft Teams Advanced Communications pour le Cloud de la communauté du secteur public bientôt disponibles](2020-november.md#4)|2 novembre|
@@ -29,6 +30,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 |Offres/marchés|[Introduction de Microsoft 365 Business Voice pour les organisations à but non lucratif](2020-november.md#2)|2 novembre|
 |Offres/marchés|[Promo CSP (Fournisseur de solutions cloud) pour Microsoft 365 Business Voice désormais disponible](2020-november.md#1)|2 novembre|
 | **Catégorie** | **Annonces du mois d’octobre 2020** | **Date** |
+|Offres/marchés|[Correction concernant l’extension du forfait d’appels](2020-october.md#18)|29 octobre|
 |Fonctions|[Mises à jour des fonctionnalités d’abonnements au logiciel Windows Server](2020-october.md#17)|29 octobre|
 |Fonctions|[La mise à niveau vers Windows 10 Éducation est désormais disponible pour les clients éligibles du Fournisseur de solutions Cloud (CSP)](2020-october.md#16)|28 octobre|
 |Fonctions|[Actualisation de l’expérience numérique CSP (Cloud Solution Provider) maintenant disponible](2020-october.md#15)|28 octobre|
@@ -67,7 +69,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces d’août 2020** | **Date** |
 |Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation de clients Éducation](2020-august.md#8)|31 août|
 |Offres/marchés|[Mises à jour de Microsoft 365 Voice Promotion](2020-august.md#7)|14 août|
-|Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
+|Fonctionnalités|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
 |Fonctionnalités|[Achat en libre-service de Microsoft Project et Microsoft Visio bientôt disponible](2020-august.md#5)|12 août|
 |Offres/marchés|[Nouvelles références SKU Communications avancées Microsoft Teams maintenant disponibles](2020-august.md#4)|4 août|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible en septembre](2020-august.md#3)|4 août|
