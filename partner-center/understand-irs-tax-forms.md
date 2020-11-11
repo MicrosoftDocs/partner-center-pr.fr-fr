@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032032"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487871"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Présentation des déclarations fiscales de l’IRS envoyées par Microsoft
 
@@ -23,11 +23,11 @@ Cet article explique plus en détail ces formulaires, y compris ceux qui les rec
 
 | Déclaration fiscale de l’IRS | Description | Disponibilité |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Concerne les ventes réalisées et/ou les paiements reçus dans le cadre de vos activités sur les places de marché Microsoft. | Les formulaires imprimés feront l’objet d’un cachet au plus **tard le 31 janvier**et les copies. pdf seront disponibles dans l' [espace partenaires](https://partner.microsoft.com/dashboard) (dans les **paramètres de compte du Centre des partenaires** sous **paiement et taxes > les profils de paiement et de taxes**) en même temps. |
-|1042-S | Liés aux paiements qui font l’objet de États-Unis impôt à la retenue | Les formulaires imprimés feront l’objet d’un cachet ou avant le **15 mars**, et les copies. pdf seront disponibles dans l’espace partenaires (dans les paramètres de développeur de l' **espace partenaires** sous **paiement et taxes > les profils de paiement et de taxes**) en même temps.  |
+|1099-MISC, 1099-K | Concerne les ventes réalisées et/ou les paiements reçus dans le cadre de vos activités sur les places de marché Microsoft. | Les formulaires imprimés feront l’objet d’un cachet au plus **tard le 31 janvier** et les copies. pdf seront disponibles dans l' [espace partenaires](https://partner.microsoft.com/dashboard) (dans les **paramètres de compte du Centre des partenaires** sous **paiement et taxes > les profils de paiement et de taxes** ) en même temps. |
+|1042-S | Liés aux paiements qui font l’objet de États-Unis impôt à la retenue | Les formulaires imprimés feront l’objet d’un cachet ou avant le **15 mars** , et les copies. pdf seront disponibles dans l’espace partenaires (dans les paramètres de développeur de l' **espace partenaires** sous **paiement et taxes > les profils de paiement et de taxes** ) en même temps.  |
 
 > [!NOTE]
-> L’adresse que nous utilisons sur les formulaires fiscaux de l’IRS provient de l’adresse de votre [Profil fiscal](/azure/marketplace/marketplace-payout-account-setup). Si votre adresse a changé, veillez à mettre à jour l’adresse dans votre **Profil fiscal**.
+> L’adresse que nous utilisons sur les formulaires fiscaux de l’IRS provient de l’adresse de votre profil fiscal lorsque vous [configurez votre compte de paiement et vos formulaires fiscaux](set-up-your-payout-account.md). Si votre adresse a changé, veillez à mettre à jour l’adresse dans votre **Profil fiscal**.
 
 Les formulaires fiscaux vous seront envoyés à partir des adresses suivantes :
 
@@ -53,12 +53,12 @@ Les formulaires fiscaux vous seront envoyés à partir des adresses suivantes :
 
 | Si je suis États-Unis développeur vendant des applications payantes et...   | Je reçois le formulaire suivant : |
 |------------------------|-----------------------|
-| J’avais **plus de 200 ventes d’applications** avec un montant total d’achat de ces ventes **supérieures à $20 000 USD** dans l’année fiscale applicable (**sans** compter les ventes effectuées au Brésil et en chine par le biais de l’Microsoft Store sur Windows 10.)| **1099-K :**<br/>Déclarant : Microsoft Corporation<br/>Ein : \* \* \* \* \* 4442<br/><br/>**Important :** La déclaration 1099-K indique les montants des **achats bruts**, pas les paiements que vous avez reçus.| 
+| J’avais **plus de 200 ventes d’applications** avec un montant total d’achat de ces ventes **supérieures à $20 000 USD** dans l’année fiscale applicable ( **sans** compter les ventes effectuées au Brésil et en chine par le biais de l’Microsoft Store sur Windows 10.)| **1099-K :**<br/>Déclarant : Microsoft Corporation<br/>Ein : \* \* \* \* \* 4442<br/><br/>**Important :** La déclaration 1099-K indique les montants des **achats bruts** , pas les paiements que vous avez reçus.| 
 | J’ai reçu **au moins $10 dans le paiement** des ventes d’applications effectuées au Brésil et en Chine par le biais du Microsoft Store sur les ventes Windows 10 ou (II) sur la place de marché Minecraft.<br/><br/>**OR**<br/><br/>J’ai reçu au moins $600 paiements non liés aux ventes d’applications de Microsoft dans l’année fiscale applicable (par exemple, les paiements d’incentives ou les paiements d’un concours ou d’une promotion)| **1099-DIVERS :**<br/>Payeur : Microsoft Corporation<br/>Ein : \* \* \* \* \* 4442<br/><br/>**Important :** Certaines entités commerciales ne recevront pas de déclarations 1099-MISC, quel que soit le montant des paiements reçus de la part de Microsoft.  Pour plus d’informations, consultez votre professionnel de la fiscalité.| 
-| Aucun des deux ne s’applique.| None |
+| Aucun des deux ne s’applique.| Aucun |
 | <br/><br/>**Si je suis États-Unis développeur vendant des publicités dans des applications et...** |<br/><br/>**Je reçois le formulaire suivant :** |
 |J’ai reçu **au moins $600 dans le paiement** des publicités dans les applications de l’année fiscale en vigueur. | **1099-DIVERS :**<br/>Payeur : Microsoft Online Inc<br/>Ein : \* \* \* \* \* 0505<br/><br/>**Important :** Certaines entités commerciales ne recevront pas de déclarations 1099-MISC, quel que soit le montant des paiements reçus de la part de Microsoft.  Pour plus d’informations, consultez votre salaire professionnel. |
-| J’ai reçu **moins de $600 de paiements** des publicités dans les applications de l’année fiscale en vigueur. | None |
+| J’ai reçu **moins de $600 de paiements** des publicités dans les applications de l’année fiscale en vigueur. | Aucun |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Pour les développeurs ne résidant pas aux États-Unis
@@ -74,7 +74,7 @@ Les formulaires fiscaux vous seront envoyés à partir des adresses suivantes :
 | **Pourquoi ai-je obtenu trois copies de la même forme 1042-S dans une enveloppe ?** | Les services fiscaux de l’IRS imposent que trois copies de la déclaration soient transmises :<br/><br/>-Un pour les enregistrements du destinataire<br/>-Un pour le classement avec un États-Unis la taxe fédérale (le cas échéant)<br/>-Un pour le classement avec un retour d’impôt sur l’État États-Unis (le cas échéant) |
 
 > [!NOTE]
-> Si vous avez d’autres questions ou préoccupations liées aux **formulaires fiscaux**de l’IRS, accédez à [aide et support](https://partner.microsoft.com/dashboard/support/) dans le tableau de bord de l’espace partenaires. Microsoft n’est pas en mesure de répondre aux questions relatives à votre situation fiscale spécifique. Pour les questions de cet ordre, consultez votre conseiller fiscal.
+> Si vous avez d’autres questions ou préoccupations liées aux **formulaires fiscaux** de l’IRS, accédez à [aide et support](https://partner.microsoft.com/dashboard/support/) dans le tableau de bord de l’espace partenaires. Microsoft n’est pas en mesure de répondre aux questions relatives à votre situation fiscale spécifique. Pour les questions de cet ordre, consultez votre conseiller fiscal.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

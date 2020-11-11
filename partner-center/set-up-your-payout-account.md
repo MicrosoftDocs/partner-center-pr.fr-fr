@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007403"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488129"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurer votre compte de paiement et vos déclarations de taxe
 
@@ -28,7 +28,7 @@ Une fois que vous avez configuré votre compte, vous devez effectuer deux opéra
 - [Configurez votre compte de paiement](#payout-account)
 
 > [!NOTE]
-> Pour plus d’informations sur comment et quand vous serez payé pour l’argent que votre offre vous rapporte, consultez la section [Processus de paiement](/azure/marketplace/marketplace-payout-account-setup).
+> Pour plus d’informations sur le mode de paiement et le moment de l’achat de l’argent que vous offrez, consultez l’article sur [la place de marché commercial](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>Déclaration de taxe
 
@@ -46,7 +46,7 @@ Vous pouvez compléter et soumettre vos formulaires fiscaux par voie électroniq
 
 1. Dans [Espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône **Paramètres de compte** en haut à droite, puis **Paramètres du développeur**.
 
-2. Dans le menu de navigation situé à gauche, sélectionnez **Paiement et taxes**, puis **Attributions de paiement et de taxes**.
+2. Dans le menu de navigation situé à gauche, sélectionnez **Paiement et taxes** , puis **Attributions de paiement et de taxes**.
 
 3. Sélectionnez la combinaison d’ID de programme et de vendeur pour laquelle vous souhaitez configurer les informations fiscales.
 
@@ -77,12 +77,12 @@ Si vous êtes situé en dehors des États-Unis, vous pourrez peut-être tirer pa
 Un compte de paiement est le compte bancaire sur lequel nous envoyons les recettes de vos ventes. Vous pouvez afficher tous les comptes de paiement que vous avez entrés dans la page de profil.
 
 > [!NOTE]
-> Sur certains marchés, PayPal peut être utilisé pour votre compte de paiement. Pour savoir si PayPal est pris en charge sur un marché particulier, consultez les sections [Seuils, méthodes et délais de paiement](/azure/marketplace/payment-thresholds-methods-timeframes) et [Informations sur PayPal](#paypal-info) ci-dessous pour obtenir plus d’informations.
+> Sur certains marchés, PayPal peut être utilisé pour votre compte de paiement. Pour savoir si PayPal est pris en charge sur un marché particulier, consultez les sections [Seuils, méthodes et délais de paiement](payment-thresholds-methods-timeframes.md) et [Informations sur PayPal](#paypal-info) ci-dessous pour obtenir plus d’informations.
 
 ### <a name="create-a-payment-profile"></a>Créer un profil de paiement
 
 1. Dans l' [espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **paramètres** dans le coin supérieur droit, puis sélectionnez **paramètres du compte**.
-2. Sous le titre *Paiement et taxe*, sélectionnez **Attribution de profil de paiement et de taxe**.
+2. Sous le titre *Paiement et taxe* , sélectionnez **Attribution de profil de paiement et de taxe**.
 
     > [!NOTE]
     > Puisqu’il s’agit d’informations sensibles, vous pouvez être invité à vous reconnecter.
@@ -95,14 +95,14 @@ Un compte de paiement est le compte bancaire sur lequel nous envoyons les recett
 
 Si vous avez choisi d’utiliser un compte bancaire pour recevoir des paiements, vous devez effectuer la procédure suivante pour le configurer.
 
-1. Sur la page *profil bancaire*, fournissez les informations requises sur votre banque.
+1. Sur la page *profil bancaire* , fournissez les informations requises sur votre banque.
 2. Fournissez les détails de votre compte bancaire.
 
     > [!NOTE]
     > Les champs que vous utilisez pour fournir les informations de votre compte acceptent uniquement des caractères alphanumériques.
 
 3. Fournissez les détails du bénéficiaire.
-4. De retour sur la page*Attribution de profil*, sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
+4. De retour sur la page *Attribution de profil* , sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
 
     > [!WARNING]
     > Assurez-vous que votre banque accepte la devise de paiement que vous sélectionnez.
@@ -126,25 +126,25 @@ Vous pouvez modifier les profils de paiement existants si vous devez apporter de
 
 1. Dans [Espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **Paramètres** située en haut à droite, puis **Paramètres du développeur**.
 
-2. Sous le titre *Paiement et taxe*, sélectionnez **Profils de paiement et de taxe**.
+2. Sous le titre *Paiement et taxe* , sélectionnez **Profils de paiement et de taxe**.
 
 3. Vos profils de paiement sont listés avec leur état. Recherchez le profil que vous souhaitez modifier, puis cliquez sur **Modifier** à droite de l’écran
 
 > [!IMPORTANT]
-> La modification de votre compte de paiement peut retarder vos paiements jusqu’à un cycle de paiement. Ce retard se produit parce que nous devons vérifier le changement de compte, comme nous l’avons fait lorsque vous avez configuré le compte de paiement pour la première fois. Vous serez payé pour le montant total une fois que votre compte aura été vérifié. Tout paiement dû dans le cycle de paiement actuel sera ajouté au cycle suivant Pour plus d’informations, consultez la section[Processus de paiement](/azure/marketplace/marketplace-payout-account-setup).
+> La modification de votre compte de paiement peut retarder vos paiements jusqu’à un cycle de paiement. Ce retard se produit parce que nous devons vérifier le changement de compte, comme nous l’avons fait lorsque vous avez configuré le compte de paiement pour la première fois. Vous serez payé pour le montant total une fois que votre compte aura été vérifié. Tout paiement dû dans le cycle de paiement actuel sera ajouté au cycle suivant Pour plus d’informations, consultez la rubrique sur [le marché commercial](marketplace-get-paid.md).
 
 ### <a name="paypal-info"></a>Informations PayPal
 
 Dans Sélectionner les pays et les régions, vous pouvez créer un compte de paiement en entrant vos informations PayPal. Toutefois, avant de choisir PayPal comme option de compte de paiement :
 
-- Vérifiez les [seuils, les méthodes et les délais de paiement](/azure/marketplace/payment-thresholds-methods-timeframes) pour vérifier si PayPal est un mode de paiement pris en charge dans votre pays ou région.
+- Vérifiez les [seuils, les méthodes et les délais de paiement](payment-thresholds-methods-timeframes.md) pour vérifier si PayPal est un mode de paiement pris en charge dans votre pays ou région.
 - Consultez les FAQ suivantes. Selon votre situation, PayPal peut ne pas être la meilleure option de compte de paiement pour vous et vous devrez peut-être opter pour un compte bancaire.
 
 Questions fréquemment posées sur l’utilisation de PayPal comme mode de paiement :
 
 - **De quels paramètres PayPal ai-je besoin pour recevoir des paiements ?** Assurez-vous que votre compte PayPal ne bloque pas les paiements eCheck. Ce paramètre est géré dans la page des préférences pour la réception de paiements de PayPal. Pour plus d’informations, consultez la [page de configuration de compte PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139).
 
-- **Est-ce que mon pays/ma région est pris en charge ?** Consultez les [seuils, les méthodes et les délais de paiement](/azure/marketplace/payment-thresholds-methods-timeframes) pour savoir quels pays/quelles régions prennent en charge PayPal comme mode de paiement.
+- **Est-ce que mon pays/ma région est pris en charge ?** Consultez les [seuils, les méthodes et les délais de paiement](payment-thresholds-methods-timeframes.md) pour savoir quels pays/quelles régions prennent en charge PayPal comme mode de paiement.
 
 - **Mon compte PayPal doit-il être inscrit dans le même pays ou la même région que mon compte espace partenaires ?** Non. Quand vous configurez un compte PayPal, vous pouvez accepter la configuration par défaut. Vous ne devriez pas rencontrer de problèmes avec d’autres pays/régions et devises, sauf si vous avez bloqué le paiement dans certaines devises. Ce paramètre est géré dans la page des préférences pour la réception de paiements de PayPal.
 
@@ -192,17 +192,17 @@ Microsoft fournit ces trois documents lors de votre première tentative de paiem
 
 Si vous avez choisi d’utiliser un compte bancaire pour recevoir des paiements, vous devez effectuer la procédure suivante pour le configurer.
 
-1. Sur la page *PayPal*, fournissez les informations requises sur votre compte PayPal.
+1. Sur la page *PayPal* , fournissez les informations requises sur votre compte PayPal.
 2. Fournissez les détails de votre compte PayPal.
 
     > [!NOTE]
     > Les champs que vous utilisez pour fournir les informations de votre compte acceptent uniquement des caractères alphanumériques.
 
 3. Fournissez les détails du bénéficiaire.
-4. De retour sur la page*Attribution de profil*, sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
+4. De retour sur la page *Attribution de profil* , sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
 5. Vous devrez sélectionner un profil de paiement pour chaque programme auquel vous participez, même si vous pouvez utiliser le même profil pour plusieurs programmes.
 6. Cliquez sur Envoyer pour enregistrer vos changements.
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Facturation de la Place de marché commerciale](/azure/marketplace/billing-details)
+[Recevoir un paiement dans la place de marché commerciale](marketplace-get-paid.md)

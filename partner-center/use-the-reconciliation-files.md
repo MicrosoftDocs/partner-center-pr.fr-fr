@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999703"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488078"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Découvrez comment lire les éléments de ligne dans vos fichiers de rapprochement de l’espace partenaires
 
@@ -37,6 +37,7 @@ Pour plus d’informations sur la lecture de votre facture, consultez [lire votr
 - [Champs du fichier de réconciliation basés sur les licences](license-based-recon-files.md)
 - [Champs du fichier de réconciliation basés sur l’utilisation](usage-based-recon-files.md)
 - [Champs du fichier de réconciliation de l’utilisation évalué quotidiennement](daily-rated-usage-recon-files.md)
+- [Champs du fichier de rapprochement des fournisseurs CSP à usage unique](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Comprendre les types de frais dans les fichiers de rapprochement
 
@@ -50,11 +51,11 @@ Pour résoudre les problèmes de mise en forme dans vos fichiers de rapprochemen
 
 1. Ouvrez le fichier de réconciliation (au format. csv) dans Microsoft Excel.
 2. Sélectionnez la première colonne du fichier.
-3. Ouvrez l' **Assistant Conversion de texte en colonnes**. Dans le ruban, sélectionnez **données**, puis sélectionnez **texte pour les colonnes**.
+3. Ouvrez l' **Assistant Conversion de texte en colonnes**. Dans le ruban, sélectionnez **données** , puis sélectionnez **texte pour les colonnes**.
 4. Dans l’Assistant, sélectionnez **type de fichier délimité**. Ensuite, sélectionnez **Suivant**.
 5. Dans le champ **séparateurs** , sélectionnez **virgule**. (Si l' **onglet** est déjà sélectionné, vous pouvez conserver cette option sélectionnée.) Sélectionnez ensuite **suivant**.
 6. Dans le champ **format des données** de la colonne, sélectionnez **Date : mja**. Ensuite, sélectionnez **Suivant**.
-7. Dans le champ **format des données** de la colonne, sélectionnez **texte** pour toutes les colonnes de montant. Ensuite, sélectionnez **Terminer**.
+7. Dans le champ **format des données** de la colonne, sélectionnez **texte** pour toutes les colonnes de montant. Ensuite, sélectionnez **Finish**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Télécharger les fichiers de rapprochement par programmation
 
@@ -80,11 +81,11 @@ Les partenaires dans le **modèle indirect** peuvent utiliser ces champs supplé
 
 Si un partenaire CSP a vendu l’abonnement directement au client, son **ID MPN** est listé deux fois, à la fois avec l' **ID MPN** et l' **ID MPN du revendeur**.
 
-Si un partenaire CSP a un revendeur sans **ID MPN**, cette valeur est définie sur l' **ID MPN** du partenaire à la place.
+Si un partenaire CSP a un revendeur sans **ID MPN** , cette valeur est définie sur l' **ID MPN** du partenaire à la place.
 
-Si le partenaire CSP supprime un **ID MPN du revendeur**, cette valeur sera définie sur *-1*.
+Si le partenaire CSP supprime un **ID MPN du revendeur** , cette valeur sera définie sur *-1*.
 
-Pour afficher ou mettre à jour l' **ID MPN du revendeur**:
+Pour afficher ou mettre à jour l' **ID MPN du revendeur** :
 
 1. Connectez-vous à l’Espace partenaires.
 2. Dans le menu de l’Espace partenaires, sélectionnez **Clients**.

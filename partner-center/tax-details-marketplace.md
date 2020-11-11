@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174999"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488195"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Détails des taxes pour les éditeurs de la place de marché commerciale
 
@@ -264,12 +264,12 @@ Les éléments suivants s’appliquent uniquement aux éditeurs de la Place de m
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | Australie (pour les achats effectués via tous les scénarios d’achat client, sauf Contrat Entreprise) | Le prix sélectionné est le prix de vente final et comprend toutes les taxes applicables. | Microsoft |
 | Australie (uniquement pour les achats effectués par le biais du scénario d’achat client Contrat Entreprise) | Le prix sélectionné est le prix de vente final et comprend toutes les taxes applicables. | Serveur de publication |
-| Brésil | Le prix sélectionné est le prix de vente final et comprend toutes les taxes applicables. | Éditeur (**consultez Pays/régions des revendeurs**) |
-| Mexique | Le prix sélectionné est le prix de vente final et comprend toutes les taxes applicables. | Éditeur (**consultez Pays/régions des revendeurs**) |
+| Brésil | Le prix sélectionné est le prix de vente final et comprend toutes les taxes applicables. | Éditeur ( **consultez Pays/régions des revendeurs** ) |
+| Mexique | Le prix sélectionné est le prix de vente final et comprend toutes les taxes applicables. | Éditeur ( **consultez Pays/régions des revendeurs** ) |
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Pays/régions de versement mixte pour les éditeurs
 
-Certains partenaires de facturation Microsoft peuvent recueillir et verser les taxes sur les ventes, la consommation, les biens et services, la valeur ajoutée ou des taxes similaires éventuellement applicables à l’acquisition par les Clients de vos Applications ou Produits dans l’application par l’intermédiaire du Store dans les pays/régions listés ci-dessous. Les [rapports](/azure/marketplace/payout-summary-overview) que Microsoft met à votre disposition identifieront les transactions pour lesquelles un partenaire de facturation a recueilli les taxes sur les ventes, la consommation, les biens et services, la valeur ajoutée ou des taxes similaires applicables à l’acquisition par les Clients de vos Applications ou Produits dans l’application par l’intermédiaire du Store. À l’exception des transactions décrites dans ces rapports, ni Microsoft ni ses fournisseurs de services de facturation ne pourront verser des taxes sur les ventes, la consommation, les biens et services, la valeur ajoutée ou des taxes similaires liées à l’acquisition par les Clients de vos Applications ou Produits dans l’application dans ces pays/région(s). Il vous appartient de réviser les rapports qui vous sont fournis ainsi que de déterminer et d’honorer vos obligations éventuelles en matière d’enregistrement, de collecte et de versement de taxes liées aux transactions impliquant vos Applications ou Produits dans l’application.
+Certains partenaires de facturation Microsoft peuvent recueillir et verser les taxes sur les ventes, la consommation, les biens et services, la valeur ajoutée ou des taxes similaires éventuellement applicables à l’acquisition par les Clients de vos Applications ou Produits dans l’application par l’intermédiaire du Store dans les pays/régions listés ci-dessous. Les rapports de votre [déclaration de paiement](payout-statement.md) que Microsoft met à votre disposition identifient les transactions pour lesquelles un partenaire de facturation a collecté les ventes, l’utilisation, les biens et services, la valeur ajoutée ou les taxes similaires applicables à l’acquisition des clients de vos applications ou In-App produits dans le magasin. À l’exception des transactions décrites dans ces rapports, ni Microsoft ni ses fournisseurs de services de facturation ne pourront verser des taxes sur les ventes, la consommation, les biens et services, la valeur ajoutée ou des taxes similaires liées à l’acquisition par les Clients de vos Applications ou Produits dans l’application dans ces pays/région(s). Il vous appartient de réviser les rapports qui vous sont fournis ainsi que de déterminer et d’honorer vos obligations éventuelles en matière d’enregistrement, de collecte et de versement de taxes liées aux transactions impliquant vos Applications ou Produits dans l’application.
 
 | Pays/régions de versement mixte |
 |------------------------------------|
@@ -289,4 +289,4 @@ Les éléments suivants s’appliquent uniquement aux éditeurs de la Place de m
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Configurer votre compte de paiement et vos déclarations de taxe](/azure/marketplace/marketplace-payout-account-setup)
+[Configurer votre compte de paiement et vos déclarations de taxe](set-up-your-payout-account.md)
