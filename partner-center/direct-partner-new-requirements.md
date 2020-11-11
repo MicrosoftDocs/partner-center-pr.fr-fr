@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 10/29/2020
-ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045370"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360018"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Exigences pour s’inscrire en tant que partenaire à facturation directe du programme Fournisseur de solutions Cloud (CSP)
 
@@ -55,7 +55,7 @@ Si vous décidez de passer d’une activité avec facturation directe à une act
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Nouvelle modalité concernant le chiffre d’affaires des partenaires à facturation directe](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+- [Nouvelle modalité concernant le chiffre d’affaires des partenaires à facturation directe](./announcements/2020-october.md#13)
  
 
 - [Informations supplémentaires sur la façon de devenir un revendeur indirect](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
