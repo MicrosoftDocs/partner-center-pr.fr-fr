@@ -4,17 +4,17 @@ description: En savoir plus sur les relevés de paiement et les résumés, ainsi
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335719"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532053"
 ---
-# <a name="payout-statements"></a>Instructions de paiement
+# <a name="payout-statements"></a>Relevés de paiements
 
 Le **relevé de paiement** présente une vue d’ensemble de vos paiements des offres vendues par le biais du marché commercial. Il affiche l’historique transactionnel de vos revenus, estime votre prochain paiement et affiche les tendances de paiement. Vous pouvez également télécharger l’historique des transactions et les relevés de paiement. Cet article explique comment accéder à votre relevé de paiement, ainsi que les différentes pages de paiement et téléchargements qui vous sont accessibles dans l’espace partenaires.
 
@@ -201,7 +201,7 @@ Le tableau suivant décrit les différents États de gains.
 | À venir | Commande de paiement générée en attente de révisions internes avant le traitement du paiement. | Non |
 | Facture fiscale en attente | Votre facture fiscale est incomplète ou non valide. | Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé |
 | Rejeté pendant la vérification | Le paiement a été rejeté pendant la révision. | Contactez le Support Microsoft pour obtenir des détails |
-| Failed | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
+| Échec | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
 | En cours | Le paiement est en cours. | Non |
 | Paiement incorrect | Le remboursement est en cours. | Non |
 | Envoyé | Le paiement a été envoyé à votre banque. | Non |
@@ -238,7 +238,7 @@ Pour obtenir plus de détails sur vos paiements, sélectionnez **Télécharger**
 
 ## <a name="export-data"></a>Exporter des données
 
-La page **exporter des données** n’est pas actualisée automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes. Sélectionnez l’un des trois onglets pour exporter l' **historique des transactions**, les **paiements**, le résumé de la **transaction**ou l' **instruction historique**.
+La page **exporter des données** n’est pas actualisée automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes. Sélectionnez l’un des trois onglets pour exporter l' **historique des transactions** , les **paiements** , le résumé de la **transaction** ou l' **instruction historique**.
 
 Votre filtre peut entraîner une erreur **aucune donnée n’est disponible** . Cela peut se produire si vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis sélectionné un ID de paiement d’un produit en dehors de cette période. Si cela se produit, augmentez votre période et réessayez.
 
@@ -285,18 +285,18 @@ Le tableau suivant décrit chaque colonne dans une instruction historique.
 | Encaissements nets | Montant de la transaction moins les taxes versées |
 | Frais du Store | Pourcentage des encaissements nets retenu par Microsoft en guise de frais pour la mise à disposition de l’application ou du module complémentaire sur le Store |
 | Revenus des applications | Encaissements nets moins les frais du Store |
-| Taxes retenues | Montant d’impôt sur le revenu retenu (inclus dans le fichier CSV **Réservé**) |
+| Taxes retenues | Montant d’impôt sur le revenu retenu (inclus dans le fichier CSV **Réservé** ) |
 | Paiement | Revenus des applications moins la retenue à la source éventuellement applicable (montant affiché dans Devise de la transaction). Non inclus dans le fichier CSV **Réservé**. |
 | Taux de change | Taux de change utilisé pour convertir la devise de la transaction en devise de paiement |
 | Devise de paiement | Devise dans laquelle votre paiement est effectué |
 | Paiement converti | Montant du paiement converti en devise de paiement en utilisant le taux de change |
 | Modèle de paiement des taxes | Tiers responsable du versement des taxes (ventes, consommation ou TVA/GST) |
-| Date et heure d’éligibilité | Date et heure auxquelles le produit de la transaction devient éligible au paiement (UTC). Quand un paiement est créé, il comprend le produit de la transaction avec une date et heure d’éligibilité antérieures à la date de création du paiement (uniquement inclus dans le fichier CSV **Réservé**). |
-| Charges | Présente une décomposition de tous les détails de charges agrégés dans la colonne Montant de la transaction (uniquement incluse pour la Place de marché Azure ; non incluse dans le fichier CSV **Réservé**). |
+| Date et heure d’éligibilité | Date et heure auxquelles le produit de la transaction devient éligible au paiement (UTC). Quand un paiement est créé, il comprend le produit de la transaction avec une date et heure d’éligibilité antérieures à la date de création du paiement (uniquement inclus dans le fichier CSV **Réservé** ). |
+| Charges | Présente une décomposition de tous les détails de charges agrégés dans la colonne Montant de la transaction (uniquement incluse pour la Place de marché Azure ; non incluse dans le fichier CSV **Réservé** ). |
 |||
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [API de paiement de partenaire](https://apidocs.microsoft.com/services/partnerpayouts)
+- [API de paiement partenaire](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Détails de la politique de paiement](payout-policy-details.md)
 - Pour obtenir de l’aide sur la facturation, contactez le [support éditeur](https://partner.microsoft.com/support/v2/?stage=1) de la Place de marché commerciale.

@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92333740"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532036"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Ajoutez des services partagés partenaires Azure pour que les partenaires puissent acheter des abonnements Azure pour leur propre usage
 
-**S’applique à**
-
-- Espace partenaires
  
 **Rôles appropriés**
 
@@ -38,17 +35,17 @@ Azure Partner Shared Services est un nouveau type d’offre proposé aux part
 
 2. Si vous ne disposez pas déjà d’un locataire de services partagés, cliquez sur **créer des services partagés**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Paramètres de compte > les services partagés":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Créer des services partagés":::
 
 3. Cela crée un locataire de services partagés et achète l’abonnement aux services partagés Azure CSP, à utiliser pour les ressources partagées et la charge de travail interne.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Paramètres de compte > les services partagés":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Créer le locataire et acheter l’abonnement":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>À propos de l’offre Azure-Internal/Shared Services
 
 - L’abonnement Azure-Internal/Shared Services est un nouveau type d’offre Azure dans CSP accessible via l’espace partenaires que les partenaires obtiennent pour leur propre utilisation d’Azure.
 
-- Azure-Internal/Shared Services offre n’est pas éligible pour les remises et les incentives.
+- Azure-Internal/Shared Services offre est éligible pour les remises et les incentives.  Les abonnements aux services partagés des partenaires Azure sont éligibles et peuvent être utilisés pour l’achat de RIs.
 
 - L’offre Azure-Internal/Shared Services ne peut être appliquée qu’au locataire des services partagés.
 
@@ -62,7 +59,7 @@ Vous trouverez la consommation Azure sur votre facture CSP et le fichier de réc
 
 ## <a name="azure-partner-shared-services-pricing"></a>Tarification des services partagés des partenaires Azure
 
-Pour afficher le nouveau fichier de tarification des services partagés partenaires Azure, consultez la page **vendre**des  >  **tarifs et des offres** , puis sélectionnez la liste des prix du mois en cours. Dans les semaines à venir, une API de carte à tarif spécifique sera également publiée.
+Pour afficher le nouveau fichier de tarification des services partagés partenaires Azure, consultez la page **vendre** des  >  **tarifs et des offres** , puis sélectionnez la liste des prix du mois en cours. Dans les semaines à venir, une API de carte à tarif spécifique sera également publiée.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Offres de la place de marché et services partagés partenaires Azure
 
@@ -78,3 +75,7 @@ Les partenaires qui ont des services BYOL ou gratuits déployés à l’aide de 
 Pour tirer parti du catalogue complet des offres de la place de marché disponibles (pas seulement les BYOL et les services gratuits), nous recommandons aux partenaires CSP de déployer les services partagés à l’aide d’abonnements Azure Web direct.  Les partenaires CSP qui ont déjà déployé des ressources BYOL et gratuites de service tierces à partir de la place de marché et souhaitent continuer à les utiliser et déployer d’autres offres tierces sont encouragés à migrer l’abonnement APSS vers Web direct [migrant des abonnements Azure existants](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Les partenaires, qui envisagent de continuer à utiliser l’abonnement APSS après le 1er mars 2019 et souhaitent déployer de nouveaux services [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) tiers ou des services gratuits, peuvent suivre les instructions des éditeurs de logiciels indépendants (ISV) pour les déployer dans leurs abonnements APSS.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud)](csp-software-subscriptions.md)

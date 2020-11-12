@@ -4,15 +4,15 @@ description: En savoir plus sur les détails relatifs aux stratégies de paiemen
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381390"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531985"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Planifications de paiement et détails de la stratégie
 
@@ -70,7 +70,7 @@ Voici un exemple de calendrier :
 | --- | --- | --- |
 | Exemple de date de paiement | 15/10/2020 | Marqué **Envoyé** dans l’Historique des transactions et dans la section Paiements du tableau de bord Revenu |
 | <font color="red">Si le client ne paie pas Microsoft</font> | 12/02/2020 – 05/12/2020 | Inchangée, comme ci-dessus |
-| Le client reçoit un premier e-mail l’avisant d’un retard de paiement | 06/12/2020 | Aucune |
+| Le client reçoit un premier e-mail l’avisant d’un retard de paiement | 06/12/2020 | None |
 | Le client reçoit des e-mails à intervalles réguliers pour l’aviser de l’urgence croissante | 7/12/2020 – 31/1/2021 | None |
 | L’éditeur est avisé du passage probable en pertes et profits | 7/1/2021 | L’éditeur est notifié par e-mail que le client n’a pas encore envoyé le paiement. L’ID de transaction et le montant en dollars sont inclus. |
 | Le client reçoit un avis d’expiration | 1/2/2021 | None |

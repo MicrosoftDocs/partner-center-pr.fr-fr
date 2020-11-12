@@ -4,15 +4,15 @@ description: Recevez des réponses aux questions courantes sur les paiements sur
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175294"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532019"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Questions courantes sur le paiement de la place de marché commercial
 
@@ -32,7 +32,7 @@ Cet article répond aux questions fréquemment posées sur les versements sur le
 - Vérifiez la responsabilité du paiement de la taxe par pays. Dans le cas de pays où Microsoft est responsable de la taxe, Microsoft collecte et déduit les taxes des revenus de l’éditeur. Le montant de la transaction indiqué dans le relevé est le montant après paiement des taxes. Consultez [Détails des taxes](tax-details-marketplace.md).
 - Les offres SaaS et IaaS ont un tarif réduit de 10% au lieu de la valeur standard de 20%, ce qui laisse un taux de bénéfices de 90%. Cette promotion est valable jusqu’au 30 juin 2021.
 
-En **savoir plus**sur le contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), les [Détails](payout-policy-details.md)de la stratégie de paiement, le [seuil de paiement, la méthode et le laps de temps](payment-thresholds-methods-timeframes.md), [dans la place de marché commercial, les](marketplace-get-paid.md) [Détails fiscaux](tax-details-marketplace.md), les [déclarations](payout-statement.md)de paiement, le [tableau de bord des commandes dans commercial Marketplace](/azure/marketplace/partner-center-portal/orders-dashboard)
+En **savoir plus** sur le contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), les [Détails](payout-policy-details.md)de la stratégie de paiement, le [seuil de paiement, la méthode et le laps de temps](payment-thresholds-methods-timeframes.md), [dans la place de marché commercial, les](marketplace-get-paid.md) [Détails fiscaux](tax-details-marketplace.md), les [déclarations](payout-statement.md)de paiement, le [tableau de bord des commandes dans commercial Marketplace](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>Rapprochement des bénéfices
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Comment faire pour rapprocher les relevés de paiement avec les rapports de commande ou d’utilisation dans Analytics ?
@@ -47,7 +47,7 @@ Utilisez AssetID, orderID et l’ID d’article de ligne figurant dans le rappor
 - Pour les clients d’entreprise, les revenus de l’éditeur s’affichent dans le relevé 1-2 jours après la date du bon de commande.
 - Pour les clients n’appartenant pas à l’entreprise, les revenus de l’éditeur s’affichent dans le relevé 1-2 jours après la réception du paiement du client.
 
-En **savoir plus**sur les [instructions de paiement](payout-statement.md), le [tableau de bord Orders dans commercial Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
+En **savoir plus** sur les [instructions de paiement](payout-statement.md), le [tableau de bord Orders dans commercial Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payout-policies"></a>Politiques de paiement
 
@@ -60,7 +60,7 @@ En **savoir plus**sur les [instructions de paiement](payout-statement.md), le [t
 - Une fois que vos revenus sont à l’état Non traité, vous pouvez vérifier la date d’échéance afin de connaître le mois durant lequel le paiement de vos revenus sera traité. Une fois votre paiement préparé, l’état de votre obtention passe à « traité ».  Microsoft effectue les paiements le 15 du mois de l’échéance.
 - Pour les commandes payées par carte de crédit, Microsoft conserve les paiements 30 jours jusqu’à ce que l’obtention soit mature.
 
- **Informations supplémentaires**: contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
+ **Informations supplémentaires** : contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>Paiements et ajustements
 
@@ -81,7 +81,7 @@ La devise du paiement est basée sur la devise que vous avez sélectionnée dans
 
 Les ajustements de paiement sont des corrections de paiement afin de tenir compte des ajustements compensatoires, tels que les problèmes système. Dans le relevé de paiements, ReasonCode indique la raison de l’ajustement. Les ajustements ne sont pas destinés à être rapprochés directement avec les transactions individuelles.
 
-**Informations supplémentaires**: contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
+**Informations supplémentaires** : contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Taxes
 
@@ -91,11 +91,11 @@ Dans le téléchargement de l’historique des transactions, recherchez la colon
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Comment faire pour télécharger les formulaires fiscaux relatifs aux frais de service ?
 
-Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers le formulaire fiscal sur les frais de service s’affiche pour un paiement dont les frais de service sont facturés.
+Accédez à la page **Payout Payment** , puis à la section **List of Payment**. Un lien vers le formulaire fiscal sur les frais de service s’affiche pour un paiement dont les frais de service sont facturés.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Comment faire pour télécharger un formulaire fiscal de retenue à la source au format PDF ?
 
-Accédez à la page *Payout Payment*, puis à la section **List of Payment**. Un lien vers un formulaire fiscal de retenue à la source s’affiche à côté d’un paiement.
+Accédez à la page *Payout Payment* , puis à la section **List of Payment**. Un lien vers un formulaire fiscal de retenue à la source s’affiche à côté d’un paiement.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Où puis-je trouver des formulaires fiscaux de fin d’exercice ?
 
@@ -104,16 +104,16 @@ Accédez à la [page de profil](https://partner.microsoft.com/dashboard/payee/pr
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Comment faire pour trouver la retenue à la source pour une transaction ?
 La retenue à la source s’applique aux éditeurs américains qui ont rempli un formulaire W-9. La retenue à la source est calculée sur un paiement mensuel.
 
-Informations **supplémentaires**: contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie de paiement](payout-policy-details.md)
+Informations **supplémentaires** : contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie de paiement](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>Accès aux relevés de paiement
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Comment faire pour accéder à un relevé de paiements ?
 
 1. Vérifiez vos rôles. Pour accéder au relevé de paiements, vous devez avoir le rôle de *contributeur financier* ou *propriétaire du compte*.
-2. Dans la barre de navigation en haut à droite, sélectionnez l’icône **paiement** pour afficher votre relevé de paiement. Choisissez entre **l’historique des transactions**, le **paiement**et le **Téléchargement**.
+2. Dans la barre de navigation en haut à droite, sélectionnez l’icône **paiement** pour afficher votre relevé de paiement. Choisissez entre **l’historique des transactions** , le **paiement** et le **Téléchargement**.
 
-Informations **supplémentaires**: [rôles et autorisations de paiement](payout-statement.md#roles-and-permissions), [instructions de paiement](payout-statement.md) 
+Informations **supplémentaires** : [rôles et autorisations de paiement](payout-statement.md#roles-and-permissions), [instructions de paiement](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>Rapport de déclaration de paiement
 
@@ -131,17 +131,17 @@ Vous pouvez ainsi afficher vos revenus comme non traités, traités ou envoyés.
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Comment faire pour télécharger les formulaires fiscaux relatifs aux frais de service ?
 
-Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers le formulaire fiscal sur les frais de service s’affiche pour un paiement dont les frais de service sont facturés.
+Accédez à la page **Payout Payment** , puis à la section **List of Payment**. Un lien vers le formulaire fiscal sur les frais de service s’affiche pour un paiement dont les frais de service sont facturés.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Comment faire télécharger un formulaire d’impôt à la retenue au format PDF ?
 
-Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers un formulaire fiscal de retenue à la source s’affiche à côté d’un paiement.
+Accédez à la page **Payout Payment** , puis à la section **List of Payment**. Un lien vers un formulaire fiscal de retenue à la source s’affiche à côté d’un paiement.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Où puis-je trouver des formulaires fiscaux de fin d’exercice ?
 
 Accédez à la [page de profil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) pour afficher les formulaires fiscaux de fin d’exercice.
 
-Informations **supplémentaires**: [instructions de paiement](payout-statement.md), [téléchargement de l’historique des transactions](payout-statement.md#transaction-history-download)
+Informations **supplémentaires** : [instructions de paiement](payout-statement.md), [téléchargement de l’historique des transactions](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Instructions historiques
 
@@ -149,7 +149,7 @@ Informations **supplémentaires**: [instructions de paiement](payout-statement.m
 
 Le relevé historique affiche l’instantané des données de paiement à compter d’octobre 2019. Malheureusement, les informations de paiement ici ne sont pas actualisées. Pour recevoir les informations les plus récentes, envoyez un ticket de support pour les données les plus récentes.
 
-Informations **supplémentaires**: [instructions de paiement](payout-statement.md), [téléchargement de l’historique des transactions](payout-statement.md#transaction-history-download)
+Informations **supplémentaires** : [instructions de paiement](payout-statement.md), [téléchargement de l’historique des transactions](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>API d’exportation de paiement
 
