@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175236"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567072"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Comment signaler des problèmes avec l’espace partenaires et envoyer des informations de journal ou de diagnostic
 
@@ -41,6 +41,24 @@ Tous les utilisateurs connectés au centre des partenaires peuvent créer des de
 
 5. Renseignez les **Détails du problème** , puis **envoyez**. Un représentant du support technique partenaire vous contactera.
 
+## <a name="schedule-a-support-appointment"></a>Planifier un rendez-vous de support 
+
+**Actuellement en version préliminaire*
+
+Si votre problème nécessite une conversation avec votre avocat de support, vous pouvez planifier le rendez-vous à partir des détails de votre ticket.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Planifier un rendez-vous de support":::
+
+1.  À partir de la page Détails du ticket dans l’espace partenaires, sélectionnez une date et une heure disponibles dans le calendrier de l’avocat du support. Vous ne verrez que les dates et heures disponibles dans votre fuseau horaire local.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Planifier un rendez-vous":::
+
+2. L’espace partenaires vérifie la disponibilité du calendrier de l’avocat de support.
+
+1. Lorsque vous planifiez un rendez-vous, l’espace partenaires vous envoie une invitation à un calendrier contenant des informations sur la façon dont l’avocat du support vous contactera pour vous permettre de suivre ce rendez-vous dans votre calendrier de travail.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Date et heure":::
+
 ## <a name="send-diagnostics"></a>Envoyer des diagnostics
 
 Si une erreur se produit pendant que vous êtes sur une page de l’espace partenaires, vous pouvez être invité à collecter les informations du journal. Sélectionnez **collecter plus d’informations** à partir du lien qui s’affiche en haut de la page pour ouvrir l’outil de diagnostic client. Cet outil collecte les informations dont l’équipe du support des partenaires a besoin pour déterminer la cause de l’erreur. 
@@ -65,3 +83,6 @@ Vous pouvez consulter les informations de diagnostic et les enregistrer dans un 
 
 Le support partenaires peut vous demander d’exécuter cet outil plusieurs fois afin de pouvoir obtenir les informations les plus récentes.
 
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Signaler un problème de service au nom d’un client](report-problems-on-behalf-of-a-customer.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132825"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433306"
 ---
 # <a name="october-2020-announcements"></a>Annonces du mois d’octobre 2020
 
@@ -23,6 +23,27 @@ Cette page détaille les annonces de l’Espace partenaires Microsoft pour octob
 Annonces 2020 :  [Mars](2020-march.md) | [Avril](2020-april.md) | [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | [Septembre](2020-september.md) | Octobre
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Correction concernant l’extension du forfait d’appels 
+
+### <a name="categories"></a>Catégories
+
+- Date : 2020-10-29
+- Offres/marchés
+
+### <a name="impacted-audience"></a>Public concerné
+
+Fournisseurs directs, fournisseurs indirects et revendeurs indirects.
+
+### <a name="details"></a>Détails
+
+Le 1er octobre 2020, nous avons annoncé [la disponibilité des Forfaits d’appels Office 365 sur de nouveaux marchés](2020-september.md#2). Cette annonce n’est pas correcte, et les Forfaits nationaux comprenant 240 minutes par utilisateur et par mois ne sont pas disponibles comme mentionné précédemment. 
+
+
+Pour plus d’informations sur les Forfaits d’appels, reportez-vous à la [documentation produit](/microsoftteams/calling-plan-landing-page) Microsoft teams.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Mises à jour des fonctionnalités des abonnements au logiciel Windows Server
 

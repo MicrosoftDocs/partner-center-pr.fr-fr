@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133029"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363620"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Attribuer des rôles et des autorisations aux utilisateurs d’une entreprise qui ont besoin de travailler dans l’Espace partenaires
 
@@ -127,21 +127,38 @@ Ces rôles ne sont pas des rôles Azure Active Directory. Ces rôles gèrent l�
 ||*    Créer des tickets de support pour l’Espace partenaires
 ||*    Voir les tickets de support partenaire que vous créez
 
+## <a name="manage-referrals"></a>Gérer les références
 
-## <a name="manage-referrals"></a>Gérer les références 
+> [!Note]
+>Le nouveau rôle utilisateur Références sera disponible à compter du 16 novembre 2020. Les administrateurs de références existants conservent leur rôle d’administrateur de référence pour l’ensemble de l’entreprise.
 
-|**Rôle**|**Ce qu’il peut faire**|**En savoir plus**|
-|-----------------------------|:------------------------|---|
-|Administrateur des références       |*    Voir, créer et gérer les profils métier|[Gérer différents prospects, comme les demandes des clients, des prospects qualifiés par le marketing et des prospects qualifiés par les commerciaux](manage-leads.md)
-||*    Recevoir et gérer les références
-||* Voir, créer et gérer les références de covente|
-||*    Voir, créer et gérer les demandes de service des partenaires
-|Administrateur de profils métier   |* Voir, créer et gérer le profil métier |[Créer un profil professionnel](create-a-marketing-profile.md)
-||*    Voir, créer et gérer les demandes de service des partenaires
-||*    Créer des tickets de support pour l’Espace partenaires
-||*    Voir les tickets de support partenaire que vous créez|
+|**Rôle** | **Ce qu’il peut faire**|**En savoir plus**
+|------------------------------|:-------------------------|---|
+|Administrateur des références|Créer et gérer tous les éléments sous l’onglet Références dans l’Espace partenaires|[Gérer les opportunités de co-vente](manage-co-sell-opportunities.md)
+||    Peut afficher et modifier l’ensemble des prospects et opportunités de co-vente
+||    Peut affecter des membres d’une équipe à une transaction
+||    Peut consulter et modifier des profils métier
+||    Peut consulter et inscrire des transactions pour les opportunités marquées comme conclues et éligibles à l’inscription de transactions
+||    Peut créer et consulter des tickets de support
+|Utilisateur Références|Créer et gérer des opportunités de co-vente uniquement s’il fait partie de l’équipe |[Gérer les opportunités de co-vente](manage-co-sell-opportunities.md)
+||    Peut créer des opportunités de co-vente pour les emplacements où le rôle leur est attribué.
+||    Peut consulter et inscrire des transactions pour les opportunités marquées comme conclues et éligibles à l’inscription de transactions s’il est membre d’une équipe.
+||    Peut créer et consulter des tickets de support
+|Administrateur de profils métier|Créer et gérer les profils métier | [Gérer des profils métier](create-a-marketing-profile.md)
+||    Peut créer et consulter des tickets de support
 
-## <a name="manage-incentives"></a>Gérer les primes incitatives 
+Avec le nouveau rôle utilisateur Références, nous introduisons également la portée de l’emplacement pour les transactions. Le tableau ci-dessous décrit l’accès aux transactions en fonction de l’emplacement.
+
+|**Étendue** | **Ce qu’il peut faire** |
+|------------------------------|:-------------------------|
+|Toute l’entreprise | Aussi bien les administrateurs que les utilisateurs ont accès aux opérations de création de transactions pour n’importe quel emplacement de leur entreprise|
+|| L’administrateur des références a accès à la consultation et à la modification de toutes les transactions |
+|| Les utilisateurs de références ont accès à l’affichage et à la modification de toutes les transactions uniquement s’ils font partie de l’équipe |
+|Un ou plusieurs emplacements | Aussi bien les administrateurs que les utilisateurs ont accès aux opérations de création de transactions pour l’emplacement affecté de leur entreprise|
+|| L’administrateur des références a accès à la consultation et à la modification de toutes les transactions appartenant aux emplacements affectés|
+|| L’administrateur des références a accès à la consultation et à la modification de toutes les transactions appartenant aux emplacements affectés s’ils font partie de l’équipe|
+
+## <a name="manage-incentives"></a>Gérer les primes incitatives
 
 |**Rôle** | **Ce qu’il peut faire**|**En savoir plus**
 |------------------------------|:-------------------------|---|
