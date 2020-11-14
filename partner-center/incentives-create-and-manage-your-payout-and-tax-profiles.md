@@ -1,19 +1,19 @@
 ---
 title: Profils de paiement et fiscaux dans l’Espace partenaires
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 11/12/2020
 description: Créez et gérez vos paiements et vos profils fiscaux pour vous permettre d’être payé pour votre travail d’incentives. Comprend la création, la gestion et l’utilisation de différents profils.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175350"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626029"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer le paiement et les profils fiscaux des incentives dans l’espace partenaires
 
@@ -24,7 +24,7 @@ ms.locfileid: "92175350"
 **Rôles appropriés :**
 
 - Administrateur de primes incitatives
-- Administrateur de la facturation
+- Administrateur des comptes
 - Administrateur général
 
 Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
@@ -43,15 +43,11 @@ Les utilisateurs incitants peuvent consulter les résultats des incentives et le
 
 ### <a name="choose-your-disbursement-currency"></a>Choisir votre devise de décaissement
 
-Par défaut, les incentives sont effectués dans la devise locale de chaque entité respective. Vous pouvez spécifier une autre devise lors de la configuration du profil. Les paiements sont calculés à l’aide d’un taux de change défini chaque mois par Microsoft. Vous êtes responsable des modifications apportées à la valeur en raison de la devise sélectionnée.
-
-### <a name="bank-and-tax-information-and-other-programs"></a>Informations bancaires et fiscales, ainsi que d’autres programmes
-
-Fournissez les informations décrites ci-dessous, même si Microsoft utilise déjà vos données bancaires pour les paiements. Cela permet de garantir la confidentialité et la sécurité des données de votre entreprise, car la copie de votre profil vers le nouvel outil peut exposer des informations sensibles. Ce processus est également une bonne opportunité de s’assurer que les données sont complètes et précises.
+Les paiements incitatives sont effectués dans la devise que vous avez sélectionnée lors de la configuration de votre profil de paiement. Les paiements sont calculés à l’aide d’un taux de change défini chaque mois par Microsoft. Vous êtes responsable des modifications apportées à la valeur en raison de la devise sélectionnée.
 
 ### <a name="using-different-profiles-for-different-microsoft-programs"></a>Utilisation de différents profils pour différents programmes Microsoft
 
-Au sein de la vente au détail, les paiements de chacun des cinq programmes d’incentives de vente au détail peuvent aller sur le même compte bancaire. Vous pouvez également choisir de faire en sorte que les paiements de la Xbox de vente au détail soient effectués sur un compte bancaire alors que le Bureau de vente au détail est payé à un compte bancaire différent.
+Si votre entreprise est inscrite dans plusieurs programmes d’incentives, vous pouvez utiliser le même compte de paiement pour tous les clients, ou choisir d’utiliser des comptes de paiement différents pour différents programmes.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires
 
@@ -66,7 +62,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
    - Plusieurs domaines peuvent être inscrits dans un compte Azure AD. Contactez votre administrateur général pour déterminer les domaines associés.
    - Si vous êtes uniquement en mesure de vous connecter avec le @onmicrosoft.com domaine, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte Azure ad.
-   - Si vous êtes invité à sélectionner un compte **professionnel ou scolaire** ou un compte **personnel**, sélectionnez **compte professionnel ou scolaire**.
+   - Si vous êtes invité à sélectionner un compte **professionnel ou scolaire** ou un compte **personnel** , sélectionnez **compte professionnel ou scolaire**.
 
 2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** , puis sélectionnez **paramètres de partenaire**.
 
@@ -76,7 +72,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** . 
 
-2. Sélectionnez **paramètres du partenaire**, développez la **section paiement et taxes**, puis sélectionnez **attribution du profil de paiement et de taxe**. 
+2. Sélectionnez **paramètres du partenaire** , développez la **section paiement et taxes** , puis sélectionnez **attribution du profil de paiement et de taxe**. 
    
    Une liste de vos programmes s’affiche. Sélectionnez la flèche en regard d’un programme pour afficher les détails du profil. 
 
@@ -117,9 +113,9 @@ Les profils bancaires sont créés au niveau de l’organisation. Cela permet d�
 
 5. Sur la page **bénéficiaire** , entrez les informations appropriées. Le bénéficiaire est la personne de votre société que la Banque doit contacter si elle a besoin d’aborder votre compte.
 
-6. Une fois les champs remplis, sélectionnez **Terminer**, puis cliquez sur **confirmer** pour créer votre profil bancaire.
+6. Une fois les champs remplis, sélectionnez **Terminer** , puis cliquez sur **confirmer** pour créer votre profil bancaire.
 
-Vous êtes redirigé vers la page des **profils de paiement et de taxes** . L’état de votre nouveau profil reflète la **validation Microsoft en attente** jusqu’à ce que la validation soit terminée. Ce processus peut prendre jusqu’à 48 heures. Une fois la validation terminée, l’état de votre profil reflète l' **approbation** ou l' **action requise**. Si vous avez besoin d’une **action**, répétez les étapes ci-dessus pour fournir les informations nécessaires. 
+Vous êtes redirigé vers la page des **profils de paiement et de taxes** . L’état de votre nouveau profil reflète la **validation Microsoft en attente** jusqu’à ce que la validation soit terminée. Ce processus peut prendre jusqu’à 48 heures. Une fois la validation terminée, l’état de votre profil reflète l' **approbation** ou l' **action requise**. Si vous avez besoin d’une **action** , répétez les étapes ci-dessus pour fournir les informations nécessaires. 
 
 ## <a name="create-your-tax-profile"></a>Créer votre profil fiscal
 
