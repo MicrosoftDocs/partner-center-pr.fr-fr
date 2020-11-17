@@ -1,7 +1,7 @@
 ---
 title: Augmenter l’adoption et la satisfaction client
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment utiliser les métriques dans l’espace partenaires. Les mesures peuvent indiquer si votre entreprise augmente, comment les clients utilisent leurs licences et où concentrer leurs investissements.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545930"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691365"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Utiliser des métriques dans l’espace partenaires pour augmenter l’adoption et la satisfaction
 
@@ -67,7 +67,7 @@ Terminologie :
 
 - **% de déploiement**&nbsp;=&nbsp;licences attribuées/licences vendues
 
-- **% d’utilisation**&nbsp;=&nbsp;droits actifs/total des droits
+- **Utilisation%** = utilisateurs actifs/nombre total d’utilisateurs
 
    Il arrive que le pourcentage d’utilisation soit surestimé ou supérieur à 100&nbsp;%. Cela peut se produire pour plusieurs raisons :
 

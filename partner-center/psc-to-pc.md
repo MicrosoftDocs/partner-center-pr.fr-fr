@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381429"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670165"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -78,7 +78,7 @@ Si vous ne voyez pas l’onglet Références :
 Une fois votre compte configuré dans l’espace partenaires, utilisez l’Assistant Migration des utilisateurs de la page opportunités de covente pour affecter automatiquement des rôles de l’espace partenaires aux employés de votre entreprise.
 
 >[!Note]
-> La migration des utilisateurs ne peut être effectuée que par les [administrateurs de compte](permissions-overview.md#manage-mpn-membership-and-your-company) de votre entreprise. Si vous n’avez pas le rôle d’administrateur de compte, recherchez un administrateur de compte qui peut vous aider à configurer les comptes d’utilisateur à l’aide de l’Assistant Migration des utilisateurs. La fonctionnalité de migration utilisateur sera disponible à partir du 16 novembre 2020.
+> La migration des utilisateurs ne peut être effectuée que par les [administrateurs de compte](permissions-overview.md#manage-mpn-membership-and-your-company) de votre entreprise. Si vous n’avez pas le rôle d’administrateur de compte, recherchez un administrateur de compte qui peut vous aider à configurer les comptes d’utilisateur à l’aide de l’Assistant Migration des utilisateurs. La fonctionnalité de migration utilisateur sera disponible à partir du 18 novembre 2020.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Image représentant l’Assistant Migration des utilisateurs.":::
 

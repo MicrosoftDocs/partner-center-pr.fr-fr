@@ -1,7 +1,7 @@
 ---
 title: Obtenir des spécialisations avancées
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Renforcez votre profil d’entreprise dans le répertoire des partenaires Microsoft. Découvrez comment obtenir des spécialisations avancées, ainsi que vos compétences en or et en argent.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198075"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691382"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Obtenez une spécialisation avancée pour présenter l’expertise
 
@@ -32,24 +32,25 @@ Les spécialisations avancées vous permettent également de vous différencier 
 Vous pouvez bénéficier de spécialisations avancées dans deux domaines principaux :
 
 - Azure
-- La sécurité et l’espace de travail modernes
+- Travail moderne et sécurité
 
 Les spécialisations avancées d' **Azure** incluent :
 
-- Migration de Windows Server et de SQL Server vers Microsoft Azure 
-- Bureau virtuel Microsoft Windows
-- Migration de bases de données Linux et open source vers Microsoft Azure
-- Kubernetes sur Microsoft Azure
 - Migration de Data Warehouse vers Microsoft Azure
-- SAP sur Microsoft Azure
+- Kubernetes sur Microsoft Azure
+- Migration de bases de données Linux et open source vers Microsoft Azure
+- Bureau virtuel Microsoft Windows
 - Modernisation des applications Web pour Microsoft Azure
+- SAP sur Microsoft Azure
+- Migration de Windows Server et de SQL Server vers Microsoft Azure
  
-Les spécialisations avancées **de la sécurité et de l’espace de travail sont les** suivantes :
+Les spécialisations avancées **de sécurité et de travail modernes sont les** suivantes :
 
-- Réunions et salles de réunion pour Microsoft teams
 - Adoption et gestion des modifications
-- Déploiement du travail d’équipe
 - Appeler pour Microsoft teams
+- Réunions et salles de réunion pour Microsoft teams
+- Déploiement du travail d’équipe
+- Gestion de l’identité et de l’accès
 - Protection contre les menaces
  
 > [!NOTE]
@@ -79,12 +80,12 @@ Toutes les spécialisations avancées nécessitent que vous ayez acquis une comp
 
 Vous devez effectuer un audit avec un auditeur tiers pour les spécialisations avancées Azure suivantes :
 
-- Migration de Windows Server et de SQL Server vers Microsoft Azure
-- Migration de bases de données Linux et open source vers Microsoft Azure
 - Migration de Data Warehouse vers Microsoft Azure
 - Kubernetes sur Microsoft Azure
-- Modernisation des applications Web pour Microsoft Azure
+- Migration de bases de données Linux et open source vers Microsoft Azure
 - Bureau virtuel Microsoft Windows
+- Modernisation des applications Web pour Microsoft Azure
+- Migration de Windows Server et de SQL Server vers Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>Exemple d’audit dans l’espace partenaires
 
@@ -101,20 +102,22 @@ Une fois toutes les conditions requises terminées, l’État devient **actif**.
 
 Vous avez besoin de références client pour les spécialisations avancées suivantes :
 
-- SAP sur Azure
+
 - Adoption et gestion des modifications
-- Déploiement du travail d’équipe
 - Appeler pour Microsoft teams
 - Réunions et salles de réunion
+- SAP sur Azure
+- Déploiement du travail d’équipe
+- Gestion de l’identité et de l’accès
 - Protection contre les menaces
 
 ### <a name="customer-reference-example-in-partner-center"></a>Exemple de référence client dans l’espace partenaires
 
-**Les réunions et les salles de réunion des équipes Microsoft**sont un exemple de spécialisation avancée nécessitant des références client.
+**Les réunions et les salles de réunion des équipes Microsoft** sont un exemple de spécialisation avancée nécessitant des références client.
 
 Outre la compétence Gold, les certifications et les exigences en matière de performances, vous devez fournir trois références client qui illustrent votre capacité à déployer et à gérer.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Exemple de page conditions préalables qui indique la configuration requise pour obtenir une compétence active Cloud Platform.":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Exemple de page conditions préalables pour les spécialisations avancées nécessitant des références client.":::
 
 Tant que vous ne répondez pas à tous les composants requis, votre statut reste **non démarré.** Une fois que vous avez terminé toutes les conditions requises, l’État devient **actif**. L’état actif active automatiquement une balise de spécialisation avancée sur votre **profil d’entreprise**. Ce profil est visible pour tous les clients qui essaient de [trouver un fournisseur de solutions](https://www.microsoft.com/solution-providers/home).
 
