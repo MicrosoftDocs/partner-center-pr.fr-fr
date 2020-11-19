@@ -1,20 +1,20 @@
 ---
 title: Vérifier votre profil de partenaire
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Découvrez comment vérifier les détails de votre entreprise comme le contact principal, l’adresse et les informations sur les programmes. Vous pouvez aussi mettre à jour votre adresse légale et votre adresse de facturation.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490637"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94625995"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Vérifier les informations de votre profil de partenaire dans l’Espace partenaires
 
@@ -69,9 +69,17 @@ Pour mettre à jour votre ID MPN associé à votre compte CSP :
 
 ## <a name="update-your-billing-address"></a>Mettre à jour votre adresse de facturation
 
-Si vous êtes l’administrateur général, l’administrateur de facturation ou l’agent d’administration, vous pouvez modifier l’adresse qui apparaît sur votre facture dans votre **profil de facturation**. Toutefois, vous ne pouvez pas modifier le nom de la société sur votre facture en raison d’une limitation du système de facture.
+Si vous êtes l’administrateur général, l’administrateur de facturation ou l’agent d’administration, vous pouvez mettre à jour les éléments suivants :
 
- 
+- L’adresse qui apparaît sur votre facture dans votre **profil de facturation**
+- Votre numéro de bon de commande
+
+Vous ne pouvez pas modifier les éléments suivants :
+ 
+- Nom de la société
+- Pays ou région
+- Date de facturation
+ 
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Gérer des sites](manage-locations.md)

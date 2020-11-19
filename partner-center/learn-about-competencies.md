@@ -1,7 +1,7 @@
 ---
 title: Conditions des compétences de niveau Gold et Silver Microsoft
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment atteindre l’élite des partenaires Microsoft et attirer de nouveaux clients en répondant aux conditions des compétences pour acquérir les niveaux d’adhésion Gold et Silver.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100719"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691331"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Différencier votre entreprise en atteignant les compétences Microsoft
 
@@ -65,6 +65,10 @@ Pour en savoir plus sur les exigences liées à l’obtention de compétences de
 
 - Découvrez comment mettre en avant votre expertise en associant une compétence de niveau Gold à une ou plusieurs [spécialisations avancées](advanced-specializations.md).
 
-- Apprenez-en davantage sur les [avantages propres à Go-to-Market](mpn-learn-about-go-to-market-benefits.md) inclus avec les compétences.
+- Apprenez-en davantage sur les [ressources propres à Go-to-Market](mpn-learn-about-go-to-market-benefits.md) incluses avec les compétences.
 
 - Apprenez-en davantage sur [les factures et les taxes relatives aux compétences](mpn-view-print-maps-invoice.md).
+
+- Affichez un [rapport de compétences](pci-competencies-report.md) d’Insights d’Espace partenaires qui indique l’état actuel de vos compétences.
+
+- Obtenez des réponses aux [questions les plus fréquemment posées](competencies-faq.md) sur les compétences.
