@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488124"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691314"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,9 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de novembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Changement de la devise de facturation des partenaires pour les nouvelles offres commerciales en UE/AELE](2020-november.md#10)|17 novembre|
+|Fonctionnalités|[Limitation pour les API de l’Espace partenaires](2020-november.md#9)|17 novembre|
+|Fonctionnalités|[Erreurs 409 dues à des demandes MCA en double](2020-november.md#8)|16 novembre|
 |Fonctions|[Tests disponibles : Mises à jour des API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation des clients Éducation](2020-november.md#7)|10 novembre|
 |Fonctions|[Expansion du contenu partenaire des licences commerciales dans la Galerie de préparation des opérations](2020-november.md#6)|2 novembre|
 |Offres/marchés|[Lancement de la référence SKU Premium pour Salles Microsoft Teams](2020-november.md#5)|2 novembre|
