@@ -1,20 +1,20 @@
 ---
 title: Signaler des problèmes avec l’Espace partenaires
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Découvrez Comment signaler des problèmes avec l’espace partenaires et Comment collecter des informations de diagnostic pour l’équipe de support partenaire.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567072"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983337"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Comment signaler des problèmes avec l’espace partenaires et envoyer des informations de journal ou de diagnostic
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567072"
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
-Contactez le support technique si vous rencontrez des problèmes ou si vous avez besoin d’aide avec l’espace partenaires.
-
-**Rôles d'utilisateur**
+**Rôles appropriés**
 
 Tous les utilisateurs connectés au centre des partenaires peuvent créer des demandes de support partenaires. Les utilisateurs peuvent uniquement afficher les demandes de support qu’ils ont soumises après leur connexion à l’espace partenaires.
 
@@ -58,6 +56,12 @@ Si votre problème nécessite une conversation avec votre avocat de support, vou
 1. Lorsque vous planifiez un rendez-vous, l’espace partenaires vous envoie une invitation à un calendrier contenant des informations sur la façon dont l’avocat du support vous contactera pour vous permettre de suivre ce rendez-vous dans votre calendrier de travail.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Date et heure":::
+
+## <a name="hours-of-operation"></a>Heures d’utilisation
+
+**Support technique du partenaire**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Heures de support de l’opération":::
 
 ## <a name="send-diagnostics"></a>Envoyer des diagnostics
 
