@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531985"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947662"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Planifications de paiement et détails de la stratégie
 
@@ -32,9 +32,9 @@ Un paiement se produit souvent avant que Microsoft ne collecte le paiement du cl
 | --- | --- | --- | --- |
 | Utilisation ou mois de transaction | Le client utilise ou achète un service. | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 1** |
 | Le bon de commande est créé | Déterminer l’utilisation totale, total des transactions | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 2** |
-| Le paiement de l’ISV est créé | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l’instruction de paiement | **Mois 3 (1er semaine)** |
-| Préparer le paiement | Les bénéfices sont préparés pour le paiement mensuel | Marqué comme étant à venir dans l’historique des transactions dans le relevé de paiement | **Mois 3 (1er semaine)** |
-| **Date de paiement** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l’instruction de paiement** | **Mois 3 (au plus tard le 15)** |
+| Le paiement de l’ISV est créé | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
+| Préparer le paiement | Les bénéfices sont préparés pour le paiement mensuel | Marqué comme étant à venir dans l’historique des transactions dans le [relevé de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
+| **Date de paiement** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l' [instruction de paiement](payout-statement.md)** | **Mois 3 (au plus tard le 15)** |
 | Facture payée par le client | Microsoft collecte le paiement du client | Aucun changement | **Du mois 4 au 12** |
 |
 
@@ -48,10 +48,10 @@ Tous les achats effectués sur une carte de crédit ou une facture mensuelle ont
 | --- | --- | --- | --- |
 | Utilisation ou mois de transaction | Le client utilise ou achète un service. | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 1** |
 | Facture payée par le client | Déterminer le nombre total d’utilisations, la valeur totale de la transaction et le paiement du client | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 2** |
-| Le paiement de l’ISV est créé | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l’instruction de paiement | **Mois 2** |
-| Période de conservation de 30 jours | Assurez la collecte des fonds, des refacturations possibles et des demandes de remboursement | Marqué comme non traité dans l’historique des transactions dans l’instruction de paiement | **Mois 3** |
-| Préparer le paiement | Les bénéfices sont préparés pour le paiement mensuel | Marqué comme étant à venir dans l’historique des transactions dans le relevé de paiement | **Première semaine du mois 4** |
-| **Date de paiement** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l’instruction de paiement** | **Le mois 4 (au plus tard le 15)** |
+| Le paiement de l’ISV est créé | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 2** |
+| Période de conservation de 30 jours | Assurez la collecte des fonds, des refacturations possibles et des demandes de remboursement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 3** |
+| Préparer le paiement | Les bénéfices sont préparés pour le paiement mensuel | Marqué comme étant à venir dans l’historique des transactions dans le [relevé de paiement](payout-statement.md) | **Mois 4 (1er semaine)** |
+| **Date de paiement** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l' [instruction de paiement](payout-statement.md)** | **Le mois 4 (au plus tard le 15)** |
 |
 
 \* La date de paiement est l’heure standard du Pacifique (PST).
@@ -75,8 +75,8 @@ Voici un exemple de calendrier :
 | L’éditeur est avisé du passage probable en pertes et profits | 7/1/2021 | L’éditeur est notifié par e-mail que le client n’a pas encore envoyé le paiement. L’ID de transaction et le montant en dollars sont inclus. |
 | Le client reçoit un avis d’expiration | 1/2/2021 | None |
 | Fin du processus de recouvrement. Les fonds sont passés en pertes et profits | 15/2/2021 | L’éditeur est notifié par e-mail que les fonds ont été passés en pertes et profits. L’ID de transaction et le montant en dollars sont inclus. |
-| Le paiement est déduit | 1/3/2021 | Une transaction négative figurera dans le Relevé des revenus de l’Espace partenaires de l’éditeur |
-| Le paiement est retenu | 15/3/2021 | Les futurs paiements seront indiqués dans le Relevé des revenus de l’Espace partenaires. L’éditeur ne recevra pas de paiement tant que le solde sera négatif.  |
+| Le paiement est déduit | 1/3/2021 | L’éditeur verra une transaction négative dans l’instruction de paiement de l’espace partenaires |
+| Le paiement est retenu | 15/3/2021 | Les versements futurs seront affichés dans le relevé de paiement de l’espace partenaires. L’éditeur ne recevra pas de paiement tant que le solde sera négatif.  |
 |||
 
 \* La date de paiement est l’heure standard du Pacifique (PST).
@@ -97,4 +97,4 @@ En général, nous envoyons tout paiement dû pour un mois donné le 15 de ce m
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-En savoir plus sur les [taxes](tax-details-marketplace.md).
+- [Détails des taxes](tax-details-marketplace.md)

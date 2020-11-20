@@ -8,12 +8,12 @@ description: Synchronisez vos références dans l’espace partenaires à l’ai
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031332"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947735"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -60,7 +60,7 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 
 10. Sélectionnez la **synchronisation des références de l’espace partenaires pour Dynamics 365**. Les flux et entités Power automate suivants sont disponibles :
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Ouvrir AppSource":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="CRM disponibles":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Meilleure pratique : testez avant de passer en direct
 
@@ -71,9 +71,10 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 - Testez la solution sur une instance intermédiaire/CRM. 
 - En cas de réussite, importez en tant que solution gérée dans l’instance de production. 
 
-## <a name="configure-the-solution"></a>Configurer la solution
+## <a name="configure-the-solution"></a>Configuration de la solution
 
 1. Une fois que vous avez installé la solution dans votre instance CRM, revenez à [Power automate](https://flow.microsoft.com/).
+
 
 2. Dans la liste déroulante **environnements** dans l’angle supérieur droit, sélectionnez l’instance CRM dans laquelle vous avez installé la solution Power automate.
 
@@ -89,7 +90,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
       2. Créez une connexion en cliquant sur **créer une connexion**.
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Ouvrir AppSource":::
+         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="Créer une connexion":::
 
       3. Recherchez les **références de l’espace partenaires (** préversion) dans la barre de recherche dans le coin supérieur droit.
 
@@ -98,10 +99,31 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
       5. Ensuite, créez une connexion des événements de l’espace partenaires pour votre utilisateur de l’espace partenaires avec les informations d’identification de l’administrateur des références.
 
       6. Créez une connexion pour Common Data Service (environnement actuel) pour l’utilisateur administrateur CRM.
+       
+     
+      7. Une fois que toutes les connexions ont été ajoutées, vous devez voir les connexions suivantes dans votre environnement :
 
-4. Pour associer les flux Power automate avec les connexions, modifiez chacun des flux Power automate pour vous connecter à Common Data Service et aux références de l’espace partenaires. Enregistrez les modifications.
+:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="Connexions":::
+   
+## <a name="edit-the-connections"></a>Modifier les connexions
 
-5. **Activez** l’alimentation automatiser les flux.
+1. Revenez à la page **solutions** et sélectionnez **solution par défaut**. Sélectionnez **référence de connexion (version préliminaire)** en cliquant sur **tout**.
+
+:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="Connexion":::
+
+2. Modifiez chacune des connexions une par une en sélectionnant l’icône à trois points. Ajoutez les connexions appropriées.
+
+:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="Connexions listées"::: 
+
+3.  Activez les flux dans l’ordre suivant :
+- Inscription au webhook de l’espace partenaires (version préliminaire d’Insider)
+- Créer une référence de covente – Dynamics 365 à l’espace partenaires (version préliminaire d’Insider)
+- Espace partenaires Microsoft : mises à jour de référence de la co-vente à Dynamics 365 (version préliminaire d’Insider)
+- Espace partenaires vers Dynamics 365 (version préliminaire d’Insider)
+- Dynamics 365 pour l’espace partenaires (version préliminaire d’Insider)
+- Opportunité Dynamics 365 pour l’espace partenaires (version préliminaire d’Insider)
+- Dynamics 365 solutions Microsoft pour Partner Center (version préliminaire d’Insider)
+ 
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Utiliser les API webhook pour s’inscrire aux événements de changement de ressource
 
@@ -111,11 +133,11 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 2. Ajoutez des connexions pour (a.) utilisateur de l’espace partenaires avec les références d’administrateur (b.) des événements de l’espace partenaires comme indiqué ci-dessous
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Ouvrir AppSource":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Déclencheur":::
 
 3. Lorsque vous effectuez ces mises à jour, vous verrez
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Ouvrir AppSource":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
 
 4. Enregistrez vos modifications et sélectionnez **activer**.
 
@@ -127,7 +149,7 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 7. Sélectionnez l’icône de **copie** pour copier l’URL http postale fournie.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Ouvrir AppSource":::
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copier l’URL":::
 
 8. Maintenant, sélectionnez l’option inscription à un webhook de l’espace partenaires (version préliminaire d’Insider) et sélectionnez **exécuter**.
 
@@ -191,6 +213,16 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
 
    Vous pouvez modifier les mappages dans cette section en fonction du Guide de mappage de champs.
 
+Deux variables d’environnement sont créées :
+
+- Coche : indique si vous avez besoin d’une icône de coche en plus des opportunités synchronisées de manière bidirectionnelle entre l’espace partenaires et Dynamics 365 CRM.
+
+- Opportunités de covente de la synchronisation uniquement : signifie que vous souhaitez synchroniser uniquement les opportunités de covente.
+
+Vous pouvez choisir de modifier la valeur par défaut pour les variables d’environnement.
+
+:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="Zone d’édition pour les valeurs par défaut":::
+
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Synchronisation bidirectionnelle de la direction de la co-vente de bout en bout
 
 Une fois que vous avez installé, configuré et personnalisé la solution Power automate, vous pouvez tester la synchronisation des références de covente entre Dynamics 365 et l’espace partenaires.
@@ -215,6 +247,12 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
 - **Audit**: piste d’audit en lecture seule pour la synchronisation avec les références de l’espace partenaires
 
+Mettez à jour le formulaire d’opportunité dans Dynamics 365 CRM pour inclure le champ solutions for Products.
+
+:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="Formulaire d’opportunité":::
+
+:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{alt-text}":::
+
 ### <a name="scenarios"></a>SCÉNARIO
 
 1. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans CRM et synchronisée dans l’espace partenaires :
@@ -223,7 +261,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
    2. Assurez-vous que la section suivante est présente lorsque vous créez une « nouvelle opportunité » dans l’environnement Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Ouvrir AppSource":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Exemple de section d’opportunité présentant les informations de l’espace partenaires Microsoft dans Dynamics 365.":::
 
    3. Pour synchroniser cette opportunité avec l’espace partenaires Microsoft, veillez à définir les champs suivants dans la vue de la carte :
 
@@ -231,7 +269,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
       - **Comment Microsoft peut-il vous aider ?**:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Ouvrir AppSource":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Exemple de section d’opportunité dans Dynamics 365 qui affiche les options d’aide de l’espace partenaires Microsoft en regard d’un champ appelé comment peut-il aider Microsoft ?":::
 
       - **Produits**: ID de solution du produit
 
