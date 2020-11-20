@@ -1,8 +1,11 @@
 - name: Documentation sur les clients de la Place de marché Microsoft
   href: index.yml
+- name: Place de marché Azure
   items:
     - name: Créer une Place de marché privée Azure
       href: create-manage-private-azure-marketplace.md
+    - name: Intégrations des partenaires à la Place de marché Azure
+      href: partner-integrations.md
 - name: Informations de référence
   items:
     - name: Azure PowerShell
