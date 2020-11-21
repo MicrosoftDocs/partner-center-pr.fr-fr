@@ -1,19 +1,19 @@
 ---
-title: Intégrations des partenaires de la place de marché Azure
+title: Intégrations des partenaires à la Place de marché Azure
 description: Découvrez les solutions de la place de marché Azure qui s’intègrent à votre environnement Azure et obtenez un lien vers les guides de déploiement auprès des partenaires Microsoft.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691648"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006903"
 ---
-# <a name="azure-marketplace-partner-integrations"></a>Intégrations des partenaires de la place de marché Azure
+# <a name="azure-marketplace-partner-integrations"></a>Intégrations des partenaires à la Place de marché Azure
 
 Découvrez comment intégrer des solutions de partenaires dans votre environnement Azure. Cet article donne une vue d’ensemble de chaque solution et des liens vers des guides de déploiement détaillés. Les solutions sont répertoriées par ordre alphabétique. 
 
