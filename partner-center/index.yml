@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92198045"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983315"
 landingContent:
 - title: Bien démarrer avec l’Espace partenaires
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: Comprendre votre facture
       url: read-your-bill.md
-- title: Ressources pour les développeurs
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: Rejoindre le programme Utilisateur précoce du SDK et de l'API de l’Espace partenaires
-      url: /partner-center/develop/early-adopter-program
-    - text: Documentation pour les développeurs de l’Espace partenaires
-      url: /partner-center/develop
-    - text: Informations de référence de l’API REST de l’Espace partenaires
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: Informations de référence sur l’API .NET de l’Espace partenaires
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: SDK de l’Espace partenaires pour Java
-      url: /java/partnercenter/overview
-    - text: PowerShell dans l’Espace partenaires
-      url: /powershell/partnercenter/overview
 - title: Vendre dans la place de marché commerciale (ISV)
   linkLists:
   - linkListType: concept
