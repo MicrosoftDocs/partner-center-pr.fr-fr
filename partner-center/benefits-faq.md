@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564729"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417249"
 ---
 # <a name="benefits-faq"></a>Questions fréquentes (FAQ) sur les avantages
 
@@ -96,7 +96,7 @@ Vous pouvez affecter des abonnements à n’importe qui dans votre liste de gest
 Une fois que vous avez attribué l’abonnement, l’utilisateur doit se connecter à Visual Studio pour le gérer.
 
 >[!Note]
-> Un utilisateur affecté à un abonnement Visual Studio sur l’espace partenaires ne peut pas être supprimé avant 90 jours après l’attribution d’origine.
+> Les abonnements Visual Studio peuvent être réattribués d’un abonné à un autre après l’attribution d’origine de 90 jours
 
 ## <a name="technical-benefits-and-support"></a>Avantages techniques et support
 
