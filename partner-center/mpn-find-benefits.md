@@ -1,7 +1,7 @@
 ---
 title: Trouvez vos avantages
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment trouver vos avantages MPN dans le tableau de bord de l’espace partenaires. Contient des informations sur la recherche de votre ID d’accès et de votre ID de contrat pour les avantages techniques.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175324"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812836"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Trouver vos avantages Microsoft Partner Network 
 
@@ -45,7 +45,7 @@ En tant que membre Microsoft Partner Network, votre entreprise a accès à de no
    - Abonnements Visual Studio
    - Avantages techniques
    - Go-to-Market
-   - Récompenses de la place de marché
+   - Récompenses de la Place de marché
    - Générateur de logos
 
 3. En développant (+) un avantage, vous trouverez des informations supplémentaires qui vous aideront à activer l’avantage spécifique.
@@ -74,7 +74,7 @@ Pour obtenir des avantages techniques, vous verrez des ID de support technique M
 
    Vous devez voir l' **ID de contrat** de support produit spécifique et l' **ID d’accès** affectés à cet avantage.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Avantages étendus":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Exemple d’aide technique sur les compétences de base Gold avec l’ID de support technique Microsoft, comme l’ID de contrat et l’ID d’accès":::
 
    > [!NOTE]
    > Effectuez le suivi de ces ID de support. Certains systèmes peuvent les demander la première fois que vous (ou l’un des utilisateurs de votre société) consigne une demande de support associée à un avantage technique spécifique. Tous les utilisateurs de votre entreprise sont susceptibles d’utiliser le même ID d’accès et le même ID de contrat.
@@ -83,7 +83,7 @@ Pour obtenir des avantages techniques, vous verrez des ID de support technique M
 
 Pour savoir quels avantages sont disponibles avec les compétences Microsoft Action Pack, Silver et/ou Gold, consultez les ressources suivantes :
 
-- [Tableau des licences pour les partenaires Microsoft Action Pack](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Tableau des licences pour les partenaires Microsoft Action Pack](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Tableau des licences pour les partenaires de compétence](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
