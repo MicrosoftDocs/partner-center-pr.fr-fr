@@ -6,21 +6,51 @@ metadata:
   description: Découvrez comment rechercher et acheter des solutions, des applications et des services des partenaires Microsoft sur nos boutiques en ligne.
   ms.service: marketplace
   ms.topic: landing-page
-  author: dsindona
-  ms.author: dsindona
+  author: JasonWHowell
+  ms.author: jasonh
   ms.date: 11/17/2020
-  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
-  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
+  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 11/18/2020
-  ms.locfileid: "94845252"
+  ms.lasthandoff: 11/21/2020
+  ms.locfileid: "95006920"
 landingContent:
+- title: Microsoft AppSource
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Qu’est-ce que Microsoft AppSource ?
+      url: appsource-overview.md
+  - linkListType: get-started
+    links:
+    - text: Acheter des logiciels sur Microsoft AppSource
+      url: purchase-software-appsource.md
 - title: Place de marché Azure
   linkLists:
-  - linkListType: get-started
+  - linkListType: overview
+    links:
+    - text: Qu’est-ce que la Place de marché Microsoft Azure ?
+      url: azure-marketplace-overview.md
+  - linkListType: concept
+    links:
+    - text: Facturation
+      url: billing-invoicing.md
+    - text: Éligibilité au transfert d’abonnement
+      url: transfer-eligibility.md
+    - text: Intégrations des partenaires à la Place de marché Azure
+      url: partner-integrations.md
+  - linkListType: how-to-guide
     links:
     - text: Créer et gérer une place de marché Azure privée (préversion)
       url: create-manage-private-azure-marketplace.md
-    - text: Intégrations des partenaires à la Place de marché Azure
-      url: partner-integrations.md
+- title: Scénarios courants
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Politique de remboursement
+      url: refund-policies.md
+    - text: Contrats juridiques
+      url: legal-contracts.md
+    - text: Obtenir un support
+      url: get-support.md
