@@ -1,7 +1,7 @@
 ---
 title: Gérer les sites dans votre compte partenaire
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment ajouter une nouvelle localisation et comment l’ID MPN de localisation est utilisé dans les programmes d’incentives, l’activité CSP, les abonnements et autres transactions.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100769"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514795"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gérer les localisations de votre compte MPN et ajouter une nouvelle localisation
 
@@ -58,9 +58,9 @@ Spécifiez les informations détaillées officielles de votre entreprise, comme 
 
 1. Connectez-vous avec le compte MPN dans l’Espace partenaires. Le compte MPN doit disposer de privilèges d’administrateur général ou d’administrateur de compte. 
 
-1. À partir de l’**icône de paramètres**, sélectionnez **Partner settings** (Paramètres partenaire).
+1. À partir de l’**icône de paramètres**, sélectionnez **Organization settings** (Paramètres de l’organisation).
 
-2. Sélectionnez **Locations** (Sites).
+2. Sélectionnez **Legal**, puis **Locations** (Sites).
 
 3. Sélectionnez **Add a location** (Ajouter un site) et insérez les coordonnées du site que vous souhaitez ajouter à votre entreprise ainsi que son contact principal.
 
@@ -69,18 +69,15 @@ Spécifiez les informations détaillées officielles de votre entreprise, comme 
 
 ## <a name="change-global-partner-account-location"></a>Changer la localisation du compte de partenaire global
 
-1. Dans la page **[Locations](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** (Sites), vérifiez que le site que vous voulez désigner comme entité légale figure bien dans la liste des sites. Si ce n’est pas le cas, ajoutez-le.
+1. Dans **[Business locations](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** (Sites commerciaux), vérifiez que le site que vous voulez désigner comme entité légale figure bien dans la liste. Si ce n’est pas le cas, ajoutez-le.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Structure des localisations MPN":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Capture d’écran de la page Emplacements des comptes de l’Espace partenaires, avec la liste de tous les emplacements actuels.":::
 
-2. Sélectionnez **Partner profile** (Profil partenaire), puis **Update legal business profile** (Mettre à jour le profil d’entreprise légale).
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Structure des localisations MPN":::
-
+2. Sélectionnez **Legal**, puis **Update legal business profile** (Mettre à jour le profil d’entreprise légale).
+  
 3. Sélectionnez la région et l’entité légale et choisissez **Submit** (Soumettre).
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Structure des localisations MPN":::
-
+  
 ## <a name="next-steps"></a>Étapes suivantes
 
 - Découvrez plus d’informations sur le [processus de vérification](verification-responses.md).
