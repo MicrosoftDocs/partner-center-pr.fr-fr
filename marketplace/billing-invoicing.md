@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007156"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514773"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Facturation et facturation de la place de marché Azure
 
@@ -57,7 +57,7 @@ La réception de votre facture varie :
 - Si votre mode de paiement est carte de crédit, vous êtes facturé immédiatement après l’achat de la réservation. Cette facture sera distincte de votre facture mensuelle.
 - Si votre mode de paiement est chèque/câble, cet achat sera inclus sur votre facture mensuelle de la place de marché.
 
-Des factures sont créées pour les comptes de facturation Microsoft Online Service Program (MOSP), Contrat client Microsoft (MCA) et Contrat Partenaire Microsoft (MPA). Les factures sont générées en fonction de votre type de compte de facturation. La place de marché Azure vous facture quelques jours après la fin de votre [période de facturation](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice). La facture pour la place de marché Azure, les réservations et les machines virtuelles à la fois sont générées le [neuvième jour du mois](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Il indique les frais respectifs du mois précédent. Par exemple, si un utilisateur a acheté une réservation le 1er mars et une autre réserve le 30 mars, une seule facture en avril comprend les deux réservations.
+Des factures sont créées pour les comptes de facturation Microsoft Online Service Program (MOSP), Contrat client Microsoft (MCA) et Contrat Partenaire Microsoft (MPA). Les factures sont générées en fonction de votre type de compte de facturation. La place de marché Azure vous facture quelques jours après la fin de votre période de facturation. La facture pour la place de marché Azure, les réservations et les machines virtuelles à la fois sont générées le [neuvième jour du mois](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts). Il indique les frais respectifs du mois précédent. Par exemple, si un utilisateur a acheté une réservation le 1er mars et une autre réserve le 30 mars, une seule facture en avril comprend les deux réservations.
 
 Pour plus d’informations sur les factures, consultez [comprendre vos frais de service externe Azure](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 

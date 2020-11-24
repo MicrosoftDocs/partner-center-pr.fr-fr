@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488129"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514756"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurer votre compte de paiement et vos déclarations de taxe
 
@@ -44,9 +44,9 @@ Vous pouvez compléter et soumettre vos formulaires fiscaux par voie électroniq
 > [!IMPORTANT]
 > Les différents pays et régions ont des exigences fiscales différentes. La quantité exacte d’impôts que vous devez payer varie selon les pays et les régions dans lesquels vous vendez vos offres. Consultez le [Contrat d’éditeur de la Place de marché Microsoft Azure](https://go.microsoft.com/fwlink/p/?LinkID=699560) pour savoir dans quels pays/régions Microsoft acquitte la taxe sur les ventes et l’utilisation en votre nom. Dans d’autres pays/régions, en fonction de l’endroit où vous êtes inscrit, vous devrez peut-être verser directement la taxe sur les ventes et l’utilisation à l’autorité fiscale locale. En outre, les recettes de la vente d’application que vous recevez peuvent être considérées comme du revenu imposable. Nous vous encourageons vivement à contacter l’autorité compétente de votre pays ou région qui vous aidera à déterminer les informations fiscales appropriées pour les activités commerciales de marketplace.
 
-1. Dans [Espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône **Paramètres de compte** en haut à droite, puis **Paramètres du développeur**.
+1. Dans l' [espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **paramètres** dans le coin supérieur droit, puis **paramètres du compte**.
 
-2. Dans le menu de navigation situé à gauche, sélectionnez **Paiement et taxes** , puis **Attributions de paiement et de taxes**.
+2. Dans le menu de navigation situé à gauche, sélectionnez **Paiement et taxes**, puis **Attributions de paiement et de taxes**.
 
 3. Sélectionnez la combinaison d’ID de programme et de vendeur pour laquelle vous souhaitez configurer les informations fiscales.
 
@@ -81,8 +81,8 @@ Un compte de paiement est le compte bancaire sur lequel nous envoyons les recett
 
 ### <a name="create-a-payment-profile"></a>Créer un profil de paiement
 
-1. Dans l' [espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **paramètres** dans le coin supérieur droit, puis sélectionnez **paramètres du compte**.
-2. Sous le titre *Paiement et taxe* , sélectionnez **Attribution de profil de paiement et de taxe**.
+1. Dans l' [espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **paramètres** dans le coin supérieur droit, puis **paramètres du compte**.
+2. Sous le titre *Paiement et taxe*, sélectionnez **Attribution de profil de paiement et de taxe**.
 
     > [!NOTE]
     > Puisqu’il s’agit d’informations sensibles, vous pouvez être invité à vous reconnecter.
@@ -95,14 +95,14 @@ Un compte de paiement est le compte bancaire sur lequel nous envoyons les recett
 
 Si vous avez choisi d’utiliser un compte bancaire pour recevoir des paiements, vous devez effectuer la procédure suivante pour le configurer.
 
-1. Sur la page *profil bancaire* , fournissez les informations requises sur votre banque.
+1. Sur la page *profil bancaire*, fournissez les informations requises sur votre banque.
 2. Fournissez les détails de votre compte bancaire.
 
     > [!NOTE]
     > Les champs que vous utilisez pour fournir les informations de votre compte acceptent uniquement des caractères alphanumériques.
 
 3. Fournissez les détails du bénéficiaire.
-4. De retour sur la page *Attribution de profil* , sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
+4. De retour sur la page *Attribution de profil*, sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
 
     > [!WARNING]
     > Assurez-vous que votre banque accepte la devise de paiement que vous sélectionnez.
@@ -124,9 +124,9 @@ Pour garantir que votre paiement est correctement effectué, vérifiez les élé
 
 Vous pouvez modifier les profils de paiement existants si vous devez apporter des modifications ou rectifier des informations erronées.
 
-1. Dans [Espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **Paramètres** située en haut à droite, puis **Paramètres du développeur**.
+1. Dans l' [espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **paramètres** dans le coin supérieur droit, puis  **paramètres du compte**.
 
-2. Sous le titre *Paiement et taxe* , sélectionnez **Profils de paiement et de taxe**.
+2. Sous le titre *Paiement et taxe*, sélectionnez **Profils de paiement et de taxe**.
 
 3. Vos profils de paiement sont listés avec leur état. Recherchez le profil que vous souhaitez modifier, puis cliquez sur **Modifier** à droite de l’écran
 
@@ -192,14 +192,14 @@ Microsoft fournit ces trois documents lors de votre première tentative de paiem
 
 Si vous avez choisi d’utiliser un compte bancaire pour recevoir des paiements, vous devez effectuer la procédure suivante pour le configurer.
 
-1. Sur la page *PayPal* , fournissez les informations requises sur votre compte PayPal.
+1. Sur la page *PayPal*, fournissez les informations requises sur votre compte PayPal.
 2. Fournissez les détails de votre compte PayPal.
 
     > [!NOTE]
     > Les champs que vous utilisez pour fournir les informations de votre compte acceptent uniquement des caractères alphanumériques.
 
 3. Fournissez les détails du bénéficiaire.
-4. De retour sur la page *Attribution de profil* , sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
+4. De retour sur la page *Attribution de profil*, sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
 5. Vous devrez sélectionner un profil de paiement pour chaque programme auquel vous participez, même si vous pouvez utiliser le même profil pour plusieurs programmes.
 6. Cliquez sur Envoyer pour enregistrer vos changements.
 
