@@ -1,7 +1,7 @@
 ---
 title: Acheter ou renouveler des offres Microsoft Action Pack
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment acheter un abonnement Microsoft Action Pack et commencer à utiliser les avantages Action Pack. Découvrez aussi comment renouveler, annuler, consulter votre facture et plus encore.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998383"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812848"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Premier achat ou renouvellement d’un abonnement Microsoft Action Pack ou de compétences Silver et Gold
 
@@ -52,7 +52,7 @@ Devenez un [partenaire Compétences](https://partner.microsoft.com/membership/co
 ### <a name="check-your-renewal-eligibility"></a>Vérifier votre éligibilité au renouvellement
 
 >[!IMPORTANT]
->Si vous êtes invité à renouveler votre abonnement dans l’Espace partenaires, sachez que nous avons modifié notre politique relative à la fenêtre de renouvellement et que vous ne pouvez renouveler votre abonnement qu’après son expiration. Par exemple, si votre abonnement arrive à expiration le 22 juin, vous pouvez le renouveler à partir du 23 juin et pendant les 30 jours suivants.       
+>Si vous êtes invité à renouveler votre abonnement dans l’Espace partenaires, sachez que nous avons modifié notre politique relative à la fenêtre de renouvellement et que vous ne pouvez renouveler votre abonnement qu’après son expiration. Par exemple, si votre abonnement arrive à expiration le 22 juin, vous pouvez le renouveler à partir du 23 juin et pendant les 30 jours suivants.
 >Vous pouvez trouver la date d’expiration de votre abonnement dans votre page [**Offres d’abonnement**](https://partnercenter.microsoft.com/pcv/partnership/offers) (connexion nécessaire). Quand vous êtes éligible au renouvellement dans l’Espace partenaires ou que vous le devenez, suivez les étapes ci-après.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Pour renouveler un abonnement Microsoft Action Pack dans l’Espace partenaires
@@ -64,13 +64,13 @@ Devenez un [partenaire Compétences](https://partner.microsoft.com/membership/co
     >[!NOTE]
     >Si l’option **Renouveler l’abonnement** n’est pas affichée ou est grisée, cela signifie que vous n’êtes pas encore éligible au renouvellement de votre abonnement Action Pack. Nous avons modifié notre politique relative à la fenêtre de renouvellement et vous ne pouvez renouveler votre abonnement qu’après son expiration. Par exemple, si votre abonnement arrive à expiration le 22 juin, vous pouvez le renouveler à partir du 23 juin et pendant les 30 jours suivants.  
 
-3. En cas de paiement par carte de crédit, suivez les instructions pour ajouter les informations de votre carte de crédit. En cas de paiement par virement bancaire électronique, indiquez un nom de contact, un numéro de téléphone, une adresse e-mail, puis sélectionnez **Envoyer**. 
-     
+3. En cas de paiement par carte de crédit, suivez les instructions pour ajouter les informations de votre carte de crédit. En cas de paiement par virement bancaire électronique, indiquez un nom de contact, un numéro de téléphone, une adresse e-mail, puis sélectionnez **Envoyer**.
+
 4. Passez en revue les détails de votre commande, puis sélectionnez **Acheter** dès que vous êtes prêt à acheter Action Pack. Votre carte de crédit est débitée immédiatement.
 
 5. Votre commande est confirmée. Sélectionnez **Fermer**.
 
-Votre abonnement Action Pack sera renouvelé automatiquement chaque année à cette date. Vous pouvez désactiver le renouvellement automatique à tout moment à partir de votre liste d’offres **Acheté** ; cependant, vous ne pourrez pas réactiver le renouvellement d’abonnement automatique tant que vous n’aurez pas renouvelé une nouvelle fois votre abonnement. 
+Votre abonnement Action Pack sera renouvelé automatiquement chaque année à cette date.
 
 ### <a name="update-your-bill-to-address"></a>Mettre à jour votre adresse de facturation
 
@@ -79,16 +79,6 @@ Lors du renouvellement ou de l’achat d’un abonnement Action Pack, vous avez
  1. Après avoir sélectionné **Envoyer**, vous pouvez passer en revue les détails de votre achat. Sélectionnez **Mettre à jour** si vous constatez que votre adresse doit être mise à jour.
   
  1. Dans la page **Profil du partenaire**, mettez à jour votre adresse.
-
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Désactiver le renouvellement automatique de l’abonnement Action Pack
-
-1. Accédez à votre page [**Offres pour les abonnés**](https://partnercenter.microsoft.com/pcv/partnership/offers).  Sélectionnez **Abonnement au Microsoft Action Pack** pour afficher les détails de votre abonnement. 
-
-2. Sélectionnez **Désactiver le renouvellement automatique** si vous ne voulez pas que votre abonnement Action Pack soit renouvelé automatiquement chaque année. 
-
-    >[!NOTE]
-    >Si vous désactivez le renouvellement automatique de l’abonnement, vous ne pourrez pas le réactiver tant que vous n’aurez pas renouvelé une nouvelle fois l’abonnement. Nous vous rappellerons de renouveler votre abonnement avant qu’il n’arrive à expiration.
-
 
 ## <a name="cancel-your-action-pack-subscription"></a>Annuler votre abonnement Action Pack
 
