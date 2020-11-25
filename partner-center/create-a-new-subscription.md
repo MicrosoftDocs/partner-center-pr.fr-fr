@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000523"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038878"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -36,8 +36,8 @@ Une fois que vous avez créé un enregistrement de votre client dans l’Espace 
 
 Certaines offres sont limitées à un seul abonnement par client. Pour voir la liste des offres limitées, consultez la page Tarification et offres de l'Espace partenaires.
 
-> [!IMPORTANT]
-> En tant que partenaire dans le programme CSP, vous pouvez uniquement acheter des abonnements Saas **basés sur une licence** auprès d’éditeurs ISV au sein de l’espace partenaires. Cela signifie que vous pouvez acheter une offre SaaS basée sur une **licence** que l’éditeur ISV met à votre disposition, y compris les [offres exclusives](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) auxquelles vous avez accès. Pour acheter ou gérer d’autres offres de la place de marché commercial auprès d’éditeurs de logiciels (ISV) (telles que des offres basées sur **l’utilisation**, limitées ou à la consommation impliquant des applications, des conteneurs ou des machines virtuelles Azure), vous devez accéder au [portail de gestion Azure](https://portal.azure.com/). Pour plus d’informations, consultez acheter des produits de la place de [marché commercial](csp-commercial-marketplace-purchase.md).
+>[!IMPORTANT]
+> En tant que partenaire dans le programme CSP, vous pouvez acheter des abonnements Saas **basés sur une licence** ou **contrôlés** à partir d’éditeurs ISV dans l’espace partenaires. Cela signifie que vous pouvez acheter une **offre SaaS** **basée sur une licence** ou une offre à laquelle vous avez accès par l’éditeur ISV, y compris les [offres exclusives](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) auxquelles vous avez accès. Pour acheter ou gérer d’autres offres de la place de marché commercial auprès d’éditeurs de logiciels (ISV) (telles que des offres basées sur l’utilisation impliquant des applications Azure, des conteneurs ou des machines virtuelles), vous devez accéder au [portail Azure](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Créer un abonnement
 
@@ -50,7 +50,7 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
 4. Pour afficher uniquement certains types d’abonnements, effectuez les sélections dans les filtres disponibles :
    - **Éditeur**: choisissez **Microsoft** pour afficher uniquement les offres de Microsoft ou le **partenaire** pour consulter les produits de la place de marché commercialisés publiés par les éditeurs de logiciels indépendants.
    - **Type de facturation**: sélectionnez le type de facturation d’abonnement que vous souhaitez utiliser : **licence** ou **utilisation**. Consultez [facturation basée sur une licence](license-based-billing.md) pour obtenir des informations qui vous aideront à déterminer la fréquence de facturation mensuelle et annuelle.
-   - **Catégorie**: choisissez **Enterprise**, **Small Business**ou **version d’évaluation**. Pour obtenir des informations sur les abonnements d’essai, consultez [Proposer à vos clients des abonnements d’essai aux produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Catégorie**: choisissez **Enterprise**, **Small Business** ou **version d’évaluation**. Pour obtenir des informations sur les abonnements d’essai, consultez [Proposer à vos clients des abonnements d’essai aux produits Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Sélectionnez les abonnements de produits que vous souhaitez acheter pour votre client. Les produits que vous voyez dépendent du type de segment client (éducation, gouvernement, etc.) et des filtres que vous avez appliqués. Certaines offres affichées sur la place de marché ne sont pas toujours disponibles pour un client spécifique ou un partenaire CSP spécifique. Cela peut être dû aux raisons suivantes :
 
@@ -70,7 +70,7 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
 
     - Vous pouvez consulter ou modifier l’abonnement en sélectionnant le nom de l’abonnement dans la page **abonnements** du client. À partir de là, vous pouvez sélectionner des licences de module complémentaire, le cas échéant, modifier le nombre de licences ou suspendre l’abonnement.
 
-    **Pour les abonnements ISV SaaS (basés sur une licence) :**
+    **Pour les abonnements ISV SaaS (licence et compteurs) :**
     - Vous recevrez un lien vers le site de l’éditeur ISV. Ce lien doit vous aider à effectuer la configuration du déploiement ou du compte de l’abonnement du client.
       
     >[!NOTE]

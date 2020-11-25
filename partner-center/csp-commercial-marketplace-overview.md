@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000403"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038827"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Vue d’ensemble de la place de marché commerciale dans l’Espace partenaires
 
@@ -55,7 +55,7 @@ En tant que partenaire dans le programme CSP, vous pouvez effectuer de nombreuse
 
 - Le [portail de gestion Microsoft Azure](https://portal.azure.com/)
 
-    Ou
+    ou
 
 - Système ou site Web d’un éditeur ISV tiers
 
@@ -68,7 +68,7 @@ Accédez à [notions de base](billing-basics.md) sur la facturation pour en savo
 
 Pour savoir où effectuer une activité de place de marché spécifique pour les offres ISV basées sur une licence ou sur l’utilisation, consultez les tableaux suivants.
 
-|**Pour les offres SaaS basées sur les licences des éditeurs de logiciels indépendants**  |**Utilisation**  |
+|**Pour les offres SaaS basées sur une licence ou limitées par les éditeurs de logiciels indépendants**  |**Utilisation**  |
 |:------------------------------------|:------------------|
 |Pour découvrir ou Rechercher des offres disponibles  | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |
 |Pour acheter une offre  | Tableau de bord de l’espace partenaires ou API de l’espace partenaires  |

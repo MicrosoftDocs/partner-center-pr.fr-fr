@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000413"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038846"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Découvrir les offres et la tarification dans la place de marché commercial de l’espace partenaires
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Découvrir les offres et la tarification dans la place de marché commercial de l’espace partenaires
 
 **S’applique à**
 
@@ -32,7 +32,7 @@ Lorsque des éditeurs de logiciels indépendants choisissent de publier une offr
 
 Si une offre ISV n’apparaît pas comme prévu dans l’espace partenaires, cela peut être dû à ce qui suit :
 
-- L’ISV a décidé de ne pas vendre l’offre par le biais du programme CSP. Par exemple, certains produits ISV peuvent avoir été mis à disposition dans d’autres zones de la place de marché commerciale (par exemple, dans [Microsoft AppSource](https://appsource.microsoft.com/) et la place de [marché Azure](https://azuremarketplace.microsoft.com/)), mais ils peuvent ne pas apparaître pour les fournisseurs de services de domaine dans la place de marché de l’espace partenaires.
+- L’ISV a décidé de ne pas vendre l’offre par le biais du programme CSP. Par exemple, certains produits ISV peuvent avoir été mis à disposition dans d’autres domaines de la place de marché commercial (par exemple, dans [Microsoft AppSource](https://appsource.microsoft.com/) et la place de [marché Azure](https://azuremarketplace.microsoft.com/)), mais ils peuvent ne pas s’afficher pour les partenaires dans le programme CSP de la place de marché de l’espace partenaires.
 
 - L’ISV a décidé de rendre l’offre exclusive à un nombre sélectionné de partenaires CSP. Pour plus d’informations sur les offres exclusives, consultez plus loin dans cette rubrique d’aide.
 
@@ -42,7 +42,7 @@ Si une offre ISV n’apparaît pas comme prévu dans l’espace partenaires, cel
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>Afficher les offres de la place de marché dans l’espace partenaires
 
-Pour afficher les offres de la place de marché commercial disponibles dans le programme CSP : 
+Pour afficher les offres de la place de marché commercial disponibles dans le programme CSP :
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires, puis sélectionnez **CSP** dans le menu de navigation de gauche.
 
@@ -70,7 +70,7 @@ Pour afficher les offres de la place de marché commercial disponibles dans le p
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Afficher les offres de la place de marché via les API de l’espace partenaires
 
-Les partenaires du programme CSP peuvent également utiliser des API pour retourner une liste d’offres éligibles. Les offres éligibles seront uniquement celles proposées par le partenaire pour vendre via la place de marché de l’espace partenaires. Pour les partenaires qui utilisent des API pour identifier les offres dans le catalogue, reportez-vous à l’aide pour [obtenir une liste des offres pour un marché](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+Les partenaires du programme CSP peuvent également utiliser des API pour retourner une liste d’offres éligibles. Les offres éligibles seront uniquement celles que les offres ISV SaaS pourront proposer au partenaire par le biais de la place de marché de l’espace partenaires. Pour les partenaires qui utilisent des API pour identifier les offres dans le catalogue, reportez-vous à l’aide pour [obtenir une liste des offres pour un marché](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Afficher les dernières offres de la place de marché dans l’espace partenaires
 
@@ -80,7 +80,7 @@ Suivez les étapes ci-dessous pour connaître les dernières informations sur la
 
 2. Sélectionnez **vendre**, puis **tarifs et offres**.
 
-3. Faites défiler jusqu’à la section **Marketplace** , sélectionnez un emplacement et téléchargez la **tarification Marketplace**. Cela génère une feuille de calcul avec les données de tarification les plus récentes pour les offres SaaS basées sur une licence et disponibles auprès des éditeurs ISV. Certaines tarifs d’application Azure peuvent également apparaître ici. Ces informations sont mises à jour quotidiennement, ce qui vous permet de vérifier les prix actuels aussi souvent que vous le souhaitez.
+3. Faites défiler jusqu’à la section **Marketplace** , sélectionnez un emplacement et téléchargez la **tarification Marketplace**. Cela génère une feuille de calcul avec les données de tarification les plus récentes pour SaaS, des offres basées sur une licence et des offres limitées proposées par les éditeurs ISV. Certaines tarifs d’application Azure peuvent également apparaître ici. Ces informations sont mises à jour quotidiennement, ce qui vous permet de vérifier les prix actuels aussi souvent que vous le souhaitez.
 
 4. Si un produit ISV comprend une période d’essai gratuite, la feuille de calcul affiche deux lignes pour ce produit :
 
