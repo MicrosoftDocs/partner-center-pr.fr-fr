@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691297"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514739"
 ---
 # <a name="november-2020-announcements"></a>Annonces de novembre 2020
 
@@ -23,6 +23,219 @@ Cette page détaille les annonces de l’Espace partenaires Microsoft pour novem
 Annonces 2020 : [Avril](2020-april.md) | [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | [Septembre](2020-september.md) | [Octobre](2020-October.md) | Novembre
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Présentation de l’achat d’offres SaaS avec facturation à l’usage dans l’Espace partenaires 
+
+### <a name="categories"></a>Catégories
+
+- Date : 24/11/2020
+- Fonctionnalités
+
+## <a name="summary"></a>Résumé
+
+Microsoft introduit la possibilité pour les partenaires du programme Fournisseur de solutions Cloud d’acheter des offres SaaS avec facturation à l’usage dans l’Espace partenaires. 
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires
+
+### <a name="details"></a>Détails
+
+Microsoft introduit la possibilité pour les partenaires du programme Fournisseur de solutions Cloud ainsi que pour les fournisseurs indirects et les partenaires de facturation directe d’acheter des offres SaaS avec  [facturation à l’usage](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)  dans l’Espace partenaires. Aujourd’hui, les partenaires du programme Fournisseur de solutions Cloud peuvent voir et  [acheter des offres SaaS avec facturation à l’usage via le portail Azure](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase). Cette nouvelle expérience permet aux partenaires d’acheter ces offres via la Place de marché des fournisseurs de solutions Cloud dans l’Espace partenaires et son API, comme ils le font pour d’autres types d’offre SaaS. 
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Partagez ces informations avec tous les contacts appropriés dans votre société.
+
+
+
+
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nouvelle expérience de gestion de comptes unifiée
+
+### <a name="categories"></a>Catégories
+
+- Date : 18/11/2020
+- Fonctions
+
+## <a name="summary"></a>Résumé
+
+À partir du 18 novembre, l’Espace partenaires va commencer à déployer la nouvelle expérience de gestion des comptes pour améliorer l’expérience utilisateur des partenaires. Les partenaires vont pouvoir désormais gérer leur compte pour tous les programmes à partir de Paramètres -> Paramètres du compte.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires
+
+### <a name="details"></a>Détails
+
+Le principal changement dans la gestion des comptes concerne l’intégration de deux vues qui étaient distinctes, la vue **Paramètres partenaire** destinée aux partenaires inscrits à des programmes commerciaux (Microsoft Partner Network, Fournisseur de solutions Cloud, référents, etc.) et la vue **Paramètres de développeur** destinée aux partenaires inscrits à des programmes pour développeurs (Place de marché commerciale, Windows et Xbox, etc.), au sein de la vue unifiée **Paramètres du compte**.
+
+### <a name="entry-point"></a>Point d’entrée
+
+Connectez-vous au tableau de bord de l’Espace partenaires, sélectionnez l’icône  **Paramètres** , puis cliquez sur **Paramètres du compte**. Vous n’avez plus à choisir entre Partenaire et Développeur, car tous les profils et paramètres sont désormais combinés.
+
+### <a name="left-navigation-hierarchy"></a>Hiérarchie du volet de navigation gauche
+
+- Profil de l’organisation
+   - Informations légales - Gérez votre profil métier légal, votre profil de partenaire ainsi que les localisations de votre société.
+   - Locataires - Toutes les informations relatives à vos locataires Azure AD, qu’il s’agisse d’informations commerciales ou liées aux développeurs, se trouvent ici.
+   - Identificateurs - Identités de l’Espace partenaires pour votre société : MPNID, publisherId, etc.
+- Gestion des utilisateurs - Gérez vos utilisateurs, et attribuez-leur des rôles commerciaux ou de développeurs à partir d’un même emplacement. Vous pouvez également gérer les groupes et les applications Azure AD à partir d’ici.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Partagez ces informations avec tous les contacts appropriés dans votre société.
+
+
+
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Promotion Office 365 E1 pour les PME (LATAM, APAC et Inde)
+
+### <a name="categories"></a>Catégories
+- Date : 18/11/2020
+- Offres/marchés
+
+### <a name="summary"></a>Résumé
+Nous lançons une nouvelle promotion Office 365 E1 pour les PME. Elle se limite aux marchés émergents des régions géographiques suivantes : LATAM, Inde et APAC (à l’exception des marchés développés au sein de la région APAC).
+
+### <a name="impacted-audience"></a>Public concerné
+Tous les partenaires effectuant des transactions dans le cadre du programme Fournisseur de solutions Cloud sur les marchés participants listés ci-dessus.
+
+### <a name="details"></a>Détails
+La promotion consiste en une remise de 30 % sur Office 365 E1 pour les fournisseurs de solutions Cloud. Elle sera lancée le 1er décembre 2020 et sera disponible pendant 6 mois, jusqu’au 31 mai 2020. Cette promotion est réservée aux clients qui découvrent le cloud MW et qui ont jusqu’à 500 sièges. Notez qu’elle se limite aux marchés émergents de l’Amérique latine (LATAM), de l’Inde et de l’Asie-Pacifique (APAC) pour encourager leur transition vers le cloud. 
+
+#### <a name="offer-details"></a>Détails de l'offre
+
+   |**Nom de l'offre**|**ID de l’offre**|
+   |-------------------|:------|
+   |Promotion Office 365 E1 pour les PME|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Étapes suivantes
+Disponible à partir du 1er décembre. En attendant, partagez ces informations avec tous les contacts appropriés au sein de votre organisation (dans les régions participantes). Commencez à susciter l’engagement des clients qui ne sont pas encore dans le cloud dans les régions participantes. 
+
+### <a name="questions"></a>Des questions ?
+Contactez le [Support de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) si vous avez des questions ou des requêtes, ou si vous avez besoin d’informations supplémentaires.
+______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Mises à jour de l’API de l’Espace partenaires et améliorations de l’IU (interface utilisateur) pour renforcer le filtrage des clients dans certains pays
+
+### <a name="categories"></a>Catégories
+
+- Date : 17/11/2020
+- Fonctionnalités | Amélioration du filtrage des clients
+
+### <a name="impacted-audience"></a>Public concerné
+
+Les partenaires de facturation directe ou les fournisseurs indirects qui participent au programme Fournisseur de solutions Cloud et qui ont de nouveaux clients ou des clients déjà existants dans les pays suivants :
+
+- Arménie (AM)
+- Azerbaïdjan (AZ)
+- Biélorussie (BY)
+- Hongrie (HU)
+- Kazakhstan (KZ)
+- Kirghizistan (KG)
+- Moldavie (MD)
+- Russie (RU)
+- Tadjikistan (TJ)
+- Ouzbékistan (UZ)
+- Ukraine (UA)
+
+### <a name="summary"></a>Récapitulatif
+
+Dans le cadre de l’engagement continu de Microsoft envers les clients et les partenaires autour de la conformité des pratiques commerciales, certains partenaires qui ont des clients dans certains pays sont désormais invités à remplir quelques champs de données supplémentaires sur ces clients quand ils tentent de mettre à jour l’abonnement d’un client existant ou de créer un abonnement pour un nouveau client. 
+
+### <a name="details"></a>Détails
+
+Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des clients conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme Fournisseur de solutions Cloud. Pour mener à bien cet effort, nous avons introduit des améliorations de l’API et de l’IU de l’Espace partenaires, qui auront un impact sur les partenaires répondant à tous les critères suivants : 
+
+- Le partenaire a une relation de facturation directe avec Microsoft (par exemple en tant que partenaire de facturation directe ou en tant que fournisseur indirect)
+
+- Le partenaire fait affaire avec des clients nouveaux ou déjà existants dans les pays suivants : Arménie (AM), Azerbaïdjan (AZ), Biélorussie (BY), Hongrie (HU), Kazakhstan (KZ), Kirghizistan (KG), Moldavie (MD), Russie (RU), Tadjikistan (TJ), Ouzbékistan (UZ) et Ukraine (UA) 
+
+Les partenaires qui ont un client dans ces pays doivent désormais soumettre l’**identificateur légal** du client spécifique (également appelé **code INN d’organisation** du client) ainsi que son **numéro de téléphone** quand ils tentent de mettre à jour ou de créer un abonnement pour le client concerné. Ces partenaires peuvent désormais également choisir d’entrer un **deuxième prénom** facultatif pour le client.
+
+### <a name="partner-center-enhancements"></a>Améliorations de l’Espace partenaires
+
+- Optimisations de l’IU de l’Espace partenaires pour améliorer la validation des clients de certains pays
+
+- Nouvelles API prenant en charge une validation améliorée des clients de certains pays
+
+**Changements apportés à l’IU de l’Espace partenaires - Page de compte client**
+
+La page de compte client de l’Espace partenaires a été mise à jour pour les éléments suivants :
+
+1. **Code INN d’organisation** (également appelé identificateur légal). Ce champ est désormais obligatoire pour les clients de certains pays. 
+
+   > [!NOTE]
+   > Vous devez entrer les données sous forme de caractères alphanumériques uniquement, sans traits d’union, ni caractères spéciaux ou espaces. Les partenaires doivent joindre leur contact client dans ces pays pour vérifier le statut de l’identificateur légal du client, par exemple le numéro d’identification fiscale ou le code INN. Pour davantage d’informations spécifiques à un pays, consultez le tableau présenté un peu plus bas.  
+
+2. **Deuxième prénom.** Ce champ est facultatif pour tous les clients. Si le partenaire connaît le deuxième prénom du client, il peut l’entrer ici.
+
+3. **Numéro de téléphone.** Ce champ était facultatif. Il est désormais obligatoire pour les clients de certains pays.  
+
+Les contraintes à respecter pour le champ du **code INN d’organisation** (identificateur légal) ​​de chaque pays figurent ci-dessous.
+
+| Pays ou région | Zone A14 | Code pays ISO | Contraintes relatives aux caractères du champ | Nom de champ spécifique au pays en langue native | Traduction ou commentaires |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| Arménie | CEE      | AM               | 8 ou 10 chiffres         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | Code UNN/Numéro de service public                     |
+| Azerbaïdjan| CEE      | AZ               | 7 ou 10 chiffres         | :::no-loc text="ИНН/VOEN/ПИК"::: | Code NIF/INN/PIC              |
+| Bélarus | CEE      | BY               | 9 chiffres         | :::no-loc text="УНП"::: | UNP (équivalent du numéro d’identification fiscale)                    |
+| Hongrie | CEE      | HU               | 10 ou 11 chiffres         | :::no-loc text="TIN"::: | NIF (numéro d’identification fiscale)                     |
+| Kazakhstan | CEE      | KZ              | 12 chiffres         | :::no-loc text="БИН/ИИН"::: | Code BIN/IIN                     |
+| Kirghizistan | CEE      | KG               | 14 chiffres         | :::no-loc text="ИНН"::: | Code UNN/Numéro de service public                     |
+| Moldova  | CEE        | MD               | 6, 7, 8 ou 13 chiffres         | :::no-loc text="IDNO/IDNP"::: | Le numéro d’identification d’état unique (IDNO) affecté à l’entité juridique est également utilisé en tant que code fiscal. \"Registre d’état des unités juridiques relatives aux sociétés inscrites en République de Moldavie, publié par le Ministère des technologies de l’information et des communications sur le portail administratif des données publiques (data.gov.md).\"                    |
+| Russie | CEE      | RU               | 9, 10 ou 12 chiffres         | :::no-loc text="ИНН"::: | Code INN                     |
+| Tadjikistan | CEE      | TJ               | 9, 10 ou 12 chiffres     | :::no-loc text="ИНН/ЕИН/КПП"::: | Code INN/EIN/KPP                     |
+| Ouzbékistan | CEE     | UZ               | 9 chiffres                 | :::no-loc text="INN":::         | Code INN                               |
+| Ukraine   | CEE      | UA               | 8, 10 ou 12 chiffres      | :::no-loc text="EGRPOU/EDRPOU":::        | Code d’identification d’une entité juridique                             | 
+
+**Changements apportés à l’API de l’Espace partenaires**
+
+Les changements suivants relatifs au contrat vont être apportés à l’API de l’Espace partenaires. Ces changements se limitent aux partenaires qui gèrent les comptes de clients dans les pays mentionnés.
+
+> [!NOTE]
+> Si, en tant que partenaire, vous faites une interprétation stricte de la réponse JSON de l’Espace partenaires, vous risquez d’être impacté par ces changements si vous n’effectuez pas les mises à jour de votre côté. L’intégration de JSON n’est pas recommandée avec les API de l’Espace partenaires.
+
+| Mises à jour des ressources REST | Documentation connexe de l’Espace partenaires |
+|---------------------------|-----------------------|
+| Nouveau champ obligatoire : organizationRegistrationNumber | - [Créer un client](/partner-center/develop/create-a-customer#company-profile)<br/>- [Créer un client pour un revendeur indirect](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Ressources relatives au client](/partner-center/develop/customer-resources#customercompanyprofile) |
+| Champ mis à jour désormais obligatoires : PhoneNumber<br/>Champ facultatif : MiddleName | - [Ressources utilitaires](/partner-center/develop/utility-resources#address) |
+| Nouveaux codes d’erreur REST BadRequest : 600002, 600049, 600050, 600051 | - [Codes d’erreur REST de l’Espace partenaires](/partner-center/develop/error-codes#error-codes) |
+
+*Proposition de contrat externe pour les clients :*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Changement de la devise de facturation des partenaires pour les nouvelles offres commerciales en UE/AELE.  
 
 ### <a name="categories"></a>Catégories
@@ -146,8 +359,16 @@ Passez en revue l’[Aide sur la limitation des API](https://docs.microsoft.com/
 - Nous demandons aux partenaires de nous contacter afin que nous puissions les aider à effectuer des tests en ajoutant leurs locataires à une version d’évaluation avec les changements, de sorte qu’ils puissent garantir que la mise à jour de leur solution fonctionne comme prévu.
 
 
+### <a name="next-steps-for-partners"></a>Prochaines étapes pour les partenaires
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Tests disponibles : mises à jour des API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation des clients Éducation
+- Passez en revue les nouveaux changements apportés à l’IU et à l’API de l’Espace partenaires. La prochaine fois que vous tenterez de créer un abonnement client ou de mettre à jour un abonnement existant dans l’un de ces pays, consultez les informations relatives au compte du client afin de vérifier que vous avez ajouté les données appropriées aux deux nouveaux champs obligatoires pour ce client : Code INN d’organisation (identificateur légal) et numéro de téléphone. Vous pouvez mettre à jour ces informations via le [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires ou les [API](/partner-center/develop/create-a-customer#company-profile) de l’Espace partenaires.
+
+- Partagez ces informations avec les équipes appropriées au sein de votre organisation pour les aider à se préparer à ces changements.
+
+
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Tests disponibles : Améliorations de l’API et de l’IU (interface utilisateur) de l’Espace partenaires pour le processus de validation des clients Éducation
 
 ### <a name="categories"></a>Catégories
 
