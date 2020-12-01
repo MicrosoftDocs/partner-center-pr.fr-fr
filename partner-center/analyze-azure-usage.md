@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031882"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354222"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenir des données sur les performances de vos clients et abonnements Azure
 
@@ -32,7 +32,7 @@ ms.locfileid: "92031882"
 
 Les données prennent des décisions commerciales. Utilisez les mesures de la page **utilisation d’Azure** pour identifier les réussites et les zones qui nécessitent une attention particulière. Utilisez ces informations lorsque vous planifiez de nouveaux objectifs commerciaux.
 
-Pour accéder à l' **utilisation d’Azure**, connectez-vous au [tableau de bord](https:/partner.microsoft.com/dashboard)de l’espace partenaires. Sélectionnez **Analytics** dans le menu de l’espace partenaires, puis sélectionnez **utilisation d’Azure**.
+Pour accéder à l' **utilisation d’Azure**, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires. Sélectionnez **Analytics** dans le menu de l’espace partenaires, puis sélectionnez **utilisation d’Azure**.
 
 > [!NOTE]
 > Azure usage Analytics est disponible uniquement pour les partenaires du programme fournisseur de solutions Cloud.
