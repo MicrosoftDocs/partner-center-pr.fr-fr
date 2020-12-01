@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360069"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439243"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localiser des ID importants pour un utilisateur
 
@@ -78,3 +78,4 @@ Il se peut que la recherche du nom de domaine et de l’ID de locataire ne soit 
 - [Rechercher votre ID de locataire par programmation avec PowerShell ou l’interface CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [En savoir plus sur les profils utilisateur dans Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Découvrez comment les partenaires peuvent voir ou exporter les détails des clients dans l’espace partenaires](see-your-customer-list.md)
+

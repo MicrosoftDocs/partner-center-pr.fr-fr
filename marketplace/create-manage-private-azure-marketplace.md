@@ -1,17 +1,17 @@
 ---
 title: Créer et gérer une place de marché Azure privée dans Portail Azure
-description: En savoir plus sur la création et la gestion de la place de marché Azure privée (version préliminaire) dans le Portail Azure.
+description: En savoir plus sur la création et la gestion de la place de marché Azure privée (version préliminaire) dans le Portail Azure. La place de marché Azure privée (version préliminaire) permet aux administrateurs de gérer les solutions tierces que leurs utilisateurs peuvent utiliser.
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006937"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439253"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Créer et gérer une place de marché Azure privée (version préliminaire) dans le Portail Azure
 
@@ -221,6 +221,6 @@ Tandis que l’expérience de la page Détails du produit est similaire à la pl
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Bannière de l’offre : il est possible de créer un plan et d’en présenter les plans disponibles.":::
 
-## <a name="contact-support"></a>Contacter le support technique
+## <a name="contact-support"></a>Contactez le support technique
 
 Pour obtenir de l’aide sur la place de marché Azure, visitez [le site Microsoft Q&A](/answers/products/). 

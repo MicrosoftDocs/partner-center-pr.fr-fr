@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811249"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438985"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Définir, vérifier ou supprimer des budgets de dépenses Azure mensuels pour les clients dans l’espace partenaires
 
@@ -64,7 +64,7 @@ Vous pouvez également *définir un budget pour un client individuel* dans ses p
 
 2. Dans le menu de gauche, sous **CSP**, choisissez **clients**.
 
-3. Sur la page **clients** , sélectionnez le nom de la **société**du client.
+3. Sur la page **clients** , sélectionnez le nom de la **société** du client.
 
 4. Sur la page **abonnements** du client, sous **abonnement basé sur l’utilisation**, choisissez **modifier le budget**.
 
@@ -100,13 +100,18 @@ Vous pouvez *activer les notifications par courrier électronique* lorsque la d�
 
 1. Connectez-vous à l’Espace partenaires.
 
-2. Dans le menu de gauche, sous **CSP**, choisissez **dépenses Azure**.
+2. Accédez à **Settings**.
 
-3. Dans la page **dépenses Azure** , sous **notifications par courrier électronique**, basculez le paramètre **recevoir des e-mails** **sur activé**.
+3. Sélectionnez **Mes préférences**.
 
-4. Choisissez **modifier l’adresse de messagerie** pour afficher l’adresse de messagerie des notifications.
+4. Si ce n’est pas le cas, configurez une adresse de messagerie préférée.
 
-5. Si l’adresse de messagerie *est incorrecte*, entrez l’adresse de messagerie appropriée, puis choisissez **mettre à jour**. Si l’adresse de messagerie *est correcte*, choisissez **Annuler**.
+5. Configurez la langue par défaut pour la notification.
+
+6. Sélectionnez l’onglet **CSP** sous la section **Préférences de notification** .
+
+7. Vérifiez l’option E-mail pour la notification de **dépenses Azure** , puis **Enregistrez**.
+
 
 ## <a name="itemized-costs-by-service"></a>Coûts totaux par service
 
@@ -116,7 +121,7 @@ Vous pouvez *afficher les coûts totaux (et l’utilisation estimée) par servic
 
 2. Dans le menu de gauche, sous **CSP**, choisissez **clients**.
 
-3. Sur la page **clients** , sélectionnez le nom de la **société**du client.
+3. Sur la page **clients** , sélectionnez le nom de la **société** du client.
 
 4. Sur la page **abonnements** du client, sous **abonnements basés sur l’utilisation**, sélectionnez le nom de l' **abonnement**.
 
