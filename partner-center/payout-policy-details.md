@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
+ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947662"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96513287"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Planifications de paiement et détails de la stratégie
 
@@ -31,16 +31,18 @@ Un paiement se produit souvent avant que Microsoft ne collecte le paiement du cl
 | Événement | Description | Visibilité des rapports | Bascul |
 | --- | --- | --- | --- |
 | Utilisation ou mois de transaction | Le client utilise ou achète un service. | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 1** |
-| Le bon de commande est créé | Déterminer l’utilisation totale, total des transactions | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 2** |
-| Le paiement de l’ISV est créé | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
+| Microsoft calcule le montant de facturation | Déterminer l’utilisation totale, total des transactions | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 2** |
+| Paiement Posté | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
 | Préparer le paiement | Les bénéfices sont préparés pour le paiement mensuel | Marqué comme étant à venir dans l’historique des transactions dans le [relevé de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
-| **Date de paiement** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l' [instruction de paiement](payout-statement.md)** | **Mois 3 (au plus tard le 15)** |
+| **Paiement envoyé** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l' [instruction de paiement](payout-statement.md)** | **Mois 3 (au plus tard le 15)** |
 | Facture payée par le client | Microsoft collecte le paiement du client | Aucun changement | **Du mois 4 au 12** |
 |
 
 \* La date de paiement est l’heure standard du Pacifique (PST).
 
-### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Clients qui paient par carte de crédit ou sur facture
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Chronologie des paiements pour les clients du contrat entreprise.":::
+
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transactions avec carte de crédit ou facture (chèque/câble)
 
 Tous les achats effectués sur une carte de crédit ou une facture mensuelle ont une période de 30 jours pour garantir la collecte des fonds auprès du client.
 
@@ -48,13 +50,15 @@ Tous les achats effectués sur une carte de crédit ou une facture mensuelle ont
 | --- | --- | --- | --- |
 | Utilisation ou mois de transaction | Le client utilise ou achète un service. | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 1** |
 | Facture payée par le client | Déterminer le nombre total d’utilisations, la valeur totale de la transaction et le paiement du client | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 2** |
-| Le paiement de l’ISV est créé | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 2** |
-| Période de conservation de 30 jours | Assurez la collecte des fonds, des refacturations possibles et des demandes de remboursement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 3** |
+| Paiement Posté | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 2** |
+| période de conservation de 30 jours | Garantir la collecte des fonds, les refacturations possibles et les demandes de remboursement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 3** |
 | Préparer le paiement | Les bénéfices sont préparés pour le paiement mensuel | Marqué comme étant à venir dans l’historique des transactions dans le [relevé de paiement](payout-statement.md) | **Mois 4 (1er semaine)** |
-| **Date de paiement** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l' [instruction de paiement](payout-statement.md)** | **Le mois 4 (au plus tard le 15)** |
+| **Paiement envoyé** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l' [instruction de paiement](payout-statement.md)** | **Le mois 4 (au plus tard le 15)** |
 |
 
 \* La date de paiement est l’heure standard du Pacifique (PST).
+
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Chronologie des paiements pour les clients de la carte de crédit et de la facture.":::
 
 ## <a name="process-for-customer-non-payment"></a>Processus en cas de défaut de paiement d’un client
 
