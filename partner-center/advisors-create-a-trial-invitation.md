@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526995"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474153"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Conseillers : créez et envoyez une invitation à la version d’évaluation pour que les clients essaient Office 365
 
-**S’applique à**
 
-- Espace partenaires
- 
 **Rôles appropriés**
 
 - Conseillers
@@ -49,11 +46,15 @@ Si vous êtes certifié pour offrir une administration déléguée, vous pouvez 
 
 3. Cliquez sur **Suivant**.
 
-4. Sur la page**votre invitation à la version d’évaluation** , copiez les informations et l’URL de l’invitation à la version d’évaluation, puis collez-les dans un message électronique, un document ou une page Web pour créer une invitation à la version d’évaluation personnalisée.
+4. Sur la page **votre invitation à la version d’évaluation** , copiez les informations et l’URL de l’invitation à la version d’évaluation, puis collez-les dans un message électronique, un document ou une page Web pour créer une invitation à la version d’évaluation personnalisée.
 
     > [!NOTE]
-    > Prenez note de l' **ID de résumé**de l’invitation à la version d’évaluation. Utilisez cet ID pour effectuer le suivi de l’offre.
+    > Prenez note de l' **ID de résumé** de l’invitation à la version d’évaluation. Utilisez cet ID pour effectuer le suivi de l’offre.
 
 5. Personnalisez votre message en incluant le logo de votre société, l’introduction, les notes de clôture ou d’autres informations.
 
 6. Envoyez l’invitation d’essai à votre client.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Créer une offre d’achat](advisor-create-a-purchase-offer.md)

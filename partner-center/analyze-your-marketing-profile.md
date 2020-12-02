@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999643"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474034"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analyser votre profil d’entreprise : Découvrez comment attirer les clients cibles et les références potentielles
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**S’applique à**
-
-- Espace partenaires
-- Partenaires Microsoft Partner Network
-- Partenaires du programme Fournisseur de solutions Cloud
-
 **Rôles appropriés**
 
 - Administrateur général
 - Administrateur partenaire MPN
-- Administrateur des références
 - Administrateur de profils métier
-- Agent d’administration
-- Agent commercial
+- Administrateur des références
 
 La page **Insights Business Profile** de l’espace partenaires vous permet de voir à quel degré vous souhaitez attirer l’attention de vos clients cibles et générer des références.
 
@@ -46,10 +38,15 @@ Après avoir publié le profil d' [entreprise](create-a-marketing-profile.md)de 
 
 Le graphique **Récapitulatif des performances du profil** contient les informations suivantes pour la période sélectionnée :
 
-- **Résultats**de la recherche : informations sur les termes de recherche que les clients utilisent pour rechercher votre profil d’entreprise.
-- **Pages**consultées : nombre total de fois où les clients ont affiché votre profil d’entreprise.
+- **Résultats** de la recherche : informations sur les termes de recherche que les clients utilisent pour rechercher votre profil d’entreprise.
+- **Pages** consultées : nombre total de fois où les clients ont affiché votre profil d’entreprise.
 - **Clics de contact**: nombre total de fois où les clients ont sélectionné votre profil d’entreprise à partir de la page [Rechercher un fournisseur de solutions](https://www.microsoft.com/solution-providers/home) .
 - **Références générées**: nombre total de références qui vous sont envoyées après qu’un client a sélectionné votre profil d’entreprise.
 
 > [!TIP]
 > Lorsque vous commencez à [répondre à ces références](manage-leads.md), veillez à consulter la page informations de [référence](referral-insights.md) pour en savoir plus sur les performances de vos références.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Créer un profil professionnel](create-a-marketing-profile.md)
+- [Obtenir des insights de référence dans l’Espace partenaires et voir les performances de vos références](referral-insights.md)

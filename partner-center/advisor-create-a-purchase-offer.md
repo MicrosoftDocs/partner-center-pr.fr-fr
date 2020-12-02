@@ -9,18 +9,15 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526985"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474136"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Conseillers : créer une offre d’achat
 
-**S’applique à**
-
-- Espace partenaires
  
 **Rôles appropriés**
 
@@ -56,7 +53,7 @@ Si votre client souhaite un nombre de licences différent, envoyez-lui une nouve
 4. Dans la page **Envoyer** , copiez les informations et l’URL de l’offre d’achat, puis collez-les dans un message électronique, un document ou une page Web pour créer une offre d’achat personnalisée.
 
     > [!NOTE]
-    > Prenez note de l' **ID Résumé**de l’offre d’achat. Utilisez-le pour suivre l’offre.
+    > Prenez note de l' **ID Résumé** de l’offre d’achat. Utilisez-le pour suivre l’offre.
 
 5. Vous pouvez personnaliser le message en incluant le logo de votre société, l’introduction, les remarques de clôture ou d’autres informations.
 
@@ -69,3 +66,7 @@ Si votre client souhaite un nombre de licences différent, envoyez-lui une nouve
     - Indiquez aux clients comment vous contacter pour obtenir des questions sur le service ou l’offre.
     - Indiquez aux clients qu’ils contrôlent le nombre de licences utilisateur achetées et peuvent modifier le nombre de licences lorsqu’ils acceptent l’offre.
     - Lorsque vous proposez l’administration déléguée, expliquez à votre client ce que cela signifie et quelles sont vos responsabilités. Pour plus d’informations sur l’administration déléguée, consultez [offrir l’administration déléguée](customers-revoke-admin-privileges.md).
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Créez votre base de clients avec des invitations d’essai et des offres d’achat Office 365](advisors-build-your-business.md)

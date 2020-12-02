@@ -9,19 +9,14 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 07/08/2020
-ms.openlocfilehash: 8d16ef9150e83fbdd3c189aaa878ad466f3fe1f4
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367303"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474085"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analyser les abonnements et les licences pour vous aider à prendre des décisions commerciales et de nouveaux objectifs
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
@@ -48,32 +43,44 @@ Nous effectuons le suivi des mesures suivantes :
 
 **Résumé**  
  - **Abonnements vendus**: nombre d’abonnements créés pour la période spécifiée  
- - **Licences vendues**: nombre de licences vendues pour la période spécifiée   
+  
+ - **Licences vendues**: nombre de licences vendues pour la période spécifiée  
+  
  - **Abonnements renouvelant dans 30 jours**: nombre d’abonnements dont l’État est actif pour la période spécifiée et où le **renouvellement autorenouvelé** est vrai
+ 
  - **Abonnements actifs**: abonnements pour lesquels l’État est **actif**  
+ 
  - **Abonnements suspendus**: nombre d’abonnements suspendus, aucun filtre de date  
 
-**Répartition du produit**  
+**Répartition du produit**
+  
  - **Nombre d’abonnements**: les 5 premiers produits sont triés par abonnements vendus  
+ 
  - **Nombre de licences**: 5 premiers produits par licences triées vendues
 
 **Rétention des abonnements**
+
  - **Abonnements renouvelés**: abonnements renouvelés au cours des 30 derniers jours  
 
 **Évolution de l’abonnement**  
  - **Nouveaux abonnements**: nombre de nouveaux abonnements pour la période, à l’exception des offres d’essai  
+ 
  - **Abonnements déconfigurés**: nombre d’abonnements annulés ou suspendus par date  
 
-**Abonnements suspendus**  
+**Abonnements suspendus** 
+ 
  - Liste de tous les abonnements dont l’État est **suspendu**, à l’exclusion des offres d’essai  
   
 **Abonnements actifs**
+
  - Liste de tous les abonnements actifs  
 
 **Conversions d’abonnement d’évaluation**  
+
  - **Conversion d’essai**: nombre de tous les abonnements **actifs** pour lesquels la version d’évaluation est payée au cours de la période spécifiée  
 
 **Abonnements d’évaluation se terminant dans 30 jours**  
+
  - Liste des versions d’évaluation qui ont été démarrées, où la date de fin est comprise dans les 30 derniers jours et où aucune date de début de paiement n’est associée à l’abonnement  
 
 ## <a name="next-steps"></a>Étapes suivantes

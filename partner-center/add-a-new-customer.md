@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006724"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474255"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Guide pratique pour ajouter un nouvel enregistrement de client dans l’Espace partenaires
 
-**S’applique à**
-
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
-- Partenaires du programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
@@ -31,10 +26,10 @@ ms.locfileid: "92006724"
 - Agent d’administration
 - Agent commercial
 
-Cet article explique comment ajouter un nouveau client à votre liste de clients dans l’espace partenaires. Suivez ces étapes avant de pouvoir vendre des abonnements, gérer la facturation ou fournir un support à un client.
+Cet article explique comment ajouter un nouveau client à votre liste de clients dans l’espace partenaires. Ces étapes sont nécessaires pour que vous puissiez vendre des abonnements, gérer la facturation ou fournir un support à un client.
 
 >[!NOTE]
->Pour les clients existants, y compris ceux qui ont déjà des enregistrements de clients dans l’espace partenaires via un scénario [multicanaux](multichannel.md) ou [multipartenaire](multipartner.md) , vous pouvez [demander une relation avec eux](request-a-relationship-with-a-customer.md)au lieu de suivre les étapes ci-dessous.
+>Pour les clients existants, y compris ceux qui ont déjà des enregistrements de clients dans l’espace partenaires via un scénario [multicanaux](multichannel.md) ou [multipartenaire](multipartner.md) , vous devez [demander une relation avec eux](request-a-relationship-with-a-customer.md), au lieu de suivre les étapes ci-dessous.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Pour ajouter un nouveau client dans l’Espace partenaires
 

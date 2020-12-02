@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527005"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474170"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Conseillers : créez votre base de clients avec des offres d’essai et des offres d’achat Office 365
 
-**S’applique à**
 
-- Espace partenaires
- 
 **Rôles appropriés**
 
 - Conseillers
@@ -53,5 +50,7 @@ Après l’envoi d’offres d’évaluation à vos clients, assurez le suivi par
 Lorsque vous créez l’offre d’achat, une URL personnalisée est créée pour vous. L’URL contient un code incorporé qui vous identifie en tant que conseiller d’abonnement. Vous pouvez utiliser cette URL pour un client ou un grand nombre de clients. Envoyez l’URL à votre client par courrier électronique ou publiez-la sur votre site Web.
 
 Si votre client veut un nombre de licences différent, envoyez-lui une nouvelle offre, sans quoi il peut modifier le nombre de licences lors de l’achat de l’abonnement.
+
+## <a name="next-steps"></a>Étapes suivantes
 
 Pour plus d’informations sur les offres d’achat, voir [créer une offre d’achat](advisor-create-a-purchase-offer.md).

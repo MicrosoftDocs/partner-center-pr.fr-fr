@@ -9,26 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198015"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474068"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gérer les utilisateurs et les licences utilisateur pour les comptes client
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
 - Administrateur général
 - Administrateur de la gestion des utilisateurs
 - Agent d’administration
-- Agent commercial
-- Agent du support technique
+
 
 Vous pouvez créer et supprimer de nouveaux utilisateurs dans le compte d’un client. Vous pouvez également restaurer un ou plusieurs comptes d’utilisateur que vous avez précédemment supprimés dans les 30 jours suivant la suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
 

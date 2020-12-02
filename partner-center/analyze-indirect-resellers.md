@@ -9,31 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367353"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474051"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Utiliser Analytics pour analyser les performances de vos revendeurs indirects
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Cloud
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Utilisez Analytics pour analyser les performances de vos revendeurs indirects
 
 **Rôles appropriés**
 
 - Administrateur général
 - Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Agent commercial
+
 
 Les données prennent des décisions commerciales. Utilisez les mesures de la page **Reseller Analytics** pour identifier vos réussites, les réussites des revendeurs indirects et les zones qui nécessitent une attention particulière. Utilisez ces informations lorsque vous planifiez de nouveaux objectifs commerciaux.
 
 > [!NOTE]
-> L’analytique des revendeurs indirects est disponible uniquement pour les partenaires du programme fournisseur de solutions Cloud.
+> Le revendeur indirect Analytics est disponible uniquement pour les fournisseurs indirects dans le programme fournisseur de solutions Cloud.
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Types de mesures Reseller Analytics que vous pouvez afficher
 
@@ -43,7 +37,7 @@ Nous effectuons le suivi des mesures suivantes :
  - **Total revendeurs**: nombre de revendeurs actifs le dernier jour de l’abonnement  
  - **Nouveaux revendeurs**: nombre de nouveaux revendeurs indirects pour la période spécifiée  
  - **Revendeurs actifs**: nombre de revendeurs indirects où le MPNID est d’au moins 1 abonnement et où l’état de l’abonnement n’est pas annulé.  
- - **Revendeurs**transmettant : nombre de revendeurs indirects avec un abonnement vendu au cours de la période spécifiée  
+ - **Revendeurs** transmettant : nombre de revendeurs indirects avec un abonnement vendu au cours de la période spécifiée  
 
 **Revendeurs par marché**  
  - Total des revendeurs par emplacement géographique  
@@ -77,8 +71,8 @@ Cette section indique l’état de l’état de la signature MPA des revendeurs 
  - **Nom du revendeur**: nom du revendeur indirect du CSP
  - **ID MPN**: ID MPN du revendeur indirect
  - **Région**: région dans laquelle le revendeur indirect fonctionne
- - **État**de l’instruction MPN : état d’instruction du revendeur indirect
- - **État**de la signature MPa : état de signature MPa pour le revendeur indirect
+ - **État** de l’instruction MPN : état d’instruction du revendeur indirect
+ - **État** de la signature MPa : état de signature MPa pour le revendeur indirect
 
 Cliquez sur l’icône de téléchargement dans le graphique pour télécharger les données d’état de la signature MPA avec des dimensions supplémentaires
   
