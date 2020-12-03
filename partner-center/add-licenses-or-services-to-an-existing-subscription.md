@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999673"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474221"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Ajouter des licences ou des services supplémentaires à l’abonnement d’un client
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
@@ -35,7 +30,7 @@ Si votre client a besoin de plus de licences que dans son abonnement actuel ou d
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Mises à niveau prises en charge dans le programme CSP <a id="upgradesubscription"></a>
 
-Les mises à niveau suivantes sont prises en charge dans le programme Fournisseur de solutions Cloud&nbsp;:
+Les mises à niveau suivantes sont prises en charge dans le programme Fournisseur de solutions Cloud :
 
 | Offre | Mises à niveau possibles|
 |---:|:---|

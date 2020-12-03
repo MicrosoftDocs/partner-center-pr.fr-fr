@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132992"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439133"
 ---
 # <a name="april-2020-announcements"></a>Annonces d’avril 2020
 
@@ -30,8 +30,8 @@ _________________
 
 - Date : 2020-04-30
 - Tapez : Fonctions
-- État : Bientôt disponible
-- [En savoir plus](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Résumé
 
@@ -49,7 +49,7 @@ Le 4 mai 2020, Microsoft introduira de nouvelles promotions avec remise pour O
 Ces promotions remplaceront l’offre d’essai Office 365 E1 en cours et diffèrent selon les méthodes suivantes :
 
 - Les partenaires vendront des références SKU annuelles Office 365 E1 ou Microsoft 365 Business Basic en tirant parti d’une promotion CSP qui applique une remise de 100 % pour les 6 premiers mois, plutôt qu’une référence SKU avec un essai unique de 6 mois. [En savoir plus sur les promotions Fournisseur de solutions Cloud](../promotions.md).
-- Les commandes seront techniquement limitées aux « nouveaux clients uniquement », plutôt qu’à l’essai Office 365 E1, qui était limité aux nouveaux clients au moyen d’une stratégie écrite uniquement. [Pour en savoir plus, consultez les questions fréquentes (FAQ) pour les partenaires Microsoft](https://aka.ms/CSPCOVIDPromo).
+- Les commandes seront techniquement limitées aux « nouveaux clients uniquement », plutôt qu’à l’essai Office 365 E1, qui était limité aux nouveaux clients au moyen d’une stratégie écrite uniquement. 
 - Pour les clients PME/TPE, Microsoft 365 Business Basic sera inclus dans cette promotion. Cela permet de garantir que les partenaires peuvent accepter des clients ayant moins de 300 postes dans la famille de produits appropriée avec Microsoft 365 pour les PME.
 Les clients qui disposent actuellement d’une licence d’utilisation de la version d’essai d’Office 365 E1 (disponible jusqu’au 4 mai 2020) resteront sur le plan actuel. Ce changement affecte uniquement les nouveaux clients.
 
@@ -58,12 +58,13 @@ Définition des « Nouveaux clients »
 Les nouveaux clients éligibles pour cette promotion sont les suivants :
 
 1. Nouveaux locataires client
-2. Les clients actuels qui ne disposent pas d’un abonnement actuellement payé ou récemment annulé (au cours des 30 derniers jours) dans leur locataire pour l’un des produits définis dans le [Guide des questions fréquentes (FAQ) pour les partenaires Microsoft](https://aka.ms/CSPCOVIDPromo).
+2. Les clients actuels qui ne disposent pas d’un abonnement actuellement payé ou récemment annulé (au cours des 30 derniers jours) dans leur locataire pour l’un des produits définis dans le Guide des questions fréquentes (FAQ) pour les partenaires Microsoft.
 
+ 
 ### <a name="additional-resources"></a>Ressources supplémentaires
 
 - Pour en savoir plus sur le travail à distance sécurisé, visitez le [centre de ressources pour les partenaires](https://www.microsoft.com/microsoft-365/partners/remotework).
-- Pour plus d’informations sur ces modifications, consultez les [questions fréquentes (FAQ) pour les partenaires](https://aka.ms/CSPCOVIDPromo).
+
 
 ### <a name="next-steps"></a>Étapes suivantes
 
@@ -172,7 +173,7 @@ Pour contribuer davantage à la protection des partenaires et des clients, **à 
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- **Si vous n’avez pas activé les exigences de sécurité recommandées pour protéger votre locataire et vos utilisateurs** , veuillez le faire immédiatement pour rester conforme et éviter toute interruption de l’activité de gestion des clients ou de réalisation des transactions au sein du programme Fournisseur de solutions cloud. Les partenaires qui n’implémentent pas les exigences de sécurité peuvent mettre en péril leur participation au programme Fournisseur de solutions cloud.
+- **Si vous n’avez pas activé les exigences de sécurité recommandées pour protéger votre locataire et vos utilisateurs**, veuillez le faire immédiatement pour rester conforme et éviter toute interruption de l’activité de gestion des clients ou de réalisation des transactions au sein du programme Fournisseur de solutions cloud. Les partenaires qui n’implémentent pas les exigences de sécurité peuvent mettre en péril leur participation au programme Fournisseur de solutions cloud.
 - Les fournisseurs indirects doivent implémenter ces exigences de sécurité pour leurs propres entreprises et collaborer avec les revendeurs pour s’assurer qu’ils implémentent également les exigences et utilisent ce modèle d’e-mail. Nous contacterons également directement vos revendeurs par e-mail.
 - Consultez la [page sur le statut des exigences de sécurité de l’Espace partenaires](https://partner.microsoft.com/commerce/security/compliance) pour identifier votre progression et les actions clés à entreprendre. Collaborez avec votre administrateur général pour vérifier régulièrement la progression de vos exigences de sécurité pour chacun de vos locataires.
 - Si vous utilisez une solution de fournisseur de panneau de contrôle CPV, consultez le fournisseur concerné.

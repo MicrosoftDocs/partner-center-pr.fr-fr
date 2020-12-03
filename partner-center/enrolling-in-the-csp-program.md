@@ -1,7 +1,7 @@
 ---
 title: S’inscrire au programme Fournisseur de solutions Cloud
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment adhérer au modèle de vente du programme Fournisseur de solutions Cloud (CSP) qui convient le mieux à votre entreprise, comme revendeur indirect ou partenaire de facturation directe.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045391"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322081"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
@@ -42,7 +42,7 @@ L’examen et la vérification des informations que vous avez fournies peuvent n
 3. Une fois vos informations vérifiées, acceptez les termes du contrat de revendeur indirect Microsoft.
 
 > [!IMPORTANT]  
-> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).
+> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Cette restriction s’applique uniquement au client utilisé pour effectuer les transactions du fournisseur de solutions Cloud. Les partenaires fournisseurs de solutions Cloud qui se servent d’un client non-fournisseur de solutions Cloud pour leur usage professionnel peuvent acheter les services en ligne d’un autre fournisseur de solutions Cloud. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>S’inscrire en tant que revendeur indirect
 
@@ -60,7 +60,7 @@ Les divers fournisseurs indirects proposent différents types de support et de s
 
 Si vous ne travaillez pas déjà avec un fournisseur (également appelé distributeur), vous pouvez [parcourir la liste des fournisseurs Microsoft officiels](https://partnercenter.microsoft.com/partner/find-a-provider) pour en trouver un.
 
-Pour plus d’informations sur les conditions à remplir pour participer au programme Fournisseur de solutions Cloud en tant que revendeur indirect, consultez [Démarrer en tant que revendeur indirect](https://partner.microsoft.com/cloud-solution-provider/whats-required) sur le [site web Microsoft Partner Network](https://partner.microsoft.com/). 
+Pour plus d’informations sur les conditions à remplir pour participer au programme Fournisseur de solutions Cloud en tant que revendeur indirect, consultez [Démarrer en tant que revendeur indirect](https://partner.microsoft.com/cloud-solution-provider/whats-required) sur le [site web Microsoft Partner Network](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>S’inscrire en tant que partenaire à facturation directe
 
@@ -99,4 +99,4 @@ Veillez à lire les [Prérequis pour pouvoir ajouter une nouvelle localisation p
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud](microsoft-partner-agreement.md)
+[Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud](microsoft-partner-agreement.md)

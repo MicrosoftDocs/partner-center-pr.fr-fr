@@ -1,7 +1,7 @@
 ---
 title: Crédit Partenaires pour les services managés
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les crédits Partenaires Microsoft pour les services managés sont calculés et payés, et comment vérifier que vous êtes éligible.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175314"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474306"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Calcul et paiement du crédit Partenaires
 
@@ -38,7 +38,13 @@ Lire également [Rétablir les privilèges d’administrateur pour les abonnemen
 
 - Le crédit PEC est associé à la consommation facturée de l’espace Azure du client relevant du programme Fournisseur de solutions Cloud managé par le partenaire. Il est réservé uniquement aux partenaires du programme CSP qui sont facturés par Microsoft (fournisseur indirect et partenaire à facturation directe). 
 
-- Services éligibles : Le crédit Partenaires s’applique aux services figurant dans les **tarifs de la consommation de plan Azure** que les partenaires peuvent exporter à partir de la page des [tarifs du plan Azure](https://partner.microsoft.com/commerce/sales). Le crédit acquis par un partenaire n’est pas applicable aux produits tiers identifiés comme **Tiers** dans la **colonne Étiquettes** de la liste des prix de consommation de plan Azure, aux réservations de plan Azure, aux produits figurant dans la liste des prix de la Place de marché et aux [machines virtuelles Azure Spot](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/).
+- Services éligibles : Le crédit Partenaires s’applique aux services figurant dans les **tarifs de la consommation de plan Azure** que les partenaires peuvent exporter à partir de la page des [tarifs du plan Azure](https://partner.microsoft.com/commerce/sales). 
+
+- Services non éligibles : Le crédit partenaire gagné n’est **_pas_* _ applicable aux éléments suivants :
+    - Réservations de plan Azure
+    - Produits tiers identifiés comme étant _ *tiers** dans la **colonne Étiquettes** du tarif de consommation de plan Azure    
+    - Produits figurant dans la liste des prix de la Place de marché
+   - [Machines virtuelles Azure Spot](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 - Le crédit PEC est calculé tous les jours et peut être consulté dans le fichier d’utilisation quotidienne et dans le fichier de rapprochement de facturation mensuelle. Pour obtenir un crédit PEC, le partenaire (fournisseur indirect ou revendeur indirect) doit bénéficier d’un accès tout au long de la journée (24h/24, 7j/7). Le crédit PEC est calculé tous les jours sur la base des ressources Azure managées. Le crédit PEC maximal pour une période de facturation donnée (mois) est de 15 %. Les partenaires qui gardent un accès privilégié persistant pendant tout le mois (plage d’accès) et pour toutes les ressources éligibles (étendue d’accès) obtiennent un crédit PEC total de 15 %. La réduction de l’étendue et de la plage entraîne un taux de PEC plus bas pour le mois. Le fichier d’utilisation évaluée quotidiennement s’affiche tous les jours sur la base d’une ressource Azure, que le crédit PEC soit appliqué ou non. Les partenaires peuvent aussi s’inscrire à des alertes pour détecter si des changements sont apportés à l’accès privilégié persistant.
 
