@@ -1,5 +1,5 @@
 ---
-title: Azure Cost Management par Cloudyn pour les fournisseurs de services de chiffrement
+title: Azure Cost Management par Cloudyn pour les CSP
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: aparnagkrishnan
 ms.author: aparnag
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ea156ef0932fe1af20f3e3c4b9be1a5f931cdde
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: defa691a3bc70cbda45f01cb447d89364a49e3b8
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435908"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534984"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>Suivre l’utilisation et les coûts d’Azure des clients avec l’application Azure Cost Management pour les partenaires CSP  
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
@@ -42,7 +37,7 @@ Cloudyn est une application Web qui vous permet de suivre et de gérer l’utili
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>Inscrire votre application Web dans l’espace partenaires
 Lorsque vous inscrivez une application Web Azure Active Directory dans l’espace partenaires, vous activez l’accès à l’API espace partenaires. 
-1.  Connectez-vous à [l’espace partenaires](https://partnercenter.microsoft.com/pcv/dashboard/overview) à l’aide d’un [compte d’administrateur général ou d’agent d’administration](create-user-accounts-and-set-permissions.md).
+1.  Connectez-vous à l' [espace partenaires](https://partnercenter.microsoft.com/pcv/dashboard/overview) à l’aide d’un [compte d’administrateur général ou d’agent d’administration](create-user-accounts-and-set-permissions.md).
 2.  Dans l' **espace partenaires**, sélectionnez **paramètres du compte** &gt; **[gestion des applications](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**.
 3.  Dans la section **application Web** , cliquez sur **Ajouter une nouvelle application Web**.
 <br> **Remarque**: Si vous avez déjà créé une application Web, vous pouvez ignorer l’étape 3.

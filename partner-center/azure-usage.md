@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000184"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534945"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionnement des machines virtuelles Microsoft Azure pour une utilisation maximale de la réservation
 
-**S’applique à**
+**Rôles appropriés**
 
-- Espace partenaires
-- Portail Azure
-- Partenaires du programme Fournisseur de solutions Microsoft Cloud
+- Agent d’administration
+- Agent commercial
+
+Cet article explique comment ajuster la taille d’une machine virtuelle aux besoins informatiques de vos clients lorsque vous achetez Microsoft Azure réservations pour eux.
  
 > [!NOTE]
 > Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](/azure/cost-management-billing/reservations).
@@ -128,7 +129,7 @@ Pour plus d’informations, consultez [obtenir les enregistrements d’utilisati
 >[!IMPORTANT]
 >Les coûts des logiciels, tels que Microsoft Windows Server, ne sont actuellement pas inclus dans le prix d’une réservation de machine virtuelle et apparaissent sous la forme d’éléments de ligne distincts dans l’enregistrement de commande et sur votre facture. Toutefois, si un client dispose de la Azure Hybrid Use Benefit, les frais liés aux logiciels ne seront pas appliqués. Pour plus d’informations, consultez [coûts des logiciels Windows non inclus dans les instances réservées](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="azure-reservations-resources"></a>Ressources Azure Réservations
+## <a name="next-steps"></a>Étapes suivantes
 
 |**Pour obtenir des informations sur**   |**Lisez cela**    |
 |:-----------------------------|:-----------------|

@@ -1,7 +1,7 @@
 ---
 title: Acheter des réservations Microsoft Azure pour les clients
 description: Découvrez comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires. Répertorie également les marchés où les réservations Azure ne sont pas disponibles.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031252"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534605"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires
-
-**S’applique à**
-
-- Espace partenaires
-- Portail Microsoft Azure
-- Partenaires dans CSP
 
 **Rôles appropriés**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92031252"
 - Agent du support technique
 - Agent commercial
 - Administrateur de la gestion des utilisateurs
+
+Cet article explique comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires. Il identifie également les marchés où les réservations Azure ne sont pas disponibles.
  
 > [!NOTE]
 > Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](/azure/cost-management-billing/reservations).
@@ -150,7 +146,8 @@ Suivez les étapes ci-dessous pour acheter Microsoft Azure réservations pour le
 
 10. Pour gérer la réservation du client dans la Portail Azure, recherchez le client sur la page de vos **clients** , puis sélectionnez la flèche vers le bas pour développer la ligne du client. Sélectionnez **portail de gestion Microsoft Azure** pour ouvrir l’enregistrement du client dans le portail Azure.
 
-## <a name="azure-reservations-resources"></a>Ressources Azure Réservations
+## <a name="next-steps"></a>Étapes suivantes
+
 |**Pour obtenir des informations sur**   |**Lisez cela**    |
 |:-----------------------------|:-----------------|
 |Vue d’ensemble des réservations Azure dans CSP  | [Vendre Microsoft Azure des instances réservées](azure-reservations.md) |

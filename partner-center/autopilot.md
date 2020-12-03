@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999433"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534985"
 ---
-# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utiliser les profils Windows AutoPilot sur de nouveaux appareils pour personnaliser l’expérience out-of-Box d’un client
-
-**S’applique à**
-
-- Fournisseurs de services de chiffrement direct-partenaires, fournisseurs indirects et revendeurs indirects
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utiliser des profils Windows Autopilot sur de nouveaux appareils pour personnaliser l’expérience OOBE (Out-Of-Box Experience) d’un client
 
 **Rôles appropriés**
 
@@ -54,13 +50,13 @@ Avec la fonctionnalité Windows AutoPilot de l’espace partenaires, vous pouvez
 
 - Ignorer le contrat de licence utilisateur final (CLUF). À compter de Windows 10 version 1709, les organisations peuvent décider d’ignorer la page du CLUF présentée pendant le processus OOBE. Pour obtenir des informations importantes sur l’ignorance de la page du CLUF lors de l’installation de Windows, consultez [CLUF de Windows AutoPilot](#windows-autopilot-eula-dismissal) ci-dessous.
 
-Les autorisations et limitations de gestion des périphériques et des profils suivantes s’appliquent :
+Les autorisations et limitations de gestion des appareils et des profils suivantes s’appliquent :
 
-- Les partenaires CSP peuvent continuer à gérer les profils AutoPilot pour les clients existants avec lesquels ils ont des relations de revendeur, même si les clients ont supprimé les privilèges d’administration déléguée du partenaire.
+- Les partenaires CSP peuvent continuer à gérer les profils Autopilot pour les clients existants avec lesquels ils ont des relations de revendeur, même si les clients ont supprimé les privilèges d’administration déléguée du partenaire.
 
-- Vous pouvez gérer les appareils existants pour vos clients que vous avez ajoutés.
+- Vous pouvez gérer des appareils existants pour vos clients que vous avez ajoutés.
 
-- Vous ne pouvez pas gérer les appareils que votre client a téléchargés vers Microsoft Store for Business ou le portail Microsoft Intune.
+- Vous ne pouvez pas gérer des appareils que votre client a chargés sur Microsoft Store pour Entreprises ou le portail Microsoft Intune.
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Créer et gérer des profils AutoPilot dans l’espace partenaires
 
@@ -149,11 +145,11 @@ Si vous envisagez d’utiliser le nom OEM, le numéro de série et la combinaiso
 
 - Ce tuple fonctionne uniquement pour les appareils plus récents (par exemple, les hachages de 4 Ko) et n’est pas pris en charge pour les hachages 128b (RS2 et les appareils précédents).
 
-- L’inscription de tuple est sensible à la casse, donc les données du fichier doivent correspondre aux noms de modèle et de fabricant ***exactement*** tels qu’ils sont fournis par le fournisseur OEM (fournisseur de matériel).
+- L’inscription de tuple est sensible à la casse, donc les données du fichier doivent correspondre aux noms de modèle et de fabricant **_exactement_* _ comme fourni par le fournisseur OEM (fournisseur de matériel).
 
 Suivez les instructions ci-dessous pour ajouter des appareils au compte d’un client dans l’espace partenaires.
 
-1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les appareils.
+1. Sélectionnez _ *Customers** dans le menu de l’espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les appareils.
 
 2. Sur la page de détails du client, sélectionnez **appareils**.
 
@@ -166,7 +162,7 @@ Suivez les instructions ci-dessous pour ajouter des appareils au compte d’un c
 
 5. Téléchargez le fichier. csv, puis sélectionnez **Enregistrer**.
 
-Si vous recevez un message d’erreur lors de la tentative de téléchargement du fichier. csv, vérifiez le format du fichier. Vous pouvez utiliser le hachage matériel uniquement ou le nom OEM, le numéro de série et le modèle (dans cet ordre de colonne) ou l’ID de produit Windows. Vous pouvez également utiliser le fichier Sample. csv fourni à partir du lien situé en regard de **Ajouter des appareils** pour créer une liste d’appareils.
+Si vous recevez un message d’erreur lors de la tentative de chargement du fichier .csv, vérifiez le format du fichier. Vous pouvez utiliser le hachage matériel uniquement, ou le nom OEM, le numéro de série et le modèle (dans cet ordre de colonne), ou l’ID de produit Windows. Vous pouvez également utiliser le fichier Sample. csv fourni à partir du lien situé en regard de **Ajouter des appareils** pour créer une liste d’appareils.
 
 Votre fichier. csv devrait ressembler à ceci :
 
