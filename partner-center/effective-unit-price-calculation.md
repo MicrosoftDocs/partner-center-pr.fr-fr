@@ -2,19 +2,19 @@
 title: Calcul du prix unitaire effectif
 ms.topic: how-to
 ms.date: 11/10/2020
-description: En savoir plus sur l’unité de prix effective et sur la manière dont elle est calculée. Comprend un exemple de calcul.
+description: En savoir plus sur le prix unitaire effectif et sur la façon dont il est calculé. Cet article contient également un exemple de calcul.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498570"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556325"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Calcul du prix unitaire effectif pour la consommation des plans Azure
 
@@ -35,7 +35,7 @@ Nous calculons le prix unitaire effectif à l’aide des trois facteurs suivants
 Si vous ne savez pas si votre compteur utilise la tarification à plusieurs niveaux, utilisez la procédure ci-dessous pour le savoir. 
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
-2. Sélectionnez **vendre** , sélectionnez **tarification et offres** , puis sélectionnez **tarification du plan Azure**.
+2. Sélectionnez **vendre**, sélectionnez **tarification et offres**, puis sélectionnez **tarification du plan Azure**.
 3. Localisez votre compteur par ID, puis téléchargez vos données de tarification. 
 
 ## <a name="sample-calculation"></a>Exemple de calcul

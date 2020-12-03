@@ -2,17 +2,17 @@
 title: Présentation des factures de facturation de l’espace partenaires
 ms.topic: article
 ms.date: 05/18/2020
-description: Comprendre les champs de votre fichier de facture pour la facturation de l’espace partenaires. les informations incluent les champs et les définitions de tous les champs de facturation et les champs de frais à usage unique.
+description: Comprendre les champs de votre fichier de facture pour la facturation de l’espace partenaires. Les champs et les définitions de tous les champs de facturation et champs de frais d’une seule période sont inclus.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198005"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556291"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Présentation des champs de facturation de l’espace partenaires
 

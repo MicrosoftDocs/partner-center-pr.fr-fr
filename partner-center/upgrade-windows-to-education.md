@@ -1,22 +1,22 @@
 ---
-title: Mettre à niveau les clients familiaux Windows 10 vers Windows 10 éducation
+title: Mettre à niveau Windows 10 famille vers Windows 10 éducation
 ms.topic: article
 ms.date: 10/28/2020
-description: Mettre à niveau les clients familiaux Windows 10 vers Windows 10 éducation
+description: Découvrez comment les partenaires fournisseur de solutions Cloud (CSP) peuvent mettre à niveau certains de leurs clients d’éducation de Windows 10 famille vers Windows 10 éducation
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360001"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556410"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Mettre à niveau les clients familiaux Windows 10 vers Windows 10 éducation
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Mettre à niveau certains clients de formation de Windows 10 famille vers Windows 10 éducation
 
 **S’applique à**
 
@@ -27,7 +27,7 @@ ms.locfileid: "94360001"
 - Agent d’administration
 - Agent du support technique
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Vue d'ensemble
 
 À partir du 1er novembre 2020, les fournisseurs de services de chiffrement qui ont acheté Microsoft 365 les abonnements a3 ou a5 ou Windows 10 entreprise a3 ou a5 peuvent aider leurs clients de formation à effectuer une mise à niveau de Windows 10 famille vers Windows 10 éducation, conçu pour la classe et l’apprentissage à distance.
 
@@ -47,7 +47,7 @@ Les partenaires doivent créer une demande de support et obtenir des clés de la
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard).
 
-2. Dans le menu espace partenaires, sélectionnez **clients** , puis sélectionnez le client qui a besoin d’un support technique.
+2. Dans le menu espace partenaires, sélectionnez **clients**, puis sélectionnez le client qui a besoin d’un support technique.
 
 3. Sélectionnez **gestion des services** et sélectionnez **demandes de service**.
 
@@ -63,7 +63,7 @@ Les partenaires doivent créer une demande de support et obtenir des clés de la
 - **Description :** Demande de clés [Insert number] pour activer la mise à niveau vers Windows 10 Education. (Notez que le nombre de clés demandé ne doit pas être supérieur à votre Microsoft 365 de licences d’abonnement a3/a5 ou Windows 10 entreprise a3/a5.) ID d’abonnement du client [Insert Customers ID d’abonnement GUID pour son Microsoft 365 a3/a5 ou un abonnement Windows 10 entreprise a3/a5.]
 - **Numéro de contact :** Celui-ci sera prérempli. Passez en revue pour confirmer ou mettre à jour.
 - **Adresse de messagerie :** Celui-ci est prérempli et doit être celui que vous utilisez en tant qu’administrateur du portail Microsoft (administrateur général ou administrateur de facturation uniquement).
-- **Méthode de contact préférée** : choisissez un **téléphone** ou **planifiez un rappel**.
+- **Méthode de contact préférée**: choisissez un **téléphone** ou **planifiez un rappel**.
 
 8. Sélectionnez **me contacter**. Le délai d’attente attendu est indiqué dans le volet **besoin d’aide ?** .
 
@@ -75,7 +75,7 @@ Les partenaires doivent créer une demande de support et obtenir des clés de la
 
 Pour mettre à niveau Windows 10 famille à l’aide d’une clé de produit Windows 10 Pro Education, le client doit effectuer les opérations suivantes :  
 
-1. Sélectionnez **Démarrer** , puis sélectionnez **paramètres > mettre à jour & Security > activation**. Sélectionnez **modifier la clé de produit** , puis entrez la clé de produit de 25 caractères Windows 10 Pro. Sélectionnez **suivant** pour démarrer la mise à niveau vers Windows 10 professionnel.
+1. Sélectionnez **Démarrer**, puis sélectionnez **paramètres > mettre à jour & Security > activation**. Sélectionnez **modifier la clé de produit**, puis entrez la clé de produit de 25 caractères Windows 10 Pro. Sélectionnez **suivant** pour démarrer la mise à niveau vers Windows 10 professionnel.
 
 2. Lorsque l’appareil est joint au domaine du locataire (via AAD), l’appareil est automatiquement mis à niveau vers Windows 10 éducation.  
 
