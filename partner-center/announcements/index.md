@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/19/2020
-ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.date: 12/03/2020
+ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932767"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570754"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-| **Catégorie** | **Annonces de novembre 2020** | **Annoncé** |
+| **Catégorie** | **Annonces de décembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Offres/marchés|[Une mise à jour de l’offre Microsoft 365 Business Voice US avec forfait d’appels sort prochainement aux É.-U.](2020-december.md#2)|3 décembre|
+|Fonctions|[Disponible dès maintenant : Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur visant le processus de validation des clients Éducation](2020-december.md#1)|3 décembre|
+| **Catégorie** | **Annonces de novembre 2020** | **Annoncé** |
 |Fonctions|[Nouvelle expérience de gestion de comptes centralisée](2020-november.md#13)|18 novembre|
 |Offres/marchés|[Promotion Office 365 E1 pour les PME (LATAM, APAC et Inde)](2020-november.md#12)|18 novembre|
 |Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur (IU) pour renforcer le filtrage des clients dans certains pays](2020-november.md#11)|17 novembre|
