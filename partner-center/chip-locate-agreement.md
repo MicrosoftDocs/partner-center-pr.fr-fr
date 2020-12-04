@@ -1,22 +1,22 @@
 ---
-title: Localiser le nombre de postes de travail et le niveau de frais d’un accord
+title: Rechercher le nombre de postes de travail, niveau de frais dans puce
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Où se trouvent les informations sur le nombre de postes de travail et les frais dans une puce.
+description: Découvrez comment utiliser la plateforme de revendeurs d’incentives pour rechercher le nombre de postes de travail et les informations de niveau de frais pour un accord.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418086"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570550"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localiser le nombre de postes de travail et le niveau de frais d’un accord
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localiser le nombre de postes de travail et le niveau de frais pour un contrat
 
 Vous pouvez télécharger vers Excel, un fichier fournissant les détails du contrat pour le nombre de postes de travail et le niveau de frais.
 

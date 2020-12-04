@@ -2,18 +2,18 @@
 title: Compétences-Forum aux questions
 ms.topic: article
 ms.date: 11/23/2020
-description: Réponses aux questions relatives à la réalisation de compétences Microsoft Partner Network Gold et Silver, à l’expiration des avantages, au renouvellement et à l’activation de licences pour Azure, Cloud, Visual Studio, et les avantages techniques et de support
+description: Réponses aux questions sur les compétences MPN ou Silver, l’expiration, le renouvellement ou l’activation de licences pour Azure, Cloud, Visual Studio, techniques, avantages du support technique.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812814"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570482"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Compétences-Forum aux questions
 

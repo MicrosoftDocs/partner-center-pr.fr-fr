@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417249"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570686"
 ---
 # <a name="benefits-faq"></a>Questions fréquentes (FAQ) sur les avantages
 
-S’applique à :
+**Rôles appropriés**
 
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
+- Administrateur MPN
+
+De nombreuses questions courantes sur les avantages des Microsoft Partner Network (MPN) sont abordées dans cet article.
+
 
 ## <a name="general-questions"></a>Questions générales
 
@@ -87,7 +89,7 @@ Vous pouvez affecter des abonnements à n’importe qui dans votre liste de gest
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. Dans le volet de navigation de gauche, sélectionnez **MPN**.
+2. Dans le menu de l’espace partenaires, sélectionnez **MPN**.
 
 3. Sélectionnez **avantages**, puis **Visual Studio**.
 
@@ -96,7 +98,7 @@ Vous pouvez affecter des abonnements à n’importe qui dans votre liste de gest
 Une fois que vous avez attribué l’abonnement, l’utilisateur doit se connecter à Visual Studio pour le gérer.
 
 >[!Note]
-> Les abonnements Visual Studio peuvent être réattribués d’un abonné à un autre après l’attribution d’origine de 90 jours
+> Les abonnements Visual Studio peuvent être réattribués d’un abonné à un autre 90 jours après l’attribution d’origine.
 
 ## <a name="technical-benefits-and-support"></a>Avantages techniques et support
 
@@ -106,7 +108,7 @@ L’installation, l’activation et d’autres informations relatives au produit
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. Dans le volet de navigation de gauche, sélectionnez **MPN**.
+2. Dans le menu de l’espace partenaires, sélectionnez **MPN**.
 
 3. Sélectionnez **avantages**, puis **avantages techniques**.
 
@@ -115,3 +117,7 @@ L’installation, l’activation et d’autres informations relatives au produit
 5. Connectez-vous à [support Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
 
 6. Sélectionnez le produit que vous essayez d’installer, puis créez un ticket de support technique.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Obtenez une spécialisation avancée pour démontrer votre expertise](advanced-specializations.md)

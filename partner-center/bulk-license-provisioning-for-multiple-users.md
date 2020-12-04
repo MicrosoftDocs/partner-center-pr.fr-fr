@@ -9,18 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527395"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570652"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Affecter ou révoquer des licences en même temps à plusieurs utilisateurs dans un compte client
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 

@@ -1,22 +1,22 @@
 ---
-title: Gérer les utilisateurs et les licences utilisateur pour les comptes client
+title: Gérer les utilisateurs pour les comptes client
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment gérer les utilisateurs de vos clients dans l’espace partenaires, tels que créer des comptes d’utilisateur, ajouter ou supprimer des licences utilisateur, réinitialiser les mots de passe utilisateur et supprimer ou restaurer des comptes d’utilisateur.
+description: 'Gérer les utilisateurs pour vos clients dans l’espace partenaires : créer des comptes d’utilisateur, ajouter ou supprimer des licences utilisateur, réinitialiser les mots de passe et supprimer ou restaurer des comptes d’utilisateur.'
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474068"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570737"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gérer les utilisateurs et les licences utilisateur pour les comptes client
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gérer les utilisateurs et les licences utilisateur pour les comptes client 
 
 **Rôles appropriés**
 
@@ -76,21 +76,21 @@ Les étapes suivantes s’appliquent à l’ajout ou à la suppression de licenc
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3.  Dans le menu client, sélectionnez **Utilisateurs et licences**. Sélectionnez l’utilisateur dans la liste.
+3. Dans le menu client, sélectionnez **Utilisateurs et licences**. Sélectionnez l’utilisateur dans la liste.
 
-4.  En bas de l’écran, sélectionnez **Réinitialiser le mot de passe**. 
+4. En bas de l’écran, sélectionnez **Réinitialiser le mot de passe**. 
 
-5.  Envoyez le nouveau mot de passe temporaire à l’utilisateur.
+5. Envoyez le nouveau mot de passe temporaire à l’utilisateur.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Supprimer les comptes d’utilisateur d’un client
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**. Sélectionnez le client dans la liste.
+1. Dans le menu **espace partenaires** , sélectionnez **clients**. Sélectionnez le client dans la liste.
 
-2.  Dans le menu client, sélectionnez **Utilisateurs et licences**. Sélectionnez l’utilisateur dans la liste.
+2. Dans le menu client, sélectionnez **Utilisateurs et licences**. Sélectionnez l’utilisateur dans la liste.
 
-3.  Au bas de l’écran, sélectionnez **Supprimer le compte utilisateur**.
+3. Au bas de l’écran, sélectionnez **Supprimer le compte utilisateur**.
 
 Si vous devez restaurer ce compte, vous pouvez le trouver sous l’onglet **utilisateurs supprimés** de la liste **utilisateurs et licences** du client. Vous avez 30 jours pour restaurer un utilisateur supprimé.
 
@@ -98,19 +98,18 @@ Si vous devez restaurer ce compte, vous pouvez le trouver sous l’onglet **util
 
 ## <a name="restore-deleted-user-accounts"></a>Restaurer des comptes d’utilisateur supprimés
 
-1.  Dans le menu **espace partenaires** , sélectionnez **clients**, puis sélectionnez le client dans la liste.
+1. Dans le menu **espace partenaires** , sélectionnez **clients**, puis sélectionnez le client dans la liste.
 
-2.  Sélectionnez **utilisateurs et licences**.
+2. Sélectionnez **utilisateurs et licences**.
 
-3.  Sélectionnez l’onglet **utilisateurs supprimés ()** . Elle doit être lue **(1)** ou supérieure quand des utilisateurs supprimés peuvent être restaurés.
+3. Sélectionnez l’onglet **utilisateurs supprimés ()** . Elle doit être lue **(1)** ou supérieure quand des utilisateurs supprimés peuvent être restaurés.
 
-4.  Activez une ou plusieurs cases à cocher correspondant aux utilisateurs supprimés, puis sélectionnez **Restaurer**.
+4. Activez une ou plusieurs cases à cocher correspondant aux utilisateurs supprimés, puis sélectionnez **Restaurer**.
 
     Tous les comptes d’utilisateur sélectionnés réapparaissent dans la page **Utilisateurs et licences**.
 
-## <a name="related-topics"></a>Rubriques connexes
+## <a name="next-steps"></a>Étapes suivantes
 
+- [Attribuer ou révoquer des licences pour plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md)
 
-[Attribuer ou révoquer des licences pour plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md)
-
-[Créer plusieurs utilisateurs pour un compte client](adding-multiple-users-to-a-customer-account.md)
+- [Créer plusieurs utilisateurs pour un compte client](adding-multiple-users-to-a-customer-account.md)

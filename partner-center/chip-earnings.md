@@ -1,22 +1,22 @@
 ---
-title: Afficher les bénéfices dans une puce
+title: Afficher les gains dans la plateforme CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Instructions pour afficher les bénéfices dans une puce
+description: Découvrez comment afficher votre relevé et vos revenus d’incentives dans l’outil de plateforme Channel incentives (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418087"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570499"
 ---
-# <a name="view-earnings-in-chip"></a>Afficher les bénéfices dans une puce
+# <a name="view-earnings-using-the-chip-tool"></a>Afficher les bénéfices à l’aide de l’outil CHIP
 
 Vous pouvez accéder à votre déclaration d’incentives via l’outil Channel incentives Platform (puce).
 
@@ -41,4 +41,4 @@ Vous pouvez accéder à votre déclaration d’incentives via l’outil Channel 
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Vérifier l’état du paiement dans une puce](chip-payment-status.md)
+- [Vérifier l’état du paiement dans la plateforme CHIP](chip-payment-status.md)

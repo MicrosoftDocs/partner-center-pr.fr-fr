@@ -1,24 +1,24 @@
 ---
-title: État du paiement et informations de calcul de l’évaluation de la solution
+title: État du paiement de l’évaluation de la solution
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Apprenez à trouver des informations sur les paiements de l’évaluation de la solution.
+description: Utilisez la plateforme d’incentives Channel pour trouver des informations sur les opportunités d’évaluation de solution, leurs calculs et leur statut de paiement.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418075"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570465"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>État du paiement et informations de calcul de l’évaluation de la solution
 
-Vous pouvez consulter l’état de paiement d’un état d’opportunité d’évaluation de solution dans CHIP. 
+Vous pouvez consulter l’état de paiement d’un état d’opportunité d’évaluation de solution dans CHIP.
 
 ## <a name="how-to-review-your-payment-status"></a>Comment vérifier votre statut de paiement
 
@@ -52,4 +52,4 @@ Les opportunités doivent avoir tous les attributs suivants pour apparaître dan
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Problèmes d’accès à la puce](chip-access-trouble.md) 
+- [Problème d’accès à la plateforme CHIP](chip-access-trouble.md) 

@@ -1,20 +1,20 @@
 ---
-title: État des opportunités de l’évaluation de la solution sur la plateforme de stimulation de canal (CHIP)
+title: État de l’opportunité d’évaluation de la solution de puce
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Découvrez comment trouver l’état de vos opportunités d’évaluation de solution sur puce.
+description: Découvrez comment trouver l’état de votre opportunité d’évaluation de la solution dans la plateforme d’incentives du canal (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418082"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570380"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Recherchez l’état de vos opportunités d’évaluation de solution sur puce
 
@@ -62,7 +62,7 @@ Si vous avez d’autres questions ou si vous souhaitez envoyer un ticket de supp
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Vérifier l’état du paiement dans une puce](chip-payment-status.md)
+- [Vérifier l’état du paiement dans la plateforme CHIP](chip-payment-status.md)
 - [Support technique](report-problems-with-partner-center.md)
 
 .

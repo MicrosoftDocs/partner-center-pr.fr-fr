@@ -1,6 +1,6 @@
 ---
 title: Vérifier l’intégrité du service pour un client
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,18 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 60957d227197460a0cdb108e1826758e0ec48e03
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527585"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570618"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Vérifier l’état du service pour qu’un client signale un problème ou une panne de service potentiel
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -29,7 +25,7 @@ ms.locfileid: "87527585"
 - Agent du support technique
 - Agent commercial
 
-L’une des premières choses que vous pouvez faire lorsqu’un client rencontre des problèmes avec un service est de vérifier l’état du service. 
+Cet article explique comment utiliser l’espace partenaires pour vérifier l’intégrité du service d’un client lorsqu’il rencontre un problème avec un service. 
 
 ## <a name="check-service-health"></a>Vérifier l’intégrité du service
 
@@ -48,5 +44,5 @@ Pendant une indisponibilité de service, Microsoft fournit des mises à jour ré
 
 - Microsoft 365 et Microsoft Azure fournissent chacun des [API que les partenaires peuvent utiliser pour récupérer l’intégrité du service en temps réel](get-automated-service-notifications-with-our-apis.md), les communications du centre de messages et les événements de maintenance planifiée.
 
- 
+ 
 
