@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663880"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755637"
 ---
-# <a name="vat-info"></a>Informations sur la TVA
+# <a name="value-added-tax-vat-information"></a>Informations sur la taxe sur la valeur ajoutée (T.V.A.)
 
 **S’applique à :**
 
@@ -25,6 +25,24 @@ Si vous devez fournir un numéro d’identification de TVA pendant le processus 
 ## <a name="understanding-vat-numbers"></a>Description des numéros de TVA
 
 Un numéro de TVA (taxe sur la valeur ajoutée) est un identificateur utilisé pour des pays ou des régions dans l’Union européenne. Pour plus d’informations, consultez le [site](http://ec.europa.eu/taxation_customs/vies/vieshome.do)officiel de l’Union européenne.
+
+## <a name="location-specific-vat-information"></a>Informations de TVA spécifiques à l’emplacement
+
+Les détails suivants sont spécifiques aux pays ou régions répertoriés ci-dessous.
+
+### <a name="european-union"></a>Union européenne
+
+Dans les États membre de l’Union européenne, les partenaires doivent fournir leur numéro de&nbsp;TVA valide pour la taxe au preneur et pour une facturation appropriée. Le numéro de&nbsp;TVA doit être accepté comme valide.
+
+Microsoft ne prend pas en charge le crédit et la facturation. Avant de vendre des abonnements, vous devez [enregistrer votre numéro d’identification de TVA](organization-tax-info.md) dans l’espace partenaires.
+
+### <a name="south-africa"></a>Afrique du Sud
+
+Microsoft applique désormais la TVA standard sur le contenu numérique et les services achetés par les partenaires en Afrique du Sud. Pour exclure la TVA de vos factures et la gérer vous-même, vous devez mettre à jour votre profil de facturation partenaire en [envoyant votre numéro d’identification de t.v.a. à Microsoft](organization-tax-info.md).
+
+### <a name="turkey"></a>Turquie
+
+Microsoft applique désormais la TVA standard sur le contenu numérique et les services achetés par les partenaires en Turquie. Pour exclure la TVA de vos factures et la gérer vous-même, vous devez mettre à jour votre profil de facturation partenaire en [envoyant votre numéro d’identification de t.v.a. à Microsoft](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Formats acceptés pour les numéros de TVA
 

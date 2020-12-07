@@ -1,7 +1,7 @@
 ---
 title: Taxes régionales et exonérations fiscales
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 12/04/2020
 description: Pour les partenaires du programme CSP, Découvrez les responsabilités fiscales par région, comment envoyer des exemptions de taxe pour les ventes de fournisseurs de solutions et comment obtenir un support technique pour les questions fiscales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea6d654f6124c711ae1cc355f71e6ee956c8c65a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436418"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755586"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays pour les partenaires dans le programme CSP
 
@@ -25,11 +25,11 @@ S’applique à :
 
 Le programme fournisseur de solutions Cloud (CSP) est un canal de vente axé sur la revente des produits partenaires. Par conséquent, Microsoft n’est pas toujours obligé de facturer les taxes sur les factures des partenaires. Les règles varient en fonction du pays et/ou de la région. Vous pouvez consulter [les détails spécifiques au pays et à la région pour les exemptions de taxe](#country-and-region-tax-details).
 
-Les partenaires doivent travailler avec leur conseiller fiscal pour les taxes sur les [fichiers](#file-tax-exemptions) en fonction de leur emplacement et de l’endroit où leurs clients sont basés.
+Collaborez avec votre conseiller fiscal pour traiter les [exemptions fiscales](#file-a-tax-exemption) en fonction de votre emplacement et des emplacements de vos clients.
 
 ## <a name="country-and-region-tax-details"></a>Détails fiscaux relatifs aux pays et aux régions
 
-Des informations spécifiques relatives aux taxes sont disponibles pour les pays et régions suivants : [Canada](#canada), [Union européenne](#european-union), [Afrique du sud](#south-africa), [Turquie](#turkey)et [le États-Unis](#united-states). Pour Taïwan et Corée, consultez [Détails sur les reçus de taxes](#tax-receipts-and-daf).
+Des informations spécifiques relatives aux taxes sont disponibles pour le Canada et le États-Unis. Pour Taïwan et Corée, consultez [Détails sur les reçus de taxes](#tax-receipts-and-daf).
 
 Si vous êtes dans un autre pays ou région dont les taxes sont facturées, consultez [les informations relatives aux autres régions](#other-regions).
 
@@ -40,20 +40,6 @@ Pour obtenir des questions supplémentaires, [demandez de l’aide dans l’espa
 La plupart des revendeurs ne sont pas exonérés des taxes&nbsp;GST/HST/QST. Consultez votre conseiller fiscal pour déterminer si vous êtes éligible à l’exemption et la documentation que vous devez fournir à Microsoft.
 
 Pour une exemption de fichier PST BC, dépensez une exemption fiscale comme décrit. Indiquez votre numéro BC&nbsp;PST ou remplissez et signez un *certificat d’exonération générale*.
-
-### <a name="european-union"></a>Union européenne
-
-Dans les États membre de l’Union européenne, les partenaires doivent fournir leur numéro de&nbsp;TVA valide pour la taxe au preneur et pour une facturation appropriée. Le numéro de&nbsp;TVA doit être accepté comme valide.
-
-Microsoft ne prend pas en charge le crédit et la facturation. Avant de vendre des abonnements, vous devez [enregistrer votre numéro d’identification de TVA](organization-tax-info.md) dans l’espace partenaires.
-
-### <a name="south-africa"></a>Afrique du Sud
-
-Microsoft applique désormais la TVA standard sur le contenu numérique et les services achetés par les partenaires en Afrique du Sud. Pour exclure la TVA de vos factures et la gérer vous-même, vous devez mettre à jour votre profil de facturation partenaire en [envoyant votre numéro d’identification de t.v.a. à Microsoft](organization-tax-info.md).
-
-### <a name="turkey"></a>Turquie
-
-Microsoft applique désormais la TVA standard sur le contenu numérique et les services achetés par les partenaires en Turquie. Pour exclure la TVA de vos factures et la gérer vous-même, vous devez mettre à jour votre profil de facturation partenaire en [envoyant votre numéro d’identification de t.v.a. à Microsoft](organization-tax-info.md).
 
 ### <a name="united-states"></a>États-Unis
 
@@ -69,33 +55,22 @@ Si vous êtes dans un autre pays ou région dont les taxes sont facturées, [dem
 
 Les recettes fiscales (pour Taïwan ou la Corée du Sud) ou le rendu à la frontière (DAF) requièrent généralement un délai de deux&nbsp;semaines après la génération de la facture.
 
-## <a name="file-tax-exemptions"></a>Déposer des exonérations fiscales
+## <a name="file-a-tax-exemption"></a>Demander une exonération fiscale
 
-Avant de faire une exemption de taxe, recherchez votre **ID Microsoft** et votre **ID MPN** à inclure dans le ticket de support :
+Avant de déposer une exemption fiscale, assurez-vous de bien comprendre les points suivants :
 
-1. Connectez-vous au [tableau de bord de l’espace partenaires](https://partner.microsoft.com/dashboard/).
-2. Dans le menu **paramètres** (icône d’engrenage), choisissez **paramètres de partenaire**.
-3. Sur la page **paramètres du compte** , choisissez Profil d' **organisation** dans le menu Tableau de bord.
-4. Notez votre **ID Microsoft**.
-5. Sur la même page, choisissez **profil de partenaire** dans le menu Tableau de bord.
-6. Notez votre **ID MPN**.
+- Vous devez faire une exemption de taxe pour chaque locataire CSP.
 
-Ensuite, créez un ticket de support pour Microsoft avec vos informations d’exemption fiscale :
+- Vous devez envoyer votre numéro d’identification fiscale ou le numéro d’identification de l’employeur fédéral (FEIN). Ce nombre apparaît généralement sur votre certificat fiscal.
 
-1. Dans le menu Tableau de bord, sous **support**, choisissez **demandes de support de partenaire**.
-2. Sur la page **demande de partenaire** , choisissez **nouvelle requête**. (Vous pouvez également afficher vos demandes de support ouvertes et fermées plus tard dans cette page.)
-3. À l’étape de **base** , **sous CSP-facturation et paiements**, choisissez **Sélectionner un type de problème** et sélectionner demande d' **exemption fiscale**.
-4. À l’étape **solutions** , sous avez **-vous besoin d’aide supplémentaire ?**, choisissez **Oui**.
-5. À l’étape **Détails** , renseignez le formulaire **Détails du problème** . Veillez à :
+- En fonction de votre pays, de votre région ou de votre état, votre exonération fiscale présente des directives légales spécifiques au département local des revenus fiscaux (ou service similaire) et doit être gérée en conséquence. Si de nombreux emplacements ont des certificats de taxe permanente qui sont renouvelés chaque année, certains emplacements peuvent être renouvelés à deux ans ou plus. Vous devez vérifier cela et d’autres informations en vérifiant votre certificat ou en contactant votre autorité fiscale locale.
 
-    - Renseignez tous les champs obligatoires.
-    - Incluez votre **ID Microsoft** et votre **ID MPN** dans le champ **Détails** .
-    - Ajoutez la documentation de prise en charge à votre ticket dans le champ pièces jointes.
-
-6. Choisissez Envoyer pour envoyer dans votre **demande de support** . Microsoft vous enverra un courrier électronique pour plus d’informations.
+Lorsque vous êtes prêt à préparer votre exemption fiscale, ouvrez un ticket avec [support Microsoft](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) et fournissez les informations appropriées.
 
 ## <a name="support"></a>Support
 
-Pour obtenir d’autres questions sur les exemptions et les remboursements de taxes, demandez de l’aide dans l’espace partenaires. Laissez deux&nbsp;semaines s’écouler pour que Microsoft vous contacte et résolve le problème.
+Pour toute question sur les exemptions et les remboursements de taxes, ou sur d’autres questions liées à l’imposition, demandez de l’aide dans l’espace partenaires. Laissez deux&nbsp;semaines s’écouler pour que Microsoft vous contacte et résolve le problème.
 
-Pour les autres besoins en matière d’impôt, demandez également un service dans l’espace partenaires.
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Billing](billing.md)
