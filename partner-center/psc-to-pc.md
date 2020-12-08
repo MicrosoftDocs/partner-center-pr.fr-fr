@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612817"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776903"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -66,22 +66,22 @@ Dans le menu de navigation de gauche de l’espace partenaires, sélectionnez l�
   >[!Note]
   > Vous devrez peut-être vous déconnecter de l’espace partenaires et vous reconnecter pour actualiser vos informations d’identification afin d’accéder aux pages de références.
 
-Si vous ne voyez pas l’option **références** dans le menu de l’espace partenaires ou les pages liées aux références, contactez l' [administrateur général](permissions-overview.md) de votre entreprise et demandez-lui de vous permettre d’accéder à l’option **références** et à la zone associée. 
+Si vous ne voyez pas l’option **références** dans le menu de l’espace partenaires ou les pages liées aux références, contactez l' [administrateur du compte](permissions-overview.md) de votre entreprise et demandez-lui de vous permettre d’accéder à l’option **références** et à la zone associée.
 
-Pour trouver l’administrateur général de votre société :
+Pour trouver l’administrateur de compte de votre société :
 
 1. Sélectionnez **paramètres du compte** à partir de l’icône d’engrenage en haut à droite du tableau de bord de l’espace partenaires.
 
-1. Sélectionnez **gestion des utilisateurs** dans le menu de navigation de second niveau de gauche. 
+1. Sélectionnez **gestion des utilisateurs** dans le menu de navigation de second niveau de gauche.
 
-1. En haut de la liste des utilisateurs, sélectionnez le menu déroulant **filtre** . Remplacez l’option par **administrateur général**.
+1. En haut de la liste des utilisateurs, sélectionnez le menu déroulant **filtre** . Remplacez l’option par **admin de compte**.
 
-   La page affiche tous les administrateurs globaux avec leurs adresses e-mail respectives. Envoyez un e-mail à l’un d’eux et demandez-lui d’attribuer le rôle d’administrateur de références pour votre compte professionnel.
+   La page affiche tous les administrateurs de comptes avec leurs adresses e-mail respectives. Envoyez un e-mail à l’un d’eux et demandez-lui d’attribuer le rôle d’administrateur de références pour votre compte professionnel.
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Image représentant les administrateurs de comptes dans la page de gestion des utilisateurs paramètres du partenaire.":::
 
 >[!Important]
->- Si votre rôle implique uniquement la gestion des utilisateurs dans PSC, demandez à l’administrateur général de votre entreprise de vous attribuer le rôle d' [administrateur de compte](permissions-overview.md#manage-mpn-membership-and-your-company) dans l’espace partenaires. 
+>- Si votre rôle implique uniquement la gestion des utilisateurs dans PSC, demandez à l’administrateur de compte de votre entreprise de vous attribuer le rôle d' [administrateur de compte](permissions-overview.md#manage-mpn-membership-and-your-company) dans l’espace partenaires. 
 >- Si votre rôle comprend également la gestion des opportunités de covente, demandez à être affecté au rôle d' [administrateur de références](permissions-overview.md#manage-referrals) .
 > - Il est judicieux de nommer également un chef de gestion des modifications parmi les administrateurs PSC. Cela empêchera tous les administrateurs du PSC d’avoir à accéder individuellement aux administrateurs de compte de l’espace partenaires. Au lieu de cela, le responsable de la gestion des modifications peut être la principale personne travaillant avec l’administrateur de compte de l’espace partenaires.
 
@@ -129,7 +129,7 @@ Parfois, la migration peut échouer et provoquer des erreurs. Voici quelques rai
 
 Une fois que vous avez terminé la migration des utilisateurs, suivez les instructions ci-dessous pour déterminer la stratégie de migration :
 
-Si votre entreprise dispose d’un système PDM, lorsque votre compte espace partenaires est configuré et que vos utilisateurs sont déplacés et disposent de rôles et d’autorisations, vous pouvez déplacer vos activités de covente vers l’espace partenaires. Informez le système PDM d’effectuer le commutateur au lieu de patienter jusqu’à la fin de l’échéance de la migration, ce qui permettra à tous vos nouveaux contrats d’être transmis à l’espace partenaires.
+Si votre entreprise dispose d’un responsable de développement partenaire (PDM) : lorsque votre compte de l’espace partenaires est configuré et que vos utilisateurs ont passé des rôles et des autorisations, vous pouvez déplacer vos activités de covente vers l’espace partenaires. Informez le système PDM d’effectuer le commutateur au lieu de patienter jusqu’à la fin de l’échéance de la migration, ce qui permettra à tous vos nouveaux contrats d’être transmis à l’espace partenaires.
 
 >[!Note]
 >Une fois ce commutateur effectué, vous ne pourrez agir que sur les transactions actives existantes dans le PSC. Vous ne pouvez pas créer de nouvelles demandes ni recevoir de transactions de la part de vendeurs Microsoft dans PSC.
@@ -137,7 +137,7 @@ Si votre entreprise dispose d’un système PDM, lorsque votre compte espace par
 Si votre entreprise n’a pas de PDM, assurez-vous que tous les comptes d’utilisateur sont configurés et vérifiés par tous les utilisateurs. Vous recevrez une notification par courrier électronique et une bannière dans le PSC indiquant la date exacte à laquelle vous pouvez commencer à vendre des produits dans l’espace partenaires. N’oubliez pas que vous devrez toujours gérer les transactions actives existantes dans le PSC.
 
 >[!Important]
->Les contrats actifs ne seront pas migrés vers le PC. Vous avez jusqu’au 31 décembre 2020 pour fermer et enregistrer les demandes.
+>Les contrats actifs ne seront pas migrés vers le PC. Vous avez jusqu’au 31 mars 2021 pour fermer et enregistrer les demandes.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Étapes suivantes pour les administrateurs PSC, les responsables des affaires PSC et les vendeurs de PSC
 
@@ -263,7 +263,7 @@ Vous pouvez contacter vos administrateurs listés sur la page « aucun accès 
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-qui peut me donner accès à la section Références de l’espace partenaires ?
 
-L' [administrateur](permissions-overview.md#manage-mpn-membership-and-your-company) de votre compte peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur général, sélectionnez les **paramètres de compte** à partir de l’icône d’engrenage en haut à droite du tableau de [bord](https://partner.microsoft.com/dashboard)de l’espace partenaires. Ensuite, sélectionnez **gestion des utilisateurs** dans la barre de navigation gauche de second niveau. En haut de la liste des utilisateurs, sélectionnez le menu déroulant **filtre** et remplacez l’option par **administrateur général**. La page affiche tous les administrateurs globaux avec leurs adresses e-mail respectives. Demandez à l’un d’eux d’attribuer le rôle d’administrateur de référence pour votre compte professionnel.
+L' [administrateur](permissions-overview.md#manage-mpn-membership-and-your-company) de votre compte peut vous accorder l’accès à l’onglet Références. Pour trouver votre administrateur de compte, sélectionnez **paramètres de compte** à partir de l’icône d’engrenage en haut à droite du tableau de [bord](https://partner.microsoft.com/dashboard)de l’espace partenaires. Ensuite, sélectionnez **gestion des utilisateurs** dans la barre de navigation gauche de second niveau. En haut de la liste des utilisateurs, sélectionnez le menu déroulant **filtre** et remplacez l’option par **administrateur de compte**. La page affiche tous les administrateurs de comptes avec leurs adresses e-mail respectives. Demandez à l’un d’eux d’attribuer le rôle d’administrateur de référence pour votre compte professionnel.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3-le bouton + nouveau contrat est grisé pour notre compte. Que dois-je faire pour commencer à créer des transactions ?
 
