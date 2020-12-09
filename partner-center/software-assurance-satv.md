@@ -1,7 +1,7 @@
 ---
 title: Programme de bons de formation Software Assurance
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment s’inscrire au programme des bons de formation Software Assurance pour vous permettre de compenser la formation et la planification aux entreprises.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811199"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926613"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) de l’Espace partenaires
 
@@ -45,11 +45,11 @@ Vous pouvez vérifier l’éligibilité de votre société, y compris les compé
 
 ## <a name="enroll-in-the-training-program"></a>S’inscrire au programme de formation
 
-Une fois que votre entreprise répond aux conditions d’éligibilité et que les participants au programme ont suivi le cours de formation à la conformité, vous êtes prêt à signer le contrat du programme de bons de formation de Software Assurance et à vous inscrire. Veillez à passer en revue toutes les [stratégies de programme SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), puis suivez les instructions de l' [étape 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) du flux de travail pour terminer le processus d’inscription de SATV dans l’espace partenaires.
+Une fois que votre entreprise répond aux conditions d’éligibilité, vous êtes prêt à signer le contrat de programme du bon de formation Software Assurance et à vous inscrire. Veillez à passer en revue toutes les [stratégies de programme SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), puis suivez les instructions de l' [étape 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) du flux de travail pour terminer le processus d’inscription de SATV dans l’espace partenaires.
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmer l’éligibilité au cours
-Une fois qu’ils sont inscrits au programme SATV, les partenaires peuvent proposer des sessions de formation pour des cours SATV, pour lesquels les clients peuvent utiliser leurs bons de formation. Les cours éligibles sont répertoriés dans le [catalogue d’éligibilité des cours SATV](https://savl-catalog.microsoft.com/). Passez en revue l' [étape 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) du flux de travail pour comprendre quels types de cours sont éligibles à la SATV.
+Une fois qu’ils sont inscrits au programme SATV, les partenaires peuvent proposer des sessions de formation pour des cours SATV, pour lesquels les clients peuvent utiliser leurs bons de formation. Les cours éligibles sont répertoriés dans le catalogue d’éligibilité des cours SATV. Passez en revue l' [étape 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) du flux de travail pour comprendre quels types de cours sont éligibles à SATV ou pour obtenir un lien vers le catalogue d’éligibilité des cours.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Demander au client de créer et d’attribuer un bon
 

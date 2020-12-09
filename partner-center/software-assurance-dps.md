@@ -1,7 +1,7 @@
 ---
 title: Services de planification Software Assurance
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Apprenez à vous inscrire et à bénéficier des contrats Microsoft sur les services de planification afin de pouvoir fournir des services de formation et d’autres services aux clients avec Software Assurance.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88092028"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926642"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
 
@@ -42,10 +42,9 @@ Cet article explique comment effectuer chaque étape.
 
 ## <a name="verify-eligibility-new-partners"></a>Vérifier l’éligibilité (nouveaux partenaires)
 
-Avant que les sociétés partenaires et consultants puissent s’inscrire à l’une des offres de services de planification, elles doivent satisfaire à la fois aux exigences en matière de formation et aux exigences en matière de compétence :
+Pour que les sociétés partenaires et consultants puissent s’inscrire à l’une des offres de services de planification, elles doivent satisfaire aux exigences de compétence, comme suit :
 
-- **Exigences en matière de formation de conformité.** Les exigences en matière de formation à la conformité du programme doivent être respectées au niveau de l’entreprise.
-- **Exigences relatives aux compétences.** Les exigences relatives aux compétences sont spécifiques à l’engagement à remettre. Par exemple, votre entreprise peut être inscrite dans l’offre DDPS (Desktop Deployment Planning Services). Toutefois, vous serez uniquement éligible à la remise d’un engagement spécifique au sein de l’offre DDPS si votre entreprise détient également une compétence éligible pour cet engagement spécifique.
+**Exigences relatives aux compétences.** Les exigences relatives aux compétences sont spécifiques à l’engagement à remettre. Par exemple, votre entreprise peut être inscrite dans l’offre DDPS (Desktop Deployment Planning Services). Toutefois, vous serez uniquement éligible à la remise d’un engagement spécifique au sein de l’offre DDPS si votre entreprise détient également une compétence éligible pour cet engagement spécifique.
 
 >[!NOTE]
 > Pour en savoir plus sur les conditions d’éligibilité pour des engagement spécifiques, [consultez conditions d’éligibilité pour les approvisionnements de services de planification](software-assurance-dps-requirements.md).

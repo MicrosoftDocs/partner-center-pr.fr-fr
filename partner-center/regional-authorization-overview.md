@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114101"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926659"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Les marchés régionaux et les devises du programme fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP
 
@@ -43,23 +43,23 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 
 | Pays/Région           | Devise |
 | ------------------------ |:--------:|
-| Angola                   |          |
+| Angola                   |   USD    |
 | Bénin                    |   USD    |
-| Botswana                 |          |
+| Botswana                 |   USD    |
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Cameroun                 |   USD    |
-| Cap-Vert               |          |
+| Cap-Vert               |   USD    |
 | République centrafricaine |   USD    |
 | Tchad                     |   USD    |
 | Comores (Les)                  |   USD    |
 | Congo                    |   USD    |
 | Congo (RDC)              |   USD    |
-| Côte d’Ivoire            |          |
+| Côte d’Ivoire            |   USD    |
 | Djibouti                 |   USD    |
 | Guinée équatoriale        |   USD    |
 | Érythrée                  |   USD    |
-| Éthiopie                 |          |
+| Éthiopie                 |   USD    |
 | Polynésie française         |   USD    |
 | Gabon                    |   USD    |
 | Gambie                   |   USD    |
@@ -76,11 +76,11 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Namibie                  |   USD    |
 | Nouvelle Calédonie            |   USD    |
 | Niger                    |   USD    |
-| Nigéria                  |   USD    |
-| Réunion (île)                  |   USD    |
+| Nigeria                  |   USD    |
+| La réunion                  |   USD    |
 | Rwanda                   |   USD    |
 | São Tomé et Príncipe    |   USD    |
-| Sénégal                  |          |
+| Sénégal                  |   USD    |
 | Seychelles               |   USD    |
 | Sierra Leone             |   USD    |
 | Somalie                  |   USD    |
@@ -88,8 +88,8 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Sainte-Hélène, Ascension et Tristan da Cunha|    USD   |
 | Tanzanie                 |   USD    |
 | Togo                     |   USD    |
-| Ouganda                   |          |
-| Zambie                   |          |
+| Ouganda                   |   USD    |
+| Zambie                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>Région et marché Asie et Pacifique
@@ -99,17 +99,17 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Pays/Région     | Devise |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
-|  Bhoutan            |          |
+|  Bhoutan            |   USD    |
 |  Brunéi Darussalam |   USD    |
-|  Cambodge          |          |
+|  Cambodge          |   USD    |
 |  Hong Kong (R.A.S.)         |   USD    |
 |  Indonésie         |   USD    |
-|  Laos              |          |
+|  Laos              |   USD    |
 |  Macao (R.A.S.)             |   USD    |
 |  Malaisie          |   USD    |
-|  Maldives          |          |
-|  Myanmar           |          |
-|  Népal             |          |
+|  Maldives          |   USD    |
+|  Myanmar           |   USD    |
+|  Népal             |   USD    |
 |  Philippines       |   USD    |
 |  Singapour         |   USD    |
 |  Sri Lanka         |   USD    |
@@ -131,7 +131,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Fidji (îles)                  |   AUD    |
 |  Terres australes françaises| AUD |
 |  Guam                  |  AUD     |
-|  Heard et McDonald (Îles)| AUD |
+|  Heard et McDonald (îles)| AUD |
 |  Kiribati              |   AUD    |
 |  Marshall (Îles)      |   AUD    |
 |  Micronésie            |   AUD    |
@@ -146,7 +146,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis-et-Futuna     |   AUD    |
+|  Wallis et Futuna     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>Région et marché du Brésil
@@ -165,7 +165,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
-|  Saint-Pierre-et-Miquelon|  CAD   |
+|  Saint Pierre et Miquelon|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>Région et marché européens
@@ -179,9 +179,9 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Autriche        |   EUR    |
 |  Belgique        |   EUR    |
 |  Bouvet (Île)  |   EUR    |
-|  Bulgarie       |          |
+|  Bulgarie       |   EUR    |
 |  Croatie        |   EUR    |
-|  Chypre         |          |
+|  Chypre         |   EUR    |
 |  République tchèque |   EUR    |
 |  Danemark        |   DKK    |
 |  Estonie        |   EUR    |
@@ -191,7 +191,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Allemagne        |   EUR    |
 |  Gibraltar      |   GBP    |
 |  Grèce         |   EUR    |
-|  Groenland      |          |
+|  Groenland      |   EUR    |
 |  Guernesey       |   GBP    |
 |  Hongrie        |   EUR    |
 |  Islande        |   EUR    |
@@ -203,8 +203,8 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Liechtenstein  |   EUR    |
 |  Lituanie      |   EUR    |
 |  Luxembourg     |   EUR    |
-|  Malte          |          |
-|  Monaco         |          |
+|  Malte          |   EUR    |
+|  Monaco         |   EUR    |
 |  Pays-Bas    |   EUR    |
 |  Norvège         |   NOK    |
 |  Pologne         |   EUR    |
@@ -278,13 +278,13 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Malouines (îles)|  USD    |
 |  Guyane  |   USD    |
 |  Grenade        |   USD    |
-|  Guadeloupe     |          |
+|  Guadeloupe     |   USD    |
 |  Guatemala      |   USD    |
 |  Guyane         |   USD    |
 |  Haïti          |   USD    |
 |  Honduras       |   USD    |
 |  Jamaïque        |   USD    |
-|  Martinique     |          |
+|  Martinique     |   USD    |
 |  Mexique         |   USD    |
 |  Montserrat     |   USD    |
 |  Nicaragua      |   USD    |
@@ -315,9 +315,9 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 
 |  Pays/Région | Devise |
 |  -------------- |:--------:|
-|  Afghanistan    |          |
+|  Afghanistan    |   USD    |
 |  Albanie        |   USD    |
-|  Algérie        |          |
+|  Algérie        |   USD    |
 |  Arménie        |   USD    |
 |  Azerbaïdjan     |   USD    |
 |  Bahreïn        |   USD    |
@@ -328,21 +328,21 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Géorgie        |   USD    |
 |  Irak           |   USD    |
 |  Israël         |   USD    |
-|  Jordanie         |          |
+|  Jordanie         |   USD    |
 |  Kazakhstan     |   USD    |
 |  Kosovo         |   USD    |
 |  Koweït         |   USD    |
 |  Kirghizistan     |   USD    |
 |  Liban        |   USD    |
 |  Lesotho        |   USD    |
-|  Libye          |          |
+|  Libye          |   USD    |
 |  Macédoine, République de|   |
 |  Mauritanie     |   USD    |
-|  Moldova        |          |
-|  Mongolie       |          |
-|  Monténégro     |          |
+|  Moldova        |   USD    |
+|  Mongolie       |   USD    |
+|  Monténégro     |   USD    |
 |  Maroc        |   USD    |
-|  Mozambique     |          |
+|  Mozambique     |   USD    |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
 |  Autorité palestinienne |        |
@@ -351,15 +351,15 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Serbie         |   USD    |
 |  Afrique du Sud   |   USD    |
 |  Swaziland      |   USD    |
-|  Tadjikistan     |          |
+|  Tadjikistan     |   USD    |
 |  Tunisie        |   USD    |
 |  Turquie         |   USD    |
-|  Turkménistan   |          |
+|  Turkménistan   |   USD    |
 |  Ukraine        |   USD    |
 |  Émirats Arabes Unis| USD |
-|  Ouzbékistan     |          |
+|  Ouzbékistan     |   USD    |
 |  Yémen          |   USD    |
-|  Zimbabwe       |          |
+|  Zimbabwe       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>Nouvelle région et marché néo-zélandais
