@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570754"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869314"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,13 +22,15 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de décembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Mise en production du kit SDK sur .NET Standard (v1.16.3)](2020-december.md#4)|8 décembre|
+|Offres/marchés|[Notes de publication sur les prix des licences - Décembre 2020](2020-december.md#3)|8 décembre|
 |Offres/marchés|[Une mise à jour de l’offre Microsoft 365 Business Voice US avec forfait d’appels sort prochainement aux É.-U.](2020-december.md#2)|3 décembre|
 |Fonctions|[Disponible dès maintenant : Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur visant le processus de validation des clients Éducation](2020-december.md#1)|3 décembre|
 | **Catégorie** | **Annonces de novembre 2020** | **Annoncé** |
 |Fonctions|[Nouvelle expérience de gestion de comptes centralisée](2020-november.md#13)|18 novembre|
 |Offres/marchés|[Promotion Office 365 E1 pour les PME (LATAM, APAC et Inde)](2020-november.md#12)|18 novembre|
-|Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur (IU) pour renforcer le filtrage des clients dans certains pays](2020-november.md#11)|17 novembre|
-|Fonctions|[Changement de la devise de facturation des partenaires pour les nouvelles offres commerciales en UE/AELE](2020-november.md#10)|17 novembre|
+|Fonctionnalités|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur (IU) pour renforcer le filtrage des clients dans certains pays](2020-november.md#11)|17 novembre|
+|Fonctionnalités|[Changement de la devise de facturation des partenaires pour les nouvelles offres commerciales en UE/AELE](2020-november.md#10)|17 novembre|
 |Fonctionnalités|[Limitation pour les API de l’Espace partenaires](2020-november.md#9)|17 novembre|
 |Fonctionnalités|[Erreurs 409 dues à des demandes MCA en double](2020-november.md#8)|16 novembre|
 |Fonctions|[Tests disponibles : Mises à jour des API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation des clients Éducation](2020-november.md#7)|10 novembre|
@@ -78,7 +80,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces d’août 2020** | **Date** |
 |Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation de clients Éducation](2020-august.md#8)|31 août|
 |Offres/marchés|[Mises à jour de Microsoft 365 Voice Promotion](2020-august.md#7)|14 août|
-|Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
+|Fonctionnalités|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
 |Fonctionnalités|[Achat en libre-service de Microsoft Project et Microsoft Visio bientôt disponible](2020-august.md#5)|12 août|
 |Offres/marchés|[Nouvelles références SKU Communications avancées Microsoft Teams maintenant disponibles](2020-august.md#4)|4 août|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible en septembre](2020-august.md#3)|4 août|
