@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114727"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869280"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passage du Centre d’administration des partenaires à l’Espace partenaires
 
@@ -31,14 +31,11 @@ L’Espace partenaires évolue pour devenir le seul endroit où vous allez gére
 |**Action**   |**Centre d’administration des partenaires**   |**Espace partenaires**   |
 |--------------|:--------------|:---------------|
 |Vue d’ensemble de l’activité de votre compte et de vos clients|Écran d’accueil|Espace partenaires|
-|Acquérir de nouveaux clients et fournir des devis pour des services payants ou d’essai|Créer votre activité -> Envoyer un devis|Les devis de services payants ne sont pas disponibles. Les essais liés au programme Fournisseur de solutions Cloud sont disponibles si le partenaire du programme Advisor convertit un revendeur indirect du programme Fournisseur de solutions Cloud et ses associés en un fournisseur indirect du programme Fournisseur de solutions Cloud prenant en charge les essais. |
-|Demander des relations|(Revendeurs et conseillers) Créer votre activité -> Envoyer une demande DAP|(Revendeurs et conseillers) Clients -> Demander une relation de revendeur (voir la remarque ci-dessous)|
+|Acquérir de nouveaux clients et fournir des devis pour des services payants ou d’essai|Créer votre activité -> Envoyer un devis|Espace partenaires : > des versions d’évaluation et d’achat |
+|Demander des relations|(Revendeurs et conseillers) Créer votre activité -> Envoyer une demande DAP|Clients-> demander une relation (voir la remarque ci-dessous)|
 |Gérer vos clients|Gestion des clients -> Liste des clients|Espace partenaires -> Clients|
-|Gérer les abonnements des clients|Gestion des clients -> Liste des clients -> sélectionnez un client|Espace partenaires-> clients-> sélectionnez client ou ajoutez votre client à la liste **favoris** en basculant l’étoile dans la liste des clients, puis sélectionnez les **favoris** slideout et accédez directement à **gérer les abonnements** de votre client.|
-|Administrer au nom de vos clients|Gestion des clients -> sélectionnez un client -> sélectionnez le bouton Gérer|Espace partenaires-> clients-> sélectionnez administrer les services à partir de la liste déroulante : > sélectionnez un service ou ajoutez votre client à la liste des **favoris** en basculant l’étoile dans la liste des clients, puis sélectionnez les **favoris** slideout et accédez directement à **administrer les services** pour le service requis.|
+|Gérer les abonnements des clients|Gestion des clients -> Liste des clients -> sélectionnez un client|Espace partenaires-> clients-> sélectionner un client ou Rechercher un client par nom ou par nom de domaine. Accédez ensuite à **utilisateurs et licences** pour votre client.|
+|Administrer au nom de vos clients|Gestion des clients -> sélectionnez un client -> sélectionnez le bouton Gérer|Espace partenaires-> clients-> sélectionner un client ou Rechercher un client par nom ou par nom de domaine. Sélectionnez ensuite administrer les services dans la liste déroulante-> sélectionnez service.|
 |Créer des demandes de service pour votre client|Demandes de service -> sélectionnez un client -> sélectionnez le bouton + | Espace partenaires -> Demandes de service -> Demandes du client -> sélectionnez un client -> Nouvelle demande|
 |Gérer les demandes de service des clients| Demandes de service -> sélectionnez un client|Espace partenaires : demandes de service >es-> les demandes des clients-> sélectionnez le client ou ajoutez la demande de service à la liste des **favoris** en basculant l’étoile dans la vue des demandes du client pour le client, puis sélectionnez le slideout **favoris** , sélectionnez l’onglet **demandes de support** et accédez directement à la demande de service, ou affichez les mises à jour directement à partir des **favoris**.|
 |Voir l’intégrité des services Microsoft Online Services que vous gérez|Intégrité des services -> État d’intégrité agrégé|Espace partenaires -> Intégrité des services|
-
->Important<br>
-Vous ne pouvez pas envoyer de devis pour des services payants ou d’essai aux clients via l’Espace partenaires. De plus, vous pouvez rechercher des clients dans l’Espace partenaires en utilisant le nom de client ou le domaine de client disponible au moment de l’établissement de la relation de partenariat avec le client.
