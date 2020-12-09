@@ -1,7 +1,7 @@
 ---
 title: Attester que le client accepte le Contrat client Microsoft
 description: Découvrez dans quels cas il est opportun d’attester l’acceptation du Contrat client Microsoft au nom de votre client.
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367333"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534775"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Attester l’acceptation du Contrat client Microsoft au nom de votre client
 
-**S’applique à**
-
-- Espace partenaires
-- Centre d’administration Microsoft 365
 
 **Rôles appropriés**
 
+- Administrateur général
 - Agent d’administration
-- Agent commercial
-
-**Types de partenaire appropriés**
-
-- Revendeurs indirects, partenaires effectuant une facturation directe, fournisseurs indirects
+- Agent du support technique
 
 Cet article décrit certains scénarios dans lesquels vous devrez peut-être attester l’acceptation par un client du Contrat client Microsoft au nom du client.
 
