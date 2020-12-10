@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468527"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570703"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Vue d’ensemble de la facturation pour les partenaires du programme Fournisseur de solutions Cloud utilisant l’Espace partenaires 
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
@@ -31,13 +26,16 @@ ms.locfileid: "87468527"
 - Agent du support technique
 - Agent commercial
 
+Cet article fournit des informations de base sur la facturation et les factures à l’intention des partenaires CSP dans l’Espace partenaires, avec notamment des informations sur la manière de facturer les clients, de trouver votre facture et de la consulter.
+
+
 ## <a name="find-your-bill"></a>Rechercher votre facture
 
 Pour rechercher votre facture :
 
-1. [Connectez-vous au tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/home).
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires.
 
-2. Dans le menu de gauche, choisissez **Facturation**.
+2. Dans le menu de l’Espace partenaires, choisissez **Facturation**.
 
 3. Dans la page **Facturation**, vous pouvez télécharger votre facture la plus récente ou télécharger des factures précédentes dans la section **Historique de facturation**.
 
@@ -45,7 +43,7 @@ Pour rechercher votre facture :
 
 Microsoft n’a pas d’exigences particulières sur la façon dont vous gérez votre propre facturation.
 
-Pour déterminer l’utilisation d’un client, [consultez vos fichiers de rapprochement](#find-your-bill). Vous pouvez utiliser le nom du client et d’autres champs appropriés pour déterminer l’utilisation.
+Pour déterminer l’utilisation d’un client, consultez vos [fichiers de rapprochement](#find-your-bill). Utilisez le nom du client et d’autres champs appropriés pour déterminer l’utilisation.
 
 ### <a name="billing-types"></a>Types de facturation
 
@@ -173,3 +171,8 @@ Vous pouvez être amené à demander un crédit ou une refacturation pour les ra
 - Un remboursement de taxe a été appliqué après la génération de la facture. Vous pouvez demander un crédit ou une refacturation pour réintégrer le remboursement de taxe dans la facture d’origine. Il en va de même pour les remboursements. Vous pouvez demander un crédit ou une refacturation de la facture d’origine, puis réintégrer un remboursement.
 
 **Pour toutes les transactions ponctuelles et périodiques**, Microsoft peut émettre une note de crédit quand vous demandez un crédit ou une nouvelle facture. La facture est annulée à l’émission du crédit. 
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Comprendre votre facture et votre fichier de rapprochement](read-your-bill.md)
+- [Scénarios de facturation courants pour les partenaires du programme Fournisseur de solutions Cloud (CSP)](common-billing-scenarios.md)

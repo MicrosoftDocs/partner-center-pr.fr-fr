@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment le crédit Partenaires offre des tarifs Azure uniformes simplifiés, fournit des services managés à valeur ajoutée et permet d’éliminer la concurrence sur les marges.
+description: Découvrez comment le crédit Partenaires offre des tarifs Azure uniformes simplifiés et des services managés à valeur ajoutée, tout en contribuant à éliminer la concurrence sur les marges.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220507"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556393"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédit Partenaires : vue d’ensemble de son fonctionnement dans la nouvelle expérience commerciale du fournisseur de solutions Cloud
 

@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333824"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534792"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Créer un compte professionnel qui lie votre entreprise à votre compte Espace partenaires
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -71,3 +67,8 @@ Quand vous achetez un abonnement Azure, vous louez de fait un espace sécurisé 
 Un compte professionnel Azure est une représentation virtuelle dédiée et isolée de votre entreprise dans le cloud public Azure. Il est créé pour vous quand vous vous abonnez à un service cloud Microsoft comme Azure, Microsoft Intune ou Office 365.
 
 Votre compte professionnel héberge vos utilisateurs Azure AD et les informations les concernant telles que leur mot de passe, les données de profil, les autorisations, etc. Le compte professionnel contient aussi des groupes, des applications et toutes les informations relatives à une entreprise et à sa sécurité.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
+- [Suivre l’état de vérification](verification-responses.md)

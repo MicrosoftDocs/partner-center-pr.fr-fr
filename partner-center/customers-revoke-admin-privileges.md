@@ -1,7 +1,7 @@
 ---
 title: Obtenir les privilèges d’administrateur d’un client
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenez les autorisations dont vous avez besoin pour gérer le service ou l’abonnement d’un client en son nom. Découvrez comment les autorisations sont accordées, révoquées et gérées.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545900"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534877"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtenir les autorisations pour gérer le service ou l’abonnement d’un client
 
@@ -47,7 +47,7 @@ Pour gérer le service ou l’abonnement d’un client pour son compte, le clien
 6.  Pour gérer le compte, les services, les utilisateurs et les licences du client, développez la fiche du client en sélectionnant la flèche vers le bas située à côté de son nom, puis sélectionnez le portail d’administration pour le service que vous voulez gérer.
 
 >[!IMPORTANT]  
->Les clients peuvent réattribuer ou supprimer des autorisations d’administrateur sur le portail d’administration d’un service. Toutefois, tant que vous n’avez pas renégocié votre contrat avec le client, vous restez tenu de lui fournir un support client et de respecter les termes du Contrat de revendeur Cloud, même si le client a déjà réattribué ou supprimé des autorisations d’administrateur. Dans ce cas, si le client a besoin d’aide, contactez le support Microsoft pour ouvrir une demande de service pour le compte du client.
+>Les clients peuvent réattribuer ou supprimer des autorisations d’administrateur sur le portail d’administration d’un service. Cependant, vous devez informer le client que la suppression de vos autorisations d’administrateur signifie que vous ne pourrez plus ouvrir de demandes de service à Microsoft en son nom. Vous ne pourrez pas ouvrir ces types de demande de service au nom du client tant que vous n’aurez pas renégocié votre contrat avec le client.
 
 En accédant au portail d’administration Office 365, vos clients peuvent savoir lesquels de leurs partenaires disposent de privilèges d’administrateur pour leur locataire. Pour ce faire :
 

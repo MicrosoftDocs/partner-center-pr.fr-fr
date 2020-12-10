@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000603"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534928"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Gérer les abonnements et les ressources dans le cadre du plan Azure
 
-Quand vous opérez la transition d’un client vers le plan Azure, des droits d’administrateur privilégié vous sont attribués par défaut dans Azure (droits de propriétaire d’abonnement via les privilèges Administrateur au nom de).
+**Rôles appropriés**
+
+- Agent d’administration
+
+
+Cet article explique comment les partenaires fournisseurs de solutions Cloud (CSP) peuvent utiliser différentes options de contrôle d’accès basé sur les rôles (RBAC) pour bénéficier d’une gestion et d’un contrôle opérationnels sur les ressources Azure d’un client. Quand vous opérez la transition d’un client vers le plan Azure, des droits d’administrateur privilégié vous sont attribués par défaut dans Azure (droits de propriétaire d’abonnement via les privilèges Administrateur au nom de).
 
  > [!NOTE]
  > Le client peut supprimer les droits d’administrateur sur l’abonnement Azure au niveau d’un abonnement, d’un groupe de ressources ou d’une charge de travail. 
@@ -29,7 +34,7 @@ Quand vous opérez la transition d’un client vers le plan Azure, des droits d�
 
 - **Azure Lighthouse** : les privilèges AOBO ne permettent pas de créer des groupes distincts qui fonctionnent avec différents clients, ni d’activer des rôles distincts pour les groupes ou les utilisateurs. En utilisant Azure Lighthouse, vous pouvez affecter différents groupes à différents clients ou rôles. Sachant que les utilisateurs disposent du niveau d’accès approprié via la gestion de ressources déléguée Azure, vous pouvez réduire le nombre d’utilisateurs ayant le rôle d’agent d’administration (et donc disposer d’un accès AOBO complet). Cela contribue à améliorer la sécurité en limitant les accès inutiles aux ressources de vos clients. Cela permet aussi de gérer plusieurs clients selon les besoins avec une plus grande souplesse. Pour plus d’informations, consultez [Azure Lighthouse et le programme Fournisseur de solutions cloud](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Annuaire ou utilisateurs invités ou [principaux de services](/azure/active-directory/develop/app-objects-and-service-principals)**  : vous pouvez déléguer un accès précis aux abonnements CSP en ajoutant des utilisateurs dans l’annuaire du client ou en ajoutant des utilisateurs invités et en attribuant des rôles RBAC spécifiques.
+- **Annuaire ou utilisateurs invités ou [principaux de services](/azure/active-directory/develop/app-objects-and-service-principals)**  : vous pouvez déléguer un accès précis aux abonnements CSP en ajoutant des utilisateurs dans l’annuaire du client ou en ajoutant des utilisateurs invités et en attribuant des rôles RBAC spécifiques.
 
 À des fins de sécurité, Microsoft recommande d’attribuer aux utilisateurs des autorisations minimales pour effectuer leur travail. Consultez [Ressources Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 

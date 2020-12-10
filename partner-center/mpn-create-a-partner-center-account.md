@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999353"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570788"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Créer un compte Espace partenaires pour gérer les revenus et les compétences du réseau
 
@@ -25,21 +25,25 @@ ms.locfileid: "90999353"
 
 Avant de pouvoir créer un compte sur l'Espace partenaires ou vous inscrire à un programme de partenaires, votre entreprise doit être membre du Microsoft Partner Network. Si vous n’êtes pas membre du réseau, vous pouvez le [rejoindre maintenant](https://partner.microsoft.com/commercial#). Une fois que vous avez créé un compte Espace partenaires, regardez cette brève vidéo [Découvrir votre tableau de bord](https://vimeo.com/290338211).
 
-## <a name="before-you-begin"></a>Avant de commencer
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Obtenir une adresse e-mail professionnelle avant de configurer un compte Espace partenaires
+
+Pour pouvoir configurer des adresses e-mail professionnelles pour vos employés, votre entreprise doit d’abord acheter un domaine de messagerie. Rapprochez-vous de votre service informatique pour acheter un domaine de messagerie, car il s’agit d’un processus technique. Utilisez le nouvel e-mail pour configurer votre locataire Azure AD et votre compte Espace partenaires.
+
+## <a name="get-started"></a>Bien démarrer
 
 Pour créer un compte dans l’Espace partenaires, vous devez avoir les informations suivantes à portée de main. Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer :
 
--   E-mail professionnel de l'administrateur général.
+- E-mail professionnel de l'administrateur général.
 
--   Si vous ne connaissez pas le compte professionnel de votre entreprise, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md). Si votre entreprise n’a pas de compte professionnel, vous pouvez en créer un au cours du processus de création de compte. 
+- Si vous ne connaissez pas le compte professionnel de votre entreprise, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md). Si votre entreprise n’a pas de compte professionnel, vous pouvez en créer un au cours du processus de création de compte. 
 
--   Dénomination sociale légale, adresse et adresse.  
+- Dénomination sociale légale, adresse et adresse.  
 
--   Pouvoir de signer des contrats. Vérifiez que vous êtes autorisé à signer des contrats pour le compte de votre entreprise, car vous serez invité à le faire au cours du processus d’inscription.
+- Pouvoir de signer des contrats. Vérifiez que vous êtes autorisé à signer des contrats pour le compte de votre entreprise, car vous serez invité à le faire au cours du processus d’inscription.
 
--   Nom et adresse de messagerie professionnelle de la personne que vous voulez désigner comme contact principal. Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu’il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse e-mail appartient bien à votre entreprise. Une fois que le contact principal aura confirmé son adresse e-mail, nous poursuivrons notre vérification des informations fournies.
+- Nom et adresse de messagerie professionnelle de la personne que vous voulez désigner comme contact principal. Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu’il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse e-mail appartient bien à votre entreprise. Une fois que le contact principal aura confirmé son adresse e-mail, nous poursuivrons notre vérification des informations fournies.
 
-Nous vérifierons ces informations au cours du processus de création du compte. 
+Nous vérifierons ces informations au cours du processus de création du compte. Pour obtenir des informations sur le processus de vérification, consultez [Vérification de compte](verification-responses.md)
  
 ## <a name="create-a-partner-center-account"></a>Créer un compte Espace partenaires
 

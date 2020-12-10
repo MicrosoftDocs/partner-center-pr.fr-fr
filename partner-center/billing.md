@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000153"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570635"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Vue d'ensemble : Principaux articles sur la facturation et les taxes dans l’Espace partenaires
-
-**S’applique à**
-
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
 
@@ -29,6 +24,9 @@ ms.locfileid: "91000153"
 - Administrateur de la facturation
 - Administrateur général
 - Agent commercial
+
+Cet article propose des liens d’information avec des rubriques sur la facturation et les taxes dans l’Espace partenaires, notamment des informations sur les ressources de facturation, les factures, la facturation CSP et les taxes.
+
 
 | Rubrique | Description |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "91000153"
 | [Demander un crédit de contrat SLA pour les pannes](request-credit.md) | Comment demander un crédit de contrat SLA auprès de Microsoft pour vos clients en cas de panne du service. |
 
 Si vous recherchez des ressources et des informations sur la facturation de l’API de l’Espace partenaires, consultez la [documentation relative à la facturation du développeur](/partner-center/develop/manage-billing).
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Recevoir un paiement dans la place de marché commerciale](marketplace-get-paid.md)

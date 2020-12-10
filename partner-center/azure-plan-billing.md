@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92334023"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534690"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Agent d’administration
 - Administrateur de la facturation
 - Administrateur général
 
-La facturation dans le plan Azure est une expérience simplifiée qui utilise une date de facturation unique et une période de facturation par mois civil.
+Cet article explique comment accéder à la structure des fichiers de facturation et de rapprochement liée à la facturation pour le plan Azure et comment la comprendre. La facturation dans le plan Azure est une expérience simplifiée qui utilise une date de facturation unique et une période de facturation par mois civil.
 
 ## <a name="summary-of-billing-essentials"></a>Résumé des fondamentaux de la facturation
 
-- **Date de la facture**  : La facture et le fichier de rapprochement sont disponibles dans le tableau de bord/l’API de l’Espace partenaires au plus tard le 8 du mois (minuit UTC).
+- **Date de la facture** : La facture et le fichier de rapprochement sont disponibles dans le tableau de bord/l’API de l’Espace partenaires au plus tard le 8 du mois (minuit UTC).
 
-- **Période de facturation de la facture**  : La période de facturation de la facture s’aligne sur le mois civil, par exemple, elle court du 1er au 31 octobre ou du 1er au 30 novembre.
+- **Période de facturation de la facture** : La période de facturation de la facture s’aligne sur le mois civil, par exemple, elle court du 1er au 31 octobre ou du 1er au 30 novembre.
 
-- **Périodes de frais de service**  : Les frais s’alignent sur le mois civil. Par exemple, si le partenaire facturé ajoute des services Azure par le biais d’un plan Azure le 15 octobre et que le client commence à consommer les services Azure le 15 octobre, alors le partenaire facturé reçoit la facture/le rapprochement le 8 novembre pour la consommation effectuée par le client pendant la période de service allant du 15 au 31 octobre. La facture du mois suivant qui va être générée le 08/12 contient tous les frais relatifs à la période de service 01/11 au 31/11.
+- **Périodes de frais de service** : Les frais s’alignent sur le mois civil. Par exemple, si le partenaire facturé ajoute des services Azure par le biais d’un plan Azure le 15 octobre et que le client commence à consommer les services Azure le 15 octobre, alors le partenaire facturé reçoit la facture/le rapprochement le 8 novembre pour la consommation effectuée par le client pendant la période de service allant du 15 au 31 octobre. La facture du mois suivant qui va être générée le 08/12 contient tous les frais relatifs à la période de service 01/11 au 31/11.
 
 - **Conditions de paiement de la facture**  : 60 jours nets.
 
-- **Devise de la facture**  : Les partenaires continuent à être facturés dans la devise officielle du pays du client. Par exemple, si le partenaire facturé est en Irlande avec des clients au Royaume-Uni, en Norvège et en Allemagne, alors le partenaire facturé reçoit une facture/un rapprochement en GBP, NOK et EUR.
+- **Devise de la facture** : Les partenaires continuent à être facturés dans la devise officielle du pays du client. Par exemple, si le partenaire facturé est en Irlande avec des clients au Royaume-Uni, en Norvège et en Allemagne, alors le partenaire facturé reçoit une facture/un rapprochement en GBP, NOK et EUR.
 
-- **Primes incitatives des partenaires**  : Payées à 45 jours fin de mois.
+- **Primes incitatives des partenaires** : Payées à 45 jours fin de mois.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Accéder à vos factures et à vos fichiers de rapprochement
 
@@ -48,13 +48,13 @@ Pour accéder à la facture et au fichier de rapprochement :
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/) de l’Espace partenaires.
 
-2. Dans le menu de l’Espace partenaires, sélectionnez **Facturation** .
+2. Dans le menu de l’Espace partenaires, sélectionnez **Facturation**.
 
 3. Sélectionnez l’onglet correspondant à **Recurring** (Périodique) et **One-time** (Ponctuelle) ainsi qu’à la devise qui vous intéresse.
 
    :::image type="content" source="images/azure/billing3.png" alt-text="facturation":::
 
-4. Sélectionnez **Facture** ou **Fichier de rapprochement** .  
+4. Sélectionnez **Facture** ou **Fichier de rapprochement**.  
 
    Pour voir l’historique des factures et des fichiers de rapprochement, développez la ligne d’historique de facturation située en dessous.
 
@@ -106,7 +106,7 @@ Pour accéder à la facture et au fichier de rapprochement :
 
 5. Consultez le fichier de rapprochement et le fichier d’utilisation quotidienne estimée pour obtenir d’autres informations sur la facturation.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="facturation":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="facture":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Lire le fichier de rapprochement des factures
 
@@ -134,7 +134,7 @@ Pour accéder à la facture et au fichier de rapprochement :
 
   - Le compteur est éligible au **crédit Partenaires pour les services managés** du 08/07 au 31/07. Notez que le prix unitaire effectif correspond au prix de vente au détail moins le crédit Partenaires.
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="facturation":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Facture dans la devise du client
 
@@ -142,7 +142,7 @@ Les services Azure fournis par l’intermédiaire d’un plan Azure sont factur�
 
 Microsoft utilise Thomson Reuters pour déterminer les taux de change permettant d’effectuer la conversion de la devise de tarification en devise de facturation. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
 
-**Exemple** :  Les frais d’utilisation pour la période de service qui va du 1er au 31 août sont facturés à l’aide du taux de change publié le 31 juillet. Ces frais apparaissent dans la facture de septembre et le taux de change est indiqué à la dernière page de la facture.
+**Exemple**:  Les frais d’utilisation pour la période de service qui va du 1er au 31 août sont facturés à l’aide du taux de change publié le 31 juillet. Ces frais apparaissent dans la facture de septembre et le taux de change est indiqué à la dernière page de la facture.
 
 ## <a name="azure-reservations"></a>Réservations Azure
 
@@ -160,7 +160,7 @@ L’expérience des dépenses Azure existante est mise à jour pour prendre en c
 
 Étant donné que le modèle de facturation des services Azure par le biais d’un plan Azure correspond à une consommation après paiement, pour éviter une facture plus importante que prévu, les partenaires peuvent appliquer un budget mensuel et suivre le pourcentage d’utilisation. Un budget peut être appliqué à un seul client ou à plusieurs clients à la fois. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="facturation":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Dépenses Azure":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 
