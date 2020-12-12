@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570380"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354591"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Recherchez l’état de vos opportunités d’évaluation de solution sur puce
+
+**Rôles appropriés**
+
+- Contact principal ou administrateur de programme
 
 Les partenaires peuvent passer en revue l’état des opportunités d’évaluation de la solution sur puce.
 
@@ -63,7 +67,7 @@ Si vous avez d’autres questions ou si vous souhaitez envoyer un ticket de supp
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Vérifier l’état du paiement dans la plateforme CHIP](chip-payment-status.md)
-- [Support technique](report-problems-with-partner-center.md)
+- [Support](report-problems-with-partner-center.md)
 
 .
 

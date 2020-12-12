@@ -8,18 +8,17 @@ description: Découvrez les réponses aux questions courantes sur l’utilisatio
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031262"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354540"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Résoudre les problèmes des connecteurs de référencements de covente
 
 **S’applique à :**
 
-- Espace partenaires
 - Dynamics 365 CRM
 - CRM Salesforce
 
@@ -80,7 +79,7 @@ Suivez cette étape de résolution des problèmes :
 
 3. Que devez-vous faire si vous recevez l’erreur suivante lors de l’activation de l’espace partenaires sur le Flow CRM dans Power Automated Platform ?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Message d’erreur nécessitant une connexion":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Message d’erreur nécessitant des mises à jour":::
 
 Suivez les étapes de dépannage suivantes :
 
@@ -95,11 +94,11 @@ Vous ajoutez des connexions au workflow pendant l’exécution du workflow et vo
 - Sélectionnez chaque Flow et modifiez-les individuellement.
 - Développer toutes les étapes du Flow 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Message d’erreur nécessitant une connexion":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Étapes nécessitant des connexions":::
 
 - Sélectionnez les étapes dans lesquelles une icône d’avertissement s’affiche et vous invite à associer des connexions et à ajouter des connexions. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Message d’erreur nécessitant une connexion":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Modifier le Flow étape par étape":::
 
 
 5. Que devez-vous faire si les flux de la solution de références de covente des connexions ne sont pas activés ?
@@ -116,7 +115,7 @@ R. Dans Power automate, vous devez modifier les flux dans l’ordre suivant et l
 
  B. Pour chaque Flow, sélectionnez l’option **exécuter uniquement les utilisateurs** . Sélectionnez **utiliser la connexion** au lieu de **fourni par l’utilisateur en exécution seule**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Message d’erreur nécessitant une connexion":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Pour activer un Flow":::
 
 
 C. Activez les flux indiqués ci-dessous :
@@ -140,7 +139,7 @@ Pour vous assurer que vos flux d’automati s’exécutent comme prévu et pour 
  
 Pour déterminer l’état de synchronisation de la référence, sélectionnez **audit**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Message d’erreur nécessitant une connexion":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Synchronisation des références":::
 
 Assurez-vous que les conditions suivantes sont remplies :
 
@@ -156,7 +155,7 @@ Procédez comme suit :
 
 - Les vendeurs partenaires doivent s’assurer qu’ils ont activé l’option **synchroniser avec l’espace partenaires** dans la section CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Message d’erreur nécessitant une connexion":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Vérifiez que vous avez activé la synchronisation":::
 
 - Les vendeurs doivent fournir un chiffre d’affaires et une date de clôture lorsqu’ils qualifient un prospect.
 

@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133080"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354506"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Bénéficier de fonds marketing coopératifs
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -52,7 +48,7 @@ La chronologie des fonds de co-op marketing est divisée en périodes de 2 6 moi
 - H1 est la première moitié de l’année fiscale, du 1er juillet au 31 décembre.
 - H2 est la seconde moitié de l’année fiscale, du 1er janvier au 30 juin.
 
-La période de six mois au cours de laquelle vous accumulez vos revenus devient votre **période de gains** . Vous devez utiliser ces revenus à un moment donné pendant la **période d’utilisation** de six mois suivante. Si vous n’utilisez pas vos revenus à la fin de la période d’utilisation, vous les perdrez. La **période de demande** est la période de six mois au cours de laquelle vous pouvez demander le remboursement de vos activités de programme d’incentives.
+La période de six mois au cours de laquelle vous accumulez vos revenus devient votre **période de gains**. Vous devez utiliser ces revenus à un moment donné pendant la **période d’utilisation** de six mois suivante. Si vous n’utilisez pas vos revenus à la fin de la période d’utilisation, vous les perdrez. La **période de demande** est la période de six mois au cours de laquelle vous pouvez demander le remboursement de vos activités de programme d’incentives.
 
 Le tableau ci-dessous présente les différentes périodes de gains, d’utilisation et de revendication. Sauf mention contraire, les périodes s’étendent du premier jour du premier mois jusqu’au dernier jour du mois dernier.
 

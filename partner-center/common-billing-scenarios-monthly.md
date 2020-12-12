@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435398"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354574"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Exemples de scénarios de facturation mensuelle pour les nouveaux abonnements, modification des montants de licence ou interruptions
 
@@ -107,3 +107,7 @@ Prix unitaire = jours de la période de service x cours journalier x nombre de l
 Il y a 12 jours dans la période d’annulation 3/1/2018 – 3/12/2018.
 
 Par conséquent, le prix unitaire =-1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Scénarios de facturation pour une période unique et sélection des achats récurrents](common-billing-scenarios-onetime-recurring.md)

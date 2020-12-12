@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 720e3c4f97e374b0137db2302988a0fbd2db9432
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a301aa85310142b3327baabbf3c8545b31f489bd
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031312"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354387"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Scénarios de facturation de l’espace partenaires pour une période unique et sélection des achats récurrents
 
@@ -88,3 +88,7 @@ Le fichier de rapprochement inclut les éléments suivants :
 |11/06/2019 (vous avez 2 licences)     |10/06/2019   |09/07/2019         |4 $         |2        |8 $       |Nouveau       |
 |12/06/2019     | 10/06/2019    |09/07/2019        |4 $        |2        | -7,74 $       |removeQuantity           |
 |12/06/2019 (vous avez 1 licence)    | 10/06/2019    |09/07/2019   |4 $    |1      |3,87 $    |removeQuantity |
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Exemples de scénarios de facturation mensuelle pour les nouveaux abonnements, modification des montants de licence ou interruptions](common-billing-scenarios-monthly.md)

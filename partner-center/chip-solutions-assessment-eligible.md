@@ -1,5 +1,5 @@
 ---
-title: Éligibilité de l’évaluation de la solution
+title: Éligibilité à l’évaluation de solution
 ms.topic: how-to
 ms.date: 11/09/2020
 description: Découvrez comment vérifier les conditions requises pour l’éligibilité à la participation au programme incentives d’évaluation de la solution.
@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447231"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354472"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Conditions d’éligibilité pour le programme d’incentives d’évaluation de la solution
+
+**Rôles appropriés**
+
+- Contact principal ou administrateur de programme
 
 Les partenaires ayant un état actif et inscrit dans le programme d’incentives d’évaluation de la solution dans FY20 pourront continuer à bénéficier d’incentives dans FY21 s’ils ont une adhésion MPN active et une compétence MPN active en Silver ou Gold. Les qualifications des partenaires sont revues annuellement. Si les partenaires établis ne remplissent pas les conditions d’éligibilité et de participation de l’année en cours, elles seront supprimées lors du prochain examen annuel. Tous les nouveaux partenaires sont intégrés au spécialiste de l’évaluation de la solution locale (SAS) dans leur région. La SAP identifie les partenaires à intégrer en fonction de la correspondance des compétences et de l’expertise dans la société partenaire et des besoins de l’entreprise des filiales prises en charge par la SAP.
 
@@ -24,7 +28,7 @@ Avant de commencer le processus d’intégration, les partenaires devront discut
 
 Les partenaires qui ne sont pas inscrits à un programme d’incentives doivent respecter les critères d’incitation FY21 pour être éligibles à l’intégration des incentives d’évaluation de la solution.
 
-## <a name="requirements"></a>Configuration requise
+## <a name="requirements"></a>Spécifications
 
 |**Conditions d’éligibilité**|**Critères**|
 |-----------------------|------------------|
