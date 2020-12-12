@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175083"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153143"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Signaler un problème de service au nom d’un client, y compris quand et comment procéder
 
@@ -31,11 +31,13 @@ Si votre client rencontre un problème de service que vous ne pouvez pas résoud
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Envoyer une demande de service pour un client
 
-1. À partir du menu **Espace partenaires**, sélectionnez **Demandes de service**, puis **Demande de client**. 
+1. Dans le menu de l’espace partenaires, sous CSP, sélectionnez **clients** .
 
-2. Sur la page des demandes de clients, recherchez le client que vous voulez.
+2. Sur la page clients, sélectionnez ou recherchez le client de votre choix
+    
+3. Dans le menu client, sélectionnez **demandes de service** .
 
-3. À partir du menu déroulant **Nouvelle demande**, sélectionnez **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite**. Vous êtes redirigé vers le Portail Microsoft Azure ou le centre d’administration Office 365.
+4. À partir du menu déroulant **Nouvelle demande**, sélectionnez **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite**. Vous êtes redirigé vers le Portail Microsoft Azure ou le centre d’administration Office 365.
 
 >[!NOTE]
 >Les partenaires d’opérations de support transmettant Dynamics 365 dans CSP sont tenus de conserver un contrat de support pour le plan ASfP (Advanced support for Partner) ou une version ultérieure. Ce contrat de support est nécessaire pour envoyer des incidents Dynamics 365 pour le compte d’un client CSP. [En savoir plus](https://partner.microsoft.com/support/partnersupport) sur les options du contrat de support.
