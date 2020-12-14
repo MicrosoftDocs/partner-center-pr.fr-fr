@@ -2,7 +2,7 @@
   href: index.yml
 - name: Annonces
   href: announcements/TOC.md
-- name: À propos de l’Espace partenaires
+- name: "Qu’est-ce que l’Espace partenaires\_?"
   href: overview.md
 - name: Adhésion au réseau des partenaires
   items:
