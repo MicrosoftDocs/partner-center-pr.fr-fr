@@ -1,22 +1,27 @@
 ---
-title: Planification du paiement et détails de la stratégie-place de marché Azure
-description: En savoir plus sur les détails relatifs aux stratégies de paiement de la place de marché commercial, y compris les planifications et les prévisions.
+title: Planifications et processus de paiement
+description: En savoir plus sur les versements et les transactions, tels que les calendriers de paiement et les processus de remboursement pour la place de marché commerciale et les autres transactions.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513287"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492668"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Planifications de paiement et détails de la stratégie
+# <a name="payout-schedules-and-processes"></a>Planifications et processus de paiement
 
-Cet article décrit le processus de paiement de Microsoft, le calendrier de paiement, où trouver l’état d’un paiement et le processus de non-paiement du client.
+**Rôles appropriés :**
+
+- Administrateur des comptes
+- Administrateur général
+
+Cet article décrit le calendrier de paiement de Microsoft, où trouver l’état d’un paiement et le processus de non-paiement du client.
 
 ## <a name="payment-schedules"></a>Calendriers de paiement
 
@@ -90,7 +95,7 @@ Voici un exemple de calendrier :
 En général, nous envoyons tout paiement dû pour un mois donné le 15 de ce mois, mais il faut plus de temps pour que le paiement parvienne à votre compte. Le nombre de jours dépend du mode de paiement que nous utilisons pour votre compte, comme décrit ci-dessous.
 
 > [!NOTE]
-> Les jours indiqués ci-dessous sont approximatifs. Tout paiement peut prendre plus ou moins de temps pour atteindre votre compte.
+> Les jours indiqués ci-dessous sont approximatifs ; tout paiement peut prendre plus ou moins de temps pour atteindre votre compte.
 
 | Mode de paiement     | Nombre de jours du délai de transfert au compte de paiement     |
 |--------------------|--------------------------------------------|

@@ -1,23 +1,28 @@
 ---
-title: Recevoir un paiement dans la place de marché commerciale
-description: En savoir plus sur la réception de paiements pour les bénéfices sur la place de marché commerciale-place de marché Azure. Comprend la stratégie de paiement, l’état de retenue au paiement et les relevés de paiement.
+title: Obtenir le paiement dans l’espace partenaires
+description: En savoir plus sur la réception de paiements pour les revenus en tant que partenaire Microsoft, par exemple via les offres de la place de marché commercial, les programmes d’incentives et le programme fournisseur de solutions Cloud. Comprend la stratégie de paiement, l’état de retenue au paiement et les relevés de paiement.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514722"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492447"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Recevoir un paiement dans la place de marché commerciale
+# <a name="getting-paid-in-partner-center"></a>Obtenir le paiement dans l’espace partenaires
+
+**Rôles appropriés :**
+
+- Administrateur des comptes
+- Administrateur général
 
 Cet article contient des informations importantes sur la réception de paiements pour vos offres, modules complémentaires et revenus publicitaires. Elle résume la stratégie de paiement, les étapes requises avant le paiement et la présentation des relevés de paiement.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Contrats et stratégies de paiement de la place de marché commercial
+## <a name="payout-policies-and-agreements"></a>Stratégies et contrats de paiement
 
 L’obtention du paiement vous oblige à respecter les contrats et la politique de paiement.
 
@@ -49,4 +54,4 @@ Le relevé de paiement affiche vos revenus des ventes de vos offres et modules c
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [API de paiement des partenaires](https://apidocs.microsoft.com/services/partnerpayouts)
-- [FAQ sur les paiements de la Place de marché](payout-faq.md)
+- [FAQ sur les paiements](payout-faq.md)

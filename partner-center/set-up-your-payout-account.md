@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514756"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492685"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurer votre compte de paiement et vos déclarations de taxe
+
+**Rôles appropriés :**
+
+- Administrateur des comptes
+- Administrateur général
 
 Afin de recevoir l’argent provenant de la vente d’offres sur le marché commercial, vous devez ouvrir un compte de paiement et remplir les déclarations de taxe appropriées dans [Espace partenaires](https://partner.microsoft.com/dashboard).
 
@@ -32,19 +37,16 @@ Une fois que vous avez configuré votre compte, vous devez effectuer deux opéra
 
 ## <a name="tax-forms"></a>Déclaration de taxe
 
-### <a name="fill-out-your-tax-forms"></a>Remplir vos déclarations de taxe
+Vous gérez votre profil fiscal et vos formulaires fiscaux sur la page **paiement et taxes** de l’espace partenaires. Les autorisations de votre organisation déterminent les profils et les informations que vous voyez.
 
-Tout d’abord, vous devez créer un profil fiscal et l’attribuer aux programmes auxquels vous participez. Vous pouvez créer votre *profil fiscal* pour le marché commercial en procédant comme suit :
+### <a name="create-or-update-your-tax-profile"></a>Créer ou mettre à jour votre profil fiscal
 
-- Indiquez votre pays/région de résidence et votre nationalité.
-- Remplissez les déclarations de taxe appropriées.
-
-Vous pouvez compléter et soumettre vos formulaires fiscaux par voie électronique dans l’Espace partenaires. En général, vous n’avez pas besoin d’imprimer ou d’envoyer de formulaires par courrier.
+Tout d’abord, vous devez créer un profil fiscal et l’attribuer aux programmes auxquels vous participez. Procédez comme suit pour créer ou mettre à jour votre *Profil fiscal* dans l’espace partenaires. Vous pouvez compléter et soumettre vos formulaires fiscaux par voie électronique dans le tableau de bord de l’espace partenaires. dans la plupart des cas, vous n’avez pas besoin d’imprimer et de envoyer des formulaires.
 
 > [!IMPORTANT]
 > Les différents pays et régions ont des exigences fiscales différentes. La quantité exacte d’impôts que vous devez payer varie selon les pays et les régions dans lesquels vous vendez vos offres. Consultez le [Contrat d’éditeur de la Place de marché Microsoft Azure](https://go.microsoft.com/fwlink/p/?LinkID=699560) pour savoir dans quels pays/régions Microsoft acquitte la taxe sur les ventes et l’utilisation en votre nom. Dans d’autres pays/régions, en fonction de l’endroit où vous êtes inscrit, vous devrez peut-être verser directement la taxe sur les ventes et l’utilisation à l’autorité fiscale locale. En outre, les recettes de la vente d’application que vous recevez peuvent être considérées comme du revenu imposable. Nous vous encourageons vivement à contacter l’autorité compétente de votre pays ou région qui vous aidera à déterminer les informations fiscales appropriées pour les activités commerciales de marketplace.
 
-1. Dans l' [espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **paramètres** dans le coin supérieur droit, puis **paramètres du compte**.
+1. Dans le [tableau de bord espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **paramètres** dans le coin supérieur droit, puis **paramètres de compte**.
 
 2. Dans le menu de navigation situé à gauche, sélectionnez **Paiement et taxes**, puis **Attributions de paiement et de taxes**.
 

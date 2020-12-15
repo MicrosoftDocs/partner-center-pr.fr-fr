@@ -8,14 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303165"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492600"
 ---
-# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Utilisez ces ressources pour vous aider à prendre en main les incentives
+# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Utilisez ces ressources pour bien démarrer avec les incentives
 
 **S’applique à**
 
@@ -44,13 +44,13 @@ Avant de pouvoir être payé pour votre travail dans un programme d’incentives
 
 |  **Pour ce faire**  |  **Lisez cela**  |
 |--------------|-----------|
-| En savoir plus sur l’inscription dans le programme d’incentives | [Inscrivez-vous au programme d’incentives](incentives-enroll.md)  |
-| Découvrez si vos incentives sont conformes aux conditions d’éligibilité d’un programme d’incentives spécifique | [Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)  |
+| En savoir plus sur l’inscription dans le programme d’incentives | [S’inscrire au programme d’incentives](incentives-enroll.md)  |
+| Découvrez si vos incentives sont conformes aux conditions d’éligibilité d’un programme d’incentives spécifique | [Déterminer votre éligibilité au programme](incentives-determined-your-program-eligibility.md)  |
 | Recherchez et fournissez les données dont Microsoft a besoin pour pouvoir recevoir vos paiements d’incentives | [Créer et gérer des profils de paiement et fiscaux dans l’Espace partenaires](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Confirmez que vous avez fourni tous les détails dont vous avez besoin pour recevoir des résultats incitants | [Vérifier votre éligibilité aux bénéfices](incentives-confirm-your-earnings-eligibility.md)  |
-| Afficher toutes les données et tous les rapports de votre programme d’incentives | [Consulter vos paiements et programmes d’incentives](understand-incentive-payouts.md)  |
-| Accédez à votre page paiements d’incentives spécifiques à votre programme | [Accéder à la page de paiement de vos primes incitatives](incentives-unified-user-guide.md)  |
+| Afficher toutes les données et tous les rapports de votre programme d’incentives | [Afficher vos programmes et vos paiements d’incentives](understand-incentive-payouts.md)  |
+| Accédez à votre page paiements d’incentives spécifiques à votre programme | [Accéder à votre déclaration de paiement](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Déterminer si vous êtes éligible au programme](incentives-determined-your-program-eligibility.md)
+[Déterminer votre éligibilité au programme](incentives-determined-your-program-eligibility.md)

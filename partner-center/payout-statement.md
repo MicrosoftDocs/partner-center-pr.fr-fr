@@ -1,22 +1,30 @@
 ---
-title: Déclaration de paiement pour la place de marché commercial dans l’espace partenaires
-description: En savoir plus sur les relevés de paiement et les résumés, ainsi que sur la façon d’afficher et d’exporter vos données de paiement pour la place de marché commercial
+title: Relevés de paiements
+description: En savoir plus sur les relevés de paiement et les résumés, ainsi que sur la façon d’afficher et d’exporter vos données de paiement depuis l’espace partenaires Microsoft
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/23/2020
-ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 10/29/2020
+ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532053"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492634"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
+**Rôles appropriés :**
+
+- Administrateur des comptes
+- Administrateur général
+
 Le **relevé de paiement** présente une vue d’ensemble de vos paiements des offres vendues par le biais du marché commercial. Il affiche l’historique transactionnel de vos revenus, estime votre prochain paiement et affiche les tendances de paiement. Vous pouvez également télécharger l’historique des transactions et les relevés de paiement. Cet article explique comment accéder à votre relevé de paiement, ainsi que les différentes pages de paiement et téléchargements qui vous sont accessibles dans l’espace partenaires.
+
+>[!NOTE]
+>Vous verrez uniquement les données des ID et des programmes MPN auxquels vous êtes associé. Si vous souhaitez afficher des données supplémentaires, contactez votre administrateur de compte pour obtenir des autorisations. 
 
 ## <a name="roles-and-permissions"></a>Rôles et autorisations
 
@@ -50,6 +58,7 @@ Vous pouvez également utiliser l' [API](https://apidocs.microsoft.com/services/
 
 La page **historique des transactions** affiche le résumé de vos revenus, le paiement suivant estimé et la tendance de vos revenus et paiements au cours des 36 derniers mois. Vous pouvez également télécharger les détails des transactions à partir de cette section.
 
+
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Présentation de la transaction.":::
 
 - **Revenus envoyés cette année** : total des bénéfices et répartition des bénéfices qui ont été payés et seront payés dans le mois à venir.
@@ -57,9 +66,11 @@ La page **historique des transactions** affiche le résumé de vos revenus, le p
 - **Rémunérations et tendance des paiements** : montants mensuels de rémunération et de paiement pour les 36 derniers mois.
 - **Télécharger** : Télécharger les détails de la transaction au format. csv ou. TSV.
 
-Utilisez la sélection de plage de dates située dans le coin supérieur droit de la page pour filtrer la sortie de la page et afficher les 3, 6, 12 ou 36 mois précédents. Vous pouvez sélectionner une plage de dates personnalisée jusqu’à 36 mois. La plage de dates par défaut est 12 mois.
+Utilisez la sélection de plage de dates située dans le coin supérieur droit de la page pour filtrer la sortie de la page et afficher les 3, 6, 12 ou 36 mois précédents. Vous pouvez sélectionner une plage de dates personnalisée jusqu’à 36 mois. La plage de dates par défaut est 12 mois. Vous pouvez également filtrer par ID d’inscription, programme, ID de paiement, type de gain, levier et état. Les données sont disponibles pour l’exercice fiscal actuel (du 1er juillet au 30 juin) et dans les deux années fiscales précédentes.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Filtre de recherche en haut à droite de la page.":::
+
+Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers le bas située dans la partie droite de la page. Cela affichera le levier, le chiffre d’affaires, le produit et le client. Si, pour une raison quelconque, ces données ne sont pas disponibles, mais que vous avez besoin d’y accéder, contactez le support technique. Si le résultat est le résultat d’un ajustement et non d’une transaction, les champs produit et client ne sont pas affichés.
 
 ### <a name="transaction-history-summary"></a>Résumé de l’historique des transactions
 
@@ -74,13 +85,49 @@ Cela permet d’afficher des informations détaillées, y compris l’origine de
     - À **venir** : les revenus sont en attente de période de refroidissement.
     - **Traité** : les bénéfices sont préparés pour le prochain paiement.
     - **Envoyé** : les revenus ont été payés.
-- **Mois de paiement estimé** : le mois auquel les bénéfices sont payés.
+- **Mois de paiement estimé** : le mois auquel les bénéfices sont payés. Pour plus d’informations, consultez la [section suivante](#estimated-payment-month) .
 
 Les transactions en gain sont affichées une fois que la transaction respecte le droit au paiement. Pour comprendre la raison pour laquelle vous pouvez avoir des revenus manquants ou inattendus, consultez les [questions courantes sur le paiement](payout-faq.md#why-are-my-earnings-missing)de la place de marché commercial.
+
+#### <a name="estimated-payment-month"></a>Mois de paiement estimé
+
+La page historique des transactions comprend désormais un tableau qui indique le montant des paiements estimés pour les prochains mois. Vous pouvez également afficher et télécharger ces informations dans l’historique des transactions et les exportations du rapport de synthèse. Ces informations facilitent les réconciliations et les projections de paiement.
+
+Le mois de paiement estimé est calculé en fonction des règles et des chronologies de la configuration du programme, et est traité dans le prochain cycle de paiement.
+
+Le mois de paiement estimé est actuellement disponible pour tous les types de gains, à l’exception de la co-op, qui s’affichera comme **non applicable**. Pour les revenus antérieurs au 1er juillet 2020, le mois de paiement estimé apparaît comme étant **non disponible**.
+
+Le tableau suivant montre un exemple de mois de paiement estimé.
+
+| Month | Montant |
+| ------ | :-----------: |
+|  Sep-2020 |  $7 273,99   |
+|  Oct-2020 | $8 692,30  |
+|  Novembre-2020 | $107,89  |
+
+Le montant estimé peut varier par rapport à la quantité réelle pour diverses raisons :
+
+- Réexécution de l’opération : si les bénéfices sont recalculés, le montant réel est différent.
+- Ajustements : la quantité réelle varie en fonction des ajustements qui se sont produits ou qui ont été envoyés.
+- Modification des règles : une modification des règles peut refléter le recalcul dans le montant réel payé
+- Payable : si un échec de paiement se produit, le montant réel peut être différent.
+
+Notez que votre paiement n’est publié que dans le mois projeté si le seuil et les règles d’éligibilité au paiement de votre programme sont atteints. Ces règles incluent, mais ne sont pas limitées à la liste ci-dessous :
+
+- Votre profil fiscal doit être à jour
+- Vos revenus doivent respecter ou dépasser le seuil minimal atteint défini dans le Guide de votre programme.
+- Paiement en attente : Si vous sélectionnez l’option « conserver mon paiement » sur la page attribution des profils.
+- Instrument de paiement non disponible : le paiement ou le profil fiscal n’est pas terminé.
 
 ### <a name="transaction-history-download"></a>Téléchargement de l’historique des transactions
 
 Pour obtenir plus de détails sur un gain, sélectionnez **Télécharger** en haut de la page. Le tableau suivant décrit chaque colonne du rapport.
+
+>[!NOTE]
+>L’exportation du téléchargement de l’historique des transactions a deux nouveaux champs à partir du 2020 août :
+>
+>- **lastPaymentCurrency**  Devise dans laquelle le paiement le plus récent a été reçu, sur toutes les MPNs auxquelles le partenaire actuellement connecté a accès. Si aucun paiement n’est reçu, la dernière devise de paiement sera en dollars US.
+>- **earningAmountInLastPaymentCurrency**  Montant acquis dans la dernière devise de paiement.
 
 | Nom de la colonne | Description | Applicabilité des programmes d’incentives/places de marché |
 | --- | --- | --- |
@@ -164,6 +211,21 @@ Pour obtenir plus de détails sur un gain, sélectionnez **Télécharger** en ha
 | charge de travail | Charge de travail | Incentives – certains programmes uniquement |
 |
 
+### <a name="transaction-adjustment-codes"></a>Codes de réglage des transactions
+
+Le tableau suivant répertorie les codes de raison des ajustements et leurs descriptions.
+
+|**Code de raison**   |**Description**   |
+|------------------|:-------------------------------------|
+| Conformité AR | Ajustement qui réduit les bénéfices lorsque les factures Microsoft ne sont pas payées à temps par le partenaire. |
+| Substitution de co-op | Ajustement qui transfère les bénéfices de la coopération vers une autre période ou qui convertit les bénéfices de la co-op en remise. |
+| Ajustement des opérations | Ajustement qui corrige les erreurs de calcul du système Microsoft. |
+| Ajustement OPS Microsoft incorrect Calc | Ajustement qui corrige les incorrections. |
+| Ajustement OPS Microsoft incorrect | Ajustement pour les calculs erronés liés à l’inscription. |
+| Mappage des partenaires (abonnement) MCI/CSP | Ajustement qui corrige le mauvais alignement de l’abonnement. |
+| Exception de stratégie | Ajustement qui remplace une règle de programme.  |
+| Bénéfice sur la période précédente | Ajustement pour les bénéfices en dehors de la période de gains en cours. |
+
 ## <a name="payments"></a>Paiements
 
 La page **paiements** détaille l’argent que vous avez obtenu auprès de Microsoft. Il indique également à quel moment et dans quelle mesure vous allez être payé.
@@ -201,7 +263,7 @@ Le tableau suivant décrit les différents États de gains.
 | À venir | Commande de paiement générée en attente de révisions internes avant le traitement du paiement. | Non |
 | Facture fiscale en attente | Votre facture fiscale est incomplète ou non valide. | Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé |
 | Rejeté pendant la vérification | Le paiement a été rejeté pendant la révision. | Contactez le Support Microsoft pour obtenir des détails |
-| Échec | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
+| Failed | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
 | En cours | Le paiement est en cours. | Non |
 | Paiement incorrect | Le remboursement est en cours. | Non |
 | Envoyé | Le paiement a été envoyé à votre banque. | Non |
@@ -214,7 +276,7 @@ Le tableau suivant décrit les différents États de gains.
 
 ### <a name="payments-download"></a>Paiements téléchargés
 
-Pour obtenir plus de détails sur vos paiements, sélectionnez **Télécharger** en haut de la page. Le tableau suivant décrit chaque colonne du rapport.
+ Le tableau suivant décrit chaque colonne du rapport. Pour obtenir plus de détails sur vos paiements, sélectionnez **Télécharger** en haut de la page paiements.
 
 | Nom de la colonne | Description |
 | --- | --- |
@@ -238,7 +300,7 @@ Pour obtenir plus de détails sur vos paiements, sélectionnez **Télécharger**
 
 ## <a name="export-data"></a>Exporter des données
 
-La page **exporter des données** n’est pas actualisée automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes. Sélectionnez l’un des trois onglets pour exporter l' **historique des transactions** , les **paiements** , le résumé de la **transaction** ou l' **instruction historique**.
+La page **exporter des données** n’est pas actualisée automatiquement. Vous devrez peut-être l’actualiser manuellement pour afficher les données les plus récentes. Sélectionnez l’un des trois onglets pour exporter l' **historique des transactions**, les **paiements**, le résumé de la **transaction** ou l' **instruction historique**.
 
 Votre filtre peut entraîner une erreur **aucune donnée n’est disponible** . Cela peut se produire si vous avez laissé la période de temps par défaut sélectionnée à trois mois, puis sélectionné un ID de paiement d’un produit en dehors de cette période. Si cela se produit, augmentez votre période et réessayez.
 
@@ -285,14 +347,14 @@ Le tableau suivant décrit chaque colonne dans une instruction historique.
 | Encaissements nets | Montant de la transaction moins les taxes versées |
 | Frais du Store | Pourcentage des encaissements nets retenu par Microsoft en guise de frais pour la mise à disposition de l’application ou du module complémentaire sur le Store |
 | Revenus des applications | Encaissements nets moins les frais du Store |
-| Taxes retenues | Montant d’impôt sur le revenu retenu (inclus dans le fichier CSV **Réservé** ) |
+| Taxes retenues | Montant d’impôt sur le revenu retenu (inclus dans le fichier CSV **Réservé**) |
 | Paiement | Revenus des applications moins la retenue à la source éventuellement applicable (montant affiché dans Devise de la transaction). Non inclus dans le fichier CSV **Réservé**. |
 | Taux de change | Taux de change utilisé pour convertir la devise de la transaction en devise de paiement |
 | Devise de paiement | Devise dans laquelle votre paiement est effectué |
 | Paiement converti | Montant du paiement converti en devise de paiement en utilisant le taux de change |
 | Modèle de paiement des taxes | Tiers responsable du versement des taxes (ventes, consommation ou TVA/GST) |
-| Date et heure d’éligibilité | Date et heure auxquelles le produit de la transaction devient éligible au paiement (UTC). Quand un paiement est créé, il comprend le produit de la transaction avec une date et heure d’éligibilité antérieures à la date de création du paiement (uniquement inclus dans le fichier CSV **Réservé** ). |
-| Charges | Présente une décomposition de tous les détails de charges agrégés dans la colonne Montant de la transaction (uniquement incluse pour la Place de marché Azure ; non incluse dans le fichier CSV **Réservé** ). |
+| Date et heure d’éligibilité | Date et heure auxquelles le produit de la transaction devient éligible au paiement (UTC). Quand un paiement est créé, il comprend le produit de la transaction avec une date et heure d’éligibilité antérieures à la date de création du paiement (uniquement inclus dans le fichier CSV **Réservé**). |
+| Charges | Présente une décomposition de tous les détails de charges agrégés dans la colonne Montant de la transaction (uniquement incluse pour la Place de marché Azure ; non incluse dans le fichier CSV **Réservé**). |
 |||
 
 ## <a name="next-steps"></a>Étapes suivantes

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626029"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492464"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer le paiement et les profils fiscaux des incentives dans l’espace partenaires
 
@@ -62,7 +62,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
    - Plusieurs domaines peuvent être inscrits dans un compte Azure AD. Contactez votre administrateur général pour déterminer les domaines associés.
    - Si vous êtes uniquement en mesure de vous connecter avec le @onmicrosoft.com domaine, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte Azure ad.
-   - Si vous êtes invité à sélectionner un compte **professionnel ou scolaire** ou un compte **personnel** , sélectionnez **compte professionnel ou scolaire**.
+   - Si vous êtes invité à sélectionner un compte **professionnel ou scolaire** ou un compte **personnel**, sélectionnez **compte professionnel ou scolaire**.
 
 2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** , puis sélectionnez **paramètres de partenaire**.
 
@@ -72,7 +72,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** . 
 
-2. Sélectionnez **paramètres du partenaire** , développez la **section paiement et taxes** , puis sélectionnez **attribution du profil de paiement et de taxe**. 
+2. Sélectionnez **paramètres du partenaire**, développez la **section paiement et taxes**, puis sélectionnez **attribution du profil de paiement et de taxe**. 
    
    Une liste de vos programmes s’affiche. Sélectionnez la flèche en regard d’un programme pour afficher les détails du profil. 
 
@@ -113,9 +113,9 @@ Les profils bancaires sont créés au niveau de l’organisation. Cela permet d�
 
 5. Sur la page **bénéficiaire** , entrez les informations appropriées. Le bénéficiaire est la personne de votre société que la Banque doit contacter si elle a besoin d’aborder votre compte.
 
-6. Une fois les champs remplis, sélectionnez **Terminer** , puis cliquez sur **confirmer** pour créer votre profil bancaire.
+6. Une fois les champs remplis, sélectionnez **Terminer**, puis cliquez sur **confirmer** pour créer votre profil bancaire.
 
-Vous êtes redirigé vers la page des **profils de paiement et de taxes** . L’état de votre nouveau profil reflète la **validation Microsoft en attente** jusqu’à ce que la validation soit terminée. Ce processus peut prendre jusqu’à 48 heures. Une fois la validation terminée, l’état de votre profil reflète l' **approbation** ou l' **action requise**. Si vous avez besoin d’une **action** , répétez les étapes ci-dessus pour fournir les informations nécessaires. 
+Vous êtes redirigé vers la page des **profils de paiement et de taxes** . L’état de votre nouveau profil reflète la **validation Microsoft en attente** jusqu’à ce que la validation soit terminée. Ce processus peut prendre jusqu’à 48 heures. Une fois la validation terminée, l’état de votre profil reflète l' **approbation** ou l' **action requise**. Si vous avez besoin d’une **action**, répétez les étapes ci-dessus pour fournir les informations nécessaires. 
 
 ## <a name="create-your-tax-profile"></a>Créer votre profil fiscal
 
@@ -152,4 +152,4 @@ Pour les sociétés partenaires en Amérique, si vous avez besoin d’informatio
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Questions fréquentes (FAQ) sur les profils fiscaux et de paiement d’incentives](incentives-payout-tax-profile-faqs.md)
+- [Questions courantes sur les paiements et les taxes](payout-faq.md)
