@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527812"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354523"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolider vos comptes d’entreprise pendant la migration de PMC vers l’Espace partenaires
 
@@ -62,3 +62,9 @@ Dans PMC, il était possible pour chaque emplacement d’avoir ses propres comp�
 Dans l’Espace partenaires, tous les comptes d’emplacement sont regroupés en un seul compte global. Cela signifie que l’ensemble des programmes, compétences et offres de commercialisation sont également regroupés. Les kits d’outils d’avantages supplémentaires (ABTK) ne sont pas disponibles. Vous pouvez toutefois organiser la distribution des offres, programmes, compétences et ressources marketing nécessaires à votre entreprise. Quand vous regroupez des comptes, vous bénéficiez d’une extension. Cette extension permet à votre entreprise de profiter des offres, programmes et ressources marketing utilisés dans PMC pendant une année supplémentaire.
 
 Pour plus d’informations sur les différences entre PMC et l’Espace partenaires, consultez [Passer de PMC à l’Espace partenaires](guide-to-migration.md).
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
+
+- [Gérer des sites](manage-locations.md)
