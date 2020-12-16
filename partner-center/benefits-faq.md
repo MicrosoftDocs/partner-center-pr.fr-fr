@@ -1,7 +1,7 @@
 ---
 title: Questions fréquentes (FAQ) sur les avantages
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Réponses aux questions sur l’expiration, le renouvellement et l’activation de licences pour Azure, Cloud, Visual Studio et les avantages techniques et de support
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570686"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514681"
 ---
 # <a name="benefits-faq"></a>Questions fréquentes (FAQ) sur les avantages
 
@@ -98,7 +98,7 @@ Vous pouvez affecter des abonnements à n’importe qui dans votre liste de gest
 Une fois que vous avez attribué l’abonnement, l’utilisateur doit se connecter à Visual Studio pour le gérer.
 
 >[!Note]
-> Les abonnements Visual Studio peuvent être réattribués d’un abonné à un autre 90 jours après l’attribution d’origine.
+> Les abonnements Visual Studio peuvent être réattribués d’un abonné à un autre si 90 jours se sont écoulés depuis l’attribution d’origine.
 
 ## <a name="technical-benefits-and-support"></a>Avantages techniques et support
 
