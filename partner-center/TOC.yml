@@ -738,6 +738,8 @@
     - name: Imposer l’authentification multifacteur à votre locataire partenaire
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: Configurer vos utilisateurs avec MFA
+      href: mfa-for-users.md
     - name: État de la configuration requise
       href: partner-security-compliance.md
       displayName: csp
