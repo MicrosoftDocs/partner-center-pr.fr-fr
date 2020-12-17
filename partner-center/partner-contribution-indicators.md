@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution des partenaires
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez sept indicateurs de contribution partenaires (PCI) qui montrent comment vous travaillez avec Dynamics 365 engagement client ou Dynamics 365 Finance and Operations.
@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344389"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636039"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Les indicateurs de contribution partenaires (PCI) indiquent l’impact du partenaire sur sept mesures clés de la réussite du client
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Les indicateurs de contribution des partenaires montrent l’impact des partenaires sur sept mesures clés de la réussite des clients.
 
 Cet article décrit chacun des sept indicateurs de contribution partenaires (PCI) clés utilisés pour évaluer la progression d’un partenaire dans l’obtention ou la maintenance de la compétence MPN du Cloud Business Applications (CBA).
 
@@ -42,21 +42,21 @@ PCI offre une vue sophistiquée des capacités techniques d’un partenaire, de 
 
 *Indicateurs de performance :*
 
-1. **Net New revenue** : net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions du chiffre d’affaires net New](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Net New revenue**: net New revenue sur tous les canaux de vente pour les produits Microsoft Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions du chiffre d’affaires net New](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. Le **client net ajoute** : clients net acquis pour Dynamics 365 sur tous les canaux de vente. (Pour plus d’informations sur cette mesure, consultez [définitions pour les ajouts de clients net](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. Le **client net ajoute**: clients net acquis pour Dynamics 365 sur tous les canaux de vente. (Pour plus d’informations sur cette mesure, consultez [définitions pour les ajouts de clients net](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Indicateurs de capacité :*
 
-3. **Consultants fonctionnels** : nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les consultants fonctionnels](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+3. **Consultants fonctionnels**: nombre d’individus titulaires d’un consultant fonctionnel actuellement associé à la certification pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les consultants fonctionnels](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Croissance du consultant fonctionnel** : croissance du nombre d’associés aux consultants fonctionnels.  L’instantané de référence pour la mesure de croissance du consultant fonctionnel dans PCI sera maintenant pris le 1er octobre 2020. (Pour plus d’informations sur cette mesure, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+4. **Croissance du consultant fonctionnel**: croissance du nombre d’associés aux consultants fonctionnels. Il existe quelques options pour obtenir des points pour cet indicateur. L’une des options nécessite que l’instantané de base pour la mesure de croissance du consultant fonctionnel en PCI soit pris le 1er octobre 2020. (Pour plus d’informations sur toutes les options permettant d’obtenir des points pour cette mesure, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
 
-5. **Développeurs** : nombre d’individus titulaires d’une certification actuellement active Developer Associate pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les développeurs](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+5. **Développeurs**: nombre d’individus titulaires d’une certification actuellement active Developer Associate pour Dynamics 365. (Pour plus d’informations sur cette mesure, consultez [définitions pour les développeurs](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
 
 *Indicateurs de réussite du client :*
 
-6. **Nouveaux déploiements à grande échelle** : nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour les nouveaux déploiements à grande échelle](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+6. **Nouveaux déploiements à grande échelle**: nombre de locataires de production qui franchissent le seuil d’utilisation élevé au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour les nouveaux déploiements à grande échelle](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
 
 7. **Croissance mensuelle** des utilisateurs actifs : croissance des utilisateurs actifs mensuels pour tous vos clients au cours des 12 derniers mois. (Pour plus d’informations sur cette mesure, consultez [définitions pour la croissance mensuelle des utilisateurs actifs](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
 
@@ -98,12 +98,12 @@ Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter u
 Les points de chaque mesure sont comptés pour produire un score PCI distinct pour l’engagement client et les finances et les opérations. Ce score sera mis à jour tous les mois.
 
 Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Les points partiels peuvent être gagnés pour toutes les mesures, à l’exception de la croissance du consultant fonctionnel.
+
 Par exemple, un partenaire de marché développé avec $150 000 dans net New revenu gagnera la moitié ($ 150000/$ 300000) des 10 points maximum.
 
 Pour plus d’informations, consultez les tableaux suivants :
 - [Tableau 1. Seuils d’engagement du client](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [Tableau 2. Seuils financiers et opérationnels](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [Tableau 3. Croissance du consultant fonctionnel](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>Tableau 1 seuils d’engagement du client
 
@@ -114,7 +114,7 @@ Pour plus d’informations, consultez les tableaux suivants :
 | **Fruit** | 300 000 $ | 10 | 10 | *\* Voir la remarque* | 5 | 5 | 25 % |
 | **Pays** | $150 000 | 5  | 5  |*\* Voir la remarque* | 2 | 1 | 25 % |
 
-*\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base. Consultez le [tableau 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) pour les cibles de croissance.*
+*\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base et de l’option spécifique qu’un partenaire utilise pour obtenir des points. Pour en savoir plus sur les options permettant d’obtenir des points ou sur les cibles de croissance spécifiques de chaque option, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>Tableau 2 seuils de finance et d’opérations
 
@@ -125,19 +125,7 @@ Pour plus d’informations, consultez les tableaux suivants :
 | **Fruit** | 300 000 $ | 3 | 15 | *\* Voir la remarque* | 5  | 3 | 25 % |
 | **Pays** | $150 000 | 1 | 5 |*\* Voir la remarque* | 2 | 1 | 25 % |
 
-*\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base. Consultez le [tableau 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) pour les cibles de croissance.*
-
-### <a name="table-3-functional-consultant-growth"></a>Tableau 3 croissance du consultant fonctionnel
-
->[!NOTE]
-> Le tableau suivant présente une colonne **développée** et en **développement** avec la ligne de base du consultant fonctionnel nécessaire pour pouvoir gagner des points. La date de l’instantané de base sera prise le 1er octobre 2020.
-
-
-| Fruit | Pays | Croissance nécessaire pour gagner les 15 points *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35 % |
-| 30-49 | 15-24 | 25 % |
-| 50 et versions ultérieures | 25 et versions ultérieures | 15 % |
+*\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base et de l’option spécifique qu’un partenaire utilise pour obtenir des points. Pour en savoir plus sur les options permettant d’obtenir des points ou sur les cibles de croissance spécifiques de chaque option, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Définitions détaillées des métriques PCI
 
@@ -208,13 +196,30 @@ Les consultants fonctionnels sont un indicateur de capacité et l’un des sept 
 
 - Les consultants fonctionnels sont définis comme étant le nombre d’individus titulaires d’un consultant fonctionnel actif qui associe la certification, par exemple la certification du consultant fonctionnel engagement du client ou la certification du consultant fonctionnel finance et Operations.
 
-- La certification du consultant fonctionnel engagement du client exige qu’un individu passe : MB-200 **et** l’un des éléments suivants : mo-210, mb-220, mo-230, mb-240 ou MB6-898.
+- La certification du consultant fonctionnel engagement du client requiert la réussite d’une personne :
+  - MB-200 \* ou pl-200<br/>
+  **et** l’un des examens suivants :
+  - Mo-210, MB-220, Mo-230, MB-240 ou MB6-898 \* \* .
 
-- La certification du consultant fonctionnel finance et Operations requiert qu’un individu passe : MB-300 **et** l’un des éléments suivants : mb-310, mo-320, mb-330, MB6-897 ou MB6-898.
+- La certification du consultant fonctionnel finance et Operations requiert la réussite d’un individu :
+  - MB-300<br/>
+  **et** l’un des examens suivants :
+  - Mo-310, MB-320, Mo-330, MB-897 \* \* ou MB6-898 \* \* .
+
+> [!NOTE]
+> Les examens marqués d’un astérisque ( \* ) sont retirés ou remplacés dans les mois à venir. Pour plus d’informations, voir ci-dessous :
+>
+> - Les examens marqués d’un seul astérisque () sont mis hors service \* le 31 décembre 2020. Les examens mis hors service le 31 décembre 2020 seront éligibles à la réalisation des compétences et au renouvellement jusqu’au 31 décembre 2021, s’ils ont été mis hors service.
+> - Les examens marqués avec deux astérisques () sont mis hors service \* \* le 31 janvier 2021. Les examens mis hors service le 31 janvier 2021 seront éligibles à la réalisation des compétences et au renouvellement jusqu’au 31 janvier 2022, s’ils ont été mis hors service.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Définitions de la mesure PCI Metric #4-développement du consultant fonctionnel
 
-La croissance du consultant fonctionnel est un indicateur de capacité et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Voici plus d’informations sur la façon dont l’indicateur de croissance du consultant fonctionnel est défini et sur le mode de calcul des points de cette catégorie :
+La croissance du consultant fonctionnel est un indicateur de capacité et l’un des sept principaux indicateurs de contribution partenaires [décrits plus haut dans cet article](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Un partenaire a l’une des deux options pour atteindre les points tout ou rien (15 ou 0 points) disponibles pour cette mesure. Aucun point partiel n’est accordé. 
+
+Voici plus d’informations sur la façon dont l’indicateur de croissance du consultant fonctionnel est défini et sur la façon dont les points de cette catégorie sont calculés.
+
+**Option 1 pour obtenir les points :**
 
 - La croissance du consultant fonctionnel est définie comme la croissance du nombre d’associés au consultant fonctionnel certifié depuis un instantané de base de référence. La date de l’instantané de base sera prise le 1er octobre 2020.
 
@@ -224,7 +229,19 @@ La croissance du consultant fonctionnel est un indicateur de capacité et l’un
 
 - Pour être éligible à des points, vous devez disposer d’un minimum de **15** consultants fonctionnels pour les partenaires commerciaux développés et **5** pour développer des partenaires commerciaux lorsque la capture instantanée de base est prise.
 
-- **Aucun point partiel n’est accordé.** La croissance au-dessus de l’instantané de ligne de base doit respecter ou dépasser les seuils indiqués dans le [tableau 3. Croissance du consultant fonctionnel](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **Aucun point partiel n’est accordé.** La croissance au-dessus de l’instantané de ligne de base doit respecter ou dépasser les seuils indiqués dans le tableau suivant. Le tableau suivant présente une colonne **développée** et en **développement** avec la ligne de base du consultant fonctionnel nécessaire pour pouvoir gagner des points.
+
+  | Fruit | Pays | Croissance nécessaire pour gagner les 15 points *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35 % |
+  | 30-49 | 15-24 | 25 % |
+  | 50 et versions ultérieures | 25 et versions ultérieures | 15 % |
+
+**Option Two pour obtenir les points :**
+
+- Les partenaires de marché développés peuvent certifier 50 ou plus de consultants fonctionnels pour leur premier anniversaire CBA basé sur PCI. (Le développement de partenaires commerciaux peut certifier au moins 25 consultants fonctionnels pour leur premier anniversaire CBA basé sur PCI.)
+
+- Si vous atteignez ce seuil, vous recevrez les 15 points complets pour la croissance du consultant fonctionnel pendant 24 mois à compter de cette date. Cela signifie que vous obtiendrez des points maximaux pour la croissance du consultant fonctionnel pour deux anniversaires CBA.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Définitions pour PCI Metric #5-développeurs
 
@@ -234,9 +251,21 @@ Les développeurs sont un indicateur de capacité et l’un des sept principaux 
 
 - Les points de l’indicateur des développeurs sont basés sur l’instantané du mois en cours, avec un maximum de 5 points disponibles.
 
-- Les développeurs de l’engagement client reçoivent un crédit lorsqu’ils passent à la fois MB-200 **et** l’un des éléments suivants : mb-400 ou MB2-716/96.
+- Les développeurs d’engagement client reçoivent un crédit lorsqu’ils passent :
+  - PL-400<br/>**or**
+  - MB-200 \* **et** l’un des examens suivants :
+    - MB-400 \* ou MB2-716/96\*\*
 
-- Les développeurs finance et Operations obtiennent un crédit lorsqu’ils passent à la fois MB-300 **et** l’un des éléments suivants : mb-500 ou MB6-894.
+- Les développeurs finance et Operations obtiennent un crédit lorsqu’ils passent :
+  - MB-300<br/>
+  **et** l’un des examens suivants :
+  - MB-500 ou MB-894\*\*
+
+> [!NOTE]
+> Les examens marqués d’un astérisque ( \* ) sont retirés ou remplacés dans les mois à venir. Pour plus d’informations, voir ci-dessous :
+>
+> - Les examens marqués d’un seul astérisque () sont mis hors service \* le 31 décembre 2020. Les examens mis hors service le 31 décembre 2020 seront éligibles à la réalisation des compétences et au renouvellement jusqu’au 31 décembre 2021, s’ils ont été mis hors service.
+> - Les examens marqués avec deux astérisques () sont mis hors service \* \* le 31 janvier 2021. Les examens mis hors service le 31 janvier 2021 seront éligibles à la réalisation des compétences et au renouvellement jusqu’au 31 janvier 2022, s’ils ont été mis hors service.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Définitions pour le #6 de métriques PCI-nouveaux déploiements à grande échelle
 
