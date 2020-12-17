@@ -1,7 +1,7 @@
 ---
 title: Gérer les opportunités de covente
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En tant que partenaire Microsoft qualifié, vous pouvez vendre en collaboration avec Microsoft. Découvrez comment définir des contrats, inviter Microsoft à collaborer ou afficher les demandes envoyées.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417266"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622199"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gérer les opportunités de covente dans l’espace partenaires
 
@@ -44,13 +44,19 @@ Partenaire **à partenaire (P2P)** : il s’agit d’un partenaire qui peut invi
 
 ## <a name="navigating-the-co-sell-section"></a>Navigation dans la section de covente
 
-La section covente comporte trois onglets de niveau supérieur.
+Pour accéder à la section de covente, procédez comme suit :
 
-**Entrant** : toutes les opportunités envoyées au partenaire à partir de vendeurs Microsoft pour la vente collaborative sont disponibles dans cet onglet.
+1. Connectez-vous au tableau de [bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
 
-**Sortant** : toutes les opportunités créées par le partenaire sont disponibles dans cet onglet. Les partenaires peuvent créer trois catégories différentes d’opportunités : covente, privé et partenaire à partenaire.
+2. Dans le menu de navigation de gauche, sélectionnez **références**, puis **opportunités de covente**.
 
-**Favoris** : les opportunités marquées comme favoris dans les onglets opportunités de covente en entrée ou en sortie s’affichent dans cet onglet. Marquez n’importe quelle opportunité en tant que favori en cliquant sur l’icône représentant un cœur sur l’opportunité en mode liste. Vous pouvez supprimer l’opportunité des favoris en cliquant simplement sur la même icône.
+   Trois onglets de niveau supérieur s’affichent dans cette section :
+
+   - **Entrant** : toutes les opportunités envoyées au partenaire à partir de vendeurs Microsoft pour la vente collaborative sont disponibles dans cet onglet.
+
+   - **Sortant** : toutes les opportunités créées par le partenaire sont disponibles dans cet onglet. Les partenaires peuvent créer trois catégories différentes d’opportunités : covente, privé et partenaire à partenaire.
+
+   - **Favoris** : les opportunités marquées comme favoris dans les onglets opportunités de covente en entrée ou en sortie s’affichent dans cet onglet. Marquez n’importe quelle opportunité en tant que favori en cliquant sur l’icône représentant un cœur sur l’opportunité en mode liste. Vous pouvez supprimer l’opportunité des favoris en cliquant simplement sur la même icône.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Création d’une opportunité de covente
 
@@ -80,7 +86,7 @@ Entrez les détails de la transaction actuelle. Les champs définis ci-dessous p
 |**Date de clôture estimée**| Obligatoire| Date à laquelle vous prévoyez de fermer le contrat avec le client. |
 |**ID CRM**| Facultatif | Baliser la relation avec l’ID de l’opportunité dans votre CRM à des fins de suivi.|
 |**ID de campagne marketing**| Facultatif | Capturez la campagne marketing qui a entraîné le traitement. Ce code peut vous aider à suivre le retour sur investissement d’une certaine campagne si vous marquez toutes les transactions provenant de la campagne avec le même ID.|
-|**Remarques**| Facultatif | Mettez à jour toutes les informations les plus récentes pour fournir une visibilité aux autres employés de votre entreprise qui travaillent sur le même contrat ou qui tente de comprendre l’état actuel de la transaction. Vous pouvez également l’utiliser comme communication sur un enregistrement pour les discussions entre les vendeurs Microsoft/autres partenaires de votre entreprise.|
+|**Notes**| Facultatif | Mettez à jour toutes les informations les plus récentes pour fournir une visibilité aux autres employés de votre entreprise qui travaillent sur le même contrat ou qui tente de comprendre l’état actuel de la transaction. Vous pouvez également l’utiliser comme communication sur un enregistrement pour les discussions entre les vendeurs Microsoft/autres partenaires de votre entreprise.|
 
 ### <a name="add-team-members"></a>Ajouter des membres à l’équipe
 
@@ -197,7 +203,7 @@ Une fois la transaction inscrite, vous pouvez afficher la progression de la vali
 
 Le tableau ci-dessous montre les combinaisons de qui peuvent être invitées à ce niveau de la transaction.
 
-|**Type de contrat d’origine**|**Qui peut être invité**|**Remarques**|
+|**Type de contrat d’origine**|**Qui peut être invité**|**Notes**|
 |-----|:-----|:-----|
 |Privées|Microsoft et/ou d’autres partenaires|La vente sera mise à niveau vers la co-vente si Microsoft est invité.|
 |Co-vente|Autres partenaires|D’autres partenaires peuvent être invités uniquement si votre entreprise a initié la transaction. Les partenaires ne peuvent pas être invités pour les transactions dans l’onglet entrant.|
