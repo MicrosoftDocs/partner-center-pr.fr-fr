@@ -1,27 +1,23 @@
 ---
 title: Coopérer avec des fournisseurs indirects dans le programme CSP
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les revendeurs indirects peuvent coopérer avec des fournisseurs indirects Microsoft (ou distributeurs) afin d’obtenir de l’aide pour le support technique et la facturation.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795846"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514737"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -70,37 +66,26 @@ Pour plus d’informations sur les conditions à remplir pour vendre dans le cad
 
 1. Pour lancer le processus d’inscription, accédez à la [**page d’accueil**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) afin de vous inscrire.
 
-2. Lisez la **page Bienvenue** afin d’être sûr d’avoir les informations nécessaires pour vous inscrire, puis sélectionnez **Suivant** .
+2. Lisez la **page Bienvenue** afin d’être sûr d’avoir les informations nécessaires pour vous inscrire, puis sélectionnez **Suivant**.
 
-3. Connectez-vous avec votre compte professionnel. Sélectionnez **Se connecter** , puis entrez le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter en tant qu’administrateur général à Office 365, Microsoft Azure ou Microsoft Dynamics CRM.
+3. Connectez-vous à l’aide de votre compte professionnel, c’est-à-dire le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter en tant qu’administrateur général à Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
 
-   Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
-
-4. Lisez les informations indiquant comment associer votre identifiant Microsoft Partner Network (ID MPN) avec votre nouveau compte Espace partenaires. Nous devons lier l’ID MPN de votre entreprise à votre nouveau compte Espace partenaires pour pouvoir gérer les avantages et les incentives sur l’Espace partenaires. Sélectionnez **Se connecter** .
-
-5. Entrez le nom d’utilisateur que vous utilisez pour vous connecter au site Partner Membership Center (PMC). Le site Partner Membership Center est l’endroit où vous gérez actuellement votre compte de partenaire Microsoft. La connexion au Partner Membership Center nous permet de récupérer votre ID MPN et de l’associer à votre nouveau compte Espace partenaires. Sélectionnez **Suivant** .
-
-6. Entrez le mot de passe de votre compte Partner Membership Center, puis sélectionnez **Se connecter** .
-
-7. Sélectionnez le profil d’entreprise dont l’ID MPN est lié à vos incentives, avantages en tant que membre et compétences. Nous pouvons ensuite déplacer ces informations vers votre compte Espace partenaires. Sélectionnez **Continuer** .
-
-   Si l’ID MPN que vous voulez utiliser n’est pas listé dans cette page, sélectionnez **Annuler** et reconnectez-vous avec le nom d’utilisateur et le mot de passe du profil d’entreprise que vous souhaitez utiliser.
 
    > [!IMPORTANT]  
-   > Sélectionnez l’ID MPN associé à un profil d’entreprise actif situé dans le même pays ou la même région que votre locataire Azure AD.
+   > Sélectionnez l’ID MPN associé au profil d’entreprise actif situé dans le même pays ou la même région que votre locataire Azure AD.
 
-8. Indiquez ou mettez à jour le profil commercial, les informations juridiques, les coordonnées du contact principal et les coordonnées du service clientèle de votre entreprise. Sélectionnez **S’inscrire maintenant** .
+4. Indiquez ou mettez à jour le profil commercial, les informations juridiques, les coordonnées du contact principal et les coordonnées du service clientèle de votre entreprise. Pour accéder aux informations légales concernant votre entreprise, sélectionnez **Profil de l’organisation**, puis **Informations légales**. Sélectionnez **S’inscrire maintenant**.
 
-   Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application. Il peut s’agir de vous-même ou d’une autre personne de votre entreprise. Remarque : Nous n’acceptons pas les adresses e-mail provenant de services d’e-mail web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail.
+   L’interlocuteur principal est la personne de votre entreprise que nous pouvons contacter à propos de votre application. Il peut s’agir de vous-même ou d’une autre personne de votre entreprise. Remarque : Nous n’acceptons pas les adresses e-mail provenant de services d’e-mail web, tels que Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail.
 
    > [!IMPORTANT]  
    > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu’il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse e-mail appartient bien à votre entreprise. Une fois que le contact principal aura confirmé son adresse e-mail, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d’information sur l’état de l’inscription.
 
-9. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
+5. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
-   1. Dans votre **Espace partenaires** , sélectionnez l’icône **Paramètres** , puis sélectionnez **Gestion des utilisateurs** .
+   1. Dans le tableau de bord de l’Espace partenaires, sélectionnez l’icône **Paramètres**, puis, sous **Paramètres du compte**, sélectionnez **Gestion des utilisateurs**.
 
-   2. Sélectionnez votre nom dans la liste des utilisateurs. Sélectionnez ensuite l’option **Agent administrateur** si elle n’est pas déjà sélectionnée. Sélectionnez **Mettre à jour** .
+   2. Sélectionnez votre nom dans la liste des utilisateurs. Sélectionnez ensuite l’option **Agent administrateur** si elle n’est pas déjà sélectionnée. Sélectionnez **Mettre à jour**.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Tous les revendeurs indirects doivent signer le Contrat Partenaire Microsoft
 
@@ -125,7 +110,7 @@ Si un fournisseur indirect souhaite se connecter avec vous sur l’Espace parten
 
 2. Pour accepter l’invitation, suivez le lien figurant dans l’e-mail du fournisseur. Vous devrez peut-être vous reconnecter à l’Espace partenaires.
 
-3. Pour confirmer le partenariat avec le fournisseur, activez la case à cocher, puis sélectionnez **Autoriser le fournisseur indirect** . Le fournisseur est à présent répertorié dans votre page **Fournisseurs indirects** et votre société figure maintenant dans la page **Revendeurs indirects** du fournisseur.
+3. Pour confirmer le partenariat avec le fournisseur, activez la case à cocher, puis sélectionnez **Autoriser le fournisseur indirect**. Le fournisseur est à présent répertorié dans votre page **Fournisseurs indirects** et votre société figure maintenant dans la page **Revendeurs indirects** du fournisseur.
 
    > [!NOTE]  
    > Quand vous établissez un partenariat avec un fournisseur indirect, vous autorisez celui-ci à envoyer des commandes et à ajouter des abonnements pour le compte de vos clients. De plus, vous lui accordez un accès administrateur au compte professionnel de votre entreprise. Une fois votre partenariat avec le fournisseur créé, vous pouvez supprimer l’accès administrateur du fournisseur à votre compte professionnel dans le portail Office 365.
@@ -138,6 +123,10 @@ Si un fournisseur indirect souhaite se connecter avec vous sur l’Espace parten
 
    > [!IMPORTANT]  
    > Votre fournisseur indirect doit avoir une relation de revendeur avec vos clients pour pouvoir envoyer des commandes en leur nom.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Votre pays CSP et les régions CSP où vous êtes actif
+
+Le lieu où vous exercez en tant que revendeur indirect CSP avec votre société légale détermine les fournisseurs indirects avec lesquels vous pouvez travailler, ainsi que les régions où vous pouvez être fournisseur de solutions Cloud. Pour plus d’informations, consultez [Marchés et devises du programme Fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP](regional-authorization-overview.md).
 
 
 ## <a name="next-steps"></a>Étapes suivantes

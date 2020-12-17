@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811329"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011500"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Rétablir les privilèges d’administrateur pour les abonnements Azure CSP d’un client  
 
@@ -47,7 +47,7 @@ Pour récupérer des privilèges d’administrateur délégués, vous devez trav
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>Ajout du groupe d’agents d’administration en tant que propriétaire de l’abonnement Azure CSP
 
-Votre client devra ajouter votre groupe d’agents d’administration en tant que propriétaire de l’abonnement Azure CSP.
+Votre client devra ajouter votre groupe d’agents d’administration en tant que propriétaire d’un abonnement Azure CSP, d’un groupe de ressources ou d’une ressource. 
 
 1. Utilisez la console PowerShell ou l’environnement d’écriture de scripts intégré (ISE) de PowerShell. Vérifiez que les modules AzureAD sont installés.
 
@@ -67,13 +67,20 @@ Votre client devra ajouter votre groupe d’agents d’administration en tant qu
 4. L’utilisatrice disposant d’un accès propriétaire à l’abonnement Azure CSP se connecte à Azure en utilisant ses informations d’identification.
 
    ```powershell
-   Connect-AzAccount
+   Connect-AzureRmAccount
    ```
 
-5. Elle peut ensuite ajouter votre groupe d’agents d’administration en tant que propriétaire à l’abonnement Azure CSP.
+5. Elle pourra ensuite ajouter votre groupe d’agents d’administration en tant que propriétaire d’un abonnement Azure CSP, d’un groupe de ressources ou d’une ressource en appliquant un URI de ressource approprié dans le paramètre d’étendue. 
 
     ```powershell
-    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    # Grant owner role at subscription level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+
+    # Grant owner role at resource group level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+
+    # Grant owner role at resource level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
     ```
 
 ## <a name="next-steps"></a>Étapes suivantes

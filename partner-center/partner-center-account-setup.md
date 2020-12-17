@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556444"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011522"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gérer votre compte Espace partenaires : profil de société, informations bancaires, rôles, autorisations, etc.
 
 **Rôles appropriés** : administrateur général, administrateur MPN
 
-Le compte que vous créez dans l’Espace partenaires au moment de l’inscription comprend votre adresse e-mail professionnelle et des informations sur votre entreprise. Une fois que vous avez créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre société en incluant les détails du support, les exonérations fiscales le cas échéant ainsi que les informations de l’interlocuteur principal. Le compte de votre entreprise inclut également les comptes d’utilisateur de toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur des programmes d’incentives et assurer un support.
+Le compte que vous créez dans l’Espace partenaires lors de votre inscription inclut votre adresse e-mail professionnelle et vos données d’entreprise. Une fois que vous avez créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre société en incluant les détails du support, les exonérations fiscales le cas échéant ainsi que les informations de l’interlocuteur principal. Le compte de votre entreprise inclut également les comptes d’utilisateur de toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur des programmes d’incentives et assurer un support.
 
 Consultez également les articles [Inviter des employés à rejoindre l’Espace partenaires](guide-to-migration.md) et [Ajouter un nouvel utilisateur](create-user-accounts-and-set-permissions.md).
 
@@ -41,9 +41,19 @@ La page Paramètres du compte s’affiche.
 
 Que vous soyez partenaire ou développeur, utilisez votre ID MPN pour, par exemple, consigner des tickets de support. Votre ID MPN se trouve dans la page des **informations légales**. Vous pouvez également y accéder via le **profil d’identité**.
 
+## <a name="account-settings---partners-resellers"></a>Paramètres du compte - Partenaires, revendeurs
+
+Si votre entreprise fait partie du programme Fournisseur de solutions Cloud, lorsque vous sélectionnerez l’icône **Paramètres** et que vous ouvrirez le menu **Paramètres du compte**, l’affichage par défaut sera **Informations légales** avec les deux onglets **Partenaire** et **Revendeur**. Chaque onglet comprend des informations sur votre entreprise.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Le menu montre les onglets Partenaire et Revendeur":::
+
+L’onglet Partenaire inclut toutes les informations juridiques relatives à l’entreprise, telles que la dénomination sociale et l’adresse légale de la société, ainsi que l’interlocuteur principal et les différents sites de l’entreprise. Pour les partenaires qui sont fournisseurs de solutions Cloud, l’onglet Revendeur comprend le **profil Support client**.
+
+Si votre entreprise ne fait pas partie du programme Fournisseur de solutions Cloud, l’affichage par défaut montrera uniquement l’onglet **Partenaire**, avec le **profil Support client**.
+
 ## <a name="organization-profile"></a>Profil de l’organisation
 
-Utilisez ces pages pour gérer des informations comme le profil juridique, le profil de partenaire et les sites de l’entreprise. Sélectionnez des onglets comme **Informations légales** ou **Locataires** (décrits plus en détail ci-dessous) pour apporter des modifications. Sélectionnez l’onglet du programme qui vous intéresse (MPN, Fournisseur de solutions Cloud ou Place de marché commerciale). Ainsi, vous verrez les informations qui vous concernent ou qui sont liées au statut du processus de vérification.
+Utilisez ces pages pour gérer des aspects spécifiques de votre entreprise, comme le profil de société légale, le profil partenaire ou les locataires. Gérez chaque aspect séparément. Ils sont décrits ci-dessous. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu des informations légales.":::
 
@@ -81,7 +91,7 @@ Votre mode de travail dans l’Espace partenaires et les zones que vous pouvez v
 
 Pour mettre à jour votre adresse e-mail par défaut afin de recevoir les notifications de l’Espace partenaires :
 
-1. Connectez-vous à votre [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard).
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard).
 1. Accédez aux [**préférences relatives à l’engagement**](https://partner.microsoft.com/dashboard/engagement/preference), sélectionnez le lien **Changer**, mettez à jour l’adresse e-mail, puis sélectionnez **Enregistrer**.
 
 ### <a name="find-your-user-role"></a>Trouver votre rôle utilisateur
