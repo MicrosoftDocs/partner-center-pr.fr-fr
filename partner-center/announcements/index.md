@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622182"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666738"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,15 +22,20 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de décembre 2020** | **Annoncé** |
 |---------|:---------|:---------|
+|Offres/marchés|[Logiciels perpétuels dans CSP :  Nouveaux produits et zones géographiques](2020-december.md#10)|17 décembre|
+|Développer votre activité|[Secteur public, éducation et association : Poursuite des changements du programme Licence Open et évolution du CSP](2020-december.md#9)|17 décembre|
+|Offres/marchés|[Changements dans les conditions d’intégration des clients CSP (Cloud Solution Provider)](2020-december.md#8)|17 décembre|
+|Développer votre activité|[Rappel : Logiciels perpétuels dans le programme CSP (Cloud Solution Provider) largement disponibles à partir de janvier 2021](2020-december.md#7)|17 décembre|
+|Fonctions|[Guide des services en ligne et des autorisations pour les chaînes du logiciel](2020-december.md#6)|17 décembre|
 |Offres/marchés|[Offre de promotion Power Apps maintenant disponible](2020-december.md#5)|16 décembre|
 |Fonctions|[Mise en production du kit SDK sur .NET Standard (v1.16.3)](2020-december.md#4)|8 décembre|
 |Offres/marchés|[Notes de publication sur les prix des licences - Décembre 2020](2020-december.md#3)|8 décembre|
 |Offres/marchés|[Une mise à jour de l’offre Microsoft 365 Business Voice US avec forfait d’appels sort prochainement aux É.-U.](2020-december.md#2)|3 décembre|
-|Fonctions|[Disponible dès maintenant : Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur visant le processus de validation des clients Éducation](2020-december.md#1)|3 décembre|
+|Fonctionnalités|[Disponible dès maintenant : Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur visant le processus de validation des clients Éducation](2020-december.md#1)|3 décembre|
 | **Catégorie** | **Annonces de novembre 2020** | **Annoncé** |
-|Fonctions|[Nouvelle expérience de gestion de comptes centralisée](2020-november.md#13)|18 novembre|
+|Fonctionnalités|[Nouvelle expérience de gestion de comptes centralisée](2020-november.md#13)|18 novembre|
 |Offres/marchés|[Promotion Office 365 E1 pour les PME (LATAM, APAC et Inde)](2020-november.md#12)|18 novembre|
-|Fonctionnalités|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur (IU) pour renforcer le filtrage des clients dans certains pays](2020-november.md#11)|17 novembre|
+|Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur (IU) pour renforcer le filtrage des clients dans certains pays](2020-november.md#11)|17 novembre|
 |Fonctionnalités|[Changement de la devise de facturation des partenaires pour les nouvelles offres commerciales en UE/AELE](2020-november.md#10)|17 novembre|
 |Fonctionnalités|[Limitation pour les API de l’Espace partenaires](2020-november.md#9)|17 novembre|
 |Fonctionnalités|[Erreurs 409 dues à des demandes MCA en double](2020-november.md#8)|16 novembre|
@@ -44,7 +49,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces du mois d’octobre 2020** | **Date** |
 |Offres/marchés|[Correction concernant l’extension du forfait d’appels](2020-october.md#18)|29 octobre|
 |Fonctions|[Mises à jour des fonctionnalités d’abonnements au logiciel Windows Server](2020-october.md#17)|29 octobre|
-|Fonctions|[La mise à niveau vers Windows 10 Éducation est désormais disponible pour les clients éligibles du Fournisseur de solutions Cloud (CSP)](2020-october.md#16)|28 octobre|
+|Fonctionnalités|[La mise à niveau vers Windows 10 Éducation est désormais disponible pour les clients éligibles du Fournisseur de solutions Cloud (CSP)](2020-october.md#16)|28 octobre|
 |Fonctions|[Actualisation de l’expérience numérique CSP (Cloud Solution Provider) maintenant disponible](2020-october.md#15)|28 octobre|
 |Fonctions|[Introduction d’un standard de performances pour les besoins des partenaires en facturation directe dans le programme CSP (Cloud Solution Provider)](2020-october.md#13)|27 octobre|
 |Offres/marchés|[Mises à jour des prix de vente des abonnements aux logiciels CSP (Cloud Solution Provider) - octobre 2020](2020-october.md#14)|26 octobre|
@@ -74,7 +79,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 |Fonctions|[Mise à jour des MPA pour les revendeurs indirects. Action requise pour les utilisateurs de l’API MPA et nouveaux rapports MPA](2020-september.md#7)|16 septembre|
 |Offres/marchés|[Achat en libre-service de Microsoft Project et Microsoft Visio maintenant disponible](2020-september.md#6)|15 septembre|
 |Offres/marchés|[Les nouvelles références SKU apportent aux clients la puissance de Project Cortex et plus](2020-september.md#5)|8 septembre|
-|Fonctionnalités|[Amélioration du support d’incentives et du processus de création de tickets](2020-september.md#4)|2 septembre|
+|Fonctions|[Amélioration du support d’incentives et du processus de création de tickets](2020-september.md#4)|2 septembre|
 |Offres/marchés|[Nouvelles offres Microsoft Dynamics 365 à venir](2020-september.md#3)|1er septembre|
 |Offres/marchés|[Forfait d’appels Office 365 disponible sur de nouveaux marchés le 1er octobre 2020](2020-september.md#2)|1er septembre|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible dès maintenant](2020-september.md#1)|1er septembre|
