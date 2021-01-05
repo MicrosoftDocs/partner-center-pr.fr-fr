@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174902"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720830"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Le Centre d’administration des partenaires est transféré à l’Espace partenaires
 
@@ -41,13 +41,10 @@ En avril 2018, les PAC seront mis hors service, et les partenaires CSP vont êtr
 
 - Partenaires fournisseurs de solutions Cloud : Si vous êtes un partenaire CSP, nous vous redirigerons automatiquement vers l’espace partenaires à partir du 2018 avril.
 
-- Partenaires Advisor (si vous ne le faites pas par le biais du CSP et utilisez PAC pour fournir des versions d’évaluation/devis à vos clients) : dès que nous décidons de la chronologie de votre redirection automatique vers l’espace partenaires, nous l’annoncerons ici.
+- Partenaires Advisor (si vous ne faites pas une transaction avec CSP et que vous utilisez PAC pour fournir des évaluations/devis à vos clients) : Si vous êtes un partenaire conseiller, nous vous redirigerons automatiquement vers l’espace partenaires à partir de juin 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Commencez à utiliser l’espace partenaires Microsoft dès maintenant !
 
 Commencez à utiliser [l’espace partenaires Microsoft](https://partnercenter.microsoft.com/) dès à présent pour vous préparer à passer du PAC.  Vous utiliserez les mêmes informations d’identification pour l’espace partenaires que vous utilisez pour le PAC.
 
-> [!IMPORTANT]  
-> Certaines fonctionnalités et fonctions qui étaient disponibles dans la clé PAC ne sont pas disponibles dans l’espace partenaires.
-
- Lisez la [comparaison côte à côte](moving-from-pac-to-pc.md) pour comprendre et vous familiariser avec ces modifications. 
+Lisez la [comparaison côte à côte](moving-from-pac-to-pc.md) pour comprendre et vous familiariser avec ces modifications.
