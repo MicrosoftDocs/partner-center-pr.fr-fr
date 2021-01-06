@@ -301,6 +301,9 @@
         - name: Demandes de coopération à une incentive
           href: claims-overview.md
           displayName: incentives
+        - name: Afficher les fonds de coopération disponibles
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Gérer les demandes de coopération
           href: create-incentives-claims.md
           displayName: incentives
