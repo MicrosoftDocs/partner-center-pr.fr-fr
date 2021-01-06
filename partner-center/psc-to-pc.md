@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776903"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916845"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -320,6 +320,20 @@ L’espace partenaires n’est pas accessible directement à votre prestations c
 - Informations OCP : si les prestations affichent simplement les contrats et la progression associés, ils peuvent utiliser le portail OCP Insights pour obtenir une vue d’ensemble de votre organisation. Il s’agit d’un outil interne qui est uniquement disponible pour prestations. Notez que les Insights OCP ne sont pas disponibles pour les utilisateurs de votre entreprise.
 - Utilisateur invité dans l’espace partenaires : vous pouvez ajouter votre @microsoft.com compte PDM en tant qu’utilisateur invité dans l’espace partenaires et lui affecter un rôle d’administrateur de référence afin qu’il puisse afficher et agir sur les références.
 - Création d’un [utilisateur](./create-user-accounts-and-set-permissions.md#add-a-new-user) dans votre client : vous pouvez créer un nouvel utilisateur dans votre propre locataire et partager ces informations avec le PDM afin qu’il puisse afficher et agir sur des références similaires à d’autres utilisateurs de référence dans votre compte.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Recherche de l’ID MPN approprié si votre compte dans PSC n’est pas associé à un MPN non valide
+
+Si vous êtes ici, parce que vous avez vu une bannière dans le PSC mentionnant « problème d’association d’ID MPN non valide », vous êtes au bon endroit.
+
+Tout d’abord, recherchez l’ID MPN correct en suivant les étapes ci-dessous.
+
+- Connectez-vous à votre compte espace partenaires
+- Utilisez les instructions fournies dans la [documentation des paramètres de compte](./partner-center-account-setup.md#locate-your-mpn-id) pour localiser l’ID MPN.
+
+Ensuite,
+
+- Si vous disposez d’un système PDM, demandez-lui d’obtenir votre ID MPN corrigé avec l’ID MPN correct à partir de votre compte espace partenaires.
+- Si vous n’avez pas de PDM, envoyez un e-mail à l’adresse indiquée dans la bannière du PSC avec les informations du compte PSC figurant dans la bannière du PSC et l’ID MPN correct de votre compte espace partenaires.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Ressources pour vous aider à créer et gérer vos offres dans l’espace partenaires
 
