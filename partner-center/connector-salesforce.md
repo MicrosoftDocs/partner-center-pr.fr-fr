@@ -1,19 +1,19 @@
 ---
 title: Connecteur de covente pour Salesforce CRM Partner Center
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronisez vos références dans l’espace partenaires avec votre CRM Salesforce. Les vendeurs peuvent ensuite se vendre avec Microsoft à partir de vos systèmes CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947849"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960949"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
@@ -51,7 +51,7 @@ Pour synchroniser les références entre l’espace partenaires et le CRM Salesf
 
 3. Dans Salesforce, installez les champs et les objets personnalisés à l’aide du programme d’installation de package ci-dessous.
   
-Cliquez [ici](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) pour installer le package dans une société :
+Cliquez [ici](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) pour installer le package dans n’importe quelle entreprise.
 
 
 Remarque : Si vous installez dans un bac à sable (sandbox), vous devez remplacer la partie initiale de l’URL par http://test.salesforce.com
