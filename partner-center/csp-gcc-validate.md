@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114378"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979635"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 Government GCC pour le partenaire CSP et les critères d’éligibilité du client-espace partenaires
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires CSP
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC pour le partenaire CSP et les critères d’éligibilité du client 
 
 **Rôles appropriés**
 
@@ -32,7 +27,7 @@ ms.locfileid: "87114378"
 >[!NOTE]
 >Le processus de validation et les critères décrits ci-dessous sont spécifiques aux partenaires de facturation directe. Les partenaires de facturation directe incluent des revendeurs directs et des fournisseurs indirects.  Si vous êtes un revendeur indirect, collaborez avec votre fournisseur indirect.
 
-Si vous souhaitez que votre organisation (ou l’organisation de votre client) soit approuvée pour Office 365 Government GCC pour CSP, passez en revue les exigences ci-dessous.
+Si vous souhaitez que votre entreprise (ou la société de votre client) soit approuvée pour Office 365 Government GCC pour CSP, passez en revue les exigences ci-dessous.
 
 Vous pouvez être approuvé si vous êtes un partenaire qui dessert des entités gouvernementales fédérales, d’État, locales ou tribales. Pour que votre organisation soit validée, complétez le formulaire succinct situé [ici](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
@@ -68,3 +63,6 @@ Les partenaires et les clients Office 365 Government GCC pour les fournisseurs d
 
 Une entité commerciale internationale peut qualifier si elle répond aux conditions mentionnées ci-dessus et avoir vérifié la présence des États-Unis (par exemple, adresse postale, emplacement physique, etc.).
 
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Vendre des abonnements Office 365 Government GCC pour CSP à des clients qualifiés](csp-gcc-overview.md)

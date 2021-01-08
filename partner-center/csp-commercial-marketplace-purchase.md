@@ -1,6 +1,6 @@
 ---
 title: Acheter des offres de la place de marché commercial
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8eb2faec7c2ddd70ed0cacedebf4f9824441a7a
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038852"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979714"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Acheter des produits de la place de marché commercial pour vos clients dans l’espace partenaires
 
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
 

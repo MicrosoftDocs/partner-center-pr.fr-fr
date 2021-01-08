@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000383"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979564"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Appliquer à la vente dans les clouds nationaux Microsoft dans le cadre du programme CSP
+
+**S’applique à**
+
+- Espace partenaires pour Microsoft Government Cloud
+- Espace partenaires pour Microsoft Cloud Allemagne
+
+
+**Rôles appropriés**
+
+- Administrateur général
 
 En plus de vendre aux clients dans le cadre du programme fournisseur de solutions de Cloud Computing global, les partenaires Microsoft qualifiés peuvent également vendre des solutions Cloud aux clients dans trois Clouds nationaux distincts. Les clouds nationaux sont des instances physiques et logiques isolées du réseau des services Cloud d’entreprise Microsoft, qui sont confinés dans les limites géographiques de pays spécifiques et exploitées par du personnel local. 
 
@@ -24,7 +34,7 @@ Pour plus d’informations sur les offres de Cloud national de Microsoft, consul
 
 Microsoft rend ces services disponibles dans les clouds nationaux :
 
--   Microsoft Azure services dans le cadre de la gestion des identités, du stockage, de la mise en réseau et de la gestion des identités. Azure protège les données dans le Cloud au niveau requis de sécurité, de confidentialité, de contrôle, de conformité et de transparence.
+-   Les Microsoft Azure services dans le cadre de la gestion des identités, du stockage, de la mise en réseau et de la mise à l’échelle. Azure protège les données dans le Cloud au niveau requis de sécurité, de confidentialité, de contrôle, de conformité et de transparence.
 
 -   Microsoft Dynamics 365 est une solution de gestion de la relation client (CRM) basée sur le Cloud qui équipe les employés du secteur public avec la création de rapports, la modélisation et les flux de travail de données, tout en offrant des fonctionnalités de sécurité qui peuvent limiter l’accès aux données sensibles.
 
@@ -49,3 +59,7 @@ Les partenaires qualifiés peuvent vendre des solutions Cloud Microsoft aux clie
     Microsoft est le fournisseur de technologies, mais ne fonctionne pas avec le service. 21Vianet fonctionne indépendamment, fournit et gère la remise des services Cloud Microsoft. En accordant des licences aux technologies Microsoft, 21Vianet peut offrir des services Azure et Office 365 et utiliser des centres de données Azure et Office 365 qui conservent des données au sein de la Chine continentale. 21Vianet fournit également des services d’abonnement et de facturation, ainsi que la prise en charge.
 
     Pour plus d’informations sur l’inscription et la vente à des clients dans Azure et Office 365 gérés par 21Vianet en Chine, consultez [espace partenaires géré par 21ViaNet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Forum aux questions (FAQ) pour l’espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis](faq-for-us-govt-cloud.md)

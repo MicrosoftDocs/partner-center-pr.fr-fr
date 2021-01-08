@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000513"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979674"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gérer les produits et offres de la place de marché commercial pour vos clients
 
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
 

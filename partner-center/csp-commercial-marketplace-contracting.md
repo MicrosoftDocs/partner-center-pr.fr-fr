@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435148"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979652"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contrats pour les partenaires CSP qui exercent des activités dans la place de marché commerciale
 
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Microsoft Cloud
 
 **Rôles appropriés**
 
 - Administrateur général
 - Agent d’administration
 
-Cette section concerne les contrats pour les partenaires du programme CSP qui choisissent d’acheter des offres de la place de marché ISV ou des produits pour leurs clients à partir de la place de marché commerciale de l’espace partenaires ou du Portail Azure.
+Cet article concerne les contrats des partenaires du programme CSP qui choisissent d’acheter des offres de la place de marché ISV ou des produits pour leurs clients à partir de la place de marché commerciale de l’espace partenaires ou du Portail Azure.
 
 Le [Guide du programme CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100) contient les conditions générales régissant les offres de la place de marché commercial entre Microsoft et ses partenaires dans le programme CSP. Les partenaires CSP doivent passer en revue ces conditions générales pour s’assurer qu’elles fonctionnent dans le cadre du programme.  
 

@@ -1,7 +1,7 @@
 ---
 title: Tarification et offres
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consultez les tarifs actuels pour obtenir des services basés sur une licence comme Office 365, Microsoft Dynamics CRM et Enterprise Mobility suite, ainsi que des services basés sur l’utilisation comme Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444801"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979819"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -74,7 +71,7 @@ Toutefois, la tarification basée sur l’utilisation Azure n’a pas d’aperç
 |**Type de produit**   |**Exemples de produits**  |**Aperçu disponible** |**Détails des modifications**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Basé sur une licence|Office, Dynamics, Intune, Windows entreprise|30 jours|Répertorier les modifications de prix marquées CHNG dans les listes de prix en version préliminaire|
-|Basé sur l’utilisation|Ressources Azure|Non disponible|Journal des modifications disponible dans l’onglet **historique des modifications** de la liste de prix du mois précédent|
+|Basés sur l’utilisation|Ressources Azure|Non disponible|Journal des modifications disponible dans l’onglet **historique des modifications** de la liste de prix du mois précédent|
 |Logiciel||Non disponible|Comparer les listes de prix manuellement du mois au mois|
 |Réservations|Machines virtuelles, prépayé|Non disponible|Comparer les listes de prix manuellement du mois au mois|
 
@@ -89,7 +86,7 @@ Le fournisseur CSP offre des services à des segments de marché spéciaux, par 
 
 |**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
+|Éducation|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
 |À but non lucratif|Customer|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure Government|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure Government|Ressources Azure|
@@ -169,7 +166,7 @@ Voici un résumé de la façon dont ces offres fonctionnent :
 - L’abonnement n’est pas renouvelé et expire au bout de 6 ans
 - La fréquence de facturation de l’offre s’affiche comme annuelle, mais le partenaire est facturé en amont sur sa première facture après avoir acquis l’abonnement
 - Les abonnements des offres a1 à 72 mois sont verrouillés après l’achat et ne peuvent pas être annulés et le nombre de licences ne peut pas être ajouté à l’abonnement après l’achat initial
-- Les partenaires qui doivent annuler doivent créer un ticket de support avec la raison de l’annulation et l’ID d’abonnement pour lequel ils ont besoin d’aide.
+- Cet abonnement n’est pas annulable et n’est pas remboursable.
 
 ## <a name="estimated-retail-price-erp"></a>Prix de vente estimé (ERP)
 
