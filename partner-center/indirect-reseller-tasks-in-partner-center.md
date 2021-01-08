@@ -1,7 +1,7 @@
 ---
 title: Coopérer avec des fournisseurs indirects dans le programme CSP
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les revendeurs indirects peuvent coopérer avec des fournisseurs indirects Microsoft (ou distributeurs) afin d’obtenir de l’aide pour le support technique et la facturation.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514737"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636022"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -69,10 +69,7 @@ Pour plus d’informations sur les conditions à remplir pour vendre dans le cad
 2. Lisez la **page Bienvenue** afin d’être sûr d’avoir les informations nécessaires pour vous inscrire, puis sélectionnez **Suivant**.
 
 3. Connectez-vous à l’aide de votre compte professionnel, c’est-à-dire le nom d’utilisateur et le mot de passe que vous utilisez pour vous connecter en tant qu’administrateur général à Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Si vous n’avez pas de compte professionnel, sélectionnez **Créer** pour en créer un maintenant. Après avoir créé votre compte professionnel, connectez-vous en utilisant les informations d’identification d’administrateur général de votre nouveau compte.
-
-
-   > [!IMPORTANT]  
-   > Sélectionnez l’ID MPN associé au profil d’entreprise actif situé dans le même pays ou la même région que votre locataire Azure AD.
+  
 
 4. Indiquez ou mettez à jour le profil commercial, les informations juridiques, les coordonnées du contact principal et les coordonnées du service clientèle de votre entreprise. Pour accéder aux informations légales concernant votre entreprise, sélectionnez **Profil de l’organisation**, puis **Informations légales**. Sélectionnez **S’inscrire maintenant**.
 
@@ -81,7 +78,16 @@ Pour plus d’informations sur les conditions à remplir pour vendre dans le cad
    > [!IMPORTANT]  
    > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu’il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse e-mail appartient bien à votre entreprise. Une fois que le contact principal aura confirmé son adresse e-mail, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d’information sur l’état de l’inscription.
 
-5. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
+5. Associez votre ID MPN à votre locataire d’ID Azure.
+
+    1. Sélectionnez **Identificateurs** à partir de **Paramètres de compte**.
+
+    1. Dans la section **CSP**, utilisez le lien **Mettre à jour** pour mettre à jour l’ID MPN associé à votre compte CSP. 
+ 
+ > [!IMPORTANT]  
+   > Sélectionnez l’ID MPN associé au profil d’entreprise actif situé dans le même pays ou la même région que votre locataire Azure AD.
+
+6. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
    1. Dans le tableau de bord de l’Espace partenaires, sélectionnez l’icône **Paramètres**, puis, sous **Paramètres du compte**, sélectionnez **Gestion des utilisateurs**.
 

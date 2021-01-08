@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514755"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916828"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -50,7 +50,7 @@ Pour continuer à participer au programme Fournisseur de solutions Cloud (CSP), 
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Confirmer que vous êtes inscrit en tant que revendeur indirect CSP
 
-1. Si vous ne vous êtes pas déjà inscrit en tant que [CSP Indirect Reseller](enrolling-in-the-csp-program.md) dans l’Espace partenaires, vous devez commencer par cela. Effectuez les étapes restantes après vous être inscrit en tant que CSP Indirect Reseller dans l’Espace partenaires.
+1. Si vous ne vous êtes pas déjà inscrit en tant que [CSP Indirect Reseller](indirect-reseller-tasks-in-partner-center.md) dans l’Espace partenaires, vous devez commencer par cela. Effectuez les étapes restantes après vous être inscrit en tant que CSP Indirect Reseller dans l’Espace partenaires.
 
 1. Connectez-vous à l’Espace partenaires avec les informations d’identification de votre compte d’administrateur général CSP.
 

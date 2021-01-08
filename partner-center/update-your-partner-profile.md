@@ -6,15 +6,15 @@ description: Découvrez comment vérifier les détails de votre entreprise comme
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514705"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666789"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Vérifier les informations de profil de votre organisation dans l’Espace partenaires
 
@@ -27,13 +27,13 @@ La première fois que vous vous connectez à l’Espace partenaires en tant qu�
 
 Votre profil de partenaire est constitué des informations de votre entreprise légale, du nom et de l’adresse e-mail du contact principal, des programmes auxquels votre entreprise participe et, le cas échéant, de vos autres sociétés qui sont à présent fusionnées dans votre entreprise légale. Vérifiez que le nom et l’adresse de la société dans votre profil d’entreprise juridique sont exempts de fautes d’orthographe et d’abréviations, et qu’ils correspondent exactement à ceux figurant au registre officiel des entreprises. Si vous êtes propriétaire d’une entreprise individuelle, vous devez utiliser le nom de votre société comme nom légal.
 
-1. Accédez à **Paramètres**, puis sélectionnez **Paramètres du compte**.
+1. Accédez à l’icône **Paramètres**, puis sélectionnez **Paramètres du compte**.
  
 1. Sélectionnez **Profil de l’organisation**. 
 
 2. Passez en revue votre **profil d’entreprise légale**, les **informations de contact principales** et les **informations de programme**.
 
-Si vous avez fusionné vos autres sociétés dans le cadre légal de vos activités, vous pouvez également consulter leurs informations. 
+Si vous avez fusionné vos autres sociétés dans le cadre légal de vos activités, vous pouvez également consulter ces informations. 
 
 ## <a name="update-your-legal-business-profile"></a>Mettre à jour le profil de l’entreprise légale
 
@@ -65,15 +65,11 @@ Si, durant la migration du Partner Membership Center vers l’Espace partenaires
 
 Pour mettre à jour votre ID MPN associé à votre compte CSP :
 
-1. Connectez-vous au tableau de bord de votre Espace partenaires.
+1. Connectez-vous au tableau de bord de l’Espace partenaires, puis sélectionnez **Paramètres**.
  
-1. Sélectionnez **Profil de l’organisation** dans **Paramètres du compte**.
+1. Sélectionnez **Identificateurs** à partir de **Paramètres de compte**.
 
-1. En regard de **MPNID associé**, sélectionnez **Mettre à jour**.
- 
-1. Sélectionnez **Continuer**.
- 
-1. Ajoutez votre ID MPN.
+1. Dans la section **CSP**, utilisez le lien **Mettre à jour** pour mettre à jour l’ID MPN associé à votre compte CSP. 
 
 
 ## <a name="update-your-billing-address"></a>Mettre à jour votre adresse de facturation
