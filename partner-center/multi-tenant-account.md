@@ -1,7 +1,7 @@
 ---
 title: Ajouter des locataires supplémentaires à votre compte espace partenaires
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment ajouter, consolider ou gérer plusieurs locataires Azure AD dans votre compte espace partenaires. En savoir plus sur certaines des raisons pour lesquelles vous pourriez souhaiter le faire.
@@ -9,18 +9,15 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175164"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105548"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Ajouter et gérer plusieurs locataires dans votre compte espace partenaires
 
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -50,15 +47,36 @@ Cette fonctionnalité vous permet de gérer plusieurs locataires pour votre entr
 
 1. En tant qu’administrateur général, connectez-vous au locataire que vous souhaitez associer et confirmez l’Association. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="associer des locataires"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="confirmer l’Association des locataires"::: 
 
-5. Une fois que vous avez confirmé, vous verrez un avis **défini** .  Sélectionnez **revenir à la gestion des locataires pour** Voir le locataire qui vient d’être ajouté. 
+5. Une fois que vous avez confirmé, vous verrez un avis **défini** .  Sélectionnez **revenir à la gestion des locataires pour** Voir le locataire que vous venez d’ajouter. 
  
 
 >[!NOTE]
 >Vous ne pouvez pas associer un locataire à un compte s’il est déjà associé à un autre compte de l’espace partenaires.
 
+
+## <a name="remove-a-tenant-from-your-account"></a>Supprimer un locataire de votre compte
  
+1. En tant qu’administrateur général, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
+
+1. À partir de l’icône **paramètres** , sélectionnez **paramètres du compte** -> locataires, puis cliquez sur l’onglet **partenaire** .
+ 
+3. Cliquez sur **supprimer** pour le locataire que vous souhaitez dissocier.
+
+4. La dissociation d’un locataire signifie que les utilisateurs de ce locataire n’auront plus accès au compte de l’espace partenaires, ce qui peut avoir un impact sur vos compétences. 
+
+Le bouton **supprimer** est activé pour tous les locataires associés, à l’exception du locataire principal et du locataire dans lequel vous êtes actuellement connecté.
+
+:::image type="content" source="images/disassociate.png" alt-text="locataires avec le bouton supprimer":::
+ 
+
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Ajout d'utilisateurs](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+
