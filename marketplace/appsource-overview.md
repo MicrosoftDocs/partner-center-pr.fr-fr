@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771690"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146385"
 ---
 # <a name="what-is-microsoft-appsource"></a>Qu’est-ce que Microsoft AppSource ?
 
@@ -48,7 +48,18 @@ Le fournisseur du logiciel définit le prix, le contrat de licence utilisateur f
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>Découvrez les applications intégrées SaaS et M365
 
-Nos partenaires peuvent établir des liens entre les applications SaaS et M365 intégrées. Cela vous permet de télécharger et d’utiliser les applications intégrées quand vous recevez l’application SaaS liée. Dans ce cas, le résultat de la recherche peut retourner uniquement l’application SaaS indiquant les icônes des applications intégrées qui l’accompagnent. Vous pouvez naviguer entre les applications SaaS et intégrées sur la page Détails du produit de chaque. Si une application SaaS nécessite un achat, voir [Comment acheter des offres SaaS sur Microsoft AppSource](purchase-software-appsource.md).
+Nos partenaires peuvent établir un lien entre une application SaaS et ses compléments correspondants pour Microsoft 365. Cela vous permet de télécharger et d’utiliser les compléments de spécifiques Microsoft 365 services ou produits lorsque vous recevez une application SaaS liée à des compléments.
+
+Dans ce cas, le résultat de la recherche peut retourner uniquement l’application SaaS avec les icônes du produit du complément correspondant sur la carte du produit de l’application SaaS. Vous pouvez naviguer entre les pages de détails du produit de l’application SaaS et de l’application intégrée.
+
+Si vous recherchez les compléments autonomes, vous pouvez les rechercher de l’une des manières suivantes :
+
+- Accédez au [catalogue de produits AppSource](https://appsource.microsoft.com/marketplace/apps/)et, dans le volet de navigation de gauche, sous **produits** , sélectionnez **Microsoft 365**. Dans la liste des produits qui s’affichent sous **Microsoft 365**, sélectionnez les zones correspondant aux produits souhaités.
+- Ou sélectionnez l’icône du produit de complément dans la carte de produit de l’application SaaS pour accéder au complément spécifique qui a été masqué dans l’affichage de la recherche.
+
+Si une application SaaS nécessite un achat, voir [Comment acheter des offres SaaS sur Microsoft AppSource](purchase-software-appsource.md).
+
+Les utilisateurs de Microsoft 365 admin peuvent déployer le SaaS et les compléments à un seul emplacement. Pour plus d’informations, consultez [tester et déployer des applications Microsoft 365es-Microsoft 365 admin](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
 
 ## <a name="find-ratings-and-reviews"></a>Rechercher des évaluations et des évaluations
 
