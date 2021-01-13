@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514699"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105526"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Exigences pour s’inscrire en tant que partenaire à facturation directe du programme Fournisseur de solutions Cloud (CSP)
 
-**S’applique à**
+**Rôles appropriés**
 
-- Partenaires de facturation du programme CSP (Fournisseur de solutions Cloud)
+- Administrateur général
 
 ## <a name="enroll-as-a-direct-partner"></a>S’inscrire en tant que partenaire direct
 
-En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour les conditions d’inscription pour les partenaires à facturation directe le 27 octobre 2020. Ces conditions vous permettront d’accélérer la croissance de votre activité grâce au modèle Fournisseur de solutions Cloud approprié et de renforcer vos relations client avec des services et un support à valeur ajoutée.  
+En tant que partenaire à facturation directe, vous avez une relation de bout en bout avec votre client et Microsoft. Nous avons mis à jour les conditions d’inscription pour les partenaires à facturation directe le 27 octobre 2020. Ces conditions vous permettront d’accélérer la croissance de votre activité grâce au modèle Fournisseur de solutions Cloud approprié et de renforcer vos relations client avec des services et un support à valeur ajoutée.  
 
 ### <a name="minimum-requirements"></a>Configuration minimale requise
 
