@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 89ed8850d92861ea7da2d83a9945980f0ca71daa
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007274"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182526"
 ---
 # <a name="what-is-azure-marketplace"></a>Qu’est-ce que la Place de marché Microsoft Azure ?
 
@@ -59,11 +59,11 @@ Pour le paiement, il existe deux options :
 - Carte de crédit
 - Facture (avec contrat d’achat Microsoft existant)
 
-Les achats sur la place de marché Azure sont automatiquement ajoutés à votre facture Azure et facturés sur le mode de paiement associé au compte. Pour obtenir de l’aide sur l’Association de différents comptes de paiement, consultez [vérifier le type de compte de facturation](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) dans la rubrique **frais externes Azure** .
+Les achats sur la place de marché Azure sont automatiquement ajoutés à votre facture Azure et facturés sur le mode de paiement associé au compte. Pour obtenir de l’aide sur l’Association de différents comptes de paiement, consultez [vérifier le type de compte de facturation](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) dans la rubrique **frais externes Azure** .
 
 ## <a name="certification-and-security"></a>Certification et sécurité
 
-Tous les produits disponibles dans la place de marché Azure ont été certifiés en fonction de critères spécifiques. Nous vous encourageons quand même à examiner chaque produit avec soin pour vous assurer qu’il répond aux exigences uniques de votre organisation. Pour en savoir plus sur les stratégies de certification que nous examinons pour chaque type d’offre, consultez [stratégies de certification](https://docs.microsoft.com/legal/marketplace/certification-policies)de la place de marché commerciale.
+Tous les produits disponibles dans la place de marché Azure ont été certifiés en fonction de critères spécifiques. Nous vous encourageons quand même à examiner chaque produit avec soin pour vous assurer qu’il répond aux exigences uniques de votre organisation. Pour en savoir plus sur les stratégies de certification que nous examinons pour chaque type d’offre, consultez [stratégies de certification](/legal/marketplace/certification-policies)de la place de marché commerciale.
 
 ## <a name="terms-and-conditions"></a>Conditions générales
 

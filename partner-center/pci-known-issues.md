@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389303"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182322"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Insights partenaires – Forum aux questions
 
@@ -26,15 +26,15 @@ Cela se rapporte aux problèmes connus d’affichage ou de rendu des rapports as
 
 Q) **je ne vois pas le Hub Insights dans mon compte espace partenaires. Que dois-je faire ?**
 
-A) Assurez-vous que vous êtes connecté au compte MPN pour votre organisation. Vous ne pouvez pas accéder au tableau de bord Insights à partir de votre compte CSP. Assurez-vous également que vous avez bien fourni la visionneuse de rapports ou l’accès au rôle visionneuse de rapports exécutif par votre administrateur général.  Pour plus d’informations sur les rôles, consultez [cet article](https://docs.microsoft.com/partner-center/pci-roles).
+A) Assurez-vous que vous êtes connecté au compte MPN pour votre organisation. Vous ne pouvez pas accéder au tableau de bord Insights à partir de votre compte CSP. Assurez-vous également que vous avez bien fourni la visionneuse de rapports ou l’accès au rôle visionneuse de rapports exécutif par votre administrateur général.  Pour plus d’informations sur les rôles, consultez [cet article](./pci-roles.md).
 
 Q) **je ne vois pas les données du revenu facturé ou du chiffre d’affaires consommé (ACR) Azure dans mes rapports. Pourquoi ?**
 
-A) les revenus facturés et les données ACR sont uniquement disponibles pour les utilisateurs qui sont des visionneuses de rapports.  Pour plus d’informations sur les rôles, consultez [cet article](https://docs.microsoft.com/partner-center/pci-roles).
+A) les revenus facturés et les données ACR sont uniquement disponibles pour les utilisateurs qui sont des visionneuses de rapports.  Pour plus d’informations sur les rôles, consultez [cet article](./pci-roles.md).
 
 Q) **je ne vois pas les données du revenu facturé ou du chiffre d’affaires consommé (ACR) Azure dans mes rapports. Pourquoi ?**
 
-A) les revenus facturés et les données ACR sont uniquement disponibles pour les utilisateurs qui sont des visionneuses de rapports. Pour plus d’informations sur les rôles, consultez [cet article](https://docs.microsoft.com/partner-center/pci-roles).
+A) les revenus facturés et les données ACR sont uniquement disponibles pour les utilisateurs qui sont des visionneuses de rapports. Pour plus d’informations sur les rôles, consultez [cet article](./pci-roles.md).
 
 Q) **le pays signalé pour mon client semble incorrect. Pourquoi ?**
 

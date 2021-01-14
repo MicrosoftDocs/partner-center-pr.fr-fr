@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007168"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182475"
 ---
 # <a name="azure-marketplace-purchasing"></a>Achat sur la place de marché Azure
 
@@ -25,7 +25,7 @@ Lorsque vous achetez via la place de marché Azure, vous éliminez la complexit�
 
 ## <a name="permission-to-purchase"></a>Autorisation d’achat
 
-Une fois que vous avez trouvé l’application logicielle appropriée, l’exécution de l’achat est simple. Toutefois, vous aurez besoin d’autorisations appropriées au sein de l’abonnement Azure. Étant donné qu’Azure fonctionne sur un modèle de [Access Control basé](https://docs.microsoft.com/azure/role-based-access-control/overview) sur les rôles (RBAC), votre compte a besoin d’autorisations de propriétaire ou de **contributeur** d' **abonnement** pour effectuer un achat.
+Une fois que vous avez trouvé l’application logicielle appropriée, l’exécution de l’achat est simple. Toutefois, vous aurez besoin d’autorisations appropriées au sein de l’abonnement Azure. Étant donné qu’Azure fonctionne sur un modèle de [Access Control basé](/azure/role-based-access-control/overview) sur les rôles (RBAC), votre compte a besoin d’autorisations de propriétaire ou de **contributeur** d' **abonnement** pour effectuer un achat.
 
 Avant d’effectuer un achat, assurez-vous que l’utilisateur dispose de la configuration appropriée dans le locataire Azure. Cela permet d’éviter les erreurs lors de l’achat.
 
@@ -55,7 +55,7 @@ Ces paramètres s’appliquent à tous les utilisateurs ayant accès à votre ab
 
 ## <a name="cost-management"></a>la gestion des coûts ;
 
-Lorsque vous achetez des produits sur la place de marché Azure, vous souhaitez obtenir des informations qui vous aideront à gérer les coûts. Azure Cost Management est un outil gratuit permettant d’afficher des informations sur les produits que vous avez achetés. Vous pouvez utiliser Cost Management pour afficher des détails sur les services que vous consacrez au fil du temps et sur la façon dont ces coûts sont suivis par rapport aux budgets que vous avez définis. Outre la définition des budgets, vous pouvez planifier des rapports et analyser les coûts liés aux abonnements. En savoir plus sur les Azure Cost Management en complétant le module Microsoft Learn sur [analyser les coûts et créer des budgets avec Azure Cost Management](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+Lorsque vous achetez des produits sur la place de marché Azure, vous souhaitez obtenir des informations qui vous aideront à gérer les coûts. Azure Cost Management est un outil gratuit permettant d’afficher des informations sur les produits que vous avez achetés. Vous pouvez utiliser Cost Management pour afficher des détails sur les services que vous consacrez au fil du temps et sur la façon dont ces coûts sont suivis par rapport aux budgets que vous avez définis. Outre la définition des budgets, vous pouvez planifier des rapports et analyser les coûts liés aux abonnements. En savoir plus sur les Azure Cost Management en complétant le module Microsoft Learn sur [analyser les coûts et créer des budgets avec Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Vous pouvez voir vos frais et factures de la Place de marché Azure dans l’outil d’analyse des coûts sous Azure Cost Management.
 
@@ -63,4 +63,4 @@ Vous pouvez voir vos frais et factures de la Place de marché Azure dans l’out
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Facturation et facturation](billing-invoicing.md)
+- [Facturation](billing-invoicing.md)

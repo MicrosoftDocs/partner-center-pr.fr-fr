@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105548"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182429"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Ajouter et gérer plusieurs locataires dans votre compte espace partenaires
 
@@ -22,6 +22,7 @@ ms.locfileid: "98105548"
 **Rôles appropriés**
 
 - Administrateur général
+- Administrateur des comptes
 
 Cette fonctionnalité vous permet de gérer plusieurs locataires pour votre entreprise et de les consolider dans votre compte Espace partenaires. Il existe de nombreuses raisons pour lesquelles vous devrez peut-être gérer plusieurs Azure AD locataires dans votre compte espace partenaires. Par exemple :
 

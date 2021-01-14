@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498552"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182577"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Champs du fichier de rapprochement des achats à usage unique CSP
 
@@ -28,18 +28,18 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | CustomerId | Identificateur Microsoft unique du client au format GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nom de l’organisation du client comme indiqué dans l’Espace partenaires. Cette colonne est importante pour rapprocher la facture de vos informations système. | *Jeanne moderne client DE2* |
 | CustomerDomainName | Nom de domaine du client. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](/partner-center/regional-authorization-overview) de votre région.  | *DE* |
+| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *ANNULATION* |
 | InvoiceNumber | Numéro de facture associé au fichier de rapprochement.  | *G002297372* |
-| MpnId | Identificateur MPN du partenaire CSP. Pour plus d’informations, consultez [Comment dénombrer par partenaire](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner). | *6034453* |
+| MpnId | Identificateur MPN du partenaire CSP. Pour plus d’informations, consultez [Comment dénombrer par partenaire](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. | *6048879* |
 | OrderId | Identificateur unique d’une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la commande lorsque vous contactez le support technique. Non utilisé pour le rapprochement. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | Date à laquelle la commande a été passée. | *10/3/2020* |
 | ProductId | Identificateur unique du produit. | *DZH318Z0BNZ5* |
 | SkuId | Identificateur unique de la référence (SKU). | *006G* |
 | AvailabilityId | Identificateur unique de disponibilité. | *DZH318Z08B80* |
-| SkuName | Nom de la référence (SKU). | *Tables-LRS* |
+| skuName | Nom de la référence (SKU). | *Tables-LRS* |
 | ProductName | Nom du produit. | *Tables* |
-| ChargeType | [Type de frais ou d'](/partner-center/recon-file-charge-types) ajustement. | *Nouveau* |
+| ChargeType | [Type de frais ou d'](./recon-file-charge-types.md) ajustement. | *Nouveau* |
 | UnitPrice | Prix par licence, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *0,045* |
 | Quantité | Nombre de licences. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *1* |
 | Sous-total | Total avant impôt. Le sous-total doit être égal à la quantité facturable multipliée par le prix unitaire effectif. | *0* |
@@ -54,7 +54,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | ChargeStartDate | Date à laquelle le centre partenaires facture les frais d’abonnement. Si l’abonnement est acheté avec un terme de facturation annuelle et un plan de facturation mensuel, puis dans le premier fichier de réconciliation, il s’agit du jour de l’achat de l’abonnement. À partir du prochain fichier de rapprochement, il sera incrémenté de 30 jours. | *9/1/2020* |
 | ChargeEndDate | Jour de fin des frais pour le cycle de facturation de l’abonnement. Si l’abonnement est acheté avec un terme de facturation annuelle et un plan de facturation mensuel, puis dans le premier fichier de rapprochement, il s’agit du 30 jours suivant l’achat de l’abonnement. À partir du prochain fichier de rapprochement, il sera incrémenté de 30 jours. | *30/09/2020* |
 | TermAndBillingCycle | Durée d’engagement pour poursuivre l’abonnement au moment de l’achat. | *Données stockées (Go/mois)* |
-| EffectiveUnitPrice | Prix unitaire au prorata pour calculer le coût du cycle de facturation. Les remises, les ajustements en jours de facturation et d’autres facteurs déterminent le prix unitaire effectif. Pour plus d’informations, consultez [calcul du prix unitaire effectif](/partner-center/effective-unit-price-calculation).  | *0,03825* |
+| EffectiveUnitPrice | Prix unitaire au prorata pour calculer le coût du cycle de facturation. Les remises, les ajustements en jours de facturation et d’autres facteurs déterminent le prix unitaire effectif. Pour plus d’informations, consultez [calcul du prix unitaire effectif](./effective-unit-price-calculation.md).  | *0,03825* |
 | Unité | Type d’unité dans laquelle le compteur est facturé. | *1 Go/mois* |
 | AlternateId | Autre ID de l’élément de ligne de commande référencé. | *6dc5c039750a* |
 | BillableQuantity | Quantité totale facturée.  | *0,005001* |

@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536078"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182339"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Démarrage rapide : gérer une place de marché Azure privée à l’aide de PowerShell
 
@@ -30,7 +30,7 @@ Cet article décrit comment vous pouvez gérer les offres dans une place de marc
   * [Installez le module PowerShell Az](/powershell/azure/install-az-ps).
   * Connectez-vous à votre compte Azure à l’aide de la cmdlet [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount).
 * Si vous choisissez d’utiliser Azure Cloud Shell :
-  * Pour plus d’informations, consultez [Vue d’ensemble d’Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview).
+  * Pour plus d’informations, consultez [Vue d’ensemble d’Azure Cloud Shell](/azure/cloud-shell/overview).
 
   > [!IMPORTANT]
   > Tandis que le module PowerShell **AZ. Marketplace** est en version préliminaire, vous devez l’installer séparément à l’aide de l’applet de commande `Install-Module` . Une fois que ce module PowerShell sera en disponibilité générale, il fera partie intégrante des versions futures du module Az PowerShell et sera disponible par défaut dans Azure Cloud Shell.
