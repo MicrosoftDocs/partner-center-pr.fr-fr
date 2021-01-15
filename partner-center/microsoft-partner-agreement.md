@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916828"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105509"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -54,7 +54,7 @@ Pour continuer à participer au programme Fournisseur de solutions Cloud (CSP), 
 
 1. Connectez-vous à l’Espace partenaires avec les informations d’identification de votre compte d’administrateur général CSP.
 
-1. Dans **Paramètres** sélectionnez [Profil de partenaire](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. Dans **Paramètres**, sélectionnez **Paramètres du compte**, puis sélectionnez [Profil de partenaire](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Consultez la section **Informations sur le programme**. Si vos informations n’indiquent pas le statut **Revendeur indirect**, vous devez [vous inscrire en tant que revendeur indirect](indirect-reseller-tasks-in-partner-center.md).
 
@@ -80,6 +80,10 @@ Pour voir si vous avez signé le Contrat Partenaire Microsoft :
 >[!NOTE]
 >Seul l’administrateur général de votre entreprise peut voir et signer le Contrat Partenaire Microsoft. Si vous n’êtes pas l’administrateur général, vous devez demander à votre administrateur général de vérifier le Contrat Partenaire Microsoft.
 
+Vous pouvez également voir si vous avez signé le contrat en sélectionnant **Contrats** dans **Paramètres du compte**.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Indique que le Contrat Partenaire Microsoft est signé":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Télécharger le guide pas à pas correspondant à votre situation
 
@@ -91,4 +95,4 @@ Pour voir si vous avez signé le Contrat Partenaire Microsoft :
  
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [S’inscrire au programme Fournisseur de solutions cloud](enrolling-in-the-csp-program.md)
+- [S’inscrire au programme Fournisseur de solutions cloud](indirect-reseller-tasks-in-partner-center.md)

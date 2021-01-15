@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120053"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979690"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 
@@ -77,3 +77,8 @@ En tant que partenaire du programme Fournisseur de solutions Cloud, vous pouvez 
 Pour les partenaires du programme Fournisseur de solutions Cloud qui utilisent l’API d’enregistrement de l’utilisation Crest, Microsoft publie également une liste des services Azure relatifs au programme Fournisseur de solutions Cloud dans la page **Tarification et offres**.
 
 Pour en savoir plus sur les offres de la Place de marché Azure publiées par les ISV (éditeurs de logiciels indépendants), visitez la page **Place de marché** dans le menu de navigation de gauche. Seuls les types de produit SaaS (Software as a Service) peuvent être achetés dans l’Espace partenaires. Vous devez vous rendre sur le portail Azure pour accéder à d’autres types d’offre de la Place de marché Azure.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Découvrir le Contrat Partenaire Microsoft](microsoft-partner-agreement.md)
+- [S’inscrire au programme Fournisseur de solutions cloud](enrolling-in-the-csp-program.md)

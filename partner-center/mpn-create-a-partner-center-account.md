@@ -1,7 +1,7 @@
 ---
 title: Créer un compte Espace partenaires
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment les membres Microsoft Partner Network peuvent créer un compte Espace partenaires pour gérer leurs revenus et leurs compétences du réseau.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570788"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979734"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Créer un compte Espace partenaires pour gérer les revenus et les compétences du réseau
 
@@ -55,16 +55,20 @@ Nous vérifierons ces informations au cours du processus de création du compte.
 
     Si votre société n’a pas de compte professionnel, sélectionnez **Créer un compte** pour en configurer un maintenant. Après avoir créé un compte professionnel, connectez-vous à l’aide des informations d’identification de l’administrateur général du compte professionnel que vous venez de créer.
 
-3.  Renseignez ou mettez à jour le profil juridique de votre entreprise et les coordonnées du contact principal, puis sélectionnez **S’inscrire maintenant**. 
+3.  Fournissez ou mettez à jour le profil d’entreprise juridique de votre entreprise.
+
+    Vous pouvez rechercher votre profil d’entreprise ou entrer manuellement les informations de l’entreprise. Si votre entreprise est inscrite auprès de [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), utilisez l’ID DUNS pour rechercher les informations de votre entreprise. Si vous voulez fournir vous-même les détails de votre entreprise, sélectionnez **Manuel**.
+
+4. Une fois que vous avez fourni les informations sur l’entreprise, entrez les informations du contact principal, puis sélectionnez **S’inscrire maintenant**.
 
     Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise). Nous allons également utiliser ces informations pour vérifier que cette personne travaille dans votre entreprise et qu'elle s'est inscrite à un compte Espace partenaires.
 
     > [!IMPORTANT]  
     > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu’il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse e-mail appartient bien à votre entreprise. Une fois que le contact principal aura confirmé son adresse e-mail, nous poursuivrons notre vérification des informations fournies.
 
-4.  Lisez et acceptez les conditions générales du contrat Microsoft Partner Network. 
+5.  Lisez et acceptez les conditions générales du contrat Microsoft Partner Network. 
 
-5.  Vérifiez que vous avez été ajouté au groupe d’agents d’administration. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
+6.  Vérifiez que vous avez été ajouté au groupe d’agents d’administration. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
     a. Dans le [tableau de bord](https://partner.microsoft.com/dashboard/home**) de l’Espace partenaires, sélectionnez l’icône **Paramètres**, puis **Gestion des utilisateurs**.  
 
