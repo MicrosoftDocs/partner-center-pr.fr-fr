@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949321"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215932"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fournir un support de facturation à vos clients et aider à répondre à leurs questions de facturation
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fournir du support sur la facturation à vos clients et aider à répondre à leurs questions sur la facturation
 
-**S’applique à**
-
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
+
 - Administrateur général
 - Administrateur des utilisateurs
 - Agent du support technique
 - Administrateur de la facturation
 - Agent commercial
 
-Vous êtes responsable de la relation de facturation avec vos clients et vous êtes responsable de la réponse aux questions relatives à la facturation de vos clients.
+Vous êtes responsable de la relation de facturation avec vos clients et vous êtes responsable de la réponse aux questions relatives à la facturation que vos clients peuvent avoir.
 
-- Vous êtes responsable du paiement à la fois à Microsoft.
+- Vous êtes responsable des paiements à la fois à Microsoft.
 
 - Nous vous recommandons d’établir une stratégie de regroupements clairs avec les clients qui détaille le processus de regroupements et lorsque l’accès aux abonnements, services ou logiciels du client sera affecté.
 
@@ -59,11 +56,14 @@ Les partenaires doivent recevoir des demandes de support entrantes de la part de
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
-Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d'informations, voir :
+Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d’informations, consultez :
 
 - [Abonnements Dynamics 365 vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [Abonnements Azure vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Abonnements Office 365 vendus via CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Proposer un support technique](provide-technical-support.md)

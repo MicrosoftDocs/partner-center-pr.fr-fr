@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950584"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215949"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950584"
 - Administrateur Partner Sales Connect (PSC)
 - Responsable des ventes Partner Sales Connect (PSC)
 
-Cet article guide les partenaires qui migrent de la vente des partenaires à l’espace partenaires pour qu’ils puissent continuer à créer et à gérer les ventes de covente dans l’espace partenaires.
+Cet article fournit des conseils pour les partenaires qui effectuent des migrations de Partner Sales Connect vers l’espace partenaires afin qu’ils puissent continuer à créer et à gérer les ventes de covente dans l’espace partenaires.
 
 Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 mars 2021. Toutefois, vous trouverez tout ce que vous souhaitez faire dans l’espace partenaires, par exemple créer des offres de covente, gérer vos demandes et agir sur les transactions que les vendeurs Microsoft vous ont envoyées.
 
@@ -353,7 +353,6 @@ Si vous n’avez pas encore lu les rubriques d’aide de la co-vente, les ressou
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-Suivez ces ressources supplémentaires :
 
 - [Vente des partenaires se connecter au](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) classeur de l’espace partenaires-classeur pour aligner les processus et les rôles des ventes des partenaires avec les nouveaux processus de vente via l’espace partenaires et les ventes de partenaires.
 - [Guide d’utilisation de la co-vente de l’espace partenaires](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -aide pour identifier un modèle d’exploitation via l’espace partenaires pour gérer les prospects, vendre des opportunités et enregistrer des transactions.

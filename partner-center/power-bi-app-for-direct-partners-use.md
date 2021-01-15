@@ -10,18 +10,16 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 248527fdbc536c552f7b2d00f208838b4ef19085
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302285"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215745"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Afficher vos données d’entreprise avec l’application Partner Center Analytics pour Microsoft Power BI
 
-**S’applique à**
 
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -78,7 +76,7 @@ Obtenir une représentation visuelle de vos données d’entreprise avec l’app
 
 ### <a name="subscription-insights-report"></a>Rapport sur les informations d’abonnement
 
-- **État**de l’abonnement :
+- **État** de l’abonnement :
 
 - Actif : abonnements appartenant à l’état « actif » ou « en grâce »
 
@@ -86,7 +84,7 @@ Obtenir une représentation visuelle de vos données d’entreprise avec l’app
 
   - Désapprovisionnés : abonnements appartenant à l’état « annulé » ou « expiré »
 
-- **État**de l’expiration :
+- **État** de l’expiration :
 
   - Expiré : abonnements qui ont déjà expiré (où la date de fin de l’abonnement est passée)
 
@@ -122,13 +120,13 @@ Obtenir une représentation visuelle de vos données d’entreprise avec l’app
 
 - **Nouveau (dernières 24 heures)**: ajout de licences au cours des dernières 24 heures
 
-- **Licences au**cours des 90 derniers jours : tendance du mois sur le mois des ajouts et réductions de licences agrégés tous les mois sur la période des 90 derniers jours
+- **Licences au** cours des 90 derniers jours : tendance du mois sur le mois des ajouts et réductions de licences agrégés tous les mois sur la période des 90 derniers jours
 
 - **Nombre de licences actives par produit**: produits vendus triés par nombre de licences actives
 
 - **Nombre de licences actives par client**: clients triés par nombre de licences actives
 
-- **Détails de l’événement de licence client au**cours des 90 derniers jours : vue détaillée des clients, abonnements et événements d’abonnement, y compris la date de l’événement, le nom de l’événement, la quantité et le changement de quantité.
+- **Détails de l’événement de licence client au** cours des 90 derniers jours : vue détaillée des clients, abonnements et événements d’abonnement, y compris la date de l’événement, le nom de l’événement, la quantité et le changement de quantité.
 
 ### <a name="licenses-usage-report"></a>Rapport d’utilisation des licences :
 
@@ -150,11 +148,11 @@ Obtenir une représentation visuelle de vos données d’entreprise avec l’app
 
 - **Abonnements basés sur l’utilisation au cours des 12 derniers mois**: tendance du mois sur le mois des nouveaux abonnements basés sur l’utilisation et abonnements basés sur l’utilisation agrégés tous les mois sur la période des 12 derniers mois
 
-- **Estimation du coût d’utilisation par le client au**cours des 60 derniers jours : les clients basés sur l’utilisation sont triés par montant de facture estimée en euros sur la période de 60 derniers jours. Cet état indique que les meilleurs clients basés sur l’utilisation apportent la plupart des revenus
+- **Estimation du coût d’utilisation par le client au** cours des 60 derniers jours : les clients basés sur l’utilisation sont triés par montant de facture estimée en euros sur la période de 60 derniers jours. Cet état indique que les meilleurs clients basés sur l’utilisation apportent la plupart des revenus
 
-- **Estimation du coût d’utilisation par catégorie au**cours des 60 derniers jours : les catégories de compteurs d’abonnements basés sur l’utilisation sont triées en fonction du montant de la facture estimée en euros sur la période de 60 derniers jours.
+- **Estimation du coût d’utilisation par catégorie au** cours des 60 derniers jours : les catégories de compteurs d’abonnements basés sur l’utilisation sont triées en fonction du montant de la facture estimée en euros sur la période de 60 derniers jours.
 
-- **Estimation du coût d’utilisation par abonnement au**cours des 60 derniers jours : abonnements basés sur l’utilisation par estimation de l’estimation de la quantité en dollars des factures sur la période des 60 derniers jours.
+- **Estimation du coût d’utilisation par abonnement au** cours des 60 derniers jours : abonnements basés sur l’utilisation par estimation de l’estimation de la quantité en dollars des factures sur la période des 60 derniers jours.
 
 - **Coût d’utilisation estimé par le client par dépense budgétaire**: clients triés par pourcentage de leur budget de dépenses d’utilisation actuel dépassant le seuil (100%).
 

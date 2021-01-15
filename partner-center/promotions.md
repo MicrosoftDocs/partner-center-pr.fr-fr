@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11d31ba8fc33c965be7d5a6eeb4b5a32e5a4fa77
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377763"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215864"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Utilisez des promotions pour attirer de nouveaux clients et y passer des économies
 
-**S’applique à**
 
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
@@ -67,3 +64,6 @@ Vous pouvez déterminer à quelles promotions vous êtes éligible, le cas éch�
 6. Sélectionnez **Envoyer** à l’achat. Votre client verra le prix de la promotion sur la facture suivante.  
 
 
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Vendre à un public spécialisé](sell-to-education-customers.md)

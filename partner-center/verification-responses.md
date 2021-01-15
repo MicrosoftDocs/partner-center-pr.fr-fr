@@ -1,7 +1,7 @@
 ---
 title: Vérifier vos informations de compte
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Suivez l’état de votre vérification de compte lorsque vous tentez de vous inscrire dans un nouveau programme de l’espace partenaires. Découvrez comment fournir des informations supplémentaires, si nécessaire.
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4102fb5d520ad9af6f66f8dfa1980903721ff
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 49c9d6730dd221ea81806644c8d05ff65442272f
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304966"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215796"
 ---
-# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Vérifier les informations de votre compte lors de votre inscription dans un nouveau programme de l’espace partenaires
+# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Vérifier les informations de votre compte lors de votre inscription à un nouveau programme de l’Espace partenaires
 
 **Rôles appropriés**
 
@@ -41,7 +41,7 @@ Pour le programme CSP, accédez à [cette page](https://partner.microsoft.com/pc
 |----------------------------|:-----------------------------------|:--------------------------------------|
 |Propriété de l’e-mail   |La propriété d’un e-mail vérifie que l’adresse du contact principal (adresse e-mail principale) est valide. L’adresse e-mail du contact principal doit être un compte professionnel qui est supervisé et qui peut envoyer/recevoir des e-mails. **Les partenaires ne doivent pas utiliser** : (1) une adresse e-mail personnelle non associée au domaine de l’entreprise. (2) une connexion de l’utilisateur client n’est pas associée à la messagerie (par exemple, jsmith@testcompany.onmicrosoft.com ).  |Si vous ne recevez pas le message électronique de vérification de la propriété de l’e-mail dans un délai d’un jour ouvrable, vous pouvez demander un renvoi à l’aide des liens suivants : pour [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), pour [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). Dans la page profil, cliquez sur le lien « renvoyer l’e-mail de vérification » pour que Microsoft vous renvoie l’e-mail. Pour vous assurer que le courrier électronique est reçu, veillez à marquer le courrier électronique à partir de Microsoft.com en tant que domaine « sécurisé », puis vérifiez les dossiers de courrier indésirable.|
 |Effectif |La vérification de l’emploi confirme que le contact principal est un employé de l’entreprise qui s’inscrit en raison de l’existence d’une adresse de messagerie active sur un domaine de messagerie appartenant à l’entreprise.|Si la vérification de l’emploi est rejetée, le contact principal (en général, votre administrateur global ou de compte) doit fournir une documentation confirmant que le domaine de messagerie du contact est sous la propriété de son employeur. [Créez un ticket de support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).|
-|Entreprises   |Confirmez que le nom et l’adresse de la société dans votre profil d’entreprise juridique sont exempts de fautes d’orthographe et d’abréviations, et correspondent exactement à vos enregistrements d’inscription professionnels de l’entreprise. Si vous êtes propriétaire d’un seul propriétaire, vous devez mettre à jour le nom de votre société pour qu’il s’agit de votre nom légal. La vérification de l’entreprise confirme que la société inscrite est une entité commerciale légitime et à l’adresse utilisée pour l’inscription.|En cas d’échec de la vérification de l’entreprise, le contact principal (en général, l’administrateur général ou l’administrateur de votre compte) sera invité à fournir une documentation officielle, telle qu’un certificat d’inscription ou un certificat d’enregistrement fiscal, à partir du pays ou de la municipalité de l’entreprise, confirmant que l’entreprise est autorisée à effectuer des affaires sous ce nom d’entité [Créer un ticket de support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+|Entreprises   | La vérification de l’entreprise confirme que la société inscrite est une entité commerciale légitime et qu’elle est à l’adresse utilisée pour l’inscription.|Confirmez que le nom et l’adresse de la société dans votre [profil d’entreprise juridique](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) sont exempts de fautes d’orthographe et d’abréviations, et correspondent exactement à vos enregistrements d’inscription professionnels de l’entreprise. Le contact principal (en général, votre administrateur de compte ou global) sera invité à fournir une documentation officielle, telle qu’un certificat d’inscription ou un certificat d’enregistrement fiscal, à partir du pays ou de la municipalité de l’entreprise, confirmant que l’entreprise est autorisée à faire des affaires sous ce nom d’entité et qu’elle se trouve à l’adresse d’inscription. [Créer un ticket de support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
 >Découvrez comment mettre à jour votre [profil d’entreprise juridique (adresse)](update-your-partner-profile.md).

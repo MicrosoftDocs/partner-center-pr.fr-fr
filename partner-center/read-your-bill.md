@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444993"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215813"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendre votre facture et votre fichier de rapprochement-Découvrez comment les trouver dans l’espace partenaires
 
-**S’applique à**
-
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
 
@@ -82,7 +78,7 @@ Voici quelques-uns des champs clés du document PDF de facture :
 
 **Période de facturation**: il s’agit de la période pendant laquelle vous avez des utilisations et des services basés sur une licence. 
 
-**Date**de la facture : date de facturation ou date anniversaire à laquelle votre facture est générée chaque mois. 
+**Date** de la facture : date de facturation ou date anniversaire à laquelle votre facture est générée chaque mois. 
 
 **Date d’échéance du paiement**: date à laquelle votre paiement doit être reçu. 
 
@@ -97,3 +93,7 @@ Pour obtenir une description détaillée de tous les champs de votre fichier de 
 ## <a name="understand-reconciliation-files"></a>Comprendre les fichiers de réconciliation
 
  Les fichiers de rapprochement, qui fournissent des détails détaillés sur vos frais, peuvent être téléchargés en même temps que le fichier PDF de la facture. Les fichiers de réconciliation incluent des identificateurs de clients et des identificateurs d’abonnement que vous pouvez utiliser pour créer des factures client. Consultez la rubrique  [utilisation des fichiers de rapprochement](use-the-reconciliation-files.md) pour obtenir plus d’informations sur les fichiers de rapprochement. 
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Comment utiliser les fichiers de rapprochement](use-the-reconciliation-files.md)
