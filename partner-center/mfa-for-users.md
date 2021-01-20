@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97578286"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182373"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Configurer vos utilisateurs avec l’authentification multifacteur
 
@@ -39,11 +39,10 @@ Cette opération active l’authentification multifacteur pour cet utilisateur. 
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Spécifier le mode de vérification":::
 
 >[!NOTE]
->Vous pouvez **contraindre** les utilisateurs à utiliser l’authentification multifacteur en suivant les mêmes étapes que celles ci-dessus et en sélectionnant **Appliquer**. Pour plus d’informations, consultez [Activer l’authentification multifacteur Azure par utilisateur pour sécuriser les événements de connexion](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates). 
+>Vous pouvez **contraindre** les utilisateurs à utiliser l’authentification multifacteur en suivant les mêmes étapes que celles ci-dessus et en sélectionnant **Appliquer**. Pour plus d’informations, consultez [Activer l’authentification multifacteur Azure par utilisateur pour sécuriser les événements de connexion](/azure/active-directory/authentication/howto-mfa-userstates). 
 
 Tous les utilisateurs ont initialement l’état  **Désactivé**. Quand vous inscrivez des utilisateurs à Azure Multi-Factor Authentication par utilisateur, leur état passe à  **Activé**. Quand les utilisateurs activés se connectent et terminent le processus d’inscription, leur état passe à  **Appliqué**. 
 
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Attribuer des rôles et des autorisations aux utilisateurs](permissions-overview.md)
-

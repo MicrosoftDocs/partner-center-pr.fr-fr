@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622165"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182407"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Calcul et paiement du crédit Partenaires
 
@@ -36,7 +36,7 @@ Pour recevoir le crédit partenaire gagné (PEC), les conditions suivantes s’a
 
 - Vous devez avoir un contrat MPN actif et un rôle de contrôle d’accès en fonction du rôle (RBAC) valide pour bénéficier d’un crédit Partenaires pour les ressources Azure que vous gérez.
 
-- Vous devez disposer d’un contrôle et d’une gestion opérationnels 24h/24 et 7j/7 sur les ressources Azure du client dans le cadre du programme Fournisseur de solutions Cloud. Cela signifie que vous devez disposer de privilèges d’administrateur sur l’abonnement Azure, le groupe de ressources Azure et la ressource Azure du client. Dans le cas des fournisseurs indirects et de leurs revendeurs indirects, le fournisseur indirect est éligible au crédit PEC si le fournisseur indirect, le revendeur indirect ou les deux disposent de ce contrôle opérationnel. Pour en découvrir plus à ce sujet, consultez [Rétablir les privilèges d’administrateur pour les abonnements Azure CSP](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- Vous devez disposer d’un contrôle et d’une gestion opérationnels 24h/24 et 7j/7 sur les ressources Azure du client dans le cadre du programme Fournisseur de solutions Cloud. Cela signifie que vous devez disposer de privilèges d’administrateur sur l’abonnement Azure, le groupe de ressources Azure et la ressource Azure du client. Dans le cas des fournisseurs indirects et de leurs revendeurs indirects, le fournisseur indirect est éligible au crédit PEC si le fournisseur indirect, le revendeur indirect ou les deux disposent de ce contrôle opérationnel. Pour en découvrir plus à ce sujet, consultez [Rétablir les privilèges d’administrateur pour les abonnements Azure CSP](./revoke-reinstate-csp.md).
 
 - En plus des exigences ci-dessus, le crédit PEC n’est applicable qu’aux services figurant dans les tarifs de la consommation de plan Azure, que vous pouvez exporter à partir de la page des [tarifs du plan Azure](https://partner.microsoft.com/commerce/sales).
 
@@ -48,7 +48,7 @@ Pour recevoir le crédit partenaire gagné (PEC), les conditions suivantes s’a
 
 - Il est possible d’obtenir un crédit PEC jusqu’au niveau des ressources Azure. Si vous avez un accès valide au niveau de l’abonnement ou du groupe de ressources, chaque ressource qui atteint l’entité supérieure obtient un crédit PEC.
 
-- Les détails du crédit PEC sont également disponibles dans la page [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners).
+- Les détails du crédit PEC sont également disponibles dans la page [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners).
 
 ### <a name="calculation"></a>Calcul
 
