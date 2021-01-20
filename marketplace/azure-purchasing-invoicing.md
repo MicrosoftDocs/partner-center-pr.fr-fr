@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182475"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584202"
 ---
 # <a name="azure-marketplace-purchasing"></a>Achat sur la place de marché Azure
 
@@ -60,6 +60,20 @@ Lorsque vous achetez des produits sur la place de marché Azure, vous souhaitez 
 Vous pouvez voir vos frais et factures de la Place de marché Azure dans l’outil d’analyse des coûts sous Azure Cost Management.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Utilisez Azure Cost Management pour obtenir des informations sur vos produits achetés.":::
+
+## <a name="purchase-validation-checks"></a>Vérifications de validation des achats
+
+L’achat d’une offre via la place de marché Azure peut échouer pour différentes raisons. L’utilisation de l’interface de ligne de commande (CLI) pour un achat est plus susceptible de provoquer des erreurs, car vous essayez peut-être d’acheter une offre qui n’est pas disponible ou visible dans la place de marché Azure. Voici les vérifications pouvant entraîner l’échec d’un achat :
+
+1. L’abonnement appartient à un Accord Entreprise (EA) et l’administrateur EA a désactivé la place de marché Azure.
+1. L’administrateur EA a activé des achats uniquement pour les offres gratuites et l’offre est une offre payante.
+1. L’offre est introuvable sur la place de marché.
+1. L’éditeur de logiciels indépendant (ISV) a cessé de vendre l’offre au moins dans votre région.
+1. L’abonnement que vous utilisez appartient à un compte de facturation dans une région où l’offre n’est pas disponible.
+1. Le compte d’abonnement/de facturation n’est pas associé à un moyen de paiement valide (par exemple, une carte de crédit valide).
+1. L’abonnement appartient à un fournisseur de solutions Cloud (CSP) et l’ISV a refusé de vendre via un CSP.
+1. La place de marché privée est activée pour l’abonnement et l’offre ne figure pas dans la liste des offres autorisées.
+1. L’offre est privée/préliminaire pour des clients spécifiques et l’abonnement ne figure pas dans la liste des clients autorisés.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

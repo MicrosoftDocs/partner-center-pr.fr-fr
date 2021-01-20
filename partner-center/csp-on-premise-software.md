@@ -1,7 +1,7 @@
 ---
 title: Vendre des logiciels locaux par le biais de CSP
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545610"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584166"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
 
@@ -40,17 +40,12 @@ Pour acheter des abonnements logiciels au nom d’un client, accédez à la page
 Une fois que vous avez acheté votre logiciel, vous et vos clients devez le télécharger. Pour ce faire, utilisez la procédure suivante. 
 
 >[!NOTE]
->Vous devez être un agent d’administration pour obtenir des clés et des téléchargements. 
+>Vous devez être un agent d’administration pour obtenir des clés et des téléchargements.
 
-1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors. 
-2.  Développez le produit que vous voulez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous voulez. 
-3.  Sélectionnez **Soumettre** pour afficher les produits spécifiques. 
-4.  Sélectionnez **Obtenir des clés et des téléchargements**. 
-5.  Sélectionnez **Télécharger** pour commencer le téléchargement, ou **Copier le lien** pour copier le lien et l’envoyer au client. 
+1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
+2. Copiez le lien à partir de la **lien vers les clés de produit logicielles et téléchargez** et partagez le lien avec votre client. Lorsqu’ils sélectionnent ce lien, ils sont redirigés vers le portail d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
 
->[!NOTE]
->Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se arrive en premier. Une fois le lien arrivé à expiration, revenez à cette page, puis sélectionnez à nouveau **Obtenir des clés et des téléchargements** pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
-
+Si vous ou vos clients souhaitez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger des logiciels et des clés de licence de produit](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 
