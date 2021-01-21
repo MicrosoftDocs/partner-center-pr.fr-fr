@@ -1,7 +1,7 @@
 ---
 title: Gérer votre compte Espace partenaires
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment utiliser l’Espace partenaires pour gérer le profil, les informations bancaires et fiscales, les rôles et les autorisations de votre entreprise.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011522"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235968"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gérer votre compte Espace partenaires : profil de société, informations bancaires, rôles, autorisations, etc.
 
-**Rôles appropriés** : administrateur général, administrateur MPN
+**Rôles appropriés** : administrateur général
+- Administrateur de compte MPN
 
 Le compte que vous créez dans l’Espace partenaires lors de votre inscription inclut votre adresse e-mail professionnelle et vos données d’entreprise. Une fois que vous avez créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre société en incluant les détails du support, les exonérations fiscales le cas échéant ainsi que les informations de l’interlocuteur principal. Le compte de votre entreprise inclut également les comptes d’utilisateur de toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur des programmes d’incentives et assurer un support.
 
@@ -60,6 +61,10 @@ Utilisez ces pages pour gérer des aspects spécifiques de votre entreprise, com
 ### <a name="legal-info"></a>Informations légales
 
 Quand vous rejoignez l’Espace partenaires, votre société est soumise à un processus de vérification par Microsoft. Vous pouvez effectuer le suivi du statut de cette vérification dans la page **Informations légales**. Cette page indique l’interlocuteur principal (la personne que Microsoft va contacter pour toute question relative au partenaire) et l’interlocuteur légal principal (la personne qui gère les aspects juridiques et l’état). Tous les sites de votre entreprise sont listés et peuvent être ajoutés ici.
+
+### <a name="primary-contact-email"></a>Adresse e-mail du contact principal
+
+L’adresse e-mail du contact principal est celle que nous utiliserons pour vous avertir d’une vérification de votre compte. Il est très important que l’adresse e-mail que vous indiquez pour le contact principal soit une adresse régulièrement supervisée et consultée.  
 
 Découvrez plus en détail la [vérification et les informations associées à votre compte](verification-responses.md).
 
@@ -122,9 +127,9 @@ Les programmes disponibles dans l’Espace partenaires sont nombreux. Chaque pro
 
 Pour en savoir plus sur l’inscription à certains programmes de l’Espace partenaires, consultez la liste (non exhaustive) suivante :
 
-- [Programme Place de marché commerciale](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programme Place de marché commerciale](/azure/marketplace/partner-center-portal/create-account)
 - [Avantages de l’adhésion à Microsoft Partner Network](mpn-overview.md)
-- [Programme Fournisseur de solutions Cloud (CSP)](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Programme Fournisseur de solutions Cloud (CSP)](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Pour en savoir plus sur l’inscription aux programmes de l’Espace partenaires, consultez aussi [Ressources du réseau Partenaires](https://partner.microsoft.com/).

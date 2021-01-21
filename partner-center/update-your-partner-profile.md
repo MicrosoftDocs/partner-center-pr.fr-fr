@@ -6,15 +6,15 @@ description: Découvrez comment vérifier les détails de votre entreprise comme
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666789"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235917"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Vérifier les informations de profil de votre organisation dans l’Espace partenaires
 
@@ -27,6 +27,12 @@ La première fois que vous vous connectez à l’Espace partenaires en tant qu�
 
 Votre profil de partenaire est constitué des informations de votre entreprise légale, du nom et de l’adresse e-mail du contact principal, des programmes auxquels votre entreprise participe et, le cas échéant, de vos autres sociétés qui sont à présent fusionnées dans votre entreprise légale. Vérifiez que le nom et l’adresse de la société dans votre profil d’entreprise juridique sont exempts de fautes d’orthographe et d’abréviations, et qu’ils correspondent exactement à ceux figurant au registre officiel des entreprises. Si vous êtes propriétaire d’une entreprise individuelle, vous devez utiliser le nom de votre société comme nom légal.
 
+>[!Important]
+>- Pour les comptes MPN, l’administrateur général et l’administrateur de compte peuvent tous deux mettre à jour la dénomination sociale de l’entreprise.
+>- Pour les comptes CSP Indirect Reseller, l’administrateur général peut mettre à jour la dénomination sociale de l’entreprise. 
+
+## <a name="locate-the-legal-business-profile"></a>Localiser le profil de l’entreprise légale
+
 1. Accédez à l’icône **Paramètres**, puis sélectionnez **Paramètres du compte**.
  
 1. Sélectionnez **Profil de l’organisation**. 
@@ -37,15 +43,15 @@ Si vous avez fusionné vos autres sociétés dans le cadre légal de vos activit
 
 ## <a name="update-your-legal-business-profile"></a>Mettre à jour le profil de l’entreprise légale
 
-Vous pouvez maintenant mettre à jour votre adresse légale sur l’Espace partenaires.
+Mettez à jour votre adresse légale dans l’Espace partenaires.
 
-1. Accédez à **Paramètres**, puis sélectionnez **Profil de l’organisation**
+1. Accédez à **Paramètres**, puis sélectionnez **Profil de l’organisation**.
 
 
 2. Sélectionnez **Informations légales**, puis le profil métier légal à utiliser.
 
 >[!Important]
->Si vous êtes partenaire Fournisseur de solutions Cloud, vous ne pouvez pas changer le pays associé à votre adresse légale. Le pays de votre adresse légale est lié à votre locataire et à vos services ainsi qu’à la devise dans laquelle vous faites des affaires. Si vous ne faites pas parti du programme CSP, vous pouvez changer le pays associé à votre adresse légale. Le nom de la société légale ne peut pas être mis à jour dans l’Espace partenaires si votre statut est « Autorisé ». Vous devez [créer un ticket de support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Si vous êtes partenaire Fournisseur de solutions Cloud, vous ne pouvez pas changer le pays associé à votre adresse légale. Le pays de votre adresse légale est lié à votre locataire et à vos services ainsi qu’à la devise dans laquelle vous faites des affaires. Si vous ne faites pas partie du programme CSP, vous pouvez changer le pays associé à votre adresse légale. La dénomination sociale de l’entreprise ne peut pas être mis à jour dans l’Espace partenaires si votre état de validation est « Autorisé ». Si vous avez besoin de changer le nom, vous devez [créer un ticket de support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Quand vous sélectionnez **Soumettre**, votre identité légale est réévaluée, et vous recevez un autre e-mail que vous devez accepter.
 
@@ -78,10 +84,7 @@ Si vous êtes administrateur général, administrateur de facturation ou agent a
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-
 - [Consulter le statut de votre vérification](verification-responses.md)
  
 - [Gérer les localisations MPN](manage-locations.md)
-
-
 

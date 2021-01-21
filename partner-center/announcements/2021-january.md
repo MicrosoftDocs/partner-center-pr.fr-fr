@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.date: 01/15/2021
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062448"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571667"
 ---
 # <a name="january-2021-announcements"></a>Annonces de janvier 2021
 
@@ -23,6 +23,207 @@ Cette page détaille les annonces de l’Espace partenaires Microsoft du mois de
 Annonces 2021 : Janvier
 
 Annonces 2020 : [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | [Septembre](2020-september.md) | [Octobre](2020-October.md) | [Novembre](2020-november.md) | [Décembre](2020-december.md)  
+
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Logiciels perpétuels désormais en disponibilité générale pour le programme Fournisseur de solutions Cloud
+
+### <a name="categories"></a>Catégories
+
+- Date : 19-01-2021
+- Développer votre activité
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires fournisseurs de solutions Cloud
+
+### <a name="details"></a>Détails
+
+Comme [annoncé](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) aujourd’hui, nous avons le plaisir de vous informer que les licences logicielles perpétuelles commerciales sont désormais en disponibilité générale et peuvent être vendues par tous les partenaires fournisseurs de solutions Cloud. Le tarif des logiciels perpétuels Fournisseur de solutions Cloud de l’Espace partenaires a été republié et inclut désormais des produits et zones géographiques supplémentaires.
+
+De même, il est à noter qu’à partir d’aujourd’hui, les logiciels de l’Espace partenaires et la fonctionnalité d’octroi de clés de licence ont été mis hors service et que les partenaires et les clients doivent à cette fin utiliser dorénavant le Centre d’administration Microsoft 365.
+Vous trouverez ci-dessous des détails supplémentaires ainsi que les étapes à suivre.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Téléchargez le tarif des **logiciels perpétuels Fournisseur de solutions Cloud** dans la section **Logiciels** de la page [Tarifs et offres](https://partnercenter.microsoft.com/en-us/pcv/sales) de l’Espace partenaires. Vous trouverez [ici](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) la liste des produits et des zones géographiques nouvellement ajoutés.
+- Consultez l’[article décrivant la procédure de téléchargement des clés de licence produit et des logiciels perpétuels du Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2152525) et partagez-le avec vos clients dès qu’ils sont prêts à télécharger leurs logiciels et clés de licence.
+- Consultez les supports de préparation [Logiciels perpétuels dans le programme Fournisseur de solutions Cloud](https://partner.microsoft.com/resources/collection/software-in-csp#/). Utilisez cette [carte de préparation](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) pour localiser rapidement les informations appropriées pour votre rôle.
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Pour toute autre question, consultez les communautés Yammer CSP appropriées.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Rappel : Introduction de la limitation des API pour les partenaires appelant les API de l’Espace partenaires 
+
+### <a name="categories"></a>Catégories
+
+- Date : 19-01-2021
+- Développer votre activité
+
+### <a name="summary"></a>Résumé
+
+Microsoft prévoit d’implémenter la limitation des API de façon à faire bénéficier les partenaires appelant les API de l’Espace partenaires d’un niveau de performance homogène dans un laps de temps donné.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires effectuant des transactions commerciales dans le cadre du programme Fournisseur de solutions cloud  
+
+### <a name="details"></a>Détails
+
+À compter du mois de février 2021, Microsoft implémentera la limitation des API de façon à faire bénéficier les partenaires appelant les API de l’Espace partenaires d’un niveau de performance homogène dans un laps de temps donné. La limitation restreint le nombre de requêtes pouvant être adressées à un service dans un laps de temps donné pour empêcher une surutilisation de ressources. Quand un seuil de limitation est dépassé, l’Espace partenaires limite les requêtes supplémentaires en provenance du client pendant un certain temps.
+  
+**Avantages pour les partenaires :** L’Espace partenaires est conçu pour gérer un gros volume de requêtes, mais si un nombre excessif de requêtes est le fait de quelques partenaires, la limitation permet de maintenir un niveau de performance et une fiabilité optimum pour tous les partenaires.  
+
+- La limitation garantit un temps d’arrêt minimal.
+- La limitation réduit le nombre de requêtes volumineuses, ce qui permet de garantir un niveau de performance homogène pour tous les partenaires.
+
+**API devant être limitées :**
+
+| Opération | Documentation sur l’Espace partenaires |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Obtenir un abonnement par ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [Obtenir toutes les commandes client](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obtenir une commande par ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [Obtenir l’état de provisionnement d’un abonnement](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Gérer les commandes et gérer un abonnement](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [Obtenir la liste des extensions d’un abonnement](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [Obtenir la liste des droits Azure d’un abonnement](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [Obtenir l’état d’inscription d’un abonnement](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [Obtenir tous les transferts d’un client](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Obtenir l’état de mise à niveau du produit](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Obtenir la liste des offres de conversion d’essai](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Nous recommandons vivement aux partenaires de considérer l’utilisation de l’API du journal d’activité pour bénéficier d’une plus grande efficacité et éviter la limitation. Pour plus d’informations sur cette fonctionnalité, consultez les détails fournis  [ici](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Examinez les  [ressources](/partner-center/develop/api-throttling-guidance) traitant de la question et prenez les mesures nécessaires.  
+
+_____________
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Lancement de SCI (Security, Compliance, and Identity) le 1er février 2021 
+
+### <a name="categories"></a>Catégories
+
+- Date : 15-01-2021
+- Offres/marchés
+
+### <a name="summary"></a>Résumé
+
+Plusieurs lancements Microsoft 365 seront inclus dans la préversion du tarif de janvier et seront disponibles à partir du 1er février 2021.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires effectuant des transactions commerciales dans le cadre du programme Fournisseur de solutions cloud
+
+### <a name="details"></a>Détails
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Références SKU des composants de conformité Microsoft 365 G5 pour le secteur public](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+Nous prévoyons de lancer trois nouvelles offres de composants pour les clients du Cloud de la communauté du secteur public (GCC) et GCC High, qui seront disponibles à partir du 1er février 2021. Ces références SKU seront l’équivalent de Microsoft 365 E5 Information Protection and Governance, M365 E5 Insider Risk Management et Microsoft 365 E5 eDiscovery & Audit, qui sont actuellement disponibles dans Commercial. 
+
+   |**Nom de l'offre**|**ID de l’offre**|**ID de contenu**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E5 Information Protection and Governance pour le Cloud de la communauté du secteur public (GCC)|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Microsoft 365 E5 eDiscovery and Audit pour le Cloud de la communauté du secteur public (GCC)|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Microsoft 365 E5 Insider Risk Management pour le Cloud de la communauté du secteur public (GCC)|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |Microsoft 365 E5 Information Protection and DLP (extension) pour le Cloud de la communauté du secteur public (GCC)|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[Extension de rétention des journaux d’audit pour une durée de 10 ans](/microsoft-365/compliance/)
+
+Une extension accessible aux clients disposant de Microsoft 365 E5 (prérequis) permettra à ceux-ci de conserver leurs données pendant 10 ans. 
+
+   |**Nom de l'offre**|**ID de l’offre**|**ID de contenu**|
+   |-------------------|:------|:------|
+   |Extension de rétention des journaux d’audit pour une durée de 10 ans pour EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |Extension de rétention des journaux d’audit pour une durée de 10 ans|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>Extensions pour le personnel de première ligne
+
+À partir du 1er février 2021, les clients pourront acheter trois nouvelles offres programmatiques Security and Compliance pour le personnel de première ligne sous forme d’extensions des [références SKU Microsoft 365 F1 et F3](https://www.microsoft.com/microsoft-365/firstline-workers).
+
+Ces offres programmatiques remplaceront la promotion [Security and Compliance](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) actuelle qui arrivera à expiration le **28 février 2021**. Contrairement à la promotion actuelle, les extensions F5 offriront aux clients une plus grande capacité de prédiction à mesure de l’augmentation de l’effectif de première ligne.
+
+   
+   |**Nom de l'offre**|**ID de l’offre**|**ID de contenu**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5 Security|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 F5 Compliance|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Microsoft 365 F5 Security & Compliance|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>Étapes suivantes
+
+Passez en revue la préversion du tarif et partagez-la avec les parties prenantes appropriées au sein de votre organisation. Pour plus d’informations, consultez [Microsoft Security and Compliance - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Si vous avez d’autres questions sur ces offres, consultez vos communautés Yammer appropriées. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>Migration de DocuSign vers Adobe Sign pour les partenaires sous contrat Partenaire Microsoft (MPA) 
+
+### <a name="categories"></a>Catégories
+
+- Date : 15-01-2021
+- Fonctions
+
+### <a name="summary"></a>Résumé
+
+Microsoft fera passer l’ensemble du traitement des signatures électroniques de DocuSign vers Adobe Sign.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires fournisseurs de solutions Cloud directs et indirects existants sous contrat MPA. Les partenaires situés en Ukraine, en Russie et au Kazakhstan seront tenus de resigner physiquement ou par voie électronique un avenant annuel.
+
+### <a name="details"></a>Détails
+
+En février 2021, Microsoft commencera à opérer la transition de l’ensemble du traitement des signatures électroniques de DocuSign vers Adobe Sign pour les partenaires fournisseurs de solutions Cloud. 
+
+Vous devez vous attendre à une transition en douceur. Une fois la migration effectuée, vous recevrez un e-mail de adobesign@adobesign.com, et non de DocuSign, chaque fois que votre signature électronique sera requise. Vous trouverez dans cet e-mail un lien vers la page web Adobe Sign dans laquelle vous devrez déposer votre signature. Les partenaires Microsoft n’auront pas à resigner les contrats existants, mais seulement les futurs contrats de distribution. 
+
+Vous trouverez un exemple d’e-mail de demande Adobe Sign dans la [galerie de ressources](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
+
+**Pour une expérience optimale, veillez à effectuer ce qui suit :**
+
+1. Ajoutez adobesign@adobesign.com à votre liste d’expéditeurs approuvés pour éviter que les e-mails en provenance de ce compte atterrissent directement dans votre dossier de courrier indésirable.
+2. Rapprochez-vous de votre service informatique pour :
+   - Ajouter l’adresse e-mail adobesign@adobesign.com à la liste des expéditeurs approuvés pour faire en sorte qu’elle ne soit pas incluse dans une règle d’hameçonnage préétablie.
+   - Mettez à jour les stratégies de sécurité existantes de sorte que tous les destinataires requis puissent signer la documentation dans le cadre de votre licence d’entreprise Adobe Sign.
+
+Adobe Sign est la solution de signature électronique préférée de Microsoft. La transition vers Adobe Sign garantira une expérience de signature électronique sécurisée et efficace, qui offrira une valeur ajoutée à nos clients et partenaires.
+
+Pour plus d’informations sur la façon de signer électroniquement les documents et sur la délégation des signatures électroniques, consultez les **tutoriels** suivants : 
+- [Electronically sign a document | Tutoriels Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegate someone else to sign a document | Tutoriels Adobe Sign](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Partagez ces informations avec les parties prenantes concernées de votre organisation.
+
+### <a name="questions"></a>Des questions ?
+
+Si vous avez des questions, contactez votre centre régional des opérations en utilisant l’outil [CLT (Call Logging Tool)](https://clt.partners.extranet.microsoft.com/CLT) ou via [Explore MS](https://www.explore.ms/). Suivez précisément le processus CLT standard pour nous permettre de résoudre votre requête aussi rapidement que possible.
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Mise à jour des prix appliqués pour la couronne norvégienne 
+
+### <a name="categories"></a>Catégories
+
+- Date : 14-01-2021
+- Offres/marchés
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires fournisseurs de solutions Cloud utilisant la couronne norvégienne.
+
+### <a name="details"></a>Détails
+
+À partir du 1er mars 2021, les prix exprimés en couronne norvégienne pour les logiciels locaux et les services en ligne commerciaux changeront pour être réalignés sur les niveaux de prix en vigueur dans la région.
+L’annonce complète est accessible uniquement aux partenaires Microsoft. [Connectez-vous pour accéder à l’annonce complète](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 
