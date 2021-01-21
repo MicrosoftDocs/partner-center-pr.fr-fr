@@ -1,7 +1,7 @@
 ---
 title: En savoir plus sur les spécialisations avancées
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Renforcez votre profil d’entreprise dans le répertoire des partenaires Microsoft. En savoir plus sur les spécialisations avancées que vous pouvez atteindre avec vos compétences Gold et Silver existantes.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204017"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658397"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Obtenez une spécialisation avancée pour présenter vos fonctionnalités validées
 
@@ -45,6 +45,7 @@ Chaque spécialisation avancée correspond à une zone de solution :
 
 Les spécialisations avancées d' **Azure** incluent :
 
+- Analyse sur Microsoft Azure
 - Migration d’un entrepôt de données vers Microsoft Azure
 - Kubernetes sur Microsoft Azure
 - Migration de bases de données Linux et open source vers Microsoft Azure
