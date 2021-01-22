@@ -1,7 +1,7 @@
 ---
 title: Demander des spécialisations avancées
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Renforcez votre profil d’entreprise dans le répertoire des partenaires Microsoft. Découvrez comment utiliser l’espace partenaires pour demander et gagner des spécialisations avancées.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440042"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658414"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Utiliser l’espace partenaires pour demander des spécialisations avancées et vérifier leur état
 
@@ -60,17 +60,18 @@ Les deux tâches peuvent être effectuées dans l’espace partenaires.
 
 Les spécialisations avancées qui requièrent un audit avec un auditeur tiers sont les suivantes :
 
-- Migration de Data Warehouse vers Microsoft Azure
+- Analyse sur Microsoft Azure
+- Migration d’un entrepôt de données vers Microsoft Azure
 - Kubernetes sur Microsoft Azure
 - Migration de bases de données Linux et open source vers Microsoft Azure
-- Bureau virtuel Microsoft Windows
-- Modernisation des applications Web pour Microsoft Azure
-- Migration de Windows Server et de SQL Server vers Microsoft Azure
+- Microsoft Windows Virtual Desktop
+- Modernisation des applications web pour Microsoft Azure
+- Migration de Windows Server et SQL Server vers Microsoft Azure
 
 Les spécialisations avancées qui nécessitent des références clientes sont les suivantes :
 
 - Adoption et gestion des modifications
-- Appeler pour Microsoft teams
+- Appel pour Microsoft Teams
 - Réunions et salles de réunion pour Microsoft teams
 - SAP sur Azure
 - Déploiement du travail d’équipe
