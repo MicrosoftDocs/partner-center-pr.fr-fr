@@ -1,20 +1,20 @@
 ---
 title: Fournir un support à vos clients
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 01/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez les responsabilités du support client pour les partenaires du programme CSP, y compris des détails sur la facturation, la gestion des abonnements et les problèmes techniques.
+description: En savoir plus sur les responsabilités du support technique pour les partenaires du programme CSP. Couvre la prise en charge de la facturation, de la gestion des abonnements et des problèmes techniques.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec9c80d7e57e0252f68f7ed7f7b0f73f8812de9d
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f32c9b2db500fabe982c364e24f94fc449bc5218
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032042"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717672"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fournir différents types de support à vos clients
 
@@ -26,21 +26,19 @@ ms.locfileid: "92032042"
 
 ## <a name="microsoft-partner-support-guidance"></a>Guide de support partenaires Microsoft
 
-Les partenaires qui coopèrent dans le modèle CSP sont le conseiller approuvé pour leurs clients et, si vous êtes un partenaire direct, êtes propriétaire de la relation de bout en bout. Les revendeurs indirects doivent travailler avec leurs fournisseurs indirects pour prendre en charge les clients. Cette relation comprend la prise en charge de vos clients lorsqu’ils ont des questions ou des problèmes. En fournissant un support à vos clients, vous avez la possibilité d’en savoir plus sur eux et leurs activités. Cela vous aidera à identifier les nouveaux services et solutions qui génèrent de la valeur.
+Les partenaires qui coopèrent dans le modèle CSP sont le conseiller approuvé pour leurs clients et, si vous êtes un partenaire direct, êtes propriétaire de la relation de bout en bout. Les revendeurs indirects doivent travailler avec leurs fournisseurs indirects pour prendre en charge les clients. Cette relation comprend la prise en charge de vos clients lorsqu’ils ont des questions ou des problèmes. En fournissant un support à vos clients, vous avez la possibilité d’en savoir plus sur eux et leurs activités. Cela vous permet d’identifier les nouveaux services et solutions qui déterminent la valeur du pilote.
 
-Pour satisfaire aux exigences de support, vous pouvez revendre le support d’une autre société, sous-traitant tout ou partie de la structure de support et/ou configurer une structure pour fournir une prise en charge directe. Vous pouvez payer tout ou partie du support fourni aux clients. Veillez à expliquer à vos clients les types de support que vous allez fournir, les heures de service, la méthode de contact et la tarification (si vous êtes facturé pour le support).
+Pour satisfaire aux exigences de support, vous pouvez revendre le support à partir d’une autre société, sous-traiter tout ou partie de la structure de support et/ou configurer une structure pour fournir une prise en charge directe. Vous pouvez payer tout ou partie du support fourni aux clients. Veillez à indiquer aux clients les types de support que vous allez fournir, les heures de service, la méthode de contact et la tarification (si vous êtes facturé pour le support).
 
 Les clients CSP ne peuvent pas créer eux-mêmes des tickets de support. Ils doivent vous contacter pour obtenir de l’aide. Les partenaires CSP sont tenus de recevoir les demandes de support entrantes de la part de leurs clients, de diagnostiquer les problèmes pour le meilleur de votre capacité, puis de résoudre les problèmes qui se trouvent dans l’étendue des limites de support de base. Si vous ne parvenez pas à résoudre un problème, vous pouvez faire remonter les problèmes à Microsoft via les supports suivants :
 
 - La prise en charge d’un problème **commercial** est disponible pour tous les partenaires du programme CSP
 
-- La prise en charge des problèmes **techniques** est disponible via :
+- Support **technique** : vous pouvez [comparer les plans de support partenaires](https://partner.microsoft.com/support/partnersupport) ou voir ci-dessous pour plus d’informations sur un plan de support spécifique :
 
-    - Support Premier pour les partenaires (frais de base)
-
-    - Support avancé pour les partenaires (frais de base)
-
-    - Support du Cloud de signature (inclus avec la compétence Gold/Silver)
+  - [Support premier pour les partenaires](https://partner.microsoft.com/support/microsoft-services-premier-support) (frais de base)
+  - [Support avancé pour les partenaires](https://partner.microsoft.com/support/advanced-cloud-support) (frais de base)
+  - [Support du Cloud de signature](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits) (inclus avec la compétence Gold/Silver)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
@@ -54,9 +52,9 @@ Chaque service en ligne a des exigences spécifiques et détaillées pour fourni
 
 
 
- 
+ 
 
- 
+ 
 
 
 
