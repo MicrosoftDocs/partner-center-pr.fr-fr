@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685903"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717843"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 | **Catégorie** | **Annonces de janvier 2021** | **Annoncé** |
 |---------|:---------|:---------|
+|Fonctions|[Changements dans le journal d’audit de l’Espace partenaires avec l’ajout de deux nouveaux types d’opération pour DAP](2021-january.md#13)|25 janvier|
 |Fonctions|[Changements dans la disponibilité des offres Azure dans CSP relatifs à la nouvelle expérience commerciale de CSP pour Azure](2021-january.md#12)|21 janvier|
 |Développer votre activité|[Logiciels perpétuels maintenant en disponibilité générale pour le programme Fournisseur de solutions Cloud](2021-january.md#11)|19 janvier|
 |Développer votre activité|[Rappel : Introduction de la limitation des API aux partenaires appelant les API de l’Espace partenaires](2021-january.md#10)|19 janvier|
