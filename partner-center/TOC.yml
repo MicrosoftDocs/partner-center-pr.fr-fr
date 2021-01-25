@@ -110,6 +110,9 @@
     - name: Contrat Partenaire Microsoft - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter un contrat MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: Conditions requises pour les partenaires directs CSP
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
