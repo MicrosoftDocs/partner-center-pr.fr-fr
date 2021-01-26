@@ -1,7 +1,7 @@
 ---
 title: Gérer les sites dans votre compte partenaire
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment ajouter une nouvelle localisation et comment l’ID MPN de localisation est utilisé dans les programmes d’incentives, l’activité CSP, les abonnements et autres transactions.
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514795"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773426"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gérer les localisations de votre compte MPN et ajouter une nouvelle localisation
 
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -38,7 +35,7 @@ Contoso a son compte global de partenaire (PGA) au Royaume-Uni. Il s’agit de l
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Structure des localisations MPN":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Prérequis pour pouvoir ajouter une nouvelle localisation pour une activité CSP
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Prérequis pour l’ajout d’une nouvelle localisation de compte pour une activité CSP
 
 Pour ajouter une nouvelle localisation d’activité CSP, il y a plusieurs prérequis :
 
