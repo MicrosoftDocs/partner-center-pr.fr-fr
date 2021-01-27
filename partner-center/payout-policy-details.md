@@ -1,20 +1,20 @@
 ---
-title: Planifications et processus de paiement
+title: Planifications et traitements des paiements
 description: En savoir plus sur les versements et les transactions, tels que les calendriers de paiement et les processus de remboursement pour la place de marché commerciale et les autres transactions.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492668"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861408"
 ---
-# <a name="payout-schedules-and-processes"></a>Planifications et processus de paiement
+# <a name="payout-schedules-and-processes"></a>Planifications et traitements des paiements
 
 **Rôles appropriés :**
 
@@ -25,11 +25,11 @@ Cet article décrit le calendrier de paiement de Microsoft, où trouver l’éta
 
 ## <a name="payment-schedules"></a>Calendriers de paiement
 
-Les sections suivantes décrivent notre processus de paiement des **accord entreprise** et des transactions par **carte de crédit/facture** .
+Les sections suivantes décrivent notre processus de paiement des **contrat entreprise** et des transactions par **carte de crédit/facture** .
 
-### <a name="enterprise-agreement-transactions"></a>Transactions Accord Entreprise
+### <a name="enterprise-agreement-transactions"></a>Transactions Contrat Entreprise
 
-Lorsqu’un client achète un produit à partir de Microsoft AppSource ou de la place de marché Azure à l’aide de ses Accord Entreprise Microsoft existantes pour les transactions, nous détenons des paiements dans le cycle de paiement suivant 30 jours après la facture client. Les transactions pour lesquelles un client utilise une carte de crédit ont une période de 30 jours avant paiement.
+Lorsqu’un client achète un produit à partir de Microsoft AppSource ou de la place de marché Azure à l’aide de ses Contrat Entreprise Microsoft existantes pour les transactions, nous détenons des paiements dans le cycle de paiement suivant 30 jours après la facture client. Les transactions pour lesquelles un client utilise une carte de crédit ont une période de 30 jours avant paiement.
 
 Un paiement se produit souvent avant que Microsoft ne collecte le paiement du client. Consultez la section [processus pour le non-paiement du client](#process-for-customer-non-payment) ci-dessous pour les actions que nous prenons si le client ne parvient pas à payer Microsoft, mais que nous avons déjà émis un paiement.
 
@@ -37,6 +37,7 @@ Un paiement se produit souvent avant que Microsoft ne collecte le paiement du cl
 | --- | --- | --- | --- |
 | Utilisation ou mois de transaction | Le client utilise ou achète un service. | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 1** |
 | Microsoft calcule le montant de facturation | Déterminer l’utilisation totale, total des transactions | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 2** |
+| Facture payée par le client | Microsoft collecte le paiement du client | Aucun changement | **Mois 2** |
 | Paiement Posté | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
 | Préparer le paiement | Les bénéfices sont préparés pour le paiement mensuel | Marqué comme étant à venir dans l’historique des transactions dans le [relevé de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
 | **Paiement envoyé** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l' [instruction de paiement](payout-statement.md)** | **Mois 3 (au plus tard le 15)** |

@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution partenaire-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En savoir plus sur les partenaires PCI (Partner contribution Indicator) qui doivent se réunir pour pouvoir atteindre les petites et moyennes compétences en solutions Cloud.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204113"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861425"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilisez les indicateurs de contribution partenaire pour atteindre les petites et moyennes compétences en solutions Cloud
 
@@ -157,13 +157,12 @@ NET New revenue est un [indicateur de performance](partner-contribution-indicato
 - NET New revenu est défini en tant que nouveau revenu facturé net sur tous les canaux de vente pour les produits Dynamics 365 éligibles.
 - NET New revenu est totalisé sur une période de 12 mois à la fin avec un maximum de 10 points.
 - Les points pour les nouveaux revenus nets sont calculés comme des factures moins de crédits et agrégés sur 12 mois.
-- Le chiffre d’affaires net New est calculé sur la base des produits admissibles qui suivent le chemin d’engagement du client ou le chemin Finance and Operations :
+- NET New revenu est calculé sur la base de n’importe quelle combinaison des éléments suivants :
   - Dynamics 365 engagement client : les produits éligibles sont les suivants : ventes, marketing, service clientèle, service clientèle, Project Server, plan 1, automatisation, marketing, ventes Microsoft Relationship
-  - Les produits de financement et d’exploitation sont les suivants : Business central, capacité et stockage, finance et opérations (y compris la protection contre la fraude, les opérations, la vente au détail, les RH, le plan 2), la réalité mixte, le membre de l’équipe
-  - Dynamics 365 Business Central
-
-- Les canaux de vente incluent Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
-- Pour Accord Entreprise revenus uniquement : ce chiffre d’affaires comprend le chiffre d’affaires de la première année de l’accord. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.
+  - Les produits de finance et d’exploitation sont les suivants : Dynamics 365 Business central, Capacity and Storage, Finance and Operations (y compris la protection contre la fraude, les opérations, la vente au détail, les RH, le plan 2), la réalité mixte, le membre de l’équipe
+  
+- Les canaux de vente incluent Contrat Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
+- Pour Contrat Entreprise revenus uniquement : ce chiffre d’affaires comprend le chiffre d’affaires de la première année de l’accord. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Définitions pour la métrique PCI #2-le client net ajoute
 
@@ -183,7 +182,7 @@ L’ajout du client net est un [indicateur de performance](partner-contribution-
 
 - Les points maximaux et partiels peuvent être obtenus pour les ajouts du client net.
 
-- Les canaux de vente incluent Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
+- Les canaux de vente incluent Contrat Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
 
 - Pour plusieurs partenaires ou clients ou clients travaillant directement avec Microsoft : il existe différents calculs d' **ajouts** **et de clients pour** les cas où plusieurs partenaires sont associés au même client par le biais de différents abonnements ou lorsque le client peut déjà travailler directement avec Microsoft. Ces calculs apparaissent ci-dessous.
 
