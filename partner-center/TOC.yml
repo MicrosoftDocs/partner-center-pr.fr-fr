@@ -51,6 +51,9 @@
         - name: Trouver vos avantages MPN
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: Payer les frais de compétence
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: Compétences
       items:
         - name: En savoir plus sur les compétences
