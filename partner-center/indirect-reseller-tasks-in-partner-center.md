@@ -1,29 +1,27 @@
 ---
 title: Coopérer avec des fournisseurs indirects dans le programme CSP
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les revendeurs indirects peuvent coopérer avec des fournisseurs indirects Microsoft (ou distributeurs) afin d’obtenir de l’aide pour le support technique et la facturation.
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636022"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773450"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
-
-- Tous les partenaires Microsoft désireux de s’inscrire au programme Fournisseur de solutions Cloud
-
+- Administrateur général
 
 La demande en croissance rapide de services et solutions cloud offre de nombreuses opportunités pour les partenaires Microsoft de toutes tailles de créer des activités de solutions cloud rentables. Les partenaires qui sont prêts à entrer sur le marché mais qui ne souhaitent pas avoir à gérer plusieurs fournisseurs ou qui n’ont pas mis en place d’infrastructure de gestion des relations client de bout en bout peuvent s’inscrire au programme Fournisseur de solutions Cloud (CSP) de Microsoft en tant que revendeurs indirects.
 
@@ -80,12 +78,11 @@ Pour plus d’informations sur les conditions à remplir pour vendre dans le cad
 
 5. Associez votre ID MPN à votre locataire d’ID Azure.
 
-    1. Sélectionnez **Identificateurs** à partir de **Paramètres de compte**.
-
-    1. Dans la section **CSP**, utilisez le lien **Mettre à jour** pour mettre à jour l’ID MPN associé à votre compte CSP. 
- 
+    1. Connectez-vous avec votre compte MPN. Accédez à **Paramètres** -> **Paramètres du compte** -> **Profil de l’organisation** -> **Identificateurs**. Visualisez vos ID MPN et sélectionnez celui dont le pays correspond à celui de votre compte CSP. En d’autres termes, votre compte CSP et l’ID MPN associé doivent se trouver dans le même pays ou la même région.
+    
+     
  > [!IMPORTANT]  
-   > Sélectionnez l’ID MPN associé au profil d’entreprise actif situé dans le même pays ou la même région que votre locataire Azure AD.
+   > Sélectionnez l’ID MPN qui se trouve dans le même pays ou la même région que votre compte CSP.
 
 6. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
@@ -146,5 +143,5 @@ Le lieu où vous exercez en tant que revendeur indirect CSP avec votre sociét�
 - [Créer un profil professionnel](create-a-marketing-profile.md)
 
 - [En savoir plus sur le processus de vérification](verification-responses.md)
- 
+
 - [Voir les conditions pour les partenaires de facturation directs](direct-partner-new-requirements.md)

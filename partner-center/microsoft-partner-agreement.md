@@ -1,20 +1,20 @@
 ---
 title: Contrat Partenaire Microsoft (MPA) pour le programme Fournisseur de solutions Cloud
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les exigences auxquelles doivent satisfaire les partenaires du programme Fournisseur de solutions Cloud pour signer et vérifier ce Contrat Partenaire Microsoft (MPA) unifié et accepté numériquement.
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105509"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773473"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -68,6 +68,20 @@ Pour continuer à participer au programme Fournisseur de solutions Cloud (CSP), 
 
 N’oubliez pas d’accepter la demande de relation CSP avec votre fournisseur indirect.
 
+## <a name="sign-the-mpa"></a>Signer le Contrat Partenaire Microsoft (MPA)
+
+1. Connectez-vous à l’Espace partenaires en utilisant votre compte CSP Indirect Reseller. Vous devez être administrateur général.
+1. Accédez à la page **[Vue d’ensemble du programme CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Si vous ne voyez pas **Accepter et continuer** ou la bannière verte indiquant que le Contrat Partenaire Microsoft est signé, c’est que vous ne disposez pas du rôle approprié pour signer ce contrat. Contactez votre administrateur général pour qu’il signe le Contrat Partenaire Microsoft.
+
+1. Pour visualiser et télécharger le **Contrat Partenaire Microsoft** avant de le signer, cliquez sur le lien Contrat Partenaire Microsoft comme indiqué ci-dessous.
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nouvel emplacement du Contrat Partenaire Microsoft":::
+
+>[!NOTE]
+>Si vous ne voyez pas le lien **Contrat Partenaire Microsoft**, vérifiez votre rôle dans l’Espace partenaires. Seuls les administrateurs généraux du locataire CSP peuvent visualiser et signer le Contrat Partenaire Microsoft dans l’Espace partenaires. Pour vérifier votre rôle, accédez à **Gestion des utilisateurs** et vérifiez que **Administrateur général** est indiqué pour le compte connecté. Si ce n’est pas le cas, ce compte ne peut pas être utilisé pour signer le Contrat Partenaire Microsoft. Vous pouvez rechercher les administrateurs généraux de votre entreprise sur la page Gestion des utilisateurs.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Comment trouver votre rôle":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Vérifier que vous avez signé le Contrat Partenaire Microsoft
 
 Pour voir si vous avez signé le Contrat Partenaire Microsoft :
@@ -75,17 +89,17 @@ Pour voir si vous avez signé le Contrat Partenaire Microsoft :
  En tant qu’administrateur général de votre entreprise, accédez à votre [vue d’ensemble CSP](https://partner.microsoft.com/pcv/dashboard/overview) et vérifiez la présence de la bannière verte, qui indique que vous avez accepté le Contrat Partenaire Microsoft.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="Bannière verte montrant l’acceptation du Contrat Partenaire Microsoft":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Bannière verte montrant l’acceptation du Contrat Partenaire Microsoft":::
 
 >[!NOTE]
 >Seul l’administrateur général de votre entreprise peut voir et signer le Contrat Partenaire Microsoft. Si vous n’êtes pas l’administrateur général, vous devez demander à votre administrateur général de vérifier le Contrat Partenaire Microsoft.
 
 Vous pouvez également voir si vous avez signé le contrat en sélectionnant **Contrats** dans **Paramètres du compte**.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="Indique que le Contrat Partenaire Microsoft est signé":::
+:::image type="content" source="images/agreement-new.png" alt-text="Indique que le Contrat Partenaire Microsoft est signé":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Télécharger le guide pas à pas correspondant à votre situation
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Télécharger le guide pas à pas correspondant à votre situation dans le processus de signature du Contrat Partenaire Microsoft
 
 1. Si vous effectuez la migration de votre compte MPN entre PMC et l’Espace partenaires : [Migrer de PMC vers l’Espace partenaires et accepter le Contrat Partenaire Microsoft](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

@@ -1,7 +1,7 @@
 ---
 title: Facturation du plan Azure – Fichiers de facturation et de rapprochement
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment accéder à la structure des fichiers de facturation et de rapprochement liée à la facturation pour le plan Azure et comment la comprendre.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534690"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658431"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
@@ -140,9 +140,7 @@ Pour accéder à la facture et au fichier de rapprochement :
 
 Les services Azure fournis par l’intermédiaire d’un plan Azure sont facturés en USD et facturés dans la devise officielle du pays du client. Si la devise de facturation n’est pas USD, le taux de change utilisé est indiqué à la dernière page de la facture. Les taux de change sont déterminés tous les mois et appliqués à la facture suivante. Pour obtenir la liste complète des devises des pays, consultez la [grille des devises client et la disponibilité des offres de nouveau commerce par pays](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft utilise Thomson Reuters pour déterminer les taux de change permettant d’effectuer la conversion de la devise de tarification en devise de facturation. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
-
-**Exemple**:  Les frais d’utilisation pour la période de service qui va du 1er au 31 août sont facturés à l’aide du taux de change publié le 31 juillet. Ces frais apparaissent dans la facture de septembre et le taux de change est indiqué à la dernière page de la facture.
+Microsoft suit les cours de la Bourse de Londres pour la conversion. Nous utilisons le taux de change, qui est le taux de change capturé à la dernière seconde du dernier jour ouvrable du mois à la Bourse de Londres. Les taux de change sont actualisés et disponibles le jour précédant le premier jour du mois auquel ils s’appliquent.
 
 ## <a name="azure-reservations"></a>Réservations Azure
 

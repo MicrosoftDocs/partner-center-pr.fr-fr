@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878798"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705009"
 ---
 # <a name="september-2020-announcements"></a>Annonces de septembre 2020
 
@@ -36,7 +36,7 @@ Tous les partenaires fournisseurs de solutions Cloud (CSP) effectuant des transa
 
 ### <a name="details"></a>Détails
 
-Aujourd’hui, les partenaires peuvent utiliser l’Espace partenaires ou le Centre d’administration Microsoft 365 pour télécharger des logiciels et fournir des clés de licence pour les commandes de logiciels CSP. À compter du **19 janvier 2021**, les fonctionnalités de téléchargement de logiciels et d’octroi de clés de licence logicielle seront supprimées, et les partenaires utiliseront le **Centre d’administration Microsoft 365** exclusivement à cet effet. La page de l’Espace partenaires consacrée aux logiciels des clients contient un « lien ciblé » vers le Centre d’administration Microsoft 365, où vous pouvez obtenir les licences et les téléchargements des logiciels des clients. Les clients bénéficient ainsi d’une expérience la plus sûre et la plus efficace possible.
+Aujourd’hui, les partenaires peuvent utiliser l’Espace partenaires ou le Centre d’administration Microsoft 365 pour télécharger des logiciels et fournir des clés de licence pour les commandes de logiciels CSP. À compter du **19 janvier 2021**, les fonctionnalités de téléchargement de logiciels et d’octroi de clés de licence logicielle seront supprimées, et les partenaires feront en sorte que les clients utilisent pour cela exclusivement le **Centre d’administration Microsoft 365**. La page de l’Espace partenaires consacrée aux logiciels des clients contient un « lien ciblé » vers le Centre d’administration Microsoft 365, où vous pouvez diriger les clients pour obtenir les licences des clients et les téléchargements des logiciels. Les clients bénéficient ainsi d’une expérience la plus sûre et la plus efficace possible.
 
 Les clés de licence et les liens de téléchargement des logiciels sont des ressources de propriété intellectuelle importantes et très recherchées. En cas de fuite, elles peuvent rapidement être privées de leurs limites d’activation et entraîner une expérience négative pour les clients et les partenaires. Par conséquent, il est essentiel que les partenaires utilisent la technologie la plus sécurisée et les bonnes pratiques pour protéger ces ressources précieuses et leurs clients.
 
