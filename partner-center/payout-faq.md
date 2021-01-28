@@ -1,5 +1,5 @@
 ---
-title: FAQ sur les paiements et le profil fiscal
+title: Questions fréquentes (FAQ) sur les paiements et les profils fiscaux
 description: Obtenir des réponses aux questions courantes sur les paiements et les détails des taxes dans l’espace partenaires. Comprend des réponses sur la raison pour laquelle vos revenus sont différents de ceux attendus.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492583"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924914"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questions courantes sur les paiements et les taxes
 
@@ -128,10 +128,6 @@ Dans le téléchargement de l’historique des transactions, recherchez la colon
 
 Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers le formulaire fiscal sur les frais de service s’affiche pour un paiement dont les frais de service sont facturés.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Comment faire pour télécharger un formulaire fiscal de retenue à la source au format PDF ?
-
-Accédez à la page *Payout Payment*, puis à la section **List of Payment**. Un lien vers un formulaire fiscal de retenue à la source s’affiche à côté d’un paiement.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Où puis-je trouver des formulaires fiscaux de fin d’exercice ?
 
 Accédez à la [page de profil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) pour afficher les formulaires fiscaux de fin d’exercice.
@@ -170,7 +166,7 @@ Accédez à la page **Payout Payment**, puis à la section **List of Payment**. 
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Comment faire télécharger un formulaire d’impôt à la retenue au format PDF ?
 
-Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers un formulaire fiscal de retenue à la source s’affiche à côté d’un paiement.
+Accédez à la page **Payout Payment**, puis à la section **List of Payment**. Un lien vers un formulaire fiscal de retenue à la source s’affiche à côté d’un paiement. Un formulaire d’impôt à la retenue s’applique uniquement aux programmes d’incentives sélectionnés, et non au paiement de la place de marché commercial.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Où puis-je trouver des formulaires fiscaux de fin d’exercice ?
 
