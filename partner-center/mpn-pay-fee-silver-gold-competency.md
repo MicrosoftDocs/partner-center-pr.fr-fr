@@ -1,19 +1,19 @@
 ---
 title: Payer les frais pour une compétence MPN
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Découvrez comment payer les frais de paiement ou de mise à jour associés à la réalisation ou au renouvellement d’une ou de plusieurs compétences en argent ou en or.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921074"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042682"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Comment payer les frais associés à une compétence Silver ou Gold
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921074"
 Cet article décrit comment et quand payer les frais associés à la réalisation d’une compétence de Microsoft Partner Network Silver ou Gold. L’article explique également comment modifier votre méthode de paiement préférée, comment annuler une commande et comment recevoir une remise de 25% pour le passage d’une compétence Silver à une compétence Gold.
 
 > [!NOTE]
-> Pour en savoir plus sur les avantages de l’obtention d’une compétence Silver ou Gold, les compétences spécifiques disponibles et leurs exigences uniques, consultez [Microsoft Partner Network les compétences](https://partner.microsoft.com/membership/competencies). Vous pouvez également consulter la Microsoft Partner Network [tables de licences pour les compétences] afin d’en savoir plus sur les avantages de chaque compétence disponible.
+> Pour en savoir plus sur les avantages de l’obtention d’une compétence Silver ou Gold, les compétences spécifiques disponibles et leurs exigences uniques, consultez [Microsoft Partner Network les compétences](https://partner.microsoft.com/membership/competencies). Vous pouvez également consulter les [tables de licences Microsoft Partner Network pour](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) obtenir des informations supplémentaires sur les avantages de chaque compétence disponible.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Répondre aux exigences d’une compétence et payer les frais
 
@@ -43,7 +43,7 @@ Dans le cas contraire, procédez comme suit pour payer les frais pour une compé
 
 2. Sélectionnez [offres d’appartenance](https://partner.microsoft.com/dashboard/mpn/offers) dans le menu de navigation. 
 
-3. Sous **offres disponibles à l’achat**, recherchez la vignette abonnement Silver * * ou la vignette d' **appartenance Gold** associée à votre compétence spécifique. 
+3. Sous **offres disponibles à l’achat**, recherchez la vignette d' **appartenance Silver** ou la vignette d' **appartenance Gold** associée à votre compétence spécifique. 
 
 4. Sélectionnez l’option **s’abonner** située en bas à droite de la vignette de l’appartenance Silver ou Gold spécifique.
 
@@ -54,7 +54,7 @@ Dans le cas contraire, procédez comme suit pour payer les frais pour une compé
 
 4. Sur la page Détails de l' **achat** , passez en revue et confirmez vos détails.
 
-   (En savoir plus sur la mise à jour [des informations de l' **ID de taxe** de votre entreprise](https://docs.microsoft.com/partner-center/organization-tax-info) ou de la [ **facturation à** l’adresse](https://docs.microsoft.com/partner-center/mpn-get-action-pack)de votre société.
+   (En savoir plus sur la mise à jour [des informations d' **ID de taxe** de votre entreprise](https://docs.microsoft.com/partner-center/organization-tax-info) ou de la [ **facturation à** l’adresse](https://docs.microsoft.com/partner-center/mpn-get-action-pack)de votre société.)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="L’appartenance offre une page de détails de l’achat avec les préférences de paiement." border="false":::
 
@@ -130,7 +130,7 @@ Si vous payez vos frais d’abonnement Silver ou Gold par le biais d’un vireme
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Page de détails avec des champs pour télécharger une preuve d’une option sélectionnable, téléchargez preuve de paiement pour chaque offre achetée." border="false":::
 
-1. Renseignez les informations relatives aux autres champs associés à votre transaction de transfert de fonds électronique récente, telle que **Date de paiement**, * payé au numéro de compte * * et **transaction/Réf.**..
+1. Renseignez les informations relatives aux autres champs associés à votre transaction de transfert de fonds électronique récente, telle que **Date de paiement**, **numéro de compte payé, et numéro de** **transaction/référence**.
 
   Un message vert peut s’afficher pour vous indiquer que votre demande a été correctement effectuée.
 
