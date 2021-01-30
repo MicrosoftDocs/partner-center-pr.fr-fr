@@ -1,19 +1,19 @@
 ---
 title: Rapprocher les champs de fichier des achats à usage unique du CSP
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: En savoir plus sur tous les éléments de votre fichier de rapprochement d’achats unique CSP dans l’espace partenaires, y compris les exemples de valeurs.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182577"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098803"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Champs du fichier de rapprochement des achats à usage unique CSP
 
@@ -64,6 +64,9 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | PCToBCExchangeRateDate | Date à laquelle la devise de tarification pour la devise de facturation est déterminée. | *30/09/2020* |
 | MeterDescription | Description du compteur.  | *Tables-données stockées LRS (Go/mois)* |
 | ReservationOrderId | ID de la commande de réservation. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Vous pouvez rapprocher votre consommation Azure dans votre fichier de rapprochement d’achat à usage unique. Pour ce faire, accédez à votre fichier de rapprochement d’utilisation évalué quotidiennement et recherchez votre SubscriptionID. Cela permet d’afficher tous les coûts associés à votre ID de plan Azure. Votre SubscriptionID Azure est affiché en tant que EntitlementID.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

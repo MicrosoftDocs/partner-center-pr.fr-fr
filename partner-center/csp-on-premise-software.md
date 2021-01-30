@@ -1,7 +1,7 @@
 ---
 title: Vendre des logiciels locaux par le biais de CSP
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584166"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098854"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
 
@@ -37,13 +37,16 @@ Pour acheter des abonnements logiciels au nom d’un client, accédez à la page
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
-Une fois que vous avez acheté votre logiciel, vous et vos clients devez le télécharger. Pour ce faire, utilisez la procédure suivante. 
+Une fois que vous avez acheté votre logiciel, vos clients doivent le télécharger. Pour ce faire, utilisez la procédure suivante.
 
 >[!NOTE]
 >Vous devez être un agent d’administration pour obtenir des clés et des téléchargements.
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
-2. Copiez le lien à partir de la **lien vers les clés de produit logicielles et téléchargez** et partagez le lien avec votre client. Lorsqu’ils sélectionnent ce lien, ils sont redirigés vers le portail d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
+2. Copiez la « liaison profonde » à partir du **lien vers les clés de produit logicielles et téléchargez** et partagez le lien avec votre client. Lorsqu’ils sélectionnent ce lien, ils sont redirigés vers le centre d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
+
+>[!NOTE]
+>Seuls les clients peuvent voir les clés de produit et télécharger des informations dans le centre d’administration Microsoft. Les partenaires ne peuvent pas voir ces informations.
 
 Si vous ou vos clients souhaitez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger des logiciels et des clés de licence de produit](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
