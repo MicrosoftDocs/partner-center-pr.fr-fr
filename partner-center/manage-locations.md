@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925036"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098888"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gérer les localisations de votre compte MPN et ajouter une nouvelle localisation
 
@@ -48,7 +48,21 @@ Pour ajouter un nouveau compte commercial CSP, commencez par veiller à remplir 
 
 2. Acceptez le Contrat Partenaire Microsoft et activez le compte.
 
-## <a name="add-an-mpn-location"></a>Ajouter un site MPN
+## <a name="view-your-mpn-locations"></a>Voir vos localisations MPN
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires avec vos informations d’identification de compte MPN. (Vos informations d’identification MPN peuvent être différentes de vos informations d’identification CSP.) 
+ 
+1. À partir de l’icône **Paramètres**, sélectionnez **Paramètres du compte**, **Profil de l’organisation**, puis **Légal**. 
+
+1. Sous l’onglet **Partenaire**, vérifiez qu’aucune bannière de message d’erreur ne vous invite à corriger les localisations migrées à partir de PMC. Si tel est le cas, suivez les instructions et corrigez ces localisations. 
+
+3. Si aucun message d’erreur ne s’affiche, dans **Paramètres**, sélectionnez **Paramètres de compte**, **Profil de l’organisation** et **Identificateurs**.
+
+4. Recherchez l’ID MPN avec le type « localisation » correspondant au pays de ce compte CSP et utilisez-le pour effectuer une recherche ci-dessous et procéder à une association.
+
+5. Si vous ne trouvez pas l’ID MPN de localisation correspondant au compte CSP que vous souhaitez utiliser, vous pouvez ajouter une nouvelle localisation qui créera un nouvel ID MPN. Consultez **Ajouter une localisation MPN** ci-dessous.
+
+## <a name="add-an-mpn-location"></a>Ajouter une localisation MPN
 
 1. Connectez-vous avec le compte MPN dans l’Espace partenaires. (Vos informations d’identification MPN peuvent être différentes de vos informations d’identification CSP.) Le compte MPN doit disposer de privilèges d’administrateur général ou d’administrateur de compte. 
 
