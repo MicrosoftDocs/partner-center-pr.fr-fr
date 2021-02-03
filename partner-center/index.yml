@@ -9,18 +9,20 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 11/19/2020
-  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
-  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+  ms.date: 02/01/2021
+  ms.openlocfilehash: 902c05a71776e74e735de16e3e464a1a816a5402
+  ms.sourcegitcommit: 299bd9948848c7012485b0ea45c2a319309d2b47
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 11/20/2020
-  ms.locfileid: "94983315"
+  ms.lasthandoff: 02/02/2021
+  ms.locfileid: "99251911"
 landingContent:
 - title: Bien démarrer avec l’Espace partenaires
   linkLists:
   - linkListType: get-started
     links:
+    - text: Qu’est-ce que l’Espace partenaires ?
+      url: overview.md
     - text: Espace partenaires - Annonces
       url: announcements/index.md
     - text: Devenez partenaire de Microsoft
@@ -29,8 +31,6 @@ landingContent:
       url: mpn-create-a-partner-center-account.md
     - text: Gérer les avantages et les offres de votre adhésion MPN
       url: manage-your-partner-network-benefits.md
-    - text: En savoir plus sur les compétences
-      url: learn-about-competencies.md
 - title: Développer votre entreprise
   linkLists:
   - linkListType: concept
@@ -51,6 +51,8 @@ landingContent:
   linkLists:
   - linkListType: concept
     links:
+    - text: Accepter le Contrat Partenaire Microsoft
+      url: microsoft-partner-agreement.md
     - text: Exigences de sécurité de l’Espace partenaires
       url: partner-security-requirements.md
     - text: Créer un profil professionnel
@@ -77,8 +79,6 @@ landingContent:
       url: partner-center-account-setup.md
     - text: Attribuer des rôles et des autorisations aux utilisateurs
       url: permissions-overview.md
-    - text: Gérer les utilisateurs et les licences utilisateur
-      url: assign-licenses-to-users.md
     - text: Notions de base de la facturation
       url: billing-basics.md
     - text: Configurer votre compte de paiement et vos déclarations de taxe
