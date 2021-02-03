@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Exemption de compétence de développement d’applications
           href: app-dev-isv.md
+        - name: Utiliser le rapport de compétences
+          href: mpn-skills-report.md
     - name: Spécialisations avancées
       items:
         - name: Montrer votre expertise
