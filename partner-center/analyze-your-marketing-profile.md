@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776810"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530831"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysez vos prospects, Découvrez comment attirer les clients cibles et les références potentielles
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysez vos prospects : déterminez dans quelle mesure vous attirez les clients cibles et les références potentielles
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Rôles appropriés**
 
 - Administrateur des références
-
-**S’applique à**
-
-- Responsables de la place de marché
-- Prospects qualifiés
 
 La page **prospects** sous la section **analytique** dans références vous permet de voir comment vos références sont en cours d’exécution. Passez régulièrement en revue ces métriques pour identifier les tendances ou les domaines nécessitant votre attention, et faites un premier pas vers vos objectifs métier.
 
@@ -115,3 +110,7 @@ Il peut y avoir plusieurs raisons pour lesquelles vous obtenez un graphique vide
 
 > [!TIP]
 > Pour voir comment vos opportunités de co-vente sont exécutées, consultez la [page Co-vendre opportunités Insights](referral-insights.md).
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Gérer les prospects](manage-leads.md)

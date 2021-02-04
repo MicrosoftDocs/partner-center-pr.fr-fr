@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983337"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530661"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Comment signaler des problèmes avec l’espace partenaires et envoyer des informations de journal ou de diagnostic
 
@@ -53,7 +53,7 @@ Si votre problème nécessite une conversation avec votre avocat de support, vou
 
 2. L’espace partenaires vérifie la disponibilité du calendrier de l’avocat de support.
 
-1. Lorsque vous planifiez un rendez-vous, l’espace partenaires vous envoie une invitation à un calendrier contenant des informations sur la façon dont l’avocat du support vous contactera pour vous permettre de suivre ce rendez-vous dans votre calendrier de travail.
+1. Lorsque vous planifiez un rendez-vous, l’espace partenaires vous envoie une invitation à un calendrier contenant des informations sur la façon dont l’avocat du support vous contactera pour vous permettre de suivre ce rendez-vous dans votre calendrier de travail.  Bien que cette fonctionnalité soit encore en préversion, l’invitation par courrier électronique et calendrier est en anglais, mais l’avocat peut vous prendre en charge dans la langue que vous avez sélectionnée lors de la création de votre ticket.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Date et heure":::
 

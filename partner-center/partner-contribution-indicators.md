@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution partenaire-CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez sept indicateurs de contribution partenaires (PCI) qui montrent aux partenaires comment atteindre une compétence en matière de Business Applications Cloud Silver ou Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204068"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530814"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilisez les indicateurs de contribution partenaire pour atteindre les compétences du Cloud Business Applications
 
@@ -125,7 +125,7 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | 300 000 $ | 10 | 10 | *\* Voir la remarque* | 5 | 5 | 25 % |
+| **Fruit** | 300 000 $ | 10 | 15 | *\* Voir la remarque* | 5 | 5 | 25 % |
 | **Pays** | $150 000 | 5  | 5  |*\* Voir la remarque* | 2 | 1 | 25 % |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base et de l’option spécifique qu’un partenaire utilise pour obtenir des points. Pour en savoir plus sur les options permettant d’obtenir des points ou sur les cibles de croissance spécifiques de chaque option, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
@@ -187,8 +187,8 @@ NET New revenue est un [indicateur de performance](partner-contribution-indicato
   - Les produits éligibles pour les clients sont les suivants : ventes, service clientèle, service clientèle, automatisation de service de projet, marketing, ventes de Microsoft relation, plan 1, talent et membre de l’équipe d’entreprise.
   - Les produits de financement et d’exploitation sont les suivants : opérations unifiées, finance, gestion de la chaîne logistique, vente au détail, commerce, plan 2, réalité mixte, talent et membre de l’équipe d’entreprise.
 
-- Les canaux de vente incluent Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
-- Pour Accord Entreprise revenus uniquement : ce chiffre d’affaires comprend le chiffre d’affaires de la première année de l’accord. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.
+- Les canaux de vente incluent Contrat Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
+- Pour Contrat Entreprise revenus uniquement : ce chiffre d’affaires comprend le chiffre d’affaires de la première année de l’accord. Les revenus récurrents de la deuxième et de la troisième année ne sont pas inclus.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Définitions pour la métrique PCI #2-le client net ajoute
 
@@ -214,7 +214,7 @@ L’ajout du client net est un [indicateur de performance](partner-contribution-
   > [!NOTE]
   > Pour plus d’informations sur les marchés développés et en développement, consultez ces [définitions de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-- Les canaux de vente incluent Accord Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
+- Les canaux de vente incluent Contrat Entreprise (EA), fournisseur de solutions Cloud (CSP) et Web direct.
 
 - Pour plusieurs partenaires ou clients ou clients travaillant directement avec Microsoft : il existe différents calculs d' **ajouts** **et de clients pour** les cas où plusieurs partenaires sont associés au même client par le biais de différents abonnements ou lorsque le client peut déjà travailler directement avec Microsoft. Ces calculs apparaissent ci-dessous.
 

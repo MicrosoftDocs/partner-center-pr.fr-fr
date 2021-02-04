@@ -6,13 +6,13 @@ ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 09/02/2020
-ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 02/02/2021
+ms.openlocfilehash: 81c5ecb93caef7836dc6e6725a700ac74d881558
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532002"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530712"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Seuils, modes et délais de paiement
 
@@ -33,6 +33,10 @@ En général, nous envoyons les paiements dus le 15 du mois donné. Cependant, 
 | ACH/SEPA | 2 à 3 jours ouvrables |
 | Virement bancaire | 7 à 10 jours ouvrables |
 | | |
+
+>[!NOTE]
+>En raison des modifications apportées aux taux de change des devises étrangères, le montant exact des ventes peut varier légèrement d’une devise à une autre. Les taux de change sont calculés mensuellement. En fonction du moment où votre transaction a eu lieu, le taux de change approprié est appliqué. Le taux de change et le taux de dates pour lesquels il était en vigueur sont indiqués sur votre rapport de paiement dans les colonnes exchangeRate et exchangeRateDate, respectivement.
+
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Modes de paiement dans les pays et les régions
 
