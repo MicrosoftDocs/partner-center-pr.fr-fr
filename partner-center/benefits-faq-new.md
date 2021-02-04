@@ -1,7 +1,7 @@
 ---
 title: FAQ sur les avantages Microsoft Partner Network
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Questions sur les stratégies relatives aux avantages Microsoft Partner Network.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349509"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552394"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>FAQ sur les avantages Microsoft Partner Network
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349509"
 
 - Administrateur partenaire MPN
 
-
 L’article suivant répond à certains des principaux problèmes posés par les partenaires de Microsoft Partner Network (MPN) sur les avantages, les compétences et les licences des produits MPN.
+
+## <a name="responding-to-covid-19"></a>Réponse à COVID-19
+
+**Q.** la  **date anniversaire de notre compétence est à venir et nous ne pouvons pas répondre aux exigences de compétence en raison des impacts liés à COVID-19. Que dois-je faire ?**
+
+R. Si la date anniversaire de votre compétence est comprise entre le 1er janvier et le 30 juin 2021, nous étendons vos compétences ou compétences existantes (à l’exception du Cloud Business Applications compétence) jusqu’à la prochaine date anniversaire du 2022. Vous n’aurez pas besoin de respecter les exigences en matière d’examen ou de performances, mais vous payez toujours les frais relatifs aux compétences.Pour plus d’informations, consultez notre [billet de blog](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="membership"></a>Adhésion
 
@@ -140,18 +145,7 @@ R. La réalisation des compétences et l’achat de Action Pack sont effectués 
 
 R. Vous pouvez accéder à la [section prise en charge de l’espace partenaires](https://partner.microsoft.com/support) pour obtenir des liens vers des ressources qui peuvent être utiles, ou pour ouvrir un ticket avec l’équipe de support technique de notre partenaire, le cas échéant.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>Extension de compétence aux effets de décalage de COVID-19
-
-**Q : Microsoft offre-t-il de l’aide aux partenaires qui sont confrontés à des difficultés ?**
-
-R : pour les partenaires ayant une date anniversaire de compétence comprise entre le 1er juillet et le 31 décembre 2020, nous étendons la compétence ou les compétences existantes du partenaire au cours de la prochaine date anniversaire de 2021. Le partenaire recevra un rappel de renouvellement pour refléter cette nouvelle offre. Le partenaire doit payer ses frais de compétence au cours de la période de renouvellement de 30 jours.
-
-**Q : que se passe-t-il si un partenaire a manqué sa période de renouvellement de 30 jours ?**
-
-R : le partenaire peut réactiver leur compétence et regagner l’accès aux ressources et aux avantages en payant leurs frais sur la page offres d’abonnement dans l’espace partenaires jusqu’à 30 jours après leur date anniversaire. Si un partenaire a manqué la période de grâce de 30 jours après sa date anniversaire, il doit soumettre un ticket de support via l’espace partenaires, indiquant les détails de sa demande d’octroi d’un remplacement COVID après l’expiration de la période de renouvellement de 30 jours.
-
-Pour plus d’informations, consultez [renouveler l’offre MPN](renew-mpn-offers.md).
-
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Trouver vos avantages Microsoft Partner Network](mpn-find-benefits.md) 
+- [Trouver vos avantages Microsoft Partner Network](mpn-find-benefits.md)
+- [Renouveler l’offre MPN](renew-mpn-offers.md)
