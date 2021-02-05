@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042699"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552418"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-| **Catégorie** | **Annonces de janvier 2021** | **Annoncé** |
+|**Catégorie**|**Annonces de février 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Fonctions|[Réponse à la crise du COVID-19 : Mise à jour de Microsoft Partner Network](2021-february.md#3)|4 février|
+|Fonctions|[Nouvelles mises à jour du module Références dans l’Espace partenaires](2021-february.md#2)|4 février|
+|Lieu de travail moderne|[Dépréciation et retrait des API de qualification PUT pour le processus de validation des clients Éducation le 25 février 2021 et de la qualification GET le 4 mai 2021](2021-february.md#1)|4 février|
+| **Catégorie** | **Annonces de janvier 2021** | **Annoncé** |
 |Lieu de travail moderne|[Phase 1 Effectif dès maintenant : Changement de la devise de facturation des partenaires pour les nouvelles offres commerciales en UE/AELE et R-U](2021-january.md#15)|28 janvier|
 |Lieu de travail moderne|[Changements dans les conditions d’intégration des clients CSP (Cloud Solution Provider)](2021-january.md#14)|28 janvier|
 |Fonctions|[Contrat Partenaire Microsoft (MPA) – mise à jour et nouvelles questions fréquentes sur les fournisseurs indirects](2021-january.md#13)|27 janvier|
@@ -105,7 +109,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces d’août 2020** | **Date** |
 |Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation de clients Éducation](2020-august.md#8)|31 août|
 |Offres/marchés|[Mises à jour de Microsoft 365 Voice Promotion](2020-august.md#7)|14 août|
-|Fonctionnalités|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
+|Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
 |Fonctionnalités|[Achat en libre-service de Microsoft Project et Microsoft Visio bientôt disponible](2020-august.md#5)|12 août|
 |Offres/marchés|[Nouvelles références SKU Communications avancées Microsoft Teams maintenant disponibles](2020-august.md#4)|4 août|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible en septembre](2020-august.md#3)|4 août|
