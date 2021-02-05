@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215949"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588748"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -127,7 +127,70 @@ Parfois, la migration peut échouer et provoquer des erreurs. Voici quelques rai
 3. Un rôle de référence est déjà attribué à l’utilisateur dans l’espace partenaires.
     - Vous pouvez vérifier le rôle existant de l’utilisateur. Dans l’angle supérieur droit de l’espace partenaires, sélectionnez **paramètres** (l’icône d’engrenage), puis **paramètres de compte**. Quand vous voyez un deuxième menu de navigation à gauche, sélectionnez **gestion des utilisateurs** et recherchez l’utilisateur.
 
-Une fois que vous avez terminé la migration des utilisateurs, suivez les instructions ci-dessous pour déterminer la stratégie de migration :
+## <a name="psc-deals-migration"></a>Migration des contrats PSC
+
+Une fois que vous avez terminé la migration des utilisateurs, utilisez l’Assistant Migration des offres dans la page opportunités de covente pour mettre toutes les transactions ouvertes éligibles de PSC à PC. **Le lien de migration de contrats sera visible uniquement les administrateurs de référence avec une étendue d’organisation entière dans l’espace partenaires.** Un lien nommé **« migration des affaires PSC »** s’affiche en haut à droite de la page opportunités de covente, qui ouvre l’Assistant Migration des transactions.
+
+Lisez cette section avant de commencer la migration de la transaction.
+
+**Éligible pour la migration**
+
+Seules certaines affaires sont éligibles pour la migration de PSC vers PC. Cet Assistant de migration est conçu pour aider les partenaires à apporter leurs offres à l’espace partenaires dans lequel ils travaillent toujours activement avec leurs clients pour conclure le contrat. **Seules les demandes qui sont à l’état ouvert avec des détails de compte de partenaire valides (ID MPN valide) et qui ne sont pas en cours d’inscription sont éligibles pour la migration.**
+
+**Non éligible pour la migration**
+
+- Les contrats d’évaluation de solution ne sont pas éligibles pour la migration des contrats
+- Les contrats de licence OEM ne sont pas éligibles pour la migration des contrats
+- Toute transaction marquée comme conclue dans le PSC n’est pas éligible pour la migration. L’enregistrement de la transaction s’il est éligible pour les transactions marquées comme conclues doit être effectué dans le PSC.
+
+## <a name="pre-requisites-for-deal-migration"></a>Conditions préalables à la migration des transactions
+
+Avant de commencer la migration des contrats à partir du PC, suivez les instructions ci-dessous pour configurer les transactions dans le PSC en vue d’une migration réussie.
+
+1. Tous les membres de l’équipe des ventes de votre entreprise qui travaillent sur les contrats ouverts sont informés de cette migration.
+2. Les membres de l’équipe des ventes sont formés pour utiliser l’espace partenaires pour la gestion des transactions.
+3. Le traite de toutes les informations requises, comme décrit ci-dessous.
+    - Détails de la société client, y compris le nom et l’adresse
+    - Coordonnées du client s’il s’agit d’une vente de covente
+    - Au moins une solution
+    - Au moins un membre de l’équipe avec tous les détails (prénom, nom, ID de courrier électronique et numéro de téléphone).
+    - Valeur de la transaction
+    - Date de fermeture de la transaction estimée
+    - Notes du partenaire
+
+Vous pouvez utiliser les fonctionnalités de téléchargement et de chargement en bloc dans PSC pour nettoyer les données pour toutes les transactions éligibles.
+
+>[!Note]
+> La migration de la transaction échouera même si les conditions préalables ci-dessus ne sont pas remplies. Toutefois, vous ne pouvez pas modifier l’état de la transaction si l’un des champs requis mentionnés ci-dessus dans l’espace partenaires n’est pas disponible. Vous devrez ensuite entrer toutes les informations requises manquantes dans les offres de l’espace partenaires pour commencer à travailler dessus. **Il est vivement recommandé de nettoyer les demandes éligibles du PSC avant de les migrer vers l’espace partenaires.**
+
+La migration des transactions dans l’espace partenaires s’appuie sur une expérience unique. Il vous suffit de cliquer sur le bouton **« migrer les offres »** une fois que votre entreprise est prête à migrer les demandes éligibles. **Vous ne pouvez pas choisir les contrats que vous souhaitez migrer à partir de PSC. Si vous ne souhaitez pas migrer des transactions vers l’espace partenaires, déplacez-les à l’état fermé dans le PSC avant de commencer la migration.**
+
+>[!Note]
+> Après l’initialisation de la migration, **la migration des demandes peut prendre jusqu’à 24 heures**.
+
+Une fois la migration terminée, l’état du message de la bannière est changé pour se terminer avec un lien vers le rapport de migration. Téléchargez le rapport pour afficher les détails des transactions qui ont été migrées de PSC à PC.
+
+Le rapport contient les détails ci-dessous.
+
+1. **ID d’engagement de l’espace partenaires** : identificateur unique dans l’espace partenaires pour toutes les transactions d’un engagement. Il existe deux contrats : un pour le partenaire et un pour Microsoft dans un engagement de covente dans l’espace partenaires.
+2. **ID de référence de l’espace partenaires** : identificateur unique dans l’espace partenaires pour la transaction appartenant au partenaire.
+3. **Nom** de la transaction : identificateur donné au contrat du COPS.
+4. **ID de contrat PSC** : identificateur unique dans le PSC pour le contrat.
+5. **Erreurs** : pour indiquer s’il y a une erreur lors de la migration d’une transaction spécifique.
+
+Toutes les transactions qui ont été migrées avec succès ne seront pas visibles dans le PSC. Vous pouvez travailler sur les contrats migrés sur PC. Aucune modification n’est apportée aux interactions avec les vendeurs Microsoft pour les ventes de covente.
+
+Les offres migrées à partir de PSC seront disponibles dans les onglets entrant et sortant en fonction de la source de la transaction. Tous les contrats de partenariat créés par le partenaire seront disponibles sous l’onglet sortant et les offres engagées par Microsoft seront disponibles dans l’onglet entrant de l’espace partenaires. Il y aura deux types de transactions qui seront créées après la migration.
+
+1. **Ventes de covente** : les demandes qui sont marquées comme covente dans PSC sont créées en tant que ventes de covente dans l’espace partenaires.
+2. Transactions **dirigées** par un partenaire : les demandes qui ne sont pas marquées comme covente sont créées en tant que contrats dirigés par un partenaire dans l’espace partenaires. Les offres dirigées par un partenaire sont visibles par les vendeurs Microsoft et peuvent être mises à niveau pour vendre leurs offres avant d’atteindre l’état des terminaux (gagnés, perdus). En outre, les contrats menés par un partenaire sont éligibles à l’enregistrement de la transaction s’il existe une solution incitative dans le contrat.
+
+>[!Important]
+> Si des erreurs se sont produites en raison de l’impossibilité de migrer certaines affaires, **vous pouvez relancer la migration de la transaction en cliquant sur le bouton « migrer les contrats »**. Il sera activé uniquement s’il existe des transactions éligibles à migrer. Cela sera également utile si vous êtes dans la phase de transition où de nouvelles transactions sont créées dans le PSC après le lancement de la migration de la transaction.
+
+Une fois que toutes les transactions ont été migrées avec succès, il y a une bannière qui indique **« aucune opération de migration »** avec le bouton **« migrer les transactions »** **désactivé**.
+
+Après avoir effectué la migration des utilisateurs et/ou la migration des transactions, suivez les instructions ci-dessous pour déterminer la stratégie de migration :
 
 Si votre entreprise dispose d’un responsable de développement partenaire (PDM) : lorsque votre compte de l’espace partenaires est configuré et que vos utilisateurs ont passé des rôles et des autorisations, vous pouvez déplacer vos activités de covente vers l’espace partenaires. Informez le système PDM d’effectuer le commutateur au lieu de patienter jusqu’à la fin de l’échéance de la migration, ce qui permettra à tous vos nouveaux contrats d’être transmis à l’espace partenaires.
 
