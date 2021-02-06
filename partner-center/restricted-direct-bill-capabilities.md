@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795765"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623981"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Fonctionnalités de facture directe restreintes et exigences requises pour les partenaires de facturation directe de fournisseurs de solutions Cloud  
 
@@ -29,13 +29,13 @@ Les partenaires de facturation directe doivent répondre aux nouvelles [exigence
 
 Pour vérifier si l’accès du locataire du partenaire de facturation directe aux fonctionnalités de facture directe a été restreint, procédez comme suit.
 
-1. Connectez-vous au [tableau de bord de l’espace partenaires](https://partner.microsoft.com/dashboard).
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard).
 
-2. Accédez à **paramètres du partenaire**  ->  **profil de partenaire** .
+2. Accédez à **paramètres du compte**  ->  **Profil légal**.
 
-3. Sous **informations sur le programme** , recherchez **Microsoft Cloud État du fournisseur de solutions** .
+3. Sous **informations sur le programme**, recherchez **Microsoft Cloud État du fournisseur de solutions**.
 
-4. Si l’état du programme a une valeur **restreinte** , cela signifie que l’accès de votre locataire de partenaires directs aux fonctionnalités de facturation directe a été restreint.
+4. Si l’état du programme a une valeur **restreinte**, cela signifie que l’accès de votre locataire de partenaires directs aux fonctionnalités de facturation directe a été restreint.
 
 ## <a name="affected-direct-bill-capabilities"></a>Fonctionnalités de facture directe affectées
 

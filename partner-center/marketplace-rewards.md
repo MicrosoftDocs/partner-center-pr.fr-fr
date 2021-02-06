@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114169"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624253"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gérer les récompenses de la place de marché dans l’espace partenaires & activer le marketing, les ventes et les avantages techniques
 
@@ -50,7 +50,7 @@ Le bénéfice des récompenses de la place de marché est calculé en fonction d
 
 1. Vous pouvez utiliser votre avantage technique pour demander une assistance technique pendant les phases de prévente, de conception, de déploiement et de développement d’applications de vos solutions cloud et hybrides. Pour demander de l’aide, remplissez le formulaire de demande, puis sélectionnez **Envoyer la demande**.
 
-2. La façon d’utiliser les avantages du parrainage Azure sera partagée par e-mail à mesure que vous déverrouillerez ces avantages.
+2. La façon d’utiliser les avantages du parrainage Azure sera partagée via un e-mail à mesure que vous déverrouillerez ces avantages.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Pourquoi le programme de récompenses de la Place de marché commerciale n’est-il pas visible sur mon tableau de bord ?
 
@@ -60,7 +60,7 @@ Les informations sur les récompenses de la place de marché sont disponibles vi
 
 1. En tant qu’administrateur général ou administrateur de compte, connectez-vous à PGA dans l’espace partenaires.
 
-2. Sélectionnez **paramètres** (en haut à droite), **paramètres de partenaire**, **locataires**. 
+2. Sélectionnez **paramètres** (en haut à droite), **paramètres du compte**, **locataires**. 
 
 3. Sélectionnez **associer un autre Azure ad locataire** et sélectionnez le client Azure ad que vous souhaitez associer au PGA.
 

@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133063"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624219"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Forum aux questions sur les incentives
-
-**S’applique à :**
-
-- Espace partenaires
 
 **Rôles appropriés :**
 
@@ -35,7 +31,7 @@ Non. L’administrateur général et l’administrateur de compte peuvent affect
 
 Si vous essayez de rejoindre MPN et que votre entreprise est déjà membre, MPN reconnaît le domaine et vous associe au compte existant. Le compte existant peut être la même société ou une société associée utilisant le même domaine de messagerie, ou le même répertoire d’activité Azure (Azure AD) pour gérer plusieurs domaines.
 
-Vous pouvez identifier le contact principal à partir de la page profil de partenaire. Si votre emplacement est l’emplacement MPNHQ, vous devez simplement être configuré avec les autorisations nécessaires pour gérer les incentives. Pour plus d’informations sur les rôles et les autorisations, consultez [vue d’ensemble des autorisations](permissions-overview.md).
+Vous pouvez identifier le contact principal à partir de la page profil juridique. Si votre emplacement est l’emplacement MPNHQ, vous devez simplement être configuré avec les autorisations nécessaires pour gérer les incentives. Pour plus d’informations sur les rôles et les autorisations, consultez [vue d’ensemble des autorisations](permissions-overview.md).
 
 Si vous n’êtes pas situé dans le même pays que l’emplacement MPNHQ, reportez-vous aux [instructions pour les comptes multinationaux](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) pour plus d’informations sur ce scénario.
 
@@ -51,9 +47,9 @@ Pour plus d’informations, consultez [vue d’ensemble des autorisations](permi
 
 Pour rechercher un administrateur général ou un administrateur de compte qui peut apporter des modifications de rôle ou attribuer des rôles à un nouvel utilisateur :
 
-1. À partir de l’icône des paramètres de compte en haut à droite de l’espace partenaires, sélectionnez **gestion des utilisateurs** .
-2. Filtrez l’administrateur **général** ou l' **administrateur de compte** .
-3. Vous pouvez également accéder à **mon profil** , sélectionner des **rôles et des autorisations** et afficher une liste des différents administrateurs qui peuvent vous aider à élever vos autorisations.
+1. À partir de l’icône des paramètres de compte en haut à droite de l’espace partenaires, sélectionnez **gestion des utilisateurs**.
+2. Filtrez l’administrateur **général** ou l' **administrateur de compte**.
+3. Vous pouvez également accéder à **mon profil**, sélectionner des **rôles et des autorisations** et afficher une liste des différents administrateurs qui peuvent vous aider à élever vos autorisations.
  
 Pour plus d’informations, consultez [Rechercher votre rôle](find-your-role.md).  
 
@@ -63,9 +59,9 @@ La raison probable pour laquelle vous ne pouvez pas voir les incentives est que 
 
 1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) à l’aide de vos informations d’identification de locataire Azure ad (vos informations d’identification professionnelles). Si vous ne parvenez pas à vous connecter, contactez l’administrateur général de votre entreprise.
 
-2. Quand vous vous connectez, si vous êtes invité à effectuer une sélection à partir de votre compte **professionnel** ou **personnel** , sélectionnez **compte professionnel** .
+2. Quand vous vous connectez, si vous êtes invité à effectuer une sélection à partir de votre compte **professionnel** ou **personnel**, sélectionnez **compte professionnel**.
 
-3. Dans le menu espace partenaires, sélectionnez **incentives** , puis sélectionnez **vue d’ensemble** . Si vous ne disposez pas d’autorisations d’administrateur ou d’incentives incitatives, vous verrez les informations de contact pour tous les administrateurs de comptes et globaux de votre entreprise. Contactez l’un de ces administrateurs pour obtenir le rôle d’incentive pour les ID MPN et les programmes d’incentives requis.
+3. Dans le menu espace partenaires, sélectionnez **incentives**, puis sélectionnez **vue d’ensemble**. Si vous ne disposez pas d’autorisations d’administrateur ou d’incentives incitatives, vous verrez les informations de contact pour tous les administrateurs de comptes et globaux de votre entreprise. Contactez l’un de ces administrateurs pour obtenir le rôle d’incentive pour les ID MPN et les programmes d’incentives requis.
 
 4. Si vous disposez déjà d’un rôle d’administrateur d’incentives, vous verrez les inscriptions de votre société pour les ID MPN et les programmes d’incentives auxquels vous avez accès.
 
@@ -75,7 +71,7 @@ Si vous constatez moins d’inscriptions que prévu dans la page de **Présentat
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. Sous **paramètres** , sélectionnez [gestion des utilisateurs](https://partner.microsoft.com/pcv/users).
+2. Sous **paramètres**, sélectionnez [gestion des utilisateurs](https://partner.microsoft.com/pcv/users).
 
 3. Sélectionnez votre nom pour voir vos autorisations.
 

@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492464"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624236"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer le paiement et les profils fiscaux des incentives dans l’espace partenaires
 
-**S’applique à :**
-
-- Espace partenaires
 
 **Rôles appropriés :**
 
@@ -64,7 +61,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
    - Si vous êtes uniquement en mesure de vous connecter avec le @onmicrosoft.com domaine, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte Azure ad.
    - Si vous êtes invité à sélectionner un compte **professionnel ou scolaire** ou un compte **personnel**, sélectionnez **compte professionnel ou scolaire**.
 
-2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** , puis sélectionnez **paramètres de partenaire**.
+2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** , puis sélectionnez **paramètres du compte**.
 
 3. Dans le menu **paramètres du compte** , sélectionnez **paiement et taxes**. 
 
@@ -72,7 +69,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
 
 1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** . 
 
-2. Sélectionnez **paramètres du partenaire**, développez la **section paiement et taxes**, puis sélectionnez **attribution du profil de paiement et de taxe**. 
+2. Sélectionnez **paramètres du compte**, développez la **section paiement et taxes**, puis sélectionnez **attribution du profil de paiement et de taxe**. 
    
    Une liste de vos programmes s’affiche. Sélectionnez la flèche en regard d’un programme pour afficher les détails du profil. 
 

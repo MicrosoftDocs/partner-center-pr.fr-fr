@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4db0c81bf9f92975cc119215de76565e6acbadbd
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755620"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624202"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Ajouter un ID de TVA à votre profil de facturation
 
@@ -30,8 +30,8 @@ Vous pouvez utiliser la procédure suivante pour mettre à jour votre profil de 
 
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Mettez à jour votre profil de facturation avec votre IDENTIFIant TVA
 
-1. Connectez-vous au [tableau de bord de l’espace partenaires](https://partner.microsoft.com/dashboard/).
-2. Dans le menu **paramètres** (icône d’engrenage), choisissez **paramètres de partenaire**.
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
+2. Dans le menu **paramètres** (icône d’engrenage), choisissez **paramètres du compte**.
 3. Sur la page **paramètres du compte** , choisissez Profil de facturation du **partenaire** dans le menu de la page.
 4. Dans la section **données financières** , choisissez **mettre à jour**.
 5. Pour **ID de taxe** de l’entreprise, spécifiez votre numéro d’identification de TVA.
