@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/28/2021
+ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717826"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098871"
 ---
 # <a name="january-2021-announcements"></a>Annonces de janvier 2021
 
@@ -24,8 +24,166 @@ Annonces 2021 : Janvier
 
 Annonces 2020 : [Mai](2020-may.md) | [Juin](2020-june.md) | [Juillet](2020-july.md) | [Août](2020-august.md) | [Septembre](2020-september.md) | [Octobre](2020-October.md) | [Novembre](2020-november.md) | [Décembre](2020-december.md)  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Phase 1 actuellement en cours : Changement de la devise de facturation des partenaires pour les nouvelles offres commerciales en UE/AELE et Royaume-Uni
+
+### <a name="categories"></a>Catégories
+
+- Date : 28-01-2021
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+- Tous les partenaires effectuant des transactions commerciales via le programme Fournisseur de solutions Cloud (CSP) dans la région EU/AELE et Royaume-Uni
+
+### <a name="details"></a>Détails
+
+Dans la région UE/AELE et Royaume-Uni, toutes les nouvelles offres commerciales du programme Fournisseur de solutions Cloud utiliseront l’emplacement de facturation du partenaire au lieu de l’emplacement de facturation du client. Cela signifie que les partenaires seront facturés par Microsoft en fonction de la devise de leur emplacement géographique plutôt que de celui de leur client. Ces changements se feront en deux phases :
+
+**Phase 1 :**
+
+- Nouveaux clients achetant une nouvelle offre commerciale dans CSP
+
+- Premier achat de nouvelles offres commerciales par des clients existants - Locataire créé avant le 11 mai 2020
+
+À compter du 28 janvier 2021, les partenaires ayant des nouveaux clients qui achètent une nouvelle offre commerciale ou des clients existants avec des locataires créés avant le 11 mai 2020 effectuant leur premier achat d’une nouvelle offre commerciale, seront facturés pour ces achats dans la devise de l’emplacement du partenaire.  
+
+Au cours de cette phase, les partenaires ayant des clients existants qui ont déjà acheté de nouvelles offres commerciales dans CSP continueront à être facturés dans la devise de l’emplacement de facturation du client. En outre, les partenaires ayant des clients existants qui effectuent un premier achat d’une nouvelle offre commerciale et dont les locataires ont été créés à partir du 11 mai 2020, continueront à être facturés dans la devise du client.
+
+**Phase 2 :**
+
+- Clients existants qui ont déjà acheté une nouvelle offre commerciale dans CSP avant la phase 1
+- Premier achat de nouvelles offres commerciales par des clients existants - Locataire créé à partir du 11 mai 2020
+
+Après la phase 1 et au cours de l’année civile 2021, Microsoft fera passer la facturation des nouvelles offres commerciales pour les partenaires ayant des clients existants qui ont acheté une nouvelle offre commerciale dans CSP avant la phase 1 ainsi que les clients dont les locataires ont été créés à partir du 11 mai 2020, de la devise de l’emplacement du client à la devise de l’emplacement du partenaire. Les partenaires seront avertis bien en avance avant que ce changement soit implémenté.
+
+Après la phase 2, les partenaires de la région UE/AELE et Royaume-Uni seront facturés dans la devise de l’emplacement du partenaire pour tous les clients et tous les achats CSP.
+
+>[!NOTE]
+>Ce changement affectera seulement la devise de facturation du partenaire, et non pas les tarifs des nouvelles offres commerciales dans CSP. Les nouvelles offres commerciales concernées par ce changement sont les suivantes : Abonnements Azure qui font partie d’un plan Azure, de réservations Azure, d’abonnements de serveur, de logiciels perpétuels et d’achats de la Place de marché commerciale Microsoft sont achetés le programme Fournisseur de solutions Cloud.
+
+### <a name="partner-benefits"></a>Avantages pour les partenaires
+
+Cette mise à jour réduira la complexité et la surcharge liées à la facturation multidevise dans la région UE/AELE et Royaume-Uni pour la nouvelle expérience commerciale.
+
+- Les partenaires recevront une facture consolidée dans une même devise, et ne recevront plus une facture pour chaque devise d’emplacement des clients.
+- Les paiements d’incentives seront effectués dans la même devise que la devise de facturation du partenaire.
+- Les partenaires remarqueront une réduction de la complexité engendrée par la facturation multidevise, libérant ainsi du temps et des ressources actuellement associés au rapprochement des comptes.
+- Pour les partenaires qui n’ont pas encore adopté de nouvelles offres commerciales, ce changement s’aligne sur le modèle de facturation des partenaires précédent, ce qui permet aux partenaires de basculer plus facilement vers la nouvelle expérience commerciale dans CSP.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Passez en revue les informations relatives à ce sujet dans [Galerie des opérations](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (connexion obligatoire) sur le site web des partenaires Microsoft.  
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Pour toute question relative à cette notification, contactez l’[Assistance de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (connexion obligatoire).
+
+### <a name="change-log"></a>Journal des modifications
+
+- 17 novembre 2020 : Première publication
+- 7 janvier 2021 : Scénario supplémentaire inclus pour la phase 1 et la phase 2
+- 28 janvier 2021 : 
+    -    Annonce que la phase 1 est active 
+    -    Clarification du fait que le Royaume-Uni n’étant pas inclus dans l’UE/AELE, il fait partie [de la région et du marché « Europe » de Microsoft](https://docs.microsoft.com/partner-center/regional-authorization-overview) et il sera affecté
+
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Changements dans le journal d’audit de l’Espace partenaires avec l’ajout de deux nouveaux types d’opération pour DAP
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Changements dans les conditions d’intégration des clients CSP (Cloud Solution Provider)
+
+### <a name="categories"></a>Catégories
+
+- Date : 28-01-2021
+- Amélioration de la sécurité et de la conformité
+
+### <a name="impacted-audience"></a>Public concerné
+
+Fournisseurs indirects et partenaires à facturation directe CSP qui ont des clients nouveaux ou existants dans les pays listés dans la section suivante.
+
+### <a name="summary"></a>Résumé
+
+Dans le cadre de notre engagement à aider les partenaires et les clients à exercer leur activité en toute confiance, nous demanderons des informations supplémentaires sur les clients, à compter de fin mars 2021.
+
+### <a name="details"></a>Détails
+
+Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des clients conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme Fournisseur de solutions Cloud. À la fin du mois de mars 2021, nous présenterons des améliorations de l’interface utilisateur et de l’API Espace partenaires qui affecteront les partenaires répondant aux deux critères suivants :
+
+1. Le partenaire a une relation de facturation directe avec Microsoft (ce qui signifie que le partenaire est un partenaire à facturation directe ou un fournisseur indirect).
+2. Le partenaire fait affaire avec des clients nouveaux ou déjà existants dans les pays suivants :
+    - Thaïlande
+    - Vietnam
+    - Turquie
+    - Pologne
+    - Afrique du Sud
+    - Inde
+    - Brésil
+    - Irak
+    - Myanmar
+    - Soudan du Sud
+    - Arabie saoudite
+    - Émirats arabes unis
+    - Venezuela
+
+Les partenaires qui satisfont aux critères devront soumettre l’**identificateur légal** (également connu sous le nom de **code INN d’organisation** du client) et le **numéro de téléphone** lors de l’intégration de nouveaux clients ou de la modification des informations détaillées d’un client existant. Ces partenaires peuvent également entrer un **deuxième prénom** facultatif pour le client.
+
+Les partenaires qui travaillent avec des clients nouveaux ou existants dans les pays suivants ont déjà été intégrés à une version précédente en novembre 2020.
+
+- Arménie
+- Azerbaïdjan
+- Bélarus
+- Hongrie
+- Kazakhstan
+- Kirghizistan
+- Moldova
+- Russie
+- Tadjikistan
+- Ukraine
+- Ouzbékistan
+
+Les partenaires ayant des clients dans le reste du monde auront la possibilité à la fin du mois de mars 2021 d’entrer l’**identificateur légal**, le **numéro de téléphone** et le **deuxième prénom** pour les clients en tant que détails facultatifs.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Pour obtenir des instructions plus détaillées, consultez la documentation technique et les questions fréquemment posées dans le [groupe de partenaires](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dédié (connexion nécessaire).
+- Préparez l’intégration des modifications à l’aide de l’API Espace partenaires et de l’expérience utilisateur web. L’API et les SDK seront disponibles à des fins de test.
+- Veillez à soumettre les données supplémentaires lors de l’intégration de nouveaux clients ou de la modification des détails de clients existants.
+- Si vous utilisez une solution de fournisseur de panneau de contrôle (CPV), consultez le fournisseur concerné.
+
+### <a name="questions"></a>Des questions ?
+
+Si vous avez des questions liées à l’identificateur légal (également appelé code INN ou TIN), contactez votre conseiller fiscal ou le service des impôts local. Microsoft ne peut pas fournir d’aide sur les questions fiscales.
+
+Si vous avez besoin de support pour vos opérations avec Microsoft, [ouvrez une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (connexion nécessaire).
+
+________________
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Contrat Partenaire Microsoft (MPA) – Mise à jour et nouvelles questions pour le Forum aux questions sur les fournisseurs indirects 
+
+### <a name="categories"></a>Catégories
+
+- Date : 27-01-2021
+- Fonctions
+ 
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les revendeurs indirects et les fournisseurs indirects effectuant des transactions commerciales dans le cadre du programme Fournisseur de solutions Cloud.
+
+### <a name="details"></a>Détails
+
+L’implémentation du Contrat Partenaire Microsoft (MPA) pour les revendeurs indirects est actuellement en cours. Pour fournir un meilleur support aux fournisseurs et aux revendeurs, nous avons pris en compte votre feedback et nous avons maintenant regroupé les requêtes courantes sur la façon d’accepter le Contrat Partenaire Microsoft dans une nouvelle [page Forum aux questions (FAQ)](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq).
+
+### <a name="next-steps"></a>Étapes suivantes
+
+**Revendeurs indirects :** Si vous n’avez pas accepté le Contrat Partenaire Microsoft, passez en revue le [Forum aux questions du Contrat Partenaire Microsoft](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) et suivez les instructions pas à pas disponibles [ici](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) pour l’accepter.
+
+**Fournisseurs indirects :** Collaborez avec vos revendeurs indirects et apportez-leur du support en utilisant le [Forum aux questions du Contrat Partenaire Microsoft](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) et les instructions pas à pas disponibles [ici](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Pour toute question relative à cette notification, contactez le [support technique de l’Espace partenaires](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4).
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Changements dans le journal d’audit de l’Espace partenaires avec l’ajout de deux nouveaux types d’opération pour DAP
 
 ### <a name="categories"></a>Catégories
 
@@ -57,7 +215,7 @@ Voici les nouveaux types d’opérations :
 Pour toute autre question, consultez les communautés Yammer CSP appropriées.
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Changements dans la disponibilité des offres Azure dans le programme CSP relatifs à la nouvelle expérience commerciale de CSP pour Azure
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Changements dans la disponibilité des offres Azure dans le programme CSP relatifs à la nouvelle expérience commerciale de CSP pour Azure
 
 ### <a name="categories"></a>Catégories
 
@@ -143,7 +301,7 @@ Les partenaires sont vivement encouragés à se familiariser avec les ressources
 Pour toute question relative à cette notification, contactez l’[Assistance de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Logiciels perpétuels désormais en disponibilité générale pour le programme Fournisseur de solutions Cloud
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> Logiciels perpétuels désormais en disponibilité générale pour le programme Fournisseur de solutions Cloud
 
 ### <a name="categories"></a>Catégories
 
@@ -171,7 +329,7 @@ De même, il est à noter qu’à partir d’aujourd’hui, les logiciels de l�
 Pour toute autre question, consultez les communautés Yammer CSP appropriées.
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Rappel : Introduction de la limitation des API pour les partenaires appelant les API de l’Espace partenaires 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Rappel : Introduction de la limitation des API pour les partenaires appelant les API de l’Espace partenaires 
 
 ### <a name="categories"></a>Catégories
 
@@ -220,7 +378,7 @@ Examinez les  [ressources](/partner-center/develop/api-throttling-guidance) 
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Lancement de SCI (Security, Compliance, and Identity) le 1er février 2021 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>Lancement de SCI (Security, Compliance, and Identity) le 1er février 2021 
 
 ### <a name="categories"></a>Catégories
 
@@ -280,7 +438,7 @@ Si vous avez d’autres questions sur ces offres, consultez vos communautés Yam
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>Migration de DocuSign vers Adobe Sign pour les partenaires sous contrat Partenaire Microsoft (MPA) 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>Migration de DocuSign vers Adobe Sign pour les partenaires sous contrat Partenaire Microsoft (MPA) 
 
 ### <a name="categories"></a>Catégories
 
@@ -326,7 +484,7 @@ Si vous avez des questions, contactez votre centre régional des opérations en 
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Mise à jour des prix appliqués pour la couronne norvégienne 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Mise à jour des prix appliqués pour la couronne norvégienne 
 
 ### <a name="categories"></a>Catégories
 
@@ -344,7 +502,7 @@ L’annonce complète est accessible uniquement aux partenaires Microsoft. [Conn
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Mise à jour des prix appliqués pour la roupie indienne 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Mise à jour des prix appliqués pour la roupie indienne 
 
 ### <a name="categories"></a>Catégories
 
@@ -363,7 +521,7 @@ L’annonce complète est disponible seulement pour les partenaires Microsoft. [
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Mises à jour des forfaits d’appels et des systèmes téléphoniques au 1er février 2021
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Mises à jour des forfaits d’appels et des systèmes téléphoniques au 1er février 2021
 
 ### <a name="categories"></a>Catégories
 
@@ -403,7 +561,7 @@ Ces offres sont disponibles pour les clients commerciaux, les étudiants, les un
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Mises à jour de la liste des prix des licences pour janvier 2021 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>Mises à jour de la liste des prix des licences pour janvier 2021 
 
 ### <a name="categories"></a>Catégories
 
@@ -438,69 +596,6 @@ Les partenaires doivent se référer aux listes de prix de janvier et février d
 
 - Les partenaires doivent télécharger les fichiers de liste de prix les plus récents à partir de l’Espace partenaires afin d’obtenir les prix corrigés pour janvier et février. 
 - Les administrateurs généraux pour les locataires impactés qui ont acheté des abonnements entre le 1er et le 6 janvier seront avertis via un e-mail de l’Espace partenaires avant la fin janvier avec plus de détails. 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a>Changement de la devise de facturation des partenaires pour les nouvelles offres commerciales en UE/AELE
-
-### <a name="categories"></a>Catégories
-
-- Date : 07-01-2021
-- Fonctions
-
-### <a name="impacted-audience"></a>Public concerné
-
-- Tous les partenaires effectuant des transactions commerciales via le programme Fournisseur de solutions Cloud (CSP) dans la région EU/AELE 
-
-### <a name="details"></a>Détails
-
-Dans la région UE/AELE (Union européenne/Association Européenne de Libre-Échange), toutes les nouvelles offres commerciales du programme Fournisseur de solutions cloud utiliseront l’emplacement de facturation du partenaire au lieu de l’emplacement de facturation du client. Cela signifie que les partenaires seront facturés par Microsoft en fonction de la devise de leur emplacement géographique plutôt que de celui de leur client. Ces changements se feront en deux phases :
-
-**Phase 1 :**
-
-- Nouveaux clients achetant une nouvelle offre commerciale dans CSP
-
-- Premier achat de nouvelles offres commerciales par des clients existants - Locataire créé avant le 11 mai 2020
-
-À compter du 28 janvier 2021, les partenaires ayant des nouveaux clients qui achètent une nouvelle offre commerciale ou des clients existants avec des locataires créés avant le 11 mai 2020 effectuant leur premier achat d’une nouvelle offre commerciale, seront facturés pour ces achats dans la devise de l’emplacement du partenaire.  
-
-Au cours de cette phase, les partenaires ayant des clients existants qui ont déjà acheté de nouvelles offres commerciales dans CSP continueront à être facturés dans la devise de l’emplacement de facturation du client. En outre, les partenaires ayant des clients existants qui effectuent un premier achat d’une nouvelle offre commerciale et dont les locataires ont été créés à partir du 11 mai 2020, continueront à être facturés dans la devise du client.
-
-**Phase 2 :**
-
-- Clients existants qui ont déjà acheté une nouvelle offre commerciale dans CSP avant la phase 1
-- Premier achat de nouvelles offres commerciales par des clients existants - Locataire créé à partir du 11 mai 2020
-
-Après la phase 1 et au cours de l’année civile 2021, Microsoft fera passer la facturation des nouvelles offres commerciales pour les partenaires ayant des clients existants qui ont acheté une nouvelle offre commerciale dans CSP avant la phase 1 ainsi que les clients dont les locataires ont été créés à partir du 11 mai 2020, de la devise de l’emplacement du client à la devise de l’emplacement du partenaire. Les partenaires seront avertis bien en avance avant que ce changement soit implémenté.
-
-Après la phase 2, les partenaires de la région UE/AELE seront facturés dans la devise de l’emplacement du partenaire pour tous les clients et tous les achats CSP.
-
->[!NOTE]
->Ce changement affectera seulement la devise de facturation du partenaire, et non pas les tarifs des nouvelles offres commerciales dans CSP. Les nouvelles offres commerciales concernées par ce changement sont les suivantes : Abonnements Azure qui font partie d’un plan Azure, de réservations Azure, d’abonnements de serveur, de logiciels perpétuels et d’achats de la Place de marché commerciale Microsoft sont achetés le programme Fournisseur de solutions Cloud.
-
-
-### <a name="partner-benefits"></a>Avantages pour les partenaires
-
-Cette mise à jour réduira la complexité et la surcharge liées à la facturation multidevise dans la région UE/AELE pour la nouvelle expérience commerciale.
-
-- Les partenaires recevront une facture consolidée dans une même devise, et ne recevront plus une facture pour chaque devise d’emplacement des clients.
-- Les paiements d’incentives seront effectués dans la même devise que la devise de facturation du partenaire.
-- Les partenaires remarqueront une réduction de la complexité engendrée par la facturation multidevise, libérant ainsi du temps et des ressources actuellement associés au rapprochement des comptes.
-- Pour les partenaires qui n’ont pas encore adopté de nouvelles offres commerciales, ce changement s’aligne sur le modèle de facturation des partenaires précédent, ce qui permet aux partenaires de basculer plus facilement vers la nouvelle expérience commerciale dans CSP.
-
-### <a name="next-steps"></a>Étapes suivantes
-
-Passez en revue les informations relatives à ce sujet dans [Galerie des opérations](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (connexion obligatoire) sur le site web des partenaires Microsoft.  
-
-### <a name="questions"></a>Vous avez des questions ?
-
-Pour toute question relative à cette notification, contactez l’[Assistance de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (connexion obligatoire).
-
-### <a name="change-log"></a>Journal des modifications
-
-- 17 novembre 2020 : Première publication
-- 7 janvier 2021 : Scénario supplémentaire inclus pour la phase 1 et la phase 2
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Dépréciation et retrait des API de qualification GET et PUT existantes pour le processus de validation des clients Éducation à la fin du mois de février 2021

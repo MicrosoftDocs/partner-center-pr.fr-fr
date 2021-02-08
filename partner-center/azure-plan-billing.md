@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658431"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924993"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nouvelle expérience de commerce pour les fournisseurs de solutions Cloud - Facturation Azure 
 
@@ -36,7 +36,7 @@ Cet article explique comment accéder à la structure des fichiers de facturatio
 
 - **Conditions de paiement de la facture**  : 60 jours nets.
 
-- **Devise de la facture** : Les partenaires continuent à être facturés dans la devise officielle du pays du client. Par exemple, si le partenaire facturé est en Irlande avec des clients au Royaume-Uni, en Norvège et en Allemagne, alors le partenaire facturé reçoit une facture/un rapprochement en GBP, NOK et EUR.
+- **Devise de la facture** : À compter du 28 janvier 2021, les partenaires de la région UE/AELE et Royaume-Uni qui ont de nouveaux clients et des clients CSP existants achetant de nouvelles offres commerciales pour la première fois et dont les locataires ont été créés avant le 11 mai 2020, seront facturés pour ces achats dans la devise de l’emplacement du partenaire. Les partenaires situés en dehors des régions UE/AELE et Royaume-Uni continueront d’être facturés dans la devise de l’emplacement du partenaire.
 
 - **Primes incitatives des partenaires** : Payées à 45 jours fin de mois.
 

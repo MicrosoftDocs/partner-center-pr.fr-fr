@@ -1,7 +1,7 @@
 ---
 title: Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud)
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’Espace partenaires pour acheter, gérer, vendre et annuler des instances réservées Azure et des abonnements Server pour les clients.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000483"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098837"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
 
@@ -92,27 +92,18 @@ Pour acheter des abonnements logiciels pour le compte d’un client :
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
-Une fois l’abonnement logiciel acheté, suivez les étapes ci-dessous pour le télécharger.
+Une fois que vous avez acheté votre logiciel, vos clients doivent le télécharger. Pour ce faire, utilisez la procédure suivante.
 
 >[!NOTE]
->Vous devez être Agent d’administration pour télécharger le logiciel et récupérer les clés d’activation.
+>Vous devez être Agent d’administration pour obtenir les clés et les téléchargements.
 
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
-
-2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
-
-3. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors. 
-
-4. Développez le produit que vous voulez télécharger. Dans le champ **Sélectionner un produit**, sélectionnez la **Version**, la **Langue** et le **Type de fichier/système d’exploitation** que vous voulez. 
-
-5. Sélectionnez **Soumettre** pour afficher les produits spécifiques. 
-
-6. Sélectionnez **Obtenir des clés et des téléchargements**. 
-
-7. Sélectionnez **Télécharger** pour commencer le téléchargement, ou **Copier le lien** pour copier le lien et l’envoyer au client. 
+1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
+2. Copiez le « lien ciblé » depuis **Lien vers les clés et les téléchargements de produits logiciels** et partagez le lien avec votre client. Quand ils sélectionnent ce lien, ils sont redirigés vers le Centre d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
 
 >[!NOTE]
->Ce lien expire au bout de deux semaines ou après 50 téléchargements, selon ce qui se arrive en premier. Une fois le lien arrivé à expiration, revenez à cette page, puis sélectionnez à nouveau **Obtenir des clés et des téléchargements** pour activer deux semaines ou 50 téléchargements supplémentaires. Vous pouvez le faire autant de fois que nécessaire. 
+>Seuls les clients peuvent voir les clés de produit et télécharger des informations dans le Centre d’administration Microsoft. Les partenaires ne peuvent pas voir ces informations.
+
+Si vous ou vos clients voulez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger les clés de licence de produit et de logiciel](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Téléchargement et clés de licence de l’abonnement serveur disponibles via le Centre d’administration Microsoft 365 pour les clients 
 

@@ -1,7 +1,7 @@
 ---
 title: Vue d’ensemble de la facturation dans l’Espace partenaires
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Découvrez les bases de la facturation et les informations sur les factures pour les partenaires fournisseurs de solutions Cloud dans l’Espace partenaires. Comprend des indications sur la façon de facturer les clients et de trouver et lire votre facture.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570703"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042716"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Vue d’ensemble de la facturation pour les partenaires du programme Fournisseur de solutions Cloud utilisant l’Espace partenaires 
 
@@ -53,7 +53,7 @@ Les types de facturation dans l’Espace partenaires incluent la **facturation b
 
 **Facturation basée sur la licence et facturation basée sur l’utilisation** : Vous serez facturé pour le ou les produits dans la devise du pays ou de la région où vous vous trouvez. Vous êtes facturé de la même façon quel que soit la localisation du client auquel vous avez vendu le ou les produits.
 
-**Facturation ponctuelle** : votre facture sera générée dans le contexte de la devise du client. Cela signifie que si vous êtes un partenaire qui collabore avec des clients utilisant différentes devises facturables, vous recevrez une facture pour chaque type de devise client. Apprenez-en davantage sur la facturation [ponctuelle et périodique](azure-plan-billing.md). 
+**Facturation ponctuelle** : À compter du 28 janvier 2021, les partenaires de la région UE/AELE et Royaume-Uni qui ont de nouveaux clients et des clients CSP existants achetant de nouvelles offres commerciales pour la première fois et dont les locataires ont été créés avant le 11 mai 2020, seront facturés pour ces achats dans la devise de l’emplacement du partenaire.  Les partenaires situés en dehors des régions UE/AELE et Royaume-Uni continueront d’être facturés dans la devise de l’emplacement du partenaire. Apprenez-en davantage sur la facturation [ponctuelle et périodique](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Factures
 
@@ -86,6 +86,8 @@ Vous verrez les **ajustements** et les **crédits** à terme échu sur votre pro
 Les modalités de paiement sont 60 jours net. Les factures doivent avoir été payées à la date d’échéance (60 jours après la date de facturation), faute de quoi votre compte sera en souffrance, ce qui pourra avoir un impact sur votre inscription au programme CSP. 
 
 Vous pouvez regagner l’intégralité des fonctionnalités de vos comptes suspendus lorsque vous payez le montant dû.
+
+Une fois les informations de facturation corrigées, votre paiement est visible dans la page de facturation de l’Espace partenaires dans les 5 jours ouvrables.
 
 ### <a name="taxes-and-vat"></a>Taxes et TVA
 

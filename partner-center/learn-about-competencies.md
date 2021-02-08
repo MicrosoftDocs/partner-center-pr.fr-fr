@@ -1,7 +1,7 @@
 ---
 title: Conditions des compétences de niveau Gold et Silver Microsoft
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment atteindre l’élite des partenaires Microsoft et attirer de nouveaux clients en répondant aux conditions des compétences pour acquérir les niveaux d’adhésion Gold et Silver.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691331"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912537"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Différencier votre entreprise en atteignant les compétences Microsoft
 
@@ -68,6 +68,8 @@ Pour en savoir plus sur les exigences liées à l’obtention de compétences de
 - Apprenez-en davantage sur les [ressources propres à Go-to-Market](mpn-learn-about-go-to-market-benefits.md) incluses avec les compétences.
 
 - Apprenez-en davantage sur [les factures et les taxes relatives aux compétences](mpn-view-print-maps-invoice.md).
+
+- Découvrez comment [payer les frais](mpn-pay-fee-silver-gold-competency.md) associés à l’adhésion à une compétence Silver ou Gold.
 
 - Affichez un [rapport de compétences](pci-competencies-report.md) d’Insights d’Espace partenaires qui indique l’état actuel de vos compétences.
 

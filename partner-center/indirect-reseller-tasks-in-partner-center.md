@@ -1,7 +1,7 @@
 ---
 title: Coopérer avec des fournisseurs indirects dans le programme CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les revendeurs indirects peuvent coopérer avec des fournisseurs indirects Microsoft (ou distributeurs) afin d’obtenir de l’aide pour le support technique et la facturation.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773450"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065469"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -76,30 +76,38 @@ Pour plus d’informations sur les conditions à remplir pour vendre dans le cad
    > [!IMPORTANT]  
    > Pour garantir la sécurité et la confidentialité de votre entreprise, nous enverrons un e-mail à votre contact principal pour vérifier (1) qu’il ou elle est inscrit(e) à un compte Espace partenaires et (2) que cette adresse e-mail appartient bien à votre entreprise. Une fois que le contact principal aura confirmé son adresse e-mail, nous poursuivrons notre vérification des informations fournies. Nous enverrons au contact principal des e-mails d’information sur l’état de l’inscription.
 
-5. Associez votre ID MPN à votre locataire d’ID Azure.
+5. Associez votre ID MPN à votre compte CSP. Votre compte CSP et l’ID MPN associé doivent se trouver dans le même pays et votre ID MPN doit être dans l’Espace partenaires.
+  
 
-    1. Connectez-vous avec votre compte MPN. Accédez à **Paramètres** -> **Paramètres du compte** -> **Profil de l’organisation** -> **Identificateurs**. Visualisez vos ID MPN et sélectionnez celui dont le pays correspond à celui de votre compte CSP. En d’autres termes, votre compte CSP et l’ID MPN associé doivent se trouver dans le même pays ou la même région.
-    
-     
+   a. Connectez-vous à l’Espace partenaires avec les informations d’identification de votre compte « MPN » (vos informations d’identification MPN peuvent être différentes de vos informations d’identification CSP).
+   
+   b. Accédez à **Paramètres** -> **Paramètres du compte** -> **Profil de l’organisation** -> **Identificateurs**.
+ 
+    c. Recherchez l’ID MPN avec le type « Localisation » correspondant au pays de ce compte CSP. 
+
+    d. Si vous ne trouvez pas l’ID MPN de localisation correspondant au compte CSP que vous souhaitez utiliser, vous pouvez ajouter une nouvelle localisation qui créera un nouvel ID MPN. Pour en savoir plus, consultez [Gérer les emplacements](manage-locations.md).
+
+    e. Vous pouvez différer cette étape pour l’instant. Cependant, vous ne pourrez pas signer le Contrat Partenaire Microsoft (MPA) ou effectuer des transactions dans CSP tant que vous n’aurez pas terminé le processus d’association de votre ID MPN à votre compte CSP.
+
  > [!IMPORTANT]  
-   > Sélectionnez l’ID MPN qui se trouve dans le même pays ou la même région que votre compte CSP.
+ > Sélectionnez l’ID MPN disponible dans l’Espace partenaires et qui est dans le même pays que votre compte CSP, et vérifiez que votre ID MPN se trouve dans l’Espace partenaires.
 
-6. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
+6. Une fois que Microsoft a effectué la vérification de votre inscription, ce qui demande de 3 à 5 jours ouvrables, signez le Contrat Partenaire Microsoft sur la [vue d’ensemble du tableau de bord de l’Espace partenaires](https://partner.microsoft.com/pcv/dashboard/overview) en utilisant des informations d’identification d’administrateur général. Pour visualiser et télécharger le **Contrat Partenaire Microsoft** avant de le signer, cliquez sur le lien Contrat Partenaire Microsoft comme indiqué ci-dessous.  Si votre compte est bloqué sur la vérification après 5 jours ouvrables, lisez [Processus de vérification de compte](verification-responses.md).
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nouvel emplacement du Contrat Partenaire Microsoft":::
+
+ 
+7. Vérifiez que vous avez signé le Contrat Partenaire Microsoft dans la section **Informations sur le programme** du profil de partenaire. Vous verrez également une notification de la bannière de confirmation dans la page Vue d’ensemble du fournisseur de solutions Cloud. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Bannière verte de l’acceptation":::
+
+
+8. Quand votre compte Espace partenaires est prêt à être utilisé, vérifiez que vous avez été ajouté au groupe d’agents administrateurs. Pour terminer la configuration de votre compte, notamment l’ajout d’autres utilisateurs, vous devez disposer d’autorisations d’agent administrateur. Suivez ces étapes pour afficher ou mettre à jour vos autorisations :
 
    1. Dans le tableau de bord de l’Espace partenaires, sélectionnez l’icône **Paramètres**, puis, sous **Paramètres du compte**, sélectionnez **Gestion des utilisateurs**.
 
    2. Sélectionnez votre nom dans la liste des utilisateurs. Sélectionnez ensuite l’option **Agent administrateur** si elle n’est pas déjà sélectionnée. Sélectionnez **Mettre à jour**.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Tous les revendeurs indirects doivent signer le Contrat Partenaire Microsoft
-
-1.  Si ce n’est déjà fait, passez maintenant de Partner Membership Center à l’Espace partenaires. Pour obtenir de l’aide sur le passage à l’Espace partenaires, lisez le [Guide de migration de PMC vers l’Espace partenaires](guide-to-migration.md). 
-
-2.  Si vous avez un compte Espace partenaires (ID MPN), vous devez encore vous inscrire officiellement au programme Fournisseur de solutions Cloud (CSP, Cloud Solution Provider). Pour vérifier l’état de votre appartenance, accédez à votre [**profil de partenaire**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) et examinez le type de compte. Ensuite, inscrivez-vous au programme CSP en tant que [revendeur indirect](enrolling-in-the-csp-program.md). Une fois que vous êtes inscrit en tant que revendeur indirect, acceptez la [demande de relation CSP de votre fournisseur indirect](indirect-reseller-tasks-in-partner-center.md).
-
-3.  Si vous vous êtes déjà inscrit à l’Espace partenaires en tant que revendeur indirect, acceptez le Contrat Partenaire Microsoft dans la [vue d’ensemble du tableau de bord de l’Espace partenaires](https://partner.microsoft.com/pcv/dashboard/overview) en utilisant des informations d’identification d’administrateur général. Vérifiez que vous avez signé le Contrat Partenaire Microsoft dans la section **Informations sur le programme** du profil de partenaire. Vous verrez également une notification de la bannière de confirmation dans la page Vue d’ensemble du fournisseur de solutions Cloud. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Bannière verte de l’acceptation":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Se connecter avec un fournisseur indirect
 
@@ -145,3 +153,4 @@ Le lieu où vous exercez en tant que revendeur indirect CSP avec votre sociét�
 - [En savoir plus sur le processus de vérification](verification-responses.md)
 
 - [Voir les conditions pour les partenaires de facturation directs](direct-partner-new-requirements.md)
+- [Contrat Partenaire Microsoft](microsoft-partner-agreement.md)
