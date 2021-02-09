@@ -1,7 +1,7 @@
 ---
 title: Gérer les sites dans votre compte partenaire
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment ajouter une nouvelle localisation et comment l’ID MPN de localisation est utilisé dans les programmes d’incentives, l’activité CSP, les abonnements et autres transactions.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098888"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624270"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gérer les localisations de votre compte MPN et ajouter une nouvelle localisation
 
@@ -47,6 +47,8 @@ Pour ajouter un nouveau compte commercial CSP, commencez par veiller à remplir 
  >N’oubliez pas de vous connecter avec les **nouvelles** informations d’identification pour le **nouveau** compte CSP. N’utilisez pas vos informations d’identification existantes, car l’Espace partenaires vous reconnaîtra comme ayant déjà un compte.
 
 2. Acceptez le Contrat Partenaire Microsoft et activez le compte.
+
+1. Si vous souhaitez vous inscrire en tant que Direct Bill Partner, lisez les [Conditions requises qui s’y rattachent](direct-partner-new-requirements.md)
 
 ## <a name="view-your-mpn-locations"></a>Voir vos localisations MPN
 
