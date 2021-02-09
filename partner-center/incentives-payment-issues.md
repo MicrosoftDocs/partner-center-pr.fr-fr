@@ -1,27 +1,27 @@
 ---
 title: Résolution des problèmes liés aux paiements et aux bénéfices
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Découvrez comment résoudre des problèmes tels que des revenus manquants ou incorrects, des problèmes d’éligibilité et comment concilier vos revenus d’incentives.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189762"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834881"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Résolution des problèmes liés aux paiements manquants, aux revenus incorrects et à d’autres problèmes
 
-**S’applique à** :
+**S’applique à**:
 
 - Espace partenaires
 
-**Rôles appropriés** :
+**Rôles appropriés**:
 
 - Administrateur de primes incitatives
 
@@ -37,7 +37,7 @@ La validation peut prendre jusqu’à 48 heures. Pendant ce temps, votre profil
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Comment savoir si mon profil de paiement et fiscal est bien renseigné ?
 
-L’état de votre inscription est indiqué dans la page Vue d’ensemble. Lorsque vous avez terminé de créer vos profils, votre statut est **validation** de l’inscription. Une fois vos informations validées, votre statut devient **inscrit** . Cet état indique que votre paiement et votre profil fiscal et que votre inscription a été effectuée avec succès.
+L’état de votre inscription est indiqué dans la page Vue d’ensemble. Lorsque vous avez terminé de créer vos profils, votre statut est **validation** de l’inscription. Une fois vos informations validées, votre statut devient **inscrit**. Cet état indique que votre paiement et votre profil fiscal et que votre inscription a été effectuée avec succès.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Pourquoi je dois mettre à jour mon profil fiscal pour l’utiliser avec un nouveau programme d’incentive ?
 
@@ -62,17 +62,35 @@ La raison de paiements manquants ou incorrects est souvent l’une des suivantes
   
   3. Sélectionnez le lien de document souhaité, puis passez en revue les sections 
 
-L' **éligibilité des partenaires** et les règles de **revenus éligibles** .
+L' **éligibilité des partenaires** et les règles de **revenus éligibles**.
 
 - **Votre profil de paiement est peut-être incomplet.** La date de début de vos gains d’incentives sera le premier jour du mois où vous avez rempli toutes les conditions d’éligibilité, notamment l’intégration des détails fiscaux et de paiement. Les gains ne seront pas disponibles pour les mois antérieurs à la finalisation du paiement et des taxes. Par exemple, si vous répondez à toutes les conditions au cours du mois d’avril 2020, la date de début de vos gains sera le 1er avril 2020.
-- **Vous avez peut-être une action en suspens** .  Il est possible que vos primes incitatives ne soient pas traitées car que vous ayez mis une action en attente.
+- **Vous avez peut-être une action en suspens**.  Il est possible que vos primes incitatives ne soient pas traitées car que vous ayez mis une action en attente.
 
   **Pour afficher vos actions en suspens**
 
   1. Connectez-vous à [incentives partenaires](https://partner.microsoft.com/membership/partner-incentives).
-  2. Ouvrez la page **historique des transactions** . Passez en revue les champs de cette page pour connaître les actions en suspens à effectuer, comme le **profil d’impôt en** attente, le **profil de paiement en** attente ou l’envoi d’un **facture d’impôt en attente** .
+  2. Ouvrez la page **historique des transactions** . Passez en revue les champs de cette page pour connaître les actions en suspens à effectuer, comme le **profil d’impôt en** attente, le **profil de paiement en** attente ou l’envoi d’un **facture d’impôt en attente**.
 
 Si ces actions ne sont pas utiles et que vos paiements sont toujours manquants ou incorrects, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+
+## <a name="how-can-i-reconcile-my-adjustments"></a>Comment puis-je concilier mes ajustements ?
+
+Vous pouvez localiser et concilier vos ajustements en téléchargeant les détails de votre transaction et de vos revenus.
+
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
+2. Dans la barre de navigation supérieure, sélectionnez l’icône Money, puis sélectionnez **historique des transactions**.
+3. Appliquez les filtres appropriés. (Voir la Remarque **importante** ci-dessous.)
+4. Une fois que vous avez filtré vos données, sélectionnez **Démarrer le téléchargement**, puis **Exporter les données**. Vos données s’ouvrent dans un fichier CSV.
+5. Dans le fichier CSV, accédez à la colonne P, **type** acquis.
+6. Filtrez cette colonne pour l' **ajustement-remise**. Vous pouvez voir le mois de chaque ajustement dans la colonne S.
+
+>[!IMPORTANT]
+>Les ajustements appliqués aux périodes de paie précédentes ne seront pas visibles dans le bénéfice du mois au cours duquel l’ajustement a été appliqué. Les ajustements seront toujours reflétés dans le rapport des bénéfices pour le mois auquel l’ajustement a été appliqué.
+>
+>Par exemple, un ajustement du salaire de janvier 2019 qui a été traité en septembre 2019 ne reflète pas le montant des bénéfices pour le 2019 septembre. Toutefois, lorsque le paiement pour le 2019 septembre est reçu, il inclut l’ajustement du 2019 du 1er janvier qui a été appliqué en septembre. Dans ce scénario, vous devez télécharger les détails de la transaction du 2019 janvier pour voir l’ajustement qui a été appliqué.
+>
+>Gardez cela à l’esprit lorsque vous définissez vos filtres de date. Comme indiqué ci-dessus, les ajustements pour les périodes précédentes ne sont visibles que dans le mois auquel l’ajustement a été appliqué. Vérifiez que la plage de dates sélectionnée correspond au mois de l’ajustement que vous tentez de localiser. Vous devrez peut-être sélectionner **Effacer tout** pour supprimer vos filtres, puis en appliquer de nouveaux.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Pourquoi les paiements au titre de ma demande de coopération sont-ils effectués dans deux monnaies différentes ?
 
@@ -123,7 +141,7 @@ Cette vue vous permet d’afficher les paiements pour tous les programmes et ID 
 | Affichez vos informations de paiement par ligne, y compris les montants de versement et de paiement en devise locale  | Afficher le champ **liste des paiements**   |
 | Télécharger une lettre de remise   |  Sélectionner la **remise de paiement**  |
 | Afficher les détails de niveau transaction pour un paiement spécifique |  Sélectionner une **vue**  |
-| Exporter les détails d’une transaction vers Excel  |  Sélectionnez **Démarrer le téléchargement** , puis cliquez sur **Exporter les données** . Notez que tous les filtres sélectionnés seront appliqués aux données exportées. Une fois que l’État est passé à terminé, sélectionnez **Télécharger** et suivez les invites pour exporter le rapport détaillé des transactions. Actualisez la page si l’État n’est pas mis à jour dans un délai de cinq minutes.  |
+| Exporter les détails d’une transaction vers Excel  |  Sélectionnez **Démarrer le téléchargement**, puis cliquez sur **Exporter les données**. Notez que tous les filtres sélectionnés seront appliqués aux données exportées. Une fois que l’État est passé à terminé, sélectionnez **Télécharger** et suivez les invites pour exporter le rapport détaillé des transactions. Actualisez la page si l’État n’est pas mis à jour dans un délai de cinq minutes.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Revenus et paiements manquants ou incorrects
 
@@ -135,11 +153,11 @@ Si vous ne trouvez toujours pas vos revenus ou si vous pensez que les bénéfice
 
 Si vous constatez des écarts dans vos revenus, effectuez les étapes suivantes :
 
-1. **Vérifiez que vous êtes éligible aux gains** .  Les bénéfices seront disponibles uniquement si vous remplissez les conditions d’éligibilité [et de bénéfice du](incentives-confirm-your-earnings-eligibility.md) [programme](incentives-determined-your-program-eligibility.md) .
+1. **Vérifiez que vous êtes éligible aux gains**.  Les bénéfices seront disponibles uniquement si vous remplissez les conditions d’éligibilité [et de bénéfice du](incentives-confirm-your-earnings-eligibility.md) [programme](incentives-determined-your-program-eligibility.md) .
 
 2. **Vérifiez que votre profil de paiement est complet.**  La date de début de vos gains d’incentives sera le premier jour du mois où vous avez rempli toutes les conditions d’éligibilité, notamment l’intégration des détails fiscaux et de paiement. Les gains ne seront pas disponibles pour les mois antérieurs à la finalisation du paiement et des taxes. Par exemple, si vous répondez à toutes les conditions au cours du mois d’avril 2020, la date de début de vos gains sera le 1er avril 2020. 
 
-3. **Vérifiez que vous remplissez toutes les conditions** .  Vérifiez que vous avez respecté les règles d' [éligibilité](#my-payment-is-missing-or-incorrect) et de chiffre d’affaires éligible pour votre programme d’incentives.
+3. **Vérifiez que vous remplissez toutes les conditions**.  Vérifiez que vous avez respecté les règles d' [éligibilité](#my-payment-is-missing-or-incorrect) et de chiffre d’affaires éligible pour votre programme d’incentives.
 
 Si ces actions ne sont pas utiles et que vos revenus ne sont toujours pas conciliés, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -151,7 +169,7 @@ Si ces actions ne sont pas utiles et que vos revenus ne sont toujours pas concil
 
 3. Sélectionnez le lien du document pour le programme correspondant.
 
-4. Dans le document, reportez-vous à la section **structure et tarifs du programme** .
+4. Dans le document, reportez-vous à la section **structure et tarifs du programme**.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

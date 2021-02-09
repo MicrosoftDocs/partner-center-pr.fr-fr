@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098854"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834817"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
 
@@ -40,15 +40,15 @@ Pour acheter des abonnements logiciels au nom d’un client, accédez à la page
 Une fois que vous avez acheté votre logiciel, vos clients doivent le télécharger. Pour ce faire, utilisez la procédure suivante.
 
 >[!NOTE]
->Vous devez être un agent d’administration pour obtenir des clés et des téléchargements.
+>Vous devez être un agent d’administration pour obtenir le lien vers les clés et les téléchargements.
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
-2. Copiez la « liaison profonde » à partir du **lien vers les clés de produit logicielles et téléchargez** et partagez le lien avec votre client. Lorsqu’ils sélectionnent ce lien, ils sont redirigés vers le centre d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
+2. Copiez le « lien ciblé » depuis **Lien vers les clés et les téléchargements de produits logiciels** et partagez le lien avec votre client. Quand ils sélectionnent ce lien, ils sont redirigés vers le Centre d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
 
 >[!NOTE]
->Seuls les clients peuvent voir les clés de produit et télécharger des informations dans le centre d’administration Microsoft. Les partenaires ne peuvent pas voir ces informations.
+>Seuls les clients peuvent voir les clés de produit et télécharger des informations dans le Centre d’administration Microsoft. Les partenaires ne peuvent pas voir ces informations.
 
-Si vous ou vos clients souhaitez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger des logiciels et des clés de licence de produit](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Si vous ou vos clients voulez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger les clés de licence de produit et de logiciel](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 
