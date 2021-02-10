@@ -1,7 +1,7 @@
 ---
-title: Gérer les sites dans votre compte partenaire
+title: Gérer les localisations dans votre compte partenaire
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment ajouter une nouvelle localisation et comment l’ID MPN de localisation est utilisé dans les programmes d’incentives, l’activité CSP, les abonnements et autres transactions.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624270"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005911"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gérer les localisations de votre compte MPN et ajouter une nouvelle localisation
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gérer les localisations dans votre compte MPN et ajouter (supprimer) une localisation
 
 
 **Rôles appropriés**
@@ -79,7 +79,11 @@ Pour ajouter un nouveau compte commercial CSP, commencez par veiller à remplir 
 :::image type="content" source="images/legal-biz.png" alt-text="Ajouter une nouvelle activité légale":::
 
 > [!NOTE]
-> Une fois qu’un site a été ajouté dans l’Espace partenaires, il ne peut plus être supprimé. Vous verrez **MPN** dans le menu de gauche de l’Espace partenaires si vous avez utilisé le bon ID MPN pour vous connecter.
+> Une fois que vous ajoutez une localisation dans l’Espace partenaires, vous ne pouvez plus la supprimer. Vous verrez **MPN** dans le menu de gauche de l’Espace partenaires si vous avez utilisé le bon ID MPN pour vous connecter.
+
+## <a name="delete-a-location"></a>Supprimer une localisation
+
+Pour supprimer une localisation de votre compte, vous devez contacter [le support de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Veillez à bien comprendre l’impact de cette action. Les localisations supprimées ne peuvent pas être récupérées et tout ce qui est lié à cet ID MPN spécifique n’est plus reconnu ni actif pour votre entreprise.
 
 ## <a name="change-country-of-partner-global-account"></a>Changer le pays du compte global du partenaire 
 
