@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916902"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281312"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Comment vendre des offres à des clients d’éducation et comment créer un client de formation dans l’espace partenaires
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916902"
 
 ## <a name="create-an-education-customer"></a>Créer un client de formation
 
-Cet article explique comment créer un client de formation dans l’espace partenaires et vendre des produits de formation à ces derniers. Elle explique également comment afficher l’état de vérification et soumettre à nouveau la demande de vérification, si nécessaire.
+Cet article explique comment créer un client de formation dans l’espace partenaires et vendre des produits de formation à ces derniers. Elle explique également comment afficher l’état de vérification et soumettre à nouveau la demande de vérification, si nécessaire. Les offres de formation sont actuellement **disponibles uniquement pour les services basés sur des licences** , tels que Microsoft 365, Dynamics, Intune, etc. Elle n’est pas disponible pour les autres types (abonnements logiciels, logiciels perpétuelles ou produits Azure).
 
 > [!IMPORTANT]
 > Microsoft vérifie chaque client de formation nouvellement créé pour s’assurer qu’elles sont qualifiées pour les offres d’éducation.  Veillez à entrer les informations requises de manière aussi précise et complète que possible pour éviter les retards dans le processus de vérification.

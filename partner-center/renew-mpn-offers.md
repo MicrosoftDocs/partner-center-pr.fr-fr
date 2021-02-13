@@ -1,52 +1,36 @@
 ---
 title: Renouveler vos offres MPN
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Renouvelez les offres MPN (Microsoft Partner Network) pour Microsoft Action Pack et les compétences. La fenêtre de renouvellement commence à l’anniversaire de la date d’achat plus un jour.
+description: Renouvelez les offres MPN (Microsoft Partner Network) pour les compétences et les spécialisations avancées - la fenêtre de renouvellement commence à l’anniversaire de la date d’achat plus un jour.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846919"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624134"
 ---
-# <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renouveler vos offres MPN pour Microsoft Action Pack et les compétences au cours de la fenêtre de renouvellement
+# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renouveler vos offres MPN pour les compétences et les spécialisations avancées au cours de la fenêtre de renouvellement
 
 ### <a name="applies-to"></a>S’applique à
 
 - Espace partenaires
 
-Le Microsoft Action Pack et les compétences Silver et Gold sont des offres destinées aux membres du Microsoft Partner Network qui doivent être renouvelées chaque année. La fenêtre de renouvellement commence à la date anniversaire de votre achat, plus un jour. Par exemple, si vous avez acheté le Microsoft Action Pack le 1er septembre 2018, la fenêtre de renouvellement commence le 2 septembre 2019. Vous pouvez renouveler Microsoft Action Pack et les compétences dans l’Espace partenaires. Sous la rubrique Offres d’abonnement, vous trouverez les offres que vous avez achetées et la date anniversaire de vos offres dans la colonne de la date de début du renouvellement. L’appartenance au Microsoft Partner Network lui-même ne nécessite pas de renouvellement annuel. 
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Réponse à la crise du COVID-19 : Mise à jour de Microsoft Partner Network
 
-Pour en savoir plus, sélectionnez le lien approprié ci-dessous : 
+Microsoft offre une extension de compétence (à l’exception de la compétence Applications métier du cloud) et une extension de spécialisation avancée pour les partenaires avec des dates anniversaires comprises entre le 1er janvier 2021 et le 30 juin 2021. Pour plus d’informations, consultez notre [billet de blog pour les partenaires](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
-- [Compétences](learn-about-competencies.md)
-
-- [Microsoft Action Pack](mpn-get-action-pack.md)
-
-- [Comment gérer vos avantages](manage-your-partner-network-benefits.md)
-
-## <a name="renewal-reminders"></a>Rappels de renouvellement 
+## <a name="renewal-reminders"></a>Rappels de renouvellement
 
 Vous disposez de 30 jours après la date anniversaire pour effectuer le renouvellement. Vos avantages persistent pendant cette période. Quinze jours avant la date anniversaire, Microsoft vous rappelle votre anniversaire à venir. Vous recevez un autre rappel 23 jours après la date anniversaire. Lorsque vous effectuez le renouvellement dans la fenêtre Date anniversaire + 30 jours, vos avantages restent inchangés. Si vous n’effectuez pas le renouvellement dans cette fenêtre, vous perdez vos avantages et compétences.
 
 Lorsque vous effectuez le renouvellement au cours de la fenêtre prévue à cet effet, votre nouvelle date anniversaire est fixée à 365 jours après la date anniversaire actuelle.
-
-## <a name="responding-to-covid-19"></a>Réponse à la crise du COVID-19 :
-
-Pour mieux vous concentrer sur l’aide à vos clients : 
-
-- **Si la date anniversaire de votre compétence se situe entre le 1er juillet et le 31 décembre 2020**, nous étendons vos compétences existantes jusqu’à votre prochaine date anniversaire en 2021. Vos rappels de renouvellement de compétence seront mis à jour pour refléter cette nouvelle offre. 
-
-- **Si votre compétence est renouvelée**, l’Espace partenaires indiquera que vos besoins sont satisfaits. Pour effectuer le renouvellement, vous devez payer vos frais de compétence dans votre fenêtre de renouvellement sur la page Offres d’abonnement. 
-
-- **Si vous avez déjà manqué votre fenêtre de renouvellement**, vous pouvez réactiver votre compétence et obtenir un nouvel accès aux ressources et aux avantages en payant vos frais dans la page Offres d’abonnement. Cette extension est valable jusqu’au 31 décembre 2020.
 
 ### <a name="how-to-view-competency-renewal-information"></a>Comment afficher les informations de renouvellement de compétences
 
@@ -56,7 +40,13 @@ Pour mieux vous concentrer sur l’aide à vos clients :
 
 3. Sélectionnez l’une de vos compétences. Un avis vous indiquera que vous êtes dispensé de satisfaire aux exigences jusqu’à la date de votre prochain renouvellement.
 
-4. Pour profiter de cette offre, accédez à **Offres d’abonnement**. Vous devrez peut-être payer les frais de compétence pour terminer le processus, en fonction de l’état d’achat ou de renouvellement de votre compétence. 
+4. Pour profiter de cette offre, accédez à **Offres d’abonnement**. Vous devrez peut-être payer les frais de compétence pour terminer le processus, en fonction de l’état d’achat ou de renouvellement de votre compétence.
 
 Pour tirer parti de l’extension, vous devez avoir déplacé votre abonnement entre le Partner Membership Center (PMC) et l’Espace partenaires afin de renouveler votre compétence et de payer les frais. Si vous n’avez pas déplacé votre abonnement, [découvrez-en plus](prepare-pmc-pc-migration.md) et [effectuez la transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) dès aujourd’hui.  
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Compétences](learn-about-competencies.md)
+
+- [Comment gérer vos avantages](manage-your-partner-network-benefits.md)
 

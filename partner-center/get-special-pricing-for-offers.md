@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624049"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281276"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendre à des secteurs spécialisés tels que l’éducation, les associations et le secteur public
 
@@ -24,15 +24,15 @@ ms.locfileid: "99624049"
 - Agent d’administration
 - Agent commercial
 
-Microsoft fournit une tarification spéciale et réduite pour certains groupes de clients, y compris les clients de formation, les clients sans but lucratif, les petites entreprises et les entités gouvernementales. Vous et votre client devez être qualifié pour pouvoir proposer une tarification spéciale. 
+Microsoft fournit une tarification spéciale et réduite pour certains groupes de clients, y compris les clients de formation, les clients sans but lucratif, les petites entreprises et les entités gouvernementales. Vous et votre client devez être qualifié pour pouvoir proposer une tarification spéciale. Ces offres spéciales sont actuellement **disponibles uniquement pour les services basés sur des licences** , comme Microsoft 365, Dynamics, Intune, etc. Elle n’est pas disponible pour les autres types (abonnements logiciels, logiciels perpétuelles ou produits Azure).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Conditions requises pour vendre à des industries spécialisées
 
 |**Tarification spéciale**   |**Compétences requises du revendeur**   |**Qualifications requises par le client**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |None   | Doit être un [utilisateur d’éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Administration   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur une licence à Government, aucune qualification n’est requise.|   None|
-|Association sans but lucratif  |None<br/> Doit avoir un locataire Azure Active Directory à but non lucratif.<br/> Apprenez-en davantage sur les [offres spéciales à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscrivez-vous au [programme Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
+|Éducation   |Aucun   | Doit être un [utilisateur d’éducation qualifié](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Administration   |Pour vendre Azure, inscrivez-vous à l’aide du [formulaire Microsoft US Government validation Cloud](https://azuregov.microsoft.com/csp). Pour vendre des abonnements basés sur une licence à Government, aucune qualification n’est requise.|   Aucun|
+|Association sans but lucratif  |Aucun<br/> Doit avoir un locataire Azure Active Directory à but non lucratif.<br/> Apprenez-en davantage sur les [offres spéciales à but non lucratif](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscrivez-vous au [programme Microsoft](https://nonprofit.microsoft.com/#/register) pour être éligible.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Vérifier vos qualifications revendeur
 
@@ -70,7 +70,7 @@ Achetez des règles pour vendre des offres spéciales aux clients :
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | Commerciale |Commerciale | Cloud de communauté de non-bénéfice, d’éducation ou d’administration |
 | À but non lucratif |Commerciales, à but non lucratif | Cloud de la communauté de l’enseignement ou de l’administration |
-| Education |Commerciales, éducation | Cloud de communauté non lucrative ou gouvernementale |
+| Éducation |Commerciales, éducation | Cloud de communauté non lucrative ou gouvernementale |
 | Cloud de la communauté gouvernementale |Cloud de la communauté gouvernementale | Non lucratif, éducation ou commercial |
 
 ## <a name="next-steps"></a>Étapes suivantes

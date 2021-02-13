@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588748"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281366"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -158,7 +158,7 @@ Avant de commencer la migration des contrats à partir du PC, suivez les instruc
     - Date de fermeture de la transaction estimée
     - Notes du partenaire
 
-Vous pouvez utiliser les fonctionnalités de téléchargement et de chargement en bloc dans PSC pour nettoyer les données pour toutes les transactions éligibles.
+Vous pouvez utiliser les fonctionnalités de téléchargement et de chargement en bloc dans PSC pour ajouter tous les détails manquants dans le contrat pour toutes les transactions éligibles.
 
 >[!Note]
 > La migration de la transaction échouera même si les conditions préalables ci-dessus ne sont pas remplies. Toutefois, vous ne pouvez pas modifier l’état de la transaction si l’un des champs requis mentionnés ci-dessus dans l’espace partenaires n’est pas disponible. Vous devrez ensuite entrer toutes les informations requises manquantes dans les offres de l’espace partenaires pour commencer à travailler dessus. **Il est vivement recommandé de nettoyer les demandes éligibles du PSC avant de les migrer vers l’espace partenaires.**
@@ -178,9 +178,9 @@ Le rapport contient les détails ci-dessous.
 4. **ID de contrat PSC** : identificateur unique dans le PSC pour le contrat.
 5. **Erreurs** : pour indiquer s’il y a une erreur lors de la migration d’une transaction spécifique.
 
-Toutes les transactions qui ont été migrées avec succès ne seront pas visibles dans le PSC. Vous pouvez travailler sur les contrats migrés sur PC. Aucune modification n’est apportée aux interactions avec les vendeurs Microsoft pour les ventes de covente.
+Toutes les transactions qui ont été migrées avec succès ne seront pas visibles dans le PSC. Vous pouvez continuer à travailler sur les contrats migrés sur PC, y compris pour terminer l’inscription des transactions sur PC. Aucune modification n’est apportée aux interactions avec les vendeurs Microsoft pour les ventes de covente.
 
-Les offres migrées à partir de PSC seront disponibles dans les onglets entrant et sortant en fonction de la source de la transaction. Tous les contrats de partenariat créés par le partenaire seront disponibles sous l’onglet sortant et les offres engagées par Microsoft seront disponibles dans l’onglet entrant de l’espace partenaires. Il y aura deux types de transactions qui seront créées après la migration.
+Les offres migrées à partir de PSC seront disponibles dans les onglets entrant et sortant en fonction de la source de la transaction. Toutes les transactions partagées par votre entreprise sont disponibles sous l’onglet sortant et les offres engagées par Microsoft sont disponibles dans l’onglet entrant de l’espace partenaires. Il y aura deux types de transactions qui seront créées après la migration.
 
 1. **Ventes de covente** : les demandes qui sont marquées comme covente dans PSC sont créées en tant que ventes de covente dans l’espace partenaires.
 2. Transactions **dirigées** par un partenaire : les demandes qui ne sont pas marquées comme covente sont créées en tant que contrats dirigés par un partenaire dans l’espace partenaires. Les offres dirigées par un partenaire sont visibles par les vendeurs Microsoft et peuvent être mises à niveau pour vendre leurs offres avant d’atteindre l’état des terminaux (gagnés, perdus). En outre, les contrats menés par un partenaire sont éligibles à l’enregistrement de la transaction s’il existe une solution incitative dans le contrat.
@@ -386,12 +386,20 @@ L’espace partenaires n’est pas accessible directement à votre prestations c
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Recherche de l’ID MPN approprié si votre compte dans PSC n’est pas associé à un MPN valide
 
-Si vous êtes ici, parce que vous avez vu une bannière dans le PSC mentionnant « problème d’association d’ID MPN non valide », vous êtes au bon endroit.
+Si vous êtes ici, parce que vous avez vu une bannière dans le PSC mentionnant « problème d’association d’ID MPN non valide », vous êtes au bon endroit. Votre compte a peut-être été lié à un ID MPN non valide pour les raisons suivantes
+
+- Votre entreprise ne dispose pas d’un compte de l’espace partenaires.
+- Votre récupération PDM a commis une erreur lors de la saisie de l’ID MPN de votre compte dans les systèmes internes qui lient votre compte PSC à votre compte espace partenaires (MPNID).
+- Votre entreprise n’a pas terminé la migration du centre d’appartenance (PMC) partenaire vers le PC.
 
 Tout d’abord, recherchez l’ID MPN correct en suivant les étapes ci-dessous.
 
 - Connectez-vous à votre compte espace partenaires
 - Utilisez les instructions fournies dans la [documentation des paramètres de compte](./partner-center-account-setup.md#locate-your-mpn-id) pour localiser l’ID MPN.
+
+Vous trouverez ci-dessous une capture d’écran montrant l’emplacement exact où vous pouvez trouver votre ID MPN de l’espace partenaires.
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Image représentant les paramètres de compte où le partenaire peut trouver son ID MPN."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Ensuite,
 

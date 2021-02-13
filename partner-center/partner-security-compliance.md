@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132961"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624151"
 ---
 # <a name="security-requirements-status-report"></a>Rapport sur l’état des exigences de sécurité
 
-**S’applique à**
-
-- Tous les partenaires du programme Fournisseur de solutions Cloud
-- Tous les fournisseurs de panneau de contrôle
-- Tous les conseillers
-
-**Utilisateurs appropriés**
-- Tous les utilisateurs activés, y compris les utilisateurs invités
+**Rôles appropriés**
+- Fournisseurs de panneau de contrôle
+- Administrateurs généraux
 
 Cet article explique le rapport sur l’état des exigences de sécurité dans l’Espace partenaires. Ce rapport fournit des métriques sur la conformité des utilisateurs de votre locataire partenaire aux [exigences de sécurité des partenaires](partner-security-requirements.md) en matière d’authentification multifacteur (MFA).
 
-Pour accéder à ce rapport dans l’ [Espace partenaires](https://partner.microsoft.com/dashboard), accédez à **Paramètres** > **Paramètres partenaire** > **État des exigences de sécurité**. Le rapport est mis à jour quotidiennement et reflète les données de connexion des sept derniers jours.
+Pour accéder à ce rapport dans l’[Espace partenaires](https://partner.microsoft.com/dashboard), accédez à **Paramètres** > **Paramètres du compte** > **État des exigences de sécurité**. Le rapport est mis à jour quotidiennement et reflète les données de connexion des sept derniers jours.
 
 >[!NOTE]
 >Le rapport sur l’état des exigences de sécurité est pris en charge uniquement dans l’Espace partenaires. Il n’est pas disponible dans Microsoft Cloud for US Government ni Microsoft Cloud Allemagne. Nous recommandons vivement aux partenaires qui effectuent des transactions par le biais d’un cloud souverain (US Government et Allemagne) d’adopter immédiatement ces nouvelles exigences de sécurité. Toutefois, ces partenaires ne sont pas actuellement tenus de satisfaire aux nouvelles exigences de sécurité. Microsoft fournira des informations supplémentaires sur la mise en œuvre de ces exigences de sécurité pour les clouds souverains à l’avenir.
@@ -60,7 +55,7 @@ La métrique **Via le portail de l’Espace partenaires** est liée aux activit�
 - Aucune opération n’a été effectuée par ces agents les quatre jours restants.
 - Parmi les 10 opérations effectuées dans cette fenêtre de 7 jours, deux ont été effectuées par un utilisateur avec la vérification MFA. Par conséquent, la métrique affiche 20 %.
 
-Utilisez le fichier des demandes de portail sans MFA ( **Portal requests without MFA** ) pour déterminer l’utilisateur qui s’est connecté au tableau de bord de l’Espace partenaires sans avoir recours à la vérification MFA et l’heure de la dernière visite dans la fenêtre de rapports.
+Utilisez le fichier des demandes de portail sans MFA (**Portal requests without MFA**) pour déterminer l’utilisateur qui s’est connecté au tableau de bord de l’Espace partenaires sans avoir recours à la vérification MFA et l’heure de la dernière visite dans la fenêtre de rapports.
 
 #### <a name="appuser-mfa-verification"></a>Vérification de MFA dans Application+Utilisateur
 
@@ -75,8 +70,8 @@ La métrique **Via l’API ou le SDK**  est liée à l’authentification Applic
 
 Si vous souhaitez savoir quelles sont les activités Application+utilisateur qui empêchent la métrique d’afficher 100 %, utilisez les fichiers suivants :
 
-- Le fichier de synthèse des demandes d’API ( **API requests summary** ) pour comprendre l’état d’authentification MFA global par application.
-- Le fichier regroupant les demandes d’API ( **All API requests** ) pour comprendre les détails de chaque demande d’API effectuée par les utilisateurs de votre locataire ; le résultat est limité aux 10 000 demandes les plus récentes pour une meilleure expérience de téléchargement.
+- Le fichier de synthèse des demandes d’API (**API requests summary**) pour comprendre l’état d’authentification MFA global par application.
+- Le fichier regroupant les demandes d’API (**All API requests**) pour comprendre les détails de chaque demande d’API effectuée par les utilisateurs de votre locataire ; le résultat est limité aux 10 000 demandes les plus récentes pour une meilleure expérience de téléchargement.
 
 ## <a name="actions-for-mfa-status-below-100"></a>Actions à effectuer si l’état de MFA est inférieure à 100 %
 

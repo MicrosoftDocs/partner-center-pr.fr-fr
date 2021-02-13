@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182407"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623998"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Calcul et paiement du crédit Partenaires
 
@@ -52,7 +52,7 @@ Pour recevoir le crédit partenaire gagné (PEC), les conditions suivantes s’a
 
 ### <a name="calculation"></a>Calcul
 
-Le crédit PEC est calculé tous les jours et peut être consulté dans le fichier d’utilisation quotidienne et dans le fichier de rapprochement de facturation mensuelle. Pour obtenir un crédit PEC, le partenaire (fournisseur indirect ou revendeur indirect) doit bénéficier d’un accès tout au long de la journée (24h/24, 7j/7). Le crédit PEC est calculé tous les jours sur la base des ressources Azure managées. Le crédit PEC maximal pour une période de facturation donnée (mois) est de 15 %. Les partenaires qui gardent un accès privilégié persistant pendant tout le mois (plage d’accès) et pour toutes les ressources éligibles (étendue d’accès) obtiennent un crédit PEC total de 15 %. La réduction de l’étendue et de la plage entraîne un taux de PEC plus bas pour le mois. Le fichier d’utilisation évaluée quotidiennement s’affiche tous les jours sur la base d’une ressource Azure, que le crédit PEC soit appliqué ou non. Les partenaires peuvent aussi s’inscrire à des alertes pour superviser les changements apportés à l’accès privilégié persistant.
+Le crédit PEC est calculé tous les jours et peut être consulté dans le fichier d’utilisation quotidienne et dans le fichier de rapprochement de facturation mensuelle. Pour obtenir un crédit PEC, le partenaire (fournisseur indirect ou revendeur indirect) doit bénéficier d’un accès tout au long de la journée (24h/24, 7j/7). Le crédit PEC est calculé tous les jours sur la base des ressources Azure managées. Les partenaires qui gardent un accès privilégié persistant pendant tout le mois (plage d’accès) et pour toutes les ressources éligibles (étendue d’accès) obtiennent un crédit PEC total. La réduction de l’étendue et de la plage entraîne un taux de PEC plus bas pour le mois. Le fichier d’utilisation évaluée quotidiennement s’affiche tous les jours sur la base d’une ressource Azure, que le crédit PEC soit appliqué ou non. Les partenaires peuvent aussi s’inscrire à des alertes pour superviser les changements apportés à l’accès privilégié persistant.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 

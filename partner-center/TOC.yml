@@ -9,7 +9,7 @@
     - name: "Devenez partenaire de\_Microsoft"
       href: mpn-overview.md
       displayName: mpn
-    - name: Créer un compte Espace partenaires
+    - name: Créer un compte MPN dans l’Espace partenaires
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Obtenir une adresse e-mail professionnelle
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Renouveler vos offres
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Demander un remboursement
+          href: mpn-refund-request.md
           displayName: mpn
         - name: Trouver vos avantages MPN
           href: mpn-find-benefits.md
@@ -87,6 +90,9 @@
         - name: Avantages de la mise sur le marché
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
+        - name: Démonstrations pour les partenaires MPN
+          href: mpn-demos.md
+          displayName: mpn
         - name: Questions fréquentes (FAQ) sur les avantages
           href: benefits-faq.md
           displayName: 'renew, license,'
@@ -121,9 +127,6 @@
     - name: Contrat Partenaire Microsoft - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Gérer des sites
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter un contrat MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -191,6 +194,9 @@
           displayName: mpn
         - name: Lier votre compte professionnel
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Gérer des sites
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Vérifier la propriété du domaine
           href: become-global-admin.md
         - name: Vérifier les informations de compte
@@ -256,6 +262,8 @@
       items:
         - name: À propos des prospects de covente
           href: manage-co-sell-opportunities.md
+        - name: Opérations en bloc
+          href: bulk-operations.md
         - name: Utiliser les connecteurs CRM de covente
           items:
             - name: "Pour Dynamics\_365"

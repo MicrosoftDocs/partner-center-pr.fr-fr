@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979819"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281295"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
@@ -45,7 +45,7 @@ Pour afficher les derniers programmes et offres de fournisseurs de solutions Clo
 
 Les services basés sur une licence incluent un aperçu de liste de prix, fourni 30 jours à l’avance de toute modification. Pour afficher l’aperçu de la liste de prix, accédez à la page **vendre > tarification et offres**. Il n’existe pas d’aperçu des prix pour les services basés sur l’utilisation, car ces services sont dynamiques. Le tableau suivant explique comment lire la table des tarifs.
 
-|**Item**        |**Définition**      |
+|**Item**        |**Definition**      |
 |:-----------   |:-----------   |
 |ADD   |Un nouvel élément à la liste de prix|
 |CHANGEMENTS   |Modifications du tarif du mois au mois. D’autres modifications non liées au tarif de la liste peuvent se produire, les partenaires doivent comparer les listes de prix entre les mois pour déterminer les modifications apportées aux autres propriétés.|
@@ -82,7 +82,7 @@ Les prix basés sur l’utilisation peuvent changer au cours d’un mois. Pour o
 
 ## <a name="pricing-and-special-segments"></a>Tarification et segments spéciaux
 
-Le fournisseur CSP offre des services à des segments de marché spéciaux, par exemple, l’éducation, le non-bénéfice et le Cloud de la communauté gouvernementale. Tous les services ne sont pas disponibles dans chaque canal. Aucun segment n’a pour valeur par défaut ce que nous appelons le segment « commercial ». Toutes les tarifs basés sur les licences sont disponibles dans la liste des prix basés sur des licences sur la page tarification et offres. Azure Government tarification est disponible dans la liste de prix basée sur l’utilisation lorsqu’elle est connectée à l’Azure Government locataire CSP activé.
+Le fournisseur CSP offre des services à des segments de marché spéciaux, par exemple, l’éducation, le non-bénéfice et le Cloud de la communauté gouvernementale. Tous les services ne sont pas disponibles dans chaque canal. Aucun segment n’a pour valeur par défaut ce que nous appelons le segment « commercial ». Toutes les tarifs basés sur les licences sont disponibles dans la liste des prix basés sur des licences sur la page tarification et offres. Azure Government tarification est disponible dans la liste de prix basée sur l’utilisation lorsqu’elle est connectée à l’Azure Government locataire CSP activé. Les abonnements logiciels et les logiciels perpétuels ne prennent pas encore en charge ces segments spéciaux.
 
 |**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|

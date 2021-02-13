@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098837"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834854"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
 
@@ -95,7 +95,7 @@ Pour acheter des abonnements logiciels pour le compte d’un client :
 Une fois que vous avez acheté votre logiciel, vos clients doivent le télécharger. Pour ce faire, utilisez la procédure suivante.
 
 >[!NOTE]
->Vous devez être Agent d’administration pour obtenir les clés et les téléchargements.
+>Vous devez être Agent d’administration pour obtenir le lien vers les clés et les téléchargements.
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
 2. Copiez le « lien ciblé » depuis **Lien vers les clés et les téléchargements de produits logiciels** et partagez le lien avec votre client. Quand ils sélectionnent ce lien, ils sont redirigés vers le Centre d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
