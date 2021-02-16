@@ -1,20 +1,20 @@
 ---
 title: Fournir un support à vos clients
-ms.topic: article
-ms.date: 01/22/2021
+description: En savoir plus sur les responsabilités du support technique pour les partenaires du programme CSP. Couvre la prise en charge de la facturation, de la gestion des abonnements et des problèmes techniques.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En savoir plus sur les responsabilités du support technique pour les partenaires du programme CSP. Couvre la prise en charge de la facturation, de la gestion des abonnements et des problèmes techniques.
 author: Kim-Davis
 ms.author: kimnich
+ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f32c9b2db500fabe982c364e24f94fc449bc5218
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/22/2021
+ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717672"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541024"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fournir différents types de support à vos clients
 
@@ -30,15 +30,19 @@ Les partenaires qui coopèrent dans le modèle CSP sont le conseiller approuvé 
 
 Pour satisfaire aux exigences de support, vous pouvez revendre le support à partir d’une autre société, sous-traiter tout ou partie de la structure de support et/ou configurer une structure pour fournir une prise en charge directe. Vous pouvez payer tout ou partie du support fourni aux clients. Veillez à indiquer aux clients les types de support que vous allez fournir, les heures de service, la méthode de contact et la tarification (si vous êtes facturé pour le support).
 
-Les clients CSP ne peuvent pas créer eux-mêmes des tickets de support. Ils doivent vous contacter pour obtenir de l’aide. Les partenaires CSP sont tenus de recevoir les demandes de support entrantes de la part de leurs clients, de diagnostiquer les problèmes pour le meilleur de votre capacité, puis de résoudre les problèmes qui se trouvent dans l’étendue des limites de support de base. Si vous ne parvenez pas à résoudre un problème, vous pouvez faire remonter les problèmes à Microsoft via les supports suivants :
+Les clients CSP ne peuvent pas créer eux-mêmes des tickets de support. Ils doivent vous contacter pour obtenir de l’aide. Les partenaires CSP sont tenus de recevoir les demandes de support entrantes de la part de leurs clients, de diagnostiquer les problèmes pour le mieux possible, puis de résoudre les problèmes qui se trouvent dans l’étendue des limites de support de base. Si vous ne parvenez pas à résoudre un problème, vous pouvez faire remonter les problèmes à Microsoft via les supports suivants :
 
 - La prise en charge d’un problème **commercial** est disponible pour tous les partenaires du programme CSP
 
-- Support **technique** : vous pouvez [comparer les plans de support partenaires](https://partner.microsoft.com/support/partnersupport) ou voir ci-dessous pour plus d’informations sur un plan de support spécifique :
+- Support **technique** : vous pouvez [comparer les plans de support partenaires](https://partner.microsoft.com/support/partnersupport) ou pour plus d’informations, voir les liens suivants sur un plan de support spécifique :
 
-  - [Support premier pour les partenaires](https://partner.microsoft.com/support/microsoft-services-premier-support) (frais de base)
-  - [Support avancé pour les partenaires](https://partner.microsoft.com/support/advanced-cloud-support) (frais de base)
-  - [Support du Cloud de signature](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits) (inclus avec la compétence Gold/Silver)
+  - [Support premier pour les partenaires](https://partner.microsoft.com/support/microsoft-services-premier-support) (frais de base, à utiliser pour tous les produits)
+
+  - [Support avancé pour les partenaires](https://partner.microsoft.com/support/advanced-cloud-support) (frais de base, utilisation pour les produits Cloud uniquement)
+
+  - [Support du Cloud de signature](manage-your-partner-network-benefits.md) (inclus avec les avantages MPN pour les compétences Gold ou Silver, utilisation pour les produits Cloud uniquement)
+
+  - [Incidents de support technique](manage-your-partner-network-benefits.md) (inclus avec les avantages MPN pour les partenaires Gold, Silver ou Microsoft Action Pack, à utiliser pour les produits locaux récents uniquement)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
@@ -49,12 +53,3 @@ Chaque service en ligne a des exigences spécifiques et détaillées pour fourni
 - [Abonnements Azure vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Microsoft Office 365 abonnements vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
-
-
-
- 
-
- 
-
-
-
