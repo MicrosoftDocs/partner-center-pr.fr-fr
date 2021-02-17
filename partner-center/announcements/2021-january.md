@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974754"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541014"
 ---
 # <a name="january-2021-announcements"></a>Annonces de janvier 2021
 
@@ -348,7 +348,9 @@ Tous les partenaires effectuant des transactions commerciales dans le cadre du p
 
 À compter du mois de février 2021, Microsoft implémentera la limitation des API de façon à faire bénéficier les partenaires appelant les API de l’Espace partenaires d’un niveau de performance homogène dans un laps de temps donné. La limitation restreint le nombre de requêtes pouvant être adressées à un service dans un laps de temps donné pour empêcher une surutilisation de ressources. Quand un seuil de limitation est dépassé, l’Espace partenaires limite les requêtes supplémentaires en provenance du client pendant un certain temps.
   
-**Avantages pour les partenaires :** L’Espace partenaires est conçu pour gérer un gros volume de requêtes, mais si un nombre excessif de requêtes est le fait de quelques partenaires, la limitation permet de maintenir un niveau de performance et une fiabilité optimum pour tous les partenaires.  
+**Avantages pour les partenaires :**
+
+L’Espace partenaires est conçu pour gérer un gros volume de requêtes, mais si un nombre excessif de requêtes est le fait de quelques partenaires, la limitation permet de maintenir un niveau de performance et une fiabilité optimum pour tous les partenaires.  
 
 - La limitation garantit un temps d’arrêt minimal.
 - La limitation réduit le nombre de requêtes volumineuses, ce qui permet de garantir un niveau de performance homogène pour tous les partenaires.

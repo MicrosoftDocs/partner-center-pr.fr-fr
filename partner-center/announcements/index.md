@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588731"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490153"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,9 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 |**Catégorie**|**Annonces de février 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Fonctions|[Introduction de Microsoft Viva Topics](2021-february.md#7)|12 février|
+|Offres/marchés|[Changements des tarifs de Microsoft 365 E3 en mars 2021](2021-february.md#6)|11 février|
+|Offres/marchés|[Mise à jour de la liste des prix de la préversion basée sur une licence pour la Couronne norvégienne](2021-february.md#5)|10 février|
 |Fonctions|[Évaluations Premium, complément add-on du Gestionnaire de conformité, sort le 1er mars 2021](2021-february.md#4)|5 février|
 |Fonctions|[Réponse à la crise du COVID-19 : Mise à jour de Microsoft Partner Network](2021-february.md#3)|4 février|
 |Fonctions|[Nouvelles mises à jour du module Références dans l’Espace partenaires](2021-february.md#2)|4 février|
@@ -110,7 +113,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 | **Catégorie** | **Annonces d’août 2020** | **Date** |
 |Fonctions|[Mises à jour de l’API de l’Espace partenaires et améliorations de l’interface utilisateur pour le processus de validation de clients Éducation](2020-august.md#8)|31 août|
 |Offres/marchés|[Mises à jour de Microsoft 365 Voice Promotion](2020-august.md#7)|14 août|
-|Fonctionnalités|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
+|Fonctions|[Mise en production du SDK sur .NET Standard v1.16.1](2020-august.md#6)|12 août|
 |Fonctionnalités|[Achat en libre-service de Microsoft Project et Microsoft Visio bientôt disponible](2020-august.md#5)|12 août|
 |Offres/marchés|[Nouvelles références SKU Communications avancées Microsoft Teams maintenant disponibles](2020-august.md#4)|4 août|
 |Offres/marchés|[Microsoft Defender Advanced Threat Protection (ATP) pour serveurs pour l’Éducation disponible en septembre](2020-august.md#3)|4 août|
