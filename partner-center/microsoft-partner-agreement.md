@@ -1,7 +1,7 @@
 ---
 title: Contrat Partenaire Microsoft (MPA) pour le programme Fournisseur de solutions Cloud
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez les exigences auxquelles doivent satisfaire les partenaires du programme Fournisseur de solutions Cloud pour signer et vérifier ce Contrat Partenaire Microsoft (MPA) unifié et accepté numériquement.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773473"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281318"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -34,6 +34,8 @@ Pour continuer à participer au programme Fournisseur de solutions Cloud (CSP), 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Vérifier que votre ID MPN est actif et migré vers l’Espace partenaires
 
 1. Si vous n’avez pas migré votre compte MPN du Partner Membership Center (PMC) vers l’Espace partenaires, vous devez [migrer votre compte MPN vers l’Espace partenaires](move-pmc-pc-map.md). Vous effectuerez le reste des étapes une fois que vous aurez terminé la migration. 
+
+1. Si vous n’avez pas de compte ou d’ID MPN, vous devez commencer par rejoindre le programme Microsoft Partner Network. [Découvrez comment rejoindre MPN](mpn-create-a-partner-center-account.md).
 
 1. Connectez-vous à l’Espace partenaires à l’aide de vos informations d’identification de compte MPN.
  
@@ -103,7 +105,7 @@ Vous pouvez également voir si vous avez signé le contrat en sélectionnant **C
 
 1. Si vous effectuez la migration de votre compte MPN entre PMC et l’Espace partenaires : [Migrer de PMC vers l’Espace partenaires et accepter le Contrat Partenaire Microsoft](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. Si vous souhaitez vous inscrire en tant que revendeur indirect CSP dans l’Espace partenaires : [Intégration pour les membres MPN et le Contrat Partenaire Microsoft](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Si vous souhaitez vous inscrire en tant que revendeur indirect CSP dans l’Espace partenaires : [Intégration des membres MPN et du Contrat Partenaire Microsoft](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
 3. Pour vérifier l’état de votre Contrat Partenaire Microsoft dans l’Espace partenaires après avoir effectué l’étape 1 et/ou l’étape 2 ci-dessus : [Vérifier le statut d’acceptation du Contrat Partenaire Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
