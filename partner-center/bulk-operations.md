@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334572"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645637"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Opérations en bloc pour les opportunités de co-vente à l’aide de fichiers de valeurs séparées par des virgules (CSV)
 
@@ -71,7 +71,7 @@ Adresse client, ligne 2|Non|Adresse ligne 2 de la société du client.|Rue 148
 Ville du client|Oui|Ville dans laquelle se trouve l’organisation cliente.|Redmond
 État du client|Non|État où se trouve l’organisation cliente.|Washington
 Code postal du client|Non|Code postal de la région où se trouve l’organisation cliente.|98052
-Pays du client|Oui|Pays/région où se trouve l’organisation cliente. Utilisez les codes de pays à trois lettres comme indiqué [ici]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|USA
+Pays du client|Oui|Pays/région où se trouve l’organisation cliente. Utilisez les codes de pays à deux lettres comme indiqué [ici]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|US
 ID du client D-U-N-S|Non|Essayez de récupérer l’ID DUNS de l’organisation cliente. Cela permet de faire correspondre plus rapidement l’organisation du client du côté Microsoft, ce qui permet une attribution plus rapide des vendeurs. Vous pouvez obtenir l’ID DUNS gratuitement à partir de ce [site Web](https://www.dnb.com/duns-number/lookup.html).|81466849
 Prénom du contact client|Dépend|Le prénom est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Prénom du contact principal de l’organisation cliente qui travaille sur cette transaction.|John
 Nom du contact du client|Dépend|Le nom est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Nom du contact principal de l’organisation cliente qui travaille sur cette transaction.|Customer
@@ -87,7 +87,7 @@ Devise|Oui|Devise dans laquelle la valeur de transaction est entrée. Vous trouv
 Date de clôture estimée|Oui|Date de clôture estimée de la transaction en fonction des conversations initiales avec le client au format MM/jj/aaaa. <br/> **La date doit être le fuseau horaire UTC. Toutes les dates affichées dans l’interface utilisateur de l’espace partenaires sont basées sur les fuseaux horaires localisés. Il peut y avoir +/-une différence d’un jour dans l’interface utilisateur de l’espace partenaires si vous examinez la référence pour laquelle vous avez fourni la date au fuseau horaire UTC.**|1/30/2020
 ID CRM|Non|Identificateur de cette référence spécifique dans votre système CRM, le cas échéant. Il s’agit d’un champ de saisie de texte de forme libre.|34234324-sdfsdf-345345-SFD
 ID de campagne marketing|Non|Ce champ indique la campagne marketing, qui a abouti à cette référence spécifique. Généralement utilisé pour le calcul du ROI|BingSummer2020
-Remarques|Non|Remarques détaillées indiquant les mises à jour liées à la référence|Voici un exemple de note
+Notes|Non|Remarques détaillées indiquant les mises à jour liées à la référence|Voici un exemple de note
 Aide Microsoft requise ?|Oui|Cela permet d’indiquer si vous souhaitez que Microsoft vous aide à effectuer cette demande de co-vente|Oui
 Quelle aide spécifique de Microsoft ?|Dépend|L’une des six différentes façons dont Microsoft peut vous aider. Cela s’applique uniquement si vous choisissez non pour la question «aide Microsoft requise ? " <br/> **Entrez un nombre en fonction des options ci-dessous** <br/><br/> **1**-proposition de valeur spécifique à la charge de travail  <br/> **2**-architecture technique client  <br/> **3**-preuve de concept/Demo  <br/> **4**-devis et licences  <br/> **5**: succès des clients après la vente  <br/> **6**-général ou autre|1|
 Partager avec l’équipe de vente Microsoft|Oui|Cela permet d’indiquer si vous souhaitez partager les détails du contrat avec l’équipe de vente Microsoft. Cela s’applique uniquement si vous choisissez non pour la question «aide Microsoft requise ? "|Oui

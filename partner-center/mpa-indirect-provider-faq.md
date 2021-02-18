@@ -1,7 +1,7 @@
 ---
 title: Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter l’accord de partenariat Microsoft-FAQ
 ms.topic: article
-ms.date: 02/04/2021
+ms.date: 02/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Questions clés concernant la réponse au contrat de partenariat Microsoft
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624287"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645892"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Comment les fournisseurs indirects peuvent aider leurs revendeurs indirects à accepter l’accord de partenariat Microsoft (MPA)
 
@@ -26,7 +26,7 @@ ms.locfileid: "99624287"
 
 Les questions et réponses suivantes traitent des problèmes potentiels et des solutions pour aider les revendeurs indirects à comprendre comment et pourquoi accepter l’MPA. 
 
-Les fournisseurs indirects, les partenaires de facturation directe et les revendeurs indirects dans le programme du fournisseur de solutions Cloud trouveront ces informations utiles.
+Les fournisseurs indirects, les partenaires de facturation directe et les revendeurs indirects du programme fournisseur de solutions Cloud trouveront ces informations utiles.
 
 ## <a name="questions-on-mpa-program-and-policy"></a>Questions sur le programme et la stratégie MPA
 
@@ -86,7 +86,7 @@ Cela s’applique également aux partenaires « Advisor » qui ont été en co
 
 1.  [L’accord de partenariat Microsoft (MPa) pour CSP](microsoft-partner-agreement.md) (contient des instructions pas à pas pour migrer un compte MPN et accepter MPa dans l’espace partenaires)
 2.  [Coopérer avec des fournisseurs indirects dans le programme CSP](indirect-reseller-tasks-in-partner-center.md)
-3.  [Gérer les sites dans votre compte partenaire](manage-locations.md)
+3.  [Gérer les localisations dans votre compte partenaire](manage-locations.md)
 
 ## <a name="questions-about-your-mpn-and-csp-account-structure"></a>Questions sur la structure de votre compte MPN et CSP
 
@@ -95,7 +95,7 @@ Cela s’applique également aux partenaires « Advisor » qui ont été en co
 **Réponse** Votre compte MPN doit être utilisé pour gérer votre appartenance à Microsoft. Il vous fournit un ID MPN global (PGA) et un ou plusieurs ID MPN d’emplacement (PLA) en fonction du nombre de filiales que vous créez. Votre compte CSP est associé à vos ID MPN d’emplacement et est utilisé pour effectuer des transactions avec des fournisseurs indirects ou pour gérer les incentives. 
 
 
-- [Gérer les sites dans votre compte partenaire](manage-locations.md)
+- [Gérer les localisations dans votre compte partenaire](manage-locations.md)
 
 - [Vérifier le profil de votre organisation](update-your-partner-profile.md)
 
@@ -117,7 +117,7 @@ Si vous avez des filiales dans différents pays, vous pouvez créer des emplacem
 
 •[Gérer les emplacements dans votre compte de partenaire](manage-locations.md)
 
-En cas de problème, augmentez un [ticket de support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) dans l’espace partenaires. 
+Si vous rencontrez des problèmes, augmentez un [ticket de support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) à partir de l’espace partenaires. 
 
 
 #### <a name="i-dont-know-which-mpn-id-to-use-while-enrolling-into-csp-indirect-reseller-program"></a>Je ne sais pas quel ID MPN utiliser lors de l’inscription au programme du revendeur indirect du CSP ?
@@ -126,7 +126,7 @@ En cas de problème, augmentez un [ticket de support](https://partner.microsoft.
 
 #### <a name="how-do-i-check-which-mpn-id-is-associated-with-my-csp-account"></a>Comment faire vérifier quel ID MPN est associé à mon compte CSP ?
 
-**Réponse** Connectez-vous à votre compte du revendeur indirect du fournisseur de solutions Cloud. Accédez à **paramètres**  ->  **paramètres du compte**  ->  **organisation**  ->  **identificateurs** de profil d’organisation. Dans la zone CSP de la page, l' **ID MPN associé** est l’ID MPN associé à votre compte CSP et doit être attribué à votre fournisseur indirect pour les transactions CSP. 
+**Réponse** Connectez-vous à votre compte du revendeur indirect du fournisseur de solutions Cloud. Accédez à **Paramètres** -> **Paramètres du compte** -> **Profil de l’organisation** -> **Identificateurs**. Dans la zone CSP de la page, l' **ID MPN associé** est l’ID MPN associé à votre compte CSP et doit être attribué à votre fournisseur indirect pour les transactions CSP. 
 
 #### <a name="how-can-i-view-all-my-mpn-ids"></a>Comment puis-je afficher tous mes ID MPN ?
 
@@ -142,22 +142,22 @@ Si vous êtes un revendeur indirect CSP, vous devez être partenaire d’un four
 
 #### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>Pourquoi ne puis-je pas associer mon ID MPN à mon locataire ?
 
-**Réponse**  Si vous ne parvenez pas à associer votre ID MPN à votre locataire et que vous voyez une erreur, cela signifie que l’ID MPN et le locataire ne se trouvent pas dans le même pays. Pour que l’Association fonctionne, elle doit être dans le même pays. Cela est dû au fait que les incentives Microsoft sont payés par pays et par ID MPN. Par exemple, si vous avez un compte CSP en France, vous avez besoin d’un emplacement MPN (ID MPN) également en France afin d’obtenir des incentives payants. ID MPN au Royaume-Uni ne fonctionne pas, même si elles se trouvent dans la même région CSP. 
+**Réponse**  Si vous ne parvenez pas à associer votre ID MPN à votre locataire et que vous voyez une erreur, cela signifie que l’ID MPN et le locataire ne se trouvent pas dans le même pays. Pour que l’Association fonctionne, elle doit être dans le même pays. Cette exigence est due au fait que les incentives Microsoft sont payés par pays et par ID MPN. Par exemple, si vous avez un compte CSP en France, vous avez besoin d’un emplacement MPN (ID MPN) également en France afin d’obtenir des incentives payants. ID MPN au Royaume-Uni ne fonctionne pas, même si elles se trouvent dans la même région CSP. 
 
 Pour résoudre ce cas, créez un emplacement MPN dans le même pays que le pays CSP. En savoir plus sur la [gestion des emplacements MPN](manage-locations.md).
 
 #### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>Je dispose d’un fournisseur de revendeurs indirects CSP en France. Puis-je être partenaire d’un fournisseur indirect en Allemagne ?
 
-**Réponse** Oui. Une fois que le compte du revendeur indirect du CSP est actif dans une région CSP, le même compte peut être utilisé pour faire de l’entreprise dans l’ensemble de la région. En savoir plus sur la [région CSP](regional-authorization-overview.md).
+**Réponse** Oui. Une fois que votre compte du revendeur indirect du fournisseur de solutions Cloud est actif dans une région CSP, le même compte peut être utilisé pour faire de l’entreprise dans l’ensemble de la région. En savoir plus sur la [région CSP](regional-authorization-overview.md).
 
 #### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>Je suis un revendeur indirect aux États-Unis. Puis-je être partenaire avec un fournisseur indirect au Royaume-Uni ?
 
 **Réponse** º. CSP est un programme régional. Le compte CSP du revendeur indirect et du fournisseur indirect doit se trouver dans la même région CSP pour l’entreprise. Pour résoudre ce cas, vous devez créer un nouveau compte CSP dans la région européenne et créer un emplacement MPN dans le même pays que le pays du compte CSP, puis accepter la demande de relation de votre fournisseur indirect. Par exemple, vous pouvez créer un compte revendeur indirect indirect en France, créer un emplacement MPN en France, puis accepter l’invitation d’un fournisseur indirect en France ou dans l’un des autres pays de la région européenne du CSP.
 
-#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>Puis-je disposer de plus de 1 compte MPN et CSP dans l’espace partenaires ?
+#### <a name="can-i-have-more-than-one-mpn-and-csp-accounts-in-partner-center"></a>Puis-je avoir plusieurs comptes MPN et CSP dans l’espace partenaires ?
 
 **Réponse** Vous ne pouvez avoir qu’un seul compte MPN (connexion) et un ou plusieurs comptes CSP (connexions) en fonction des régions du fournisseur de services de chiffrement de votre entreprise. Par exemple, vous pouvez avoir votre compte MPN aux États-Unis (HQ) avec des emplacements situés aux États-Unis (filiale), Royaume-Uni (filiale) et Australie (filiale).
-Vous pouvez avoir un compte CSP (compte professionnel Office 365) aux États-Unis ayant les mêmes informations d’identification de connexion que votre compte MPN. Vous pouvez avoir un deuxième compte CSP au Royaume-Uni qui possède des informations d’identification de connexion différentes pour gérer les fournisseurs CSP dans la région européenne, et troisième en Australie, qui possède des informations d’identification de connexion différentes des deux autres pour gérer les fournisseurs CSP en Australie.
+Vous pouvez avoir un compte CSP (compte professionnel Office 365) aux États-Unis qui possèdent les mêmes informations d’identification de connexion que votre compte MPN. Vous pouvez avoir un deuxième compte CSP au Royaume-Uni qui possède des informations d’identification de connexion différentes pour gérer les fournisseurs CSP dans la région européenne, et troisième en Australie, qui possède des informations d’identification de connexion différentes des deux autres pour gérer l’entreprise CSP en Australie.
 
 Tous les trois comptes CSP doivent être associés à des comptes d’emplacement d’ID MPN pour faire des affaires et gagner des incentives dans ces filiales. Les compétences et les avantages MPN ne peuvent être gérés que par le compte MPN.
 
@@ -169,9 +169,9 @@ Tous les trois comptes CSP doivent être associés à des comptes d’emplacemen
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Je souhaite migrer mon compte MPN du Partner Membership Center vers l’espace partenaires. Comment faire ? Je ne sais pas qui a été mon administrateur MPN dans PMC, comment puis-je migrer ? 
 
-**Réponse** Téléchargez le guide pas à pas sur la façon de [migrer MPN de PMC vers PC](guide-to-migration.md). Il contient divers liens vers HEP que vous migrez. https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx"
+**Réponse** Téléchargez le guide pas à pas sur la façon de [migrer MPN de PMC vers PC](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
-Après la migration du compte MPN, en savoir plus sur la façon de signer MPA, consultez [contrat Microsoft-Partner-accord] 9microsoft-Partner-Convention. MD # Download-the-Step-Guide-Guide-c’est-ce que vous-même-pour-où-vous-êtes-en-MPa-Signing-process)
+Après la migration de votre compte MPN, en savoir plus sur la façon de signer MPA, consultez l' [accord de partenariat Microsoft](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process).
 
 En cas de problème, augmentez un [ticket de support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) dans l’espace partenaires.
 
@@ -204,11 +204,11 @@ Si vous ne pouvez pas résoudre le problème vous-même, déclenchez un ticket d
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>J’ai inscrit le programme du revendeur indirect Program/CSP, mais mon statut de vérification du profil d’entreprise juridique semble être bloqué dans l’état d’attente. Que dois-je faire ?
 
-**Réponse**  Si votre fournisseur de services de chiffre d’affaires indirect revendeur indirect est en **cours de qualification** après plus de cinq jours ouvrables, augmentez un ticket de support dans l’espace partenaires en cliquant sur [prise en charge de l’espace partenaires](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
+**Réponse**  Si votre fournisseur de services de chiffre d’affaires juridique revendeur indirect est dans l’état de **qualification en attente** après plus de cinq jours ouvrables, vous pourrez générer un ticket de support à partir de l’espace partenaires en cliquant sur [prise en charge de l’espace partenaires](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
 :::image type="content" source="images/pending.png" alt-text="L’État est en attente":::
 
-## <a name="question-about-working-in-partner-center"></a>Question concernant l’utilisation de l’espace partenaires
+## <a name="questions-about-working-in-partner-center"></a>Questions sur l’utilisation de l’espace partenaires
 
 #### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>Je ne sais pas qui est l’administrateur de l’espace partenaires qui peut accepter MPA ?
 
