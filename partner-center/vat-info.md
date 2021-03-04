@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755637"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755743"
 ---
 # <a name="value-added-tax-vat-information"></a>Informations sur la taxe sur la valeur ajoutée (T.V.A.)
 
-**S’applique à :**
+**Rôles appropriés**
 
-- Espace partenaires
-- Place de marché commerciale
+- Administrateur des comptes
+
 
 Si vous devez fournir un numéro d’identification de TVA pendant le processus d’inscription de l’espace partenaires, voici quelques informations pour vous aider à démarrer.
 
@@ -78,6 +78,7 @@ Notez que Microsoft ne fournit pas d’avis d’impôt et que le tableau suivant
 |Espagne |-Format du numéro de TVA : 9 chiffres<br/>-Code pays/région : ES<br/>-Exemple : X12345678, 12345678X ou X1234567X<br/>-Notes : comprend 1 ou 2 lettres : First, Last ou First et Last. |
 |Suède |-Format du numéro de TVA : 12 chiffres<br/>-Code pays/région : SE<br/>-Exemple : 123456789001<br/>-Remarques : les 2 derniers caractères doivent être « 01 ». |
 |Royaume-Uni |-Format du numéro de TVA : 9 ou 12 chiffres<br/>-Code pays/région : go<br/>-Exemple : 123456789 ou 123456789001<br/>-Notes : 9 chiffres en général, mais 12 chiffres si le nombre représente une sous-société au sein d’un groupe. |
+
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Informations fiscales sur l’entreprise et ajout ou envoi d’ID de TVA pour les achats de l’espace partenaires](organization-tax-info.md)

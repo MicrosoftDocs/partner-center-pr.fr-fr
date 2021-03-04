@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174928"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755725"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Recevoir un crédit sur votre compte espace partenaires pour la retenue fiscale
 
-S’applique à :
+**Rôles appropriés**
 
-- Espace partenaires
+- Administrateur des comptes
+- Administrateur de la facturation
 
 ## <a name="overview"></a>Vue d’ensemble
 
@@ -45,7 +46,7 @@ Procédez comme suit pour soumettre une nouvelle retenue fiscale :
 
 4. Passez en revue les détails de la facture pour vous assurer que vous soumettez la demande de facture correcte.
 
-   :::image type="content" source="images/wht2.png" alt-text="Soumettre une nouvelle retenue fiscale pour une facture":::
+   :::image type="content" source="images/wht2.png" alt-text="Finaliser les détails de la retenue d’impôt pour une facture":::
 
 5. Entrez le « total de retenue » sous **Détails de la retenue fiscale**. Le « total de retenue » est le montant que vous pensez avoir crédité.
 
@@ -68,7 +69,7 @@ L’équipe de révision peut vous obliger à apporter des corrections et à sou
 
 2. Dans le menu de gauche, choisissez **facturation** .
 
-3. Dans l' **historique de facturation**de la page de **facturation** , recherchez impôt à la demande. Les demandes nécessitant votre attention auront l’état « action partenaire en attente ».
+3. Dans l' **historique de facturation** de la page de **facturation** , recherchez impôt à la demande. Les demandes nécessitant votre attention auront l’état « action partenaire en attente ».
 
 4. Cliquez sur l’ID et l’état de la demande de retenue à la demande d’impôt pour atteindre la page de la demande.
 

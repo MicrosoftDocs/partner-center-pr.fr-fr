@@ -9,25 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556410"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755824"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Mettre à niveau certains clients de formation de Windows 10 famille vers Windows 10 éducation
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
 - Agent d’administration
 - Agent du support technique
 
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 À partir du 1er novembre 2020, les fournisseurs de services de chiffrement qui ont acheté Microsoft 365 les abonnements a3 ou a5 ou Windows 10 entreprise a3 ou a5 peuvent aider leurs clients de formation à effectuer une mise à niveau de Windows 10 famille vers Windows 10 éducation, conçu pour la classe et l’apprentissage à distance.
 

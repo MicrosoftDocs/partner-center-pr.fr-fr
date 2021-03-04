@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042682"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757395"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Comment payer les frais associés à une compétence Silver ou Gold
 
@@ -37,7 +37,7 @@ Dans le cas contraire, procédez comme suit pour payer les frais pour une compé
 
 - Vous avez déjà rempli les [conditions requises](https://partner.microsoft.com/membership/competencies) pour obtenir une compétence en argent ou en or spécifique.
 
-- Le rôle de l’espace partenaires de l’administrateur [général ou de l’administrateur du partenaire MPN](https://docs.microsoft.com/partner-center/permissions-overview)vous a été attribué. Si vous êtes un utilisateur invité sans l’un de ces rôles, l’accès à certaines des pages de l’espace partenaires décrites ci-dessous vous sera refusé. Dans ce cas, [Contactez votre administrateur général](https://docs.microsoft.com/partner-center/find-your-role) et demandez-lui de vous attribuer le rôle approprié. 
+- Le rôle de l’espace partenaires de l’administrateur [général ou de l’administrateur du partenaire MPN](./permissions-overview.md)vous a été attribué. Si vous êtes un utilisateur invité sans l’un de ces rôles, l’accès à certaines des pages de l’espace partenaires décrites ci-dessous vous sera refusé. Dans ce cas, [Contactez votre administrateur général](./find-your-role.md) et demandez-lui de vous attribuer le rôle approprié. 
 
 1. À l’aide des informations d’identification du compte professionnel de votre organisation, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.
 
@@ -54,7 +54,7 @@ Dans le cas contraire, procédez comme suit pour payer les frais pour une compé
 
 4. Sur la page Détails de l' **achat** , passez en revue et confirmez vos détails.
 
-   (En savoir plus sur la mise à jour [des informations d' **ID de taxe** de votre entreprise](https://docs.microsoft.com/partner-center/organization-tax-info) ou de la [ **facturation à** l’adresse](https://docs.microsoft.com/partner-center/mpn-get-action-pack)de votre société.)
+   (En savoir plus sur la mise à jour [des informations d' **ID de taxe** de votre entreprise](./organization-tax-info.md) ou de la [ **facturation à** l’adresse](./mpn-get-action-pack.md)de votre société.)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="L’appartenance offre une page de détails de l’achat avec les préférences de paiement." border="false":::
 

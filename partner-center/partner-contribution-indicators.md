@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution partenaire-CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez sept indicateurs de contribution partenaires (PCI) qui montrent aux partenaires comment atteindre une compétence en matière de Business Applications Cloud Silver ou Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530814"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756553"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilisez les indicateurs de contribution partenaire pour atteindre les compétences du Cloud Business Applications
 
@@ -155,7 +155,7 @@ Vous pouvez uniquement recevoir un crédit pour ces mesures PCI pour un client d
 - Vous êtes le partenaire de revendication d’enregistrement (CPOR) pour un abonnement payant appartenant au locataire de ce client
 - Vous êtes un partenaire numérique d’enregistrement (DPOR) pour un abonnement payant appartenant au locataire de ce client
 
-Un partenaire devient le CPOR s’il a établi une association avec un client au niveau de l’abonnement via l’incentive Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou Dynamics 365 [Online Services usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU) Incentive.
+Un partenaire devient le CPOR s’il a établi une association avec un client au niveau de l’abonnement via l’incentive Dynamics 365 Online Services Advisor (OSA) ou Dynamics 365 Online Services usage (OSU) Incentive. Pour plus d’informations, consultez [comprendre les associations CPOR](incentives-customer-associations-intro.md).
 
 Un partenaire devient le DPOR s’il est associé à un client au niveau de l’abonnement au sein du produit.
 

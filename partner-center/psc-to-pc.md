@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281366"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756176"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281366"
 
 Cet article fournit des conseils pour les partenaires qui effectuent des migrations de Partner Sales Connect vers l’espace partenaires afin qu’ils puissent continuer à créer et à gérer les ventes de covente dans l’espace partenaires.
 
-Comme vous le savez, votre entreprise perdra l’accès au PSC après le 31 mars 2021. Toutefois, vous trouverez tout ce que vous souhaitez faire dans l’espace partenaires, par exemple créer des offres de covente, gérer vos demandes et agir sur les transactions que les vendeurs Microsoft vous ont envoyées.
-
-Toutefois, il y aura des différences. Les conseils suivants peuvent vous aider à rendre votre transition vers l’espace partenaires plus lisse et plus simple.
+>[!Note]
+> Si vous êtes ici, car vous avez vu une bannière dans PSC sur la migration, vous êtes au bon endroit. Ce guide n’est pas applicable pour les partenaires commerciaux d’évaluation de la solution (SA) et de licence OEM qui gèrent leurs demandes dans PSC.
 
 >[!Important]
-> Si vous êtes ici, car vous avez vu une bannière dans PSC sur la migration, vous êtes au bon endroit. Ce guide n’est pas applicable à l’évaluation de la solution (SA) et aux partenaires de l’IOT OEM qui gèrent leurs affaires dans PSC.
+> À partir du 1er mai, 2021 votre entreprise ne sera pas en mesure de créer ou de modifier des transactions dans le PSC. **Vous serez toujours en mesure de télécharger les données de transactions existantes à l’aide de la fonctionnalité d’exportation en bloc dans PSC. Vous pouvez également [migrer les transactions ouvertes](psc-to-pc.md#psc-deals-migration) de PSC vers l’espace partenaires après cette date.** <br><br> Si vous travaillez activement avec des demandes qui contiennent des solutions éligibles pour la co-vente IP, vous avez deux options : <br><br> 1. Marquez le contrat comme conclu et terminez l’enregistrement du contrat dans le PSC avant le 30 avril 2021. <br> 2. [migrez les demandes](psc-to-pc.md#psc-deals-migration) d’accès à l’espace partenaires pour obtenir plus de temps pour travailler sur le contrat et pour commencer à enregistrer votre contrat.
+
+Comme vous le savez, **l’entreprise perdra l’accès au PSC après le 31 mai, 2021**. Toutefois, vous trouverez tout ce que vous souhaitez faire dans l’espace partenaires, par exemple créer des offres de covente, gérer vos demandes et agir sur les transactions que les vendeurs Microsoft vous ont envoyées.
+
+Toutefois, il y aura des différences. Les conseils suivants peuvent vous aider à rendre votre transition vers l’espace partenaires plus lisse et plus simple.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Avant de vous déplacer, vous devez connaître les points suivants
 
@@ -90,7 +93,7 @@ Pour trouver l’administrateur de compte de votre société :
 Une fois votre compte configuré dans l’espace partenaires, utilisez l’Assistant Migration des utilisateurs de la page opportunités de covente pour affecter automatiquement des rôles de l’espace partenaires aux employés de votre entreprise.
 
 >[!Note]
-> La migration des utilisateurs ne peut être effectuée que par les [administrateurs de compte](permissions-overview.md#manage-mpn-membership-and-your-company) de votre entreprise. Si vous n’avez pas le rôle d’administrateur de compte, recherchez un administrateur de compte qui peut vous aider à configurer les comptes d’utilisateur à l’aide de l’Assistant Migration des utilisateurs. La fonctionnalité de migration utilisateur sera disponible à partir du 18 novembre 2020.
+> La migration des utilisateurs ne peut être effectuée que par les [administrateurs de compte](permissions-overview.md#manage-mpn-membership-and-your-company) de votre entreprise. Si vous n’avez pas le rôle d’administrateur de compte, recherchez un administrateur de compte qui peut vous aider à configurer les comptes d’utilisateur à l’aide de l’Assistant Migration des utilisateurs.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Image représentant l’Assistant Migration des utilisateurs.":::
 
@@ -135,7 +138,7 @@ Lisez cette section avant de commencer la migration de la transaction.
 
 **Éligible pour la migration**
 
-Seules certaines affaires sont éligibles pour la migration de PSC vers PC. Cet Assistant de migration est conçu pour aider les partenaires à apporter leurs offres à l’espace partenaires dans lequel ils travaillent toujours activement avec leurs clients pour conclure le contrat. **Seules les demandes qui sont à l’état ouvert avec des détails de compte de partenaire valides (ID MPN valide) et qui ne sont pas en cours d’inscription sont éligibles pour la migration.**
+Seules certaines affaires sont éligibles pour la migration de PSC vers PC. Cet Assistant de migration est conçu pour aider les partenaires à apporter leurs offres à l’espace partenaires dans lequel ils travaillent toujours activement avec leurs clients pour conclure le contrat. **Seules les demandes qui sont à l’état ouvert créées à partir du 1er janvier 2020 avec des détails de compte de partenaire valides (ID MPN valide) et qui ne sont pas en cours d’inscription sont éligibles pour la migration.**
 
 **Non éligible pour la migration**
 
@@ -200,7 +203,7 @@ Si votre entreprise dispose d’un responsable de développement partenaire (PDM
 Si votre entreprise n’a pas de PDM, assurez-vous que tous les comptes d’utilisateur sont configurés et vérifiés par tous les utilisateurs. Vous recevrez une notification par courrier électronique et une bannière dans le PSC indiquant la date exacte à laquelle vous pouvez commencer à vendre des produits dans l’espace partenaires. N’oubliez pas que vous devrez toujours gérer les transactions actives existantes dans le PSC.
 
 >[!Important]
->Les contrats actifs ne seront pas migrés vers le PC. Vous avez jusqu’au 31 mars 2021 pour fermer et enregistrer les demandes.
+> Vous avez jusqu’au 30 avril 2021 pour inscrire les demandes qui sont marquées comme conclues.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Étapes suivantes pour les administrateurs PSC, les responsables des affaires PSC et les vendeurs de PSC
 

@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492634"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756167"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
@@ -103,7 +103,7 @@ Le tableau suivant montre un exemple de mois de paiement estimé.
 | ------ | :-----------: |
 |  Sep-2020 |  $7 273,99   |
 |  Oct-2020 | $8 692,30  |
-|  Novembre-2020 | $107,89  |
+|  Nov-2020 | $107,89  |
 
 Le montant estimé peut varier par rapport à la quantité réelle pour diverses raisons :
 
@@ -138,7 +138,7 @@ Pour obtenir plus de détails sur un gain, sélectionnez **Télécharger** en ha
 | claimId | Identificateur unique de la demande | Incentives – certains programmes uniquement |
 | customerCountry | Pays/Région du client | marketplaces |
 | customerEmail |  |  |
-| customerName | Sera toujours vide | Programmes d’incentives uniquement (exception : OEM) et places de marché |
+| customerName | Peut être vide | Programmes d’incentives uniquement (exception : OEM) et places de marché. Pour les transactions CSP, les Marketplaces affichent le nom du fournisseur de services de chiffrement. |
 | customerTenantId |  |  |
 | distributorId | Identificateur du serveur de distribution | Incentives – certains programmes uniquement |
 | distributorName | Nom du serveur de distribution | Incentives – certains programmes uniquement |
@@ -263,7 +263,7 @@ Le tableau suivant décrit les différents États de gains.
 | À venir | Commande de paiement générée en attente de révisions internes avant le traitement du paiement. | Non |
 | Facture fiscale en attente | Votre facture fiscale est incomplète ou non valide. | Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé |
 | Rejeté pendant la vérification | Le paiement a été rejeté pendant la révision. | Contactez le Support Microsoft pour obtenir des détails |
-| Failed | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
+| Échec | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
 | En cours | Le paiement est en cours. | Non |
 | Paiement incorrect | Le remboursement est en cours. | Non |
 | Envoyé | Le paiement a été envoyé à votre banque. | Non |

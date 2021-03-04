@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861408"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756851"
 ---
 # <a name="payout-schedules-and-processes"></a>Planifications et traitements des paiements
 
@@ -37,7 +37,6 @@ Un paiement se produit souvent avant que Microsoft ne collecte le paiement du cl
 | --- | --- | --- | --- |
 | Utilisation ou mois de transaction | Le client utilise ou achète un service. | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 1** |
 | Microsoft calcule le montant de facturation | Déterminer l’utilisation totale, total des transactions | Tableau de bord d' [utilisation](/azure/marketplace/partner-center-portal/usage-dashboard) ou de [commande](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mois 2** |
-| Facture payée par le client | Microsoft collecte le paiement du client | Aucun changement | **Mois 2** |
 | Paiement Posté | Détermination des frais de l’Agence et des revenus du paiement | Marqué comme non traité dans l’historique des transactions dans l' [instruction de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
 | Préparer le paiement | Les bénéfices sont préparés pour le paiement mensuel | Marqué comme étant à venir dans l’historique des transactions dans le [relevé de paiement](payout-statement.md) | **Mois 3 (1er semaine)** |
 | **Paiement envoyé** | **Le paiement est envoyé au serveur de publication** | **Marqué comme envoyé dans l’historique des transactions et dans la section paiements de l' [instruction de paiement](payout-statement.md)** | **Mois 3 (au plus tard le 15)** |

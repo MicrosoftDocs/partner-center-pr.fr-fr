@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834817"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756043"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
 
@@ -40,7 +40,7 @@ Pour acheter des abonnements logiciels au nom d’un client, accédez à la page
 Une fois que vous avez acheté votre logiciel, vos clients doivent le télécharger. Pour ce faire, utilisez la procédure suivante.
 
 >[!NOTE]
->Vous devez être un agent d’administration pour obtenir le lien vers les clés et les téléchargements.
+>Vous devez être Agent d’administration pour obtenir le lien vers les clés et les téléchargements.
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
 2. Copiez le « lien ciblé » depuis **Lien vers les clés et les téléchargements de produits logiciels** et partagez le lien avec votre client. Quand ils sélectionnent ce lien, ils sont redirigés vers le Centre d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
@@ -48,7 +48,7 @@ Une fois que vous avez acheté votre logiciel, vos clients doivent le téléchar
 >[!NOTE]
 >Seuls les clients peuvent voir les clés de produit et télécharger des informations dans le Centre d’administration Microsoft. Les partenaires ne peuvent pas voir ces informations.
 
-Si vous ou vos clients voulez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger les clés de licence de produit et de logiciel](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Si vous ou vos clients voulez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger les clés de licence de produit et de logiciel](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 

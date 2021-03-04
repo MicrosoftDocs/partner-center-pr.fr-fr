@@ -1,19 +1,19 @@
 ---
 title: Connecteur de la co-vente pour Dynamics 365 CRM Partner Center
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronisez les références dans l’espace partenaires avec votre connecteur de co-vente pour Dynamics 365 CRM. Les vendeurs peuvent ensuite se vendre avec Microsoft à partir de vos systèmes CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645705"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756790"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -31,11 +31,11 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 |**Rubriques**   |**Détails**   |**Liens**   |
 |--------------|--------------------|------|
 |ID de Microsoft Partner Network |Vous avez besoin d’un ID MPN valide|Pour rejoindre [MPN](https://partner.microsoft.com/)|
-|Covente prête|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Prêt pour la co-vente|Votre solution IP/Services doit être prête à être covente.|[Vendre avec Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Compte Espace partenaires|L’ID MPN associé au locataire de l’espace partenaires doit être identique à l’ID MPN associé à votre solution de covente. Vérifiez que vous pouvez voir vos références de covente dans le portail espace partenaires avant de déployer les connecteurs.|[Gérer votre compte](create-user-accounts-and-set-permissions.md)|
 |Rôles d’utilisateur de l’Espace partenaires|L’employé qui va installer et utiliser les connecteurs doit être un administrateur de références|[Affecter des rôles et des autorisations aux utilisateurs](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|Le rôle d’utilisateur CRM est administrateur système ou personnalisateur système|[Affecter des rôles dans Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Gestion de l’alimentation-automatiser le compte|Créez un environnement de production avec une base de données pour le test, la mise en lots et la production. Si vous disposez déjà d’un environnement de production avec une base de données, vous pouvez le réutiliser. L’utilisateur qui va installer la solution connecteur doit avoir une licence Power automate et un accès à cet environnement. Vous pouvez surveiller la progression et obtenir plus de détails en cas d’échec de l’installation dans [Power automate](https://flow.microsoft.com/) en cliquant sur Afficher l’historique sous solutions.|[Créer ou gérer l’environnement](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Gestion de l’alimentation-automatiser le compte|Créez un environnement de production avec une base de données pour le test, la mise en lots et la production. Si vous disposez déjà d’un environnement de production avec une base de données, vous pouvez le réutiliser. L’utilisateur qui va installer la solution connecteur doit avoir une licence Power automate et un accès à cet environnement. Vous pouvez surveiller la progression et obtenir plus de détails en cas d’échec de l’installation dans [Power automate](https://flow.microsoft.com/) en cliquant sur Afficher l’historique sous solutions.|[Créer ou gérer l’environnement](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installer la synchronisation des références de l’espace partenaires pour Dynamics 365 (solution Power automate)
 
@@ -110,7 +110,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 1. Revenez à la page **solutions** et sélectionnez **solution par défaut**. Sélectionnez **référence de connexion (version préliminaire)** en cliquant sur **tout**.
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Connexion":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="Modification des connexions":::
 
 2. Modifiez chacune des connexions une par une en sélectionnant l’icône à trois points. Ajoutez les connexions appropriées.
 
@@ -141,9 +141,9 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 3. Sélectionnez l’icône de **copie** pour copier l’URL http postale fournie.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copier l’URL":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Utiliser des webhooks pour enregistrer des modifications de ressources":::
 
-4. Maintenant, sélectionnez l’option inscription à un webhook de l’espace partenaires (version préliminaire d’Insider) et sélectionnez **exécuter**.
+4. Sélectionnez le Flow « inscription du webhook de l’espace partenaires (version préliminaire d’Insider) », puis sélectionnez **exécuter**.
 
 5. Vérifiez que la fenêtre « exécuter le workflow » s’affiche dans le volet de droite, puis cliquez sur **Continuer**.
 
@@ -205,7 +205,7 @@ Pour mettre à jour une valeur de variable d’environnement :
 
 3. Mettez à jour la **valeur actuelle** (ne pas mettre à jour la valeur par défaut) à l’aide de l’option **nouvelle valeur** et fournissez la valeur. La valeur doit correspondre au type de données de la variable pour, par exemple, le type de données yes/no accepte la valeur Yes ou no.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Zone d’édition pour les valeurs par défaut":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Mettre à jour les variables d’environnement":::
 
 - Synchronisation bidirectionnelle de la direction de la co-vente de bout en bout
 

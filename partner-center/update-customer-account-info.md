@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89d685aef9fbaa004cfa5c7763d19c7ff03186d5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: c291a2cf859d0c21570a06fab5bc36b19eccfda2
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811149"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755847"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Mettre à jour les informations sur le compte client, les détails de la société et les informations de facturation des clients dans l’espace partenaires
 
-**S’applique à**
+**Rôles appropriés**
 
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
+- Administrateur général
+- Agent commercial
 
 Dans l’Espace partenaires, vous pouvez mettre à jour les informations de facturation d’un client et d’autres détails de l’entreprise. Vous pouvez également [accorder ou supprimer votre autorisation à un client d’acheter ses propres produits ou services](give-customers-permission.md).
 
@@ -32,3 +32,7 @@ Dans l’Espace partenaires, vous pouvez mettre à jour les informations de fact
 2. Dans le menu client, sélectionnez **compte** , puis **mettre à jour**.
 
 3. Après avoir apporté vos modifications, sélectionnez **Envoyer**.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Autoriser les clients dans l’espace partenaires à acheter leurs propres produits ou services](give-customers-permission.md)

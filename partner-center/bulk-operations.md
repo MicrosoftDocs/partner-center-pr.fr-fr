@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645637"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756065"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Opérations en bloc pour les opportunités de co-vente à l’aide de fichiers de valeurs séparées par des virgules (CSV)
 
@@ -77,11 +77,11 @@ Prénom du contact client|Dépend|Le prénom est obligatoire uniquement si vous 
 Nom du contact du client|Dépend|Le nom est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Nom du contact principal de l’organisation cliente qui travaille sur cette transaction.|Customer
 Numéro de téléphone du contact client|Dépend|Le numéro de téléphone est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Numéro de téléphone du contact principal de l’organisation cliente qui travaille sur cette transaction.|9999999999
 Adresse E-mail du contact client|Dépend|L’adresse de messagerie est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Adresse e-mail du contact principal de l’organisation cliente qui travaille sur cette transaction.|john.customer@contoso.com
-État de la référence partenaire|Oui|Indique l’état de la transaction du point de vue de votre entreprise. Obligatoire si vous essayez de créer ou de modifier une référence. Utilisez **nouveau** si vous essayez de créer un nouveau contrat. Les valeurs acceptées sont documentées [ici](https://docs.microsoft.com/partner/develop/referral-resources#referralstatus).|Actif
-Sous-état de la référence du partenaire|Oui|Indique l’état exact de la transaction. Utilisez **accepté** si vous essayez de créer un nouveau contrat. Elle est également requise si vous modifiez une référence existante. Les valeurs acceptées sont documentées [ici](https://docs.microsoft.com/partner/develop/referral-resources#referralsubstatus).|Accepté
+État de la référence partenaire|Oui|Indique l’état de la transaction du point de vue de votre entreprise. Obligatoire si vous essayez de créer ou de modifier une référence. Utilisez **nouveau** si vous essayez de créer un nouveau contrat. Les valeurs acceptées sont documentées [ici](/partner/develop/referral-resources#referralstatus).|Actif
+Sous-état de la référence du partenaire|Oui|Indique l’état exact de la transaction. Utilisez **accepté** si vous essayez de créer un nouveau contrat. Elle est également requise si vous modifiez une référence existante. Les valeurs acceptées sont documentées [ici](/partner/develop/referral-resources#referralsubstatus).|Accepté
 État de la référence Microsoft|Dépend|Indique l’état de la demande de covente que vous avez envoyée à Microsoft pour rechercher de l’aide. Ce champ est en lecture seule. Toute modification apportée à ce champ lors de l’importation des données sera ignorée.| Pending
 Raison refusée/perdue|Dépend| Vous devez fournir ces informations uniquement si vous modifiez le sous-état de votre champ pour qu’il soit refusé ou perdu. Sinon, vous pouvez ignorer cette colonne. <br/> **Entrez un nombre en fonction des options ci-dessous** <br/><br/> **1**-le budget du projet n’est pas adéquat  <br/> **2**-le client n’a pas répondu  <br/> **3**-le client a choisi un autre fournisseur  <br/> **4** -exigence du client non remplie  <br/> **5** -pas un client <br/> **6**-la chronologie proposée était trop petite <br/> **7** -signaler comme abus, courrier indésirable ou hameçonnage <br/> **8** -autres |6|
-Étape de vente|Non|Il s’agit du champ pour indiquer l’étape détaillée des ventes de la référence. En savoir plus sur les étapes de vente [ici](https://aka.ms/salesStages)|40
+Étape de vente|Non|Il s’agit du champ pour indiquer l’étape détaillée des ventes de la référence. En savoir plus sur les étapes de vente [ici](./manage-co-sell-opportunities.md)|40
 Estimation de la valeur de la transaction|Oui|«La valeur de la transaction basée sur les conversations initiales avec le client. Cela peut être modifié jusqu’à ce que la transaction atteigne l’un des États des terminaux| remportée ou perdue.»|12563
 Devise|Oui|Devise dans laquelle la valeur de transaction est entrée. Vous trouverez [ici](https://en.wikipedia.org/wiki/ISO_4217)les codes de devise.|USD
 Date de clôture estimée|Oui|Date de clôture estimée de la transaction en fonction des conversations initiales avec le client au format MM/jj/aaaa. <br/> **La date doit être le fuseau horaire UTC. Toutes les dates affichées dans l’interface utilisateur de l’espace partenaires sont basées sur les fuseaux horaires localisés. Il peut y avoir +/-une différence d’un jour dans l’interface utilisateur de l’espace partenaires si vous examinez la référence pour laquelle vous avez fourni la date au fuseau horaire UTC.**|1/30/2020

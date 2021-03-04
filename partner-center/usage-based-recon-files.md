@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949547"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755762"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Comprendre les fichiers de rapprochement basés sur l’utilisation et leurs champs spécifiques dans l’espace partenaires
 
@@ -21,7 +21,12 @@ S’applique à :
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
-Pour concilier vos frais par rapport à l’utilisation d’un client, comparez les **ResellerID**, **nom du revendeur**et **ResellerBillableAccount** du fichier de réconciliation avec le **nom du client** et l’ID d' **abonnement** de l’espace partenaires.
+**Rôles appropriés**
+
+- Administrateur des comptes
+- Administrateur de la facturation
+
+Pour concilier vos frais par rapport à l’utilisation d’un client, comparez les **ResellerID**, **nom du revendeur** et **ResellerBillableAccount** du fichier de réconciliation avec le **nom du client** et l’ID d' **abonnement** de l’espace partenaires.
 
 ## <a name="fields-in-usage-based-reconciliation-files"></a>Champs dans les fichiers de réconciliation basés sur l’utilisation
 
@@ -63,11 +68,15 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 | CustomerId | Identificateur Microsoft unique du client, au format GUID. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | DomainName | Nom de domaine du client. Ce champ peut apparaître vide jusqu’au deuxième cycle de facturation. | *example.onmicrosoft.com* |
 | BillingCycleType | Fréquence de facturation.| **Tous les mois**  |
-| Unité | Unité du **nom**de la ressource. | *Go* ou *heures* |
+| Unité | Unité du **nom** de la ressource. | *Go* ou *heures* |
 | CustomerBillableAccount | Identificateur de compte unique dans la plateforme de facturation Microsoft. | *1280018095* |
 | UsageDate | Date de déploiement du service. | *2/1/2019 0:00* |
 | MeteredRegion | Identifie l’emplacement d’un centre de données dans la région (pour les services où cette valeur est applicable et remplie). | *Asie est*, *Sud Asie est*, *Europe du Nord*, Europe de l' *Ouest*, *nord du Centre des États*-Unis, *sud du Centre des États-Unis* |
 | MeteredService | Identifie l’utilisation d’un service Azure individuel lorsqu’il n’est pas spécifiquement identifié dans la colonne **ServiceName** . Par exemple, les transferts de données sont signalés comme *Microsoft Azure tous les services* dans la colonne **ServiceName** . | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Storage* |
-| MeteredServiceType | Sous-titre du champ **MeteredService** qui fournit des éclaircissements supplémentaires sur l’utilisation des services Azure. | *EXTERIEUR* |
+| MeteredServiceType | Sous-titre du champ **MeteredService** qui fournit des éclaircissements supplémentaires sur l’utilisation des services Azure. | *EXTERNAL* |
 | Project | Nom défini par le client pour son instance de service. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Nombre de connexions Azure Service Bus qui ont été approvisionnées et utilisées pour un jour donné. | *1,000000 connexions/30 jours* (si vous aviez une connexion configurée individuellement au cours d’un mois de 30 jours), *25 connexions/30 jours – utilisée : 1,000000* (si vous aviez un pack de 25 connexions de service bus approvisionnées et que vous avez utilisé 1 pendant cette journée) |
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Comprendre les champs des fichiers de rapprochement basés sur les licences de l’espace partenaires](license-based-recon-files.md)

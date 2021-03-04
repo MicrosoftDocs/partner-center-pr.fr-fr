@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488078"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755774"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Découvrez comment lire les éléments de ligne dans vos fichiers de rapprochement de l’espace partenaires
 
@@ -23,20 +23,20 @@ S’applique à :
 - Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
-Vous pouvez télécharger vos fichiers de conciliation à partir de l’espace partenaires pour obtenir une vue détaillée de chaque facture dans un cycle de facturation. Les détails des éléments de ligne incluent les frais associés aux abonnements de chaque client et les événements détaillés (par exemple, ajout de licences à mi-parcours à un abonnement).
-
-Rôles appropriés :
+**Rôles appropriés**
 
 - Administrateur de la facturation
 - Administrateur général
+
+Vous pouvez télécharger vos fichiers de conciliation à partir de l’espace partenaires pour obtenir une vue détaillée de chaque facture dans un cycle de facturation. Les détails des éléments de ligne incluent les frais associés aux abonnements de chaque client et les événements détaillés (par exemple, ajout de licences à mi-parcours à un abonnement).
 
 Pour plus d’informations sur la lecture de votre facture, consultez [lire votre](read-your-bill.md) **facture**.
 
 ## <a name="understand-reconciliation-file-fields"></a>Comprendre les champs de fichier de réconciliation
 
-- [Champs du fichier de réconciliation basés sur les licences](license-based-recon-files.md)
-- [Champs du fichier de réconciliation basés sur l’utilisation](usage-based-recon-files.md)
-- [Champs du fichier de réconciliation de l’utilisation évalué quotidiennement](daily-rated-usage-recon-files.md)
+- [Champs du fichier de rapprochement basé sur les licences](license-based-recon-files.md)
+- [Champs du fichier de rapprochement basé sur l’utilisation](usage-based-recon-files.md)
+- [Champs du fichier de rapprochement basé sur l’utilisation quotidienne estimée](daily-rated-usage-recon-files.md)
 - [Champs du fichier de rapprochement des fournisseurs CSP à usage unique](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Comprendre les types de frais dans les fichiers de rapprochement
@@ -51,7 +51,7 @@ Pour résoudre les problèmes de mise en forme dans vos fichiers de rapprochemen
 
 1. Ouvrez le fichier de réconciliation (au format. csv) dans Microsoft Excel.
 2. Sélectionnez la première colonne du fichier.
-3. Ouvrez l' **Assistant Conversion de texte en colonnes**. Dans le ruban, sélectionnez **données** , puis sélectionnez **texte pour les colonnes**.
+3. Ouvrez l' **Assistant Conversion de texte en colonnes**. Dans le ruban, sélectionnez **données**, puis sélectionnez **texte pour les colonnes**.
 4. Dans l’Assistant, sélectionnez **type de fichier délimité**. Ensuite, sélectionnez **Suivant**.
 5. Dans le champ **séparateurs** , sélectionnez **virgule**. (Si l' **onglet** est déjà sélectionné, vous pouvez conserver cette option sélectionnée.) Sélectionnez ensuite **suivant**.
 6. Dans le champ **format des données** de la colonne, sélectionnez **Date : mja**. Ensuite, sélectionnez **Suivant**.
@@ -81,11 +81,11 @@ Les partenaires dans le **modèle indirect** peuvent utiliser ces champs supplé
 
 Si un partenaire CSP a vendu l’abonnement directement au client, son **ID MPN** est listé deux fois, à la fois avec l' **ID MPN** et l' **ID MPN du revendeur**.
 
-Si un partenaire CSP a un revendeur sans **ID MPN** , cette valeur est définie sur l' **ID MPN** du partenaire à la place.
+Si un partenaire CSP a un revendeur sans **ID MPN**, cette valeur est définie sur l' **ID MPN** du partenaire à la place.
 
-Si le partenaire CSP supprime un **ID MPN du revendeur** , cette valeur sera définie sur *-1*.
+Si le partenaire CSP supprime un **ID MPN du revendeur**, cette valeur sera définie sur *-1*.
 
-Pour afficher ou mettre à jour l' **ID MPN du revendeur** :
+Pour afficher ou mettre à jour l' **ID MPN du revendeur**:
 
 1. Connectez-vous à l’Espace partenaires.
 2. Dans le menu de l’Espace partenaires, sélectionnez **Clients**.
@@ -93,3 +93,7 @@ Pour afficher ou mettre à jour l' **ID MPN du revendeur** :
 4. Dans le menu client, sélectionnez **abonnements**.
 5. Choisissez l’abonnement dans la liste.
 6. Sélectionnez **Mettre à jour** pour modifier le **Revendeur (ID&nbsp;MPN)**.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Comment lire votre fichier de conciliation de factures &](read-your-bill.md) 

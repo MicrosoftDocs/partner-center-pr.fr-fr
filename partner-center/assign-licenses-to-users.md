@@ -1,7 +1,7 @@
 ---
 title: Gérer les utilisateurs pour les comptes client
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Gérer les utilisateurs pour vos clients dans l’espace partenaires : créer des comptes d’utilisateur, ajouter ou supprimer des licences utilisateur, réinitialiser les mots de passe et supprimer ou restaurer des comptes d’utilisateur.'
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570737"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756078"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gérer les utilisateurs et les licences utilisateur pour les comptes client 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570737"
 Vous pouvez créer et supprimer de nouveaux utilisateurs dans le compte d’un client. Vous pouvez également restaurer un ou plusieurs comptes d’utilisateur que vous avez précédemment supprimés dans les 30 jours suivant la suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
 
 Lorsque vous achetez de nouveaux abonnements pour un client, le client doit vous fournir une liste de tous les utilisateurs qui auront besoin de comptes, de leurs autorisations utilisateur et des services dont chaque utilisateur a besoin.  
+
+>[!NOTE]
+>La section **utilisateurs et licences** de l’onglet **client** affiche tous les utilisateurs créés dans le locataire d’un client spécifique, y compris les utilisateurs disposant de licences achetées auprès d’un autre partenaire CSP ou d’un autre canal d’achat.
 
 Vous pouvez [affecter des abonnements à plusieurs utilisateurs](bulk-license-provisioning-for-multiple-users.md) à la fois en important les noms à l’aide d’un [fichier de feuille de calcul. csv compatible avec Excel](adding-multiple-users-to-a-customer-account.md).
 

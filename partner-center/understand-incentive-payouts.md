@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492719"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755866"
 ---
 # <a name="view-your-incentives-program-details"></a>Afficher les détails de votre programme d’incentives
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -37,7 +33,7 @@ Cet article explique comment accéder à la page **vue d’ensemble de mes incen
 
 ## <a name="access-the-incentives-overview-page"></a>Accéder à la page de présentation des incentives
 
-1. Connectez-vous au [tableau de bord de l’espace partenaires](https://partner.microsoft.com/dashboard).
+1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard).
 1. Sélectionnez **incentives**, puis **vue d’ensemble** dans le menu.
 1. Vous pouvez voir le récapitulatif des gains et des paiements en haut de la page, ainsi que des informations supplémentaires dans le tableau ci-dessous. Vous pouvez également trier, regrouper et développer la table qui l’accompagne :
 
@@ -51,7 +47,7 @@ Cet article explique comment accéder à la page **vue d’ensemble de mes incen
 
 Le tableau suivant décrit les différents États d’inscription indiqués dans la colonne **État** .
 
-| **État**         | **Visible quand** |
+| **Statut**         | **Visible quand** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
@@ -76,4 +72,5 @@ Ces informations incluent le montant total des gains et des paiements d’incent
 Vous pouvez également utiliser l' [API](https://apidocs.microsoft.com/services/partnerpayouts) de paiement de partenaire pour vous connecter et obtenir directement les données de paiement et de transaction de paiement. Pour en savoir plus, consultez les [instructions de paiement](payout-statement.md) .
 
 ## <a name="next-steps"></a>Étapes suivantes
+
 - [Relevés de paiements](payout-statement.md)

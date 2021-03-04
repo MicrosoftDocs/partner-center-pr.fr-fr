@@ -1,7 +1,7 @@
 ---
 title: Signaler des problèmes au nom d’un client
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment faire remonter un problème de service client à Microsoft et comment transmettre un ticket de support pour les différents types de services Microsoft.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153143"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756445"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Signaler un problème de service au nom d’un client, y compris quand et comment procéder
 
@@ -146,8 +146,6 @@ Si vous vous connectez directement au centre d’administration Office 365, vous
 Si vous rencontrez des problèmes liés à : Dynamics 365 Planifiez les abonnements, les licences, la facturation, les opérations finance &, les licences Dynamics 365, ou vous avez besoin d’un support technique supplémentaire :
  
 Contactez le [Support Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
-
-Lire [Support Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 ## <a name="next-steps"></a>Étapes suivantes
 

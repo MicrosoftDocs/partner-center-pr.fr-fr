@@ -1,5 +1,5 @@
 ---
-title: S’inscrire en tant que partenaire de formation
+title: S’inscrire au programme Learning Partner
 ms.topic: how-to
 ms.date: 02/05/2021
 description: Utilisez l’espace partenaires pour vous inscrire au programme du partenaire de formation. Vous pouvez le faire en fonction de l’Action Pack d’apprentissage ou de l’option d’apprentissage pour les compétences Silver ou Gold.
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975661"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756127"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Utiliser l’espace partenaires pour vous inscrire en tant que partenaire Microsoft Learning
 
@@ -40,7 +40,7 @@ Lors de l’inscription dans le programme du partenaire de formation, voici quel
 
 **MISE À JOUR COVID-19**
 
-Microsoft offre une extension de compétence (à l’exception de la compétence du Cloud Business Applications) et une extension de spécialisation avancée pour les partenaires avec des dates anniversaires (AD) comprises entre le 1er janvier 2021 et le 30 juin 2021. Pour plus d’informations, consultez notre billet de [blog partenaire](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Microsoft offre une extension de compétence (à l’exception de la compétence Applications métier du cloud) et une extension de spécialisation avancée pour les partenaires avec des dates anniversaires comprises entre le 1er janvier 2021 et le 30 juin 2021. Pour plus d’informations, consultez notre [billet de blog pour les partenaires](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 Pour rester à jour avec les annonces du programme d’apprentissage, [Lisez notre blog](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) et consultez notre [page Yammer](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all)pour le partenaire de formation. Vous pouvez également trouver des documents de programme et des enregistrements de la communauté mensuelle sur notre [page de ressources de formation](https://partner.microsoft.com/marketing/learning-resources#/).
 
@@ -115,7 +115,7 @@ La réalisation d’un indicateur de performance clé n’est pas liée à la du
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. Pourquoi n’apparaît-il pas en tant que partenaire de formation Microsoft dans le répertoire Learning Partner ?
 
-Nous pouvons être amenés à vous ajouter au [répertoire Learning Partner](https://docs.microsoft.com/learn/certifications/partners). Vous pouvez ensuite créer un lien vers votre site Web à partir de la page de l’annuaire du partenaire de formation.
+Nous pouvons être amenés à vous ajouter au [répertoire Learning Partner](/learn/certifications/partners). Vous pouvez ensuite créer un lien vers votre site Web à partir de la page de l’annuaire du partenaire de formation.
 
 Il s’agit d’un processus manuel qui est soumis une seule fois par mois, au cours de la troisième semaine. La mise à jour suivante sera visible à la fin de la première semaine du mois suivant. Pour vous aider à résoudre le problème, contactez le support de la [Frontline de partenaire](https://partner.microsoft.com/support). Préparez-vous à fournir les informations suivantes :
 

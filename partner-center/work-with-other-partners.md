@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 944f02af414a2865cadf94cd4fbf41c2555e066b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322098"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755711"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Différentes façons de travailler avec d’autres partenaires dans l’espace partenaires
 
-**S’applique à**
+**Rôles appropriés**
 
-- Espace partenaires
+- administrateur de compte
 
 Le programme fournisseur de solutions Cloud (CSP) de Microsoft offre aux partenaires la possibilité de travailler ensemble de ces manières.
 
@@ -55,4 +55,4 @@ La fonctionnalité Multi-Channel de l’espace partenaires prend en charge les s
 La prise en charge de plusieurs canaux est également disponible dans les offres de Cloud national de Microsoft.
 
 > [!IMPORTANT]  
-> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Cette restriction s’applique uniquement au locataire utilisé pour l’exécution des transactions CSP. Les partenaires CSP qui utilisent un locataire non-CSP pour leur utilisation d’entreprise peuvent acheter des services en ligne auprès d’un autre partenaire CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).
+> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Cette restriction s’applique uniquement au client utilisé pour effectuer les transactions du fournisseur de solutions Cloud. Les partenaires fournisseurs de solutions Cloud qui se servent d’un client non-fournisseur de solutions Cloud pour leur usage professionnel peuvent acheter les services en ligne d’un autre fournisseur de solutions Cloud. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).
