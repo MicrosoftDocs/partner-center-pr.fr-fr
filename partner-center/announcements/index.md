@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540979"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756145"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,11 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 |**Catégorie**|**Annonces de février 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Fonctionnalités|[Mise hors service des API de qualification PUT, GET prévu en mai](2021-february.md#14)|25 février|
+|Fonctionnalités|[Partage des transactions de covente à grande échelle avec la fonctionnalité d’opérations en bloc de l’Espace partenaires](2021-february.md#13)|25 février|
+|Fonctionnalités|[Migration de vos transactions depuis Partner Sales Connect (PSC) avec la nouvelle fonctionnalité de migration des transactions](2021-february.md#12)|25 février|
+|Fonctionnalités|[Plus grande flexibilité avec les transactions de co-vente menées par des partenaires](2021-february.md#11)|25 février|
+|Fonctionnalités|[Changements dans l’intégration des clients CSP (Cloud Solution Provider)](2021-february.md#10)|25 février|
 |Fonctionnalités|[Disponible dès maintenant : Migration de DocuSign vers Adobe Sign pour les partenaires sous contrat Partenaire Microsoft (MPA)](2021-february.md#9)|16 février|
 |Développer votre activité|[Rappel : Introduction de la limitation des API aux partenaires appelant les API de l’Espace partenaires](2021-february.md#8)|16 février|
 |Fonctionnalités|[Introduction de Microsoft Viva Topics](2021-february.md#7)|12 février|
