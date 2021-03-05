@@ -1,80 +1,81 @@
 ---
-title: Ajouter des locataires supplémentaires à votre compte espace partenaires
+title: Ajouter des locataires à votre compte espace partenaires
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment ajouter, consolider ou gérer plusieurs locataires Azure AD dans votre compte espace partenaires. En savoir plus sur certaines des raisons pour lesquelles vous pourriez souhaiter le faire.
+description: Découvrez comment ajouter, consolider ou gérer plusieurs locataires Azure AD dans votre compte espace partenaires, et découvrir pourquoi vous pouvez le faire.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182429"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124803"
 ---
-# <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a><span data-ttu-id="6ffc8-104">Ajouter et gérer plusieurs locataires dans votre compte espace partenaires</span><span class="sxs-lookup"><span data-stu-id="6ffc8-104">Add and manage multiple tenants in your Partner Center account</span></span>
+# <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a><span data-ttu-id="c0d9a-103">Ajouter et gérer plusieurs locataires dans votre compte espace partenaires</span><span class="sxs-lookup"><span data-stu-id="c0d9a-103">Add and manage multiple tenants in your Partner Center account</span></span>
 
 
-<span data-ttu-id="6ffc8-105">**Rôles appropriés**</span><span class="sxs-lookup"><span data-stu-id="6ffc8-105">**Appropriate roles**</span></span>
+<span data-ttu-id="c0d9a-104">**Rôles appropriés**</span><span class="sxs-lookup"><span data-stu-id="c0d9a-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="6ffc8-106">Administrateur général</span><span class="sxs-lookup"><span data-stu-id="6ffc8-106">Global admin</span></span>
-- <span data-ttu-id="6ffc8-107">Administrateur des comptes</span><span class="sxs-lookup"><span data-stu-id="6ffc8-107">Account admin</span></span>
+- <span data-ttu-id="c0d9a-105">Administrateur général</span><span class="sxs-lookup"><span data-stu-id="c0d9a-105">Global admin</span></span>
+- <span data-ttu-id="c0d9a-106">Administrateur des comptes</span><span class="sxs-lookup"><span data-stu-id="c0d9a-106">Account admin</span></span>
 
-<span data-ttu-id="6ffc8-108">Cette fonctionnalité vous permet de gérer plusieurs locataires pour votre entreprise et de les consolider dans votre compte Espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-108">This feature allows you to manage multiple tenants for your company and to consolidate them into your Partner Center account.</span></span> <span data-ttu-id="6ffc8-109">Il existe de nombreuses raisons pour lesquelles vous devrez peut-être gérer plusieurs Azure AD locataires dans votre compte espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-109">There are many reasons why you may need to manage multiple Azure AD tenants in your Partner Center account.</span></span> <span data-ttu-id="6ffc8-110">Par exemple :</span><span class="sxs-lookup"><span data-stu-id="6ffc8-110">For example:</span></span>
+<span data-ttu-id="c0d9a-107">Cet article explique comment consolider plusieurs clients de Azure Active Directory (Azure AD) pour votre société, puis les ajouter et les gérer dans votre compte espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-107">This article discusses how to consolidate multiple Azure Active Directory (Azure AD) tenants for your company and then add and manage them in your Partner Center account.</span></span> <span data-ttu-id="c0d9a-108">Il y a de nombreuses raisons à cela.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-108">There are many reasons to do so.</span></span> <span data-ttu-id="c0d9a-109">Par exemple :</span><span class="sxs-lookup"><span data-stu-id="c0d9a-109">For example:</span></span>
 
-- <span data-ttu-id="6ffc8-111">Votre entreprise peut acheter une autre société et vous souhaitez que les employés de la nouvelle société puissent utiliser l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-111">Your company may purchase another company, and you want the employees in the new company to be able to use Partner Center.</span></span> <span data-ttu-id="6ffc8-112">Toutefois, vous souhaitez que les deux sociétés restent séparées.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-112">However, you want the two companies to remain separate.</span></span> <span data-ttu-id="6ffc8-113">Dans ce cas, vous associez le locataire Azure AD de la nouvelle société à votre compte global de partenaire (PGA).</span><span class="sxs-lookup"><span data-stu-id="6ffc8-113">In this case, you'd associate the new company's Azure AD tenant with your Partner global account (PGA).</span></span> <span data-ttu-id="6ffc8-114">Cette association permettrait aux utilisateurs des deux entreprises de travailler dans l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-114">This association would enable users in both companies to work in Partner Center.</span></span>
+- <span data-ttu-id="c0d9a-110">Supposons que votre entreprise, contoso, a acquis une autre société, fabrikam.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-110">Let's say your company, Contoso, has acquired another company, Fabrikam.</span></span> <span data-ttu-id="c0d9a-111">Vous souhaitez que les deux sociétés restent distinctes, mais que vous souhaitiez que les nouveaux employés puissent utiliser l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-111">You want the two companies to remain separate, but you want the new employees to be able to use Partner Center.</span></span> <span data-ttu-id="c0d9a-112">Dans ce cas, vous associez le client Azure AD de la nouvelle société à votre compte global de partenaire (PGA).</span><span class="sxs-lookup"><span data-stu-id="c0d9a-112">In this case, you associate the new company's Azure AD tenant with your Partner global account (PGA).</span></span> <span data-ttu-id="c0d9a-113">Cette association permet aux utilisateurs des deux sociétés de travailler dans l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-113">This association enables users in both companies to work in Partner Center.</span></span>
 
-- <span data-ttu-id="6ffc8-115">Si vous avez plusieurs locataires pour l’exécution de votre entreprise (par exemple, contoso.com, contoso.uk, contoso.in), vous pouvez utiliser une architecture mutualisée pour les relier sous le même compte d’ordinateur.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-115">If you have more than one tenant to run your business (e.g. contoso.com, contoso.uk, contoso.in) you can use multi-tenancy to tie them under the same PC account.</span></span>
+- <span data-ttu-id="c0d9a-114">Si vous exécutez votre activité avec plusieurs locataires (par exemple, *contoso.com*, *contoso.uk* et *contoso.in*), vous pouvez utiliser l’architecture mutualisée pour les regrouper dans le même compte d’ordinateur.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-114">If you run your business with more than one tenant (for example, *contoso.com*, *contoso.uk*, and *contoso.in*), you can use multitenancy to group them in the same PC account.</span></span>
 
-- <span data-ttu-id="6ffc8-116">Les fusions et les acquisitions nécessitent que vous utilisiez plusieurs locataires (par exemple, si contoso acquiert Fabrikam, vous devez être en mesure d’utiliser à la fois les locataires respectifs Constoso.com et Fabrikam.com).</span><span class="sxs-lookup"><span data-stu-id="6ffc8-116">Mergers and acquisitions requires you to work with more than one tenant (e.g. If Contoso acquires Fabrikam, you would need to be able to use both Constoso.com and Fabrikam.com respective tenants).</span></span>
+- <span data-ttu-id="c0d9a-115">Si les fusions et les instructions d’acquisition nécessitent que vous utilisiez les locataires des deux sociétés, vous devez utiliser les locataires *constoso.com* et *fabrikam.com* .</span><span class="sxs-lookup"><span data-stu-id="c0d9a-115">If mergers and acquisitions guidelines require you to work with tenants of both companies, you would use both the *constoso.com* and *fabrikam.com* tenants.</span></span>
 
-- <span data-ttu-id="6ffc8-117">Les utilisateurs de l’un des locataires doivent être en mesure d’effectuer les opérations suivantes :</span><span class="sxs-lookup"><span data-stu-id="6ffc8-117">Users from any of the tenants would need to be able to:</span></span>
-    1.  <span data-ttu-id="6ffc8-118">Accéder au centre des partenaires pour la formation, les téléchargements numériques, l’Association MCP</span><span class="sxs-lookup"><span data-stu-id="6ffc8-118">Access Partner Center for training, digital downloads, MCP association</span></span>
-    2.  <span data-ttu-id="6ffc8-119">Être affecté à des rôles de l’espace partenaires comme un administrateur MPN, un administrateur d’incentives, etc.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-119">Be assigned Partner Center roles like MPN Admin, Incentives Admin etc.</span></span>
+- <span data-ttu-id="c0d9a-116">Les utilisateurs de l’un des locataires doivent être en mesure d’effectuer les opérations suivantes :</span><span class="sxs-lookup"><span data-stu-id="c0d9a-116">Users of any of the tenants need to be able to:</span></span>
+    * <span data-ttu-id="c0d9a-117">Accédez à l’espace partenaires pour la formation, les téléchargements numériques ou l’Association MCP (Microsoft Certified Professional).</span><span class="sxs-lookup"><span data-stu-id="c0d9a-117">Access Partner Center for training, digital downloads, or Microsoft Certified Professional (MCP) association.</span></span>
+    * <span data-ttu-id="c0d9a-118">Être affecté à des rôles de l’espace partenaires, tels que l’administrateur Microsoft Partner Network (MPN) ou l’administrateur d’incentives.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-118">Be assigned Partner Center roles such as Microsoft Partner Network (MPN) admin or incentives admin.</span></span>
 
+## <a name="add-an-azure-ad-tenant-to-your-account"></a><span data-ttu-id="c0d9a-119">Ajouter un locataire Azure AD à votre compte</span><span class="sxs-lookup"><span data-stu-id="c0d9a-119">Add an Azure AD tenant to your account</span></span>
 
-## <a name="add-another-azure-ad-tenant-to-your-account"></a><span data-ttu-id="6ffc8-120">Ajouter un autre Azure AD locataire à votre compte</span><span class="sxs-lookup"><span data-stu-id="6ffc8-120">Add another Azure AD tenant to your account</span></span>
+1. <span data-ttu-id="c0d9a-120">Connectez-vous en tant qu’administrateur général à [Microsoft Partner Center](https://partner.microsoft.com/dashboard).</span><span class="sxs-lookup"><span data-stu-id="c0d9a-120">Sign in as global admin to [Microsoft Partner Center](https://partner.microsoft.com/dashboard).</span></span>
 
-1. <span data-ttu-id="6ffc8-121">En tant qu’administrateur général, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-121">As the global admin, sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
-1. <span data-ttu-id="6ffc8-122">À partir de l’icône **paramètres** , sélectionnez **paramètres du compte** , puis sélectionnez **locataires**.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-122">From the **Settings** icon, select **Account settings** and then select **Tenants**.</span></span>
+1. <span data-ttu-id="c0d9a-121">Dans l’angle supérieur droit, sélectionnez **paramètres**, sélectionnez **paramètres du compte**, puis sélectionnez **locataires**.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-121">At the upper right, select **Settings**, select **Account settings**, and then select **Tenants**.</span></span>
  
-:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="associer des locataires"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Capture d’écran du bouton associer dans le volet Azure AD profil."::: 
 
-3. <span data-ttu-id="6ffc8-124">Sélectionnez **associer un autre locataire Active Directory** et indiquez le locataire que vous souhaitez associer.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-124">Select **Associate another AD tenant** and indicate the tenant you want to associate.</span></span>
+1. <span data-ttu-id="c0d9a-123">Sélectionnez **associer**, puis indiquez le locataire que vous souhaitez associer.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-123">Select **Associate**, and then indicate the tenant you want to associate.</span></span>
 
-1. <span data-ttu-id="6ffc8-125">En tant qu’administrateur général, connectez-vous au locataire que vous souhaitez associer et confirmez l’Association.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-125">As global admin, sign into the tenant you want to associate and confirm the association.</span></span> 
+1. <span data-ttu-id="c0d9a-124">À l’invite, connectez-vous en tant qu’administrateur général au locataire que vous souhaitez associer, puis sélectionnez **confirmer**.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-124">At the prompt, sign in as global admin to the tenant you want to associate, and then select **Confirm**.</span></span> 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="confirmer l’Association des locataires"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Capture d’écran du bouton confirmer du volet confirmer la nouvelle Azure AD Association."::: 
 
-5. <span data-ttu-id="6ffc8-127">Une fois que vous avez confirmé, vous verrez un avis **défini** .</span><span class="sxs-lookup"><span data-stu-id="6ffc8-127">After you confirm, you will see an **All set** notice.</span></span>  <span data-ttu-id="6ffc8-128">Sélectionnez **revenir à la gestion des locataires pour** Voir le locataire que vous venez d’ajouter.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-128">Select **Return to tenant management** and you'll see the newly added tenant listed.</span></span> 
+   <span data-ttu-id="c0d9a-126">Une fois l’Association confirmée, un message **Set All** s’affiche.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-126">After you've confirmed the association, an **All set** message is displayed.</span></span> <span data-ttu-id="c0d9a-127">Pour afficher le locataire qui vient d’être ajouté, sélectionnez **revenir à la gestion des locataires**.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-127">To view the newly added tenant, select **Return to tenant management**.</span></span> 
  
-
 >[!NOTE]
-><span data-ttu-id="6ffc8-129">Vous ne pouvez pas associer un locataire à un compte s’il est déjà associé à un autre compte de l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-129">You can't associate a tenant to an account if it is already associated to another Partner Center account.</span></span>
+><span data-ttu-id="c0d9a-128">Vous ne pouvez pas associer un locataire à un compte s’il est déjà associé à un autre compte de l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-128">You can't associate a tenant with an account if it's already associated with another Partner Center account.</span></span>
 
 
-## <a name="remove-a-tenant-from-your-account"></a><span data-ttu-id="6ffc8-130">Supprimer un locataire de votre compte</span><span class="sxs-lookup"><span data-stu-id="6ffc8-130">Remove a tenant from your account</span></span>
+## <a name="remove-a-tenant-from-your-account"></a><span data-ttu-id="c0d9a-129">Supprimer un locataire de votre compte</span><span class="sxs-lookup"><span data-stu-id="c0d9a-129">Remove a tenant from your account</span></span>
  
-1. <span data-ttu-id="6ffc8-131">En tant qu’administrateur général, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-131">As the global admin, sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="c0d9a-130">Connectez-vous en tant qu’administrateur général à [Microsoft Partner Center](https://partner.microsoft.com/dashboard).</span><span class="sxs-lookup"><span data-stu-id="c0d9a-130">Sign in as global admin to [Microsoft Partner Center](https://partner.microsoft.com/dashboard).</span></span>
 
-1. <span data-ttu-id="6ffc8-132">À partir de l’icône **paramètres** , sélectionnez **paramètres du compte** -> locataires, puis cliquez sur l’onglet **partenaire** .</span><span class="sxs-lookup"><span data-stu-id="6ffc8-132">From the **Settings** icon, select **Account settings** -> Tenants and click on the **Partner** tab.</span></span>
+1. <span data-ttu-id="c0d9a-131">Dans l’angle supérieur droit, sélectionnez l’icône des **paramètres** , puis sélectionnez **paramètres du compte**.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-131">At the upper right, select the **Settings** icon, and then select **Account settings**.</span></span>
+
+1. <span data-ttu-id="c0d9a-132">Dans le volet gauche, sélectionnez **locataires**.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-132">On the left pane, select **Tenants**.</span></span> <span data-ttu-id="c0d9a-133">Sous **gérer les locataires Azure ad**, sélectionnez l’onglet **partenaire** .</span><span class="sxs-lookup"><span data-stu-id="c0d9a-133">Under **Manage Azure AD tenants**, select the **Partner** tab.</span></span>
  
-3. <span data-ttu-id="6ffc8-133">Cliquez sur **supprimer** pour le locataire que vous souhaitez dissocier.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-133">Click **Remove** for the tenant you want to dissociate.</span></span>
+1. <span data-ttu-id="c0d9a-134">Sélectionnez **supprimer** en regard du locataire dont vous souhaitez supprimer l’Association.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-134">Select **Remove** next to the tenant whose association you want to remove.</span></span>
 
-4. <span data-ttu-id="6ffc8-134">La dissociation d’un locataire signifie que les utilisateurs de ce locataire n’auront plus accès au compte de l’espace partenaires, ce qui peut avoir un impact sur vos compétences.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-134">Dissociating a tenant means that the users on that tenant will no longer have access to the Partner Center account, and this could have an impact on your competencies.</span></span> 
+   :::image type="content" source="images/disassociate.png" alt-text="Capture d’écran des associations de locataire actuelles et de leurs liens de suppression.":::
 
-<span data-ttu-id="6ffc8-135">Le bouton **supprimer** est activé pour tous les locataires associés, à l’exception du locataire principal et du locataire dans lequel vous êtes actuellement connecté.</span><span class="sxs-lookup"><span data-stu-id="6ffc8-135">The **Remove** button is enabled for all associated tenants, except the primary tenant and the tenant which you are currently signed into.</span></span>
+   <span data-ttu-id="c0d9a-136">Comme indiqué dans la capture d’écran précédente, les liens **supprimer** sont activés pour tous les locataires associés, à l’exception du locataire principal et du locataire auquel vous êtes actuellement connecté.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-136">As shown in the preceding screenshot, the **Remove** links are enabled for all associated tenants, except for the primary tenant and the tenant that you're currently signed in to.</span></span> 
 
-:::image type="content" source="images/disassociate.png" alt-text="locataires avec le bouton supprimer":::
- 
+   > [!NOTE]   
+   > <span data-ttu-id="c0d9a-137">Lorsque vous supprimez un locataire, les utilisateurs de ce locataire n’ont plus accès au compte de l’espace partenaires et la suppression peut avoir un impact sur vos compétences.</span><span class="sxs-lookup"><span data-stu-id="c0d9a-137">When you remove a tenant, the users on that tenant no longer have access to the Partner Center account, and the removal might have an impact on your competencies.</span></span> 
 
-## <a name="next-steps"></a><span data-ttu-id="6ffc8-137">Étapes suivantes</span><span class="sxs-lookup"><span data-stu-id="6ffc8-137">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="c0d9a-138">Étapes suivantes</span><span class="sxs-lookup"><span data-stu-id="c0d9a-138">Next steps</span></span>
 
-- [<span data-ttu-id="6ffc8-138">Ajout d'utilisateurs</span><span class="sxs-lookup"><span data-stu-id="6ffc8-138">Add users</span></span>](create-user-accounts-and-set-permissions.md)
+- [<span data-ttu-id="c0d9a-139">Créer des comptes d’utilisateur</span><span class="sxs-lookup"><span data-stu-id="c0d9a-139">Create user accounts</span></span>](create-user-accounts-and-set-permissions.md)
 
 
 
