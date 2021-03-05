@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756176"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124820"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -32,9 +32,9 @@ Cet article fournit des conseils pour les partenaires qui effectuent des migrati
 > Si vous êtes ici, car vous avez vu une bannière dans PSC sur la migration, vous êtes au bon endroit. Ce guide n’est pas applicable pour les partenaires commerciaux d’évaluation de la solution (SA) et de licence OEM qui gèrent leurs demandes dans PSC.
 
 >[!Important]
-> À partir du 1er mai, 2021 votre entreprise ne sera pas en mesure de créer ou de modifier des transactions dans le PSC. **Vous serez toujours en mesure de télécharger les données de transactions existantes à l’aide de la fonctionnalité d’exportation en bloc dans PSC. Vous pouvez également [migrer les transactions ouvertes](psc-to-pc.md#psc-deals-migration) de PSC vers l’espace partenaires après cette date.** <br><br> Si vous travaillez activement avec des demandes qui contiennent des solutions éligibles pour la co-vente IP, vous avez deux options : <br><br> 1. Marquez le contrat comme conclu et terminez l’enregistrement du contrat dans le PSC avant le 30 avril 2021. <br> 2. [migrez les demandes](psc-to-pc.md#psc-deals-migration) d’accès à l’espace partenaires pour obtenir plus de temps pour travailler sur le contrat et pour commencer à enregistrer votre contrat.
+> À compter du 1er avril 2021, votre entreprise ne sera pas en mesure de créer ou de modifier des transactions dans PSC. **Vous serez toujours en mesure de télécharger les données de transactions existantes à l’aide de la fonctionnalité d’exportation en bloc dans PSC. Vous pouvez également [migrer les transactions ouvertes](psc-to-pc.md#psc-deals-migration) de PSC vers l’espace partenaires après cette date.** <br><br> Si vous travaillez activement avec des demandes qui contiennent des solutions éligibles pour la co-vente IP, vous avez deux options : <br><br> 1. Marquez le contrat comme conclu et terminez l’inscription du contrat dans le PSC avant le 31 mars 2021. <br> 2. [migrez les demandes](psc-to-pc.md#psc-deals-migration) d’accès à l’espace partenaires pour obtenir plus de temps pour travailler sur le contrat et pour commencer à enregistrer votre contrat.
 
-Comme vous le savez, **l’entreprise perdra l’accès au PSC après le 31 mai, 2021**. Toutefois, vous trouverez tout ce que vous souhaitez faire dans l’espace partenaires, par exemple créer des offres de covente, gérer vos demandes et agir sur les transactions que les vendeurs Microsoft vous ont envoyées.
+Comme vous le savez, **l’entreprise perdra l’accès au PSC après le 30 avril 2021**. Toutefois, vous trouverez tout ce que vous souhaitez faire dans l’espace partenaires, par exemple créer des offres de covente, gérer vos demandes et agir sur les transactions que les vendeurs Microsoft vous ont envoyées.
 
 Toutefois, il y aura des différences. Les conseils suivants peuvent vous aider à rendre votre transition vers l’espace partenaires plus lisse et plus simple.
 
