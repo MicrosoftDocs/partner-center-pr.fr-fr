@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756167"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185347"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
@@ -56,8 +56,7 @@ Vous pouvez également utiliser l' [API](https://apidocs.microsoft.com/services/
 
 ## <a name="transaction-history"></a>Historique des transactions
 
-La page **historique des transactions** affiche le résumé de vos revenus, le paiement suivant estimé et la tendance de vos revenus et paiements au cours des 36 derniers mois. Vous pouvez également télécharger les détails des transactions à partir de cette section.
-
+La page **historique des transactions** affiche le résumé de vos revenus, le paiement suivant estimé et la tendance de vos revenus et paiements au cours des 36 derniers mois. Vous pouvez également télécharger les détails des transactions à partir de cette section.<br><br>Ce rapport affiche tous les bénéfices éligibles au paiement, y compris les paiements qui n’ont pas encore été envoyés. Les bénéfices peuvent être facturés lorsqu’un ISV a effectué toutes les informations bancaires et fiscales de l’espace partenaires, a gagné >$50, le compte ISV est actif et le client a été facturé (pour les transactions EA) ou le paiement a été reçu (pour les transactions non-EA).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Présentation de la transaction.":::
 

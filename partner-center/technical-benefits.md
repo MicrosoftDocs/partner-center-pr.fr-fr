@@ -9,14 +9,14 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d805b3ba9ea25fcccc4c4e82d05e524d47b7fc72
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: c273de275ed2821b9441be69fd29b931992a1982
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758452"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185296"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd-benefits"></a>Explorez les avantages des services de déploiement et des préventes techniques (TPD)
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explorez les services de déploiement et les préventes techniques (TPD) 
 
 ## <a name="develop-your-technical-know-how"></a>Développez votre savoir-faire technique
 
@@ -39,7 +39,7 @@ Toutes les solutions Cloud ou hybrides sont prises en charge, en plus des enviro
 
 Connectez-vous à l’aide de n’importe quel compte d’utilisateur associé au service MPN pour **[créer une demande de services de déploiement et d’avant-vente (TPD) technique](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (l’activation de l’avantage technique n’est pas nécessaire).
 
-  :::image type="content" source="images/technical-benefits.png" alt-text="Avantages des préventes techniques et du déploiement" border="false":::
+  :::image type="content" source="images/technical-benefits.png" alt-text="Avantages techniques des préventes et des déploiements" border="false":::
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Envoyer une demande de services de déploiement et des préventes techniques 
 

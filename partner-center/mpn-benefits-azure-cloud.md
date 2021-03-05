@@ -9,20 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c82e9cc3ea35097c15ac27b137f93c656ab99a78
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99056586"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185330"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Explorez le domaine des avantages des produits Cloud et Azure dans l’espace partenaires
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
-- Agent d’administration
 - Administrateur partenaire MPN
 
 Cet article décrit les avantages Azure et Cloud spécifiques disponibles pour les partenaires dans l’espace partenaires. Vous allez également apprendre à activer certains types d’abonnements Azure et Cloud.
