@@ -1,7 +1,7 @@
 ---
 title: Vendre des logiciels locaux par le biais de CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
@@ -9,27 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756043"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220242"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
 
 **Rôles appropriés**
 
 - Agent d’administration
 - Administrateur général
 
-Les logiciels sur site dans CSP prennent en charge une transition fluide vers le Cloud en introduisant des logiciels sur site dans un programme axé sur le Cloud.Cette nouvelle offre permet de faire passer le partenaire à valeur ajoutée à chaque scénario d’achat, car il fournit une plate-forme unique pour tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation. Le logiciel sur site dans CSP est un nouveau programme de vente et n’est pas destiné à remplacer les autres programmes de licence en volume de Microsoft. 
+Les logiciels locaux dans CSP prennent en charge une transition en douceur vers le Cloud en introduisant des logiciels locaux dans un programme axé sur le Cloud.Cette nouvelle offre permet de faire passer le partenaire à valeur ajoutée à chaque scénario d’achat, car il fournit une plate-forme unique pour tous les produits Microsoft. En tant que fournisseur de services de chiffrement, vous pouvez désormais vendre des logiciels locaux via l’espace partenaires, en plus des programmes ouverts, EA et d’autres programmes en cours d’utilisation.  
  
-Tout en garantissant la meilleure valeur globale du client avec les options de licence logicielle sur site, nous avons également rendu le modèle d’entreprise aussi convivial que possible. La gestion des licences simples des logiciels sur site dans le programme CSP signifie la prévisibilité des coûts et un processus de vente rationalisé pour vous. Ce nouveau modèle d’entreprise facilite l’approvisionnement, la gestion et le prix des logiciels locaux pour vos clients, ce qui vous permet de vous concentrer sur les activités gagnantes grâce à un portefeuille étendu de solutions à valeur ajoutée de la gestion informatique. 
-
->[!NOTE]
->Les logiciels sur site sont actuellement disponibles pour les partenaires limités. Pour savoir si vous êtes éligible, consultez votre contact Microsoft. 
-
+Tout en garantissant la meilleure valeur globale du client avec les options de licences logicielles locales, nous avons également rendu le modèle d’entreprise aussi convivial que possible. La gestion des licences directes des logiciels locaux dans CSP signifie la prévisibilité des coûts et un processus de vente rationalisé pour vous. Ce nouveau modèle d’entreprise facilite l’approvisionnement, la gestion et le prix des logiciels locaux pour vos clients, ce qui vous permet de vous concentrer sur les activités gagnantes grâce à un portefeuille étendu de solutions de gestion informatique à valeur ajoutée.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Acheter des abonnements logiciels pour le compte de clients
 
@@ -37,18 +33,16 @@ Pour acheter des abonnements logiciels au nom d’un client, accédez à la page
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
-Une fois que vous avez acheté votre logiciel, vos clients doivent le télécharger. Pour ce faire, utilisez la procédure suivante.
+Une fois que vous avez acheté votre logiciel, vous ou vos clients devez le télécharger. Pour ce faire, utilisez la procédure suivante.
 
 >[!NOTE]
 >Vous devez être Agent d’administration pour obtenir le lien vers les clés et les téléchargements.
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
-2. Copiez le « lien ciblé » depuis **Lien vers les clés et les téléchargements de produits logiciels** et partagez le lien avec votre client. Quand ils sélectionnent ce lien, ils sont redirigés vers le Centre d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
+2. Suivez les instructions du [Guide des opérations du partenaire](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) pour terminer l’exécution de votre achat de logiciel pour le compte du client.
 
 >[!NOTE]
 >Seuls les clients peuvent voir les clés de produit et télécharger des informations dans le Centre d’administration Microsoft. Les partenaires ne peuvent pas voir ces informations.
-
-Si vous ou vos clients voulez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger les clés de licence de produit et de logiciel](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 
