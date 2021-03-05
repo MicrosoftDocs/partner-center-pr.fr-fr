@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756145"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029931"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-|**Catégorie**|**Annonces de février 2021**|**Annoncé**|
+|**Catégorie**|**Annonces de mars 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Fonctionnalités|[Microsoft Universal Print est maintenant disponible dans certaines suites](2021-march.md#1)|3 mars|
+|**Catégorie**|**Annonces de février 2021**|**Annoncé**|
 |Fonctionnalités|[Mise hors service des API de qualification PUT, GET prévu en mai](2021-february.md#14)|25 février|
 |Fonctionnalités|[Partage des transactions de covente à grande échelle avec la fonctionnalité d’opérations en bloc de l’Espace partenaires](2021-february.md#13)|25 février|
 |Fonctionnalités|[Migration de vos transactions depuis Partner Sales Connect (PSC) avec la nouvelle fonctionnalité de migration des transactions](2021-february.md#12)|25 février|
