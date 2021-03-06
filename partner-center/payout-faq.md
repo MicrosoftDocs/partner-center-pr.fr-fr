@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924914"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247657"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questions courantes sur les paiements et les taxes
 
@@ -63,7 +63,14 @@ Il incombe à l’entreprise de s’assurer que le rôle d’administrateur d’
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mon profil fiscal a expiré. Comment la corriger ?
 
-Utilisez les étapes de la section [créer ou mettre à jour votre profil fiscal](set-up-your-payout-account.md#create-or-update-your-tax-profile) pour mettre à jour votre profil fiscal. Sur la page **Profil fiscal** , vous pouvez voir les profils qui ont expiré ou qui arrivent à expiration dans la colonne **Date d’expiration** . 
+Si un profil fiscal est arrivé à expiration ou sur le lieu d’expirer, cela signifie que le formulaire d’imposition que vous avez fourni à Microsoft doit être mis à jour. Pour mettre à jour votre profil fiscal, procédez comme suit :
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home)de l’espace partenaires, puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** .
+2. Sélectionnez **paramètres du compte**, développez la section **paiement et taxes** , puis sélectionnez **paiement et profil fiscal** .
+3. Sélectionner un profil **fiscal**
+4. Vérifiez la **Date d’expiration** de la colonne, puis accédez au profil fiscal qui a expiré ou qui arrive à expiration.
+5. Sélectionnez **modifier** pour lancer le processus de modification du profil fiscal.
+6. Dans la section formulaire fiscal, fournissez les informations mises à jour.
 
 ## <a name="earnings-incorrect-or-missing"></a>Résultats incorrects ou manquants
 

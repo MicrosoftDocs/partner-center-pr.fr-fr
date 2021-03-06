@@ -1,7 +1,7 @@
 ---
 title: Taxes régionales et exonérations fiscales
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: Pour les partenaires du programme CSP, Découvrez les responsabilités fiscales par région, comment envoyer des exemptions de taxe pour les ventes de fournisseurs de solutions et comment obtenir un support technique pour les questions fiscales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755586"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247677"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays pour les partenaires dans le programme CSP
 
-S’applique à :
-
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
 
 Le programme fournisseur de solutions Cloud (CSP) est un canal de vente axé sur la revente des produits partenaires. Par conséquent, Microsoft n’est pas toujours obligé de facturer les taxes sur les factures des partenaires. Les règles varient en fonction du pays et/ou de la région. Vous pouvez consulter [les détails spécifiques au pays et à la région pour les exemptions de taxe](#country-and-region-tax-details).
 
@@ -33,7 +29,6 @@ Des informations spécifiques relatives aux taxes sont disponibles pour le Canad
 
 Si vous êtes dans un autre pays ou région dont les taxes sont facturées, consultez [les informations relatives aux autres régions](#other-regions).
 
-Pour obtenir des questions supplémentaires, [demandez de l’aide dans l’espace partenaires](#support).
 
 ### <a name="canada"></a>Canada
 
