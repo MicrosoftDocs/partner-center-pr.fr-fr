@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185279"
+ms.locfileid: "102220271"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,8 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 |**Catégorie**|**Annonces de mars 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Fonctions|[Téléchargement de logiciel et de clé de licence logicielle dans l’Espace partenaires](2021-march.md#4)|5 mars|
+|Fonctions|[Migrer vos transactions de Partner Sales Connect (PSC) vers l’Espace partenaires](2021-march.md#3)|5 mars|
 |Fonctions|[Nouveaux produits et offres Microsoft Dynamics 365 disponibles le 1er avril 2021](2021-march.md#2)|4 mars|
 |Fonctions|[Microsoft Universal Print est maintenant disponible dans certaines suites](2021-march.md#1)|3 mars|
 |**Catégorie**|**Annonces de février 2021**|**Annoncé**|
