@@ -1,7 +1,7 @@
 ---
 title: Vendre des logiciels locaux par le biais de CSP
 ms.topic: how-to
-ms.date: 03/04/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent acheter, gérer, vendre et annuler des abonnements logiciels locaux pour le compte de clients dans l’espace partenaires.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220242"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475208"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Vendre des logiciels locaux par le biais du programme fournisseur de solutions Cloud (CSP)
 
@@ -33,20 +33,29 @@ Pour acheter des abonnements logiciels au nom d’un client, accédez à la page
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
-Une fois que vous avez acheté votre logiciel, vous ou vos clients devez le télécharger. Pour ce faire, utilisez la procédure suivante.
+Une fois que vous avez acheté votre logiciel, vous ou vos clients devez le télécharger (partenaires à l’aide de l’espace partenaires, clients utilisant le centre d’administration Microsoft 365). Pour ce faire, utilisez la procédure suivante. Il est important de comprendre les risques associés à la copie de liens et au téléchargement de logiciels. Pour plus d’informations, consultez Utilisation de l' **espace partenaires pour obtenir des téléchargements de logiciels clients et des clés de licence** dans le [nouveau guide des opérations de l’espace partenaires](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Vous devez être Agent d’administration pour obtenir le lien vers les clés et les téléchargements.
+>Vous devez être un agent administrateur dans l’espace partenaires pour obtenir le lien vers les clés et les téléchargements.
 
-1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
-2. Suivez les instructions du [Guide des opérations du partenaire](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) pour terminer l’exécution de votre achat de logiciel pour le compte du client.
+1. Accédez à la page de détails de votre client, puis sélectionnez **logiciel**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
+
+2. Choisissez **version** du produit, **langue**, **bit**, puis sélectionnez **afficher les clés et les téléchargements**. 
+
+3. Choisissez **obtenir une clé** pour afficher le produit à 32 chiffres dans une boîte de dialogue contextuelle que vous pouvez copier et envoyer au client. 
+
+4. Choisissez **Télécharger** pour télécharger le service bits. 
+
+5. Choisissez **copier le lien** si vous souhaitez envoyer au client le lien vers le téléchargement bits. 
+
+6. Vous pouvez également **Annuler** la commande du logiciel et recevoir un crédit de 100% (le cas échéant dans la période de la stratégie d’annulation de 60 jours).
 
 >[!NOTE]
->Seuls les clients peuvent voir les clés de produit et télécharger des informations dans le Centre d’administration Microsoft. Les partenaires ne peuvent pas voir ces informations.
+>Seuls les clients ont accès pour voir les clés de produit et télécharger des informations dans le centre d’administration Microsoft 365 (rôle d’administrateur général requis). Les partenaires doivent utiliser l’espace partenaires pour voir ces informations.
 
 ## <a name="cancel-a-purchase"></a>Annuler un achat
 
-Utilisez la procédure suivante pour annuler un achat. Une fois l’annulation terminée, la clé du logiciel est révoquée. 
+Utilisez la procédure suivante pour annuler un achat. Une fois l’annulation terminée, la clé du logiciel est révoquée.
 
 >[!NOTE]
 >Vous devez être Agent d’administration pour pouvoir annuler un achat. 
