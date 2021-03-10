@@ -8,12 +8,12 @@ description: Synchronisez les références dans l’espace partenaires avec votr
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756790"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532039"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -104,7 +104,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
      
       7. Une fois que toutes les connexions ont été ajoutées, vous devez voir les connexions suivantes dans votre environnement :
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Connexions":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Connexions":::
    
 ## <a name="edit-the-connections"></a>Modifier les connexions
 
@@ -141,7 +141,7 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 3. Sélectionnez l’icône de **copie** pour copier l’URL http postale fournie.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Utiliser des webhooks pour enregistrer des modifications de ressources":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Utiliser des webhooks pour enregistrer des modifications de ressources":::
 
 4. Sélectionnez le Flow « inscription du webhook de l’espace partenaires (version préliminaire d’Insider) », puis sélectionnez **exécuter**.
 
@@ -205,7 +205,7 @@ Pour mettre à jour une valeur de variable d’environnement :
 
 3. Mettez à jour la **valeur actuelle** (ne pas mettre à jour la valeur par défaut) à l’aide de l’option **nouvelle valeur** et fournissez la valeur. La valeur doit correspondre au type de données de la variable pour, par exemple, le type de données yes/no accepte la valeur Yes ou no.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Mettre à jour les variables d’environnement":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Mettre à jour les variables d’environnement":::
 
 - Synchronisation bidirectionnelle de la direction de la co-vente de bout en bout
 
