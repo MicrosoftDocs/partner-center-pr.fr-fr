@@ -1,7 +1,7 @@
 ---
 title: Vendre des abonnements logiciels par le biais de CSP (fournisseur de solutions Cloud)
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les partenaires du programme CSP peuvent utiliser l’Espace partenaires pour acheter, gérer, vendre et annuler des instances réservées Azure et des abonnements Server pour les clients.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834854"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475192"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
 
@@ -92,18 +92,25 @@ Pour acheter des abonnements logiciels pour le compte d’un client :
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activer et gérer des abonnements logiciels
 
-Une fois que vous avez acheté votre logiciel, vos clients doivent le télécharger. Pour ce faire, utilisez la procédure suivante.
+Une fois que vous avez acheté votre logiciel, vous ou vos clients devez le télécharger (les partenaires via l’Espace partenaires, les clients via le Centre d’administration Microsoft 365). Pour ce faire, utilisez la procédure suivante. Il est important de comprendre les risques associés à la copie de liens et au téléchargement de logiciels. Pour plus d’informations, consultez **Utilisation de l’Espace partenaires pour obtenir des téléchargements de logiciels et des clés de licence pour les clients** dans le [Nouveau guide des opérations commerciales de l’Espace partenaires](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Vous devez être Agent d’administration pour obtenir le lien vers les clés et les téléchargements.
+>Vous devez être Agent d’administration dans l’Espace partenaires pour obtenir le lien vers les clés et les téléchargements.
 
 1. Accédez à la page des détails de votre client, puis sélectionnez **Logiciels**. La liste de tous les logiciels que vous avez achetés pour le compte du client s’affiche alors.
-2. Copiez le « lien ciblé » depuis **Lien vers les clés et les téléchargements de produits logiciels** et partagez le lien avec votre client. Quand ils sélectionnent ce lien, ils sont redirigés vers le Centre d’administration Microsoft pour télécharger et obtenir leurs clés de produit.
+
+2. Choisissez la **version**, la **langue** et l’**architecture 32 ou 64 bits** du produit, puis sélectionnez **Obtenir les clés et les téléchargements**. 
+
+3. Choisissez **Obtenir une clé** pour afficher la clé du produit de 32 chiffres dans une boîte de dialogue contextuelle, que vous pouvez copier et envoyer au client. 
+
+4. Choisissez **Télécharger** pour télécharger le fichier binaire. 
+
+5. Choisissez **Copier le lien** si vous voulez envoyer au client le lien vers le téléchargement du fichier binaire. 
+
+6. Vous pouvez également **Annuler** la commande du logiciel et recevoir un crédit de 100 % (si vous le faites dans la période correspondant à la stratégie d’annulation de 60 jours).
 
 >[!NOTE]
->Seuls les clients peuvent voir les clés de produit et télécharger des informations dans le Centre d’administration Microsoft. Les partenaires ne peuvent pas voir ces informations.
-
-Si vous ou vos clients voulez en savoir plus sur le téléchargement des clés de licence, consultez [Télécharger les clés de licence de produit et de logiciel](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+>Seuls les clients disposent d’un accès permettant de voir les clés de produit et les informations de téléchargement dans le Centre d’administration Microsoft 365 (rôle d’administrateur général nécessaire). Les partenaires doivent utiliser l’Espace partenaires pour voir ces informations.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Téléchargement et clés de licence de l’abonnement serveur disponibles via le Centre d’administration Microsoft 365 pour les clients 
 

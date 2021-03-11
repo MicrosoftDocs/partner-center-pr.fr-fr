@@ -1,7 +1,7 @@
 ---
 title: Vue d’ensemble de la co-op marketing et des réclamations
 ms.topic: article
-ms.date: 10/29/2020
+ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Découvrez comment soumettre une demande de remboursement réussie pour vos incentives en organisant la documentation, les factures, les déclarations et les preuves d’exécution appropriées.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354506"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022704"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Bénéficier de fonds marketing coopératifs
 
@@ -54,10 +54,10 @@ Le tableau ci-dessous présente les différentes périodes de gains, d’utilisa
 
 |  Si votre période de bénéfices/accumulations est  |La période de la demi-année fiscale est  |  La période d’utilisation est  |  Votre période de revendication est  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Juillet-Dec 2020**| FY20 H1  |  Du 1er au 2021 juin  |  16 février-août 15 2021  |
-|**Du 1er au 2021 juin** |  FY20 H2  |  Juillet-Dec 2021  |  Août 16 2021-février 15 2022  |
-|**Juillet-Dec 2021**|  FY21 H1  |  Du 1er au 2022 juin  |  16 février-août 15 2022  |
-|**Du 1er au 2022 juin** |  FY21 H2  |  Juillet-Dec 2022  |  Août 16 2022-février 15 2023  |
+|**Juillet-Dec 2020**| FY21 H1  |  Du 1er au 2021 juin  |  16 février-août 15 2021  |
+|**Du 1er au 2021 juin** |  FY21 H2  |  Juillet-Dec 2021  |  Août 16 2021-février 15 2022  |
+|**Juillet-Dec 2021**|  FY22 H1  |  Du 1er au 2022 juin  |  16 février-août 15 2022  |
+|**Du 1er au 2022 juin** |  FY22 H2  |  Juillet-Dec 2022  |  Août 16 2022-février 15 2023  |
 
 >[!NOTE]
 >Microsoft se réserve le droit de demander des documents de preuve d’exécution (PoE) originaux. Vous devez conserver tous vos documents d’origine pendant 24 mois après la date de l’activité.

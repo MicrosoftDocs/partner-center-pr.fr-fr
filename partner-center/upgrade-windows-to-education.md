@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755824"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022738"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Mettre à niveau certains clients de formation de Windows 10 famille vers Windows 10 éducation
 
 **Rôles appropriés**
 
 - Agent d’administration
-- Agent du support technique
+- Administrateur de la facturation
 
 ## <a name="overview"></a>Vue d’ensemble
 
@@ -57,8 +57,8 @@ Les partenaires doivent créer une demande de support et obtenir des clés de la
 
 - **Titre :** Clé de produit Windows 10 famille à Windows 10 éducation Upgrade
 - **Description :** Demande de clés [Insert number] pour activer la mise à niveau vers Windows 10 Education. (Notez que le nombre de clés demandé ne doit pas être supérieur à votre Microsoft 365 de licences d’abonnement a3/a5 ou Windows 10 entreprise a3/a5.) ID d’abonnement du client [Insert Customers ID d’abonnement GUID pour son Microsoft 365 a3/a5 ou un abonnement Windows 10 entreprise a3/a5.]
-- **Numéro de contact :** Celui-ci sera prérempli. Passez en revue pour confirmer ou mettre à jour.
-- **Adresse de messagerie :** Celui-ci est prérempli et doit être celui que vous utilisez en tant qu’administrateur du portail Microsoft (administrateur général ou administrateur de facturation uniquement).
+- **Numéro de contact :** Ce sera pré-rempli ; Passez en revue pour confirmer ou mettre à jour.
+- **Adresse de messagerie :** Celui-ci sera pré-rempli et doit être l’adresse de messagerie que vous utilisez en tant qu’administrateur du portail Microsoft (administrateur général ou administrateur de facturation uniquement).
 - **Méthode de contact préférée**: choisissez un **téléphone** ou **planifiez un rappel**.
 
 8. Sélectionnez **me contacter**. Le délai d’attente attendu est indiqué dans le volet **besoin d’aide ?** .
@@ -92,8 +92,9 @@ Les clients de l’éducation doivent envisager des appareils Windows 10 éducat
 **Existe-t-il un délai pour contacter le support technique et recevoir la clé de mise à niveau ?**
 La mise à niveau de l’éducation Windows 10 est basée sur les abonnements de licence active Microsoft 365 a3/a5 ou Windows 10 entreprise a3/a5 du client. Si le client ne procède pas à l’extension ou au renouvellement de l’abonnement, l’éligibilité à la mise à niveau se termine également.
 
+## <a name="next-steps"></a>Étapes suivantes
+
 **Où les partenaires peuvent-ils en savoir plus sur Windows 10 éducation ?**
-Pour en savoir plus, consultez les liens suivants :
 
 - [Fonctionnalités de Windows graphique](https://www.microsoft.com/education/products/windows/features)
 - [Hub de formation Windows](/education/windows/)

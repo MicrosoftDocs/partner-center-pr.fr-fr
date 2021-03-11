@@ -1,19 +1,19 @@
 ---
 title: Connecteur de la co-vente pour Dynamics 365 CRM Partner Center
+description: Synchronisez les références dans l’espace partenaires avec votre connecteur de co-vente pour Dynamics 365 CRM. Les vendeurs peuvent ensuite se vendre avec Microsoft à partir de vos systèmes CRM.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synchronisez les références dans l’espace partenaires avec votre connecteur de co-vente pour Dynamics 365 CRM. Les vendeurs peuvent ensuite se vendre avec Microsoft à partir de vos systèmes CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532039"
+ms.locfileid: "102619407"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble
 
@@ -88,7 +88,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
    - L’administrateur CRM avec les flux Power automate dans la solution.
 
-      1. Sélectionnez **connexions** dans la barre de navigation de gauche et sélectionnez la solution « références de l’espace partenaires » dans la liste.
+      1. Sélectionnez **connexions** dans la barre de navigation de gauche, puis sélectionnez la solution références de l' **espace partenaires** dans la liste.
 
       2. Créez une connexion en cliquant sur **créer une connexion**.
 
@@ -110,11 +110,11 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 1. Revenez à la page **solutions** et sélectionnez **solution par défaut**. Sélectionnez **référence de connexion (version préliminaire)** en cliquant sur **tout**.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="Modification des connexions":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Modification des connexions":::
 
 2. Modifiez chacune des connexions une par une en sélectionnant l’icône à trois points. Ajoutez les connexions appropriées.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Connexions listées"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Connexions listées"::: 
 
 3.  Revenez à la page solutions, sélectionnez la synchronisation des références de l’espace partenaires pour Dynamics 365 et activez le Flow en cliquant sur l’icône à trois points en regard de chaque Flow dans l’ordre suivant. Si vous rencontrez des problèmes lors de l’activation du workflow, reportez-vous aux [étapes de personnalisation](connector-dynamics.md#customize-synchronization-steps) et aux [étapes de dépannage](connectors-troubleshoot.md). 
 
@@ -171,19 +171,19 @@ Les personnalisations disponibles sont les suivantes :
 
 - Valeur de la transaction : par défaut, la valeur de transaction de l’espace partenaires sera synchronisée vers et à partir de **estimatedvalue** dans CRM. Si vous avez un champ différent dans CRM pour la synchronisation de la valeur de transaction :
 
-    a.    Mettez à jour le nom du champ de valeur de contrat dans la variable d’environnement Dynamics 365 avec le nom de champ de CRM. Notez que vous devez fournir le nom du champ comme nom d’affichage.
+  a. Mettez à jour le nom du champ de valeur de contrat dans la variable d’environnement Dynamics 365 avec le nom de champ de CRM. Notez que vous devez fournir le nom du champ comme nom d’affichage.
 
-    b.    Modifiez **[personnaliser] créer ou obtenir des détails à partir de Dynamics 365 Flow**  et accédez à **créer ou mettre à jour** une opportunité dans CRM et à mettre à jour **créer une nouvelle opportunité** et mettre à jour des actions d' **opportunité existantes** pour affecter la valeur **DealValue** au champ approprié dans CRM. En outre, supprimez l' **affectation DealValue** du champ **revenu estimé** .
+  b. Modifiez **[personnaliser] créer ou obtenir des détails à partir de Dynamics 365 Flow**  et accédez à **créer ou mettre à jour** une opportunité dans CRM et à mettre à jour **créer une nouvelle opportunité** et mettre à jour des actions d' **opportunité existantes** pour affecter la valeur **DealValue** au champ approprié dans CRM. En outre, supprimez l' **affectation DealValue** du champ **revenu estimé** .
 
 - Code du pays du compte client : il est obligatoire de fournir un code de pays à deux lettres (ISO 3166) lors de la création d’une nouvelle référence. Par défaut, l’indicatif du pays sera synchronisé à partir du champ address1_country du compte dans CRM. Si vous avez un champ différent dans CRM pour le code de pays à synchroniser :
 
-   a.    Pour un champ de code de pays non-recherche dans le compte qui contient le code à deux lettres :
+   a. Pour un champ de code de pays non-recherche dans le compte qui contient le code à deux lettres :
 
    - Mettez à jour le nom du champ de code du pays du compte client dans la variable d’environnement Dynamics 365 avec le nom de champ de CRM. Notez que vous devez fournir le nom du champ comme nom d’affichage.
 
    - Modifiez **[personnaliser] créez ou récupérez des détails à partir de Dynamics 365 Flow**  , puis accédez à créer ou à accéder à un compte client dans une action CRM pour affecter la valeur de pays au champ approprié dans CRM. En outre, supprimez l’affectation de valeur de pays du champ adresse 1 : pays/région.
 
-   b.    Pour un champ Code de pays basé sur la recherche dans compte :
+   b. Pour un champ Code de pays basé sur la recherche dans compte :
 
    - Ajoutez un nouveau champ personnalisé dans compte et remplissez-le automatiquement avec un code de pays à deux lettres (ISO 3166) en fonction de la valeur sélectionnée dans champ de recherche et vice versa.
 
@@ -205,7 +205,7 @@ Pour mettre à jour une valeur de variable d’environnement :
 
 3. Mettez à jour la **valeur actuelle** (ne pas mettre à jour la valeur par défaut) à l’aide de l’option **nouvelle valeur** et fournissez la valeur. La valeur doit correspondre au type de données de la variable pour, par exemple, le type de données yes/no accepte la valeur Yes ou no.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Mettre à jour les variables d’environnement":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Mettre à jour les variables d’environnement":::
 
 - Synchronisation bidirectionnelle de la direction de la co-vente de bout en bout
 
@@ -242,13 +242,11 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - Après avoir ajouté des solutions Microsoft, vous pouvez préremplir les détails des solutions de covente pour que vos vendeurs n’aient pas à les ajouter. Pour ajouter un nouveau détail de solution, accédez à l’objet détails de la solution Microsoft dans CRM, puis cliquez sur **Ajouter un enregistrement** pour ajouter une entrée ou utiliser le **Téléchargement Excel** pour ajouter plusieurs entrées.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Détails de la solution":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Détails de la solution":::
 
-### <a name="scenarios"></a>SCÉNARIO
+### <a name="scenarios"></a>Scénarios :
 
 1. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans CRM et synchronisée dans l’espace partenaires :
 
@@ -265,6 +263,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
          :::image type="content" source="images/dynamic-3a.png" alt-text="Comment obtenir les champs appropriés dans la vue carte":::
 
       - **Contact client**: pour créer une référence de covente, ajoutez un contact client à l’opportunité.
+
       - **Synchroniser avec l’espace partenaires**: Oui
 
       - Solutions Microsoft : pour partager une référence avec Microsoft, ajoutez une solution de covente prête ou Microsoft à vos opportunités.

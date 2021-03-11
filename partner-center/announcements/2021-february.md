@@ -6,19 +6,211 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom:
+- announcement
+- references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540996"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124786"
 ---
 # <a name="february-2021-announcements"></a>Annonces de février 2021
 
 Cette page détaille les annonces concernant l’Espace partenaires pour février 2021.
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Les API de qualification PUT sont mise hors service, GET sera mis hors service en mai
+
+### <a name="categories"></a>Catégories
+
+- Date : 25 février 2021
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires proposant des offres Éducation, Sans but lucratif et Cloud de la communauté du secteur public via le programme Fournisseur de solutions Cloud avec l’API Espace partenaires
+
+### <a name="details"></a>Détails
+
+Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](2020-december.md#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, **les API existantes pour les qualifications PUT ont été mises hors service et la qualification GET le sera le 4 mai 2021**. Une fois que ce sera effectif, vous devrez passer à l’utilisation des nouvelles API POST de l’Espace partenaires pour acheter des offres Éducation. De même, vous devrez utiliser la nouvelle API pour les qualifications GET pour acheter des offres préqualifiées pour les organisations sans but lucratif et Cloud de la communauté du secteur public (GCC).
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Pour garantir une transition réussie et dans les temps, **faites la mise à jour vers les nouvelles API**.
+- **Passez en revue les nouveaux changements de l’API Espace partenaires et le guide correspondant** dans les ressources de préparation opérationnelle : [Améliorations du processus de validation des clients Éducation dans l’Espace partenaires](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Partagez ces informations avec les équipes appropriées** au sein de votre organisation et avec vos revendeurs pour les aider à anticiper ces changements.
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Pour toute question relative à cette notification, contactez l’[Assistance de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Journal des modifications
+
+- Février : Plannings mis à jour pour la dépréciation des qualifications GET et PUT
+- Janvier : Rappel des dépréciations à venir des qualifications GET et PUT
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Partager des transactions de co-vente à grande échelle avec la fonctionnalité d’opérations en bloc de l’Espace partenaires
+
+### <a name="categories"></a>Catégories
+
+- Date : 25/02/2021
+- Amélioration de la sécurité et de la conformité
+
+### <a name="impacted-audience"></a>Public concerné
+
+Co-vente des partenaires dans l’Espace partenaires
+
+### <a name="summary"></a>Résumé
+
+Les partenaires de co-vente peuvent désormais exporter et importer des opportunités à grande échelle en utilisant la nouvelle fonctionnalité d’opérations en bloc avec fichier CSV de l’Espace partenaires.
+
+### <a name="details"></a>Détails
+
+Les partenaires de co-vente peuvent désormais exporter et importer des opportunités à grande échelle en utilisant la nouvelle fonctionnalité d’opérations en bloc avec fichier CSV de l’Espace partenaires. Ceci va unifier votre expérience de partage des références et garantir la continuité des activités lors de la migration depuis Partner Sales Connect. Il s’agit également d’une alternative aux investissements dans l’API de l’Espace partenaires.
+
+Pour plus d’informations, consultez l’article mentionné dans la section suivante. 
+
+### <a name="next-steps"></a>Étapes suivantes
+
+En savoir plus sur la capacité des opérations en bloc en lisant [Opérations en bloc pour les opportunités de co-vente en utilisant un fichier de valeurs séparées par des virgules (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Contactez le [support](https://partner.microsoft.com/support/?stage=1) pour toute autre question.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a> Migration de vos transactions depuis Partner Sales Connect (PSC) avec la nouvelle fonctionnalité de migration des transactions
+
+### <a name="categories"></a>Catégories
+
+- Date : 25/02/2021
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires avec des transactions dans PSC
+
+### <a name="summary"></a>Résumé
+
+Les partenaires avec des transactions Partner Sales Connect (PSC) peuvent tirer parti de la nouvelle expérience de co-vente au sein de l’Espace partenaires en migrant leurs transactions de co-vente via la fonctionnalité de migration des transactions.
+
+### <a name="details"></a>Détails
+
+Les partenaires ayant des transactions dans PSC peuvent désormais migrer plus rapidement pour tirer parti de la nouvelle expérience de co-vente dans l’Espace partenaires et éliminer le travail à fournir sur deux plateformes en migrant leurs transactions de co-vente vers l’Espace partenaires en utilisant la fonctionnalité de migration des transactions.
+
+Pour plus d’informations, consultez l’article mentionné dans la section suivante.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Pour plus d’informations sur la fonctionnalité de migration des transactions, consultez la section **Migration des transactions PSC** dans le [Guide de la co-vente dans l’Espace partenaires pour les partenaires qui migrent depuis Partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Contactez le [support](https://partner.microsoft.com/support/?stage=1) pour toute autre question.
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>Plus grande flexibilité avec les transactions de co-vente menées par des partenaires
+
+### <a name="categories"></a>Catégories
+
+- Date : 25/02/2021
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires avec des solutions prêtes pour la co-vente
+
+### <a name="summary"></a>Résumé
+
+Les partenaires peuvent désormais inviter des revendeurs Microsoft après avoir créé une transaction de co-vente pilotée par un partenaire pour en faire une activité de vente collaborative.
+
+### <a name="details"></a>Détails
+
+Les partenaires ont désormais l’option d’inviter des revendeurs Microsoft après avoir créé une transaction de co-vente pilotée par un partenaire pour en faire une activité de vente collaborative. Les détails de la transaction ne sont pas partagés avec l’équipe commerciale Microsoft tant que le partenaire ne demande pas explicitement l’aide du revendeur Microsoft. Ce scénario est également éligible aux incentives des revendeurs Microsoft.
+
+Notez que les transactions de co-vente pilotées par les partenaires peuvent être mises à niveau à tout moment avant la conclusion de la transaction.
+
+Pour plus d’informations, consultez l’article mentionné dans la section suivante.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Pour plus d’informations, consultez notre guide sur la [gestion des opportunités de co-vente dans l’Espace partenaires](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Contactez le [support](https://partner.microsoft.com/support/?stage=1) pour toute autre question.
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> Changements dans les conditions d’intégration des clients CSP (Cloud Solution Provider)
+
+### <a name="categories"></a>Catégories
+
+- Date : 25/02/2021
+- Amélioration de la sécurité et de la conformité
+
+### <a name="impacted-audience"></a>Public concerné
+
+Fournisseurs indirects et partenaires à facturation directe CSP qui ont des clients nouveaux ou existants dans les pays listés dans la section suivante.
+
+### <a name="summary"></a>Résumé
+
+Dans le cadre de notre engagement à aider les partenaires et les clients à exercer leur activité en toute confiance, nous demanderons des informations supplémentaires sur les clients, à compter du 25 mars 2021.
+
+### <a name="details"></a>Détails
+
+Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des clients conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme Fournisseur de solutions Cloud. Le 25 mars 2021, nous présenterons des améliorations de l’interface utilisateur et de l’API de l’Espace partenaires qui affecteront les partenaires répondant aux deux critères suivants :
+
+1. Le partenaire a une relation de facturation directe avec Microsoft (ce qui signifie que le partenaire est un partenaire à facturation directe ou un fournisseur indirect).
+2. Le partenaire fait affaire avec des clients nouveaux ou déjà existants dans les pays suivants :
+    - Thaïlande
+    - Vietnam
+    - Turquie
+    - Pologne
+    - Afrique du Sud
+    - Inde
+    - Brésil
+    - Irak
+    - Myanmar
+    - Soudan du Sud
+    - Arabie saoudite
+    - Émirats arabes unis
+    - Venezuela
+
+Les partenaires qui satisfont aux critères devront soumettre l’**identificateur légal** (également connu sous le nom de **code INN d’organisation** du client) et le **numéro de téléphone** lors de l’intégration de nouveaux clients ou de la modification des informations détaillées d’un client existant. Ces partenaires peuvent également entrer un **deuxième prénom** facultatif pour le client.
+
+Les partenaires qui travaillent avec des clients nouveaux ou existants dans les pays suivants ont déjà été intégrés à une version précédente en novembre 2020.
+
+- Arménie
+- Azerbaïdjan
+- Bélarus
+- Hongrie
+- Kazakhstan
+- Kirghizistan
+- Moldova
+- Russie
+- Tadjikistan
+- Ukraine
+- Ouzbékistan
+
+Les partenaires ayant des clients dans le reste du monde auront la possibilité le 25 mars 2021 d’entrer l’**identificateur légal**, le **numéro de téléphone** et le **deuxième prénom** pour les clients, au titre d’informations facultatives.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Pour obtenir des instructions plus détaillées, consultez la documentation technique et les questions fréquemment posées dans le [groupe de partenaires](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dédié (connexion nécessaire).
+- Préparez l’intégration des modifications à l’aide de l’API Espace partenaires et de l’expérience utilisateur web. L’API et les SDK seront disponibles à des fins de test.
+- Veillez à soumettre les données supplémentaires lors de l’intégration de nouveaux clients ou de la modification des détails de clients existants.
+- Si vous utilisez une solution de fournisseur de panneau de contrôle (CPV), consultez le fournisseur concerné.
+
+### <a name="questions"></a>Des questions ?
+
+Si vous avez des questions liées à l’identificateur légal (également appelé code INN ou TIN), contactez votre conseiller fiscal ou le service des impôts local. Microsoft ne peut pas fournir d’aide sur les questions fiscales.
+
+Si vous avez besoin de support pour vos opérations avec Microsoft, [ouvrez une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (connexion nécessaire).
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a>Disponible dès maintenant : Migration de DocuSign vers Adobe Sign pour les partenaires sous contrat Partenaire Microsoft (MPA)
@@ -245,7 +437,7 @@ Les évaluations Premium sont un module complémentaire facultatif du Gestionnai
 Passez en revue les ressources suivantes sur ce sujet et partagez les informations avec les parties prenantes appropriées au sein de votre organisation.   
 
 - [Sécurité et conformité de Microsoft 365 E5](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [Créer et gérer des évaluations dans le Gestionnaire de conformité Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [Créer et gérer des évaluations dans le Gestionnaire de conformité Microsoft](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -285,23 +477,23 @@ Voici les nouveautés du module Références de l’Espace partenaires :
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Tous les partenaires utilisant le module Références dans l’Espace partenaires  
 
-- [Créez des connexions SMB](https://docs.microsoft.com/partner-center/connect-with-your-customers) : Co-vendez et collaborez avec des vendeurs Microsoft pour obtenir des opportunités entrantes liées aux clients SMB.
+- [Créez des connexions SMB](../connect-with-your-customers.md) : Co-vendez et collaborez avec des vendeurs Microsoft pour obtenir des opportunités entrantes liées aux clients SMB.
 
-- [Développez des autorisations de référence](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) : Affectez des autorisations de référence des utilisateurs selon que vous voulez qu’ils aient des autorisations d’administrateur (accès à toutes les opportunités de co-vente) ou des autorisations d’utilisateur (accès aux opportunités de co-vente spécifiques de l’utilisateur).
+- [Développez des autorisations de référence](../permissions-overview.md#manage-referrals) : Affectez des autorisations de référence des utilisateurs selon que vous voulez qu’ils aient des autorisations d’administrateur (accès à toutes les opportunités de co-vente) ou des autorisations d’utilisateur (accès aux opportunités de co-vente spécifiques de l’utilisateur).
 
-- [Migration des utilisateurs de Partner Sales Connect](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration) : Mappez les autorisations des utilisateurs de Partner Sales Connect existants aux autorisations correspondantes de l’administrateur et des utilisateurs des références de l’Espace partenaires, puis appliquez en bloc les nouvelles autorisations aux utilisateurs. Pour plus d’informations sur la gestion des références, consultez la [documentation sur les autorisations des références](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals).  
+- [Migration des utilisateurs de Partner Sales Connect](../psc-to-pc.md#user-migration) : Mappez les autorisations des utilisateurs de Partner Sales Connect existants aux autorisations correspondantes de l’administrateur et des utilisateurs des références de l’Espace partenaires, puis appliquez en bloc les nouvelles autorisations aux utilisateurs. Pour plus d’informations sur la gestion des références, consultez la [documentation sur les autorisations des références](../permissions-overview.md#manage-referrals).  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partenaires avec des offres prêtes pour la co-vente
 
-- [Co-vendez avec d’autres partenaires](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities) : Invitez un autre partenaire de notre puissant écosystème de partenaires à co-vendre avec vous pour donner accès à d’autres clients.  
+- [Co-vendez avec d’autres partenaires](../manage-co-sell-opportunities.md) : Invitez un autre partenaire de notre puissant écosystème de partenaires à co-vendre avec vous pour donner accès à d’autres clients.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partenaires ayant une offre commercialisable avec une solution éligible aux incentives Azure dans la Place de marché commerciale
 
-- [Utilisez l’enregistrement automatique des transactions](https://docs.microsoft.com/partner-center/register-deals) : Gagnez du temps et gagnez en exactitude en enregistrant les offres commercialisables de la Place de marché commerciale Azure de Microsoft en utilisant la case à cocher « Cette transaction/contrat a été ou sera traité(e) via la Place de marché Azure ou AppSource. » Si la date de votre transaction est correcte, les informations relatives à l’enregistrement de la transaction seront extraites directement de la Place de marché commerciale de Microsoft.
+- [Utilisez l’enregistrement automatique des transactions](../register-deals.md) : Gagnez du temps et gagnez en exactitude en enregistrant les offres commercialisables de la Place de marché commerciale Azure de Microsoft en utilisant la case à cocher « Cette transaction/contrat a été ou sera traité(e) via la Place de marché Azure ou AppSource. » Si la date de votre transaction est correcte, les informations relatives à l’enregistrement de la transaction seront extraites directement de la Place de marché commerciale de Microsoft.
 
 ### <a name="questions"></a>Vous avez des questions ?
 
-Si vous avez besoin d’aide pour utiliser les nouvelles fonctionnalités, consultez la [section Références](https://docs.microsoft.com/partner-center/referrals) de notre base de connaissances ou nos documents de support technique sur les procédures, disponibles dans notre [Galerie d’expériences de co-vente](https://aka.ms/CoSellExperience) (connexion obligatoire).
+Si vous avez besoin d’aide pour utiliser les nouvelles fonctionnalités, consultez la [section Références](../referrals.md) de notre base de connaissances ou nos documents de support technique sur les procédures, disponibles dans notre [Galerie d’expériences de co-vente](https://aka.ms/CoSellExperience) (connexion obligatoire).
 
 Pour obtenir une assistance, vous pouvez [ouvrir un ticket auprès de notre équipe de support des partenaires](https://partner.microsoft.com/support/?stage=1).
 
@@ -319,7 +511,7 @@ Partenaires proposant des offres Éducation, Sans but lucratif et Cloud de la co
 
 ### <a name="details"></a>Détails
 
-Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, **les API existantes pour les qualifications PUT de l’Espace partenaires seront mises hors service le 25 février 2021 et la qualification GET le sera le 4 mai 2021**. À ces dates, vous devrez utiliser les nouvelles API POST de l’Espace partenaires pour pouvoir acheter des offres Éducation, et la nouvelle API des qualifications GET pour acheter des offres Sans but lucratif et Cloud de la communauté du secteur public préqualifiées.
+Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](./2020-december.md#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, **les API existantes pour les qualifications PUT de l’Espace partenaires seront mises hors service le 25 février 2021 et la qualification GET le sera le 4 mai 2021**. À ces dates, vous devrez utiliser les nouvelles API POST de l’Espace partenaires pour pouvoir acheter des offres Éducation, et la nouvelle API des qualifications GET pour acheter des offres Sans but lucratif et Cloud de la communauté du secteur public préqualifiées.
 
 ### <a name="next-steps"></a>Étapes suivantes
 

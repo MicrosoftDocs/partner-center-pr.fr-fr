@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182543"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756399"
 ---
 # <a name="november-2020-announcements"></a>Annonces de novembre 2020
 
@@ -98,7 +98,7 @@ Nous lançons une nouvelle promotion Office 365 E1 pour les PME. Elle se limite
 Tous les partenaires effectuant des transactions dans le cadre du programme Fournisseur de solutions Cloud sur les marchés participants listés ci-dessus.
 
 ### <a name="details"></a>Détails
-La promotion consiste en une remise de 30 % sur Office 365 E1 pour les fournisseurs de solutions Cloud. Elle sera lancée le 1er décembre 2020 et sera disponible pendant 6 mois, jusqu’au 31 mai 2020. Cette promotion est réservée aux clients qui découvrent le cloud MW et qui ont jusqu’à 500 sièges. Notez qu’elle se limite aux marchés émergents de l’Amérique latine (LATAM), de l’Inde et de l’Asie-Pacifique (APAC) pour encourager leur transition vers le cloud. 
+La promotion consiste en une remise de 30 % sur Office 365 E1 pour les fournisseurs de solutions Cloud. Elle sera lancée le 1er décembre 2020 et sera disponible pendant 6 mois, jusqu’au 31 mai 2021. Cette promotion est réservée aux clients qui découvrent le cloud MW et qui ont jusqu’à 500 sièges. Notez qu’elle se limite aux marchés émergents de l’Amérique latine (LATAM), de l’Inde et de l’Asie-Pacifique (APAC) pour encourager leur transition vers le cloud. 
 
 #### <a name="offer-details"></a>Détails de l'offre
 
@@ -284,7 +284,7 @@ ______________
 ### <a name="categories"></a>Catégories
 
 - Date : 17/11/2020
-- Fonctions
+- Fonctionnalités
 
 ### <a name="summary"></a>Résumé
 

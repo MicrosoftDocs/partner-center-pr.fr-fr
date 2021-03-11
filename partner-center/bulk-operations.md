@@ -1,38 +1,38 @@
 ---
-title: Opérations en bloc via des fichiers Excel dans des références
+title: Exporter et importer en bloc des opportunités de covente via des fichiers Excel/CSV dans des références
+description: Découvrez comment télécharger, créer ou mettre à jour des opportunités de co-vente à l’aide de fichiers Excel (CSV) dans l’espace partenaires
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment télécharger, créer ou mettre à jour des opportunités de co-vente à l’aide de fichiers Excel
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756065"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619390"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Opérations en bloc pour les opportunités de co-vente à l’aide de fichiers de valeurs séparées par des virgules (CSV)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Opérations en bloc pour les opportunités de co-vente à l’aide de fichiers de valeurs séparées par des virgules (CSV)
 
 **Rôles appropriés**
 
 - Administrateur des références
 - Utilisateur Références
 
-Dans l’espace partenaires, les opérations en bloc aideront les données d’exportation et d’importation des opportunités de covente de votre entreprise. Accédez à la page des opportunités de covente pour rechercher les liens importer et exporter en haut à droite de la bannière de titre de page. Les utilisateurs disposant des autorisations **administrateur** et **références utilisateur** peuvent utiliser cette fonctionnalité.
+Les opérations en bloc dans l’espace partenaires permettent à l’entreprise d’exporter et d’importer des données d’opportunités de covente. Accédez à la page des **opportunités de covente** pour rechercher les liens **Importer** et **Exporter** en haut à droite de la bannière de titre de page. Les utilisateurs disposant des autorisations **administrateur** et **références utilisateur** peuvent utiliser cette fonctionnalité.
 
 > [!IMPORTANT]
 > Les actions de création/mise à jour effectuées par le biais d’une importation en bloc ne sont pas réversibles. Soyez prudent lorsque vous modifiez ou créez un grand nombre d’enregistrements. Seul un sous-ensemble de champs peut être modifié après la création d’une transaction. **Aucune action n’est autorisée une fois qu’une transaction atteint un état terminal comme refusé/expiré/gagné/perdu.**
 
-## <a name="exporting-co-sell-opportunities"></a>Exportation des opportunités de covente
+## <a name="export-co-sell-opportunities"></a>Exporter les opportunités de covente
 
-Voici les détails de la fonctionnalité d’exportation
+Les informations suivantes décrivent la fonctionnalité d’exportation :
 
-- Vous pouvez exporter **jusqu’à 5000 enregistrements** en cliquant sur le bouton Exporter.
+- Vous pouvez exporter **jusqu’à 5000 enregistrements** en cliquant sur le bouton **Exporter** .
 - Les contrats téléchargés seront basés sur vos niveaux d’accès. Les administrateurs de référence et les utilisateurs de référence peuvent obtenir des résultats différents en fonction de leur étendue et de leur inclusion en tant que membres de l’équipe dans le cadre des transactions. En savoir plus sur les [autorisations de références](permissions-overview.md#manage-referrals).
 - La fonction d’exportation prend en compte l’onglet actuel dans la page opportunités de covente et les filtres qui ont été appliqués.
 - Un fichier CSV contenant toutes les données basées sur les filtres appliqués sera généré.
@@ -40,7 +40,7 @@ Voici les détails de la fonctionnalité d’exportation
 - Vous n’avez pas besoin d’attendre la fin de l’action de téléchargement. Même si vous accédez à d’autres pages de l’espace partenaires, le fichier est téléchargé dès que la fonction d’exportation est terminée.
 - Vous pouvez réutiliser le fichier téléchargé pour modifier les détails de la transaction et charger pour mettre à jour tous les enregistrements.
 
-## <a name="importing-co-sell-opportunities"></a>Importation des opportunités de covente
+## <a name="import-co-sell-opportunities"></a>Importer des opportunités de covente
 
 - Vous pouvez créer ou mettre à jour un **maximum de 1000 enregistrements** à l’aide de la fonctionnalité d’importation.
 - Vous pouvez créer le modèle à partir de zéro en téléchargeant le modèle à partir de la page importer de l’espace partenaires.
@@ -87,7 +87,7 @@ Devise|Oui|Devise dans laquelle la valeur de transaction est entrée. Vous trouv
 Date de clôture estimée|Oui|Date de clôture estimée de la transaction en fonction des conversations initiales avec le client au format MM/jj/aaaa. <br/> **La date doit être le fuseau horaire UTC. Toutes les dates affichées dans l’interface utilisateur de l’espace partenaires sont basées sur les fuseaux horaires localisés. Il peut y avoir +/-une différence d’un jour dans l’interface utilisateur de l’espace partenaires si vous examinez la référence pour laquelle vous avez fourni la date au fuseau horaire UTC.**|1/30/2020
 ID CRM|Non|Identificateur de cette référence spécifique dans votre système CRM, le cas échéant. Il s’agit d’un champ de saisie de texte de forme libre.|34234324-sdfsdf-345345-SFD
 ID de campagne marketing|Non|Ce champ indique la campagne marketing, qui a abouti à cette référence spécifique. Généralement utilisé pour le calcul du ROI|BingSummer2020
-Notes|Non|Remarques détaillées indiquant les mises à jour liées à la référence|Voici un exemple de note
+Remarques|Non|Remarques détaillées indiquant les mises à jour liées à la référence|Voici un exemple de note
 Aide Microsoft requise ?|Oui|Cela permet d’indiquer si vous souhaitez que Microsoft vous aide à effectuer cette demande de co-vente|Oui
 Quelle aide spécifique de Microsoft ?|Dépend|L’une des six différentes façons dont Microsoft peut vous aider. Cela s’applique uniquement si vous choisissez non pour la question «aide Microsoft requise ? " <br/> **Entrez un nombre en fonction des options ci-dessous** <br/><br/> **1**-proposition de valeur spécifique à la charge de travail  <br/> **2**-architecture technique client  <br/> **3**-preuve de concept/Demo  <br/> **4**-devis et licences  <br/> **5**: succès des clients après la vente  <br/> **6**-général ou autre|1|
 Partager avec l’équipe de vente Microsoft|Oui|Cela permet d’indiquer si vous souhaitez partager les détails du contrat avec l’équipe de vente Microsoft. Cela s’applique uniquement si vous choisissez non pour la question «aide Microsoft requise ? "|Oui
@@ -95,3 +95,10 @@ Remarques à Microsoft|Non|Remarques spécifiques à Microsoft si vous avez beso
 Consentement de partager le contact avec le client et le partenaire|Oui|Le consentement de partager les coordonnées du client et les informations de contact des employés de votre entreprise sont ceux qui travaillent sur la transaction. **Les transactions ne sont pas créées ou mises à jour si vous choisissez non pour cette colonne.** |Oui
 Solution 1|Oui|ID de solution (obligatoire), devise (facultative) dans laquelle la valeur de transaction est entrée. Vous pouvez trouver les codes de devise [ici](https://en.wikipedia.org/wiki/ISO_4217), le prix de la référence (facultatif) et la quantité de la référence (facultatif).  |SOL-1234-PQRS, USD, 10, 100
 Membre de l’équipe 1|Oui|Prénom, nom, numéro de téléphone portable et ID d’e-mail du membre de l’équipe respectif.| Bob, partenaire, 999999, Bob.partner@Contoso.com
+
+## <a name="next-steps"></a>Étapes suivantes
+
+Vous pouvez utiliser ces connecteurs de covente de l’espace partenaires pour vendre en collaboration avec Microsoft à partir de vos systèmes CRM.
+
+- [Connecteur de co-vente pour Dynamics 365 CRM-vue d’ensemble](connector-dynamics.md)
+- [Connecteur de covente pour Salesforce CRM - vue d’ensemble](connector-salesforce.md)

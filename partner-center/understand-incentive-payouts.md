@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755866"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022806"
 ---
 # <a name="view-your-incentives-program-details"></a>Afficher les détails de votre programme d’incentives
 
@@ -22,11 +22,10 @@ ms.locfileid: "101755866"
 
 - Administrateur d’incentives
 - Utilisateur de l’incentive
-- Visionneuse en lecture seule incitative
 - Administrateur général
 - Administrateur de partenaire MPN
 
-Cet article explique comment accéder à la page **vue d’ensemble de mes incentives** , qui indique l’état global de vos programmes d’incentives, ainsi que l’état de chaque programme à chaque emplacement. Il fournit également les différents États d’inscription. 
+Cet article explique la page **vue d’ensemble de mes incentives** , qui indique l’état global de vos programmes d’incentives, ainsi que l’état de chaque programme à chaque emplacement. Il fournit également les différents États d’inscription.
 
 >[!NOTE]
 >Pour plus d’informations sur les incentives et les incentives de l’espace partenaires, consultez [investissements et incentives](https://partner.microsoft.com/membership/partner-incentives) pour les partenaires (connexion requise).
@@ -47,7 +46,7 @@ Cet article explique comment accéder à la page **vue d’ensemble de mes incen
 
 Le tableau suivant décrit les différents États d’inscription indiqués dans la colonne **État** .
 
-| **Statut**         | **Visible quand** |
+| **État**         | **Visible quand** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |

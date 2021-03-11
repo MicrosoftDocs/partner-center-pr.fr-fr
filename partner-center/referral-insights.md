@@ -1,7 +1,7 @@
 ---
 title: Obtenir des insights de référence
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Passez régulièrement en revue vos données d’insights de référence dans l’Espace partenaires pour voir les tendances à traiter ou les domaines d’amélioration pour vous aider à atteindre vos objectifs métiers.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422373"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756497"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenir des insights de référence dans l’Espace partenaires et voir les performances de vos références
 
@@ -59,13 +59,13 @@ Les métriques de changement de pourcentage (affichées en rouge ou en vert, ave
 
 Cette section affiche un indicateur visuel de la façon dont vos marchés passent d’un état à un autre tout au long de leur cycle de vie. Vous pouvez afficher l’intégralité du cycle de vie en fonction du volume de marchés, ainsi que la valeur des marchés en USD en fonction du tableau croisé dynamique principal de cette section. La première section est étiquetée avec l’état et le type de marché pour vous fournir un indicateur visuel du volume ou de la valeur par type. Il existe également une section, **Références du passé**, qui est utilisée pour indiquer les marchés que vous avez entrepris d’accepter/refuser ou de marquer comme conclus/perdus au cours de la période sélectionnée pour le rapport. Vous pouvez appliquer des filtres pour afficher la progression des marchés entre les différentes phases de leur cycle de vie.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Image représentant la carte de résumé de l’analytique des opportunités de co-vente.":::
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Image représentant l’entonnoir de conversion pour les références.":::
 
 ## <a name="deals-by-geography"></a>Marchés par zone géographique
 
 Cette section affiche les pays/régions d’où proviennent les références, ainsi que les détails de chaque pays/région. Il existe une vue tabulaire des détails des marchés pour chaque pays, ainsi qu’une vue cartographique de tous les pays. Vous pouvez cliquer sur un pays spécifique dans la table ou cliquer sur la vue cartographique pour effectuer un zoom sur un pays spécifique.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Image représentant la carte de résumé de l’analytique des opportunités de co-vente.":::
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Image représentant la distribution géographique des références.":::
 
 ## <a name="deals-by-solutions"></a>Marchés par solutions
 
@@ -77,13 +77,13 @@ En fonction de votre sélection de tableau croisé dynamique, vous pouvez voir l
 
 Le tableau contient le nombre total de marchés qui comportent la solution et les états correspondants, comme les marchés conclus, les marchés perdus, les marchés expirés, ainsi que la valeur totale des marchés conclus et perdus en USD. Un graphique de tendances des marchés figure également à droite du tableau et indique le nombre total de marchés et la valeur des marchés gagnée en USD, en fonction de la solution sélectionnée. La sélection par défaut correspond à l’ensemble des solutions.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Image représentant la carte de résumé de l’analytique des opportunités de co-vente.":::
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Image présentant les performances des solutions.":::
 
 ## <a name="declined--lost-reasons"></a>Raisons de refus et de perte
 
 Cette section vous aide à analyser les raisons pour lesquelles les marchés sont marqués comme **refusés** ou **perdus** par votre entreprise. Les options proposées dans ces représentations sont les raisons choisies par les vendeurs lors de la conclusion du marché comme étant refusé ou perdu.
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Image représentant la carte de résumé de l’analytique des opportunités de co-vente.":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Image affichant les raisons sélectionnées par le partenaire lors du refus ou de la perte d’un marché.":::
 
 ## <a name="comparison-charts"></a>Graphiques de comparaison
 
@@ -96,13 +96,13 @@ Les trois dimensions que vous pouvez choisir pour comparer les données sont :
 
 Lorsque le type de marché est sélectionné, vous avez la possibilité de comparer les performances des références en ce qui concerne les opportunités de co-vente et les marchés privés. Pour les marchés et les solutions, vous pouvez sélectionner jusqu’à trois options différentes pour comparer les performances. Le premier graphique, qui est un graphique à barres, présente les données avec une tendance mois après mois, basée sur le tableau croisé dynamique principal, qui est le volume ou la valeur des marchés conclus. Un graphique à secteurs figure également à droite du graphique à barres et affiche les pourcentages de distribution pour les mêmes données.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Image représentant la carte de résumé de l’analytique des opportunités de co-vente.":::
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Image représentant la section de comparaison.":::
 
 ## <a name="raw-data-table"></a>Table des données brutes
 
 La table ci-dessous avec toutes les données brutes relatives aux opportunités de co-vente vous aide à **exporter** rapidement les données pour toute analyse détaillée ou personnalisée que vous souhaitez effectuer.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Image représentant la carte de résumé de l’analytique des opportunités de co-vente.":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Image représentant la table des données brutes pour les références.":::
 
 ## <a name="no-data"></a>Pas de données
 
@@ -114,10 +114,10 @@ Plusieurs raisons peuvent expliquer que vous obteniez un graphique vide comme ci
 - Aucun enregistrement ne correspond aux filtres que vous avez appliqués. Essayez de réinitialiser les filtres.
 - Il y a un délai entre le changement d’état de l’opportunité et sa mise à jour dans le rapport d’analyse. Vérifiez le rapport après 24 heures.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Image représentant la carte de résumé de l’analytique des opportunités de co-vente.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Image n’indiquant aucune visualisation de données pour les références.":::
 
 > [!NOTE]
-> La page **Insights de référence** affiche uniquement des données pour les références générées dans l’Espace partenaires. Elle n’affiche pas de données pour les références générées via [Partner Sales Connect ](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) ou d’autres mécanismes.
+> La page **Insights de référence** affiche uniquement des données pour les références générées dans l’Espace partenaires. Elle n’affiche pas de données pour les références générées via [Partner Sales Connect ](psc-to-pc.md) ou d’autres mécanismes.
 
 > [!TIP]
 > Pour voir comment votre profil d’entreprise s’exécute dans l’expérience [Rechercher un fournisseur de solutions](https://www.microsoft.com/solution-providers/home), consultez [Page Insights du profil d’entreprise](analyze-your-marketing-profile.md).

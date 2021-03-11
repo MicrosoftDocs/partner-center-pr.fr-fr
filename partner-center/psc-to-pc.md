@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124820"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770268"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
@@ -81,7 +81,7 @@ Pour trouver l’administrateur de compte de votre société :
 
    La page affiche tous les administrateurs de comptes avec leurs adresses e-mail respectives. Envoyez un e-mail à l’un d’eux et demandez-lui d’attribuer le rôle d’administrateur de références pour votre compte professionnel.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Image représentant les administrateurs de comptes dans la page de gestion des utilisateurs paramètres du partenaire.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Image représentant les administrateurs de comptes dans la page de gestion des utilisateurs paramètres du partenaire.":::
 
 >[!Important]
 >- Si votre rôle implique uniquement la gestion des utilisateurs dans PSC, demandez à l’administrateur de compte de votre entreprise de vous attribuer le rôle d' [administrateur de compte](permissions-overview.md#manage-mpn-membership-and-your-company) dans l’espace partenaires. 
@@ -95,7 +95,7 @@ Une fois votre compte configuré dans l’espace partenaires, utilisez l’Assis
 >[!Note]
 > La migration des utilisateurs ne peut être effectuée que par les [administrateurs de compte](permissions-overview.md#manage-mpn-membership-and-your-company) de votre entreprise. Si vous n’avez pas le rôle d’administrateur de compte, recherchez un administrateur de compte qui peut vous aider à configurer les comptes d’utilisateur à l’aide de l’Assistant Migration des utilisateurs.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Image représentant l’Assistant Migration des utilisateurs.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Image représentant l’Assistant Migration des utilisateurs.":::
 
 Les administrateurs de comptes verront un lien de l’Assistant Migration des utilisateurs PSC dans la page opportunités de covente à côté du Guide de références. Ils peuvent lancer la migration des utilisateurs en sélectionnant le lien. Pour initier la migration de l’utilisateur, les administrateurs peuvent sélectionner le lien. Ils peuvent effectuer cette étape de migration utilisateur plusieurs fois jusqu’à ce que tous les utilisateurs aient des rôles appropriés dans l’espace partenaires.
 

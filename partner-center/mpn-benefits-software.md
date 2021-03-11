@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3632d66dbbdf4f0f8eb93439325427b8319b955
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102251048"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619373"
 ---
 # <a name="mpn-benefits---software"></a>Avantages MPN-logiciel
 
@@ -23,7 +23,7 @@ ms.locfileid: "102251048"
 - Administrateur général
 - Administrateur partenaire MPN
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Vue d'ensemble
 
 Cet article décrit les avantages logiciels locaux disponibles pour les partenaires à partir de l’espace partenaires. Pour afficher tous les logiciels que vous êtes autorisé à utiliser dans le cadre de votre offre d’inscription active, accédez à  [MPN>Benefits, puis sélectionnez l’onglet logiciel](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) dans le menu de l’espace partenaires.  
 
