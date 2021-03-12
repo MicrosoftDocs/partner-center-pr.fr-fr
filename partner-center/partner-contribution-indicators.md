@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution partenaire-CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez sept indicateurs de contribution partenaires (PCI) qui montrent aux partenaires comment atteindre une compétence en matière de Business Applications Cloud Silver ou Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756553"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193645"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilisez les indicateurs de contribution partenaire pour atteindre les compétences du Cloud Business Applications
 
@@ -274,11 +274,11 @@ Un partenaire a l’une des deux options pour atteindre les points tout ou rien 
 
 - **Aucun point partiel n’est accordé.** La croissance au-dessus de l’instantané de ligne de base doit respecter ou dépasser les seuils indiqués dans le tableau suivant. Le tableau suivant présente une colonne **développée** et en **développement** avec la ligne de base du consultant fonctionnel nécessaire pour pouvoir gagner des points.
 
-  | Fruit | Pays | Croissance nécessaire pour gagner les 15 points *
+  | Fruit | Pays | Croissance nécessaire pour gagner les 15 points
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35 % |
   | 30-49 | 15-24 | 25 % |
-  | 50 et versions ultérieures | 25 et versions ultérieures | 15 % |
+  | 50 et versions ultérieures | 25 et versions ultérieures | Voir les options ci-dessous |
 
 **Option Two pour obtenir les points :**
 
