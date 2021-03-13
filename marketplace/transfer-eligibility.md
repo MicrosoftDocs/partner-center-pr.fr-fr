@@ -1,17 +1,17 @@
 ---
 title: 'Éligibilité du transfert : instructions pour le transfert d’un abonnement entre comptes de facturation, place de marché Azure'
 description: Instructions pour les contrôles commerciaux avant le transfert d’un abonnement entre les comptes de facturation dans le Portail Azure.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: a6a3c8954643ea982ae5107ae417a900ed51e77d
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007153"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412554"
 ---
 # <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Éligibilité du transfert pour un abonnement entre des comptes de facturation
 

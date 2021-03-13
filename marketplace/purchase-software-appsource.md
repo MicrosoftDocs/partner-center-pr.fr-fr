@@ -1,17 +1,17 @@
 ---
 title: Comment acheter des offres SaaS sur Microsoft AppSource
 description: Découvrez comment acheter des applications de software as a service (SaaS) auprès de partenaires Microsoft sur Microsoft AppSource.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 2d5e406e159d0d919dbf8b3542e636376cffacf6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007152"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412690"
 ---
 # <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Comment acheter des applications SaaS sur Microsoft AppSource
 
@@ -42,7 +42,7 @@ Pour acheter une application SaaS, vous avez besoin des éléments suivants :
 1. Entrez votre mode de paiement (informations de carte de crédit).    
 1. Sélectionnez **Passer une commande**.
 
-## <a name="configure-the-application"></a>Configuration de l'application
+## <a name="configure-the-application"></a>Configurer l’application
 
 Une fois que votre commande est reçue, la confirmation prendre plusieurs secondes. Vous recevrez un lien pour configurer votre abonnement SaaS sur la page, mais aussi un e-mail de confirmation de l’achat, ainsi que le lien pour terminer la configuration.
 

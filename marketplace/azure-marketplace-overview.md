@@ -1,17 +1,17 @@
 ---
 title: Présentation de la place de marché Azure
 description: En savoir plus sur le magasin en ligne Azure Marketplace et la façon dont vous pouvez rechercher et essayer des logiciels et des solutions.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182526"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412588"
 ---
 # <a name="what-is-azure-marketplace"></a>Qu’est-ce que la Place de marché Microsoft Azure ?
 

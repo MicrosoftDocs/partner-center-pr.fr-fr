@@ -1,17 +1,17 @@
 ---
 title: Créer et gérer une place de marché Azure privée dans le Portail Azure
 description: En savoir plus sur la création et la gestion de la place de marché Azure privée (version préliminaire) dans le Portail Azure. La place de marché Azure privée (version préliminaire) permet aux administrateurs de gérer les solutions tierces que leurs utilisateurs peuvent utiliser.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 73b9137728fba93704d9b0cb2bc93a3f6498bd90
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757076"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412707"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Créer et gérer une place de marché Azure privée dans le Portail Azure
 

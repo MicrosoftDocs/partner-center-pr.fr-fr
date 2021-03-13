@@ -1,17 +1,17 @@
 ---
 title: Facturation et facturation pour les clients de la place de marché Azure
 description: Cet article décrit les questions courantes sur la facturation et la facturation pour les clients de la place de marché Azure.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514773"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412605"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Facturation et facturation de la place de marché Azure
 
@@ -50,7 +50,7 @@ Vous serez facturé pour vos achats périodiques au cours de la période pendant
 
 ## <a name="invoices"></a>Factures
 
-Vous recevrez un e-mail au début de chaque mois calendaire lorsque votre facture sera disponible dans le Portail Azure. Votre facture affiche toutes les offres gratuites et payantes que vous avez achetées et/ou consommées pendant le mois civil. Si vous avez uniquement des offres gratuites, vous ne verrez que $0 lignes et vous n’avez pas besoin d’effectuer de paiement. **Accord entreprise clients** recevront une facture combinée présentant les frais relatifs à Azure et à la place de marché Azure (à l’exception des clients en Australie, au Japon et à Singapour). **Les clients qui achètent directement à partir de la place de marché Azure** recevront une facture uniquement pour les achats sur la place de marché Azure. Pour plus d’informations, consultez [factures pour les comptes MOSP](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts).
+Vous recevrez un e-mail au début de chaque mois calendaire lorsque votre facture sera disponible dans le Portail Azure. Votre facture affiche toutes les offres gratuites et payantes que vous avez achetées et/ou consommées pendant le mois civil. Si vous avez uniquement des offres gratuites, vous ne verrez que $0 lignes et vous n’avez pas besoin d’effectuer de paiement. **Contrat entreprise clients** recevront une facture combinée présentant les frais relatifs à Azure et à la place de marché Azure (à l’exception des clients en Australie, au Japon et à Singapour). **Les clients qui achètent directement à partir de la place de marché Azure** recevront une facture uniquement pour les achats sur la place de marché Azure. Pour plus d’informations, consultez [factures pour les comptes MOSP](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts).
 
 La réception de votre facture varie :
 

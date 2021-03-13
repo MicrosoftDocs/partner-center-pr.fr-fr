@@ -1,17 +1,17 @@
 ---
 title: Achat de logiciels et de solutions à partir de la place de marché Azure
 description: En savoir plus sur les outils qui simplifient et rationalisent l’achat et la gestion de logiciels dans la place de marché Azure.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584202"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412571"
 ---
 # <a name="azure-marketplace-purchasing"></a>Achat sur la place de marché Azure
 
@@ -19,7 +19,7 @@ La place de marché Azure offre de nombreux outils et fonctionnalités qui simpl
 
 ## <a name="simplified-procurement"></a>Approvisionnement simplifié
 
-La Place de marché Azure vous permet de simplifier le processus d’approvisionnement par le biais de différentes options d’achat. Si vous achetez des produits à l’aide d’une carte de crédit associée à votre compte Azure, tous les achats sont consolidés sur une facture unique et facturés sur la carte de crédit de votre choix. Si vous êtes un grand client, vous pouvez acheter à l’aide d’un Accord Entreprise. Avec un contrat entreprise, les achats de logiciels sont automatiquement inclus dans votre facture Azure. Votre facture indique d’abord les frais d’utilisation d’Azure, suivis des frais de Place de marché Azure.
+La Place de marché Azure vous permet de simplifier le processus d’approvisionnement par le biais de différentes options d’achat. Si vous achetez des produits à l’aide d’une carte de crédit associée à votre compte Azure, tous les achats sont consolidés sur une facture unique et facturés sur la carte de crédit de votre choix. Si vous êtes un grand client, vous pouvez acheter à l’aide d’un Contrat Entreprise. Avec un contrat entreprise, les achats de logiciels sont automatiquement inclus dans votre facture Azure. Votre facture indique d’abord les frais d’utilisation d’Azure, suivis des frais de Place de marché Azure.
 
 Lorsque vous achetez via la place de marché Azure, vous éliminez la complexité de la gestion des relations et des factures des fournisseurs individuels. Vous bénéficiez d’une facture mensuelle unique et consolidée de Microsoft qui comprend vos achats sur la place de marché Azure et vos frais Azure.
 
@@ -65,7 +65,7 @@ Vous pouvez voir vos frais et factures de la Place de marché Azure dans l’out
 
 L’achat d’une offre via la place de marché Azure peut échouer pour différentes raisons. L’utilisation de l’interface de ligne de commande (CLI) pour un achat est plus susceptible de provoquer des erreurs, car vous essayez peut-être d’acheter une offre qui n’est pas disponible ou visible dans la place de marché Azure. Voici les vérifications pouvant entraîner l’échec d’un achat :
 
-1. L’abonnement appartient à un Accord Entreprise (EA) et l’administrateur EA a désactivé la place de marché Azure.
+1. L’abonnement appartient à un Contrat Entreprise (EA) et l’administrateur EA a désactivé la place de marché Azure.
 1. L’administrateur EA a activé des achats uniquement pour les offres gratuites et l’offre est une offre payante.
 1. L’offre est introuvable sur la place de marché.
 1. L’éditeur de logiciels indépendant (ISV) a cessé de vendre l’offre au moins dans votre région.
