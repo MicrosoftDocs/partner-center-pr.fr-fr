@@ -5,43 +5,54 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.custom: contperf-fy21q3
+ms.date: 03/09/2021
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412588"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486923"
 ---
 # <a name="what-is-azure-marketplace"></a>Qu’est-ce que la Place de marché Microsoft Azure ?
 
-La place de marché Azure est un magasin en ligne qui contient des milliers d’applications logicielles et de services créés par des sociétés de technologie de pointe. Dans la place de marché Azure, vous pouvez trouver, essayer, acheter et déployer les logiciels et services dont vous avez besoin pour créer de nouvelles solutions et gérer votre infrastructure en nuage. Le catalogue comprend des solutions pour différents secteurs d’activités et domaines, des versions d’évaluation gratuites et également des services de Conseil des partenaires Microsoft.
+La place de [marché Azure](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) est un magasin en ligne qui contient des milliers d’applications logicielles et de services créés par des sociétés de technologie de pointe. Dans la place de marché Azure, vous pouvez trouver, essayer, acheter et déployer les logiciels et services dont vous avez besoin pour créer de nouvelles solutions et gérer votre infrastructure en nuage. Le catalogue comprend des solutions pour différents secteurs d’activités et domaines, des versions d’évaluation gratuites et également des services de Conseil des partenaires Microsoft.
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Trouvez ce dont vous avez besoin dans la place de marché Azure
 
-Recherchez dans le catalogue par nom ou parcourez les catégories comme Analytics, Security, Networking, Storage et DevOps. La place de marché Azure simplifie les achats de logiciels et la gestion informatique (avec leurs diverses options de tarification et plusieurs méthodes de déploiement) pour vous offrir la flexibilité nécessaire pour répondre aux besoins spécifiques de votre entreprise. Il simplifie également l’approvisionnement avec des contrats de contrat standard, la facturation et la facturation consolidées, ainsi que la gestion centralisée des abonnements.
+La place de marché Azure offre des options de recherche et de filtrage simples pour vous aider à trouver rapidement ce que vous recherchez. Utilisez la barre de recherche en haut de la page pour rechercher des solutions par fournisseur, nom de produit ou Mots clés.
 
-Le catalogue de la place de marché Azure est disponible dans le magasin en ligne et dans le Portail Azure.  
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Affiche la fenêtre principale de la place de marché Azure, dans laquelle vous pouvez choisir de parcourir les applications ou les services de Conseil.":::
 
-### <a name="search-the-online-store"></a>Rechercher dans le magasin en ligne
+Lorsque vous explorez la Galerie d’applications, utilisez les filtres en haut pour affiner les résultats en fonction de la disponibilité d’une version d’évaluation gratuite ou de test drive, du système d’exploitation, du serveur de publication, du modèle de tarification ou du type de produit.
 
-Visitez le [magasin en ligne](https://azuremarketplace.microsoft.com/) et, en haut, choisissez s’il faut parcourir les **applications** ou les **services de Conseil**. Les applications achetées ici seront déployées sur la place de marché Azure.
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Affiche les filtres en haut de la fenêtre de la place de marché Azure.":::
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Dans la place de marché Azure, choisissez en haut si vous souhaitez parcourir les applications ou les services de Conseil.":::
+Le volet le plus à gauche vous permet de filtrer le catalogue par catégories telles que l’analyse, la sécurité, la mise en réseau, le stockage et DevOps. Sélectionnez une catégorie pour afficher les sous-catégories disponibles.
 
-Utilisez la barre de recherche en haut de l’écran ou les catégories de produits plus loin dans la page (non illustrée ci-dessus) pour trouver l’outil parfait pour répondre à vos besoins.
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Affiche les catégories avec des sous-catégories.":::
 
-Les services de Conseil sont uniquement disponibles dans le magasin en ligne et non dans le Portail Azure.
+La place de marché Azure simplifie les achats de logiciels et la gestion informatique (avec leurs diverses options de tarification et plusieurs méthodes de déploiement) pour vous offrir la flexibilité nécessaire pour répondre aux besoins spécifiques de votre entreprise. Il simplifie également l’approvisionnement avec des contrats de contrat standard, la facturation et la facturation consolidées, ainsi que la gestion centralisée des abonnements. Le catalogue de la place de marché Azure est disponible dans le magasin en ligne et dans le Portail Azure.
 
-### <a name="search-in-the-azure-portal"></a>Rechercher dans le Portail Azure
+## <a name="microsoft-preferred-solutions"></a>Solutions recommandées par Microsoft
+
+Lors de la recherche ou du filtrage du catalogue, les résultats peuvent inclure des solutions Microsoft préférées, qui sont identifiées par le biais du badge de solutions préféré situé dans le coin inférieur droit de la carte d’application ou du badge sur la page de détails du produit.
+
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Affiche le badge du fournisseur de la place de marché Azure préféré.":::
+
+Les solutions préférées sont sélectionnées par une équipe d’experts Microsoft et sont publiées par les partenaires Microsoft avec une expertise et des fonctionnalités approfondies et éprouvées pour répondre aux besoins spécifiques des clients dans une catégorie, un secteur ou une branche verticale.
+
+## <a name="search-in-the-azure-portal"></a>Rechercher dans le Portail Azure
 
 Dans le Portail Azure, sélectionnez **+ créer une ressource** ou recherchez « Marketplace ». Parcourez ensuite les catégories sur le côté gauche ou utilisez la barre de recherche, qui comprend une fonction de filtre.
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="Choix des applications dans le Portail Azure.":::
 
+Les services de Conseil sont uniquement disponibles dans le magasin en ligne et non dans le Portail Azure.
+
 ## <a name="take-action-on-a-listing"></a>Effectuer une action sur une liste
 
-Chaque liste dans la place de marché Azure prend en charge une ou plusieurs des actions suivantes :
+Effectuez une action sur une liste en sélectionnant un ou plusieurs des éléments suivants :
 
 - **Téléchargez-le dès maintenant** : Achetez immédiatement la solution.
 - **Testez** -Explorez une démonstration organisée. Les lecteurs de test ne nécessitent aucune configuration. Ils vous permettent de déterminer si la solution répond aux besoins de votre entreprise sans utiliser vos données ou votre environnement de production.
