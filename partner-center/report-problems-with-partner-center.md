@@ -1,5 +1,5 @@
 ---
-title: Signaler des problèmes avec l’Espace partenaires
+title: Outil de diagnostic et de requêtes du portail de l’espace partenaires
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530661"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582034"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Comment signaler des problèmes avec l’espace partenaires et envoyer des informations de journal ou de diagnostic
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Outil de diagnostic et de requêtes du portail de l’espace partenaires
 
 **S’applique à**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530661"
 **Rôles appropriés**
 
 Tous les utilisateurs connectés au centre des partenaires peuvent créer des demandes de support partenaires. Les utilisateurs peuvent uniquement afficher les demandes de support qu’ils ont soumises après leur connexion à l’espace partenaires.
+Contactez le support technique si vous rencontrez des problèmes ou si vous avez besoin d’aide sur les erreurs du portail de l’espace partenaires. Envoyer des diagnostics pour que le problème soit résolu plus rapidement.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Signaler un problème avec l’espace partenaires
 
