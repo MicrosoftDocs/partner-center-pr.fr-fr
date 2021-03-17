@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705043"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514100"
 ---
 # <a name="december-2020-announcements"></a>Annonces de décembre 2020
 
@@ -274,6 +274,9 @@ Tous les partenaires fournisseurs de solutions Cloud
 
 ### <a name="details"></a>Détails
 
+>[!NOTE]
+>Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Nous aimerions vous rappeler qu’à partir du **19 janvier 2021**, tous les partenaires inscrits au programme CSP pourront vendre des licences de logiciels perpétuels commerciales pour un déploiement local dans le cadre du programme CSP. Ainsi, les clients bénéficieront de la flexibilité dont ils ont besoin en matière de licence dans le cadre de leur transformation numérique.
 
 Voici ce qui se produira également à la même date :
@@ -301,6 +304,12 @@ Passez en revue les ressources suivantes et partagez-les avec les contacts appro
 ### <a name="questions"></a>Vous avez des questions ?
 
 Si vous avez d’autres questions sur ces offres, consultez vos communautés Yammer appropriées.
+
+### <a name="change-log"></a>Journal des modifications :
+
+- 17 décembre 2020 : Première publication 
+
+- 5 mars 2021 : Ajout d’une note en haut sur la restauration de la fonctionnalité de fourniture de logiciels et de clés de licence de l’Espace partenaires.
 
 ______________
 
