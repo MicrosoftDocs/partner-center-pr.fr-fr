@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758455"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712951"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Impact des stratégies de taxes sur le paiement pour la place de marché Azure
 
@@ -47,7 +47,7 @@ Consultez le [scénario D](#foreign-publisher-transacts-with-us-customer) pour l
 
 **Scénario C** : transactions qui ont lieu entre un serveur de publication et un client d’un pays d’imposition géré par un éditeur qui n’impose pas d’impôt à la retenue sur les clients. Les clients ne paient aucune taxe au point de vente et il s’agit de l’obligation de l’éditeur de payer toutes les taxes applicables.
 
-Pour plus d’informations sur la tarification spécifique aux pays (par exemple, pour compenser la fiscalité à venir), consultez les [plans et la tarification des offres de la place de marché commercial](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices).
+Pour plus d’informations sur la tarification spécifique aux pays (par exemple, pour compenser la fiscalité à venir), consultez les [plans et la tarification des offres de la place de marché commercial](/azure/marketplace/plans-pricing#custom-prices).
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Affiche le flux de travail pour le scénario de processus de paiement C.":::
 
@@ -77,5 +77,5 @@ Pour plus d’informations sur la tarification spécifique aux pays (par exemple
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [FAQ sur l’éditeur](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [Instructions pour créer des profils de paiement et de taxes](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [FAQ sur l’éditeur](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Instructions pour créer des profils de paiement et de taxes](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

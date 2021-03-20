@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619390"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712187"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Opérations en bloc pour les opportunités de co-vente à l’aide de fichiers de valeurs séparées par des virgules (CSV)
 
@@ -74,7 +74,7 @@ Code postal du client|Non|Code postal de la région où se trouve l’organisati
 Pays du client|Oui|Pays/région où se trouve l’organisation cliente. Utilisez les codes de pays à deux lettres comme indiqué [ici]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|US
 ID du client D-U-N-S|Non|Essayez de récupérer l’ID DUNS de l’organisation cliente. Cela permet de faire correspondre plus rapidement l’organisation du client du côté Microsoft, ce qui permet une attribution plus rapide des vendeurs. Vous pouvez obtenir l’ID DUNS gratuitement à partir de ce [site Web](https://www.dnb.com/duns-number/lookup.html).|81466849
 Prénom du contact client|Dépend|Le prénom est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Prénom du contact principal de l’organisation cliente qui travaille sur cette transaction.|John
-Nom du contact du client|Dépend|Le nom est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Nom du contact principal de l’organisation cliente qui travaille sur cette transaction.|Customer
+Nom du contact du client|Dépend|Le nom est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Nom du contact principal de l’organisation cliente qui travaille sur cette transaction.|Client
 Numéro de téléphone du contact client|Dépend|Le numéro de téléphone est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Numéro de téléphone du contact principal de l’organisation cliente qui travaille sur cette transaction.|9999999999
 Adresse E-mail du contact client|Dépend|L’adresse de messagerie est obligatoire uniquement si vous avez besoin de l’aide de Microsoft. Adresse e-mail du contact principal de l’organisation cliente qui travaille sur cette transaction.|john.customer@contoso.com
 État de la référence partenaire|Oui|Indique l’état de la transaction du point de vue de votre entreprise. Obligatoire si vous essayez de créer ou de modifier une référence. Utilisez **nouveau** si vous essayez de créer un nouveau contrat. Les valeurs acceptées sont documentées [ici](/partner/develop/referral-resources#referralstatus).|Actif
@@ -87,9 +87,9 @@ Devise|Oui|Devise dans laquelle la valeur de transaction est entrée. Vous trouv
 Date de clôture estimée|Oui|Date de clôture estimée de la transaction en fonction des conversations initiales avec le client au format MM/jj/aaaa. <br/> **La date doit être le fuseau horaire UTC. Toutes les dates affichées dans l’interface utilisateur de l’espace partenaires sont basées sur les fuseaux horaires localisés. Il peut y avoir +/-une différence d’un jour dans l’interface utilisateur de l’espace partenaires si vous examinez la référence pour laquelle vous avez fourni la date au fuseau horaire UTC.**|1/30/2020
 ID CRM|Non|Identificateur de cette référence spécifique dans votre système CRM, le cas échéant. Il s’agit d’un champ de saisie de texte de forme libre.|34234324-sdfsdf-345345-SFD
 ID de campagne marketing|Non|Ce champ indique la campagne marketing, qui a abouti à cette référence spécifique. Généralement utilisé pour le calcul du ROI|BingSummer2020
-Remarques|Non|Remarques détaillées indiquant les mises à jour liées à la référence|Voici un exemple de note
+Notes|Non|Remarques détaillées indiquant les mises à jour liées à la référence|Voici un exemple de note
 Aide Microsoft requise ?|Oui|Cela permet d’indiquer si vous souhaitez que Microsoft vous aide à effectuer cette demande de co-vente|Oui
-Quelle aide spécifique de Microsoft ?|Dépend|L’une des six différentes façons dont Microsoft peut vous aider. Cela s’applique uniquement si vous choisissez non pour la question «aide Microsoft requise ? " <br/> **Entrez un nombre en fonction des options ci-dessous** <br/><br/> **1**-proposition de valeur spécifique à la charge de travail  <br/> **2**-architecture technique client  <br/> **3**-preuve de concept/Demo  <br/> **4**-devis et licences  <br/> **5**: succès des clients après la vente  <br/> **6**-général ou autre|1|
+Quelle aide spécifique de Microsoft ?|Dépend|L’une des six différentes façons dont Microsoft peut vous aider. Cela s’applique uniquement si vous choisissez Oui pour la question «aide Microsoft requise ? " <br/> **Entrez un nombre en fonction des options ci-dessous** <br/><br/> **1**-proposition de valeur spécifique à la charge de travail  <br/> **2**-architecture technique client  <br/> **3**-preuve de concept/Demo  <br/> **4**-devis et licences  <br/> **5**: succès des clients après la vente  <br/> **6**-général ou autre|1|
 Partager avec l’équipe de vente Microsoft|Oui|Cela permet d’indiquer si vous souhaitez partager les détails du contrat avec l’équipe de vente Microsoft. Cela s’applique uniquement si vous choisissez non pour la question «aide Microsoft requise ? "|Oui
 Remarques à Microsoft|Non|Remarques spécifiques à Microsoft si vous avez besoin d’aide de Microsoft|Besoin d’aide avec un POC pour le client contoso
 Consentement de partager le contact avec le client et le partenaire|Oui|Le consentement de partager les coordonnées du client et les informations de contact des employés de votre entreprise sont ceux qui travaillent sur la transaction. **Les transactions ne sont pas créées ou mises à jour si vous choisissez non pour cette colonne.** |Oui

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098803"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712254"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Champs du fichier de rapprochement des achats à usage unique CSP
 
@@ -28,7 +28,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | CustomerId | Identificateur Microsoft unique du client au format GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nom de l’organisation du client comme indiqué dans l’Espace partenaires. Cette colonne est importante pour rapprocher la facture de vos informations système. | *Jeanne moderne client DE2* |
 | CustomerDomainName | Nom de domaine du client. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *ANNULATION* |
+| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *DE* |
 | InvoiceNumber | Numéro de facture associé au fichier de rapprochement.  | *G002297372* |
 | MpnId | Identificateur MPN du partenaire CSP. Pour plus d’informations, consultez [Comment dénombrer par partenaire](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. | *6048879* |
@@ -41,7 +41,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | ProductName | Nom du produit. | *Tables* |
 | ChargeType | [Type de frais ou d'](./recon-file-charge-types.md) ajustement. | *Nouveau* |
 | UnitPrice | Prix par licence, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *0,045* |
-| Quantité | Nombre de licences. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *1* |
+| quantité ; | Nombre de licences. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *1* |
 | Sous-total | Total avant impôt. Le sous-total doit être égal à la quantité facturable multipliée par le prix unitaire effectif. | *0* |
 | TaxTotal | Frais liés au montant des taxes. Selon les règles fiscales et les circonstances spécifiques de votre marché. | *0* |
 | Total | Le montant total est égal au sous-total et au montant des taxes. | *0* |
@@ -64,6 +64,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | PCToBCExchangeRateDate | Date à laquelle la devise de tarification pour la devise de facturation est déterminée. | *30/09/2020* |
 | MeterDescription | Description du compteur.  | *Tables-données stockées LRS (Go/mois)* |
 | ReservationOrderId | ID de la commande de réservation. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | Description du crédit. | *Crédit de consommation Azure* |
 
 >[!NOTE]
 >Vous pouvez rapprocher votre consommation Azure dans votre fichier de rapprochement d’achat à usage unique. Pour ce faire, accédez à votre fichier de rapprochement d’utilisation évalué quotidiennement et recherchez votre SubscriptionID. Cela permet d’afficher tous les coûts associés à votre ID de plan Azure. Votre SubscriptionID Azure est affiché en tant que EntitlementID.

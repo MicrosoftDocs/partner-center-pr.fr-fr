@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412707"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712764"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Créer et gérer une place de marché Azure privée dans le Portail Azure
 
@@ -21,7 +21,7 @@ En tant qu’administrateur de la place de marché (rôle affecté), vous allez 
 
 > [!NOTE]
 > - La place de marché Azure privée est au niveau du locataire, de sorte que tous les utilisateurs sous le locataire voient la même liste organisée.
-> - Toutes les solutions Microsoft (y compris les [distributions Linux approuvées](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) sont automatiquement ajoutées à la place de marché Azure privée.
+> - Toutes les solutions Microsoft (y compris les [distributions Linux approuvées](/azure/virtual-machines/linux/endorsed-distros)) sont automatiquement ajoutées à la place de marché Azure privée.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Attribuer le rôle d’administrateur de la place de marché
 
@@ -187,7 +187,7 @@ Un élément est une combinaison d’une offre et d’un plan. Vous pouvez reche
 4. Sélectionnez **terminé** en bas à gauche une fois que vous avez effectué vos sélections.
 
 >[!Note]
-> **Ajouter des éléments** à la place de marché sera disponible pour les offres non-Microsoft uniquement. Les solutions Microsoft (y compris les [distributions Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)approuvées) sont marquées comme « approuvées par défaut » et ne peuvent pas être gérées dans la place de marché privée.
+> **Ajouter des éléments** à la place de marché sera disponible pour les offres non-Microsoft uniquement. Les solutions Microsoft (y compris les [distributions Linux](/azure/virtual-machines/linux/endorsed-distros)approuvées) sont marquées comme « approuvées par défaut » et ne peuvent pas être gérées dans la place de marché privée.
 
 ## <a name="edit-items-plans"></a>Modifier les plans de l’élément
 
@@ -249,7 +249,7 @@ Pour accéder au centre de notifications :
 Lorsque la place de marché Azure privée est activée, les utilisateurs voient les plans approuvés par l’administrateur de la place de marché.
 
 - Une notification verte **approuvée** indique une offre partenaire (non-Microsoft) approuvée.
-- Une notification bleue **approuvée** indique une offre Microsoft (y compris les [distributions Linux](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)approuvées) approuvée.
+- Une notification bleue **approuvée** indique une offre Microsoft (y compris les [distributions Linux](/azure/virtual-machines/linux/endorsed-distros)approuvées) approuvée.
 
 Les utilisateurs peuvent filtrer les offres qui ne sont pas approuvées :
 
@@ -304,7 +304,7 @@ Il existe actuellement deux façons de limiter les services tiers dans la place 
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Montre comment restreindre les services dans le portail E A.":::
 
-2. Créez une stratégie Azure pour autoriser uniquement des machines virtuelles spécifiques. Pour plus d’informations sur la façon d’appliquer une stratégie à des machines virtuelles Windows, consultez [appliquer des stratégies à des machines virtuelles Windows avec Azure Resource Manager](https://docs.microsoft.com/azure/virtual-machines/windows/policy).
+2. Créez une stratégie Azure pour autoriser uniquement des machines virtuelles spécifiques. Pour plus d’informations sur la façon d’appliquer une stratégie à des machines virtuelles Windows, consultez [appliquer des stratégies à des machines virtuelles Windows avec Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
 La place de marché Azure privée offre davantage de souplesse pour limiter et autoriser des offres et des plans spécifiques. Il informe les utilisateurs finaux sur la disponibilité du déploiement dans la Galerie de la place de marché même avant d’essayer de déployer des services tiers. Pour autoriser le déploiement de services tiers, définissez la place de marché Azure sur activé/activé dans le portail EA et le Portail Azure.
 
@@ -314,7 +314,7 @@ La place de marché Azure privée offre davantage de souplesse pour limiter et a
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Quelle est la différence entre une offre privée et une place de marché Azure privée ?
 
-Une **offre privée** permet aux éditeurs de créer des plans qui sont uniquement visibles par les clients ciblés. Cela leur permet de partager en privé des solutions personnalisées avec la tarification négociée, les conditions générales et les configurations spécialisées. Pour plus d’informations, consultez [les offres privées dans le Marketplace commercial](https://docs.microsoft.com/azure/marketplace/private-offers).
+Une **offre privée** permet aux éditeurs de créer des plans qui sont uniquement visibles par les clients ciblés. Cela leur permet de partager en privé des solutions personnalisées avec la tarification négociée, les conditions générales et les configurations spécialisées. Pour plus d’informations, consultez [les offres privées dans le Marketplace commercial](/azure/marketplace/private-offers).
 
 La place de **marché Azure privée** dans le portail Azure permet aux administrateurs de préapprouver les solutions tierces que leurs utilisateurs peuvent déployer. Avec une place de marché Azure privée, les utilisateurs peuvent profiter des avantages de la place de marché Azure en recherchant, en achetant et en déployant des offres conformes. Pour gérer les offres privées basées sur un abonnement dans la place de marché privé, l’administrateur de la place de marché doit avoir au minimum le rôle de « lecture » sur l’abonnement spécifique.
 
@@ -326,16 +326,16 @@ Les offres privées basées sur un abonnement sont visibles uniquement pour les 
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Pouvez-vous inclure des images personnalisées dans la place de marché Azure privée ?
 
-Non. La place de marché Azure privée permet à n’importe quel administrateur informatique de gérer et d’organiser des solutions tierces à partir de la place de marché Azure mondiale. Étant donné que les images personnalisées ne se trouvent pas sur la place de marché Azure globale, l’administrateur informatique ne peut pas choisir vos images personnalisées. Si vous souhaitez partager des images personnalisées, utilisez la [Galerie d’images partagées](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries).
+Non. La place de marché Azure privée permet à n’importe quel administrateur informatique de gérer et d’organiser des solutions tierces à partir de la place de marché Azure mondiale. Étant donné que les images personnalisées ne se trouvent pas sur la place de marché Azure globale, l’administrateur informatique ne peut pas choisir vos images personnalisées. Si vous souhaitez partager des images personnalisées, utilisez la [Galerie d’images partagées](/azure/virtual-machines/shared-image-galleries).
 
-1. Guide pas à pas de création d’une bibliothèque d’images partagées (SIG) ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell)).
-2. Créer une définition d’image dans un SIG. Le client doit choisir **généralisée** pour le champ de l’état du système d’exploitation. ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Placez l’image managée dans la Galerie d’images partagées ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)).
-4. Les images de machine virtuelle SIG se trouvent dans un seul abonnement. Pour le rendre disponible pour d’autres abonnements, utilisez une inscription d’application ([CLI](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)).
+1. Guide pas à pas de création d’une bibliothèque d’images partagées (SIG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)).
+2. Créer une définition d’image dans un SIG. Le client doit choisir **généralisée** pour le champ de l’état du système d’exploitation. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Placez l’image managée dans la Galerie d’images partagées ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. Les images de machine virtuelle SIG se trouvent dans un seul abonnement. Pour le rendre disponible pour d’autres abonnements, utilisez une inscription d’application ([CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)).
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Pourquoi certaines offres sont-elles **approuvées par défaut,** même si le serveur de publication n’est pas Microsoft ?
 
-Microsoft prend en charge les technologies Linux et open source dans Azure. Les [distributions Linux approuvées](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) sont prises en charge sur Azure et le prix est intégré aux machines virtuelles. Étant donné que l’agent Linux Azure est déjà préinstallé sur la place de marché Azure, il est traité comme une offre Microsoft. Étant donné que les offres Microsoft sont approuvées par défaut, les distributions Linux approuvées ne peuvent pas être gérées dans la place de marché Azure privée et sont approuvées par défaut.
+Microsoft prend en charge les technologies Linux et open source dans Azure. Les [distributions Linux approuvées](/azure/virtual-machines/linux/endorsed-distros) sont prises en charge sur Azure et le prix est intégré aux machines virtuelles. Étant donné que l’agent Linux Azure est déjà préinstallé sur la place de marché Azure, il est traité comme une offre Microsoft. Étant donné que les offres Microsoft sont approuvées par défaut, les distributions Linux approuvées ne peuvent pas être gérées dans la place de marché Azure privée et sont approuvées par défaut.
 
 ## <a name="contact-support"></a>Contacter le support technique
 

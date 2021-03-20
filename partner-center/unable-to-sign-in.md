@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584185"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712883"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Si vous ne pouvez pas vous connecter à l’espace partenaires et si vous devez réinitialiser votre mot de passe
 
 **Rôles appropriés**
 
-- Utilisateurs de l’espace partenaires
+- Tous les partenaires intéressés par l’espace partenaires
 
 Si vous avez oublié votre mot de passe et que vous ne pouvez pas vous connecter à l’espace partenaires, vous devez contacter le support technique. Trouvez le contact approprié à la [prise en charge des produits professionnels](/microsoft-365/admin/contact-support-for-business-products). 
 

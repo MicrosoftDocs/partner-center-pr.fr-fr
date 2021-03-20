@@ -1,25 +1,21 @@
 ---
 title: Éligibilité du programme d’incentives
-description: Assurez-vous que votre programme d’incentives est éligible pour que vous puissiez être payé. Ce processus comprend la vérification de l’éligibilité dans le Guide de votre programme.
+description: Assurez-vous que vous avez rempli les conditions d’éligibilité pour le programme d’incentives. Ce processus comprend la vérification de l’éligibilité dans le Guide de votre programme.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175224"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712157"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Déterminer l’éligibilité de votre programme d’incentives
-
-**S’applique à**:
-
-- Espace partenaires
 
 **Rôles appropriés**:
 
@@ -40,7 +36,11 @@ Les conditions d’éligibilité spécifiques pour votre programme sont disponib
 
 3. Sélectionnez le programme souhaité.
 
-4. Dans le champ **Détails du programme**, sélectionnez **Guide du programme**.
+4. Dans le champ **État** , sélectionnez **conditions d’éligibilité**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="La capture d’écran est un exemple de conditions d’Incentive.":::
+
+5. Vous devez renseigner toutes les zones qui ne sont pas vérifiées afin de remplir les conditions d’éligibilité. Chaque programme d’incentives a son propre ensemble de spécifications.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

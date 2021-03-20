@@ -9,21 +9,21 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: a66e32a3c9320ac32b0749c67197c6a27574ce75
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022806"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712611"
 ---
 # <a name="view-your-incentives-program-details"></a>Afficher les détails de votre programme d’incentives
 
 **Rôles appropriés**
 
-- Administrateur d’incentives
-- Utilisateur de l’incentive
+- Administrateur de primes incitatives
+- Utilisateur de primes incitatives
 - Administrateur général
-- Administrateur de partenaire MPN
+- Administrateur partenaire MPN
 
 Cet article explique la page **vue d’ensemble de mes incentives** , qui indique l’état global de vos programmes d’incentives, ainsi que l’état de chaque programme à chaque emplacement. Il fournit également les différents États d’inscription.
 
@@ -46,7 +46,7 @@ Cet article explique la page **vue d’ensemble de mes incentives** , qui indiqu
 
 Le tableau suivant décrit les différents États d’inscription indiqués dans la colonne **État** .
 
-| **État**         | **Visible quand** |
+| **Statut**         | **Visible quand** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |

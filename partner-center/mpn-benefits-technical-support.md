@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102186649"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712900"
 ---
 # <a name="technical-support-benefits"></a>Avantages du support technique
 
@@ -58,12 +58,10 @@ Le support technique fournit un dépannage pour un problème spécifique, un mes
 Dans le cadre de l’appartenance au Microsoft Partner Network, les partenaires peuvent bénéficier du support technique suivant.
 
 
-|                           Support technique                          |  Action Pack |                                      Compétence Silver                                      |                                        Compétence Gold                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Support technique Microsoft<br>Pour les versions récentes sur site <br>produits uniquement | 10 incidents | 15 incidents                                                                                | 20 incidents                                                                                  |   |
-| Prise en charge du Cloud de signature<br>Pour les produits Cloud uniquement                   |              | Compétences du Cloud :<br>Illimité<br>         <br>Autres compétences :<br>5 incidents         | Compétences du Cloud :<br>Illimité<br>          <br>Autres compétences :<br>10 incidents   
-
-
+| Support technique |  Action Pack | Compétence Silver | Compétence Gold |
+|:---:|:---:|:---:|:---:|
+| Support technique Microsoft<br>Pour les versions récentes sur site <br>produits uniquement | 10 incidents | 15 incidents  | 20 incidents |
+| Prise en charge du Cloud de signature<br>Pour les produits Cloud uniquement |  | Compétences du Cloud :<br>Illimité<br><br>Autres compétences :<br>5 incidents  | Compétences du Cloud :<br>Illimité<br>          <br>Autres compétences :<br>10 incidents  |
 
 * Les compétences du Cloud sont les suivantes : compétence de sécurité, Cloud Business Applications, plateforme Cloud, productivité du Cloud, gestion de la mobilité d’entreprise, solutions Cloud petites et moyennes.
 

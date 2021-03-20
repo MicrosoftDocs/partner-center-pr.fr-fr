@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031962"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712237"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires
 
@@ -49,7 +49,7 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | ProductId | Identificateur du produit. |
 | SkuId | Identificateur d’une référence (SKU) particulière. |
 | AvailabilityId | Identificateur pour la disponibilité d’une référence (SKU) particulière. Cette colonne indique si la référence (SKU) est disponible à l’achat dans le pays, la devise, le secteur d’activité, etc. |
-| SkuName | Titre d’une référence (SKU) particulière. |
+| skuName | Titre d’une référence (SKU) particulière. |
 | ProductName | Nom du produit. |
 | PublisherName | Nom de l'éditeur. |
 | PublisherId | Identificateur du serveur de publication au format GUID. |
@@ -60,18 +60,18 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | UsageDate | Date d’utilisation du service. |
 | MeterType | Type de compteur. |
 | MeterCategory | Service de niveau supérieur pour l’utilisation. |
-| MeterId | Identificateur du compteur utilisé. |
+| ID du compteur | Identificateur du compteur utilisé. |
 | MeterSubCategory | Le type de service Azure, qui peut affecter la vitesse. |
 | MeterName | Unité de mesure du compteur consommé. |
 | MeterRegion | Cette colonne identifie l’emplacement d’un centre de données dans la région pour les services où MeterRegion est applicable et rempli. |
-| Unité | Unité du **nom**de la ressource. |
+| Unité | Unité du **nom** de la ressource. |
 | ResourceLocation | Centre de données dans lequel le compteur est en cours d’exécution. |
 | ConsumedService | Service de plateforme Azure que vous avez utilisé. |
 | ResourceGroup | Représente un conteneur qui contient les ressources associées pour une solution Azure. |
 | ResourceURI | URI de la ressource en cours d’utilisation. |
 | ChargeType | Type de frais ou d’ajustement.  |
 | UnitPrice | Prix par licence, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
-| Quantité | Nombre de licences. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
+| quantité ; | Nombre de licences. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
 | Unité | Type d’unité dans lequel le compteur est facturé.  |
 | BillingPreTaxTotal | Montant total de la facturation avant taxes.<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Devise dans la région géographique du client. |
@@ -79,7 +79,7 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | PricingCurrency | Devise utilisée dans la liste de prix. |
 | ServiceInfo1 | Nombre de connexions Service Bus qui ont été approvisionnées et utilisées pour un jour donné. |
 | ServiceInfo2 | Champ hérité qui capture les métadonnées facultatives propres au service. |
-| Balises | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
+| Étiquettes | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
 | AdditionalInfo | Toutes les informations supplémentaires non couvertes sont dans les autres colonnes. |
 | EffectiveUnitPrice | Valeur réelle facturée par unité, y compris les remises, les crédits acquis, etc. |
 | PCToBCExchangeRate | Taux de change appliqué pour la devise de tarification à la devise de facturation. |
@@ -87,7 +87,8 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | EntitlementId | Représente l’ID d’abonnement Azure. |
 | EntitlementDescription | Représente le nom de l’ID d’abonnement Azure. |
 | PartnerEarnedCreditPercentage | Affiche le PartnerEarnedCredit de l’élément de ligne. Le crédit gagné aura une valeur de 0 ou de 15 pour cent |
-
+| CreditPercentage | Affiche le crédit de consommation Azure. Le crédit gagné aura une valeur de 0 ou de 100%. |
+| CreditType | Type de crédit. Par exemple, le **crédit Azure appliqué.** |
 >[!NOTE]
 >L’utilisation à l’aide d’une évaluation quotidienne prend normalement 24 heures pour s’afficher dans l’espace partenaires ou pour être accessible via l’API.
 
