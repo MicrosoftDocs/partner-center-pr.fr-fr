@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022789"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768718"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explorez les services de déploiement et les préventes techniques (TPD) 
 
@@ -22,7 +22,7 @@ Découvrez les avantages de l’Microsoft Partner Network (MPN) pour les service
 
 ## <a name="develop-your-technical-know-how"></a>Développez votre savoir-faire technique
 
-Utilisez les services de déploiement et préventes techniques (TPD) pour les consultations personnalisées à distance pour créer vos fonctionnalités techniques plus rapidement afin d’augmenter les ventes, de déployer plus efficacement et d’accélérer le développement d’applications. [Plus d’informations](https://aka.ms/TPD)
+Utilisez les services de déploiement et préventes techniques (TPD) pour les consultations personnalisées à distance pour créer vos fonctionnalités techniques plus rapidement afin d’augmenter les ventes, de déployer plus efficacement et d’accélérer le développement d’applications. [En savoir plus](https://aka.ms/TPD)
 
 Toutes les solutions Cloud ou hybrides sont prises en charge, en plus des environnements Windows 10, Windows Server et Microsoft SQL Server locaux. 
 
@@ -30,7 +30,7 @@ Toutes les solutions Cloud ou hybrides sont prises en charge, en plus des enviro
 
 - Les partenaires Gold et Silver bénéficient d’une assistance en prévente illimitée. 
 
-- Les membres du réseau peuvent acheter [Action Pack](https://partner.microsoft.com/membership/action-pack) pour recevoir cinq heures de Conseil  
+- Les membres du réseau peuvent acheter [Action Pack](https://partner.microsoft.com/membership/action-pack) pour recevoir cinq heures d’avis.  
 
 |     Type d’offre    | Nombre d’heures d’avis |   Préventes techniques   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -46,7 +46,7 @@ Connectez-vous à l’aide de n’importe quel compte d’utilisateur associé a
 
 Vos avantages techniques des services de déploiement et des préventes (TPD) sont automatiquement activés et disponibles pour tous les utilisateurs MPN associés. 
 
-Pour afficher vos avantages techniques dans l’espace partenaires
+Pour afficher vos avantages techniques dans l’espace partenaires :
 
 1. Connectez-vous avec votre compte MPN associé dans le [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires. 
 

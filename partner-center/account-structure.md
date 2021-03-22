@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474272"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768667"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>L’espace partenaires a deux niveaux de comptes pour les partenaires MPN
 
@@ -40,7 +40,7 @@ Votre entreprise dispose de deux niveaux de comptes dans l’espace partenaires.
 Votre PGA peut avoir des emplacements d’entreprise supplémentaires. Chaque emplacement a son propre ID MPN ou compte d’emplacement de partenaire (PLA). Vous utilisez l’ID MPN de l’emplacement pour l’entreprise transactionnelle et l’inscription dans les programmes incitants.
 
 - Chaque compte d’emplacement de partenaire peut avoir sa propre adresse légale et son propre contact principal. Les emplacements peuvent également partager l’adresse légale avec le compte global ou avec d’autres emplacements.
-- Affichez la liste des comptes d’emplacement du partenaire à partir des emplacements des **paramètres**  ->  **Locations**.
+- Affichez la liste des comptes d’emplacement du partenaire à partir des emplacements des **paramètres**  ->  .
 - Tous les comptes d’emplacement se trouvent au même niveau et sous le compte global du partenaire.
 - Les administrateurs de comptes peuvent ajouter des emplacements.
 

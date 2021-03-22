@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756740"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768701"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Résoudre les problèmes de configuration de compte ou de renouvellement MPN
 
@@ -28,20 +28,20 @@ Voici quelques suggestions pour résoudre les problèmes courants qui surviennen
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Que se passe-t-il si vous effectuez une migration à partir du centre d’appartenance au partenaire et que vous ne pouvez pas modifier les champs d’informations
 
-Dans les cas où votre société a déjà une présence dans l’espace partenaires (par exemple, le compte CSP), vous verrez apparaître un écran en lecture seule. Cet écran affiche toutes les informations sur votre société telles qu’elles existent dans l’espace partenaires.
+Dans les cas où votre société a déjà une présence dans l’espace partenaires (par exemple, un compte CSP), un écran en lecture seule s’affiche. Cet écran affiche toutes les informations sur votre société telles qu’elles existent dans l’espace partenaires.
 
 Vous ne pouvez pas modifier les détails de cet écran. Cela est dû à la conception et non à une erreur.
 
 Sélectionnez **accepter** et **Continuer** pour continuer.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si le service informatique a désactivé l' **inscription à l’espace partenaires**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si le service informatique a désactivé l' **inscription à l’espace partenaires**
 
 Ce message s’affiche parce que les utilisateurs viraux sont désactivés ou parce que l’inscription virale est désactivée sur le locataire Azure AD. L’administrateur général de votre compte Azure AD peut activer les fonctionnalités requises en exécutant la commande PowerShell suivante :
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Pour plus d’informations, consultez [inscription en libre-service](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Pour plus d’informations, consultez [inscription en libre-service](/azure/active-directory/users-groups-roles/directory-self-service-signup).
 
 ## <a name="you-forgot-your-password"></a>Vous avez oublié votre mot de passe
 

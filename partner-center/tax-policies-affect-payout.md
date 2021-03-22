@@ -3,21 +3,22 @@ title: Impact des stratégies de taxes sur le paiement pour la place de marché 
 description: Découvrez comment les stratégies de taxes affectent le paiement pour la place de marché Azure.
 ms.topic: conceptual
 ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712951"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768820"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Impact des stratégies de taxes sur le paiement pour la place de marché Azure
 
 **Rôles appropriés**
 -    Administrateur général
--    Administrateur des utilisateurs
+-    Administrateur de la gestion des utilisateurs
 -    Agent d’administration
 
 ## <a name="introduction"></a>Introduction

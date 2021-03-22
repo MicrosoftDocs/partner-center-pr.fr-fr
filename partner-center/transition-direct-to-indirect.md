@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624304"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768752"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
 **Rôles appropriés**
 
-- Administrateurs généraux
+- Administrateur général
 
 >[!Note]
 >Cet article s’adresse aux partenaires directs qui ont décidé de passer aux revendeurs indirects. Toutefois, même si vous n’avez pas encore décidé de vous inscrire en tant que revendeur indirect, les partenaires commerciaux directs qui ne satisfont pas aux nouvelles [conditions requises](direct-partner-new-requirements.md) pour le programme de partenaire de facture directe du CSP seront informés par Microsoft lorsque leurs [fonctionnalités de facture directe seront limitées](restricted-direct-bill-capabilities.md).
@@ -127,9 +127,9 @@ Vous gérez vos clients de facturation directe et vos clients de revendeurs indi
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Pour identifier les clients que vous avez acquis en tant que partenaire de facture directe
 
-1. Sélectionner **les clients**
+1. Sélectionnez **Clients**.
 
-2. Sélectionner un client pour afficher ses détails
+2. Sélectionnez un client pour afficher ses détails.
 
 3. Si ce client est un client que vous avez acquis en tant que partenaire de facturation directe, vous verrez des options pour **Ajouter** ou **afficher des produits** et vous verrez leurs abonnements.
 
@@ -162,7 +162,7 @@ Vous pouvez utiliser la fonctionnalité d’extension de la relation Reseller po
 
 - Votre fournisseur indirect ne sera pas fourni avec [des privilèges d’administration délégués](customers-revoke-admin-privileges.md) au locataire client. Si votre fournisseur indirect requiert des privilèges d’administration déléguée, vous devez envoyer une invitation de revendeur indirect au client à la place.
 
-- Une fois la relation du revendeur établie, le fournisseur indirect apparaît en tant que partenaire CSP auprès du client sous la page des relations avec les partenaires dans le [Centre d’administration M365](https://admin.microsoft.com/AdminPortal/Home#/partners) et [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business).
+- Une fois la relation du revendeur établie, le fournisseur indirect s’affiche en tant que partenaire CSP pour le client sous la page relations des partenaires dans [Microsoft 365 Centre d’administration](https://admin.microsoft.com/AdminPortal/Home#/partners) et [Microsoft Store pour l’entreprise](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Pour éviter toute confusion et une mauvaise compréhension, vous êtes contractuellement tenu par votre accord de partenariat pour informer et obtenir le consentement du client de facturation directe avant d’utiliser la fonctionnalité d’extension de relation pour établir une relation de revendeur entre un client de facture directe existant et un fournisseur indirect.
@@ -223,9 +223,9 @@ Microsoft Cloud accord est valide jusqu’au 31 janvier 2020. Après cette date,
 
 En mode indirect CSP, les revendeurs indirects n’ont pas de relations de facturation avec Microsoft. Au lieu de cela, les revendeurs indirects obtiennent des abonnements à leurs clients via leurs fournisseurs indirects. Lors de la transition d’un partenaire direct Bill vers un revendeur indirect, vous devez transférer les abonnements existants en tant que partenaires de facturation directe à votre fournisseur indirect. Pour ce faire, vous pouvez utiliser la fonctionnalité de transfert d’abonnements auto-servi dans le tableau de bord de l’espace partenaires.
 
-### <a name="pre-requisites"></a>Conditions préalables
+### <a name="prerequisites"></a>Prérequis
 
-- Cette fonctionnalité est uniquement disponible pour les partenaires de transition qui ont effectué l’inscription du revendeur indirect à l’aide de leurs locataires de partenaire direct de facture existants.
+- Cette fonctionnalité est uniquement disponible pour les partenaires de transition qui ont effectué l’inscription du revendeur indirect à l’aide de leurs locataires de partenaires directs.
 
 - Avant de transférer les abonnements associés à un client donné, le partenaire de transition doit déplacer le client vers un fournisseur indirect.
 
