@@ -1,7 +1,7 @@
 ---
 title: Créer un compte MPN dans l’Espace partenaires
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment les membres Microsoft Partner Network peuvent créer un compte Espace partenaires pour gérer leurs revenus et leurs compétences du réseau.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013688"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570207"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Créer un compte MPN dans l’Espace partenaires pour gérer les revenus et les compétences du réseau
 
@@ -23,7 +23,7 @@ Si vous débutez avec Microsoft Partner Network (MPN) et que vous n’avez pas d
 
 ## <a name="prerequisites"></a>Prérequis 
 
-Quand vous êtes prêt à créer un compte dans l’Espace partenaires, vous devez disposer des éléments suivants pour commencer.  Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer :
+Quand vous êtes prêt à créer un compte dans l’Espace partenaires, vous devez disposer des éléments suivants.  Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer :
 
 - E-mail professionnel de l’entreprise OU compte professionnel Office 365. Pour plus d’informations, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md) 
  
@@ -40,7 +40,8 @@ Quand vous êtes prêt à créer un compte dans l’Espace partenaires, vous dev
 
 ## <a name="get-started"></a>Bien démarrer
 
-1. Commencez avec votre adresse e-mail professionnelle fournie par votre entreprise, comme you@yourcompanyname.com.
+1. Sur la page [**Bien démarrer**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership), commencez par votre adresse e-mail professionnelle qui vous a été donnée par votre société, telle que you@yourcompanyname.com.
+
  
     a.  L’adresse e-mail doit être valide et accessible par vous, car nous envoyons un code de vérification pour continuer.
 

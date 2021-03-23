@@ -1,7 +1,7 @@
 ---
 title: Gérer votre compte Espace partenaires
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment utiliser l’Espace partenaires pour gérer le profil, les informations bancaires et fiscales, les rôles et les autorisations de votre entreprise.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235968"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486998"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gérer votre compte Espace partenaires : profil de société, informations bancaires, rôles, autorisations, etc.
 
@@ -26,7 +26,7 @@ Le compte que vous créez dans l’Espace partenaires lors de votre inscription 
 Consultez également les articles [Inviter des employés à rejoindre l’Espace partenaires](guide-to-migration.md) et [Ajouter un nouvel utilisateur](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Le menu des paramètres du compte change en fonction des programmes auxquels vous êtes inscrit. Par exemple, si vous êtes partenaire du programme Fournisseur de solutions Cloud, vous pouvez gérer votre offre Azure Partner Shared Services à partir des paramètres du compte.
+>Le menu des paramètres du compte change en fonction des programmes auxquels vous êtes inscrit. Par exemple, si vous êtes partenaire du programme Fournisseur de solutions cloud (CSP), vous pourrez gérer vos services Azure Shared à partir des **paramètres du compte**.
 
 ## <a name="account-management"></a>Account management
 
@@ -51,6 +51,20 @@ Si votre entreprise fait partie du programme Fournisseur de solutions Cloud, lor
 L’onglet Partenaire inclut toutes les informations juridiques relatives à l’entreprise, telles que la dénomination sociale et l’adresse légale de la société, ainsi que l’interlocuteur principal et les différents sites de l’entreprise. Pour les partenaires qui sont fournisseurs de solutions Cloud, l’onglet Revendeur comprend le **profil Support client**.
 
 Si votre entreprise ne fait pas partie du programme Fournisseur de solutions Cloud, l’affichage par défaut montrera uniquement l’onglet **Partenaire**, avec le **profil Support client**.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Lorsque vous faites partie de plusieurs comptes
+
+Vous pouvez faire partie de plusieurs comptes. Pour savoir si vous faites partie de plusieurs comptes, vérifiez la présence du « sélecteur de compte » dans le menu de navigation de gauche.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identifier le sélecteur de compte":::
+
+Si vous ne voyez pas le sélecteur de compte, vous ne faites partie que d’un seul compte. 
+
+Lorsque vous cliquez sur ce sélecteur, tous les comptes dont vous faites partie apparaissent sous la forme d’une liste. Vous pouvez ensuite cliquer sur n’importe lequel d’entre eux et basculer vers ce compte. Tout ce qui suit s’affiche dans le contexte de ce compte.  
+
+Dans l’exemple ci-dessous, l’utilisateur connecté fait partie des trois comptes en surbrillance. L’utilisateur peut passer de l’un à l’autre en cliquant sur un compte.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Les comptes dont vous faites partie":::
 
 ## <a name="organization-profile"></a>Profil de l’organisation
 
@@ -90,7 +104,7 @@ Cette page contient vos informations de revenu et taxe, notamment vos informatio
 
 ## <a name="user-management"></a>Gestion des utilisateurs
 
-Votre mode de travail dans l’Espace partenaires et les zones que vous pouvez voir ou mettre à jour dépendent de votre rôle et des autorisations attachées à ce rôle. Par exemple, si vous n’êtes pas administrateur d’incentives, vous ne pouvez rien changer dans les pages Primes incitatives, mais vous pouvez éventuellement voir les données.
+Votre mode de travail dans l’Espace partenaires et les zones que vous pouvez voir ou mettre à jour dépendent de votre rôle et des autorisations attachées à ce rôle. Par exemple, si vous n’êtes pas administrateur d’incentives, vous ne pouvez rien changer dans les pages Primes incitatives, mais vous pouvez éventuellement voir les données. En savoir plus sur [les rôles et les autorisations](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Mettre à jour l’e-mail par défaut
 

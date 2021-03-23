@@ -8,17 +8,188 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/15/2021
+ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220293"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570190"
 ---
 # <a name="march-2021-announcements"></a>Annonces de mars 2021
 
 Cette page contient les annonces de l’Espace partenaires Microsoft de mars 2021.
+
+________________
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Mettre à jour un nom de société légal dans l’Espace partenaires
+
+### <a name="categories"></a>Catégories
+
+- Date : 16/03/2021
+- Assurer efficacité et adaptation
+
+### <a name="summary"></a>Résumé
+
+À partir de mars 2021, les partenaires du MPN (Microsoft Partner Network) et les revendeurs indirects CSP peuvent mettre à jour leur nom de société légal via l’Espace partenaires.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires MPN et revendeurs indirects CSP (non applicables aux partenaires à facturation directe CSP)
+
+### <a name="details"></a>Détails
+
+À partir de mars 2021, les partenaires MPN et les revendeurs indirects CSP peuvent mettre à jour de manière autonome leur nom de société légal via l’Espace partenaires. Avec cette nouvelle fonctionnalité, les partenaires n’ont plus besoin de soumettre un ticket de support dans l’Espace partenaires pour mettre à jour le nom de leur société. Cela permet aux partenaires de gagner un temps précieux.
+
+Pour mettre à jour le nom de société légal, procédez comme suit :
+
+1. L’administrateur général ou l’administrateur de compte doit se connecter à l’Espace partenaires et accéder aux [Paramètres du compte](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn).
+
+2. Mettez à jour le nom de société légal.
+
+3. Une fois le nom mis à jour enregistré, Microsoft vérifie les informations fournies. La vérification peut être en attente pendant cinq à sept jours.
+
+4. Une fois la vérification terminée, le nom légal mis à jour est associé au locataire du partenaire.
+
+5. Si l’état de la vérification passe à Rejeté, consultez la rubrique [Vérifier les informations de votre compte](https://docs.microsoft.com/partner-center/verification-responses) pour résoudre le problème.
+
+>[!NOTE]
+>Assurez-vous que le nom de la société dans votre profil de société légal est exempt de fautes d’orthographe et d’abréviations, et qu’il correspond exactement à celui figurant au registre officiel des sociétés. Pour plus d’informations sur la mise à jour du profil de votre organisation, consultez [Vérifier le profil de votre organisation](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Partagez ces informations dans votre organisation pour permettre à l’équipe compétente de passer en revue et de mettre à jour ses processus.
+
+### <a name="questions"></a>Des questions ?
+
+Veuillez contacter le [Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) si vous avez des questions ou des requêtes ou si vous avez besoin de plus d’informations.
+
+________________
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Mise à jour de l’évolution du programme Fournisseur de solutions cloud (CSP) et changements du programme Open License
+
+### <a name="categories"></a>Catégories
+
+- Date : 15/03/2021
+- Fonctionnalités
+
+### <a name="summary"></a>Résumé
+
+De nouvelles offres logicielles perpétuelles commerciales et pour le secteur public vont être disponibles dans le programme CSP et des changements vont être apportés au programme Open Licensing.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Distributeurs commerciaux et revendeurs managés qui vendent via le programme Open License, ainsi que tous les partenaires CSP qui effectuent des transactions sur les logiciels perpétuels
+
+### <a name="details"></a>Détails
+
+En septembre 2020, Microsoft a [annoncé](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) une série d’étapes dans notre parcours de transformation numérique pour étendre des opportunités aux partenaires du programme CSP, y compris la disponibilité des logiciels locaux pour les partenaires. Ces changements permettent aux partenaires de développer leur activité et d’étendre leur portée en tirant parti des licences logicielles dans le CSP, ce qui leur donne un avantage en termes de réussite dans le monde actuel où le cloud passe avant toute autre technologie. En outre, cela permet aux clients d’effectuer leur transition vers le cloud et offre aux partenaires la flexibilité nécessaire pour les environnements de cloud hybride des clients.
+
+Dans la logique de cette transformation numérique, nous annoncerons les changements suivants :
+
+- Le 1er juillet 2021 : aucun(e) référence SKU, produit ou promotion ne sera ajouté(e) à la liste des prix du programme Open License.
+
+- 7 juillet 2021 : deux offres commerciales, une version authentique de Windows et Visual Studio Professional, ainsi que des offres du secteur public (gouvernement, éducation et organisme à but non lucratif ; voir [l’annonce](https://docs.microsoft.com/partner-center/announcements/2020-december#9)) seront ajoutées à la liste des prix logiciels perpétuels du CSP.  La liste des prix se trouve dans la section Logiciels de la page [Vendre > Tarification et offres](https://partnercenter.microsoft.com/pcv/sales) de l’Espace partenaires et sera republiée à cette date.
+
+Pour obtenir des informations complètes sur l’évolution du programme CSP et les changements du programme Open License, consultez les **Étapes suivantes** ci-dessous.
+
+### <a name="next-steps"></a>Étapes suivantes :
+
+- Évolution du programme CSP : consultez les supports de préparation [Logiciels perpétuels dans le programme Fournisseur de solutions cloud](https://partner.microsoft.com/resources/collection/software-in-csp#/). Utilisez cette [carte de préparation](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) pour localiser rapidement les informations appropriées pour votre rôle.
+
+- Changements du programme Open License : consultez les supports de préparation [Évolution du programme CSP et changements du programme Open License](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/). Utilisez cette [carte de préparation](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) pour localiser rapidement les informations appropriées pour votre rôle.
+
+### <a name="questions"></a>Questions
+
+Pour toute autre question, consultez les communautés Yammer CSP appropriées.
+
+_______________
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Mise à jour d’une annonce précédente : évaluations Premium, extension du Gestionnaire de conformité
+
+### <a name="categories"></a>Catégories
+
+- Date : 15/03/2021
+- Développer votre entreprise
+
+### <a name="summary"></a>Résumé
+
+Les offres d’essai ne doivent pas figurer dans la liste des prix et seront supprimées.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires effectuant des transactions dans le cadre du programme Fournisseur de solutions cloud
+
+### <a name="details"></a>Détails
+
+Les offres d’essai ne doivent pas figurer dans la liste des prix. Elles seront supprimées de la liste des prix le 1er mai 2021.
+
+L’annonce d’origine se trouve [ici](https://docs.microsoft.com/partner-center/announcements/2021-february#4).
+
+### <a name="additional-resources"></a>Ressources supplémentaires
+
+- [Sécurité et conformité de Microsoft 365 E5](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
+
+- [Créer et gérer des évaluations dans le Gestionnaire de conformité Microsoft - Conformité Microsoft 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Passez en revue les ressources sur ce sujet et partagez ces informations avec les parties prenantes appropriées au sein de votre organisation.
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Si vous avez des questions sur ces offres, consultez les communautés Yammer appropriées.
+
+________________
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migrer vos solutions depuis One Commercial Partner (OCP) go-to market (GTM) vers la place de marché commerciale Microsoft
+
+### <a name="categories"></a>Catégories
+
+- Date : 12/03/2021
+- Fonctionnalités
+
+### <a name="summary"></a>Résumé
+
+À partir du 29 mars 2021, vous commencerez à découvrir les fonctionnalités One Commercial Partner (OCP) go-to market (GTM) limitées. Nous vous encourageons à migrer vos solutions vers la place de marché commerciale dans l’Espace partenaires.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Organisations qui co-vendent des solutions dans OCP GTM
+
+### <a name="details"></a>Détails
+
+En décembre 2020, nous avons commencé notre migration de l’outil Microsoft OCP GTM vers la place de marché commerciale Microsoft dans l’Espace partenaires. Cette transition étend les capacités de la place de marché commerciale où vous pouvez présenter vos solutions à des millions de clients, partager de manière bidirectionnelle des opportunités avec d’autres vendeurs Microsoft et partenaires, et co-vendre des solutions innovantes.
+
+L’étape suivante de la transition aura lieu le 29 mars 2021. C’est à ce moment-là que vous allez découvrir des fonctionnalités OCP GTM limitées, avec des champs qui seront désormais en lecture seule. Si vous co-vendez actuellement des solutions dans OCP GTM, nous vous encourageons à migrer vos solutions vers la place de marché commerciale pour tirer parti de ses fonctionnalités et simplifier votre expérience de publication. 
+
+La migration vers la place de marché commerciale fait de l’Espace partenaires la destination principale de l’expérience de publication pour la co-vente. C’est là que vous pouvez continuer à développer votre activité en connectant vos solutions à nos clients partagés via les mêmes canaux et expériences dans les produits que ce que nous utilisons pour les produits Microsoft. [En savoir plus sur la place de marché commerciale](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Si vous n’avez pas encore migré vos solutions, suivez les instructions détaillées dans le [guide de transition](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) ou consultez le [tutoriel vidéo pas à pas](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) pour effectuer toutes les activités de migration et commencer à publier votre ou vos solutions dans la place de marché commerciale.
+
+- Pour toute question relative aux fonctionnalités limitées dans OCP GTM, consultez la [FAQ sur les exigences de co-vente pour publier dans la place de marché commerciale Microsoft](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf). (Consultez la section « Fonctionnalités limitées dans OCP GTM à partir du 29 mars 2021 ».)
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Contactez le [support](https://partner.microsoft.com/support/?stage=1) si vous avez des questions ou si vous avez besoin de plus d’informations.
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Développement de la nouvelle expérience commerciale dans le programme CSP pour Azure en Russie
+
+### <a name="categories"></a>Catégories
+
+- Date : 10/03/2021
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Tous les partenaires en Russie effectuant des transactions commerciales dans le cadre du programme Fournisseur de solutions cloud (CSP).
+
+### <a name="details"></a>Détails
+
+À partir du 10 mars 2021, nous sommes ravis d’annoncer la disponibilité de la **nouvelle expérience commerciale dans CSP pour Azure en Russie**. Cette expérience permet de simplifier et d’améliorer la façon dont les clients achètent et utilisent les services Azure. Elle fournit également aux partenaires du programme CSP une vue cohérente de la tarification Azure entre les mouvements des ventes, la tarification en USD à des fins de cohérence générale, l’alignement des dates de facturation et l’accès à Azure Cost Management.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Plusieurs ressources sont disponibles pour présenter la nouvelle expérience commerciale Azure et fournir des informations supplémentaires. Recherchez les dernières FAQ, les parcours, les vidéos et bien plus encore dans la [Galerie de ressources des mises à jour du programme CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Téléchargement de logiciel et fourniture de clé de licence logicielle dans l’Espace partenaires
