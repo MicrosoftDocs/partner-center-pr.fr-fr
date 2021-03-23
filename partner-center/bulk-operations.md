@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712187"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880716"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Opérations en bloc pour les opportunités de co-vente à l’aide de fichiers de valeurs séparées par des virgules (CSV)
 
@@ -82,7 +82,7 @@ Sous-état de la référence du partenaire|Oui|Indique l’état exact de la tra
 État de la référence Microsoft|Dépend|Indique l’état de la demande de covente que vous avez envoyée à Microsoft pour rechercher de l’aide. Ce champ est en lecture seule. Toute modification apportée à ce champ lors de l’importation des données sera ignorée.| Pending
 Raison refusée/perdue|Dépend| Vous devez fournir ces informations uniquement si vous modifiez le sous-état de votre champ pour qu’il soit refusé ou perdu. Sinon, vous pouvez ignorer cette colonne. <br/> **Entrez un nombre en fonction des options ci-dessous** <br/><br/> **1**-le budget du projet n’est pas adéquat  <br/> **2**-le client n’a pas répondu  <br/> **3**-le client a choisi un autre fournisseur  <br/> **4** -exigence du client non remplie  <br/> **5** -pas un client <br/> **6**-la chronologie proposée était trop petite <br/> **7** -signaler comme abus, courrier indésirable ou hameçonnage <br/> **8** -autres |6|
 Étape de vente|Non|Il s’agit du champ pour indiquer l’étape détaillée des ventes de la référence. En savoir plus sur les étapes de vente [ici](./manage-co-sell-opportunities.md)|40
-Estimation de la valeur de la transaction|Oui|«La valeur de la transaction basée sur les conversations initiales avec le client. Cela peut être modifié jusqu’à ce que la transaction atteigne l’un des États des terminaux| remportée ou perdue.»|12563
+Estimation de la valeur de la transaction|Oui|Valeur de la transaction basée sur les conversations initiales avec le client. Cela peut être modifié jusqu’à ce que la transaction atteigne l’un des États terminal **gagnés** ou **perdus.**|12563
 Devise|Oui|Devise dans laquelle la valeur de transaction est entrée. Vous trouverez [ici](https://en.wikipedia.org/wiki/ISO_4217)les codes de devise.|USD
 Date de clôture estimée|Oui|Date de clôture estimée de la transaction en fonction des conversations initiales avec le client au format MM/jj/aaaa. <br/> **La date doit être le fuseau horaire UTC. Toutes les dates affichées dans l’interface utilisateur de l’espace partenaires sont basées sur les fuseaux horaires localisés. Il peut y avoir +/-une différence d’un jour dans l’interface utilisateur de l’espace partenaires si vous examinez la référence pour laquelle vous avez fourni la date au fuseau horaire UTC.**|1/30/2020
 ID CRM|Non|Identificateur de cette référence spécifique dans votre système CRM, le cas échéant. Il s’agit d’un champ de saisie de texte de forme libre.|34234324-sdfsdf-345345-SFD

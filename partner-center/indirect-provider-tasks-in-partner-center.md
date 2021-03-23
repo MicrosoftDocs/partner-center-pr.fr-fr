@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567047"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880767"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -101,7 +101,7 @@ Pour les abonnements existants, si vous décidez d’utiliser un revendeur indir
 | **Pour ce faire** | **Action** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Permettre au revendeur de gérer le compte d’un client et disposer des autorisations d’administrateur pour gérer ses abonnements | Associer un revendeur à un compte client lors de l’ajout d’un nouveau client | Sur la page **nouveau client** |
-| Permettre au revendeur de gérer le compte d’un client Azure|Associer un revendeur à un compte client Azure lors de l’ajout d’un nouveau client|Dans le **portail Azure Service** , sélectionnez [paramètres utilisateur](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour octroyer les autorisations de **propriétaire du locataire** du revendeur indirect.|
+| Permettre au revendeur de gérer le compte d’un client Azure|Associer un revendeur à un compte client Azure lors de l’ajout d’un nouveau client|Dans le **portail Azure Service**, sélectionnez [paramètres utilisateur](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) pour octroyer les autorisations de **propriétaire du locataire** du revendeur indirect.|
 | Fournir le crédit du revendeur pour les incentives | Associer le revendeur à l’abonnement (nouveau ou existant) | Sur la page **nouvel abonnement** |
 | Déléguer le support client pour des abonnements spécifiques au revendeur | Sélectionnez le revendeur dans la liste des **contacts de support désignés** | Sur la page de détails de l’abonnement : sélectionnez le client dans la page des **clients** , puis sélectionnez l’abonnement dans la page **abonnements** du client. |
 
@@ -138,11 +138,11 @@ Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez 
 
 3. Sur la page **nouvel abonnement** , sélectionnez le ou les abonnements que le client souhaite acheter, puis entrez le nombre de licences dont le client a besoin.
 
-4. Sélectionnez **Suivant : Vérification** ).
+4. Sélectionnez **Suivant : Vérification**).
 
 5. Si la commande est correcte, sélectionnez **Envoyer**. Si la commande est incorrecte, sélectionnez **Annuler** pour annuler la totalité de l’opération et recommencer.
 
-6. Une fois que vous avez envoyé la commande, la page **confirmation** s’affiche. Sous **informations d’installation** , le nom du compte d’utilisateur administrateur et le mot de passe temporaire s’affichent. Copiez les informations sur le nom et le mot de passe du compte d’utilisateur pour pouvoir l’envoyer au nouveau client.
+6. Une fois que vous avez envoyé la commande, la page **confirmation** s’affiche. Sous **informations d’installation**, le nom du compte d’utilisateur administrateur et le mot de passe temporaire s’affichent. Copiez les informations sur le nom et le mot de passe du compte d’utilisateur pour pouvoir l’envoyer au nouveau client.
 
     > [!IMPORTANT]  
     > Veillez à noter le nom et le mot de passe du compte d’utilisateur, car vous ne pourrez pas accéder à ces informations une fois cette page fermée.
@@ -168,6 +168,10 @@ Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau
 7. Sélectionnez **Envoyer** lorsque vous avez terminé.
 
 ## <a name="next-steps"></a>Étapes suivantes
+
+Trouvez les réponses à vos questions sur l’accord de partenariat Microsoft
+
+- [Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter l’accord de partenariat Microsoft-FAQ](mpa-indirect-provider-faq.md)
 
 Pour plus d’informations sur la gestion des comptes client et des abonnements, consultez :
 
