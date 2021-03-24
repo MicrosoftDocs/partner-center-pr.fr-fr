@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514117"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712458"
 ---
 # <a name="january-2021-announcements"></a>Annonces de janvier 2021
 
@@ -315,7 +315,7 @@ Tous les partenaires fournisseurs de solutions Cloud
 ### <a name="details"></a>Détails
 
 >[!NOTE]
->Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](./2021-march.md#4).
 
 Comme [annoncé](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) aujourd’hui, nous avons le plaisir de vous informer que les licences logicielles perpétuelles commerciales sont désormais en disponibilité générale et peuvent être vendues par tous les partenaires fournisseurs de solutions Cloud. Le tarif des logiciels perpétuels Fournisseur de solutions Cloud de l’Espace partenaires a été republié et inclut désormais des produits et zones géographiques supplémentaires.
 

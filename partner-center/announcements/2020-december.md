@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514100"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712543"
 ---
 # <a name="december-2020-announcements"></a>Annonces de décembre 2020
 
@@ -275,7 +275,7 @@ Tous les partenaires fournisseurs de solutions Cloud
 ### <a name="details"></a>Détails
 
 >[!NOTE]
->Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](./2021-march.md#4).
 
 Nous aimerions vous rappeler qu’à partir du **19 janvier 2021**, tous les partenaires inscrits au programme CSP pourront vendre des licences de logiciels perpétuels commerciales pour un déploiement local dans le cadre du programme CSP. Ainsi, les clients bénéficieront de la flexibilité dont ils ont besoin en matière de licence dans le cadre de leur transformation numérique.
 

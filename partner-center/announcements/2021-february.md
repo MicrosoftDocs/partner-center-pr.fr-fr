@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124786"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712475"
 ---
 # <a name="february-2021-announcements"></a>Annonces de février 2021
 
@@ -77,7 +77,7 @@ Pour plus d’informations, consultez l’article mentionné dans la section sui
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-En savoir plus sur la capacité des opérations en bloc en lisant [Opérations en bloc pour les opportunités de co-vente en utilisant un fichier de valeurs séparées par des virgules (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+En savoir plus sur la capacité des opérations en bloc en lisant [Opérations en bloc pour les opportunités de co-vente en utilisant un fichier de valeurs séparées par des virgules (CSV)](../bulk-operations.md).
 
 ### <a name="questions"></a>Vous avez des questions ?
 
@@ -107,7 +107,7 @@ Pour plus d’informations, consultez l’article mentionné dans la section sui
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-Pour plus d’informations sur la fonctionnalité de migration des transactions, consultez la section **Migration des transactions PSC** dans le [Guide de la co-vente dans l’Espace partenaires pour les partenaires qui migrent depuis Partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+Pour plus d’informations sur la fonctionnalité de migration des transactions, consultez la section **Migration des transactions PSC** dans le [Guide de la co-vente dans l’Espace partenaires pour les partenaires qui migrent depuis Partner Sales Connect (PSC)](../psc-to-pc.md).
 
 ### <a name="questions"></a>Vous avez des questions ?
 
@@ -139,7 +139,7 @@ Pour plus d’informations, consultez l’article mentionné dans la section sui
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-Pour plus d’informations, consultez notre guide sur la [gestion des opportunités de co-vente dans l’Espace partenaires](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+Pour plus d’informations, consultez notre guide sur la [gestion des opportunités de co-vente dans l’Espace partenaires](../manage-co-sell-opportunities.md).
 
 ### <a name="questions"></a>Vous avez des questions ?
 

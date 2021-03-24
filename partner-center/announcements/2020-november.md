@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756399"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712526"
 ---
 # <a name="november-2020-announcements"></a>Annonces de novembre 2020
 
@@ -305,11 +305,11 @@ L’Espace partenaires est conçu pour gérer un volume élevé de requêtes, ma
 
 ### <a name="apis-to-be-throttled"></a>API devant être limitées
 
-|**opération**|**Documentation sur Espace partenaires**|
+| **opération** | **Documentation sur Espace partenaires** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[Obtenir tous les abonnements d’un client](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Obtenir un abonnement par ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[Obtenir toutes les commandes d’un client](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders|[Obtenir toutes les commandes d’un client](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Obtenir une commande par ID](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Obtenir l’état de provisionnement d’un abonnement](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Gérer les commandes et gérer un abonnement](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ L’Espace partenaires est conçu pour gérer un volume élevé de requêtes, ma
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Obtenir l’état d’inscription d’un abonnement](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Obtenir tous les transferts d’un client](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Obtenir l’état de mise à niveau du produit](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Obtenir la liste des offres de conversion d’essai](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Obtenir la liste des offres de conversion d’essai](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Cette annonce a pour but de fournir aux partenaires une connaissance anticipée des changements à venir, afin de leur permettre de se préparer. Nous recommandons vivement aux partenaires de se familiariser avec ces API et de réfléchir à l’utilisation de l’API du journal d’activité afin d’optimiser l’efficacité et d’éviter toute limitation. Pour plus d’informations sur cette fonctionnalité, reportez-vous aux détails fournis dans [Aide sur la limitation des API](/partner-center/develop/api-throttling-guidance). 

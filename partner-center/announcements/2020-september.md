@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514083"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712509"
 ---
 # <a name="september-2020-announcements"></a>Annonces de septembre 2020
 
@@ -37,7 +37,7 @@ Tous les partenaires fournisseurs de solutions Cloud (CSP) effectuant des transa
 ### <a name="details"></a>Détails
 
 >[!NOTE]
->Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](./2021-march.md#4).
 
 Aujourd’hui, les partenaires peuvent utiliser l’Espace partenaires ou le Centre d’administration Microsoft 365 pour télécharger des logiciels et fournir des clés de licence pour les commandes de logiciels CSP. À compter du **19 janvier 2021**, les fonctionnalités de téléchargement de logiciels et d’octroi de clés de licence logicielle seront supprimées, et les partenaires feront en sorte que les clients utilisent pour cela exclusivement le **Centre d’administration Microsoft 365**. La page de l’Espace partenaires consacrée aux logiciels des clients contient un « lien ciblé » vers le Centre d’administration Microsoft 365, où vous pouvez diriger les clients pour obtenir les licences des clients et les téléchargements des logiciels. Les clients bénéficient ainsi d’une expérience la plus sûre et la plus efficace possible.
 
@@ -78,7 +78,7 @@ Tous les partenaires des programmes CSP et Open
 ### <a name="details"></a>Détails
 
 >[!NOTE]
->Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Suite au feedback des partenaires, nous rétablissons la fonctionnalité de fourniture de l’Espace partenaires permettant d’obtenir des logiciels et des clés de licence pour les commandes de logiciels avec abonnement perpétuel et pour serveur. Elle sera rétablie à son état antérieur à sa suppression du 19 janvier 2021. Pour plus d’informations, consultez l’[annonce de mars 2021](./2021-march.md#4).
 
 Le programme Microsoft CSP a connu un développement exponentiel, avec plus de 90 000 sociétés participantes. Il s’agit de notre principale initiative de ventes partenaire pour les PME et les clients professionnels plus petits dans le cadre de la nouvelle expérience commerciale. Portés par cet élan, nous avons annoncé aujourd’hui l’extension des opportunités offertes aux partenaires dans le cadre du programme CSP. Les détails figurent dans notre [billet de blog pour partenaires](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
