@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b37e1ffef291defec0cba03aa9306f7bc82f5cd9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0f90162ce7d3848fc930c956077ae96994848696
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999963"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028449"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Utiliser l’Espace partenaires pour vendre des abonnements clients à des produits de la Place de marché commerciale
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires fournisseurs de solutions cloud
 
 En tant que partenaire du programme CSP, vous pouvez utiliser l’espace partenaires pour vendre des abonnements clients à des produits SaaS (Software as a service) qui ont été publiés sur la place de marché commerciale ([Microsoft AppSource](https://appsource.microsoft.com/) et la place de [marché Azure](https://azuremarketplace.microsoft.com/)) par des éditeurs de logiciels indépendants (ISV).
 

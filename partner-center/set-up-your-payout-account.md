@@ -2,20 +2,21 @@
 title: Configurer un compte de paiement et des déclarations de taxe – Place de marché commerciale Microsoft
 description: Pour recevoir de l’argent provenant de la vente d’offres dans la Place de marché commerciale, découvrez comment configurer votre compte de paiement et remplir les déclarations de taxe nécessaires.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492685"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028432"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurer votre compte de paiement et vos déclarations de taxe
 
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur des comptes
 - Administrateur général
@@ -54,7 +55,7 @@ Tout d’abord, vous devez créer un profil fiscal et l’attribuer aux programm
 
 4. Si vous souhaitez utiliser un profil fiscal existant, sélectionnez-le dans la liste déroulante. Dans le cas contraire, sélectionnez **Créer un nouveau profil** puis appuyez sur **Envoyer**. Vous serez redirigé vers la page des profils fiscaux.
 
-5. Cliquez sur le bouton **Modifier** pour modifier vos informations fiscales.
+5. Sélectionnez le bouton **modifier** pour modifier vos informations fiscales.
 
 6. Sélectionnez la case d’option appropriée, puis sélectionnez votre pays/région si vous y êtes invité. Cette étape détermine l’entité métier Microsoft qui sera utilisée pour effectuer des versements sur votre compte.
 
@@ -91,7 +92,7 @@ Un compte de paiement est le compte bancaire sur lequel nous envoyons les recett
 
 3. Sélectionnez le mode de paiement que vous souhaitez configurer.
 
-4. Sélectionnez un profil de paiement existant ou cliquez sur **Créer un nouveau profil de paiement** pour créer un nouveau profil pour le mode de paiement choisi.
+4. Sélectionnez un profil de paiement existant ou sélectionnez **créer un nouveau** profil de paiement pour créer un profil pour le mode de paiement choisi.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Créer un profil de paiement bancaire
 
@@ -111,7 +112,7 @@ Si vous avez choisi d’utiliser un compte bancaire pour recevoir des paiements,
 
 5. Vous devrez sélectionner un profil de paiement pour chaque programme auquel vous participez, même si vous pouvez utiliser le même profil pour plusieurs programmes.
 
-6. Cliquez sur Envoyer pour enregistrer vos changements.
+6. Sélectionnez Envoyer pour enregistrer vos modifications.
 
    > [!NOTE]
    > Microsoft peut prendre jusqu’à 48 heures pour valider les informations de votre profil. Une fois ce processus terminé, *l’état de vérification* indique **Terminé**
@@ -130,7 +131,7 @@ Vous pouvez modifier les profils de paiement existants si vous devez apporter de
 
 2. Sous le titre *Paiement et taxe*, sélectionnez **Profils de paiement et de taxe**.
 
-3. Vos profils de paiement sont listés avec leur état. Recherchez le profil que vous souhaitez modifier, puis cliquez sur **Modifier** à droite de l’écran
+3. Vos profils de paiement sont listés avec leur état. Recherchez le profil que vous souhaitez modifier et sélectionnez **modifier** à l’extrême droite
 
 > [!IMPORTANT]
 > La modification de votre compte de paiement peut retarder vos paiements jusqu’à un cycle de paiement. Ce retard se produit parce que nous devons vérifier le changement de compte, comme nous l’avons fait lorsque vous avez configuré le compte de paiement pour la première fois. Vous serez payé pour le montant total une fois que votre compte aura été vérifié. Tout paiement dû dans le cycle de paiement actuel sera ajouté au cycle suivant Pour plus d’informations, consultez la rubrique sur [le marché commercial](marketplace-get-paid.md).
@@ -203,7 +204,7 @@ Si vous avez choisi d’utiliser un compte bancaire pour recevoir des paiements,
 3. Fournissez les détails du bénéficiaire.
 4. De retour sur la page *Attribution de profil*, sélectionnez la devise que vous souhaitez que nous utilisions pour émettre vos paiements.
 5. Vous devrez sélectionner un profil de paiement pour chaque programme auquel vous participez, même si vous pouvez utiliser le même profil pour plusieurs programmes.
-6. Cliquez sur Envoyer pour enregistrer vos changements.
+6. Sélectionnez Envoyer pour enregistrer vos modifications.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

@@ -9,24 +9,21 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917249"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028313"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associations de clients via le modèle CPOR (Partner of record) revendiqué pour Microsoft 365 et Dynamics 365
 
-**S’applique à**
 
-- Espace partenaires
-
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur de primes incitatives
 
-Le 1er octobre 2019, Microsoft a commencé à utiliser le modèle d’enregistrement (CPOR) du partenaire demandeur pour gérer les associations que vous avez avec vos clients Microsoft 365 et Dynamics 365 en ce qui concerne la vente OSA (Online Services Advisory), l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business Incentives pour les applications.
+Le 1er octobre 2019, Microsoft a commencé à utiliser le modèle d’enregistrement (CPOR) du partenaire demandeur pour gérer les associations que vous avez avec votre Microsoft 365 et les clients Dynamics 365 en ce qui concerne la vente OSA (Online Services Advisory), l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business incentives sur les applications.
 
 >[!Important]
 > Les revendications de l’Association client (CPOR) s’appliquent uniquement à la vente des services de Conseil en ligne (OSA), à l’utilisation des services en ligne (OSU)-Microsoft 365 et aux programmes d’incentives des applications OSU-Business. Si vous soumettez une demande de remboursement pour un autre programme, tel que le fournisseur de solutions Cloud, le revendeur géré, l’hébergement ou la surface, reportez-vous à la procédure décrite ici. <br><br>Lorsque vous soumettez votre revendication, Microsoft la valide. Nous vous demanderons peut-être d’autres informations à ce stade. Nous informerons également le client de votre demande d’association. Les clients disposent de cinq jours ouvrés pour s’abonner. S’ils n’ont pas été refusés, votre association avec ce locataire et cette charge de travail spécifiques sera officielle. À ce stade, vous aurez accès aux données d’utilisation du client. 
@@ -43,7 +40,7 @@ Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
 - L' **activité** que vous avez effectuée et le type de revendication que vous souhaitez effectuer, telles que l’Association de pré-vente, d’utilisation ou de chiffre d’affaires
 
-- Le nom du **contact** , le titre et l’adresse de messagerie de votre client
+- Le nom du **contact**, le titre et l’adresse de messagerie de votre client
 
 - Pour Dynamics 365, vous devez également fournir le nom, le titre et l’adresse de messagerie du **contact technique** de votre client.
 
@@ -53,9 +50,9 @@ Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
 - **Produit (s)** ou charge (s) de travail que vous demandez
 
-- **Preuve d’exécution (PoE)** , telle qu’une déclaration de travail signée par le client. Vous pouvez également télécharger un modèle PoE à utiliser.
+- **Preuve d’exécution (PoE)**, telle qu’une déclaration de travail signée par le client. Vous pouvez également télécharger un modèle PoE à utiliser.
 
-- Pour les partenaires revendiquant l’Association du chiffre d’affaires uniquement : **Dynamics solution seller Name** , **Customer Name** et **Name of ISV Product/solution** . 
+- Pour les partenaires revendiquant l’Association du chiffre d’affaires uniquement : **Dynamics solution seller Name**, **Customer Name** et **Name of ISV Product/solution**. 
 
 Vous devez également comprendre les points suivants :
 
@@ -69,24 +66,24 @@ Vous devez également comprendre les points suivants :
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 
-2. Sélectionnez l’onglet **incentives** , sélectionnez **vue d’ensemble** , puis **associations client** .
+2. Sélectionnez l’onglet **incentives** , sélectionnez **vue d’ensemble**, puis **associations client**.
 
-3. En haut de la page des associations de clients, sélectionnez **+ Association client** .
+3. En haut de la page des associations de clients, sélectionnez **+ Association client**.
 
-4. Sélectionnez l’ **ID MPN** du site partenaire à associer au client, puis ajoutez le nom du domaine et l’ID d’annuaire du client. [Rechercher](find-ids-and-domain-names.md)
+4. Sélectionnez l’**ID MPN** du site partenaire à associer au client, puis ajoutez le nom du domaine et l’ID d’annuaire du client. [Rechercher](find-ids-and-domain-names.md)
 
-5. Sélectionnez **Continuer** .
+5. Sélectionnez **Continuer**.
 
-6. Sélectionnez la **zone de solution** et l' **activité** . 
+6. Sélectionnez la **zone de solution** et l' **activité**. 
 
    >[!Note]
    >
-   >Si vous sélectionnez Business Applications, sélectionnez **utilisation et/ou prévente** , ou association de **chiffre d’affaires** , puis sélectionnez **Continuer** . 
+   >Si vous sélectionnez Business Applications, sélectionnez **utilisation et/ou prévente**, ou association de **chiffre d’affaires**, puis sélectionnez **Continuer**. 
    <br><br>Si vous sélectionnez Revenue association, vous serez invité à fournir des informations légèrement différentes de celles indiquées ci-dessous.
 
-7. Entrez les informations appropriées dans la page **associer un client** , puis sélectionnez **créer une revendication** .
+7. Entrez les informations appropriées dans la page **associer un client** , puis sélectionnez **créer une revendication**.
 
-8. Sélectionnez le ou les produits associés à cette association de clients, puis sélectionnez **Continuer** .
+8. Sélectionnez le ou les produits associés à cette association de clients, puis sélectionnez **Continuer**.
 
 9. Renseignez les informations de contact du client, ainsi que les coordonnées de votre société. Tous les champs sont obligatoires. 
 
