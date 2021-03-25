@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2531534106f421e7378f1f3f0b29361792b4a4ac
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 72b4952dea16202f3a3b74a295a0c636152cb4cd
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114863"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028213"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Prise en charge de Microsoft-quand faire remonter les problèmes, comment les signaler ou comment vérifier l’intégrité du service
 
 **S’applique à**
 
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires pour Microsoft Government Cloud
 
 Si vous rencontrez des problèmes avec un service Microsoft ou avec l’espace partenaires, vous pouvez faire remonter à Microsoft pour obtenir de l’aide et suivre le problème jusqu’à ce qu’il soit résolu.
 
@@ -34,9 +33,9 @@ Si vous rencontrez des problèmes avec un service Microsoft ou avec l’espace p
 [Recevez des notifications de service automatisées avec nos API](get-automated-service-notifications-with-our-apis.md) : les fournisseurs de solutions Cloud peuvent obtenir des notifications de service automatisées pour les services de leurs clients.
 
 
- 
+ 
 
- 
+ 
 
 
 

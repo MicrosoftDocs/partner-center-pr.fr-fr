@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286494"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028262"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Afficher les conditions d’éligibilité pour les approvisionnements des services de planification
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur du partenaire MPN
+- Administrateur partenaire MPN
 
-Cette rubrique vous aide à en savoir plus sur les conditions d’éligibilité dont vous avez besoin pour que votre entreprise puisse inscrire ou fournir des contrats de services de planification Software Assurance pour Microsoft.
+Cet article vous aide à en savoir plus sur les conditions d’éligibilité que vous devez respecter avant que votre entreprise puisse inscrire ou fournir des contrats de services de planification Software Assurance pour Microsoft.
 
 >[!NOTE]
 > Outre la satisfaction des conditions d’éligibilité pour une offre de services de planification, vous devez également suivre plusieurs autres étapes avant de pouvoir fournir des contrats de service de planification Software Assurance. Pour obtenir une vue d’ensemble de toutes les étapes requises, consultez [services de planification Software Assurance dans l’espace partenaires](software-assurance-dps.md).

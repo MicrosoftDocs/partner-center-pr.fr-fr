@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645654"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028296"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Découvrez comment transférer les abonnements Azure d’un client à un autre partenaire
 
 **S’applique à**
 
-- Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires pour Microsoft Government Cloud
 - Espace partenaires pour Microsoft Global Cloud
-- Partenaires du programme Fournisseur de solutions Cloud
 
 Cet article décrit comment un client peut basculer ses services Microsoft Azure d’un fournisseur de solutions Cloud (CSP) vers un autre.
 
@@ -43,7 +42,7 @@ Pour faire basculer les services ou abonnements Azure d’un client vers un autr
 
    Créez un ticket de service Azure dans l’Espace partenaires pour demander un transfert d’abonnement&nbsp;:
 
-   1. Dans le menu espace partenaires, sélectionnez **clients**, sélectionnez votre client dans la liste, puis sélectionnez **gestion des services**. 
+   1. Dans le menu espace partenaires, sélectionnez **clients**, sélectionnez votre client dans la liste, puis sélectionnez **gestion des services**.
 
    2. Dans la section **Tickets de support**, cliquez sur le menu déroulant **Nouveau ticket** et choisissez **Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Pour faire basculer les services ou abonnements Azure d’un client vers un autr
      Get-AzRoleAssignment
      ```
 
-7. Supprimer les autorisations d’accès obsolètes
+7. Supprimer les autorisations d’accès obsolètes :
 
    - Dans le menu de l’Espace partenaires, sélectionnez **Clients**.
-   - Recherchez le client dans la liste. Sélectionnez (double-cliquez sur) le nom de la société. La page **abonnements** du client s’ouvre.
+   - Recherchez le client dans la liste. Sélectionnez (double-cliquez sur) le nom de la société. Cette action ouvre la page **abonnements** client.
    - Dans le menu des détails du client, sélectionnez **gestion des services**.
-   - Sous **Microsoft&nbsp;Azure**, cliquez sur le lien pour accéder au **portail de gestion Microsoft&nbsp;Azure**.
+   - Sous **Microsoft Azure**, sélectionnez le lien pour accéder à la **portail de gestion Microsoft Azure**.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

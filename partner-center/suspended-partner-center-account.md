@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365735"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028245"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurer un compte Espace partenaires suspendu : découvrez pourquoi cela se produit et ce que vous pouvez faire pour y remédier
 
@@ -22,8 +22,7 @@ Cet article explique ce qu’il faut faire si votre compte de l’Espace partena
 
 **S’applique à**
 
--  Espace partenaires
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires pour Microsoft Government Cloud
 
 **Rôles appropriés**
 
@@ -37,7 +36,7 @@ Cet article explique ce qu’il faut faire si votre compte de l’Espace partena
 
 Microsoft peut suspendre un compte Espace partenaires pour l'une des raisons suivantes :
 
-- Facture non réglée à 60 jours 
+- Facture non réglée à 60 jours
 - Utilisation abusive du compte
 - Quand des problèmes affectent les opérations du fournisseur indirect et ont un impact négatif sur votre compte (revendeurs indirects uniquement)
 - Lorsque votre profil de compte est dans un état d’échec ou de rejet
@@ -48,7 +47,7 @@ Si vous savez que votre compte est à jour, vérifiez les paramètres de votre [
 
 Si vous ne savez pas si votre compte est à jour, sélectionnez **facturation** dans le menu de l' **espace partenaires** pour vérifier votre facture. Cette page affiche votre historique et vos tendances de facturation, le solde du mois en cours, des liens vers votre facture et vos fichiers de rapprochement, ainsi que votre dernier paiement en date.
 
-Si votre compte est débiteur, suivez les instructions sur votre facture pour régulariser le paiement, puis envoyez au support une demande de réactivation de votre compte. 
+Si votre compte est en retard, suivez les instructions de votre facture pour organiser le paiement, puis envoyez une demande de support pour rétablir votre compte. 
 
 Pour obtenir de l’aide supplémentaire sur la réactivation de votre compte, contactez le [support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 
@@ -56,4 +55,4 @@ Pour obtenir de l’aide supplémentaire sur la réactivation de votre compte, c
 
 - [Vérifier votre profil de partenaire](update-your-partner-profile.md)
 
-- [Vérifier les informations de votre compte lors de votre inscription dans un nouveau programme de l’espace partenaires](verification-responses.md)
+- [Vérifier les informations de votre compte lors de votre inscription à un nouveau programme de l’Espace partenaires](verification-responses.md)

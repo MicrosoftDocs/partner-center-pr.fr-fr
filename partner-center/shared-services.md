@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247703"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028279"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Ajoutez des services partagés partenaires Azure pour que les partenaires puissent acheter des abonnements Azure pour leur propre usage
 
- 
 **Rôles appropriés**
 
 - Administrateur général
@@ -59,7 +58,7 @@ Vous trouverez la consommation Azure sur votre facture CSP et le fichier de réc
 
 ## <a name="azure-partner-shared-services-pricing"></a>Tarification des services partagés des partenaires Azure
 
-Pour afficher le nouveau fichier de tarification des services partagés partenaires Azure, consultez la page **vendre** des  >  **tarifs et des offres** , puis sélectionnez la liste des prix du mois en cours. Dans les semaines à venir, une API de carte à tarif spécifique sera également publiée.
+Pour afficher le nouveau fichier de tarification pour les services partagés partenaires Azure, accédez à la page **vendre** des  >  **tarifs et des offres** , puis sélectionnez la liste des prix du mois en cours. Dans les semaines à venir, une API de carte à tarif spécifique sera également publiée.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Offres de la place de marché et services partagés partenaires Azure
 
