@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185347"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549241"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
@@ -169,7 +169,7 @@ Pour obtenir plus de détails sur un gain, sélectionnez **Télécharger** en ha
 | participantName | Nom du partenaire de revenu | Tous |
 | partnerCountryCode | Lieu/pays/région du partenaire de revenu | Tous |
 | partNumber | Sera toujours vide | Certains programmes et places de marché incitants |
-| paymentId | Identificateur unique du paiement. Ce numéro figure généralement sur votre relevé bancaire | Paiements SAP uniquement |
+| paymentId | Identificateur unique permettant de mettre en corrélation toutes les transactions dans le rapport de transaction avec un paiement spécifique dans le rapport de paiement | Tous |
 | paymentStatus | État du paiement | Tous |
 | paymentStatusDescription | Description conviviale de l’état du paiement | Tous |
 | productId | Identificateur de produit unique | marketplaces |

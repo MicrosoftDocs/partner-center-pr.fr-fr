@@ -9,42 +9,38 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564769"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548935"
 ---
 # <a name="reset-my-password"></a>Réinitialiser mon mot de passe
-
-**S’applique à**
-
-- Espace partenaires
  
 **Rôles appropriés**
 
 - Administrateur général
-- Utilisateurs de l’espace partenaires
+- Tous les partenaires intéressés par l’espace partenaires
 
 
 Si vous ne vous souvenez pas de votre mot de passe de l’espace partenaires, vous pouvez le réinitialiser.
 
 ## <a name="to-reset-your-partner-center-password"></a>Pour réinitialiser votre mot de passe de l’espace partenaires
 
-Votre administrateur général doit avoir configuré la possibilité de réinitialiser votre mot de passe vous-même. (Si votre administrateur général n’a pas encore configuré cette configuration, vous devrez lui demander de [Réinitialiser votre mot de passe](reset-a-user-password.md).)
+Pour utiliser cette méthode, votre administrateur général doit déjà avoir configuré la possibilité de réinitialiser votre mot de passe. (Si votre administrateur général n’a pas effectué cette fonctionnalité, demandez-lui de [Réinitialiser votre mot de passe pour vous](reset-a-user-password.md).)
 
 1. Dans l’écran de **connexion** , sélectionnez **ne peut pas accéder à votre compte** , puis sélectionnez **suivant**.
 
 2. Sélectionnez **compte professionnel ou scolaire**.
 
-3. Vous êtes ensuite invité à entrer votre ID d’utilisateur et les caractères dans l’image ou l’audio. Sélectionnez ensuite **Suivant**.
+3. Entrez votre ID d’utilisateur et les caractères dans l’image ou l’audio. Sélectionnez ensuite **Suivant**.
 
 4. Configurez votre nouveau mot de passe.
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Si votre administrateur général a quitté la société
 
-Si votre administrateur général a quitté votre entreprise ou a été déplacé vers un autre rôle et que vous devez ajouter un nouvel administrateur général, vous devez enregistrer une demande de service sur le [portail Microsoft Partner Network](https://partner.microsoft.com/commercial#/). L’agent de support peut demander l’élévation d’un utilisateur à l’administrateur général si votre demandeur est en mesure de fournir les informations d’identité personnelle nécessaires et de fournir des informations supplémentaires sur votre entreprise. 
+Si votre administrateur général a quitté votre entreprise ou a été déplacé vers un autre rôle et que vous devez ajouter un nouvel administrateur général, vous devez enregistrer une demande de service sur le [portail Microsoft Partner Network](https://partner.microsoft.com/commercial#/). L’agent de support peut demander l’élévation d’un utilisateur à l’administrateur général si votre demandeur peut fournir les informations d’identité personnelle nécessaires et fournir des informations supplémentaires sur votre entreprise. 
 
 ## <a name="next-steps"></a>Étapes suivantes
 

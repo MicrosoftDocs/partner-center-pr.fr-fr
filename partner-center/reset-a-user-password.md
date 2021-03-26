@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: cf3514d394dc49efb967632baa277df94bbfdfbd
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220227"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548986"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Réinitialiser le mot de passe d’un utilisateur dans l’espace partenaires
 
-**S’applique à**
-
-- Espace partenaires
- 
 **Rôles appropriés**
 
 - Administrateur général
@@ -39,7 +35,7 @@ Si l’utilisateur oublie son mot de passe, attribuez-lui un mot de passe tempor
 
 3. Choisissez **Réinitialiser le mot de passe** en bas de la page.
 
-4. Un écran de confirmation s’affiche avec un mot de passe temporaire pour la nouvelle connexion. Vous devez le copier et l’envoyer au nouvel utilisateur. il n’est pas accessible une fois que vous avez quitté l’écran. Lors de sa première connexion, l’utilisateur devra mettre à jour le mot de passe.
+4. Un écran de confirmation s’affiche avec un mot de passe temporaire. Copier le mot de passe temporaire et l’envoyer au nouvel utilisateur-le mot de passe temporaire n’est pas accessible une fois que vous avez quitté l’écran. Lorsque l’utilisateur se connecte pour la première fois, il est invité à mettre à jour son mot de passe.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

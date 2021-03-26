@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582034"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549173"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Outil de diagnostic et de requêtes du portail de l’espace partenaires
 
 **S’applique à**
 
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires pour Microsoft Government Cloud
 
 **Rôles appropriés**
 
-Tous les utilisateurs connectés au centre des partenaires peuvent créer des demandes de support partenaires. Les utilisateurs peuvent uniquement afficher les demandes de support qu’ils ont soumises après leur connexion à l’espace partenaires.
+- Tous les partenaires intéressés par l’espace partenaires
+
+Tous les utilisateurs connectés au centre des partenaires peuvent créer une demande de support partenaire. Les utilisateurs peuvent uniquement afficher les demandes de support qu’ils ont soumises après leur connexion à l’espace partenaires.
 Contactez le support technique si vous rencontrez des problèmes ou si vous avez besoin d’aide sur les erreurs du portail de l’espace partenaires. Envoyer des diagnostics pour que le problème soit résolu plus rapidement.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Signaler un problème avec l’espace partenaires
@@ -77,7 +78,7 @@ Si une erreur se produit pendant que vous êtes sur une page de l’espace parte
 
 Vous pouvez consulter les informations de diagnostic et les enregistrer dans un fichier à joindre à votre demande de support. Pour nous envoyer les informations :
 
-3. Consultez les informations du fichier avant de l’envoyer, car il peut contenir des informations d’identification personnelle que vous souhaiterez peut-être supprimer.
+3. Passez en revue les informations contenues dans le fichier avant de l’envoyer, car il peut contenir des données personnelles que vous souhaitez peut-être supprimer.
 
     >[!NOTE]
     >Dans certains navigateurs, la section **Mode Page** en bas de la page **Aperçu** peut apparaître vide. C'est normal.

@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756445"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549054"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Signaler un problème de service au nom d’un client, y compris quand et comment procéder
 
 **S’applique à**
 
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires pour Microsoft Government Cloud
 
 **Rôles appropriés**
 
@@ -104,7 +103,7 @@ Pour trouver les coordonnées de l’ISV :
 
 ## <a name="faq"></a>Questions fréquentes (FAQ)
 
-Consultez les rubriques suivantes pour obtenir des réponses aux questions fréquentes sur les demandes de service que vous pouvez envoyer pour le compte d’un client. 
+Consultez les questions fréquemment posées suivantes sur les demandes de service que vous pouvez envoyer pour le compte d’un client. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Qu’est-ce qui est inclus dans le droit au support&nbsp;?
 
@@ -120,9 +119,9 @@ Le délai pour obtenir une première réponse dépend de la gravité du problèm
 
 Temps de réponse initial pour les **incidents de réparation/réparation**:
 
-- Impact majeur (gravité&nbsp;A)&nbsp;: 2&nbsp;heures (perte ou dégradation significative des services. Interruption des services de production.)
+- Impact critique (gravité A) : deux heures (perte ou dégradation significative des services). Interruption des services de production.)
 - Impact modéré (gravité B) : quatre heures (perte modérée ou dégradation des services. Services de production partiellement affectés.)
-- Impact minimal (gravité C) : huit heures (perte minimale ou dégradation des services. Les services sont toujours disponibles ou les services hors production sont affectés.)
+- Impact minimal (gravité C) : huit heures (perte minimale ou dégradation des services). Les services sont toujours disponibles ou les services hors production sont affectés.)
 
 Les délais de réponse initiale concernent uniquement le support en anglais. Le support en langue locale est fourni pendant les heures ouvrées.
 Pour les incidents qui se situent dans les limites du droit de support, mais qui ne sont pas considérés comme des incidents de réparation, le temps de réponse initial peut être d’une journée de travail.

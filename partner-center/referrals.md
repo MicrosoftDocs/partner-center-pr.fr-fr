@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999133"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549207"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Développer votre activité avec des références de Microsoft
-
-**S’applique à**
-
-- Espace partenaires
 
 De nombreux clients recherchent des experts qualifiés capables de les aider à implémenter les solutions technologiques et commerciales de Microsoft. Chez Microsoft, nous recevons souvent directement des demandes d’aide de clients par le biais de nos activités marketing et de la part de nos agents commerciaux Microsoft en interne. Les clients utilisent également l’[expérience **Rechercher un fournisseur de solutions**](https://www.microsoft.com/solution-providers/search) pour trouver des sociétés capables de répondre aux besoins de leur entreprise. 
 
