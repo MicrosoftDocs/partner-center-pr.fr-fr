@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
-ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
+ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99065469"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880784"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Découvrir comment devenir partenaire de fournisseurs indirects dans le programme Fournisseur de solutions Cloud
 
@@ -142,6 +142,10 @@ Le lieu où vous exercez en tant que revendeur indirect CSP avec votre sociét�
 
 ## <a name="next-steps"></a>Étapes suivantes
 
+- [Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter le Contrat Partenaire Microsoft - FAQ](mpa-indirect-provider-faq.md)
+
+- [Contrat Partenaire Microsoft](microsoft-partner-agreement.md)
+
 - [Processus de vérification de compte](verification-responses.md)
 
 - [Gérer votre compte dans l’Espace partenaires](partner-center-account-setup.md)
@@ -153,4 +157,4 @@ Le lieu où vous exercez en tant que revendeur indirect CSP avec votre sociét�
 - [En savoir plus sur le processus de vérification](verification-responses.md)
 
 - [Voir les conditions pour les partenaires de facturation directs](direct-partner-new-requirements.md)
-- [Contrat Partenaire Microsoft](microsoft-partner-agreement.md)
+

@@ -1,7 +1,7 @@
 ---
 title: Gérer votre compte Espace partenaires
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment utiliser l’Espace partenaires pour gérer le profil, les informations bancaires et fiscales, les rôles et les autorisations de votre entreprise.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103486998"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712842"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gérer votre compte Espace partenaires : profil de société, informations bancaires, rôles, autorisations, etc.
 
 **Rôles appropriés** : administrateur général
 - Administrateur de compte MPN
 
-Le compte que vous créez dans l’Espace partenaires lors de votre inscription inclut votre adresse e-mail professionnelle et vos données d’entreprise. Une fois que vous avez créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre société en incluant les détails du support, les exonérations fiscales le cas échéant ainsi que les informations de l’interlocuteur principal. Le compte de votre entreprise inclut également les comptes d’utilisateur de toute personne devant utiliser l’Espace partenaires pour ajouter ou gérer des clients, vendre des abonnements, travailler à la facturation, créer des profils métier, gérer les références, travailler sur des programmes d’incentives et assurer un support.
+Le compte que vous créez dans l’Espace partenaires lors de votre inscription inclut votre adresse e-mail professionnelle et vos données d’entreprise. Une fois que vous avez créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre société en incluant les détails du support, les exonérations fiscales le cas échéant ainsi que les informations de l’interlocuteur principal. Le compte de votre entreprise inclut également des comptes d’utilisateur pour toute personne de votre équipe qui utilisera l’Espace partenaires. Le travail qu’ils peuvent effectuer comprend l’ajout ou la gestion de clients, la vente d’abonnements, l’utilisation de la tarification et de la facturation, la création de profils d’entreprise, la gestion des références, l’utilisation de programmes de primes incitatives, la fourniture de support et bien plus encore.
 
 Consultez également les articles [Inviter des employés à rejoindre l’Espace partenaires](guide-to-migration.md) et [Ajouter un nouvel utilisateur](create-user-accounts-and-set-permissions.md).
 
@@ -30,7 +30,7 @@ Consultez également les articles [Inviter des employés à rejoindre l’Espace
 
 ## <a name="account-management"></a>Account management
 
-Pour accéder à la gestion des comptes de tous les partenaires (commerciaux ou développeurs) dans l’Espace partenaires, connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires, sélectionnez **Paramètres** (icône d’engrenage) dans le coin supérieur droit de l’écran, puis sélectionnez **Paramètres du compte**. Vous n’avez plus à choisir entre les paramètres Partenaire et Développeur, car tous les profils et paramètres sont désormais combinés.
+Tous les partenaires commerciaux et de développement accèdent à la **gestion des comptes** dans l’Espace partenaires en se connectant au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires et en sélectionnant **Paramètres** (icône d’engrenage) dans le coin supérieur droit de l’écran, puis **Paramètres du compte**. Vous n’avez plus à choisir entre les paramètres Partenaire et Développeur. Tous les profils et paramètres sont maintenant combinés.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="Icône des paramètres":::
 
@@ -56,7 +56,7 @@ Si votre entreprise ne fait pas partie du programme Fournisseur de solutions Clo
 
 Vous pouvez faire partie de plusieurs comptes. Pour savoir si vous faites partie de plusieurs comptes, vérifiez la présence du « sélecteur de compte » dans le menu de navigation de gauche.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identifier le sélecteur de compte":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifier le sélecteur de compte":::
 
 Si vous ne voyez pas le sélecteur de compte, vous ne faites partie que d’un seul compte. 
 
@@ -64,7 +64,7 @@ Lorsque vous cliquez sur ce sélecteur, tous les comptes dont vous faites partie
 
 Dans l’exemple ci-dessous, l’utilisateur connecté fait partie des trois comptes en surbrillance. L’utilisateur peut passer de l’un à l’autre en cliquant sur un compte.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Les comptes dont vous faites partie":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Les comptes dont vous faites partie":::
 
 ## <a name="organization-profile"></a>Profil de l’organisation
 
@@ -74,11 +74,17 @@ Utilisez ces pages pour gérer des aspects spécifiques de votre entreprise, com
 
 ### <a name="legal-info"></a>Informations légales
 
-Quand vous rejoignez l’Espace partenaires, votre société est soumise à un processus de vérification par Microsoft. Vous pouvez effectuer le suivi du statut de cette vérification dans la page **Informations légales**. Cette page indique l’interlocuteur principal (la personne que Microsoft va contacter pour toute question relative au partenaire) et l’interlocuteur légal principal (la personne qui gère les aspects juridiques et l’état). Tous les sites de votre entreprise sont listés et peuvent être ajoutés ici.
+Quand vous rejoignez l’Espace partenaires, votre société est soumise à un processus de vérification par Microsoft. Vous pouvez effectuer le suivi du statut de cette vérification dans la page **Informations légales**. Cette page indique l’interlocuteur principal (la personne que Microsoft va contacter pour toute question relative au partenaire) et l’interlocuteur légal principal (la personne qui gère les aspects juridiques et l’état). Tous les sites de votre entreprise sont listés et peuvent être ajoutés ici. 
+
+### <a name="provide-your-companys-legal-business-details"></a>Fournissez les informations légales de votre entreprise
+
+Vous pouvez rechercher le profil de votre entreprise ou entrer manuellement les informations de l’entreprise. Si votre entreprise est inscrite auprès de [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), utilisez l’ID DUNS pour rechercher les informations de votre entreprise. Si vous voulez fournir vous-même les détails de votre entreprise, sélectionnez **Manuel**.
+
+Si votre entreprise est située en **Arménie**, en **Hongrie**, au **Kirghizstan**, en **Moldavie**, en **Ouzbékistan** ou en **Russie**, et que vous entrez votre adresse manuellement, nous validerons votre adresse pour vous. Si celle que vous entrez diffère de l’adresse validée, nous vous suggérons d’utiliser l’adresse validée. La vérification garantit que l’adresse est à la fois correcte et qu’une expédition vers celle-ci est possible.
 
 ### <a name="primary-contact-email"></a>Adresse e-mail du contact principal
 
-L’adresse e-mail du contact principal est celle que nous utiliserons pour vous avertir d’une vérification de votre compte. Il est très important que l’adresse e-mail que vous indiquez pour le contact principal soit une adresse régulièrement supervisée et consultée.  
+L’adresse e-mail du contact principal est celle que nous utiliserons pour vous avertir d’une vérification de votre compte. Il est important que l’adresse e-mail que vous indiquez pour le contact principal soit une adresse régulièrement supervisée et consultée.  
 
 Découvrez plus en détail la [vérification et les informations associées à votre compte](verification-responses.md).
 

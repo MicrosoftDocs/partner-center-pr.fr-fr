@@ -1,7 +1,7 @@
 ---
 title: Créer un compte MPN dans l’Espace partenaires
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment les membres Microsoft Partner Network peuvent créer un compte Espace partenaires pour gérer leurs revenus et leurs compétences du réseau.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570207"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712917"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Créer un compte MPN dans l’Espace partenaires pour gérer les revenus et les compétences du réseau
 
@@ -43,11 +43,11 @@ Quand vous êtes prêt à créer un compte dans l’Espace partenaires, vous dev
 1. Sur la page [**Bien démarrer**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership), commencez par votre adresse e-mail professionnelle qui vous a été donnée par votre société, telle que you@yourcompanyname.com.
 
  
-    a.  L’adresse e-mail doit être valide et accessible par vous, car nous envoyons un code de vérification pour continuer.
+    a.  L’adresse e-mail doit être valide et accessible par vous, car nous envoyons un code de vérification à cette adresse e-mail pour continuer.
 
-    b.  L’adresse e-mail ne doit pas contenir de mots comme « info », « admin »? « email@. » ou « marketing@.. », car ceux-ci ne sont pas pris en charge.
+    b.  L’adresse e-mail ne doit pas contenir de mots comme « info », « admin », « email@ ». Ou « marketing@.. » ; ces formats d’adresse ne sont pas pris en charge.
 
-    c.  Pour acheter MAPS ou gérer les compétences, vous devez mettre à niveau ce compte en vérifiant votre domaine et en devenant administrateur. 
+    c.  Pour acheter MAPS ou gérer les compétences, vous devez mettre à niveau ce compte en [vérifiant votre domaine](become-global-admin.md) et en devenant administrateur. 
 
 2. Vous pouvez vous connecter avec votre compte professionnel Office 365, par exemple you@contoso.onmicrosoft.com.
 
@@ -58,8 +58,11 @@ Quand vous êtes prêt à créer un compte dans l’Espace partenaires, vous dev
 
 Vous pouvez rechercher le profil de votre entreprise ou entrer manuellement les informations de l’entreprise. Si votre entreprise est inscrite auprès de [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), utilisez l’ID DUNS pour rechercher les informations de votre entreprise. Si vous voulez fournir vous-même les détails de votre entreprise, sélectionnez **Manuel**.
 
-Une fois que vous avez fourni les informations sur l’entreprise, entrez les informations du contact principal, puis sélectionnez **S’inscrire maintenant**.
-Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise).
+Si votre entreprise est située en **Arménie**, en **Hongrie**, au **Kirghizstan**, en **Moldavie**, en **Ouzbékistan** ou en **Russie**, et que vous entrez votre adresse manuellement, nous validerons votre adresse pour vous. Si celle que vous entrez diffère de l’adresse validée, nous vous suggérons d’utiliser l’adresse validée. Cela garantit que les éléments de l’adresse sont standardisés tels que définis par l’autorité postale du pays, correctement mis en forme et valides pour l’expédition.  
+
+Une fois que vous avez fourni les informations sur l’entreprise, entrez les informations du contact principal. Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise).
+
+4. Sélectionnez **S’inscrire maintenant**.
 
 >[!IMPORTANT]
 >Pour garantir la sécurité et la confidentialité de votre entreprise, nous envoyons un e-mail à votre contact principal pour vérifier l’adresse e-mail et que cette adresse appartient bien à votre entreprise. Une fois que le contact principal a confirmé l’adresse e-mail, nous poursuivons la vérification des informations fournies. La vérification prend généralement de 3 à 5 jours ouvrables. 
@@ -75,14 +78,14 @@ Vous pouvez également consulter d’autres informations importantes comme les I
 
 ## <a name="next-steps"></a>Étapes suivantes
 
--   [Ajouter des utilisateurs de compte et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
+-  [Ajouter des utilisateurs de compte et leur attribuer des autorisations](create-user-accounts-and-set-permissions.md)
 
--   [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
+-  [Acheter ou renouveler un abonnement à Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Gérer les avantages de votre adhésion](manage-your-partner-network-benefits.md)
+-  [Gérer les avantages de votre adhésion](manage-your-partner-network-benefits.md)
 
--   [En savoir plus sur les compétences requises pour le niveau d'adhésion Or ou Argent](https://partner.microsoft.com/membership/competencies)
+-  [En savoir plus sur les compétences requises pour le niveau d'adhésion Or ou Argent](https://partner.microsoft.com/membership/competencies)
 
--   [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)
+-  [Créer un profil d’entreprise pour obtenir des prospects de Microsoft](create-a-marketing-profile.md)
 
--   [Obtenir et gérer des prospects de Microsoft](manage-leads.md)
+-  [Obtenir et gérer des prospects de Microsoft](manage-leads.md)
