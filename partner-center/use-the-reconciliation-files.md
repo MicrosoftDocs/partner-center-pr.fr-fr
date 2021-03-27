@@ -1,7 +1,7 @@
 ---
 title: Utiliser vos fichiers de rapprochement
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: En savoir plus sur les fichiers de rapprochement dans l’espace partenaires et sur l’interprétation des affichages détaillés des lignes de facturation pour un cycle de facturation donné.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022772"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633894"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Découvrez comment lire les éléments de ligne dans vos fichiers de rapprochement de l’espace partenaires
 
@@ -55,6 +55,27 @@ Pour résoudre les problèmes de mise en forme dans vos fichiers de rapprochemen
 ## <a name="download-reconciliation-files-programmatically"></a>Télécharger les fichiers de rapprochement par programmation
 
 Les fichiers de réconciliation peuvent être très volumineux et parfois difficiles à télécharger. Pour télécharger des fichiers de conciliation par programme, consultez [obtenir des lignes de facturation](/partner-center/develop/get-invoiceline-items).
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Si votre fichier dépasse la limite de lignes dans Excel
+
+Si vous êtes en mesure de télécharger un fichier de réconciliation sans l’ouvrir dans Microsoft Excel, cela signifie probablement que le fichier contient plus de lignes qu’Excel ne l’autorise. Dans ce cas, vous pouvez utiliser l’une des procédures ci-dessous pour ouvrir le fichier.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Ouvrir un fichier de rapprochement dans Power BI
+
+1. Téléchargez le fichier de réconciliation comme vous le feriez normalement.
+2. Téléchargez, installez et ouvrez une instance de Power BI.
+3. Sous **l’onglet Power bi** , sélectionnez récupérer des **données**.
+4. Dans la liste des **sources de données courantes**, sélectionnez **texte/CSV**.
+5. Lorsque vous y êtes invité, ouvrez votre fichier de rapprochement.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Ouvrir un fichier de rapprochement dans un tableau croisé dynamique Excel
+
+1. Téléchargez le fichier de réconciliation comme vous le feriez normalement.
+2. Ouvrez un nouveau fichier dans Microsoft Excel.
+3. Sous l’onglet **données** , sélectionnez **récupérer des données**, sélectionnez **à partir d’un fichier**, puis sélectionnez **texte/CSV**.
+4. Lorsque vous y êtes invité, ouvrez votre fichier de rapprochement. Vos données s’affichent.
+5. Dans le menu déroulant **charger** , sélectionnez **charger sur**, puis **OK**.
+6. Dans la boîte de dialogue **importer des données** , sélectionnez **rapport de tableau croisé dynamique** pour ouvrir votre fichier.
 
 ## <a name="map-taxes-or-vat"></a>Taxes de carte ou TVA
 

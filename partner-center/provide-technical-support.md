@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215830"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633843"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fournir un support technique pour aider les clients à configurer, gérer et utiliser leurs abonnements
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215830"
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent du support technique
 - Agent d’administration
 
@@ -36,7 +36,7 @@ Dans l’Espace partenaires, vous pouvez&nbsp;:
 ## <a name="perform-admin-tasks-for-your-customers"></a>Effectuer des tâches d’administration pour vos clients
 
 1. Dans le menu **espace partenaires** , sélectionnez **clients**. Dans la liste, choisissez votre client.
-2. Dans le menu client, sélectionnez **gestion des services**.
+2. Dans le menu client, sélectionnez **Gestion des services**.
 3. Dans la section **administrer les services** , choisissez le service dans lequel vous devez travailler pour ouvrir le portail de gestion du service.
 4. Si vous rencontrez un problème avec le compte d’un client, comme les services en baisse ou une dégradation de l’expérience, commencez par vérifier l’intégrité du service. Voir [Vérifier l’état du service](check-service-health.md).
 5. Pour faire remonter un problème en cours à Microsoft, déposez une demande de service. Voir [Signaler des problèmes au nom d’un client](report-problems-on-behalf-of-a-customer.md).
@@ -47,7 +47,7 @@ Les partenaires qui coopèrent dans le modèle CSP sont le conseiller approuvé 
 
 Pour satisfaire aux exigences de support, le partenaire peut revendre le support à partir d’une autre entité, il peut sous-traiter tout ou partie de sa structure de support et/ou peut configurer une structure pour fournir un support directement.  Le partenaire peut payer tout ou partie du support fourni aux clients. Le partenaire doit expliquer à ses clients le support qu’ils fournissent, les heures de service et la méthode de contact, ainsi que la tarification (s’il est facturé pour le support). 
 
-Les partenaires doivent recevoir des demandes de support entrantes de la part de clients, diagnostiquer les problèmes au meilleur des capacités du partenaire, puis résoudre les problèmes qui se trouvent dans l’étendue des limites du support de base. Si le partenaire ne parvient pas à résoudre un problème, il peut faire remonter les problèmes à Microsoft via les supports suivants :
+Les partenaires doivent recevoir des demandes de support entrantes de la part de clients, diagnostiquer les problèmes au meilleur des capacités du partenaire, puis résoudre les problèmes qui se trouvent dans l’étendue des limites de support de base. Si le partenaire ne parvient pas à résoudre un problème, il peut faire remonter les problèmes à Microsoft via les supports suivants :
 
 - La prise en charge d’un problème **commercial** est disponible pour tous les partenaires du programme CSP
 

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281295"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633758"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
@@ -22,7 +22,7 @@ ms.locfileid: "100281295"
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Administrateur partenaire MPN
 - Agent commercial
@@ -30,7 +30,7 @@ ms.locfileid: "100281295"
 
 Pour afficher les derniers programmes et offres de fournisseurs de solutions Cloud, à partir du portail partenaires, accédez à la page **vendre > tarification et offres**. Vous trouverez des listes de prix distinctes pour les différents types de produits disponibles. Les tarifs suivants sont disponibles sur la page **tarification et offres** :
 
-- Les **services basés sur une licence** incluent des informations de tarification pour Office 365, Enterprise Mobility and Security E3, ainsi que Dynamics 365. La section relative à la tarification basée sur les licences comprend les tarifs actuels et préliminaires, ainsi que la matrice liste des offres. Les tarifs incluent le tarif et les tarifs estimés au détail (ERP) pour les offres dans toutes les devises prises en charge. La matrice liste des offres inclut la disponibilité du marché et d’autres informations importantes sur les offres. Ces fichiers sont mis à jour le premier jour de chaque mois.
+- Les **services basés sur une licence** incluent des informations de tarification pour Office 365, Enterprise Mobility et Security E3, ainsi que et Dynamics 365. La section relative à la tarification basée sur les licences comprend les tarifs actuels et préliminaires, ainsi que la matrice liste des offres. Les tarifs incluent le tarif et les tarifs estimés au détail (ERP) pour les offres dans toutes les devises prises en charge. La matrice liste des offres inclut la disponibilité du marché et d’autres informations importantes sur les offres. Ces fichiers sont mis à jour le premier jour de chaque mois.
 - Les **services basés sur l’utilisation** incluent des informations de tarification pour Microsoft Azure et Visual Studio. Vous pouvez également utiliser les [services Azure dans la calculatrice de prix du Fournisseur de solutions Cloud](https://azure.microsoft.com/pricing/calculator/). Le téléchargement basé sur l’utilisation comprend les listes de prix CSP pour toutes les devises prises en charge, ainsi que les fichiers de tarification des services partagés dans ERP. Ces fichiers sont mis à jour le premier jour de chaque mois.
 - **Microsoft Azure instances réservées** incluent des informations de tarification pour toutes les devises prises en charge pour les instances réservées Azure. Le téléchargement de la tarification comprend également la tarification des services partagés dans ERP. Ces fichiers sont mis à jour le premier jour de chaque mois.
 - Les **abonnements logiciels** incluent la tarification des abonnements logiciels basés sur des termes pour toutes les devises prises en charge. Le fichier de prix comprend toutes les devises prises en charge avec le tarif et le tarif MSRP. Ces fichiers sont mis à jour le premier jour de chaque mois.
@@ -45,7 +45,7 @@ Pour afficher les derniers programmes et offres de fournisseurs de solutions Clo
 
 Les services basés sur une licence incluent un aperçu de liste de prix, fourni 30 jours à l’avance de toute modification. Pour afficher l’aperçu de la liste de prix, accédez à la page **vendre > tarification et offres**. Il n’existe pas d’aperçu des prix pour les services basés sur l’utilisation, car ces services sont dynamiques. Le tableau suivant explique comment lire la table des tarifs.
 
-|**Item**        |**Definition**      |
+|**Item**        |**Définition**      |
 |:-----------   |:-----------   |
 |ADD   |Un nouvel élément à la liste de prix|
 |CHANGEMENTS   |Modifications du tarif du mois au mois. D’autres modifications non liées au tarif de la liste peuvent se produire, les partenaires doivent comparer les listes de prix entre les mois pour déterminer les modifications apportées aux autres propriétés.|
@@ -53,7 +53,7 @@ Les services basés sur une licence incluent un aperçu de liste de prix, fourni
 |UNC   |Tarif non modifié à partir de la liste de prix du mois précédent  |
 |Date de validation valide   |La première date à laquelle une offre peut être commandée    |
 |Date de validité   |Dernière date à laquelle une offre peut être commandée   |
-|Nom complet de l’offre   |Nom du client pour l’offre   |
+|Nom d’affichage de l’offre   |Nom du client pour l’offre   |
 |ID de l’offre   |Identificateur interne de l’offre   |
 |Type de contrat de licence   |Les types de contrat de licence peuvent être Corporate, Government ou Academic. Le type d’accord détermine les types de clients pour lesquels l’offre peut être vendue.|
 |Unité d’achat   |Durée de l’achat de l’offre. Les unités d’achat sont généralement un mois.   |
@@ -86,7 +86,7 @@ Le fournisseur CSP offre des services à des segments de marché spéciaux, par 
 
 |**Segment**   |**qui doit être qualifié**   |**Le partenaire qualifie le client**|**Types de produits activés**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Éducation|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
+|Education|Customer|Non, la qualification du client sera effectuée par Microsoft |Basée sur une licence uniquement|
 |À but non lucratif|Customer|Non, le client répond à l’extérieur de l’espace partenaires|Basée sur une licence uniquement|
 |Government Community Cloud (GCC)|Partenaire et client|Une fois que GCC est activé, le partenaire peut créer des clients GCC| Basée sur une licence uniquement|
 |Azure Government|Partenaire|Une fois qualifié, le partenaire travaille dans un locataire CSP spécifique à Azure Government|Ressources Azure|
@@ -95,7 +95,7 @@ Les marges du partenaire, la différence entre le tarif et les prix estimés au 
 
 ## <a name="add-on-offer-types"></a>Types d’offres du module complémentaire
 
-Les services basés sur une licence peuvent être acquis comme des offres de base ou des modules complémentaires. Seules les offres de base sont détectables et achetées via le catalogue de l’espace partenaires. Les modules complémentaires doivent être appliqués après l’achat des offres de base. La colonne **type de licence secondaire** de liste de prix basée sur une licence contient des informations sur chaque offre et son type. Les offres de base comportent des valeurs **non spécifiques** dans la colonne type de licence secondaire de la liste de prix et peuvent être achetées dans le catalogue. Les valeurs de type de licence secondaire du **module complémentaire** ne peuvent pas être achetées dans le catalogue. Pour acheter ces modules complémentaires :
+Les services basés sur une licence peuvent être acquis comme des offres de base ou des modules complémentaires. Seules les offres de base sont détectables et achetées via le catalogue de l’espace partenaires. Vous devez appliquer les modules complémentaires après avoir acheté les offres de base. La colonne **type de licence secondaire** de liste de prix basée sur une licence contient des informations sur chaque offre et son type. Les offres de base comportent des valeurs **non spécifiques** dans la colonne type de licence secondaire de la liste de prix et peuvent être achetées dans le catalogue. Les valeurs de type de licence secondaire du **module complémentaire** ne peuvent pas être achetées dans le catalogue. Pour acheter ces modules complémentaires :
 
 1. Consultez la matrice liste des offres pour afficher la liste des ID d’offre qui doivent être achetés avant de pouvoir acheter un module complémentaire.
 2. Acheter l’offre de base à partir du catalogue
@@ -143,9 +143,9 @@ La tarification des tarifs des fournisseurs de services Cloud est comprise dans 
 
 ### <a name="36-month-offers"></a>offres de 36 mois
 
-Il existe environ 50 offres Dynamics qui ont des conditions de trois ans. Celles-ci sont identifiées par **(36 Mo)** dans le titre des offres. Ces offres sont très similaires aux offres annuelles. La seule différence réside dans son terme. Ces offres ont un terme de trois ans, ce qui signifie que les abonnements sont renouvelés automatiquement au bout de trois ans au lieu d’un. Voici un résumé de la façon dont ces offres fonctionnent :
+Il existe environ 50 offres Dynamics qui ont des conditions de trois ans. Celles-ci sont identifiées par **(36 Mo)** dans le titre des offres. Ces offres sont similaires aux offres annuelles. La seule différence réside dans son terme. Ces offres ont une durée de trois ans, afin que les abonnements renouvelsent automatiquement au bout de trois ans au lieu d’un. Voici un résumé de la façon dont ces offres fonctionnent :
 
-- Les termes sont 36 mois, les abonnements sont renouvelés automatiquement au bout de trois ans
+- Les conditions sont 36 mois, les abonnements sont automatiquement renouvelés au bout de trois ans
 - Les partenaires peuvent annuler ou modifier le nombre de licences tout au long du délai de l’abonnement
 - Le renouvellement annuel sera au prix du temps d’achat pour la période de trois ans.
 - La fréquence de facturation est toujours annuelle ou mensuelle
@@ -162,11 +162,11 @@ Microsoft 365 offre de base a1 a une durée de six ans.  Les modules complément
 
 Voici un résumé de la façon dont ces offres fonctionnent :
 
-- Le terme est de 72 mois ou 6 ans
-- L’abonnement n’est pas renouvelé et expire au bout de 6 ans
+- Le terme est de 72 mois ou six ans
+- L’abonnement n’est pas renouvelé et expire au bout de six ans
 - La fréquence de facturation de l’offre s’affiche comme annuelle, mais le partenaire est facturé en amont sur sa première facture après avoir acquis l’abonnement
 - Les abonnements des offres a1 à 72 mois sont verrouillés après l’achat et ne peuvent pas être annulés et le nombre de licences ne peut pas être ajouté à l’abonnement après l’achat initial
-- Cet abonnement n’est pas annulable et n’est pas remboursable.
+- Cet abonnement n’est pas annulable et ne peut pas être remboursé.
 
 ## <a name="estimated-retail-price-erp"></a>Prix de vente estimé (ERP)
 

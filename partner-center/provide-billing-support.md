@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En savoir plus sur le support de facturation client requis par les partenaires du programme CSP. Cela comprend la possession de la relation de facturation client et la réponse aux questions de facturation.
+description: En savoir plus sur le support de facturation client requis par les partenaires du programme CSP. Cette prise en charge comprend la possession de la relation de facturation client et la réponse aux questions de facturation.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215932"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633656"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fournir du support sur la facturation à vos clients et aider à répondre à leurs questions sur la facturation
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215932"
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent du support technique
 - Administrateur de la facturation
 - Agent commercial
@@ -44,7 +44,7 @@ Pour satisfaire aux exigences de support, le partenaire peut revendre le support
 >[!Note]
 >Si vous n’êtes pas un fournisseur de services de chiffrement et que vous avez des questions sur la facturation des clients, consultez le portail spécifique pour connaître les produits ou services appropriés.
 
-Les partenaires doivent recevoir des demandes de support entrantes de la part de clients, diagnostiquer les problèmes au meilleur des capacités du partenaire, puis résoudre les problèmes qui se trouvent dans l’étendue des limites du support de base. Si le partenaire ne parvient pas à résoudre un problème, il peut faire remonter les problèmes à Microsoft via les supports suivants :
+Les partenaires doivent recevoir des demandes de support entrantes de la part de clients, diagnostiquer les problèmes au meilleur des capacités du partenaire, puis résoudre les problèmes qui se trouvent dans l’étendue des limites de support de base. Si le partenaire ne parvient pas à résoudre un problème, il peut faire remonter les problèmes à Microsoft via les supports suivants :
 
 - La prise en charge d’un problème **commercial** est disponible pour tous les partenaires du programme CSP
 
