@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633894"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730078"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Découvrez comment lire les éléments de ligne dans vos fichiers de rapprochement de l’espace partenaires
 
@@ -76,6 +76,15 @@ Si vous êtes en mesure de télécharger un fichier de réconciliation sans l’
 4. Lorsque vous y êtes invité, ouvrez votre fichier de rapprochement. Vos données s’affichent.
 5. Dans le menu déroulant **charger** , sélectionnez **charger sur**, puis **OK**.
 6. Dans la boîte de dialogue **importer des données** , sélectionnez **rapport de tableau croisé dynamique** pour ouvrir votre fichier.
+
+## <a name="negative-amount-displayed"></a>Montant négatif affiché
+
+Vous pouvez voir un montant négatif dans votre fichier de réconciliation. Cela est probablement dû à l’une des raisons suivantes :
+
+- Vous avez récemment annulé ou réduit votre nombre de licences
+- Vous avez reçu un crédit pour un contrat de licence de service (SLA) ou pour la consommation Azure
+
+Pour obtenir plus d’informations sur cette transaction, examinez son attribut de type de frais dans votre fichier de réconciliation.
 
 ## <a name="map-taxes-or-vat"></a>Taxes de carte ou TVA
 

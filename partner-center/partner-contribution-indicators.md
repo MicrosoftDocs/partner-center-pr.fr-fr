@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution partenaire-CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez sept indicateurs de contribution partenaires (PCI) qui montrent aux partenaires comment atteindre une compétence en matière de Business Applications Cloud Silver ou Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193645"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730261"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilisez les indicateurs de contribution partenaire pour atteindre les compétences du Cloud Business Applications
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193645"
 - Administrateur des comptes
 
 Cet article décrit les sept principaux indicateurs de contribution partenaires (PCI) utilisés pour évaluer la progression d’un partenaire dans le cadre de la réalisation ou de la conservation d’une compétence en matière d’Business Applications Cloud Silver ou Gold.
+
+Vous pouvez voir votre progression PCI sur le tableau de bord contribution du partenaire. Les données sont mises à jour le 20 de chaque mois, avec les données du mois précédent. Par exemple, les données de février seront publiées le 20 mars.
 
 > [!NOTE]
 > Découvrez comment les partenaires peuvent utiliser un ensemble différent de métriques de l’indicateur de contribution partenaire pour atteindre les compétences en matière de solutions Cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option Cloud Business Applications SMB. Pour plus d’informations, consultez [utiliser les indicateurs de contribution partenaire pour les petites et moyennes compétences en solutions Cloud](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). Vous pouvez également [en savoir plus](https://partner.microsoft.com/membership/competencies) sur les compétences et leurs exigences.
@@ -109,6 +111,20 @@ L’image suivante offre une référence visuelle rapide.
 
 Chaque métrique PCI a des seuils définis par Microsoft qui peuvent rapporter un nombre maximal de points à votre entreprise. Ces seuils diffèrent pour l’engagement du client et les voies financières et d’exploitation utilisées pour atteindre le Cloud Business Applications compétence. Les seuils diffèrent également pour les partenaires qui opèrent sur des marchés développés par rapport aux partenaires qui utilisent exclusivement des marchés en développement. La catégorisation de marché **développée** ou en **développement** d’un pays est basée sur les [définitions de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Notez que 4 métriques sont mesurées en fonction de l’emplacement d’activité du partenaire, et non de l’emplacement d’enregistrement de l’emplacement MPN. Cela signifie qu’un partenaire inscrit sur un marché en développement, qui a des clients d’un marché développé, doit respecter le score PCI pour les pays développés.
+
+Le tableau ci-dessous montre l’emplacement qui s’applique à la mesure.
+
+| Nom de métrique | Location |
+|:-------|:--------|
+| Nouveau revenu net | Emplacement du client |
+| Ajout au client net | Emplacement du client |
+| Consultant fonctionnel | Emplacement du partenaire |
+| Développeur | Emplacement du partenaire |
+| Croissance du consultant fonctionnel | Emplacement du partenaire |
+| Croissance de la MAU | Emplacement du client |
+| Nouveaux grands déploiements | Emplacement du client |
+
 Les points de chaque mesure sont comptés pour produire un score PCI distinct pour l’engagement client et les finances et les opérations. Ce score sera mis à jour tous les mois.
 
 Les partenaires peuvent gagner le maximum de points pour une métrique donnée s’ils atteignent ou dépassent les seuils indiqués ci-dessous. Les points partiels peuvent être gagnés pour toutes les mesures, à l’exception de la croissance du consultant fonctionnel.
@@ -160,7 +176,7 @@ Un partenaire devient le CPOR s’il a établi une association avec un client au
 Un partenaire devient le DPOR s’il est associé à un client au niveau de l’abonnement au sein du produit.
 
 > [!NOTE]
-> Quand CPOR et DPOR existent tous les deux pour un abonnement client donné, le CPOR reçoit un crédit pour les mesures PCI pertinentes associées à cet abonnement. Si l’Association a été via OSA, CPOR reçoit le crédit pour les nouveaux revenus nets et les ajouts de clients nets. Si l’Association était via OSU, le CPOR reçoit le crédit pour les nouveaux déploiements et la croissance mensuelle des utilisateurs actifs.
+> Quand CPOR et DPOR existent tous les deux pour un abonnement client donné, le CPOR reçoit un crédit pour les mesures PCI pertinentes associées à cet abonnement. Si l’Association était via OSA (recettes claim), le CPOR reçoit le crédit pour les nouveaux revenus nets et les ajouts de clients nets. Si l’Association était via OSU (revendication d’utilisation), le CPOR reçoit le crédit pour les nouveaux déploiements et la croissance mensuelle des utilisateurs actifs. Les demandes de pré-vente ne sont pas éligibles pour PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Définitions détaillées des métriques PCI pour cette compétence
 
@@ -324,9 +340,10 @@ Les nouveaux déploiements à grande échelle sont un [indicateur de réussite d
   
   (Pour plus d’informations sur les marchés développés et en développement, consultez ces [définitions de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).)
 
-- Un locataire est considéré comme ayant franchi le seuil mensuel actif de l’utilisateur si le locataire était : 
+- Un locataire est considéré comme ayant franchi le seuil mensuel actif de l’utilisateur si le locataire était :
 
-  - Au-dessous du seuil spécifié il y a 12 mois, *et*
+  - Au-dessous du seuil spécifié il y a 12 mois, **et**
+
   - Franchit ce seuil au moins une fois au cours des 11 mois suivants.
 
 - Les utilisateurs actifs mensuels sont comptabilisés au niveau du locataire et cumulés uniquement pour les abonnements payants sous le locataire.
