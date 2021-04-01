@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549037"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730057"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 |**Catégorie**|**Annonces de mars 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Offres/Espace de travail moderne|[Nouvelle expérience du centre d’administration Exchange (EAC)](2021-march.md#17)|29 mars|
 |Offres/Espace de travail moderne|[Microsoft Operations : Présentation du calendrier de lancement des produits](2021-march.md#16)|25 mars|
 |Fonctions|[Changements des conditions d’intégration des clients CSP](2021-march.md#15)|25 mars|
 |Offres/marchés|[Corrections apportées à la liste des prix des logiciels sous licence perpétuelle du 1er mars 2021](2021-march.md#14)|23 mars|
