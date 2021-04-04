@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714383"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179443"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Créer et envoyer des documents pour votre preuve d’exécution (PoE) incitative
 
-**S’applique à :**
-
-- Espace partenaires
-
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur de primes incitatives
 
@@ -81,6 +77,6 @@ Avant de payer votre travail d’incentives, vous devez soumettre une preuve d�
    - Approved
    - Rejeté
 
-## <a name="next-steps"></a>Étapes suivantes :
+## <a name="next-steps"></a>Étapes suivantes
 
 - [Bien commencer avec les incentives](incentives-get-started-intro.md)

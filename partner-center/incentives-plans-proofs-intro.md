@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714393"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179171"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Utilisez ces ressources pour vous aider à créer des plans d’incentives et des preuves d’exécution
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires dans le Microsoft Partner Network (MPN)
 
 **Rôles appropriés**
 
@@ -40,7 +35,7 @@ Un plan de réclamations de co-op marketing décrit les campagnes marketing, les
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Qu’est-ce qu’une preuve d’exécution ?
 
-Une fois que vous avez payé pour votre travail d’incentives, vous devez soumettre une preuve d’exécution détaillée à Microsoft. Votre PoE peut inclure des détails sur toute campagne associée, la date à laquelle une activité d’incentives s’est produite, la quantité revendiquée, etc. 
+Une fois que vous avez payé pour votre travail d’incentives, vous devez soumettre une preuve d’exécution détaillée à Microsoft. Votre PoE peut inclure des détails sur toute campagne associée, la date à laquelle une activité d’incentives s’est produite et la quantité revendiquée. 
 
 En savoir plus sur la [préparation des preuves d’exécution](incentives-prepare-your-proof-of-execution.md).
 

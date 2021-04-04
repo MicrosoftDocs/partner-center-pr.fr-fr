@@ -8,22 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626012"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179136"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscription et gestion des utilisateurs dans le programme d’incentives
 
-**S’applique à :**
+**Rôles appropriés**
 
-- Espace partenaires
-
-**Rôles appropriés :**
-
-- Administrateur d’incentives
+- Administrateur de primes incitatives
 
 >[!NOTE]
 >Avant de pouvoir vous inscrire au programme d’incentives, vous devez avoir terminé le centre d’appartenance au partenaire pour la [migration](prepare-pmc-pc-migration.md)de l’espace partenaires.
@@ -47,7 +43,7 @@ Une fois que votre organisation est éligible à des incentives, Microsoft envoi
 
 Une fois que votre organisation est éligible à des incentives, Microsoft envoie une invitation à l’administrateur d’incentives du MPNLocationID éligible pour commencer le processus d’inscription. Cet e-mail est envoyé par l' **espace partenaires Microsoft** et l’invitation à l' **inscription d’incentives du partenaire** est envoyée. Ouvrez l’invitation et sélectionnez **prise en main**.
 
-Vous verrez également une invitation sur la page d’hébergement de l’espace partenaires. Une fois que vous avez sélectionné ce message, vous ne pouvez plus le voir. Toutefois, l’administrateur de l’incentive peut encore terminer le processus en se connectant au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) et en sélectionnant **vue d’ensemble** sous **incentives** sur le côté gauche. Sélectionnez **inscrire** , puis complétez le paiement et le profil fiscal du programme.
+Vous verrez également une invitation sur la page d’hébergement de l’espace partenaires. Une fois que vous avez sélectionné ce message, vous ne pouvez plus le voir. Toutefois, l’administrateur de l’incentive peut encore terminer le processus en se connectant au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) et en sélectionnant **vue d’ensemble** sous **incentives** sur le côté gauche. Sélectionnez **inscrire**, puis complétez le paiement et le profil fiscal du programme.
 
 Une inscription est considérée comme terminée uniquement lorsque le paiement et le profil fiscal que vous fournissez pour l’inscription sont validés par Microsoft.
 

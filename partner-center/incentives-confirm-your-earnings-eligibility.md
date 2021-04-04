@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 82d1db0175a8038d0297eddd8f86dfba26bb8401
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175111"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179273"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>Confirmer le bénéfice de vos incentives
 
-**S’applique à :**
-
-- Espace partenaires
-
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur de primes incitatives
 - Administrateur général
@@ -31,7 +27,7 @@ Avant de pouvoir vous payer pour votre travail dans le programme d’incentives,
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>Comment vérifier mon éligibilité en fonction de ma rémunération et les règles relatives à mes revenus ?
 
 1. Connectez-vous à [incentives partenaires](https://partner.microsoft.com/membership/partner-incentives).
-2. Faites défiler la liste pour accéder aux documents de votre programme intéressé, puis cliquez sur le lien du document correspondant au programme concerné.
+2. Faites défiler la liste pour accéder aux documents de votre programme intéressé, puis sélectionnez le lien du document pour le programme concerné.
 3. Dans le document, reportez-vous à sections **éligibilité du partenaire** et **règles de revenus éligibles**.
 
 ## <a name="next-steps"></a>Étapes suivantes

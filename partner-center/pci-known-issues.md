@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182322"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086870"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Insights partenaires – Forum aux questions
 
 **Rôles appropriés**
+
 - Visionneuse de rapports
 - Visionneuse de rapports de la direction
 
-Cela se rapporte aux problèmes connus d’affichage ou de rendu des rapports associés à Insights.
+Cet article traite des problèmes connus liés à l’affichage ou au rendu de rapports associés à Insights.
 
 Q) **je ne vois pas le Hub Insights dans mon compte espace partenaires. Que dois-je faire ?**
 

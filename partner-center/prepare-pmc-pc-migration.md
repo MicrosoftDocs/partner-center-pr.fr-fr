@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999983"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633877"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Préparer votre transfert du Partner Membership Center (PMC) vers l’Espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent commercial
 - Agent d’administration
 
@@ -120,7 +121,7 @@ Bien que l’administrateur MPN ou l’administrateur général puisse affecter 
 
 ### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>Comment gérer les associations MCP et l’accès Partner University ?
 
-Les associations MCP qui sont transférées à partir de PMC ne subissent aucun changement. Cependant, les nouveaux employés ajoutés après le transfert dans l’Espace partenaires doivent être associés dans ce dernier. Si toutes les autorisations Partner University de vos utilisateurs existants sont conservées, les nouveaux employés doivent se rendre dans [le centre de formation](https://partner.microsoft.com/training) pour savoir comment obtenir un accès à Partner University.
+Les associations MCP qui sont transférées à partir de PMC ne subissent aucun changement. Cependant, les employés ajoutés après le transfert dans l’Espace partenaires doivent être associés dans ce dernier. Si toutes les autorisations Partner University de vos utilisateurs existants sont conservées, les nouveaux employés doivent se rendre dans [le centre de formation](https://partner.microsoft.com/training) pour savoir comment obtenir un accès à Partner University.
 
 ### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>Comment faire pour consulter les informations de MCP une fois le transfert dans l’Espace partenaires effectué ?
 
@@ -158,7 +159,7 @@ Votre entreprise peut créer autant de profils commerciaux dont elle a besoin po
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Comment les références seront-elles affectées et à quels changements s’attendre ? Par exemple, dans le cas d’une entreprise mondiale présente sur un marché et disposant de sites dans d’autres marchés, comment les références seront-elles affectées ?
 
-Les références sont affectées en fonction des paramètres de recherche définis par le client. Quel que soit le nombre de sites que vous avez (un ou une multitude), si les clients indiquent préférer un site et que vous avez une activité qui répond aux autres paramètres, la référence est affectée à ce site.
+Les références sont affectées en fonction des paramètres de recherche définis par le client. Quel que soit le nombre de sites que vous avez (un ou une multitude), si le client indique préférer un site et que vous avez une activité qui répond aux autres paramètres, la référence est affectée à ce site.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Je migre vers l’Espace partenaires depuis la Russie. Je reçois un message d’erreur relatif à Web Direct. Comment poursuivre la migration ?
 

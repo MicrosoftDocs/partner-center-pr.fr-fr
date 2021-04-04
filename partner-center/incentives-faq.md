@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756703"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179494"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Forum aux questions sur les incentives
 
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur de primes incitatives
-
 - Utilisateur de primes incitatives
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Ai-je besoin d’être l’administrateur général pour s’inscrire à des incentives ?
@@ -71,7 +70,7 @@ Si vous avez reçu une invitation ou si vous avez inscrit un programme d’incen
 
 Si vous avez besoin de modifier votre rôle ou vos autorisations, contactez l’administrateur général ou l’administrateur de compte de votre entreprise. Pour en savoir plus sur ces personnes, consultez [Rechercher un administrateur général](./find-your-role.md#find-your-global-admin).
 
-Notez que la page vue d’ensemble affiche uniquement les inscriptions associées au compte global du partenaire (PGA) associé au locataire Azure AD. Si votre entreprise possède plusieurs PGA, vous devez disposer d’informations d’identification différentes pour chacune d’elles.
+La page vue d’ensemble affiche uniquement les inscriptions associées au compte global du partenaire (PGA) associé au locataire Azure AD. Si votre entreprise possède plusieurs PGA, vous devez disposer d’informations d’identification différentes pour chacune d’elles.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Qui dois-je contacter si j’obtiens un message d’erreur ou si j’ai besoin d’aide pendant le processus d’inscription ?
 

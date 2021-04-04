@@ -1,28 +1,28 @@
 ---
 title: Questions fréquentes (FAQ) sur les paiements et les profils fiscaux
 description: Obtenir des réponses aux questions courantes sur les paiements et les détails des taxes dans l’espace partenaires. Comprend des réponses sur la raison pour laquelle vos revenus sont différents de ceux attendus.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247657"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087040"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questions courantes sur les paiements et les taxes
 
-**Rôles appropriés**:
+**Rôles appropriés**
 
 - Administrateur des comptes
 - Administrateur général
 - Administrateur de primes incitatives
 
-Cet article répond aux questions fréquemment posées sur les paiements et les taxes dans l’espace partenaires. les rubriques couvertes incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
+Cet article répond aux questions fréquemment posées sur les paiements et les détails fiscaux dans l’espace partenaires. Les sujets traités incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
 
 ## <a name="profile-management"></a>Gestion des profils
 
@@ -42,7 +42,7 @@ Vous n’avez peut-être pas les autorisations appropriées, ou vous êtes conne
 
 #### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Je peux me connecter uniquement avec mon @onmicrosoft.com domaine. Que dois-je faire ?
 
-Contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte AAD.
+Contactez votre administrateur de compte pour ajouter d’autres domaines au compte AAD.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Mon organisation participe à plusieurs programmes. Dois-je fournir plusieurs fois mon paiement et mon profil fiscal ?
 
@@ -61,7 +61,7 @@ Si votre entreprise est invitée à utiliser plusieurs programmes, vous pouvez u
 
 Il incombe à l’entreprise de s’assurer que le rôle d’administrateur d’incentives, qui dispose des autorisations nécessaires pour modifier ces informations, est donné uniquement aux employés appropriés.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mon profil fiscal a expiré. Comment la corriger ?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Mon profil fiscal a expiré. Comment faire corriger la mise à jour ?
 
 Si un profil fiscal est arrivé à expiration ou sur le lieu d’expirer, cela signifie que le formulaire d’imposition que vous avez fourni à Microsoft doit être mis à jour. Pour mettre à jour votre profil fiscal, procédez comme suit :
 
@@ -83,7 +83,7 @@ Si un profil fiscal est arrivé à expiration ou sur le lieu d’expirer, cela s
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Pourquoi le montant de mes revenus est-il différent de ce que je pensais ?
 
 - Si la commande a été payée partiellement par votre client, le montant acquis sera basé sur le montant partiellement payé après déduction des frais et taxes appropriées.
-- Vérifiez la responsabilité du paiement de la taxe par pays. Dans le cas de pays où Microsoft est responsable de la taxe, Microsoft collecte et déduit les taxes des revenus de l’éditeur. Le montant de la transaction indiqué dans le relevé est le montant après paiement des taxes. Consultez [Détails des taxes](tax-details-marketplace.md).
+- Vérifiez la responsabilité du paiement de la taxe par pays. Dans les pays où la taxe est responsable de Microsoft, Microsoft collecte et déduire les taxes des revenus de l’éditeur. Le montant de la transaction indiqué dans le relevé est le montant après paiement des taxes. Consultez [Détails des taxes](tax-details-marketplace.md).
 - Les offres SaaS et IaaS ont un tarif réduit de 10% au lieu de la valeur standard de 20%, ce qui laisse un taux de bénéfices de 90%. Cette promotion est valable jusqu’au 30 juin 2021.
 
 En **savoir plus** sur le contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), les [Détails](payout-policy-details.md)de la stratégie de paiement, le seuil de [paiement, la méthode et le délai](payment-thresholds-methods-timeframes.md), obtenir le [paiement](marketplace-get-paid.md), les [Détails fiscaux](tax-details-marketplace.md), les [instructions](payout-statement.md) de paiement
@@ -113,7 +113,7 @@ En **savoir plus** sur les [instructions de paiement](payout-statement.md), le [
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Comment faire définir mon compte pour ne pas recevoir le paiement ?
-Vous pouvez conserver les paiements dans le [profil de paiement](https://partner.microsoft.com/dashboard/commercial-marketplace/overview); cochez simplement la case **conserver**. Microsoft vous contiendra le paiement jusqu’à ce que vous relâchiez le blocage.
+Vous pouvez conserver les paiements dans le [profil de paiement](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Pour ce faire, cochez la case **Hold** et Microsoft vous contiendra le paiement jusqu’à ce que vous relâchiez le blocage.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Pourquoi est-ce que je reçois un paiement dans une devise différente de celle de l’achat ?
 
@@ -121,7 +121,7 @@ La devise du paiement est basée sur la devise que vous avez sélectionnée dans
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Comment faire pour rapprocher les ajustements ?
 
-Les ajustements de paiement sont des corrections de paiement afin de tenir compte des ajustements compensatoires, tels que les problèmes système. Dans le relevé de paiements, ReasonCode indique la raison de l’ajustement. Les ajustements ne sont pas destinés à être rapprochés directement avec les transactions individuelles.
+Les ajustements de paiement sont des corrections de paiement afin de tenir compte des ajustements compensatoires, tels que les problèmes système. Dans l’instruction de paiement, ReasonCode spécifie la raison de l’ajustement. Ils ne sont pas destinés à être réconcilier directement en transactions individuelles.
 
 **Informations supplémentaires**: contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ Utilisez l' [API de paiement de partenaire](https://apidocs.microsoft.com/servic
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Comment faire pour trouver les frais d’agence actuels et le taux de paiement ?
 
-- Consultez le Contrat des éditeurs de la Place de marché commerciale. Les frais d’agence standard s’élèvent à 20 %. Les transactions SaaS Co-Sell éligibles bénéficient d’un tarif réduit de 10%. Vérifiez si des annonces signalant des promotions applicables aux frais d’agence ont été publiées.
+- Consultez le Contrat des éditeurs de la Place de marché commerciale. Les frais d’agence standard s’élèvent à 20 %. Les transactions éligibles de covente SaaS bénéficient d’un tarif réduit de 10%. Vérifiez si des annonces signalant des promotions applicables aux frais d’agence ont été publiées.
 - Dans votre relevé de paiement, le taux d’obtention spécifie le taux de paiement réel pour une transaction donnée.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Quand puis-je m’attendre à recevoir un paiement de la part de Microsoft une fois que les revenus apparaissent sur mon relevé ?

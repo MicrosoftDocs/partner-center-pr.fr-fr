@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624134"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549105"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renouveler vos offres MPN pour les compétences et les spécialisations avancées au cours de la fenêtre de renouvellement
-
-### <a name="applies-to"></a>S’applique à
-
-- Espace partenaires
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Réponse à la crise du COVID-19 : Mise à jour de Microsoft Partner Network
 
@@ -42,7 +38,7 @@ Lorsque vous effectuez le renouvellement au cours de la fenêtre prévue à cet 
 
 4. Pour profiter de cette offre, accédez à **Offres d’abonnement**. Vous devrez peut-être payer les frais de compétence pour terminer le processus, en fonction de l’état d’achat ou de renouvellement de votre compétence.
 
-Pour tirer parti de l’extension, vous devez avoir déplacé votre abonnement entre le Partner Membership Center (PMC) et l’Espace partenaires afin de renouveler votre compétence et de payer les frais. Si vous n’avez pas déplacé votre abonnement, [découvrez-en plus](prepare-pmc-pc-migration.md) et [effectuez la transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) dès aujourd’hui.  
+Pour tirer parti de l’extension, vous devez avoir déplacé votre abonnement entre le Partner Membership Center (PMC) et l’Espace partenaires afin de renouveler votre compétence et de payer les frais. Si vous n’avez pas déplacé votre appartenance, [découvrez-en plus](prepare-pmc-pc-migration.md) et [effectuez la transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) dès aujourd’hui.  
 
 ## <a name="next-steps"></a>Étapes suivantes
 

@@ -9,16 +9,17 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490627"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086581"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Aperçus de l’espace partenaires : tableau de bord qui montre le fonctionnement d’un partenaire commercial Microsoft.
 
 **Rôles appropriés**
+
 - Administrateur général
 - Administrateur des comptes
 - Visionneuse de rapports de la direction
@@ -26,7 +27,7 @@ ms.locfileid: "89490627"
 
 ## <a name="introduction"></a>Introduction
 
-Insights est un tableau de bord de rapports unifiés de l’espace partenaires pour les partenaires commerciaux de Microsoft inscrits au programme Microsoft Partner Network (MPN). Le tableau de bord Insights fournit une vue 360 de vos indicateurs de performance clés (KPI) sur des produits Cloud tels que Office, Azure, Dynamics et des modèles de licence tels que CSP et EA. Il expose un ensemble complet de rapports d’indicateurs de performance clés qui peuvent vous aider à prendre des décisions pilotées par les données pour votre organisation. 
+Le tableau de bord Insights est un tableau de bord de rapports unifiés dans l’espace partenaires pour les partenaires commerciaux de Microsoft inscrits au programme Microsoft Partner Network (MPN). Le tableau de bord Insights fournit une vue 360 de vos indicateurs de performance clés (KPI) sur des produits Cloud tels que Office, Azure, Dynamics et des modèles de licence tels que CSP et EA. Il expose un ensemble complet de rapports d’indicateurs de performance clés qui peuvent vous aider à prendre des décisions pilotées par les données pour votre organisation. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Contrôle d’accès en fonction du rôle au tableau de bord Insights
 
@@ -64,7 +65,7 @@ Les rapports suivants sont disponibles dans le tableau de bord Insights.
 **Bouton commentaires**: chaque graphique/contrôle de tous les rapports Insights est incorporé avec un bouton commentaires pour vous permettre de fournir des commentaires sur une fonctionnalité de rapport. 
 
  
-**Filtres au niveau**de la page : à l’exception des rapports vue d’ensemble, avantages et compétences, tous les rapports Insights vous permettent d’appliquer des filtres au niveau de la page. 
+**Filtres au niveau** de la page : à l’exception des rapports vue d’ensemble, avantages et compétences, tous les rapports Insights vous permettent d’appliquer des filtres au niveau de la page. 
 
 - Les filtres sélectionnés s’appliquent à tous les graphiques et métriques d’une page, y compris la section Résumé. Un élément de filtre sera disponible si vous avez des données dans ce critère de filtre. 
 
@@ -78,7 +79,7 @@ Les rapports suivants sont disponibles dans le tableau de bord Insights.
 
 - Produits : liste de tous les produits Microsoft Cloud vendus/gérés par votre organisation, par exemple, O365, Azure, D365, EMS, Power BI, etc.
 - Marchés des clients : liste des pays clients
-- Attributions de partenaires : votre type d’association avec les abonnements de vos clients, par exemple, le partenaire numérique de l’enregistrement (DPOR), le privilège d’administrateur délégué (DAP), le lien d’administrateur partenaire (PAL), etc. 
+- Attributions de partenaires : votre type d’association avec les abonnements de vos clients, par exemple, le partenaire DPOR, le privilège d’administrateur délégué (DAP) et le lien d’administrateur partenaire (PAL). 
 - Emplacements des partenaires : liste de tous les emplacements MPN de votre organisation.
 - Canaux de vente : tout le canal de vente/la tarification par le biais de laquelle vous achetez/approvisionnez des produits et services, à savoir CSP, EA, CSP indirect, direct, conseiller, ouvrir, etc.
 - Segments de clientèle : liste des segments de clientèle dans la base de clients partenaires.

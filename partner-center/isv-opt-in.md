@@ -4,30 +4,30 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment l’éditeur de logiciels indépendant (ISV) rend certaines offres exclusives et disponibles uniquement pour des partenaires CSP spécifiques.
+description: Découvrez comment les éditeurs de logiciels indépendants (ISV) rendent certaines offres exclusives et disponibles uniquement pour des partenaires CSP spécifiques.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000113"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179460"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Offres exclusives des éditeurs de logiciels indépendants dans la Place de marché
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Agent commercial
 
-Un éditeur de logiciels indépendant (ISV) a la possibilité de proposer des offres exclusives uniquement disponibles pour certains partenaires CSP.
+Un éditeur de logiciels indépendant (ISV) peut faire des offres exclusives uniquement disponibles pour certains partenaires CSP.
 
-Les partenaires CSP peuvent afficher toutes les offres ISV dans la place de marché commerciale de l’espace partenaires. Toutefois, les offres marquées **exclusives**peuvent uniquement être achetées par des partenaires spécifiques sélectionnés par l’ISV. Si une offre n’est pas marquée comme **exclusive**, tous les partenaires peuvent l’acheter.
+Les partenaires CSP peuvent afficher toutes les offres ISV dans la place de marché commerciale de l’espace partenaires. Toutefois, les offres marquées **exclusives** peuvent uniquement être achetées par des partenaires spécifiques sélectionnés par l’ISV. Si une offre n’est pas marquée comme **exclusive**, tous les partenaires peuvent l’acheter.
 
 Les partenaires CSP spécifiques identifiés par un ISV peuvent :
 

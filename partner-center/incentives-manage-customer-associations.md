@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714433"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179477"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gérer les associations de clients incitatives
 
-**S’applique à :**
-
-- Espace partenaires
-
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur de la facturation
 - Administrateur général
@@ -87,7 +83,7 @@ Si 30 jours se sont écoulés et que vous souhaitez toujours contester une reven
 
 Il existe trois raisons principales pour lesquelles une revendication d’association CPOR doit être rejetée.
 
-**Demande de partenaire :** Les partenaires peuvent demander à ce que leur association soit rejetée. Ce raisonnement est principalement utilisé lorsque le partenaire a créé une revendication d’association CPOR par inadvertance à l’aide d’un MPN incorrect, a choisi une activité incorrecte (exemple.... Vous avez choisi l’Association du chiffre d’affaires plutôt que les préventes) ou ne travaille plus avec le client.
+**Demande de partenaire :** Les partenaires peuvent demander à ce que leur association soit rejetée. Ce raisonnement est principalement utilisé lorsque le partenaire a créé une revendication d’association CPOR par inadvertance à l’aide d’un MPN incorrect, a choisi une activité incorrecte (par exemple, vous avez choisi l’Association du chiffre d’affaires plutôt que la version préliminaire) ou ne travaille plus sur le client.
 
 **Refus du client :** Une fois que la revendication d’association CPOR a réussi le processus d’approbation de la PoE, son état passe à approuvé, alors que le client a la possibilité de refuser le consentement de l’Association. Si le client refuse de donner son consentement, l’association est rejetée.
 

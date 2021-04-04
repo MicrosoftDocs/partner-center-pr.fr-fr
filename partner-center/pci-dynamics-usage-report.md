@@ -8,20 +8,21 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d8755cadf7b572972c5abe1483ff6f0be98a1eb8
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146623"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086921"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation de Dynamics disponible à partir du tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
 Le rapport utilisation de Dynamics fournit des données d’utilisation pour les abonnements Dynamics 365 que vous avez vendus ou gérés pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation de Dynamics.
 
@@ -42,15 +43,15 @@ La section Résumé présente une vue instantanée des indicateurs clés liés a
 
    Le micro-graphique présente une tendance de mois sur mois du nombre de sièges disponibles pour la plage de dates sélectionnée.
 
-- Sièges affectés : nombre total de licences attribuées au cours de la période sélectionnée.
+- Sièges affectés : nombre total de licences affectées pendant le laps de temps sélectionné.
 
    Le micro-graphique présente une tendance mensuelle du nombre de sièges affectés au cours de la plage de dates sélectionnée.
 
-- Sièges actifs : nombre total de licences qui ont été utilisées au cours de la période sélectionnée. 
+- Sièges actifs : nombre total de licences qui ont été utilisées pendant le laps de temps sélectionné. 
 
    Le micro-graphique présente une tendance mensuelle des sièges actifs mensuels sur la période sélectionnée.
 
-- Utilisation active% : nombre total de sièges actifs exprimé sous forme de pourcentage des sièges disponibles pour la période sélectionnée. 
+- Utilisation active% : nombre total de sièges actifs exprimé sous forme de pourcentage des sièges disponibles pour le laps de temps sélectionné. 
 
    Le micro-graphique présente une tendance mensuelle de pourcentage d’utilisation actif sur la période sélectionnée.
 

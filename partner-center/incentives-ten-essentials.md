@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714556"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179103"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Les 10 éléments essentiels pour l’utilisation des incentives
-
-**S’applique à**
-
-- Espace partenaires
-- Partenaires dans le Microsoft Partner Network (MPN)
 
 **Rôles appropriés**
 
@@ -49,7 +44,7 @@ Il est important d’avoir une compréhension approfondie des rôles et des auto
 
 ## <a name="5-review-the-incentives-faq"></a>5. passez en revue le FAQ sur les incentives
 
-Recevez des réponses aux questions les plus fréquentes avant même de les demander. Nous mettons fréquemment à jour le FAQ sur les Incentives à l’aide des informations de Support Microsoft, ainsi que la communication directe avec les partenaires. Vous pouvez consulter le Forum aux questions [ici](incentives-faq.md).
+Recevez des réponses aux questions les plus fréquentes avant même de les demander. Nous mettons fréquemment à jour le FAQ sur les Incentives à l’aide des informations de Support Microsoft et de la communication directe avec les partenaires. Vous pouvez consulter le Forum aux questions [ici](incentives-faq.md).
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Confirmez l’éligibilité de votre programme
 

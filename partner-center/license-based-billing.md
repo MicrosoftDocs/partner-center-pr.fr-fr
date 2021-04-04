@@ -2,27 +2,26 @@
 title: Facturation basée sur la licence
 description: Découvrez comment la facturation basée sur les licences diffère de la facturation basée sur l’utilisation dans l’espace partenaires, notamment de la façon dont vous êtes facturé par licence (et non par utilisation de licence).
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367483"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179409"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Facturation basée sur une licence dans l’espace partenaires
 
-**S’applique à**
+**Rôles appropriés**
 
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Microsoft Cloud
-
-**Rôles appropriés** -administrateur général
-- Administrateur des utilisateurs
+- Administrateur général
+- Administrateur de la gestion des utilisateurs
 - Administrateur de la facturation
 - Agent d’administration
 
@@ -34,7 +33,7 @@ Vous pouvez choisir d’être facturé pour les licences une fois par mois (**fa
 
 ## <a name="billing-date-for-licenses"></a>Date de facturation des licences
 
-Les abonnements basés sur une licence sont facturés à l’avance à la **date anniversaire**de l’abonnement. La date anniversaire est le jour du mois auquel vous avez acheté l’abonnement.
+Les abonnements basés sur une licence sont facturés à l’avance à la **date anniversaire** de l’abonnement. La date anniversaire est le jour du mois auquel vous avez acheté l’abonnement.
 
 Par exemple :
 
@@ -45,13 +44,13 @@ Par exemple :
 
 Tous les abonnements basés sur des licences ont un terme payant de 12 mois, qui commence à la date d’achat.
 
-## <a name="license-cancellation"></a>Annulation de la licence
+## <a name="license-cancellation"></a>Annulation de licence
 
 Vous pouvez annuler une licence à tout moment pendant la [durée](#license-term)du contrat de licence. Toutefois, le mois dans lequel vous annulez influe sur la quantité de crédit que vous recevrez pour la licence annulée.
 
 Si vous suspendez un abonnement au mois 1, vous êtes crédité de 100%.
 
-Si vous suspendez un abonnement dans les mois 2-12, vous êtes crédité au prorata.
+Si vous suspendez un abonnement dans la période allant de février à décembre, vous serez crédité au prorata.
 
 ## <a name="license-renewal"></a>Renouvellement de licence
 

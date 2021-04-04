@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714483"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179256"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Créer un plan marketing pour votre programme d’incentives
 
-**S’applique à :**
-
-- Espace partenaires
-
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur de primes incitatives
 - Administrateur de la facturation
@@ -58,7 +54,7 @@ Pour plus d’informations sur les plans pour votre programme d’incentives par
 
 9. Dans la page **Nouvelle activité**, complétez les champs obligatoires. Vous pouvez sélectionner plusieurs pays. Quand vous avez terminé, sélectionnez **Enregistrer**. 
 
-10. Dans la page d’état, réexaminez vos informations. Une fois soumis, un plan ne peut plus être modifié. Quand vous avez terminé, sélectionnez **Soumettre**, puis **Confirmer**.
+10. Dans la page d’état, réexaminez vos informations. Une fois que vous avez envoyé un plan, vous ne pouvez pas le modifier. Quand vous avez terminé, sélectionnez **Soumettre**, puis **Confirmer**.
 
 Votre plan est maintenant soumis. Microsoft informera votre administrateur d’incentives une fois qu’il aura été approuvé ou si des informations supplémentaires sont nécessaires. Vous pouvez voir la progression du plan dans la fenêtre État de la page d’état.
 
@@ -90,9 +86,9 @@ Vous devez créer et soumettre votre plan avant le dernier jour de l’année du
 
 Microsoft vous adresse des paiements chaque mois en fonction de vos gains et des limites de votre plan. Les paiements sont effectués le 15 du mois suivant.
 
-Par exemple, si votre plan est approuvé pour 10 000 USD et que vous avez gagné 5 000 USD au mois d’avril, vous recevrez 5 000 USD le 15 mai.
+Par exemple, si votre plan est approuvé pour $10 000 et que vous avez gagné $5 000 le mois d’avril, vous recevrez $5 000 le 15 mai.
 
-Pour ce même plan, si vous avez gagné 15 000 USD au mois d’avril, vous recevrez 10 000 USD le 15 mai, car la limite de votre plan est de 10 000 USD. Pour recevoir un paiement supérieur, vous devez relever la limite de votre plan pour le mois suivant.
+Dans le cadre de ce même plan, si vous gagnez $15 000 au mois d’avril, vous recevrez $10 000 le 15 mai, car $10 000 était la limite de votre plan. Pour recevoir un paiement supérieur, vous devez relever la limite de votre plan pour le mois suivant.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

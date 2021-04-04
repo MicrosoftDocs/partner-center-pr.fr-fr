@@ -8,24 +8,20 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834881"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179511"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Résolution des problèmes liés aux paiements manquants, aux revenus incorrects et à d’autres problèmes
 
-**S’applique à**:
-
-- Espace partenaires
-
-**Rôles appropriés**:
+**Rôles appropriés**
 
 - Administrateur de primes incitatives
 
-Cet article vous aidera à résoudre les éventuels problèmes de paiement ou de paiement dans votre programme d’incentives. Les rubriques couvertes incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
+Cet article vous aidera à résoudre les éventuels problèmes de paiement ou de paiement dans votre programme d’incentives. Les sujets traités incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Qui peut créer ou mettre à jour les profils de paiement et de taxes pour mon organisation ?
 
@@ -122,7 +118,7 @@ Les bénéfices s’affichent dans la page **historique des transactions** et da
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Informations sur les transactions":::
 
-Les montants de gain mensuels dans la vue historique des transactions peuvent ne pas s’aligner sur le montant de paiement reçu pour un mois spécifique. Cela est dû à des recalculs et des ajustements pour des périodes de gains antérieurs qui sont appliquées aux paiements futurs.
+Les montants de gain mensuels dans la vue historique des transactions peuvent ne pas s’aligner sur le montant de paiement reçu pour un mois spécifique. Cela est dû à des recalculs et des ajustements pour les périodes d’approvisionnement antérieurs qui sont appliquées aux paiements futurs.
 
 Par exemple, un ajustement du salaire de janvier 2019 qui a été traité en septembre 2019 ne sera pas reflété dans le montant des bénéfices pour le 2019 septembre. Toutefois, lorsque le paiement pour le 2019 septembre est reçu, il inclut l’ajustement du 2019 du 1er janvier qui a été appliqué en septembre.
 
@@ -141,11 +137,11 @@ Cette vue vous permet d’afficher les paiements pour tous les programmes et ID 
 | Affichez vos informations de paiement par ligne, y compris les montants de versement et de paiement en devise locale  | Afficher le champ **liste des paiements**   |
 | Télécharger une lettre de remise   |  Sélectionner la **remise de paiement**  |
 | Afficher les détails de niveau transaction pour un paiement spécifique |  Sélectionner une **vue**  |
-| Exporter les détails d’une transaction vers Excel  |  Sélectionnez **Démarrer le téléchargement**, puis cliquez sur **Exporter les données**. Notez que tous les filtres sélectionnés seront appliqués aux données exportées. Une fois que l’État est passé à terminé, sélectionnez **Télécharger** et suivez les invites pour exporter le rapport détaillé des transactions. Actualisez la page si l’État n’est pas mis à jour dans un délai de cinq minutes.  |
+| Exporter les détails d’une transaction vers Excel  |  Sélectionnez **Démarrer le téléchargement**, puis **Exporter les données**. Tous les filtres sélectionnés seront appliqués aux données exportées. Une fois que l’État est passé à terminé, sélectionnez **Télécharger** et suivez les invites pour exporter le rapport détaillé des transactions. Actualisez la page si l’État n’est pas mis à jour dans un délai de cinq minutes.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Revenus et paiements manquants ou incorrects
 
-Si vous ne parvenez pas à localiser les détails d’un paiement ou d’une transaction, vérifiez si vous avez appliqué les filtres appropriés. Notez que, dans la mesure où certains noms de programme ont changé (par exemple, le fournisseur CSP 1T direct Partner est désormais un partenaire de facturation directe), vous devrez peut-être utiliser plusieurs sélections.
+Si vous ne parvenez pas à localiser les détails d’un paiement ou d’une transaction, vérifiez si vous avez appliqué les filtres appropriés. Dans la mesure où certains noms de programme ont changé (par exemple, le fournisseur CSP 1T direct Partner est désormais un partenaire de facturation directe), vous devrez peut-être utiliser plusieurs sélections.
 
 Si vous ne trouvez toujours pas vos revenus ou si vous pensez que les bénéfices affichés sont incorrects, contactez le [support technique](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 

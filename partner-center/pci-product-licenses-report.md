@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220298"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086904"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
-Le rapport licences du produit présente l’analytique des licences pour les produits Cloud basés sur des licences, tels que O365, Dynamics, M365, Power BI, etc. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
+Le rapport licences du produit présente l’analytique des licences pour les produits Cloud basés sur des licences, comme Office 365, Dynamics, Microsoft 365, Power BI et d’autres. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
 
 - Résumé
 - Répartition géographique des licences
@@ -40,10 +41,10 @@ La section Résumé fournit une vue instantanée des indicateurs de performance 
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Résumé du rapport de licence":::
 
-Pour plus d’informations sur chaque section du résumé, voir ci-dessous.
+Pour plus d’informations sur chaque section du résumé, voir ci-dessous :
 
 - Licenses : 
-  - Nombre actuel de licences vendues ou gérées par vous pour les produits Cloud basés sur des licences, tels que O365, Dynamics, M365, Power BI, etc.
+  - Nombre actuel de licences vendues ou gérées par vous pour les produits Cloud basés sur des licences, comme Office 365, Dynamics, Microsoft 365, Power BI et d’autres.
   - Augmentation du pourcentage ou diminution de ces licences sur la plage de dates sélectionnée.
   - Trend Trend Micro Chart : le micro graphique présente la tendance du nombre de licences mois sur mois pendant la plage de dates sélectionnée.
 

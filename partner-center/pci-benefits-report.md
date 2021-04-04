@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444890"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087006"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapport des avantages disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -23,7 +23,7 @@ ms.locfileid: "87444890"
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
 En tant que partenaire Microsoft, vous pouvez accéder à un hôte d’avantages qui utilisent la technologie et les innovations les plus récentes pour vous aider à améliorer les compétences de votre équipe, à améliorer l’efficacité et à développer votre activité. Les packages d’avantages incluent : les allocations de logiciels sous licence, les services Cloud, les abonnements Visual Studio et le support. Ces packages peuvent également inclure certaines ressources, offres et programmes de Go-to-Market. Le rapport avantages présente les tendances des avantages que vous avez consultés et leur utilisation au cours de la plage de dates sélectionnée.
 
@@ -39,11 +39,11 @@ Vous pouvez visualiser les graphiques suivants dans le rapport des avantages :
 - Go-to-Market
 
  > [!NOTE]
- > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre entreprise. Les types de données spécifiques dans ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
+ > Ce rapport est disponible dans le tableau de bord Insights. Pour afficher ce rapport, vous devez être affecté à un rôle spécifique dans l’espace partenaires, par exemple administrateur général, administrateur de compte, visionneuse de rapports ou visionneuse de rapports Executive. Pour plus d’informations, consultez l’administrateur général de votre société. les types spécifiques de données de ce rapport peuvent également être disponibles uniquement pour les utilisateurs disposant de privilèges de visionneuse de rapports exécutifs.
 
 ## <a name="summary"></a>Résumé
 
-La section Résumé présente les avantages offerts par les logiciels sous licence, les services Cloud (non-Azure), les abonnements Visual Studio, le support technique et certains services ou offres Go-to-Market.
+La section Résumé présente les avantages offerts par les logiciels sous licence, les services Cloud (non-Azure), les abonnements Visual Studio, le support technique et certains services ou offres de Go-to-Market.
 
 Exemple : les partenaires Microsoft Partner Network (MPN) peuvent bénéficier d’un support technique sur les produits et les produits Cloud locaux. Les partenaires qui atteignent la compétence Silver bénéficient d’un support technique de 15 incidents pour les produits sur site. Ils peuvent utiliser cette prise en charge en fonction des besoins. 
 

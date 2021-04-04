@@ -1,22 +1,22 @@
 ---
 title: Relevés de paiements
 description: En savoir plus sur les relevés de paiement et les résumés, ainsi que sur la façon d’afficher et d’exporter vos données de paiement depuis l’espace partenaires Microsoft
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549241"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087091"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur des comptes
 - Administrateur général
@@ -69,11 +69,11 @@ Utilisez la sélection de plage de dates située dans le coin supérieur droit d
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Filtre de recherche en haut à droite de la page.":::
 
-Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers le bas située dans la partie droite de la page. Cela affichera le levier, le chiffre d’affaires, le produit et le client. Si, pour une raison quelconque, ces données ne sont pas disponibles, mais que vous avez besoin d’y accéder, contactez le support technique. Si le résultat est le résultat d’un ajustement et non d’une transaction, les champs produit et client ne sont pas affichés.
+Pour afficher plus de détails sur un bénéfice, sélectionnez la flèche vers le bas située dans la partie droite de la page. Cela affichera le levier, le chiffre d’affaires, le produit et le client. Si, pour une raison quelconque, ces données ne sont pas disponibles, mais que vous avez besoin d’y accéder, contactez le support technique. Si le résultat est le résultat d’un ajustement et non d’une transaction, les champs produit et client ne s’affichent pas.
 
 ### <a name="transaction-history-summary"></a>Résumé de l’historique des transactions
 
-Cela permet d’afficher des informations détaillées, y compris l’origine de l’obtention du produit vendu à partir des dates, de l’État et du mois de paiement estimé.
+Cet affichage présente les détails de l’offre, y compris l’origine des données acquises à partir du produit vendu, de l’État et du mois de paiement estimé.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Historique des transactions.":::
 
@@ -116,7 +116,7 @@ Notez que votre paiement n’est publié que dans le mois projeté si le seuil e
 - Votre profil fiscal doit être à jour
 - Vos revenus doivent respecter ou dépasser le seuil minimal atteint défini dans le Guide de votre programme.
 - Paiement en attente : Si vous sélectionnez l’option « conserver mon paiement » sur la page attribution des profils.
-- Instrument de paiement non disponible : le paiement ou le profil fiscal n’est pas terminé.
+- Instrument de paiement non disponible : le paiement ou/et le profil fiscal n’est pas terminé.
 
 ### <a name="transaction-history-download"></a>Téléchargement de l’historique des transactions
 
@@ -220,7 +220,7 @@ Le tableau suivant répertorie les codes de raison des ajustements et leurs desc
 | Substitution de co-op | Ajustement qui transfère les bénéfices de la coopération vers une autre période ou qui convertit les bénéfices de la co-op en remise. |
 | Ajustement des opérations | Ajustement qui corrige les erreurs de calcul du système Microsoft. |
 | Ajustement OPS Microsoft incorrect Calc | Ajustement qui corrige les incorrections. |
-| Ajustement OPS Microsoft incorrect | Ajustement pour les calculs erronés liés à l’inscription. |
+| Ajustement OPS Microsoft incorrect | Ajustement pour les calculs incalculés liés à l’inscription. |
 | Mappage des partenaires (abonnement) MCI/CSP | Ajustement qui corrige le mauvais alignement de l’abonnement. |
 | Exception de stratégie | Ajustement qui remplace une règle de programme.  |
 | Bénéfice sur la période précédente | Ajustement pour les bénéfices en dehors de la période de gains en cours. |
@@ -262,7 +262,7 @@ Le tableau suivant décrit les différents États de gains.
 | À venir | Commande de paiement générée en attente de révisions internes avant le traitement du paiement. | Non |
 | Facture fiscale en attente | Votre facture fiscale est incomplète ou non valide. | Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé |
 | Rejeté pendant la vérification | Le paiement a été rejeté pendant la révision. | Contactez le Support Microsoft pour obtenir des détails |
-| Échec | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
+| Failed | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
 | En cours | Le paiement est en cours. | Non |
 | Paiement incorrect | Le remboursement est en cours. | Non |
 | Envoyé | Le paiement a été envoyé à votre banque. | Non |

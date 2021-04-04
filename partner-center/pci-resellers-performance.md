@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94cf24309486628d92878e0d8d5038b45c7b85df
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280510"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086887"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Tableau de bord des performances du revendeur dans Partner Center Insights
 
@@ -23,7 +23,7 @@ ms.locfileid: "89280510"
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
 Le tableau de bord des performances du revendeur dans Partner Center Insights fournit une vue d’ensemble des performances des différents revendeurs indirects d’un fournisseur CSP indirect. Le tableau de bord fournit des données sur les revendeurs qui sont actifs, sur le chiffre d’affaires qu’ils génèrent et sur les produits qui génèrent du revenu. Les fournisseurs indirects pourront rechercher un revendeur spécifique par nom et rechercher les détails du revendeur dans le tableau de bord des performances du revendeur.
 
@@ -68,7 +68,7 @@ Le micro-graphique présente l’évolution du chiffre d’affaires par mois pen
 
 ## <a name="geographical-spread-of-resellers"></a>Répartition géographique des revendeurs
 
-Les revendeurs par vue géographique fournissent la répartition géographique des revendeurs. À l’aide de ce widget, les partenaires peuvent afficher le nombre total de **revendeurs**, **de nouveaux revendeurs**et de **revenus facturés (USD)**, répartis par différentes zones géographiques.
+Les revendeurs par vue géographique fournissent la répartition géographique des revendeurs. À l’aide de ce widget, les partenaires peuvent afficher le nombre total de **revendeurs**, **de nouveaux revendeurs** et de **revenus facturés (USD)**, répartis par différentes zones géographiques.
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Appuyez sur l’option de **démarrage** sur la carte pour revenir à la vue d’origine. Pointez sur la carte pour afficher le **chiffre d’affaires facturé (USD)** par pays. Le champ revenu facturé (USD) de la grille peut être trié.
 
@@ -76,7 +76,7 @@ Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un 
 
 ## <a name="resellers-addchurns"></a>Ajouts/réactivités des revendeurs
 
-Cette vue fournit un mois sur la Division mensuelle du nombre de **nouveaux revendeurs**, des **revendeurs**ayant été renouvelés et des revendeurs **existants**. 
+Cette vue fournit un mois sur la Division mensuelle du nombre de **nouveaux revendeurs**, des **revendeurs** ayant été renouvelés et des revendeurs **existants**. 
 
 - Nouveaux revendeurs : nombre de revendeurs qui ont été inscrits récemment auprès du fournisseur indirect pendant la plage de dates sélectionnée.
 - Revendeurs à l’évolution : nombre de revendeurs qui n’ont pas de transaction au cours des six derniers mois, à l’exclusion du mois en cours.
@@ -92,7 +92,7 @@ Cette vue fournit une tendance mensuelle de la répartition du chiffre d’affai
 
 ## <a name="reseller-performance-by-products"></a>Performances des revendeurs par produits
 
-Cette vue fournit un fractionnement des métriques clés telles que le chiffre d’affaires facturé, le nombre d’abonnements et le nombre de licences par mois sur la base du mois. Le graphique à secteurs à droite indique le fractionnement global de ces métriques par différents produits, de sorte que le partenaire obtient un aperçu rapide de la rupture par les différents produits vendus par le revendeur.
+Cette vue fournit un fractionnement des métriques clés telles que le chiffre d’affaires facturé, le nombre d’abonnements et le nombre de licences par mois sur la base du mois. Le graphique à secteurs à droite indique le fractionnement global des mesures par divers produits, de sorte que le partenaire obtient un aperçu rapide de la rupture par les différents produits vendus par le revendeur.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Performances des revendeurs par produits":::
 

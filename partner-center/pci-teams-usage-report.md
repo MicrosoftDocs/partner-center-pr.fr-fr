@@ -8,20 +8,21 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146619"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086717"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation des équipes disponible dans le tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
 Le rapport utilisation des équipes présente les métriques liées aux charges de travail de vos équipes que vous avez vendues ou gérées pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation des équipes.
 
@@ -51,19 +52,19 @@ La section Résumé présente une vue instantanée des indicateurs clés liés a
 
 ## <a name="conversations-trend"></a>Tendance des conversations
 
-La tendance des conversations représente la tendance mensuelle des réunions, des appels et des systèmes téléphoniques des équipes, ainsi que la durée moyenne de la réunion, en minutes.
+Le rapport de tendance des conversations affiche la tendance mensuelle des réunions, des appels et des systèmes téléphoniques des équipes, ainsi que la durée moyenne de la réunion, en minutes.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendances de conversation de l’utilisation des équipes":::
 
 ## <a name="teams-usage-by-workloads"></a>Utilisation par les équipes des charges de travail
 
-L’utilisation des équipes par charges de travail représente le fractionnement mensuel des utilisateurs de postes de travail, mobiles et Web des équipes fractionnées par charges de travail.
+Le rapport utilisation des équipes par charges de travail montre le fractionnement mensuel des utilisateurs de bureau, mobiles et Web des équipes fractionnées par charges de travail.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilisation par les équipes des charges de travail":::
 
 ## <a name="top-customers-by-usage"></a>Principaux clients par utilisation
 
-Les meilleurs clients par utilisation décrivent l’utilisation des principaux clients en termes de réunions, d’appels et de systèmes téléphoniques et d’applications tierces.
+Le rapport meilleurs clients par utilisation montre l’utilisation des principaux clients pour les réunions, les appels, les systèmes téléphoniques et les applications tierces des équipes.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Principaux clients par utilisation":::
 

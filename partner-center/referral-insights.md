@@ -9,21 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756497"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549258"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenir des insights de référence dans l’Espace partenaires et voir les performances de vos références
 
-**S’applique à**
-
-- Opportunités de co-vente
-- Marchés privés
-
-La page **Opportunités de co-vente** dans la section **Analytique** de Références vous permet de voir les performances de vos références. Passez régulièrement en revue ces métriques pour identifier les tendances ou les domaines nécessitant votre attention, et faites un premier pas vers vos objectifs métier.
+La page **Opportunités de co-vente** dans la section **Analytique** de Références vous permet de voir l’état de vos références. Passez régulièrement en revue ces métriques pour identifier les tendances ou les domaines nécessitant votre attention, et faites un premier pas vers vos objectifs métier.
 
 Pour afficher les données des insights de vos opportunités de co-vente, dans le menu de l’Espace partenaires, accédez à **Références > Analytique > Opportunités de co-vente**.
 
@@ -32,9 +27,9 @@ Pour afficher les données des insights de vos opportunités de co-vente, dans l
 
 ## <a name="apply-filters"></a>Appliquer des filtres
 
-Dans la zone supérieure de la page **Opportunités de co-vente**, vous pouvez sélectionner la période pour laquelle vous souhaitez afficher les données. La sélection par défaut est **3M** (3 mois), mais vous pouvez choisir d’afficher les données sur une période de 6 mois ou 1 an à la place. Vous pouvez également sélectionner **Personnalisée** pour voir les données de toutes les références sur une période spécifique.
+Dans la zone supérieure de la page **Opportunités de co-vente**, vous pouvez sélectionner la période pour laquelle vous souhaitez afficher les données. La sélection par défaut est **3M** (trois mois), mais vous pouvez choisir d’afficher les données sur six mois ou un an. Vous pouvez également sélectionner **Personnalisée** pour voir les données de toutes les références sur une période spécifique.
 
-Vous pouvez cliquer sur le bouton Filtres pour ouvrir le volet permettant de filtrer toutes les données de cette page en fonction du nom du client, du pays, du type de marché, de la direction du marché, du nom de la solution et de l’état. Les détails de ces filtres sont fournis ci-dessous.
+Vous pouvez sélectionner le bouton **Filtres** pour ouvrir le volet permettant de filtrer toutes les données de cette page en fonction du nom du client, du pays, du type de marché, de la direction du marché, du nom de la solution et de l’état. Les détails de ces filtres sont fournis ci-dessous.
 
 - **Nom du client** : La valeur par défaut est **Tous**, mais vous pouvez restreindre les données à un ou plusieurs clients, en les sélectionnant.
 - **Pays** : La valeur par défaut est **Tous**, mais vous pouvez restreindre les données à un ou plusieurs pays du client, en les sélectionnant.
@@ -47,7 +42,7 @@ Les informations figurant dans tous les graphiques listés ci-après corresponde
 
 ## <a name="referrals-summary"></a>Résumé des références
 
-Cette carte affiche une vue d’ensemble des performances de vos opportunités de co-vente.
+Cette carte affiche une vue d’ensemble de l’état de vos opportunités de co-vente.
 
 Le graphique affiche le nombre total de marchés, le nombre de marchés conclus, le nombre de marchés perdus et le volume total de marchés (en USD) pour la période sélectionnée.
 
@@ -63,7 +58,7 @@ Cette section affiche un indicateur visuel de la façon dont vos marchés passen
 
 ## <a name="deals-by-geography"></a>Marchés par zone géographique
 
-Cette section affiche les pays/régions d’où proviennent les références, ainsi que les détails de chaque pays/région. Il existe une vue tabulaire des détails des marchés pour chaque pays, ainsi qu’une vue cartographique de tous les pays. Vous pouvez cliquer sur un pays spécifique dans la table ou cliquer sur la vue cartographique pour effectuer un zoom sur un pays spécifique.
+Cette section affiche les pays/régions d’où proviennent les références, ainsi que les détails de chaque pays/région. Il existe une vue tabulaire des détails des marchés pour chaque pays, ainsi qu’une vue cartographique de tous les pays. Vous pouvez sélectionner un pays spécifique dans la table ou sélectionner la vue cartographique pour effectuer un zoom sur un pays spécifique.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Image représentant la distribution géographique des références.":::
 
@@ -94,7 +89,7 @@ Les trois dimensions que vous pouvez choisir pour comparer les données sont :
 - Marchés
 - Solutions
 
-Lorsque le type de marché est sélectionné, vous avez la possibilité de comparer les performances des références en ce qui concerne les opportunités de co-vente et les marchés privés. Pour les marchés et les solutions, vous pouvez sélectionner jusqu’à trois options différentes pour comparer les performances. Le premier graphique, qui est un graphique à barres, présente les données avec une tendance mois après mois, basée sur le tableau croisé dynamique principal, qui est le volume ou la valeur des marchés conclus. Un graphique à secteurs figure également à droite du graphique à barres et affiche les pourcentages de distribution pour les mêmes données.
+Lorsque le type de marché est sélectionné, vous pouvez comparer les performances des références en ce qui concerne les opportunités de co-vente et les marchés privés. Pour les marchés et les solutions, vous pouvez sélectionner jusqu’à trois options différentes pour comparer les performances. Le premier graphique, qui est un graphique à barres, présente les données avec une tendance mois après mois, basée sur le tableau croisé dynamique principal, qui est le volume ou la valeur des marchés conclus. Un graphique à secteurs figure également à droite du graphique à barres et affiche les pourcentages de distribution pour les mêmes données.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Image représentant la section de comparaison.":::
 

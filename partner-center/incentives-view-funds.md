@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182509"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179426"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Afficher les fonds de coopération acquis, réclamé et restant disponibles
 
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur de primes incitatives
 - Utilisateur de primes incitatives
@@ -36,7 +36,7 @@ Vous pouvez suivre, surveiller et concilier vos fonds de coopération incitative
 
 Si vous pensez qu’il existe des différences dans les montants affichés dans le résumé, vous pouvez télécharger le rapport de transaction à partir de la période précédente. Ce rapport vous permet de déterminer la quantité de fonds de cofinancement gagnée pour la période d’utilisation sélectionnée. Pour télécharger des rapports sur les transactions ou valider les revendications soumises pour vous assurer que le montant de la co-op restant est exact, consultez [historique des transactions](./payout-statement.md#transaction-history).
 
-Si vous avez toujours des difficultés à rapprocher des montants ou si certains fonds de co-op ne sont pas visibles, vous pouvez ouvrir le ticket de support. Pour ce faire, sélectionnez l’icône de point d’interrogation dans le coin supérieur droit de la page, puis sélectionnez **incentives**.
+Si vous avez toujours des difficultés à rapprocher des montants ou si certains fonds de co-op ne sont pas visibles, vous pouvez ouvrir un ticket de support. Pour ce faire, sélectionnez l’icône de point d’interrogation dans le coin supérieur droit de la page, puis sélectionnez **incentives**.
 
 ## <a name="next-steps"></a>Étapes suivantes
 
