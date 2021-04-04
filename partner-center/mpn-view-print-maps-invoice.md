@@ -9,36 +9,32 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4102dae63c07a85993f1cf4a9a9dc91e42ee493a
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120043"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132789"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Factures et taxes dans le Microsoft Partner Network
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Administrateur partenaire MPN
 - Administrateur de la facturation
 - Agent d’administration
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Afficher ou télécharger votre facture d’abonnement MPN
 
-Utilisez les étapes ci-dessous pour afficher ou télécharger la facture finale pour une commande liée à votre adhésion au Microsoft Partner Network. Les factures sont généralement disponibles dix jours après la fin du paiement. Pour plus d’informations, contactez votre centre de service régional.  
+Utilisez les étapes ci-dessous pour afficher ou télécharger la facture finale pour une commande liée à votre adhésion au Microsoft Partner Network. Les factures sont généralement disponibles 10 jours après la fin du paiement. Pour plus d’informations, contactez votre centre de service régional.  
 
 Pour effectuer cette procédure, vous devez être administrateur général ou administrateur d’un partenaire MPN. 
 
 1.  Connectez-vous à l' [espace partenaires](https://partner.microsoft.com/dashboard/home) à l’aide de votre compte professionnel, puis sélectionnez **MPN** dans le menu de gauche.
 
-4.  Dans la liste déroulante, sélectionnez **offres d’abonnement** pour voir les offres disponibles à l’achat, ainsi que les factures disponibles pour l’année en cours de l’inscription. Pour afficher les factures des années précédentes, sélectionnez **Expiré**.
+4.  Dans la liste déroulante, sélectionnez **offres d’abonnement** pour voir les offres disponibles à l’achat et les factures disponibles pour l’année en cours de l’inscription. Pour afficher les factures des années précédentes, sélectionnez **Expiré**.
 
 6.  Sélectionnez la facture que vous souhaitez, puis sélectionnez **Télécharger la facture**. 
 

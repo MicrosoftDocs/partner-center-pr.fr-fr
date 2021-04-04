@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322115"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132262"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Prise en charge de plusieurs partenaires pour les clients qui souhaitent travailler avec plusieurs partenaires
 
 **S’applique à**
 
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires pour Microsoft Government Cloud
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent commercial
 
 La fonctionnalité multi-partenaires de l’espace partenaires prend en charge les scénarios dans lesquels un client souhaite travailler avec plusieurs partenaires. Par exemple, un client peut souhaiter embaucher un partenaire pour son expertise dans Office 365, mais engager un partenaire différent spécialisé dans Microsoft Azure.
@@ -46,4 +45,4 @@ La fonctionnalité multipartenaire n’effectue pas les opérations suivantes&nb
 - Modifier le partenaire d’enregistrement pour un abonnement
 
 > [!IMPORTANT]  
-> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Cette restriction s’applique uniquement au locataire utilisé pour l’exécution des transactions CSP. Les partenaires CSP qui utilisent un locataire non-CSP pour leur utilisation d’entreprise peuvent acheter des services en ligne auprès d’un autre partenaire CSP. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).
+> Pour l’heure, un partenaire engagé dans le programme CSP ne peut pas revendre de services en ligne à un autre partenaire du programme CSP. Cette restriction s’applique uniquement au client utilisé pour effectuer les transactions du fournisseur de solutions Cloud. Les partenaires fournisseurs de solutions Cloud qui se servent d’un client non-fournisseur de solutions Cloud pour leur usage professionnel peuvent acheter les services en ligne d’un autre fournisseur de solutions Cloud. Microsoft révise en permanence les politiques et les capacités de tous les programmes. Toute information concernant les nouvelles fonctionnalités ou les changements de politique sera annoncée via les canaux de communication habituels, dont font partie les [annonces de l’Espace partenaires](announcements/index.md).

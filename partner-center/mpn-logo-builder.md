@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104909282"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132398"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Comment créer un logo de partenaire, une lettre certifiée ou une récompense à l’aide du générateur de logos
 
 **Rôles appropriés**
 
-- Tous les utilisateurs de l’espace partenaires désireux d’en savoir plus sur le générateur de logos
+- Tous les partenaires désireux d’en savoir plus sur le générateur de logos
 
 La valeur de l’obtention d’une compétence Silver ou Gold est l’opportunité de faire la différence avec les clients. Un logo que vous pouvez utiliser dans vos documents de vente et de marketing et votre profil d’entreprise dans l’espace partenaires pour présenter les compétences ou les compétences que vous avez atteintes est inclus dans vos avantages en matière de compétences. 
 
@@ -28,7 +28,7 @@ Si vous avez été accepté dans le programme Azure expert MSP, si vous avez re�
 
 ## <a name="what-is-available-in-logo-builder"></a>Éléments disponibles dans le générateur de logos
 
-Ce qui est disponible pour votre entreprise dans le générateur de logos est aligné sur votre adhésion Microsoft Partner Network (MPN). Il faut jusqu’à 24 heures pour qu’une modification de votre adhésion MPN, telle que la réalisation d’une nouvelle compétence, soit reflétée.  
+Les logos disponibles pour votre société dans le générateur de logos sont alignés sur votre abonnement Microsoft Partner Network (MPN). Il faut jusqu’à 24 heures pour qu’une modification de votre adhésion MPN, telle que la réalisation d’une nouvelle compétence, soit reflétée.
 
 Les ressources que vous pouvez créer dans le générateur de logos sont les suivantes :
 
@@ -44,7 +44,7 @@ Les ressources que vous pouvez créer dans le générateur de logos sont les sui
 
 - Logo pour les partenaires qui ont acheté le Action Pack Microsoft
 
-## <a name="create-a-logo-using-logo-builder"></a>Créer un logo à l’aide du générateur de logos
+## <a name="create-a-logo-using-logo-builder"></a>Créer un logo avec le générateur de logos
 
 Votre profil de générateur de logos contient des informations que le générateur de logos stocke sur votre organisation et qui est destinée à vos informations uniquement.
 

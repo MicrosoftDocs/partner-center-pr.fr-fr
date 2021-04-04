@@ -8,24 +8,21 @@ description: Vendez des abonnements Minecraft Education Edition à des clients d
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000063"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133010"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vendre des abonnements Minecraft: Education Edition aux clients de l’éducation
 
-**S’applique à**
-
--  Espace partenaires
-
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent commercial
--   Agent d’administration
+
+- Administrateur général
+- Administrateur de la gestion des utilisateurs
+- Agent commercial
+- Agent d’administration
 
 Les partenaires qui travaillent avec des établissements scolaires peuvent proposer des abonnements **Minecraft : Education Edition** à ces derniers. Vous achetez l’abonnement au nom du client dans l’espace partenaires, puis le client télécharge le logiciel à partir du [Microsoft Store pour l’éducation](https://educationstore.microsoft.com). 
 

@@ -9,23 +9,20 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 064235ebdfee1e85a95908cf7a03f8e6fc676b00
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869280"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132602"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Passage du Centre d’administration des partenaires à l’Espace partenaires
 
-**S’applique à**
-- Espace partenaires
-- Centre d’administration des partenaires
-
 **Rôles appropriés**
+
 - Administrateur général
 
-L’Espace partenaires évolue pour devenir le seul endroit où vous allez gérer votre partenariat avec Microsoft et vos clients. Dans l’Espace partenaires, vous pouvez gérer l’adhésion, les références de clients, les primes incitatives et tous les autres aspects du programme Fournisseur de solutions Cloud. Vous allez également pouvoir effectuer la plupart des tâches du Centre d’administration des partenaires dans l’Espace partenaires, bien que certaines fonctionnalités ou actions fonctionnent différemment.
+L’Espace partenaires évolue pour devenir le seul endroit où vous allez gérer votre partenariat avec Microsoft et vos clients. Dans l’espace partenaires, vous pouvez gérer l’appartenance, les références des clients, les incentives et tous les autres aspects du programme fournisseur de solutions Cloud (CSP). Vous serez en mesure d’effectuer la majeure partie du travail que vous avez effectué dans PAC dans l’espace partenaires, bien que certaines fonctionnalités ou actions fonctionnent différemment.
 
 
 |**Action**   |**Centre d’administration des partenaires**   |**Espace partenaires**   |

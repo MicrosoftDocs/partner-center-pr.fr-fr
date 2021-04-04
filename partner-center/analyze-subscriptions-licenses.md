@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474085"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103789"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analyser les abonnements et les licences pour vous aider à prendre des décisions commerciales et de nouveaux objectifs
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474085"
 Les données prennent des décisions commerciales. Utilisez les mesures de la page **abonnement et analyse de licence** pour identifier vos réussites et les zones qui nécessitent une attention particulière. Utilisez ces informations lorsque vous planifiez de nouveaux objectifs commerciaux.
 
 Chiffre d' **affaires du atténuation CSP (USD)**: cette mesure représente le chiffre d’affaires facturé du fournisseur de solutions de chiffrement (USD) pour les 12 mois de fin (atténuation) pour les comptes d’emplacement de partenaire et le compte global partenaire (PGA) auquel ce compte CSP est associé. Si vous avez d’autres comptes CSP avec un autre PGA, vous devez vous connecter à chacun d’entre eux pour afficher le chiffre d’affaires atténuation agrégé correspondant.  Cliquez sur le lien Détails du téléchargement pour obtenir une répartition du chiffre d’affaires atténuation (USD) par ID MPN.
+
+>[!NOTE]
+>Les prix de la devise locale (commerce FX hérité) dans commercial sont gérés dans +/-5% du dollar des États-Unis. Le taux d’échange de commerce hérité (FX) est différent des taux de facturation d’infrastructure utilisés par Azure dans l’expérience de commerce moderne. Les tarifs modernes de facturation de commerce sont basés sur les tarifs Microsoft P&L (tarifs de Reuters FX du flux de trésorerie). Les tarifs de commerce FX hérités sont confidentiels à Microsoft.
+
 
 Le reste du rapport peut pivoter selon les produits suivants :
 
@@ -82,6 +86,8 @@ Nous effectuons le suivi des mesures suivantes :
 **Abonnements d’évaluation se terminant dans 30 jours**  
 
  - Liste des versions d’évaluation qui ont été démarrées, où la date de fin est comprise dans les 30 derniers jours et où aucune date de début de paiement n’est associée à l’abonnement  
+
+
 
 ## <a name="next-steps"></a>Étapes suivantes
 

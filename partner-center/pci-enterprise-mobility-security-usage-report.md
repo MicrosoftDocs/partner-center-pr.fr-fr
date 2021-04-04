@@ -8,20 +8,21 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146631"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086275"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Enterprise Mobility + Security disponible à partir du tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
 Le rapport d’utilisation Enterprise Mobility + Security fournit des données d’utilisation pour les abonnements Enterprise Mobility + Security que vous avez vendus ou gérés pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation de Enterprise Mobility + Security.
 
@@ -38,7 +39,7 @@ Le rapport d’utilisation Enterprise Mobility + Security fournit des données d
 
 La section Résumé présente une vue instantanée des indicateurs clés liés aux abonnements d’utilisation Enterprise Mobility + Security que vous avez vendus ou gérés pour vos clients. 
 
-- Nouveaux abonnements : nombre total d’abonnements vendus ou gérés au cours de la période sélectionnée.
+- Nouveaux abonnements : nombre total d’abonnements vendus ou gérés pendant le laps de temps sélectionné.
 
    Le micro-graphique présente une tendance d’un mois sur l’autre pour la plage de dates sélectionnée.
 

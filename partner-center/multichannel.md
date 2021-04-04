@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390646"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132721"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Prise en charge de plusieurs canaux-utilisation d’autres partenaires pour prendre en charge les abonnements client achetés ailleurs
 
 **S’applique à**
 
-- Espace partenaires
-- Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires pour Microsoft Government Cloud
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent commercial
 
 La fonctionnalité Multi-Channel de l’espace partenaires prend en charge les scénarios dans lesquels un client souhaite embaucher un partenaire pour gérer et prendre en charge un abonnement acheté ailleurs. La prise en charge de plusieurs canaux s’applique lorsque le client :

@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000073"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132653"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Déplacement de plusieurs sociétés vers l’espace partenaires à partir du Partner Membership Center (PMC)
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Agent commercial
 
@@ -80,7 +80,7 @@ Les détails sont basés sur les informations contenues dans le Partner Membersh
 
 Si le compte que vous déplacez se trouve dans le même pays ou la même région que le compte existant, vous pouvez décider si vous souhaitez utiliser cette adresse ou en ajouter une autre. Si vous décidez d’utiliser une autre adresse, cette adresse sera vérifiée. Si vous souhaitez utiliser la même adresse, l’adresse et le contact principal existants seront utilisés.
 
-Une fois que vous avez vérifié/modifié les informations de cet écran, cliquez sur Envoyer et vos comptes sont consolidés.
+Une fois que vous avez vérifié/modifié les informations de cet écran, sélectionnez **Envoyer** et vos comptes sont consolidés.
 
 ## <a name="partner-profile"></a>Profil de partenaire
 

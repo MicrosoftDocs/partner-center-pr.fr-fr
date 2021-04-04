@@ -1,22 +1,22 @@
 ---
 title: Planifications et traitements des paiements
 description: En savoir plus sur les versements et les transactions, tels que les calendriers de paiement et les processus de remboursement pour la place de marché commerciale et les autres transactions.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756851"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086173"
 ---
 # <a name="payout-schedules-and-processes"></a>Planifications et traitements des paiements
 
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur des comptes
 - Administrateur général
@@ -67,13 +67,13 @@ Tous les achats effectués sur une carte de crédit ou une facture mensuelle ont
 
 ## <a name="process-for-customer-non-payment"></a>Processus en cas de défaut de paiement d’un client
 
-Dans de rares cas, Microsoft peut ne pas pouvoir encaisser les paiements de clients ayant effectué des achats sur la Place de marché commerciale. Quand un client ne paie selon le calendrier de facturation, Microsoft lance le processus de recouvrement. Ce processus prend environ quatre mois et suppose une communication permanente de la part de Microsoft. Si le paiement n’est pas reçu à la fin de ce processus, Microsoft passe les fonds en pertes et profits et les considère comme irrécouvrables.
+Dans de rares cas, Microsoft peut ne pas pouvoir encaisser les paiements de clients ayant effectué des achats sur la Place de marché commerciale. Quand un client ne paie selon le calendrier de facturation, Microsoft lance le processus de recouvrement. Ce processus prend environ quatre mois et suppose une communication permanente de la part de Microsoft. Si le paiement n’est pas reçu à la fin de ce processus, Microsoft écrit les fonds comme étant non collectables.
 
 Dans le cadre du processus de paiement présenté ici, Microsoft peut avoir déjà adressé un paiement à l’éditeur (vous) alors que les fonds sont finalement irrécouvrables. Nous avons donc mis en place un processus pour compenser ces montants. Pour vous avertir que votre paiement (déjà perçu) risque d’être compensé, vous recevrez une notification dès lors qu’un client est engagé dans le processus de recouvrement et que les achats sont susceptibles d’être passés en pertes et profits.
 
 Microsoft recouvrera les paiements qu’il vous a déjà adressés en employant l’une des méthodes suivantes : (1) Microsoft se réserve le droit de déduire les montants dus des futurs paiements ; par exemple, si un montant déjà versé de 1 000 USD est considéré comme irrécouvrable et passé en pertes et profits, vos futurs paiements seront retenus tant que les 1 000 USD n’auront pas été récupérés, ou (2) Microsoft pourra demander un remboursement à l’éditeur ou lui adresser une facture correspondant aux montants non encaissés.
 
-Voici un exemple de calendrier :
+La planification suivante est un exemple :
 
 | Événement | Date approximative * | Visibilité du partenaire |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Voici un exemple de calendrier :
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Nombre de jours pour que les paiements atteignent un compte de paiement
 
-En général, nous envoyons tout paiement dû pour un mois donné le 15 de ce mois, mais il faut plus de temps pour que le paiement parvienne à votre compte. Le nombre de jours dépend du mode de paiement que nous utilisons pour votre compte, comme décrit ci-dessous.
+En règle générale, nous envoyons tout paiement dû au cours d’un mois donné le 15 jour de ce mois-ci, mais il faut un autre temps pour que le paiement atteigne votre compte. Le nombre de jours dépend du mode de paiement que nous utilisons pour votre compte, comme décrit ci-dessous.
 
 > [!NOTE]
 > Les jours indiqués ci-dessous sont approximatifs ; tout paiement peut prendre plus ou moins de temps pour atteindre votre compte.

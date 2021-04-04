@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944476"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133112"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gérer différents prospects, comme les demandes des clients, des prospects qualifiés par le marketing et des prospects qualifiés par les commerciaux
-
-**S’applique à**
-
-- Espace partenaires
-- Références
-- Fournisseur de solutions Microsoft
-- Profils d'entreprise
 
 **Rôles appropriés**
 
@@ -46,9 +39,9 @@ La condition préalable à la réception de clients est la [création d’un pro
 
 La section des clients comporte trois onglets de niveau supérieur. 
 
-**Prospects** de la place de marché : tous les prospects provenant des recherches de pages du fournisseur de solutions Microsoft, qui sont des demandes des clients.
+**Prospects** de la place de marché : il s’agit de tous les prospects provenant des recherches de pages du fournisseur de solutions Microsoft, qui sont des demandes des clients.
 
-**Prospects qualifiés** : tous les prospects de type marketing qualifié et commercial sont disponibles dans cet onglet.
+**Prospects qualifiés** : il s’agit de tous les prospects de type marketing et qualifié.
 
 **Favoris** : tous les prospects marqués comme favoris sous l’onglet prospects de la place de marché ou prospects qualifiés s’affichent dans cet onglet. Vous pouvez marquer n’importe quel prospect en tant que favori en cliquant sur l’icône représentant un cœur sur le Prospect dans le mode liste. Vous pouvez supprimer le prospect des favoris en cliquant simplement sur la même icône.
 
@@ -62,7 +55,7 @@ Au cours de cette étape, vous avez reçu un nouveau prospect directement à par
 
 Vous pouvez effectuer deux actions dans cette étape, accepter ou refuser la référence :
 
-- **Accepter :** Entrez un nom pour le contrat, la valeur estimée de la transaction et le délai d’achat estimé. Vous devez également fournir des informations dans le champ **Notes** pour expliquer ce que le client recherche. Vous pouvez éventuellement entrer votre ID CRM ici (pour votre référence uniquement), l’ID de campagne marketing, qui a entraîné le prospect respectif et ajouter des contacts supplémentaires à votre société. Quand vous avez terminé, cliquez sur **Suivant**. Nous allons déplacer la référence à l' **étape suivante**, ce qui signifie que vous envisagez de contacter activement le client pour répondre à ses besoins. Nous utiliserons également ces informations pour vous aider à trouver des affaires similaires à l’avenir. 
+- **Accepter**: entrez un nom pour le contrat, la valeur estimée de la transaction et le délai estimé pour l’achat. Vous devez également fournir des informations dans le champ **Notes** pour expliquer ce que le client recherche. Vous pouvez éventuellement entrer votre ID CRM ici (pour votre référence uniquement), l’ID de campagne marketing, qui a entraîné le prospect respectif et ajouter des contacts supplémentaires à votre société. Quand vous avez terminé, cliquez sur **Suivant**. Nous allons déplacer la référence à l' **étape suivante**, ce qui signifie que vous envisagez de contacter activement le client pour répondre à ses besoins. Nous utiliserons également ces informations pour vous aider à trouver des affaires similaires à l’avenir. 
 
 - **Refuser**: sélectionnez la raison pour laquelle vous refusez le contrat, ajoutez les notes que vous souhaitez inclure, puis sélectionnez **Fermer** le contrat. Nous allons l’archiver comme **refusé** et notifier au client de choisir un autre partenaire.
 
@@ -79,21 +72,21 @@ Lorsque vous avez terminé, vous pouvez effectuer l’une des deux actions suiva
 
 ### <a name="archived-stage"></a>Étape archivée
 
-Il s’agit d’une étape de terminal dans laquelle toutes les opportunités arrivent enfin. Vous pouvez afficher tous les clients qui se trouvent dans **Won, perdus, refusés**et **arrivés à expiration** dans cette étape. Il n’y a aucune action que vous pouvez effectuer dans cette étape.
+Il s’agit d’une étape de terminal dans laquelle toutes les opportunités arrivent enfin. Vous pouvez afficher tous les clients qui se trouvent dans **Won, perdus, refusés** et **arrivés à expiration** dans cette étape. Il n’y a aucune action que vous pouvez effectuer dans cette étape.
 
 ## <a name="getting-more-leads"></a>Obtenir plus de clients
 
 Voici quelques conseils pour vous aider à obtenir des références plus appropriées :
 
-- **Choisissez des mots clés et des préférences qui représentent votre expertise et votre modèle commercial** dans votre [profil commercial](create-a-marketing-profile.md). Supprimez les mots clés qui génèrent des références qui ne vous intéressent pas. Si vous ne souhaitez pas traiter les entreprises d’une certaine taille, mettez à jour cette préférence.
+- **Choisissez des mots clés et des préférences qui représentent votre expertise et votre modèle métier uniques dans votre [profil d’entreprise](create-a-marketing-profile.md)**. Supprimez les mots clés qui génèrent des références qui ne vous intéressent pas. Si vous ne souhaitez pas traiter les entreprises d’une certaine taille, mettez à jour cette préférence.
 
-- **Passez en revue vos informations de contact dans votre [profil d’entreprise](create-a-marketing-profile.md) pour chaque emplacement** Assurez-vous que votre équipe reçoit les alertes entrantes.
+- **Passez en revue vos informations de contact dans votre [profil d’entreprise](create-a-marketing-profile.md) pour chaque emplacement**. Assurez-vous que votre équipe reçoit les alertes entrantes.
 
-- **Répondre rapidement aux références** Lorsque vous répondez en temps voulu aux demandes entrantes, nous augmenterons votre visibilité dans les futurs résultats de la recherche de clients. Veillez à ce que votre équipe réponde rapidement et avec énergie.
+- **Répondez rapidement aux références**. Lorsque vous répondez en temps voulu aux demandes entrantes, nous augmenterons votre visibilité dans les futurs résultats de la recherche de clients. Veillez à ce que votre équipe réponde rapidement et avec énergie.
 
-- **Choosy avec les contrats que vous acceptez** Nous Surveillez les types de transactions que vous acceptez et déclinons et utilisez ces informations pour vous aider à trouver des offres similaires. Accepter les demandes qui ne sont pas adaptées n’améliore pas les résultats de votre recherche et peut avoir un impact sur la qualité des prospects que vous recevez.
+- **Choisissez soigneusement les transactions que vous acceptez**. Nous Surveillez les types de transactions que vous acceptez et déclinons et utilisez ces informations pour vous aider à trouver des offres similaires. Accepter les demandes qui ne sont pas adaptées n’améliore pas les résultats de votre recherche et peut avoir un impact sur la qualité des prospects que vous recevez.
 
-- **Indiquez les montants estimés des transactions (conclues ou perdues), leur date de clôture et leur état final**. Nous utiliserons ces informations pour continuer à vous fournir des références de qualité.
+- Reportez **les tailles estimées, les dates de clôture et l’état final de vos demandes (gagnées ou perdues)**. Nous utiliserons ces informations pour continuer à vous fournir des références de qualité.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

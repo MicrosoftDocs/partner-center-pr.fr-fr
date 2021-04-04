@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756127"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133044"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Utiliser l’espace partenaires pour vous inscrire en tant que partenaire Microsoft Learning
 
 **Rôles appropriés**
 
 - Administrateur partenaire MPN
-- Administrateur de compte MPN
+- Administrateur des comptes
 
 Cet article décrit les différentes façons dont un partenaire de l’Microsoft Partner Network peut s’inscrire au programme du partenaire de formation.
 
@@ -50,7 +50,7 @@ L’apprentissage Action Pack est l’entrée au niveau de la base dans le progr
 
 Learning Action Pack prend en charge les partenaires qui souhaitent fournir des services de formation, des offres ou des remises sur la place de marché de cours et des avantages pour aider les partenaires à devenir des experts sur différentes gammes de produits Microsoft.
 
-Les partenaires non pédagogiques peuvent acheter des cours à prix complet pour une formation interne uniquement. Si vous souhaitez distribuer le contenu en dehors de votre organisation, vous avez besoin d’un formateur certifié Microsoft (1 MCT) et vous devrez vous inscrire au Action Pack d’apprentissage.
+Les partenaires non pédagogiques peuvent acheter des cours à prix complet pour une formation interne uniquement. Si vous souhaitez distribuer le contenu en dehors de votre organisation, vous avez besoin d’un formateur certifié Microsoft (un MCT) et vous devrez vous inscrire pour la Action Pack d’apprentissage.
 
 Une fois que vous avez atteint les indicateurs de performance clés requis, vous pouvez remplir les conditions requises supplémentaires et choisir de mettre à niveau vers une option d’apprentissage Silver/Gold.
 
@@ -109,7 +109,7 @@ Contactez le [support technique de la Frontline partenaire](https://partner.micr
 
 Les rapports d’indicateurs de performance clés sont mis à jour une fois par mois au milieu du mois. L’éligibilité au renouvellement du programme d’apprentissage est mesurée pour les indicateurs de performance clés obtenus au cours des 12 mois d’activité de performances précédents, en fonction de votre date anniversaire. Par exemple, à partir du 15 janvier 2020, les données de l’indicateur de performance clé seront affichées pour la période du 2019 janvier à décembre 2019. Si votre facture est datée du 2020 janvier, les KPI correspondants seront visibles à partir du 15 février 2019. **Les confirmations de commande et les rapports de partenaires ne sont pas acceptés.** Seules les factures réelles seront acceptées.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>Q. Une formation d’une journée correspond-elle à 1 indicateur de performance clé ?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Q. Une formation d’une journée correspond-elle à un indicateur de performance clé ?
 
 La réalisation d’un indicateur de performance clé n’est pas liée à la durée de l’apprentissage. Pour en savoir plus sur la façon dont les indicateurs de performance clés sont mesurés, consultez les exemples de performances dans le [Guide d’inscription des partenaires de formation](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 

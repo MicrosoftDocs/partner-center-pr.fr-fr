@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220327"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086190"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport sur les abonnements au produit disponible dans le tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
-Le rapport abonnements aux produits présente des analyses sur les abonnements Cloud que vous avez vendus ou que vous gérez pour vos clients. Il s’agit d’un rapport spécifique à un produit qui comprend les performances des abonnements associés à des produits Cloud tels qu’Office 365, Azure, Dynamics, etc.
+Le rapport abonnements aux produits présente des analyses sur les abonnements Cloud que vous avez vendus ou que vous gérez pour vos clients. Il s’agit d’un rapport spécifique à un produit qui comprend les performances des abonnements associés à des produits Cloud tels qu’Office 365, Azure, Dynamics et d’autres.
 
 Vous pouvez consulter les sections suivantes dans le rapport abonnements aux produits.
 
@@ -44,7 +45,7 @@ La section Résumé présente une vue instantanée des indicateurs de performanc
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Résumé du rapport d’abonnements":::
 
-Pour plus d’informations sur chaque section du résumé, voir ci-dessous.
+Pour plus d’informations sur chaque section du résumé, voir ci-dessous :
 
 - Abonnements :
   - Nombre actuel d’abonnements au produit Cloud vendus ou gérés par vous.
@@ -88,7 +89,7 @@ L’histogramme empilé présente une répartition des abonnements nouveaux, exi
 
 ## <a name="subscription-distribution"></a>Distribution des abonnements
 
-Cette vue présente la répartition de vos abonnements actuels par vos emplacements MPN, les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution (par exemple, DPOR, DAP, etc.). Cliquez sur les onglets respectifs pour afficher la répartition en fonction de ces catégories. Pour créer le graphique à secteurs avec une répartition de catégories d’éléments spécifiques, sélectionnez ces catégories d’éléments dans la légende.
+Cet affichage présente la répartition de vos abonnements actuels par vos emplacements MPN, les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution (par exemple, DPOR, DAP, etc.). Sélectionnez les onglets respectifs pour afficher la répartition selon ces catégories. Pour créer le graphique à secteurs avec une répartition de catégories d’éléments spécifiques, sélectionnez ces catégories d’éléments dans la légende.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribution des abonnements":::
 

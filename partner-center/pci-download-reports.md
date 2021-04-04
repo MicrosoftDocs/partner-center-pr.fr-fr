@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175268"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086224"
 ---
-# <a name="download-reports"></a>Télécharger des rapports
+# <a name="download-reports"></a>Rapports de téléchargement
 
 **Rôles appropriés**
+
 - Visionneuse de rapports de la direction
 - Visionneuse de rapports
 
@@ -34,7 +35,7 @@ Pour générer un rapport, commencez par sélectionner le rapport dans la liste 
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Créer un rapport":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Créer un rapport":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Rapports générés":::
 
 >[!NOTE] 
 >Seuls les utilisateurs qui sont des visionneuses de rapports peuvent télécharger des rapports. Pour plus d’informations sur l’accès basé sur les rôles aux rapports de tableau de bord Insights, consultez la rubrique [rôles PCI](pci-roles.md). 
@@ -43,7 +44,7 @@ Pour générer un rapport, commencez par sélectionner le rapport dans la liste 
 
 Les rapports suivants sont disponibles au téléchargement :
 
-Le **profil de partenaire** fournit les détails relatifs au partenaire. Des détails tels que l’ID de partenaire, le nom du partenaire, la ville du partenaire, le pays du partenaire, etc. sont disponibles dans le rapport. Aucune agrégation ou lookback ne s’applique à ce rapport.
+Le **profil de partenaire** fournit les détails relatifs au partenaire. Les détails tels que l’ID de partenaire, le nom du partenaire, la ville du partenaire et le pays du partenaire sont disponibles dans le rapport. Aucune agrégation ou lookback ne s’applique à ce rapport.
 
 Les **Détails du client** fournissent les détails des clients associés à un partenaire. Il fournit également des métriques clés telles que les licences vendues, les ACR agrégées, etc. Le rapport est agrégé sur une base mensuelle.
 

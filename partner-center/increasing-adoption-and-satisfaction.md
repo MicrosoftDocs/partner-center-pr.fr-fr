@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691365"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178933"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Utiliser des métriques dans l’espace partenaires pour augmenter l’adoption et la satisfaction
-
-**S’applique à**
-
-- Espace partenaires
-- Programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Agent commercial
 
@@ -61,7 +56,7 @@ Vous pouvez trouver une licence et des données utilisateur pour un seul client 
 
 Terminologie :
 
-- **Habilitation** = licence que l’utilisateur est autorisée à utiliser (il n’est pas suspendu à des fins de fraude ou de non-paiement, il n’a pas été mis à niveau vers une licence différente, il n’a pas été annulé par l’utilisateur, etc.)
+- **Habilitation** = licence que l’utilisateur est autorisée à utiliser (elle n’est pas suspendue à des fins de fraude ou de non-paiement, elle n’a pas été mise à niveau vers une licence différente, elle n’a pas été annulée par l’utilisateur ou un autre problème).
 
 - **Actif** = si l’utilisateur abonné a utilisé le droit pour une tâche au cours des 28 derniers jours civils.
 
@@ -69,7 +64,7 @@ Terminologie :
 
 - **Utilisation%** = utilisateurs actifs/nombre total d’utilisateurs
 
-   Il arrive que le pourcentage d’utilisation soit surestimé ou supérieur à 100&nbsp;%. Cela peut se produire pour plusieurs raisons :
+   Il arrive que le pourcentage d’utilisation soit surestimé ou supérieur à 100&nbsp;%. Ce problème peut se produire pour plusieurs raisons :
 
   - Si le client connaissait une rotation d’employés, et que la licence a été transférée à un nouvel utilisateur.
 
@@ -77,7 +72,7 @@ Terminologie :
 
   - Si le client possède un abonnement d’évaluation, l’activité est comptée, mais l’abonnement n’est pas comptabilisé pour le nombre total de droits.
 
-  - Si certains clients utilisent Yammer nettement plus que ce à quoi ils sont autorisés par leur licence, cela peut fausser considérablement les données.
+  - Si certains clients utilisent Yammer beaucoup plus qu’ils n’y sont autorisés, ils peuvent fausser les données de façon spectaculaire.
 
 ## <a name="next-steps"></a>Étapes suivantes
 
@@ -87,7 +82,7 @@ Si vous avez de nombreuses questions d’aide et de procédures, que les numéro
 
 **Problème**: le taux d’adoption par l’utilisateur est faible et de nombreuses licences ne sont pas utilisées.
 
-**Éléments à prendre en compte**: les clients peuvent ne pas comprendre la valeur fournie par le logiciel. Ils ont besoin d’aide pour la mise en place de la manière dont ils peuvent l’intégrer à leur jour pour simplifier les tâches qu’ils font déjà, ou pour activer de nouveaux types de productivité.
+**Éléments à prendre en compte**: les clients peuvent ne pas comprendre la valeur fournie par le logiciel. Ils ont besoin d’aide pour la mise en place de la façon dont ils peuvent l’intégrer à leur jour pour simplifier les tâches qu’ils font déjà, ou pour activer de nouveaux types de productivité.
 
 **À essayer**: études de cas, témoignages d’utilisateurs sur des scénarios spécifiques, blogs de didacticiels ou vidéos.
 

@@ -9,22 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d441d121c28c2762d1f1c71d6f6a1e81d089f99c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436828"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132636"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrer les offres Dynamics 365 Business Edition vers des versions plus récentes
 
-**S’applique à**
-
-- Espace partenaires
-
 **Rôles appropriés**
+
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Agent commercial
 
@@ -32,7 +29,7 @@ ms.locfileid: "86436828"
 
 Pour garantir la continuité des clients, vous devez les transférer avec des abonnements arrivant à expiration vers une option prise en charge, comme indiqué ci-dessous. Nous vous recommandons de déplacer les clients vers les nouveaux abonnements avant la date de fin annuelle de l’abonnement pour éviter les interruptions de service pour les clients.
 
-Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement, ainsi que la propriété renouvellement automatique = faux. Les abonnements en question seront configurés pour renouveler automatiquement = false le 1er janvier 2019. Vous pouvez déplacer les clients vers un nouveau plan à tout moment. 
+Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement, ainsi que la propriété renouvellement automatique = faux. Les abonnements en question seront configurés pour renouveler automatiquement = faux le 1er janvier 2019. Vous pouvez déplacer les clients vers un nouveau plan à tout moment. 
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Les éditions Business de Dynamics 365 en cours de retrait
 

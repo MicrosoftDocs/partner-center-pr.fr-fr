@@ -9,30 +9,27 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8575d87ab3c4c7970135a87b7ef7564c4fe06232
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436848"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132738"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrer Dynamics 365 et Plan Customer Engagement à partir de Basic (offres qualifiées) vers une version plus récente
 
-**S’applique à**
-
--  Espace partenaires
-
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent d’administration
--   Agent commercial
+
+- Administrateur général
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Agent commercial
 
 À compter du 1er janvier 2019, les clients disposant de Dynamics 365 pour le plan d’engagement commercial/client des abonnements de base (offres qualifiées) ne peuvent plus renouveler ces offres héritées. les abonnements existants ne seront pas renouvelés automatiquement lorsqu’ils expirent. Sur la page de détails de l’abonnement, l’état de l’abonnement passe à « expire le [date] » dans « auto Renews on [date] ». 
 
 Pour garantir la continuité des clients, vous devez les transférer avec des abonnements arrivant à expiration vers une option prise en charge, comme indiqué ci-dessous. Nous vous recommandons de déplacer les clients vers les nouveaux abonnements avant la date de fin annuelle de l’abonnement pour éviter les interruptions de service pour les clients.
 
-Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement, ainsi que la propriété renouvellement automatique = faux. Les abonnements en question seront configurés pour renouveler automatiquement = false le 1er janvier 2019. Vous pouvez déplacer les clients vers un nouveau plan à tout moment. 
+Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement, ainsi que la propriété renouvellement automatique = faux. Les abonnements en question seront configurés pour renouveler automatiquement = faux le 1er janvier 2019. Vous pouvez déplacer les clients vers un nouveau plan à tout moment. 
 
 ### <a name="the-dynamics-365-offers-being-retired"></a>Les offres Dynamics 365 en cours de retrait
 
@@ -44,10 +41,10 @@ Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les a
 - Dynamics 365 pour Sales Enterprise Edition de SA pour CRM Basic (offre qualifiée) pour les enseignants
 - Dynamics 365 pour Sales Enterprise Edition de SA pour CRM Basic (offre qualifiée) pour les élèves
 - Dynamics 365 pour Sales Enterprise Edition (tarification gouvernementale) à partir de SA pour CRM Basic (offre qualifiée)
-- Dynamics 365 pour le module complémentaire Sales Enterprise Edition pour CRM Basic (offre qualifiée)
-- Dynamics 365 pour le module complémentaire Sales Enterprise Edition pour CRM de base (offre qualifiée) pour les enseignants
-- Dynamics 365 pour le module complémentaire Sales Enterprise Edition pour CRM de base (offre qualifiée) pour les élèves
-- Module complémentaire Dynamics 365 pour Sales Enterprise Edition (tarification gouvernementale) pour CRM Basic (offre qualifiée)
+- Dynamics 365 pour Sales Enterprise Edition Add-On pour CRM de base (offre qualifiée)
+- Dynamics 365 pour Sales Enterprise Edition Add-On pour CRM de base (offre qualifiée) pour les enseignants
+- Dynamics 365 pour Sales Enterprise Edition Add-On pour CRM de base (offre qualifiée) pour les élèves
+- Dynamics 365 pour Sales Enterprise Edition (tarification gouvernementale) Add-On pour CRM Basic (offre qualifiée)
 - Dynamics 365 Customer engagement plan Enterprise Edition CRMOL Basic (offre qualifiée)
 - Dynamics 365 Customer engagement plan Enterprise Edition (tarification gouvernementale) CRMOL Basic (offre qualifiée)
 - Dynamics 365 Customer engagement plan Enterprise Edition CRMOL Basic (offre qualifiée) pour les élèves
@@ -56,10 +53,10 @@ Si vous utilisez l’API (CREST ou Partner Center), vous pouvez rechercher les a
 - Dynamics 365 Customer engagement plan Enterprise Edition (tarification gouvernementale) à partir de SA pour CRM Basic (offre qualifiée)
 - Dynamics 365 Customer engagement plan Enterprise Edition de SA pour CRM Basic (offre qualifiée) pour les élèves
 - Dynamics 365 Customer engagement plan Enterprise Edition de SA pour CRM Basic (offre qualifiée) pour les enseignants
-- Dynamics 365 Customer engagement plan Enterprise Edition pour CRM Basic (offre qualifiée)
-- Dynamics 365 Customer engagement plan Enterprise Edition (tarification gouvernementale) complémentaire pour CRM Basic (offre qualifiée)
-- Dynamics 365 Customer engagement plan Enterprise Edition pour CRM Basic (offre qualifiée) pour les élèves
-- Dynamics 365 Customer engagement plan Enterprise Edition pour CRM Basic (offre qualifiée) pour les enseignants
+- Dynamics 365 Customer engagement plan Enterprise Edition Add-On pour CRM Basic (offre qualifiée)
+- Dynamics 365 Customer engagement plan Enterprise Edition (tarification gouvernementale) Add-On pour CRM Basic (offre qualifiée)
+- Dynamics 365 Customer engagement plan Enterprise Edition Add-On pour CRM Basic (offre qualifiée) pour les élèves
+- Dynamics 365 Customer engagement plan Enterprise Edition Add-On pour CRM Basic (offre qualifiée) pour les enseignants
 
 
 
@@ -107,9 +104,9 @@ Une fois que vous avez déplacé les licences vers le nouvel abonnement, vous po
 2. Sur la page Détails de l’abonnement, définissez l’ancien abonnement sur **suspendu** , puis sélectionnez **Envoyer**.
 
 L’ancien abonnement est maintenant suspendu et le nouvel abonnement est actif. L’abonnement suspendu est désapprovisionné automatiquement après 120 jours. Votre client n’aura aucuns frais supplémentaires pour l’ancien abonnement.
- 
+ 
 
- 
+ 
 
 
 

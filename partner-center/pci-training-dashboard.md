@@ -1,5 +1,5 @@
 ---
-title: Tableau de bord de formation Insights.
+title: Tableau de bord de formation Insights
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
@@ -9,16 +9,17 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175265"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086241"
 ---
 # <a name="trainings-dashboard"></a>Tableau de bord formations
 
 **Rôles appropriés**
+
 - Visionneuse de rapports de la direction
 - Visionneuse de rapports
 
@@ -34,7 +35,7 @@ Le tableau de bord formations fournit des Insights sur les certifications, les �
 
 ## <a name="summary"></a>Résumé
 
-La section Résumé présente un instantané numérique des différents indicateurs de performance liés à vos formations. Les différents indicateurs de performance sont les individus certifiés, les certifications, les individus avec informations d’identification d’examen, les informations d’identification de l’examen, les individus avec les informations d’identification d’évaluation et les informations d’identification d’évaluation. Les données de cette section sont actualisées en fonction de la plage de dates sélectionnée, qui peut être de trois mois (3M), de six mois (6 M) & 12 mois (1a) ou d’une plage de données personnalisée (personnalisée). 
+La section Résumé présente un instantané numérique des différents indicateurs de performance liés à vos formations. Les différents indicateurs de performance sont les individus certifiés, les certifications, les individus avec informations d’identification d’examen, les informations d’identification de l’examen, les individus avec les informations d’identification d’évaluation et les informations d’identification d’évaluation. Les données de cette section sont actualisées en fonction de la plage de dates sélectionnée, qui peut être de trois mois (3M), de six mois (6 M) et de 12 mois (1a) ou d’une plage de données personnalisée (personnalisée). 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Résumé":::
 
@@ -47,15 +48,15 @@ La section Résumé présente un instantané numérique des différents indicate
 
 ## <a name="training-performance"></a>Performances de formation
 
-Les performances de formation présentent le nombre mensuel de personnes et les formations effectuées par les individus de votre entreprise. Elle est divisée par des certifications, des évaluations et des examens sous la forme d’un graphique pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée. L’axe des Y représente le nombre distinct de personnes et le nombre de formations prises, pour le type d’apprentissage sélectionné. Cliquez sur les onglets respectifs situés au-dessus du graphique pour afficher la répartition par type d’apprentissage. Les données du graphique peuvent être téléchargées par le biais de l’icône de téléchargement au format. TSV pour la plage de dates sélectionnée.
+Les performances de formation présentent le nombre mensuel de personnes et les formations effectuées par les individus de votre entreprise. Elle est divisée par des certifications, des évaluations et des examens sous la forme d’un graphique pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée. L’axe des Y représente le nombre distinct de personnes et le nombre de formations prises, pour le type d’apprentissage sélectionné. Sélectionnez les onglets respectifs au-dessus du graphique pour afficher la répartition par type d’apprentissage. Les données du graphique peuvent être téléchargées par le biais de l’icône de téléchargement au format. TSV pour la plage de dates sélectionnée.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Résumé":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Performances de formation":::
 
 ## <a name="individuals-performance"></a>Performances des individus
 
 La section relative aux performances des individus présente les détails de la formation effectuée par les personnes de votre entreprise, pour la plage de dates sélectionnée. Recherchez et sélectionnez le nom d’un individu dans le volet gauche de la section. Les détails de formation de la personne sélectionnée sont affichés dans le volet droit de la section.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Résumé":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Performances de individuel":::
 
 >[!NOTE] 
 > La section relative aux performances des personnes est disponible uniquement pour les utilisateurs qui sont des visionneuses de rapports. 

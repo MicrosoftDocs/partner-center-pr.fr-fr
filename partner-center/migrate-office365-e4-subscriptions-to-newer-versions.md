@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949042"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132619"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office 365 E4 vers les nouvelles versions d’Office 365
 
-**S’applique à**
-
--  Espace partenaires
-
 **Rôles appropriés**
--   Administrateur général
--   Administrateur des utilisateurs
--   Agent d’administration
--   Agent commercial
+
+- Administrateur général
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
+- Agent commercial
 
 Le plan Office 365 Enterprise E4 est retiré, à compter du 7 avril 2017. Vous ne pouvez plus acheter de nouveaux abonnements Office 365 E4 après cette date, et les abonnements E4 existants ne seront pas renouvelés automatiquement lorsqu’ils expirent.
 
@@ -87,7 +84,7 @@ Suivez ces étapes pour migrer l’abonnement Office 365 Enterprise E4 d’un cl
 
 1. Dans le menu **espace partenaires** , sélectionnez **clients**, sélectionnez le client que vous souhaitez déplacer, puis sélectionnez **utilisateurs et licences**. La page utilisateurs et licences du client s’ouvre.
 
-2. Pour réaffecter les licences utilisateur, sélectionnez l’utilisateur à réaffecter, puis sélectionnez **Gérer les licences**.
+2. Pour réaffecter des licences utilisateur, sélectionnez l’utilisateur à réassigner, puis sélectionnez **gérer les licences**.
 
 3. Sur la page **gérer les licences** , désactivez la case à cocher **Office 365 Enterprise E4** et sélectionnez un nouveau plan de service pour l’abonnement vers lequel le client est déplacé.
 
@@ -109,7 +106,7 @@ L’ancien abonnement est suspendu et le nouvel abonnement est actif. L’abonne
 
 
 
- 
+ 
 
 
 

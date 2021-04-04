@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999213"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132329"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Offrez aux clients une version d’essai gratuite de 30 jours des produits Microsoft
 
-**S’applique à**
-
-- Espace partenaires
-
 **Rôles appropriés**
--   Administrateur général 
--   Administrateur des utilisateurs
--   Agent commercial
+
+- Administrateur général
+- Administrateur de la gestion des utilisateurs
+- Agent commercial
 
 Un bon moyen d’introduire des clients auprès de nouveaux produits Microsoft est d’offrir des versions d’évaluation gratuites de 30 jours. Vous pouvez vous inscrire aux versions d’évaluation du catalogue comme beaucoup d’autres services en ligne. Tous les partenaires peuvent participer.
 
@@ -54,8 +51,8 @@ Les licences d’essai doivent être affectées aux utilisateurs de la même fa�
 Obtenir une version d’évaluation de votre client dans l’espace partenaires :
 
 1. À partir de la **vente** dans l’espace partenaires, accédez au **catalogue**. 
-2. Dans le catalogue, dans **fréquence de facturation**, cliquez sur **offre d’essai**. Cela permet d’afficher uniquement les versions d’évaluation gratuites et de désactiver les autres offres qui ne sont pas gratuites. Les versions d’évaluation s’affichent sous l’onglet **essais** du catalogue.
-3. Sélectionnez la version d’évaluation gratuite que vous souhaitez proposer, puis sélectionnez **Envoyer**. Tous les essais sont effectués pendant trente jours pendant lesquels vous ne serez pas facturé. Vous pouvez également le convertir en abonnement payant à tout moment pendant la période d’évaluation.
+2. Dans le catalogue, dans **fréquence de facturation**, sélectionnez **offre d’essai**. Cela permet d’afficher uniquement les versions d’évaluation gratuites et de désactiver les autres offres qui ne sont pas gratuites. Les versions d’évaluation s’affichent sous l’onglet **essais** du catalogue.
+3. Sélectionnez la version d’évaluation gratuite que vous souhaitez proposer, puis sélectionnez **Envoyer**. Tous les essais sont effectués pendant 30 jours pendant lesquels vous ne serez pas facturé. Vous pouvez également le convertir en abonnement payant à tout moment pendant la période d’évaluation.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Conversion des versions d’évaluation en abonnements payants
 
@@ -73,7 +70,7 @@ Vous pouvez convertir des versions d’évaluation en abonnements payants à l�
 1. Accédez à la page d’abonnement du client, puis sélectionnez la version d’évaluation gratuite.
 2. Sélectionnez **convertir la version d’évaluation en abonnement payant**.
 3. Entrez la quantité de licences et la fréquence de facturation souhaitées, puis sélectionnez **appliquer**.
-4. La facturation de l’abonnement payant commence à la date de conversion, et l’abonnement est renouvelé à 12 mois à compter de la date de la conversion. 
+4. La facturation de l’abonnement payant commence à la date de conversion, et la nouvelle mise à jour automatique de l’abonnement est de 12 mois à compter de la date de conversion. 
 
 ### <a name="convert-trials-using-apis"></a>Convertir les essais à l’aide d’API
 
@@ -88,7 +85,7 @@ Tous les essais ne peuvent pas être convertis en abonnements payants. Les parte
 
 |**Version d’évaluation**   |**Offres de petites entreprises compatibles**   |**Offres d’entreprise compatibles**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Essai du Cloud commercial Microsoft Teams (initié par l’utilisateur)   |Microsoft 365 Business de base, Microsoft 365 Business standard Microsoft 365 Business Premium   | F3 (anciennement F1), Office 365 pour l’entreprise (E1, E3 et E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Essai du Cloud commercial Microsoft Teams (initié par l’utilisateur)   |Microsoft 365 Business de base, Microsoft 365 Business standard Microsoft 365 Business Premium   | F3 (anciennement F1), Office 365 pour Enterprise (E1, E3 et E5), Microsoft 365 F1/F3, Microsoft 365 Entreprise (E3)   |
 
 >[!NOTE]
 >Les offres ci-dessus ont des plans de service similaires avec des fonctionnalités similaires, mais il peut y avoir des différences entre les offres.
@@ -107,13 +104,13 @@ La facturation annuelle et les versions d’évaluation gratuites sont les même
 
 Vous pouvez utiliser des versions d’évaluation gratuites pour des abonnements mensuels et facturés annuellement. Vous pouvez sélectionner la fréquence de facturation quand vous convertissez la version d’évaluation en abonnement payant.
 
-La date de début de l’abonnement est basée sur la date de conversion. Si l’essai gratuit est converti en offre payante à facturation annuelle, la date de renouvellement de l’abonnement sera 12 mois à compter de la date de conversion. Si l’essai gratuit est converti en une offre payante avec facturation mensuelle, la date de renouvellement de l’abonnement sera 12 mois à compter de la date de facturation suivant la date de conversion.
+La date de début de l’abonnement est basée sur la date de conversion. Si la version d’évaluation gratuite est convertie en offre payante avec facturation annuelle, la date de renouvellement de l’abonnement sera de 12 mois à compter de la date de la conversion. Si l’essai gratuit est converti en une offre payante avec facturation mensuelle, la date de renouvellement de l’abonnement sera 12 mois à compter de la date de facturation suivant la date de conversion.
 
 ### <a name="invoices"></a>Factures
 
 Vous ne verrez pas les versions d’évaluation gratuites indiquées dans votre facture ou fichier de réconciliation basé sur une licence. Les versions d’évaluation gratuites s’affichent uniquement sur votre facture et votre fichier de rapprochement basé sur une licence après la conversion d’une version d’évaluation gratuite en abonnement payant. L’abonnement converti s’affiche de la même façon que n’importe quel nouvel abonnement.
 
-### <a name="incentives"></a>Primes incitatives
+### <a name="incentives"></a>Incentives
 
 Les versions d’évaluation gratuites n’ont pas d’impact sur les incentives.
 

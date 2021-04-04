@@ -9,28 +9,29 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220467"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086258"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Rapport compétences disponible à partir du tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
-Les compétences permettent à votre entreprise de démontrer vos capacités techniques à la fourniture de solutions Microsoft. Les compétences Microsoft sont conçues pour répondre aux besoins de vos clients et présenter votre expertise aux clients potentiels. Ils bénéficient d’un large éventail d’avantages de la part de Microsoft, tels que les quantités incluses de consommation Azure, les habilitations pour les produits Cloud tels que O365, le support technique, les offres Go-to-Market, etc. Aujourd’hui, il existe un total de 19 compétences parmi les catégories suivantes : **application et infrastructure**, **applications métier**, **données et IA** et **moderne Workplace**. Les compétences sont hiérarchisées en niveaux Silver ou Gold, par exemple. Il existe une barre supérieure pour la compétence Gold et un niveau supérieur de ressources marketing, d’offres et de programmes disponibles.  
+Les compétences permettent à votre entreprise de démontrer vos capacités techniques à la fourniture de solutions Microsoft. Les compétences Microsoft sont conçues pour répondre aux besoins de vos clients et présenter votre expertise aux clients potentiels. Ils bénéficient d’un large éventail d’avantages de la part de Microsoft, tels que les quantités incluses de consommation Azure, les habilitations pour les produits Cloud tels qu’Office 365, le support technique, les offres Go-to-Market et d’autres. Il y a un total de 19 compétences aujourd’hui parmi les catégories suivantes : **application et infrastructure**, **applications métier**, **données et IA** et **moderne Workplace**. Les compétences sont hiérarchisées en niveaux Silver ou Gold, par exemple. Il existe une barre supérieure pour la compétence Gold et un niveau supérieur de ressources marketing, d’offres et de programmes disponibles.  
 
 Vous bénéficierez d’une plus grande utilisation du rapport sur les compétences si vous en saurez plus sur le cycle de vie des compétences, la réalisation des compétences et d’autres détails sur le rapport de compétence.
 
 ## <a name="competency-life-cycle"></a>Cycle de vie des compétences
 
-Du point de vue du cycle de vie, les partenaires commencent par créer les indicateurs de performance clés (KPI) requis pour atteindre des compétences spécifiques. Une fois qu’ils atteignent le seuil défini pour une compétence donnée sur l’ensemble des mesures requises, elles deviennent **qualifiées** pour une compétence. Les partenaires peuvent ensuite payer l’offre de compétence (Silver ou Gold) pour atteindre les compétences et devenir **actives** dans cette compétence. L’état **actif** de la compétence est valide pendant un an à compter de la date de réalisation de la compétence (il s’agit de la **date anniversaire** de la compétence). À la fin de l’année anniversaire, les partenaires doivent respecter les exigences de compétence. S’ils ne satisfont pas à ces exigences, ils perdront la compétence. Un état **à risque** pour une compétence précédemment atteinte signifie que certaines mesures clés sont prévues pour tomber en dessous du seuil à la **date anniversaire**de ces compétences.
+Du point de vue du cycle de vie, les partenaires commencent par créer les indicateurs de performance clés (KPI) requis pour atteindre des compétences spécifiques. Une fois qu’ils atteignent le seuil défini pour une compétence donnée sur l’ensemble des mesures requises, elles deviennent **qualifiées** pour une compétence. Les partenaires peuvent ensuite payer l’offre de compétence (Silver ou Gold) pour atteindre les compétences et devenir **actives** dans cette compétence. L’état **actif** de la compétence est valide pendant un an à compter de la date de réalisation de la compétence (il s’agit de la **date anniversaire** de la compétence). À la fin de l’année anniversaire, les partenaires doivent respecter les exigences de compétence. S’ils ne satisfont pas à ces exigences, ils perdront la compétence. Un état **à risque** pour une compétence précédemment atteinte signifie que certaines mesures clés sont prévues pour tomber en dessous du seuil à la **date anniversaire** de ces compétences.
 
 ## <a name="competency-attainment"></a>Réalisation des compétences
 
@@ -53,7 +54,7 @@ Vous pouvez voir les sections suivantes dans le rapport compétences :
 
 ### <a name="summary"></a>Résumé
 
-La vue résumé présente un nombre de compétences avec leurs noms à chaque niveau de compétence (Gold/Silver) à travers toutes les étapes du cycle de vie de la compétence. Les étapes du cycle de vie de la compétence incluent : **démarré**, **qualifié**, **actif**et **risqué**. Exemple : les exigences relatives aux compétences Cloud se situent sous deux catégories : compétences et performances.
+La vue résumé présente un nombre de compétences avec leurs noms à chaque niveau de compétence (Gold/Silver) à travers toutes les étapes du cycle de vie de la compétence. Les étapes du cycle de vie de la compétence incluent : **démarré**, **qualifié**, **actif** et **risqué**. Exemple : les exigences relatives aux compétences Cloud se situent sous deux catégories : compétences et performances.
 
 - Démarré : nombre de compétences pour lesquelles une ou plusieurs des exigences sous-jacentes sont en cours.
 Répartition du nombre de compétences démarrées par niveau de compétence (Silver/or) avec les noms de compétence.
@@ -73,7 +74,7 @@ Cet affichage indique l’état des mesures de compétence par rapport aux seuil
 
 Le rapport peut être croisé par les deux plages de dates suivantes :
 
-1. ATTÉNUATION View : énumère les performances des partenaires au cours des douze derniers mois (atténuation).
+1. ATTÉNUATION View : énumère les performances des partenaires au cours des 12 derniers mois (atténuation).
 2. Affichage année anniversaire : cette valeur énumère les performances du partenaire de la date anniversaire précédente à la date anniversaire suivante.
 
 :::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analyse des mesures de compétence":::

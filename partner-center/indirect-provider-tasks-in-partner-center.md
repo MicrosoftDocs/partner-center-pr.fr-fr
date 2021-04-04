@@ -9,19 +9,19 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880767"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178950"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Devenez partenaire de revendeurs indirects dans le programme Fournisseur de solutions Cloud
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Agent commercial
 
@@ -45,7 +45,7 @@ Pour plus d’informations sur les éléments requis pour participer au programm
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Tâches de fournisseur indirect dans l’espace partenaires
 
-Effectuez les étapes suivantes pour établir et gérer votre partenariat avec les revendeurs et les clients indirects. Les étapes deux et trois sont décrites plus en détail ci-dessous.
+Effectuez les étapes suivantes pour établir et gérer votre partenariat avec les revendeurs et les clients indirects. Les étapes 2 et 3 sont décrites plus en détail ci-dessous.
 
 1. Passez en revue le profil de votre société dans la [liste des fournisseurs indirects officiels de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
@@ -111,7 +111,7 @@ Pour supprimer le partenariat avec un revendeur indirect existant, suivez les é
 
 1. Dans le menu de l’espace partenaires du tableau de bord, sélectionnez **revendeurs indirects**. 
 
-2. Sur la page **revendeurs indirects** , sélectionnez **supprimer le partenariat**. Un message s’affiche pour vous demander confirmation. Sélectionnez Oui pour continuer.
+2. Sur la page **revendeurs indirects** , sélectionnez **supprimer le partenariat**. Un message s’affiche pour vous demander de confirmer l’opération. Pour continuer, sélectionnez **Oui**.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Supprimer le partenariat":::
 
@@ -151,7 +151,7 @@ Lorsque vous associez un revendeur à un nouveau compte client, vous déléguez 
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Ajouter de nouveaux abonnements aux comptes client
 
-Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau des abonnements existants ou acheter des licences supplémentaires, vous apportez ces modifications au compte du client via le portail M365. Vous ne pouvez pas le faire dans le Portail Azure.
+Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau des abonnements existants ou acheter des licences supplémentaires, vous apportez ces modifications au compte du client via le portail Microsoft 365. Vous ne pouvez pas le faire dans le Portail Azure.
 
 1. Sélectionnez **clients** dans le menu de l' **espace partenaires** .
 
@@ -171,7 +171,7 @@ Lorsque les clients souhaitent acheter de nouveaux abonnements, mettre à niveau
 
 Trouvez les réponses à vos questions sur l’accord de partenariat Microsoft
 
-- [Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter l’accord de partenariat Microsoft-FAQ](mpa-indirect-provider-faq.md)
+- [Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter le Contrat Partenaire Microsoft - FAQ](mpa-indirect-provider-faq.md)
 
 Pour plus d’informations sur la gestion des comptes client et des abonnements, consultez :
 

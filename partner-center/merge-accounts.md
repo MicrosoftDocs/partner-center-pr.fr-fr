@@ -2,20 +2,22 @@
 title: Fusionner votre compte partenaire avec un autre compte partenaire
 description: Découvrez comment fusionner votre compte partenaire avec un autre compte partenaire dans l’espace partenaires pour les entreprises qui sont des partenaires Microsoft actifs dans l’espace partenaires.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182594"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133061"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Fusionner votre compte partenaire avec un autre compte partenaire
 
-**Rôles applicables**
+**Rôles appropriés**
 
 - Administrateur des comptes
 
@@ -35,7 +37,7 @@ Au moins deux sociétés qui sont des partenaires Microsoft actifs et qui dispos
 
 - Les rôles de l’utilisateur sont reportés. Par exemple, si un utilisateur était l’administrateur des Incentives pour un emplacement spécifique, il aurait toujours ce rôle après la fusion et pourra voir les incentives qu’il a vus avant la fusion.
 
-- Les clients Azure AD et les comptes CSP ne sont pas fusionnés et n’ont pas d’impact.
+- Les clients Azure AD et les comptes CSP ne sont pas fusionnés et n’ont aucun effet.
 
 - Les offres publiées et les données de pipeline de covente associées aux deux entreprises sont conservées
 
@@ -65,7 +67,7 @@ Si vous décidez d’accepter l’invitation pour fusionner les comptes : · Vo
 
   - Compétence : la société partenaire recevra un package d’avantages centraux, associé à sa meilleure réalisation, ainsi que les avantages spécifiques aux compétences que le partenaire est éligible pour chaque compte global partenaire.
 
-- Tous les avantages sont soumis au [Guide d’utilisation de l’Microsoft Partner Network avantages](https://aka.ms/partner-benefits-use-guide). Par exemple : un jeton Office 365 E3 activé est fonctionnel pendant douze (12) mois après l’activation. Une fois qu’un jeton a été activé pour des licences sur un locataire, ces licences ne peuvent pas être déplacées vers un autre locataire.
+- Tous les avantages sont soumis au [Guide d’utilisation de l’Microsoft Partner Network avantages](https://aka.ms/partner-benefits-use-guide). Par exemple : un jeton Office 365 E3 activé est fonctionnel pendant 12 mois après l’activation. Une fois qu’un jeton a été activé pour des licences sur un locataire, ces licences ne peuvent pas être déplacées vers un autre locataire.
 
 - Les associations d’ID MCP pour les deux sociétés seront conservées et associées à l’ID MPN PGA.
 
@@ -77,7 +79,7 @@ Si vous décidez d’accepter l’invitation pour fusionner les comptes : · Vo
 
 - Les bons de la Software Assurance sont conservés dans les deux comptes. 
 
-- Il n’y a aucun impact sur l’Association DPOR ou PAL. Toutes les contributions de revenu associées commencent à circuler dans le nouveau compte global partenaire
+- Il n’y a aucun effet sur l’Association DPOR ou PAL. Toutes les contributions de revenu associées commencent à circuler dans le nouveau compte global partenaire
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Inviter une société à fusionner son compte espace partenaires avec votre compte espace partenaires
 
@@ -94,37 +96,37 @@ Si vous décidez d’accepter l’invitation pour fusionner les comptes : · Vo
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exemple de deux sociétés qui fusionnent des comptes
 
-1. Contoso a 
+1. Contoso, Ltd. a 
 
     a. [ID MPN global 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) et un ID [MPN d’emplacement subordonné de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. un locataire Azure AD = @contoso.com
  
     c. une compétence Gold qui expire le 1er octobre 2020
-2. Fabricam a
+2. Fabrikam, Inc. a
  
     a.  un ID MPN global de 3333333 et deux ID MPN d’emplacement subordonné de 4444444 et 5555555
 
-    b.  un locataire Azure AD = @fabricam.com
+    b.  un locataire Azure AD = @fabrikam.com
 
     c.  deux compétences Gold expirent le 1er décembre 2020
-3.  Contoso achète fabricam et se déplace [ici](https://partner.microsoft.com/dashboard/account/merger) pour lancer une demande de fusion.
-4.  Fabricam se connecte à l’espace partenaires et accède à la même page que contoso à l’étape #3 pour approuver la demande de contoso.
+3.  Contoso achète Fabrikam et se rend [ici](https://partner.microsoft.com/dashboard/account/merger) pour lancer une demande de fusion.
+4.  Fabrikam se connecte à l’espace partenaires et accède à la même page que contoso à l’étape #3 pour approuver la demande de contoso.
 5.  Contoso passe en revue les détails de la fusion sur cette même page et fournit une confirmation pour poursuivre la fusion du compte.
 6.  Après la fusion, le compte d’entreprise s’affiche comme suit :
 
     a.  Une société nommée Contoso avec un ID MPN global de 1111111 et 4 ID MPN d’emplacement subordonné de 2222222, 3333333, 4444444 et 5555555
     
-    b.  Il aura deux locataires Azure AD ( @contoso.com + @fabricam.com ) qui ont accès au même compte espace partenaires
+    b.  Il aura deux locataires Azure AD ( @contoso.com + @fabrikam.com ) qui ont accès au même compte espace partenaires
     
     c.  Il disposera de deux packages d’avantages de compétence, l’un ayant expiré le 1er octobre 2020 et l’autre qui expire le 1er décembre 2020. Ils pourront renouveler en tant que package d’avantages de compétence unique le 1er décembre 2020. Lors du renouvellement, contoso conserve les trois compétences, même s’il ne peut gérer qu’un seul package d’avantages.
     
-7.  Les administrateurs de contoso vont continuer à gérer les rôles de l’espace partenaires pour @contoso.com les utilisateurs de. Les administrateurs de fabricam continuent à gérer les rôles de l’espace partenaires pour @fabricam.com les utilisateurs de. Les administrateurs de contoso peuvent uniquement gérer les utilisateurs de fabricam s’ils sont invités en tant qu’invités dans le locataire de fabricam.
-8.  Contoso peut décider d’ignorer le @fabricam.com locataire et de réémettre les nouvelles @contoso.com informations d’identification des employés fabricam avec de nouveaux rôles et autorisations.
+7.  Les administrateurs de contoso vont continuer à gérer les rôles de l’espace partenaires pour @contoso.com les utilisateurs de. Les administrateurs de Fabrikam vont continuer à gérer les rôles de l’espace partenaires pour @fabrikam.com les utilisateurs de. Les administrateurs de contoso peuvent uniquement gérer les utilisateurs de Fabrikam s’ils sont invités en tant qu’invités dans le locataire de fabrikam.
+8.  Contoso peut décider d’ignorer le @fabrikam.com locataire et de réémettre les nouvelles @contoso.com informations d’identification des employés de Fabrikam avec de nouveaux rôles et autorisations.
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Attribuer des rôles et des autorisations aux utilisateurs](permissions-overview.md)
+- [Affecter des rôles et des autorisations aux utilisateurs](permissions-overview.md)
 
 - [Vérifier les informations de votre profil de partenaire](update-your-partner-profile.md)
 

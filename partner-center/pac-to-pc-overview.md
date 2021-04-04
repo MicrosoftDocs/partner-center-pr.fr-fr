@@ -9,22 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: c266d3e271cd114bd771f17280e1390fb5f765d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720830"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086496"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Le Centre d’administration des partenaires est transféré à l’Espace partenaires
 
-**S’applique à**
-
-- Espace partenaires
-
 **Rôles appropriés**
+
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Agent commercial
 
@@ -41,7 +38,7 @@ En avril 2018, les PAC seront mis hors service, et les partenaires CSP vont êtr
 
 - Partenaires fournisseurs de solutions Cloud : Si vous êtes un partenaire CSP, nous vous redirigerons automatiquement vers l’espace partenaires à partir du 2018 avril.
 
-- Partenaires Advisor (si vous ne faites pas une transaction avec CSP et que vous utilisez PAC pour fournir des évaluations/devis à vos clients) : Si vous êtes un partenaire conseiller, nous vous redirigerons automatiquement vers l’espace partenaires à partir de juin 2020.
+- Partenaires Advisor (si vous ne faites pas des transactions de fournisseurs de solutions de chiffrement et que vous utilisez PAC pour fournir des évaluations/devis à vos clients) : Si vous êtes un partenaire conseiller, nous vous redirigerons automatiquement vers l’espace partenaires à partir du 2020 juin.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Commencez à utiliser l’espace partenaires Microsoft dès maintenant !
 

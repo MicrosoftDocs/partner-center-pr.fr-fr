@@ -1,21 +1,22 @@
 ---
 title: Obtenir le paiement dans l’espace partenaires
-description: En savoir plus sur la réception de paiements pour les revenus en tant que partenaire Microsoft, par exemple via les offres de la place de marché commercial, les programmes d’incentives et le programme fournisseur de solutions Cloud. Comprend la stratégie de paiement, l’état de retenue au paiement et les relevés de paiement.
-ms.service: marketplace
+description: En savoir plus sur la réception de paiements pour les revenus en tant que partenaire Microsoft, par exemple via les offres de la place de marché commercial, les programmes d’incentives et le programme fournisseur de solutions Cloud. Comprend la stratégie de paiement, l’état de retenue au paiement et les instructions de paiement.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492447"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133078"
 ---
 # <a name="getting-paid-in-partner-center"></a>Obtenir le paiement dans l’espace partenaires
 
-**Rôles appropriés :**
+**Rôles appropriés**
 
 - Administrateur des comptes
 - Administrateur général
@@ -30,7 +31,7 @@ L’obtention du paiement vous oblige à respecter les contrats et la politique 
 - La [stratégie](payout-policy-details.md) de paiement montre les stratégies de paiement de paiement, notamment le calendrier de paiement et les modes de paiement. La stratégie explique également le processus de non-paiement des clients.
 - Les [Détails des taxes](tax-details-marketplace.md) décrivent les taxes relatives à la sélection des prix et à la responsabilité fiscale dans le cadre du contrat Microsoft [Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560).
 - Les **frais de stockage** sont officiellement définis dans le contrat d’éditeur. Les frais de stockage sont appliqués à toutes les ventes d’offres collectées par le Marketplace commercial, y compris les modules complémentaires.
-- Les **paiements** sont effectués chaque mois (à condition que le seuil de paiement soit respecté). En général, nous envoyons tout paiement dû au cours d’un mois donné le 15 du mois. Les paiements prennent généralement entre 3 et 10 jours ouvrables supplémentaires pour atteindre votre compte de paiement. Pour plus d’informations, consultez [Seuils, modes et délais de paiement](payment-thresholds-methods-timeframes.md).
+- Les **paiements** sont effectués chaque mois (à condition que le seuil de paiement soit respecté). En règle générale, nous envoyons tout paiement dû pendant un mois donné, le 15 du mois. Les paiements prennent généralement entre 3 et 10 jours ouvrables supplémentaires pour atteindre votre compte de paiement. Pour plus d’informations, consultez [Seuils, modes et délais de paiement](payment-thresholds-methods-timeframes.md).
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Étapes préalables avant le paiement
 
@@ -38,7 +39,7 @@ Avant d’être payé la première fois, vous devez configurer votre compte de p
 
 ### <a name="payout-hold-status"></a>État de paiement en attente
 
-Par défaut, nous envoyons les paiements une fois par mois, comme décrit ci-dessus. Toutefois, vous avez la possibilité de mettre en attente vos paiements pour un programme et Microsoft ne diffusera pas vos paiements à votre compte. Si vous choisissez de mettre vos paiements en attente, nous continuerons à enregistrer les bénéfices dans la page **versements** . Toutefois, nous n’enverrons pas de paiements à votre compte tant que vous n’aurez pas retiré la mise en attente.
+Par défaut, nous envoyons les paiements une fois par mois, comme décrit ci-dessus. Toutefois, vous pouvez mettre en attente vos paiements pour un programme, et Microsoft ne diffusera pas vos paiements à votre compte. Si vous choisissez de mettre vos paiements en attente, nous continuerons à enregistrer les bénéfices dans la page **versements** . Toutefois, nous n’enverrons pas de paiements à votre compte tant que vous n’aurez pas retiré la mise en attente.
 
 Pour mettre vos paiements en attente, sélectionnez l’icône d’engrenage de **paramètres** en haut à droite, puis **paramètres de compte**. Sélectionnez **paiement et taxes** dans le menu de gauche, puis dans la section **attribution du profil de paiement et** de l’impôt, localisez le programme pour lequel vous souhaitez conserver les paiements. Cochez la case **conserver mon paiement** pour conserver les paiements pour ce programme. Vous pouvez modifier votre statut de conservation de paiement à tout moment, mais votre décision aura une incidence sur le versement mensuel suivant. Par exemple, si vous souhaitez mettre le paiement d’avril en attente, veillez à définir votre état de paiement en attente sur **Activé** avant la fin du mois de mars.
 

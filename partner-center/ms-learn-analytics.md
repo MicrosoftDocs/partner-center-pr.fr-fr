@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333811"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132313"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Le rapport Microsoft Learn Analytics affiche l’état des apprenants dans votre entreprise
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Le rapport d’analytique Microsoft Learn affiche l’état des apprenants dans votre entreprise
 
 **Rôles appropriés**
--   Administrateur général
--   Administrateur partenaire MPN
+
+- Administrateur général
+- Administrateur partenaire MPN
 
 Le rapport Microsoft Learn fournit des informations sur les apprenants dans votre entreprise, notamment sur les modules qu’ils ont terminés et sur les parcours d’apprentissage sur lesquels ils se trouvent. Le rapport affiche l’état de chaque apprenant. L’administrateur général et l’administrateur MPN de votre entreprise peuvent afficher les données.
 
@@ -73,7 +74,7 @@ L' **axe Y est le** nombre de saisies semi-automatiques de module dans le mois e
 
 **Onglet module**
 
-Cet onglet comprend la répartition des modules exécutés dans votre entreprise par les 5 premiers noms de module. produit auquel le module est associé ; et le rôle d’utilisateur pertinent pour le module.  
+Cet onglet comprend la répartition des modules exécutés dans votre entreprise par les cinq premiers noms de module. produit auquel le module est associé ; et le rôle d’utilisateur pertinent pour le module.  
 
 - Saisie semi-automatique des modules graphique en anneau : répartition des saisies semi-automatiques des modules (nombre affiché dans la section Résumé) par noms de module.
 
@@ -89,7 +90,7 @@ Le nombre affiché au centre du graphique est le nombre de produits distincts po
 
 **Onglet parcours de formation**   
 
-Cet onglet comprend une répartition des parcours d’apprentissage effectués dans votre entreprise par les 5 premiers noms de module. produit auquel le parcours d’apprentissage est mappé ; et le rôle pertinent pour ce parcours d’apprentissage.  
+Cet onglet comprend une répartition des parcours d’apprentissage effectués dans votre entreprise par les cinq premiers noms de modules. produit auquel le parcours d’apprentissage est mappé ; et le rôle pertinent pour ce parcours d’apprentissage.  
 
 - Parcours de formation achèvement graphique en anneau : répartition des saisies semi-automatiques du parcours d’apprentissage (nombre affiché dans la section Résumé) par nom.
 
@@ -111,7 +112,7 @@ Pour obtenir les détails d’un apprenant à l’aide de l’ID d’objet utili
 
 2. Copiez l’ID d’objet utilisateur dans la [zone mise en surbrillance](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) dans l’Explorateur graphique. 
 
-## <a name="faq"></a>Forum aux questions
+## <a name="faq"></a>Questions fréquentes (FAQ)
 
 1. Je ne parviens pas à voir les détails de l’apprentissage de mon entreprise.
 
@@ -131,7 +132,7 @@ Une fois que l’administrateur général a ajouté un nouvel utilisateur, celui
 
 3. Puis-je voir tous les utilisateurs de l’entreprise qui se connectent à Microsoft Learn avec un compte MSA dans ce rapport ?
 
-Actuellement, la meilleure façon de procéder consiste à ajouter ces utilisateurs à votre locataire Azure AD et à les ajouter à l’espace partenaires afin qu’ils puissent associer leur compte Microsoft Learn via **mon profil** dans l’espace partenaires. 
+Actuellement, la meilleure façon de procéder consiste à ajouter ces utilisateurs à votre locataire Azure AD, puis à les ajouter à l’espace partenaires pour qu’ils puissent associer leur compte Microsoft Learn via **mon profil** dans l’espace partenaires. 
 
 Pour les utilisateurs qui utilisent uniquement leur compte MSA pour la formation, dans un avenir proche, l’équipe Microsoft Learn permet à ces derniers d’associer leur adresse de messagerie professionnelle à leur profil Microsoft Learn. 
 

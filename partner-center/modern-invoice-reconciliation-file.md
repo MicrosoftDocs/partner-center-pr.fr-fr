@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712254"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103772"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Champs du fichier de rapprochement des achats à usage unique CSP
 
@@ -41,7 +41,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | ProductName | Nom du produit. | *Tables* |
 | ChargeType | [Type de frais ou d'](./recon-file-charge-types.md) ajustement. | *Nouveau* |
 | UnitPrice | Prix par licence, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *0,045* |
-| quantité ; | Nombre de licences. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *1* |
+| Quantité | Nombre de licences. Assurez-vous que cela correspond aux informations stockées dans votre système de facturation au cours du rapprochement. | *1* |
 | Sous-total | Total avant impôt. Le sous-total doit être égal à la quantité facturable multipliée par le prix unitaire effectif. | *0* |
 | TaxTotal | Frais liés au montant des taxes. Selon les règles fiscales et les circonstances spécifiques de votre marché. | *0* |
 | Total | Le montant total est égal au sous-total et au montant des taxes. | *0* |
@@ -51,8 +51,8 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | PublisherId | Identificateur unique utilisé par l’espace partenaires pour identifier le serveur de publication. | *NA* |
 | SubscriptionDescription | Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix. Cette colonne est un champ identique à OfferName. | *Plan Azure* |
 | SubscriptionId | Identificateur unique d’un abonnement dans la plateforme de facturation Microsoft. Non utilisé pour le rapprochement. Notez que cet identificateur n’est pas le même que l’ID d’abonnement dans la console d’administration partenaire. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | Date à laquelle le centre partenaires facture les frais d’abonnement. Si l’abonnement est acheté avec un terme de facturation annuelle et un plan de facturation mensuel, puis dans le premier fichier de réconciliation, il s’agit du jour de l’achat de l’abonnement. À partir du prochain fichier de rapprochement, il sera incrémenté de 30 jours. | *9/1/2020* |
-| ChargeEndDate | Jour de fin des frais pour le cycle de facturation de l’abonnement. Si l’abonnement est acheté avec un terme de facturation annuelle et un plan de facturation mensuel, puis dans le premier fichier de rapprochement, il s’agit du 30 jours suivant l’achat de l’abonnement. À partir du prochain fichier de rapprochement, il sera incrémenté de 30 jours. | *30/09/2020* |
+| ChargeStartDate | Date de début de la période de facturation d’un abonnement. | *9/1/2020* |
+| ChargeEndDate | Date de fin de la période de facturation d’un abonnement. | *30/09/2020* |
 | TermAndBillingCycle | Durée d’engagement pour poursuivre l’abonnement au moment de l’achat. | *Données stockées (Go/mois)* |
 | EffectiveUnitPrice | Prix unitaire au prorata pour calculer le coût du cycle de facturation. Les remises, les ajustements en jours de facturation et d’autres facteurs déterminent le prix unitaire effectif. Pour plus d’informations, consultez [calcul du prix unitaire effectif](./effective-unit-price-calculation.md).  | *0,03825* |
 | Unité | Type d’unité dans laquelle le compteur est facturé. | *1 Go/mois* |

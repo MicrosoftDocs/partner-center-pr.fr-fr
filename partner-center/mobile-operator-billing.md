@@ -1,19 +1,19 @@
 ---
 title: Facturation de l’opérateur mobile-Microsoft Store
 description: Le Microsoft Store offre une facturation d’opérateur mobile comme mode de paiement pour les opérateurs mobiles qui prennent en charge cette fonctionnalité.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, opérateurs mobiles, facturation mobile, facturation opérateur mobile
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335660"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178814"
 ---
 # <a name="mobile-operator-billing"></a>Facturation de l’opérateur mobile
 
@@ -29,23 +29,25 @@ Nous collaborons régulièrement avec les opérateurs mobiles pour développer l
 
 Les opérateurs mobiles suivants prennent actuellement en charge la facturation de l’opérateur mobile.
 
-| Pays/région       | Opérateurs mobiles                                        |
+| Pays/région       | Opérateurs de téléphonie mobile                                        |
 |----------------------|---------------------------------------------------------|
 | Australie            | Optus                                                   |
 | Autriche              | A1 Telekom, Hutchison 3G Autriche, T-Mobile/Tele. Ring  |
 | Belgique              | Base, Proximus                                          |
 | Canada               | Telus                                                   |
-| Tchéquie              | T-Mobile                                                |
+| Tchéquie              | T-Mobile, Vodafone, O2                                  |
 | Danemark              | 3, CDC/YouSee, Telenor, Telia                         |
 | Finlande              | DNA, Elisa                                              |
 | France               | Orange                                                  |
 | Allemagne              | O2, Telekom Deutschland, Vodafone                       |
 | Hongrie              | Telenor                                                 |
-| Italie                | Tre, vent                                               |
+| Italie                | Tre, vent, Vodafone                                     |
+| Corée du Sud                | SK Telecom                                              |
 | Malaisie             | Photo                                                    |
-| Pays-Bas          | KPN/Telfort                                           |
+| Pays-Bas          | KPN/Telfort, Vodafone                                 |
 | Norvège               | Telenor/Talkmore, Telia/OneCall                     |
-| Pologne               | Orange, lecture                                            |
+| Pologne               | Orange, lecture, T-Mobile                                  |
+| Arabie Saoudite         | STC                                                     |
 | Singapour            | M1 limitée, StarHub                                     |
 | Slovaquie             | Slovaque Telekom                                          |
 | Afrique du Sud         | Vodacom                                                 |
@@ -54,6 +56,6 @@ Les opérateurs mobiles suivants prennent actuellement en charge la facturation 
 | Suisse          | Aube, Swisscom                                       |
 | Taïwan               | FarEasTone                                              |
 | Turquie               | Turkcell                                                |
-| Émirats arabes unis | Etisalat                                                |
+| Émirats Arabes Unis | Etisalat                                                |
 | États-Unis        | Sprint, Verizon                                         |
-| Royaume-Uni       | 3 ru, EE, O2, Vodaphone                                 |
+| Royaume-Uni       | 3 UK, EE, O2, Vodafone                                 |

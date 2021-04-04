@@ -8,20 +8,21 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 727c370fbb787f1a63f50b28b4ef6ae703b7f1a3
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146627"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086309"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation d’Office 365 disponible dans le tableau de bord Insights de l’espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
 Le rapport d’utilisation d’Office 365 fournit les données d’utilisation des abonnements Office 365 que vous avez vendus ou gérés pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation d’Office 365.
 
@@ -54,7 +55,7 @@ La section Résumé présente une vue instantanée des indicateurs clés liés a
 
 ## <a name="office-365-usage-by-geography"></a>Utilisation d’Office 365 par zone géographique
 
-L' **utilisation d’Office 365 par zone géographique** représente la distribution des utilisateurs actifs mensuels (MAU) et des unités disponibles payantes (Pau) par pays du client. MAU fait référence au nombre de licences utilisées au cours du mois précédent et PAU fait référence au nombre de sièges payants vendus ou gérés pendant la période sélectionnée. Les couleurs plus claires sur la carte représentent des valeurs inférieures, tandis que les couleurs plus sombres représentent des valeurs plus élevées. Vous pouvez rechercher et sélectionner un pays dans la grille. Vous pouvez également effectuer un zoom avant pour une présentation détaillée.
+L' **utilisation d’Office 365 par zone géographique** représente la distribution des utilisateurs actifs mensuels (MAU) et des unités disponibles payantes (Pau) par pays du client. MAU fait référence au nombre de licences utilisées au cours du mois précédent et PAU fait référence au nombre de sièges payants vendus ou gérés pendant le laps de temps sélectionné. Les couleurs plus claires sur la carte représentent des valeurs inférieures, tandis que les couleurs plus sombres représentent des valeurs plus élevées. Vous pouvez rechercher et sélectionner un pays dans la grille. Vous pouvez également effectuer un zoom avant pour une présentation détaillée.
 
 Le tableau **nombre de pays/région** présente le nombre total de pays/régions où les événements d’utilisation d’Azure sont générés.
 

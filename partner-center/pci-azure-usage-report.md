@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez ce que vous êtes en train de faire et où vous pouvez améliorer l’utilisation des abonnements Azure que vous vendez ou gérez pour vos clients.
+description: Découvrez ce que vous faites bien et où vous pouvez améliorer l’utilisation des abonnements Azure que vous vendez ou gérez pour vos clients.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220727"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086207"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Azure disponible dans le tableau de bord des Insights de l’espace partenaires
 
 **Rôles appropriés**
+
 - Administrateur général
 - Agent d’administration
 - Visionneuse de rapports
-- Visionneuse de rapports Executive
+- Visionneuse de rapports de la direction
 
-Le rapport d’utilisation Azure présente les mesures relatives aux abonnements Azure de vos clients. Cela comprend le chiffre d’affaires et l’utilisation de la consommation Azure par catégories de compteurs. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation d’Azure.
+Le rapport d’utilisation Azure présente les mesures relatives aux abonnements Azure de vos clients. Ce rapport comprend les revenus et l’utilisation de la consommation Azure par catégories de compteurs. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation d’Azure.
 
 - Résumé
 - Utilisation d’Azure par zone géographique
@@ -37,9 +38,10 @@ Le rapport d’utilisation Azure présente les mesures relatives aux abonnements
 
 La section Résumé présente une vue instantanée des indicateurs de performance clés (KPI) associés aux abonnements Azure vendus ou gérés par vos clients.  
 
-- Abonnements Azure : nombre actuel d’abonnements clients Azure vendus ou gérés par pourcentage de croissance ou de refus des abonnements Azure au cours de la plage de dates sélectionnée.
+- Abonnements Azure : nombre actuel d’abonnements clients Azure vendus ou gérés par vous.
+Croissance en pourcentage ou baisse de ces abonnements Azure pendant la plage de dates sélectionnée.
 
-Le micro-graphique présente une tendance de mois sur mois du nombre d’abonnements Azure pour la plage de dates sélectionnée
+Le micro-graphique présente une tendance de mois sur mois du nombre d’abonnements Azure pour la plage de dates sélectionnée.
 - Abonnements Azure actifs : nombre actuel d’abonnements Azure vendus ou gérés par vous qui avaient une utilisation active au cours des 30 derniers jours.
 Pourcentage de croissance ou de refus de ces abonnements au cours de la plage de dates sélectionnée.
 

@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Comprendre les champs de votre fichier de facture pour la facturation de l’espace partenaires. Les champs et les définitions de tous les champs de facturation et champs de frais d’une seule période sont inclus.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556291"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178899"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Présentation des champs de facturation de l’espace partenaires
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Administrateur de la facturation
 - Agent du support technique
 
@@ -33,7 +35,7 @@ Les champs suivants s’affichent sur vos fichiers de facture.
 | ----- | ---------- |
 | US FEIN | Votre numéro d’identification d’employeur fédéral (FEIN). Il s’agit de votre numéro d’identificateur fiscal fédéral États-Unis. |
 | Numéro de client | Votre numéro de client. |
-| Facturer à | Adresse d’expédition de votre facture. Vous pouvez modifier le nom et/ou l’adresse de votre société dans votre profil de facturation de l’espace partenaires. |
+| Facturer à | Adresse d’expédition de votre facture. Vous pouvez modifier le nom et l’adresse de votre société dans votre profil de facturation de l’espace partenaires. |
 | Frais basés sur les licences | Frais mensuels ou annuels fixes pour vos licences achetées basées sur l’utilisation, facturés à l’avance du service. Ce nombre correspond à la somme de tous les frais dans la colonne de **sous-total** (colonne **T**) de votre fichier de réconciliation basé sur les licences. |
 | Frais basés sur l’utilisation | Votre utilisation d’Azure. Cela comprend les nouveaux services ou applications activés et utilisés au cours de la période de facturation. Ce nombre correspond à la somme de tous les frais dans la colonne **PretaxCharges** (colonne **Z**) de votre fichier de réconciliation basé sur l’utilisation. |
 | Remises | Remise que le client reçoit du tarif normal de l’abonnement. Ce nombre est indiqué sous la forme d’un *montant fixe*, et non d’un prix unitaire ou d’une licence. |
