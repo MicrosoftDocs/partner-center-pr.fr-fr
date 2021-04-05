@@ -1,7 +1,7 @@
 ---
 title: Calcul du prix unitaire effectif
 ms.topic: how-to
-ms.date: 11/10/2020
+ms.date: 04/02/2021
 description: En savoir plus sur le prix unitaire effectif et sur la façon dont il est calculé. Cet article contient également un exemple de calcul.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556325"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374387"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Calcul du prix unitaire effectif pour la consommation des plans Azure
 
@@ -53,7 +53,7 @@ Dans le tableau, les valeurs suivantes s’appliquent :
 - **Prix unitaire effectif** = BCU/BC
 
 >[!NOTE]
->Remarque : le compteur de cet exemple n’a pas de niveaux de tarification.
+>Le compteur de cet exemple n’a pas de niveaux de tarification. Les facteurs de prix unitaire effectifs dans les pourcentages de remise et autres ajustements.
 
 | Date | BCU (unité de consommation facturable) | BC (coût facturable) | Prix unitaire effectif |
 | ------ | ----------- | ----------- | ----------- |  
