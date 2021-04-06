@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/01/2021
+ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730057"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280851"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
 Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons régulièrement à jour ces informations. Pensez à les vérifier régulièrement.
 
-|**Catégorie**|**Annonces de mars 2021**|**Annoncé**|
+|**Catégorie**|**Annonces d’avril 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Fonctions|[Changements dans les conditions d’intégration des clients CSP (Cloud Solution Provider)](2021-april.md#2)|2 avril|
+|Fonctions|[Voir les lancements de produit et les offres du mois](2021-april.md#1)|1er avril|
+|**Catégorie**|**Annonces de mars 2021**|**Annoncé**|
+|Fonctions|[API de validation des adresses client CSP mise à jour disponible pour les tests](2021-march.md#18)|31 mars|
 |Offres/Espace de travail moderne|[Nouvelle expérience du centre d’administration Exchange (EAC)](2021-march.md#17)|29 mars|
 |Offres/Espace de travail moderne|[Microsoft Operations : Présentation du calendrier de lancement des produits](2021-march.md#16)|25 mars|
 |Fonctions|[Changements des conditions d’intégration des clients CSP](2021-march.md#15)|25 mars|

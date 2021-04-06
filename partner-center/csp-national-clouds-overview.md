@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979564"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502899"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Appliquer à la vente dans les clouds nationaux Microsoft dans le cadre du programme CSP
 
 **S’applique à**
 
-- Espace partenaires pour Microsoft Government Cloud
+- Espace partenaires de Microsoft Cloud for US Government
 - Espace partenaires pour Microsoft Cloud Allemagne
-
 
 **Rôles appropriés**
 
 - Administrateur général
 
-En plus de vendre aux clients dans le cadre du programme fournisseur de solutions de Cloud Computing global, les partenaires Microsoft qualifiés peuvent également vendre des solutions Cloud aux clients dans trois Clouds nationaux distincts. Les clouds nationaux sont des instances physiques et logiques isolées du réseau des services Cloud d’entreprise Microsoft, qui sont confinés dans les limites géographiques de pays spécifiques et exploitées par du personnel local. 
+En plus de vendre aux clients dans le cadre du programme fournisseur de solutions de Cloud Computing global, les partenaires Microsoft qualifiés peuvent également vendre des solutions Cloud aux clients dans trois Clouds nationaux distincts. Les clouds nationaux sont des instances physiques et logiques isolées du réseau des services Cloud d’entreprise Microsoft, qui sont confinés dans les limites géographiques de pays spécifiques et exploitées par du personnel local.
 
 Pour plus d’informations sur les offres de Cloud national de Microsoft, consultez [Clouds nationaux Microsoft](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
 
@@ -56,7 +55,7 @@ Les partenaires qualifiés peuvent vendre des solutions Cloud Microsoft aux clie
     
 -   [**Azure et Office 365 géré par 21ViaNet en Chine**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft fournit des services de Cloud Computing en Chine par le biais d’un partenariat unique avec la technologie de Cloud Blue de Shanghai Co. Ltd. (21Vianet), une filiale entièrement propriétaire du centre de données à la bande passante de Pékin., Ltd. 21Vianet est le plus grand fournisseur Internet neutre de centre de données, d’hébergement, de réseau géré et d’infrastructure de cloud computing en Chine. 
 
-    Microsoft est le fournisseur de technologies, mais ne fonctionne pas avec le service. 21Vianet fonctionne indépendamment, fournit et gère la remise des services Cloud Microsoft. En accordant des licences aux technologies Microsoft, 21Vianet peut offrir des services Azure et Office 365 et utiliser des centres de données Azure et Office 365 qui conservent des données au sein de la Chine continentale. 21Vianet fournit également des services d’abonnement et de facturation, ainsi que la prise en charge.
+    Microsoft est le fournisseur de technologies, mais ne fonctionne pas avec le service. 21Vianet fonctionne indépendamment, fournit et gère la remise des services Cloud Microsoft. En accordant des licences aux technologies Microsoft, 21Vianet peut offrir des services Azure et Office 365 et utiliser des centres de données Azure et Office 365 qui conservent des données au sein de la Chine continentale. 21Vianet fournit également des services d’abonnement et de facturation, ainsi que le support.
 
     Pour plus d’informations sur l’inscription et la vente à des clients dans Azure et Office 365 gérés par 21Vianet en Chine, consultez [espace partenaires géré par 21ViaNet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
 

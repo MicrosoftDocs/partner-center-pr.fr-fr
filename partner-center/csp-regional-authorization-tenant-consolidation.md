@@ -10,19 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006781"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502568"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP
 
 **S’applique à**
 
--  Espace partenaires
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
 
@@ -48,7 +47,7 @@ Vous pouvez consolider les locataires pour votre entreprise. Utilisez ces instru
 
 2. Sélectionnez **Clients**.
 
-3. Cliquez sur **Demander une relation de revendeur**. Vous êtes invité à envoyer un message électronique par défaut à vos clients. Ce message contient une URL avec l’ID d’organisation propre à votre nouveau compte Espace partenaires.
+3. Sélectionnez **demander une relation de revendeur**. Vous êtes invité à envoyer un message électronique par défaut à vos clients. Ce message contient une URL avec l’ID d’organisation propre à votre nouveau compte Espace partenaires.
 
 4. **Action du client&nbsp;:** vérifiez que chaque client actif que vous souhaitez migrer visite cette URL. À l’ouverture de l’URL, le client est invité à se connecter au portail Office&nbsp;365. Il se connecte à l’aide du même ID d’organisation que celui utilisé pour accéder aux portails administration Windows Azure et Office&nbsp;365.
 
@@ -60,7 +59,7 @@ Les clients s’affichent dans la liste des clients du partenaire après l’env
 
 1. Lorsque votre client a signé le contrat, vous pouvez recréer ses abonnements sous votre locataire partenaire centralisé.
 
-2. Dans l' **espace partenaires** , sélectionnez **clients**.
+2. Dans l' **espace partenaires**, sélectionnez **clients**.
 
 3. Ouvrez le nom de la société du client que vous souhaitez migrer.
 
@@ -70,7 +69,7 @@ Les clients s’affichent dans la liste des clients du partenaire après l’env
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="Liste des clients":::
 
-6. Cliquez sur **Envoyer.**
+6. Sélectionnez **Envoyer.**
 
    Les services sont maintenant fournis au client à partir du compte de partenaire **Transition vers**.
 
@@ -89,7 +88,7 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 
 2. Ouvrez le client avec les abonnements à désactiver, et sélectionnez la première offre à désactiver.
 
-3. Réglez l’abonnement sur **suspendu**, puis cliquez sur **Envoyer**.
+3. Définissez l’abonnement sur **suspendu**, puis sélectionnez **Envoyer**.
 
    >[!Note]
    >La suspension de l’abonnement garantit que la double facturation n’a pas lieu.
@@ -102,7 +101,7 @@ La désactivation de l’abonnement Fournisseur de solutions Cloud sous les comp
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migration d’abonnements Azure basés sur l’utilisation
 
-Contrairement aux abonnements CSP Office 365, Azure, les abonnements CSP basés sur l’utilisation n’ont pas besoin d’être migrés manuellement. Microsoft Azure prise en charge migre les abonnements Azure, ainsi que tous les services ou ressources déployés à partir de la **transition des** comptes du revendeur CSP vers le compte du revendeur de la **transition vers** le revendeur CSP. Il n’y a aucune interruption de service pour le client pendant cette transition.
+Contrairement aux abonnements CSP Office 365, Azure, les abonnements CSP basés sur l’utilisation n’ont pas besoin d’être migrés manuellement. Microsoft Azure prise en charge migre les abonnements Azure et tous les services ou ressources déployés de la **transition des** comptes du revendeur CSP vers le compte du revendeur de la **transition vers** le revendeur CSP. Il n’y a aucune interruption de service pour le client pendant cette transition.
 
 1. Assurez-vous que les comptes clients pour lesquels des abonnements Azure ont été migrés ont accepté le contrat à associer à la nouvelle **transition vers** le compte CSP.
 
@@ -134,11 +133,11 @@ Contrairement aux abonnements CSP Office 365, Azure, les abonnements CSP basés 
 
 Grâce à la **fonction Exporter**, vous pouvez capturer les abonnements que vous devez utiliser dans votre nouvelle structure consolidée&nbsp;:
 
-1. Cliquez sur **clients** dans l’espace partenaires pour afficher la liste des clients. 
+1. Sélectionnez **clients** dans l’espace partenaires pour afficher la liste des clients. 
 
 2. Ouvrez le nom de client souhaité.
 
-3. Dans la page **Abonnements**, cliquez sur **Exporter les abonnements** pour exporter les détails des abonnements dans un fichier Excel.
+3. Sur la page **abonnements** , sélectionnez **Exporter les abonnements** pour exporter les détails des abonnements vers un fichier Excel.
 
 4. Utilisez cette liste pour recréer les abonnements dans votre nouveau locataire consolidé.
 

@@ -2,17 +2,19 @@
 title: Facturation-transactions SaaS basées sur une licence
 ms.topic: article
 ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: En savoir plus sur les scénarios courants de facturation dans l’espace partenaires pour les transactions SaaS (Software-as-a-service) basées sur une licence.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d63e8345bf127cb91f1812193b1f0311cd569b3
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031342"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502461"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Scénarios de facturation courants pour les transactions SaaS basées sur une licence dans l’espace partenaires
 
@@ -63,8 +65,8 @@ Le fichier de rapprochement inclut les frais suivants :
 
 | Date d’achat | SKU | Date de début de facturation | Date de fin de la facturation | Prix unitaire | Quantité unitaire | Montant total | Type de dépense | Description de l’abonnement |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10/06/2019 | Silver | 10/06/2019 | 10/06/2019 | 20 $ | 1 | 20 $ | Nouveau | Abonnement SaaS à compteur personnalisé |
-| 10/06/2019 | Silver | 10/06/2019 | 10/06/2019 | 20 $ | 1 | -$20 | Convertir | Facture au prorata pour l’abonnement SaaS du compteur personnalisé |
+| 10/06/2019 | Argent | 10/06/2019 | 10/06/2019 | 20 $ | 1 | 20 $ | Nouveau | Abonnement SaaS à compteur personnalisé |
+| 10/06/2019 | Argent | 10/06/2019 | 10/06/2019 | 20 $ | 1 | -$20 | Convertir | Facture au prorata pour l’abonnement SaaS du compteur personnalisé |
 | 10/06/2019 | Bronze | 10/06/2019 | 10/06/2019 | $10 | 1 | $10 | Convertir | Abonnement SaaS à compteur personnalisé |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Acheter et annuler un abonnement SaaS client à la même date

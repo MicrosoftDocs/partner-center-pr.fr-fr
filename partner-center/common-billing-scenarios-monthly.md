@@ -2,17 +2,19 @@
 title: Scénarios courants de facturation mensuelle
 ms.topic: article
 ms.date: 05/13/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Les scénarios courants dans l’espace partenaires lorsque vous utilisez la facturation mensuelle incluent l’ajout de nouveaux abonnements, la modification de la quantité de licences et la suspension des abonnements.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354574"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502512"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Exemples de scénarios de facturation mensuelle pour les nouveaux abonnements, modification des montants de licence ou interruptions
 
@@ -27,13 +29,13 @@ Ces exemples de [scénarios de facturation courants](common-billing-scenarios.md
 
 ## <a name="new-monthly-subscription"></a>Nouvel abonnement mensuel
 
-La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez la facturation mensuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient les lignes de facturation suivantes :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez la facturation mensuelle. Le fichier de réconciliation basé sur les licences du 15 janvier contiendra les lignes de facturation suivantes :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |12/2/2018    |Frais de cycle   |4,00       |1        |4,00 |
 
-Le fichier de rapprochement basé sur une licence du 15 février contiendra la ligne de facturation suivante :
+Le fichier de rapprochement basé sur les licences du 15 février contiendra la ligne de facturation suivante :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -41,13 +43,13 @@ Le fichier de rapprochement basé sur une licence du 15 février contiendra la l
 
 ## <a name="change-license-quantity"></a>Modifier le nombre de licences
 
-La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez la facturation mensuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient les lignes de facturation suivantes :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez la facturation mensuelle. Le fichier de réconciliation basé sur les licences du 15 janvier contiendra les lignes de facturation suivantes :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |12/2/2018    |Frais de cycle   |4,00       |1        |4,00    |
 
-Le 1er février, vous augmentez la quantité de licences de 1 à 2. Le fichier de rapprochement basé sur une licence du 15 février contient les lignes de facturation suivantes :
+Le 1er février, vous augmentez la quantité de licences de 1 à 2. Le fichier de rapprochement basé sur les licences du 15 février contiendra les lignes de facturation suivantes :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -68,13 +70,13 @@ Prix unitaire de proportion = 1,54 = 12 x 0,129
 
 ## <a name="suspend-before-30-days"></a>Suspendre avant 30 jours
 
-La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez la facturation mensuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient les lignes de facturation suivantes :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez la facturation mensuelle. Le fichier de réconciliation basé sur les licences du 15 janvier contiendra les lignes de facturation suivantes :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |12/2/2018    |Frais de cycle   |4,00       |1        |4,00    |
 
-Le 1er février, vous suspendez un abonnement. Le fichier de rapprochement basé sur une licence du 15 février contiendra la ligne de facturation suivante :
+Le 1er février, vous suspendez un abonnement. Le fichier de rapprochement basé sur les licences du 15 février contiendra la ligne de facturation suivante :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -82,19 +84,19 @@ Le 1er février, vous suspendez un abonnement. Le fichier de rapprochement basé
 
 ## <a name="suspend-after-30-days"></a>Suspendre après 30 jours
 
-La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez la facturation mensuelle. Le fichier de réconciliation basé sur une licence du 15 janvier contient les lignes de facturation suivantes :
+La date de facturation est le 15 de chaque mois. Le 13 janvier, vous achetez un nouvel abonnement avec une licence de $4/mois et sélectionnez la facturation mensuelle. Le fichier de réconciliation basé sur les licences du 15 janvier contiendra les lignes de facturation suivantes :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|12/2/2018|Frais de cycle|4,00|1|4,00
 
-Le fichier de rapprochement basé sur une licence du 15 février contiendra la ligne de facturation suivante :
+Le fichier de rapprochement basé sur les licences du 15 février contiendra la ligne de facturation suivante :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2/13/2018|3/12/2018|Frais de cycle|4,00|1|4,00
 
-Le 1er mars, vous suspendez l’abonnement. Le fichier de réconciliation basé sur une licence du 15 mars contient la ligne de facturation suivante :
+Le 1er mars, vous suspendez l’abonnement. Le fichier de rapprochement basé sur les licences du 15 mars contient la ligne de facturation suivante :
 
 |Date de début de facturation |Date de fin de la facturation |Type de frais |Unit Price |Quantité |Montant |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |

@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment vendre à vos clients des abonnements à des produits publiés par Microsoft, ainsi qu’à des produits SaaS publiés par des ISV tiers.
+description: Découvrez comment vendre des abonnements à vos clients pour des produits publiés par Microsoft ainsi que des produits SaaS publiés par des éditeurs de logiciels indépendants tiers.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038878"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502933"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
 **S’applique à**
 
-- Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
-- Partenaires fournisseurs de solutions cloud
 
 **Rôles appropriés**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038878"
 - Agent du support technique
 - Agent commercial
 
-Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue. Cela comprend les produits publiés par Microsoft, ainsi que les produits SaaS (Software as a service) publiés par des éditeurs de logiciels indépendants tiers sur la place de [marché commerciale](https://azuremarketplace.microsoft.com/marketplace).
+Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue. Cela comprend les produits publiés par Microsoft et les produits SaaS (Software as a service) publiés par des éditeurs de logiciels indépendants (ISV) tiers sur la place de [marché commerciale](https://azuremarketplace.microsoft.com/marketplace).
 
 Certaines offres sont limitées à un seul abonnement par client. Pour voir la liste des offres limitées, consultez la page Tarification et offres de l'Espace partenaires.
 
@@ -93,7 +91,7 @@ Pour acheter un module complémentaire, le client doit d’abord disposer d’un
 5. Mettez à jour le nombre de licences pour chaque module complémentaire requis. Ensuite, **envoyez** vos modifications.
 
 La possibilité d’acheter des modules complémentaires via l’espace partenaires n’est disponible que pour les fournisseurs directs et indirects.
-Seuls les modules complémentaires éligibles sont affichés en fonction des exigences de base et de la disponibilité régionale. Pour plus d’informations sur les prix et les offres, consultez la matrice d’offres de revendeur cloud.  La suspension de l’abonnement de base suspend également tous les modules complémentaires associés.
+Seuls les modules complémentaires éligibles sont affichés en fonction des exigences de base et de la disponibilité régionale. Pour plus d’informations sur la tarification et les offres, reportez-vous à la matrice de l’offre du revendeur Cloud. La suspension de l’abonnement de base suspend également tous les modules complémentaires associés.
 
 Les dates de début des modules complémentaires s’alignent sur l’abonnement de base, et les frais sont calculés à partir de la date de début de frais et de la date de fin de frais, avec des frais au prorata sur la première facture. Pour plus d’informations, consultez [facturation basée sur une licence](license-based-billing.md).
 
@@ -120,7 +118,7 @@ Lorsque vous suspendez un abonnement, la date affichée sous le bouton **Suspend
 
 ### <a name="cancel-a-subscription"></a>Annuler un abonnement
 
-Vous avez la possibilité d’annuler les abonnements SaaS basés sur des licences à partir d’éditeurs ISV tiers au sein de la place de [marché commerciale](csp-commercial-marketplace-overview.md)de l’espace partenaires. Tant que vous annulez l’opération pendant la période d’annulation, vous recevrez un remboursement intégral.
+Vous pouvez annuler les abonnements SaaS basés sur des licences à partir d’éditeurs ISV tiers au sein de la place de [marché commerciale](csp-commercial-marketplace-overview.md)de l’espace partenaires. Tant que vous annulez l’opération pendant la période d’annulation, vous recevrez un remboursement intégral.
 
 Pour les éditeurs de logiciels, les offres sont facturées tous les mois :
 

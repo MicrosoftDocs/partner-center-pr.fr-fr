@@ -9,18 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444630"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502444"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Scénarios de facturation courants pour les partenaires du programme CSP travaillant dans l’espace partenaires
-
-S’applique à :
-
-- Facturation du programme fournisseur de solutions Cloud (CSP)
 
 **Rôles appropriés**
 
@@ -29,7 +25,7 @@ S’applique à :
 - Agent du support technique
 - Agent commercial
 
-Ces rubriques expliquent ce que vous devez voir sur votre facture après avoir ajouté de nouveaux abonnements, ajuster le nombre de licences à un abonnement ou annuler un abonnement. Les autres types de facturation de l' [espace partenaires](billing-different-types.md), tels que les abonnements basés sur l’utilisation et basés sur des licences, sont facturés différemment.
+Ces articles expliquent ce que vous devez voir sur votre facture après avoir ajouté de nouveaux abonnements, ajuster le nombre de licences à un abonnement ou annuler un abonnement. Les autres types de facturation de l' [espace partenaires](billing-different-types.md), tels que les abonnements basés sur l’utilisation et basés sur des licences, sont facturés différemment.
 
 | Type de facturation | Scénarios couverts |
 | --------------- | ----------------- |
