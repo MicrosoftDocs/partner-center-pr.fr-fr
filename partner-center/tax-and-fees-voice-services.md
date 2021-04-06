@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90594457"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441487"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Taxes régionales, réglementations relatives aux services de réseau public commuté (PTSN)
 
-**S’applique à**
-
-- Espace partenaires
-- Les partenaires Office 365 qui transagissent Microsoft 365 les produits vocaux
-
 **Rôles appropriés**
--    Administrateur général
--    Administrateur des utilisateurs
--    Agent d’administration
+
+- Administrateur général
+- Administrateur des utilisateurs
+- Agent d’administration
 
 Dans certaines juridictions, les services de réseau public commuté (RTPC) peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires. Dans le États-Unis, y compris Porto Rico, les services RTPC, qui incluent la conférence audio, les plans d’appel et les crédits de communication, sont soumis à des obligations réglementaires et fiscales particulières. Dans le États-Unis et à Porto Rico, les tarifs de Microsoft sont les services RTPC comme taxes incluses.  Des taxes et réglementations uniques sur les RTPC affectent les partenaires Office 365 qui transportent des produits Microsoft 365 Voice.  Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
 
@@ -34,7 +30,7 @@ Demandez à vos conseillers juridiques de comprendre la responsabilité de votre
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Présentation des factures et fichier de rapprochement des partenaires
 
-Les factures CSP et les fichiers de conciliation CSP dans le États-Unis, Porto Rico et Canada qui incluent Skype for Business RTPC et Microsoft 365 Voice services fournissent des éléments de ligne distincts pour les composants RTPC et non-RTC.
+Les factures CSP et les fichiers de conciliation CSP dans le États-Unis, Porto Rico et Canada, qui incluent Skype for Business RTPC et Microsoft 365 Voice services, fournissent des éléments de ligne distincts pour les composants RTPC et non-RTC.
 
 En outre, les factures CSP affichent la note de bas de page suivante :
 

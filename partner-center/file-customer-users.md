@@ -9,18 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87528179"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441419"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Ajouter plusieurs utilisateurs à un compte client en créant un fichier. csv
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
@@ -45,9 +41,9 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 | Prénom  | Prénom de l’utilisateur (champ facultatif)  | limité à 50 caractères  |
 | Nom  | Nom de l’utilisateur (champ facultatif)  | limité à 50 caractères  |
 | Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | limité à 50 caractères                         |
-| Courrier   | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
-| Mise à jour de l'état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé | \*\*Conserver vide\*\*                        |
+| Email   | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
+| Mise à jour de l'état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé avec succès | \*\*Conserver vide\*\*                        |
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Ajout de plusieurs utilisateurs à un client](adding-multiple-users-to-a-customer-account.md)
+- [Guide pratique pour ajouter plusieurs utilisateurs pour un client](adding-multiple-users-to-a-customer-account.md)

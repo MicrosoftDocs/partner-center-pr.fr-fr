@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999333"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441997"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Que faire si le seul administrateur de votre programme MPN a quitté l’entreprise ?
 
-**S’applique à**
+**Rôles appropriés**
 
-- Espace partenaires
+- Administrateur partenaire MPN
+- Administrateur des comptes
+- Administrateur général
 
 L’article suivant vous guide à travers trois scénarios types relatifs à la procédure à suivre si votre administrateur MPN a quitté l’entreprise.
 
@@ -28,7 +30,7 @@ L’article suivant vous guide à travers trois scénarios types relatifs à la 
 
 Dans ce cas, une autre personne de l’entreprise peut se voir attribuer le rôle d’administrateur du partenaire MPN. Pour se voir attribuer le rôle de rôle administrateur de partenaire/administrateur MPN spécifique :
 
-1. Connectez-vous à votre compte espace partenaires à l’aide de votre compte professionnel (par exemple tom@contoso.com ,).
+1. Connectez-vous à votre compte espace partenaires à l’aide de votre compte professionnel (par exemple, tom@contoso.com ).
 1. À partir du filtre de la page de **gestion des utilisateurs** sur l’administrateur général pour voir qui est l’administrateur général de votre entreprise. 
 1. Contactez l’un des administrateurs généraux et demandez-lui de vous attribuer le rôle spécifique à MPN dont vous avez besoin. 
 

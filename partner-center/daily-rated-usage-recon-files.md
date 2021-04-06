@@ -3,22 +3,23 @@ title: Fichiers de rapprochement d’utilisation évalués quotidiennement
 ms.topic: article
 ms.date: 06/12/2020
 description: Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires. Comprend des descriptions de champs spécifiques dans le fichier de rapprochement.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712237"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441895"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires
 
 **S’applique à**
 
-- Espace partenaires
 - Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
@@ -71,7 +72,7 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | ResourceURI | URI de la ressource en cours d’utilisation. |
 | ChargeType | Type de frais ou d’ajustement.  |
 | UnitPrice | Prix par licence, tel que publié dans la liste de prix au moment de l’achat. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
-| quantité ; | Nombre de licences. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
+| Quantité | Nombre de licences. Assurez-vous que ce prix correspond aux informations stockées dans votre système de facturation au cours du rapprochement. |
 | Unité | Type d’unité dans lequel le compteur est facturé.  |
 | BillingPreTaxTotal | Montant total de la facturation avant taxes.<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Devise dans la région géographique du client. |
@@ -79,7 +80,7 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | PricingCurrency | Devise utilisée dans la liste de prix. |
 | ServiceInfo1 | Nombre de connexions Service Bus qui ont été approvisionnées et utilisées pour un jour donné. |
 | ServiceInfo2 | Champ hérité qui capture les métadonnées facultatives propres au service. |
-| Étiquettes | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
+| Balises | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
 | AdditionalInfo | Toutes les informations supplémentaires non couvertes sont dans les autres colonnes. |
 | EffectiveUnitPrice | Valeur réelle facturée par unité, y compris les remises, les crédits acquis, etc. |
 | PCToBCExchangeRate | Taux de change appliqué pour la devise de tarification à la devise de facturation. |

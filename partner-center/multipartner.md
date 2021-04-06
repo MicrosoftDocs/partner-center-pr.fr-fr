@@ -9,18 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132262"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441793"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Prise en charge de plusieurs partenaires pour les clients qui souhaitent travailler avec plusieurs partenaires
 
 **S’applique à**
 
-- Espace partenaires pour Microsoft Government Cloud
+- Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
 
