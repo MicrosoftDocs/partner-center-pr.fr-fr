@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912537"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178865"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Différencier votre entreprise en atteignant les compétences Microsoft
 
 **Rôles appropriés**
+
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 
 Mettez en évidence votre expertise éprouvée en solutions de qualité dans un ou plusieurs domaines d’activités spécialisés. Les compétences Microsoft visent à vous préparer à répondre aux besoins de vos clients et à contribuer à attirer de nouveaux clients en quête de fournisseurs de solutions Microsoft certifiés. Rejoignez le niveau élite des partenaires Microsoft et démarquez-vous de vos homologues.
 

@@ -1,7 +1,7 @@
 ---
 title: Gérer les localisations dans votre compte partenaire
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment ajouter une nouvelle localisation et comment l’ID MPN de localisation est utilisé dans les programmes d’incentives, l’activité CSP, les abonnements et autres transactions.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005911"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441323"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gérer les localisations dans votre compte MPN et ajouter (supprimer) une localisation
 
@@ -26,7 +26,7 @@ ms.locfileid: "100005911"
 
 L’ID MPN de localisation identifie chaque localisation spécifique de votre entreprise. Vous utilisez l’ID MPN de localisation pour vous inscrire aux programmes d’incentives, pour effectuer des transactions dans le cadre de l’activité CSP et pour d’autres transactions commerciales. L’ID MPN global est utilisé pour les activités hors transactions, comme les demandes de support.
 
-## <a name="the-following-is-a-typical-scenario"></a>Voici un scénario courant :
+## <a name="the-following-scenario-is-typical"></a>Le scénario suivant est très courant :
 
 Contoso a son compte global de partenaire (PGA) au Royaume-Uni. Il s’agit de leur activité légalement enregistrée et son ID MPN global est utilisé pour la gestion de toutes les activités hors transactions. Contoso a également des comptes de localisation partenaire (PLA) équivalents à des filiales ou des divisions ailleurs au Royaume-Uni, en France et aux États-Unis. Dans la structure des comptes MPN, ces comptes de localisation partenaire sont représentés sous forme d’ID MPN de localisation uniques. Les comptes de localisation partenaire sont utilisés pour les activités transactionnelles, comme les programmes CSP ou d’incentives. Les règlements sont associés à des sites spécifiques. 
 
@@ -56,13 +56,32 @@ Pour ajouter un nouveau compte commercial CSP, commencez par veiller à remplir 
  
 1. À partir de l’icône **Paramètres**, sélectionnez **Paramètres du compte**, **Profil de l’organisation**, puis **Légal**. 
 
-1. Sous l’onglet **Partenaire**, vérifiez qu’aucune bannière de message d’erreur ne vous invite à corriger les localisations migrées à partir de PMC. Si tel est le cas, suivez les instructions et corrigez ces localisations. 
+1. Sous l’onglet **Partenaire**, vérifiez qu’aucune bannière de message d’erreur ne vous invite à corriger les localisations migrées à partir de PMC.  Si vos localisations n’ont pas été correctement définies dans PMC et n’ont pas encore transité vers un PC, vous devez les mettre à jour.
 
-3. Si aucun message d’erreur ne s’affiche, dans **Paramètres**, sélectionnez **Paramètres de compte**, **Profil de l’organisation** et **Identificateurs**.
+:::image type="content" source="images/locations/location-two.png" alt-text="Capture d’écran montrant comment mettre à jour une localisation.":::
+ 
+4.  Dans l’écran **Vérifier les localisations PMC**, sélectionnez **Mettre à jour**.
+Mettez à jour les champs suivants :
 
-4. Recherchez l’ID MPN avec le type « localisation » correspondant au pays de ce compte CSP et utilisez-le pour effectuer une recherche ci-dessous et procéder à une association.
+- **Champ du nom** : Assurez-vous que le nom de la localisation de la société est correcte. Si une erreur de doublon s’affiche, essayez de remplacer Contoso par Contoso SARL, par exemple.
 
-5. Si vous ne trouvez pas l’ID MPN de localisation correspondant au compte CSP que vous souhaitez utiliser, vous pouvez ajouter une nouvelle localisation qui créera un nouvel ID MPN. Consultez **Ajouter une localisation MPN** ci-dessous.
+- **Champ de l’entité juridique** : Assurez-vous d’avoir choisi l’entité juridique à laquelle la localisation est liée.
+
+- **Champs des lignes d’adresse 1 et 2** : Vérifiez que l’adresse est correcte.
+
+- **Champs des ville et département/province** : Assurez-vous que la combinaison entre la ville et le département/la province est correcte. Certains pays ont un menu déroulant pour choisir le département/la province, alors que d’autres ont un champ qui doit être renseigné manuellement.
+
+- **Champ du code postal** : Assurez-vous que le champ du code postal correspond au pays, à la région, à la ville ou à l’adresse indiqué(e).
+
+- **Champs des informations du contact principal** : Assurez-vous que les champs du nom et du prénom sont remplis et que l’adresse e-mail indiquée est une adresse e-mail professionnelle et non personnelle (par exemple, @outlook.com @live.com, etc.)
+
+- **Champ du numéro de téléphone** : Assurez-vous que le numéro de téléphone n’inclut PAS de caractères spéciaux, d’espaces ou d’indicatif. La valeur entrée dans le champ du numéro de téléphone contient toujours un maximum de 10 caractères.
+
+5. Si aucun message d’erreur ne s’affiche, dans **Paramètres**, sélectionnez **Paramètres de compte**, **Profil de l’organisation** et **Identificateurs**.
+
+6. Recherchez l’ID MPN avec le type « localisation » correspondant au pays de ce compte CSP et utilisez-le pour procéder à l’association.
+
+7. Si vous ne trouvez pas l’ID MPN de localisation correspondant au compte CSP que vous souhaitez utiliser, vous pouvez ajouter une nouvelle localisation qui créera un nouvel ID MPN. Consultez **Ajouter une localisation MPN** ci-dessous.
 
 ## <a name="add-an-mpn-location"></a>Ajouter une localisation MPN
 
@@ -80,6 +99,7 @@ Pour ajouter un nouveau compte commercial CSP, commencez par veiller à remplir 
 
 > [!NOTE]
 > Une fois que vous ajoutez une localisation dans l’Espace partenaires, vous ne pouvez plus la supprimer. Vous verrez **MPN** dans le menu de gauche de l’Espace partenaires si vous avez utilisé le bon ID MPN pour vous connecter.
+
 
 ## <a name="delete-a-location"></a>Supprimer une localisation
 
