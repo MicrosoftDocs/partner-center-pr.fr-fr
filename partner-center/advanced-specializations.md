@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658397"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557764"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Obtenez une spécialisation avancée pour présenter vos fonctionnalités validées
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur de compte MPN
+- Administrateur des comptes
 
-Les spécialisations avancées Microsoft reposent sur les [compétences en or](learn-about-competencies.md) associées qu’un partenaire peut gagner. Le fait de bénéficier de compétences en or, avec les spécialisations avancées associées, permet aux partenaires de mieux distinguer leurs fonctionnalités des clients.
+Les spécialisations avancées Microsoft s’appuient sur les [compétences Gold](learn-about-competencies.md) associées qu’un partenaire peut gagner. Le fait de bénéficier de compétences en or, avec les spécialisations avancées associées, permet aux partenaires de mieux distinguer leurs fonctionnalités des clients.
 
 Pour obtenir une spécialisation avancée, un partenaire doit souvent répondre à des exigences exigeantes, telles que l’obtention de références de clients, la satisfaction d’un audit tiers, la preuve de la satisfaction d’un ensemble de compétences pertinentes et la réalisation de certaines mesures de performances.
 

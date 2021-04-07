@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474170"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557730"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Conseillers : créez votre base de clients avec des offres d’essai et des offres d’achat Office 365
 
 
 **Rôles appropriés**
 
-- Conseillers
+- Advisor
 
 
 En tant que Microsoft Advisor agréé, l' **espace partenaires** vous offre la possibilité de développer votre base de clients et de créer des relations durables avec vos clients. Avec l’espace partenaires, vous pouvez envoyer des invitations à la version d’évaluation de vos clients et des offres d’achat, et pour leur proposer des services d’administration délégués, en fonction des services que vous êtes autorisé à fournir.
@@ -45,7 +45,7 @@ Pour plus d’informations sur les invitations à la version d’évaluation, co
 > [!NOTE]
 > Cette fonctionnalité est disponible uniquement pour les partenaires Microsoft qui sont des conseillers d’abonnement autorisés.
 
-Après l’envoi d’offres d’évaluation à vos clients, assurez le suivi par une offre d’achat. Vous pouvez personnaliser une offre de manière à inclure les services spécifiques dont votre client a besoin, ainsi que le nombre correct de licences utilisateur. Si vous êtes certifié pour offrir l’administration déléguée, vous pouvez ajouter une option à l’offre d’achat qui vous permet de gérer l’abonnement pour le compte de votre client.
+Après l’envoi d’offres d’évaluation à vos clients, assurez le suivi par une offre d’achat. Vous pouvez personnaliser une offre de manière à inclure les services spécifiques dont votre client a besoin et le nombre correct de licences utilisateur. Si vous êtes certifié pour offrir l’administration déléguée, vous pouvez ajouter une option à l’offre d’achat qui vous permet de gérer l’abonnement pour le compte de votre client.
 
 Lorsque vous créez l’offre d’achat, une URL personnalisée est créée pour vous. L’URL contient un code incorporé qui vous identifie en tant que conseiller d’abonnement. Vous pouvez utiliser cette URL pour un client ou un grand nombre de clients. Envoyez l’URL à votre client par courrier électronique ou publiez-la sur votre site Web.
 

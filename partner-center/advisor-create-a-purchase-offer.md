@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474136"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557747"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Conseillers : créer une offre d’achat
 
  
 **Rôles appropriés**
 
-- Conseillers
+- Advisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Si votre client souhaite un nombre de licences différent, envoyez-lui une nouve
     - **Nombre de licences**: lorsque vous sélectionnez un abonnement, tapez le nombre de licences que vous souhaitez inclure dans l’offre d’achat.
     - **Administration déléguée**: cette option est disponible uniquement pour les partenaires qui sont certifiés pour offrir une administration déléguée. Choisissez cette option si vous souhaitez offrir à votre client l’administration déléguée. Si vous le faites, votre client peut accepter l’offre d’achat avec ou sans l’acceptation de l’administration déléguée.
 
-3. Cliquez sur **Suivant**.
+3. Sélectionnez **Suivant**.
 
 4. Dans la page **Envoyer** , copiez les informations et l’URL de l’offre d’achat, puis collez-les dans un message électronique, un document ou une page Web pour créer une offre d’achat personnalisée.
 

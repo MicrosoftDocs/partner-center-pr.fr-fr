@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474153"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557713"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Conseillers : créez et envoyez une invitation à la version d’évaluation pour que les clients essaient Office 365
 
 
 **Rôles appropriés**
 
-- Conseillers
+- Advisor
 
 > [!NOTE]
 > Cette fonctionnalité est disponible uniquement pour les partenaires Microsoft qui sont des conseillers d’abonnement autorisés.
@@ -44,7 +44,7 @@ Si vous êtes certifié pour offrir une administration déléguée, vous pouvez 
     - **Abonnements d’évaluation**: la liste des abonnements d’évaluation que vous pouvez choisir dépend de l’emplacement d’utilisation du pays ou de la région de votre client.
     - **Administration déléguée**: cette option est disponible uniquement pour les partenaires qui sont certifiés pour offrir une administration déléguée. Choisissez cette option si vous souhaitez offrir à votre client l’administration déléguée. Si vous le faites, votre client peut accepter l’invitation d’essai avec ou sans l’acceptation de l’administration déléguée. Pour plus d’informations sur l’administration déléguée, consultez [offrir l’administration déléguée](customers-revoke-admin-privileges.md).
 
-3. Cliquez sur **Suivant**.
+3. Sélectionnez **Suivant**.
 
 4. Sur la page **votre invitation à la version d’évaluation** , copiez les informations et l’URL de l’invitation à la version d’évaluation, puis collez-les dans un message électronique, un document ou une page Web pour créer une invitation à la version d’évaluation personnalisée.
 

@@ -9,18 +9,18 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514681"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557696"
 ---
 # <a name="benefits-faq"></a>Questions fréquentes (FAQ) sur les avantages
 
 **Rôles appropriés**
 
-- Administrateur MPN
+- Administrateur partenaire MPN
 
 De nombreuses questions courantes sur les avantages des Microsoft Partner Network (MPN) sont abordées dans cet article.
 
@@ -79,7 +79,7 @@ Non. Les licences de produit sont émises à des fins de démonstration. Vos emp
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. Je rencontre des problèmes lors de l’affectation d’utilisateurs dans un crédit en bloc Azure. Que dois-je faire
 
-Vous ne pouvez pas combiner les offres de crédit en bloc Azure avec d’autres offres. Si l’affectation d’un utilisateur ne fonctionne pas, cela signifie probablement que l’utilisateur que vous souhaitez affecter utilise déjà d’autres licences, des offres prépayées ou des offres de crédit telles que Microsoft Accord Entreprise, partenaire de solution Cloud, Azure dans Open, Pass Azure, Action Pack, etc. Si l’utilisateur n’est abonné à aucun de ces contrats ou plans et que vous ne pouvez toujours pas l’attribuer, contactez Support Microsoft.
+Vous ne pouvez pas combiner les offres de crédit en bloc Azure avec d’autres offres. Si l’affectation d’un utilisateur ne fonctionne pas, cela signifie probablement que l’utilisateur que vous souhaitez affecter utilise déjà d’autres licences, des offres prépayées ou des offres de crédit telles que Microsoft Contrat Entreprise, partenaire de solution Cloud, Azure dans Open, Pass Azure, Action Pack, etc. Si l’utilisateur n’est abonné à aucun de ces contrats ou plans et que vous ne pouvez toujours pas l’attribuer, contactez Support Microsoft.
 
 ## <a name="visual-studio-benefits"></a>Avantages de Visual Studio
 
