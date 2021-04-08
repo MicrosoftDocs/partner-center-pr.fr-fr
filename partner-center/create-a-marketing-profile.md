@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570156"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964388"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Créer un profil professionnel pour obtenir des prospects Microsoft et aider les clients à trouver
 
@@ -84,16 +84,7 @@ Commencez par ajouter vos propres étiquettes dans la section Expertise du parte
 
 Autres étiquettes utilisées dans la recherche :
 
--  Les **étiquettes de compétence** sont des désignations obtenues qui présentent les capacités de votre entreprise.
--  Les **étiquettes d’approbation** sont obtenues quand Microsoft ou les clients qui ont travaillé avec vous recommandent votre travail.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Autoriser Microsoft à recommander mes domaines d’expertise
-
-Nous vous recommandons de laisser ce paramètre coché. 
-
-À mesure que vous présenterez vos succès enregistrés auprès des clients via l’Espace partenaires ou que vous participerez à d’autres programmes ou certifications Microsoft, nous ajouterons automatiquement des approbations pour vos produits, services et secteurs spécifiques qui ont contribué à cette réussite. Les approbations sont un facteur important dans les résultats de recherche.
-
-Cependant, si vous fournissez des services pour des produits que vous préférez ne pas faire figurer dans votre profil, vous pouvez décocher cette case et gérer votre profil manuellement. Vos clients ne pourront pas voir ces approbations, mais vous pourrez les remettre sur votre profil à tout moment.
+- Les **étiquettes de compétence** sont des désignations obtenues qui présentent les capacités de votre entreprise.
 
 ### <a name="customer-preferences"></a>Préférences client
 
@@ -121,13 +112,12 @@ Si vous avez atteint la limite de 5 emplacements et que vous avez besoin d’en
 
 Une fois que vous avez publié votre profil, les mises à jour apparaissent dans les recherches [Rechercher un fournisseur de solutions](https://www.microsoft.com/solution-providers/home) dans un délai de 24 heures.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Améliorer la visibilité de votre profil 
+## <a name="improve-the-visibility-of-your-profile"></a>Améliorer la visibilité de votre profil
 
 - **[Répondez rapidement aux demandes](manage-leads.md)** . Quand vous recevez une référence de client, une réponse rapide peut donner de meilleurs résultats dans les pages de recherche de futurs clients.
 
 - **Sélectionnez vos étiquettes avec soin**.  Il est préférable d’avoir peu d’étiquettes qui représentent au mieux les offres, les solutions, les propositions de valeur et la position unique qui font le succès continu de votre entreprise.  Cette méthode s’avérera payante dans les futurs résultats de recherche.
 - **Obtenez des étiquettes de compétences** via Microsoft pour mettre en avant votre connaissance de nos produits.
-- **Obtenez des étiquettes d’approbation** des clients qui apprécient votre travail.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215813"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964355"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendre votre facture et votre fichier de rapprochement-Découvrez comment les trouver dans l’espace partenaires
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215813"
 
 
 Votre **facture** est un **Résumé de toutes les facturations de l’espace partenaires** (dans le programme, tous les produits et tous les clients). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Rechercher votre facture et votre fichier de rapprochement 
+
+Vous pouvez trouver votre facture sur la page facturation du tableau de bord de l’espace partenaires. Vous pouvez également trouver l’historique de facturation, les tendances de dépense et les fichiers de rapprochement sur cette page. 
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires. 
+
+2. Dans le menu de gauche, sélectionnez **facturation**. 
+
+3. Dans la page État de facturation, sélectionnez une facture ou un fichier de rapprochement pour voir des informations plus détaillées. 
+
+Vous pouvez trouver un lien vers votre dernière facture en haut de la page, sous solde du compte à la date de la dernière facture. 
+
+Vous trouverez les factures précédentes dans la section historique de facturation. Choisissez l’année appropriée, puis sélectionnez la flèche déroulante en regard de la période de facturation appropriée. Sélectionnez le lien en regard de factures (. pdf) pour télécharger la facture de cette période. 
 
 ## <a name="invoice-types"></a>Types de facture
 
@@ -52,19 +66,6 @@ Par exemple,
 
 - Le partenaire recevra un autre fichier PDF de facture et un fichier de conciliation couvrant ses frais pour l’offre 145p en euros (ou en devise de facturation partenaire). 
 
-## <a name="find-your-bill"></a>Rechercher votre facture 
-
-Vous pouvez trouver votre facture sur la page facturation du tableau de bord de l’espace partenaires. Vous pouvez également trouver l’historique de facturation, les tendances de dépense et les fichiers de rapprochement sur cette page. 
-
-1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires. 
-
-2. Dans le menu de gauche, sélectionnez **facturation**. 
-
-3. Sur la page facturation, sélectionnez la facture que vous souhaitez télécharger. 
-
-Vous pouvez trouver un lien vers votre dernière facture en haut de la page, sous solde du compte à la date de la dernière facture. 
-
-Vous trouverez les factures précédentes dans la section historique de facturation. Choisissez l’année appropriée, puis sélectionnez la flèche déroulante en regard de la période de facturation appropriée. Sélectionnez le lien en regard de factures (. pdf) pour télécharger la facture de cette période. 
 
 ## <a name="understanding-invoice-pdf"></a>Comprendre la facture PDF 
 

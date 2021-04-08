@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633758"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964423"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Tarifs et offres pour Office 365, Dynamics CRM, Enterprise Mobility suite, Azure et bien plus encore
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633758"
 - Agent commercial
 - Administrateur de la facturation
 
-Pour afficher les derniers programmes et offres de fournisseurs de solutions Cloud, à partir du portail partenaires, accédez à la page **vendre > tarification et offres**. Vous trouverez des listes de prix distinctes pour les différents types de produits disponibles. Les tarifs suivants sont disponibles sur la page **tarification et offres** :
+Pour afficher les derniers programmes et offres de fournisseurs de solutions Cloud, à partir du tableau de bord du portail du partenaire, accédez à la page **vendre > tarification et offres**. Vous trouverez des listes de prix distinctes pour les différents types de produits disponibles. Les tarifs suivants sont disponibles sur la page **tarification et offres** :
 
 - Les **services basés sur une licence** incluent des informations de tarification pour Office 365, Enterprise Mobility et Security E3, ainsi que et Dynamics 365. La section relative à la tarification basée sur les licences comprend les tarifs actuels et préliminaires, ainsi que la matrice liste des offres. Les tarifs incluent le tarif et les tarifs estimés au détail (ERP) pour les offres dans toutes les devises prises en charge. La matrice liste des offres inclut la disponibilité du marché et d’autres informations importantes sur les offres. Ces fichiers sont mis à jour le premier jour de chaque mois.
 - Les **services basés sur l’utilisation** incluent des informations de tarification pour Microsoft Azure et Visual Studio. Vous pouvez également utiliser les [services Azure dans la calculatrice de prix du Fournisseur de solutions Cloud](https://azure.microsoft.com/pricing/calculator/). Le téléchargement basé sur l’utilisation comprend les listes de prix CSP pour toutes les devises prises en charge, ainsi que les fichiers de tarification des services partagés dans ERP. Ces fichiers sont mis à jour le premier jour de chaque mois.

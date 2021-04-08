@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502444"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964405"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Scénarios de facturation courants pour les partenaires du programme CSP travaillant dans l’espace partenaires
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502444"
 - Agent commercial
 
 Ces articles expliquent ce que vous devez voir sur votre facture après avoir ajouté de nouveaux abonnements, ajuster le nombre de licences à un abonnement ou annuler un abonnement. Les autres types de facturation de l' [espace partenaires](billing-different-types.md), tels que les abonnements basés sur l’utilisation et basés sur des licences, sont facturés différemment.
+
+
+## <a name="change-billing-frequency"></a>Changer la fréquence de facturation
+
+La fréquence de facturation est modifiée au niveau de la commande, et une fois la fréquence modifiée, le cycle de facturation changé est appliqué à tous les abonnements dans cette commande. 
+
+Pour changer la fréquence de facturation d’un service en ligne pour un client :
+
+1. [Connectez-vous au tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/home).
+2. Dans le menu de gauche, choisissez **Clients**.
+3. Sélectionnez le client dont vous souhaitez changer la fréquence de facturation de l’abonnement.
+4. Dans la page **Abonnements** du client, sélectionnez l’abonnement que vous souhaitez modifier.
+5. Dans la page **Détails**, sous **Périodicité de facturation**, sélectionnez **Mensuelle** ou **Annuelle**. Une page de confirmation s’affiche avec des informations importantes sur le changement de la fréquence de facturation, ainsi que la liste des abonnements sur le point d’être changés.
+6. Choisissez **OK** pour effectuer le changement (ou **Annuler** pour l’annuler).
+
+## <a name="billing-scenarios"></a>Scénarios de facturation
 
 | Type de facturation | Scénarios couverts |
 | --------------- | ----------------- |
