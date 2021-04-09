@@ -1,31 +1,43 @@
 ---
-title: Services de planification Software Assurance
+title: Retrait des services de planification Software Assurance
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Apprenez à vous inscrire et à bénéficier des contrats Microsoft sur les services de planification afin de pouvoir fournir des services de formation et d’autres services aux clients avec Software Assurance.
+description: Les services de planification Microsoft sont en cours de retrait.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028220"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024991"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Services de planification Software Assurance dans l’Espace partenaires
+# <a name="software-assurance-planning-services-retirement"></a>Retrait des services de planification Software Assurance
 
 **Rôles appropriés**
 
 - Administrateur général
 - Administrateur partenaire MPN
 
-En tant que partenaire des services de planification approuvés, Microsoft vous compense de fournir des engagement de planification de prédéploiement pour les clients d’entreprise. Participer à ce programme peut vous aider à attirer plus de clients, à devenir leur partenaire de planification approuvé et à mener à des interventions client supplémentaires.
 
-## <a name="get-started"></a>Bien démarrer
+Les services de planification sont entièrement mis hors service par le biais des avantages de Software Assurance, mais les clients peuvent continuer à travailler avec des partenaires pour utiliser des jours de service de planification, tandis que les bons sont valides. Il s’agit des dates significatives menant à la mise hors service du programme : 
+
+- 1er février 2020 : les services de planification ont été mis hors service dans le Cloud.  
+- 1er février 2020 : les bons de formation ne peuvent plus être convertis en jours de service de planification.  
+- 1er février 2021 : les clients n’accumulent plus les avantages des services de planification. 
+- 30 juin 2021 : dernier jour pour que les clients créent/attribuent des bons de service de planification. Tous les jours de service de planification restants seront supprimés le 1er juillet 2021.
+- 1er janvier 2022 : dernier jour pour que les partenaires échangent des bons de service de planification. Le partenaire aura 60 jours après remboursement pour terminer le processus de demande de paiement.  
+
+>[!NOTE]
+>Il n’y a aucune modification du cycle de vie du document. Une fois qu’un document est créé/affecté, la réservation de pièce justificative, l’engagement client et l’échange de pièces justificatives doivent être effectués dans un délai de 180 jours avant l’expiration du document.  Pour plus d’informations sur la planification de la mise hors service du programme, consultez le Forum aux questions disponible [ici](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) pour plus d’informations (connexion requise).  Veuillez adresser vos questions à l’équipe de support des partenaires régionaux : [support partenaires EMEA](mailto:savoucher@msdirectservices.com); [Support général des partenaires](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Jusqu’au 30 juin 2021
+
+### <a name="get-started"></a>Bien démarrer
 
 Si vous ne connaissez pas les services de planification Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le ou les programmes des services de planification, commencez chaque engagement à l’étape 4 (4) ci-dessous.
 
@@ -62,8 +74,6 @@ Une fois que votre entreprise répond aux conditions d’éligibilité, vous êt
 
 Tout d’abord, veillez à passer en revue toutes les [stratégies de programme des services de planification](https://go.microsoft.com/fwlink/?linkid=2115984). Ensuite, suivez les instructions de l' [étape 2](https://go.microsoft.com/fwlink/?linkid=2115983) du flux de travail pour terminer le processus d’inscription des services de planification dans l’espace partenaires.
 
->[!NOTE]
-> Vous devrez renouveler vos exigences et les réinscrire dans les programmes services de planification chaque année.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Créer ou mettre à jour le profil d’entreprise de votre entreprise (nouveaux partenaires)
 

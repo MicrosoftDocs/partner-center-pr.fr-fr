@@ -1,28 +1,37 @@
 ---
-title: Programme de bons de formation Software Assurance
+title: Retrait du programme de la pièce justificative de Software Assurance
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez comment s’inscrire au programme des bons de formation Software Assurance pour vous permettre de compenser la formation et la planification aux entreprises.
+description: Le programme de la pièce justificative de formation Software Assurance est en cours de retrait.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926613"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024974"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Bon de formation Software Assurance (SATV) de l’Espace partenaires
+# <a name="training-vouchers-program-retirement"></a>Suppression du programme des bons de formation
 
-Développez votre activité en vous inscrivant aux programmes partenaires Software Assurance. Microsoft offre une rémunération aux partenaires pour la diffusion de formations, de planifications et d’autres services aux grandes entreprises clientes qui disposent de la garantie Software Assurance.
+Les bons de formation sont entièrement mis hors service par le biais des avantages de Software Assurance, mais les clients peuvent continuer à utiliser des jours de bon titre pour les formations dirigées par un instructeur alors que les bons sont valides. Il s’agit des dates significatives menant à la mise hors service du programme : 
 
-En tant que partenaire de formation Software Assurance approuvé, Microsoft vous rémunère pour fournir une formation technique aux grandes entreprises clientes en échange des bons qu’ils reçoivent avec Software Assurance. Participer à ce programme peut vous aider à attirer plus de clients et à devenir leur partenaire de formation approuvé.
+- 1er février 2020 : formation Azure retirée du catalogue des bons de formation.
+- 1er février 2020 : les bons de formation ne peuvent plus être convertis en jours de service de planification.  
+- 1er février 2021 : les clients n’accumulent plus les avantages de formation. 
+- 30 juin 2021 : dernier jour pour que les clients créent/attribuent des bons de formation. Tous les jours de bon de formation restants seront supprimés le 1er juillet 2021.
+- 1er janvier 2022 : dernier jour pour que les partenaires échangent des bons de formation. Le partenaire aura 60 jours après remboursement pour terminer le processus de demande de paiement.  
 
-## <a name="get-started"></a>Bien démarrer
+>[!NOTE]
+>Il n’y a aucune modification du cycle de vie du document. Une fois qu’un document est créé/affecté, la réservation, les sessions d’apprentissage et l’échange de pièces justificatives doivent être effectués dans un délai de 180 jours avant l’expiration du document.  Pour plus d’informations sur la mise hors service des bons de formation, consultez les questions fréquentes [ici](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) pour plus d’informations (connexion requise).  Consultez la liste complète des formations éligibles à SATV dans le catalogue des produits d’avantages de formation.  Veuillez adresser vos questions à l’équipe de support des partenaires régionaux : [support partenaires EMEA](mailto:savoucher@msdirectservices.com); [Prise en charge générale des partenaires](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Jusqu’au 30 juin 2021
+
+### <a name="get-started"></a>Bien démarrer
 
 Si vous ne connaissez pas les services de formation Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le programme de bon de formation, commencez à l’étape quatre (4) ci-dessous. 
 
