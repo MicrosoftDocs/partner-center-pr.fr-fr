@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024974"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266484"
 ---
 # <a name="training-vouchers-program-retirement"></a>Suppression du programme des bons de formation
 
@@ -29,7 +29,7 @@ Les bons de formation sont entièrement mis hors service par le biais des avanta
 >[!NOTE]
 >Il n’y a aucune modification du cycle de vie du document. Une fois qu’un document est créé/affecté, la réservation, les sessions d’apprentissage et l’échange de pièces justificatives doivent être effectués dans un délai de 180 jours avant l’expiration du document.  Pour plus d’informations sur la mise hors service des bons de formation, consultez les questions fréquentes [ici](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) pour plus d’informations (connexion requise).  Consultez la liste complète des formations éligibles à SATV dans le catalogue des produits d’avantages de formation.  Veuillez adresser vos questions à l’équipe de support des partenaires régionaux : [support partenaires EMEA](mailto:savoucher@msdirectservices.com); [Prise en charge générale des partenaires](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>Jusqu’au 30 juin 2021
+
 
 ### <a name="get-started"></a>Bien démarrer
 
