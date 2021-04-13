@@ -12,8 +12,6 @@
     - name: Créer un compte MPN dans l’Espace partenaires
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Obtenir une adresse e-mail professionnelle
-      href: buy-email-domain.md
     - name: Résoudre les problèmes de configuration de compte
       href: troubleshoot-account-sign-n.md
     - name: Migrations vers l’Espace partenaires
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Réinitialiser mon mot de passe
           href: reset-my-pasword.md
-        - name: L’utilisateur n’arrive pas à se connecter
+        - name: Résoudre les problèmes de connexion
           href: unable-to-sign-in.md
         - name: L’utilisateur n’a pas d’administrateur MPN
           href: no-mpn-admin.md
@@ -390,8 +388,6 @@
     - name: Notions de base de la facturation
       href: billing-basics.md
       displayName: invoice
-    - name: Types de facturation dans l’Espace partenaires
-      href: billing-different-types.md
     - name: Comprendre votre facture
       href: read-your-bill.md
       displayName: invoice
