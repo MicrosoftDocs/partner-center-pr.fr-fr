@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932840"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133095"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gérer les avantages et les offres de votre adhésion à Microsoft Partner Network dans l’Espace partenaires
-
-**S’applique à**
-
-- Espace partenaires
 
 **Rôles appropriés**
 
 - Administrateur général
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 - Administrateur partenaire MPN
 
@@ -45,7 +41,7 @@ Vos packages d’avantages incluent les allocations de licences logicielles, les
 
 Pour voir et gérer tous les avantages dont vous bénéficiez en tant que membre, accédez à votre [page **Avantages**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (connexion obligatoire). Vous pouvez également vous connecter au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires, sélectionner l’**option Avantages** dans le menu de gauche, puis choisir les options des avantages affichées.  
 
-Dans l’Espace partenaires, vous devez normalement avoir le rôle Administrateur général ou Administrateur de partenaire MPN pour activer la plupart des avantages, télécharger les clés logicielles associées, etc. Si vos avantages ne sont pas listés ou que vous ne parvenez pas à les activer, vérifiez que vous disposez des autorisations appropriées auprès de l’administrateur général de l’Espace partenaires. [Découvrez-en plus sur les rôles de l’Espace partenaires](permissions-overview.md).
+Dans l’Espace partenaires, vous devez normalement avoir le rôle Administrateur général ou Administrateur de partenaire MPN pour activer la plupart des avantages ou télécharger les clés logicielles associées. Si vos avantages ne sont pas listés ou que vous ne parvenez pas à les activer, vérifiez que vous disposez des autorisations appropriées auprès de l’administrateur général de l’Espace partenaires. [Découvrez-en plus sur les rôles de l’Espace partenaires](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Gérer les avantages des logiciels
 
@@ -81,11 +77,11 @@ Vous pouvez être provisionné avec :
 Pour activer un abonnement Microsoft Azure dans l’Espace partenaires, affectez l’accès à un utilisateur au sein de la société (les utilisateurs invités sont éligibles), qui dispose d’une entrée utilisateur dans votre annuaire Azure Active Directory.
 Avec le crédit mensuel Azure de 100 USD/mois (ou son équivalent en devise locale), vous pouvez ajouter ou supprimer des utilisateurs de cet abonnement à tout moment. 
 
-Avec le crédit en bloc Azure (annuel), l’option de suppression n’est pas disponible dans l’Espace partenaires. Toutefois, vous pouvez transférer le crédit en bloc à une autre personne durant votre année d’inscription. L’abonnement au crédit en bloc Azure (annuel) ne peut pas être combiné avec d’autres offres de licences, offres prépayées ou offres de crédit (par exemple Contrat Entreprise Microsoft, Fournisseur de solutions Cloud, Azure dans Open, Pass Azure, Action Pack, etc.).
+Avec le crédit en bloc Azure (annuel), l’option de suppression n’est pas disponible dans l’Espace partenaires. Toutefois, vous pouvez transférer le crédit en bloc à une autre personne durant votre année d’inscription. L’abonnement au crédit en bloc Azure (annuel) ne peut pas être combiné avec d’autres offres de licences, offres prépayées ou offres de crédit (par exemple Contrat Entreprise Microsoft, Fournisseur de solutions Cloud, Azure dans Open, Pass Azure, Action Pack, etc.).
 
 ## <a name="license-based-subscriptions"></a>Abonnements basés sur une licence
 
-Dans la section des abonnements basés sur une licence, sous l’onglet Produits Azure et cloud, vous trouverez tous les produits cloud qui nécessitent une activation à l’aide d’une clé de produit, par exemple Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI, etc., et qui vous sont proposés en fonction du type d’offre active dont vous disposez en tant que partenaire MPN (MAPS, Silver ou Gold).
+La section abonnements basés sur une licence de l’onglet Azure & Cloud Products liste tous les produits cloud qui nécessitent une clé de produit pour l’activation, par exemple Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic et Power BI. Le type d’offre que vous avez activé en tant que partenaire MPN (MAPS, Silver ou Gold) détermine quels produits sont listés.
 
 Pour activer les abonnements basés sur une licence, cliquez sur le symbole de liste déroulante correspondant au produit qui vous intéresse, puis lisez les instructions relatives à l’acceptation des clés. Une fois que vous avez lu les instructions, sélectionnez le lien de redirection vers le portail où s’effectuent l’acceptation des clés et l’affectation de clé pour votre produit.
 

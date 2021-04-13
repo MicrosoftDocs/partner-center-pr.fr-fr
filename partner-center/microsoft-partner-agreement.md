@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880801"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441266"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Découvrir le Contrat Partenaire Microsoft (MPA) pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880801"
 
 Le Contrat Partenaire Microsoft offre aux partenaires Microsoft un contrat de partenariat unifié et accepté numériquement. Le Contrat Partenaire Microsoft contient un ensemble de termes perpétuels permettant à Microsoft, aux partenaires et aux clients de prendre en charge la confidentialité et la sécurité des données, de promouvoir la conformité et d’encourager des pratiques professionnelles.
 
-Tous les partenaires du programme Fournisseur de solutions Cloud (notamment les fournisseurs indirects, les revendeurs indirects et les partenaires à facturation directe) peuvent signer le Contrat Partenaire Microsoft en ligne dans l’Espace partenaires. Les partenaires à facturation directe et les fournisseurs indirects qui travaillent dans le cloud US Government peuvent également signer l’accord de partenariat à partir de l’Espace partenaires.
+Tous les partenaires du programme Fournisseur de solutions Cloud (notamment les fournisseurs indirects, les revendeurs indirects et les partenaires à facturation directe) peuvent signer le Contrat Partenaire Microsoft en ligne dans l’Espace partenaires. Les partenaires à facturation directe et les fournisseurs indirects qui travaillent dans Microsoft Cloud for US Government peuvent également signer l’accord de partenariat à partir de l’Espace partenaires.
 
 Pour continuer à participer au programme Fournisseur de solutions Cloud (CSP), Vous devez signer le Contrat Partenaire Microsoft avant le 31 janvier 2020. L’Espace partenaires vous rappelle que vous pouvez à présent signer facilement le contrat à partir de l’Espace partenaires.
 
@@ -75,7 +75,7 @@ N’oubliez pas d’accepter la demande de relation CSP avec votre fournisseur i
 1. Connectez-vous à l’Espace partenaires en utilisant votre compte CSP Indirect Reseller. Vous devez être administrateur général.
 1. Accédez à la page **[Vue d’ensemble du programme CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Si vous ne voyez pas **Accepter et continuer** ou la bannière verte indiquant que le Contrat Partenaire Microsoft est signé, c’est que vous ne disposez pas du rôle approprié pour signer ce contrat. Contactez votre administrateur général pour qu’il signe le Contrat Partenaire Microsoft.
 
-1. Pour visualiser et télécharger le **Contrat Partenaire Microsoft** avant de le signer, cliquez sur le lien Contrat Partenaire Microsoft comme indiqué ci-dessous.
+1. Pour visualiser et télécharger le **Contrat Partenaire Microsoft** avant de le signer, sélectionnez le lien Contrat Partenaire Microsoft comme indiqué ci-dessous.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Nouvel emplacement du Contrat Partenaire Microsoft":::
 

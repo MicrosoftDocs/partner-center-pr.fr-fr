@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712543"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280919"
 ---
 # <a name="december-2020-announcements"></a>Annonces de décembre 2020
 
@@ -189,15 +189,14 @@ L’annonce complète est uniquement disponible pour les partenaires Microsoft. 
 ______________
 
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Changements dans les conditions d’intégration des clients CSP (Cloud Solution Provider)
-
 ### <a name="categories"></a>Catégories
 
-- Date : 17-12-2020
+- Date : 02/04/2021
 - Offres/marchés
- 
+
 ### <a name="summary"></a>Résumé
 
-Dans le cadre de notre engagement à aider les partenaires et les clients à exercer leur activité en toute confiance, nous demanderons des informations supplémentaires sur les clients, à partir de fin mars 2021.
+Dans le cadre de notre engagement à aider les partenaires et les clients à exercer leur activité en toute confiance, nous demanderons des informations supplémentaires sur les clients à compter du 25 mars 2021.
 
 ### <a name="impacted-audience"></a>Public concerné
 
@@ -205,11 +204,12 @@ Fournisseurs indirects et partenaires à facturation directe CSP qui ont des cli
 
 ### <a name="details"></a>Détails
 
-Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des clients conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme Fournisseur de solutions Cloud. À la fin du mois de mars 2021, nous présenterons des améliorations de l’interface utilisateur et de l’API Espace partenaires qui affecteront les partenaires répondant aux deux critères suivants :
+Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des clients conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme Fournisseur de solutions Cloud. Le 25 mars 2021, nous présenterons des améliorations de l’interface utilisateur et de l’API de l’Espace partenaires qui affecteront les partenaires répondant aux deux critères suivants :
 
 1. Le partenaire a une relation de facturation directe avec Microsoft (ce qui signifie que le partenaire est un partenaire à facturation directe ou un fournisseur indirect).
 
 2. Le partenaire fait affaire avec des clients nouveaux ou déjà existants dans les pays suivants :
+
     - Thaïlande
     - Vietnam
     - Turquie
@@ -224,7 +224,9 @@ Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir
     - Émirats arabes unis
     - Venezuela
 
-Les partenaires qui satisfont aux critères devront soumettre l’**identificateur légal** (également connu sous le nom de **code INN d’organisation**) et le **numéro de téléphone** d’un client lors de la prochaine mise à jour ou création d’un abonnement pour ce client. Ces partenaires peuvent également entrer un **deuxième prénom** facultatif pour le client.
+Les partenaires qui satisfont aux critères devront soumettre l’ID d’inscription d’entreprise d’un client (également connu sous le nom de code INN d’organisation) et le numéro de téléphone d’un client lors de la prochaine mise à jour ou création d’un abonnement pour ce client. Ces partenaires peuvent également entrer un deuxième prénom facultatif pour le client.
+
+Notez que lorsque vous ajoutez votre ID d’inscription d’entreprise, vous devez utiliser votre ID de taxe professionnelle et non l’ID personnel du client.
 
 Les partenaires qui travaillent avec des clients nouveaux ou existants dans les pays suivants ont déjà été intégrés à une version précédente en novembre 2020.
 
@@ -240,7 +242,7 @@ Les partenaires qui travaillent avec des clients nouveaux ou existants dans les 
 - Ukraine
 - Ouzbékistan
 
-Les partenaires ayant des clients dans le reste du monde auront la possibilité à la fin du mois de mars 2021 d’entrer l’**identificateur légal**, le **numéro de téléphone** et le **deuxième prénom** pour les clients en tant que détails facultatifs.
+Les partenaires ayant des clients dans le reste du monde auront la possibilité à la fin du mois de mars 2021 d’entrer l’ID d’inscription d’entreprise, le numéro de téléphone et le deuxième prénom pour les clients, au titre d’informations facultatives.
 
 ### <a name="next-steps"></a>Étapes suivantes
 
@@ -251,9 +253,19 @@ Les partenaires ayant des clients dans le reste du monde auront la possibilité 
 
 ### <a name="questions"></a>Des questions ?
 
-Si vous avez des questions liées à l’identificateur légal (également appelé code INN ou TIN), contactez votre conseiller fiscal ou le service des impôts local. Microsoft ne peut pas fournir d’aide sur les questions fiscales. 
+Si vous avez des questions liées à l’ID d’inscription d’entreprise (également appelé code INN ou TIN), contactez votre conseiller fiscal ou le service des impôts local. Microsoft ne peut pas fournir d’aide sur les questions fiscales.
 
 Si vous avez besoin de support pour vos opérations avec Microsoft, [ouvrez une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Journal des modifications :
+
+17 décembre 2020 : Première publication
+
+Mises à jour du 2 avril :
+
+- Date de lancement fournie
+- Le titre de l’INN d’organisation a été mis à jour ; il s’agit désormais de l’ID d’inscription d’entreprise
+- Remarque ajoutée pour fournir des éclaircissements concernant l’ID d’inscription d’entreprise
 
 ______________
 

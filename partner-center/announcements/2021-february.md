@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/02/2021
+ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712475"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280902"
 ---
 # <a name="february-2021-announcements"></a>Annonces de février 2021
 
@@ -150,23 +150,25 @@ ________________
 
 ### <a name="categories"></a>Catégories
 
-- Date : 25/02/2021
+- Date : 02/04/2021
 - Amélioration de la sécurité et de la conformité
-
-### <a name="impacted-audience"></a>Public concerné
-
-Fournisseurs indirects et partenaires à facturation directe CSP qui ont des clients nouveaux ou existants dans les pays listés dans la section suivante.
 
 ### <a name="summary"></a>Résumé
 
-Dans le cadre de notre engagement à aider les partenaires et les clients à exercer leur activité en toute confiance, nous demanderons des informations supplémentaires sur les clients, à compter du 25 mars 2021.
+Dans le cadre de notre engagement à aider les partenaires et les clients à exercer leur activité en toute confiance, nous demanderons des informations supplémentaires sur les clients à compter du 25 mars 2021.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Fournisseurs indirects et partenaires à facturation directe CSP qui ont des clients nouveaux ou existants dans les pays listés dans la section suivante
 
 ### <a name="details"></a>Détails
 
 Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des clients conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme Fournisseur de solutions Cloud. Le 25 mars 2021, nous présenterons des améliorations de l’interface utilisateur et de l’API de l’Espace partenaires qui affecteront les partenaires répondant aux deux critères suivants :
 
 1. Le partenaire a une relation de facturation directe avec Microsoft (ce qui signifie que le partenaire est un partenaire à facturation directe ou un fournisseur indirect).
+
 2. Le partenaire fait affaire avec des clients nouveaux ou déjà existants dans les pays suivants :
+
     - Thaïlande
     - Vietnam
     - Turquie
@@ -181,7 +183,9 @@ Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir
     - Émirats arabes unis
     - Venezuela
 
-Les partenaires qui satisfont aux critères devront soumettre l’**identificateur légal** (également connu sous le nom de **code INN d’organisation** du client) et le **numéro de téléphone** lors de l’intégration de nouveaux clients ou de la modification des informations détaillées d’un client existant. Ces partenaires peuvent également entrer un **deuxième prénom** facultatif pour le client.
+Les partenaires qui satisfont aux critères devront soumettre l’ID d’inscription d’entreprise d’un client (également connu sous le nom de code INN d’organisation) et le numéro de téléphone d’un client lors de la prochaine mise à jour ou création d’un abonnement pour ce client. Ces partenaires peuvent également entrer un deuxième prénom facultatif pour le client.
+
+Notez que lorsque vous ajoutez votre ID d’inscription d’entreprise, vous devez utiliser votre ID de taxe professionnelle et non l’ID personnel du client.
 
 Les partenaires qui travaillent avec des clients nouveaux ou existants dans les pays suivants ont déjà été intégrés à une version précédente en novembre 2020.
 
@@ -197,20 +201,35 @@ Les partenaires qui travaillent avec des clients nouveaux ou existants dans les 
 - Ukraine
 - Ouzbékistan
 
-Les partenaires ayant des clients dans le reste du monde auront la possibilité le 25 mars 2021 d’entrer l’**identificateur légal**, le **numéro de téléphone** et le **deuxième prénom** pour les clients, au titre d’informations facultatives.
+Les partenaires ayant des clients dans le reste du monde auront la possibilité à la fin du mois de mars 2021 d’entrer l’ID d’inscription d’entreprise, le numéro de téléphone et le deuxième prénom pour les clients, au titre d’informations facultatives.
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- Pour obtenir des instructions plus détaillées, consultez la documentation technique et les questions fréquemment posées dans le [groupe de partenaires](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dédié (connexion nécessaire).
+- Pour obtenir des instructions plus détaillées, consultez la documentation technique et les questions fréquemment posées dans le [groupe de partenaires](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dédiée.
 - Préparez l’intégration des modifications à l’aide de l’API Espace partenaires et de l’expérience utilisateur web. L’API et les SDK seront disponibles à des fins de test.
 - Veillez à soumettre les données supplémentaires lors de l’intégration de nouveaux clients ou de la modification des détails de clients existants.
 - Si vous utilisez une solution de fournisseur de panneau de contrôle (CPV), consultez le fournisseur concerné.
 
 ### <a name="questions"></a>Des questions ?
 
-Si vous avez des questions liées à l’identificateur légal (également appelé code INN ou TIN), contactez votre conseiller fiscal ou le service des impôts local. Microsoft ne peut pas fournir d’aide sur les questions fiscales.
+Si vous avez des questions liées à l’ID d’inscription d’entreprise (également appelé code INN ou TIN), contactez votre conseiller fiscal ou le service des impôts local. Microsoft ne peut pas fournir d’aide sur les questions fiscales.
 
-Si vous avez besoin de support pour vos opérations avec Microsoft, [ouvrez une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (connexion nécessaire).
+Si vous avez besoin de support pour vos opérations avec Microsoft, [ouvrez une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Journal des modifications :
+
+17 décembre 2020 : Première publication
+
+28 janvier 2021 : republication ; aucune modification
+
+25 février 2021 : date de lancement spécifique annoncée
+
+2 avril 2021 : les mises à jour sont les suivantes :
+
+- Date de lancement fournie
+- Le titre de l’INN d’organisation a été mis à jour ; il s’agit désormais de l’ID d’inscription d’entreprise 
+- Remarque ajoutée pour fournir des éclaircissements concernant l’ID d’inscription d’entreprise
+
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a>Disponible dès maintenant : Migration de DocuSign vers Adobe Sign pour les partenaires sous contrat Partenaire Microsoft (MPA)
@@ -377,7 +396,7 @@ Ces mises à jour des prix de Microsoft 365 E3 se limitent à ces seules devise
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-Les partenaires doivent télécharger les fichiers de liste de prix les plus récents à partir de l’Espace partenaires afin d’obtenir les derniers prix de mars. 
+Les partenaires doivent télécharger les fichiers de liste de prix les plus récents à partir de l’Espace partenaires afin d’obtenir les derniers prix de mars.
 
 _______________
 

@@ -9,23 +9,18 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133046"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087074"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>Questions fréquentes sur les exigences de sécurité des partenaires
 
-**S’applique à**
+**Rôles appropriés**
 
-- Espace partenaires
-
-**Utilisateurs appropriés**
-
-- Tous les utilisateurs activés, y compris les utilisateurs invités
-
+- Tous les utilisateurs de l’Espace partenaires
 
 Cet article répond à certaines questions fréquentes sur les [exigences de sécurité des partenaires](partner-security-requirements.md).
 
@@ -53,7 +48,7 @@ Non, il n’est pas possible d’exclure un compte d’utilisateur de l’obliga
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Comment savoir si j’ai répondu aux exigences de sécurité du partenaire ?
 
-Vous devez effectuer les étapes suivantes :
+Suivez les étapes ci-dessous :
 
 - Vous devez répondre à toutes les exigences décrites dans les [exigences de sécurité du partenaire](partner-security-requirements.md).
 - Vous devez vous assurer que l’authentification multifacteur est appliquée à tous les comptes d’utilisateur de votre locataire partenaire.
@@ -77,7 +72,7 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
     - Les fournisseurs indirects doivent collaborer avec les revendeurs indirects pour intégrer l’Espace partenaires, s’ils ne l’ont pas déjà fait, et encourager leurs revendeurs à satisfaire aux exigences.
     - Azure MFA est mis gratuitement à la disposition de tous les utilisateurs du locataire de partenaire via les paramètres de sécurité par défaut d’Azure AD avec pour seule méthode de vérification une application d’authentification qui prend en charge les TOTP (mots de passe à usage unique et durée définie).
     - Des méthodes de vérification supplémentaires sont disponibles via les références SKU d’[Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium), si d’autres méthodes telles qu'un appel téléphonique ou SMS sont nécessaires.
-    - Les partenaires peuvent également tirer parti d’une solution d’authentification MFA tierce pour chaque compte qui accède aux services cloud commerciaux Microsoft.
+    - Les partenaires peuvent également utiliser une solution d’authentification MFA tierce pour chaque compte qui accède aux services cloud commerciaux Microsoft.
 
 2. **Adopter le framework du modèle d’application sécurisé**
 
@@ -98,7 +93,7 @@ Tous les partenaires du programme Fournisseur de solutions Cloud (facturation di
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>Qu’est-ce que l’authentification multifacteur (MFA) ?
 
-L’authentification MFA est un mécanisme de sécurité qui permet aux personnes de s’authentifier via plusieurs procédures de sécurité et de validation. Ce mécanisme fonctionne en imposant deux ou plusieurs des méthodes d’authentification suivantes :
+L’authentification MFA est un mécanisme de sécurité qui permet d’authentifier les utilisateurs via plusieurs procédures de sécurité et de validation. Ce mécanisme fonctionne en imposant deux ou plusieurs des méthodes d’authentification suivantes :
 
 - Quelque chose que vous connaissez (généralement un mot de passe)
 - Un élément que vous possédez (un appareil de confiance qui n'est pas facilement dupliqué, comme un téléphone)
@@ -106,7 +101,7 @@ L’authentification MFA est un mécanisme de sécurité qui permet aux personne
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Quel est le coût de l’activation de l’authentification MFA ?
 
-Microsoft fournit gratuitement une authentification MFA via l’implémentation des paramètres de sécurité par défaut d’Azure AD. La seule option de vérification disponible dans cette version de l’authentification MFA est une application d’authentification. Si un appel téléphonique ou un SMS est nécessaire, vous devez acheter une licence [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium). Vous pouvez également utiliser une solution tierce pour fournir une authentification MFA à chaque utilisateur du locataire de partenaire. Dans ce cas, il vous incombe de vérifier que votre solution d’authentification MFA est appliquée et que vous êtes en situation de conformité.
+Microsoft fournit gratuitement une authentification MFA via l’implémentation des paramètres de sécurité par défaut d’Azure AD. La seule option de vérification disponible avec cette version de l’authentification MFA est une application d’authentification. Si un appel téléphonique ou un SMS est nécessaire, vous devez acheter une licence [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium). Vous pouvez également utiliser une solution tierce pour fournir une authentification MFA à chaque utilisateur du locataire de partenaire. Dans ce cas, il vous incombe de vérifier que votre solution d’authentification MFA est appliquée et que vous êtes en situation de conformité.
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>Quelles mesures dois-je prendre si j’ai déjà une solution d’authentification MFA ?
 
@@ -145,11 +140,11 @@ Pour plus d’informations, consultez la [liste de compatibilité de fédératio
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Comment puis-je tester l’authentification MFA dans notre bac à sable d’intégration ?
 
-La fonctionnalité des paramètres de sécurité par défaut d’Azure AD doit être activée. Sinon, vous pouvez tirer profit d’une solution tierce basée sur la fédération.
+Les fonctionnalités des paramètres de sécurité par défaut d’Azure AD doivent être activées. Sinon, vous pouvez utiliser une solution tierce basée sur la fédération.
 
 ### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>L’activation de l’authentification MFA a-t-elle un impact sur mon interaction avec le locataire de mon client ?
 
-Non. Le respect de ces exigences de sécurité n’impacte pas la façon dont vous gérez vos clients. Votre capacité à effectuer des opérations d’administration déléguées n’est pas interrompue.
+Non. Le respect de ces exigences de sécurité n’affecte pas la façon dont vous gérez vos clients. Votre capacité à effectuer des opérations d’administration déléguées n’est pas interrompue.
 
 ### <a name="are-my-customers-subject-to-the-partner-security-requirements"></a>Mes clients sont-ils soumis aux exigences de sécurité du partenaire ?
 
@@ -165,7 +160,7 @@ Oui, les exigences de sécurité du partenaire s’appliquent au bac à sable d�
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Comment configurer un compte d’accès d’urgence (compte de secours) ?
 
-Parmi les bonnes pratiques, il est recommandé de créer un ou deux comptes d’accès d’urgence pour éviter le verrouillage accidentel de l’accès à votre locataire Azure AD. En ce qui concerne les exigences de sécurité du partenaire, il est nécessaire que chaque utilisateur s’authentifie à l’aide de l’authentification MFA. Cette exigence signifie que vous devez modifier la définition d’un compte d’accès d’urgence. Il peut s’agir d’un compte qui tire parti d’une solution tierce pour l’authentification MFA.
+Parmi les bonnes pratiques, il est recommandé de créer un ou deux comptes d’accès d’urgence pour éviter le verrouillage accidentel de l’accès à votre locataire Azure AD. En ce qui concerne les exigences de sécurité du partenaire, il est nécessaire que chaque utilisateur s’authentifie à l’aide de l’authentification MFA. Cette exigence signifie que vous devez modifier la définition d’un compte d’accès d’urgence. Il peut s’agir d’un compte qui utilise une solution tierce pour l’authentification MFA.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Les services de fédération Active Directory (ADFS) sont-ils nécessaires si j’utilise une solution tierce ?
 
@@ -177,7 +172,7 @@ Non, il n’est pas obligatoire d’activer les paramètres de sécurité par d�
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>L’accès conditionnel peut-il être utilisé pour répondre à l’exigence d’authentification MFA ?
 
-Oui, vous pouvez utiliser l’accès conditionnel afin de mettre en œuvre l’authentification MFA pour chaque utilisateur, notamment les comptes de service, sur le locataire du partenaire. Toutefois, compte tenu de la nature hautement privilégiée du statut de partenaire, nous devons vérifier que chaque utilisateur est soumis à l’authentification MFA quand cela s’impose. Cela signifie que vous ne pouvez pas tirer parti de la fonctionnalité d’accès conditionnel qui contourne l’exigence d’authentification MFA.
+Oui, vous pouvez utiliser l’accès conditionnel afin de mettre en œuvre l’authentification MFA pour chaque utilisateur, notamment les comptes de service, sur le locataire du partenaire. Toutefois, compte tenu de la nature hautement privilégiée du statut de partenaire, nous devons vérifier que chaque utilisateur est soumis à l’authentification MFA quand cela s’impose. Cela signifie que vous ne pouvez pas utiliser la fonctionnalité d’accès conditionnel qui contourne l’exigence d’authentification MFA.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Le compte de service utilisé par Azure AD Connect est-t-il impacté par les exigences de sécurité du partenaire ?
 
@@ -187,7 +182,7 @@ Non, le compte de service utilisé par Azure AD Connect n’est pas impacté pa
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Qui doit adopter le modèle d’application sécurisé pour répondre aux exigences ?
 
-Microsoft propose un framework sécurisé et scalable pour l’authentification des partenaires du programme Fournisseur de solutions Cloud et des fournisseurs de panneaux de contrôle (CPV) qui tirent parti du service Multi-Factor Authentication. Pour plus d’informations, consultez le [Guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Tous les partenaires qui ont développé une intégration personnalisée à l’aide d’une API (par exemple Azure Resource Manager, Microsoft Graph, l’API de l’Espace partenaires, etc.) ou qui ont implémenté une automation personnalisée à l’aide d’outils tels que PowerShell doivent adopter le [framework du modèle d’application sécurisé](/partner-center/develop/enable-secure-app-model) à intégrer aux services cloud Microsoft.
+Microsoft propose un framework sécurisé et scalable pour l’authentification des partenaires du programme Fournisseur de solutions Cloud (CSV) et des fournisseurs de panneaux de contrôle (CPV) qui utilise le service Multi-Factor Authentication. Pour plus d’informations, consultez le [Guide du modèle d’application sécurisé](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Tous les partenaires qui ont développé une intégration personnalisée à l’aide d’une API (par exemple Azure Resource Manager, Microsoft Graph, l’API de l’Espace partenaires, etc.) ou qui ont implémenté une automation personnalisée à l’aide d’outils tels que PowerShell doivent adopter le [framework du modèle d’application sécurisé](/partner-center/develop/enable-secure-app-model) à intégrer aux services cloud Microsoft.
 
 ### <a name="what-is-the-secure-application-model"></a>Qu’est-ce que le modèle d’application sécurisé ?
 
@@ -210,7 +205,7 @@ Les fournisseurs de panneaux de contrôle doivent [intégrer](enroll-as-cpv.md) 
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Le modèle d’application sécurisé doit-il uniquement être implémenté pour le kit SDK/l’API de l’Espace partenaires ?
 
-En cas d’application de l’authentification multifacteur à tous les comptes d’utilisateur, toute automatisation ou intégration destinée à s’exécuter de manière non interactive est impactée. Bien que les exigences de sécurité du partenaire nécessitent de votre part l’activation du modèle d’application sécurisé pour l’API de l’Espace partenaires, vous pouvez en tirer profit pour répondre au besoin d’un second facteur d’authentification avec l’automatisation et l’intégration.
+En cas d’application de l’authentification multifacteur à tous les comptes d’utilisateur, toute automatisation ou intégration destinée à s’exécuter de manière non interactive est impactée. Bien que les exigences de sécurité du partenaire nécessitent de votre part l’activation du modèle d’application sécurisé pour l’API de l’Espace partenaires, vous pouvez l’utiliser pour répondre au besoin d’un second facteur d’authentification avec l’automatisation et l’intégration.
 
 >[!Note] 
 >Les ressources faisant l’objet d’un accès doivent prendre en charge l’authentification par jeton d’accès.
@@ -299,7 +294,7 @@ Consultez [Test des exigences de sécurité du partenaire](/powershell/partnerce
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>L’authentification multifacteur m’empêche de prendre en charge mon client utilisant AOBO. Que dois-je faire ?
 
-Les contraintes techniques relatives aux exigences de sécurité du partenaire sont vérifiées afin d’indiquer si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Dans la négative, vous êtes redirigé vers la page de connexion et vous êtes invité à vous authentifier à nouveau. Découvrez une expérience et des conseils supplémentaires dans cette documentation [Imposer l’authentification multifacteur (MFA) à votre locataire partenaire](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Dans le scénario dans lequel votre domaine n’est pas fédéré, une fois l’authentification réussie, vous êtes invité à configurer l’authentification multifacteur. Une fois cette opération terminée, vous serez en mesure de gérer vos clients à l’aide des privilèges AOBO (Administrateur pour le compte de). Dans le scénario dans lequel votre domaine est fédéré, vous devez vous assurer que le compte fait l’objet d’un test d’authentification multifacteur.
+Les contraintes techniques relatives aux exigences de sécurité du partenaire sont vérifiées afin d’indiquer si le compte authentifié a fait l’objet d’un test d’authentification multifacteur. Dans la négative, vous êtes redirigé vers la page de connexion et invité à vous réauthentifier. Découvrez une expérience et des conseils supplémentaires dans cette documentation [Imposer l’authentification multifacteur (MFA) à votre locataire partenaire](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). Dans le scénario dans lequel votre domaine n’est pas fédéré, une fois l’authentification réussie, vous êtes invité à configurer l’authentification multifacteur. Une fois cette opération terminée, vous serez en mesure de gérer vos clients à l’aide des privilèges AOBO (Administrateur pour le compte de). Dans le scénario dans lequel votre domaine est fédéré, vous devez vous assurer que le compte fait l’objet d’un test d’authentification multifacteur.
 
 ## <a name="security-defaults-transition"></a>Transition vers les paramètres de sécurité par défaut
 

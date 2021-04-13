@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943926"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502865"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Vue d’ensemble des offres pour les partenaires du programme Fournisseur de solutions Cloud
-
-**S’applique à**
-
-- Partenaires fournisseurs de solutions cloud
 
 **Rôles appropriés**
 
@@ -28,7 +24,7 @@ ms.locfileid: "86943926"
 - Administrateur général
 - Agent commercial
 
-Les partenaires Microsoft du programme Fournisseur de solutions Cloud (CSP) ont un catalogue croissant d’offres à leur disposition. Vous pouvez vendre la gamme complète de [services de cloud computing Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), ainsi que diverses autres offres qui changent fréquemment. Pour vérifier les offres disponibles pour le mois en cours dans le cadre du programme Fournisseur de solutions Cloud, connectez-vous à l’Espace partenaires et accédez à la page [**Prix et offres**](https://partnercenter.microsoft.com/pcv/sales).  
+Les partenaires Microsoft du programme Fournisseur de solutions Cloud (CSP) ont un catalogue croissant d’offres à leur disposition. Vous pouvez vendre la gamme complète de [services cloud Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services) et diverses autres offres qui changent fréquemment. Pour vérifier les offres disponibles pour le mois en cours dans le cadre du programme Fournisseur de solutions Cloud, connectez-vous à l’Espace partenaires et accédez à la page [**Prix et offres**](https://partnercenter.microsoft.com/pcv/sales).  
 
 Vous n’êtes pas encore inscrit au programme Fournisseur de solutions Cloud ? Consultez la page [Fournisseur de solutions Cloud](https://partner.microsoft.com/cloud-solution-provider) pour plus d’informations sur l’inscription. 
 
@@ -117,8 +113,8 @@ Certaines offres basées sur une licence ne peuvent être achetées que sous cer
 
 Il peut y avoir différentes raisons pour lesquelles vous ne trouvez pas l’offre que vous recherchez dans le catalogue. Vous trouverez ci-dessous les éléments à vérifier si vous ne trouvez pas l’offre que vous attendez.
 
-- **Vérifiez que votre client est qualifié**. Les clients doivent remplir certains critères (« qualifications ») pour pouvoir accéder à certaines offres. Parmi ces segments spéciaux figurent Éducation, Associations et Cloud de la communauté du secteur public (GCC). Avant de signaler un problème, vérifiez d’abord que les qualifications du client sont définies en conséquence. Pour cela, vous pouvez cliquer sur le nom du client dans la liste des clients et vérifier son compte. Le cas échéant, des qualifications spéciales doivent être définies pour le compte. Si vous essayez d’acheter une offre Éducation pour un client qui n’est pas qualifié, vous ne verrez pas ces offres dans le catalogue. Pour plus d’informations sur la qualification de vos clients, consultez la [documentation sur les segments spéciaux](get-special-pricing-for-offers.md).
-- **Décidez si vous essayez d’acheter un module complémentaire ou une offre de base**. De nombreux services basés sur une licence comme Microsoft 365 et Dynamics 365 permettre d’acheter des offres de base dans le catalogue, mais aussi des modules complémentaires. Seules les offres de base peuvent être achetées dans le catalogue. Pour acheter des modules complémentaires, veillez dans un premier temps à acheter l’offre de base dans le catalogue, puis sélectionnez le client dans la liste des clients et l’abonnement pour l’offre de base. Les modules complémentaires peuvent être appliqués à l’offre de base dans cette page de gestion des abonnements. 
+- **Vérifiez que votre client est qualifié**. Les clients doivent remplir certains critères (« qualifications ») pour pouvoir accéder à certaines offres. Ces segments spéciaux incluent : Éducation, Organisations sans but lucratif et Cloud de la communauté du secteur public (GCC). Avant de signaler un problème, vérifiez d’abord que les qualifications du client sont définies en conséquence. Pour cela, vous pouvez sélectionner le nom du client dans la liste et vérifier son compte. Le cas échéant, des qualifications spéciales doivent être définies pour le compte. Si vous essayez d’acheter une offre Éducation pour un client non éligible, ces offres ne figurent pas dans le catalogue. Pour plus d’informations sur la qualification de vos clients, consultez la [documentation sur les segments spéciaux](get-special-pricing-for-offers.md).
+- **Déterminez si vous souhaitez acheter un module complémentaire ou une offre de base**. La plupart des services basés sur une licence comme Microsoft 365 et Dynamics 365 permettent d’acheter des offres de base et des modules complémentaires. Seules les offres de base peuvent être achetées dans le catalogue. Pour acheter des modules complémentaires, vous devez d’abord acheter l’offre de base dans le catalogue, puis sélectionner le client dans la liste des clients, et enfin sélectionner l’abonnement pour l’offre de base. Les modules complémentaires peuvent être appliqués à l’offre de base dans cette page de gestion des abonnements. 
 - **Vérifiez que les produits sont disponibles sur votre marché**. De nombreux produits et services sont configurés pour être vendus uniquement aux clients de certains pays. Vous trouverez la liste des pays pris en charge dans les différents fichiers de tarifs. Les pays ayant accès aux services basés sur une licence figurent dans le tableau de la liste des offres, dans la page Tarifs et offres.
 - **Vérifiez que les offres sont disponibles dans les tarifs**. La liste des offres disponibles peut changer d’un mois à l’autre. Si vous ne trouvez pas une offre dans le catalogue, vérifiez qu’elle est disponible dans les listes de prix actuelles dans la page **Vendre > Tarification et offres**.
 

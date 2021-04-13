@@ -9,18 +9,18 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624151"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086547"
 ---
 # <a name="security-requirements-status-report"></a>Rapport sur l’état des exigences de sécurité
 
 **Rôles appropriés**
-- Fournisseurs de panneau de contrôle
-- Administrateurs généraux
+- Administrateur CPV
+- Administrateur général
 
 Cet article explique le rapport sur l’état des exigences de sécurité dans l’Espace partenaires. Ce rapport fournit des métriques sur la conformité des utilisateurs de votre locataire partenaire aux [exigences de sécurité des partenaires](partner-security-requirements.md) en matière d’authentification multifacteur (MFA).
 
@@ -53,7 +53,7 @@ La métrique **Via le portail de l’Espace partenaires** est liée aux activit�
 - Le deuxième jour, John s’est connecté au tableau de bord de l’Espace partenaires sans vérification MFA et a effectué cinq opérations.
 - Le troisième jour, Jane s’est connectée au tableau de bord de l’Espace partenaires avec la vérification MFA et a effectué deux opérations.
 - Aucune opération n’a été effectuée par ces agents les quatre jours restants.
-- Parmi les 10 opérations effectuées dans cette fenêtre de 7 jours, deux ont été effectuées par un utilisateur avec la vérification MFA. Par conséquent, la métrique affiche 20 %.
+- Parmi les dix opérations effectuées dans cette fenêtre de sept jours, deux ont été effectuées par un utilisateur avec la vérification MFA. Par conséquent, la métrique affiche 20 %.
 
 Utilisez le fichier des demandes de portail sans MFA (**Portal requests without MFA**) pour déterminer l’utilisateur qui s’est connecté au tableau de bord de l’Espace partenaires sans avoir recours à la vérification MFA et l’heure de la dernière visite dans la fenêtre de rapports.
 
@@ -82,7 +82,7 @@ Certains partenaires qui ont implémenté MFA peuvent constater des métriques i
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>MFA implémentée pour votre locataire partenaire
 
-Vous devez implémenter MFA pour votre locataire partenaire pour vous mettre en conformité. Pour obtenir des détails sur l’implémentation de MFA, consultez [Exigences de sécurité concernant l’utilisation de l’Espace partenaires ou des API de l’Espace partenaires](partner-security-requirements.md).
+Vous devez implémenter MFA pour votre locataire partenaire afin de vous mettre en conformité. Pour obtenir des détails sur l’implémentation de MFA, consultez [Exigences de sécurité concernant l’utilisation de l’Espace partenaires ou des API de l’Espace partenaires](partner-security-requirements.md).
 
 >[!NOTE]
 > Les métriques MFA sont calculées quotidiennement et prennent en compte les opérations effectuées au cours des sept derniers jours. Si vous avez récemment effectué l’implémentation de MFA seulement pour votre locataire partenaire, les métriques peuvent ne pas encore indiquer 100 %.

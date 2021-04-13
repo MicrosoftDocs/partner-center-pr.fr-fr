@@ -4,23 +4,23 @@ ms.topic: conceptual
 ms.date: 02/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez l’utilisation du rapport des qualifications pour garantir que votre entreprise dispose des bonnes informations sur l’acquisition des compétences.
+description: Découvrez comment utiliser le rapport des qualifications pour garantir que votre entreprise dispose des bonnes informations sur l’acquisition des compétences.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474257"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132432"
 ---
 # <a name="using-the-skills-report"></a>Utilisation du rapport des qualifications
 
 **Rôles appropriés**
 
-- Administrateur de partenaire MPN
+- Administrateur partenaire MPN
 - Administrateur général
 
 Le rapport des qualifications permet aux partenaires du Microsoft Partner Network d’évaluer les qualifications acquises par les utilisateurs de leur société partenaire. Les qualifications du rapport peuvent inclure des évaluations, des certifications ou des examens effectués par les utilisateurs techniques du partenaire. 

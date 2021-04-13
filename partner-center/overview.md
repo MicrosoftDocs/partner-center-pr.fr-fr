@@ -8,16 +8,16 @@ description: Utiliser l’Espace partenaires pour traiter avec Microsoft et vos 
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582646"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132245"
 ---
 # <a name="what-is-partner-center"></a>Qu’est-ce que l’Espace partenaires ?
 
-##### <a name="appropriate-roles"></a>Rôles appropriés
+**Rôles appropriés**
 
 - Tous les partenaires intéressés par l’Espace partenaires
 
@@ -53,7 +53,7 @@ Créez votre profil d’entreprise pour présenter les domaines d’expertise de
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-vendre avec Microsoft et d’autres partenaires
 
-La co-vente est le parcours que suivent les partenaires pour vendre conjointement avec Microsoft et d’autres partenaires dans un esprit collaboratif, convivial et positif. La co-vente vous permet d’exploiter la marque Microsoft, nos équipes commerciales, nos capacités de génération de demande et la place de marché commerciale pour atteindre de nouveaux clients dans le monde entier. Cela vous permet aussi de vendre à la fois avec d’autres partenaires et avec nous. Pour plus d’informations, consultez [Gérer les opportunités de co-vente](manage-co-sell-opportunities.md).
+La co-vente est le parcours que suivent les partenaires pour vendre conjointement avec Microsoft et d’autres partenaires dans un esprit collaboratif, convivial et positif. La co-vente vous permet d’utiliser la marque Microsoft, nos équipes commerciales, nos capacités de génération de demande et la Place de marché commerciale pour atteindre de nouveaux clients dans le monde entier. Cela vous permet aussi de vendre à la fois avec d’autres partenaires et avec nous. Pour plus d’informations, consultez [Gérer les opportunités de co-vente](manage-co-sell-opportunities.md).
 
 ## <a name="manage-customer-software-needs"></a>Gérer les besoins en logiciels des clients
 

@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024991"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266501"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Retrait des services de planification Software Assurance
 
@@ -35,7 +35,6 @@ Les services de planification sont entièrement mis hors service par le biais de
 >[!NOTE]
 >Il n’y a aucune modification du cycle de vie du document. Une fois qu’un document est créé/affecté, la réservation de pièce justificative, l’engagement client et l’échange de pièces justificatives doivent être effectués dans un délai de 180 jours avant l’expiration du document.  Pour plus d’informations sur la planification de la mise hors service du programme, consultez le Forum aux questions disponible [ici](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) pour plus d’informations (connexion requise).  Veuillez adresser vos questions à l’équipe de support des partenaires régionaux : [support partenaires EMEA](mailto:savoucher@msdirectservices.com); [Support général des partenaires](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Jusqu’au 30 juin 2021
 
 ### <a name="get-started"></a>Bien démarrer
 

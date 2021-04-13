@@ -1,34 +1,49 @@
 ---
 title: Impossible de se connecter à l’espace partenaires
-ms.topic: article
-ms.date: 07/30/2020
+ms.topic: troubleshooting
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Découvrez comment faire si vous ne pouvez pas vous connecter à l’espace partenaires-contient des informations sur la réinitialisation du mot de passe du compte professionnel ou du mot de passe du compte scolaire si vous l’avez oublié.
+description: Résoudre les causes possibles et en savoir plus sur les solutions lorsque vous ne pouvez pas vous connecter à l’espace partenaires-en savoir plus sur la réinitialisation des mots de passe, la vérification des rôles et la vérification des informations d’identification.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 17087727afcaf3dbcf47801f8668388c370758e7
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712883"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266569"
 ---
-# <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Si vous ne pouvez pas vous connecter à l’espace partenaires et si vous devez réinitialiser votre mot de passe
+# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Résoudre les problèmes de connexion pour l’espace partenaires
 
 **Rôles appropriés**
 
 - Tous les partenaires intéressés par l’espace partenaires
 
-Si vous avez oublié votre mot de passe et que vous ne pouvez pas vous connecter à l’espace partenaires, vous devez contacter le support technique. Trouvez le contact approprié à la [prise en charge des produits professionnels](/microsoft-365/admin/contact-support-for-business-products). 
+Cet article contient des solutions pour les problèmes de connexion courants de l’espace partenaires.
 
-Si vous êtes un partenaire MPN ou un revendeur direct CSP, vous pouvez demander à votre fournisseur indirect de créer un administrateur global pour vous sur votre locataire Azure AD ou de créer un nouveau mot de passe pour vous en utilisant les privilèges d’administrateur délégué. 
+## <a name="youve-forgotten-your-password-for-partner-center"></a>Vous avez oublié votre mot de passe pour l’espace partenaires
 
-Pour connaître les différentes façons de réinitialiser votre mot de passe et de récupérer l’accès à votre compte professionnel, consultez [Réinitialiser votre mot de passe professionnel ou scolaire à l’aide des informations de sécurité](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
+Si vous avez oublié votre mot de passe et que vous ne pouvez pas vous connecter à l’espace partenaires, contactez le support technique. Trouvez le contact approprié à la [prise en charge des produits professionnels](/microsoft-365/admin/contact-support-for-business-products).
 
-Une fois que le mot de passe de votre compte professionnel a été réinitialisé, vous pouvez accéder à l’espace partenaires. 
+Si vous êtes un partenaire MPN, demandez à votre administrateur général de créer un nouveau mot de passe pour vous. Si vous êtes un revendeur indirect CSP, demandez à votre fournisseur indirect de créer un administrateur général pour vous sur votre locataire Azure AD ou de créer un nouveau mot de passe pour vous en utilisant les privilèges d’administrateur délégué.
+
+Pour en savoir plus sur la façon dont vous pouvez réinitialiser votre mot de passe et récupérer l’accès à votre compte professionnel, consultez [Réinitialiser votre mot de passe professionnel ou scolaire à l’aide des informations de sécurité](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
+
+## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>Vous ne pouvez pas afficher ou gérer les pages ou les fonctionnalités attendues dans l’espace partenaires
+
+L’accès aux pages de l’espace partenaires est contrôlé par les rôles que vous avez affectés. Pour vérifier les rôles que vous avez attribués, dans l’espace partenaires, sélectionnez l’icône Paramètres, sélectionnez **paramètres du compte**, puis dans paramètres du compte, sélectionnez **gestion des utilisateurs**. Dans Rechercher, tapez votre nom, puis affichez les résultats.
+
+Si vous n’êtes pas en mesure d’afficher ou de gérer les compétences, les clients, les incentives ou les utilisateurs attendus, essayez les solutions suivantes :
+
+- Pour accéder aux fonctionnalités MPN, CSP et les références, contactez votre administrateur général ou votre administrateur de compte. Pour en savoir plus sur les rôles et les tâches qu’ils activent dans l’espace partenaires, consultez [affecter des rôles & des autorisations aux utilisateurs](permissions-overview.md).
+- Pour accéder aux fonctionnalités de la place de marché commercial et des programmes Windows & Xbox, Office Store, Microsoft Edge et développeurs de matériel, contactez la personne qui se trouve dans le rôle de propriétaire ou de responsable de votre organisation. Pour en savoir plus sur les rôles et les autorisations, consultez [gestion d’un compte Marketplace commercial dans l’espace partenaires Microsoft](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).
+
+## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>Vous ne pouvez pas voir votre offre ou vos avantages dans l’espace partenaires
+
+Vérifiez que vous utilisez les informations d’identification correctes pour vous connecter. Par exemple, vos comptes professionnels et personnels peuvent ressembler à ce qui est (par exemple,), mais il peut s’agir d’un abc@contoso.com compte personnel que vous avez créé et un compte professionnel peut être configuré en votre nom. Dans ce cas, si vous êtes connecté, mais que vous ne pouvez pas afficher les fonctionnalités attendues relatives à MPN, CSP, Marketplace commercial, essayez de sélectionner votre compte professionnel.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

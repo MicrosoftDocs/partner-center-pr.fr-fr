@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475192"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502550"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vendre des abonnements logiciels via le programme Fournisseur de solutions Cloud (CSP)
-
-**S’applique à**
-
-- Fournisseurs de solutions Cloud
 
 **Rôles appropriés**
 
 - Agent d’administration
 - Administrateur général
 
-Les réservations Azure et les abonnements Server (abonnements Windows Server et SQL Server) permettent aux partenaires du programme CSP de mieux répondre aux besoins croissants de leurs clients qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail cloud prévisibles et durables. 
+Les réservations Azure et les abonnements Server (abonnements Windows Server et SQL Server) permettent aux partenaires du programme CSP de mieux répondre aux besoins croissants de leurs clients, qui souhaitent bénéficier de solutions plus rentables pour gérer des charges de travail cloud prévisibles et durables. 
 
 Vous pouvez maintenant acquérir, provisionner et gérer des réservations Azure et des abonnements Server pour le compte de clients commerciaux à partir de l’Espace partenaires et du portail Azure en tirant parti d’Azure Hybrid Benefit.
 
@@ -101,7 +97,7 @@ Une fois que vous avez acheté votre logiciel, vous ou vos clients devez le tél
 
 2. Choisissez la **version**, la **langue** et l’**architecture 32 ou 64 bits** du produit, puis sélectionnez **Obtenir les clés et les téléchargements**. 
 
-3. Choisissez **Obtenir une clé** pour afficher la clé du produit de 32 chiffres dans une boîte de dialogue contextuelle, que vous pouvez copier et envoyer au client. 
+3. Choisissez **Obtenir une clé** pour afficher la clé du produit à 32 chiffres dans une boîte de dialogue contextuelle, que vous pouvez copier et envoyer au client. 
 
 4. Choisissez **Télécharger** pour télécharger le fichier binaire. 
 
@@ -114,7 +110,7 @@ Une fois que vous avez acheté votre logiciel, vous ou vos clients devez le tél
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Téléchargement et clés de licence de l’abonnement serveur disponibles via le Centre d’administration Microsoft 365 pour les clients 
 
-Vos clients seront en mesure d’obtenir des clés de licence et des téléchargements de l’abonnement serveur CSP depuis le Centre d’administration Microsoft 365. Pour voir leurs clés de licence et les téléchargements de leur abonnement serveur CSP, le client doit accéder à Centre d’administration Microsoft 365 > **Facturation > Vos produits > Onglet Logiciels**. Pour plus d’informations, consultez [Onglet Logiciels sous Facturation](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Vos clients seront en mesure d’obtenir des clés de licence et des téléchargements de l’abonnement serveur CSP depuis le Centre d’administration Microsoft 365. Pour voir leurs clés de licence et les téléchargements de leur abonnement serveur CSP, les clients doivent accéder au Centre d’administration Microsoft 365 > **Facturation > Vos produits> Onglet Logiciels**. Pour plus d’informations, consultez [Onglet Logiciels sous Facturation](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Afficher l’activité de l’accès aux clés logicielles et des téléchargements logiciels
 

@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436808"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132993"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Transfert de Partner Membership Center (PMC) à l’Espace partenaires
 
 **Rôles appropriés**
--    Administrateur général
+
+- Administrateur général
 
 Nous vous facilitons la tâche pour vos relations commerciales en mettant en place un seul site web (Espace partenaires) qui sert de point central d’engagement. Vous constaterez que tout ce que vous avez fait dans le PMC (Partner Membership Center) peut l’être également à partir de votre tableau de bord dans l’Espace partenaires. 
 
-Vous pouvez également en faire beaucoup plus, sans avoir à quitter le site web. Une partie de la terminologie et des fonctionnalités peut toutefois paraître différente. Pour atténuer les préoccupations initiales sur l’emplacement et la nature des éléments, veillez à suivre la visite guidée du site relative à votre tableau de bord.
+Vous pouvez également en faire beaucoup plus sans avoir à quitter le site web. Une partie de la terminologie et des fonctionnalités peut toutefois paraître différente. Pour savoir où effectuer certaines tâches et quelles sont les fonctionnalités disponibles, vous devez suivre la visite guidée du site de votre tableau de bord.
 
 Ce tableau présente certaines des différences entre PMC et l’Espace partenaires.
 
@@ -43,14 +44,14 @@ Ce tableau présente certaines des différences entre PMC et l’Espace partenai
 
 |**PMC**   |**Espace partenaires**|
 |----------------------|:-----------------------------|
-|Vous pouviez utiliser votre compte MSA (compte Microsoft) ou vos informations d’identification de compte personnel, joe@outlook.com|Vous devez utiliser vos informations d’identification de compte professionnel, (joe@joescompany.com). Pour plus d’informations, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).|
+|Vous pouviez utiliser votre compte MSA (compte Microsoft) ou vos informations d’identification de compte personnel, joe@outlook.com|Vous devez utiliser vos informations d’identification de compte professionnel, (par exemple joe@joescompany.com). Pour plus d’informations, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Rôles d’utilisateur
 
 |**PMC**   |**Espace partenaires**|
 |----------------------|:-----------------------------|
 |De nombreux rôles dans PMC ne sont pas utilisés dans l’Espace partenaires|L’administrateur qui effectue le passage à l’Espace partenaires se voit automatiquement attribuer les rôles d’administrateur MPN, d’administrateur de compte et d’administrateur de références. Il peut ensuite attribuer des rôles d’utilisateur à d’autres utilisateurs.|
-|Les utilisateurs étaient gérés au niveau de l’emplacement|Les utilisateurs sont gérés au niveau de l’entreprise (PGA) et non au niveau de l’emplacement. Seule exception, l’administrateur de primes incitatives, qui opère au niveau de l’emplacement.|
+|Les utilisateurs étaient gérés au niveau de l’emplacement|Les utilisateurs sont gérés au niveau de l’entreprise (PGA) et non au niveau de l’emplacement. L’unique exception est l’administrateur de primes incitatives, qui opère au niveau de l’emplacement.|
 |   |L’Espace partenaires a deux grands ensembles de rôles : les rôles qui administrent le locataire Azure AD et les rôles qui administrent les activités de l’entreprise. Organisez les rôles de la manière qui convient à votre entreprise. Une personne peut tout faire, ou plusieurs personnes peuvent se voir attribuer des rôles et des autorisations distinctes. Pour plus d’informations, consultez la section [Attribuer des rôles et des autorisations aux utilisateurs](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Prise en compte des compétences et des avantages
@@ -61,7 +62,7 @@ Ce tableau présente certaines des différences entre PMC et l’Espace partenai
 |Vous pouviez disposer de kits ABTK (kits de ressources supplémentaires) jusqu’à leur mise hors service en octobre 2018.|Aucun kit ABTK, un MAPS par entreprise, une compétence de niveau Silver par entreprise, une compétence de niveau Gold par entreprise|
 ||Du moment que vous n’avez pas encore de MAPS, vous pouvez l’acheter. La détention d’un MAPS n’est pas liée aux compétences.  
 |Les avantages étaient accessibles sur le site PDD (téléchargement numérique des partenaires) |Tous les avantages sont accessibles dans l’Espace partenaires|
-|Compétences et avantages répartis et divisés entre plusieurs sites|Les compétences et avantages liés à tous vos sites sont consolidés au niveau de l’entreprise (PGA). Ils sont conservés jusqu’à la date anniversaire. À cette date, vous devez effectuer un achat ou un renouvellement au niveau de l’entreprise. Les performances et les qualifications ainsi que les compétences sont agrégées globalement|
+|Compétences et avantages répartis et divisés entre plusieurs sites|Les compétences et avantages liés à tous vos sites sont consolidés au niveau de l’entreprise (PGA). Ils sont conservés jusqu’à la date anniversaire. À cette date, vous devez effectuer un achat ou un renouvellement au niveau de l’entreprise. Les performances, les qualifications et les compétences sont agrégées globalement|
 |Les réclamations de bons Software Assurance sont effectuées dans l’outil VVR (Validation/Remboursement de bons)|Vous pouvez désormais accéder aux SATV (bons de formation Software Assurance) et/ou aux DPS (services de planification déployés) dans l’Espace partenaires, et les gérer.  L’outil VVR hérité va être désactivé le 1er octobre 2019.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Association des ID MCP à l’Espace partenaires

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556376"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132942"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Établir un partenariat avec Microsoft et découvrir les avantages de l’abonnement
 
@@ -22,10 +22,10 @@ ms.locfileid: "96556376"
 
 - Administrateur général
 - Administrateur partenaire MPN
-- Administrateur des utilisateurs
+- Administrateur de la gestion des utilisateurs
 - Agent d’administration
 
-Le Microsoft Partner Network (MPN) vous offre la gamme de produits la plus vaste du secteur ainsi que des options de programme pour différencier votre entreprise, accéder au marché et vendre vos solutions. Inscrivez-vous gratuitement, puis choisissez comment investir dans votre partenariat avec un action pack, un starter kit ou une compétence Microsoft.
+Le Microsoft Partner Network (MPN) vous offre la gamme de produits la plus vaste du secteur et des options de programme pour différencier votre entreprise, accéder au marché et vendre vos solutions. Inscrivez-vous gratuitement, puis choisissez comment investir dans votre partenariat avec un action pack, un starter kit ou une compétence Microsoft.
 
 Quand vous rejoignez un programme partenaire de Microsoft, vous intégrez une communauté internationale qui vous connecte à des relations, des informations, des outils, des ressources et des programmes dont vous avez besoin pour impressionner vos clients et stimuler la croissance de votre entreprise. À mesure que vous atteignez vos objectifs métier, participez au programme au niveau adapté à vos besoins uniques pour accéder à d’autres avantages et développer votre relation avec nous et d’autres partenaires dans le réseau. 
 

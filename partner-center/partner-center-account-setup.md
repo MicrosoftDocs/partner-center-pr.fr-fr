@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712842"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132279"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gérer votre compte Espace partenaires : profil de société, informations bancaires, rôles, autorisations, etc.
 
-**Rôles appropriés** : administrateur général
-- Administrateur de compte MPN
+**Rôles appropriés** 
+
+- Administrateur général
+- Administrateur des comptes
 
 Le compte que vous créez dans l’Espace partenaires lors de votre inscription inclut votre adresse e-mail professionnelle et vos données d’entreprise. Une fois que vous avez créé un compte dans l’Espace partenaires, vous devez achever la configuration du profil complet de votre société en incluant les détails du support, les exonérations fiscales le cas échéant ainsi que les informations de l’interlocuteur principal. Le compte de votre entreprise inclut également des comptes d’utilisateur pour toute personne de votre équipe qui utilisera l’Espace partenaires. Le travail qu’ils peuvent effectuer comprend l’ajout ou la gestion de clients, la vente d’abonnements, l’utilisation de la tarification et de la facturation, la création de profils d’entreprise, la gestion des références, l’utilisation de programmes de primes incitatives, la fourniture de support et bien plus encore.
 
@@ -60,7 +62,7 @@ Vous pouvez faire partie de plusieurs comptes. Pour savoir si vous faites partie
 
 Si vous ne voyez pas le sélecteur de compte, vous ne faites partie que d’un seul compte. 
 
-Lorsque vous cliquez sur ce sélecteur, tous les comptes dont vous faites partie apparaissent sous la forme d’une liste. Vous pouvez ensuite cliquer sur n’importe lequel d’entre eux et basculer vers ce compte. Tout ce qui suit s’affiche dans le contexte de ce compte.  
+Lorsque vous sélectionnez ce sélecteur, tous les comptes dont vous faites partie apparaissent sous forme de liste. Vous pouvez ensuite sélectionner n’importe lequel d’entre eux et basculer vers ce compte. Tout ce qui suit s’affiche dans le contexte de ce compte.  
 
 Dans l’exemple ci-dessous, l’utilisateur connecté fait partie des trois comptes en surbrillance. L’utilisateur peut passer de l’un à l’autre en cliquant sur un compte.
 

@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712271"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441810"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
-
-**S’applique à**
-
-- Espace partenaires  
 
 **Rôles appropriés**
 
@@ -34,7 +30,7 @@ Pour vous inscrire au programme Fournisseur de solutions Cloud, vous devez tout 
 
 Pour finaliser la demande d’inscription au programme CSP, vous avez besoin de l’ID MPN de votre entreprise, d’une adresse professionnelle complète, d’informations bancaires et de l’adresse e-mail professionnelle des employés qui feront office d’administrateur pour l’Espace partenaires.
 
-1. Connectez-vous à l’Espace partenaires avec votre adresse e-mail professionnelle (c’est-à-dire, vos informations d’identification de locataire Azure AD).
+1. Connectez-vous à l’Espace partenaires avec votre adresse e-mail professionnelle (c’est-à-dire vos informations d’identification de locataire Azure AD).
 
 2. Créez votre profil de partenaire et associez-y votre ID MPN.
 L’examen et la vérification des informations que vous avez fournies peuvent nous prendre plusieurs jours. Nous vous enverrons un e-mail lorsque nous en aurons terminé.
@@ -73,7 +69,7 @@ En tant que partenaire à facturation directe, vous avez une relation de bout en
 |**ID MPN**   |Appartenance active au Microsoft Partner Network et ID MPN pour le marché où seront effectuées les ventes.    |
 |**Approbation**   |Autorité qui accepte et signe des contrats au nom de votre organisation.|
 |**Support technique**   |Capacité à fournir à vos clients le premier niveau de support pour les produits cloud. <br>Plan de support Microsoft, soit Support avancé pour les partenaires (ASfP), soit Support Premier pour les partenaires (PSfP), selon vos besoins. [Comparez les offres de support](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANT : Avant d’acheter un plan de support, vous devez passer avec succès une vérification de solvabilité. Nous vous enverrons un e-mail dès que vous aurez réussi la vérification de solvabilité. |
-|**Modalités concernant le chiffre d’affaires**|Pour un revendeur indirect, le chiffre d’affaires annuel du programme Fournisseur de solutions Cloud doit être au minimum de 300 000 USD sur les douze mois précédents. Les partenaires peuvent consulter leur chiffre d’affaires des douze derniers mois dans l’Espace partenaires.<br/>Les ventes qui composent votre chiffre d’affaires de 300 000 USD sur les douze derniers mois sont soumises à Microsoft pour examen et vérification, et vous pouvez être invité à fournir des informations supplémentaires. Ces 300 000 USD de chiffre d’affaires sont calculés sur la base des revenus du cloud et exclut les logiciels perpétuels dans CSP.|
+|**Modalités concernant le chiffre d’affaires**|Pour un revendeur indirect, le chiffre d’affaires annuel du programme Fournisseur de solutions Cloud doit être au minimum de 300 000 USD sur les 12 mois précédents. Les partenaires peuvent consulter leur chiffre d’affaires des 12 derniers mois dans l’Espace partenaires.<br/>Les ventes qui composent votre chiffre d’affaires de 300 000 USD sur les 12 derniers mois sont soumises à Microsoft pour examen et vérification, et vous pouvez être invité à fournir des informations supplémentaires. Ces 300 000 USD de chiffre d’affaires sont calculés sur la base des revenus du cloud et exclut les logiciels perpétuels dans CSP.|
 |**Comptabilité clients** |Infrastructure organisationnelle mise en place pour gérer la facturation et l’approvisionnement des clients.|
 |**Recommandation**|             |
 |**Service managé**   |Au moins un service géré, un service IP ou une application de solution client. En savoir plus sur l’ajout de [services gérés](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
