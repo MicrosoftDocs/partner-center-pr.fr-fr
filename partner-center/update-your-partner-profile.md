@@ -6,15 +6,15 @@ description: Découvrez comment vérifier les détails de votre entreprise comme
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712594"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315867"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Vérifier ou mettre à jour les informations du profil de votre entreprise 
 
@@ -92,6 +92,17 @@ Pour mettre à jour votre ID MPN associé à votre compte CSP :
 ## <a name="update-your-csp-legal-billing-address"></a>Mettre à jour votre adresse de facturation légale CSP
 
 Si vous êtes administrateur général, administrateur de facturation ou agent administratif, vous pouvez changer l’adresse qui apparaît sur la facture dans votre **profil de revenu et taxe**. Toutefois, vous ne pouvez pas modifier le nom de la société sur votre facture en raison d’une limitation du système de facture.
+
+:::image type="content" source="images/billing-profile.png" alt-text="Capture d’écran de la zone dans laquelle les informations de facturation sont ajoutées":::
+
+|**Champ**  |**Description**|  
+|---------------------|:------------------|
+|Nom de la société à facturer|Nom de société qui apparaît dans Informations de facturation sur votre facture CSP.  Il n’est pas modifiable dans l’Espace partenaires.  Pour le mettre à jour, créez un ticket de support.|
+|Adresse de facturation|Adresse de facturation indiquée sur la facture CSP. Peut être mise à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Contact de facturation|Détails du contact de facturation (prénom, nom, numéro principal) du compte CSP.  Peut être mis à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Numéro de BDC|Numéro de bon de commande indiqué sur la facture du partenaire.  Peut être mis à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|ID taxe entreprise|Dans certains pays, les entreprises peuvent fournir leur [numéro de TVA (taxe à valeur ajoutée) ou équivalent local](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Pour mettre à jour votre numéro fiscal/T.V.A., vous devez être administrateur général, administrateur de facturation ou agent d’administration.|
+|Devise de facturation|La devise de facturation de votre compte CSP est déterminée par le pays légal du compte CSP.  Elle ne peut pas être modifiée une fois le compte CSP créé.|
 
 
 ## <a name="next-steps"></a>Étapes suivantes

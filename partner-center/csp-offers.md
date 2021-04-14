@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502865"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964338"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Vue d’ensemble des offres pour les partenaires du programme Fournisseur de solutions Cloud
 
@@ -105,6 +105,15 @@ Pour acheter des produits et des services pour vos clients du programme Fourniss
 
 8. Les détails de votre commande, y compris votre numéro de commande, sont indiqués sur la page suivante. Sélectionnez **Terminé** pour accéder à votre page **Historique des commandes**.
 
+### <a name="customer-order-history"></a>Historique des commandes client
+
+Pour afficher l’historique des commandes d’un client :
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires.
+2. Dans le menu de gauche, choisissez **Clients**.
+3. Dans la page **Clients**, recherchez le client dont vous souhaitez voir l’historique des commandes. Sélectionnez la flèche vers le bas pour développer l’enregistrement du client.
+4. Choisissez **Afficher les commandes** pour afficher l’historique des commandes du client.
+ 
 ## <a name="rules-for-special-segments"></a>Règles pour les segments spéciaux
 
 Certaines offres basées sur une licence ne peuvent être achetées que sous certaines conditions. Les offres pour segments spéciaux sont les suivantes : Éducation, Cloud de la communauté du secteur public ou Associations. Pour plus d’informations sur ces conditions d’achat, consultez la rubrique [Règles d’achat pour les segments spéciaux](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
