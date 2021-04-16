@@ -10,48 +10,52 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280902"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266467"
 ---
 # <a name="february-2021-announcements"></a>Annonces de février 2021
 
 Cette page détaille les annonces concernant l’Espace partenaires pour février 2021.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Les API de qualification PUT sont mise hors service, GET sera mis hors service en mai
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Rappel : Dépréciation de la qualification GET le 4 mai 2021
 
 ### <a name="categories"></a>Catégories
 
-- Date : 25 février 2021
+- Date : 09/04/2021
 - Fonctions
 
 ### <a name="impacted-audience"></a>Public concerné
 
-Partenaires proposant des offres Éducation, Sans but lucratif et Cloud de la communauté du secteur public via le programme Fournisseur de solutions Cloud avec l’API Espace partenaires
+Partenaires proposant des offres Éducation, Sans but lucratif et Cloud de la communauté du secteur public par le biais du programme Fournisseur de solutions Cloud avec l’API Espace partenaires
 
 ### <a name="details"></a>Détails
 
-Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](2020-december.md#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, **les API existantes pour les qualifications PUT ont été mises hors service et la qualification GET le sera le 4 mai 2021**. Une fois que ce sera effectif, vous devrez passer à l’utilisation des nouvelles API POST de l’Espace partenaires pour acheter des offres Éducation. De même, vous devrez utiliser la nouvelle API pour les qualifications GET pour acheter des offres préqualifiées pour les organisations sans but lucratif et Cloud de la communauté du secteur public (GCC).
+Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, la qualification GET existante sera mise hors service le 4 mai 2021. À ce moment-là, vous devrez utiliser les nouvelles API POST de l’Espace partenaires dans des offres Éducation, et la nouvelle API des qualifications GET pour acheter des offres Sans but lucratif et Cloud de la communauté du secteur public préqualifiées.
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- Pour garantir une transition réussie et dans les temps, **faites la mise à jour vers les nouvelles API**.
-- **Passez en revue les nouveaux changements de l’API Espace partenaires et le guide correspondant** dans les ressources de préparation opérationnelle : [Améliorations du processus de validation des clients Éducation dans l’Espace partenaires](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- **Partagez ces informations avec les équipes appropriées** au sein de votre organisation et avec vos revendeurs pour les aider à anticiper ces changements.
+- Pour garantir une transition réussie et dans les temps, faites la mise à jour vers les nouvelles API.
 
-### <a name="questions"></a>Vous avez des questions ?
+- Passez en revue les nouveaux changements de l’API Espace partenaires et le guide correspondant dans les ressources de préparation opérationnelle : [Améliorations du processus de validation des clients Éducation dans l’Espace partenaires](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
-Pour toute question relative à cette notification, contactez l’[Assistance de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+- Partagez ces informations avec les équipes appropriées au sein de votre organisation et avec vos revendeurs pour les aider à anticiper ces changements.
+
+### <a name="questions"></a>Des questions ?
+
+Pour toute question relative à cette notification, contactez le [support technique de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ### <a name="change-log"></a>Journal des modifications
 
+- Avril : Rappel de la dépréciation à venir de la qualification GET 
 - Février : Plannings mis à jour pour la dépréciation des qualifications GET et PUT
 - Janvier : Rappel des dépréciations à venir des qualifications GET et PUT
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Partager des transactions de co-vente à grande échelle avec la fonctionnalité d’opérations en bloc de l’Espace partenaires

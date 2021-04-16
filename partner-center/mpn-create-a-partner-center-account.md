@@ -1,7 +1,7 @@
 ---
 title: Créer un compte MPN dans l’Espace partenaires
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment les membres Microsoft Partner Network peuvent créer un compte Espace partenaires pour gérer leurs revenus et leurs compétences du réseau.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712917"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266535"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Créer un compte MPN dans l’Espace partenaires pour gérer les revenus et les compétences du réseau
 
@@ -25,7 +25,7 @@ Si vous débutez avec Microsoft Partner Network (MPN) et que vous n’avez pas d
 
 Quand vous êtes prêt à créer un compte dans l’Espace partenaires, vous devez disposer des éléments suivants.  Vous souhaitez peut-être prendre quelques minutes pour rassembler ces éléments avant de commencer :
 
-- E-mail professionnel de l’entreprise OU compte professionnel Office 365. Pour plus d’informations, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md) 
+- E-mail professionnel de l’entreprise OU compte professionnel Office 365. Pour pouvoir configurer des adresses e-mail professionnelles pour vos employés, votre entreprise devra peut-être acheter un domaine de messagerie. Pour plus d’informations, consultez [Compte professionnel de votre entreprise et Espace partenaires](azure-active-directory-tenants-and-partner-center.md). 
  
 - Dénomination sociale légale, adresse et adresse.
 

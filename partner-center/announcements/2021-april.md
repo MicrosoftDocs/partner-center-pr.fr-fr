@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374431"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266518"
 ---
 # <a name="april-2021-announcements"></a>Annonces d’avril 2021
 
 Cette page contient les annonces de l’Espace partenaires Microsoft d’avril 2021.
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Rappel : Dépréciation de la qualification GET le 4 mai 2021
+
+### <a name="categories"></a>Catégories
+
+- Date : 09/04/2021
+- Fonctions
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires proposant des offres Éducation, Sans but lucratif et Cloud de la communauté du secteur public par le biais du programme Fournisseur de solutions Cloud avec l’API Espace partenaires
+
+### <a name="details"></a>Détails
+
+Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, la qualification GET existante sera mise hors service le 4 mai 2021. À ce moment-là, vous devrez utiliser les nouvelles API POST de l’Espace partenaires dans des offres Éducation, et la nouvelle API des qualifications GET pour acheter des offres Sans but lucratif et Cloud de la communauté du secteur public préqualifiées.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Pour garantir une transition réussie et dans les temps, faites la mise à jour vers les nouvelles API.
+
+- Passez en revue les nouveaux changements de l’API Espace partenaires et le guide correspondant dans les ressources de préparation opérationnelle : [Améliorations du processus de validation des clients Éducation dans l’Espace partenaires](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Partagez ces informations avec les équipes appropriées au sein de votre organisation et avec vos revendeurs pour les aider à anticiper ces changements.
+
+### <a name="questions"></a>Des questions ?
+
+Pour toute question relative à cette notification, contactez le [support technique de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Journal des modifications
+
+- Avril : Rappel de la dépréciation à venir de la qualification GET 
+- Février : Plannings mis à jour pour la dépréciation des qualifications GET et PUT
+- Janvier : Rappel des dépréciations à venir des qualifications GET et PUT
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nouveau format pour la nouvelle facture PDF commerciale dans CSP

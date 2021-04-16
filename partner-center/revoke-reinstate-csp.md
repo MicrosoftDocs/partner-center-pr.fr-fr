@@ -1,7 +1,7 @@
 ---
 title: Rétablir les privilèges d’administrateur pour Azure CSP
 ms.topic: how-to
-ms.date: 07/28/2020
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment aider les clients à rétablir les privilèges d’administrateur d’un partenaire afin que ce dernier puisse aider à gérer les abonnements Azure CSP d’un client.
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011500"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315845"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Rétablir les privilèges d’administrateur pour les abonnements Azure CSP d’un client  
 
@@ -29,60 +29,70 @@ En tant que partenaire CSP, vos clients pensent souvent que vous allez gérer le
 
 Il existe deux niveaux de privilèges d’administrateur pour Azure dans CSP.
 
-**Privilèges d’administrateur au niveau du locataire** (**privilèges d’administrateur délégués**) : les partenaires CSP obtiennent ces privilèges quand une relation est établie entre le revendeur CSP et les clients. Cela donne aux partenaires CSP un accès aux locataires de leurs clients, ce qui leur permet d’effectuer des fonctions d’administration telles que l’ajout/la gestion d’utilisateurs, la réinitialisation des mots de passe et la gestion des licences utilisateur.
+**Privilèges d’administrateur au niveau du locataire** (**privilèges d’administrateur délégués**) : les partenaires CSP obtiennent ces privilèges quand une relation est établie entre le revendeur CSP et les clients. Les privilèges d’administrateur délégués donnent aux partenaires CSP un accès aux locataires de leurs clients, ce qui leur permet d’effectuer des fonctions d’administration telles que l’ajout/la gestion d’utilisateurs, la réinitialisation des mots de passe et la gestion des licences utilisateur.
 
 **Privilèges d’administrateur au niveau de l’abonnement** : les partenaires CSP obtiennent ces privilèges durant la création d’abonnements Azure CSP pour leurs clients. Avec ces privilèges, les partenaires CSP ont un accès complet à ces abonnements, ce qui leur permet de provisionner et de gérer des ressources Azure.
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>Rétablir les privilèges d’administrateur des partenaires CSP
 
-Pour récupérer des privilèges d’administrateur délégués, vous devez travailler avec votre client.
+Votre client peut recréer l’attribution de rôle CSP tant que vous fournissez l’ID d’objet du groupe AdminAgents à votre client. Pour récupérer des privilèges d’administrateur délégués, vous devez travailler avec votre client.
 
 1. Connectez-vous au tableau de bord de l’Espace partenaires, puis sélectionnez **Clients** dans le menu de l’Espace partenaires.
 
 2. Sélectionnez le client avec lequel vous travaillez et **demandez une relation de revendeur.** Cela génère un lien vers le client disposant des droits d’administrateur de locataire.
 
-3. Cet utilisateur doit sélectionner le lien et approuver la demande de relation de revendeur.
+3. Ce client doit sélectionner le lien et approuver la demande de relation de revendeur.
 
-   :::image type="content" source="images/azure/revoke4.png" alt-text="relation de revendeur":::
+   :::image type="content" source="images/azure/revoke4.png" alt-text="Exemple d’e-mail de la création d’une relation de revendeur":::
 
-## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>Ajout du groupe d’agents d’administration en tant que propriétaire de l’abonnement Azure CSP
+4. Vous, le partenaire, devez vous connecter au locataire partenaire pour récupérer l’ID d’objet du groupe AdminAgents.
 
-Votre client devra ajouter votre groupe d’agents d’administration en tant que propriétaire d’un abonnement Azure CSP, d’un groupe de ressources ou d’une ressource. 
-
-1. Utilisez la console PowerShell ou l’environnement d’écriture de scripts intégré (ISE) de PowerShell. Vérifiez que les modules AzureAD sont installés.
-
-2. Connectez-vous à votre locataire Azure AD.
-
-   ```powershell
-   Connect-AzureAD
-   ```
-
-3. Obtenez l’ObjectId des groupes d’agents d’administration.
-
-   ```powershell
-   Get-AzureADGroup
-   ```
-   Les étapes suivantes sont effectuées par l’utilisatrice de la société de votre client qui dispose d’un accès propriétaire à l’abonnement Azure CSP.
-
-4. L’utilisatrice disposant d’un accès propriétaire à l’abonnement Azure CSP se connecte à Azure en utilisant ses informations d’identification.
-
-   ```powershell
-   Connect-AzureRmAccount
-   ```
-
-5. Elle pourra ensuite ajouter votre groupe d’agents d’administration en tant que propriétaire d’un abonnement Azure CSP, d’un groupe de ressources ou d’une ressource en appliquant un URI de ressource approprié dans le paramètre d’étendue. 
-
+  
     ```powershell
-    # Grant owner role at subscription level
-    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
 
-    # Grant owner role at resource group level
-    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+    PS C:\WINDOWS\system32> Connect-AzAccount -Tenant "Partner tenant"
+      Get Object ID of AdminAgents group
+   
+    
 
-    # Grant owner role at resource level
-    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
+   S C:\WINDOWS\system32> Get-AzADGroup -DisplayName AdminAgents
     ```
+
+
+5. Votre client, qui a le rôle **de propriétaire ou d’administrateur de l’accès utilisateur** et qui a l’autorisation de créer une attribution de rôle au niveau de l’abonnement, effectue les opérations suivantes :
+
+
+    1. Se connecte au locataire où l’abonnement CSP existe.
+      ```powershell
+        PS C:\WINDOWS\system32> Connect-AzAccount -TenantID "Customer tenant"
+      ```
+
+    2. Se connecte à l’abonnement (applicable uniquement si l’utilisateur dispose d’autorisations d’attribution de rôle sur plusieurs abonnements dans le locataire).
+   
+         PS C:\WINDOWS\system32> Set-AzContext -SubscriptionID "CSP Subscription ID"`
+
+
+    3. Crée l’attribution de rôle.
+    
+    ```powershell
+      PS C:\WINDOWS\system32> New-AzRoleAssignment -ObjectID "Object ID of the Admin Agents group- needs to be provided by partner" -RoleDefinitionName "Owner" -Scope "/subscriptions/CSP subscription ID"
+    ```
+
+
+Si vous souhaitez accorder l’autorisation de rôle propriétaire au niveau du groupe de ressources ou de la ressource et non au niveau de l’étendue de l’abonnement, les commandes suivantes peuvent fonctionner :
+
+
+```powershell
+Grant owner role at resource group level
+
+   New-AzRoleAssignment -ObjectID "Object ID that you got from step 3" -RoleDefinitionName Owner -Scope "/subscriptions/"SubscriptionID of CSP subscription"/resourceGroups/"Resource group name"
+
+Grant owner role at resource level
+
+   New-AzRoleAssignment -ObjectID <Object ID that you got from step 3> -RoleDefinitionName Owner -Scope "Resource URI"
+```
+
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-[Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md)
+- [Gérer les abonnements et les ressources dans le cadre du plan Azure](azure-plan-manage.md)
