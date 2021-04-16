@@ -1,19 +1,19 @@
 ---
 title: Profils de paiement et fiscaux dans l’Espace partenaires
 ms.topic: how-to
-ms.date: 02/24/2021
+ms.date: 04/15/2021
 description: Créez et gérez vos paiements et vos profils fiscaux pour vous permettre d’être payé pour votre travail d’incentives. Comprend la création, la gestion et l’utilisation de différents profils.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5079649746d673ea4dee40264afe4ea61671a9a2
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 4a931f1d971ea3e3bc288f70e85a6600596761cc
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179528"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528554"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer le paiement et les profils fiscaux des incentives dans l’espace partenaires
 
@@ -25,7 +25,7 @@ ms.locfileid: "106179528"
 
 Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
 
-## <a name="roles-currencies-and-other-microsoft-programs"></a>Rôles, devises et autres programmes Microsoft
+## <a name="roles-currencies-and-multiple-microsoft-incentive-programs"></a>Rôles, devises et programmes d’incentives Microsoft multiples
 
 Il est important de comprendre les informations ci-dessous avant de commencer à utiliser votre profil d’imposition et de paiement.
 
@@ -50,19 +50,19 @@ Si votre entreprise est inscrite dans plusieurs programmes d’incentives, vous 
 Les sections ci-dessous vous guideront tout au long du processus de création et de gestion des profils de paiement et de taxes dans l’espace partenaires.
 
 >[!IMPORTANT]
->Vous devez être un administrateur d’incentives pour créer ou gérer des profils de paiement dans l’espace partenaires. Des rôles d’incentives doivent être affectés à chaque emplacement MPN dans le cadre de chaque programme d’incentives. Pour plus d’informations sur l’ajout d’administrateurs d’incentives dans l’espace partenaires, consultez [créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md).
+>Vous devez être un administrateur d’incentives pour créer ou gérer des profils de paiement et de taxes dans l’espace partenaires. Des rôles d’incentives doivent être affectés à chaque emplacement MPN dans le cadre de chaque programme d’incentives. Pour plus d’informations sur l’ajout d’administrateurs d’incentives dans l’espace partenaires, consultez [créer des comptes d’utilisateur](create-user-accounts-and-set-permissions.md).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Accéder à la section paiement et taxes dans l’espace partenaires
 
 1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/) à l’aide de votre compte de Azure Active Directory (Azure AD) ou de l’adresse de messagerie appropriée, le cas échéant.
 
    - Plusieurs domaines peuvent être inscrits dans un compte Azure AD. Contactez votre administrateur général pour déterminer les domaines associés.
-   - Si vous êtes uniquement en mesure de vous connecter avec le @onmicrosoft.com domaine, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte Azure ad.
+   - Si vous êtes uniquement en mesure de vous connecter au @onmicrosoft.com domaine et que vous avez besoin de domaines supplémentaires, contactez votre administrateur de compte pour ajouter des domaines supplémentaires au compte Azure ad.
    - Si vous êtes invité à sélectionner un compte **professionnel ou scolaire** ou un compte **personnel**, sélectionnez **compte professionnel ou scolaire**.
 
 2. Sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** , puis sélectionnez **paramètres du compte**.
 
-3. Dans le menu **paramètres du compte** , sélectionnez **paiement et taxes**. 
+3. Dans le menu **paramètres du compte** , sélectionnez **paiement et taxes**.
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Affecter des profils de paiement et de taxe à des programmes individuels
 
@@ -72,7 +72,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
    
    Une liste de vos programmes s’affiche. Sélectionnez la flèche en regard d’un programme pour afficher les détails du profil. 
 
-3. Dans le menu déroulant **Profil fiscal** , sélectionnez le profil fiscal de votre choix ou sélectionnez l’option permettant de créer un nouveau profil. Lorsque vous sélectionnez l’option permettant de créer un nouveau profil, vous êtes redirigé de manière appropriée.  Sélectionnez continuer dans la fenêtre contextuelle. Le processus de création d’un profil fiscal est fourni ci-dessous.
+3. Dans le menu déroulant **Profil fiscal** , sélectionnez le profil fiscal de votre choix ou sélectionnez l’option permettant de créer un nouveau profil. Lorsque vous sélectionnez l’option permettant de créer un nouveau profil, vous êtes redirigé de manière appropriée.  Sélectionnez **Continuer** dans la fenêtre contextuelle. Le processus de création d’un profil fiscal est fourni ci-dessous.
 
 4. Sélectionnez le **mode de paiement**.
 
@@ -94,17 +94,37 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
    
       Dans les pays qui requièrent des partenaires explicitement pour demander l’application d’une exonération fiscale, il est possible d’appliquer l’exonération fiscale en regard du profil fiscal dans la section Profil fiscal du programme d’incentives et de l’emplacement MPN. Cochez cette case pour appliquer les avantages de l’exemption de taxe à votre note de crédit incitative. 
    
-      Ce mode de paiement est actuellement disponible uniquement pour l’Australie, la Nouvelle-Zélande et les partenaires du Canada pour le programme Microsoft Commerce Incentive. Si vous êtes un partenaire direct Bill ou un fournisseur indirect dans ces trois pays inscrits pour le programme MCI et que vous ne voyez pas LRD Credit note comme mode de paiement disponible, vérifiez que votre ID de locataire est associé au compte d’emplacement MPN du partenaire concerné. Pour plus d’informations sur cette rubrique, consultez [Comment mettre à jour votre profil d’organisation](update-your-partner-profile.md).
+      Actuellement, le mode de paiement LRD Credit note est disponible uniquement pour l’Australie, la Nouvelle-Zélande et les partenaires du Canada pour le programme Microsoft Commerce Incentive. Si vous êtes un partenaire direct Bill ou un fournisseur indirect dans ces trois pays inscrits pour le programme MCI et que vous ne voyez pas LRD Credit note comme mode de paiement disponible, vérifiez que votre ID de locataire est associé au compte d’emplacement MPN du partenaire concerné. Pour plus d’informations sur cette rubrique, consultez [Comment mettre à jour votre profil d’organisation](update-your-partner-profile.md).
 
     
 5. Sélectionnez la **devise**.
 
 6. Une fois que vous avez rempli tous les champs de paiement, sélectionnez **Envoyer**.
 
+## <a name="set-up-a-default-bank-profile"></a>Configurer un profil bancaire par défaut
+
+Vous pouvez configurer des profils bancaires par défaut et les affecter à des emplacements MPN. Ces profils par défaut seront utilisés par Microsoft pour les inscriptions ultérieures de cet emplacement MPN. 
+
+1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres**   . 
+
+2. Sélectionnez **paramètres du compte**, développez la section **paiement et taxes** , puis sélectionnez **profils de paiement et de taxes**. 
+
+3. Sélectionnez **gérer les profils par défaut** sous la section **profils de paiement** . 
+
+4. Pour créer des profils bancaires par défaut, sélectionnez **Ajouter un profil bancaire par défaut**. 
+
+5. Sélectionnez un profil bancaire dans la liste des profils bancaires disponibles de votre société, sélectionnez la devise à utiliser avec ce profil bancaire, puis sélectionnez la liste des emplacements MPN auxquels vous souhaitez appliquer ce profil par défaut.
+
+6. Sélectionnez **terminé** une fois que vous avez effectué les sélections. Le bouton terminé ne peut pas être cliqué tant que tous les champs requis n’ont pas été remplis. 
+
+>[!NOTE]
+>La même paire de banques et de devises peut être appliquée à plusieurs emplacements. Si une combinaison de profils et de devises par défaut a été affectée à l’adresse MPN, elle n’apparaît plus dans la liste déroulante emplacement pour les futures affectations de profil par défaut. Si la sélection par défaut est supprimée, l’emplacement MPN réapparaîtra pour les futures attributions de profil par défaut. Chaque combinaison de profil bancaire et de devise est ajoutée sous la forme d’une ligne unique modifiable.
+
+7. Une fois que toutes les modifications requises ont été ajoutées, sélectionnez **Enregistrer**.  
 
 ## <a name="create-your-bank-profile"></a>Créer votre profil bancaire
 
-Les profils bancaires sont créés au niveau de l’organisation. Cela permet d’attribuer un profil bancaire à plusieurs programmes d’incentives et d’ID MPN au sein d’une organisation. Il peut y avoir des exceptions lors de l’application du profil bancaire à différents pays, car différentes banques et règles fiscales peuvent s’appliquer.
+Les profils bancaires sont créés au niveau de la société. Cela permet d’attribuer un profil bancaire à plusieurs programmes d’incentives et d’ID MPN au sein d’une entreprise. Il peut y avoir des exceptions lors de l’application du profil bancaire à différents pays, car différentes banques et règles fiscales peuvent s’appliquer.
 
 >[!NOTE]
 >Dans les pages suivantes, des champs avec un astérisque sont requis. Si vous ne savez pas ce qu’est un champ, sélectionnez l’icône d’information. 
@@ -157,6 +177,20 @@ Pour les sociétés partenaires en Amérique, si vous avez besoin d’informatio
 8. Pour enregistrer et continuer, sélectionnez **Terminer**.
 
 9. Sélectionnez **confirmer** dans le message contextuel. Vous serez redirigé vers la page de **configuration du paiement et des impôts** .
+ 
+## <a name="update-expired-tax-profiles"></a>Mettre à jour les profils de taxes expirés
+
+1. Connectez-vous au tableau de bord de l' [espace partenaires](https://partner.microsoft.com/dashboard/), puis sélectionnez l’icône d’engrenage pour ouvrir le menu **paramètres** .
+
+1. Sélectionnez **paramètres du compte**, développez la section **paiement et taxes** , puis sélectionnez **paiement et profil fiscal**.
+
+1. Sélectionnez **Profil fiscal**.
+
+1. Vérifiez la **Date d’expiration** de la colonne, puis accédez au profil fiscal qui a expiré ou qui arrive à expiration.
+
+1. Sélectionnez **Edit** (Modifier).
+
+1. Dans la section formulaire fiscal, mettez à jour les formulaires fiscaux en fournissant les nouvelles informations. 
 
 ## <a name="next-steps"></a>Étapes suivantes
 

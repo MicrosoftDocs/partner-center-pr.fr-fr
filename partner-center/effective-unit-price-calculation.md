@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374387"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528575"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Calcul du prix unitaire effectif pour la consommation des plans Azure
 
@@ -53,7 +53,9 @@ Dans le tableau, les valeurs suivantes s’appliquent :
 - **Prix unitaire effectif** = BCU/BC
 
 >[!NOTE]
->Le compteur de cet exemple n’a pas de niveaux de tarification. Les facteurs de prix unitaire effectifs dans les pourcentages de remise et autres ajustements.
+
+>Remarque : le compteur de cet exemple n’a pas de niveaux de tarification ou autres remises, c’est-à-dire les facteurs de prix unitaire effectifs dans les pourcentages de remise et autres ajustements.
+
 
 | Date | BCU (unité de consommation facturable) | BC (coût facturable) | Prix unitaire effectif |
 | ------ | ----------- | ----------- | ----------- |  

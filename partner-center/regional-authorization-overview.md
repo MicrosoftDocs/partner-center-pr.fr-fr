@@ -1,7 +1,7 @@
 ---
 title: Marchés globaux CSP
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consultez les pays, les régions et les devises où vous pouvez vendre des offres CSP, en fonction de l’emplacement de votre entreprise.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926659"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528598"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Les marchés régionaux et les devises du programme fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP
 
@@ -24,10 +24,15 @@ Par exemple, si votre entreprise est située dans le États-Unis, vous pouvez ve
 
 Avant de pouvoir commander une offre du fournisseur de solutions Cloud pour le compte d’un client, vous devez lui demander de signer le Contrat client Microsoft. Vous pouvez trouver le contrat client Microsoft applicable à votre région/pays [ici](agreements.md).
 
+## <a name="azure-plan-for-csp-region-availability"></a>Planification Azure pour la disponibilité des régions CSP  
+
+Le plan Azure pour CSP est disponible dans moins de régions que le logiciel Azure pour CSP.  Reportez-vous à  [acheter le plan Azure](purchase-azure-plan.md) pour voir les dernières mises à jour de la disponibilité régionale pour le plan Azure. 
+
 >[!IMPORTANT]
 > Vous devez confirmer qu’un client a accepté le contrat du client Microsoft en fournissant des informations sur la personne qui l’a signé. Pour plus d’informations, consultez [Confirmer l’acceptation du contrat client Microsoft par le client](confirm-consent.md).
 
 Pour déterminer où vous pouvez vendre des offres CSP, recherchez l’emplacement de votre société dans l’une des listes ci-dessous. Vous devez disposer d’un ID d’Microsoft Partner Network (MPN) actif pour l’emplacement dans lequel vous souhaitez effectuer la vente.  
+
 
 ## <a name="for-unsupported-countries"></a>Pour les pays non pris en charge
 
@@ -77,7 +82,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Nouvelle Calédonie            |   USD    |
 | Niger                    |   USD    |
 | Nigeria                  |   USD    |
-| La réunion                  |   USD    |
+| Réunion (île)                  |   USD    |
 | Rwanda                   |   USD    |
 | São Tomé et Príncipe    |   USD    |
 | Sénégal                  |   USD    |
@@ -131,7 +136,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Fidji (îles)                  |   AUD    |
 |  Terres australes françaises| AUD |
 |  Guam                  |  AUD     |
-|  Heard et McDonald (îles)| AUD |
+|  Heard et McDonald (Îles)| AUD |
 |  Kiribati              |   AUD    |
 |  Marshall (Îles)      |   AUD    |
 |  Micronésie            |   AUD    |
@@ -146,7 +151,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis et Futuna     |   AUD    |
+|  Wallis-et-Futuna     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>Région et marché du Brésil
@@ -165,7 +170,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
-|  Saint Pierre et Miquelon|  CAD   |
+|  Saint-Pierre-et-Miquelon|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>Région et marché européens
