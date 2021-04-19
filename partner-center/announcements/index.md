@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266450"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584189"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,8 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 |**Catégorie**|**Annonces d’avril 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Fonctionnalités|[Maintenant disponible : Guide de préparation - promo mondiale](2021-april.md#6)|16 avril|
+|Communauté : invitations et rappels|[Mise à jour et rappels de la communauté pour les fournisseurs de solutions cloud (CSP) - Avril](2021-april.md#5)|16 avril|
 |Fonctionnalités|[Rappel : Dépréciation de la qualification GET le 4 mai 2021](2021-april.md#4)|9 avril|
 |Fonctionnalités|[Nouveau format pour la nouvelle facture PDF commerciale dans CSP](2021-april.md#3)|5 avril|
 |Fonctionnalités|[Changements dans les conditions d’intégration des clients CSP (Cloud Solution Provider)](2021-april.md#2)|2 avril|
