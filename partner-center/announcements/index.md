@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584189"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728944"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 |**Catégorie**|**Annonces d’avril 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Développer votre activité|[Programme de licence Open : transition des revendeurs vers le programme du fournisseur de solutions Cloud (CSP)](2021-april.md#7)|19 avril|
 |Fonctionnalités|[Maintenant disponible : Guide de préparation - promo mondiale](2021-april.md#6)|16 avril|
 |Communauté : invitations et rappels|[Mise à jour et rappels de la communauté pour les fournisseurs de solutions cloud (CSP) - Avril](2021-april.md#5)|16 avril|
 |Fonctionnalités|[Rappel : Dépréciation de la qualification GET le 4 mai 2021](2021-april.md#4)|9 avril|
