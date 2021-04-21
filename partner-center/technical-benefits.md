@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 6a03d06b858f2932621dc0e50a571a17708be3bc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
+ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086647"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "107742118"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explorer les services de prévente technique et de déploiement (TPD) 
 
@@ -41,6 +41,18 @@ Toutes les solutions Cloud ou hybrides sont prises en charge, en plus des enviro
 Connectez-vous à l’aide de n’importe quel compte d’utilisateur associé au service MPN pour **[créer une demande de services de prévente technique et de déploiement](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (l’activation de l’avantage technique n’est pas nécessaire).
 
 :::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Avantages techniques des préventes et des déploiements" :::
+
+## <a name="in-scope-products-and-services"></a>Produits et services concernés
+
+Les produits et services suivants sont concernés par les services de prévente technique et de déploiement :
+- **Microsoft 365** : Tous les composants Microsoft Office 365, tels que Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype Entreprise Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection
+  - *Non concernés : Serveurs Office exclusivement locaux - Exchange et SharePoint*
+- **Applications métier** : Microsoft Dynamics 365 (en ligne), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
+  - *Non concernés : Versions exclusivement locales de Dynamics 365, GP, SL, AX, NAV*
+- **Microsoft Azure** : Toutes les solutions Microsoft Azure et les services associés, comme infrastructure en tant que service, plateforme en tant que service, plateforme de données, analytique décisionnelle, Cognitive Services, Azure Machine Learning, Azure Stack
+- **Windows Server** : Support standard de Windows Server (tel que régi par le **[cycle de vie des produits](https://docs.microsoft.com/lifecycle/policies/fixed)** )
+  - System Center comprend des produits associés tels que SCCM, s’ils sont liés à des scénarios cloud ou hybrides
+- **Windows 10** : Système d’exploitation, appareils et applications universelles Windows 10
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Envoyer une demande de services de prévente technique et de déploiement 
 
