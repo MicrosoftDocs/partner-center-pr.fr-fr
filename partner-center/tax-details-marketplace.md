@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: fcd3905777cd69665158ebff73f115bf6dd00b9d
-ms.sourcegitcommit: 1f090ea858b25d1d0664d6e94cb4a6898e91dd85
+ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
+ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107715916"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "107894058"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Détails des taxes pour les éditeurs de la place de marché commerciale
 
@@ -39,16 +39,16 @@ Dans les **pays de revendeurs**, Microsoft agit en tant que revendeur, plutôt q
 |   |    |    |   |
 |---------------|:------------------|:--------|:----------|
 |Îles Vierges des États-Unis|Congo (RDC)|Jersey|Norfolk (Île)|
-|Afghanistan|Cook (Îles)|Jordanie|Ukraine|
-|Albanie|Costa Rica|Kazakhstan|Vanuatu|
-|Algérie|D’Ivore d’Ivoire|Kenya|État de la Cité du Vatican|
-|Samoa américaines|Curaçao|Kiribati|Venezuela|
-|Andorre|Dübouti|Koweït|Vietnam|
-|Angola|Dominique|Kirghizistan|Wallis & Futuna|
-|Anguilla|République dominicaine|Laos|Yémen|
-|Antarctique|Équateur|Liban|Zambie|
-|Antigua et Barbuda|Égypte|Lesotho|Uruguay||Macédoine du Nord|
-|Aruba|El Salvador|Libéria|
+|Afghanistan|Cook (Îles)|Jordanie|Macédoine du Nord|
+|Albanie|Costa Rica|Kazakhstan|Ukraine|
+|Algérie|D’Ivore d’Ivoire|Kenya|Vanuatu|
+|Samoa américaines|Curaçao|Kiribati|État de la Cité du Vatican|
+|Andorre|Dübouti|Koweït|Venezuela|
+|Angola|Dominique|Kirghizistan|Vietnam|
+|Anguilla|République dominicaine|Laos|Wallis & Futuna|
+|Antarctique|Équateur|Liban|Yémen|
+|Antigua et Barbuda|Égypte|Lesotho|Zambie|
+|Aruba|El Salvador|Libéria|Uruguay|
 |Azerbaïdjan|Guinée équatoriale|Libye|
 |Bangladesh|Érythrée|Macao (R.A.S.) |
 |Barbade|Éthiopie|Madagascar|
