@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
-ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
+ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
+ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107894058"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107927745"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Détails des taxes pour les éditeurs de la place de marché commerciale
 
@@ -36,7 +36,7 @@ Dans les **pays de revendeurs**, Microsoft agit en tant que revendeur, plutôt q
 
 ### <a name="publisherdeveloper-managed-countries"></a>Pays du serveur de publication/de développement : 
 
-|   |    |    |   |
+| Pays | Pays (suite) | Pays (suite) | Pays (suite) |
 |---------------|:------------------|:--------|:----------|
 |Îles Vierges des États-Unis|Congo (RDC)|Jersey|Norfolk (Île)|
 |Afghanistan|Cook (Îles)|Jordanie|Macédoine du Nord|
@@ -79,7 +79,7 @@ Dans les **pays de revendeurs**, Microsoft agit en tant que revendeur, plutôt q
 
 ### <a name="microsoft-managed-countries"></a>Pays gérés par Microsoft
 
-| | |  |  |
+| Pays | Pays (suite) | Pays (suite) | Pays (suite) |
 |---------|-----------|--------|----|
 |Arménie|Finlande|Luxembourg|Singapour|
 |Autriche|France|Malaisie|Slovaquie|

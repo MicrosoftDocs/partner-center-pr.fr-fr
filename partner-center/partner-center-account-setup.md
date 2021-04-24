@@ -82,7 +82,7 @@ Quand vous rejoignez l’Espace partenaires, votre société est soumise à un p
 
 Vous pouvez rechercher le profil de votre entreprise ou entrer manuellement les informations de l’entreprise. Si votre entreprise est inscrite auprès de [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), utilisez l’ID DUNS pour rechercher les informations de votre entreprise. Si vous voulez fournir vous-même les détails de votre entreprise, sélectionnez **Manuel**.
 
-Si votre entreprise est située en **Arménie**, en **Hongrie**, au **Kirghizstan**, en **Moldavie**, en **Ouzbékistan** ou en **Russie**, et que vous entrez votre adresse manuellement, nous validerons votre adresse pour vous. Si celle que vous entrez diffère de l’adresse validée, nous vous suggérons d’utiliser l’adresse validée. La vérification garantit que l’adresse est à la fois correcte et qu’une expédition vers celle-ci est possible.
+Si votre entreprise est située en **Arménie**, en **Hongrie**, au **Kirghizstan**, en **Moldova**, en **Ouzbékistan** ou en **Russie**, et que vous entrez votre adresse manuellement, nous validerons votre adresse pour vous. Si celle que vous entrez diffère de l’adresse validée, nous vous suggérons d’utiliser l’adresse validée. La vérification garantit que l’adresse est à la fois correcte et qu’une expédition vers celle-ci est possible.
 
 ### <a name="primary-contact-email"></a>Adresse e-mail du contact principal
 

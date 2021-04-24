@@ -127,11 +127,11 @@ Les partenaires de facturation directe ou les fournisseurs indirects qui partici
 
 - Arménie (AM)
 - Azerbaïdjan (AZ)
-- Biélorussie (BY)
+- Bélarus
 - Hongrie (HU)
 - Kazakhstan (KZ)
 - Kirghizistan (KG)
-- Moldavie (MD)
+- Moldova (MD)
 - Russie (RU)
 - Tadjikistan (TJ)
 - Ouzbékistan (UZ)
@@ -147,7 +147,7 @@ Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir
 
 - Le partenaire a une relation de facturation directe avec Microsoft (par exemple en tant que partenaire de facturation directe ou en tant que fournisseur indirect)
 
-- Le partenaire fait affaire avec des clients nouveaux ou déjà existants dans les pays suivants : Arménie (AM), Azerbaïdjan (AZ), Biélorussie (BY), Hongrie (HU), Kazakhstan (KZ), Kirghizistan (KG), Moldavie (MD), Russie (RU), Tadjikistan (TJ), Ouzbékistan (UZ) et Ukraine (UA) 
+- Le partenaire fait affaire avec des clients nouveaux ou déjà existants dans les pays suivants : Arménie (AM), Azerbaïdjan (AZ), Bélarus (BY), Hongrie (HU), Kazakhstan (KZ), Kirghizistan (KG), Moldova (MD), Russie (RU), Tadjikistan (TJ), Ouzbékistan (UZ) et Ukraine (UA) 
 
 Les partenaires qui ont un client dans ces pays doivent désormais soumettre l’**identificateur légal** du client spécifique (également appelé **code INN d’organisation** du client) ainsi que son **numéro de téléphone** quand ils tentent de mettre à jour ou de créer un abonnement pour le client concerné. Ces partenaires peuvent désormais également choisir d’entrer un **deuxième prénom** facultatif pour le client.
 
@@ -180,7 +180,7 @@ Les contraintes à respecter pour le champ du **code INN d’organisation** (ide
 | Hongrie | CEE      | HU               | 10 ou 11 chiffres         | :::no-loc text="TIN"::: | NIF (numéro d’identification fiscale)                     |
 | Kazakhstan | CEE      | KZ              | 12 chiffres         | :::no-loc text="БИН/ИИН"::: | Code BIN/IIN                     |
 | Kirghizistan | CEE      | KG               | 14 chiffres         | :::no-loc text="ИНН"::: | Code UNN/Numéro de service public                     |
-| Moldova  | CEE        | MD               | 6, 7, 8 ou 13 chiffres         | :::no-loc text="IDNO/IDNP"::: | Le numéro d’identification d’état unique (IDNO) affecté à l’entité juridique est également utilisé en tant que code fiscal. \"Registre d’état des unités juridiques relatives aux sociétés inscrites en République de Moldavie, publié par le Ministère des technologies de l’information et des communications sur le portail administratif des données publiques (data.gov.md).\"                    |
+| Moldova  | CEE        | MD               | 6, 7, 8 ou 13 chiffres         | :::no-loc text="IDNO/IDNP"::: | Le numéro d’identification d’état unique (IDNO) affecté à l’entité juridique est également utilisé en tant que code fiscal. \"Registre d’état des unités juridiques relatives aux sociétés inscrites en République de Moldova, publié par le Ministère des technologies de l’information et des communications sur le portail administratif des données publiques (data.gov.md).\"                    |
 | Russie | CEE      | RU               | 9, 10 ou 12 chiffres         | :::no-loc text="ИНН"::: | Code INN                     |
 | Tadjikistan | CEE      | TJ               | 9, 10 ou 12 chiffres     | :::no-loc text="ИНН/ЕИН/КПП"::: | Code INN/EIN/KPP                     |
 | Ouzbékistan | CEE     | UZ               | 9 chiffres                 | :::no-loc text="INN":::         | Code INN                               |
