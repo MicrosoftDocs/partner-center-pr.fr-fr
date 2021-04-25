@@ -9,15 +9,14 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
+ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474255"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "107941773"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Guide pratique pour ajouter un nouvel enregistrement de client dans l’Espace partenaires
-
 
 **Rôles appropriés**
 
