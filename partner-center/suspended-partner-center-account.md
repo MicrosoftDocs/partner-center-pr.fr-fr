@@ -9,16 +9,14 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441555"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002822"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurer un compte Espace partenaires suspendu : découvrez pourquoi cela se produit et ce que vous pouvez faire pour y remédier
-
-Cet article explique ce qu’il faut faire si votre compte de l’Espace partenaires est suspendu.
 
 **S’applique à**
 
@@ -28,6 +26,7 @@ Cet article explique ce qu’il faut faire si votre compte de l’Espace partena
 
 - Administrateur général
 
+Cet article explique ce qu’il faut faire si votre compte de l’Espace partenaires est suspendu.
 
 > [!IMPORTANT]  
 > Pendant que votre compte Espace partenaires est suspendu, vous pouvez continuer de gérer vos déploiements, licences et services existants. Cependant, vous ne pouvez pas autoriser ni revendre de nouvelles licences ou de nouveaux services tant que votre compte n’est pas de nouveau en règle.
