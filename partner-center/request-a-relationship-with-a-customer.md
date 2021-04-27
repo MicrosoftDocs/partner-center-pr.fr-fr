@@ -8,14 +8,19 @@ description: Demandez une relation avec un client pour les scénarios multi-part
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548969"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018133"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Guide pratique pour demander une relation de revendeur à un client dans l’Espace partenaires
+
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur général
 
 Si vous souhaitez gérer le service ou l’abonnement d’un client en son nom, le client doit vous accorder des autorisations d’administrateur pour ce service ou cet abonnement et signer le contrat du client Microsoft.
 
@@ -38,7 +43,7 @@ Vous pouvez demander une relation de revendeur avec un client dans votre pays ou
 
 4. Envoyez l’e-mail au client.
 
-5. Une fois qu’il a accepté votre invitation, le client s’affiche dans votre page **Clients**. Vous pouvez alors provisionner et gérer son service à partir de là.
+5. Une fois que le client a accepté votre invitation, il apparaît sur la page de vos **clients** et peut approvisionner et gérer le service pour le client à partir de là.
 
    > [!NOTE]
    > Si le client n’a pas encore accepté le contrat du client Microsoft, il est invité à le faire lorsqu’il accepte votre invitation. Le client doit être un administrateur général pour accepter l’invitation.

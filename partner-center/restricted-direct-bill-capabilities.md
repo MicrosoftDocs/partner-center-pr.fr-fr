@@ -9,14 +9,18 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623981"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018065"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Fonctionnalités de facture directe restreintes et exigences requises pour les partenaires de facturation directe de fournisseurs de solutions Cloud  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Fonctionnalités de facture directe restreintes et exigences requises pour les partenaires de facturation directe de fournisseurs de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur général
 
 ## <a name="overview"></a>Vue d’ensemble
 
@@ -58,8 +62,8 @@ Les abonnements à facture directe existants ne sont pas affectés. Ils restent 
 - Ajuster le nombre de licences des abonnements basés sur une licence existants
 
 - Ajustez le nombre de licences des modules complémentaires existants à un abonnement. 
- 
-    >[!Note] 
+
+    >[!Note]
     >Vous ne pouvez pas ajouter de nouveaux modules complémentaires aux abonnements existants, car ils sont traités comme un nouvel achat.
 
 - Déployez de nouvelles ressources Azure et gérez les ressources Azure existantes dans les abonnements Azure existants. Cela comprend les ressources qui sont disponibles via la place de marché Azure et les abonnements Visual Studio.
@@ -73,7 +77,7 @@ En plus des nouveaux achats, vous ne pouvez pas accéder aux fonctionnalités de
     >[!NOTE]
     >Dans le cadre de la transition entre un partenaire de facturation directe et un revendeur indirect, si vous avez déjà inscrit votre locataire de partenaire direct Bill en tant que revendeur indirect, vous pouvez générer une invitation au client demandant une relation de revendeur indirect à la place.
 
-- Vous ne pouvez pas créer un locataire sandbox. Chaque locataire de partenaire direct Bill peut créer un locataire sandbox dans le cadre de l’intégration de l’API de facturation directe. Si vous n’en avez pas encore créé une, vous n’êtes pas autorisé à le faire une fois que vous avez restreint la fonctionnalité de partenaire de facturation.  
+- Vous ne pouvez pas créer un locataire sandbox. Chaque locataire de partenaire direct Bill peut créer un locataire sandbox pour l’intégration de l’API de facturation directe. Si vous n’en avez pas encore créé une, vous n’êtes pas autorisé à le faire après avoir restreint vos capacités de partenaire direct.  
 
 ## <a name="next-steps"></a>Étapes suivantes
 

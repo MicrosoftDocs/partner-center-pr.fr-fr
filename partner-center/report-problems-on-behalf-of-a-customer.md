@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441946"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018116"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Signaler un problème de service au nom d’un client, y compris quand et comment procéder
 
@@ -24,7 +24,7 @@ ms.locfileid: "106441946"
 
 **Rôles appropriés**
 
-- Fournisseurs indirects
+- Administrateur général
 
 Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et que celui-ci répond aux critères décrits dans [escalader les problèmes à Microsoft](escalate-problems-to-microsoft.md), votre fournisseur indirect peut créer un ticket de support pour eux. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
 
@@ -109,7 +109,7 @@ Consultez les questions fréquemment posées suivantes sur les demandes de servi
 
 Les demandes de service doivent être classées via l’espace partenaires. Ils sont disponibles pour Azure, Microsoft Office 365, Microsoft Dynamics CRM Online et Enterprise Mobility suite. En tant que partenaire participant au programme Fournisseur de solutions cloud, vous pouvez vous attendre à un temps de réponse prioritaire à vos problèmes majeurs.
 
-La prise en charge de votre propre locataire partenaire n’est pas incluse dans le cadre de l’avantage du support CSP. Toutefois, Office 365, Microsoft Dynamics CRM Online et Enterprise Mobility suite ne sont pas facturés pour les partenaires ou les clients. Azure est facturé en payant, mais si vous êtes autorisé à la signature d’un support Cloud ou d’autres avantages d’Microsoft Partner Network (MPN), vous pouvez les utiliser pour payer ces frais.
+La prise en charge de votre propre locataire partenaire n’est pas incluse dans le cadre de l’avantage du support CSP. Toutefois, Office 365, Microsoft Dynamics CRM Online et Enterprise Mobility suite ne sont pas facturés pour les partenaires ou les clients. Azure est facturé en payant, mais si vous êtes autorisé à la signature d’un support Cloud ou d’autres avantages d’Microsoft Partner Network (MPN), vous pouvez utiliser ces avantages pour payer ces frais.
 
 Cet avantage s’applique à tous les partenaires qui participent au programme Fournisseur de solutions cloud, qu’ils aient un abonnement payant ou qu’ils soient en période d’essai. Le support pour la gestion des abonnements et de la facturation est également compris gratuitement dans ce package.
 

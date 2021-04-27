@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103823"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018150"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Comment et quand demander un crédit de contrat de niveau de service (SLA) de Microsoft
 
-Vous êtes en mesure de demander des **crédits de contrat de niveau de service (SLA)** auprès de Microsoft si un service que vous fournissez à vos clients est en panne.
+**Rôles appropriés**
+
+- Agent d’administration
+- Administrateur général
+
+Vous pouvez demander des **crédits de contrat de niveau de service (SLA)** auprès de Microsoft si un service que vous fournissez à vos clients présente une panne.
 
 ## <a name="sla-credit-calculation"></a>Calcul du crédit SLA
 
@@ -29,7 +34,7 @@ Les crédits SLA de Microsoft sont déterminés en fonction du ou des services q
 
 ## <a name="request-an-sla-credit"></a>Demander un crédit SLA
 
-*Le partenaire fournisseur de solutions Cloud (CSP) doit soumettre la revendication et toutes les informations requises à la fin du mois civil suivant le mois où l’incident s’est produit.* Par exemple, si l’incident s’est produit le 15 février, Microsoft doit recevoir la réclamation et toutes les informations requises avant le 31 mars. Les clients finaux et les revendeurs indirects ne peuvent pas soumettre des demandes de crédit du contrat SLA. le fournisseur indirect ou le partenaire direct Bill doit soumettre des revendications en son nom.
+*Le partenaire fournisseur de solutions Cloud (CSP) doit soumettre la revendication et toutes les informations requises à la fin du mois civil suivant le mois où l’incident s’est produit.* Par exemple, si l’incident s’est produit le 15 février, Microsoft doit recevoir la revendication et toutes les informations requises avant le 31 mars. Les clients finaux et les revendeurs indirects ne peuvent pas soumettre des demandes de crédit du contrat SLA. le fournisseur indirect ou le partenaire direct Bill doit soumettre des revendications en son nom.
 
 >[!NOTE]
 >Les incidents de Conseil ([procédure de vérification de l’intégrité du service Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) ne sont pas éligibles pour les crédits SLA.
@@ -51,7 +56,7 @@ Avant de [soumettre une demande de crédit SLA](#submit-sla-credit-request) à M
 - Le nombre et le ou les emplacements des utilisateurs affectés (le cas échéant)
 - Descriptions de vos tentatives de résolution de l’incident au moment de l’occurrence
 - Un e-mail du client affecté demandant le support et par la suite
-- Le numéro du ticket de support et les détails du contact du client en ce qui concerne la résolution de l’impact du service
+- Le numéro de ticket de support et les détails du contact client en ce qui concerne la résolution de l’impact du service
 
 
 #### <a name="outage-incident-identifier"></a>Identificateur de l’incident de panne
@@ -63,7 +68,7 @@ Vous pouvez trouver l’identificateur de l’incident de panne sur la page **se
 | EX | Exchange Online |
 | FO | Protection Exchange Online |
 | SB | Skype entreprise Online (anciennement Lync Online) |
-| Système d’exploitation | Abonnement Office |
+| Système d''exploitation | Abonnement Office |
 | Po | Power BI pour Office 365 |
 | SP | SharePoint Online |
 | Ye | Yammer Enterprise |
