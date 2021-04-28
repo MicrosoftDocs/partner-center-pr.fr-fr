@@ -1,20 +1,25 @@
 ---
-title: Migrer les abonnements Kaizala Pro vers Microsoft365
-description: Découvrez comment migrer des abonnements Kaizala Pro vers des versions Microsoft365 ou Office 365. Lisez cet article pour plus d’informations sur la transition de vos clients.
+title: Migrer les abonnements Kaizala Pro vers Microsoft 365
+description: Découvrez comment migrer des abonnements Kaizala Pro vers des versions Microsoft 365 ou Office 365. Lisez cet article pour plus d’informations sur la transition de vos clients.
 ms.topic: article
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175176"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172402"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrer des abonnements Kaizala Pro autonomes vers des versions Microsoft365 ou Office 365
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrer des abonnements Kaizala Pro autonomes vers des versions Microsoft 365 ou Office 365
+
+**Rôles appropriés**
+
+- Agent commercial
 
 À compter du 1er juillet 2020, Microsoft met fin aux ventes du service autonome Kaizala Pro. Les clients ne seront plus en mesure d’acheter de nouveaux abonnements Kaizala Pro après cette date, et les abonnements Kaizala Pro existants ne seront pas renouvelés automatiquement lorsqu’ils expirent.
 
@@ -31,7 +36,7 @@ Avec les nouveaux plans, vos clients peuvent tirer parti des fonctionnalités et
 - [**Microsoft 365 pour les entreprises**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), notamment :  
    - Microsoft 365 Business Basic
    - Microsoft 365 Business Standard
-   - Microsoft 365 Business Premium
+   - Microsoft 365 Business Premium
     
 - [**Microsoft 365 pour la Frontline**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), notamment :
    - Microsoft 365 F3 (anciennement Microsoft 365 F1) et Office 365 F3
