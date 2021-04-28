@@ -9,18 +9,25 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980c086a2ab1ee0a21592ceb1e2e018c0e1159ae
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490607"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120781"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Contrôle d’accès en fonction du rôle au tableau de bord Insights de l’espace partenaires
 
+**Rôles appropriés**
+
+- Administrateur général
+- Agent d’administration
+- Visionneuse de rapports
+- Visionneuse de rapports de la direction
+
 Le tableau de bord Insights utilise deux nouveaux rôles dans l’espace partenaires pour gérer l’accès des employés aux rapports-visionneuse de rapports et visionneuse de rapports Executive.  Les utilisateurs du rôle de la visionneuse de rapports exécutifs ont accès à tous les jeux de données de rapports, tandis que les utilisateurs du rôle visionneuse de rapports n’ont pas accès aux jeux de données sensibles tels que les données personnelles des clients et des employés.  
 
-Comme pour les autres rôles de l’espace partenaires, l’administrateur général ou l’administrateur de compte est en mesure d’affecter des utilisateurs à ces rôles dans la page gestion des utilisateurs. Les rôles peuvent être applicables à toute l’entreprise ou à des emplacements MPN spécifiques. Les rôles attribués à un ou plusieurs emplacements MPN spécifiques limitent l’utilisateur à afficher les données de rapports associées uniquement aux emplacements MPN sélectionnés. Le partenaire peut sélectionner un ou plusieurs emplacements dans la vue ci-dessous.
+Comme pour les autres rôles de l’espace partenaires, l’administrateur général ou l’administrateur de compte est en mesure d’affecter des utilisateurs à ces rôles dans la page gestion des utilisateurs. Les rôles peuvent être applicables à toute l’entreprise ou à des emplacements MPN spécifiques. Les rôles attribués à des emplacements MPN spécifiques limitent l’utilisateur à afficher les données de rapports associées uniquement aux emplacements MPN sélectionnés. Le partenaire peut sélectionner un ou plusieurs emplacements dans la vue ci-dessous.
 
 :::image type="content" source="images/pci/roles.png" alt-text="Affiche les paramètres de rôles de l’espace partenaires des informations de l’emplacement pour la visionneuse de rapports et la visionneuse de rapports Executive.":::
 

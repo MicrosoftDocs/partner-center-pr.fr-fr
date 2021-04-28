@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528598"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120764"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Les marchés régionaux et les devises du programme fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP
+
+**Rôles appropriés**
+
+- Administrateur général
 
 Votre marché dépend de l’emplacement de votre entreprise. Votre marché inclut les régions et/ou les pays où vous pouvez vendre des offres du programme fournisseur de solutions Cloud (CSP).
 
@@ -26,7 +30,7 @@ Avant de pouvoir commander une offre du fournisseur de solutions Cloud pour le c
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Planification Azure pour la disponibilité des régions CSP  
 
-Le plan Azure pour CSP est disponible dans moins de régions que le logiciel Azure pour CSP.  Reportez-vous à  [acheter le plan Azure](purchase-azure-plan.md) pour voir les dernières mises à jour de la disponibilité régionale pour le plan Azure. 
+Le plan Azure pour CSP est disponible dans moins de régions que le logiciel Azure pour CSP. Pour obtenir les dernières mises à jour sur la disponibilité régionale du plan Azure, consultez [acheter le plan Azure](purchase-azure-plan.md).
 
 >[!IMPORTANT]
 > Vous devez confirmer qu’un client a accepté le contrat du client Microsoft en fournissant des informations sur la personne qui l’a signé. Pour plus d’informations, consultez [Confirmer l’acceptation du contrat client Microsoft par le client](confirm-consent.md).
@@ -40,7 +44,7 @@ Si votre pays n’est pas pris en charge, établissez la relation CSP du client 
 
 - Les partenaires de facturation directe utilisent l’URL suivante : https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Remplacez **partnertenantguid** par votre ID de locataire. 
 
-- L’URL des revendeurs indirects est : https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Vous allez remplacer **IRtenantguid** par votre ID de locataire. Remplacez **IRMPNID** par votre ID MPN, puis remplacez **IPtenantguid** par votre ID de locataire de fournisseur indirect.
+- L’URL des revendeurs indirects est : https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Remplacez **IRtenantguid** par votre ID de locataire. Remplacez **IRMPNID** par votre ID MPN, puis remplacez **IPTENANTGUID** par votre ID de locataire de fournisseur indirect.
 
 ## <a name="africa-region-and-market"></a>Région et marché en Afrique
 
@@ -90,7 +94,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 | Sierra Leone             |   USD    |
 | Somalie                  |   USD    |
 | Soudan du Sud              |   USD    |
-| Sainte-Hélène, Ascension et Tristan da Cunha|    USD   |
+| Sainte-Hélène, Ascension et Tristan da Cunha|    USD   |
 | Tanzanie                 |   USD    |
 | Togo                     |   USD    |
 | Ouganda                   |   USD    |
@@ -136,7 +140,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Fidji (îles)                  |   AUD    |
 |  Terres australes françaises| AUD |
 |  Guam                  |  AUD     |
-|  Heard et McDonald (Îles)| AUD |
+|  Heard et McDonald (îles)| AUD |
 |  Kiribati              |   AUD    |
 |  Marshall (Îles)      |   AUD    |
 |  Micronésie            |   AUD    |
@@ -151,7 +155,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis-et-Futuna     |   AUD    |
+|  Wallis et Futuna     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>Région et marché du Brésil
@@ -170,7 +174,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Pays/Région | Devise |
 |  -------------- |:--------:|
 |  Canada         |   CAD    |
-|  Saint-Pierre-et-Miquelon|  CAD   |
+|  Saint Pierre et Miquelon|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>Région et marché européens
@@ -305,7 +309,7 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Saint-Vincent-et-les Grenadines| USD |
 |  Saint-Eustache |   USD    |
 |  Saint-Martin (partie néerlandaise)   |   USD    |
-|  Géorgie du Sud et les îles Sandwich du Sud| USD|
+|  Géorgie du Sud et Sandwich du Sud (îles)| USD|
 |  Suriname       |   USD    |
 |  Trinité-et-Tobago|USD   |
 |  Turks et Caicos (îles)| USD|
@@ -404,5 +408,5 @@ Si l’emplacement de votre société figure dans la liste ci-dessous, vous pouv
 |  Pays/Région       | Devise |
 |  -------------        |:--------:|
 |  États-Unis        |   USD    |
-|  États-Unis Îles mineures éloignées|   USD    |
+|  États-Unis Îles éloignées|   USD    |
 |

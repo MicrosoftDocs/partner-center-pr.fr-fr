@@ -8,14 +8,19 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103772"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120713"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Champs du fichier de rapprochement des achats à usage unique CSP
+
+**Rôles appropriés**
+
+- Administrateur des comptes
+- Agent de facturation
 
 ## <a name="using-the-recon-file"></a>Utilisation du fichier de rapprochement
 Le tableau ci-dessous fournit des descriptions et des exemples de valeurs pour les champs du fichier de rapprochement pour les achats à usage unique du CSP.
@@ -28,7 +33,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | CustomerId | Identificateur Microsoft unique du client au format GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nom de l’organisation du client comme indiqué dans l’Espace partenaires. Cette colonne est importante pour rapprocher la facture de vos informations système. | *Jeanne moderne client DE2* |
 | CustomerDomainName | Nom de domaine du client. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *DE* |
+| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *ANNULATION* |
 | InvoiceNumber | Numéro de facture associé au fichier de rapprochement.  | *G002297372* |
 | MpnId | Identificateur MPN du partenaire CSP. Pour plus d’informations, consultez [Comment dénombrer par partenaire](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. | *6048879* |
@@ -55,7 +60,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | ChargeEndDate | Date de fin de la période de facturation d’un abonnement. | *30/09/2020* |
 | TermAndBillingCycle | Durée d’engagement pour poursuivre l’abonnement au moment de l’achat. | *Données stockées (Go/mois)* |
 | EffectiveUnitPrice | Prix unitaire au prorata pour calculer le coût du cycle de facturation. Les remises, les ajustements en jours de facturation et d’autres facteurs déterminent le prix unitaire effectif. Pour plus d’informations, consultez [calcul du prix unitaire effectif](./effective-unit-price-calculation.md).  | *0,03825* |
-| Unité | Type d’unité dans laquelle le compteur est facturé. | *1 Go/mois* |
+| Unité | Type de l’unité dans laquelle le compteur est facturé. | *1 Go/mois* |
 | AlternateId | Autre ID de l’élément de ligne de commande référencé. | *6dc5c039750a* |
 | BillableQuantity | Quantité totale facturée.  | *0,005001* |
 | BillingFrequency | Plan de facturation sélectionné au moment de l’achat. | *NA*  |

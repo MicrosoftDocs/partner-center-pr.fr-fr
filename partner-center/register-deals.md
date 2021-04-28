@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549190"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120747"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Inscrivez les demandes que vous avez remportées dans l’espace partenaires pour pouvoir obtenir davantage d’opportunités ultérieurement
 
@@ -37,9 +37,9 @@ Sur la page **Nouvelle transaction**, fournissez les informations suivantes.
 - **Valeur** de la solution : valeur totale de la solution cloud qui sera utilisée pour la transaction. Veillez à inclure tous les coûts associés aux frais liés aux logiciels et à la maintenance, mais n’incluez pas les éléments remboursables, les frais de personnalisation non périodiques ou les frais de licence Fournisseur de solutions Microsoft Cloud directement associés payés par Microsoft.
 - **Déployé sur**: sélectionnez **Azure** ou un **autre**.
 - **Où la solution sera-t-elle déployée ?**: sélectionnez le **locataire client** ou le **locataire partenaire**.
-- **Date de début du contrat**: date de début du contrat.
-- **Date de fin du contrat**: si le contrat se termine à une date spécifique, sélectionnez **a une date de fin** et indiquez cette date. Sinon, sélectionnez **Perpétuel**.
-- **Date de signature du contrat**: date à laquelle le contrat final a été signé par votre organisation et par le client.
+- **Date de début du contrat**: date de début du contrat. Pour les offres de paiement à l’utilisation (PAYG), utilisez la date de la première facture.
+- **Date de fin du contrat**: si le contrat se termine à une date spécifique, sélectionnez **a une date de fin** et indiquez cette date. Si le contrat n’a pas de date de fin spécifique, sélectionnez **perpétuelle**. Pour les offres de paiement à l’utilisation (PAYG), utilisez la date de la dernière facture ou la plus récente.
+- **Date de signature du contrat**: date à laquelle le contrat final a été signé par votre organisation et par le client. Pour les offres de paiement à l’utilisation (PAYG), utilisez la date de la première facture.
 - **Contact d’inscription**: le **prénom**, le **nom**, le **numéro de téléphone** et l’adresse de **messagerie** d’une personne de votre organisation que nous pouvons contacter si nous avons besoin de plus de détails sur les informations fournies ici.
 
 Une fois toutes les sections de la page complétées, sélectionnez **Enregistrer**. L’enregistrement de la transaction est ensuite déplacé vers la page **En cours**. À ce stade, Microsoft examine les informations que vous avez fournies.

@@ -9,16 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220487"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120815"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Vue d’ensemble des rapports de tableau de bord disponibles dans les Insights de l’espace partenaires
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Vue d’ensemble des rapports de tableau de bord disponibles dans les insights de l’Espace partenaires
  
-Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des indicateurs de performance clés tels que les clients, les abonnements, les revenus de la consommation Azure, les licences, etc. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble.
+**Rôles appropriés**
+
+- Administrateur général
+- Agent d’administration
+- Visionneuse de rapports
+- Visionneuse de rapports de la direction
+
+Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des indicateurs de performance clés tels que les clients, les abonnements, le chiffre d’affaires à la consommation Azure et les licences. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble.
 
 - Résumé  
 - Répartition géographique de vos clients, abonnements et licences  
@@ -33,7 +40,7 @@ Le résumé contient des informations sur les clients, les revenus consommés pa
 
 :::image type="content" source="images/pci/summary.png" alt-text="Licences récapitulatives":::
 
-Pour plus d’informations sur chaque section du résumé, voir ci-dessous.
+Pour plus d’informations sur chaque section du résumé, effectuez les étapes suivantes.
 
 ### <a name="customers"></a>Clients
 
@@ -80,7 +87,7 @@ La zone **licences déployées** du résumé comprend les éléments suivants :
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Répartition géographique de vos clients, abonnements et licences
 
-Cette vue est une distribution géographique du total des clients, des abonnements et des licences par pays du client. Cliquez sur les différents onglets pour afficher chacun de ces Insights sur la carte. Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Revenez à la vue d’origine en appuyant sur le bouton démarrage sur la carte. Le fait de cliquer sur chaque onglet (par exemple, clients, abonnements) affiche la valeur de la mesure pour chaque pays, ainsi que le pourcentage du total du pays.  
+Cette vue est une distribution géographique du total des clients, des abonnements et des licences par pays du client. Sélectionnez les différents onglets pour afficher chacun de ces Insights sur la carte. Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Revenez à la vue d’origine en appuyant sur le bouton démarrage sur la carte. Cliquer sur chaque onglet (par exemple, clients, abonnements) affiche la valeur de la mesure pour chaque pays et le pourcentage du total pour le pays.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Résumé géographique":::
 

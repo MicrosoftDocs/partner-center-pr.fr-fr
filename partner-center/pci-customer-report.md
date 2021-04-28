@@ -9,14 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30032a9b396a82f530c9497f96e4a9b1f6b46e00
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220497"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120832"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Rapports tableau de bord clients à partir de l’espace partenaires Insights
+
+**Rôles appropriés**
+
+- Administrateur général
+- Agent d’administration
+- Visionneuse de rapports
+- Visionneuse de rapports de la direction
 
 Le tableau de bord clients présente des données de vos clients qui ont acquis des produits Cloud tels qu’Office, Azure, Dynamics, etc., ou vous ont utilisé pour déployer et gérer ces produits dans leurs locataires. 
  
@@ -56,7 +63,7 @@ La section Résumé présente un aperçu des différents indicateurs de performa
 
 ### <a name="customers-churned"></a>Clients en évolution
 - Nombre de clients dont l’exécution a été effectuée chaque mois pendant la période sélectionnée. Un client est considéré comme perdu si le client n’a pas d’abonnement unique avec l’état actif. 
-- % des clients ont été mis à jour pendant la plage de dates sélectionnée 
+- Pourcentage de clients mis à jour pendant la plage de dates sélectionnée 
 - Le micro-graphique présente une tendance d’un mois sur l’autre pour les clients ayant dépassé la période sélectionnée. 
  
 ### <a name="customers-by-products"></a>Clients par produits
@@ -77,7 +84,7 @@ Tendance des clients avec une répartition en nouvelles, existantes et en évolu
 
 ## <a name="customer-distribution"></a>Distribution client
 
-La répartition de vos clients actuels par vos emplacements MPN, les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution (par exemple, DPOR, DAP, etc.). Cliquez sur les onglets respectifs situés au-dessus du graphique pour afficher la répartition en fonction de ces catégories. Vous pouvez régénérer le graphique en sélectionnant/désélectionnant des dimensions spécifiques en sélectionnant les éléments de légende. 
+La répartition de vos clients actuels par vos emplacements MPN, les segments de clientèle, le modèle de tarification des ventes/Azure et le type d’attribution (par exemple, DPOR, DAP). Sélectionnez les onglets respectifs au-dessus du graphique pour afficher la répartition selon ces catégories. Vous pouvez régénérer le graphique en sélectionnant/désélectionnant des dimensions spécifiques en sélectionnant les éléments de légende. 
 
 ## <a name="customers-by-products"></a>Clients par produits
 
@@ -87,7 +94,7 @@ Répartition du nombre actuel de clients par produit et SKU/plans. Sélectionnez
 
 ## <a name="customer-distribution-trend"></a>Tendance de la distribution client 
 
-Tendance mensuelle de la distribution de vos clients au cours de la plage de dates sélectionnée par marchés, segments, vos emplacements MPN et les produits qu’ils ont acquis. Cliquez sur les onglets respectifs dans le graphique pour afficher la tendance selon ces catégories. L’axe des X représente les mois de la plage de dates que vous avez sélectionnée, et l’axe des ordonnées est le nombre de clients pour la catégorie sélectionnée (sélection de l’onglet). Vous pouvez pointer sur les colonnes du graphique pour afficher la répartition des valeurs de chaque pile. Vous pouvez utiliser le curseur en haut du graphique pour effectuer un zoom avant sur une période spécifique.   
+Tendance mensuelle de la distribution de vos clients au cours de la plage de dates sélectionnée par marchés, segments, vos emplacements MPN et les produits qu’ils ont acquis. Sélectionnez les onglets respectifs dans le graphique pour afficher la tendance selon ces catégories. L’axe des X représente les mois de la plage de dates que vous avez sélectionnée, et l’axe des ordonnées est le nombre de clients pour la catégorie sélectionnée (sélection de l’onglet). Vous pouvez pointer sur les colonnes du graphique pour afficher la répartition des valeurs de chaque pile. Vous pouvez utiliser le curseur en haut du graphique pour effectuer un zoom avant sur une période spécifique.   
 
 :::image type="content" source="images/pci/customerdistri.png" alt-text="Capture d’écran du rapport de tendance de distribution client montrant les graphiques à barres que vous pouvez afficher par marché, segment, emplacement partenaire ou produits.":::
 
