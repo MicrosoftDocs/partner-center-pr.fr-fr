@@ -9,21 +9,25 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549258"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120849"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenir des insights de référence dans l’Espace partenaires et voir les performances de vos références
+
+**Rôles appropriés**
+
+- Administrateur des références
 
 La page **Opportunités de co-vente** dans la section **Analytique** de Références vous permet de voir l’état de vos références. Passez régulièrement en revue ces métriques pour identifier les tendances ou les domaines nécessitant votre attention, et faites un premier pas vers vos objectifs métier.
 
 Pour afficher les données des insights de vos opportunités de co-vente, dans le menu de l’Espace partenaires, accédez à **Références > Analytique > Opportunités de co-vente**.
 
 > [!Important]
-> Le filtre de type de marché est pré-appliqué avec le type **Co-vente** sélectionné pour toutes les données. Supprimez ce filtre si vous souhaitez analyser les données associées à des marchés privés.
+> Le filtre de type de marché est pré-appliqué avec le type **Co-vente** sélectionné pour toutes les données. Si vous souhaitez analyser les données associées à des offres privées et suivies par des partenaires, supprimez ce filtre.
 
 ## <a name="apply-filters"></a>Appliquer des filtres
 
@@ -33,10 +37,10 @@ Vous pouvez sélectionner le bouton **Filtres** pour ouvrir le volet permettant 
 
 - **Nom du client** : La valeur par défaut est **Tous**, mais vous pouvez restreindre les données à un ou plusieurs clients, en les sélectionnant.
 - **Pays** : La valeur par défaut est **Tous**, mais vous pouvez restreindre les données à un ou plusieurs pays du client, en les sélectionnant.
-- **Type de marché** : La valeur par défaut est **Tous**, mais vous pouvez limiter les données à des opportunités de co-vente ou à des marchés privés en fonction de votre sélection.
+- **Type d’offre** : La valeur par défaut est **Co-vente**. Toutefois, vous pouvez sélectionner « Tous », ou limiter les données aux offres privées ou suivies par des partenaires en fonction de votre sélection.
 - **Direction du marché** : la valeur par défaut est **Toutes**, mais vous pouvez choisir de limiter les données aux références **entrantes** (celles que vous avez reçues) ou aux références **sortantes** (celles que vous avez envoyées).
 - **Nom de la solution** : La valeur par défaut est **Tous**, mais vous pouvez choisir de limiter les données aux références qui contiennent la ou les solutions que vous sélectionnez.
-- **État** : La valeur par défaut est **Tous**, mais vous pouvez choisir de limiter les données aux références qui contiennent un ou plusieurs types d’état de référence que vous sélectionnez, comme accepté, refusé, expiré, perdu ou conclu.
+- **État** : La valeur par défaut est **Tous**, mais vous pouvez choisir de limiter les données aux références qui contiennent un ou plusieurs types d’état de référence que vous sélectionnez, comme « créé », « accepté », « refusé », « expiré », « perdu » ou « conclu ».
 
 Les informations figurant dans tous les graphiques listés ci-après correspondent à la plage de dates et à tous les filtres que vous avez sélectionnés, sauf exception notée ci-dessous. Certaines sections vous permettent également d’appliquer des filtres supplémentaires, tels que le filtrage sur une solution spécifique.
 
@@ -52,19 +56,27 @@ Les métriques de changement de pourcentage (affichées en rouge ou en vert, ave
 
 ## <a name="conversion-funnel"></a>Entonnoir de conversion
 
-Cette section affiche un indicateur visuel de la façon dont vos marchés passent d’un état à un autre tout au long de leur cycle de vie. Vous pouvez afficher l’intégralité du cycle de vie en fonction du volume de marchés, ainsi que la valeur des marchés en USD en fonction du tableau croisé dynamique principal de cette section. La première section est étiquetée avec l’état et le type de marché pour vous fournir un indicateur visuel du volume ou de la valeur par type. Il existe également une section, **Références du passé**, qui est utilisée pour indiquer les marchés que vous avez entrepris d’accepter/refuser ou de marquer comme conclus/perdus au cours de la période sélectionnée pour le rapport. Vous pouvez appliquer des filtres pour afficher la progression des marchés entre les différentes phases de leur cycle de vie.
+Cette section affiche un indicateur visuel de la façon dont vos marchés passent d’un état à un autre tout au long de leur cycle de vie. Vous pouvez afficher l’intégralité du cycle de vie en fonction du volume des offres, ainsi que la valeur des offres en USD en fonction du tableau croisé dynamique principal de cette section. La première section est étiquetée avec l’état et le type de l’offre, afin de fournir un indicateur visuel du volume ou de la valeur pour chaque type. Il existe également une section, **Références du passé**, qui est utilisée pour indiquer les marchés que vous avez entrepris d’accepter/refuser ou de marquer comme conclus/perdus au cours de la période sélectionnée pour le rapport. Vous pouvez appliquer des filtres pour afficher la progression des marchés entre les différentes phases de leur cycle de vie.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Image représentant l’entonnoir de conversion pour les références.":::
+Les offres entrantes de co-vente peuvent être fusionnées en offres « Acceptées », « Refusées » ou « Expirées », puisque les partenaires doivent Accepter ou Refuser les offres de co-vente entrantes.
+
+:::image type="content" source="images/referrals/inbound.png" alt-text="Image montrant l’état des références entrantes.":::
+
+Les offres sortantes privées, de co-vente ou suivies par des partenaires seront fusionnées en offres « Créées » lors de leur création par les partenaires.
+
+:::image type="content" source="images/referrals/outbound.png" alt-text="Image montrant l’état des références sortantes.":::
+
+:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Image représentant l’entonnoir de conversion pour les références.":::
 
 ## <a name="deals-by-geography"></a>Marchés par zone géographique
 
 Cette section affiche les pays/régions d’où proviennent les références, ainsi que les détails de chaque pays/région. Il existe une vue tabulaire des détails des marchés pour chaque pays, ainsi qu’une vue cartographique de tous les pays. Vous pouvez sélectionner un pays spécifique dans la table ou sélectionner la vue cartographique pour effectuer un zoom sur un pays spécifique.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Image représentant la distribution géographique des références.":::
+:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Image représentant la distribution géographique des références.":::
 
 ## <a name="deals-by-solutions"></a>Marchés par solutions
 
-Ce graphique vous permet de voir quelles solutions donnent le plus de références et la plus grande valeur de marché. La table comporte deux tableaux croisés dynamiques : co-vente et privé.
+Ce graphique vous permet de voir quelles solutions donnent le plus de références et la plus grande valeur de marché. La table comprend trois champs dynamiques : co-vente, privées et suivies par des partenaires.
 En fonction de votre sélection de tableau croisé dynamique, vous pouvez voir les performances des marchés agrégées par solution.
 
 > [!NOTE]
@@ -72,7 +84,7 @@ En fonction de votre sélection de tableau croisé dynamique, vous pouvez voir l
 
 Le tableau contient le nombre total de marchés qui comportent la solution et les états correspondants, comme les marchés conclus, les marchés perdus, les marchés expirés, ainsi que la valeur totale des marchés conclus et perdus en USD. Un graphique de tendances des marchés figure également à droite du tableau et indique le nombre total de marchés et la valeur des marchés gagnée en USD, en fonction de la solution sélectionnée. La sélection par défaut correspond à l’ensemble des solutions.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Image présentant les performances des solutions.":::
+:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Image présentant les performances des solutions.":::
 
 ## <a name="declined--lost-reasons"></a>Raisons de refus et de perte
 
@@ -89,13 +101,13 @@ Les trois dimensions que vous pouvez choisir pour comparer les données sont :
 - Marchés
 - Solutions
 
-Lorsque le type de marché est sélectionné, vous pouvez comparer les performances des références en ce qui concerne les opportunités de co-vente et les marchés privés. Pour les marchés et les solutions, vous pouvez sélectionner jusqu’à trois options différentes pour comparer les performances. Le premier graphique, qui est un graphique à barres, présente les données avec une tendance mois après mois, basée sur le tableau croisé dynamique principal, qui est le volume ou la valeur des marchés conclus. Un graphique à secteurs figure également à droite du graphique à barres et affiche les pourcentages de distribution pour les mêmes données.
+Lorsque le type d’offre est sélectionné, vous pouvez comparer les performances des références en ce qui concerne les opportunités de co-vente, les offres privées et les offres suivies par des partenaires. Pour les marchés et les solutions, vous pouvez sélectionner jusqu’à trois options différentes pour comparer les performances. Le premier graphique, qui est un graphique à barres, présente les données avec une tendance mois après mois, basée sur le tableau croisé dynamique principal, qui est le volume ou la valeur des marchés conclus. Un graphique à secteurs figure également à droite du graphique à barres et affiche les pourcentages de distribution pour les mêmes données.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Image représentant la section de comparaison.":::
+:::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Image représentant la section de comparaison.":::
 
 ## <a name="raw-data-table"></a>Table des données brutes
 
-La table ci-dessous avec toutes les données brutes relatives aux opportunités de co-vente vous aide à **exporter** rapidement les données pour toute analyse détaillée ou personnalisée que vous souhaitez effectuer.
+La table ci-dessous, qui contient toutes les données brutes relatives aux opportunités de co-vente, vous permet d’**exporter** rapidement les données pour toute analyse détaillée ou personnalisée que vous souhaitez effectuer.
 
 :::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Image représentant la table des données brutes pour les références.":::
 

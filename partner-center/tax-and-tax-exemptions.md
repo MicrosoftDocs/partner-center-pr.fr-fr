@@ -9,15 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247677"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284466"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays pour les partenaires dans le programme CSP
 
+**Rôles appropriés**
+
+- Administrateur général
 
 Le programme fournisseur de solutions Cloud (CSP) est un canal de vente axé sur la revente des produits partenaires. Par conséquent, Microsoft n’est pas toujours obligé de facturer les taxes sur les factures des partenaires. Les règles varient en fonction du pays et/ou de la région. Vous pouvez consulter [les détails spécifiques au pays et à la région pour les exemptions de taxe](#country-and-region-tax-details).
 
@@ -38,7 +41,7 @@ Pour une exemption de fichier PST BC, dépensez une exemption fiscale comme déc
 
 ### <a name="united-states"></a>États-Unis
 
-Tous les revendeurs aux États-Unis doivent fournir des documents d’exonération fiscale dans les 30&nbsp;jours suivant l’acceptation du contrat de revendeur Microsoft. Les certificats d’exonération pour la revente sont différents pour chaque État. Demandez à votre conseiller fiscal de déterminer les éléments pertinents pour votre adresse légale et vos États d’inscription.
+Tous les revendeurs aux États-Unis doivent fournir des documents d’exonération fiscale dans les 30&nbsp;jours suivant l’acceptation du contrat de revendeur Microsoft. Les certificats d’exonération pour la revente sont différents pour chaque État. Collaborez avec votre conseiller fiscal pour déterminer ce qui est pertinent pour votre adresse légale et les États enregistrés.
 
 Cela peut inclure des certificats d’exemption de revente qui fonctionnent sur plusieurs États, tels que le certificat de l' *&* exemption *Sales* and *use taxes de l’utilisation*
 

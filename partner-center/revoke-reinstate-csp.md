@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315845"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018185"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Rétablir les privilèges d’administrateur pour les abonnements Azure CSP d’un client  
 
-**Rôles applicables**
+**Rôles appropriés**
 
 - Administrateur général
 - Agent d’administration
@@ -29,17 +29,17 @@ En tant que partenaire CSP, vos clients pensent souvent que vous allez gérer le
 
 Il existe deux niveaux de privilèges d’administrateur pour Azure dans CSP.
 
-**Privilèges d’administrateur au niveau du locataire** (**privilèges d’administrateur délégués**) : les partenaires CSP obtiennent ces privilèges quand une relation est établie entre le revendeur CSP et les clients. Les privilèges d’administrateur délégués donnent aux partenaires CSP un accès aux locataires de leurs clients, ce qui leur permet d’effectuer des fonctions d’administration telles que l’ajout/la gestion d’utilisateurs, la réinitialisation des mots de passe et la gestion des licences utilisateur.
+**Privilèges d’administrateur au niveau du locataire** (**privilèges d’administrateur délégués**) : les partenaires CSP obtiennent ces privilèges quand une relation est établie entre le revendeur CSP et les clients. Les privilèges d’administrateur délégués donnent aux partenaires CSP un accès aux locataires de leurs clients, ce qui leur permet d’effectuer des opérations d’administration telles que l’ajout ou la gestion d’utilisateurs, la réinitialisation des mots de passe et la gestion des licences utilisateur.
 
 **Privilèges d’administrateur au niveau de l’abonnement** : les partenaires CSP obtiennent ces privilèges durant la création d’abonnements Azure CSP pour leurs clients. Avec ces privilèges, les partenaires CSP ont un accès complet à ces abonnements, ce qui leur permet de provisionner et de gérer des ressources Azure.
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>Rétablir les privilèges d’administrateur des partenaires CSP
 
-Votre client peut recréer l’attribution de rôle CSP tant que vous fournissez l’ID d’objet du groupe AdminAgents à votre client. Pour récupérer des privilèges d’administrateur délégués, vous devez travailler avec votre client.
+Votre client peut recréer l’attribution de rôle CSP tant que vous fournissez l’ID d’objet du groupe AdminAgents à votre client. Pour récupérer des privilèges d’administrateur délégués, vous devez travailler avec votre client.
 
 1. Connectez-vous au tableau de bord de l’Espace partenaires, puis sélectionnez **Clients** dans le menu de l’Espace partenaires.
 
-2. Sélectionnez le client avec lequel vous travaillez et **demandez une relation de revendeur.** Cela génère un lien vers le client disposant des droits d’administrateur de locataire.
+2. Sélectionnez le client avec lequel vous travaillez et **demandez une relation de revendeur.** Cette action génère un lien vers le client qui dispose des droits d’administrateur de locataire.
 
 3. Ce client doit sélectionner le lien et approuver la demande de relation de revendeur.
 
@@ -79,7 +79,7 @@ Votre client peut recréer l’attribution de rôle CSP tant que vous fournissez
     ```
 
 
-Si vous souhaitez accorder l’autorisation de rôle propriétaire au niveau du groupe de ressources ou de la ressource et non au niveau de l’étendue de l’abonnement, les commandes suivantes peuvent fonctionner :
+Si vous souhaitez accorder l’autorisation de rôle Propriétaire au niveau du groupe de ressources ou de la ressource, et non au niveau de l’abonnement, les commandes suivantes peuvent fonctionner :
 
 
 ```powershell

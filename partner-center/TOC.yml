@@ -151,6 +151,8 @@
     - name: 'Contrats, listes de prix, offres CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: Informations sur les numéros d’identification des inscriptions
+      href: reg-number-id.md
     - name: 'Marchés régionaux CSP, monnaies locales'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
@@ -511,6 +513,9 @@
           displayName: csp
         - name: Acheter des offres de la Place de marché
           href: csp-commercial-marketplace-purchase.md
+          displayName: csp
+        - name: Gérer les licences dans les offres de la place de marché
+          href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Offres exclusives des éditeurs de logiciels indépendants dans la Place de marché
           href: isv-opt-in.md

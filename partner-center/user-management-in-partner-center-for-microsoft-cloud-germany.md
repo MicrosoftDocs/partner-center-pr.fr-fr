@@ -10,18 +10,23 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000623"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284517"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestion des utilisateurs et des licences dans l'Espace partenaires de Microsoft Cloud Germany
 
 **S’applique à**
 
--  Espace partenaires de Microsoft Cloud Germany
+- Espace partenaires de Microsoft Cloud Germany
+
+**Rôles appropriés**
+
+- Administrateur général
+- Administrateur des comptes
 
 > [!IMPORTANT]
 > En fonction de l’évolution des besoins des clients, notre stratégie de Cloud pour l’Allemagne se concentrera sur la livraison des nouvelles régions Cloud en Allemagne qui sont cohérentes avec notre offre Cloud mondiale. Dans cette optique, nous n’accepterons plus de nouveaux clients ou nous ne déploierons plus de nouveaux services à partir de Microsoft Cloud actuellement disponible en Allemagne. Les clients existants peuvent continuer à utiliser les services Cloud actuels actuellement disponibles, que nous allons conserver avec les mises à jour de sécurité nécessaires.
@@ -41,7 +46,7 @@ Gestion des licences | Centre d’administration Office 365 ou portail de gestio
 
 Si vous êtes connecté à l'Espace partenaires de Microsoft Cloud Germany, vous pouvez ouvrir le portail Azure de Microsoft Cloud Germany sans avoir à se reconnecter. Toutefois, si vous devez vous connecter directement au Portail Azure pour Microsoft Cloud Allemagne, accédez à [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Une fois que vous êtes connecté au portail Azure de Microsoft Cloud Germany, ouvrez votre page de présentation d’Azure Active Directory (Azure AD) et suivez les instructions de ces rubriques :
+Une fois que vous êtes correctement connecté à la Portail Azure pour Microsoft Cloud Allemagne, ouvrez votre page de présentation Azure Active Directory (Azure AD), puis suivez les instructions dans les articles suivants :
 
 > [!NOTE]  
 > Sélectionnez les liens ci-dessous pour accéder à un autre site Web.

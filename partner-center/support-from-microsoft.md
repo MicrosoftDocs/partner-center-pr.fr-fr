@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002805"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284143"
 ---
 # <a name="support-from-microsoft"></a>Support de Microsoft
 
@@ -24,7 +24,7 @@ ms.locfileid: "108002805"
 
 **Rôles appropriés**
 
-- Agent d’aide
+- Agent du support technique
 
 Si vous rencontrez des problèmes avec un service Microsoft ou avec l’espace partenaires, vous pouvez signaler le problème à Microsoft, faire remonter le problème à Microsoft pour obtenir de l’aide et suivre le problème jusqu’à ce qu’il soit résolu.
 

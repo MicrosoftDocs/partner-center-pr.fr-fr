@@ -8,16 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768769"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284330"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Vue d’ensemble de la co-vente du connecteur pour Dynamics 365 CRM
 
-### <a name="appropriate-roles"></a>Rôles appropriés
+**Rôles appropriés**
 
 - Administrateur des références
 - Administrateur système ou personnalisateur de système sur le CRM
@@ -67,7 +67,7 @@ Avant d’installer la solution, assurez-vous de respecter les conditions préal
 
 ## <a name="test-before-you-go-live"></a>Testez avant de passer en temps réel
 
-Avant d’installer, de configurer et de personnaliser la solution Power automate sur l’environnement de production, veillez à tester la solution sur une instance CRM intermédiaire. Vous devez effectuer les opérations suivantes :
+Avant d’installer, de configurer et de personnaliser la solution Power automate sur l’environnement de production, veillez à tester la solution sur une instance CRM intermédiaire. Plusieurs actions sont nécessaires :
 
 - Installez la solution Power automate sur une instance CRM de l’environnement intermédiaire.
 - Configurez et personnalisez la solution Power automate dans un environnement intermédiaire.
@@ -110,7 +110,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="Capture d’écran montrant la modification des connexions.":::
 
-1. Modifiez chacune des connexions une par une en cliquant sur l’icône de points de suspension. Ajoutez les connexions appropriées.
+1. Modifiez chacune des connexions individuellement en sélectionnant l’icône représentant des points de suspension. Ajoutez les connexions appropriées.
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Capture d’écran montrant les connexions listées.":::
 

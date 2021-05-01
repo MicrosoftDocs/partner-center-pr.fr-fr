@@ -8,14 +8,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712815"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284432"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Présentation des déclarations fiscales de l’IRS envoyées par Microsoft
+
+**Rôles appropriés**
+
+- Administrateur général
 
 Vous pouvez recevoir une ou plusieurs formes fiscales de Microsoft chaque année. Cela dépend de votre emplacement et de la quantité de ventes ou de paiements que vous recevez. Microsoft est tenue de vous envoyer ces déclarations fiscales et de les transmettre aux services fiscaux américains (IRS).
 
@@ -69,7 +73,7 @@ Les formulaires fiscaux vous seront envoyés à partir des adresses suivantes :
 | **Question** | **Réponse** |
 |---|---|
 | **J’ai reçu le formulaire 1042-S de Microsoft. Qu’est-ce que c’est ?** | Microsoft vous a envoyé une ou plusieurs déclarations fiscales 1042-S, car nous vous avons effectué des paiements qui sont imposables aux États-Unis et qui doivent être déclarés aux services fiscaux américains.  La déclaration 1042-S est utilisée dans ce cadre. | 
-| **Que dois-je faire avec ces déclarations ?** | Généralement, vous n’avez aucune action particulière à faire. Vous pouvez avoir besoin de présenter cette déclaration 1042-S aux services fiscaux de votre pays en vue d’obtenir un crédit d’impôt.  Pour obtenir plus d’informations sur ce sujet, consultez vos propres conseillers fiscaux. | 
+| **Que dois-je faire avec ces déclarations ?** | Généralement, vous n’avez aucune action particulière à faire. Vous pouvez avoir besoin de présenter cette déclaration 1042-S aux services fiscaux de votre pays en vue d’obtenir un crédit d’impôt.  Pour obtenir plus d’informations à ce sujet, consultez vos propres conseillers fiscaux. | 
 | **Pourquoi des taxes ont-elles été retenues sur mes paiements quand j’ai rempli la déclaration W8 ?** | Les taxes sont retenues dans les cas suivants :<br/><br/>1. vous n’avez pas terminé la section du traité fiscal du W8 correctement, ou <br/>2. vous résidez dans un pays qui ne dispose pas d’un traité fiscal avec la États-Unis.<br/><br/>Vous pouvez visiter le centre partenaires à tout moment pour envoyer un formulaire W8 mis à jour.<br/><br/> **Remarque :** Tous les revenus ne sont pas soumis à la retenue fiscale. | 
 | **J’ai envoyé un formulaire W8 mis à jour avec des informations de traité valides. Microsoft peut-il rembourser les taxes qui ont été retenues ?** | Les taxes ayant été retenues ne peuvent pas être remboursées. Contactez vos conseillers fiscaux pour déterminer si vous pouvez revendiquer un crédit local pour ces taxes ou si vous pouvez demander un remboursement auprès de l’IRS. | 
 | **Quelles sont les ventes déclarées sur le formulaire 1042-S ?** | Seules les ventes **réalisées auprès d’acheteurs résidant aux États-Unis et assujetties à des taxes** doivent être déclarées.  Les autres ventes n’ont pas à être déclarées. | 

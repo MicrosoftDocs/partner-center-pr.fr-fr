@@ -9,14 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768684"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284449"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Déplacez les clients basés sur des licences à partir d’autres canaux & partenaires vers le programme du fournisseur de solutions Cloud
+
+**Rôles appropriés**
+
+- Administrateur des comptes
+- Agent commercial
+- Agent de facturation
 
 Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonnements à un autre partenaire ou gérer les abonnements achetés ailleurs, vous pouvez les déplacer manuellement. Vous pouvez également déplacer des clients dans l’espace partenaires à partir d’un autre canal.
 

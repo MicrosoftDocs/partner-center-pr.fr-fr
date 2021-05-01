@@ -8,16 +8,16 @@ description: Synchronisez vos références dans l’espace partenaires avec votr
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960949"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284381"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
-### <a name="appropriate-roles"></a>Rôles appropriés
+**Rôles appropriés**
 
 - Administrateur des références
 - Administrateur système ou personnalisateur de système sur le CRM
@@ -49,14 +49,12 @@ Pour synchroniser les références entre l’espace partenaires et le CRM Salesf
     - Définissez les paramètres selon vos besoins.
 [Référence](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. Dans Salesforce, installez les champs et les objets personnalisés à l’aide du programme d’installation de package ci-dessous.
-  
-Cliquez [ici](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) pour installer le package dans n’importe quelle entreprise.
+3. Dans Salesforce, installez des champs et des objets personnalisés à l’aide du [programme d’installation de package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). À utiliser pour installer le package dans n’importe quelle entreprise.
 
+>[!NOTE]
+>Si vous installez dans un bac à sable (sandbox), vous devez remplacer la partie initiale de l’URL par http://test.salesforce.com
 
-Remarque : Si vous installez dans un bac à sable (sandbox), vous devez remplacer la partie initiale de l’URL par http://test.salesforce.com
-
-4. Dans Salesforce, ajoutez des solutions Microsoft à la liste des **opportunités** associées. Une fois que vous avez ajouté, cliquez sur l’icône de **clé** et mettez à jour les propriétés
+4. Dans Salesforce, ajoutez des solutions Microsoft à la liste des **opportunités** associées. Une fois ajouté, sélectionnez l’icône de **clé** et mettez à jour les propriétés
 
 ## <a name="best-practice-test-before-you-go-live"></a>Meilleure pratique : testez avant de passer en direct
 
@@ -78,7 +76,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 3. Sélectionnez **solutions** dans la barre de navigation de gauche.
 
-4. Cliquez sur le lien **ouvrir AppSource** dans le menu supérieur.
+4. Sélectionnez le lien **ouvrir AppSource** dans le menu supérieur.
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Ouvrir AppSource":::
 
@@ -86,7 +84,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Cliquez sur le bouton **Télécharger maintenant** , puis sur **Continuer**.
+6. Sélectionnez le bouton **Télécharger maintenant** , puis **continuez**.
 
 7. Cela ouvre la page dans laquelle vous pouvez sélectionner l’environnement CRM Salesforce pour installer l’application.  Acceptez les conditions générales.
 
@@ -135,7 +133,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Commencer la modification du connecteur":::
 
-2. Modifiez chacune des connexions une par une en sélectionnant l’icône à trois points. Ajoutez les connexions appropriées.
+2. Modifiez chaque connexion individuellement en sélectionnant l’icône en trois points. Ajoutez les connexions appropriées.
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Modifier les connecteurs":::
 
@@ -177,7 +175,7 @@ Les API de webhook de l’espace partenaires vous permettent de vous inscrire au
 
 8. Maintenant, sélectionnez l’option inscription à un webhook de l’espace partenaires (version préliminaire d’Insider) et sélectionnez **exécuter**.
 
-9. Vérifiez que la fenêtre « exécuter le workflow » s’affiche dans le volet de droite, puis cliquez sur **Continuer**.
+9. Vérifiez que la fenêtre « exécuter le workflow » s’affiche dans le volet de droite, puis sélectionnez **Continuer**.
 
 10. Entrez les informations suivantes :
 
@@ -209,7 +207,7 @@ Plusieurs étapes de chacun des flux d’automate d’alimentation peuvent être
 
 2. Pour personnaliser les mappages de champs CRM pour les événements de création, sélectionnez **s’il s’agit d’une nouvelle opportunité partagée, puis**. Sélectionnez la sous-étape **si oui** , puis développez **création d’une nouvelle opportunité dans le CRM**. Vous pouvez modifier les mappages dans cette section à l’aide du Guide de mappage de champs.
 
-   1. Pour personnaliser les mappages de champs CRM pour les événements de mise à jour, cliquez sur l’étape « (étendue) synchroniser le prospect ou l’opportunité ».
+   1. Pour personnaliser les mappages de champs CRM pour les événements de mise à jour, sélectionnez l’étape « (étendue) synchroniser le prospect ou l’opportunité ».
 
    2. Sélectionnez **s’il s’agit d’une mise à jour d’une opportunité, puis**. Sélectionnez la sous-étape **si oui** , puis développez **si la différence entre les objets d’opportunité dans l’espace partenaires et CRM est déplacée**.  
 

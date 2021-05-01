@@ -8,16 +8,16 @@ description: Découvrez les réponses aux questions courantes sur l’utilisatio
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354540"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284211"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Résoudre les problèmes des connecteurs de référencements de covente
 
-**S’applique à :**
+**S’applique à**
 
 - Dynamics 365 CRM
 - CRM Salesforce
@@ -39,7 +39,7 @@ Les utilisateurs qui sont des administrateurs système ou des personnalisateurs 
 
 3. Les vendeurs partenaires ont-ils besoin de rôles spéciaux pour travailler sur l’espace partenaires ?
  
-Le rôle « administrateur des références » doit être attribué aux vendeurs partenaires. Pour plus d’informations, reportez-vous à la [vue d’ensemble des autorisations] (Create-User-Accounts-and-Set-Permissions).
+Le rôle « administrateur des références » doit être attribué aux vendeurs partenaires. Pour plus d’informations, consultez [vue d’ensemble des autorisations](create-user-accounts-and-set-permissions.md).
 
 4. Quels champs doivent être configurés en premier dans votre environnement CRM ? 
 
@@ -131,7 +131,7 @@ E. Dans l’inscription au webhook de l’espace partenaires, sélectionnez **ex
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Questions et réponses sur l’exécution et la maintenance
 
-1. Comment résoudre les problèmes en cas de défaillances lors de l’exécution d’automate Power ?
+1. Comment dépanner les échecs pendant l’exécution d’automate Power ?
 
 Pour vous assurer que vos flux d’automati s’exécutent comme prévu et pour résoudre les problèmes d’échec lors de l’exécution, reportez-vous à [corriger les échecs de flux](/power-automate/fix-flow-failures).
 
@@ -163,7 +163,7 @@ Procédez comme suit :
 
 - Assurez-vous que le champ devise de référence est configuré dans l’environnement Salesforce. 
 
-4. Que devez-vous faire si le connecteur est déconnecté et que vous manquez une synchronisation de référence. 
+4. Que devez-vous faire si le connecteur est déconnecté et que vous manquez une synchronisation de référence ?
 
 Voici quelques-unes des options que vous pouvez essayer :
 
@@ -191,7 +191,7 @@ Vous devez ajouter le code du pays ISO à deux lettres au compte client dans CRM
 
 Pour créer une référence de covente, vous avez besoin d’une solution Microsoft de co-vente prête. 
 
-8. Que devez-vous faire lorsque vous voyez des opportunités de covente créées dans l’espace partenaires qui ne sont pas synchronisées avec CRM, même s’il n’y a pas d’erreurs de flow :
+8. Que devez-vous faire lorsque vous voyez des opportunités de covente créées dans l’espace partenaires qui ne sont pas synchronisées avec CRM, même s’il n’y a pas d’erreurs de Flow ?
 
 Effectuez les actions suivantes :
 
@@ -199,9 +199,9 @@ Effectuez les actions suivantes :
 
 - Si le flux est appelé, vérifiez tous les flux appelés et identifiez l’exécution du flux qui met à jour le CRM. Vous pouvez suivre les actions et vérifier si le service CRM a été mis à jour ou si un problème s’est produit.
 
-- Cochez *nouveau contrat** dans l’espace partenaires pour voir s’il est rempli avec l’ID CRM.
+- Cochez **nouveau contrat** dans l’espace partenaires pour voir s’il est rempli avec l’ID CRM.
 
-- Assurez-vous que la transaction n’est pas fermée par erreur en tant que « gagné » ou « perdue » dans l’espace partenaires.
+- Assurez-vous que la transaction n’est pas fermée accidentellement comme **conclue** ou **perdue** dans l’espace partenaires.
 
 ## <a name="next-steps"></a>Étapes suivantes
 

@@ -9,18 +9,20 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
-ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
+ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97893204"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284500"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transférer les abonnements du plan Azure d’un client à un autre partenaire
 
 **Rôles appropriés**
 
-- Partenaires du programme Fournisseur de solutions Cloud
+- Administrateur des comptes
+- Agent commercial
+- Agent de facturation
 
 Cet article décrit comment un client peut passer d’un fournisseur de solutions Cloud (CSP) à un autre dans le cadre d’un projet Azure.
 
@@ -42,7 +44,7 @@ Le client doit être en conversation avec les deux partenaires (actuels et futur
 - Les produits de la place de marché tiers sont transférés tant que les produits réussissent la vérification du droit de la place de marché.
     - Il n’existe aucune remise spéciale ou restriction régionale
     - Les produits ne sont pas basés sur un abonnement
-    - Le futur partenaire devrait travailler avec le serveur de publication pour s’assurer qu’il se trouve dans la liste verte pour le déploiement du produit.
+    - Le futur partenaire devrait travailler avec le serveur de publication pour s’assurer qu’il se trouve dans le allowlist pour le déploiement du produit
     - Si certaines de ces conditions ne sont pas respectées pour transférer les produits de la place de marché, ils doivent être annulés, les abonnements Azure transférés, puis reacheter les produits de la place de marché auprès du nouveau partenaire.
 
 **Configuration requise :**

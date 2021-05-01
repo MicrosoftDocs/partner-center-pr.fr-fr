@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728927"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823382"
 ---
 # <a name="april-2021-announcements"></a>Annonces d’avril 2021
 
 Cette page contient les annonces de l’Espace partenaires Microsoft d’avril 2021.
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Politique de période de retour des logiciels de fournisseur de solutions Cloud (CSP) et avis d’expiration du lien de téléchargement
+
+### <a name="categories"></a>Catégories
+
+- Date : 21/04/2021
+- Fonctions
+
+### <a name="summary"></a>Résumé
+
+Des modifications ont été apportées à la politique concernant la période de retour des logiciels CSP et l’expiration du lien de téléchargement.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Partenaires proposant des offres d’abonnement à des logiciels avec licence perpétuelle ou non dans le programme CSP
+
+### <a name="details"></a>Détails
+
+Tenez compte des notifications importantes qui suivent concernant les achats d’abonnement à des logiciels avec licence perpétuelle ou non, via l’Espace partenaires :
+
+#### <a name="software-return-period-policy"></a>Politique relative à la période de retour des logiciels
+
+Comme le stipule le Contrat Partenaire Microsoft (MPA), à partir du 1er juin 2021, la période de retour pour les offres logicielles dans le cadre du programme CSP passe de 60 jours à 30 jours à compter de la date de la commande.
+
+Une fois qu’une commande a été effectuée pour une offre logicielle, les partenaires auront 30 jours à compter de la date de commande pour envoyer les révisions suivantes :
+
+- Toute licence perpétuelle de logiciel retournée pendant la période de retour de 30 jours fera l’objet d’un remboursement intégral du prix d’achat.
+
+- Tout abonnement à un produit logiciel retourné pendant la période de retour de 30 jours fera l’objet d’un remboursement calculé au prorata du prix d’achat.
+
+Ce message fait suite aux e-mails que nous avons envoyés en décembre 2020 et en avril 2021 à tous les partenaires CSP, au sujet de la période de retour et d’autres informations sur le contrat MPA. Reportez-vous à ces e-mails pour obtenir des informations complètes sur les modifications qui affectent le contrat MPA.
+
+#### <a name="software-download-link-expiry"></a>Expiration du lien de téléchargement de logiciel
+
+À compter du 3 juin 2021, les liens de téléchargement pour les abonnements à des logiciels avec licence perpétuelle ou non via l’Espace partenaires expireront au bout de cinq jours à compter du premier téléchargement. La période d’expiration s’appliquera à tous les achats effectués avant le 3 juin 2021, ainsi que le 3 juin 2021 et après cette date.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Lisez les [Questions fréquentes relatives à la période de retour et à l’expiration du lien de téléchargement dans le programme CSP](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf), et informez toutes les équipes concernées de votre organisation de ces modifications :
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Si vous avez des questions sur ces offres, consultez les communautés Yammer appropriées.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Programme Open License : transition des revendeurs vers le programme Fournisseur de solutions Cloud (CSP)

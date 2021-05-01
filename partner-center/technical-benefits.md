@@ -9,14 +9,18 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
-ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
+ms.openlocfilehash: b6af92907f56f85435cf3fb1c16b13196cf35e08
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "107742118"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284483"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explorer les services de prévente technique et de déploiement (TPD) 
+
+**Rôles appropriés**
+
+- Administrateur partenaire MPN
 
 Découvrez les avantages Microsoft Partner Network (MPN) dont vous bénéficiez dans le cadre des services de prévente technique et de déploiement, notamment les consultations, l’assistance de prévente, les heures de conseil et bien plus encore.
 
