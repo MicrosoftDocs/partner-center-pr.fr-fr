@@ -514,9 +514,6 @@
         - name: Acheter des offres de la Place de marché
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Gérer les licences dans les offres de la place de marché
-          href: csp-commercial-marketplace-licensing.md
-          displayName: csp
         - name: Offres exclusives des éditeurs de logiciels indépendants dans la Place de marché
           href: isv-opt-in.md
         - name: Gérer les offres de la Place de marché
