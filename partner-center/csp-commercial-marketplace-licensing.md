@@ -1,7 +1,7 @@
 ---
 title: Gérer les licences dans les offres de la place de marché
 ms.topic: how-to
-ms.date: 04/27/2021
+ms.date: 04/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment configurer et gérer les licences pour vos offres de la place de marché ISV commercial.
@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b2281696a2fe69253cd033eb2a7eef7fb3046f3
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f049ffda4c3d9476c09257fc814e5acac393cb54
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284871"
+ms.locfileid: "108328013"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Gérer les licences dans les offres de la place de marché
 
@@ -30,25 +30,26 @@ Cet article vous guide tout au long du processus de configuration d’une offre 
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
-Avant de commencer ce processus, vous devez vous familiariser avec les informations ci-dessous.
+### <a name="commercial-marketplace-basics"></a>Concepts de base du Marketplace commercial
 
-### <a name="review-the-azure-marketplace-documentation"></a>Consulter la documentation de la place de marché Azure
+Avant de commencer ce processus, vous devez vous familiariser avec les bases de la place de marché commercial. Les articles du tableau ci-dessous vous aideront à démarrer. 
 
-Les articles ci-dessous contiennent des informations que vous devez connaître avant de continuer. 
+| Rubrique  | Article  |
+|-------|--------|
+|Plans de la place de marché commercial | [Plans et tarification pour les offres de la place de marché commerciale](/azure/marketplace/plans-pricing)    |
+|Offres de la place de marché commercial  | [Types de listes](/azure/marketplace/determine-your-listing-type)    |
+|Comptes de la place de marché commercial |  [Créer un compte Place de marché commerciale dans l’Espace partenaires](/azure/marketplace/create-account) |
 
-- [Créer une offre Dynamics 365 for Customer Engagement et PowerApps](https://docs.microsoft.com/azure/marketplace/dynamics-365-customer-engage-offer-setup)
-- [Créer un compte Place de marché commerciale dans l’Espace partenaires](https://docs.microsoft.com/azure/marketplace/create-account)
-
-### <a name="create-your-offer-id"></a>Créer votre ID d’offre
+### <a name="determine-your-offer-id"></a>Déterminer votre ID d’offre
 
 Dans les procédures ci-dessous, vous serez invité à entrer un ID d’offre. Prenez le temps de trouver un ID d’offre approprié, en gardant à l’esprit les points suivants :
 
 - Cet ID est visible par les clients dans l’adresse web de l’offre de la Place de marché et des modèles Resource Manager, le cas échéant.
 - L’ID d’offre associé à l’ID d’éditeur doit contenir moins de 40 caractères.
-- Utilisez uniquement des lettres minuscules et des chiffres. L’ID de l’offre peut inclure des traits d’Union et des traits de soulignement, mais aucun espace. Par exemple, si votre ID d’éditeur est testpublisherid et que vous entrez test-offer-1, l’adresse Web de l’offre sera https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1 .
+- Utilisez uniquement des lettres minuscules et des chiffres. L’ID de l’offre peut inclure des traits d’Union et des traits de soulignement, mais aucun espace. Par exemple, si votre ID d’éditeur est `testpublisherid` et que vous entrez `test-offer-1` , l’adresse Web de l’offre sera `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
 - Cet ID ne peut pas être changé une fois que vous avez sélectionné **Créer**.
 
-### <a name="create-your-offer-alias"></a>Créer votre alias d’offre
+### <a name="determine-your-offer-alias"></a>Déterminer votre alias d’offre
 
 L’alias d’offre est le nom utilisé pour l’offre dans l’espace partenaires. Vous aurez également besoin d’un alias d’offre approprié qui respecte les instructions ci-dessous :
 
@@ -116,9 +117,9 @@ L’offre sera en ligne dans 4-6 heures.
 
     - **Pour les offres avec licence activée avec l’option d’installation gratuite**: Si votre offre ne nécessite pas de vérification de licence, les utilisateurs administrateurs verront s’afficher un bouton **obtenir maintenant** en plus de **me contacter**. Les utilisateurs qui souhaitent essayer votre option d’installation gratuite doivent cliquer sur **obtenir maintenant**, ce qui leur permet d’installer l’offre sur le centre d’administration Power Platform. Les utilisateurs peuvent toujours utiliser **me contacter** s’ils ont des questions ou s’ils souhaitent effectuer une mise à niveau vers un plan payant.
 
-## <a name="register-isv-connect-deal-in-dealreg"></a>Inscrire la transaction ISV Connect dans DealReg
+## <a name="register-isv-connect-deal-in-deal-registration"></a>Inscrire la transaction ISV Connect dans l’enregistrement des transactions
 
-L’étape suivante consiste à inscrire votre contrat. Pour ce faire, consultez [inscrire vos demandes](https://docs.microsoft.com/partner-center/register-deals).
+Avant de pouvoir attribuer des licences à un client, chaque vente doit être inscrite dans l’espace partenaires. Pour ce faire, consultez [inscrire vos demandes](register-deals.md).
 
 ## <a name="invite-the-customer"></a>Inviter le client
 
@@ -126,18 +127,19 @@ Utilisez la procédure suivante pour inviter le client à participer à cette tr
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard/).
 2. Dans le menu de navigation de gauche, sélectionnez **Marketplace commercial/vue d’ensemble**.
-3. Filtre pour les demandes **envoyées** , sélectionnez l’onglet **en cours** , puis sélectionnez le contrat que vous souhaitez.
-4. Dans la page vue d’ensemble de cette offre, sélectionnez **gérer les licences**.
-5. Dans la fenêtre **gérer les licences** , sélectionnez le client dans la liste déroulante Détails du **client** . Si la relation client n’existe pas encore, sélectionnez **+ inviter un nouveau client à donner son consentement**.
-6. Copiez le lien qui s’affiche.
-7. Envoyez ce lien par courrier électronique à l’administrateur général ou à l’administrateur de facturation de votre client, et demandez-lui d’utiliser ce lien pour accéder à admin.microsoft.com et pour accepter et autoriser la relation que vous établissez.
+3. Dans le menu de navigation de gauche, sélectionnez **références**, puis sélectionnez **inscription des transactions**.
+4. Filtre pour les demandes **envoyées** , sélectionnez l’onglet **en cours** , puis sélectionnez le contrat que vous souhaitez.
+5. Dans la page vue d’ensemble de cette offre, sélectionnez **gérer les licences**.
+6. Dans la fenêtre **gérer les licences** , sélectionnez le client dans la liste déroulante Détails du **client** . Si la relation client n’existe pas encore, sélectionnez **+ inviter un nouveau client à donner son consentement**.
+7. Copiez le lien qui s’affiche.
+8. Envoyez ce lien par courrier électronique à l’administrateur général ou à l’administrateur de facturation de votre client, et demandez-lui d’utiliser ce lien pour accéder à admin.microsoft.com et pour accepter et autoriser la relation que vous établissez.
 
     >[!NOTE]
     >La relation ne sera pas établie tant que le client n’aura pas effectué cette étape.
 
 ## <a name="activate-manage-and-remove-your-licenses"></a>Activer, gérer et supprimer vos licences
 
-Une fois votre client établi, vous pouvez commencer à ajouter des plans à partir de votre offre et affecter des licences à chaque plan.
+Une fois que votre client a autorisé la relation avec vous, vous pouvez commencer à ajouter des plans à partir de votre offre et affecter des licences à chaque plan.
 
 1. Dans la fenêtre gérer les licences pour cette offre, sélectionnez **+ Ajouter un plan**.
 2. Complétez les champs **plans pour cette solution** et **nombre de licences** , puis sélectionnez **mettre à jour les licences**. Les licences seront disponibles sur admin.microsoft.com pour que les clients puissent les gérer et les affecter aux employés.
@@ -145,3 +147,7 @@ Une fois votre client établi, vous pouvez commencer à ajouter des plans à par
     - Pour modifier le nombre de licences pour un plan existant, entrez le nouveau nombre dans le champ **nombre de licences** , puis sélectionnez **mettre à jour les licences**.
 
     - Pour désactiver ou supprimer des licences pour un contrat, sélectionnez l’icône de la corbeille dans le champ **actions** , puis sélectionnez **mettre à jour les licences**.
+
+## <a name="next-steps"></a>Étapes suivantes
+
+[Ressources de licences](support-resources-licensing.md)
