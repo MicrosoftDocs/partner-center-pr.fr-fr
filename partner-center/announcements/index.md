@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/27/2021
-ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172421"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328030"
 ---
 # <a name="partner-center-announcements"></a>Espace partenaires - Annonces
 
@@ -22,6 +22,7 @@ Découvrez les mises à jour importantes de l’Espace partenaires. Nous mettons
 
 |**Catégorie**|**Annonces d’avril 2021**|**Annoncé**|
 |---------|:---------|:---------|
+|Préparation|[Mise à jour de l’API de validation des adresses client CSP en juin - Fonctionnalité de test disponible dès maintenant](2021-april.md#10)|30 avril|
 |Fonctionnalités|[Nouvel emplacement pour la documentation Swagger de l’API de l’Espace partenaires](2021-april.md#9)|26 avril|
 |Fonctionnalités|[Politique de période de retour des logiciels de fournisseur de solutions Cloud (CSP) et avis d’expiration du lien de téléchargement](2021-april.md#8)|21 avril|
 |Développer votre activité|[Programme de licence Open : transition des revendeurs vers le programme du fournisseur de solutions Cloud (CSP)](2021-april.md#7)|19 avril|
