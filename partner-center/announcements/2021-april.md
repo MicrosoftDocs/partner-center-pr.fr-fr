@@ -10,17 +10,96 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823382"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328047"
 ---
 # <a name="april-2021-announcements"></a>Annonces d’avril 2021
 
 Cette page contient les annonces de l’Espace partenaires Microsoft d’avril 2021.
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Préparation : Mise à jour de l’API de validation des adresses client CSP en juin - Fonctionnalité de test disponible dès maintenant
+
+### <a name="categories"></a>Catégories
+
+- Date : 30/04/2021
+- Préparation
+
+### <a name="summary"></a>Résumé
+
+Pour aider nos partenaires et nos clients à gérer leur entreprise en toute confiance, nous les invitons à tester les modifications qui ont été apportées à l’API de validation des adresses, disponible pour le monde entier.
+
+### <a name="impacted-audience"></a>Public concerné
+
+Les partenaires à facturation directe CSP et les fournisseurs indirects qui créent ou mettent à jour l’adresse de clients existants
+
+### <a name="details"></a>Détails
+
+Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des adresses clients qui soit conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme Fournisseur de solutions Cloud (CSP). Depuis le 31 mars 2021, nous avons apporté des modifications à l’API de validation des adresses. Nous invitons les partenaires à tester l’API avant sa mise en ligne à la fin du mois de juin 2021. 
+
+Notez que ces modifications affectent uniquement l’API de validation des adresses. Les API de création de client et de mise à jour du profil de facturation ne sont pas affectées. Même s’il n’est pas obligatoire d’utiliser l’adresse suggérée avec l’API de création de client, il est vivement recommandé de le faire.
+
+La réponse renverra l’un des messages d’état suivants :
+
+| Statut     | Description |    Nombre d’adresses suggérées retournées |
+|-------|---------------|-------------------|
+|Verified shippable (Valide pour l’expédition) | L’adresse est vérifiée, et valide en tant qu’adresse d’expédition. | Unique |
+|Verified | L’adresse est vérifiée. | Unique |
+|Interaction required (Interaction nécessaire) | L’adresse suggérée est très différente de la précédente et nécessite une confirmation de l’utilisateur. | Unique |
+|Street partial (Informations sur la voie incomplètes) | La rue donnée dans l’adresse est partielle et nécessite davantage d’informations. | Multiple (maximum trois) |
+|Premises partial (Informations sur le bâtiment incomplètes) | Les informations fournies sur le bâtiment (numéro de bâtiment, numéro de suite, etc.) sont incomplètes. | Multiple (maximum trois) |
+|Multiple | Plusieurs champs sont incomplets dans l’adresse (notamment ceux concernant la voie et le bâtiment). | Multiple (maximum trois) |
+|Aucun | L’adresse est incorrecte. | Aucun |
+|Non validée | L’adresse n’a pas pu être envoyée au processus de validation. | Aucun |
+
+Les codes postaux des États-Unis retournent quatre chiffres supplémentaires + un trait d’union, par exemple 12345-6789.
+
+### <a name="next-steps"></a>Étapes suivantes
+
+- Pour obtenir des instructions plus détaillées, consultez la documentation technique et les questions fréquemment posées dans le [groupe de partenaires dédié](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/).
+- Préparez l’intégration des modifications à l’aide de l’API Espace partenaires et de l’expérience utilisateur web. 
+- Partagez votre ID de locataire sandbox avec l’expert technique (Ali Khaki) afin de l’inclure dans la série de tests et de pouvoir commencer à préparer la mise à jour. 
+- Si vous utilisez une solution de fournisseur de panneau de contrôle (CPV), consultez le fournisseur concerné.
+
+### <a name="questions"></a>Des questions ?
+
+Si vous avez besoin d’aide pour vos opérations Microsoft, contactez le groupe Yammer de votre support partenaire ou [faites une demande de service](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nouvel emplacement pour la documentation Swagger de l’API de l’Espace partenaires
+
+### <a name="categories"></a>Catégories
+
+- Date : 26/04/2021
+- Fonctions
+
+### <a name="summary"></a>Résumé
+
+Les documents Swagger de l’API Espace partenaires ont été déplacés de l’[ancien site de documentation Swagger](https://apidocs.microsoft.com/services/partnercenter) vers le [nouveau site de documentation Swagger](https://docs.microsoft.com/rest/api/partner-center-rest/).
+
+### <a name="impacted-audience"></a>Public concerné
+
+Les partenaires à facturation directe et les fournisseurs indirects participant au programme CSP qui utilisent les API de l’Espace partenaires.
+
+### <a name="details"></a>Détails
+
+À compter du 26 avril 2021, la documentation Swagger de l’API Espace partenaires, y compris le contenu de l’API REST, se trouve sur un [nouveau site](https://docs.microsoft.com/rest/api/partner-center-rest/). L’ancien site deviendra inaccessible dans les semaines qui suivront.
+
+### <a name="benefits"></a>Avantages
+
+La documentation Swagger de l’API Espace partenaires fournit une **fonction d’essai**. Pour utiliser cette fonction, vous devez disposer d’un jeton du porteur, que vous pouvez générer en suivant les étapes indiquées dans [Authentification auprès de l’Espace partenaires](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication).
+
+### <a name="next-steps"></a>Étapes suivantes
+
+Partagez ces informations dans votre organisation pour permettre à l’équipe compétente de passer en revue et de mettre à jour ses processus.
+
+### <a name="questions"></a>Vous avez des questions ?
+
+Si vous avez des questions sur ces offres, consultez les communautés Yammer appropriées.
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Politique de période de retour des logiciels de fournisseur de solutions Cloud (CSP) et avis d’expiration du lien de téléchargement

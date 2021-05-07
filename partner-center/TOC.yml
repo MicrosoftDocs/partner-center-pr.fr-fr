@@ -30,8 +30,11 @@
         - name: Activer les avantages pour PMC
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: Offres d’adhésion
+    - name: Avantages des adhésions
       items:
+        - name: Vue d’ensemble des avantages
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: Trouver vos avantages MPN
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Payer les frais de compétence
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: Compétences
+        - name: Stratégie et utilisation des avantages - FAQ
+          href: benefits-faq-new.md
+        - name: Questions fréquentes (FAQ) sur les avantages
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: Afficher ou télécharger votre facture MPN
+          href: mpn-view-print-maps-invoice.md
+    - name: Avantages disponibles
       items:
-        - name: En savoir plus sur les compétences
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: S’inscrire au programme Learning Partner
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Questions fréquentes (FAQ) sur les compétences
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: Exemption de compétence de développement d’applications
-          href: app-dev-isv.md
-        - name: Utiliser le rapport de compétences
-          href: mpn-skills-report.md
-    - name: Spécialisations avancées
-      items:
-        - name: Montrer votre expertise
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: Appliquer ou vérifier l’état
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Devenir Azure Expert MSP
-      href: azure-expert-msp.md
-    - name: Avantages
-      items:
-        - name: Vue d’ensemble des avantages
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: Avantages de la mise sur le marché
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: Démonstrations pour les partenaires MPN
           href: mpn-demos.md
           displayName: mpn
-        - name: Stratégie et utilisation des avantages - FAQ
-          href: benefits-faq-new.md
-        - name: Questions fréquentes (FAQ) sur les avantages
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Azure et les avantages du cloud
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: Conditions d’éligibilité
               href: software-assurance-dps-requirements.md
-    - name: Factures et taxes
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: Testez les nouvelles fonctionnalités
-      href: test-drive-new-features.md
+    - name: Compétences
+      items:
+        - name: En savoir plus sur les compétences
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: S’inscrire au programme Learning Partner
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: Questions fréquentes (FAQ) sur les compétences
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: Payer les frais de compétence
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: Exemption de compétence de développement d’applications
+          href: app-dev-isv.md
+        - name: Utiliser le rapport de compétences
+          href: mpn-skills-report.md
+    - name: Spécialisations avancées
+      items:
+        - name: Montrer votre expertise
+          href: advanced-specializations.md
+        - name: Appliquer ou vérifier l’état
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Devenir Azure Expert MSP
+      href: azure-expert-msp.md
 - name: Fournisseur de solutions Cloud (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Contrats client Microsoft (par région, par langue)'
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: Accès à la facturation directe limité
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -514,6 +510,9 @@
         - name: Acheter des offres de la Place de marché
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
+        - name: Gérer les licences dans les offres de la place de marché
+          href: csp-commercial-marketplace-licensing.md
+          displayName: csp
         - name: Offres exclusives des éditeurs de logiciels indépendants dans la Place de marché
           href: isv-opt-in.md
         - name: Gérer les offres de la Place de marché
@@ -576,6 +575,8 @@
         - name: Transférer des abonnements Azure
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: Transférer les abonnements du plan Azure d’un client à un autre partenaire
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Abonnements à des logiciels
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

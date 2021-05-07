@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441283"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702907"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Comprendre les champs des fichiers de rapprochement basés sur les licences de l’espace partenaires
 
@@ -46,8 +46,8 @@ Pour rapprocher vos modifications des commandes d’un client, comparez le **Syn
 | OfferId | Identificateur d’offre unique. Identificateur d’offre standard, tel que défini dans la liste de prix. *Cette valeur ne correspond pas à l’ID de l' **offre** de la liste de prix. Consultez plutôt **DurableOfferID** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferId | Identificateur unique de l’offre durable, tel que défini dans la liste des prix. *Cette valeur correspond à l’ID de l' **offre** de la liste de prix.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Le nom de l’offre de service achetée par le client, comme défini dans la liste des prix. | *Microsoft Office 365 (Plan&amp;nbsp;E3)* |
-| SubscriptionStartDate | Date de début de l’abonnement. L’heure est toujours définie sur le début de la journée, 0:00. Ce champ est défini sur le jour après l’envoi de la commande. Utilisé avec **SubscriptionEndDate** pour déterminer : si le client est encore au cours de la première année de l’abonnement, ou si l’abonnement a été renouvelé pour l’année suivante. | *2/1/2019 0:00* |
-| SubscriptionEndDate | Date de fin de l’abonnement. L’heure est toujours définie sur le début de la journée, 0:00. *12 mois plus **x** jours après la date de début* , à aligner sur la date de facturation du partenaire ou sur *12 mois à compter de la date de renouvellement*. Lors du renouvellement, les prix sont mis à jour selon la liste des prix en vigueur. La communication avec les clients peut être nécessaire avant le renouvellement automatique. | *2/1/2019 0:00* |
+| SubscriptionStartDate | Date de début de l’abonnement au format UTC. L’heure est toujours définie sur le début de la journée, 0:00. Ce champ est défini sur le jour après l’envoi de la commande. Utilisé avec **SubscriptionEndDate** pour déterminer : si le client est encore au cours de la première année de l’abonnement, ou si l’abonnement a été renouvelé pour l’année suivante. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Date de fin de l’abonnement au format UTC. L’heure est toujours définie sur le début de la journée, 0:00. *12 mois plus **x** jours après la date de début* , à aligner sur la date de facturation du partenaire ou sur *12 mois à compter de la date de renouvellement*. Lors du renouvellement, les prix sont mis à jour selon la liste des prix en vigueur. La communication avec les clients peut être nécessaire avant le renouvellement automatique. | *2/1/2019 0:00* |
 | ChargeStartDate | Date de début des frais. L’heure est toujours définie sur le début de la journée, 0:00. Utilisé pour calculer les frais quotidiens (*proratas* ) lorsqu’un client change de numéro de licence. | *2/1/2019 0:00* |
 | ChargeEndDate | Jour de fin des frais. L’heure indique toujours la fin de la journée, 23:59. Utilisé pour calculer les frais quotidiens (*proratas* ) lorsqu’un client change de numéro de licence. | *2/28/2019 23:59* |
 | ChargeType | [Type de frais ou d'](recon-file-charge-types.md) ajustement. | Consultez [types de frais](recon-file-charge-types.md). |

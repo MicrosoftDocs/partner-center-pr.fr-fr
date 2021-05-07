@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120713"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702788"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Champs du fichier de rapprochement des achats à usage unique CSP
 
@@ -33,12 +33,12 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | CustomerId | Identificateur Microsoft unique du client au format GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nom de l’organisation du client comme indiqué dans l’Espace partenaires. Cette colonne est importante pour rapprocher la facture de vos informations système. | *Jeanne moderne client DE2* |
 | CustomerDomainName | Nom de domaine du client. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *ANNULATION* |
+| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *DE* |
 | InvoiceNumber | Numéro de facture associé au fichier de rapprochement.  | *G002297372* |
 | MpnId | Identificateur MPN du partenaire CSP. Pour plus d’informations, consultez [Comment dénombrer par partenaire](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. | *6048879* |
 | OrderId | Identificateur unique d’une commande dans la plateforme de facturation Microsoft. Peut être utile pour identifier la commande lorsque vous contactez le support technique. Non utilisé pour le rapprochement. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Date à laquelle la commande a été passée. | *10/3/2020* |
+| OrderDate | Date en heure UTC à laquelle la commande a été placée. | *10/3/2020* |
 | ProductId | Identificateur unique du produit. | *DZH318Z0BNZ5* |
 | SkuId | Identificateur unique de la référence (SKU). | *006G* |
 | AvailabilityId | Identificateur unique de disponibilité. | *DZH318Z08B80* |

@@ -6,13 +6,13 @@ ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 03/05/2021
-ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 05/06/2021
+ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
+ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087040"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "109240514"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questions courantes sur les paiements et les taxes
 
@@ -84,19 +84,21 @@ Si un profil fiscal est arrivé à expiration ou sur le lieu d’expirer, cela s
 
 - Si la commande a été payée partiellement par votre client, le montant acquis sera basé sur le montant partiellement payé après déduction des frais et taxes appropriées.
 - Vérifiez la responsabilité du paiement de la taxe par pays. Dans les pays où la taxe est responsable de Microsoft, Microsoft collecte et déduire les taxes des revenus de l’éditeur. Le montant de la transaction indiqué dans le relevé est le montant après paiement des taxes. Consultez [Détails des taxes](tax-details-marketplace.md).
-- Les offres SaaS et IaaS ont un tarif réduit de 10% au lieu de la valeur standard de 20%, ce qui laisse un taux de bénéfices de 90%. Cette promotion est valable jusqu’au 30 juin 2021.
+- Les offres SaaS et IaaS ont un tarif réduit de 10% au lieu de la valeur standard de 20%, ce qui laisse un taux de bénéfices de 90%. Il s’agit d’une exigence d' Co-Sell IP. Cette promotion est valable jusqu’au 30 juin 2021. 
 
 En **savoir plus** sur le contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), les [Détails](payout-policy-details.md)de la stratégie de paiement, le seuil de [paiement, la méthode et le délai](payment-thresholds-methods-timeframes.md), obtenir le [paiement](marketplace-get-paid.md), les [Détails fiscaux](tax-details-marketplace.md), les [instructions](payout-statement.md) de paiement
 
 ## <a name="earnings-reconciliation"></a>Rapprochement des bénéfices
 
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Comment faire pour rapprocher les relevés de paiement avec les rapports de commande ou d’utilisation dans Analytics ?
+
 Utilisez AssetID, orderID et l’ID d’article de ligne figurant dans le rapport historique des transactions de paiement avec les commandes analytiques et les rapports d’utilisation. Utilisez ce mappage :
 
 - History.AssetID de transaction de paiement = order.OrderID
 - History.OrderID & LineItem de transaction de paiement = Usage.UsageReferenceID [OrderID:LineItemID]
 
 ### <a name="how-do-i-know-when-to-expect-payments-for-my-customer-orders"></a>Comment faire pour connaître la date de paiement pour mes commandes client ?
+
 - Tout d’abord, à l’aide de votre assetID, vérifiez les commandes des clients dans les [rapports de commandes](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
 - Vérifiez le canal client pour votre abonnement client dans le [rapport clients](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
 - Pour les clients d’entreprise, les revenus de l’éditeur s’affichent dans le relevé 1-2 jours après la date du bon de commande.

@@ -9,53 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374384"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328064"
 ---
 # <a name="march-2021-announcements"></a>Annonces de mars 2021
 
 Cette page contient les annonces de l’Espace partenaires Microsoft de mars 2021.
 
-________________
-## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>API de validation des adresses client CSP mise à jour disponible pour les tests
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Préparation : Les modifications apportées à l’API de validation des adresses client CSP deviendront officielles en juin. La fonctionnalité de test est d’ores et déjà disponible.
 
 ### <a name="categories"></a>Catégories
 
-- Date : 31/03/2021
-- Fonctions
+- Date : 30/04/2021
+- Préparation
 
 ### <a name="summary"></a>Résumé
 
-Dans le cadre de notre engagement à aider les partenaires et les clients à exercer leur activité en toute confiance, nous invitons les partenaires dans le monde entier à tester les modifications apportées à l’API ValidateAddress.
+Pour aider nos partenaires et nos clients à gérer leur entreprise en toute confiance, nous les invitons à tester les modifications qui ont été apportées à l’API de validation des adresses, disponible pour le monde entier.
 
 ### <a name="impacted-audience"></a>Public concerné
 
-Tous les partenaires à facturation directe CSP et les fournisseurs indirects qui créent ou mettent à jour les détails des adresses client existantes
+Les partenaires à facturation directe CSP et les fournisseurs indirects qui créent ou mettent à jour l’adresse de clients existants.
 
 ### <a name="details"></a>Détails
 
-Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des adresses client conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme CSP. Aujourd’hui 31 mars 2021, nous avons introduit des modifications à l’API ValidateAddress que nous souhaiterions vous convier à tester, avant de valider et publier ces modifications en juin 2021. 
+Chez Microsoft, la confiance est notre priorité. Nous nous engageons à fournir une méthode de validation des adresses clients qui soit conforme, sûre et sécurisée pour les transactions liées aux abonnements des clients dans le cadre du programme Fournisseur de solutions Cloud (CSP). Le 31 mars 2021, nous avons apporté des modifications à l’API de validation des adresses. Nous invitons les partenaires à les tester avant leur validation et leur publication en juin 2021.
 
-Notez que ces modifications affectent uniquement l’API ValidateAddress. Les API CreateCustomer et UpdateBillingProfile ne sont pas affectées.
+Ces modifications affectent uniquement l’API de validation des adresses. Les API de création de client et de mise à jour du profil de facturation ne sont pas impactées.
 
 La réponse renverra l’un des messages d’état suivants :
 
-| Statut | Description | Nombre d’adresses suggérées retournées |
-|----------|-------------|-------------------|
-| VerifiedShippable | L’adresse est vérifiée, et valide en tant qu’adresse d’expédition. | Unique |
-| Verified | L’adresse est vérifiée. | Unique |
-| InteractionRequired | Les adresses suggérées ont beaucoup changé et nécessitent une confirmation de l’utilisateur. | Unique |
-| StreetPartial | La rue donnée dans l’adresse est partielle et nécessite davantage d’informations. | Multiple (maximum trois)|
-| PremisesPartial | Les locaux donnés (numéro de bâtiment, numéro de suite, etc.) sont partiels et nécessitent davantage d’informations. | Multiple (maximum trois) |
-| Multiple | Il existe plusieurs champs qui sont partiels dans l’adresse (y compris éventuellement StreetPartial et PremisesPartial). | Multiple (maximum trois) |
-| Aucun | L’adresse est incorrecte. | Aucun |
-| NotValidated | L’adresse n’a pas pu être envoyée au processus de validation.  | Aucun |
+| Statut     | Description |    Nombre d’adresses suggérées retournées |
+|-------|---------------|-------------------|
+|Verified shippable (Valide pour l’expédition) | L’adresse est vérifiée, et valide en tant qu’adresse d’expédition. | Unique |
+|Verified | L’adresse est vérifiée. | Unique |
+|Interaction required (Interaction nécessaire) | L’adresse suggérée est très différente de la précédente et nécessite une confirmation de l’utilisateur. | Unique |
+|Street partial (Informations sur la voie incomplètes) | La rue donnée dans l’adresse est partielle et nécessite davantage d’informations. | Multiple (maximum trois) |
+|Premises partial (Informations sur le bâtiment incomplètes) | Les informations fournies sur le bâtiment (numéro de bâtiment, numéro de suite, etc.) sont incomplètes. | Multiple (maximum trois) |
+|Multiple | Plusieurs champs sont incomplets dans l’adresse (notamment ceux concernant la voie et le bâtiment). | Multiple (maximum trois) |
+|Aucun | L’adresse est incorrecte. | Aucun |
+|Non validée | L’adresse n’a pas pu être envoyée au processus de validation. | Aucun |
 
-Une fois qu’une adresse a été soumise pour être validée par le biais de l’API ValidateAddress, le schéma de réponse suivant est retourné :
+Les codes postaux des États-Unis retournent quatre chiffres supplémentaires + un trait d’union, par exemple 12345-6789.
+
+Une fois qu’une adresse a été soumise pour validation par le biais de l’API de validation des adresses, le schéma de réponse suivant est retourné :
 
 ```csharp
 
@@ -103,18 +104,18 @@ Observez cet exemple de réponse : Notez que pour les États-Unis, la réponse 
 ```csharp
 
 "suggested_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Microsoft Way",
-    "postal_Code": "98052-8300"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Microsoft Way",
+              "postal_Code": "98052-8300"
 },
 "original_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Micro Way",
-    "postal_Code": "98052"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Micro Way",
+              "postal_Code": "98052"
 },
 "status":  "InteractionRequired",
 "validation_message": "Address field invalid for property: ‘Street’"
@@ -123,13 +124,19 @@ Observez cet exemple de réponse : Notez que pour les États-Unis, la réponse 
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- Partagez votre ID de locataire sandbox avec notre expert technique, Ali kaki, afin de l’inclure dans la série de tests et de pouvoir commencer à préparer la mise à jour.
+- Partagez votre ID de locataire sandbox avec l’expert technique (Ali Khaki) afin de l’inclure dans la série de tests et de pouvoir commencer à préparer la mise à jour.
 
 - Si vous utilisez une solution de fournisseur de panneau de contrôle (CPV), consultez le fournisseur concerné.
 
 ### <a name="questions"></a>Des questions ?
 
-Si vous avez des questions ou si vous avez besoin d’un support pour vos opérations avec Microsoft, contactez votre groupe Yammer de support partenaire.
+Si vous avez besoin d’aide pour vos opérations Microsoft, contactez le groupe Yammer de votre support partenaire.
+
+### <a name="change-log"></a>Journal des modifications :
+
+- 31 mars 2020 : date de publication d’origine
+
+- 30 avril 2021 : mises à jour de l’exemple de réponse et du code postal
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nouvelle expérience du centre d’administration Exchange (EAC)

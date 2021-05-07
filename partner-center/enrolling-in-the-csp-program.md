@@ -1,7 +1,7 @@
 ---
 title: S’inscrire au programme Fournisseur de solutions Cloud
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment adhérer au modèle de vente du programme Fournisseur de solutions Cloud (CSP) qui convient le mieux à votre entreprise, comme revendeur indirect ou partenaire de facturation directe.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441810"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213378"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>S’inscrire au programme Fournisseur de solutions Cloud
 
@@ -92,6 +92,38 @@ Pour savoir comment passer du statut de partenaire à facturation directe au sta
 
 Votre marché dépend de l’emplacement de votre entreprise. Il comprend les régions et/ou les pays où vous pouvez vendre des offres CSP. Pour plus d’informations sur les devises et la localisation des marchés, consultez [Devises et marchés régionaux du programme Fournisseur de solutions cloud](regional-authorization-overview.md).
 Veillez à lire les [Prérequis pour pouvoir ajouter une nouvelle localisation pour une activité CSP](manage-locations.md).
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Fournir un numéro d’identification de partenaire pour certains pays
+
+Si vous êtes un fournisseur indirect, un partenaire à facturation directe ou un revendeur indirect, et si vous travaillez avec des clients nouveaux ou existants dans les pays suivants, vous devez fournir des numéros d’identification pour votre entreprise. Si le pays avec lequel vous travaillez ne figure pas dans la liste ci-dessous, l’ID d’inscription est facultatif.
+
+- Arménie 
+- Azerbaïdjan 
+- Bélarus 
+- Brésil 
+- Hongrie 
+- Inde 
+- Irak 
+- Kazakhstan 
+- Kirghizistan 
+- Moldova 
+- Myanmar 
+- Pologne 
+- Russie 
+- Arabie Saoudite 
+- Afrique du Sud 
+- Soudan du Sud  
+- Tadjikistan 
+- Thaïlande
+- Turquie 
+- Ukraine 
+- Émirats arabes unis 
+- Ouzbékistan 
+- Venezuela
+- Vietnam 
+
+
+Pour plus d’informations, consultez [Informations sur les numéros d’identification d’enregistrement](reg-number-id.md).
 
 ## <a name="next-steps"></a>Étapes suivantes
 

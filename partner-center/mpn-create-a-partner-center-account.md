@@ -1,7 +1,7 @@
 ---
 title: Créer un compte MPN dans l’Espace partenaires
 ms.topic: article
-ms.date: 04/08/2021
+ms.date: 04/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment les membres Microsoft Partner Network peuvent créer un compte Espace partenaires pour gérer leurs revenus et leurs compétences du réseau.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2b4c96f2099d50d05360320070d7c0d96f4590f6
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120798"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213395"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Créer un compte MPN dans l’Espace partenaires pour gérer les revenus et les compétences du réseau
 
@@ -64,6 +64,41 @@ Vous pouvez rechercher le profil de votre entreprise ou entrer manuellement les 
 Si votre entreprise est située en **Arménie**, en **Hongrie**, au **Kirghizstan**, en **Moldova**, en **Ouzbékistan** ou en **Russie**, et que vous entrez votre adresse manuellement, nous validerons votre adresse pour vous. Si celle que vous entrez diffère de l’adresse validée, nous vous suggérons d’utiliser l’adresse validée. Cela garantit que les éléments de l’adresse sont standardisés tels que définis par l’autorité postale du pays, correctement mis en forme et valides pour l’expédition.  
 
 Une fois que vous avez fourni les informations sur l’entreprise, entrez les informations du contact principal. Le contact principal doit être la personne de votre entreprise que nous pouvons contacter à propos de votre application (il peut s'agir de vous ou d'une autre personne de votre entreprise).
+
+## <a name="registration-id-numbers-by-country"></a>Numéros d’identification d’enregistrement par pays
+
+Si vous êtes un fournisseur indirect, un partenaire à facturation directe ou un revendeur indirect, et si vous travaillez avec des clients nouveaux ou existants dans les pays suivants, vous devez fournir des numéros d’identification pour votre entreprise. Si le pays avec lequel vous travaillez ne figure pas dans la liste ci-dessous, l’ID d’inscription est facultatif.
+
+Le tableau suivant contient des exemples de numéros d’enregistrement pour chaque pays. Si plusieurs ID sont listés, un seul doit être fourni.
+
+| **Pays ou région** | **Détails** | 
+|:--|:--|:--|:--|:--|:--|
+| **Arménie** | INN – Numéro d’identification fiscale<br>Numéro de TVA – Également appelé « numéro d’immatriculation à la TVA ». Il s’agit du numéro unique qui identifie une personne imposable (entreprise) ou une personne morale non imposable qui est immatriculée à la TVA.<br>Numéro de service public |  |  | |  |
+| **Azerbaïdjan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Numéro d’identification fiscale<br>INN – Numéro d’identification fiscale |  |  |  |  |
+| **Bélarus**  | UNP – Il s’agit d’un numéro à neuf chiffres (numérique pour les organisations, alphanumérique pour les personnes) qui contient un identificateur de région, un numéro de série régional et un chiffre de contrôle. |  |  |  |  |
+|**Brésil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurídica ou registre national des personnes morales). Il s’agit d’un numéro d’identification délivré aux sociétés brésiliennes par le Département fédéral des Impôts du Brésil  |  |  |  |  |
+| **Chine** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Numéro d’identification fiscale |  |  |  |  |
+| **Hongrie**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Numéro d’identification fiscale |  |  |  |  |
+| **Inde** | ID de taxe<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Presence Across Nation) « PAN India Involvement » signifie qu’une même organisation opère à plusieurs emplacements en Inde. |  |  |  |  |
+| **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Numéro d’identification fiscale |  |  |  |  |
+| **Kazakhstan**  | BIN – Numéro d’identification bancaire<br>IIN – Numéro d’identification de l’émetteur |  |  |  |  |
+| **Kirghizistan**  | INN – Numéro d’identification fiscale |  |  |  |  |
+| **Moldova**  | IDNO – Numéro d’identification d’État unique affecté à une personne morale (également appelé « code fiscal »).<br>IDNP – Code personnel de naissance (« Numarul de Identificare ») |  |  |  |  |
+| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Numéro d’identification fiscale |  |  |  |  |
+| **Pologne**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Numéro d’identification fiscale<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Numéro d’identification national utilisé en Pologne (Polish Powszechny Elektroniczny System Ewidencji Ludności, système électronique universel polonais pour l’enregistrement de la population) |  |  |  |  |
+| **Russie**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Numéro d’identification fiscale (en russe : « Individualiy Nomer Nalogoplatelshika ») |  |  |  |  |
+| **Arabie saoudite** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Numéro d’identification fiscale |  |  |  |  |
+| **Afrique du Sud** | TRN – Numéro d’enregistrement du trafic |  |  |  |  |
+| **Soudan du Sud** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Numéro d’identification fiscale |  |  |  |  |
+| **Tadjikistan**  | INN – Numéro d’identification fiscale<br>EIN – Numéro d’identification de l’employeur<br>KPP – Il s’agit d’un code indiquant la raison pour laquelle une organisation s’est inscrite. |  |  |  |  |
+| **Thaïlande** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Numéro d’identification fiscale |  |  |  |  |
+| **Turquie** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Numéro d’identification fiscale<br>NIN |  |  |  |  |
+| **Ukraine**  | EGRPOU<br>EDRPOU – ID local |  |  |  |  |
+| **Émirats arabes unis** | ID de taxe<br>[Numéro de TVA](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – Également appelé « numéro d’immatriculation à la TVA ». Il s’agit du numéro unique qui identifie une personne imposable (entreprise) ou une personne morale non imposable qui est immatriculée à la TVA. |  |  |  |  |
+| **États-Unis** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Numéro d’identification de l’employeur |  |  |  |  |
+| **Ouzbékistan**  | INN – Numéro d’identification fiscale |  |  |  |  |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Numéro d’identification fiscale |  |  |  |  |
+| **Venezuela** | RIF – Numéro fiscal (« Registro de Identificación Fiscal ») |  |  |  |  |
 
 4. Sélectionnez **S’inscrire maintenant**.
 

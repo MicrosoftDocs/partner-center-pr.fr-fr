@@ -1,7 +1,7 @@
 ---
 title: Gérer les localisations dans votre compte partenaire
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Découvrez comment ajouter une nouvelle localisation et comment l’ID MPN de localisation est utilisé dans les programmes d’incentives, l’activité CSP, les abonnements et autres transactions.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441323"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702890"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gérer les localisations dans votre compte MPN et ajouter (supprimer) une localisation
 
@@ -50,7 +50,7 @@ Pour ajouter un nouveau compte commercial CSP, commencez par veiller à remplir 
 
 1. Si vous souhaitez vous inscrire en tant que Direct Bill Partner, lisez les [Conditions requises qui s’y rattachent](direct-partner-new-requirements.md)
 
-## <a name="view-your-mpn-locations"></a>Voir vos localisations MPN
+## <a name="view-and-update-your-mpn-locations"></a>Afficher et mettre à jour vos localisations MPN
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard/home) de l’Espace partenaires avec vos informations d’identification de compte MPN. (Vos informations d’identification MPN peuvent être différentes de vos informations d’identification CSP.) 
  
@@ -100,6 +100,37 @@ Mettez à jour les champs suivants :
 > [!NOTE]
 > Une fois que vous ajoutez une localisation dans l’Espace partenaires, vous ne pouvez plus la supprimer. Vous verrez **MPN** dans le menu de gauche de l’Espace partenaires si vous avez utilisé le bon ID MPN pour vous connecter.
 
+## <a name="add-the-registration-number-id"></a>Ajouter le numéro d’identification d’inscription
+
+Si vous êtes fournisseur indirect, partenaire à facturation directe ou revendeur indirect et que vous travaillez avec des clients nouveaux ou existants dans les pays suivants, vous devez fournir les numéros d’identification d’inscription de votre entreprise. Si le pays avec lequel vous travaillez ne figure pas dans la liste ci-dessous, le numéro d’inscription est facultatif.
+
+- Arménie 
+- Azerbaïdjan 
+- Bélarus 
+- Brésil 
+- Hongrie 
+- Inde 
+- Irak 
+- Kazakhstan 
+- Kirghizistan 
+- Moldova 
+- Myanmar 
+- Pologne 
+- Russie 
+- Arabie Saoudite 
+- Afrique du Sud 
+- Soudan du Sud  
+- Tadjikistan 
+- Thaïlande
+- Turquie 
+- Ukraine 
+- Émirats arabes unis 
+- Ouzbékistan 
+- Venezuela
+- Vietnam 
+
+
+Pour plus d’informations, consultez [Informations sur les numéros d’identification d’inscription](reg-number-id.md).
 
 ## <a name="delete-a-location"></a>Supprimer une localisation
 

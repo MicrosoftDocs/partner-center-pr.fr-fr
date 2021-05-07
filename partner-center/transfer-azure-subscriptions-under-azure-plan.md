@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284500"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702720"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transférer les abonnements du plan Azure d’un client à un autre partenaire
 
@@ -44,7 +44,7 @@ Le client doit être en conversation avec les deux partenaires (actuels et futur
 - Les produits de la place de marché tiers sont transférés tant que les produits réussissent la vérification du droit de la place de marché.
     - Il n’existe aucune remise spéciale ou restriction régionale
     - Les produits ne sont pas basés sur un abonnement
-    - Le futur partenaire devrait travailler avec le serveur de publication pour s’assurer qu’il se trouve dans le allowlist pour le déploiement du produit
+    - Le futur partenaire devrait travailler avec le serveur de publication pour s’assurer qu’il se trouve dans la liste verte pour le déploiement du produit
     - Si certaines de ces conditions ne sont pas respectées pour transférer les produits de la place de marché, ils doivent être annulés, les abonnements Azure transférés, puis reacheter les produits de la place de marché auprès du nouveau partenaire.
 
 **Configuration requise :**
@@ -130,6 +130,7 @@ Passez en revue et acceptez le formulaire de demande de transfert de l’espace 
 >Pour les fournisseurs indirects : Veuillez informer votre revendeur indirect que la demande de transfert a été acceptée.
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>Gestion de vos abonnements client transférés
+
 - L’accès aux utilisateurs, groupes ou principaux de service existants auxquels a été affecté le contrôle d’accès en fonction du rôle Azure (RBAC) n’est pas affecté pendant la transition. Le contrôle d’accès en fonction du rôle [(RBAC)](/azure/role-based-access-control/overview) Azure permet à votre client de gérer qui a accès aux ressources Azure, ce qu’il peut faire avec ces ressources et les domaines auxquels ils ont accès. En tant que nouveau partenaire, vous ne disposez d’aucun accès RBAC aux ressources de votre client après le transfert de l’abonnement. Le partenaire précédent de votre client conserve son accès RBAC. Collaborez avec votre client pour comprendre qui a un aperçu de ses abonnements et comment apporter les modifications souhaitées.
 
 - Par conséquent, il est important que votre client supprime l’accès RBAC Azure pour son partenaire précédent et ajoute un accès pour le nouveau partenaire. Pour plus d’informations sur votre client donnant accès à un nouvel accès, consultez [qu’est-ce que le contrôle d’accès en fonction du rôle Azure (Azure RBAC) ?](/azure/role-based-access-control/overview) Pour plus d’informations sur votre client qui supprime l’accès RBAC de votre partenaire précédent, consultez [supprimer une attribution de rôle](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).

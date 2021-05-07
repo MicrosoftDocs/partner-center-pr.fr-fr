@@ -1,7 +1,7 @@
 ---
 title: Obtenir des insights de référence
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Passez régulièrement en revue vos données d’insights de référence dans l’Espace partenaires pour voir les tendances à traiter ou les domaines d’amélioration pour vous aider à atteindre vos objectifs métiers.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120849"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328081"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenir des insights de référence dans l’Espace partenaires et voir les performances de vos références
 
@@ -27,7 +27,7 @@ La page **Opportunités de co-vente** dans la section **Analytique** de Référe
 Pour afficher les données des insights de vos opportunités de co-vente, dans le menu de l’Espace partenaires, accédez à **Références > Analytique > Opportunités de co-vente**.
 
 > [!Important]
-> Le filtre de type de marché est pré-appliqué avec le type **Co-vente** sélectionné pour toutes les données. Si vous souhaitez analyser les données associées à des offres privées et suivies par des partenaires, supprimez ce filtre.
+> Le filtre de type de transaction est préappliqué, avec le type **Co-vente** sélectionné pour toutes les données. Si vous souhaitez analyser les données associées à des transactions privées et suivies par des partenaires, supprimez ce filtre.
 
 ## <a name="apply-filters"></a>Appliquer des filtres
 
@@ -56,7 +56,7 @@ Les métriques de changement de pourcentage (affichées en rouge ou en vert, ave
 
 ## <a name="conversion-funnel"></a>Entonnoir de conversion
 
-Cette section affiche un indicateur visuel de la façon dont vos marchés passent d’un état à un autre tout au long de leur cycle de vie. Vous pouvez afficher l’intégralité du cycle de vie en fonction du volume des offres, ainsi que la valeur des offres en USD en fonction du tableau croisé dynamique principal de cette section. La première section est étiquetée avec l’état et le type de l’offre, afin de fournir un indicateur visuel du volume ou de la valeur pour chaque type. Il existe également une section, **Références du passé**, qui est utilisée pour indiquer les marchés que vous avez entrepris d’accepter/refuser ou de marquer comme conclus/perdus au cours de la période sélectionnée pour le rapport. Vous pouvez appliquer des filtres pour afficher la progression des marchés entre les différentes phases de leur cycle de vie.
+Cette section affiche un indicateur visuel de la façon dont vos marchés passent d’un état à un autre tout au long de leur cycle de vie. Vous pouvez afficher l’intégralité du cycle de vie en fonction du volume des transactions, ainsi que la valeur des offres en USD en fonction du champ dynamique principal de cette section. La première section est étiquetée avec l’état et le type de l’offre, afin de fournir un indicateur visuel du volume ou de la valeur pour chaque type. Il existe également une section, **Références du passé**, qui est utilisée pour indiquer les marchés que vous avez entrepris d’accepter/refuser ou de marquer comme conclus/perdus au cours de la période sélectionnée pour le rapport. Vous pouvez appliquer des filtres pour afficher la progression des marchés entre les différentes phases de leur cycle de vie.
 
 Les offres entrantes de co-vente peuvent être fusionnées en offres « Acceptées », « Refusées » ou « Expirées », puisque les partenaires doivent Accepter ou Refuser les offres de co-vente entrantes.
 
@@ -94,14 +94,13 @@ Cette section vous aide à analyser les raisons pour lesquelles les marchés son
 
 ## <a name="comparison-charts"></a>Graphiques de comparaison
 
-La section de comparaison vous aide à comparer les données relatives aux références en fonction de plusieurs dimensions dans le tableau croisé dynamique, sur le volume et sur la valeur des marchés conclus en USD.
-Les trois dimensions que vous pouvez choisir pour comparer les données sont :
+La section de comparaison vous aide à comparer les données relatives aux références en fonction de plusieurs dimensions dans le tableau croisé dynamique, sur le volume et sur la valeur des marchés conclus en USD. Les trois dimensions que vous pouvez choisir pour comparer les données sont :
 
 - Type de marché
 - Marchés
 - Solutions
 
-Lorsque le type d’offre est sélectionné, vous pouvez comparer les performances des références en ce qui concerne les opportunités de co-vente, les offres privées et les offres suivies par des partenaires. Pour les marchés et les solutions, vous pouvez sélectionner jusqu’à trois options différentes pour comparer les performances. Le premier graphique, qui est un graphique à barres, présente les données avec une tendance mois après mois, basée sur le tableau croisé dynamique principal, qui est le volume ou la valeur des marchés conclus. Un graphique à secteurs figure également à droite du graphique à barres et affiche les pourcentages de distribution pour les mêmes données.
+Lorsque le type de transaction est sélectionné, vous pouvez comparer les performances des références en ce qui concerne les opportunités de co-vente, les transactions privées et les transactions suivies par des partenaires. Pour les marchés et les solutions, vous pouvez sélectionner jusqu’à trois options différentes pour comparer les performances. Le premier graphique, qui est un graphique à barres, présente les données avec une tendance mois après mois, basée sur le tableau croisé dynamique principal, qui est le volume ou la valeur des marchés conclus. Un graphique à secteurs figure également à droite du graphique à barres et affiche les pourcentages de distribution pour les mêmes données.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Image représentant la section de comparaison.":::
 
@@ -128,3 +127,8 @@ Plusieurs raisons peuvent expliquer que vous obteniez un graphique vide comme ci
 
 > [!TIP]
 > Pour voir comment votre profil d’entreprise s’exécute dans l’expérience [Rechercher un fournisseur de solutions](https://www.microsoft.com/solution-providers/home), consultez [Page Insights du profil d’entreprise](analyze-your-marketing-profile.md).
+
+## <a name="next-steps"></a>Étapes suivantes
+
+- [Développer votre activité avec les références Microsoft](referrals.md)
+- [Analyser vos prospects](analyze-your-marketing-profile.md)

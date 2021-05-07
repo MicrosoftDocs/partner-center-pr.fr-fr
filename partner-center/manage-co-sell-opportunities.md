@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
-ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
+ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "99480066"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702924"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gérer les opportunités de covente dans l’espace partenaires
 
@@ -175,11 +175,13 @@ Le tableau ci-dessous répertorie les étapes de vente et les pourcentages corre
 
 Lorsque vous avez terminé, vous pouvez effectuer l’une des deux actions suivantes, qui marquent la transaction comme **gagnée** ou **perdue** pour signaler le résultat.
 
+Il n’est pas nécessaire que votre entreprise suive les mêmes étapes de vente. C’est ainsi que l’espace partenaires reconnaît les étapes de vente et mappe automatiquement les étapes de votre entreprise à ces étapes standard si vous transmettez ces valeurs à l’aide de l’API. Si vous utilisez l’expérience utilisateur de l’espace partenaires, les pourcentages indiqués dans le tableau sont utilisés pour marquer les étapes de vente.
+
 > [!Note]
-> Il n’est pas nécessaire que votre entreprise suive les mêmes étapes de vente. C’est ainsi que l’espace partenaires reconnaît les étapes de vente et mappe automatiquement les étapes de votre entreprise à ces étapes standard si vous transmettez ces valeurs à l’aide de l’API. Si vous utilisez l’expérience utilisateur de l’espace partenaires, les pourcentages indiqués dans le tableau sont utilisés pour marquer les étapes de vente.
+> Pour certaines solutions éligibles, une fois que vous avez sélectionné conclu, vous êtes invité à fournir des informations supplémentaires pour inscrire votre demande. Microsoft examinera les informations que vous avez fournies ici et pourra vous demander des renseignements complémentaires. Pour plus d'informations, consultez [Enregistrer vos transactions](register-deals.md).
 
 > [!Important]
-> Pour certaines solutions éligibles, une fois que vous avez sélectionné conclu, vous êtes invité à fournir des informations supplémentaires pour inscrire votre demande. Microsoft examinera les informations que vous avez fournies ici et pourra vous demander des renseignements complémentaires. Pour plus d'informations, consultez [Enregistrer vos transactions](register-deals.md).
+> Si la transaction est éligible à l’enregistrement de la transaction, assurez-vous qu’il y a un écart de 72 heures entre la création de l’offre et la transaction marquée comme conclue. Si vous fermez la transaction comme conclu précédemment, cela peut entraîner le rejet des inscriptions de transactions.
 
 Une transaction est éligible pour l’enregistrement des transactions uniquement si elle répond à tous les critères ci-dessous.
 
@@ -207,8 +209,8 @@ Le tableau ci-dessous montre les combinaisons de qui peuvent être invitées à 
 
 |**Type de contrat d’origine**|**Qui peut être invité**|**Remarques**|
 |-----|:-----|:-----|
-|Privé|Microsoft et/ou d’autres partenaires|La vente sera mise à niveau vers la co-vente si Microsoft est invité.|
-|Privé|L’équipe de vente Microsoft pour consulter les offres|La vente sera mise à niveau vers une offre dirigée par les partenaires lorsque l’équipe de vente de Microsoft aura une visibilité sur les transactions.|
+|Privées|Microsoft et/ou d’autres partenaires|La vente sera mise à niveau vers la co-vente si Microsoft est invité.|
+|Privées|L’équipe de vente Microsoft pour consulter les offres|La vente sera mise à niveau vers une offre dirigée par les partenaires lorsque l’équipe de vente de Microsoft aura une visibilité sur les transactions.|
 |Partenaire|Microsoft et/ou d’autres partenaires|La vente sera mise à niveau vers la co-vente si Microsoft est invité.|
 |Co-vente|Autres partenaires|D’autres partenaires peuvent être invités uniquement si votre entreprise a initié la transaction. Les partenaires ne peuvent pas être invités pour les transactions dans l’onglet entrant.|
 |Partenaire à partenaire sans Microsoft|Microsoft|La vente sera mise à niveau vers une transaction de covente.|

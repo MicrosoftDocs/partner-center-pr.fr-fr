@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028432"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702805"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurer votre compte de paiement et vos déclarations de taxe
 
@@ -145,7 +145,7 @@ Dans Sélectionner les pays et les régions, vous pouvez créer un compte de pai
 
 Questions fréquemment posées sur l’utilisation de PayPal comme mode de paiement :
 
-- **De quels paramètres PayPal ai-je besoin pour recevoir des paiements ?** Assurez-vous que votre compte PayPal ne bloque pas les paiements eCheck. Ce paramètre est géré dans la page des préférences pour la réception de paiements de PayPal. Pour plus d’informations, consultez la [page de configuration de compte PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139).
+- **De quels paramètres PayPal ai-je besoin pour recevoir des paiements ?** Assurez-vous que votre compte PayPal ne bloque pas les paiements eCheck. Ce paramètre est géré dans la page des préférences pour la réception de paiements de PayPal. Pour plus d’informations, consultez la [page de configuration de compte PayPal](https://go.microsoft.com/fwlink/?linkid=2162542).
 
 - **Est-ce que mon pays/ma région est pris en charge ?** Consultez les [seuils, les méthodes et les délais de paiement](payment-thresholds-methods-timeframes.md) pour savoir quels pays/quelles régions prennent en charge PayPal comme mode de paiement.
 
