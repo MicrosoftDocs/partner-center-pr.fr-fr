@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172198"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630115"
 ---
 # <a name="technical-support-benefits"></a>Avantages du support technique
 
@@ -81,9 +81,9 @@ Vous pouvez obtenir ces informations uniquement à partir du portail de support 
 
 Vous devez utiliser la prise en charge pour les entreprises et démarrer le processus de création d’un incident de support local. Nous ne créons pas de demande de support, car nous ne terminons pas le processus. Les informations dont nous avons besoin sont affichées à l’étape 2.
 
-Étape 1 Sélectionnez Windows 10 et entrez des informations factices
+Étape 1 ouvrir le [support pour les entreprises](https://support.serviceshub.microsoft.com/supportforbusiness/create) et sélectionner Windows 10 et entrer des informations factices
 
-Étape 2 ajoutez le contrat de support à l’aide de l’ID d’accès et de l’ID de contrat. Pour le support local, vous pouvez voir le contrat de support partenaires affiché et cela comprend la date de début, la date de fin et les incidents restants. Développez le « voulez-vous voir les plans de support indisponibles ? » pour afficher les informations de signature du partenaire. Vous verrez uniquement le support partenaires affiché ici si les contrats ont expiré, si vous n’avez pas d’incident ou si vous avez sélectionné un ancien produit local (voir [aka.ms/n-1](https://aka.ms/n-1) pour obtenir des produits de support)
+Étape 2 Si votre contrat de support est déjà associé à votre compte, les incidents de support technique doivent s’afficher. Pour le support local, vous devez voir le contrat de support partenaire affiché (sauf s’il n’est plus valide) et cela comprend la date de début, la date de fin et les incidents restants. Si vous devez associer votre contrat de support, développez « vous devez acheter ou ajouter d’autres plans de support », puis cliquez sur le bouton Ajouter un contrat pour entrer votre ID d’accès et votre ID de contrat. Développez le « voulez-vous voir les plans de support indisponibles ? » pour afficher les informations de signature du partenaire. Vous verrez uniquement le support partenaires affiché ici si les contrats ont expiré, si vous n’avez pas d’incident ou si vous avez sélectionné un ancien produit local (voir [aka.ms/n-1](https://aka.ms/n-1) pour obtenir des produits de support)
 
 **Pour plus d’informations, consultez [combien d’incidents de support partenaires sont restants ?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
