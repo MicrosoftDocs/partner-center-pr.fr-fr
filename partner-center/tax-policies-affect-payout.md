@@ -7,19 +7,20 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: 343db43633245030a5eba213cb5c8b79d09a7dee
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768820"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686311"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Impact des stratégies de taxes sur le paiement pour la place de marché Azure
 
 **Rôles appropriés**
--    Administrateur général
--    Administrateur de la gestion des utilisateurs
--    Agent d’administration
+
+- Administrateur général
+- Administrateur de la gestion des utilisateurs
+- Agent d’administration
 
 ## <a name="introduction"></a>Introduction
 

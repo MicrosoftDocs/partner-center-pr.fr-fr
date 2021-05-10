@@ -9,18 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172266"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686141"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fournir différents types de support à vos clients
 
 **S’applique à**
 
--  Espace partenaires de Microsoft Cloud for US Government
+- Espace partenaires de Microsoft Cloud for US Government
 
 **Rôles appropriés**
 

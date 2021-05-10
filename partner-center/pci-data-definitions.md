@@ -9,19 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 427ca3b60ec527a6a371a232538647448d03b084
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 21be5b22c453174fcb66e9409d6e26dad8e25c6b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861391"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686345"
 ---
 # <a name="export--data-definitions"></a>Export : définitions de données 
 
- **Rôles appropriés** 
+**Rôles appropriés** 
 
-- Visionneuse de rapports 
-- Visionneuse de rapports de la direction 
+- Visionneuse de rapports
+- Visionneuse de rapports de la direction
 
 ## <a name="introduction"></a>Introduction 
 
@@ -52,7 +52,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | CustomerMarket | Marché géographique du client | 
 | CustomerStatus | État du client (actif ou inactif) | 
 | Produit | Le produit a été vendu au client par MPN : O365, DYNAMICS 365, Enterprise Mobility + Security, Power BI ou Microsoft Azure | 
-| SKU | Référence SKU de produit | 
+| Référence | Référence SKU de produit | 
 | Month | Mois pour lequel l’utilisation et le chiffre d’affaires sont signalés | 
 | MPNId | Identificateur de Microsoft Partner Network | 
 | PartnerName | Nom du partenaire | 
@@ -105,7 +105,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | CustomerSegment | Segment de marché du client | 
 | CustomerMarket | Marché géographique du client | 
 | Produit | Produit vendu au client par le partenaire | 
-| SKU | Référence SKU du produit | 
+| Référence | Référence SKU du produit | 
 | MPNId | ID Microsoft Partner Network du partenaire | 
 | PartnerName | Nom du partenaire | 
 | PartnerLocation | Emplacement géographique du partenaire | 
@@ -187,7 +187,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Month | Mois pour lequel l’utilisation est signalée | 
 | RevSumDivisionName | Nom de la Division Rev Sum | 
 | RevSumCategoryName | Nom de la catégorie Rev Sum | 
-| SKU | Référence SKU du produit | 
+| Référence | Référence SKU du produit | 
 | SKUId | ID de référence du produit | 
 | FreeVsPaidSKU | Indique s’il s’agit d’une référence (SKU) gratuite ou payante | 
 | Works Sales | Canal de vente utilisé pour la vente de l’abonnement | 
@@ -216,7 +216,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | SubscriptionEndDate | Date de fin de l’abonnement | 
 | SubscriptionStatus | État de l’abonnement (actif, inactif ou période de grâce) | 
 | Month | Date agrégée par mois | 
-| SKU | Référence SKU du produit | 
+| Référence | Référence SKU du produit | 
 | SKUId | ID de référence du produit | 
 | FreeVsPaidSKU | Différentiation SKU gratuit ou payant | 
 | Works Sales | Modèle de vente utilisé pour vendre l’abonnement | 
@@ -280,7 +280,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | TrainingType | Type de formation (certification ou examen) | 
 | IndividualFirstName | Prénom du client | 
 | IndividualLastName | Nom du client | 
-| E-mail | ID de messagerie personnelle du client | 
+| Courrier | ID de messagerie personnelle du client | 
 | CorpEmail | ID de messagerie Office du client | 
 | TrainingCompletionDate | Date d’achèvement de la formation | 
 | Month | Mois pour lequel les données sont signalées | 
@@ -338,7 +338,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Nom du partenaire | Nom du partenaire | 
 | ID de client | Numéro d’identification du client | 
 | Numéro DUNS | Le numéro dun & Bradstreet (D&B) du client dont le score est évalué pour la distribution | 
-| Nom du compte | Nom du compte | 
+| Account Name | Nom du compte | 
 | Domain | Domaine du compte | 
 | Taille de l’Organisation | Taille de l’Organisation | 
 | Industrie | Secteur auquel appartient l’Organisation | 
@@ -394,7 +394,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Nom du partenaire | Nom du partenaire | 
 | ID de client | Numéro d’identificateur du client | 
 | Numéro DUNS | Le numéro dun & Bradstreet du client dont le score est évalué pour la propension | 
-| Nom du compte | Nom du compte | 
+| Account Name | Nom du compte | 
 | Domain | Domaine du compte | 
 | Taille de l’Organisation | Taille de l’Organisation | 
 | Industrie | Secteur auquel appartient l’Organisation | 
@@ -451,7 +451,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Nom du partenaire | Nom du partenaire | 
 | ID de client | Numéro d’identificateur du client | 
 | Numéro DUNS | Le numéro dun & Bradstreet du client dont le score est évalué pour la propension | 
-| Nom du compte | Nom du compte | 
+| Account Name | Nom du compte | 
 | Domain | Domaine du compte | 
 | Taille de l’Organisation | Taille de l’Organisation | 
 | Industrie | Industrie | 
@@ -517,7 +517,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Nom du partenaire | Nom du partenaire | 
 | ID de client | Numéro d’identificateur du client | 
 | Numéro DUNS | Le numéro dun & Bradstreet du client dont le score est évalué pour la propension | 
-| Nom du compte | Nom du compte | 
+| Account Name | Nom du compte | 
 | Domain | Domaine du compte | 
 | Taille de l’Organisation | Taille de l’Organisation | 
 | Industrie | Industrie | 

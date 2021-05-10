@@ -9,16 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441861"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686294"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Gestion des défauts de paiement, des fraudes ou des utilisations abusives dans l’Espace partenaires
 
-S’applique à :
+**S’applique à**
 
 - Espace partenaires de Microsoft Cloud for US Government
 
