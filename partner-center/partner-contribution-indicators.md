@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: dcd4d322a0a62644dbceb4ba4b4910d218495121
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730261"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740367"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilisez les indicateurs de contribution partenaire pour atteindre les compétences du Cloud Business Applications
+# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utiliser les indicateurs de contribution des partenaires pour atteindre la compétence Applications métier dans le cloud
 
 **Rôles appropriés**
 
@@ -141,8 +141,8 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | 300 000 $ | 10 | 15 | *\* Voir la remarque* | 5 | 5 | 25 % |
-| **Pays** | $150 000 | 5  | 5  |*\* Voir la remarque* | 2 | 1 | 25 % |
+| **Fruit** | 300 000 $ | 10 | 15 | *\* Voir la remarque* | 5 | 5 | 25% |
+| **Pays** | $150 000 | 5  | 5  |*\* Voir la remarque* | 2 | 1 | 25% |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base et de l’option spécifique qu’un partenaire utilise pour obtenir des points. Pour en savoir plus sur les options permettant d’obtenir des points ou sur les cibles de croissance spécifiques de chaque option, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
@@ -152,8 +152,8 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | 300 000 $ | 3 | 15 | *\* Voir la remarque* | 5  | 3 | 25 % |
-| **Pays** | $150 000 | 1 | 5 |*\* Voir la remarque* | 2 | 1 | 25 % |
+| **Fruit** | 300 000 $ | 3 | 15 | *\* Voir la remarque* | 5  | 3 | 25% |
+| **Pays** | $150 000 | 1 | 5 |*\* Voir la remarque* | 2 | 1 | 25% |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base et de l’option spécifique qu’un partenaire utilise pour obtenir des points. Pour en savoir plus sur les options permettant d’obtenir des points ou sur les cibles de croissance spécifiques de chaque option, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
@@ -293,7 +293,7 @@ Un partenaire a l’une des deux options pour atteindre les points tout ou rien 
   | Fruit | Pays | Croissance nécessaire pour gagner les 15 points
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35 % |
-  | 30-49 | 15-24 | 25 % |
+  | 30-49 | 15-24 | 25% |
   | 50 et versions ultérieures | 25 et versions ultérieures | Voir les options ci-dessous |
 
 **Option Two pour obtenir les points :**
@@ -373,7 +373,7 @@ La croissance mensuelle des utilisateurs actifs est un [indicateur de réussite 
 
   - Pour que les services financiers et les opérations soient éligibles à des points, les partenaires du marché développés doivent disposer d’une ligne de base d’au moins **100** utilisateurs actifs mensuels, et le développement de partenaires de marché doit avoir une ligne de base de **50** utilisateurs actifs mensuels au cours de la base du client, 12 mois auparavant.
   
-  (Pour plus d’informations sur les marchés développés et en développement, consultez ces [définitions de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf.)
+  (Pour plus d’informations sur les marchés développés et en développement, consultez ces [définitions de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 - Les partenaires sont associés à des locataires au niveau de l’abonnement. Les abonnements sont mappés à des produits éligibles d’engagement client ou à des produits financiers et opérationnels éligibles.
 

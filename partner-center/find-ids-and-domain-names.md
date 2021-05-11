@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172249"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740282"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localiser des ID importants pour un utilisateur
 
@@ -32,7 +32,7 @@ Cet article explique comment utiliser le [portail Azure](https://portal.azure.co
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Rechercher l’ID de locataire Microsoft Azure AD et le nom de domaine principal
 
-Procédez comme suit pour Rechercher l’ID de locataire Azure AD ou le nom de domaine principal au sein du Portail Azure. (Si vous souhaitez rechercher un ID de locataire par programme, consultez Rechercher l' [ID de locataire avec PowerShell ou l’interface CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
+Procédez comme suit pour Rechercher l’ID de locataire Azure AD ou le nom de domaine principal au sein du Portail Azure. (Si vous souhaitez rechercher un ID de locataire par programme, consultez Rechercher l' [ID de locataire avec PowerShell ou l’interface CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
 > L’ID de locataire peut être appelé des noms différents dans des applications ou des ressources différentes. Par exemple, l’ID de locataire peut être appelé ID de répertoire, client Azure Active Directory (Azure AD), ID Microsoft ou pour certains rapports, même *tenantguid*.
