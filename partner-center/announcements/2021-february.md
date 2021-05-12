@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266467"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740333"
 ---
 # <a name="february-2021-announcements"></a>Annonces de février 2021
 
@@ -36,7 +36,7 @@ Partenaires proposant des offres Éducation, Sans but lucratif et Cloud de la co
 
 ### <a name="details"></a>Détails
 
-Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, la qualification GET existante sera mise hors service le 4 mai 2021. À ce moment-là, vous devrez utiliser les nouvelles API POST de l’Espace partenaires dans des offres Éducation, et la nouvelle API des qualifications GET pour acheter des offres Sans but lucratif et Cloud de la communauté du secteur public préqualifiées.
+Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](2020-december.md#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, la qualification GET existante sera mise hors service le 4 mai 2021. À ce moment-là, vous devrez utiliser les nouvelles API POST de l’Espace partenaires dans des offres Éducation, et la nouvelle API des qualifications GET pour acheter des offres Sans but lucratif et Cloud de la communauté du secteur public préqualifiées.
 
 ### <a name="next-steps"></a>Étapes suivantes
 
@@ -320,7 +320,7 @@ L’Espace partenaires est conçu pour gérer un gros volume de requêtes, mais 
 
 | Opération | Documentation sur l’Espace partenaires |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Obtenir un abonnement par ID](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [Obtenir toutes les commandes client](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obtenir une commande par ID](/partner-center/develop/get-an-order-by-id) |

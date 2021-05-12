@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502882"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686226"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guide du programme Fournisseur de solutions Cloud, contrats, tarifs et offres
 
@@ -22,6 +22,10 @@ ms.locfileid: "106502882"
 
 - Espace partenaires de Microsoft Cloud for US Government
 
+**Rôles appropriés**
+
+- Administrateur général
+- Agent d’administration
 
 Passez en revue les informations contenues dans cet article pour comprendre les conditions de participation au programme Fournisseur de solutions Cloud de Microsoft.
 
