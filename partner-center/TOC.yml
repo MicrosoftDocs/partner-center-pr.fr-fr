@@ -119,45 +119,40 @@
           displayName: mpn
     - name: Devenir Azure Expert MSP
       href: azure-expert-msp.md
-- name: Fournisseur de solutions Cloud (CSP)
+- name: Programme Fournisseur de solutions cloud (CSP)
   href: csp-overview.md
   displayName: csp
   items:
     - name: "S’inscrire au programme Fournisseur de solutions\_Cloud"
       href: enrolling-in-the-csp-program.md
       displayName: 'indirect, reseller, csp'
-    - name: Contrat Partenaire Microsoft - CSP
-      href: microsoft-partner-agreement.md
-      displayName: 'csp, mpn'
-    - name: Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter un contrat MPA
-      href: mpa-indirect-provider-faq.md
-      displayName: 'csp, mpa, indirect, provider'
     - name: Conditions requises pour les partenaires directs CSP
       href: direct-partner-new-requirements.md
-      displayName: 'indirect, reseller, csp'
-    - name: 'Contrats client Microsoft (par région, par langue)'
-      href: agreements.md
-      displayName: 'region, MPA'
     - name: Accès à la facturation directe limité
       href: restricted-direct-bill-capabilities.md
-      displayName: 'indirect, reseller'
+      displayName: 'indirect, reseller, direct'
     - name: Passer de la facturation directe CSP au statut de revendeur indirect
       href: transition-direct-to-indirect.md
       displayName: csp
+- name: Contrats CSP
+  href: microsoft-partner-agreement.md
+  items:
+    - name: Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter un contrat MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: 'Contrats, listes de prix, offres CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Informations sur les numéros d’identification des inscriptions
-      href: reg-number-id.md
+    - name: 'Contrats client Microsoft (par région, par langue)'
+      href: agreements.md
+    - name: Guide pratique pour confirmer l’acceptation du Contrat client Microsoft par les clients
+      href: confirm-customer-agreement.md
     - name: 'Marchés régionaux CSP, monnaies locales'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
     - name: Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Guide pratique pour confirmer l’acceptation du Contrat client Microsoft par les clients
-      href: confirm-customer-agreement.md
-      displayName: 'csp, agreement'
     - name: Demander à vendre sur des clouds nationaux
       href: csp-national-clouds-overview.md
       items:
@@ -207,6 +202,8 @@
         - name: Mettre à jour votre profil de partenaire
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Informations sur les numéros d’identification des inscriptions
+          href: reg-number-id.md
         - name: Être fournisseur de panneau de contrôle
           href: enroll-as-cpv.md
           displayName: csp
