@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f5520dec7c5af80817223797c14c9f2c16f96c6
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 5bd6ab7359dc295d075be937f2760e55bd7e6f3e
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284534"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794902"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Vérifier les informations de votre compte lors de votre inscription à un nouveau programme de l’Espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN
 
 Lorsque vous vous inscrivez à un nouveau programme dans l’espace partenaires, Microsoft vérifie les informations d’inscription de compte que vous avez fournies, telles que le nom de votre société, l’adresse de l’entreprise et les détails du contact principal. Au cours de ce processus, Microsoft peut envoyer un e-mail à votre contact principal pour l’informer de l’État et demander davantage de documentation sur la vérification.
 

@@ -9,19 +9,16 @@ ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403b2704c600f21fc06576e679ff538a74ae5046
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: fc31915660b6a82954daee5fcc8fb2d5292e725c
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712968"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109795004"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Comprendre les fichiers de rapprochement basés sur l’utilisation et leurs champs spécifiques dans l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Administrateur de la facturation
+**Rôles appropriés**: administrateur de compte | Administrateur de facturation
 
 Pour concilier vos frais par rapport à l’utilisation d’un client, comparez les **ResellerID**, **nom du revendeur** et **ResellerBillableAccount** du fichier de réconciliation avec le **nom du client** et l’ID d' **abonnement** de l’espace partenaires.
 

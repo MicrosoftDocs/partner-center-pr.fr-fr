@@ -8,18 +8,16 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.openlocfilehash: c0778ac4ba4d33dc9e60e33f4d158d264a31946e
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: bd0399f16fb2bdaf1099597cd48c89d7e9d3651d
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712135"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794987"
 ---
 # <a name="value-added-tax-vat-information"></a>Informations sur la taxe sur la valeur ajoutée (T.V.A.)
 
-**Rôles appropriés**
-
-- Administrateur des comptes
+**Rôles appropriés**: administrateur de compte
 
 
 Si vous devez fournir un numéro d’identification de TVA pendant le processus d’inscription de l’espace partenaires, voici quelques informations pour vous aider à démarrer.

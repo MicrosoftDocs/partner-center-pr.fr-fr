@@ -9,19 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730078"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794953"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Découvrez comment lire les éléments de ligne dans vos fichiers de rapprochement de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur de la facturation
-- Administrateur général
+**Rôles appropriés**: administrateur de facturation | Administrateur général
 
 Vous pouvez télécharger vos fichiers de conciliation à partir de l’espace partenaires pour obtenir une vue détaillée de chaque facture dans un cycle de facturation. Les détails des éléments de ligne incluent les frais associés aux abonnements de chaque client et les événements détaillés (par exemple, ajout de licences à mi-parcours à un abonnement).
 
@@ -79,7 +76,7 @@ Si vous êtes en mesure de télécharger un fichier de réconciliation sans l’
 
 ## <a name="negative-amount-displayed"></a>Montant négatif affiché
 
-Vous pouvez voir un montant négatif dans votre fichier de réconciliation. Cela est probablement dû à l’une des raisons suivantes :
+Vous pouvez voir un montant négatif dans votre fichier de réconciliation. Ce problème est probablement dû à l’une des causes suivantes :
 
 - Vous avez récemment annulé ou réduit votre nombre de licences
 - Vous avez reçu un crédit pour un contrat de licence de service (SLA) ou pour la consommation Azure
