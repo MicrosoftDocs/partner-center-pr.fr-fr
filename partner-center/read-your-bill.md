@@ -9,21 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964355"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855911"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprendre votre facture et votre fichier de rapprochement-Découvrez comment les trouver dans l’espace partenaires
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la facturation
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Administrateur de facturation | Agent d’administration
 
 
 Votre **facture** est un **Résumé de toutes les facturations de l’espace partenaires** (dans le programme, tous les produits et tous les clients). 

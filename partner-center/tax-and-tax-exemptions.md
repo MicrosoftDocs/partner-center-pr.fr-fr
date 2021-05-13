@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284466"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856030"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays pour les partenaires dans le programme CSP
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés**: administrateur général
 
 Le programme fournisseur de solutions Cloud (CSP) est un canal de vente axé sur la revente des produits partenaires. Par conséquent, Microsoft n’est pas toujours obligé de facturer les taxes sur les factures des partenaires. Les règles varient en fonction du pays et/ou de la région. Vous pouvez consulter [les détails spécifiques au pays et à la région pour les exemptions de taxe](#country-and-region-tax-details).
 

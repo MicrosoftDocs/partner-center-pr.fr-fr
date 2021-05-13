@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172425"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855741"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Inscrivez les demandes que vous avez remportées dans l’espace partenaires pour pouvoir obtenir davantage d’opportunités ultérieurement
 
-**Rôles appropriés**
-
-- Administrateur des références
+**Rôles appropriés**: administration des références
 
 Vous pouvez enregistrer les transactions que vous avez conclues dans l’Espace partenaires en fournissant des informations supplémentaires sur le contrat. Ces informations nous permettent de vous proposer ensuite plus d’opportunités.
 
@@ -64,6 +62,6 @@ Sur la page **Références > Enregistrement des transactions > En cours** s'affi
 
 Si des informations doivent être mises à jour, vous pouvez déplacer l’enregistrement de la transaction vers la page **Action requise**.
 
-### <a name="closed"></a>Fermés
+### <a name="closed"></a>Fermé
 
 Dans la page **références > inscriptions de transactions > fermées** , vous verrez les transactions qui ont été correctement inscrites et revues par Microsoft. Vous pouvez utiliser les filtres pour afficher uniquement les enregistrements de transactions **Approuvés** ou **Refusés**.

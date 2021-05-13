@@ -1,5 +1,5 @@
 ---
-title: Développez votre activité avec des références Microsoft
+title: Développer votre activité avec les références Microsoft
 ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
@@ -9,18 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2f37a14cd8987b6bddc96594ebf622f8e7be59b0
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120729"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855860"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Développer votre activité avec des références de Microsoft
 
-**Rôles appropriés**
-
-- Administrateur des références
+**Rôles appropriés**: administration des références
 
 De nombreux clients recherchent des experts qualifiés capables de les aider à implémenter les solutions technologiques et commerciales de Microsoft. Chez Microsoft, nous recevons souvent directement des demandes d’aide de clients par le biais de nos activités marketing et de la part de nos agents commerciaux Microsoft en interne. Les clients utilisent également l’[expérience **Rechercher un fournisseur de solutions**](https://www.microsoft.com/solution-providers/search) pour trouver des sociétés capables de répondre aux besoins de leur entreprise. 
 

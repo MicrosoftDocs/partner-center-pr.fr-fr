@@ -9,22 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 94f79762e7fabb377b8d7b559ff9ba2623b135fe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002896"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856064"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Découvrez comment transférer les abonnements Azure d’un client à un autre partenaire
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés**: administrateur général
 
 Cet article décrit comment un client peut basculer ses services Microsoft Azure d’un fournisseur de solutions Cloud (CSP) vers un autre.
 

@@ -8,19 +8,16 @@ description: Demandez une relation avec un client pour les scénarios multi-part
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018133"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856115"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Guide pratique pour demander une relation de revendeur à un client dans l’Espace partenaires
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
+**Rôles appropriés**: agent admin | Administrateur général
 
 Si vous souhaitez gérer le service ou l’abonnement d’un client en son nom, le client doit vous accorder des autorisations d’administrateur pour ce service ou cet abonnement et signer le contrat du client Microsoft.
 

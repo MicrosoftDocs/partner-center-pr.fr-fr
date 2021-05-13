@@ -8,18 +8,16 @@ description: En tant que partenaire Microsoft, vous avez peut-être des question
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 7343e6b234fed9107689f451d23cd3a74c0c389f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002894"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856081"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guide des ressources de licence pour les partenaires Microsoft 
 
-**Rôles appropriés**
-
-- Agent d’aide
+**Rôles appropriés**: agent d’aide
 
 Cet article partage des ressources qui peuvent vous aider à répondre aux questions relatives aux licences des partenaires.
 

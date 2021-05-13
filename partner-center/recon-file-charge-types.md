@@ -9,24 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441592"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855877"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Comprendre les différents types de frais dans les fichiers de rapprochement de l’espace partenaires
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Administrateur général
+**Rôles appropriés**: agent admin | Administrateur de facturation | Administrateur général
 
 Cet article décrit les mappages entre une section de facture et les types de frais associés qui peuvent se trouver dans votre fichier de rapprochement. Votre facture fournit un résumé des frais. Votre fichier de réconciliation fournit une répartition détaillée des transactions d’éléments de ligne, y compris les types de frais. Pour plus d’informations sur les fichiers de rapprochement, voir [How to use Reconciliation Files](use-the-reconciliation-files.md).
 
