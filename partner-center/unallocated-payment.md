@@ -9,19 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755802"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818624"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gérer les paiements non alloués sur la page de facturation de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur de la facturation
-- Administrateur des comptes
+**Rôles appropriés**: administrateur de facturation | Administrateur de compte
 
 Parfois, vous pouvez voir un paiement non alloué sur votre page de facturation. Un paiement non alloué est un paiement que vous avez passé à Microsoft et que vous n’avez pas appliqué à une facture spécifique.
 

@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284143"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854772"
 ---
 # <a name="support-from-microsoft"></a>Support de Microsoft
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Agent du support technique
+**Rôles appropriés**: agent du support technique
 
 Si vous rencontrez des problèmes avec un service Microsoft ou avec l’espace partenaires, vous pouvez signaler le problème à Microsoft, faire remonter le problème à Microsoft pour obtenir de l’aide et suivre le problème jusqu’à ce qu’il soit résolu.
 

@@ -9,21 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: a2a5697f19baadb5af956a745c032ce1711574d3
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086887"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855231"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Tableau de bord des performances du revendeur dans Partner Center Insights
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le tableau de bord des performances du revendeur dans Partner Center Insights fournit une vue d’ensemble des performances des différents revendeurs indirects d’un fournisseur CSP indirect. Le tableau de bord fournit des données sur les revendeurs qui sont actifs, sur le chiffre d’affaires qu’ils génèrent et sur les produits qui génèrent du revenu. Les fournisseurs indirects pourront rechercher un revendeur spécifique par nom et rechercher les détails du revendeur dans le tableau de bord des performances du revendeur.
 

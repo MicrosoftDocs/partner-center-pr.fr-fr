@@ -8,21 +8,16 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086275"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854619"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Enterprise Mobility + Security disponible à partir du tableau de bord Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le rapport d’utilisation Enterprise Mobility + Security fournit des données d’utilisation pour les abonnements Enterprise Mobility + Security que vous avez vendus ou gérés pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation de Enterprise Mobility + Security.
 

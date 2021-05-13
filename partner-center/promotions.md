@@ -9,23 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215864"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854976"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Utilisez des promotions pour attirer de nouveaux clients et y passer des économies
 
 
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur partenaire MPN
-- Administrateur de la facturation
-- Agent commercial
+**Rôles appropriés**: agent admin | Administrateur du partenaire MPN | Administrateur de facturation | Agent des ventes
 
 
 Microsoft propose occasionnellement des promotions sur les abonnements basés sur les licences, qui vous permettent de répercuter les économies sur les clients et de développer votre activité. 

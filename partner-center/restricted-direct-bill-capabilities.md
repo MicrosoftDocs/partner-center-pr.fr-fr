@@ -9,18 +9,16 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018065"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855486"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Fonctionnalités de facture directe restreintes et exigences requises pour les partenaires de facturation directe de fournisseurs de solutions Cloud
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés**: administrateur général
 
 ## <a name="overview"></a>Vue d’ensemble
 

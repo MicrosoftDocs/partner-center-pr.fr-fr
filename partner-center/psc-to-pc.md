@@ -9,22 +9,16 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 584f8a7f2794cb64be49fe7f790904eff50c4c26
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770268"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855099"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Administrateur des références
-- Vendeur Partner Sales Connect (PSC)
-- Administrateur Partner Sales Connect (PSC)
-- Responsable des ventes Partner Sales Connect (PSC)
+**Rôles appropriés**: administrateur de compte | Administration des références | Vendeur Partner Sales Connect (PSC) | Administrateur Partner Sales Connect (PSC) | Responsable des ventes Partner Sales Connect (PSC)
 
 Cet article fournit des conseils pour les partenaires qui effectuent des migrations de Partner Sales Connect vers l’espace partenaires afin qu’ils puissent continuer à créer et à gérer les ventes de covente dans l’espace partenaires.
 

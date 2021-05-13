@@ -9,18 +9,16 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: e57ae5a30e3ee4331ae509a0650d09baf4a82590
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768752"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854891"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés**: administrateur général
 
 >[!Note]
 >Cet article s’adresse aux partenaires directs qui ont décidé de passer aux revendeurs indirects. Toutefois, même si vous n’avez pas encore décidé de vous inscrire en tant que revendeur indirect, les partenaires commerciaux directs qui ne satisfont pas aux nouvelles [conditions requises](direct-partner-new-requirements.md) pour le programme de partenaire de facture directe du CSP seront informés par Microsoft lorsque leurs [fonctionnalités de facture directe seront limitées](restricted-direct-bill-capabilities.md).
@@ -28,7 +26,7 @@ ms.locfileid: "104768752"
 
 Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre locataire direct Bill existant.
 
-## <a name="get-started"></a>Bien démarrer
+## <a name="get-started"></a>Commencer
 
 1. Vérifiez que votre profil de partenaire dans l’espace partenaires et l’ID MPN sont à jour.
 

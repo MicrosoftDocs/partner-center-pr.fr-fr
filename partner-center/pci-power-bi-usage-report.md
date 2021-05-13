@@ -8,21 +8,16 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086292"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854585"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Power BI disponible à partir du tableau de bord Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le rapport d’utilisation Power BI fournit des données d’utilisation pour les abonnements Power BI que vous avez vendus ou gérés pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation de Power BI.
 

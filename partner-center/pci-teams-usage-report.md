@@ -8,21 +8,16 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086717"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855180"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation des équipes disponible dans le tableau de bord Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le rapport utilisation des équipes présente les métriques liées aux charges de travail de vos équipes que vous avez vendues ou gérées pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation des équipes.
 

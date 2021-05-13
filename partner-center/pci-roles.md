@@ -9,21 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 803c299311f129c4842a92a27abd9b9addb49f17
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120781"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854432"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Contrôle d’accès en fonction du rôle au tableau de bord Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le tableau de bord Insights utilise deux nouveaux rôles dans l’espace partenaires pour gérer l’accès des employés aux rapports-visionneuse de rapports et visionneuse de rapports Executive.  Les utilisateurs du rôle de la visionneuse de rapports exécutifs ont accès à tous les jeux de données de rapports, tandis que les utilisateurs du rôle visionneuse de rapports n’ont pas accès aux jeux de données sensibles tels que les données personnelles des clients et des employés.  
 

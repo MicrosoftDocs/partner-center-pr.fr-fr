@@ -9,21 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a66e32a3c9320ac32b0749c67197c6a27574ce75
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712611"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818743"
 ---
 # <a name="view-your-incentives-program-details"></a>Afficher les détails de votre programme d’incentives
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
-- Utilisateur de primes incitatives
-- Administrateur général
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur d’incentives | Utilisateur d’incentives | Administrateur général | Administrateur du partenaire MPN
 
 Cet article explique la page **vue d’ensemble de mes incentives** , qui indique l’état global de vos programmes d’incentives, ainsi que l’état de chaque programme à chaque emplacement. Il fournit également les différents États d’inscription.
 

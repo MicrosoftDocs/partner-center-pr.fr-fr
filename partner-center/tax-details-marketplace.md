@@ -6,18 +6,16 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067437"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854806"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Détails des taxes pour les éditeurs de la place de marché commerciale
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés**: administrateur général
 
 Cette page définissent les responsabilités fiscales et les considérations fiscales pour les éditeurs de la place de marché commercial (éditeurs) et les développeurs de la place de marché grand public (développeurs) en relation avec les achats de produits de serveur de publication/développement conformément au contrat de l' [éditeur de place de marché Microsoft Azure](https://go.microsoft.com/fwlink/p/?LinkID=699560) et au contrat de [développement d’application](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH), respectivement.  Les informations ci-dessous s’ajoutent aux termes et conditions du contrat Microsoft Publisher et au contrat de développement d’applications, et ne sont pas destinés à les remplacer.  Sauf mention contraire, les informations ci-dessous s’appliquent aux éditeurs de la place de marché commercial et aux développeurs de la place de marché grand public qui rendent leurs produits/offres disponibles à la vente par le biais de Microsoft Marketplace. 
 

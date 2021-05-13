@@ -9,32 +9,28 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 6ba25d0bfc4796ca43d36bb34bf6d9e82889881c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018116"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855707"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Signaler un problème de service au nom d’un client, y compris quand et comment procéder
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés**: administrateur général
 
 Si votre client rencontre un problème de service que vous ne pouvez pas résoudre et que celui-ci répond aux critères décrits dans [escalader les problèmes à Microsoft](escalate-problems-to-microsoft.md), votre fournisseur indirect peut créer un ticket de support pour eux. Ce processus est également utile pour faire remonter des problèmes ou des litiges de facturation, ou en cas de fraudes.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Envoyer une demande de service pour un client
 
-1. Dans le menu de l’espace partenaires, sous CSP, sélectionnez **clients** .
+1. Dans le menu de l’Espace partenaires sous CSP, sélectionnez **Clients**
 
 2. Sur la page clients, sélectionnez ou recherchez le client de votre choix
     
-3. Dans le menu client, sélectionnez **demandes de service** .
+3. Dans le menu Client, sélectionnez **Demandes de service**.
 
 4. À partir du menu déroulant **Nouvelle demande**, sélectionnez **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite**. Vous êtes redirigé vers le Portail Microsoft Azure ou le centre d’administration Office 365.
 
@@ -101,7 +97,7 @@ Pour trouver les coordonnées de l’ISV :
     - Adresse e-mail de support
     - Numéro de téléphone pour contacter le support
 
-## <a name="faq"></a>Questions fréquentes (FAQ)
+## <a name="faq"></a>Forum aux questions
 
 Consultez les questions fréquemment posées suivantes sur les demandes de service que vous pouvez envoyer pour le compte d’un client. 
 

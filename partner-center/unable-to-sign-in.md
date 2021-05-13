@@ -9,18 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17087727afcaf3dbcf47801f8668388c370758e7
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266569"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818794"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Résoudre les problèmes de connexion pour l’espace partenaires
 
-**Rôles appropriés**
-
-- Tous les partenaires intéressés par l’espace partenaires
+**Rôles appropriés**: tous les partenaires intéressés par l’espace partenaires
 
 Cet article contient des solutions pour les problèmes de connexion courants de l’espace partenaires.
 

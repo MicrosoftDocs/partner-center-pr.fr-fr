@@ -7,20 +7,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441487"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854721"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Taxes régionales, réglementations relatives aux services de réseau public commuté (PTSN)
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur des utilisateurs
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Administrateur d’utilisateur | Agent d’administration
 
 Dans certaines juridictions, les services de réseau public commuté (RTPC) peuvent être soumis à des exigences légales et fiscales qui peuvent affecter l’ordre et la facturation des partenaires. Dans le États-Unis, y compris Porto Rico, les services RTPC, qui incluent la conférence audio, les plans d’appel et les crédits de communication, sont soumis à des obligations réglementaires et fiscales particulières. Dans le États-Unis et à Porto Rico, les tarifs de Microsoft sont les services RTPC comme taxes incluses.  Des taxes et réglementations uniques sur les RTPC affectent les partenaires Office 365 qui transportent des produits Microsoft 365 Voice.  Si un partenaire affiche le prix d’un service&nbsp;RTC Microsoft, il peut avoir à calculer et restituer des taxes et frais&nbsp;RTC.
 

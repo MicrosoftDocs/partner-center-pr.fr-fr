@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548935"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855520"
 ---
 # <a name="reset-my-password"></a>Réinitialiser mon mot de passe
  
-**Rôles appropriés**
-
-- Administrateur général
-- Tous les partenaires intéressés par l’espace partenaires
+**Rôles appropriés**: administrateur général | Tous les partenaires intéressés par l’espace partenaires
 
 
 Si vous ne vous souvenez pas de votre mot de passe de l’espace partenaires, vous pouvez le réinitialiser.
@@ -34,7 +31,7 @@ Pour utiliser cette méthode, votre administrateur général doit déjà avoir c
 
 2. Sélectionnez **compte professionnel ou scolaire**.
 
-3. Entrez votre ID d’utilisateur et les caractères dans l’image ou l’audio. Sélectionnez ensuite **Suivant**.
+3. Entrez votre ID d’utilisateur et les caractères dans l’image ou l’audio. Puis sélectionnez **Suivant**.
 
 4. Configurez votre nouveau mot de passe.
 

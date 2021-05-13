@@ -8,21 +8,16 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086309"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854601"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation d’Office 365 disponible dans le tableau de bord Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le rapport d’utilisation d’Office 365 fournit les données d’utilisation des abonnements Office 365 que vous avez vendus ou gérés pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport d’utilisation d’Office 365.
 

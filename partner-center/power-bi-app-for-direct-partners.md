@@ -10,23 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edc6469693e8dc8dcc93f9a4df66c9a232b29738
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 28fb6e9a963228f45a927089e0bb8ae3ecd452ff
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633673"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854534"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Vue d’ensemble et FAQ de l’application Partner Center Analytics pour Power BI (partenaires directs dans CSP)
 
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent commercial
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent commercial | Agent d’administration
 
 Obtenir une représentation visuelle de vos données d’entreprise avec l’application Partner Center Analytics pour Power BI. L’application, conçue pour les partenaires directs dans le programme fournisseur de solutions Cloud (CSP), se connecte à l’infrastructure de Power BI familière.
 

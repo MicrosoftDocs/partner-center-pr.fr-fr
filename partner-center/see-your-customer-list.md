@@ -9,23 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 6e73aa98e0cfaf82521a5fe63e34ebf0b44363fb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002839"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854500"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Gérer votre liste de clients-Rechercher, mettre à jour ou exporter des clients dans l’espace partenaires
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
+**Rôles appropriés**: agent admin | Administrateur général
 
 Les enregistrements de client comptent parmi vos ressources information les plus importantes dans l’Espace partenaires. Vous pouvez rechercher des comptes client dans votre base de données et exporter la base de données des clients totalement ou en partie dans un fichier&nbsp;CSV compatible avec Excel. Vous pouvez également exporter les informations sur les abonnements d’un client dans un fichier&nbsp;CSV.
 

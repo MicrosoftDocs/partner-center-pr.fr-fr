@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712747"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855350"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Définir, vérifier ou supprimer des budgets de dépenses Azure mensuels pour les clients dans l’espace partenaires
 
-**Rôles appropriés**
-
-- Agent d’administration
+**Rôles appropriés**: agent d’administration
 
 Vous pouvez [définir un budget de dépenses Azure mensuel pour vos clients](#set-azure-spending-budget) dans l’espace partenaires. Cela permet à vos clients de gérer leurs dépenses Azure. Cette option vous permet de comparer les dépenses Azure de vos clients au budget du mois. Il permet également à vos clients de budgétiser leurs dépenses Azure, de sorte que leur facture mensuelle n’est pas supérieure à celle qu’ils anticipent.
 

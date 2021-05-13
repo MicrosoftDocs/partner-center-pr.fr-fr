@@ -9,22 +9,17 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633843"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854993"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fournir un support technique pour aider les clients à configurer, gérer et utiliser leurs abonnements
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent du support technique
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent du support technique | Agent d’administration
 
 En tant que partenaire du fournisseur de solutions Cloud, vous avez délégué des privilèges d’administrateur qui vous donnent accès aux environnements de vos clients. Ces privilèges vous permettent de prendre en charge, de configurer et de gérer directement les abonnements de vos clients.
 
@@ -59,7 +54,7 @@ Les partenaires doivent recevoir des demandes de support entrantes de la part de
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
-Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d’informations, consultez :
+Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d'informations, consultez les pages suivantes :
 
 - [Abonnements Dynamics 365 vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

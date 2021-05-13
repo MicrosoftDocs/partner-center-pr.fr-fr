@@ -9,18 +9,16 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 0e8289ad06dbc8a95f5cff22ca386176d6ba65ab
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002856"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854823"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Skype Entreprise Online Plan 1 vers une version plus récente d'Office 365
 
-**Rôles appropriés**
-
-- Agent commercial
+**Rôles appropriés**: sales agent
 
 Le plan 1 de Skype entreprise Online sera mis hors service, à compter du 1er août 2018. Après cette date, les clients ne peuvent plus acheter les nouveaux abonnements du plan 1 Skype entreprise et les abonnements existants ne seront pas renouvelés automatiquement lorsqu’ils expirent et ne fourniront pas d’option de renouvellement. Sur la page de détails de l’abonnement, l’état de l’abonnement du plan 1 de Skype entreprise Online est passé à « expire le [date] » de « auto Renews on [date] ».  
 

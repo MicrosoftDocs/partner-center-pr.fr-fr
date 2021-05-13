@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086904"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855163"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Rapport licences du produit dans le tableau de bord Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le rapport licences du produit présente l’analytique des licences pour les produits Cloud basés sur des licences, comme Office 365, Dynamics, Microsoft 365, Power BI et d’autres. Les analyses présentées ici sont associées à l’utilisation des licences que vous avez vendues ou que vous gérez pour vos clients. Vous pouvez consulter les sections suivantes dans le rapport licences du produit.
 

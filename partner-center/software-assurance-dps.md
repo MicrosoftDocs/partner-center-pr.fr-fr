@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 8d5154ad63066cb9d1d3eda8cf78fc059217ca99
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266501"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854789"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Retrait des services de planification Software Assurance
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN
 
 
 Les services de planification sont entièrement mis hors service par le biais des avantages de Software Assurance, mais les clients peuvent continuer à travailler avec des partenaires pour utiliser des jours de service de planification, tandis que les bons sont valides. Il s’agit des dates significatives menant à la mise hors service du programme : 
@@ -36,7 +33,7 @@ Les services de planification sont entièrement mis hors service par le biais de
 >Il n’y a aucune modification du cycle de vie du document. Une fois qu’un document est créé/affecté, la réservation de pièce justificative, l’engagement client et l’échange de pièces justificatives doivent être effectués dans un délai de 180 jours avant l’expiration du document.  Pour plus d’informations sur la planification de la mise hors service du programme, consultez le Forum aux questions disponible [ici](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) pour plus d’informations (connexion requise).  Veuillez adresser vos questions à l’équipe de support des partenaires régionaux : [support partenaires EMEA](mailto:savoucher@msdirectservices.com); [Support général des partenaires](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
-### <a name="get-started"></a>Bien démarrer
+### <a name="get-started"></a>Commencer
 
 Si vous ne connaissez pas les services de planification Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le ou les programmes des services de planification, commencez chaque engagement à l’étape 4 (4) ci-dessous.
 

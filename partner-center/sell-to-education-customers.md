@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0c8812683a038ce1f869cb3cb6750424d49ec05
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028365"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855401"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Comment vendre des offres à des clients d’éducation et comment créer un client de formation dans l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: administrateur général | Agent d’administration | Agent des ventes
 
 ## <a name="create-an-education-customer"></a>Créer un client de formation
 
@@ -82,7 +78,7 @@ Vous devez disposer de privilèges d’administrateur général pour mettre à j
 
 2. Actualisez votre navigateur pour réinitialiser la page. Il y aura un bouton **mettre à jour** et l' **État des qualifications spéciales** est défini sur **aucun**.
 
-3. Sélectionnez **Update**. Dans la page **gestion des services** , sélectionnez **Office 365**.
+3. Sélectionnez **Mettre à jour**. Dans la page **gestion des services** , sélectionnez **Office 365**.
 
 4. Vous serez redirigé vers le centre d’administration Office 365 sous un nouvel onglet de votre navigateur. Vous pouvez être invité à vous connecter avec vos informations d’identification.
 

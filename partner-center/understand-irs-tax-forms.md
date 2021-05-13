@@ -8,18 +8,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d34984c3bbe8588cf2a5a40f7c50b14ba6928405
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284432"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818675"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Présentation des déclarations fiscales de l’IRS envoyées par Microsoft
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés**: administrateur général
 
 Vous pouvez recevoir une ou plusieurs formes fiscales de Microsoft chaque année. Cela dépend de votre emplacement et de la quantité de ventes ou de paiements que vous recevez. Microsoft est tenue de vous envoyer ces déclarations fiscales et de les transmettre aux services fiscaux américains (IRS).
 
@@ -61,10 +59,10 @@ Les formulaires fiscaux vous seront envoyés à partir des adresses suivantes :
 |------------------------|-----------------------|
 | J’avais **plus de 200 ventes d’applications** avec un montant total d’achat de ces ventes **supérieures à $20 000 USD** dans l’année fiscale applicable (**sans** compter les ventes effectuées au Brésil et en chine par le biais de l’Microsoft Store sur Windows 10.)| **1099-K :**<br/>Déclarant : Microsoft Corporation<br/>Ein : \* \* \* \* \* 4442<br/><br/>**Important :** La déclaration 1099-K indique les montants des **achats bruts**, pas les paiements que vous avez reçus.| 
 | J’ai reçu **au moins $10 dans le paiement** des ventes d’applications effectuées au Brésil et en Chine par le biais du Microsoft Store sur les ventes Windows 10 ou (II) sur la place de marché Minecraft.<br/><br/>**OR**<br/><br/>J’ai reçu au moins $600 paiements non liés aux ventes d’applications de Microsoft dans l’année fiscale applicable (par exemple, les paiements d’incentives ou les paiements d’un concours ou d’une promotion)| **1099-DIVERS :**<br/>Payeur : Microsoft Corporation<br/>Ein : \* \* \* \* \* 4442<br/><br/>**Important :** Certaines entités commerciales ne recevront pas de déclarations 1099-MISC, quel que soit le montant des paiements reçus de la part de Microsoft.  Pour plus d’informations, consultez votre professionnel de la fiscalité.| 
-| Aucun des deux ne s’applique.| None |
+| Aucun des deux ne s’applique.| Aucun |
 | <br/><br/>**Si je suis États-Unis développeur vendant des publicités dans des applications et...** |<br/><br/>**Je reçois le formulaire suivant :** |
 |J’ai reçu **au moins $600 dans le paiement** des publicités dans les applications de l’année fiscale en vigueur. | **1099-DIVERS :**<br/>Payeur : Microsoft Online Inc<br/>Ein : \* \* \* \* \* 0505<br/><br/>**Important :** Certaines entités commerciales ne recevront pas de déclarations 1099-MISC, quel que soit le montant des paiements reçus de la part de Microsoft.  Pour plus d’informations, consultez votre salaire professionnel. |
-| J’ai reçu **moins de $600 de paiements** des publicités dans les applications de l’année fiscale en vigueur. | None |
+| J’ai reçu **moins de $600 de paiements** des publicités dans les applications de l’année fiscale en vigueur. | Aucun |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Pour les développeurs ne résidant pas aux États-Unis

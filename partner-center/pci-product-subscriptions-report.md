@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 89806b08485bc4bd286c2e14a19924ca0e281b6d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086190"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854466"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Rapport sur les abonnements au produit disponible dans le tableau de bord Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le rapport abonnements aux produits présente des analyses sur les abonnements Cloud que vous avez vendus ou que vous gérez pour vos clients. Il s’agit d’un rapport spécifique à un produit qui comprend les performances des abonnements associés à des produits Cloud tels qu’Office 365, Azure, Dynamics et d’autres.
 

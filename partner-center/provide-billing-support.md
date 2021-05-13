@@ -9,23 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633656"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854126"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fournir du support sur la facturation à vos clients et aider à répondre à leurs questions sur la facturation
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent du support technique
-- Administrateur de la facturation
-- Agent commercial
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent du support technique | Administrateur de facturation | Agent des ventes
 
 Vous êtes responsable de la relation de facturation avec vos clients et vous êtes responsable de la réponse aux questions relatives à la facturation que vos clients peuvent avoir.
 
@@ -56,7 +50,7 @@ Les partenaires doivent recevoir des demandes de support entrantes de la part de
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
-Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d’informations, consultez :
+Chaque service en ligne a des exigences spécifiques et détaillées pour fournir la facturation, la gestion des abonnements et le support technique aux clients. Pour plus d'informations, consultez les pages suivantes :
 
 - [Abonnements Dynamics 365 vendus par le biais du CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

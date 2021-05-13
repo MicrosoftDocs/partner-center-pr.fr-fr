@@ -9,19 +9,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086241"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854551"
 ---
 # <a name="trainings-dashboard"></a>Tableau de bord formations
 
-**Rôles appropriés**
-
-- Visionneuse de rapports de la direction
-- Visionneuse de rapports
+**Rôles appropriés**: visionneuse de rapports Executive | Visionneuse de rapports
 
 Le tableau de bord formations fournit des Insights sur les certifications, les évaluations et les examens pris par l’entreprise Employees Company Employees. Le tableau de bord formations contient les sections suivantes :
 

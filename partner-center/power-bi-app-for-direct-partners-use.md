@@ -10,23 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633860"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855027"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Afficher vos données d’entreprise avec l’application Partner Center Analytics pour Microsoft Power BI
 
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent commercial
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent commercial | Agent d’administration
 
 ## <a name="view-your-business-data"></a>Afficher vos données d’entreprise
 

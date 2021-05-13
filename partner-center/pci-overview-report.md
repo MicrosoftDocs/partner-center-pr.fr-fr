@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120815"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855197"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Vue d’ensemble des rapports de tableau de bord disponibles dans les insights de l’Espace partenaires
  
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des indicateurs de performance clés tels que les clients, les abonnements, le chiffre d’affaires à la consommation Azure et les licences. Vous pouvez visualiser les graphiques suivants dans le rapport vue d’ensemble.
 

@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441640"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855605"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Outil de diagnostic et de requêtes du portail de l’espace partenaires
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Tous les partenaires intéressés par l’espace partenaires
+**Rôles appropriés**: tous les partenaires intéressés par l’espace partenaires
 
 Tous les utilisateurs connectés au centre des partenaires peuvent créer une demande de support partenaire. Les utilisateurs peuvent uniquement afficher les demandes de support qu’ils ont soumises après leur connexion à l’espace partenaires.
 Contactez le support technique si vous rencontrez des problèmes ou si vous avez besoin d’aide sur les erreurs du portail de l’espace partenaires. Envoyer des diagnostics pour que le problème soit résolu plus rapidement.

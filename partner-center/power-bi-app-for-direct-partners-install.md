@@ -10,22 +10,17 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633690"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854483"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installer et prévisualiser l’application Analyse de l’Espace partenaires pour Microsoft Power BI
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent commercial
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent commercial | Agent d’administration
 
 ## <a name="before-you-begin"></a>Avant de commencer
 
