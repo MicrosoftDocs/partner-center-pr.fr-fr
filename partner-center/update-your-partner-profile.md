@@ -9,19 +9,16 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315867"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818607"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Vérifier ou mettre à jour les informations du profil de votre entreprise 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de compte MPN
+**Rôles appropriés** : Administrateur général | Administrateur de compte MPN
 
 La première fois que vous vous connectez à l’Espace partenaires en tant qu’administrateur général, vous devez vérifier que tous les détails de votre entreprise sont corrects. Cela inclut le contact principal, le nom et l’adresse de l’entreprise légale ainsi que les informations sur les programmes. Si votre entreprise possède plusieurs emplacements, vérifiez l’exactitude de vos données de localisation. En tant qu’administrateur général, administrateur de facturation ou agent d’administration, vous pouvez également voir et mettre à jour vos informations de facturation et de fiscalité.
 

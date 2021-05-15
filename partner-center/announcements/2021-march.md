@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328064"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702873"
 ---
 # <a name="march-2021-announcements"></a>Annonces de mars 2021
 
@@ -24,7 +24,7 @@ Cette page contient les annonces de l’Espace partenaires Microsoft de mars 20
 
 ### <a name="categories"></a>Catégories
 
-- Date : 30/04/2021
+- Date : 30/03/2021
 - Préparation
 
 ### <a name="summary"></a>Résumé
@@ -834,7 +834,7 @@ ________________
 ### <a name="categories"></a>Catégories
 
 - Date : 03/03/2021
-- Fonctionnalités
+- Fonctions
 
 ### <a name="summary"></a>Résumé
 

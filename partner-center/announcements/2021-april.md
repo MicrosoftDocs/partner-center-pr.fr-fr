@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328047"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702822"
 ---
 # <a name="april-2021-announcements"></a>Annonces d’avril 2021
 
@@ -308,11 +308,12 @@ La session mensuelle de questions et réponses lors de l’appel de la communaut
 Pour plus d’informations, contactez le [support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Rappel : Dépréciation de la qualification GET le 4 mai 2021
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Dernier rappel : Dépréciation de la qualification GET le 6 mai 2021
 
 ### <a name="categories"></a>Catégories
 
-- Date : 09/04/2021
+- Date : 04/05/2021
+
 - Fonctions
 
 ### <a name="impacted-audience"></a>Public concerné
@@ -321,13 +322,13 @@ Partenaires proposant des offres Éducation, Sans but lucratif et Cloud de la co
 
 ### <a name="details"></a>Détails
 
-Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et par conséquent, la qualification GET existante sera mise hors service le 4 mai 2021. À ce moment-là, vous devrez utiliser les nouvelles API POST de l’Espace partenaires dans des offres Éducation, et la nouvelle API des qualifications GET pour acheter des offres Sans but lucratif et Cloud de la communauté du secteur public préqualifiées.
+Cette annonce est faite à la suite des [améliorations de l’Espace partenaires publiées en décembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1). Dans le cadre de cette version, de nouvelles API pour les qualifications GET et POST ont été déployées et, par conséquent, **la qualification GET existante sera mise hors service le 6 mai 2021**. D’ici là, vous devrez passer aux nouvelles API POST de l’Espace partenaires. Les nouvelles API POST vous permettront d’acheter des offres Éducation, et les nouvelles API GET des offres préqualifiées Sans but lucratif et Cloud de la communauté du secteur public.
 
 ### <a name="next-steps"></a>Étapes suivantes
 
-- Pour garantir une transition réussie et dans les temps, faites la mise à jour vers les nouvelles API.
+- Pour garantir une transition réussie et dans les temps, **faites la mise à jour vers les nouvelles API**.
 
-- Passez en revue les nouveaux changements de l’API Espace partenaires et le guide correspondant dans les ressources de préparation opérationnelle : [Améliorations du processus de validation des clients Éducation dans l’Espace partenaires](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- **Passez en revue les nouveaux changements de l’API Espace partenaires et le guide correspondant** dans les ressources de préparation opérationnelle : [Améliorations du processus de validation des clients Éducation dans l’Espace partenaires](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
 - Partagez ces informations avec les équipes appropriées au sein de votre organisation et avec vos revendeurs pour les aider à anticiper ces changements.
 
@@ -337,8 +338,12 @@ Pour toute question relative à cette notification, contactez le [support techni
 
 ### <a name="change-log"></a>Journal des modifications
 
-- Avril : Rappel de la dépréciation à venir de la qualification GET 
+- 4 mai 2021 : Dernier rappel de la dépréciation à venir de la qualification GET
+
+- 9 avril 2021 : Rappel de la dépréciation à venir de la qualification GET 
+
 - Février : Plannings mis à jour pour la dépréciation des qualifications GET et PUT
+
 - Janvier : Rappel des dépréciations à venir des qualifications GET et PUT
 
 ________________
