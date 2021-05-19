@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979674"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147902"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gérer les produits et offres de la place de marché commercial pour vos clients
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Agent d’administration
 
 Les partenaires du programme fournisseur de solutions Cloud (CSP) peuvent utiliser le portail espace partenaires pour acheter de nombreuses offres ou abonnements SaaS ISV pour leurs clients à partir du Marketplace commercial. Une fois que vous avez acheté une offre, vous disposez de différentes méthodes pour la gérer.
 

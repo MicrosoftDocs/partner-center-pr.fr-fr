@@ -9,19 +9,16 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f049ffda4c3d9476c09257fc814e5acac393cb54
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: c128b99b034564bcaa100ca975253f8b1bad7a42
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328013"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147953"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Gérer les licences dans les offres de la place de marché
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur des comptes
+**Rôles appropriés**: administrateur général | Administrateur de compte
 
 Cet article vous guide tout au long du processus de configuration d’une offre dans l’espace partenaires, de sa mise à disposition dans Microsoft AppSource, puis de la gestion des licences pour cette offre.  
 
@@ -88,7 +85,7 @@ Dans ces étapes, vous allez définir les plans que vous souhaitez activer pour 
 
 ## <a name="add-service-ids-to-your-solution"></a>Ajouter des ID de service à votre solution
 
-L’étape suivante consiste à mettre à jour votre solution en ajoutant les ID de service pour chaque plan que vous venez de copier. Pour obtenir de l’aide, consultez [créer un package AppSource pour votre solution](https://docs.microsoft.com/powerapps/developer/data-platform/create-package-app-appsource).
+L’étape suivante consiste à mettre à jour votre solution en ajoutant les ID de service pour chaque plan que vous venez de copier. Pour obtenir de l’aide, consultez [créer un package AppSource pour votre solution](/powerapps/developer/data-platform/create-package-app-appsource).
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Télécharger votre package et publier votre offre
 
@@ -101,7 +98,7 @@ Une fois l’offre publiée, nous examinerons et vérifierons vos informations. 
 
 ## <a name="make-your-offer-live-in-partner-center"></a>Rendre votre offre active dans l’espace partenaires
 
-La procédure suivante vous guide tout au long du processus de mise en production de votre offre dans AppSource. Pour en savoir plus sur ce processus, consultez [Présentation des options de liste](https://docs.microsoft.com/azure/marketplace/determine-your-listing-type).
+La procédure suivante vous guide tout au long du processus de mise en production de votre offre dans AppSource. Pour en savoir plus sur ce processus, consultez [Présentation des options de liste](/azure/marketplace/determine-your-listing-type).
 
 >[!NOTE]
 >Une fois que vous avez publié votre offre, le temps de mise en ligne est de 4-6 heures.

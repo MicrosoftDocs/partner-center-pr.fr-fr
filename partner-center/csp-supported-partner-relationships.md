@@ -9,19 +9,16 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b70f8f152bc3711e5a715b6a4f0316f8aaa9b903
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434898"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147511"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Découvrez comment les partenaires peuvent travailler avec d’autres partenaires dans le programme CSP
 
-**S’applique à**
-
-- Espace partenaires
-- Partenaires du programme Fournisseur de solutions Microsoft Cloud
+**Rôles appropriés**: tous les partenaires désireux d’en savoir plus sur le programme CSP
 
 Cet article décrit les principaux types de relations de partenaire dans le programme du fournisseur de solutions Microsoft Cloud (CSP). Il décrit également les différents cas d’utilisation, les avantages et les scénarios de transaction pris en charge pour les partenaires du programme CSP.
 

@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179256"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146797"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Créer un plan marketing pour votre programme d’incentives
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
-- Administrateur de la facturation
-- Administrateur général
+**Rôles appropriés**: administrateur d’incentives | Administrateur de facturation | Administrateur général
 
 Un plan de demandes de financement est une série de campagnes marketing, d’activités et d’autres détails décrivant la manière dont vous allez réussir votre programme. Une fois que vous avez créé votre plan, vous le soumettez à Microsoft pour approbation.
 

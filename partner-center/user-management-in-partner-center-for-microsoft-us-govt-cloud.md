@@ -10,18 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ddbc4415dc7ccf524f5e9618b2e787bc4ddb9926
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 4951d6abde3ea445ec588458af9f33f3ccd56092
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794936"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146831"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestion des utilisateurs et des licences dans l’Espace partenaires pour Microsoft Cloud for US Government
 
-**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
+**S’applique à**: espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-**Rôles appropriés**: administrateur général
+**Rôles appropriés** : administrateur général
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Comment gérer les utilisateurs dans le Portail Azure pour Microsoft Cloud pour le gouvernement des États-Unis
 

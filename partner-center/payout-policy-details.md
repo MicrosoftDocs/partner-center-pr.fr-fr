@@ -1,25 +1,22 @@
 ---
 title: Planifications et traitements des paiements
 description: En savoir plus sur les versements et les transactions, tels que les calendriers de paiement et les processus de remboursement pour la place de marché commerciale et les autres transactions.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086173"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146950"
 ---
 # <a name="payout-schedules-and-processes"></a>Planifications et traitements des paiements
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Administrateur général
+**Rôles appropriés**: administrateur de compte | Administrateur général
 
 Cet article décrit le calendrier de paiement de Microsoft, où trouver l’état d’un paiement et le processus de non-paiement du client.
 

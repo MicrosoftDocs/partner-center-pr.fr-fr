@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284296"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147188"
 ---
 # <a name="view-digitally-signed-invoices"></a>Afficher les factures signées numériquement
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires Inde
 
-- Espace partenaires Inde
-
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Agent de facturation
-- Agent commercial
+**Rôles appropriés**: administrateur de compte | Agent de facturation | Agent des ventes
 
 Les partenaires en Inde voient maintenant que Microsoft a signé numériquement des factures. Vous devez utiliser Adobe Acrobat Reader document Cloud (DC) pour afficher une signature.
 

@@ -9,23 +9,18 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 522237ab1a3a6814e36218ef2a57fd1bdda5437c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502899"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147681"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Appliquer à la vente dans les clouds nationaux Microsoft dans le cadre du programme CSP
 
-**S’applique à**
+**S’applique à**: espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis | Espace partenaires pour Microsoft Cloud Allemagne
 
-- Espace partenaires de Microsoft Cloud for US Government
-- Espace partenaires pour Microsoft Cloud Allemagne
-
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés** : administrateur général
 
 En plus de vendre aux clients dans le cadre du programme fournisseur de solutions de Cloud Computing global, les partenaires Microsoft qualifiés peuvent également vendre des solutions Cloud aux clients dans trois Clouds nationaux distincts. Les clouds nationaux sont des instances physiques et logiques isolées du réseau des services Cloud d’entreprise Microsoft, qui sont confinés dans les limites géographiques de pays spécifiques et exploitées par du personnel local.
 

@@ -8,24 +8,18 @@ description: Découvrez les réponses aux questions courantes sur l’utilisatio
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284211"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148344"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Résoudre les problèmes des connecteurs de référencements de covente
 
-**S’applique à**
+**S’applique à**: Dynamics 365 CRM | CRM Salesforce
 
-- Dynamics 365 CRM
-- CRM Salesforce
-
-**Rôles appropriés**
-
-- Administrateur des références
-- Administrateur système ou personnalisateur de système sur le CRM
+**Rôles appropriés**: administration des références | Administrateur système ou personnalisateur de système sur le CRM
 
  ## <a name="questions-and-answers-about-pre-requisites"></a>Questions et réponses sur les conditions préalables
 

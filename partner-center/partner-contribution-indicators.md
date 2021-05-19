@@ -9,20 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcd4d322a0a62644dbceb4ba4b4910d218495121
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: beb7888f947e766f753906c1f6452118cc5efb99
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740367"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147001"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utiliser les indicateurs de contribution des partenaires pour atteindre la compétence Applications métier dans le cloud
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
-- Administrateur des comptes
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN | Administrateur de compte
 
 Cet article décrit les sept principaux indicateurs de contribution partenaires (PCI) utilisés pour évaluer la progression d’un partenaire dans le cadre de la réalisation ou de la conservation d’une compétence en matière d’Business Applications Cloud Silver ou Gold.
 
@@ -115,7 +111,7 @@ Notez que 4 métriques sont mesurées en fonction de l’emplacement d’activit
 
 Le tableau ci-dessous montre l’emplacement qui s’applique à la mesure.
 
-| Nom de métrique | Location |
+| Nom de métrique | Emplacement |
 |:-------|:--------|
 | Nouveau revenu net | Emplacement du client |
 | Ajout au client net | Emplacement du client |

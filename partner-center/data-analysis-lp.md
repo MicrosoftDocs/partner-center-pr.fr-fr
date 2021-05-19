@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441878"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147205"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Utilisez Analytics pour en savoir plus sur les revenus des abonnements
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN
 
 Les méthodes de planification pour développer votre activité CSP incluent le fait de comprendre comment vos clients utilisent leurs produits Microsoft. Vous avez plusieurs options pour la collecte de données dans l’espace partenaires, et vous pouvez collecter des données sur votre entreprise et sur si et comment vos clients utilisent les licences qu’ils ont achetées. Si vous êtes dans le modèle de fournisseur de solutions de chiffrement direct, vous avez également la possibilité d’installer et d’utiliser l’application Partner Center Analytics pour Power BI pour collecter des données supplémentaires.
 

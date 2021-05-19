@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 140dd5b7ad8af0f29dabd452dd59f22e3314cdd5
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 1a758129a2610cbc42a6cc031d8527ed874d083b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979547"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147817"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Prise en charge des produits de la place de marché commercial dans le programme CSP
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Agent d’administration
 
 Les partenaires du programme CSP sont le premier point de contact pour les questions relatives à la facturation des clients ou à la gestion des abonnements liés à tout abonnement ISV tiers ou produit acheté pour les clients à partir de la place de marché commerciale.
 

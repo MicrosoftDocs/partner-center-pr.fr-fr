@@ -9,19 +9,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133112"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146542"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gérer différents prospects, comme les demandes des clients, des prospects qualifiés par le marketing et des prospects qualifiés par les commerciaux
 
-**Rôles appropriés**
-
-- Administrateur partenaire MPN
-- Administrateur des références
+**Rôles appropriés**: administrateur de partenaire MPN | Administration des références
 
 Microsoft envoie des millions de clients par an à ses partenaires. Vous avez la possibilité de recevoir des opportunités de Microsoft et de développer votre activité. Cette section vous aidera à comprendre comment gérer les clients que vous recevez à partir de la page Microsoft Solution Provider et comment agir sur ceux-ci.
 

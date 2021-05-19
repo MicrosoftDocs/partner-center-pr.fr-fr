@@ -9,25 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441895"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147273"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Découvrez comment lire les fichiers de rapprochement d’utilisation évalués quotidiennement dans l’espace partenaires
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Agent commercial
-- Agent du support technique
+**Rôles appropriés**: agent admin | Administrateur de facturation | Agent commercial | Agent du support technique
 
 Cet article explique comment lire les fichiers de réconciliation d’utilisation évalués quotidiennement.
 
@@ -80,7 +73,7 @@ Cet article explique comment lire les fichiers de réconciliation d’utilisatio
 | PricingCurrency | Devise utilisée dans la liste de prix. |
 | ServiceInfo1 | Nombre de connexions Service Bus qui ont été approvisionnées et utilisées pour un jour donné. |
 | ServiceInfo2 | Champ hérité qui capture les métadonnées facultatives propres au service. |
-| Balises | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
+| Étiquettes | Représente une organisation logique des ressources Azure définies par l’utilisateur. |
 | AdditionalInfo | Toutes les informations supplémentaires non couvertes sont dans les autres colonnes. |
 | EffectiveUnitPrice | Valeur réelle facturée par unité, y compris les remises, les crédits acquis, etc. |
 | PCToBCExchangeRate | Taux de change appliqué pour la devise de tarification à la devise de facturation. |

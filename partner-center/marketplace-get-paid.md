@@ -1,25 +1,22 @@
 ---
 title: Obtenir le paiement dans l’espace partenaires
 description: En savoir plus sur la réception de paiements pour les revenus en tant que partenaire Microsoft, par exemple via les offres de la place de marché commercial, les programmes d’incentives et le programme fournisseur de solutions Cloud. Comprend la stratégie de paiement, l’état de retenue au paiement et les instructions de paiement.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 3dc8b728ef20da77b9a6d2a925ebb0388ea53837
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133078"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146491"
 ---
 # <a name="getting-paid-in-partner-center"></a>Obtenir le paiement dans l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Administrateur général
+**Rôles appropriés**: administrateur de compte | Administrateur général
 
 Cet article contient des informations importantes sur la réception de paiements pour vos offres, modules complémentaires et revenus publicitaires. Elle résume la stratégie de paiement, les étapes requises avant le paiement et la présentation des relevés de paiement.
 
@@ -27,9 +24,9 @@ Cet article contient des informations importantes sur la réception de paiements
 
 L’obtention du paiement vous oblige à respecter les contrats et la politique de paiement.
 
-- [Contrat](https://go.microsoft.com/fwlink/p/?LinkID=699560)de l’éditeur de place de marché Microsoft Azure : avant de payer, vous devez accepter ce contrat d’éditeur. Le présent contrat explique la relation entre vous et Microsoft en ce qui concerne les offres de vendeur dans la place de marché commercial, y compris les frais de stockage facturés par Microsoft pour chaque vente.
+- [Contrat](/legal/marketplace/msft-publisher-agreement)de l’éditeur de place de marché Microsoft Azure : avant de payer, vous devez accepter ce contrat d’éditeur. Le présent contrat explique la relation entre vous et Microsoft en ce qui concerne les offres de vendeur dans la place de marché commercial, y compris les frais de stockage facturés par Microsoft pour chaque vente.
 - La [stratégie](payout-policy-details.md) de paiement montre les stratégies de paiement de paiement, notamment le calendrier de paiement et les modes de paiement. La stratégie explique également le processus de non-paiement des clients.
-- Les [Détails des taxes](tax-details-marketplace.md) décrivent les taxes relatives à la sélection des prix et à la responsabilité fiscale dans le cadre du contrat Microsoft [Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560).
+- Les [Détails des taxes](tax-details-marketplace.md) décrivent les taxes relatives à la sélection des prix et à la responsabilité fiscale dans le cadre du contrat Microsoft [Publisher](/legal/marketplace/msft-publisher-agreement).
 - Les **frais de stockage** sont officiellement définis dans le contrat d’éditeur. Les frais de stockage sont appliqués à toutes les ventes d’offres collectées par le Marketplace commercial, y compris les modules complémentaires.
 - Les **paiements** sont effectués chaque mois (à condition que le seuil de paiement soit respecté). En règle générale, nous envoyons tout paiement dû pendant un mois donné, le 15 du mois. Les paiements prennent généralement entre 3 et 10 jours ouvrables supplémentaires pour atteindre votre compte de paiement. Pour plus d’informations, consultez [Seuils, modes et délais de paiement](payment-thresholds-methods-timeframes.md).
 

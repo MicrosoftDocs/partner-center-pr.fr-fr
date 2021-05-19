@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 28a3b40eb3a3e037cbeb434c57a93b9a0a94e691
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979652"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148089"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contrats pour les partenaires CSP qui exercent des activités dans la place de marché commerciale
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Agent d’administration
 
 Cet article concerne les contrats des partenaires du programme CSP qui choisissent d’acheter des offres de la place de marché ISV ou des produits pour leurs clients à partir de la place de marché commerciale de l’espace partenaires ou du Portail Azure.
 

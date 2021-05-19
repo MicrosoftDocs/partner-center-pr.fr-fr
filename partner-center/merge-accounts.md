@@ -8,18 +8,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133061"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146508"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Fusionner votre compte partenaire avec un autre compte partenaire
 
-**Rôles appropriés**
-
-- Administrateur des comptes
+**Rôles appropriés**: administrateur de compte
 
 Au moins deux sociétés qui sont des partenaires Microsoft actifs et qui disposent de comptes dans l’espace partenaires peuvent choisir de fusionner leurs comptes.
 

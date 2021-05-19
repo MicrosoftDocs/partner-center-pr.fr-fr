@@ -9,18 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 7c18f69a62e8f8d126a0756911d2fbcdfdb85d8d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979445"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147868"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Vue d’ensemble de la place de marché commerciale dans l’Espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés** : administrateur général
 
 En tant que partenaire dans le programme du fournisseur de solutions Cloud (CSP), vous pouvez regrouper et vendre des produits Microsoft, ainsi que des solutions publiées par des éditeurs de logiciels indépendants tiers. La possibilité de regrouper des solutions de cette façon vous permet de mieux servir les clients finaux et de développer vos activités de services CSP.
 
@@ -34,7 +32,7 @@ En tant que partenaire dans le programme CSP, vous pouvez utiliser l’espace pa
 
 ## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Vue d’ensemble des offres CSP dans la place de marché commerciale
 
-Si vous êtes un partenaire du programme CSP, il existe de nombreuses activités commerciales de la place de marché que vous pouvez exécuter en ce qui concerne les offres ISV. Consultez le tableau suivant pour en savoir plus sur chaque activité.
+Si vous êtes un partenaire du programme CSP, vous pouvez effectuer de nombreuses activités commerciales commerciales en ce qui concerne les offres ISV. Consultez le tableau suivant pour en savoir plus sur chaque activité.
 
 |**Si vous souhaitez**  |**Lire**   |
 |:------------------------------------|:------------------|

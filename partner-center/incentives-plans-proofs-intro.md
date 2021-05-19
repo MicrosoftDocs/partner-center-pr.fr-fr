@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179171"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146746"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Utilisez ces ressources pour vous aider à créer des plans d’incentives et des preuves d’exécution
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
-- Utilisateur de primes incitatives
+**Rôles appropriés**: administrateur d’incentives | Utilisateur d’incentives
 
 Cet article décrit quelques-uns des documents clés dont vous avez besoin pour réussir et vous payer pour votre travail dans le cas d’un programme d’incentives spécifique. Ces documents sont les suivants :
 

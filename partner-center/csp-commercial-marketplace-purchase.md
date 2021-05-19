@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979714"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147851"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Acheter des produits de la place de marché commercial pour vos clients dans l’espace partenaires
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Agent d’administration
 
 En tant que partenaire dans le programme du fournisseur de solutions Cloud (CSP), vous pouvez utiliser le Marketplace commercial pour acheter des abonnements pour vos clients à certains produits SaaS (Software as a service) proposés par des éditeurs de logiciels indépendants (ISV).
 

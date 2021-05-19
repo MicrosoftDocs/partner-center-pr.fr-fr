@@ -9,20 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686192"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148429"
 ---
 # <a name="connect-with-customers"></a>Entrer en contact avec les clients
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Agent d’administration
 
 
 Pour effectuer des transactions avec les clients sur l’Espace partenaires, vos clients doivent disposer de comptes de l’Espace partenaires et vous devez établir des relations de revendeur avec eux. Pour autoriser votre fournisseur indirect à acheter des abonnements et des services pour le compte de vos clients, le fournisseur doit également avoir des relations de revendeur avec ceux-ci.

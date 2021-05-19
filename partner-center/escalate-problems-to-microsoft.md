@@ -9,25 +9,18 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441844"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146967"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Faire remonter les problèmes à Microsoft et découvrir les problèmes les plus adaptés à cette procédure  
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
-- Agent commercial
-- Agent du support technique
+**Rôles appropriés**: agent admin | Administrateur général | Agent commercial | Agent du support technique
 
 Vous devez normalement résoudre les problèmes pour le compte de vos clients. Dans un premier temps, vous devez [vérifier l’état du service](check-service-health.md), et rechercher des problèmes connus et documentés. Si ces mesures ne permettent pas de trouver une solution au problème du client, vous pouvez utiliser vos privilèges d’administration pour résoudre les problèmes de logiciel, de paramètres et de configuration.
 

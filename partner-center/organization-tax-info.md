@@ -9,22 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132755"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146933"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Ajouter un ID de TVA à votre profil de facturation
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Administrateur de la facturation
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Administrateur de facturation | Agent d’administration | Agent des ventes
 
 Vous pouvez utiliser la procédure suivante pour mettre à jour votre profil de facturation pour inclure votre ID de TVA. (Notez que cela peut ne pas être possible dans votre pays ou région.)
 

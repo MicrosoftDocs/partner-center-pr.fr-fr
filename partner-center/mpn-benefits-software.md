@@ -9,21 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619373"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146287"
 ---
 # <a name="mpn-benefits---software"></a>Avantages MPN-logiciel
 
-**Rôles appropriés**
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN
 
-- Administrateur général
-- Administrateur partenaire MPN
-
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 Cet article décrit les avantages logiciels locaux disponibles pour les partenaires à partir de l’espace partenaires. Pour afficher tous les logiciels que vous êtes autorisé à utiliser dans le cadre de votre offre d’inscription active, accédez à  [MPN>Benefits, puis sélectionnez l’onglet logiciel](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) dans le menu de l’espace partenaires.  
 
@@ -60,7 +57,7 @@ Le nombre d’activations comptabilisées par rapport à une clé de produit est
 
  ## <a name="next-steps"></a>Étapes suivantes
 
-- [Gérez vos avantages et offres Microsoft Partner Network](manage-your-partner-network-benefits.md)
+- [Gérer vos avantages et offres Microsoft Partner Network](manage-your-partner-network-benefits.md)
 
 - [Utiliser le support technique en incidents pour obtenir un support technique spécifique au produit](mpn-benefits-technical-support.md)
 

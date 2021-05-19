@@ -9,21 +9,16 @@ ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5cb60c775bd8de38b8d7ca69c4dd97cf11b919fd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178899"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146610"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Présentation des champs de facturation de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Administrateur de la facturation
-- Agent du support technique
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Administrateur de facturation | Agent du support technique
 
 Vous pouvez utiliser les tableaux suivants pour comprendre les champs des fichiers de facture de l’espace partenaires.
 

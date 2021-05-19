@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 894d0152920c37c0c6d719fce562c43dbf96a6c4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502745"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147358"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Comment les partenaires du programme CSP peuvent vendre des abonnements aux clients
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
-- Agent du support technique
-- Agent commercial
+**Rôles appropriés**: agent admin | Administrateur général | Agent du support technique | Agent des ventes
 
 En tant que partenaire CSP, l’un des éléments centraux que vous effectuez est l’offre d’abonnements pour les produits Microsoft à vos clients. Dans l’espace partenaires, vous pouvez gérer tous vos abonnements pour chaque client. Vous pouvez ajouter des abonnements, ajouter des licences à des abonnements existants, et même proposer des abonnements d’essai aux clients qui souhaitent test drive le logiciel. En outre, vous pouvez afficher des analytiques pour comprendre comment vos clients utilisent le logiciel, ce qui vous permet de bénéficier d’une meilleure prise en charge.
 

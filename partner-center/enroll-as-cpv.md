@@ -9,19 +9,17 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560508"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147137"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>S’inscrire en tant que fournisseur de panneau de configuration pour faciliter l’intégration des systèmes de partenaires CSP aux API de l’Espace partenaires
 
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés** : administrateur général
 
 Un fournisseur du panneau de configuration (CPV) est un éditeur de logiciels indépendant qui développe des applications pour une utilisation par les partenaires du fournisseur de solutions Cloud (CSP) afin de leur permettre d’intégrer leurs systèmes aux API de l’espace partenaires. Un fournisseur du panneau de configuration n’est pas un partenaire CSP disposant d’un accès direct au tableau de bord de l’espace partenaires ou aux API de l’espace partenaires.
 

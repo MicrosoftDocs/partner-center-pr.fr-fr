@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e8c0935ecf4cf7dba799eefbcbb74ed5e6702994
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178933"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146661"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Utiliser des métriques dans l’espace partenaires pour augmenter l’adoption et la satisfaction
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent d’administration | Agent des ventes
 
 Nos partenaires utilisent de nombreux indicateurs de performance pour évaluer la croissance de leurs activités et savoir où concentrer leur investissement. L’Espace partenaires peut être utile en fournissant des données permettant de savoir si et comment vos clients utilisent les licences qu’ils ont achetées. Ces informations sont disponibles pour les produits Office (y compris OneDrive&nbsp;Entreprise, compté conjointement avec SharePoint).
 

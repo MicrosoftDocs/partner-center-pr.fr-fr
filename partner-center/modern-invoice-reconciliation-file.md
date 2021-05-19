@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702788"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146253"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Champs du fichier de rapprochement des achats à usage unique CSP
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Agent de facturation
+**Rôles appropriés**: administrateur de compte | Agent de facturation
 
 ## <a name="using-the-recon-file"></a>Utilisation du fichier de rapprochement
 Le tableau ci-dessous fournit des descriptions et des exemples de valeurs pour les champs du fichier de rapprochement pour les achats à usage unique du CSP.

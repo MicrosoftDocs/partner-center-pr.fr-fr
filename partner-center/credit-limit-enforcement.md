@@ -1,5 +1,5 @@
 ---
-title: Application de la limite de crédit
+title: Application d’une limite de crédit
 ms.topic: how-to
 ms.date: 05/11/2021
 description: En savoir plus sur la limite de crédit et la façon dont elle est calculée. Comprend un Forum aux questions.
@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819207"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148106"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Application de la limite de crédit (CLE)
 
-**Rôles appropriés**
-
-- Administrateur de la facturation
+**Rôles appropriés**: administrateur de facturation
 
 ## <a name="your-credit-limit-and-how-it-works"></a>Votre limite de crédit et son fonctionnement
 

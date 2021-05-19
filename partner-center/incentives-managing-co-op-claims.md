@@ -8,18 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179154"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146763"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gérer les demandes d’incentives de co-op
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
+**Rôles appropriés**: administrateur d’incentives
 
 Le contenu suivant vous donne des informations pour gérer les revendications de coopération, y compris les chronologies, les règles et comment contester une revendication de coopération rejetée.
 

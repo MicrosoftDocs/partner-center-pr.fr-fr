@@ -1,7 +1,7 @@
 ---
 title: Créer des abonnements clients dans l’espace partenaires
 ms.topic: how-to
-ms.date: 07/22/2020
+ms.date: 05/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment vendre des abonnements à vos clients pour des produits publiés par Microsoft ainsi que des produits SaaS publiés par des éditeurs de logiciels indépendants tiers.
@@ -9,26 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502933"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148194"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Administrateur général
-- Agent du support technique
-- Agent commercial
+**Rôles appropriés**: agent admin | Administrateur de facturation | Administrateur général | Agent du support technique | Agent des ventes
 
 Une fois que vous avez créé un enregistrement de votre client dans l’Espace partenaires, vous pouvez lui vendre des abonnements aux produits figurant dans le catalogue. Cela comprend les produits publiés par Microsoft et les produits SaaS (Software as a service) publiés par des éditeurs de logiciels indépendants (ISV) tiers sur la place de [marché commerciale](https://azuremarketplace.microsoft.com/marketplace).
 
@@ -115,6 +107,9 @@ Lorsque vous attribuez à un abonnement l’état **Suspendu**, les utilisateurs
 5. Toutes les données seront supprimées, sauf si l’abonnement est réactivé dans les 90 jours, ou 90 jours en plus du nombre de jours écoulés entre la date d'ouverture du compte et la première période de facturation (120 jours maximum).
 
 Lorsque vous suspendez un abonnement, la date affichée sous le bouton **Suspendu** indique quand l’abonnement va automatiquement expirer si vous ne le réactivez pas. 
+
+>[!NOTE]
+>Les abonnements CSP n’ont pas de période d’expiration (la façon dont les abonnements directs Web le font) au cours desquels les services continuent de fonctionner, mais l’abonnement ne génère aucun frais de facturation. Les abonnements CSP sont actifs ou suspendus (ou entièrement supprimés).
 
 ### <a name="cancel-a-subscription"></a>Annuler un abonnement
 

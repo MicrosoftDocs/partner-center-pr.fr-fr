@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179103"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146712"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Les 10 éléments essentiels pour l’utilisation des incentives
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
-- Utilisateur de primes incitatives
+**Rôles appropriés**: administrateur d’incentives | Utilisateur d’incentives
 
 Le programme Microsoft Incentive est un outil puissant qui récompense les partenaires pour engager des clients avec des produits et services Microsoft. Plus vous comprenez le programme, plus vos chances de réussite.
 

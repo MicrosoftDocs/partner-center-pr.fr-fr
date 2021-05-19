@@ -9,19 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f741ef4e44632e1d239285b58e99fbb38a8f37e7
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: ab30f8391df58155c8511dc628b1fefd94c8d768
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979598"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147970"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Découvrir les offres et la tarification dans la place de marché commercial de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Agent d’administration
 
 Lorsque des éditeurs de logiciels indépendants choisissent de publier une offre dans la place de marché commercial, ils peuvent également décider s’ils souhaitent que l’offre soit disponible dans le programme CSP. S’ils choisissent de vendre l’offre par le biais du programme CSP, les partenaires CSP doivent voir l’offre dans la place de marché de l’espace partenaires.
 

@@ -8,19 +8,16 @@ description: Synchronisez vos références dans l’espace partenaires avec votr
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fa9b35343e1251cfce5caff107de8dff344f4e68
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284381"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148412"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Connecteur de covente pour Salesforce CRM - vue d’ensemble
 
-**Rôles appropriés**
-
-- Administrateur des références
-- Administrateur système ou personnalisateur de système sur le CRM
+**Rôles appropriés**: administration des références | Administrateur système ou personnalisateur de système sur le CRM
 
 Le connecteur de co-vente de l’espace partenaires permet à vos vendeurs de vendre leurs produits auprès de Microsoft à partir de vos systèmes CRM. Ils n’ont pas besoin d’être formés pour utiliser l’espace partenaires pour gérer les ventes de covente. À l’aide des connecteurs de covente, vous pouvez créer une référence de covente pour contacter un vendeur Microsoft, recevoir des références de la part du vendeur Microsoft, accepter/refuser des références, modifier les données de l’offre, telles que la valeur de la transaction, et la date de clôture.  Vous pouvez également recevoir toutes les mises à jour des vendeurs Microsoft sur ces offres de covente. Vous pouvez faire en sorte que toutes vos références fonctionnent lorsque vous travaillez dans le CRM de votre choix plutôt que dans l’espace partenaires. 
 
@@ -42,12 +39,12 @@ La solution est basée sur Microsoft Power Automated solution et utilise les API
 Pour synchroniser les références entre l’espace partenaires et le CRM Salesforce, la solution Power automate doit identifier clairement les champs de référence spécifiques à Microsoft. Cette délimitation fournit aux équipes de vendeur partenaires la possibilité de choisir les références qu’elles souhaitent partager avec Microsoft pour la covente.
 
 1. Dans Salesforce, activez les **Notes** et ajoutez-les à la liste des opportunités associées. 
-[Référence](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+[Informations de référence](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 2. Pour activer les **équipes d’opportunités** , procédez comme suit : 
     - Dans le programme d’installation, utilisez la zone de **recherche rapide** pour localiser les paramètres de l’équipe des opportunités.
     - Définissez les paramètres selon vos besoins.
-[Référence](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
+[Informations de référence](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
 3. Dans Salesforce, installez des champs et des objets personnalisés à l’aide du [programme d’installation de package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). À utiliser pour installer le package dans n’importe quelle entreprise.
 
@@ -100,7 +97,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
 
 
-## <a name="configure-the-solution"></a>Configuration de la solution
+## <a name="configure-the-solution"></a>Configurer la solution
 
 1. Une fois que vous avez installé la solution dans votre instance CRM, revenez à [Power automate](https://flow.microsoft.com/).
 

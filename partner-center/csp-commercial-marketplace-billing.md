@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979530"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148021"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturation des produits et abonnements de la place de marché commercial dans l’espace partenaires
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la facturation
+**Rôles appropriés**: administrateur général | Administrateur de facturation
 
 En tant que partenaire dans le programme CSP, vous pouvez utiliser l’espace partenaires pour acheter des produits SaaS basés sur une licence auprès d’éditeurs ISV dans le Marketplace commercial. Après cela, vous pouvez accéder à une facture pour ces types d’achats. La période de facturation commence le premier jour du mois civil et se termine le dernier jour du mois civil. Les factures sont rendues disponibles le huitième jour du mois suivant.
 
@@ -47,7 +44,7 @@ L’administrateur général ou l’administrateur de facturation de votre entre
 
     - Onglet **achats récurrents et ponctuels** : affiche les fichiers de facturation et de rapprochement pour le plan Azure, les réservations Azure, les logiciels et les produits de la place de marché commercial.
   
-3. Sélectionnez l’onglet **achats récurrents et ponctuels** . Si vous avez acheté des abonnements pour un client dans une devise différente, vous verrez un onglet pour chaque devise. Vous pouvez effectuer quelques opérations fr : OM de cette page :
+3. Sélectionnez l’onglet **achats récurrents et ponctuels** . Si vous avez acheté des abonnements pour un client dans une devise différente, vous verrez un onglet pour chaque devise. Vous pouvez effectuer quelques opérations à partir de cette page :
 
     - Pour afficher le dernier fichier de facture et de rapprochement, sélectionnez **facture** ou **fichier de réconciliation**. (Si vous le souhaitez, vous pouvez également accéder à la dernière facture et rapprocher les données du fichier à l’aide des API de l' [espace partenaires](/partner-center/develop/).
 
@@ -101,7 +98,7 @@ Dans le cas d’une version d’évaluation gratuite, les éditeurs de logiciels
 
 - Lorsque vous achetez et déployez le produit gratuit d’évaluation d’un ISV pour votre client, le client est automatiquement inscrit dans la version d’évaluation gratuite de l’éditeur ISV. La période d’évaluation gratuite se termine automatiquement après la période définie par l’éditeur ISV. Une fois la période terminée, le client est facturé. Cela signifie que le fichier de rapprochement peut afficher deux lignes pour un produit éligible à l’évaluation : un qui effectue le suivi de la période d’évaluation et un pour le suivi de l’offre payante (qui affiche un coût de $0 jusqu’à la fin de la période d’évaluation). Une fois l’évaluation terminée, la ligne affichant l’offre payante commence à afficher les frais. 
 
-Pour plus d’informations sur ce que représente chaque colonne, consultez [utiliser vos fichiers de réconciliation](use-the-reconciliation-files.md). Voir aussi [types de facturation dans l’espace partenaires](billing-different-types.md)
+Pour plus d’informations sur ce que représente chaque colonne, consultez [utiliser vos fichiers de réconciliation](use-the-reconciliation-files.md). Voir aussi [types de facturation dans l’espace partenaires](./billing-basics.md)
 
 ## <a name="next-steps"></a>Étapes suivantes
 
