@@ -9,32 +9,28 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284177"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147460"
 ---
-# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a><span data-ttu-id="bccf8-103">Prise en charge du client en libre-service par le biais du centre d’administration Microsoft Office 365 ou via le Portail Azure</span><span class="sxs-lookup"><span data-stu-id="bccf8-103">Customer self-support through Microsoft Office 365 admin center or through the Azure portal</span></span>
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a><span data-ttu-id="715cf-103">Prise en charge du client en libre-service par le biais du centre d’administration Microsoft Office 365 ou via le Portail Azure</span><span class="sxs-lookup"><span data-stu-id="715cf-103">Customer self-support through Microsoft Office 365 admin center or through the Azure portal</span></span>
 
-<span data-ttu-id="bccf8-104">**S’applique à**</span><span class="sxs-lookup"><span data-stu-id="bccf8-104">**Applies to**</span></span>
+<span data-ttu-id="715cf-104">**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis</span><span class="sxs-lookup"><span data-stu-id="715cf-104">**Applies to**: Partner Center | Partner Center for Microsoft Cloud for US Government</span></span>
 
-- <span data-ttu-id="bccf8-105">Espace partenaires de Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="bccf8-105">Partner Center for Microsoft Cloud for US Government</span></span>
+<span data-ttu-id="715cf-105">**Rôles appropriés**: agent du support technique</span><span class="sxs-lookup"><span data-stu-id="715cf-105">**Appropriate roles**: Helpdesk agent</span></span>
 
-<span data-ttu-id="bccf8-106">**Rôles appropriés**</span><span class="sxs-lookup"><span data-stu-id="bccf8-106">**Appropriate roles**</span></span>
+<span data-ttu-id="715cf-106">Les clients peuvent se connecter à leur propre Microsoft Office Centre d’administration 365 ou dans le Portail Azure pour gérer leurs propres comptes :</span><span class="sxs-lookup"><span data-stu-id="715cf-106">Customers can sign into their own Microsoft Office 365 admin center or into the Azure portal to manage their own accounts:</span></span>
 
-- <span data-ttu-id="bccf8-107">Agent du support technique</span><span class="sxs-lookup"><span data-stu-id="bccf8-107">Helpdesk agent</span></span>
+- <span data-ttu-id="715cf-107">Afficher les communications et les notifications sur les produits, telles que les informations d’état du service dans le Centre de messages.</span><span class="sxs-lookup"><span data-stu-id="715cf-107">View in-product communications and notifications, such as service health information, in the Message Center.</span></span>
 
-<span data-ttu-id="bccf8-108">Les clients peuvent se connecter à leur propre Microsoft Office Centre d’administration 365 ou dans le Portail Azure pour gérer leurs propres comptes :</span><span class="sxs-lookup"><span data-stu-id="bccf8-108">Customers can sign into their own Microsoft Office 365 admin center or into the Azure portal to manage their own accounts:</span></span>
+- <span data-ttu-id="715cf-108">Effectuer toutes les tâches de configuration et d’administration du service comme s’il avait été acheté directement auprès de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="715cf-108">Perform all the service configuration and admin tasks as if they had purchased directly from Microsoft.</span></span> <span data-ttu-id="715cf-109">Ces tâches incluent la configuration d’Exchange Online, SharePoint Online, Skype entreprise ou d’autres services qu’ils ont achetés.</span><span class="sxs-lookup"><span data-stu-id="715cf-109">These tasks include configuring Exchange Online, SharePoint Online, Skype for Business, or other services that they have purchased.</span></span>
 
-- <span data-ttu-id="bccf8-109">Afficher les communications et les notifications sur les produits, telles que les informations d’état du service dans le Centre de messages.</span><span class="sxs-lookup"><span data-stu-id="bccf8-109">View in-product communications and notifications, such as service health information, in the Message Center.</span></span>
+<span data-ttu-id="715cf-110">Pour acheter des abonnements supplémentaires ou annuler leur abonnement, les clients doivent contacter leur partenaire du programme Fournisseur de solutions Cloud.</span><span class="sxs-lookup"><span data-stu-id="715cf-110">To purchase additional subscriptions or cancel their subscriptions, customers should contact their Cloud Solution Provider partner.</span></span> <span data-ttu-id="715cf-111">Les clients ne peuvent pas modifier leurs propres abonnements directement auprès de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="715cf-111">Customers cannot change their own subscriptions directly with Microsoft.</span></span>
 
-- <span data-ttu-id="bccf8-110">Effectuer toutes les tâches de configuration et d’administration du service comme s’il avait été acheté directement auprès de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="bccf8-110">Perform all the service configuration and admin tasks as if they had purchased directly from Microsoft.</span></span> <span data-ttu-id="bccf8-111">Ces tâches incluent la configuration d’Exchange Online, SharePoint Online, Skype entreprise ou d’autres services qu’ils ont achetés.</span><span class="sxs-lookup"><span data-stu-id="bccf8-111">These tasks include configuring Exchange Online, SharePoint Online, Skype for Business, or other services that they have purchased.</span></span>
-
-<span data-ttu-id="bccf8-112">Pour acheter des abonnements supplémentaires ou annuler leur abonnement, les clients doivent contacter leur partenaire du programme Fournisseur de solutions Cloud.</span><span class="sxs-lookup"><span data-stu-id="bccf8-112">To purchase additional subscriptions or cancel their subscriptions, customers should contact their Cloud Solution Provider partner.</span></span> <span data-ttu-id="bccf8-113">Les clients ne peuvent pas modifier leurs propres abonnements directement auprès de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="bccf8-113">Customers cannot change their own subscriptions directly with Microsoft.</span></span>
-
-<span data-ttu-id="bccf8-114">Lorsque les clients ont besoin d’aide sur les produits, ils peuvent trouver des ressources produit sur le [support technique](https://partnercenter.microsoft.com/partner/support).</span><span class="sxs-lookup"><span data-stu-id="bccf8-114">When customers need help with products, they can find product resources on [Support](https://partnercenter.microsoft.com/partner/support).</span></span> <span data-ttu-id="bccf8-115">Nous encourageons les partenaires à diriger leurs clients vers ces ressources dans un premier temps.</span><span class="sxs-lookup"><span data-stu-id="bccf8-115">We encourage partners to point their customers to these resources as a first step.</span></span>
+<span data-ttu-id="715cf-112">Lorsque les clients ont besoin d’aide sur les produits, ils peuvent trouver des ressources produit sur le [support technique](https://partnercenter.microsoft.com/partner/support).</span><span class="sxs-lookup"><span data-stu-id="715cf-112">When customers need help with products, they can find product resources on [Support](https://partnercenter.microsoft.com/partner/support).</span></span> <span data-ttu-id="715cf-113">Nous encourageons les partenaires à diriger leurs clients vers ces ressources dans un premier temps.</span><span class="sxs-lookup"><span data-stu-id="715cf-113">We encourage partners to point their customers to these resources as a first step.</span></span>
 
  
 
