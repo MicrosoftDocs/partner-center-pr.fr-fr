@@ -9,19 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 3890f3fe314dcd1bfbbb0d86bf496683d80c5cd9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818641"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145811"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Activer Microsoft Partner Network avantages techniques en dehors de l’espace partenaires
 
 
-**Rôles appropriés**
-
-- Tous les utilisateurs de l’Espace partenaires
+**Rôles appropriés**: tous les utilisateurs de l’espace partenaires
 
 Cet article est destiné aux membres Microsoft Partner Network (MPN) qui utilisent toujours le Partner Membership Center (PMC). Ces membres ont besoin d’aide pour activer certains avantages de l’adhésion MPN, tels que les avantages techniques, en dehors du tableau de bord actuel de l' [espace partenaires](https://partner.microsoft.com/dashboard).
 

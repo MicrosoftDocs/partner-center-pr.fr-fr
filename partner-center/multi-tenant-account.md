@@ -9,20 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: caea2002b5edc2958c0af316762408e309bcf14a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124803"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151200"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Ajouter et gérer plusieurs locataires dans votre compte espace partenaires
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur des comptes
+**Rôles appropriés**: administrateur général | Administrateur de compte
 
 Cet article explique comment consolider plusieurs clients de Azure Active Directory (Azure AD) pour votre société, puis les ajouter et les gérer dans votre compte espace partenaires. Il y a de nombreuses raisons à cela. Par exemple :
 

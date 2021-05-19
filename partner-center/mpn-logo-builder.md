@@ -9,18 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 72be76473dcb7afd3f8d6ae60d79599b10c025fc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132398"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152254"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Comment créer un logo de partenaire, une lettre certifiée ou une récompense à l’aide du générateur de logos
 
-**Rôles appropriés**
-
-- Tous les partenaires désireux d’en savoir plus sur le générateur de logos
+**Rôles appropriés**: tous les partenaires désireux d’en savoir plus sur le générateur de logos
 
 La valeur de l’obtention d’une compétence Silver ou Gold est l’opportunité de faire la différence avec les clients. Un logo que vous pouvez utiliser dans vos documents de vente et de marketing et votre profil d’entreprise dans l’espace partenaires pour présenter les compétences ou les compétences que vous avez atteintes est inclus dans vos avantages en matière de compétences. 
 

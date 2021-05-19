@@ -9,18 +9,16 @@ ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, opérateurs mobiles, facturation mobile, facturation opérateur mobile
 ms.localizationpriority: medium
-ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172385"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151540"
 ---
 # <a name="mobile-operator-billing"></a>Facturation de l’opérateur mobile
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés** : administrateur général
 
 > [!NOTE]
 > Si vous avez besoin d’aide concernant les paiements, notamment sur la configuration des comptes de paiement, les paiements manquants, la mise en attente des paiements ou d’autres sujets, contactez le support [ici](https://developer.microsoft.com/windows/support).

@@ -8,21 +8,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179216"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152101"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Déterminer l’éligibilité de votre programme d’incentives
 
-**Rôles appropriés**
+**Rôles appropriés**: administrateur général | Administrateur d’incentives
 
-- Administrateur général
-- Administrateur de primes incitatives
-
- Chaque programme de primes incitatives comporte certaines exigences concernant l’éligibilité. Ces conditions d’éligibilité au programme sont conçues pour s’assurer que vous avez signé tous les contrats appropriés, acquis les compétences, prévu le chiffre d’affaires et rempli tout autre prérequis pour que votre programme d’incentives réussisse.
+Chaque programme de primes incitatives comporte certaines exigences concernant l’éligibilité. Ces conditions d’éligibilité au programme sont conçues pour s’assurer que vous avez signé tous les contrats appropriés, acquis les compétences, prévu le chiffre d’affaires et rempli tout autre prérequis pour que votre programme d’incentives réussisse.
 
 ## <a name="determining-your-program-eligibility"></a>Détermination de votre éligibilité au programme
 

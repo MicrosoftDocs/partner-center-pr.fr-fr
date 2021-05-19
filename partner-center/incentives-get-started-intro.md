@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179120"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152033"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Utilisez ces ressources pour bien démarrer avec les incentives
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
-- Utilisateur de primes incitatives
+**Rôles appropriés**: administrateur d’incentives | Utilisateur d’incentives
 
 Cet article offre une présentation rapide des programmes d’incentives Microsoft et décrit quelques ressources pour vous aider à commencer.
 

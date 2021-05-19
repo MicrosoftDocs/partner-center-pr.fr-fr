@@ -9,21 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 35a4e08ade5c5dcfb796535ed117e3bf1f33cabd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179460"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151795"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Offres exclusives des éditeurs de logiciels indépendants dans la Place de marché
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent d’administration | Agent des ventes
 
 Un éditeur de logiciels indépendant (ISV) peut faire des offres exclusives uniquement disponibles pour certains partenaires CSP.
 

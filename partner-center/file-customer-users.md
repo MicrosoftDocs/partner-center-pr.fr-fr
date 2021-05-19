@@ -9,18 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441419"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150979"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Ajouter plusieurs utilisateurs à un compte client en créant un fichier. csv
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés** : administrateur général
 
 Ajoutez simultanément plusieurs utilisateurs au compte d’un client, en chargeant un fichier de données au format de fichier de valeurs séparées par des virgules (. csv) dans l’espace partenaires. Vous pouvez télécharger un exemple de fichier de données à partir de l’espace partenaires, puis le modifier pour votre utilisation, ou vous pouvez créer un nouveau fichier de données à l’aide du modèle de données défini ci-dessous.
 
@@ -40,8 +38,8 @@ Entrez les données suivantes dans le fichier de données&nbsp;:
 |:-------- |:------  |:----- |
 | Prénom  | Prénom de l’utilisateur (champ facultatif)  | limité à 50 caractères  |
 | Nom  | Nom de l’utilisateur (champ facultatif)  | limité à 50 caractères  |
-| Nom d’affichage    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | limité à 50 caractères                         |
-| Email   | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
+| Nom complet    | Nom affiché dans l’espace partenaires (champ obligatoire)                            | limité à 50 caractères                         |
+| Courrier   | Adresse de messagerie professionnelle de l’utilisateur dans la société du client (champ obligatoire)           | Chaque utilisateur doit avoir une adresse e-mail unique |
 | Mise à jour de l'état   | Permet d’indiquer si le nouvel enregistrement d’utilisateur a été créé avec succès | \*\*Conserver vide\*\*                        |
 
 ## <a name="next-steps"></a>Étapes suivantes

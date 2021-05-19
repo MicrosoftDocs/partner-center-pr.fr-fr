@@ -9,20 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: fa99b66e9b30c349be8fc5cca6dfeeed9eca34ae
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630115"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151404"
 ---
 # <a name="technical-support-benefits"></a>Avantages du support technique
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN | Agent d’administration
 
 ## <a name="overview"></a>Vue d’ensemble
 
@@ -77,13 +73,13 @@ Tout compte d’utilisateur (AAD ou MSA) peut utiliser le support technique pour
 Sélectionnez [support for Business](https://support.serviceshub.microsoft.com/supportforbusiness/create) pour créer une demande de support pour un produit sur site.
 
 ## <a name="how-many-partner-support-incidents-are-remaining"></a>Combien d’incidents de support partenaires sont restants
-Vous pouvez obtenir ces informations uniquement à partir du portail de support technique local d’entreprise. Malheureusement, les portails du Cloud, par exemple Azure, LCS, etc., n’affichent pas ces informations.
+Vous pouvez obtenir ces informations uniquement à partir du portail de support technique local d’entreprise. Malheureusement, les portails Cloud (par exemple, Azure, LCS et autres) n’affichent pas ces informations.
 
 Vous devez utiliser la prise en charge pour les entreprises et démarrer le processus de création d’un incident de support local. Nous ne créons pas de demande de support, car nous ne terminons pas le processus. Les informations dont nous avons besoin sont affichées à l’étape 2.
 
 Étape 1 ouvrir le [support pour les entreprises](https://support.serviceshub.microsoft.com/supportforbusiness/create) et sélectionner Windows 10 et entrer des informations factices
 
-Étape 2 Si votre contrat de support est déjà associé à votre compte, les incidents de support technique doivent s’afficher. Pour le support local, vous devez voir le contrat de support partenaire affiché (sauf s’il n’est plus valide) et cela comprend la date de début, la date de fin et les incidents restants. Si vous devez associer votre contrat de support, développez « vous devez acheter ou ajouter d’autres plans de support », puis cliquez sur le bouton Ajouter un contrat pour entrer votre ID d’accès et votre ID de contrat. Développez le « voulez-vous voir les plans de support indisponibles ? » pour afficher les informations de signature du partenaire. Vous verrez uniquement le support partenaires affiché ici si les contrats ont expiré, si vous n’avez pas d’incident ou si vous avez sélectionné un ancien produit local (voir [aka.ms/n-1](https://aka.ms/n-1) pour obtenir des produits de support)
+Étape 2 Si votre contrat de support est déjà associé à votre compte, les incidents de support technique doivent s’afficher. Pour la prise en charge locale, vous devez voir le contrat de support partenaire affiché (sauf s’il n’est plus valide) et cela comprend la date de début, la date de fin et les incidents restants. Si vous devez associer votre contrat de support, développez « vous devez acheter ou ajouter d’autres plans de support », puis cliquez sur le bouton Ajouter un contrat pour entrer votre ID d’accès et votre ID de contrat. Développez le « voulez-vous voir les plans de support indisponibles ? » pour afficher les informations de signature du partenaire. Vous verrez uniquement le support partenaires affiché ici si les contrats ont expiré, si vous n’avez pas d’incident ou si vous avez sélectionné un ancien produit local (voir [aka.ms/n-1](https://aka.ms/n-1) pour obtenir des produits de support)
 
 **Pour plus d’informations, consultez [combien d’incidents de support partenaires sont restants ?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
@@ -109,7 +105,7 @@ Vous verrez que l’ID d’accès est déjà associé... erreur si vous associez
 
 1. Si vous avez des avantages techniques Gold ou Silver et que vous avez déjà ajouté le contrat pour le support local, vous utilisez la Portail Azure et ajoutez le contrat une deuxième fois au même compte. Vous ne devez associer le contrat de support à un compte qu’une seule fois. par conséquent, vous n’avez pas besoin de lier les avantages du support technique dans Azure. Si vous utilisez la prise en charge des liens lorsque le contrat est déjà associé au compte, vous verrez l’erreur et celle-ci doit être ignorée. Utilisez + New Support request et créez un incident de support normal et le plan de support sera affiché.
 
-2. Si le contrat de support a expiré ou si la signature 10pack (compétence hybride Gold) ou la signature 5pack (compétence hybride Silver) n’a pas d’incident, le contrat de support est masqué, car il n’est pas valide. Si vous reliensez les avantages du support, vous verrez l’erreur car le contrat est déjà associé. Vous devez acheter un nouveau plan de support pour obtenir des incidents de support Azure. 
+2. Si le contrat de support a expiré ou si la signature 10-Pack (compétence hybride Gold) ou la signature 5-Pack (compétence hybride Silver) n’ont pas d’incident, le contrat de support est masqué, car il n’est pas valide. Si vous reliensez les avantages du support, vous verrez l’erreur car le contrat est déjà associé. Vous devez acheter un nouveau plan de support pour obtenir des incidents de support Azure. 
 
 Consultez les plans de support partenaires ci-dessous pour les offres de support payantes du partenaire
 

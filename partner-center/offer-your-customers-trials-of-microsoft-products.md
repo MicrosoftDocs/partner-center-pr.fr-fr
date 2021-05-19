@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1d6fda82464b9abc30714798a2ee3999d8f93db5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132329"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151132"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Offrez aux clients une version d’essai gratuite de 30 jours des produits Microsoft
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent commercial
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent des ventes
 
 Un bon moyen d’introduire des clients auprès de nouveaux produits Microsoft est d’offrir des versions d’évaluation gratuites de 30 jours. Vous pouvez vous inscrire aux versions d’évaluation du catalogue comme beaucoup d’autres services en ligne. Tous les partenaires peuvent participer.
 

@@ -9,20 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 389a20cb8447852758c284368d52b504e8438b07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861425"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145896"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilisez les indicateurs de contribution partenaire pour atteindre les petites et moyennes compétences en solutions Cloud
+# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utiliser les indicateurs de contribution des partenaires pour atteindre la compétence Solutions cloud pour petites et moyennes entreprises
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
-- Administrateur des comptes
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN | Administrateur de compte
 
 Cet article décrit les six principaux indicateurs de contribution partenaires (PCI) utilisés pour évaluer la progression d’un partenaire dans le cadre de l’obtention ou de la conservation d’une petite compétence de solutions Cloud Silver ou Gold pour les petites et moyennes entreprises grâce à l’option Cloud Business Applications SMB.
 

@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475260"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152237"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explorez vos offres Go-to-Market avec Microsoft
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN
 
 Lorsque vous devenez membre Microsoft Partner Network, vous avez accès à des avantages d’appartenance qui peuvent vous aider à créer et à développer votre activité. La mise sur le marché avec les ressources, les offres et les programmes Microsoft présente les [nombreux avantages](https://partner.microsoft.com/manage-your-partner-network-benefits) que vous recevez en tant que membre Microsoft Partner Network.
 
@@ -49,11 +46,7 @@ Offres Go-to-Market supplémentaires disponibles pour les partenaires avec des n
 
 - Toutes les ressources MPN standard de Go-to-Market
 - Toutes les offres de commercialisation prêtes à l’emploi pour les partenaires Silver/ISV
-- Copropriétaire d’un récepteur de radiomessagerie
-- Présentation co-personnalisée
-- Étude de cas co-personnalisée
-- Appuyez sur le communiqué avec Microsoft Executive quote
-- Marketing social comarqué
+- Boîte à outils Go-to-Market du partenaire 
 
 ## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Afficher les offres d’adhésion à go-to-Market dans l’espace partenaires
 
@@ -65,7 +58,7 @@ Pour afficher vos offres Go-to-Market :
 
    - Sélectionnez **Vue d’ensemble**. Faites défiler jusqu’à la section **liens rapides** , puis sélectionnez l’onglet **go-to-Market** .
 
-     or
+     ou
 
    - Sélectionnez **avantages** suivis de **go-to-Market**.
 

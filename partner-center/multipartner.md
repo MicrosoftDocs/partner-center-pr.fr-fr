@@ -9,24 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b41d3ee33b789c8f839ff1b3b5f5d8fd27c23f02
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441793"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151149"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Prise en charge de plusieurs partenaires pour les clients qui souhaitent travailler avec plusieurs partenaires
 
-**S’applique à**
+**S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-- Espace partenaires de Microsoft Cloud for US Government
-
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent commercial
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent des ventes
 
 La fonctionnalité multi-partenaires de l’espace partenaires prend en charge les scénarios dans lesquels un client souhaite travailler avec plusieurs partenaires. Par exemple, un client peut souhaiter embaucher un partenaire pour son expertise dans Office 365, mais engager un partenaire différent spécialisé dans Microsoft Azure.
 

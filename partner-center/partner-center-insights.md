@@ -9,21 +9,16 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086581"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151013"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Aperçus de l’espace partenaires : tableau de bord qui montre le fonctionnement d’un partenaire commercial Microsoft.
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur des comptes
-- Visionneuse de rapports de la direction
-- Visionneuse de rapports
+**Rôles appropriés**: administrateur général | Administrateur de compte | Visionneuse de rapports Executive | Visionneuse de rapports
 
 ## <a name="introduction"></a>Introduction
 

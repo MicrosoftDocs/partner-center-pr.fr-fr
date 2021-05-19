@@ -8,19 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132483"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152322"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Comment payer les frais associés à une compétence Silver ou Gold
 
-**Rôles appropriés**
-
-- Administrateur partenaire MPN
-- Administrateur des comptes
+**Rôles appropriés**: administrateur de partenaire MPN | Administrateur de compte
 
 Cet article décrit comment et quand payer les frais associés à la réalisation d’une compétence de Microsoft Partner Network Silver ou Gold. L’article explique également comment modifier votre méthode de paiement préférée, comment annuler une commande et comment recevoir une remise de 25% pour le passage d’une compétence Silver à une compétence Gold.
 

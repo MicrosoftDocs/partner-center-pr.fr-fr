@@ -9,21 +9,16 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 2c9973bf82957cd017abfc59c25b0c17173cb3f8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132653"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151591"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Déplacement de plusieurs sociétés vers l’espace partenaires à partir du Partner Membership Center (PMC)
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent d’administration | Agent des ventes
 
 Quand vous déplacez le compte de votre entreprise du Partner Membership Center vers l’Espace partenaires, vous pouvez être amené à déplacer plusieurs comptes. Dans l’Espace partenaires, ces comptes sont consolidés en un seul compte global (PGA). Le premier compte que vous déplacez sera considéré comme le compte global partenaire et tous les comptes suivants seront consolidés dans le premier compte en tant qu’emplacement. Lancez la migration avec le compte Partner Membership Center pour le siège social de votre entreprise. Pour plus d’informations, consultez le [Guide de migration de PMC vers l’espace partenaires](guide-to-migration.md) , ou regardez ce petit nombre de [comptes à plusieurs emplacements](https://vimeo.com/290335248)vidéo simplifiés.
 

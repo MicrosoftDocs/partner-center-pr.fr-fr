@@ -9,26 +9,18 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086513"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151081"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Espace partenaires pour Microsoft Cloud Allemagne pour les partenaires vendus aux clients de l’Union européenne & pays de l’AELE
 
-**S’applique à**
+**S’applique à**: espace partenaires pour Microsoft Cloud Allemagne
 
-- Espace partenaires de Microsoft Cloud Germany
-
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Agent commercial
-- Administrateur de la facturation
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent d’administration | Agent commercial | Administrateur de facturation
 
 Conçu pour répondre aux strictes exigences de protection des données en vigueur en Allemagne, Microsoft Cloud Germany inclut un tiers de confiance allemand qui contrôle l’accès physique et logique aux données des clients conformément à la législation allemande. Toutes les données client, ainsi que les systèmes qui traitent ou contrôlent l’accès aux données client, résident dans des centres de données allemands. Le réseau entre ces centres de données est isolé et dédié en Allemagne.
 

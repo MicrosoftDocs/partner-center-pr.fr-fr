@@ -9,21 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f738ddace805838cdf202c23cca8535c11cbdf54
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132619"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151557"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Office 365 E4 vers les nouvelles versions d’Office 365
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent d’administration | Agent des ventes
 
 Le plan Office 365 Enterprise E4 est retiré, à compter du 7 avril 2017. Vous ne pouvez plus acheter de nouveaux abonnements Office 365 E4 après cette date, et les abonnements E4 existants ne seront pas renouvelés automatiquement lorsqu’ils expirent.
 

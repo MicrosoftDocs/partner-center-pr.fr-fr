@@ -1,26 +1,22 @@
 ---
 title: Questions fréquentes (FAQ) sur les paiements et les profils fiscaux
 description: Obtenir des réponses aux questions courantes sur les paiements et les détails des taxes dans l’espace partenaires. Comprend des réponses sur la raison pour laquelle vos revenus sont différents de ceux attendus.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-incentives
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/06/2021
-ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
-ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
+ms.openlocfilehash: 7f5cf168a87c25f3afe0767769ce8dcc77d07f04
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "109240514"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145828"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questions courantes sur les paiements et les taxes
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Administrateur général
-- Administrateur de primes incitatives
+**Rôles appropriés**: administrateur de compte | Administrateur général | Administrateur d’incentives
 
 Cet article répond aux questions fréquemment posées sur les paiements et les détails fiscaux dans l’espace partenaires. Les sujets traités incluent le minutage des paiements, la vérification de l’admissibilité de vos bénéfices et l’importance de la configuration correcte de vos profils de paiement et de taxe.
 
@@ -86,7 +82,7 @@ Si un profil fiscal est arrivé à expiration ou sur le lieu d’expirer, cela s
 - Vérifiez la responsabilité du paiement de la taxe par pays. Dans les pays où la taxe est responsable de Microsoft, Microsoft collecte et déduire les taxes des revenus de l’éditeur. Le montant de la transaction indiqué dans le relevé est le montant après paiement des taxes. Consultez [Détails des taxes](tax-details-marketplace.md).
 - Les offres SaaS et IaaS ont un tarif réduit de 10% au lieu de la valeur standard de 20%, ce qui laisse un taux de bénéfices de 90%. Il s’agit d’une exigence d' Co-Sell IP. Cette promotion est valable jusqu’au 30 juin 2021. 
 
-En **savoir plus** sur le contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), les [Détails](payout-policy-details.md)de la stratégie de paiement, le seuil de [paiement, la méthode et le délai](payment-thresholds-methods-timeframes.md), obtenir le [paiement](marketplace-get-paid.md), les [Détails fiscaux](tax-details-marketplace.md), les [instructions](payout-statement.md) de paiement
+En **savoir plus** sur le contrat d’éditeur de la place de [marché commercial](/legal/marketplace/msft-publisher-agreement), les [Détails](payout-policy-details.md)de la stratégie de paiement, le seuil de [paiement, la méthode et le délai](payment-thresholds-methods-timeframes.md), obtenir le [paiement](marketplace-get-paid.md), les [Détails fiscaux](tax-details-marketplace.md), les [instructions](payout-statement.md) de paiement
 
 ## <a name="earnings-reconciliation"></a>Rapprochement des bénéfices
 
@@ -125,7 +121,7 @@ La devise du paiement est basée sur la devise que vous avez sélectionnée dans
 
 Les ajustements de paiement sont des corrections de paiement afin de tenir compte des ajustements compensatoires, tels que les problèmes système. Dans l’instruction de paiement, ReasonCode spécifie la raison de l’ajustement. Ils ne sont pas destinés à être réconcilier directement en transactions individuelles.
 
-**Informations supplémentaires**: contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
+**Informations supplémentaires**: contrat d’éditeur de la place de [marché commercial](/legal/marketplace/msft-publisher-agreement), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Taxes
 
@@ -144,7 +140,7 @@ Accédez à la [page de profil](https://partner.microsoft.com/dashboard/payee/pr
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Comment faire pour trouver la retenue à la source pour une transaction ?
 La retenue à la source s’applique aux éditeurs américains qui ont rempli un formulaire W-9. La retenue à la source est calculée sur un paiement mensuel.
 
-Informations **supplémentaires**: contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie de paiement](payout-policy-details.md)
+Informations **supplémentaires**: contrat d’éditeur de la place de [marché commercial](/legal/marketplace/msft-publisher-agreement), détails de la [stratégie de paiement](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>Accès aux relevés de paiement
 
@@ -208,7 +204,7 @@ Utilisez l' [API de paiement de partenaire](https://apidocs.microsoft.com/servic
 - Une fois que vos revenus sont à l’état Non traité, vous pouvez vérifier la date d’échéance afin de connaître le mois durant lequel le paiement de vos revenus sera traité. Une fois votre paiement préparé, l’état de votre obtention passe à « traité ».  Microsoft effectue les paiements le 15 du mois de l’échéance.
 - Pour les commandes payées par carte de crédit, Microsoft conserve les paiements 30 jours jusqu’à ce que l’obtention soit mature.
 
- **Informations supplémentaires**: contrat d’éditeur de la place de [marché commercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
+ **Informations supplémentaires**: contrat d’éditeur de la place de [marché commercial](/legal/marketplace/msft-publisher-agreement), détails de la [stratégie](payout-policy-details.md)de paiement, [Détails fiscaux](tax-details-marketplace.md), [seuil de paiement, méthode et période](payment-thresholds-methods-timeframes.md)
 
 ## <a name="next-steps"></a>Étapes suivantes
 

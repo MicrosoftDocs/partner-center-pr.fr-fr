@@ -9,20 +9,17 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 53ca3c05b2df3de1b0a2373580b28e139f297b82
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702924"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151761"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gérer les opportunités de covente dans l’espace partenaires
 
 
-**Rôles appropriés**
-
-- Administrateur partenaire MPN
-- Administrateur des références
+**Rôles appropriés**: administrateur de partenaire MPN | Administration des références
 
 Tirez parti des opportunités de covente.  Une opportunité de covente est une collaboration entre plusieurs parties pour vendre des produits qui répondent aux besoins des clients. Cet article vous aidera à comprendre comment vous pouvez utiliser la puissance de la co-vente dans l’espace partenaires pour vendre et acquérir de nouveaux clients de manière efficace.
 
@@ -30,7 +27,7 @@ Tirez parti des opportunités de covente.  Une opportunité de covente est une c
 
 **Opportunité de covente** : il s’agit d’un ou plusieurs représentants commerciaux de Microsoft engagés activement dans le traitement pour aider à résoudre un problème client. Les opportunités peuvent provenir d’un compte client dans lequel un représentant commercial Microsoft invite le partenaire à participer à une activité de covente ou à un partenaire sur lequel il a besoin d’une aide supplémentaire de la part des ventes Microsoft pour conclure le contrat.
 
-Partenaire **à partenaire (P2P)** : il s’agit d’un partenaire qui peut inviter d’autres partenaires de l’écosystème de covente Microsoft à collaborer. Les partenaires peuvent éventuellement inviter un représentant commercial Microsoft à vous aider à conclure le contrat. Les partenaires et Microsoft peuvent être invités, même après avoir créé une transaction, tant qu’elle est terminée. (Notez que Complete comprend gagné, perdu, refusé et expiré).
+Partenaire **à partenaire (P2P)** : il s’agit d’un partenaire qui peut inviter d’autres partenaires de l’écosystème de covente Microsoft à collaborer. Les partenaires peuvent éventuellement inviter un représentant commercial Microsoft à vous aider à conclure le contrat. Les partenaires et Microsoft peuvent être invités, même après avoir créé une transaction, tant qu’elle est terminée. (Notez que Complete comprend Won, perdus, refusés et arrivés à expiration.)
 
 **Offre privée** : lorsqu’un partenaire décide de travailler indépendamment sur une transaction qui a été créée dans l’espace partenaires. Les partenaires peuvent fournir une visibilité à l’équipe de vente Microsoft ou inviter les vendeurs Microsoft à chercher une aide active après avoir créé le contrat. Les détails de la transaction ne sont pas partagés avec l’équipe de vente Microsoft tant que les partenaires n’ont pas explicitement sélectionné Oui pour la question « voulez-vous que les vendeurs Microsoft affichent cette offre ? » ou demandez l’aide de l’équipe de vente Microsoft en choisissant l’une des options de la question « identifiez le type d’aide dont vous avez besoin auprès de Microsoft ? ».
 
@@ -169,7 +166,7 @@ Le tableau ci-dessous répertorie les étapes de vente et les pourcentages corre
 |Accepté|10 %|Acceptation d’une transaction entrante.|
 |Qualified|20%|Qualifier la valeur de la transaction et les exigences du client avant de continuer.|
 |Fruit|40%|Développer le traitement pour comprendre les besoins détaillés pour préparer une POC ou tout autre artefact requis pour une proposition formelle.|
-|Proposed|60%|Faire une proposition formelle au client en fonction de ses besoins.|
+|Proposed|60 %|Faire une proposition formelle au client en fonction de ses besoins.|
 |Negotiated|80 %|Négociation des termes finaux sur la base de la proposition visant à atteindre l’état final (gagnant ou perdant la transaction).|
 |Won|100 %|Marquage de la transaction comme conclue.|
 

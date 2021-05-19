@@ -1,5 +1,5 @@
 ---
-title: Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter l’accord de partenariat Microsoft-FAQ
+title: Comment les fournisseurs indirects peuvent aider leurs revendeurs à adopter le Contrat Partenaire Microsoft - FAQ
 ms.topic: article
 ms.date: 02/17/2021
 ms.service: partner-dashboard
@@ -9,20 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 8fc82348ed59dff14b4c98272fb5b77d488ccde0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645892"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151489"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Comment les fournisseurs indirects peuvent aider leurs revendeurs indirects à accepter l’accord de partenariat Microsoft (MPA)
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: administrateur général | Agent d’administration | Agent des ventes
 
 Les questions et réponses suivantes traitent des problèmes potentiels et des solutions pour aider les revendeurs indirects à comprendre comment et pourquoi accepter l’MPA. 
 
@@ -50,7 +46,7 @@ Cela s’applique également aux partenaires « Advisor » qui ont été en co
 
 **Réponse** Vous avez besoin d’au moins une signature MPA par région CSP sur un ID MPN. Par exemple, si vous avez un ID MPN en France et que vous êtes inscrit au programme revendeur indirect indirect en France et à MPA accepté, vous êtes conforme à la région entière de l' [Europe du CSP](regional-authorization-overview.md#europe-region-and-market) et n’avez pas à accepter MPa dans d’autres pays européens. Vous pouvez utiliser n’importe quel fournisseur indirect dans l’ensemble de la région européenne du CSP. 
 
-#### <a name="i-am-a-direct-bill-partner-in-france-and-also-transact-with-an-indirect-provider-in-italy-do-i-need-to-accept-two-mpas--one-as-direct-bill-and-one-as-indirect-reseller-"></a>Je suis un partenaire de facture directe en France et je dois également utiliser un fournisseur indirect en Italie. dois-je accepter deux heures, une facture directe et une en tant que revendeur indirect ?
+#### <a name="i-am-a-direct-bill-partner-in-france-and-also-transact-with-an-indirect-provider-in-italy-do-i-need-to-accept-two-mpas-one-as-direct-bill-and-one-as-indirect-reseller-"></a>Je suis un partenaire de facture directe en France et je dois également utiliser un fournisseur indirect en Italie. dois-je accepter deux heures, une facture directe et une en tant que revendeur indirect ?
 
 **Réponse**  Si vous avez déjà accepté la facture MPA directe dans la région CSP, vous n’êtes pas obligé d’accepter le programme de CHIFFREment MPA indirect du revendeur. Toutefois, vous devez vous assurer que votre compte MPN est dans l’espace partenaires et que l’ID MPN partagé avec votre fournisseur indirect se trouve dans l’espace partenaires. 
 
@@ -167,7 +163,7 @@ Tous les trois comptes CSP doivent être associés à des comptes d’emplacemen
 
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>Question relative à la migration de votre compte MPN de PMC vers l’espace partenaires
 
-#### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Je souhaite migrer mon compte MPN du Partner Membership Center vers l’espace partenaires. Comment faire ? Je ne sais pas qui a été mon administrateur MPN dans PMC, comment puis-je migrer ? 
+#### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc-how-can-i-migrate"></a>Je souhaite migrer mon compte MPN du Partner Membership Center vers l’espace partenaires. Comment faire ? Je ne sais pas qui a été mon administrateur MPN dans PMC. Comment puis-je migrer ? 
 
 **Réponse** Téléchargez le guide pas à pas sur la façon de [migrer MPN de PMC vers PC](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
@@ -210,7 +206,7 @@ Si vous ne pouvez pas résoudre le problème vous-même, déclenchez un ticket d
 
 ## <a name="questions-about-working-in-partner-center"></a>Questions sur l’utilisation de l’espace partenaires
 
-#### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>Je ne sais pas qui est l’administrateur de l’espace partenaires qui peut accepter MPA ?
+#### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa"></a>Je ne sais pas qui est l’administrateur de l’espace partenaires qui peut accepter MPA ?
 
 **Réponse** L’administrateur général de votre entreprise doit accepter l’MPA. Pour savoir qui est affecté au rôle d’administrateur général dans votre entreprise, accédez à **gestion des utilisateurs.** Dans la zone de recherche, tapez administrateur général. Les noms des personnes qui sont affectées au rôle d’administrateur général sont extraits. L’une de ces personnes peut accepter l’MPA. Si votre entreprise n’a pas d’administrateur général, consultez [que faire si votre entreprise a besoin d’un administrateur général](no-mpn-admin.md).
 

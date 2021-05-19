@@ -9,23 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179409"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151829"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Facturation basée sur une licence dans l’espace partenaires
 
-**Rôles appropriés**
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Administrateur de facturation | Agent d’administration
 
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Administrateur de la facturation
-- Agent d’administration
-
-Lorsque vous achetez des produits ou des services en ligne dans l’espace partenaires qui nécessitent des **licences**, vous êtes facturé *pour chaque licence* que vous achetez. Vous *n’êtes pas facturé* par l’utilisation de ces licences. (Pour plus d’informations sur la facturation basée sur l’utilisation et d’autres types de facturation, consultez [types de facturation dans l’espace partenaires](billing-different-types.md).)
+Lorsque vous achetez des produits ou des services en ligne dans l’espace partenaires qui nécessitent des **licences**, vous êtes facturé *pour chaque licence* que vous achetez. Vous *n’êtes pas facturé* par l’utilisation de ces licences. (Pour plus d’informations sur la facturation basée sur l’utilisation et d’autres types de facturation, consultez [types de facturation dans l’espace partenaires](./billing-basics.md).)
 
 ## <a name="license-billing-frequency"></a>Fréquence de facturation de la licence
 
@@ -60,6 +55,6 @@ Tous les abonnements basés sur des licences renouvellent automatiquement 12 moi
 
 - [Vue d’ensemble de la facturation dans l’Espace partenaires](billing-basics.md)
 
-- [Types de facturation dans l’Espace partenaires](billing-different-types.md)
+- [Types de facturation dans l’Espace partenaires](./billing-basics.md)
 
 - [Articles principaux sur la facturation et la fiscalité](billing.md)

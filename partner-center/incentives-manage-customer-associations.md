@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e0c79fb70c5b439968302353c70907f37aaa09a7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179477"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151931"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gérer les associations de clients incitatives
 
-**Rôles appropriés**
-
-- Administrateur de la facturation
-- Administrateur général
-- Administrateur de primes incitatives
+**Rôles appropriés**: administrateur de facturation | Administrateur général | Administrateur d’incentives
 
 La plate-forme d’enregistrement (CPOR) demandée est utilisée par les partenaires pour s’associer aux clients finaux pour lesquels ils influencent l’utilisation ou l’achat de produits Microsoft. Actuellement, la plateforme CPOR prend en charge les produits Business Applications et Microsoft 365. Les partenaires utilisent cette méthode d’association pour obtenir des informations sur les performances des clients, recevoir des paiements d’incentives via les programmes OSU et OSA et gagner une association de revenus en tant qu’influenceur commercial.  
 

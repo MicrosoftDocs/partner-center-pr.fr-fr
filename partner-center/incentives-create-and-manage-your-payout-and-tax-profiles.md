@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a931f1d971ea3e3bc288f70e85a6600596761cc
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: b167b0e65f3339a29f0227f6135ed70931300d8e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528554"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152152"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Créer et gérer le paiement et les profils fiscaux des incentives dans l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
-- Administrateur des comptes
-- Administrateur général
+**Rôles appropriés**: administrateur d’incentives | Administrateur de compte | Administrateur général
 
 Pour pouvoir recevoir un paiement au titre de vos programmes d’incentives pour un emplacement MPN particulier, vous devez effectuer votre inscription en associant un profil de paiement et fiscal au programme et à l’emplacement MPN. Microsoft utilisera ce profil de paiement et fiscal pour émettre les paiements. Selon les règles du programme d’incentives, vous êtes peut-être autorisé à utiliser le virement bancaire électronique ou une note de crédit pour le paiement. 
 
@@ -94,7 +90,7 @@ Les sections ci-dessous vous guideront tout au long du processus de création et
    
       Dans les pays qui requièrent des partenaires explicitement pour demander l’application d’une exonération fiscale, il est possible d’appliquer l’exonération fiscale en regard du profil fiscal dans la section Profil fiscal du programme d’incentives et de l’emplacement MPN. Cochez cette case pour appliquer les avantages de l’exemption de taxe à votre note de crédit incitative. 
    
-      Actuellement, le mode de paiement LRD Credit note est disponible uniquement pour l’Australie, la Nouvelle-Zélande et les partenaires du Canada pour le programme Microsoft Commerce Incentive. Si vous êtes un partenaire direct Bill ou un fournisseur indirect dans ces trois pays inscrits pour le programme MCI et que vous ne voyez pas LRD Credit note comme mode de paiement disponible, vérifiez que votre ID de locataire est associé au compte d’emplacement MPN du partenaire concerné. Pour plus d’informations sur cette rubrique, consultez [Comment mettre à jour votre profil d’organisation](update-your-partner-profile.md).
+      Actuellement, le mode de paiement LRD Credit note est disponible uniquement pour l’Australie, la Nouvelle-Zélande et les partenaires du Canada pour le programme Microsoft Commerce Incentive. Si vous êtes un partenaire direct Bill ou un fournisseur indirect dans ces trois pays inscrits pour le programme MCI et que vous ne voyez pas LRD Credit note comme mode de paiement disponible, vérifiez que votre ID de locataire est associé au compte d’emplacement MPN du partenaire concerné. Pour plus d’informations, consultez [Comment mettre à jour votre profil d’organisation](update-your-partner-profile.md).
 
     
 5. Sélectionnez la **devise**.
@@ -111,7 +107,7 @@ Vous pouvez configurer des profils bancaires par défaut et les affecter à des 
 
 3. Sélectionnez **gérer les profils par défaut** sous la section **profils de paiement** . 
 
-4. Pour créer des profils bancaires par défaut, sélectionnez **Ajouter un profil bancaire par défaut**. 
+4. Pour créer un profil bancaire par défaut, sélectionnez **Ajouter un profil bancaire par défaut**. 
 
 5. Sélectionnez un profil bancaire dans la liste des profils bancaires disponibles de votre société, sélectionnez la devise à utiliser avec ce profil bancaire, puis sélectionnez la liste des emplacements MPN auxquels vous souhaitez appliquer ce profil par défaut.
 

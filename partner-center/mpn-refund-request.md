@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132908"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151319"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>Demander un remboursement pour un avantage MPN
 
-**Rôles appropriés**
-
-- Administrateur partenaire MPN
-- Administrateur des comptes
+**Rôles appropriés**: administrateur de partenaire MPN | Administrateur de compte
 
 Cet article répertorie les critères que vous devez respecter lorsque vous demandez un remboursement pour un avantage MPN.
 

@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 14706e44201159213dc8fff671a8d47c52bd89c1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179426"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151897"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Afficher les fonds de coopération acquis, réclamé et restant disponibles
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
-- Utilisateur de primes incitatives
+**Rôles appropriés**: administrateur d’incentives | Utilisateur d’incentives
 
 Vous pouvez suivre, surveiller et concilier vos fonds de coopération incitative dans le tableau de [bord de l’espace partenaires](https://partner.microsoft.com/dashboard/) (connexion requise). Utilisez la procédure suivante pour afficher ces fonds.
 

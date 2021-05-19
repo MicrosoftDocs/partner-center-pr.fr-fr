@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528536"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152084"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscription et gestion des utilisateurs dans le programme d’incentives
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
+**Rôles appropriés**: administrateur d’incentives
 
 >[!NOTE]
 >Avant de pouvoir vous inscrire au programme d’incentives, vous devez avoir terminé le centre d’appartenance au partenaire pour la [migration](prepare-pmc-pc-migration.md)de l’espace partenaires.

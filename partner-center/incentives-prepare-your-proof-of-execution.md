@@ -8,18 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179443"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151880"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Créer et envoyer des documents pour votre preuve d’exécution (PoE) incitative
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
+**Rôles appropriés**: administrateur d’incentives
 
 Avant de payer votre travail d’incentives, vous devez soumettre une preuve d’exécution détaillée. Cet article vous guide tout au long du processus de création d’une preuve d’exécution efficace.
 
