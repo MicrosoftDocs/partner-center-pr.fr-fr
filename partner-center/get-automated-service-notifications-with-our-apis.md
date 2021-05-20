@@ -9,29 +9,20 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b5092113ca90bccab6414fdf4013c76dd0ab4969
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441436"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150809"
 ---
-# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a><span data-ttu-id="c550b-103">Utiliser des API pour les notifications de service automatisées pour Azure Insights & les communications du service Office 365</span><span class="sxs-lookup"><span data-stu-id="c550b-103">Use APIs for automated service notifications for Azure Insights & Office 365 service communications</span></span>
+# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a><span data-ttu-id="74d26-103">Utiliser des API pour les notifications de service automatisées pour Azure Insights & les communications du service Office 365</span><span class="sxs-lookup"><span data-stu-id="74d26-103">Use APIs for automated service notifications for Azure Insights & Office 365 service communications</span></span>
 
-<span data-ttu-id="c550b-104">**Rôles appropriés**</span><span class="sxs-lookup"><span data-stu-id="c550b-104">**Appropriate roles**</span></span>
+<span data-ttu-id="74d26-104">**Rôles appropriés**: agent admin | Administrateur général | Agent commercial | Agent du support technique</span><span class="sxs-lookup"><span data-stu-id="74d26-104">**Appropriate roles**: Admin agent | Global admin | Sales agent | Helpdesk agent</span></span>
 
-- <span data-ttu-id="c550b-105">Agent d’administration</span><span class="sxs-lookup"><span data-stu-id="c550b-105">Admin agent</span></span>
-- <span data-ttu-id="c550b-106">Administrateur général</span><span class="sxs-lookup"><span data-stu-id="c550b-106">Global admin</span></span>
-- <span data-ttu-id="c550b-107">Agent commercial</span><span class="sxs-lookup"><span data-stu-id="c550b-107">Sales agent</span></span>
-- <span data-ttu-id="c550b-108">Agent du support technique</span><span class="sxs-lookup"><span data-stu-id="c550b-108">Helpdesk agent</span></span>
+<span data-ttu-id="74d26-105">Office 365 et Microsoft Azure fournissent chacun une API que les partenaires peuvent utiliser pour récupérer des informations en temps réel sur l’état du service, consulter les messages reçus et connaître les événements de maintenance planifiés.</span><span class="sxs-lookup"><span data-stu-id="74d26-105">Office 365 and Microsoft Azure each provide an API that partners can use to retrieve real-time service health, message center communications, and planned maintenance events.</span></span> <span data-ttu-id="74d26-106">Ces&nbsp;API sont disponibles publiquement et grâce à leurs privilèges d’administration délégués, les partenaires peuvent les utiliser pour le compte de leurs clients.</span><span class="sxs-lookup"><span data-stu-id="74d26-106">These APIs are publicly available, and partners can use them on behalf of their customers because of their delegated admin privileges.</span></span>
 
-<span data-ttu-id="c550b-109">Office 365 et Microsoft Azure fournissent chacun une API que les partenaires peuvent utiliser pour récupérer des informations en temps réel sur l’état du service, consulter les messages reçus et connaître les événements de maintenance planifiés.</span><span class="sxs-lookup"><span data-stu-id="c550b-109">Office 365 and Microsoft Azure each provide an API that partners can use to retrieve real-time service health, message center communications, and planned maintenance events.</span></span> <span data-ttu-id="c550b-110">Ces&nbsp;API sont disponibles publiquement et grâce à leurs privilèges d’administration délégués, les partenaires peuvent les utiliser pour le compte de leurs clients.</span><span class="sxs-lookup"><span data-stu-id="c550b-110">These APIs are publicly available, and partners can use them on behalf of their customers because of their delegated admin privileges.</span></span>
+<span data-ttu-id="74d26-107">Ces&nbsp;API sont disponibles pour vos développeurs&nbsp;:</span><span class="sxs-lookup"><span data-stu-id="74d26-107">These APIs are available for your developers:</span></span>
 
-<span data-ttu-id="c550b-111">Ces&nbsp;API sont disponibles pour vos développeurs&nbsp;:</span><span class="sxs-lookup"><span data-stu-id="c550b-111">These APIs are available for your developers:</span></span>
-
-- [<span data-ttu-id="c550b-112">API de communications de service Office&amp;nbsp;365</span><span class="sxs-lookup"><span data-stu-id="c550b-112">Office 365 service communications API</span></span>](/office/office-365-management-api/office-365-service-communications-api-reference)
-- <span data-ttu-id="c550b-113">Informations de référence sur l' [API](/rest/api/monitor/) Rest Azure Insights</span><span class="sxs-lookup"><span data-stu-id="c550b-113">Azure Insights REST [API reference](/rest/api/monitor/)</span></span>
-
- 
-
- 
+- [<span data-ttu-id="74d26-108">API de communications de service Office&amp;nbsp;365</span><span class="sxs-lookup"><span data-stu-id="74d26-108">Office 365 service communications API</span></span>](/office/office-365-management-api/office-365-service-communications-api-reference)
+- <span data-ttu-id="74d26-109">Informations de référence sur l' [API](/rest/api/monitor/) Rest Azure Insights</span><span class="sxs-lookup"><span data-stu-id="74d26-109">Azure Insights REST [API reference](/rest/api/monitor/)</span></span>
