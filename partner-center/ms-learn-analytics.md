@@ -9,19 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 132583352e1697a2f9dfa624eb9532692be6d734
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132313"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152628"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Le rapport d’analytique Microsoft Learn affiche l’état des apprenants dans votre entreprise
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN
 
 Le rapport Microsoft Learn fournit des informations sur les apprenants dans votre entreprise, notamment sur les modules qu’ils ont terminés et sur les parcours d’apprentissage sur lesquels ils se trouvent. Le rapport affiche l’état de chaque apprenant. L’administrateur général et l’administrateur MPN de votre entreprise peuvent afficher les données.
 

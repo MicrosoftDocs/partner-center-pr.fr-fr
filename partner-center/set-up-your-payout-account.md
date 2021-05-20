@@ -2,17 +2,17 @@
 title: Configurer un compte de paiement et des déclarations de taxe – Place de marché commerciale Microsoft
 description: Pour recevoir de l’argent provenant de la vente d’offres dans la Place de marché commerciale, découvrez comment configurer votre compte de paiement et remplir les déclarations de taxe nécessaires.
 ms.topic: conceptual
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854841"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152917"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurer votre compte de paiement et vos déclarations de taxe
 
@@ -42,7 +42,7 @@ Vous gérez votre profil fiscal et vos formulaires fiscaux sur la page **paiemen
 Tout d’abord, vous devez créer un profil fiscal et l’attribuer aux programmes auxquels vous participez. Procédez comme suit pour créer ou mettre à jour votre *Profil fiscal* dans l’espace partenaires. Vous pouvez compléter et soumettre vos formulaires fiscaux par voie électronique dans le tableau de bord de l’espace partenaires. dans la plupart des cas, vous n’avez pas besoin d’imprimer et de envoyer des formulaires.
 
 > [!IMPORTANT]
-> Les différents pays et régions ont des exigences fiscales différentes. La quantité exacte d’impôts que vous devez payer varie selon les pays et les régions dans lesquels vous vendez vos offres. Consultez le [Contrat d’éditeur de la Place de marché Microsoft Azure](https://go.microsoft.com/fwlink/p/?LinkID=699560) pour savoir dans quels pays/régions Microsoft acquitte la taxe sur les ventes et l’utilisation en votre nom. Dans d’autres pays/régions, en fonction de l’endroit où vous êtes inscrit, vous devrez peut-être verser directement la taxe sur les ventes et l’utilisation à l’autorité fiscale locale. En outre, les recettes de la vente d’application que vous recevez peuvent être considérées comme du revenu imposable. Nous vous encourageons vivement à contacter l’autorité compétente de votre pays ou région qui vous aidera à déterminer les informations fiscales appropriées pour les activités commerciales de marketplace.
+> Les différents pays et régions ont des exigences fiscales différentes. La quantité exacte d’impôts que vous devez payer varie selon les pays et les régions dans lesquels vous vendez vos offres. Consultez le [Contrat d’éditeur de la Place de marché Microsoft Azure](/legal/marketplace/msft-publisher-agreement) pour savoir dans quels pays/régions Microsoft acquitte la taxe sur les ventes et l’utilisation en votre nom. Dans d’autres pays/régions, en fonction de l’endroit où vous êtes inscrit, vous devrez peut-être verser directement la taxe sur les ventes et l’utilisation à l’autorité fiscale locale. En outre, les recettes de la vente d’application que vous recevez peuvent être considérées comme du revenu imposable. Nous vous encourageons vivement à contacter l’autorité compétente de votre pays ou région qui vous aidera à déterminer les informations fiscales appropriées pour les activités commerciales de marketplace.
 
 1. Dans le [tableau de bord espace partenaires](https://partner.microsoft.com/dashboard), sélectionnez l’icône d’engrenage **paramètres** dans le coin supérieur droit, puis **paramètres de compte**.
 
@@ -169,7 +169,7 @@ Une fois que le paiement a été envoyé à votre banque, vous disposez de 30 j
 Si vous êtes un éditeur résidant en Russie, vous devrez peut-être fournir des documents à votre banque pour qu’elle puisse déposer des fonds sur votre compte. Lorsque vous serez admissible au paiement, nous vous fournirons les documents suivants par e-mail :
 
 - Avis d’attestation (AC) : indique le montant du paiement devant être transféré sur votre compte.
-- [Contrat d’éditeur de la Place de marché Microsoft Azure](https://go.microsoft.com/fwlink/p/?LinkID=699560) : copie signée du contrat d’éditeur devant être contresigné.
+- [Contrat d’éditeur de la Place de marché Microsoft Azure](/legal/marketplace/msft-publisher-agreement) : copie signée du contrat d’éditeur devant être contresigné.
 
 Pour garantir que votre paiement est correctement effectué, vérifiez les éléments suivants :
 
@@ -183,7 +183,7 @@ Pour garantir que votre paiement est correctement effectué, vérifiez les élé
 Si vous êtes un éditeur résidant en Ukraine, vous devrez peut-être fournir des documents à votre banque pour qu’elle puisse déposer des fonds sur votre compte. Lorsque vous serez admissible au paiement, nous vous fournirons les documents suivants par e-mail :
 
 - Avis d’attestation (AC) : indique le montant du paiement devant être transféré sur votre compte.
-- [Contrat d’éditeur de la Place de marché Microsoft Azure](https://go.microsoft.com/fwlink/p/?LinkID=699560) : une copie signée du contrat d’éditeur devant être contresignée.
+- [Contrat d’éditeur de la Place de marché Microsoft Azure](/legal/marketplace/msft-publisher-agreement) : une copie signée du contrat d’éditeur devant être contresignée.
 - Contrat de modification (AA) : votre banque peut utiliser ce document pour vous aider à identifier vos fonds de paiement.
 
 Microsoft fournit ces trois documents lors de votre première tentative de paiement. Pour les paiements suivants, vous recevrez uniquement l’avis d’attestation (document AC). Conservez les documents ADA et AA au cas où vous en auriez besoin pour recevoir d’autres paiements de votre banque.

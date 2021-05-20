@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086224"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152781"
 ---
 # <a name="download-reports"></a>Rapports de téléchargement
 
-**Rôles appropriés**
-
-- Visionneuse de rapports de la direction
-- Visionneuse de rapports
+**Rôles appropriés**: visionneuse de rapports Executive | Visionneuse de rapports
 
 ## <a name="introduction"></a>Introduction
 

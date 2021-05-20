@@ -9,19 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21be5b22c453174fcb66e9409d6e26dad8e25c6b
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 721caed2d8b0e24940e7adedeb90cc689a82d2e7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686345"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152832"
 ---
 # <a name="export--data-definitions"></a>Export : définitions de données 
 
-**Rôles appropriés** 
-
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: visionneuse de rapports | Visionneuse de rapports Executive
 
 ## <a name="introduction"></a>Introduction 
 
@@ -52,7 +49,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | CustomerMarket | Marché géographique du client | 
 | CustomerStatus | État du client (actif ou inactif) | 
 | Produit | Le produit a été vendu au client par MPN : O365, DYNAMICS 365, Enterprise Mobility + Security, Power BI ou Microsoft Azure | 
-| Référence | Référence SKU de produit | 
+| SKU | Référence SKU de produit | 
 | Month | Mois pour lequel l’utilisation et le chiffre d’affaires sont signalés | 
 | MPNId | Identificateur de Microsoft Partner Network | 
 | PartnerName | Nom du partenaire | 
@@ -105,7 +102,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | CustomerSegment | Segment de marché du client | 
 | CustomerMarket | Marché géographique du client | 
 | Produit | Produit vendu au client par le partenaire | 
-| Référence | Référence SKU du produit | 
+| SKU | Référence SKU du produit | 
 | MPNId | ID Microsoft Partner Network du partenaire | 
 | PartnerName | Nom du partenaire | 
 | PartnerLocation | Emplacement géographique du partenaire | 
@@ -187,7 +184,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Month | Mois pour lequel l’utilisation est signalée | 
 | RevSumDivisionName | Nom de la Division Rev Sum | 
 | RevSumCategoryName | Nom de la catégorie Rev Sum | 
-| Référence | Référence SKU du produit | 
+| SKU | Référence SKU du produit | 
 | SKUId | ID de référence du produit | 
 | FreeVsPaidSKU | Indique s’il s’agit d’une référence (SKU) gratuite ou payante | 
 | Works Sales | Canal de vente utilisé pour la vente de l’abonnement | 
@@ -216,7 +213,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | SubscriptionEndDate | Date de fin de l’abonnement | 
 | SubscriptionStatus | État de l’abonnement (actif, inactif ou période de grâce) | 
 | Month | Date agrégée par mois | 
-| Référence | Référence SKU du produit | 
+| SKU | Référence SKU du produit | 
 | SKUId | ID de référence du produit | 
 | FreeVsPaidSKU | Différentiation SKU gratuit ou payant | 
 | Works Sales | Modèle de vente utilisé pour vendre l’abonnement | 
@@ -295,7 +292,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 
 | Nom de la colonne | Description des données | 
 | :--------- | :--------- | 
-| UserName | Nom de l’utilisateur | 
+| Nom d’utilisateur | Nom de l’utilisateur | 
 | UserId | GUID de l’utilisateur | 
 | TrainingName | Nom de l’apprentissage | 
 | TrainingType | Type de formation (module ou parcours d’apprentissage) | 
@@ -347,7 +344,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Filiale | La filiale du client dont le score est évalué pour la distribution | 
 | Secteur de vente | Le secteur de vente du client dont le score est évalué pour la distribution | 
 | City | Emplacement géographique de la ville de l’Organisation | 
-| État | Emplacement de l’état géographique de l’Organisation | 
+| State | Emplacement de l’état géographique de l’Organisation | 
 | Code postal | Code postal de l’Organisation | 
 | Pays ou région | Emplacement du pays géographique de l’Organisation | 
 | Segment | Segment de marché | 
@@ -403,7 +400,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Filiale | La filiale du client dont le score est évalué pour la distribution | 
 | Secteur de vente | Le secteur de vente du client dont le score est évalué pour la distribution | 
 | City | Emplacement géographique de la ville | 
-| État | Emplacement de l’état géographique | 
+| State | Emplacement de l’état géographique | 
 | Code postal | Code postal de l’Organisation | 
 | Pays ou région | Emplacement du pays géographique | 
 | Segment | Segment de marché | 
@@ -460,7 +457,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Filiale | La filiale du client dont le score est évalué pour la distribution | 
 | Secteur de vente | Le secteur de vente du client dont le score est évalué pour la distribution | 
 | City | Emplacement géographique de la ville | 
-| État | Emplacement de l’état géographique | 
+| State | Emplacement de l’état géographique | 
 | Code postal | Code postal de l’Organisation | 
 | Pays ou région | Emplacement du pays géographique | 
 | Segment | Segment de marché | 
@@ -526,7 +523,7 @@ Les différents rapports, que vous pouvez télécharger avec leurs définitions 
 | Filiale | La filiale du client dont le score est évalué pour la distribution | 
 | Secteur de vente | Le secteur de vente du client dont le score est évalué pour la distribution | 
 | City | Emplacement géographique de la ville | 
-| État | Emplacement de l’état géographique | 
+| State | Emplacement de l’état géographique | 
 | Code postal | Code postal de l’Organisation | 
 | Pays ou région | Emplacement du pays géographique | 
 | Segment | Segment de marché | 

@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855775"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153002"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Les marchés régionaux et les devises du programme fournisseur de solutions Cloud dans lesquels vous pouvez vendre des offres CSP
 
-**Rôles appropriés**: administrateur général
+**Rôles appropriés** : administrateur général
 
 Votre marché dépend de l’emplacement de votre entreprise. Votre marché inclut les régions et/ou les pays où vous pouvez vendre des offres du programme fournisseur de solutions Cloud (CSP).
 
@@ -31,7 +31,7 @@ Avant de pouvoir commander une offre du fournisseur de solutions Cloud pour le c
 Le plan Azure pour CSP est disponible dans moins de régions que le logiciel Azure pour CSP. Pour obtenir les dernières mises à jour sur la disponibilité régionale du plan Azure, consultez [acheter le plan Azure](purchase-azure-plan.md).
 
 >[!IMPORTANT]
-> Vous devez confirmer qu’un client a accepté le contrat du client Microsoft en fournissant des informations sur la personne qui l’a signé. Pour plus d’informations, consultez [Confirmer l’acceptation du contrat client Microsoft par le client](confirm-consent.md).
+> Vous devez confirmer qu’un client a accepté le contrat du client Microsoft en fournissant des informations sur la personne qui l’a signé. Pour plus d’informations, consultez [Confirmer l’acceptation du contrat client Microsoft par le client](./confirm-customer-agreement.md).
 
 Pour déterminer où vous pouvez vendre des offres CSP, recherchez l’emplacement de votre société dans l’une des listes ci-dessous. Vous devez disposer d’un ID d’Microsoft Partner Network (MPN) actif pour l’emplacement dans lequel vous souhaitez effectuer la vente.  
 

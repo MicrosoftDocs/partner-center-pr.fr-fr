@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ba2610280de4ed989ce2bd139e2021a62fbb008b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855741"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152985"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Inscrivez les demandes que vous avez remportées dans l’espace partenaires pour pouvoir obtenir davantage d’opportunités ultérieurement
 
@@ -39,7 +39,7 @@ Sur la page **Nouvelle transaction**, fournissez les informations suivantes.
 - **Valeur** de la solution : valeur totale de la solution cloud qui sera utilisée pour la transaction. Veillez à inclure tous les coûts associés aux frais liés aux logiciels et à la maintenance, mais n’incluez pas les éléments remboursables, les frais de personnalisation non périodiques ou les frais de licence Fournisseur de solutions Microsoft Cloud directement associés payés par Microsoft.
 - **Déployé sur**: sélectionnez **Azure** ou un **autre**.
 - **Où la solution sera-t-elle déployée ?**: sélectionnez le **locataire client** ou le **locataire partenaire**.
-- **Date de début du contrat**: date de début du contrat. Pour les offres de paiement à l’utilisation (PAYG), utilisez la date de la première facture.
+- **Date de début du contrat**: date de début du contrat. Pour les offres de paiement à l’utilisation (PAYG), utilisez la date de la première facture. Par défaut, l’espace partenaires ne vous permet pas d’entrer une date de début antérieure à la date de signature du contrat. Cela peut avoir un impact sur certaines transactions, telles que les déploiements d’IP qui commencent avant la date de signature. Pour pouvoir entrer ces demandes, utilisez la date de signature du contrat pour **les** champs date de signature et date de début lorsque vous envoyez. (Le contrat doit indiquer explicitement la durée de la transaction pour que ACV puisse être calculé correctement.)
 - **Date de fin du contrat**: si le contrat se termine à une date spécifique, sélectionnez **a une date de fin** et indiquez cette date. Si le contrat n’a pas de date de fin spécifique, sélectionnez **perpétuelle**. Pour les offres de paiement à l’utilisation (PAYG), utilisez la date de la dernière facture ou la plus récente.
 - **Date de signature du contrat**: date à laquelle le contrat final a été signé par votre organisation et par le client. Pour les offres de paiement à l’utilisation (PAYG), utilisez la date de la première facture.
 - **Contact d’inscription**: le **prénom**, le **nom**, le **numéro de téléphone** et l’adresse de **messagerie** d’une personne de votre organisation que nous pouvons contacter si nous avons besoin de plus de détails sur les informations fournies ici.

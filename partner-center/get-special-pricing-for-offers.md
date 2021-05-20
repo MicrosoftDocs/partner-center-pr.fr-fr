@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702686"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150792"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vendre à des secteurs spécialisés tels que l’éducation, les associations et le secteur public
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: administrateur général | Agent d’administration | Agent des ventes
 
 Microsoft fournit une tarification spéciale et réduite pour certains groupes de clients, y compris les clients de formation, les clients sans but lucratif, les petites entreprises et les entités gouvernementales. Vous et votre client devez être qualifié pour pouvoir proposer une tarification spéciale. Ces offres spéciales sont actuellement **disponibles uniquement pour les services basés sur des licences** , comme Microsoft 365, Dynamics, Intune, etc. Elle n’est pas disponible pour les autres types (abonnements logiciels, logiciels perpétuelles ou produits Azure).
 

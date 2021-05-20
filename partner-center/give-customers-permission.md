@@ -9,19 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9fabd6bd188c9d596128672d9fce3321db9b5432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441300"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150758"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Autoriser les clients dans l’espace partenaires à acheter leurs propres produits ou services
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Agent commercial
+**Rôles appropriés**: agent admin | Agent des ventes
 
 Cet article montre comment un partenaire dans le programme du fournisseur de solutions Cloud (CSP) peut accorder à un client l’autorisation d’acheter certains de ses propres services ou ressources.
 

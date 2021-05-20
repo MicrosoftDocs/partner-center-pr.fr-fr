@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120832"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152900"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Rapports tableau de bord clients à partir de l’espace partenaires Insights
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Le tableau de bord clients présente des données de vos clients qui ont acquis des produits Cloud tels qu’Office, Azure, Dynamics, etc., ou vous ont utilisé pour déployer et gérer ces produits dans leurs locataires. 
  

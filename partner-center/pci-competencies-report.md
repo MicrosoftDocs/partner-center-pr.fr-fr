@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086258"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152883"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Rapport compétences disponible à partir du tableau de bord Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 Les compétences permettent à votre entreprise de démontrer vos capacités techniques à la fourniture de solutions Microsoft. Les compétences Microsoft sont conçues pour répondre aux besoins de vos clients et présenter votre expertise aux clients potentiels. Ils bénéficient d’un large éventail d’avantages de la part de Microsoft, tels que les quantités incluses de consommation Azure, les habilitations pour les produits Cloud tels qu’Office 365, le support technique, les offres Go-to-Market et d’autres. Il y a un total de 19 compétences aujourd’hui parmi les catégories suivantes : **application et infrastructure**, **applications métier**, **données et IA** et **moderne Workplace**. Les compétences sont hiérarchisées en niveaux Silver ou Gold, par exemple. Il existe une barre supérieure pour la compétence Gold et un niveau supérieur de ressources marketing, d’offres et de programmes disponibles.  
 

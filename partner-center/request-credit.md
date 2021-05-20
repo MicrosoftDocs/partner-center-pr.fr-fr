@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855554"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152951"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Comment et quand demander un crédit de contrat de niveau de service (SLA) de Microsoft
 
@@ -34,7 +34,7 @@ Les crédits SLA de Microsoft sont déterminés en fonction du ou des services q
 *Le partenaire fournisseur de solutions Cloud (CSP) doit soumettre la revendication et toutes les informations requises à la fin du mois civil suivant le mois où l’incident s’est produit.* Par exemple, si l’incident s’est produit le 15 février, Microsoft doit recevoir la revendication et toutes les informations requises avant le 31 mars. Les clients finaux et les revendeurs indirects ne peuvent pas soumettre des demandes de crédit du contrat SLA. le fournisseur indirect ou le partenaire direct Bill doit soumettre des revendications en son nom.
 
 >[!NOTE]
->Les incidents de Conseil ([procédure de vérification de l’intégrité du service Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) ne sont pas éligibles pour les crédits SLA.
+>Les incidents de Conseil ([procédure de vérification de l’intégrité du service Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) ne sont pas éligibles pour les crédits SLA.
 
 ### <a name="required-information"></a>Informations requises
 
@@ -65,7 +65,7 @@ Vous pouvez trouver l’identificateur de l’incident de panne sur la page **se
 | EX | Exchange Online |
 | FO | Protection Exchange Online |
 | SB | Skype entreprise Online (anciennement Lync Online) |
-| Système d''exploitation | Abonnement Office |
+| Système d’exploitation | Abonnement Office |
 | Po | Power BI pour Office 365 |
 | SP | SharePoint Online |
 | Ye | Yammer Enterprise |

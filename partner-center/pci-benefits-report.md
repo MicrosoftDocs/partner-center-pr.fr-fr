@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087006"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152543"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Rapport des avantages disponible dans le tableau de bord des Insights de l’espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent d’administration
-- Visionneuse de rapports
-- Visionneuse de rapports de la direction
+**Rôles appropriés**: administrateur général | Agent d’administration | Visionneuse de rapports | Visionneuse de rapports Executive
 
 En tant que partenaire Microsoft, vous pouvez accéder à un hôte d’avantages qui utilisent la technologie et les innovations les plus récentes pour vous aider à améliorer les compétences de votre équipe, à améliorer l’efficacité et à développer votre activité. Les packages d’avantages incluent : les allocations de logiciels sous licence, les services Cloud, les abonnements Visual Studio et le support. Ces packages peuvent également inclure certaines ressources, offres et programmes de Go-to-Market. Le rapport avantages présente les tendances des avantages que vous avez consultés et leur utilisation au cours de la plage de dates sélectionnée.
 

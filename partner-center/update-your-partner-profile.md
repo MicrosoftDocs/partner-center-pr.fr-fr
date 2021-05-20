@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818607"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153053"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Vérifier ou mettre à jour les informations du profil de votre entreprise 
 
@@ -98,9 +98,8 @@ Si vous êtes administrateur général, administrateur de facturation ou agent a
 |Adresse de facturation|Adresse de facturation indiquée sur la facture CSP. Peut être mise à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Contact de facturation|Détails du contact de facturation (prénom, nom, numéro principal) du compte CSP.  Peut être mis à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Numéro de BDC|Numéro de bon de commande indiqué sur la facture du partenaire.  Peut être mis à jour à partir de [Profil de facturation](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|ID taxe entreprise|Dans certains pays, les entreprises peuvent fournir leur [numéro de TVA (taxe à valeur ajoutée) ou équivalent local](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Pour mettre à jour votre numéro fiscal/T.V.A., vous devez être administrateur général, administrateur de facturation ou agent d’administration.|
+|ID taxe entreprise|Dans certains pays, les entreprises peuvent fournir leur [numéro de TVA (taxe à valeur ajoutée) ou équivalent local](./organization-tax-info.md). Pour mettre à jour votre numéro fiscal/T.V.A., vous devez être administrateur général, administrateur de facturation ou agent d’administration.|
 |Devise de facturation|La devise de facturation de votre compte CSP est déterminée par le pays légal du compte CSP.  Elle ne peut pas être modifiée une fois le compte CSP créé.|
-
 
 ## <a name="next-steps"></a>Étapes suivantes
 

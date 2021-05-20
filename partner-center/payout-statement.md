@@ -1,25 +1,22 @@
 ---
 title: Relevés de paiements
 description: En savoir plus sur les relevés de paiement et les résumés, ainsi que sur la façon d’afficher et d’exporter vos données de paiement depuis l’espace partenaires Microsoft
-ms.subservice: partnercenter-mpn
-ms.service: partner-dashboard
+ms.subservice: partnercenter-marketplace-publisher
+ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 4e9ab721fe356dbcdff7316a5ed5b52c81f2d4eb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087091"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152594"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Administrateur général
+**Rôles appropriés**: administrateur de compte | Administrateur général
 
 Le **relevé de paiement** présente une vue d’ensemble de vos paiements des offres vendues par le biais du marché commercial. Il affiche l’historique transactionnel de vos revenus, estime votre prochain paiement et affiche les tendances de paiement. Vous pouvez également télécharger l’historique des transactions et les relevés de paiement. Cet article explique comment accéder à votre relevé de paiement, ainsi que les différentes pages de paiement et téléchargements qui vous sont accessibles dans l’espace partenaires.
 
@@ -160,7 +157,7 @@ Pour obtenir plus de détails sur un gain, sélectionnez **Télécharger** en ha
 | LicensingProgramName | Nom du programme de licence |  |
 | LineItemId | Ligne individuelle dans la facture d’un client |  |
 | localProviderSeller | Fournisseur local/vendeur d’enregistrement |  |
-| Mois de maturité | Le mois de paiement estimé | Tous |
+| Mois de maturité | Le mois de paiement estimé | Tout |
 | OrderId | Lié à la facture d’un client  | marketplaces |
 | parentProductId | Identificateur de produit parent unique. S’il n’existe aucun produit parent pour la transaction, l’ID du produit parent = ID du produit. | marketplaces |
 | parentProductName | Nom du produit parent. S’il n’existe aucun produit parent pour la transaction, le nom du produit parent = Nom du produit. | marketplaces |
@@ -169,11 +166,11 @@ Pour obtenir plus de détails sur un gain, sélectionnez **Télécharger** en ha
 | participantName | Nom du partenaire de revenu | Tous |
 | partnerCountryCode | Lieu/pays/région du partenaire de revenu | Tous |
 | partNumber | Sera toujours vide | Certains programmes et places de marché incitants |
-| paymentId | Identificateur unique permettant de mettre en corrélation toutes les transactions dans le rapport de transaction avec un paiement spécifique dans le rapport de paiement | Tous |
+| paymentId | Identificateur unique permettant de mettre en corrélation toutes les transactions dans le rapport de transaction avec un paiement spécifique dans le rapport de paiement | Tout |
 | paymentStatus | État du paiement | Tous |
 | paymentStatusDescription | Description conviviale de l’état du paiement | Tous |
 | productId | Identificateur de produit unique | marketplaces |
-| ProductName | Nom du produit lié à la transaction | Tous |
+| ProductName | Nom du produit lié à la transaction | Tout |
 | productType | Type de produit (par exemple, application, module complémentaire ou jeu) | marketplaces |
 | Code du programme | Chaîne à mapper avec le nom du programme |  |
 | programName | Nom du programme d’incentives/du Store | Tous |
@@ -230,7 +227,7 @@ Le tableau suivant répertorie les codes de raison des ajustements et leurs desc
 La page **paiements** détaille l’argent que vous avez obtenu auprès de Microsoft. Il indique également à quel moment et dans quelle mesure vous allez être payé.
 
 >[!Note]
-> Pour être éligible au paiement, votre produit doit atteindre le [seuil de paiement](payment-thresholds-methods-timeframes.md) de 50 $. Pour plus d’informations, consultez le [contrat Microsoft Publisher](https://go.microsoft.com/fwlink/?LinkID=699560).
+> Pour être éligible au paiement, votre produit doit atteindre le [seuil de paiement](payment-thresholds-methods-timeframes.md) de 50 $. Pour plus d’informations, consultez le [contrat Microsoft Publisher](/legal/marketplace/msft-publisher-agreement).
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Écran de présentation des paiements.":::
 
@@ -262,7 +259,7 @@ Le tableau suivant décrit les différents États de gains.
 | À venir | Commande de paiement générée en attente de révisions internes avant le traitement du paiement. | Non |
 | Facture fiscale en attente | Votre facture fiscale est incomplète ou non valide. | Vous devez mettre à jour votre facture fiscale avant de pouvoir être payé |
 | Rejeté pendant la vérification | Le paiement a été rejeté pendant la révision. | Contactez le Support Microsoft pour obtenir des détails |
-| Failed | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
+| Échec | Le paiement a échoué en raison d’une erreur système Microsoft. | Contacter le support Microsoft pour plus d’informations |
 | En cours | Le paiement est en cours. | Non |
 | Paiement incorrect | Le remboursement est en cours. | Non |
 | Envoyé | Le paiement a été envoyé à votre banque. | Non |
