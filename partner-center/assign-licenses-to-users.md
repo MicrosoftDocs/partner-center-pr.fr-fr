@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756078"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149891"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gérer les utilisateurs et les licences utilisateur pour les comptes client 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
+**Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent d’administration
 
 
 Vous pouvez créer et supprimer de nouveaux utilisateurs dans le compte d’un client. Vous pouvez également restaurer un ou plusieurs comptes d’utilisateur que vous avez précédemment supprimés dans les 30 jours suivant la suppression. Les anciens abonnements attribués à l’utilisateur seront également restaurés (en supposant que ces informations soient disponibles).
@@ -42,7 +38,7 @@ Vous pouvez [affecter des abonnements à plusieurs utilisateurs](bulk-license-pr
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3. Dans le menu client, sélectionnez **Utilisateurs et licences**.
+3. Dans le menu client, sélectionnez **utilisateurs et licences**.
 
 4. Pour chaque utilisateur que vous ajoutez, sélectionnez **Ajouter un abonnement**, puis renseignez les informations, notamment les autorisations et les licences. **Enregistrez** les changements apportés.
 
@@ -62,11 +58,11 @@ Les étapes suivantes s’appliquent à l’ajout ou à la suppression de licenc
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3. Dans le menu client, sélectionnez **Utilisateurs et licences**.
+3. Dans le menu client, sélectionnez **utilisateurs et licences**.
 
-4. Choisissez un ou plusieurs utilisateurs dans la liste. Si, par exemple, le client vient d’acheter de nouvelles licences et que vous souhaitez les attribuer à des personnes qui en sont encore dépourvues, vous pouvez utiliser l’option **Filtrer les utilisateurs par...** pour rechercher le groupe approprié.
+4. Choisissez un ou plusieurs utilisateurs dans la liste. Si, par exemple, le client vient d’acheter de nouvelles licences et que vous souhaitez les affecter à des personnes qui n’en ont pas encore, vous pouvez utiliser l’option **Filtrer les utilisateurs par...** pour trouver le groupe approprié.
 
-5. Sélectionnez **Gérer les licences**. Apportez vos modifications, puis sélectionnez **Enregistrer**.
+5. Sélectionnez **Gérer les licences**. Apportez vos modifications, puis **Enregistrez**.
 
 > [!NOTE]
 > Pour les produits de la place de [marché Azure](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), l’attribution et l’activation de licences sont gérées par l’éditeur de logiciels indépendant (ISV) qui a publié le produit.
@@ -79,7 +75,7 @@ Les étapes suivantes s’appliquent à l’ajout ou à la suppression de licenc
 
 2. Dans le menu Espace partenaires, sélectionnez **Clients**, puis choisissez un client dans la liste.
 
-3. Dans le menu client, sélectionnez **Utilisateurs et licences**. Sélectionnez l’utilisateur dans la liste.
+3. Dans le menu client, sélectionnez **utilisateurs et licences**. Sélectionnez l’utilisateur dans la liste.
 
 4. En bas de l’écran, sélectionnez **Réinitialiser le mot de passe**. 
 
@@ -91,7 +87,7 @@ Les étapes suivantes s’appliquent à l’ajout ou à la suppression de licenc
 
 1. Dans le menu **espace partenaires** , sélectionnez **clients**. Sélectionnez le client dans la liste.
 
-2. Dans le menu client, sélectionnez **Utilisateurs et licences**. Sélectionnez l’utilisateur dans la liste.
+2. Dans le menu client, sélectionnez **utilisateurs et licences**. Sélectionnez l’utilisateur dans la liste.
 
 3. Au bas de l’écran, sélectionnez **Supprimer le compte utilisateur**.
 

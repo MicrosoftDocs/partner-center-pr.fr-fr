@@ -9,23 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 54f3afc36e51299b6b8656eecdeff67628128580
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964405"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148548"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Scénarios de facturation courants pour les partenaires du programme CSP travaillant dans l’espace partenaires
 
-**Rôles appropriés**
+**Rôles appropriés**: agent admin | Administrateur de facturation | Agent du support technique | Agent des ventes
 
-- Agent d’administration
-- Administrateur de la facturation
-- Agent du support technique
-- Agent commercial
-
-Ces articles expliquent ce que vous devez voir sur votre facture après avoir ajouté de nouveaux abonnements, ajuster le nombre de licences à un abonnement ou annuler un abonnement. Les autres types de facturation de l' [espace partenaires](billing-different-types.md), tels que les abonnements basés sur l’utilisation et basés sur des licences, sont facturés différemment.
+Ces articles expliquent ce que vous devez voir sur votre facture après avoir ajouté de nouveaux abonnements, ajuster le nombre de licences à un abonnement ou annuler un abonnement. Les autres types de facturation de l' [espace partenaires](./billing-basics.md), tels que les abonnements basés sur l’utilisation et basés sur des licences, sont facturés différemment.
 
 
 ## <a name="change-billing-frequency"></a>Changer la fréquence de facturation

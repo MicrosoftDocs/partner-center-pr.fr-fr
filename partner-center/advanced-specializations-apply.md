@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557781"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150503"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Utiliser l’espace partenaires pour demander des spécialisations avancées et vérifier leur état
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur des comptes
+**Rôles appropriés**: administrateur général | Administrateur de compte
 
 Cet article explique comment utiliser le tableau de bord espace partenaires pour demander une [spécialisation avancée](advanced-specializations.md), vérifier votre progression et effectuer les étapes et validations nécessaires. Vous verrez également des exemples d’utilisation de l’espace partenaires pour obtenir certaines spécialisations avancées qui requièrent un audit ou des références client.
 

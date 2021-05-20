@@ -9,19 +9,16 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: af567b9b8b36841b6e6fd7e18a34e1c4b6b81f2e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880716"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149160"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Opérations en bloc pour les opportunités de co-vente à l’aide de fichiers de valeurs séparées par des virgules (CSV)
 
-**Rôles appropriés**
-
-- Administrateur des références
-- Utilisateur Références
+**Rôles appropriés**: administration des références | Utilisateur de références
 
 Les opérations en bloc dans l’espace partenaires permettent à l’entreprise d’exporter et d’importer des données d’opportunités de covente. Accédez à la page des **opportunités de covente** pour rechercher les liens **Importer** et **Exporter** en haut à droite de la bannière de titre de page. Les utilisateurs disposant des autorisations **administrateur** et **références utilisateur** peuvent utiliser cette fonctionnalité.
 

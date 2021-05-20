@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557764"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150452"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Obtenez une spécialisation avancée pour présenter vos fonctionnalités validées
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur des comptes
+**Rôles appropriés**: administrateur général | Administrateur de compte
 
 Les spécialisations avancées Microsoft s’appuient sur les [compétences Gold](learn-about-competencies.md) associées qu’un partenaire peut gagner. Le fait de bénéficier de compétences en or, avec les spécialisations avancées associées, permet aux partenaires de mieux distinguer leurs fonctionnalités des clients.
 

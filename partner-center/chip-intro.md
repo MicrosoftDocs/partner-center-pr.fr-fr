@@ -9,21 +9,19 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570398"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148956"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Naviguer dans la plateforme d’incentives du canal (CHIP)
 
+**Rôles appropriés**: administration de processeur
+
 >[!NOTE]
 >La plateforme de PUCEs sera supprimée à la fin du 2021.
-
-**Rôles appropriés**
-
-- Administrateur de PUCEs
 
 ## <a name="sign-into-the-chip-dashboard"></a>Connectez-vous au tableau de bord de puce
 

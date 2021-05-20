@@ -1,7 +1,7 @@
 ---
 title: Ajouter des clients avec des offres d’essai Office 365
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment les conseillers Microsoft autorisés peuvent augmenter leurs abonnements Office 365. Créez et envoyez des invitations à la version d’évaluation d’Office 365 et achetez des offres aux clients.
@@ -9,19 +9,17 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: bd7e10aaf0bf339f92fbc9dc2f73f403c81693a3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557730"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150384"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Conseillers : créez votre base de clients avec des offres d’essai et des offres d’achat Office 365
 
 
-**Rôles appropriés**
-
-- Advisor
+**Rôles appropriés**: Advisor
 
 
 En tant que Microsoft Advisor agréé, l' **espace partenaires** vous offre la possibilité de développer votre base de clients et de créer des relations durables avec vos clients. Avec l’espace partenaires, vous pouvez envoyer des invitations à la version d’évaluation de vos clients et des offres d’achat, et pour leur proposer des services d’administration délégués, en fonction des services que vous êtes autorisé à fournir.
@@ -53,4 +51,6 @@ Si votre client veut un nombre de licences différent, envoyez-lui une nouvelle 
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-Pour plus d’informations sur les offres d’achat, voir [créer une offre d’achat](advisor-create-a-purchase-offer.md).
+- [Créer une offre d’achat](advisor-create-a-purchase-offer.md).
+
+- [Les partenaires ne peuvent plus s’inscrire en tant que conseillers](advisors-no-csp.md)

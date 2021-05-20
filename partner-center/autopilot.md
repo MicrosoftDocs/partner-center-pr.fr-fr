@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 5294495403be729adecb5a7814ade4f9d454a0f6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534985"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149823"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utiliser des profils Windows Autopilot sur de nouveaux appareils pour personnaliser l’expérience OOBE (Out-Of-Box Experience) d’un client
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
-- Agent commercial
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés**: agent admin | Administrateur général | Agent commercial | Administrateur de gestion des utilisateurs
 
 Si vous gérez des appareils clients, vous devrez peut-être personnaliser l’OOBE (out-of-Box Experience) pour les utilisateurs du client. Vous pouvez préconfigurer de nouveaux appareils avec des profils Windows AutoPilot avant de transmettre les appareils aux clients et appliquer de nouveaux profils aux appareils que les clients ont déjà achetés. 
 
@@ -145,11 +140,11 @@ Si vous envisagez d’utiliser le nom OEM, le numéro de série et la combinaiso
 
 - Ce tuple fonctionne uniquement pour les appareils plus récents (par exemple, les hachages de 4 Ko) et n’est pas pris en charge pour les hachages 128b (RS2 et les appareils précédents).
 
-- L’inscription de tuple est sensible à la casse, donc les données du fichier doivent correspondre aux noms de modèle et de fabricant **_exactement_* _ comme fourni par le fournisseur OEM (fournisseur de matériel).
+- L’inscription de tuple est sensible à la casse, donc les données du fichier doivent correspondre aux noms de modèle et de fabricant ***exactement*** tels qu’ils sont fournis par le fournisseur OEM (fournisseur de matériel).
 
 Suivez les instructions ci-dessous pour ajouter des appareils au compte d’un client dans l’espace partenaires.
 
-1. Sélectionnez _ *Customers** dans le menu de l’espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les appareils.
+1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez le client dont vous souhaitez gérer les appareils.
 
 2. Sur la page de détails du client, sélectionnez **appareils**.
 

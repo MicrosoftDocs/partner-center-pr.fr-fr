@@ -9,21 +9,16 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534656"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149806"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programme pour Fournisseur de services managés Azure Expert
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Administrateur de profils métier
-- Administrateur général
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur de compte | Administration des profils d’entreprise | Administrateur général | Administrateur du partenaire MPN
 
 Si votre entreprise est un vedette de la vente et de la gestion des services Azure pour les clients, examinez le programme du fournisseur de services gérés des experts Azure. Les partenaires Azure expert MSP obtiennent un badge exclusif les différenciant des autres partenaires Microsoft et bénéficient d’une priorité supérieure dans le moteur de référence. Ils sont classés par ordre de priorité pour les contrats de covente, le support technique pour le développement de nouvelles pratiques et peuvent participer à des événements exclusifs.
 

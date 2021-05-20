@@ -9,18 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 7c3ee29099a072de3e508fcdfcfd965082522895
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557696"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149279"
 ---
 # <a name="benefits-faq"></a>Questions fréquentes (FAQ) sur les avantages
 
-**Rôles appropriés**
-
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur de partenaire MPN
 
 De nombreuses questions courantes sur les avantages des Microsoft Partner Network (MPN) sont abordées dans cet article.
 

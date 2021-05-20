@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570601"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149058"
 ---
 # <a name="troubleshoot-issues-with-accessing-chip"></a>Résoudre les problèmes liés à l’accès à la puce
 
-**Rôles appropriés**
-
-- Contact principal ou administrateur de programme
+**Rôles appropriés**: contact principal ou administrateur de programme
 
 >[!NOTE]
 >La plateforme de PUCEs sera supprimée à la fin du 2021.
@@ -37,4 +35,4 @@ Si vous êtes le contact principal ou PPA (administrateur de programme principal
 ## <a name="next-steps"></a>Étapes suivantes
 
 - [Navigation dans la plateforme d’incentives du canal (CHIP)](chip-intro.md)
-- [Support technique](report-problems-with-partner-center.md)
+- [Support](report-problems-with-partner-center.md)

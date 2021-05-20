@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: d46b37aa903d10ec97b780eec9dde1deec623277
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354625"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148973"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>FAQ sur l’évaluation de la solution pour la plateforme d’incentives du canal (CHIP) 
 
-**Rôles appropriés**
-
-- Contact principal ou administrateur de programme
+**Rôles appropriés**: contact principal ou administrateur de programme
 
 Trouvez les réponses aux questions fréquemment posées ci-dessous.
 

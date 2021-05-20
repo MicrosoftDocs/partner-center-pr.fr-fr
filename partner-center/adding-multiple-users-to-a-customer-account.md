@@ -9,19 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 268cc9cb42bc72a444da6aec99425c2b29b71cb4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474187"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150469"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Charger un fichier. csv d’utilisateurs sur le compte d’un client
 
 
-**Rôles appropriés**
-
-- Administrateur général
+**Rôles appropriés** : administrateur général
 
 Ajoutez simultanément plusieurs utilisateurs au compte d’un client, en chargeant un fichier de données au format de fichier de valeurs séparées par des virgules (. csv) dans l’espace partenaires. 
 
@@ -50,7 +48,7 @@ Ajoutez simultanément plusieurs utilisateurs au compte d’un client, en charge
     >[!IMPORTANT]
     > Veillez à télécharger le fichier avec les mots de passe temporaires maintenant, car vous ne pourrez pas le faire par la suite. Les nouveaux utilisateurs doivent se connecter à leur nouveau compte à l’aide du mot de passe temporaire correspondant.
 
-11. Les autorisations qui sont attribuées automatiquement aux nouveaux utilisateurs **peuvent utiliser des licences et des services** . 
+11. Les autorisations qui sont attribuées automatiquement aux nouveaux utilisateurs **peuvent utiliser des licences et des services**. 
 
 ## <a name="next-steps"></a>Étapes suivantes
 

@@ -9,23 +9,16 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474238"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150588"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Afficher ou exporter les journaux d’activité client pour plus d’informations sur les transactions client
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la facturation
-- Administrateur de la gestion des utilisateurs
-- Agent d’administration
-- Agent commercial
-- Agent du support technique
+**Rôles appropriés**: administrateur général | Administrateur de facturation | Administrateur de gestion des utilisateurs | Agent d’administration | Agent commercial | Agent du support technique
 
 Les journaux d’activité fournissent des informations sur les transactions et les actions de gestion des partenaires des clients. Les journaux de transaction fournissent des informations détaillées sur la transaction, y compris les abonnements achetés. Vous pouvez également exporter les journaux d’activité dans un fichier CSV (Comma-Separated Value) compatible avec Excel.
 

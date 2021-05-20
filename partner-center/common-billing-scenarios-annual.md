@@ -9,21 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7494fd7cc003d1179c0ed959b21e1be2cbcc3255
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a6392094e000b899e0545655ecf9ed6117535f7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502478"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148701"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Scénarios courants de facturation annuelle dans l’espace partenaires
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Agent du support technique
-- Agent commercial
+**Rôles appropriés**: agent admin | Administrateur de facturation | Agent du support technique | Agent des ventes
 
 Ces exemples de [scénarios de facturation courants](common-billing-scenarios.md) sont applicables si vous utilisez la facturation annuelle dans l’espace partenaires.
 

@@ -8,19 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 035a819020097ddee2230b5541e1b477d4b34c14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284330"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148463"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Vue d’ensemble de la co-vente du connecteur pour Dynamics 365 CRM
 
-**Rôles appropriés**
-
-- Administrateur des références
-- Administrateur système ou personnalisateur de système sur le CRM
+**Rôles appropriés**: administration des références | Administrateur système ou personnalisateur de système sur le CRM
 
 Les connecteurs de covente de l’espace partenaires permettent à vos vendeurs de vendre en collaboration avec Microsoft à partir de vos systèmes CRM. Ils n’ont pas besoin d’être formés pour utiliser l’espace partenaires pour gérer les ventes de covente. Utilisez les connecteurs de covente pour créer une nouvelle référence de covente pour contacter un vendeur Microsoft, recevoir des références de la part du vendeur Microsoft, accepter ou refuser des références, et modifier les données de l’offre, telles que la valeur de l’offre et la date de clôture. Vous pouvez également recevoir toutes les mises à jour des vendeurs Microsoft sur ces offres de covente. Vous pouvez gérer toutes vos références dans le CRM de votre choix plutôt que dans l’espace partenaires.
 
@@ -74,7 +71,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 - Testez la solution sur une instance CRM intermédiaire.
 - Après un test réussi, importez en tant que solution gérée dans l’instance de production.
 
-## <a name="configure-the-solution"></a>Configuration de la solution
+## <a name="configure-the-solution"></a>Configurer la solution
 
 1. Une fois que vous avez installé la solution dans votre instance CRM, revenez à [Power automate](https://flow.microsoft.com/).
 

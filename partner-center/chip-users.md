@@ -2,25 +2,23 @@
 title: Ajouter des utilisateurs à votre compte CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Découvrez comment ajouter des utilisateurs à votre compte de plaform (CHIPs) Channel incentives. Notez que la plateforme de PUCEs sera supprimée à la fin du 2021.
+description: Découvrez comment ajouter des utilisateurs à votre compte de plateforme (CHIPs) de canaux. Notez que la plateforme de PUCEs sera supprimée à la fin du 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 954011221af9c2c8d1da06de6fa6853a38252f2d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: e037d616fff8416fc15e59b4c58639f647c16841
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570515"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148786"
 ---
 # <a name="add-users-to-your-channel-incentives-platform-chip-account"></a>Ajouter des utilisateurs à votre compte de plateforme (CHIPs) de canaux
 
-**Rôles appropriés**
-
-- Administrateur de PUCEs de contact principal
+**Rôles appropriés**: administrateur de puces de contact principal
  
 >[!NOTE]
 >La plateforme de PUCEs sera supprimée à la fin du 2021.

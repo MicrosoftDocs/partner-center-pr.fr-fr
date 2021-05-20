@@ -9,27 +9,21 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: cd8a78edab25b94e678aafd61ca96e61a625fb07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534605"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149534"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Acheter des réservations Microsoft Azure pour le compte de vos clients dans l’espace partenaires
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
-- Agent du support technique
-- Agent commercial
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés**: agent admin | Administrateur général | Agent du support technique | Agent commercial | Administrateur de gestion des utilisateurs
 
 Cet article explique comment acheter ou acheter des réservations Azure pour le compte de vos clients dans l’espace partenaires. Il identifie également les marchés où les réservations Azure ne sont pas disponibles.
  
 > [!NOTE]
-> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Accord Entreprise) doivent lire [cette documentation Azure reservations](/azure/cost-management-billing/reservations).
+> Cet article s’applique uniquement aux partenaires du programme fournisseur de solutions Cloud (CSP). Les clients qui utilisent d’autres types d’abonnements (par exemple, paiement à l’utilisation, individuel, contrat de client Microsoft ou abonnements Contrat Entreprise) doivent lire [cette documentation Azure reservations](/azure/cost-management-billing/reservations).
 
 ## <a name="before-you-begin"></a>Avant de commencer
 

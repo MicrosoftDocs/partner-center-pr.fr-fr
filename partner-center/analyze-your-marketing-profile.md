@@ -1,5 +1,5 @@
 ---
-title: Analyser vos clients
+title: Analyser vos prospects
 ms.topic: article
 ms.date: 06/15/2020
 ms.service: partner-dashboard
@@ -9,21 +9,19 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530831"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150214"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysez vos prospects : déterminez dans quelle mesure vous attirez les clients cibles et les références potentielles
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Rôles appropriés**
-
-- Administrateur des références
+**Rôles appropriés**: administration des références
 
 La page **prospects** sous la section **analytique** dans références vous permet de voir comment vos références sont en cours d’exécution. Passez régulièrement en revue ces métriques pour identifier les tendances ou les domaines nécessitant votre attention, et faites un premier pas vers vos objectifs métier.
 

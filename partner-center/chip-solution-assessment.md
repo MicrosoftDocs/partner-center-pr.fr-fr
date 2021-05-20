@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354591"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148837"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Recherchez l’état de vos opportunités d’évaluation de solution sur puce
 
-**Rôles appropriés**
-
-- Contact principal ou administrateur de programme
+**Rôles appropriés**: contact principal ou administrateur de programme
 
 Les partenaires peuvent passer en revue l’état des opportunités d’évaluation de la solution sur puce.
 

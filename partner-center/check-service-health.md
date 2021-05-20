@@ -9,21 +9,16 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 60957d227197460a0cdb108e1826758e0ec48e03
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: db5856914ab988a8fc3beefeb5c425846383a921
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570618"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149126"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Vérifier l’état du service pour qu’un client signale un problème ou une panne de service potentiel
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
-- Agent du support technique
-- Agent commercial
+**Rôles appropriés**: agent admin | Administrateur général | Agent du support technique | Agent des ventes
 
 Cet article explique comment utiliser l’espace partenaires pour vérifier l’intégrité du service d’un client lorsqu’il rencontre un problème avec un service. 
 

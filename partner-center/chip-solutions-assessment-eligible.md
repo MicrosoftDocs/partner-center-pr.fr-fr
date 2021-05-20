@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354472"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148803"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Conditions d’éligibilité pour le programme d’incentives d’évaluation de la solution
 
-**Rôles appropriés**
-
-- Contact principal ou administrateur de programme
+**Rôles appropriés**: contact principal ou administrateur de programme
 
 Les partenaires ayant un état actif et inscrit dans le programme d’incentives d’évaluation de la solution dans FY20 pourront continuer à bénéficier d’incentives dans FY21 s’ils ont une adhésion MPN active et une compétence MPN active en Silver ou Gold. Les qualifications des partenaires sont revues annuellement. Si les partenaires établis ne remplissent pas les conditions d’éligibilité et de participation de l’année en cours, elles seront supprimées lors du prochain examen annuel. Tous les nouveaux partenaires sont intégrés au spécialiste de l’évaluation de la solution locale (SAS) dans leur région. La SAP identifie les partenaires à intégrer en fonction de la correspondance des compétences et de l’expertise dans la société partenaire et des besoins de l’entreprise des filiales prises en charge par la SAP.
 

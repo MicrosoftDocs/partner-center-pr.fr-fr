@@ -9,19 +9,16 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022704"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148718"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Bénéficier de fonds marketing coopératifs
 
-**Rôles appropriés**
-
-- Administrateur de primes incitatives
-- Utilisateur de primes incitatives
+**Rôles appropriés**: administrateur d’incentives | Utilisateur d’incentives
 
 Les fonds de marketing coopératif sont des fonds que vous recevez par le biais de programmes d’incentives Microsoft en revendiquant le remboursement des activités qui prennent en charge la reconnaissance des produits Microsoft. Les exemples de programmes d’incentives sont fournisseur de solutions Cloud, revendeur géré, hébergement et surface.
 

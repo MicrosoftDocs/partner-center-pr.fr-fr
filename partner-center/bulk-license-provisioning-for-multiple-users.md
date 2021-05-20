@@ -9,22 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570652"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149211"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Affecter ou révoquer des licences en même temps à plusieurs utilisateurs dans un compte client
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
-- Agent du support technique
-- Agent commercial
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés**: agent admin | Administrateur général | Agent du support technique | Agent commercial | Administrateur de gestion des utilisateurs
 
 Vous pouvez attribuer des licences et des services à un ou plusieurs utilisateurs à la fois dans un compte client, et révoquer des licences attribuées à des utilisateurs.
 
@@ -62,7 +56,7 @@ L’espace partenaires suit et affiche tous les droits de licence détenus par l
 
 6. Sous **Attribuer et révoquer des licences**, sélectionnez les licences de produit pour les nouveaux utilisateurs. 
 
-   Par exemple, si aucun des utilisateurs sélectionnés n’a de licences Office 365 Enterprise et que vous souhaitez les ajouter, activez la case à cocher. Vous avez besoin de suffisamment de licences pour chaque produit sélectionné.
+   Par exemple, si aucun des utilisateurs sélectionnés n’a de licences Office&nbsp;365 Entreprise et que vous voulez en ajouter, activez la case à cocher. Vous avez besoin de suffisamment de licences pour chaque produit sélectionné.
 
 7. Sélectionnez plusieurs produits pour les utilisateurs en activant la case à cocher de chaque produit.
     -   Sélectionnez **Afficher les plans de services** pour un produit, afin d’afficher et de sélectionner les plans de services dont les utilisateurs ont besoin.

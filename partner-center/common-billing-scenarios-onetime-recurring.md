@@ -9,21 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 329675e10205755819a19710976073d22f73eb58
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a26b6e5299c5186959612e622808161ca0f7f7c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502529"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148616"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Scénarios de facturation de l’espace partenaires pour une période unique et sélection des achats récurrents
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur de la facturation
-- Agent du support technique
-- Agent commercial
+**Rôles appropriés**: agent admin | Administrateur de facturation | Agent du support technique | Agent des ventes
 
 Il s’agit de [scénarios de facturation courants](common-billing-scenarios.md). 
 

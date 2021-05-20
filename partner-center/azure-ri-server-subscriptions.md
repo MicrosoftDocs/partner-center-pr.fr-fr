@@ -9,23 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 79175fc7e67fdcdc3195b33859f3609c4caf942f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182492"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149415"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Acquérir, approvisionner & gérer des instances de machine virtuelle réservées Azure (RI) + abonnements serveur pour les clients
 
 
-**Rôles appropriés**
-
-- Agent d’administration
-- Administrateur général
-- Agent du support technique
-- Agent commercial
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés**: agent admin | Administrateur général | Agent du support technique | Agent commercial | Administrateur de gestion des utilisateurs
 
 
 ## <a name="what-are-azure-reservations"></a>Qu’est-ce qu’une réservation Azure ?
@@ -114,7 +108,7 @@ Les événements à la demande de disponibilité des licences précédemment enr
 
 - Vue d’ensemble de Azure Reservations dans CSP (mai 2018)
 
-## <a name="operations"></a>Opérations
+## <a name="operations"></a>Operations
 
 [Nouveau guide des opérations de commerce](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf): Guide complet couvrant la stratégie clé et les aspects opérationnels, tels que les contrats, le classement via l’espace partenaires, la facture, les détails des tarifs, les incentives, le fichier de rapprochement, les API/SDK, le bac à sable (sandbox) et les services partagés partenaires Azure.
 

@@ -1,7 +1,7 @@
 ---
 title: Créer des abonnements clients dans l’espace partenaires
 ms.topic: how-to
-ms.date: 05/17/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez comment vendre des abonnements à vos clients pour des produits publiés par Microsoft ainsi que des produits SaaS publiés par des éditeurs de logiciels indépendants tiers.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9052954c81ef55a2bfa06778ace651c9d0f9b26f
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148194"
+ms.locfileid: "110201406"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Créer, suspendre ou annuler des abonnements client
 
@@ -28,6 +28,9 @@ Certaines offres sont limitées à un seul abonnement par client. Pour voir la l
 
 >[!IMPORTANT]
 > En tant que partenaire dans le programme CSP, vous pouvez acheter des abonnements Saas **basés sur une licence** ou **contrôlés** à partir d’éditeurs ISV dans l’espace partenaires. Cela signifie que vous pouvez acheter une **offre SaaS** **basée sur une licence** ou une offre à laquelle vous avez accès par l’éditeur ISV, y compris les [offres exclusives](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) auxquelles vous avez accès. Pour acheter ou gérer d’autres offres de la place de marché commercial auprès d’éditeurs de logiciels (ISV) (telles que des offres basées sur l’utilisation impliquant des applications Azure, des conteneurs ou des machines virtuelles), vous devez accéder au [portail Azure](https://portal.azure.com/).
+
+>[!NOTE]
+>Toutes les dates et heures de l’espace partenaires sont indiquées dans la norme heure UTC (Universal Time Coordinated). Cela peut être différent de 24 heures par rapport à votre heure locale.
 
 ## <a name="create-a-new-subscription"></a>Créer un abonnement
 

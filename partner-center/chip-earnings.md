@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354489"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149024"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Afficher les bénéfices à l’aide de l’outil CHIP
 
-**Rôles appropriés**
-
-- Contact principal ou administrateur de programme
+**Rôles appropriés**: contact principal ou administrateur de programme
 
 Vous pouvez accéder à votre déclaration d’incentives via l’outil Channel incentives Platform (puce).
 
@@ -36,7 +34,7 @@ Vous pouvez accéder à votre déclaration d’incentives via l’outil Channel 
 
 ### <a name="explanation-of-details-tabs"></a>Explication des onglets de détails
 
-|**Onglet**|**Définition**|
+|**Tab**|**Définition**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Inclut les détails du programme d’incentives pour la période sélectionnée, y compris le nom du client, l’accord, les détails du levier|
 |DeltaReport-tableau croisé dynamique|Mises à jour de la dernière instruction publiée pour Enterprise uniquement|

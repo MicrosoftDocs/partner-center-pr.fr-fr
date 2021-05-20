@@ -9,19 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cac2a6edc9199befeae940ed271c3236440c260
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: aba4f97ad6a385c2a9e36c95354a9d53e38ba9e3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96473949"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149976"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Affectation d’abonnements Azure à des clients dans l’Espace partenaires
 
-**Rôles appropriés**
-
-- Administrateur général
-- Agent commercial
+**Rôles appropriés**: administrateur général | Agent des ventes
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Affecter des abonnements Azure à vos clients
 

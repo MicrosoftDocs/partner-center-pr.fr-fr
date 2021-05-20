@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570533"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148888"
 ---
 # <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Vérifier l’état du paiement dans la plateforme d’incentives du canal (CHIP)
 
-**Rôles appropriés**
-
-- Administrateur de PUCEs
+**Rôles appropriés**: administration de processeur
 
 >[!NOTE]
 >La plateforme de PUCEs sera supprimée à la fin du 2021.

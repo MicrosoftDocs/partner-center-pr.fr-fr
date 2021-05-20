@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333801"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149993"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exemption des conditions d’examen ponctuelle pour les compétences de développement d’applications
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur partenaire MPN
+**Rôles appropriés**: administrateur général | Administrateur du partenaire MPN
 
 Si vous avez atteint la compétence du ISV et que l’un des scénarios suivants s’applique à vous, nous offrons à votre entreprise une exemption des exigences d’examen à usage unique pour la compétence en matière de [développement d’applications](https://partner.microsoft.com/membership/application-development-competency)Gold ou Silver. 
 
@@ -37,7 +34,7 @@ Partenaires avec une compétence de développement d’applications obtenue via 
 
 - **Si vous avez une liste de place de marché commercial Microsoft**, votre exemption d’obligation d’examen à usage unique sera disponible au moment du renouvellement de votre compétence. À ce moment-là, vous aurez 30 jours pour tirer parti de l’offre.
 
-- **Si vous n’avez pas de liste de place de [marché commercial Microsoft](https://azure.microsoft.com/overview/commercial-marketplace/) **, publiez votre solution d’ici le 2020 février pour être éligible à l’exemption des exigences d’examen à usage unique.
+- **Si vous n’avez pas de liste de place de [marché commercial Microsoft](https://azure.microsoft.com/overview/commercial-marketplace/)**, publiez votre solution d’ici le 2020 février pour être éligible à l’exemption des exigences d’examen à usage unique.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Comment tirer parti de votre offre
 
