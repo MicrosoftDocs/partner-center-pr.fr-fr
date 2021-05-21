@@ -7,13 +7,13 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 1895f89933668e909748178dcdaf4a54e4843096
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 05/20/2021
+ms.openlocfilehash: 9bcdd9e99f9db5271a1ca51dab01c376c938acc9
+ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146780"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "110236081"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Utilisez ces ressources pour faire des revendications d’association client pour des programmes d’incentives spécifiques
 
@@ -26,7 +26,11 @@ Cet article partage des ressources pour les partenaires Microsoft qui répondent
 - Vous travaillez avec des clients Microsoft 365 ou Dynamics 365 et vous souhaitez référencer ou revendiquer une partie de ce travail dans les programmes d’incentives ci-dessus.
 
 Si vous répondez aux critères, vous devez utiliser le modèle d’enregistrement (CPOR) du partenaire demandeur pour créer et gérer des associations de clients pour ces programmes d’incentives.
- 
+
+## <a name="explaining-claiming-partner-of-record-cpor-to-customers"></a>Explication de la revendication d’un partenaire d’enregistrement (CPOR) pour les clients
+
+CPOR permet à Microsoft d’identifier et de reconnaître les partenaires qui aident les clients à atteindre leurs objectifs commerciaux et à tirer parti de leur valeur dans le Cloud. Une fois qu’un partenaire s’associe à une charge de travail ou à un abonnement, il obtient l’accès aux données d’utilisation et/ou de ventes de sièges. L’accès à ces données permet aux partenaires de surveiller l’utilisation active tout en fournissant aux clients des recommandations sur la façon d’optimiser l’utilisation. Les partenaires n’ont accès à aucune autre donnée client. En outre, l’Association CPOR permet à Microsoft de comprendre l’écosystème des fournisseurs de services et permet également à Microsoft de déterminer comment affiner les outils et les programmes nécessaires à la prise en charge optimale de nos clients courants. Aucune action n’est requise pour le client. Nous offrons aux clients la possibilité de refuser une association CPOR. Les clients recevront une notification les informant de la demande d’association de la part de partenaires. Si un client refuse l’Association à un partenaire, le partenaire n’est pas reconnu comme partenaire d’enregistrement.
+
 ## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Quel est le lien entre les associations et les CPOR de clients et les incentives ?
 
 Microsoft utilise désormais le modèle d’enregistrement (CPOR) du partenaire demandeur pour gérer les associations que vous avez avec vos clients Microsoft 365 et Dynamics 365.
@@ -41,7 +45,6 @@ En acceptant votre demande d’association, le client vous donne accès à certa
 
 ## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Ressources pour vous aider à créer et gérer des associations de clients
 
-Les articles ci-dessous vous indiquent comment créer, gérer et dépanner les associations de clients.
 
 |  **Pour ce faire**  |  **Lisez cela**  |
 |--------------|-----------|
