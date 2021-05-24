@@ -9,26 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702890"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151778"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gérer les localisations dans votre compte MPN et ajouter (supprimer) une localisation
 
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur des comptes
+**Rôles appropriés** : Administrateur général | Administrateur de compte
 
 L’ID MPN de localisation identifie chaque localisation spécifique de votre entreprise. Vous utilisez l’ID MPN de localisation pour vous inscrire aux programmes d’incentives, pour effectuer des transactions dans le cadre de l’activité CSP et pour d’autres transactions commerciales. L’ID MPN global est utilisé pour les activités hors transactions, comme les demandes de support.
 
 ## <a name="the-following-scenario-is-typical"></a>Le scénario suivant est très courant :
 
-Contoso a son compte global de partenaire (PGA) au Royaume-Uni. Il s’agit de leur activité légalement enregistrée et son ID MPN global est utilisé pour la gestion de toutes les activités hors transactions. Contoso a également des comptes de localisation partenaire (PLA) équivalents à des filiales ou des divisions ailleurs au Royaume-Uni, en France et aux États-Unis. Dans la structure des comptes MPN, ces comptes de localisation partenaire sont représentés sous forme d’ID MPN de localisation uniques. Les comptes de localisation partenaire sont utilisés pour les activités transactionnelles, comme les programmes CSP ou d’incentives. Les règlements sont associés à des sites spécifiques. 
+Contoso a son compte global de partenaire (PGA) au Royaume-Uni. Il s’agit de leur activité légalement enregistrée, et son ID MPN global est utilisé pour la gestion de toutes les activités hors transactions. Contoso a également des comptes de localisation partenaire (PLA) équivalents à des filiales ou des divisions ailleurs au Royaume-Uni, en France et aux États-Unis. Dans la structure des comptes MPN, ces comptes de localisation partenaire sont représentés sous forme d’ID MPN de localisation uniques. Les comptes de localisation partenaire sont utilisés pour les activités transactionnelles, comme les programmes CSP ou d’incentives. Les règlements sont associés à des sites spécifiques. 
 
 >[!NOTE]
 >Il existe une relation 1-1 entre un locataire CSP et un ID MPN de localisation.
@@ -85,15 +82,15 @@ Mettez à jour les champs suivants :
 
 ## <a name="add-an-mpn-location"></a>Ajouter une localisation MPN
 
-1. Connectez-vous avec le compte MPN dans l’Espace partenaires. (Vos informations d’identification MPN peuvent être différentes de vos informations d’identification CSP.) Le compte MPN doit disposer de privilèges d’administrateur général ou d’administrateur de compte. 
+1. Connectez-vous avec le compte MPN dans l’Espace partenaires. (Vos informations d’identification MPN peuvent être différentes de celles de votre fournisseur de services de chiffrement) Le compte MPN doit disposer de privilèges d’administrateur général ou d’administrateur de compte. 
 
 1. À partir de l’**icône Paramètres**, sélectionnez **Paramètres du compte**, puis **Profil de l’organisation**.
 
-2. Sélectionnez **Légal**, puis sous l’onglet **Partenaire**, sélectionnez **Localisations d’entreprise** et cliquez sur **Ajouter une localisation**.
+2. Sélectionnez **Légal**. Sous l’onglet **Partenaire**, sélectionnez **Localisations d’entreprise** puis sélectionnez **Ajouter une localisation**.
 
 3. Fournissez les informations requises, notamment le nom de l’entreprise, l’adresse et le contact pour la localisation que vous souhaitez ajouter à votre société.
  
-1. Cliquez sur **Ajouter une localisation**. Un nouvel ID MPN est créé pour la nouvelle localisation que vous pouvez utiliser pour les transactions et incentives CSP.
+1. Sélectionnez **Ajouter un emplacement**. Un nouvel ID MPN est créé pour la nouvelle localisation que vous pouvez utiliser pour les transactions et incentives CSP.
 
 :::image type="content" source="images/legal-biz.png" alt-text="Ajouter une nouvelle activité légale":::
 
@@ -102,7 +99,7 @@ Mettez à jour les champs suivants :
 
 ## <a name="add-the-registration-number-id"></a>Ajouter le numéro d’identification d’inscription
 
-Si vous êtes fournisseur indirect, partenaire à facturation directe ou revendeur indirect et que vous travaillez avec des clients nouveaux ou existants dans les pays suivants, vous devez fournir les numéros d’identification d’inscription de votre entreprise. Si le pays avec lequel vous travaillez ne figure pas dans la liste ci-dessous, le numéro d’inscription est facultatif.
+Si vous êtes fournisseur indirect, partenaire à facturation directe ou revendeur indirect et que vous travaillez avec des clients nouveaux ou existants dans les pays suivants, vous devez fournir les numéros d’identification d’inscription de votre entreprise. Si le pays avec lequel vous travaillez ne figure pas dans la liste ci-dessous, l’ID d’inscription est facultatif.
 
 - Arménie 
 - Azerbaïdjan 
@@ -134,11 +131,11 @@ Pour plus d’informations, consultez [Informations sur les numéros d’identif
 
 ## <a name="delete-a-location"></a>Supprimer une localisation
 
-Pour supprimer une localisation de votre compte, vous devez contacter [le support de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Veillez à bien comprendre l’impact de cette action. Les localisations supprimées ne peuvent pas être récupérées et tout ce qui est lié à cet ID MPN spécifique n’est plus reconnu ni actif pour votre entreprise.
+Pour supprimer une localisation de votre compte, vous devez contacter [le support de l’Espace partenaires](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Veillez à bien comprendre l’impact de cette action. Les localisations supprimées ne peuvent pas être récupérées, et tout ce qui est lié à cet ID MPN n’est plus reconnu ni actif pour votre entreprise.
 
 ## <a name="change-country-of-partner-global-account"></a>Changer le pays du compte global du partenaire 
 
-1. Connectez-vous avec le compte MPN dans l’Espace partenaires. (Vos informations d’identification MPN peuvent être différentes de vos informations d’identification CSP.) Le compte MPN doit disposer de privilèges d’administrateur général ou d’administrateur de compte. 
+1. Connectez-vous avec le compte MPN dans l’Espace partenaires. (Vos informations d’identification MPN peuvent être différentes de celles de votre fournisseur de services de chiffrement) Le compte MPN doit disposer de privilèges d’administrateur général ou d’administrateur de compte. 
 
 2. Sous l’onglet **Partenaire**, accédez à **Localisations d’entreprise** et vérifiez que la localisation que vous voulez désigner comme entité légale figure bien dans la liste. 
  
@@ -148,7 +145,7 @@ Pour supprimer une localisation de votre compte, vous devez contacter [le suppor
 
 :::image type="content" source="images/lbp.png" alt-text="Menu volant des données de profil de l’entreprise légale":::
 
-5. Cliquez sur **Enregistrer**.
+5. Sélectionnez **Enregistrer**.
 
 6. Le pays du compte global MPN sera remplacé par le nouveau pays légal.
   

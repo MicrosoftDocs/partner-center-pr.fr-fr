@@ -9,19 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964388"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148199"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Créer un profil professionnel pour obtenir des prospects Microsoft et aider les clients à trouver
 
-**Rôles appropriés**
-
-- Administrateur de profils métier
-- Administrateur des références
+**Rôles appropriés** : Administrateur des profils métier | Administrateur des références
 
 En tant que partenaire Microsoft qualifié, vous pouvez créer un profil métier pour présenter votre activité aux clients qui recherchent vos solutions et votre expertise uniques afin de répondre à leurs besoins métier.
 

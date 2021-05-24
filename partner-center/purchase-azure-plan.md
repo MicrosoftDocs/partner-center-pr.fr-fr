@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441623"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854959"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Acheter le plan Azure pour les clients et accéder aux services Azure les plus récents au tarif du paiement à l’utilisation
 
-**Rôles appropriés**
-
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
-- Agent commercial
+**Rôles appropriés** : Administrateur général | Administrateur de la gestion des utilisateurs | Commercial
 
 Quand vous achetez un plan Azure pour vos clients liés dans le cadre du Contrat client Microsoft, vous avez accès à l’ensemble du catalogue des services Azure les plus récents au tarif du paiement à l’utilisation. Les partenaires Fournisseur de solutions Cloud (CSP) peuvent alors accéder à n’importe quel service Azure dès lors qu’il est mis à la disposition générale. Un partenaire peut avoir plusieurs abonnements Azure dans un plan Azure. 
 

@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133095"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818760"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gérer les avantages et les offres de votre adhésion à Microsoft Partner Network dans l’Espace partenaires
 
@@ -104,11 +104,11 @@ Pour activer les abonnements basés sur une licence, cliquez sur le symbole de l
    >[!Note]
    >Les administrateurs d’abonnements Visual Studio peuvent réattribuer des abonnements d’un abonné à un autre si 90 jours se sont écoulés depuis l’attribution d’origine. Pour plus d’informations, consultez le [Guide des programmes Partenaires Microsoft](https://aka.ms/partner-benefits-use-guide).
 
-## <a name="manage-technical-benefits"></a>Gérer les avantages techniques
+## <a name="manage-technical-benefits---microsoft-product-support"></a>Gérer les avantages techniques - Support technique Microsoft
 
-Cette section décrit comment activer et gérer les avantages du support technique dans le [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires. Toutefois, si votre adhésion au Microsoft Partner Network est toujours dans PMC (Partner Membership Center), vous devez contacter une autre ressource, comme Partner Frontline, pour vous aider à activer vos avantages techniques. Consultez [Activer les avantages techniques en dehors de l’Espace partenaires](partner-membership-center-tech-benefits-activate.md).
+Cette section décrit comment activer et gérer les avantages du support technique dans le [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires. Toutefois, si votre adhésion au Microsoft Partner Network est toujours dans PMC (Partner Membership Center), vous devez contacter une autre ressource, comme Partner Frontline, pour vous aider à activer vos avantages techniques. Consultez [Activer les avantages techniques en dehors de l’Espace partenaires](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate).
 
-Pour voir vos avantages techniques dans l’Espace partenaires, effectuez les étapes suivantes :
+Pour voir vos avantages Support technique dans l’Espace partenaires, effectuez les étapes suivantes :
 
 1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
 
@@ -120,7 +120,7 @@ Pour voir vos avantages techniques dans l’Espace partenaires, effectuez les é
 
    - **Activez l’avantage technique.** Après avoir développé les détails d’un avantage, sélectionnez **Activer**. Le traitement de votre demande d’activation peut prendre quelques jours.
 
-   - **Prenez connaissance des ID d’accès et de contrat du support produit, puis partagez-les.** Une fois votre demande d’activation traitée, des détails sur l’**ID d’accès** et l’**ID de contrat** sont visibles quand vous développez cet avantage technique. Vous ou les utilisateurs de votre entreprise devrez peut-être partager ces informations la première fois que vous enverrez une demande de support pour certains types de produits ou de services.
+   - **Prenez connaissance des ID d’accès et de contrat du support produit, puis partagez-les.** Une fois votre demande d’activation traitée, des détails sur l’**ID d’accès** et l’**ID de contrat** sont visibles quand vous développez cet avantage technique. Vous ou les utilisateurs de votre entreprise devrez partager et utiliser ces informations la première fois que vous enverrez une demande de support pour certains types de produits ou de services.
 
 4. Une fois vos avantages techniques activés, vous pouvez les utiliser pour différents types de support technique. Pour soumettre des demandes de support technique pour les services suivants, lisez les instructions détaillées figurant dans la page Avantages techniques. Consultez également les détails ci-dessous.
 
@@ -134,10 +134,23 @@ Pour voir vos avantages techniques dans l’Espace partenaires, effectuez les é
 
      >[!NOTE]
      > L’ID d’accès et l’ID de contrat sont obligatoires pour les demandes de support technique pour les produits locaux, Azure (non-CSP) et Dynamics. À l’avenir, pour trouver votre ID d’accès et votre ID de contrat, vous pouvez également lire [Trouver vos avantages](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits).
+     > 
+[En savoir plus sur le Support technique pour les produits locaux ou dans le cloud](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
   
-   **Services techniques d’avant-vente et de déploiement.**  Utilisez ce type de support pour une consultation ou des conseils concernant les ventes ou le déploiement techniques. Ces services peuvent être demandés directement à partir de l’[Espace partenaires](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest).
+## <a name="manage-technical-benefits---partner-advisory-hours"></a>Gérer les avantages techniques - Heures de conseil partenaire
+Les heures de conseil partenaire sont la devise utilisée pour les **services de prévente technique et de déploiement**. Il vous suffit de vous connecter pour envoyer une demande (l’activation et l’attribution utilisateur ne sont pas obligatoires).
 
-   - Pour les partenaires de niveau de compétence Action Pack et Gold/Silver, utilisez **Services techniques d’avant-vente et de déploiement** pour les solutions cloud et hybrides.
+Pour voir vos heures de conseil partenaire dans l’Espace partenaires, effectuez les étapes suivantes :
+
+1. Connectez-vous au [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires.
+
+2. Sélectionnez **Avantages** puis **Avantages techniques** pour voir les heures de conseil partenaire.
+
+3. En bas à droite de la page, cliquez sur **[Envoyer la demande technique avant-vente et de déploiement](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** pour envoyer votre demande.
+     >[!NOTE]
+     > Si le message *« Apparemment, vous n’avez pas encore d’avantages »* s’affiche dans la page Avantages techniques, cela signifie que vous vous êtes connecté à l’aide d’un compte partenaire qui ne dispose pas d’une offre Gold, Silver ou Microsoft Action Pack et que vous n’êtes donc pas autorisé à utiliser le service, ou que vous n’avez pas utilisé le bon compte pour vous connecter.
+     > 
+[En savoir plus sur les services de prévente technique et de déploiement (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
   
 ## <a name="manage-go-to-market-offers"></a>Gérer les offres de commercialisation
 

@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492532"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148140"
 ---
 # <a name="create-user-accounts"></a>Créer des comptes d'utilisateur  
 
-**Rôles appropriés**
-
-- Administrateur des comptes
-- Administrateur général
-- Administrateur de la gestion des utilisateurs
+**Rôles appropriés** : Administrateur de compte | Administrateur général | Administrateur de la gestion des utilisateurs
 
 Créez des comptes d’utilisateur pour les employés qui doivent accéder à l’Espace partenaires. Ces tâches doivent être effectuées par l’administrateur de la gestion des utilisateurs, l’administrateur des comptes ou l’administrateur général. L’utilisateur qui effectue ces tâches doit aussi se voir attribuer les rôles Administrateur d’utilisateurs ou Administrateur général d’Azure Active Directory (AAD). Pour plus d’informations sur les rôles d’AAD, consultez [Autorisations des rôles d’administrateur dans Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 

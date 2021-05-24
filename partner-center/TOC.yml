@@ -134,6 +134,8 @@
     - name: Passer de la facturation directe CSP au statut de revendeur indirect
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Les partenaires ne peuvent plus s’inscrire comme Conseillers
+      href: advisors-no-csp.md
 - name: Contrats CSP
   href: microsoft-partner-agreement.md
   items:
