@@ -1,5 +1,5 @@
 ---
-title: Avantages MPN-incidents de support technique
+title: Avantages MPN-support technique pour les produits locaux ou Cloud
 ms.topic: article
 ms.date: 03/04/2021
 ms.service: partner-dashboard
@@ -9,62 +9,70 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa99b66e9b30c349be8fc5cca6dfeeed9eca34ae
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 137c5021acf2be53fb485f922c7e06c70ea6bb63
+ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151404"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "110582390"
 ---
-# <a name="technical-support-benefits"></a>Avantages du support technique
+# <a name="technical-support-for-on-premises-or-cloud-products"></a>Support technique pour les produits locaux ou Cloud
 
 **Rôles appropriés**: administrateur général | Administrateur du partenaire MPN | Agent d’administration
 
+
 ## <a name="overview"></a>Vue d’ensemble
 
-Cet article est destiné aux membres de Microsoft Partner Network partenaires (MPN) qui doivent savoir comment créer un incident de support technique à l’aide des avantages du partenaire MPN
+La page des [avantages techniques](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) affiche des informations sur 2 avantages distincts
 
-## <a name="view-and-activate-your-technical-support-benefits"></a>Afficher et activer les avantages de votre support technique 
+1.  **Incidents de support technique du produit-voir ci-dessous**
+2.  Services de déploiement et préventes techniques (TPD) – [informations supplémentaires](https://docs.microsoft.com/partner-center/technical-benefits)
+
+**Cet article est destiné aux membres de Microsoft Partner Network partenaires (MPN) qui doivent savoir comment créer un incident de support technique à l’aide des avantages du partenaire MPN**
+
+## <a name="view-and-activate-your-technical-support-benefits"></a>Afficher et activer les avantages de votre support technique
+
+Tout d’abord, vous devez activer l’ID d’accès et l’ID de contrat, ce qui vous permet d’associer les avantages à votre compte. Vous utilisez votre compte pour vous connecter au portail de support technique approprié et créer une demande de support technique.
 
 Pour afficher et activer vos avantages techniques dans l’espace partenaires :
 
 1. Connectez-vous avec votre compte MPN associé dans le [tableau de bord](https://partner.microsoft.com/dashboard) de l’Espace partenaires. 
-    > [!NOTE]
-    > Si votre compte est associé uniquement au CSP et non associé à MPN, vous verrez un message d’erreur « vous n’êtes pas autorisé à effectuer cette action ». Vous devez disposer d’un compte MPN associé.
+   
+   > [!NOTE]
+   > Si votre compte est associé uniquement au CSP et non associé à MPN, vous verrez un message d’erreur « vous n’êtes pas autorisé à effectuer cette action ». Vous devez disposer d’un compte MPN associé.
 
-2. Développez Avantages dans le menu de navigation gauche, puis sélectionnez **Avantages techniques**. La page Avantages techniques liste les avantages du support technique disponibles pour vos offres d’abonnement Gold, Silver ou Microsoft Action Pack. 
+2. Développez **Avantages** dans le menu de navigation gauche, puis sélectionnez **Avantages techniques**. La page Avantages techniques liste les avantages du support technique disponibles pour vos offres d’abonnement Gold, Silver ou Microsoft Action Pack.
+  
+   > [!NOTE]
+   > Si vous ne disposez d’aucune offre d’abonnement actif, vous verrez le message « vous n’avez pas encore d’avantages ». Si votre entreprise dispose d’une offre d’abonnement active, mais que vous ne pouvez pas les voir, vous vous êtes connecté à l’aide d’un compte incorrect. Pour vérifier votre compte, sélectionnez l’icône de **compte** en haut à droite de la page et sélectionnez **se connecter avec un autre compte** (si nécessaire).
 
-    > [!NOTE]
-    >Si vous ne disposez d’aucune offre d’abonnement actif, vous verrez le message « vous n’avez pas encore d’avantages ». Si votre entreprise dispose d’offres d’abonnement actives mais qu’elles ne sont pas visibles, c’est peut-être que vous n’êtes pas connecté au compte adéquat. Pour vérifier votre compte, sélectionnez l’icône de **compte** en haut à droite de la page et sélectionnez **se connecter avec un autre compte** (si nécessaire).
+3. Pour utiliser le support technique Microsoft ou la signature, vous devez activer l’avantage. Pour activer l’avantage, cliquez sur le bouton **activer** . Le compte d’utilisateur utilisé pour l’activation requiert les rôles administrateur général ou administrateur du partenaire MPN. 
 
-3. Pour commencer à utiliser un support technique Microsoft ou une signature, vous devez activer l’avantage. L’ID d’accès et l’ID de contrat s’affichent une fois l’activation réussie. 
+4. L’ID d’accès et l’ID de contrat seront affichés à tous les utilisateurs après l’activation réussie. Vous pouvez utiliser le support technique Microsoft et la signature Product Support (membres Gold et Silver) lorsque l’ID d’accès et l’ID de contrat s’affichent.
 
-    -   Pour activer l’avantage, sélectionnez le bouton Activer. Le compte d’utilisateur utilisé pour l’activation requiert les rôles administrateur général ou administrateur du partenaire MPN. Le traitement de votre demande d’activation peut prendre quelques jours. 
-
-    - Vous pouvez utiliser le support technique Microsoft et la signature Product Support (membres Gold et Silver) lorsque l’ID d’accès et l’ID de contrat s’affichent. 
-
- 4. Vous aurez besoin de l’ID d’accès et de l’ID de contrat la première fois que vous utilisez le support technique Microsoft ou la signature du support technique.  
+   > [!NOTE]
+   > Vous aurez besoin de l’ID d’accès et de l’ID de contrat la première fois que vous utilisez le support technique Microsoft ou le support produit de signature pour chaque compte. Une fois les avantages associés à votre compte, vous n’avez plus besoin d’utiliser l’ID d’accès et l’ID de contrat.  
 
 ## <a name="technical-support-entitlement-and-supported-products"></a>Habilitation du support technique et produits pris en charge
 
 Le support technique fournit un dépannage pour un problème spécifique, un message d’erreur ou une fonctionnalité qui ne fonctionne pas comme prévu.
 
 > [!NOTE]
-> Vous devez activer vos avantages de support technique avant de pouvoir les utiliser. 
+> Vous devez activer vos avantages de support technique avant de pouvoir les utiliser.
 
 Dans le cadre de l’appartenance au Microsoft Partner Network, les partenaires peuvent bénéficier du support technique suivant.
 
-
-| Support technique |  Action Pack | Compétence Silver | Compétence Gold |
-|:---:|:---:|:---:|:---:|
-| Support technique Microsoft<br>Pour les versions récentes sur site <br>produits uniquement | 10 incidents | 15 incidents  | 20 incidents |
-| Prise en charge du Cloud de signature<br>Pour les produits Cloud uniquement |  | Compétences du Cloud :<br>Illimité<br><br>Autres compétences :<br>5 incidents  | Compétences du Cloud :<br>Illimité<br>          <br>Autres compétences :<br>10 incidents  |
+|                           Support technique                          |  Action Pack |                                      Compétence Silver                                      |                                        Compétence Gold                                        |   |
+|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
+| Support technique Microsoft<br>Pour les versions récentes sur site <br>produits uniquement | 10 incidents | 15 incidents                                                                                | 20 incidents                                                                                  |   |
+| Prise en charge du Cloud de signature<br>Pour les produits Cloud uniquement                   |              | Compétences du Cloud :<br>Illimité<br>         <br>Autres compétences :<br>5 incidents         | Compétences du Cloud :<br>Illimité<br>          <br>Autres compétences :<br>10 incidents   
 
 * Les compétences du Cloud sont les suivantes : compétence de sécurité, Cloud Business Applications, plateforme Cloud, productivité du Cloud, gestion de la mobilité d’entreprise, solutions Cloud petites et moyennes.
 
+
 ## <a name="microsoft-product-support-on-premises"></a>Support technique Microsoft (local)
 
-Vous pouvez utiliser le  **support technique Microsoft** pour obtenir un support technique sur les produits locaux récents. 
+Vous pouvez utiliser le **support technique Microsoft** pour obtenir un support technique sur les produits locaux récents.
 
 Vous aurez besoin de l’ID d’accès et de l’ID de contrat la première fois que vous utilisez l’avantage. Les avantages sont associés à votre compte d’utilisateur jusqu’à ce qu’ils expirent ou qu’il reste plus d’incidents de support.
 
@@ -85,9 +93,12 @@ Vous devez utiliser la prise en charge pour les entreprises et démarrer le proc
 
 ## <a name="signature-cloud-support-cloud-only"></a>Prise en charge du Cloud de signature (Cloud uniquement)
 
-Les partenaires de la compétence Gold ou Silver peuvent utiliser la signature du support **Cloud** pour le support technique sur les produits Cloud. 
+Les partenaires de la compétence Gold ou Silver peuvent utiliser la signature du support **Cloud** pour le support technique sur les produits Cloud.
 
 Vous aurez besoin de l’ID d’accès et de l’ID de contrat la première fois que vous utilisez l’avantage. Les avantages sont associés à votre compte d’utilisateur jusqu’à ce qu’ils expirent ou qu’il reste plus d’incidents de support.
+
+> [!NOTE]  
+> Lors de l’utilisation de l’Portail Azure. Si votre contrat de support est déjà associé au compte, un message d’erreur s’affiche : « l’ID d’accès est déjà associé... » Lorsque vous ajoutez l’ID d’accès et l’ID de contrat. Voir ci-dessous
 
 Les partenaires CSP qui créent des demandes Azure peuvent utiliser le plan de support « fournisseur de solutions Cloud » sans ajouter de contrat de support.
 
@@ -111,15 +122,15 @@ Consultez les plans de support partenaires ci-dessous pour les offres de support
 
 ## <a name="partner-support-plans"></a>Plans de support partenaires
 
-Vous pouvez bénéficier d’un support payant de Microsoft qui comprend un support technique et une gamme d’options de service supplémentaires. 
+Vous pouvez bénéficier d’un support payant de Microsoft qui comprend un support technique et une gamme d’options de service supplémentaires.
 
 Vous pouvez [comparer les plans de support partenaires](https://partner.microsoft.com/support/partnersupport) ou voir ci-dessous les offres spécifiques aux partenaires :
 
-- [Support premier pour les partenaires](https://partner.microsoft.com/support/microsoft-services-premier-support) : le plus haut niveau de support technique de Microsoft
-- [Support avancé pour les partenaires](https://partner.microsoft.com/support/advanced-cloud-support) -produits Cloud uniquement
-
+*   [Support premier pour les partenaires](https://partner.microsoft.com/support/microsoft-services-premier-support) : le plus haut niveau de support technique de Microsoft
+*   [Support avancé pour les partenaires](https://partner.microsoft.com/support/advanced-cloud-support) -produits Cloud uniquement
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- [Gérer vos avantages et offres Microsoft Partner Network](manage-your-partner-network-benefits.md)
-- [Activer les avantages techniques pour les membres du Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+*   [Gérer vos avantages et offres Microsoft Partner Network](manage-your-partner-network-benefits.md)
+*   [Activer les avantages techniques pour les membres du Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+*   [Services de déploiement et préventes techniques (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
