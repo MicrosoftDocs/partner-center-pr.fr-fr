@@ -1,7 +1,7 @@
 ---
 title: Gérer les récompenses de la Place de marché
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Les partenaires qui publient des offres sur la place de marché commerciale peuvent bénéficier d’avantages qui proposent un support marketing.
@@ -9,28 +9,28 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
+ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151676"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "110687729"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gérer les récompenses de la place de marché dans l’espace partenaires & activer le marketing, les ventes et les avantages techniques
 
 **Rôles appropriés**: administrateur de partenaire MPN | Administrateur général | Agent d’administration
 
-Si vous publiez des offres logicielles sur notre place de marché commercial, les récompenses de la place de marché offrent un support ciblé pour toutes vos offres avec des avantages techniques, commerciaux et marketing.
+Si vous publiez des offres logicielles sur notre place de marché commercial, les récompenses de la place de marché offrent un support ciblé pour toutes vos offres avec des avantages techniques, commerciaux et marketing. Pour plus d’informations sur le programme et les avantages, consultez la page récompenses de la place de [marché](https://aka.ms/marketplacerewards) (PPT).
 
 Le bénéfice des récompenses de la place de marché est calculé en fonction de tous les profils de publication liés à la société MPN PGA. Pour vérifier votre éligibilité pour le programme de récompenses de la place de marché, accédez à la [page des récompenses](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)de la place de marché.
 
 ## <a name="sales-and-marketing-benefits"></a>Avantages Ventes et marketing
 
-1. Dans le tableau de [bord](https://partner.microsoft.com/dashboard)de l’espace partenaires, sélectionnez l’onglet **avantages commerciaux et marketing** sur la page récompenses de la place de marché pour afficher votre liste d’avantages. 
+1. Dans le tableau de [bord](https://partner.microsoft.com/dashboard)de l’espace partenaires, sélectionnez l’onglet **avantages commerciaux et marketing** sur la page récompenses de la place de marché pour afficher votre liste d’avantages.
 
 2. Pour activer un avantage de marketing et de vente, vous devez d’abord attribuer un contact marketing d’entreprise. Ce contact recevra les communications de suivi concernant vos récompenses de la Place de marché.
 
-3. Pour ajouter ou mettre à jour vos informations de contact marketing, accédez à la partie supérieure de l’onglet Avantages de marketing et de vente, dans la page Récompenses de la Place de marché, puis sélectionnez **Ajouter, mettre à jour ou modifier**. 
+3. Pour ajouter ou mettre à jour vos informations de contact marketing, accédez à la partie supérieure de l’onglet Avantages de marketing et de vente, dans la page Récompenses de la Place de marché, puis sélectionnez **Ajouter, mettre à jour ou modifier**.
 
    Ensuite, effectuez les actions suivantes :
 
@@ -56,7 +56,7 @@ Les informations sur les récompenses de la place de marché sont disponibles vi
 
 1. En tant qu’administrateur général ou administrateur de compte, connectez-vous à PGA dans l’espace partenaires.
 
-2. Sélectionnez **paramètres** (en haut à droite), **paramètres du compte**, **locataires**. 
+2. Sélectionnez **paramètres** (en haut à droite), **paramètres du compte**, **locataires**.
 
 3. Sélectionnez **associer un autre Azure ad locataire** et sélectionnez le client Azure ad que vous souhaitez associer au PGA.
 
@@ -65,4 +65,3 @@ Les informations sur les récompenses de la place de marché sont disponibles vi
 5. Déconnectez-vous de l’espace partenaires, puis connectez-vous à l’aide du nom d’utilisateur et du mot de passe du locataire que vous venez de associer au PGA.
 
 6. Vous pouvez maintenant voir les informations du programme de la place de marché avantages commerciaux dans le menu de navigation de gauche.
-
