@@ -1,7 +1,7 @@
 ---
 title: Indicateurs de contribution partenaire-CBA
 ms.topic: article
-ms.date: 03/26/2021
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Découvrez sept indicateurs de contribution partenaires (PCI) qui montrent aux partenaires comment atteindre une compétence en matière de Business Applications Cloud Silver ou Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: beb7888f947e766f753906c1f6452118cc5efb99
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 81d93e2e8b2ed47f785ae33be14dd03c75c8a1d7
+ms.sourcegitcommit: 02a839b61265c3162e041c8894575d3b5345f020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147001"
+ms.lasthandoff: 06/01/2021
+ms.locfileid: "110724494"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utiliser les indicateurs de contribution des partenaires pour atteindre la compétence Applications métier dans le cloud
 
@@ -137,8 +137,8 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | 300 000 $ | 10 | 15 | *\* Voir la remarque* | 5 | 5 | 25% |
-| **Pays** | $150 000 | 5  | 5  |*\* Voir la remarque* | 2 | 1 | 25% |
+| **Fruit** | 300 000 $ | 10 | 15 | *\* Voir la remarque* | 5 | 5 | 25 % |
+| **Pays** | $150 000 | 5  | 5  |*\* Voir la remarque* | 2 | 1 | 25 % |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base et de l’option spécifique qu’un partenaire utilise pour obtenir des points. Pour en savoir plus sur les options permettant d’obtenir des points ou sur les cibles de croissance spécifiques de chaque option, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
@@ -148,8 +148,8 @@ Pour plus d’informations, consultez les tableaux suivants :
 | Métrique PCI | Indicateur de performance : net New revenue | Indicateur de performance : ajouts de nouveaux clients | Indicateur de fonctionnalité : consultants fonctionnels | Indicateur de fonctionnalité : croissance du consultant fonctionnel | Indicateur de fonctionnalité : développeurs | Indicateur de réussite du client : nouveaux déploiements à grande échelle | Indicateur de succès du client : croissance mensuelle des utilisateurs actifs |
 |---|---|---|---|---|---|---|---|
 | **Nombre maximal de points** | 10 points | 10 points | 15 points | 15 points | 5 points | 20 points | 25 points |
-| **Fruit** | 300 000 $ | 3 | 15 | *\* Voir la remarque* | 5  | 3 | 25% |
-| **Pays** | $150 000 | 1 | 5 |*\* Voir la remarque* | 2 | 1 | 25% |
+| **Fruit** | 300 000 $ | 3 | 15 | *\* Voir la remarque* | 5  | 3 | 25 % |
+| **Pays** | $150 000 | 1 | 5 |*\* Voir la remarque* | 2 | 1 | 25 % |
 
 *\* Remarque : les cibles de croissance diffèrent en fonction du nombre de consultants de base et de l’option spécifique qu’un partenaire utilise pour obtenir des points. Pour en savoir plus sur les options permettant d’obtenir des points ou sur les cibles de croissance spécifiques de chaque option, consultez [définitions pour la croissance du consultant fonctionnel](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
@@ -232,13 +232,11 @@ L’ajout du client net est un [indicateur de performance](partner-contribution-
 
   **Pour plusieurs partenaires, le même client, des abonnements différents :**
 
-  - Tous les partenaires associés au client bénéficient d’un crédit pour un nouveau client ajouter au mois où le client est ajouté.
-  
-  - Les partenaires suivants qui associent le même client via des abonnements anciens ou nouveaux n’obtiendront pas de crédit supplémentaire pour ce client.
-  
-  - Tous les partenaires associés au client perdront le crédit d’un nouveau client dans le mois où le client sera perdu.
-  
-  - Tout partenaire qui associe le même client par la suite, via des abonnements anciens ou nouveaux, obtiendra un nouveau crédit pour ce client.
+- Le client est ajouté pour la première fois :
+    - Tous les partenaires associés au client bénéficient d’un crédit pour un nouveau client ajouter au mois où le client est ajouté.
+    - Les partenaires suivants qui associent le même client via des abonnements anciens ou nouveaux n’obtiendront pas de crédit supplémentaire pour ce client.
+- Client perdu : tous les partenaires associés qui, au cours des 12 mois précédents, ont reçu un crédit pour l’ajout du client perdront ce crédit du mois où le client sera perdu.
+- Le client, précédemment perdu, est rajouté : tous les partenaires associés au client sont crédités pour un nouveau client dans le mois où le client est rajouté.
   
   **Lorsque le client travaille déjà directement avec Microsoft :**
 
@@ -289,7 +287,7 @@ Un partenaire a l’une des deux options pour atteindre les points tout ou rien 
   | Fruit | Pays | Croissance nécessaire pour gagner les 15 points
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35 % |
-  | 30-49 | 15-24 | 25% |
+  | 30-49 | 15-24 | 25 % |
   | 50 et versions ultérieures | 25 et versions ultérieures | Voir les options ci-dessous |
 
 **Option Two pour obtenir les points :**
