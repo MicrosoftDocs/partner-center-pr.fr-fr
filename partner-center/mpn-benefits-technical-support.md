@@ -1,20 +1,20 @@
 ---
 title: Avantages MPN-support technique pour les produits locaux ou Cloud
+description: En savoir plus sur les avantages de Microsoft Partner Network (MPN) pour les incidents de support technique
 ms.topic: article
-ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: En savoir plus sur les avantages de Microsoft Partner Network (MPN) pour les incidents de support technique
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 137c5021acf2be53fb485f922c7e06c70ea6bb63
-ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
+ms.date: 03/04/2021
+ms.openlocfilehash: eeeb628690848c360253d883e87f48f87ed15883
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "110582390"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575876"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Support technique pour les produits locaux ou Cloud
 
@@ -26,13 +26,13 @@ ms.locfileid: "110582390"
 La page des [avantages techniques](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) affiche des informations sur 2 avantages distincts
 
 1.  **Incidents de support technique du produit-voir ci-dessous**
-2.  Services de déploiement et préventes techniques (TPD) – [informations supplémentaires](https://docs.microsoft.com/partner-center/technical-benefits)
+2.  Services de déploiement et préventes techniques (TPD) – [informations supplémentaires](technical-benefits.md)
 
 **Cet article est destiné aux membres de Microsoft Partner Network partenaires (MPN) qui doivent savoir comment créer un incident de support technique à l’aide des avantages du partenaire MPN**
 
 ## <a name="view-and-activate-your-technical-support-benefits"></a>Afficher et activer les avantages de votre support technique
 
-Tout d’abord, vous devez activer l’ID d’accès et l’ID de contrat, ce qui vous permet d’associer les avantages à votre compte. Vous utilisez votre compte pour vous connecter au portail de support technique approprié et créer une demande de support technique.
+Tout d’abord, vous devez activer. Vous voyez ensuite votre ID d’accès et votre ID de contrat, ce qui vous permet d’associer les avantages à votre compte. Vous utilisez votre compte pour vous connecter au portail de support technique approprié et créer une demande de support technique.
 
 Pour afficher et activer vos avantages techniques dans l’espace partenaires :
 
@@ -62,10 +62,10 @@ Le support technique fournit un dépannage pour un problème spécifique, un mes
 
 Dans le cadre de l’appartenance au Microsoft Partner Network, les partenaires peuvent bénéficier du support technique suivant.
 
-|                           Support technique                          |  Action Pack |                                      Compétence Silver                                      |                                        Compétence Gold                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Support technique Microsoft<br>Pour les versions récentes sur site <br>produits uniquement | 10 incidents | 15 incidents                                                                                | 20 incidents                                                                                  |   |
-| Prise en charge du Cloud de signature<br>Pour les produits Cloud uniquement                   |              | Compétences du Cloud :<br>Illimité<br>         <br>Autres compétences :<br>5 incidents         | Compétences du Cloud :<br>Illimité<br>          <br>Autres compétences :<br>10 incidents   
+|  Support technique |  Action Pack |  Compétence Silver | Compétence Gold |
+|:------------------:|:------------:|:------------------:|:---------------:|
+| Support technique Microsoft<br>Pour les versions récentes sur site <br>produits uniquement | 10 incidents | 15 incidents | 20 incidents |
+| Prise en charge du Cloud de signature<br>Pour les produits Cloud uniquement | | Compétences du Cloud :<br>Illimité<br><br>Autres compétences :<br>5 incidents | Compétences du Cloud :<br>Illimité<br>          <br>Autres compétences :<br>10 incidents   | 
 
 * Les compétences du Cloud sont les suivantes : compétence de sécurité, Cloud Business Applications, plateforme Cloud, productivité du Cloud, gestion de la mobilité d’entreprise, solutions Cloud petites et moyennes.
 
@@ -87,7 +87,7 @@ Vous devez utiliser la prise en charge pour les entreprises et démarrer le proc
 
 Étape 1 ouvrir le [support pour les entreprises](https://support.serviceshub.microsoft.com/supportforbusiness/create) et sélectionner Windows 10 et entrer des informations factices
 
-Étape 2 Si votre contrat de support est déjà associé à votre compte, les incidents de support technique doivent s’afficher. Pour la prise en charge locale, vous devez voir le contrat de support partenaire affiché (sauf s’il n’est plus valide) et cela comprend la date de début, la date de fin et les incidents restants. Si vous devez associer votre contrat de support, développez « vous devez acheter ou ajouter d’autres plans de support », puis cliquez sur le bouton Ajouter un contrat pour entrer votre ID d’accès et votre ID de contrat. Développez le « voulez-vous voir les plans de support indisponibles ? » pour afficher les informations de signature du partenaire. Vous verrez uniquement le support partenaires affiché ici si les contrats ont expiré, si vous n’avez pas d’incident ou si vous avez sélectionné un ancien produit local (voir [aka.ms/n-1](https://aka.ms/n-1) pour obtenir des produits de support)
+Étape 2 Si votre contrat de support est déjà associé à votre compte, les incidents de support technique doivent s’afficher. Pour la prise en charge locale, le contrat de support partenaire doit s’afficher (sauf s’il n’est plus valide) et cela comprend la date de début, la date de fin et les incidents restants. Si vous devez associer votre contrat de support, développez « vous devez acheter ou ajouter d’autres plans de support », puis cliquez sur le bouton Ajouter un contrat pour entrer votre ID d’accès et votre ID de contrat. Développez le « voulez-vous voir les plans de support indisponibles ? » pour afficher les informations de signature du partenaire. Vous verrez uniquement le support partenaires affiché ici si les contrats ont expiré, si vous n’avez pas d’incident ou si vous avez sélectionné un ancien produit local (voir [aka.ms/n-1](https://aka.ms/n-1) pour obtenir des produits de support)
 
 **Pour plus d’informations, consultez [combien d’incidents de support partenaires sont restants ?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
@@ -133,4 +133,4 @@ Vous pouvez [comparer les plans de support partenaires](https://partner.microsof
 
 *   [Gérer vos avantages et offres Microsoft Partner Network](manage-your-partner-network-benefits.md)
 *   [Activer les avantages techniques pour les membres du Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
-*   [Services de déploiement et préventes techniques (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
+*   [Services de déploiement et préventes techniques (TPD)](technical-benefits.md)
