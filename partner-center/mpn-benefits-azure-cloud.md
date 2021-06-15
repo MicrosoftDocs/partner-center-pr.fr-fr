@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
+ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146355"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112066486"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Explorez le domaine des avantages des produits Cloud et Azure dans l’espace partenaires
 
@@ -24,7 +24,7 @@ Cet article décrit les avantages Azure et Cloud spécifiques disponibles pour l
  
 ## <a name="overview"></a>Vue d’ensemble
 
-En tant que partenaire du Microsoft Partner Network, vous pouvez avoir accès à de nombreux avantages techniques et de mise sur le marché pour différents domaines. Si vous avez reçu l’un des rôles ci-dessus dans l’espace partenaires, vous pouvez explorer un grand nombre de ces avantages directement à partir du tableau de bord de l’espace partenaires.
+En tant que partenaire du Microsoft Partner Network, vous pouvez avoir accès à de nombreux [avantages techniques et de mise sur le marché](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) pour différents domaines. Si vous avez reçu l’un des rôles ci-dessus dans l’espace partenaires, vous pouvez explorer un grand nombre de ces avantages directement à partir du tableau de bord de l’espace partenaires. 
 
 > [!NOTE]
 > Pour accéder à la zone avantages de l’espace partenaires, vous devez simplement vous connecter au [tableau de bord](https://partner.microsoft.com/dashboard) de l’espace partenaires et sélectionner **MPN** dans le menu de navigation de gauche. Sélectionnez ensuite **avantages** dans le menu, puis l’option ou la zone des avantages spécifiques que vous souhaitez explorer.
@@ -92,6 +92,10 @@ Pour activer un abonnement basé sur une licence :
    - Si vous souhaitez activer un nouvel abonnement ou si votre abonnement existant est désactivé/expiré, ouvrez un **navigateur privé ou incognito**, puis copiez et collez le lien suivant et suivez les instructions :
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
+
+> [!Note]
+> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune et les avantages de Windows 10 entreprise ne font plus partie des packages d’avantages de compétence. Vous pouvez activer les avantages de Microsoft 365 E3 ou Microsoft 365 E5 qui agissent comme des remplacements des packages d’avantages autonomes qui sont abandonnés.
+Si vous avez besoin d’aide pour l’installation ou le déploiement d’avantages M365, utilisez vos avantages techniques pour générer un [ticket de support technique](mpn-benefits-technical-support.md)
       
    - Si vous souhaitez étendre la date de fin ou ajouter d’autres sièges/licences à une copie d’abonnement existante et coller le lien ci-dessous dans une **fenêtre de navigateur privée ou incognito** et suivez les instructions :
  
@@ -179,3 +183,5 @@ Si vous essayez d’étendre la date de fin à l’aide d’une clé avec plus d
 - En savoir plus sur [Microsoft 365 Business Voice](/microsoftteams/business-voice/whats-business-voice)
   
 - En savoir plus sur la [disponibilité des pays et des régions pour Business Voice](/microsoftteams/business-voice/country-region-availability)
+
+- En savoir plus sur le [déploiement de Windows 10 avec Microsoft 365](/windows/deployment/deploy-m365)

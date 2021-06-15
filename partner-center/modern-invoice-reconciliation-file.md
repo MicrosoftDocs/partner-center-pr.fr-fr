@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3264c793dfb2e8592cd059cd84d5bb08769abbcf
+ms.sourcegitcommit: c8d1bcf54cdcdc3f827f9210c8abddab02a686fe
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146253"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112073796"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Champs du fichier de rapprochement des achats à usage unique CSP
 
@@ -30,7 +30,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | CustomerId | Identificateur Microsoft unique du client au format GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nom de l’organisation du client comme indiqué dans l’Espace partenaires. Cette colonne est importante pour rapprocher la facture de vos informations système. | *Jeanne moderne client DE2* |
 | CustomerDomainName | Nom de domaine du client. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *DE* |
+| CustomerCountry | Pays dans lequel se trouve votre client. Consultez la [liste complète des pays](./regional-authorization-overview.md) de votre région.  | *ANNULATION* |
 | InvoiceNumber | Numéro de facture associé au fichier de rapprochement.  | *G002297372* |
 | MpnId | Identificateur MPN du partenaire CSP. Pour plus d’informations, consultez [Comment dénombrer par partenaire](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement. | *6048879* |
@@ -47,7 +47,7 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | Sous-total | Total avant impôt. Le sous-total doit être égal à la quantité facturable multipliée par le prix unitaire effectif. | *0* |
 | TaxTotal | Frais liés au montant des taxes. Selon les règles fiscales et les circonstances spécifiques de votre marché. | *0* |
 | Total | Le montant total est égal au sous-total et au montant des taxes. | *0* |
-| Devise | Votre facture est générée dans le contexte de la devise du client. Cela signifie que si vous êtes un partenaire qui collabore avec des clients utilisant différentes devises facturables, vous recevrez une facture pour chaque type de devise client.  | *EUR* |
+| Devise | Votre facture est générée dans le contexte de la devise du client. Cela signifie que si vous êtes un partenaire qui collabore avec des clients utilisant différentes devises facturables, vous recevrez une facture pour chaque type de devise client.  | *0,35* |
 | PriceAdjustmentDescription | Les raisons des ajustements du prix unitaire. Il s’agit des principales raisons, mais elles ne sont pas limitées à la détermination du prix unitaire effectif. | *[« 15,0% crédit gagné pour les services gérés »]* |
 | PublisherName | Éditeur du produit.  | *Microsoft* |
 | PublisherId | Identificateur unique utilisé par l’espace partenaires pour identifier le serveur de publication. | *NA* |
@@ -67,9 +67,19 @@ Pour plus d’informations sur les fichiers de rapprochement, consultez [utilise
 | MeterDescription | Description du compteur.  | *Tables-données stockées LRS (Go/mois)* |
 | ReservationOrderId | ID de la commande de réservation. | *E21A6344E398FFC1C4D7...* |
 | CreditReasonCode | Description du crédit. | *Crédit de consommation Azure* |
+| SubscriptionStartDate | Date à laquelle un abonnement est acheté. | *5/1/2021* |
+| SubscriptionEndDate | Date d’expiration d’un abonnement. | *4/30/2022* |
+| ReferenceID | Liaison à toutes les transactions qui se produisent pendant les mises à niveau. | *025d68a6-1bd6-42ab-9636-15e8d776a30e* |
+| ProductQualifiers | Identificateur pour connaître les achats de complément ou d’essai. | *[« Module complémentaire »]* |
+| PromotionID | Identificateur à utiliser pour extraire les informations de la promotion. | *78bcf906-b945-4210-8818-cfb93caf12a1* |
 
 >[!NOTE]
 >Vous pouvez rapprocher votre consommation Azure dans votre fichier de rapprochement d’achat à usage unique. Pour ce faire, accédez à votre fichier de rapprochement d’utilisation évalué quotidiennement et recherchez votre SubscriptionID. Cela permet d’afficher tous les coûts associés à votre ID de plan Azure. Votre SubscriptionID Azure est affiché en tant que EntitlementID.
+>
+
+## <a name="how-to-connect-the-base-subscription-with-the-upgraded-subscription"></a>Comment connecter l’abonnement de base à l’abonnement mis à niveau ?
+
+Vous devez utiliser l’ID d’abonnement du produit de base pour rechercher les ID de référence correspondants et les utiliser pour extraire toutes les transactions associées. Associé à l’ID d’abonnement et à l’ID de référence, vous pouvez connecter toutes les mises à niveau qui se sont produites en un seul événement.
 
 ## <a name="next-steps"></a>Étapes suivantes
 
