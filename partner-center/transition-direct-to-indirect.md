@@ -9,16 +9,16 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57ae5a30e3ee4331ae509a0650d09baf4a82590
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854891"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276414"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
-**Rôles appropriés**: administrateur général
+**Rôles appropriés** : administrateur général
 
 >[!Note]
 >Cet article s’adresse aux partenaires directs qui ont décidé de passer aux revendeurs indirects. Toutefois, même si vous n’avez pas encore décidé de vous inscrire en tant que revendeur indirect, les partenaires commerciaux directs qui ne satisfont pas aux nouvelles [conditions requises](direct-partner-new-requirements.md) pour le programme de partenaire de facture directe du CSP seront informés par Microsoft lorsque leurs [fonctionnalités de facture directe seront limitées](restricted-direct-bill-capabilities.md).
@@ -26,17 +26,17 @@ ms.locfileid: "109854891"
 
 Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre locataire direct Bill existant.
 
-## <a name="get-started"></a>Commencer
+## <a name="get-started"></a>Bien démarrer
 
 1. Vérifiez que votre profil de partenaire dans l’espace partenaires et l’ID MPN sont à jour.
 
 2. Connectez-vous à l’espace partenaires en tant qu’administrateur général du locataire direct Bill que vous passez au revendeur indirect.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Vue d'ensemble":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Vue.":::
 
 3. Passez en revue les détails de votre partenaire dans le formulaire d’inscription.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Inscrivez-vous maintenant":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Inscrivez-vous maintenant.":::
 
 4. Sélectionnez S’inscrire maintenant. Votre entreprise revendeur indirect utilise le même client AAD que celui que vous utilisez pour votre activité directe.
 
@@ -52,7 +52,7 @@ Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre l
 
 Une fois que vous avez accepté le contrat de revendeur indirect, Notez que votre **profil de partenaire** vous identifie comme une facture directe et un revendeur indirect.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Accord de revendeur indirect":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Accord de revendeur indirect.":::
 
 > [!IMPORTANT]
 > Une fois que vous êtes inscrit en tant que revendeur indirect à l’aide de la nouvelle fonctionnalité, il n’est pas possible de revenir à un locataire direct facturé uniquement. Veillez à évaluer soigneusement les besoins de votre entreprise avant de vous inscrire en tant que revendeur indirect.
@@ -61,7 +61,7 @@ Une fois que vous avez accepté le contrat de revendeur indirect, Notez que votr
 
 Au cours de cette phase, vous allez continuer à gérer les besoins en abonnement des clients directs, y compris le processus de facturation. Vous pouvez également commencer à accepter des clients de votre fournisseur indirect et à fonctionner en tant que revendeur indirect.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Vous êtes à la fois une facture directe et un revendeur indirect":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Vous êtes à la fois une facture directe et un revendeur indirect.":::
 
 ## <a name="find-an-indirect-provider"></a>Trouver un fournisseur indirect
 
@@ -173,7 +173,7 @@ Pour utiliser cette fonctionnalité sur un locataire client existant :
 
 3. Sous **fournisseurs indirects**, cliquez sur **transférer le client sur un fournisseur indirect**.
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Transférer le client vers un fournisseur indirect":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Transférez le client vers un fournisseur indirect.":::
 
 4. Dans la boîte de dialogue contextuelle, sélectionnez le **fournisseur indirect** pour lequel vous souhaitez avoir une relation de revendeur avec le client.
 
@@ -181,7 +181,7 @@ Pour utiliser cette fonctionnalité sur un locataire client existant :
 
 6. Vérifiez que le fournisseur indirect sélectionné apparaît sous un **ou plusieurs fournisseurs indirects**.
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Fournisseur indirect listé":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Fournisseur indirect listé.":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Envoyer une invitation de revendeur indirect au client
 
@@ -191,7 +191,7 @@ Votre fournisseur indirect ne peut pas envoyer de commandes pour vos clients de 
 
 2. Sélectionnez **Inviter de nouveaux clients** pour inviter un client à établir une relation de revendeur simultanément avec vous et le fournisseur indirect. Le fournisseur doit avoir une relation de revendeur avec votre client, afin qu’il puisse envoyer des commandes au nom de votre client lorsque le client souhaite acheter de nouveaux abonnements ou ajouter de nouvelles licences à des abonnements existants.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Inviter de nouveaux clients":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Invitez de nouveaux clients.":::
 
 3. Sur la page suivante, vérifiez le brouillon de l’e-mail. Vous pouvez ouvrir le message brouillon dans un message électronique ou le copier dans le presse-papiers et le coller dans un message électronique.
 
@@ -270,17 +270,17 @@ Pour créer une demande de transfert en tant que partenaire de transition :
 
 6. Sous **transfert d’abonnement**, cliquez sur **demander un transfert d’abonnement**.
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Demander un transfert d’abonnement":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Demander un transfert d’abonnement.":::
 
 7. Dans la boîte de dialogue demande de transfert, sélectionnez un ou plusieurs abonnements à transférer.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Créer une demande de transfert":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Créer une demande de transfert.":::
 
 8. Cliquez sur **Créer**.
 
 9. Une demande de transfert d’abonnement active s’affiche sous **transfert d’abonnement**.
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Liste des demandes de transfert":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Liste des demandes de transfert.":::
 
 10. Informez votre fournisseur indirect que vous avez créé une demande de transfert d’abonnement.
 
@@ -298,13 +298,13 @@ Pour examiner et accepter une demande de transfert en tant que fournisseur indir
 
 5. Dans la page **abonnements** , recherchez le **transfert d’abonnement**.
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Afficher la demande de transfert":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Affichez la demande de transfert.":::
 
 6. Sous **transfert d’abonnement**, cliquez sur la demande de transfert à passer en revue.
 
 7. Cliquez sur **accepter** (ou **rejeter**) selon le cas.
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Accepter la demande de transfert":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Accepter la demande de transfert.":::
 
 8. Attendez la fin de la demande de transfert.
 
@@ -334,7 +334,7 @@ Le partenaire de transition doit effectuer les opérations suivantes :
 
    2. S’il s’agit d’un abonnement basé sur une licence (Office 365, Dynamics, Intune), il est listé avec l’état **suspendu**.
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Abonnement suspendu":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Abonnement suspendu.":::
 
 ### <a name="considerations"></a>Considérations
 

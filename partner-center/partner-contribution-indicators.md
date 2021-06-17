@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81d93e2e8b2ed47f785ae33be14dd03c75c8a1d7
-ms.sourcegitcommit: 02a839b61265c3162e041c8894575d3b5345f020
+ms.openlocfilehash: eb81cf9caaaf9d5c64168b39e52ad010c50630cd
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/01/2021
-ms.locfileid: "110724494"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276023"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utiliser les indicateurs de contribution des partenaires pour atteindre la compétence Applications métier dans le cloud
 
@@ -385,7 +385,7 @@ Pour afficher les graphiques et la progression de vos indicateurs de contributio
 
    Vous devez voir le tableau de bord des indicateurs de contribution partenaire avec les graphiques associés.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Comment lire le graphique":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Comment lire le graphique.":::
 
    > [!NOTE]
    > Si vous ne voyez pas ces options, essayez de sélectionner **MPN** dans le menu, suivi des **indicateurs de contribution du partenaire**. Si vous ne parvenez toujours pas à trouver ces options, vous ne disposez peut-être pas du rôle d’utilisateur approprié dans l’espace partenaires. Pour obtenir de l’aide, contactez l’administrateur général de l’espace partenaires ou le partenaire MPN.

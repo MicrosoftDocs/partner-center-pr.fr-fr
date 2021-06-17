@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152390"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276567"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Trouver vos avantages Microsoft Partner Network 
 
@@ -43,7 +43,7 @@ En tant que membre Microsoft Partner Network, votre entreprise a accès à de no
 
 3. En développant (+) un avantage, vous trouverez des informations supplémentaires qui vous aideront à activer l’avantage spécifique.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Avantages étendus":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Avantages étendus.":::
 
    > [!NOTE]
    > Pour activer les avantages, vous devez disposer du rôle administrateur général ou administrateur de partenaire MPN dans l’espace partenaires. Toutefois, tous les autres utilisateurs d’une société doivent pouvoir afficher les détails des avantages dans l’espace partenaires, comme les ID de support produit. Pour plus d’informations sur les rôles de l’espace partenaires, consultez [affecter des rôles et des autorisations d’utilisateur dans l’espace partenaires](permissions-overview.md).

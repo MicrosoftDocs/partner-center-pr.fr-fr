@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855197"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277485"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Vue d’ensemble des rapports de tableau de bord disponibles dans les insights de l’Espace partenaires
  
@@ -33,7 +33,7 @@ Le tableau de bord vue d’ensemble Insights fournit une vue instantanée des in
 
 Le résumé contient des informations sur les clients, les revenus consommés par Azure (ACR), les abonnements vendus, les abonnements actifs et les licences déployées. 
 
-:::image type="content" source="images/pci/summary.png" alt-text="Licences récapitulatives":::
+:::image type="content" source="images/pci/summary.png" alt-text="Licences récapitulatives.":::
 
 Pour plus d’informations sur chaque section du résumé, effectuez les étapes suivantes.
 
@@ -84,19 +84,19 @@ La zone **licences déployées** du résumé comprend les éléments suivants :
 
 Cette vue est une distribution géographique du total des clients, des abonnements et des licences par pays du client. Sélectionnez les différents onglets pour afficher chacun de ces Insights sur la carte. Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Revenez à la vue d’origine en appuyant sur le bouton démarrage sur la carte. Cliquer sur chaque onglet (par exemple, clients, abonnements) affiche la valeur de la mesure pour chaque pays et le pourcentage du total pour le pays.  
 
-:::image type="content" source="images/pci/geosummary.png" alt-text="Résumé géographique":::
+:::image type="content" source="images/pci/geosummary.png" alt-text="Résumé géographique.":::
 
 ## <a name="customers-growth-trend"></a>Tendance à la croissance des clients
 
 Tendance mensuelle du nombre total de clients pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et l’axe des Y représente le nombre total de clients pour ce mois. 
 
-:::image type="content" source="images/pci/customergrowth.png" alt-text="tendance à la croissance des clients":::
+:::image type="content" source="images/pci/customergrowth.png" alt-text="tendance à la croissance des clients.":::
 
 ## <a name="subscriptions-growth-trend"></a>Tendance de croissance des abonnements
 
 Cela indique la tendance du nombre d’abonnements client pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates et de l’axe des Y sélectionnés représente le nombre d’abonnements du produit sélectionné. Faites défiler le curseur en haut du graphique pour effectuer un zoom sur le graphique sur une période spécifique. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendance de croissance de l’abonnement":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendance de croissance de l’abonnement.":::
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Tendance à la croissance du chiffre d’affaires Azure
 
@@ -105,13 +105,13 @@ La tendance mensuelle d’Azure a consommé le chiffre d’affaires US $ qui vou
 > [!NOTE]
 > Le chiffre d’affaires utilisé par Azure (ACR) ne sera visible que pour les utilisateurs qui se sont vu attribuer le rôle visionneuse de rapports exécutifs. 
 
-:::image type="content" source="images/pci/azureconsumed.png" alt-text="Consommation Azure":::
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Consommation Azure.":::
 
 ## <a name="licenses-growth-trend"></a>Tendance de croissance des licences
  
 Tendance des licences affectées par tous les clients au cours de la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée et l’axe des Y représente le nombre de licences du produit que vous avez sélectionné. Faites défiler le curseur en haut du graphique pour effectuer un zoom sur le graphique sur une période spécifique.  
 
-:::image type="content" source="images/pci/licensesgrowth.png" alt-text="licences":::
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="licences.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

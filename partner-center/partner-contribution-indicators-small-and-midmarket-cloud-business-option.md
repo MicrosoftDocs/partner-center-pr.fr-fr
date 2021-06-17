@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 389a20cb8447852758c284368d52b504e8438b07
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6fdc5687379d7bca08802f2301fdb8587f38da20
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110145896"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277638"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utiliser les indicateurs de contribution des partenaires pour atteindre la compétence Solutions cloud pour petites et moyennes entreprises
 
@@ -300,7 +300,7 @@ Pour afficher votre tableau des indicateurs de contribution partenaire, procéde
 
 4. Sous la section Résumé, affichez la progression, les réalisations et le score associé à date.
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Comment lire le tableau des indicateurs de contribution partenaire":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Comment lire le tableau des indicateurs de contribution partenaire.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

@@ -10,18 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2168dcd60b8675a21960918dab49b778025fa51
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 84e5f7f2674e9b2f3c3c26ed2ea49f9bba0e96e0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147579"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276873"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instructions pour le regroupement des locataires disposant de l’autorisation régionale CSP
 
 **S’applique à**: espace partenaires | Espace partenaires pour Microsoft Cloud pour le gouvernement des États-Unis
 
-**Rôles appropriés**: administrateur général | Agent d’administration
+**Rôles appropriés** : Administrateur général | Agent d’administration
 
 \[Certaines informations relatives aux produits précommercialisés peuvent être substantiellement modifiées avant leur commercialisation. Microsoft exclut toute garantie, expresse ou implicite, concernant les informations fournies ici.\]
 
@@ -62,7 +62,7 @@ Les clients s’affichent dans la liste des clients du partenaire après l’env
 
 5. Ajoutez les abonnements et le nombre de licences appropriés à partir du catalogue. Vérifiez avec les informations fournies dans les comptes de partenaire **Transition à partir de**.
 
-   :::image type="content" source="images/regionalcustomer2.png" alt-text="Liste des clients":::
+   :::image type="content" source="images/regionalcustomer2.png" alt-text="Liste des clients.":::
 
 6. Sélectionnez **Envoyer.**
 

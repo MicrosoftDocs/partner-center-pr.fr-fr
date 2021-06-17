@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818743"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277247"
 ---
 # <a name="view-your-incentives-program-details"></a>Afficher les détails de votre programme d’incentives
 
@@ -41,7 +41,7 @@ Cet article explique la page **vue d’ensemble de mes incentives** , qui indiqu
 
 Le tableau suivant décrit les différents États d’inscription indiqués dans la colonne **État** .
 
-| **Statut**         | **Visible quand** |
+| **État**         | **Visible quand** |
 |:------------------------------------|:------------------|
 | Action requise  | Le partenaire a accepté une invitation à s’inscrire à un programme d’incentives, mais il peut avoir besoin de mettre à jour les informations bancaires ou fiscales. Consultez la colonne **actions requises** pour les étapes suivantes ou les liens pour mettre à jour vos informations bancaires ou fiscales dans l’espace partenaires. |
 | Abandonné  | Le programme d’incentives spécifique n’est plus proposé dans le système d’incentives. |
@@ -59,7 +59,7 @@ Sélectionnez l’icône paiement dans le coin supérieur droit de l’écran po
 - Paiements
 - Exporter des données
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustre l’icône de paiement dans le coin supérieur droit du portail espace partenaires":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustre l’icône Revenu dans l’angle supérieur droit du portail Espace partenaires.":::
 
 Ces informations incluent le montant total des gains et des paiements d’incentives depuis que vous vous êtes inscrit aux programmes d’incentives. Cette page contient également les gains et les paiements par site ou par programme, ainsi que des actions supplémentaires que vous devrez peut-être effectuer pour vous inscrire à un programme dans un site en particulier. 
 

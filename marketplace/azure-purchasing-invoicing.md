@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 04/15/2021
-ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.date: 01/18/2021
+ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630081"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276499"
 ---
 # <a name="azure-marketplace-purchasing"></a>Achat sur la place de marché Azure
 
@@ -51,7 +51,7 @@ Microsoft vous permet de gérer les achats des utilisateurs via votre profil de 
 
 Ces paramètres s’appliquent à tous les utilisateurs ayant accès à votre abonnement Azure, ce qui vous donne la possibilité de contrôler l’approvisionnement informatique via l’Portail Azure.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Contrôle de l’approvisionnement informatique via le Portail Azure":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Contrôle de l’approvisionnement informatique via l’Portail Azure.":::
 
 ## <a name="cost-management"></a>la gestion des coûts ;
 
@@ -68,7 +68,7 @@ L’achat d’une offre via la place de marché Azure peut échouer pour différ
 1. L’abonnement appartient à un Contrat Entreprise (EA) et l’administrateur EA a désactivé la place de marché Azure.
 1. L’administrateur EA a activé des achats uniquement pour les offres gratuites et l’offre est une offre payante.
 1. L’offre est introuvable sur la place de marché.
-1. L’éditeur de logiciels indépendant (ISV) dépréciée (auparavant, arrêtez la vente) de l’offre, au moins dans votre région.
+1. L’éditeur de logiciels indépendant (ISV) a cessé de vendre l’offre au moins dans votre région.
 1. L’abonnement que vous utilisez appartient à un compte de facturation dans une région où l’offre n’est pas disponible.
 1. Le compte d’abonnement/de facturation n’est pas associé à un moyen de paiement valide (par exemple, une carte de crédit valide).
 1. L’abonnement appartient à un fournisseur de solutions Cloud (CSP) et l’ISV a refusé de vendre via un CSP.

@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc82348ed59dff14b4c98272fb5b77d488ccde0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 38e74bf7b464a138744318b0405c0ba81b2e9630
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151489"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276652"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Comment les fournisseurs indirects peuvent aider leurs revendeurs indirects à accepter l’accord de partenariat Microsoft (MPA)
 
@@ -178,7 +178,7 @@ En cas de problème, augmentez un [ticket de support](https://partner.microsoft.
 Dans **paramètres du compte**, sélectionnez page **Profil juridique** sous l’onglet **partenaire** . Si vous voyez « État du programme MPN » sous informations sur le programme, votre ID MPN se trouve dans l’espace partenaires. Si vous ne voyez pas « état du programme MPN » sous l’onglet « partenaire », cela signifie que vous vous êtes connecté avec votre compte CSP ou que votre compte MPN n’est toujours pas dans l’espace partenaires. Vous devrez peut-être encore migrer votre compte MPN de PMC vers PC.
 
 
-:::image type="content" source="images/legal-info-mpn.png" alt-text="Où afficher les informations du programme MPN":::
+:::image type="content" source="images/legal-info-mpn.png" alt-text="Où afficher les informations du programme MPN.":::
 
 ## <a name="questions-about-mpn-and-csp-account-verification"></a>Questions sur la vérification des comptes MPN et CSP
 
@@ -195,14 +195,14 @@ Si vous ne pouvez pas résoudre le problème vous-même, déclenchez un ticket d
 - Pour les problèmes de vérification de l’activité, créez une [demande de support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54).  
 - Pour les problèmes de vérification de l’emploi, créez une [demande de support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).
 
-:::image type="content" source="images/rejected-faq-mpa.png" alt-text="rejeté":::
+:::image type="content" source="images/rejected-faq-mpa.png" alt-text="rejeté.":::
 
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>J’ai inscrit le programme du revendeur indirect Program/CSP, mais mon statut de vérification du profil d’entreprise juridique semble être bloqué dans l’état d’attente. Que dois-je faire ?
 
 **Réponse**  Si votre fournisseur de services de chiffre d’affaires juridique revendeur indirect est dans l’état de **qualification en attente** après plus de cinq jours ouvrables, vous pourrez générer un ticket de support à partir de l’espace partenaires en cliquant sur [prise en charge de l’espace partenaires](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
-:::image type="content" source="images/pending.png" alt-text="L’État est en attente":::
+:::image type="content" source="images/pending.png" alt-text="L’État est en attente.":::
 
 ## <a name="questions-about-working-in-partner-center"></a>Questions sur l’utilisation de l’espace partenaires
 
@@ -210,7 +210,7 @@ Si vous ne pouvez pas résoudre le problème vous-même, déclenchez un ticket d
 
 **Réponse** L’administrateur général de votre entreprise doit accepter l’MPA. Pour savoir qui est affecté au rôle d’administrateur général dans votre entreprise, accédez à **gestion des utilisateurs.** Dans la zone de recherche, tapez administrateur général. Les noms des personnes qui sont affectées au rôle d’administrateur général sont extraits. L’une de ces personnes peut accepter l’MPA. Si votre entreprise n’a pas d’administrateur général, consultez [que faire si votre entreprise a besoin d’un administrateur général](no-mpn-admin.md).
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Comment trouver un administrateur général":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Comment trouver un administrateur général.":::
 
 
 #### <a name="my-reseller-says-that-in-partner-center-they-dont-see-an-option-to-accept-the-mpa-how-can-i-best-support-them"></a>Mon revendeur indique qu’il n’est pas possible d’accepter l’MPA dans l’espace partenaires. Comment puis-je mieux les prendre en charge ?
@@ -219,7 +219,7 @@ Si vous ne pouvez pas résoudre le problème vous-même, déclenchez un ticket d
 
 1. Voyez-ils la page « vue d’ensemble » sous l’onglet CSP sur le côté gauche ? 
 
-:::image type="content" source="images/csp.png" alt-text="Où trouver CSP dans le menu de l’espace partenaires":::
+:::image type="content" source="images/csp.png" alt-text="Où trouver CSP dans le menu de l’espace partenaires.":::
 
 S’ils ne voient pas « vue d’ensemble » sous CSP dans le menu de l’espace partenaires, cela signifie qu’ils n’ont pas encore été inscrits dans le programme CSP. Le revendeur devra démarrer le processus pour s’inscrire en tant que revendeur du CSP indirect, comme expliqué [à la rubrique utiliser des fournisseurs indirects dans le programme CSP](indirect-reseller-tasks-in-partner-center.md). Une fois l’inscription terminée, les utilisateurs peuvent accepter l’MPA.
 
@@ -228,7 +228,7 @@ S’ils ne voient pas « vue d’ensemble » sous CSP dans le menu de l’espa
 
 Si l’État est autre chose mais **actif**, cela signifie que la vérification du profil d’entreprise juridique est toujours en cours ou a été rejetée. Sur la même page, le revendeur doit vérifier l’état de vérification, puis cliquer sur **en savoir plus pour résoudre** cela permet au revendeur de fournir la documentation nécessaire pour procéder à la vérification.
 
-:::image type="content" source="images/active-status.png" alt-text="L’État est actif":::
+:::image type="content" source="images/active-status.png" alt-text="L’État est actif.":::
 
 Si votre revendeur doit prendre en charge la transmission de la vérification du profil d’entreprise juridique, demandez-lui d’ouvrir un ticket en choisissant les options suivantes :
 
@@ -243,7 +243,7 @@ Si votre revendeur doit prendre en charge la transmission de la vérification du
 
 2. Accédez à **gestion des utilisateurs** et vérifiez que le compte connecté se voit attribuer le rôle « administrateur général ». Si ce n’est pas le cas, il ne peut pas être utilisé pour accepter MPA. Recherchez administrateur général dans la zone de recherche de la page gestion des utilisateurs, puis contactez-le pour accepter MPA.
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Identifier votre rôle dans l’espace partenaires":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Identifiez votre rôle dans l’espace partenaires.":::
 
 
 #### <a name="how-do-i-check-if-my-company-has-accepted-the-mpa"></a>Comment faire vérifier si ma société a accepté l’MPA ?
@@ -251,18 +251,18 @@ Si votre revendeur doit prendre en charge la transmission de la vérification du
 **Réponse** Connectez-vous à l’espace partenaires avec le compte revendeur indirect du fournisseur CSP.
 Si vous êtes un agent d’administration ou un agent commercial dans CSP, vous pouvez accéder à la page du contrat pour vérifier que l’accord de partenaire Microsoft est visible. 
 
-:::image type="content" source="images/agreement-new.png" alt-text="Localiser les accords dans les paramètres de compte":::
+:::image type="content" source="images/agreement-new.png" alt-text="Localisez les contrats dans les paramètres de compte.":::
 
 
 Si vous êtes un administrateur général, accédez à la page vue d’ensemble du fournisseur de solutions Cloud. Si vous voyez la bannière verte, vous êtes tous configurés pour effectuer une transaction avec le fournisseur indirect dans cette région CSP. Si ce n’est pas le cas, vous verrez le bouton **accepter et continuer** pour accepter MPa et activer votre compte CSP.
 
-:::image type="content" source="images/banner-boxed.png" alt-text="Bannière verte":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Bannière verte.":::
 
 #### <a name="i-want-to-accept-mpa-but-i-dont-see-any-place-button-to-accept-terms-to-do-so"></a>Je souhaite accepter MPA, mais je ne vois pas de lieu (bouton permettant d’accepter les termes) ?
 
 **Réponse** Connectez-vous à l’espace partenaires à l’aide de vos informations d’identification de compte du revendeur indirect. Accédez à la page Vue d’ensemble du programme CSP .  Si vous ne voyez pas le bouton **accepter et continuer** et aucune bannière verte indiquant que l’activation de la valeur MPa est acceptée, cela signifie que vous n’avez pas le rôle approprié pour accepter l’MPa. Vous devez contacter votre administrateur général pour accepter l’MPA.
 
-:::image type="content" source="images/agreement-two.png" alt-text="Localiser les contrats":::
+:::image type="content" source="images/agreement-two.png" alt-text="Recherchez les accords.":::
 
 :::image type="content" source="images/user-management-filter.png" alt-text="{alt-text}":::
 

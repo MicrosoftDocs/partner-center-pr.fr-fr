@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4e9ab721fe356dbcdff7316a5ed5b52c81f2d4eb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: dc0c720544f4a8a3c95e5b91ec656e65dbce7c80
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152594"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276108"
 ---
 # <a name="payout-statements"></a>Relevés de paiements
 
@@ -46,7 +46,7 @@ Connectez-vous à l' [espace partenaires](https://partner.microsoft.com/dashboar
 - Paiements
 - Exporter des données
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustre l’icône de paiement dans le coin supérieur droit du portail espace partenaires":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Illustre l’icône Revenu dans l’angle supérieur droit du portail Espace partenaires.":::
 
 Vous pouvez également utiliser l' [API](https://apidocs.microsoft.com/services/partnerpayouts) de paiement de partenaire pour vous connecter et obtenir directement les données de paiement et de transaction de paiement.
 
@@ -60,7 +60,7 @@ La page **historique des transactions** affiche le résumé de vos revenus, le p
 - **Revenus envoyés cette année** : total des bénéfices et répartition des bénéfices qui ont été payés et seront payés dans le mois à venir.
 - **Estimation du mois de paiement** – total des bénéfices attendus au cours des prochains mois.
 - **Rémunérations et tendance des paiements** : montants mensuels de rémunération et de paiement pour les 36 derniers mois.
-- **Télécharger** : Télécharger les détails de la transaction au format. csv ou. TSV.
+- **Télécharger** : Télécharger les détails de la transaction au format .csv ou. TSV.
 
 Utilisez la sélection de plage de dates située dans le coin supérieur droit de la page pour filtrer la sortie de la page et afficher les 3, 6, 12 ou 36 mois précédents. Vous pouvez sélectionner une plage de dates personnalisée jusqu’à 36 mois. La plage de dates par défaut est 12 mois. Vous pouvez également filtrer par ID d’inscription, programme, ID de paiement, type de gain, levier et état. Les données sont disponibles pour l’exercice fiscal actuel (du 1er juillet au 30 juin) et dans les deux années fiscales précédentes.
 
@@ -157,7 +157,7 @@ Pour obtenir plus de détails sur un gain, sélectionnez **Télécharger** en ha
 | LicensingProgramName | Nom du programme de licence |  |
 | LineItemId | Ligne individuelle dans la facture d’un client |  |
 | localProviderSeller | Fournisseur local/vendeur d’enregistrement |  |
-| Mois de maturité | Le mois de paiement estimé | Tout |
+| Mois de maturité | Le mois de paiement estimé | Tous |
 | OrderId | Lié à la facture d’un client  | marketplaces |
 | parentProductId | Identificateur de produit parent unique. S’il n’existe aucun produit parent pour la transaction, l’ID du produit parent = ID du produit. | marketplaces |
 | parentProductName | Nom du produit parent. S’il n’existe aucun produit parent pour la transaction, le nom du produit parent = Nom du produit. | marketplaces |
@@ -166,11 +166,11 @@ Pour obtenir plus de détails sur un gain, sélectionnez **Télécharger** en ha
 | participantName | Nom du partenaire de revenu | Tous |
 | partnerCountryCode | Lieu/pays/région du partenaire de revenu | Tous |
 | partNumber | Sera toujours vide | Certains programmes et places de marché incitants |
-| paymentId | Identificateur unique permettant de mettre en corrélation toutes les transactions dans le rapport de transaction avec un paiement spécifique dans le rapport de paiement | Tout |
+| paymentId | Identificateur unique permettant de mettre en corrélation toutes les transactions dans le rapport de transaction avec un paiement spécifique dans le rapport de paiement | Tous |
 | paymentStatus | État du paiement | Tous |
 | paymentStatusDescription | Description conviviale de l’état du paiement | Tous |
 | productId | Identificateur de produit unique | marketplaces |
-| ProductName | Nom du produit lié à la transaction | Tout |
+| ProductName | Nom du produit lié à la transaction | Tous |
 | productType | Type de produit (par exemple, application, module complémentaire ou jeu) | marketplaces |
 | Code du programme | Chaîne à mapper avec le nom du programme |  |
 | programName | Nom du programme d’incentives/du Store | Tous |
@@ -240,7 +240,7 @@ La page **paiements** détaille l’argent que vous avez obtenu auprès de Micro
 
 La table **de la liste des paiements** affiche les paiements payés et en attente. Vous pouvez télécharger les informations fiscales sur les frais de service au format PDF et afficher les détails d’un paiement donné.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exporter l’historique des transactions":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exporter l’historique des transactions.":::
 
 - **Payant** : tous les paiements envoyés avec succès. Choisissez l’année dans le menu déroulant pour filtrer sur les paiements lancés au cours de cette année.
 - **En attente** : paiements à venir.

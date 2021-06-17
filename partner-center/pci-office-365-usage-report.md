@@ -8,12 +8,12 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854601"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277808"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation d’Office 365 disponible dans le tableau de bord Insights de l’espace partenaires
 
@@ -46,7 +46,7 @@ La section Résumé présente une vue instantanée des indicateurs clés liés a
 
    Le micro-graphique présente une tendance mensuelle des utilisateurs actifs mensuels sur la période sélectionnée.
 
-:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Résumé de l’utilisation d’Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Résumé de l’utilisation d’Office 365.":::
 
 ## <a name="office-365-usage-by-geography"></a>Utilisation d’Office 365 par zone géographique
 
@@ -57,25 +57,25 @@ Le tableau **nombre de pays/région** présente le nombre total de pays/régions
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Sélectionnez l’option de **démarrage** sur la carte pour revenir à la vue d’origine.
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Utilisation d’Office 365 par zone géographique":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Utilisation d’Office 365 par zone géographique.":::
 
 ## <a name="office-365-usage-by-workload"></a>Utilisation d’Office 365 par charge de travail
 
 L’utilisation d’Office 365 par charge de travail décrit la répartition de MAU et PAU par charge de travail.
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Utilisation d’Office 365 par charge de travail":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Utilisation d’Office 365 par charge de travail.":::
 
 ## <a name="subscriptions-performance"></a>Performances des abonnements
 
 Les performances des abonnements représentent la répartition de MAU et PAU par charge de travail par client. Les données pour les 100 premiers clients par chiffre d’affaires facturé sont indiquées dans le tableau et vous pouvez rechercher n’importe quel client ou télécharger les données brutes pour afficher les détails de tous les clients.
 
-:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Performances de l’abonnement Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Performances de l’abonnement Office 365.":::
 
 ## <a name="office-365-usage-distribution"></a>Distribution de l’utilisation d’Office 365
 
 La distribution de l’utilisation d’Office 365 illustre la répartition des PAU et des abonnements par référence (SKU).
 
-:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Distribution de l’utilisation d’Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Distribution de l’utilisation d’Office 365.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

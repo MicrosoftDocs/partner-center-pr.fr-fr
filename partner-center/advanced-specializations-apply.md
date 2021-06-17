@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6c617d3bde3bbfe17896631b3c761c01fe2f299a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150503"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125971"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Utiliser l’espace partenaires pour demander des spécialisations avancées et vérifier leur état
 
-**Rôles appropriés**: administrateur général | Administrateur de compte
+**Rôles appropriés** : Administrateur général | Administrateur de compte
 
 Cet article explique comment utiliser le tableau de bord espace partenaires pour demander une [spécialisation avancée](advanced-specializations.md), vérifier votre progression et effectuer les étapes et validations nécessaires. Vous verrez également des exemples d’utilisation de l’espace partenaires pour obtenir certaines spécialisations avancées qui requièrent un audit ou des références client.
 
@@ -64,6 +64,10 @@ Les spécialisations avancées qui requièrent un audit avec un auditeur tiers s
 - Microsoft Windows Virtual Desktop
 - Modernisation des applications web pour Microsoft Azure
 - Migration de Windows Server et SQL Server vers Microsoft Azure
+- IA et Machine Learning dans Microsoft Azure
+- Infrastructure de Cloud hybride avec Microsoft Azure Stack HCI
+- Opérations hybrides et gestion avec Microsoft Azure arc
+- Microsoft Azure solution VMware
 
 Les spécialisations avancées qui nécessitent des références clientes sont les suivantes :
 
@@ -74,6 +78,13 @@ Les spécialisations avancées qui nécessitent des références clientes sont l
 - Déploiement du travail d’équipe
 - Gestion de l’identité et de l’accès
 - Protection contre les menaces
+- Information Protection et gouvernance
+- Sécurité cloud
+
+Les spécialisations avancées qui ne nécessitent pas d’audit ou de référence client sont les suivantes :
+
+- Développement d’applications à code faible
+- Gestion des petites et moyennes entreprises
 
 Les sections suivantes décrivent comment planifier un audit ou fournir des références de clients dans l’espace partenaires.
 
@@ -113,6 +124,75 @@ Ensuite, procédez comme suit pour fournir des références client dans l’espa
    :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Exemple de page conditions préalables pour les spécialisations avancées nécessitant des références client.":::
 
 4. Tant que vous ne répondez pas à toutes les conditions préalables indiquées sur cette page et que vous ne fournissez aucune référence client, votre statut reste **non démarré**. Une fois que toutes les conditions préalables sont remplies, votre statut passe à **actif**.
+
+## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Calcul du chiffre d’affaires de consommation Azure (ACR) pour chaque spécialisation avancée :
+
+- Associations partenaire-client incluses : [partenaire numérique d’enregistrement](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) pour un client, ou revendeur direct de fournisseurs de services Cloud ou revendeur indirect pour un client ou une association de [lien d’administrateur partenaire (PAL)](/azure/cost-management-billing/manage/link-partner-id) à un client.
+- Les ACR des abonnements avec les types d’offres essai, avantages, support et interne ne sont pas comptabilisés pour la spécialisation avancée.
+
+**Champs de chiffre d’affaires consommation Azure**
+
+| Nom du champ | Description du champ |
+|-------------|----------------------|
+| Niveau de service 1 | Niveau le plus élevé auquel les services Azure sont regroupés (voir : https://azure.microsoft.com/services/) . |
+| Niveau de service 2 | Deuxième niveau le plus élevé basé sur les services Azure (par exemple : https://azure.microsoft.com/pricing/) |
+| Niveau de service 3 | Troisième services Azure les plus hauts basés sur Azure (par exemple : https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Niveau de service 4 | Quatrième services Azure les plus performants basés sur (par exemple : https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Groupe de services 2 | Regroupement de services Azure en fonction d’une catégorie de service |
+| Groupe de services 3 | Regroupement de services Azure en fonction d’une sous-catégorie de service |
+| Influenceur de service | Regroupement de services Azure mappé à une activité de consommation spécifique |
+| Système d’exploitation de calcul | Système d’exploitation de calcul |
+| Calculer le logiciel de base | Calculer le logiciel de base |
+
+**Filtres de revenus de consommation Azure pour la spécialisation avancée**
+
+- Migration d’un entrepôt de données vers Microsoft Azure
+    - SQL DW ACR : niveau de service 1 = bases de données et niveau de service 2 = SQL Data Warehouse
+- Kubernetes sur Microsoft Azure
+    - Service Azure Kubernetes (AKS) ACR : service influencer = AKS, AKS-Engine
+- Bureau virtuel Microsoft Windows
+    - Windows Virtual Desktop ACR : service Influencér = NATIVE WVD
+- Modernisation des applications web pour Microsoft Azure
+    - Azure App Service ACR : niveau de service 1 = calcul et niveau de service 2 = Azure App Service
+- Analyse sur Microsoft Azure
+    - Azure Synapse Analytics ACR : groupe de service 3 = SQL DW
+    - Data Lake ACR : groupe de services 3 = Azure Data Lake
+    - Databricks ACR : service groupe3 = Databricks, machine virtuelle Databricks
+    - Azure Data Factory ACR : service groupe3 = Data Factory  
+- Infrastructure de Cloud hybride avec Microsoft Azure Stack HCI
+    - Azure Stack HCI ACR : niveau de service 2 = Azure Stack HCI
+- Microsoft Azure solution VMware
+    - Solutions VMware Azure (AVS) ACR : Service Level 4 = solution VMware Azure, solution VMware Azure par CloudSimple, solution VMware Azure par Virtustream, Specialized Compute solution VMware Azure
+- Opérations hybrides et gestion avec Microsoft Azure arc 
+    - ACR serveur compatible arc : niveau de service 4 = Azure Policy
+    - Kubernetes ACR activé pour arc : niveau de service 4 = arc Azure
+- IA et Machine Learning dans Microsoft Azure
+    - IA ACR : groupe de service 2 = AI
+
+
+- Migration de Windows Server et SQL Server vers Microsoft Azure
+    - ACR Windows : 
+        - Type d’ajustement ACR = N/A, Compute Core SW = Core,
+        - Compute OS = WINDOWS THEN Compute OS attribute = WINDOWS, Unknown ou Compute OS = LINUX THEN Compute OS attribute = WINDOWS-AHUB
+        - Niveau de service 2 = services Cloud, Container Instances, Container Registry, Specialized Compute, machines virtuelles, Virtual Machines Licenses
+    - SQL Database (DB) ACR : groupe de service 3 = SQLDB
+    - SQL Managed Instance (MI) ACR : groupe de service 3 = SQL DB MI
+    - ACR des machines virtuelles SQL : groupe de service 3 = SQL sur IaaS, SQL sur une machine virtuelle IaaS
+- Migration de bases de données Linux et Open-Source vers Microsoft Azure
+    - ACR (machine virtuelle) : Machines virtuelles Linux
+        - Option 1 :
+            - Type d’ajustement ACR = N/A, niveau de service 2 = machines virtuelles, système d’exploitation de calcul = Linux, attribut de système d’exploitation Compute = non-Windows, inconnu, Windows
+            - Niveau de service 4 = tous sauf les services Cloud série MS, machines virtuelles-série MS, machines virtuelles MS Series, machines virtuelles MSv2 Series, machines virtuelles MSv2 Series Windows, hôte dédié MS Series, hôte dédié de la série MSv2
+        - Option 2 : exiger uniquement des filtres sur le niveau de service 4, d’autres champs comme les attributs Compute OS/Compute OS ne sont pas requis
+            - Niveau de service 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux avec HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server standard
+    - Base de données Azure (DB) pour MariaDB ACR : niveau de service 1 = bases de données et niveau de service 2 = Azure Database for MariaDB
+    - Azure DB pour MySql ACR : niveau de service 1 = bases de données et niveau de service 2 = base de données Azure pour MySQL et base de données MySQL sur Azure
+    - Azure DB pour PostgreSQL SQL ACR : niveau de service 1 = bases de données et niveau de service 2 = PostgreSQL
+    - Azure COSMOS DB ACR : niveau de service 1 = bases de données et niveau de service 2 = CosmosDB
+- Protection contre les menaces
+    - Azure Sentinel ACR : Service Level 4 = Sentinel
+- Sécurité cloud
+    - Environnement hybride XDR et sécurité réseau ACR : niveau de service 4 = Azure Defender pour SQL, Azure Defender pour les registres de conteneurs, Azure Defender pour Kubernetes, Azure Defender pour le stockage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory pour les identités externes, bastion Azure, protection DDOS Azure, pare-feu Azure , Azure Firewall Manager, Azure Front Door service, Azure Defender pour IoT, HSM dédié Azure, Key Vault, Network Watcher, Azure Defender pour App Service, Azure Defender pour les serveurs, Sentinel
 
 ## <a name="next-steps"></a>Étapes suivantes
 

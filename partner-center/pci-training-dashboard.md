@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854551"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276278"
 ---
 # <a name="trainings-dashboard"></a>Tableau de bord formations
 
@@ -34,7 +34,7 @@ Le tableau de bord formations fournit des Insights sur les certifications, les �
 
 La section Résumé présente un instantané numérique des différents indicateurs de performance liés à vos formations. Les différents indicateurs de performance sont les individus certifiés, les certifications, les individus avec informations d’identification d’examen, les informations d’identification de l’examen, les individus avec les informations d’identification d’évaluation et les informations d’identification d’évaluation. Les données de cette section sont actualisées en fonction de la plage de dates sélectionnée, qui peut être de trois mois (3M), de six mois (6 M) et de 12 mois (1a) ou d’une plage de données personnalisée (personnalisée). 
 
-:::image type="content" source="images/pci/td-summary.png" alt-text="Résumé":::
+:::image type="content" source="images/pci/td-summary.png" alt-text="Récapitulatif.":::
 
 - **Individus avec certifications**: représente le nombre d’individus distincts avec des certifications dans votre entreprise.
 - **Nombre de certifications**: représente le nombre total de certifications effectuées par les personnes de votre entreprise.
@@ -47,13 +47,13 @@ La section Résumé présente un instantané numérique des différents indicate
 
 Les performances de formation présentent le nombre mensuel de personnes et les formations effectuées par les individus de votre entreprise. Elle est divisée par des certifications, des évaluations et des examens sous la forme d’un graphique pour la plage de dates sélectionnée. L’axe des X représente les mois de la plage de dates sélectionnée. L’axe des Y représente le nombre distinct de personnes et le nombre de formations prises, pour le type d’apprentissage sélectionné. Sélectionnez les onglets respectifs au-dessus du graphique pour afficher la répartition par type d’apprentissage. Les données du graphique peuvent être téléchargées par le biais de l’icône de téléchargement au format. TSV pour la plage de dates sélectionnée.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Performances de formation":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Performances des formations.":::
 
 ## <a name="individuals-performance"></a>Performances des individus
 
 La section relative aux performances des individus présente les détails de la formation effectuée par les personnes de votre entreprise, pour la plage de dates sélectionnée. Recherchez et sélectionnez le nom d’un individu dans le volet gauche de la section. Les détails de formation de la personne sélectionnée sont affichés dans le volet droit de la section.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Performances de individuel":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Performances de individuel.":::
 
 >[!NOTE] 
 > La section relative aux performances des personnes est disponible uniquement pour les utilisateurs qui sont des visionneuses de rapports. 

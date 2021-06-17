@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e480481304bda816afe0bf08c66fcb4b063f1f49
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152883"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277536"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Rapport compétences disponible à partir du tableau de bord Insights de l’espace partenaires
 
@@ -61,7 +61,7 @@ Répartition du nombre de compétences démarrées par niveau de compétence (Si
 - À risque (année suivante) : nombre de compétences actuellement **actives** mais également **menacées** pour ne pas répondre aux exigences de l’année à venir.
 Répartition des compétences (par niveau de compétence, par exemple Silver/Gold, avec les noms de compétence) qui risquent de ne pas être éligibles pour l’année à venir.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Résumé des compétences":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Résumé des compétences.":::
 
 ### <a name="competency-metric-analysis"></a>Analyse des mesures de compétence
 
@@ -72,7 +72,7 @@ Le rapport peut être croisé par les deux plages de dates suivantes :
 1. ATTÉNUATION View : énumère les performances des partenaires au cours des 12 derniers mois (atténuation).
 2. Affichage année anniversaire : cette valeur énumère les performances du partenaire de la date anniversaire précédente à la date anniversaire suivante.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analyse des mesures de compétence":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="analyse des mesures de compétence.":::
 
 > [!NOTE]
  > Toutes les métriques ne sont pas traitées dans l’analyse. Actuellement, les métriques associées à l’apprentissage et à la certification ne sont pas prises en charge dans le rapport compétences. Les compétences du Cloud Business Applications (CBA) ne sont pas non plus prises en charge dans l’analyse des métriques pour l’état **actif** de la compétence.
@@ -81,7 +81,7 @@ Le rapport peut être croisé par les deux plages de dates suivantes :
 
 Cette vue affiche un tableau détaillé de toutes les compétences que vous avez atteintes jusqu’à présent, avec un niveau de compétence et une phase de compétence.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="historique des compétences":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="historique des compétences.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

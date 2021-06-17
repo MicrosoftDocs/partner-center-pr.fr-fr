@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 092c76fb874eb7308bdb69503223f722657db957
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856047"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277315"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transférer les abonnements du plan Azure d’un client à un autre partenaire
 
@@ -69,17 +69,17 @@ Le futur partenaire de l’abonnement doit remplir un formulaire de demande de t
 3.  Sélectionnez la section **demande de transfert** .
 4.  Dans la **section demande de transfert**, sélectionnez **Ajouter une nouvelle demande**.
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Section des transferts":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Section des transferts.":::
 
 5.  Complétez le formulaire **de demande de transfert** .
 
 6.  Sélectionnez **Envoyer une demande de transfert**  >  **Envoyer**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Remplir le formulaire de demande de transfert":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Complétez le formulaire de demande de transfert.":::
 
 7.  Vérifier la confirmation de demande de transfert
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Vérifier le transfert en attente":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Vérifiez le transfert en attente.":::
 
     >[!Note]
     >Le futur partenaire peut annuler la demande de transfert en sélectionnant **annuler la demande** dans le coin supérieur droit uniquement lorsque l’état de la demande de transfert est « en attente ». Une fois que l’état de la demande de transfert est « en cours » ou « terminé », les annulations ne sont pas possibles.
@@ -88,7 +88,7 @@ Le futur partenaire de l’abonnement doit remplir un formulaire de demande de t
 
 L’agent admin du partenaire actuel recevra un e-mail indiquant que son client demande un transfert de ses abonnements :
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Révision":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Révise.":::
 
 Passez en revue et acceptez le formulaire de demande de transfert de l’espace partenaires pour terminer le transfert de l’abonnement.
 
@@ -101,7 +101,7 @@ Passez en revue et acceptez le formulaire de demande de transfert de l’espace 
 3.  Sélectionnez la section **demande de transfert** .
 4.  Développez les informations de transfert en sélectionnant l' **ID de demande de transfert** choisi sous **demandes reçues** .
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Demande de transfert de révisions de la source":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Demande de transfert de révisions de la source.":::
 
 5.  Passez en revue la demande de transfert. Sélectionnez les abonnements Azure demandés à transférer.
 
@@ -112,7 +112,7 @@ Passez en revue et acceptez le formulaire de demande de transfert de l’espace 
 
 6.  Sélectionnez ensuite **accepter et transférer** pour terminer le processus de transfert.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Sélectionner les abonnements à transférer sous vos plans Azure":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Sélectionnez les abonnements à transférer sous vos plans Azure.":::
 
 7.  Affichez la confirmation de l’acceptation du transfert.
 

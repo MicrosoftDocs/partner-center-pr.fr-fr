@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795021"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276363"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Recevoir un crédit sur votre compte espace partenaires pour la retenue fiscale
 
@@ -39,18 +39,18 @@ Procédez comme suit pour soumettre une nouvelle retenue fiscale :
 
 3. Cliquez sur **Envoyer nouveau** en regard de la facture pour laquelle vous souhaitez soumettre un dédouanement. Le lien envoyer nouveau vous permet d’accéder à la page **nouvelle demande de retenue d’impôt** .
 
-   :::image type="content" source="images/wht1.png" alt-text="Soumettre une nouvelle retenue fiscale pour une facture":::
+   :::image type="content" source="images/wht1.png" alt-text="Soumettre une nouvelle retenue fiscale pour une facture.":::
 
 4. Passez en revue les détails de la facture pour vous assurer que vous soumettez la demande de facture correcte.
 
-   :::image type="content" source="images/wht2.png" alt-text="Finaliser les détails de la retenue d’impôt pour une facture":::
+   :::image type="content" source="images/wht2.png" alt-text="Complétez les détails de la retenue d’impôt pour une facture.":::
 
 5. Entrez le « total de retenue » sous **Détails de la retenue fiscale**. Le « total de retenue » est le montant que vous pensez avoir crédité.
 
 6. **Joindre** un certificat fiscal. Vous devez inclure une **copie numérique** de votre certificat de **retenue** à la demande d’impôt. Vous avez reçu ce certificat de votre Agence fiscale locale lorsque vous payez vos taxes à votre autorité fiscale locale. Le montant de la taxe sur la facture dans le certificat de retenue à la demande doit correspondre au montant total de votre demande de retenue fiscale.
 
    > [!IMPORTANT]
-   > Le montant total que le partenaire fournit doit correspondre à l’élément de ligne de facturation du certificat de taxe joint. Les fichiers de certificat de taxe joints doivent être dans l’un des formats de fichier suivants :. PDF ou image uniquement (. JPEG,. PNG et. GIF). En outre, les noms de fichiers ne doivent pas contenir d’espaces ou de caractères spéciaux. La taille des fichiers ne peut pas dépasser 1 Mo.
+   > Le montant total que le partenaire fournit doit correspondre à l’élément de ligne de facturation du certificat de taxe joint. Les fichiers de certificat de taxe associés doivent être dans l’un des formats de fichier suivants : .PDF ou image uniquement (. JPEG, .PNG et .GIF). En outre, les noms de fichiers ne doivent pas contenir d’espaces ou de caractères spéciaux. La taille des fichiers ne peut pas dépasser 1 Mo.
 
 7. **Envoyez** la demande de retenue d’impôt.
 

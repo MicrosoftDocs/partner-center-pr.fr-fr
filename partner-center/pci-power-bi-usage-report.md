@@ -8,12 +8,12 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854585"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276295"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Power BI disponible à partir du tableau de bord Insights de l’espace partenaires
 
@@ -50,7 +50,7 @@ La section Résumé présente une vue instantanée des indicateurs clés liés a
 
    Le micro-graphique présente une tendance mensuelle de pourcentage d’utilisation actif sur la période sélectionnée.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Résumé de l’utilisation de Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Résumé de l’utilisation de Power BI.":::
 
 ## <a name="power-bi-usage-by-geography"></a>Power BI de l’utilisation par zone géographique
 
@@ -60,25 +60,25 @@ Le tableau **nombre de pays/région** présente le nombre total de pays/régions
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Sélectionnez l’option de **démarrage** sur la carte pour revenir à la vue d’origine.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI de l’utilisation par zone géographique":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI de l’utilisation par zone géographique.":::
 
 ## <a name="power-bi-usage-by-sku"></a>Utilisation Power BI par référence (SKU)
 
 L’utilisation Power BI par référence (SKU) représente la tendance mensuelle des sièges disponibles, les sièges actifs et les sièges affectés par SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Utilisation Power BI par référence (SKU)":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Utilisation Power BI par référence (SKU).":::
 
 ## <a name="subscriptions-performance"></a>Performances des abonnements
 
 Les performances des abonnements représentent la tendance mensuelle de l’utilisation active par abonnement client. Les données pour les 100 premiers clients par chiffre d’affaires facturé sont indiquées dans la table et vous pouvez rechercher n’importe quel client ou télécharger les données brutes pour afficher les détails de tous les abonnements.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI les performances des abonnements":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI les performances de l’abonnement.":::
 
 ## <a name="power-bi-usage-distribution"></a>Distribution de l’utilisation de Power BI
 
 La distribution de l’utilisation Power BI décrit la répartition des sièges disponibles, les sièges actifs et les sièges affectés par SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Distribution de l’utilisation de Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI la distribution de l’utilisation.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151013"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277621"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Aperçus de l’espace partenaires : tableau de bord qui montre le fonctionnement d’un partenaire commercial Microsoft.
 
@@ -55,7 +55,7 @@ Les rapports suivants sont disponibles dans le tableau de bord Insights.
 
 **Filtres de plage de dates**: vous pouvez trouver une sélection de plage de dates dans l’angle supérieur droit de chaque page. La sortie des graphiques de la page vue d’ensemble peut être personnalisée en sélectionnant une plage de dates basée sur les 3, 6 ou 12 mois précédents, ou en sélectionnant une plage de dates personnalisée. La sélection de la plage de dates par défaut est de 12 mois. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Carte d’introduction":::
+:::image type="content" source="images/pci/intro1.png" alt-text="Carte d’introduction.":::
 
 **Bouton commentaires**: chaque graphique/contrôle de tous les rapports Insights est incorporé avec un bouton commentaires pour vous permettre de fournir des commentaires sur une fonctionnalité de rapport. 
 

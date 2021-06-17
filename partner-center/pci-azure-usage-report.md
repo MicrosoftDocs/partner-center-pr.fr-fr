@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd302a7b4839b98cdd96fda38b381d9282b00620
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146848"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112275989"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Azure disponible dans le tableau de bord des Insights de l’espace partenaires
 
@@ -51,7 +51,7 @@ Le micro-graphique présente une tendance mensuelle de ACR US $ qui vous est att
 > [!NOTE]
  > Le chiffre d’affaires utilisé par Azure (ACR) ne sera visible que pour les utilisateurs qui se sont vu attribuer le rôle visionneuse de rapports exécutifs.
 
-:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Résumé de l’utilisation d’Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Résumé de l’utilisation d’Azure.":::
 
 ## <a name="azure-usage-by-geography"></a>Utilisation d’Azure par zone géographique
 
@@ -61,7 +61,7 @@ Le tableau **nombre de pays/région** présente le nombre total de pays/régions
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Sélectionnez l’option de **démarrage** sur la carte pour revenir à la vue d’origine.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Utilisation d’Azure par zone géographique":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Utilisation d’Azure par zone géographique.":::
 
 ## <a name="azure-utilization"></a>Utilisation d’Azure
 
@@ -69,7 +69,7 @@ Cette vue affiche les tendances du chiffre d’affaires de la consommation Azure
 
 Le graphique à barres présente la tendance mensuelle du chiffre d’affaires/de l’utilisation. Le graphique en courbes présente la tendance de croissance par rapport au mois précédent pour les catégories de niveau de service/mesure Azure sélectionnées.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Utilisation d’Azure usage":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Utilisation d’Azure.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

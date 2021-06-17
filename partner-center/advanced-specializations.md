@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150452"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125920"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Obtenez une spécialisation avancée pour présenter vos fonctionnalités validées
 
-**Rôles appropriés**: administrateur général | Administrateur de compte
+**Rôles appropriés** : Administrateur général | Administrateur de compte
 
 Les spécialisations avancées Microsoft s’appuient sur les [compétences Gold](learn-about-competencies.md) associées qu’un partenaire peut gagner. Le fait de bénéficier de compétences en or, avec les spécialisations avancées associées, permet aux partenaires de mieux distinguer leurs fonctionnalités des clients.
 
@@ -50,6 +50,10 @@ Les spécialisations avancées d' **Azure** incluent :
 - Modernisation des applications web pour Microsoft Azure
 - SAP sur Microsoft Azure
 - Migration de Windows Server et SQL Server vers Microsoft Azure
+- IA et Machine Learning dans Microsoft Azure
+- Infrastructure de Cloud hybride avec Microsoft Azure Stack HCI
+- Opérations hybrides et gestion avec Microsoft Azure arc
+- Microsoft Azure solution VMware
 
 **Business applications** spécialisations avancées sont les suivantes :
 
@@ -67,6 +71,8 @@ Les spécialisations avancées de **sécurité** sont les suivantes :
 
 - Gestion de l’identité et de l’accès
 - Protection contre les menaces
+- Information Protection et gouvernance
+- Sécurité cloud
 
 > [!NOTE]
 > Pour en savoir plus sur chaque spécialisation avancée, ainsi que sur les conditions préalables requises et la configuration requise, visitez la [page spécialisations avancées](https://partner.microsoft.com/membership/advanced-specialization). Lorsque vous êtes prêt à appliquer une spécialisation avancée, vérifiez votre progression en vous connectant au [tableau de bord](https://partner.microsoft.com/dashboard)de l’espace partenaires. Pour en savoir plus sur l’accès à cette zone de l’espace partenaires, consultez [appliquer une spécialisation avancée](advanced-specializations-apply.md).

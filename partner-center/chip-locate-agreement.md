@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148990"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276934"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localiser le nombre de postes de travail et le niveau de frais pour un contrat
 
@@ -65,13 +65,13 @@ Après avoir effectué une recherche sur le numéro de contrat dans explore.ms �
 
 2. Dans la page **Résumé du paiement du partenaire** , sélectionnez le mois de rapport que vous souhaitez afficher, puis sélectionnez Détails du **calcul** dans la liste déroulante sous **Exporter vers Excel**:
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Localiser les détails du programme":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Recherchez les détails du programme.":::
 
 3. L’exportation démarre et vous pouvez ouvrir le fichier ou Enregistrer/Enregistrer sous dans une destination.
 
 4. Lorsque le rapport est ouvert, accédez à l’onglet **DetailReport-FlatFile** en bas à gauche :
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Téléchargement de fichier plat":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Téléchargement de fichier plat.":::
 
 Vous pouvez maintenant rechercher le numéro de contrat que vous recherchez dans la colonne J. vous trouverez le nombre de postes de travail attribués dans la colonne R, étiqueté Agreement_DesktopCount. Vous pouvez également confirmer le niveau de frais pour ce contrat dans la colonne « AI » intitulée niveau.
 

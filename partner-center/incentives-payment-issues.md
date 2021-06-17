@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151948"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277859"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Résolution des problèmes liés aux paiements manquants, aux revenus incorrects et à d’autres problèmes
 
@@ -114,7 +114,7 @@ Des gains manquants ou incorrects peuvent être le résultat de l’un des probl
 
 Les bénéfices s’affichent dans la page **historique des transactions** et dans la page **paiements** . Vous pouvez accéder aux deux pages en sélectionnant l’icône **paiement** dans la barre de navigation de l’espace partenaires.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informations sur les transactions":::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informations de transaction.":::
 
 Les montants de gain mensuels dans la vue historique des transactions peuvent ne pas s’aligner sur le montant de paiement reçu pour un mois spécifique. Cela est dû à des recalculs et des ajustements pour les périodes d’approvisionnement antérieurs qui sont appliquées aux paiements futurs.
 

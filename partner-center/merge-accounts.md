@@ -8,12 +8,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146508"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276635"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Fusionner votre compte partenaire avec un autre compte partenaire
 
@@ -41,7 +41,7 @@ Au moins deux sociétés qui sont des partenaires Microsoft actifs et qui dispos
 
 ### <a name="view-of-merged-accounts"></a>Affichage des comptes fusionnés
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fusion de compte":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fusion de compte.":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Ce qu’il faut attendre si vous avez été invité à fusionner votre compte espace partenaires avec un autre compte espace partenaires
 

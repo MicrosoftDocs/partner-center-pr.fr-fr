@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152781"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276232"
 ---
 # <a name="download-reports"></a>Rapports de téléchargement
 
@@ -30,9 +30,9 @@ Une fois généré, le rapport est disponible dans la section **rapports génér
 
 Pour générer un rapport, commencez par sélectionner le rapport dans la liste déroulante **Sélectionner le rapport** . Ensuite, sélectionnez la plage de dates dans la liste déroulante **Sélectionner une plage de dates** . Sélectionnez **Générer**. Le rapport sera généré au format de valeurs séparées par des tabulations (TSV) et sera disponible au téléchargement dans la section **rapports générés** en quelques minutes. Les rapports générés au cours des 14 derniers jours seront disponibles au téléchargement.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Créer un rapport":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Créer un rapport.":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Rapports générés":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Rapports générés.":::
 
 >[!NOTE] 
 >Seuls les utilisateurs qui sont des visionneuses de rapports peuvent télécharger des rapports. Pour plus d’informations sur l’accès basé sur les rôles aux rapports de tableau de bord Insights, consultez la rubrique [rôles PCI](pci-roles.md). 

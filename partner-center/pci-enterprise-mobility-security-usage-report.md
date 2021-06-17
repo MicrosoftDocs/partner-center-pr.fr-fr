@@ -8,12 +8,12 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854619"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277825"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation Enterprise Mobility + Security disponible à partir du tableau de bord Insights de l’espace partenaires
 
@@ -46,7 +46,7 @@ La section Résumé présente une vue instantanée des indicateurs clés liés a
 
    Le micro-graphique présente une tendance mensuelle des licences utilisées sur la période sélectionnée.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Résumé de l’utilisation d’EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Résumé de l’utilisation d’EMS.":::
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security de l’utilisation par zone géographique
 
@@ -56,25 +56,25 @@ Le tableau **nombre de pays/région** présente le nombre total de pays/régions
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Sélectionnez l’option de **démarrage** sur la carte pour revenir à la vue d’origine.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Utilisation d’EMS par zone géographique":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Utilisation d’EMS par zone géographique.":::
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Utilisation Enterprise Mobility + Security par référence (SKU)
 
 L’utilisation Enterprise Mobility + Security par référence (SKU) représente la répartition mensuelle de MAU et PAU par SKU.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Utilisation d’EMS par référence (SKU)":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Utilisation d’EMS par référence (SKU).":::
 
 ## <a name="subscriptions-performance"></a>Performances des abonnements
 
 Les performances des abonnements illustrent la répartition de MAU et PAU par SKU par abonnement client. Les données pour les 100 premiers clients par chiffre d’affaires facturé sont indiquées dans le tableau et vous pouvez rechercher n’importe quel client ou télécharger les données brutes pour afficher les détails de tous les clients.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Performances des abonnements EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Performances des abonnements EMS.":::
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Distribution de l’utilisation de Enterprise Mobility + Security
 
 La distribution d’utilisation Enterprise Mobility + Security décrit la répartition des PAU et des abonnements par référence (SKU).
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribution de l’utilisation EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribution de l’utilisation EMS.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

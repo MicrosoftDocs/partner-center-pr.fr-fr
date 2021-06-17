@@ -8,12 +8,12 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152798"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277502"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation de Dynamics disponible à partir du tableau de bord Insights de l’espace partenaires
 
@@ -50,7 +50,7 @@ La section Résumé présente une vue instantanée des indicateurs clés liés a
 
    Le micro-graphique présente une tendance mensuelle de pourcentage d’utilisation actif sur la période sélectionnée.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Résumé de l’utilisation de Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Résumé de l’utilisation de Dynamics.":::
 
 ## <a name="dynamics-usage-by-geography"></a>Utilisation de Dynamics par zone géographique
 
@@ -60,25 +60,25 @@ Le tableau **nombre de pays/région** présente le nombre total de pays/régions
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Sélectionnez l’option de **démarrage** sur la carte pour revenir à la vue d’origine.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Utilisation de Dynamics par zone géographique":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Utilisation de Dynamics par géographie.":::
 
 ## <a name="dynamics-usage-by-sku"></a>Utilisation de Dynamics par référence (SKU)
 
 L’utilisation de Dynamics par référence (SKU) représente la tendance mensuelle des sièges disponibles, les sièges actifs et les sièges affectés par SKU.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Utilisation de Dynamics par référence (SKU)":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Utilisation de Dynamics par référence (SKU).":::
 
 ## <a name="subscriptions-performance"></a>Performances des abonnements
 
 Les performances des abonnements représentent la tendance mensuelle de l’utilisation active par abonnement client. Les données pour les 100 premiers clients par chiffre d’affaires facturé sont indiquées dans la table et vous pouvez rechercher n’importe quel client ou télécharger les données brutes pour afficher les détails de tous les abonnements.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Performances des abonnements Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Performances des abonnements Dynamics.":::
 
 ## <a name="dynamics-usage-distribution"></a>Distribution de l’utilisation de Dynamics
 
 La distribution de l’utilisation de Dynamics illustre la répartition des sièges disponibles, des sièges actifs et des sièges attribués par référence (SKU).
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribution de l’utilisation de Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribution de l’utilisation de Dynamics.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

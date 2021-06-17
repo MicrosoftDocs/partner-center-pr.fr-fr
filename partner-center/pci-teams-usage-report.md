@@ -8,12 +8,12 @@ description: Découvrez ce que vous êtes en train de faire et où vous pouvez a
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855180"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277332"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Rapport d’utilisation des équipes disponible dans le tableau de bord Insights de l’espace partenaires
 
@@ -43,25 +43,25 @@ La section Résumé présente une vue instantanée des indicateurs clés liés a
 
 - Durée moyenne de la réunion (minutes) : durée moyenne de la réunion en minutes. 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Résumé de l’utilisation des équipes":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Résumé de l’utilisation des équipes.":::
 
 ## <a name="conversations-trend"></a>Tendance des conversations
 
 Le rapport de tendance des conversations affiche la tendance mensuelle des réunions, des appels et des systèmes téléphoniques des équipes, ainsi que la durée moyenne de la réunion, en minutes.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendances de conversation de l’utilisation des équipes":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendances de conversation de l’utilisation des équipes.":::
 
 ## <a name="teams-usage-by-workloads"></a>Utilisation par les équipes des charges de travail
 
 Le rapport utilisation des équipes par charges de travail montre le fractionnement mensuel des utilisateurs de bureau, mobiles et Web des équipes fractionnées par charges de travail.
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilisation par les équipes des charges de travail":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilisation par les équipes des charges de travail.":::
 
 ## <a name="top-customers-by-usage"></a>Principaux clients par utilisation
 
 Le rapport meilleurs clients par utilisation montre l’utilisation des principaux clients pour les réunions, les appels, les systèmes téléphoniques et les applications tierces des équipes.
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Principaux clients par utilisation":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Principaux clients par utilisation.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

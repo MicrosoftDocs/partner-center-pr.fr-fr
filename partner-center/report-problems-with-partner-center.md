@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855605"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277791"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Outil de diagnostic et de requêtes du portail de l’espace partenaires
 
@@ -43,23 +43,23 @@ Contactez le support technique si vous rencontrez des problèmes ou si vous avez
 
 Si votre problème nécessite une conversation avec votre avocat de support, vous pouvez planifier le rendez-vous à partir des détails de votre ticket.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Planifier un rendez-vous de support":::
+:::image type="content" source="images/support/ticket.png" alt-text="Planifier un rendez-vous de support.":::
 
 1.  À partir de la page Détails du ticket dans l’espace partenaires, sélectionnez une date et une heure disponibles dans le calendrier de l’avocat du support. Vous ne verrez que les dates et heures disponibles dans votre fuseau horaire local.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Planifier un rendez-vous":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Planifier un rendez-vous.":::
 
 2. L’espace partenaires vérifie la disponibilité du calendrier de l’avocat de support.
 
 1. Lorsque vous planifiez un rendez-vous, l’espace partenaires vous envoie une invitation à un calendrier contenant des informations sur la façon dont l’avocat du support vous contactera pour vous permettre de suivre ce rendez-vous dans votre calendrier de travail.  Bien que cette fonctionnalité soit encore en préversion, l’invitation par courrier électronique et calendrier est en anglais, mais l’avocat peut vous prendre en charge dans la langue que vous avez sélectionnée lors de la création de votre ticket.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Date et heure":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Date et heure.":::
 
 ## <a name="hours-of-operation"></a>Heures d’utilisation
 
 **Support technique du partenaire**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Heures de support de l’opération":::
+:::image type="content" source="images/support/hoop.png" alt-text="Heures de prise en charge de l’opération.":::
 
 ## <a name="send-diagnostics"></a>Envoyer des diagnostics
 

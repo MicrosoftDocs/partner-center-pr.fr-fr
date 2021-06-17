@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 9d0cff4883e084ccc0acb37d8c3119d91e3f5530
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855401"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276448"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Comment vendre des offres à des clients d’éducation et comment créer un client de formation dans l’espace partenaires
 
@@ -39,11 +39,11 @@ Cet article explique comment créer un client de formation dans l’espace parte
 
 3. Lorsque vous avez terminé, sélectionnez **examiner**.
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="Compte client Education":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Compte client Education.":::
 
 4. Après confirmation de la **révision**, vous recevrez un état d' **invalidation** si les informations soumises sont valides. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="Compte client Education en cours de révision"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="Compte client Education en revue."lightbox="images/edu/create-review-expanded.png":::
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirmez l’état de vérification de votre client Education
 
@@ -52,11 +52,11 @@ Exemples d’État :
 
 - Si le client a réussi la vérification : éducation
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Vérification de l’éducation réussie":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Vérification de l’éducation réussie.":::
 
 - Si le client n’a pas réussi la vérification : il ne s’agit pas d’un client éducatif
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="Échec de la vérification de l’éducation" lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="La vérification de l’éducation a échoué." lightbox="images/edu/fail-reason-expanded.png":::
 
 - Si le client n’a pas été marqué comme client éducation : aucun
 
@@ -64,7 +64,7 @@ Exemples d’État :
 
 - Si le client est en cours d’examen en tant que client éducatif : en revue
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="le client Education est en cours de révision" lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="le client Education est en cours de vérification." lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corriger les informations du compte client et soumettre à nouveau la vérification
 

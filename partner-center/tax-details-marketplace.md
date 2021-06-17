@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 5ba7e5a4713c3cb92e7c5b8eee8e0370c8099d14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152747"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277757"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Détails des taxes pour les éditeurs de la place de marché commerciale
 
@@ -132,29 +132,29 @@ Microsoft collecte des taxes sur les frais de stockage dans les pays suivants, o
 
 - Scénario 2 : client dans une offre de pays géré par Microsoft (pays du serveur de publication sans pertinence)
 
-  :::image type="content" source="images/tax/scenario-two.png" alt-text="Graphique présentant les taxes dans le pays géré par Microsoft":::
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Graphique présentant les taxes dans le pays géré par Microsoft.":::
 
 - Scénario 3 : un serveur de publication étranger effectue une vente entre frontières à un client inscrit à la TVA UE situé dans un pays géré par Microsoft
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="Graphique illustrant la taxe UE-VAT affecte les taxes"::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="Graphique illustrant la manière dont l’UE-VAT affecte les taxes."::: 
 
 - Scénario 4 : un éditeur étranger effectue une vente intérieure à un client situé dans un pays géré par Microsoft ou une vente non nationale à un client en Suisse
 
-  :::image type="content" source="images/tax/scenario-four.png" alt-text="Graphique illustrant la façon dont la TVA est gérée":::
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="Graphique illustrant la façon dont la TVA est gérée.":::
 
 - Scénario cinq : un client dans un pays géré par Microsoft achète une offre où les frais de service du magasin sont fiscaux
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="Graphique illustrant la façon dont les frais de service du magasin affectent les taxes":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Graphique illustrant la façon dont les frais de service du magasin affectent les taxes.":::
 
 ### <a name="withholding-tax"></a>Impôt à la source
 
 - Scénario 1 : le serveur de publication étranger (sans les avantages du traité fiscal en vigueur sur le profil fiscal) fait une vente aux clients américains. 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="Graphique présentant les taxes de retenue sans le traité fiscal":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Graphique présentant les taxes de retenue sans le traité fiscal.":::
 
 - Scénario 2 : le serveur de publication étranger (avec les avantages du traité fiscal applicables sur le profil d’impôt à zéro taux de change) avec un traité fait la vente au client. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="Graphique représentant la retenue à la taxe avec le traité fiscal":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Graphique représentant la retenue à la taxe avec le traité fiscal.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 

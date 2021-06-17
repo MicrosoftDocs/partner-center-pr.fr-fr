@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2a5697f19baadb5af956a745c032ce1711574d3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855231"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277366"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Tableau de bord des performances du revendeur dans Partner Center Insights
 
@@ -59,7 +59,7 @@ Le micro-graphique présente l’évolution du chiffre d’affaires par mois pen
 
 - La section revenu facturé par produit fournit un mois sur la répartition mensuelle du revenu facturé en USD, divisé par produits vendus. 
 
-:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="Résumé des performances des revendeurs":::
+:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="Résumé des performances des revendeurs.":::
 
 ## <a name="geographical-spread-of-resellers"></a>Répartition géographique des revendeurs
 
@@ -67,7 +67,7 @@ Les revendeurs par vue géographique fournissent la répartition géographique d
 
 Vous pouvez rechercher et sélectionner un pays de la grille pour zoomer sur un emplacement de la carte. Appuyez sur l’option de **démarrage** sur la carte pour revenir à la vue d’origine. Pointez sur la carte pour afficher le **chiffre d’affaires facturé (USD)** par pays. Le champ revenu facturé (USD) de la grille peut être trié.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Revendeurs par zone géographique ":::
+:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Revendeurs par zone géographique.":::
 
 ## <a name="resellers-addchurns"></a>Ajouts/réactivités des revendeurs
 
@@ -77,43 +77,43 @@ Cette vue fournit un mois sur la Division mensuelle du nombre de **nouveaux reve
 - Revendeurs à l’évolution : nombre de revendeurs qui n’ont pas de transaction au cours des six derniers mois, à l’exclusion du mois en cours.
 - Revendeurs existants : nombre de revendeurs qui ont fait la transaction au mois précédent.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Ajouts/réactivités des revendeurs":::
+:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Ajouts/réactivités des revendeurs.":::
 
 ## <a name="resellers-revenue-trend"></a>Tendance du chiffre d’affaires des revendeurs 
 
 Cette vue fournit une tendance mensuelle de la répartition du chiffre d’affaires facturé (USD) par produit, notamment O365, D365, EMS, Power BI et Azure. Les métriques globales sont agrégées sur les différents produits pour chaque mois. Le partenaire peut rechercher un revendeur spécifique par son nom et Rechercher des données pour ce revendeur spécifique. Le champ revenu facturé (USD) de la grille peut être trié.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Tendance du chiffre d’affaires des revendeurs":::
+:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Tendance du chiffre d’affaires des revendeurs.":::
 
 ## <a name="reseller-performance-by-products"></a>Performances des revendeurs par produits
 
 Cette vue fournit un fractionnement des métriques clés telles que le chiffre d’affaires facturé, le nombre d’abonnements et le nombre de licences par mois sur la base du mois. Le graphique à secteurs à droite indique le fractionnement global des mesures par divers produits, de sorte que le partenaire obtient un aperçu rapide de la rupture par les différents produits vendus par le revendeur.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Performances des revendeurs par produits":::
+:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Performances des revendeurs par produits.":::
 
 ## <a name="active-resellers-by-partner-locations"></a>Revendeurs actifs par emplacement de partenaire
 
 Cette vue fournit un fractionnement des revendeurs actifs par zones géographiques de partenaire. Les cinq zones géographiques les plus importantes sont affichées dans la légende et les autres sont catégorisées comme « autres ».
 
-:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Revendeurs actifs par emplacement de partenaire":::
+:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Revendeurs actifs par emplacement de partenaire.":::
 
 ## <a name="revenue-geo-distribution-trend"></a>Tendance de distribution géographique du revenu
 
 Cette vue fournit un mois sur la tendance mensuelle du chiffre d’affaires facturé (USD) par les cinq premières zones géographiques.  Le reste du revenu est catégorisé comme « autres ».
 
-:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Tendance de distribution géographique du revenu":::
+:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Tendance de la distribution géographique du revenu.":::
 
 ## <a name="reseller-performance-by-customer-segment"></a>Performances des revendeurs par segment de clientèle
 
 Cette vue permet à un partenaire de comprendre la tendance mensuelle du chiffre d’affaires USD, le nombre d’abonnements et de licences, divisé par différents segments de clientèle. Les cinq principaux segments du client sont affichés dans le graphique et les autres sont catégorisés en tant que « autres ».
 
-:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Performances des revendeurs par segment de clientèle":::
+:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Performances du revendeur par segment de clientèle.":::
 
 ## <a name="reseller-mpa-signing-status"></a>État de signature MPA du revendeur
 
 Cette vue fournit l’état de signature MPA pour les revendeurs, ainsi que des métadonnées supplémentaires, telles que l’état d’instruction MPN, le PMC à l’état de migration du PC, etc.
 
-:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="État de signature MPA du revendeur":::
+:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="État de signature MPA du revendeur.":::
 
 ## <a name="next-steps"></a>Étapes suivantes
 
