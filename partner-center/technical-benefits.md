@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276380"
+ms.locfileid: "112318093"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explorer les services de prévente technique et de déploiement (TPD) 
 
-**Rôles appropriés** : Administrateur partenaire MPN
+**Rôles appropriés**: tout compte d’utilisateur MPN tant que l’organisation a une compétence active ou Microsoft Action Pack.
 
 Découvrez les avantages Microsoft Partner Network (MPN) dont vous bénéficiez dans le cadre des services de prévente technique et de déploiement, notamment les consultations, l’assistance de prévente, les heures de conseil et bien plus encore.
 
@@ -44,14 +44,14 @@ Connectez-vous à l’aide de n’importe quel compte d’utilisateur associé a
 
 ## <a name="delivery-scenarios"></a>Scénarios de remise
 
-- Les **consultations des préventes techniques** sont utilisées pour définir la proposition de valeur, en fournissant des estimations de coût, en gérant les objections des clients, en répondant à la messagerie des concurrents, en montrant des solutions techniques, des preuves de concepts, ou en planifiant et en concevant l’architecture et en menant à une déclaration de travail.
+- Les **préventes techniques** sont utilisées pour définir la proposition de valeur, pour fournir des estimations de coût, des licences techniques, pour gérer les objections des clients, pour répondre à la messagerie des concurrents, pour illustrer des solutions techniques, pour la validation de concepts, pour la planification et la conception de l’architecture et pour une déclaration de travail.
 
-  - *Non pris en charge :* Planification des opportunités commerciales, tarifs et tarifs.
+  - *Non pris en charge :* Planification du pipeline des ventes, discussions des clients finaux, tarification des licences et tarifs.
 
 
 - Les **consultations du déploiement** sont utilisées pour les conseils de planification et de conception d’architecture, les meilleures pratiques, les recommandations de déploiement, les références de produits et la documentation.
 
-  - *Non pris en charge :* Réparation de la prise en charge/résolution des problèmes, services sur site, Consulting à long terme, directe au support client ou assistance pratique dans un environnement de production. 
+  - *Non pris en charge :* Réparation de la prise en charge/résolution des problèmes, des correctifs, des services sur site, des conseils à long terme (moins de 25 heures par engagement), directement au support client ou au support pratique dans un environnement de production. 
 
 
 - Les consultations de la place de **marché** sont utilisées pour la publication de votre solution pour la génération continue de leads dans le Marketplace commercial Microsoft. Pour les développeurs, la configuration de service, l’architecture ou la conception consulte, la migration à partir de solutions locales, la révision du code et l’aide à la publication d’applications.
@@ -66,7 +66,7 @@ Les produits et services suivants sont concernés par les services de prévente 
 - **Applications métier** : Microsoft Dynamics 365 (en ligne), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Non concernés : Versions exclusivement locales de Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure** : Toutes les solutions Microsoft Azure et les services associés, comme infrastructure en tant que service, plateforme en tant que service, plateforme de données, analytique décisionnelle, Cognitive Services, Azure Machine Learning, Azure Stack
-- **Windows Server** : Support standard de Windows Server (tel que régi par le **[cycle de vie des produits](/lifecycle/policies/fixed)** )
+- **Windows Server et SQL Server**: au sein du support standard, comme régi par le **[cycle de vie du produit](/lifecycle/policies/fixed)**)
   - System Center comprend des produits associés tels que SCCM, s’ils sont liés à des scénarios cloud ou hybrides
 - **Windows 10** : Système d’exploitation, appareils et applications universelles Windows 10
 - **Produits en préversion privée ou publique**: l’aide est fournie au mieux pour les environnements de production et sans garantie de disponibilité des informations ou de temps de réponse.
@@ -106,5 +106,6 @@ Pour afficher vos avantages techniques dans l’Espace partenaires :
 6. La page de confirmation affiche le numéro et la description de la demande de support. Vous recevrez également un e-mail de confirmation de l’Espace partenaires avec le numéro de dossier.
 
 ## <a name="next-steps"></a>Étapes suivantes
+[Support technique pour les produits locaux ou Cloud](/mpn-benefits-technical-support.md)
 
 [Gérer vos avantages et offres Microsoft Partner Network](manage-your-partner-network-benefits.md)
