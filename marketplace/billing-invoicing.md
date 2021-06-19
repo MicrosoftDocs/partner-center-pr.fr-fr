@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412605"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373454"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Facturation et facturation de la place de marché Azure
 
@@ -47,6 +47,9 @@ Vous serez facturé pour vos achats périodiques au cours de la période pendant
 
 >[!NOTE]
 > La période de service est la période pour laquelle vous avez payé pour utiliser le service. Il effectue un renouvellement automatique au niveau de la et de la période de service, sauf si vous annulez au préalable.
+
+> [!NOTE]
+> Nous ajustons le dernier jour du mois de facturation si la date du mois de renouvellement ne peut pas être égale à la date d’achat du mois. Si vous souhaitez vous abonner sur 1/31, la date de fin de facturation pour février serait 2/27, avec le nouveau terme de facturation à partir du 2/28 (2/28 et 2/29 si vous démarrez dans une année bissextile).
 
 ## <a name="invoices"></a>Factures
 
