@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147341"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450745"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fournir différents types de support à vos clients
 
@@ -34,13 +34,13 @@ Les clients CSP ne peuvent pas créer eux-mêmes des tickets de support. Ils doi
 
 - Support **technique** : vous pouvez [comparer les plans de support partenaires](https://partner.microsoft.com/support/partnersupport) ou pour plus d’informations, voir les liens suivants sur un plan de support spécifique :
 
-  - [Support premier pour les partenaires](https://partner.microsoft.com/support/microsoft-services-premier-support) (frais de base, à utiliser pour tous les produits)
+  - [Support premier pour les partenaires (PSfP)](https://partner.microsoft.com/support/microsoft-services-premier-support) (frais de base, à utiliser pour tous les produits)
 
-  - [Support avancé pour les partenaires](https://partner.microsoft.com/support/advanced-cloud-support) (frais de base, utilisation pour les produits Cloud uniquement)
+  - [Support avancé pour les partenaires (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (frais de base, utilisation pour les produits Cloud uniquement)
 
-  - [Support du Cloud de signature](manage-your-partner-network-benefits.md) (inclus avec les avantages MPN pour les compétences Gold ou Silver, utilisation pour les produits Cloud uniquement)
+  - [Support du Cloud de signature](manage-your-partner-network-benefits.md) (inclus avec les avantages MPN pour les compétences Gold ou Silver, utilisez uniquement pour les produits Cloud. Voir les [avantages techniques](mpn-benefits-technical-support.md))
 
-  - [Incidents de support technique](manage-your-partner-network-benefits.md) (inclus avec les avantages MPN pour les partenaires Gold, Silver ou Microsoft Action Pack, à utiliser pour les produits locaux récents uniquement)
+  - Les [incidents de support technique](manage-your-partner-network-benefits.md) (inclus avec les avantages MPN pour les partenaires Gold, Silver ou Microsoft Action Pack, utilisent uniquement pour les produits locaux récents. Voir les [avantages techniques](mpn-benefits-technical-support.md))
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Fourniture de la facturation, de la gestion des abonnements et du support technique 
 
