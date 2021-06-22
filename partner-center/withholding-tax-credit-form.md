@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 05bf6e09c5dc5982c3faa3e426f7b99acfc09949
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276363"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431715"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Recevoir un crédit sur votre compte espace partenaires pour la retenue fiscale
 
@@ -22,7 +22,7 @@ ms.locfileid: "112276363"
 
 ## <a name="overview"></a>Vue d’ensemble
 
-Dans certains pays, les partenaires CSP reçoivent des montants de facture incluant des taxes. Certains de ces partenaires paient leur administration fiscale locale au lieu de Microsoft. Si vous payez votre administration fiscale locale, vous devez soumettre une demande de retenue d’impôt, y compris votre certificat fiscal, pour effacer le montant imposé des factures précédentes. Ces montants effacés sont reflétés dans la colonne **dernier paiement** de la **page facturation** de l’espace partenaires.
+Les partenaires fournisseurs de solutions Cloud (CSP) dans certains pays reçoivent des montants de facture incluant des taxes. Certains de ces partenaires paient leur administration fiscale locale au lieu de Microsoft. Si vous payez votre administration fiscale locale, vous devez soumettre une demande de retenue d’impôt, y compris votre certificat fiscal, pour effacer le montant imposé des factures précédentes. Ces montants effacés sont reflétés dans la colonne **dernier paiement** de la **page facturation** de l’espace partenaires.
 
 Partenaires utilisés pour envoyer des demandes de retenue d’impôt en créant des demandes de service (tickets de support partenaires) dans l’espace partenaires. Ce processus a été modifié en janvier 2020. Désormais, les partenaires CSP doivent envoyer des demandes de retenue d’impôt sur la **page de facturation** au lieu de créer des demandes de support.
 
@@ -37,7 +37,7 @@ Procédez comme suit pour soumettre une nouvelle retenue fiscale :
 
 2. Dans le menu de gauche, choisissez **facturation** et accédez à **l’historique de facturation**.
 
-3. Cliquez sur **Envoyer nouveau** en regard de la facture pour laquelle vous souhaitez soumettre un dédouanement. Le lien envoyer nouveau vous permet d’accéder à la page **nouvelle demande de retenue d’impôt** .
+3. Sélectionnez **Envoyer nouveau** en regard de la facture pour laquelle vous souhaitez soumettre un dédouanement. Le lien envoyer nouveau vous permet d’accéder à la page **nouvelle demande de retenue d’impôt** .
 
    :::image type="content" source="images/wht1.png" alt-text="Soumettre une nouvelle retenue fiscale pour une facture.":::
 
@@ -68,7 +68,7 @@ L’équipe de révision peut vous obliger à apporter des corrections et à sou
 
 3. Dans l' **historique de facturation** de la page de **facturation** , recherchez impôt à la demande. Les demandes nécessitant votre attention auront l’état « action partenaire en attente ».
 
-4. Cliquez sur l’ID et l’état de la demande de retenue à la demande d’impôt pour atteindre la page de la demande.
+4. Sélectionnez l’ID et l’état de la demande de retenue à la source en vous remontant sur la page de la demande.
 
 5. Sélectionnez **mettre à jour et soumettre à nouveau** sous **État**.
 

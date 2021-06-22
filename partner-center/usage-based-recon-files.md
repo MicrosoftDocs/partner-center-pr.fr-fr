@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc31915660b6a82954daee5fcc8fb2d5292e725c
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 6c486d4866b0a2a912801d2648a1822418687078
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795004"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431696"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Comprendre les fichiers de rapprochement basés sur l’utilisation et leurs champs spécifiques dans l’espace partenaires
 
@@ -31,8 +31,8 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 | PartnerId | Identificateur du partenaire, au format GUID. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Nom du partenaire. | *Contoso, Ltd.* |
 | PartnerBillableAccountId | Identificateur du compte du partenaire. | *1010578050* |
-| CustomerCompanyName | Nom de l’organisation du client comme indiqué dans l’espace Partenaires. *Très important pour rapprocher la facture de vos informations système.* | *Tester le client* |
-| MpnId | Identificateur MPN du partenaire CSP. | *4390934* |
+| CustomerCompanyName | Nom de l’organisation du client comme indiqué dans l’espace Partenaires. *Cet élément est très important pour réconcilier la facture avec vos informations système.* | *Tester le client* |
+| MpnId | Identificateur Microsoft Partner Network (MPN) du partenaire fournisseur de solutions Cloud (CSP). | *4390934* |
 | ResellerMpnId | Identificateur MPN du revendeur de l’enregistrement pour l’abonnement.  |
 | InvoiceNumber | Numéro de facture sur lequel figure la transaction spécifiée. | *D020001IVK* |
 | ChargeStartDate | Date de début du cycle de facturation, sauf en cas de dates de données d’utilisation latente non facturées précédemment (du cycle de facturation précédent). L’heure est toujours définie sur le début de la journée, 0:00. | *2/1/2019 0:00* |
@@ -55,7 +55,7 @@ Les champs suivants décrivent les services utilisés et leurs taux.
 | PretaxCharges | Égal à **ListPrist** multiplié par **divisé par overagequantity**, arrondi au cent le plus proche. | *$0.085* |
 | TaxAmount | Montant des taxes facturées. Selon les règles fiscales et les circonstances spécifiques de votre marché. | *$0,08* |
 | PostTaxTotal | Total après les taxes, lorsque des taxes s’appliquent. | *$0,93* |
-| Devise | Type de devise. Chaque entité de facturation n’a qu’une seule devise. Vérifiez qu’il correspond à votre première facture, puis après toute mise à jour de la plateforme de facturation majeure. | *EUR* |
+| Devise | Type de devise. Chaque entité de facturation n’a qu’une seule devise. Vérifiez qu’il correspond à votre première facture, puis après toute mise à jour de la plateforme de facturation majeure. | *0,35* |
 | PretaxEffectiveRate | Tarif unitaire avant impôts. Égal à **PretaxCharges** divisé par **divisé par overagequantity**, arrondi au cent le plus proche. | *$0,08* |
 | PostTaxEffectiveRate | Tarif unitaire après impôts. Égal à **PostTaxTotal** divisé par **divisé par overagequantity**, arrondi au cent le plus proche. Ou, égal à **PretaxEffectiveRate** plus le taux d’imposition par montant unitaire, arrondi au cent le plus proche. | *$0,08* |
 | ChargeType | [Type de frais ou d'](recon-file-charge-types.md) ajustement. | Consultez [types de frais](recon-file-charge-types.md). |

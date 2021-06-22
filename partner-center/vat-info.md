@@ -8,23 +8,23 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.openlocfilehash: bd0399f16fb2bdaf1099597cd48c89d7e9d3651d
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bcdb6b4da0911eb9b6600218f926517d9ef1728e
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794987"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431694"
 ---
 # <a name="value-added-tax-vat-information"></a>Informations sur la taxe sur la valeur ajoutée (T.V.A.)
 
 **Rôles appropriés**: administrateur de compte
 
 
-Si vous devez fournir un numéro d’identification de TVA pendant le processus d’inscription de l’espace partenaires, voici quelques informations pour vous aider à démarrer.
+Si vous devez fournir un numéro d’identification de la T.V.A. au cours du processus d’inscription de l’espace partenaires, voici quelques informations pour vous aider à démarrer.
 
 ## <a name="understanding-vat-numbers"></a>Description des numéros de TVA
 
-Un numéro de TVA (taxe sur la valeur ajoutée) est un identificateur utilisé pour des pays ou des régions dans l’Union européenne. Pour plus d’informations, consultez le [site](http://ec.europa.eu/taxation_customs/vies/vieshome.do)officiel de l’Union européenne.
+Un numéro de TVA est un identificateur utilisé pour les pays ou les régions de l’Union européenne. Pour plus d’informations, consultez le site officiel de l' [échange d’informations de TVA (vies)](http://ec.europa.eu/taxation_customs/vies/vieshome.do)de l’Union européenne.
 
 ## <a name="location-specific-vat-information"></a>Informations de TVA spécifiques à l’emplacement
 

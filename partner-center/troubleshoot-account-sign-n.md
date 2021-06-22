@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5e8a292ad8593dc0b94179d5f0ee418344ef9af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 4fc1a43b4d525d9221ac7e4db56f5f278404e3f5
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854687"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431746"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Résoudre les problèmes de configuration de compte ou de renouvellement MPN
 
@@ -24,16 +24,16 @@ Voici quelques suggestions pour résoudre les problèmes courants qui surviennen
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Que se passe-t-il si vous effectuez une migration à partir du centre d’appartenance au partenaire et que vous ne pouvez pas modifier les champs d’informations
 
-Dans les cas où votre société a déjà une présence dans l’espace partenaires (par exemple, un compte CSP), un écran en lecture seule s’affiche. Cet écran affiche toutes les informations sur votre société telles qu’elles existent dans l’espace partenaires.
+Dans les cas où votre société a déjà une présence dans l’espace partenaires (par exemple, un compte fournisseur de solutions Cloud (CSP)), un écran en lecture seule s’affiche. Cet écran affiche toutes les informations sur votre société telles qu’elles existent dans l’espace partenaires.
 
 Vous ne pouvez pas modifier les détails de cet écran. Cela est dû à la conception et non à une erreur.
 
-Sélectionnez **accepter** et **Continuer** pour continuer.
+Pour continuer, sélectionnez **accepter**, puis cliquez sur **Continuer**.
 
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si le service informatique a désactivé l' **inscription à l’espace partenaires**
 
-Ce message s’affiche parce que les utilisateurs viraux sont désactivés ou parce que l’inscription virale est désactivée sur le locataire Azure AD. L’administrateur général de votre compte Azure AD peut activer les fonctionnalités requises en exécutant la commande PowerShell suivante :
+Ce message s’affiche parce que les utilisateurs viraux sont désactivés ou parce que l’inscription virale est désactivée sur le locataire Azure Active Directory (AD). L’administrateur général de votre compte Azure AD peut activer les fonctionnalités requises en exécutant la commande PowerShell suivante :
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
@@ -41,7 +41,7 @@ Pour plus d’informations, consultez [inscription en libre-service](/azure/acti
 
 ## <a name="you-forgot-your-password"></a>Vous avez oublié votre mot de passe
 
-Si vous avez oublié votre mot de passe, sélectionnez le lien vous **ne pouvez pas accéder à votre compte ?** dans la page de connexion. Cette option vous permet de réinitialiser votre mot de passe ou de demander à votre administrateur général de vous attribuer de nouvelles informations d’identification.
+Si vous avez oublié votre mot de passe, dans la page de connexion, sélectionnez **ne peut pas accéder à votre compte ?**. Cette option vous permet de réinitialiser votre mot de passe ou de demander à votre administrateur général de vous attribuer de nouvelles informations d’identification.
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Sur l’écran « faites-nous part de votre entreprise », vous recevez une erreur « un problème est survenu »
 
@@ -59,7 +59,7 @@ Vous devez annuler la commande d’origine et effectuer un achat à l’aide du 
 
 Pour annuler une commande :
 
-1. Sélectionnez l’onglet **offres d’appartenance** dans le tableau de bord.
+1. Dans le tableau de bord espace partenaires, sélectionnez l’onglet **offres d’abonnement** .
 
 2. Sélectionner **annuler la commande**
 

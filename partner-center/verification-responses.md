@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8486e16d9979a1c1482577248334c1854b116273
-ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
+ms.openlocfilehash: baf13c0953350d27a53ec18cb2338469c6d54770
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "110236098"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431478"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Vérifier les informations de votre compte lors de votre inscription à un nouveau programme de l’Espace partenaires
 
@@ -27,8 +27,8 @@ Lorsque vous vous inscrivez à un nouveau programme dans l’espace partenaires,
 
 Si vous êtes le contact principal (administrateur général ou administrateur de compte), nous vous recommandons d’accéder à votre profil de partenaire pour surveiller l’état de la vérification et suivre la progression.
 
-- Pour le programme MPN, accédez à [informations légales](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
-- Pour le programme CSP, accédez à [informations légales](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+- Pour le programme Microsoft Partner Network (MPN), accédez à [informations légales](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
+- Pour le programme fournisseur de solutions Cloud (CSP), accédez à [informations légales](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 
 ## <a name="what-is-verified-and-how-to-respond"></a>Ce qui est vérifié et comment répondre
@@ -51,4 +51,4 @@ Après vous être connecté à votre profil, si vous voyez des **actions en atte
 - Pour le programme MPN, accédez à la page [legal info](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) .  
 - Pour le programme CSP, accédez à la page [legal info](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) .
 
-Si vous avez besoin d’aide pour effectuer ces étapes dans l’espace partenaires, vous pouvez contacter l’équipe de support partenaires en ouvrant un ticket dans la section Support de l’espace partenaires. Pour ce faire, accédez à [aide et support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3).
+Si vous avez besoin d’aide pour effectuer ces étapes dans l’espace partenaires, vous pouvez contacter l’équipe de support partenaires en ouvrant un ticket dans la section Support de l’espace partenaires. Pour ouvrir un ticket, accédez à [aide et support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3).

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794953"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431573"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Découvrez comment lire les éléments de ligne dans vos fichiers de rapprochement de l’espace partenaires
 
@@ -41,7 +41,7 @@ Parfois, un fichier de réconciliation peut contenir des problèmes de mise en f
 
 Pour résoudre les problèmes de mise en forme dans vos fichiers de rapprochement, procédez comme suit :
 
-1. Ouvrez le fichier de réconciliation (au format. csv) dans Microsoft Excel.
+1. Ouvrez le fichier de réconciliation (au format .csv) dans Microsoft Excel.
 2. Sélectionnez la première colonne du fichier.
 3. Ouvrez l' **Assistant Conversion de texte en colonnes**. Dans le ruban, sélectionnez **données**, puis sélectionnez **texte pour les colonnes**.
 4. Dans l’Assistant, sélectionnez **type de fichier délimité**. Ensuite, sélectionnez **Suivant**.
@@ -60,7 +60,7 @@ Si vous êtes en mesure de télécharger un fichier de réconciliation sans l’
 ### <a name="open-a-recon-file-in-power-bi"></a>Ouvrir un fichier de rapprochement dans Power BI
 
 1. Téléchargez le fichier de réconciliation comme vous le feriez normalement.
-2. Téléchargez, installez et ouvrez une instance de Power BI.
+2. Téléchargez, installez et ouvrez une instance de Microsoft Power BI.
 3. Sous **l’onglet Power bi** , sélectionnez récupérer des **données**.
 4. Dans la liste des **sources de données courantes**, sélectionnez **texte/CSV**.
 5. Lorsque vous y êtes invité, ouvrez votre fichier de rapprochement.
@@ -71,7 +71,7 @@ Si vous êtes en mesure de télécharger un fichier de réconciliation sans l’
 2. Ouvrez un nouveau fichier dans Microsoft Excel.
 3. Sous l’onglet **données** , sélectionnez **récupérer des données**, sélectionnez **à partir d’un fichier**, puis sélectionnez **texte/CSV**.
 4. Lorsque vous y êtes invité, ouvrez votre fichier de rapprochement. Vos données s’affichent.
-5. Dans le menu déroulant **charger** , sélectionnez **charger sur**, puis **OK**.
+5. Dans le menu déroulant **charger** , sélectionnez **charger sur**, puis cliquez sur **OK**.
 6. Dans la boîte de dialogue **importer des données** , sélectionnez **rapport de tableau croisé dynamique** pour ouvrir votre fichier.
 
 ## <a name="negative-amount-displayed"></a>Montant négatif affiché

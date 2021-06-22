@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 4835a620cd414370525a5c441e0db5a7de1bfed1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818692"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431521"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Mettre à niveau certains clients de formation de Windows 10 famille vers Windows 10 éducation
 
@@ -22,13 +22,13 @@ ms.locfileid: "109818692"
 
 ## <a name="overview"></a>Vue d’ensemble
 
-À partir du 1er novembre 2020, les fournisseurs de services de chiffrement qui ont acheté Microsoft 365 les abonnements a3 ou a5 ou Windows 10 entreprise a3 ou a5 peuvent aider leurs clients de formation à effectuer une mise à niveau de Windows 10 famille vers Windows 10 éducation, conçu pour la classe et l’apprentissage à distance.
+À partir du 1er novembre 2020, les fournisseurs de services Cloud (CSP) qui ont acheté Microsoft 365 les abonnements a3 ou a5 ou Windows 10 entreprise a3 ou a5 peuvent aider leurs clients éducation à effectuer une mise à niveau de Windows 10 famille vers Windows 10 éducation, conçue pour la classe et l’apprentissage à distance.
 
-À compter du 1er novembre 2020, Windows 10 Famille est un système d’exploitation éligible pour les clients Éducation titulaires d’une licence par le biais du contrat Microsoft Cloud (dans le cadre du programme CSP). Cette éligibilité, qui jusqu’à présent n’était disponible que dans les programmes de licence en volume (VL), a été activée par le biais du support du portail d’administration Microsoft 365. 
+À partir du 1er novembre 2020, Windows 10 famille sera un système d’exploitation éligible pour l’éducation des clients titulaires d’une licence par le biais du contrat de Microsoft Cloud (par le biais du programme CSP). Cette éligibilité, qui jusqu’à présent n’était disponible que dans les programmes de licence en volume (VL), a été activée par le biais du support du portail d’administration Microsoft 365. 
 
 ## <a name="how-the-upgrade-process-works"></a>Fonctionnement du processus de mise à niveau
 
-Les partenaires CSP peuvent aider leurs clients à effectuer la mise à niveau en soumettant une demande de support en leur nom. Support Microsoft examinera la demande pour s’assurer que le client est qualifié ; une fois la demande approuvée, la prise en charge fournira la clé de formation Windows 10 Pro au partenaire qui pourra ensuite la transmettre au client.
+Les partenaires CSP peuvent aider leurs clients à effectuer une mise à niveau en soumettant une demande de support en leur nom. Support Microsoft examinera la demande pour s’assurer que le client est qualifié ; une fois la demande approuvée, la prise en charge fournira la clé de formation Windows 10 Pro au partenaire qui pourra ensuite la transmettre au client.
 
 Quand le client installe la clé et que l’appareil est joint au domaine du locataire par le biais d’Azure Active Directory (AAD), l’appareil est automatiquement mis à niveau vers Windows 10 Éducation (abonnement).   
 

@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/04/2021
-ms.openlocfilehash: b73a9acb7b9cf9eee1151de1f8e45f6fd6ef256f
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373473"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431449"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Acheter une offre SaaS dans Portail Azure
 
@@ -114,5 +114,5 @@ Les messages d’erreur que vous pouvez rencontrer pendant le processus sont les
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-- Si vous vendez votre offre par le biais de Microsoft, consultez [Comment ajouter un public de préversion pour votre offre SaaS](/azure/marketplace/create-new-saas-offer-preview).
-- Autrement, consultez [Guide pratique pour vende votre offre SaaS](/azure/marketplace/create-new-saas-offer-marketing).
+- Si vous avez déjà acheté une offre dans la place de marché, accédez à [facturation et](/marketplace/billing-invoicing) facturation.
+- Vous pouvez également en savoir plus sur les options des [plans privés](/marketplace/private-offers) .

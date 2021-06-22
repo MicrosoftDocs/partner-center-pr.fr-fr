@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276499"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431543"
 ---
 # <a name="azure-marketplace-purchasing"></a>Achat sur la place de marché Azure
 
@@ -30,6 +30,9 @@ Une fois que vous avez trouvé l’application logicielle appropriée, l’exéc
 Avant d’effectuer un achat, assurez-vous que l’utilisateur dispose de la configuration appropriée dans le locataire Azure. Cela permet d’éviter les erreurs lors de l’achat.
 
 Dans l’expérience de la place de marché Azure dans le Portail Azure, recherchez l’application que vous souhaitez acheter, puis sélectionnez **créer** ou **configurer + abonnement**. Vous serez invité à compléter certaines informations avant de pouvoir utiliser votre nouvelle solution.
+
+> [!CAUTION]
+> L’approbation sur la place de marché privée n’indique pas l’approvisionnement d’une solution.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="Bouton de création de l’offre.":::
 

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 2b67201355e748f9280d28413a8737a9b07db5c6
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818794"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431499"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Résoudre les problèmes de connexion pour l’espace partenaires
 
@@ -26,7 +26,7 @@ Cet article contient des solutions pour les problèmes de connexion courants de 
 
 Si vous avez oublié votre mot de passe et que vous ne pouvez pas vous connecter à l’espace partenaires, contactez le support technique. Trouvez le contact approprié à la [prise en charge des produits professionnels](/microsoft-365/admin/contact-support-for-business-products).
 
-Si vous êtes un partenaire MPN, demandez à votre administrateur général de créer un nouveau mot de passe pour vous. Si vous êtes un revendeur indirect CSP, demandez à votre fournisseur indirect de créer un administrateur général pour vous sur votre locataire Azure AD ou de créer un nouveau mot de passe pour vous en utilisant les privilèges d’administrateur délégué.
+Si vous êtes un partenaire Microsoft Partner Network (MPN), demandez à votre administrateur général de créer un nouveau mot de passe pour vous. Si vous êtes un revendeur indirect de fournisseur de solutions Cloud (CSP), demandez à votre fournisseur indirect de créer un administrateur global pour vous sur votre locataire Azure Active Directory (AD) ou créez un nouveau mot de passe pour vous en utilisant les privilèges d’administrateur délégué.
 
 Pour en savoir plus sur la façon dont vous pouvez réinitialiser votre mot de passe et récupérer l’accès à votre compte professionnel, consultez [Réinitialiser votre mot de passe professionnel ou scolaire à l’aide des informations de sécurité](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
 
