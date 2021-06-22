@@ -8,12 +8,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 035a819020097ddee2230b5541e1b477d4b34c14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e656f728789bf5b13dd09732b0b2f5ef30de760a
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148463"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112425089"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Vue d’ensemble de la co-vente du connecteur pour Dynamics 365 CRM
 
@@ -111,7 +111,7 @@ Avant d’installer, de configurer et de personnaliser la solution Power automat
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Capture d’écran montrant les connexions listées.":::
 
-1.  Revenez à la page **solutions** , sélectionnez la **synchronisation des références de l’espace partenaires pour Dynamics 365** et activez le Flow en sélectionnant l’icône de points de suspension en regard de chaque Flow dans l’ordre suivant. Si vous rencontrez des problèmes lors de l’activation du Flow, consultez [étapes de personnalisation](connector-dynamics.md#customize-synchronization-steps) et [étapes de dépannage](connectors-troubleshoot.md).
+1. Revenez à la page **solutions** , sélectionnez la **synchronisation des références de l’espace partenaires pour Dynamics 365** et activez le Flow en sélectionnant l’icône de points de suspension en regard de chaque Flow dans l’ordre suivant. Si vous rencontrez des problèmes lors de l’activation du Flow, consultez [étapes de personnalisation](connector-dynamics.md#customize-synchronization-steps) et [étapes de dépannage](connectors-troubleshoot.md).
 
 Activez les flux dans l’ordre suivant :
 
@@ -167,13 +167,13 @@ Les personnalisations suivantes sont disponibles :
 
 - **Code du pays du compte client**: il est obligatoire de fournir un code de pays à deux lettres (ISO 3166) lorsque vous créez une nouvelle référence. Par défaut, l’indicatif du pays est synchronisé vers et à partir du champ **address1_country** du compte dans le CRM. Si vous avez un champ différent dans le CRM pour la synchronisation de l’indicatif du pays :
 
-   - Dans le cas d’un champ indicatif de pays non-recherche dans le compte contenant un code à deux lettres :
-     - Mettez à jour le nom du champ de **Code du pays du compte client** dans la variable d’environnement Dynamics 365 avec le nom de champ de CRM. Assurez-vous de fournir le nom du champ, et non son nom d’affichage.
-     - Modifiez **[personnaliser] créer ou obtenir des détails à partir de Dynamics 365 Flow**, puis cliquez sur **créer ou obtenir un compte client** dans l’action CRM pour affecter une valeur de **pays** au champ approprié dans le CRM. Supprimez également l’attribution de valeur de **pays** dans le champ **adresse 1 : pays/région** .
+  - Dans le cas d’un champ indicatif de pays non-recherche dans le compte contenant un code à deux lettres :
+    - Mettez à jour le nom du champ de **Code du pays du compte client** dans la variable d’environnement Dynamics 365 avec le nom de champ de CRM. Assurez-vous de fournir le nom du champ, et non son nom d’affichage.
+    - Modifiez **[personnaliser] créer ou obtenir des détails à partir de Dynamics 365 Flow**, puis cliquez sur **créer ou obtenir un compte client** dans l’action CRM pour affecter une valeur de **pays** au champ approprié dans le CRM. Supprimez également l’attribution de valeur de **pays** dans le champ **adresse 1 : pays/région** .
 
-   - Pour un champ Code de pays basé sur la recherche dans le compte :
-     - Ajoutez un nouveau champ personnalisé dans le compte et remplissez-le automatiquement avec un code de pays à deux lettres (ISO 3166) en fonction de la valeur sélectionnée dans le champ basé sur la recherche et vice versa.
-     - Suivez les étapes précédentes pour le champ Code pays non-Lookup pour synchroniser un nouveau champ personnalisé à partir du CRM vers et depuis l’espace partenaires.
+  - Pour un champ Code de pays basé sur la recherche dans le compte :
+    - Ajoutez un nouveau champ personnalisé dans le compte et remplissez-le automatiquement avec un code de pays à deux lettres (ISO 3166) en fonction de la valeur sélectionnée dans le champ basé sur la recherche et vice versa.
+    - Suivez les étapes précédentes pour le champ Code pays non-Lookup pour synchroniser un nouveau champ personnalisé à partir du CRM vers et depuis l’espace partenaires.
 
 - **Champs d’opportunité**: si des champs obligatoires doivent être renseignés dans l' **opportunité** , modifiez **[personnaliser] créer ou obtenir des détails à partir de Dynamics 365 Flow** et accédez à **créer ou mettre à jour une opportunité** dans le CRM et mettez à jour **créer une nouvelle action opportunité** pour affecter des valeurs aux champs obligatoires en fonction des besoins de votre entreprise.
 - **Champs de prospect**: Si vous devez renseigner les champs obligatoires du **prospect** , modifiez **[personnaliser] créer ou obtenir des détails à partir de Dynamics 365 Flow** et accédez à **créer ou mettre à jour le prospect** dans le CRM et à mettre à jour **créer une action de prospect** pour affecter des valeurs aux champs obligatoires en fonction des besoins de votre entreprise.
@@ -221,7 +221,7 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
 - Une fois que vous avez ajouté des solutions Microsoft, vous pouvez préremplir les détails de la solution de covente pour que vos vendeurs n’aient pas à les ajouter. Pour ajouter un nouveau détail de solution, accédez à l’objet détails de la solution Microsoft dans le CRM et sélectionnez **Ajouter un enregistrement** pour ajouter une entrée ou utiliser le **Téléchargement Excel** pour ajouter plusieurs entrées.
 
-  :::image type="content" source="images/dynamic-1a.png" alt-text="Capture d’écran montrant les nouveaux détails de la solution Microsoft.":::
+  :::image type="content" source="images/cosellconnectors/dynamics-solution-1.png" alt-text="Capture d’écran montrant les nouveaux détails de la solution Microsoft.":::
 
 ### <a name="scenarios"></a>Scénarios
 
@@ -231,25 +231,25 @@ Les champs personnalisés suivants doivent faire partie de la section CRM :
 
    1. Assurez-vous que la section **Microsoft Partner Center** est présente lorsque vous créez une nouvelle opportunité dans l’environnement Dynamics 365.
 
-      :::image type="content" source="images/dynamic-2a.png" alt-text="Capture d’écran montrant une nouvelle opportunité.":::
+      :::image type="content" source="images/cosellconnectors/dynamics-solution-2.png" alt-text="Capture d’écran montrant une nouvelle opportunité.":::
 
    1. Pour synchroniser cette opportunité avec l’espace partenaires, veillez à définir les champs suivants dans la vue de la carte :
 
       - **Comment Microsoft peut-il vous aider ?**: pour créer une référence de covente, sélectionnez une option d’aide appropriée.
 
-         :::image type="content" source="images/dynamic-3a.png" alt-text="Capture d’écran montrant comment obtenir les champs appropriés en mode carte.":::
+         :::image type="content" source="images/cosellconnectors/dynamics-solution-3.png" alt-text="Capture d’écran montrant comment obtenir les champs appropriés en mode carte.":::
 
       - **Contact client**: pour créer une référence de covente, ajoutez un contact client à l’opportunité.
       - **Synchroniser avec l’espace partenaires**: Oui.
       - **Solutions Microsoft**: pour partager une référence avec Microsoft, ajoutez une solution de covente prête ou Microsoft à l’occasion.
-      
-        :::image type="content" source="images/dynamic-4a.png" alt-text="Capture d’écran montrant l’ID de la solution.":::
+
+        :::image type="content" source="images/cosellconnectors/dynamics-solution-4.png" alt-text="Capture d’écran montrant l’ID de la solution.":::
 
    1. Une fois l’opportunité créée dans Dynamics 365 avec l’option **synchroniser avec le Centre des partenaires** définie sur Oui, patientez 10 minutes. Ensuite, connectez-vous à votre compte espace partenaires. Vos références seront synchronisées avec Dynamics 365 et l' **identificateur de référence**. Le **lien de référence** sera rempli. En cas d’échec, le champ **audit** est rempli avec les informations d’erreur.
-     
-    1. De même, pour une opportunité dans laquelle l’option **synchroniser avec l’espace partenaires** est définie sur Oui, si vous mettez à jour l’opportunité dans Dynamics 365 CRM, les modifications sont synchronisées dans votre compte espace partenaires.
 
-    1. Les opportunités qui sont synchronisées avec succès avec l’espace partenaires sont identifiées avec l’icône ✔ dans Dynamics 365.
+      1. De même, pour une opportunité dans laquelle l’option **synchroniser avec l’espace partenaires** est définie sur Oui, si vous mettez à jour l’opportunité dans Dynamics 365 CRM, les modifications sont synchronisées dans votre compte espace partenaires.
+
+      1. Les opportunités qui sont synchronisées avec succès avec l’espace partenaires sont identifiées avec l’icône ✔ dans Dynamics 365.
 
 1. Synchronisation de la référence lorsque la référence est créée ou mise à jour dans l’espace partenaires et synchronisée dans l’environnement Dynamics 365 :
 
