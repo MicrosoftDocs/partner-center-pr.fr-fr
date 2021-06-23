@@ -9,18 +9,18 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 584f8a7f2794cb64be49fe7f790904eff50c4c26
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5be1c09a26cfcc0d038663e5814ccda7e535d4d1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855099"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551433"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guide de la co-vente dans l’espace partenaires (PC) pour les partenaires qui migrent à partir de Partner vente Connect (PSC)
 
 **Rôles appropriés**: administrateur de compte | Administration des références | Vendeur Partner Sales Connect (PSC) | Administrateur Partner Sales Connect (PSC) | Responsable des ventes Partner Sales Connect (PSC)
 
-Cet article fournit des conseils pour les partenaires qui effectuent des migrations de Partner Sales Connect vers l’espace partenaires afin qu’ils puissent continuer à créer et à gérer les ventes de covente dans l’espace partenaires.
+Cet article fournit des conseils pour les partenaires qui migrent de Partner Sales Connect (PSC) vers l’espace partenaires (PC) afin qu’ils puissent continuer à créer et à gérer les ventes de covente dans l’espace partenaires.
 
 >[!Note]
 > Si vous êtes ici, car vous avez vu une bannière dans PSC sur la migration, vous êtes au bon endroit. Ce guide n’est pas applicable pour les partenaires commerciaux d’évaluation de la solution (SA) et de licence OEM qui gèrent leurs demandes dans PSC.
@@ -42,7 +42,7 @@ Toutefois, il y aura des différences. Les conseils suivants peuvent vous aider 
 - Configurez des comptes d’utilisateur dans l’espace partenaires pour tous les utilisateurs du PSC (rôles administrateur, gestionnaire des affaires et vendeur) et attribuez-leur des [rôles d’administrateur de référence](permissions-overview.md).
 
 >[!IMPORTANT]
-> Assurez-vous que l’ID MPN affiché dans la bannière du PSC est disponible dans la liste des emplacements MPN dans l’espace partenaires.
+> Assurez-vous que l’ID d’Microsoft Partner Network (MPN) affiché dans la bannière du PSC est disponible dans la liste des emplacements MPN dans l’espace partenaires.
 
 :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Image représentant la bannière du PSC dans laquelle les partenaires peuvent trouver l’ID MPN.":::
 
@@ -98,11 +98,11 @@ La table de migration utilisateur contient les informations suivantes :
 - Compte d’utilisateur : ID d’E-mail de l’employé
 - Compte de partenaire PSC : compte auquel l’employé est associé dans PSC
 - Rôle d’utilisateur PSC : l’un des trois rôles affectés à dans le PSC.
-- Emplacement MPN du PC : emplacement pour lequel l’utilisateur recevra des rôles d’ordinateur pertinents. Le compte MPN de partenaire PSC est utilisé pour trouver l’emplacement MPN équivalent dans l’espace partenaires pour affecter des autorisations. L’ensemble de l’organisation indique l’ID MPN vOrg.
-- Rôle d’utilisateur PC : les employés se voient attribuer des rôles en fonction de leurs rôles d’utilisateur PSC. L’administrateur du PSC se verra attribuer des rôles d’administrateur de références dans PC. Le rôle d’utilisateur de références sera attribué au vendeur dans PC. En savoir plus sur les rôles de PC et les utilisateurs avec ces rôles peuvent effectuer cette opération dans l’espace partenaires [ici](permissions-overview.md#manage-referrals)
-- Client AAD de PC : locataire auquel les utilisateurs sont attribués dans l’espace partenaires
+- Emplacement MPN du PC : emplacement pour lequel l’utilisateur recevra les rôles de l’espace partenaires (PC) pertinents. Le compte MPN de partenaire PSC est utilisé pour trouver l’emplacement MPN équivalent dans l’espace partenaires pour affecter des autorisations. L’ensemble de l’organisation indique l’ID MPN vOrg.
+- Rôle d’utilisateur PC : les employés se voient attribuer des rôles en fonction de leurs rôles d’utilisateur PSC. L’administrateur dans PSC se verra attribuer des rôles d’administrateur de références dans l’espace partenaires. Le rôle d’utilisateur de références sera attribué au vendeur dans l’espace partenaires. En savoir plus sur les rôles de l’espace partenaires et sur ce que les utilisateurs de ces rôles peuvent faire dans l’espace partenaires [ici](permissions-overview.md#manage-referrals)
+- Client AAD de PC-client Microsoft Azure Active Directory (Azure AD) auquel les utilisateurs sont attribués dans l’espace partenaires
 - État : il existe trois États possibles pour l’état de la migration.
-    - **Non migré** -l’utilisateur n’a pas de rôle de références de PC affecté
+    - **Non migré** -l’utilisateur n’a pas de rôle de références de l’espace partenaires attribué
     - **Migration** effectuée-l’utilisateur a été migré avec le rôle approprié affecté comme indiqué dans le tableau
     - **Erreur** : impossible de terminer la migration en raison d’une erreur
 
@@ -126,13 +126,13 @@ Parfois, la migration peut échouer et provoquer des erreurs. Voici quelques rai
 
 ## <a name="psc-deals-migration"></a>Migration des contrats PSC
 
-Une fois que vous avez terminé la migration des utilisateurs, utilisez l’Assistant Migration des offres dans la page opportunités de covente pour mettre toutes les transactions ouvertes éligibles de PSC à PC. **Le lien de migration de contrats sera visible uniquement les administrateurs de référence avec une étendue d’organisation entière dans l’espace partenaires.** Un lien nommé **« migration des affaires PSC »** s’affiche en haut à droite de la page opportunités de covente, qui ouvre l’Assistant Migration des transactions.
+Une fois que vous avez terminé la migration des utilisateurs, utilisez l’Assistant Migration des offres dans la page opportunités de covente pour mettre toutes les transactions ouvertes éligibles de PSC à l’espace partenaires. **Le lien de migration de contrats sera visible uniquement les administrateurs de référence avec une étendue d’organisation entière dans l’espace partenaires.** Un lien nommé **« migration des affaires PSC »** s’affiche en haut à droite de la page opportunités de covente, qui ouvre l’Assistant Migration des transactions.
 
 Lisez cette section avant de commencer la migration de la transaction.
 
 **Éligible pour la migration**
 
-Seules certaines affaires sont éligibles pour la migration de PSC vers PC. Cet Assistant de migration est conçu pour aider les partenaires à apporter leurs offres à l’espace partenaires dans lequel ils travaillent toujours activement avec leurs clients pour conclure le contrat. **Seules les demandes qui sont à l’état ouvert créées à partir du 1er janvier 2020 avec des détails de compte de partenaire valides (ID MPN valide) et qui ne sont pas en cours d’inscription sont éligibles pour la migration.**
+Seules certaines affaires sont éligibles pour la migration de PSC vers l’espace partenaires. Cet Assistant de migration est conçu pour aider les partenaires à apporter leurs offres à l’espace partenaires dans lequel ils travaillent toujours activement avec leurs clients pour conclure le contrat. **Seules les demandes qui sont à l’état ouvert créées à partir du 1er janvier 2020 avec des détails de compte de partenaire valides (ID MPN valide) et qui ne sont pas en cours d’inscription sont éligibles pour la migration.**
 
 **Non éligible pour la migration**
 
@@ -142,7 +142,7 @@ Seules certaines affaires sont éligibles pour la migration de PSC vers PC. Cet 
 
 ## <a name="pre-requisites-for-deal-migration"></a>Conditions préalables à la migration des transactions
 
-Avant de commencer la migration des contrats à partir du PC, suivez les instructions ci-dessous pour configurer les transactions dans le PSC en vue d’une migration réussie.
+Avant de commencer la migration des contrats à partir de l’espace partenaires, suivez les instructions ci-dessous pour configurer les transactions dans le PSC en vue d’une migration réussie.
 
 1. Tous les membres de l’équipe des ventes de votre entreprise qui travaillent sur les contrats ouverts sont informés de cette migration.
 2. Les membres de l’équipe des ventes sont formés pour utiliser l’espace partenaires pour la gestion des transactions.
@@ -160,12 +160,12 @@ Vous pouvez utiliser les fonctionnalités de téléchargement et de chargement e
 >[!Note]
 > La migration de la transaction échouera même si les conditions préalables ci-dessus ne sont pas remplies. Toutefois, vous ne pouvez pas modifier l’état de la transaction si l’un des champs requis mentionnés ci-dessus dans l’espace partenaires n’est pas disponible. Vous devrez ensuite entrer toutes les informations requises manquantes dans les offres de l’espace partenaires pour commencer à travailler dessus. **Il est vivement recommandé de nettoyer les demandes éligibles du PSC avant de les migrer vers l’espace partenaires.**
 
-La migration des transactions dans l’espace partenaires s’appuie sur une expérience unique. Il vous suffit de cliquer sur le bouton **« migrer les offres »** une fois que votre entreprise est prête à migrer les demandes éligibles. **Vous ne pouvez pas choisir les contrats que vous souhaitez migrer à partir de PSC. Si vous ne souhaitez pas migrer des transactions vers l’espace partenaires, déplacez-les à l’état fermé dans le PSC avant de commencer la migration.**
+La migration des transactions dans l’espace partenaires est conçue comme une expérience en un clic. Il vous suffit de sélectionner le bouton **« migrer les demandes »** une fois que votre entreprise est prête à migrer les demandes éligibles. **Vous ne pouvez pas choisir les contrats que vous souhaitez migrer à partir de PSC. Si vous ne souhaitez pas migrer des transactions vers l’espace partenaires, déplacez-les à l’état fermé dans le PSC avant de commencer la migration.**
 
 >[!Note]
 > Après l’initialisation de la migration, **la migration des demandes peut prendre jusqu’à 24 heures**.
 
-Une fois la migration terminée, l’état du message de la bannière est changé pour se terminer avec un lien vers le rapport de migration. Téléchargez le rapport pour afficher les détails des transactions qui ont été migrées de PSC à PC.
+Une fois la migration terminée, l’état du message de la bannière est changé pour se terminer avec un lien vers le rapport de migration. Téléchargez le rapport pour afficher les détails des transactions qui ont été migrées de PSC à l’espace partenaires.
 
 Le rapport contient les détails ci-dessous.
 
@@ -175,7 +175,7 @@ Le rapport contient les détails ci-dessous.
 4. **ID de contrat PSC** : identificateur unique dans le PSC pour le contrat.
 5. **Erreurs** : pour indiquer s’il y a une erreur lors de la migration d’une transaction spécifique.
 
-Toutes les transactions qui ont été migrées avec succès ne seront pas visibles dans le PSC. Vous pouvez continuer à travailler sur les contrats migrés sur PC, y compris pour terminer l’inscription des transactions sur PC. Aucune modification n’est apportée aux interactions avec les vendeurs Microsoft pour les ventes de covente.
+Toutes les transactions qui ont été migrées avec succès ne seront pas visibles dans le PSC. Vous pouvez continuer à travailler sur les contrats migrés dans l’espace partenaires, y compris la finalisation de l’inscription des ventes dans l’espace partenaires. Aucune modification n’est apportée aux interactions avec les vendeurs Microsoft pour les ventes de covente.
 
 Les offres migrées à partir de PSC seront disponibles dans les onglets entrant et sortant en fonction de la source de la transaction. Toutes les transactions partagées par votre entreprise sont disponibles sous l’onglet sortant et les offres engagées par Microsoft sont disponibles dans l’onglet entrant de l’espace partenaires. Il y aura deux types de transactions qui seront créées après la migration.
 
@@ -204,11 +204,11 @@ Si votre entreprise n’a pas de PDM, assurez-vous que tous les comptes d’util
 Découvrez comment vendre des produits dans l’espace partenaires.
 Il s’agit d’une étape importante, qui vous aidera à préparer la covente dans l’espace partenaires. Comprenez les flux de travail et les modifications apportées à l’espace partenaires pour que vous puissiez effectivement covendre immédiatement. Commencez par lire ce document entièrement. Un bon ensemble de ressources est également disponible dans la [Galerie d’expérience de la co-vente](https://aka.ms/cosellexperience).
 
-## <a name="major-differences-between-psc-and-pc-workflows"></a>Principales différences entre les flux de travail des PSC et des PC
+## <a name="major-differences-between-psc-and-partner-center-workflows"></a>Principales différences entre le PSC et les flux de travail de l’espace partenaires
 
 |**Scénario**|**Vente des partenaires**|**Espace partenaires**|
 |-----|:-----|:-----|
-|Rôles d'utilisateur|PSC a des rôles d’administrateur, de responsable des transactions et de vendeur.|PC dispose uniquement d’un rôle d' [administrateur de référence](permissions-overview.md#manage-referrals) qui donne des autorisations en lecture et en écriture pour toutes les transactions.|
+|Rôles d'utilisateur|PSC a des rôles d’administrateur, de responsable des transactions et de vendeur.|L’espace partenaires dispose uniquement d’un rôle d' [administrateur de référence](permissions-overview.md#manage-referrals) qui donne des autorisations en lecture et en écriture pour toutes les transactions.|
 |Invitation à Microsoft sur un contrat de covente|Initié par Microsoft seller, il n’y a pas de demande explicite de partenaire.|Le partenaire devra faire une [demande explicite](manage-co-sell-opportunities.md#add-solutions) si une aide du vendeur Microsoft est nécessaire pour une affaire. Le vendeur Microsoft dispose d’une option pour refuser la demande.|
 |Expiry|Il n’existe aucun concept d’expiration de la transaction.|Les contrats de contrats entrants du partenaire expirent dans 14 jours s’ils ne sont pas acceptés par le partenaire. Il en est de même pour les contrats de partenariat sortants où ils peuvent passer à l’État expiré si le vendeur Microsoft n’agit pas sur ceux-ci dans un délai de 14 jours.|
 |Détails du vendeur Microsoft|Visible dès qu’une transaction est créée.|Les détails du vendeur Microsoft sont partagés avec le partenaire uniquement si le vendeur accepte expressément l’invitation pour la co-vendre du partenaire.|
@@ -258,9 +258,9 @@ Comparez les cercles correspondants numérotés entre la capture d’écran prin
 
 **Considérations spéciales :**
 
-- Il n’existe aucun affichage de liste dans l’espace partenaires comme celui de PSC.  Toutes les transactions sont répertoriées en fonction de la date de réception ou de la date de création la plus récente avec les informations sur le client et le type de la transaction. La première affaire de la vue est sélectionnée par défaut. La plupart des valeurs affichées au format de table PSC sont disponibles dans l’affichage détaillé de la transaction sur le PC.
-- Le rôle de la transaction n’est pas un champ obligatoire dans PC. Elle n’est pas affichée ou capturée dans les flux de travail. Elle est automatiquement dérivée du côté du vendeur Microsoft en fonction des solutions ajoutées à la transaction.
-- La date de dernière modification n’est pas affichée sur la page Détails de la référence du PC. Les partenaires peuvent utiliser la fonctionnalité de tri pour trier les transactions en fonction de la date de la dernière mise à jour.
+- Il n’existe aucun affichage de liste dans l’espace partenaires comme celui de PSC.  Toutes les transactions sont répertoriées en fonction de la date de réception ou de la date de création la plus récente avec les informations sur le client et le type de la transaction. La première affaire de la vue est sélectionnée par défaut. La plupart des valeurs affichées dans le format de table PSC sont disponibles dans l’affichage détaillé de la transaction dans l’espace partenaires.
+- Le champ rôle de la transaction n’est pas obligatoire dans l’espace partenaires. Elle n’est pas affichée ou capturée dans les flux de travail. Elle est automatiquement dérivée du côté du vendeur Microsoft en fonction des solutions ajoutées à la transaction.
+- La date de dernière modification n’est pas affichée sur la page Détails de la référence dans l’espace partenaires. Les partenaires peuvent utiliser la fonctionnalité de tri pour trier les transactions en fonction de la date de la dernière mise à jour.
 
 ### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>3-Affichage des détails de la transaction du PSC mappé à l’espace partenaires
 
@@ -275,9 +275,9 @@ Comparez les cercles correspondants sur la capture d’écran du haut (PSC) à l
 
 - Les partenaires peuvent modifier une transaction en sélectionnant le bouton modifier dans l’affichage Détails de l’offre de partenaire (6). Une fois le bouton modifier sélectionné, tous les champs sont modifiables. Vous avez ensuite la possibilité d’enregistrer ou d’annuler les modifications apportées à la transaction.
 - Il n’est pas possible de fermer la transaction en tant que doublon dans l’espace partenaires.
-- Le résultat du client n’est pas disponible dans l’espace partenaires. Tous les détails relatifs aux interactions avec les clients peuvent être mis à jour dans la section Notes de PC.
+- Le résultat du client n’est pas disponible dans l’espace partenaires. Tous les détails relatifs aux interactions avec les clients peuvent être mis à jour dans la section Notes de l’espace partenaires.
 - La date de fermeture de la solution estimée est disponible uniquement pour les contrats IOT OEM dans l’espace partenaires. Ces informations ne sont pas affichées pour d’autres types de transactions.
-- Le programme de licence n’est pas requis sur PC. Ces informations sont déduites automatiquement en fonction des solutions sélectionnées dans le contrat.
+- Le programme de licence n’est pas obligatoire dans l’espace partenaires. Ces informations sont déduites automatiquement en fonction des solutions sélectionnées dans le contrat.
 
 >[!Note]
 >Toute transaction marquée comme conclue ou perdue ne peut pas être modifiée par la suite. Faites preuve de prudence lors du déplacement d’un contrat dans l’un de ces États de terminal.
@@ -371,13 +371,13 @@ Les vendeurs Microsoft sont affectés uniquement après avoir adapté la spécif
 
 ### <a name="13---where-can-i-find-the-opportunity-id"></a>13-où puis-je trouver l’ID d’opportunité ?
 
-L’ID d’opportunité dans PSC est le même que l’ID de contrat dans PC. Vous pouvez trouver l’ID de contrat en regard du nom de la transaction lorsque vous ouvrez une transaction.
+L’ID d’opportunité dans PSC est le même que celui de l’espace partenaires. Vous pouvez trouver l’ID de contrat en regard du nom de la transaction lorsque vous ouvrez une transaction.
 
-### <a name="14---how-can-my-pdm-get-access-to-pc"></a>14-Comment mon PDM peut-il accéder à un PC ?
+### <a name="14---how-can-my-pdm-get-access-to-partner-center"></a>14-Comment mon PDM peut-il accéder à l’espace partenaires ?
 
 L’espace partenaires n’est pas accessible directement à votre prestations contrairement à PSC. Il existe plusieurs options pour activer cette fonctionnalité, comme indiqué ci-dessous.
 
-- Informations OCP : si les prestations affichent simplement les contrats et la progression associés, ils peuvent utiliser le portail OCP Insights pour obtenir une vue d’ensemble de votre organisation. Il s’agit d’un outil interne qui est uniquement disponible pour prestations. Notez que les Insights OCP ne sont pas disponibles pour les utilisateurs de votre entreprise.
+- Informations OCP : si les prestations affichent simplement les contrats et la progression associés, ils peuvent utiliser le portail d’Insights d’un partenaire commercial (OCP) pour obtenir une vue d’ensemble de votre organisation. Il s’agit d’un outil interne qui est uniquement disponible pour prestations. Les Insights OCP ne sont pas disponibles pour les utilisateurs de votre entreprise.
 - Utilisateur invité dans l’espace partenaires : vous pouvez ajouter votre @microsoft.com compte PDM en tant qu’utilisateur invité dans l’espace partenaires et lui affecter un rôle d’administrateur de référence afin qu’il puisse afficher et agir sur les références.
 - Création d’un [utilisateur](./create-user-accounts-and-set-permissions.md#add-a-new-user) dans votre client : vous pouvez créer un nouvel utilisateur dans votre propre locataire et partager ces informations avec le PDM afin qu’il puisse afficher et agir sur des références similaires à d’autres utilisateurs de référence dans votre compte.
 
@@ -386,8 +386,8 @@ L’espace partenaires n’est pas accessible directement à votre prestations c
 Si vous êtes ici, parce que vous avez vu une bannière dans le PSC mentionnant « problème d’association d’ID MPN non valide », vous êtes au bon endroit. Votre compte a peut-être été lié à un ID MPN non valide pour les raisons suivantes
 
 - Votre entreprise ne dispose pas d’un compte de l’espace partenaires.
-- Votre récupération PDM a commis une erreur lors de la saisie de l’ID MPN de votre compte dans les systèmes internes qui lient votre compte PSC à votre compte espace partenaires (MPNID).
-- Votre entreprise n’a pas terminé la migration du centre d’appartenance (PMC) partenaire vers le PC.
+- Votre récupération PDM a commis une erreur lors de la saisie de l’ID MPN de votre compte dans les systèmes internes qui lient votre compte PSC à votre compte espace partenaires (ID MPN).
+- Votre entreprise n’a pas terminé la migration du centre d’appartenance (PMC) partenaire vers l’espace partenaires.
 
 Tout d’abord, recherchez l’ID MPN correct en suivant les étapes ci-dessous.
 

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152951"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551654"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Comment et quand demander un crédit de contrat de niveau de service (SLA) de Microsoft
 
@@ -26,12 +26,12 @@ Vous pouvez demander des **crédits de contrat de niveau de service (SLA)** aupr
 
 Les crédits SLA de Microsoft sont déterminés en fonction du ou des services qui ont été affectés. Par exemple, si votre client dispose d’une suite Office 365, mais uniquement d’une panne SharePoint, le crédit SLA est approuvé uniquement pour SharePoint et non avec l’intégralité du plan du client.
 
-*Les crédits sont évalués au prorata en fonction du service affecté et de la durée de la panne.* Pour connaître les types de scénarios qui sont éligibles pour les crédits du contrat SLA, consultez le document sur les [services en ligne du contrat SLA consolidé](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Ces informations s’appliquent également aux services vendus par le biais du programme fournisseur de solutions Cloud.
+*Les crédits sont évalués au prorata en fonction du service affecté et de la durée de la panne.* Pour connaître les types de scénarios qui sont éligibles pour les crédits du contrat SLA, consultez le document sur les [services en ligne du contrat SLA consolidé](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Ces informations s’appliquent également aux services vendus par le biais du programme fournisseur de solutions Cloud (CSP).
 
 
 ## <a name="request-an-sla-credit"></a>Demander un crédit SLA
 
-*Le partenaire fournisseur de solutions Cloud (CSP) doit soumettre la revendication et toutes les informations requises à la fin du mois civil suivant le mois où l’incident s’est produit.* Par exemple, si l’incident s’est produit le 15 février, Microsoft doit recevoir la revendication et toutes les informations requises avant le 31 mars. Les clients finaux et les revendeurs indirects ne peuvent pas soumettre des demandes de crédit du contrat SLA. le fournisseur indirect ou le partenaire direct Bill doit soumettre des revendications en son nom.
+*Le partenaire CSP doit soumettre la réclamation et toutes les informations requises à la fin du mois civil suivant le mois au cours duquel l’incident s’est produit.* Par exemple, si l’incident s’est produit le 15 février, Microsoft doit recevoir la revendication et toutes les informations requises avant le 31 mars. Les clients finaux et les revendeurs indirects ne peuvent pas soumettre des demandes de crédit du contrat SLA. le fournisseur indirect ou le partenaire direct Bill doit soumettre des revendications en son nom.
 
 >[!NOTE]
 >Les incidents de Conseil ([procédure de vérification de l’intégrité du service Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) ne sont pas éligibles pour les crédits SLA.
@@ -65,7 +65,7 @@ Vous pouvez trouver l’identificateur de l’incident de panne sur la page **se
 | EX | Exchange Online |
 | FO | Protection Exchange Online |
 | SB | Skype entreprise Online (anciennement Lync Online) |
-| Système d’exploitation | Abonnement Office |
+| Système d''exploitation | Abonnement Office |
 | Po | Power BI pour Office 365 |
 | SP | SharePoint Online |
 | Ye | Yammer Enterprise |

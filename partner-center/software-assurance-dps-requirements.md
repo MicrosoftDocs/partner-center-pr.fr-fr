@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 7a4ee8fcb0fe216961dc2e599dc36f2957612b03
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855248"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551569"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Afficher les conditions d’éligibilité pour les approvisionnements des services de planification
 

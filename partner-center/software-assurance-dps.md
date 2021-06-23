@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d5154ad63066cb9d1d3eda8cf78fc059217ca99
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 791443cbcc4d8ee055ae9e4961d5e5329399e436
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854789"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551501"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Retrait des services de planification Software Assurance
 
 **Rôles appropriés**: administrateur général | Administrateur du partenaire MPN
 
 
-Les services de planification sont entièrement mis hors service par le biais des avantages de Software Assurance, mais les clients peuvent continuer à travailler avec des partenaires pour utiliser des jours de service de planification, tandis que les bons sont valides. Il s’agit des dates significatives menant à la mise hors service du programme : 
+L’avantage des services de planification est en cours de retrait des avantages de Software Assurance, mais les clients peuvent continuer à travailler avec des partenaires pour utiliser les services de planification pour les approvisionnements alors que les bons sont valides. Il s’agit des dates significatives menant à la mise hors service du programme : 
 
 - 1er février 2020 : les services de planification ont été mis hors service dans le Cloud.  
 - 1er février 2020 : les bons de formation ne peuvent plus être convertis en jours de service de planification.  
@@ -30,10 +30,10 @@ Les services de planification sont entièrement mis hors service par le biais de
 - 1er janvier 2022 : dernier jour pour que les partenaires échangent des bons de service de planification. Le partenaire aura 60 jours après remboursement pour terminer le processus de demande de paiement.  
 
 >[!NOTE]
->Il n’y a aucune modification du cycle de vie du document. Une fois qu’un document est créé/affecté, la réservation de pièce justificative, l’engagement client et l’échange de pièces justificatives doivent être effectués dans un délai de 180 jours avant l’expiration du document.  Pour plus d’informations sur la planification de la mise hors service du programme, consultez le Forum aux questions disponible [ici](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) pour plus d’informations (connexion requise).  Veuillez adresser vos questions à l’équipe de support des partenaires régionaux : [support partenaires EMEA](mailto:savoucher@msdirectservices.com); [Support général des partenaires](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Il n’y a aucune modification du cycle de vie du document. Une fois qu’un document est créé/affecté, la réservation de pièce justificative, l’engagement client et l’échange de pièces justificatives doivent être effectués dans un délai de 180 jours avant l’expiration du document.  Pour plus d’informations sur la planification de la mise hors service du programme, consultez le Forum aux questions sur le site des [modifications de Software Assurance Benefit (SAB)](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (connexion requise).  Veuillez adresser vos questions à l’équipe de support des partenaires régionaux : [support partenaires EMEA](mailto:savoucher@msdirectservices.com); [Support général des partenaires](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
-### <a name="get-started"></a>Commencer
+### <a name="get-started"></a>Bien démarrer
 
 Si vous ne connaissez pas les services de planification Software Assurance, suivez les étapes ci-dessous. Si vous êtes déjà actif dans le ou les programmes des services de planification, commencez chaque engagement à l’étape 4 (4) ci-dessous.
 
@@ -55,7 +55,7 @@ Pour que les sociétés partenaires et consultants puissent s’inscrire à l’
 **Exigences relatives aux compétences.** Les exigences relatives aux compétences sont spécifiques à l’engagement à remettre. Par exemple, votre entreprise peut être inscrite dans l’offre DDPS (Desktop Deployment Planning Services). Toutefois, vous serez uniquement éligible à la remise d’un engagement spécifique au sein de l’offre DDPS si votre entreprise détient également une compétence éligible pour cet engagement spécifique.
 
 >[!NOTE]
-> Pour en savoir plus sur les conditions d’éligibilité pour des engagement spécifiques, [consultez conditions d’éligibilité pour les approvisionnements de services de planification](software-assurance-dps-requirements.md).
+> Pour en savoir plus sur les conditions d’éligibilité pour les engagement spécifiques, consultez [conditions d’éligibilité pour les approvisionnements de services de planification](software-assurance-dps-requirements.md).
 
 Pour vous aider à vérifier l’éligibilité de votre entreprise à l’inscription à un engagement de services de planification spécifique :
 
@@ -82,17 +82,17 @@ Avant de pouvoir commencer un engagement de service de planification, votre clie
 1. Les clients doivent d’abord activer l’avantage de leur service de planification.
 2. Les clients doivent ensuite créer un bon de service de planification et l’affecter à un chef de projet dans leur entreprise.
 
-Pour obtenir des instructions détaillées que le client doit suivre pour créer le bon et vous l’affecter, consultez l' [étape 4](https://go.microsoft.com/fwlink/?linkid=2115983) du flux de travail. Pour obtenir une vue d’ensemble de l’expérience utilisateur, consultez le [Guide de Software Assurance VLSC](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).
+Pour obtenir des instructions détaillées que le client doit suivre pour créer le bon et vous l’affecter, consultez l' [étape 4](https://go.microsoft.com/fwlink/?linkid=2115983) du flux de travail. Pour obtenir une vue d’ensemble de l’expérience utilisateur, consultez le Guide de la [Software Assurance du centre de gestion des licences en volume (VLSC)](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).
 
 ## <a name="validate-and-reserve-voucher-existing-partners"></a>Valider et réserver le document (partenaires existants)
 
 Une fois qu’un client a attribué un bon à votre société dans le centre de gestion des [licences en volume (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), le client reçoit un e-mail qui comprend l’ID du bon. Le client doit transférer cet e-mail pour que vous disposiez des informations dont vous avez besoin pour réserver le bon.
 
-Lorsque vous avez les détails du document, vous pouvez réserver le bon et planifier l’engagement de planification. Pour obtenir des instructions détaillées sur la procédure à suivre dans le tableau de bord de l’espace partenaires, consultez l' [étape 5](https://go.microsoft.com/fwlink/?linkid=2115983) du flux de travail.
+Lorsque vous avez les détails du document, vous pouvez réserver le bon et planifier l’engagement de planification. Pour obtenir des instructions détaillées, consultez l' [étape 5](https://go.microsoft.com/fwlink/?linkid=2115983) du flux de travail.
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Terminer l’engagement et fournir des livrables à votre client (partenaires existants)
 
-Pour être éligible à la fourniture d’un engagement de services de planification, le consultant doit avoir effectué une ou plusieurs des évaluations techniques ou des examens nécessaires à la compétence éligible de l’engagement. (Pour en savoir plus sur les évaluations ou les examens requis, [consultez conditions d’éligibilité pour les approvisionnements des services de planification](software-assurance-dps-requirements.md).)
+Pour être éligible à la fourniture d’un engagement de services de planification, le consultant doit avoir effectué une ou plusieurs des évaluations techniques ou des examens nécessaires à la compétence éligible de l’engagement. (Pour en savoir plus sur les évaluations ou les examens requis, consultez [conditions d’éligibilité pour les approvisionnements des services de planification](software-assurance-dps-requirements.md).)
 
 Une fois que votre entreprise a terminé l’engagement et fourni les derniers livrables finaux au client, vous devez remplir et soumettre le rapport de saisie semi-automatique en ligne.
 

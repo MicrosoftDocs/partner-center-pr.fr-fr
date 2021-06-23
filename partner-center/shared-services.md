@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: ffec50d53b50bdb6aa2690f1dfcc1bc7312cc3cb
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 40ba485cecce394dc81632d01f8774859690c522
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277298"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551603"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Ajoutez des services partagés partenaires Azure pour que les partenaires puissent acheter des abonnements Azure pour leur propre usage
 
 **Rôles appropriés**: administrateur général | Agent d’administration | Agent des ventes
 
-Azure Partner Shared Services est un nouveau type d’offre proposé aux partenaires dans le cadre du programme Fournisseur de solutions Cloud. Il leur permet d’acheter des abonnements Azure pour leur propre usage.Il permet aux partenaires d’utiliser une méthode uniforme pour l’achat, le suivi et la gestion d’Azure, en plus de la possibilité de consolider leurs contrats de licence et de revente Azure avec Microsoft. Avec les services partagés partenaires Azure, les partenaires ont désormais la même flexibilité pour utiliser les abonnements Azure dans CSP que dans les programmes Microsoft Contrat Entreprise et Web direct, en ouvrant des scénarios tels que les environnements de développement et de test, de déployer des charges de travail internes et d’héberger des services partagés ou des applications mutualisées.  
+Azure Partner Shared Services (APSS) est un nouveau type d’offre pour les partenaires du programme fournisseur de solutions Cloud (CSP), qui permet aux partenaires d’acheter des abonnements Azure pour leur propre usage.Il permet aux partenaires d’utiliser une méthode uniforme pour l’achat, le suivi et la gestion d’Azure, en plus de la possibilité de consolider leurs contrats de licence et de revente Azure avec Microsoft. Avec APSS, les partenaires ont désormais la même flexibilité pour utiliser les abonnements Azure dans CSP que dans les programmes Microsoft Contrat Entreprise et Web direct, en ouvrant des scénarios tels que : créer des environnements de développement et de test, déployer des charges de travail internes et héberger des services partagés ou des applications mutualisées.  
 
 ## <a name="create-the-shared-services-tenant"></a>Créer le locataire de services partagés
 
@@ -28,7 +28,7 @@ Azure Partner Shared Services est un nouveau type d’offre proposé aux part
 
    :::image type="content" source="images/sharedservices2.png" alt-text="Paramètres de compte > les services partagés":::
 
-2. Si vous ne disposez pas déjà d’un locataire de services partagés, cliquez sur **créer des services partagés**.
+2. Si vous ne disposez pas déjà d’un locataire de services partagés, sélectionnez **créer des services partagés**.
 
    :::image type="content" source="images/sharedservices3.png" alt-text="Créer des services partagés.":::
 
@@ -54,11 +54,11 @@ Vous trouverez la consommation Azure sur votre facture CSP et le fichier de réc
 
 ## <a name="azure-partner-shared-services-pricing"></a>Tarification des services partagés des partenaires Azure
 
-Pour afficher le nouveau fichier de tarification pour les services partagés partenaires Azure, accédez à la page **vendre** des  >  **tarifs et des offres** , puis sélectionnez la liste des prix du mois en cours. Dans les semaines à venir, une API de carte à tarif spécifique sera également publiée.
+Pour afficher le nouveau fichier de tarification pour APSS, consultez la page **vendre** des  >  **tarifs et des offres** , puis sélectionnez la liste des prix du mois en cours. Dans les semaines à venir, une API de carte à tarif spécifique sera également publiée.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Offres de la place de marché et services partagés partenaires Azure
 
-Depuis le 1er mars 2019, Azure Partner Shared Services (APSS) ne prend plus en charge les offres de la place de marché.
+Depuis le 1er mars 2019, APSS ne prend plus en charge les offres de la place de marché.
 
 |**Support technique de la place de marché**   |**APSS pris en charge avant le 1er mars 2019**|**Après le 1er mars 2019**|
 |---------------------------|:----------------------------|:-------------------|

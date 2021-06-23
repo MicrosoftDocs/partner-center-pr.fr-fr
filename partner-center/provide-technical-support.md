@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854993"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551229"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fournir un support technique pour aider les clients à configurer, gérer et utiliser leurs abonnements
 
 
 **Rôles appropriés**: administrateur général | Administrateur de gestion des utilisateurs | Agent du support technique | Agent d’administration
 
-En tant que partenaire du fournisseur de solutions Cloud, vous avez délégué des privilèges d’administrateur qui vous donnent accès aux environnements de vos clients. Ces privilèges vous permettent de prendre en charge, de configurer et de gérer directement les abonnements de vos clients.
+En tant que partenaire fournisseur de solutions Cloud (CSP), vous disposez de privilèges d’administrateur délégués qui vous permettent d’accéder aux environnements de vos clients. Ces privilèges vous permettent de prendre en charge, de configurer et de gérer directement les abonnements de vos clients.
 
 Dans l’Espace partenaires, vous pouvez&nbsp;:
 

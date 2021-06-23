@@ -4,25 +4,25 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En savoir plus sur les conditions requises pour les partenaires de facturation directe et la procédure à suivre pour éviter que des fonctionnalités soient limitées. Déterminez si vos fonctionnalités ont été limitées.
+description: En savoir plus sur les conditions requises pour les partenaires de facturation directe du fournisseur de solutions Cloud et sur la procédure à suivre pour éviter la restriction des fonctionnalités. Déterminez si vos fonctionnalités ont été limitées.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e5bc33101809a805ba591be5a9b51d8dfff2397b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855486"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551416"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Fonctionnalités de facture directe restreintes et exigences requises pour les partenaires de facturation directe de fournisseurs de solutions Cloud
 
-**Rôles appropriés**: administrateur général
+**Rôles appropriés** : administrateur général
 
 ## <a name="overview"></a>Vue d’ensemble
 
-Les partenaires de facturation directe doivent répondre aux nouvelles [exigences](direct-partner-new-requirements.md) pour rester dans le programme de partenaire de facture directe du fournisseur de solutions Cloud. Dans le cas contraire, leur accès aux fonctionnalités de facturation directe finira par être limité et ils ne pourront plus effectuer des tâches spécifiques comme procéder à de nouveaux achats pour leurs clients.
+Les partenaires de facturation directe doivent remplir les [conditions requises](direct-partner-new-requirements.md) pour rester dans le programme de partenariat direct du fournisseur de solutions Cloud (CSP). Dans le cas contraire, leur accès aux fonctionnalités de facturation directe finira par être limité et ils ne pourront plus effectuer des tâches spécifiques comme procéder à de nouveaux achats pour leurs clients.
 
 > [!Note]
 > Les partenaires directs qui ne remplissent pas les nouvelles conditions requises pour le programme de partenaire de facturation directe sont informés par Microsoft lorsque leurs fonctionnalités de facture directe sont limitées. Cela s’applique à tous les partenaires de facturation directe, qu’ils aient opté pour [la transition entre le partenaire direct Bill et les revendeurs indirects](transition-direct-to-indirect.md) .  
@@ -33,7 +33,7 @@ Pour vérifier si l’accès du locataire du partenaire de facturation directe a
 
 1. Connectez-vous au [tableau de bord de l’Espace partenaires](https://partner.microsoft.com/dashboard).
 
-2. Accédez à **paramètres du compte**  ->  **Profil légal**.
+2. Accédez à **paramètres du compte**  >  **Profil légal**.
 
 3. Sous **informations sur le programme**, recherchez **Microsoft Cloud État du fournisseur de solutions**.
 
@@ -53,7 +53,7 @@ Si vos capacités de facturation directe ont été restreintes, vous ne pouvez p
 
 Vous ne pouvez pas non plus utiliser l' [offre de services partagés de partenaires Azure](shared-services.md) dans le cadre du programme CSP pour acheter de nouveaux abonnements Azure pour votre usage personnel.
 
-Les abonnements à facture directe existants ne sont pas affectés. Ils restent valides et sont renouvelés automatiquement. Vous continuerez à être facturé directement par Microsoft jusqu’à ce qu’il soit annulé. Vous pouvez toujours gérer les abonnements existants des manières suivantes :
+Les abonnements à facture directe existants ne sont pas affectés. Ils restent valides et sont renouvelés à l’autorenouvellement. Vous continuerez à être facturé directement par Microsoft jusqu’à ce qu’il soit annulé. Vous pouvez toujours gérer les abonnements existants des manières suivantes :
 
 - Suspendre les abonnements existants
 

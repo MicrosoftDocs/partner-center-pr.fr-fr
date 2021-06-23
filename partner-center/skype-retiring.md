@@ -1,5 +1,5 @@
 ---
-title: Migrer des abonnements Skype entreprise
+title: Migrer les abonnements Skype entreprise
 description: Découvrez comment et quand migrer certains clients avec l’expiration des abonnements Skype for Business Online plan 1 aux nouvelles versions d’Office 365.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 0e8289ad06dbc8a95f5cff22ca386176d6ba65ab
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: a8de5b824a24b07607b5365848ec1027ca0d08e8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854823"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551535"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrer des abonnements Skype Entreprise Online Plan 1 vers une version plus récente d'Office 365
 
@@ -27,7 +27,7 @@ Pour garantir la continuité des clients, vous devez faire passer les clients av
 >[!NOTE]
 >Skype entreprise Online plan 1 références SKU commerciales et gouvernementales sont retirées.
 
-Si vous utilisez l’API (CREST ou Partner Center), recherchez les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement, ainsi que la propriété renouvellement automatique = faux. Les abonnements Skype entreprise Online plan 1 seront configurés pour un renouvellement automatique = faux le 1er septembre 2018. Vous pouvez déplacer les clients vers un nouveau plan à tout moment. 
+Si vous utilisez l’API (REST de commerce (CREST) ou l’espace partenaires), recherchez les abonnements arrivant à expiration en évaluant la date de fin de l’abonnement, ainsi que la propriété renouvellement automatique = faux. Les abonnements Skype entreprise Online plan 1 seront configurés pour un renouvellement automatique = faux le 1er septembre 2018. Vous pouvez déplacer les clients vers un nouveau plan à tout moment. 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Plans de remplacement du plan 1 de Skype entreprise Online
 
