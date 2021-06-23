@@ -9,18 +9,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 212eef8294b7d293a9bc9f55b56498e12e3f402a
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711811"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489932"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Participer aux programmes Software Assurance, y compris les bons de formation et les services de planification
 
 La participation aux programmes Software Assurance, y compris les bons de formation Software Assurance (SATV) et les services de planification, vous offre la possibilité de développer votre activité avec les clients d’entreprise Microsoft. 
 
-- En tant que partenaire des bons de formation Software Assurance, Microsoft vous compensera à fournir une formation technique dirigée par un instructeur et développée par des experts Microsoft. 
+- En tant que partenaire SATV, Microsoft vous compensera à fournir une formation technique dirigée par un instructeur et développée par des experts Microsoft. 
 
 - En tant que partenaire des services de planification, Microsoft vous compensera aux engagement de planification de l’implémentation prédéfinis. 
 

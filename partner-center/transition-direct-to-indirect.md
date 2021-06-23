@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Découvrez comment un partenaire de programme CSP peut utiliser l’espace partenaires pour passer du partenaire de facturation directe au revendeur indirect.
+description: Découvrez comment un partenaire du programme fournisseur de solutions Cloud (CSP) peut utiliser l’espace partenaires pour passer du partenaire de facturation directe au revendeur indirect.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 205451a1c42c6538936df49ba8a4314372a94082
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276414"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490051"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Passer de partenaire de facturation direct CSP à revendeur indirect CSP
 
@@ -22,13 +22,13 @@ ms.locfileid: "112276414"
 
 >[!Note]
 >Cet article s’adresse aux partenaires directs qui ont décidé de passer aux revendeurs indirects. Toutefois, même si vous n’avez pas encore décidé de vous inscrire en tant que revendeur indirect, les partenaires commerciaux directs qui ne satisfont pas aux nouvelles [conditions requises](direct-partner-new-requirements.md) pour le programme de partenaire de facture directe du CSP seront informés par Microsoft lorsque leurs [fonctionnalités de facture directe seront limitées](restricted-direct-bill-capabilities.md).
-<br>Depuis le 2021 janvier, une nouvelle exigence de chiffre d’affaires sera ajoutée. Les partenaires inscrits en tant que partenaires de facturation directe doivent avoir traité au moins USD $300 000 dans le chiffre d’affaires du programme fournisseur de solutions Cloud au cours des 12 mois précédents.
+<br>Depuis le 2021 janvier, une nouvelle exigence de chiffre d’affaires sera ajoutée. Les partenaires inscrits en tant que partenaires d’une facture directe doivent avoir traité au moins USD $300 000 dans le chiffre d’affaires du programme CSP au niveau du compte global du partenaire au cours des 12 mois précédents.
 
 Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre locataire direct Bill existant.
 
 ## <a name="get-started"></a>Bien démarrer
 
-1. Vérifiez que votre profil de partenaire dans l’espace partenaires et l’ID MPN sont à jour.
+1. Assurez-vous que votre profil de partenaire dans l’espace partenaires et l’ID d’Microsoft Partner Network (MPN) sont à jour.
 
 2. Connectez-vous à l’espace partenaires en tant qu’administrateur général du locataire direct Bill que vous passez au revendeur indirect.
 
@@ -38,7 +38,7 @@ Vous pourrez vous inscrire au programme Reseller indirect à l’aide de votre l
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Inscrivez-vous maintenant.":::
 
-4. Sélectionnez S’inscrire maintenant. Votre entreprise revendeur indirect utilise le même client AAD que celui que vous utilisez pour votre activité directe.
+4. Sélectionnez S’inscrire maintenant. Votre entreprise revendeur indirect utilise le même client Microsoft Azure Active Directory (Azure AD) que celui que vous utilisez pour votre activité directe.
 
     > [!NOTE]
     > Dans un premier temps, cette nouvelle fonctionnalité de transition sera disponible pour les partenaires dont la date anniversaire survient entre septembre et décembre. Si vous n’avez pas de date anniversaire comprise entre le mois de septembre et le mois de décembre, vous ne verrez pas la fonctionnalité pour l’instant. Les partenaires dont la date anniversaire survient après décembre 2018 recevront une notification lorsque la fonctionnalité sera activée pour eux.
@@ -169,15 +169,15 @@ Pour utiliser cette fonctionnalité sur un locataire client existant :
 
 1. Connectez-vous à l’espace partenaires en tant qu' **agent d’administration**.
 
-2. Dans la **page clients**, sélectionnez un client existant et cliquez sur l’icône **des liens rapides** pour développer la vue Résumé du client.
+2. Dans la **page clients**, sélectionnez un client existant et sélectionnez son icône de **liens rapides** pour développer la vue Résumé du client.
 
-3. Sous **fournisseurs indirects**, cliquez sur **transférer le client sur un fournisseur indirect**.
+3. Sous **fournisseurs indirects**, sélectionnez **transférer le client sur un fournisseur indirect**.
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Transférez le client vers un fournisseur indirect.":::
 
 4. Dans la boîte de dialogue contextuelle, sélectionnez le **fournisseur indirect** pour lequel vous souhaitez avoir une relation de revendeur avec le client.
 
-5. Cliquez sur **Enregistrer et continuer**.
+5. Sélectionnez **Enregistrer et continuer**.
 
 6. Vérifiez que le fournisseur indirect sélectionné apparaît sous un **ou plusieurs fournisseurs indirects**.
 
@@ -231,7 +231,7 @@ En mode indirect CSP, les revendeurs indirects n’ont pas de relations de factu
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>Comment passer à l’état du revendeur indirect
 
-La fonctionnalité est un processus en 4 étapes, où :
+La fonctionnalité est un processus en quatre étapes, où :
 
 - Le partenaire de transition crée une demande de transfert d’abonnement. La demande contient un ou plusieurs abonnements existants associés au même client et est adressé à un fournisseur indirect.
 
@@ -260,15 +260,15 @@ Pour créer une demande de transfert en tant que partenaire de transition :
 
 1. Connectez-vous à l’espace partenaires en tant qu' **agent d’administration**.
 
-2. Dans la page **clients** , sélectionnez le client souhaité, puis cliquez sur l’icône des liens rapides pour développer la vue Résumé du client.
+2. Dans la page **clients** , sélectionnez le client souhaité et sélectionnez l’icône des liens rapides pour développer la vue Résumé du client.
 
 3. Sous **fournisseurs indirects**, vérifiez que le fournisseur indirect attendu est listé.
 
-4. Cliquez sur **afficher les abonnements**.
+4. Sélectionnez **afficher les abonnements**.
 
 5. Dans la page **abonnements** , recherchez le **transfert d’abonnement**.
 
-6. Sous **transfert d’abonnement**, cliquez sur **demander un transfert d’abonnement**.
+6. Sous **transfert d’abonnement**, sélectionnez **demander un transfert d’abonnement**.
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Demander un transfert d’abonnement.":::
 
@@ -276,7 +276,7 @@ Pour créer une demande de transfert en tant que partenaire de transition :
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Créer une demande de transfert.":::
 
-8. Cliquez sur **Créer**.
+8. Sélectionnez **Create** (Créer).
 
 9. Une demande de transfert d’abonnement active s’affiche sous **transfert d’abonnement**.
 
@@ -290,19 +290,19 @@ Pour examiner et accepter une demande de transfert en tant que fournisseur indir
 
 1. Connectez-vous à l’espace partenaires en tant qu’agent d' **administration** ou **agent commercial**.
 
-2. Dans la page **clients** , sélectionnez le client souhaité, puis cliquez sur l’icône des liens rapides pour développer la vue Résumé du client.
+2. Dans la page **clients** , sélectionnez le client souhaité et sélectionnez son icône de liens rapides pour développer la vue Résumé du client.
 
 3. Sous **revendeurs indirects**, confirmez que le partenaire de transition est listé.
 
-4. Cliquez sur **afficher les abonnements**.
+4. Sélectionnez **afficher les abonnements**.
 
 5. Dans la page **abonnements** , recherchez le **transfert d’abonnement**.
 
     :::image type="content" source="images/direct/direct11.png" alt-text="Affichez la demande de transfert.":::
 
-6. Sous **transfert d’abonnement**, cliquez sur la demande de transfert à passer en revue.
+6. Sous **transfert d’abonnement**, sélectionnez la demande de transfert à passer en revue.
 
-7. Cliquez sur **accepter** (ou **rejeter**) selon le cas.
+7. Sélectionnez **accepter** (ou **rejeter**) selon le cas.
 
     :::image type="content" source="images/direct/direct12.png" alt-text="Accepter la demande de transfert.":::
 
@@ -320,9 +320,9 @@ Le partenaire de transition doit effectuer les opérations suivantes :
 
 1. Connectez-vous à l’espace partenaires en tant qu' **agent d’administration** ou **agent commercial**.
 
-2. Dans la page **clients** , sélectionnez le client souhaité, puis cliquez sur l’icône **des liens rapides** pour développer la vue Résumé du client.
+2. Dans la page **clients** , sélectionnez le client souhaité et sélectionnez l’icône **des liens rapides** pour développer la vue Résumé du client.
 
-3. Cliquez sur **afficher les abonnements**.
+3. Sélectionnez **afficher les abonnements**.
 
 4. Dans la page **abonnements** , recherchez le **transfert d’abonnement**.
 

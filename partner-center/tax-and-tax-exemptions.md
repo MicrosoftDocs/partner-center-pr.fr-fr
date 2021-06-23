@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 93d2f4c2a1fb1f4c6de1cb8759cab0df85c3ceea
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856030"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489915"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>En savoir plus sur les taxes et les détails d’exemption de taxe par région ou pays pour les partenaires dans le programme CSP
 
-**Rôles appropriés**: administrateur général
+**Rôles appropriés** : administrateur général
 
 Le programme fournisseur de solutions Cloud (CSP) est un canal de vente axé sur la revente des produits partenaires. Par conséquent, Microsoft n’est pas toujours obligé de facturer les taxes sur les factures des partenaires. Les règles varient en fonction du pays et/ou de la région. Vous pouvez consulter [les détails spécifiques au pays et à la région pour les exemptions de taxe](#country-and-region-tax-details).
 
@@ -33,9 +33,9 @@ Si vous êtes dans un autre pays ou région dont les taxes sont facturées, cons
 
 ### <a name="canada"></a>Canada
 
-La plupart des revendeurs ne sont pas exonérés des taxes&nbsp;GST/HST/QST. Consultez votre conseiller fiscal pour déterminer si vous êtes éligible à l’exemption et la documentation que vous devez fournir à Microsoft.
+La plupart des revendeurs ne sont pas exemptés de la taxe sur les biens et services (TPS)/Harmonized Sales Tax (TVH)/Quebec Sales Tax (QST). Consultez votre conseiller fiscal pour déterminer si vous êtes éligible à l’exemption et la documentation que vous devez fournir à Microsoft.
 
-Pour une exemption de fichier PST BC, dépensez une exemption fiscale comme décrit. Indiquez votre numéro BC&nbsp;PST ou remplissez et signez un *certificat d’exonération générale*.
+Pour une exonération de la taxe sur les ventes (PST) BC, fichier une exemption de taxe comme décrit. Indiquez votre numéro BC&nbsp;PST ou remplissez et signez un *certificat d’exonération générale*.
 
 ### <a name="united-states"></a>États-Unis
 

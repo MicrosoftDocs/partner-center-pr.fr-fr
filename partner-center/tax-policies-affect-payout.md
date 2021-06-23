@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: a93e94912f840e4cb69c3cc834f03af1b34f19aa
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 32c5cda9558aaaeddaf194eb8258ba732e2ac698
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856013"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489966"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Impact des stratégies de taxes sur le paiement pour la place de marché Azure
 
@@ -20,7 +20,7 @@ ms.locfileid: "109856013"
 
 ## <a name="introduction"></a>Introduction
 
-La place de marché commercial Microsoft a une portée mondiale. Les transactions se produisent dans les limites et selon l’emplacement de l’ISV et du client, les implications fiscales peuvent varier. Microsoft AppSource et la place de marché Azure utilisent les informations de profil fiscal de l’espace partenaires pour déterminer le pays de l’ISV. Pour déterminer le pays du client, utilisez les informations de facturation du client ou, si le client se trouve dans l’Union européenne, nous utilisons deux informations différentes.
+La place de marché commercial Microsoft a une portée mondiale. Les transactions se produisent dans les limites et selon l’emplacement de l’éditeur de logiciels indépendant (ISV) et du client, les implications fiscales peuvent varier. Microsoft AppSource et la place de marché Azure utilisent les informations de profil fiscal de l’espace partenaires pour déterminer le pays de l’ISV. Pour déterminer le pays du client, utilisez les informations de facturation du client ou, si le client se trouve dans l’Union européenne, nous utilisons deux informations différentes.
 
 Pour mieux comprendre les scénarios suivants, reportez-vous à la table des [Détails fiscaux](tax-details-marketplace.md) , qui indique si Microsoft collecte et paye les taxes pour le compte du serveur de publication ou si cette responsabilité appartient au serveur de publication.
 
@@ -63,7 +63,7 @@ Pour plus d’informations sur la tarification spécifique aux pays (par exemple
 
 ## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Le serveur de publication étranger vend à un client inscrit à la TVA UE dans un pays géré par Microsoft (en dehors de l’Irlande)
 
-**Scénario F** : toutes les transactions entre les éditeurs étrangers et les clients inscrits à la TVA UE (en dehors de l’Irlande) dans un pays Microsoft-Managed. Le client ne paie pas d’impôt sur la vente.
+**Scénario F** : toutes les transactions entre les serveurs de publication étrangers et les clients inscrits à la valeur ajoutée (TVA) UE (en dehors de l’Irlande) dans un pays Microsoft-Managed. Le client ne paie pas d’impôt sur la vente.
 
 :::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Affiche le flux de travail du scénario de processus de paiement F.":::
 

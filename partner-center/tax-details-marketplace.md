@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277757"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490017"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Détails des taxes pour les éditeurs de la place de marché commerciale
 
@@ -54,7 +54,7 @@ Dans les **pays de revendeurs**, Microsoft agit en tant que revendeur, plutôt q
 |Bénin|Féroé (îles)|Maldives|
 |Bermudes|Fidji (îles)|Mali|
 |Bhoutan|Gabon|Marshall (Îles)|
-|Bolivie|Ghana|Martinque|
+|Bolivie|Ghana|Martinique|
 |Bonaire|Géorgie|Mauritanie|
 |Bosnie-&-Herzégovine|Gibraltar|Maurice|
 |Botswana|Groenland|Ma OTE|
@@ -98,7 +98,7 @@ Tchéquie|Lettonie|Russie|UAE|
 
 |**Pays**|**Place de marché commercial (place de marché Azure & AppSource)**| **Place de marché grand public (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brésil|Revendeur, sauf : serveur de publication géré pour les achats effectués par le biais du scénario d’achat du client CSP|Géré par les développeurs, sauf : revendeur pour les achats effectués via des appareils s’exécutant sur Windows 10|
+|Brésil|Revendeur, sauf : serveur de publication géré pour les achats effectués par le biais du scénario d’achat client du fournisseur de solutions Cloud (CSP)|Géré par les développeurs, sauf : revendeur pour les achats effectués via des appareils s’exécutant sur Windows 10|
 |Mexique|Microsoft Managed except : revendeur pour les achats par le biais du scénario d’achat du client contrat entreprise|Managée par Microsoft|
 |Australie|Microsoft Managed except : revendeur pour les achats par le biais du scénario d’achat du client contrat entreprise|Managée par Microsoft|
 Chine|Marketplace non activée|Revendeur activé, sauf : développeur géré pour les appareils de communication mobiles exécutant Windows Phone 7. x et sur les ordinateurs personnels exécutant Windows 8. x|
@@ -126,15 +126,15 @@ Microsoft collecte des taxes sur les frais de stockage dans les pays suivants, o
 
 ### <a name="end-customer-taxation"></a>Fiscalité des clients finaux
 
-- Scénario 1 : client dans une offre d’achat de pays géré par un éditeur
+- Scénario 1 : le client d’un pays géré par un éditeur achète une offre
 
   :::image type="content" source="images/tax/scenario-one.png" alt-text="Graphique illustrant le mode de paiement de l’éditeur.":::
 
-- Scénario 2 : client dans une offre de pays géré par Microsoft (pays du serveur de publication sans pertinence)
+- Scénario 2 : le client d’un pays géré par Microsoft achète une offre (pays du serveur de publication sans pertinence)
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Graphique présentant les taxes dans le pays géré par Microsoft.":::
 
-- Scénario 3 : un serveur de publication étranger effectue une vente entre frontières à un client inscrit à la TVA UE situé dans un pays géré par Microsoft
+- Scénario trois : un serveur de publication étranger effectue une vente entre frontières à un client inscrit dans un pays géré par Microsoft.
 
   :::image type="content" source="images/tax/scenario-three.png" alt-text="Graphique illustrant la manière dont l’UE-VAT affecte les taxes."::: 
 
@@ -142,17 +142,17 @@ Microsoft collecte des taxes sur les frais de stockage dans les pays suivants, o
 
   :::image type="content" source="images/tax/scenario-four.png" alt-text="Graphique illustrant la façon dont la TVA est gérée.":::
 
-- Scénario cinq : un client dans un pays géré par Microsoft achète une offre où les frais de service du magasin sont fiscaux
+- Scénario 5 : le client d’un pays géré par Microsoft achète une offre pour laquelle il y a des frais fiscaux sur les frais de service du magasin
 
   :::image type="content" source="images/tax/scenario-five.png" alt-text="Graphique illustrant la façon dont les frais de service du magasin affectent les taxes.":::
 
 ### <a name="withholding-tax"></a>Impôt à la source
 
-- Scénario 1 : le serveur de publication étranger (sans les avantages du traité fiscal en vigueur sur le profil fiscal) fait une vente aux clients américains. 
+- Scénario 1 : le serveur de publication étranger (sans les avantages du traité fiscal applicable au profil fiscal) fait une vente au client américain. 
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Graphique présentant les taxes de retenue sans le traité fiscal.":::
 
-- Scénario 2 : le serveur de publication étranger (avec les avantages du traité fiscal applicables sur le profil d’impôt à zéro taux de change) avec un traité fait la vente au client. 
+- Scénario 2 : le serveur de publication étranger (avec les avantages du traité fiscal applicable sur le profil d’impôt à zéro taux de change) avec un traité fait une vente au client des États-Unis. 
 
   :::image type="content" source="images/tax/withholding-two.png" alt-text="Graphique représentant la retenue à la taxe avec le traité fiscal.":::
 

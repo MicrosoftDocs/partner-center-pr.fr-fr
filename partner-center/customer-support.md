@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450745"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489881"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Fournir différents types de support à vos clients
 
@@ -36,7 +36,7 @@ Les clients CSP ne peuvent pas créer eux-mêmes des tickets de support. Ils doi
 
   - [Support premier pour les partenaires (PSfP)](https://partner.microsoft.com/support/microsoft-services-premier-support) (frais de base, à utiliser pour tous les produits)
 
-  - [Support avancé pour les partenaires (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (frais de base, utilisation pour les produits Cloud uniquement)
+  - [Support avancé pour les partenaires (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) (frais de base, utilisation pour les produits Cloud uniquement)
 
   - [Support du Cloud de signature](manage-your-partner-network-benefits.md) (inclus avec les avantages MPN pour les compétences Gold ou Silver, utilisez uniquement pour les produits Cloud. Voir les [avantages techniques](mpn-benefits-technical-support.md))
 

@@ -7,12 +7,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854721"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490068"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Taxes régionales, réglementations relatives aux services de réseau public commuté (PTSN)
 
@@ -26,7 +26,7 @@ Demandez à vos conseillers juridiques de comprendre la responsabilité de votre
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Présentation des factures et fichier de rapprochement des partenaires
 
-Les factures CSP et les fichiers de conciliation CSP dans le États-Unis, Porto Rico et Canada, qui incluent Skype for Business RTPC et Microsoft 365 Voice services, fournissent des éléments de ligne distincts pour les composants RTPC et non-RTC.
+Les factures du fournisseur de solutions Cloud (CSP) et les fichiers de conciliation CSP dans le États-Unis, Porto Rico et Canada, qui incluent Skype for Business RTPC et Microsoft 365 Voice services, fournissent des éléments de ligne distincts pour les composants RTPC et non-RTC.
 
 En outre, les factures CSP affichent la note de bas de page suivante :
 
@@ -45,7 +45,7 @@ Office 365 Enterprise E5 présente le fichier de rapprochement sous la forme de 
 
 **Exemple de #2 de rapprochement des partenaires**
 
-Microsoft 365 Business Voice disponible dans le Canada possède des composants de passerelle RTPC supplémentaires qui sont consolidés sur une facture CSP (similaire à Office 365 E5, deux éléments de ligne sont présentés, l’un pour les composants RTPC et l’autre pour les composants non-RTPC).  Le fichier de rapprochement des fournisseurs de services Cloud pour Microsoft 365 Business Voice affiche tous les composants de RTPC taxables individuellement (les composants RTPC individuels ne sont pas consolidés dans. CSV ou l’outil API).  La somme des détails de la commande et des montants facturés pour les clients qui se trouvent dans le fichier de rapprochement correspond à la facture du fournisseur de services Cloud.
+Microsoft 365 Business Voice disponible dans le Canada possède des composants de passerelle RTPC supplémentaires qui sont consolidés sur une facture CSP (similaire à Office 365 E5, deux éléments de ligne sont présentés, l’un pour les composants RTPC et l’autre pour les composants non-RTPC).  Le fichier de rapprochement des fournisseurs de services Cloud pour Microsoft 365 Business Voice affiche tous les composants de RTPC taxables individuellement (les composants RTPC individuels ne sont pas consolidés dans .CSV ou l’outil API).  La somme des détails de la commande et des montants facturés pour les clients qui se trouvent dans le fichier de rapprochement correspond à la facture du fournisseur de services Cloud.
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 Pour plus d’informations, visitez le site [Microsoft 365 pour les partenaires](https://www.microsoft.com/microsoft-365/partners/) .

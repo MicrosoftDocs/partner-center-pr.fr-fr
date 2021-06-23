@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855979"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489898"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Déplacez les clients basés sur des licences à partir d’autres canaux & partenaires vers le programme du fournisseur de solutions Cloud
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Déplacer des clients basés sur des licences à partir d’autres canaux & partenaires vers le programme du fournisseur de solutions Cloud (CSP)
 
 **Rôles appropriés**: administrateur de compte | Agent commercial | Agent de facturation
 
 Si votre client souhaite embaucher plusieurs partenaires, transférer ses abonnements à un autre partenaire ou gérer les abonnements achetés ailleurs, vous pouvez les déplacer manuellement. Vous pouvez également déplacer des clients dans l’espace partenaires à partir d’un autre canal.
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Déplacer les abonnements basés sur une licence de votre client vers le programme fournisseur de solutions Cloud (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-csp-program"></a>Déplacer les abonnements basés sur une licence de votre client vers le programme CSP
 
 1. Sélectionnez **clients** dans le menu espace partenaires, puis sélectionnez **demander une relation de revendeur**. Pour assurer la prise en charge des comptes multicanaux, vous devez faire la même chose.
 

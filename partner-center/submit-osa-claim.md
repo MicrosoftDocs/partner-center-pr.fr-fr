@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856098"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489949"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associations de clients via le modèle CPOR (Partner of record) revendiqué pour Microsoft 365 et Dynamics 365
 
@@ -24,15 +24,15 @@ ms.locfileid: "109856098"
 Le 1er octobre 2019, Microsoft a commencé à utiliser le modèle d’enregistrement (CPOR) du partenaire demandeur pour gérer les associations que vous avez avec votre Microsoft 365 et les clients Dynamics 365 en ce qui concerne la vente OSA (Online Services Advisory), l’utilisation des services en ligne (OSU)-Microsoft 365 et OSU-Business incentives sur les applications.
 
 >[!Important]
-> Les revendications de l’Association client (CPOR) s’appliquent uniquement à la vente des services de Conseil en ligne (OSA), à l’utilisation des services en ligne (OSU)-Microsoft 365 et aux programmes d’incentives des applications OSU-Business. Si vous soumettez une demande de remboursement pour un autre programme, tel que le fournisseur de solutions Cloud, le revendeur géré, l’hébergement ou la surface, reportez-vous à la procédure décrite ici. <br><br>Lorsque vous soumettez votre revendication, Microsoft la valide. Nous vous demanderons peut-être d’autres informations à ce stade. Nous informerons également le client de votre demande d’association. Les clients disposent de cinq jours ouvrés pour s’abonner. S’ils n’ont pas été refusés, votre association avec ce locataire et cette charge de travail spécifiques sera officielle. À ce stade, vous aurez accès aux données d’utilisation du client. 
+> Les revendications de l’Association client (CPOR) s’appliquent uniquement à la vente des services de Conseil en ligne (OSA), à l’utilisation des services en ligne (OSU)-Microsoft 365 et aux programmes d’incentives des applications OSU-Business. Si vous soumettez une demande de remboursement pour un autre programme, tel qu’un fournisseur de solutions Cloud (CSP), un revendeur géré, un hébergement ou une surface, reportez-vous à la procédure décrite ici. <br><br>Lorsque vous soumettez votre revendication, Microsoft la valide. Nous vous demanderons peut-être d’autres informations à ce stade. Nous informerons également le client de votre demande d’association. Les clients disposent de cinq jours ouvrés pour s’abonner. S’ils n’ont pas été refusés, votre association avec ce locataire et cette charge de travail spécifiques sera officielle. À ce stade, vous aurez accès aux données d’utilisation du client. 
 
 Vous aurez besoin des informations suivantes pour effectuer une revendication :
 
-- **ID MPN** de votre entité qui effectue la revendication
+- **ID MPN** (id de Microsoft Partner Network) de votre entité qui effectue la revendication
 
-- Nom de **domaine** du client [Rechercher ce](find-ids-and-domain-names.md)
+- Nom de **domaine** du client (pour plus d’informations, consultez [Rechercher l’ID de locataire, nom de domaine, ID d’objet utilisateur](find-ids-and-domain-names.md))
 
-- ID de **répertoire** ou **ID de locataire** du client [Rechercher ce](find-ids-and-domain-names.md)
+- ID de **répertoire** ou ID de **locataire** du client (pour plus d’informations, consultez [Rechercher l’ID de locataire, nom de domaine, ID d’objet utilisateur](find-ids-and-domain-names.md))
 
 - La **zone** de la solution, telle que Business Applications ou Microsoft 365
 
@@ -88,7 +88,7 @@ Vous devez également comprendre les points suivants :
    >[!NOTE]
    >Si votre produit est Dynamics 365 et que le produit que vous choisissez a plusieurs abonnements pour ce client particulier, vous devez également entrer l’ID d’abonnement.
 
-10. Fournissez votre preuve d’exécution (PoE). Vous pouvez la faire glisser vers la zone prévue, accéder à votre propre documentation de support ou utiliser un modèle en sélectionnant **Download template** (Télécharger un modèle). 
+10. Fournissez votre PoE. Vous pouvez la faire glisser vers la zone prévue, accéder à votre propre documentation de support ou utiliser un modèle en sélectionnant **Download template** (Télécharger un modèle). 
 
 11. Ajoutez puis enregistrez des commentaires si vous le souhaitez, puis sélectionnez **Submit claim** (Envoyer une demande). Nous enverrons un e-mail au client qui demande l’approbation de votre association client.
 
